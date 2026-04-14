@@ -1115,8 +1115,8 @@
     "extreme_combined_load_threshold": 900
   },
   "tier_counts": {
-    "normal": 13006,
-    "heavy": 8482,
+    "normal": 13247,
+    "heavy": 8484,
     "extreme": 14310
   },
   "verses_exceeding_margin_ref_cap": [

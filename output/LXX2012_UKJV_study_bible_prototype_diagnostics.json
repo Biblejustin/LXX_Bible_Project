@@ -8,6 +8,11 @@
   "ukjv": {
     "books_seen": 27
   },
+  "enoch_charles": {
+    "present": true,
+    "chapters_loaded": 36,
+    "records": 243
+  },
   "kalvesmaki_csv": {
     "rows": 4,
     "usable_rows": 3
@@ -125,7 +130,8 @@
     "1ES",
     "MAN",
     "3MA",
-    "4MA"
+    "4MA",
+    "ENO"
   ],
-  "total_records": 35798
+  "total_records": 36041
 }
