@@ -40,6 +40,9 @@
   4th-5th century AD.
 - Oldest complete medieval Masoretic codex commonly used in printed editions:
   Leningrad Codex, AD 1008.
+- Earlier Greek Septuagint fragments and codices place major LXX witness
+  history more than a millennium earlier than the standard complete Masoretic
+  codex base used in modern printed Hebrew Bibles.
 - Dead Sea Scrolls show earlier Hebrew textual diversity long before medieval
   Masoretic stabilization.
 - Jude 14-15 explicitly cites Enochic prophecy.
