@@ -22,6 +22,8 @@ OUTPUT_PREFIX = "Brenton_UKJV_study_bible_prototype"
 MODERN_OUTPUT_PREFIX = "Brenton_Modern_UKJV_study_bible_prototype"
 OUTPUT_PREFIX_CROSSREFS_ONLY = "Brenton_UKJV_study_bible_crossrefs_only"
 MODERN_OUTPUT_PREFIX_CROSSREFS_ONLY = "Brenton_Modern_UKJV_study_bible_crossrefs_only"
+OUTPUT_PREFIX_CROSSREFS_NORMAL = "Brenton_UKJV_study_bible_crossrefs_normal"
+MODERN_OUTPUT_PREFIX_CROSSREFS_NORMAL = "Brenton_Modern_UKJV_study_bible_crossrefs_normal"
 RIGHTS_MD = ROOT / "data" / "rights_and_rationale.md"
 CONVENTIONS_MD = ROOT / "data" / "editorial_conventions.md"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
@@ -42,6 +44,7 @@ KALVESMAKI_CSV = RAW / "Kalvesmaki chart.csv"
 KALVESMAKI_HTML = RAW / "Table of Old Testament quotes in the New Testament, in English translation.html"
 OPENBIBLE_CROSSREFS_ZIP = RAW / "cross-references.zip"
 ENOCH_CHARLES_TXT = RAW / "1_enoch_charles_1917.txt"
+NORMAL_CROSSREF_LIMIT = 12
 
 OT_BOOKS = [
     "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA",
@@ -1091,6 +1094,25 @@ def canonicalize_cross_references(refs: List[str]) -> List[str]:
     return compress_cross_reference_ranges(sorted(unique, key=sort_cross_reference_key))
 
 
+def select_display_cross_references(refs: List[str], normal_limit: Optional[int] = None) -> List[str]:
+    canonical_refs = canonicalize_cross_references(refs)
+    if not normal_limit or len(canonical_refs) <= normal_limit:
+        return canonical_refs
+    if normal_limit <= 1:
+        return canonical_refs[:1]
+    chosen_indexes = []
+    max_index = len(canonical_refs) - 1
+    for step in range(normal_limit):
+        index = round(step * max_index / (normal_limit - 1))
+        if not chosen_indexes or index != chosen_indexes[-1]:
+            chosen_indexes.append(index)
+    return [canonical_refs[index] for index in chosen_indexes]
+
+
+def trim_light_edition_records(records: List[VerseRecord]) -> List[VerseRecord]:
+    return [record for record in records if record.book_code not in APOCRYPHA_BOOKS]
+
+
 def merge_records(modernize_brenton: bool = False) -> Tuple[List[VerseRecord], Dict[str, object]]:
     brenton, brenton_diag = parse_brenton_usfm(modernize=modernize_brenton)
     ukjv, ukjv_diag = parse_ukjv_xml()
@@ -1186,7 +1208,12 @@ def chapter_heading(book_code: str, book_name: str, chapter: int) -> str:
     return f"{book_name} {chapter}"
 
 
-def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object], crossrefs_only: bool = False) -> str:
+def render_markdown(
+    records: List[VerseRecord],
+    diagnostics: Dict[str, object],
+    crossrefs_only: bool = False,
+    normal_crossrefs: bool = False,
+) -> str:
     book_intros = load_book_intros()
     lines = [
         "# Public-Domain Study Bible Prototype",
@@ -1262,8 +1289,12 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object], 
                 paragraph_notes.append(f"{record.ref} Brenton note: {note}")
             for note in record.study_notes:
                 paragraph_notes.append(f"{record.ref} {note}")
-        if record.cross_references:
-            paragraph_notes.append(f"{record.ref} Cross-refs: {'; '.join(record.cross_references)}")
+        display_crossrefs = select_display_cross_references(
+            record.cross_references,
+            NORMAL_CROSSREF_LIMIT if normal_crossrefs else None,
+        )
+        if display_crossrefs:
+            paragraph_notes.append(f"{record.ref} Cross-refs: {'; '.join(display_crossrefs)}")
     flush_paragraph()
     if APPENDIX_MD.exists():
         lines.append("")
@@ -1486,8 +1517,11 @@ def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
     return ""
 
 
-def format_crossref_paragraph_item(record: VerseRecord) -> str:
-    refs = canonicalize_cross_references(record.cross_references)
+def format_crossref_paragraph_item(record: VerseRecord, normal_crossrefs: bool = False) -> str:
+    refs = select_display_cross_references(
+        record.cross_references,
+        NORMAL_CROSSREF_LIMIT if normal_crossrefs else None,
+    )
     if not refs:
         return ""
     marker = (
@@ -1510,7 +1544,12 @@ def format_study_paragraph_item(record: VerseRecord) -> str:
     return marker + r"\," + " ".join(latex_escape(note) for note in notes)
 
 
-def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object], crossrefs_only: bool = False) -> str:
+def render_latex(
+    records: List[VerseRecord],
+    diagnostics: Dict[str, object],
+    crossrefs_only: bool = False,
+    normal_crossrefs: bool = False,
+) -> str:
     book_intros = load_book_intros()
     lines = [
         r"\documentclass[10pt,twoside]{article}",
@@ -1654,7 +1693,7 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object], cro
             study_item = format_study_paragraph_item(record)
             if study_item:
                 paragraph_study_notes.append(study_item)
-        crossref_item = format_crossref_paragraph_item(record)
+        crossref_item = format_crossref_paragraph_item(record, normal_crossrefs=normal_crossrefs)
         if crossref_item:
             paragraph_crossrefs.append(crossref_item)
     flush()
@@ -1750,14 +1789,32 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--modernize-brenton", action="store_true")
     parser.add_argument("--crossrefs-only", action="store_true")
+    parser.add_argument("--normal-crossrefs", action="store_true")
     args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
     if args.modernize_brenton:
-        output_prefix = MODERN_OUTPUT_PREFIX_CROSSREFS_ONLY if args.crossrefs_only else MODERN_OUTPUT_PREFIX
+        if args.crossrefs_only and args.normal_crossrefs:
+            output_prefix = MODERN_OUTPUT_PREFIX_CROSSREFS_NORMAL
+        elif args.crossrefs_only:
+            output_prefix = MODERN_OUTPUT_PREFIX_CROSSREFS_ONLY
+        else:
+            output_prefix = MODERN_OUTPUT_PREFIX
     else:
-        output_prefix = OUTPUT_PREFIX_CROSSREFS_ONLY if args.crossrefs_only else OUTPUT_PREFIX
+        if args.crossrefs_only and args.normal_crossrefs:
+            output_prefix = OUTPUT_PREFIX_CROSSREFS_NORMAL
+        elif args.crossrefs_only:
+            output_prefix = OUTPUT_PREFIX_CROSSREFS_ONLY
+        else:
+            output_prefix = OUTPUT_PREFIX
     records, diagnostics = merge_records(modernize_brenton=args.modernize_brenton)
-    markdown = render_markdown(records, diagnostics, crossrefs_only=args.crossrefs_only)
+    if args.crossrefs_only:
+        records = trim_light_edition_records(records)
+    markdown = render_markdown(
+        records,
+        diagnostics,
+        crossrefs_only=args.crossrefs_only,
+        normal_crossrefs=args.normal_crossrefs,
+    )
     md_path = OUTPUT / f"{output_prefix}.md"
     md_path.write_text(markdown, encoding="utf-8")
     json_path = OUTPUT / f"{output_prefix}_diagnostics.json"
@@ -1765,7 +1822,15 @@ def main() -> None:
     overflow_path = OUTPUT / f"{output_prefix}_overflow_report.json"
     overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
     tex_path = OUTPUT / f"{output_prefix}.tex"
-    tex_path.write_text(render_latex(records, diagnostics, crossrefs_only=args.crossrefs_only), encoding="utf-8")
+    tex_path.write_text(
+        render_latex(
+            records,
+            diagnostics,
+            crossrefs_only=args.crossrefs_only,
+            normal_crossrefs=args.normal_crossrefs,
+        ),
+        encoding="utf-8",
+    )
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
         "markdown": str(md_path),
