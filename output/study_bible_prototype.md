@@ -34761,7 +34761,7 @@ Notes:
 > **Conservative Notes** Codex Alexandrinus and Vaticanus preserve the Greek Psalter
 >
 
-## Psalms 1
+## Psalm 1
 
 ¹ Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of evil men. ² But his pleasure is in the law of the Lord; and in his law will he meditate day and night. ³ And he shall be as a tree planted by the brooks of waters, which shall yield its fruit in its season, and its leaf shall not fall off; and whatsoever he shall do shall be prospered.
 
@@ -34782,7 +34782,7 @@ Notes:
 - Psalms 1:5 Cross-refs: Ps 5:5; Ps 24:3; Luke 21:36; Jude 1:15; Ps 26:9; Mal 3:18; Matt 13:49; Matt 25:32; Matt 25:41; Matt 25:46
 - Psalms 1:6 Cross-refs: Ps 37:18-24; Ps 139:1-2; Ps 142:3; Job 23:10; Nah 1:7; John 10:14; John 10:27; 2Tim 2:19; Ps 112:10; Ps 146:9; Prov 14:12; Prov 15:9; Matt 7:13; 2Pet 2:12
 
-## Psalms 2
+## Psalm 2
 
 ¹ Wherefore did the heathen rage, and the nations imagine vain things? ² The kings of the earth stood up, and the rulers gathered themselves together, against the Lord, and against his Christ; ³ saying , Let us break through their bonds, and cast away their yoke from us.
 
@@ -34816,7 +34816,7 @@ Notes:
 - Psalms 2:12 Kiss, ; Son and etc. Or, "and ye lose the way, " or, "and ye perish in the way." The LXX, and Vulgate have, "and ye perish from the righteous way:" and the Syriac, "and ye perish from his way." ye perish; when; , Blessed
 - Psalms 2:12 Cross-refs: Gen 41:40; Gen 41:43-44; 1Sam 10:1; 1Kgs 19:18; Hos 13:2; John 5:23; Ps 2:7; Ps 1:6; John 14:6; Ps 2:5; 2Thess 1:8-9; Rev 6:16-17; Rev 14:9-11; Ps 40:4; Ps 84:12; Ps 146:3-5; Prov 16:20; Isa 26:3-4; Isa 30:18; Jer 17:7; Rom 9:33; Rom 10:11; Eph 1:12; 1Pet 1:21; 1Pet 2:6
 
-## Psalms 3
+## Psalm 3
 
 ¹ A Psalm of David, when he fled from the presence of his son Abessalom.
 
@@ -34841,7 +34841,7 @@ Notes:
 - Psalms 3:7 Cross-refs: Ps 10:12; Ps 12:5; Ps 35:23; Ps 44:23; Ps 59:5; Ps 74:11; Ps 76:9; Isa 51:9; Hab 2:19; Ps 58:6; Job 16:10; Job 29:17; Lam 3:30
 - Psalms 3:8 Cross-refs: Ps 37:39-40; Prov 21:31; Isa 43:11; Isa 45:21-22; Jer 3:23; Hos 13:4; Jonah 2:9; Acts 4:12; Rev 7:10; Rev 19:1; Ps 29:11; Ps 72:17; Acts 3:26; Eph 1:3; Heb 6:14; 1Pet 3:9
 
-## Psalms 4
+## Psalm 4
 
 ¹ For the end, a Song of David among the Psalms.
 
@@ -34873,7 +34873,7 @@ Notes:
 - Psalms 4:8 Cross-refs: Ps 3:5; Ps 16:8; Job 11:18-19; Prov 3:24; 1Thess 4:13-14; 1Thess 5:10; Rev 14:13; Lev 25:18-19; Lev 26:5; Deut 12:10; Deut 33:27-29; Ezek 34:25; Hos 2:18; Rom 8:35-39
 - Psalms 4:9 Brenton note: Or, at the same time.
 
-## Psalms 5
+## Psalm 5
 
 ¹ For the end, a Psalm of David, concerning her that inherits.
 
@@ -34915,7 +34915,7 @@ Notes:
 - Psalms 5:12 Cross-refs: Ps 1:1-3; Ps 3:8; Ps 29:11; Ps 112:1; Ps 115:13; Ps 32:10; Ps 3:3; Ps 84:11
 - Psalms 5:13 Brenton note: Lit. crowned.
 
-## Psalms 6
+## Psalm 6
 
 ¹ For the end, a Psalm of David among the Hymns for the eighth.
 
@@ -34943,7 +34943,7 @@ Notes:
 - Psalms 6:10 Let all, ;, ; sore, return; and be
 - Psalms 6:10 Cross-refs: Ps 5:10; Ps 7:6; Ps 25:3; Ps 35:26; Ps 40:14-15; Ps 71:13; Ps 83:16-17; Ps 86:17; Ps 109:28-29; Ps 112:10; Ps 132:18; Isa 26:11; Jer 20:11; Ps 2:5; Ps 21:8-9; Job 6:29; Mal 3:18; Prov 29:1; 1Thess 5:3
 
-## Psalms 7
+## Psalm 7
 
 ¹ A Psalm of David, which he sang to the Lord because of the words of Chusi the Benjamite.
 
@@ -34997,7 +34997,7 @@ Notes:
 - Psalms 7:16 Cross-refs: Ps 36:4; Ps 36:12; Ps 37:12-13; 1Sam 23:9; 1Sam 24:12-13; 1Sam 26:10; 1Sam 28:19; 1Sam 31:3-4; 1Kgs 2:32; Esth 9:25; Mal 2:3-5
 - Psalms 7:17 Cross-refs: Ps 35:28; Ps 51:14; Ps 71:15-16; Ps 98:2; Ps 111:3; Ps 145:7; Ps 9:2; Ps 92:1; Ps 92:8; Dan 4:17; Dan 4:25; Dan 4:34; Acts 7:48
 
-## Psalms 8
+## Psalm 8
 
 ¹ For the end, concerning the wine-presses, a Psalm of David.
 
@@ -35023,7 +35023,7 @@ Notes:
 - Psalms 8:8 Cross-refs: Ps 148:10; Gen 1:20-25; Job 38:39-41; Job 39:1-30; Job 40:15-24; Job 41:1-34
 - Psalms 8:9 Cross-refs: Ps 8:1; Ps 104:24; Deut 33:26; Job 11:7
 
-## Psalms 9
+## Psalm 9 (MT 9-10)
 
 ¹ For the end, a Psalm of David, concerning the secrets of the Son.
 
@@ -35090,7 +35090,7 @@ Notes:
 
 ³⁷ The Lord shall reign for ever, even for ever and ever: ye Gentiles shall perish out of his land. ³⁸ The Lord has heard the desire of the poor: thine ear has inclined to the preparation of their heart; ³⁹ to plead for the orphan and afflicted, that man may no more boast upon the earth.
 
-## Psalms 10
+## Psalm 10 (MT 11)
 
 ¹ For the end, a Psalm of David.
 
@@ -35119,7 +35119,7 @@ Notes:
 - Psalms 10:7 full, ; and deceit Heb. deceits, ; , ; under mischief, ; vanity or, iniquity
 - Psalms 10:7 Cross-refs: Ps 59:12; Ps 62:4; Rom 3:14; Ps 5:9; Ps 7:14; Ps 36:3; Ps 52:4; Ps 55:21; Ps 58:3; Ps 64:3; Isa 59:4; Jer 9:3; Jer 9:6; Rom 3:13; Job 20:12; Ps 140:9; Job 15:35; Matt 12:34; Jas 3:6-8; Ps 12:2; Ps 41:6; Ps 144:8; Ps 144:11; Prov 21:6; Prov 30:8
 
-## Psalms 11
+## Psalm 11 (MT 12)
 
 ¹ For the end, a Psalm of David, upon the eighth.
 
@@ -35146,7 +35146,7 @@ Notes:
 - Psalms 11:7 Brenton note: Gr. the earth.
 - Psalms 11:7 Cross-refs: Ps 45:7; Ps 99:4; Ps 146:8; Isa 61:8; Ps 5:12; Ps 21:6; Ps 33:18; Ps 34:15; Ps 42:5; Job 36:7; 1Pet 3:12
 
-## Psalms 12
+## Psalm 12 (MT 13)
 
 ¹ For the end, a Psalm of David.
 
@@ -35171,7 +35171,7 @@ Notes:
 Notes:
 - Psalms 12:6 Cross-refs: Ps 18:30; Ps 19:8; Ps 119:140; 2Sam 22:31; Prov 30:5; Ps 66:10
 
-## Psalms 13
+## Psalm 13 (MT 14)
 
 ¹ For the end, a Psalm of David.
 
@@ -35192,7 +35192,7 @@ Notes:
 - Psalms 13:5 Cross-refs: Ps 32:10; Ps 33:18; Ps 33:21-22; Ps 36:7; Ps 52:8; Ps 147:11; Isa 12:2; Jude 1:21; Ps 9:14; Ps 43:4-5; Ps 51:12; Ps 119:81; 1Sam 2:1; Hab 3:18; Luke 1:47; Luke 2:20
 - Psalms 13:6 Cross-refs: Ps 21:13; Ps 116:7; Ps 119:7
 
-## Psalms 14
+## Psalm 14 (MT 15)
 
 ¹ A Psalm of David.
 
@@ -35211,7 +35211,7 @@ Notes:
 - Psalms 14:5 were etc. Heb. they feared a fear, ; , God, ;, ; the generation
 - Psalms 14:5 Cross-refs: Ps 53:5; Exod 15:16; Esth 8:7; Prov 1:26-27; Prov 28:1; Ps 46:5; Ps 46:7; Ps 46:11; Isa 8:10; Isa 12:6; Isa 41:10; Isa 43:1-2; Matt 1:23; Ps 22:30; Ps 24:6; Ps 73:15; Ps 112:2; 1Pet 2:9
 
-## Psalms 15
+## Psalm 15 (MT 16)
 
 ¹ A writing of David.
 
@@ -35235,7 +35235,7 @@ Notes:
 Notes:
 - Psalms 15:7 Brenton note: Possibly, during the night. q. d. as long as night lasted.
 
-## Psalms 16
+## Psalm 16 (MT 17)
 
 ¹ A Prayer of David.
 
@@ -35273,7 +35273,7 @@ Notes:
 
 ¹⁵ But I shall appear in righteousness before thy face: I shall be satisfied when thy glory appears.
 
-## Psalms 17
+## Psalm 17 (MT 18)
 
 ¹ For the end, a Psalm of David the servant of the Lord; the words which he spoke to the Lord, even the words of this Song, in the day in which the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul: and he said:
 
@@ -35330,7 +35330,7 @@ Notes:
 Notes:
 - Psalms 17:49 Brenton note: Or, out of the way of.
 
-## Psalms 18
+## Psalm 18 (MT 19)
 
 ¹ For the end, a Psalm of David.
 
@@ -35374,7 +35374,7 @@ Notes:
 - Psalms 18:14 Cross-refs: Ps 21:12; Ps 77:17; Num 24:8; Deut 32:23; Deut 32:42; Josh 10:10; Job 6:4; Isa 30:30; Hab 3:11; Ps 144:6; Job 38:35; Job 40:9-12; Zech 9:14-15
 - Psalms 18:15 Cross-refs: Ps 74:15; Ps 106:9; Exod 15:8; Josh 3:13-16; 2Sam 22:16; Ps 104:5; Job 38:4-6; Jer 31:37; Jonah 2:6; Mic 6:2; 2Kgs 19:7; Job 4:9; Isa 11:4; Isa 30:27-28; Isa 30:33
 
-## Psalms 19
+## Psalm 19 (MT 20)
 
 ¹ For the end, a Psalm of David.
 
@@ -35407,7 +35407,7 @@ Notes:
 - Psalms 19:10 than gold, ; , sweeter, ; honeycomb Heb. the dropping of honey-combs
 - Psalms 19:10 Cross-refs: Ps 119:72; Ps 119:127; Job 28:15-17; Prov 3:13-15; Prov 8:10-11; Prov 8:19; Prov 16:16; Ps 63:5; Ps 119:103; Job 23:12; Prov 24:13; 1Sam 14:26-29
 
-## Psalms 20
+## Psalm 20 (MT 21)
 
 ¹ For the end, a Psalm of David.
 
@@ -35435,7 +35435,7 @@ Notes:
 - Psalms 20:9 Save etc. or, "O Jehovah, save the king; answer us when we call upon thee.";, let
 - Psalms 20:9 Cross-refs: Ps 118:25-26; Matt 21:9; Matt 21:15; Ps 2:6-10; Ps 5:2; Ps 24:7; Ps 44:4; Ps 74:12
 
-## Psalms 21
+## Psalm 21 (MT 22)
 
 ¹ For the end, concerning the morning aid, a Psalm of David.
 
@@ -35482,7 +35482,7 @@ Notes:
 
 ²⁷ The poor shall eat and be satisfied; and they shall praise the Lord that seek him: their heart shall live for ever. ²⁸ All the ends of the earth shall remember and turn to the Lord: and all the kindreds of the nations shall worship before him. ²⁹ For the kingdom is the Lord's; and he is the governor of the nations. ³⁰ All the fat ones of the earth have eaten and worshipped: all that go down to the earth shall fall down before him: my soul also lives to him. ³¹ And my seed shall serve him: the generation that is coming shall be reported to the Lord. ³² And they shall report his righteousness to the people that shall be born, whom the Lord has made.
 
-## Psalms 22
+## Psalm 22 (MT 23)
 
 ¹ A Psalm of David.
 
@@ -35500,7 +35500,7 @@ Notes:
 - Psalms 22:5 Cross-refs: Ps 99:6-7; Ps 106:44; Judg 4:3; Judg 6:6; Judg 10:10-16; Ps 25:2-3; Ps 31:1; Ps 69:6-7; Ps 71:1; Isa 45:17; Isa 49:23; Rom 9:33; Rom 10:11; 1Pet 2:6
 - Psalms 22:6 Cross-refs: Job 25:6; Isa 41:14; Ps 31:1; Ps 69:7-12; Ps 69:19-20; Ps 88:8; Isa 49:7; Isa 53:3; Lam 3:30; Matt 11:19; Matt 12:24; Matt 27:20-23; John 7:15; John 7:20; John 7:47-49; John 8:48; Rev 15:3; Heb 13:12
 
-## Psalms 23
+## Psalm 23 (MT 24)
 
 ¹ A Psalm for David on the first day of the week.
 
@@ -35528,7 +35528,7 @@ Notes:
 
 ⁷ Lift up your gates, ye princes, and be ye lifted up, ye everlasting doors; and the king of glory shall come in. ⁸ Who is this king of glory? the Lord strong and mighty, the Lord mighty in battle. ⁹ Lift up your gates, ye princes; and be ye lift up, ye everlasting doors; and the king of glory shall come in. ¹⁰ Who is this king of glory? The Lord of hosts, he is this king of glory.
 
-## Psalms 24
+## Psalm 24 (MT 25)
 
 ¹ A Psalm of David.
 
@@ -35557,7 +35557,7 @@ Notes:
 
 ¹⁵ Mine eyes are continually to the Lord; for he shall draw my feet out of the snare. ¹⁶ Look upon me, and have mercy upon me; for I am an only child and poor. ¹⁷ The afflictions of my heart have been multiplied; deliver me from my distresses. ¹⁸ Look upon mine affliction and my trouble; and forgive all my sins. ¹⁹ Look upon mine enemies; for they have been multiplied; and they have hated me with unjust hatred. ²⁰ Keep my soul, and deliver me: let me not be ashamed; for I have hoped in thee. ²¹ The harmless and upright joined themselves to me: for I waited for thee, O Lord. ²² Deliver Israel, O God, out of all his afflictions.
 
-## Psalms 25
+## Psalm 25 (MT 26)
 
 ¹ A Psalm of David.
 
@@ -35590,7 +35590,7 @@ Notes:
 - Psalms 25:12 Brenton note: Gr. in evenness or uprightness.
 - Psalms 25:12 Cross-refs: Ps 111:10; Prov 1:7; Prov 2:5; Prov 15:33; Prov 16:6; Eccl 12:13; Isa 50:10; Acts 10:2; Acts 10:22; Acts 13:26; Ps 32:8; Ps 37:23; Isa 35:8; John 3:20-21; John 7:17; John 8:31-32; Acts 11:14; 2Thess 2:10-12; 1John 2:27
 
-## Psalms 26
+## Psalm 26 (MT 27)
 
 ¹ A Psalm of David, before he was anointed.
 
@@ -35627,7 +35627,7 @@ Notes:
 Notes:
 - Psalms 26:13 Brenton note: Gr. good things.
 
-## Psalms 27
+## Psalm 27 (MT 28)
 
 ¹ A Psalm of David.
 
@@ -35663,7 +35663,7 @@ Notes:
 - Psalms 27:9 Hide, ; put; thou, ; leave, ; O God
 - Psalms 27:9 Cross-refs: Ps 13:1; Ps 44:24; Ps 69:17; Ps 102:2; Ps 143:7; Isa 59:2; Ps 51:11; Isa 50:1; Ps 71:5-6; Ps 71:17-18; 1Sam 7:12; Isa 46:3-4; 2Cor 1:9-10; 2Tim 4:17-18; Ps 38:21; Ps 119:121; 1Chr 28:9; Jer 32:40; Heb 13:5; Ps 24:5; Ps 38:21-22; Ps 88:1
 
-## Psalms 28
+## Psalm 28 (MT 29)
 
 ¹ A Psalm of David on the occasion of the solemn assembly of the Tabernacle.
 
@@ -35693,7 +35693,7 @@ Notes:
 - Psalms 28:9 Save, ; bless; , ; feed or, rule, ; , ; *marg. lift *marg.
 - Psalms 28:9 Cross-refs: Ps 14:7; Ps 25:22; Ps 80:14-19; Jer 31:7; Deut 9:29; 2Sam 21:3; 1Kgs 8:51; 1Kgs 8:53; Jer 10:16; Eph 1:18; Ps 78:71; 2Sam 7:7; Isa 40:11; Ezek 34:23-24; Mic 5:2; Mic 5:4; Mic 7:14; Matt 2:6; Ezra 1:4
 
-## Psalms 29
+## Psalm 29 (MT 30)
 
 ¹ For the end, a Psalm and Song at the dedication of the house of David.
 
@@ -35729,7 +35729,7 @@ Notes:
 - Psalms 29:10 Cross-refs: Ps 29:3; Ps 65:7; Ps 104:6-9; Gen 6:17; Gen 8:1-2; Job 38:8-11; Job 38:25; Mark 4:41; Ps 2:6-9; Ps 10:16; Ps 93:1; Ps 99:1; Dan 2:44; Matt 6:13; 1Tim 1:17
 - Psalms 29:11 Cross-refs: Ps 28:8-9; Ps 68:35; Ps 84:7; Ps 85:8; Ps 85:10; Ps 138:3; Isa 40:29; Isa 40:31; Isa 41:10; Zech 10:6; Zech 10:12; Eph 3:16; 2Tim 4:17; Ps 72:3; Ps 72:7; Num 6:24-27; Isa 9:6-7; John 14:27; John 16:33; Rom 14:17; 1Cor 1:3; Eph 2:17; 2Thess 3:16; Rev 1:4
 
-## Psalms 30
+## Psalm 30 (MT 31)
 
 ¹ For the end, a Psalm of David, an utterance of extreme fear.
 
@@ -35767,7 +35767,7 @@ Notes:
 
 ²⁴ Love the Lord, all ye his saints: for the Lord seeks for truth, and renders a reward to them that deal very proudly. ²⁵ Be of good courage, and let your heart be strengthened, all ye that hope in the Lord.
 
-## Psalms 31
+## Psalm 31 (MT 32)
 
 ¹ A Psalm of instruction by David.
 
@@ -35801,7 +35801,7 @@ Notes:
 - Psalms 31:11 I was, ;, ; , ; especially, ; a fear
 - Psalms 31:11 Cross-refs: Ps 22:6; Ps 69:19-20; Ps 89:50-51; Isa 49:7; Isa 53:4-5; Matt 27:39-44; Rom 15:3; Heb 11:36; Heb 13:13; 1Pet 4:14; Ps 38:11; Ps 41:8-9; Ps 88:8; Ps 88:18; Job 19:13-14; Jer 12:6; Mic 7:6; Matt 10:21-22; Ps 64:8; Job 6:21-23; Matt 26:56; Matt 26:74; 2Tim 4:16
 
-## Psalms 32
+## Psalm 32 (MT 33)
 
 ¹ A Psalm of David.
 
@@ -35834,7 +35834,7 @@ Notes:
 
 ¹⁸ Behold, the eyes of the Lord are on them that fear him, those that hope in his mercy; ¹⁹ to deliver their souls from death, and to keep them alive in famine. ²⁰ Our soul waits on the Lord; for he is our helper and defender. ²¹ For our heart shall rejoice in him, and we have hoped in his holy name. ²² Let thy mercy, O Lord, be upon us, according as we have hoped in thee.
 
-## Psalms 33
+## Psalm 33 (MT 34)
 
 ¹ A Psalm of David, when he changed his countenance before Abimelech; and he let him go, and he departed.
 
@@ -35886,7 +35886,7 @@ Notes:
 - Psalms 33:21 Cross-refs: Ps 13:5; Ps 28:7; Ps 30:10-12; Ps 32:10-11; Isa 25:9; Zech 10:7; John 16:22; 1Chr 16:10; 1Chr 16:35; Luke 1:47-50; Rev 4:8
 - Psalms 33:22 Cross-refs: Ps 5:11-12; Ps 13:5; Ps 32:10; Ps 119:49; Ps 119:76; Matt 9:29
 
-## Psalms 34
+## Psalm 34 (MT 35)
 
 ¹ A Psalm of David.
 
@@ -35940,7 +35940,7 @@ Notes:
 Notes:
 - Psalms 34:22 Cross-refs: Ps 31:5; Ps 71:23; Ps 103:4; Ps 130:8; Gen 48:16; 2Sam 4:9; 1Kgs 1:29; Lam 3:58; 1Pet 1:18-19; Rev 5:9; Ps 9:9-10; Ps 84:11-12; John 10:27-29; Rom 8:31-39; 1Pet 1:5
 
-## Psalms 35
+## Psalm 35 (MT 36)
 
 ¹ For the end, by David the servant of the Lord.
 
@@ -35983,7 +35983,7 @@ Notes:
 - Psalms 35:13 when; humbled or, afflicted, ; , ; my prayer
 - Psalms 35:13 Cross-refs: Ps 69:10-11; Job 30:25; Matt 5:44; Rom 12:14-15; Lev 16:29; Lev 16:31; 1Kgs 21:27-29; Isa 58:3; Isa 58:5; Matt 9:14-15; Matt 10:13; Luke 10:6
 
-## Psalms 36
+## Psalm 36 (MT 37)
 
 ¹ A Psalm of David.
 
@@ -36041,7 +36041,7 @@ Notes:
 
 ³⁵ I saw the ungodly very highly exalting himself, and lifting himself up like the cedars of Libanus. ³⁶ Yet I passed by, and lo! he was not: and I sought him, but his place was not found. ³⁷ Maintain innocence, and behold uprightness: for there is a remnant to the peaceable man. ³⁸ But the transgressors shall be utterly destroyed together: the remnants of the ungodly shall be utterly destroyed. ³⁹ But the salvation of the righteous is of the Lord; and he is their defender in the time of affliction. ⁴⁰ And the Lord shall help them, and deliver them: and he shall rescue them from sinners, and save them, because they have hoped in him.
 
-## Psalms 37
+## Psalm 37 (MT 38)
 
 ¹ A Psalm of David for remembrance concerning the Sabbath-day.
 
@@ -36095,7 +36095,7 @@ Notes:
 - Psalms 37:23 steps, ; ordered or, established, ; delighteth
 - Psalms 37:23 Cross-refs: Ps 17:5; Ps 85:13; Ps 119:133; Ps 121:3; Ps 121:8; 1Sam 2:9; Job 23:11-12; Prov 16:9; Jer 10:23; Ps 40:2; Prov 4:26; Ps 147:10; Prov 11:1; Prov 11:20; Jer 9:24; Heb 13:16
 
-## Psalms 38
+## Psalm 38 (MT 39)
 
 ¹ For the end, a Song of David, to Idithun.
 
@@ -36141,7 +36141,7 @@ Notes:
 - Psalms 38:13 Cross-refs: Ps 39:2; Ps 39:9; 2Sam 16:10-12; Isa 53:7; 1Pet 2:23
 - Psalms 38:14 Cross-refs: Amos 5:13; Mic 7:5; Mark 15:3-5; John 8:6
 
-## Psalms 39
+## Psalm 39 (MT 40)
 
 ¹ For the end, a Psalm of David.
 
@@ -36181,7 +36181,7 @@ Notes:
 - Psalms 39:12 Cross-refs: Ps 56:8; Ps 116:3; 2Sam 16:12; 2Kgs 20:5; Job 16:20; Heb 5:7; Ps 119:19; Ps 119:54; Lev 25:23; 1Chr 29:15; 2Cor 5:6; Heb 11:13; 1Pet 1:17; 1Pet 2:11; Gen 47:9
 - Psalms 39:13 Cross-refs: Job 10:20-21; Job 14:5-6; Gen 5:24; Gen 42:36; Job 14:10-12
 
-## Psalms 40
+## Psalm 40 (MT 41)
 
 ¹ For the end, a Psalm of David.
 
@@ -36222,7 +36222,7 @@ Notes:
 - Psalms 40:14 Let them be ashamed The verbs in the preceding verse, in which the psalmist simply prays for deliverance, are in the imperative; but here, and in the following verses, they are in the future tense, and naturally express the language of lively faith and hope, rather than that of wishing the destruction foreseen and predicted., ;, that driven
 - Psalms 40:14 Cross-refs: Ps 31:17-18; Ps 35:4; Ps 35:26; Ps 70:2-3; Ps 71:13; Isa 41:11; Isa 45:24; Matt 21:38-41; Ps 9:3; John 18:6; Acts 9:4-6; Acts 12:23-24
 
-## Psalms 41
+## Psalm 41 (MT 42)
 
 ¹ For the end, a Psalm for instruction, for the sons of Core.
 
@@ -36263,7 +36263,7 @@ Notes:
 Notes:
 - Psalms 41:12 Cross-refs: Ps 25:21; Ps 94:18; Ps 16:11; Ps 17:15; Ps 34:15; Ps 73:23-24; Job 36:7; John 17:24
 
-## Psalms 42
+## Psalm 42 (MT 43)
 
 ¹ A Psalm of David.
 
@@ -36285,7 +36285,7 @@ Notes:
 - Psalms 42:5 Why art thou cast down Heb. Why art thou bowed down, ; hope, ; praise him or, give thanks for the help etc. or, his presence is salvation
 - Psalms 42:5 Cross-refs: Ps 42:11; Ps 35:14; Ps 43:5; Ps 55:4-5; Ps 61:2; Ps 142:2-3; Ps 143:3-4; 1Sam 30:6; Mark 14:33-34; Ps 27:13-14; Ps 37:7; Ps 56:3; Ps 56:11; Ps 71:14; Job 13:15; Isa 50:10; Lam 3:24-26; Rom 4:18-20; Heb 10:36-37; Ps 44:3; Ps 91:15-16; Num 6:26; Matt 1:23; Matt 28:20
 
-## Psalms 43
+## Psalm 43 (MT 44)
 
 ¹ For the end, a Psalm for instruction, for the sons of Core.
 
@@ -36317,7 +36317,7 @@ Notes:
 
 ²⁴ Awake, wherefore sleepest thou, O Lord? arise, and do not cast us off for ever. ²⁵ Wherefore turnest thou thy face away, and forgettest our poverty and our affliction? ²⁶ For our soul has been brought down to the dust; our belly has cleaved to the earth. ²⁷ Arise, O Lord, help us, and redeem us for thy name's sake.
 
-## Psalms 44
+## Psalm 44 (MT 45)
 
 ¹ For the end, for alternate strains by the sons of Core; for instruction, a Song concerning the beloved.
 
@@ -36373,7 +36373,7 @@ Notes:
 - Psalms 44:18 heart, ; have, ; steps or, goings
 - Psalms 44:18 Cross-refs: Ps 78:57; Ps 125:5; 1Kgs 15:5; Job 34:27; Jer 11:10; Zeph 1:6; Luke 17:32; Ps 119:51; Ps 119:157; Job 23:11-12; 1Cor 15:58; 1Thess 2:10
 
-## Psalms 45
+## Psalm 45 (MT 46)
 
 ¹ For the end, for the sons of Core; a Psalm concerning secret things.
 
@@ -36405,7 +36405,7 @@ Notes:
 - Psalms 45:12 And the; with; rich;, favour Heb. face
 - Psalms 45:12 Cross-refs: Isa 23:17-18; Acts 21:3-6; Ps 72:10; Isa 60:6-7; Matt 2:11; Ps 22:29; Isa 49:23; Isa 60:3; Isa 60:10-11
 
-## Psalms 46
+## Psalm 46 (MT 47)
 
 ¹ For the end, a Psalm for the sons of Core.
 
@@ -36435,7 +36435,7 @@ Notes:
 - Psalms 46:10 Be still; know, ; I will be
 - Psalms 46:10 Cross-refs: Hab 2:20; Zech 2:13; Ps 83:18; Ps 100:3; Exod 18:11; 1Sam 17:46; 1Kgs 18:36; 2Kgs 19:12; Ps 21:13; Ps 57:5; 1Chr 29:11; Isa 2:11; Isa 2:17; Isa 5:16; Ezek 38:23; Rev 15:3-4
 
-## Psalms 47
+## Psalm 47 (MT 48)
 
 ¹ A Psalm of praise for the sons of Core on the second day of the week.
 
@@ -36467,7 +36467,7 @@ Notes:
 
 ¹³ Go round about Sion, and encompass her: tell ye her towers. ¹⁴ Mark ye well her strength, and observe her palaces; that ye may tell the next generation. ¹⁵ For this is our God for ever and ever: he will be our guide for evermore.
 
-## Psalms 48
+## Psalm 48 (MT 49)
 
 ¹ For the end, a Psalm for the sons of Core.
 
@@ -36511,7 +36511,7 @@ Notes:
 Notes:
 - Psalms 48:20 Brenton note: Gr. as far as.
 
-## Psalms 49
+## Psalm 49 (MT 50)
 
 ¹ A Psalm for Asaph.
 
@@ -36567,7 +36567,7 @@ Notes:
 Notes:
 - Psalms 49:23 Brenton note: Gr. there.
 
-## Psalms 50
+## Psalm 50 (MT 51)
 
 ¹ For the end, a Psalm of David, ² when Nathan the prophet came to him, when he had gone in to Bersabee.
 
@@ -36621,7 +36621,7 @@ Notes:
 - Psalms 50:21 I kept, ; , ; thoughtest, ; that I was altogether such an one as thyself Or, as Bishop Horsley renders, "that I AM ( Eheyeh ) is such an one as thyself." will; set
 - Psalms 50:21 Cross-refs: Ps 50:3; Ps 109:1-3; Eccl 8:11-12; Isa 26:10; Isa 57:11; Rom 2:4-5; 2Pet 3:9; Ps 73:11; Ps 94:7-11; Num 23:19; Isa 40:15-18; Exod 3:14; Ps 50:8; Prov 29:1; Rev 3:19; Ps 90:8; Eccl 12:14; Amos 8:7; 1Cor 4:5
 
-## Psalms 51
+## Psalm 51 (MT 52)
 
 ¹ For the end, a Psalm of instruction by David, ² when Doec the Idumean came and told Saul, and said to him, David is gone to the house of Abimelech.
 
@@ -36655,7 +36655,7 @@ Notes:
 - Psalms 51:10 Cross-refs: 2Cor 5:17; Eph 2:10; Ps 73:1; Prov 20:9; Jer 13:27; Jer 32:39; Ezek 11:19; Ezek 18:31; Ezek 36:25-27; Ezek 36:37; Matt 5:8; Acts 15:9; 1Pet 1:22; Rom 12:2; Eph 4:22-24; Col 3:10; Titus 3:5; Ps 78:8; Ps 78:37; Josh 14:14; 1Kgs 15:3-5; Acts 11:23; 1Cor 15:58; Jas 1:8
 - Psalms 51:11 Cross-refs: Ps 43:2; Ps 71:9; Ps 71:18; Gen 4:14; 2Kgs 13:23; 2Kgs 17:18-23; 2Kgs 23:27; 2Thess 1:9; Gen 6:3; Judg 13:25; Judg 15:14; Judg 16:20; 1Sam 10:10; 1Sam 16:14; 2Sam 7:15; Isa 63:10-11; Luke 11:13; John 14:26; Rom 1:4; Rom 8:9; Eph 4:30
 
-## Psalms 52
+## Psalm 52 (MT 53)
 
 ¹ For the end, a Psalm of David upon Maeleth, of instruction.
 
@@ -36680,7 +36680,7 @@ Notes:
 - Psalms 52:7 Lo; made; trusted, ; strengthened, ; wickedness or, substance
 - Psalms 52:7 Cross-refs: Isa 14:16-17; John 19:5; Ps 146:3-5; Jer 17:5; Ps 49:6-20; Ps 62:9-10; Job 31:24-25; 1Tim 6:17; Ps 73:7-11; Ps 73:18-20; Eccl 8:8; Hos 12:7-8
 
-## Psalms 53
+## Psalm 53 (MT 54)
 
 ¹ For the end, among the Hymns of instruction by David, ² when the Ziphites came and said to Saul, Lo, is not David hid with us?
 
@@ -36704,7 +36704,7 @@ Notes:
 - Psalms 53:6 Oh etc. Heb. Who will give salvations, etc. out;, God Instead of elohim, "God, " more than 20 manuscripts, with the LXX, Syriac, and Chaldee, read yehowah, "Jehovah, " as in . bringeth, ; , ; Jacob
 - Psalms 53:6 Cross-refs: Ps 14:7; Ps 50:2; Isa 12:6; Isa 14:32; Ps 85:1; Ps 126:1-4; Job 42:10; Jer 30:18; Jer 31:23; Joel 3:1; Amos 9:14; Ps 106:46-48; Ezra 3:11; Neh 12:43; Isa 12:1-3
 
-## Psalms 54
+## Psalm 54 (MT 55)
 
 ¹ For the end, among Hymns of instruction by David.
 
@@ -36745,7 +36745,7 @@ Notes:
 Notes:
 - Psalms 54:23 Brenton note: Or, nourish.
 
-## Psalms 55
+## Psalm 55 (MT 56)
 
 ¹ For the end, concerning the people that were removed from the sanctuary, by David for a memorial, when the Philistines caught him in Geth.
 
@@ -36787,7 +36787,7 @@ Notes:
 - Psalms 55:14 We took sweet counsel together Heb. Who sweetened counsel, walked.
 - Psalms 55:14 Cross-refs: Ps 42:4; Ps 122:1; Isa 2:3; Ezek 33:31
 
-## Psalms 56
+## Psalm 56 (MT 57)
 
 ¹ For the end. Destroy not: by David, for a memorial, when he fled from the presence of Saul to the cave.
 
@@ -36816,7 +36816,7 @@ Notes:
 - Psalms 56:11 Cross-refs: Ps 27:1; Ps 112:7-8; Isa 51:7-8; Isa 51:12-13
 - Psalms 56:12 Cross-refs: Ps 66:13-14; Ps 76:11; Ps 116:14-19; Ps 119:106; Gen 28:20-22; Gen 35:1-3; Num 30:2-16; 1Sam 1:11; 1Sam 1:24-28; Eccl 5:4-6; Ps 9:1-3; Ps 21:13; Ps 59:16-17; Isa 12:1
 
-## Psalms 57
+## Psalm 57 (MT 58)
 
 ¹ For the end. Destroy not: by David, for a memorial.
 
@@ -36852,7 +36852,7 @@ Notes:
 - Psalms 57:11 Cross-refs: Ps 57:5; Ps 8:1; Ps 8:9; Rev 15:3-4
 - Psalms 57:12 Brenton note: Gr. fruit.
 
-## Psalms 58
+## Psalm 58 (MT 59)
 
 ¹ For the end. Destroy not: by David for a memorial, when Saul sent, and watched his house to kill him.
 
@@ -36895,7 +36895,7 @@ Notes:
 
 ¹⁷ But I will sing to thy strength, and in the morning will I exult in thy mercy; for thou hast been my supporter, and my refuge in the day of mine affliction. ¹⁸ Thou art my helper; to thee, my God, will I sing; thou art my supporter, O my God, and my mercy.
 
-## Psalms 59
+## Psalm 59 (MT 60)
 
 ¹ For the end, for them that shall yet be changed; for an inscription by David for instruction, ² when he had burned Mesopotamia of Syria, and Syria Sobal, and Joab had returned and smitten in the valley of salt twelve thousand.
 
@@ -36939,7 +36939,7 @@ Notes:
 - Psalms 59:14 Brenton note: Gr. work power.
 - Psalms 59:14 Cross-refs: Ps 59:6; Ps 22:16
 
-## Psalms 60
+## Psalm 60 (MT 61)
 
 ¹ For the end, among the Hymns of David.
 
@@ -36966,7 +36966,7 @@ Notes:
 - Psalms 60:9 Who, ;, strong city Heb. city of strength
 - Psalms 60:9 Cross-refs: Judg 1:12; Judg 1:24-25; 1Chr 11:6; 1Chr 11:17-19; 2Sam 11:1; 2Sam 12:26-31
 
-## Psalms 61
+## Psalm 61 (MT 62)
 
 ¹ For the end, a Psalm of David for Idithun.
 
@@ -36998,7 +36998,7 @@ Notes:
 Notes:
 - Psalms 61:10 Brenton note: Gr. altogether.
 
-## Psalms 62
+## Psalm 62 (MT 63)
 
 ¹ A Psalm of David, when he was in the wilderness of Idumea.
 
@@ -37032,7 +37032,7 @@ Notes:
 - Psalms 62:11 Cross-refs: Job 33:14; Job 40:5; Ps 68:34-35; Isa 26:4; Matt 6:13; Matt 28:18; John 19:11; Rev 19:1
 - Psalms 62:12 Cross-refs: Ps 86:15; Ps 103:8; Ps 103:17; Exod 34:6-7; Dan 9:9; Dan 9:18; Mic 7:18; Job 34:11; Prov 24:12; Jer 32:19; Ezek 7:27; Ezek 18:30; Ezek 33:20; Matt 16:27; Rom 2:6; 1Cor 3:8; 2Cor 5:10; Eph 6:8; Col 3:25; 1Pet 1:17; Rev 22:12
 
-## Psalms 63
+## Psalm 63 (MT 64)
 
 ¹ For the end, a Psalm of David.
 
@@ -37058,7 +37058,7 @@ Notes:
 - Psalms 63:11 But etc. David shall come to the kingdom according to the promise of God. the king, ;, sweareth;, ; the mouth
 - Psalms 63:11 Cross-refs: Ps 2:6; Ps 21:1; 1Sam 23:17; 1Sam 24:20; Deut 6:13; Isa 19:18; Isa 45:23; Isa 65:16; Zeph 1:5; Heb 6:13; Ps 31:18; Rom 3:19; Titus 1:10-11
 
-## Psalms 64
+## Psalm 64 (MT 65)
 
 ¹ For the end, a Psalm and Song of David.
 
@@ -37086,7 +37086,7 @@ Notes:
 Notes:
 - Psalms 64:10 Cross-refs: Ps 32:11; Ps 33:1; Ps 40:3; Ps 58:10; Ps 68:2-3; Phil 4:4; Ps 97:11; Ps 112:2; 1Cor 1:30-31; Gal 6:14
 
-## Psalms 65
+## Psalm 65 (MT 66)
 
 ¹ For the end, a Song of a Psalm of resurrection.
 
@@ -37133,7 +37133,7 @@ Notes:
 
 ¹⁶ Come, hear, and I will tell, all ye that fear God, how great things he has done for my soul. ¹⁷ I cried to him with my mouth, and exalted him with my tongue. ¹⁸ If I have regarded iniquity in my heart, let not the Lord hearken to me . ¹⁹ Therefore God has hearkened to me; he has attended to the voice of my prayer. ²⁰ Blessed be God, who has not turned away my prayer, nor his mercy from me.
 
-## Psalms 66
+## Psalm 66 (MT 67)
 
 ¹ For the end, a Psalm of David among the Hymns.
 
@@ -37153,7 +37153,7 @@ Notes:
 - Psalms 66:7 Cross-refs: Ps 62:11; Dan 4:35; Dan 6:26-27; Matt 6:13; Matt 28:18; Ps 11:4; Ps 33:13; 2Chr 16:9; Ps 2:10-12; Ps 52:1-5; Ps 73:3-12; Ps 75:4-5; Exod 18:11; Job 9:4; Isa 10:7-16; Isa 37:28-29; Dan 5:20-28
 - Psalms 66:8 Cross-refs: Deut 32:43; Rom 15:10-11; Ps 66:2; Ps 47:1; Jer 33:11; Rev 5:11-14; Rev 19:1; Rev 19:5-6
 
-## Psalms 67
+## Psalm 67 (MT 68)
 
 ¹ For the end, a Psalm of a Song by David.
 
@@ -37202,7 +37202,7 @@ Notes:
 - Psalms 67:34 Brenton note: Gr. mounts, or, has mounted.
 - Psalms 67:36 Brenton note: Or, among his holy ones.
 
-## Psalms 68
+## Psalm 68 (MT 69)
 
 ¹ For the end, a Psalm of David, for alternate strains .
 
@@ -37287,7 +37287,7 @@ Notes:
 - Psalms 68:35 terrible, ; he that giveth; , ; Blessed
 - Psalms 68:35 Cross-refs: Ps 45:4; Ps 65:5; Ps 66:5; Ps 76:12; Exod 15:1; Neh 1:5; Heb 12:24-29; Rev 6:16-17; Ps 29:11; Deut 33:25; Isa 40:31; Isa 45:21; Zech 10:12; Eph 3:16; Phil 4:13; Col 1:11; Ps 72:18-19
 
-## Psalms 69
+## Psalm 69 (MT 70)
 
 ¹ For the end, by David for a remembrance, that the Lord may save me.
 
@@ -37309,7 +37309,7 @@ Notes:
 - Psalms 69:6 Let not, ; O God of Israel
 - Psalms 69:6 Cross-refs: Ps 7:7; Ps 25:3; Ps 35:26; Isa 49:23; Luke 24:19-21; Acts 4:7; Ps 72:18; 2Sam 23:3; Acts 13:17; Acts 13:23
 
-## Psalms 70
+## Psalm 70 (MT 71)
 
 ¹ By David, a Psalm sung by the sons of Jonadab, and the first that were taken captive.
 
@@ -37338,7 +37338,7 @@ Notes:
 Notes:
 - Psalms 70:24 Brenton note: Lit. meditate.
 
-## Psalms 71
+## Psalm 71 (MT 72)
 
 ¹ For Solomon.
 
@@ -37391,7 +37391,7 @@ Notes:
 - Psalms 71:19 Cross-refs: Ps 36:5-6; Ps 57:10; Ps 139:6; Prov 15:24; Prov 24:7; Isa 5:16; Isa 55:9; Ps 72:18; Ps 126:2-3; Job 5:9; Ps 35:10; Ps 86:8; Ps 89:6-8; Exod 15:11; Isa 40:18; Isa 40:25; Jer 10:7
 - Psalms 71:20 Cross-refs: Ps 40:1-3; Ps 60:3; Ps 66:10-12; Ps 88:6-18; Ps 138:7; 2Sam 12:11; Mark 14:33-34; Mark 15:34; 2Cor 11:23-31; Rev 7:14; Ps 80:18; Isa 26:19; Hos 6:1-2; Acts 2:24; Acts 2:32-34; Ps 16:10; Ps 40:2; Ps 86:13; Isa 38:17; Ezek 37:12-13; Jonah 2:6; Eph 4:9
 
-## Psalms 72
+## Psalm 72 (MT 73)
 
 ¹ A Psalm for Asaph.
 
@@ -37450,7 +37450,7 @@ Notes:
 
 ²⁷ For, behold, they that remove themselves far from thee shall perish: thou hast destroyed every one that goes a whoring from thee. ²⁸ But it is good for me to cleave close to God, to put my trust in the Lord; that I may proclaim all thy praises in the gates of the daughter of Sion.
 
-## Psalms 73
+## Psalm 73 (MT 74)
 
 ¹ A Psalm of instruction for Asaph.
 
@@ -37508,7 +37508,7 @@ Notes:
 - Psalms 73:22 Cross-refs: Ps 69:5; Ps 92:6; Prov 30:2; Eccl 3:18; Ps 32:9; Isa 1:3
 - Psalms 73:23 Cross-refs: Ps 16:8; Ps 23:4; Ps 139:1-12; Ps 139:18; Gen 17:1; Matt 1:23; Matt 28:20; Heb 13:5; Ps 37:17; Ps 37:24; Ps 63:8; Isa 41:10; Isa 41:13; Isa 42:1
 
-## Psalms 74
+## Psalm 74 (MT 75)
 
 ¹ For the end, Destroy not, a Psalm of a Song for Asaph.
 
@@ -37543,7 +37543,7 @@ Notes:
 - Psalms 74:11 withdrawest; pluck it out As the outward habit of the easterns has no sleeves, the hands and arms are frequently covered with the folds of the robe; and, in order to do anything, the hand must be disentangled, and drawn out.
 - Psalms 74:11 Cross-refs: Isa 64:12; Lam 2:3; Ps 44:23; Ps 78:65-66
 
-## Psalms 75
+## Psalm 75 (MT 76)
 
 ¹ For the end, among the Hymns, a Psalm for Asaph; a Song for the Assyrian.
 
@@ -37574,7 +37574,7 @@ Notes:
 
 ¹¹ For the inward thought of man shall give thanks to thee: and the memorial of his inward thought shall keep a feast to thee. ¹² Vow, and pay your vows to the Lord our God; all that are round about him shall bring gifts, even to him that is terrible, ¹³ and that takes away the spirits of princes; to him that is terrible among the kings of the earth.
 
-## Psalms 76
+## Psalm 76 (MT 77)
 
 ¹ For the end, for Idithun, a Psalm of Asaph.
 
@@ -37608,7 +37608,7 @@ Notes:
 
 ¹⁴ O God, thy way is in the sanctuary; who is a great God as our God? ¹⁵ Thou art the God that doest wonders; thou hast made known thy power among the nations. ¹⁶ Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Pause. ¹⁷ The waters saw thee, O God, the waters saw thee, and feared; and the depths were troubled. ¹⁸ There was an abundant sound of waters: the clouds uttered a voice; for thine arrows went abroad. ¹⁹ The voice of thy thunder was abroad, and around thy lightnings appeared to the world; the earth trembled and quaked. ²⁰ Thy way is in the sea, and thy paths in many waters, and thy footsteps cannot be known. ²¹ Thou didst guide thy people as sheep by the hand of Moses and Aaron.
 
-## Psalms 77
+## Psalm 77 (MT 78)
 
 ¹ A Psalm of instruction for Asaph.
 
@@ -37690,7 +37690,7 @@ Notes:
 
 ⁶⁷ And he rejected the tabernacle of Joseph, and chose not the tribe of Ephraim; ⁶⁸ but chose the tribe of Juda, the mount Sion which he loved. ⁶⁹ And he built his sanctuary as the place of unicorns; he founded it for ever on the earth. ⁷⁰ He chose David also his servant, and took him up from the flocks of sheep. ⁷¹ He took him from following the ewes great with young, to be the shepherd of Jacob his servant, and Israel his inheritance. ⁷² So he tended them in the innocency of his heart; and guided them by the skilfulness of his hands.
 
-## Psalms 78
+## Psalm 78 (MT 79)
 
 ¹ A Psalm for Asaph.
 
@@ -37730,7 +37730,7 @@ Notes:
 - Psalms 78:12 Cross-refs: Ps 78:42-50; Ps 105:27-38; Ps 135:9; Deut 4:34; Deut 6:22; Neh 9:10; Ps 78:43; Gen 32:3; Num 13:22; Isa 19:11; Isa 19:13; Ezek 30:14
 - Psalms 78:13 Cross-refs: Ps 66:6; Ps 106:9-10; Ps 136:13-15; Isa 63:13; 1Cor 10:2-3; Ps 38:7; Josh 3:16; Hab 3:15
 
-## Psalms 79
+## Psalm 79 (MT 80)
 
 ¹ For the end, for alternate strains , a testimony for Asaph, a Psalm concerning the Assyrian.
 
@@ -37779,7 +37779,7 @@ Notes:
 
 ¹⁹ So will we not depart from thee: thou shalt quicken us, and we will call upon thy name. ²⁰ Turn us, O Lord God of hosts, and make thy face to shine; and we shall be saved.
 
-## Psalms 80
+## Psalm 80 (MT 81)
 
 ¹ For the end, a Psalm for Asaph, concerning the wine-presses.
 
@@ -37831,7 +37831,7 @@ Notes:
 - Psalms 80:16 Cross-refs: Ps 79:5; Isa 27:11; Ezek 20:47-48; John 15:6; Ps 39:11; Ps 76:6-7; Ps 90:7; 2Thess 1:9
 - Psalms 80:17 Cross-refs: Ps 80:15; Ps 89:21; Ps 110:1; Isa 53:5; Dan 7:13-14; John 5:21-29
 
-## Psalms 81
+## Psalm 81 (MT 82)
 
 ¹ A Psalm for Asaph.
 
@@ -37861,7 +37861,7 @@ Notes:
 Notes:
 - Psalms 81:8 Cross-refs: Ps 50:7; Deut 32:46; Isa 55:3-4; John 3:11; John 3:32-33; Acts 20:21; 1John 5:9; Ps 81:13; Exod 15:26; Deut 5:27; Isa 1:19
 
-## Psalms 82
+## Psalm 82 (MT 83)
 
 ¹ A Song of a Psalm for Asaph.
 
@@ -37891,7 +37891,7 @@ Notes:
 Notes:
 - Psalms 82:13 Brenton note: Alex. sanctuary.
 
-## Psalms 83
+## Psalm 83 (MT 84)
 
 ¹ For the end, a Psalm for the sons of Core, concerning the wine-presses.
 
@@ -37928,7 +37928,7 @@ Notes:
 - Psalms 83:13 O my, like as the
 - Psalms 83:13 Cross-refs: Ps 22:1; Ps 44:4; Ps 74:11-12; Isa 17:12-14; Ps 35:5; Ps 68:1-2; Exod 15:7; Job 13:25; Job 21:18; Isa 40:24; Isa 41:2; Jer 13:24; Matt 3:12
 
-## Psalms 84
+## Psalm 84 (MT 85)
 
 ¹ For the end, a Psalm for the sons of Core.
 
@@ -37963,7 +37963,7 @@ Notes:
 - Psalms 84:11 Cross-refs: Ps 27:1; Isa 60:19-20; Mal 4:2; John 1:9; John 8:12; Rev 21:23; Ps 84:9; Ps 3:3; Ps 47:9; Ps 115:9-11; Ps 119:114; Gen 15:1; Prov 2:7; John 1:16; Rom 8:16-18; 2Cor 3:18; 2Cor 4:17; Phil 1:6; Ps 34:9-10; Ps 85:12; Matt 6:33; Phil 4:19; Ps 15:2; Prov 10:9; Prov 28:6; Prov 28:18; Mic 2:7; Gal 2:14
 - Psalms 84:12 Cross-refs: Ps 2:12; Ps 34:8; Ps 62:8; Ps 146:5-6; Isa 30:18; Isa 50:10; Jer 17:7-8
 
-## Psalms 85
+## Psalm 85 (MT 86)
 
 ¹ A Prayer of David.
 
@@ -37997,7 +37997,7 @@ Notes:
 
 ¹⁴ O God, transgressors have risen up against me, and an assembly of violent men have sought my life; and have not set thee before them. ¹⁵ But thou, O Lord God, art compassionate and merciful, long-suffering, and abundant in mercy and true. ¹⁶ Look thou upon me, and have mercy upon me: give thy strength to thy servant, and save the son of thine handmaid. ¹⁷ Establish with me a token for good; and let them that hate me see it and be ashamed; because thou, O Lord, hast helped me, and comforted me.
 
-## Psalms 86
+## Psalm 86 (MT 87)
 
 ¹ A Psalm of a Song for the sons of Core.
 
@@ -38022,7 +38022,7 @@ Notes:
 - Psalms 86:6 Cross-refs: Ps 5:1-2; Ps 17:1; Ps 130:2
 - Psalms 86:7 Cross-refs: Ps 18:6; Ps 34:4-6; Ps 50:15; Ps 55:16-18; Ps 77:1-2; Ps 91:15; Ps 142:1; Ps 142:3; Isa 26:16; Lam 3:55-57; Jonah 2:2; Luke 22:44; Heb 5:7
 
-## Psalms 87
+## Psalm 87 (MT 88)
 
 ¹ A song of a Psalm for the sons of Core for the end, upon Maeleth for responsive strains , of instruction for Æman the Israelite.
 
@@ -38059,7 +38059,7 @@ Notes:
 - Psalms 87:16 Brenton note: See 2 Cor. 4. 8.
 - Psalms 87:19 Brenton note: Alex. friend and neighbour.
 
-## Psalms 88
+## Psalm 88 (MT 89)
 
 ¹ A Psalm of instruction for Ætham the Israelite.
 
@@ -38120,7 +38120,7 @@ Notes:
 
 ⁴⁷ How long, O Lord, wilt thou turn away, for ever? shall thine anger flame out as fire? ⁴⁸ Remember what my being is: for hast thou created all the sons of men in vain? ⁴⁹ What man is there who shall live, and not see death? shall any one deliver his soul from the hand of Hades? Pause. ⁵⁰ Where are thine ancient mercies, O Lord, which thou swarest to David in thy truth? ⁵¹ Remember, O Lord, the reproach of thy servants, which I have borne in my bosom, even the reproach of many nations; ⁵² wherewith thine enemies have reviled, O Lord: wherewith they have reviled the recompence of thine anointed. ⁵³ Blessed be the Lord for ever. So be it, so be it.
 
-## Psalms 89
+## Psalm 89 (MT 90)
 
 ¹ A Prayer of Moses the man of God.
 
@@ -38162,7 +38162,7 @@ Notes:
 - Psalms 89:17 Brenton note: Alex. + yea, prosper thou the work of our hands.
 - Psalms 89:17 Cross-refs: Ps 28:7; 1Cor 1:30-31; 2Cor 12:9-10; Phil 4:13; Ps 89:24; Ps 75:10; Ps 92:10; Ps 112:9; Ps 132:17; Ps 148:14; 1Sam 2:1; 1Sam 2:10
 
-## Psalms 90
+## Psalm 90 (MT 91)
 
 ¹ Praise of a Song, by David.
 
@@ -38205,7 +38205,7 @@ Notes:
 - Psalms 90:15 Cross-refs: Ps 30:5; Ps 126:5-6; Isa 12:1; Isa 40:1-2; Isa 61:3; Isa 65:18-19; Jer 31:12-13; Matt 5:4; John 16:20; Rev 7:14-17; Deut 2:14-16
 - Psalms 90:16 Cross-refs: Ps 44:1; Num 14:15-24; Hab 3:2; Num 14:30-31; Deut 1:39; Josh 4:22-24; Josh 23:14
 
-## Psalms 91
+## Psalm 91 (MT 92)
 
 ¹ A Psalm of a Song for the Sabbath-day.
 
@@ -38253,7 +38253,7 @@ Notes:
 - Psalms 91:16 With long life Heb. With length of days, ; , ; show
 - Psalms 91:16 Cross-refs: Ps 21:4; Gen 25:8; Job 5:26; Prov 3:2; Prov 3:16; Prov 22:4; Isa 65:20-22; Ps 16:11; Ps 50:23; Isa 45:17; Luke 2:30; Luke 3:6
 
-## Psalms 92
+## Psalm 92 (MT 93)
 
 ¹ For the day before the Sabbath, when the land was first inhabited, the praise of a Song by David.
 
@@ -38274,7 +38274,7 @@ Notes:
 - Psalms 92:5 Brenton note: Gr. to length of days.
 - Psalms 92:5 Cross-refs: Ps 40:5; Ps 66:3; Ps 104:24; Ps 111:2; Ps 145:3-4; Rev 15:3; Ps 139:17; Isa 28:29; Isa 55:8-9; Jer 23:20; Rom 11:33-34; Ps 64:6; Eccl 7:24; 1Cor 2:10
 
-## Psalms 93
+## Psalm 93 (MT 94)
 
 ¹ A Psalm of David for the fourth day of the week.
 
@@ -38308,7 +38308,7 @@ Notes:
 
 ²⁰ Shall the throne of iniquity have fellowship with thee, which frames mischief by an ordinance? ²¹ They will hunt for the soul of the righteous, and condemn innocent blood. ²² But the Lord was my refuge; and my God the helper of my hope. ²³ And he will recompense to them their iniquity and their wickedness: the Lord our God shall utterly destroy them.
 
-## Psalms 94
+## Psalm 94 (MT 95)
 
 ¹ The praise of a Song by David.
 
@@ -38337,7 +38337,7 @@ Notes:
 - Psalms 94:10 Cross-refs: Ps 9:5; Ps 10:16; Ps 44:2; Ps 135:8-12; Ps 149:7; Isa 10:12; Isa 37:36; Jer 10:25; Ezek 39:21; Isa 10:5-6; Amos 3:2; Hab 1:12; Hab 3:12; Ps 25:8-9; Ps 119:66; Job 35:11; Prov 2:6; Isa 2:3; Isa 28:26; Isa 54:13; John 6:45
 - Psalms 94:11 Cross-refs: Ps 49:10-13; Job 11:11-12; Rom 1:21-22; 1Cor 1:19; 1Cor 1:21; 1Cor 1:25
 
-## Psalms 95
+## Psalm 95 (MT 96)
 
 ¹ When the house was built after the Captivity, a Song by David.
 
@@ -38375,7 +38375,7 @@ Notes:
 - Psalms 95:11 I sware, ; , that they should not enter Heb. if they enter my rest
 - Psalms 95:11 Cross-refs: Num 14:23; Num 14:28-30; Deut 1:34-35; Heb 3:11; Heb 3:18; Heb 4:3; Heb 4:5; Gen 2:2-3; Jer 6:16; Matt 11:28-29; Hos 4:4-11; Rev 14:13
 
-## Psalms 96
+## Psalm 96 (MT 97)
 
 ¹ For David, when his land is established.
 
@@ -38415,7 +38415,7 @@ Notes:
 - Psalms 96:11 Cross-refs: Ps 69:34; Ps 148:1-4; Isa 44:23; Isa 49:13; Luke 2:10; Luke 2:13-14; Luke 15:10; Rev 12:12; Rev 19:1-7; Ps 98:7-9
 - Psalms 96:12 Cross-refs: Ps 65:12-13; Isa 42:10-11; Isa 55:12-13
 
-## Psalms 97
+## Psalm 97 (MT 98)
 
 ¹ A Psalm of David.
 
@@ -38441,7 +38441,7 @@ Notes:
 - Psalms 97:8 Cross-refs: Ps 48:11; Isa 51:3; Isa 52:7-10; Isa 62:11; Zeph 3:14-17; Zech 9:9; Matt 21:4-9; Ps 52:6; Ps 58:10; Rev 18:20; Rev 19:1-7
 - Psalms 97:9 Cross-refs: Ps 83:18; Eph 1:21; Phil 2:9-11; Ps 95:3; Ps 96:4; Ps 115:3-8; Ps 135:5; Exod 18:11; Jer 10:8; Jer 10:10
 
-## Psalms 98
+## Psalm 98 (MT 99)
 
 ¹ A Psalm of David.
 
@@ -38468,7 +38468,7 @@ Notes:
 - Psalms 98:9 for he cometh, ; with righteousness
 - Psalms 98:9 Cross-refs: Ps 96:10; Ps 96:13; Rev 1:7; Ps 67:4; Ps 72:2; Isa 5:16; Acts 17:31; Acts 24:25; Rom 2:5-6
 
-## Psalms 99
+## Psalm 99 (MT 100)
 
 ¹ A Psalm for Thanksgiving.
 
@@ -38485,7 +38485,7 @@ Notes:
 - Psalms 99:5 Exalt, ; , ; footstool; he is holy or, it is holy
 - Psalms 99:5 Cross-refs: Ps 99:9; Ps 21:13; Ps 34:3; Ps 108:5; Exod 15:2; Isa 12:4; Isa 25:1; Hos 11:7; Ps 132:7; 1Chr 28:2; Isa 66:1; Ps 99:3; Lev 19:2
 
-## Psalms 100
+## Psalm 100 (MT 101)
 
 ¹ A Psalm of David.
 
@@ -38503,7 +38503,7 @@ Notes:
 - Psalms 100:5 For the, ; his mercy, ; and his truth, ; all generations Heb. generation and generation, *marg.
 - Psalms 100:5 Cross-refs: Ps 52:1; Ps 86:5; Ps 106:1; Ps 107:1; Ps 107:8; Ps 107:15; Ps 107:22; Ps 119:68; Jer 33:11; Ps 36:5; Ps 103:17; Ps 118:1-4; Ps 136:1-26; Luke 1:50; Ps 85:10; Ps 89:1-2; Ps 119:90-91; Ps 146:6; Exod 34:6-7; Deut 7:9; Jer 33:20-21; Mic 7:20; Rom 15:8-9; Titus 1:2; Heb 6:13-18; Ps 89:1
 
-## Psalms 101
+## Psalm 101 (MT 102)
 
 ¹ A Prayer for the Poor; when he is deeply afflicted, and pours out his supplication before the Lord.
 
@@ -38543,7 +38543,7 @@ Notes:
 - Psalms 101:26 Brenton note: Gr. plural.
 - Psalms 101:29 Brenton note: Or, be directed aright.
 
-## Psalms 102
+## Psalm 102 (MT 103)
 
 ¹ A Psalm of David.
 
@@ -38593,7 +38593,7 @@ Notes:
 - Psalms 102:21 Cross-refs: Ps 9:13-14; Ps 22:22; Ps 51:14-15; Ps 79:13; Isa 51:11; Eph 2:4-7; Eph 3:21; 1Pet 2:9
 - Psalms 102:22 Cross-refs: Ps 72:8-11; Gen 49:10; Isa 49:22-23; Isa 60:3-22; Hos 1:9-11; Zech 8:20-23; Matt 24:14; Rom 15:19
 
-## Psalms 103
+## Psalm 103 (MT 104)
 
 ¹ A Psalm of David.
 
@@ -38656,7 +38656,7 @@ Notes:
 
 ³¹ Let the glory of the Lord be for ever: the Lord shall rejoice in his works; ³² who looks upon the earth, and makes it tremble; who touches the mountains, and they smoke. ³³ I will sing to the Lord while I live; I will sing praise to my God while I exist. ³⁴ Let my meditation be sweet to him: and I will rejoice in the Lord. ³⁵ Let the sinners fail from off the earth, and transgressors, so that they shall be no more. Bless the Lord, O my soul.
 
-## Psalms 104
+## Psalm 104 (MT 105)
 
 ¹ Alleluia.
 
@@ -38736,7 +38736,7 @@ Notes:
 
 ⁴² For he remembered his holy word, which he promised to Abraam his servant. ⁴³ And he brought out his people with exultation, and his chosen with joy; ⁴⁴ and gave them the lands of the heathen; and they inherited the labours of the people; ⁴⁵ that they might keep his ordinances, and diligently seek his law.
 
-## Psalms 105
+## Psalm 105 (MT 106)
 
 ¹ Alleluia.
 
@@ -38840,7 +38840,7 @@ Notes:
 
 ⁴⁷ Save us, O Lord our God, and gather us from among the heathen, that we may give thanks to thy holy name, that we may glory in thy praise. ⁴⁸ Blessed be the Lord God of Israel from everlasting and to everlasting; and all the people shall say, Amen, Amen.
 
-## Psalms 106
+## Psalm 106 (MT 107)
 
 ¹ Alleluia.
 
@@ -38945,7 +38945,7 @@ Notes:
 - Psalms 106:43 Many; with their, brought low or, impoverished, or weakened
 - Psalms 106:43 Cross-refs: Judg 2:16-18; 1Sam 12:9-11; Ps 106:29; Ps 1:1; Ps 81:12; Judg 5:8; Judg 6:5; 1Sam 13:19
 
-## Psalms 107
+## Psalm 107 (MT 108)
 
 ¹ Song of a Psalm by David.
 
@@ -38978,7 +38978,7 @@ Notes:
 - Psalms 107:14 Brenton note: Gr. work power.
 - Psalms 107:14 Cross-refs: Ps 107:10; Ps 68:6; Job 3:5; Job 10:21-22; Job 15:22; Job 15:30; Job 19:8; Job 33:30; Job 42:10-12; Isa 42:16; Isa 49:9; Isa 60:1-3; Eph 5:8; 1Pet 2:9; Ps 102:20; Ps 105:19-20; Ps 116:16; Ps 146:7; Job 36:8; Isa 61:1; Jer 52:31-34; Zech 9:11-12; Acts 5:19; Acts 5:25; Acts 12:7-10; Acts 16:26-40
 
-## Psalms 108
+## Psalm 108 (MT 109)
 
 ¹ For the end, a Psalm of David.
 
@@ -39019,7 +39019,7 @@ Notes:
 
 ²⁶ Help me, O Lord my God; and save me according to thy mercy. ²⁷ And let them know that this is thy hand; and that thou, Lord, hast wrought it. ²⁸ Let them curse, but thou shalt bless: let them that rise up against me be ashamed, but let thy servant rejoice. ²⁹ Let those that falsely accuse me be clothed with shame, and let them cover themselves with their shame as with a mantle. ³⁰ I will give thanks to the Lord abundantly with my mouth; and in the midst of many I will praise him. ³¹ For he stood on the right hand of the poor, to save me from them that persecute my soul.
 
-## Psalms 109
+## Psalm 109 (MT 110)
 
 ¹ A Psalm of David.
 
@@ -39041,7 +39041,7 @@ Notes:
 - Psalms 109:7 be condemned Heb. go out guilty, or wicked, ; and let
 - Psalms 109:7 Cross-refs: Rom 3:19; Gal 3:10; 2Sam 15:7-8; Prov 15:8; Prov 21:27; Prov 28:9; Isa 1:15; Isa 66:3; Matt 23:14
 
-## Psalms 110
+## Psalm 110 (MT 111)
 
 ¹ Alleluia.
 
@@ -39064,7 +39064,7 @@ Notes:
 - Psalms 110:7 Cross-refs: Ps 102:9; Judg 7:5-6; Job 21:20; Isa 53:12; Jer 23:15; Matt 20:22; Matt 26:42; John 18:11; Isa 53:11-12; Luke 24:26; Phil 2:7-11; Heb 2:9-10; 1Pet 1:11; Ps 3:3; Ps 27:6; Jer 52:31
 - Psalms 110:10 Brenton note: Or, sum.
 
-## Psalms 111
+## Psalm 111 (MT 112)
 
 ¹ Alleluia.
 
@@ -39088,7 +39088,7 @@ Notes:
 - Psalms 111:10 fear;, ; a good understanding or, good success, ; do his commandments Heb. do them, ; his praise
 - Psalms 111:10 Cross-refs: Job 28:28; Prov 1:7; Prov 9:10; Eccl 12:13; Ps 1:3; Deut 4:6; Josh 1:7-8; Prov 3:4; 2Tim 3:15-17; John 13:17; Rev 22:14; Matt 25:21; Matt 25:23; John 5:44; John 12:43; Rom 2:7; Rom 2:29; 1Cor 4:5; 2Cor 4:17; 1Pet 1:7
 
-## Psalms 112
+## Psalm 112 (MT 113)
 
 ¹ Alleluia.
 
@@ -39110,7 +39110,7 @@ Notes:
 - Psalms 112:8 Cross-refs: Ps 27:14; Ps 31:24; Heb 13:9; Prov 3:33; Ps 59:10; Ps 91:8; Ps 92:11; Ps 118:7
 - Psalms 112:9 Cross-refs: 2Cor 9:9; Deut 15:11; Prov 11:24-25; Prov 19:17; Eccl 11:1-2; Eccl 11:6; Isa 32:8; Isa 58:7; Isa 58:10; Mark 14:7; Luke 11:41; Luke 12:33; Luke 18:22; John 13:29; Acts 4:35; Acts 20:35; Rom 12:13; 2Cor 8:9; 2Cor 9:10-15; 1Tim 6:18; Heb 13:16; Jas 2:15-16; 1John 3:16-18; Ps 112:3; Deut 24:13; Matt 6:4; Luke 14:12-14; Luke 16:9; Heb 6:10; Rev 22:11; Ps 75:10; Ps 92:10; 1Sam 2:1; 1Sam 2:30
 
-## Psalms 113
+## Psalm 113 (MT 114-115)
 
 ¹ Alleluia.
 
@@ -39160,7 +39160,7 @@ Notes:
 Notes:
 - Psalms 113:24 Brenton note: Gr. sing.
 
-## Psalms 114
+## Psalm 114 (MT 116:1-9)
 
 ¹ Alleluia.
 
@@ -39188,7 +39188,7 @@ Notes:
 - Psalms 114:7 Cross-refs: Ps 77:18; Ps 97:4-5; Ps 104:32; Job 9:6; Job 26:11; Isa 64:1-3; Jer 5:22; Mic 6:1-2
 - Psalms 114:8 Cross-refs: Ps 78:15-16; Ps 105:41; Ps 107:35; Exod 17:6; Num 20:11; Deut 8:15; Neh 9:15; 1Cor 10:4
 
-## Psalms 115
+## Psalm 115 (MT 116:10-19)
 
 ¹ Alleluia.
 
@@ -39215,7 +39215,7 @@ Notes:
 - Psalms 115:9 Cross-refs: Ps 118:2-4; Ps 135:19-20; Exod 19:5; Ps 62:8; Ps 125:1; Ps 130:7; Ps 146:5-6; Jer 17:17-18; Eph 1:12; Ps 33:20-21; Ps 84:11; Deut 33:29; Prov 30:5
 - Psalms 115:10 Cross-refs: Exod 28:1; Num 16:5; Num 16:40; Num 18:7
 
-## Psalms 116
+## Psalm 116 (MT 117)
 
 ¹ Alleluia.
 
@@ -39229,7 +39229,7 @@ Notes:
 - Psalms 116:2 therefore, ; as long as I live Heb. in my days
 - Psalms 116:2 Cross-refs: Ps 55:16-17; Ps 86:6-7; Ps 88:1; Ps 145:18-19; Job 27:10; Luke 18:1; Phil 4:6; Col 4:2
 
-## Psalms 117
+## Psalm 117 (MT 118)
 
 ¹ Alleluia.
 
@@ -39255,7 +39255,7 @@ Notes:
 Notes:
 - Psalms 117:27 Brenton note: Possibly, the multitude, q. d. cœtu frequenti.
 
-## Psalms 118
+## Psalm 118 (MT 119)
 
 ¹ Alleluia.
 
@@ -39373,7 +39373,7 @@ Notes:
 
 ¹⁶⁹ Let my supplication come near before thee, O Lord; instruct me according to thine oracle. ¹⁷⁰ Let my petition come in before thee, O Lord; deliver me according to thine oracle. ¹⁷¹ Let my lips utter a hymn, when thou shalt have taught me thine ordinances. ¹⁷² Let my tongue utter thine oracles; for all thy commandments are righteous. ¹⁷³ Let thine hand be prompt to save me; for I have chosen thy commandments. ¹⁷⁴ I have longed after thy salvation, O Lord; and thy law is my meditation. ¹⁷⁵ My soul shall live, and shall praise thee; and thy judgments shall help me. ¹⁷⁶ I have gone astray like a lost sheep; seek thy servant; for I have not forgotten thy commandments.
 
-## Psalms 119
+## Psalm 119 (MT 120)
 
 ¹ A Song of Degrees.
 
@@ -39401,7 +39401,7 @@ Notes:
 - Psalms 119:7 I will, ; when, ; thy righteous judgments Heb. judgments of thy righteousness
 - Psalms 119:7 Cross-refs: Ps 119:171; Ps 9:1; Ps 86:12-13; 1Chr 29:13-17; Ps 119:12; Ps 119:18-19; Ps 119:27; Ps 119:33-34; Ps 119:64; Ps 119:73; Ps 119:124; Ps 25:4-5; Ps 25:8-10; Ps 143:10; Isa 48:17; John 6:45; Ps 119:138
 
-## Psalms 120
+## Psalm 120 (MT 121)
 
 ¹ A Song of Degrees.
 
@@ -39422,7 +39422,7 @@ Notes:
 - Psalms 120:7 for peace or, a man of peace, ; when
 - Psalms 120:7 Cross-refs: Ps 34:14; Ps 35:20; Ps 55:20; 2Sam 20:19; Matt 5:9; Rom 12:18; Eph 2:14-17; Heb 12:14; 1Sam 24:9-11; 1Sam 26:2-4
 
-## Psalms 121
+## Psalm 121 (MT 122)
 
 ¹ A Song of Degrees.
 
@@ -39447,7 +39447,7 @@ Notes:
 - Psalms 121:8 thy going out, ; , ;, ; from this time
 - Psalms 121:8 Cross-refs: Deut 28:6; Deut 28:19; 2Sam 5:2; Ezra 8:21; Ezra 8:31; Prov 2:8; Prov 3:6; Jas 4:13-16; Ps 113:2; Ps 115:18
 
-## Psalms 122
+## Psalm 122 (MT 123)
 
 ¹ A Song of Degrees.
 
@@ -39464,7 +39464,7 @@ Notes:
 - Psalms 122:4 Whither, ;, ;, the testimony, to give
 - Psalms 122:4 Cross-refs: Ps 78:68; Ps 132:13; Exod 23:17; Exod 34:23-24; Deut 12:5; Deut 12:11; Deut 16:16; Exod 16:34; Exod 26:33-34; Exod 32:15; Ps 66:13-16; Ps 107:1-3; Ps 116:17-19; Ps 118:19
 
-## Psalms 123
+## Psalm 123 (MT 124)
 
 ¹ A Song of Degrees.
 
@@ -39482,7 +39482,7 @@ Notes:
 
 ⁶ Blessed be the Lord, who has not given us for a prey to their teeth. ⁷ Our soul has been delivered as a sparrow from the snare of the fowlers: the snare is broken, and we are delivered. ⁸ Our help is in the name of the Lord, who made heaven and earth.
 
-## Psalms 124
+## Psalm 124 (MT 125)
 
 ¹ A Song of Degrees.
 
@@ -39503,7 +39503,7 @@ Notes:
 - Psalms 124:5 Brenton note: Or, let peace be.
 - Psalms 124:5 Cross-refs: Ps 93:3-4; Job 38:11; Jer 5:22
 
-## Psalms 125
+## Psalm 125 (MT 126)
 
 ¹ A Song of Degrees.
 
@@ -39526,7 +39526,7 @@ Notes:
 - Psalms 125:5 As for such, ; crooked; with the workers, peace
 - Psalms 125:5 Cross-refs: Ps 40:4; Ps 101:3; 1Chr 10:13-14; Prov 14:14; Jer 2:19; Zeph 1:6; Heb 10:38; Prov 2:15; Isa 59:8; Phil 2:15; Matt 7:23; Matt 24:48-51; Ps 128:6; Isa 54:10; Isa 54:13; Ezek 37:26; Hos 2:18; John 14:27; Gal 6:16; 1Pet 1:2
 
-## Psalms 126
+## Psalm 126 (MT 127)
 
 ¹ A Song of Degrees.
 
@@ -39549,7 +39549,7 @@ Notes:
 - Psalms 126:5 that sow; , ; joy or, singing
 - Psalms 126:5 Cross-refs: Ps 137:1; Isa 12:1-3; Jer 31:9-13; Joel 2:17; Joel 2:23; Matt 5:4; John 16:20-22; 2Cor 7:8-11
 
-## Psalms 127
+## Psalm 127 (MT 128)
 
 ¹ A Song of Degrees.
 
@@ -39572,7 +39572,7 @@ Notes:
 - Psalms 127:5 Happy;, his quiver full of them Heb. filled his quiver with them, they shall.; speak or, subdue, or, destroy
 - Psalms 127:5 Cross-refs: Gen 50:23; Job 1:2; Job 42:12-16; Job 5:4; Prov 27:11; Ps 18:47
 
-## Psalms 128
+## Psalm 128 (MT 129)
 
 ¹ A Song of Degrees.
 
@@ -39595,7 +39595,7 @@ Notes:
 - Psalms 128:5 Cross-refs: Ps 20:2; Ps 118:26; Ps 134:3; Isa 2:3; Eph 1:3; Ps 122:6; Isa 33:20
 - Psalms 128:6 Cross-refs: Gen 50:23; Job 42:16; Ps 125:5; Isa 66:12; Gal 1:16
 
-## Psalms 129
+## Psalm 129 (MT 130)
 
 ¹ A Song of Degrees.
 
@@ -39616,7 +39616,7 @@ Notes:
 - Psalms 129:7 Cross-refs: Ps 126:6; Isa 17:10-11; Hos 8:7; Gal 6:8
 - Psalms 129:8 Cross-refs: Ps 118:26; Ruth 2:4
 
-## Psalms 130
+## Psalm 130 (MT 131)
 
 ¹ A Song of Degrees.
 
@@ -39630,7 +39630,7 @@ Notes:
 - Psalms 130:2 Cross-refs: Ps 5:1-2; Ps 17:1; Ps 55:1-2; Ps 61:1-2; 2Chr 6:40; Neh 1:6; Neh 1:11; Isa 37:17; Dan 9:17-19
 - Psalms 130:3 Cross-refs: Ps 143:2; Job 9:2-3; Job 9:20; Job 10:14; Job 15:14; Isa 53:6; John 8:7-9; Rom 3:20-24
 
-## Psalms 131
+## Psalm 131 (MT 132)
 
 ¹ A Song of Degrees.
 
@@ -39654,7 +39654,7 @@ Notes:
 Notes:
 - Psalms 131:18 Brenton note: See Ps. 88. 39.
 
-## Psalms 132
+## Psalm 132 (MT 133)
 
 ¹ A Song of Degrees.
 
@@ -39669,7 +39669,7 @@ Notes:
 - Psalms 132:2 Cross-refs: Ps 56:12; Ps 65:1; Ps 66:13-14; Ps 116:14-18; Ps 119:106; 2Sam 7:1; Ps 132:5; Ps 46:11; Ps 50:1; Ps 146:5-6; Gen 49:24
 - Psalms 132:3 Cross-refs: Eccl 9:10; Hag 1:4; Matt 6:33
 
-## Psalms 133
+## Psalm 133 (MT 134)
 
 ¹ A Song of Degrees.
 
@@ -39686,7 +39686,7 @@ Notes:
 - Psalms 133:3 As the dew of Hermon Mr. Maundrell says, "We were sufficiently instructed by experience what the holy Psalmist means by 'the dew of Hermon, ' our tents being as wet with it as if it had rained all night." Some suppose that Zion here means a part of Mount Hermon ( ); but it is not written Sion here, but Zion, which is at Jerusalem., ; for there the Lord; even life
 - Psalms 133:3 Cross-refs: Deut 4:48; Deut 3:8-9; Josh 13:11; Ps 42:8; Lev 25:21; Deut 28:8; Ps 16:11; Ps 21:4; John 4:14; John 5:24; John 5:29; John 6:50-51; John 6:68; John 11:25-26; Rom 5:21; Rom 6:23; 1John 2:25; 1John 5:11; Rev 1:18
 
-## Psalms 134
+## Psalm 134 (MT 135)
 
 ¹ Alleluia.
 
@@ -39707,7 +39707,7 @@ Notes:
 
 ¹⁹ O house of Israel, bless ye the Lord: O house of Aaron, bless ye the Lord: ²⁰ O house of Levi, bless ye the Lord: ye that fear the Lord, bless the Lord. ²¹ Blessed in Sion be the Lord, who dwells in Jerusalem.
 
-## Psalms 135
+## Psalm 135 (MT 136)
 
 ¹ Alleluia.
 
@@ -39759,7 +39759,7 @@ Notes:
 
 ²³ For the Lord remembered us in our low estate; for his mercy endures for ever: ²⁴ and redeemed us from our enemies; for his mercy endures for ever. ²⁵ Who gives food to all flesh; for his mercy endures for ever. ²⁶ Give thanks to the God of heaven; for his mercy endures for ever.
 
-## Psalms 136
+## Psalm 136 (MT 137)
 
 ¹ For David, a Psalm of Jeremias.
 
@@ -39794,7 +39794,7 @@ Notes:
 - Psalms 136:9 The moon and stars The sun is the monarch of day, the state of light; the moon of the night, the state of darkness. The rays of the sun falling on the atmosphere, are refracted and diffused over the whole of the hemisphere of the earth immediately under his orb; while those rays of that vast luminary which, because of the earth's smallness in comparison with the sun, are diffused on all sides beyond the earth, falling on the opaque disc of the moon, are reflected back on the lower hemisphere, or the part of the earth opposite the sun. But the reflected light being 50, 000 times less in intensity than that of the sun, there is a sufficient distinction between day and night, though each is ruled and determined by one of these two great lights.
 - Psalms 136:9 Cross-refs: Ps 8:3; Ps 89:36-37; Job 31:26
 
-## Psalms 137
+## Psalm 137 (MT 138)
 
 ¹ A Psalm for David, of Aggæus and Zacharias.
 
@@ -39824,7 +39824,7 @@ Notes:
 - Psalms 137:8 daughter;, ; who art, ;, 50:1-51:64;, destroyed Heb. wasted happy;, ;, rewardeth etc. Heb. recompenseth unto thee thy deed which thou didst unto us
 - Psalms 137:8 Cross-refs: Isa 47:1-5; Jer 50:42; Jer 51:33; Zech 2:7; Isa 13:1-22; Isa 14:4-24; Isa 21:1; Isa 47:1; Jer 25:12-14; Rev 14:8-11; Rev 17:1-18; Rev 18:6; Ps 149:6-9; Isa 13:3-5; Isa 44:28; Rev 17:5-6; Rev 17:14; Rev 18:20; Jer 50:15-29
 
-## Psalms 138
+## Psalm 138 (MT 139)
 
 ¹ For the end, a Psalm of David.
 
@@ -39860,7 +39860,7 @@ Notes:
 
 ¹⁹ Oh that thou wouldest slay the wicked, O God; depart from me, ye men of blood. ²⁰ For thou wilt say concerning their thought, that they shall take thy cities in vain. ²¹ Have I not hated them, O Lord, that hate thee? and wasted away because of thine enemies? ²² I have hated them with perfect hatred; they were counted my enemies. ²³ Prove me, O God, and know my heart; examine me, and know my paths; ²⁴ and see if there is any way of iniquity in me, and lead me in an everlasting way.
 
-## Psalms 139
+## Psalm 139 (MT 140)
 
 ¹ For the end, a Psalm of David.
 
@@ -39898,7 +39898,7 @@ Notes:
 - Psalms 139:14 for I am fearfully marvellous, ; right well Heb. greatly
 - Psalms 139:14 Cross-refs: Gen 1:26-27; Ps 92:4-5; Ps 104:24; Ps 111:2; Job 5:9; Rev 15:3
 
-## Psalms 140
+## Psalm 140 (MT 141)
 
 ¹ A Psalm of David.
 
@@ -39932,7 +39932,7 @@ Notes:
 - Psalms 140:10 burning coals, ; let them;, into deep
 - Psalms 140:10 Cross-refs: Ps 11:6; Ps 18:13-14; Ps 21:9; Ps 120:4; Gen 19:24; Exod 9:23-24; Rev 16:8-9; Dan 3:20-25; Matt 13:42; Matt 13:50; Ps 55:23; Prov 28:10; Prov 28:17; Rev 20:15; Rev 21:8
 
-## Psalms 141
+## Psalm 141 (MT 142)
 
 ¹ A Psalm of instruction for David, when he was in the cave,—a Prayer.
 
@@ -39955,7 +39955,7 @@ Notes:
 - Psalms 141:8 mine eyes, ; leave not my soul destitute Heb. make not my soul bare
 - Psalms 141:8 Cross-refs: Ps 25:15; Ps 123:1-2; 2Chr 20:12; Ps 25:16-17; Ps 102:17; Ps 143:3-4; Isa 41:17; John 14:18
 
-## Psalms 142
+## Psalm 142 (MT 143)
 
 ¹ A Psalm of David, when his son pursued him.
 
@@ -39988,7 +39988,7 @@ Notes:
 - Psalms 142:7 Cross-refs: Ps 142:1; Ps 9:3; Ps 9:14; Ps 31:8; Ps 88:4-8; Ps 143:11; Ps 146:7; Isa 61:1; Acts 2:24; Ps 7:6-7; Ps 22:21-27; Ps 34:2; Ps 107:41-42; Ps 119:74; Ps 13:6; Ps 116:7; Ps 119:17; Jas 5:11
 - Psalms 142:10 Brenton note: Alex. as Heb. 'land of uprightness.'
 
-## Psalms 143
+## Psalm 143 (MT 144)
 
 ¹ A Psalm of David concerning Goliad.
 
@@ -40034,7 +40034,7 @@ Notes:
 - Psalms 143:12 Cross-refs: Ps 54:5; Ps 55:23; Ps 136:15-20; 1Sam 24:12-15; 1Sam 25:29; 1Sam 26:10; Ps 116:16; Ps 119:94
 - Psalms 143:14 Brenton note: Or, habitations.
 
-## Psalms 144
+## Psalm 144 (MT 145)
 
 ¹ David's Psalm of praise.
 
@@ -40080,7 +40080,7 @@ Notes:
 
 ¹⁸ The Lord is near to all that call upon him, to all that call upon him in truth. ¹⁹ He will perform the desire of them that fear him: and he will hear their supplication, and save them. ²⁰ The Lord preserves all that love him: but all sinners he will utterly destroy. ²¹ My mouth shall speak the praise of the Lord: and let all flesh bless his holy name for ever and ever.
 
-## Psalms 145
+## Psalm 145 (MT 146)
 
 ¹ Alleluia, a Psalm of Aggæus and Zacharias.
 
@@ -40114,7 +40114,7 @@ Notes:
 - Psalms 145:10 All thy, ; and thy saints
 - Psalms 145:10 Cross-refs: Ps 19:1; Ps 96:11-13; Ps 98:3-9; Ps 103:22; Ps 104:24; Ps 148:1-13; Isa 43:20; Isa 44:23; Rom 1:19-20; Ps 22:23; Ps 30:4; Ps 32:11; Ps 97:12; Ps 135:19-21; Ps 148:14; Isa 43:21; Heb 13:15; 1Pet 2:5; 1Pet 2:9; Rev 7:9-12; Rev 19:5-6
 
-## Psalms 146
+## Psalm 146 (MT 147:1-11)
 
 ¹ Alleluia, a Psalm of Aggæus and Zacharias.
 
@@ -40143,7 +40143,7 @@ Notes:
 - Psalms 146:9 Cross-refs: Ps 68:5; Deut 10:18-19; Deut 16:11; Prov 15:25; Jer 49:11; Hos 14:3; Mal 3:5; Jas 1:27; Ps 18:26; Ps 83:13-17; Ps 145:20; Ps 147:6; 2Sam 15:31; 2Sam 17:23; Esth 5:14; Esth 7:10; Esth 9:25; Prov 4:19; Job 5:12-14; 1Cor 3:19
 - Psalms 146:10 Cross-refs: Ps 10:16; Ps 145:13; Exod 15:18; Isa 9:7; Dan 2:44; Dan 6:26; Dan 7:14; Rev 11:15; Ps 147:12; Isa 12:6; Isa 40:9; Isa 52:7; Joel 3:17
 
-## Psalms 147
+## Psalm 147 (MT 147:12-20)
 
 ¹ Alleluia, a Psalm of Aggæus and Zacharias.
 
@@ -40167,7 +40167,7 @@ Notes:
 - Psalms 147:9 Brenton note: Gr. every.
 - Psalms 147:9 Cross-refs: Ps 104:27-28; Ps 136:25; Ps 145:15-16; Job 38:41; Matt 6:26; Luke 12:24
 
-## Psalms 148
+## Psalm 148
 
 ¹ Alleluia, a Psalm of Aggæus and Zacharias.
 
@@ -40202,7 +40202,7 @@ Notes:
 - Psalms 148:14 exalteth, ; the praise, ; a people
 - Psalms 148:14 Cross-refs: Ps 75:10; Ps 89:17; Ps 92:10; Ps 112:9; 1Sam 2:1; Luke 1:52; Ps 145:10; Ps 149:9; Luke 2:32; Rev 5:8-14; Exod 19:5-6; Deut 4:7; Eph 2:13; Eph 2:17; Eph 2:19; 1Pet 2:9
 
-## Psalms 149
+## Psalm 149
 
 ¹ Alleluia.
 
@@ -40230,7 +40230,7 @@ Notes:
 - Psalms 149:9 Brenton note: Gr. inscribed, sc. in the scripture.
 - Psalms 149:9 Cross-refs: Ps 137:8; Deut 7:1-2; Deut 32:42-43; Isa 14:22-23; Rev 17:14-16; Ps 148:14; 1Cor 6:2-3; Rev 3:21
 
-## Psalms 150
+## Psalm 150
 
 ¹ Alleluia.
 
@@ -40249,7 +40249,7 @@ Notes:
 - Psalms 150:5 Cross-refs: 1Chr 15:16; 1Chr 15:19; 1Chr 15:28; 1Chr 16:5; 1Chr 25:1; 1Chr 25:6
 - Psalms 150:6 Cross-refs: Ps 103:22; Ps 145:10; Ps 148:7-11; Rev 5:13
 
-## Psalms 151
+## Psalm 151 (MT no MT equivalent)
 
 ¹ This Psalm is a genuine one of David, though supernumerary, composed when he fought in single combat with Goliad.
 
