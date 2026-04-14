@@ -235,22 +235,36 @@ Prototype build from Brenton LXX OT + UKJV NT.
 
 # Genesis
 
-> **Genesis Intro**
+> **Genesis Introduction**
 >
-> **Auth.** Moses
-> **Basis** Received as Mosaic in Jewish and Christian tradition; the Pentateuch is treated as Moses' writing, with only final inspired editorial updating where needed.
-> **NT att.** Jesus appealed to Moses in John 5:46-47; see also Mark 12:26 and Luke 24:27,44.
-> **Date** ca. 1446-1406 BC during Israel's wilderness period
-> **MT** MT chronology yields the shorter primeval and patriarchal timeline; from creation to Jacob's family entering Egypt it is markedly shorter than the LXX, especially in Genesis 5 and 11.
-> **LXX** LXX chronology is longer than the MT in the antediluvian and postdiluvian genealogies, chiefly because several patriarchal begetting ages are 100 years higher.
-> **Setting** From creation through Joseph's death; written for covenant Israel as foundational history of origins, sin, nations, and the patriarchal line.
+> **Author and Attribution** Moses
+>
+> **Authorship Basis** Received as Mosaic in Jewish and Christian tradition; the Pentateuch is treated as Moses' writing, with only final inspired editorial updating where needed.
+>
+> **Jesus / NT Attribution** Jesus appealed to Moses in John 5:46-47; see also Mark 12:26 and Luke 24:27,44.
+>
+> **Composition Date** ca. 1446-1406 BC during Israel's wilderness period
+>
+> **MT Timeline** MT chronology yields the shorter primeval and patriarchal timeline; from creation to Jacob's family entering Egypt it is markedly shorter than the LXX, especially in Genesis 5 and 11.
+>
+> **LXX Timeline** LXX chronology is longer than the MT in the antediluvian and postdiluvian genealogies, chiefly because several patriarchal begetting ages are 100 years higher.
+>
+> **Historical Setting** From creation through Joseph's death; written for covenant Israel as foundational history of origins, sin, nations, and the patriarchal line.
+>
 > **Purpose** To give the true beginning of the world, man, sin, nations, and the covenant line, and to trace the promised seed through the fathers.
-> **Themes** creation; fall; flood; Babel; Abrahamic covenant; promised seed; election; providence; covenant land
+>
+> **Key Themes** creation; fall; flood; Babel; Abrahamic covenant; promised seed; election; providence; covenant land
+>
 > **Outline** Primeval history 1-11; Patriarchal history 12-36; Joseph and the descent to Egypt 37-50.
-> **Wit.** Frag. 4Q Genesis g (4Q7) and other early Qumran Genesis fragments Hasmonean period ca. 100-1 BC | Subst. 4QpaleoGenesis-Exodus (4Q12), an extensive though fragmentary Hebrew witness covering large stretches of Genesis and Exodus Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Alexandrinus, Volume 1 (Genesis-2 Chronicles) 5th century AD
-> **Ext.** Chronographical treatment of Genesis traditions by Demetrius the Chronographer (late 3rd century BC)
-> **Text** Genesis survives in both MT and LXX forms; the LXX genealogical numbers in chapters 5 and 11 are often longer. Early Jewish and Christian chronographers frequently reflect awareness of the longer Greek chronology.
-> **Cons.** Because Christ and the apostles treat Moses as author, this edition receives Genesis as Mosaic in authorship and originally inerrant in wording; later textual divergence in transmission does not overturn the inspiration of the autographs.
+>
+> **Earliest Witnesses** Frag. 4Q Genesis g (4Q7) and other early Qumran Genesis fragments Hasmonean period ca. 100-1 BC | Subst. 4QpaleoGenesis-Exodus (4Q12), an extensive though fragmentary Hebrew witness covering large stretches of Genesis and Exodus Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Alexandrinus, Volume 1 (Genesis-2 Chronicles) 5th century AD
+>
+> **Earliest External Attestation** Chronographical treatment of Genesis traditions by Demetrius the Chronographer (late 3rd century BC)
+>
+> **Textual Notes** Genesis survives in both MT and LXX forms; the LXX genealogical numbers in chapters 5 and 11 are often longer. Early Jewish and Christian chronographers frequently reflect awareness of the longer Greek chronology.
+>
+> **Conservative Notes** Because Christ and the apostles treat Moses as author, this edition receives Genesis as Mosaic in authorship and originally inerrant in wording; later textual divergence in transmission does not overturn the inspiration of the autographs.
+>
 
 ## Genesis 1
 
@@ -3687,22 +3701,36 @@ Notes:
 
 # Exodus
 
-> **Exodus Intro**
+> **Exodus Introduction**
 >
-> **Auth.** Moses
-> **Basis** Received as Mosaic in Jewish and Christian tradition; Exodus is part of the law of Moses.
-> **NT att.** Jesus treats the bush narrative as Mosaic in Mark 12:26; see also Luke 20:37 and John 5:46-47.
-> **Date** ca. 1446-1406 BC during the wilderness period
-> **MT** MT chronology places the exodus in the Mosaic generation and preserves the shorter genealogical framework reflected in the standard Hebrew text.
-> **LXX** The LXX wording often expands or smooths details, but the historical setting remains the Mosaic exodus and Sinai covenant.
-> **Setting** Israel's redemption from Egypt, covenant-making at Sinai, and the erection of the tabernacle.
+> **Author and Attribution** Moses
+>
+> **Authorship Basis** Received as Mosaic in Jewish and Christian tradition; Exodus is part of the law of Moses.
+>
+> **Jesus / NT Attribution** Jesus treats the bush narrative as Mosaic in Mark 12:26; see also Luke 20:37 and John 5:46-47.
+>
+> **Composition Date** ca. 1446-1406 BC during the wilderness period
+>
+> **MT Timeline** MT chronology places the exodus in the Mosaic generation and preserves the shorter genealogical framework reflected in the standard Hebrew text.
+>
+> **LXX Timeline** The LXX wording often expands or smooths details, but the historical setting remains the Mosaic exodus and Sinai covenant.
+>
+> **Historical Setting** Israel's redemption from Egypt, covenant-making at Sinai, and the erection of the tabernacle.
+>
 > **Purpose** To record the LORD's redemption, covenant law, and dwelling among His people.
-> **Themes** redemption; Passover; covenant; law; tabernacle; priesthood; divine presence
+>
+> **Key Themes** redemption; Passover; covenant; law; tabernacle; priesthood; divine presence
+>
 > **Outline** Bondage and deliverance 1-15; Covenant at Sinai 16-24; Tabernacle instructions 25-31; Apostasy and renewal 32-34; Tabernacle construction 35-40.
-> **Wit.** Frag. 7Q1 Greek Exodus fragment late 2nd to early 1st century BC | Subst. 4Q paleoGenesis-Exodus and other Qumran Exodus witnesses Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Exodus 4th-5th century AD
-> **Ext.** Exagoge by Ezekiel the Tragedian (3rd-2nd century BC)
-> **Text** Exodus is preserved in both Hebrew and Greek streams; some early Greek witnesses show readings nearer the Hebrew tradition in places, while the LXX also preserves distinctive renderings and expansions.
-> **Cons.** Because Christ appeals to Moses in the Torah, this edition receives Exodus as Mosaic and originally inerrant in wording; later transmissional divergence is treated as a textual issue, not an authorship issue.
+>
+> **Earliest Witnesses** Frag. 7Q1 Greek Exodus fragment late 2nd to early 1st century BC | Subst. 4Q paleoGenesis-Exodus and other Qumran Exodus witnesses Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Exodus 4th-5th century AD
+>
+> **Earliest External Attestation** Exagoge by Ezekiel the Tragedian (3rd-2nd century BC)
+>
+> **Textual Notes** Exodus is preserved in both Hebrew and Greek streams; some early Greek witnesses show readings nearer the Hebrew tradition in places, while the LXX also preserves distinctive renderings and expansions.
+>
+> **Conservative Notes** Because Christ appeals to Moses in the Torah, this edition receives Exodus as Mosaic and originally inerrant in wording; later transmissional divergence is treated as a textual issue, not an authorship issue.
+>
 
 ## Exodus 1
 
@@ -5973,22 +6001,36 @@ Notes:
 
 # Leviticus
 
-> **Leviticus Intro**
+> **Leviticus Introduction**
 >
-> **Auth.** Moses
-> **Basis** Received as Mosaic in Jewish and Christian tradition; Leviticus stands within the law delivered through Moses.
-> **NT att.** The NT repeatedly treats the Mosaic law as Mosaic; see Mark 1:44, Matthew 8:4, and John 7:19-23.
-> **Date** ca. 1445-1406 BC at Sinai and in the wilderness
-> **MT** MT chronology places Leviticus immediately after the tabernacle's erection and before the Sinai departure narratives in Numbers.
-> **LXX** The LXX preserves the same wilderness setting, while sometimes differing in detail and wording from the later MT tradition.
-> **Setting** Priestly legislation delivered from the tabernacle after the covenant at Sinai.
+> **Author and Attribution** Moses
+>
+> **Authorship Basis** Received as Mosaic in Jewish and Christian tradition; Leviticus stands within the law delivered through Moses.
+>
+> **Jesus / NT Attribution** The NT repeatedly treats the Mosaic law as Mosaic; see Mark 1:44, Matthew 8:4, and John 7:19-23.
+>
+> **Composition Date** ca. 1445-1406 BC at Sinai and in the wilderness
+>
+> **MT Timeline** MT chronology places Leviticus immediately after the tabernacle's erection and before the Sinai departure narratives in Numbers.
+>
+> **LXX Timeline** The LXX preserves the same wilderness setting, while sometimes differing in detail and wording from the later MT tradition.
+>
+> **Historical Setting** Priestly legislation delivered from the tabernacle after the covenant at Sinai.
+>
 > **Purpose** To set forth holy worship, priesthood, sacrifice, purity, atonement, and covenant holiness before a holy God.
-> **Themes** holiness; sacrifice; priesthood; purity; atonement; Day of Atonement; covenant worship
+>
+> **Key Themes** holiness; sacrifice; priesthood; purity; atonement; Day of Atonement; covenant worship
+>
 > **Outline** Sacrifices 1-7; Priesthood 8-10; Clean and unclean 11-15; Atonement 16; Holiness laws 17-27.
-> **Wit.** Frag. 4Q Leviticus and related early Qumran Leviticus fragments Hasmonean period | Subst. 11Q paleoLeviticus a, a substantial early witness written in paleo-Hebrew script Herodian period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Leviticus 4th-5th century AD
-> **Ext.** Discussion of the translated Mosaic law by Letter of Aristeas (mid-2nd century BC)
-> **Text** Leviticus is important for comparing priestly terminology across Hebrew and Greek; some Greek renderings illuminate how Second Temple readers understood cultic vocabulary.
-> **Cons.** This edition receives Leviticus as Mosaic law from God through Moses; holiness legislation is treated as divinely given, not as a late priestly invention.
+>
+> **Earliest Witnesses** Frag. 4Q Leviticus and related early Qumran Leviticus fragments Hasmonean period | Subst. 11Q paleoLeviticus a, a substantial early witness written in paleo-Hebrew script Herodian period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Leviticus 4th-5th century AD
+>
+> **Earliest External Attestation** Discussion of the translated Mosaic law by Letter of Aristeas (mid-2nd century BC)
+>
+> **Textual Notes** Leviticus is important for comparing priestly terminology across Hebrew and Greek; some Greek renderings illuminate how Second Temple readers understood cultic vocabulary.
+>
+> **Conservative Notes** This edition receives Leviticus as Mosaic law from God through Moses; holiness legislation is treated as divinely given, not as a late priestly invention.
+>
 
 ## Leviticus 1
 
@@ -7527,22 +7569,36 @@ Notes:
 
 # Numbers
 
-> **Numbers Intro**
+> **Numbers Introduction**
 >
-> **Auth.** Moses
-> **Basis** Received as Mosaic in Jewish and Christian tradition; the wilderness census and journey record belong to Moses' law-history.
-> **NT att.** Jesus and the apostles consistently subsume the wilderness law-history under Moses; see John 5:46-47 and 1 Corinthians 10's use of the wilderness narratives.
-> **Date** ca. 1445-1406 BC during Israel's wilderness wanderings
-> **MT** MT chronology keeps the wilderness events in a tighter chronological framework from Sinai to the plains of Moab.
-> **LXX** The LXX follows the same wilderness sequence but often reflects different numerical, lexical, or stylistic decisions in individual passages.
-> **Setting** From Sinai through the wilderness to the plains of Moab east of Jordan.
+> **Author and Attribution** Moses
+>
+> **Authorship Basis** Received as Mosaic in Jewish and Christian tradition; the wilderness census and journey record belong to Moses' law-history.
+>
+> **Jesus / NT Attribution** Jesus and the apostles consistently subsume the wilderness law-history under Moses; see John 5:46-47 and 1 Corinthians 10's use of the wilderness narratives.
+>
+> **Composition Date** ca. 1445-1406 BC during Israel's wilderness wanderings
+>
+> **MT Timeline** MT chronology keeps the wilderness events in a tighter chronological framework from Sinai to the plains of Moab.
+>
+> **LXX Timeline** The LXX follows the same wilderness sequence but often reflects different numerical, lexical, or stylistic decisions in individual passages.
+>
+> **Historical Setting** From Sinai through the wilderness to the plains of Moab east of Jordan.
+>
 > **Purpose** To show the ordering, testing, judgment, preservation, and preparation of the covenant people on the way to the land.
-> **Themes** wilderness testing; census; priestly order; rebellion; judgment; preservation; Balaam; inheritance
+>
+> **Key Themes** wilderness testing; census; priestly order; rebellion; judgment; preservation; Balaam; inheritance
+>
 > **Outline** First generation ordered 1-10; Wilderness rebellion 11-25; Second generation prepared 26-36.
-> **Wit.** Frag. Qumran Numbers fragments such as 4QNumbers Hasmonean period | Subst. Several Qumran Numbers manuscripts provide substantial early Hebrew witnesses Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Numbers 4th-5th century AD
-> **Ext.** Chronographic use of wilderness and Mosaic material by Demetrius the Chronographer (late 3rd century BC)
-> **Text** Numbers contains several places where textual comparison of MT and LXX affects chronology, figures, or wording; these deserve close apparatus work in a study edition.
-> **Cons.** This edition receives Numbers as Mosaic and historically grounded; numerical and textual differences between witnesses are treated as transmissional, not as evidence against inspiration.
+>
+> **Earliest Witnesses** Frag. Qumran Numbers fragments such as 4QNumbers Hasmonean period | Subst. Several Qumran Numbers manuscripts provide substantial early Hebrew witnesses Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Numbers 4th-5th century AD
+>
+> **Earliest External Attestation** Chronographic use of wilderness and Mosaic material by Demetrius the Chronographer (late 3rd century BC)
+>
+> **Textual Notes** Numbers contains several places where textual comparison of MT and LXX affects chronology, figures, or wording; these deserve close apparatus work in a study edition.
+>
+> **Conservative Notes** This edition receives Numbers as Mosaic and historically grounded; numerical and textual differences between witnesses are treated as transmissional, not as evidence against inspiration.
+>
 
 ## Numbers 1
 
@@ -10212,22 +10268,36 @@ Notes:
 
 # Deuteronomy
 
-> **Deuteronomy Intro**
+> **Deuteronomy Introduction**
 >
-> **Auth.** Moses
-> **Basis** Received as Mosaic in Jewish and Christian tradition as Moses' covenant-renewal addresses on the plains of Moab.
-> **NT att.** Jesus explicitly cites Deuteronomy in temptation narratives and elsewhere as authoritative Scripture given through Moses; see Matthew 4:1-11 and Mark 12:29-31.
-> **Date** ca. 1406 BC on the plains of Moab just before Israel entered Canaan
-> **MT** MT chronology places Deuteronomy at the close of Moses' life, immediately prior to Joshua's leadership.
-> **LXX** The LXX preserves the same closing-Mosaic setting, though it sometimes differs in wording and sequence details from the MT.
-> **Setting** Moses' final addresses, covenant renewal, and blessing before his death east of Jordan.
+> **Author and Attribution** Moses
+>
+> **Authorship Basis** Received as Mosaic in Jewish and Christian tradition as Moses' covenant-renewal addresses on the plains of Moab.
+>
+> **Jesus / NT Attribution** Jesus explicitly cites Deuteronomy in temptation narratives and elsewhere as authoritative Scripture given through Moses; see Matthew 4:1-11 and Mark 12:29-31.
+>
+> **Composition Date** ca. 1406 BC on the plains of Moab just before Israel entered Canaan
+>
+> **MT Timeline** MT chronology places Deuteronomy at the close of Moses' life, immediately prior to Joshua's leadership.
+>
+> **LXX Timeline** The LXX preserves the same closing-Mosaic setting, though it sometimes differs in wording and sequence details from the MT.
+>
+> **Historical Setting** Moses' final addresses, covenant renewal, and blessing before his death east of Jordan.
+>
 > **Purpose** To renew the covenant, press covenant love and obedience, and prepare the next generation to enter the land.
-> **Themes** covenant renewal; love of God; law; blessing and curse; central worship; succession; song of Moses
+>
+> **Key Themes** covenant renewal; love of God; law; blessing and curse; central worship; succession; song of Moses
+>
 > **Outline** First address 1-4; Covenant stipulations 5-26; Blessings and curses 27-30; Final charge and death of Moses 31-34.
-> **Wit.** Frag. 4Q Deuteronomy manuscripts including 4QDeut n Hasmonean-Herodian periods | Subst. Multiple substantial Qumran Deuteronomy witnesses survive, including copies of the Decalogue Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Deuteronomy 4th-5th century AD
-> **Ext.** Account of the Greek translation of the Law by Letter of Aristeas (mid-2nd century BC)
-> **Text** Deuteronomy is a major control point for MT/LXX comparison because of its legal and covenant formulations, the Song of Moses, and several well-known quotation loci in the NT.
-> **Cons.** This edition receives Deuteronomy as Mosaic in substance and authorship, with the death notice understood as inspired final completion without overturning Mosaic authorship of the book proper.
+>
+> **Earliest Witnesses** Frag. 4Q Deuteronomy manuscripts including 4QDeut n Hasmonean-Herodian periods | Subst. Multiple substantial Qumran Deuteronomy witnesses survive, including copies of the Decalogue Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Deuteronomy 4th-5th century AD
+>
+> **Earliest External Attestation** Account of the Greek translation of the Law by Letter of Aristeas (mid-2nd century BC)
+>
+> **Textual Notes** Deuteronomy is a major control point for MT/LXX comparison because of its legal and covenant formulations, the Song of Moses, and several well-known quotation loci in the NT.
+>
+> **Conservative Notes** This edition receives Deuteronomy as Mosaic in substance and authorship, with the death notice understood as inspired final completion without overturning Mosaic authorship of the book proper.
+>
 
 ## Deuteronomy 1
 
@@ -12625,22 +12695,36 @@ Notes:
 
 # Joshua
 
-> **Joshua Intro**
+> **Joshua Introduction**
 >
-> **Auth.** Joshua with possible inspired final notices by Eleazar or Phinehas
-> **Basis** The book naturally reads as Joshua's conquest record with brief closing notices after his death.
-> **NT att.** No direct saying of Jesus names Joshua as author, but the OT historical books are treated as truthful covenant history; see Hebrews 4:8 for Joshua's historical role.
-> **Date** ca. 1406-1380 BC during and shortly after the conquest
-> **MT** MT chronology places Joshua immediately after Moses and before the judges in Israel's settlement of Canaan.
-> **LXX** The LXX preserves the same conquest setting, though some speech and place-name details differ from the MT in spots.
-> **Setting** Israel's entry into, conquest of, and initial allotment within Canaan under Joshua.
+> **Author and Attribution** Joshua with possible inspired final notices by Eleazar or Phinehas
+>
+> **Authorship Basis** The book naturally reads as Joshua's conquest record with brief closing notices after his death.
+>
+> **Jesus / NT Attribution** No direct saying of Jesus names Joshua as author, but the OT historical books are treated as truthful covenant history; see Hebrews 4:8 for Joshua's historical role.
+>
+> **Composition Date** ca. 1406-1380 BC during and shortly after the conquest
+>
+> **MT Timeline** MT chronology places Joshua immediately after Moses and before the judges in Israel's settlement of Canaan.
+>
+> **LXX Timeline** The LXX preserves the same conquest setting, though some speech and place-name details differ from the MT in spots.
+>
+> **Historical Setting** Israel's entry into, conquest of, and initial allotment within Canaan under Joshua.
+>
 > **Purpose** To show the LORD's covenant faithfulness in giving the land and to call Israel to obedient covenant fidelity.
-> **Themes** conquest; covenant faithfulness; land promise; holy war; inheritance; covenant renewal
+>
+> **Key Themes** conquest; covenant faithfulness; land promise; holy war; inheritance; covenant renewal
+>
 > **Outline** Entry and conquest 1-12; Land allotment 13-21; Covenant charge and renewal 22-24.
-> **Wit.** Frag. 4Q Joshua a (4Q47) ca. 200-100 BC | Subst. 4Q Joshua a and b preserve substantial early Hebrew portions of Joshua Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Joshua 4th-5th century AD
-> **Ext.** Retelling of Israel's conquest traditions by Josephus (1st century AD)
-> **Text** Joshua's textual witnesses show the usual MT/LXX differences in wording and arrangement; some Qumran evidence helps illuminate earlier Hebrew forms behind later traditions.
-> **Cons.** This edition receives Joshua as fundamentally authored within Joshua's lifetime, with any brief posthumous notices understood as inspired completion, not a denial of substantial Joshuanic authorship.
+>
+> **Earliest Witnesses** Frag. 4Q Joshua a (4Q47) ca. 200-100 BC | Subst. 4Q Joshua a and b preserve substantial early Hebrew portions of Joshua Hasmonean period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus, with Codex Alexandrinus also preserving Joshua 4th-5th century AD
+>
+> **Earliest External Attestation** Retelling of Israel's conquest traditions by Josephus (1st century AD)
+>
+> **Textual Notes** Joshua's textual witnesses show the usual MT/LXX differences in wording and arrangement; some Qumran evidence helps illuminate earlier Hebrew forms behind later traditions.
+>
+> **Conservative Notes** This edition receives Joshua as fundamentally authored within Joshua's lifetime, with any brief posthumous notices understood as inspired completion, not a denial of substantial Joshuanic authorship.
+>
 
 ## Joshua 1
 
@@ -14383,22 +14467,36 @@ Notes:
 
 # Judges
 
-> **Judges Intro**
+> **Judges Introduction**
 >
-> **Auth.** Samuel (traditional conservative view)
-> **Basis** Jewish and Christian tradition often ascribes Judges to Samuel; the recurring refrain fits an early-monarchy perspective looking back on the pre-kingdom period.
-> **NT att.** No direct NT attribution names the human writer, but Judges is received as truthful sacred history within the same covenant-historical stream Christ and the apostles endorse.
-> **Date** early monarchy
-> **MT** likely ca. 11th century BC
-> **LXX** MT chronology presents Judges as the era between Joshua and Samuel/Saul, though exact lengths within the book are debated.
-> **Setting** The LXX preserves the same judges-era framework while differing from the MT in various details and some plus/minus readings.
+> **Author and Attribution** Samuel (traditional conservative view)
+>
+> **Authorship Basis** Jewish and Christian tradition often ascribes Judges to Samuel; the recurring refrain fits an early-monarchy perspective looking back on the pre-kingdom period.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the human writer, but Judges is received as truthful sacred history within the same covenant-historical stream Christ and the apostles endorse.
+>
+> **Composition Date** early monarchy
+>
+> **MT Timeline** likely ca. 11th century BC
+>
+> **LXX Timeline** MT chronology presents Judges as the era between Joshua and Samuel/Saul, though exact lengths within the book are debated.
+>
+> **Historical Setting** The LXX preserves the same judges-era framework while differing from the MT in various details and some plus/minus readings.
+>
 > **Purpose** The unsettled tribal era between Joshua and the rise of the monarchy.
-> **Themes** To show Israel's cycle of apostasy, oppression, crying out, and deliverance, and the need for righteous covenant leadership.
+>
+> **Key Themes** To show Israel's cycle of apostasy, oppression, crying out, and deliverance, and the need for righteous covenant leadership.
+>
 > **Outline** apostasy; deliverance; covenant discipline; tribal disorder; need for godly rule
-> **Wit.** Frag. Introduction and incomplete conquest 1-3; Major judges 3-16; Epilogue of social and cultic disorder 17-21. 1Q Judges a (1Q6) and 4Q Judges fragments | Subst. before 68 BC Early Qumran Judges manuscripts preserve portions of the book in Hebrew | Heb. Hasmonean-Herodian periods Leningrad Codex | Gk. AD 1008 Codex Alexandrinus and Codex Vaticanus preserve Judges in Greek
-> **Ext.** 4th-5th century AD by Retelling of judges-era history (Josephus)
-> **Text** 1st century AD
-> **Cons.** Judges contains significant textual variation in a number of scenes, and the LXX can preserve readings useful for evaluating difficult MT passages.
+>
+> **Earliest Witnesses** Frag. Introduction and incomplete conquest 1-3; Major judges 3-16; Epilogue of social and cultic disorder 17-21. 1Q Judges a (1Q6) and 4Q Judges fragments | Subst. before 68 BC Early Qumran Judges manuscripts preserve portions of the book in Hebrew | Heb. Hasmonean-Herodian periods Leningrad Codex | Gk. AD 1008 Codex Alexandrinus and Codex Vaticanus preserve Judges in Greek
+>
+> **Earliest External Attestation** 4th-5th century AD by Retelling of judges-era history (Josephus)
+>
+> **Textual Notes** 1st century AD
+>
+> **Conservative Notes** Judges contains significant textual variation in a number of scenes, and the LXX can preserve readings useful for evaluating difficult MT passages.
+>
 
 ## Judges 1
 
@@ -16219,22 +16317,36 @@ Notes:
 
 # Ruth
 
-> **Ruth Intro**
+> **Ruth Introduction**
 >
-> **Auth.** Samuel (traditional conservative view)
-> **Basis** Ancient Jewish tradition commonly linked Ruth with Samuel; the Davidic genealogy and early-monarchy perspective fit that setting.
-> **NT att.** No direct NT statement names Ruth's writer, but Matthew 1 confirms Ruth's place in the true messianic genealogy.
-> **Date** early monarchy
-> **MT** likely 11th century BC
-> **LXX** MT chronology places Ruth in the days of the judges, with the genealogy reaching David in the monarchy's opening era.
-> **Setting** The LXX preserves the same judges-era setting and Davidic trajectory, with only limited textual divergence from the MT.
+> **Author and Attribution** Samuel (traditional conservative view)
+>
+> **Authorship Basis** Ancient Jewish tradition commonly linked Ruth with Samuel; the Davidic genealogy and early-monarchy perspective fit that setting.
+>
+> **Jesus / NT Attribution** No direct NT statement names Ruth's writer, but Matthew 1 confirms Ruth's place in the true messianic genealogy.
+>
+> **Composition Date** early monarchy
+>
+> **MT Timeline** likely 11th century BC
+>
+> **LXX Timeline** MT chronology places Ruth in the days of the judges, with the genealogy reaching David in the monarchy's opening era.
+>
+> **Historical Setting** The LXX preserves the same judges-era setting and Davidic trajectory, with only limited textual divergence from the MT.
+>
 > **Purpose** A famine-era Bethlehem setting during the judges, leading to the Davidic line through Ruth and Boaz.
-> **Themes** To display covenant kindness, providence, and the inclusion of Ruth the Moabitess in the line of David and Messiah.
+>
+> **Key Themes** To display covenant kindness, providence, and the inclusion of Ruth the Moabitess in the line of David and Messiah.
+>
 > **Outline** kindness; redemption; providence; Davidic line; kinsman-redeemer; covenant mercy
-> **Wit.** Frag. Naomi's emptiness 1; Ruth and Boaz meet 2; Redemption arranged 3; Redemption completed and genealogy 4. 4Q Ruth a (4Q104) | Subst. about 50 BC 4Q Ruth fragments provide the earliest Hebrew witness to the book | Heb. 1st century BC Leningrad Codex | Gk. AD 1008 Codex Alexandrinus and Codex Vaticanus preserve Ruth in Greek
-> **Ext.** 4th-5th century AD by Retelling of Ruth within Israel's sacred history (Josephus)
-> **Text** 1st century AD
-> **Cons.** Ruth is comparatively stable textually, though Qumran and Greek evidence remain useful at individual points.
+>
+> **Earliest Witnesses** Frag. Naomi's emptiness 1; Ruth and Boaz meet 2; Redemption arranged 3; Redemption completed and genealogy 4. 4Q Ruth a (4Q104) | Subst. about 50 BC 4Q Ruth fragments provide the earliest Hebrew witness to the book | Heb. 1st century BC Leningrad Codex | Gk. AD 1008 Codex Alexandrinus and Codex Vaticanus preserve Ruth in Greek
+>
+> **Earliest External Attestation** 4th-5th century AD by Retelling of Ruth within Israel's sacred history (Josephus)
+>
+> **Textual Notes** 1st century AD
+>
+> **Conservative Notes** Ruth is comparatively stable textually, though Qumran and Greek evidence remain useful at individual points.
+>
 
 ## Ruth 1
 
@@ -16498,22 +16610,36 @@ Notes:
 
 # 1 Samuel
 
-> **1 Samuel Intro**
+> **1 Samuel Introduction**
 >
-> **Auth.** Samuel with later prophetic completion by Nathan and Gad
-> **Basis** Conservative tradition often understands Samuel to have written the early material, with Nathan and Gad completing the later record; compare 1 Chronicles 29:29.
-> **NT att.** The NT treats the Samuel narrative as real sacred history; Acts 3:24 names Samuel prominently among the prophets.
-> **Date** ca. 11th-10th century BC across Samuel's ministry into David's early reign
-> **MT** MT chronology covers the transition from judgeship to monarchy, from Samuel to Saul and David.
-> **LXX** The LXX preserves the same transition period but sometimes preserves notable readings differing from the MT, especially in Samuel.
-> **Setting** Israel's transition from tribal confederation to monarchy under Samuel, Saul, and David.
+> **Author and Attribution** Samuel with later prophetic completion by Nathan and Gad
+>
+> **Authorship Basis** Conservative tradition often understands Samuel to have written the early material, with Nathan and Gad completing the later record; compare 1 Chronicles 29:29.
+>
+> **Jesus / NT Attribution** The NT treats the Samuel narrative as real sacred history; Acts 3:24 names Samuel prominently among the prophets.
+>
+> **Composition Date** ca. 11th-10th century BC across Samuel's ministry into David's early reign
+>
+> **MT Timeline** MT chronology covers the transition from judgeship to monarchy, from Samuel to Saul and David.
+>
+> **LXX Timeline** The LXX preserves the same transition period but sometimes preserves notable readings differing from the MT, especially in Samuel.
+>
+> **Historical Setting** Israel's transition from tribal confederation to monarchy under Samuel, Saul, and David.
+>
 > **Purpose** To show the rise of the monarchy under God's sovereign rule, the failure of Saul, and the divine choice of David.
-> **Themes** prophetic leadership; kingship; covenant obedience; rejection of Saul; rise of David
+>
+> **Key Themes** prophetic leadership; kingship; covenant obedience; rejection of Saul; rise of David
+>
 > **Outline** Samuel and Eli 1-7; Saul's rise and fall 8-15; David's rise under Saul's shadow 16-31.
-> **Wit.** Frag. 4Q Samuel b (4Q52) about 250 BC | Subst. 4Q Samuel a and related Samuel manuscripts preserve extensive early Hebrew evidence of both 1 and 2 Samuel 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve Samuel in Greek 4th-5th century AD
-> **Ext.** Retelling of Samuel-Saul-David history by Josephus (1st century AD)
-> **Text** Samuel is one of the most textually important books in MT/LXX comparison; 4QSamuel often aligns with the LXX against the MT and can preserve older readings.
-> **Cons.** This edition receives the Samuel corpus as truthful prophetic history and treats the strong Qumran-LXX evidence as valuable for recovering earlier Hebrew readings where the MT appears secondary.
+>
+> **Earliest Witnesses** Frag. 4Q Samuel b (4Q52) about 250 BC | Subst. 4Q Samuel a and related Samuel manuscripts preserve extensive early Hebrew evidence of both 1 and 2 Samuel 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve Samuel in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Retelling of Samuel-Saul-David history by Josephus (1st century AD)
+>
+> **Textual Notes** Samuel is one of the most textually important books in MT/LXX comparison; 4QSamuel often aligns with the LXX against the MT and can preserve older readings.
+>
+> **Conservative Notes** This edition receives the Samuel corpus as truthful prophetic history and treats the strong Qumran-LXX evidence as valuable for recovering earlier Hebrew readings where the MT appears secondary.
+>
 
 ## 1 Samuel 1
 
@@ -18881,22 +19007,36 @@ Notes:
 
 # 2 Samuel
 
-> **2 Samuel Intro**
+> **2 Samuel Introduction**
 >
-> **Auth.** Nathan and Gad continuing the Samuel corpus
-> **Basis** Conservative tradition commonly reads 1-2 Samuel as one prophetic history completed after Samuel's death by Nathan and Gad; compare 1 Chronicles 29:29.
-> **NT att.** The David narratives are treated throughout the NT as real sacred history grounding the messianic hope.
-> **Date** ca. 10th century BC during David's reign
-> **MT** MT chronology covers David's reign over Judah and all Israel, the covenant promise, and the later court narratives.
-> **LXX** The LXX preserves the same Davidic framework, though Samuel remains one of the books with major textual interest between MT and Greek tradition.
-> **Setting** David's reign in Hebron and Jerusalem, including covenant promise, sin, chastening, and kingdom consolidation.
+> **Author and Attribution** Nathan and Gad continuing the Samuel corpus
+>
+> **Authorship Basis** Conservative tradition commonly reads 1-2 Samuel as one prophetic history completed after Samuel's death by Nathan and Gad; compare 1 Chronicles 29:29.
+>
+> **Jesus / NT Attribution** The David narratives are treated throughout the NT as real sacred history grounding the messianic hope.
+>
+> **Composition Date** ca. 10th century BC during David's reign
+>
+> **MT Timeline** MT chronology covers David's reign over Judah and all Israel, the covenant promise, and the later court narratives.
+>
+> **LXX Timeline** The LXX preserves the same Davidic framework, though Samuel remains one of the books with major textual interest between MT and Greek tradition.
+>
+> **Historical Setting** David's reign in Hebron and Jerusalem, including covenant promise, sin, chastening, and kingdom consolidation.
+>
 > **Purpose** To present the establishment of David's kingdom, the Davidic covenant, and the moral seriousness of sin even in the Lord's chosen king.
-> **Themes** Davidic covenant; kingship; sin and repentance; providence; kingdom consolidation; messianic promise
+>
+> **Key Themes** Davidic covenant; kingship; sin and repentance; providence; kingdom consolidation; messianic promise
+>
 > **Outline** David's ascent 1-5; Ark and covenant promise 6-7; Royal victories 8-10; David's sin and its consequences 11-20; Final words and appendices 21-24.
-> **Wit.** Frag. 4Q Samuel a (4Q51) preserves extensive 2 Samuel material about 50 BC | Subst. 4Q Samuel manuscripts are the earliest substantial Hebrew witnesses to large portions of 2 Samuel 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 2 Samuel in Greek 4th-5th century AD
-> **Ext.** Retelling of David's reign by Josephus (1st century AD)
-> **Text** 2 Samuel contains major text-critical loci, and Qumran plus LXX evidence is often crucial where the MT is difficult or abbreviated.
-> **Cons.** This edition receives 2 Samuel as prophetic court history standing within the inspired Samuel corpus and treats textual divergence as a preservation issue, not a challenge to inerrancy.
+>
+> **Earliest Witnesses** Frag. 4Q Samuel a (4Q51) preserves extensive 2 Samuel material about 50 BC | Subst. 4Q Samuel manuscripts are the earliest substantial Hebrew witnesses to large portions of 2 Samuel 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 2 Samuel in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Retelling of David's reign by Josephus (1st century AD)
+>
+> **Textual Notes** 2 Samuel contains major text-critical loci, and Qumran plus LXX evidence is often crucial where the MT is difficult or abbreviated.
+>
+> **Conservative Notes** This edition receives 2 Samuel as prophetic court history standing within the inspired Samuel corpus and treats textual divergence as a preservation issue, not a challenge to inerrancy.
+>
 
 ## 2 Samuel 1
 
@@ -20895,22 +21035,36 @@ Notes:
 
 # 1 Kings
 
-> **1 Kings Intro**
+> **1 Kings Introduction**
 >
-> **Auth.** Jeremiah (traditional conservative view)
-> **Basis** Jewish and Christian tradition often associates Kings with Jeremiah or a prophetic school around him; the book reads as prophetic covenant history.
-> **NT att.** No direct NT attribution names the human writer, but the Elijah-Elisha and Solomon narratives are received as true sacred history throughout later Scripture.
-> **Date** exilic or late pre-exilic composition using earlier royal records
-> **MT** MT chronology runs from David's death through Solomon and the divided kingdom down to Ahab and Jehoshaphat's era.
-> **LXX** The LXX preserves the same royal history but differs from the MT in order and detail at several points, especially in the kingdom narratives.
-> **Setting** From Solomon's accession to the divided kingdom and the ministries of Elijah and related prophets.
+> **Author and Attribution** Jeremiah (traditional conservative view)
+>
+> **Authorship Basis** Jewish and Christian tradition often associates Kings with Jeremiah or a prophetic school around him; the book reads as prophetic covenant history.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the human writer, but the Elijah-Elisha and Solomon narratives are received as true sacred history throughout later Scripture.
+>
+> **Composition Date** exilic or late pre-exilic composition using earlier royal records
+>
+> **MT Timeline** MT chronology runs from David's death through Solomon and the divided kingdom down to Ahab and Jehoshaphat's era.
+>
+> **LXX Timeline** The LXX preserves the same royal history but differs from the MT in order and detail at several points, especially in the kingdom narratives.
+>
+> **Historical Setting** From Solomon's accession to the divided kingdom and the ministries of Elijah and related prophets.
+>
 > **Purpose** To explain the monarchy under the covenant, showing blessing for obedience and judgment for apostasy.
-> **Themes** kingdom; temple; covenant obedience; idolatry; prophetic warning; Elijah
+>
+> **Key Themes** kingdom; temple; covenant obedience; idolatry; prophetic warning; Elijah
+>
 > **Outline** Solomon's reign 1-11; Divided kingdom beginnings 12-16; Elijah cycle and royal narratives 17-22.
-> **Wit.** Frag. Qumran Kings fragments survive only sparsely Second Temple period | Subst. No large Qumran witness survives comparable to Samuel; major evidence comes from the medieval Hebrew tradition and ancient versions n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 1 Kings in Greek 4th-5th century AD
-> **Ext.** Retelling of Israel's monarchy by Josephus (1st century AD)
-> **Text** Kings is important for MT/LXX comparison because the Greek tradition sometimes preserves different order, pluses, or names in the royal accounts.
-> **Cons.** This edition receives Kings as prophetic covenant history, historically true and theologically interpretive, not as late fictionalized court legend.
+>
+> **Earliest Witnesses** Frag. Qumran Kings fragments survive only sparsely Second Temple period | Subst. No large Qumran witness survives comparable to Samuel; major evidence comes from the medieval Hebrew tradition and ancient versions n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 1 Kings in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Retelling of Israel's monarchy by Josephus (1st century AD)
+>
+> **Textual Notes** Kings is important for MT/LXX comparison because the Greek tradition sometimes preserves different order, pluses, or names in the royal accounts.
+>
+> **Conservative Notes** This edition receives Kings as prophetic covenant history, historically true and theologically interpretive, not as late fictionalized court legend.
+>
 
 ## 1 Kings 1
 
@@ -23093,22 +23247,36 @@ Notes:
 
 # 2 Kings
 
-> **2 Kings Intro**
+> **2 Kings Introduction**
 >
-> **Auth.** Jeremiah (traditional conservative view)
-> **Basis** Conservative tradition reads 1-2 Kings as one prophetic history shaped from royal and prophetic records, commonly linked with Jeremiah.
-> **NT att.** Later Scripture consistently treats the fall of Samaria and Jerusalem as real covenant judgments exactly as Kings presents them.
-> **Date** exilic composition using earlier records and prophetic material
-> **MT** MT chronology runs from Ahaziah and Elisha through the falls of Samaria and Jerusalem and the exile.
-> **LXX** The LXX preserves the same exile-centered history while differing at points from the MT in names, order, and phrasing.
-> **Setting** The decline of both kingdoms to exile, with prophetic ministries including Elisha, Isaiah's era, and the final collapse of Judah.
+> **Author and Attribution** Jeremiah (traditional conservative view)
+>
+> **Authorship Basis** Conservative tradition reads 1-2 Kings as one prophetic history shaped from royal and prophetic records, commonly linked with Jeremiah.
+>
+> **Jesus / NT Attribution** Later Scripture consistently treats the fall of Samaria and Jerusalem as real covenant judgments exactly as Kings presents them.
+>
+> **Composition Date** exilic composition using earlier records and prophetic material
+>
+> **MT Timeline** MT chronology runs from Ahaziah and Elisha through the falls of Samaria and Jerusalem and the exile.
+>
+> **LXX Timeline** The LXX preserves the same exile-centered history while differing at points from the MT in names, order, and phrasing.
+>
+> **Historical Setting** The decline of both kingdoms to exile, with prophetic ministries including Elisha, Isaiah's era, and the final collapse of Judah.
+>
 > **Purpose** To explain exile as covenant judgment while preserving hope through prophetic witness and Davidic continuity.
-> **Themes** exile; covenant curse; prophetic warning; reform; apostasy; remnant
+>
+> **Key Themes** exile; covenant curse; prophetic warning; reform; apostasy; remnant
+>
 > **Outline** Elisha and kings 1-8; Jehu and later northern kingdom 9-17; Judah's decline to exile 18-25.
-> **Wit.** Frag. Qumran Kings fragments are sparse Second Temple period | Subst. As with 1 Kings, the main early full-book comparison is between the later Hebrew tradition and the ancient Greek witnesses n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 2 Kings in Greek 4th-5th century AD
-> **Ext.** Retelling of the exilic catastrophe by Josephus (1st century AD)
-> **Text** 2 Kings is central to evaluating how MT and LXX preserve royal and exilic history, especially in synchronisms and proper names.
-> **Cons.** This edition receives 2 Kings as true prophetic interpretation of Israel's fall under God's covenant sanctions.
+>
+> **Earliest Witnesses** Frag. Qumran Kings fragments are sparse Second Temple period | Subst. As with 1 Kings, the main early full-book comparison is between the later Hebrew tradition and the ancient Greek witnesses n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Codex Alexandrinus preserve 2 Kings in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Retelling of the exilic catastrophe by Josephus (1st century AD)
+>
+> **Textual Notes** 2 Kings is central to evaluating how MT and LXX preserve royal and exilic history, especially in synchronisms and proper names.
+>
+> **Conservative Notes** This edition receives 2 Kings as true prophetic interpretation of Israel's fall under God's covenant sanctions.
+>
 
 ## 2 Kings 1
 
@@ -25379,22 +25547,36 @@ Notes:
 
 # 1 Chronicles
 
-> **1 Chronicles Intro**
+> **1 Chronicles Introduction**
 >
-> **Auth.** Ezra (traditional conservative view)
-> **Basis** Conservative tradition often links Chronicles to Ezra; the genealogical and priestly concerns fit a post-exilic covenant-restoration setting.
-> **NT att.** No direct NT attribution names the human author, but Chronicles participates in the inspired canonical history Christ endorsed in the Hebrew Scriptures.
-> **Date** post-exilic
-> **MT** likely 5th century BC
-> **LXX** MT chronology surveys from Adam to David, then narrows to David's reign with strong priestly and worship emphasis.
-> **Setting** The Greek tradition preserves the same broad shape, though Chronicles has far fewer dramatic MT/LXX divergences than Samuel-Kings.
+> **Author and Attribution** Ezra (traditional conservative view)
+>
+> **Authorship Basis** Conservative tradition often links Chronicles to Ezra; the genealogical and priestly concerns fit a post-exilic covenant-restoration setting.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the human author, but Chronicles participates in the inspired canonical history Christ endorsed in the Hebrew Scriptures.
+>
+> **Composition Date** post-exilic
+>
+> **MT Timeline** likely 5th century BC
+>
+> **LXX Timeline** MT chronology surveys from Adam to David, then narrows to David's reign with strong priestly and worship emphasis.
+>
+> **Historical Setting** The Greek tradition preserves the same broad shape, though Chronicles has far fewer dramatic MT/LXX divergences than Samuel-Kings.
+>
 > **Purpose** Post-exilic retelling of sacred history from Adam to David, written for the restored community.
-> **Themes** To reframe Israel's history around covenant continuity, temple worship, priesthood, and the Davidic line.
+>
+> **Key Themes** To reframe Israel's history around covenant continuity, temple worship, priesthood, and the Davidic line.
+>
 > **Outline** genealogy; temple worship; Levites; Davidic kingship; covenant continuity
-> **Wit.** Frag. Genealogies 1-9; David's reign and preparations for worship 10-29. Qumran Chronicles fragments survive only in limited form | Subst. Second Temple period No extensive early Qumran witness comparable to Samuel; the chronicler's text is chiefly known from later Hebrew manuscripts and Greek tradition | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Alexandrinus preserves Chronicles in Greek; Vaticanus is defective in parts of the historical books
-> **Ext.** 5th century AD by Use of Chronicles material in later Jewish historiography (Josephus)
-> **Text** 1st century AD
-> **Cons.** Chronicles often preserves an interpretive retelling distinct from Samuel-Kings; textual work must distinguish redactional purpose from transmissional difference.
+>
+> **Earliest Witnesses** Frag. Genealogies 1-9; David's reign and preparations for worship 10-29. Qumran Chronicles fragments survive only in limited form | Subst. Second Temple period No extensive early Qumran witness comparable to Samuel; the chronicler's text is chiefly known from later Hebrew manuscripts and Greek tradition | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Alexandrinus preserves Chronicles in Greek; Vaticanus is defective in parts of the historical books
+>
+> **Earliest External Attestation** 5th century AD by Use of Chronicles material in later Jewish historiography (Josephus)
+>
+> **Textual Notes** 1st century AD
+>
+> **Conservative Notes** Chronicles often preserves an interpretive retelling distinct from Samuel-Kings; textual work must distinguish redactional purpose from transmissional difference.
+>
 
 ## 1 Chronicles 1
 
@@ -27437,22 +27619,36 @@ Notes:
 
 # 2 Chronicles
 
-> **2 Chronicles Intro**
+> **2 Chronicles Introduction**
 >
-> **Auth.** Ezra (traditional conservative view)
-> **Basis** Traditionally linked with Ezra as part of the same Chronicler history.
-> **NT att.** The NT does not name the human writer, but the temple and Davidic history it preserves is treated as real covenant history.
-> **Date** post-exilic
-> **MT** likely 5th century BC
-> **LXX** MT chronology continues from Solomon through the southern kings to Cyrus's decree.
-> **Setting** The Greek tradition preserves the same Judah-centered framework with normal versional differences.
+> **Author and Attribution** Ezra (traditional conservative view)
+>
+> **Authorship Basis** Traditionally linked with Ezra as part of the same Chronicler history.
+>
+> **Jesus / NT Attribution** The NT does not name the human writer, but the temple and Davidic history it preserves is treated as real covenant history.
+>
+> **Composition Date** post-exilic
+>
+> **MT Timeline** likely 5th century BC
+>
+> **LXX Timeline** MT chronology continues from Solomon through the southern kings to Cyrus's decree.
+>
+> **Historical Setting** The Greek tradition preserves the same Judah-centered framework with normal versional differences.
+>
 > **Purpose** Judah's temple-centered history from Solomon to exile and restoration decree.
-> **Themes** To explain Judah's history through worship, reform, apostasy, and the hope of restoration under the Davidic and temple promises.
+>
+> **Key Themes** To explain Judah's history through worship, reform, apostasy, and the hope of restoration under the Davidic and temple promises.
+>
 > **Outline** temple; reform; apostasy; exile; restoration; Davidic line
-> **Wit.** Frag. Solomon and temple 1-9; Kings of Judah 10-36; Exile and Cyrus decree 36. Qumran Chronicles fragments are limited | Subst. Second Temple period Early Hebrew evidence is limited; the principal full witnesses are medieval Hebrew plus ancient Greek tradition | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Alexandrinus preserves 2 Chronicles in Greek
-> **Ext.** 5th century AD by Use of Chronicles history in later Jewish writing (Josephus)
-> **Text** 1st century AD
-> **Cons.** Chronicles should be read as complementary inspired history with its own theological emphases; textual divergence from Kings does not imply contradiction.
+>
+> **Earliest Witnesses** Frag. Solomon and temple 1-9; Kings of Judah 10-36; Exile and Cyrus decree 36. Qumran Chronicles fragments are limited | Subst. Second Temple period Early Hebrew evidence is limited; the principal full witnesses are medieval Hebrew plus ancient Greek tradition | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Alexandrinus preserves 2 Chronicles in Greek
+>
+> **Earliest External Attestation** 5th century AD by Use of Chronicles history in later Jewish writing (Josephus)
+>
+> **Textual Notes** 1st century AD
+>
+> **Conservative Notes** Chronicles should be read as complementary inspired history with its own theological emphases; textual divergence from Kings does not imply contradiction.
+>
 
 ## 2 Chronicles 1
 
@@ -29776,22 +29972,36 @@ Notes:
 
 # Ezra
 
-> **Ezra Intro**
+> **Ezra Introduction**
 >
-> **Auth.** Ezra
-> **Basis** The book's first-person sections and priestly-scribal perspective support Ezran authorship, with possible final compilation of Ezra-Nehemiah materials.
-> **NT att.** Ezra's role as priest and scribe is affirmed within the book itself; later Scripture receives the restoration account as true sacred history.
-> **Date** 5th century BC in the Persian period
-> **MT** MT chronology begins with Cyrus's decree and spans the return, temple rebuilding, and Ezra's reform mission.
-> **LXX** The Greek tradition preserves the same Persian-period restoration frame, though 1 Esdras witnesses a related alternate Greek arrangement of some material.
-> **Setting** Return from Babylon, temple restoration, and covenant reform under Persian rule.
+> **Author and Attribution** Ezra
+>
+> **Authorship Basis** The book's first-person sections and priestly-scribal perspective support Ezran authorship, with possible final compilation of Ezra-Nehemiah materials.
+>
+> **Jesus / NT Attribution** Ezra's role as priest and scribe is affirmed within the book itself; later Scripture receives the restoration account as true sacred history.
+>
+> **Composition Date** 5th century BC in the Persian period
+>
+> **MT Timeline** MT chronology begins with Cyrus's decree and spans the return, temple rebuilding, and Ezra's reform mission.
+>
+> **LXX Timeline** The Greek tradition preserves the same Persian-period restoration frame, though 1 Esdras witnesses a related alternate Greek arrangement of some material.
+>
+> **Historical Setting** Return from Babylon, temple restoration, and covenant reform under Persian rule.
+>
 > **Purpose** To show the LORD's faithfulness in restoring His people, temple, and law after exile.
-> **Themes** return; temple; law; reform; covenant restoration; providence under empire
+>
+> **Key Themes** return; temple; law; reform; covenant restoration; providence under empire
+>
 > **Outline** First return and temple rebuilding 1-6; Ezra's mission and reform 7-10.
-> **Wit.** Frag. 4Q Ezra material is limited and often overlaps the broader Ezra-Nehemiah tradition Second Temple period | Subst. Early Hebrew evidence for Ezra is limited; comparison with Greek 1 Esdras is especially important n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Ezra/Esdras material in Greek 4th-5th century AD
-> **Ext.** Use of Persian restoration history by Josephus (1st century AD)
-> **Text** Ezra is text-critically important because 1 Esdras sometimes preserves material parallel to canonical Ezra with differences in order and wording.
-> **Cons.** This edition receives Ezra as true post-exilic history under God's providence, with Greek parallels used to illuminate, not unsettle, the canonical book.
+>
+> **Earliest Witnesses** Frag. 4Q Ezra material is limited and often overlaps the broader Ezra-Nehemiah tradition Second Temple period | Subst. Early Hebrew evidence for Ezra is limited; comparison with Greek 1 Esdras is especially important n/a | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Ezra/Esdras material in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Use of Persian restoration history by Josephus (1st century AD)
+>
+> **Textual Notes** Ezra is text-critically important because 1 Esdras sometimes preserves material parallel to canonical Ezra with differences in order and wording.
+>
+> **Conservative Notes** This edition receives Ezra as true post-exilic history under God's providence, with Greek parallels used to illuminate, not unsettle, the canonical book.
+>
 
 ## Ezra 1
 
@@ -30856,22 +31066,36 @@ Notes:
 
 # Nehemiah
 
-> **Nehemiah Intro**
+> **Nehemiah Introduction**
 >
-> **Auth.** Nehemiah with Ezran/Chronicler compilation
-> **Basis** The first-person memoir strongly supports Nehemiah's authorship of core sections, with compilation alongside Ezra materials in the final book.
-> **NT att.** No direct NT attribution names the writer, but Nehemiah's restoration history stands within the authoritative post-exilic Scriptures.
-> **Date** 5th century BC in the Persian period,MT chronology covers Nehemiah's wall rebuilding and covenant reforms after Ezra's earlier mission."
-> **MT** The Greek tradition preserves the same restoration setting, with some overlap and variation in the wider Ezra-Nehemiah/Esdras textual tradition.
-> **LXX** Jerusalem's wall rebuilding, civic restoration, and covenant renewal under Persian rule.
-> **Setting** To show God's providential restoration of Jerusalem's defenses, order, and covenant life.
+> **Author and Attribution** Nehemiah with Ezran/Chronicler compilation
+>
+> **Authorship Basis** The first-person memoir strongly supports Nehemiah's authorship of core sections, with compilation alongside Ezra materials in the final book.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the writer, but Nehemiah's restoration history stands within the authoritative post-exilic Scriptures.
+>
+> **Composition Date** 5th century BC in the Persian period,MT chronology covers Nehemiah's wall rebuilding and covenant reforms after Ezra's earlier mission."
+>
+> **MT Timeline** The Greek tradition preserves the same restoration setting, with some overlap and variation in the wider Ezra-Nehemiah/Esdras textual tradition.
+>
+> **LXX Timeline** Jerusalem's wall rebuilding, civic restoration, and covenant renewal under Persian rule.
+>
+> **Historical Setting** To show God's providential restoration of Jerusalem's defenses, order, and covenant life.
+>
 > **Purpose** restoration; leadership; prayer; reform; covenant renewal; opposition
-> **Themes** Nehemiah's commission and rebuilding 1-7; Law and covenant renewal 8-10; community order and reforms 11-13.
+>
+> **Key Themes** Nehemiah's commission and rebuilding 1-7; Law and covenant renewal 8-10; community order and reforms 11-13.
+>
 > **Outline** Qumran Nehemiah evidence is very limited
-> **Wit.** Frag. Second Temple period Early Hebrew evidence is limited; later Hebrew manuscripts and the Greek Esdras tradition are primary witnesses | Subst. n/a Leningrad Codex | Heb. AD 1008 Greek Ezra-Nehemiah traditions preserved in major codices | Gk. 4th-5th century AD Use of restoration history
-> **Ext.** Josephus by 1st century AD (Nehemiah must be read with awareness of the wider Ezra-Nehemiah textual tradition, especially where Greek witness and canonical division differ.)
-> **Text** This edition receives Nehemiah as truthful restoration memoir-history under inspiration, not as a late didactic fiction.
-> **Cons.** Josephus Antiquities; codex notices; standard introductions to Ezra-Nehemiah.
+>
+> **Earliest Witnesses** Frag. Second Temple period Early Hebrew evidence is limited; later Hebrew manuscripts and the Greek Esdras tradition are primary witnesses | Subst. n/a Leningrad Codex | Heb. AD 1008 Greek Ezra-Nehemiah traditions preserved in major codices | Gk. 4th-5th century AD Use of restoration history
+>
+> **Earliest External Attestation** Josephus by 1st century AD (Nehemiah must be read with awareness of the wider Ezra-Nehemiah textual tradition, especially where Greek witness and canonical division differ.)
+>
+> **Textual Notes** This edition receives Nehemiah as truthful restoration memoir-history under inspiration, not as a late didactic fiction.
+>
+> **Conservative Notes** Josephus Antiquities; codex notices; standard introductions to Ezra-Nehemiah.
+>
 
 ## Nehemiah 1
 
@@ -31553,22 +31777,36 @@ Notes:
 
 # Esther
 
-> **Esther Intro**
+> **Esther Introduction**
 >
-> **Auth.** Mordecai or a near-contemporary Jewish witness (traditional conservative view)
-> **Basis** The book itself points to court knowledge and written records; Jewish tradition often linked it with Mordecai or a witness close to the events.
-> **NT att.** Though God's name is not explicit in the Hebrew form, the canonical narrative is received as true providential history preserving the covenant people.
-> **Date** Persian period
-> **MT** likely 5th century BC or soon after
-> **LXX** MT chronology places Esther in the reign of Ahasuerus/Xerxes I within the Persian dispersion.
-> **Setting** The Greek Esther tradition is much fuller than the MT, adding prayers, letters, and explicit references to God; this edition's OT base uses the Greek Esther tradition in the LXX stream.
+> **Author and Attribution** Mordecai or a near-contemporary Jewish witness (traditional conservative view)
+>
+> **Authorship Basis** The book itself points to court knowledge and written records; Jewish tradition often linked it with Mordecai or a witness close to the events.
+>
+> **Jesus / NT Attribution** Though God's name is not explicit in the Hebrew form, the canonical narrative is received as true providential history preserving the covenant people.
+>
+> **Composition Date** Persian period
+>
+> **MT Timeline** likely 5th century BC or soon after
+>
+> **LXX Timeline** MT chronology places Esther in the reign of Ahasuerus/Xerxes I within the Persian dispersion.
+>
+> **Historical Setting** The Greek Esther tradition is much fuller than the MT, adding prayers, letters, and explicit references to God; this edition's OT base uses the Greek Esther tradition in the LXX stream.
+>
 > **Purpose** Jewish preservation in Persia during the reign of Ahasuerus, between return waves to Judah.
-> **Themes** To show God's providential preservation of His covenant people under foreign rule and the origin of Purim.
+>
+> **Key Themes** To show God's providential preservation of His covenant people under foreign rule and the origin of Purim.
+>
 > **Outline** providence; preservation; reversal; covenant people in exile; Purim
-> **Wit.** Frag. Royal court crisis 1-4; Esther's intervention 5-7; Deliverance and Purim 8-10. 4Q Proto-Esther? evidence is debated and no certain Qumran Esther manuscript is widely accepted | Subst. uncertain No certain Hebrew Qumran Esther witness is securely established | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Esther with additions
-> **Ext.** 4th-5th century AD by Retelling of Esther traditions (Josephus)
-> **Text** 1st century AD
-> **Cons.** Esther is a major MT/LXX divergence point because the Greek tradition contains substantial additions absent from the MT; this study edition should note those differences clearly.
+>
+> **Earliest Witnesses** Frag. Royal court crisis 1-4; Esther's intervention 5-7; Deliverance and Purim 8-10. 4Q Proto-Esther? evidence is debated and no certain Qumran Esther manuscript is widely accepted | Subst. uncertain No certain Hebrew Qumran Esther witness is securely established | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Esther with additions
+>
+> **Earliest External Attestation** 4th-5th century AD by Retelling of Esther traditions (Josephus)
+>
+> **Textual Notes** 1st century AD
+>
+> **Conservative Notes** Esther is a major MT/LXX divergence point because the Greek tradition contains substantial additions absent from the MT; this study edition should note those differences clearly.
+>
 
 ## Esther 1
 
@@ -32054,22 +32292,36 @@ Notes:
 
 # Job
 
-> **Job Intro**
+> **Job Introduction**
 >
-> **Auth.** Job or an early inspired patriarchal-era recorder (conservative options vary)
-> **Basis** Conservative scholarship differs on the exact human writer, but commonly treats the book as preserving very early patriarchal wisdom history under inspiration.
-> **NT att.** James 5:11 treats Job as a real historical exemplar of endurance.
-> **Date** patriarchal-era setting; composition date debated
-> **MT** MT places Job in wisdom literature without explicit historical anchoring, but many conservative readers place the events in the patriarchal period.
-> **LXX** The LXX of Job is notably shorter than the MT and can reflect a different Greek Vorlage or abridgment history.
-> **Setting** A wisdom dialogue set in the land of Uz around the suffering of a righteous man under God's sovereignty.
+> **Author and Attribution** Job or an early inspired patriarchal-era recorder (conservative options vary)
+>
+> **Authorship Basis** Conservative scholarship differs on the exact human writer, but commonly treats the book as preserving very early patriarchal wisdom history under inspiration.
+>
+> **Jesus / NT Attribution** James 5:11 treats Job as a real historical exemplar of endurance.
+>
+> **Composition Date** patriarchal-era setting; composition date debated
+>
+> **MT Timeline** MT places Job in wisdom literature without explicit historical anchoring, but many conservative readers place the events in the patriarchal period.
+>
+> **LXX Timeline** The LXX of Job is notably shorter than the MT and can reflect a different Greek Vorlage or abridgment history.
+>
+> **Historical Setting** A wisdom dialogue set in the land of Uz around the suffering of a righteous man under God's sovereignty.
+>
 > **Purpose** To vindicate God's wisdom and sovereignty in suffering and to expose the limits of merely human explanations.
-> **Themes** suffering; sovereignty; wisdom; righteousness; endurance; divine speeches
+>
+> **Key Themes** suffering; sovereignty; wisdom; righteousness; endurance; divine speeches
+>
 > **Outline** Prologue 1-2; Dialogues 3-31; Elihu 32-37; The LORD's answer 38-42; Epilogue 42.
-> **Wit.** Frag. 4Q Job and 11Q Targum Job witness early circulation of the book Hasmonean period | Subst. Qumran Job fragments preserve early Hebrew evidence, though the Greek Job tradition is especially significant Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Job 4th-5th century AD
-> **Ext.** Job used as historical example by James (1st century AD)
-> **Text** Job is a major MT/LXX comparison point because the Greek text is materially shorter than the MT; the difference should be noted regularly in apparatus work.
-> **Cons.** This edition receives Job as truthful wisdom history with originally inerrant wording, even where witness traditions differ substantially in extent or phrasing.
+>
+> **Earliest Witnesses** Frag. 4Q Job and 11Q Targum Job witness early circulation of the book Hasmonean period | Subst. Qumran Job fragments preserve early Hebrew evidence, though the Greek Job tradition is especially significant Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Job 4th-5th century AD
+>
+> **Earliest External Attestation** Job used as historical example by James (1st century AD)
+>
+> **Textual Notes** Job is a major MT/LXX comparison point because the Greek text is materially shorter than the MT; the difference should be noted regularly in apparatus work.
+>
+> **Conservative Notes** This edition receives Job as truthful wisdom history with originally inerrant wording, even where witness traditions differ substantially in extent or phrasing.
+>
 
 ## Job 1
 
@@ -34478,22 +34730,36 @@ Notes:
 
 # Psalms
 
-> **Psalms Intro**
+> **Psalms Introduction**
 >
-> **Auth.** David chiefly
-> **Basis** with Asaph
-> **NT att.** sons of Korah
-> **Date** Moses
-> **MT** Solomon
-> **LXX** and others
-> **Setting** The superscriptions name many human authors; David remains the principal psalmist in both Scripture and tradition.
+> **Author and Attribution** David chiefly
+>
+> **Authorship Basis** with Asaph
+>
+> **Jesus / NT Attribution** sons of Korah
+>
+> **Composition Date** Moses
+>
+> **MT Timeline** Solomon
+>
+> **LXX Timeline** and others
+>
+> **Historical Setting** The superscriptions name many human authors; David remains the principal psalmist in both Scripture and tradition.
+>
 > **Purpose** Jesus attributes Psalm 110 to David in Matthew 22:43-45; Acts 4:25 attributes Psalm 2 to David; Acts 1:16 treats the Psalms as spoken by the Spirit through David.
-> **Themes** collected across Israel's history
+>
+> **Key Themes** collected across Israel's history
+>
 > **Outline** chiefly 10th-5th centuries BC
-> **Wit.** Frag. MT Psalms preserves the Hebrew five-book Psalter with 150 psalms. The LXX Psalter differs in numbering and includes Psalm 151 in some traditions, an important issue for an LXX-based edition. | Subst. Israel's canonical hymnbook for worship, lament, kingship, repentance, wisdom, and messianic hope. To teach the people of God how to pray, praise, lament, repent, hope, and worship in covenant fellowship. | Heb. praise; lament; kingship; Messiah; wisdom; repentance; worship Books I-V of the Psalter; praise crescendo closes the collection. | Gk. Qumran Psalms manuscripts are abundant, including 11Q Psalms a 3rd-1st centuries BC
-> **Ext.** 11Q Psalms a is a substantial early Hebrew Psalms witness with notable collection features by Hasmonean period (Leningrad Codex)
-> **Text** AD 1008
-> **Cons.** Codex Alexandrinus and Vaticanus preserve the Greek Psalter
+>
+> **Earliest Witnesses** Frag. MT Psalms preserves the Hebrew five-book Psalter with 150 psalms. The LXX Psalter differs in numbering and includes Psalm 151 in some traditions, an important issue for an LXX-based edition. | Subst. Israel's canonical hymnbook for worship, lament, kingship, repentance, wisdom, and messianic hope. To teach the people of God how to pray, praise, lament, repent, hope, and worship in covenant fellowship. | Heb. praise; lament; kingship; Messiah; wisdom; repentance; worship Books I-V of the Psalter; praise crescendo closes the collection. | Gk. Qumran Psalms manuscripts are abundant, including 11Q Psalms a 3rd-1st centuries BC
+>
+> **Earliest External Attestation** 11Q Psalms a is a substantial early Hebrew Psalms witness with notable collection features by Hasmonean period (Leningrad Codex)
+>
+> **Textual Notes** AD 1008
+>
+> **Conservative Notes** Codex Alexandrinus and Vaticanus preserve the Greek Psalter
+>
 
 ## Psalms 1
 
@@ -39994,22 +40260,36 @@ Notes:
 
 # Proverbs
 
-> **Proverbs Intro**
+> **Proverbs Introduction**
 >
-> **Auth.** Solomon chiefly
-> **Basis** with Agur and Lemuel sections and later inspired compilation
-> **NT att.** The book itself names Solomon as principal source and includes later collected materials plus named sayings of Agur and Lemuel.
-> **Date** 1 Kings 4:32 testifies to Solomon's proverbial activity; the canonical book itself supplies the remaining internal attributions.
-> **MT** mainly 10th century BC with later collected sections
-> **LXX** MT Proverbs presents the standard Hebrew order of sayings and collections.
-> **Setting** The LXX of Proverbs differs notably in order and some wording from the MT, making it a significant comparison point.
+> **Author and Attribution** Solomon chiefly
+>
+> **Authorship Basis** with Agur and Lemuel sections and later inspired compilation
+>
+> **Jesus / NT Attribution** The book itself names Solomon as principal source and includes later collected materials plus named sayings of Agur and Lemuel.
+>
+> **Composition Date** 1 Kings 4:32 testifies to Solomon's proverbial activity; the canonical book itself supplies the remaining internal attributions.
+>
+> **MT Timeline** mainly 10th century BC with later collected sections
+>
+> **LXX Timeline** MT Proverbs presents the standard Hebrew order of sayings and collections.
+>
+> **Historical Setting** The LXX of Proverbs differs notably in order and some wording from the MT, making it a significant comparison point.
+>
 > **Purpose** Wisdom instruction for covenant life under the fear of the LORD.
-> **Themes** To impart practical, moral, and covenantal wisdom ordered under the fear of the LORD.
+>
+> **Key Themes** To impart practical, moral, and covenantal wisdom ordered under the fear of the LORD.
+>
 > **Outline** wisdom; fear of the LORD; righteousness; speech; family; kingship; discipline
-> **Wit.** Frag. Prologue 1-9; Solomonic sayings 10-24; Additional collections 25-29; Agur 30; Lemuel 31. Qumran Proverbs fragments survive in limited form | Subst. Second Temple period Early Hebrew evidence is limited compared with Psalms or Samuel, so the MT and ancient versions carry special weight | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Proverbs
-> **Ext.** 4th-5th century AD by Use of proverbial material in later Jewish wisdom tradition (Ben Sira and others)
-> **Text** 2nd century BC and later
-> **Cons.** Proverbs is one of the books where the Greek tradition can differ markedly in order and arrangement from the MT.
+>
+> **Earliest Witnesses** Frag. Prologue 1-9; Solomonic sayings 10-24; Additional collections 25-29; Agur 30; Lemuel 31. Qumran Proverbs fragments survive in limited form | Subst. Second Temple period Early Hebrew evidence is limited compared with Psalms or Samuel, so the MT and ancient versions carry special weight | Heb. n/a Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Proverbs
+>
+> **Earliest External Attestation** 4th-5th century AD by Use of proverbial material in later Jewish wisdom tradition (Ben Sira and others)
+>
+> **Textual Notes** 2nd century BC and later
+>
+> **Conservative Notes** Proverbs is one of the books where the Greek tradition can differ markedly in order and arrangement from the MT.
+>
 
 ## Proverbs 1
 
@@ -41986,22 +42266,36 @@ Notes:
 
 # Ecclesiastes
 
-> **Ecclesiastes Intro**
+> **Ecclesiastes Introduction**
 >
-> **Auth.** Solomon (Qoheleth) in conservative evangelical reading
-> **Basis** The speaker identifies himself as son of David, king in Jerusalem; conservative interpretation receives this as Solomonic.
-> **NT att.** The canonical self-presentation is the principal basis; conservative readers do not treat the Solomonic voice as literary fiction.
-> **Date** 10th century BC in Solomon's later life
-> **MT** MT Ecclesiastes presents Qoheleth's reflections in the standard Hebrew form.
-> **LXX** The LXX of Ecclesiastes is often quite literal but still participates in the broader Greek textual history of the book.
-> **Setting** A wisdom reflection on life under the sun, mortality, vanity, and the fear of God.
+> **Author and Attribution** Solomon (Qoheleth) in conservative evangelical reading
+>
+> **Authorship Basis** The speaker identifies himself as son of David, king in Jerusalem; conservative interpretation receives this as Solomonic.
+>
+> **Jesus / NT Attribution** The canonical self-presentation is the principal basis; conservative readers do not treat the Solomonic voice as literary fiction.
+>
+> **Composition Date** 10th century BC in Solomon's later life
+>
+> **MT Timeline** MT Ecclesiastes presents Qoheleth's reflections in the standard Hebrew form.
+>
+> **LXX Timeline** The LXX of Ecclesiastes is often quite literal but still participates in the broader Greek textual history of the book.
+>
+> **Historical Setting** A wisdom reflection on life under the sun, mortality, vanity, and the fear of God.
+>
 > **Purpose** To expose the vanity of life apart from God and to drive the reader to fear God and keep His commandments.
-> **Themes** vanity; mortality; joy; wisdom; judgment; fear of God
+>
+> **Key Themes** vanity; mortality; joy; wisdom; judgment; fear of God
+>
 > **Outline** Prologue 1:1-11; Qoheleth's investigations 1:12-12:7; Epilogue 12:8-14.
-> **Wit.** Frag. Qumran Ecclesiastes fragments survive, including 4Q109 1st century BC | Subst. Qumran fragments provide early Hebrew support for the book's text Late Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Ecclesiastes 4th-5th century AD
-> **Ext.** Use in later Jewish and Christian wisdom reflection by Multiple (later Second Temple and early Christian periods)
-> **Text** Ecclesiastes is comparatively stable textually, though interpretation and voice remain more debated than the text itself.
-> **Cons.** This edition receives Ecclesiastes as Solomonic wisdom and reads its realism as fully compatible with inspiration and inerrancy.
+>
+> **Earliest Witnesses** Frag. Qumran Ecclesiastes fragments survive, including 4Q109 1st century BC | Subst. Qumran fragments provide early Hebrew support for the book's text Late Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Ecclesiastes 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish and Christian wisdom reflection by Multiple (later Second Temple and early Christian periods)
+>
+> **Textual Notes** Ecclesiastes is comparatively stable textually, though interpretation and voice remain more debated than the text itself.
+>
+> **Conservative Notes** This edition receives Ecclesiastes as Solomonic wisdom and reads its realism as fully compatible with inspiration and inerrancy.
+>
 
 ## Ecclesiastes 1
 
@@ -42652,22 +42946,36 @@ Notes:
 
 # Song of Solomon
 
-> **Song of Solomon Intro**
+> **Song of Solomon Introduction**
 >
-> **Auth.** Solomon
-> **Basis** The superscription identifies the Song with Solomon; conservative reading receives this straightforwardly.
-> **NT att.** The book's own superscription supplies the primary attribution.
-> **Date** 10th century BC
-> **MT** MT Song of Songs preserves the Hebrew love poetry collection in its canonical form.
-> **LXX** The LXX preserves the same basic collection, though poetic nuance can shift in translation.
-> **Setting** A poetic song celebrating covenantal love, beauty, longing, and marital delight.
+> **Author and Attribution** Solomon
+>
+> **Authorship Basis** The superscription identifies the Song with Solomon; conservative reading receives this straightforwardly.
+>
+> **Jesus / NT Attribution** The book's own superscription supplies the primary attribution.
+>
+> **Composition Date** 10th century BC
+>
+> **MT Timeline** MT Song of Songs preserves the Hebrew love poetry collection in its canonical form.
+>
+> **LXX Timeline** The LXX preserves the same basic collection, though poetic nuance can shift in translation.
+>
+> **Historical Setting** A poetic song celebrating covenantal love, beauty, longing, and marital delight.
+>
 > **Purpose** To honor covenant love and marriage while also fitting within the wider canonical pattern of the Lord's delight in His people.
-> **Themes** love; marriage; beauty; delight; covenant affection; desire rightly ordered
+>
+> **Key Themes** love; marriage; beauty; delight; covenant affection; desire rightly ordered
+>
 > **Outline** Opening desire 1-2; courtship and longing 3-5; mutual praise 6-8.
-> **Wit.** Frag. 4Q Song of Songs fragments survive Second Temple period | Subst. Qumran fragments provide early Hebrew witness to the Song Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve the Song in Greek 4th-5th century AD
-> **Ext.** Use in later Jewish interpretation by Rabbinic and later Jewish tradition (later Second Temple and after)
-> **Text** The Song is less about major textual divergence than poetic translation nuance between Hebrew and Greek.
-> **Cons.** This edition receives the Song as inspired Solomonic poetry honoring God-ordained love and marriage, without denying its place in the larger redemptive canon.
+>
+> **Earliest Witnesses** Frag. 4Q Song of Songs fragments survive Second Temple period | Subst. Qumran fragments provide early Hebrew witness to the Song Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve the Song in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish interpretation by Rabbinic and later Jewish tradition (later Second Temple and after)
+>
+> **Textual Notes** The Song is less about major textual divergence than poetic translation nuance between Hebrew and Greek.
+>
+> **Conservative Notes** This edition receives the Song as inspired Solomonic poetry honoring God-ordained love and marriage, without denying its place in the larger redemptive canon.
+>
 
 ## Song of Solomon 1
 
@@ -43048,22 +43356,36 @@ Notes:
 
 # Isaiah
 
-> **Isaiah Intro**
+> **Isaiah Introduction**
 >
-> **Auth.** Isaiah son of Amoz
-> **Basis** The book repeatedly names Isaiah son of Amoz, and conservative scholarship receives the whole canonical book as Isaianic prophecy.
-> **NT att.** John 12:38-41 cites both Isaiah 53 and Isaiah 6 as Isaiah; Matthew 13:14; Acts 28:25; Romans 10:16,20 all treat Isaiah as the prophet speaking these words.
-> **Date** 8th century BC
-> **MT** ca. 740-680 BC
-> **LXX** MT chronology places Isaiah in the reigns of Uzziah, Jotham, Ahaz, and Hezekiah.
-> **Setting** The LXX preserves the same prophetic horizon, though Isaiah is one of the major books where Greek renderings can significantly shape later quotation and interpretation.
+> **Author and Attribution** Isaiah son of Amoz
+>
+> **Authorship Basis** The book repeatedly names Isaiah son of Amoz, and conservative scholarship receives the whole canonical book as Isaianic prophecy.
+>
+> **Jesus / NT Attribution** John 12:38-41 cites both Isaiah 53 and Isaiah 6 as Isaiah; Matthew 13:14; Acts 28:25; Romans 10:16,20 all treat Isaiah as the prophet speaking these words.
+>
+> **Composition Date** 8th century BC
+>
+> **MT Timeline** ca. 740-680 BC
+>
+> **LXX Timeline** MT chronology places Isaiah in the reigns of Uzziah, Jotham, Ahaz, and Hezekiah.
+>
+> **Historical Setting** The LXX preserves the same prophetic horizon, though Isaiah is one of the major books where Greek renderings can significantly shape later quotation and interpretation.
+>
 > **Purpose** Judah in the Assyrian crisis, with prophecy reaching far beyond to exile, restoration, and Messiah.
-> **Themes** To announce the Holy One's judgment on sin and His salvation through the coming Servant-King.
+>
+> **Key Themes** To announce the Holy One's judgment on sin and His salvation through the coming Servant-King.
+>
 > **Outline** holiness; judgment; remnant; Messiah; servant; Zion; new creation
-> **Wit.** Frag. Oracles of judgment and hope 1-39; Comfort and redemption 40-55; Restoration and consummation 56-66. 1Q Isaiah a, the Great Isaiah Scroll | Subst. 2nd century BC 1Q Isaiah a is an almost complete early Hebrew witness; 1Q Isaiah b and others also survive | Heb. 2nd-1st centuries BC Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Isaiah
-> **Ext.** 4th-5th century AD by Extensive use in later Jewish literature and the NT (Multiple)
-> **Text** 2nd century BC onward
-> **Cons.** Isaiah is a premier book for MT/LXX and NT quotation study because both traditions are richly attested and frequently cited.
+>
+> **Earliest Witnesses** Frag. Oracles of judgment and hope 1-39; Comfort and redemption 40-55; Restoration and consummation 56-66. 1Q Isaiah a, the Great Isaiah Scroll | Subst. 2nd century BC 1Q Isaiah a is an almost complete early Hebrew witness; 1Q Isaiah b and others also survive | Heb. 2nd-1st centuries BC Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Isaiah
+>
+> **Earliest External Attestation** 4th-5th century AD by Extensive use in later Jewish literature and the NT (Multiple)
+>
+> **Textual Notes** 2nd century BC onward
+>
+> **Conservative Notes** Isaiah is a premier book for MT/LXX and NT quotation study because both traditions are richly attested and frequently cited.
+>
 
 ## Isaiah 1
 
@@ -46724,22 +47046,36 @@ Notes:
 
 # Jeremiah
 
-> **Jeremiah Intro**
+> **Jeremiah Introduction**
 >
-> **Auth.** Jeremiah with Baruch as scribal associate
-> **Basis** The book itself presents Jeremiah's prophetic ministry and Baruch's scribal role; conservative scholarship receives Jeremiah as the prophet behind the book.
-> **NT att.** Matthew 2:17; Hebrews 8:8 and other NT texts receive Jeremiah as the speaking prophet.
-> **Date** late 7th to early 6th century BC
-> **MT** MT chronology follows Jeremiah's ministry from Josiah through Jerusalem's fall and aftermath.
-> **LXX** The LXX of Jeremiah is substantially shorter and differently ordered than the MT, making it one of the most important textual comparison books in Scripture.
-> **Setting** Judah's final decades before exile, with prophecies of judgment, exile, and new covenant hope.
+> **Author and Attribution** Jeremiah with Baruch as scribal associate
+>
+> **Authorship Basis** The book itself presents Jeremiah's prophetic ministry and Baruch's scribal role; conservative scholarship receives Jeremiah as the prophet behind the book.
+>
+> **Jesus / NT Attribution** Matthew 2:17; Hebrews 8:8 and other NT texts receive Jeremiah as the speaking prophet.
+>
+> **Composition Date** late 7th to early 6th century BC
+>
+> **MT Timeline** MT chronology follows Jeremiah's ministry from Josiah through Jerusalem's fall and aftermath.
+>
+> **LXX Timeline** The LXX of Jeremiah is substantially shorter and differently ordered than the MT, making it one of the most important textual comparison books in Scripture.
+>
+> **Historical Setting** Judah's final decades before exile, with prophecies of judgment, exile, and new covenant hope.
+>
 > **Purpose** To proclaim covenant judgment on Judah and the nations while promising restoration and the new covenant.
-> **Themes** judgment; exile; new covenant; false prophecy; restoration; nations
+>
+> **Key Themes** judgment; exile; new covenant; false prophecy; restoration; nations
+>
 > **Outline** Call and early oracles 1-25; Narrative and conflict 26-45; Oracles against the nations 46-51; Fall of Jerusalem 52.
-> **Wit.** Frag. 4Q Jeremiah manuscripts, some aligning more with the LXX form 3rd-2nd centuries BC | Subst. Qumran Jeremiah manuscripts provide crucial evidence for both longer and shorter textual forms 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Jeremiah 4th-5th century AD
-> **Ext.** Use in later Jewish writing and heavily in the NT by Multiple (pre-Christian and 1st century AD)
-> **Text** Jeremiah is a flagship example of MT/LXX textual divergence, with major differences in order and extent and important Qumran support for shorter forms.
-> **Cons.** This edition receives Jeremiah as the true prophet of the book and treats textual plurality in transmission as a preservation issue, not as a denial of inspired prophetic authorship.
+>
+> **Earliest Witnesses** Frag. 4Q Jeremiah manuscripts, some aligning more with the LXX form 3rd-2nd centuries BC | Subst. Qumran Jeremiah manuscripts provide crucial evidence for both longer and shorter textual forms 3rd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Jeremiah 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish writing and heavily in the NT by Multiple (pre-Christian and 1st century AD)
+>
+> **Textual Notes** Jeremiah is a flagship example of MT/LXX textual divergence, with major differences in order and extent and important Qumran support for shorter forms.
+>
+> **Conservative Notes** This edition receives Jeremiah as the true prophet of the book and treats textual plurality in transmission as a preservation issue, not as a denial of inspired prophetic authorship.
+>
 
 ## Jeremiah 1
 
@@ -50020,22 +50356,36 @@ Notes:
 
 # Lamentations
 
-> **Lamentations Intro**
+> **Lamentations Introduction**
 >
-> **Auth.** Jeremiah (traditional conservative view)
-> **Basis** Jewish and Christian tradition long associated Lamentations with Jeremiah in response to Jerusalem's fall.
-> **NT att.** The NT does not explicitly name the writer, but the traditional Jeremianic setting remains the standard conservative reading.
-> **Date** shortly after 586 BC
-> **MT** MT chronology places the poems in the aftermath of Jerusalem's destruction by Babylon.
-> **LXX** The LXX preserves the same exilic lament setting and explicitly frames the poems with a Jeremianic superscription in some traditions.
-> **Setting** Poetic lament over Jerusalem's destruction, suffering, sin, and hope in God's mercies.
+> **Author and Attribution** Jeremiah (traditional conservative view)
+>
+> **Authorship Basis** Jewish and Christian tradition long associated Lamentations with Jeremiah in response to Jerusalem's fall.
+>
+> **Jesus / NT Attribution** The NT does not explicitly name the writer, but the traditional Jeremianic setting remains the standard conservative reading.
+>
+> **Composition Date** shortly after 586 BC
+>
+> **MT Timeline** MT chronology places the poems in the aftermath of Jerusalem's destruction by Babylon.
+>
+> **LXX Timeline** The LXX preserves the same exilic lament setting and explicitly frames the poems with a Jeremianic superscription in some traditions.
+>
+> **Historical Setting** Poetic lament over Jerusalem's destruction, suffering, sin, and hope in God's mercies.
+>
 > **Purpose** To give faithful lament language for covenant catastrophe while sustaining hope in God's compassion.
-> **Themes** lament; judgment; grief; confession; hope; mercy
+>
+> **Key Themes** lament; judgment; grief; confession; hope; mercy
+>
 > **Outline** Poems 1-4 over the fall; prayer for restoration 5.
-> **Wit.** Frag. 4Q Lamentations fragments survive Second Temple period | Subst. Qumran fragments provide early Hebrew witness Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Lamentations 4th-5th century AD
-> **Ext.** Use in later Jewish lament tradition by Multiple (Second Temple and later)
-> **Text** Lamentations is relatively stable textually, though the Greek superscription and poetic choices deserve notice.
-> **Cons.** This edition receives the traditional Jeremianic connection as strong and fitting the historical situation immediately after Jerusalem's fall.
+>
+> **Earliest Witnesses** Frag. 4Q Lamentations fragments survive Second Temple period | Subst. Qumran fragments provide early Hebrew witness Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Lamentations 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish lament tradition by Multiple (Second Temple and later)
+>
+> **Textual Notes** Lamentations is relatively stable textually, though the Greek superscription and poetic choices deserve notice.
+>
+> **Conservative Notes** This edition receives the traditional Jeremianic connection as strong and fitting the historical situation immediately after Jerusalem's fall.
+>
 
 ## Lamentations 1
 
@@ -50627,22 +50977,36 @@ Notes:
 
 # Ezekiel
 
-> **Ezekiel Intro**
+> **Ezekiel Introduction**
 >
-> **Auth.** Ezekiel the priest-prophet
-> **Basis** The book repeatedly names Ezekiel and is anchored in his exilic visionary ministry.
-> **NT att.** The NT echoes Ezekiel extensively and receives his prophecies as authoritative Scripture, though without naming authorship in the same way as Isaiah or Jeremiah.
-> **Date** ca. 593-571 BC in the Babylonian exile
-> **MT** MT chronology anchors Ezekiel's visions by dated notices in exile.
-> **LXX** The LXX preserves the same exilic framework and is an important witness for some difficult passages.
-> **Setting** Exilic prophetic ministry among the deportees in Babylon.
+> **Author and Attribution** Ezekiel the priest-prophet
+>
+> **Authorship Basis** The book repeatedly names Ezekiel and is anchored in his exilic visionary ministry.
+>
+> **Jesus / NT Attribution** The NT echoes Ezekiel extensively and receives his prophecies as authoritative Scripture, though without naming authorship in the same way as Isaiah or Jeremiah.
+>
+> **Composition Date** ca. 593-571 BC in the Babylonian exile
+>
+> **MT Timeline** MT chronology anchors Ezekiel's visions by dated notices in exile.
+>
+> **LXX Timeline** The LXX preserves the same exilic framework and is an important witness for some difficult passages.
+>
+> **Historical Setting** Exilic prophetic ministry among the deportees in Babylon.
+>
 > **Purpose** To announce judgment on Jerusalem and the nations, then restoration, new heart, new temple, and renewed land.
-> **Themes** glory of God; judgment; exile; new heart; shepherd; restoration; temple
+>
+> **Key Themes** glory of God; judgment; exile; new heart; shepherd; restoration; temple
+>
 > **Outline** Judgment visions 1-24; Oracles against nations 25-32; Restoration and temple vision 33-48.
-> **Wit.** Frag. 4Q Ezekiel fragments survive Second Temple period | Subst. Qumran Ezekiel manuscripts provide early Hebrew witness to parts of the book Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Ezekiel 4th-5th century AD
-> **Ext.** Use in later Jewish apocalyptic and Christian interpretation by Multiple (Second Temple and early Christian periods)
-> **Text** Ezekiel's symbolic language, measurements, and temple vision make versional comparison useful, though not as radically divergent as Jeremiah.
-> **Cons.** This edition receives Ezekiel as the named priest-prophet of the book and treats the dated vision notices as historically grounded prophetic testimony.
+>
+> **Earliest Witnesses** Frag. 4Q Ezekiel fragments survive Second Temple period | Subst. Qumran Ezekiel manuscripts provide early Hebrew witness to parts of the book Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Ezekiel 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish apocalyptic and Christian interpretation by Multiple (Second Temple and early Christian periods)
+>
+> **Textual Notes** Ezekiel's symbolic language, measurements, and temple vision make versional comparison useful, though not as radically divergent as Jeremiah.
+>
+> **Conservative Notes** This edition receives Ezekiel as the named priest-prophet of the book and treats the dated vision notices as historically grounded prophetic testimony.
+>
 
 ## Ezekiel 1
 
@@ -54257,22 +54621,36 @@ Notes:
 
 # Daniel
 
-> **Daniel Intro**
+> **Daniel Introduction**
 >
-> **Auth.** Daniel
-> **Basis** The book names Daniel and conservative scholarship receives both court tales and visions as Danielic, with later copying but not late pseudonymous authorship.
-> **NT att.** Jesus explicitly refers to Daniel as the prophet in Matthew 24:15.
-> **Date** 6th century BC in the Babylonian and Persian periods
-> **MT** MT chronology places Daniel in the exile from Babylon through Persian rule; the Hebrew-Aramaic form is part of the canonical witness.
-> **LXX** The Greek tradition preserves Daniel in Old Greek and Theodotionic forms; this edition's LXX stream especially requires careful note of Greek Daniel material and its relation to the MT/Aramaic form.
-> **Setting** Court history and apocalyptic visions in exile, showing God's rule over empires and the coming kingdom.
+> **Author and Attribution** Daniel
+>
+> **Authorship Basis** The book names Daniel and conservative scholarship receives both court tales and visions as Danielic, with later copying but not late pseudonymous authorship.
+>
+> **Jesus / NT Attribution** Jesus explicitly refers to Daniel as the prophet in Matthew 24:15.
+>
+> **Composition Date** 6th century BC in the Babylonian and Persian periods
+>
+> **MT Timeline** MT chronology places Daniel in the exile from Babylon through Persian rule; the Hebrew-Aramaic form is part of the canonical witness.
+>
+> **LXX Timeline** The Greek tradition preserves Daniel in Old Greek and Theodotionic forms; this edition's LXX stream especially requires careful note of Greek Daniel material and its relation to the MT/Aramaic form.
+>
+> **Historical Setting** Court history and apocalyptic visions in exile, showing God's rule over empires and the coming kingdom.
+>
 > **Purpose** To reveal God's sovereignty over world kingdoms and His final triumph through the Son of Man's everlasting dominion.
-> **Themes** sovereignty; exile; kingdom; resurrection; antichrist pattern; Son of Man; deliverance
+>
+> **Key Themes** sovereignty; exile; kingdom; resurrection; antichrist pattern; Son of Man; deliverance
+>
 > **Outline** Court narratives 1-6; Visions 7-12; Greek Daniel additions in the wider tradition.
-> **Wit.** Frag. 4Q Daniel manuscripts 2nd-1st centuries BC | Subst. Qumran Daniel manuscripts provide early Hebrew-Aramaic witness close to the Maccabean era and argue strongly for the book's early acceptance 2nd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Daniel traditions, though Theodotion became dominant in much Christian use 4th-5th century AD
-> **Ext.** Use in later Jewish apocalyptic and explicit citation by Jesus by Jesus and later Jewish literature (1st century AD and earlier)
-> **Text** Daniel is central for comparing Hebrew-Aramaic text, Old Greek, Theodotion, and the Greek additions such as Susanna and Bel and the Dragon.
-> **Cons.** This edition receives Daniel as the prophet named by Christ and therefore rejects late pseudonymous theories as incompatible with Christ's testimony.
+>
+> **Earliest Witnesses** Frag. 4Q Daniel manuscripts 2nd-1st centuries BC | Subst. Qumran Daniel manuscripts provide early Hebrew-Aramaic witness close to the Maccabean era and argue strongly for the book's early acceptance 2nd-1st centuries BC | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Daniel traditions, though Theodotion became dominant in much Christian use 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later Jewish apocalyptic and explicit citation by Jesus by Jesus and later Jewish literature (1st century AD and earlier)
+>
+> **Textual Notes** Daniel is central for comparing Hebrew-Aramaic text, Old Greek, Theodotion, and the Greek additions such as Susanna and Bel and the Dragon.
+>
+> **Conservative Notes** This edition receives Daniel as the prophet named by Christ and therefore rejects late pseudonymous theories as incompatible with Christ's testimony.
+>
 
 ## Daniel 1
 
@@ -55329,22 +55707,36 @@ Notes:
 
 # Hosea
 
-> **Hosea Intro**
+> **Hosea Introduction**
 >
-> **Auth.** Hosea
-> **Basis** The book names Hosea and is received as his prophetic ministry to the northern kingdom.
-> **NT att.** Romans 9:25-26 and Matthew 2:15 cite Hosea as prophetic Scripture.
-> **Date** 8th century BC
-> **MT** MT chronology places Hosea in the late northern kingdom before Samaria's fall.
-> **LXX** The LXX preserves the same horizon, with normal versional differences.
-> **Setting** Northern kingdom prophecy using Hosea's marriage and family as sign-acts.
+> **Author and Attribution** Hosea
+>
+> **Authorship Basis** The book names Hosea and is received as his prophetic ministry to the northern kingdom.
+>
+> **Jesus / NT Attribution** Romans 9:25-26 and Matthew 2:15 cite Hosea as prophetic Scripture.
+>
+> **Composition Date** 8th century BC
+>
+> **MT Timeline** MT chronology places Hosea in the late northern kingdom before Samaria's fall.
+>
+> **LXX Timeline** The LXX preserves the same horizon, with normal versional differences.
+>
+> **Historical Setting** Northern kingdom prophecy using Hosea's marriage and family as sign-acts.
+>
 > **Purpose** To expose covenant unfaithfulness and proclaim the LORD's steadfast restoring love.
-> **Themes** covenant unfaithfulness; steadfast love; judgment; restoration; sonship
+>
+> **Key Themes** covenant unfaithfulness; steadfast love; judgment; restoration; sonship
+>
 > **Outline** Marriage sign and accusations 1-3; Covenant lawsuit and judgment 4-13; Restoration hope 14.
-> **Wit.** Frag. Qumran Hosea fragments survive Second Temple period | Subst. Early Hebrew witness survives in Qumran fragments Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Hosea 4th-5th century AD
-> **Ext.** Cited in later Jewish and NT writings by Paul and Matthew (1st century AD)
-> **Text** Hosea is frequently quoted in the NT, making MT/LXX comparison especially important at citation points.
-> **Cons.** This edition receives Hosea as the named prophet and his sign-act marriage as real prophetic history under inspiration.
+>
+> **Earliest Witnesses** Frag. Qumran Hosea fragments survive Second Temple period | Subst. Early Hebrew witness survives in Qumran fragments Hasmonean-Herodian periods | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Hosea 4th-5th century AD
+>
+> **Earliest External Attestation** Cited in later Jewish and NT writings by Paul and Matthew (1st century AD)
+>
+> **Textual Notes** Hosea is frequently quoted in the NT, making MT/LXX comparison especially important at citation points.
+>
+> **Conservative Notes** This edition receives Hosea as the named prophet and his sign-act marriage as real prophetic history under inspiration.
+>
 
 ## Hosea 1
 
@@ -55931,22 +56323,36 @@ Notes:
 
 # Joel
 
-> **Joel Intro**
+> **Joel Introduction**
 >
-> **Auth.** Joel
-> **Basis** The book names Joel; conservative scholarship receives the prophecy as Joel's own.
-> **NT att.** Acts 2 cites Joel 2 explicitly as Joel's prophecy.
-> **Date** date debated; conservative options range from early monarchy to post-exilic
-> **MT** MT preserves Joel as a compact prophetic book centered on locust judgment and the day of the LORD.
-> **LXX** The LXX preserves the same message and is especially important because Acts quotes Joel through the Greek tradition.
-> **Setting** Prophecy of judgment and restoration centered on the day of the LORD.
+> **Author and Attribution** Joel
+>
+> **Authorship Basis** The book names Joel; conservative scholarship receives the prophecy as Joel's own.
+>
+> **Jesus / NT Attribution** Acts 2 cites Joel 2 explicitly as Joel's prophecy.
+>
+> **Composition Date** date debated; conservative options range from early monarchy to post-exilic
+>
+> **MT Timeline** MT preserves Joel as a compact prophetic book centered on locust judgment and the day of the LORD.
+>
+> **LXX Timeline** The LXX preserves the same message and is especially important because Acts quotes Joel through the Greek tradition.
+>
+> **Historical Setting** Prophecy of judgment and restoration centered on the day of the LORD.
+>
 > **Purpose** To call God's people to repentance and announce future outpouring, judgment, and restoration.
-> **Themes** day of the LORD; repentance; Spirit outpouring; restoration; nations
+>
+> **Key Themes** day of the LORD; repentance; Spirit outpouring; restoration; nations
+>
 > **Outline** Locust crisis and call to repent 1-2; Spirit outpouring and final judgment 2-3.
-> **Wit.** Frag. Qumran Joel fragments survive Second Temple period | Subst. Early Hebrew witness survives in fragmentary form Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Joel 4th-5th century AD
-> **Ext.** Explicitly cited in the NT by Peter (1st century AD)
-> **Text** Joel is especially important for LXX/NT quotation study because Acts 2 cites Joel in Greek form.
-> **Cons.** This edition receives Joel as the real prophet behind the book and the Pentecost citation as confirmation of its prophetic authority.
+>
+> **Earliest Witnesses** Frag. Qumran Joel fragments survive Second Temple period | Subst. Early Hebrew witness survives in fragmentary form Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Joel 4th-5th century AD
+>
+> **Earliest External Attestation** Explicitly cited in the NT by Peter (1st century AD)
+>
+> **Textual Notes** Joel is especially important for LXX/NT quotation study because Acts 2 cites Joel in Greek form.
+>
+> **Conservative Notes** This edition receives Joel as the real prophet behind the book and the Pentecost citation as confirmation of its prophetic authority.
+>
 
 ## Joel 1
 
@@ -56149,22 +56555,36 @@ Notes:
 
 # Amos
 
-> **Amos Intro**
+> **Amos Introduction**
 >
-> **Auth.** Amos
-> **Basis** The book names Amos the herdsman-prophet from Tekoa.
-> **NT att.** Acts 7:42-43 and James 9:11-12 cite Amos as prophetic Scripture.
-> **Date** 8th century BC
-> **MT** MT chronology places Amos in the prosperous but corrupt northern kingdom before Samaria's fall.
-> **LXX** The LXX preserves the same setting and is important for the wording used in Acts 15.
-> **Setting** Northern kingdom prophecy from a Judean herdsman in a time of social injustice and false security.
+> **Author and Attribution** Amos
+>
+> **Authorship Basis** The book names Amos the herdsman-prophet from Tekoa.
+>
+> **Jesus / NT Attribution** Acts 7:42-43 and James 9:11-12 cite Amos as prophetic Scripture.
+>
+> **Composition Date** 8th century BC
+>
+> **MT Timeline** MT chronology places Amos in the prosperous but corrupt northern kingdom before Samaria's fall.
+>
+> **LXX Timeline** The LXX preserves the same setting and is important for the wording used in Acts 15.
+>
+> **Historical Setting** Northern kingdom prophecy from a Judean herdsman in a time of social injustice and false security.
+>
 > **Purpose** To denounce covenant injustice and announce judgment while preserving hope for David's fallen booth.
-> **Themes** justice; judgment; nations; false worship; remnant; Davidic restoration
+>
+> **Key Themes** justice; judgment; nations; false worship; remnant; Davidic restoration
+>
 > **Outline** Judgment on nations and Israel 1-6; visions and confrontation 7-9.
-> **Wit.** Frag. Qumran Amos fragments survive Second Temple period | Subst. Early Hebrew witness survives in fragmentary form Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Amos 4th-5th century AD
-> **Ext.** Explicit NT citation by Stephen and James (1st century AD)
-> **Text** Amos is a key book for LXX/NT comparison because Acts 15 quotes Amos 9 in a form closer to the Greek tradition.
-> **Cons.** This edition receives Amos as the named prophet and his social-justice oracles as covenantal, not merely political, preaching.
+>
+> **Earliest Witnesses** Frag. Qumran Amos fragments survive Second Temple period | Subst. Early Hebrew witness survives in fragmentary form Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Amos 4th-5th century AD
+>
+> **Earliest External Attestation** Explicit NT citation by Stephen and James (1st century AD)
+>
+> **Textual Notes** Amos is a key book for LXX/NT comparison because Acts 15 quotes Amos 9 in a form closer to the Greek tradition.
+>
+> **Conservative Notes** This edition receives Amos as the named prophet and his social-justice oracles as covenantal, not merely political, preaching.
+>
 
 ## Amos 1
 
@@ -56628,22 +57048,36 @@ Notes:
 
 # Obadiah
 
-> **Obadiah Intro**
+> **Obadiah Introduction**
 >
-> **Auth.** Obadiah
-> **Basis** The book names Obadiah; the exact historical setting is debated, but conservative scholarship receives the named prophet as genuine.
-> **NT att.** No direct NT attribution names the writer, but the prophecy stands in the canonical witness against Edom and for Zion.
-> **Date** date debated
-> **MT** often 9th or 6th century BC
-> **LXX** MT preserves the short oracle against Edom and promise of Zion's kingdom.
-> **Setting** The LXX preserves the same message with ordinary versional differences.
+> **Author and Attribution** Obadiah
+>
+> **Authorship Basis** The book names Obadiah; the exact historical setting is debated, but conservative scholarship receives the named prophet as genuine.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the writer, but the prophecy stands in the canonical witness against Edom and for Zion.
+>
+> **Composition Date** date debated
+>
+> **MT Timeline** often 9th or 6th century BC
+>
+> **LXX Timeline** MT preserves the short oracle against Edom and promise of Zion's kingdom.
+>
+> **Historical Setting** The LXX preserves the same message with ordinary versional differences.
+>
 > **Purpose** Oracle against Edom for violence against Jacob and promise of Zion's triumph.
-> **Themes** To announce the LORD's judgment on proud Edom and vindication of His covenant people.
+>
+> **Key Themes** To announce the LORD's judgment on proud Edom and vindication of His covenant people.
+>
 > **Outline** judgment on Edom; pride; Zion; kingdom of the LORD
-> **Wit.** Frag. Edom's downfall 1-14; Day of the LORD and Zion's triumph 15-21. Qumran Obadiah fragments survive | Subst. Second Temple period Early Hebrew witness is fragmentary | Heb. Second Temple period Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Obadiah
-> **Ext.** 4th-5th century AD by Use in later Jewish interpretation (Multiple)
-> **Text** Second Temple and later
-> **Cons.** Obadiah's brevity makes each textual variant proportionally weighty in interpretation.
+>
+> **Earliest Witnesses** Frag. Edom's downfall 1-14; Day of the LORD and Zion's triumph 15-21. Qumran Obadiah fragments survive | Subst. Second Temple period Early Hebrew witness is fragmentary | Heb. Second Temple period Leningrad Codex | Gk. AD 1008 Codex Vaticanus and Alexandrinus preserve Greek Obadiah
+>
+> **Earliest External Attestation** 4th-5th century AD by Use in later Jewish interpretation (Multiple)
+>
+> **Textual Notes** Second Temple and later
+>
+> **Conservative Notes** Obadiah's brevity makes each textual variant proportionally weighty in interpretation.
+>
 
 ## Obadiah 1
 
@@ -56721,22 +57155,36 @@ Notes:
 
 # Jonah
 
-> **Jonah Intro**
+> **Jonah Introduction**
 >
-> **Auth.** Jonah son of Amittai
-> **Basis** The book's prophetic identity matches 2 Kings 14:25, and conservative scholarship receives Jonah as historical.
-> **NT att.** Jesus explicitly treats Jonah and the fish as historical in Matthew 12:39-41.
-> **Date** 8th century BC
-> **MT** MT chronology places Jonah in the era of Jeroboam II and Assyrian significance.
-> **LXX** The LXX preserves the same narrative with some wording differences but the same historical claim.
-> **Setting** Narrative of a prophet sent to Nineveh who fled, was chastened, and preached repentance.
+> **Author and Attribution** Jonah son of Amittai
+>
+> **Authorship Basis** The book's prophetic identity matches 2 Kings 14:25, and conservative scholarship receives Jonah as historical.
+>
+> **Jesus / NT Attribution** Jesus explicitly treats Jonah and the fish as historical in Matthew 12:39-41.
+>
+> **Composition Date** 8th century BC
+>
+> **MT Timeline** MT chronology places Jonah in the era of Jeroboam II and Assyrian significance.
+>
+> **LXX Timeline** The LXX preserves the same narrative with some wording differences but the same historical claim.
+>
+> **Historical Setting** Narrative of a prophet sent to Nineveh who fled, was chastened, and preached repentance.
+>
 > **Purpose** To show the LORD's sovereign mercy to sinners, including Gentiles, and to expose the narrowness of the prophet's heart.
-> **Themes** mercy; repentance; Gentiles; prophet; sovereignty; sign of Jonah
+>
+> **Key Themes** mercy; repentance; Gentiles; prophet; sovereignty; sign of Jonah
+>
 > **Outline** Flight and storm 1; Fish and prayer 2; Nineveh's repentance 3; Jonah's complaint and God's lesson 4.
-> **Wit.** Frag. Qumran Jonah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Jonah 4th-5th century AD
-> **Ext.** Explicit appeal by Jesus by Jesus (1st century AD)
-> **Text** Jonah's historicity is reinforced by Christ's own use of Jonah as a sign; textual differences are secondary to that anchor.
-> **Cons.** This edition receives Jonah as historical prophetic narrative because Christ did.
+>
+> **Earliest Witnesses** Frag. Qumran Jonah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Jonah 4th-5th century AD
+>
+> **Earliest External Attestation** Explicit appeal by Jesus by Jesus (1st century AD)
+>
+> **Textual Notes** Jonah's historicity is reinforced by Christ's own use of Jonah as a sign; textual differences are secondary to that anchor.
+>
+> **Conservative Notes** This edition receives Jonah as historical prophetic narrative because Christ did.
+>
 
 ## Jonah 1
 
@@ -56905,22 +57353,36 @@ Notes:
 
 # Micah
 
-> **Micah Intro**
+> **Micah Introduction**
 >
-> **Auth.** Micah
-> **Basis** The book names Micah of Moresheth and is received as his prophecy.
-> **NT att.** Matthew 2:5-6 cites Micah 5; Jeremiah 26:18 cites Micah 3:12 by name.
-> **Date** 8th century BC
-> **MT** MT chronology places Micah alongside Isaiah in Judah during the Assyrian crisis.
-> **LXX** The LXX preserves the same setting and provides an important witness for NT quotation points.
-> **Setting** Judah-focused prophecy of judgment and restoration in the 8th century BC.
+> **Author and Attribution** Micah
+>
+> **Authorship Basis** The book names Micah of Moresheth and is received as his prophecy.
+>
+> **Jesus / NT Attribution** Matthew 2:5-6 cites Micah 5; Jeremiah 26:18 cites Micah 3:12 by name.
+>
+> **Composition Date** 8th century BC
+>
+> **MT Timeline** MT chronology places Micah alongside Isaiah in Judah during the Assyrian crisis.
+>
+> **LXX Timeline** The LXX preserves the same setting and provides an important witness for NT quotation points.
+>
+> **Historical Setting** Judah-focused prophecy of judgment and restoration in the 8th century BC.
+>
 > **Purpose** To confront sin in leaders and people while announcing Bethlehem's ruler and the LORD's final restoration.
-> **Themes** judgment; remnant; Bethlehem ruler; justice; mercy; restoration
+>
+> **Key Themes** judgment; remnant; Bethlehem ruler; justice; mercy; restoration
+>
 > **Outline** Judgment cycles 1-3; Hope and ruler from Bethlehem 4-5; Covenant lawsuit and final hope 6-7.
-> **Wit.** Frag. Qumran Micah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Micah 4th-5th century AD
-> **Ext.** Named citation in Jeremiah and NT use in Matthew by Jeremiah and Matthew (7th century BC and 1st century AD)
-> **Text** Micah matters for messianic quotation study, especially Micah 5 in Matthew 2.
-> **Cons.** This edition receives Micah as the named prophet and reads Micah 6:8 and 5:2 in the full canonical-messianic frame.
+>
+> **Earliest Witnesses** Frag. Qumran Micah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Micah 4th-5th century AD
+>
+> **Earliest External Attestation** Named citation in Jeremiah and NT use in Matthew by Jeremiah and Matthew (7th century BC and 1st century AD)
+>
+> **Textual Notes** Micah matters for messianic quotation study, especially Micah 5 in Matthew 2.
+>
+> **Conservative Notes** This edition receives Micah as the named prophet and reads Micah 6:8 and 5:2 in the full canonical-messianic frame.
+>
 
 ## Micah 1
 
@@ -57258,22 +57720,36 @@ Notes:
 
 # Nahum
 
-> **Nahum Intro**
+> **Nahum Introduction**
 >
-> **Auth.** Nahum
-> **Basis** The book names Nahum the Elkoshite and is received as his prophecy.
-> **NT att.** No direct NT attribution names the writer, but Nahum's oracle against Nineveh stands in the prophetic canon as genuine revelation.
-> **Date** 7th century BC before Nineveh's fall in 612 BC
-> **MT** MT chronology places Nahum in the late Assyrian period after Thebes and before Nineveh's fall.
-> **LXX** The LXX preserves the same Assyrian setting with normal versional variation.
-> **Setting** Oracle announcing Nineveh's downfall and comfort for Judah.
+> **Author and Attribution** Nahum
+>
+> **Authorship Basis** The book names Nahum the Elkoshite and is received as his prophecy.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the writer, but Nahum's oracle against Nineveh stands in the prophetic canon as genuine revelation.
+>
+> **Composition Date** 7th century BC before Nineveh's fall in 612 BC
+>
+> **MT Timeline** MT chronology places Nahum in the late Assyrian period after Thebes and before Nineveh's fall.
+>
+> **LXX Timeline** The LXX preserves the same Assyrian setting with normal versional variation.
+>
+> **Historical Setting** Oracle announcing Nineveh's downfall and comfort for Judah.
+>
 > **Purpose** To proclaim the LORD's justice against oppressive empire and comfort for His people.
-> **Themes** judgment; justice; Nineveh; comfort; divine vengeance
+>
+> **Key Themes** judgment; justice; Nineveh; comfort; divine vengeance
+>
 > **Outline** The LORD's majesty 1; Nineveh's siege and fall 2-3.
-> **Wit.** Frag. Qumran Nahum pesher and fragments survive Second Temple period | Subst. The Nahum pesher provides important early reception evidence alongside Hebrew fragments Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Nahum 4th-5th century AD
-> **Ext.** Qumran Nahum Pesher by Community at Qumran (1st century BC)
-> **Text** Nahum is notable not only for text but also for early interpretive reception in the pesher tradition.
-> **Cons.** This edition receives Nahum as a true historical oracle of judgment and comfort, not merely anti-Assyrian rhetoric.
+>
+> **Earliest Witnesses** Frag. Qumran Nahum pesher and fragments survive Second Temple period | Subst. The Nahum pesher provides important early reception evidence alongside Hebrew fragments Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Nahum 4th-5th century AD
+>
+> **Earliest External Attestation** Qumran Nahum Pesher by Community at Qumran (1st century BC)
+>
+> **Textual Notes** Nahum is notable not only for text but also for early interpretive reception in the pesher tradition.
+>
+> **Conservative Notes** This edition receives Nahum as a true historical oracle of judgment and comfort, not merely anti-Assyrian rhetoric.
+>
 
 ## Nahum 1
 
@@ -57436,22 +57912,36 @@ Notes:
 
 # Habakkuk
 
-> **Habakkuk Intro**
+> **Habakkuk Introduction**
 >
-> **Auth.** Habakkuk
-> **Basis** The book names Habakkuk and is received as his prophetic dialogue and prayer.
-> **NT att.** Romans 1:17, Galatians 3:11, and Hebrews 10:38 quote Habakkuk 2:4.
-> **Date** late 7th century BC
-> **MT** MT chronology places Habakkuk on the eve of Babylonian judgment.
-> **LXX** The LXX preserves the same setting and is crucial at Habakkuk 2:4 and other quotation points.
-> **Setting** Dialogue of a prophet wrestling with violence, Babylon, and the righteous life of faith.
+> **Author and Attribution** Habakkuk
+>
+> **Authorship Basis** The book names Habakkuk and is received as his prophetic dialogue and prayer.
+>
+> **Jesus / NT Attribution** Romans 1:17, Galatians 3:11, and Hebrews 10:38 quote Habakkuk 2:4.
+>
+> **Composition Date** late 7th century BC
+>
+> **MT Timeline** MT chronology places Habakkuk on the eve of Babylonian judgment.
+>
+> **LXX Timeline** The LXX preserves the same setting and is crucial at Habakkuk 2:4 and other quotation points.
+>
+> **Historical Setting** Dialogue of a prophet wrestling with violence, Babylon, and the righteous life of faith.
+>
 > **Purpose** To answer the problem of unchecked evil by revealing God's sovereign justice and calling the righteous to live by faith.
-> **Themes** faith; judgment; Babylon; theodicy; waiting; worship
+>
+> **Key Themes** faith; judgment; Babylon; theodicy; waiting; worship
+>
 > **Outline** Dialogue 1-2; Prayer and hymn 3.
-> **Wit.** Frag. Qumran Habakkuk Pesher and fragments survive Second Temple period | Subst. The Habakkuk Pesher is a major early witness to reception, alongside Hebrew fragments Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Habakkuk 4th-5th century AD
-> **Ext.** Explicit NT quotation and Qumran pesher by Paul and the Qumran community (1st century AD and earlier)
-> **Text** Habakkuk is major for NT theology because Habakkuk 2:4 is cited repeatedly, and MT/LXX wording affects doctrinal emphasis.
-> **Cons.** This edition receives Habakkuk as the named prophet and sees the faith text as central to biblical theology without detaching it from its historical context.
+>
+> **Earliest Witnesses** Frag. Qumran Habakkuk Pesher and fragments survive Second Temple period | Subst. The Habakkuk Pesher is a major early witness to reception, alongside Hebrew fragments Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Habakkuk 4th-5th century AD
+>
+> **Earliest External Attestation** Explicit NT quotation and Qumran pesher by Paul and the Qumran community (1st century AD and earlier)
+>
+> **Textual Notes** Habakkuk is major for NT theology because Habakkuk 2:4 is cited repeatedly, and MT/LXX wording affects doctrinal emphasis.
+>
+> **Conservative Notes** This edition receives Habakkuk as the named prophet and sees the faith text as central to biblical theology without detaching it from its historical context.
+>
 
 ## Habakkuk 1
 
@@ -57634,22 +58124,36 @@ Notes:
 
 # Zephaniah
 
-> **Zephaniah Intro**
+> **Zephaniah Introduction**
 >
-> **Auth.** Zephaniah
-> **Basis** The book names Zephaniah son of Cushi with royal lineage details and is received as his prophecy.
-> **NT att.** No direct NT attribution names the writer, but Zephaniah belongs to the authenticated prophetic corpus.
-> **Date** late 7th century BC in Josiah's days
-> **MT** MT chronology places Zephaniah in Josiah's reign before the reform fully took hold.
-> **LXX** The LXX preserves the same pre-exilic setting and message of the day of the LORD.
-> **Setting** Judah-focused prophecy of the coming day of the LORD, judgment, and purified restoration.
+> **Author and Attribution** Zephaniah
+>
+> **Authorship Basis** The book names Zephaniah son of Cushi with royal lineage details and is received as his prophecy.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the writer, but Zephaniah belongs to the authenticated prophetic corpus.
+>
+> **Composition Date** late 7th century BC in Josiah's days
+>
+> **MT Timeline** MT chronology places Zephaniah in Josiah's reign before the reform fully took hold.
+>
+> **LXX Timeline** The LXX preserves the same pre-exilic setting and message of the day of the LORD.
+>
+> **Historical Setting** Judah-focused prophecy of the coming day of the LORD, judgment, and purified restoration.
+>
 > **Purpose** To warn of the coming day of the LORD and promise a purified remnant and restored worship.
-> **Themes** day of the LORD; remnant; judgment; restoration; humility
+>
+> **Key Themes** day of the LORD; remnant; judgment; restoration; humility
+>
 > **Outline** Judgment on Judah and nations 1-2; Woe and restoration 3.
-> **Wit.** Frag. Qumran Zephaniah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Zephaniah 4th-5th century AD
-> **Ext.** Use in later prophetic interpretation by Multiple (later biblical and post-biblical reception)
-> **Text** Zephaniah's compact structure makes its day-of-the-LORD theology especially important for intertextual study.
-> **Cons.** This edition receives Zephaniah as the named prophet in Josiah's era and reads its warnings and promises as historically grounded prophecy.
+>
+> **Earliest Witnesses** Frag. Qumran Zephaniah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Zephaniah 4th-5th century AD
+>
+> **Earliest External Attestation** Use in later prophetic interpretation by Multiple (later biblical and post-biblical reception)
+>
+> **Textual Notes** Zephaniah's compact structure makes its day-of-the-LORD theology especially important for intertextual study.
+>
+> **Conservative Notes** This edition receives Zephaniah as the named prophet in Josiah's era and reads its warnings and promises as historically grounded prophecy.
+>
 
 ## Zephaniah 1
 
@@ -57827,22 +58331,36 @@ Notes:
 
 # Haggai
 
-> **Haggai Intro**
+> **Haggai Introduction**
 >
-> **Auth.** Haggai
-> **Basis** The book names Haggai and dates its oracles precisely in the Persian period.
-> **NT att.** Ezra 5-6 confirms Haggai's prophetic role in the rebuilding era.
-> **Date** 520 BC
-> **MT** MT chronology places Haggai during the second year of Darius I amid temple rebuilding.
-> **LXX** The LXX preserves the same precisely dated post-exilic setting.
-> **Setting** Short post-exilic prophecy urging temple rebuilding and covenant priority.
+> **Author and Attribution** Haggai
+>
+> **Authorship Basis** The book names Haggai and dates its oracles precisely in the Persian period.
+>
+> **Jesus / NT Attribution** Ezra 5-6 confirms Haggai's prophetic role in the rebuilding era.
+>
+> **Composition Date** 520 BC
+>
+> **MT Timeline** MT chronology places Haggai during the second year of Darius I amid temple rebuilding.
+>
+> **LXX Timeline** The LXX preserves the same precisely dated post-exilic setting.
+>
+> **Historical Setting** Short post-exilic prophecy urging temple rebuilding and covenant priority.
+>
 > **Purpose** To call the restored community to rebuild the temple and expect future glory.
-> **Themes** temple; obedience; covenant priorities; latter glory; Zerubbabel
+>
+> **Key Themes** temple; obedience; covenant priorities; latter glory; Zerubbabel
+>
 > **Outline** Calls to rebuild 1; Promise of future glory and covenant blessing 2.
-> **Wit.** Frag. Qumran Haggai fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Haggai 4th-5th century AD
-> **Ext.** Corroborated by Ezra's narrative by Ezra (Persian period narrative and later canon)
-> **Text** Haggai is textually modest but historically valuable because of its precise dates and integration with Ezra.
-> **Cons.** This edition receives Haggai as precisely dated prophetic preaching in the restoration era.
+>
+> **Earliest Witnesses** Frag. Qumran Haggai fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Haggai 4th-5th century AD
+>
+> **Earliest External Attestation** Corroborated by Ezra's narrative by Ezra (Persian period narrative and later canon)
+>
+> **Textual Notes** Haggai is textually modest but historically valuable because of its precise dates and integration with Ezra.
+>
+> **Conservative Notes** This edition receives Haggai as precisely dated prophetic preaching in the restoration era.
+>
 
 ## Haggai 1
 
@@ -57965,22 +58483,36 @@ Notes:
 
 # Zechariah
 
-> **Zechariah Intro**
+> **Zechariah Introduction**
 >
-> **Auth.** Zechariah son of Berechiah son of Iddo
-> **Basis** The book names Zechariah and dates much of its material in the Persian period; conservative scholarship typically receives the whole canonical book as Zechariah's prophecy.
-> **NT att.** Jesus refers to Zechariah son of Berechiah in Matthew 23:35.
-> **Date** 520-518 BC and after
-> **MT** MT chronology places Zechariah alongside Haggai in the restoration era, with later oracles extending beyond the initial temple work.
-> **LXX** The LXX preserves the same restoration-era framework, though the later chapters remain important for messianic quotation and textual study.
-> **Setting** Post-exilic visions and oracles encouraging restoration and projecting messianic hope.
+> **Author and Attribution** Zechariah son of Berechiah son of Iddo
+>
+> **Authorship Basis** The book names Zechariah and dates much of its material in the Persian period; conservative scholarship typically receives the whole canonical book as Zechariah's prophecy.
+>
+> **Jesus / NT Attribution** Jesus refers to Zechariah son of Berechiah in Matthew 23:35.
+>
+> **Composition Date** 520-518 BC and after
+>
+> **MT Timeline** MT chronology places Zechariah alongside Haggai in the restoration era, with later oracles extending beyond the initial temple work.
+>
+> **LXX Timeline** The LXX preserves the same restoration-era framework, though the later chapters remain important for messianic quotation and textual study.
+>
+> **Historical Setting** Post-exilic visions and oracles encouraging restoration and projecting messianic hope.
+>
 > **Purpose** To encourage the restored community, call for repentance, and announce the coming king, shepherd, and future kingdom.
-> **Themes** visions; repentance; messianic king; shepherd; temple; future kingdom
+>
+> **Key Themes** visions; repentance; messianic king; shepherd; temple; future kingdom
+>
 > **Outline** Night visions 1-6; Fasting and renewal 7-8; Messianic and eschatological oracles 9-14.
-> **Wit.** Frag. Qumran Zechariah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Zechariah 4th-5th century AD
-> **Ext.** Quoted/alluded to heavily in the NT by Multiple (1st century AD)
-> **Text** Zechariah is a major messianic quotation book, especially chapters 9-14, making MT/LXX comparison important in the passion narratives.
-> **Cons.** This edition receives Zechariah as the prophet named in the book and reads the later chapters as genuine predictive prophecy, not late anonymous additions.
+>
+> **Earliest Witnesses** Frag. Qumran Zechariah fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Zechariah 4th-5th century AD
+>
+> **Earliest External Attestation** Quoted/alluded to heavily in the NT by Multiple (1st century AD)
+>
+> **Textual Notes** Zechariah is a major messianic quotation book, especially chapters 9-14, making MT/LXX comparison important in the passion narratives.
+>
+> **Conservative Notes** This edition receives Zechariah as the prophet named in the book and reads the later chapters as genuine predictive prophecy, not late anonymous additions.
+>
 
 ## Zechariah 1
 
@@ -58674,22 +59206,36 @@ Notes:
 
 # Malachi
 
-> **Malachi Intro**
+> **Malachi Introduction**
 >
-> **Auth.** Malachi
-> **Basis** The book identifies its burden through Malachi, understood conservatively as the prophet's name or title borne by the human messenger.
-> **NT att.** No direct NT attribution names the writer, but Malachi's prophecy of the forerunner is foundational in the Gospels.
-> **Date** 5th century BC
-> **MT** MT chronology places Malachi in the late post-exilic period after temple restoration but before the intertestamental silence.
-> **LXX** The LXX preserves the same post-exilic setting and the same key promises about the forerunner and day of the LORD.
-> **Setting** Post-exilic rebuke of priestly corruption, covenant unfaithfulness, and spiritual weariness.
+> **Author and Attribution** Malachi
+>
+> **Authorship Basis** The book identifies its burden through Malachi, understood conservatively as the prophet's name or title borne by the human messenger.
+>
+> **Jesus / NT Attribution** No direct NT attribution names the writer, but Malachi's prophecy of the forerunner is foundational in the Gospels.
+>
+> **Composition Date** 5th century BC
+>
+> **MT Timeline** MT chronology places Malachi in the late post-exilic period after temple restoration but before the intertestamental silence.
+>
+> **LXX Timeline** The LXX preserves the same post-exilic setting and the same key promises about the forerunner and day of the LORD.
+>
+> **Historical Setting** Post-exilic rebuke of priestly corruption, covenant unfaithfulness, and spiritual weariness.
+>
 > **Purpose** To call God's people to covenant faithfulness and announce the coming messenger before the day of the LORD.
-> **Themes** covenant faithfulness; priesthood; tithes; divorce; forerunner; day of the LORD
+>
+> **Key Themes** covenant faithfulness; priesthood; tithes; divorce; forerunner; day of the LORD
+>
 > **Outline** Disputations 1-3; Closing warning and Elijah promise 4.
-> **Wit.** Frag. Qumran Malachi fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Malachi 4th-5th century AD
-> **Ext.** Interpreted in the Gospels as fulfilled in John the Baptist by Jesus and Gospel writers (1st century AD)
-> **Text** Malachi is vital for intertestamental framing because its forerunner promise is directly tied to John the Baptist in the NT.
-> **Cons.** This edition receives Malachi as the closing prophetic voice of the OT canon, genuinely predicting the messenger fulfilled in John the Baptist.
+>
+> **Earliest Witnesses** Frag. Qumran Malachi fragments survive Second Temple period | Subst. Early Hebrew witness is fragmentary Second Temple period | Heb. Leningrad Codex AD 1008 | Gk. Codex Vaticanus and Alexandrinus preserve Greek Malachi 4th-5th century AD
+>
+> **Earliest External Attestation** Interpreted in the Gospels as fulfilled in John the Baptist by Jesus and Gospel writers (1st century AD)
+>
+> **Textual Notes** Malachi is vital for intertestamental framing because its forerunner promise is directly tied to John the Baptist in the NT.
+>
+> **Conservative Notes** This edition receives Malachi as the closing prophetic voice of the OT canon, genuinely predicting the messenger fulfilled in John the Baptist.
+>
 
 ## Malachi 1
 
@@ -58875,22 +59421,36 @@ Notes:
 
 # Matthew
 
-> **Matthew Intro**
+> **Matthew Introduction**
 >
-> **Auth.** Matthew the apostle and former tax collector
-> **Basis** Early church testimony, especially Papias and Irenaeus, associates this Gospel with Matthew.
-> **NT att.** The canonical title and unanimous early church witness support Matthean authorship; apostolic status fits the book's Jewish and instructional character.
-> **Date** before AD 70 in common conservative dating
-> **MT** MT timeline not applicable; historically set in the earthly ministry of Christ before the fall of Jerusalem.
-> **LXX** LXX timeline not applicable; the Gospel quotes the OT often in forms reflecting both Hebrew and Greek textual streams.
-> **Setting** Gospel account presenting Jesus as the promised Messiah and King in fulfillment of Scripture.
+> **Author and Attribution** Matthew the apostle and former tax collector
+>
+> **Authorship Basis** Early church testimony, especially Papias and Irenaeus, associates this Gospel with Matthew.
+>
+> **Jesus / NT Attribution** The canonical title and unanimous early church witness support Matthean authorship; apostolic status fits the book's Jewish and instructional character.
+>
+> **Composition Date** before AD 70 in common conservative dating
+>
+> **MT Timeline** MT timeline not applicable; historically set in the earthly ministry of Christ before the fall of Jerusalem.
+>
+> **LXX Timeline** LXX timeline not applicable; the Gospel quotes the OT often in forms reflecting both Hebrew and Greek textual streams.
+>
+> **Historical Setting** Gospel account presenting Jesus as the promised Messiah and King in fulfillment of Scripture.
+>
 > **Purpose** To present Jesus as the Messiah, teacher, son of David, and fulfillment of the Law and the Prophets.
-> **Themes** Messiah; kingdom; fulfillment; discipleship; judgment; church
+>
+> **Key Themes** Messiah; kingdom; fulfillment; discipleship; judgment; church
+>
 > **Outline** Narrative and infancy 1-4; ministry and discourses 5-25; passion and resurrection 26-28.
-> **Wit.** Frag. Papyrus 104 late 2nd century AD | Subst. Papyrus 64/67 and other early Matthew witnesses preserve larger sections late 2nd to early 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Matthew 4th century AD
-> **Ext.** Tradition on Matthew's composition by Papias (early 2nd century AD)
-> **Text** Matthew's quotations are crucial for MT/LXX comparison because he often cites OT texts in forms close to Hebrew, Greek, or a mixed testimony tradition.
-> **Cons.** This edition receives Matthew as the apostolic Gospel and treats its fulfillment formulas as inspired interpretation of the OT.
+>
+> **Earliest Witnesses** Frag. Papyrus 104 late 2nd century AD | Subst. Papyrus 64/67 and other early Matthew witnesses preserve larger sections late 2nd to early 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Matthew 4th century AD
+>
+> **Earliest External Attestation** Tradition on Matthew's composition by Papias (early 2nd century AD)
+>
+> **Textual Notes** Matthew's quotations are crucial for MT/LXX comparison because he often cites OT texts in forms close to Hebrew, Greek, or a mixed testimony tradition.
+>
+> **Conservative Notes** This edition receives Matthew as the apostolic Gospel and treats its fulfillment formulas as inspired interpretation of the OT.
+>
 
 ## Matthew 1
 
@@ -60479,22 +61039,36 @@ Notes:
 
 # Mark
 
-> **Mark Intro**
+> **Mark Introduction**
 >
-> **Auth.** John Mark under Petrine apostolic oversight
-> **Basis** Early church testimony consistently links Mark with Peter's preaching, especially in Papias and Irenaeus.
-> **NT att.** Mark's close Petrine perspective and unanimous patristic witness support traditional authorship.
-> **Date** before AD 70 in common conservative dating
-> **MT** Not applicable as a textual tradition label; historically the Gospel narrates Christ's ministry in Roman-facing concise form.
-> **LXX** Not applicable; Mark's OT citations still bear on Hebrew and Greek quotation study.
-> **Setting** Fast-paced Gospel emphasizing Christ's authority, suffering, and servant ministry.
+> **Author and Attribution** John Mark under Petrine apostolic oversight
+>
+> **Authorship Basis** Early church testimony consistently links Mark with Peter's preaching, especially in Papias and Irenaeus.
+>
+> **Jesus / NT Attribution** Mark's close Petrine perspective and unanimous patristic witness support traditional authorship.
+>
+> **Composition Date** before AD 70 in common conservative dating
+>
+> **MT Timeline** Not applicable as a textual tradition label; historically the Gospel narrates Christ's ministry in Roman-facing concise form.
+>
+> **LXX Timeline** Not applicable; Mark's OT citations still bear on Hebrew and Greek quotation study.
+>
+> **Historical Setting** Fast-paced Gospel emphasizing Christ's authority, suffering, and servant ministry.
+>
 > **Purpose** To present Jesus as the mighty Son of God and suffering servant and to call readers to discipleship under the cross.
-> **Themes** authority; Son of God; suffering servant; discipleship; immediacy
+>
+> **Key Themes** authority; Son of God; suffering servant; discipleship; immediacy
+>
 > **Outline** Introduction and Galilean ministry 1-8; journey and passion teaching 8-13; passion and resurrection 14-16.
-> **Wit.** Frag. No very early tiny fragment is universally agreed; Papyrus 137 is one candidate 2nd-3rd century AD | Subst. Papyrus 45 is the earliest substantial Mark witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Mark 4th century AD
-> **Ext.** Tradition on Mark as Peter's interpreter by Papias (early 2nd century AD)
-> **Text** Mark's ending and several shorter textual problems make it one of the key NT books for text-critical discussion.
-> **Cons.** This edition receives Mark as the authentic Gospel of John Mark rooted in apostolic Petrine preaching.
+>
+> **Earliest Witnesses** Frag. No very early tiny fragment is universally agreed; Papyrus 137 is one candidate 2nd-3rd century AD | Subst. Papyrus 45 is the earliest substantial Mark witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Mark 4th century AD
+>
+> **Earliest External Attestation** Tradition on Mark as Peter's interpreter by Papias (early 2nd century AD)
+>
+> **Textual Notes** Mark's ending and several shorter textual problems make it one of the key NT books for text-critical discussion.
+>
+> **Conservative Notes** This edition receives Mark as the authentic Gospel of John Mark rooted in apostolic Petrine preaching.
+>
 
 ## Mark 1
 
@@ -61404,22 +61978,36 @@ Notes:
 
 # Luke
 
-> **Luke Intro**
+> **Luke Introduction**
 >
-> **Auth.** Luke the beloved physician and companion of Paul
-> **Basis** The prologue, Acts' we-sections, and unanimous early church testimony support Lucan authorship.
-> **NT att.** Colossians 4:14, 2 Timothy 4:11, and Philemon 24 identify Luke as Paul's coworker, fitting the Gospel-Acts corpus.
-> **Date** AD 60-62 in common conservative dating
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Orderly Gospel narrative addressed to Theophilus, rooted in eyewitness testimony and careful investigation.
+> **Author and Attribution** Luke the beloved physician and companion of Paul
+>
+> **Authorship Basis** The prologue, Acts' we-sections, and unanimous early church testimony support Lucan authorship.
+>
+> **Jesus / NT Attribution** Colossians 4:14, 2 Timothy 4:11, and Philemon 24 identify Luke as Paul's coworker, fitting the Gospel-Acts corpus.
+>
+> **Composition Date** AD 60-62 in common conservative dating
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Orderly Gospel narrative addressed to Theophilus, rooted in eyewitness testimony and careful investigation.
+>
 > **Purpose** To give certainty about the things fulfilled in Christ and to present the Savior for Jew and Gentile alike.
-> **Themes** certainty; salvation; compassion; Holy Spirit; prayer; Gentiles
+>
+> **Key Themes** certainty; salvation; compassion; Holy Spirit; prayer; Gentiles
+>
 > **Outline** Infancy and preparation 1-4; Galilean ministry 4-9; travel narrative 9-19; Jerusalem, passion, resurrection 19-24.
-> **Wit.** Frag. Papyrus 4 and Papyrus 75 preserve early Luke material late 2nd to early 3rd century AD | Subst. Papyrus 75 is the earliest substantial Luke witness late 2nd to early 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Luke 4th century AD
-> **Ext.** Likely early use in apostolic fathers; clear attestation in Irenaeus by Irenaeus (late 2nd century AD)
-> **Text** Luke's wording matters for several OT quotations and for the relation of Luke and Acts to early text families.
-> **Cons.** This edition receives Luke as the physician-companion of Paul and the faithful historian-theologian of the Gospel and Acts.
+>
+> **Earliest Witnesses** Frag. Papyrus 4 and Papyrus 75 preserve early Luke material late 2nd to early 3rd century AD | Subst. Papyrus 75 is the earliest substantial Luke witness late 2nd to early 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Luke 4th century AD
+>
+> **Earliest External Attestation** Likely early use in apostolic fathers; clear attestation in Irenaeus by Irenaeus (late 2nd century AD)
+>
+> **Textual Notes** Luke's wording matters for several OT quotations and for the relation of Luke and Acts to early text families.
+>
+> **Conservative Notes** This edition receives Luke as the physician-companion of Paul and the faithful historian-theologian of the Gospel and Acts.
+>
 
 ## Luke 1
 
@@ -62954,22 +63542,36 @@ Notes:
 
 # John
 
-> **John Intro**
+> **John Introduction**
 >
-> **Auth.** John the apostle
-> **Basis** Early church testimony strongly attributes the Gospel to John the son of Zebedee, and the internal beloved-disciple claim fits apostolic authorship.
-> **NT att.** John 21:24 identifies the disciple behind the testimony; early church witness connects this with the apostle John.
-> **Date** AD 80-90 in common conservative dating
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Reflective Gospel centered on Jesus' signs, identity, and saving purpose.
+> **Author and Attribution** John the apostle
+>
+> **Authorship Basis** Early church testimony strongly attributes the Gospel to John the son of Zebedee, and the internal beloved-disciple claim fits apostolic authorship.
+>
+> **Jesus / NT Attribution** John 21:24 identifies the disciple behind the testimony; early church witness connects this with the apostle John.
+>
+> **Composition Date** AD 80-90 in common conservative dating
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Reflective Gospel centered on Jesus' signs, identity, and saving purpose.
+>
 > **Purpose** To lead readers to believe that Jesus is the Christ, the Son of God, and to have life in His name.
-> **Themes** signs; deity of Christ; belief; life; witness; love
+>
+> **Key Themes** signs; deity of Christ; belief; life; witness; love
+>
 > **Outline** Prologue 1; book of signs 2-12; book of glory 13-20; epilogue 21.
-> **Wit.** Frag. Papyrus 52 early 2nd century AD | Subst. Papyrus 66 is the earliest substantial John witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek John 4th century AD
-> **Ext.** Likely early allusion in Ignatius; clear attestation in Irenaeus by Irenaeus (late 2nd century AD)
-> **Text** John is text-critically important at several famous loci, but its early papyrus attestation is exceptionally strong.
-> **Cons.** This edition receives John's high Christology as apostolic eyewitness testimony, not as a late theological invention.
+>
+> **Earliest Witnesses** Frag. Papyrus 52 early 2nd century AD | Subst. Papyrus 66 is the earliest substantial John witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek John 4th century AD
+>
+> **Earliest External Attestation** Likely early allusion in Ignatius; clear attestation in Irenaeus by Irenaeus (late 2nd century AD)
+>
+> **Textual Notes** John is text-critically important at several famous loci, but its early papyrus attestation is exceptionally strong.
+>
+> **Conservative Notes** This edition receives John's high Christology as apostolic eyewitness testimony, not as a late theological invention.
+>
 
 ## John 1
 
@@ -64172,22 +64774,36 @@ Notes:
 
 # Acts
 
-> **Acts Intro**
+> **Acts Introduction**
 >
-> **Auth.** Luke
-> **Basis** Acts continues Luke's account to the same addressee and shares style, vocabulary, and perspective with the Gospel.
-> **NT att.** The we-sections and early church tradition support Luke as the author of Acts.
-> **Date** AD 62 or shortly after in common conservative dating
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Historical account of the risen Christ's work by the Spirit through the apostles from Jerusalem to Rome.
+> **Author and Attribution** Luke
+>
+> **Authorship Basis** Acts continues Luke's account to the same addressee and shares style, vocabulary, and perspective with the Gospel.
+>
+> **Jesus / NT Attribution** The we-sections and early church tradition support Luke as the author of Acts.
+>
+> **Composition Date** AD 62 or shortly after in common conservative dating
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Historical account of the risen Christ's work by the Spirit through the apostles from Jerusalem to Rome.
+>
 > **Purpose** To narrate the spread of the gospel, the formation of the church, and the mission to the nations under the Spirit's power.
-> **Themes** Holy Spirit; mission; church; apostolic witness; Jew and Gentile; providence
+>
+> **Key Themes** Holy Spirit; mission; church; apostolic witness; Jew and Gentile; providence
+>
 > **Outline** Jerusalem witness 1-7; Judea and Samaria 8-12; Gentile mission to Rome 13-28.
-> **Wit.** Frag. Papyrus 29 and Papyrus 38 are early small witnesses; Papyrus 45 is substantial 3rd century AD | Subst. Papyrus 45 is the earliest substantial Acts witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Acts 4th century AD
-> **Ext.** Clear early attestation in Irenaeus and Muratorian tradition by Irenaeus (late 2nd century AD)
-> **Text** Acts is central for text criticism because the Alexandrian and Western forms differ at many points.
-> **Cons.** This edition receives Acts as accurate sacred history written by Luke under inspiration.
+>
+> **Earliest Witnesses** Frag. Papyrus 29 and Papyrus 38 are early small witnesses; Papyrus 45 is substantial 3rd century AD | Subst. Papyrus 45 is the earliest substantial Acts witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Acts 4th century AD
+>
+> **Earliest External Attestation** Clear early attestation in Irenaeus and Muratorian tradition by Irenaeus (late 2nd century AD)
+>
+> **Textual Notes** Acts is central for text criticism because the Alexandrian and Western forms differ at many points.
+>
+> **Conservative Notes** This edition receives Acts as accurate sacred history written by Luke under inspiration.
+>
 
 ## Acts 1
 
@@ -65752,22 +66368,36 @@ Notes:
 
 # Romans
 
-> **Romans Intro**
+> **Romans Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received Romans as Pauline.
-> **NT att.** The book explicitly names Paul and coheres with Acts and the Pauline corpus.
-> **Date** AD 56-57 from Corinth
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Paul's fullest doctrinal letter, written to the believers in Rome before his visit there.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received Romans as Pauline.
+>
+> **Jesus / NT Attribution** The book explicitly names Paul and coheres with Acts and the Pauline corpus.
+>
+> **Composition Date** AD 56-57 from Corinth
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Paul's fullest doctrinal letter, written to the believers in Rome before his visit there.
+>
 > **Purpose** To set forth the righteousness of God in the gospel and unify Jew and Gentile believers in Christ.
-> **Themes** righteousness; justification; union with Christ; Israel; sanctification; gospel
+>
+> **Key Themes** righteousness; justification; union with Christ; Israel; sanctification; gospel
+>
 > **Outline** Guilt and justification 1-5; sanctification 6-8; Israel and God's plan 9-11; practical exhortation 12-16.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Romans witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Romans 4th century AD
-> **Ext.** Likely echoed in 1 Clement by Clement of Rome (late 1st century AD)
-> **Text** Romans is textually well attested and theologically central, with some variation in closing doxology placement.
-> **Cons.** This edition receives Romans as Paul's Spirit-inspired magisterial exposition of the gospel.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Romans witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Romans 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in 1 Clement by Clement of Rome (late 1st century AD)
+>
+> **Textual Notes** Romans is textually well attested and theologically central, with some variation in closing doxology placement.
+>
+> **Conservative Notes** This edition receives Romans as Paul's Spirit-inspired magisterial exposition of the gospel.
+>
 
 ## Romans 1
 
@@ -66608,22 +67238,36 @@ Notes:
 
 # 1 Corinthians
 
-> **1 Corinthians Intro**
+> **1 Corinthians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received 1 Corinthians as Pauline.
-> **NT att.** The book explicitly names Paul and coheres with Acts' Corinthian setting.
-> **Date** AD 54-55 from Ephesus
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Pastoral and doctrinal letter addressing a troubled but gifted church in Corinth.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received 1 Corinthians as Pauline.
+>
+> **Jesus / NT Attribution** The book explicitly names Paul and coheres with Acts' Corinthian setting.
+>
+> **Composition Date** AD 54-55 from Ephesus
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Pastoral and doctrinal letter addressing a troubled but gifted church in Corinth.
+>
 > **Purpose** To correct disorder, answer questions, and re-center the church on Christ crucified and risen.
-> **Themes** church order; holiness; resurrection; gifts; love; discipline
+>
+> **Key Themes** church order; holiness; resurrection; gifts; love; discipline
+>
 > **Outline** Divisions and wisdom 1-4; moral and practical issues 5-11; gifts and worship 12-14; resurrection 15; closing 16.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 1 Corinthians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 1 Corinthians 4th century AD
-> **Ext.** Extensively echoed by Clement of Rome by Clement of Rome (late 1st century AD)
-> **Text** 1 Corinthians is early and strongly attested, making it a major control point for Pauline text.
-> **Cons.** This edition receives 1 Corinthians as direct apostolic correction for a real first-century church.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 1 Corinthians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 1 Corinthians 4th century AD
+>
+> **Earliest External Attestation** Extensively echoed by Clement of Rome by Clement of Rome (late 1st century AD)
+>
+> **Textual Notes** 1 Corinthians is early and strongly attested, making it a major control point for Pauline text.
+>
+> **Conservative Notes** This edition receives 1 Corinthians as direct apostolic correction for a real first-century church.
+>
 
 ## 1 Corinthians 1
 
@@ -67337,22 +67981,36 @@ Notes:
 
 # 2 Corinthians
 
-> **2 Corinthians Intro**
+> **2 Corinthians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received 2 Corinthians as Pauline.
-> **NT att.** The personal, travel, and conflict material fits Paul in Acts and the wider Pauline corpus.
-> **Date** AD 55-56 from Macedonia
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Paul's deeply personal defense of his ministry and appeal to the Corinthians.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received 2 Corinthians as Pauline.
+>
+> **Jesus / NT Attribution** The personal, travel, and conflict material fits Paul in Acts and the wider Pauline corpus.
+>
+> **Composition Date** AD 55-56 from Macedonia
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Paul's deeply personal defense of his ministry and appeal to the Corinthians.
+>
 > **Purpose** To reconcile with the church, defend apostolic ministry, and display Christ's strength in weakness.
-> **Themes** apostolic ministry; weakness; comfort; generosity; reconciliation
+>
+> **Key Themes** apostolic ministry; weakness; comfort; generosity; reconciliation
+>
 > **Outline** Ministry and comfort 1-7; collection 8-9; defense against opponents 10-13.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 2 Corinthians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 2 Corinthians 4th century AD
-> **Ext.** Likely echoed in early Christian correspondence by Polycarp or Clement (late 1st to early 2nd century AD)
-> **Text** 2 Corinthians' unity is debated by some, but conservative scholarship receives the canonical letter as Pauline and coherent.
-> **Cons.** This edition receives 2 Corinthians as authentic apostolic self-disclosure under inspiration.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 2 Corinthians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 2 Corinthians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in early Christian correspondence by Polycarp or Clement (late 1st to early 2nd century AD)
+>
+> **Textual Notes** 2 Corinthians' unity is debated by some, but conservative scholarship receives the canonical letter as Pauline and coherent.
+>
+> **Conservative Notes** This edition receives 2 Corinthians as authentic apostolic self-disclosure under inspiration.
+>
 
 ## 2 Corinthians 1
 
@@ -67824,22 +68482,36 @@ Notes:
 
 # Galatians
 
-> **Galatians Intro**
+> **Galatians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received Galatians as Pauline.
-> **NT att.** Paul's autobiographical defense and doctrinal argument fit the apostolic controversy reflected in Acts.
-> **Date** AD 48-49 or 54-55 depending on destination theory
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Polemic letter against justification by works of the law and for freedom in Christ.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received Galatians as Pauline.
+>
+> **Jesus / NT Attribution** Paul's autobiographical defense and doctrinal argument fit the apostolic controversy reflected in Acts.
+>
+> **Composition Date** AD 48-49 or 54-55 depending on destination theory
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Polemic letter against justification by works of the law and for freedom in Christ.
+>
 > **Purpose** To defend the true gospel of justification by faith and the Spirit's transforming work.
-> **Themes** justification; law and gospel; promise; Spirit; liberty
+>
+> **Key Themes** justification; law and gospel; promise; Spirit; liberty
+>
 > **Outline** Apostolic defense 1-2; doctrinal argument 3-4; practical freedom 5-6.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Galatians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Galatians 4th century AD
-> **Ext.** Likely echoed in Polycarp and later fathers by Polycarp (early 2nd century AD)
-> **Text** Galatians is important for text-critical and doctrinal comparison because of its central soteriological language.
-> **Cons.** This edition receives Galatians as authentic Pauline controversy literature defending the once-for-all apostolic gospel.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Galatians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Galatians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in Polycarp and later fathers by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** Galatians is important for text-critical and doctrinal comparison because of its central soteriological language.
+>
+> **Conservative Notes** This edition receives Galatians as authentic Pauline controversy literature defending the once-for-all apostolic gospel.
+>
 
 ## Galatians 1
 
@@ -68087,22 +68759,36 @@ Notes:
 
 # Ephesians
 
-> **Ephesians Intro**
+> **Ephesians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives the letter as Pauline, whether or not intended as a circular letter.
-> **NT att.** Traditional church reception strongly supports Pauline authorship.
-> **Date** AD 60-62 during Roman imprisonment
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Prison epistle celebrating Christ's cosmic headship and the church's unity.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives the letter as Pauline, whether or not intended as a circular letter.
+>
+> **Jesus / NT Attribution** Traditional church reception strongly supports Pauline authorship.
+>
+> **Composition Date** AD 60-62 during Roman imprisonment
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Prison epistle celebrating Christ's cosmic headship and the church's unity.
+>
 > **Purpose** To unfold the believer's blessings in Christ and call the church to unity, holiness, and spiritual warfare.
-> **Themes** union with Christ; church; grace; unity; holiness; armor of God
+>
+> **Key Themes** union with Christ; church; grace; unity; holiness; armor of God
+>
 > **Outline** Blessings and prayer 1-3; worthy walk 4-6.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Ephesians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Ephesians 4th century AD
-> **Ext.** Likely echoed in Ignatius by Ignatius (early 2nd century AD)
-> **Text** Ephesians has some textual discussion around the address line and a few wording issues, but is strongly attested.
-> **Cons.** This edition receives Ephesians as Pauline and fully apostolic in doctrine and exhortation.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Ephesians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Ephesians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in Ignatius by Ignatius (early 2nd century AD)
+>
+> **Textual Notes** Ephesians has some textual discussion around the address line and a few wording issues, but is strongly attested.
+>
+> **Conservative Notes** This edition receives Ephesians as Pauline and fully apostolic in doctrine and exhortation.
+>
 
 ## Ephesians 1
 
@@ -68370,22 +69056,36 @@ Notes:
 
 # Philippians
 
-> **Philippians Intro**
+> **Philippians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received Philippians as Pauline.
-> **NT att.** Its prison setting, coworkers, and warm personal tone fit Paul well.
-> **Date** AD 60-62 during Roman imprisonment
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Warm prison letter to a faithful supporting church.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received Philippians as Pauline.
+>
+> **Jesus / NT Attribution** Its prison setting, coworkers, and warm personal tone fit Paul well.
+>
+> **Composition Date** AD 60-62 during Roman imprisonment
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Warm prison letter to a faithful supporting church.
+>
 > **Purpose** To thank the Philippians, encourage joy and unity, and exalt Christ's humiliation and exaltation.
-> **Themes** joy; humility; Christ hymn; perseverance; partnership
+>
+> **Key Themes** joy; humility; Christ hymn; perseverance; partnership
+>
 > **Outline** Thanksgiving and prayer 1; Christlike humility 2; warning and goal 3; peace and gratitude 4.
-> **Wit.** Frag. Papyrus 16 and Papyrus 46 witness Philippians ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Philippians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Philippians 4th century AD
-> **Ext.** Likely echoed in Polycarp by Polycarp (early 2nd century AD)
-> **Text** Philippians is early and well attested, with no major textual instability compared with some other books.
-> **Cons.** This edition receives Philippians as authentic Pauline prison correspondence.
+>
+> **Earliest Witnesses** Frag. Papyrus 16 and Papyrus 46 witness Philippians ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Philippians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Philippians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in Polycarp by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** Philippians is early and well attested, with no major textual instability compared with some other books.
+>
+> **Conservative Notes** This edition receives Philippians as authentic Pauline prison correspondence.
+>
 
 ## Philippians 1
 
@@ -68572,22 +69272,36 @@ Notes:
 
 # Colossians
 
-> **Colossians Intro**
+> **Colossians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives Colossians as Pauline.
-> **NT att.** Its links to Philemon and the prison setting support traditional authorship.
-> **Date** AD 60-62 during Roman imprisonment
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Prison epistle magnifying Christ's supremacy over all powers and urging holy living.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives Colossians as Pauline.
+>
+> **Jesus / NT Attribution** Its links to Philemon and the prison setting support traditional authorship.
+>
+> **Composition Date** AD 60-62 during Roman imprisonment
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Prison epistle magnifying Christ's supremacy over all powers and urging holy living.
+>
 > **Purpose** To combat false teaching by exalting the all-sufficient Christ and calling believers to walk in Him.
-> **Themes** supremacy of Christ; new creation; holiness; fullness; church
+>
+> **Key Themes** supremacy of Christ; new creation; holiness; fullness; church
+>
 > **Outline** Supremacy and reconciliation 1-2; new life and household order 3-4.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Colossians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Colossians 4th century AD
-> **Ext.** Likely echoed in Ignatius and Polycarp by Ignatius and Polycarp (early 2nd century AD)
-> **Text** Colossians is textually stable overall and closely linked to Philemon for historical setting.
-> **Cons.** This edition receives Colossians as authentic Pauline prison teaching centered on Christ's supremacy.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial Colossians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek Colossians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in Ignatius and Polycarp by Ignatius and Polycarp (early 2nd century AD)
+>
+> **Textual Notes** Colossians is textually stable overall and closely linked to Philemon for historical setting.
+>
+> **Conservative Notes** This edition receives Colossians as authentic Pauline prison teaching centered on Christ's supremacy.
+>
 
 ## Colossians 1
 
@@ -68760,22 +69474,36 @@ Notes:
 
 # 1 Thessalonians
 
-> **1 Thessalonians Intro**
+> **1 Thessalonians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received 1 Thessalonians as Pauline.
-> **NT att.** It fits the Acts 17-18 setting and early apostolic mission period.
-> **Date** AD 50-51 from Corinth
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** One of Paul's earliest letters, written to a young persecuted church.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received 1 Thessalonians as Pauline.
+>
+> **Jesus / NT Attribution** It fits the Acts 17-18 setting and early apostolic mission period.
+>
+> **Composition Date** AD 50-51 from Corinth
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** One of Paul's earliest letters, written to a young persecuted church.
+>
 > **Purpose** To encourage steadfastness, holiness, brotherly love, and hope in Christ's return.
-> **Themes** sanctification; hope; second coming; persecution; work
+>
+> **Key Themes** sanctification; hope; second coming; persecution; work
+>
 > **Outline** Thanksgiving and defense 1-3; holy living and the Lord's coming 4-5.
-> **Wit.** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 1 Thessalonians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 1 Thessalonians 4th century AD
-> **Ext.** Likely early echoes in Ignatius and Polycarp by Ignatius and Polycarp (early 2nd century AD)
-> **Text** 1 Thessalonians is early and textually strong, with eschatological passages especially important for apparatus work.
-> **Cons.** This edition receives 1 Thessalonians as among Paul's earliest surviving apostolic letters.
+>
+> **Earliest Witnesses** Frag. Papyrus 46 ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 1 Thessalonians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 1 Thessalonians 4th century AD
+>
+> **Earliest External Attestation** Likely early echoes in Ignatius and Polycarp by Ignatius and Polycarp (early 2nd century AD)
+>
+> **Textual Notes** 1 Thessalonians is early and textually strong, with eschatological passages especially important for apparatus work.
+>
+> **Conservative Notes** This edition receives 1 Thessalonians as among Paul's earliest surviving apostolic letters.
+>
 
 ## 1 Thessalonians 1
 
@@ -68938,22 +69666,36 @@ Notes:
 
 # 2 Thessalonians
 
-> **2 Thessalonians Intro**
+> **2 Thessalonians Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives 2 Thessalonians as Pauline.
-> **NT att.** Its close relationship to 1 Thessalonians and its apostolic tone support authenticity.
-> **Date** AD 51-52 from Corinth
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Follow-up letter correcting confusion about the day of the Lord and urging steadfastness.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives 2 Thessalonians as Pauline.
+>
+> **Jesus / NT Attribution** Its close relationship to 1 Thessalonians and its apostolic tone support authenticity.
+>
+> **Composition Date** AD 51-52 from Corinth
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Follow-up letter correcting confusion about the day of the Lord and urging steadfastness.
+>
 > **Purpose** To steady the church amid persecution and clarify events connected with the Lord's return.
-> **Themes** day of the Lord; lawlessness; perseverance; discipline
+>
+> **Key Themes** day of the Lord; lawlessness; perseverance; discipline
+>
 > **Outline** Persecution and justice 1; man of lawlessness 2; exhortation and discipline 3.
-> **Wit.** Frag. Papyrus 30 and Papyrus 46 witness 2 Thessalonians 3rd century AD and ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 2 Thessalonians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 2 Thessalonians 4th century AD
-> **Ext.** Likely echoed in early fathers by Polycarp (early 2nd century AD)
-> **Text** 2 Thessalonians is central in eschatological discussion and textually well attested.
-> **Cons.** This edition receives 2 Thessalonians as Pauline clarification, not pseudonymous imitation.
+>
+> **Earliest Witnesses** Frag. Papyrus 30 and Papyrus 46 witness 2 Thessalonians 3rd century AD and ca. AD 200 | Subst. Papyrus 46 is the earliest substantial 2 Thessalonians witness ca. AD 200 | Heb. No complete Hebrew original survives n/a | Gk. Codex Vaticanus and Codex Sinaiticus preserve complete Greek 2 Thessalonians 4th century AD
+>
+> **Earliest External Attestation** Likely echoed in early fathers by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** 2 Thessalonians is central in eschatological discussion and textually well attested.
+>
+> **Conservative Notes** This edition receives 2 Thessalonians as Pauline clarification, not pseudonymous imitation.
+>
 
 ## 2 Thessalonians 1
 
@@ -69048,22 +69790,36 @@ Notes:
 
 # 1 Timothy
 
-> **1 Timothy Intro**
+> **1 Timothy Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives the Pastoral Epistles as Pauline.
-> **NT att.** The letter's personal address, church-order concerns, and later travel setting fit traditional Pauline chronology.
-> **Date** mid-60s AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Pastoral instruction to Timothy for ordering doctrine and life in the Ephesian sphere.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives the Pastoral Epistles as Pauline.
+>
+> **Jesus / NT Attribution** The letter's personal address, church-order concerns, and later travel setting fit traditional Pauline chronology.
+>
+> **Composition Date** mid-60s AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Pastoral instruction to Timothy for ordering doctrine and life in the Ephesian sphere.
+>
 > **Purpose** To guard sound doctrine, shape church leadership, and call believers to godliness.
-> **Themes** church order; sound doctrine; eldership; godliness; warning against error
+>
+> **Key Themes** church order; sound doctrine; eldership; godliness; warning against error
+>
 > **Outline** Charge and doctrine 1; worship and leadership 2-3; warning and exhortation 4-6.
-> **Wit.** Frag. Papyrus 133 is an early fragment; later majuscules preserve the full book 3rd century AD | Subst. No papyrus as substantial as P46 survives for 1 Timothy; major uncials are primary full witnesses n/a | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek 1 Timothy 4th-5th century AD
-> **Ext.** Likely echoed in Polycarp by Polycarp (early 2nd century AD)
-> **Text** The Pastorals have different witness patterns from the major Pauline collection, but remain textually secure in the broad sense.
-> **Cons.** This edition receives 1 Timothy as authentic Pauline pastoral instruction.
+>
+> **Earliest Witnesses** Frag. Papyrus 133 is an early fragment; later majuscules preserve the full book 3rd century AD | Subst. No papyrus as substantial as P46 survives for 1 Timothy; major uncials are primary full witnesses n/a | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek 1 Timothy 4th-5th century AD
+>
+> **Earliest External Attestation** Likely echoed in Polycarp by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** The Pastorals have different witness patterns from the major Pauline collection, but remain textually secure in the broad sense.
+>
+> **Conservative Notes** This edition receives 1 Timothy as authentic Pauline pastoral instruction.
+>
 
 ## 1 Timothy 1
 
@@ -69283,22 +70039,36 @@ Notes:
 
 # 2 Timothy
 
-> **2 Timothy Intro**
+> **2 Timothy Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives it as Paul's final surviving letter.
-> **NT att.** Its personal tone, martyrdom horizon, and coworker references suit Paul's last imprisonment.
-> **Date** AD 66-67 from Rome
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Final apostolic charge to Timothy in view of suffering and death.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives it as Paul's final surviving letter.
+>
+> **Jesus / NT Attribution** Its personal tone, martyrdom horizon, and coworker references suit Paul's last imprisonment.
+>
+> **Composition Date** AD 66-67 from Rome
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Final apostolic charge to Timothy in view of suffering and death.
+>
 > **Purpose** To summon Timothy to faithful ministry, endurance, and preservation of the apostolic deposit.
-> **Themes** endurance; Scripture; ministry; apostasy; martyrdom
+>
+> **Key Themes** endurance; Scripture; ministry; apostasy; martyrdom
+>
 > **Outline** Guard the deposit 1; endure as a soldier 2; perilous times 3; final charge 4.
-> **Wit.** Frag. Papyrus 61 and other small witnesses survive; full text rests mainly in uncials 3rd-4th century AD | Subst. Major uncials preserve the earliest substantial 2 Timothy text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek 2 Timothy 4th-5th century AD
-> **Ext.** Likely echoed in Polycarp and later fathers by Polycarp (early 2nd century AD)
-> **Text** 2 Timothy contains key statements on Scripture and ministry and is well preserved in the main textual tradition.
-> **Cons.** This edition receives 2 Timothy as Paul's final inspired testament to the church.
+>
+> **Earliest Witnesses** Frag. Papyrus 61 and other small witnesses survive; full text rests mainly in uncials 3rd-4th century AD | Subst. Major uncials preserve the earliest substantial 2 Timothy text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek 2 Timothy 4th-5th century AD
+>
+> **Earliest External Attestation** Likely echoed in Polycarp and later fathers by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** 2 Timothy contains key statements on Scripture and ministry and is well preserved in the main textual tradition.
+>
+> **Conservative Notes** This edition receives 2 Timothy as Paul's final inspired testament to the church.
+>
 
 ## 2 Timothy 1
 
@@ -69465,22 +70235,36 @@ Notes:
 
 # Titus
 
-> **Titus Intro**
+> **Titus Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and conservative scholarship receives Titus as Pauline.
-> **NT att.** Its personal directions and pastoral instruction fit the same post-Acts missionary horizon as 1 Timothy.
-> **Date** mid-60s AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Pastoral letter for church order and godly living in Crete.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and conservative scholarship receives Titus as Pauline.
+>
+> **Jesus / NT Attribution** Its personal directions and pastoral instruction fit the same post-Acts missionary horizon as 1 Timothy.
+>
+> **Composition Date** mid-60s AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Pastoral letter for church order and godly living in Crete.
+>
 > **Purpose** To establish qualified leadership, oppose false teachers, and adorn the doctrine of God with good works.
-> **Themes** leadership; good works; sound doctrine; grace; order
+>
+> **Key Themes** leadership; good works; sound doctrine; grace; order
+>
 > **Outline** Leadership and rebuke 1; fitting conduct 2; grace and good works 3.
-> **Wit.** Frag. Papyrus 32 preserves a small early Titus witness 3rd century AD | Subst. Major uncials preserve the earliest substantial Titus text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Titus 4th-5th century AD
-> **Ext.** Likely echoed in early fathers by Clement of Alexandria or later fathers (late 2nd century AD)
-> **Text** Titus is textually stable overall and closely linked to the Pastoral corpus.
-> **Cons.** This edition receives Titus as authentic Pauline pastoral direction.
+>
+> **Earliest Witnesses** Frag. Papyrus 32 preserves a small early Titus witness 3rd century AD | Subst. Major uncials preserve the earliest substantial Titus text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Titus 4th-5th century AD
+>
+> **Earliest External Attestation** Likely echoed in early fathers by Clement of Alexandria or later fathers (late 2nd century AD)
+>
+> **Textual Notes** Titus is textually stable overall and closely linked to the Pastoral corpus.
+>
+> **Conservative Notes** This edition receives Titus as authentic Pauline pastoral direction.
+>
 
 ## Titus 1
 
@@ -69580,22 +70364,36 @@ Notes:
 
 # Philemon
 
-> **Philemon Intro**
+> **Philemon Introduction**
 >
-> **Auth.** Paul the apostle
-> **Basis** The opening identifies Paul, and the church has always received Philemon as Pauline.
-> **NT att.** Its close ties to Colossians and concrete personal details strongly support authenticity.
-> **Date** AD 60-62 during Roman imprisonment
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Brief personal prison letter appealing for Onesimus's reception.
+> **Author and Attribution** Paul the apostle
+>
+> **Authorship Basis** The opening identifies Paul, and the church has always received Philemon as Pauline.
+>
+> **Jesus / NT Attribution** Its close ties to Colossians and concrete personal details strongly support authenticity.
+>
+> **Composition Date** AD 60-62 during Roman imprisonment
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Brief personal prison letter appealing for Onesimus's reception.
+>
 > **Purpose** To embody gospel reconciliation and brotherhood in Christ in a concrete case.
-> **Themes** reconciliation; brotherhood; grace; appeal; slavery and freedom in Christ
+>
+> **Key Themes** reconciliation; brotherhood; grace; appeal; slavery and freedom in Christ
+>
 > **Outline** Opening and thanksgiving 1-7; appeal for Onesimus 8-25.
-> **Wit.** Frag. Papyrus 87 preserves a small early Philemon witness 3rd century AD | Subst. Major uncials preserve the earliest substantial Philemon text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Philemon 4th-5th century AD
-> **Ext.** Likely known in early Pauline reception by Marcion or later fathers (2nd century AD)
-> **Text** Philemon is short and comparatively stable textually, but historically valuable for the Pauline network.
-> **Cons.** This edition receives Philemon as authentic Pauline personal correspondence under inspiration.
+>
+> **Earliest Witnesses** Frag. Papyrus 87 preserves a small early Philemon witness 3rd century AD | Subst. Major uncials preserve the earliest substantial Philemon text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Philemon 4th-5th century AD
+>
+> **Earliest External Attestation** Likely known in early Pauline reception by Marcion or later fathers (2nd century AD)
+>
+> **Textual Notes** Philemon is short and comparatively stable textually, but historically valuable for the Pauline network.
+>
+> **Conservative Notes** This edition receives Philemon as authentic Pauline personal correspondence under inspiration.
+>
 
 ## Philemon 1
 
@@ -69639,22 +70437,36 @@ Notes:
 
 # Hebrews
 
-> **Hebrews Intro**
+> **Hebrews Introduction**
 >
-> **Auth.** Unknown human writer; conservative options often include Paul
-> **Basis** Luke
-> **NT att.** Barnabas
-> **Date** or Apollos
-> **MT** The church received Hebrews as canonical and apostolic in doctrine, though the human penman remains uncertain.
-> **LXX** 2 Peter 3:15 may possibly allude to Pauline teaching received alongside Hebrews, but the book itself is anonymous.
-> **Setting** before AD 70 in common conservative dating
+> **Author and Attribution** Unknown human writer; conservative options often include Paul
+>
+> **Authorship Basis** Luke
+>
+> **Jesus / NT Attribution** Barnabas
+>
+> **Composition Date** or Apollos
+>
+> **MT Timeline** The church received Hebrews as canonical and apostolic in doctrine, though the human penman remains uncertain.
+>
+> **LXX Timeline** 2 Peter 3:15 may possibly allude to Pauline teaching received alongside Hebrews, but the book itself is anonymous.
+>
+> **Historical Setting** before AD 70 in common conservative dating
+>
 > **Purpose** Not applicable
-> **Themes** Not applicable
+>
+> **Key Themes** Not applicable
+>
 > **Outline** Sustained sermon-letter exalting Christ's superiority and warning against apostasy.
-> **Wit.** Frag. To show the finality of Christ's priesthood and covenant and to call believers to persevering faith. superiority of Christ; priesthood; covenant; perseverance; faith | Subst. Christ superior 1-10; persevering faith and exhortation 11-13. Papyrus 46 | Heb. ca. AD 200 Papyrus 46 is the earliest substantial Hebrews witness | Gk. ca. AD 200 No complete Hebrew original survives
-> **Ext.** n/a by Codex Vaticanus and Codex Sinaiticus preserve complete Greek Hebrews (4th century AD)
-> **Text** Clearly used by Clement of Rome
-> **Cons.** Clement of Rome
+>
+> **Earliest Witnesses** Frag. To show the finality of Christ's priesthood and covenant and to call believers to persevering faith. superiority of Christ; priesthood; covenant; perseverance; faith | Subst. Christ superior 1-10; persevering faith and exhortation 11-13. Papyrus 46 | Heb. ca. AD 200 Papyrus 46 is the earliest substantial Hebrews witness | Gk. ca. AD 200 No complete Hebrew original survives
+>
+> **Earliest External Attestation** n/a by Codex Vaticanus and Codex Sinaiticus preserve complete Greek Hebrews (4th century AD)
+>
+> **Textual Notes** Clearly used by Clement of Rome
+>
+> **Conservative Notes** Clement of Rome
+>
 
 ## Hebrews 1
 
@@ -70240,22 +71052,36 @@ Notes:
 
 # James
 
-> **James Intro**
+> **James Introduction**
 >
-> **Auth.** James the brother of the Lord
-> **Basis** The letter names James, and conservative scholarship receives it as written by James the Lord's brother, leader of the Jerusalem church.
-> **NT att.** Acts 15 and Galatians 1-2 establish James's authority and profile consistent with the epistle.
-> **Date** mid-40s to early 60s AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Practical wisdom epistle addressing scattered believers under trial.
+> **Author and Attribution** James the brother of the Lord
+>
+> **Authorship Basis** The letter names James, and conservative scholarship receives it as written by James the Lord's brother, leader of the Jerusalem church.
+>
+> **Jesus / NT Attribution** Acts 15 and Galatians 1-2 establish James's authority and profile consistent with the epistle.
+>
+> **Composition Date** mid-40s to early 60s AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Practical wisdom epistle addressing scattered believers under trial.
+>
 > **Purpose** To call believers to steadfastness, whole-hearted obedience, bridled speech, and living faith.
-> **Themes** trials; wisdom; faith and works; speech; worldliness; prayer
+>
+> **Key Themes** trials; wisdom; faith and works; speech; worldliness; prayer
+>
 > **Outline** Trials and wisdom 1; impartiality and living faith 2; speech and wisdom 3; worldliness and humility 4; endurance and prayer 5.
-> **Wit.** Frag. Papyrus 20 and Papyrus 23 preserve early James fragments 3rd century AD | Subst. Major uncials preserve the earliest substantial James text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek James 4th century AD
-> **Ext.** Likely early allusions in 1 Clement and Shepherd of Hermas; clear later attestation by Origen or earlier echoes (2nd-3rd century AD)
-> **Text** James is comparatively late in explicit patristic attestation but textually secure in the received Greek tradition.
-> **Cons.** This edition receives James as the epistle of the Lord's brother and not as a later pseudonymous moral tract.
+>
+> **Earliest Witnesses** Frag. Papyrus 20 and Papyrus 23 preserve early James fragments 3rd century AD | Subst. Major uncials preserve the earliest substantial James text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek James 4th century AD
+>
+> **Earliest External Attestation** Likely early allusions in 1 Clement and Shepherd of Hermas; clear later attestation by Origen or earlier echoes (2nd-3rd century AD)
+>
+> **Textual Notes** James is comparatively late in explicit patristic attestation but textually secure in the received Greek tradition.
+>
+> **Conservative Notes** This edition receives James as the epistle of the Lord's brother and not as a later pseudonymous moral tract.
+>
 
 ## James 1
 
@@ -70452,22 +71278,36 @@ Notes:
 
 # 1 Peter
 
-> **1 Peter Intro**
+> **1 Peter Introduction**
 >
-> **Auth.** Peter the apostle
-> **Basis** The opening identifies Peter, and the church has always received 1 Peter as Petrine.
-> **NT att.** The letter's self-identification and pastoral authority fit Peter speaking through Silvanus.
-> **Date** early 60s AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Circular letter to suffering believers in Asia Minor.
+> **Author and Attribution** Peter the apostle
+>
+> **Authorship Basis** The opening identifies Peter, and the church has always received 1 Peter as Petrine.
+>
+> **Jesus / NT Attribution** The letter's self-identification and pastoral authority fit Peter speaking through Silvanus.
+>
+> **Composition Date** early 60s AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Circular letter to suffering believers in Asia Minor.
+>
 > **Purpose** To strengthen believers under suffering with living hope, holy conduct, and Christ's example.
-> **Themes** suffering; holiness; hope; exile; Christ's example
+>
+> **Key Themes** suffering; holiness; hope; exile; Christ's example
+>
 > **Outline** Living hope and holiness 1-2; suffering and witness 3-4; shepherding and humility 5.
-> **Wit.** Frag. Papyrus 72 contains 1 Peter 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial 1 Peter witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 1 Peter 4th century AD
-> **Ext.** Likely echoed by Polycarp by Polycarp (early 2nd century AD)
-> **Text** 1 Peter is well attested and often discussed for its relation to the LXX in OT quotations.
-> **Cons.** This edition receives 1 Peter as apostolic Petrine instruction to suffering exiles.
+>
+> **Earliest Witnesses** Frag. Papyrus 72 contains 1 Peter 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial 1 Peter witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 1 Peter 4th century AD
+>
+> **Earliest External Attestation** Likely echoed by Polycarp by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** 1 Peter is well attested and often discussed for its relation to the LXX in OT quotations.
+>
+> **Conservative Notes** This edition receives 1 Peter as apostolic Petrine instruction to suffering exiles.
+>
 
 ## 1 Peter 1
 
@@ -70686,22 +71526,36 @@ Notes:
 
 # 2 Peter
 
-> **2 Peter Intro**
+> **2 Peter Introduction**
 >
-> **Auth.** Peter the apostle
-> **Basis** The opening identifies Simon Peter; conservative scholarship receives the letter as genuinely Petrine despite its later and sparser attestation.
-> **NT att.** 2 Peter 1 and 3 present apostolic self-consciousness, eyewitness claim, and relation to Paul.
-> **Date** mid-60s AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Final apostolic warning against false teachers and unbelief concerning Christ's return.
+> **Author and Attribution** Peter the apostle
+>
+> **Authorship Basis** The opening identifies Simon Peter; conservative scholarship receives the letter as genuinely Petrine despite its later and sparser attestation.
+>
+> **Jesus / NT Attribution** 2 Peter 1 and 3 present apostolic self-consciousness, eyewitness claim, and relation to Paul.
+>
+> **Composition Date** mid-60s AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Final apostolic warning against false teachers and unbelief concerning Christ's return.
+>
 > **Purpose** To call believers to growth, guard against corruption, and affirm the certainty of the Lord's coming.
-> **Themes** knowledge; holiness; false teachers; second coming; Scripture
+>
+> **Key Themes** knowledge; holiness; false teachers; second coming; Scripture
+>
 > **Outline** Growth and calling 1; false teachers 2; day of the Lord 3.
-> **Wit.** Frag. Papyrus 72 contains 2 Peter 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial 2 Peter witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Vaticanus preserve complete Greek 2 Peter 4th century AD
-> **Ext.** Earliest clear attestation in Origen by Origen (3rd century AD)
-> **Text** 2 Peter has the sparsest early external attestation among NT books, but its textual preservation in the received tradition is secure.
-> **Cons.** This edition receives 2 Peter as genuinely Petrine and does not accept late pseudonymity as compatible with the book's self-witness.
+>
+> **Earliest Witnesses** Frag. Papyrus 72 contains 2 Peter 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial 2 Peter witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Vaticanus preserve complete Greek 2 Peter 4th century AD
+>
+> **Earliest External Attestation** Earliest clear attestation in Origen by Origen (3rd century AD)
+>
+> **Textual Notes** 2 Peter has the sparsest early external attestation among NT books, but its textual preservation in the received tradition is secure.
+>
+> **Conservative Notes** This edition receives 2 Peter as genuinely Petrine and does not accept late pseudonymity as compatible with the book's self-witness.
+>
 
 ## 2 Peter 1
 
@@ -70823,22 +71677,36 @@ Notes:
 
 # 1 John
 
-> **1 John Intro**
+> **1 John Introduction**
 >
-> **Auth.** John the apostle
-> **Basis** Early church testimony and the close relation to the Fourth Gospel support Johannine apostolic authorship.
-> **NT att.** The language, theology, and pastoral voice align with the apostle John and the Johannine circle under his oversight.
-> **Date** late 1st century AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Pastoral doctrinal tract combating false claims while assuring believers of eternal life.
+> **Author and Attribution** John the apostle
+>
+> **Authorship Basis** Early church testimony and the close relation to the Fourth Gospel support Johannine apostolic authorship.
+>
+> **Jesus / NT Attribution** The language, theology, and pastoral voice align with the apostle John and the Johannine circle under his oversight.
+>
+> **Composition Date** late 1st century AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Pastoral doctrinal tract combating false claims while assuring believers of eternal life.
+>
 > **Purpose** To strengthen assurance, define true fellowship, and expose antichrist error.
-> **Themes** assurance; fellowship; love; truth; incarnation; obedience
+>
+> **Key Themes** assurance; fellowship; love; truth; incarnation; obedience
+>
 > **Outline** Tests of life and fellowship 1-5.
-> **Wit.** Frag. Papyrus 9 and Papyrus 74 preserve early 1 John material 3rd-7th century AD | Subst. Papyrus 74 and major uncials preserve substantial text 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 1 John 4th century AD
-> **Ext.** Likely echoed by Polycarp by Polycarp (early 2nd century AD)
-> **Text** 1 John is central in Christological and assurance passages; textually it is well preserved overall.
-> **Cons.** This edition receives 1 John as apostolic Johannine testimony against early christological error.
+>
+> **Earliest Witnesses** Frag. Papyrus 9 and Papyrus 74 preserve early 1 John material 3rd-7th century AD | Subst. Papyrus 74 and major uncials preserve substantial text 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 1 John 4th century AD
+>
+> **Earliest External Attestation** Likely echoed by Polycarp by Polycarp (early 2nd century AD)
+>
+> **Textual Notes** 1 John is central in Christological and assurance passages; textually it is well preserved overall.
+>
+> **Conservative Notes** This edition receives 1 John as apostolic Johannine testimony against early christological error.
+>
 
 ## 1 John 1
 
@@ -71032,22 +71900,36 @@ Notes:
 
 # 2 John
 
-> **2 John Intro**
+> **2 John Introduction**
 >
-> **Auth.** John the apostle
-> **Basis** Early church testimony attributes 2 John to the apostle or the elder John identified with him in conservative reading.
-> **NT att.** Its style and content closely cohere with 1 John and the Fourth Gospel.
-> **Date** late 1st century AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Short letter warning against deceivers and urging fidelity to truth and love.
+> **Author and Attribution** John the apostle
+>
+> **Authorship Basis** Early church testimony attributes 2 John to the apostle or the elder John identified with him in conservative reading.
+>
+> **Jesus / NT Attribution** Its style and content closely cohere with 1 John and the Fourth Gospel.
+>
+> **Composition Date** late 1st century AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Short letter warning against deceivers and urging fidelity to truth and love.
+>
 > **Purpose** To guard the church from false teachers while maintaining Christian love.
-> **Themes** truth; love; doctrine; deception
+>
+> **Key Themes** truth; love; doctrine; deception
+>
 > **Outline** Greeting 1-3; walking in truth and love 4-6; warning against deceivers 7-11; closing 12-13.
-> **Wit.** Frag. Papyrus 74 preserves 2 John 7th century AD | Subst. Major uncials preserve the earliest substantial 2 John text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 2 John 4th century AD
-> **Ext.** Likely attested by Irenaeus by Irenaeus (late 2nd century AD)
-> **Text** 2 John is short and less heavily witnessed in papyri, but secure in the main Greek tradition.
-> **Cons.** This edition receives 2 John as genuinely Johannine and apostolic.
+>
+> **Earliest Witnesses** Frag. Papyrus 74 preserves 2 John 7th century AD | Subst. Major uncials preserve the earliest substantial 2 John text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 2 John 4th century AD
+>
+> **Earliest External Attestation** Likely attested by Irenaeus by Irenaeus (late 2nd century AD)
+>
+> **Textual Notes** 2 John is short and less heavily witnessed in papyri, but secure in the main Greek tradition.
+>
+> **Conservative Notes** This edition receives 2 John as genuinely Johannine and apostolic.
+>
 
 ## 2 John 1
 
@@ -71076,22 +71958,36 @@ Notes:
 
 # 3 John
 
-> **3 John Intro**
+> **3 John Introduction**
 >
-> **Auth.** John the apostle
-> **Basis** Early church testimony attributes 3 John to the apostle or the elder John identified with him in conservative reading.
-> **NT att.** Its language and themes closely cohere with 1 and 2 John.
-> **Date** late 1st century AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Brief personal letter concerning hospitality, truth, and Diotrephes's arrogance.
+> **Author and Attribution** John the apostle
+>
+> **Authorship Basis** Early church testimony attributes 3 John to the apostle or the elder John identified with him in conservative reading.
+>
+> **Jesus / NT Attribution** Its language and themes closely cohere with 1 and 2 John.
+>
+> **Composition Date** late 1st century AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Brief personal letter concerning hospitality, truth, and Diotrephes's arrogance.
+>
 > **Purpose** To commend faithfulness, rebuke pride, and support gospel workers.
-> **Themes** truth; hospitality; authority; faithfulness
+>
+> **Key Themes** truth; hospitality; authority; faithfulness
+>
 > **Outline** Greeting and praise 1-8; Diotrephes and Demetrius 9-12; closing 13-15.
-> **Wit.** Frag. Papyrus 74 preserves 3 John 7th century AD | Subst. Major uncials preserve the earliest substantial 3 John text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 3 John 4th century AD
-> **Ext.** Likely attested by later 2nd-century fathers by Irenaeus or later witnesses (late 2nd century AD)
-> **Text** 3 John is short and relatively thinly attested in early papyri, but stable in the main textual stream.
-> **Cons.** This edition receives 3 John as authentic Johannine apostolic correspondence.
+>
+> **Earliest Witnesses** Frag. Papyrus 74 preserves 3 John 7th century AD | Subst. Major uncials preserve the earliest substantial 3 John text 4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek 3 John 4th century AD
+>
+> **Earliest External Attestation** Likely attested by later 2nd-century fathers by Irenaeus or later witnesses (late 2nd century AD)
+>
+> **Textual Notes** 3 John is short and relatively thinly attested in early papyri, but stable in the main textual stream.
+>
+> **Conservative Notes** This edition receives 3 John as authentic Johannine apostolic correspondence.
+>
 
 ## 3 John 1
 
@@ -71123,22 +72019,36 @@ Notes:
 
 # Jude
 
-> **Jude Intro**
+> **Jude Introduction**
 >
-> **Auth.** Jude the brother of James and servant of Jesus Christ
-> **Basis** The opening identifies Jude, and conservative scholarship receives him as Jude the brother of James and half-brother of the Lord.
-> **NT att.** The self-designation fits the known family of Jesus without claiming apostolic office directly.
-> **Date** mid to late 1st century AD
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Short urgent letter warning against ungodly infiltrators and calling believers to contend for the faith.
+> **Author and Attribution** Jude the brother of James and servant of Jesus Christ
+>
+> **Authorship Basis** The opening identifies Jude, and conservative scholarship receives him as Jude the brother of James and half-brother of the Lord.
+>
+> **Jesus / NT Attribution** The self-designation fits the known family of Jesus without claiming apostolic office directly.
+>
+> **Composition Date** mid to late 1st century AD
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Short urgent letter warning against ungodly infiltrators and calling believers to contend for the faith.
+>
 > **Purpose** To defend the once-for-all delivered faith and expose libertine false teachers.
-> **Themes** false teachers; judgment; perseverance; contend for the faith
+>
+> **Key Themes** false teachers; judgment; perseverance; contend for the faith
+>
 > **Outline** Greeting and purpose 1-4; examples of judgment 5-16; exhortation and doxology 17-25.
-> **Wit.** Frag. Papyrus 72 contains Jude 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial Jude witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Jude 4th century AD
-> **Ext.** Likely known in later 2nd-century fathers by Clement of Alexandria or Tertullian (late 2nd century AD)
-> **Text** Jude is important for its use of Jewish traditional material and its close relation to 2 Peter.
-> **Cons.** This edition receives Jude as authentic by the brother of James and reads his use of traditional material under inspiration.
+>
+> **Earliest Witnesses** Frag. Papyrus 72 contains Jude 3rd-4th century AD | Subst. Papyrus 72 is the earliest substantial Jude witness 3rd-4th century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Vaticanus preserve complete Greek Jude 4th century AD
+>
+> **Earliest External Attestation** Likely known in later 2nd-century fathers by Clement of Alexandria or Tertullian (late 2nd century AD)
+>
+> **Textual Notes** Jude is important for its use of Jewish traditional material and its close relation to 2 Peter.
+>
+> **Conservative Notes** This edition receives Jude as authentic by the brother of James and reads his use of traditional material under inspiration.
+>
 
 ## Jude 1
 
@@ -71188,22 +72098,36 @@ Notes:
 
 # Revelation
 
-> **Revelation Intro**
+> **Revelation Introduction**
 >
-> **Auth.** John the apostle
-> **Basis** The book names John, and conservative scholarship commonly receives this as the apostle John writing from Patmos.
-> **NT att.** Revelation 1:1-4 and 22:8 self-present a prophetic eyewitness named John; early church testimony often supports apostolic authorship.
-> **Date** AD 95-96 in common conservative dating
-> **MT** Not applicable
-> **LXX** Not applicable
-> **Setting** Apocalyptic prophecy to seven churches in Asia under Roman pressure.
+> **Author and Attribution** John the apostle
+>
+> **Authorship Basis** The book names John, and conservative scholarship commonly receives this as the apostle John writing from Patmos.
+>
+> **Jesus / NT Attribution** Revelation 1:1-4 and 22:8 self-present a prophetic eyewitness named John; early church testimony often supports apostolic authorship.
+>
+> **Composition Date** AD 95-96 in common conservative dating
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Not applicable
+>
+> **Historical Setting** Apocalyptic prophecy to seven churches in Asia under Roman pressure.
+>
 > **Purpose** To unveil Jesus Christ in His present reign, covenant judgments, final victory, and the consummation of all things.
-> **Themes** apocalypse; sovereignty; judgment; perseverance; kingdom; new creation
+>
+> **Key Themes** apocalypse; sovereignty; judgment; perseverance; kingdom; new creation
+>
 > **Outline** Vision of Christ and churches 1-3; heavenly throne and judgments 4-19; millennial and final victory 20; new creation 21-22.
-> **Wit.** Frag. Papyrus 98 and Papyrus 47 preserve early Revelation material 2nd-3rd century AD | Subst. Papyrus 47 is the earliest substantial Revelation witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Revelation 4th-5th century AD
-> **Ext.** Early attestation by Justin Martyr and Irenaeus by Justin Martyr (mid 2nd century AD)
-> **Text** Revelation is text-critically important because of its distinctive manuscript profile and dense reuse of OT language.
-> **Cons.** This edition receives Revelation as genuine apostolic prophecy by John and rejects approaches that reduce it to merely coded political literature devoid of predictive revelation.
+>
+> **Earliest Witnesses** Frag. Papyrus 98 and Papyrus 47 preserve early Revelation material 2nd-3rd century AD | Subst. Papyrus 47 is the earliest substantial Revelation witness 3rd century AD | Heb. No complete Hebrew original survives n/a | Gk. Codex Sinaiticus and Codex Alexandrinus preserve complete Greek Revelation 4th-5th century AD
+>
+> **Earliest External Attestation** Early attestation by Justin Martyr and Irenaeus by Justin Martyr (mid 2nd century AD)
+>
+> **Textual Notes** Revelation is text-critically important because of its distinctive manuscript profile and dense reuse of OT language.
+>
+> **Conservative Notes** This edition receives Revelation as genuine apostolic prophecy by John and rejects approaches that reduce it to merely coded political literature devoid of predictive revelation.
+>
 
 ## Revelation 1
 
@@ -71971,22 +72895,36 @@ Notes:
 
 # Tobit
 
-> **Tobit Intro**
+> **Tobit Introduction**
 >
-> **Auth.** Traditionally Tobit or a later inspired narrator in the Jewish diaspora tradition
-> **Basis** The book presents itself as family history from the Assyrian exile setting; exact human authorship is uncertain.
-> **NT att.** No NT attribution identifies a human writer; this edition treats Tobit as deuterocanonical/apocryphal literature included with the Brenton corpus, not as part of the Hebrew canon.
-> **Date** Hellenistic period composition using earlier story traditions
-> **MT** MT timeline not applicable; no complete Hebrew canonical line exists, though Hebrew and Aramaic fragments survive at Qumran.
-> **LXX** The Greek tradition is primary for the full book and is the form transmitted in Brenton LXX.
-> **Setting** Diaspora family narrative centered on Tobit, Tobias, Sarah, Raphael, almsgiving, and providential deliverance.
+> **Author and Attribution** Traditionally Tobit or a later inspired narrator in the Jewish diaspora tradition
+>
+> **Authorship Basis** The book presents itself as family history from the Assyrian exile setting; exact human authorship is uncertain.
+>
+> **Jesus / NT Attribution** No NT attribution identifies a human writer; this edition treats Tobit as deuterocanonical/apocryphal literature included with the Brenton corpus, not as part of the Hebrew canon.
+>
+> **Composition Date** Hellenistic period composition using earlier story traditions
+>
+> **MT Timeline** MT timeline not applicable; no complete Hebrew canonical line exists, though Hebrew and Aramaic fragments survive at Qumran.
+>
+> **LXX Timeline** The Greek tradition is primary for the full book and is the form transmitted in Brenton LXX.
+>
+> **Historical Setting** Diaspora family narrative centered on Tobit, Tobias, Sarah, Raphael, almsgiving, and providential deliverance.
+>
 > **Purpose** To commend piety, almsgiving, marriage faithfulness, and trust in God's providence in exile.
-> **Themes** diaspora piety; angelic aid; almsgiving; marriage; providence
+>
+> **Key Themes** diaspora piety; angelic aid; almsgiving; marriage; providence
+>
 > **Outline** Tobit's trial 1-3; Tobias's journey 4-11; praise and conclusion 12-14.
-> **Wit.** Frag. Qumran Aramaic and Hebrew Tobit fragments 2nd-1st centuries BC | Subst. Qumran fragments provide the earliest surviving Tobit evidence Second Temple period | Heb. No complete Hebrew witness survives n/a | Gk. Codex Sinaiticus preserves a principal Greek text of Tobit 4th century AD
-> **Ext.** Use in early Jewish and Christian literature by Early Christian fathers (2nd-4th centuries AD)
-> **Text** Tobit exists in multiple Greek forms, and Qumran fragments are important for evaluating the longer and shorter recensions.
-> **Cons.** Included here as part of the public-domain Brenton corpus and clearly distinguished from the Hebrew canon in intro metadata.
+>
+> **Earliest Witnesses** Frag. Qumran Aramaic and Hebrew Tobit fragments 2nd-1st centuries BC | Subst. Qumran fragments provide the earliest surviving Tobit evidence Second Temple period | Heb. No complete Hebrew witness survives n/a | Gk. Codex Sinaiticus preserves a principal Greek text of Tobit 4th century AD
+>
+> **Earliest External Attestation** Use in early Jewish and Christian literature by Early Christian fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Tobit exists in multiple Greek forms, and Qumran fragments are important for evaluating the longer and shorter recensions.
+>
+> **Conservative Notes** Included here as part of the public-domain Brenton corpus and clearly distinguished from the Hebrew canon in intro metadata.
+>
 
 ## Tobit 1
 
@@ -72164,22 +73102,36 @@ Notes:
 
 # Judith
 
-> **Judith Intro**
+> **Judith Introduction**
 >
-> **Auth.** Unknown Jewish author
-> **Basis** The book is anonymous and often read as edifying historical romance or compressed national story in Jewish tradition.
-> **NT att.** No NT attribution identifies a human writer; this edition includes Judith as part of the Brenton/Apocrypha corpus.
-> **Date** Hellenistic period
-> **MT** Not applicable
-> **LXX** The Greek tradition is primary for the full surviving book, though some later Hebrew forms exist.
-> **Setting** Narrative of Judith's courageous deliverance of her people from foreign threat.
+> **Author and Attribution** Unknown Jewish author
+>
+> **Authorship Basis** The book is anonymous and often read as edifying historical romance or compressed national story in Jewish tradition.
+>
+> **Jesus / NT Attribution** No NT attribution identifies a human writer; this edition includes Judith as part of the Brenton/Apocrypha corpus.
+>
+> **Composition Date** Hellenistic period
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** The Greek tradition is primary for the full surviving book, though some later Hebrew forms exist.
+>
+> **Historical Setting** Narrative of Judith's courageous deliverance of her people from foreign threat.
+>
 > **Purpose** To celebrate zeal, courage, covenant loyalty, and God's deliverance through a faithful woman.
-> **Themes** deliverance; courage; covenant zeal; prayer; reversal
+>
+> **Key Themes** deliverance; courage; covenant zeal; prayer; reversal
+>
 > **Outline** Crisis and siege 1-7; Judith's intervention 8-13; deliverance and praise 14-16.
-> **Wit.** Frag. No early Hebrew original survives; Greek witness is primary n/a | Subst. Greek manuscript tradition is the main substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Judith in Greek 4th-5th century AD
-> **Ext.** Used in patristic literature by Church fathers (2nd-4th centuries AD)
-> **Text** Judith's historical framework is difficult to harmonize in detail, and the Greek textual tradition is the central witness for the book.
-> **Cons.** Included as apocryphal/deuterocanonical material in the Brenton corpus, not as part of the Hebrew canon.
+>
+> **Earliest Witnesses** Frag. No early Hebrew original survives; Greek witness is primary n/a | Subst. Greek manuscript tradition is the main substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Judith in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Used in patristic literature by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Judith's historical framework is difficult to harmonize in detail, and the Greek textual tradition is the central witness for the book.
+>
+> **Conservative Notes** Included as apocryphal/deuterocanonical material in the Brenton corpus, not as part of the Hebrew canon.
+>
 
 ## Judith 1
 
@@ -72485,22 +73437,36 @@ Notes:
 
 # Wisdom
 
-> **Wisdom Intro**
+> **Wisdom Introduction**
 >
-> **Auth.** Traditionally Solomon in literary voice; actually anonymous Jewish wisdom author
-> **Basis** The book speaks in Solomonic voice, but most scholarship sees an anonymous Jewish author writing in Greek.
-> **NT att.** No NT attribution identifies the human writer; the book is included here as part of the Brenton/Apocrypha corpus.
-> **Date** late 1st century BC
-> **MT** Not applicable
-> **LXX** Greek is the original language and the primary textual form.
-> **Setting** Hellenistic Jewish wisdom work, likely from Alexandria, exalting righteousness, wisdom, and God's rule in history.
+> **Author and Attribution** Traditionally Solomon in literary voice; actually anonymous Jewish wisdom author
+>
+> **Authorship Basis** The book speaks in Solomonic voice, but most scholarship sees an anonymous Jewish author writing in Greek.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; the book is included here as part of the Brenton/Apocrypha corpus.
+>
+> **Composition Date** late 1st century BC
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the original language and the primary textual form.
+>
+> **Historical Setting** Hellenistic Jewish wisdom work, likely from Alexandria, exalting righteousness, wisdom, and God's rule in history.
+>
 > **Purpose** To commend divine wisdom, righteousness, and hope beyond death in a Hellenistic setting.
-> **Themes** wisdom; righteousness; immortality; exodus typology; idolatry critique
+>
+> **Key Themes** wisdom; righteousness; immortality; exodus typology; idolatry critique
+>
 > **Outline** Wisdom and righteous hope 1-5; praise of wisdom 6-9; wisdom in history 10-19.
-> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is primary and original Hellenistic period | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Wisdom 4th-5th century AD
-> **Ext.** Used by early Christian writers by Church fathers (2nd-4th centuries AD)
-> **Text** Because Greek is original, textual work centers on the Greek tradition rather than MT/LXX comparison.
-> **Cons.** Included as Greek Jewish wisdom literature within the Brenton corpus, with its non-Hebrew-canonical status made explicit.
+>
+> **Earliest Witnesses** Frag. No Hebrew original is known n/a | Subst. Greek text is primary and original Hellenistic period | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Wisdom 4th-5th century AD
+>
+> **Earliest External Attestation** Used by early Christian writers by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Because Greek is original, textual work centers on the Greek tradition rather than MT/LXX comparison.
+>
+> **Conservative Notes** Included as Greek Jewish wisdom literature within the Brenton corpus, with its non-Hebrew-canonical status made explicit.
+>
 
 ## Wisdom 1
 
@@ -72768,22 +73734,36 @@ Notes:
 
 # Sirach
 
-> **Sirach Intro**
+> **Sirach Introduction**
 >
-> **Auth.** Jesus son of Sirach; translated by his grandson
-> **Basis** The prologue identifies the translator and points back to Jesus ben Sirach as the original author.
-> **NT att.** No NT attribution identifies the writer; the work is included here as part of the Brenton/Apocrypha corpus.
-> **Date** early 2nd century BC
-> **MT** Hebrew witnesses exist in part, though the book circulated widely in Greek through the translator's version.
-> **LXX** The Greek translation by the grandson is the principal full form used in the LXX tradition.
-> **Setting** Extended wisdom instruction combining practical, moral, and covenantal teaching with praise of Israel's fathers.
+> **Author and Attribution** Jesus son of Sirach; translated by his grandson
+>
+> **Authorship Basis** The prologue identifies the translator and points back to Jesus ben Sirach as the original author.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the writer; the work is included here as part of the Brenton/Apocrypha corpus.
+>
+> **Composition Date** early 2nd century BC
+>
+> **MT Timeline** Hebrew witnesses exist in part, though the book circulated widely in Greek through the translator's version.
+>
+> **LXX Timeline** The Greek translation by the grandson is the principal full form used in the LXX tradition.
+>
+> **Historical Setting** Extended wisdom instruction combining practical, moral, and covenantal teaching with praise of Israel's fathers.
+>
 > **Purpose** To teach wisdom, fear of the Lord, and faithful covenant life in a changing Hellenistic world.
-> **Themes** wisdom; fear of the Lord; ethics; praise of fathers; law
+>
+> **Key Themes** wisdom; fear of the Lord; ethics; praise of fathers; law
+>
 > **Outline** Instruction and ethics 1-43; praise of the fathers 44-50; closing prayer and colophon 51.
-> **Wit.** Frag. Hebrew Sirach fragments from Cairo Geniza and other finds; Greek translator's prologue 2nd century BC onward | Subst. Hebrew fragments are substantial but partial; Greek remains the principal full witness Second Temple and medieval periods | Heb. No complete ancient Hebrew witness survives n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Sirach 4th-5th century AD
-> **Ext.** Known and used by early Jewish and Christian writers by Early Christian fathers (2nd-4th centuries AD)
-> **Text** Sirach is important because partial Hebrew survives, allowing comparison with the Greek translation in many places.
-> **Cons.** Included here as Brenton Apocrypha material, with its partial Hebrew evidence noted but its non-Hebrew-canonical status maintained.
+>
+> **Earliest Witnesses** Frag. Hebrew Sirach fragments from Cairo Geniza and other finds; Greek translator's prologue 2nd century BC onward | Subst. Hebrew fragments are substantial but partial; Greek remains the principal full witness Second Temple and medieval periods | Heb. No complete ancient Hebrew witness survives n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Sirach 4th-5th century AD
+>
+> **Earliest External Attestation** Known and used by early Jewish and Christian writers by Early Christian fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Sirach is important because partial Hebrew survives, allowing comparison with the Greek translation in many places.
+>
+> **Conservative Notes** Included here as Brenton Apocrypha material, with its partial Hebrew evidence noted but its non-Hebrew-canonical status maintained.
+>
 
 ## Sirach 1
 
@@ -73431,22 +74411,36 @@ Notes:
 
 # Baruch
 
-> **Baruch Intro**
+> **Baruch Introduction**
 >
-> **Auth.** Attributed to Baruch in the book's frame; exact composition history debated
-> **Basis** The work presents itself in Baruch's name, but the final literary history is complex.
-> **NT att.** No NT attribution identifies the human writer; this edition includes Baruch as part of the Brenton/Apocrypha corpus.
-> **Date** exilic frame; likely later composition history
-> **MT** No secure full Hebrew original survives for the whole book.
-> **LXX** The Greek tradition is the principal full witness.
-> **Setting** Exilic-style confession, wisdom, and consolation material linked to Jeremiah's circle.
+> **Author and Attribution** Attributed to Baruch in the book's frame; exact composition history debated
+>
+> **Authorship Basis** The work presents itself in Baruch's name, but the final literary history is complex.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; this edition includes Baruch as part of the Brenton/Apocrypha corpus.
+>
+> **Composition Date** exilic frame; likely later composition history
+>
+> **MT Timeline** No secure full Hebrew original survives for the whole book.
+>
+> **LXX Timeline** The Greek tradition is the principal full witness.
+>
+> **Historical Setting** Exilic-style confession, wisdom, and consolation material linked to Jeremiah's circle.
+>
 > **Purpose** To call the exiles to confession, wisdom, and hope in God's mercy.
-> **Themes** confession; wisdom; exile; consolation; Jerusalem
+>
+> **Key Themes** confession; wisdom; exile; consolation; Jerusalem
+>
 > **Outline** Confession and prayer 1-3; wisdom poem 3-4; consolation 4-5.
-> **Wit.** Frag. No early full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Baruch 4th-5th century AD
-> **Ext.** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
-> **Text** Baruch is transmitted in Greek with important ties to Jeremiah material and to the Letter of Jeremiah in some traditions.
-> **Cons.** Included here as part of the Brenton Apocrypha and clearly separated from the Hebrew canon.
+>
+> **Earliest Witnesses** Frag. No early full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Baruch 4th-5th century AD
+>
+> **Earliest External Attestation** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Baruch is transmitted in Greek with important ties to Jeremiah material and to the Letter of Jeremiah in some traditions.
+>
+> **Conservative Notes** Included here as part of the Brenton Apocrypha and clearly separated from the Hebrew canon.
+>
 
 ## Baruch 1
 
@@ -73562,22 +74556,36 @@ Notes:
 
 # Letter of Jeremiah
 
-> **Letter of Jeremiah Intro**
+> **Letter of Jeremiah Introduction**
 >
-> **Auth.** Attributed to Jeremiah in literary frame; exact human authorship uncertain
-> **Basis** The superscription links it with Jeremiah, but the work's precise literary history is debated.
-> **NT att.** No NT attribution identifies the human writer; it is included here as part of the Brenton Apocrypha corpus.
-> **Date** Hellenistic period or earlier tradition
-> **MT** Not applicable
-> **LXX** Greek is the principal full witness, though some Semitic background has been proposed.
-> **Setting** Polemic letter against idolatry framed as warning to exiles.
+> **Author and Attribution** Attributed to Jeremiah in literary frame; exact human authorship uncertain
+>
+> **Authorship Basis** The superscription links it with Jeremiah, but the work's precise literary history is debated.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; it is included here as part of the Brenton Apocrypha corpus.
+>
+> **Composition Date** Hellenistic period or earlier tradition
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the principal full witness, though some Semitic background has been proposed.
+>
+> **Historical Setting** Polemic letter against idolatry framed as warning to exiles.
+>
 > **Purpose** To expose the folly of idols and strengthen covenant faithfulness in exile.
-> **Themes** idolatry critique; exile; polemic; fidelity
+>
+> **Key Themes** idolatry critique; exile; polemic; fidelity
+>
 > **Outline** Single sustained anti-idolatry discourse.
-> **Wit.** Frag. No secure full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve the Greek Letter of Jeremiah 4th-5th century AD
-> **Ext.** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
-> **Text** Often transmitted with Baruch; textual handling depends on the Greek tradition.
-> **Cons.** Included here as apocryphal material attached to the Brenton corpus.
+>
+> **Earliest Witnesses** Frag. No secure full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve the Greek Letter of Jeremiah 4th-5th century AD
+>
+> **Earliest External Attestation** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Often transmitted with Baruch; textual handling depends on the Greek tradition.
+>
+> **Conservative Notes** Included here as apocryphal material attached to the Brenton corpus.
+>
 
 ## Letter of Jeremiah 1
 
@@ -73631,22 +74639,36 @@ Notes:
 
 # Susanna
 
-> **Susanna Intro**
+> **Susanna Introduction**
 >
-> **Auth.** Attached to Greek Daniel tradition
-> **Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
-> **NT att.** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
-> **Date** Hellenistic period
-> **MT** Not applicable
-> **LXX** Greek tradition is primary; this is one of the additions to Daniel preserved in the LXX stream.
-> **Setting** Court tale of Susanna's vindication through Daniel's wisdom.
+> **Author and Attribution** Attached to Greek Daniel tradition
+>
+> **Authorship Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
+>
+> **Jesus / NT Attribution** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
+>
+> **Composition Date** Hellenistic period
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek tradition is primary; this is one of the additions to Daniel preserved in the LXX stream.
+>
+> **Historical Setting** Court tale of Susanna's vindication through Daniel's wisdom.
+>
 > **Purpose** To vindicate chastity, expose corrupt judges, and honor God's justice.
-> **Themes** justice; chastity; wisdom; vindication
+>
+> **Key Themes** justice; chastity; wisdom; vindication
+>
 > **Outline** Single narrative of accusation, trial, and vindication.
-> **Wit.** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Susanna in Greek Daniel tradition 4th-5th century AD
-> **Ext.** Used in Christian tradition with Daniel by Church fathers (2nd-4th centuries AD)
-> **Text** Susanna belongs to the Greek Daniel textual tradition and must be handled alongside Old Greek/Theodotionic Daniel evidence.
-> **Cons.** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+>
+> **Earliest Witnesses** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Susanna in Greek Daniel tradition 4th-5th century AD
+>
+> **Earliest External Attestation** Used in Christian tradition with Daniel by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Susanna belongs to the Greek Daniel textual tradition and must be handled alongside Old Greek/Theodotionic Daniel evidence.
+>
+> **Conservative Notes** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+>
 
 ## Susanna 1
 
@@ -73698,22 +74720,36 @@ Notes:
 
 # Bel and the Dragon
 
-> **Bel and the Dragon Intro**
+> **Bel and the Dragon Introduction**
 >
-> **Auth.** Attached to Greek Daniel tradition
-> **Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
-> **NT att.** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
-> **Date** Hellenistic period
-> **MT** Not applicable
-> **LXX** Greek tradition is primary and transmitted with Daniel in the LXX stream.
-> **Setting** Narratives exposing idolatry and celebrating God's deliverance of Daniel.
+> **Author and Attribution** Attached to Greek Daniel tradition
+>
+> **Authorship Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
+>
+> **Jesus / NT Attribution** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
+>
+> **Composition Date** Hellenistic period
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek tradition is primary and transmitted with Daniel in the LXX stream.
+>
+> **Historical Setting** Narratives exposing idolatry and celebrating God's deliverance of Daniel.
+>
 > **Purpose** To mock idols, magnify the living God, and show Daniel's vindication.
-> **Themes** idolatry critique; deliverance; Daniel; divine power
+>
+> **Key Themes** idolatry critique; deliverance; Daniel; divine power
+>
 > **Outline** Bel exposed; dragon destroyed; Daniel delivered.
-> **Wit.** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Bel and the Dragon in Greek Daniel tradition 4th-5th century AD
-> **Ext.** Used in Christian Daniel tradition by Church fathers (2nd-4th centuries AD)
-> **Text** Bel and the Dragon belongs to the Greek Daniel textual tradition and should be read alongside Susanna and Greek Daniel forms.
-> **Cons.** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+>
+> **Earliest Witnesses** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Bel and the Dragon in Greek Daniel tradition 4th-5th century AD
+>
+> **Earliest External Attestation** Used in Christian Daniel tradition by Church fathers (2nd-4th centuries AD)
+>
+> **Textual Notes** Bel and the Dragon belongs to the Greek Daniel textual tradition and should be read alongside Susanna and Greek Daniel forms.
+>
+> **Conservative Notes** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+>
 
 ## Bel and the Dragon 1
 
@@ -73751,22 +74787,36 @@ Notes:
 
 # 1 Maccabees
 
-> **1 Maccabees Intro**
+> **1 Maccabees Introduction**
 >
-> **Auth.** Anonymous Jewish historian
-> **Basis** The author is anonymous but writes close to the events in a sober historiographic style.
-> **NT att.** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
-> **Date** late 2nd century BC
-> **MT** A Hebrew original is widely believed though not fully preserved; the complete book survives in Greek.
-> **LXX** The Greek tradition is the principal full witness for the surviving text.
-> **Setting** Historical narrative of the Maccabean revolt and Hasmonean rise.
+> **Author and Attribution** Anonymous Jewish historian
+>
+> **Authorship Basis** The author is anonymous but writes close to the events in a sober historiographic style.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
+>
+> **Composition Date** late 2nd century BC
+>
+> **MT Timeline** A Hebrew original is widely believed though not fully preserved; the complete book survives in Greek.
+>
+> **LXX Timeline** The Greek tradition is the principal full witness for the surviving text.
+>
+> **Historical Setting** Historical narrative of the Maccabean revolt and Hasmonean rise.
+>
 > **Purpose** To recount Jewish resistance, temple restoration, and political deliverance from Seleucid oppression.
-> **Themes** revolt; temple; covenant zeal; martyrdom; deliverance; Hasmoneans
+>
+> **Key Themes** revolt; temple; covenant zeal; martyrdom; deliverance; Hasmoneans
+>
 > **Outline** Antiochus and revolt 1-2; Judas Maccabeus 3-9; Jonathan 9-12; Simon 13-16.
-> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. No complete Hebrew witness survives n/a | Gk. Codex Alexandrinus preserves 1 Maccabees in Greek 5th century AD
-> **Ext.** Used by Josephus by Josephus (1st century AD)
-> **Text** 1 Maccabees is historically valuable and comparatively straightforward textually within the Greek tradition.
-> **Cons.** Included as historical Apocrypha in the Brenton corpus, not as Hebrew-canonical Scripture.
+>
+> **Earliest Witnesses** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. No complete Hebrew witness survives n/a | Gk. Codex Alexandrinus preserves 1 Maccabees in Greek 5th century AD
+>
+> **Earliest External Attestation** Used by Josephus by Josephus (1st century AD)
+>
+> **Textual Notes** 1 Maccabees is historically valuable and comparatively straightforward textually within the Greek tradition.
+>
+> **Conservative Notes** Included as historical Apocrypha in the Brenton corpus, not as Hebrew-canonical Scripture.
+>
 
 ## 1 Maccabees 1
 
@@ -74430,22 +75480,36 @@ Notes:
 
 # 2 Maccabees
 
-> **2 Maccabees Intro**
+> **2 Maccabees Introduction**
 >
-> **Auth.** Epitomist of Jason of Cyrene
-> **Basis** The book identifies itself as an epitome of a larger work by Jason of Cyrene.
-> **NT att.** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
-> **Date** late 2nd century BC
-> **MT** Not applicable
-> **LXX** Greek is the primary surviving form.
-> **Setting** Theological historical narrative focused on selected episodes from the Maccabean crisis, temple, martyrdom, and divine justice.
+> **Author and Attribution** Epitomist of Jason of Cyrene
+>
+> **Authorship Basis** The book identifies itself as an epitome of a larger work by Jason of Cyrene.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
+>
+> **Composition Date** late 2nd century BC
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the primary surviving form.
+>
+> **Historical Setting** Theological historical narrative focused on selected episodes from the Maccabean crisis, temple, martyrdom, and divine justice.
+>
 > **Purpose** To interpret the Maccabean crisis theologically, emphasizing prayer, martyrdom, resurrection hope, and God's vindication.
-> **Themes** martyrdom; temple; resurrection hope; divine judgment; intercession
+>
+> **Key Themes** martyrdom; temple; resurrection hope; divine judgment; intercession
+>
 > **Outline** Preface 1-2; Heliodorus to Nicanor narratives 3-15.
-> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 2 Maccabees in Greek 5th century AD
-> **Ext.** Used by later Jewish and Christian writers by Josephus and church fathers (1st-4th centuries AD)
-> **Text** 2 Maccabees is openly selective and theological rather than a full parallel chronicle to 1 Maccabees.
-> **Cons.** Included as Greek historical-religious Apocrypha in the Brenton corpus.
+>
+> **Earliest Witnesses** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 2 Maccabees in Greek 5th century AD
+>
+> **Earliest External Attestation** Used by later Jewish and Christian writers by Josephus and church fathers (1st-4th centuries AD)
+>
+> **Textual Notes** 2 Maccabees is openly selective and theological rather than a full parallel chronicle to 1 Maccabees.
+>
+> **Conservative Notes** Included as Greek historical-religious Apocrypha in the Brenton corpus.
+>
 
 ## 2 Maccabees 1
 
@@ -74929,22 +75993,36 @@ Notes:
 
 # 1 Esdras
 
-> **1 Esdras Intro**
+> **1 Esdras Introduction**
 >
-> **Auth.** Anonymous compiler of Greek Ezra material
-> **Basis** The book is an anonymous Greek retelling/arrangement of material parallel to Chronicles-Ezra-Nehemiah plus the Three Guards episode.
-> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
-> **Date** Hellenistic period
-> **MT** Not applicable
-> **LXX** Greek is the principal textual tradition; it overlaps heavily with canonical Ezra material.
-> **Setting** Retelling of restoration history with an added court tale about the strongest thing.
+> **Author and Attribution** Anonymous compiler of Greek Ezra material
+>
+> **Authorship Basis** The book is an anonymous Greek retelling/arrangement of material parallel to Chronicles-Ezra-Nehemiah plus the Three Guards episode.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+>
+> **Composition Date** Hellenistic period
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the principal textual tradition; it overlaps heavily with canonical Ezra material.
+>
+> **Historical Setting** Retelling of restoration history with an added court tale about the strongest thing.
+>
 > **Purpose** To present restoration themes and divine favor in a Greek retelling of Ezra-related history.
-> **Themes** restoration; temple; return; wisdom; royal favor
+>
+> **Key Themes** restoration; temple; return; wisdom; royal favor
+>
 > **Outline** Historical retelling 1-9 with Three Guards episode embedded.
-> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve 1 Esdras in Greek 4th-5th century AD
-> **Ext.** Used by Josephus in places by Josephus (1st century AD)
-> **Text** 1 Esdras is text-critically important because it parallels canonical Ezra material and can preserve alternate Greek forms.
-> **Cons.** Included here as Greek Apocrypha and useful for comparison with Ezra-Nehemiah.
+>
+> **Earliest Witnesses** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve 1 Esdras in Greek 4th-5th century AD
+>
+> **Earliest External Attestation** Used by Josephus in places by Josephus (1st century AD)
+>
+> **Textual Notes** 1 Esdras is text-critically important because it parallels canonical Ezra material and can preserve alternate Greek forms.
+>
+> **Conservative Notes** Included here as Greek Apocrypha and useful for comparison with Ezra-Nehemiah.
+>
 
 ## 1 Esdras 1
 
@@ -75242,22 +76320,36 @@ Notes:
 
 # Prayer of Manasseh
 
-> **Prayer of Manasseh Intro**
+> **Prayer of Manasseh Introduction**
 >
-> **Auth.** Anonymous liturgical writer; framed in Manasseh's voice
-> **Basis** The prayer is transmitted as Manasseh's penitential prayer, though its literary history is uncertain.
-> **NT att.** No NT attribution identifies the human writer; included here as liturgical Apocrypha in the Brenton corpus.
-> **Date** Hellenistic or later
-> **MT** Not applicable
-> **LXX** Greek is the principal widely transmitted form.
-> **Setting** Short penitential prayer framed by 2 Chronicles 33's notice about Manasseh's prayer.
+> **Author and Attribution** Anonymous liturgical writer; framed in Manasseh's voice
+>
+> **Authorship Basis** The prayer is transmitted as Manasseh's penitential prayer, though its literary history is uncertain.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as liturgical Apocrypha in the Brenton corpus.
+>
+> **Composition Date** Hellenistic or later
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the principal widely transmitted form.
+>
+> **Historical Setting** Short penitential prayer framed by 2 Chronicles 33's notice about Manasseh's prayer.
+>
 > **Purpose** To model repentance, confession, and appeal to divine mercy.
-> **Themes** repentance; mercy; confession; humility
+>
+> **Key Themes** repentance; mercy; confession; humility
+>
 > **Outline** Single penitential prayer.
-> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness late antiquity | Heb. n/a n/a | Gk. Greek and later liturgical traditions preserve the prayer late antique and medieval periods
-> **Ext.** Used in Christian liturgical and devotional tradition by Church tradition (late antique and medieval)
-> **Text** The prayer is brief and textually simple compared with larger apocryphal books.
-> **Cons.** Included here as devotional Apocrypha in the Brenton corpus.
+>
+> **Earliest Witnesses** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness late antiquity | Heb. n/a n/a | Gk. Greek and later liturgical traditions preserve the prayer late antique and medieval periods
+>
+> **Earliest External Attestation** Used in Christian liturgical and devotional tradition by Church tradition (late antique and medieval)
+>
+> **Textual Notes** The prayer is brief and textually simple compared with larger apocryphal books.
+>
+> **Conservative Notes** Included here as devotional Apocrypha in the Brenton corpus.
+>
 
 ## Prayer of Manasseh 1
 
@@ -75265,22 +76357,36 @@ Notes:
 
 # 3 Maccabees
 
-> **3 Maccabees Intro**
+> **3 Maccabees Introduction**
 >
-> **Auth.** Anonymous Hellenistic Jewish author
-> **Basis** The author is anonymous and writes in Greek about persecution under Ptolemaic rule.
-> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
-> **Date** Hellenistic period
-> **MT** Not applicable
-> **LXX** Greek is the original and principal form.
-> **Setting** Diaspora narrative of threatened persecution and divine deliverance in Egypt.
+> **Author and Attribution** Anonymous Hellenistic Jewish author
+>
+> **Authorship Basis** The author is anonymous and writes in Greek about persecution under Ptolemaic rule.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+>
+> **Composition Date** Hellenistic period
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the original and principal form.
+>
+> **Historical Setting** Diaspora narrative of threatened persecution and divine deliverance in Egypt.
+>
 > **Purpose** To encourage Jews under pressure by recounting God's deliverance from royal oppression.
-> **Themes** diaspora; persecution; deliverance; prayer; reversal
+>
+> **Key Themes** diaspora; persecution; deliverance; prayer; reversal
+>
 > **Outline** Royal threat 1-4; divine deliverance 5-7.
-> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 3 Maccabees in Greek 5th century AD
-> **Ext.** Used in later Eastern Christian tradition by Later church tradition (late antique and medieval)
-> **Text** 3 Maccabees is Greek Jewish literature distinct from the Hasmonean history of 1-2 Maccabees.
-> **Cons.** Included here as Greek Apocrypha in the Brenton corpus.
+>
+> **Earliest Witnesses** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 3 Maccabees in Greek 5th century AD
+>
+> **Earliest External Attestation** Used in later Eastern Christian tradition by Later church tradition (late antique and medieval)
+>
+> **Textual Notes** 3 Maccabees is Greek Jewish literature distinct from the Hasmonean history of 1-2 Maccabees.
+>
+> **Conservative Notes** Included here as Greek Apocrypha in the Brenton corpus.
+>
 
 ## 3 Maccabees 1
 
@@ -75472,22 +76578,36 @@ Notes:
 
 # 4 Maccabees
 
-> **4 Maccabees Intro**
+> **4 Maccabees Introduction**
 >
-> **Auth.** Anonymous Hellenistic Jewish philosopher-author
-> **Basis** The work is anonymous and reads as a philosophical discourse using martyr narratives.
-> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
-> **Date** 1st century AD or slightly earlier/later
-> **MT** Not applicable
-> **LXX** Greek is the original and principal form.
-> **Setting** Philosophical-religious discourse on reason, law, passion, and martyrdom.
+> **Author and Attribution** Anonymous Hellenistic Jewish philosopher-author
+>
+> **Authorship Basis** The work is anonymous and reads as a philosophical discourse using martyr narratives.
+>
+> **Jesus / NT Attribution** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+>
+> **Composition Date** 1st century AD or slightly earlier/later
+>
+> **MT Timeline** Not applicable
+>
+> **LXX Timeline** Greek is the original and principal form.
+>
+> **Historical Setting** Philosophical-religious discourse on reason, law, passion, and martyrdom.
+>
 > **Purpose** To argue that devout reason governs the passions, illustrated by martyr examples from the Maccabean era.
-> **Themes** reason; martyrdom; law; virtue; endurance
+>
+> **Key Themes** reason; martyrdom; law; virtue; endurance
+>
 > **Outline** Philosophical thesis 1-3; martyr examples 4-18.
-> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Roman period | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 4 Maccabees in Greek appendix tradition 5th century AD
-> **Ext.** Used in later Christian moral reflection by Church tradition (late antique and later)
-> **Text** 4 Maccabees is philosophically distinct from 1-2 Maccabees and should be identified clearly as later Greek Jewish literature.
-> **Cons.** Included here as Greek Apocrypha in the Brenton corpus.
+>
+> **Earliest Witnesses** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Roman period | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 4 Maccabees in Greek appendix tradition 5th century AD
+>
+> **Earliest External Attestation** Used in later Christian moral reflection by Church tradition (late antique and later)
+>
+> **Textual Notes** 4 Maccabees is philosophically distinct from 1-2 Maccabees and should be identified clearly as later Greek Jewish literature.
+>
+> **Conservative Notes** Included here as Greek Apocrypha in the Brenton corpus.
+>
 
 ## 4 Maccabees 1
 
