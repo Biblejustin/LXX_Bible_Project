@@ -873,6 +873,41 @@ def verse_number(n: int) -> str:
     return str(n).translate(SUPERSCRIPTS)
 
 
+def psalm_mt_label(chapter: int) -> str:
+    if 1 <= chapter <= 8:
+        return str(chapter)
+    if chapter == 9:
+        return "9-10"
+    if 10 <= chapter <= 112:
+        return str(chapter + 1)
+    if chapter == 113:
+        return "114-115"
+    if chapter == 114:
+        return "116:1-9"
+    if chapter == 115:
+        return "116:10-19"
+    if 116 <= chapter <= 145:
+        return str(chapter + 1)
+    if chapter == 146:
+        return "147:1-11"
+    if chapter == 147:
+        return "147:12-20"
+    if 148 <= chapter <= 150:
+        return str(chapter)
+    if chapter == 151:
+        return "no MT equivalent"
+    return str(chapter)
+
+
+def chapter_heading(book_code: str, book_name: str, chapter: int) -> str:
+    if book_code == "PSA":
+        mt = psalm_mt_label(chapter)
+        if mt == str(chapter):
+            return f"Psalm {chapter}"
+        return f"Psalm {chapter} (MT {mt})"
+    return f"{book_name} {chapter}"
+
+
 def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
     book_intros = load_book_intros()
     lines = [
@@ -929,7 +964,7 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
         if record.chapter != current_chapter:
             flush_paragraph()
             current_chapter = record.chapter
-            lines.append(f"## {record.book_name} {record.chapter}")
+            lines.append(f"## {chapter_heading(record.book_code, record.book_name, record.chapter)}")
             lines.append("")
         if record.paragraph_start:
             flush_paragraph()
@@ -1010,7 +1045,7 @@ def render_pdf_excerpt(records: List[VerseRecord], markdown_path: Path) -> Optio
             flush()
             current_chapter = record.chapter
             chapter_count += 1
-            story.append(Paragraph(f"Chapter {record.chapter}", styles["ChapterTitle"]))
+            story.append(Paragraph(chapter_heading(record.book_code, record.book_name, record.chapter), styles["ChapterTitle"]))
             if chapter_count > 8:
                 break
         if record.paragraph_start:
@@ -1257,7 +1292,7 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.chapter != current_chapter:
             flush()
             current_chapter = record.chapter
-            lines.append(r"\subsection*{" + latex_escape(f"{record.book_name} {record.chapter}") + "}")
+            lines.append(r"\subsection*{" + latex_escape(chapter_heading(record.book_code, record.book_name, record.chapter)) + "}")
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
