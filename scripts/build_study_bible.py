@@ -979,26 +979,93 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
 
 
 REF_BOOK_ORDER = {code: idx for idx, code in enumerate(FINAL_BOOK_ORDER)}
+CROSS_REFERENCE_RE = re.compile(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
 
 
-def sort_cross_reference_key(ref: str) -> Tuple[int, int, int, str]:
+def parse_cross_reference(ref: str) -> Optional[Tuple[str, str, int, Optional[int], Optional[int], str]]:
     ref = ref.strip()
-    match = re.match(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+))?", ref)
+    match = CROSS_REFERENCE_RE.match(ref)
     if not match:
-        return (9999, 9999, 9999, ref)
+        return None
     book_label = normalize_space(match.group(1))
     chapter = int(match.group(2))
-    verse = int(match.group(3) or 0)
+    verse = int(match.group(3)) if match.group(3) else None
+    verse_end = int(match.group(4)) if match.group(4) else verse
     book_code = REF_BOOK_ALIASES.get(book_label)
     if not book_code:
         compact = book_label.replace(" ", "")
-        book_code = REF_BOOK_ALIASES.get(compact)
-    return (REF_BOOK_ORDER.get(book_code, 9999), chapter, verse, ref)
+        book_code = REF_BOOK_ALIASES.get(compact, "")
+    return (book_code, book_label, chapter, verse, verse_end, ref)
+
+
+def sort_cross_reference_key(ref: str) -> Tuple[int, int, int, str]:
+    parsed = parse_cross_reference(ref)
+    if not parsed:
+        return (9999, 9999, 9999, ref)
+    book_code, _, chapter, verse, _, raw_ref = parsed
+    verse = verse or 0
+    return (REF_BOOK_ORDER.get(book_code, 9999), chapter, verse, raw_ref)
+
+
+def compress_cross_reference_ranges(refs: List[str]) -> List[str]:
+    compressed: List[str] = []
+    run_book_code = ""
+    run_book_label = ""
+    run_chapter = -1
+    run_start = -1
+    run_end = -1
+
+    def flush_run() -> None:
+        nonlocal run_book_code, run_book_label, run_chapter, run_start, run_end
+        if run_start == -1:
+            return
+        if run_start == run_end:
+            compressed.append(f"{run_book_label} {run_chapter}:{run_start}")
+        else:
+            compressed.append(f"{run_book_label} {run_chapter}:{run_start}-{run_end}")
+        run_book_code = ""
+        run_book_label = ""
+        run_chapter = -1
+        run_start = -1
+        run_end = -1
+
+    for ref in refs:
+        parsed = parse_cross_reference(ref)
+        if not parsed:
+            flush_run()
+            compressed.append(ref)
+            continue
+        book_code, book_label, chapter, verse, verse_end, raw_ref = parsed
+        if verse is None:
+            flush_run()
+            compressed.append(raw_ref)
+            continue
+        if verse_end is not None and verse_end != verse:
+            flush_run()
+            compressed.append(raw_ref)
+            continue
+        if (
+            run_start != -1
+            and book_code == run_book_code
+            and chapter == run_chapter
+            and verse == run_end + 1
+        ):
+            run_end = verse
+            continue
+        flush_run()
+        run_book_code = book_code
+        run_book_label = book_label
+        run_chapter = chapter
+        run_start = verse
+        run_end = verse
+
+    flush_run()
+    return compressed
 
 
 def canonicalize_cross_references(refs: List[str]) -> List[str]:
     unique = list(dict.fromkeys(ref.strip() for ref in refs if ref.strip()))
-    return sorted(unique, key=sort_cross_reference_key)
+    return compress_cross_reference_ranges(sorted(unique, key=sort_cross_reference_key))
 
 
 def merge_records(ot_source: str = "brenton") -> Tuple[List[VerseRecord], Dict[str, object]]:
@@ -1037,6 +1104,8 @@ def merge_records(ot_source: str = "brenton") -> Tuple[List[VerseRecord], Dict[s
             record.footnotes.extend(hebrew_vocab_notes[record.ref])
         if record.ref in greek_vocab_notes:
             record.footnotes.extend(greek_vocab_notes[record.ref])
+        if record.cross_references:
+            record.cross_references = canonicalize_cross_references(record.cross_references)
     name_notes_added = sum(len(v) for v in proper_name_notes.values())
     all_records = sort_records(all_records)
     diagnostics = {

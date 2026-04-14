@@ -172,9 +172,9 @@
       "text_chars": 170,
       "footnote_count": 3,
       "footnote_chars": 1575,
-      "crossref_count": 40,
-      "crossref_chars": 459,
-      "combined_load": 2204
+      "crossref_count": 39,
+      "crossref_chars": 451,
+      "combined_load": 2196
     },
     {
       "ref": "Leviticus 14:22",
@@ -284,9 +284,9 @@
       "text_chars": 186,
       "footnote_count": 2,
       "footnote_chars": 209,
-      "crossref_count": 101,
-      "crossref_chars": 1145,
-      "combined_load": 1540
+      "crossref_count": 98,
+      "crossref_chars": 1122,
+      "combined_load": 1517
     },
     {
       "ref": "Acts 26:18",
@@ -295,9 +295,9 @@
       "text_chars": 213,
       "footnote_count": 1,
       "footnote_chars": 65,
-      "crossref_count": 87,
-      "crossref_chars": 965,
-      "combined_load": 1243
+      "crossref_count": 85,
+      "crossref_chars": 948,
+      "combined_load": 1226
     },
     {
       "ref": "Luke 24:44",
@@ -328,20 +328,9 @@
       "text_chars": 135,
       "footnote_count": 1,
       "footnote_chars": 155,
-      "crossref_count": 82,
-      "crossref_chars": 957,
-      "combined_load": 1247
-    },
-    {
-      "ref": "Hebrews 12:2",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 192,
-      "footnote_count": 1,
-      "footnote_chars": 91,
-      "crossref_count": 78,
-      "crossref_chars": 888,
-      "combined_load": 1171
+      "crossref_count": 80,
+      "crossref_chars": 939,
+      "combined_load": 1229
     },
     {
       "ref": "Genesis 1:1",
@@ -377,6 +366,17 @@
       "combined_load": 1007
     },
     {
+      "ref": "Hebrews 12:2",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 192,
+      "footnote_count": 1,
+      "footnote_chars": 91,
+      "crossref_count": 74,
+      "crossref_chars": 854,
+      "combined_load": 1137
+    },
+    {
       "ref": "John 14:26",
       "source": "UKJV",
       "tier": "extreme",
@@ -386,17 +386,6 @@
       "crossref_count": 73,
       "crossref_chars": 815,
       "combined_load": 1056
-    },
-    {
-      "ref": "Romans 12:12",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 72,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 73,
-      "crossref_chars": 838,
-      "combined_load": 910
     },
     {
       "ref": "Zacharias 13:7",
@@ -410,15 +399,15 @@
       "combined_load": 1120
     },
     {
-      "ref": "Philippians 4:8",
+      "ref": "Romans 12:12",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 275,
-      "footnote_count": 1,
-      "footnote_chars": 126,
+      "text_chars": 72,
+      "footnote_count": 0,
+      "footnote_chars": 0,
       "crossref_count": 72,
-      "crossref_chars": 791,
-      "combined_load": 1192
+      "crossref_chars": 828,
+      "combined_load": 900
     },
     {
       "ref": "Romans 1:1",
@@ -443,15 +432,15 @@
       "combined_load": 1005
     },
     {
-      "ref": "Colossians 1:23",
+      "ref": "Philippians 4:8",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 236,
+      "text_chars": 275,
       "footnote_count": 1,
-      "footnote_chars": 58,
+      "footnote_chars": 126,
       "crossref_count": 70,
-      "crossref_chars": 774,
-      "combined_load": 1068
+      "crossref_chars": 773,
+      "combined_load": 1174
     },
     {
       "ref": "2 Peter 2:1",
@@ -465,15 +454,15 @@
       "combined_load": 1090
     },
     {
-      "ref": "Romans 1:7",
+      "ref": "Colossians 1:23",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 131,
+      "text_chars": 236,
       "footnote_count": 1,
-      "footnote_chars": 55,
-      "crossref_count": 69,
-      "crossref_chars": 746,
-      "combined_load": 932
+      "footnote_chars": 58,
+      "crossref_count": 68,
+      "crossref_chars": 758,
+      "combined_load": 1052
     },
     {
       "ref": "Revelation 12:9",
@@ -482,9 +471,9 @@
       "text_chars": 184,
       "footnote_count": 1,
       "footnote_chars": 62,
-      "crossref_count": 68,
-      "crossref_chars": 736,
-      "combined_load": 982
+      "crossref_count": 66,
+      "crossref_chars": 721,
+      "combined_load": 967
     },
     {
       "ref": "2 Timothy 2:19",
@@ -493,9 +482,9 @@
       "text_chars": 170,
       "footnote_count": 1,
       "footnote_chars": 72,
-      "crossref_count": 66,
-      "crossref_chars": 728,
-      "combined_load": 970
+      "crossref_count": 65,
+      "crossref_chars": 721,
+      "combined_load": 963
     },
     {
       "ref": "Chronicles I 28:9",
@@ -504,9 +493,9 @@
       "text_chars": 271,
       "footnote_count": 1,
       "footnote_chars": 104,
-      "crossref_count": 66,
-      "crossref_chars": 722,
-      "combined_load": 1097
+      "crossref_count": 65,
+      "crossref_chars": 715,
+      "combined_load": 1090
     },
     {
       "ref": "Hebrews 9:14",
@@ -537,20 +526,31 @@
       "text_chars": 167,
       "footnote_count": 1,
       "footnote_chars": 47,
-      "crossref_count": 64,
-      "crossref_chars": 722,
-      "combined_load": 936
+      "crossref_count": 63,
+      "crossref_chars": 714,
+      "combined_load": 928
     },
     {
-      "ref": "Ephesians 4:31",
+      "ref": "Romans 1:3",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 112,
-      "footnote_count": 1,
-      "footnote_chars": 47,
+      "text_chars": 101,
+      "footnote_count": 0,
+      "footnote_chars": 0,
       "crossref_count": 63,
-      "crossref_chars": 709,
-      "combined_load": 868
+      "crossref_chars": 730,
+      "combined_load": 831
+    },
+    {
+      "ref": "Romans 1:7",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 131,
+      "footnote_count": 1,
+      "footnote_chars": 55,
+      "crossref_count": 63,
+      "crossref_chars": 697,
+      "combined_load": 883
     }
   ],
   "top_crossref_char_verses": [
@@ -561,9 +561,9 @@
       "text_chars": 186,
       "footnote_count": 2,
       "footnote_chars": 209,
-      "crossref_count": 101,
-      "crossref_chars": 1145,
-      "combined_load": 1540
+      "crossref_count": 98,
+      "crossref_chars": 1122,
+      "combined_load": 1517
     },
     {
       "ref": "Luke 24:44",
@@ -577,17 +577,6 @@
       "combined_load": 1310
     },
     {
-      "ref": "Acts 26:18",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 213,
-      "footnote_count": 1,
-      "footnote_chars": 65,
-      "crossref_count": 87,
-      "crossref_chars": 965,
-      "combined_load": 1243
-    },
-    {
       "ref": "Matthew 5:22",
       "source": "UKJV",
       "tier": "extreme",
@@ -599,26 +588,26 @@
       "combined_load": 1539
     },
     {
+      "ref": "Acts 26:18",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 213,
+      "footnote_count": 1,
+      "footnote_chars": 65,
+      "crossref_count": 85,
+      "crossref_chars": 948,
+      "combined_load": 1226
+    },
+    {
       "ref": "Matthew 5:18",
       "source": "UKJV",
       "tier": "extreme",
       "text_chars": 135,
       "footnote_count": 1,
       "footnote_chars": 155,
-      "crossref_count": 82,
-      "crossref_chars": 957,
-      "combined_load": 1247
-    },
-    {
-      "ref": "Hebrews 12:2",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 192,
-      "footnote_count": 1,
-      "footnote_chars": 91,
-      "crossref_count": 78,
-      "crossref_chars": 888,
-      "combined_load": 1171
+      "crossref_count": 80,
+      "crossref_chars": 939,
+      "combined_load": 1229
     },
     {
       "ref": "Zacharias 13:7",
@@ -630,6 +619,17 @@
       "crossref_count": 73,
       "crossref_chars": 865,
       "combined_load": 1120
+    },
+    {
+      "ref": "Hebrews 12:2",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 192,
+      "footnote_count": 1,
+      "footnote_chars": 91,
+      "crossref_count": 74,
+      "crossref_chars": 854,
+      "combined_load": 1137
     },
     {
       "ref": "Acts 3:19",
@@ -660,9 +660,9 @@
       "text_chars": 72,
       "footnote_count": 0,
       "footnote_chars": 0,
-      "crossref_count": 73,
-      "crossref_chars": 838,
-      "combined_load": 910
+      "crossref_count": 72,
+      "crossref_chars": 828,
+      "combined_load": 900
     },
     {
       "ref": "Genesis 1:1",
@@ -726,9 +726,9 @@
       "text_chars": 275,
       "footnote_count": 1,
       "footnote_chars": 126,
-      "crossref_count": 72,
-      "crossref_chars": 791,
-      "combined_load": 1192
+      "crossref_count": 70,
+      "crossref_chars": 773,
+      "combined_load": 1174
     },
     {
       "ref": "Colossians 1:23",
@@ -737,20 +737,9 @@
       "text_chars": 236,
       "footnote_count": 1,
       "footnote_chars": 58,
-      "crossref_count": 70,
-      "crossref_chars": 774,
-      "combined_load": 1068
-    },
-    {
-      "ref": "Romans 1:7",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 131,
-      "footnote_count": 1,
-      "footnote_chars": 55,
-      "crossref_count": 69,
-      "crossref_chars": 746,
-      "combined_load": 932
+      "crossref_count": 68,
+      "crossref_chars": 758,
+      "combined_load": 1052
     },
     {
       "ref": "Hebrews 6:2",
@@ -775,17 +764,6 @@
       "combined_load": 943
     },
     {
-      "ref": "Revelation 12:9",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 184,
-      "footnote_count": 1,
-      "footnote_chars": 62,
-      "crossref_count": 68,
-      "crossref_chars": 736,
-      "combined_load": 982
-    },
-    {
       "ref": "Romans 1:3",
       "source": "UKJV",
       "tier": "extreme",
@@ -797,28 +775,6 @@
       "combined_load": 831
     },
     {
-      "ref": "2 Timothy 2:19",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 170,
-      "footnote_count": 1,
-      "footnote_chars": 72,
-      "crossref_count": 66,
-      "crossref_chars": 728,
-      "combined_load": 970
-    },
-    {
-      "ref": "Chronicles I 28:9",
-      "source": "LXX2012",
-      "tier": "extreme",
-      "text_chars": 271,
-      "footnote_count": 1,
-      "footnote_chars": 104,
-      "crossref_count": 66,
-      "crossref_chars": 722,
-      "combined_load": 1097
-    },
-    {
       "ref": "James 3:6",
       "source": "UKJV",
       "tier": "extreme",
@@ -828,6 +784,50 @@
       "crossref_count": 59,
       "crossref_chars": 722,
       "combined_load": 932
+    },
+    {
+      "ref": "2 Timothy 2:19",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 170,
+      "footnote_count": 1,
+      "footnote_chars": 72,
+      "crossref_count": 65,
+      "crossref_chars": 721,
+      "combined_load": 963
+    },
+    {
+      "ref": "Revelation 12:9",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 184,
+      "footnote_count": 1,
+      "footnote_chars": 62,
+      "crossref_count": 66,
+      "crossref_chars": 721,
+      "combined_load": 967
+    },
+    {
+      "ref": "Chronicles I 28:9",
+      "source": "LXX2012",
+      "tier": "extreme",
+      "text_chars": 271,
+      "footnote_count": 1,
+      "footnote_chars": 104,
+      "crossref_count": 65,
+      "crossref_chars": 715,
+      "combined_load": 1090
+    },
+    {
+      "ref": "Philippians 3:9",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 167,
+      "footnote_count": 1,
+      "footnote_chars": 47,
+      "crossref_count": 63,
+      "crossref_chars": 714,
+      "combined_load": 928
     }
   ],
   "top_combined_load_verses": [
@@ -959,9 +959,9 @@
       "text_chars": 2142,
       "footnote_count": 1,
       "footnote_chars": 43,
-      "crossref_count": 13,
-      "crossref_chars": 141,
-      "combined_load": 2326
+      "crossref_count": 12,
+      "crossref_chars": 133,
+      "combined_load": 2318
     },
     {
       "ref": "Esaias 13:19",
@@ -1014,9 +1014,9 @@
       "text_chars": 170,
       "footnote_count": 3,
       "footnote_chars": 1575,
-      "crossref_count": 40,
-      "crossref_chars": 459,
-      "combined_load": 2204
+      "crossref_count": 39,
+      "crossref_chars": 451,
+      "combined_load": 2196
     },
     {
       "ref": "Genesis 1:1",
@@ -1115,9 +1115,9 @@
     "extreme_combined_load_threshold": 900
   },
   "tier_counts": {
-    "normal": 13247,
-    "heavy": 8484,
-    "extreme": 14310
+    "normal": 13267,
+    "heavy": 8517,
+    "extreme": 14257
   },
   "verses_exceeding_margin_ref_cap": [
     {
@@ -1127,9 +1127,9 @@
       "text_chars": 186,
       "footnote_count": 2,
       "footnote_chars": 209,
-      "crossref_count": 101,
-      "crossref_chars": 1145,
-      "combined_load": 1540
+      "crossref_count": 98,
+      "crossref_chars": 1122,
+      "combined_load": 1517
     },
     {
       "ref": "Acts 26:18",
@@ -1138,9 +1138,9 @@
       "text_chars": 213,
       "footnote_count": 1,
       "footnote_chars": 65,
-      "crossref_count": 87,
-      "crossref_chars": 965,
-      "combined_load": 1243
+      "crossref_count": 85,
+      "crossref_chars": 948,
+      "combined_load": 1226
     },
     {
       "ref": "Luke 24:44",
@@ -1171,20 +1171,9 @@
       "text_chars": 135,
       "footnote_count": 1,
       "footnote_chars": 155,
-      "crossref_count": 82,
-      "crossref_chars": 957,
-      "combined_load": 1247
-    },
-    {
-      "ref": "Hebrews 12:2",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 192,
-      "footnote_count": 1,
-      "footnote_chars": 91,
-      "crossref_count": 78,
-      "crossref_chars": 888,
-      "combined_load": 1171
+      "crossref_count": 80,
+      "crossref_chars": 939,
+      "combined_load": 1229
     },
     {
       "ref": "Genesis 1:1",
@@ -1220,6 +1209,17 @@
       "combined_load": 1007
     },
     {
+      "ref": "Hebrews 12:2",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 192,
+      "footnote_count": 1,
+      "footnote_chars": 91,
+      "crossref_count": 74,
+      "crossref_chars": 854,
+      "combined_load": 1137
+    },
+    {
       "ref": "John 14:26",
       "source": "UKJV",
       "tier": "extreme",
@@ -1229,17 +1229,6 @@
       "crossref_count": 73,
       "crossref_chars": 815,
       "combined_load": 1056
-    },
-    {
-      "ref": "Romans 12:12",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 72,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 73,
-      "crossref_chars": 838,
-      "combined_load": 910
     },
     {
       "ref": "Zacharias 13:7",
@@ -1253,15 +1242,15 @@
       "combined_load": 1120
     },
     {
-      "ref": "Philippians 4:8",
+      "ref": "Romans 12:12",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 275,
-      "footnote_count": 1,
-      "footnote_chars": 126,
+      "text_chars": 72,
+      "footnote_count": 0,
+      "footnote_chars": 0,
       "crossref_count": 72,
-      "crossref_chars": 791,
-      "combined_load": 1192
+      "crossref_chars": 828,
+      "combined_load": 900
     },
     {
       "ref": "Romans 1:1",
@@ -1286,15 +1275,15 @@
       "combined_load": 1005
     },
     {
-      "ref": "Colossians 1:23",
+      "ref": "Philippians 4:8",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 236,
+      "text_chars": 275,
       "footnote_count": 1,
-      "footnote_chars": 58,
+      "footnote_chars": 126,
       "crossref_count": 70,
-      "crossref_chars": 774,
-      "combined_load": 1068
+      "crossref_chars": 773,
+      "combined_load": 1174
     },
     {
       "ref": "2 Peter 2:1",
@@ -1308,15 +1297,15 @@
       "combined_load": 1090
     },
     {
-      "ref": "Romans 1:7",
+      "ref": "Colossians 1:23",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 131,
+      "text_chars": 236,
       "footnote_count": 1,
-      "footnote_chars": 55,
-      "crossref_count": 69,
-      "crossref_chars": 746,
-      "combined_load": 932
+      "footnote_chars": 58,
+      "crossref_count": 68,
+      "crossref_chars": 758,
+      "combined_load": 1052
     },
     {
       "ref": "Revelation 12:9",
@@ -1325,9 +1314,9 @@
       "text_chars": 184,
       "footnote_count": 1,
       "footnote_chars": 62,
-      "crossref_count": 68,
-      "crossref_chars": 736,
-      "combined_load": 982
+      "crossref_count": 66,
+      "crossref_chars": 721,
+      "combined_load": 967
     },
     {
       "ref": "2 Timothy 2:19",
@@ -1336,9 +1325,9 @@
       "text_chars": 170,
       "footnote_count": 1,
       "footnote_chars": 72,
-      "crossref_count": 66,
-      "crossref_chars": 728,
-      "combined_load": 970
+      "crossref_count": 65,
+      "crossref_chars": 721,
+      "combined_load": 963
     },
     {
       "ref": "Chronicles I 28:9",
@@ -1347,9 +1336,9 @@
       "text_chars": 271,
       "footnote_count": 1,
       "footnote_chars": 104,
-      "crossref_count": 66,
-      "crossref_chars": 722,
-      "combined_load": 1097
+      "crossref_count": 65,
+      "crossref_chars": 715,
+      "combined_load": 1090
     },
     {
       "ref": "Hebrews 9:14",
@@ -1380,31 +1369,9 @@
       "text_chars": 167,
       "footnote_count": 1,
       "footnote_chars": 47,
-      "crossref_count": 64,
-      "crossref_chars": 722,
-      "combined_load": 936
-    },
-    {
-      "ref": "Ephesians 4:31",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 112,
-      "footnote_count": 1,
-      "footnote_chars": 47,
       "crossref_count": 63,
-      "crossref_chars": 709,
-      "combined_load": 868
-    },
-    {
-      "ref": "Hebrews 10:22",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 154,
-      "footnote_count": 1,
-      "footnote_chars": 53,
-      "crossref_count": 63,
-      "crossref_chars": 681,
-      "combined_load": 888
+      "crossref_chars": 714,
+      "combined_load": 928
     },
     {
       "ref": "Romans 1:3",
@@ -1418,15 +1385,15 @@
       "combined_load": 831
     },
     {
-      "ref": "Acts 14:15",
+      "ref": "Romans 1:7",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 257,
+      "text_chars": 131,
       "footnote_count": 1,
-      "footnote_chars": 64,
-      "crossref_count": 62,
-      "crossref_chars": 714,
-      "combined_load": 1035
+      "footnote_chars": 55,
+      "crossref_count": 63,
+      "crossref_chars": 697,
+      "combined_load": 883
     },
     {
       "ref": "Ephesians 1:7",
@@ -1438,6 +1405,28 @@
       "crossref_count": 62,
       "crossref_chars": 683,
       "combined_load": 824
+    },
+    {
+      "ref": "Ephesians 4:31",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 112,
+      "footnote_count": 1,
+      "footnote_chars": 47,
+      "crossref_count": 62,
+      "crossref_chars": 700,
+      "combined_load": 859
+    },
+    {
+      "ref": "Hebrews 10:22",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 154,
+      "footnote_count": 1,
+      "footnote_chars": 53,
+      "crossref_count": 62,
+      "crossref_chars": 672,
+      "combined_load": 879
     },
     {
       "ref": "Hebrews 6:2",
@@ -1462,15 +1451,15 @@
       "combined_load": 923
     },
     {
-      "ref": "1 Thessalonians 1:5",
+      "ref": "Acts 14:15",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 206,
+      "text_chars": 257,
       "footnote_count": 1,
-      "footnote_chars": 45,
+      "footnote_chars": 64,
       "crossref_count": 61,
-      "crossref_chars": 712,
-      "combined_load": 963
+      "crossref_chars": 706,
+      "combined_load": 1027
     },
     {
       "ref": "James 5:16",
@@ -1484,6 +1473,17 @@
       "combined_load": 943
     },
     {
+      "ref": "1 Thessalonians 1:5",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 206,
+      "footnote_count": 1,
+      "footnote_chars": 45,
+      "crossref_count": 60,
+      "crossref_chars": 705,
+      "combined_load": 956
+    },
+    {
       "ref": "Colossians 3:16",
       "source": "UKJV",
       "tier": "extreme",
@@ -1493,28 +1493,6 @@
       "crossref_count": 60,
       "crossref_chars": 667,
       "combined_load": 948
-    },
-    {
-      "ref": "Ephesians 5:3",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 109,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 60,
-      "crossref_chars": 655,
-      "combined_load": 764
-    },
-    {
-      "ref": "John 10:28",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 112,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 60,
-      "crossref_chars": 673,
-      "combined_load": 785
     },
     {
       "ref": "Acts 26:6",
@@ -1537,6 +1515,17 @@
       "crossref_count": 59,
       "crossref_chars": 722,
       "combined_load": 932
+    },
+    {
+      "ref": "John 10:28",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 112,
+      "footnote_count": 0,
+      "footnote_chars": 0,
+      "crossref_count": 59,
+      "crossref_chars": 665,
+      "combined_load": 777
     },
     {
       "ref": "Esaias 9:6",
@@ -1572,17 +1561,6 @@
       "combined_load": 793
     },
     {
-      "ref": "James 1:17",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 152,
-      "footnote_count": 1,
-      "footnote_chars": 31,
-      "crossref_count": 58,
-      "crossref_chars": 663,
-      "combined_load": 846
-    },
-    {
       "ref": "John 6:27",
       "source": "UKJV",
       "tier": "extreme",
@@ -1592,39 +1570,6 @@
       "crossref_count": 58,
       "crossref_chars": 667,
       "combined_load": 907
-    },
-    {
-      "ref": "Luke 6:21",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 137,
-      "footnote_count": 1,
-      "footnote_chars": 61,
-      "crossref_count": 58,
-      "crossref_chars": 645,
-      "combined_load": 843
-    },
-    {
-      "ref": "Romans 12:2",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 182,
-      "footnote_count": 1,
-      "footnote_chars": 26,
-      "crossref_count": 58,
-      "crossref_chars": 653,
-      "combined_load": 861
-    },
-    {
-      "ref": "1 Peter 5:8",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 116,
-      "footnote_count": 1,
-      "footnote_chars": 51,
-      "crossref_count": 57,
-      "crossref_chars": 629,
-      "combined_load": 796
     },
     {
       "ref": "1 Timothy 4:1",
@@ -1638,6 +1583,17 @@
       "combined_load": 880
     },
     {
+      "ref": "Ephesians 5:3",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 109,
+      "footnote_count": 0,
+      "footnote_chars": 0,
+      "crossref_count": 57,
+      "crossref_chars": 631,
+      "combined_load": 740
+    },
+    {
       "ref": "Hebrews 1:2",
       "source": "UKJV",
       "tier": "extreme",
@@ -1647,6 +1603,17 @@
       "crossref_count": 57,
       "crossref_chars": 624,
       "combined_load": 781
+    },
+    {
+      "ref": "James 1:17",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 152,
+      "footnote_count": 1,
+      "footnote_chars": 31,
+      "crossref_count": 57,
+      "crossref_chars": 655,
+      "combined_load": 838
     },
     {
       "ref": "James 3:17",
@@ -1660,17 +1627,6 @@
       "combined_load": 887
     },
     {
-      "ref": "John 15:16",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 238,
-      "footnote_count": 1,
-      "footnote_chars": 53,
-      "crossref_count": 57,
-      "crossref_chars": 668,
-      "combined_load": 959
-    },
-    {
       "ref": "Malachi 3:16",
       "source": "LXX2012",
       "tier": "extreme",
@@ -1682,37 +1638,26 @@
       "combined_load": 895
     },
     {
-      "ref": "2 Timothy 1:10",
+      "ref": "Romans 12:2",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 161,
+      "text_chars": 182,
       "footnote_count": 1,
-      "footnote_chars": 45,
-      "crossref_count": 56,
-      "crossref_chars": 623,
-      "combined_load": 829
+      "footnote_chars": 26,
+      "crossref_count": 57,
+      "crossref_chars": 646,
+      "combined_load": 854
     },
     {
-      "ref": "Acts 4:27",
+      "ref": "1 Peter 5:8",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 170,
+      "text_chars": 116,
       "footnote_count": 1,
-      "footnote_chars": 57,
+      "footnote_chars": 51,
       "crossref_count": 56,
-      "crossref_chars": 691,
-      "combined_load": 918
-    },
-    {
-      "ref": "Ephesians 2:2",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 197,
-      "footnote_count": 1,
-      "footnote_chars": 86,
-      "crossref_count": 56,
-      "crossref_chars": 605,
-      "combined_load": 888
+      "crossref_chars": 622,
+      "combined_load": 789
     },
     {
       "ref": "Esaias 57:15",
@@ -1724,17 +1669,6 @@
       "crossref_count": 56,
       "crossref_chars": 589,
       "combined_load": 862
-    },
-    {
-      "ref": "Galatians 1:4",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 130,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 56,
-      "crossref_chars": 621,
-      "combined_load": 751
     },
     {
       "ref": "Galatians 2:20",
@@ -1757,6 +1691,17 @@
       "crossref_count": 56,
       "crossref_chars": 626,
       "combined_load": 755
+    },
+    {
+      "ref": "John 15:16",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 238,
+      "footnote_count": 1,
+      "footnote_chars": 53,
+      "crossref_count": 56,
+      "crossref_chars": 659,
+      "combined_load": 950
     },
     {
       "ref": "Leviticus 1:3",
@@ -1792,6 +1737,17 @@
       "combined_load": 905
     },
     {
+      "ref": "Acts 4:27",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 170,
+      "footnote_count": 1,
+      "footnote_chars": 57,
+      "crossref_count": 55,
+      "crossref_chars": 683,
+      "combined_load": 910
+    },
+    {
       "ref": "Acts 5:31",
       "source": "UKJV",
       "tier": "extreme",
@@ -1801,6 +1757,17 @@
       "crossref_count": 55,
       "crossref_chars": 628,
       "combined_load": 808
+    },
+    {
+      "ref": "Ephesians 2:2",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 197,
+      "footnote_count": 1,
+      "footnote_chars": 86,
+      "crossref_count": 55,
+      "crossref_chars": 598,
+      "combined_load": 881
     },
     {
       "ref": "Esaias 30:18",
@@ -1836,15 +1803,15 @@
       "combined_load": 780
     },
     {
-      "ref": "Luke 4:18",
+      "ref": "Luke 6:21",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 267,
-      "footnote_count": 3,
-      "footnote_chars": 889,
+      "text_chars": 137,
+      "footnote_count": 1,
+      "footnote_chars": 61,
       "crossref_count": 55,
-      "crossref_chars": 611,
-      "combined_load": 1767
+      "crossref_chars": 621,
+      "combined_load": 819
     },
     {
       "ref": "Malachi 4:2",
@@ -1891,6 +1858,17 @@
       "combined_load": 750
     },
     {
+      "ref": "2 Timothy 1:10",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 161,
+      "footnote_count": 1,
+      "footnote_chars": 45,
+      "crossref_count": 54,
+      "crossref_chars": 606,
+      "combined_load": 812
+    },
+    {
       "ref": "2 Timothy 1:12",
       "source": "UKJV",
       "tier": "extreme",
@@ -1900,17 +1878,6 @@
       "crossref_count": 54,
       "crossref_chars": 614,
       "combined_load": 909
-    },
-    {
-      "ref": "Deuteronomy 32:4",
-      "source": "LXX2012",
-      "tier": "extreme",
-      "text_chars": 158,
-      "footnote_count": 2,
-      "footnote_chars": 192,
-      "crossref_count": 54,
-      "crossref_chars": 569,
-      "combined_load": 919
     },
     {
       "ref": "Ephesians 1:4",
@@ -1933,6 +1900,28 @@
       "crossref_count": 54,
       "crossref_chars": 572,
       "combined_load": 955
+    },
+    {
+      "ref": "Galatians 1:4",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 130,
+      "footnote_count": 0,
+      "footnote_chars": 0,
+      "crossref_count": 54,
+      "crossref_chars": 605,
+      "combined_load": 735
+    },
+    {
+      "ref": "Luke 4:18",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 267,
+      "footnote_count": 3,
+      "footnote_chars": 889,
+      "crossref_count": 54,
+      "crossref_chars": 603,
+      "combined_load": 1759
     },
     {
       "ref": "Matthew 6:13",
@@ -1968,17 +1957,6 @@
       "combined_load": 909
     },
     {
-      "ref": "1 Peter 2:1",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 97,
-      "footnote_count": 1,
-      "footnote_chars": 62,
-      "crossref_count": 53,
-      "crossref_chars": 579,
-      "combined_load": 738
-    },
-    {
       "ref": "Acts 10:36",
       "source": "UKJV",
       "tier": "extreme",
@@ -1999,28 +1977,6 @@
       "crossref_count": 53,
       "crossref_chars": 600,
       "combined_load": 864
-    },
-    {
-      "ref": "Acts 9:31",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 196,
-      "footnote_count": 1,
-      "footnote_chars": 64,
-      "crossref_count": 53,
-      "crossref_chars": 600,
-      "combined_load": 860
-    },
-    {
-      "ref": "Ecclesiastes 5:8",
-      "source": "LXX2012",
-      "tier": "extreme",
-      "text_chars": 94,
-      "footnote_count": 1,
-      "footnote_chars": 82,
-      "crossref_count": 53,
-      "crossref_chars": 612,
-      "combined_load": 788
     },
     {
       "ref": "Ephesians 2:10",
@@ -2067,28 +2023,6 @@
       "combined_load": 863
     },
     {
-      "ref": "Romans 5:1",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 89,
-      "footnote_count": 0,
-      "footnote_chars": 0,
-      "crossref_count": 53,
-      "crossref_chars": 592,
-      "combined_load": 681
-    },
-    {
-      "ref": "1 Corinthians 13:4",
-      "source": "UKJV",
-      "tier": "extreme",
-      "text_chars": 123,
-      "footnote_count": 1,
-      "footnote_chars": 72,
-      "crossref_count": 52,
-      "crossref_chars": 579,
-      "combined_load": 774
-    },
-    {
       "ref": "1 Corinthians 16:13",
       "source": "UKJV",
       "tier": "extreme",
@@ -2122,15 +2056,37 @@
       "combined_load": 888
     },
     {
-      "ref": "Colossians 3:11",
+      "ref": "Acts 9:31",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 136,
+      "text_chars": 196,
       "footnote_count": 1,
-      "footnote_chars": 46,
+      "footnote_chars": 64,
       "crossref_count": 52,
-      "crossref_chars": 606,
-      "combined_load": 788
+      "crossref_chars": 591,
+      "combined_load": 851
+    },
+    {
+      "ref": "Deuteronomy 32:4",
+      "source": "LXX2012",
+      "tier": "extreme",
+      "text_chars": 158,
+      "footnote_count": 2,
+      "footnote_chars": 192,
+      "crossref_count": 52,
+      "crossref_chars": 553,
+      "combined_load": 903
+    },
+    {
+      "ref": "Ecclesiastes 5:8",
+      "source": "LXX2012",
+      "tier": "extreme",
+      "text_chars": 94,
+      "footnote_count": 1,
+      "footnote_chars": 82,
+      "crossref_count": 52,
+      "crossref_chars": 605,
+      "combined_load": 781
     },
     {
       "ref": "Exodus 20:5",
@@ -2144,17 +2100,6 @@
       "combined_load": 818
     },
     {
-      "ref": "Genesis 15:1",
-      "source": "LXX2012",
-      "tier": "extreme",
-      "text_chars": 142,
-      "footnote_count": 5,
-      "footnote_chars": 583,
-      "crossref_count": 52,
-      "crossref_chars": 566,
-      "combined_load": 1291
-    },
-    {
       "ref": "Matthew 6:2",
       "source": "UKJV",
       "tier": "extreme",
@@ -2164,6 +2109,17 @@
       "crossref_count": 52,
       "crossref_chars": 590,
       "combined_load": 901
+    },
+    {
+      "ref": "Romans 5:1",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 89,
+      "footnote_count": 0,
+      "footnote_chars": 0,
+      "crossref_count": 52,
+      "crossref_chars": 585,
+      "combined_load": 674
     },
     {
       "ref": "Romans 9:4",
@@ -2177,26 +2133,26 @@
       "combined_load": 836
     },
     {
-      "ref": "Ephesians 1:17",
+      "ref": "1 Corinthians 13:4",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 150,
+      "text_chars": 123,
       "footnote_count": 1,
-      "footnote_chars": 88,
+      "footnote_chars": 72,
       "crossref_count": 51,
-      "crossref_chars": 556,
-      "combined_load": 794
+      "crossref_chars": 572,
+      "combined_load": 767
     },
     {
-      "ref": "Ephesians 2:3",
+      "ref": "1 Peter 2:1",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 195,
+      "text_chars": 97,
       "footnote_count": 1,
-      "footnote_chars": 71,
+      "footnote_chars": 62,
       "crossref_count": 51,
-      "crossref_chars": 569,
-      "combined_load": 835
+      "crossref_chars": 564,
+      "combined_load": 723
     },
     {
       "ref": "Esaias 53:10",
@@ -2210,15 +2166,59 @@
       "combined_load": 818
     },
     {
-      "ref": "Hebrews 13:21",
+      "ref": "Genesis 15:1",
+      "source": "LXX2012",
+      "tier": "extreme",
+      "text_chars": 142,
+      "footnote_count": 5,
+      "footnote_chars": 583,
+      "crossref_count": 51,
+      "crossref_chars": 558,
+      "combined_load": 1283
+    },
+    {
+      "ref": "Matthew 5:3",
       "source": "UKJV",
       "tier": "extreme",
-      "text_chars": 172,
-      "footnote_count": 1,
-      "footnote_chars": 76,
+      "text_chars": 80,
+      "footnote_count": 0,
+      "footnote_chars": 0,
       "crossref_count": 51,
-      "crossref_chars": 566,
-      "combined_load": 814
+      "crossref_chars": 564,
+      "combined_load": 644
+    },
+    {
+      "ref": "Psalms 1:1",
+      "source": "LXX2012",
+      "tier": "extreme",
+      "text_chars": 150,
+      "footnote_count": 1,
+      "footnote_chars": 94,
+      "crossref_count": 51,
+      "crossref_chars": 560,
+      "combined_load": 804
+    },
+    {
+      "ref": "1 Peter 1:3",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 185,
+      "footnote_count": 1,
+      "footnote_chars": 49,
+      "crossref_count": 50,
+      "crossref_chars": 546,
+      "combined_load": 780
+    },
+    {
+      "ref": "2 Corinthians 6:16",
+      "source": "UKJV",
+      "tier": "extreme",
+      "text_chars": 212,
+      "footnote_count": 3,
+      "footnote_chars": 1240,
+      "crossref_count": 50,
+      "crossref_chars": 573,
+      "combined_load": 2025
     }
   ]
 }
