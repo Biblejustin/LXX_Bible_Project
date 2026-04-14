@@ -34,6 +34,48 @@ Study Bible build pipeline for public-domain editions using:
 python3 scripts/build_study_bible.py
 ```
 
+## Fresh Translation Pilot
+
+Fresh Greek-to-English pilot workspace now scaffolded for a new translation that does not copy existing English versions.
+
+Tracked research tables:
+
+- `data/research/logos_notes.csv`
+- `data/research/translation_decisions.csv`
+- `data/research/translation_footnotes.csv`
+- `data/research/variant_notes.csv`
+- `data/research/translation_rules.md`
+- `data/research/logos_translation_stack.json`
+- `data/research/genesis_1_3_workflow.md`
+- `data/raw/lxx_greek/genesis_1_3_pilot.csv`
+
+Safe local-only space:
+
+- `data/research/local/`
+- `data/private/`
+- `data/raw/private/`
+
+Build pilot worksheet:
+
+```bash
+python3 scripts/build_fresh_translation.py
+```
+
+Scan local Logos library into ignored private outputs:
+
+```bash
+python3 scripts/scan_logos_library.py
+```
+
+This produces:
+
+- `output/fresh_translation_genesis_1_3_pilot.md`
+- `output/fresh_translation_genesis_1_3_pilot_diagnostics.json`
+
+Private scanner output goes under:
+
+- `data/research/local/logos_scan/`
+
 ## Data Sources in Repo
 
 - `data/hebrew_top_vocab.csv`

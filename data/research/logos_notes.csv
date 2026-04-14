@@ -1,0 +1,4 @@
+ref,greek_phrase,lemma,resource,location,claim_paraphrase,usage_note,confidence,next_action
+Genesis 1:1,τὸν οὐρανὸν καὶ τὴν γῆν,οὐρανός | γῆ,LLS:FBLXXLEX,,,"Check whether the pair functions as a standard cosmic merism in LXX usage.",,verify heaven vs sky
+Genesis 1:2,πνεῦμα Θεοῦ,πνεῦμα | θεός,LLS:FBLXXLEX,,,"Check whether the immediate context pushes pneuma toward wind, breath, or Spirit.",,verify wind vs Spirit
+Genesis 1:3,γενηθήτω φῶς,γίνομαι | φῶς,LLS:LLXXI,,,"Check whether the interlinear and lexicon preserve a come-to-be nuance strong enough to keep in English.",,verify come to be wording

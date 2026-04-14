@@ -1,0 +1,34 @@
+{
+  "verse_rows": 80,
+  "verses_with_greek_text": 3,
+  "verses_with_draft_translation": 3,
+  "logos_note_rows": 3,
+  "decision_rows": 10,
+  "footnote_rows": 3,
+  "variant_rows": 3,
+  "decision_status_counts": {
+    "todo": 0,
+    "drafted": 10,
+    "reviewed": 0
+  },
+  "footnote_status_counts": {
+    "todo": 0,
+    "drafted": 3,
+    "reviewed": 0
+  },
+  "chapters": [
+    "1",
+    "2",
+    "3"
+  ],
+  "preferred_resource_roles": [
+    "base_text_primary",
+    "base_text_fallback",
+    "morphology_text",
+    "lexicon_primary",
+    "apparatus_primary",
+    "interlinear_primary",
+    "grammar_primary",
+    "manuscript_check"
+  ]
+}
