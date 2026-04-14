@@ -24,5 +24,5 @@ This repository contains mixed public-domain and separately-noticed material.
 ## Original project material
 
 - Original scripts, formatting, intro pages, editorial notes, and other new
-  material created in this repository are dedicated to public domain under CC0
-  1.0. See `LICENSE`.
+  material created in this repository are released under `CC-BY 4.0`. See
+  `LICENSE`.
