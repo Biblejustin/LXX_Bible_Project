@@ -20,7 +20,10 @@ RAW = ROOT / "data" / "raw"
 OUTPUT = ROOT / "output"
 OUTPUT_PREFIX = "Brenton_UKJV_study_bible_prototype"
 MODERN_OUTPUT_PREFIX = "Brenton_Modern_UKJV_study_bible_prototype"
+OUTPUT_PREFIX_CROSSREFS_ONLY = "Brenton_UKJV_study_bible_crossrefs_only"
+MODERN_OUTPUT_PREFIX_CROSSREFS_ONLY = "Brenton_Modern_UKJV_study_bible_crossrefs_only"
 RIGHTS_MD = ROOT / "data" / "rights_and_rationale.md"
+CONVENTIONS_MD = ROOT / "data" / "editorial_conventions.md"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
 NAME_APPENDIX_MD = ROOT / "data" / "name_meanings_appendix.md"
@@ -1183,7 +1186,7 @@ def chapter_heading(book_code: str, book_name: str, chapter: int) -> str:
     return f"{book_name} {chapter}"
 
 
-def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
+def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object], crossrefs_only: bool = False) -> str:
     book_intros = load_book_intros()
     lines = [
         "# Public-Domain Study Bible Prototype",
@@ -1206,6 +1209,9 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
     ]
     if RIGHTS_MD.exists():
         lines.append(RIGHTS_MD.read_text(encoding="utf-8").strip())
+        lines.append("")
+    if CONVENTIONS_MD.exists():
+        lines.append(CONVENTIONS_MD.read_text(encoding="utf-8").strip())
         lines.append("")
     if PREFACE_MD.exists():
         lines.append(PREFACE_MD.read_text(encoding="utf-8").strip())
@@ -1251,10 +1257,11 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
             lines.append(f"*{record.section}*")
             lines.append("")
         paragraph_bits.append(f"{verse_number(record.verse)} {record.text}")
-        for note in record.footnotes:
-            paragraph_notes.append(f"{record.ref} Brenton note: {note}")
-        for note in record.study_notes:
-            paragraph_notes.append(f"{record.ref} {note}")
+        if not crossrefs_only:
+            for note in record.footnotes:
+                paragraph_notes.append(f"{record.ref} Brenton note: {note}")
+            for note in record.study_notes:
+                paragraph_notes.append(f"{record.ref} {note}")
         if record.cross_references:
             paragraph_notes.append(f"{record.ref} Cross-refs: {'; '.join(record.cross_references)}")
     flush_paragraph()
@@ -1464,7 +1471,12 @@ def format_textual_paragraph_item(record: VerseRecord) -> str:
     notes = list(dict.fromkeys(note.strip() for note in record.footnotes if note.strip()))
     if not notes:
         return ""
-    return r"\textsuperscript{" + str(record.verse) + "} " + " ".join(latex_escape(note) for note in notes)
+    marker = (
+        r"{\color{tnaccent}\fontsize{7.8}{7.8}\selectfont\textbf{"
+        + str(record.verse)
+        + r"}}"
+    )
+    return marker + r"\," + " ".join(latex_escape(note) for note in notes)
 
 
 def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
@@ -1478,17 +1490,27 @@ def format_crossref_paragraph_item(record: VerseRecord) -> str:
     refs = canonicalize_cross_references(record.cross_references)
     if not refs:
         return ""
-    return r"\textsuperscript{" + str(record.verse) + "} " + latex_escape("; ".join(refs))
+    marker = (
+        r"{\color{tnaccent}\fontsize{7.8}{7.8}\selectfont\textbf{"
+        + str(record.verse)
+        + r"}}"
+    )
+    return marker + r"\," + latex_escape("; ".join(refs))
 
 
 def format_study_paragraph_item(record: VerseRecord) -> str:
     notes = list(dict.fromkeys(note.strip() for note in record.study_notes if note.strip()))
     if not notes:
         return ""
-    return r"\textsuperscript{" + str(record.verse) + "} " + " ".join(latex_escape(note) for note in notes)
+    marker = (
+        r"{\color{tnaccent}\fontsize{7.8}{7.8}\selectfont\textbf{"
+        + str(record.verse)
+        + r"}}"
+    )
+    return marker + r"\," + " ".join(latex_escape(note) for note in notes)
 
 
-def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
+def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object], crossrefs_only: bool = False) -> str:
     book_intros = load_book_intros()
     lines = [
         r"\documentclass[10pt,twoside]{article}",
@@ -1543,6 +1565,21 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
                 lines.append(r"\noindent$\bullet$ " + latex_escape(line[2:]) + r"\par")
             else:
                 lines.append(r"\noindent " + latex_escape(line) + r"\par")
+    if CONVENTIONS_MD.exists():
+        conventions = CONVENTIONS_MD.read_text(encoding="utf-8")
+        lines.append(r"\newpage")
+        for raw_line in conventions.splitlines():
+            line = raw_line.strip()
+            if not line:
+                lines.append("")
+            elif line.startswith("## "):
+                lines.append(r"\section*{" + latex_escape(line[3:]) + "}")
+            elif line.startswith("### "):
+                lines.append(r"\subsection*{" + latex_escape(line[4:]) + "}")
+            elif line.startswith("- "):
+                lines.append(r"\noindent$\bullet$ " + latex_escape(line[2:]) + r"\par")
+            else:
+                lines.append(r"\noindent " + latex_escape(line) + r"\par")
     if PREFACE_MD.exists():
         preface = PREFACE_MD.read_text(encoding="utf-8")
         lines.append(r"\newpage")
@@ -1573,12 +1610,17 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         nonlocal paragraph_bits, paragraph_textual_notes, paragraph_study_notes, paragraph_crossrefs
         if paragraph_bits:
             lines.append(r"\noindent " + " ".join(paragraph_bits) + r"\par")
-        if paragraph_textual_notes:
-            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{T: }}" + " ".join(paragraph_textual_notes) + r"\par}")
-        if paragraph_study_notes:
-            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{N: }}" + " ".join(paragraph_study_notes) + r"\par}")
+        if paragraph_textual_notes and not crossrefs_only:
+            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{T: }}\," + r"\enspace ".join(paragraph_textual_notes) + r"\par}")
+        if paragraph_study_notes and not crossrefs_only:
+            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{N: }}\," + r"\enspace ".join(paragraph_study_notes) + r"\par}")
         if paragraph_crossrefs:
-            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{X: }}" + " ".join(paragraph_crossrefs) + r"\par}")
+            lines.append(
+                r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{X: }}"
+                + r"\,"
+                + r"\enspace ".join(paragraph_crossrefs)
+                + r"\par}"
+            )
         paragraph_bits = []
         paragraph_textual_notes = []
         paragraph_crossrefs = []
@@ -1603,14 +1645,15 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        verse_text = r"{\color{tnaccent}\fontsize{6.4}{6.4}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
+        verse_text = r"{\color{tnaccent}\fontsize{6.9}{6.9}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
-        textual_item = format_textual_paragraph_item(record)
-        if textual_item:
-            paragraph_textual_notes.append(textual_item)
-        study_item = format_study_paragraph_item(record)
-        if study_item:
-            paragraph_study_notes.append(study_item)
+        if not crossrefs_only:
+            textual_item = format_textual_paragraph_item(record)
+            if textual_item:
+                paragraph_textual_notes.append(textual_item)
+            study_item = format_study_paragraph_item(record)
+            if study_item:
+                paragraph_study_notes.append(study_item)
         crossref_item = format_crossref_paragraph_item(record)
         if crossref_item:
             paragraph_crossrefs.append(crossref_item)
@@ -1706,11 +1749,15 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--modernize-brenton", action="store_true")
+    parser.add_argument("--crossrefs-only", action="store_true")
     args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    output_prefix = MODERN_OUTPUT_PREFIX if args.modernize_brenton else OUTPUT_PREFIX
+    if args.modernize_brenton:
+        output_prefix = MODERN_OUTPUT_PREFIX_CROSSREFS_ONLY if args.crossrefs_only else MODERN_OUTPUT_PREFIX
+    else:
+        output_prefix = OUTPUT_PREFIX_CROSSREFS_ONLY if args.crossrefs_only else OUTPUT_PREFIX
     records, diagnostics = merge_records(modernize_brenton=args.modernize_brenton)
-    markdown = render_markdown(records, diagnostics)
+    markdown = render_markdown(records, diagnostics, crossrefs_only=args.crossrefs_only)
     md_path = OUTPUT / f"{output_prefix}.md"
     md_path.write_text(markdown, encoding="utf-8")
     json_path = OUTPUT / f"{output_prefix}_diagnostics.json"
@@ -1718,7 +1765,7 @@ def main() -> None:
     overflow_path = OUTPUT / f"{output_prefix}_overflow_report.json"
     overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
     tex_path = OUTPUT / f"{output_prefix}.tex"
-    tex_path.write_text(render_latex(records, diagnostics), encoding="utf-8")
+    tex_path.write_text(render_latex(records, diagnostics, crossrefs_only=args.crossrefs_only), encoding="utf-8")
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
         "markdown": str(md_path),
