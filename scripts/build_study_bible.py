@@ -229,6 +229,75 @@ OSIS_BOOK_MAP = {
     "Jude": "JUD",
 }
 
+REF_BOOK_ALIASES = {
+    "Genesis": "GEN", "Gen": "GEN",
+    "Exodus": "EXO", "Exod": "EXO", "Exo": "EXO",
+    "Leviticus": "LEV", "Lev": "LEV",
+    "Numbers": "NUM", "Num": "NUM",
+    "Deuteronomy": "DEU", "Deut": "DEU",
+    "Joshua": "JOS", "Josh": "JOS",
+    "Judges": "JDG", "Judg": "JDG",
+    "Ruth": "RUT",
+    "1 Samuel": "1SA", "1Sam": "1SA", "I Sam": "1SA",
+    "2 Samuel": "2SA", "2Sam": "2SA", "II Sam": "2SA",
+    "1 Kings": "1KI", "1Kgs": "1KI", "I Kings": "1KI",
+    "2 Kings": "2KI", "2Kgs": "2KI", "II Kings": "2KI",
+    "1 Chronicles": "1CH", "1Chr": "1CH", "I Chron": "1CH",
+    "2 Chronicles": "2CH", "2Chr": "2CH", "II Chron": "2CH",
+    "Ezra": "EZR",
+    "Nehemiah": "NEH", "Neh": "NEH",
+    "Esther": "EST", "Esth": "EST",
+    "Job": "JOB",
+    "Psalm": "PSA", "Psalms": "PSA", "Ps": "PSA",
+    "Proverbs": "PRO", "Prov": "PRO",
+    "Ecclesiastes": "ECC", "Eccl": "ECC",
+    "Song of Solomon": "SNG", "Song": "SNG", "Canticles": "SNG",
+    "Isaiah": "ISA", "Isa": "ISA",
+    "Jeremiah": "JER", "Jer": "JER",
+    "Lamentations": "LAM", "Lam": "LAM",
+    "Ezekiel": "EZK", "Ezek": "EZK",
+    "Daniel": "DAG", "Dan": "DAG",
+    "Hosea": "HOS", "Hos": "HOS",
+    "Joel": "JOL",
+    "Amos": "AMO",
+    "Obadiah": "OBA", "Obad": "OBA",
+    "Jonah": "JON",
+    "Micah": "MIC", "Mic": "MIC",
+    "Nahum": "NAM", "Nah": "NAM",
+    "Habakkuk": "HAB", "Hab": "HAB",
+    "Zephaniah": "ZEP", "Zeph": "ZEP",
+    "Haggai": "HAG", "Hag": "HAG",
+    "Zechariah": "ZEC", "Zech": "ZEC",
+    "Malachi": "MAL", "Mal": "MAL",
+    "Matthew": "MAT", "Matt": "MAT",
+    "Mark": "MRK",
+    "Luke": "LUK",
+    "John": "JHN",
+    "Acts": "ACT",
+    "Romans": "ROM", "Rom": "ROM",
+    "1 Corinthians": "1CO", "1Cor": "1CO", "I Cor": "1CO",
+    "2 Corinthians": "2CO", "2Cor": "2CO", "II Cor": "2CO",
+    "Galatians": "GAL", "Gal": "GAL",
+    "Ephesians": "EPH", "Eph": "EPH",
+    "Philippians": "PHP", "Phil": "PHP",
+    "Colossians": "COL", "Col": "COL",
+    "1 Thessalonians": "1TH", "1Thess": "1TH", "I Thess": "1TH",
+    "2 Thessalonians": "2TH", "2Thess": "2TH", "II Thess": "2TH",
+    "1 Timothy": "1TI", "1Tim": "1TI", "I Tim": "1TI",
+    "2 Timothy": "2TI", "2Tim": "2TI", "II Tim": "2TI",
+    "Titus": "TIT",
+    "Philemon": "PHM", "Phlm": "PHM", "Phm": "PHM",
+    "Hebrews": "HEB", "Heb": "HEB",
+    "James": "JAS", "Jas": "JAS",
+    "1 Peter": "1PE", "1Pet": "1PE", "I Pet": "1PE",
+    "2 Peter": "2PE", "2Pet": "2PE", "II Pet": "2PE",
+    "1 John": "1JN", "1John": "1JN", "I John": "1JN",
+    "2 John": "2JN", "2John": "2JN", "II John": "2JN",
+    "3 John": "3JN", "3John": "3JN", "III John": "3JN",
+    "Jude": "JUD",
+    "Revelation": "REV", "Rev": "REV",
+}
+
 LXX2012_BOOK_MAP = {
     "GEN": "GEN", "EXO": "EXO", "LEV": "LEV", "NUM": "NUM", "DEU": "DEU",
     "JOS": "JOS", "JDG": "JDG", "RUT": "RUT", "1SA": "1SA", "2SA": "2SA",
@@ -272,6 +341,7 @@ class VerseRecord:
 
 def normalize_space(text: str) -> str:
     text = unicodedata.normalize("NFKC", text)
+    text = text.replace("\ufffd", "")
     text = text.replace("\u037e", ";")
     text = text.replace("\u0387", ";")
     text = text.replace("\u00b7", ";")
@@ -279,6 +349,7 @@ def normalize_space(text: str) -> str:
     text = re.sub(r"\s*;\s*,\s*", "; ", text)
     text = re.sub(r"\s*,\s*;\s*", "; ", text)
     text = re.sub(r"\s*;\s*;\s*", "; ", text)
+    text = re.sub(r"(?:\s*[;,]\s*){2,}", "; ", text)
     return text.strip()
 
 
@@ -907,6 +978,29 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
     )
 
 
+REF_BOOK_ORDER = {code: idx for idx, code in enumerate(FINAL_BOOK_ORDER)}
+
+
+def sort_cross_reference_key(ref: str) -> Tuple[int, int, int, str]:
+    ref = ref.strip()
+    match = re.match(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+))?", ref)
+    if not match:
+        return (9999, 9999, 9999, ref)
+    book_label = normalize_space(match.group(1))
+    chapter = int(match.group(2))
+    verse = int(match.group(3) or 0)
+    book_code = REF_BOOK_ALIASES.get(book_label)
+    if not book_code:
+        compact = book_label.replace(" ", "")
+        book_code = REF_BOOK_ALIASES.get(compact)
+    return (REF_BOOK_ORDER.get(book_code, 9999), chapter, verse, ref)
+
+
+def canonicalize_cross_references(refs: List[str]) -> List[str]:
+    unique = list(dict.fromkeys(ref.strip() for ref in refs if ref.strip()))
+    return sorted(unique, key=sort_cross_reference_key)
+
+
 def merge_records(ot_source: str = "brenton") -> Tuple[List[VerseRecord], Dict[str, object]]:
     if ot_source == "lxx2012":
         brenton, brenton_diag = parse_lxx2012_vpl()
@@ -1295,7 +1389,7 @@ def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
 
 
 def format_crossref_paragraph_item(record: VerseRecord) -> str:
-    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
+    refs = canonicalize_cross_references(record.cross_references)
     if not refs:
         return ""
     return r"\textsuperscript{" + str(record.verse) + "} " + latex_escape("; ".join(refs))
