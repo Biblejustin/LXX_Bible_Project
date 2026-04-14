@@ -35,6 +35,7 @@ TSK_ZIP = RAW / "TSK.zip"
 KALVESMAKI_CSV = RAW / "Kalvesmaki chart.csv"
 KALVESMAKI_HTML = RAW / "Table of Old Testament quotes in the New Testament, in English translation.html"
 OPENBIBLE_CROSSREFS_ZIP = RAW / "cross-references.zip"
+ENOCH_CHARLES_TXT = RAW / "1_enoch_charles_1917.txt"
 
 OT_BOOKS = [
     "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA",
@@ -54,7 +55,7 @@ NT_BOOKS = [
 
 APOCRYPHA_BOOKS = [
     "TOB", "JDT", "WIS", "SIR", "BAR", "LJE", "SUS", "BEL", "1MA", "2MA",
-    "1ES", "MAN", "3MA", "4MA",
+    "1ES", "MAN", "3MA", "4MA", "ENO",
 ]
 
 FINAL_BOOK_ORDER = [
@@ -166,7 +167,7 @@ STANDARD_BOOK_NAMES = {
     "PSS": "Psalms of Solomon",
     "EZA": "Ezra Apocalypse",
     "JUB": "Jubilees",
-    "ENO": "Enoch",
+    "ENO": "1 Enoch",
     "MAT": "Matthew",
     "MRK": "Mark",
     "LUK": "Luke",
@@ -395,6 +396,93 @@ def parse_ukjv_xml() -> Tuple[List[VerseRecord], Dict[str, int]]:
                 )
                 paragraph_start = False
     return records, diagnostics
+
+
+ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+
+
+def roman_to_int(text: str) -> int:
+    total = 0
+    prev = 0
+    for ch in reversed(text):
+        value = ROMAN_VALUES[ch]
+        if value < prev:
+            total -= value
+        else:
+            total += value
+            prev = value
+    return total
+
+
+def strip_enoch_editorial(text: str) -> str:
+    text = text.replace("〚", "").replace("〛", "")
+    text = text.replace("⌜", "").replace("⌝", "")
+    text = text.replace("⌞", "").replace("⌟", "")
+    text = text.replace("†", "")
+    text = text.replace("=", "")
+    text = re.sub(r"\[[^\]]*\]", "", text)
+    text = re.sub(r"_([^_]+)_", r"\1", text)
+    return normalize_space(text)
+
+
+def parse_enoch_charles() -> Tuple[List[VerseRecord], Dict[str, object]]:
+    if not ENOCH_CHARLES_TXT.exists():
+        return [], {"present": False, "chapters_loaded": 0, "records": 0}
+    raw = ENOCH_CHARLES_TXT.read_text(encoding="utf-8", errors="ignore")
+    start = raw.find("I. 1.")
+    end = raw.find("XXXVII. 1.")
+    if start == -1 or end == -1 or end <= start:
+        return [], {"present": True, "chapters_loaded": 0, "records": 0, "error": "Could not locate chs. 1-36"}
+    body = raw[start:end]
+    kept_lines: List[str] = []
+    for raw_line in body.splitlines():
+        stripped = raw_line.strip()
+        if not stripped:
+            kept_lines.append("")
+            continue
+        if re.fullmatch(r"[A-Z](?:\^[A-Za-z])?", stripped):
+            continue
+        kept_lines.append(stripped)
+    body = "\n".join(kept_lines)
+    chapter_pattern = re.compile(
+        r"(?ms)^\s*([IVXLCDM]+)\.\s*(?:(\d+)\.\s*)?([A-Z\"'(].*?)(?=^\s*[IVXLCDM]+\.\s*(?:\d+\.\s*|[A-Z\"'(])|\Z)"
+    )
+    records: List[VerseRecord] = []
+    chapters_seen = set()
+    for match in chapter_pattern.finditer(body):
+        chapter = roman_to_int(match.group(1))
+        if not (1 <= chapter <= 36):
+            continue
+        chapters_seen.add(chapter)
+        first_verse = int(match.group(2)) if match.group(2) else 1
+        section_text = f"{first_verse}. {match.group(3).strip()}"
+        section_text = re.sub(r"\n+", " ", section_text)
+        section_text = strip_enoch_editorial(section_text)
+        verse_matches = list(re.finditer(r"(?<!\d)(\d+)\.\s+", section_text))
+        seen_verses = set()
+        for idx, vm in enumerate(verse_matches):
+            verse = int(vm.group(1))
+            if verse in seen_verses:
+                continue
+            start_idx = vm.end()
+            end_idx = verse_matches[idx + 1].start() if idx + 1 < len(verse_matches) else len(section_text)
+            verse_text = strip_enoch_editorial(section_text[start_idx:end_idx])
+            verse_text = re.sub(r"^[—-]\s*", "", verse_text)
+            if not verse_text:
+                continue
+            seen_verses.add(verse)
+            records.append(
+                VerseRecord(
+                    book_code="ENO",
+                    book_name="1 Enoch",
+                    chapter=chapter,
+                    verse=verse,
+                    text=verse_text,
+                    source="R. H. Charles (1917)",
+                    paragraph_start=(verse == 1),
+                )
+            )
+    return records, {"present": True, "chapters_loaded": len(chapters_seen), "records": len(records)}
 
 
 def parse_kalvesmaki() -> Tuple[Dict[str, List[str]], Dict[str, int]]:
@@ -749,6 +837,7 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
 def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     brenton, brenton_diag = parse_brenton_usfm()
     ukjv, ukjv_diag = parse_ukjv_xml()
+    enoch, enoch_diag = parse_enoch_charles()
     kal_notes, kal_diag = parse_kalvesmaki()
     kal_html_notes, kal_html_diag = parse_kalvesmaki_html()
     tsk_crossrefs, tsk_notes, tsk_diag = parse_tsk_module()
@@ -757,7 +846,7 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     names_of_god_notes = parse_names_of_god_footnotes()
     hebrew_vocab_notes = parse_hebrew_vocab_footnotes()
     greek_vocab_notes = parse_greek_vocab_footnotes()
-    all_records = brenton + ukjv
+    all_records = brenton + ukjv + enoch
     for record in all_records:
         key = (record.book_code, record.chapter, record.verse)
         if key in tsk_crossrefs:
@@ -783,6 +872,7 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     diagnostics = {
         "brenton": brenton_diag,
         "ukjv": ukjv_diag,
+        "enoch_charles": enoch_diag,
         "kalvesmaki_csv": kal_diag,
         "kalvesmaki_html": kal_html_diag,
         "tsk": tsk_diag,
