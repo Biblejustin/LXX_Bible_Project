@@ -270,7 +270,13 @@ class VerseRecord:
 
 def normalize_space(text: str) -> str:
     text = unicodedata.normalize("NFKC", text)
+    text = text.replace("\u037e", ";")
+    text = text.replace("\u0387", ";")
+    text = text.replace("\u00b7", ";")
     text = re.sub(r"\s+", " ", text)
+    text = re.sub(r"\s*;\s*,\s*", "; ", text)
+    text = re.sub(r"\s*,\s*;\s*", "; ", text)
+    text = re.sub(r"\s*;\s*;\s*", "; ", text)
     return text.strip()
 
 
@@ -1182,15 +1188,11 @@ def verse_layout_tier(record: VerseRecord) -> str:
     return "heavy"
 
 
-def format_latex_footnote(record: VerseRecord, tier: str) -> str:
-    textual = list(dict.fromkeys(item.strip() for item in record.footnotes if item.strip()))
-    items: List[str] = []
-    if textual:
-        items.append(r"\textsuperscript{T} " + " ".join(latex_escape(item) for item in textual))
-    if not items:
+def format_textual_paragraph_item(record: VerseRecord) -> str:
+    notes = list(dict.fromkeys(note.strip() for note in record.footnotes if note.strip()))
+    if not notes:
         return ""
-    body = r" \par ".join(items)
-    return r"\footnote{\fontsize{7.4}{8.3}\selectfont " + body + "}"
+    return r"\textsuperscript{" + str(record.verse) + "} " + " ".join(latex_escape(note) for note in notes)
 
 
 def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
@@ -1265,18 +1267,22 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
     current_book = None
     current_chapter = None
     paragraph_bits: List[str] = []
-    paragraph_crossrefs: List[str] = []
+    paragraph_textual_notes: List[str] = []
     paragraph_study_notes: List[str] = []
+    paragraph_crossrefs: List[str] = []
 
     def flush():
-        nonlocal paragraph_bits, paragraph_crossrefs, paragraph_study_notes
+        nonlocal paragraph_bits, paragraph_textual_notes, paragraph_study_notes, paragraph_crossrefs
         if paragraph_bits:
             lines.append(r"\noindent " + " ".join(paragraph_bits) + r"\par")
+        if paragraph_textual_notes:
+            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{T: }" + " ".join(paragraph_textual_notes) + r"\par}")
         if paragraph_study_notes:
             lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{N: }" + " ".join(paragraph_study_notes) + r"\par}")
         if paragraph_crossrefs:
             lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{X: }" + " ".join(paragraph_crossrefs) + r"\par}")
         paragraph_bits = []
+        paragraph_textual_notes = []
         paragraph_crossrefs = []
         paragraph_study_notes = []
 
@@ -1296,9 +1302,11 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        footnote = format_latex_footnote(record, tier)
-        verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text) + footnote
+        verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
+        textual_item = format_textual_paragraph_item(record)
+        if textual_item:
+            paragraph_textual_notes.append(textual_item)
         study_item = format_study_paragraph_item(record)
         if study_item:
             paragraph_study_notes.append(study_item)
