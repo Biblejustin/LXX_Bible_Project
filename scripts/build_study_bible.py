@@ -1083,7 +1083,7 @@ def render_latex_intro(row: Dict[str, str]) -> List[str]:
     lines = [
         r"\newpage",
         r"\section*{" + latex_escape(title + " Introduction") + "}",
-        r"{\fontsize{8.6}{10.0}\selectfont",
+        r"{\notefont\fontsize{8.7}{10.2}\selectfont",
     ]
     for label, value in compact_intro_groups(row):
         lines.append(r"\noindent\textbf{" + latex_escape(label) + r".} " + latex_escape(value) + r"\par")
@@ -1141,29 +1141,40 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
     book_intros = load_book_intros()
     lines = [
         r"\documentclass[10pt,twoside]{article}",
-        r"\usepackage[paperwidth=6.125in,paperheight=9.25in,inner=0.52in,outer=0.52in,top=0.45in,bottom=0.58in,footskip=0.20in]{geometry}",
+        r"\usepackage[paperwidth=6.125in,paperheight=9.25in,inner=0.60in,outer=0.50in,top=0.44in,bottom=0.60in,footskip=0.22in,headheight=17pt,headsep=0.08in]{geometry}",
+        r"\usepackage[svgnames]{xcolor}",
         r"\usepackage{fontspec}",
-        r"\setmainfont{Times New Roman}",
+        r"\setmainfont{Baskerville}",
+        r"\newfontfamily\notefont{Times New Roman}",
         r"\usepackage{parskip}",
         r"\usepackage{fancyhdr}",
         r"\usepackage[hang,flushmargin,bottom]{footmisc}",
         r"\usepackage{tabularx}",
         r"\usepackage{titlesec}",
-        r"\titleformat{\section}{\fontsize{14}{15}\bfseries\centering}{}{0pt}{}",
-        r"\titleformat{\subsection}{\fontsize{11}{12}\bfseries}{}{0pt}{}",
+        r"\definecolor{tnaccent}{HTML}{7C2D22}",
+        r"\definecolor{tnrule}{HTML}{A45A4A}",
+        r"\color{black}",
+        r"\titleformat{\section}{\color{tnaccent}\fontsize{13.8}{14.2}\bfseries\scshape\centering}{}{0pt}{}",
+        r"\titleformat{\subsection}{\color{tnaccent}\fontsize{10.6}{11.2}\bfseries\scshape}{}{0pt}{}",
         r"\setlength{\parindent}{0pt}",
         r"\interfootnotelinepenalty=100",
         r"\emergencystretch=1.5em",
         r"\raggedbottom",
         r"\sloppy",
-        r"\AtBeginDocument{\fontsize{9.5}{11.2}\selectfont}",
+        r"\AtBeginDocument{\fontsize{9.5}{11.5}\selectfont}",
         r"\pagestyle{fancy}",
         r"\fancyhf{}",
-        r"\fancyfoot[LE,RO]{\fontsize{6.5}{6.5}\selectfont\thepage}",
-        r"\renewcommand{\headrulewidth}{0pt}",
+        r"\fancyhead[LE]{\fontsize{6.6}{7.0}\selectfont\scshape\leftmark}",
+        r"\fancyhead[RO]{\fontsize{6.6}{7.0}\selectfont\scshape\rightmark}",
+        r"\fancyfoot[LE,RO]{\fontsize{5.8}{5.8}\selectfont\thepage}",
+        r"\fancyfoot[LO,RE]{}",
+        r"\renewcommand{\sectionmark}[1]{\markboth{#1}{}}",
+        r"\renewcommand{\subsectionmark}[1]{\markright{#1}}",
+        r"\renewcommand{\headrulewidth}{0.2pt}",
         r"\renewcommand{\footrulewidth}{0pt}",
+        r"\renewcommand{\headrule}{\hbox to\headwidth{\color{tnrule}\leaders\hrule height \headrulewidth\hfill}}",
         r"\begin{document}",
-        r"\begin{center}\LARGE Public-Domain Study Bible Prototype\end{center}",
+        r"\begin{center}{\color{tnaccent}\fontsize{15}{16}\bfseries\scshape Public-Domain Study Bible Prototype}\end{center}",
         r"\bigskip",
     ]
     if PREFACE_MD.exists():
@@ -1197,11 +1208,11 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if paragraph_bits:
             lines.append(r"\noindent " + " ".join(paragraph_bits) + r"\par")
         if paragraph_textual_notes:
-            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{T: }" + " ".join(paragraph_textual_notes) + r"\par}")
+            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{T: }}" + " ".join(paragraph_textual_notes) + r"\par}")
         if paragraph_study_notes:
-            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{N: }" + " ".join(paragraph_study_notes) + r"\par}")
+            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{N: }}" + " ".join(paragraph_study_notes) + r"\par}")
         if paragraph_crossrefs:
-            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{X: }" + " ".join(paragraph_crossrefs) + r"\par}")
+            lines.append(r"{\notefont\fontsize{6.8}{7.5}\selectfont\noindent{\color{tnaccent}\textit{X: }}" + " ".join(paragraph_crossrefs) + r"\par}")
         paragraph_bits = []
         paragraph_textual_notes = []
         paragraph_crossrefs = []
@@ -1216,14 +1227,17 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
             if book_intro_has_content(intro_row):
                 lines.extend(render_latex_intro(intro_row))
             lines.append(r"\section*{" + latex_escape(record.book_name) + "}")
+            lines.append(r"\markboth{" + latex_escape(record.book_name.upper()) + r"}{}")
         if record.chapter != current_chapter:
             flush()
             current_chapter = record.chapter
-            lines.append(r"\subsection*{" + latex_escape(chapter_heading(record.book_code, record.book_name, record.chapter)) + "}")
+            chapter_label = chapter_heading(record.book_code, record.book_name, record.chapter)
+            lines.append(r"\subsection*{" + latex_escape(chapter_label) + "}")
+            lines.append(r"\markright{" + latex_escape(chapter_label.upper()) + r"}")
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text)
+        verse_text = r"{\color{tnaccent}\fontsize{5.9}{5.9}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
         textual_item = format_textual_paragraph_item(record)
         if textual_item:
