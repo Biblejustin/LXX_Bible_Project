@@ -160,9 +160,8 @@ Prototype build from Brenton LXX OT + UKJV NT.
   requested and gladly given: `I love Jesus (UKJV)`.
 - Editor's original material in this project is released under `CC-BY 4.0`,
   except where a separate notice applies.
-- Current build system still carries provisional OpenBible fallback data in a
-  few places. That layer is `CC-BY`, not public domain, and should be removed
-  for a strict all-public-domain release.
+- Cross-reference support in this repository includes a `CC-BY` OpenBible data
+  layer alongside the primary TSK apparatus.
 
 ## Editorial Perspective
 
