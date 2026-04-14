@@ -1,0 +1,438 @@
+language,lemma,transliteration,meaning,english_renderings,first_reference,footnote
+“Hebrew”,“יהוה”,“YHWH”,“the covenant name of God”,“LORD; Jehovah”,“Genesis 2:4”,“The divine name, traditionally read as Adonai in Jewish reading practice.”
+“Hebrew”,“אֱלֹהִים”,“Elohim”,“God; gods”,“God; gods; divine beings”,“Genesis 1:1”,“Morphologically plural but often takes singular verbs for the God of Israel.”
+“Hebrew”,“אֲדֹנָי”,“Adonai”,“Lord; Master”,“Lord”,“Genesis 15:2”,“Reverential title for God, often substituting for YHWH in reading.”
+“Hebrew”,“בְּרִית”,“berit”,“covenant; treaty”,“covenant; league”,“Genesis 6:18”,“A foundational theological term for divine-human and human-human covenants.”
+“Hebrew”,“חֶסֶד”,“chesed”,“steadfast love; covenant loyalty”,“mercy; lovingkindness; kindness”,“Genesis 19:19”,“Carries the sense of loyal love, often within covenant relationship.”
+“Hebrew”,“תּוֹרָה”,“torah”,“instruction; law”,“law; instruction”,“Exodus 12:49”,“Broader than legal code; can mean teaching or revealed instruction.”
+“Hebrew”,“מִשְׁפָּט”,“mishpat”,“judgment; justice; legal decision”,“judgment; justice; ordinance”,“Genesis 18:19”,“Can denote both judicial process and righteous social order.”
+“Hebrew”,“צְדָקָה”,“tsedaqah”,“righteousness; justice”,“righteousness; justice”,“Genesis 15:6”,“Closely tied to right order, covenant faithfulness, and ethical conduct.”
+“Hebrew”,“רוּחַ”,“ruach”,“spirit; wind; breath”,“spirit; wind; breath”,“Genesis 1:2”,“Used for the Spirit of God, human spirit, and physical wind.”
+“Hebrew”,“שָׁלוֹם”,“shalom”,“peace; wholeness; well-being”,“peace; welfare; prosperity”,“Genesis 15:15”,“More than absence of conflict; implies completeness and flourishing.”
+“Hebrew”,“אָב”,“av”,“father”,“father”,“Genesis 2:24”,“Basic kinship term with broad theological and ancestral importance.”
+“Hebrew”,“אֵם”,“em”,“mother”,“mother”,“Genesis 2:24”,“Basic family term, also used metaphorically for sources and origins.”
+“Hebrew”,“בֵּן”,“ben”,“son”,“son; child”,“Genesis 4:17”,“Can refer literally to a son or more broadly to a descendant or member.”
+“Hebrew”,“בַּת”,“bat”,“daughter”,“daughter”,“Genesis 5:4”,“Used literally and figuratively for peoples, cities, and nations.”
+“Hebrew”,“אִישׁ”,“ish”,“man; האיש”,“man; husband”,“Genesis 2:23”,“Can mean man in contrast to woman or husband in family setting.”
+“Hebrew”,“אִשָּׁה”,“ishshah”,“woman; wife”,“woman; wife”,“Genesis 2:22”,“Context determines whether ‘woman’ or ‘wife’ is intended.”
+“Hebrew”,“אָדָם”,“adam”,“man; humankind; Adam”,“man; mankind; Adam”,“Genesis 1:26”,“Used both as a personal name and as a collective for humanity.”
+“Hebrew”,“אֲדָמָה”,“adamah”,“ground; soil; land”,“ground; earth; land”,“Genesis 2:5”,“Often thematically linked to אדם, humanity from the ground.”
+“Hebrew”,“אֶרֶץ”,“erets”,“earth; land”,“earth; land; country”,“Genesis 1:1”,“May denote the whole earth or a specific territory depending on context.”
+“Hebrew”,“שָׁמַיִם”,“shamayim”,“heavens; sky”,“heaven; heavens; sky”,“Genesis 1:1”,“A plural form commonly used for the sky and heavenly realm.”
+“Hebrew”,“יָם”,“yam”,“sea”,“sea”,“Genesis 1:10”,“Also used for large bodies of water such as the Mediterranean.”
+“Hebrew”,“מַיִם”,“mayim”,“water”,“water; waters”,“Genesis 1:2”,“Plural form often functioning as a mass noun.”
+“Hebrew”,“אוֹר”,“or”,“light”,“light”,“Genesis 1:3”,“A major theological image for life, revelation, and salvation.”
+“Hebrew”,“חֹשֶׁךְ”,“choshekh”,“darkness”,“darkness”,“Genesis 1:2”,“Frequently paired with light in literal and metaphorical contrast.”
+“Hebrew”,“יוֹם”,“yom”,“day”,“day”,“Genesis 1:5”,“Can mean daylight, a full day, or an era depending on context.”
+“Hebrew”,“לַיְלָה”,“laylah”,“night”,“night”,“Genesis 1:5”,“The regular counterpart to day in the creation account and beyond.”
+“Hebrew”,“שֶׁמֶשׁ”,“shemesh”,“sun”,“sun”,“Genesis 15:12”,“Often associated with timekeeping and occasionally polemic against idolatry.”
+“Hebrew”,“יָרֵחַ”,“yareach”,“moon”,“moon”,“Genesis 37:9”,“Important for calendars, feasts, and poetic imagery.”
+“Hebrew”,“כּוֹכָב”,“kokhav”,“star”,“star”,“Genesis 1:16”,“Used literally and symbolically for multitude or rulers.”
+“Hebrew”,“עֵץ”,“ets”,“tree; wood”,“tree; wood”,“Genesis 1:11”,“Context can emphasize living tree or timber/wood.”
+“Hebrew”,“פְּרִי”,“peri”,“fruit”,“fruit”,“Genesis 1:11”,“Used for produce, offspring, and metaphorical results.”
+“Hebrew”,“זֶרַע”,“zera”,“seed; offspring”,“seed; offspring”,“Genesis 1:11”,“A key covenant term for descendants and promise.”
+“Hebrew”,“חַי”,“chai”,“living; alive”,“living; alive”,“Genesis 1:20”,“Appears in many forms for life and living beings.”
+“Hebrew”,“נֶפֶשׁ”,“nephesh”,“soul; life; self”,“soul; life; creature”,“Genesis 1:20”,“Often denotes the living person or creature rather than an abstract soul.”
+“Hebrew”,“בָּשָׂר”,“basar”,“flesh”,“flesh; body”,“Genesis 2:21”,“Used for literal flesh, kinship, and human frailty.”
+“Hebrew”,“דָּם”,“dam”,“blood”,“blood”,“Genesis 4:10”,“Associated with life, violence, atonement, and covenant.”
+“Hebrew”,“לֵב”,“lev”,“heart; inner mind”,“heart”,“Genesis 6:5”,“The center of thought, will, and emotion in Hebrew anthropology.”
+“Hebrew”,“נַפְשִׁי”,“nafshi”,“my soul; my life”,“my soul; my life”,“Genesis 27:4”,“Represents נפש in a common suffixed form in devotional contexts.”
+“Hebrew”,“נֶפֶשׁ חַיָּה”,“nephesh chayyah”,“living creature”,“living creature; living soul”,“Genesis 1:20”,“Compound phrase used for animals and humanity as living beings.”
+“Hebrew”,“פָּנִים”,“panim”,“face; presence”,“face; presence”,“Genesis 1:2”,“Plural form often used for personal presence or surface.”
+“Hebrew”,“שֵׁם”,“shem”,“name”,“name”,“Genesis 2:19”,“Signifies identity, reputation, and authority.”
+“Hebrew”,“כָּבוֹד”,“kavod”,“glory; honor; weight”,“glory; honor”,“Genesis 31:1”,“Literally conveys heaviness; theologically used of divine glory.”
+“Hebrew”,“קָדוֹשׁ”,“qadosh”,“holy”,“holy”,“Exodus 19:6”,“Conveys separateness and consecration to God.”
+“Hebrew”,“קֹדֶשׁ”,“qodesh”,“holiness; holy thing; sanctuary”,“holiness; holy place; sanctuary”,“Exodus 3:5”,“Related noun denoting holiness or holy sphere.”
+“Hebrew”,“חָכְמָה”,“chokhmah”,“wisdom”,“wisdom”,“Exodus 28:3”,“Skillful, practical, and godly wisdom, not merely abstract knowledge.”
+“Hebrew”,“דַּעַת”,“daat”,“knowledge”,“knowledge”,“Genesis 2:9”,“Often relational and moral rather than merely informational.”
+“Hebrew”,“בִּינָה”,“binah”,“understanding; discernment”,“understanding”,“Deuteronomy 4:6”,“Closely associated with wisdom and interpretation.”
+“Hebrew”,“יָרֵא”,“yare”,“to fear; revere”,“fear; reverence”,“Genesis 3:10”,“When directed toward God often means reverent awe.”
+“Hebrew”,“יִרְאָה”,“yirah”,“fear; reverence”,“fear; reverence”,“Genesis 20:11”,“Often expresses the fear of the LORD as covenantal devotion.”
+“Hebrew”,“אָהַב”,“ahav”,“to love”,“love”,“Genesis 22:2”,“A central verb for divine and human love.”
+“Hebrew”,“אַהֲבָה”,“ahavah”,“love”,“love”,“2 Samuel 1:26”,“Noun form for affection, covenantal love, or desire.”
+“Hebrew”,“שָׂנֵא”,“sane”,“to hate”,“hate”,“Genesis 24:60”,“Can indicate enmity, rejection, or lesser preference in context.”
+“Hebrew”,“רַחֲמִים”,“rachamim”,“compassion; mercies”,“mercies; compassion”,“Genesis 43:14”,“Plural form from womb imagery, stressing tender compassion.”
+“Hebrew”,“חָנַן”,“chanan”,“to be gracious; show favor”,“be gracious; show favor”,“Genesis 33:5”,“Used of divine grace and human favor.”
+“Hebrew”,“חֵן”,“chen”,“favor; grace”,“grace; favor”,“Genesis 6:8”,“Frequently denotes favor granted by God or humans.”
+“Hebrew”,“סָלַח”,“salach”,“to forgive”,“forgive; pardon”,“Exodus 34:9”,“Commonly used with God as subject of forgiveness.”
+“Hebrew”,“כָּפַר”,“kaphar”,“to cover; make atonement”,“make atonement; purge”,“Genesis 6:14”,“Cultic term underlying atonement language.”
+“Hebrew”,“פֶּשַׁע”,“pesha”,“transgression; rebellion”,“transgression; trespass”,“Genesis 31:36”,“Carries the idea of revolt against rightful authority.”
+“Hebrew”,“חַטָּאת”,“chatta’t”,“sin; sin offering”,“sin; sin offering”,“Genesis 4:7”,“Can refer to moral failure or the offering for it.”
+“Hebrew”,“עָוֹן”,“avon”,“iniquity; guilt”,“iniquity; guilt”,“Genesis 4:13”,“Often includes both the act and its culpability.”
+“Hebrew”,“רָשָׁע”,“rasha”,“wicked; guilty”,“wicked; ungodly”,“Exodus 2:13”,“Describes moral guilt and opposition to righteousness.”
+“Hebrew”,“צַדִּיק”,“tsaddiq”,“righteous”,“righteous; just”,“Genesis 6:9”,“Describes one who conforms to God’s standard.”
+“Hebrew”,“תָּמִים”,“tamim”,“blameless; whole; without blemish”,“perfect; blameless; without blemish”,“Genesis 6:9”,“Used ethically of persons and physically of acceptable sacrifices.”
+“Hebrew”,“אֱמוּנָה”,“emunah”,“faithfulness; steadiness”,“faithfulness; truth”,“Exodus 17:12”,“Often denotes fidelity and reliability rather than mere belief.”
+“Hebrew”,“אָמַן”,“aman”,“to confirm; support; believe”,“believe; trust; establish”,“Genesis 15:6”,“Verb behind ‘amen’ and terms for faith/faithfulness.”
+“Hebrew”,“אָמֵן”,“amen”,“truly; so be it”,“Amen”,“Numbers 5:22”,“Response of affirmation, agreement, and certainty.”
+“Hebrew”,“יָשַׁע”,“yasha”,“to save; deliver”,“save; deliver”,“Exodus 14:30”,“Root behind names and nouns for salvation.”
+“Hebrew”,“יְשׁוּעָה”,“yeshuah”,“salvation; deliverance”,“salvation; deliverance”,“Genesis 49:18”,“Key noun for divine rescue and victory.”
+“Hebrew”,“גָּאַל”,“ga’al”,“to redeem; reclaim as kinsman”,“redeem”,“Genesis 48:16”,“Kinsman-redeemer language with legal and salvific force.”
+“Hebrew”,“גֹּאֵל”,“go’el”,“redeemer; avenger; kinsman-redeemer”,“redeemer”,“Job 19:25”,“Noun for one who acts to recover, avenge, or restore kin.”
+“Hebrew”,“פָּדָה”,“padah”,“to ransom; redeem”,“redeem; ransom”,“Exodus 13:13”,“Often used of liberation by payment or substitution.”
+“Hebrew”,“כֹּפֶר”,“kofer”,“ransom; covering price”,“ransom; satisfaction”,“Exodus 21:30”,“Related to atonement and compensation contexts.”
+“Hebrew”,“זָכַר”,“zakhar”,“to remember”,“remember”,“Genesis 8:1”,“When God remembers, it often signals covenant action.”
+“Hebrew”,“שָׁכַח”,“shakach”,“to forget”,“forget”,“Genesis 40:23”,“Used literally and covenantally for neglect or unfaithfulness.”
+“Hebrew”,“שָׁמַר”,“shamar”,“to keep; guard; observe”,“keep; observe; guard”,“Genesis 2:15”,“Important for covenant obedience and priestly guarding.”
+“Hebrew”,“נָצַר”,“natsar”,“to keep; preserve”,“keep; preserve”,“Genesis 2:15”,“Often overlaps with guarding, preserving, or keeping watch.”
+“Hebrew”,“שָׁמַע”,“shama”,“to hear; obey”,“hear; listen; obey”,“Genesis 3:8”,“In covenant contexts hearing implies responsive obedience.”
+“Hebrew”,“קוֹל”,“qol”,“voice; sound”,“voice; sound”,“Genesis 3:8”,“Used for speech, thunder, crying, and proclamation.”
+“Hebrew”,“דָּבָר”,“davar”,“word; matter; thing”,“word; thing; matter”,“Genesis 11:1”,“A flexible term for speech, event, or affair.”
+“Hebrew”,“אָמַר”,“amar”,“to say”,“say”,“Genesis 1:3”,“The most common verb of speech in biblical Hebrew.”
+“Hebrew”,“דִּבֶּר”,“dibber”,“to speak”,“speak”,“Genesis 8:15”,“Often more formal or deliberate than אמר.”
+“Hebrew”,“צָוָה”,“tsavah”,“to command”,“command”,“Genesis 2:16”,“A key verb for divine instruction and covenant obligation.”
+“Hebrew”,“מִצְוָה”,“mitsvah”,“commandment”,“commandment”,“Genesis 26:5”,“Refers to specific commanded obligations.”
+“Hebrew”,“חֹק”,“choq”,“statute; fixed decree”,“statute; ordinance”,“Genesis 47:22”,“Often denotes a fixed prescribed regulation.”
+“Hebrew”,“חֻקָּה”,“chuqqah”,“statute; ordinance”,“statute; ordinance”,“Exodus 12:14”,“Common feminine form for prescribed regulation.”
+“Hebrew”,“עֵדוּת”,“edut”,“testimony; witness”,“testimony; witness”,“Exodus 16:34”,“Often linked with covenant stipulations and the ark.”
+“Hebrew”,“עֵד”,“ed”,“witness”,“witness”,“Genesis 21:30”,“Legal and covenantal term for one who bears testimony.”
+“Hebrew”,“שְׁבוּעָה”,“shevuah”,“oath”,“oath”,“Genesis 24:8”,“Derived from the verb to swear.”
+“Hebrew”,“שָׁבַע”,“shava”,“to swear”,“swear”,“Genesis 21:23”,“Related by wordplay to the number seven in some contexts.”
+“Hebrew”,“אָלָה”,“alah”,“curse; oath-curse”,“curse; oath”,“Genesis 24:41”,“Often used in covenant sanction language.”
+“Hebrew”,“בָּרַךְ”,“barakh”,“to bless”,“bless”,“Genesis 1:22”,“A central verb in creation, covenant, and worship.”
+“Hebrew”,“בְּרָכָה”,“berakhah”,“blessing”,“blessing”,“Genesis 12:2”,“Can denote bestowed favor or the spoken blessing itself.”
+“Hebrew”,“אָרַר”,“arar”,“to curse”,“curse”,“Genesis 3:14”,“Common verb for bringing covenantal or judicial curse.”
+“Hebrew”,“קְלָלָה”,“qelalah”,“curse”,“curse”,“Genesis 27:12”,“Noun form for spoken or enacted curse.”
+“Hebrew”,“טוֹב”,“tov”,“good”,“good”,“Genesis 1:4”,“Broad term for moral, functional, and aesthetic goodness.”
+“Hebrew”,“רַע”,“ra”,“evil; bad”,“evil; bad”,“Genesis 2:9”,“Can denote moral evil or disaster/harm depending on context.”
+“Hebrew”,“חַיִּים”,“chayyim”,“life”,“life”,“Genesis 2:9”,“Plural form commonly used for life as a state or gift.”
+“Hebrew”,“מָוֶת”,“mavet”,“death”,“death”,“Genesis 2:17”,“A central theological term in covenant sanction and mortality.”
+“Hebrew”,“דֶּרֶךְ”,“derekh”,“way; path”,“way; path; journey”,“Genesis 3:24”,“Literal and metaphorical term for conduct and pilgrimage.”
+“Hebrew”,“אֹרַח”,“orach”,“path; way”,“path”,“Genesis 18:11”,“Often poetic synonym for דרך.”
+“Hebrew”,“מַעֲשֶׂה”,“ma’aseh”,“deed; work”,“work; deed”,“Genesis 5:29”,“Used for human labor and divine acts.”
+“Hebrew”,“עָשָׂה”,“asah”,“to do; make”,“do; make”,“Genesis 1:7”,“One of the most common verbs, used widely for God’s actions and human deeds.”
+“Hebrew”,“בָּרָא”,“bara”,“to create”,“create”,“Genesis 1:1”,“In the Hebrew Bible God is the usual subject of this verb.”
+“Hebrew”,“יָצַר”,“yatsar”,“to form; fashion”,“form; fashion”,“Genesis 2:7”,“Used of potter imagery and God’s shaping work.”
+“Hebrew”,“בָּנָה”,“banah”,“to build”,“build”,“Genesis 2:22”,“Used for building structures, dynasties, and households.”
+“Hebrew”,“נָטַע”,“nata”,“to plant”,“plant”,“Genesis 2:8”,“Used literally for planting and figuratively for establishment.”
+“Hebrew”,“זָרַע”,“zara”,“to sow”,“sow”,“Genesis 26:12”,“Basic agricultural verb, also linked with offspring imagery.”
+“Hebrew”,“קָצַר”,“qatsar”,“to reap”,“reap”,“Leviticus 19:9”,“Harvest language often appears in law, narrative, and prophecy.”
+“Hebrew”,“לֶחֶם”,“lechem”,“bread; food”,“bread; food”,“Genesis 3:19”,“Basic term for bread and sometimes food generally.”
+“Hebrew”,“אָכַל”,“akhal”,“to eat”,“eat”,“Genesis 2:16”,“Common verb in creation, law, fellowship, and judgment.”
+“Hebrew”,“שָׁתָה”,“shatah”,“to drink”,“drink”,“Genesis 9:21”,“Used literally and metaphorically of imbibing wrath or wisdom.”
+“Hebrew”,“צָמֵא”,“tsame”,“to thirst”,“thirst”,“Genesis 21:15”,“Expresses physical thirst and spiritual longing.”
+“Hebrew”,“רָעֵב”,“ra’ev”,“to hunger”,“hunger”,“Genesis 41:55”,“Used of famine and individual need.”
+“Hebrew”,“צֹאן”,“tson”,“flock; small livestock”,“flock; sheep”,“Genesis 4:2”,“Often includes sheep and goats collectively.”
+“Hebrew”,“בָּקָר”,“baqar”,“cattle; herd”,“cattle; oxen; herd”,“Genesis 12:16”,“Can denote herd animals broadly or cattle specifically.”
+“Hebrew”,“שֶׂה”,“seh”,“small livestock animal”,“lamb; kid”,“Genesis 22:7”,“Generic term often clarified by context as sheep or goat.”
+“Hebrew”,“כֶּבֶשׂ”,“keves”,“lamb”,“lamb”,“Genesis 30:32”,“Important sacrificial animal term.”
+“Hebrew”,“אַיִל”,“ayil”,“ram”,“ram”,“Genesis 15:9”,“Common in sacrifice and symbolic strength imagery.”
+“Hebrew”,“פַּר”,“par”,“bull”,“bullock; bull”,“Genesis 18:7”,“Frequent in sacrificial legislation.”
+“Hebrew”,“עֵז”,“ez”,“goat”,“goat”,“Genesis 15:9”,“Often appears in sacrificial and pastoral contexts.”
+“Hebrew”,“יוֹנָה”,“yonah”,“dove”,“dove; pigeon”,“Genesis 8:8”,“Common in narrative symbolism and sacrificial law.”
+“Hebrew”,“עוֹף”,“of”,“bird; flying creature”,“fowl; bird”,“Genesis 1:20”,“General term for flying creatures.”
+“Hebrew”,“דָּג”,“dag”,“fish”,“fish”,“Genesis 1:26”,“Basic aquatic creature term.”
+“Hebrew”,“נָחָשׁ”,“nachash”,“serpent”,“serpent”,“Genesis 3:1”,“Important in Eden narrative and symbolic uses.”
+“Hebrew”,“אֵשׁ”,“esh”,“fire”,“fire”,“Genesis 15:17”,“Used for literal fire, divine presence, judgment, and sacrifice.”
+“Hebrew”,“עָנָן”,“anan”,“cloud”,“cloud”,“Exodus 13:21”,“Associated with divine presence and guidance.”
+“Hebrew”,“כִּסֵּא”,“kisse”,“throne; seat”,“throne; seat”,“Genesis 41:40”,“A royal and divine sovereignty term.”
+“Hebrew”,“מֶלֶךְ”,“melekh”,“king”,“king”,“Genesis 14:1”,“Central political and messianic term.”
+“Hebrew”,“מַמְלָכָה”,“mamlakhah”,“kingdom; reign”,“kingdom”,“Genesis 10:10”,“Denotes the realm or rule of a king.”
+“Hebrew”,“מֶמְשָׁלָה”,“memshalah”,“dominion; rule”,“dominion; rule”,“Genesis 1:16”,“Used for governmental authority and dominion.”
+“Hebrew”,“שַׂר”,“sar”,“prince; ruler; official”,“prince; captain”,“Genesis 12:15”,“Administrative and military title.”
+“Hebrew”,“נָשִׂיא”,“nasi”,“leader; prince”,“prince; ruler”,“Genesis 17:20”,“Used for tribal leaders and prominent chiefs.”
+“Hebrew”,“שֹׁפֵט”,“shofet”,“judge”,“judge”,“Genesis 18:25”,“Both judicial official and, in context, God as judge.”
+“Hebrew”,“שָׁפַט”,“shafat”,“to judge; govern”,“judge”,“Genesis 16:5”,“Can refer to ruling, vindicating, or condemning.”
+“Hebrew”,“כֹּהֵן”,“kohen”,“priest”,“priest”,“Genesis 14:18”,“A central cultic office term.”
+“Hebrew”,“לֵוִי”,“Levi”,“Levi; Levite”,“Levi; Levite”,“Genesis 29:34”,“Tribal name later associated with priestly service.”
+“Hebrew”,“מִזְבֵּחַ”,“mizbeach”,“altar”,“altar”,“Genesis 8:20”,“Place of sacrifice and memorial worship.”
+“Hebrew”,“זֶבַח”,“zevach”,“sacrifice; slaughter offering”,“sacrifice”,“Genesis 31:54”,“Often a fellowship-type slaughter offering.”
+“Hebrew”,“עֹלָה”,“olah”,“burnt offering”,“burnt offering”,“Genesis 8:20”,“Offering wholly consumed on the altar.”
+“Hebrew”,“מִנְחָה”,“minchah”,“gift; grain offering; tribute”,“offering; meat offering; present”,“Genesis 4:3”,“May refer to tribute gift or cultic offering.”
+“Hebrew”,“שֶׁלֶם”,“shelem”,“peace offering”,“peace offering”,“Exodus 20:24”,“Related to wholeness and fellowship.”
+“Hebrew”,“קָטַר”,“qatar”,“to burn incense; make smoke”,“burn incense; burn”,“Exodus 30:7”,“Cultic burning term especially for incense.”
+“Hebrew”,“קְטֹרֶת”,“qetoret”,“incense”,“incense”,“Exodus 25:6”,“Aromatic offering term tied to sanctuary worship.”
+“Hebrew”,“פָּסַח”,“pasach”,“to pass over; spare”,“pass over”,“Exodus 12:13”,“Source of Passover terminology.”
+“Hebrew”,“פֶּסַח”,“pesach”,“Passover”,“Passover”,“Exodus 12:11”,“Festival memorializing deliverance from Egypt.”
+“Hebrew”,“שַׁבָּת”,“shabbat”,“sabbath; cessation”,“sabbath; rest”,“Exodus 16:23”,“Weekly sacred rest, also emblematic of covenant identity.”
+“Hebrew”,“שָׁבַת”,“shavat”,“to cease; rest”,“rest; cease”,“Genesis 2:2”,“Verb behind Sabbath observance.”
+“Hebrew”,“מוֹעֵד”,“mo’ed”,“appointed time; meeting”,“feast; appointed time; congregation”,“Genesis 1:14”,“Used for festivals and tent of meeting.”
+“Hebrew”,“חֹדֶשׁ”,“chodesh”,“new moon; month”,“month; new moon”,“Genesis 7:11”,“The calendrical term tied to lunar cycles.”
+“Hebrew”,“שָׁנָה”,“shanah”,“year”,“year”,“Genesis 5:3”,“Basic time term, also used verbally for repetition in another stem.”
+“Hebrew”,“עוֹלָם”,“olam”,“long duration; eternity”,“ever; everlasting; world”,“Genesis 3:22”,“Carries the sense of indefinite duration, ancient or future.”
+“Hebrew”,“דּוֹר”,“dor”,“generation”,“generation”,“Genesis 6:9”,“Important for genealogies, history, and covenant continuity.”
+“Hebrew”,“זָקֵן”,“zaqen”,“old; elder”,“old; elder”,“Genesis 18:11”,“Can denote age or community leadership.”
+“Hebrew”,“יַלֶד”,“yeled”,“child; boy”,“child; lad”,“Genesis 21:8”,“General term for a child or youth.”
+“Hebrew”,“נַעַר”,“na’ar”,“youth; servant”,“lad; young man; servant”,“Genesis 14:24”,“Flexible term ranging from child to servant or attendant.”
+“Hebrew”,“בָּחוּר”,“bachur”,“young man; chosen one”,“young man; choice one”,“Judges 14:10”,“Often denotes a vigorous young male.”
+“Hebrew”,“בְּכוֹר”,“bekhor”,“firstborn”,“firstborn”,“Genesis 4:4”,“A major inheritance and theological term.”
+“Hebrew”,“יָרַשׁ”,“yarash”,“to inherit; dispossess”,“inherit; possess”,“Genesis 15:3”,“Used for receiving land and driving out occupants.”
+“Hebrew”,“נַחֲלָה”,“nachalah”,“inheritance; allotted possession”,“inheritance”,“Exodus 15:17”,“Key term for tribal land and covenant inheritance.”
+“Hebrew”,“גּוֹי”,“goy”,“nation”,“nation; heathen”,“Genesis 10:5”,“May refer neutrally to nations or pejoratively to Gentiles in context.”
+“Hebrew”,“עַם”,“am”,“people”,“people”,“Genesis 11:6”,“Often the covenant people, but also other peoples.”
+“Hebrew”,“מִשְׁפָּחָה”,“mishpachah”,“family; clan”,“family; kindred”,“Genesis 10:5”,“A kinship and tribal-organization term.”
+“Hebrew”,“שֵׁבֶט”,“shevet”,“tribe; staff; scepter”,“tribe; rod; sceptre”,“Genesis 49:10”,“Can refer to tribal unit or symbol of rule.”
+“Hebrew”,“מַטֶּה”,“matteh”,“staff; tribe”,“rod; tribe”,“Genesis 38:18”,“Overlaps with tribe terminology and authority symbolism.”
+“Hebrew”,“עִיר”,“ir”,“city”,“city”,“Genesis 4:17”,“Basic urban term with major narrative and prophetic importance.”
+“Hebrew”,“בַּיִת”,“bayit”,“house; household”,“house; household”,“Genesis 7:1”,“Can mean physical house, family line, or temple.”
+“Hebrew”,“הֵיכָל”,“heikhal”,“palace; temple”,“temple; palace”,“1 Samuel 1:9”,“Often later used for the temple structure.”
+“Hebrew”,“מִשְׁכָּן”,“mishkan”,“dwelling; tabernacle”,“tabernacle; dwelling”,“Exodus 25:9”,“Term for the sanctuary as God’s dwelling among Israel.”
+“Hebrew”,“אֹהֶל”,“ohel”,“tent”,“tent; tabernacle”,“Genesis 4:20”,“Common dwelling term; also used for sacred tent.”
+“Hebrew”,“שַׁעַר”,“sha’ar”,“gate”,“gate”,“Genesis 19:1”,“Important for city life, judgment, and public authority.”
+“Hebrew”,“חוֹמָה”,“chomah”,“wall”,“wall”,“Numbers 22:25”,“Protective city wall term, also metaphorical.”
+“Hebrew”,“יְרוּשָׁלַםִם”,“Yerushalayim”,“Jerusalem”,“Jerusalem”,“Joshua 10:1”,“Central city of Davidic kingship and temple worship.”
+“Hebrew”,“צִיּוֹן”,“Tsiyyon”,“Zion”,“Zion”,“2 Samuel 5:7”,“Poetic and theological designation for Jerusalem and God’s dwelling.”
+“Hebrew”,“מִצְרַיִם”,“Mitsrayim”,“Egypt”,“Egypt”,“Genesis 12:10”,“Major place of bondage, refuge, and redemption.”
+“Hebrew”,“כְּנַעַן”,“Kena’an”,“Canaan”,“Canaan”,“Genesis 9:18”,“Land and people central to patriarchal promise.”
+“Hebrew”,“יִשְׂרָאֵל”,“Yisra’el”,“Israel”,“Israel”,“Genesis 32:28”,“Name of Jacob and of the covenant nation.”
+“Hebrew”,“יְהוּדָה”,“Yehudah”,“Judah”,“Judah”,“Genesis 29:35”,“Tribal name central to kingship and messianic expectation.”
+“Hebrew”,“דָּוִד”,“David”,“David”,“David”,“Ruth 4:17”,“The paradigmatic king in later biblical theology.”
+“Hebrew”,“מָשִׁיחַ”,“mashiach”,“anointed one”,“anointed; Messiah”,“Leviticus 4:3”,“Used of priests, kings, and in later expectation of the Messiah.”
+“Hebrew”,“נָבִיא”,“navi”,“prophet”,“prophet”,“Genesis 20:7”,“One called to speak God’s message.”
+“Hebrew”,“חָזוֹן”,“chazon”,“vision”,“vision”,“1 Samuel 3:1”,“Important prophetic revelation term.”
+“Hebrew”,“מַרְאָה”,“mar’ah”,“appearance; vision”,“vision; appearance”,“Genesis 2:9”,“Can denote visible appearance or visionary sight.”
+“Hebrew”,“חָלַם”,“chalam”,“to dream”,“dream”,“Genesis 20:3”,“Used for revelatory and ordinary dreams.”
+“Hebrew”,“חֲלוֹם”,“chalom”,“dream”,“dream”,“Genesis 20:3”,“Noun form for dreams, often revelatory in Genesis.”
+“Hebrew”,“פָּתַר”,“patar”,“to interpret”,“interpret”,“Genesis 40:8”,“Especially associated with dream interpretation.”
+“Hebrew”,“גָּלָה”,“galah”,“to uncover; go into exile”,“reveal; uncover; carry away”,“Genesis 9:21”,“In later texts often central to exile language.”
+“Hebrew”,“סוֹד”,“sod”,“council; secret counsel”,“secret; counsel”,“Genesis 49:6”,“Can refer to confidential counsel or divine council.”
+“Hebrew”,“מַלְאָךְ”,“mal’akh”,“messenger; angel”,“angel; messenger”,“Genesis 16:7”,“Used for human messengers and heavenly beings.”
+“Hebrew”,“צָבָא”,“tsava”,“army; host”,“host; army”,“Genesis 2:1”,“Used of heavenly hosts and earthly armies.”
+“Hebrew”,“כְּרוּב”,“keruv”,“cherub”,“cherub”,“Genesis 3:24”,“Heavenly throne-associated being.”
+“Hebrew”,“שָׂטָן”,“satan”,“adversary; accuser”,“adversary; Satan”,“Numbers 22:22”,“Can be a common noun or later a personal title.”
+“Hebrew”,“עָבַד”,“avad”,“to serve; work”,“serve; work”,“Genesis 2:5”,“Used for labor, service, and worship.”
+“Hebrew”,“עֲבֹדָה”,“avodah”,“service; work; worship”,“service; work”,“Genesis 29:27”,“Can denote labor or cultic service.”
+“Hebrew”,“הִשְׁתַּחֲוָה”,“hishtachavah”,“to bow down; worship”,“worship; bow down”,“Genesis 18:2”,“A physical act of prostration often expressing worship.”
+“Hebrew”,“הָלַל”,“halal”,“to praise”,“praise”,“Genesis 12:15”,“Root behind hallelujah in later usage.”
+“Hebrew”,“תְּהִלָּה”,“tehillah”,“praise”,“praise”,“Exodus 15:11”,“Noun often used in psalmic worship.”
+“Hebrew”,“יָדָה”,“yadah”,“to praise; give thanks; confess”,“praise; thank; confess”,“Genesis 29:35”,“Depending on stem, can denote thanksgiving or confession.”
+“Hebrew”,“תּוֹדָה”,“todah”,“thanksgiving; confession”,“thanksgiving; praise”,“Leviticus 7:12”,“Often a thanksgiving offering or expression.”
+“Hebrew”,“זָמַר”,“zamar”,“to sing praise; make music”,“sing praise”,“Judges 5:3”,“Music and praise term used especially in poetry.”
+“Hebrew”,“שִׁיר”,“shir”,“song; to sing”,“song; sing”,“Genesis 31:27”,“Noun and verb forms are common in worship and celebration.”
+“Hebrew”,“נָגַן”,“nagan”,“to play music”,“play; make melody”,“1 Samuel 16:16”,“Common for stringed-instrument performance.”
+“Hebrew”,“מִזְמוֹר”,“mizmor”,“psalm; song”,“psalm”,“Psalm 3:1”,“Term appearing in many psalm superscriptions.”
+“Hebrew”,“קָרָא”,“qara”,“to call; proclaim; read”,“call; proclaim; read”,“Genesis 1:5”,“Very broad term for naming, summoning, and proclamation.”
+“Hebrew”,“שׁוּב”,“shuv”,“to return; turn back”,“return; turn”,“Genesis 3:19”,“Core term for repentance, restoration, and physical return.”
+“Hebrew”,“נָחַם”,“nacham”,“to comfort; relent”,“comfort; repent”,“Genesis 5:29”,“Semantic range includes consolation and relenting.”
+“Hebrew”,“חָזַק”,“chazaq”,“to be strong; strengthen”,“be strong; strengthen”,“Genesis 19:16”,“Used for courage, force, and hardened resolve.”
+“Hebrew”,“אַמֵּץ”,“amets”,“to be strong; courageous”,“be strong; courage”,“Deuteronomy 31:6”,“Often paired with חזק in exhortations.”
+“Hebrew”,“גָּבַר”,“gavar”,“to prevail; be mighty”,“prevail; be mighty”,“Genesis 7:18”,“Conveys growing strength or dominance.”
+“Hebrew”,“יָכֹל”,“yakhol”,“to be able”,“be able; can”,“Genesis 13:6”,“Common modal verb for ability or capacity.”
+“Hebrew”,“נָפַל”,“nafal”,“to fall”,“fall”,“Genesis 14:10”,“Used literally, militarily, and spiritually.”
+“Hebrew”,“קוּם”,“qum”,“to arise; stand”,“arise; rise up”,“Genesis 4:8”,“Major verb for action, resurrection imagery, and establishment.”
+“Hebrew”,“יָשַׁב”,“yashav”,“to sit; dwell”,“sit; dwell; inhabit”,“Genesis 4:16”,“Used for enthronement, settlement, and habitation.”
+“Hebrew”,“שָׁכַן”,“shakhan”,“to dwell”,“dwell”,“Genesis 3:24”,“Related to divine dwelling and the later Shekinah concept.”
+“Hebrew”,“הָלַךְ”,“halakh”,“to walk; go”,“walk; go”,“Genesis 3:8”,“Used for literal movement and metaphorical conduct.”
+“Hebrew”,“בּוֹא”,“bo”,“to come; enter”,“come; go in”,“Genesis 6:18”,“A highly frequent motion verb.”
+“Hebrew”,“יָצָא”,“yatsa”,“to go out”,“go out; come out”,“Genesis 8:16”,“Important in exodus, warfare, and daily movement.”
+“Hebrew”,“עָלָה”,“alah”,“to go up; ascend”,“go up; ascend; offer”,“Genesis 13:1”,“Used for movement uphill, pilgrimage, and offerings.”
+“Hebrew”,“יָרַד”,“yarad”,“to go down; descend”,“go down”,“Genesis 11:5”,“Often geographical or metaphorical descent.”
+“Hebrew”,“לָקַח”,“laqach”,“to take”,“take”,“Genesis 2:15”,“Can imply receiving, seizing, marrying, or taking away.”
+“Hebrew”,“נָתַן”,“natan”,“to give”,“give”,“Genesis 1:17”,“Broad verb for giving, setting, appointing, and handing over.”
+“Hebrew”,“מָצָא”,“matsa”,“to find”,“find”,“Genesis 2:20”,“Used for discovery, encounter, and divine favor.”
+“Hebrew”,“בָּקַשׁ”,“baqash”,“to seek”,“seek”,“Genesis 37:15”,“Often used of seeking God, wisdom, or someone’s life.”
+“Hebrew”,“דָּרַשׁ”,“darash”,“to seek; inquire”,“seek; inquire”,“Genesis 25:22”,“Frequently used of consulting the LORD.”
+“Hebrew”,“פָּקַד”,“paqad”,“to attend; appoint; visit”,“visit; appoint; number”,“Genesis 21:1”,“Context determines whether for blessing, judgment, or administration.”
+“Hebrew”,“רָאָה”,“ra’ah”,“to see”,“see”,“Genesis 1:4”,“Can imply perception, provision, or concern.”
+“Hebrew”,“נָבַט”,“nabat”,“to look”,“look”,“Genesis 15:5”,“Often emphasizes attentive looking.”
+“Hebrew”,“חָמַל”,“chamal”,“to spare; pity”,“spare; pity”,“Genesis 45:20”,“Used for compassion or withholding destruction.”
+“Hebrew”,“רִחַם”,“richam”,“to have compassion”,“have mercy; compassion”,“Genesis 43:30”,“Intense compassionate feeling, often divine.”
+“Hebrew”,“יָסַף”,“yasaf”,“to add; continue”,“add; increase; again”,“Genesis 4:2”,“Common auxiliary-like verb meaning continue or do again.”
+“Hebrew”,“רָבָה”,“ravah”,“to become many; increase”,“multiply; increase”,“Genesis 1:22”,“Key creation and covenant multiplication term.”
+“Hebrew”,“פָּרָה”,“parah”,“to be fruitful”,“be fruitful”,“Genesis 1:22”,“Closely paired with multiplication in blessing formulas.”
+“Hebrew”,“מָלֵא”,“male”,“to fill; be full”,“fill; full”,“Genesis 1:22”,“Used literally and figuratively for fullness.”
+“Hebrew”,“חָסֵר”,“chaser”,“to lack”,“lack; want”,“Genesis 8:3”,“Can denote deficiency or diminution.”
+“Hebrew”,“עָנָה”,“anah”,“to answer; respond”,“answer”,“Genesis 18:27”,“One of several roots spelled this way; this one means respond.”
+“Hebrew”,“צָעַק”,“tsa’aq”,“to cry out”,“cry out”,“Genesis 4:10”,“Often used for cries for justice or distress.”
+“Hebrew”,“זָעַק”,“za’aq”,“to cry out”,“cry”,“Exodus 2:23”,“Near-synonym of צעק in distress contexts.”
+“Hebrew”,“בָּכָה”,“bakhah”,“to weep”,“weep; cry”,“Genesis 21:16”,“Common verb of grief and intense feeling.”
+“Hebrew”,“צָחַק”,“tsachaq”,“to laugh”,“laugh”,“Genesis 17:17”,“Used for joy, disbelief, and mockery.”
+“Hebrew”,“שָׂמַח”,“samach”,“to rejoice”,“rejoice; be glad”,“Leviticus 23:40”,“Joy term with celebratory and covenantal resonance.”
+“Hebrew”,“גִּיל”,“gil”,“to rejoice; exult”,“rejoice; be glad”,“Psalm 2:11”,“Often poetic and exuberant.”
+“Hebrew”,“יָגָה”,“yagah”,“to grieve; sorrow”,“grieve”,“Lamentations 1:4”,“Poetic term for grief and affliction.”
+“Hebrew”,“עָנִי”,“ani”,“poor; afflicted”,“poor; afflicted”,“Exodus 22:25”,“Often the oppressed person needing justice.”
+“Hebrew”,“עָנָו”,“anav”,“humble; meek”,“meek; humble”,“Numbers 12:3”,“Important virtue term in later theology.”
+“Hebrew”,“גֵּר”,“ger”,“sojourner; resident alien”,“stranger; sojourner”,“Genesis 15:13”,“Protected outsider under Israelite law.”
+“Hebrew”,“יָתוֹם”,“yatom”,“orphan; fatherless”,“fatherless”,“Exodus 22:22”,“One of the classic vulnerable groups in Torah.”
+“Hebrew”,“אַלְמָנָה”,“almanah”,“widow”,“widow”,“Genesis 38:11”,“Another key vulnerable class under divine concern.”
+“Hebrew”,“דַּל”,“dal”,“low; poor”,“poor”,“Exodus 23:3”,“Often paired with justice concerns.”
+“Hebrew”,“אֶבְיוֹן”,“evyon”,“needy”,“needy; poor”,“Deuteronomy 15:4”,“Highlights socioeconomic vulnerability.”
+“Hebrew”,“עֹשֶׁק”,“osheq”,“oppression; extortion”,“oppression”,“Leviticus 6:2”,“Often used for unjust exploitation.”
+“Hebrew”,“גָּזַל”,“gazal”,“to rob; plunder”,“rob; spoil”,“Genesis 21:25”,“Can refer to theft, seizure, or violent taking.”
+“Hebrew”,“חָמָס”,“chamas”,“violence; wrong”,“violence”,“Genesis 6:11”,“Important term for corrupt social brutality.”
+“Hebrew”,“שֶׁקֶר”,“sheqer”,“falsehood; lie”,“lie; falsehood”,“Exodus 5:9”,“Moral and legal term for deception.”
+“Hebrew”,“כָּזָב”,“kazav”,“lie; deception”,“lie; falsehood”,“Leviticus 19:11”,“Near-synonym of שקר, often poetic.”
+“Hebrew”,“אֱמֶת”,“emet”,“truth; faithfulness”,“truth”,“Genesis 24:27”,“A covenantally rich term for reliability and truth.”
+“Hebrew”,“יָשָׁר”,“yashar”,“upright; straight”,“upright; right”,“Exodus 15:26”,“Moral and directional term for straightness and rectitude.”
+“Hebrew”,“תֹּם”,“tom”,“integrity; completeness”,“integrity; perfection”,“Genesis 20:5”,“Often paired with moral blamelessness.”
+“Hebrew”,“עָקֵב”,“aqev”,“heel; עקב”,“heel”,“Genesis 3:15”,“Appears in the Jacob narrative by wordplay and in key texts.”
+“Hebrew”,“זְרוֹעַ”,“zeroa”,“arm”,“arm”,“Genesis 49:24”,“A symbol of strength, especially divine power.”
+“Hebrew”,“יָד”,“yad”,“hand”,“hand”,“Genesis 3:22”,“One of the most frequent body-part metaphors for power and agency.”
+“Hebrew”,“פֶּה”,“peh”,“mouth”,“mouth”,“Genesis 4:11”,“Literal and figurative for speech or opening.”
+“Hebrew”,“לָשׁוֹן”,“lashon”,“tongue; language”,“tongue; language”,“Genesis 10:5”,“Used for speech organ and language group.”
+“Hebrew”,“עַיִן”,“ayin”,“eye; spring”,“eye; fountain”,“Genesis 3:6”,“Can mean eye literally or spring/source by metaphor.”
+“Hebrew”,“אֹזֶן”,“ozen”,“ear”,“ear”,“Genesis 20:8”,“Hearing organ and metaphor for obedience.”
+“Hebrew”,“רֹאשׁ”,“rosh”,“head; chief”,“head; chief; beginning”,“Genesis 2:10”,“Used for body part, leader, summit, or starting point.”
+“Hebrew”,“לֵבָב”,“levav”,“heart”,“heart”,“Genesis 6:5”,“Poetic/full form of לב.”
+“Hebrew”,“גֶּבֶר”,“gever”,“man; strong man”,“man”,“Exodus 10:11”,“Often emphasizes male strength or adulthood.”
+“Hebrew”,“אֱנוֹשׁ”,“enosh”,“man; mortal”,“man; mortal”,“Genesis 4:26”,“Stresses humanness and frailty.”
+“Hebrew”,“גּוּף”,“guf”,“body”,“body”,“Daniel 3:27”,“Rare biblical term, more common in later Hebrew.”
+“Hebrew”,“פָּרַץ”,“parats”,“to break through; burst out”,“break forth”,“Genesis 28:14”,“Used for expansion, breach, and sudden increase.”
+“Hebrew”,“שָׁחַת”,“shachat”,“to ruin; destroy; corrupt”,“destroy; corrupt”,“Genesis 6:12”,“Can refer to corruption or physical destruction.”
+“Hebrew”,“אָבַד”,“avad”,“to perish; destroy”,“perish; destroy”,“Genesis 19:13”,“A key judgment and loss term.”
+“Hebrew”,“מוּת”,“mut”,“to die”,“die”,“Genesis 2:17”,“Core mortality verb, also in death-penalty formulas.”
+“Hebrew”,“חָיָה”,“chayah”,“to live”,“live”,“Genesis 3:20”,“Verb for life, revival, and sustaining.”
+“Hebrew”,“נָשָׂא”,“nasa”,“to lift; bear; forgive”,“lift up; bear; forgive”,“Genesis 4:13”,“A broad verb including bearing guilt and forgiving sin.”
+“Hebrew”,“סָבַל”,“saval”,“to bear a load”,“bear”,“Genesis 49:15”,“Burden-bearing term with physical and metaphorical uses.”
+“Hebrew”,“יָגַע”,“yaga”,“to toil; grow weary”,“labor; weary”,“Genesis 19:11”,“Used for fatigue and fruitless struggle.”
+“Hebrew”,“מְנוּחָה”,“menuchah”,“resting place; rest”,“rest”,“Genesis 49:15”,“Rest as settled repose or inheritance.”
+“Hebrew”,“נוּחַ”,“nuach”,“to rest; settle”,“rest”,“Genesis 8:4”,“Basis of Noah’s name in wordplay and rest theology.”
+“Hebrew”,“נֶחָמָה”,“nechamah”,“comfort”,“comfort”,“Genesis 5:29”,“Related to consolation and relief.”
+“Hebrew”,“צָרָה”,“tsarah”,“distress; trouble”,“trouble; distress”,“Genesis 35:3”,“A common term for adversity from which God delivers.”
+“Hebrew”,“לָחַץ”,“lachats”,“to oppress; press”,“oppress”,“Exodus 3:9”,“Pressure imagery behind oppression language.”
+“Hebrew”,“נָגַף”,“nagaph”,“to strike; smite”,“smite; plague”,“Exodus 12:23”,“Frequently used in judgment or military defeat.”
+“Hebrew”,“מַכָּה”,“makkah”,“blow; plague”,“plague; stroke”,“Exodus 9:14”,“Term for inflicted blow, wound, or plague.”
+“Hebrew”,“רָפָא”,“rapha”,“to heal”,“heal”,“Genesis 20:17”,“Used physically, spiritually, and nationally.”
+“Hebrew”,“מַרְפֵּא”,“marpe”,“healing; remedy”,“health; healing”,“Proverbs 3:8”,“Noun for healing or cure.”
+“Hebrew”,“חֹלִי”,“choli”,“sickness”,“sickness; disease”,“Deuteronomy 7:15”,“Used for physical affliction.”
+“Hebrew”,“נֶגַע”,“nega”,“affliction; plague; mark”,“plague; sore”,“Genesis 12:17”,“Wide range from disease to struck affliction.”
+“Hebrew”,“יָרֵךְ”,“yarekh”,“thigh”,“thigh”,“Genesis 24:2”,“Body term appearing in oath and battle imagery.”
+“Hebrew”,“כֶּתֶף”,“ketef”,“shoulder”,“shoulder”,“Genesis 9:23”,“Used literally and for bearing burdens.”
+“Hebrew”,“צַוָּאר”,“tsavvar”,“neck”,“neck”,“Genesis 27:16”,“Image for obstinacy, ornamentation, or embrace.”
+“Hebrew”,“עֶצֶם”,“etsem”,“bone; essence; selfsame”,“bone; body; selfsame”,“Genesis 2:23”,“Can refer literally to bone or emphatically to the selfsame day.”
+“Hebrew”,“חָדָשׁ”,“chadash”,“new”,“new”,“Exodus 1:8”,“Important for covenant renewal and future hope.”
+“Hebrew”,“רִאשׁוֹן”,“rishon”,“first; former”,“first; former”,“Genesis 8:13”,“Can mean first in sequence or former in time.”
+“Hebrew”,“אַחֲרוֹן”,“acharón”,“last; latter”,“last; latter”,“Numbers 2:31”,“Contrasts with former or first.”
+“Hebrew”,“קָטָן”,“qatan”,“small; little; young”,“small; little; least”,“Genesis 1:16”,“Used of size, age, and status.”
+“Hebrew”,“גָּדוֹל”,“gadol”,“great; large”,“great; large”,“Genesis 1:16”,“Common term for greatness, size, and rank.”
+“Hebrew”,“רֹב”,“rov”,“multitude; abundance”,“multitude; abundance”,“Genesis 16:10”,“Used for quantity, multitude, and greatness.”
+“Hebrew”,“מְעַט”,“me’at”,“little; few”,“little; few”,“Genesis 30:30”,“A term of smallness or insufficiency.”
+“Hebrew”,“כֹּל”,“kol”,“all; every; whole”,“all; every”,“Genesis 1:21”,“One of the most frequent quantifying words.”
+“Hebrew”,“אַחַד”,“echad”,“one”,“one”,“Genesis 1:5”,“Can denote singularity, unity, or firstness in sequence.”
+“Hebrew”,“שְׁנַיִם”,“shenayim”,“two”,“two”,“Genesis 1:16”,“Basic numeral, important in witness and pair contexts.”
+“Hebrew”,“שָׁלוֹשׁ”,“shalosh”,“three”,“three”,“Genesis 6:10”,“Common numeral with symbolic and narrative significance.”
+“Hebrew”,“שֶׁבַע”,“sheva”,“seven”,“seven”,“Genesis 2:2”,“A key number associated with completion and oath language.”
+“Hebrew”,“עֶשֶׂר”,“eser”,“ten”,“ten”,“Genesis 18:32”,“Basic numeral, also associated with completeness and commandments.”
+“Hebrew”,“מֵאָה”,“me’ah”,“hundred”,“hundred”,“Genesis 5:3”,“Common counting term in narrative and law.”
+“Hebrew”,“אֶלֶף”,“elef”,“thousand; clan unit”,“thousand”,“Genesis 20:16”,“Can mean literal thousand or a social unit depending on context.”
+“Hebrew”,“יָמִין”,“yamin”,“right hand; south”,“right hand; right”,“Genesis 13:9”,“Often a symbol of strength, favor, or direction.”
+“Hebrew”,“שְׂמֹאל”,“semol”,“left”,“left”,“Genesis 13:9”,“Directional counterpart to right.”
+“Hebrew”,“קֶדֶם”,“qedem”,“east; antiquity”,“east; ancient time”,“Genesis 2:8”,“Spatial and temporal term for east or ancient past.”
+“Hebrew”,“יָם”,“yam”,“west; sea”,“sea; west”,“Genesis 12:8”,“By orientation from the land of Israel, sea can imply west.”
+“Hebrew”,“צָפוֹן”,“tsafon”,“north”,“north”,“Genesis 13:14”,“Directional and symbolic term.”
+“Hebrew”,“נֶגֶב”,“negev”,“south; dry land”,“south”,“Genesis 12:9”,“Geographical southland region and direction.”
+“Hebrew”,“מָקוֹם”,“maqom”,“place”,“place”,“Genesis 1:9”,“Common term for location, sometimes reverentially for God’s place.”
+“Hebrew”,“חָצֵר”,“chatser”,“court; enclosure; village”,“court; village”,“Genesis 25:16”,“Can refer to encampment, village, or courtyard.”
+“Hebrew”,“שָׂדֶה”,“sadeh”,“field”,“field”,“Genesis 2:5”,“Agricultural, pastoral, and burial term.”
+“Hebrew”,“כֶּרֶם”,“kerem”,“vineyard”,“vineyard”,“Genesis 9:20”,“Significant in blessing, judgment, and prophetic imagery.”
+“Hebrew”,“יַיִן”,“yayin”,“wine”,“wine”,“Genesis 9:21”,“Common beverage term with festal and moral associations.”
+“Hebrew”,“שֶׁמֶן”,“shemen”,“oil”,“oil”,“Genesis 28:18”,“Important in food, light, medicine, and anointing.”
+“Hebrew”,“דְּבַשׁ”,“devash”,“honey”,“honey”,“Genesis 43:11”,“Used literally and in land-of-promise imagery.”
+“Hebrew”,“חָלָב”,“chalav”,“milk”,“milk”,“Genesis 18:8”,“A staple food and symbol of abundance.”
+“Hebrew”,“מֶלַח”,“melach”,“salt”,“salt”,“Genesis 14:3”,“Associated with preservation, covenant, and barrenness.”
+“Hebrew”,“אָבֶן”,“even”,“stone”,“stone”,“Genesis 2:12”,“Used literally and in memorial, temple, and messianic imagery.”
+“Hebrew”,“צוּר”,“tsur”,“rock”,“rock”,“Exodus 17:6”,“Used for literal rock and as a divine title in poetry.”
+“Hebrew”,“סֶלַע”,“sela”,“crag; rock”,“rock”,“Numbers 20:8”,“Often a rocky cliff or crag.”
+“Hebrew”,“עָפָר”,“afar”,“dust”,“dust”,“Genesis 2:7”,“Connected with mortality, humiliation, and creation.”
+“Hebrew”,“חוֹל”,“chol”,“sand”,“sand”,“Genesis 22:17”,“Image for innumerable descendants.”
+“Hebrew”,“זָהָב”,“zahav”,“gold”,“gold”,“Genesis 2:11”,“Important for wealth, tabernacle, and idolatry polemics.”
+“Hebrew”,“כֶּסֶף”,“kesef”,“silver; money”,“silver; money”,“Genesis 13:2”,“Common monetary and metal term.”
+“Hebrew”,“נְחֹשֶׁת”,“nechoshet”,“bronze; copper”,“brass; bronze”,“Genesis 4:22”,“Metal term often rendered ‘brass’ in older English.”
+“Hebrew”,“בַּרְזֶל”,“barzel”,“iron”,“iron”,“Genesis 4:22”,“Associated with strength, tools, and harsh oppression.”
+“Hebrew”,“חֶרֶב”,“cherev”,“sword”,“sword”,“Genesis 3:24”,“A frequent war and judgment symbol.”
+“Hebrew”,“קֶשֶׁת”,“qeshet”,“bow”,“bow”,“Genesis 9:13”,“Weapon term and also the rainbow sign in context.”
+“Hebrew”,“חֵץ”,“chets”,“arrow”,“arrow”,“Genesis 21:16”,“Projectile term also used metaphorically.”
+“Hebrew”,“מָגֵן”,“magen”,“shield”,“shield”,“Genesis 15:1”,“A central military and theological protection image.”
+“Hebrew”,“חֲנִית”,“chanit”,“spear”,“spear”,“1 Samuel 17:7”,“Common weapon term in historical books.”
+“Hebrew”,“צְבָאֹות”,“tseva’ot”,“hosts; armies”,“hosts”,“1 Samuel 1:3”,“Often in the divine title YHWH of hosts.”
+“Hebrew”,“מִלְחָמָה”,“milchamah”,“war; battle”,“war; battle”,“Exodus 1:10”,“Used for human war and the LORD’s warfare.”
+“Hebrew”,“לָחַם”,“lacham”,“to fight; wage war”,“fight”,“Exodus 14:14”,“Verb for battle, also a different root in noun bread.”
+“Hebrew”,“שָׁלַל”,“shalal”,“spoil; plunder”,“spoil”,“Genesis 49:27”,“Used for booty after victory.”
+“Hebrew”,“נָס”,“nas”,“banner; signal pole”,“ensign; banner”,“Exodus 17:15”,“Related to rallying and public signal imagery.”
+“Hebrew”,“פַּחַד”,“pachad”,“fear; dread”,“fear; dread”,“Genesis 31:42”,“Strong fear term, sometimes a divine epithet in Jacob’s speech.”
+“Hebrew”,“אֵימָה”,“eimah”,“terror”,“terror; dread”,“Genesis 15:12”,“Intense fear or horror.”
+“Hebrew”,“בֶּטַח”,“betach”,“security; safely”,“safely; secure”,“Genesis 34:25”,“Expresses confidence or safety.”
+“Hebrew”,“מַחֲסֶה”,“machaseh”,“refuge”,“refuge”,“Deuteronomy 33:27”,“A frequent poetic image for God as shelter.”
+“Hebrew”,“צוּם”,“tsum”,“to fast”,“fast”,“Judges 20:26”,“Important for repentance, mourning, and seeking God.”
+“Hebrew”,“תְּפִלָּה”,“tefillah”,“prayer”,“prayer”,“1 Kings 8:28”,“A central worship and piety term.”
+“Hebrew”,“פָּלַל”,“palal”,“to pray; intercede”,“pray”,“Genesis 20:7”,“Verb behind prayer, often intercessory.”
+“Hebrew”,“חָנֵף”,“chanef”,“to be profane; godless”,“hypocrite; profane”,“Job 8:13”,“Used for impiety and moral pollution.”
+“Hebrew”,“טָמֵא”,“tame”,“unclean”,“unclean”,“Genesis 7:2”,“Cultic impurity term with broad practical consequences.”
+“Hebrew”,“טָהוֹר”,“tahor”,“clean; pure”,“clean; pure”,“Genesis 7:2”,“Cultic and moral purity term.”
+“Hebrew”,“טָהֵר”,“taher”,“to cleanse; be pure”,“cleanse; purify”,“Leviticus 14:7”,“Verb for purification rites and moral cleansing.”
+“Hebrew”,“קָנָא”,“qana”,“to be jealous; zealous”,“jealous; zealous”,“Genesis 30:1”,“Can express sinful envy or righteous zeal.”
+“Hebrew”,“קִנְאָה”,“qin’ah”,“jealousy; zeal”,“jealousy; zeal”,“Numbers 5:14”,“Used for divine zeal and human jealousy.”
+“Hebrew”,“חָטָא”,“chata”,“to sin; miss the mark”,“sin”,“Genesis 20:6”,“Basic verb of sin and guilt.”
+“Hebrew”,“זָכָה”,“zakhah”,“to be clean; innocent”,“be pure; innocent”,“Genesis 44:10”,“Used for acquittal or purity.”
+“Hebrew”,“נָקָה”,“naqah”,“to be clean; free from guilt”,“be guiltless; cleanse”,“Exodus 20:7”,“Often used in legal acquittal or non-acquittal formulas.”
+“Hebrew”,“רִיב”,“riv”,“to contend; dispute”,“strive; contend”,“Genesis 13:7”,“Used in legal controversy and covenant lawsuit imagery.”
+“Hebrew”,“גָּעַר”,“ga’ar”,“to rebuke”,“rebuke”,“Genesis 37:10”,“Strong word for authoritative reprimand.”
+“Hebrew”,“הוֹכִיחַ”,“hokhiach”,“to reprove; decide; correct”,“reprove; rebuke”,“Genesis 20:16”,“Legal and wisdom term for correction or deciding.”
+“Hebrew”,“מוּסָר”,“musar”,“discipline; correction”,“instruction; chastening”,“Deuteronomy 11:2”,“A major wisdom term for formative discipline.”
+“Hebrew”,“לָמַד”,“lamad”,“to learn; teach”,“learn; teach”,“Deuteronomy 4:1”,“Core educational verb in covenant formation.”
+“Hebrew”,“יָסַר”,“yasar”,“to chasten; discipline”,“chasten; instruct”,“Leviticus 26:18”,“Used of parental and divine correction.”
+“Hebrew”,“חָפֵץ”,“chafets”,“to delight in; desire”,“delight; desire”,“Genesis 34:19”,“Used of pleasure, will, and divine delight.”
+“Hebrew”,“רָצוֹן”,“ratson”,“favor; goodwill; acceptance”,“favor; pleasure”,“Genesis 49:6”,“Can indicate favorable will or acceptable status.”
+“Hebrew”,“עֵצָה”,“etsah”,“counsel; plan”,“counsel”,“Exodus 18:19”,“Wisdom and divine-plan term.”
+“Hebrew”,“יָעַץ”,“ya’ats”,“to counsel; advise”,“counsel”,“Exodus 18:19”,“Verb for giving advice or forming a plan.”
+“Hebrew”,“מַחֲשָׁבָה”,“machashavah”,“thought; plan”,“thought; device; plan”,“Genesis 6:5”,“Can denote thought, design, or intention.”
+“Hebrew”,“חָשַׁב”,“chashav”,“to think; reckon; plan”,“think; devise; account”,“Genesis 15:6”,“Used for accounting, weaving skill, and planning.”
+“Hebrew”,“יָצַע”,“yatsa”,“to spread out”,“spread”,“Genesis 9:21”,“Used literally for stretching or spreading.”
+“Hebrew”,“סָפַר”,“safar”,“to count; recount”,“count; tell”,“Genesis 15:5”,“Used for numbering and narrating.”
+“Hebrew”,“סֵפֶר”,“sefer”,“book; scroll; document”,“book; bill; scroll”,“Genesis 5:1”,“Written record term of lasting importance.”
+“Hebrew”,“כָּתַב”,“katav”,“to write”,“write”,“Exodus 17:14”,“Basic writing verb in law and history.”
+“Hebrew”,“מִכְתָּב”,“mikhtav”,“writing; written document”,“writing”,“Exodus 32:16”,“Noun for written form or document.”
+“Hebrew”,“פָּתַח”,“patach”,“to open”,“open”,“Genesis 4:11”,“Used literally and metaphorically for womb, mouth, ears, heaven.”
+“Hebrew”,“סָגַר”,“sagar”,“to shut”,“shut; close”,“Genesis 2:21”,“Opposite of opening; common in judgment and protection scenes.”
+“Hebrew”,“חָתַם”,“chatam”,“to seal”,“seal”,“Genesis 38:18”,“Used for sealing documents, certainty, and concealment.”
+“Hebrew”,“אוֹת”,“ot”,“sign; mark”,“sign; token”,“Genesis 1:14”,“Used for miraculous signs, covenant tokens, and symbolic markers.”
+“Hebrew”,“מוֹפֵת”,“mofet”,“wonder; portent”,“wonder; sign”,“Exodus 4:21”,“Often paired with signs in Exodus tradition.”
+“Hebrew”,“פֶּלֶא”,“pele”,“wonder; marvel”,“wonderful; miracle”,“Exodus 15:11”,“Conveys something extraordinary or incomprehensible.”
+“Hebrew”,“חָדַל”,“chadal”,“to cease; desist”,“cease; leave off”,“Genesis 11:8”,“Stopping or refraining term.”
+“Hebrew”,“עָצַר”,“atsar”,“to restrain; shut up”,“restrain; withhold”,“Genesis 16:2”,“Used for God withholding rain or womb-opening.”
+“Hebrew”,“פָּתַח רֶחֶם”,“petach rechem”,“opening of the womb”,“openeth the womb”,“Exodus 13:2”,“Technical phrase for the firstborn issue of the womb.”
+“Hebrew”,“רֶחֶם”,“rechem”,“womb”,“womb”,“Genesis 20:18”,“Source imagery behind compassion terms.”
+“Hebrew”,“יַלַד”,“yalad”,“to bear; beget”,“bear; bring forth; beget”,“Genesis 4:18”,“Standard birth verb for mothers and fathers in genealogies.”
+“Hebrew”,“הָרָה”,“harah”,“to conceive”,“conceive”,“Genesis 4:1”,“A key fertility and birth term.”
+“Hebrew”,“פָּרַשׂ”,“paras”,“to spread; separate”,“spread; divide”,“Genesis 30:40”,“Literal and cultic separation term.”
+“Hebrew”,“בָּדַל”,“badal”,“to divide; separate”,“divide; separate”,“Genesis 1:4”,“Creation and holiness term of distinction.”
+“Hebrew”,“קָהָל”,“qahal”,“assembly”,“assembly; congregation”,“Genesis 28:3”,“A gathered community term, especially covenantal.”
+“Hebrew”,“עֵדָה”,“edah”,“congregation; company”,“congregation”,“Exodus 12:3”,“Corporate term for the community of Israel.”
+“Hebrew”,“זָכַר”,“zakhar (male)”,“male”,“male”,“Genesis 1:27”,“Adjectival/noun use meaning male sex.”
+“Hebrew”,“נְקֵבָה”,“neqevah”,“female”,“female”,“Genesis 1:27”,“Counterpart to male in creation language.”
+“Hebrew”,“מַלְכוּת”,“malkut”,“kingship; kingdom”,“kingdom; royal power”,“Numbers 24:7”,“Abstract noun for royal dominion.”
+“Hebrew”,“חֶבֶל”,“chevel”,“cord; region; sorrow”,“line; lot; sorrow”,“Genesis 30:13”,“A varied term for measuring line, territory, or pain.”
+“Hebrew”,“גּוֹרָל”,“goral”,“lot”,“lot”,“Leviticus 16:8”,“Important for apportionment and divine decision.”
+“Hebrew”,“פָּנָה”,“panah”,“to turn”,“turn”,“Genesis 18:22”,“Literal and figurative turning term.”
+“Hebrew”,“נָסָה”,“nasah”,“to test; try”,“tempt; prove; test”,“Genesis 22:1”,“Used of divine testing and human tempting.”
+“Hebrew”,“בָּחַן”,“bachan”,“to test; examine”,“try; examine”,“Psalm 7:9”,“Often of God examining hearts.”
+“Hebrew”,“צָרַף”,“tsaraf”,“to refine; smelt”,“refine; try”,“Genesis 20:16”,“Used for metals and metaphorically for tested words or people.”
+“Hebrew”,“בָּטַח”,“batach”,“to trust; feel secure”,“trust”,“Judges 18:7”,“Confidence term often directed toward God or false securities.”
+“Hebrew”,“חָסָה”,“chasah”,“to seek refuge”,“trust; take refuge”,“Deuteronomy 32:37”,“Often describes taking refuge in God.”
+“Hebrew”,“קָוָה”,“qavah”,“to wait; hope”,“wait; hope”,“Genesis 1:9”,“Elsewhere a major hope term though this first use is from a different sense/etymology in some analyses.”
+“Hebrew”,“יָחַל”,“yachal”,“to wait; hope”,“hope; wait”,“Genesis 8:10”,“Patient expectation term in lament and trust.”
+“Hebrew”,“תִּקְוָה”,“tiqvah”,“hope; cord”,“hope”,“Joshua 2:18”,“Used for expectation and also a literal cord in narrative.”
+“Hebrew”,“בּוֹשׁ”,“bosh”,“to be ashamed”,“be ashamed”,“Genesis 2:25”,“A major covenant and honor-shame term.”
+“Hebrew”,“חֶרְפָּה”,“cherpah”,“reproach; disgrace”,“reproach; shame”,“Genesis 30:23”,“Often a social disgrace removed by divine intervention.”
+“Hebrew”,“פָּאַר”,“pa’ar”,“to glorify; beautify”,“glorify; beautify”,“Exodus 8:9”,“Used of honor and adornment, especially in Isaiah.”
+“Hebrew”,“יֹפִי”,“yofi”,“beauty”,“beauty”,“Ezekiel 16:14”,“Noun for beauty and splendor.”
+“Hebrew”,“נֹעַם”,“no’am”,“pleasantness; favor”,“beauty; pleasantness”,“Genesis 49:15”,“Can denote pleasantness, delight, or gracious beauty.”
+“Hebrew”,“חֶרֶס”,“cheres”,“sun; earthenware”,“sun; potsherd”,“Judges 14:18”,“Context determines sense; rare and varied term.”
+“Hebrew”,“תָּמַךְ”,“tamak”,“to support; uphold”,“uphold”,“Genesis 48:17”,“A support and sustaining term.”
+“Hebrew”,“סָעַד”,“sa’ad”,“to support; sustain”,“stay; sustain”,“Genesis 18:5”,“Often of sustaining with food or divine support.”
+“Hebrew”,“פָּרַק”,“paraq”,“to break off; tear away”,“break off”,“Genesis 27:40”,“Used for removing burdens or ornaments.”
+“Hebrew”,“עָמַד”,“amad”,“to stand”,“stand”,“Genesis 18:8”,“Standing implies readiness, endurance, or appearance before God.”
+“Hebrew”,“יָצַב”,“yatsav”,“to stand firm; station oneself”,“stand; set”,“Genesis 18:2”,“Often for positioning oneself or something.”
+“Hebrew”,“מָשַׁל”,“mashal”,“to rule; speak proverb”,“rule”,“Genesis 1:18”,“A different noun form gives proverb; the verb here is dominion.”
+“Hebrew”,“מָשָׁל”,“mashal (noun)”,“proverb; parable”,“proverb; parable”,“Numbers 21:27”,“Wisdom and poetic comparison term.”
+“Hebrew”,“חִידָה”,“chidah”,“riddle; dark saying”,“riddle; hard question”,“Judges 14:12”,“Used in wisdom and poetic discourse.”
+“Hebrew”,“פִּתְגָם”,“pitgam”,“edict; decree; word”,“decree; sentence”,“Ecclesiastes 8:11”,“Loanword used especially in later biblical books.”
+“Hebrew”,“תָּוֶךְ”,“tavekh”,“midst; middle”,“midst”,“Genesis 1:6”,“Frequent relational term for being among or within.”
+“Hebrew”,“סָבִיב”,“saviv”,“around; surrounding”,“round about”,“Genesis 23:17”,“Preposition/adverb for surrounding space.”
+“Hebrew”,“תַּחַת”,“tachat”,“under; instead of”,“under; instead of”,“Genesis 1:7”,“Spatial and substitutionary term.”
+“Hebrew”,“מִן”,“min”,“from”,“from; of”,“Genesis 1:11”,“Preposition of source, separation, or partitive relation.”
+“Hebrew”,“אֶל”,“el”,“to; toward”,“to; unto”,“Genesis 1:9”,“Direction marker preposition.”
+“Hebrew”,“עִם”,“im”,“with”,“with”,“Genesis 3:8”,“Associative preposition of accompaniment.”
+“Hebrew”,“לְ”,“le”,“to; for; belonging to”,“to; for”,“Genesis 1:14”,“Very common preposition/prefix with broad functions.”
+“Hebrew”,“כְּ”,“ke”,“as; like”,“as; like”,“Genesis 1:26”,“Comparative preposition/prefix.”
+“Hebrew”,“אַחַר”,“achar”,“after; behind”,“after”,“Genesis 5:4”,“Temporal and spatial after-ness term.”
+“Hebrew”,“לִפְנֵי”,“lifnei”,“before; in the presence of”,“before”,“Genesis 6:11”,“Literally ‘to the face of’; common prepositional form.”
+“Hebrew”,“פֶּן”,“pen”,“lest”,“lest”,“Genesis 3:22”,“Negative purpose particle.”
+“Hebrew”,“בַּעֲבוּר”,“ba’avur”,“for the sake of; because of”,“for; because”,“Genesis 3:17”,“Motivational/causal expression.”
+“Hebrew”,“יַעַן”,“ya’an”,“because”,“because”,“Numbers 20:12”,“Causal conjunction often in divine speeches.”
+"Hebrew","נָשָׂא","nasa","to lift; carry; bear","lift up; bear; carry","Genesis 4:13","Its sound closely resembles the English name NASA; this is an ironic English sound-alike only, not an etymological connection."
+"Hebrew","חָמָס","chamas","violence; wrongdoing; injustice","violence; wrong","Genesis 6:11","Its sound closely resembles the modern name Hamas; the resemblance is striking in English, while the Hebrew word itself literally denotes violence or wrongdoing."
+"Hebrew","אָלָה","alah","oath-curse; imprecation; curse","curse; oath","Genesis 24:41","Its sound closely resembles the English rendering Allah; this is only a phonetic resemblance in English, while the Hebrew term refers to an oath-curse or imprecation."
+"Hebrew","כָּבֵד","kaved","heavy; weighty; honored","heavy; grievous; weighty","Genesis 18:20","Its sound resembles the English word caved; this is a sound coincidence only, while the Hebrew root conveys heaviness, severity, or honor depending on context."
+"Hebrew","יֵשׁ","yesh","there is; there exists","there is","Genesis 24:23","Its sound is close to the English word yes, though the Hebrew particle actually expresses existence rather than agreement."
+"Hebrew","כֵּן","ken","so; thus; right; yes","so; thus; yes","Genesis 1:7","Its sound matches the English name Ken; the resemblance is coincidental, while the Hebrew word means so, thus, right, or yes."

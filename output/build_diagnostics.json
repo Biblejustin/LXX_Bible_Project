@@ -1,0 +1,42 @@
+{
+  "brenton": {
+    "books_seen": 58,
+    "footnotes_extracted": 2542
+  },
+  "ukjv": {
+    "books_seen": 27
+  },
+  "kalvesmaki_csv": {
+    "rows": 4,
+    "usable_rows": 3
+  },
+  "kalvesmaki_html": {
+    "rows": 191,
+    "usable_rows": 189
+  },
+  "openbible_crossrefs": {
+    "archive_present": true,
+    "license": "CC-BY 2026-04-06 via openbible.info",
+    "rows": 344799,
+    "usable_rows": 341316,
+    "verses_with_refs": 29318
+  },
+  "hebrew_vocab_footnotes_loaded": 439,
+  "greek_vocab_footnotes_loaded": 316,
+  "name_meaning_footnotes_added": 124,
+  "tsk": {
+    "archive_present": true,
+    "status": "unparsed",
+    "reason": "Supplied TSK file is a CrossWire binary module (zcom). A structured CSV/JSON/OSIS export is still needed for full automated import in this prototype.",
+    "members": [
+      "mods.d/tsk.conf",
+      "modules/comments/zcom/tsk/nt.bzv",
+      "modules/comments/zcom/tsk/nt.bzs",
+      "modules/comments/zcom/tsk/ot.bzs",
+      "modules/comments/zcom/tsk/nt.bzz",
+      "modules/comments/zcom/tsk/ot.bzv",
+      "modules/comments/zcom/tsk/ot.bzz"
+    ]
+  },
+  "total_records": 36646
+}
