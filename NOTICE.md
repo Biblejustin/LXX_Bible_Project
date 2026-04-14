@@ -6,8 +6,8 @@ This repository contains mixed public-domain and separately-noticed material.
 
 - Brenton Septuagint 1851 English translation: public domain.
 - LXX2012 / Septuagint in English 2012: public domain.
-- Updated King James Version (UKJV): public domain. Requested credit line in
-  distribution: `I love Jesus (UKJV)`.
+- Updated King James Version (UKJV): public domain. Credit line included here
+  as requested and gladly given: `I love Jesus (UKJV)`.
 - Treasury of Scripture Knowledge (TSK): treated here as public-domain source
   apparatus via CrossWire module distribution.
 - R. H. Charles, *The Book of Enoch* (1917): public domain in the United

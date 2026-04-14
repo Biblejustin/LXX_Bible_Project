@@ -3,8 +3,8 @@
 - Source text base in this edition comes from public-domain materials.
 - Brenton Septuagint 1851 English, LXX2012 English, TSK, and R. H. Charles's
   1917 *Book of Enoch* are treated here as public-domain sources.
-- UKJV distributed here as public-domain text; requested credit line:
-  `I love Jesus (UKJV)`.
+- UKJV distributed here as public-domain text; credit line included here as
+  requested and gladly given: `I love Jesus (UKJV)`.
 - Editor's original material in this project is released as openly as possible
   under `CC0 1.0`, except where a separate notice applies.
 - Current build system still carries provisional OpenBible fallback data in a
