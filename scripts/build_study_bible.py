@@ -910,26 +910,27 @@ def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
     if hidden_count:
         rows.append(latex_escape(f"footer holds {hidden_count} more refs"))
     body = r"\\ ".join(rows)
-    return r"\marginpar{\raggedright\scriptsize " + body + "}"
+    return r"\marginnote{\raggedright\scriptsize " + body + "}"
 
 
 def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
     lines = [
         r"\documentclass[11pt,twoside]{article}",
         r"\usepackage[paperwidth=8.5in,paperheight=11in,inner=0.9in,outer=1.8in,top=0.72in,bottom=0.82in,marginparwidth=1.35in,marginparsep=0.15in,footskip=0.38in]{geometry}",
-        r"\usepackage[T1]{fontenc}",
-        r"\usepackage[utf8]{inputenc}",
+        r"\usepackage{fontspec}",
+        r"\setmainfont{Times New Roman}",
         r"\usepackage{parskip}",
+        r"\usepackage{marginnote}",
         r"\usepackage[hang,flushmargin,bottom]{footmisc}",
         r"\usepackage{titlesec}",
         r"\titleformat{\section}{\Large\bfseries\centering}{}{0pt}{}",
         r"\titleformat{\subsection}{\large\bfseries}{}{0pt}{}",
         r"\setlength{\parindent}{0pt}",
         r"\setlength{\marginparpush}{8pt}",
+        r"\setlength{\marginnotetextwidth}{1.35in}",
         r"\interfootnotelinepenalty=100",
         r"\emergencystretch=1.5em",
         r"\sloppy",
-        r"\renewcommand{\marginfont}{\scriptsize\raggedright}",
         r"\begin{document}",
         r"\begin{center}\LARGE Public-Domain Study Bible Prototype\end{center}",
         r"\bigskip",
