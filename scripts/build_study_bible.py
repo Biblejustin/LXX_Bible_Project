@@ -1005,7 +1005,7 @@ def render_pdf_excerpt(records: List[VerseRecord], markdown_path: Path) -> Optio
     except Exception:
         return None
 
-    pdf_path = OUTPUT / "study_bible_prototype_excerpt.pdf"
+    pdf_path = OUTPUT / "LXX2012_UKJV_study_bible_prototype_excerpt.pdf"
     doc = SimpleDocTemplate(
         str(pdf_path),
         pagesize=LETTER,
@@ -1316,7 +1316,7 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        verse_text = r"{\color{tnaccent}\fontsize{5.9}{5.9}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
+        verse_text = r"{\color{tnaccent}\fontsize{6.4}{6.4}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
         textual_item = format_textual_paragraph_item(record)
         if textual_item:
@@ -1419,7 +1419,7 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--ot-source", choices=["brenton", "lxx2012"], default="brenton")
-    parser.add_argument("--output-prefix", default="study_bible_prototype")
+    parser.add_argument("--output-prefix", default="LXX2012_UKJV_study_bible_prototype")
     args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
     records, diagnostics = merge_records(args.ot_source)
