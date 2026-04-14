@@ -71971,6 +71971,23 @@ Notes:
 
 # Tobit
 
+> **Tobit Intro**
+>
+> **Auth.** Traditionally Tobit or a later inspired narrator in the Jewish diaspora tradition
+> **Basis** The book presents itself as family history from the Assyrian exile setting; exact human authorship is uncertain.
+> **NT att.** No NT attribution identifies a human writer; this edition treats Tobit as deuterocanonical/apocryphal literature included with the Brenton corpus, not as part of the Hebrew canon.
+> **Date** Hellenistic period composition using earlier story traditions
+> **MT** MT timeline not applicable; no complete Hebrew canonical line exists, though Hebrew and Aramaic fragments survive at Qumran.
+> **LXX** The Greek tradition is primary for the full book and is the form transmitted in Brenton LXX.
+> **Setting** Diaspora family narrative centered on Tobit, Tobias, Sarah, Raphael, almsgiving, and providential deliverance.
+> **Purpose** To commend piety, almsgiving, marriage faithfulness, and trust in God's providence in exile.
+> **Themes** diaspora piety; angelic aid; almsgiving; marriage; providence
+> **Outline** Tobit's trial 1-3; Tobias's journey 4-11; praise and conclusion 12-14.
+> **Wit.** Frag. Qumran Aramaic and Hebrew Tobit fragments 2nd-1st centuries BC | Subst. Qumran fragments provide the earliest surviving Tobit evidence Second Temple period | Heb. No complete Hebrew witness survives n/a | Gk. Codex Sinaiticus preserves a principal Greek text of Tobit 4th century AD
+> **Ext.** Use in early Jewish and Christian literature by Early Christian fathers (2nd-4th centuries AD)
+> **Text** Tobit exists in multiple Greek forms, and Qumran fragments are important for evaluating the longer and shorter recensions.
+> **Cons.** Included here as part of the public-domain Brenton corpus and clearly distinguished from the Hebrew canon in intro metadata.
+
 ## Tobit 1
 
 ¹ The book of the words of Tobit, the son of Tobiel, the son of Ananiel, the son of Aduel, the son of Gabael, of the seed of Asael, of the tribe of Nephthali; ² who in the time of Enemessar king of the Assyrians was led captive out of Thisbe, which is at the right hand of that city, which is called properly Nephthali in Galilee above Aser.
@@ -72146,6 +72163,23 @@ Notes:
 ¹³ where he became old with honour; and he buried his father and mother in law honourably, and he inherited their substance, and his father Tobit's. ¹⁴ And he died at Ecbatane in Media, being an hundred and seven and twenty years old. ¹⁵ But before he died he heard of the destruction of Nineve, which was taken by Nabuchodonosor and Assuerus: and before his death he rejoiced over Nineve.
 
 # Judith
+
+> **Judith Intro**
+>
+> **Auth.** Unknown Jewish author
+> **Basis** The book is anonymous and often read as edifying historical romance or compressed national story in Jewish tradition.
+> **NT att.** No NT attribution identifies a human writer; this edition includes Judith as part of the Brenton/Apocrypha corpus.
+> **Date** Hellenistic period
+> **MT** Not applicable
+> **LXX** The Greek tradition is primary for the full surviving book, though some later Hebrew forms exist.
+> **Setting** Narrative of Judith's courageous deliverance of her people from foreign threat.
+> **Purpose** To celebrate zeal, courage, covenant loyalty, and God's deliverance through a faithful woman.
+> **Themes** deliverance; courage; covenant zeal; prayer; reversal
+> **Outline** Crisis and siege 1-7; Judith's intervention 8-13; deliverance and praise 14-16.
+> **Wit.** Frag. No early Hebrew original survives; Greek witness is primary n/a | Subst. Greek manuscript tradition is the main substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Judith in Greek 4th-5th century AD
+> **Ext.** Used in patristic literature by Church fathers (2nd-4th centuries AD)
+> **Text** Judith's historical framework is difficult to harmonize in detail, and the Greek textual tradition is the central witness for the book.
+> **Cons.** Included as apocryphal/deuterocanonical material in the Brenton corpus, not as part of the Hebrew canon.
 
 ## Judith 1
 
@@ -72451,6 +72485,23 @@ Notes:
 
 # Wisdom
 
+> **Wisdom Intro**
+>
+> **Auth.** Traditionally Solomon in literary voice; actually anonymous Jewish wisdom author
+> **Basis** The book speaks in Solomonic voice, but most scholarship sees an anonymous Jewish author writing in Greek.
+> **NT att.** No NT attribution identifies the human writer; the book is included here as part of the Brenton/Apocrypha corpus.
+> **Date** late 1st century BC
+> **MT** Not applicable
+> **LXX** Greek is the original language and the primary textual form.
+> **Setting** Hellenistic Jewish wisdom work, likely from Alexandria, exalting righteousness, wisdom, and God's rule in history.
+> **Purpose** To commend divine wisdom, righteousness, and hope beyond death in a Hellenistic setting.
+> **Themes** wisdom; righteousness; immortality; exodus typology; idolatry critique
+> **Outline** Wisdom and righteous hope 1-5; praise of wisdom 6-9; wisdom in history 10-19.
+> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is primary and original Hellenistic period | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Wisdom 4th-5th century AD
+> **Ext.** Used by early Christian writers by Church fathers (2nd-4th centuries AD)
+> **Text** Because Greek is original, textual work centers on the Greek tradition rather than MT/LXX comparison.
+> **Cons.** Included as Greek Jewish wisdom literature within the Brenton corpus, with its non-Hebrew-canonical status made explicit.
+
 ## Wisdom 1
 
 ¹ Love righteousness, ye that be judges of the earth: think of the Lord with a good (heart,) and in simplicity of heart seek him. ² For he will be found of them that tempt him not; and sheweth himself unto such as do not distrust him. ³ For froward thoughts separate from God: and his power, when it is tried, reproveth the unwise.
@@ -72716,6 +72767,23 @@ Notes:
 ¹⁸ For the elements were changed in themselves by a kind of harmony, like as in a psaltery notes change the name of the tune, and yet are always sounds; which may well be perceived by the sight of the things that have been done. ¹⁹ For earthly things were turned into watery, and the things, that before swam in the water, now went upon the ground. ²⁰ The fire had power in the water, forgetting his own virtue: and the water forgat his own quenching nature. ²¹ On the other side, the flames wasted not the flesh of the corruptible living things, though they walked therein; neither melted they the icy kind of heavenly meat, that was of nature apt to melt. ²² For in all things, O Lord, thou didst magnify thy people, and glorify them, neither didst thou lightly regard them: but didst assist them in every time and place.
 
 # Sirach
+
+> **Sirach Intro**
+>
+> **Auth.** Jesus son of Sirach; translated by his grandson
+> **Basis** The prologue identifies the translator and points back to Jesus ben Sirach as the original author.
+> **NT att.** No NT attribution identifies the writer; the work is included here as part of the Brenton/Apocrypha corpus.
+> **Date** early 2nd century BC
+> **MT** Hebrew witnesses exist in part, though the book circulated widely in Greek through the translator's version.
+> **LXX** The Greek translation by the grandson is the principal full form used in the LXX tradition.
+> **Setting** Extended wisdom instruction combining practical, moral, and covenantal teaching with praise of Israel's fathers.
+> **Purpose** To teach wisdom, fear of the Lord, and faithful covenant life in a changing Hellenistic world.
+> **Themes** wisdom; fear of the Lord; ethics; praise of fathers; law
+> **Outline** Instruction and ethics 1-43; praise of the fathers 44-50; closing prayer and colophon 51.
+> **Wit.** Frag. Hebrew Sirach fragments from Cairo Geniza and other finds; Greek translator's prologue 2nd century BC onward | Subst. Hebrew fragments are substantial but partial; Greek remains the principal full witness Second Temple and medieval periods | Heb. No complete ancient Hebrew witness survives n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Sirach 4th-5th century AD
+> **Ext.** Known and used by early Jewish and Christian writers by Early Christian fathers (2nd-4th centuries AD)
+> **Text** Sirach is important because partial Hebrew survives, allowing comparison with the Greek translation in many places.
+> **Cons.** Included here as Brenton Apocrypha material, with its partial Hebrew evidence noted but its non-Hebrew-canonical status maintained.
 
 ## Sirach 1
 
@@ -73363,6 +73431,23 @@ Notes:
 
 # Baruch
 
+> **Baruch Intro**
+>
+> **Auth.** Attributed to Baruch in the book's frame; exact composition history debated
+> **Basis** The work presents itself in Baruch's name, but the final literary history is complex.
+> **NT att.** No NT attribution identifies the human writer; this edition includes Baruch as part of the Brenton/Apocrypha corpus.
+> **Date** exilic frame; likely later composition history
+> **MT** No secure full Hebrew original survives for the whole book.
+> **LXX** The Greek tradition is the principal full witness.
+> **Setting** Exilic-style confession, wisdom, and consolation material linked to Jeremiah's circle.
+> **Purpose** To call the exiles to confession, wisdom, and hope in God's mercy.
+> **Themes** confession; wisdom; exile; consolation; Jerusalem
+> **Outline** Confession and prayer 1-3; wisdom poem 3-4; consolation 4-5.
+> **Wit.** Frag. No early full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Greek Baruch 4th-5th century AD
+> **Ext.** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
+> **Text** Baruch is transmitted in Greek with important ties to Jeremiah material and to the Letter of Jeremiah in some traditions.
+> **Cons.** Included here as part of the Brenton Apocrypha and clearly separated from the Hebrew canon.
+
 ## Baruch 1
 
 ¹ And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Asadias, the son of Chelcias, wrote in Babylon, ² in the fifth year, and in the seventh day of the month, what time as the Chaldeans took Jerusalem, and burnt it with fire.
@@ -73477,6 +73562,23 @@ Notes:
 
 # Letter of Jeremiah
 
+> **Letter of Jeremiah Intro**
+>
+> **Auth.** Attributed to Jeremiah in literary frame; exact human authorship uncertain
+> **Basis** The superscription links it with Jeremiah, but the work's precise literary history is debated.
+> **NT att.** No NT attribution identifies the human writer; it is included here as part of the Brenton Apocrypha corpus.
+> **Date** Hellenistic period or earlier tradition
+> **MT** Not applicable
+> **LXX** Greek is the principal full witness, though some Semitic background has been proposed.
+> **Setting** Polemic letter against idolatry framed as warning to exiles.
+> **Purpose** To expose the folly of idols and strengthen covenant faithfulness in exile.
+> **Themes** idolatry critique; exile; polemic; fidelity
+> **Outline** Single sustained anti-idolatry discourse.
+> **Wit.** Frag. No secure full Hebrew witness survives n/a | Subst. Greek tradition is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve the Greek Letter of Jeremiah 4th-5th century AD
+> **Ext.** Used in later Christian tradition by Church fathers (2nd-4th centuries AD)
+> **Text** Often transmitted with Baruch; textual handling depends on the Greek tradition.
+> **Cons.** Included here as apocryphal material attached to the Brenton corpus.
+
 ## Letter of Jeremiah 1
 
 ¹ A copy of an epistle, which Jeremy sent unto them which were to be led captives into Babylon by the king of the Babylonians, to certify them, as it was commanded him of God.
@@ -73529,6 +73631,23 @@ Notes:
 
 # Susanna
 
+> **Susanna Intro**
+>
+> **Auth.** Attached to Greek Daniel tradition
+> **Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
+> **NT att.** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
+> **Date** Hellenistic period
+> **MT** Not applicable
+> **LXX** Greek tradition is primary; this is one of the additions to Daniel preserved in the LXX stream.
+> **Setting** Court tale of Susanna's vindication through Daniel's wisdom.
+> **Purpose** To vindicate chastity, expose corrupt judges, and honor God's justice.
+> **Themes** justice; chastity; wisdom; vindication
+> **Outline** Single narrative of accusation, trial, and vindication.
+> **Wit.** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Susanna in Greek Daniel tradition 4th-5th century AD
+> **Ext.** Used in Christian tradition with Daniel by Church fathers (2nd-4th centuries AD)
+> **Text** Susanna belongs to the Greek Daniel textual tradition and must be handled alongside Old Greek/Theodotionic Daniel evidence.
+> **Cons.** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+
 ## Susanna 1
 
 ¹ There dwelt a man in Babylon, called Joacim: ² and he took a wife, whose name was Susanna, the daughter of Chelcias, a very fair woman, and one that feared the Lord. ³ Her parents also were righteous, and taught their daughter according to the law of Moses. ⁴ Now Joacim was a very rich man, and had a fair garden joining unto his house; and to him resorted the Jews; because he was more honourable than all others.
@@ -73579,6 +73698,23 @@ Notes:
 
 # Bel and the Dragon
 
+> **Bel and the Dragon Intro**
+>
+> **Auth.** Attached to Greek Daniel tradition
+> **Basis** The story survives in the Greek Daniel tradition rather than the Hebrew canon.
+> **NT att.** No NT attribution identifies a human writer; included here as a Greek Daniel addition in the Brenton corpus.
+> **Date** Hellenistic period
+> **MT** Not applicable
+> **LXX** Greek tradition is primary and transmitted with Daniel in the LXX stream.
+> **Setting** Narratives exposing idolatry and celebrating God's deliverance of Daniel.
+> **Purpose** To mock idols, magnify the living God, and show Daniel's vindication.
+> **Themes** idolatry critique; deliverance; Daniel; divine power
+> **Outline** Bel exposed; dragon destroyed; Daniel delivered.
+> **Wit.** Frag. No early Hebrew original survives n/a | Subst. Greek Daniel traditions are the primary witnesses Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve Bel and the Dragon in Greek Daniel tradition 4th-5th century AD
+> **Ext.** Used in Christian Daniel tradition by Church fathers (2nd-4th centuries AD)
+> **Text** Bel and the Dragon belongs to the Greek Daniel textual tradition and should be read alongside Susanna and Greek Daniel forms.
+> **Cons.** Included here as Greek Daniel material in the Brenton corpus, not as part of the Hebrew Daniel canon.
+
 ## Bel and the Dragon 1
 
 ¹ And king Astyages was gathered to his fathers, and Cyrus of Persia received his kingdom. ² And Daniel conversed with the king, and was honoured above all his friends.
@@ -73614,6 +73750,23 @@ Notes:
 ⁴⁰ Upon the seventh day the king went to bewail Daniel: and when he came to the den, he looked in, and, behold, Daniel was sitting. ⁴¹ Then cried the king with a loud voice, saying, Great art thou, O Lord God of Daniel, and there is none other beside thee. ⁴² And he drew him out, and cast those that were the cause of his destruction into the den: and they were devoured in a moment before his face.
 
 # 1 Maccabees
+
+> **1 Maccabees Intro**
+>
+> **Auth.** Anonymous Jewish historian
+> **Basis** The author is anonymous but writes close to the events in a sober historiographic style.
+> **NT att.** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
+> **Date** late 2nd century BC
+> **MT** A Hebrew original is widely believed though not fully preserved; the complete book survives in Greek.
+> **LXX** The Greek tradition is the principal full witness for the surviving text.
+> **Setting** Historical narrative of the Maccabean revolt and Hasmonean rise.
+> **Purpose** To recount Jewish resistance, temple restoration, and political deliverance from Seleucid oppression.
+> **Themes** revolt; temple; covenant zeal; martyrdom; deliverance; Hasmoneans
+> **Outline** Antiochus and revolt 1-2; Judas Maccabeus 3-9; Jonathan 9-12; Simon 13-16.
+> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. No complete Hebrew witness survives n/a | Gk. Codex Alexandrinus preserves 1 Maccabees in Greek 5th century AD
+> **Ext.** Used by Josephus by Josephus (1st century AD)
+> **Text** 1 Maccabees is historically valuable and comparatively straightforward textually within the Greek tradition.
+> **Cons.** Included as historical Apocrypha in the Brenton corpus, not as Hebrew-canonical Scripture.
 
 ## 1 Maccabees 1
 
@@ -74277,6 +74430,23 @@ Notes:
 
 # 2 Maccabees
 
+> **2 Maccabees Intro**
+>
+> **Auth.** Epitomist of Jason of Cyrene
+> **Basis** The book identifies itself as an epitome of a larger work by Jason of Cyrene.
+> **NT att.** No NT attribution identifies the human writer; included here as historical Apocrypha in the Brenton corpus.
+> **Date** late 2nd century BC
+> **MT** Not applicable
+> **LXX** Greek is the primary surviving form.
+> **Setting** Theological historical narrative focused on selected episodes from the Maccabean crisis, temple, martyrdom, and divine justice.
+> **Purpose** To interpret the Maccabean crisis theologically, emphasizing prayer, martyrdom, resurrection hope, and God's vindication.
+> **Themes** martyrdom; temple; resurrection hope; divine judgment; intercession
+> **Outline** Preface 1-2; Heliodorus to Nicanor narratives 3-15.
+> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 2 Maccabees in Greek 5th century AD
+> **Ext.** Used by later Jewish and Christian writers by Josephus and church fathers (1st-4th centuries AD)
+> **Text** 2 Maccabees is openly selective and theological rather than a full parallel chronicle to 1 Maccabees.
+> **Cons.** Included as Greek historical-religious Apocrypha in the Brenton corpus.
+
 ## 2 Maccabees 1
 
 ¹ The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt, health and peace:
@@ -74759,6 +74929,23 @@ Notes:
 
 # 1 Esdras
 
+> **1 Esdras Intro**
+>
+> **Auth.** Anonymous compiler of Greek Ezra material
+> **Basis** The book is an anonymous Greek retelling/arrangement of material parallel to Chronicles-Ezra-Nehemiah plus the Three Guards episode.
+> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+> **Date** Hellenistic period
+> **MT** Not applicable
+> **LXX** Greek is the principal textual tradition; it overlaps heavily with canonical Ezra material.
+> **Setting** Retelling of restoration history with an added court tale about the strongest thing.
+> **Purpose** To present restoration themes and divine favor in a Greek retelling of Ezra-related history.
+> **Themes** restoration; temple; return; wisdom; royal favor
+> **Outline** Historical retelling 1-9 with Three Guards episode embedded.
+> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Vaticanus and Alexandrinus preserve 1 Esdras in Greek 4th-5th century AD
+> **Ext.** Used by Josephus in places by Josephus (1st century AD)
+> **Text** 1 Esdras is text-critically important because it parallels canonical Ezra material and can preserve alternate Greek forms.
+> **Cons.** Included here as Greek Apocrypha and useful for comparison with Ezra-Nehemiah.
+
 ## 1 Esdras 1
 
 ¹ And Josias held the feast of the passover in Jerusalem unto his Lord, and offered the passover the fourteenth day of the first month; ² having set the priests according to their daily courses, being arrayed in long garments, in the temple of the Lord.
@@ -75055,11 +75242,45 @@ Notes:
 
 # Prayer of Manasseh
 
+> **Prayer of Manasseh Intro**
+>
+> **Auth.** Anonymous liturgical writer; framed in Manasseh's voice
+> **Basis** The prayer is transmitted as Manasseh's penitential prayer, though its literary history is uncertain.
+> **NT att.** No NT attribution identifies the human writer; included here as liturgical Apocrypha in the Brenton corpus.
+> **Date** Hellenistic or later
+> **MT** Not applicable
+> **LXX** Greek is the principal widely transmitted form.
+> **Setting** Short penitential prayer framed by 2 Chronicles 33's notice about Manasseh's prayer.
+> **Purpose** To model repentance, confession, and appeal to divine mercy.
+> **Themes** repentance; mercy; confession; humility
+> **Outline** Single penitential prayer.
+> **Wit.** Frag. No complete Hebrew original survives n/a | Subst. Greek text is the principal substantial witness late antiquity | Heb. n/a n/a | Gk. Greek and later liturgical traditions preserve the prayer late antique and medieval periods
+> **Ext.** Used in Christian liturgical and devotional tradition by Church tradition (late antique and medieval)
+> **Text** The prayer is brief and textually simple compared with larger apocryphal books.
+> **Cons.** Included here as devotional Apocrypha in the Brenton corpus.
+
 ## Prayer of Manasseh 1
 
 ¹ O Lord Almighty, the God of our fathers Abraham and Isaac and Jacob and of their righteous seed; ² that hast made the heaven and the earth with all their adornment; ³ that hast bound the sea with the word of thy commandment; that hast closed the abyss and sealed it with thy fearful and glorious name; ⁴ whom all things revere and tremble before the face of thy power, ⁵ because the magnificence of thy glory is unendurable and irresistible the wrath of thy threatening against sinners: ⁶ the mercy of thy promise is both immeasurable and inscrutable; ⁷ for thou art the Lord most high, compassionate, longsuffering, and most merciful, repenting of the evils of men. Thou, Lord, according to the abundance of thy goodness, hast proclaimed repentance and forgiveness to those that have sinned against thee, and in the multitude of thy kindnesses thou hast decreed for sinners repentance unto salvation. ⁸ Surely thou, O Lord, the God of the just, hast not appointed repentance for the just, for Abraham and Isaac and Jacob who have not sinned against thee; but thou hast appointed repentance for me a sinner: ⁹ for I have sinned above the number of the sand of the sea. My transgressions are multiplied, O Lord, they are multiplied, and I am not worthy to look at or see the height of heaven, for the multitude of my iniquities, ¹⁰ being bowed down by many iron bonds, so that I cannot uplift my head, and there is no release for me, because I have provoked thy anger, and have done evil before thee, not doing thy will, nor keeping thy commandments, but setting up abominations and multiplying offences. ¹¹ And now I bend the knee of my heart, beseeching thy goodness: ¹² I have sinned, Lord, I have sinned, and I acknowledge my transgressions: ¹³ but I pray and beseech thee, release me, Lord, release me, and destroy me not with my transgressions; keep not evils for me in anger for ever, nor condemn me to the lowest parts of the earth: because thou art God, the God of the repenting; ¹⁴ and in me thou wilt shew all thy benevolence, for that me unworthy thou wilt save, according to thy great mercy: ¹⁵ and I will praise thee continually all the days of my life: for all the host of the heavens sings to thee, and thine is the glory for ever and ever. Amen.
 
 # 3 Maccabees
+
+> **3 Maccabees Intro**
+>
+> **Auth.** Anonymous Hellenistic Jewish author
+> **Basis** The author is anonymous and writes in Greek about persecution under Ptolemaic rule.
+> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+> **Date** Hellenistic period
+> **MT** Not applicable
+> **LXX** Greek is the original and principal form.
+> **Setting** Diaspora narrative of threatened persecution and divine deliverance in Egypt.
+> **Purpose** To encourage Jews under pressure by recounting God's deliverance from royal oppression.
+> **Themes** diaspora; persecution; deliverance; prayer; reversal
+> **Outline** Royal threat 1-4; divine deliverance 5-7.
+> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Hellenistic and later | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 3 Maccabees in Greek 5th century AD
+> **Ext.** Used in later Eastern Christian tradition by Later church tradition (late antique and medieval)
+> **Text** 3 Maccabees is Greek Jewish literature distinct from the Hasmonean history of 1-2 Maccabees.
+> **Cons.** Included here as Greek Apocrypha in the Brenton corpus.
 
 ## 3 Maccabees 1
 
@@ -75250,6 +75471,23 @@ Notes:
 ²¹ They had more weight than before among their enemies; and were honoured and feared, and no one in any way robbed them of their goods. ²² Every man received back his own, according to inventory; those who had obtained their goods, giving them up with the greatest terror. For the greatest God wrought with perfectness wonders for their salvation. ²³ Blessed be the Redeemer of Israel unto everlasting. Amen.
 
 # 4 Maccabees
+
+> **4 Maccabees Intro**
+>
+> **Auth.** Anonymous Hellenistic Jewish philosopher-author
+> **Basis** The work is anonymous and reads as a philosophical discourse using martyr narratives.
+> **NT att.** No NT attribution identifies the human writer; included here as Greek Apocrypha in the Brenton corpus.
+> **Date** 1st century AD or slightly earlier/later
+> **MT** Not applicable
+> **LXX** Greek is the original and principal form.
+> **Setting** Philosophical-religious discourse on reason, law, passion, and martyrdom.
+> **Purpose** To argue that devout reason governs the passions, illustrated by martyr examples from the Maccabean era.
+> **Themes** reason; martyrdom; law; virtue; endurance
+> **Outline** Philosophical thesis 1-3; martyr examples 4-18.
+> **Wit.** Frag. No Hebrew original is known n/a | Subst. Greek text is the principal substantial witness Roman period | Heb. n/a n/a | Gk. Codex Alexandrinus preserves 4 Maccabees in Greek appendix tradition 5th century AD
+> **Ext.** Used in later Christian moral reflection by Church tradition (late antique and later)
+> **Text** 4 Maccabees is philosophically distinct from 1-2 Maccabees and should be identified clearly as later Greek Jewish literature.
+> **Cons.** Included here as Greek Apocrypha in the Brenton corpus.
 
 ## 4 Maccabees 1
 
