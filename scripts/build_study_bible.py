@@ -257,6 +257,7 @@ class VerseRecord:
 
 def normalize_space(text: str) -> str:
     text = unicodedata.normalize("NFKC", text)
+    text = text.replace("\ufffd", "")
     text = text.replace("\u037e", ";")
     text = text.replace("\u0387", ";")
     text = text.replace("\u00b7", ";")
@@ -264,6 +265,7 @@ def normalize_space(text: str) -> str:
     text = re.sub(r"\s*;\s*,\s*", "; ", text)
     text = re.sub(r"\s*,\s*;\s*", "; ", text)
     text = re.sub(r"\s*;\s*;\s*", "; ", text)
+    text = re.sub(r"(?:\s*[;,]\s*){2,}", "; ", text)
     return text.strip()
 
 
