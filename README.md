@@ -1,38 +1,23 @@
 # LXX Bible Project
 
-Study Bible build pipeline for public-domain editions using:
+Fresh-translation pilot branch for Greek-to-English work using:
 
-- Brenton LXX Old Testament
-- UKJV New Testament
-- TSK cross-references
-- lexical + name + intro-page apparatus
+- Greek source text
+- Logos-based lexical and apparatus review
+- phrase-level decision tracking
+- publishable footnote drafting
 
-## Download PDF
-
-- [Download current Brenton + UKJV PDF](output/Brenton_UKJV_study_bible_prototype.pdf)
-
-## Why This Project
+## Branch Focus
 
 - Scripture received here as inerrant, word-for-word inspired in original writings.
-- Edition gives deliberate weight to older Septuagintal and other early witnesses.
-- Complete Greek biblical codices and earlier LXX fragments place major LXX witness history more than a millennium earlier than the standard complete Masoretic codex base used in many printed Hebrew Bibles.
-- Dead Sea Scroll evidence shows earlier Hebrew textual plurality before medieval Masoretic stabilization.
-- Many New Testament quotations align more closely with Septuagintal or other non-Masoretic forms than with later medieval Masoretic wording.
-- This edition also pays special attention to passages where later textual standardization can affect christological, supernatural, or angelological readings, including texts such as Genesis 6.
+- Fresh translation aims to work from Greek source text directly instead of reusing older English wording.
+- Local Logos resources serve as research tools, while private notes stay private.
+- This branch removes inherited study-bible output artifacts and keeps only fresh-translation outputs.
 
 ## Current Outputs
 
-- `output/Brenton_UKJV_study_bible_prototype.pdf`
-- `output/Brenton_UKJV_study_bible_prototype.md`
-- `output/Brenton_UKJV_study_bible_prototype.tex`
-- `output/Brenton_UKJV_study_bible_prototype_diagnostics.json`
-- `output/Brenton_UKJV_study_bible_prototype_overflow_report.json`
-
-## Build
-
-```bash
-python3 scripts/build_study_bible.py
-```
+- `output/fresh_translation_genesis_1_3_pilot.md`
+- `output/fresh_translation_genesis_1_3_pilot_diagnostics.json`
 
 ## Fresh Translation Pilot
 
