@@ -1,16 +1,23 @@
-# LXX_UKJV_bible
+# LXX Bible Project
 
-Study Bible build pipeline for a public-domain edition using:
+Study Bible build pipeline for public-domain editions using:
 
 - Brenton LXX Old Testament
 - UKJV New Testament
-- Extensive cross-reference and lexical footnote infrastructure
+- TSK cross-references
+- lexical + name + intro-page apparatus
+
+## Download PDF
+
+- [Download current Brenton + UKJV PDF](output/Brenton_UKJV_study_bible_prototype.pdf)
 
 ## Current Outputs
 
-- `output/study_bible_prototype.md`
-- `output/study_bible_prototype.tex`
-- `output/build_diagnostics.json`
+- `output/Brenton_UKJV_study_bible_prototype.pdf`
+- `output/Brenton_UKJV_study_bible_prototype.md`
+- `output/Brenton_UKJV_study_bible_prototype.tex`
+- `output/Brenton_UKJV_study_bible_prototype_diagnostics.json`
+- `output/Brenton_UKJV_study_bible_prototype_overflow_report.json`
 
 ## Build
 
