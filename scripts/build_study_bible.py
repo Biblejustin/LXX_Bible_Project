@@ -930,6 +930,164 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
     )
 
 
+REF_BOOK_ALIASES = {
+    "Genesis": "GEN", "Gen": "GEN",
+    "Exodus": "EXO", "Exod": "EXO", "Exo": "EXO",
+    "Leviticus": "LEV", "Lev": "LEV",
+    "Numbers": "NUM", "Num": "NUM",
+    "Deuteronomy": "DEU", "Deut": "DEU",
+    "Joshua": "JOS", "Josh": "JOS",
+    "Judges": "JDG", "Judg": "JDG",
+    "Ruth": "RUT",
+    "1 Samuel": "1SA", "1Sam": "1SA", "I Sam": "1SA",
+    "2 Samuel": "2SA", "2Sam": "2SA", "II Sam": "2SA",
+    "1 Kings": "1KI", "1Kgs": "1KI", "I Kings": "1KI",
+    "2 Kings": "2KI", "2Kgs": "2KI", "II Kings": "2KI",
+    "1 Chronicles": "1CH", "1Chr": "1CH", "I Chron": "1CH",
+    "2 Chronicles": "2CH", "2Chr": "2CH", "II Chron": "2CH",
+    "Ezra": "EZR",
+    "Nehemiah": "NEH", "Neh": "NEH",
+    "Esther": "EST", "Esth": "EST",
+    "Job": "JOB",
+    "Psalm": "PSA", "Psalms": "PSA", "Ps": "PSA",
+    "Proverbs": "PRO", "Prov": "PRO",
+    "Ecclesiastes": "ECC", "Eccl": "ECC",
+    "Song of Solomon": "SNG", "Song": "SNG", "Canticles": "SNG",
+    "Isaiah": "ISA", "Isa": "ISA",
+    "Jeremiah": "JER", "Jer": "JER",
+    "Lamentations": "LAM", "Lam": "LAM",
+    "Ezekiel": "EZK", "Ezek": "EZK",
+    "Daniel": "DAG", "Dan": "DAG",
+    "Hosea": "HOS", "Hos": "HOS",
+    "Joel": "JOL",
+    "Amos": "AMO",
+    "Obadiah": "OBA", "Obad": "OBA",
+    "Jonah": "JON",
+    "Micah": "MIC", "Mic": "MIC",
+    "Nahum": "NAM", "Nah": "NAM",
+    "Habakkuk": "HAB", "Hab": "HAB",
+    "Zephaniah": "ZEP", "Zeph": "ZEP",
+    "Haggai": "HAG", "Hag": "HAG",
+    "Zechariah": "ZEC", "Zech": "ZEC",
+    "Malachi": "MAL", "Mal": "MAL",
+    "Matthew": "MAT", "Matt": "MAT",
+    "Mark": "MRK",
+    "Luke": "LUK",
+    "John": "JHN",
+    "Acts": "ACT",
+    "Romans": "ROM", "Rom": "ROM",
+    "1 Corinthians": "1CO", "1Cor": "1CO", "I Cor": "1CO",
+    "2 Corinthians": "2CO", "2Cor": "2CO", "II Cor": "2CO",
+    "Galatians": "GAL", "Gal": "GAL",
+    "Ephesians": "EPH", "Eph": "EPH",
+    "Philippians": "PHP", "Phil": "PHP",
+    "Colossians": "COL", "Col": "COL",
+    "1 Thessalonians": "1TH", "1Thess": "1TH", "I Thess": "1TH",
+    "2 Thessalonians": "2TH", "2Thess": "2TH", "II Thess": "2TH",
+    "1 Timothy": "1TI", "1Tim": "1TI", "I Tim": "1TI",
+    "2 Timothy": "2TI", "2Tim": "2TI", "II Tim": "2TI",
+    "Titus": "TIT",
+    "Philemon": "PHM", "Phlm": "PHM", "Phm": "PHM",
+    "Hebrews": "HEB", "Heb": "HEB",
+    "James": "JAS", "Jas": "JAS",
+    "1 Peter": "1PE", "1Pet": "1PE", "I Pet": "1PE",
+    "2 Peter": "2PE", "2Pet": "2PE", "II Pet": "2PE",
+    "1 John": "1JN", "1John": "1JN", "I John": "1JN",
+    "2 John": "2JN", "2John": "2JN", "II John": "2JN",
+    "3 John": "3JN", "3John": "3JN", "III John": "3JN",
+    "Jude": "JUD",
+    "Revelation": "REV", "Rev": "REV",
+}
+REF_BOOK_ORDER = {code: idx for idx, code in enumerate(FINAL_BOOK_ORDER)}
+CROSS_REFERENCE_RE = re.compile(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
+
+
+def parse_cross_reference(ref: str) -> Optional[Tuple[str, str, int, Optional[int], Optional[int], str]]:
+    ref = ref.strip()
+    match = CROSS_REFERENCE_RE.match(ref)
+    if not match:
+        return None
+    book_label = normalize_space(match.group(1))
+    chapter = int(match.group(2))
+    verse = int(match.group(3)) if match.group(3) else None
+    verse_end = int(match.group(4)) if match.group(4) else verse
+    book_code = REF_BOOK_ALIASES.get(book_label)
+    if not book_code:
+        compact = book_label.replace(" ", "")
+        book_code = REF_BOOK_ALIASES.get(compact, "")
+    return (book_code, book_label, chapter, verse, verse_end, ref)
+
+
+def sort_cross_reference_key(ref: str) -> Tuple[int, int, int, str]:
+    parsed = parse_cross_reference(ref)
+    if not parsed:
+        return (9999, 9999, 9999, ref)
+    book_code, _, chapter, verse, _, raw_ref = parsed
+    verse = verse or 0
+    return (REF_BOOK_ORDER.get(book_code, 9999), chapter, verse, raw_ref)
+
+
+def compress_cross_reference_ranges(refs: List[str]) -> List[str]:
+    compressed: List[str] = []
+    run_book_code = ""
+    run_book_label = ""
+    run_chapter = -1
+    run_start = -1
+    run_end = -1
+
+    def flush_run() -> None:
+        nonlocal run_book_code, run_book_label, run_chapter, run_start, run_end
+        if run_start == -1:
+            return
+        if run_start == run_end:
+            compressed.append(f"{run_book_label} {run_chapter}:{run_start}")
+        else:
+            compressed.append(f"{run_book_label} {run_chapter}:{run_start}-{run_end}")
+        run_book_code = ""
+        run_book_label = ""
+        run_chapter = -1
+        run_start = -1
+        run_end = -1
+
+    for ref in refs:
+        parsed = parse_cross_reference(ref)
+        if not parsed:
+            flush_run()
+            compressed.append(ref)
+            continue
+        book_code, book_label, chapter, verse, verse_end, raw_ref = parsed
+        if verse is None:
+            flush_run()
+            compressed.append(raw_ref)
+            continue
+        if verse_end is not None and verse_end != verse:
+            flush_run()
+            compressed.append(raw_ref)
+            continue
+        if (
+            run_start != -1
+            and book_code == run_book_code
+            and chapter == run_chapter
+            and verse == run_end + 1
+        ):
+            run_end = verse
+            continue
+        flush_run()
+        run_book_code = book_code
+        run_book_label = book_label
+        run_chapter = chapter
+        run_start = verse
+        run_end = verse
+
+    flush_run()
+    return compressed
+
+
+def canonicalize_cross_references(refs: List[str]) -> List[str]:
+    unique = list(dict.fromkeys(ref.strip() for ref in refs if ref.strip()))
+    return compress_cross_reference_ranges(sorted(unique, key=sort_cross_reference_key))
+
+
 def merge_records(modernize_brenton: bool = False) -> Tuple[List[VerseRecord], Dict[str, object]]:
     brenton, brenton_diag = parse_brenton_usfm(modernize=modernize_brenton)
     ukjv, ukjv_diag = parse_ukjv_xml()
@@ -963,6 +1121,8 @@ def merge_records(modernize_brenton: bool = False) -> Tuple[List[VerseRecord], D
             record.footnotes.extend(hebrew_vocab_notes[record.ref])
         if record.ref in greek_vocab_notes:
             record.footnotes.extend(greek_vocab_notes[record.ref])
+        if record.cross_references:
+            record.cross_references = canonicalize_cross_references(record.cross_references)
     name_notes_added = sum(len(v) for v in proper_name_notes.values())
     all_records = sort_records(all_records)
     diagnostics = {
@@ -1315,7 +1475,7 @@ def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
 
 
 def format_crossref_paragraph_item(record: VerseRecord) -> str:
-    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
+    refs = canonicalize_cross_references(record.cross_references)
     if not refs:
         return ""
     return r"\textsuperscript{" + str(record.verse) + "} " + latex_escape("; ".join(refs))
