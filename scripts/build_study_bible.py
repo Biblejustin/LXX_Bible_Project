@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import argparse
 import csv
 import html
 import json
@@ -18,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 OUTPUT = ROOT / "output"
 OUTPUT_PREFIX = "Brenton_UKJV_study_bible_prototype"
+MODERN_OUTPUT_PREFIX = "Brenton_Modern_UKJV_study_bible_prototype"
 RIGHTS_MD = ROOT / "data" / "rights_and_rationale.md"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
@@ -290,9 +292,97 @@ def extract_usfm_footnotes(text: str) -> List[str]:
     return notes
 
 
-def parse_brenton_usfm() -> Tuple[List[VerseRecord], Dict[str, int]]:
+ARCHAIC_WORD_MAP = {
+    "thou": "you",
+    "thee": "you",
+    "thy": "your",
+    "thine": "your",
+    "thyself": "yourself",
+    "ye": "you",
+    "art": "are",
+    "wert": "were",
+    "wast": "were",
+    "hast": "have",
+    "hath": "has",
+    "hadst": "had",
+    "dost": "do",
+    "doth": "does",
+    "didst": "did",
+    "wilt": "will",
+    "shalt": "shall",
+    "canst": "can",
+    "shouldest": "should",
+    "wouldest": "would",
+    "couldest": "could",
+    "mayest": "may",
+    "mightest": "might",
+    "comest": "come",
+    "goest": "go",
+    "sayest": "say",
+    "saith": "says",
+    "doeth": "does",
+    "goeth": "goes",
+    "cometh": "comes",
+    "giveth": "gives",
+    "taketh": "takes",
+    "maketh": "makes",
+    "knoweth": "knows",
+    "seeth": "sees",
+    "heareth": "hears",
+    "speaketh": "speaks",
+    "dwelleth": "dwells",
+    "liveth": "lives",
+    "loveth": "loves",
+    "calleth": "calls",
+    "setteth": "sets",
+    "bringeth": "brings",
+    "sendeth": "sends",
+    "keepeth": "keeps",
+    "seeketh": "seeks",
+    "findeth": "finds",
+    "standeth": "stands",
+    "falleth": "falls",
+    "eateth": "eats",
+    "drinketh": "drinks",
+    "walketh": "walks",
+    "sitteth": "sits",
+    "ariseth": "arises",
+    "riseth": "rises",
+    "leadeth": "leads",
+    "ruleth": "rules",
+    "blesseth": "blesses",
+    "curseth": "curses",
+    "passeth": "passes",
+    "judgeth": "judges",
+}
+
+
+def match_case(src: str, dst: str) -> str:
+    if src.isupper():
+        return dst.upper()
+    if src[:1].isupper():
+        return dst[:1].upper() + dst[1:]
+    return dst
+
+
+def modernize_brenton_english(text: str) -> str:
+    def replace_word(match: re.Match[str]) -> str:
+        word = match.group(0)
+        replacement = ARCHAIC_WORD_MAP.get(word.lower())
+        if replacement:
+            return match_case(word, replacement)
+        return word
+
+    text = re.sub(r"\b[A-Za-z']+\b", replace_word, text)
+    text = re.sub(r"\byour own self\b", "yourself", text, flags=re.I)
+    text = re.sub(r"\bunto\b", "to", text, flags=re.I)
+    text = re.sub(r"\bamongst\b", "among", text, flags=re.I)
+    return text
+
+
+def parse_brenton_usfm(modernize: bool = False) -> Tuple[List[VerseRecord], Dict[str, int]]:
     records: List[VerseRecord] = []
-    diagnostics = {"books_seen": 0, "footnotes_extracted": 0}
+    diagnostics = {"books_seen": 0, "footnotes_extracted": 0, "modernized": modernize}
     with zipfile.ZipFile(BRENTON_ZIP) as zf:
         names = sorted(
             name for name in zf.namelist()
@@ -336,6 +426,9 @@ def parse_brenton_usfm() -> Tuple[List[VerseRecord], Dict[str, int]]:
                     text = strip_usfm_markup(verse_raw)
                     if not text:
                         continue
+                    if modernize:
+                        text = modernize_brenton_english(text)
+                        footnotes = [modernize_brenton_english(note) for note in footnotes]
                     records.append(
                         VerseRecord(
                             book_code=book_code,
@@ -835,8 +928,8 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
     )
 
 
-def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
-    brenton, brenton_diag = parse_brenton_usfm()
+def merge_records(modernize_brenton: bool = False) -> Tuple[List[VerseRecord], Dict[str, object]]:
+    brenton, brenton_diag = parse_brenton_usfm(modernize=modernize_brenton)
     ukjv, ukjv_diag = parse_ukjv_xml()
     enoch, enoch_diag = parse_enoch_charles()
     kal_notes, kal_diag = parse_kalvesmaki()
@@ -872,6 +965,7 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     all_records = sort_records(all_records)
     diagnostics = {
         "brenton": brenton_diag,
+        "modernized_brenton": modernize_brenton,
         "ukjv": ukjv_diag,
         "enoch_charles": enoch_diag,
         "kalvesmaki_csv": kal_diag,
@@ -1448,16 +1542,20 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--modernize-brenton", action="store_true")
+    args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    records, diagnostics = merge_records()
+    output_prefix = MODERN_OUTPUT_PREFIX if args.modernize_brenton else OUTPUT_PREFIX
+    records, diagnostics = merge_records(modernize_brenton=args.modernize_brenton)
     markdown = render_markdown(records, diagnostics)
-    md_path = OUTPUT / f"{OUTPUT_PREFIX}.md"
+    md_path = OUTPUT / f"{output_prefix}.md"
     md_path.write_text(markdown, encoding="utf-8")
-    json_path = OUTPUT / f"{OUTPUT_PREFIX}_diagnostics.json"
+    json_path = OUTPUT / f"{output_prefix}_diagnostics.json"
     json_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
-    overflow_path = OUTPUT / f"{OUTPUT_PREFIX}_overflow_report.json"
+    overflow_path = OUTPUT / f"{output_prefix}_overflow_report.json"
     overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
-    tex_path = OUTPUT / f"{OUTPUT_PREFIX}.tex"
+    tex_path = OUTPUT / f"{output_prefix}.tex"
     tex_path.write_text(render_latex(records, diagnostics), encoding="utf-8")
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
