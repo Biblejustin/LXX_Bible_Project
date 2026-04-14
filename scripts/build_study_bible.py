@@ -133,6 +133,11 @@ OSIS_BOOK_MAP = {
 }
 
 SUPERSCRIPTS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+MAX_MARGIN_REFS_DISPLAY = 24
+MARGIN_REF_GROUP_SIZE = 4
+HEAVY_CROSSREF_THRESHOLD = 25
+EXTREME_CROSSREF_THRESHOLD = 55
+EXTREME_COMBINED_LOAD_THRESHOLD = 2200
 
 
 @dataclass
@@ -860,7 +865,19 @@ def chunk_list(items: List[str], size: int) -> List[List[str]]:
     return [items[i:i + size] for i in range(0, len(items), size)]
 
 
-def format_latex_footnote(record: VerseRecord) -> str:
+def verse_layout_tier(record: VerseRecord) -> str:
+    note_text = " ".join(record.footnotes + record.study_notes)
+    crossref_text = "; ".join(record.cross_references)
+    combined_load = len(record.text) + len(note_text) + len(crossref_text)
+    crossref_count = len(record.cross_references)
+    if crossref_count >= EXTREME_CROSSREF_THRESHOLD or combined_load >= EXTREME_COMBINED_LOAD_THRESHOLD:
+        return "extreme"
+    if crossref_count >= HEAVY_CROSSREF_THRESHOLD:
+        return "heavy"
+    return "normal"
+
+
+def format_latex_footnote(record: VerseRecord, tier: str) -> str:
     textual = list(dict.fromkeys(item.strip() for item in record.footnotes if item.strip()))
     study = list(dict.fromkeys(item.strip() for item in record.study_notes if item.strip()))
     items: List[str] = []
@@ -868,17 +885,30 @@ def format_latex_footnote(record: VerseRecord) -> str:
         items.append(r"\textit{Textual/Apparatus:} " + " ".join(latex_escape(item) for item in textual))
     if study:
         items.append(r"\textit{Study Notes:} " + " ".join(latex_escape(item) for item in study))
+    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
+    if tier == "heavy" and len(refs) > MAX_MARGIN_REFS_DISPLAY:
+        items.append(r"\textit{Cross-Reference Overflow:} " + latex_escape("; ".join(refs[MAX_MARGIN_REFS_DISPLAY:])))
+    elif tier == "extreme" and refs:
+        items.append(r"\textit{Cross References:} " + latex_escape("; ".join(refs)))
     if not items:
         return ""
     body = r" \par ".join(items)
     return r"\footnote{\footnotesize " + body + "}"
 
 
-def format_latex_margin_refs(record: VerseRecord) -> str:
+def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
     refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
     if not refs:
         return ""
-    rows = [latex_escape("; ".join(group)) for group in chunk_list(refs, 6)]
+    if tier == "extreme":
+        return ""
+    hidden_count = 0
+    if tier == "heavy" and len(refs) > MAX_MARGIN_REFS_DISPLAY:
+        hidden_count = len(refs) - MAX_MARGIN_REFS_DISPLAY
+        refs = refs[:MAX_MARGIN_REFS_DISPLAY]
+    rows = [latex_escape("; ".join(group)) for group in chunk_list(refs, MARGIN_REF_GROUP_SIZE)]
+    if hidden_count:
+        rows.append(latex_escape(f"footer holds {hidden_count} more refs"))
     body = r"\\ ".join(rows)
     return r"\marginpar{\raggedright\scriptsize " + body + "}"
 
@@ -945,8 +975,9 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
             lines.append(r"\subsection*{" + latex_escape(f"{record.book_name} {record.chapter}") + "}")
         if record.paragraph_start:
             flush()
-        margin_refs = format_latex_margin_refs(record)
-        footnote = format_latex_footnote(record)
+        tier = verse_layout_tier(record)
+        margin_refs = format_latex_margin_refs(record, tier)
+        footnote = format_latex_footnote(record, tier)
         verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text) + footnote
         if margin_refs:
             verse_text = margin_refs + " " + verse_text
@@ -986,6 +1017,52 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
     return "\n".join(lines)
 
 
+def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
+    rows = []
+    for record in records:
+        note_text = " ".join(record.footnotes + record.study_notes)
+        crossref_text = "; ".join(record.cross_references)
+        rows.append(
+            {
+                "ref": record.ref,
+                "source": record.source,
+                "tier": verse_layout_tier(record),
+                "text_chars": len(record.text),
+                "footnote_count": len(record.footnotes) + len(record.study_notes),
+                "footnote_chars": len(note_text),
+                "crossref_count": len(record.cross_references),
+                "crossref_chars": len(crossref_text),
+                "combined_load": len(record.text) + len(note_text) + len(crossref_text),
+            }
+        )
+
+    def top_by(key: str, limit: int = 25) -> List[Dict[str, object]]:
+        return sorted(rows, key=lambda row: (-int(row[key]), row["ref"]))[:limit]
+
+    return {
+        "top_footnote_char_verses": top_by("footnote_chars"),
+        "top_crossref_count_verses": top_by("crossref_count"),
+        "top_crossref_char_verses": top_by("crossref_chars"),
+        "top_combined_load_verses": top_by("combined_load"),
+        "margin_overflow_policy": {
+            "max_margin_refs_display": MAX_MARGIN_REFS_DISPLAY,
+            "margin_ref_group_size": MARGIN_REF_GROUP_SIZE,
+            "heavy_crossref_threshold": HEAVY_CROSSREF_THRESHOLD,
+            "extreme_crossref_threshold": EXTREME_CROSSREF_THRESHOLD,
+            "extreme_combined_load_threshold": EXTREME_COMBINED_LOAD_THRESHOLD,
+        },
+        "tier_counts": {
+            "normal": sum(1 for row in rows if row["tier"] == "normal"),
+            "heavy": sum(1 for row in rows if row["tier"] == "heavy"),
+            "extreme": sum(1 for row in rows if row["tier"] == "extreme"),
+        },
+        "verses_exceeding_margin_ref_cap": [
+            row for row in sorted(rows, key=lambda row: (-int(row["crossref_count"]), row["ref"]))
+            if int(row["crossref_count"]) > MAX_MARGIN_REFS_DISPLAY
+        ][:100],
+    }
+
+
 def main() -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     records, diagnostics = merge_records()
@@ -994,12 +1071,15 @@ def main() -> None:
     md_path.write_text(markdown, encoding="utf-8")
     json_path = OUTPUT / "build_diagnostics.json"
     json_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
+    overflow_path = OUTPUT / "overflow_report.json"
+    overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
     tex_path = OUTPUT / "study_bible_prototype.tex"
     tex_path.write_text(render_latex(records, diagnostics), encoding="utf-8")
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
         "markdown": str(md_path),
         "diagnostics": str(json_path),
+        "overflow_report": str(overflow_path),
         "latex": str(tex_path),
         "pdf_excerpt": str(pdf_path) if pdf_path else None,
     }
