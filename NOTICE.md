@@ -13,13 +13,10 @@ This repository contains mixed public-domain and separately-noticed material.
 - R. H. Charles, *The Book of Enoch* (1917): public domain in the United
   States.
 
-## Provisional fallback material
+## Cross-reference layer
 
 - `data/raw/cross-references.zip` from OpenBible carries `CC-BY` terms.
 - Build pipeline uses TSK as primary cross-reference layer.
-- OpenBible fallback remains provisional where TSK is absent.
-- For strict all-public-domain release, remove OpenBible fallback from final
-  build.
 
 ## Original project material
 
