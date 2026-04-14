@@ -1010,28 +1010,29 @@ def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
         external.append("(" + row["oldest_external_reference_date"].strip() + ")")
 
     groups = [
-        ("Auth.", parts("traditional_author")),
-        ("Basis", parts("authorship_basis")),
-        ("NT att.", parts("jesus_or_nt_attribution")),
-        ("Date", parts("composition_date")),
-        ("MT", parts("mt_timeline")),
-        ("LXX", parts("lxx_timeline")),
-        ("Setting", parts("historical_setting")),
+        ("Author and Attribution", parts("traditional_author")),
+        ("Authorship Basis", parts("authorship_basis")),
+        ("Jesus / NT Attribution", parts("jesus_or_nt_attribution")),
+        ("Composition Date", parts("composition_date")),
+        ("MT Timeline", parts("mt_timeline")),
+        ("LXX Timeline", parts("lxx_timeline")),
+        ("Historical Setting", parts("historical_setting")),
         ("Purpose", parts("purpose_theme")),
-        ("Themes", parts("key_themes")),
+        ("Key Themes", parts("key_themes")),
         ("Outline", parts("outline")),
-        ("Wit.", " | ".join(witnesses).strip()),
-        ("Ext.", " ".join(external).strip()),
-        ("Text", parts("textual_notes")),
-        ("Cons.", parts("conservative_notes")),
+        ("Earliest Witnesses", " | ".join(witnesses).strip()),
+        ("Earliest External Attestation", " ".join(external).strip()),
+        ("Textual Notes", parts("textual_notes")),
+        ("Conservative Notes", parts("conservative_notes")),
     ]
     return [(label, value) for label, value in groups if value]
 
 
 def render_markdown_intro(row: Dict[str, str]) -> List[str]:
-    lines = [f"> **{row.get('intro_title') or row.get('book_name') or row.get('book_code')} Intro**", ">"]
+    lines = [f"> **{row.get('intro_title') or row.get('book_name') or row.get('book_code')} Introduction**", ">"]
     for label, value in compact_intro_groups(row):
         lines.append(f"> **{label}** {value}")
+        lines.append(">")
     lines.append("")
     return lines
 
@@ -1041,15 +1042,12 @@ def render_latex_intro(row: Dict[str, str]) -> List[str]:
     lines = [
         r"\newpage",
         r"\section*{" + latex_escape(title + " Introduction") + "}",
-        r"{\fontsize{8.2}{9.2}\selectfont",
-        r"\begin{tabularx}{\textwidth}{@{}p{0.14\textwidth}X@{}}",
+        r"{\fontsize{8.6}{10.0}\selectfont",
     ]
     for label, value in compact_intro_groups(row):
-        lines.append(
-            r"\textbf{" + latex_escape(label) + r"} & " + latex_escape(value) + r" \\"
-        )
+        lines.append(r"\noindent\textbf{" + latex_escape(label) + r".} " + latex_escape(value) + r"\par")
+        lines.append(r"\vspace{0.18em}")
     lines.extend([
-        r"\end{tabularx}",
         r"}",
         "",
     ])
