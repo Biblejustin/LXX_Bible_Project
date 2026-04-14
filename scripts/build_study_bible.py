@@ -20,6 +20,7 @@ OUTPUT = ROOT / "output"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
 NAME_APPENDIX_MD = ROOT / "data" / "name_meanings_appendix.md"
+BOOK_INTROS_CSV = ROOT / "data" / "book_intros_template.csv"
 PROPER_NAMES_CSV = ROOT / "data" / "proper_names.csv"
 HEBREW_VOCAB_CSV = ROOT / "data" / "hebrew_top_vocab.csv"
 GREEK_VOCAB_CSV = ROOT / "data" / "greek_vocabulary.csv"
@@ -102,6 +103,98 @@ UKJV_BOOK_MAP = {
     66: ("REV", "Revelation"),
 }
 
+STANDARD_BOOK_NAMES = {
+    "GEN": "Genesis",
+    "EXO": "Exodus",
+    "LEV": "Leviticus",
+    "NUM": "Numbers",
+    "DEU": "Deuteronomy",
+    "JOS": "Joshua",
+    "JDG": "Judges",
+    "RUT": "Ruth",
+    "1SA": "1 Samuel",
+    "2SA": "2 Samuel",
+    "1KI": "1 Kings",
+    "2KI": "2 Kings",
+    "1CH": "1 Chronicles",
+    "2CH": "2 Chronicles",
+    "EZR": "Ezra",
+    "NEH": "Nehemiah",
+    "EST": "Esther",
+    "ESG": "Esther",
+    "JOB": "Job",
+    "PSA": "Psalms",
+    "PRO": "Proverbs",
+    "ECC": "Ecclesiastes",
+    "SNG": "Song of Solomon",
+    "ISA": "Isaiah",
+    "JER": "Jeremiah",
+    "LAM": "Lamentations",
+    "EZK": "Ezekiel",
+    "DAN": "Daniel",
+    "DAG": "Daniel",
+    "HOS": "Hosea",
+    "JOL": "Joel",
+    "AMO": "Amos",
+    "OBA": "Obadiah",
+    "JON": "Jonah",
+    "MIC": "Micah",
+    "NAM": "Nahum",
+    "HAB": "Habakkuk",
+    "ZEP": "Zephaniah",
+    "HAG": "Haggai",
+    "ZEC": "Zechariah",
+    "MAL": "Malachi",
+    "TOB": "Tobit",
+    "JDT": "Judith",
+    "WIS": "Wisdom",
+    "SIR": "Sirach",
+    "BAR": "Baruch",
+    "LJE": "Letter of Jeremiah",
+    "S3Y": "Song of the Three Holy Children",
+    "SUS": "Susanna",
+    "BEL": "Bel and the Dragon",
+    "1MA": "1 Maccabees",
+    "2MA": "2 Maccabees",
+    "1ES": "1 Esdras",
+    "MAN": "Prayer of Manasseh",
+    "PS2": "Psalm 151",
+    "3MA": "3 Maccabees",
+    "4MA": "4 Maccabees",
+    "ODA": "Odes",
+    "PSS": "Psalms of Solomon",
+    "EZA": "Ezra Apocalypse",
+    "JUB": "Jubilees",
+    "ENO": "Enoch",
+    "MAT": "Matthew",
+    "MRK": "Mark",
+    "LUK": "Luke",
+    "JHN": "John",
+    "ACT": "Acts",
+    "ROM": "Romans",
+    "1CO": "1 Corinthians",
+    "2CO": "2 Corinthians",
+    "GAL": "Galatians",
+    "EPH": "Ephesians",
+    "PHP": "Philippians",
+    "COL": "Colossians",
+    "1TH": "1 Thessalonians",
+    "2TH": "2 Thessalonians",
+    "1TI": "1 Timothy",
+    "2TI": "2 Timothy",
+    "TIT": "Titus",
+    "PHM": "Philemon",
+    "HEB": "Hebrews",
+    "JAS": "James",
+    "1PE": "1 Peter",
+    "2PE": "2 Peter",
+    "1JN": "1 John",
+    "2JN": "2 John",
+    "3JN": "3 John",
+    "JUD": "Jude",
+    "REV": "Revelation",
+}
+
 OPENBIBLE_BOOK_MAP = {
     "Gen": "GEN", "Exod": "EXO", "Lev": "LEV", "Num": "NUM", "Deut": "DEU",
     "Josh": "JOS", "Judg": "JDG", "Ruth": "RUT", "1Sam": "1SA", "2Sam": "2SA",
@@ -133,11 +226,11 @@ OSIS_BOOK_MAP = {
 }
 
 SUPERSCRIPTS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
-MAX_MARGIN_REFS_DISPLAY = 24
-MARGIN_REF_GROUP_SIZE = 4
-HEAVY_CROSSREF_THRESHOLD = 25
-EXTREME_CROSSREF_THRESHOLD = 55
-EXTREME_COMBINED_LOAD_THRESHOLD = 2200
+MAX_MARGIN_REFS_DISPLAY = 4
+MARGIN_REF_GROUP_SIZE = 2
+HEAVY_CROSSREF_THRESHOLD = 5
+EXTREME_CROSSREF_THRESHOLD = 10
+EXTREME_COMBINED_LOAD_THRESHOLD = 900
 
 
 @dataclass
@@ -209,10 +302,13 @@ def parse_brenton_usfm() -> Tuple[List[VerseRecord], Dict[str, int]]:
                     m = re.match(r"\\id\s+([A-Z0-9]+)", line)
                     if m:
                         book_code = m.group(1)
+                        book_name = STANDARD_BOOK_NAMES.get(book_code, book_code)
                 elif line.startswith("\\toc1 "):
-                    book_name = line[6:].strip()
+                    if not book_code:
+                        book_name = line[6:].strip()
                 elif line.startswith("\\mt1 ") and not book_name:
-                    book_name = line[5:].strip().title()
+                    if not book_code:
+                        book_name = line[5:].strip().title()
                 elif line.startswith("\\c "):
                     chapter = int(line.split()[1])
                 elif line.startswith(("\\s ", "\\s1 ", "\\s2 ", "\\ms ", "\\ms1 ")):
@@ -261,7 +357,8 @@ def parse_ukjv_xml() -> Tuple[List[VerseRecord], Dict[str, int]]:
         bnumber = int(book.attrib["bnumber"])
         if bnumber not in UKJV_BOOK_MAP:
             continue
-        book_code, book_name = UKJV_BOOK_MAP[bnumber]
+        book_code, raw_book_name = UKJV_BOOK_MAP[bnumber]
+        book_name = STANDARD_BOOK_NAMES.get(book_code, raw_book_name)
         diagnostics["books_seen"] += 1
         section = None
         for chapter_el in book.findall("CHAPTER"):
@@ -410,7 +507,7 @@ def parse_tsk_module() -> Tuple[Dict[Tuple[str, int, int], List[str]], Dict[Tupl
                     crossrefs[verse_key].extend(refs)
                 alpha_words = re.findall(r"[A-Za-z][A-Za-z'/-]*", note_text or "")
                 if note_text and len(alpha_words) >= 5:
-                    notes[verse_key].append(f"TSK note: {note_text}")
+                    notes[verse_key].append(note_text)
 
     cooked_crossrefs = {key: list(dict.fromkeys(values)) for key, values in crossrefs.items()}
     cooked_notes = {key: list(dict.fromkeys(values)) for key, values in notes.items()}
@@ -580,11 +677,11 @@ def parse_names_of_god_footnotes() -> Dict[str, List[str]]:
 
 
 def parse_hebrew_vocab_footnotes() -> Dict[str, List[str]]:
-    return parse_vocab_footnotes("Hebrew", "Hebrew background", [HEBREW_VOCAB_CSV, VOCAB_CLEANUP_CSV])
+    return parse_vocab_footnotes("Hebrew", "Heb. vocab", [HEBREW_VOCAB_CSV, VOCAB_CLEANUP_CSV])
 
 
 def parse_greek_vocab_footnotes() -> Dict[str, List[str]]:
-    return parse_vocab_footnotes("Greek", "Greek background", [GREEK_VOCAB_CSV, VOCAB_CLEANUP_CSV])
+    return parse_vocab_footnotes("Greek", "Gk. vocab", [GREEK_VOCAB_CSV, VOCAB_CLEANUP_CSV])
 
 
 def parse_vocab_footnotes(language: str, label: str, paths: List[Path]) -> Dict[str, List[str]]:
@@ -698,6 +795,7 @@ def verse_number(n: int) -> str:
 
 
 def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
+    book_intros = load_book_intros()
     lines = [
         "# Public-Domain Study Bible Prototype",
         "",
@@ -746,6 +844,9 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
             current_chapter = None
             lines.append(f"# {record.book_name}")
             lines.append("")
+            intro_row = book_intros.get(record.book_code)
+            if book_intro_has_content(intro_row):
+                lines.extend(render_markdown_intro(intro_row))
         if record.chapter != current_chapter:
             flush_paragraph()
             current_chapter = record.chapter
@@ -865,79 +966,170 @@ def chunk_list(items: List[str], size: int) -> List[List[str]]:
     return [items[i:i + size] for i in range(0, len(items), size)]
 
 
+def load_book_intros() -> Dict[str, Dict[str, str]]:
+    if not BOOK_INTROS_CSV.exists():
+        return {}
+    with BOOK_INTROS_CSV.open(encoding="utf-8", newline="") as handle:
+        rows = list(csv.DictReader(handle))
+    return {row["book_code"].strip(): row for row in rows if row.get("book_code", "").strip()}
+
+
+def book_intro_has_content(row: Optional[Dict[str, str]]) -> bool:
+    if not row:
+        return False
+    excluded = {"book_code", "book_name", "canonical_order", "section", "intro_title", "status", "source_notes"}
+    for key, value in row.items():
+        if key in excluded:
+            continue
+        if (value or "").strip():
+            return True
+    return False
+
+
+def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
+    def parts(*keys: str) -> str:
+        values = [row.get(key, "").strip() for key in keys if row.get(key, "").strip()]
+        return " ".join(values).strip()
+
+    witnesses = []
+    if parts("oldest_fragment", "oldest_fragment_date"):
+        witnesses.append("Frag. " + parts("oldest_fragment", "oldest_fragment_date"))
+    if parts("oldest_substantial_manuscript", "oldest_substantial_date"):
+        witnesses.append("Subst. " + parts("oldest_substantial_manuscript", "oldest_substantial_date"))
+    if parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"):
+        witnesses.append("Heb. " + parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"))
+    if parts("oldest_complete_greek", "oldest_complete_greek_date"):
+        witnesses.append("Gk. " + parts("oldest_complete_greek", "oldest_complete_greek_date"))
+
+    external = []
+    if row.get("oldest_external_reference", "").strip():
+        external.append(row["oldest_external_reference"].strip())
+    if row.get("oldest_external_reference_author", "").strip():
+        external.append("by " + row["oldest_external_reference_author"].strip())
+    if row.get("oldest_external_reference_date", "").strip():
+        external.append("(" + row["oldest_external_reference_date"].strip() + ")")
+
+    groups = [
+        ("Auth.", parts("traditional_author")),
+        ("Basis", parts("authorship_basis")),
+        ("NT att.", parts("jesus_or_nt_attribution")),
+        ("Date", parts("composition_date")),
+        ("MT", parts("mt_timeline")),
+        ("LXX", parts("lxx_timeline")),
+        ("Setting", parts("historical_setting")),
+        ("Purpose", parts("purpose_theme")),
+        ("Themes", parts("key_themes")),
+        ("Outline", parts("outline")),
+        ("Wit.", " | ".join(witnesses).strip()),
+        ("Ext.", " ".join(external).strip()),
+        ("Text", parts("textual_notes")),
+        ("Cons.", parts("conservative_notes")),
+    ]
+    return [(label, value) for label, value in groups if value]
+
+
+def render_markdown_intro(row: Dict[str, str]) -> List[str]:
+    lines = [f"> **{row.get('intro_title') or row.get('book_name') or row.get('book_code')} Intro**", ">"]
+    for label, value in compact_intro_groups(row):
+        lines.append(f"> **{label}** {value}")
+    lines.append("")
+    return lines
+
+
+def render_latex_intro(row: Dict[str, str]) -> List[str]:
+    title = row.get("intro_title") or row.get("book_name") or row.get("book_code")
+    lines = [
+        r"\newpage",
+        r"\section*{" + latex_escape(title + " Introduction") + "}",
+        r"{\fontsize{8.2}{9.2}\selectfont",
+        r"\begin{tabularx}{\textwidth}{@{}p{0.14\textwidth}X@{}}",
+    ]
+    for label, value in compact_intro_groups(row):
+        lines.append(
+            r"\textbf{" + latex_escape(label) + r"} & " + latex_escape(value) + r" \\"
+        )
+    lines.extend([
+        r"\end{tabularx}",
+        r"}",
+        "",
+    ])
+    return lines
+
+
 def verse_layout_tier(record: VerseRecord) -> str:
     note_text = " ".join(record.footnotes + record.study_notes)
     crossref_text = "; ".join(record.cross_references)
     combined_load = len(record.text) + len(note_text) + len(crossref_text)
     crossref_count = len(record.cross_references)
+    if crossref_count <= 4 and combined_load <= 450:
+        return "normal"
     if crossref_count >= EXTREME_CROSSREF_THRESHOLD or combined_load >= EXTREME_COMBINED_LOAD_THRESHOLD:
         return "extreme"
     if crossref_count >= HEAVY_CROSSREF_THRESHOLD:
         return "heavy"
-    return "normal"
+    return "heavy"
 
 
 def format_latex_footnote(record: VerseRecord, tier: str) -> str:
     textual = list(dict.fromkeys(item.strip() for item in record.footnotes if item.strip()))
-    study = list(dict.fromkeys(item.strip() for item in record.study_notes if item.strip()))
     items: List[str] = []
     if textual:
-        items.append(r"\textit{Textual/Apparatus:} " + " ".join(latex_escape(item) for item in textual))
-    if study:
-        items.append(r"\textit{Study Notes:} " + " ".join(latex_escape(item) for item in study))
-    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
-    if tier == "heavy" and len(refs) > MAX_MARGIN_REFS_DISPLAY:
-        items.append(r"\textit{Cross-Reference Overflow:} " + latex_escape("; ".join(refs[MAX_MARGIN_REFS_DISPLAY:])))
-    elif tier == "extreme" and refs:
-        items.append(r"\textit{Cross References:} " + latex_escape("; ".join(refs)))
+        items.append(r"\textsuperscript{T} " + " ".join(latex_escape(item) for item in textual))
     if not items:
         return ""
     body = r" \par ".join(items)
-    return r"\footnote{\footnotesize " + body + "}"
+    return r"\footnote{\fontsize{7.4}{8.3}\selectfont " + body + "}"
 
 
 def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
     refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
     if not refs:
         return ""
-    if tier == "extreme":
+    return ""
+
+
+def format_crossref_paragraph_item(record: VerseRecord) -> str:
+    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
+    if not refs:
         return ""
-    hidden_count = 0
-    if tier == "heavy" and len(refs) > MAX_MARGIN_REFS_DISPLAY:
-        hidden_count = len(refs) - MAX_MARGIN_REFS_DISPLAY
-        refs = refs[:MAX_MARGIN_REFS_DISPLAY]
-    rows = [latex_escape("; ".join(group)) for group in chunk_list(refs, MARGIN_REF_GROUP_SIZE)]
-    if hidden_count:
-        rows.append(latex_escape(f"footer holds {hidden_count} more refs"))
-    body = r"\\ ".join(rows)
-    return r"\marginnote{\raggedright\scriptsize " + body + "}"
+    return r"\textsuperscript{" + str(record.verse) + "} " + latex_escape("; ".join(refs))
+
+
+def format_study_paragraph_item(record: VerseRecord) -> str:
+    notes = list(dict.fromkeys(note.strip() for note in record.study_notes if note.strip()))
+    if not notes:
+        return ""
+    return r"\textsuperscript{" + str(record.verse) + "} " + " ".join(latex_escape(note) for note in notes)
 
 
 def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
+    book_intros = load_book_intros()
     lines = [
-        r"\documentclass[11pt,twoside]{article}",
-        r"\usepackage[paperwidth=8.5in,paperheight=11in,inner=0.9in,outer=1.8in,top=0.72in,bottom=0.82in,marginparwidth=1.35in,marginparsep=0.15in,footskip=0.38in]{geometry}",
+        r"\documentclass[10pt,twoside]{article}",
+        r"\usepackage[paperwidth=6.125in,paperheight=9.25in,inner=0.52in,outer=0.52in,top=0.45in,bottom=0.58in,footskip=0.20in]{geometry}",
         r"\usepackage{fontspec}",
         r"\setmainfont{Times New Roman}",
         r"\usepackage{parskip}",
-        r"\usepackage{marginnote}",
+        r"\usepackage{fancyhdr}",
         r"\usepackage[hang,flushmargin,bottom]{footmisc}",
+        r"\usepackage{tabularx}",
         r"\usepackage{titlesec}",
-        r"\titleformat{\section}{\Large\bfseries\centering}{}{0pt}{}",
-        r"\titleformat{\subsection}{\large\bfseries}{}{0pt}{}",
+        r"\titleformat{\section}{\fontsize{14}{15}\bfseries\centering}{}{0pt}{}",
+        r"\titleformat{\subsection}{\fontsize{11}{12}\bfseries}{}{0pt}{}",
         r"\setlength{\parindent}{0pt}",
-        r"\setlength{\marginparpush}{8pt}",
-        r"\setlength{\marginnotetextwidth}{1.35in}",
         r"\interfootnotelinepenalty=100",
         r"\emergencystretch=1.5em",
+        r"\raggedbottom",
         r"\sloppy",
+        r"\AtBeginDocument{\fontsize{9.5}{11.2}\selectfont}",
+        r"\pagestyle{fancy}",
+        r"\fancyhf{}",
+        r"\fancyfoot[LE,RO]{\fontsize{6.5}{6.5}\selectfont\thepage}",
+        r"\renewcommand{\headrulewidth}{0pt}",
+        r"\renewcommand{\footrulewidth}{0pt}",
         r"\begin{document}",
         r"\begin{center}\LARGE Public-Domain Study Bible Prototype\end{center}",
         r"\bigskip",
-        r"\noindent\textbf{Data diagnostics:}",
-        r"\begin{verbatim}",
-        json.dumps(diagnostics, indent=2, ensure_ascii=False),
-        r"\end{verbatim}",
     ]
     if PREFACE_MD.exists():
         preface = PREFACE_MD.read_text(encoding="utf-8")
@@ -950,6 +1142,10 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
                 lines.append(r"\section*{" + latex_escape(line[3:]) + "}")
             elif line.startswith("### "):
                 lines.append(r"\subsection*{" + latex_escape(line[4:]) + "}")
+            elif line.startswith("|"):
+                cells = [cell.strip() for cell in line.strip("|").split("|")]
+                if cells and not all(cell.replace("-", "").strip() == "" for cell in cells):
+                    lines.append(r"\noindent " + latex_escape(" | ".join(cells)) + r"\par")
             elif line.startswith("- "):
                 lines.append(r"\noindent " + latex_escape(line[2:]) + r"\par")
             else:
@@ -957,18 +1153,29 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
     current_book = None
     current_chapter = None
     paragraph_bits: List[str] = []
+    paragraph_crossrefs: List[str] = []
+    paragraph_study_notes: List[str] = []
 
     def flush():
-        nonlocal paragraph_bits
+        nonlocal paragraph_bits, paragraph_crossrefs, paragraph_study_notes
         if paragraph_bits:
             lines.append(r"\noindent " + " ".join(paragraph_bits) + r"\par")
+        if paragraph_study_notes:
+            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{N: }" + " ".join(paragraph_study_notes) + r"\par}")
+        if paragraph_crossrefs:
+            lines.append(r"{\fontsize{6.8}{7.4}\selectfont\noindent\textit{X: }" + " ".join(paragraph_crossrefs) + r"\par}")
         paragraph_bits = []
+        paragraph_crossrefs = []
+        paragraph_study_notes = []
 
     for record in records:
         if record.book_name != current_book:
             flush()
             current_book = record.book_name
             current_chapter = None
+            intro_row = book_intros.get(record.book_code)
+            if book_intro_has_content(intro_row):
+                lines.extend(render_latex_intro(intro_row))
             lines.append(r"\section*{" + latex_escape(record.book_name) + "}")
         if record.chapter != current_chapter:
             flush()
@@ -977,12 +1184,15 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        margin_refs = format_latex_margin_refs(record, tier)
         footnote = format_latex_footnote(record, tier)
         verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text) + footnote
-        if margin_refs:
-            verse_text = margin_refs + " " + verse_text
         paragraph_bits.append(verse_text)
+        study_item = format_study_paragraph_item(record)
+        if study_item:
+            paragraph_study_notes.append(study_item)
+        crossref_item = format_crossref_paragraph_item(record)
+        if crossref_item:
+            paragraph_crossrefs.append(crossref_item)
     flush()
     if APPENDIX_MD.exists():
         appendix = APPENDIX_MD.read_text(encoding="utf-8")
@@ -995,6 +1205,10 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
                 lines.append(r"\section*{" + latex_escape(line[3:]) + "}")
             elif line.startswith("### "):
                 lines.append(r"\subsection*{" + latex_escape(line[4:]) + "}")
+            elif line.startswith("|"):
+                cells = [cell.strip() for cell in line.strip("|").split("|")]
+                if cells and not all(cell.replace("-", "").strip() == "" for cell in cells):
+                    lines.append(r"\noindent " + latex_escape(" | ".join(cells)) + r"\par")
             elif line.startswith("- "):
                 lines.append(r"\noindent " + latex_escape(line[2:]) + r"\par")
             else:
@@ -1010,6 +1224,10 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
                 lines.append(r"\section*{" + latex_escape(line[3:]) + "}")
             elif line.startswith("### "):
                 lines.append(r"\subsection*{" + latex_escape(line[4:]) + "}")
+            elif line.startswith("|"):
+                cells = [cell.strip() for cell in line.strip("|").split("|")]
+                if cells and not all(cell.replace("-", "").strip() == "" for cell in cells):
+                    lines.append(r"\noindent " + latex_escape(" | ".join(cells)) + r"\par")
             elif line.startswith("- "):
                 lines.append(r"\noindent " + latex_escape(line[2:]) + r"\par")
             else:
