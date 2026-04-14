@@ -5,8 +5,8 @@
   1917 *Book of Enoch* are treated here as public-domain sources.
 - UKJV distributed here as public-domain text; credit line included here as
   requested and gladly given: `I love Jesus (UKJV)`.
-- Editor's original material in this project is released as openly as possible
-  under `CC0 1.0`, except where a separate notice applies.
+- Editor's original material in this project is released under `CC-BY 4.0`,
+  except where a separate notice applies.
 - Current build system still carries provisional OpenBible fallback data in a
   few places. That layer is `CC-BY`, not public domain, and should be removed
   for a strict all-public-domain release.
