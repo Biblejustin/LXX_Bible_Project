@@ -18,6 +18,7 @@ from typing import Dict, List, Optional, Tuple
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 OUTPUT = ROOT / "output"
+RIGHTS_MD = ROOT / "data" / "rights_and_rationale.md"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
 NAME_APPENDIX_MD = ROOT / "data" / "name_meanings_appendix.md"
@@ -1023,6 +1024,9 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
         "- Brenton USFM footnotes were extracted and attached inline under each verse.",
         "",
     ]
+    if RIGHTS_MD.exists():
+        lines.append(RIGHTS_MD.read_text(encoding="utf-8").strip())
+        lines.append("")
     if PREFACE_MD.exists():
         lines.append(PREFACE_MD.read_text(encoding="utf-8").strip())
         lines.append("")
@@ -1344,6 +1348,21 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         r"\begin{center}{\color{tnaccent}\fontsize{15}{16}\bfseries\scshape Public-Domain Study Bible Prototype}\end{center}",
         r"\bigskip",
     ]
+    if RIGHTS_MD.exists():
+        rights = RIGHTS_MD.read_text(encoding="utf-8")
+        lines.append(r"\newpage")
+        for raw_line in rights.splitlines():
+            line = raw_line.strip()
+            if not line:
+                lines.append("")
+            elif line.startswith("## "):
+                lines.append(r"\section*{" + latex_escape(line[3:]) + "}")
+            elif line.startswith("### "):
+                lines.append(r"\subsection*{" + latex_escape(line[4:]) + "}")
+            elif line.startswith("- "):
+                lines.append(r"\noindent$\bullet$ " + latex_escape(line[2:]) + r"\par")
+            else:
+                lines.append(r"\noindent " + latex_escape(line) + r"\par")
     if PREFACE_MD.exists():
         preface = PREFACE_MD.read_text(encoding="utf-8")
         lines.append(r"\newpage")
