@@ -3,9 +3,11 @@ import csv
 import html
 import json
 import re
+import struct
 import unicodedata
 import xml.etree.ElementTree as ET
 import zipfile
+import zlib
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -18,9 +20,12 @@ OUTPUT = ROOT / "output"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
 NAME_APPENDIX_MD = ROOT / "data" / "name_meanings_appendix.md"
+PROPER_NAMES_CSV = ROOT / "data" / "proper_names.csv"
 HEBREW_VOCAB_CSV = ROOT / "data" / "hebrew_top_vocab.csv"
 GREEK_VOCAB_CSV = ROOT / "data" / "greek_vocabulary.csv"
 VOCAB_CLEANUP_CSV = ROOT / "data" / "vocab_cleanup.csv"
+NAMES_OF_GOD_CSV = ROOT / "data" / "names_of_god.csv"
+KJV_V11N_JSON = ROOT / "data" / "kjv_versification.json"
 
 BRENTON_ZIP = RAW / "eng-Brenton_usfm.zip"
 UKJV_ZIP = RAW / "SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).zip"
@@ -44,6 +49,28 @@ NT_BOOKS = [
     "PHP", "COL", "1TH", "2TH", "1TI", "2TI", "TIT", "PHM", "HEB", "JAS",
     "1PE", "2PE", "1JN", "2JN", "3JN", "JUD", "REV",
 ]
+
+APOCRYPHA_BOOKS = [
+    "TOB", "JDT", "WIS", "SIR", "BAR", "LJE", "SUS", "BEL", "1MA", "2MA",
+    "1ES", "MAN", "3MA", "4MA",
+]
+
+FINAL_BOOK_ORDER = [
+    "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA",
+    "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "ESG", "JOB", "PSA", "PRO",
+    "ECC", "SNG", "ISA", "JER", "LAM", "EZK", "DAG", "HOS", "JOL", "AMO",
+    "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL",
+    *NT_BOOKS,
+    *APOCRYPHA_BOOKS,
+]
+
+TSK_OT_BOOKS = [
+    "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA",
+    "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "ESG", "JOB", "PSA", "PRO",
+    "ECC", "SNG", "ISA", "JER", "LAM", "EZK", "DAG", "HOS", "JOL", "AMO",
+    "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL",
+]
+TSK_NT_BOOKS = NT_BOOKS[:]
 
 UKJV_BOOK_MAP = {
     40: ("MAT", "Matthew"),
@@ -90,6 +117,19 @@ OPENBIBLE_BOOK_MAP = {
     "Titus": "TIT", "Phlm": "PHM", "Heb": "HEB", "Jas": "JAS", "1Pet": "1PE",
     "2Pet": "2PE", "1John": "1JN", "2John": "2JN", "3John": "3JN", "Jude": "JUD",
     "Rev": "REV",
+}
+
+OSIS_BOOK_MAP = {
+    **OPENBIBLE_BOOK_MAP,
+    "Exod": "EXO",
+    "Deut": "DEU",
+    "1Kgs": "1KI",
+    "2Kgs": "2KI",
+    "Esth": "ESG",
+    "Dan": "DAG",
+    "Matt": "MAT",
+    "Phlm": "PHM",
+    "Jude": "JUD",
 }
 
 SUPERSCRIPTS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
@@ -274,16 +314,106 @@ def parse_kalvesmaki() -> Tuple[Dict[str, List[str]], Dict[str, int]]:
     return notes_by_nt_ref, diagnostics
 
 
-def load_tsk_stub() -> Dict[str, object]:
-    diagnostics = {
+def load_kjv_versification() -> Dict[str, List[int]]:
+    if not KJV_V11N_JSON.exists():
+        return {}
+    return json.loads(KJV_V11N_JSON.read_text(encoding="utf-8"))
+
+
+def build_tsk_index_map(book_order: List[str], verse_counts: Dict[str, List[int]]) -> Dict[int, Tuple[str, int, int]]:
+    index_map: Dict[int, Tuple[str, int, int]] = {}
+    idx = 2
+    for book_code in book_order:
+        chapters = verse_counts.get(book_code, [])
+        idx += 1  # book intro
+        for chapter_num, verse_total in enumerate(chapters, start=1):
+            idx += 1  # chapter intro
+            for verse_num in range(1, verse_total + 1):
+                index_map[idx] = (book_code, chapter_num, verse_num)
+                idx += 1
+    return index_map
+
+
+def decode_tsk_blob(bzv: bytes, bzs: bytes, bzz: bytes, index: int, cache: Dict[int, bytes]) -> str:
+    buffnum, start, size = struct.unpack_from("<IIH", bzv, index * 10)
+    if size == 0:
+        return ""
+    if buffnum not in cache:
+        offset, compressed_size, _ = struct.unpack_from("<III", bzs, buffnum * 12)
+        cache[buffnum] = zlib.decompress(bzz[offset:offset + compressed_size])
+    return cache[buffnum][start:start + size].decode("utf-8", "replace")
+
+
+def extract_tsk_crossrefs(raw_text: str) -> Tuple[List[str], Optional[str]]:
+    refs = [normalize_space(html.unescape(item)) for item in re.findall(r"<reference\b[^>]*>(.*?)</reference>", raw_text, flags=re.S)]
+    refs = [item for item in refs if item]
+    note_text = re.sub(r"<reference\b[^>]*>.*?</reference>", " ", raw_text, flags=re.S)
+    note_text = re.sub(r"</?(hi|div|title|catchWord)\b[^>]*>", " ", note_text)
+    note_text = re.sub(r"<lb\b[^>]*>", " ", note_text)
+    note_text = re.sub(r"<[^>]+>", " ", note_text)
+    note_text = normalize_space(html.unescape(note_text)).strip(" ;,")
+    if note_text:
+        note_text = re.sub(r"\s*;\s*", "; ", note_text)
+        note_text = re.sub(r"\s*,\s*", ", ", note_text)
+        note_text = re.sub(r"(?:,\s*){2,}", ", ", note_text)
+        note_text = re.sub(r"(?:;\s*){2,}", "; ", note_text)
+        note_text = re.sub(r"\b([A-Za-z]+)(?:\s+\1\b)+", r"\1", note_text)
+    return list(dict.fromkeys(refs)), note_text or None
+
+
+def parse_tsk_module() -> Tuple[Dict[Tuple[str, int, int], List[str]], Dict[Tuple[str, int, int], List[str]], Dict[str, object]]:
+    diagnostics: Dict[str, object] = {
         "archive_present": TSK_ZIP.exists(),
         "status": "unparsed",
-        "reason": "Supplied TSK file is a CrossWire binary module (zcom). A structured CSV/JSON/OSIS export is still needed for full automated import in this prototype.",
     }
-    if TSK_ZIP.exists():
-        with zipfile.ZipFile(TSK_ZIP) as zf:
-            diagnostics["members"] = zf.namelist()
-    return diagnostics
+    if not TSK_ZIP.exists():
+        diagnostics["reason"] = "TSK archive not found."
+        return {}, {}, diagnostics
+    verse_counts = load_kjv_versification()
+    if not verse_counts:
+        diagnostics["reason"] = "KJV versification data not found."
+        return {}, {}, diagnostics
+
+    index_maps = {
+        "ot": build_tsk_index_map(TSK_OT_BOOKS, verse_counts),
+        "nt": build_tsk_index_map(TSK_NT_BOOKS, verse_counts),
+    }
+    crossrefs: Dict[Tuple[str, int, int], List[str]] = defaultdict(list)
+    notes: Dict[Tuple[str, int, int], List[str]] = defaultdict(list)
+
+    with zipfile.ZipFile(TSK_ZIP) as zf:
+        diagnostics["members"] = zf.namelist()
+        for testament, base in {
+            "ot": "modules/comments/zcom/tsk/ot",
+            "nt": "modules/comments/zcom/tsk/nt",
+        }.items():
+            bzv = zf.read(f"{base}.bzv")
+            bzs = zf.read(f"{base}.bzs")
+            bzz = zf.read(f"{base}.bzz")
+            entries = len(bzv) // 10
+            diagnostics[f"{testament}_entries"] = entries
+            blob_cache: Dict[int, bytes] = {}
+            for index in range(entries):
+                verse_key = index_maps[testament].get(index)
+                if not verse_key:
+                    continue
+                raw_text = decode_tsk_blob(bzv, bzs, bzz, index, blob_cache)
+                if not raw_text:
+                    continue
+                refs, note_text = extract_tsk_crossrefs(raw_text)
+                if refs:
+                    crossrefs[verse_key].extend(refs)
+                alpha_words = re.findall(r"[A-Za-z][A-Za-z'/-]*", note_text or "")
+                if note_text and len(alpha_words) >= 5:
+                    notes[verse_key].append(f"TSK note: {note_text}")
+
+    cooked_crossrefs = {key: list(dict.fromkeys(values)) for key, values in crossrefs.items()}
+    cooked_notes = {key: list(dict.fromkeys(values)) for key, values in notes.items()}
+    diagnostics["status"] = "parsed"
+    diagnostics["verses_with_refs"] = len(cooked_crossrefs)
+    diagnostics["verses_with_notes"] = len(cooked_notes)
+    diagnostics["total_crossrefs"] = sum(len(v) for v in cooked_crossrefs.values())
+    return cooked_crossrefs, cooked_notes, diagnostics
 
 
 def parse_openbible_ref(raw_ref: str) -> Optional[Tuple[str, int, int, str]]:
@@ -390,6 +520,60 @@ def parse_name_meanings() -> List[Tuple[str, str]]:
     return items
 
 
+def parse_proper_name_footnotes() -> Dict[str, List[str]]:
+    notes: Dict[str, List[str]] = defaultdict(list)
+    if not PROPER_NAMES_CSV.exists():
+        return notes
+    with PROPER_NAMES_CSV.open(encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            ref = normalize_space(row.get("first_reference", ""))
+            name = normalize_space(row.get("name", ""))
+            translit = normalize_space(row.get("transliteration", ""))
+            meaning = normalize_space(row.get("meaning", ""))
+            footnote = normalize_space(row.get("footnote", ""))
+            if not ref or not name:
+                continue
+            pieces = [f"Name meaning: {name}"]
+            if translit:
+                pieces[-1] += f" ({translit})"
+            if meaning:
+                pieces[-1] += f" — {meaning}"
+            if footnote:
+                pieces.append(footnote)
+            notes[ref].append(" ".join(pieces))
+    return notes
+
+
+def parse_names_of_god_footnotes() -> Dict[str, List[str]]:
+    notes: Dict[str, List[str]] = defaultdict(list)
+    if not NAMES_OF_GOD_CSV.exists():
+        return notes
+    with NAMES_OF_GOD_CSV.open(encoding="utf-8") as f:
+        raw = f.read().replace("“", '"').replace("”", '"')
+    reader = csv.DictReader(raw.splitlines())
+    for row in reader:
+        ref = normalize_space(row.get("first_reference", ""))
+        translit = normalize_space(row.get("transliteration", ""))
+        lemma = normalize_space(row.get("lemma", ""))
+        meaning = normalize_space(row.get("meaning", ""))
+        renderings = normalize_space(row.get("english_renderings", ""))
+        footnote = normalize_space(row.get("footnote", ""))
+        if not ref:
+            continue
+        pieces = [f"Name of God: {translit}"]
+        if lemma:
+            pieces[-1] += f" ({lemma})"
+        if meaning:
+            pieces[-1] += f" — {meaning}"
+        if renderings:
+            pieces.append(f"Common English renderings: {renderings}.")
+        if footnote:
+            pieces.append(footnote)
+        notes[ref].append(" ".join(pieces))
+    return notes
+
+
 def parse_hebrew_vocab_footnotes() -> Dict[str, List[str]]:
     return parse_vocab_footnotes("Hebrew", "Hebrew background", [HEBREW_VOCAB_CSV, VOCAB_CLEANUP_CSV])
 
@@ -440,20 +624,17 @@ def parse_vocab_footnotes(language: str, label: str, paths: List[Path]) -> Dict[
     return notes
 
 
-def add_first_use_name_footnotes(records: List[VerseRecord]) -> int:
-    names = parse_name_meanings()
-    seen: set[str] = set()
-    added = 0
-    for record in records:
-        for name, meaning in names:
-            key = name.lower()
-            if key in seen:
-                continue
-            if re.search(r"\b" + re.escape(name) + r"\b", record.text, flags=re.IGNORECASE):
-                record.footnotes.append(f"Name meaning: {name} — {meaning}")
-                seen.add(key)
-                added += 1
-    return added
+def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
+    order = {code: index for index, code in enumerate(FINAL_BOOK_ORDER)}
+    return sorted(
+        records,
+        key=lambda r: (
+            order.get(r.book_code, 9999),
+            r.chapter,
+            r.verse,
+            0 if r.source == "Brenton LXX" else 1,
+        ),
+    )
 
 
 def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
@@ -461,35 +642,47 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     ukjv, ukjv_diag = parse_ukjv_xml()
     kal_notes, kal_diag = parse_kalvesmaki()
     kal_html_notes, kal_html_diag = parse_kalvesmaki_html()
+    tsk_crossrefs, tsk_notes, tsk_diag = parse_tsk_module()
     crossrefs, crossref_diag = parse_openbible_crossrefs()
+    proper_name_notes = parse_proper_name_footnotes()
+    names_of_god_notes = parse_names_of_god_footnotes()
     hebrew_vocab_notes = parse_hebrew_vocab_footnotes()
     greek_vocab_notes = parse_greek_vocab_footnotes()
-    tsk_diag = load_tsk_stub()
-
     all_records = brenton + ukjv
     for record in all_records:
         key = (record.book_code, record.chapter, record.verse)
-        if key in crossrefs:
+        if key in tsk_crossrefs:
+            record.cross_references.extend(tsk_crossrefs[key])
+        elif key in crossrefs:
             record.cross_references.extend(crossrefs[key])
+        if key in tsk_notes:
+            record.study_notes.extend(tsk_notes[key])
         if record.book_code in NT_BOOKS:
             notes = kal_html_notes.get(record.ref, []) or kal_notes.get(record.ref, [])
             if notes:
                 record.study_notes.extend(notes)
+        if record.ref in names_of_god_notes:
+            record.footnotes.extend(names_of_god_notes[record.ref])
+        if record.ref in proper_name_notes:
+            record.footnotes.extend(proper_name_notes[record.ref])
         if record.ref in hebrew_vocab_notes:
             record.footnotes.extend(hebrew_vocab_notes[record.ref])
         if record.ref in greek_vocab_notes:
             record.footnotes.extend(greek_vocab_notes[record.ref])
-    name_notes_added = add_first_use_name_footnotes(all_records)
+    name_notes_added = sum(len(v) for v in proper_name_notes.values())
+    all_records = sort_records(all_records)
     diagnostics = {
         "brenton": brenton_diag,
         "ukjv": ukjv_diag,
         "kalvesmaki_csv": kal_diag,
         "kalvesmaki_html": kal_html_diag,
+        "tsk": tsk_diag,
         "openbible_crossrefs": crossref_diag,
+        "names_of_god_footnotes_loaded": sum(len(v) for v in names_of_god_notes.values()),
+        "proper_name_footnotes_loaded": name_notes_added,
         "hebrew_vocab_footnotes_loaded": sum(len(v) for v in hebrew_vocab_notes.values()),
         "greek_vocab_footnotes_loaded": sum(len(v) for v in greek_vocab_notes.values()),
-        "name_meaning_footnotes_added": name_notes_added,
-        "tsk": tsk_diag,
+        "final_book_order": FINAL_BOOK_ORDER,
         "total_records": len(all_records),
     }
     return all_records, diagnostics
@@ -513,8 +706,8 @@ def render_markdown(records: List[VerseRecord], diagnostics: Dict[str, object]) 
         "",
         "## Editorial Flags",
         "",
-        "- TSK archive supplied but not yet decoded into verse-linked structured cross-references.",
-        "- OpenBible cross-references were used provisionally for prototype placement; this file is CC-BY, not public domain.",
+        "- TSK public-domain CrossWire module decoded and attached as the primary cross-reference layer.",
+        "- OpenBible cross-references remain only as a fallback where TSK is still absent; this layer is CC-BY and provisional.",
         "- Full Kalvesmaki HTML was parsed when present; CSV fallback remains supported.",
         "- Brenton USFM footnotes were extracted and attached inline under each verse.",
         "",
