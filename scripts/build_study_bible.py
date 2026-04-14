@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import argparse
 import csv
 import html
 import json
@@ -28,6 +29,7 @@ NAMES_OF_GOD_CSV = ROOT / "data" / "names_of_god.csv"
 KJV_V11N_JSON = ROOT / "data" / "kjv_versification.json"
 
 BRENTON_ZIP = RAW / "eng-Brenton_usfm.zip"
+LXX2012_ZIP = RAW / "eng-lxx2012_vpl.zip"
 UKJV_ZIP = RAW / "SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).zip"
 TSK_ZIP = RAW / "TSK.zip"
 KALVESMAKI_CSV = RAW / "Kalvesmaki chart.csv"
@@ -130,6 +132,20 @@ OSIS_BOOK_MAP = {
     "Matt": "MAT",
     "Phlm": "PHM",
     "Jude": "JUD",
+}
+
+LXX2012_BOOK_MAP = {
+    "GEN": "GEN", "EXO": "EXO", "LEV": "LEV", "NUM": "NUM", "DEU": "DEU",
+    "JOS": "JOS", "JDG": "JDG", "RUT": "RUT", "1SA": "1SA", "2SA": "2SA",
+    "1KI": "1KI", "2KI": "2KI", "1CH": "1CH", "2CH": "2CH", "EZR": "EZR",
+    "NEH": "NEH", "EST": "ESG", "JOB": "JOB", "PSA": "PSA", "PRO": "PRO",
+    "ECC": "ECC", "SOL": "SNG", "ISA": "ISA", "JER": "JER", "LAM": "LAM",
+    "EZE": "EZK", "DAN": "DAG", "HOS": "HOS", "JOE": "JOL", "AMO": "AMO",
+    "OBA": "OBA", "JON": "JON", "MIC": "MIC", "NAH": "NAM", "HAB": "HAB",
+    "ZEP": "ZEP", "HAG": "HAG", "ZEC": "ZEC", "MAL": "MAL", "TOB": "TOB",
+    "JDT": "JDT", "WIS": "WIS", "SIR": "SIR", "BAR": "BAR", "EPJ": "LJE",
+    "PRA": "MAN", "SUS": "SUS", "BEL": "BEL", "1MA": "1MA", "2MA": "2MA",
+    "1ES": "1ES", "PRM": "MAN", "3MA": "3MA",
 }
 
 SUPERSCRIPTS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
@@ -291,6 +307,65 @@ def parse_ukjv_xml() -> Tuple[List[VerseRecord], Dict[str, int]]:
                 )
                 paragraph_start = False
     return records, diagnostics
+
+
+def parse_lxx2012_vpl() -> Tuple[List[VerseRecord], Dict[str, int]]:
+    records: List[VerseRecord] = []
+    diagnostics = {"books_seen": 0, "footnotes_extracted": 0, "source": "LXX2012 VPL"}
+    if not LXX2012_ZIP.exists():
+        return records, diagnostics
+    book_seen = set()
+    with zipfile.ZipFile(LXX2012_ZIP) as zf:
+        lines = zf.read("eng-lxx2012_vpl.txt").decode("utf-8", "replace").splitlines()
+    for line in lines:
+        m = re.match(r"([1-3A-Z]{3})\s+(\d+):(\d+)\s+(.*)", line.strip())
+        if not m:
+            continue
+        raw_book_code, chapter, verse, text = m.groups()
+        book_code = LXX2012_BOOK_MAP.get(raw_book_code, raw_book_code)
+        if book_code not in OT_BOOKS:
+            continue
+        if book_code not in book_seen:
+            book_seen.add(book_code)
+        records.append(
+            VerseRecord(
+                book_code=book_code,
+                book_name=book_name_from_code(book_code),
+                chapter=int(chapter),
+                verse=int(verse),
+                text=normalize_space(text),
+                source="LXX2012",
+                paragraph_start=(verse == "1"),
+            )
+        )
+    diagnostics["books_seen"] = len(book_seen)
+    return records, diagnostics
+
+
+def book_name_from_code(book_code: str) -> str:
+    for source in (parse_brenton_usfm,):
+        pass
+    lookup = {
+        "GEN": "Genesis", "EXO": "Exodus", "LEV": "Leviticus", "NUM": "Numbers", "DEU": "Deuteronomy",
+        "JOS": "Joshua", "JDG": "Judges", "RUT": "Ruth", "1SA": "Kings I", "2SA": "Kings II",
+        "1KI": "Kings III", "2KI": "Kings IV", "1CH": "Chronicles I", "2CH": "Chronicles II",
+        "EZR": "Ezra and Nehemiah", "NEH": "Ezra and Nehemiah", "ESG": "Esther (Greek)", "JOB": "Job",
+        "PSA": "Psalms", "PRO": "Proverbs", "ECC": "Ecclesiastes", "SNG": "Song of Songs",
+        "ISA": "Esaias", "JER": "Jeremias", "LAM": "Lamentations", "EZK": "Ezekiel", "DAG": "Daniel",
+        "HOS": "Osee", "JOL": "Joel", "AMO": "Amos", "OBA": "Obadiah", "JON": "Jonah", "MIC": "Micah",
+        "NAM": "Nahum", "HAB": "Habakkuk", "ZEP": "Sophonias", "HAG": "Aggaeus", "ZEC": "Zacharias",
+        "MAL": "Malachi", "TOB": "Tobit", "JDT": "Judith", "WIS": "Wisdom of Solomon", "SIR": "Sirach",
+        "BAR": "Baruch", "LJE": "Epistle of Jeremy", "SUS": "Susanna", "BEL": "Bel and the Dragon",
+        "1MA": "1 Maccabees", "2MA": "2 Maccabees", "1ES": "1 Esdras", "MAN": "Prayer of Manasseh",
+        "3MA": "3 Maccabees", "4MA": "4 Maccabees",
+        "MAT": "Matthew", "MRK": "Mark", "LUK": "Luke", "JHN": "John", "ACT": "Acts", "ROM": "Romans",
+        "1CO": "1 Corinthians", "2CO": "2 Corinthians", "GAL": "Galatians", "EPH": "Ephesians",
+        "PHP": "Philippians", "COL": "Colossians", "1TH": "1 Thessalonians", "2TH": "2 Thessalonians",
+        "1TI": "1 Timothy", "2TI": "2 Timothy", "TIT": "Titus", "PHM": "Philemon", "HEB": "Hebrews",
+        "JAS": "James", "1PE": "1 Peter", "2PE": "2 Peter", "1JN": "1 John", "2JN": "2 John",
+        "3JN": "3 John", "JUD": "Jude", "REV": "Revelation",
+    }
+    return lookup.get(book_code, book_code)
 
 
 def parse_kalvesmaki() -> Tuple[Dict[str, List[str]], Dict[str, int]]:
@@ -642,8 +717,11 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
     )
 
 
-def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
-    brenton, brenton_diag = parse_brenton_usfm()
+def merge_records(ot_source: str = "brenton") -> Tuple[List[VerseRecord], Dict[str, object]]:
+    if ot_source == "lxx2012":
+        brenton, brenton_diag = parse_lxx2012_vpl()
+    else:
+        brenton, brenton_diag = parse_brenton_usfm()
     ukjv, ukjv_diag = parse_ukjv_xml()
     kal_notes, kal_diag = parse_kalvesmaki()
     kal_html_notes, kal_html_diag = parse_kalvesmaki_html()
@@ -678,6 +756,7 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     all_records = sort_records(all_records)
     diagnostics = {
         "brenton": brenton_diag,
+        "ot_source": ot_source,
         "ukjv": ukjv_diag,
         "kalvesmaki_csv": kal_diag,
         "kalvesmaki_html": kal_html_diag,
@@ -1064,16 +1143,20 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--ot-source", choices=["brenton", "lxx2012"], default="brenton")
+    parser.add_argument("--output-prefix", default="study_bible_prototype")
+    args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    records, diagnostics = merge_records()
+    records, diagnostics = merge_records(args.ot_source)
     markdown = render_markdown(records, diagnostics)
-    md_path = OUTPUT / "study_bible_prototype.md"
+    md_path = OUTPUT / f"{args.output_prefix}.md"
     md_path.write_text(markdown, encoding="utf-8")
-    json_path = OUTPUT / "build_diagnostics.json"
+    json_path = OUTPUT / f"{args.output_prefix}_diagnostics.json"
     json_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
-    overflow_path = OUTPUT / "overflow_report.json"
+    overflow_path = OUTPUT / f"{args.output_prefix}_overflow_report.json"
     overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
-    tex_path = OUTPUT / "study_bible_prototype.tex"
+    tex_path = OUTPUT / f"{args.output_prefix}.tex"
     tex_path.write_text(render_latex(records, diagnostics), encoding="utf-8")
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
