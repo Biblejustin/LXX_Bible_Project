@@ -17,6 +17,7 @@ from typing import Dict, List, Optional, Tuple
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 OUTPUT = ROOT / "output"
+OUTPUT_PREFIX = "Brenton_UKJV_study_bible_prototype"
 PREFACE_MD = ROOT / "data" / "preface_charts.md"
 APPENDIX_MD = ROOT / "data" / "appendix_references.md"
 NAME_APPENDIX_MD = ROOT / "data" / "name_meanings_appendix.md"
@@ -926,7 +927,7 @@ def render_pdf_excerpt(records: List[VerseRecord], markdown_path: Path) -> Optio
     except Exception:
         return None
 
-    pdf_path = OUTPUT / "study_bible_prototype_excerpt.pdf"
+    pdf_path = OUTPUT / f"{OUTPUT_PREFIX}_excerpt.pdf"
     doc = SimpleDocTemplate(
         str(pdf_path),
         pagesize=LETTER,
@@ -1237,7 +1238,7 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         if record.paragraph_start:
             flush()
         tier = verse_layout_tier(record)
-        verse_text = r"{\color{tnaccent}\fontsize{5.9}{5.9}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
+        verse_text = r"{\color{tnaccent}\fontsize{6.4}{6.4}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
         textual_item = format_textual_paragraph_item(record)
         if textual_item:
@@ -1341,13 +1342,13 @@ def main() -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     records, diagnostics = merge_records()
     markdown = render_markdown(records, diagnostics)
-    md_path = OUTPUT / "study_bible_prototype.md"
+    md_path = OUTPUT / f"{OUTPUT_PREFIX}.md"
     md_path.write_text(markdown, encoding="utf-8")
-    json_path = OUTPUT / "build_diagnostics.json"
+    json_path = OUTPUT / f"{OUTPUT_PREFIX}_diagnostics.json"
     json_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
-    overflow_path = OUTPUT / "overflow_report.json"
+    overflow_path = OUTPUT / f"{OUTPUT_PREFIX}_overflow_report.json"
     overflow_path.write_text(json.dumps(build_overflow_report(records), indent=2, ensure_ascii=False), encoding="utf-8")
-    tex_path = OUTPUT / "study_bible_prototype.tex"
+    tex_path = OUTPUT / f"{OUTPUT_PREFIX}.tex"
     tex_path.write_text(render_latex(records, diagnostics), encoding="utf-8")
     pdf_path = render_pdf_excerpt(records, md_path)
     summary = {
