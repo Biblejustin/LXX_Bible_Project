@@ -856,30 +856,37 @@ def latex_escape(text: str) -> str:
     return "".join(replacements.get(ch, ch) for ch in text)
 
 
+def chunk_list(items: List[str], size: int) -> List[List[str]]:
+    return [items[i:i + size] for i in range(0, len(items), size)]
+
+
 def format_latex_footnote(record: VerseRecord) -> str:
+    textual = list(dict.fromkeys(item.strip() for item in record.footnotes if item.strip()))
+    study = list(dict.fromkeys(item.strip() for item in record.study_notes if item.strip()))
     items: List[str] = []
-    for note in record.footnotes:
-        items.append(note)
-    for note in record.study_notes:
-        items.append(note)
-    items = list(dict.fromkeys(item.strip() for item in items if item.strip()))
+    if textual:
+        items.append(r"\textit{Textual/Apparatus:} " + " ".join(latex_escape(item) for item in textual))
+    if study:
+        items.append(r"\textit{Study Notes:} " + " ".join(latex_escape(item) for item in study))
     if not items:
         return ""
-    return r"\footnote{" + latex_escape(" ".join(items)) + "}"
+    body = r" \par ".join(items)
+    return r"\footnote{\footnotesize " + body + "}"
 
 
 def format_latex_margin_refs(record: VerseRecord) -> str:
     refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
     if not refs:
         return ""
-    body = latex_escape("; ".join(refs))
-    return r"\marginpar{\raggedright\tiny " + body + "}"
+    rows = [latex_escape("; ".join(group)) for group in chunk_list(refs, 6)]
+    body = r"\\ ".join(rows)
+    return r"\marginpar{\raggedright\scriptsize " + body + "}"
 
 
 def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
     lines = [
         r"\documentclass[11pt,twoside]{article}",
-        r"\usepackage[paperwidth=8.5in,paperheight=11in,inner=0.9in,outer=1.65in,top=0.75in,bottom=0.85in,marginparwidth=1.2in,marginparsep=0.15in,footskip=0.35in]{geometry}",
+        r"\usepackage[paperwidth=8.5in,paperheight=11in,inner=0.9in,outer=1.8in,top=0.72in,bottom=0.82in,marginparwidth=1.35in,marginparsep=0.15in,footskip=0.38in]{geometry}",
         r"\usepackage[T1]{fontenc}",
         r"\usepackage[utf8]{inputenc}",
         r"\usepackage{parskip}",
@@ -888,8 +895,11 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
         r"\titleformat{\section}{\Large\bfseries\centering}{}{0pt}{}",
         r"\titleformat{\subsection}{\large\bfseries}{}{0pt}{}",
         r"\setlength{\parindent}{0pt}",
-        r"\setlength{\marginparpush}{6pt}",
-        r"\renewcommand{\marginfont}{\tiny\raggedright}",
+        r"\setlength{\marginparpush}{8pt}",
+        r"\interfootnotelinepenalty=100",
+        r"\emergencystretch=1.5em",
+        r"\sloppy",
+        r"\renewcommand{\marginfont}{\scriptsize\raggedright}",
         r"\begin{document}",
         r"\begin{center}\LARGE Public-Domain Study Bible Prototype\end{center}",
         r"\bigskip",
