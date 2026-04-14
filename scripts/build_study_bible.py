@@ -856,16 +856,40 @@ def latex_escape(text: str) -> str:
     return "".join(replacements.get(ch, ch) for ch in text)
 
 
+def format_latex_footnote(record: VerseRecord) -> str:
+    items: List[str] = []
+    for note in record.footnotes:
+        items.append(note)
+    for note in record.study_notes:
+        items.append(note)
+    items = list(dict.fromkeys(item.strip() for item in items if item.strip()))
+    if not items:
+        return ""
+    return r"\footnote{" + latex_escape(" ".join(items)) + "}"
+
+
+def format_latex_margin_refs(record: VerseRecord) -> str:
+    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
+    if not refs:
+        return ""
+    body = latex_escape("; ".join(refs))
+    return r"\marginpar{\raggedright\tiny " + body + "}"
+
+
 def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> str:
     lines = [
-        r"\documentclass[11pt]{article}",
-        r"\usepackage[margin=0.85in]{geometry}",
+        r"\documentclass[11pt,twoside]{article}",
+        r"\usepackage[paperwidth=8.5in,paperheight=11in,inner=0.9in,outer=1.65in,top=0.75in,bottom=0.85in,marginparwidth=1.2in,marginparsep=0.15in,footskip=0.35in]{geometry}",
         r"\usepackage[T1]{fontenc}",
         r"\usepackage[utf8]{inputenc}",
         r"\usepackage{parskip}",
+        r"\usepackage[hang,flushmargin,bottom]{footmisc}",
         r"\usepackage{titlesec}",
         r"\titleformat{\section}{\Large\bfseries\centering}{}{0pt}{}",
         r"\titleformat{\subsection}{\large\bfseries}{}{0pt}{}",
+        r"\setlength{\parindent}{0pt}",
+        r"\setlength{\marginparpush}{6pt}",
+        r"\renewcommand{\marginfont}{\tiny\raggedright}",
         r"\begin{document}",
         r"\begin{center}\LARGE Public-Domain Study Bible Prototype\end{center}",
         r"\bigskip",
@@ -892,19 +916,12 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
     current_book = None
     current_chapter = None
     paragraph_bits: List[str] = []
-    paragraph_notes: List[str] = []
 
     def flush():
-        nonlocal paragraph_bits, paragraph_notes
+        nonlocal paragraph_bits
         if paragraph_bits:
             lines.append(r"\noindent " + " ".join(paragraph_bits) + r"\par")
-        if paragraph_notes:
-            lines.append(r"\begin{quote}\footnotesize")
-            for note in paragraph_notes:
-                lines.append(latex_escape(note) + r"\par")
-            lines.append(r"\end{quote}")
         paragraph_bits = []
-        paragraph_notes = []
 
     for record in records:
         if record.book_name != current_book:
@@ -918,11 +935,12 @@ def render_latex(records: List[VerseRecord], diagnostics: Dict[str, object]) -> 
             lines.append(r"\subsection*{" + latex_escape(f"{record.book_name} {record.chapter}") + "}")
         if record.paragraph_start:
             flush()
-        paragraph_bits.append(r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text))
-        for note in record.footnotes:
-            paragraph_notes.append(f"{record.ref} Brenton note: {note}")
-        for note in record.study_notes:
-            paragraph_notes.append(f"{record.ref} {note}")
+        margin_refs = format_latex_margin_refs(record)
+        footnote = format_latex_footnote(record)
+        verse_text = r"\textsuperscript{" + str(record.verse) + "} " + latex_escape(record.text) + footnote
+        if margin_refs:
+            verse_text = margin_refs + " " + verse_text
+        paragraph_bits.append(verse_text)
     flush()
     if APPENDIX_MD.exists():
         appendix = APPENDIX_MD.read_text(encoding="utf-8")
