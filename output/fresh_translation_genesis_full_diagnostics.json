@@ -2,6 +2,13 @@
   "verse_rows": 1532,
   "verses_with_greek_text": 1532,
   "verses_with_draft_translation": 80,
+  "book_count": 1,
+  "book_rows": {
+    "Genesis": {
+      "verse_rows": 1532,
+      "drafted_rows": 80
+    }
+  },
   "logos_note_rows": 36,
   "decision_rows": 63,
   "footnote_rows": 31,

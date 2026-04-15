@@ -2,7 +2,9 @@
 
 Scope: Genesis 1-50
 
-## Chapter 1
+## Genesis
+
+### Chapter 1
 
 **Genesis 1:1**
 
@@ -110,7 +112,7 @@ And God said, 'Let us make humankind according to our image and according to lik
 
 **Genesis 1:27**
 
-And God made humankind; according to God's image he made it. Male and female he made them.
+And God made humankind; according to God's image he made humankind. Male and female he made them.
 
 **Genesis 1:28**
 
@@ -128,7 +130,7 @@ And to every wild beast of the earth and every bird of Heaven and every creeping
 
 And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
 
-## Chapter 2
+### Chapter 2
 
 **Genesis 2:1**
 
@@ -144,7 +146,7 @@ And God blessed the seventh day and made it holy, because on it he rested from a
 
 **Genesis 2:4**
 
-This is the book of the genesis of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
+This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
 
 **Genesis 2:5**
 
@@ -156,7 +158,7 @@ But a spring was rising from the earth and watering the whole face of the ground
 
 **Genesis 2:7**
 
-And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living creature.
+And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
 
 **Genesis 2:8**
 
@@ -230,11 +232,11 @@ Because of this, a man will leave his father and his mother and be joined to his
 
 And the two were naked, Adam and his wife, and they were not ashamed.
 
-## Chapter 3
+### Chapter 3
 
 **Genesis 3:1**
 
-Now the serpent was the most prudent of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
+Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
 
 **Genesis 3:2**
 
@@ -298,7 +300,7 @@ And to the woman he said that multiplying he would multiply your pains and your 
 
 **Genesis 3:17**
 
-And to Adam he said that because you listened to the voice of your wife and ate from the tree from which alone he commanded you not to eat, the ground is cursed in your works. In pains you will eat from it all the days of your life.
+And to Adam he said that because you listened to the voice of your wife and ate from the tree from which alone he commanded you not to eat, the ground is cursed in your labors. In pains you will eat from it all the days of your life.
 
 **Genesis 3:18**
 
@@ -328,7 +330,7 @@ And the Lord God sent him out from the garden of delight to work the earth from 
 
 And he cast Adam out and settled him opposite the garden of delight, and he stationed the Cherubim and the flaming turning sword to guard the way of the tree of life.
 
-## Chapter 4
+### Chapter 4
 
 **Genesis 4:1**
 
@@ -434,7 +436,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 5
+### Chapter 5
 
 **Genesis 5:1**
 
@@ -564,7 +566,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 6
+### Chapter 6
 
 **Genesis 6:1**
 
@@ -654,7 +656,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 7
+### Chapter 7
 
 **Genesis 7:1**
 
@@ -752,7 +754,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 8
+### Chapter 8
 
 **Genesis 8:1**
 
@@ -842,7 +844,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 9
+### Chapter 9
 
 **Genesis 9:1**
 
@@ -960,7 +962,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 10
+### Chapter 10
 
 **Genesis 10:1**
 
@@ -1090,7 +1092,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 11
+### Chapter 11
 
 **Genesis 11:1**
 
@@ -1220,7 +1222,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 12
+### Chapter 12
 
 **Genesis 12:1**
 
@@ -1302,7 +1304,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 13
+### Chapter 13
 
 **Genesis 13:1**
 
@@ -1376,7 +1378,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 14
+### Chapter 14
 
 **Genesis 14:1**
 
@@ -1474,7 +1476,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 15
+### Chapter 15
 
 **Genesis 15:1**
 
@@ -1556,7 +1558,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 16
+### Chapter 16
 
 **Genesis 16:1**
 
@@ -1622,7 +1624,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 17
+### Chapter 17
 
 **Genesis 17:1**
 
@@ -1732,7 +1734,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 18
+### Chapter 18
 
 **Genesis 18:1**
 
@@ -1866,7 +1868,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 19
+### Chapter 19
 
 **Genesis 19:1**
 
@@ -2020,7 +2022,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 20
+### Chapter 20
 
 **Genesis 20:1**
 
@@ -2094,7 +2096,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 21
+### Chapter 21
 
 **Genesis 21:1**
 
@@ -2232,7 +2234,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 22
+### Chapter 22
 
 **Genesis 22:1**
 
@@ -2330,7 +2332,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 23
+### Chapter 23
 
 **Genesis 23:1**
 
@@ -2412,7 +2414,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 24
+### Chapter 24
 
 **Genesis 24:1**
 
@@ -2682,7 +2684,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 25
+### Chapter 25
 
 **Genesis 25:1**
 
@@ -2820,7 +2822,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 26
+### Chapter 26
 
 **Genesis 26:1**
 
@@ -2962,7 +2964,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 27
+### Chapter 27
 
 **Genesis 27:1**
 
@@ -3148,7 +3150,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 28
+### Chapter 28
 
 **Genesis 28:1**
 
@@ -3238,7 +3240,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 29
+### Chapter 29
 
 **Genesis 29:1**
 
@@ -3380,7 +3382,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 30
+### Chapter 30
 
 **Genesis 30:1**
 
@@ -3554,7 +3556,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 31
+### Chapter 31
 
 **Genesis 31:1**
 
@@ -3776,7 +3778,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 32
+### Chapter 32
 
 **Genesis 32:1**
 
@@ -3906,7 +3908,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 33
+### Chapter 33
 
 **Genesis 33:1**
 
@@ -3988,7 +3990,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 34
+### Chapter 34
 
 **Genesis 34:1**
 
@@ -4114,7 +4116,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 35
+### Chapter 35
 
 **Genesis 35:1**
 
@@ -4232,7 +4234,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 36
+### Chapter 36
 
 **Genesis 36:1**
 
@@ -4406,7 +4408,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 37
+### Chapter 37
 
 **Genesis 37:1**
 
@@ -4552,7 +4554,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 38
+### Chapter 38
 
 **Genesis 38:1**
 
@@ -4674,7 +4676,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 39
+### Chapter 39
 
 **Genesis 39:1**
 
@@ -4768,7 +4770,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 40
+### Chapter 40
 
 **Genesis 40:1**
 
@@ -4862,7 +4864,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 41
+### Chapter 41
 
 **Genesis 41:1**
 
@@ -5092,7 +5094,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 42
+### Chapter 42
 
 **Genesis 42:1**
 
@@ -5250,7 +5252,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 43
+### Chapter 43
 
 **Genesis 43:1**
 
@@ -5384,7 +5386,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 44
+### Chapter 44
 
 **Genesis 44:1**
 
@@ -5522,7 +5524,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 45
+### Chapter 45
 
 **Genesis 45:1**
 
@@ -5636,7 +5638,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 46
+### Chapter 46
 
 **Genesis 46:1**
 
@@ -5774,7 +5776,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 47
+### Chapter 47
 
 **Genesis 47:1**
 
@@ -5900,7 +5902,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 48
+### Chapter 48
 
 **Genesis 48:1**
 
@@ -5990,7 +5992,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 49
+### Chapter 49
 
 **Genesis 49:1**
 
@@ -6124,7 +6126,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 [TODO]
 
-## Chapter 50
+### Chapter 50
 
 **Genesis 50:1**
 
