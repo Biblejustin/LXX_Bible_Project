@@ -20,6 +20,7 @@ DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_VARIANTS = RESEARCH / "variant_notes.csv"
 DEFAULT_STACK = RESEARCH / "logos_translation_stack.json"
 DEFAULT_OUTPUT = OUTPUT / "fresh_translation_genesis_1_3_pilot.md"
+DEFAULT_TRANSLATION_ONLY = OUTPUT / "fresh_translation_genesis_1_3_translation_only.md"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_genesis_1_3_pilot_diagnostics.json"
 
 REQUIRED_SOURCE_COLUMNS = [
@@ -167,6 +168,31 @@ def build_markdown(
     return "\n".join(lines).strip() + "\n"
 
 
+def build_translation_only_markdown(source_rows: List[Dict[str, str]]) -> str:
+    lines = [
+        "# Fresh Translation Pilot",
+        "",
+        "Scope: Genesis 1-3",
+        "",
+    ]
+
+    current_chapter = None
+    for row in source_rows:
+        chapter = row.get("chapter", "").strip()
+        ref = row.get("ref", "").strip()
+        draft = row.get("draft_translation", "").strip()
+        if chapter != current_chapter:
+            current_chapter = chapter
+            lines.append(f"## Chapter {chapter}")
+            lines.append("")
+        lines.append(f"**{ref}**")
+        lines.append("")
+        lines.append(draft or "[TODO]")
+        lines.append("")
+
+    return "\n".join(lines).strip() + "\n"
+
+
 def build_diagnostics(
     source_rows: List[Dict[str, str]],
     logos_notes: List[Dict[str, str]],
@@ -211,6 +237,7 @@ def main() -> None:
     parser.add_argument("--variants", default=str(DEFAULT_VARIANTS))
     parser.add_argument("--stack", default=str(DEFAULT_STACK))
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
+    parser.add_argument("--translation-only-output", default=str(DEFAULT_TRANSLATION_ONLY))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
     args = parser.parse_args()
 
@@ -221,6 +248,7 @@ def main() -> None:
     variants_path = Path(args.variants)
     stack_path = Path(args.stack)
     output_path = Path(args.output)
+    translation_only_output_path = Path(args.translation_only_output)
     diagnostics_path = Path(args.diagnostics)
 
     source_rows = load_csv_rows(source_path)
@@ -232,6 +260,7 @@ def main() -> None:
     stack = load_json(stack_path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    translation_only_output_path.parent.mkdir(parents=True, exist_ok=True)
     diagnostics_path.parent.mkdir(parents=True, exist_ok=True)
 
     markdown = build_markdown(
@@ -244,6 +273,9 @@ def main() -> None:
     )
     output_path.write_text(markdown, encoding="utf-8")
 
+    translation_only_markdown = build_translation_only_markdown(source_rows)
+    translation_only_output_path.write_text(translation_only_markdown, encoding="utf-8")
+
     diagnostics = build_diagnostics(source_rows, logos_rows, decisions_rows, footnote_rows, variant_rows, stack)
     diagnostics_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -251,6 +283,7 @@ def main() -> None:
         json.dumps(
             {
                 "worksheet": str(output_path),
+                "translation_only": str(translation_only_output_path),
                 "diagnostics": str(diagnostics_path),
             },
             indent=2,
