@@ -1,14 +1,20 @@
 {
-  "drafted_rows_compared": 1243,
+  "drafted_rows_compared": 2102,
   "books_with_drafts": [
     "Exodus",
-    "Genesis"
+    "Genesis",
+    "Leviticus"
   ],
   "missing_brenton_rows": 0,
   "importance_counts": {
-    "high": 223,
-    "medium": 172,
-    "low": 829,
-    "none": 19
-  }
+    "high": 279,
+    "medium": 352,
+    "low": 1417,
+    "none": 54
+  },
+  "selected_scope": "Genesis-Malachi (39 books)",
+  "selected_verse_rows": 23351,
+  "selected_drafted_rows": 2102,
+  "min_importance": "none",
+  "output_compare_rows": 2102
 }

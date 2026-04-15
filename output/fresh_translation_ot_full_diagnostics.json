@@ -1,12 +1,17 @@
 {
   "verse_rows": 23351,
   "verses_with_greek_text": 23351,
-  "verses_with_draft_translation": 1243,
+  "verses_with_draft_translation": 2102,
+  "selected_scope": "Genesis-Malachi (39 books)",
+  "selected_verse_rows": 23351,
+  "selected_drafted_rows": 2102,
+  "output_verse_rows": 2102,
+  "output_drafted_rows": 2102,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
       "verse_rows": 1531,
-      "drafted_rows": 80
+      "drafted_rows": 160
     },
     "Exodus": {
       "verse_rows": 1163,
@@ -14,7 +19,7 @@
     },
     "Leviticus": {
       "verse_rows": 859,
-      "drafted_rows": 0
+      "drafted_rows": 779
     },
     "Numbers": {
       "verse_rows": 1287,
@@ -162,17 +167,17 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 246,
-  "footnote_rows": 196,
+  "decision_rows": 304,
+  "footnote_rows": 251,
   "variant_rows": 48,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 246,
+    "drafted": 304,
     "reviewed": 0
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 196,
+    "drafted": 251,
     "reviewed": 0
   },
   "chapters": [

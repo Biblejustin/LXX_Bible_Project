@@ -1,18 +1,1466 @@
 # Fresh vs Brenton OT Comparison
 
-Drafted rows compared: 1243
-Books with drafts: Exodus, Genesis
+Selected scope: Genesis-Malachi (39 books)
+Selected verse rows: 23351
+Selected drafted rows: 2102
+Minimum importance: none
+Output compare rows: 2102
+
+Drafted rows compared: 2102
+Books with drafts: Exodus, Genesis, Leviticus
 Missing Brenton rows: 0
 
 Importance counts:
-- high: 223
-- medium: 172
-- low: 829
-- none: 19
+- high: 279
+- medium: 352
+- low: 1417
+- none: 54
 
 Note:
 - Whole-OT compare pipeline ready.
 - Actual comparison breadth still limited by drafted fresh verses.
+
+## Genesis
+
+### Genesis 1:1
+
+- importance: high
+- decisions: 3
+- footnotes: 1
+- same_normalized: no
+- fresh: At the beginning, God made heaven and earth.
+- brenton: In the beginning God made the heaven and the earth.
+
+### Genesis 1:2
+
+- importance: high
+- decisions: 4
+- footnotes: 1
+- same_normalized: no
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
+
+### Genesis 1:3
+
+- importance: high
+- decisions: 3
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let light come to be.' And light came to be.
+- brenton: And God said, Let there be light, and there was light.
+
+### Genesis 1:4
+
+- importance: high
+- decisions: 2
+- footnotes: 0
+- same_normalized: no
+- fresh: And God saw the light, that it was good. And God separated the light from the darkness.
+- brenton: And God saw the light that it was good, and God divided between the light and the darkness.
+
+### Genesis 1:5
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
+- brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
+
+### Genesis 1:6
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let a firm span come to be in the middle of the water, and let it divide water from water.' And it came to be so.
+- brenton: And God said, Let there be a firmament in the midst of the water, and let it be a division between water and water, and it was so.
+
+### Genesis 1:7
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God made the firm span, and God separated the water below the firm span from the water above the firm span.
+- brenton: And God made the firmament, and God divided between the water which was under the firmament and the water which was above the firmament.
+
+### Genesis 1:8
+
+- importance: high
+- decisions: 2
+- footnotes: 0
+- same_normalized: no
+- fresh: And God called the firm span Heaven. And God saw that it was good. And evening came, and morning came: second day.
+- brenton: And God called the firmament Heaven, and God saw that it was good, and there was evening and there was morning, the second day.
+
+### Genesis 1:9
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into collections, and the dry land appeared.
+- brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
+
+### Genesis 1:10
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good.
+- brenton: And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
+
+### Genesis 1:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
+- brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
+
+### Genesis 1:12
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And the earth brought forth seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth. And God saw that it was good.
+- brenton: And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.
+
+### Genesis 1:13
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And evening came, and morning came: third day.
+- brenton: And there was evening and there was morning, the third day.
+
+### Genesis 1:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining on the earth, to divide day from night. And let them be for signs and for seasons and for days and for years.'
+- brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
+
+### Genesis 1:15
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And let them be for shining in the firm span of Heaven so as to shine on the earth. And it came to be so.
+- brenton: And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.
+
+### Genesis 1:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God made the two great light-bearers, the greater light-bearer for the dominion of the day and the lesser light-bearer for the dominion of the night, and the stars.
+- brenton: And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.
+
+### Genesis 1:17
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God placed them in the firm span of Heaven so as to shine on the earth.
+- brenton: And God placed them in the firmament of the heaven, so as to shine upon the earth,
+
+### Genesis 1:18
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And they were to rule day and night and to divide light from darkness. And God saw that it was good.
+- brenton: and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.
+
+### Genesis 1:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And evening came, and morning came: fourth day.
+- brenton: And there was evening and there was morning, the fourth day.
+
+### Genesis 1:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let the waters bring forth swarming living creatures and winged birds flying over the earth across the firm span of Heaven.' And it came to be so.
+- brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
+
+### Genesis 1:21
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God made the great sea-creatures and every living creature among the swarming things that the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.
+- brenton: And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.
+
+### Genesis 1:22
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.'
+- brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
+
+### Genesis 1:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And evening came, and morning came: fifth day.
+- brenton: And there was evening and there was morning, the fifth day.
+
+### Genesis 1:24
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said, 'Let the earth bring forth living creatures according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+- brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
+
+### Genesis 1:25
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God made the wild beasts of the earth according to kind, and the livestock according to their kind, and every creeping thing of the earth according to its kind. And God saw that they were good.
+- brenton: And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.
+
+### Genesis 1:26
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
+### Genesis 1:27
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God made humankind; according to God's image he made humankind. Male and female he made them.
+- brenton: And God made man, according to the image of God he made him, male and female he made them.
+
+### Genesis 1:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the livestock and all the earth and every creeping thing that creeps on the earth.'
+- brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
+
+### Genesis 1:29
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said, 'Look, I have given you every seed-bearing plant that sows seed on all the earth, and every tree that has in itself fruit with seed for sowing. It will be food for you.'
+- brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
+
+### Genesis 1:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And to every wild beast of the earth and every bird of Heaven and every creeping thing that creeps on the earth, everything that has in itself living breath, I have given every green plant for food. And it came to be so.
+- brenton: And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.
+
+### Genesis 1:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
+- brenton: And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.
+
+### Genesis 2:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Heaven and Earth were completed, and all their ordered array.
+- brenton: And the heavens and the earth were finished, and the whole world of them.
+
+### Genesis 2:2
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God completed his works, the works he had made, on the sixth day, and he rested on the seventh day from all his works that he had made.
+- brenton: And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.
+
+### Genesis 2:3
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God blessed the seventh day and made it holy, because on it he rested from all his works, the works God had begun to make.
+- brenton: And God blessed the seventh day and sanctified it, because in it he ceased from all his works which God began to do.
+
+### Genesis 2:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
+- brenton: This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,
+
+### Genesis 2:5
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And every green thing of the field was there before it came to be on the earth, and every grass of the field before it sprang up; for God had not rained on the earth, and there was no human to work it.
+- brenton: and every herb of the field before it was on the earth, and all the grass of the field before it sprang up, for God had not rained on the earth, and there was not a man to cultivate it.
+
+### Genesis 2:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But a spring was rising from the earth and watering the whole face of the ground.
+- brenton: But there rose a fountain out of the earth, and watered the whole face of the earth.
+
+### Genesis 2:7
+
+- importance: high
+- decisions: 2
+- footnotes: 1
+- same_normalized: no
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+### Genesis 2:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God planted a garden in Eden toward the east, and he placed there the human whom he formed.
+- brenton: And God planted a garden eastward in Edem, and placed there the man whom he had formed.
+
+### Genesis 2:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God still caused every tree to spring up from the earth, beautiful to look at and good for food, and the tree of life in the middle of the garden, and the tree of knowing good and evil.
+- brenton: And God made to spring up also out of the earth every tree beautiful to the eye and good for food, and the tree of life in the midst of the garden, and the tree of learning the knowledge of good and evil.
+
+### Genesis 2:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But a river goes out from Eden to water the garden; from there it is divided into four heads.
+- brenton: And a river proceeds out of Edem to water the garden, thence it divides itself into four heads.
+
+### Genesis 2:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The name of the first is Pishon; this is the one that circles all the land of Havilah, where the gold is.
+- brenton: The name of the one, Phisom, this it is which encircles the whole land of Evilat, where there is gold.
+
+### Genesis 2:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the gold of that land is good; and there too are the carbuncle and the green stone.
+- brenton: And the gold of that land is good, there also is carbuncle and emerald.
+
+### Genesis 2:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of the second river is Gihon; this is the one that circles all the land of Ethiopia.
+- brenton: And the name of the second river is Geon, this it is which encircles the whole land of Ethiopia.
+
+### Genesis 2:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the third river is Tigris; this is the one that goes opposite the Assyrians. And the fourth river is Euphrates.
+- brenton: And the third river is Tigris, this is that which flows forth over against the Assyrians. And the fourth river is Euphrates.
+
+### Genesis 2:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God took the human whom he had formed and placed him in the garden of delight, to work it and to keep it.
+- brenton: And the Lord God took the man whom he had formed, and placed him in the garden of Delight, to cultivate and keep it.
+
+### Genesis 2:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God commanded Adam, saying that from every tree in the garden he might surely eat,
+- brenton: And the Lord God gave a charge to Adam, saying, Of every tree which is in the garden thou mayest freely eat,
+
+### Genesis 2:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but from the tree of knowing good and evil, he was not to eat from it; on the day he ate from it, he would certainly die.
+- brenton: but of the tree of the knowledge of good and evil—of it ye shall not eat, but in whatsoever day ye eat of it, ye shall surely die.
+
+### Genesis 2:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord God said, 'It is not good for the human to be alone. Let us make for him a helper corresponding to him.'
+- brenton: And the Lord God said, It is not good that the man should be alone, let us make for him a help suitable to him.
+
+### Genesis 2:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God still formed from the earth all the beasts of the field and all the birds of Heaven, and brought them to Adam to see what he would call them. And whatever Adam called each living creature, that was its name.
+- brenton: And God formed yet farther out of the earth all the wild beasts of the field, and all the birds of the sky, and he brought them to Adam, to see what he would call them, and whatever Adam called any living creature, that was the name of it.
+
+### Genesis 2:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam gave names to all the livestock and to all the birds of Heaven and to all the beasts of the field. But for Adam no helper like him was found.
+- brenton: And Adam gave names to all the cattle and to all the birds of the sky, and to all the wild beasts of the field, but for Adam there was not found a help like to himself.
+
+### Genesis 2:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God cast an ecstasy on Adam, and he slept; and he took one of his sides and filled flesh in its place.
+- brenton: And God brought a trance upon Adam, and he slept, and he took one of his ribs, and filled up the flesh instead thereof.
+
+### Genesis 2:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God built the side that he had taken from Adam into a woman and brought her to Adam.
+- brenton: And God formed the rib which he took from Adam into a woman, and brought her to Adam.
+
+### Genesis 2:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Adam said, 'This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man.'
+- brenton: And Adam said, This now is bone of my bones, and flesh of my flesh; she shall be called woman, because she was taken out of her husband.
+
+### Genesis 2:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because of this, a man will leave his father and his mother and be joined to his wife, and the two will become one flesh.
+- brenton: Therefore shall a man leave his father and his mother and shall cleave to his wife, and they two shall be one flesh.
+
+### Genesis 2:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the two were naked, Adam and his wife, and they were not ashamed.
+- brenton: And the two were naked, both Adam and his wife, and were not ashamed.
+
+### Genesis 3:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
+- brenton: Now the serpent was the most crafty of all the brutes on the earth, which the Lord God made, and the serpent said to the woman, Wherefore has God said, Eat not of every tree of the garden?
+
+### Genesis 3:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the woman said to the serpent that they would eat from the fruit of the trees of the garden,
+- brenton: And the woman said to the serpent, We may eat of the fruit of the trees of the garden,
+
+### Genesis 3:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but from the fruit of the tree that is in the middle of the garden, God had said they should not eat from it, nor indeed touch it, lest they die.
+- brenton: but of the fruit of the tree which is in the midst of the garden, God said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
+
+### Genesis 3:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the serpent said to the woman that they would certainly not die.
+- brenton: And the serpent said to the woman, Ye shall not surely die.
+
+### Genesis 3:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For God knew that on the day you eat from it, your eyes will be opened and you will be like gods, knowing good and evil.'
+- brenton: For God knew that in whatever day ye should eat of it your eyes would be opened, and ye would be as gods, knowing good and evil.
+
+### Genesis 3:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the woman saw that the tree was good for food and pleasing to the eyes to look at, and that it was beautiful for understanding. And taking from its fruit, she ate; and she gave also to her husband with her, and they ate.
+- brenton: And the woman saw that the tree was good for food, and that it was pleasant to the eyes to look upon and beautiful to contemplate, and having taken of its fruit she ate, and she gave to her husband also with her, and they ate.
+
+### Genesis 3:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the eyes of the two were opened, and they knew that they were naked, and they sewed fig leaves together and made loincloths for themselves.
+- brenton: And the eyes of both were opened, and they perceived that they were naked, and they sewed fig leaves together, and made themselves aprons to go round them.
+
+### Genesis 3:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they heard the sound of the Lord God walking in the garden at evening, and Adam and his wife hid themselves from the face of the Lord God among the trees of the garden.
+- brenton: And they heard the voice of the Lord God walking in the garden in the afternoon; and both Adam and his wife hid themselves from the face of the Lord God in the midst of the trees of the garden.
+
+### Genesis 3:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God called Adam and said to him, 'Adam, where are you?'
+- brenton: And the Lord God called Adam and said to him, Adam, where art thou?
+
+### Genesis 3:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, 'I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself.'
+- brenton: And he said to him, I heard thy voice as thou walkedst in the garden, and I feared because I was naked and I hid myself.
+
+### Genesis 3:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to him, 'Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?'
+- brenton: And God said to him, Who told thee that thou wast naked, unless thou hast eaten of the tree concerning which I charged thee of it alone not to eat?
+
+### Genesis 3:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam said, 'The woman whom you gave with me, she gave me from the tree, and I ate.'
+- brenton: And Adam said, The woman whom thou gavest to be with me—she gave me of the tree and I ate.
+
+### Genesis 3:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'
+- brenton: And the Lord God said to the woman, Why hast thou done this? And the woman said, The serpent deceived me and I ate.
+
+### Genesis 3:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to the serpent that because you did this, you are cursed above all livestock and above all the beasts on the earth. On your chest and your belly you will go, and earth you will eat all the days of your life.
+- brenton: And the Lord God said to the serpent, Because thou hast done this thou art cursed above all cattle and all the brutes of the earth, on thy breast and belly thou shalt go, and thou shalt eat earth all the days of thy life.
+
+### Genesis 3:15
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he would put enmity between you and the woman, and between your seed and her seed. He will watch your head, and you will watch his heel.
+- brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
+
+### Genesis 3:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And to the woman he said that multiplying he would multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.
+- brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
+
+### Genesis 3:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Adam he said that because you listened to the voice of your wife and ate from the tree from which alone he commanded you not to eat, the ground is cursed in your labors. In pains you will eat from it all the days of your life.
+- brenton: And to Adam he said, Because thou hast hearkened to the voice of thy wife, and eaten of the tree concerning which I charged thee of it only not to eat—of that thou hast eaten, cursed is the ground in thy labours, in pain shalt thou eat of it all the days of thy life.
+
+### Genesis 3:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It will bring forth thorns and thistles for you, and you will eat the grass of the field.
+- brenton: Thorns and thistles shall it bring forth to thee, and thou shalt eat the herb of the field.
+
+### Genesis 3:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By the sweat of your face you will eat your bread, until you return to the earth from which you were taken; because earth you are, and to earth you will depart.
+- brenton: In the sweat of thy face shalt thou eat thy bread until thou return to the earth out of which thou wast taken, for earth thou art and to earth thou shalt return.
+
+### Genesis 3:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam called the name of his wife Life, because she is the mother of all the living.
+- brenton: And Adam called the name of his wife Life, because she was the mother of all living.
+
+### Genesis 3:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord God made skin tunics for Adam and for his wife, and clothed them.
+- brenton: And the Lord God made for Adam and his wife garments of skin, and clothed them.
+
+### Genesis 3:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.'
+- brenton: And God said, Behold, Adam is become as one of us, to know good and evil, and now lest at any time he stretch forth his hand, and take of the tree of life and eat, and so he shall live for ever—
+
+### Genesis 3:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God sent him out from the garden of delight to work the earth from which he had been taken.
+- brenton: So the Lord God sent him forth out of the garden of Delight to cultivate the ground out of which he was taken.
+
+### Genesis 3:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he cast Adam out and settled him opposite the garden of delight, and he stationed the Cherubim and the flaming turning sword to guard the way of the tree of life.
+- brenton: And he cast out Adam and caused him to dwell over against the garden of Delight, and stationed the cherubs and the fiery sword that turns about to keep the way of the tree of life.
+
+### Genesis 4:1
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam knew Eve his wife, and having conceived she bore Cain and said, 'I have acquired a man through God.'
+- brenton: And Adam knew Eve his wife, and she conceived and brought forth Cain and said, I have gained a man through God.
+
+### Genesis 4:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she added to bear his brother Abel. And Abel became a shepherd of sheep, but Cain was working the earth.
+- brenton: And she again bore his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
+
+### Genesis 4:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be after days that Cain brought from the fruits of the earth a sacrifice to the Lord,
+- brenton: And it was so after some time that Cain brought of the fruits of the earth a sacrifice to the Lord.
+
+### Genesis 4:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Abel, he too brought from the firstborn of his sheep and from their fat portions. And God looked upon Abel and upon his gifts,
+- brenton: And Abel also brought of the firstborn of his sheep and of his fatlings, and God looked upon Abel and his gifts,
+
+### Genesis 4:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but upon Cain and upon his sacrifices he gave no heed. And Cain was greatly grieved, and his face fell.
+- brenton: but Cain and his sacrifices he regarded not, and Cain was exceedingly sorrowful and his countenance fell.
+
+### Genesis 4:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Cain, 'Why did you become deeply grieved, and why did your face fall?'
+- brenton: And the Lord God said to Cain, Why art thou become very sorrowful and why is thy countenance fallen?
+
+### Genesis 4:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: 'If you offered rightly, but did not divide rightly, did you not sin? Be still. Toward you is its turning, and you shall rule it.'
+- brenton: Hast thou not sinned if thou hast brought it rightly, but not rightly divided it? be still, to thee shall be his submission, and thou shalt rule over him.
+
+### Genesis 4:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cain said to Abel his brother, 'Let us go through into the field.' And it came to be while they were in the field that Cain rose against Abel his brother and killed him.
+- brenton: And Cain said to Abel his brother, Let us go out into the plain; and it came to pass that when they were in the plain Cain rose up against Abel his brother, and slew him.
+
+### Genesis 4:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Cain, 'Where is Abel your brother?' And he said, 'I do not know. Am I my brother's keeper?'
+- brenton: And the Lord God said to Cain, Where is Abel thy brother? and he said, I know not, am I my brother's keeper?
+
+### Genesis 4:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, 'What have you done? A voice of your brother's blood cries out to me from the earth.'
+- brenton: And the Lord said, What hast thou done? the voice of thy brother's blood cries to me out of the ground.
+
+### Genesis 4:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now cursed are you from the earth, which opened its mouth to receive your brother's blood from your hand.
+- brenton: And now thou art cursed from the earth which has opened her mouth to receive thy brother's blood from thy hand.
+
+### Genesis 4:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: When you work the earth, it shall not continue to give you its strength. Groaning and trembling you shall be on the earth.
+- brenton: When thou tillest the earth, then it shall not continue to give its strength to thee: thou shalt be groaning and trembling on the earth.
+
+### Genesis 4:13
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cain said to the Lord God, 'Greater is my charge than for me to be forgiven.'
+- brenton: And Cain said to the Lord God, My crime is too great for me to be forgiven.
+
+### Genesis 4:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you cast me out today from the face of the earth and I am hidden from your face, then I shall be groaning and trembling on the earth, and everyone finding me will kill me.'
+- brenton: If thou castest me out this day from the face of the earth, and I shall be hidden from thy presence, and I shall be groaning and trembling upon the earth, then it will be that any one that finds me shall slay me.
+
+### Genesis 4:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to him, 'Not so. Everyone who kills Cain will pay sevenfold.' And the Lord God set a sign for Cain, so that none finding him should kill him.
+- brenton: And the Lord God said to him, Not so, any one that slays Cain shall suffer seven-fold vengeance; and the Lord God set a mark upon Cain that no one that found him might slay him.
+
+### Genesis 4:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cain went out from the face of God and lived in the land of Naid opposite Eden.
+- brenton: So Cain went forth from the presence of God and dwelt in the land of Nod over against Edem.
+
+### Genesis 4:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cain knew his wife, and having conceived she bore Enoch. And he was building a city, and he named the city after the name of his son, Enoch.
+- brenton: And Cain knew his wife, and having conceived she bore Enoch; and he built a city; and he named the city after the name of his son, Enoch.
+
+### Genesis 4:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Enoch was born Gaidad, and Gaidad begot Maleleel, and Maleleel begot Methusala, and Methusala begot Lamech.
+- brenton: And to Enoch was born Gaidad; and Gaidad begot Maleleel; and Maleleel begot Mathusala; and Mathusala begot Lamech.
+
+### Genesis 4:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lamech took two wives for himself, the name of one Ada and the name of the second Sella.
+- brenton: And Lamech took to himself two wives; the name of the one was Ada, and the name of the second Sella.
+
+### Genesis 4:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ada bore Iobel. He was father of those dwelling in tents, herders of livestock.
+- brenton: And Ada bore Jobel; he was the father of those that dwell in tents, feeding cattle.
+
+### Genesis 4:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of his brother was Ioubal. He was the one who introduced harp and lyre.
+- brenton: And the name of his brother was Jubal; he it was who invented the psaltery and harp.
+
+### Genesis 4:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sella also bore Thobel, and he was a hammering smith of bronze and iron. And the sister of Thobel was Noema.
+- brenton: And Sella also bore Thobel; he was a smith, a manufacturer both of brass and iron; and the sister of Thobel was Noëma.
+
+### Genesis 4:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lamech said to his wives, 'Ada and Sella, hear my voice; wives of Lamech, listen to my words. For I killed a man for a wound to me, and a young man for a welt to me.'
+- brenton: And Lamech said to his wives, Ada and Sella, Hear my voice, ye wives of Lamech, consider my words, because I have slain a man to my sorrow and a youth to my grief.
+
+### Genesis 4:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because Cain has been avenged sevenfold, but Lamech seventy times seven.'
+- brenton: Because vengeance has been exacted seven times on Cain's behalf, on Lamech's it shall be seventy times seven.
+
+### Genesis 4:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam knew Eve his wife, and having conceived she bore a son, and named his name Seth, saying, 'For God raised up for me another seed instead of Abel, whom Cain killed.'
+- brenton: And Adam knew Eve his wife, and she conceived and bore a son, and called his name Seth, saying, For God has raised up to me another seed instead of Abel, whom Cain slew.
+
+### Genesis 4:26
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And to Seth there came a son, and he named his name Enos. This one hoped to call on the name of the Lord God.
+- brenton: And Seth had a son, and he called his name Enos: he hoped to call on the name of the Lord God.
+
+### Genesis 5:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the book of the origin of humans. On the day God made Adam, according to the image of God he made him.
+- brenton: This is the genealogy of men in the day in which God made Adam; in the image of God he made him:
+
+### Genesis 5:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Male and female he made them, and he blessed them, and he called their name Adam on the day he made them.
+- brenton: male and female he made them, and blessed them; and he called his name Adam, in the day in which he made them.
+
+### Genesis 5:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adam lived two hundred and thirty years, and begot according to his form and according to his image, and he named his name Seth.
+- brenton: And Adam lived two hundred and thirty years, and begot a son after his own form, and after his own image, and he called his name Seth.
+
+### Genesis 5:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days of Adam, which he lived after begetting Seth, were seven hundred years, and he begot sons and daughters.
+- brenton: And the days of Adam, which he lived after his begetting Seth, were seven hundred years; and he begot sons and daughters.
+
+### Genesis 5:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And all the days of Adam, which he lived, were nine hundred and thirty years, and he died.
+- brenton: And all the days of Adam which he lived were nine hundred and thirty years, and he died.
+
+### Genesis 5:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Seth lived two hundred and five years and begot Enos.
+- brenton: Now Seth lived two hundred and five years, and begot Enos.
+
+### Genesis 5:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Seth lived after begetting Enos seven hundred and seven years, and he begot sons and daughters.
+- brenton: And Seth lived after his begetting Enos, seven hundred and seven years, and he begot sons and daughters.
+
+### Genesis 5:8
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And all the days of Seth were nine hundred and twelve years, and he died.
+- brenton: And all the days of Seth were nine hundred and twelve years, and he died.
+
+### Genesis 5:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Enos lived one hundred and ninety years and begot Cainan.
+- brenton: And Enos lived an hundred and ninety years, and begot Cainan.
+
+### Genesis 5:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Enos lived after begetting Cainan seven hundred and fifteen years, and he begot sons and daughters.
+- brenton: And Enos lived after his begetting Cainan, seven hundred and fifteen years, and he begot sons and daughters.
+
+### Genesis 5:11
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And all the days of Enos were nine hundred and five years, and he died.
+- brenton: And all the days of Enos were nine hundred and five years, and he died.
+
+### Genesis 5:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cainan lived one hundred and seventy years and begot Maleleel.
+- brenton: And Cainan lived an hundred and seventy years, and he begot Maleleel.
+
+### Genesis 5:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Cainan lived after begetting Maleleel seven hundred and forty years, and he begot sons and daughters.
+- brenton: And Cainan lived after his begetting Maleleel, seven hundred and forty years, and he begot sons and daughters.
+
+### Genesis 5:14
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And all the days of Cainan were nine hundred and ten years, and he died.
+- brenton: And all the days of Cainan were nine hundred and ten years, and he died.
+
+### Genesis 5:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Maleleel lived one hundred and sixty-five years and begot Jared.
+- brenton: And Maleleel lived an hundred and sixty and five years, and he begot Jared.
+
+### Genesis 5:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Maleleel lived after begetting Jared seven hundred and thirty years, and he begot sons and daughters.
+- brenton: And Maleleel lived after his begetting Jared, seven hundred and thirty years, and he begot sons and daughters.
+
+### Genesis 5:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Maleleel were eight hundred and ninety-five years, and he died.
+- brenton: And all the days of Maleleel were eight hundred and ninety and five years, and he died.
+
+### Genesis 5:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jared lived one hundred and sixty-two years and begot Enoch.
+- brenton: And Jared lived an hundred and sixty and two years, and begot Enoch:
+
+### Genesis 5:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jared lived after begetting Enoch eight hundred years, and he begot sons and daughters.
+- brenton: and Jared lived after his begetting Enoch, eight hundred years, and he begot sons and daughters.
+
+### Genesis 5:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Jared were nine hundred and sixty-two years, and he died.
+- brenton: And all the days of Jared were nine hundred and sixty and two years, and he died.
+
+### Genesis 5:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Enoch lived one hundred and sixty-five years and begot Methusala.
+- brenton: And Enoch lived an hundred and sixty and five years, and begat Mathusala.
+
+### Genesis 5:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Enoch pleased God after begetting Methusala two hundred years, and he begot sons and daughters.
+- brenton: And Enoch was well-pleasing to God after his begetting Mathusala, two hundred years, and he begot sons and daughters.
+
+### Genesis 5:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Enoch were three hundred and sixty-five years.
+- brenton: And all the days of Enoch were three hundred and sixty and five years.
+
+### Genesis 5:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Enoch pleased God, and he was not found, because God transferred him.
+- brenton: And Enoch was well-pleasing to God, and was not found, because God translated him.
+
+### Genesis 5:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Methusala lived one hundred and sixty-seven years and begot Lamech.
+- brenton: And Mathusala lived an hundred and sixty and seven years, and begot Lamech.
+
+### Genesis 5:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Methusala lived after begetting Lamech eight hundred and two years, and he begot sons and daughters.
+- brenton: And Mathusala lived after his begetting Lamech eight hundred and two years, and begot sons and daughters.
+
+### Genesis 5:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Methusala, which he lived, were nine hundred and sixty-nine years, and he died.
+- brenton: And all the days of Mathusala which he lived, were nine hundred and sixty and nine years, and he died.
+
+### Genesis 5:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lamech lived one hundred and eighty-eight years and begot a son.
+- brenton: And Lamech lived an hundred and eighty and eight years, and begot a son.
+
+### Genesis 5:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he named his name Noah, saying, 'This one will give us rest from our works and from the pains of our hands and from the earth, which the Lord God cursed.'
+- brenton: And he called his name Noe, saying, This one will cause us to cease from our works, and from the toils of our hands, and from the earth, which the Lord God has cursed.
+
+### Genesis 5:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lamech lived after begetting Noah five hundred and sixty-five years, and he begot sons and daughters.
+- brenton: And Lamech lived after his begetting Noe, five hundred and sixty and five years, and begot sons and daughters.
+
+### Genesis 5:31
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And all the days of Lamech were seven hundred and fifty-three years, and he died.
+- brenton: And all the days of Lamech were seven hundred and fifty-three years, and he died.
+
+### Genesis 5:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah was five hundred years old, and he begot three sons: Shem, Ham, and Japheth.
+- brenton: And Noe was five hundred years old, and he begot three sons, Sem, Cham, and Japheth.
+
+### Genesis 6:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be when humans began to become many on the earth, and daughters were born to them,
+- brenton: And it came to pass when men began to be numerous upon the earth, and daughters were born to them,
+
+### Genesis 6:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: that the sons of God, seeing the daughters of humans that they are beautiful, took wives for themselves from all whom they chose.
+- brenton: that the sons of God having seen the daughters of men that they were beautiful, took to themselves wives of all whom they chose.
+
+### Genesis 6:3
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said, 'My spirit shall certainly not remain in these humans forever, because they are flesh, but their days shall be one hundred and twenty years.'
+- brenton: And the Lord God said, My Spirit shall certainly not remain among these men for ever, because they are flesh, but their days shall be an hundred and twenty years.
+
+### Genesis 6:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Now giants were on the earth in those days, and after that, whenever the sons of God were going in to the daughters of humans, they were bearing to them. Those were the giants from of old, the men of renown.
+- brenton: Now the giants were upon the earth in those days; and after that when the sons of God were wont to go in to the daughters of men, they bore children to them, those were the giants of old, the men of renown.
+
+### Genesis 6:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God, seeing that the evils of humans were multiplied on the earth, and that each one was carefully thinking in his heart upon evil things all the days,
+- brenton: And the Lord God having seen that the wicked actions of men were multiplied upon the earth, and that every one in his heart was intently brooding over evil continually,
+
+### Genesis 6:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: considered that he had made the human on the earth, and he thought it through.
+- brenton: then God laid it to heart that he had made man upon the earth, and he pondered it deeply.
+
+### Genesis 6:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said, 'I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to birds of heaven, because I regret that I made them.'
+- brenton: And God said, I will blot out man whom I have made from the face of the earth, even man with cattle, and reptiles with flying creatures of the sky, for I am grieved that I have made them.
+
+### Genesis 6:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Noah found favor before the Lord God.
+- brenton: But Noe found grace before the Lord God.
+
+### Genesis 6:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now these are the generations of Noah. Noah was a righteous man, complete in his generation. Noah was well-pleasing to God.
+- brenton: And these are the generations of Noe. Noe was a just man; being perfect in his generation, Noe was well-pleasing to God.
+
+### Genesis 6:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah begot three sons: Shem, Ham, and Japheth.
+- brenton: And Noe begot three sons, Sem, Cham, Japheth.
+
+### Genesis 6:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the earth was corrupted before God, and the earth was filled with injustice.
+- brenton: But the earth was corrupted before God, and the earth was filled with iniquity.
+
+### Genesis 6:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God saw the earth, and it was corrupted, because all flesh had corrupted its way on the earth.
+- brenton: And the Lord God saw the earth, and it was corrupted; because all flesh had corrupted its way upon the earth.
+
+### Genesis 6:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Noah, 'The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth.'
+- brenton: And the Lord God said to Noe, A period of all men is come before me; because the earth has been filled with iniquity by them, and, behold, I destroy them and the earth.
+
+### Genesis 6:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: 'So make for yourself an ark from squared timbers. You shall make nesting compartments in the ark, and you shall pitch it inside and outside with pitch.'
+- brenton: Make therefore for thyself an ark of square timber; thou shalt make the ark in compartments, and thou shalt pitch it within and without with pitch.
+
+### Genesis 6:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is how you shall make the ark: the length of the ark three hundred cubits, and the width fifty cubits, and the height thirty cubits.
+- brenton: And thus shalt thou make the ark; three hundred cubits the length of the ark, and fifty cubits the breadth, and thirty cubits the height of it.
+
+### Genesis 6:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall make the ark converging together, and you shall finish it to one cubit above. And the door of the ark you shall make from the side. Lower, second, and third stories you shall make it.
+- brenton: Thou shalt narrow the ark in making it, and in a cubit above thou shalt finish it, and the door of the ark thou shalt make on the side; with lower, second, and third stories thou shalt make it.
+
+### Genesis 6:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I, look, am bringing the flood, water upon the earth, to destroy all flesh in which is breath of life under heaven. And whatever is on the earth will die.
+- brenton: And behold I bring a flood of water upon the earth, to destroy all flesh in which is the breath of life under heaven, and whatsoever things are upon the earth shall die.
+
+### Genesis 6:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will establish my covenant with you, and you shall enter into the ark, you and your sons and your wife and the wives of your sons with you.
+- brenton: And I will establish my covenant with thee, and thou shalt enter into the ark, and thy sons and thy wife, and thy sons' wives with thee.
+
+### Genesis 6:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from all the cattle and from all the creeping things and from all the wild beasts and from all flesh, two by two from all you shall bring into the ark, so that you may feed them with yourself. Male and female they shall be.
+- brenton: And of all cattle and of all reptiles and of all wild beasts, even of all flesh, thou shalt bring by pairs of all, into the ark, that thou mayest feed them with thyself: male and female they shall be.
+
+### Genesis 6:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From all the birds, the flying ones according to kind, and from all the cattle according to kind, and from all the creeping things creeping on the earth according to kind, two by two from all shall come in to you, to be fed with you, male and female.
+- brenton: Of all winged birds after their kind, and of all cattle after their kind, and of all reptiles creeping upon the earth after their kind, pairs of all shall come in to thee, male and female to be fed with thee.
+
+### Genesis 6:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take for yourself from all the foods that you eat, and gather it to yourself, and it shall be for you and for them to eat.
+- brenton: And thou shalt take to thyself of all kinds of food which ye eat, and thou shalt gather them to thyself, and it shall be for thee and them to eat.
+
+### Genesis 6:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah did all that the Lord God commanded him; thus he did it.
+- brenton: And Noe did all things whatever the Lord God commanded him, so did he.
 
 ## Exodus
 
@@ -10483,724 +11931,7015 @@ Note:
 - fresh: For cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys."
 - brenton: For a cloud was on the tabernacle by day, and fire was on it by night before all Israel, in all their journeyings.
 
-## Genesis
+## Leviticus
 
-### Genesis 1:1
-
-- importance: high
-- decisions: 3
-- footnotes: 1
-- same_normalized: no
-- fresh: At the beginning, God made heaven and earth.
-- brenton: In the beginning God made the heaven and the earth.
-
-### Genesis 1:2
-
-- importance: high
-- decisions: 4
-- footnotes: 1
-- same_normalized: no
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
-- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
-
-### Genesis 1:3
-
-- importance: high
-- decisions: 3
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let light come to be.' And light came to be.
-- brenton: And God said, Let there be light, and there was light.
-
-### Genesis 1:4
-
-- importance: high
-- decisions: 2
-- footnotes: 0
-- same_normalized: no
-- fresh: And God saw the light, that it was good. And God separated the light from the darkness.
-- brenton: And God saw the light that it was good, and God divided between the light and the darkness.
-
-### Genesis 1:5
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
-- brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
-
-### Genesis 1:6
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let a firm span come to be in the middle of the water, and let it divide water from water.' And it came to be so.
-- brenton: And God said, Let there be a firmament in the midst of the water, and let it be a division between water and water, and it was so.
-
-### Genesis 1:7
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God made the firm span, and God separated the water below the firm span from the water above the firm span.
-- brenton: And God made the firmament, and God divided between the water which was under the firmament and the water which was above the firmament.
-
-### Genesis 1:8
-
-- importance: high
-- decisions: 2
-- footnotes: 0
-- same_normalized: no
-- fresh: And God called the firm span Heaven. And God saw that it was good. And evening came, and morning came: second day.
-- brenton: And God called the firmament Heaven, and God saw that it was good, and there was evening and there was morning, the second day.
-
-### Genesis 1:9
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into collections, and the dry land appeared.
-- brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
-
-### Genesis 1:10
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good.
-- brenton: And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
-
-### Genesis 1:11
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
-- brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
-
-### Genesis 1:12
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And the earth brought forth seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth. And God saw that it was good.
-- brenton: And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.
-
-### Genesis 1:13
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And evening came, and morning came: third day.
-- brenton: And there was evening and there was morning, the third day.
-
-### Genesis 1:14
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining on the earth, to divide day from night. And let them be for signs and for seasons and for days and for years.'
-- brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
-
-### Genesis 1:15
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And let them be for shining in the firm span of Heaven so as to shine on the earth. And it came to be so.
-- brenton: And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.
-
-### Genesis 1:16
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God made the two great light-bearers, the greater light-bearer for the dominion of the day and the lesser light-bearer for the dominion of the night, and the stars.
-- brenton: And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.
-
-### Genesis 1:17
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God placed them in the firm span of Heaven so as to shine on the earth.
-- brenton: And God placed them in the firmament of the heaven, so as to shine upon the earth,
-
-### Genesis 1:18
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And they were to rule day and night and to divide light from darkness. And God saw that it was good.
-- brenton: and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.
-
-### Genesis 1:19
+### Leviticus 1:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And evening came, and morning came: fourth day.
-- brenton: And there was evening and there was morning, the fourth day.
+- fresh: And the Lord called Moses and spoke to him from the tent of testimony, saying,
+- brenton: And the Lord called Moses again and spoke to him out of the tabernacle of witness, saying, Speak to the children of Israel, and thou shalt say to them,
 
-### Genesis 1:20
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let the waters bring forth swarming living creatures and winged birds flying over the earth across the firm span of Heaven.' And it came to be so.
-- brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
-
-### Genesis 1:21
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God made the great sea-creatures and every living creature among the swarming things that the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.
-- brenton: And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.
-
-### Genesis 1:22
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.'
-- brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
-
-### Genesis 1:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And evening came, and morning came: fifth day.
-- brenton: And there was evening and there was morning, the fifth day.
-
-### Genesis 1:24
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God said, 'Let the earth bring forth living creatures according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
-- brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
-
-### Genesis 1:25
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God made the wild beasts of the earth according to kind, and the livestock according to their kind, and every creeping thing of the earth according to its kind. And God saw that they were good.
-- brenton: And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.
-
-### Genesis 1:26
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
-
-### Genesis 1:27
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God made humankind; according to God's image he made humankind. Male and female he made them.
-- brenton: And God made man, according to the image of God he made him, male and female he made them.
-
-### Genesis 1:28
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the livestock and all the earth and every creeping thing that creeps on the earth.'
-- brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
-
-### Genesis 1:29
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And God said, 'Look, I have given you every seed-bearing plant that sows seed on all the earth, and every tree that has in itself fruit with seed for sowing. It will be food for you.'
-- brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
-
-### Genesis 1:30
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And to every wild beast of the earth and every bird of Heaven and every creeping thing that creeps on the earth, everything that has in itself living breath, I have given every green plant for food. And it came to be so.
-- brenton: And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.
-
-### Genesis 1:31
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
-- brenton: And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.
-
-### Genesis 2:1
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And Heaven and Earth were completed, and all their ordered array.
-- brenton: And the heavens and the earth were finished, and the whole world of them.
-
-### Genesis 2:2
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God completed his works, the works he had made, on the sixth day, and he rested on the seventh day from all his works that he had made.
-- brenton: And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.
-
-### Genesis 2:3
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God blessed the seventh day and made it holy, because on it he rested from all his works, the works God had begun to make.
-- brenton: And God blessed the seventh day and sanctified it, because in it he ceased from all his works which God began to do.
-
-### Genesis 2:4
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
-- brenton: This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,
-
-### Genesis 2:5
-
-- importance: high
-- decisions: 1
-- footnotes: 0
-- same_normalized: no
-- fresh: And every green thing of the field was there before it came to be on the earth, and every grass of the field before it sprang up; for God had not rained on the earth, and there was no human to work it.
-- brenton: and every herb of the field before it was on the earth, and all the grass of the field before it sprang up, for God had not rained on the earth, and there was not a man to cultivate it.
-
-### Genesis 2:6
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: But a spring was rising from the earth and watering the whole face of the ground.
-- brenton: But there rose a fountain out of the earth, and watered the whole face of the earth.
-
-### Genesis 2:7
-
-- importance: high
-- decisions: 2
-- footnotes: 1
-- same_normalized: no
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
-- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
-
-### Genesis 2:8
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God planted a garden in Eden toward the east, and he placed there the human whom he formed.
-- brenton: And God planted a garden eastward in Edem, and placed there the man whom he had formed.
-
-### Genesis 2:9
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: And God still caused every tree to spring up from the earth, beautiful to look at and good for food, and the tree of life in the middle of the garden, and the tree of knowing good and evil.
-- brenton: And God made to spring up also out of the earth every tree beautiful to the eye and good for food, and the tree of life in the midst of the garden, and the tree of learning the knowledge of good and evil.
-
-### Genesis 2:10
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: But a river goes out from Eden to water the garden; from there it is divided into four heads.
-- brenton: And a river proceeds out of Edem to water the garden, thence it divides itself into four heads.
-
-### Genesis 2:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The name of the first is Pishon; this is the one that circles all the land of Havilah, where the gold is.
-- brenton: The name of the one, Phisom, this it is which encircles the whole land of Evilat, where there is gold.
-
-### Genesis 2:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the gold of that land is good; and there too are the carbuncle and the green stone.
-- brenton: And the gold of that land is good, there also is carbuncle and emerald.
-
-### Genesis 2:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the name of the second river is Gihon; this is the one that circles all the land of Ethiopia.
-- brenton: And the name of the second river is Geon, this it is which encircles the whole land of Ethiopia.
-
-### Genesis 2:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the third river is Tigris; this is the one that goes opposite the Assyrians. And the fourth river is Euphrates.
-- brenton: And the third river is Tigris, this is that which flows forth over against the Assyrians. And the fourth river is Euphrates.
-
-### Genesis 2:15
+### Leviticus 1:2
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the Lord God took the human whom he had formed and placed him in the garden of delight, to work it and to keep it.
-- brenton: And the Lord God took the man whom he had formed, and placed him in the garden of Delight, to cultivate and keep it.
+- fresh: Speak to the sons of Israel and say to them, If a person from among you brings gifts to the Lord, you shall bring your gifts from the livestock, from the cattle and from the sheep.
+- brenton: If any man of you shall bring gifts to the Lord, ye shall bring your gifts of the cattle and of the oxen and of the sheep.
 
-### Genesis 2:16
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Lord God commanded Adam, saying that from every tree in the garden he might surely eat,
-- brenton: And the Lord God gave a charge to Adam, saying, Of every tree which is in the garden thou mayest freely eat,
-
-### Genesis 2:17
+### Leviticus 1:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: but from the tree of knowing good and evil, he was not to eat from it; on the day he ate from it, he would certainly die.
-- brenton: but of the tree of the knowledge of good and evil—of it ye shall not eat, but in whatsoever day ye eat of it, ye shall surely die.
+- fresh: If his gift is a whole burnt offering from the cattle, he shall bring a male without blemish to the entrance of the tent of testimony. He shall bring it as accepted before the Lord.
+- brenton: If his gift be a whole-burnt-offering, he shall bring an unblemished male of the herd to the door of the tabernacle of witness, he shall bring it as acceptable before the Lord.
 
-### Genesis 2:18
+### Leviticus 1:4
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said, 'It is not good for the human to be alone. Let us make for him a helper corresponding to him.'
-- brenton: And the Lord God said, It is not good that the man should be alone, let us make for him a help suitable to him.
+- fresh: And he shall lay his hand on the head of the offering. It shall be accepted for him, to make atonement for him.
+- brenton: And he shall lay his hand on the head of the burnt-offering as a thing acceptable for him, to make atonement for him.
 
-### Genesis 2:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And God still formed from the earth all the beasts of the field and all the birds of Heaven, and brought them to Adam to see what he would call them. And whatever Adam called each living creature, that was its name.
-- brenton: And God formed yet farther out of the earth all the wild beasts of the field, and all the birds of the sky, and he brought them to Adam, to see what he would call them, and whatever Adam called any living creature, that was the name of it.
-
-### Genesis 2:20
+### Leviticus 1:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Adam gave names to all the livestock and to all the birds of Heaven and to all the beasts of the field. But for Adam no helper like him was found.
-- brenton: And Adam gave names to all the cattle and to all the birds of the sky, and to all the wild beasts of the field, but for Adam there was not found a help like to himself.
+- fresh: And they shall slaughter the calf before the Lord, and the sons of Aaron, the priests, shall bring the blood and pour the blood around on the altar, the one at the entrance of the tent of testimony.
+- brenton: And they shall slay the calf before the Lord; and the sons of Aaron the priests shall bring the blood, and they shall pour the blood round about on the altar, which is at the doors of the tabernacle of witness.
 
-### Genesis 2:21
+### Leviticus 1:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after flaying the whole burnt offering, they shall divide it by limbs.
+- brenton: And having flayed the whole burnt-offering, they shall divide it by its limbs.
+
+### Leviticus 1:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Aaron, the priests, shall place fire on the altar and pile wood upon the fire.
+- brenton: And the sons of Aaron the priests shall put fire on the altar, and shall pile wood on the fire.
+
+### Leviticus 1:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Aaron, the priests, shall pile the divided pieces and the head and the fat upon the wood on the fire that is on the altar.
+- brenton: And the sons of Aaron the priests shall pile up the divided parts, and the head, and the fat on the wood on the fire, the wood which is on the altar.
+
+### Leviticus 1:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall wash the entrails and the feet with water, and the priests shall place everything upon the altar. It is an offering, a sacrifice, an aroma of sweet fragrance to the Lord.
+- brenton: And the entrails and the feet they shall wash in water, and the priests shall put all on the altar: it is a burnt-offering, a sacrifice, a smell of sweet savour to the Lord.
+
+### Leviticus 1:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his gift to the Lord is from the sheep, from the lambs or from the young goats, for a whole burnt offering, he shall bring it, a male without blemish, and he shall lay his hand on its head.
+- brenton: And if his gift be of the sheep to the Lord, or of the lambs, or of the kids for whole-burnt-offerings, he shall bring it a male without blemish.
+
+### Leviticus 1:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall slaughter it on the side of the altar toward the north before the Lord, and the sons of Aaron, the priests, shall pour its blood around on the altar.
+- brenton: And he shall lay his hand on its head; and they shall kill it by the side of the altar, toward the north before the Lord, and the sons of Aaron the priests shall pour its blood on the altar round about.
+
+### Leviticus 1:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall divide it by limbs, with the head and the fat, and the priests shall pile them on the wood on the fire on the altar.
+- brenton: And they shall divide it by its limbs, and its head and its fat, and the priests shall pile them up on the wood which is on the fire, on the altar.
+
+### Leviticus 1:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall wash the entrails and the feet with water, and the priest shall bring everything and place it upon the altar. It is an offering, a sacrifice, an aroma of sweet fragrance to the Lord.
+- brenton: And they shall wash the entrails and the feet with water, and the priest shall bring all the parts and put them on the altar: it is a burnt-offering, a sacrifice, a smell of sweet savour to the Lord.
+
+### Leviticus 1:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he brings from the birds an offering as a gift to the Lord, he shall bring his gift from the turtledoves or from the pigeons.
+- brenton: And if he bring his gift, a burnt-offering to the Lord, of birds, then shall he bring his gift of doves or pigeons.
+
+### Leviticus 1:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall bring it to the altar and wring off its head and place it on the altar, and he shall drain out the blood against the base of the altar.
+- brenton: And the priest shall bring it to the altar, and shall wring off its head; and the priest shall put it on the altar, and shall wring out the blood at the bottom of the altar.
+
+### Leviticus 1:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall remove the crop with its feathers and throw it beside the altar on the east, to the place of ashes.
+- brenton: And he shall take away the crop with the feathers, and shall cast it forth by the altar toward the east to the place of the ashes.
+
+### Leviticus 1:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall split it open by the wings and shall not divide it, and the priest shall place it on the altar, on the wood on the fire. It is an offering, a sacrifice, an aroma of sweet fragrance to the Lord.
+- brenton: And he shall break it off from the wings and shall not separate it, and the priest shall put it on the altar on the wood which is on the fire: it is a burnt-offering, a sacrifice, a sweet-smelling savour to the Lord.
+
+### Leviticus 2:1
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God cast an ecstasy on Adam, and he slept; and he took one of his sides and filled flesh in its place.
-- brenton: And God brought a trance upon Adam, and he slept, and he took one of his ribs, and filled up the flesh instead thereof.
+- fresh: And if a person brings a sacrifice as a gift to the Lord, his gift shall be fine flour, and he shall pour oil upon it and place frankincense upon it. It is a sacrifice.
+- brenton: And if a soul bring a gift, a sacrifice to the Lord, his gift shall be fine flour; and he shall pour oil upon it, and shall put frankincense on it: it is a sacrifice.
 
-### Genesis 2:22
+### Leviticus 2:2
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And God built the side that he had taken from Adam into a woman and brought her to Adam.
-- brenton: And God formed the rib which he took from Adam into a woman, and brought her to Adam.
+- fresh: And he shall bring it to the sons of Aaron, the priests, and taking from it a full handful of the fine flour with the oil and all its frankincense, the priest shall place its memorial portion on the altar, a sacrifice, an aroma of sweet fragrance to the Lord.
+- brenton: And he shall bring it to the priests the sons of Aaron: and having taken from it a handful of the fine flour with the oil, and all its frankincense, then the priest shall put the memorial of it on the altar: it is a sacrifice, an odour of sweet savour to the Lord.
 
-### Genesis 2:23
+### Leviticus 2:3
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Adam said, 'This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man.'
-- brenton: And Adam said, This now is bone of my bones, and flesh of my flesh; she shall be called woman, because she was taken out of her husband.
+- fresh: And what remains from the sacrifice shall belong to Aaron and his sons, a holy of holies from the sacrifices of the Lord.
+- brenton: And the remainder of the sacrifice shall be for Aaron and his sons, a most holy portion from the sacrifices of the Lord.
 
-### Genesis 2:24
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Because of this, a man will leave his father and his mother and be joined to his wife, and the two will become one flesh.
-- brenton: Therefore shall a man leave his father and his mother and shall cleave to his wife, and they two shall be one flesh.
-
-### Genesis 2:25
+### Leviticus 2:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the two were naked, Adam and his wife, and they were not ashamed.
-- brenton: And the two were naked, both Adam and his wife, and were not ashamed.
+- fresh: And if he brings as a gift a sacrifice baked in an oven, as a gift to the Lord, it shall be unleavened loaves of fine flour mixed with oil and unleavened wafers anointed with oil.
+- brenton: And if he bring as a gift a sacrifice baked from the oven, a gift to the Lord of fine flour, he shall bring unleavened bread kneaded with oil, and unleavened cakes anointed with oil.
 
-### Genesis 3:1
+### Leviticus 2:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if your gift is a sacrifice from a griddle, it shall be fine flour mixed with oil, unleavened.
+- brenton: And if thy gift be a sacrifice from a pan, it is fine flour mingled with oil, unleavened offerings.
+
+### Leviticus 2:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall crumble them into pieces and pour oil upon them. It is a sacrifice to the Lord.
+- brenton: And thou shalt break them into fragments and pour oil upon them: it is a sacrifice to the Lord.
+
+### Leviticus 2:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if your gift is a sacrifice from a hearth-pan, it shall be made from fine flour with oil.
+- brenton: And if thy gift be a sacrifice from the hearth, it shall be made of fine flour with oil.
+
+### Leviticus 2:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring to the Lord the sacrifice that he makes from these, and he shall bring it to the priest and bring it near to the altar.
+- brenton: And he shall offer the sacrifice which he shall make of these to the Lord, and shall bring it to the priest.
+
+### Leviticus 2:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall remove from the sacrifice its memorial portion and place it on the altar, an offering, an aroma of sweet fragrance to the Lord.
+- brenton: And the priest shall approach the altar, and shall take away from the sacrifice a memorial of it, and the priest shall place it on the altar: a burnt offering, a smell of sweet savour to the Lord.
+
+### Leviticus 2:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what remains from the sacrifice shall belong to Aaron and his sons, a holy of holies from the offerings of the Lord.
+- brenton: And that which is left of the sacrifice shall be for Aaron and his sons, most holy from the burnt-offerings of the Lord.
+
+### Leviticus 2:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every sacrifice that you bring to the Lord you shall not make leavened, for no leaven and no honey shall you bring from it as an offering to the Lord.
+- brenton: Ye shall not leaven any sacrifice which ye shall bring to the Lord; for as to any leaven, or any honey, ye shall not bring of it to offer a gift to the Lord.
+
+### Leviticus 2:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall bring them to the Lord as a gift of firstfruits, but upon the altar they shall not be offered up as an aroma of sweet fragrance to the Lord.
+- brenton: Ye shall bring them in the way of fruits to the Lord, but they shall not be offered on the altar for a sweet-smelling savour to the Lord.
+
+### Leviticus 2:13
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
-- brenton: Now the serpent was the most crafty of all the brutes on the earth, which the Lord God made, and the serpent said to the woman, Wherefore has God said, Eat not of every tree of the garden?
+- fresh: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
+- brenton: And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.
 
-### Genesis 3:2
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the woman said to the serpent that they would eat from the fruit of the trees of the garden,
-- brenton: And the woman said to the serpent, We may eat of the fruit of the trees of the garden,
-
-### Genesis 3:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: but from the fruit of the tree that is in the middle of the garden, God had said they should not eat from it, nor indeed touch it, lest they die.
-- brenton: but of the fruit of the tree which is in the midst of the garden, God said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
-
-### Genesis 3:4
+### Leviticus 2:14
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the serpent said to the woman that they would certainly not die.
-- brenton: And the serpent said to the woman, Ye shall not surely die.
+- fresh: And if you bring a sacrifice of first produce to the Lord, you shall bring fresh roasted grain, crushed from the tender growth, for the sacrifice of first produce.
+- brenton: And if thou wouldest offer a sacrifice of first-fruits to the Lord, it shall be new grains ground and roasted for the Lord; so shalt thou bring the sacrifice of the first-fruits.
 
-### Genesis 3:5
+### Leviticus 2:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: For God knew that on the day you eat from it, your eyes will be opened and you will be like gods, knowing good and evil.'
-- brenton: For God knew that in whatever day ye should eat of it your eyes would be opened, and ye would be as gods, knowing good and evil.
+- fresh: And you shall pour oil upon it and place frankincense upon it. It is a sacrifice.
+- brenton: And thou shalt pour oil upon it, and shalt put frankincense on it: it is a sacrifice.
 
-### Genesis 3:6
+### Leviticus 2:16
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the woman saw that the tree was good for food and pleasing to the eyes to look at, and that it was beautiful for understanding. And taking from its fruit, she ate; and she gave also to her husband with her, and they ate.
-- brenton: And the woman saw that the tree was good for food, and that it was pleasant to the eyes to look upon and beautiful to contemplate, and having taken of its fruit she ate, and she gave to her husband also with her, and they ate.
+- fresh: And the priest shall offer up its memorial portion from the crushed grain with the oil and all its frankincense. It is an offering to the Lord.
+- brenton: And the priest shall offer the memorial of it taken from the grains with the oil, and all its frankincense: it is a burnt-offering to the Lord.
 
-### Genesis 3:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the eyes of the two were opened, and they knew that they were naked, and they sewed fig leaves together and made loincloths for themselves.
-- brenton: And the eyes of both were opened, and they perceived that they were naked, and they sewed fig leaves together, and made themselves aprons to go round them.
-
-### Genesis 3:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they heard the sound of the Lord God walking in the garden at evening, and Adam and his wife hid themselves from the face of the Lord God among the trees of the garden.
-- brenton: And they heard the voice of the Lord God walking in the garden in the afternoon; and both Adam and his wife hid themselves from the face of the Lord God in the midst of the trees of the garden.
-
-### Genesis 3:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Lord God called Adam and said to him, 'Adam, where are you?'
-- brenton: And the Lord God called Adam and said to him, Adam, where art thou?
-
-### Genesis 3:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he said to him, 'I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself.'
-- brenton: And he said to him, I heard thy voice as thou walkedst in the garden, and I feared because I was naked and I hid myself.
-
-### Genesis 3:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And God said to him, 'Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?'
-- brenton: And God said to him, Who told thee that thou wast naked, unless thou hast eaten of the tree concerning which I charged thee of it alone not to eat?
-
-### Genesis 3:12
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Adam said, 'The woman whom you gave with me, she gave me from the tree, and I ate.'
-- brenton: And Adam said, The woman whom thou gavest to be with me—she gave me of the tree and I ate.
-
-### Genesis 3:13
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Lord God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'
-- brenton: And the Lord God said to the woman, Why hast thou done this? And the woman said, The serpent deceived me and I ate.
-
-### Genesis 3:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Lord God said to the serpent that because you did this, you are cursed above all livestock and above all the beasts on the earth. On your chest and your belly you will go, and earth you will eat all the days of your life.
-- brenton: And the Lord God said to the serpent, Because thou hast done this thou art cursed above all cattle and all the brutes of the earth, on thy breast and belly thou shalt go, and thou shalt eat earth all the days of thy life.
-
-### Genesis 3:15
+### Leviticus 3:1
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he would put enmity between you and the woman, and between your seed and her seed. He will watch your head, and you will watch his heel.
-- brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
+- fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
+- brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
 
-### Genesis 3:16
+### Leviticus 3:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hands on the head of the gift and slaughter it beside the doors of the tent of testimony, and the sons of Aaron, the priests, shall pour the blood around on the altar of whole burnt offerings.
+- brenton: And he shall lay his hands on the head of the gift, and shall slay it before the Lord, by the doors of the tabernacle of witness. And the priests the sons of Aaron shall pour the blood on the altar of burnt-offerings round about.
+
+### Leviticus 3:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the sacrifice of salvation they shall bring an offering to the Lord: the fat that covers the belly and all the fat that is on the belly,
+- brenton: And they shall bring of the peace-offering a burnt-sacrifice to the Lord, the fat covering the belly, and all the fat on the belly.
+
+### Leviticus 3:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the two kidneys and the fat that is on them, that on the thighs, and he shall remove the lobe above the liver with the kidneys.
+- brenton: And the two kidneys and the fat that is upon them; he shall take away that which is on the thighs, and the caul above the liver together with the kidneys.
+
+### Leviticus 3:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Aaron, the priests, shall offer them on the altar upon the whole burnt offerings, upon the wood on the fire on the altar, an offering, an aroma of sweet fragrance to the Lord.
+- brenton: And the priests the sons of Aaron shall offer them on the altar on the burnt-offering, on the wood which is on the fire upon the altar: it is a burnt-offering, a smell of sweet savour to the Lord.
+
+### Leviticus 3:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his gift from the sheep is a sacrifice of salvation to the Lord, male or female, he shall bring it without blemish.
+- brenton: And if his gift be of the sheep, a peace-offering to the Lord, male or female, he shall bring it unblemished.
+
+### Leviticus 3:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If he brings a lamb as his gift, he shall bring it before the Lord.
+- brenton: If he bring a lamb for his gift, he shall bring it before the Lord.
+
+### Leviticus 3:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hands on the head of his gift and slaughter it beside the doors of the tent of testimony, and the sons of Aaron, the priests, shall pour the blood around on the altar.
+- brenton: And he shall lay his hands on the head of his offering, and shall slay it by the doors of the tabernacle of witness; and the priests the sons of Aaron shall pour out the blood on the altar round about.
+
+### Leviticus 3:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
+- brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
+
+### Leviticus 3:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and both kidneys and the fat on them, that on the thighs, and removing the lobe above the liver with the kidneys,
+- brenton: and both the kidneys and the fat that is upon them, and that which is on the thighs, and the caul which is on the liver with the kidneys,
+
+### Leviticus 3:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the priest shall offer it on the altar, an aroma of sweet fragrance, an offering to the Lord.
+- brenton: the priest shall offer these on the altar: it is a sacrifice of sweet savour, a burnt-offering to the Lord.
+
+### Leviticus 3:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his gift is from the goats, then he shall bring it before the Lord.
+- brenton: And if his offering be of the goats, then shall he bring it before the Lord.
+
+### Leviticus 3:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hands on its head, and they shall slaughter it before the Lord beside the doors of the tent of testimony, and the sons of Aaron, the priests, shall pour its blood around on the altar.
+- brenton: And he shall lay his hands on its head; and they shall slay it before the Lord by the doors of the tabernacle of witness; and the priests the sons of Aaron shall pour out the blood on the altar round about.
+
+### Leviticus 3:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring from it an offering to the Lord: the fat that covers the belly and all the fat that is on the belly,
+- brenton: And he shall offer of it a burnt-offering to the Lord, even the fat that covers the belly, and all the fat that is on the belly.
+
+### Leviticus 3:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and both kidneys and all the fat that is on them, that on the thighs, and he shall remove the lobe of the liver with the kidneys.
+- brenton: And both the kidneys, and all the fat that is upon them, that which is upon the thighs, and the caul of the liver with the kidneys, shall he take away.
+
+### Leviticus 3:16
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to the woman he said that multiplying he would multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.
-- brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
+- fresh: And the priest shall offer it on the altar, an offering, an aroma of sweet fragrance to the Lord. All the fat belongs to the Lord.
+- brenton: And the priest shall offer it upon the altar: it is a burnt-offering, a smell of sweet savour to the Lord. All the fat belongs to the Lord.
 
-### Genesis 3:17
+### Leviticus 3:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It is a statute forever throughout your generations in all your dwellings. You shall eat no fat and no blood.
+- brenton: It is a perpetual statute throughout your generations, in all your habitations; ye shall eat no fat and no blood.
+
+### Leviticus 4:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 4:2
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And to Adam he said that because you listened to the voice of your wife and ate from the tree from which alone he commanded you not to eat, the ground is cursed in your labors. In pains you will eat from it all the days of your life.
-- brenton: And to Adam he said, Because thou hast hearkened to the voice of thy wife, and eaten of the tree concerning which I charged thee of it only not to eat—of that thou hast eaten, cursed is the ground in thy labours, in pain shalt thou eat of it all the days of thy life.
+- fresh: Speak to the sons of Israel, saying, If a person sins unintentionally before the Lord in any of the commands of the Lord about things that ought not to be done, and does one of them,
+- brenton: Speak to the children of Israel, saying, If a soul shall sin unwillingly before the Lord, in any of the commandments of the Lord concerning things which he ought not to do, and shall do some of them;
 
-### Genesis 3:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: It will bring forth thorns and thistles for you, and you will eat the grass of the field.
-- brenton: Thorns and thistles shall it bring forth to thee, and thou shalt eat the herb of the field.
-
-### Genesis 3:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: By the sweat of your face you will eat your bread, until you return to the earth from which you were taken; because earth you are, and to earth you will depart.
-- brenton: In the sweat of thy face shalt thou eat thy bread until thou return to the earth out of which thou wast taken, for earth thou art and to earth thou shalt return.
-
-### Genesis 3:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Adam called the name of his wife Life, because she is the mother of all the living.
-- brenton: And Adam called the name of his wife Life, because she was the mother of all living.
-
-### Genesis 3:21
+### Leviticus 4:3
 
 - importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God made skin tunics for Adam and for his wife, and clothed them.
-- brenton: And the Lord God made for Adam and his wife garments of skin, and clothed them.
+- fresh: if the anointed high priest sins so as to make the people sin, then he shall bring for his sin that he sinned a calf from the cattle, without blemish, to the Lord for his sin.
+- brenton: if the anointed priest sin so as to cause the people to sin, then shall he bring for his sin, which he has sinned, an unblemished calf of the herd to the Lord for his sin.
 
-### Genesis 3:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.'
-- brenton: And God said, Behold, Adam is become as one of us, to know good and evil, and now lest at any time he stretch forth his hand, and take of the tree of life and eat, and so he shall live for ever—
-
-### Genesis 3:23
+### Leviticus 4:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the Lord God sent him out from the garden of delight to work the earth from which he had been taken.
-- brenton: So the Lord God sent him forth out of the garden of Delight to cultivate the ground out of which he was taken.
+- fresh: And he shall bring the calf to the entrance of the tent of testimony before the Lord, and he shall lay his hand on the head of the calf before the Lord and slaughter the calf before the Lord.
+- brenton: And he shall bring the calf to the door of the tabernacle of witness before the Lord, and he shall put his hand on the head of the calf before the Lord, and shall slay the calf in the presence of the Lord.
 
-### Genesis 3:24
+### Leviticus 4:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the anointed priest whose hands have been consecrated shall take some of the blood of the calf and bring it into the tent of testimony.
+- brenton: And the anointed priest who has been consecrated having received of the blood of the calf, shall then bring it into the tabernacle of witness.
+
+### Leviticus 4:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall dip his finger into the blood and sprinkle some of the blood seven times before the Lord, before the holy curtain.
+- brenton: And the priest shall dip his finger into the blood, and sprinkle of the blood seven times before the Lord, over against the holy veil.
+
+### Leviticus 4:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall place some of the blood of the calf on the horns of the altar of the blended incense that is before the Lord, which is in the tent of testimony, and he shall pour out all the blood of the calf at the base of the altar of whole burnt offerings, which is by the doors of the tent of testimony.
+- brenton: And the priest shall put of the blood of the calf on the horns of the altar of the compound incense which is before the Lord, which is in the tabernacle of witness; and all the blood of the calf shall he pour out by the foot of the altar of whole-burnt-offerings, which is by the doors of the tabernacle of witness.
+
+### Leviticus 4:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall remove from it all the fat of the calf for sin: the fat that covers the inward parts and all the fat that is on the inward parts,
+- brenton: And all the fat of the calf of the sin-offering shall he take off from it; the fat that covers the inwards, and all the fat that is on the inwards,
+
+### Leviticus 4:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the two kidneys and the fat that is on them, that on the thighs, and he shall remove the lobe above the liver with the kidneys,
+- brenton: and the two kidneys, and the fat that is upon them, that which is on the thighs, and the caul that is on the liver with the kidneys, them shall he take away,
+
+### Leviticus 4:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as it is removed from the calf of the sacrifice of salvation. And the priest shall offer it on the altar of offering.
+- brenton: as he takes it away from the calf of the sacrifice of peace-offering, so shall the priest offer it on the altar of burnt-offering.
+
+### Leviticus 4:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the skin of the calf and all its flesh, with the head and the extremities and the belly and the dung,
+- brenton: And they shall take the skin of the calf, and all his flesh with the head and the extremities and the belly and the dung,
+
+### Leviticus 4:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: they shall carry out the whole calf outside the camp to a clean place, where they pour out the ashes, and they shall burn it on wood with fire. It shall be burned where the ashes are poured out.
+- brenton: and they shall carry out the whole calf out of the camp into a clean place, where they pour out the ashes, and they shall consume it there on wood with fire: it shall be burnt on the ashes poured out.
+
+### Leviticus 4:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he cast Adam out and settled him opposite the garden of delight, and he stationed the Cherubim and the flaming turning sword to guard the way of the tree of life.
-- brenton: And he cast out Adam and caused him to dwell over against the garden of Delight, and stationed the cherubs and the fiery sword that turns about to keep the way of the tree of life.
+- fresh: And if the whole assembly of Israel unintentionally fails to notice, and the matter escapes the eyes of the assembly, and they do one of all the commands of the Lord that must not be done, and become guilty,
+- brenton: And if the whole congregation of Israel trespass ignorantly, and a thing should escape the notice of the congregation, and they should do one thing forbidden of any of the commands of the Lord, which ought not to be done, and should transgress:
+
+### Leviticus 4:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the sin that they sinned in it becomes known to them, then the assembly shall bring a calf from the cattle, without blemish, for sin, and they shall bring it to the doors of the tent of testimony.
+- brenton: and the sin wherein they have sinned should become known to them, then shall the congregation bring an unblemished calf of the herd for a sin-offering, and they shall bring it to the doors of the tabernacle of witness.
+
+### Leviticus 4:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the elders of the assembly shall lay their hands on the head of the calf before the Lord, and they shall slaughter the calf before the Lord.
+- brenton: And the elders of the congregation shall lay their hands on the head of the calf before the Lord, and they shall slay the calf before the Lord.
+
+### Leviticus 4:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the anointed priest shall bring some of the blood of the calf into the tent of testimony.
+- brenton: And the anointed priest shall bring in of the blood of the calf into the tabernacle of witness.
+
+### Leviticus 4:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall dip his finger in some of the blood of the calf and sprinkle it seven times before the Lord, in front of the holy curtain.
+- brenton: And the priest shall dip his finger into some of the blood of the calf, and shall sprinkle it seven times before the Lord, in front of the veil of the sanctuary.
+
+### Leviticus 4:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
+- brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
+
+### Leviticus 4:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall remove all the fat from it and offer it on the altar.
+- brenton: And he shall take away all the fat from it, and shall offer it up on the altar.
+
+### Leviticus 4:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall do to the calf just as he did to the calf for sin; so shall it be done. And the priest shall make atonement for them, and it shall be forgiven them.
+- brenton: And he shall do to the calf as he did to the calf of the sin-offering, so shall it be done; and the priest shall make atonement for them, and the trespass shall be forgiven them.
+
+### Leviticus 4:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall carry out the whole calf outside the camp and burn the calf as they burned the earlier calf. It is the sin-offering of the assembly.
+- brenton: And they shall carry forth the calf whole without the camp, and they shall burn the calf as they burnt the former calf: it is the sin-offering of the congregation.
+
+### Leviticus 4:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a ruler sins and does one of all the commands of the Lord their God that must not be done, unintentionally, and sins and becomes guilty,
+- brenton: And if a ruler sin, and break one of all the commands of the Lord his God, doing the thing which ought not to be done, unwillingly, and shall sin and trespass,
+
+### Leviticus 4:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the sin that he sinned becomes known to him, then he shall bring his gift, a he-goat from the goats, a male without blemish.
+- brenton: and his trespass wherein he has sinned, be known to him,—then shall he offer for his gift a kid of the goats, a male without blemish.
+
+### Leviticus 4:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hand on the head of the he-goat, and they shall slaughter it in the place where they slaughter the whole burnt offerings before the Lord. It is a sin-offering.
+- brenton: And he shall lay his hand on the head of the kid, and they shall kill it in the place where they kill the victims for whole-burnt-offerings before the Lord; it is a sin-offering.
+
+### Leviticus 4:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall place some of the blood of the sin-offering with his finger on the horns of the altar of whole burnt offerings, and he shall pour out all its blood at the base of the altar of whole burnt offerings.
+- brenton: And the priest shall put some of the blood of the sin-offering with his finger on the horns of the altar of whole-burnt-offering; and he shall pour out all its blood by the bottom of the altar of whole-burnt-offerings.
+
+### Leviticus 4:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- brenton: And he shall offer up all his fat on the altar, as the fat of the sacrifice of peace-offering; and the priest shall make atonement for him concerning his sin, and it shall be forgiven him.
+
+### Leviticus 4:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if one person from the people of the land sins unintentionally by doing one of all the commands of the Lord that must not be done, and becomes guilty,
+- brenton: And if a soul of the people of the land should sin unwillingly, in doing a thing contrary to any of the commandments of the Lord, which ought not to be done, and shall transgress,
+
+### Leviticus 4:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the sin that he sinned becomes known to him, then he shall bring a female goat from the goats, without blemish, for the sin that he sinned.
+- brenton: and his sin should be known to him, wherein he has sinned, then shall he bring a kid of the goats, a female without blemish shall he bring for his sin, which he has sinned.
+
+### Leviticus 4:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hand on the head of his sin-offering, and they shall slaughter the female goat of the sin-offering in the place where they slaughter the whole burnt offerings.
+- brenton: And he shall lay his hand on the head of his sin-offering, and they shall slay the kid of the sin-offering in the place where they slay the victims for whole-burnt-offerings.
+
+### Leviticus 4:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take some of its blood with his finger and place it on the horns of the altar of whole burnt offerings, and he shall pour out all its blood at the base of the altar.
+- brenton: And the priest shall take of its blood with his finger, and shall put it on the horns of the altar of whole-burnt-offerings; and all its blood he shall pour forth by the foot of the altar.
+
+### Leviticus 4:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
+- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+### Leviticus 4:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he brings a sheep as his gift for sin, he shall bring a female without blemish.
+- brenton: And if he should offer a lamb for his sin-offering, he shall offer it a female without blemish.
+
+### Leviticus 4:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall lay his hand on the head of the sin-offering, and they shall slaughter it in the place where they slaughter the whole burnt offerings.
+- brenton: And he shall lay his hand on the head of the sin-offering, and they shall kill it in the place where they kill the victims for whole-burnt-offerings.
+
+### Leviticus 4:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take some of the blood of the sin-offering with his finger and place it on the horns of the altar of whole burnt offering, and he shall pour out all its blood at the base of the altar of whole burnt offering.
+- brenton: And the priest shall take of the blood of the sin-offering with his finger, and shall put it on the horns of the altar of whole-burnt-offerings, and he shall pour out all its blood by the bottom of the altar of whole-burnt-offering.
+
+### Leviticus 4:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
+- brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
+
+### Leviticus 5:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And if a person sins and hears a sworn charge, and he is a witness or has seen or knows, if he does not report it, he shall bear the sin.
+- brenton: And if a soul sin, and hear the voice of swearing, and he is a witness or has seen or been conscious, if he do not report it, he shall bear his iniquity.
+
+### Leviticus 5:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Or if a person touches any unclean thing, whether the carcass of an unclean wild beast, or carcasses of unclean abominations, or carcasses of unclean cattle,
+- brenton: That soul which shall touch any unclean thing, or carcase, or that which is unclean being taken of beasts, or the dead bodies of abominable reptiles which are unclean, or carcases of unclean cattle,
+
+### Leviticus 5:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or touches human uncleanness, any uncleanness by which, when touching it, he would be defiled, and it escapes him, but afterward he knows and becomes guilty,
+- brenton: or should touch the uncleanness of a man, of whatever kind, which he may touch and be defiled by, and it should have escaped him, but afterwards he should know,—then he shall have transgressed.
+
+### Leviticus 5:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or if a person swears, rashly speaking with the lips, to do evil or to do good, according to whatever a man may utter with an oath, and it escapes him before his eyes, and later he knows and sins in one of these things,
+- brenton: That unrighteous soul, which determines with his lips to do evil or to do good according to whatsoever a man may determine with an oath, and it shall have escaped his notice, and he shall afterwards know it, and so he should sin in some one of these things:—
+
+### Leviticus 5:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then he shall confess the sin in which he has sinned.
+- brenton: then shall he declare his sin in the things wherein he has sinned by that sin.
+
+### Leviticus 5:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring to the Lord for what he became guilty in, for the sin that he sinned, a female from the sheep, a ewe lamb or a female goat, for sin, and the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- brenton: And he shall bring for his transgressions against the Lord, for his sin which he has sinned, a ewe lamb of the flock, or a kid of the goats, for a sin-offering; and the priest shall make an atonement for him for his sin which he has sinned, and his sin shall be forgiven him.
+
+### Leviticus 5:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his hand is not strong enough for a sheep, he shall bring for his sin that he sinned two turtledoves or two young pigeons to the Lord, one for sin and one for a whole burnt offering.
+- brenton: And if he cannot afford a sheep, he shall bring for his sin which he has sinned, two turtle-doves or two young pigeons to the Lord; one for a sin-offering, and the other for a burnt-offering.
+
+### Leviticus 5:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring them to the priest, and the priest shall bring the one for sin first, and the priest shall pinch off its head from the neck, but shall not divide it.
+- brenton: And he shall bring them to the priest, and the priest shall bring the sin-offering first; and the priest shall pinch off the head from the neck, and shall not divide the body.
+
+### Leviticus 5:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall sprinkle some of the blood of the one for sin on the wall of the altar, and the rest of the blood he shall drain out at the base of the altar, for it is a sin-offering.
+- brenton: And he shall sprinkle of the blood of the sin-offering on the side of the altar, but the rest of the blood he shall drop at the foot of the altar, for it is a sin-offering.
+
+### Leviticus 5:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make the second one a whole burnt offering, as is proper, and the priest shall make atonement for him for his sin that he sinned, and it shall be forgiven him.
+- brenton: And he shall make the second a whole-burnt-offering, as it is fit; and the priest shall make atonement for his sin which he has sinned, and it shall be forgiven him.
+
+### Leviticus 5:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his hand cannot find a pair of turtledoves or two young pigeons, then he shall bring as his gift for the sin that he sinned a tenth of an ephah of fine flour for sin. He shall not pour oil on it, nor place frankincense on it, because it is a sin-offering.
+- brenton: And if he cannot afford a pair of turtle-doves, or two young pigeons, then shall he bring as his gift for his sin, the tenth part of an ephah of fine flour for a sin-offering; he shall not pour oil upon it, nor shall he put frankincense upon it, because it is a sin-offering.
+
+### Leviticus 5:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring it to the priest, and the priest, taking from it a full handful, its memorial portion, shall place it on the altar of whole burnt offerings to the Lord. It is a sin-offering.
+- brenton: And he shall bring it to the priest; and the priest having taken a handful of it, shall lay the memorial of it on the altar of whole-burnt-offerings to the Lord; it is a sin-offering.
+
+### Leviticus 5:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make atonement for him for the sin that he sinned in one of these things, and it shall be forgiven him. And what remains shall belong to the priest, like the sacrifice of fine flour.
+- brenton: And the priest shall make atonement for him for his sin, which he has sinned in one of these things, and it shall be forgiven him; and that which is left shall be the priest's, as an offering of fine flour.
+
+### Leviticus 5:14
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 5:15
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
+
+### Leviticus 5:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what he sinned from the holy things he shall repay, and he shall add a fifth to it and give it to the priest. And the priest shall make atonement for him with the ram of trespass, and it shall be forgiven him.
+- brenton: And he shall make compensation for that wherein he has sinned in the holy things; and he shall add the fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of transgression, and his sin shall be forgiven him.
+
+### Leviticus 5:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a person sins and does one of all the commands of the Lord that must not be done, and he does not know it, yet becomes guilty and bears the sin,
+- brenton: And the soul which shall sin, and do one thing against any of the commandments of the Lord, which it is not right to do, and has not known it, and shall have transgressed, and shall have contracted guilt,
+
+### Leviticus 5:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then he shall bring a ram without blemish from the sheep, valued in silver, for trespass to the priest. And the priest shall make atonement for him for his ignorance that he committed in ignorance, and he did not know it, and it shall be forgiven him.
+- brenton: he shall even bring a ram without blemish from the flock, valued at a price of silver for his transgression to the priest; and the priest shall make atonement for his trespass of ignorance, wherein he ignorantly trespassed, and he knew it not; and it shall be forgiven him.
+
+### Leviticus 5:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For by guilt he has been guilty before the Lord.
+- brenton: For he has surely been guilty of transgression before the Lord.
+
+### Leviticus 5:20
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 5:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If a person sins and deliberately overlooks the commands of the Lord and lies about matters concerning his neighbor, in a deposit or in a partnership or in a robbery, or has wronged his neighbor in something,
+- brenton: The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,
+
+### Leviticus 5:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or has found something lost and lies about it and swears unjustly concerning any one of all the things that a person may do so as to sin in them,
+- brenton: or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;
+
+### Leviticus 5:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then it shall be, whenever he sins and becomes guilty, that he shall restore the plunder that he seized, or the wrong that he committed, or the deposit entrusted to him, or the lost thing that he found,
+- brenton: it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found
+
+### Leviticus 5:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from any matter about which he swore unjustly, he shall repay its principal and add a fifth to it. He shall give it to the one to whom it belongs on the day he is convicted.
+- brenton: of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted.
+
+### Leviticus 5:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for his trespass he shall bring to the Lord a ram from the sheep, without blemish, valued for the matter in which he trespassed.
+- brenton: And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed.
+
+### Leviticus 5:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make atonement for him before the Lord, and it shall be forgiven him for any one of all the things that he did and trespassed in.
+- brenton: And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it.
+
+### Leviticus 6:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 6:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Charge Aaron and his sons, saying, This is the law of the whole burnt offering: this is the whole burnt offering on its burning upon the altar all night until morning, and the fire of the altar shall burn on it; it shall not be extinguished.
+- brenton: Charge Aaron and his sons, saying, This is the law of whole-burnt-offering; this is the whole-burnt-offering in its burning on the altar all the night till the morning; and the fire of the altar shall burn on it, it shall not be put out.
+
+### Leviticus 6:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall put on a linen tunic, and he shall put linen undergarments around his body, and he shall remove the ashes that the fire consumed from the whole burnt offering on the altar, and he shall place them beside the altar.
+- brenton: And the priest shall put on the linen tunic, and he shall put the linen drawers on his body; and shall take away that which has been thoroughly burnt, which the fire shall have consumed, even the whole-burnt-offering from the altar, and he shall put it near the altar.
+
+### Leviticus 6:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take off his garment and put on another garment, and he shall carry the ashes outside the camp to a clean place.
+- brenton: And he shall put off his robe, and put on another robe, and he shall take forth the offering that has been burnt without the camp into a clean place.
+
+### Leviticus 6:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
+
+### Leviticus 6:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And fire shall burn continually on the altar; it shall not be extinguished.
+- brenton: And the fire shall always burn on the altar; it shall not be extinguished.
+
+### Leviticus 6:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the sacrifice that the sons of Aaron shall bring before the Lord, before the altar.
+- brenton: This is the law of the sacrifice, which the sons of Aaron shall bring near before the Lord, before the altar.
+
+### Leviticus 6:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take from it with his handful from the fine flour of the sacrifice with its oil and all the frankincense that is on the sacrifice, and he shall offer on the altar an offering, an aroma of sweet fragrance, its memorial to the Lord.
+- brenton: And he shall take from it a handful of the fine flour of the sacrifice with its oil, and with all its frankincense, which are upon the sacrifice; and he shall offer up on the altar a burnt-offering as a sweet-smelling savour, a memorial of it to the Lord.
+
+### Leviticus 6:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons shall eat what is left of it. It shall be eaten unleavened in a holy place; they shall eat it in the court of the tent of testimony.
+- brenton: And Aaron and his sons shall eat that which is left of it: it shall be eaten without leaven in a holy place, they shall eat it in the court of the tabernacle of witness.
+
+### Leviticus 6:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: It shall not be baked leavened. I have given it to them as a portion from the Lord's offerings. It is holy of holies, like that for sin and like that for trespass.
+- brenton: It shall not be baked with leaven. I have given it as a portion to them of the burnt-offerings of the Lord: it is most holy, as the offering for sin, and as the offering for trespass.
+
+### Leviticus 6:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every male among the priests shall eat it. It is an everlasting statute throughout your generations from the Lord's offerings. Everyone who touches them shall be sanctified.
+- brenton: Every male of the priests shall eat it: it is a perpetual ordinance throughout your generations of the burnt-offerings of the Lord; whosoever shall touch them shall be hallowed.
+
+### Leviticus 6:12
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 6:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the gift of Aaron and of his sons that they shall bring to the Lord on the day when he anoints him: a tenth of an ephah of fine flour for a continual sacrifice, half of it in the morning and half of it in the evening.
+- brenton: This is the gift of Aaron and of his sons, which they shall offer to the Lord in the day in which thou shalt anoint him; the tenth of an ephah of fine flour for a sacrifice continually, the half of it in the morning, and the half of it in the evening.
+
+### Leviticus 6:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It shall be made on a griddle with oil. He shall bring it well mixed, a sacrifice rolled out in pieces, an aroma of sweet fragrance to the Lord.
+- brenton: It shall be made with oil in a frying-pan; he shall offer it kneaded and in rolls, an offering of fragments, an offering of a sweet savour unto the Lord.
+
+### Leviticus 6:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The anointed priest in his place from among his sons shall make it. It is an everlasting statute. It shall all be completely offered.
+- brenton: The anointed priest who is in his place, one of his sons, shall offer it: it is a perpetual statute, it shall all be consumed.
+
+### Leviticus 6:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every sacrifice of a priest shall be wholly burned and shall not be eaten.
+- brenton: And every sacrifice of a priest shall be thoroughly burnt, and shall not be eaten.
+
+### Leviticus 6:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 6:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron and to his sons, saying, This is the law of the thing for sin: in the place where they slaughter the whole burnt offering, they shall slaughter the things for sin before the Lord. It is holy of holies.
+- brenton: Speak to Aaron and to his sons, saying, This is the law of the sin-offering;—in the place where they slay the whole-burnt-offering, they shall slay the sin-offerings before the Lord: they are most holy.
+
+### Leviticus 6:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The priest who offers it shall eat it. It shall be eaten in a holy place, in the court of the tent of testimony.
+- brenton: The priest that offers it shall eat it: in a holy place it shall be eaten, in the court of the tabernacle of witness.
+
+### Leviticus 6:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone touching its flesh shall be sanctified, and whatever garment is sprinkled with some of its blood, you shall wash what was sprinkled on it in a holy place.
+- brenton: Every one that touches the flesh of it shall be holy, and on whosesoever garment any of its blood shall have been sprinkled, whosoever shall have it sprinkled, shall be washed in the holy place.
+
+### Leviticus 6:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the earthen vessel in which it was boiled shall be broken. And if it was boiled in a bronze vessel, he shall scour it and rinse it with water.
+- brenton: And the earthen vessel, in whichsoever it shall have been sodden, shall be broken; and if it shall have been sodden in a brazen vessel, he shall scour it and wash it with water.
+
+### Leviticus 6:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every male among the priests shall eat it. It is holy of holies to the Lord.
+- brenton: Every male among the priests shall eat it: it is most holy to the Lord.
+
+### Leviticus 6:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every thing for sin, from whose blood some is brought into the tent of testimony to make atonement in the holy place, shall not be eaten. It shall be burned with fire.
+- brenton: And no offerings for sin, of whose blood there shall be brought any into the tabernacle of witness to make atonement in the holy place, shall be eaten: they shall be burned with fire.
+
+### Leviticus 7:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And this is the law of the ram for trespass. It is holy of holies.
+- brenton: And this is the law of the ram for the trespass-offering; it is most holy.
+
+### Leviticus 7:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In the place where they slaughter the whole burnt offering, they shall slaughter the ram of trespass before the Lord, and he shall pour the blood around on the altar.
+- brenton: In the place where they slay the whole-burnt-offering, they shall slay the ram of the trespass-offering before the Lord, and he shall pour out the blood at the bottom of the altar round about.
+
+### Leviticus 7:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring from it all its fat, and the loin, and all the fat that covers the inward parts and all the fat that is on the inward parts,
+- brenton: And he shall offer all the fat from it; and the loins, and all the fat that covers the inwards, and all the fat that is upon the inwards,
+
+### Leviticus 7:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the two kidneys and the fat that is on them, that on the thighs, and he shall remove the lobe above the liver with the kidneys.
+- brenton: and the two kidneys, and the fat that is upon them, that which is upon the thighs, and the caul upon the liver with the kidneys, he shall take them away.
+
+### Leviticus 7:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall offer them on the altar, an offering to the Lord. It is for trespass.
+- brenton: And the priest shall offer them on the altar a burnt-offering to the Lord; it is for trespass.
+
+### Leviticus 7:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every male among the priests shall eat them. They shall eat them in a holy place. It is holy of holies.
+- brenton: Every male of the priests shall eat them, in the holy place they shall eat them: they are most holy.
+
+### Leviticus 7:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As the thing for sin, so also the thing for trespass. There is one law for them. The priest who makes atonement with it, it shall belong to him.
+- brenton: As the sin-offering, so also is the trespass-offering. There is one law of them; the priest who shall make atonement with it, his it shall be.
+
+### Leviticus 7:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest who offers a person's whole burnt offering, the skin of the whole burnt offering that he offers shall belong to him.
+- brenton: And as for the priest who offers a man's whole-burnt-offering, the skin of the whole-burnt-offering which he offers, shall be his.
+
+### Leviticus 7:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every sacrifice that is prepared in the oven, and everything that is prepared on the hearth-pan or on the griddle, shall belong to the priest who offers it.
+- brenton: And every sacrifice which shall be prepared in the oven, and every one which shall be prepared on the hearth, or on a frying-pan, it is the property of the priest that offers it; it shall be his.
+
+### Leviticus 7:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every sacrifice mixed with oil and not mixed with oil shall belong equally to all the sons of Aaron.
+- brenton: And every sacrifice made up with oil, or not made up with oil, shall belong to the sons of Aaron, an equal portion to each.
+
+### Leviticus 7:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
+- brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
+
+### Leviticus 7:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If he brings it for praise, then on the sacrifice of praise he shall bring loaves from fine flour mixed with oil, unleavened wafers anointed with oil, and fine flour well mixed with oil.
+- brenton: If a man should offer it for praise, then shall he bring, for the sacrifice of praise, loaves of fine flour made up with oil, and unleavened cakes anointed with oil, and fine flour kneaded with oil.
+
+### Leviticus 7:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: With leavened loaves he shall bring his gifts with the sacrifice of praise of salvation.
+- brenton: With leavened bread he shall offer his gifts, with the peace-offering of praise.
+
+### Leviticus 7:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring one from all his gifts as a contribution to the Lord. It shall belong to the priest who pours out the blood of the sacrifice of salvation.
+- brenton: And he shall bring one of all his gifts, a separate offering to the Lord: it shall belong to the priest who pours forth the blood of the peace-offering.
+
+### Leviticus 7:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the flesh of the sacrifice of praise of salvation shall belong to him, and it shall be eaten on the day it is offered. They shall not leave any of it until morning.
+- brenton: And the flesh of the sacrifice of the peace-offering of praise shall be his, and it shall be eaten in the day in which it is offered: they shall not leave of it till the morning.
+
+### Leviticus 7:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if his gift is a vow or a voluntary offering, on the day when he offers his sacrifice it shall be eaten, and on the next day,
+- brenton: And if it be a vow, or he offer his gift of his own will, on whatsoever day he shall offer his sacrifice, it shall be eaten, and on the morrow.
+
+### Leviticus 7:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and what remains from the flesh of the sacrifice until the third day shall be burned with fire.
+- brenton: And that which is left of the flesh of the sacrifice till the third day, shall be consumed with fire.
+
+### Leviticus 7:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone eats from the flesh on the third day, it shall not be accepted for the one who offers it. It shall not be reckoned to him. It is pollution, and the person who eats from it shall bear the sin.
+- brenton: And if he do at all eat of the flesh on the third day, it shall not be accepted for him that offers: it shall not be reckoned to him, it is pollution; and whatsoever soul shall eat of it, shall bear his iniquity.
+
+### Leviticus 7:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And flesh that touches any unclean thing shall not be eaten. It shall be burned with fire. Every clean person may eat flesh.
+- brenton: And whatsoever flesh shall have touched any unclean thing, it shall not be eaten, it shall be consumed with fire; every one that is clean shall eat the flesh.
+
+### Leviticus 7:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the person who eats from the flesh of the sacrifice of salvation, which belongs to the Lord, while his uncleanness is upon him, that person shall perish from his people.
+- brenton: And whatsoever soul shall eat of the flesh of the sacrifice of the peace-offering which is the Lord's, and his uncleanness be upon him, that soul shall perish from his people.
+
+### Leviticus 7:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a person touches any unclean thing, whether human uncleanness or unclean quadrupeds or any unclean abomination, and eats from the flesh of the sacrifice of salvation, which belongs to the Lord, that person shall perish from his people.
+- brenton: And whatsoever soul shall touch any unclean thing, either of the uncleanness of a man, or of unclean quadrupeds, or any unclean abominable thing, and shall eat of the flesh of the sacrifice of the peace-offering, which is the Lord's, that soul shall perish from his people.
+
+### Leviticus 7:22
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 7:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, You shall eat no fat of cattle or sheep or goats.
+- brenton: Speak to the children of Israel, saying, Ye shall eat no fat of oxen or sheep or goats.
+
+### Leviticus 7:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fat of animals that died on their own or were torn by beasts may be used for any work, but for eating it shall not be eaten.
+- brenton: And the fat of such animals as have died of themselves, or have been seized of beasts, may be employed for any work; but it shall not be eaten for food.
+
+### Leviticus 7:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone who eats fat from the animals from which they bring an offering to the Lord, that person shall perish from his people.
+- brenton: Every one that eats fat off the beasts, from which he will bring a burnt-offering to the Lord—that soul shall perish from his people.
+
+### Leviticus 7:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall eat no blood in all your dwellings, whether from birds or from cattle.
+- brenton: Ye shall eat no blood in all your habitations, either of beasts or of birds.
+
+### Leviticus 7:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every person who eats blood, that person shall perish from his people.
+- brenton: Every soul that shall eat blood, that soul shall perish from his people.
+
+### Leviticus 7:28
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 7:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall speak to the sons of Israel, saying, The one who brings a sacrifice of salvation to the Lord shall bring his gift to the Lord from the sacrifice of salvation.
+- brenton: Thou shalt also speak to the children of Israel, saying, He that offers a sacrifice of peace-offering, shall bring his gift to the Lord also from the sacrifice of peace-offering.
+
+### Leviticus 7:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His hands shall bring the Lord's offerings: the fat on the breast and the lobe of the liver he shall bring them to set them as a gift before the Lord.
+- brenton: His hands shall bring the burnt-offerings to the Lord; the fat which is on the breast and the lobe of the liver, he shall bring them, so as to set them for a gift before the Lord.
+
+### Leviticus 7:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall offer the fat on the altar, and the breast shall belong to Aaron and to his sons.
+- brenton: And the priest shall offer the fat upon the altar, and the breast shall be Aaron's and his sons,
+
+### Leviticus 7:32
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+
+### Leviticus 7:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one from among the sons of Aaron who offers the blood of the sacrifice of salvation and the fat, to him the right arm shall belong as a portion.
+- brenton: He that offers the blood of the peace-offering, and the fat, of the sons of Aaron, his shall be the right shoulder for a portion.
+
+### Leviticus 7:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For I have taken the breast of the presentation and the arm of the contribution from the sons of Israel, from your sacrifices of salvation, and I have given them to Aaron the priest and to his sons as an everlasting statute from the sons of Israel.
+- brenton: For I have taken the wave-breast and shoulder of separation from the children of Israel from the sacrifices of your peace-offerings, and I have given them to Aaron the priest and his sons, a perpetual ordinance due from the children of Israel.
+
+### Leviticus 7:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the anointing of Aaron and the anointing of his sons from the Lord's offerings, on the day when he brought them to serve as priests to the Lord,
+- brenton: This is the anointing of Aaron, and the anointing of his sons, their portion of the burnt-offerings of the Lord, in the day in which he brought them forward to minister as priests to the Lord;
+
+### Leviticus 7:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as the Lord commanded to give to them on the day he anointed them, from the sons of Israel, an everlasting statute throughout their generations.
+- brenton: as the Lord commanded to give to them in the day in which he anointed them of the sons of Israel, a perpetual statute through their generations.
+
+### Leviticus 7:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the whole burnt offerings and of sacrifice and of the thing for sin and of trespass and of consecration and of the sacrifice of salvation,
+- brenton: This is the law of the whole-burnt-offerings, and of sacrifice, and of sin-offering, and of offering for transgression, and of the sacrifice of consecration, and of the sacrifice of peace-offering;
+
+### Leviticus 7:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as the Lord commanded Moses on Mount Sinai, on the day when he commanded the sons of Israel to bring their gifts before the Lord in the wilderness of Sinai.
+- brenton: as the Lord commanded Moses in the mount Sina, in the day in which he commanded the children of Israel to offer their gifts before the Lord in the wilderness of Sina.
+
+### Leviticus 8:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 8:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take Aaron and his sons, and his garments, and the anointing oil, and the calf for sin, and the two rams, and the basket of unleavened bread,
+- brenton: Take Aaron and his sons, and his robes and the anointing oil, and the calf for the sin-offering, and the two rams, and the basket of unleavened bread,
+
+### Leviticus 8:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and assemble all the congregation at the door of the tent of testimony.
+- brenton: and assemble the whole congregation at the door of the tabernacle of witness.
+
+### Leviticus 8:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses did just as the Lord commanded him, and he assembled the congregation at the door of the tent of testimony.
+- brenton: And Moses did as the Lord appointed him, and he assembled the congregation at the door of the tabernacle of witness.
+
+### Leviticus 8:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the congregation, This is the word that the Lord commanded to be done.
+- brenton: And Moses said to the congregation, This is the thing which the Lord has commanded you to do.
+
+### Leviticus 8:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought Aaron and his sons near and washed them with water.
+- brenton: And Moses brought nigh Aaron and his sons, and washed them with water,
+
+### Leviticus 8:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he put the tunic on him, and girded him with the sash, and clothed him with the robe, and put the ephod on him, and girded him according to the making of the ephod, and bound him in it.
+- brenton: and put on him the coat, and girded him with the girdle, and clothed him with the tunic, and put on him the ephod;
+
+### Leviticus 8:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he put the breastpiece on it, and on the breastpiece he put the Manifestation and the Truth.
+- brenton: and girded him with a girdle according to the make of the ephod, and clasped him closely with it: and put upon it the oracle, and put upon the oracle the Manifestation and the Truth.
+
+### Leviticus 8:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he put the turban on his head, and on the turban, at the front of it, he put the golden plate, the sanctified holy thing, just as the Lord commanded Moses.
+- brenton: And he put the mitre on his head, and put upon the mitre in front the golden plate, the most holy thing, as the Lord commanded Moses.
+
+### Leviticus 8:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took some of the anointing oil.
+- brenton: And Moses took of the anointing oil,
+
+### Leviticus 8:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he sprinkled from it on the altar seven times, and anointed the altar and sanctified it, and all its utensils, and the laver and its base, and sanctified them. And he anointed the tent and everything in it, and sanctified it.
+- brenton: and sprinkled of it seven times on the altar; and anointed the altar, and hallowed it, and all things on it, and the laver, and its foot, and sanctified them; and anointed the tabernacle and all its furniture, and hallowed it.
+
+### Leviticus 8:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses poured some of the anointing oil on Aaron's head and anointed him and sanctified him.
+- brenton: And Moses poured of the anointing oil on the head of Aaron; and he anointed him and sanctified him.
+
+### Leviticus 8:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought Aaron's sons near and clothed them with tunics and girded them with sashes and put caps on them, just as the Lord commanded Moses.
+- brenton: And Moses brought the sons of Aaron near, and put on them coats and girded them with girdles, and put on them bonnets, as the Lord commanded Moses.
+
+### Leviticus 8:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought near the calf for sin, and Aaron and his sons laid their hands on the head of the calf for sin.
+- brenton: And Moses brought near the calf for the sin-offering, and Aaron and his sons laid their hands on the head of the calf of the sin-offering.
+
+### Leviticus 8:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he slaughtered it, and Moses took some of the blood and put it on the horns of the altar all around with his finger, and purified the altar, and poured out the blood at the base of the altar, and sanctified it, to make atonement on it.
+- brenton: And he slew it; and Moses took of the blood, and put it on the horns of the altar round about with his finger; and he purified the altar, and poured out the blood at the bottom of the altar, and sanctified it, to make atonement upon it.
+
+### Leviticus 8:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took all the fat on the inward parts, and the lobe above the liver, and both kidneys, and the fat on them, and Moses offered them on the altar.
+- brenton: And Moses took all the fat that was upon the inwards, and the lobe on the liver, and both the kidneys, and the fat that was upon them, and Moses offered them on the altar.
+
+### Leviticus 8:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the calf and its hide and its flesh and its dung he burned with fire outside the camp, just as the Lord commanded Moses.
+- brenton: But the calf, and his hide, and his flesh, and his dung, he burnt with fire without the camp, as the Lord commanded Moses.
+
+### Leviticus 8:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought near the ram for whole burnt offering, and Aaron and his sons laid their hands on the head of the ram.
+- brenton: And Moses brought near the ram for a whole-burnt-offering, and Aaron and his sons laid their hands on the head of the ram. And Moses slew the ram: and Moses poured the blood on the altar round about.
+
+### Leviticus 8:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses slaughtered the ram and poured the blood around on the altar.
+- brenton: And he divided the ram by its limbs, and Moses offered the head, and the limbs, and the fat; and he washed the belly and the feet with water.
+
+### Leviticus 8:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he cut the ram into limbs, and Moses offered the head and the limbs and the fat.
+- brenton: And Moses offered up the whole ram on the altar: it is a whole-burnt-offering for a sweet-smelling savour; it is a burnt-offering to the Lord, as the Lord commanded Moses.
+
+### Leviticus 8:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he washed the belly and the feet with water, and Moses offered the whole ram on the altar. It was a whole burnt offering for an aroma of sweet fragrance, an offering to the Lord, just as the Lord commanded Moses.
+- brenton: And Moses brought the second ram, the ram of consecration, and Aaron and his sons laid their hands on the head of the ram, and he slew him;
+
+### Leviticus 8:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses brought near the second ram, the ram of completion, and Aaron and his sons laid their hands on the head of the ram.
+- brenton: and Moses took of his blood, and put it upon the tip of Aaron's right ear, and on the thumb of his right hand, and on the great toe of his right foot.
+
+### Leviticus 8:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he slaughtered it, and Moses took some of its blood and put it on the lobe of Aaron's right ear and on the tip of his right hand and on the tip of his right foot.
+- brenton: And Moses brought near the sons of Aaron; and Moses put of the blood on the tips of their right ears, and on the thumbs of their right hands, and on the great toes of their right feet, and Moses poured out the blood on the altar round about.
+
+### Leviticus 8:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought Aaron's sons near, and Moses put some of the blood on the lobes of their right ears and on the tips of their right hands and on the tips of their right feet, and Moses poured the blood around on the altar.
+- brenton: And he took the fat, and the rump, and the fat on the belly, and the lobe of the liver, and the two kidneys, and the fat that is upon them, and the right shoulder.
+
+### Leviticus 8:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he took the fat and the loin and the fat on the belly and the lobe of the liver and the two kidneys and the fat on them and the right arm.
+- brenton: And from the basket of consecration, which was before the Lord, he also took one unleavened loaf, and one loaf made with oil, and one cake; and put them upon the fat, and the right shoulder:
+
+### Leviticus 8:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the basket of completion that was before the Lord he took one unleavened loaf and one loaf of oil and one wafer, and placed them on the fat and the right arm.
+- brenton: and put them all on the hands of Aaron, and upon the hands of his sons, and offered them up for a wave-offering before the Lord.
+
+### Leviticus 8:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed all of them on Aaron's hands and on the hands of his sons, and offered them as a contribution before the Lord.
+- brenton: And Moses took them at their hands, and Moses offered them on the altar, on the whole-burnt-offering of consecration, which is a smell of sweet savour: it is a burnt-offering to the Lord.
+
+### Leviticus 8:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took them from their hands and offered them on the altar, on the whole burnt offering of completion. It is an aroma of sweet fragrance, an offering to the Lord.
+- brenton: And Moses took the breast, and separated it for a heave-offering before the Lord, from the ram of consecration; and it became Moses' portion, as the Lord commanded Moses.
+
+### Leviticus 8:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses, taking the breast, presented it before the Lord from the ram of completion, and it became Moses' portion, just as the Lord commanded Moses.
+- brenton: And Moses took of the anointing oil, and of the blood that was on the altar, and sprinkled it on Aaron, and on his garments, and his sons, and the garments of his sons with him.
+
+### Leviticus 8:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took some of the anointing oil and some of the blood that was on the altar and sprinkled it on Aaron and on his garments and on his sons and on the garments of his sons with him, and he sanctified Aaron and his garments and his sons and the garments of his sons with him.
+- brenton: And he sanctified Aaron and his garments, and his sons, and the garments of his sons with him.
+
+### Leviticus 8:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron and to his sons, Boil the flesh in the court of the tent of testimony, in a holy place, and there eat it, and the loaves in the basket of completion, just as it has been ordered to me, saying, Aaron and his sons shall eat them.
+- brenton: And Moses said to Aaron and to his sons, Boil the flesh in the tent of the tabernacle of witness in the holy place; and there ye shall eat it and the loaves in the basket of consecration, as it has been appointed me, the Lord saying, Aaron and his sons shall eat them.
+
+### Leviticus 8:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what remains of the flesh and of the loaves shall be burned with fire.
+- brenton: And that which is left of the flesh and of the loaves burn ye with fire.
+
+### Leviticus 8:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not go out from the door of the tent of testimony for seven days, until the day of your completion is fulfilled, for seven days he will consecrate your hands.
+- brenton: And ye shall not go out from the door of the tabernacle of witness for seven days, until the day be fulfilled, the day of your consecration; for in seven days shall he consecrate you,
+
+### Leviticus 8:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Just as he did on this day, the Lord commanded to do, so as to make atonement for you.
+- brenton: as he did in this day on which the Lord commanded me to do so, to make an atonement for you.
+
+### Leviticus 8:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And at the door of the tent of testimony you shall sit seven days, day and night, and you shall keep the Lord's charges, so that you may not die. For thus the Lord God commanded me.
+- brenton: And ye shall remain seven days at the door of the tabernacle of witness, day and night; ye shall observe the ordinances of the Lord, that ye die not; for so has the Lord God commanded me.
+
+### Leviticus 8:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons did all the words that the Lord commanded Moses.
+- brenton: And Aaron and his sons performed all these commands which the Lord commanded Moses.
+
+### Leviticus 9:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on the eighth day that Moses called Aaron and his sons and the elders of Israel.
+- brenton: And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel,
+
+### Leviticus 9:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron, Take for yourself a calf from the cattle for sin and a ram for whole burnt offering, both without blemish, and bring them before the Lord.
+- brenton: and Moses said to Aaron, Take to thyself a young calf of the herd for a sin-offering, and a ram for a whole-burnt-offering, unblemished, and offer them before the Lord.
+
+### Leviticus 9:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to the elders of Israel speak, saying, Take one he-goat from the goats for sin, and a calf and a year-old lamb, both without blemish, for whole burnt offering,
+- brenton: And speak to the elders of Israel, saying, Take one kid of the goats for a sin-offering, and a young calf, and a lamb of a year old for a whole-burnt-offering, spotless,
+
+### Leviticus 9:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and a calf and a ram for a sacrifice of salvation before the Lord, and fine flour mixed with oil, because today the Lord will appear among you.
+- brenton: and a calf and a ram for a peace offering before the Lord, and fine flour mingled with oil, for to-day the Lord will appear among you.
+
+### Leviticus 9:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took what Moses commanded before the tent of testimony, and all the congregation came near and stood before the Lord.
+- brenton: And they took as Moses commanded them before the tabernacle of witness, and all the congregation drew nigh, and they stood before the Lord.
+
+### Leviticus 9:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said, This is the word that the Lord spoke: Do it, and the glory of the Lord will appear among you.
+- brenton: And Moses said, This is the thing which the Lord has spoken; do it, and the glory of the Lord shall appear among you.
+
+### Leviticus 9:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron, Come near to the altar and make your sin-offering and your whole burnt offering and make atonement for yourself and for your house, and make the gifts of the people and make atonement for them, just as the Lord commanded Moses.
+- brenton: And Moses said to Aaron, Draw nigh to the altar, and offer thy sin-offering, and thy whole-burnt-offering, and make atonement for thyself, and for thy house; and offer the gifts of the people, and make atonement for them, as the Lord commanded Moses.
+
+### Leviticus 9:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron came near to the altar and slaughtered the calf of the sin-offering.
+- brenton: And Aaron drew nigh to the altar, and slew the calf of his sin-offering.
+
+### Leviticus 9:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Aaron brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar, and he poured the blood out at the base of the altar.
+- brenton: And the sons of Aaron brought the blood to him, and he dipped his finger into the blood, and put it on the horns of the altar, and he poured out the blood at the bottom of the altar.
+
+### Leviticus 9:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fat and the kidneys and the lobe of the liver of the sin-offering he offered on the altar, just as the Lord commanded Moses.
+- brenton: And he offered up on the altar the fat and the kidneys and the lobe of the liver of the sin-offering, according as the Lord commanded Moses.
+
+### Leviticus 9:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the flesh and the hide he burned with fire outside the camp.
+- brenton: And the flesh and the hide he burnt with fire outside of the camp.
+
+### Leviticus 9:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he slaughtered the whole burnt offering, and the sons of Aaron brought the blood to him, and he poured it around on the altar.
+- brenton: And he slew the whole-burnt-offering; and the sons of Aaron brought the blood to him, and he poured it on the altar round about.
+
+### Leviticus 9:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they brought the whole burnt offering to him piece by piece, and the head, and he placed them on the altar.
+- brenton: And they brought the whole-burnt-offering, according to its pieces; them and the head he put upon the altar.
+
+### Leviticus 9:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he washed the belly and the feet with water and placed them on the whole burnt offering on the altar.
+- brenton: And he washed the belly and the feet with water, and he put them on the whole-burnt-offering on the altar.
+
+### Leviticus 9:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they brought the people's gift, and he took the he-goat for the people's sin-offering and slaughtered it and purified it just like the first.
+- brenton: And he brought the gift of the people, and took the goat of the sin-offering of the people, and slew it, and purified it as also the first.
+
+### Leviticus 9:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought the whole burnt offering and made it as is proper.
+- brenton: And he brought the whole-burnt-offering, and offered it in due form.
+
+### Leviticus 9:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought the sacrifice and filled his hands from it and placed it on the altar, apart from the morning whole burnt offering.
+- brenton: And he brought the sacrifice and filled his hands with it, and laid it on the altar, besides the morning whole-burnt-offering.
+
+### Leviticus 9:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he slaughtered the calf and the ram of the people's sacrifice of salvation, and the sons of Aaron brought the blood to him, and he poured it around on the altar.
+- brenton: And he slew the calf, and the ram of the sacrifice of peace-offering of the people; and the sons of Aaron brought the blood to him, and he poured it out on the altar round about.
+
+### Leviticus 9:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fat from the calf and from the ram, the loin and the fat covering the belly and the two kidneys and the fat on them and the lobe above the liver,
+- brenton: And he took the fat of the calf, and the hind quarters of the ram, and the fat covering the belly, and the two kidneys, and the fat upon them, and the caul on the liver.
+
+### Leviticus 9:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and he placed the fats on the breasts, and they offered the fats on the altar.
+- brenton: And he put the fat on the breasts, and offered the fat on the altar.
+
+### Leviticus 9:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron presented the breast and the right arm before the Lord as a contribution, just as the Lord commanded Moses.
+- brenton: And Aaron separated the breast and the right shoulder as a choice-offering before the Lord, as the Lord commanded Moses.
+
+### Leviticus 9:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron, lifting up his hands over the people, blessed them, and he came down after making the sin-offering and the whole burnt offerings and the things of salvation.
+- brenton: And Aaron lifted up his hands on the people and blessed them; and after he had offered the sin-offering, and the whole-burnt-offerings, and the peace-offerings, he came down.
+
+### Leviticus 9:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron entered into the tent of testimony, and coming out they blessed all the people, and the glory of the Lord appeared to all the people.
+- brenton: And Moses and Aaron entered into the tabernacle of witness. And they came out and blessed all the people, and the glory of the Lord appeared to all the people.
+
+### Leviticus 9:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And fire came out from the Lord and consumed on the altar the whole burnt offerings and the fats, and all the people saw and were astonished and fell on their faces.
+- brenton: And fire came forth from the Lord, and devoured the offerings on the altar, both the whole-burnt-offerings and the fat; and all the people saw, and were amazed, and fell upon their faces.
+
+### Leviticus 10:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the two sons of Aaron, Nadab and Abihu, each taking his firepan, put fire in it and put incense on it and brought foreign fire before the Lord, which the Lord had not commanded them.
+- brenton: And the two sons of Aaron, Nadab and Abiud, took each his censer, and put fire therein, and threw incense thereon, and offered strange fire before the Lord, which the Lord did not command them,
+
+### Leviticus 10:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And fire came out from the Lord and consumed them, and they died before the Lord.
+- brenton: and fire came forth from the Lord, and devoured them, and they died before the Lord.
+
+### Leviticus 10:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was pierced.
+- brenton: And Moses said to Aaron, This is the thing which the Lord spoke, saying, I will be sanctified among them that draw nigh to me, and I will be glorified in the whole congregation; and Aaron was pricked in his heart.
+
+### Leviticus 10:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses called Misael and Elisaphan, sons of Uzziel, sons of Aaron's father's brother, and said to them, Come near and carry your brothers from before the holy things, outside the camp.
+- brenton: And Moses called Misadaë, and Elisaphan, sons of Oziel, sons of the brother of Aaron's father, and said to them, Draw near and take your brethren from before the sanctuary out of the camp.
+
+### Leviticus 10:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came near and carried them in their tunics outside the camp, just as Moses said.
+- brenton: And they came near and took them in their coats out of the camp, as Moses said.
+
+### Leviticus 10:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron and to Eleazar and Ithamar, his sons who remained, Do not uncover your heads and do not tear your garments, so that you may not die and wrath come upon all the congregation. But your brothers, the whole house of Israel, shall mourn the burning with which they were burned by the Lord.
+- brenton: And Moses said to Aaron, and Eleazar and Ithamar his sons that were left, Ye shall not make bare your heads, and ye shall not tear your garments; that ye die not, and so there should be wrath on all the congregation: but your brethren, even all the house of Israel, shall lament for the burning, with which they were burnt by the Lord.
+
+### Leviticus 10:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not go out from the door of the tent of testimony, so that you may not die, for the anointing oil from the Lord is upon you. And they did according to the word of Moses.
+- brenton: And ye shall not go forth from the door of the tabernacle of witness, that ye die not; for the Lord's anointing oil is upon you: and they did according to the word of Moses.
+
+### Leviticus 10:8
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Aaron, saying,
+- brenton: And the Lord spoke to Aaron, saying,
+
+### Leviticus 10:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Wine and strong drink you shall not drink, you and your sons with you, whenever you enter into the tent of testimony or when you approach the altar, and you shall certainly not die. It is an everlasting statute throughout your generations,
+- brenton: Ye shall not drink wine nor strong drink, thou and thy sons with thee, whensoever ye enter into the tabernacle of witness, or when ye approach the altar, so shall ye not die; it is a perpetual statute for your generations,
+
+### Leviticus 10:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to distinguish between the holy and the profane, and between the unclean and the clean,
+- brenton: to distinguish between sacred and profane, and between clean and unclean,
+
+### Leviticus 10:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and you shall instruct the sons of Israel in all the statutes that the Lord spoke to them by the hand of Moses.
+- brenton: and to teach the children of Israel all the statutes, which the Lord spoke to them by Moses.
+
+### Leviticus 10:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron and to Eleazar and Ithamar, the sons of Aaron who remained, Take the sacrifice left from the Lord's offerings and eat it unleavened beside the altar, because it is holy of holies.
+- brenton: And Moses said to Aaron, and to Eleazar and Ithamar, the sons of Aaron who survived, Take the sacrifice that is left of the burnt-offerings of the Lord, and ye shall eat unleavened bread by the altar: it is most holy.
+
+### Leviticus 10:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall eat it in a holy place, because it is a statute for you and a statute for your sons from the Lord's offerings, for thus it has been commanded to me.
+- brenton: And ye shall eat it in the holy place; for this is a statute for thee and a statute for thy sons, of the burnt-offerings to the Lord; for so it has been commanded me.
+
+### Leviticus 10:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall eat the breast of separation and the arm of contribution in a holy place, you and your sons and your house with you, because it has been given as a statute for you and a statute for your sons from the sacrifices of salvation of the sons of Israel.
+- brenton: And ye shall eat the breast of separation, and the shoulder of the choice-offering in the holy place, thou and thy sons and thy house with thee; for it has been given as an ordinance for thee and an ordinance for thy sons, of the sacrifices of peace-offering of the children of Israel.
+
+### Leviticus 10:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall bring the arm of contribution and the breast of separation with the offerings of the fats, to set them apart before the Lord, and it shall belong to you and to your sons and to your daughters with you as an everlasting statute, just as the Lord commanded Moses.
+- brenton: They shall bring the shoulder of the choice-offering, and the breast of the separation upon the burnt-offerings of the fat, to separate for a separation before the Lord; and it shall be a perpetual ordinance for thee and thy sons and thy daughters with thee, as the Lord commanded Moses.
+
+### Leviticus 10:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sought diligently for the he-goat for sin, and see, it had been burned up, and Moses was angry with Eleazar and Ithamar, the sons of Aaron who remained, saying,
+- brenton: And Moses diligently sought the goat of the sin-offering, but it had been consumed by fire; and Moses was angry with Eleazar and Ithamar the sons of Aaron that were left, saying,
+
+### Leviticus 10:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Why did you not eat the thing for sin in the holy place? For it is holy of holies, and he gave it to you to eat, so that you might take away the sin of the congregation and make atonement for them before the Lord.
+- brenton: Why did ye not eat the sin-offering in the holy place? for because it is most holy he has given you this to eat, that ye might take away the sin of the congregation, and make atonement for them before the Lord.
+
+### Leviticus 10:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For its blood was not brought inside into the holy place. You certainly should have eaten it in the holy place, just as the Lord commanded me.
+- brenton: For the blood of it was not brought into the holy place: ye shall eat it within, before the Lord, as the Lord commanded me.
+
+### Leviticus 10:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron spoke to Moses, saying, If today they have brought near their things for sin and their whole burnt offerings before the Lord, and these things have happened to me, and were I to eat the things for sin today, would it be pleasing to the Lord?
+- brenton: And Aaron spoke to Moses, saying, If they have brought nigh to-day their sin-offerings, and their whole-burnt-offerings before the Lord, and these events have happened to me, and yet I should eat to-day of the sin-offerings, would it be pleasing to the Lord?
+
+### Leviticus 10:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses heard, and it pleased him.
+- brenton: And Moses heard it, and it pleased him.
+
+### Leviticus 11:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Leviticus 11:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, These are the animals that you shall eat from all the animals upon the earth.
+- brenton: Speak ye to the sons of Israel, saying, These are the beasts which ye shall eat of all beasts that are upon the earth.
+
+### Leviticus 11:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every animal that divides the hoof and splits the hoof in two and chews the cud among the animals, these you shall eat.
+- brenton: Every beast parting the hoof and making divisions of two claws, and chewing the cud among beasts, these ye shall eat.
+
+### Leviticus 11:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But from these you shall not eat: from those chewing the cud and from those dividing the hoof and splitting the claws. The camel, because it chews the cud, but does not divide the hoof, it is unclean to you.
+- brenton: But of these ye shall not eat, of those that chew the cud, and of those that part the hoofs, and divide claws; the camel, because it chews the cud, but does not divide the hoof, this is unclean to you.
+
+### Leviticus 11:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the hare, because it chews the cud, but does not divide the hoof, it is unclean to you.
+- brenton: And the rabbit, because it chews the cud, but does not divide the hoof, this is unclean to you.
+
+### Leviticus 11:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the rock-badger, because it chews the cud, but does not divide the hoof, it is unclean to you.
+- brenton: And the hare, because it does not chew the cud, and does not divide the hoof, this is unclean to you.
+
+### Leviticus 11:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the pig, because it divides the hoof and splits the hoof-claws, but does not chew the cud, it is unclean to you.
+- brenton: And the swine, because this animal divides the hoof, and makes claws of the hoof, and it does not chew the cud, is unclean to you.
+
+### Leviticus 11:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From their flesh you shall not eat, and their carcasses you shall not touch. They are unclean to you.
+- brenton: Ye shall not eat of their flesh, and ye shall not touch their carcases; these are unclean to you.
+
+### Leviticus 11:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are what you shall eat from all that are in the waters: everything that has fins and scales in the waters, and in the seas, and in the streams, these you shall eat.
+- brenton: And these are what ye shall eat of all that are in the waters: all things that have fins and scales in the waters, and in the seas, and in the brooks, these ye shall eat.
+
+### Leviticus 11:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everything that does not have fins or scales in the water, or in the seas, and in the streams, from everything with which the waters teem and from every living creature in the water, is an abomination.
+- brenton: And all things which have not fins or scales in the water, or in the seas, and in the brooks, of all which the waters produce, and of every soul living in the water, are an abomination; and they shall be abominations to you.
+
+### Leviticus 11:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall be abominations to you. From their flesh you shall not eat, and their carcasses you shall abhor.
+- brenton: Ye shall not eat of their flesh, and ye shall abhor their carcases.
+
+### Leviticus 11:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everything in the waters that does not have fins and scales, this is an abomination to you.
+- brenton: And all things that have not fins or scales of those that are in the waters, these are an abomination to you.
+
+### Leviticus 11:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these you shall abhor from among the birds; they shall not be eaten. They are an abomination: the eagle and the griffin and the sea-eagle,
+- brenton: And these are the things which ye shall abhor of birds, and they shall not be eaten, they are an abomination: the eagle and the ossifrage, and the sea-eagle.
+
+### Leviticus 11:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the vulture and the kite and those like it,
+- brenton: And the vulture, and the kite, and the like to it;
+
+### Leviticus 11:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and every raven and those like it,
+- brenton: and the sparrow, and the owl, and the sea-mew, and the like to it:
+
+### Leviticus 11:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the ostrich and the owl and the gull and those like it, and the hawk and those like it,
+- brenton: and every raven, and the birds like it, and the hawk and his like,
+
+### Leviticus 11:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the night-raven and the diver and the ibis,
+- brenton: and the night-raven and the cormorant and the stork,
+
+### Leviticus 11:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the water-hen and the pelican and the swan,
+- brenton: and the red-bill, and pelican, and swan,
+
+### Leviticus 11:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the heron and the plover and those like it, and the hoopoe and the bat.
+- brenton: and the heron, and the lapwing, and the like to it, and the hoopoe and the bat.
+
+### Leviticus 11:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every winged creeping thing that goes on four feet is an abomination to you.
+- brenton: And all winged creatures that creep, which go upon four feet, are abominations to you.
+
+### Leviticus 11:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But these you may eat from the winged creeping things that go on four feet, which have legs above their feet to leap with on the ground.
+- brenton: But these ye shall eat of the creeping winged animals, which go upon four feet, which have legs above their feet, to leap with on the earth.
+
+### Leviticus 11:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these of them you may eat: the locust and those like it, and the attacus and those like it, and the grasshopper and those like it, and the serpent-fighter and those like it.
+- brenton: And these of them ye shall eat: the caterpillar and his like, and the attacus and his like, and the cantharus and his like, and the locust and his like.
+
+### Leviticus 11:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every winged creeping thing that has four feet is an abomination to you.
+- brenton: Every creeping thing from among the birds, which has four feet, is an abomination to you.
+
+### Leviticus 11:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And by these you shall become unclean. Everyone touching their carcasses shall be unclean until evening.
+- brenton: And by these ye shall be defiled; every one that touches their carcases shall be unclean till the evening.
+
+### Leviticus 11:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone carrying their carcasses shall wash his garments and be unclean until evening.
+- brenton: And every one that takes of their dead bodies shall wash his garments, and shall be unclean till the evening.
+
+### Leviticus 11:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Among all the animals, anything that divides the hoof and splits the claw, but does not chew the cud, shall be unclean to you. Everyone touching their carcasses shall be unclean until evening.
+- brenton: And whichever among the beasts divides the hoof and makes claws, and does not chew the cud, shall be unclean to you; every one that touches their dead bodies shall be unclean till evening.
+
+### Leviticus 11:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone among the wild beasts that goes on forepaws, that goes on all fours, is unclean to you. Everyone touching their carcasses shall be unclean until evening.
+- brenton: And every one among all the wild beasts that moves upon its fore feet, which goes on all four, is unclean to you; every one that touches their dead bodies shall be unclean till evening.
+
+### Leviticus 11:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one carrying their carcasses shall wash his garments and be unclean until evening. These are unclean to you.
+- brenton: And he that takes of their dead bodies shall wash his garments, and shall be unclean till evening: these are unclean to you.
+
+### Leviticus 11:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are unclean to you from among the creeping things that creep on the earth: the weasel and the mouse and the land-crocodile,
+- brenton: And these are unclean to you of reptiles upon the earth, the weasel, and the mouse, and the lizard,
+
+### Leviticus 11:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the shrew and the chameleon and the lizard and the lizard-kind and the mole,
+- brenton: the ferret, and the chameleon, and the evet, and the newt, and the mole.
+
+### Leviticus 11:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: these are unclean to you from all the creeping things on the earth. Everyone touching them when they are dead shall be unclean until evening.
+- brenton: These are unclean to you of all the reptiles which are on the earth; every one who touches their carcases shall be unclean till evening.
+
+### Leviticus 11:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And anything on which one of them falls, after they are dead, shall be unclean, whether any wooden vessel or garment or skin or sack, every vessel in which work is done. It shall be dipped in water and be unclean until evening, and then it shall be clean.
+- brenton: And on whatsoever one of their dead bodies shall fall it shall be unclean; whatever wooden vessel, or garment, or skin, or sack it may be, every vessel in which work should be done, shall be dipped in water, and shall be unclean till evening; and then it shall be clean.
+
+### Leviticus 11:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every earthen vessel into which one of these falls inside, everything inside it shall be unclean, and the vessel itself shall be broken.
+- brenton: And every earthen vessel into which one of these things shall fall, whatsoever is inside it, shall be unclean, and it shall be broken.
+
+### Leviticus 11:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every food that is eaten, if water comes on it, shall be unclean. And every drink that is drunk in any vessel shall be unclean.
+- brenton: And all food that is eaten, on which water shall come from such a vessel, shall be unclean; and every beverage which is drunk in any such vessel, shall be unclean.
+
+### Leviticus 11:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everything on which any of their carcasses falls shall be unclean. Ovens and cooking-stands shall be torn down. They are unclean, and shall be unclean to you.
+- brenton: And every thing on which there shall fall of their dead bodies shall be unclean; ovens and stands for jars shall be broken down: these are unclean, and they shall be unclean to you.
+
+### Leviticus 11:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only springs of waters and cisterns and gatherings of water shall be clean, but the one touching their carcasses shall be unclean.
+- brenton: Only if the water be of fountains of water, or a pool, or confluence of water, it shall be clean; but he that touches their carcases shall be unclean.
+
+### Leviticus 11:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if any of their carcasses falls upon any seed for sowing that is to be sown, it shall be clean.
+- brenton: And if one of their carcases should fall upon any sowing seed which shall be sown, it shall be clean.
+
+### Leviticus 11:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if water is poured on any seed and any of their carcasses falls upon it, it is unclean to you.
+- brenton: But if water be poured on any seed, and one of their dead bodies fall upon it, it is unclean to you.
+
+### Leviticus 11:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if one of the animals that are for you to eat dies, the one touching its carcass shall be unclean until evening.
+- brenton: And if one of the cattle die, which it is lawful for you to eat, he that touches their carcases shall be unclean till evening.
+
+### Leviticus 11:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one eating from their carcasses shall wash his garments and be unclean until evening, and the one carrying from their carcasses shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And he that eats of their carcases shall wash his garments, and be unclean till evening; and he that carries any of their carcases shall wash his garments, and bathe himself in water, and be unclean till evening.
+
+### Leviticus 11:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every creeping thing that creeps upon the earth is an abomination. It shall not be eaten.
+- brenton: And every reptile that creeps on the earth, this shall be an abomination to you; it shall not be eaten.
+
+### Leviticus 11:42
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everything that goes on its belly, and everything that goes on four feet, and everything with many feet among all the creeping things that creep upon the earth, you shall not eat, because it is an abomination to you.
+- brenton: And every animal that creeps on its belly, and every one that goes on four feet continually, which abounds with feet among all the reptiles creeping upon the earth—ye shall not eat it, for it is an abomination to you.
+
+### Leviticus 11:43
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not make your lives abominable among all the creeping things that creep on the earth, and you shall not be defiled by them, and you shall not become unclean by them.
+- brenton: And ye shall not defile your souls with any of the reptiles that creep upon the earth, and ye shall not be polluted with them, and ye shall not be unclean by them.
+
+### Leviticus 11:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For I am the Lord your God, and you shall be sanctified and shall be holy, because I am holy, the Lord your God. And you shall not defile your lives among all the creeping things moving on the earth.
+- brenton: For I am the Lord your God; and ye shall be sanctified, and ye shall be holy, because I the Lord your God am holy; and ye shall not defile your souls with any of the reptiles creeping upon the earth.
+
+### Leviticus 11:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For I am the Lord who brought you up from the land of Egypt to be your God, and you shall be holy, because I am holy, the Lord.
+- brenton: For I am the Lord who brought you up out of the land of Egypt to be your God; and ye shall be holy, for I the Lord am holy.
+
+### Leviticus 11:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law concerning the animals and the birds and every living creature moving in the water and every living creature creeping upon the earth,
+- brenton: This is the law concerning beasts and birds and every living creature moving in the water, and every living creature creeping on the earth;
+
+### Leviticus 11:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to distinguish between the unclean and the clean, and between the living things that may be eaten and the living things that may not be eaten.
+- brenton: to distinguish between the unclean and the clean; and between those that bring forth alive, such as should be eaten, and those that bring forth alive, such as should not be eaten.
+
+### Leviticus 12:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 12:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them, If a woman conceives seed and bears a male, she shall be unclean seven days; according to the days of the separation of her monthly flow she shall be unclean.
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whatsoever woman shall have conceived and born a male child shall be unclean seven days, she shall be unclean according to the days of separation for her monthly courses.
+
+### Leviticus 12:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the eighth day he shall circumcise the flesh of his foreskin.
+- brenton: And on the eighth day she shall circumcise the flesh of his foreskin.
+
+### Leviticus 12:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And for thirty-three days she shall sit in the blood of her uncleanness. She shall touch nothing holy, and she shall not enter into the sanctuary until the days of her purification are fulfilled.
+- brenton: And for thirty-three days she shall continue in her unclean blood; she shall touch nothing holy, and shall not enter the sanctuary, until the days of her purification be fulfilled.
+
+### Leviticus 12:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if she bears a female, she shall be unclean for twice seven days, according to the time of her monthly flow, and for sixty-six days she shall sit in the blood of her uncleanness.
+- brenton: But if she should have born a female child, then she shall be unclean twice seven days, according to the time of her monthly courses; and for sixty-six days shall she remain in her unclean blood.
+
+### Leviticus 12:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the days of her purification are fulfilled, for a son or for a daughter, she shall bring a year-old lamb without blemish for whole burnt offering, and a young pigeon or turtledove for sin, to the door of the tent of testimony, to the priest.
+- brenton: And when the days of her purification shall have been fulfilled for a son or a daughter, she shall bring a lamb of a year old without blemish for a whole-burnt-offering, and a young pigeon or turtle-dove for a sin-offering to the door of the tabernacle of witness, to the priest.
+
+### Leviticus 12:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring it before the Lord, and the priest shall make atonement for her and cleanse her from the fountain of her blood. This is the law of the one bearing a male or a female.
+- brenton: And he shall present it before the Lord, and the priest shall make atonement for her, and shall purge her from the fountain of her blood; this is the law of her who bears a male or a female.
+
+### Leviticus 12:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if her hand does not find what is sufficient for a lamb, then she shall take two turtledoves or two young pigeons, one for whole burnt offering and one for sin, and the priest shall make atonement for her, and she shall be cleansed.
+- brenton: And if she cannot afford a lamb, then shall she take two turtle-doves or two young pigeons, one for a whole-burnt-offering, and one for a sin-offering; and the priest shall make atonement for her, and she shall be purified.
+
+### Leviticus 13:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Leviticus 13:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If a person has on the skin of his flesh a swelling or a bright mark or a shining spot, and it becomes on the skin of his flesh a mark of skin-disease, then he shall be brought to Aaron the priest or to one of his sons the priests.
+- brenton: If any man should have in the skin of his flesh a bright clear spot, and there should be in the skin of his flesh a plague of leprosy, he shall be brought to Aaron the priest, or to one of his sons the priests.
+
+### Leviticus 13:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the mark on the skin of his flesh, and if the hair in the mark has turned white and the appearance of the mark is deeper than the skin of his flesh, it is a mark of skin-disease. And the priest shall inspect him and pronounce him unclean.
+- brenton: And the priest shall view the spot in the skin of his flesh; and if the hair in the spot be changed to white, and the appearance of the spot be below the skin of the flesh, it is a plague of leprosy; and the priest shall look upon it, and pronounce him unclean.
+
+### Leviticus 13:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the bright spot is white on the skin of his flesh, and its appearance is not deeper than the skin, and its hair has not turned white, and it is dim, then the priest shall isolate the mark seven days.
+- brenton: But if the spot be clear and white in the skin of his flesh, yet the appearance of it be not deep below the skin, and its hair have not changed itself for white hair, but it is dark, then the priest shall separate him that has the spot seven days;
+
+### Leviticus 13:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the mark on the seventh day, and if the mark remains before him and has not spread in the skin, the priest shall isolate him a second seven days.
+- brenton: and the priest shall look on the spot the seventh day; and, behold, if the spot remains before him, if the spot has not spread in the skin, then the priest shall separate him the second time seven days.
+
+### Leviticus 13:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect him the second time on the seventh day, and if the mark is dim and has not spread in the skin, the priest shall pronounce him clean, for it is a mark only. And after washing his garments, he shall be clean.
+- brenton: And the priest shall look upon him the second time on the seventh day; and, behold, if the spot be dark, and the spot have not spread in the skin, then the priest shall pronounce him clean; for it is a mere mark, and the man shall wash his garments and be clean.
+
+### Leviticus 13:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the mark does spread in the skin after the priest has seen him to cleanse him, he shall appear a second time to the priest.
+- brenton: But if the bright spot should have changed and spread in the skin, after the priest has seen him for the purpose of purifying him, then shall he appear the second time to the priest,
+
+### Leviticus 13:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect him, and if the mark has spread in the skin, the priest shall pronounce him unclean. It is skin-disease.
+- brenton: and the priest shall look upon him; and, behold, if the mark have spread in the skin, then the priest shall pronounce him unclean: it is a leprosy.
+
+### Leviticus 13:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a mark of skin-disease arises in a person, he shall come to the priest.
+- brenton: And if a man have a plague of leprosy, then he shall come to the priest;
+
+### Leviticus 13:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect, and if there is a white swelling in the skin and it has turned the hair white, and there is healthy living flesh in the swelling,
+- brenton: and the priest shall look, and, behold, if it is a white spot in the skin, and it has changed the hair to white, and there be some of the sound part of the quick flesh in the sore—
+
+### Leviticus 13:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: it is an old skin-disease in the skin of his flesh. And the priest shall pronounce him unclean and shall not isolate him, because he is unclean.
+- brenton: it is a leprosy waxing old in the skin of the flesh; and the priest shall pronounce him unclean, and shall separate him, because he is unclean.
+
+### Leviticus 13:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the skin-disease breaks out and spreads in the skin and the skin-disease covers all the skin of the mark from head to foot, as far as the priest can see,
+- brenton: And if the leprosy should have come out very evidently in the skin, and the leprosy should cover all the skin of the patient from the head to the feet, wheresoever the priest shall look;
+
+### Leviticus 13:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall inspect, and if the skin-disease has covered all the skin of the flesh, the priest shall pronounce the mark clean, because it has all turned white. He is clean.
+- brenton: then the priest shall look, and, behold, the leprosy has covered all the skin of the flesh; and the priest shall pronounce him clean of the plague, because it has changed all to white, it is clean.
+
+### Leviticus 13:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But on whatever day living flesh appears in him, he shall be pronounced unclean.
+- brenton: But on whatsoever day the quick flesh shall appear on him, he shall be pronounced unclean.
+
+### Leviticus 13:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the healthy flesh and pronounce him unclean. The healthy flesh is unclean. It is skin-disease.
+- brenton: And the priest shall look upon the sound flesh, and the sound flesh shall prove him to be unclean; for it is unclean, it is a leprosy.
+
+### Leviticus 13:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the healthy flesh is restored and turns white, then he shall come to the priest.
+- brenton: But if the sound flesh be restored and changed to white, then shall he come to the priest;
+
+### Leviticus 13:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect, and if the mark has turned white, the priest shall pronounce the mark clean. He is clean.
+- brenton: and the priest shall see him, and, behold, if the plague is turned white, then the priest shall pronounce the patient clean: he is clean.
+
+### Leviticus 13:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if flesh has in its skin an ulcer and it is healed,
+- brenton: And if the flesh should have become an ulcer in his skin, and should be healed,
+
+### Leviticus 13:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and there comes in the place of the ulcer a white swelling or a white bright spot tinged reddish, then it shall be shown to the priest.
+- brenton: and there should be in the place of the ulcer a white sore, or one looking white and bright, or fiery, and it shall be seen by the priest;
+
+### Leviticus 13:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect, and if its appearance is lower than the skin and its hair has turned white, the priest shall pronounce him unclean. It is a mark of skin-disease; it has broken out in the ulcer.
+- brenton: then the priest shall look, and, behold, if the appearance be beneath the skin, and its hair has changed to white, then the priest shall pronounce him unclean; because it is a leprosy, it has broken out in the ulcer.
+
+### Leviticus 13:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest inspects and there is no white hair in it, and it is not lower than the skin of the flesh, and it is dim, the priest shall isolate him seven days.
+- brenton: But if the priest look, and behold there is no white hair on it, and it be not below the skin of the flesh, and it be dark-coloured; then the priest shall separate him seven days.
+
+### Leviticus 13:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if it does spread in the skin, the priest shall pronounce him unclean. It is a mark of skin-disease; it has broken out in the ulcer.
+- brenton: But if it manifestly spread over the skin, then the priest shall pronounce him unclean: it is a plague of leprosy; it has broken out in the ulcer.
+
+### Leviticus 13:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the bright spot remains in its place and does not spread, it is the scar of the ulcer, and the priest shall pronounce him clean.
+- brenton: But if the bright spot should remain in its place and not spread, it is the scar of the ulcer; and the priest shall pronounce him clean.
+
+### Leviticus 13:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if flesh has in its skin a burn of fire, and the healed part of the burn becomes a bright spot, white tinged red or pure white,
+- brenton: And if the flesh be in his skin in a state of fiery inflammation, and there should be in his skin the part which is healed of the inflammation, bright, clear, and white, suffused with red or very white;
+
+### Leviticus 13:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall inspect it, and if the hair in the bright spot has turned white and its appearance is lower than the skin, it is skin-disease; it has broken out in the burn. And the priest shall pronounce him unclean. It is a mark of skin-disease.
+- brenton: then the priest shall look upon him, and, behold, if the hair being white is changed to a bright colour, and its appearance is lower than the skin, it is a leprosy; it has broken out in the inflammation, and the priest shall pronounce him unclean: it is a plague of leprosy.
+
+### Leviticus 13:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest inspects and there is no white hair in the bright spot, and it is not lower than the skin, and it is dim, the priest shall isolate him seven days.
+- brenton: But if the priest should look, and, behold, there is not in the bright spot any white hair, and it should not be lower than the skin, and it should be dark, then the priest shall separate him seven days.
+
+### Leviticus 13:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect him on the seventh day. If it is spreading in the skin, the priest shall pronounce him unclean. It is a mark of skin-disease.
+- brenton: And the priest shall look upon him on the seventh day; and if the spot be much spread in the skin, then the priest shall pronounce him unclean: it is a plague of leprosy, it has broken out in the ulcer.
+
+### Leviticus 13:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the bright spot remains in its place and does not spread in the skin, and it is dim, it is the scar of the burn, and the priest shall pronounce him clean, for it is the mark of the burn.
+- brenton: But if the bright spot remain stationary, and be not spread in the skin, but the sore should be dark, it is a scar of inflammation; and the priest shall pronounce him clean, for it is the mark of the inflammation.
+
+### Leviticus 13:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man or a woman has a mark on the head or on the beard,
+- brenton: And if a man or a woman have in them a plague of leprosy in the head or the beard;
+
+### Leviticus 13:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: the priest shall inspect the mark, and if its appearance is deeper than the skin and there is in it thin yellowish hair, the priest shall pronounce him unclean. It is a scaly patch; it is skin-disease of the head or skin-disease of the beard.
+- brenton: then the priest shall look on the plague, and, behold, if the appearance of it be beneath the skin, and in it there be thin yellowish hair, then the priest shall pronounce him unclean: it is a scurf, it is a leprosy of the head or a leprosy of the beard.
+
+### Leviticus 13:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest inspects the mark of the scaly patch and its appearance is not deeper than the skin and there is no yellowish hair in it, the priest shall isolate the mark of the scaly patch seven days.
+- brenton: And if the priest should see the plague of the scurf, and, behold, the appearance of it be not beneath the skin, and there is no yellowish hair in it, then the priest shall set apart him that has the plague of the scurf seven days.
+
+### Leviticus 13:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the mark on the seventh day, and if the scaly patch has not spread, and there is no yellowish hair in it, and the appearance of the scaly patch is not hollow beneath the skin,
+- brenton: And the priest shall look at the plague on the seventh day; and, behold, if the scurf be not spread, and there be no yellowish hair on it, and the appearance of the scurf is not hollow under the skin;
+
+### Leviticus 13:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then he shall shave himself, but the scaly patch he shall not shave, and the priest shall isolate the scaly patch a second seven days.
+- brenton: then the skin shall be shaven, but the scurf shall not be shaven; and the priest shall set aside the person having the scurf the second time for seven days.
+
+### Leviticus 13:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the scaly patch on the seventh day, and if the scaly patch has not spread in the skin after the shaving, and its appearance is not deeper than the skin, the priest shall pronounce him clean. And after washing his garments, he shall be clean.
+- brenton: And the priest shall see the scurf on the seventh day; and, behold, if the scurf is not spread in the skin after the man's being shaved, and the appearance of the scurf is not hollow beneath the skin, then the priest shall pronounce him clean; and he shall wash his garments, and be clean.
+
+### Leviticus 13:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the scaly patch spreads in the skin after his cleansing,
+- brenton: But if the scurf be indeed spread in the skin after he has been purified,
+
+### Leviticus 13:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall inspect, and if the scaly patch has spread in the skin, the priest need not search for the yellowish hair, because he is unclean.
+- brenton: then the priest shall look, and, behold, if the scurf be spread in the skin, the priest shall not examine concerning the yellow hair, for he is unclean.
+
+### Leviticus 13:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if in his sight the scaly patch stays in place and black hair grows in it, the scaly patch is healed. He is clean, and the priest shall pronounce him clean.
+- brenton: But if the scurf remain before him in its place, and a dark hair should have arisen in it, the scurf is healed: he is clean, and the priest shall pronounce him clean.
+
+### Leviticus 13:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man or a woman has on the skin of the flesh bright spots, pale white bright spots,
+- brenton: And if a man or woman should have in the skin of their flesh spots of a bright whiteness,
+
+### Leviticus 13:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall inspect, and if on the skin of their flesh there are pale white bright spots, it is a white eruption. It has broken out in the skin of his flesh. He is clean.
+- brenton: then the priest shall look; and, behold, there being bright spots of a bright whiteness in the skin of their flesh, it is a tetter; it bursts forth in the skin of his flesh; he is clean.
+
+### Leviticus 13:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man loses the hair of his head, he is bald. He is clean.
+- brenton: And if any one's head should lose the hair, he is only bald, he is clean.
+
+### Leviticus 13:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he loses the hair of his head at the front, he is forehead-bald. He is clean.
+- brenton: And if his head should lose the hair in front, he is forehead bald: he is clean.
+
+### Leviticus 13:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if there is on his baldness or on his forehead-baldness a white or reddish mark, it is skin-disease in his baldness or in his forehead-baldness.
+- brenton: And if there should be in his baldness of head, or his baldness of forehead, a white or fiery plague, it is leprosy in his baldness of head, or baldness of forehead.
+
+### Leviticus 13:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect him, and if the appearance of the mark is white tinged red on his baldness or his forehead-baldness, like the appearance of skin-disease in the skin of flesh,
+- brenton: And the priest shall look upon him, and, behold, if the appearance of the plague be white or inflamed in his baldness of head or baldness in front, as the appearance of leprosy in the skin of his flesh,
+
+### Leviticus 13:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: he is a person with skin-disease. The priest shall surely pronounce him unclean. His mark is on his head.
+- brenton: he is a leprous man: the priest shall surely pronounce him unclean, his plague is in his head.
+
+### Leviticus 13:45
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the one with skin-disease in whom the mark is, his garments shall be loosened and his head uncovered, and he shall cover around his mouth and cry out, Unclean, unclean.
+- brenton: And the leper in whom the plague is, let his garments be ungirt, and his head uncovered; and let him have a covering put upon his mouth, and he shall be called unclean.
+
+### Leviticus 13:46
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days that the mark is upon him, he shall be unclean. Being unclean, he shall dwell apart. His dwelling shall be outside the camp.
+- brenton: All the days in which the plague shall be upon him, being unclean, he shall be esteemed unclean; he shall dwell apart, his place of sojourn shall be without the camp.
+
+### Leviticus 13:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if in a garment there is a mark of skin-disease, whether in a woolen garment or in a linen garment,
+- brenton: And if a garment have in it the plague of leprosy, a garment of wool, or a garment of flax,
+
+### Leviticus 13:48
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or in warp or in woof, whether in linen or in wool, or in leather or in any article made of leather,
+- brenton: either in the warp or in the woof, or in the linen, or in the woollen threads, or in a skin, or in any workmanship of skin,
+
+### Leviticus 13:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the mark becomes greenish or reddish in the garment or in the leather or in the warp or in the woof or in any article of leather, it is a mark of skin-disease and shall be shown to the priest.
+- brenton: and the plague be greenish or reddish in the skin, or in the garment, either in the warp, or in the woof, or in any utensil of skin, it is a plague of leprosy, and he shall show it to the priest.
+
+### Leviticus 13:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the mark and isolate the mark seven days.
+- brenton: And the priest shall look upon the plague, and the priest shall set apart that which has the plague seven days.
+
+### Leviticus 13:51
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect the mark on the seventh day. If the mark has spread in the garment or in the warp or in the woof or in the leather, in whatever is made of leather for use, the mark is persistent skin-disease. It is unclean.
+- brenton: And the priest shall look upon the plague on the seventh day; and if the plague be spread in the garment, either in the warp or in the woof, or in the skin, in whatsoever things skins may be used in their workmanship, the plague is a confirmed leprosy; it is unclean.
+
+### Leviticus 13:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall burn the garment, or the warp or the woof, whether in wool or in linen, or any leather article in which the mark is, because it is persistent skin-disease. It shall be burned with fire.
+- brenton: He shall burn the garment, either the warp or woof in woollen garments or in flaxen, or in any utensil of skin, in which there may be the plague; because it is a confirmed leprosy; it shall be burnt with fire.
+
+### Leviticus 13:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest inspects and the mark has not spread in the garment or in the warp or in the woof or in any leather article,
+- brenton: And if the priest should see, and the plague be not spread in the garments, either in the warp or in the woof, or in any utensil of skin,
+
+### Leviticus 13:54
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall command, and they shall wash that in which the mark is, and the priest shall isolate the mark a second seven days.
+- brenton: then the priest shall give directions, and one shall wash that on which there may have been the plague, and the priest shall set it aside a second time for seven days.
+
+### Leviticus 13:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall inspect after the mark has been washed, and if the mark has not changed its appearance and the mark has not spread, it is unclean. It shall be burned with fire. It is fixed in the garment or in the warp or in the woof.
+- brenton: And the priest shall look upon it after the plague has been washed; and if this, even the plague, has not changed its appearance, and the plague does not spread, it is unclean; it shall be burnt with fire: it is fixed in the garment, in the warp, or in the woof.
+
+### Leviticus 13:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest inspects and the mark is dim after it has been washed, he shall tear it out of the garment or out of the leather or out of the warp or out of the woof.
+- brenton: And if the priest should look, and the spot be dark after it has been washed, he shall tear it off from the garment, either from the warp or from the woof, or from the skin.
+
+### Leviticus 13:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it still appears in the garment or in the warp or in the woof or in any leather article, it is skin-disease breaking out. Whatever has the mark shall be burned with fire.
+- brenton: And if it should still appear in the garment, either in the warp or in the woof, or in any article of skin, it is a leprosy bursting forth: that wherein is the plague shall be burnt with fire.
+
+### Leviticus 13:58
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the garment or the warp or the woof or any leather article that is washed, and the mark departs from it, shall be washed a second time and shall be clean.
+- brenton: And the garment, or the warp, or the woof, or any article of skin, which shall be washed, and the plague depart from it, shall also be washed again, and shall be clean.
+
+### Leviticus 13:59
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the mark of skin-disease in a woolen garment or linen garment or warp or woof or any leather article, to pronounce it clean or to pronounce it unclean.
+- brenton: This is the law of the plague of leprosy of a woollen or linen garment, either of the warp, or woof, or any leathern article, to pronounce it clean or unclean.
+
+### Leviticus 14:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 14:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law for the one with skin-disease on the day he is cleansed: he shall be brought to the priest.
+- brenton: This is the law of the leper: in whatsoever day he shall have been cleansed, then shall he be brought to the priest.
+
+### Leviticus 14:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall go outside the camp, and the priest shall inspect, and if the mark of the skin-disease has been healed from the one with skin-disease,
+- brenton: And the priest shall come forth out of the camp, and the priest shall look, and, behold, the plague of the leprosy is removed from the leper.
+
+### Leviticus 14:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall command, and they shall take for the one being cleansed two living clean birds and cedar wood and spun scarlet and hyssop.
+- brenton: And the priest shall give directions, and they shall take for him that is cleansed two clean live birds, and cedar wood, and spun scarlet, and hyssop.
+
+### Leviticus 14:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the priest shall command, and they shall slaughter the one bird in an earthen vessel over living water.
+- brenton: And the priest shall give direction, and they shall kill one bird over an earthen vessel over running water.
+
+### Leviticus 14:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take the living bird and the cedar wood and the spun scarlet and the hyssop, and dip them and the living bird in the blood of the bird that was slaughtered over living water.
+- brenton: And as for the living bird he shall take it, and the cedar wood, and the spun scarlet, and the hyssop, and he shall dip them and the living bird into the blood of the bird that was slain over running water.
+
+### Leviticus 14:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall sprinkle seven times on the one cleansed from the skin-disease, and he shall be clean. And he shall release the living bird into the open field.
+- brenton: And he shall sprinkle seven times upon him that was cleansed of his leprosy, and he shall be clean; and he shall let go the living bird into the field.
+
+### Leviticus 14:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one being cleansed shall wash his garments and shave all his hair and bathe in water and be clean. And after these things he shall enter into the camp and remain outside his house seven days.
+- brenton: And the man that has been cleansed shall wash his garments, and shall shave off all his hair, and shall wash himself in water, and shall be clean; and after that he shall go into the camp, and shall remain out of his house seven days.
+
+### Leviticus 14:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be on the seventh day: he shall shave all his hair, his head and his beard and his eyebrows, all his hair he shall shave, and he shall wash his garments and bathe his body in water and be clean.
+- brenton: And it shall come to pass on the seventh day, he shall shave off all his hair, his head and his beard, and his eye-brows, even all his hair shall he shave; and he shall wash his garments, and wash his body with water, and shall be clean.
+
+### Leviticus 14:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the eighth day he shall take two year-old lambs without blemish and one year-old ewe without blemish and three tenths of fine flour mixed with oil for sacrifice and one cup of oil.
+- brenton: And on the eighth day he shall take two lambs without spot of a year old, and one ewe lamb without spot of a year old, and three-tenths of fine flour for sacrifice kneaded with oil, and one small cup of oil.
+
+### Leviticus 14:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest who cleanses shall present the person being cleansed and these things before the Lord at the door of the tent of testimony.
+- brenton: And the priest that cleanses shall present the man under purification, and these offerings before the Lord, at the door of the tabernacle of witness.
+
+### Leviticus 14:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take the one lamb and bring it for trespass, and the cup of oil, and present them before the Lord as a contribution.
+- brenton: And the priest shall take one lamb, and offer him for a trespass-offering, and the cup of oil, and set them apart for a special offering before the Lord.
+
+### Leviticus 14:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall slaughter the lamb in the place where they slaughter the whole burnt offerings and the things for sin, in a holy place, for as the thing for sin, so also the thing for trespass belongs to the priest. It is holy of holies.
+- brenton: And they shall kill the lamb in the place where they kill the whole-burnt-offerings, and the sin-offerings, in the holy places; for it is a sin-offering: as the trespass-offering, it belongs to the priest, it is most holy.
+
+### Leviticus 14:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take some of the blood of the thing for trespass, and the priest shall place it on the lobe of the right ear of the one being cleansed and on the tip of his right hand and on the tip of his right foot.
+- brenton: And the priest shall take of the blood of the trespass-offering, and the priest shall put it on the tip of the right ear of the person under cleansing, and on the thumb of his right hand, and on the great toe of his right foot.
+
+### Leviticus 14:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest, taking some of the cup of oil, shall pour it on the priest's left hand.
+- brenton: And the priest shall take of the cup of oil, and shall pour it upon his own left hand.
+
+### Leviticus 14:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall dip his right finger in the oil that is on his left hand and sprinkle some of the oil with his finger seven times before the Lord.
+- brenton: And he shall dip with the finger of his right hand into some of the oil that is in his left hand, and he shall sprinkle with his finger seven times before the Lord.
+
+### Leviticus 14:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the oil remaining in his hand the priest shall place on the lobe of the right ear of the one being cleansed and on the tip of his right hand and on the tip of his right foot, on the place of the blood of the thing for trespass.
+- brenton: And the remaining oil that is in his hand, the priest shall put on the tip of the right ear of him that is under cleansing, and on the thumb of his right hand, and on the great toe of his right foot, on the place of the blood of the trespass-offering.
+
+### Leviticus 14:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the oil remaining on the priest's hand the priest shall place on the head of the one cleansed, and the priest shall make atonement for him before the Lord.
+- brenton: And the remaining oil that is on the hand of the priest, the priest shall put on the head of the cleansed leper, and the priest shall make atonement for him before the Lord.
+
+### Leviticus 14:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make the thing for sin, and the priest shall make atonement for the unclean one being cleansed from his sin, and after this the priest shall slaughter the whole burnt offering.
+- brenton: And the priest shall sacrifice the sin-offering, and the priest shall make atonement for the person under purification to cleanse him from his sin, and afterwards the priest shall slay the whole-burnt-offering.
+
+### Leviticus 14:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall offer the whole burnt offering and the sacrifice on the altar before the Lord, and the priest shall make atonement for him, and he shall be cleansed.
+- brenton: And the priest shall offer the whole-burnt-offering, and the sacrifice upon the altar before the Lord; and the priest shall make atonement for him, and he shall be cleansed.
+
+### Leviticus 14:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he is poor and his hand cannot find enough, he shall take one lamb for the thing in which he trespassed, as a contribution to make atonement for him, and one tenth of fine flour mixed with oil for sacrifice, and one cup of oil,
+- brenton: And if he should be poor, and cannot afford so much, he shall take one lamb for his transgression for a separate-offering, so as to make propitiation for him, and a tenth deal of fine flour mingled with oil for a sacrifice, and one cup of oil,
+
+### Leviticus 14:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and two turtledoves or two young pigeons, whatever his hand can find, and one shall be for sin and one for whole burnt offering.
+- brenton: and two turtle-doves, or two young pigeons, as he can afford; and the one shall be for a sin-offering, and the other for a whole-burnt-offering.
+
+### Leviticus 14:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring them on the eighth day for his cleansing to the priest, to the door of the tent of testimony, before the Lord.
+- brenton: And he shall bring them on the eighth day, to purify him, to the priest, to the door of the tabernacle of witness before the Lord.
+
+### Leviticus 14:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take the lamb for trespass and the cup of oil and present them before the Lord as a presentation.
+- brenton: And the priest shall take the lamb of the trespass-offering, and the cup of oil, and place them for a set-offering before the Lord.
+
+### Leviticus 14:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall slaughter the lamb for trespass, and the priest shall take some of the blood of the thing for trespass and place it on the lobe of the right ear of the one being cleansed and on the tip of his right hand and on the tip of his right foot.
+- brenton: And he shall slay the lamb of the trespass-offering; and the priest shall take of the blood of the trespass-offering, and put it on the tip of the right ear of him that is under purification, and on the thumb of his right hand, and on the great toe of his right foot.
+
+### Leviticus 14:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And some of the oil the priest shall pour on the priest's left hand.
+- brenton: And the priest shall pour of the oil on his own left hand.
+
+### Leviticus 14:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord.
+- brenton: And the priest shall sprinkle with the finger of his right hand some of the oil that is in his left hand seven times before the Lord.
+
+### Leviticus 14:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall place some of the oil on his hand on the lobe of the right ear of the one being cleansed and on the tip of his right hand and on the tip of his right foot, on the place of the blood of the thing for trespass.
+- brenton: And the priest shall put of the oil that is on his hand on the tip of the right ear of him that is under purification, and on the thumb of his right hand, and on the great toe of his right foot, on the place of the blood of the trespass-offering.
+
+### Leviticus 14:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what remains of the oil on the priest's hand the priest shall place on the head of the one cleansed, and the priest shall make atonement for him before the Lord.
+- brenton: And that which is left of the oil which is on the hand of the priest he shall put on the head of him that is purged, and the priest shall make atonement for him before the Lord.
+
+### Leviticus 14:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make one of the turtledoves or of the young pigeons, whatever his hand can find,
+- brenton: And he shall offer one of the turtle-doves or of the young pigeons, as he can afford it,
+
+### Leviticus 14:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
+- brenton: the one for a sin-offering, the other for a whole-burnt-offering with the meat-offering, and the priest shall make an atonement before the Lord for him that is under purification.
+
+### Leviticus 14:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law for the one in whom is the mark of skin-disease, and whose hand does not find enough for his cleansing.
+- brenton: This is the law for him in whom is the plague of leprosy, and who cannot afford the offerings for his purification.
+
+### Leviticus 14:33
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Leviticus 14:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: When you enter into the land of the Canaanites, which I give you for a possession, and I place a mark of skin-disease in the houses of the land of your possession,
+- brenton: Whensoever ye shall enter into the land of the Chananites, which I give you for a possession, and I shall put the plague of leprosy in the houses of the land of your possession;
+
+### Leviticus 14:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the one whose house it is shall come and report to the priest, saying, Something like a mark has appeared to me in the house.
+- brenton: then the owner of the house shall come and report to the priest, saying, I have seen as it were a plague in the house.
+
+### Leviticus 14:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall command them to empty the house before the priest goes in to inspect the mark, so that everything in the house may not become unclean. And after this the priest shall go in to inspect the house.
+- brenton: And the priest shall give orders to remove the furniture of the house, before the priest comes in to see the plague, and thus none of the things in the house shall become unclean; and afterwards the priest shall go in to examine the house.
+
+### Leviticus 14:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall inspect the mark, and if the mark on the walls of the house has greenish or reddish hollows, and their appearance is deeper than the walls,
+- brenton: And he shall look on the plague, and, behold, if the plague is in the walls of the house, he will see greenish or reddish cavities, and the appearance of them will be beneath the surface of the walls.
+
+### Leviticus 14:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall go out of the house to the door of the house, and the priest shall isolate the house seven days.
+- brenton: And the priest shall come out of the house to the door of the house, and the priest shall separate the house seven days.
+
+### Leviticus 14:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall return on the seventh day and inspect, and if the mark has spread in the walls of the house,
+- brenton: And the priest shall return on the seventh day and view the house; and, behold, if the plague is spread in the walls of the house,
+
+### Leviticus 14:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall command, and they shall remove the stones in which the mark is and throw them outside the city into an unclean place.
+- brenton: then the priest shall give orders, and they shall take away the stones in which the plague is, and shall cast them out of the city into an unclean place.
+
+### Leviticus 14:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall scrape the house inside all around, and they shall pour out the dust that they scraped outside the city into an unclean place.
+- brenton: And they shall scrape the house within round about, and shall pour out the dust scraped off outside the city into an unclean place.
+
+### Leviticus 14:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall take other stones, scraped, and put them in place of the stones, and they shall take other plaster and plaster the house.
+- brenton: And they shall take other scraped stones, and put them in the place of the former stones, and they shall take other plaster and plaster the house.
+
+### Leviticus 14:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the mark comes again and springs up in the house after they remove the stones and after the house is scraped and after it is plastered,
+- brenton: And if the plague should return again, and break out in the house after they have taken away the stones and after the house is scraped, and after it has been plastered,
+
+### Leviticus 14:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the priest shall go in and inspect. If the mark has spread in the house, it is persistent skin-disease in the house. It is unclean.
+- brenton: then the priest shall go in and see if the plague is spread in the house: it is a confirmed leprosy in the house, it is unclean.
+
+### Leviticus 14:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall pull down the house, and its timbers and its stones, and all its dust they shall carry outside the city into an unclean place.
+- brenton: And they shall take down the house, and its timbers and its stones, and they shall carry out all the mortar without the city into an unclean place.
+
+### Leviticus 14:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one entering into the house all the days during which it is isolated shall be unclean until evening.
+- brenton: And he that goes into the house at any time, during its separation, shall be unclean until evening.
+
+### Leviticus 14:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one sleeping in the house shall wash his garments and be unclean until evening, and the one eating in the house shall wash his garments and be unclean until evening.
+- brenton: And he that sleeps in the house shall wash his garments, and be unclean until evening; and he that eats in the house shall wash his garments, and be unclean until evening.
+
+### Leviticus 14:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the priest does come and inspect, and if the mark has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, because the mark is healed.
+- brenton: And if the priest shall arrive and enter and see, and behold the plague be not at all spread in the house after the house has been plastered, then the priest shall declare the house clean, because the plague is healed.
+
+### Leviticus 14:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take to purify the house two living clean birds and cedar wood and spun scarlet and hyssop.
+- brenton: And he shall take to purify the house two clean living birds, and cedar wood, and spun scarlet, and hyssop.
+
+### Leviticus 14:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall slaughter the one bird in an earthen vessel over living water.
+- brenton: And he shall slay one bird in an earthen vessel over running water.
+
+### Leviticus 14:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take the cedar wood and the spun scarlet and the hyssop and the living bird, and dip them in the blood of the slaughtered bird over living water, and with them he shall sprinkle the house seven times.
+- brenton: And he shall take the cedar wood, and the spun scarlet, and the hyssop, and the living bird; and shall dip it into the blood of the bird slain over running water, and with them he shall sprinkle the house seven times.
+
+### Leviticus 14:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall purify the house with the blood of the bird and with the living water and with the living bird and with the cedar wood and with the hyssop and with the spun scarlet.
+- brenton: And he shall purify the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the spun scarlet.
+
+### Leviticus 14:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall release the living bird outside the city into the open field, and shall make atonement for the house, and it shall be clean.
+- brenton: And he shall let the living bird go out of the city into the field, and shall make atonement for the house, and it shall be clean.
+
+### Leviticus 14:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law for every mark of skin-disease and scaly patch,
+- brenton: This is the law concerning every plague of leprosy and scurf,
+
+### Leviticus 14:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for skin-disease of garment and house,
+- brenton: and of the leprosy of a garment, and of a house,
+
+### Leviticus 14:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for swelling and mark and bright spot,
+- brenton: and of a sore, and of a clear spot, and of a shining one,
+
+### Leviticus 14:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to explain the day when it is unclean and the day when it is clean. This is the law of skin-disease.
+- brenton: and of declaring in what day it is unclean, and in what day it shall be purged: this is the law of the leprosy.
+
+### Leviticus 15:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Leviticus 15:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them, If any man has a discharge from his body, his discharge is unclean.
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whatever man shall have an issue out of his body, his issue is unclean.
+
+### Leviticus 15:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the law of his uncleanness in his discharge: whether his body runs with the discharge or his body is stopped up from the discharge, this is his uncleanness. All the days of the discharge of his body, or if his body is stopped up by the discharge, this is his uncleanness.
+- brenton: And this is the law of his uncleanness; whoever has a gonorrhœa out of his body, this is his uncleanness in him by reason of the issue, by which his body is affected through the issue: all the days of the issue of his body, by which his body is affected through the issue, there is his uncleanness.
+
+### Leviticus 15:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every bed on which the one with discharge lies is unclean, and every vessel on which the one with discharge sits shall be unclean.
+- brenton: Every bed on which he that has the issue shall happen to lie, is unclean; and every seat on which he that has the issue may happen to sit, shall be unclean.
+
+### Leviticus 15:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the person who touches his bed shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And the man who shall touch his bed, shall wash his garments, and bathe himself in water, and shall be unclean till evening.
+
+### Leviticus 15:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one sitting on the vessel on which the one with discharge sat shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And whosoever sits on the seat on which he that has the issue may have sat, shall wash his garments, and bathe himself in water, and shall be unclean until evening.
+
+### Leviticus 15:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one touching the flesh of the one with discharge shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And he that touches the skin of him that has the issue, shall wash his garments and bathe himself in water, and shall be unclean till evening.
+
+### Leviticus 15:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the one with discharge spits on the clean person, he shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And if he that has the issue should spit upon one that is clean, that person shall wash his garments, and bathe himself in water, and be unclean until evening.
+
+### Leviticus 15:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every saddle of a donkey on which the one with discharge rides shall be unclean until evening.
+- brenton: And every ass's saddle, on which the man with the issue shall have mounted, shall be unclean till evening.
+
+### Leviticus 15:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone touching whatever is under him shall be unclean until evening, and the one carrying those things shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And every one that touches whatsoever shall have been under him shall be unclean until evening; and he that takes them up shall wash his garments, and bathe himself in water, and shall be unclean until evening.
+
+### Leviticus 15:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whomever the one with discharge touches, if he has not washed his hands in water, he shall wash his garments and bathe his body in water and be unclean until evening.
+- brenton: And whomsoever he that has the issue shall touch, if he have not rinsed his hands in water, he shall wash his garments, and bathe his body in water, and shall be unclean until evening.
+
+### Leviticus 15:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And an earthen vessel that the one with discharge touches shall be broken, and a wooden vessel shall be washed with water and shall be clean.
+- brenton: And the earthen vessel which he that has the issue shall happen to touch, shall be broken; and a wooden vessel shall be washed with water, and shall be clean.
+
+### Leviticus 15:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the one with discharge is cleansed from his discharge, then he shall count seven days for his cleansing and wash his garments and bathe his body in water and be clean.
+- brenton: And if he that has the issue should be cleansed of his issue, then shall he number to himself seven days for his purification; and he shall wash his garments, and bathe his body in water, and shall be clean.
+
+### Leviticus 15:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the eighth day he shall take for himself two turtledoves or two young pigeons and bring them before the Lord to the doors of the tent of testimony and give them to the priest.
+- brenton: And on the eighth day he shall take to himself two turtle-doves or two young pigeons, and he shall bring them before the Lord to the doors of the tabernacle of witness, and shall give them to the priest.
+
+### Leviticus 15:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make them, one for sin and one for whole burnt offering, and the priest shall make atonement for him before the Lord from his discharge.
+- brenton: And the priest shall offer them one for a sin-offering, and the other for a whole-burnt-offering; and the priest shall make atonement for him before the Lord for his issue.
+
+### Leviticus 15:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a man from whom an emission of seed goes out shall bathe all his body in water and be unclean until evening.
+- brenton: And the man whose seed of copulation shall happen to go forth from him, shall then wash his whole body, and shall be unclean until evening.
+
+### Leviticus 15:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every garment and every skin on which there is an emission of seed shall be washed with water and be unclean until evening.
+- brenton: And every garment, and every skin on which there shall be the seed of copulation shall both be washed with water, and be unclean until evening.
+
+### Leviticus 15:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a woman lies with a man in an emission of seed, they shall bathe in water and be unclean until evening.
+- brenton: And a woman, if a man shall lie with her with seed of copulation—they shall both bathe themselves in water and shall be unclean until evening.
+
+### Leviticus 15:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a woman has a flow of blood, her flow being in her body, she shall be in her separation seven days. Everyone touching her shall be unclean until evening.
+- brenton: And the woman whosoever shall have an issue of blood, when her issue shall be in her body, shall be seven days in her separation; every one that touches her shall be unclean until evening.
+
+### Leviticus 15:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everything on which she lies during her separation shall be unclean, and everything on which she sits shall be unclean.
+- brenton: And every thing whereon she shall lie in her separation, shall be unclean; and whatever she shall sit upon, shall be unclean.
+
+### Leviticus 15:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone touching her bed shall wash his garments and bathe his body in water and be unclean until evening.
+- brenton: And whosoever shall touch her bed shall wash his garments, and bathe his body in water, and shall be unclean until evening.
+
+### Leviticus 15:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone touching any vessel on which she sits shall wash his garments and bathe in water and be unclean until evening.
+- brenton: And every one that touches any vessel on which she shall sit, shall wash his garments and bathe himself in water, and shall be unclean until evening.
+
+### Leviticus 15:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if it is on the bed or on the vessel on which she sat, when he touches it he shall be unclean until evening.
+- brenton: And whether it be while she is on her bed, or on a seat which she may happen to sit upon when he touches her, he shall be unclean till evening.
+
+### Leviticus 15:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone lies with her and her uncleanness comes upon him, he shall be unclean seven days, and every bed on which he lies shall be unclean.
+- brenton: And if any one shall lie with her, and her uncleanness be upon him, he shall be unclean seven days; and every bed on which he shall have lain shall be unclean.
+
+### Leviticus 15:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a woman has a flow of blood for many days, not at the time of her separation, or if she flows after her separation, all the days of the flow of her uncleanness, just as in the days of her separation, she shall be unclean.
+- brenton: And if a woman have an issue of blood many days, not in the time of her separation; if the blood should also flow after her separation, all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean.
+
+### Leviticus 15:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every bed on which she lies during all the days of her flow shall be to her like the bed of her separation, and every vessel on which she sits shall be unclean like the uncleanness of her separation.
+- brenton: And every bed on which she shall lie all the days of her flux shall be to her as the bed of her separation, and every seat whereon she shall sit shall be unclean according to the uncleanness of her separation.
+
+### Leviticus 15:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone touching her shall be unclean, and he shall wash his garments and bathe his body in water and be unclean until evening.
+- brenton: Every one that touches it shall be unclean; and he shall wash his garments, and bathe his body in water, and shall be unclean till evening.
+
+### Leviticus 15:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if she is cleansed from her flow, then she shall count seven days for herself, and after this she shall be clean.
+- brenton: But if she shall be cleansed from her flux, then she shall number to herself seven days, and afterwards she shall be esteemed clean.
+
+### Leviticus 15:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the eighth day she shall take for herself two turtledoves or two young pigeons and bring them to the priest, to the door of the tent of testimony.
+- brenton: And on the eighth day she shall take two turtle-doves, or two young pigeons, and shall bring them to the priest, to the door of the tabernacle of witness.
+
+### Leviticus 15:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make the one for sin and the one for whole burnt offering, and the priest shall make atonement for her before the Lord from the flow of her uncleanness.
+- brenton: And the priest shall offer one for a sin-offering, and the other for a whole-burnt-offering, and the priest shall make atonement for her before the Lord for her unclean flux.
+
+### Leviticus 15:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall make the sons of Israel cautious from their uncleannesses, and they shall not die because of their uncleannesses by defiling my tent that is among them.
+- brenton: And ye shall cause the children of Israel to beware of their uncleannesses; so they shall not die for their uncleanness, in polluting my tabernacle that is among them.
+
+### Leviticus 15:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the one with discharge, and of the one from whom an emission of seed goes out so as to become unclean by it,
+- brenton: This is the law of the man who has an issue, and if one discharge seed of copulation, so that he should be polluted by it.
+
+### Leviticus 15:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and of the woman flowing in her separation, and of the one with discharge in his flow, for the male and for the female, and for the man who lies with a separated woman.
+- brenton: And this is the law for her that has the issue of blood in her separation, and as to the person who has an issue of seed, in his issue: it is a law for the male and the female, and for the man who shall have lain with her that is set apart.
+
+### Leviticus 16:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses after the two sons of Aaron died when they brought foreign fire before the Lord, and they died.
+- brenton: And the Lord spoke to Moses after the two sons of Aaron died in bringing strange fire before the Lord, so they died.
+
+### Leviticus 16:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Speak to Aaron your brother, and let him not enter at every time into the holy place within the veil, before the propitiatory that is upon the ark of testimony, so that he may not die, for in a cloud I will be seen upon the propitiatory.
+- brenton: And the Lord said to Moses, Speak to Aaron thy brother, and let him not come in at all times into the holy place within the veil before the propitiatory, which is upon the ark of the testimony, and he shall not die; for I will appear in a cloud on the propitiatory.
+
+### Leviticus 16:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Thus Aaron shall enter into the holy place: with a calf from the cattle for sin and a ram for whole burnt offering.
+- brenton: Thus shall Aaron enter into the holy place; with a calf of the herd for a sin-offering, and having a ram for a whole-burnt-offering.
+
+### Leviticus 16:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall put on the holy linen tunic, and linen undergarments shall be upon his flesh, and he shall gird himself with a linen sash, and shall put on a linen turban. They are holy garments. And he shall bathe all his body in water and put them on.
+- brenton: And he shall put on the consecrated linen tunic, and he shall have on his flesh the linen drawers, and shall gird himself with a linen girdle, and shall put on the linen cap, they are holy garments; and he shall bathe all his body in water, and shall put them on.
+
+### Leviticus 16:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the congregation of the sons of Israel he shall take two he-goats from the goats for sin and one ram for whole burnt offering.
+- brenton: And he shall take of the congregation of the children of Israel two kids of the goats for a sin-offering, and one lamb for a whole-burnt-offering.
+
+### Leviticus 16:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall bring the calf for his own sin and make atonement for himself and for his house.
+- brenton: And Aaron shall bring the calf for his own sin-offering, and shall make atonement for himself and for his house.
+
+### Leviticus 16:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take the two he-goats and set them before the Lord by the door of the tent of testimony.
+- brenton: And he shall take the two goats, and place them before the Lord by the door of the tabernacle of witness.
+
+### Leviticus 16:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Aaron shall cast lots upon the two he-goats, one lot for the Lord and one lot for the sending-away goat.
+- brenton: And Aaron shall cast lots upon the two goats, one lot for the Lord, and the other for the scape-goat.
+
+### Leviticus 16:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall bring the he-goat on which the lot for the Lord fell and shall offer it for sin.
+- brenton: And Aaron shall bring forward the goat on which the lot for the Lord fell, and shall offer him for a sin-offering.
+
+### Leviticus 16:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the he-goat on which the lot of the sending-away goat fell, he shall set alive before the Lord, to make atonement over it, so as to send it away in the sending-away, into the wilderness.
+- brenton: And the goat upon which the lot of the scape-goat came, he shall present alive before the Lord, to make atonement upon him, so as to send him away as a scape-goat, and he shall send him into the wilderness.
+
+### Leviticus 16:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall bring the calf for his own sin, for himself and his house alone, and make atonement for himself and for his house, and he shall slaughter the calf for his own sin.
+- brenton: And Aaron shall bring the calf for his sin, and he shall make atonement for himself and for his house, and he shall kill the calf for his sin-offering.
+
+### Leviticus 16:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take the firepan full of coals of fire from the altar before the Lord, and he shall fill his hands with fine blended incense and bring it within the veil.
+- brenton: And he shall take his censer full of coals of fire off the altar, which is before the Lord; and he shall fill his hands with fine compound incense, and shall bring it within the veil.
+
+### Leviticus 16:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall put the incense on the fire before the Lord, and the vapor of the incense shall cover the propitiatory that is over the testimonies, so that he may not die.
+- brenton: And he shall put the incense on the fire before the Lord, and the smoke of the incense shall cover the mercy-seat over the tables of testimony, and he shall not die.
+
+### Leviticus 16:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall take some of the blood of the calf and sprinkle it with his finger on the propitiatory eastward, and before the propitiatory he shall sprinkle from the blood with his finger seven times.
+- brenton: And he shall take of the blood of the calf, and sprinkle with his finger on the mercy-seat eastward: before the mercy-seat shall he sprinkle seven times of the blood with his finger.
+
+### Leviticus 16:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall slaughter the he-goat for sin, the one for the people, before the Lord, and he shall bring some of its blood within the veil and do with its blood just as he did with the blood of the calf, and he shall sprinkle its blood upon the propitiatory and before the propitiatory.
+- brenton: And he shall kill the goat for the sin-offering that is for the people, before the Lord; and he shall bring in of its blood within the veil, and shall do with its blood as he did with the blood of the calf, and shall sprinkle its blood on the mercy-seat, in front of the mercy-seat.
+
+### Leviticus 16:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make atonement for the holy place from the uncleannesses of the sons of Israel and from their wrongdoings concerning all their sins. And thus he shall do for the tent of testimony that is pitched among them in the midst of their uncleannesses.
+- brenton: And he shall make atonement for the sanctuary on account of the uncleanness of the children of Israel, and for their trespasses in the matter of all their sins; and thus shall he do to the tabernacle of witness established among them in the midst of their uncleanness.
+
+### Leviticus 16:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And no person shall be in the tent of testimony when he enters to make atonement in the holy place until he comes out, and he shall make atonement for himself and for his house and for all the congregation of the sons of Israel.
+- brenton: And there shall be no man in the tabernacle of witness, when he goes in to make atonement in the holy place, until he shall have come out; and he shall make atonement for himself, and for his house, and for all the congregation of the children of Israel.
+
+### Leviticus 16:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall go out to the altar that is before the Lord and make atonement on it, and he shall take some of the blood of the calf and some of the blood of the he-goat and place it on the horns of the altar all around.
+- brenton: And he shall come forth to the altar that is before the Lord, and he shall make atonement upon it; and he shall take of the blood of the calf, and of the blood of the goat, and shall put it on the horns of the altar round about.
+
+### Leviticus 16:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall sprinkle some of the blood on it with his finger seven times and cleanse it and sanctify it from the uncleannesses of the sons of Israel.
+- brenton: And he shall sprinkle some of the blood upon it seven times with his finger, and shall purge it, and hallow it from the uncleanness of the children of Israel.
+
+### Leviticus 16:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he finishes making atonement for the holy place and the tent of testimony and the altar and purifying concerning the priests, he shall bring near the live he-goat.
+- brenton: And he shall finish making atonement for the sanctuary and for the tabernacle of witness, and for the altar; and he shall make a cleansing for the priests, and he shall bring the living goat;
+
+### Leviticus 16:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall lay his hands on the head of the live he-goat and confess over it all the lawless deeds of the sons of Israel and all their wrongdoings and all their sins, and he shall place them on the head of the live he-goat and send it away by the hand of a ready man into the wilderness.
+- brenton: and Aaron shall lay his hands on the head of the live goat, and he shall declare over him all the iniquities of the children of Israel, and all their unrighteousnesses, and all their sins; and he shall lay them upon the head of the live goat, and shall send him by the hand of a ready man into the wilderness.
+
+### Leviticus 16:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the he-goat shall take their wrongdoings upon itself into an untrodden land, and he shall send the he-goat away into the wilderness.
+- brenton: And the goat shall bear their unrighteousnesses upon him into a desert land; and Aaron shall send away the goat into the wilderness.
+
+### Leviticus 16:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall enter into the tent of testimony and take off the linen garment that he put on when entering into the holy place and lay it there.
+- brenton: And Aaron shall enter into the tabernacle of witness, and shall put off the linen garment, which he had put on, as he entered into the holy place, and shall lay it by there.
+
+### Leviticus 16:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bathe his body in water in a holy place and put on his garment, and going out he shall make his whole burnt offering and the whole burnt offering of the people, and he shall make atonement for himself and for his house and for the people, as also for the priests.
+- brenton: And he shall bathe his body in water in the holy place, and shall put on his raiment, and shall go out and offer the whole-burnt-offering for himself and the whole-burnt-offering for the people: and shall make atonement for himself and for his house, and for the people, as for the priests.
+
+### Leviticus 16:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fat for the things concerning sins he shall offer on the altar.
+- brenton: And he shall offer the fat for the sin-offering on the altar.
+
+### Leviticus 16:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one sending away the he-goat that has been set apart for release shall wash his garments and bathe his body in water, and after this shall enter into the camp.
+- brenton: And he that sends forth the goat that has been set apart to be let go, shall wash his garments, and bathe his body in water, and afterwards shall enter into the camp.
+
+### Leviticus 16:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the calf for sin and the he-goat for sin, whose blood was brought in to make atonement in the holy place, they shall carry outside the camp and burn them with fire, their skins and their flesh and their dung.
+- brenton: And the calf for the sin-offering, and the goat for the sin-offering, whose blood was brought in to make atonement in the holy place, they shall carry forth out of the camp, and burn them with fire, even their skins and their flesh and their dung.
+
+### Leviticus 16:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one burning them shall wash his garments and bathe his body in water, and after this shall enter into the camp.
+- brenton: And he that burns them shall wash his garments, and bathe his body in water, and afterwards he shall enter into the camp.
+
+### Leviticus 16:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And this shall be an everlasting statute for you: in the seventh month, on the tenth day of the month, you shall humble your lives and do no work, whether the native or the newcomer who dwells among you.
+- brenton: And this shall be a perpetual statute for you; in the seventh month, on the tenth day of the month, ye shall humble your souls, and shall do no work, the native and the stranger who abides among you.
+
+### Leviticus 16:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For on this day he shall make atonement for you, to cleanse you from all your sins before the Lord, and you shall be cleansed.
+- brenton: For in this day he shall make an atonement for you, to cleanse you from all your sins before the Lord, and ye shall be purged.
+
+### Leviticus 16:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It shall be a sabbath of sabbaths, a rest for you, and you shall humble your lives. It is an everlasting statute.
+- brenton: This shall be to you a most holy sabbath, a rest, and ye shall humble your souls; it is a perpetual ordinance.
+
+### Leviticus 16:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest whom they anoint and whose hands they consecrate to serve as priest after his father shall make atonement, and he shall put on the holy linen garment.
+- brenton: The priest whomsoever they shall anoint shall make atonement, and whomsoever they shall consecrate to exercise the priestly office after his father; and he shall put on the linen robe, the holy garment.
+
+### Leviticus 16:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make atonement for the holy of the holy place, and for the tent of testimony, and he shall make atonement for the altar, and for the priests and for all the congregation he shall make atonement.
+- brenton: And he shall make atonement for the most holy place, and the tabernacle of witness; and he shall make atonement for the altar, and for the priests; and he shall make atonement for all the congregation.
+
+### Leviticus 16:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this shall be an everlasting statute for you, to make atonement for the sons of Israel from all their sins once in the year. It shall be done just as the Lord commanded Moses.
+- brenton: And this shall be to you a perpetual statute to make atonement for the children of Israel for all their sins: it shall be done once in the year, as the Lord commanded Moses.
+
+### Leviticus 17:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 17:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron and to his sons and to all the sons of Israel, and say to them, This is the word that the Lord commanded, saying,
+- brenton: Speak to Aaron and to his sons, and to all the children of Israel, and thou shalt say to them, This is the word which the Lord has commanded, saying,
+
+### Leviticus 17:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Any man of the sons of Israel or of the newcomers dwelling among you who slaughters a calf or a sheep or a goat in the camp, or who slaughters it outside the camp,
+- brenton: Every man of the children of Israel, or of the strangers abiding among you, who shall kill a calf, or a sheep, or a goat in the camp, or who shall kill it out of the camp,
+
+### Leviticus 17:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
+
+### Leviticus 17:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So that the sons of Israel may bring their sacrifices that they slaughter in the open fields, and bring them to the Lord at the doors of the tent of testimony, to the priest, and sacrifice them as sacrifices of salvation to the Lord.
+- brenton: That the children of Israel may offer their sacrifices, all that they shall slay in the fields, and bring them to the Lord unto the doors of the tabernacle of witness to the priest, and they shall sacrifice them as a peace-offering to the Lord.
+
+### Leviticus 17:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall pour the blood on the altar all around before the Lord by the doors of the tent of testimony, and shall offer the fat as an aroma of sweet fragrance to the Lord.
+- brenton: And the priest shall pour the blood on the altar round about before the Lord by the doors of the tabernacle of witness, and shall offer the fat for a sweet-smelling savour to the Lord.
+
+### Leviticus 17:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall no longer sacrifice their sacrifices to vain things, after which they prostitute themselves. This shall be an everlasting statute for you throughout your generations.
+- brenton: And they shall no longer offer their sacrifices to vain gods after which they go a whoring; it shall be a perpetual statute to you for your generations.
+
+### Leviticus 17:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall say to them, Any man of the sons of Israel or of the newcomer sons dwelling among you who makes a whole burnt offering or sacrifice,
+- brenton: And thou shalt say to them, Whatever man of the children of Israel, or of the sons of the proselytes abiding among you, shall offer a whole-burnt-offering or a sacrifice,
+
+### Leviticus 17:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and does not bring it to the door of the tent of testimony to make it for the Lord, that man shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness to sacrifice it to the Lord, that man shall be destroyed from among his people.
+
+### Leviticus 17:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And any man of the sons of Israel or of the newcomers dwelling among you who eats any blood, I will set my face against the person who eats the blood and will destroy him from his people.
+- brenton: And whatever man of the children of Israel, or of the strangers abiding among you, shall eat any blood, I will even set my face against that soul that eats blood, and will destroy it from its people.
+
+### Leviticus 17:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For the life of all flesh is its blood, and I have given it to you upon the altar to make atonement for your lives, for its blood shall make atonement in place of the life.
+- brenton: For the life of flesh is its blood, and I have given it to you on the altar to make atonement for your souls; for its blood shall make atonement for the soul.
+
+### Leviticus 17:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because of this I said to the sons of Israel, No person among you shall eat blood, and the newcomer dwelling among you shall not eat blood.
+- brenton: Therefore I said to the children of Israel, No soul of you shall eat blood, and the stranger that abides among you shall not eat blood.
+
+### Leviticus 17:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And any man of the sons of Israel or of the newcomers dwelling among you who hunts game, wild animal or bird that may be eaten, shall pour out the blood and cover it with earth.
+- brenton: And whatever man of the children of Israel, or of the strangers abiding among you shall take any animal in hunting, beast, or bird, which is eaten, then shall he pour out the blood, and cover it in the dust.
+
+### Leviticus 17:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For the life of all flesh is its blood, and I said to the sons of Israel, You shall not eat the blood of any flesh, because the life of all flesh is its blood. Everyone eating it shall be cut off.
+- brenton: For the blood of all flesh is its life; and I said to the children of Israel, Ye shall not eat the blood of any flesh, for the life of all flesh is its blood: every one that eats it shall be destroyed.
+
+### Leviticus 17:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every person who eats something dead of itself or torn by beasts, whether among the natives or among the newcomers, shall wash his garments and bathe in water and be unclean until evening, and then shall be clean.
+- brenton: And every soul which eats that which has died of itself, or is taken of beasts, either among the natives or among the strangers, shall wash his garments, and bathe himself in water, and shall be unclean until evening: then shall he be clean.
+
+### Leviticus 17:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he does not wash his garments and does not bathe his body in water, then he shall bear his lawlessness.
+- brenton: But if he do not wash his garments, and do not bathe his body in water, then shall he bear his iniquity.
+
+### Leviticus 18:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 18:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them, I am the Lord your God.
+- brenton: Speak to the children of Israel, and thou shalt say to them, I am the Lord your God.
+
+### Leviticus 18:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According to the practices of the land of Egypt, in which you dwelt, you shall not do, and according to the practices of the land of Canaan, into which I am bringing you, there you shall not do, and in their ordinances you shall not walk.
+- brenton: Ye shall not do according to the devices of Egypt, in which ye dwelt: and according to the devices of the land of Chanaan, into which I bring you, ye shall not do; and ye shall not walk in their ordinances.
+
+### Leviticus 18:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do my judgments, and you shall keep my commands to walk in them. I am the Lord your God.
+- brenton: Ye shall observe my judgments, and shall keep my ordinances, and shall walk in them: I am the Lord your God.
+
+### Leviticus 18:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep all my commands and all my judgments and do them, which when a person does, he shall live in them. I am the Lord your God.
+- brenton: So ye shall keep all my ordinances, and all my judgments, and do them; which if a man do, he shall live in them: I am the Lord your God.
+
+### Leviticus 18:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Any man to anyone of his own flesh shall not come near to uncover nakedness. I am the Lord.
+- brenton: No man shall draw nigh to any of his near kindred to uncover their nakedness; I am the Lord.
+
+### Leviticus 18:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your father and the nakedness of your mother you shall not uncover, for she is your mother. You shall not uncover her nakedness.
+- brenton: Thou shalt not uncover the nakedness of thy father, or the nakedness of thy mother, for she is thy mother; thou shalt not uncover her nakedness.
+
+### Leviticus 18:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your father's wife you shall not uncover. It is your father's nakedness.
+- brenton: Thou shalt not uncover the nakedness of thy father's wife; it is thy father's nakedness.
+
+### Leviticus 18:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your sister, from your father or from your mother, homeborn or born outside, you shall not uncover her nakedness.
+- brenton: The nakedness of thy sister by thy father or by thy mother, born at home or abroad, their nakedness thou shalt not uncover.
+
+### Leviticus 18:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your son's daughter or your daughter's daughter you shall not uncover their nakedness, because it is your own nakedness.
+- brenton: The nakedness of thy son's daughter, or thy daughter's daughter, their nakedness thou shalt not uncover; because it is thy nakedness.
+
+### Leviticus 18:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of the daughter of your father's wife you shall not uncover. She is your sister by the same father. You shall not uncover her nakedness.
+- brenton: Thou shalt not uncover the nakedness of the daughter of thy father's wife; she is thy sister by the same father: thou shalt not uncover her nakedness.
+
+### Leviticus 18:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your father's sister you shall not uncover, for she is your father's close kin.
+- brenton: Thou shalt not uncover the nakedness of thy father's sister, for she is near akin to thy father.
+
+### Leviticus 18:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your mother's sister you shall not uncover, for she is your mother's close kin.
+- brenton: Thou shalt not uncover the nakedness of thy mother's sister, for she is near akin to thy mother.
+
+### Leviticus 18:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your father's brother you shall not uncover, and you shall not go in to his wife, for she is your relative.
+- brenton: Thou shalt not uncover the nakedness of thy father's brother, and thou shalt not go in to his wife; for she is thy relation.
+
+### Leviticus 18:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your daughter-in-law you shall not uncover, for she is your son's wife. You shall not uncover her nakedness.
+- brenton: Thou shalt not uncover the nakedness of thy daughter-in-law, for she is thy son's wife, thou shalt not uncover her nakedness.
+
+### Leviticus 18:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of your brother's wife you shall not uncover. It is your brother's nakedness.
+- brenton: Thou shalt not uncover the nakedness of thy brother's wife: it is thy brother's nakedness.
+
+### Leviticus 18:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nakedness of a woman and her daughter you shall not uncover. The daughter of her son and the daughter of her daughter you shall not take to uncover their nakedness, for they are your own kin. It is impiety.
+- brenton: The nakedness of a woman and her daughter shalt thou not uncover; her son's daughter, and her daughter's daughter, shalt thou not take, to uncover their nakedness, for they are thy kinswomen: it is impiety.
+
+### Leviticus 18:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A woman in addition to her sister you shall not take as a rival, to uncover her nakedness over against her while she is still alive.
+- brenton: Thou shalt not take a wife in addition to her sister, as a rival, to uncover her nakedness in opposition to her, while she is yet living.
+
+### Leviticus 18:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to a woman in the separation of her uncleanness you shall not come near to uncover her nakedness.
+- brenton: And thou shalt not go in to a woman under separation for her uncleanness, to uncover her nakedness.
+
+### Leviticus 18:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with your neighbor's wife you shall not give the bed of your seed, to defile yourself with her.
+- brenton: And thou shalt not lie with thy neighbour's wife, to defile thyself with her.
+
+### Leviticus 18:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And from your seed you shall not give to serve a ruler, and you shall not profane my holy name. I am the Lord.
+- brenton: And thou shalt not give of thy seed to serve a ruler; and thou shalt not profane my holy name; I am the Lord.
+
+### Leviticus 18:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with a male you shall not lie the bed of a woman, for it is an abomination.
+- brenton: And thou shalt not lie with a man as with a woman, for it is an abomination.
+
+### Leviticus 18:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with any four-footed animal you shall not give your bed for seed, to defile yourself with it, and a woman shall not stand before any four-footed animal to mate with it, for it is foulness.
+- brenton: Neither shalt thou lie with any quadruped for copulation, to be polluted with it: neither shall a woman present herself before any quadruped to have connexion with it; for it is an abomination.
+
+### Leviticus 18:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do not defile yourselves in all these things, for in all these things the nations are defiled, whom I am sending out from before you.
+- brenton: Do not defile yourselves with any of these things; for in all these things the nations are defiled, which I drive out before you,
+
+### Leviticus 18:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land was defiled, and I repaid their wrongdoing upon them because of it, and the land was aggrieved with those dwelling upon it.
+- brenton: and the land is polluted; and I have recompensed their iniquity to them because of it, and the land is aggrieved with them that dwell upon it.
+
+### Leviticus 18:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep all my statutes and all my commands, and you shall do none of all these abominations, whether the native or the newcomer joined among you.
+- brenton: And ye shall keep all my statutes and all my ordinances, and ye shall do none of these abominations; neither the native, nor the stranger that joins himself with you:
+
+### Leviticus 18:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For all these abominations the people of the land did, those who were before you, and the land was defiled.
+- brenton: (for all these abominations the men of the land did who were before you, and the land was defiled,)
+
+### Leviticus 18:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And let not the land be aggrieved with you when you defile it, just as it was aggrieved with the nations before you.
+- brenton: and lest the land be aggrieved with you in your polluting it, as it was aggrieved with the nations before you.
+
+### Leviticus 18:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For everyone who does any of all these abominations, the persons who do them shall be cut off from among their people.
+- brenton: For whosoever shall do any of these abominations, the souls that do them shall be destroyed from among their people.
+
+### Leviticus 18:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep my commands, so as not to do any of the abominable statutes that came before you, and you shall not be defiled by them, because I am the Lord your God.
+- brenton: And ye shall keep mine ordinances, that ye may not do any of the abominable practices, which have taken place before your time: and ye shall not be polluted in them; for I am the Lord your God.
+
+### Leviticus 19:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 19:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the congregation of the sons of Israel and say to them, You shall be holy, because I, the Lord your God, am holy.
+- brenton: Speak to the congregation of the children of Israel, and thou shalt say to them, Ye shall be holy; for I the Lord your God am holy.
+
+### Leviticus 19:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Each of you shall fear his father and his mother, and you shall keep my sabbaths. I am the Lord your God.
+- brenton: Let every one of you reverence his father and his mother; and ye shall keep my sabbaths: I am the Lord your God.
+
+### Leviticus 19:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not follow idols, and molten gods you shall not make for yourselves. I am the Lord your God.
+- brenton: Ye shall not follow idols, and ye shall not make to yourselves molten gods: I am the Lord your God.
+
+### Leviticus 19:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you sacrifice a sacrifice of salvation to the Lord, you shall sacrifice it so that you may be accepted.
+- brenton: And if ye will sacrifice a peace-offering to the Lord, ye shall offer it acceptable from yourselves.
+
+### Leviticus 19:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the day when you sacrifice it, it shall be eaten, and on the next day, and if anything is left until the third day, it shall be burned with fire.
+- brenton: In what day soever ye shall sacrifice it, it shall be eaten; and on the following day, and if any of it should be left till the third day, it shall be thoroughly burnt with fire.
+
+### Leviticus 19:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it is indeed eaten on the third day, it is unfit. It shall not be accepted.
+- brenton: And if it should be at all eaten on the third day, it is unfit for sacrifice: it shall not be accepted.
+
+### Leviticus 19:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one eating it shall bear sin, because he profaned the holy things of the Lord, and the persons eating it shall be cut off from their people.
+- brenton: And he that eats it shall bear his iniquity, because he has profaned the holy things of the Lord; and the souls that eat it shall be destroyed from among their people.
+
+### Leviticus 19:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when you reap the harvest of your land, you shall not finish reaping the harvest of your field, and the fallen things of your harvest you shall not gather.
+- brenton: And when ye reap the harvest of your land, ye shall not complete the reaping of your field with exactness, and thou shalt not gather that which falls from thy reaping.
+
+### Leviticus 19:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your vineyard you shall not glean over, nor the grapes of your vineyard shall you gather. For the poor and the newcomer you shall leave them. I am the Lord your God.
+- brenton: And thou shalt not go over the gathering of thy vineyard, neither shalt thou gather the remaining grapes of thy vineyard: thou shalt leave them for the poor and the stranger: I am the Lord your God.
+
+### Leviticus 19:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not steal. You shall not lie. No one shall inform falsely against his neighbor.
+- brenton: Ye shall not steal, ye shall not lie, neither shall one bear false witness as an informer against his neighbour.
+
+### Leviticus 19:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not swear by my name in injustice, and you shall not profane the name of your God. I am the Lord your God.
+- brenton: And ye shall not swear unjustly by my name, and ye shall not profane the holy name of your God: I am the Lord your God.
+
+### Leviticus 19:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not wrong your neighbor, and you shall not rob, and the wage of the hired laborer shall not sleep with you until morning.
+- brenton: Thou shalt not injure thy neighbour, neither do thou rob him, neither shall the wages of thy hireling remain with thee until the morning.
+
+### Leviticus 19:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not speak evil to the deaf, and before the blind you shall not put a stumbling block, and you shall fear the Lord your God. I am the Lord your God.
+- brenton: Thou shalt not revile the deaf, neither shalt thou put a stumbling-block in the way of the blind; and thou shalt fear the Lord thy God: I am the Lord your God.
+
+### Leviticus 19:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do no injustice in judgment. You shall not take the face of the poor, nor marvel at the face of the powerful. In righteousness you shall judge your neighbor.
+- brenton: Thou shalt not act unjustly in judgment: thou shalt not accept the person of the poor, nor admire the person of the mighty; with justice shalt thou judge thy neighbour.
+
+### Leviticus 19:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not go with deceit among your people. You shall not rise up against the blood of your neighbor. I am the Lord your God.
+- brenton: Thou shalt not walk deceitfully among thy people; thou shalt not rise up against the blood of thy neighbour: I am the Lord your God.
+
+### Leviticus 19:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not hate your brother in your mind. With reproof you shall reprove your neighbor, and you shall not take sin because of him.
+- brenton: Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, so thou shalt not bear sin on his account.
+
+### Leviticus 19:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And your hand shall not avenge, and you shall not be angry with the sons of your people, and you shall love your neighbor as yourself. I am the Lord.
+- brenton: And thy hand shall not avenge thee; and thou shalt not be angry with the children of thy people; and thou shalt love thy neighbour as thyself; I am the Lord.
+
+### Leviticus 19:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall keep my law. Your cattle you shall not breed with a different kind, and your vineyard you shall not sow with mixed seed, and a garment woven from two kinds, counterfeit cloth, you shall not put on yourself.
+- brenton: Ye shall observe my law: thou shalt not let thy cattle gender with one of a different kind, and thou shalt not sow thy vineyard with diverse seed; and thou shalt not put upon thyself a mingled garment woven of two materials.
+
+### Leviticus 19:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man lies with a woman with the bed of seed, and she is a female servant reserved for a man, and she has not been redeemed with a ransom, nor has freedom been given to her, there shall be oversight for them. They shall not die, because she has not been freed.
+- brenton: And if any one lie carnally with a woman, and she should be a home-servant kept for a man, and she has not been ransomed, and her freedom has not been given to her, they shall be visited with punishment; but they shall not die, because she was not set at liberty.
+
+### Leviticus 19:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring his trespass to the Lord at the door of the tent of testimony, a ram of trespass.
+- brenton: And he shall bring for his trespass to the Lord to the door of the tabernacle of witness, a ram for a trespass-offering.
+
+### Leviticus 19:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make atonement for him with the ram of trespass before the Lord for the sin that he sinned, and the sin that he sinned shall be forgiven him.
+- brenton: And the priest shall make atonement for him with the ram of the trespass-offering, before the Lord, for the sin which he sinned; and the sin which he sinned shall be forgiven him.
+
+### Leviticus 19:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when you enter into the land that the Lord your God is giving you, and you plant every edible tree, then you shall purge away its uncleanness. Its fruit shall be uncleansed to you for three years. It shall not be eaten.
+- brenton: And whenever ye shall enter into the land which the Lord your God gives you, and shall plant any fruit-tree, then shall ye purge away its uncleanness; its fruit shall be three years uncleansed to you, it shall not be eaten.
+
+### Leviticus 19:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the fourth year all its fruit shall be holy, praiseworthy to the Lord.
+- brenton: And in the fourth year all its fruit shall be holy, a subject of praise to the Lord.
+
+### Leviticus 19:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the fifth year you shall eat the fruit, as an addition of its produce for you. I am the Lord your God.
+- brenton: And in the fifth year ye shall eat the fruit, its produce is an increase to you. I am the Lord your God.
+
+### Leviticus 19:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not eat upon the mountains, and you shall not practice augury, nor observe birds for omens.
+- brenton: Eat not on the mountains, nor shall ye employ auguries, nor divine by inspection of birds.
+
+### Leviticus 19:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not make a rounded trimming from the hair of your head, nor destroy the appearance of your beard.
+- brenton: Ye shall not make a round cutting of the hair of your head, nor disfigure your beard.
+
+### Leviticus 19:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And cuttings for a dead person you shall not make in your body, and tattooed writings you shall not make on yourselves. I am the Lord your God.
+- brenton: And ye shall not make cuttings in your body for a dead body, and ye shall not inscribe on yourselves any marks. I am the Lord your God.
+
+### Leviticus 19:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not profane your daughter by prostituting her, and the land shall not prostitute itself, and the land shall not be filled with lawlessness.
+- brenton: Thou shalt not profane thy daughter to prostitute her; so the land shall not go a whoring, and the land be filled with iniquity.
+
+### Leviticus 19:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall keep my sabbaths, and from my holy things you shall stand in fear. I am the Lord.
+- brenton: Ye shall keep my sabbaths, and reverence my sanctuaries: I am the Lord.
+
+### Leviticus 19:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not follow ventriloquists, and to enchanters you shall not cling, to be defiled by them. I am the Lord your God.
+- brenton: Ye shall not attend to those who have in them divining spirits, nor attach yourselves to enchanters, to pollute yourselves with them: I am the Lord your God.
+
+### Leviticus 19:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Before gray hair you shall rise, and you shall honor the face of the elder, and you shall fear your God. I am the Lord your God.
+- brenton: Thou shalt rise up before the hoary head, and honour the face of the old man, and shalt fear thy God: I am the Lord your God.
+
+### Leviticus 19:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a newcomer comes to you in your land, you shall not oppress him.
+- brenton: And if there should come to you a stranger in your land, ye shall not afflict him.
+
+### Leviticus 19:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Like the native among you shall be the newcomer who comes to you, and you shall love him as yourself, because you became newcomers in the land of Egypt. I am the Lord your God.
+- brenton: The stranger that comes to you shall be among you as the native, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.
+
+### Leviticus 19:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do no injustice in judgment, in measures and in weights and in scales.
+- brenton: Ye shall not act unrighteously in judgment, in measures and weights and scales.
+
+### Leviticus 19:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Just scales and just weights and a just liquid-measure shall be for you. I am the Lord your God who brought you out from the land of Egypt.
+- brenton: There shall be among you just balances and just weights and a just liquid measure. I am the Lord your God, who brought you out of the land of Egypt.
+
+### Leviticus 19:37
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep all my law and all my commands and do them. I am the Lord your God.
+- brenton: And ye shall keep all my law and all my ordinances, and ye shall do them: I am the Lord your God.
+
+### Leviticus 20:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 20:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to the sons of Israel you shall say: If any of the sons of Israel or of the newcomer newcomers in Israel gives of his seed to a ruler, he shall surely be put to death. The people of the land shall stone him with stones.
+- brenton: Thou shalt also say to the children of Israel, If there shall be any of the children of Israel, or of those who have become proselytes in Israel, who shall give of his seed to Moloch, let him be surely put to death; the nation upon the land shall stone him with stones.
+
+### Leviticus 20:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will set my face against that man and destroy him from his people, because he gave of his seed to a ruler so as to defile my holy things and profane the name of those sanctified to me.
+- brenton: And I will set my face against that man, and will cut him off from his people, because he has given of his seed to Moloch, to defile my sanctuary, and profane the name of them that are consecrated to me.
+
+### Leviticus 20:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the natives of the land by overlooking overlook that man with their eyes when he gives of his seed to a ruler, so as not to put him to death,
+- brenton: And if the natives of the land should in anywise overlook that man in giving of his seed to Moloch, so as not to put him to death;
+
+### Leviticus 20:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then I will set my face against that man and against his kin, and I will destroy him and all who are of one mind with him, so that he prostitutes himself to the rulers, from their people.
+- brenton: then will I set my face against that man and his family, and I will destroy him, and all who have been of one mind with him, so that he should go a whoring to the princes, from their people.
+
+### Leviticus 20:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the person who follows ventriloquists or enchanters so as to prostitute himself after them, I will set my face against that person and destroy him from his people.
+- brenton: And the soul that shall follow those who have in them divining spirits, or enchanters, so as to go a whoring after them; I will set my face against that soul, and will destroy it from among its people.
+
+### Leviticus 20:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall be holy, because I, the Lord your God, am holy.
+- brenton: And ye shall be holy, for I the Lord your God am holy.
+
+### Leviticus 20:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep my commands and do them. I am the Lord who sanctifies you.
+- brenton: And ye shall observe my ordinances, and do them: I am the Lord that sanctifies you.
+
+### Leviticus 20:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every man who speaks evil of his father or of his mother shall surely be put to death. He spoke evil of his father or his mother. He shall be guilty.
+- brenton: Every man who shall speak evil of his father or of his mother, let him die the death; has he spoken evil of his father or his mother? he shall be guilty.
+
+### Leviticus 20:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Any man who commits adultery with the wife of a man, or who commits adultery with the wife of his neighbor, the adulterer and the adulteress shall surely be put to death.
+- brenton: Whatever man shall commit adultery with the wife of a man, or whoever shall commit adultery with the wife of his neighbour, let them die the death, the adulterer and the adulteress.
+
+### Leviticus 20:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone lies with his father's wife, he has uncovered his father's nakedness. Both shall surely be put to death. They are guilty.
+- brenton: And if any one should lie with his father's wife, he has uncovered his father's nakedness: let them both die the death, they are guilty.
+
+### Leviticus 20:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone lies with his daughter-in-law, both shall surely be put to death, for they have acted impiously. They are guilty.
+- brenton: And if any one should lie with his daughter-in-law, let them both be put to death; for they have wrought impiety, they are guilty.
+
+### Leviticus 20:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whoever lies with a male the bed of a woman, both have done an abomination. They shall surely be put to death. They are guilty.
+- brenton: And whoever shall lie with a male as with a woman, they have both wrought abomination; let them die the death, they are guilty.
+
+### Leviticus 20:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever takes a woman and her mother, it is lawlessness. They shall burn him and them with fire, and there shall not be lawlessness among you.
+- brenton: Whosoever shall take a woman and her mother, it is iniquity: they shall burn him and them with fire; so there shall not be iniquity among you.
+
+### Leviticus 20:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whoever gives his bed to a four-footed animal shall surely be put to death, and you shall kill the four-footed animal.
+- brenton: And whosoever shall lie with a beast, let him die the death; and ye shall kill the beast.
+
+### Leviticus 20:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a woman comes near to any beast to mate with it, you shall kill the woman and the beast. They shall surely be put to death. They are guilty.
+- brenton: And whatever woman shall approach any beast, so as to have connexion with it, ye shall kill the woman and the beast: let them die the death, they are guilty.
+
+### Leviticus 20:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever takes his sister by his father or by his mother and sees her nakedness and she sees his nakedness, it is a reproach. They shall be cut off before the sons of their family. He uncovered his sister's nakedness. They shall bear sin.
+- brenton: Whosoever shall take his sister by his father or by his mother, and shall see her nakedness, and she see his nakedness, it is a reproach: they shall be destroyed before the children of their family; he has uncovered his sister's nakedness, they shall bear their sin.
+
+### Leviticus 20:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a man who lies with a woman under separation and uncovers her nakedness, he has uncovered her fountain and she has uncovered the flow of her blood. Both shall be cut off from among their family.
+- brenton: And whatever man shall lie with a woman that is set apart for a flux, and shall uncover her nakedness, he has uncovered her fountain, and she has uncovered the flux of her blood: they shall both be destroyed from among their generation.
+
+### Leviticus 20:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the nakedness of your father's sister and your mother's sister you shall not uncover, for he has uncovered close kin. They shall bear sin.
+- brenton: And thou shalt not uncover the nakedness of thy father's sister, or of the sister of thy mother; for that man has uncovered the nakedness of one near akin: they shall bear their iniquity.
+
+### Leviticus 20:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever lies with his relative, he has uncovered the nakedness of his kin. They shall die childless.
+- brenton: Whosoever shall lie with his near kinswoman, has uncovered the nakedness of one near akin to him: they shall die childless.
+
+### Leviticus 20:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever takes his brother's wife, it is uncleanness. He has uncovered his brother's nakedness. They shall die childless.
+- brenton: Whoever shall take his brother's wife, it is uncleanness; he has uncovered his brother's nakedness; they shall die childless.
+
+### Leviticus 20:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And keep all my commands and all my judgments and do them, and let not the land into which I am bringing you there to dwell on it be aggrieved with you.
+- brenton: And keep ye all my ordinances, and my judgments; and ye shall do them, and the land shall not be aggrieved with you, into which I bring you to dwell upon it.
+
+### Leviticus 20:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And do not walk in the statutes of the nations that I am sending away from before you, because they did all these things and I abhorred them.
+- brenton: And walk ye not in the customs of the nations which I drive out from before you; for they have done all these things, and I have abhorred them:
+
+### Leviticus 20:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to you, You shall inherit their land, and I will give it to you for a possession, a land flowing with milk and honey. I am the Lord your God, who separated you from all the nations.
+- brenton: and I said to you, Ye shall inherit their land, and I will give it to you for a possession, even a land flowing with milk and honey: I am the Lord your God, who have separated you from all people.
+
+### Leviticus 20:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall distinguish between the clean animals and the unclean animals and between the clean birds and the unclean birds, and you shall not make your lives abominable among the animals and among the birds and among all the creeping things of the earth, which I set apart for you in uncleanness.
+- brenton: And ye shall make a distinction between the clean and the unclean cattle, and between clean and unclean birds; and ye shall not defile your souls with cattle, or with birds, or with any creeping things of the earth, which I have separated for you by reason of uncleanness.
+
+### Leviticus 20:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall be holy to me, because I, the Lord your God, am holy, who separated you from all the nations to be mine.
+- brenton: And ye shall be holy to me; because I the Lord your God am holy, who separated you from all nations, to be mine.
+
+### Leviticus 20:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man or a woman among them becomes a ventriloquist or an enchanter, both shall surely be put to death. Stone them with stones. They are guilty.
+- brenton: And as for a man or woman whosoever of them shall have in them a divining spirit, or be an enchanter, let them both die the death: ye shall stone them with stones, they are guilty.
+
+### Leviticus 21:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying, Speak to the priests, sons of Aaron, and you shall say to them: For a dead person they shall not defile themselves among their people,
+- brenton: And the Lord spoke to Moses, saying, Speak to the priests the sons of Aaron, and thou shalt tell them that they shall not defile themselves in their nation for the dead,
+
+### Leviticus 21:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: except for close kin nearest to them: for father and mother and sons and daughters and brother,
+- brenton: but they may mourn for a relative who is very near to them, for a father and mother, and sons and daughters, for a brother,
+
+### Leviticus 21:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for a virgin sister near to him, not given to a man; for these he shall defile himself.
+- brenton: and for a virgin sister that is near to one, that is not espoused to a man; for these one shall defile himself.
+
+### Leviticus 21:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall not defile himself suddenly among his people so as to profane himself.
+- brenton: He shall not defile himself suddenly among his people to profane himself.
+
+### Leviticus 21:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall not shave a bald patch on their head for a dead one, and they shall not shave the face of the beard, and on their flesh they shall not cut cuttings.
+- brenton: And ye shall not shave your head for the dead with a baldness on the top; and they shall not shave their beard, neither shall they make gashes on their flesh.
+
+### Leviticus 21:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall be holy to their God, and they shall not profane the name of their God, because they offer the sacrifices of the Lord, gifts of their God, and they shall be holy.
+- brenton: They shall be holy to their God, and they shall not profane the name of their God; for they offer the sacrifices of the Lord as the gifts of their God, and they shall be holy.
+
+### Leviticus 21:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A prostitute and a profaned woman they shall not take, and a woman cast out from her husband they shall not take, because he is holy to the Lord his God.
+- brenton: They shall not take a woman who is a harlot and profaned, or a woman put away from her husband; for he is holy to the Lord his God.
+
+### Leviticus 21:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall sanctify him, because he offers the gifts of the Lord your God. He shall be holy, because I, the Lord who sanctifies them, am holy.
+- brenton: And thou shalt hallow him; he offers the gifts of the Lord your God: he shall be holy, for I the Lord that sanctify them am holy.
+
+### Leviticus 21:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the daughter of a priestly man profanes herself by whoring, she profanes her father's name. She shall be burned with fire.
+- brenton: And if the daughter of a priest should be profaned to go a whoring, she profanes the name of her father: she shall be burnt with fire.
+
+### Leviticus 21:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the great priest from among his brothers, on whose head the anointing oil has been poured and who has been completed to put on the garments, shall not unbind his head-covering, and shall not tear his garments.
+- brenton: And the priest that is chief among his brethren, the oil having been poured upon the head of the anointed one, and he having been consecrated to put on the garments, shall not take the mitre off his head, and shall not rend his garments:
+
+### Leviticus 21:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall not enter upon any dead person. For his father or his mother he shall not defile himself.
+- brenton: neither shall he go in to any dead body, neither shall he defile himself for his father or his mother.
+
+### Leviticus 21:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall not go out from the holy things, and he shall not profane the sanctuary of his God, because the holy anointing oil of his God is upon him. I am the Lord.
+- brenton: And he shall not go forth out of the sanctuary, and he shall not profane the sanctuary of his God, because the holy anointing oil of God is upon him: I am the Lord.
+
+### Leviticus 21:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This man shall take a virgin woman from his own kindred.
+- brenton: He shall take for a wife a virgin of his own tribe.
+
+### Leviticus 21:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But a widow and a cast-out woman and a profaned woman and a prostitute, these he shall not take. Rather, he shall take as wife a virgin from his own people.
+- brenton: But a widow, or one that is put away, or profaned, or a harlot, these he shall not take; but he shall take for a wife a virgin of his own people.
+
+### Leviticus 21:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall not profane his seed among his people. I am the Lord who sanctifies him.
+- brenton: And he shall not profane his seed among his people: I am the Lord that sanctifies him.
+
+### Leviticus 21:16
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 21:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron: A man from your seed throughout your generations, if a blemish is in him, shall not approach to offer the gifts of his God.
+- brenton: Say to Aaron, A man of thy tribe throughout your generations, who shall have a blemish on him, shall not draw nigh to offer the gifts of his God.
+
+### Leviticus 21:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every man in whom there is a blemish shall not approach: a lame or blind man, or one disfigured in face or cut in ear,
+- brenton: No man who has a blemish on him shall draw nigh; a man lame, blind, with his nose disfigured, or his ears cut,
+
+### Leviticus 21:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or a man who has a fracture of hand or a fracture of foot,
+- brenton: a man who has a broken hand or a broken foot,
+
+### Leviticus 21:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or hunchbacked or stunted, or a man with a blemish in his eyes, or one who has itching scabs or ringworm, or one with a single testicle.
+- brenton: or hump-backed, or blear-eyed, or that has lost his eye-lashes, or a man who has a malignant ulcer, or tetter, or one that has lost a testicle.
+
+### Leviticus 21:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Any man in whom there is a blemish, from the seed of Aaron the priest, shall not come near to offer the sacrifices to your God. Because a blemish is in him, he shall not approach to offer the gifts of his God.
+- brenton: Whoever of the seed of Aaron the priest has a blemish on him, shall not draw nigh to offer sacrifices to thy God, because he has a blemish on him; he shall not draw nigh to offer the gifts of God.
+
+### Leviticus 21:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He may eat the gifts of God, the holy of holies and the holy things.
+- brenton: The gifts of God are most holy, and he shall eat of the holy things.
+
+### Leviticus 21:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only he shall not approach the curtain, and he shall not come near the altar, because he has a blemish, and he shall not profane the holy place of his God, because I am the Lord who sanctifies them.
+- brenton: Only he shall not approach the veil, and he shall not draw nigh to the altar, because he has a blemish; and he shall not profane the sanctuary of his God, for I am the Lord that sanctifies them.
+
+### Leviticus 21:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to Aaron and his sons and to all the sons of Israel.
+- brenton: And Moses spoke to Aaron and his sons, and to all the children of Israel.
+
+### Leviticus 22:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 22:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron and his sons, and let them attend carefully to the holy things of the sons of Israel, and they shall not profane my holy name in what they consecrate to me. I am the Lord.
+- brenton: Speak to Aaron and to his sons, and let them take heed concerning the holy things of the children of Israel, so they shall not profane my holy name in any of the things which they consecrate to me: I am the Lord.
+
+### Leviticus 22:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Say to them: Throughout your generations any man from all your seed who approaches the holy things that the sons of Israel consecrate to the Lord, while his uncleanness is upon him, that person shall be destroyed from before me. I am the Lord your God.
+- brenton: Say to them, Every man throughout your generations, whoever of all your seed shall approach to the holy things, whatsoever the children of Israel shall consecrate to the Lord, while his uncleanness is upon him, that soul shall be cut off from me: I am the Lord your God.
+
+### Leviticus 22:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And any man from the seed of Aaron the priest, if he has skin-disease or a discharge, shall not eat the holy things until he is cleansed. And if one touches any uncleanness of a dead person, or a man from whom a flow of seed goes out,
+- brenton: And the man of the seed of Aaron the priest, if he should have leprosy or issue of the reins, shall not eat of the holy things, until he be cleansed; and he that touches any uncleanness of a dead body, or the man whose seed of copulation shall have gone out from him,
+
+### Leviticus 22:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or whoever touches any unclean creeping thing that would make him unclean, or a human by whom he would become unclean according to all his uncleanness,
+- brenton: or whosoever shall touch any unclean reptile, which will defile him, or who shall touch a man, whereby he shall defile him according to all his uncleanness:
+
+### Leviticus 22:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a person who touches these shall be unclean until evening and shall not eat from the holy things unless he washes his body in water.
+- brenton: whatsoever soul shall touch them shall be unclean until evening; he shall not eat of the holy things, unless he bathe his body in water,
+
+### Leviticus 22:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the sun goes down, he shall be clean, and afterward he shall eat of the holy things, because that is his bread.
+- brenton: and the sun go down, and then he shall be clean; and then shall he eat of all the holy things, for they are his bread.
+
+### Leviticus 22:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: What dies of itself or is torn by beasts he shall not eat, to be defiled by them. I am the Lord.
+- brenton: He shall not eat that which dies of itself, or is taken of beasts, so that he should be polluted by them: I am the Lord.
+
+### Leviticus 22:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall keep my ordinances, so that they may not bear sin because of them and die because of them if they profane them. I am the Lord God who sanctifies them.
+- brenton: And they shall keep my ordinances, that they do not bear iniquity because of them, and die because of them, if they shall profane them: I am the Lord God that sanctifies them.
+
+### Leviticus 22:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And no foreigner shall eat holy things. A resident of a priest or a hired servant shall not eat holy things.
+- brenton: And no stranger shall eat the holy things: one that sojourns with a priest, or a hireling, shall not eat the holy things.
+
+### Leviticus 22:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if a priest acquires a person as property with silver, that one shall eat of his bread, and those born in his house, they too shall eat of his bread.
+- brenton: But if a priest should have a soul purchased for money, he shall eat of his bread; and they that are born in his house, they also shall eat of his bread.
+
+### Leviticus 22:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a priest's daughter belongs to a foreign man, she shall not eat of the firstfruits of the holy things.
+- brenton: And if the daughter of a priest should marry a stranger, she shall not eat of the offerings of the sanctuary.
+
+### Leviticus 22:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if a priest's daughter becomes a widow or cast out, and there is no seed for her, and she returns to her father's house as in her youth, she shall eat of her father's bread. But no foreigner shall eat from them.
+- brenton: And if the daughter of a priest should be a widow, or put away, and have no seed, she shall return to her father's house, as in her youth: she shall eat of her father's bread, but no stranger shall eat of it.
+
+### Leviticus 22:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man eats holy things by ignorance, he shall add a fifth part to it and give the holy thing to the priest.
+- brenton: And the man who shall ignorantly eat holy things, shall add the fifth part to it, and give the holy thing to the priest.
+
+### Leviticus 22:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall not profane the holy things of the sons of Israel, which they set apart for the Lord,
+- brenton: And they shall not profane the holy things of the children of Israel, which they offer to the Lord.
+
+### Leviticus 22:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and bring upon themselves guilt of trespass when they eat their holy things, because I am the Lord who sanctifies them.
+- brenton: So should they bring upon themselves the iniquity of trespass in their eating their holy things: for I am the Lord that sanctifies them.
+
+### Leviticus 22:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 22:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron and to his sons and to all the congregation of Israel, and you shall say to them: Any man from the sons of Israel or from the sons of the newcomers attached to them in Israel who brings his gifts according to all their vows or according to all their freewill choices, whatever they may bring to God as a whole burnt offering,
+- brenton: Speak to Aaron and his sons, and to all the congregation of Israel, and thou shalt say to them, Any man of the children of Israel, or of the strangers that abide among them in Israel, who shall offer his gifts according to all their confession and according to all their choice, whatsoever they may bring to the Lord for whole-burnt-offerings—
+
+### Leviticus 22:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: for acceptance for you, shall bring an unblemished male from the cattle and from the sheep and from the goats.
+- brenton: your free-will-offerings shall be males without blemish of the herds, or of the sheep, or of the goats.
+
+### Leviticus 22:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whatever has a blemish in it you shall not bring to the Lord, because it shall not be acceptable for you.
+- brenton: They shall not bring to the Lord anything that has a blemish in it, for it shall not be acceptable for you.
+
+### Leviticus 22:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a man brings a sacrifice of salvation to the Lord, fulfilling a vow or as a freewill choice or in your festivals, it shall be unblemished for acceptance, from the cattle or from the sheep. No blemish shall be in it.
+- brenton: And whatsoever man shall offer a peace-offering to the Lord, discharging a vow, or in the way of free-will-offering, or an offering in your feasts, of the herds or of the sheep, it shall be without blemish for acceptance: there shall be no blemish in it.
+
+### Leviticus 22:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A blind or crushed or cut-tongued animal, or one with warts or with mange or with ringworm, these you shall not bring to the Lord, and from them you shall not place an offering upon the altar to the Lord.
+- brenton: One that is blind, or broken, or has its tongue cut out, or is troubled with warts, or has a malignant ulcer, or tetters, they shall not offer these to the Lord; neither shall ye offer any of them for a burnt-offering on the altar of the Lord.
+
+### Leviticus 22:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a calf or sheep cut in ear or short in tail, you shall make them as slaughter-offerings for yourself, but for your vow it shall not be accepted.
+- brenton: And a calf or a sheep with the ears cut off, or that has lost its tail, thou shalt slay them for thyself; but they shall not be accepted for thy vow.
+
+### Leviticus 22:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: One bruised or crushed or cut out or torn away you shall not bring to the Lord, and in your land you shall not do so.
+- brenton: That which has broken testicles, or is crushed or gelt or mutilated,—thou shalt not offer them to the Lord, neither shall ye sacrifice them upon your land.
+
+### Leviticus 22:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the hand of a foreigner you shall not bring gifts to your God from any of these, because ruin is in them; blemish is in them; these shall not be accepted for you.
+- brenton: Neither shall ye offer the gifts of your God of all these things by the hand of a stranger, because there is corruption in them, a blemish in them: these shall not be accepted for you.
+
+### Leviticus 22:26
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 22:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A calf or sheep or goat, whenever it is born, shall be seven days under its mother, but on the eighth day and beyond it shall be accepted as a gift, an offering to the Lord.
+- brenton: As for a calf, or a sheep, or a goat, whenever it is born, then shall it be seven days under its mother; and on the eighth day and after they shall be accepted for sacrifices, a burnt-offering to the Lord.
+
+### Leviticus 22:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a calf or sheep, her and her young you shall not slaughter in one day.
+- brenton: And a bullock and a ewe, it and its young, thou shalt not kill in one day.
+
+### Leviticus 22:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you sacrifice to the Lord a sacrifice, a vow of rejoicing, you shall sacrifice it for acceptance for you.
+- brenton: And if thou shouldest offer a sacrifice, a vow of rejoicing to the Lord, ye shall offer it so as to be accepted for you.
+
+### Leviticus 22:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It shall be eaten on that same day; you shall not leave any of the meat from it until morning. I am the Lord.
+- brenton: In that same day it shall be eaten; ye shall not leave of the flesh till the morrow: I am the Lord.
+
+### Leviticus 22:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep my commands and do them.
+- brenton: And ye shall keep my commandments and do them.
+
+### Leviticus 22:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not profane my holy name, and I shall be sanctified in the midst of the sons of Israel. I am the Lord who sanctifies you,
+- brenton: And ye shall not profane the name of the Holy One, and I will be sanctified in the midst of the children of Israel. I am the Lord that sanctifies you,
+
+### Leviticus 22:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: who brought you out from the land of Egypt so as to be your God. I am the Lord.
+- brenton: who brought you out of the land of Egypt, to be your God: I am the Lord.
+
+### Leviticus 23:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 23:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them: These are the feasts of the Lord, which you shall call holy convocations; these are my feasts.
+- brenton: Speak to the children of Israel, and thou shalt say unto them, The feasts of the Lord which ye shall call holy assemblies, these are my feasts.
+
+### Leviticus 23:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six days you shall do works, and on the seventh day there shall be Sabbaths, rest, a holy convocation to the Lord. You shall do no work. It is Sabbath to the Lord in every dwelling of yours.
+- brenton: Six days shalt thou do works, but on the seventh day is the sabbath; a rest, a holy convocation to the Lord: thou shalt not do any work, it is a sabbath to the Lord in all your dwellings.
+
+### Leviticus 23:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the feasts of the Lord, holy convocations, which you shall call in their times.
+- brenton: These are the feasts to the Lord, holy convocations, which ye shall call in their seasons.
+
+### Leviticus 23:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In the first month, on the fourteenth day of the month, between the evenings, is Passover to the Lord.
+- brenton: In the first month, on the fourteenth day of the month, between the evening times is the Lord's passover.
+
+### Leviticus 23:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the fifteenth day of this month is the feast of Unleavened Bread to the Lord. Seven days you shall eat unleavened bread.
+- brenton: And on the fifteenth day of this month is the feast of unleavened bread to the Lord; seven days shall ye eat unleavened bread.
+
+### Leviticus 23:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the first day shall be a holy convocation for you. You shall do no servile work.
+- brenton: And the first day shall be a holy convocation to you: ye shall do no servile work.
+
+### Leviticus 23:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring whole burnt offerings to the Lord seven days, and the seventh day shall be a holy convocation for you. You shall do no servile work.
+- brenton: And ye shall offer whole-burnt-offerings to the Lord seven days; and the seventh day shall be a holy convocation to you: ye shall do no servile work.
+
+### Leviticus 23:9
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 23:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them: When you enter the land that I give you and reap its harvest, you shall bring a sheaf, the firstfruits of your harvest, to the priest.
+- brenton: Speak to the children of Israel, and thou shalt say to them, When ye shall enter into the land which I give you, and reap the harvest of it, then shall ye bring a sheaf, the first-fruits of your harvest, to the priest;
+
+### Leviticus 23:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he shall lift the sheaf before the Lord, acceptable for you. On the day after the first day the priest shall lift it.
+- brenton: and he shall lift up the sheaf before the Lord, to be accepted for you. On the morrow of the first day the priest shall lift it up.
+
+### Leviticus 23:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the day when you bring the sheaf, you shall prepare an unblemished yearling lamb as a whole burnt offering to the Lord.
+- brenton: And ye shall offer on the day on which ye bring the sheaf, a lamb without blemish of a year old for a whole-burnt-offering to the Lord.
+
+### Leviticus 23:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And its sacrifice shall be two tenths of fine flour mixed with oil, an offering to the Lord, an aroma of sweet fragrance to the Lord, and its libation shall be a fourth of a hin of wine.
+- brenton: And its meat-offering two tenth portions of fine flour mingled with oil: it is a sacrifice to the Lord, a smell of sweet savour to the Lord, and its drink-offering the fourth part of a hin of wine.
+
+### Leviticus 23:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And bread and parched grain and fresh kernels you shall not eat until this very day, until you bring the gifts to your God. It is a perpetual statute throughout your generations in every dwelling of yours.
+- brenton: And ye shall not eat bread, or the new parched corn, until this same day, until ye offer the sacrifices to your God: it is a perpetual statute throughout your generations in all your dwellings.
+
+### Leviticus 23:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall count for yourselves from the day after the Sabbaths, from the day when you bring the sheaf of the raised offering, seven full weeks.
+- brenton: And ye shall number to yourselves from the day after the sabbath, from the day on which ye shall offer the sheaf of the heave-offering, seven full weeks:
+
+### Leviticus 23:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Until the day after the last week you shall count fifty days, and you shall bring a new sacrifice to the Lord.
+- brenton: until the morrow after the last week ye shall number fifty days, and shall bring a new meat-offering to the Lord.
+
+### Leviticus 23:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From your dwellings you shall bring loaves as a raised offering, two loaves from two tenths of fine flour. They shall be baked leavened, firstfruits to the Lord.
+- brenton: Ye shall bring from your dwelling loaves, as a heave-offering, two loaves: they shall be of two tenth portions of fine flour, they shall be baked with leaven of the first-fruits to the Lord.
+
+### Leviticus 23:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring with the loaves seven unblemished yearling lambs and one calf from the cattle and two unblemished rams. They shall be a whole burnt offering to the Lord, and their sacrifices and their libations, an offering, an aroma of sweet fragrance to the Lord.
+- brenton: And ye shall bring with the loaves seven unblemished lambs of a year old, and one calf of the herd, and two rams without blemish, and they shall be a whole-burnt-offering to the Lord: and their meat-offerings and their drink-offerings shall be a sacrifice, a smell of sweet savour to the Lord.
+
+### Leviticus 23:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall offer one kid from the goats for sin, and two yearling lambs as a sacrifice of salvation with the loaves of firstfruits.
+- brenton: And they shall sacrifice one kid of the goats for a sin-offering, and two lambs of a year old for a peace-offering, with the loaves of the first-fruits.
+
+### Leviticus 23:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall place them with the loaves of firstfruits as a raised offering before the Lord with the two lambs. They shall be holy to the Lord for the priest who offers them; they shall be his.
+- brenton: And the priest shall place them with the loaves of the first-fruits an offering before the Lord with the two lambs, they shall be holy to the Lord; they shall belong to the priest that brings them.
+
+### Leviticus 23:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall proclaim this day; it shall be a holy convocation for you. You shall do no servile work in it. It is a perpetual statute throughout your generations in every dwelling of yours.
+- brenton: And ye shall call this day a convocation: it shall be holy to you; ye shall do no servile work on it: it is a perpetual ordinance throughout your generations in all your habitations.
+
+### Leviticus 23:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when you reap the harvest of your land, you shall not finish off the remainder of your field when you reap, and the fallen gleanings of your harvest you shall not gather. For the poor and for the newcomer you shall leave them. I am the Lord your God.
+- brenton: And when ye shall reap the harvest of your land, ye shall not fully reap the remainder of the harvest of your field when thou reapest, and thou shalt not gather that which falls from thy reaping; thou shalt leave it for the poor and the stranger: I am the Lord your God.
+
+### Leviticus 23:23
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 23:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, there shall be for you a rest, a memorial of trumpets, a holy convocation.
+- brenton: Speak to the children of Israel, saying, In the seventh month, on the first day of the month, ye shall have a rest, a memorial of trumpets: it shall be to you a holy convocation.
+
+### Leviticus 23:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do no servile work, and you shall bring a whole burnt offering to the Lord.
+- brenton: Ye shall do no servile work, and ye shall offer a whole-burnt-offering to the Lord.
+
+### Leviticus 23:26
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 23:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the tenth day of this seventh month is the day of atonement. It shall be a holy convocation for you, and you shall humble your lives, and you shall bring a whole burnt offering to the Lord.
+- brenton: Also on the tenth day of this seventh month is a day of atonement: it shall be a holy convocation to you; and ye shall humble your souls, and offer a whole-burnt-offering to the Lord.
+
+### Leviticus 23:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do no work on this very day, because it is a day of atonement, to make atonement for you before the Lord your God.
+- brenton: Ye shall do no work on this self-same day: for this is a day of atonement for you, to make atonement for you before the Lord your God.
+
+### Leviticus 23:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every person who is not humbled on this very day shall be destroyed from her people.
+- brenton: Every soul that shall not be humbled in that day, shall be cut off from among its people.
+
+### Leviticus 23:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every person who does work on this very day, that person shall perish from her people.
+- brenton: And every soul which shall do work on that day, that soul shall be destroyed from among its people.
+
+### Leviticus 23:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall do no work. It is a perpetual statute throughout your generations in all your dwellings.
+- brenton: Ye shall do no manner of work: it is a perpetual statute throughout your generations in all your habitations.
+
+### Leviticus 23:32
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: It shall be a Sabbath of Sabbaths for you, and you shall humble your lives. From the ninth day of the month, from evening to evening, you shall sabbatize your Sabbaths.
+- brenton: It shall be a holy sabbath to you; and ye shall humble your souls, from the ninth day of the month: from evening to evening ye shall keep your sabbaths.
+
+### Leviticus 23:33
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 23:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, On the fifteenth day of this seventh month is the feast of Booths for seven days to the Lord.
+- brenton: Speak to the children of Israel, saying, On the fifteenth day of this seventh month, there shall be a feast of tabernacles seven days to the Lord.
+
+### Leviticus 23:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the first day shall be a holy convocation. You shall do no servile work.
+- brenton: And on the first day shall be a holy convocation; ye shall do no servile work.
+
+### Leviticus 23:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Seven days you shall bring whole burnt offerings to the Lord, and the eighth day shall be a holy convocation for you, and you shall bring whole burnt offerings to the Lord. It is a conclusion. You shall do no servile work.
+- brenton: Seven days shall ye offer whole-burnt-offerings to the Lord, and the eighth-day shall be a holy convocation to you; and ye shall offer whole-burnt-offerings to the Lord: it is a time of release, ye shall do no servile work.
+
+### Leviticus 23:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the feasts of the Lord, which you shall call holy convocations, so as to bring offerings to the Lord, whole burnt offerings and their sacrifices and their libations, each day as required for the day,
+- brenton: These are the feasts to the Lord, which ye shall call holy convocations, to offer burnt-offerings to the Lord, whole-burnt-offerings and their meat-offerings, and their drink-offerings, that for each day on its day:
+
+### Leviticus 23:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: apart from the Sabbaths of the Lord and apart from your gifts and apart from all your vows and apart from all your freewill offerings that you give to the Lord.
+- brenton: besides the sabbaths of the Lord, and besides your gifts, and besides all your vows, and besides your free-will-offerings, which ye shall give to the Lord.
+
+### Leviticus 23:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the fifteenth day of this seventh month, whenever you finish the produce of the land, you shall keep feast to the Lord seven days. On the first day there shall be rest, and on the eighth day there shall be rest.
+- brenton: And on the fifteenth day of this seventh month, when ye shall have completely gathered in the fruits of the earth, ye shall keep a feast to the Lord seven days; on the first day there shall be a rest, and on the eighth day a rest.
+
+### Leviticus 23:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the first day you shall take splendid fruit of trees and branches of palms and boughs of leafy tree and willows and branches of chaste tree from the torrent, to rejoice before the Lord your God seven days.
+- brenton: And on the first day ye shall take goodly fruit of trees, and branches of palm trees, and thick boughs of trees, and willows, and branches of osiers from the brook, to rejoice before the Lord your God seven days in the year.
+
+### Leviticus 23:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It is a perpetual statute throughout your generations. In the seventh month you shall keep feast to it.
+- brenton: It is a perpetual statute for your generations: in the seventh month ye shall keep it.
+
+### Leviticus 23:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall dwell in booths seven days. Every native-born person in Israel shall dwell in booths,
+- brenton: Seven days ye shall dwell in tabernacles: every native in Israel shall dwell in tents,
+
+### Leviticus 23:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: so that your generations may see that in booths I settled the sons of Israel when I brought them out from the land of Egypt. I am the Lord your God.
+- brenton: that your posterity may see, that I made the children of Israel to dwell in tents, when I brought them out of the land of Egypt: I am the Lord your God.
+
+### Leviticus 23:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke the feasts of the Lord to the sons of Israel.
+- brenton: And Moses recounted the feasts of the Lord to the children of Israel.
+
+### Leviticus 24:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 24:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Command the sons of Israel, and let them take for me clear beaten olive oil for light, to burn a lamp continually.
+- brenton: Charge the children of Israel, and let them take for thee pure olive oil beaten for the light, to burn a lamp continually,
+
+### Leviticus 24:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Outside the curtain in the tent of testimony, Aaron and his sons shall burn it from evening until morning before the Lord continually, a perpetual statute throughout your generations.
+- brenton: outside the veil in the tabernacle of witness; and Aaron and his sons shall burn it from evening until morning before the Lord continually, a perpetual statute throughout your generations.
+
+### Leviticus 24:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the pure lampstand you shall burn the lamps before the Lord until morning.
+- brenton: Ye shall burn the lamps on the pure lamp-stand before the Lord till the morrow.
+
+### Leviticus 24:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take fine flour and make from it twelve loaves. Each loaf shall be of two tenths.
+- brenton: And ye shall take fine flour, and make of it twelve loaves; each loaf shall be of two tenth parts.
+
+### Leviticus 24:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place them in two arrangements, six loaves in one arrangement, on the pure table before the Lord.
+- brenton: And ye shall put them in two rows, each row containing six loaves, on the pure table before the Lord.
+
+### Leviticus 24:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place on the arrangement pure frankincense and salt, and they shall be for the loaves as a memorial, set before the Lord.
+- brenton: And ye shall put on each row pure frankincense and salt; and these things shall be for loaves for a memorial, set forth before the Lord.
+
+### Leviticus 24:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the day of the Sabbaths it shall be set out before the Lord continually, from the sons of Israel as an everlasting covenant.
+- brenton: On the sabbath-day they shall be set forth before the Lord continually before the children of Israel, for an everlasting covenant.
+
+### Leviticus 24:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall belong to Aaron and to his sons, and they shall eat them in a holy place, because this is holy of holies for him from the things sacrificed to the Lord, a perpetual statute.
+- brenton: And they shall be for Aaron and his sons, and they shall eat them in the holy place: for this is their most holy portion of the offerings made to the Lord, a perpetual statute.
+
+### Leviticus 24:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there came out a son of an Israelite woman, and he was the son of an Egyptian, among the sons of Israel, and the one from the Israelite woman and the Israelite man fought in the camp.
+- brenton: And there went forth a son of an Israelitish woman, and he was son of an Egyptian man among the sons of Israel; and they fought in the camp, the son of the Israelitish woman, and a man who was an Israelite.
+
+### Leviticus 24:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the son of the Israelite woman, having named the Name, cursed, and they brought him to Moses. And his mother's name was Shelomith, daughter of Dibri, from the tribe of Dan.
+- brenton: And the son of the Israelitish woman named THE NAME and cursed; and they brought him to Moses: and his mother's name was Salomith, daughter of Dabri of the tribe of Dan.
+
+### Leviticus 24:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they put him into custody, to judge him by the command of the Lord.
+- brenton: And they put him in ward, to judge him by the command of the Lord.
+
+### Leviticus 24:13
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 24:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Bring out the one who cursed outside the camp, and let all who heard place their hands on his head, and let all the congregation stone him.
+- brenton: Bring forth him that cursed outside the camp, and all who heard shall lay their hands upon his head, and all the congregation shall stone him.
+
+### Leviticus 24:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And speak to the sons of Israel, and you shall say to them: A man who curses God shall bear sin.
+- brenton: And speak to the sons of Israel, and thou shalt say to them, Whosoever shall curse God shall bear his sin.
+
+### Leviticus 24:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the one naming the name of the Lord, let him surely be put to death; with stones let all the congregation stone him. Whether newcomer or native-born, when he names the name of the Lord, let him die.
+- brenton: And he that names the name of the Lord, let him die the death: let all the congregation of Israel stone him with stones; whether he be a stranger or a native, let him die for naming the name of the Lord.
+
+### Leviticus 24:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a man who strikes a human life, and it dies, let him surely be put to death.
+- brenton: And whosoever shall smite a man and he die, let him die the death.
+
+### Leviticus 24:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whoever strikes an animal and it dies, let him pay life for life.
+- brenton: And whosoever shall smite a beast, and it shall die, let him render life for life.
+
+### Leviticus 24:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone gives a blemish to his neighbor, as he did, so it shall be done back to him:
+- brenton: And whosoever shall inflict a blemish on his neighbour, as he has done to him, so shall it be done to himself in return;
+
+### Leviticus 24:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: fracture for fracture, eye for eye, tooth for tooth. According as he gave a blemish to a person, so shall it be given to him.
+- brenton: bruise for bruise, eye for eye, tooth for tooth: as any one may inflict a blemish on a man, so shall it be rendered to him.
+
+### Leviticus 24:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever strikes a person and he dies, let him surely be put to death.
+- brenton: Whosoever shall smite a man, and he shall die, let him die the death.
+
+### Leviticus 24:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: One righteous judgment shall be for the newcomer and for the native-born, because I am the Lord your God.
+- brenton: There shall be one judgment for the stranger and the native, for I am the Lord your God.
+
+### Leviticus 24:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the sons of Israel, and they brought out the one who cursed outside the camp and stoned him with stones. And the sons of Israel did just as the Lord commanded Moses.
+- brenton: And Moses spoke to the children of Israel, and they brought him that had cursed out of the camp, and stoned him with stones: and the children of Israel did as the Lord commanded Moses.
+
+### Leviticus 25:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses on Mount Sinai, saying,
+- brenton: And the Lord spoke to Moses in the mount Sina, saying,
+
+### Leviticus 25:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them: When you enter the land that I give you, the land that I give you shall rest, Sabbaths to the Lord.
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whensoever ye shall have entered into the land, which I give to you, then the land shall rest which I give to you, for its sabbaths to the Lord.
+
+### Leviticus 25:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six years you shall sow your field, and six years you shall prune your vineyard and gather its fruit.
+- brenton: Six years thou shalt sow thy field, and six years thou shalt prune thy vine, and gather in its fruit.
+
+### Leviticus 25:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But in the seventh year there shall be Sabbaths of rest for the land, Sabbaths to the Lord. Your field you shall not sow, and your vineyard you shall not prune.
+- brenton: But in the seventh year shall be a sabbath, it shall be a rest to the land, a sabbath to the Lord: thou shalt not sow thy field, and thou shalt not prune thy vine.
+
+### Leviticus 25:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the spontaneous growths of your field you shall not reap, and the grapes of your consecrated growth you shall not gather. It shall be a year of rest for the land.
+- brenton: And thou shalt not gather the spontaneous produce of thy field, and thou shalt not gather fully the grapes of thy dedication: it shall be a year of rest to the land.
+
+### Leviticus 25:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Sabbaths of the land shall be food for you and for your servant and for your maidservant and for your hired worker and for the resident staying with you,
+- brenton: And the sabbaths of the land shall be food for thee, and for thy man-servant, and for thy maid-servant, and thy hireling, and the stranger that abides with thee.
+
+### Leviticus 25:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for your cattle and for the wild animals in your land. All its produce shall be for eating.
+- brenton: And for thy cattle, and for the wild beasts that are in thy land, shall every fruit of it be for food.
+
+### Leviticus 25:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall count for yourself seven rests of years, seven years seven times, and there shall be for you seven weeks of years, forty-nine years.
+- brenton: And thou shalt reckon to thyself seven sabbaths of years, seven times seven years; and they shall be to thee seven weeks of years, nine and forty years.
+
+### Leviticus 25:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall proclaim a trumpet's sound through all your land in the seventh month, on the tenth day of the month. On the day of atonement you shall proclaim with trumpet through all your land.
+- brenton: In the seventh month, on the tenth day of the month, ye shall make a proclamation with the sound of a trumpet in all your land; on the day of atonement ye shall make a proclamation with a trumpet in all your land.
+
+### Leviticus 25:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall sanctify the fiftieth year, and you shall proclaim release upon the land to all dwelling in it. This year shall be for you a signal of release, and each shall go out to his possession, and each shall return to his homeland.
+- brenton: And ye shall sanctify the year, the fiftieth year, and ye shall proclaim a release upon the land to all that inhabit it; it shall be given a year of release, a jubilee for you; and each one shall depart to his possession, and ye shall go each to his family.
+
+### Leviticus 25:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This fiftieth year shall be for you a signal of release. You shall not sow, nor reap its spontaneous growths, nor gather its consecrated produce.
+- brenton: This is a jubilee of release, the year shall be to you the fiftieth year: ye shall not sow, nor reap the produce that comes of itself from the land, neither shall ye gather its dedicated fruits.
+
+### Leviticus 25:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because it is a signal of release, it shall be holy to you. From the fields you shall eat its produce.
+- brenton: For it is a jubilee of release; it shall be holy to you, ye shall eat its fruits off the fields.
+
+### Leviticus 25:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In this year of its signal of release each shall return to his possession.
+- brenton: In the year of the release even the jubilee of it, shall each one return to his possession.
+
+### Leviticus 25:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you make a sale to your neighbor, or acquire from your neighbor, let no one oppress his neighbor.
+- brenton: And if thou shouldest sell a possession to thy neighbour, or if thou shouldest buy of thy neighbour, let not a man oppress his neighbour.
+
+### Leviticus 25:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According to the number of years after the signal you shall acquire from your neighbor; according to the number of crop-years he shall sell to you.
+- brenton: According to the number of years after the jubilee shalt thou buy of thy neighbour, according to the number of years of the fruits shall he sell to thee.
+
+### Leviticus 25:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According as the years are many, you shall increase its purchase, and according as the years are few, you shall lessen its purchase, because according to the number of its crops he sells to you.
+- brenton: According as there may be a greater number of years he shall increase the value of his possession, and according as there may be a less number of years he shall lessen the value of his possession; for according to the number of his crops, so shall he sell to thee.
+
+### Leviticus 25:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let no one oppress his neighbor, and you shall fear the Lord your God. I am the Lord your God.
+- brenton: Let not a man oppress his neighbour, and thou shalt fear the Lord thy God: I am the Lord thy God.
+
+### Leviticus 25:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall do all my ordinances and all my judgments, and keep them and do them, and you shall dwell confidently on the land.
+- brenton: And ye shall keep all my ordinances, and all my judgments; and do ye observe them, and ye shall keep them, and dwell securely in the land.
+
+### Leviticus 25:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land shall give its produce, and you shall eat to fullness and dwell confidently on it.
+- brenton: And the land shall yield her increase, and ye shall eat to fulness, and shall dwell securely in it.
+
+### Leviticus 25:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you say, What shall we eat in this seventh year, if we do not sow nor gather our produce?
+- brenton: And if ye should say, What shall we eat in this seventh year, if we do not sow nor gather in our fruits?
+
+### Leviticus 25:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then I will send my blessing to you in the sixth year, and it shall make its produce for three years.
+- brenton: Then will I send my blessing upon you in the sixth year, and the land shall produce its fruits for three years.
+
+### Leviticus 25:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall sow in the eighth year and eat from the old produce until the ninth year; until its produce comes in, you shall eat old stores of old things.
+- brenton: And ye shall sow in the eighth year, and eat old fruits till the ninth year: until its fruit come, ye shall eat old fruits of the old.
+
+### Leviticus 25:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the land shall not be sold into permanence, because the land is mine. For you are newcomers and residents before me.
+- brenton: And the land shall not be sold for a permanence; for the land is mine, because ye are strangers and sojourners before me.
+
+### Leviticus 25:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And through all the land of your possession you shall give redemption for the land.
+- brenton: And in every land of your possession, ye shall allow ransoms for the land.
+
+### Leviticus 25:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if your brother beside you becomes poor and sells from his possession, and his near kinsman comes, the one nearest to him, he shall redeem the sale of his brother.
+- brenton: And if thy brother who is with thee be poor, and should have sold part of his possession, and his kinsman who is nigh to him come, then he shall redeem the possession which his brother has sold.
+
+### Leviticus 25:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he has no kinsman, but his hand prospers and sufficient redemption is found for him,
+- brenton: And if one have no near kinsman, and he prosper with his hand, and he find sufficient money, even his ransom;
+
+### Leviticus 25:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then he shall calculate the years of his sale and pay back the surplus to the man to whom he sold himself, and he shall return to his possession.
+- brenton: then shall he calculate the years of his sale, and he shall give what is due to the man to whom he sold it, and he shall return to his possession.
+
+### Leviticus 25:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if his hand does not prosper enough to repay him, then the sale shall remain with the one who acquired it until the year of release, and he shall go out in the release and return to his possession.
+- brenton: But if his hand have not prospered sufficiently, so as that he should restore the money to him, then he that bought the possessions shall have them till the sixth year of the release; and it shall go out in the release, and the owner shall return to his possession.
+
+### Leviticus 25:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if anyone sells a dwelling house in a walled city, its redemption shall continue until a full year of days is completed; its redemption shall last a full year.
+- brenton: And if any one should sell an inhabited house in a walled city, then there shall be the ransom of it, until the time is fulfilled: its time of ransom shall be a full year.
+
+### Leviticus 25:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it is not redeemed until a whole year is completed for it, then the house in the city that has a wall shall be confirmed permanently to the one who acquired it, throughout his generations. It shall not go out in the release.
+- brenton: And if it be not ransomed until there be completed of its time a full year, the house which is in the walled city shall be surely confirmed to him that bought it, throughout his generations; and it shall not go out in the release.
+
+### Leviticus 25:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the houses in villages that have no wall around them shall be counted with the field of the land. They shall always be redeemable, and in the release they shall go out.
+- brenton: But the houses in the villages which have not a wall round about them, shall be reckoned as the fields of the country: they shall always be redeemable, and they shall go out in the release.
+
+### Leviticus 25:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cities of the Levites, the houses of the cities of their possession, shall always be redeemable for the Levites.
+- brenton: And the cities of the Levites, the houses of the cities in their possession, shall be always redeemable to the Levites.
+
+### Leviticus 25:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whoever redeems from the Levites, then the sale of houses of the city of their possession shall go out in the release, because the houses of the cities of the Levites are their possession in the midst of the sons of Israel.
+- brenton: And if any one shall redeem a house of the Levites, then shall their sale of the houses of their possession go out in the release; because the houses of the cities of the Levites are their possession in the midst of the children of Israel.
+
+### Leviticus 25:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fields set apart for their cities shall not be sold, because this is their everlasting possession.
+- brenton: And the lands set apart for their cities shall not be sold, because this is their perpetual possession.
+
+### Leviticus 25:35
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And if your brother becomes poor and grows weak in his hands beside you, you shall take hold of him as of a newcomer and a resident, and your brother shall live with you.
+- brenton: And if thy brother who is with thee become poor, and he fail in resources with thee, thou shalt help him as a stranger and a sojourner, and thy brother shall live with thee.
+
+### Leviticus 25:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not take interest from him, nor increase, and you shall fear your God. I am the Lord, and your brother shall live with you.
+- brenton: Thou shalt not receive from him interest, nor increase: and thou shalt fear thy God: I am the Lord: and thy brother shall live with thee.
+
+### Leviticus 25:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Your silver you shall not give to him at interest, and your food you shall not give to him for increase.
+- brenton: Thou shalt not lend thy money to him at interest, and thou shalt not lend thy meat to him to be returned with increase.
+
+### Leviticus 25:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I am the Lord your God, who brought you out from the land of Egypt, to give you the land of Canaan, so as to be your God.
+- brenton: I am the Lord your God, who brought you out of the land of Egypt, to give you the land of Chanaan, so as to be your God.
+
+### Leviticus 25:39
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And if your brother beside you is humbled and is sold to you, he shall not serve you with a servant's service.
+- brenton: And if thy brother by thee be lowered, and be sold to thee, he shall not serve thee with the servitude of a slave.
+
+### Leviticus 25:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall be with you as a hired worker or a resident. He shall work beside you until the year of release,
+- brenton: He shall be with thee as a hireling or a sojourner, he shall work for thee till the year of release:
+
+### Leviticus 25:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and he shall go out in the release, he and his children with him, and he shall return to his family; to his paternal possession he shall run back.
+- brenton: and he shall go out in the release, and his children with him; and he shall go to his family, he shall hasten back to his patrimony.
+
+### Leviticus 25:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because these are my domestics, whom I brought out from the land of Egypt. They shall not be sold in a servant's sale.
+- brenton: Because these are my servants, whom I brought out of the land of Egypt; such an one shall not be sold as a common servant.
+
+### Leviticus 25:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not stretch him hard in toil, and you shall fear the Lord your God.
+- brenton: Thou shalt not oppress him with labour, and shalt fear the Lord thy God.
+
+### Leviticus 25:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And slave and slave-girl, as many as may come to you from the nations that are around you, from them you shall acquire male slave and female slave.
+- brenton: And whatever number of men-servants and maid-servants thou shalt have, thou shalt purchase male and female servants from the nations that are round about thee.
+
+### Leviticus 25:45
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the sons of the residents who are among you, from these you shall acquire, and from their families, as many as may be born in your land, and they shall be for you as a possession.
+- brenton: And of the sons of the sojourners that are among you, of these ye shall buy and of their relations, all that shall be in your lands; let them be to you for a possession.
+
+### Leviticus 25:46
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall distribute them to your children after you, and they shall be for you as permanent holdings forever. But among your brothers, the sons of Israel, no one shall stretch his brother hard in toils.
+- brenton: And ye shall distribute them to your children after you, and they shall be to you permanent possessions for ever: but of your brethren the children of Israel, one shall not oppress his brother in labours.
+
+### Leviticus 25:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the hand of the newcomer or the resident beside you prospers, and your brother grows poor and is sold to the newcomer or resident beside you, to one born from newcomer stock,
+- brenton: And if a stranger or sojourner with thee wax rich, and thy brother in distress be sold to the stranger or the sojourner that is with thee, or to a proselyte by extraction;
+
+### Leviticus 25:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: after he has been sold, redemption shall be for him; one of his brothers shall redeem him.
+- brenton: after he is sold to him there shall be redemption for him, one of his brethren shall redeem him.
+
+### Leviticus 25:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His father's brother or the son of his father's brother shall redeem him, or one from his own flesh, from his tribe, shall redeem him. But if he prospers in his hands, he may redeem himself.
+- brenton: A brother of his father, or son of his father's brother shall redeem him; or let one of his near kin of his tribe redeem him, and if he should be rich and redeem himself,
+
+### Leviticus 25:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall calculate with the one who acquired him from the year that he sold himself to him until the year of release, and the silver of his sale shall be according to a hired worker's wage, year by year it shall be with him.
+- brenton: then shall he calculate with his purchaser from the year that he sold himself to him until the year of release: and the money of his purchase shall be as that of a hireling, he shall be with him from year to year.
+
+### Leviticus 25:51
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if many years remain, according to these he shall pay his redemption from the silver of his sale.
+- brenton: And if any have a greater number of years than enough, according to these he shall pay his ransom out of his purchase-money.
+
+### Leviticus 25:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if only a few years remain until the year of release, then he shall calculate for him according to his years, and he shall pay his redemption.
+- brenton: And if but a little time be left of the years to the year of release, then shall he reckon to him according to his years, and shall pay his ransom
+
+### Leviticus 25:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall be with him as a hired worker year by year. You shall not stretch him hard in toil before you.
+- brenton: as a hireling; he shall be with him from year to year; thou shalt not oppress him with labour before thee.
+
+### Leviticus 25:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he is not redeemed by these means, he shall go out in the year of release, he and his children with him.
+- brenton: And if he do not pay his ransom accordingly, he shall go out in the year of his release, he and his children with him.
+
+### Leviticus 25:55
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
+- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
