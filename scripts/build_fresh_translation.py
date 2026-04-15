@@ -83,15 +83,28 @@ def bullet_lines(rows: List[Dict[str, str]], fields: List[str]) -> List[str]:
 def describe_scope(source_rows: List[Dict[str, str]]) -> str:
     if not source_rows:
         return "Unknown scope"
-    book_names = [row.get("book_name", "").strip() for row in source_rows if row.get("book_name", "").strip()]
-    book_name = book_names[0] if book_names else "Unknown Book"
+    ordered_books: List[str] = []
+    for row in source_rows:
+        book_name = row.get("book_name", "").strip()
+        if book_name and book_name not in ordered_books:
+            ordered_books.append(book_name)
+    if not ordered_books:
+        return "Unknown Book"
+    if len(ordered_books) > 1:
+        return f"{ordered_books[0]}-{ordered_books[-1]} ({len(ordered_books)} books)"
     chapters = sorted({int(row.get("chapter", "").strip()) for row in source_rows if row.get("chapter", "").strip()})
     if not chapters:
-        return book_name
+        return ordered_books[0]
     if chapters == list(range(chapters[0], chapters[-1] + 1)):
-        return f"{book_name} {chapters[0]}-{chapters[-1]}"
+        return f"{ordered_books[0]} {chapters[0]}-{chapters[-1]}"
     chapter_list = ", ".join(str(ch) for ch in chapters)
-    return f"{book_name} {chapter_list}"
+    return f"{ordered_books[0]} {chapter_list}"
+
+
+def filter_output_rows(source_rows: List[Dict[str, str]], skip_undrafted: bool) -> List[Dict[str, str]]:
+    if not skip_undrafted:
+        return source_rows
+    return [row for row in source_rows if row.get("draft_translation", "").strip()]
 
 
 def build_markdown(
@@ -101,21 +114,34 @@ def build_markdown(
     footnotes: Dict[str, List[Dict[str, str]]],
     variants: Dict[str, List[Dict[str, str]]],
     stack: Dict[str, object],
+    scope_rows: List[Dict[str, str]] | None = None,
+    drafted_only: bool = False,
 ) -> str:
-    scope = describe_scope(source_rows)
+    scope = describe_scope(scope_rows or source_rows)
     preferred_resources = stack.get("preferred_resources", []) if isinstance(stack, dict) else []
     lines = [
         "# Fresh Translation Worksheet",
         "",
         f"Scope: {scope}",
         "",
+    ]
+    if drafted_only:
+        lines.extend(
+            [
+                "Display: drafted verses only",
+                "",
+            ]
+        )
+    lines.extend(
+        [
         "Method:",
         "- Greek source text first",
         "- Era-aware lexical research",
         "- Phrase-level decision logging",
         "- Variant-impact notes kept separate",
         "",
-    ]
+        ]
+    )
 
     if preferred_resources:
         lines.append("Preferred Logos stack:")
@@ -131,15 +157,22 @@ def build_markdown(
                 lines.append("- " + " | ".join(parts))
         lines.append("")
 
+    current_book = None
     current_chapter = None
     for row in source_rows:
         ref = row["ref"].strip()
+        book_name = row.get("book_name", "").strip()
         chapter = row.get("chapter", "").strip()
+        if book_name != current_book:
+            current_book = book_name
+            current_chapter = None
+            lines.append(f"# {book_name}")
+            lines.append("")
         if chapter != current_chapter:
             current_chapter = chapter
-            lines.append(f"# Chapter {chapter}")
+            lines.append(f"## Chapter {chapter}")
             lines.append("")
-        lines.append(f"## {ref}")
+        lines.append(f"### {ref}")
         lines.append("")
         lines.append(f"Greek: {row.get('greek_text', '').strip() or '[TODO add Greek text]'}")
         lines.append(f"Transliteration: {row.get('transliteration', '').strip() or '[TODO]'}")
@@ -183,23 +216,41 @@ def build_markdown(
     return "\n".join(lines).strip() + "\n"
 
 
-def build_translation_only_markdown(source_rows: List[Dict[str, str]]) -> str:
-    scope = describe_scope(source_rows)
+def build_translation_only_markdown(
+    source_rows: List[Dict[str, str]],
+    scope_rows: List[Dict[str, str]] | None = None,
+    drafted_only: bool = False,
+) -> str:
+    scope = describe_scope(scope_rows or source_rows)
     lines = [
         "# Fresh Translation Draft",
         "",
         f"Scope: {scope}",
         "",
     ]
+    if drafted_only:
+        lines.extend(
+            [
+                "Display: drafted verses only",
+                "",
+            ]
+        )
 
+    current_book = None
     current_chapter = None
     for row in source_rows:
+        book_name = row.get("book_name", "").strip()
         chapter = row.get("chapter", "").strip()
         ref = row.get("ref", "").strip()
         draft = row.get("draft_translation", "").strip()
+        if book_name != current_book:
+            current_book = book_name
+            current_chapter = None
+            lines.append(f"## {book_name}")
+            lines.append("")
         if chapter != current_chapter:
             current_chapter = chapter
-            lines.append(f"## Chapter {chapter}")
+            lines.append(f"### Chapter {chapter}")
             lines.append("")
         lines.append(f"**{ref}**")
         lines.append("")
@@ -217,10 +268,19 @@ def build_diagnostics(
     variants: List[Dict[str, str]],
     stack: Dict[str, object],
 ) -> Dict[str, object]:
+    book_rows: Dict[str, Dict[str, int]] = {}
+    for row in source_rows:
+        book_name = row.get("book_name", "").strip() or "Unknown Book"
+        current = book_rows.setdefault(book_name, {"verse_rows": 0, "drafted_rows": 0})
+        current["verse_rows"] += 1
+        if row.get("draft_translation", "").strip():
+            current["drafted_rows"] += 1
     return {
         "verse_rows": len(source_rows),
         "verses_with_greek_text": sum(1 for row in source_rows if row.get("greek_text", "").strip()),
         "verses_with_draft_translation": sum(1 for row in source_rows if row.get("draft_translation", "").strip()),
+        "book_count": len(book_rows),
+        "book_rows": book_rows,
         "logos_note_rows": len(logos_notes),
         "decision_rows": len(decisions),
         "footnote_rows": len(footnotes),
@@ -258,6 +318,7 @@ def main() -> None:
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--translation-only-output", default=str(DEFAULT_TRANSLATION_ONLY))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
+    parser.add_argument("--skip-undrafted", action="store_true")
     args = parser.parse_args()
 
     source_path = Path(args.source)
@@ -282,17 +343,25 @@ def main() -> None:
     translation_only_output_path.parent.mkdir(parents=True, exist_ok=True)
     diagnostics_path.parent.mkdir(parents=True, exist_ok=True)
 
+    output_rows = filter_output_rows(source_rows, skip_undrafted=args.skip_undrafted)
+
     markdown = build_markdown(
-        source_rows,
+        output_rows,
         group_by_ref(logos_rows),
         group_by_ref(decisions_rows),
         group_by_ref(footnote_rows),
         group_by_ref(variant_rows),
         stack,
+        scope_rows=source_rows,
+        drafted_only=args.skip_undrafted,
     )
     output_path.write_text(markdown, encoding="utf-8")
 
-    translation_only_markdown = build_translation_only_markdown(source_rows)
+    translation_only_markdown = build_translation_only_markdown(
+        output_rows,
+        scope_rows=source_rows,
+        drafted_only=args.skip_undrafted,
+    )
     translation_only_output_path.write_text(translation_only_markdown, encoding="utf-8")
 
     diagnostics = build_diagnostics(source_rows, logos_rows, decisions_rows, footnote_rows, variant_rows, stack)

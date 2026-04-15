@@ -1,0 +1,340 @@
+{
+  "verse_rows": 23351,
+  "verses_with_greek_text": 23351,
+  "verses_with_draft_translation": 80,
+  "book_count": 39,
+  "book_rows": {
+    "Genesis": {
+      "verse_rows": 1531,
+      "drafted_rows": 80
+    },
+    "Exodus": {
+      "verse_rows": 1163,
+      "drafted_rows": 0
+    },
+    "Leviticus": {
+      "verse_rows": 859,
+      "drafted_rows": 0
+    },
+    "Numbers": {
+      "verse_rows": 1287,
+      "drafted_rows": 0
+    },
+    "Deuteronomy": {
+      "verse_rows": 959,
+      "drafted_rows": 0
+    },
+    "Joshua": {
+      "verse_rows": 643,
+      "drafted_rows": 0
+    },
+    "Judges": {
+      "verse_rows": 618,
+      "drafted_rows": 0
+    },
+    "Ruth": {
+      "verse_rows": 85,
+      "drafted_rows": 0
+    },
+    "1 Samuel": {
+      "verse_rows": 772,
+      "drafted_rows": 0
+    },
+    "2 Samuel": {
+      "verse_rows": 695,
+      "drafted_rows": 0
+    },
+    "1 Kings": {
+      "verse_rows": 756,
+      "drafted_rows": 0
+    },
+    "2 Kings": {
+      "verse_rows": 719,
+      "drafted_rows": 0
+    },
+    "1 Chronicles": {
+      "verse_rows": 930,
+      "drafted_rows": 0
+    },
+    "2 Chronicles": {
+      "verse_rows": 821,
+      "drafted_rows": 0
+    },
+    "Ezra": {
+      "verse_rows": 434,
+      "drafted_rows": 0
+    },
+    "Nehemiah": {
+      "verse_rows": 672,
+      "drafted_rows": 0
+    },
+    "Esther": {
+      "verse_rows": 164,
+      "drafted_rows": 0
+    },
+    "Job": {
+      "verse_rows": 1069,
+      "drafted_rows": 0
+    },
+    "Psalms": {
+      "verse_rows": 2526,
+      "drafted_rows": 0
+    },
+    "Proverbs": {
+      "verse_rows": 912,
+      "drafted_rows": 0
+    },
+    "Ecclesiastes": {
+      "verse_rows": 222,
+      "drafted_rows": 0
+    },
+    "Song of Solomon": {
+      "verse_rows": 117,
+      "drafted_rows": 0
+    },
+    "Isaiah": {
+      "verse_rows": 1289,
+      "drafted_rows": 0
+    },
+    "Jeremiah": {
+      "verse_rows": 1299,
+      "drafted_rows": 0
+    },
+    "Lamentations": {
+      "verse_rows": 151,
+      "drafted_rows": 0
+    },
+    "Ezekiel": {
+      "verse_rows": 1267,
+      "drafted_rows": 0
+    },
+    "Daniel": {
+      "verse_rows": 341,
+      "drafted_rows": 0
+    },
+    "Hosea": {
+      "verse_rows": 197,
+      "drafted_rows": 0
+    },
+    "Joel": {
+      "verse_rows": 73,
+      "drafted_rows": 0
+    },
+    "Amos": {
+      "verse_rows": 146,
+      "drafted_rows": 0
+    },
+    "Obadiah": {
+      "verse_rows": 21,
+      "drafted_rows": 0
+    },
+    "Jonah": {
+      "verse_rows": 48,
+      "drafted_rows": 0
+    },
+    "Micah": {
+      "verse_rows": 105,
+      "drafted_rows": 0
+    },
+    "Nahum": {
+      "verse_rows": 47,
+      "drafted_rows": 0
+    },
+    "Habakkuk": {
+      "verse_rows": 56,
+      "drafted_rows": 0
+    },
+    "Zephaniah": {
+      "verse_rows": 53,
+      "drafted_rows": 0
+    },
+    "Haggai": {
+      "verse_rows": 38,
+      "drafted_rows": 0
+    },
+    "Zechariah": {
+      "verse_rows": 211,
+      "drafted_rows": 0
+    },
+    "Malachi": {
+      "verse_rows": 55,
+      "drafted_rows": 0
+    }
+  },
+  "logos_note_rows": 36,
+  "decision_rows": 63,
+  "footnote_rows": 31,
+  "variant_rows": 48,
+  "decision_status_counts": {
+    "todo": 0,
+    "drafted": 63,
+    "reviewed": 0
+  },
+  "footnote_status_counts": {
+    "todo": 0,
+    "drafted": 31,
+    "reviewed": 0
+  },
+  "chapters": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150"
+  ],
+  "preferred_resource_roles": [
+    "base_text_primary",
+    "base_text_fallback",
+    "morphology_text",
+    "lexicon_primary",
+    "apparatus_primary",
+    "interlinear_primary",
+    "grammar_primary",
+    "manuscript_check"
+  ]
+}
