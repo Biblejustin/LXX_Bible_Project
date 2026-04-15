@@ -1,14 +1,14 @@
 # Fresh vs Brenton OT Comparison
 
-Drafted rows compared: 574
+Drafted rows compared: 1243
 Books with drafts: Exodus, Genesis
 Missing Brenton rows: 0
 
 Importance counts:
-- high: 166
-- medium: 74
-- low: 330
-- none: 4
+- high: 223
+- medium: 172
+- low: 829
+- none: 19
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -4461,6 +4461,6027 @@ Note:
 - same_normalized: no
 - fresh: Then Moses sent away his father-in-law, and he went to his own land.
 - brenton: And Moses dismissed his father-in-law, and he returned to his own land.
+
+### Exodus 19:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the third month of the departure of the sons of Israel from the land of Egypt, on this day they came into the wilderness of Sinai.
+- brenton: And in the third month of the departure of the children of Israel out of the land of Egypt, on the same day, they came into the wilderness of Sina.
+
+### Exodus 19:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Raphidin and came into the wilderness of Sinai, and Israel camped there opposite the mountain.
+- brenton: And they departed from Raphidin, and came into the wilderness of Sina, and there Israel encamped before the mountain.
+
+### Exodus 19:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses went up to the mountain of God, and God called to him from the mountain, saying, "These things you shall say to the house of Jacob, and you shall announce to the sons of Israel:"
+- brenton: And Moses went up to the mount of God, and God called him out of the mountain, saying, These things shalt thou say to the house of Jacob, and thou shalt report them to the children of Israel.
+
+### Exodus 19:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You yourselves have seen what I did to the Egyptians, and I took you up as on wings of eagles, and I brought you near to myself."
+- brenton: Ye have seen all that I have done to the Egyptians, and I took you up as upon eagles' wings, and I brought you near to myself.
+
+### Exodus 19:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "And now, if in hearing you hear my voice and keep my covenant, you shall be to me a people of special possession from among all the nations, for the whole earth is mine."
+- brenton: And now if ye will indeed hear my voice, and keep my covenant, ye shall be to me a peculiar people above all nations; for the whole earth is mine.
+
+### Exodus 19:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "And you shall be to me a royal priesthood and a holy nation. These are the words you shall speak to the sons of Israel."
+- brenton: And ye shall be to me a royal priesthood and a holy nation: these words shalt thou speak to the children of Israel.
+
+### Exodus 19:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then Moses came and called the elders of the people and set before them all these words that God had commanded him.
+- brenton: And Moses came and called the elders of the people, and he set before them all these words, which God appointed them.
+
+### Exodus 19:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And all the people answered with one accord and said, "All that God has spoken, we will do and we will hear." And Moses carried the words of the people up to God.
+- brenton: And all the people answered with one accord, and said, All things that God has spoken, we will do and hearken to: and Moses reported these words to God.
+
+### Exodus 19:9
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Then the Lord said to Moses, "Look, I am coming to you in a pillar of cloud, so that the people may hear me speaking with you and may trust you forever." And Moses reported the words of the people to the Lord.
+- brenton: And the Lord said to Moses, Lo! I come to thee in a pillar of a cloud, that the people may hear me speaking to thee, and may believe thee for ever: and Moses reported the words of the people to the Lord.
+
+### Exodus 19:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Go down and solemnly warn the people, and purify them today and tomorrow, and let them wash their garments,"
+- brenton: And the Lord said to Moses, Go down and solemnly charge the people, and sanctify them to-day and to-morrow, and let them wash their garments.
+
+### Exodus 19:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "and let them be ready for the third day, for on the third day the Lord will come down upon Mount Sinai before all the people."
+- brenton: And let them be ready against the third day, for on the third day the Lord will descend upon mount Sina before all the people.
+
+### Exodus 19:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "And you shall mark off the people all around, saying, Take heed for yourselves not to go up on the mountain or touch any part of it. Everyone who touches the mountain shall surely die."
+- brenton: And thou shalt separate the people round about, saying, Take heed to yourselves that ye go not up into the mountain, nor touch any part of it: every one that touches the mountain shall surely die.
+
+### Exodus 19:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "No hand shall touch him, for he shall certainly be stoned with stones or shot through with a missile. Whether beast or man, he shall not live. When the voices and the trumpets and the cloud depart from the mountain, they may come up on the mountain."
+- brenton: A hand shall not touch it, for every one that touches shall be stoned with stones or shot through with a dart, whether beast or whether man, it shall not live: when the voices and trumpets and cloud depart from off the mountain, they shall come up on the mountain.
+
+### Exodus 19:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then Moses went down from the mountain to the people and sanctified them, and they washed their garments.
+- brenton: And Moses went down from the mountain to the people, and sanctified them, and they washed their clothes.
+
+### Exodus 19:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to the people, "Be ready for three days. Do not come near a woman."
+- brenton: And he said to the people, Be ready: for three days come not near to a woman.
+
+### Exodus 19:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened on the third day, when morning came, that there were voices and lightnings and a gloomy cloud on Mount Sinai. The sound of the trumpet rang out loudly, and all the people in the camp were terrified.
+- brenton: And it came to pass on the third day, as the morning drew nigh, there were voices and lightnings and a dark cloud on mount Sina: the voice of the trumpet sounded loud, and all the people in the camp trembled.
+
+### Exodus 19:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought the people out from the camp to meet God, and they stood beneath the mountain.
+- brenton: And Moses led the people forth out of the camp to meet God, and they stood by under the mountain.
+
+### Exodus 19:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Mount Sinai smoked all over because God had come down upon it in fire, and the smoke went up like the smoke of a furnace, and all the people were exceedingly astonished.
+- brenton: The mount of Sina was altogether on a smoke, because God had descended upon it in fire; and the smoke went up as the smoke of a furnace, and the people were exceedingly amazed.
+
+### Exodus 19:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sounds of the trumpet kept advancing, growing much stronger. Moses was speaking, and God answered him with a voice.
+- brenton: And the sounds of the trumpet were waxing very much louder. Moses spoke, and God answered him with a voice.
+
+### Exodus 19:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord came down on Mount Sinai, on the top of the mountain, and the Lord called Moses to the top of the mountain, and Moses went up.
+- brenton: And the Lord came down upon mount Sina on the top of the mountain; and the Lord called Moses to the top of the mountain, and Moses went up.
+
+### Exodus 19:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said to Moses, saying, "Go down and solemnly warn the people lest they draw near to God to gaze, and a multitude from among them fall."
+- brenton: And God spoke to Moses, saying, Go down, and solemnly charge the people, lest at any time they draw nigh to God to gaze, and a multitude of them fall.
+
+### Exodus 19:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "And let the priests who draw near to the Lord God sanctify themselves, lest the Lord break out against some of them."
+- brenton: And let the priests that draw nigh to the Lord God sanctify themselves, lest he destroy some of them.
+
+### Exodus 19:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to God, "The people will not be able to come up to Mount Sinai, for you yourself solemnly warned us, saying, Mark off the mountain and sanctify it."
+- brenton: And Moses said to God, The people will not be able to approach to the mount of Sina, for thou hast solemnly charged us, saying, Set bounds to the mountain and sanctify it.
+
+### Exodus 19:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord said to him, "Go, go down, and then come up, you and Aaron with you. But let not the priests and the people force their way to come up to God, lest the Lord destroy some of them."
+- brenton: And the Lord said to him, Go, descend, and come up thou and Aaron with thee; but let not the priests and the people force their way to come up to God, lest the Lord destroy some of them.
+
+### Exodus 19:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then Moses went down to the people and spoke to them.
+- brenton: And Moses went down to the people, and spoke to them.
+
+### Exodus 20:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke all these words, saying,
+- brenton: And the Lord spoke all these words, saying:
+
+### Exodus 20:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "I am the Lord your God, who brought you out from the land of Egypt, out of the house of slavery."
+- brenton: I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+
+### Exodus 20:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "No other gods shall be yours besides me."
+- brenton: Thou shalt have no other gods beside me.
+
+### Exodus 20:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not make for yourself an idol, nor any likeness of whatever is in heaven above and whatever is in the earth below and whatever is in the waters beneath the earth."
+- brenton: Thou shalt not make to thyself an idol, nor likeness of anything, whatever things are in the heaven above, and whatever are in the earth beneath, and whatever are in the waters under the earth.
+
+### Exodus 20:5
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not bow down to them, nor indeed serve them, for I am the Lord your God, a jealous God, repaying fathers' sins upon children to the third and fourth generation of those who hate me,"
+- brenton: Thou shalt not bow down to them, nor serve them; for I am the Lord thy God, a jealous God, recompensing the sins of the fathers upon the children, to the third and fourth generation to them that hate me,
+
+### Exodus 20:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "and showing mercy into thousands for those who love me and keep my commandments."
+- brenton: and bestowing mercy on them that love me to thousands of them, and on them that keep my commandments.
+
+### Exodus 20:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
+- brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
+
+### Exodus 20:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "Remember the day of the Sabbaths, to keep it holy."
+- brenton: Remember the sabbath day to keep it holy.
+
+### Exodus 20:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "For six days you shall work and do all your works,"
+- brenton: Six days thou shalt labour, and shalt perform all thy work.
+
+### Exodus 20:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "but the seventh day is Sabbath to the Lord your God. On it you shall do no work, you and your son and your daughter, your male servant and your female servant, your ox and your pack animal and every beast of yours and the newcomer staying among you."
+- brenton: But on the seventh day is the sabbath of the Lord thy God; on it thou shalt do no work, thou, nor thy son, nor thy daughter, thy servant nor thy maidservant, thine ox nor thine ass, nor any cattle of thine, nor the stranger that sojourns with thee.
+
+### Exodus 20:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "For in six days the Lord made heaven and earth and the sea and everything in them, and he rested on the seventh day. Therefore the Lord blessed the seventh day and sanctified it."
+- brenton: For in six days the Lord made the heaven and the earth, and the sea and all things in them, and rested on the seventh day; therefore the Lord blessed the seventh day, and hallowed it.
+
+### Exodus 20:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "Honor your father and your mother, so that it may go well for you and so that you may become long-lived on the good land that the Lord your God is giving you."
+- brenton: Honour thy father and thy mother, that it may be well with thee, and that thou mayest live long on the good land, which the Lord thy God gives to thee.
+
+### Exodus 20:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not commit adultery."
+- brenton: Thou shalt not commit adultery.
+
+### Exodus 20:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not steal."
+- brenton: Thou shalt not steal.
+
+### Exodus 20:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not murder."
+- brenton: Thou shalt not kill.
+
+### Exodus 20:16
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not bear false witness against your neighbor, false testimony."
+- brenton: Thou shalt not bear false witness against thy neighbour.
+
+### Exodus 20:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not desire your neighbor's wife. You shall not desire your neighbor's house, nor his field, nor his male servant, nor his female servant, nor his ox, nor his pack animal, nor any beast of his, nor whatever belongs to your neighbor."
+- brenton: Thou shalt not covet thy neighbour's wife; thou shalt not covet thy neighbour's house; nor his field, nor his servant, nor his maid, nor his ox, nor his ass, nor any of his cattle, nor whatever belongs to thy neighbour.
+
+### Exodus 20:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And all the people were seeing the voice and the torches and the sound of the trumpet and the mountain smoking. And all the people were afraid and stood far off,
+- brenton: And all the people perceived the thundering, and the flashes, and the voice of the trumpet, and the mountain smoking; and all the people feared and stood afar off,
+
+### Exodus 20:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they said to Moses, "You speak to us, and let not God speak to us, lest we die."
+- brenton: and said to Moses, Speak thou to us, and let not God speak to us, lest we die.
+
+### Exodus 20:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses said to them, "Take courage, for God has come for the sake of testing you, so that his fear may be among you, so that you may not sin."
+- brenton: And Moses says to them, Be of good courage, for God is come to you to try you, that his fear may be among you, that ye sin not.
+
+### Exodus 20:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the people stood far off, but Moses entered into the gloom where God was.
+- brenton: And the people stood afar off, and Moses went into the darkness where God was.
+
+### Exodus 20:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then the Lord said to Moses, "These things you shall say to the house of Jacob, and you shall announce to the sons of Israel: You yourselves have seen that from heaven I have spoken to you."
+- brenton: And the Lord said to Moses, Thus shalt thou say to the house of Jacob, and thou shalt report it to the children of Israel, Ye have seen that I have spoken to you from heaven.
+
+### Exodus 20:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "You shall not make for yourselves gods of silver, and gods of gold you shall not make for yourselves."
+- brenton: Ye shall not make to yourselves gods of silver, and gods of gold ye shall not make to yourselves.
+
+### Exodus 20:24
+
+- importance: high
+- decisions: 2
+- footnotes: 2
+- same_normalized: no
+- fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I name my name, there I will come to you and bless you."
+- brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
+
+### Exodus 20:25
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: "But if you make me an altar of stones, you shall not build them cut, for you have laid your tool upon them, and they have been defiled."
+- brenton: And if thou wilt make to me an altar of stones, thou shalt not build them hewn stones; for thou hast lifted up thy tool upon them, and they are defiled.
+
+### Exodus 20:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "And you shall not go up by steps to my altar, so that you do not uncover your indecency upon it."
+- brenton: Thou shalt not go up to my altar by steps, that thou mayest not uncover thy nakedness upon it.
+
+### Exodus 21:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the ordinances that you shall set before them.
+- brenton: And these are the ordinances which thou shalt set before them.
+
+### Exodus 21:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you buy a Hebrew servant, six years he shall serve you, and in the seventh year he shall go out free for nothing.
+- brenton: If thou buy a Hebrew servant, six years shall he serve thee, and in the seventh year he shall go forth free for nothing.
+
+### Exodus 21:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If he comes in alone, he shall also go out alone. But if his wife comes in with him, his wife shall also go out with him.
+- brenton: If he should have come in alone, he shall also go forth alone; and if his wife should have gone in together with him, his wife also shall go out.
+
+### Exodus 21:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if his master gives him a wife and she bears him sons or daughters, the wife and the children shall belong to his master, and he alone shall go out.
+- brenton: Moreover, if his master give him a wife, and she have born him sons or daughters, the wife and the children shall be his master's; and he shall go forth alone.
+
+### Exodus 21:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the servant answers and says, "I have loved my master and my wife and my children. I will not run away free,"
+- brenton: And if the servant should answer and say, I love my master and wife and children, I will not go away free;
+
+### Exodus 21:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: then his master shall bring him to the judgment-seat of God. Then he shall bring him to the door, to the doorpost, and his master shall pierce his ear with an awl, and he shall serve him forever.
+- brenton: his master shall bring him to the judgment-seat of God, and then shall he bring him to the door,—to the door-post, and his master shall bore his ear through with an awl, and he shall serve him for ever.
+
+### Exodus 21:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone sells his own daughter as a household servant, she shall not go out as the female servants go out.
+- brenton: And if any one sell his daughter as a domestic, she shall not depart as the maid-servants depart.
+
+### Exodus 21:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If she does not please her master, to whom she had been promised, he shall let her be redeemed. He has no authority to sell her to a foreign nation, because he has broken faith with her.
+- brenton: If she be not pleasing to her master, after she has betrothed herself to him, he shall let her go free; but he is not at liberty to sell her to a foreign nation, because he has trifled with her.
+
+### Exodus 21:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he promises her to his son, he shall treat her according to the right of daughters.
+- brenton: And if he should have betrothed her to his son, he shall do to her according to the right of daughters.
+
+### Exodus 21:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if he takes another woman for himself, he shall not deprive her of what is needed, or of clothing, or of her companionship.
+- brenton: And if he take another to himself, he shall not deprive her of necessaries and her apparel, and her companionship with him.
+
+### Exodus 21:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he does not do these three things for her, she shall go out free, without money.
+- brenton: And if he will not do these three things to her, she shall go out free without money.
+
+### Exodus 21:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone strikes a person and he dies, let him certainly be put to death.
+- brenton: And if any man smite another and he die, let him be certainly put to death.
+
+### Exodus 21:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he did not do it willingly, and God delivered him into his hands, I will give you a place where the killer may flee.
+- brenton: But as for him that did it not willingly, but God delivered him into his hands, I will give thee a place whither the slayer may flee.
+
+### Exodus 21:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if someone attacks his neighbor to kill him with deceit, and he flees to my altar, you shall take him from there to put him to death.
+- brenton: And if any one lie in wait for his neighbour to slay him by craft, and he go for refuge, thou shalt take him from my altar to put him to death.
+
+### Exodus 21:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever strikes his father or his mother, let him certainly be put to death.
+- brenton: Whoever smites his father or his mother, let him be certainly put to death.
+
+### Exodus 21:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever reviles his father or his mother shall surely die.
+- brenton: He that reviles his father or his mother shall surely die.
+
+### Exodus 21:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever steals one of the sons of Israel, and after overpowering him sells him, and he is found in his hand, let him certainly be put to death.
+- brenton: Whosoever shall steal one of the children of Israel, and prevail over him and sell him, and he be found with him, let him certainly die.
+
+### Exodus 21:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If two men revile each other and one strikes his neighbor with a stone or with his fist and he does not die but is laid in bed,
+- brenton: And if two men revile each other and smite the one the other with a stone or his fist, and he die not, but be laid upon his bed;
+
+### Exodus 21:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: if the man rises and walks about outside on his staff, the one who struck him shall be clear. Yet he shall pay for his idleness and for his healing.
+- brenton: if the man arise and walk abroad on his staff, he that smote him shall be clear; only he shall pay for his loss of time, and for his healing.
+
+### Exodus 21:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone strikes his male servant or his female servant with a rod and the servant dies under his hands, let justice be exacted.
+- brenton: And if a man smite his man-servant or his maid-servant, with a rod, and the party die under his hands, he shall be surely punished.
+
+### Exodus 21:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the servant lives a day or two, he shall not be avenged, for he is his money.
+- brenton: But if the servant continue to live a day or two, let not the master be punished; for he is his money.
+
+### Exodus 21:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If two men fight and strike a pregnant woman, and her child comes out not yet formed, he shall pay a penalty according as the woman's husband lays upon him. He shall pay with assessment.
+- brenton: And if two men strive and smite a woman with child, and her child be born imperfectly formed, he shall be forced to pay a penalty: as the woman's husband may lay upon him, he shall pay with a valuation.
+
+### Exodus 21:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it is formed, he shall give life for life,
+- brenton: But if it be perfectly formed, he shall give life for life,
+
+### Exodus 21:24
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: eye for eye, tooth for tooth, hand for hand, foot for foot,
+- brenton: eye for eye, tooth for tooth, hand for hand, foot for foot,
+
+### Exodus 21:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: burn for burn, wound for wound, bruise for bruise.
+- brenton: burning for burning, wound for wound, stripe for stripe.
+
+### Exodus 21:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone strikes the eye of his servant or the eye of his female servant and blinds it, he shall send them out free for their eye.
+- brenton: And if one smite the eye of his man-servant, or the eye of his maid-servant, and put it out, he shall let them go free for their eye's sake.
+
+### Exodus 21:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he knocks out the tooth of his servant or the tooth of his female servant, he shall send them out free for their tooth.
+- brenton: And if he should smite out the tooth of his man-servant, or the tooth of his maid-servant, he shall send them away free for their tooth's sake.
+
+### Exodus 21:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If a bull gores a man or a woman and they die, the bull shall be stoned with stones, and its flesh shall not be eaten. But the bull's owner shall be clear.
+- brenton: And if a bull gore a man or woman and they die, the bull shall be stoned with stones, and his flesh shall not be eaten; but the owner of the bull shall be clear.
+
+### Exodus 21:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the bull has been a gorer since yesterday and the third day, and they have testified to its owner and he has not confined it, and it kills a man or a woman, the bull shall be stoned, and its owner shall also die.
+- brenton: But if the bull should have been given to goring in former time, and men should have told his owner, and he have not removed him, but he should have slain a man or woman, the bull shall be stoned, and his owner shall die also.
+
+### Exodus 21:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if a ransom is laid upon him, he shall give a ransom for his life, whatever they lay upon him.
+- brenton: And if a ransom should be imposed on him, he shall pay for the ransom of his soul as much as they shall lay upon him.
+
+### Exodus 21:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If it gores a son or a daughter, they shall do to him according to this ordinance.
+- brenton: And if the bull gore a son or daughter, let them do to him according to this ordinance.
+
+### Exodus 21:32
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if the bull gores a male servant or a female servant, he shall give thirty silver didrachms to their master, and the bull shall be stoned.
+- brenton: And if the bull gore a man-servant or maid-servant, he shall pay to their master thirty silver didrachms, and the bull shall be stoned.
+
+### Exodus 21:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone opens a pit or quarries a pit and does not cover it, and an ox or a donkey falls in there,
+- brenton: And if any one open a pit or dig a cavity in stone, and cover it not, and an ox or an ass fall in there,
+
+### Exodus 21:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the owner of the pit shall make compensation. He shall give silver to their owner, and the dead animal shall be his.
+- brenton: the owner of the pit shall make compensation; he shall give money to their owner, and the dead shall be his own.
+
+### Exodus 21:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If one person's bull gores the bull of his neighbor and it dies, they shall sell the living bull and divide its silver, and they shall divide the dead one.
+- brenton: And if any man's bull gore the bull of his neighbour, and it die, they shall sell the living bull and divide the money, and they shall divide the dead bull.
+
+### Exodus 21:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it is known that the bull has been a gorer since yesterday and the third day, and testimony had been made to its owner, and he did not confine it, he shall repay bull for bull, and the dead one shall be his.
+- brenton: But if the bull be known to have been given to goring in time past, and they have testified to his owner, and he have not removed him, he shall repay bull for bull, but the dead shall be his own.
+
+### Exodus 21:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone steals an ox or a sheep and slaughters it or sells it, he shall repay five oxen for the ox and four sheep for the sheep.
+- brenton: And if one steal an ox or a sheep, and kill it or sell it, he shall pay five calves for a calf, and four sheep for a sheep.
+
+### Exodus 22:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If the thief is found in the breach and is struck and dies, there is no bloodguilt for him.
+- brenton: And if the thief be found in the breach made by himself and be smitten and die, there shall not be blood shed for him.
+
+### Exodus 22:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the sun rises on him, there is guilt. He shall die in return. But if he has nothing, let him be sold for what was stolen.
+- brenton: But if the sun be risen upon him, he is guilty, he shall die instead; and if a thief have nothing, let him be sold in compensation for what he has stolen.
+
+### Exodus 22:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If the stolen thing is found alive in his hand, whether donkey or sheep, he shall repay them double.
+- brenton: And if the thing stolen be left and be in his hand alive, whether ox or sheep, he shall restore them two-fold.
+
+### Exodus 22:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone lets a field or vineyard be grazed and lets his beast graze another field, he shall repay from his own field according to its produce. But if it grazes the whole field, he shall repay the best of his own field and the best of his vineyard.
+- brenton: And if any one should feed down a field or a vineyard, and should send in his beast to feed down another field, he shall make compensation of his own field according to his produce; and if he shall have fed down the whole field, he shall pay for compensation the best of his own field and the best of his vineyard.
+
+### Exodus 22:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If fire goes out and finds thorns and sets aflame a threshing floor or sheaves or a field, the one who kindled the fire shall make repayment.
+- brenton: And if fire have gone forth and caught thorns, and should also set on fire threshing-floors or ears of corn or a field, he that kindled the fire shall make compensation.
+
+### Exodus 22:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone gives his neighbor silver or goods to keep, and it is stolen from the man's house, if the thief is found, he shall repay double.
+- brenton: And if any one give to his neighbour money or goods to keep, and they be stolen out of the man's house, if the thief be found, he shall repay double.
+
+### Exodus 22:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the thief is not found, the master of the house shall come before God and swear that he has surely not acted wickedly against any part of his neighbor's deposit.
+- brenton: But if the thief be not found, the master of the house shall come forward before God, and shall swear that surely he has not wrought wickedly in regard of any part of his neighbour's deposit,
+
+### Exodus 22:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In every matter of wrongdoing, concerning an ox and a beast of burden and a sheep and a garment and every alleged loss, whatever it may be, the judgment of both shall come before God, and the one convicted through God shall repay double to his neighbor.
+- brenton: according to every injury alleged, both concerning a calf, and an ass, and a sheep, and a garment, and every alleged loss, whatsoever in fact it may be,—the judgment of both shall proceed before God, and he that is convicted by God shall repay to his neighbour double.
+
+### Exodus 22:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone gives his neighbor a beast of burden or an ox or a sheep or any livestock to keep, and it is injured or dies or is taken captive, and no one knows,
+- brenton: And if any one give to his neighbour to keep a calf or sheep or any beast, and it be wounded or die or be taken, and no one know,
+
+### Exodus 22:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: an oath of God shall be between both of them, that he surely has not acted wickedly against any part of his neighbor's deposit. So its owner shall accept it, and he shall not repay.
+- brenton: an oath of God shall be between both, each swearing that he has surely not at all been guilty in the matter of his neighbour's deposit; and so his master shall hold him guiltless, and he shall not make compensation.
+
+### Exodus 22:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if it is stolen from him, he shall repay its owner.
+- brenton: And if it be stolen from him, he shall make compensation to the owner.
+
+### Exodus 22:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if it becomes beast-torn, he shall bring it as evidence of the prey, and he shall not repay.
+- brenton: And if it be seized of beasts, he shall bring him to witness the prey, and he shall not make compensation.
+
+### Exodus 22:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone borrows from his neighbor, and it is injured or dies or is taken captive, and its owner is not with it, he shall repay.
+- brenton: And if any one borrow ought of his neighbour, and it be wounded or die or be carried away, and the owner of it be not with it, he shall make compensation.
+
+### Exodus 22:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the owner is with it, he shall not repay. But if it is hired, it shall stand for its hire.
+- brenton: But if the owner be with it, he shall not make compensation: but if it be a hired thing, there shall be a compensation to him instead of his hire.
+
+### Exodus 22:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If someone entices an unbetrothed virgin and lies with her, he shall surely pay the bride-price and take her as wife for himself.
+- brenton: And if any one deceive a virgin that is not betrothed, and lie with her, he shall surely endow her for a wife to himself.
+
+### Exodus 22:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if her father utterly refuses and does not wish to give her to him as wife, he shall pay silver to her father according to the bride-price of virgins.
+- brenton: And if her father positively refuse, and will not consent to give her to him for a wife, he shall pay compensation to her father according to the amount of the dowry of virgins.
+
+### Exodus 22:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not preserve sorcerers alive.
+- brenton: Ye shall not save the lives of sorcerers.
+
+### Exodus 22:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone who lies with an animal, you shall certainly put them to death.
+- brenton: Every one that lies with a beast ye shall surely put to death.
+
+### Exodus 22:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one sacrificing to gods shall be destroyed by death, except to the Lord alone.
+- brenton: He that sacrifices to any gods but to the Lord alone, shall be destroyed by death.
+
+### Exodus 22:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not mistreat a newcomer, nor oppress him, for you were newcomers in the land of Egypt.
+- brenton: And ye shall not hurt a stranger, nor afflict him; for ye were strangers in the land of Egypt.
+
+### Exodus 22:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall mistreat no widow or orphan.
+- brenton: Ye shall hurt no widow or orphan.
+
+### Exodus 22:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if by evil-treatment you mistreat them, and crying out they cry to me, I will surely hear their voice.
+- brenton: And if ye should afflict them by ill-treatment, and they should cry aloud to me, I will surely hear their voice.
+
+### Exodus 22:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will become angry with wrath and kill you with the sword, and your wives shall be widows and your children orphans.
+- brenton: And I will be very angry, and will slay you with the sword, and your wives shall be widows and your children orphans.
+
+### Exodus 22:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you lend silver to your poor brother beside you, you shall not press him hard, nor lay interest upon him.
+- brenton: And if thou shouldest lend money to thy poor brother who is by thee, thou shalt not be hard upon him, thou shalt not exact usury of him.
+
+### Exodus 22:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you take your neighbor's garment as a pledge, you shall give it back to him before sunset.
+- brenton: And if thou take thy neighbour's garment for a pledge, thou shalt restore it to him before sunset.
+
+### Exodus 22:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For this alone is his covering; this is the garment of his nakedness. In what shall he sleep? So if he cries out to me, I will hear him, for I am merciful.
+- brenton: For this is his clothing, this is the only covering of his nakedness; wherein shall he sleep? If then he shall cry to me, I will hearken to him, for I am merciful.
+
+### Exodus 22:27
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not revile gods, and you shall not speak evil of a ruler of your people.
+- brenton: Thou shalt not revile the gods, nor speak ill of the ruler of thy people.
+
+### Exodus 22:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not delay the firstfruits of your threshing floor and your winepress. You shall give me the firstborn of your sons.
+- brenton: Thou shalt not keep back the first-fruits of thy threshing floor and press. The first-born of thy sons thou shalt give to me.
+
+### Exodus 22:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So you shall do with your ox and your sheep and your beast of burden. Seven days it shall be under its mother, and on the eighth day you shall give it to me.
+- brenton: So shalt thou do with thy calf and thy sheep and thine ass; seven days shall it be under the mother, and the eighth day thou shalt give it to me.
+
+### Exodus 22:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall be holy men to me, and you shall not eat flesh torn by beasts; you shall throw it to the dog.
+- brenton: And ye shall be holy men to me; and ye shall not eat flesh taken of beasts, ye shall cast it to the dog.
+
+### Exodus 23:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not accept a vain report. You shall not join with the unjust to become an unjust witness.
+- brenton: Thou shalt not receive a vain report: thou shalt not agree with the unjust man to become an unjust witness.
+
+### Exodus 23:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not be with the many for evil. You shall not side with a crowd to turn aside with the many so as to bend justice.
+- brenton: Thou shalt not associate with the multitude for evil; thou shalt not join thyself with a multitude to turn aside with the majority so as to shut out judgment.
+
+### Exodus 23:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not spare a poor man in judgment.
+- brenton: And thou shalt not spare a poor man in judgment.
+
+### Exodus 23:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you meet your enemy's ox or his beast of burden wandering, you shall surely turn it back and return it to him.
+- brenton: And if thou meet thine enemy's ox or his ass going astray, thou shalt turn them back and restore them to him.
+
+### Exodus 23:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you see your enemy's beast of burden fallen under its load, you shall not pass it by, but you shall help raise it with him.
+- brenton: And if thou see thine enemy's ass fallen under its burden, thou shalt not pass by it, but shalt help to raise it with him.
+
+### Exodus 23:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not pervert the judgment of a poor man in his case.
+- brenton: Thou shalt not wrest the sentence of the poor in his judgment.
+
+### Exodus 23:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Keep far from every unjust word. You shall not kill the innocent and the righteous, and you shall not justify the ungodly for gifts.
+- brenton: Thou shalt abstain from every unjust thing: thou shalt not slay the innocent and just, and thou shalt not justify the wicked for gifts.
+
+### Exodus 23:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not take gifts, for gifts blind the eyes of those who see and destroy just words.
+- brenton: And thou shalt not receive gifts; for gifts blind the eyes of the seeing, and corrupt just words.
+
+### Exodus 23:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not oppress a newcomer, for you know the soul of the newcomer, because you were newcomers in the land of Egypt.
+- brenton: And ye shall not afflict a stranger, for ye know the heart of a stranger; for ye were yourselves strangers in the land of Egypt.
+
+### Exodus 23:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six years you shall sow your land and gather its produce.
+- brenton: Six years thou shalt sow thy land, and gather in the fruits of it.
+
+### Exodus 23:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But in the seventh you shall make a release and let it rest, and the poor of your nation shall eat, and what they leave the wild beasts shall eat. So you shall do with your vineyard and your oliveyard.
+- brenton: But in the seventh year thou shalt let it rest, and leave it, and the poor of thy nation shall feed; and the wild beasts of the field shall eat that which remains: thus shalt thou do to thy vineyard and to thine oliveyard.
+
+### Exodus 23:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six days you shall do your works, but on the seventh day there shall be rest, so that your ox and your beast of burden may rest, and the son of your female servant and the newcomer may be refreshed.
+- brenton: Six days shalt thou do thy works, and on the seventh day there shall be rest, that thine ox and thine ass may rest, and that the son of thy maid-servant and the stranger may be refreshed.
+
+### Exodus 23:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Guard all that I have said to you, and you shall not mention the name of other gods, nor shall it be heard from your mouth.
+- brenton: Observe all things whatsoever I have commanded you; and ye shall make no mention of the name of other gods, neither shall they be heard out of your mouth.
+
+### Exodus 23:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Three times of the year celebrate a feast to me.
+- brenton: Keep ye a feast to me three times in the year.
+
+### Exodus 23:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Keep the feast of unleavened bread. Seven days you shall eat unleavened bread, just as I commanded you, at the time of the month of new grain, for in it you came out from Egypt. You shall not appear before me empty.
+- brenton: Take heed to keep the feast of unleavened bread: seven days ye shall eat unleavened bread, as I charged thee at the season of the month of new corn, for in it thou camest out of Egypt: thou shalt not appear before me empty.
+
+### Exodus 23:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep the feast of harvest of the first produce of your labors, whatever you sow in your field, and the feast of completion at the going out of the year, in the gathering of your labors from your field.
+- brenton: And thou shalt keep the feast of the harvest of first-fruits of thy labours, whatsoever thou shalt have sown in thy field, and the feast of completion at the end of the year in the gathering in of thy fruits out of thy field.
+
+### Exodus 23:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Three times of the year every male of yours shall appear before the Lord your God.
+- brenton: Three times in the year shall all thy males appear before the Lord thy God.
+
+### Exodus 23:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For when I cast out nations from before you and widen your borders, you shall not sacrifice the blood of my sacrifice with leaven, nor shall the fat of my feast lie down until morning.
+- brenton: For when I shall have cast out the nations from before thee, and shall have widened thy borders, thou shalt not offer the blood of my sacrifice with leaven, neither must the fat of my feast abide till the morning.
+
+### Exodus 23:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall bring the firstfruits of the first produce of your land into the house of the Lord your God. You shall not boil a lamb in its mother's milk.
+- brenton: Thou shalt bring the first-offerings of the first-fruits of thy land into the house of the Lord thy God. Thou shalt not seethe a lamb in its mother's milk.
+
+### Exodus 23:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And behold, I send my messenger before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
+- brenton: And, behold, I send my angel before thy face, that he may keep thee in the way, that he may bring thee into the land which I have prepared for thee.
+
+### Exodus 23:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Pay attention to yourself and listen to him, and do not disobey him, for he will never yield to you, because my name is upon him.
+- brenton: Take heed to thyself and hearken to him, and disobey him not; for he will not give way to thee, for my name is on him.
+
+### Exodus 23:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If you truly hear my voice and do all that I command you and keep my covenant, you shall be for me a people of special possession out of all nations, for all the earth is mine. And you shall be for me a royal priesthood and a holy nation. These are the words you shall speak to the sons of Israel. If you truly hear my voice and do all that I say to you, I will be hostile to your enemies and oppose those who oppose you.
+- brenton: If ye will indeed hear my voice, and if thou wilt do all the things I shall charge thee with, and keep my covenant, ye shall be to me a peculiar people above all nations, for the whole earth is mine; and ye shall be to me a royal priesthood, and a holy nation: these words shall ye speak to the children of Israel, If ye shall indeed hear my voice, and do all the things I shall tell thee, I will be an enemy to thine enemies, and an adversary to thine adversaries.
+
+### Exodus 23:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For my messenger shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
+- brenton: For my angel shall go as thy leader, and shall bring thee to the Amorite, and Chettite, and Pherezite, and Chananite, and Gergesite, and Evite, and Jebusite, and I will destroy them.
+
+### Exodus 23:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You shall not worship their gods, nor serve them. You shall not do according to their works, but by pulling down you shall pull down, and by breaking you shall break their pillars.
+- brenton: Thou shalt not worship their gods, nor serve them: thou shalt not do according to their works, but shalt utterly destroy them, and break to pieces their pillars.
+
+### Exodus 23:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall serve the Lord your God, and I will bless your bread and your wine and your water, and I will turn sickness away from you.
+- brenton: And thou shalt serve the Lord thy God, and I will bless thy bread and thy wine and thy water, and I will turn away sickness from you.
+
+### Exodus 23:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: None shall be barren or sterile in your land. I will fill up the number of your days.
+- brenton: There shall not be on thy land one that is impotent or barren. I will surely fulfil the number of thy days.
+
+### Exodus 23:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will send fear ahead of you and throw into confusion all the nations among whom you enter, and I will make all your adversaries flee.
+- brenton: And I will send terror before thee, and I will strike with amazement all the nations to which thou shalt come, and I will make all thine enemies to flee.
+
+### Exodus 23:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will send hornets ahead of you, and they shall drive out the Amorites and the Hivites and the Canaanites and the Hittites from before you.
+- brenton: And I will send hornets before thee, and thou shalt cast out the Amorites and the Evites, and the Chananites and the Chettites from thee.
+
+### Exodus 23:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I will not drive them out in one year, lest the land become desolate and the beasts of the earth multiply against you.
+- brenton: I will not cast them out in one year, lest the land become desolate, and the beasts of the field multiply against thee.
+
+### Exodus 23:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Little by little I will drive them out from before you, until you increase and inherit the land.
+- brenton: By little and little I will cast them out from before thee, until thou shalt be increased and inherit the earth.
+
+### Exodus 23:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will set your borders from the Red Sea to the Sea of the Philistines, and from the wilderness to the great river Euphrates. And I will give the inhabitants of the land into your hands, and I will drive them out from before you.
+- brenton: And I will set thy borders from the Red Sea, to the sea of the Phylistines, and from the wilderness to the great river Euphrates; and I will give into your hand those that dwell in the land, and will cast them out from thee.
+
+### Exodus 23:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall make no covenant with them or with their gods.
+- brenton: Thou shalt make no covenant with them and their gods.
+
+### Exodus 23:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall not dwell in your land, lest they make you sin against me. For if you serve their gods, these will be a stumbling block to you.
+- brenton: And they shall not dwell in thy land, lest they cause thee to sin against me; for if thou shouldest serve their gods, these will be an offence to thee.
+
+### Exodus 24:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Moses he said, "Come up to the Lord, you and Aaron and Nadab and Abihu and seventy of the elders of Israel, and worship from far off."
+- brenton: And to Moses he said, Go up to the Lord, thou and Aaron and Nadab and Abiud, and seventy of the elders of Israel: and they shall worship the Lord from a distance.
+
+### Exodus 24:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses alone shall come near to God. But they shall not come near, and the people shall not come up with them.
+- brenton: And Moses alone shall draw nigh to God; and they shall not draw nigh, and the people shall not come up with them.
+
+### Exodus 24:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses went in and related to the people all the words of God and the ordinances. And all the people answered with one voice, saying, "All the words that the Lord has spoken we will do and we will hear."
+- brenton: And Moses went in and related to the people all the words of God and the ordinances; and all the people answered with one voice, saying, All the words which the Lord has spoken, we will do and be obedient.
+
+### Exodus 24:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses wrote all the words of the Lord. Rising early in the morning, Moses built an altar under the mountain, and twelve stones for the twelve tribes of Israel.
+- brenton: And Moses wrote all the words of the Lord; and Moses rose up early in the morning, and built an altar under the mountain, and set up twelve stones for the twelve tribes of Israel.
+
+### Exodus 24:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
+- brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
+
+### Exodus 24:6
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Moses took half the blood and poured it into bowls, and half the blood he poured out upon the altar.
+- brenton: And Moses took half the blood and poured it into bowls, and half the blood he poured out upon the altar.
+
+### Exodus 24:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking the book of the covenant, he read it in the hearing of the people, and they said, "All that the Lord has spoken we will do and we will hear."
+- brenton: And he took the book of the covenant and read it in the ears of the people, and they said, All things whatsoever the Lord has spoken we will do and hearken therein.
+
+### Exodus 24:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took the blood and splashed it on the people and said, "Behold, the blood of the covenant that the Lord has made with you concerning all these words."
+- brenton: And Moses took the blood and sprinkled it upon the people, and said, Behold the blood of the covenant, which the Lord has made with you concerning all these words.
+
+### Exodus 24:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then Moses and Aaron and Nadab and Abihu and seventy from the council of Israel went up.
+- brenton: And Moses went up, and Aaron, and Nadab and Abiud, and seventy of the elders of Israel.
+
+### Exodus 24:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they saw the place where the God of Israel had stood. And under his feet was like work of sapphire brick, and like the appearance of the firmament of heaven in purity.
+- brenton: And they saw the place where the God of Israel stood; and under his feet was as it were a work of sapphire slabs, and as it were the appearance of the firmament of heaven in its purity.
+
+### Exodus 24:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And of the chosen ones of Israel not even one was missing. And they appeared in the place of God, and they ate and drank.
+- brenton: And of the chosen ones of Israel there was not even one missing, and they appeared in the place of God, and did eat and drink.
+
+### Exodus 24:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Come up to me on the mountain and stay there, and I will give you the stone tablets, the law and the commandments that I wrote to give them law."
+- brenton: And the Lord said to Moses, Come up to me into the mountain, and be there; and I will give thee the tables of stone, the law and the commandments, which I have written to give them laws.
+
+### Exodus 24:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses rose, and Joshua who stood beside him, and they went up into the mountain of God.
+- brenton: And Moses rose up and Joshua his attendant, and they went up into the mount of God.
+
+### Exodus 24:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to the elders they said, "Stay still there until we return to you. And look, Aaron and Hur are with you. If any matter of judgment happens to anyone, let them go to them."
+- brenton: And to the elders they said, Rest there till we return to you; and behold, Aaron and Or are with you: if any man have a cause to be tried, let them go to them.
+
+### Exodus 24:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Joshua went up into the mountain, and the cloud covered the mountain.
+- brenton: And Moses and Joshua went up to the mountain, and the cloud covered the mountain.
+
+### Exodus 24:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the glory of God came down upon Mount Sinai, and the cloud covered it six days. And on the seventh day the Lord called Moses from the midst of the cloud.
+- brenton: And the glory of God came down upon the mount Sina, and the cloud covered it six days; and the Lord called Moses on the seventh day out of the midst of the cloud.
+
+### Exodus 24:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the appearance of the glory of the Lord was like burning fire on the top of the mountain before the sons of Israel.
+- brenton: And the appearance of the glory of the Lord was as burning fire on the top of the mountain, before the children of Israel.
+
+### Exodus 24:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses entered into the midst of the cloud and went up into the mountain. And he was there on the mountain forty days and forty nights.
+- brenton: And Moses went into the midst of the cloud, and went up to the mountain, and was there in the mountain forty days and forty nights.
+
+### Exodus 25:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 25:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "Tell the sons of Israel to take contributions for me. From everyone whose heart deems it good, you shall take my contributions."
+- brenton: Speak to the children of Israel, and take first-fruits of all, who may be disposed in their heart to give; and ye shall take my first-fruits.
+
+### Exodus 25:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the contribution that you shall take from them: gold and silver and bronze,
+- brenton: And this is the offering which ye shall take of them; gold and silver and brass,
+
+### Exodus 25:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and blue and purple and doubled scarlet and spun fine linen and goat hair,
+- brenton: and blue, and purple, and double scarlet, and fine spun linen, and goats' hair,
+
+### Exodus 25:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: and rams' skins dyed red and blue skins and incorruptible wood,
+- brenton: and rams' skins dyed red, and blue skins, and incorruptible wood,
+
+### Exodus 25:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and sardius stones and stones for engraving, for the ephod and the robe.
+- brenton: and sardius stones, and stones for the carved work of the breast-plate, and the full-length robe.
+
+### Exodus 25:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall make me a holy place, and I will be seen among you.
+- brenton: And thou shalt make me a sanctuary, and I will appear among you.
+
+### Exodus 25:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make them for me according to all that I show you on the mountain: the pattern of the tent and the pattern of all its furnishings. So you shall make them.
+- brenton: And thou shalt make for me according to all things which I shew thee in the mountain; even the pattern of the tabernacle, and the pattern of all its furniture: so shalt thou make it.
+
+### Exodus 25:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make an ark of testimony of incorruptible wood: two and a half cubits its length, one and a half cubits its breadth, and one and a half cubits its height.
+- brenton: And thou shalt make the ark of testimony of incorruptible wood; the length of two cubits and a half, and the breadth of a cubit and a half, and the height of a cubit and a half.
+
+### Exodus 25:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall overlay it with pure gold. Inside and outside you shall overlay it, and you shall make for it twisted golden moldings all around.
+- brenton: And thou shalt gild it with pure gold, thou shalt gild it within and without; and thou shalt make for it golden wreaths twisted round about.
+
+### Exodus 25:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall cast for it four golden rings and place them on its four sides, two rings on one side and two rings on the second side.
+- brenton: And thou shalt cast for it four golden rings, and shalt put them on the four sides; two rings on the one side, and two rings on the other side.
+
+### Exodus 25:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make carrying-poles of incorruptible wood and overlay them with gold.
+- brenton: And thou shalt make staves of incorruptible wood, and shalt gild them with gold.
+
+### Exodus 25:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall put the poles into the rings on the sides of the ark, to carry the ark by them.
+- brenton: And thou shalt put the staves into the rings on the sides of the ark, to bear the ark with them.
+
+### Exodus 25:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The poles shall stay fixed in the rings of the ark.
+- brenton: The staves shall remain fixed in the rings of the ark.
+
+### Exodus 25:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall put into the ark the testimonies that I shall give you.
+- brenton: And thou shalt put into the ark the testimonies which I shall give thee.
+
+### Exodus 25:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall make a propitiatory lid of pure gold: two and a half cubits its length, and one and a half cubits its breadth.
+- brenton: And thou shalt make a propitiatory, a lid of pure gold; the length of two cubits and a half, and the breadth of a cubit and a half.
+
+### Exodus 25:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make two cherubim of beaten gold, and you shall place them on both ends of the propitiatory.
+- brenton: And thou shalt make two cherubs graven in gold, and thou shalt put them on both sides of the propitiatory.
+
+### Exodus 25:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: One cherub shall be made on this end and one cherub on the second end of the propitiatory. You shall make the two cherubim on the two ends.
+- brenton: They shall be made, one cherub on this side, and another cherub on the other side of the propitiatory; and thou shalt make the two cherubs on the two sides.
+
+### Exodus 25:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cherubim shall be stretching out their wings above, overshadowing the propitiatory with their wings, and their faces shall be toward one another. The faces of the cherubim shall be toward the propitiatory.
+- brenton: The cherubs shall stretch forth their wings above, overshadowing the propitiatory with their wings; and their faces shall be toward each other, the faces of the cherubs shall be toward the propitiatory.
+
+### Exodus 25:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the propitiatory on top of the ark, and into the ark you shall put the testimonies that I shall give you.
+- brenton: And thou shalt set the propitiatory on the ark above, and thou shalt put into the ark the testimonies which I shall give thee.
+
+### Exodus 25:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will make myself known to you there, and I will speak to you from above the propitiatory, from between the two cherubim that are on the ark of testimony, according to all that I shall command you for the sons of Israel.
+- brenton: And I will make myself known to thee from thence, and I will speak to thee above the propitiatory between the two cherubs, which are upon the ark of testimony, even in all things which I shall charge thee concerning the children of Israel.
+
+### Exodus 25:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a table of pure gold: two cubits its length, one cubit its breadth, and one and a half cubits its height.
+- brenton: And thou shalt make a golden table of pure gold, in length two cubits, and in breadth a cubit, and in height a cubit and a half.
+
+### Exodus 25:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for it twisted golden moldings all around.
+- brenton: And thou shalt make for it golden wreaths twisted round about, and thou shalt make for it a crown of an hand-breadth round about.
+
+### Exodus 25:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for it a rim a handbreadth around it, and you shall make a twisted molding around the rim.
+- brenton: And thou shalt make a twisted wreath for the crown round about.
+
+### Exodus 25:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make four golden rings and place the rings on the four parts of its feet.
+- brenton: And thou shalt make four golden rings; and thou shalt put the four rings upon the four parts of its feet under the crown.
+
+### Exodus 25:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The rings shall be under the rim, as holders for the carrying-poles, so that the table may be carried by them.
+- brenton: And the rings shall be for bearings for the staves, that they may bear the table with them.
+
+### Exodus 25:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make the poles of incorruptible wood and overlay them with pure gold, and the table shall be carried by them.
+- brenton: And thou shalt make the staves of incorruptible wood, and thou shalt gild them with pure gold; and the table shall be borne with them.
+
+### Exodus 25:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make its dishes and censers and libation bowls and cups with which you shall pour offerings. You shall make them of pure gold.
+- brenton: And thou shalt make its dishes and its censers, and its bowls, and its cups, with which thou shalt offer drink-offerings: of pure gold shalt thou make them.
+
+### Exodus 25:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall set on the table loaves before my face continually.
+- brenton: And thou shalt set upon the table shewbread before me continually.
+
+### Exodus 25:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a lampstand of pure gold. Beaten work shall you make the lampstand: its shaft and its branches, its bowls and knobs and lilies shall be from it.
+- brenton: And thou shalt make a candlestick of pure gold; thou shalt make the candlestick of graven work: its stem and its branches, and its bowls and its knops and its lilies shall be of one piece.
+
+### Exodus 25:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six branches shall come out from its sides: three branches of the lampstand from one side and three branches of the lampstand from the second side.
+- brenton: And six branches proceeding sideways, three branches of the candlestick from one side of it, and three branches of the candlestick from the other side.
+
+### Exodus 25:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Three almond-shaped bowls on one branch, with knob and lily. So also on the six branches that come out from the lampstand.
+- brenton: And three bowls fashioned like almonds, on each branch a knop and a lily; so to the six branches proceeding from the candlestick,
+
+### Exodus 25:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the lampstand four almond-shaped bowls, with its knobs and its lilies.
+- brenton: and in the candlestick four bowls fashioned like almonds, in each branch knops and the flowers of the same.
+
+### Exodus 25:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A knob under two branches from it, and a knob under four branches from it, so also for the six branches that come out from the lampstand.
+- brenton: A knop under two branches out of it, and a knop under four branches out of it; so to the six branches proceeding from the candlestick; and in the candlestick four bowls fashioned like almonds.
+
+### Exodus 25:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Their knobs and their branches shall be from it. All shall be one beaten piece of pure gold.
+- brenton: Let the knops and the branches be of one piece, altogether graven of one piece of pure gold.
+
+### Exodus 25:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make its seven lamps. And you shall set up the lamps, and they shall shine from the one front.
+- brenton: And thou shalt make its seven lamps: and thou shalt set on it the lamps, and they shall shine from one front.
+
+### Exodus 25:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make its snuffers and its trays of pure gold.
+- brenton: And thou shalt make its funnel and its snuff-dishes of pure gold.
+
+### Exodus 25:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All these utensils shall be one talent of pure gold.
+- brenton: All these articles shall be a talent of pure gold.
+
+### Exodus 25:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: See that you make them according to the pattern shown you on the mountain.
+- brenton: See, thou shalt make them according to the pattern shewed thee in the mount.
+
+### Exodus 26:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the tent you shall make with ten curtains of woven fine linen and blue and purple and spun scarlet. You shall make them with cherubim, woven work.
+- brenton: And thou shalt make the tabernacle, ten curtains of fine linen spun, and blue and purple, and scarlet spun with cherubs; thou shalt make them with work of a weaver.
+
+### Exodus 26:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The length of one curtain shall be twenty-eight cubits, and the breadth of one curtain four cubits. One measure shall belong to all the curtains.
+- brenton: The length of one curtain shall be eight and twenty cubits, and one curtain shall be the breadth of four cubits: there shall be the same measure to all the curtains.
+
+### Exodus 26:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Five curtains shall be joined one to another, and five curtains shall be held together one to another.
+- brenton: And the five curtains shall be joined one to another, and the other five curtains shall be closely connected the one with the other.
+
+### Exodus 26:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make blue loops on the edge of one curtain on one side for the coupling, and so you shall make on the edge of the outer curtain for the second coupling.
+- brenton: And thou shalt make for them loops of blue on the edge of one curtain, on one side for the coupling, and so shalt thou make on the edge of the outer curtain for the second coupling.
+
+### Exodus 26:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Fifty loops you shall make on the one curtain, and fifty loops on the part of the curtain at the coupling of the second, matching one another.
+- brenton: Fifty loops shalt thou make for one curtain, and fifty loops shalt thou make on the part of the curtain answering to the coupling of the second, opposite each other, corresponding to each other at each point.
+
+### Exodus 26:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make fifty gold clasps and join the curtains one to another with the clasps, and the tent shall be one.
+- brenton: And thou shalt make fifty golden rings; and thou shalt join the curtains to each other with the rings, and it shall be one tabernacle.
+
+### Exodus 26:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make goat-hair coverings as a covering over the tent. Eleven coverings you shall make.
+- brenton: And thou shalt make for a covering of the tabernacle skins with the hair on, thou shalt make them eleven skins.
+
+### Exodus 26:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The length of one covering shall be thirty cubits, and the breadth of one covering four cubits. One measure shall belong to the eleven coverings.
+- brenton: The length of one skin thirty cubits, and the breadth of one skin four cubits: there shall be the same measure to the eleven skins.
+
+### Exodus 26:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall join the five coverings together and the six coverings together, and you shall fold the sixth covering over at the front of the tent.
+- brenton: And thou shalt join the five skins together, and the six skins together; and thou shalt double the sixth skin in front of the tabernacle.
+
+### Exodus 26:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make fifty loops on the edge of the one covering that is in the middle at the joining, and fifty loops on the edge of the second covering that joins it.
+- brenton: And thou shalt make fifty loops on the border of one skin, which is in the midst for the joinings; and thou shalt make fifty loops on the edge of the second skin that joins it.
+
+### Exodus 26:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make fifty bronze clasps, and you shall join the clasps through the loops and join the coverings, and it shall be one.
+- brenton: And thou shalt make fifty brazen rings; and thou shalt join the rings by the loops, and thou shalt join the skins, and they shall be one.
+
+### Exodus 26:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the extra part in the coverings of the tent, the half-covering that remains, you shall let hang over the back of the tent.
+- brenton: And thou shalt fix at the end that which is over in the skins of the tabernacle; the half of the skin that is left shalt thou fold over, according to the overplus of the skins of the tabernacle; thou shalt fold it over behind the tabernacle.
+
+### Exodus 26:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A cubit on this side and a cubit on that side, from the excess in the length of the tent coverings, shall hang over the sides of the tent on this side and that side to cover it.
+- brenton: A cubit on this side, and a cubit on that side of that which remains of the skins, of the length of the skins of the tabernacle: it shall be folding over the sides of the tabernacle on this side and that side, that it may cover it.
+
+### Exodus 26:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for the tent a covering of red-dyed rams' skins, and coverings of blue skins above.
+- brenton: And thou shalt make for a covering of the tabernacle rams' skins dyed red, and blue skins as coverings above.
+
+### Exodus 26:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make uprights for the tent of incorruptible wood.
+- brenton: And thou shalt make the posts of the tabernacle of incorruptible wood.
+
+### Exodus 26:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Ten cubits shall you make one upright, and one and a half cubits the breadth of one upright.
+- brenton: Of ten cubits shalt thou make one post, and the breadth of one post of a cubit and a half.
+
+### Exodus 26:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Two tenons for each upright, corresponding one to another. So you shall do for all the uprights of the tent.
+- brenton: Two joints shalt thou make in one post, answering the one to the other: so shalt thou do to all the posts of the tabernacle.
+
+### Exodus 26:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make the uprights for the tent, twenty uprights on the side toward the north.
+- brenton: And thou shalt make posts to the tabernacle, twenty posts on the north side.
+
+### Exodus 26:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make forty silver bases for the twenty uprights, two bases for one upright on its two sides and two bases for the next upright on its two sides.
+- brenton: And thou shalt make to the twenty posts forty silver sockets; two sockets to one post on both its sides, and two sockets to the other post on both its sides.
+
+### Exodus 26:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the second side, the side toward the south, twenty uprights.
+- brenton: And for the next side, toward the south, twenty posts,
+
+### Exodus 26:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their forty silver bases, two bases for one upright on its two sides and two bases for the next upright on its two sides.
+- brenton: and their forty silver sockets: two sockets to one post on both its sides, and two sockets to the other post on both its sides.
+
+### Exodus 26:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And at the back of the tent, at the side toward the sea, you shall make six uprights.
+- brenton: And on the back of the tabernacle at the part which is toward the west thou shalt make six posts.
+
+### Exodus 26:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make two uprights for the corners of the tent at the back.
+- brenton: And thou shalt make two posts on the corners of the tabernacle behind.
+
+### Exodus 26:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall be equal below, and together they shall be equal up to the tops for one joining. So you shall make them for both, for the two corners.
+- brenton: And it shall be equal below, they shall be equal toward the same part from the heads to one joining; so shalt thou make to both the two corners, let them be equal.
+
+### Exodus 26:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there shall be eight uprights, and their silver bases sixteen: two bases for one upright on its two sides and two bases for the next upright.
+- brenton: And there shall be eight posts, and their sixteen silver sockets; two sockets to one post on both its sides, and two sockets to the other post.
+
+### Exodus 26:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make bars of incorruptible wood, five for the uprights on one side of the tent,
+- brenton: And thou shalt make bars of incorruptible wood; five to one post on one side of the tabernacle,
+
+### Exodus 26:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and five bars for the uprights on the second side of the tent, and five bars for the hindmost uprights on the side of the tent toward the sea.
+- brenton: and five bars to one post on the second side of the tabernacle, and five bars to the hinder posts, on the side of the tabernacle toward the sea.
+
+### Exodus 26:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the middle bar, in the midst of the uprights, shall pass through from one side to the other.
+- brenton: And let the bar in the middle between the posts go through from the one side to the other side.
+
+### Exodus 26:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall overlay the uprights with gold, and you shall make gold rings into which you shall bring in the bars, and you shall overlay the bars with gold.
+- brenton: And thou shalt gild the posts with gold; and thou shalt make golden rings, into which thou shalt introduce the bars, and thou shalt gild the bars with gold.
+
+### Exodus 26:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall set up the tent according to the pattern shown you on the mountain.
+- brenton: And thou shalt set up the tabernacle according to the pattern shewed thee in the mount.
+
+### Exodus 26:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a curtain of blue and purple and spun scarlet and woven fine linen. You shall make it with cherubim, woven work.
+- brenton: And thou shalt make a veil of blue and purple and scarlet woven, and fine linen spun: thou shalt make it cherubs in woven work.
+
+### Exodus 26:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place it on four incorruptible posts overlaid with gold, their capitals gold, and their four bases silver.
+- brenton: And thou shalt set it upon four posts of incorruptible wood overlaid with gold; and their tops shall be gold, and their four sockets shall be of silver.
+
+### Exodus 26:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall put the curtain on the posts, and within the curtain you shall bring in there the ark of testimony. And the curtain shall divide for you between the Holy Place and the Holy of Holies.
+- brenton: And thou shalt put the veil on the posts, and thou shalt carry in thither within the veil the ark of the testimony; and the veil shall make a separation for you between the holy and the holy of holies.
+
+### Exodus 26:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with the curtain you shall cover the ark of testimony in the Holy of Holies.
+- brenton: And thou shalt screen with the veil the ark of the testimony in the holy of holies.
+
+### Exodus 26:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the table outside the curtain, and the lampstand opposite the table on the south side of the tent. And you shall put the table on the north side of the tent.
+- brenton: And thou shalt set the table outside the veil, and the candlestick opposite the table on the south side of the tabernacle; and thou shalt put the table on the north side of the tabernacle.
+
+### Exodus 26:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a screen for the entrance of the tent, of blue and purple and spun scarlet and woven fine linen, embroidered work.
+- brenton: And thou shalt make a screen for the door of the tabernacle of blue, and purple, and spun scarlet and fine linen spun, the work of the embroiderer.
+
+### Exodus 26:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for the screen five posts and overlay them with gold, and their capitals gold, and you shall cast for them five bronze bases.
+- brenton: And thou shalt make for the veil five posts, and thou shalt gild them with gold; and their chapiters shall be gold; and thou shalt cast for them five brazen sockets.
+
+### Exodus 27:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make the altar of incorruptible wood, five cubits its length and five cubits its breadth. The altar shall be square, and its height three cubits.
+- brenton: And thou shalt make an altar of incorruptible wood, of five cubits in the length, and five cubits in the breadth; the altar shall be square, and the height of it shall be of three cubits.
+
+### Exodus 27:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make the horns upon its four corners. The horns shall be from it, and you shall cover them with bronze.
+- brenton: And thou shalt make the horns on the four corners; the horns shall be of the same piece, and thou shalt overlay them with brass.
+
+### Exodus 27:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a rim for the altar, and its pans and its bowls and its flesh-hooks and its fire-pan. All its utensils you shall make of bronze.
+- brenton: And thou shalt make a rim for the altar; and its covering and its cups, and its flesh-hooks, and its fire-pan, and all its vessels shalt thou make of brass.
+
+### Exodus 27:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for it a bronze grate of net-work, and you shall make for the grate four bronze rings on its four sides.
+- brenton: And thou shalt make for it a brazen grate with net-work; and thou shalt make for the grate four brazen rings under the four sides.
+
+### Exodus 27:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall set them under the grate of the altar below, and the grate shall reach to the middle of the altar.
+- brenton: And thou shalt put them below under the grate of the altar, and the grate shall extend to the middle of the altar.
+
+### Exodus 27:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make poles for the altar of incorruptible wood, and you shall overlay them with bronze.
+- brenton: And thou shalt make for the altar staves of incorruptible wood, and thou shalt overlay them with brass.
+
+### Exodus 27:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring the poles into the rings, and the poles shall be on the sides of the altar when it is carried.
+- brenton: And thou shalt put the staves into the rings; and let the staves be on the sides of the altar to carry it.
+
+### Exodus 27:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Hollow, of boards, you shall make it. According to what was shown you on the mountain, so you shall make it.
+- brenton: Thou shalt make it hollow with boards: according to what was shewed thee in the mount, so thou shalt make it.
+
+### Exodus 27:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a court for the tent. On the side toward the south wind, hangings of woven fine linen, one hundred cubits long for one side.
+- brenton: And thou shalt make a court for the tabernacle, curtains of the court of fine linen spun on the south side, the length of a hundred cubits for one side.
+
+### Exodus 27:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their pillars twenty, and their twenty bronze bases, and their hooks and fastenings of silver.
+- brenton: And their pillars twenty, and twenty brazen sockets for them, and their rings and their clasps of silver.
+
+### Exodus 27:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So also for the side toward the east wind, hangings one hundred cubits long, and their pillars twenty, and their twenty bronze bases, and the hooks and fastenings of the pillars silver-covered.
+- brenton: Thus shall there be to the side toward the north curtains of a hundred cubits in length; and their pillars twenty, and their sockets twenty of brass, and the rings and the clasps of the pillars, and their sockets overlaid with silver.
+
+### Exodus 27:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the breadth of the court toward the sea, hangings fifty cubits, their pillars ten and their bases ten.
+- brenton: And in the breadth of the tabernacle toward the west curtains of fifty cubits, their pillars ten and their sockets ten.
+
+### Exodus 27:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the breadth of the court toward the south, hangings fifty cubits, their pillars ten and their bases ten.
+- brenton: And in the breadth of the tabernacle toward the south, curtains of fifty cubits; their pillars ten, and their sockets ten.
+
+### Exodus 27:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the hangings shall be fifteen cubits high on one side, their pillars three and their bases three.
+- brenton: And the height of the curtains shall be of fifteen cubits for the one side of the gate; their pillars three, and their sockets three.
+
+### Exodus 27:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for the second side, fifteen cubits the height of the hangings, their pillars three and their bases three.
+- brenton: And for the second side the height of the curtains shall be of fifteen cubits; their pillars three, and their sockets three.
+
+### Exodus 27:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for the gate of the court, a screen twenty cubits long, of blue and purple and spun scarlet and woven fine linen, worked by an embroiderer, their pillars four and their bases four.
+- brenton: And a veil for the door of the court, the height of it of twenty cubits of blue linen, and of purple, and spun scarlet, and of fine linen spun with the art of the embroiderer; their pillars four, and their sockets four.
+
+### Exodus 27:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the pillars of the court all around silver-covered, their capitals silver, and their bases bronze.
+- brenton: All the pillars of the court round about overlaid with silver, and their chapiters silver and their brass sockets.
+
+### Exodus 27:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the length of the court shall be one hundred by one hundred, and the breadth fifty by fifty, and the height five cubits, of woven fine linen, and their bases bronze.
+- brenton: And the length of the court shall be a hundred cubits on each side, and the breadth fifty on each side, and the height five cubits of fine linen spun, and their sockets of brass.
+
+### Exodus 27:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the furnishing and all the implements and the pegs of the court shall be bronze.
+- brenton: And all the furniture and all the instruments and the pins of the court shall be of brass.
+
+### Exodus 27:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall charge the sons of Israel, and let them bring you pure beaten olive oil for the light, that a lamp may burn continually.
+- brenton: And do thou charge the children of Israel, and let them take for thee refined pure olive-oil beaten to burn for light, that a lamp may burn continually
+
+### Exodus 27:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In the tent of testimony, outside the curtain that is over the covenant, Aaron and his sons shall tend it from evening until morning before the Lord. This is an everlasting ordinance throughout your generations from the sons of Israel.
+- brenton: in the tabernacle of the testimony, without the veil that is before the ark of the covenant, shall Aaron and his sons burn it from evening until morning, before the Lord: it is a perpetual ordinance throughout your generations of the children of Israel.
+
+### Exodus 28:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you, bring near to yourself Aaron your brother and his sons with him from among the sons of Israel to serve as priests to me: Aaron and Nadab and Abihu and Eleazar and Ithamar, Aaron's sons.
+- brenton: And do thou take to thyself both Aaron thy brother, and his sons, even them of the children of Israel; so that Aaron, and Nadab and Abiud, and Eleazar and Ithamar, sons of Aaron, may minister to me.
+
+### Exodus 28:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make holy apparel for Aaron your brother, for honor and glory.
+- brenton: And thou shalt make holy apparel for Aaron thy brother, for honour and glory.
+
+### Exodus 28:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall speak to all the wise in mind, whom I have filled with a spirit of perception, and they shall make Aaron's holy apparel for the sanctuary, in which he shall serve as priest to me.
+- brenton: And speak thou to all those who are wise in understanding, whom I have filled with the spirit of wisdom and perception; and they shall make the holy apparel of Aaron for the sanctuary, in which apparel he shall minister to me as priest.
+
+### Exodus 28:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the garments they shall make: the breastpiece and the ephod and the robe and the fringed tunic and the turban and the sash. And they shall make holy garments for Aaron and his sons to serve as priests to me.
+- brenton: And these are the garments which they shall make: the breast-plate, and the shoulder-piece, and the full-length robe, and the tunic with a fringe, and the tire, and the girdle; and they shall make holy garments for Aaron and his sons to minister to me as priests.
+
+### Exodus 28:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And they shall take the gold and the blue and the purple and the scarlet and the fine linen.
+- brenton: And they shall take the gold, and the blue, and the purple, and the scarlet, and the fine linen.
+
+### Exodus 28:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall make the ephod of woven fine linen, work of an embroiderer.
+- brenton: And they shall make the shoulder-piece of fine linen spun, the woven work of the embroiderer.
+
+### Exodus 28:7
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: It shall have two shoulder-pieces joined together, fastened on the two sides.
+- brenton: It shall have two shoulder-pieces joined together, fastened on the two sides.
+
+### Exodus 28:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the woven band of the shoulder-pieces that is upon it shall be of one piece with it, of gold and blue and purple and spun scarlet and woven fine linen.
+- brenton: And the woven work of the shoulder-pieces which is upon it, shall be of one piece according to the work, of pure gold and blue and purple, and spun scarlet and fine twined linen.
+
+### Exodus 28:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the two emerald stones and engrave on them the names of the sons of Israel,
+- brenton: And thou shalt take the two stones, the stones of emerald, and thou shalt grave on them the names of the children of Israel.
+
+### Exodus 28:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: six names on one stone and the remaining six names on the second stone, according to their births.
+- brenton: Six names on the first stone, and the other six names on the second stone, according to their births.
+
+### Exodus 28:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As a stonecutter engraves a seal, so you shall engrave the two stones with the names of the sons of Israel.
+- brenton: It shall be the work of the stone-engraver's art; as the graving of a seal thou shalt engrave the two stones with the names of the children of Israel.
+
+### Exodus 28:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the two stones on the shoulders of the ephod. They are memorial stones for the sons of Israel. And Aaron shall bear the names of the sons of Israel before the Lord on his two shoulders as a memorial concerning them.
+- brenton: And thou shalt put the two stones on the shoulders of the shoulder-piece: they are memorial-stones for the children of Israel: and Aaron shall bear the names of the children of Israel before the Lord on his two shoulders, a memorial for them.
+
+### Exodus 28:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make settings of pure gold,
+- brenton: And thou shalt make circlets of pure gold;
+
+### Exodus 28:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and two braided cords of pure gold, mixed in floral work, woven. And you shall place the woven cords on the settings by their shoulder-pieces at the front.
+- brenton: and thou shalt make two fringes of pure gold, variegated with flowers, wreathen work; and thou shalt put the wreathen fringes on the circlets, fastening them on their shoulder-pieces in front.
+
+### Exodus 28:15
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall make a breastpiece of judgments, embroidered work. According to the pattern of the ephod you shall make it, of gold and blue and purple and spun scarlet and woven fine linen.
+- brenton: And thou shalt make the oracle of judgment, the work of the embroiderer: in keeping with the ephod, thou shalt make it of gold, and blue and purple, and spun scarlet, and fine linen spun.
+
+### Exodus 28:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It shall be square and doubled, a span its length and a span its breadth.
+- brenton: Thou shalt make it square: it shall be double; of a span the length of it, and of a span the breadth.
+
+### Exodus 28:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall weave into it a setting of four rows of stones. The first row: sardius, topaz, emerald.
+- brenton: And thou shalt interweave with it a texture of four rows of stone; there shall be a row of stones, a sardius, a topaz, an emerald, the first row.
+
+### Exodus 28:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the second row: carbuncle, sapphire, jasper.
+- brenton: And the second row, a carbuncle, a sapphire, and a jasper.
+
+### Exodus 28:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the third row: ligure, agate, amethyst.
+- brenton: And the third row, a ligure, an agate, an amethyst:
+
+### Exodus 28:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fourth row: chrysolite, beryl, onyx, encircled and bound in gold according to their row.
+- brenton: and the fourth row, a chrysolite, and a beryl, and an onyx stone, set round with gold, bound together with gold: let them be according to their row.
+
+### Exodus 28:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the stones shall correspond to the names of the sons of Israel, twelve according to their names, engravings of seals, each according to its name for the twelve tribes.
+- brenton: And let the stones of the names of the children of Israel be twelve according to their names, engravings as of seals: let them be for the twelve tribes each according to the name.
+
+### Exodus 28:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make on the breastpiece braided cords, chainwork of pure gold.
+- brenton: And thou shalt make on the oracle woven fringes, a chain-work of pure gold.
+
+### Exodus 28:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall bear the names of the sons of Israel on the breastpiece of judgments upon his chest when he goes into the holy place, as a memorial before God.
+- brenton: And Aaron shall take the names of the children of Israel, on the oracle of judgment on his breast; a memorial before God for him as he goes into the sanctuary.
+
+### Exodus 28:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
+
+### Exodus 28:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make the robe under the ephod all blue.
+- brenton: And thou shalt make the full-length tunic all of blue.
+
+### Exodus 28:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And its opening shall be in the middle, with a woven border all around the opening, joined from the same work so that it may not tear.
+- brenton: And the opening of it shall be in the middle having a fringe round about the opening, the work of the weaver, woven together in the joining of the same piece that it might not be rent.
+
+### Exodus 28:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the hem of the robe below you shall make pomegranates like blossoming pomegranate fruit, of blue and purple and spun scarlet and woven fine linen, on the hem of the robe all around; and golden pomegranates and bells all around between them.
+- brenton: And under the fringe of the robe below thou shalt make as it were pomegranates of a flowering pomegranate tree, of blue, and purple, and spun scarlet, and fine linen spun, under the fringe of the robe round about: golden pomegranates of the same shape, and bells round about between these.
+
+### Exodus 28:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A golden bell beside a pomegranate, and blossom-work on the hem of the robe all around.
+- brenton: A bell by the side of a golden pomegranate, and flower-work on the fringe of the robe round about.
+
+### Exodus 28:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall wear it when he ministers, and its sound shall be heard when he goes into the holy place before the Lord and when he comes out, so that he may not die.
+- brenton: And the sound of Aaron shall be audible when he ministers, as he goes into the sanctuary before the Lord, and as he goes out, that he die not.
+
+### Exodus 28:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a pure gold plate, and engrave on it like the engraving of a seal, "Holiness of the Lord."
+- brenton: And thou shalt make a plate of pure gold, and thou shalt grave on it as the graving of a signet, Holiness of the Lord.
+
+### Exodus 28:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place it on a blue cord, and it shall be on the turban; it shall be on the front of the turban.
+- brenton: And thou shalt put it on the spun blue cloth, and it shall be on the mitre: it shall be in the front of the mitre.
+
+### Exodus 28:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be on Aaron's forehead, and Aaron shall bear away the sins of the holy things, whatever holy gifts the sons of Israel sanctify. And it shall be on Aaron's forehead continually, acceptable for them before the Lord.
+- brenton: And it shall be on the forehead of Aaron; and Aaron shall bear away the sins of their holy things, all that the children of Israel shall sanctify of every gift of their holy things, and it shall be on the forehead of Aaron continually acceptable for them before the Lord.
+
+### Exodus 28:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fringes of the tunics shall be of fine linen, and you shall make a fine linen turban, and you shall make a sash, work of an embroiderer.
+- brenton: And the fringes of the garments shall be of fine linen; and thou shalt make a tire of fine linen, and thou shalt make a girdle, the work of the embroiderer.
+
+### Exodus 28:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for Aaron's sons you shall make tunics and sashes, and you shall make turbans for them, for honor and glory.
+- brenton: And for the sons of Aaron thou shalt make tunics and girdles, and thou shalt make for them tires for honour and glory.
+
+### Exodus 28:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall clothe Aaron your brother and his sons with him, and you shall anoint them and fill their hands and sanctify them, that they may serve as priests to me.
+- brenton: And thou shalt put them on Aaron thy brother, and his sons with him, and thou shalt anoint them and fill their hands: and thou shalt sanctify them, that they may minister to me in the priest's office.
+
+### Exodus 28:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make for them linen undergarments to cover the nakedness of their flesh; they shall reach from loins to thighs.
+- brenton: And thou shalt make for them linen drawers to cover the nakedness of their flesh; they shall reach from the loins to the thighs.
+
+### Exodus 28:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall wear them, and his sons, whenever they enter the tent of testimony or approach the altar to minister in the holy place, so that they may not bring sin upon themselves and die. An everlasting statute for him and for his seed after him.
+- brenton: And Aaron shall have them, and his sons, whenever they enter into the tabernacle of witness, or when they shall advance to the altar of the sanctuary to minister, so they shall not bring sin upon themselves, lest they die: it is a perpetual statute for him, and for his seed after him.
+
+### Exodus 29:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the things that you shall do for them to sanctify them, so that they may serve as priests to me: take one young bull from the herd and two flawless rams,
+- brenton: And these are the things which thou shalt do to them: thou shalt sanctify them, so that they shall serve me in the priesthood; and thou shalt take one young calf from the herd, and two unblemished rams;
+
+### Exodus 29:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and unleavened loaves kneaded with oil and unleavened cakes anointed with oil. You shall make them of fine wheat flour.
+- brenton: and unleavened loaves kneaded with oil, and unleavened cakes anointed with oil: thou shalt make them of fine flour of wheat.
+
+### Exodus 29:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall put them on one basket, and you shall bring them on the basket, and the young bull and the two rams.
+- brenton: And thou shalt put them on one basket, and thou shalt offer them on the basket, and the young calf and the two rams.
+
+### Exodus 29:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons you shall bring to the doors of the tent of testimony, and you shall wash them with water.
+- brenton: And thou shalt bring Aaron and his sons to the doors of the tabernacle of testimony, and thou shalt wash them with water.
+
+### Exodus 29:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking the garments, you shall clothe Aaron your brother with the tunic and the robe and the ephod and the breastpiece, and you shall fasten the breastpiece to the ephod for him.
+- brenton: And having taken the garments, thou shalt put on Aaron thy brother both the full-length robe and the ephod and the oracle; and thou shalt join for him the oracle to the ephod.
+
+### Exodus 29:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall put the turban on his head, and you shall put the holy plate on the turban.
+- brenton: And thou shalt put the mitre on his head; and thou shalt put the plate, even the Holiness, on the mitre.
+
+### Exodus 29:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the anointing oil and pour it on his head and anoint him.
+- brenton: And thou shalt take of the anointing oil, and thou shalt pour it on his head, and shalt anoint him,
+
+### Exodus 29:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring his sons and clothe them with tunics.
+- brenton: and thou shalt bring his sons, and put garments on them.
+
+### Exodus 29:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall gird them with sashes and put the turbans on them, and they shall have a priesthood for me forever. And you shall fill the hands of Aaron and the hands of his sons.
+- brenton: And thou shalt gird them with the girdles, and put the tires upon them, and they shall have a priestly office to me for ever; and thou shalt fill the hands of Aaron and the hands of his sons.
+
+### Exodus 29:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring the young bull to the doors of the tent of testimony, and Aaron and his sons shall lay their hands on the head of the young bull before the Lord by the doors of the tent of testimony.
+- brenton: And thou shalt bring the calf to the door of the tabernacle of witness; and Aaron and his sons shall lay their hands on the head of the calf, before the Lord, by the doors of the tabernacle of witness.
+
+### Exodus 29:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall slaughter the young bull before the Lord by the doors of the tent of testimony.
+- brenton: And thou shalt slay the calf before the Lord, by the doors of the tabernacle of witness.
+
+### Exodus 29:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take some of the blood of the young bull and put it on the horns of the altar with your finger, and all the rest of the blood you shall pour out beside the base of the altar.
+- brenton: And thou shalt take of the blood of the calf, and put it on the horns of the altar with thy finger, but all the rest of the blood thou shalt pour out at the foot of the altar.
+
+### Exodus 29:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take all the fat on the belly and the lobe of the liver and the two kidneys and the fat on them, and you shall place them on the altar.
+- brenton: And thou shalt take all the fat that is on the belly, and the lobe of the liver, and the two kidneys, and the fat that is upon them, and shalt put them upon the altar.
+
+### Exodus 29:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the flesh of the young bull and its skin and its dung you shall burn with fire outside the camp, for it is a sin offering.
+- brenton: But the flesh of the calf, and his skin, and his dung, shalt thou burn with fire without the camp; for it is an offering on account of sin.
+
+### Exodus 29:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the one ram, and Aaron and his sons shall lay their hands on the head of the ram.
+- brenton: And thou shalt take one ram, and Aaron and his sons shall lay their hands on the head of the ram.
+
+### Exodus 29:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall slaughter it and, taking the blood, pour it around the altar.
+- brenton: And thou shalt kill it, and take the blood and pour it on the altar round about.
+
+### Exodus 29:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall divide the ram by its limbs, and you shall wash the inward parts and the feet with water, and place them upon the divided pieces with the head.
+- brenton: And thou shalt divide the ram by his several limbs, and thou shalt wash the inward parts and the feet with water, and thou shalt put them on the divided parts with the head.
+
+### Exodus 29:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall offer up the whole ram on the altar. It is a whole burnt offering to the Lord, a smell of sweet fragrance, an offering to the Lord.
+- brenton: And thou shalt offer the whole ram on the altar, a whole burnt-offering to the Lord for a sweet-smelling savour: it is an offering of incense to the Lord.
+
+### Exodus 29:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the second ram, and Aaron and his sons shall lay their hands on the head of the ram.
+- brenton: And thou shalt take the second ram, and Aaron and his sons shall lay their hands on the head of the ram.
+
+### Exodus 29:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall slaughter it and take some of its blood and place it on the tip of Aaron's right ear and on the thumb of his right hand and on the great toe of his right foot, and on the right earlobes of his sons and on the thumbs of their right hands and on the great toes of their right feet.
+- brenton: And thou shalt kill it, and take of the blood of it, and put it on the tip of Aaron's right ear, and on the thumb of his right hand, and on the great toe of his right foot, and on the tips of the right ears of his sons, and on the thumbs of their right hands, and on the great toes of their right feet.
+
+### Exodus 29:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take some of the blood from the altar and some of the anointing oil, and you shall sprinkle it on Aaron and on his garment and on his sons and on the garments of his sons with him, and he shall be sanctified, and his garment, and his sons, and the garments of his sons with him. And the blood of the ram you shall pour around the altar.
+- brenton: And thou shalt take of the blood from the altar, and of the anointing oil; and thou shalt sprinkle it upon Aaron and on his garments, and on his sons and on his sons' garments with him; and he shall be sanctified and his apparel, and his sons and his sons' apparel with him: but the blood of the ram thou shalt pour round about upon the altar.
+
+### Exodus 29:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take from the ram its fat and the fat covering the belly and the lobe of the liver and the two kidneys and the fat on them and the right arm, for this is an ordination.
+- brenton: And thou shalt take from the ram its fat, both the fat that covers the belly, and the lobe of the liver, and the two kidneys, and the fat that is upon them, and the right shoulder, for this is a consecration.
+
+### Exodus 29:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one loaf of oil bread and one cake from the basket of unleavened bread set before the Lord.
+- brenton: And one cake made with oil, and one cake from the basket of unleavened bread set forth before the Lord.
+
+### Exodus 29:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place all these on the hands of Aaron and on the hands of his sons, and you shall separate them as a separated offering before the Lord.
+- brenton: And thou shalt put them all on the hands of Aaron, and on the hands of his sons, and thou shalt separate them as a separate offering before the Lord.
+
+### Exodus 29:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take them from their hands and offer them on the altar upon the whole burnt offering, as a smell of sweet fragrance before the Lord. It is an offering to the Lord.
+- brenton: And thou shalt take them from their hands, and shalt offer them up on the altar of whole burnt-offering for a sweet-smelling savour before the Lord: it is an offering to the Lord.
+
+### Exodus 29:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the breast from the ram of ordination that belongs to Aaron, and you shall separate it as a separated offering before the Lord, and it shall be your portion.
+- brenton: And thou shalt take the breast from the ram of consecration which is Aaron's, and thou shalt separate it as a separate offering before the Lord, and it shall be to thee for a portion.
+
+### Exodus 29:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall sanctify the breast of the separated offering and the arm of the removal offering, that which was separated and that which was removed from the ram of ordination, from Aaron and from his sons.
+- brenton: And thou shalt sanctify the separated breast and the shoulder of removal which has been separated, and which has been removed from the ram of consecration, of the portion of Aaron and of that of his sons.
+
+### Exodus 29:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be for Aaron and for his sons an everlasting statute from the sons of Israel. For this is a removal offering, and it shall be a removal offering from the sons of Israel, from the sacrifices of salvation of the sons of Israel, a removal offering to the Lord.
+- brenton: And it shall be a perpetual statute of the children of Israel to Aaron and his sons, for this is a separate offering; and it shall be a special offering from the children of Israel, from the peace-offerings of the children of Israel, a special offering to the Lord.
+
+### Exodus 29:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the holy garments that are Aaron's shall belong to his sons after him, that they may be anointed in them and their hands filled in them.
+- brenton: And the apparel of the sanctuary which is Aaron's shall be his sons' after him, for them to be anointed in them, and to fill their hands.
+
+### Exodus 29:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Seven days the priest who succeeds him from among his sons, who enters the tent of testimony to minister in the holy place, shall wear them.
+- brenton: The priest his successor from among his sons who shall go into the tabernacle of witness to minister in the holies, shall put them on seven days.
+
+### Exodus 29:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the ram of ordination and boil its flesh in a holy place.
+- brenton: And thou shalt take the ram of consecration, and thou shalt boil the flesh in the holy place.
+
+### Exodus 29:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons shall eat the flesh of the ram and the bread in the basket by the doors of the tent of testimony.
+- brenton: And Aaron and his sons shall eat the flesh of the ram, and the loaves in the basket, by the doors of the tabernacle of witness.
+
+### Exodus 29:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall eat those things by which they were sanctified, to fill their hands, to sanctify them. But an outsider shall not eat of them, for they are holy.
+- brenton: They shall eat the offerings with which they were sanctified to fill their hands, to sanctify them; and a stranger shall not eat of them, for they are holy.
+
+### Exodus 29:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If any of the flesh of the sacrifice of ordination or of the bread remains until morning, you shall burn the remainder with fire. It shall not be eaten, for it is holy.
+- brenton: And if aught be left of the flesh of the sacrifice of consecration and of the loaves until the morning, thou shalt burn the remainder with fire: it shall not be eaten, for it is a holy thing.
+
+### Exodus 29:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And thus you shall do for Aaron and for his sons according to all that I commanded you. Seven days you shall fill their hands.
+- brenton: And thus shalt thou do for Aaron and for his sons according to all things that I have commanded thee; seven days shalt thou fill their hands.
+
+### Exodus 29:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall offer the young bull of the sin offering on the day of purification, and you shall purify the altar when you sanctify it upon it, and you shall anoint it so as to sanctify it.
+- brenton: And thou shalt sacrifice the calf of the sin-offering on the day of purification, and thou shalt purify the altar when thou dost perform consecration upon it, and thou shalt anoint it so as to sanctify it.
+
+### Exodus 29:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Seven days you shall purify the altar and sanctify it, and the altar shall be most holy. Everyone touching the altar shall be sanctified.
+- brenton: Seven days shalt thou purify the altar and sanctify it; and the altar shall be most holy, every one that touches the altar shall be hallowed.
+
+### Exodus 29:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the things that you shall offer upon the altar: two year-old flawless lambs each day upon the altar continually, a continual offering.
+- brenton: And these are the offerings which thou shalt offer upon the altar; two unblemished lambs of a year old daily on the altar continually, a constant offering.
+
+### Exodus 29:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one lamb you shall offer in the morning, and the second lamb you shall offer at evening.
+- brenton: One lamb thou shalt offer in the morning, and the second lamb thou shalt offer in the evening.
+
+### Exodus 29:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with the one lamb, a tenth of fine flour kneaded in a quarter-hin of beaten oil, and a drink offering, a quarter-hin of wine.
+- brenton: And a tenth measure of fine flour mingled with the fourth part of an hin of beaten oil, and a drink-offering the fourth part of a hin of wine for one lamb.
+
+### Exodus 29:41
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the second lamb you shall offer at evening. According to the morning sacrifice and according to its drink offering you shall offer it, as a smell of sweet fragrance, an offering to the Lord.
+- brenton: And thou shalt offer the second lamb in the evening, after the manner of the morning-offering, and according to the drink-offering of the morning lamb; thou shalt offer it an offering to the Lord for a sweet-smelling savour,
+
+### Exodus 29:42
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: A continual sacrifice throughout your generations at the doors of the tent of testimony before the Lord, where I will make myself known to you there so as to speak to you.
+- brenton: a perpetual sacrifice throughout your generations, at the door of the tabernacle of witness before the Lord; wherein I will be known to thee from thence, so as to speak to thee.
+
+### Exodus 29:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there I will appoint things for the sons of Israel, and I will be sanctified in my glory.
+- brenton: And I will there give orders to the children of Israel, and I will be sanctified in my glory.
+
+### Exodus 29:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will sanctify the tent of testimony and the altar, and Aaron and his sons I will sanctify to serve as priests to me.
+- brenton: And I will sanctify the tabernacle of testimony and the altar, and I will sanctify Aaron and his sons, to minister as priests to me.
+
+### Exodus 29:45
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will be called upon among the sons of Israel, and I will be their God.
+- brenton: And I will be called upon among the children of Israel, and will be their God.
+
+### Exodus 29:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall know that I am the Lord their God, who brought them out of the land of Egypt to be called upon by them and to be their God.
+- brenton: And they shall know that I am the Lord their God, who brought them forth out of the land of Egypt, to be called upon by them, and to be their God.
+
+### Exodus 30:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make an altar of incense of incorruptible wood, and you shall make it
+- brenton: And thou shalt make the altar of incense of incorruptible wood.
+
+### Exodus 30:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one cubit its length and one cubit its breadth. It shall be square, and its height two cubits. Its horns shall be from it.
+- brenton: And thou shalt make it a cubit in length, and a cubit in breadth: it shall be square; and the height of it shall be of two cubits, its horns shall be of the same piece.
+
+### Exodus 30:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall overlay it with pure gold, its top and its walls all around and its horns, and you shall make for it a twisted golden border all around.
+- brenton: And thou shalt gild its grate with pure gold, and its sides round about, and its horns; and thou shalt make for it a wreathen border of gold round-about.
+
+### Exodus 30:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make two rings of pure gold under its twisted border. On its two sides you shall make them at the two corners, and they shall be holders for the poles, to carry it by them.
+- brenton: And thou shalt make under its wreathen border two rings of pure gold; thou shalt make it to the two corners on the two sides, and they shall be bearings for the staves, so as to bear it with them.
+
+### Exodus 30:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make poles of incorruptible wood and overlay them with gold.
+- brenton: And thou shalt make the staves of incorruptible wood, and shalt gild them with gold.
+
+### Exodus 30:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place it opposite the curtain that is over the ark of testimonies, where I will make myself known to you there.
+- brenton: And thou shalt set it before the veil that is over the ark of the testimonies, wherein I will make myself known to thee from thence.
+
+### Exodus 30:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall burn on it compounded fine incense every morning. When he trims the lamps, he shall burn incense on it.
+- brenton: And Aaron shall burn upon it fine compound incense every morning; whensoever he trims the lamps he shall burn incense upon it.
+
+### Exodus 30:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when Aaron lights the lamps at evening, he shall burn incense on it, a continual incense before the Lord throughout their generations.
+- brenton: And when Aaron lights the lamps in the evening, he shall burn incense upon it; a constant incense-offering always before the Lord for their generations.
+
+### Exodus 30:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not offer on it different incense, or an offering, or a sacrifice, and you shall not pour a drink offering on it.
+- brenton: And thou shalt not offer strange incense upon it, nor an offering made by fire, nor a sacrifice; and thou shalt not pour a drink-offering upon it.
+
+### Exodus 30:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron shall make atonement upon its horns once each year. From the blood of purification for sins, from the atonement, once each year he shall cleanse it throughout their generations. It is Holy of Holies to the Lord.
+- brenton: And once in the year Aaron shall make atonement on its horns, he shall purge it with the blood of purification for their generations: it is most holy to the Lord.
+
+### Exodus 30:11
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 30:12
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: If you take the numbering of the sons of Israel at their visitation, each shall give a ransom for his life to the Lord, and there shall be no plague among them at their visitation.
+- brenton: If thou take account of the children of Israel in the surveying of them, and they shall give every one a ransom for his soul to the Lord, then there shall not be among them a destruction in the visiting of them.
+
+### Exodus 30:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And this is what they shall give, all who pass through the visitation: half the didrachm, according to the didrachm of the sanctuary. Twenty obols to the didrachm. But the half-didrachm is an offering to the Lord.
+- brenton: And this is what they shall give, as many as pass the survey, half a didrachm which is according to the didrachm of the sanctuary: twenty oboli go to the didrachm, but the half of the didrachm is the offering to the Lord.
+
+### Exodus 30:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone who passes through the visitation, from twenty years old and above, shall give the offering to the Lord.
+- brenton: Every one that passes the survey from twenty years old and upwards shall give the offering to the Lord.
+
+### Exodus 30:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The rich shall not add and the poor shall not lessen from the half-didrachm in giving the offering to the Lord, to make atonement for your lives.
+- brenton: The rich shall not give more, and the poor shall not give less than the half didrachm in giving the offering to the Lord, to make atonement for your souls.
+
+### Exodus 30:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the silver of the offering from the sons of Israel and give it for the work of the tent of testimony, and it shall be a memorial before the Lord for the sons of Israel, to make atonement for your lives.
+- brenton: And thou shalt take the money of the offering from the children of Israel, and shalt give it for the service of the tabernacle of testimony; and it shall be to the children of Israel a memorial before the Lord, to make atonement for your souls.
+
+### Exodus 30:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 30:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Make a bronze laver and a bronze base for it for washing, and you shall place it between the tent of testimony and the altar, and you shall pour water into it.
+- brenton: Make a brazen laver, and a brazen base for it, for washing; and thou shalt put it between the tabernacle of witness and the altar, and thou shalt pour forth water into it.
+
+### Exodus 30:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons shall wash from it their hands and feet with water.
+- brenton: And Aaron and his sons shall wash their hands and their feet with water from it.
+
+### Exodus 30:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: When they enter into the tent of testimony, they shall wash with water and not die; or when they approach the altar to minister and offer the whole burnt offerings to the Lord.
+- brenton: Whensoever they shall go into the tabernacle of witness, they shall wash themselves with water, so they shall not die, whensoever they advance to the altar to do service and to offer the whole burnt-offerings to the Lord.
+
+### Exodus 30:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall wash their hands and feet with water when they enter into the tent of testimony, so that they may not die. And it shall be an everlasting statute for them, for him and for his generations after him.
+- brenton: They shall wash their hands and feet with water, whensoever they shall go into the tabernacle of witness; they shall wash themselves with water, that they die not; and it shall be for them a perpetual statute, for him and his posterity after him.
+
+### Exodus 30:22
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 30:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you, take sweet spices: five hundred shekels of choice-flowing myrrh, and half that amount, two hundred fifty of sweet cinnamon, and two hundred fifty of sweet calamus,
+- brenton: Do thou also take sweet herbs, the flower of choice myrrh five hundred shekels, and the half of this two hundred and fifty shekels of sweet-smelling cinnamon, and two hundred and fifty shekels of sweet-smelling calamus,
+
+### Exodus 30:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and five hundred shekels of cassia by the sanctuary shekel, and a hin of olive oil.
+- brenton: and of cassia five hundred shekels of the sanctuary, and a hin of olive oil.
+
+### Exodus 30:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make it holy anointing oil, perfumed ointment, work of a perfumer. It shall be holy anointing oil.
+- brenton: And thou shalt make it a holy anointing oil, a perfumed ointment tempered by the art of the perfumer: it shall be a holy anointing oil.
+
+### Exodus 30:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall anoint with it the tent of testimony and the ark of testimony,
+- brenton: And thou shalt anoint with it the tabernacle of witness, and the ark of the tabernacle of witness,
+
+### Exodus 30:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the lampstand and all its utensils and the altar of incense,
+- brenton: and all its furniture, and the candlestick and all its furniture, and the altar of incense,
+
+### Exodus 30:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the altar of whole burnt offerings and all its utensils and the table and all its utensils and the laver and its base.
+- brenton: and the altar of whole burnt-offerings and all its furniture, and the table and all its furniture, and the laver.
+
+### Exodus 30:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall sanctify them, and they shall be Holy of Holies. Everyone touching them shall be sanctified.
+- brenton: And thou shalt sanctify them, and they shall be most holy: every one that touches them shall be hallowed.
+
+### Exodus 30:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall anoint Aaron and his sons and sanctify them to serve as priests to me.
+- brenton: And thou shalt anoint Aaron and his sons, and sanctify them that they may minister to me as priests.
+
+### Exodus 30:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall speak to the sons of Israel, saying, "This shall be holy oil of anointing for you throughout your generations.
+- brenton: And thou shalt speak to the children of Israel, saying, This shall be to you a holy anointing oil throughout your generations.
+
+### Exodus 30:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It shall not be poured on human flesh, and according to this composition you shall not make any for yourselves in the same way. It is holy, and it shall be holiness for you.
+- brenton: On man's flesh it shall not be poured, and ye shall not make any for yourselves according to this composition: it is holy, and shall be holiness to you.
+
+### Exodus 30:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever makes any like it, and whoever gives some of it to an outsider, shall be destroyed from his people."
+- brenton: Whosoever shall make it in like manner, and whosoever shall give of it to a stranger, shall be destroyed from among his people.
+
+### Exodus 30:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Take for yourself sweet spices: stacte, onycha, sweet galbanum, and pure frankincense. There shall be equal amounts of each.
+- brenton: And the Lord said to Moses, Take for thyself sweet herbs, stacte, onycha, sweet galbanum, and transparent frankincense; there shall be an equal weight of each.
+
+### Exodus 30:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall make from it incense, perfumed compound, work of a perfumer, mixed, pure, holy.
+- brenton: And they shall make with it perfumed incense, tempered with the art of a perfumer, a pure holy work.
+
+### Exodus 30:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall beat some of it very fine and place it before the testimonies in the tent of testimony, where I will make myself known to you there. It shall be Holy of Holies for you.
+- brenton: And of these thou shalt beat some small, and thou shalt put it before the testimonies in the tabernacle of testimony, whence I will make myself known to thee: it shall be to you a most holy incense.
+
+### Exodus 30:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And incense according to this composition you shall not make for yourselves. It shall be a holy thing for you to the Lord.
+- brenton: Ye shall not make any for yourselves according to this composition; it shall be to you a holy thing for the Lord.
+
+### Exodus 30:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whoever makes any like it to smell it shall perish from his people."
+- brenton: Whosoever shall make any in like manner, so as to smell it, shall perish from his people.
+
+### Exodus 31:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 31:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "Look, I have called by name Bezalel son of Uri son of Hur, of the tribe of Judah.
+- brenton: Behold, I have called by name Beseleel the son of Urias the son of Or, of the tribe of Juda.
+
+### Exodus 31:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I have filled him with a divine spirit of wisdom and understanding and knowledge in every work,
+- brenton: And I have filled him with a divine spirit of wisdom, and understanding, and knowledge, to invent in every work,
+
+### Exodus 31:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to devise and design, to work gold and silver and bronze, and blue and purple and spun scarlet and woven fine linen,
+- brenton: and to frame works, to labour in gold, and silver, and brass, and blue, and purple, and spun scarlet,
+
+### Exodus 31:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and in stone-cutting and woodwork, to work in every task.
+- brenton: and works in stone, and for artificers' work in wood, to work at all works.
+
+### Exodus 31:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I, behold, have appointed with him Oholiab son of Ahisamach, of the tribe of Dan. And to everyone wise in heart I have given understanding, and they shall make all that I commanded you:
+- brenton: And I have appointed him and Eliab the son of Achisamach of the tribe of Dan, and to every one understanding in heart I have given understanding; and they shall make all things as many as I have appointed thee,—
+
+### Exodus 31:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the tent of testimony and the ark of the covenant and the propitiatory upon it and the furnishings of the tent,
+- brenton: the tabernacle of witness, and the ark of the covenant, and the propitiatory that is upon it, and the furniture of the tabernacle,
+
+### Exodus 31:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the altars and the table and all its utensils and the pure lampstand and all its utensils,
+- brenton: and the altars, and the table and all its furniture,
+
+### Exodus 31:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the laver and its base,
+- brenton: and the pure candlestick and all its furniture, and the laver and its base,
+
+### Exodus 31:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the ministering garments of Aaron and the garments of his sons to serve as priests to me,
+- brenton: and Aaron's robes of ministry, and the robes of his sons to minister to me as priests,
+
+### Exodus 31:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the anointing oil and the compounded incense of the holy place. According to all that I commanded you, they shall make them."
+- brenton: and the anointing oil and the compound incense of the sanctuary; according to all that I have commanded thee shall they make them.
+
+### Exodus 31:12
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 31:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "And you, command the sons of Israel, saying, See that you keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I am the Lord who sanctifies you.
+- brenton: Do thou also charge the children of Israel, saying, Take heed and keep my sabbaths; for they are a sign with me and among you throughout your generations, that ye may know that I am the Lord that sanctifies you.
+
+### Exodus 31:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep the Sabbaths, because this is holy to the Lord for you. The one profaning it shall certainly be put to death. Everyone who does work on it, that life shall be destroyed from the midst of his people.
+- brenton: And ye shall keep the sabbaths, because this is holy to the Lord for you; he that profanes it shall surely be put to death: every one who shall do a work on it, that soul shall be destroyed from the midst of his people.
+
+### Exodus 31:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six days you shall do works, but on the seventh day is Sabbath rest, holy to the Lord. Everyone who does work on the seventh day shall certainly be put to death.
+- brenton: Six days thou shalt do works, but the seventh day is the sabbath, a holy rest to the Lord; every one who shall do a work on the seventh day shall be put to death.
+
+### Exodus 31:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel shall keep the Sabbaths, to do them throughout their generations, an everlasting covenant.
+- brenton: And the children of Israel shall keep the sabbaths, to observe them throughout their generations.
+
+### Exodus 31:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Between me and the sons of Israel it is an everlasting sign, because in six days the Lord made heaven and earth, and on the seventh day he ceased and rested."
+- brenton: It is a perpetual covenant with me and the children of Israel, it is a perpetual sign with me; for in six days the Lord made the heaven and the earth, and on the seventh day he ceased, and rested.
+
+### Exodus 31:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he finished speaking to him on Mount Sinai, he gave Moses the two tablets of testimony, stone tablets written with the finger of God.
+- brenton: And he gave to Moses when he left off speaking to him in mount Sina the two tables of testimony, tables of stone written upon with the finger of God.
+
+### Exodus 32:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the people saw that Moses had delayed to come down from the mountain, the people gathered against Aaron and said to him, "Rise up and make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him."
+- brenton: And when the people saw that Moses delayed to come down from the mountain, the people combined against Aaron, and said to him, Arise and make us gods who shall go before us; for this Moses, the man who brought us forth out of the land of Egypt—we do not know what is become of him.
+
+### Exodus 32:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron said to them, "Strip off the gold earrings in the ears of your wives and daughters and bring them to me."
+- brenton: And Aaron says to them, Take off the golden ear-rings which are in the ears of your wives and daughters, and bring them to me.
+
+### Exodus 32:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the people stripped off the gold earrings in their ears and brought them to Aaron.
+- brenton: And all the people took off the golden ear-rings that were in their ears, and brought them to Aaron.
+
+### Exodus 32:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he took them from their hands and formed them with the graving tool and made them a molten calf. And he said, "These are your gods, Israel, who brought you up from Egypt."
+- brenton: And he received them at their hands, and formed them with a graving tool; and he made them a molten calf, and said, These are thy gods, O Israel, which have brought thee up out of the land of Egypt.
+
+### Exodus 32:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron, seeing, built an altar before it, and Aaron proclaimed, saying, "Tomorrow is a feast of the Lord."
+- brenton: And Aaron having seen it built an altar before it, and Aaron made proclamation saying, To-morrow is a feast of the Lord.
+
+### Exodus 32:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And rising early the next day, he offered whole burnt offerings and brought sacrifices of salvation. And the people sat down to eat and drink and rose up to play.
+- brenton: And having risen early on the morrow, he offered whole burnt-offerings, and offered a peace-offering; and the people sat down to eat and drink, and rose up to play.
+
+### Exodus 32:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses, saying, "Go, hurry down from here, for your people whom you brought up from Egypt have acted lawlessly.
+- brenton: And the Lord spoke to Moses, saying, Go quickly, descend hence, for thy people whom thou broughtest out of the land of Egypt have transgressed;
+
+### Exodus 32:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, 'These are your gods, Israel, who brought you up from Egypt.'"
+- brenton: they have quickly gone out of the way which thou commandedst; they have made for themselves a calf, and worshipped it, and sacrificed to it, and said, These are thy gods, O Israel, who brought thee up out of the land of Egypt.
+
+### Exodus 32:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now let me alone, and in anger I will destroy them, and I will make you a great nation.
+- brenton: And now let me alone, and I will be very angry with them and consume them, and I will make thee a great nation.
+
+### Exodus 32:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses entreated before the Lord God and said, "Why, Lord, does angry wrath burn against your people whom you brought out from Egypt with great strength and with your high arm?
+- brenton: And Moses prayed before the Lord God, and said, Wherefore, O Lord, art thou very angry with thy people, whom thou broughtest out of the land of Egypt with great strength, and with thy high arm?
+
+### Exodus 32:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let not the Egyptians ever say, 'He brought them out with evil intent, to kill them in the mountains and consume them from the earth.' Stop from the anger of your wrath and be merciful concerning the evil of your people.
+- brenton: Take heed lest at any time the Egyptians speak, saying, With evil intent he brought them out to slay them in the mountains, and to consume them from off the earth; cease from thy wrathful anger, and be merciful to the sin of thy people,
+
+### Exodus 32:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Remember Abraham and Isaac and Jacob your servants, to whom you swore by yourself and spoke to them, saying, 'I will greatly multiply your seed like the stars of heaven in multitude, and all this land that I said I would give to your seed, and they shall possess it forever.'"
+- brenton: remembering Abraam and Isaac and Jacob thy servants, to whom thou hast sworn by thyself, and hast spoken to them, saying, I will greatly multiply your seed as the stars of heaven for multitude, and all this land which thou spokest of to give to them, so that they shall possess it for ever.
+
+### Exodus 32:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord was propitiated concerning the evil that he had said he would do to his people.
+- brenton: And the Lord was prevailed upon to preserve his people.
+
+### Exodus 32:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses turned and went down from the mountain, and the two tablets of testimony were in his hands, stone tablets inscribed on both their sides, written on this side and that side.
+- brenton: And Moses turned and went down from the mountain, and the two tables of testimony were in his hands, tables of stone written on both their sides: they were written within and without.
+
+### Exodus 32:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the tablets were God's work, and the writing was God's writing, engraved upon the tablets.
+- brenton: And the tables were the work of God, and the writing the writing of God written on the tables.
+
+### Exodus 32:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joshua, hearing the voice of the people crying out, said to Moses, "A sound of war is in the camp."
+- brenton: And Joshua having heard the voice of the people crying, says to Moses, There is a noise of war in the camp.
+
+### Exodus 32:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "It is not the sound of those shouting in strength, nor the sound of those shouting in rout, but the sound of those striking up wine-song that I hear."
+- brenton: And Moses says, It is not the voice of them that begin the battle, nor the voice of them that begin the cry of defeat, but the voice of them that begin the banquet of wine do I hear.
+
+### Exodus 32:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he drew near to the camp, he saw the calf and the dances. And Moses, burning with anger, threw the two tablets from his hands and shattered them at the foot of the mountain.
+- brenton: And when he drew nigh to the camp, he sees the calf and the dances; and Moses being very angry cast the two tables out of his hands, and broke them to pieces under the mountain.
+
+### Exodus 32:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking the calf that they had made, he burned it in fire and ground it fine and scattered it on the water and made the sons of Israel drink it.
+- brenton: And having taken the calf which they made, he consumed it with fire, and ground it very small, and scattered it on the water, and made the children of Israel to drink it.
+
+### Exodus 32:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron, "What did this people do to you that you brought a great sin upon them?"
+- brenton: And Moses said to Aaron, What has this people done to thee, that thou hast brought upon them a great sin?
+
+### Exodus 32:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron said to Moses, "Do not be angry, my lord. You know the rush of this people.
+- brenton: And Aaron said to Moses, Be not angry, my lord, for thou knowest the impetuosity of this people.
+
+### Exodus 32:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For they say to me, 'Make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him.'
+- brenton: For they say to me, Make us gods, which shall go before us; for as for this man Moses, who brought us out of Egypt, we do not know what is become of him.
+
+### Exodus 32:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to them, 'Whoever has gold ornaments, strip them off.' And they gave them to me, and I threw them into the fire, and out came this calf."
+- brenton: And I said to them, If any one has golden ornaments, take them off; and they gave them me, and I cast them into the fire, and there came out this calf.
+
+### Exodus 32:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses, seeing that the people were scattered, for Aaron had scattered them into mockery for their enemies,
+- brenton: And when Moses saw that the people was scattered,—for Aaron had scattered them so as to be a rejoicing to their enemies,—
+
+### Exodus 32:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: stood at the gate of the camp and said, "Who is for the Lord? Let him come to me." Then all the sons of Levi gathered to him.
+- brenton: then stood Moses at the gate of the camp, and said, Who is on the Lord's side? let him come to me. Then all the sons of Levi came to him.
+
+### Exodus 32:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, "Thus says the Lord God of Israel: Let each put his sword upon his thigh and go through and return from gate to gate through the camp, and let each kill his brother and each his neighbor and each his nearest one."
+- brenton: And he says to them, Thus saith the Lord God of Israel, Put every one his sword on his thigh, and go through and return from gate to gate through the camp, and slay every one his brother, and every one his neighbour, and every one him that is nearest to him.
+
+### Exodus 32:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Levi did as Moses spoke to them, and about three thousand men from the people fell that day.
+- brenton: And the sons of Levi did as Moses spoke to them, and there fell of the people in that day to the number of three thousand men.
+
+### Exodus 32:29
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to them, "You have filled your hands today to the Lord, each one against his son or his brother, so that blessing may be given upon you."
+- brenton: And Moses said to them, Ye have filled your hands this day to the Lord each one on his son or on his brother, so that blessing should be given to you.
+
+### Exodus 32:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came about on the next day that Moses said to the people, "You have sinned a great sin. And now I will go up to God, so that I may make atonement for your sin."
+- brenton: And it came to pass after the morrow had begun, that Moses said to the people, Ye have sinned a great sin; and now I will go up to God, that I may make atonement for your sin.
+
+### Exodus 32:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses returned to the Lord and said, "I beg, Lord, this people has sinned a great sin, and they made for themselves gods of gold.
+- brenton: And Moses returned to the Lord and said, I pray, O Lord, this people has sinned a great sin, and they have made for themselves golden gods.
+
+### Exodus 32:32
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And now, if indeed you forgive their sin, forgive. But if not, blot me out from your book that you wrote."
+- brenton: And now if thou wilt forgive their sin, forgive it; and if not, blot me out of thy book, which thou hast written.
+
+### Exodus 32:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Whoever has sinned before me, him I will blot out from my book.
+- brenton: And the Lord said to Moses, If any one has sinned against me, I will blot them out of my book.
+
+### Exodus 32:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my messenger goes before your face. But in the day when I visit, I will bring their sin upon them."
+- brenton: And now go, descend, and lead this people into the place of which I spoke to thee: behold, my angel shall go before thy face; and in the day when I shall visit I will bring upon them their sin.
+
+### Exodus 32:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord struck the people because of the making of the calf that Aaron made.
+- brenton: And the Lord smote the people for the making of the calf, which Aaron made.
+
+### Exodus 33:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Go, go up from here, you and your people whom you brought out of Egypt, to the land that I swore to Abraham and Isaac and Jacob, saying, 'To your seed I will give it.'
+- brenton: And the Lord said to Moses, Go forward, go up hence, thou and thy people, whom thou broughtest out of the land of Egypt, into the land which I swore to Abraam, and Isaac, and Jacob, saying, I will give it to your seed.
+
+### Exodus 33:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will send my messenger with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
+- brenton: And I will send at the same time my angel before thy face, and he shall cast out the Amorite and the Chettite, and the Pherezite and Gergesite, and Evite, and Jebusite, and Chananite.
+
+### Exodus 33:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will bring you into a land flowing with milk and honey, but I will certainly not go up with you, because you are a stiff-necked people, lest I consume you on the way."
+- brenton: And I will bring thee into a land flowing with milk and honey; for I will not go up with thee, because thou art a stiff-necked people, lest I consume thee by the way.
+
+### Exodus 33:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the people heard this evil word, they mourned in mourning clothes.
+- brenton: And the people having heard this grievous saying, mourned in mourning apparel.
+
+### Exodus 33:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to the sons of Israel, "You are a stiff-necked people. See that I do not bring another plague upon you and consume you. Now then strip off your glorious garments and ornaments, and I will show you what I will do to you."
+- brenton: For the Lord said to the children of Israel, Ye are a stiff-necked people; take heed lest I bring on you another plague, and destroy you: now then put off your glorious apparel, and your ornaments, and I will shew thee what I will do to thee.
+
+### Exodus 33:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So the sons of Israel stripped off their ornaments and their array from Mount Horeb onward.
+- brenton: So the sons of Israel took off their ornaments and their array at the mount of Choreb.
+
+### Exodus 33:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took his tent and pitched it outside the camp, far from the camp, and it was called Tent of Testimony. And everyone seeking the Lord went out to the tent outside the camp.
+- brenton: And Moses took his tabernacle and pitched it without the camp, at a distance from the camp; and it was called the Tabernacle of Testimony: and it came to pass that every one that sought the Lord went forth to the tabernacle which was without the camp.
+
+### Exodus 33:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whenever Moses went into the tent outside the camp, all the people stood watching, each at the door of his tent, and they gazed after Moses until he entered the tent.
+- brenton: And whenever Moses went into the tabernacle without the camp, all the people stood every one watching by the doors of his tent; and when Moses departed, they took notice until he entered into the tabernacle.
+
+### Exodus 33:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when Moses entered the tent, the pillar of the cloud came down and stood at the door of the tent, and he spoke with Moses.
+- brenton: And when Moses entered into the tabernacle, the pillar of the cloud descended, and stood at the door of the tabernacle, and God talked to Moses.
+
+### Exodus 33:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the people saw the pillar of the cloud standing at the door of the tent, and all the people stood and worshiped, each from the door of his tent.
+- brenton: And all the people saw the pillar of the cloud standing by the door of the tabernacle, and all the people stood and worshipped every one at the door of his tent.
+
+### Exodus 33:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord spoke to Moses face to face, as if one would speak to his own friend. And he would return to the camp. But his servant Joshua son of Nun, a young man, would not depart from the tent.
+- brenton: And the Lord spoke to Moses face to face, as if one should speak to his friend; and he retired into the camp: but his servant Joshua the son of Naue, a young man, departed not forth from the tabernacle.
+
+### Exodus 33:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the Lord, "See, you say to me, 'Lead up this people,' but you have not made clear to me whom you will send with me. Yet you have said to me, 'I know you above all, and you have favor with me.'
+- brenton: And Moses said to the Lord, Lo! thou sayest to me, Lead on this people; but thou hast not shewed me whom thou wilt send with me, but thou hast said to me, I know thee above all, and thou hast favour with me.
+
+### Exodus 33:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If then I have found favor before you, reveal yourself to me plainly, that I may see you, so that I may continue finding favor before you, and so that I may know that this great nation is your people."
+- brenton: If then I have found favour in thy sight, reveal thyself to me, that I may evidently see thee; that I may find favour in thy sight, and that I may know that this great nation is thy people.
+
+### Exodus 33:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "I myself will go before you and give you rest."
+- brenton: And he says, I myself will go before thee, and give thee rest.
+
+### Exodus 33:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, "If you yourself do not go with us, do not lead me up from here.
+- brenton: And he says to him, If thou go not up with us thyself, bring me not up hence.
+
+### Exodus 33:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For how shall it truly become known that both I and your people have found favor with you, except when you go with us? Then both I and your people will be glorified beyond all the nations that are on the earth."
+- brenton: And how shall it be surely known, that both I and this people have found favour with thee, except only if thou go with us? So both I and thy people shall be glorified beyond all the nations, as many as are upon the earth.
+
+### Exodus 33:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "I will also do this word that you have spoken, for you have found favor before me, and I know you above all."
+- brenton: And the Lord said to Moses, I will also do for thee this thing, which thou hast spoken; for thou hast found grace before me, and I know thee above all.
+
+### Exodus 33:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "Show me your own glory."
+- brenton: And Moses says, Manifest thyself to me.
+
+### Exodus 33:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "I will pass before you in my glory, and I will call on my name, 'Lord,' before you. And I will have mercy on whom I have mercy, and I will pity whom I pity."
+- brenton: And God said, I will pass by before thee with my glory, and I will call by my name, the Lord, before thee; and I will have mercy on whom I will have mercy, and will have pity on whom I will have pity.
+
+### Exodus 33:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "You cannot see my face, for no human shall see my face and live."
+- brenton: And God said, Thou shalt not be able to see my face; for no man shall see my face, and live.
+
+### Exodus 33:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, "Behold, a place is beside me. Stand upon the rock.
+- brenton: And the Lord said, Behold, there is a place by me: thou shalt stand upon the rock;
+
+### Exodus 33:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when my glory passes by, I will put you in a hollow of the rock and cover you with my hand until I pass by.
+- brenton: and when my glory shall pass by, then I will put thee into a hole of the rock; and I will cover thee over with my hand, until I shall have passed by.
+
+### Exodus 33:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will remove my hand, and then you shall see my back, but my face shall not be seen by you."
+- brenton: And I will remove my hand, and then shalt thou see my back parts; but my face shall not appear to thee.
+
+### Exodus 34:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Hew for yourself two stone tablets like the first, and come up to me on the mountain, and I will write on the tablets the words that were on the first tablets which you shattered.
+- brenton: And the Lord said to Moses, Hew for thyself two tables of stone, as also the first were, and come up to me to the mountain; and I will write upon the tables the words, which were on the first tables, which thou brokest.
+
+### Exodus 34:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And be ready for the morning, and you shall come up to Mount Sinai and stand there for me on the top of the mountain.
+- brenton: And be ready by the morning, and thou shalt go up to the mount Sina, and shalt stand there for me on the top of the mountain.
+
+### Exodus 34:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And let no one come up with you, nor be seen on all the mountain, and let not the sheep and the oxen graze near that mountain."
+- brenton: And let no one go up with thee, nor be seen in all the mountain; and let not the sheep and oxen feed near that mountain.
+
+### Exodus 34:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he hewed two stone tablets like the first. And Moses, rising early, went up to Mount Sinai, just as the Lord had appointed him, and Moses took the two stone tablets.
+- brenton: And Moses hewed two tables of stone, as also the first were; and Moses having arisen early, went up to the mount Sina, as the Lord appointed him; and Moses took the two tables of stone.
+
+### Exodus 34:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord came down in a cloud and stood with him there and called on the name of the Lord.
+- brenton: And the Lord descended in a cloud, and stood near him there, and called by the name of the Lord.
+
+### Exodus 34:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord passed before his face and proclaimed, "The Lord God, compassionate and merciful, slow to anger and very merciful and true,
+- brenton: And the Lord passed by before his face, and proclaimed, The Lord God, pitiful and merciful, longsuffering and very compassionate, and true,
+
+### Exodus 34:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: keeping righteousness and showing mercy to thousands, taking away lawlessness and unrighteousness and sins, and he will not clear the guilty, bringing fathers' lawlessness upon children and upon children's children, to the third and fourth generation."
+- brenton: and keeping justice and mercy for thousands, taking away iniquity, and unrighteousness, and sins; and he will not clear the guilty; bringing the iniquity of the fathers upon the children, and to the children's children, to the third and fourth generation.
+
+### Exodus 34:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses hurried, bowed to the earth, and worshiped.
+- brenton: And Moses hasted, and bowed to the earth and worshipped;
+
+### Exodus 34:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, "If I have found favor before you, let my Lord go with us, for the people is stiff-necked, and you will take away our sins and our lawlessnesses, and we will be yours."
+- brenton: and said, If I have found grace before thee, let my Lord go with us; for the people is stiff-necked: and thou shalt take away our sins and our iniquities, and we will be thine.
+
+### Exodus 34:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Behold, I establish a covenant for you. Before all your people I will do glorious things that have not been done in all the earth or in any nation, and all the people among whom you are shall see the works of the Lord, because the things that I will do for you are wonderful.
+- brenton: And the Lord said to Moses, Behold, I establish a covenant for thee in the presence of all thy people; I will do glorious things, which have not been done in all the earth, or in any nation; and all the people among whom thou art shall see the works of the Lord, that they are wonderful, which I will do for thee.
+
+### Exodus 34:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Pay attention to all that I command you. Behold, I drive out before you the Amorite and Canaanite and Hittite and Perizzite and Hivite and Girgashite and Jebusite.
+- brenton: Do thou take heed to all things whatsoever I command thee: behold, I cast out before your face the Amorite and the Chananite and the Pherezite, and the Chettite, and Evite, and Gergesite and Jebusite:
+
+### Exodus 34:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Pay attention to yourself, lest you make a covenant with those settled on the land into which you are entering, lest it become a stumbling block among you.
+- brenton: take heed to thyself, lest at any time thou make a covenant with the dwellers on the land, into which thou art entering, lest it be to thee a stumbling-block among you.
+
+### Exodus 34:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall tear down their altars and break in pieces their pillars and cut down their groves, and the carved images of their gods you shall burn with fire.
+- brenton: Ye shall destroy their altars, and break in pieces their pillars, and ye shall cut down their groves, and the graven images of their gods ye shall burn with fire.
+
+### Exodus 34:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For you shall certainly not worship another god, for the Lord God, Jealous is his name; he is a jealous God.
+- brenton: For ye shall not worship strange gods, for the Lord God, a jealous name, is a jealous God;
+
+### Exodus 34:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Lest you make a covenant with those settled on the land, and they prostitute themselves after their gods and sacrifice to their gods and invite you and you eat from their sacrifices,
+- brenton: lest at any time thou make a covenant with the dwellers on the land, and they go a whoring after their gods, and sacrifice to their gods, and they call thee, and thou shouldest eat of their feasts,
+
+### Exodus 34:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and you take some of their daughters for your sons and give some of your daughters to their sons, and your daughters prostitute themselves after their gods and make your sons prostitute themselves after their gods.
+- brenton: and thou shouldest take of their daughters to thy sons, and thou shouldest give of thy daughters to their sons; and thy daughters should go a whoring after their gods, and thy sons should go a whoring after their gods.
+
+### Exodus 34:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not make molten gods for yourself.
+- brenton: And thou shalt not make to thyself molten gods.
+
+### Exodus 34:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the appointed time in the month of new grain, for in the month of new grain you came out from Egypt.
+- brenton: And thou shalt keep the feast of unleavened bread: seven days shalt thou eat unleavened bread, as I have charged thee, at the season in the month of new corn; for in the month of new corn thou camest out from Egypt.
+
+### Exodus 34:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everything opening the womb is mine, every male firstborn of ox and every firstborn of sheep.
+- brenton: The males are mine, everything that opens the womb; every first-born of oxen, and every first-born of sheep.
+
+### Exodus 34:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the firstborn of a beast of burden you shall redeem with a sheep. And if you do not redeem it, you shall pay a price. Every firstborn of your sons you shall redeem. You shall not appear before me empty.
+- brenton: And the first-born of an ass thou shalt redeem with a sheep, and if thou wilt not redeem it thou shalt pay a price: every first-born of thy sons shalt thou redeem: thou shalt not appear before me empty.
+
+### Exodus 34:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six days you shall work, and on the seventh you shall rest; in seedtime and harvest you shall rest.
+- brenton: Six days thou shalt work, but on the seventh day thou shalt rest: there shall be rest in seed-time and harvest.
+
+### Exodus 34:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep for me the feast of weeks, the first of wheat harvest, and the feast of ingathering in the middle of the year.
+- brenton: And thou shalt keep to me the feast of weeks, the beginning of wheat-harvest; and the feast of ingathering in the middle of the year.
+
+### Exodus 34:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Three times in the year every male of yours shall appear before the Lord God of Israel.
+- brenton: Three times in the year shall every male of thine appear before the Lord the God of Israel.
+
+### Exodus 34:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For when I cast out the nations before your face and enlarge your borders, no one shall desire your land when you go up to appear before the Lord your God three times in the year.
+- brenton: For when I shall have cast out the nations before thy face, and shall have enlarged thy coasts, no one shall desire thy land, whenever thou mayest go up to appear before the Lord thy God, three times in the year.
+
+### Exodus 34:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not slaughter the blood of my offerings with leaven, and the sacrifice of Passover shall not lie down until morning.
+- brenton: Thou shalt not offer the blood of my sacrifices with leaven, neither shall the sacrifices of the feast of the passover remain till the morning.
+
+### Exodus 34:26
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: The first produce of your land you shall place in the house of the Lord your God. You shall not offer a lamb in its mother's milk.
+- brenton: The first-fruits of thy land shalt thou put into the house of the Lord thy God: thou shalt not boil a lamb in his mother's milk.
+
+### Exodus 34:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, "Write these words for yourself, for on these words I have established a covenant with you and with Israel."
+- brenton: And the Lord said to Moses, Write these words for thyself, for on these words I have established a covenant with thee and with Israel.
+
+### Exodus 34:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses was there before the Lord forty days and forty nights. He did not eat bread and did not drink water. And he wrote on the tablets the words of the covenant, the ten sayings.
+- brenton: And Moses was there before the Lord forty days, and forty nights; he did not eat bread, and he did not drink water; and he wrote upon the tables these words of the covenant, the ten sayings.
+
+### Exodus 34:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And when Moses came down from the mountain, the two tablets were in Moses' hands. And as he came down from the mountain, Moses did not know that the appearance of the skin of his face had been glorified when God spoke with him.
+- brenton: And when Moses went down from the mountain, there were the two tables in the hands of Moses,—as then he went down from the mountain, Moses knew not that the appearance of the skin of his face was glorified, when God spoke to him.
+
+### Exodus 34:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and all the elders of Israel saw Moses, and the appearance of the skin of his face had been glorified, and they feared to come near him.
+- brenton: And Aaron and all the elders of Israel saw Moses, and the appearance of the skin of his face was made glorious, and they feared to approach him.
+
+### Exodus 34:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses called them, and Aaron and all the rulers of the congregation turned back to him, and Moses spoke to them.
+- brenton: And Moses called them, and Aaron and all the rulers of the synagogue turned towards him, and Moses spoke to them.
+
+### Exodus 34:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after these things all the sons of Israel came near to him, and he commanded them all that the Lord had spoken to him on Mount Sinai.
+- brenton: And afterwards all the children of Israel came to him, and he commanded them all things, whatsoever the Lord had commanded him in the mount of Sina.
+
+### Exodus 34:33
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And when he ceased speaking to them, he put a veil on his face.
+- brenton: And when he ceased speaking to them, he put a veil on his face.
+
+### Exodus 34:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Whenever Moses went in before the Lord to speak with him, he removed the veil until he came out, and coming out he spoke to all the sons of Israel whatever the Lord had commanded him.
+- brenton: And whenever Moses went in before the Lord to speak to him, he took off the veil till he went out, and he went forth and spoke to all the children of Israel whatsoever the Lord commanded him.
+
+### Exodus 34:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel saw the face of Moses, that it had been glorified, and Moses put the veil on his face until he went in to speak with him.
+- brenton: And the children of Israel saw the face of Moses, that it was glorified; and Moses put the veil over his face, till he went in to speak with him.
+
+### Exodus 35:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses gathered all the congregation of the sons of Israel and said to them, "These are the words that the Lord spoke, to do them.
+- brenton: And Moses gathered all the congregation of the children of Israel together, and said, These are the words which the Lord has spoken for you to do them.
+
+### Exodus 35:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Six days you shall do works, but on the seventh day there shall be rest, holy Sabbath rest to the Lord. Everyone doing work on it shall die.
+- brenton: Six days shalt thou perform works, but on the seventh day shall be rest—a holy sabbath—a rest for the Lord: every one that does work on it, let him die.
+
+### Exodus 35:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not burn fire in any of your dwellings on the day of the Sabbaths. I am the Lord."
+- brenton: Ye shall not burn a fire in any of your dwellings on the sabbath-day; I am the Lord.
+
+### Exodus 35:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to all the congregation of the sons of Israel, saying, "This is the word that the Lord commanded, saying,
+- brenton: And Moses spoke to all the congregation of the children of Israel, saying, This is the thing which the Lord has appointed you, saying,
+
+### Exodus 35:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take from yourselves a contribution to the Lord. Everyone accepting it in heart shall bring the Lord's first-contributions: gold, silver, bronze,
+- brenton: Take of yourselves an offering for the Lord: every one that engages in his heart shall bring the first-fruits to the Lord; gold, silver, brass,
+
+### Exodus 35:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: blue, purple, doubled scarlet spun, woven fine linen, and goat hair,
+- brenton: blue, purple, double scarlet spun, and fine linen spun, and goats' hair,
+
+### Exodus 35:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and rams' skins dyed red and blue skins and incorruptible wood,
+- brenton: and rams' skins dyed red, and skins dyed blue, and incorruptible wood,
+
+### Exodus 35:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and sardius stones and stones for engraving, for the ephod and the robe.
+- brenton: and sardine stones, and stones for engraving for the shoulder-piece and full-length robe.
+
+### Exodus 35:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every wise-hearted person among you, let him come and make all that the Lord has commanded:
+- brenton: And every man that is wise in heart among you, let him come and work all things whatsoever the Lord has commanded.
+
+### Exodus 35:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the tent and the hangings and the coverings and the rings and the bars and the posts,
+- brenton: The tabernacle, and the cords, and the coverings, and the rings, and the bars, and the posts,
+
+### Exodus 35:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the ark of testimony and its poles and its propitiatory and the curtain,
+- brenton: and the ark of the testimony, and its staves, and its propitiatory, and the veil,
+
+### Exodus 35:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the table and all its utensils,
+- brenton: and the table and all its furniture,
+
+### Exodus 35:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the lampstand of light and all its utensils,
+- brenton: and the candlestick for the light and all its furniture,
+
+### Exodus 35:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the altar and all its utensils,
+- brenton: and the altar and all its furniture;
+
+### Exodus 35:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the holy garments of Aaron the priest and the garments in which they shall minister, and the tunics for Aaron's sons for the priesthood, and the anointing oil and the compounded incense."
+- brenton: and the holy garments of Aaron the priest, and the garments in which they shall do service; and the garments of priesthood for the sons of Aaron and the anointing oil, and the compound incense.
+
+### Exodus 35:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the congregation of the sons of Israel went out from Moses.
+- brenton: And all the congregation of the children of Israel went out from Moses. And they brought, they whose heart prompted them, and they to whomsoever it seemed good in their mind, each an offering:
+
+### Exodus 35:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And each one whose heart brought him, and each one to whom it seemed good in soul, brought the Lord's contribution for all the works of the tent of testimony and for all its services and for all the holy garments.
+- brenton: and they brought an offering to the Lord for all the works of the tabernacle of witness, and all its services, and for all the robes of the sanctuary.
+
+### Exodus 35:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men brought from among the women—everyone to whom it seemed good in mind—they brought seals and earrings and rings and necklaces and bracelets, every gold vessel. And all who brought gold contributions to the Lord brought them.
+- brenton: And the men, even every one to whom it seemed good in his heart, brought from the women, even brought seals and ear-rings, and finger-rings, and necklaces, and bracelets, every article of gold.
+
+### Exodus 35:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone with whom fine linen and blue skins and red-dyed rams' skins were found, brought them.
+- brenton: And all as many as brought ornaments of gold to the Lord, and with whomsoever fine linen was found; and they brought skins dyed blue, and rams' skins dyed red.
+
+### Exodus 35:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone offering a silver or bronze contribution brought the Lord's contributions, and those with whom incorruptible wood was found for all the works of preparation brought it.
+- brenton: And every one that offered an offering brought silver and brass, the offerings to the Lord; and they with whom was found incorruptible wood; and they brought offerings for all the works of the preparation.
+
+### Exodus 35:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every woman wise in mind spun with her hands and brought what was spun: the blue and the purple and the scarlet and the fine linen.
+- brenton: And every woman skilled in her heart to spin with her hands, brought spun articles, the blue, and purple, and scarlet and fine linen.
+
+### Exodus 35:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the women whose mind moved them in wisdom spun the goat hair.
+- brenton: And all the women to whom it seemed good in their heart in their wisdom, spun the goats' hair.
+
+### Exodus 35:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the rulers brought the sardius stones and the stones of filling for the ephod and for the breastpiece,
+- brenton: And the rulers brought the emerald stones, and the stones for setting in the ephod, and the oracle,
+
+### Exodus 35:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the spices and the oil of anointing and the compounded incense.
+- brenton: and the compounds both for the anointing oil, and the composition of the incense.
+
+### Exodus 35:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every man and woman whose mind moved them to come in and do all the works that the Lord had commanded to be done through Moses—the sons of Israel brought a contribution to the Lord.
+- brenton: And every man and woman whose mind inclined them to come in and do all the works as many as the Lord appointed them to do by Moses—they the children of Israel brought an offering to the Lord.
+
+### Exodus 35:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the sons of Israel, "Look, God has called by name Bezalel son of Uri son of Hur, of the tribe of Judah,
+- brenton: And Moses said to the children of Israel, Behold, God has called by name Beseleel the son of Urias the son of Or, of the tribe of Juda,
+
+### Exodus 35:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: and has filled him with a divine spirit of wisdom and understanding and knowledge of all things,
+- brenton: and has filled him with a divine spirit of wisdom and understanding, and knowledge of all things,
+
+### Exodus 35:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to devise skillfully in all works of craftsmanship, to make gold and silver and bronze,
+- brenton: to labour skilfully in all works of cunning workmanship, to form the gold and the silver and the brass,
+
+### Exodus 35:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and to cut stone and work wood and do every work of wisdom.
+- brenton: and to work in stone, and to fashion the wood, and to work in every work of wisdom.
+
+### Exodus 35:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he gave improvement in understanding in his mind, both to him and to Oholiab son of Ahisamach, of the tribe of Dan.
+- brenton: And God gave improvement in understanding both to him, and to Eliab the son of Achisamach of the tribe of Dan.
+
+### Exodus 35:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He filled them with wisdom, understanding, and insight to understand and do all the works of the holy place, and to weave woven and variegated work with the scarlet and fine linen, to do every work of craftsmanship and embroidery."
+- brenton: And God filled them with wisdom, understanding and perception, to understand to work all the works of the sanctuary, and to weave the woven and embroidered work with scarlet and fine linen, to do all work of curious workmanship and embroidery.
+
+### Exodus 36:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Bezalel and Oholiab and every wise-hearted one to whom wisdom and knowledge were given, to understand how to do all the works of the holy duties, did all that the Lord commanded.
+- brenton: And Beseleel wrought, and Eliab and every one wise in understanding, to whom was given wisdom and knowledge, to understand to do all the works according to the holy offices, according to all things which the Lord appointed.
+
+### Exodus 36:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses called Bezalel and Oholiab and all those having wisdom, to whom God gave knowledge in heart, and all who willingly wanted to come near to the works to perform them.
+- brenton: And Moses called Beseleel and Eliab, and all that had wisdom, to whom God gave knowledge in their heart, and all who were freely willing to come forward to the works, to perform them.
+
+### Exodus 36:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they received from Moses all the contributions that the sons of Israel had brought for all the works of the holy place to do them. And they were still receiving what was brought by those bringing it each morning.
+- brenton: And they received from Moses all the offerings, which the children of Israel brought for all the works of the sanctuary to do them; and they continued to receive the gifts brought, from those who brought them in the morning.
+
+### Exodus 36:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the wise men doing the works of the holy place came, each from his own work that he was doing,
+- brenton: And there came all the wise men who wrought the works of the sanctuary, each according to his own work, which they wrought.
+
+### Exodus 36:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they said to Moses, "The people are bringing more than enough for the works that the Lord commanded to be done."
+- brenton: And one said to Moses, The people bring an abundance too great in proportion to all the works which the Lord has appointed them to do.
+
+### Exodus 36:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses commanded, and proclamation was made in the camp, saying, "Let neither man nor woman work any longer for the first-contributions of the holy place." So the people were restrained from bringing more.
+- brenton: And Moses commanded, and proclaimed in the camp, saying, Let neither man nor woman any longer labour for the offerings of the sanctuary; and the people were restrained from bringing any more.
+
+### Exodus 36:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the works they had were sufficient for the making, and there was some left over.
+- brenton: And they had materials sufficient for making the furniture, and they left some besides.
+
+### Exodus 36:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every wise one among those working made the holy garments that belong to Aaron the priest, as the Lord commanded Moses.
+- brenton: And every wise one among those that wrought made the robes of the holy places, which belong to Aaron the priest, as the Lord commanded Moses.
+
+### Exodus 36:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the ephod of gold and blue and purple and spun scarlet and woven fine linen.
+- brenton: And he made the ephod of gold, and blue, and purple, and spun scarlet, and fine linen twined.
+
+### Exodus 36:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the plates of gold were cut into threads, so that they might be woven with the blue and the purple and the spun scarlet and the woven fine linen, a woven work.
+- brenton: And the plates were divided, the threads of gold, so as to interweave with the blue and purple, and with the spun scarlet, and the fine linen twined, they made it a woven work;
+
+### Exodus 36:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They made shoulder-pieces joined from both sides.
+- brenton: shoulder-pieces joined from both sides, a work woven by mutual twisting of the parts into one another.
+
+### Exodus 36:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A woven work intertwined into one another they made from the same material, of gold and blue and purple and spun scarlet and woven fine linen, just as the Lord commanded Moses.
+- brenton: They made it of the same material according to the making of it, of gold, and blue, and purple, and spun scarlet, and fine linen twined, as the Lord commanded Moses;
+
+### Exodus 36:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the two emerald stones clasped and encircled in gold, engraved and carved like the carving of a seal, with the names of the sons of Israel.
+- brenton: and they made the two emerald stones clasped together and set in gold, graven and cut after the cutting of a seal with the names of the children of Israel;
+
+### Exodus 36:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed them on the shoulders of the ephod, as memorial stones of the sons of Israel, as the Lord commanded Moses.
+- brenton: and he put them on the shoulder-pieces of the ephod, as stones of memorial of the children of Israel, as the Lord appointed Moses.
+
+### Exodus 36:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the breastpiece, embroidered work, according to the work of the ephod, of gold and blue and purple and spun scarlet and woven fine linen.
+- brenton: And they made the oracle, a work woven with embroidery, according to the work of the ephod, of gold, and blue, and purple, and spun scarlet, and fine linen twined.
+
+### Exodus 36:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They made the breastpiece square and doubled, a span its length and a span its breadth, doubled.
+- brenton: They made the oracle square and double, the length of a span, and the breadth of a span,—double.
+
+### Exodus 36:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a setting of four rows of stones was woven into it: sardius and topaz and emerald, the first row.
+- brenton: And there was interwoven with it a woven work of four rows of stones, a series of stones, the first row, a sardius and topaz and emerald;
+
+### Exodus 36:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the second row: carbuncle and sapphire and jasper.
+- brenton: and the second row, a carbuncle and sapphire and jasper;
+
+### Exodus 36:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the third row: ligure and agate and amethyst.
+- brenton: and the third row, a ligure and agate and amethyst;
+
+### Exodus 36:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fourth row: chrysolite and beryl and onyx, encircled with gold and bound in gold.
+- brenton: and the fourth row a chrysolite and beryl and onyx set round about with gold, and fastened with gold.
+
+### Exodus 36:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the stones were twelve according to the names of the sons of Israel, engraved like seals, each with its own name for the twelve tribes.
+- brenton: And the stones were twelve according to the names of the children of Israel, graven according to their names like seals, each according to his own name for the twelve tribes.
+
+### Exodus 36:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made on the breastpiece braided cords, woven chainwork of pure gold.
+- brenton: And they made on the oracle turned wreaths, wreathen work, of pure gold,
+
+### Exodus 36:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made two gold settings and two gold rings and placed the two gold rings on both ends of the breastpiece.
+- brenton: and they made two golden circlets and two golden rings. And they put the two golden rings on both the upper corners of the oracle;
+
+### Exodus 36:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they placed the gold woven cords on the rings at both sides of the breastpiece.
+- brenton: and they put the golden wreaths on the rings on both sides of the oracle,
+
+### Exodus 36:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the two woven cords they set into the two couplings, and they placed them on the two settings, and they placed them on the shoulders of the ephod opposite each other at the front.
+- brenton: and the two wreaths into the two couplings. And they put them on the two circlets, and they put them on the shoulders of the ephod opposite each other in front.
+
+### Exodus 36:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made two gold rings and placed them on the two wings at the edge of the breastpiece, on the inner edge of the back of the ephod.
+- brenton: And they made two golden rings, and put them on the two projections on the top of the oracle, and on the top of the hinder part of the ephod within.
+
+### Exodus 36:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made two gold rings and placed them on both shoulders of the ephod beneath it, at the front, by the joining above the woven band of the ephod.
+- brenton: And they made two golden rings, and put them on both the shoulders of the ephod under it, in front by the coupling above the connexion of the ephod.
+
+### Exodus 36:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he fastened the breastpiece from its rings to the rings of the ephod, joined with blue woven cord to the woven band of the ephod, so that the breastpiece might not loosen from the ephod, as the Lord commanded Moses.
+- brenton: And he fastened the oracle by the rings that were on it to the rings of the ephod, which were fastened with a string of blue, joined together with the woven work of the ephod; that the oracle should not be loosed from the ephod, as the Lord commanded Moses.
+
+### Exodus 36:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the robe under the ephod, woven work, all blue.
+- brenton: And they made the tunic under the ephod, woven work, all of blue.
+
+### Exodus 36:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the opening of the robe in the middle was woven close together, with a border around the opening, not to be torn.
+- brenton: And the opening of the tunic in the midst woven closely together, the opening having a fringe round about, that it might not be rent.
+
+### Exodus 36:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the hem of the robe below they made pomegranates like blossoming pomegranate fruit, of blue and purple and spun scarlet and woven fine linen.
+- brenton: And they made on the border of the tunic below pomegranates as of a flowering pomegranate tree, of blue, and purple, and spun scarlet, and fine linen twined.
+
+### Exodus 36:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made gold bells and placed the bells on the hem of the robe all around between the pomegranates,
+- brenton: And they made golden bells, and put the bells on the border of the tunic round about between the pomegranates:
+
+### Exodus 36:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a gold bell and a pomegranate on the hem of the robe all around, for ministering, as the Lord commanded Moses.
+- brenton: a golden bell and a pomegranate on the border of the tunic round about, for the ministration, as the Lord commanded Moses.
+
+### Exodus 36:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made woven fine linen tunics for Aaron and his sons,
+- brenton: And they made vestments of fine linen, a woven work, for Aaron and his sons,
+
+### Exodus 36:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the turbans of fine linen and the headdress of fine linen and the undergarments of woven fine linen,
+- brenton: and the tires of fine linen, and the mitre of fine linen, and the drawers of fine linen twined;
+
+### Exodus 36:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and their sashes of fine linen and blue and purple and spun scarlet, embroidered work, as the Lord commanded Moses.
+- brenton: and their girdles of fine linen, and blue, and purple, and scarlet spun, the work of an embroiderer, according as the Lord commanded Moses.
+
+### Exodus 36:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the gold plate, the separated thing of the holy place, of pure gold, and wrote on it engraved letters like the engraving of a seal: "Holiness to the Lord."
+- brenton: And they made the golden plate, a dedicated thing of the sanctuary, of pure gold; and he wrote upon it graven letters as of a seal, Holiness to the Lord.
+
+### Exodus 36:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they placed on it a blue cord so that it would be on the turban above, as the Lord commanded Moses.
+- brenton: And they put it on the border of blue, so that it should be on the mitre above, as the Lord commanded Moses.
+
+### Exodus 37:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made ten curtains for the tent.
+- brenton: And they made ten curtains for the tabernacle;
+
+### Exodus 37:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The length of one curtain was twenty-eight cubits; one measure belonged to all of them, and the breadth of one curtain was four cubits.
+- brenton: of eight and twenty cubits the length of one curtain: the same measure was to all, and the breadth of one curtain was of four cubits.
+
+### Exodus 37:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the curtain of blue and purple and spun scarlet and woven fine linen, woven work with cherubim.
+- brenton: And they made the veil of blue, and purple, and spun scarlet, and fine linen twined, the woven work with cherubs.
+
+### Exodus 37:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they placed it on four incorruptible posts overlaid with gold, and their capitals gold, and their four bases silver.
+- brenton: And they put it on four posts of incorruptible wood overlaid with gold; and their chapiters were gold, and their four sockets were silver.
+
+### Exodus 37:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the curtain of the door of the tent of testimony of blue and purple and spun scarlet and woven fine linen, woven work with cherubim.
+- brenton: And they made the veil of the door of the tabernacle of witness of blue, and purple, and spun scarlet, and fine linen twined, woven work with cherubs,
+
+### Exodus 37:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And its five posts and rings, and they overlaid their capitals and clasps with gold, and their five bases were bronze.
+- brenton: and their posts five, and the rings; and they gilded their chapiters and their clasps with gold, and they had five sockets of brass.
+
+### Exodus 37:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made the court. Toward the south wind were hangings of the court of woven fine linen, one hundred by one hundred.
+- brenton: And they made the court toward the south; the curtains of the court of fine linen twined, a hundred cubits every way,
+
+### Exodus 37:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their pillars twenty and their bases twenty.
+- brenton: and their posts twenty, and their sockets twenty;
+
+### Exodus 37:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the side toward the north, one hundred by one hundred, and their pillars twenty and their bases twenty.
+- brenton: and on the north side a hundred every way, and on the south side a hundred every way, and their posts twenty and their sockets twenty.
+
+### Exodus 37:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the side toward the sea, curtains of fifty cubits, their pillars ten and their bases ten.
+- brenton: And on the west side curtains of fifty cubits, their posts ten and their sockets ten.
+
+### Exodus 37:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the side toward the east, fifty cubits.
+- brenton: And on the east side curtains of fifty cubits of fifteen cubits behind,
+
+### Exodus 37:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Hangings fifteen cubits at the back, and their pillars three and their bases three.
+- brenton: and their pillars three, and their sockets three.
+
+### Exodus 37:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the second back, on this side and that, by the gate of the court, hangings fifteen cubits, and their pillars three and their bases three.
+- brenton: And at the second back on this side and on that by the gate of the court, curtains of fifteen cubits, their pillars three and their sockets three;
+
+### Exodus 37:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the hangings of the court were of woven fine linen.
+- brenton: all the curtains of the tabernacle of fine linen twined.
+
+### Exodus 37:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the bases of their pillars were bronze, and their hooks silver, and their capitals silver-covered, and all the pillars of the court were silver-covered.
+- brenton: And the sockets of their pillars of brass, and their hooks of silver, and their chapiters overlaid with silver, and all the posts of the court overlaid with silver:
+
+### Exodus 37:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the curtain of the gate of the court, embroidered work, of blue and purple and spun scarlet and woven fine linen, was twenty cubits long, and its height and breadth five cubits, equal to the hangings of the court.
+- brenton: and the veil of the gate of the court, the work of an embroiderer of blue, and purple, and spun scarlet, and fine linen twined; the length of twenty cubits, and the height and the breadth of five cubits, made equal to the curtains of the court;
+
+### Exodus 37:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their pillars four and their bases four bronze, and their hooks silver, and their capitals silver-covered.
+- brenton: and their pillars four, and their sockets four of brass, and their hooks of silver, and their chapiters overlaid with silver.
+
+### Exodus 37:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They also were silver-covered, and all the pegs of the court all around were bronze.
+- brenton: And all the pins of the court round about of brass, and they were overlaid with silver.
+
+### Exodus 37:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this was the ordering of the tent of testimony, as it was arranged by Moses for the service of the Levites through Ithamar son of Aaron the priest.
+- brenton: And this was the construction of the tabernacle of witness, accordingly as it was appointed to Moses; so that the public service should belong to the Levites, through Ithamar the son of Aaron the priest.
+
+### Exodus 37:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Bezalel son of Uri, of the tribe of Judah, made as the Lord commanded Moses.
+- brenton: And Beseleel the son of Urias of the tribe of Juda, did as the Lord commanded Moses.
+
+### Exodus 37:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Oholiab son of Ahisamach, of the tribe of Dan, was there, chief craftsman in woven works and embroidery and variegated weaving with scarlet and fine linen.
+- brenton: And Eliab the son of Achisamach of the tribe of Dan was there, who was chief artificer in the woven works and needle-works and embroideries, in weaving with the scarlet and fine linen.
+
+### Exodus 38:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Bezalel made the ark,
+- brenton: And Beseleel made the ark,
+
+### Exodus 38:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and overlaid it with pure gold inside and outside.
+- brenton: and overlaid it with pure gold within and without;
+
+### Exodus 38:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he cast for it four gold rings, two on one side and two on the second side,
+- brenton: and he cast for it four golden rings, two on the one side, and two on the other,
+
+### Exodus 38:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: broad enough for the poles, so that they might carry it by them.
+- brenton: wide enough for the staves, so that men should bear the ark with them.
+
+### Exodus 38:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the propitiatory above the ark of pure gold,
+- brenton: And he made the propitiatory over the ark of pure gold,
+
+### Exodus 38:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the two gold cherubim,
+- brenton: and the two cherubs of gold;
+
+### Exodus 38:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one cherub on one end of the propitiatory and one cherub on the second end of the propitiatory,
+- brenton: one cherub on the one end of the propitiatory, and another cherub on the other end of the propitiatory,
+
+### Exodus 38:8
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: overshadowing the propitiatory with their wings.
+- brenton: overshadowing the propitiatory with their wings.
+
+### Exodus 38:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the presentation table of pure gold,
+- brenton: And he made the set table of pure gold,
+
+### Exodus 38:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and cast for it four rings, two on one side and two on the second side, broad enough so that it might be lifted with the poles in them.
+- brenton: and cast for it four rings: two on the one side and two on the other side, broad, so that men should lift it with the staves in them.
+
+### Exodus 38:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the poles of the ark and of the table and overlaid them with gold.
+- brenton: And he made the staves of the ark and of the table, and gilded them with gold.
+
+### Exodus 38:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the utensils of the table, both the dishes and the censers and the cups and the bowls in which he would pour offerings, of gold.
+- brenton: And he made the furniture of the table, both the dishes, and the censers, and the cups, and the bowls with which he should offer drink-offerings, of gold.
+
+### Exodus 38:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the lampstand that gives light, of solid gold, the shaft
+- brenton: And he made the candlestick which gives light, of gold;
+
+### Exodus 38:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the branches from both sides of it,
+- brenton: the stem solid, and the branches from both its sides;
+
+### Exodus 38:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and buds springing out from its branches, three on this side and three on that, matching one another.
+- brenton: and blossoms proceeding from its branches, three on this side, and three on the other, made equal to each other.
+
+### Exodus 38:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And as for the lamps that are at the ends, nut-like cups came from them, and sockets from them, so that the lamps might rest on them; and the seventh socket, at the top of the lampstand, at the summit above, was wholly solid gold.
+- brenton: And as to their lamps, which are on the ends, knops proceeded from them; and sockets proceeding from them, that the lamps might be upon them; and the seventh socket, on the top of the candlestick, on the summit above, entirely of solid gold.
+
+### Exodus 38:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the lampstand were seven gold lamps, and its snuffers gold, and their trays gold.
+- brenton: And on the candlestick seven golden lamps, and its snuffers gold, and its funnels gold.
+
+### Exodus 38:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He silver-covered the posts and cast gold rings for each post and overlaid the bars with gold. He overlaid the posts of the curtain with gold and made gold hooks.
+- brenton: He overlaid the posts with silver, and cast for each post golden rings, and gilded the bars with gold; and he gilded the posts of the veil with gold, and made the hooks of gold.
+
+### Exodus 38:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He also made the rings of the tent gold, and the rings of the court, and rings for drawing out the upper covering, bronze.
+- brenton: He made also the rings of the tabernacle of gold; and the rings of the court, and the rings for drawing out the veil above of brass.
+
+### Exodus 38:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He cast the silver capitals of the tent and the bronze capitals of the door of the tent and the gate of the court, and he made silver hooks for the posts and silver-covered them on the posts.
+- brenton: He cast the silver chapiters of the tabernacle, and the brazen chapiters of the door of the tabernacle, and the gate of the court; and he made silver hooks for the posts, he overlaid them with silver on the posts.
+
+### Exodus 38:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made the pegs of the tent and the pegs of the court, bronze.
+- brenton: He made the pins of the tabernacle and the pins of the court of brass.
+
+### Exodus 38:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made the bronze altar from the bronze fire-pans that belonged to the men who stirred up revolt with the company of Korah.
+- brenton: He made the brazen altar of the brazen censers, which belonged to the men engaged in sedition with the gathering of Core.
+
+### Exodus 38:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made all the utensils of the altar and its fire-pan and the base and the bowls and the bronze flesh-hooks.
+- brenton: He made all the vessels of the altar and its grate, and its base, and its bowls, and the brazen flesh-hooks.
+
+### Exodus 38:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made for the altar a surrounding frame of net-work beneath its fire-pan underneath it as far as its middle, and he fixed to it four bronze rings on the four sides of the frame of the altar, wide enough for the bars, so that the altar might be carried by them.
+- brenton: He made an appendage for the altar of network under the grate, beneath it as far as the middle of it; and he fastened to it four brazen rings on the four parts of the appendage of the altar, wide enough for the bars, so as to bear the altar with them.
+
+### Exodus 38:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made the holy anointing oil and the pure compounded incense, work of a perfumer.
+- brenton: He made the holy anointing oil and the composition of the incense, the pure work of the perfumer.
+
+### Exodus 38:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He made the bronze laver and its bronze base from the mirrors of the women who fasted, who fasted by the doors of the tent of testimony on the day it was set up.
+- brenton: He made the brazen laver, and the brazen base of it of the mirrors of the women that fasted, who fasted by the doors of the tabernacle of witness, in the day in which he set it up.
+
+### Exodus 38:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the laver so that Moses and Aaron and his sons might wash their hands and feet from it. Whenever they entered the tent of testimony or approached the altar to minister, they washed from it, just as the Lord commanded Moses.
+- brenton: And he made the laver, that at it Moses and Aaron and his sons might wash their hands and their feet: when they went into the tabernacle of witness, or whensoever they should advance to the altar to do service, they washed at it, as the Lord commanded Moses.
+
+### Exodus 39:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the gold that was worked for the works, for all the labor of the holy things, was gold from the contribution, twenty-nine talents and seven hundred twenty shekels by the holy shekel.
+- brenton: All the gold that was employed for the works according to all the fabrication of the holy things, was of the gold of the offerings, twenty-nine talents, and seven hundred and twenty shekels according to the holy shekel.
+
+### Exodus 39:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the silver contribution from the men counted in the congregation was one hundred talents and one thousand seven hundred seventy-five shekels,
+- brenton: And the offering of silver from the men that were numbered of the congregation a hundred talents, and a thousand seven hundred and seventy-five shekels, one drachm apiece, even the half shekel, according to the holy shekel.
+
+### Exodus 39:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one drachma per head, half the shekel by the holy shekel, for everyone passing through the visitation, from twenty years and above, six hundred three thousand five hundred fifty.
+- brenton: Every one that passed the survey from twenty years old and upwards to the number of six hundred thousand, and three thousand five hundred and fifty.
+
+### Exodus 39:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one hundred talents of silver became the casting of the one hundred capitals of the tent and the capitals of the curtain, one hundred capitals for the one hundred talents, a talent per capital.
+- brenton: And the hundred talents of silver went to the casting of the hundred chapiters of the tabernacle, and to the chapiters of the veil;
+
+### Exodus 39:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one thousand seven hundred seventy-five shekels they made into hooks for the posts, and he overlaid their capitals and adorned them.
+- brenton: a hundred chapiters to the hundred talents, a talent to a chapiter.
+
+### Exodus 39:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the bronze of the contribution was seventy talents and one thousand five hundred shekels.
+- brenton: And the thousand seven hundred and seventy-five shekels he formed into hooks for the pillars, and he gilt their chapiters and adorned them.
+
+### Exodus 39:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from it he made the bases of the door of the tent of testimony,
+- brenton: And the brass of the offering was seventy talents, and a thousand five hundred shekels;
+
+### Exodus 39:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the bases of the court all around and the bases of the gate of the court and the pegs of the tent and the pegs of the court all around,
+- brenton: and they made of it the bases of the door of the tabernacle of witness,
+
+### Exodus 39:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the bronze frame of the altar and all the utensils of the altar and all the instruments of the tent of testimony.
+- brenton: and the bases of the court round about, and the bases of the gate of the court, and the pins of the tabernacle, and the pins of the court round about;
+
+### Exodus 39:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel did as the Lord commanded Moses; so they did.
+- brenton: and the brazen appendage of the altar, and all the vessels of the altar, and all the instruments of the tabernacle of witness.
+
+### Exodus 39:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the gold that remained of the contribution they made vessels to minister with before the Lord.
+- brenton: And the children of Israel did as the Lord commanded Moses, so did they.
+
+### Exodus 39:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the remaining blue and purple and scarlet they made into ministering garments for Aaron, so that he might minister with them in the holy place.
+- brenton: And of the gold that remained of the offering they made vessels to minister with before the Lord.
+
+### Exodus 39:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they brought the garments to Moses, and the tent and its utensils and its bases and its bars and the posts,
+- brenton: And the blue that was left, and the purple, and the scarlet they made into garments of ministry for Aaron, so that he should minister with them in the sanctuary;
+
+### Exodus 39:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the ark of the covenant and its carrying-poles,
+- brenton: and they brought the garments to Moses, and the tabernacle, and its furniture, its bases and its bars and the posts;
+
+### Exodus 39:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the altar and all its utensils and the anointing oil and the compounded incense,
+- brenton: and the ark of the covenant, and its bearers, and the altar and all its furniture.
+
+### Exodus 39:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the pure lampstand and its lamps, lamps for burning, and the oil of light,
+- brenton: And they made the anointing oil, and the incense of composition, and the pure candlestick,
+
+### Exodus 39:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the presentation table and all its utensils and the loaves laid out,
+- brenton: and its lamps, lamps for burning, and oil for the light,
+
+### Exodus 39:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the holy garments that belong to Aaron and the garments of his sons for the priesthood,
+- brenton: and the table of shewbread, and all its furniture, and the shewbread upon it,
+
+### Exodus 39:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the hangings of the court and the posts and the curtain of the door of the tent and of the gate of the court and all the utensils of the tent and all its instruments,
+- brenton: and the garments of the sanctuary which belong to Aaron, and the garments of his sons, for the priestly ministry;
+
+### Exodus 39:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the red-dyed rams' skins and the blue skin coverings and the coverings for the remaining things,
+- brenton: and the curtains of the court, and the posts, and the veil of the door of the tabernacle, and the gate of the court,
+
+### Exodus 39:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the pegs and all the instruments for the works of the tent of testimony.
+- brenton: and all the vessels of the tabernacle and all its instruments: and the skins, even rams' skins dyed red, and the blue coverings, and the coverings of the other things, and the pins, and all the instruments for the works of the tabernacle of witness.
+
+### Exodus 39:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As the Lord commanded Moses, so the sons of Israel made all the equipment.
+- brenton: Whatsoever things the Lord appointed Moses, so did the children of Israel make all the furniture.
+
+### Exodus 39:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses saw all the works, and they had done them just as the Lord commanded Moses. So they made them, and Moses blessed them.
+- brenton: And Moses saw all the works; and they had done them all as the Lord commanded Moses, so had they made them; and Moses blessed them.
+
+### Exodus 40:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Exodus 40:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: "On one day, the new moon of the first month, you shall set up the tent of testimony.
+- brenton: On the first day of the first month, at the new moon, thou shalt set up the tabernacle of witness,
+
+### Exodus 40:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the ark of testimony and cover the ark with the curtain.
+- brenton: and thou shalt place in it the ark of the testimony, and shalt cover the ark with the veil,
+
+### Exodus 40:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring in the table and arrange its arrangement, and you shall bring in the lampstand and place its lamps.
+- brenton: and thou shalt bring in the table and shalt set forth that which is to be set forth on it; and thou shalt bring in the candlestick and place its lamps on it.
+
+### Exodus 40:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the gold altar for incense before the ark, and you shall place the curtain-screen on the door of the tent of testimony.
+- brenton: And thou shalt place the golden altar, to burn incense before the ark; and thou shalt put a covering of a veil on the door of the tabernacle of witness.
+
+### Exodus 40:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place the altar of offerings by the doors of the tent of testimony.
+- brenton: And thou shalt put the altar of burnt-offerings by the doors of the tabernacle of witness,
+
+### Exodus 40:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall set the tent around it and sanctify all that belongs to it all around.
+- brenton: and thou shalt set up the tabernacle round about, and thou shalt hallow all that belongs to it round about.
+
+### Exodus 40:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the anointing oil and anoint the tent and all that is in it, and you shall sanctify it and all its utensils, and it shall be holy.
+- brenton: And thou shalt take the anointing oil, and shalt anoint the tabernacle, and all things in it; and shalt sanctify it, and all its furniture, and it shall be holy.
+
+### Exodus 40:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall anoint the altar of offerings and all its utensils, and you shall sanctify the altar, and the altar shall be Holy of Holies.
+- brenton: And thou shalt anoint the altar of burnt-offerings, and all its furniture; and thou shalt hallow the altar, and the altar shall be most holy.
+
+### Exodus 40:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring Aaron and his sons to the doors of the tent of testimony and wash them with water.
+- brenton: And thou shalt bring Aaron and his sons to the doors of the tabernacle of witness, and thou shalt wash them with water.
+
+### Exodus 40:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall clothe Aaron with the holy garments and anoint him and sanctify him, and he shall serve as priest to me.
+- brenton: And thou shalt put on Aaron the holy garments, and thou shalt anoint him, and thou shalt sanctify him, and he shall minister to me as priest.
+
+### Exodus 40:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring his sons and clothe them with tunics.
+- brenton: And thou shalt bring up his sons, and shalt put garments on them.
+
+### Exodus 40:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall anoint them just as you anointed their father, and they shall serve as priests to me. And it shall be for them an anointing of priesthood forever throughout their generations."
+- brenton: And thou shalt anoint them as thou didst anoint their father, and they shall minister to me as priests; and it shall be that they shall have an everlasting anointing of priesthood, throughout their generations.
+
+### Exodus 40:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses did all that the Lord commanded him; so he did.
+- brenton: And Moses did all things whatsoever the Lord commanded him, so did he.
+
+### Exodus 40:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came about in the first month, in the second year after they went out from Egypt, at the new moon, that the tent was set up.
+- brenton: And it came to pass in the first month, in the second year after their going forth out of Egypt, at the new moon, that the tabernacle was set up.
+
+### Exodus 40:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses set up the tent and put on the capitals and inserted the bars and set up the posts.
+- brenton: And Moses set up the tabernacle, and put on the chapiters, and put the bars into their places, and set up the posts.
+
+### Exodus 40:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he stretched out the curtains over the tent and put the covering of the tent above it, as the Lord commanded Moses.
+- brenton: And he stretched out the curtains over the tabernacle, and put the veil of the tabernacle on it above as the Lord commanded Moses.
+
+### Exodus 40:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking the testimonies, he put them into the ark and placed the poles beside the ark.
+- brenton: And he took the testimonies, and put them into the ark; and he put the staves by the sides of the ark.
+
+### Exodus 40:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought the ark into the tent and put on the curtain-covering and covered the ark of testimony, just as the Lord commanded Moses.
+- brenton: And he brought the ark into the tabernacle, and put on it the covering of the veil, and covered the ark of the testimony, as the Lord commanded Moses.
+
+### Exodus 40:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed the table in the tent of testimony on the north side of the tent, outside the curtain of the tent.
+- brenton: And he put the table in the tabernacle of witness, on the north side without the veil of the tabernacle.
+
+### Exodus 40:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set upon it the loaves of presentation before the Lord, just as the Lord commanded Moses.
+- brenton: And he put on it the shewbread before the Lord, as the Lord commanded Moses.
+
+### Exodus 40:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed the lampstand in the tent of testimony on the south side of the tent.
+- brenton: And he put the candlestick into the tabernacle of witness, on the side of the tabernacle toward the south.
+
+### Exodus 40:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed its lamps before the Lord, just as the Lord commanded Moses.
+- brenton: And he put on it its lamps before the Lord, as the Lord had commanded Moses.
+
+### Exodus 40:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed the golden altar in the tent of testimony opposite the curtain.
+- brenton: And he put the golden altar in the tabernacle of witness before the veil;
+
+### Exodus 40:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he burned on it the compounded incense, just as the Lord commanded Moses.
+- brenton: and he burnt on it incense of composition, as the Lord commanded Moses.
+
+### Exodus 40:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed the altar of offerings by the doors of the tent.
+- brenton: And he put the altar of the burnt-offerings by the doors of the tabernacle.
+
+### Exodus 40:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set up the court around the tent and the altar, and Moses finished all the works.
+- brenton: And he set up the court round about the tabernacle and the altar; and Moses accomplished all the works.
+
+### Exodus 40:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cloud covered the tent of testimony, and the tent was filled with the glory of the Lord.
+- brenton: And the cloud covered the tabernacle of witness, and the tabernacle was filled with the glory of the Lord.
+
+### Exodus 40:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses was not able to enter into the tent of testimony, because the cloud overshadowed it, and the tent was filled with the glory of the Lord.
+- brenton: And Moses was not able to enter into the tabernacle of testimony, because the cloud overshadowed it, and the tabernacle was filled with the glory of the Lord.
+
+### Exodus 40:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whenever the cloud went up from the tent, the sons of Israel set out with all their baggage.
+- brenton: And when the cloud went up from the tabernacle, the children of Israel prepared to depart with their baggage.
+
+### Exodus 40:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the cloud did not go up, they did not set out until the day the cloud went up.
+- brenton: And if the cloud went not up, they did not prepare to depart, till the day when the cloud went up.
+
+### Exodus 40:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys."
+- brenton: For a cloud was on the tabernacle by day, and fire was on it by night before all Israel, in all their journeyings.
 
 ## Genesis
 

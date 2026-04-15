@@ -1,7 +1,7 @@
 {
   "verse_rows": 23351,
   "verses_with_greek_text": 23351,
-  "verses_with_draft_translation": 574,
+  "verses_with_draft_translation": 1243,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -10,7 +10,7 @@
     },
     "Exodus": {
       "verse_rows": 1163,
-      "drafted_rows": 494
+      "drafted_rows": 1163
     },
     "Leviticus": {
       "verse_rows": 859,
@@ -162,17 +162,17 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 184,
-  "footnote_rows": 140,
+  "decision_rows": 246,
+  "footnote_rows": 196,
   "variant_rows": 48,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 184,
+    "drafted": 246,
     "reviewed": 0
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 140,
+    "drafted": 196,
     "reviewed": 0
   },
   "chapters": [

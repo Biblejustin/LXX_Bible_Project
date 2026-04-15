@@ -1,14 +1,14 @@
 {
-  "drafted_rows_compared": 574,
+  "drafted_rows_compared": 1243,
   "books_with_drafts": [
     "Exodus",
     "Genesis"
   ],
   "missing_brenton_rows": 0,
   "importance_counts": {
-    "high": 166,
-    "medium": 74,
-    "low": 330,
-    "none": 4
+    "high": 223,
+    "medium": 172,
+    "low": 829,
+    "none": 19
   }
 }
