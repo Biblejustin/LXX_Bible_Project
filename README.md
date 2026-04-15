@@ -46,6 +46,37 @@ Build pilot worksheet:
 python3 scripts/build_fresh_translation.py
 ```
 
+Scoped day-to-day workflow:
+
+```bash
+python3 scripts/build_fresh_translation.py \
+  --source data/raw/lxx_greek/ot_full.csv \
+  --book Exodus \
+  --chapter-start 32 \
+  --chapter-end 34 \
+  --skip-undrafted \
+  --output output/working/exodus_32_34.md \
+  --translation-only-output output/working/exodus_32_34_translation_only.md \
+  --diagnostics output/working/exodus_32_34_diagnostics.json
+
+python3 scripts/build_fresh_vs_brenton_compare.py \
+  --source data/raw/lxx_greek/ot_full.csv \
+  --book Exodus \
+  --chapter-start 32 \
+  --chapter-end 34 \
+  --min-importance medium \
+  --output output/working/exodus_32_34_compare.md \
+  --csv-output output/working/exodus_32_34_compare.csv \
+  --diagnostics output/working/exodus_32_34_compare_diagnostics.json
+```
+
+Recommended rhythm:
+
+- draft in `data/raw/lxx_greek/ot_full.csv`
+- rebuild scoped working files while drafting
+- rebuild full OT outputs only at book checkpoints
+- commit full outputs at checkpoint, not every chapter
+
 Scan local Logos library into ignored private outputs:
 
 ```bash

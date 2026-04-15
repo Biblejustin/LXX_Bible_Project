@@ -4,7 +4,7 @@ import csv
 import json
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -56,6 +56,41 @@ def ensure_source_columns(rows: List[Dict[str, str]]) -> None:
     missing = [column for column in REQUIRED_SOURCE_COLUMNS if column not in rows[0]]
     if missing:
         raise ValueError(f"Missing source columns: {', '.join(missing)}")
+
+
+def matches_book(row: Dict[str, str], book: Optional[str]) -> bool:
+    if not book:
+        return True
+    wanted = book.strip().lower()
+    return (
+        row.get("book_name", "").strip().lower() == wanted
+        or row.get("book_code", "").strip().lower() == wanted
+    )
+
+
+def filter_rows_by_scope(
+    rows: List[Dict[str, str]],
+    book: Optional[str],
+    chapter: Optional[int],
+    chapter_start: Optional[int],
+    chapter_end: Optional[int],
+) -> List[Dict[str, str]]:
+    filtered: List[Dict[str, str]] = []
+    for row in rows:
+        if not matches_book(row, book):
+            continue
+        row_chapter = row.get("chapter", "").strip()
+        if not row_chapter:
+            continue
+        chapter_value = int(row_chapter)
+        if chapter is not None and chapter_value != chapter:
+            continue
+        if chapter_start is not None and chapter_value < chapter_start:
+            continue
+        if chapter_end is not None and chapter_value > chapter_end:
+            continue
+        filtered.append(row)
+    return filtered
 
 
 def group_by_ref(rows: List[Dict[str, str]]) -> Dict[str, List[Dict[str, str]]]:
@@ -262,6 +297,8 @@ def build_translation_only_markdown(
 
 def build_diagnostics(
     source_rows: List[Dict[str, str]],
+    selected_rows: List[Dict[str, str]],
+    output_rows: List[Dict[str, str]],
     logos_notes: List[Dict[str, str]],
     decisions: List[Dict[str, str]],
     footnotes: List[Dict[str, str]],
@@ -279,6 +316,11 @@ def build_diagnostics(
         "verse_rows": len(source_rows),
         "verses_with_greek_text": sum(1 for row in source_rows if row.get("greek_text", "").strip()),
         "verses_with_draft_translation": sum(1 for row in source_rows if row.get("draft_translation", "").strip()),
+        "selected_scope": describe_scope(selected_rows),
+        "selected_verse_rows": len(selected_rows),
+        "selected_drafted_rows": sum(1 for row in selected_rows if row.get("draft_translation", "").strip()),
+        "output_verse_rows": len(output_rows),
+        "output_drafted_rows": sum(1 for row in output_rows if row.get("draft_translation", "").strip()),
         "book_count": len(book_rows),
         "book_rows": book_rows,
         "logos_note_rows": len(logos_notes),
@@ -318,6 +360,10 @@ def main() -> None:
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--translation-only-output", default=str(DEFAULT_TRANSLATION_ONLY))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
+    parser.add_argument("--book")
+    parser.add_argument("--chapter", type=int)
+    parser.add_argument("--chapter-start", type=int)
+    parser.add_argument("--chapter-end", type=int)
     parser.add_argument("--skip-undrafted", action="store_true")
     args = parser.parse_args()
 
@@ -333,6 +379,15 @@ def main() -> None:
 
     source_rows = load_csv_rows(source_path)
     ensure_source_columns(source_rows)
+    selected_rows = filter_rows_by_scope(
+        source_rows,
+        args.book,
+        args.chapter,
+        args.chapter_start,
+        args.chapter_end,
+    )
+    if not selected_rows:
+        raise ValueError("No source rows matched requested scope.")
     logos_rows = load_csv_rows(logos_path)
     decisions_rows = load_csv_rows(decisions_path)
     footnote_rows = load_csv_rows(footnotes_path)
@@ -343,7 +398,7 @@ def main() -> None:
     translation_only_output_path.parent.mkdir(parents=True, exist_ok=True)
     diagnostics_path.parent.mkdir(parents=True, exist_ok=True)
 
-    output_rows = filter_output_rows(source_rows, skip_undrafted=args.skip_undrafted)
+    output_rows = filter_output_rows(selected_rows, skip_undrafted=args.skip_undrafted)
 
     markdown = build_markdown(
         output_rows,
@@ -352,19 +407,28 @@ def main() -> None:
         group_by_ref(footnote_rows),
         group_by_ref(variant_rows),
         stack,
-        scope_rows=source_rows,
+        scope_rows=selected_rows,
         drafted_only=args.skip_undrafted,
     )
     output_path.write_text(markdown, encoding="utf-8")
 
     translation_only_markdown = build_translation_only_markdown(
         output_rows,
-        scope_rows=source_rows,
+        scope_rows=selected_rows,
         drafted_only=args.skip_undrafted,
     )
     translation_only_output_path.write_text(translation_only_markdown, encoding="utf-8")
 
-    diagnostics = build_diagnostics(source_rows, logos_rows, decisions_rows, footnote_rows, variant_rows, stack)
+    diagnostics = build_diagnostics(
+        source_rows,
+        selected_rows,
+        output_rows,
+        logos_rows,
+        decisions_rows,
+        footnote_rows,
+        variant_rows,
+        stack,
+    )
     diagnostics_path.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(

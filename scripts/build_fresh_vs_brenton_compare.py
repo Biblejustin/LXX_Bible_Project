@@ -23,6 +23,7 @@ DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_OUTPUT = OUTPUT / "fresh_vs_brenton_ot_drafted.md"
 DEFAULT_CSV = OUTPUT / "fresh_vs_brenton_ot_drafted.csv"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_vs_brenton_ot_drafted_diagnostics.json"
+IMPORTANCE_ORDER = {"none": 0, "low": 1, "medium": 2, "high": 3}
 
 BOOK_FILENAME_MAP = {
     "GEN": "02-GENeng-Brenton.usfm",
@@ -72,6 +73,59 @@ def load_csv_rows(path: Path) -> List[Dict[str, str]]:
         return []
     with path.open("r", encoding="utf-8", newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def matches_book(row: Dict[str, str], book: str | None) -> bool:
+    if not book:
+        return True
+    wanted = book.strip().lower()
+    return (
+        row.get("book_name", "").strip().lower() == wanted
+        or row.get("book_code", "").strip().lower() == wanted
+    )
+
+
+def filter_rows_by_scope(
+    rows: List[Dict[str, str]],
+    book: str | None,
+    chapter: int | None,
+    chapter_start: int | None,
+    chapter_end: int | None,
+) -> List[Dict[str, str]]:
+    filtered: List[Dict[str, str]] = []
+    for row in rows:
+        if not matches_book(row, book):
+            continue
+        row_chapter = row.get("chapter", "").strip()
+        if not row_chapter:
+            continue
+        chapter_value = int(row_chapter)
+        if chapter is not None and chapter_value != chapter:
+            continue
+        if chapter_start is not None and chapter_value < chapter_start:
+            continue
+        if chapter_end is not None and chapter_value > chapter_end:
+            continue
+        filtered.append(row)
+    return filtered
+
+
+def describe_scope(rows: List[Dict[str, str]]) -> str:
+    if not rows:
+        return "Unknown scope"
+    ordered_books: List[str] = []
+    for row in rows:
+        book_name = row.get("book_name", "").strip()
+        if book_name and book_name not in ordered_books:
+            ordered_books.append(book_name)
+    if len(ordered_books) > 1:
+        return f"{ordered_books[0]}-{ordered_books[-1]} ({len(ordered_books)} books)"
+    chapters = sorted({int(row.get("chapter", "").strip()) for row in rows if row.get("chapter", "").strip()})
+    if not chapters:
+        return ordered_books[0]
+    if chapters == list(range(chapters[0], chapters[-1] + 1)):
+        return f"{ordered_books[0]} {chapters[0]}-{chapters[-1]}"
+    return f"{ordered_books[0]} {', '.join(str(ch) for ch in chapters)}"
 
 
 def clean_usfm_text(text: str) -> str:
@@ -213,6 +267,12 @@ def build_markdown(rows: List[Dict[str, str]], diagnostics: Dict[str, object]) -
     lines = [
         "# Fresh vs Brenton OT Comparison",
         "",
+        f"Selected scope: {diagnostics['selected_scope']}",
+        f"Selected verse rows: {diagnostics['selected_verse_rows']}",
+        f"Selected drafted rows: {diagnostics['selected_drafted_rows']}",
+        f"Minimum importance: {diagnostics['min_importance']}",
+        f"Output compare rows: {diagnostics['output_compare_rows']}",
+        "",
         f"Drafted rows compared: {diagnostics['drafted_rows_compared']}",
         f"Books with drafts: {', '.join(diagnostics['books_with_drafts']) if diagnostics['books_with_drafts'] else '[none]'}",
         f"Missing Brenton rows: {diagnostics['missing_brenton_rows']}",
@@ -256,9 +316,23 @@ def main() -> None:
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--csv-output", default=str(DEFAULT_CSV))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
+    parser.add_argument("--book")
+    parser.add_argument("--chapter", type=int)
+    parser.add_argument("--chapter-start", type=int)
+    parser.add_argument("--chapter-end", type=int)
+    parser.add_argument("--min-importance", choices=["none", "low", "medium", "high"], default="none")
     args = parser.parse_args()
 
     source_rows = load_csv_rows(Path(args.source))
+    selected_rows = filter_rows_by_scope(
+        source_rows,
+        args.book,
+        args.chapter,
+        args.chapter_start,
+        args.chapter_end,
+    )
+    if not selected_rows:
+        raise ValueError("No source rows matched requested scope.")
     decision_rows = load_csv_rows(Path(args.decisions))
     footnote_rows = load_csv_rows(Path(args.footnotes))
     brenton_map: Dict[str, str] = {}
@@ -266,14 +340,25 @@ def main() -> None:
         for book_code, filename in BOOK_FILENAME_MAP.items():
             if filename not in zf.namelist():
                 continue
-            book_rows = [row for row in source_rows if row.get("book_code", "").strip() == book_code]
+            book_rows = [row for row in selected_rows if row.get("book_code", "").strip() == book_code]
             if not book_rows:
                 continue
             book_name = book_rows[0]["book_name"].strip()
             brenton_map.update(parse_brenton_book(zf, filename, book_name))
 
-    compare_rows, diagnostics = build_rows(source_rows, brenton_map, decision_rows, footnote_rows)
-    compare_rows.sort(key=lambda row: (row["book_name"], int(row["chapter"]), int(row["verse"])))
+    compare_rows, diagnostics = build_rows(selected_rows, brenton_map, decision_rows, footnote_rows)
+    compare_rows = [
+        row
+        for row in compare_rows
+        if IMPORTANCE_ORDER[row["importance"]] >= IMPORTANCE_ORDER[args.min_importance]
+    ]
+    order_map = {row.get("ref", "").strip(): index for index, row in enumerate(selected_rows)}
+    compare_rows.sort(key=lambda row: order_map.get(row["ref"], 10**9))
+    diagnostics["selected_scope"] = describe_scope(selected_rows)
+    diagnostics["selected_verse_rows"] = len(selected_rows)
+    diagnostics["selected_drafted_rows"] = sum(1 for row in selected_rows if row.get("draft_translation", "").strip())
+    diagnostics["min_importance"] = args.min_importance
+    diagnostics["output_compare_rows"] = len(compare_rows)
 
     output_path = Path(args.output)
     csv_path = Path(args.csv_output)

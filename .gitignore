@@ -9,3 +9,4 @@ data/research/local/
 output/*.aux
 output/*.log
 output/*.out
+output/working/
