@@ -80,6 +80,20 @@ def bullet_lines(rows: List[Dict[str, str]], fields: List[str]) -> List[str]:
     return lines
 
 
+def describe_scope(source_rows: List[Dict[str, str]]) -> str:
+    if not source_rows:
+        return "Unknown scope"
+    book_names = [row.get("book_name", "").strip() for row in source_rows if row.get("book_name", "").strip()]
+    book_name = book_names[0] if book_names else "Unknown Book"
+    chapters = sorted({int(row.get("chapter", "").strip()) for row in source_rows if row.get("chapter", "").strip()})
+    if not chapters:
+        return book_name
+    if chapters == list(range(chapters[0], chapters[-1] + 1)):
+        return f"{book_name} {chapters[0]}-{chapters[-1]}"
+    chapter_list = ", ".join(str(ch) for ch in chapters)
+    return f"{book_name} {chapter_list}"
+
+
 def build_markdown(
     source_rows: List[Dict[str, str]],
     logos_notes: Dict[str, List[Dict[str, str]]],
@@ -88,11 +102,12 @@ def build_markdown(
     variants: Dict[str, List[Dict[str, str]]],
     stack: Dict[str, object],
 ) -> str:
+    scope = describe_scope(source_rows)
     preferred_resources = stack.get("preferred_resources", []) if isinstance(stack, dict) else []
     lines = [
-        "# Fresh Translation Pilot Worksheet",
+        "# Fresh Translation Worksheet",
         "",
-        "Pilot scope: Genesis 1-3",
+        f"Scope: {scope}",
         "",
         "Method:",
         "- Greek source text first",
@@ -169,10 +184,11 @@ def build_markdown(
 
 
 def build_translation_only_markdown(source_rows: List[Dict[str, str]]) -> str:
+    scope = describe_scope(source_rows)
     lines = [
-        "# Fresh Translation Pilot",
+        "# Fresh Translation Draft",
         "",
-        "Scope: Genesis 1-3",
+        f"Scope: {scope}",
         "",
     ]
 
@@ -219,7 +235,10 @@ def build_diagnostics(
             "drafted": sum(1 for row in footnotes if row.get("status", "").strip().lower() == "drafted"),
             "reviewed": sum(1 for row in footnotes if row.get("status", "").strip().lower() == "reviewed"),
         },
-        "chapters": sorted({row.get("chapter", "").strip() for row in source_rows if row.get("chapter", "").strip()}),
+        "chapters": sorted(
+            {row.get("chapter", "").strip() for row in source_rows if row.get("chapter", "").strip()},
+            key=lambda value: int(value),
+        ),
         "preferred_resource_roles": [
             resource.get("role", "")
             for resource in stack.get("preferred_resources", [])
