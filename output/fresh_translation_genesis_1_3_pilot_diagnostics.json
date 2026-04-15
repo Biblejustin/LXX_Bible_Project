@@ -1,19 +1,19 @@
 {
   "verse_rows": 80,
-  "verses_with_greek_text": 3,
-  "verses_with_draft_translation": 3,
-  "logos_note_rows": 3,
-  "decision_rows": 10,
-  "footnote_rows": 3,
-  "variant_rows": 3,
+  "verses_with_greek_text": 41,
+  "verses_with_draft_translation": 41,
+  "logos_note_rows": 29,
+  "decision_rows": 56,
+  "footnote_rows": 24,
+  "variant_rows": 41,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 10,
+    "drafted": 56,
     "reviewed": 0
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 3,
+    "drafted": 24,
     "reviewed": 0
   },
   "chapters": [

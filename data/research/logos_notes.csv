@@ -2,3 +2,29 @@ ref,greek_phrase,lemma,resource,location,claim_paraphrase,usage_note,confidence,
 Genesis 1:1,τὸν οὐρανὸν καὶ τὴν γῆν,οὐρανός | γῆ,LLS:FBLXXLEX,,,"Check whether the pair functions as a standard cosmic merism in LXX usage.",,verify heaven vs sky
 Genesis 1:2,πνεῦμα Θεοῦ,πνεῦμα | θεός,LLS:FBLXXLEX,,,"Check whether the immediate context pushes pneuma toward wind, breath, or Spirit.",,verify wind vs Spirit
 Genesis 1:3,γενηθήτω φῶς,γίνομαι | φῶς,LLS:LLXXI,,,"Check whether the interlinear and lexicon preserve a come-to-be nuance strong enough to keep in English.",,verify come to be wording
+Genesis 1:4,καλόν,καλός,LLS:FBLXXLEX,,,"Check whether kalos in creation formulas leans toward good, fitting, beautiful, or some broader evaluative sense.",,verify value nuance
+Genesis 1:5,ἡμέρα μία,ἡμέρα | εἷς,LLS:GRAMSPTGRK,,,"Check whether the cardinal expression here carries any discourse effect beyond simple counting.",,verify day one wording
+Genesis 1:6,στερέωμα,στερέωμα,LLS:FBLXXLEX,,,"Check whether stereoma in Septuagint usage suggests firmness, structure, vaulting, or spatial extension most strongly.",,verify firm span wording
+Genesis 1:7,ὕδωρ ... ὑποκάτω / ἐπάνω,ὕδωρ | ὑποκάτω | ἐπάνω,LLS:GRAMSPTGRK,,,"Check how the repeated water phrases function rhetorically in Septuagint narrative style.",,verify repeated water phrasing
+Genesis 1:8,οὐρανόν,οὐρανός,LLS:FBLXXLEX,,,"Check whether the naming line favors heaven or sky in Greek cosmological usage.",,verify Heaven wording
+Genesis 1:9,συναγωγὴν μίαν / συναγωγὰς,συναγωγή,LLS:FBLXXLEX,,,"Check whether the singular then plural gathering language carries a specific spatial nuance.",,verify gathering wording
+Genesis 1:10,συστήματα τῶν ὑδάτων,σύστημα | ὕδωρ,LLS:FBLXXLEX,,,"Check whether systemata here should be rendered as gathered waters, basins, masses, or collections.",,verify gathered waters wording
+Genesis 1:11,κατὰ γένος καὶ καθ᾿ ὁμοιότητα,γένος | ὁμοιότης,LLS:FBLXXLEX,,,"Check whether the double phrase marks distinct ideas in Septuagint creation language or functions as intensification.",,verify kind and likeness wording
+Genesis 1:14,φωστῆρες,φωστήρ,LLS:FBLXXLEX,,,"Check whether phosteres in Septuagint Greek is best represented as lights, luminaries, or light-bearers.",,verify light-bearers wording
+Genesis 1:16,εἰς ἀρχὰς,ἀρχή,LLS:FBLXXLEX,,,"Check whether this noun phrase leans toward rule, dominion, office, or beginning in this context.",,verify dominion wording
+Genesis 1:20,ἑρπετὰ ψυχῶν ζωσῶν,ἑρπετόν | ψυχή | ζωή,LLS:FBLXXLEX,,,"Check whether herpeta here is broad swarming life or should be narrowed more specifically.",,verify swarming wording
+Genesis 1:21,κήτη τὰ μεγάλα,κῆτος,LLS:FBLXXLEX,,,"Check range of ketos in LXX: sea-creature, monster, whale, or something broader.",,verify sea-creatures wording
+Genesis 1:24,ψυχὴν ζῶσαν,ψυχή | ζάω,LLS:FBLXXLEX,,,"Check how often this phrase is treated as collective 'living creature' in Greek biblical usage.",,verify living creatures wording
+Genesis 1:26,ἄνθρωπον / εἰκών / ὁμοίωσις,ἄνθρωπος | εἰκών | ὁμοίωσις,LLS:FBLXXLEX,,,"Check singular-to-plural movement and relation between image and likeness in Genesis 1 Greek.",,verify humankind image wording
+Genesis 1:28,κατακυριεύσατε,κατακυριεύω,LLS:FBLXXLEX,,,"Check whether the verb carries dominion, subjection, or stronger conquest nuance in comparable Greek usage.",,verify subdue wording
+Genesis 1:30,ψυχὴν ζωῆς,ψυχή | ζωή,LLS:FBLXXLEX,,,"Check whether the phrase should be rendered life-breath, living soul, or animate life in this context.",,verify living breath wording
+Genesis 1:31,καλά λίαν,καλός | λίαν,LLS:GRAMSPTGRK,,,"Check whether lian here functions as simple intensifier or carries rhetorical climax in the creation sequence.",,verify very good wording
+Genesis 2:1,κόσμος,κόσμος,LLS:FBLXXLEX,,,"Check whether kosmos here is best rendered world, adornment, order, or arranged whole in creation context.",,verify ordered array wording
+Genesis 2:2,ἕκτῃ / ἑβδόμῃ,ἕκτος | ἕβδομος,LLS:LXXCAPP,,,"Check apparatus and notes on the sixth-day completion reading versus seventh-day forms.",,verify sixth day reading
+Genesis 2:3,ὧν ἤρξατο ὁ Θεὸς ποιῆσαι,ἄρχω | ποιέω,LLS:GRAMSPTGRK,,,"Check how this closing phrase is treated in Septuagint Greek syntax and whether it implies begun-work now finished.",,verify begun to make wording
+Genesis 2:4,βίβλος γενέσεως,βίβλος | γένεσις,LLS:FBLXXLEX,,,"Check how this heading formula functions in Greek Genesis and whether genesis here leans toward origins, generations, or becoming.",,verify book of genesis wording
+Genesis 2:6,πηγή,πηγή,LLS:FBLXXLEX,,,"Check whether pege in this verse can support spring, fountain, or mist; context may favor rising water source.",,verify spring wording
+Genesis 2:7,πλάσσω / πνοὴ ζωῆς,πλάσσω | πνοή | ζωή,LLS:FBLXXLEX,,,"Check shaping imagery and relation between breath-of-life phrase here and similar Greek expressions elsewhere.",,verify formed breath wording
+Genesis 2:8,παράδεισος,παράδεισος,LLS:FBLXXLEX,,,"Check semantic range of paradeisos in Hellenistic Greek: garden, orchard-park, or enclosed pleasure-ground.",,verify garden wording
+Genesis 2:9,τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ,οἶδα | γνωστός | καλός | πονηρός,LLS:GRAMSPTGRK,,,"Check syntax of the tree-of-knowing phrase; Greek wording seems less smooth than standard English tradition.",,verify tree knowing wording
+Genesis 2:10,εἰς τέσσαρας ἀρχάς,ἀρχή,LLS:FBLXXLEX,,,"Check whether the river phrase is best rendered heads, sources, or chief branches.",,verify four heads wording
