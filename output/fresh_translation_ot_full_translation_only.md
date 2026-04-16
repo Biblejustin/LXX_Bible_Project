@@ -2,8 +2,6 @@
 
 Scope: Genesis-Malachi (39 books)
 
-Display: drafted verses only
-
 ## Genesis
 
 ### Chapter 1
@@ -657,6 +655,5578 @@ And you shall take for yourself from all the foods that you eat, and gather it t
 **Genesis 6:22**
 
 And Noah did all that the Lord God commanded him; thus he did it.
+
+### Chapter 7
+
+**Genesis 7:1**
+
+And the Lord God said to Noah, Enter, you and all your house, into the ark, because I have seen you righteous before me in this generation.
+
+**Genesis 7:2**
+
+And from the clean cattle bring in to yourself seven by seven, male and female, but from the cattle that are not clean, two by two, male and female,
+
+**Genesis 7:3**
+
+and from the clean birds of heaven seven by seven, male and female, and from all the birds not clean, two by two, male and female, to keep seed alive over all the earth.
+
+**Genesis 7:4**
+
+For still seven days, and I am bringing rain on the earth forty days and forty nights, and I will wipe out every rising thing that I made from the face of all the earth.
+
+**Genesis 7:5**
+
+And Noah did all that the Lord God commanded him.
+
+**Genesis 7:6**
+
+And Noah was six hundred years old, and the flood of water came upon the earth.
+
+**Genesis 7:7**
+
+And Noah entered, and his sons and his wife and the wives of his sons with him, into the ark because of the floodwater.
+
+**Genesis 7:8**
+
+And from the clean birds and from the birds not clean and from the clean cattle and from the cattle not clean and from all the creeping things on the earth,
+
+**Genesis 7:9**
+
+two by two entered to Noah into the ark, male and female, just as God commanded Noah.
+
+**Genesis 7:10**
+
+And it came to be after the seven days that the water of the flood came upon the earth.
+
+**Genesis 7:11**
+
+In the six-hundredth year in the life of Noah, in the second month, on the twenty-seventh day of the month, on that day all the springs of the abyss burst open, and the floodgates of heaven were opened.
+
+**Genesis 7:12**
+
+And rain came upon the earth forty days and forty nights.
+
+**Genesis 7:13**
+
+On that day Noah entered, Shem, Ham, Japheth, the sons of Noah, and Noah's wife and the three wives of his sons with him, into the ark,
+
+**Genesis 7:14**
+
+and every wild beast according to kind, and all the cattle according to kind, and every creeping thing moving on the earth according to kind, and every bird according to its kind,
+
+**Genesis 7:15**
+
+entered to Noah into the ark, two by two, male and female, from all flesh in which is spirit of life.
+
+**Genesis 7:16**
+
+And those entering, male and female from all flesh, entered just as God commanded Noah. And the Lord God shut the ark outside him.
+
+**Genesis 7:17**
+
+And the flood came forty days and forty nights upon the earth, and the water multiplied and lifted the ark, and it was raised from the earth.
+
+**Genesis 7:18**
+
+And the water prevailed and multiplied greatly upon the earth, and the ark was borne along upon the water.
+
+**Genesis 7:19**
+
+And the water prevailed very, very greatly upon the earth and covered all the high mountains that were under heaven.
+
+**Genesis 7:20**
+
+Fifteen cubits above, the water rose and covered all the high mountains.
+
+**Genesis 7:21**
+
+And all flesh moving on the earth died: birds and cattle and wild beasts and every creeping thing moving on the earth, and every human.
+
+**Genesis 7:22**
+
+And everything having breath of life, and everything that was on the dry land, died.
+
+**Genesis 7:23**
+
+And he wiped out every rising thing that was on the face of the earth, from human to cattle and creeping things and birds of heaven, and they were wiped from the earth. And Noah alone was left, and those with him in the ark.
+
+**Genesis 7:24**
+
+And the water was raised over the earth one hundred and fifty days.
+
+### Chapter 8
+
+**Genesis 8:1**
+
+And God remembered Noah and all the wild beasts and all the cattle and all the birds and all the creeping things that creep, as many as were with him in the ark, and God brought a wind upon the earth, and the water subsided.
+
+**Genesis 8:2**
+
+And the springs of the abyss and the floodgates of heaven were covered over, and the rain from heaven was held back.
+
+**Genesis 8:3**
+
+And the water kept withdrawing, going away from the earth, and the water diminished after one hundred and fifty days.
+
+**Genesis 8:4**
+
+And the ark came to rest in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.
+
+**Genesis 8:5**
+
+And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared.
+
+**Genesis 8:6**
+
+And it came to be after forty days that Noah opened the window of the ark that he made, and he sent out the raven to see whether the water had subsided.
+
+**Genesis 8:7**
+
+And having gone out, it did not return until the water dried from the earth.
+
+**Genesis 8:8**
+
+And he sent the dove after it, to see whether the water had subsided from the earth.
+
+**Genesis 8:9**
+
+And the dove, not finding rest for its feet, returned to him into the ark, because water was on all the face of the earth. And stretching out his hand, he took it and brought it in to himself into the ark.
+
+**Genesis 8:10**
+
+And waiting still another seven days, again he sent out the dove from the ark.
+
+**Genesis 8:11**
+
+And toward evening the dove returned to him, and had an olive-leaf fragment in its mouth. And Noah knew that the water had subsided from the earth.
+
+**Genesis 8:12**
+
+And waiting still another seven days, again he sent out the dove, and it did not add to return to him any longer.
+
+**Genesis 8:13**
+
+And it came to be in the six-hundred-and-first year in the life of Noah, in the first month, on the first of the month, the water failed from the earth. And Noah uncovered the roof of the ark that he made and saw that the water had failed from the face of the earth.
+
+**Genesis 8:14**
+
+And in the second month, on the twenty-seventh day of the month, the earth dried.
+
+**Genesis 8:15**
+
+And the Lord God said to Noah, saying,
+
+**Genesis 8:16**
+
+Come out from the ark, you and your wife and your sons and the wives of your sons with you,
+
+**Genesis 8:17**
+
+and all the wild beasts that are with you, and all flesh from birds to cattle, and every creeping thing moving on the earth, bring out with yourself. And increase and multiply upon the earth.
+
+**Genesis 8:18**
+
+And Noah came out, and his wife and his sons and the wives of his sons with him.
+
+**Genesis 8:19**
+
+And every wild beast and every cattle and every bird and every creeping thing moving on the earth according to their kind came out from the ark.
+
+**Genesis 8:20**
+
+And Noah built an altar to the Lord, and took from all the clean cattle and from all the clean birds and offered up whole-burnt offerings on the altar.
+
+**Genesis 8:21**
+
+And the Lord God smelled an aroma of sweet fragrance, and the Lord God said, having considered, Let me not continue any longer to curse the earth because of the works of humans, because the mind of the human lies carefully upon evil things from his youth. Therefore I will not continue any longer to strike all living flesh, as I have done.
+
+**Genesis 8:22**
+
+All the days of the earth, seed and harvest, cold and heat, summer and spring, day and night shall not cease.
+
+### Chapter 9
+
+**Genesis 9:1**
+
+And God blessed Noah and his sons and said to them, Increase and multiply and fill the earth and rule over it.
+
+**Genesis 9:2**
+
+And your dread and your fear shall be upon all the wild beasts of the earth, upon all the birds of heaven and upon all the moving things on the earth and upon all the fish of the sea. Into your hands I have given them.
+
+**Genesis 9:3**
+
+And every creeping thing that is living shall be for you as food. As green herbs I have given you all things.
+
+**Genesis 9:4**
+
+Only flesh with blood of life in it you shall not eat.
+
+**Genesis 9:5**
+
+And indeed your blood of your lives I will seek out from the hand of all the wild beasts, and from the hand of a human, from the hand of a brother, I will seek out the life of the human.
+
+**Genesis 9:6**
+
+The one pouring out human blood, in return for that blood his own shall be poured out, because in the image of God I made the human.
+
+**Genesis 9:7**
+
+But you, increase and multiply and fill the earth and rule over it.
+
+**Genesis 9:8**
+
+And God said to Noah and to his sons with him, saying,
+
+**Genesis 9:9**
+
+And look, I am establishing my covenant with you and with your seed after you,
+
+**Genesis 9:10**
+
+and with every living life with you, from birds and from cattle and with all the wild beasts of the earth, as many as are with you, from all that came out of the ark.
+
+**Genesis 9:11**
+
+And I will establish my covenant with you, and all flesh shall not die any longer from the water of the flood, and there shall no longer be a flood of water to destroy all the earth.
+
+**Genesis 9:12**
+
+And the Lord God said to Noah, This is the sign of the covenant that I give between me and you and between every living life that is with you for everlasting generations:
+
+**Genesis 9:13**
+
+I place my bow in the cloud, and it shall be for a sign of covenant between me and the earth.
+
+**Genesis 9:14**
+
+And it shall be, when I cloud the earth with clouds, my bow shall be seen in the cloud,
+
+**Genesis 9:15**
+
+and I will remember my covenant that is between me and you and between every living life in all flesh, and the water shall no longer become a flood so as to wipe out all flesh.
+
+**Genesis 9:16**
+
+And my bow shall be in the cloud, and I will see it to remember the everlasting covenant between me and the earth and between living life in all flesh that is on the earth.
+
+**Genesis 9:17**
+
+And God said to Noah, This is the sign of the covenant that I established between me and all flesh that is on the earth.
+
+**Genesis 9:18**
+
+And the sons of Noah who came out of the ark were Shem, Ham, Japheth. Now Ham was father of Canaan.
+
+**Genesis 9:19**
+
+These three are sons of Noah. From these the whole earth was scattered abroad.
+
+**Genesis 9:20**
+
+And Noah, a man, began to be a farmer of the earth and planted a vineyard.
+
+**Genesis 9:21**
+
+And he drank from the wine and became drunk and was stripped naked in his house.
+
+**Genesis 9:22**
+
+And Ham, the father of Canaan, saw the nakedness of his father, and going out announced it to his two brothers outside.
+
+**Genesis 9:23**
+
+And taking the garment, Shem and Japheth placed it on their two backs and walked backward and covered the nakedness of their father. And their face was backward, and they did not see the nakedness of their father.
+
+**Genesis 9:24**
+
+And Noah sobered up from the wine and knew what his younger son did to him,
+
+**Genesis 9:25**
+
+and said, Cursed be Canaan. A house-servant slave shall he be to his brothers.
+
+**Genesis 9:26**
+
+And he said, Blessed be the Lord God of Shem, and Canaan shall be his house-servant slave.
+
+**Genesis 9:27**
+
+May God widen Japheth, and let him dwell in the houses of Shem, and let Canaan become his servant.
+
+**Genesis 9:28**
+
+And Noah lived after the flood three hundred and fifty years.
+
+**Genesis 9:29**
+
+And all the days of Noah were nine hundred and fifty years, and he died.
+
+### Chapter 10
+
+**Genesis 10:1**
+
+Now these are the generations of the sons of Noah: Shem, Ham, Japheth. And sons were born to them after the flood.
+
+**Genesis 10:2**
+
+Sons of Japheth: Gamer and Magog and Madai and Jovan and Elisa and Thobel and Mosoch and Thiras.
+
+**Genesis 10:3**
+
+And sons of Gamer: Aschanaz and Riphath and Thorgama.
+
+**Genesis 10:4**
+
+And sons of Jovan: Elisa and Tharsis, Kittians, Rhodians.
+
+**Genesis 10:5**
+
+From these the islands of the nations were marked off in their land, each according to tongue, in their tribes and in their nations.
+
+**Genesis 10:6**
+
+And sons of Ham: Chous and Mesrain, Phoud and Canaan.
+
+**Genesis 10:7**
+
+And sons of Chous: Saba and Evila and Sabatha and Regma and Sabathaca. And sons of Regma: Saba and Dadan.
+
+**Genesis 10:8**
+
+And Chous begot Nebrod. He began to be a giant upon the earth.
+
+**Genesis 10:9**
+
+He was a giant hunter before the Lord God. Therefore they will say, Like Nebrod, a giant hunter before the Lord.
+
+**Genesis 10:10**
+
+And the beginning of his kingdom came to be Babylon and Orech and Archad and Chalanne in the land of Sennaar.
+
+**Genesis 10:11**
+
+From that land Asshur went out and built Nineveh and Rooboth-city and Chalach,
+
+**Genesis 10:12**
+
+and Dase between Nineveh and between Chalach. This is the great city.
+
+**Genesis 10:13**
+
+And Mesrain begot the Loudieim and the Enemetieim and the Labieim and the Nephthalieim and the Pathrosonieim,
+
+**Genesis 10:14**
+
+and the Chasloniem, from where the Phylistieim came out, and the Caphtorieim.
+
+**Genesis 10:15**
+
+And Canaan begot Sidon his firstborn,
+
+**Genesis 10:16**
+
+and the Hettite and the Jebusite and the Amorrite and the Gergesite and the Evite and the Aroukite,
+
+**Genesis 10:17**
+
+and the Asennaite and the Aradian and the Samaraian and the Amathi.
+
+**Genesis 10:18**
+
+And after this the tribes of the Canaanites were scattered.
+
+**Genesis 10:19**
+
+And the borders of the Canaanites came to be from Sidon until one comes to Gerara and Gaza, until one comes as far as Sodom and Gomorrah, Adama and Seboim, as far as Dasa.
+
+**Genesis 10:20**
+
+These are sons of Ham, in their tribes, according to their tongues, in their lands and in their nations.
+
+**Genesis 10:21**
+
+And to Shem, to him also, father of all the sons of Eber, brother of Japheth the greater, sons were born.
+
+**Genesis 10:22**
+
+Sons of Shem: Elam and Asshur and Arphaxad and Loud and Aram and Cainan.
+
+**Genesis 10:23**
+
+And sons of Aram: Ouz and Oul and Gather and Mosoch.
+
+**Genesis 10:24**
+
+And Arphaxad begot Cainan, and Cainan begot Sala, and Sala begot Eber.
+
+**Genesis 10:25**
+
+And to Eber two sons were born. The name of one was Phaleg, because in his days the earth was divided, and the name of his brother was Jektan.
+
+**Genesis 10:26**
+
+And Jektan begot Elmodad and Saleth and Sarmoth and Jarach and Odorra and Aibel and Decla,
+
+**Genesis 10:27**
+
+and Eual and Abimael and Saba,
+
+**Genesis 10:28**
+
+and Oupheir and Eveila and Jobab.
+
+**Genesis 10:29**
+
+All these were sons of Jektan.
+
+**Genesis 10:30**
+
+And their dwelling came to be from Masse, until one comes to Saphira, a mountain of the east.
+
+**Genesis 10:31**
+
+These are sons of Shem, in their tribes, according to their tongues, in their lands and in their nations.
+
+**Genesis 10:32**
+
+These are the tribes of the sons of Noah according to their generations, according to their nations. From these the islands of the nations were scattered over the earth after the flood.
+
+### Chapter 11
+
+**Genesis 11:1**
+
+And all the earth was one lip, and one voice for all.
+
+**Genesis 11:2**
+
+And it came to be when they moved from the east, they found a plain in the land of Sennaar and lived there.
+
+**Genesis 11:3**
+
+And a person said to his neighbor, Come, let us make bricks and bake them with fire. And the brick became stone for them, and bitumen was clay for them.
+
+**Genesis 11:4**
+
+And they said, Come, let us build for ourselves a city and a tower whose top will be as far as heaven, and let us make a name for ourselves before we are scattered over the face of all the earth.
+
+**Genesis 11:5**
+
+And the Lord came down to see the city and the tower that the sons of men built.
+
+**Genesis 11:6**
+
+And the Lord said, Look, one race and one lip for all, and this they have begun to do, and now nothing will fail from them, whatever they may set themselves to do.
+
+**Genesis 11:7**
+
+Come, and having come down, let us confuse their tongue there, so that each may not hear the voice of his neighbor.
+
+**Genesis 11:8**
+
+And the Lord scattered them from there over the face of all the earth, and they stopped building the city and the tower.
+
+**Genesis 11:9**
+
+Because of this its name was called Confusion, because there the Lord confused the lips of all the earth, and from there the Lord scattered them over the face of all the earth.
+
+**Genesis 11:10**
+
+And these are the generations of Shem. And Shem was one hundred years old when he begot Arphaxad, in the second year after the flood.
+
+**Genesis 11:11**
+
+And Shem lived after begetting Arphaxad five hundred years, and begot sons and daughters, and died.
+
+**Genesis 11:12**
+
+And Arphaxad lived one hundred and thirty-five years and begot Cainan.
+
+**Genesis 11:13**
+
+And Arphaxad lived after begetting Cainan four hundred years, and begot sons and daughters, and died. And Cainan lived one hundred and thirty years and begot Sala. And Cainan lived after begetting Sala three hundred and thirty years, and begot sons and daughters, and died.
+
+**Genesis 11:14**
+
+And Sala lived one hundred and thirty years and begot Eber.
+
+**Genesis 11:15**
+
+And Sala lived after begetting Eber three hundred and thirty years, and begot sons and daughters, and died.
+
+**Genesis 11:16**
+
+And Eber lived one hundred and thirty-four years and begot Phaleg.
+
+**Genesis 11:17**
+
+And Eber lived after begetting Phaleg two hundred and seventy years, and begot sons and daughters, and died.
+
+**Genesis 11:18**
+
+And Phaleg lived one hundred and thirty years and begot Ragau.
+
+**Genesis 11:19**
+
+And Phaleg lived after begetting Ragau two hundred and nine years, and begot sons and daughters, and died.
+
+**Genesis 11:20**
+
+And Ragau lived one hundred and thirty-two years and begot Serouch.
+
+**Genesis 11:21**
+
+And Ragau lived after begetting Serouch two hundred and seven years, and begot sons and daughters, and died.
+
+**Genesis 11:22**
+
+And Serouch lived one hundred and thirty years and begot Nachor.
+
+**Genesis 11:23**
+
+And Serouch lived after begetting Nachor two hundred years, and begot sons and daughters, and died.
+
+**Genesis 11:24**
+
+And Nachor lived one hundred and seventy-nine years and begot Thara.
+
+**Genesis 11:25**
+
+And Nachor lived after begetting Thara one hundred and twenty-five years, and begot sons and daughters, and died.
+
+**Genesis 11:26**
+
+And Thara lived seventy years and begot Abram and Nachor and Arran.
+
+**Genesis 11:27**
+
+These are the generations of Thara. Thara begot Abram and Nachor and Arran, and Arran begot Lot.
+
+**Genesis 11:28**
+
+And Arran died before Thara his father in the land where he was born, in the country of the Chaldeans.
+
+**Genesis 11:29**
+
+And Abram and Nachor took wives for themselves. The name of Abram's wife was Sara, and the name of Nachor's wife was Melcha, daughter of Arran, father of Melcha and father of Jescha.
+
+**Genesis 11:30**
+
+And Sara was barren and was not bearing children.
+
+**Genesis 11:31**
+
+And Thara took Abram his son and Lot son of Arran, son of his son, and Sara his daughter-in-law, wife of Abram his son, and brought them out from the country of the Chaldeans to go into the land of Canaan. And they came as far as Charran, and he lived there.
+
+**Genesis 11:32**
+
+And all the days of Thara in the land of Charran were two hundred and five years, and Thara died in Charran.
+
+### Chapter 12
+
+**Genesis 12:1**
+
+And the Lord said to Abram, Go out from your land and from your kin and from your father's house, and come into the land that I will show you.
+
+**Genesis 12:2**
+
+And I will make you into a great nation, and I will bless you and magnify your name, and you shall be blessed.
+
+**Genesis 12:3**
+
+And I will bless those blessing you, and those cursing you I will curse. And in you all the tribes of the earth shall be blessed.
+
+**Genesis 12:4**
+
+And Abram went, just as the Lord spoke to him, and Lot went away with him. Abram was seventy-five years old when he went out from Charran.
+
+**Genesis 12:5**
+
+And Abram took Sarai his wife and Lot the son of his brother and all their possessions, as many as they had acquired, and every person whom they had acquired in Charran, and they went out to go into the land of Canaan.
+
+**Genesis 12:6**
+
+And Abram passed through the land through its length as far as the place Sychem, to the high oak. And the Canaanites then inhabited the land.
+
+**Genesis 12:7**
+
+And the Lord appeared to Abram and said to him, To your seed I will give this land. And Abram built there an altar to the Lord who had appeared to him.
+
+**Genesis 12:8**
+
+And he departed from there to the mountain east of Bethel and pitched his tent there, Bethel toward the sea and Aggai toward the east. And he built there an altar to the Lord and called on the name of the Lord.
+
+**Genesis 12:9**
+
+And Abram set out, and going on, camped in the wilderness.
+
+**Genesis 12:10**
+
+And a famine came upon the land, and Abram went down into Egypt to live as a foreigner there, because the famine grew strong upon the land.
+
+**Genesis 12:11**
+
+And it happened when Abram drew near to enter Egypt, Abram said to Sarai his wife, I know that you are a woman beautiful in face.
+
+**Genesis 12:12**
+
+Then it will be, when the Egyptians see you, they will say, This is his wife. And they will kill me, but preserve you.
+
+**Genesis 12:13**
+
+Say then, I am his sister, so that it may go well for me because of you, and my life will keep living because of you.
+
+**Genesis 12:14**
+
+And it happened when Abram entered Egypt, the Egyptians saw his wife, that she was very beautiful.
+
+**Genesis 12:15**
+
+And Pharaoh's rulers saw her and praised her to Pharaoh, and they brought her into Pharaoh's house.
+
+**Genesis 12:16**
+
+And they treated Abram well because of her, and he came to have sheep and calves and donkeys and male-servants and female-servants and mules and camels.
+
+**Genesis 12:17**
+
+And God afflicted Pharaoh with great and grievous afflictions, and his house, because of Sarai Abram's wife.
+
+**Genesis 12:18**
+
+And Pharaoh called Abram and said, What is this you have done to me, that you did not report to me that she is your wife?
+
+**Genesis 12:19**
+
+Why did you say, She is my sister? And I took her for myself as a wife. And now look, your wife before you. Take her and hurry away.
+
+**Genesis 12:20**
+
+And Pharaoh instructed men concerning Abram to send him on, and his wife, and all that was his.
+
+### Chapter 13
+
+**Genesis 13:1**
+
+And Abram went up from Egypt, he and his wife and all that was his and Lot with him, into the wilderness.
+
+**Genesis 13:2**
+
+And Abram was very rich in livestock and silver and gold.
+
+**Genesis 13:3**
+
+And he went to the place from which he had come into the wilderness as far as Bethel, as far as the place where his tent had been before, between Bethel and Aggai,
+
+**Genesis 13:4**
+
+to the place of the altar that he had made there at the beginning. And Abram called on the name of the Lord there.
+
+**Genesis 13:5**
+
+And Lot, who was traveling with Abram, had sheep and oxen and tents.
+
+**Genesis 13:6**
+
+And the land had no room for them to live together, because their possessions were many, and the land had no room for them to live together.
+
+**Genesis 13:7**
+
+And a conflict arose between the shepherds of Abram's livestock and the shepherds of Lot's livestock. And the Canaanites and the Perizzites then inhabited the land.
+
+**Genesis 13:8**
+
+And Abram said to Lot, Let there not be a conflict between me and you and between my shepherds and your shepherds, because we are human brothers.
+
+**Genesis 13:9**
+
+Look, is not all the land before you? Separate yourself from me. If you go left, I will go right. If you go right, I will go left.
+
+**Genesis 13:10**
+
+And Lot lifted up his eyes and saw all the region around the Jordan, that all of it was watered before God overthrew Sodom and Gomorrah, like the garden of God and like the land of Egypt, as far as one comes to Zoar.
+
+**Genesis 13:11**
+
+And Lot chose for himself all the region around the Jordan, and Lot set out from the east, and they were separated, each from his brother.
+
+**Genesis 13:12**
+
+Abram dwelt in the land of Canaan, but Lot dwelt in a city of the surrounding region and pitched tents in Sodom.
+
+**Genesis 13:13**
+
+Now the people in Sodom were wicked and sinful before God exceedingly.
+
+**Genesis 13:14**
+
+And God said to Abram after Lot had separated from him, Lift up your eyes and see from the place where you are now, toward north and south and east and sea.
+
+**Genesis 13:15**
+
+Because all the land that you see, I will give it to you and to your seed forever.
+
+**Genesis 13:16**
+
+And I will make your seed like the sand of the earth. If anyone can number the sand of the earth, then your seed also shall be numbered.
+
+**Genesis 13:17**
+
+Rise, go through the land into its length and into its breadth, because I will give it to you and to your seed forever.
+
+**Genesis 13:18**
+
+And Abram, having moved his tent, came and dwelt by the oak of Mamre, which was in Hebron, and built there an altar to the Lord.
+
+### Chapter 14
+
+**Genesis 14:1**
+
+And it happened in the reign of Amarphal king of Sennaar, and Arioch king of Ellasar, Chodollogomor king of Elam, and Thargal king of nations,
+
+**Genesis 14:2**
+
+they made war with Balla king of Sodom and with Barsa king of Gomorrah and with Sennaar king of Adama and with Symobor king of Seboim and king of Balak, this is Segor.
+
+**Genesis 14:3**
+
+All these joined together at the salt valley. This is the Salt Sea.
+
+**Genesis 14:4**
+
+For twelve years they served Chodollogomor, but in the thirteenth year they revolted.
+
+**Genesis 14:5**
+
+And in the fourteenth year Chodollogomor came, and the kings with him, and they cut down the giants in Astaroth and Karnaim, and strong nations with them, and the Ommaeans in the city Save,
+
+**Genesis 14:6**
+
+and the Chorraeans in the mountains of Seir, as far as the terebinth of Pharan, which is in the wilderness.
+
+**Genesis 14:7**
+
+And having turned back they came to the spring of judgment, this is Kades, and they cut down all the rulers of Amalek and the Amorites dwelling in Asasonthamar.
+
+**Genesis 14:8**
+
+And the king of Sodom went out, and the king of Gomorrah and king of Adama and king of Seboim and king of Balak, this is Segor, and they drew up against them for war in the salt valley,
+
+**Genesis 14:9**
+
+against Chodollogomor king of Elam and Thargal king of nations and Amarphal king of Sennaar and Arioch king of Ellasar, four kings against the five.
+
+**Genesis 14:10**
+
+Now the salt valley had wells of asphalt. And the king of Sodom fled, and the king of Gomorrah, and they fell there. But those left behind fled into the mountain country.
+
+**Genesis 14:11**
+
+And they took all the cavalry of Sodom and Gomorrah, and all their provisions, and went away.
+
+**Genesis 14:12**
+
+And they took Lot also, the son of Abram's brother, and his baggage, and went away, for he was dwelling in Sodom.
+
+**Genesis 14:13**
+
+And one of those rescued came and reported to Abram the Hebrew. He was dwelling by the oak of Mamre the Amorite, brother of Eschol and brother of Aunan, who were Abram's allies.
+
+**Genesis 14:14**
+
+And Abram, hearing that Lot his nephew had been taken captive, numbered his own home-born ones, three hundred eighteen, and pursued after them as far as Dan.
+
+**Genesis 14:15**
+
+And he fell upon them by night, he and his servants, and struck them and pursued them as far as Choba, which is left of Damascus.
+
+**Genesis 14:16**
+
+And he brought back all the cavalry of Sodom, and he brought back Lot his nephew and all his possessions and the women and the people.
+
+**Genesis 14:17**
+
+And the king of Sodom went out to meet him after he returned from the slaughter of Chodollogomor and the kings with him, to the valley of Saby. This was the plain of the kings.
+
+**Genesis 14:18**
+
+And Melchisedec king of Salem brought out loaves and wine. He was priest of God Most High.
+
+**Genesis 14:19**
+
+And he blessed Abram and said, Blessed be Abram by God Most High, who created heaven and earth.
+
+**Genesis 14:20**
+
+And blessed be God Most High, who delivered your enemies under your hand. And Abram gave him a tenth of everything.
+
+**Genesis 14:21**
+
+And the king of Sodom said to Abram, Give me the men, but take the cavalry for yourself.
+
+**Genesis 14:22**
+
+And Abram said to the king of Sodom, I will stretch out my hand to the Lord, God Most High, who created heaven and earth,
+
+**Genesis 14:23**
+
+that I will not take anything from all that is yours, from a cord to a sandal-thong, so that you may not say, I made Abram rich.
+
+**Genesis 14:24**
+
+Except what the young men have eaten and the share of the men who went with me, Eschol, Aunan, Mamre. Let these take a share.
+
+### Chapter 15
+
+**Genesis 15:1**
+
+After these words the word of the Lord came to Abram in a vision, saying, Do not fear, Abram. I shield you. Your reward shall be very great.
+
+**Genesis 15:2**
+
+And Abram said, Master Lord, what will you give me? I am being dismissed childless. And the son of Masek of my home-born household, this is Damascus Eliezer.
+
+**Genesis 15:3**
+
+And Abram said, Since you have not given me seed, my home-born one will inherit for me.
+
+**Genesis 15:4**
+
+And immediately a voice of the Lord came to him, saying, This one shall not inherit you, but the one coming out from you, this one shall inherit you.
+
+**Genesis 15:5**
+
+And he brought him outside and said to him, Look up now to heaven and count the stars, if you can fully number them. And he said, So shall your seed be.
+
+**Genesis 15:6**
+
+And Abram believed God, and it was reckoned to him as righteousness.
+
+**Genesis 15:7**
+
+And he said to him, I am God who brought you out from the land of the Chaldeans, so as to give you this land to inherit.
+
+**Genesis 15:8**
+
+And he said, Master Lord, by what shall I know that I will inherit it?
+
+**Genesis 15:9**
+
+And he said to him, Take for me a heifer in her third year and a she-goat in her third year and a ram in his third year and a turtledove and a pigeon.
+
+**Genesis 15:10**
+
+So he took all these for him and divided them in the middle and placed them opposite each other. But the birds he did not divide.
+
+**Genesis 15:11**
+
+And birds came down on the bodies, on their cut pieces, and Abram sat with them.
+
+**Genesis 15:12**
+
+And about sunset a trance fell upon Abram, and look, a great dark fear falls upon him.
+
+**Genesis 15:13**
+
+And it was said to Abram, Knowing you shall know that your seed will be a foreigner in a land not its own, and they will enslave them and afflict them and humble them four hundred years.
+
+**Genesis 15:14**
+
+But the nation to which they will serve, I will judge. And after these things they will come out here with much baggage.
+
+**Genesis 15:15**
+
+But you shall depart to your fathers in peace, nourished in good old age.
+
+**Genesis 15:16**
+
+And in the fourth generation they will return here, for the sins of the Amorites have not yet been filled up until now.
+
+**Genesis 15:17**
+
+And when the sun had gone down, flame came to be, and look, a smoking furnace and lamps of fire, which passed between these divided pieces.
+
+**Genesis 15:18**
+
+In that day the Lord made a covenant with Abram, saying, To your seed I will give this land, from the river of Egypt as far as the great river, the Euphrates river,
+
+**Genesis 15:19**
+
+the Kenites and the Kenezites and the Kedmoneans,
+
+**Genesis 15:20**
+
+and the Hittites and the Perizzites and the Rephaim,
+
+**Genesis 15:21**
+
+and the Amorites and the Canaanites and the Hivites and the Gergesites and the Jebusites.
+
+### Chapter 16
+
+**Genesis 16:1**
+
+Now Sarai Abram's wife was not bearing to him. She had an Egyptian servant-girl whose name was Hagar.
+
+**Genesis 16:2**
+
+And Sarai said to Abram, Look, the Lord has shut me up from not bearing. Go in then to my servant-girl, so that I may get children through her. And Abram listened to Sarai's voice.
+
+**Genesis 16:3**
+
+And Sarai, Abram's wife, took Hagar the Egyptian, her own servant-girl, after Abram had dwelt ten years in the land of Canaan, and gave her to Abram her husband as a wife for him.
+
+**Genesis 16:4**
+
+And he went in to Hagar, and she conceived. And she saw that she was pregnant, and her mistress was dishonored before her.
+
+**Genesis 16:5**
+
+And Sarai said to Abram, I am being wronged because of you. I gave my servant-girl into your bosom, and when she saw that she was pregnant, I was dishonored before her. God judge between me and you.
+
+**Genesis 16:6**
+
+And Abram said to Sarai, Look, your servant-girl is in your hands. Use her as may seem good to you. And Sarai mistreated her, and she fled from her face.
+
+**Genesis 16:7**
+
+And an angel of the Lord found her by the spring of water in the wilderness, by the spring on the way to Shur.
+
+**Genesis 16:8**
+
+And the angel of the Lord said to her, Hagar, Sarai's servant-girl, where are you coming from and where are you going? And she said, I am running away from the face of Sarai my mistress.
+
+**Genesis 16:9**
+
+And the angel of the Lord said to her, Return to your mistress and humble yourself under her hands.
+
+**Genesis 16:10**
+
+And the angel of the Lord said to her, Multiplying I will multiply your seed, and it will not be numbered because of the multitude.
+
+**Genesis 16:11**
+
+And the angel of the Lord said to her, Look, you are pregnant and will bear a son, and you shall call his name Ishmael, because the Lord has hearkened to your humiliation.
+
+**Genesis 16:12**
+
+This one shall be a wild man. His hands against all, and all hands against him, and before the face of all his brothers he shall dwell.
+
+**Genesis 16:13**
+
+And Hagar called the name of the Lord who was speaking to her, You are God who saw me, because she said, For I have even here seen the one who appeared to me.
+
+**Genesis 16:14**
+
+Because of this she called the well, The well of the one whom I saw before me. Look, it is between Kadesh and Barad.
+
+**Genesis 16:15**
+
+And Hagar bore a son to Abram, and Abram called the name of his son, whom Hagar bore to him, Ishmael.
+
+**Genesis 16:16**
+
+Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+
+### Chapter 17
+
+**Genesis 17:1**
+
+And Abram became ninety-nine years old, and the Lord appeared to Abram and said to him, I am your God. Be well-pleasing before me and become blameless.
+
+**Genesis 17:2**
+
+And I will place my covenant between me and you and will multiply you exceedingly.
+
+**Genesis 17:3**
+
+And Abram fell upon his face, and God spoke to him, saying,
+
+**Genesis 17:4**
+
+And I, look, my covenant is with you, and you shall be father of a multitude of nations,
+
+**Genesis 17:5**
+
+And your name shall no longer be called Abram, but your name shall be Abraham, because I have made you father of many nations.
+
+**Genesis 17:6**
+
+And I will increase you very exceedingly and make you into nations, and kings shall come out from you.
+
+**Genesis 17:7**
+
+And I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you.
+
+**Genesis 17:8**
+
+And I will give to you and to your seed after you the land that you are living as a foreigner in, all the land of Canaan, for an everlasting possession, and I will be God to them.
+
+**Genesis 17:9**
+
+And God said to Abraham, And you, you shall keep my covenant, you and your seed after you throughout their generations.
+
+**Genesis 17:10**
+
+And this is the covenant which you shall keep, between me and you and your seed after you throughout their generations: every male among you shall be circumcised.
+
+**Genesis 17:11**
+
+And you shall circumcise the flesh of your foreskin, and it shall be for a sign of covenant between me and you.
+
+**Genesis 17:12**
+
+And a child of eight days shall be circumcised by you, every male throughout your generations, the home-born and the silver-bought, from every son of a foreigner who is not of your seed.
+
+**Genesis 17:13**
+
+By circumcision the home-born of your house and the one bought with silver shall be circumcised, and my covenant shall be on your flesh as an everlasting covenant.
+
+**Genesis 17:14**
+
+And the uncircumcised male, who will not circumcise the flesh of his foreskin on the eighth day, that life shall be utterly destroyed from its kind, because he has scattered my covenant.
+
+**Genesis 17:15**
+
+And God said to Abraham, Sarai your wife, her name shall not be called Sarai, but Sarah shall be her name.
+
+**Genesis 17:16**
+
+And I will bless her, and I will give you a child from her. And I will bless him, and he shall become nations, and kings of nations shall come from him.
+
+**Genesis 17:17**
+
+And Abraham fell upon his face and laughed, and said in his mind, Shall a son be born to one who is a hundred years old? And shall Sarah, being ninety years old, bear?
+
+**Genesis 17:18**
+
+And Abraham said to God, Let this Ishmael live before you.
+
+**Genesis 17:19**
+
+And God said to Abraham, Yes. Look, Sarah your wife shall bear you a son, and you shall call his name Isaac. And I will establish my covenant with him as an everlasting covenant, to be God to him and to his seed after him.
+
+**Genesis 17:20**
+
+And concerning Ishmael, look, I have heard you. And look, I have blessed him and will increase him and multiply him exceedingly. He shall beget twelve nations, and I will make him into a great nation.
+
+**Genesis 17:21**
+
+But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time in the next year.
+
+**Genesis 17:22**
+
+He finished speaking with him, and God went up from Abraham.
+
+**Genesis 17:23**
+
+And Abraham took Ishmael his son and all his home-born ones and all those bought with silver and every male of the men in Abraham's house, and circumcised their foreskins in the time of that very day, just as God spoke to him.
+
+**Genesis 17:24**
+
+Abraham was ninety-nine years old when he circumcised the flesh of his foreskin.
+
+**Genesis 17:25**
+
+Ishmael his son was thirteen years old when he circumcised the flesh of his foreskin.
+
+**Genesis 17:26**
+
+At the time of that day Abraham was circumcised, and Ishmael his son,
+
+**Genesis 17:27**
+
+and all the men of his house, the home-born and the silver-bought from foreign nations, he circumcised them.
+
+### Chapter 18
+
+**Genesis 18:1**
+
+And God appeared to him by the oak of Mamre, as he sat at the door of his tent at midday.
+
+**Genesis 18:2**
+
+Looking up with his eyes he saw, and look, three men stood over him. And seeing, he ran to meet them from the door of his tent and bowed to the ground.
+
+**Genesis 18:3**
+
+And he said, Lord, if I have found favor before you, do not pass by your servant.
+
+**Genesis 18:4**
+
+Let water be taken, and let them wash your feet, and cool yourselves under the tree.
+
+**Genesis 18:5**
+
+And I will take bread, and you shall eat, and after this you shall go on your way, because for this reason you turned aside to your servant. And they said, Do so, just as you have said.
+
+**Genesis 18:6**
+
+And Abraham hurried to the tent to Sarah and said to her, Hurry and knead three measures of fine flour and make hearth-cakes.
+
+**Genesis 18:7**
+
+And Abraham ran to the cattle and took a tender and good calf and gave it to the servant-boy, and he hurried to prepare it.
+
+**Genesis 18:8**
+
+And he took butter and milk and the calf that he had prepared and set it before them, and they ate. But he stood by them under the tree.
+
+**Genesis 18:9**
+
+And they said to him, Where is Sarah your wife? And answering he said, Look, in the tent.
+
+**Genesis 18:10**
+
+And he said, Returning I will come to you at this season in due time, and Sarah your wife shall have a son. Sarah heard at the door of the tent, being behind him.
+
+**Genesis 18:11**
+
+And Abraham and Sarah were old, advanced in days, and the things of women had ceased to be with Sarah.
+
+**Genesis 18:12**
+
+And Sarah laughed in herself, saying, It has not happened to me until now, and my lord is old.
+
+**Genesis 18:13**
+
+And the Lord said to Abraham, Why is it that Sarah laughed in herself, saying, Shall I truly bear? But I have grown old.
+
+**Genesis 18:14**
+
+Shall any word be impossible with God? At this season I will return to you in due time, and Sarah shall have a son.
+
+**Genesis 18:15**
+
+And Sarah denied, saying, I did not laugh, for she was afraid. And he said to her, No, but you did laugh.
+
+**Genesis 18:16**
+
+And the men, rising from there, looked down toward Sodom and Gomorrah. But Abraham went with them, sending them on.
+
+**Genesis 18:17**
+
+And the Lord said, Shall I hide from Abraham my servant what I am doing?
+
+**Genesis 18:18**
+
+And Abraham indeed shall become a great and numerous nation, and in him all the nations of the earth shall be blessed.
+
+**Genesis 18:19**
+
+For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+
+**Genesis 18:20**
+
+And the Lord said, The outcry of Sodom and Gomorrah has been multiplied toward me, and their sins are very great.
+
+**Genesis 18:21**
+
+So coming down I will see whether they are carried out according to their outcry that comes to me. But if not, so that I may know.
+
+**Genesis 18:22**
+
+And the men, turning from there, came to Sodom. But Abraham was still standing before the Lord.
+
+**Genesis 18:23**
+
+And Abraham, drawing near, said, Will you sweep away righteous with ungodly, and shall the righteous be like the ungodly?
+
+**Genesis 18:24**
+
+If there are fifty righteous in the city, will you destroy them? Will you not let the whole place go because of the fifty righteous, if they are in it?
+
+**Genesis 18:25**
+
+By no means will you do according to this word, to kill righteous with ungodly, and the righteous shall be like the ungodly. By no means. The one judging all the earth, will you not do judgment?
+
+**Genesis 18:26**
+
+And the Lord said, If there are fifty righteous in Sodom in the city, I will spare the whole city and all the place because of them.
+
+**Genesis 18:27**
+
+And Abraham answered and said, Now I have begun to speak to my Lord, and I am earth and ashes.
+
+**Genesis 18:28**
+
+But if the fifty righteous are lessened to forty-five, will you destroy the whole city because of the five? And he said, I will certainly not destroy it if I find forty-five there.
+
+**Genesis 18:29**
+
+And he added still to speak to him and said, But if forty are found there? And he said, I will certainly not destroy it because of the forty.
+
+**Genesis 18:30**
+
+And he said, Let it not be so, Lord, if I speak. But if thirty are found there? And he said, I will certainly not destroy it because of the thirty.
+
+**Genesis 18:31**
+
+And he said, Since I have it to speak to the Lord, but if twenty are found there? And he said, I will certainly not destroy it if I find twenty there.
+
+**Genesis 18:32**
+
+And he said, Let it not be so, Lord, if I speak still once more. But if ten are found there? And he said, I will certainly not destroy it because of the ten.
+
+**Genesis 18:33**
+
+And the Lord departed when he ceased speaking with Abraham, and Abraham returned to his place.
+
+### Chapter 19
+
+**Genesis 19:1**
+
+And the two angels came to Sodom at evening. And Lot was sitting by the gate of Sodom. Seeing them, Lot rose to meet them and bowed with his face to the ground.
+
+**Genesis 19:2**
+
+And he said, Look, lords, turn aside into the house of your servant and lodge and wash your feet, and rising early you shall go on your way. And they said, No, but we will lodge in the square.
+
+**Genesis 19:3**
+
+And he pressed them, and they turned aside to him and entered into his house. And he made a feast for them, and baked unleavened bread for them, and they ate.
+
+**Genesis 19:4**
+
+But before they lay down, the men of the city, the Sodomites, surrounded the house, from young man to old man, all the people together.
+
+**Genesis 19:5**
+
+And they called out to Lot and said to him, Where are the men who entered to you tonight? Bring them out to us, so that we may be with them.
+
+**Genesis 19:6**
+
+And Lot went out to them to the porch, and he shut the door after him.
+
+**Genesis 19:7**
+
+And he said to them, By no means, brothers, do not act wickedly.
+
+**Genesis 19:8**
+
+Look, I have two daughters who have not known a man. I will bring them out to you, and use them as may please you. Only do no wrong to these men, because for this reason they entered under the shelter of my roof-beams.
+
+**Genesis 19:9**
+
+And they said to him, Stand back there. You came in to live as a foreigner; do you also mean to judge? Now we will mistreat you more than them. And they pressed the man Lot very hard, and they drew near to break the door.
+
+**Genesis 19:10**
+
+And the men stretched out their hands and drew Lot into the house to themselves, and they shut the door of the house.
+
+**Genesis 19:11**
+
+And the men at the door of the house they struck with blindness, from small to great, and they were worn out seeking the door.
+
+**Genesis 19:12**
+
+And the men said to Lot, Do you have here sons-in-law or sons or daughters? Or if anyone else is yours in the city, bring them out from this place.
+
+**Genesis 19:13**
+
+Because we are destroying this place, because their outcry has been lifted up before the Lord, and the Lord has sent us to wipe it out.
+
+**Genesis 19:14**
+
+And Lot went out and spoke to his sons-in-law, those who had taken his daughters, and said, Rise and go out from this place, because the Lord is wiping out the city. But he seemed to be joking before his sons-in-law.
+
+**Genesis 19:15**
+
+When dawn was coming, the angels urged Lot, saying, Rise, take your wife and your two daughters whom you have, and go out, lest you too be destroyed with the lawless acts of the city.
+
+**Genesis 19:16**
+
+And they were troubled, and the angels took hold of his hand and the hand of his wife and the hands of his two daughters, because the Lord spared him.
+
+**Genesis 19:17**
+
+And it happened when they brought them outside that they said, Save your own life by all means. Do not look around to what is behind, and do not stand in all the surrounding region. Escape to the mountain, lest perhaps you be taken together with them.
+
+**Genesis 19:18**
+
+And Lot said to them, I beg, lord,
+
+**Genesis 19:19**
+
+Since your servant has found mercy before you, and you have magnified your righteousness, what you are doing toward me to keep my life alive, I will not be able to escape to the mountain, lest perhaps the evils overtake me and I die.
+
+**Genesis 19:20**
+
+Look, this city is near for me to flee there, and it is small, and there I shall be preserved. Is it not small? And my life shall live because of you.
+
+**Genesis 19:21**
+
+And he said to him, Look, I have shown regard for you also in this matter, that I should not overthrow the city about which you spoke.
+
+**Genesis 19:22**
+
+Hasten then to be saved there, for I will not be able to do anything until you come there. Because of this he called the name of that city Segor.
+
+**Genesis 19:23**
+
+The sun came out upon the earth, and Lot entered into Segor.
+
+**Genesis 19:24**
+
+And the Lord rained upon Sodom and Gomorrah sulfur and fire from the Lord out of heaven.
+
+**Genesis 19:25**
+
+And he overthrew these cities and all the surrounding region and all dwelling in the cities and the things springing up from the earth.
+
+**Genesis 19:26**
+
+And his wife looked back, and she became a pillar of salt.
+
+**Genesis 19:27**
+
+And Abraham rose early in the morning to the place where he had stood before the Lord.
+
+**Genesis 19:28**
+
+And he looked toward Sodom and Gomorrah and toward the surrounding region and saw, and look, flame went up from the earth like the vapor of a furnace.
+
+**Genesis 19:29**
+
+And it happened when God destroyed all the cities of the surrounding region, God remembered Abraham and sent Lot out from the midst of the overthrow, when the Lord overthrew the cities in which Lot dwelt.
+
+**Genesis 19:30**
+
+And Lot went up from Segor and dwelt in the mountain, he and his two daughters with him, for he feared to dwell in Segor. And he dwelt in the cave, he and his two daughters with him.
+
+**Genesis 19:31**
+
+And the elder said to the younger, Our father is old, and no one is on the earth who will come in to us, as is fitting for all the earth.
+
+**Genesis 19:32**
+
+Come and let us make our father drink wine, and let us sleep with him, and let us raise up seed from our father.
+
+**Genesis 19:33**
+
+And they made their father drink wine in that night, and the elder went in and lay with her father in that night, and he did not know when she lay down or when she rose up.
+
+**Genesis 19:34**
+
+And it happened on the next day that the elder said to the younger, Look, I slept yesterday with our father. Let us make him drink wine in this night also, and going in you sleep with him, and let us raise up seed from our father.
+
+**Genesis 19:35**
+
+And they made their father drink wine in that night also, and the younger went in and slept with her father, and he did not know when she lay down nor when she arose.
+
+**Genesis 19:36**
+
+And the two daughters of Lot conceived by their father.
+
+**Genesis 19:37**
+
+And the elder bore a son and called his name Moab, saying, From my father. This one is father of the Moabites to the present day.
+
+**Genesis 19:38**
+
+And the younger also bore a son and called his name Amman, saying, Son of my family. This one is father of the Ammanites to the present day.
+
+### Chapter 20
+
+**Genesis 20:1**
+
+And Abraham moved from there toward the south land and dwelt between Kadesh and Shur, and lived as a foreigner in Gerara.
+
+**Genesis 20:2**
+
+And Abraham said concerning Sarah his wife, She is my sister. For he feared to say, She is my wife, lest perhaps the men of the city kill him because of her. And Abimelech king of Gerara sent and took Sarah.
+
+**Genesis 20:3**
+
+And God came to Abimelech in sleep by night and said, Look, you are dying because of the woman whom you have taken, but she has lived with a husband.
+
+**Genesis 20:4**
+
+But Abimelech had not touched her, and he said, Lord, will you destroy an ignorant and righteous nation?
+
+**Genesis 20:5**
+
+Did he not himself say to me, She is my sister? And did she not say to me, He is my brother? In a pure heart and in the righteousness of my hands I did this.
+
+**Genesis 20:6**
+
+And God said to him in sleep, Yes, I knew that you did this in a pure heart, and I spared you so that you should not sin against me. Because of this I did not permit you to touch her.
+
+**Genesis 20:7**
+
+But now return the woman to the man, because he is a prophet and he will pray for you and you will live. But if you do not return her, know that you shall die, you and all that is yours.
+
+**Genesis 20:8**
+
+And Abimelech rose early in the morning and called all his servants and spoke all these words into their ears, and all the men feared exceedingly.
+
+**Genesis 20:9**
+
+And Abimelech called Abraham and said to him, What is this you have done to us? Did we sin against you, that you brought upon me and upon my kingdom a great sin? A deed that no one should do, you have done to me.
+
+**Genesis 20:10**
+
+And Abimelech said to Abraham, What did you see, that you did this?
+
+**Genesis 20:11**
+
+And Abraham said, For I said, Surely there is no reverence for God in this place, and they will kill me because of my wife.
+
+**Genesis 20:12**
+
+And indeed she truly is my sister by my father, but not by my mother, and she became my wife.
+
+**Genesis 20:13**
+
+And it happened when God brought me out from my father's house, that I said to her, This righteousness you shall do for me: in every place where we enter there, say of me, He is my brother.
+
+**Genesis 20:14**
+
+And Abimelech took a thousand didrachmas and sheep and calves and male-servants and female-servants and gave them to Abraham, and returned Sarah his wife to him.
+
+**Genesis 20:15**
+
+And Abimelech said to Abraham, Look, my land before you. Wherever it pleases you, dwell.
+
+**Genesis 20:16**
+
+And to Sarah he said, Look, I have given a thousand didrachmas to your brother. These shall be to you for the honor of your face and to all the women with you. And speak truth in all things.
+
+**Genesis 20:17**
+
+And Abraham prayed to God, and God healed Abimelech and his wife and his female-servants, and they bore children.
+
+**Genesis 20:18**
+
+Because in closing the Lord had closed from outside every womb in Abimelech's house, because of Sarah Abraham's wife.
+
+### Chapter 21
+
+**Genesis 21:1**
+
+And the Lord visited Sarah, just as he said, and the Lord did for Sarah just as he spoke,
+
+**Genesis 21:2**
+
+and conceiving, she bore to Abraham a son in old age, at the appointed time, just as the Lord spoke to him.
+
+**Genesis 21:3**
+
+And Abraham called the name of his son who came to be for him, whom Sarah bore to him, Isaac.
+
+**Genesis 21:4**
+
+And Abraham circumcised Isaac on the eighth day, just as God commanded him.
+
+**Genesis 21:5**
+
+And Abraham was one hundred years old when Isaac his son came to be for him.
+
+**Genesis 21:6**
+
+And Sarah said, The Lord made laughter for me, for whoever hears will rejoice with me.
+
+**Genesis 21:7**
+
+And she said, Who will report to Abraham that Sarah nurses a child? For I bore a son in my old age.
+
+**Genesis 21:8**
+
+And the child grew and was weaned, and Abraham made a great feast on the day Isaac his son was weaned.
+
+**Genesis 21:9**
+
+And Sarah saw the son of Hagar the Egyptian, who had come to be for Abraham, playing with Isaac her son.
+
+**Genesis 21:10**
+
+And she said to Abraham, Cast out this servant-girl and her son, for the son of this servant-girl shall certainly not inherit with my son Isaac.
+
+**Genesis 21:11**
+
+But the word appeared very hard before Abraham concerning his son.
+
+**Genesis 21:12**
+
+And God said to Abraham, Let it not be hard before you concerning the child and concerning the servant-girl. In all that Sarah says to you, hear her voice, because in Isaac seed shall be called for you.
+
+**Genesis 21:13**
+
+And I will make the son of this servant-girl into a great nation also, because he is your seed.
+
+**Genesis 21:14**
+
+And Abraham rose early in the morning and took loaves and a skin of water and gave them to Hagar, and set the child on her shoulders, and sent her away. And departing, she wandered by the wilderness near the well of the oath.
+
+**Genesis 21:15**
+
+And the water failed from the skin, and she threw the child under one fir tree.
+
+**Genesis 21:16**
+
+And departing she sat opposite him at a distance, about a bow-shot, for she said, I certainly shall not see the death of my child. And she sat opposite him, and the child cried out and wept.
+
+**Genesis 21:17**
+
+And God heard the voice of the child from the place where he was, and an angel of God called Hagar out of heaven and said to her, What is it, Hagar? Do not fear, for God has heard the voice of the child from the place where he is.
+
+**Genesis 21:18**
+
+Rise and take the child and hold him in your hand, for I will make him into a great nation.
+
+**Genesis 21:19**
+
+And God opened her eyes, and she saw a well of living water and went and filled the skin with water and gave the child drink.
+
+**Genesis 21:20**
+
+And God was with the child, and he grew. And he dwelt in the wilderness and became an archer.
+
+**Genesis 21:21**
+
+And he dwelt in the wilderness of Pharan, and his mother took a wife for him out of the land of Egypt.
+
+**Genesis 21:22**
+
+And it happened at that time that Abimelech and Ochozath his marriage-companion and Phichol the commander-in-chief of his force said to Abraham, saying, God is with you in all that you may do.
+
+**Genesis 21:23**
+
+Now then swear to me by God that you will not wrong me, nor my seed, nor my name, but according to the righteousness that I did with you, you shall do with me and with the land in which you have lived as a foreigner.
+
+**Genesis 21:24**
+
+And Abraham said, I will swear.
+
+**Genesis 21:25**
+
+And Abraham reproved Abimelech concerning the wells of water, which Abimelech's servants took away.
+
+**Genesis 21:26**
+
+And Abimelech said to him, I did not know who did this thing to you, nor did you report it to me, nor did I hear it except today.
+
+**Genesis 21:27**
+
+And Abraham took sheep and calves and gave them to Abimelech, and the two made a covenant.
+
+**Genesis 21:28**
+
+And Abraham set seven ewe-lambs of the flock by themselves.
+
+**Genesis 21:29**
+
+And Abimelech said to Abraham, What are these seven ewe-lambs of the flock that you set by themselves?
+
+**Genesis 21:30**
+
+And Abraham said, You shall receive the seven ewe-lambs from me, so that they may be for me as a witness that I dug this well.
+
+**Genesis 21:31**
+
+Because of this he named the name of that place, Well of Oath, because there both of them swore.
+
+**Genesis 21:32**
+
+And they made a covenant at the well of the oath. And Abimelech rose, and Ochozath his marriage-companion, and Phichol the commander-in-chief of his force, and they returned to the land of the Philistines.
+
+**Genesis 21:33**
+
+And Abraham planted a field at the well of the oath and called there on the name of the Lord, Everlasting God.
+
+**Genesis 21:34**
+
+And Abraham lived as a foreigner in the land of the Philistines many days.
+
+### Chapter 22
+
+**Genesis 22:1**
+
+And it happened after these words that God tested Abraham and said to him, Abraham, Abraham. And he said, Look, I am here.
+
+**Genesis 22:2**
+
+And he said, Take your beloved son, whom you loved, Isaac, and go into the high land and bring him up there as a whole-burnt offering on one of the mountains that I will tell you.
+
+**Genesis 22:3**
+
+And Abraham rose early in the morning and saddled his donkey, and took with himself two servants and Isaac his son, and splitting wood for a whole-burnt offering, he rose and went and came to the place that God told him, on the third day.
+
+**Genesis 22:4**
+
+And Abraham, looking up with his eyes, saw the place from afar.
+
+**Genesis 22:5**
+
+And Abraham said to his servants, Sit here with the donkey, and I and the young one will go through as far as there, and having worshiped we will return to you.
+
+**Genesis 22:6**
+
+And Abraham took the wood of the whole-burnt offering and laid it upon Isaac his son. And he took in his hands also the fire and the knife, and the two went together.
+
+**Genesis 22:7**
+
+And Isaac said to Abraham his father, Father. And he said, What is it, child? And he said, Look, the fire and the wood. Where is the sheep for a whole-burnt offering?
+
+**Genesis 22:8**
+
+And Abraham said, God will see for himself a sheep for a whole-burnt offering, child. And both went on together.
+
+**Genesis 22:9**
+
+And they came to the place that God told him. And Abraham built there the altar and placed the wood, and having bound together Isaac his son, he laid him on the altar upon the wood.
+
+**Genesis 22:10**
+
+And Abraham stretched out his hand to take the knife to slay his son.
+
+**Genesis 22:11**
+
+And an angel of the Lord called him from heaven and said, Abraham, Abraham. And he said, Look, I am here.
+
+**Genesis 22:12**
+
+And he said, Do not lay your hand on the child, and do nothing to him, for now I know that you fear God, and for my sake you did not spare your beloved son.
+
+**Genesis 22:13**
+
+And Abraham, looking up with his eyes, saw, and look, one ram caught in a plant of Sabek by the horns. And Abraham went and took the ram and brought it up as a whole-burnt offering instead of Isaac his son.
+
+**Genesis 22:14**
+
+And Abraham called the name of that place, The Lord saw, so that they may say today, On the mountain the Lord was seen.
+
+**Genesis 22:15**
+
+And an angel of the Lord called Abraham a second time from heaven, saying,
+
+**Genesis 22:16**
+
+By myself I have sworn, says the Lord, because you did this thing, and for my sake did not spare your beloved son,
+
+**Genesis 22:17**
+
+Surely in blessing I will bless you, and in multiplying I will multiply your seed, like the stars of heaven and like the sand beside the shore of the sea, and your seed shall inherit the cities of the adversaries.
+
+**Genesis 22:18**
+
+And in your seed all the nations of the earth shall be blessed, because you hearkened to my voice.
+
+**Genesis 22:19**
+
+And Abraham returned to his servants, and rising they went together to the well of the oath. And Abraham dwelt at the well of the oath.
+
+**Genesis 22:20**
+
+And it happened after these words that it was reported to Abraham, saying, Look, Milcha also has borne sons to Nachor your brother,
+
+**Genesis 22:21**
+
+Uz the firstborn and Baux his brother and Kamouel father of the Syrians
+
+**Genesis 22:22**
+
+and Chazad and Azau and Phaldes and Jeldaph and Bathouel.
+
+**Genesis 22:23**
+
+And Bathouel begot Rebecca. These are eight sons whom Milcha bore to Nachor the brother of Abraham.
+
+**Genesis 22:24**
+
+And his concubine, whose name was Rheuma, also bore Tabek and Taam and Tochos and Mocha.
+
+### Chapter 23
+
+**Genesis 23:1**
+
+And Sarah's life was one hundred twenty-seven years.
+
+**Genesis 23:2**
+
+And Sarah died in the city of Arbok, which is in the hollow (this is Hebron) in the land of Canaan. And Abraham came to lament Sarah and to mourn.
+
+**Genesis 23:3**
+
+And Abraham rose up from his dead and Abraham said to the sons of Heth, saying,
+
+**Genesis 23:4**
+
+I am a sojourner and a temporary resident among you. So give me a burial holding among you, and I will bury my dead away from me.
+
+**Genesis 23:5**
+
+And the sons of Heth answered Abraham, saying, No, lord.
+
+**Genesis 23:6**
+
+Hear us. You are a king from God among us. In our choice tombs bury your dead, for none of us will withhold his tomb from you, so that you may bury your dead there.
+
+**Genesis 23:7**
+
+And Abraham rose and bowed to the people of the land, to the sons of Heth,
+
+**Genesis 23:8**
+
+and Abraham spoke to them, saying, If it is in your mind that I should bury my dead out of my sight, hear me and speak on my behalf to Ephron son of Saar,
+
+**Genesis 23:9**
+
+and let him give me the double cave, which belongs to him, which is in part of his field. Let him give it to me among you for full silver as a burial holding.
+
+**Genesis 23:10**
+
+Now Ephron was sitting in the midst of the sons of Heth. And Ephron the Hittite answered Abraham, speaking in the hearing of the sons of Heth and of all who entered into the city, saying,
+
+**Genesis 23:11**
+
+Listen, lord, and hear me. I give you the field and the cave in it. Before all my fellow-citizens I have given it to you. Bury your dead.
+
+**Genesis 23:12**
+
+And Abraham bowed before the people of the land,
+
+**Genesis 23:13**
+
+and said to Ephron in the hearing of the people of the land, Since you are for me, hear me. Take the silver for the field from me, and I will bury my dead there.
+
+**Genesis 23:14**
+
+And Ephron answered Abraham, saying,
+
+**Genesis 23:15**
+
+No, lord, I have indeed heard. Land worth four hundred silver didrachms - but what is that between me and you? So bury your dead.
+
+**Genesis 23:16**
+
+And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver that he had spoken in the hearing of the sons of Heth, four hundred silver didrachms, merchant-approved.
+
+**Genesis 23:17**
+
+And the field of Ephron, which was at the double cave, which is opposite Mamre, the field and the cave in it, and every tree that was in the field, and everything that was within all its borders round about, was established
+
+**Genesis 23:18**
+
+to Abraham as a holding, before the sons of Heth and all who entered into the city.
+
+**Genesis 23:19**
+
+After this Abraham buried Sarah his wife in the cave of the field at the double place, which is opposite Mamre (this is Hebron) in the land of Canaan.
+
+**Genesis 23:20**
+
+And the field and the cave in it were confirmed to Abraham as a burial holding from the sons of Heth.
+
+### Chapter 24
+
+**Genesis 24:1**
+
+And Abraham was old, far advanced in days, and the Lord had blessed Abraham in everything.
+
+**Genesis 24:2**
+
+And Abraham said to his servant, the elder of his house, the ruler of all that was his, Put your hand under my thigh,
+
+**Genesis 24:3**
+
+and I will bind you by oath by the Lord, the God of heaven and the God of the earth, that you shall not take a wife for my son Isaac from the daughters of the Canaanites, among whom I dwell,
+
+**Genesis 24:4**
+
+but you shall go instead to my land, where I was born, and to my tribe, and take a wife from there for my son Isaac.
+
+**Genesis 24:5**
+
+And the servant said to him, Suppose the woman is not willing to come back with me to this land. Shall I return your son to the land from which you came out?
+
+**Genesis 24:6**
+
+And Abraham said to him, Beware for yourself that you do not return my son there.
+
+**Genesis 24:7**
+
+The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
+
+**Genesis 24:8**
+
+But if the woman is not willing to come with you into this land, you shall be clear from my oath. Only do not return my son there.
+
+**Genesis 24:9**
+
+And the servant put his hand under the thigh of Abraham his lord and swore to him concerning this matter.
+
+**Genesis 24:10**
+
+And the servant took ten camels from the camels of his lord, and from all the good things of his lord with him. And he rose and went to Mesopotamia, to the city of Nahor.
+
+**Genesis 24:11**
+
+And he made the camels lie down outside the city beside the water well toward evening, at the time when the women who draw water go out.
+
+**Genesis 24:12**
+
+And he said, Lord, God of my lord Abraham, prosper things before me today and show mercy toward my lord Abraham.
+
+**Genesis 24:13**
+
+Look, I am standing at the spring of water, and the daughters of those inhabiting the city are coming out to draw water,
+
+**Genesis 24:14**
+
+and let it be that the virgin to whom I say, Lower your water jar so that I may drink, and she says to me, Drink, and I will water your camels until they stop drinking - this is the one you prepared for your servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+
+**Genesis 24:15**
+
+And it happened before he finished speaking in his mind, that at once Rebekah came out, born to Bethuel son of Milcah wife of Nahor, Abraham's brother, having her water jar on her shoulders.
+
+**Genesis 24:16**
+
+And the virgin was very beautiful in appearance. She was a virgin; a man had not known her. And she went down to the spring, filled her water jar, and came up.
+
+**Genesis 24:17**
+
+And the servant ran to meet her and said, Give me a little water to drink from your jar.
+
+**Genesis 24:18**
+
+And she said, Drink, lord. And she hurried and lowered the jar onto her arm and gave him drink until he stopped drinking.
+
+**Genesis 24:19**
+
+And she said, I will draw for your camels too, until they all drink.
+
+**Genesis 24:20**
+
+And she hurried and emptied the water jar into the trough and ran back to the well to draw again and drew for all the camels.
+
+**Genesis 24:21**
+
+And the man was closely observing her and kept silent, to know whether the Lord had prospered his way or not.
+
+**Genesis 24:22**
+
+And it happened when all the camels stopped drinking, the man took golden earrings, a drachm in weight each, and two bracelets for her hands, their weight ten gold pieces.
+
+**Genesis 24:23**
+
+And he asked her and said, Whose daughter are you? Tell me whether there is room at your father's house for us to lodge.
+
+**Genesis 24:24**
+
+And she said to him, I am daughter of Bethuel, son of Milcah, whom she bore to Nahor.
+
+**Genesis 24:25**
+
+And she said to him, We have both much straw and fodder with us, and room to lodge.
+
+**Genesis 24:26**
+
+And the man, being well pleased, bowed to the Lord and said,
+
+**Genesis 24:27**
+
+Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+
+**Genesis 24:28**
+
+And the girl ran and reported to her mother's house according to these words.
+
+**Genesis 24:29**
+
+Now Rebekah had a brother whose name was Laban. And Laban ran out to the man, to the spring.
+
+**Genesis 24:30**
+
+And it happened when he saw the earrings and the bracelets on his sister's hands, and when he heard the words of Rebekah his sister saying, Thus the man spoke to me, that he came to the man standing by the camels at the spring.
+
+**Genesis 24:31**
+
+And he said to him, Come in, blessed of the Lord. Why do you stand outside? I have prepared the house and a place for the camels.
+
+**Genesis 24:32**
+
+And the man entered the house and unloaded the camels and gave straw and fodder to the camels, and water to wash his feet and the feet of the men with him.
+
+**Genesis 24:33**
+
+And he set loaves before them to eat. But he said, I will certainly not eat until I speak my words. And they said, Speak.
+
+**Genesis 24:34**
+
+And he said, I am Abraham's servant.
+
+**Genesis 24:35**
+
+And the Lord greatly blessed my lord, and he was exalted. And he gave him sheep and calves and silver and gold and male servants and female servants and camels and donkeys.
+
+**Genesis 24:36**
+
+And Sarah, my lord's wife, bore one son to my lord after he had grown old, and he gave him all that he had.
+
+**Genesis 24:37**
+
+And my lord made me swear, saying, You shall not take a wife for my son from the daughters of the Canaanites, among whose land I sojourn,
+
+**Genesis 24:38**
+
+but you shall go instead to my father's house and to my tribe and take a wife for my son from there.
+
+**Genesis 24:39**
+
+And I said to my lord, Suppose the woman will not come with me.
+
+**Genesis 24:40**
+
+And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
+
+**Genesis 24:41**
+
+Then you shall be innocent of my curse, for whenever you come to my tribe and they do not give to you, you shall be innocent of my oath.
+
+**Genesis 24:42**
+
+And when I came today to the spring I said, Lord, God of my lord Abraham, if you are prospering the way on which I am now going,
+
+**Genesis 24:43**
+
+look, I am standing at the spring of water, and the daughters of the men of the city are coming out to draw water. And let it be that the virgin to whom I say, Give me a little water from your jar to drink,
+
+**Genesis 24:44**
+
+and she says to me, Drink yourself, and I will draw water for your camels too - this is the woman whom the Lord prepared for his own servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+
+**Genesis 24:45**
+
+And it happened before I finished speaking in my mind, at once Rebekah came out having the water jar on her shoulders, and she went down to the spring and drew water. And I said to her, Give me drink.
+
+**Genesis 24:46**
+
+And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too.
+
+**Genesis 24:47**
+
+And I asked her and said, Whose daughter are you? Tell me. And she said, I am daughter of Bethuel son of Nahor, whom Milcah bore to him. And I put the earrings on her and the bracelets around her hands.
+
+**Genesis 24:48**
+
+And being well pleased I bowed to the Lord and blessed the Lord, the God of my lord Abraham, who prospered me on a true way to take the daughter of my lord's brother for his son.
+
+**Genesis 24:49**
+
+So now, if you are doing mercy and righteousness toward my lord, tell me. But if not, tell me, so that I may turn to the right or to the left.
+
+**Genesis 24:50**
+
+And Laban and Bethuel answered and said, This command has gone out from the Lord. So we will not be able to speak against you evil or good.
+
+**Genesis 24:51**
+
+Look, Rebekah is before you. Take her and go quickly, and let her be wife to your lord's son, just as the Lord spoke.
+
+**Genesis 24:52**
+
+And it happened when Abraham's servant heard these words, he bowed to the ground to the Lord.
+
+**Genesis 24:53**
+
+And the servant brought out silver vessels and gold vessels and clothing and gave them to Rebekah, and he gave gifts to her brother and to her mother.
+
+**Genesis 24:54**
+
+And he and the men with him ate and drank and slept. And rising in the morning, he said, Send me away, so that I may go to my lord.
+
+**Genesis 24:55**
+
+But her brothers and her mother said, Let the virgin remain with us about ten days, and after that she will depart.
+
+**Genesis 24:56**
+
+But he said to them, Do not hold me back, for the Lord prospered my way for me. Send me away, so that I may go to my lord.
+
+**Genesis 24:57**
+
+And they said, Let us call the girl and ask from her mouth.
+
+**Genesis 24:58**
+
+And they called Rebekah and said to her, Will you go with this man? And she said, I will go.
+
+**Genesis 24:59**
+
+And they sent away Rebekah their sister and what belonged to her, and Abraham's servant and those with him.
+
+**Genesis 24:60**
+
+And they blessed Rebekah and said to her, You are our sister. Become into thousands of myriads, and let your seed inherit the cities of the adversaries.
+
+**Genesis 24:61**
+
+And Rebekah rose up and her maidens, and they mounted the camels and went with the man. And the servant, taking Rebekah, went away.
+
+**Genesis 24:62**
+
+And Isaac was traveling through the wilderness by the well of the vision, and he was dwelling in the land toward the south.
+
+**Genesis 24:63**
+
+And Isaac went out to muse in the field toward evening, and lifting up his eyes he saw camels coming.
+
+**Genesis 24:64**
+
+And Rebekah lifted up her eyes and saw Isaac and sprang down from the camel.
+
+**Genesis 24:65**
+
+And she said to the servant, Who is that man there walking in the field to meet us? And the servant said, This is my lord. And she took the veil and covered herself.
+
+**Genesis 24:66**
+
+And the servant recounted to Isaac all the things that he had done.
+
+**Genesis 24:67**
+
+And Isaac went into the house of his mother and took Rebekah, and she became his wife, and he loved her. And Isaac was comforted concerning Sarah his mother.
+
+### Chapter 25
+
+**Genesis 25:1**
+
+And Abraham took another wife, whose name was Ketturah.
+
+**Genesis 25:2**
+
+And she bore to him Zombran and Jezan and Madal and Madiam and Jesbok and Soie.
+
+**Genesis 25:3**
+
+And Jezan begot Thaiman and Saba and Dedan. And sons of Dedan became Ragouel and Nabdeel and Assourieim and Latousieim and Laomeim.
+
+**Genesis 25:4**
+
+And sons of Madiam were Gephar and Apher and Enoch and Abeira and Eldaga. All these were sons of Ketturah.
+
+**Genesis 25:5**
+
+And Abraham gave all his possessions to Isaac his son,
+
+**Genesis 25:6**
+
+but to the sons of his concubines Abraham gave gifts and sent them away from Isaac his son, while he was still alive, eastward into the eastern land.
+
+**Genesis 25:7**
+
+And these were the years of the days of Abraham's life, as many as he lived: one hundred seventy-five years.
+
+**Genesis 25:8**
+
+And Abraham came to his end and died in a good old age, old and full of days, and was added to his people.
+
+**Genesis 25:9**
+
+And Isaac and Ishmael his sons buried him in the double cave, in the field of Ephron son of Saar the Hittite, which is opposite Mamre,
+
+**Genesis 25:10**
+
+the field and the cave that Abraham acquired from the sons of Heth. There they buried Abraham and Sarah his wife.
+
+**Genesis 25:11**
+
+And it happened after Abraham died, God blessed Isaac his son. And Isaac dwelt by the well of the vision.
+
+**Genesis 25:12**
+
+And these are the generations of Ishmael son of Abraham, whom Hagar the Egyptian, Sarah's servant-girl, bore to Abraham.
+
+**Genesis 25:13**
+
+And these are the names of Ishmael's sons according to the names of their generations: firstborn of Ishmael, Nabaioth, and Kedar and Nabdeel and Massam
+
+**Genesis 25:14**
+
+and Masma and Douma and Masse
+
+**Genesis 25:15**
+
+and Choddan and Thaiman and Jetour and Naphes and Kedma.
+
+**Genesis 25:16**
+
+These are Ishmael's sons, and these are their names in their tents and in their settlements, twelve rulers according to their nations.
+
+**Genesis 25:17**
+
+And these are the years of Ishmael's life: one hundred thirty-seven years. And coming to his end he died and was added to his people.
+
+**Genesis 25:18**
+
+And he dwelt from Evilat to Sour, which is opposite Egypt, until one comes to the Assyrians. He dwelt in the presence of all his brothers.
+
+**Genesis 25:19**
+
+And these are the generations of Isaac, Abraham's son.
+
+**Genesis 25:20**
+
+Abraham begot Isaac. And Isaac was forty years old when he took Rebekah, daughter of Bethuel the Syrian from Mesopotamian Syria, sister of Laban the Syrian, as wife for himself.
+
+**Genesis 25:21**
+
+And Isaac was praying to the Lord concerning Rebekah his wife, because she was barren. And God heard him, and Rebekah his wife conceived in her womb.
+
+**Genesis 25:22**
+
+And the children were leaping in her. And she said, If it is going to be like this for me, why is this happening to me? And she went to inquire from the Lord.
+
+**Genesis 25:23**
+
+And the Lord said to her, Two nations are in your womb, and two peoples will be separated from your belly. And one people will excel the other, and the greater will serve the lesser.
+
+**Genesis 25:24**
+
+And the days were fulfilled for her to give birth, and she had twins in her womb.
+
+**Genesis 25:25**
+
+And the first came out reddish, all hairy like a hide, and she called his name Esau.
+
+**Genesis 25:26**
+
+And after this his brother came out, and his hand was gripping Esau's heel, and he called his name Jacob. And Isaac was sixty years old when Rebekah bore them.
+
+**Genesis 25:27**
+
+And the young men grew, and Esau was a man skilled in hunting, a country man, but Jacob was a straightforward man, dwelling at home.
+
+**Genesis 25:28**
+
+And Isaac loved Esau, because his hunting was food for him, but Rebekah loved Jacob.
+
+**Genesis 25:29**
+
+And Jacob cooked stew, and Esau came from the plain exhausted,
+
+**Genesis 25:30**
+
+and Esau said to Jacob, Feed me from this red stew, because I am exhausted. Therefore his name was called Edom.
+
+**Genesis 25:31**
+
+And Jacob said to Esau, Give over to me today your firstborn rights.
+
+**Genesis 25:32**
+
+And Esau said, Look, I am going to die, and why are these firstborn rights to me?
+
+**Genesis 25:33**
+
+And Jacob said to him, Swear to me today. And he swore to him, and Esau sold the firstborn rights to Jacob.
+
+**Genesis 25:34**
+
+And Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went away. And Esau made light of the firstborn rights.
+
+### Chapter 26
+
+**Genesis 26:1**
+
+And there came a famine on the land besides the earlier famine that happened in Abraham's time. And Isaac went to Abimelech king of the Philistines, to Gerara.
+
+**Genesis 26:2**
+
+And the Lord appeared to him and said, Do not go down to Egypt, but dwell in the land that I tell you.
+
+**Genesis 26:3**
+
+And sojourn in this land, and I will be with you and bless you, for to you and to your seed I will give all this land, and I will establish my oath that I swore to Abraham your father.
+
+**Genesis 26:4**
+
+And I will multiply your seed like the stars of heaven and give all this land to your seed, and in your seed all the nations of the earth will be blessed,
+
+**Genesis 26:5**
+
+because Abraham your father heard my voice and kept my charges and my commandments and my ordinances and my statutes.
+
+**Genesis 26:6**
+
+And Isaac dwelt in Gerara.
+
+**Genesis 26:7**
+
+And the men of the place asked about Rebekah his wife, and he said, She is my sister, for he feared to say, She is my wife, lest the men of the place kill him because of Rebekah, because she was beautiful in appearance.
+
+**Genesis 26:8**
+
+And it happened after a long time there, Abimelech king of Gerara leaned through the window and saw Isaac sporting with Rebekah his wife.
+
+**Genesis 26:9**
+
+And Abimelech called Isaac and said to him, So then is she your wife? Why did you say, She is my sister? And Isaac said to him, Because I said, Lest I die because of her.
+
+**Genesis 26:10**
+
+And Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance.
+
+**Genesis 26:11**
+
+And Abimelech charged all his people, saying, Everyone touching this man or his wife will be liable to death.
+
+**Genesis 26:12**
+
+And Isaac sowed in that land and found in that year hundredfold barley. And the Lord blessed him.
+
+**Genesis 26:13**
+
+And the man was exalted, and going forward he became greater until he became very great.
+
+**Genesis 26:14**
+
+And he had flocks of sheep and herds of cattle and many farms. And the Philistines envied him,
+
+**Genesis 26:15**
+
+and all the wells that his father's servants dug in his father's time, the Philistines stopped them up and filled them with earth.
+
+**Genesis 26:16**
+
+And Abimelech said to Isaac, Go away from us, because you have become much stronger than we are.
+
+**Genesis 26:17**
+
+And Isaac went away from there and camped in the valley of Gerar and dwelt there.
+
+**Genesis 26:18**
+
+And Isaac dug again the wells of water that his father Abraham's servants dug and the Philistines stopped up after Abraham his father died. And he called them by the names his father had named them.
+
+**Genesis 26:19**
+
+And Isaac's servants dug in the valley of Gerar and found there a well of living water.
+
+**Genesis 26:20**
+
+And the shepherds of Gerar fought with Isaac's shepherds, saying the water was theirs. And he called the name of the well Injustice, because they wronged him.
+
+**Genesis 26:21**
+
+And moving on from there, he dug another well, and they were quarreling over that one too. And he named it Enmity.
+
+**Genesis 26:22**
+
+And moving on from there, he dug another well, and they did not fight over it. And he named it Broad Space, saying, Because now the Lord made room for us and increased us on the earth.
+
+**Genesis 26:23**
+
+And he went up from there to the Well of Oath.
+
+**Genesis 26:24**
+
+And the Lord appeared to him in that night and said, I am the God of Abraham your father. Do not fear, for I am with you, and I will bless you and multiply your seed because of Abraham your father.
+
+**Genesis 26:25**
+
+And he built there an altar and called on the name of the Lord and pitched his tent there. And Isaac's servants dug a well there in the valley of Gerar.
+
+**Genesis 26:26**
+
+And Abimelech went to him from Gerar, and Ochozath his marriage-companion and Phichol the commander-in-chief of his force.
+
+**Genesis 26:27**
+
+And Isaac said to them, Why did you come to me? You hated me and sent me away from you.
+
+**Genesis 26:28**
+
+And they said, Seeing, we have seen that the Lord was with you, and we said, Let there be an oath-curse between us and you, and we will make a covenant with you,
+
+**Genesis 26:29**
+
+that you not do us evil, since we did not abhor you and in the way we treated you well and sent you away with peace. And now you are blessed by the Lord.
+
+**Genesis 26:30**
+
+And he made a feast for them, and they ate and drank.
+
+**Genesis 26:31**
+
+And rising in the morning, each swore to his neighbor, and Isaac sent them away, and they went away from him in safety.
+
+**Genesis 26:32**
+
+And it happened in that day Isaac's servants came and reported to him about the well that they dug, and they said, We did not find water.
+
+**Genesis 26:33**
+
+And he called it Oath. Therefore he called the name of that city Well of Oath until this day.
+
+**Genesis 26:34**
+
+And Esau was forty years old and took Judith, daughter of Beoch the Hittite, and Basemath, daughter of Helon the Hittite, as wives.
+
+**Genesis 26:35**
+
+And they were contentious toward Isaac and Rebekah.
+
+### Chapter 27
+
+**Genesis 27:1**
+
+And it happened after Isaac had grown old and his eyes had become dim for seeing, that he called Esau his older son and said to him, My son. And he said, Look, I am here.
+
+**Genesis 27:2**
+
+And he said, Look, I have grown old and do not know the day of my death.
+
+**Genesis 27:3**
+
+Now then take your gear, both quiver and bow, and go out into the plain and hunt game for me,
+
+**Genesis 27:4**
+
+and make me dishes, as I love, and bring them to me so that I may eat, so that my soul may bless you before I die.
+
+**Genesis 27:5**
+
+Now Rebekah heard Isaac speaking to Esau his son. And Esau went into the plain to hunt game for his father.
+
+**Genesis 27:6**
+
+And Rebekah said to Jacob her son, the lesser one, Look, I heard your father speaking to Esau your brother, saying,
+
+**Genesis 27:7**
+
+Bring me game and make me dishes so that I may eat and bless you before the Lord before I die.
+
+**Genesis 27:8**
+
+Now then, my son, hear me, as I command you.
+
+**Genesis 27:9**
+
+And go to the flock and take from there two tender good kids for me, and I will make them dishes for your father as he loves,
+
+**Genesis 27:10**
+
+and you shall bring them to your father and he will eat, so that your father may bless you before he dies.
+
+**Genesis 27:11**
+
+But Jacob said to Rebekah his mother, Esau my brother is a hairy man, but I am a smooth man.
+
+**Genesis 27:12**
+
+Perhaps my father will feel me and I shall be before him as one mocking him, and I will bring a curse upon myself and not a blessing.
+
+**Genesis 27:13**
+
+But his mother said to him, Let your curse be on me, child. Only hear my voice, and go bring them to me.
+
+**Genesis 27:14**
+
+So he went and took them and brought them to his mother, and his mother made dishes as his father loved them.
+
+**Genesis 27:15**
+
+And Rebekah took the fine robe of Esau her older son, which was with her in the house, and put it on Jacob her younger son,
+
+**Genesis 27:16**
+
+and she put the skins of the kids on his arms and on the bare parts of his neck,
+
+**Genesis 27:17**
+
+and gave the dishes and the loaves she made into Jacob her son's hands.
+
+**Genesis 27:18**
+
+And he brought them in to his father. And he said, Father. And he said, Look, I am here. Who are you, child?
+
+**Genesis 27:19**
+
+And Jacob said to his father, I am Esau your firstborn. I have done as you told me. Rise, sit, and eat of my game, so that your soul may bless me.
+
+**Genesis 27:20**
+
+And Isaac said to his son, What is this that you found so quickly, child? And he said, What the Lord your God handed over before me.
+
+**Genesis 27:21**
+
+And Isaac said to Jacob, Come near to me and I will feel you, child, whether you are my son Esau or not.
+
+**Genesis 27:22**
+
+And Jacob came near to Isaac his father, and he felt him and said, The voice is Jacob's voice, but the hands are Esau's hands.
+
+**Genesis 27:23**
+
+And he did not recognize him, for his hands were hairy like the hands of his brother Esau. And he blessed him,
+
+**Genesis 27:24**
+
+and said, Are you my son Esau? And he said, I am.
+
+**Genesis 27:25**
+
+And he said, Bring it near to me, and I will eat of your game, child, so that my soul may bless you. And he brought it near to him, and he ate. And he brought him wine, and he drank.
+
+**Genesis 27:26**
+
+And Isaac his father said to him, Come near to me and kiss me, child.
+
+**Genesis 27:27**
+
+And he came near and kissed him, and he smelled the smell of his clothes and blessed him and said, Look, the smell of my son is like the smell of a full field that the Lord blessed.
+
+**Genesis 27:28**
+
+And may God give you from the dew of heaven and from the fatness of the earth and abundance of grain and wine.
+
+**Genesis 27:29**
+
+And let nations serve you, and let rulers bow down to you. And become lord of your brother, and the sons of your father shall bow to you. Cursed be the one cursing you, and blessed be the one blessing you.
+
+**Genesis 27:30**
+
+And it happened after Isaac finished blessing Jacob his son, indeed it happened just as Jacob went out from before Isaac his father, that Esau his brother came from the hunt.
+
+**Genesis 27:31**
+
+And he too made dishes and brought them to his father. And he said to his father, Let my father arise and eat of his son's game, so that your soul may bless me.
+
+**Genesis 27:32**
+
+And Isaac his father said to him, Who are you? And he said, I am your firstborn son Esau.
+
+**Genesis 27:33**
+
+And Isaac was overcome with a very great astonishment and said, Who then was the one who hunted game for me and brought it to me? And I ate from everything before you came, and I blessed him, and blessed he shall be.
+
+**Genesis 27:34**
+
+And it happened when Esau heard the words of Isaac his father, he cried out with a great and very bitter cry and said, Bless me too, father.
+
+**Genesis 27:35**
+
+And he said to him, Your brother came with deceit and took your blessing.
+
+**Genesis 27:36**
+
+And he said, Rightly was his name called Jacob, for now this second time he has tripped me by the heel. He took my firstborn rights, and now he has taken my blessing. And Esau said to his father, Did you not leave a blessing for me, father?
+
+**Genesis 27:37**
+
+But Isaac answered and said to Esau, If I made him your lord and made all his brothers his servants, and I strengthened him with grain and wine, what then shall I do for you, child?
+
+**Genesis 27:38**
+
+But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And Isaac was pierced, and Esau cried aloud and wept.
+
+**Genesis 27:39**
+
+And Isaac his father answered and said to him, Look, your dwelling shall be from the fatness of the earth and from the dew of heaven above.
+
+**Genesis 27:40**
+
+And you shall live by your sword and serve your brother. But when you break away, then you will loosen his yoke from your neck.
+
+**Genesis 27:41**
+
+And Esau kept anger against Jacob because of the blessing with which his father blessed him. And Esau said in his mind, Let the days of mourning for my father draw near, so that I may kill Jacob my brother.
+
+**Genesis 27:42**
+
+And the words of Esau her older son were reported to Rebekah, and she sent and called Jacob her younger son and said to him, Look, Esau your brother is threatening you, intending to kill you.
+
+**Genesis 27:43**
+
+Now then, child, hear my voice and rise, flee to Mesopotamia to Laban my brother in Harran.
+
+**Genesis 27:44**
+
+And dwell with him some days,
+
+**Genesis 27:45**
+
+until the anger and wrath of your brother turn away from you and he forget what you did to him. Then I will send and bring you back from there, lest I be bereaved of both of you in one day.
+
+**Genesis 27:46**
+
+And Rebekah said to Isaac, I am weary of my life because of the daughters of the sons of Heth. If Jacob takes a wife from the daughters of this land, why should I go on living?
+
+### Chapter 28
+
+**Genesis 28:1**
+
+And Isaac, calling Jacob to him, blessed him and charged him, saying, You shall not take a wife from the daughters of the Canaanites.
+
+**Genesis 28:2**
+
+Rise and flee to Mesopotamia, to the house of Bethuel the father of your mother, and take for yourself a wife from there, from the daughters of Laban your mother's brother.
+
+**Genesis 28:3**
+
+And may my God bless you and increase you and multiply you, and you shall become gatherings of nations.
+
+**Genesis 28:4**
+
+And may he give to you the blessing of Abraham my father, to you and to your seed after you, to inherit the land of your sojourning, which God gave to Abraham.
+
+**Genesis 28:5**
+
+And Isaac sent Jacob away, and he went to Mesopotamia to Laban son of Bethuel the Syrian, brother of Rebekah, mother of Jacob and Esau.
+
+**Genesis 28:6**
+
+And Esau saw that Isaac blessed Jacob and sent him away to Mesopotamia of Syria to take a wife for himself from there when he blessed him, and that he charged him, saying, You shall not take a wife from the daughters of the Canaanites,
+
+**Genesis 28:7**
+
+and that Jacob heard his father and mother and went to Mesopotamia of Syria.
+
+**Genesis 28:8**
+
+And Esau also saw that the daughters of Canaan were evil in the sight of Isaac his father,
+
+**Genesis 28:9**
+
+and Esau went to Ishmael and took Mahaleth daughter of Ishmael son of Abraham, sister of Nabeoth, as wife in addition to his wives.
+
+**Genesis 28:10**
+
+And Jacob went out from the Well of Oath and went to Harran.
+
+**Genesis 28:11**
+
+And he came upon a place and slept there, for the sun had gone down. And he took one of the stones of the place and put it by his head and slept in that place.
+
+**Genesis 28:12**
+
+And he dreamed, and look, a ladder stood fixed in the earth, and its top reached to heaven, and the angels of God were ascending and descending on it.
+
+**Genesis 28:13**
+
+And the Lord stood fixed on it and said, I am the God of Abraham your father and the God of Isaac. Do not fear. The land on which you are sleeping, to you I will give it and to your seed.
+
+**Genesis 28:14**
+
+And your seed shall be like the sand of the earth, and it shall spread out to the sea and to the south and to the north and to the east, and in you and in your seed all the tribes of the earth shall be blessed.
+
+**Genesis 28:15**
+
+And look, I am with you, guarding you on every road where you may go, and I will bring you back to this land, because I will certainly not leave you until I do all that I spoke to you.
+
+**Genesis 28:16**
+
+And Jacob awoke from his sleep and said, Surely the Lord is in this place, and I did not know it.
+
+**Genesis 28:17**
+
+And he was afraid and said, How fearsome this place is. This is nothing other than God's house, and this is heaven's gate.
+
+**Genesis 28:18**
+
+And Jacob rose early in the morning and took the stone he had placed there by his head and set it up as a pillar and poured oil on its top.
+
+**Genesis 28:19**
+
+And he called the name of that place House of God, but Ulam-luz was the name of the city before.
+
+**Genesis 28:20**
+
+And Jacob vowed a vow, saying, If the Lord God is with me and guards me on this road on which I am going and gives me bread to eat and clothing to wear,
+
+**Genesis 28:21**
+
+and brings me back with safety to my father's house, then the Lord shall be God to me,
+
+**Genesis 28:22**
+
+and this stone that I set up as a pillar shall be God's house, and from everything you give me, I will tithe a tenth of it to you.
+
+### Chapter 29
+
+**Genesis 29:1**
+
+And Jacob, lifting up his feet, went to the eastern land, to Laban son of Bethuel the Syrian, brother of Rebekah, mother of Jacob and Esau.
+
+**Genesis 29:2**
+
+And he sees, and look, a well in the plain, and three flocks of sheep were lying there by it, for from that well they watered the flocks, and a great stone was on the mouth of the well,
+
+**Genesis 29:3**
+
+and all the flocks were gathered there, and they would roll away the stone from the mouth of the well and water the sheep and set the stone back on the mouth of the well in its place.
+
+**Genesis 29:4**
+
+And Jacob said to them, Brothers, where are you from? And they said, We are from Harran.
+
+**Genesis 29:5**
+
+And he said to them, Do you know Laban son of Nahor? And they said, We know him.
+
+**Genesis 29:6**
+
+And he said to them, Is he well? And they said, He is well. And look, Rachel his daughter was coming with the sheep.
+
+**Genesis 29:7**
+
+And Jacob said, It is still much day, not yet time for the livestock to be gathered. Water the sheep, then go and pasture them.
+
+**Genesis 29:8**
+
+But they said, We cannot until all the shepherds are gathered and they roll the stone away from the mouth of the well, then we water the sheep.
+
+**Genesis 29:9**
+
+While he was still speaking with them, look, Rachel daughter of Laban was coming with her father's sheep, for she was shepherding her father's sheep.
+
+**Genesis 29:10**
+
+And it happened when Jacob saw Rachel daughter of Laban, brother of his mother, and the sheep of Laban, brother of his mother, Jacob came near and rolled the stone from the mouth of the well and watered the sheep of Laban, brother of his mother.
+
+**Genesis 29:11**
+
+And Jacob kissed Rachel, and crying out with his voice, he wept.
+
+**Genesis 29:12**
+
+And Jacob reported to Rachel that he was brother to her father and that he was son of Rebekah. And she ran and reported to her father according to these words.
+
+**Genesis 29:13**
+
+And it happened when Laban heard the name of Jacob, son of his sister, he ran to meet him and embraced him and kissed him and brought him into his house. And Jacob recounted to Laban all these matters.
+
+**Genesis 29:14**
+
+And Laban said to him, You are from my bones and from my flesh. And he was with him a month of days.
+
+**Genesis 29:15**
+
+And Laban said to Jacob, Because you are my brother, will you serve me for nothing? Tell me, what shall your wages be?
+
+**Genesis 29:16**
+
+Now Laban had two daughters. The name of the elder was Leah, and the name of the younger Rachel.
+
+**Genesis 29:17**
+
+And Leah's eyes were weak, but Rachel was beautiful in form and exceedingly lovely in appearance.
+
+**Genesis 29:18**
+
+And Jacob loved Rachel and said, I will serve you seven years for Rachel your younger daughter.
+
+**Genesis 29:19**
+
+And Laban said to him, It is better for me to give her to you than for me to give her to another man. Dwell with me.
+
+**Genesis 29:20**
+
+And Jacob served for Rachel seven years, and they were in his sight like a few days because he loved her.
+
+**Genesis 29:21**
+
+And Jacob said to Laban, Give me my wife, for my days are fulfilled so that I may go in to her.
+
+**Genesis 29:22**
+
+And Laban gathered all the men of the place and made a wedding feast.
+
+**Genesis 29:23**
+
+And it happened at evening that he took Leah his daughter and brought her to Jacob, and Jacob went in to her.
+
+**Genesis 29:24**
+
+And Laban gave to Leah his daughter Zelpha his servant-girl as servant-girl for her.
+
+**Genesis 29:25**
+
+And it happened in the morning, and look, it was Leah. And Jacob said to Laban, What is this you did to me? Was it not for Rachel that I served with you? And why did you trick me?
+
+**Genesis 29:26**
+
+And Laban answered, It is not done this way in our place, to give the younger before the elder.
+
+**Genesis 29:27**
+
+So fulfill this one's sevens, and I will give you that one too in exchange for the work that you work with me, still another seven years.
+
+**Genesis 29:28**
+
+And Jacob did so and fulfilled this one's sevens, and Laban gave him Rachel his daughter to him as wife.
+
+**Genesis 29:29**
+
+And Laban gave to his daughter Rachel Balla his servant-girl as servant-girl for her.
+
+**Genesis 29:30**
+
+And he went in to Rachel, and he loved Rachel more than Leah, and he served him another seven years.
+
+**Genesis 29:31**
+
+And when the Lord God saw that Leah was hated, he opened her womb, but Rachel was barren.
+
+**Genesis 29:32**
+
+And Leah conceived and bore a son to Jacob, and she called his name Reuben, saying, Because the Lord saw my humiliation and gave me a son. So now my husband will love me.
+
+**Genesis 29:33**
+
+And she conceived again and bore a second son to Jacob and said, Because the Lord heard that I am hated, he gave me this one also. And she called his name Simeon.
+
+**Genesis 29:34**
+
+And she conceived yet again and bore a son and said, At this time now my husband will be with me, for I have borne him three sons. Therefore she called his name Levi.
+
+**Genesis 29:35**
+
+And conceiving yet again she bore a son and said, Now this time I will give thanks to the Lord. Therefore she called his name Judah. And she stopped bearing.
+
+### Chapter 30
+
+**Genesis 30:1**
+
+And Rachel, seeing that she bore no children to Jacob, became jealous of her sister and said to Jacob, Give me children, but if not, I will die.
+
+**Genesis 30:2**
+
+And Jacob, angered at Rachel, said to her, Am I in the place of God, who deprived you of fruit of womb?
+
+**Genesis 30:3**
+
+And Rachel said to Jacob, Look, my servant-girl Balla. Go in to her, and she will bear upon my knees, and I too will have children through her.
+
+**Genesis 30:4**
+
+And she gave him Balla her servant-girl as wife for him, and Jacob went in to her.
+
+**Genesis 30:5**
+
+And Balla, Rachel's servant-girl, conceived and bore a son to Jacob.
+
+**Genesis 30:6**
+
+And Rachel said, God judged for me and heard my voice and gave me a son. Therefore she called his name Dan.
+
+**Genesis 30:7**
+
+And Balla, Rachel's servant-girl, conceived again and bore a second son to Jacob.
+
+**Genesis 30:8**
+
+And Rachel said, God joined in my struggle, and I struggled with my sister and prevailed. And she called his name Naphtali.
+
+**Genesis 30:9**
+
+And Leah saw that she had stopped bearing, and she took Zelpha her servant-girl and gave her to Jacob as wife. And he went in to her.
+
+**Genesis 30:10**
+
+And Zelpha, Leah's servant-girl, conceived and bore a son to Jacob.
+
+**Genesis 30:11**
+
+And Leah said, In luck. And she called his name Gad.
+
+**Genesis 30:12**
+
+And Zelpha, Leah's servant-girl, conceived again and bore a second son to Jacob.
+
+**Genesis 30:13**
+
+And Leah said, Blessed am I, because the women will pronounce me blessed. And she called his name Asher.
+
+**Genesis 30:14**
+
+And Reuben went in the days of wheat harvest and found mandrake apples in the field and brought them to Leah his mother. And Rachel said to Leah her sister, Give me some of your son's mandrakes.
+
+**Genesis 30:15**
+
+And Leah said, Is it not enough for you that you took my husband? Will you now take my son's mandrakes too? And Rachel said, Not so. Let him sleep with you tonight in exchange for your son's mandrakes.
+
+**Genesis 30:16**
+
+And Jacob came in from the field at evening, and Leah went out to meet him and said, You will come in to me today, for I hired you with my son's mandrakes. And he slept with her that night.
+
+**Genesis 30:17**
+
+And God heard Leah, and conceiving she bore a fifth son to Jacob.
+
+**Genesis 30:18**
+
+And Leah said, God gave me my wages, because I gave my servant-girl to my husband. And she called his name Issachar, which means wages.
+
+**Genesis 30:19**
+
+And Leah conceived again and bore a sixth son to Jacob.
+
+**Genesis 30:20**
+
+And Leah said, God has gifted me with a good gift at this time. My husband will choose me, for I have borne him six sons. And she called his name Zebulun.
+
+**Genesis 30:21**
+
+And after this she bore a daughter and called her name Dinah.
+
+**Genesis 30:22**
+
+And God remembered Rachel, and God heard her and opened her womb,
+
+**Genesis 30:23**
+
+and conceiving she bore a son to Jacob. And Rachel said, God took away my reproach.
+
+**Genesis 30:24**
+
+And she called his name Joseph, saying, Let God add another son to me.
+
+**Genesis 30:25**
+
+And it happened when Rachel bore Joseph, Jacob said to Laban, Send me away, so that I may depart to my place and to my land.
+
+**Genesis 30:26**
+
+Restore my wives and my children, for whom I have served you, so that I may depart, for you know the service with which I have served you.
+
+**Genesis 30:27**
+
+And Laban said to him, If I found favor before you, I would practice augury, for God blessed me at your coming in.
+
+**Genesis 30:28**
+
+Set your wages with me, and I will give them.
+
+**Genesis 30:29**
+
+And Jacob said, You know what things I have served you in and how much livestock of yours was with me,
+
+**Genesis 30:30**
+
+for what you had before me was little, and it increased into a multitude, and the Lord God blessed you at my foot. Now then, when shall I too make a house for myself?
+
+**Genesis 30:31**
+
+And Laban said to him, What shall I give you? And Jacob said to him, You shall give me nothing. If you do this thing for me, I will again shepherd your sheep and keep them.
+
+**Genesis 30:32**
+
+Let all your sheep pass by today, and separate from there every gray sheep among the lambs and every white-marked and speckled one among the goats. This shall be my wages.
+
+**Genesis 30:33**
+
+And my righteousness will answer for me on the next day, because my wages are before you. Everything that is not speckled and white-marked among the goats and gray among the lambs will be considered stolen with me.
+
+**Genesis 30:34**
+
+And Laban said to him, Let it be according to your word.
+
+**Genesis 30:35**
+
+And he separated on that day the speckled and white-marked he-goats and all the speckled and white-marked she-goats and everything gray among the lambs and everything white among them, and gave them into the hand of his sons.
+
+**Genesis 30:36**
+
+And he set a journey of three days between them and Jacob. And Jacob was shepherding the remaining sheep of Laban.
+
+**Genesis 30:37**
+
+And Jacob took for himself a green storax rod and walnut and plane-tree, and Jacob peeled white peelings on them, stripping away the green. And the white that he peeled showed variegated on the rods.
+
+**Genesis 30:38**
+
+And he set the rods that he peeled in the troughs of the watering places, so that when the sheep came to drink before the rods, when they came to drink, they might conceive by the rods.
+
+**Genesis 30:39**
+
+And the sheep were conceiving by the rods, and the sheep bore white-marked and variegated and ash-speckled young.
+
+**Genesis 30:40**
+
+And Jacob separated the lambs and set before the sheep a white-marked ram and every variegated one among the lambs. And he separated flocks for himself by themselves and did not mix them into Laban's sheep.
+
+**Genesis 30:41**
+
+And it happened at the time when the sheep that were taking in seed conceived, Jacob set the rods before the sheep in the troughs, so that they might conceive in relation to the rods.
+
+**Genesis 30:42**
+
+But whenever the sheep were giving birth, he did not set them there. So the unmarked were Laban's, but the marked were Jacob's.
+
+**Genesis 30:43**
+
+And the man grew very, very rich, and he had many flocks and cattle and male servants and female servants and camels and donkeys.
+
+### Chapter 31
+
+**Genesis 31:1**
+
+And Jacob heard the words of Laban's sons saying, Jacob has taken all that belonged to our father, and from what belonged to our father he made all this glory.
+
+**Genesis 31:2**
+
+And Jacob saw Laban's face, and look, it was not toward him as yesterday and the third day.
+
+**Genesis 31:3**
+
+And the Lord said to Jacob, Return to the land of your father and to your family line, and I will be with you.
+
+**Genesis 31:4**
+
+And Jacob sent and called Leah and Rachel into the plain where the flocks were.
+
+**Genesis 31:5**
+
+And he said to them, I see your father's face, that it is not toward me as yesterday and the third day, but the God of my father was with me.
+
+**Genesis 31:6**
+
+And you yourselves know that with all my strength I served your father.
+
+**Genesis 31:7**
+
+But your father cheated me and changed my wages for the ten lambs, yet God did not let him harm me.
+
+**Genesis 31:8**
+
+If he said this, The variegated shall be your wages, then all the sheep would bear variegated. But if he said, The white ones shall be your wages, then all the sheep would bear white.
+
+**Genesis 31:9**
+
+So God took away all your father's livestock and gave them to me.
+
+**Genesis 31:10**
+
+And it happened when the sheep were conceiving and taking seed in the belly, I saw with my eyes in sleep, and look, the he-goats and rams mounting the sheep and the goats were white-marked and variegated and ash-speckled.
+
+**Genesis 31:11**
+
+And the angel of God said to me in sleep, Jacob. And I said, What is it?
+
+**Genesis 31:12**
+
+And he said, Lift up your eyes and see the he-goats and the rams mounting the sheep and the goats, white-marked and variegated and ash-speckled, for I have seen what things Laban does to you.
+
+**Genesis 31:13**
+
+I am the God who appeared to you in the place of God, where you anointed a pillar to me and vowed a vow to me there. So now rise and go out from this land and go to the land of your birth, and I will be with you.
+
+**Genesis 31:14**
+
+And Rachel and Leah answered and said to him, Is there still a portion or inheritance for us in our father's house?
+
+**Genesis 31:15**
+
+Are we not counted by him as foreigners? For he sold us and by eating ate up our silver.
+
+**Genesis 31:16**
+
+All the wealth and the glory that God took away from our father shall be ours and our children's. So now whatever God said to you, do.
+
+**Genesis 31:17**
+
+And Jacob rose and took his wives and his children on the camels.
+
+**Genesis 31:18**
+
+And he led away all that belonged to him and all his baggage, which he acquired in Mesopotamia, all that was his, to go to Isaac his father in the land of Canaan.
+
+**Genesis 31:19**
+
+Now Laban had gone to shear his sheep, and Rachel stole her father's idols.
+
+**Genesis 31:20**
+
+And Jacob hid the matter from Laban the Syrian by not reporting to him that he was running away.
+
+**Genesis 31:21**
+
+And he fled, he and all that was his, and crossed the river and set out for the mountain of Gilead.
+
+**Genesis 31:22**
+
+And on the third day it was reported to Laban the Syrian that Jacob had fled,
+
+**Genesis 31:23**
+
+and taking his brothers with him, he pursued after him a journey of seven days and overtook him at the mountain of Gilead.
+
+**Genesis 31:24**
+
+And God came to Laban the Syrian in sleep by night and said to him, Watch yourself, lest you speak evil things with Jacob.
+
+**Genesis 31:25**
+
+And Laban overtook Jacob. Now Jacob had pitched his tent in the mountain, and Laban stationed his brothers at the mountain of Gilead.
+
+**Genesis 31:26**
+
+And Laban said to Jacob, What did you do? Why did you run away in secret and carry me off by theft and lead away my daughters like captives of the sword?
+
+**Genesis 31:27**
+
+And if you had reported it to me, I would have sent you away with gladness and with songs and with tambourines and with lyre,
+
+**Genesis 31:28**
+
+and I was not counted worthy to kiss my children and my daughters. But now you acted foolishly.
+
+**Genesis 31:29**
+
+And now my hand has power to harm you, but the God of your father said to me yesterday, saying, Watch yourself, lest you speak evil things with Jacob.
+
+**Genesis 31:30**
+
+So now go on, for with desire you desired to go to your father's house. Why did you steal my gods?
+
+**Genesis 31:31**
+
+And Jacob answered and said to Laban, Because I was afraid, for I said, Perhaps you would take your daughters away from me and all that is mine.
+
+**Genesis 31:32**
+
+And Jacob said, With whomever you find your gods, he shall not live before our brothers. Recognize what of yours is with me and take it. But Jacob did not know that Rachel his wife had stolen them.
+
+**Genesis 31:33**
+
+And going in, Laban searched Leah's house and did not find them. And he went out from Leah's house and searched Jacob's house and the house of the two servant-girls and did not find them. Then he entered Rachel's house too.
+
+**Genesis 31:34**
+
+Now Rachel had taken the idols and thrown them among the camel packs and sat on them.
+
+**Genesis 31:35**
+
+And she said to her father, Do not take it heavily, lord. I cannot rise before you, because the custom of women is upon me. And Laban searched through the whole house and did not find the idols.
+
+**Genesis 31:36**
+
+And Jacob grew angry and fought with Laban. And Jacob answered and said to Laban, What is my wrongdoing and what is my sin, that you pursued after me?
+
+**Genesis 31:37**
+
+And because you searched all the furnishings of my house, what did you find from all the furnishings of your house? Set it here before your brothers and my brothers, and let them judge between the two of us.
+
+**Genesis 31:38**
+
+These twenty years I have been with you. Your sheep and your goats did not miscarry, and I did not eat the rams of your sheep.
+
+**Genesis 31:39**
+
+What was torn by beasts I did not bring to you. I was making good from myself the thefts of day and the thefts of night.
+
+**Genesis 31:40**
+
+By day I was being burned together by the heat and by the frost of night, and my sleep departed from my eyes.
+
+**Genesis 31:41**
+
+These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you tricked my wages by ten lambs.
+
+**Genesis 31:42**
+
+If the God of my father Abraham and the Fear of Isaac had not been mine, now you would have sent me away empty. God saw my humiliation and the labor of my hands and rebuked you yesterday.
+
+**Genesis 31:43**
+
+But Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the livestock my livestock, and all that you see is mine and my daughters'. What shall I do to these today or to their children whom they bore?
+
+**Genesis 31:44**
+
+So now come, let us make a covenant, both I and you, and it shall be for a witness between me and you. And he said to him, Look, no one is with us. Look, God is witness between me and you.
+
+**Genesis 31:45**
+
+And Jacob took a stone and set it up as a pillar.
+
+**Genesis 31:46**
+
+And Jacob said to his brothers, Gather stones. And they gathered stones and made a heap, and they ate there on the heap.
+
+**Genesis 31:47**
+
+And Laban said to him, This heap bears witness between me and you today.
+
+**Genesis 31:48**
+
+And Laban called it Heap of Witness, but Jacob called it Witness Heap. And Laban said to Jacob, Look, this heap and this pillar that I set between me and you, this heap bears witness and this pillar bears witness. Therefore its name was called, Heap bears witness.
+
+**Genesis 31:49**
+
+And Watchpost, which he said, May God look between me and you, because we will be separated from one another.
+
+**Genesis 31:50**
+
+If you humble my daughters, if you take wives in addition to my daughters, see, no one is with us seeing. God is witness between me and you.
+
+**Genesis 31:52**
+
+For if I should not cross over to you, and you should not cross over to me beyond this heap and this pillar for evil,
+
+**Genesis 31:53**
+
+the God of Abraham and the God of Nahor will judge between us.
+
+**Genesis 31:54**
+
+And Jacob swore by the Fear of Isaac his father and offered a sacrifice in the mountain and called his brothers, and they ate and drank and slept in the mountain.
+
+### Chapter 32
+
+**Genesis 32:1**
+
+And Jacob went on his own way. And lifting up his eyes, he saw a camp of God encamped, and the angels of God met him.
+
+**Genesis 32:2**
+
+And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
+
+**Genesis 32:3**
+
+And Jacob sent messengers before him to Esau his brother in the land of Seir, in the country of Edom.
+
+**Genesis 32:4**
+
+And he charged them, saying, Thus you will say to my lord Esau, Thus says your servant Jacob: I sojourned with Laban and lingered until now,
+
+**Genesis 32:5**
+
+and there came to me oxen and donkeys and sheep and male servants and female servants, and I sent to report to my lord Esau, so that your servant may find favor before you.
+
+**Genesis 32:6**
+
+And the messengers returned to Jacob, saying, We came to your brother Esau, and look, he is coming to meet you, and four hundred men are with him.
+
+**Genesis 32:7**
+
+And Jacob feared greatly and was perplexed. And he divided the people with him and the cattle and the camels and the sheep into two camps,
+
+**Genesis 32:8**
+
+and Jacob said, If Esau comes to one camp and cuts it down, the second camp will be for safety.
+
+**Genesis 32:9**
+
+And Jacob said, God of my father Abraham and God of my father Isaac, Lord, you are the one who said to me, Run back to the land of your birth and I will do you good,
+
+**Genesis 32:10**
+
+Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+
+**Genesis 32:11**
+
+Deliver me from the hand of my brother, from the hand of Esau, because I am afraid of him, lest he come and strike me, mother upon children.
+
+**Genesis 32:12**
+
+And you said, I will do you good and make your seed like the sand of the sea, which will not be numbered because of the multitude.
+
+**Genesis 32:13**
+
+And he slept there that night and took from what he was carrying gifts and sent them to Esau his brother,
+
+**Genesis 32:14**
+
+two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
+
+**Genesis 32:15**
+
+thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
+
+**Genesis 32:16**
+
+And he gave them to his servants, herd by itself. And he said to his servants, Go on before me, and put a gap between herd and herd.
+
+**Genesis 32:17**
+
+And he charged the first, saying, If Esau my brother meets you and asks you, saying, Whose are you and where are you going and whose are these going before you,
+
+**Genesis 32:18**
+
+you will say, They belong to your servant Jacob. He sent gifts to my lord Esau, and look, he himself is behind us.
+
+**Genesis 32:19**
+
+And he charged the first and the second and the third and all those going before behind these herds, saying, According to this word speak to Esau when you find him,
+
+**Genesis 32:20**
+
+and you will say, Look, your servant Jacob is coming behind us. For he said, I will propitiate his face with the gifts going before him, and after this I will see his face. For perhaps he will accept my face.
+
+**Genesis 32:21**
+
+And the gifts went on before him, but he himself slept that night in the camp.
+
+**Genesis 32:22**
+
+And rising in that night, he took his two wives and his two servant-girls and his eleven children and crossed the ford of Jabbok.
+
+**Genesis 32:23**
+
+And he took them and crossed the torrent and brought over all that was his.
+
+**Genesis 32:24**
+
+And Jacob was left behind alone, and a man wrestled with him until morning.
+
+**Genesis 32:25**
+
+And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+
+**Genesis 32:26**
+
+And he said to him, Send me away, for dawn has come up. But he said, I will certainly not send you away unless you bless me.
+
+**Genesis 32:27**
+
+And he said to him, What is your name? And he said, Jacob.
+
+**Genesis 32:28**
+
+And he said to him, Your name will no longer be called Jacob, but Israel shall be your name, because you were strong with God, and with men you will be powerful.
+
+**Genesis 32:29**
+
+And Jacob asked and said, Tell me your name. And he said, Why is this that you ask my name? And he blessed him there.
+
+**Genesis 32:30**
+
+And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
+
+**Genesis 32:31**
+
+And the sun rose on him when he passed the Form of God, and he was limping on his thigh.
+
+**Genesis 32:32**
+
+Because of this the sons of Israel shall never eat the sinew that went numb, which is on the broad part of the thigh, until this day, because he touched the broad part of Jacob's thigh, the sinew that went numb.
+
+**Genesis 32:33**
+
+Because of this the sons of Israel shall never eat the sinew that went numb, which is on the broad part of the thigh, until this day, because he touched the broad part of Jacob's thigh, the sinew and it went numb.
+
+### Chapter 33
+
+**Genesis 33:1**
+
+And Jacob, lifting up his eyes, saw, and look, Esau his brother was coming and four hundred men with him. And Jacob divided the children among Leah and Rachel and the two servant-girls.
+
+**Genesis 33:2**
+
+And he placed the two servant-girls and their sons first, and Leah and her children behind, and Rachel and Joseph last.
+
+**Genesis 33:3**
+
+But he himself went before them and bowed to the ground seven times until he drew near to his brother.
+
+**Genesis 33:4**
+
+And Esau ran to meet him and embraced him and fell on his neck and kissed him, and both wept.
+
+**Genesis 33:5**
+
+And Esau lifted up his eyes and saw the women and the children and said, What are these to you? And he said, The children to whom God showed mercy to your servant.
+
+**Genesis 33:6**
+
+And the servant-girls and their children came near and bowed,
+
+**Genesis 33:7**
+
+and Leah and her children came near and bowed. And after these Rachel and Joseph came near and bowed.
+
+**Genesis 33:8**
+
+And he said, What are all these camps to you that I met? And he said, So that your servant may find favor before you, lord.
+
+**Genesis 33:9**
+
+And Esau said, I have much, brother. Let what is yours remain yours.
+
+**Genesis 33:10**
+
+And Jacob said, If I found favor before you, receive the gifts by my hands, because for this reason I saw your face as one might see God's face, and you were well pleased with me.
+
+**Genesis 33:11**
+
+Take my blessings that I brought to you, because God showed mercy to me and because I have everything. And he pressed him, and he took them.
+
+**Genesis 33:12**
+
+And he said, Let us set out and go straight on.
+
+**Genesis 33:13**
+
+But he said to him, My lord knows that the children are more delicate, and the sheep and the cattle with young are on me. So if I drive them hard one day, all the livestock will die.
+
+**Genesis 33:14**
+
+Let my lord go on before his servant, and I will strengthen myself on the road at the leisure of the journey before me and according to the pace of the children, until I come to my lord in Seir.
+
+**Genesis 33:15**
+
+And Esau said, I will leave with you some of the people with me. But he said, Why this? It is enough that I found favor before you, lord.
+
+**Genesis 33:16**
+
+And Esau turned back on that day on his way to Seir.
+
+**Genesis 33:17**
+
+And Jacob set out to Tents, and there he made houses for himself, and for his livestock he made tents. Therefore he called the name of that place, Tents.
+
+**Genesis 33:18**
+
+And Jacob came to Salem, city of Shechem, which is in the land of Canaan, when he returned from Mesopotamia of Syria, and he encamped in front of the city.
+
+**Genesis 33:19**
+
+And he bought the portion of the field where he set his tent there from Emmor father of Sychem for one hundred lambs.
+
+**Genesis 33:20**
+
+And he set up an altar there and called on the God of Israel.
+
+### Chapter 34
+
+**Genesis 34:1**
+
+And Dinah, daughter of Leah, whom she bore to Jacob, went out to observe the daughters of the inhabitants.
+
+**Genesis 34:2**
+
+And Sychem son of Emmor the Hivite, ruler of the land, saw her, and taking her, he lay with her and humbled her.
+
+**Genesis 34:3**
+
+And he was attached in soul to Dinah daughter of Jacob, and he loved the virgin and spoke to the heart of the virgin.
+
+**Genesis 34:4**
+
+And Sychem said to Emmor his father, saying, Take this girl for me as wife.
+
+**Genesis 34:5**
+
+And Jacob heard that the son of Emmor had defiled Dinah his daughter. But his sons were with his livestock in the plain. And Jacob kept silent until they came.
+
+**Genesis 34:6**
+
+And Emmor father of Sychem went out to Jacob to speak with him.
+
+**Genesis 34:7**
+
+And Jacob's sons came from the plain. And when they heard, the men were pierced and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
+
+**Genesis 34:8**
+
+And Emmor spoke to them, saying, My son Sychem chose your daughter in his soul. So give her to him as wife,
+
+**Genesis 34:9**
+
+and intermarry with us. Give your daughters to us and take our daughters for your sons.
+
+**Genesis 34:10**
+
+And dwell among us, and look, the land is broad before you. Dwell and trade on it and gain possessions in it.
+
+**Genesis 34:11**
+
+And Sychem said to her father and to her brothers, May I find favor before you, and whatever you say, we will give.
+
+**Genesis 34:12**
+
+Greatly increase the dowry, and I will give according to whatever you say to me. Only give me this girl as wife.
+
+**Genesis 34:13**
+
+And Jacob's sons answered Sychem and Emmor his father with deceit and spoke to them, because they had defiled Dinah their sister,
+
+**Genesis 34:14**
+
+and Simeon and Levi, Dinah's brothers, said to them, We cannot do this thing, to give our sister to a man who has foreskin, for it is a reproach to us.
+
+**Genesis 34:15**
+
+Only in this will we become like you and dwell among you: if you too become as we are in every male of yours being circumcised.
+
+**Genesis 34:16**
+
+And we will give our daughters to you, and from your daughters we will take wives for ourselves, and we will dwell with you and become like one race.
+
+**Genesis 34:17**
+
+But if you do not listen to us to be circumcised, taking our daughter, we will depart.
+
+**Genesis 34:18**
+
+And the words were pleasing before Emmor and before Sychem son of Emmor.
+
+**Genesis 34:19**
+
+And the young man did not delay to do this thing, for he was attached to Jacob's daughter. And he was the most honored of all in his father's house.
+
+**Genesis 34:20**
+
+And Emmor and Sychem his son came to the gate of their city and spoke to the men of their city, saying,
+
+**Genesis 34:21**
+
+These men are peaceable with us. Let them dwell on the land and trade it, and look, the land is broad before them. We will take their daughters as wives for ourselves, and we will give our daughters to them.
+
+**Genesis 34:22**
+
+Only in this will the men become like us to dwell with us, so as to be one people, in every male of us being circumcised, just as they also are circumcised.
+
+**Genesis 34:23**
+
+And will not their livestock and their four-footed animals and their possessions be ours? Only in this let us become like them, and they will dwell with us.
+
+**Genesis 34:24**
+
+And all who traded through the gate of their city listened to Emmor and Sychem his son, and every male was circumcised in the flesh of their foreskin.
+
+**Genesis 34:25**
+
+And it happened on the third day, when they were in pain, the two sons of Jacob, Simeon and Levi, Dinah's brothers, each took his sword and entered the city securely and killed every male.
+
+**Genesis 34:26**
+
+And they killed Emmor and Sychem his son by the mouth of the sword, and they took Dinah from Sychem's house and went out.
+
+**Genesis 34:27**
+
+And Jacob's sons entered upon the wounded and plundered the city in which they had defiled Dinah their sister,
+
+**Genesis 34:28**
+
+and they took their sheep and their cattle and their donkeys, whatever was in the city and whatever was in the field.
+
+**Genesis 34:29**
+
+And they took captive all their persons and all their baggage and their wives, and they plundered whatever was in the city and whatever was in the houses.
+
+**Genesis 34:30**
+
+And Jacob said to Simeon and Levi, You made me hateful, so that I am evil to all the inhabitants of the land, both among the Canaanites and among the Perizzites. And I am few in number, and gathering against me they will cut me down, and I and my house will be destroyed.
+
+**Genesis 34:31**
+
+But they said, Shall they treat our sister like a prostitute?
+
+### Chapter 35
+
+**Genesis 35:1**
+
+And God said to Jacob, Rise, go up to the place Bethel and dwell there, and make there an altar to the God who appeared to you when you fled from the face of Esau your brother.
+
+**Genesis 35:2**
+
+And Jacob said to his house and to all with him, Take away the foreign gods from your midst and purify yourselves and change your garments,
+
+**Genesis 35:3**
+
+and rising, let us go up to Bethel and let us make there an altar to the God who heard me in the day of distress, who was with me and preserved me on the road on which I traveled.
+
+**Genesis 35:4**
+
+And they gave Jacob the foreign gods that were in their hands and the earrings in their ears, and Jacob hid them under the terebinth in Sychem, and he destroyed them until this day.
+
+**Genesis 35:5**
+
+And Israel set out from Sychem, and a fear of God came on the cities around them, and they did not pursue after the sons of Israel.
+
+**Genesis 35:6**
+
+And Jacob came to Louza, which is in the land of Canaan, which is Bethel, he and all the people with him.
+
+**Genesis 35:7**
+
+And he built there an altar and called the name of the place Bethel, for there God appeared to him when he fled from the face of Esau his brother.
+
+**Genesis 35:8**
+
+And Deborah, Rebekah's nurse, died and was buried below Bethel under the oak, and Jacob called its name Oak of Mourning.
+
+**Genesis 35:9**
+
+And God appeared to Jacob again in Louza, when he came from Mesopotamia of Syria, and God blessed him.
+
+**Genesis 35:10**
+
+And God said to him, Your name shall no longer be called Jacob, but Israel shall be your name. And he called his name Israel.
+
+**Genesis 35:11**
+
+And God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins.
+
+**Genesis 35:12**
+
+And the land that I gave to Abraham and Isaac, I have given it to you. It shall be yours, and to your seed after you I will give this land.
+
+**Genesis 35:13**
+
+And God went up from him from the place where he spoke with him.
+
+**Genesis 35:14**
+
+And Jacob set up a pillar in the place where God spoke with him, a stone pillar, and he poured a libation on it and poured oil on it.
+
+**Genesis 35:15**
+
+And Jacob called the name of the place where God spoke with him there, Bethel.
+
+**Genesis 35:16**
+
+And Jacob, setting out from Bethel, pitched his tent beyond the tower of Gader. And it happened when he drew near to Chabratha to come to Ephratha, Rachel gave birth, and she was in hard labor in the birth.
+
+**Genesis 35:17**
+
+And it happened in her hard labor, the midwife said to her, Take courage, for this son also is yours.
+
+**Genesis 35:18**
+
+And it happened when her life was departing, for she was dying, she called his name Son of my pain. But his father called his name Benjamin.
+
+**Genesis 35:19**
+
+And Rachel died and was buried on the road of the racecourse of Ephratha (this is Bethlehem).
+
+**Genesis 35:20**
+
+And Jacob set up a pillar over her tomb. This is the pillar over Rachel's tomb until this day.
+
+**Genesis 35:22**
+
+Now Jacob's sons were twelve.
+
+**Genesis 35:23**
+
+Sons of Leah: firstborn of Jacob, Reuben, Simeon, Levi, Judah, Issachar, Zebulun.
+
+**Genesis 35:24**
+
+And sons of Rachel: Joseph and Benjamin.
+
+**Genesis 35:25**
+
+And sons of Balla, Rachel's servant-girl: Dan and Naphtali.
+
+**Genesis 35:26**
+
+And sons of Zelpha, Leah's servant-girl: Gad and Asher. These are Jacob's sons, who came to him in Mesopotamia of Syria.
+
+**Genesis 35:27**
+
+And Jacob came to Isaac his father at Mamre, to city of the plain (this is Hebron) in the land of Canaan, where Abraham and Isaac had sojourned.
+
+**Genesis 35:28**
+
+And the days of Isaac that he lived became one hundred eighty years,
+
+**Genesis 35:29**
+
+and failing, Isaac died and was added to his people, old and full of days. And Esau and Jacob his sons buried him.
+
+### Chapter 36
+
+**Genesis 36:1**
+
+And these are the generations of Esau (he is Edom):
+
+**Genesis 36:2**
+
+And Esau took wives for himself from the daughters of the Canaanites: Ada daughter of Ailon the Hittite, and Olibema daughter of Ana son of Sebegon the Hivite,
+
+**Genesis 36:3**
+
+and Basemath daughter of Ishmael, sister of Nabeoth.
+
+**Genesis 36:4**
+
+And Ada bore Eliphas to him, and Basemath bore Ragouel,
+
+**Genesis 36:5**
+
+and Olibema bore Jeous and Jeglom and Kore. These are Esau's sons who came to him in the land of Canaan.
+
+**Genesis 36:6**
+
+And Esau took his wives and his sons and his daughters and all the persons of his house and all his possessions and all his livestock and everything he acquired and everything he gained in the land of Canaan, and Esau went from the land of Canaan away from the face of Jacob his brother.
+
+**Genesis 36:7**
+
+For their possessions were too many to dwell together, and the land of their sojourning was not able to carry them because of the abundance of their possessions.
+
+**Genesis 36:8**
+
+And Esau dwelt in Mount Seir (Esau, he is Edom).
+
+**Genesis 36:9**
+
+And these are the generations of Esau father of Edom in Mount Seir,
+
+**Genesis 36:10**
+
+and these are the names of Esau's sons: Eliphas son of Ada, wife of Esau, and Ragouel son of Basemath, wife of Esau.
+
+**Genesis 36:11**
+
+And Eliphas' sons were Thaiman, Omar, Sophar, Gothom, and Kenez.
+
+**Genesis 36:12**
+
+And Thamna was concubine of Eliphas, Esau's son, and she bore Amalek to Eliphas. These are the sons of Ada, Esau's wife.
+
+**Genesis 36:13**
+
+And these are Ragouel's sons: Nachoth, Zare, Some, and Moze. These were the sons of Basemath, Esau's wife.
+
+**Genesis 36:14**
+
+And these are the sons of Olibema, daughter of Ana son of Sebegon, wife of Esau. And she bore Jeous and Jeglom and Kore to Esau.
+
+**Genesis 36:15**
+
+These are the chiefs, sons of Esau. Sons of Eliphas, Esau's firstborn: chief Thaiman, chief Omar, chief Sophar, chief Kenez,
+
+**Genesis 36:16**
+
+chief Kore, chief Gothom, chief Amalek. These are the chiefs of Eliphas in the land of Idumea. These are the sons of Ada.
+
+**Genesis 36:17**
+
+And these are the sons of Ragouel, son of Esau: chief Nachoth, chief Zare, chief Some, chief Moze. These are the chiefs of Ragouel in the land of Edom. These are the sons of Basemath, Esau's wife.
+
+**Genesis 36:18**
+
+And these are the sons of Olibema, wife of Esau: chief Jeoul, chief Jeglom, chief Kore. These are the chiefs of Olibema daughter of Ana, wife of Esau.
+
+**Genesis 36:19**
+
+These are the sons of Esau, and these are their chiefs. These are the sons of Edom.
+
+**Genesis 36:20**
+
+And these are the sons of Seir the Horite, who inhabited the land: Lotan, Sobal, Sebegon, Ana,
+
+**Genesis 36:21**
+
+and Deson and Asar and Rison. These are the chiefs of the Horite, sons of Seir in the land of Edom.
+
+**Genesis 36:22**
+
+And Lotan's sons became Chorri and Aiman, and Lotan's sister was Thamna.
+
+**Genesis 36:23**
+
+And these are the sons of Sobal: Golam and Manachath and Gaibel and Sophar and Omar.
+
+**Genesis 36:24**
+
+And these are the sons of Sebegon: Aie and Ana. This is Ana, who found Jamein in the wilderness, when he tended the beasts of burden of Sebegon his father.
+
+**Genesis 36:25**
+
+And these are the sons of Ana: Deson and Olibema daughter of Ana.
+
+**Genesis 36:26**
+
+And these are the sons of Deson: Amada and Asban and Ithran and Charran.
+
+**Genesis 36:27**
+
+And these are the sons of Asar: Balaam and Zoukam and Joukam.
+
+**Genesis 36:28**
+
+And these are the sons of Rison: Hos and Aran.
+
+**Genesis 36:29**
+
+And these are the chiefs of Chorri: chief Lotan, chief Sobal, chief Sebegon, chief Ana,
+
+**Genesis 36:30**
+
+chief Deson, chief Asar, chief Rison. These are the chiefs of Chorri in their chiefships in the land of Edom.
+
+**Genesis 36:31**
+
+And these are the kings who reigned in Edom before a king reigned in Israel.
+
+**Genesis 36:32**
+
+And Balac son of Beor reigned in Edom, and the name of his city was Dennaba.
+
+**Genesis 36:33**
+
+And Balac died, and Jobab son of Zare from Bosorra reigned in his place.
+
+**Genesis 36:34**
+
+And Jobab died, and Asom from the land of the Thaimanites reigned in his place.
+
+**Genesis 36:35**
+
+And Asom died, and Adad son of Barad, who cut down Madiam in the plain of Moab, reigned in his place, and the name of his city was Geththaim.
+
+**Genesis 36:36**
+
+And Adad died, and Samada from Masekka reigned in his place.
+
+**Genesis 36:37**
+
+And Samada died, and Saoul from Rooboth by the river reigned in his place.
+
+**Genesis 36:38**
+
+And Saoul died, and Balaennon son of Achobor reigned in his place.
+
+**Genesis 36:39**
+
+And Balaennon son of Achobor died, and Arad son of Barad reigned in his place, and the name of his city was Phogor, and the name of his wife was Metebeel, daughter of Matraith son of Maizoob.
+
+**Genesis 36:40**
+
+These are the names of the chiefs of Esau in their tribes according to their place, in their lands and in their nations: chief Thamna, chief Gola, chief Jether,
+
+**Genesis 36:41**
+
+chief Olibema, chief Helas, chief Phinon,
+
+**Genesis 36:42**
+
+chief Kenez, chief Thaiman, chief Mazar,
+
+**Genesis 36:43**
+
+chief Magediel, chief Zaphoin. These are the chiefs of Edom in the places built up in the land of their possession. This is Esau, father of Edom.
+
+### Chapter 37
+
+**Genesis 37:1**
+
+Now Jacob lived in the land where his father had sojourned, in the land of Canaan.
+
+**Genesis 37:2**
+
+And these are the generations of Jacob. Joseph was seventeen years old, shepherding his father's sheep with his brothers, being young, with the sons of Bilhah and with the sons of Zilpah, the wives of his father. And Joseph brought a bad report to Israel their father.
+
+**Genesis 37:3**
+
+Now Jacob loved Joseph more than all his sons, because he was a son of old age to him. And he made him a varicolored tunic.
+
+**Genesis 37:4**
+
+And when his brothers saw that their father loved him more than all his sons, they hated him and could not speak anything peaceful to him.
+
+**Genesis 37:5**
+
+And Joseph dreamed a dream and told it to his brothers.
+
+**Genesis 37:6**
+
+And he said to them, Hear this dream that I dreamed:
+
+**Genesis 37:7**
+
+I thought you were binding sheaves in the middle of the field, and my sheaf rose and stood upright, and your sheaves turned around and bowed to my sheaf.
+
+**Genesis 37:8**
+
+And his brothers said to him, Reigning will you reign over us, or ruling will you rule us? And they added still more to hate him because of his dreams and because of his words.
+
+**Genesis 37:9**
+
+And he saw another dream and told it to his father and to his brothers and said, Look, I dreamed another dream, like the sun and the moon and eleven stars bowing to me.
+
+**Genesis 37:10**
+
+And his father rebuked him and said to him, What is this dream that you dreamed? Shall I and your mother and your brothers truly come to bow to you on the ground?
+
+**Genesis 37:11**
+
+And his brothers envied him, but his father kept the saying.
+
+**Genesis 37:12**
+
+And his brothers went to pasture their father's sheep at Shechem.
+
+**Genesis 37:13**
+
+And Israel said to Joseph, Are not your brothers shepherding at Shechem? Come, I will send you to them. And he said to him, Look, I am here.
+
+**Genesis 37:14**
+
+And Israel said to him, Go and see whether your brothers are well and whether the sheep are well, and report to me. And he sent him from the valley of Hebron, and he came to Shechem.
+
+**Genesis 37:15**
+
+And a man found him wandering in the field, and the man asked him, saying, What do you seek?
+
+**Genesis 37:16**
+
+And he said, I seek my brothers. Tell me where they are shepherding.
+
+**Genesis 37:17**
+
+And the man said to him, They have departed from here, for I heard them saying, Let us go to Dothaim. And Joseph went after his brothers and found them at Dothaim.
+
+**Genesis 37:18**
+
+And they saw him from far away before he came near to them, and they plotted wickedly to kill him.
+
+**Genesis 37:19**
+
+And each said to his brother, Look, that dreamer is coming.
+
+**Genesis 37:20**
+
+Now then come, let us kill him and throw him into one of the pits, and we will say, An evil beast devoured him. And we will see what his dreams will become.
+
+**Genesis 37:21**
+
+And Reuben, hearing, rescued him from their hands and said, Let us not strike him down to death.
+
+**Genesis 37:22**
+
+And Reuben said to them, Do not shed blood. Throw him into one of these pits in the wilderness, but do not lay a hand on him, so that he might rescue him from their hands and restore him to his father.
+
+**Genesis 37:23**
+
+And it happened when Joseph came to his brothers, they stripped Joseph of the varicolored tunic that was around him.
+
+**Genesis 37:24**
+
+And taking him, they threw him into the pit. And the pit was empty; it had no water.
+
+**Genesis 37:25**
+
+And they sat down to eat bread, and looking up with their eyes they saw, and look, Ishmaelite travelers were coming from Gilead, and their camels were full of aromatics and resin and stacte, and they were going to carry them down to Egypt.
+
+**Genesis 37:26**
+
+And Judah said to his brothers, What profit is there if we kill our brother and hide his blood?
+
+**Genesis 37:27**
+
+Come, let us sell him to these Ishmaelites, and let not our hands be upon him, because he is our brother and our flesh. And his brothers listened.
+
+**Genesis 37:28**
+
+And Midianite merchant men passed by, and they drew Joseph up and brought him out of the pit and sold Joseph to the Ishmaelites for twenty gold pieces. And they brought Joseph down to Egypt.
+
+**Genesis 37:29**
+
+And Reuben returned to the pit and did not see Joseph in the pit. And he tore his garments.
+
+**Genesis 37:30**
+
+And he returned to his brothers and said, The child is not there, and I, where shall I still go?
+
+**Genesis 37:31**
+
+And taking Joseph's tunic, they slaughtered a kid of the goats and stained the tunic with blood.
+
+**Genesis 37:32**
+
+And they sent the varicolored tunic and brought it to their father. And they said, We found this. Recognize whether it is your son's tunic or not.
+
+**Genesis 37:33**
+
+And he recognized it and said, It is my son's tunic. An evil beast devoured him. A beast seized Joseph.
+
+**Genesis 37:34**
+
+And Jacob tore his garments and put sackcloth on his loins and mourned his son many days.
+
+**Genesis 37:35**
+
+And all his sons and daughters gathered and came to comfort him, but he would not be comforted, saying, I will go down mourning to my son into Hades. And his father wept for him.
+
+**Genesis 37:36**
+
+And the Midianites sold Joseph in Egypt to Potiphar, Pharaoh's eunuch, the chief-cook.
+
+### Chapter 38
+
+**Genesis 38:1**
+
+And it happened at that time, Judah went down from his brothers and came as far as a certain Adullamite man whose name was Hirah.
+
+**Genesis 38:2**
+
+And Judah saw there the daughter of a Canaanite man whose name was Shua, and he took her and went in to her.
+
+**Genesis 38:3**
+
+And she conceived and bore a son, and he called his name Er.
+
+**Genesis 38:4**
+
+And again she conceived and bore a son and called his name Onan.
+
+**Genesis 38:5**
+
+And adding again, she bore a son and called his name Shelah. And she was in Chasbi when she bore them.
+
+**Genesis 38:6**
+
+And Judah took a wife for Er his firstborn, whose name was Tamar.
+
+**Genesis 38:7**
+
+And Er, Judah's firstborn, became evil before the Lord, and God killed him.
+
+**Genesis 38:8**
+
+And Judah said to Onan, Go in to your brother's wife and perform a brother-in-law's duty for her and raise up seed for your brother.
+
+**Genesis 38:9**
+
+And Onan, knowing that the seed would not be his, whenever he went in to his brother's wife, spilled it on the ground so as not to give seed to his brother.
+
+**Genesis 38:10**
+
+And what he did appeared evil before God, and he put him to death also.
+
+**Genesis 38:11**
+
+And Judah said to Tamar his daughter-in-law, Sit as a widow in your father's house until my son Shelah grows up. For he said, Lest he also die like his brothers. And Tamar went away and sat in her father's house.
+
+**Genesis 38:12**
+
+And the days multiplied, and Shua, Judah's wife, died. And Judah, having been comforted, went up to those shearing his sheep, he and Hirah his Adullamite shepherd, to Timnah.
+
+**Genesis 38:13**
+
+And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep.
+
+**Genesis 38:14**
+
+And taking off the garments of her widowhood from herself, she put on a veil and adorned herself and sat by the gates of Enaim, which is on the road to Timnah, for she saw that Shelah had grown up and he had not given her to him as wife.
+
+**Genesis 38:15**
+
+And Judah, seeing her, thought her to be a prostitute, for she had covered her face and he did not recognize her.
+
+**Genesis 38:16**
+
+And he turned aside to her on the road and said to her, Let me come in to you, for he did not know that she was his daughter-in-law. And she said, What will you give me if you come in to me?
+
+**Genesis 38:17**
+
+And he said, I will send you a kid of the goats from my flock. And she said, If you will give me a pledge until you send it.
+
+**Genesis 38:18**
+
+And he said, What pledge shall I give you? And she said, Your signet and your cord and the staff in your hand. And he gave them to her and went in to her, and she conceived by him.
+
+**Genesis 38:19**
+
+And she rose and went away and took off her veil from herself and put on the garments of her widowhood.
+
+**Genesis 38:20**
+
+And Judah sent the kid of the goats by the hand of his Adullamite shepherd to receive the pledge from the woman, and he did not find her.
+
+**Genesis 38:21**
+
+And he asked the men of the place, Where is the prostitute who was at Enaim by the road? And they said, There was no prostitute here.
+
+**Genesis 38:22**
+
+And he returned to Judah and said, I did not find her, and the men of the place say there was no prostitute here.
+
+**Genesis 38:23**
+
+And Judah said, Let her keep them, lest perhaps we become a laughingstock. I sent this kid, but you did not find her.
+
+**Genesis 38:24**
+
+And it happened after three months, it was reported to Judah, saying, Tamar your daughter-in-law has prostituted herself, and look, she is with child from prostitution. And Judah said, Bring her out and let her be burned.
+
+**Genesis 38:25**
+
+And as she was being brought out, she sent to her father-in-law, saying, By the man whose these things are, I am with child. And she said, Recognize whose signet and cord and staff these are.
+
+**Genesis 38:26**
+
+And Judah recognized them and said, Tamar is more righteous than I, because I did not give her to my son Shelah. And he did not continue to know her.
+
+**Genesis 38:27**
+
+And it happened when she was giving birth, that twins were in her womb.
+
+**Genesis 38:28**
+
+And it happened while she was giving birth, one put out a hand. And the midwife took it and tied scarlet on his hand, saying, This one will come out first.
+
+**Genesis 38:29**
+
+And when he drew back his hand, immediately his brother came out. And she said, Why did a breach break out because of you? And she called his name Perez.
+
+**Genesis 38:30**
+
+And after this his brother came out, on whose hand was the scarlet, and she called his name Zerah.
+
+### Chapter 39
+
+**Genesis 39:1**
+
+And Joseph was brought down to Egypt, and Potiphar, Pharaoh's eunuch, the chief-cook, an Egyptian man, bought him from the hands of the Ishmaelites, who had brought him down there.
+
+**Genesis 39:2**
+
+And the Lord was with Joseph, and he was a man finding success, and he came to be in the house of his Egyptian master.
+
+**Genesis 39:3**
+
+And his master knew that the Lord was with him, and whatever he did, the Lord prospered in his hands.
+
+**Genesis 39:4**
+
+And Joseph found favor before his master and was well-pleasing to him, and he appointed him over his house, and all that he had he gave into Joseph's hand.
+
+**Genesis 39:5**
+
+And it happened after he appointed him over his house and over all that he had, the Lord blessed the Egyptian's house because of Joseph, and the blessing of the Lord came upon all his possessions in the house and in his field.
+
+**Genesis 39:6**
+
+And he entrusted all that he had into Joseph's hands, and knew nothing of what belonged to him except the bread he ate. And Joseph was handsome in form and very beautiful in appearance.
+
+**Genesis 39:7**
+
+And it happened after these things, his master's wife cast her eyes on Joseph and said, Sleep with me.
+
+**Genesis 39:8**
+
+But he would not, and he said to his master's wife, If because of me my master knows nothing in his house, and all that is his he has given into my hands,
+
+**Genesis 39:9**
+
+and nothing in this house is greater than I, nor has he withheld anything from me except you, because you are his wife, how shall I do this evil thing and sin before God?
+
+**Genesis 39:10**
+
+And when she spoke to Joseph day after day, he did not heed her, to sleep with her or to be with her.
+
+**Genesis 39:11**
+
+And it happened on such a day, Joseph entered the house to do his work, and none of the people of the house was inside.
+
+**Genesis 39:12**
+
+And she grabbed him by his garments, saying, Sleep with me. But leaving his garments in her hands, he fled and went outside.
+
+**Genesis 39:13**
+
+And it happened when she saw that, leaving his garments in her hands, he fled and went outside,
+
+**Genesis 39:14**
+
+she called those in the house and said to them, saying, See, he brought in to us a Hebrew servant to mock us. He came in to me, saying, Sleep with me, and I cried with a loud voice.
+
+**Genesis 39:15**
+
+And when he heard that I lifted my voice and cried, leaving his garments beside me, he fled and went outside.
+
+**Genesis 39:16**
+
+And she kept his garments beside herself until his master came into his house.
+
+**Genesis 39:17**
+
+And she spoke to him according to these words, saying, The Hebrew servant whom you brought in to us came in to me to mock me and said, I will sleep with you.
+
+**Genesis 39:18**
+
+And when he heard that I lifted my voice and cried, leaving his garments beside me, he fled and went outside.
+
+**Genesis 39:19**
+
+And it happened when his master heard the words of his wife that she spoke to him, saying, Thus your servant did to me, he became angry with wrath.
+
+**Genesis 39:20**
+
+And Joseph's master took him and threw him into the fortress, into the place where the king's prisoners were kept, there in the fortress.
+
+**Genesis 39:21**
+
+And the Lord was with Joseph and poured out mercy on him and gave him favor before the chief jailer.
+
+**Genesis 39:22**
+
+And the chief jailer gave the prison into Joseph's hand, and all the prisoners, as many as were in the prison, and whatever was done there, he was the one doing it.
+
+**Genesis 39:23**
+
+The chief jailer knew nothing because of him, for all things were by Joseph's hand, because the Lord was with him, and whatever he did, the Lord prospered in his hands.
+
+### Chapter 40
+
+**Genesis 40:1**
+
+And it happened after these matters, the chief cupbearer of the king of Egypt and the chief baker sinned against their lord, the king of Egypt.
+
+**Genesis 40:2**
+
+And Pharaoh grew angry at his two eunuchs, at the chief cupbearer and at the chief baker.
+
+**Genesis 40:3**
+
+And he put them under guard in the prison, in the place where Joseph had been led away there.
+
+**Genesis 40:4**
+
+And the chief jailer assigned them to Joseph, and he attended them. And they were some days under guard.
+
+**Genesis 40:5**
+
+And both saw a dream in one night. And this was the vision of the dream of the chief cupbearer and chief baker of the king of Egypt, who were in the prison.
+
+**Genesis 40:6**
+
+And Joseph came in to them in the morning and saw them, and they were troubled.
+
+**Genesis 40:7**
+
+And he asked Pharaoh's eunuchs, who were with him under guard in his master's house, saying, Why are your faces gloomy today?
+
+**Genesis 40:8**
+
+And they said to him, We have seen a dream, and there is no one to interpret it. And Joseph said to them, Are not their explanations through God? Tell them to me, then.
+
+**Genesis 40:9**
+
+And the chief cupbearer told his dream to Joseph and said, In my sleep there was a vine before me.
+
+**Genesis 40:10**
+
+And on the vine were three stems, and it was budding, bringing up shoots. Its grape-clusters were ripe.
+
+**Genesis 40:11**
+
+And Pharaoh's cup was in my hand. And I took the grapes and squeezed them into the cup and gave the cup into Pharaoh's hand.
+
+**Genesis 40:12**
+
+And Joseph said to him, This is its interpretation: the three stems are three days.
+
+**Genesis 40:13**
+
+Yet three days and Pharaoh will remember your office and restore you to your chief-cupbearing, and you will give Pharaoh's cup into his hand according to your former office, as when you were cupbearer.
+
+**Genesis 40:14**
+
+But remember me because of yourself when it goes well with you, and show mercy to me and make mention of me to Pharaoh and bring me out of this fortress.
+
+**Genesis 40:15**
+
+Because by theft I was stolen from the land of the Hebrews, and here also I did nothing, yet they threw me into this pit.
+
+**Genesis 40:16**
+
+And the chief baker saw that he interpreted rightly and said to Joseph, I also saw a dream, and I thought I was carrying three baskets of pastry on my head.
+
+**Genesis 40:17**
+
+And in the upper basket were all kinds of things that Pharaoh eats, the work of a baker, and the birds of heaven were eating them from the basket on top of my head.
+
+**Genesis 40:18**
+
+And Joseph answered and said to him, This is its interpretation: the three baskets are three days.
+
+**Genesis 40:19**
+
+Yet three days and Pharaoh will lift your head from off you and hang you on a tree, and the birds of heaven will eat your flesh from off you.
+
+**Genesis 40:20**
+
+And it happened on the third day, Pharaoh's birthday, he made a drinking-feast for all his servants. And he remembered the office of the cupbearer and the office of the baker among his servants.
+
+**Genesis 40:21**
+
+And he restored the chief cupbearer to his office, and he gave the cup into Pharaoh's hand.
+
+**Genesis 40:22**
+
+But the chief baker he hanged, just as Joseph had interpreted to them.
+
+**Genesis 40:23**
+
+And the chief cupbearer did not remember Joseph, but forgot him.
+
+### Chapter 41
+
+**Genesis 41:1**
+
+And it happened after two full years, Pharaoh saw a dream. He thought he was standing by the river.
+
+**Genesis 41:2**
+
+And look, as though out of the river seven cows were coming up, beautiful in appearance and choice in flesh, and they were grazing among the reeds.
+
+**Genesis 41:3**
+
+And seven other cows came up after these out of the river, ugly in appearance and thin in flesh, and they were feeding beside the cows on the bank of the river.
+
+**Genesis 41:4**
+
+And the seven cows ugly in appearance and thin in flesh devoured the seven cows beautiful in appearance and choice in flesh. And Pharaoh woke up.
+
+**Genesis 41:5**
+
+And he dreamed a second time, and look, seven ears were coming up on one stalk, choice and good.
+
+**Genesis 41:6**
+
+And look, seven thin ears, wind-stricken, sprang up after them.
+
+**Genesis 41:7**
+
+And the seven thin ears, wind-stricken, swallowed the seven choice and full ears. And Pharaoh woke up, and it was a dream.
+
+**Genesis 41:8**
+
+And it happened in the morning, his soul was troubled, and he sent and called all the interpreters of Egypt and all its wise men, and Pharaoh told them his dream, and there was no one to declare it to Pharaoh.
+
+**Genesis 41:9**
+
+And the chief cupbearer spoke to Pharaoh, saying, I remember my sin today.
+
+**Genesis 41:10**
+
+Pharaoh grew angry at his servants and put us under guard in the house of the chief-cook, both me and the chief baker.
+
+**Genesis 41:11**
+
+And both of us saw a dream in one night, I and he. Each of us saw according to his own dream.
+
+**Genesis 41:12**
+
+And there was with us there a young Hebrew servant of the chief-cook, and we told him, and he interpreted for us.
+
+**Genesis 41:13**
+
+And as he interpreted to us, so also it happened. I was restored to my office, and that man was hanged.
+
+**Genesis 41:14**
+
+And Pharaoh sent and called Joseph, and they brought him out of the fortress and shaved him and changed his clothing, and he came to Pharaoh.
+
+**Genesis 41:15**
+
+And Pharaoh said to Joseph, I have seen a dream, and there is no one to interpret it. But I have heard concerning you, men saying that when you hear dreams, you interpret them.
+
+**Genesis 41:16**
+
+And Joseph answered Pharaoh and said, Apart from God, no answer of safety will be given to Pharaoh.
+
+**Genesis 41:17**
+
+And Pharaoh spoke to Joseph, saying, In my dream I thought I was standing by the bank of the river.
+
+**Genesis 41:18**
+
+And as though out of the river seven cows were coming up, beautiful in appearance and choice in flesh, and they were feeding among the reeds.
+
+**Genesis 41:19**
+
+And look, seven other cows came up after them out of the river, evil and ugly in appearance and thin in flesh, such that I never saw uglier ones in all the land of Egypt.
+
+**Genesis 41:20**
+
+And the seven cows ugly and thin devoured the seven first cows, the beautiful ones and the choice ones.
+
+**Genesis 41:21**
+
+And they went into their bellies, and it was not evident that they had gone into their bellies, and their appearance remained ugly as at the beginning. And after I woke, I slept.
+
+**Genesis 41:22**
+
+And I saw again in my sleep, and as though seven ears were coming up on one stalk, full and good.
+
+**Genesis 41:23**
+
+And seven other ears, thin and wind-stricken, sprang up close after them.
+
+**Genesis 41:24**
+
+And the seven thin and wind-stricken ears swallowed the seven good and full ears. So I told the interpreters, and there was no one to declare it to me.
+
+**Genesis 41:25**
+
+And Joseph said to Pharaoh, Pharaoh's dream is one. What God is doing he has shown to Pharaoh.
+
+**Genesis 41:26**
+
+The seven good cows are seven years, and the seven good ears are seven years. Pharaoh's dream is one.
+
+**Genesis 41:27**
+
+And the seven thin cows coming up after them are seven years, and the seven thin ears, wind-stricken, will be seven years of famine.
+
+**Genesis 41:28**
+
+This is the word I spoke to Pharaoh: what God is doing he has shown to Pharaoh.
+
+**Genesis 41:29**
+
+Look, seven years of great plenty are coming in all the land of Egypt.
+
+**Genesis 41:30**
+
+But seven years of famine will come after these, and the plenty that was in all Egypt will be forgotten, and the famine will consume the land.
+
+**Genesis 41:31**
+
+And the plenty will not be recognized on the land because of the famine coming after this, for it will be very severe.
+
+**Genesis 41:32**
+
+And because Pharaoh's dream was doubled twice, the thing will be true from God, and God will hasten to do it.
+
+**Genesis 41:33**
+
+Now then, look for a prudent and understanding man and appoint him over the land of Egypt.
+
+**Genesis 41:34**
+
+And let Pharaoh act and appoint local governors over the land, and let them take up a fifth of all the produce of the land of Egypt during the seven years of plenty.
+
+**Genesis 41:35**
+
+And let them gather all the food of these coming good years, and let grain be gathered under Pharaoh's hand. Let food be kept in the cities.
+
+**Genesis 41:36**
+
+And the stored food will be for the land against the seven years of famine that will be in the land of Egypt, and the land will not be destroyed by the famine.
+
+**Genesis 41:37**
+
+And the word pleased Pharaoh and all his servants.
+
+**Genesis 41:38**
+
+And Pharaoh said to all his servants, Shall we find another man like this, who has the spirit of God in him?
+
+**Genesis 41:39**
+
+And Pharaoh said to Joseph, Since God has shown you all these things, there is no one more prudent and more understanding than you.
+
+**Genesis 41:40**
+
+You will be over my house, and by your mouth all my people will obey. Only in the throne will I be above you.
+
+**Genesis 41:41**
+
+And Pharaoh said to Joseph, Look, I appoint you today over all the land of Egypt.
+
+**Genesis 41:42**
+
+And Pharaoh took the ring from his hand and put it on Joseph's hand and clothed him in a linen robe and put a golden collar around his neck.
+
+**Genesis 41:43**
+
+And he mounted him on his second chariot, and a herald cried before him. And he set him over all the land of Egypt.
+
+**Genesis 41:44**
+
+And Pharaoh said to Joseph, I am Pharaoh. Without you no one will lift his hand over all the land of Egypt.
+
+**Genesis 41:45**
+
+And Pharaoh called Joseph's name Psonthomphanech, and he gave him Aseneth, daughter of Petephres priest of Heliopolis, as wife.
+
+**Genesis 41:46**
+
+And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from Pharaoh's presence and passed through all the land of Egypt.
+
+**Genesis 41:47**
+
+And the land produced by sheaves in the seven years of plenty.
+
+**Genesis 41:48**
+
+And he gathered all the food of the seven years in which there was plenty in the land of Egypt and put the food in the cities. The food of the fields around each city he put within it.
+
+**Genesis 41:49**
+
+And Joseph gathered grain like the sand of the sea, very much, until it could no longer be counted, for there was no number.
+
+**Genesis 41:50**
+
+And to Joseph two sons were born before the seven years of famine came, whom Aseneth daughter of Petephres priest of Heliopolis bore to him.
+
+**Genesis 41:51**
+
+And Joseph called the name of the firstborn Manasseh, because God made me forget all my troubles and all the things of my father.
+
+**Genesis 41:52**
+
+And he called the name of the second Ephraim, because God increased me in the land of my humiliation.
+
+**Genesis 41:53**
+
+And the seven years of plenty that came in the land of Egypt passed by.
+
+**Genesis 41:54**
+
+And the seven years of famine began to come, just as Joseph had said. And famine came in all the land, but in all the land of Egypt there was bread.
+
+**Genesis 41:55**
+
+And all the land of Egypt hungered, and the people cried to Pharaoh for bread. And Pharaoh said to all the Egyptians, Go to Joseph, and whatever he says to you, do.
+
+**Genesis 41:56**
+
+And the famine was upon the face of all the land. And Joseph opened all the granaries and sold to all the Egyptians.
+
+**Genesis 41:57**
+
+And all the lands came into Egypt to Joseph to buy, for the famine prevailed in all the land.
+
+### Chapter 42
+
+**Genesis 42:1**
+
+And Jacob, seeing that there was grain for sale in Egypt, said to his sons, Why are you idle?
+
+**Genesis 42:2**
+
+Look, I have heard that there is grain in Egypt. Go down there and buy us a little food, so that we may live and not die.
+
+**Genesis 42:3**
+
+And the ten brothers of Joseph went down to buy grain from Egypt.
+
+**Genesis 42:4**
+
+But Benjamin, Joseph's brother, he did not send with his brothers, for he said, Lest perhaps some harm happen to him.
+
+**Genesis 42:5**
+
+And the sons of Israel came to buy among those coming, for the famine was in the land of Canaan.
+
+**Genesis 42:6**
+
+And Joseph was ruler of the land. He sold to all the people of the land. And Joseph's brothers came and bowed to him with face to the ground.
+
+**Genesis 42:7**
+
+And Joseph saw his brothers and recognized them, but made himself strange to them and spoke harshly to them and said to them, Where have you come from? And they said, From the land of Canaan, to buy food.
+
+**Genesis 42:8**
+
+And Joseph recognized his brothers, but they did not recognize him.
+
+**Genesis 42:9**
+
+And Joseph remembered his dreams that he had seen, and he said to them, You are spies. You came to inspect the tracks of the land.
+
+**Genesis 42:10**
+
+And they said, No, lord. Your servants came to buy food.
+
+**Genesis 42:11**
+
+We are all sons of one man. We are peaceful. Your servants are not spies.
+
+**Genesis 42:12**
+
+And he said to them, No, but you came to see the tracks of the land.
+
+**Genesis 42:13**
+
+And they said, We your servants are twelve brothers in the land of Canaan, and look, the youngest is with our father today, and the other is no more.
+
+**Genesis 42:14**
+
+And Joseph said to them, This is what I told you, saying that you are spies.
+
+**Genesis 42:15**
+
+In this you will be shown. By Pharaoh's health, you shall not leave this place unless your youngest brother comes here.
+
+**Genesis 42:16**
+
+Send one of you and let him take your brother, but you will be led away until your words become clear, whether you speak truly or not. But if not, by Pharaoh's health, surely you are spies.
+
+**Genesis 42:17**
+
+And he put them under guard for three days.
+
+**Genesis 42:18**
+
+And on the third day Joseph said to them, Do this and live, for I fear God.
+
+**Genesis 42:19**
+
+If you are peaceful, let one of your brothers be held in the prison, but you go and carry the grain for your provision.
+
+**Genesis 42:20**
+
+And bring your youngest brother to me, and your words will be believed. But if not, you will die. And they did so.
+
+**Genesis 42:21**
+
+And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this this anguish has come upon us.
+
+**Genesis 42:22**
+
+And Reuben answered and said to them, Did I not speak to you, saying, Do not wrong the child? And you did not listen to me. And look, his blood is being required.
+
+**Genesis 42:23**
+
+But they did not know that Joseph heard, for the interpreter was between them.
+
+**Genesis 42:24**
+
+And Joseph turned away from them and wept. Then he came near to them again and spoke to them, and he took Simeon from them and bound him before them.
+
+**Genesis 42:25**
+
+And Joseph commanded that their containers be filled with grain and that each man's money be returned into his sack and that provisions for the road be given to them. And it was done for them in this way.
+
+**Genesis 42:26**
+
+And placing the grain on their donkeys, they departed from there.
+
+**Genesis 42:27**
+
+And one of them loosened his bag to give fodder to his donkeys where they camped, and he saw his bundle of money, and look, it was on the mouth of the bag.
+
+**Genesis 42:28**
+
+And he said to his brothers, My money has been returned to me, and look, this is in my bag. And their heart was stunned, and they were troubled to one another, saying, What is this that God has done to us?
+
+**Genesis 42:29**
+
+And they came to Jacob their father in the land of Canaan and told him all the things that had happened to them, saying:
+
+**Genesis 42:30**
+
+The man, the lord of the land, spoke harshly to us and put us under guard as though spying out the land.
+
+**Genesis 42:31**
+
+And we said to him, We are peaceful. We are not spies.
+
+**Genesis 42:32**
+
+We are twelve brothers, sons of our father. One is no more, and the youngest is with our father today in the land of Canaan.
+
+**Genesis 42:33**
+
+And the man, the lord of the land, said to us, By this I will know that you are peaceful. Leave one brother here with me, and taking the grain for your household's provision, go.
+
+**Genesis 42:34**
+
+And bring your youngest brother to me, and I will know that you are not spies but peaceful men, and I will give your brother back to you, and you will trade in the land.
+
+**Genesis 42:35**
+
+And it happened as they were emptying their sacks, each man's bundle of money was in his sack. And they and their father saw their bundles of money and were afraid.
+
+**Genesis 42:36**
+
+And Jacob their father said to them, You have made me childless. Joseph is not, Simeon is not, and Benjamin you will take. On me all these things have come.
+
+**Genesis 42:37**
+
+And Reuben said to his father, saying, Kill my two sons if I do not bring him to you. Give him into my hand, and I will bring him back to you.
+
+**Genesis 42:38**
+
+And he said, My son shall not go down with you, because his brother died and he alone has been left. And it may happen that he is weakened on the road where you go, and you will bring my old age down with sorrow into Hades.
+
+### Chapter 43
+
+**Genesis 43:1**
+
+But the famine prevailed in the land.
+
+**Genesis 43:2**
+
+And it happened when they finished eating the grain that they had brought out of Egypt, their father said to them, Go again; buy us a little food.
+
+**Genesis 43:3**
+
+And Judah said to him, saying, The man, the lord of the land, solemnly testified to us, saying, You shall not see my face unless your younger brother is with you.
+
+**Genesis 43:4**
+
+If then you send our brother with us, we will go down and buy you food.
+
+**Genesis 43:5**
+
+But if you do not send our brother with us, we will not go. For the man said to us, You shall not see my face unless your younger brother is with you.
+
+**Genesis 43:6**
+
+And Israel said, Why did you mistreat me by telling the man that you had a brother?
+
+**Genesis 43:7**
+
+And they said, The man kept questioning us and our family, saying, Is your father still alive, and do you have a brother? And we told him according to this questioning. Did we know that he would say to us, Bring your brother down?
+
+**Genesis 43:8**
+
+And Judah said to Israel his father, Send the boy with me, and rising, we will go, so that we may live and not die, both we and you and our households.
+
+**Genesis 43:9**
+
+And I myself guarantee him. From my hand seek him. If I do not bring him to you and set him before you, I shall be guilty toward you all my days.
+
+**Genesis 43:10**
+
+For if we had not delayed, by now we would have returned twice.
+
+**Genesis 43:11**
+
+And Israel their father said to them, If it is so, do this. Take from the fruits of the land in your containers and carry down gifts to the man: resin and honey, spices and stacte, turpentine and walnuts.
+
+**Genesis 43:12**
+
+And take double money in your hands. And the money returned in your bags carry back with you, lest perhaps it is an oversight.
+
+**Genesis 43:13**
+
+And take your brother and rise and go down to the man.
+
+**Genesis 43:14**
+
+And my God give you favor before the man and send away your one brother and Benjamin. And as for me, as I have been bereaved, I have been bereaved.
+
+**Genesis 43:15**
+
+And the men took these gifts and took double money in their hands and Benjamin, and rising, they went down to Egypt and stood before Joseph.
+
+**Genesis 43:16**
+
+And Joseph saw them and Benjamin his brother, born of the same mother, and he said to the man over his house, Bring the men into the house and slaughter beasts and prepare, for the men will eat bread with me at noon.
+
+**Genesis 43:17**
+
+And the man did as Joseph said, and he brought the men into Joseph's house.
+
+**Genesis 43:18**
+
+And the men, when they saw that they had been brought into Joseph's house, said, We are being brought in because of the money returned in our bags the first time, to inform against us and to attack us, to take us as servants and our donkeys.
+
+**Genesis 43:19**
+
+And coming near to the man over Joseph's house, they spoke to him at the gateway of the house,
+
+**Genesis 43:20**
+
+saying, We beg you, lord. We came down the first time to buy food.
+
+**Genesis 43:21**
+
+And it happened when we came to the lodging-place and opened our bags, each man's money was in his bag. We have now brought our money back in our hands by weight,
+
+**Genesis 43:22**
+
+and we have brought other money with us to buy food. We do not know who put our money into our bags.
+
+**Genesis 43:23**
+
+And he said to them, Mercy to you. Do not be afraid. Your God and the God of your fathers gave you treasures in your bags, and I have your approved money. And he brought Simeon out to them.
+
+**Genesis 43:24**
+
+And he brought water to wash their feet and gave fodder to their donkeys.
+
+**Genesis 43:25**
+
+And they prepared the gifts until Joseph came at noon, for they heard that he was going to dine there.
+
+**Genesis 43:26**
+
+And Joseph entered the house, and they brought him the gifts that they had in their hands into the house, and they bowed to him with face to the ground.
+
+**Genesis 43:27**
+
+And he asked them, How are you? And he said to them, Is your father well, the old man of whom you spoke? Does he still live?
+
+**Genesis 43:28**
+
+And they said, Your servant our father is well. He still lives. And he said, Blessed be that man by God. And bowing, they did him reverence.
+
+**Genesis 43:29**
+
+And Joseph, lifting up his eyes, saw Benjamin his brother, born of the same mother, and said, Is this your younger brother, whom you said to me you would bring? And he said, God show mercy to you, child.
+
+**Genesis 43:30**
+
+And Joseph was troubled, for his inward parts turned upon his brother, and he sought to weep. And going into the chamber, he wept there.
+
+**Genesis 43:31**
+
+And washing his face, he came out and restrained himself and said, Serve bread.
+
+**Genesis 43:32**
+
+And they served him alone and them by themselves and the Egyptians dining with him by themselves, because the Egyptians could not eat bread with the Hebrews, for it is an abomination to the Egyptians.
+
+**Genesis 43:33**
+
+And they sat before him, the firstborn according to his seniority and the younger according to his youth, and the men looked in amazement each at his brother.
+
+**Genesis 43:34**
+
+And they took portions from him to themselves, but Benjamin's portion was enlarged beyond the portions of all, fivefold beyond theirs, and they drank and became drunk with him.
+
+### Chapter 44
+
+**Genesis 44:1**
+
+And Joseph commanded the man over his house, saying, Fill the bags of the men with food, as much as they are able to carry, and put each man's money on the mouth of his bag,
+
+**Genesis 44:2**
+
+and put my silver cup into the bag of the youngest and the price of his grain. And it was done according to Joseph's word, just as he said.
+
+**Genesis 44:3**
+
+The morning dawned, and the men were sent away, they and their donkeys.
+
+**Genesis 44:4**
+
+And when they had gone out of the city, they were not far away, and Joseph said to the man over his house, Rise, pursue after the men, and you will overtake them, and you will say to them, Why did you repay evil for good? Why did you steal my silver cup?
+
+**Genesis 44:5**
+
+Is this not the one in which my lord drinks? And he himself surely practices divination with it. You have done evil in what you have done.
+
+**Genesis 44:6**
+
+And finding them, he spoke to them according to these words.
+
+**Genesis 44:7**
+
+And they said to him, Why does my lord speak according to these words? Far be it from your servants to do according to this word.
+
+**Genesis 44:8**
+
+If the money that we found in our bags we brought back to you from the land of Canaan, how would we steal silver or gold out of your lord's house?
+
+**Genesis 44:9**
+
+With whomever you find the cup among your servants, let him die. And we too will be servants to our lord.
+
+**Genesis 44:10**
+
+And he said, And now, as you say, so it will be. The one with whom the cup is found will be my servant, but you will be innocent.
+
+**Genesis 44:11**
+
+And they hurried, and each brought down his bag to the ground, and each opened his bag.
+
+**Genesis 44:12**
+
+And he searched, beginning from the elder until he came to the youngest, and he found the cup in Benjamin's bag.
+
+**Genesis 44:13**
+
+And they tore their garments and each loaded his bag on his donkey, and they returned to the city.
+
+**Genesis 44:14**
+
+And Judah and his brothers entered to Joseph, while he was still there, and they fell before him to the ground.
+
+**Genesis 44:15**
+
+And Joseph said to them, What is this deed that you have done? Do you not know that a man like me surely practices divination?
+
+**Genesis 44:16**
+
+And Judah said, What shall we answer to our lord, or what shall we speak, or how shall we be justified? God found the injustice of your servants. Look, we are servants to our lord, both we and the one with whom the cup was found.
+
+**Genesis 44:17**
+
+And Joseph said, Far be it from me to do this thing. The man with whom the cup was found, he will be my servant. But you go up in peace to your father.
+
+**Genesis 44:18**
+
+And Judah came near to him and said, I beg you, lord. Let your servant speak a word before you, and do not be angry with your servant, for you are as Pharaoh.
+
+**Genesis 44:19**
+
+My lord, you asked your servants, saying, Do you have a father or a brother?
+
+**Genesis 44:20**
+
+And we said to our lord, We have an elderly father and a child of his old age, younger to him, and his brother died, and he alone was left to his mother, and his father loved him.
+
+**Genesis 44:21**
+
+And you said to your servants, Bring him down to me, and I will care for him.
+
+**Genesis 44:22**
+
+And we said to our lord, The child will not be able to leave his father, and if he leaves his father, he will die.
+
+**Genesis 44:23**
+
+But you said to your servants, Unless your younger brother comes down with you, you shall not continue to see my face.
+
+**Genesis 44:24**
+
+And it happened when we went up to your servant our father, we told him the words of our lord.
+
+**Genesis 44:25**
+
+And our father said, Go again and buy us a little food.
+
+**Genesis 44:26**
+
+And we said, We will not be able to go down. But if our younger brother goes down with us, we will go down, for we will not be able to see the man's face if our younger brother is not with us.
+
+**Genesis 44:27**
+
+And your servant our father said to us, You know that my wife bore me two sons.
+
+**Genesis 44:28**
+
+And the one went out from me, and you said, He has become eaten by beasts, and I have not seen him until now.
+
+**Genesis 44:29**
+
+If then you take this one also from my face, and some harm happens to him on the road, you will bring my old age down with sorrow into Hades.
+
+**Genesis 44:30**
+
+Now then, if I go in to your servant my father and the child is not with us, and his soul hangs from this child's soul,
+
+**Genesis 44:31**
+
+then it will happen that when he sees that the child is not with us, he will die, and your servants will bring down the old age of your servant our father with sorrow into Hades.
+
+**Genesis 44:32**
+
+For your servant has taken the child as a pledge from the father, saying, If I do not bring him to you and set him before you, I shall be guilty before my father all my days.
+
+**Genesis 44:33**
+
+Now then, let me remain as a servant to my lord in place of the child, but let the child go up with his brothers.
+
+**Genesis 44:34**
+
+For how shall I go up to my father if the child is not with us? Lest I see the evils that will find my father.
+
+### Chapter 45
+
+**Genesis 45:1**
+
+And Joseph was not able to hold out before all those standing by him, but said, Send everyone away from me. And no one stood with Joseph when he made himself known to his brothers.
+
+**Genesis 45:2**
+
+And he lifted up his voice with weeping. And all the Egyptians heard, and it became heard in Pharaoh's house.
+
+**Genesis 45:3**
+
+And Joseph said to his brothers, I am Joseph. Does my father still live? And his brothers were not able to answer him, for they were troubled.
+
+**Genesis 45:4**
+
+And Joseph said to his brothers, Come near to me, and they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
+
+**Genesis 45:5**
+
+And now do not be grieved, nor let it seem hard to you, because you sold me here. For God sent me before you for life.
+
+**Genesis 45:6**
+
+For this is the second year of famine upon the land, and there are still five years in which there will be neither plowing nor harvest.
+
+**Genesis 45:7**
+
+For God sent me before you to leave for you a remnant on the earth and to preserve for you a great remnant.
+
+**Genesis 45:8**
+
+And now it was not you who sent me here, but God, and he made me as a father to Pharaoh and lord of all his house and ruler of all the land of Egypt.
+
+**Genesis 45:9**
+
+Hurry then and go up to my father and say to him, Thus says your son Joseph: God made me lord of all the land of Egypt. Come down to me, and do not remain.
+
+**Genesis 45:10**
+
+And you will dwell in the land of Gesem of Arabia, and you will be near me, you and your sons and the sons of your sons, your sheep and your cattle and all that is yours,
+
+**Genesis 45:11**
+
+and I will nourish you there, for there are still five years of famine, lest you and your sons and all your possessions be destroyed.
+
+**Genesis 45:12**
+
+Look, your eyes see, and the eyes of Benjamin my brother see, that my mouth is the one speaking to you.
+
+**Genesis 45:13**
+
+Then tell my father all my glory in Egypt and all that you have seen, and hurry and bring my father down here.
+
+**Genesis 45:14**
+
+And falling on the neck of Benjamin his brother, he wept over him, and Benjamin wept on his neck.
+
+**Genesis 45:15**
+
+And kissing all his brothers, he wept over them, and after this his brothers spoke to him.
+
+**Genesis 45:16**
+
+And the report was heard in Pharaoh's house, saying, Joseph's brothers have come. And Pharaoh and his household rejoiced.
+
+**Genesis 45:17**
+
+And Pharaoh said to Joseph, Tell your brothers, Do this: fill your beasts and go to the land of Canaan,
+
+**Genesis 45:18**
+
+and take your father and your possessions and come to me, and I will give you from all the good things of Egypt, and you will eat the marrow of the land.
+
+**Genesis 45:19**
+
+And you, command this: take carts for them out of the land of Egypt for your little ones and your wives. And taking your father, come.
+
+**Genesis 45:20**
+
+And do not spare your eyes for your goods, for all the good things of Egypt will be yours.
+
+**Genesis 45:21**
+
+And the sons of Israel did so. And Joseph gave them carts according to Pharaoh's word and gave them provisions for the road,
+
+**Genesis 45:22**
+
+and to all he gave two garments apiece, but to Benjamin he gave three hundred gold pieces and five changing garments,
+
+**Genesis 45:23**
+
+and to his father he sent likewise: ten donkeys carrying from all the good things of Egypt, and ten she-donkeys carrying bread for his father for the journey.
+
+**Genesis 45:24**
+
+And he sent away his brothers, and they went. And he said to them, Do not be angry on the road.
+
+**Genesis 45:25**
+
+And they went up out of Egypt and came to the land of Canaan to Jacob their father,
+
+**Genesis 45:26**
+
+and they reported to him, saying, Your son Joseph lives, and he rules all the land of Egypt. And Jacob was stunned in mind, for he did not believe them.
+
+**Genesis 45:27**
+
+And they told him all the words of Joseph that he had spoken to them. And when he saw the carts that Joseph had sent to take him, the spirit of Jacob their father revived.
+
+**Genesis 45:28**
+
+And Israel said, It is a great thing for me if Joseph my son still lives. I will go and see him before I die.
+
+### Chapter 46
+
+**Genesis 46:1**
+
+And Israel departed, he and all that was his, and came to the Well of the Oath and offered sacrifice to the God of his father Isaac.
+
+**Genesis 46:2**
+
+And God spoke to Israel in a vision of the night, saying, Jacob, Jacob. And he said, What is it?
+
+**Genesis 46:3**
+
+And he says to him, I am the God of your fathers. Do not fear to go down into Egypt, for I will make you there into a great nation,
+
+**Genesis 46:4**
+
+and I will go down with you into Egypt, and I will bring you up at the end, and Joseph will place his hands on your eyes.
+
+**Genesis 46:5**
+
+And Jacob rose from the Well of the Oath, and the sons of Israel took up their father and their households and their wives on the carts that Joseph sent to take him,
+
+**Genesis 46:6**
+
+and taking up their possessions and all the property that they had acquired in the land of Canaan, they entered into Egypt, Jacob and all his seed with him,
+
+**Genesis 46:7**
+
+sons and sons of his sons with him, daughters and daughters of his daughters. And he brought all his seed into Egypt.
+
+**Genesis 46:8**
+
+And these are the names of the sons of Israel who entered into Egypt along with Jacob their father: Jacob and his sons. The firstborn of Jacob was Reuben.
+
+**Genesis 46:9**
+
+And the sons of Reuben: Enoch and Phallus, Asron and Charmi.
+
+**Genesis 46:10**
+
+And the sons of Simeon: Jemuel and Jamin and Aod and Jachin and Saar and Saul, son of the Canaanite woman.
+
+**Genesis 46:11**
+
+And the sons of Levi: Gerson, Caath and Merari.
+
+**Genesis 46:12**
+
+And the sons of Judah: Er and Aunan and Selom and Phares and Zara. And Er and Aunan died in the land of Canaan. And the sons of Phares became Esron and Jemuel.
+
+**Genesis 46:13**
+
+And the sons of Issachar: Thola and Phua and Iasub and Zambram.
+
+**Genesis 46:14**
+
+And the sons of Zebulun: Sered and Allon and Achoel.
+
+**Genesis 46:15**
+
+These are the sons of Leah, whom she bore to Jacob in Mesopotamia of Syria, and Dinah his daughter. All the souls, sons and daughters, were thirty-three.
+
+**Genesis 46:16**
+
+And the sons of Gad: Saphon and Angis and Saunis and Thasoban and Aedeis and Aroedeis and Areeleis.
+
+**Genesis 46:17**
+
+And the sons of Asher: Jemna, Jessua and Jeoul and Baria and Sara their sister. And the sons of Baria: Chobor and Melchiil.
+
+**Genesis 46:18**
+
+These are the sons of Zilpah, whom Laban gave to Leah his daughter, who bore these to Jacob, sixteen souls.
+
+**Genesis 46:19**
+
+And the sons of Rachel, Jacob's wife: Joseph and Benjamin.
+
+**Genesis 46:20**
+
+And sons were born to Joseph in the land of Egypt, whom Aseneth daughter of Petephres priest of Heliopolis bore to him, Manasseh and Ephraim. And there were sons of Manasseh, whom the Syrian concubine bore to him, Machir. And Machir begot Galaad. And the sons of Ephraim, brother of Manasseh, were Sutalaam and Taam. And the sons of Sutalaam were Edem.
+
+**Genesis 46:21**
+
+And the sons of Benjamin: Bala and Chobor and Asbel. And there became sons of Bala: Gera and Noeman and Anchis and Ros and Mamphim and Ophimin. And Gera begot Arad.
+
+**Genesis 46:22**
+
+These are the sons of Rachel, whom she bore to Jacob. All the souls were eighteen.
+
+**Genesis 46:23**
+
+And the sons of Dan: Asom.
+
+**Genesis 46:24**
+
+And the sons of Naphtali: Asiel and Gouni and Issaar and Syllim.
+
+**Genesis 46:25**
+
+These are the sons of Bilhah, whom Laban gave to Rachel his daughter, who bore these to Jacob. All the souls were seven.
+
+**Genesis 46:26**
+
+And all the souls that entered with Jacob into Egypt, those who came out of his loins, apart from the wives of Jacob's sons, all the souls were sixty-six.
+
+**Genesis 46:27**
+
+And the sons of Joseph born to him in the land of Egypt were nine souls. All the souls of the house of Jacob that entered into Egypt with Jacob were seventy-five souls.
+
+**Genesis 46:28**
+
+And he sent Judah before him to Joseph to meet him at the city of Heroes, into the land of Ramesses.
+
+**Genesis 46:29**
+
+And Joseph, yoking his chariots, went up to meet Israel his father at the city of Heroes, and appearing to him, he fell on his neck and wept with abundant weeping.
+
+**Genesis 46:30**
+
+And Israel said to Joseph, From now on I will die, since I have seen your face, because you still live.
+
+**Genesis 46:31**
+
+And Joseph said to his brothers, I will go up and report to Pharaoh, and I will say to him, My brothers and my father's house, who were in the land of Canaan, have come to me.
+
+**Genesis 46:32**
+
+And the men are shepherds, for they were men who bred cattle, and they have brought their cattle and their oxen and all that is theirs.
+
+**Genesis 46:33**
+
+If then Pharaoh calls you and says to you, What is your work?
+
+**Genesis 46:34**
+
+you will say, Your servants are breeders of cattle from childhood until now, both we and our fathers, so that you may dwell in the land of Gesem of Arabia, for every shepherd of sheep is an abomination to the Egyptians.
+
+### Chapter 47
+
+**Genesis 47:1**
+
+And Joseph came and reported to Pharaoh, saying, My father and my brothers and their cattle and their oxen and all that is theirs have come out of the land of Canaan, and look, they are in the land of Gesem.
+
+**Genesis 47:2**
+
+And from his brothers he took five men and set them before Pharaoh.
+
+**Genesis 47:3**
+
+And Pharaoh said to Joseph's brothers, What is your work? And they said to Pharaoh, Your servants are shepherds of sheep, both we and our fathers.
+
+**Genesis 47:4**
+
+And they said to Pharaoh, We have come to sojourn in the land, for there is no pasture for the flocks of your servants, because the famine prevailed in the land of Canaan. Now then, let your servants dwell in the land of Gesem.
+
+**Genesis 47:5**
+
+And Pharaoh said to Joseph, Let them dwell in the land of Gesem. And if you know that there are able men among them, appoint them rulers over my cattle. And Jacob and his sons came into Egypt to Joseph, and Pharaoh king of Egypt heard.
+
+**Genesis 47:6**
+
+And Pharaoh said to Joseph, Your father and your brothers have come to you. Look, the land of Egypt is before you. In the best land settle your father and your brothers.
+
+**Genesis 47:7**
+
+And Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed Pharaoh.
+
+**Genesis 47:8**
+
+And Pharaoh said to Jacob, How many are the years of the days of your life?
+
+**Genesis 47:9**
+
+And Jacob said to Pharaoh, The days of the years of my life in which I sojourn are one hundred thirty years. Few and evil have become the days of the years of my life, and they have not reached the days of the years of the life of my fathers, in which days they sojourned.
+
+**Genesis 47:10**
+
+And Jacob, having blessed Pharaoh, went out from him.
+
+**Genesis 47:11**
+
+And Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best land, in the land of Ramesses, just as Pharaoh commanded.
+
+**Genesis 47:12**
+
+And Joseph measured out grain to his father and his brothers and to all the house of his father according to persons.
+
+**Genesis 47:13**
+
+And there was no grain in all the land, for the famine prevailed greatly. And the land of Egypt and the land of Canaan failed because of the famine.
+
+**Genesis 47:14**
+
+And Joseph gathered all the money found in the land of Egypt and in the land of Canaan for the grain that they were buying, and he measured out grain to them. And Joseph brought all the money into Pharaoh's house.
+
+**Genesis 47:15**
+
+And all the money failed out of the land of Egypt and out of the land of Canaan. And all the Egyptians came to Joseph, saying, Give us bread, and why should we die before you? For our money has failed.
+
+**Genesis 47:16**
+
+And Joseph said to them, Bring your livestock, and I will give you bread in exchange for your livestock, if your money has failed.
+
+**Genesis 47:17**
+
+And they brought their livestock to Joseph, and Joseph gave them bread in exchange for the horses and in exchange for the sheep and in exchange for the oxen and in exchange for the donkeys. And he fed them with bread in exchange for all their livestock in that year.
+
+**Genesis 47:18**
+
+And that year ended, and they came to him in the second year and said to him, Let us not be wiped out before our lord. For if our money has failed and our possessions and livestock belong to you, our lord, nothing is left for us before our lord except our own bodies and our land.
+
+**Genesis 47:19**
+
+So then, let us not die before you and let not the land be made desolate. Buy us and our land for bread, and we and our land will be servants to Pharaoh. Give seed, so that we may sow and live and not die, and the land will not be made desolate.
+
+**Genesis 47:20**
+
+And Joseph bought all the land of the Egyptians for Pharaoh, for the Egyptians sold their land to Pharaoh, because the famine prevailed against them, and the land became Pharaoh's.
+
+**Genesis 47:21**
+
+And he enslaved the people to him as servants from one border of Egypt to the other.
+
+**Genesis 47:22**
+
+Only the land of the priests Joseph did not buy, for Pharaoh gave a fixed allowance to the priests, and they ate the allowance that Pharaoh gave them. Because of this they did not sell their land.
+
+**Genesis 47:23**
+
+And Joseph said to all the Egyptians, Look, I have bought you and your land today for Pharaoh. Take seed for yourselves and sow the land,
+
+**Genesis 47:24**
+
+and its produce will come, and you will give the fifth part to Pharaoh, and the four parts will be for you yourselves, for seed for the land and for food for you and all those in your houses.
+
+**Genesis 47:25**
+
+And they said, You have saved us. We have found favor before our lord, and we will be servants to Pharaoh.
+
+**Genesis 47:26**
+
+And Joseph set it for them as an ordinance until this day on the land of Egypt, reserving a fifth part for Pharaoh, except only the land of the priests, which did not belong to Pharaoh.
+
+**Genesis 47:27**
+
+And Israel dwelt in the land of Egypt, on the land of Gesem, and they gained an inheritance on it and increased and multiplied greatly.
+
+**Genesis 47:28**
+
+And Jacob lived in the land of Egypt seventeen years, and the days of Jacob, the years of his life, became one hundred forty-seven years.
+
+**Genesis 47:29**
+
+And the days of Israel drew near for him to die, and he called his son Joseph and said to him, If I have found favor before you, put your hand under my thigh, and you will do mercy and truth toward me so as not to bury me in Egypt,
+
+**Genesis 47:30**
+
+but I will sleep with my fathers, and you will carry me up out of Egypt and bury me in their tomb. And he said, I will do according to your word.
+
+**Genesis 47:31**
+
+And he said, Swear to me. And he swore to him. And Israel bowed upon the top of his staff.
+
+### Chapter 48
+
+**Genesis 48:1**
+
+And it happened after these matters, it was reported to Joseph that your father is ill. And taking his two sons, Manasseh and Ephraim, he came to Jacob.
+
+**Genesis 48:2**
+
+And it was reported to Jacob, saying, Look, your son Joseph is coming to you. And Israel, strengthening himself, sat upon the bed.
+
+**Genesis 48:3**
+
+And Jacob said to Joseph, My God appeared to me in Luza in the land of Canaan and blessed me
+
+**Genesis 48:4**
+
+and said to me, Look, I will increase you and multiply you and make you into gatherings of nations, and I will give this land to you and to your seed after you for an everlasting possession.
+
+**Genesis 48:5**
+
+Now then, your two sons born to you in the land of Egypt before I came to you into Egypt are mine. Ephraim and Manasseh shall be mine as Reuben and Simeon are.
+
+**Genesis 48:6**
+
+And the offspring that you beget after these will be under the name of their brothers. They will be called after their brothers' inheritances.
+
+**Genesis 48:7**
+
+And as for me, when I was coming from Mesopotamia of Syria, Rachel your mother died in the land of Canaan as I drew near toward the racecourse of Chabratha of the land so as to come to Ephratha, and I buried her on the road of the racecourse. This is Bethlehem.
+
+**Genesis 48:8**
+
+And when Israel saw the sons of Joseph, he said, Who are these to you?
+
+**Genesis 48:9**
+
+And Joseph said to his father, They are my sons, whom God gave me here. And Jacob said, Bring them to me, so that I may bless them.
+
+**Genesis 48:10**
+
+Now the eyes of Israel were dim from old age, and he was not able to see. And Joseph brought them near to him, and he kissed them and embraced them.
+
+**Genesis 48:11**
+
+And Israel said to Joseph, Look, I was not deprived even of your face, and look, God also showed me your seed.
+
+**Genesis 48:12**
+
+And Joseph brought them out from his knees, and they bowed to him with face to the ground.
+
+**Genesis 48:13**
+
+And Joseph took his two sons, Ephraim in his right hand on Israel's left, and Manasseh in his left hand on Israel's right, and brought them near to him.
+
+**Genesis 48:14**
+
+And Israel, stretching out his right hand, laid it on Ephraim's head, though he was the younger, and his left on Manasseh's head, crossing his hands.
+
+**Genesis 48:15**
+
+And he blessed them and said, The God before whom my fathers Abraham and Isaac were well-pleasing, the God who feeds me from youth until this day,
+
+**Genesis 48:16**
+
+the angel who rescues me from all evils, may he bless these boys. And let my name be called on them, and the name of my fathers Abraham and Isaac, and let them be multiplied into a great multitude on the earth.
+
+**Genesis 48:17**
+
+And Joseph, seeing that his father laid his right hand on Ephraim's head, it seemed grievous to him, and Joseph took hold of his father's hand to remove it from Ephraim's head onto Manasseh's head.
+
+**Genesis 48:18**
+
+And Joseph said to his father, Not so, father, for this one is the firstborn. Put your right hand on his head.
+
+**Genesis 48:19**
+
+And he would not, but said, I know, child, I know. He also will become a people, and he also will be exalted. But his younger brother will be greater than he, and his seed will become a multitude of nations.
+
+**Genesis 48:20**
+
+And he blessed them in that day, saying, In you Israel will be blessed, saying, God make you as Ephraim and as Manasseh. And he put Ephraim before Manasseh.
+
+**Genesis 48:21**
+
+And Israel said to Joseph, Look, I am dying, and God will be with you and return you to the land of your fathers.
+
+**Genesis 48:22**
+
+And I give to you Sikima, a chosen portion above your brothers, which I took from the hand of the Amorites with my sword and my bow.
+
+### Chapter 49
+
+**Genesis 49:1**
+
+And Jacob called his sons and said to them, Gather yourselves, so that I may tell you what will meet you in the last days.
+
+**Genesis 49:2**
+
+Gather yourselves and hear me, sons of Jacob. Hear Israel your father.
+
+**Genesis 49:3**
+
+Reuben, my firstborn, you are my strength and the beginning of my children, hard to bear and hard, self-willed.
+
+**Genesis 49:4**
+
+You were insolent like water; do not boil over, for you went up to your father's bed. Then you defiled the couch where you went up.
+
+**Genesis 49:5**
+
+Simeon and Levi are brothers. They accomplished injustice from their own choosing.
+
+**Genesis 49:6**
+
+Let not my soul come into their counsel, and let not my inward parts lean upon their conspiracy, because in their wrath they killed men, and in their desire they hamstrung a bull.
+
+**Genesis 49:7**
+
+Cursed be their wrath, because it was self-willed, and their anger, because it grew hard. I will divide them in Jacob and scatter them in Israel.
+
+**Genesis 49:8**
+
+Judah, your brothers will praise you. Your hands will be on the back of your enemies. Your father's sons will bow to you.
+
+**Genesis 49:9**
+
+Judah is a lion's cub. From a shoot, my son, you went up. Having lain down, you slept as a lion and as a cub. Who will rouse him?
+
+**Genesis 49:10**
+
+A ruler will not fail from Judah, nor a leader from his loins, until the things stored up for him come, and he is the expectation of nations.
+
+**Genesis 49:11**
+
+Binding his foal to the vine and the foal of his donkey to the tendril, he will wash his robe in wine and his garment in the blood of the grape.
+
+**Genesis 49:12**
+
+His eyes are gladdening from wine, and his teeth are whiter than milk.
+
+**Genesis 49:13**
+
+Zebulun will dwell by the sea, and he will be by a harbor of ships, and he will stretch out as far as Sidon.
+
+**Genesis 49:14**
+
+Issachar desired the good, resting between the allotments.
+
+**Genesis 49:15**
+
+And seeing that the rest was good and the land rich, he put his shoulder to labor and became a farmer.
+
+**Genesis 49:16**
+
+Dan will judge his people, as one tribe too in Israel.
+
+**Genesis 49:17**
+
+And let Dan become a serpent on the road, sitting by the path, biting the horse's heel, and the rider will fall backward,
+
+**Genesis 49:18**
+
+waiting for the salvation of the Lord.
+
+**Genesis 49:19**
+
+Gad, a raiding troop will raid him, but he will raid it at heel.
+
+**Genesis 49:20**
+
+Asher, his bread is rich, and he will give delicacies to rulers.
+
+**Genesis 49:21**
+
+Naphtali is a released stem, bestowing beauty in its fruit.
+
+**Genesis 49:22**
+
+Joseph is a son increased, my increased and envied son, my youngest son. Return to me.
+
+**Genesis 49:23**
+
+Against him, taking evil counsel, they reviled him, and lords of arrows pressed hard upon him.
+
+**Genesis 49:24**
+
+But their bows were shattered with strength, and the sinews of their arms were loosened by the hand of the Mighty One of Jacob. From there is the one who strengthened Israel, from the God of your father,
+
+**Genesis 49:25**
+
+and my God helped you and blessed you with blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
+
+**Genesis 49:26**
+
+the blessings of your father and mother prevailed above the blessings of abiding mountains and the blessings of everlasting hills. They will be on Joseph's head and on the crown of the one who led his brothers.
+
+**Genesis 49:27**
+
+Benjamin is a ravening wolf. In the morning he will still eat, and toward evening he gives food.
+
+**Genesis 49:28**
+
+All these are the twelve sons of Jacob. And these are the things their father spoke to them, and he blessed them. He blessed each according to his blessing.
+
+**Genesis 49:29**
+
+And he said to them, I am being added to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+
+**Genesis 49:30**
+
+in the double cave opposite Mambre in the land of Canaan, which Abraham acquired from Ephron the Hittite as a possession for a tomb,
+
+**Genesis 49:31**
+
+there they buried Abraham and Sarah his wife, there they buried Isaac and Rebecca his wife, there I buried Leah,
+
+**Genesis 49:32**
+
+in the purchase of the field and of the cave that is in it, from the sons of Heth.
+
+**Genesis 49:33**
+
+And Jacob ceased commanding his sons, and lifting his feet onto the bed, he failed and was added to his people.
+
+### Chapter 50
+
+**Genesis 50:1**
+
+And Joseph, falling on his father's face, wept over him and kissed him.
+
+**Genesis 50:2**
+
+And Joseph commanded his servants the embalmers to embalm his father, and the embalmers embalmed Israel.
+
+**Genesis 50:3**
+
+And they completed forty days for him, for so the days of embalming are counted. And Egypt mourned for him seventy days.
+
+**Genesis 50:4**
+
+And when the days of mourning passed, Joseph spoke to Pharaoh's nobles, saying, If I have found favor before you, speak concerning me into Pharaoh's ears, saying,
+
+**Genesis 50:5**
+
+My father adjured me, saying, In the tomb that I dug for myself in the land of Canaan, there you will bury me. Now then I will go up and bury my father, and I will return again.
+
+**Genesis 50:6**
+
+And Pharaoh said to Joseph, Go up and bury your father, just as he caused you to swear.
+
+**Genesis 50:7**
+
+And Joseph went up to bury his father, and all Pharaoh's servants went up with him, and the elders of his house, and all the elders of the land of Egypt,
+
+**Genesis 50:8**
+
+and all the household of Joseph, and his brothers, and all his father's house, and his kin. But they left behind the sheep and the oxen in the land of Gesem.
+
+**Genesis 50:9**
+
+And chariots and horsemen also went up with him, and the company became very great.
+
+**Genesis 50:10**
+
+And they came to the threshing-floor of Atad, which is beyond the Jordan, and they bewailed him with a great and very strong lamentation. And he made mourning for his father seven days.
+
+**Genesis 50:11**
+
+And the inhabitants of the land of Canaan saw the mourning at the threshing-floor of Atad and said, This is a great mourning for the Egyptians. Because of this he called its name Mourning of Egypt, which is beyond the Jordan.
+
+**Genesis 50:12**
+
+And his sons did so for him.
+
+**Genesis 50:13**
+
+And his sons carried him up into the land of Canaan and buried him in the double cave, which Abraham acquired as a possession for a tomb from Ephrom the Hittite, before Mambre.
+
+**Genesis 50:14**
+
+And Joseph returned to Egypt, he and his brothers and those who went up with him to bury his father.
+
+**Genesis 50:15**
+
+And Joseph's brothers, seeing that their father had died, said, Perhaps Joseph will remember evil against us and repay us with repayment for all the evils that we showed against him.
+
+**Genesis 50:16**
+
+And coming to Joseph they said, Your father adjured before his death, saying,
+
+**Genesis 50:17**
+
+Thus you will say to Joseph, Forgive them their injustice and their sin, because they showed evil to you. And now accept the injustice of the servants of the God of your father. And Joseph wept while they spoke to him.
+
+**Genesis 50:18**
+
+And they came to him and said, Here we are, your suppliants.
+
+**Genesis 50:19**
+
+And Joseph said to them, Do not fear, for I am God's.
+
+**Genesis 50:20**
+
+You planned against me for evil, but God planned concerning me for good, so that it might happen as today and much people might be fed.
+
+**Genesis 50:21**
+
+And he said to them, Do not fear. I will nourish you and your households. And he comforted them and spoke to their heart.
+
+**Genesis 50:22**
+
+And Joseph dwelt in Egypt, he and his brothers and all the household of his father, and Joseph lived one hundred ten years.
+
+**Genesis 50:23**
+
+And Joseph saw Ephraim's children to the third generation, and the sons of Machir son of Manasseh were born upon Joseph's thighs.
+
+**Genesis 50:24**
+
+And Joseph said to his brothers, saying, I am dying. But with visitation God will visit you and bring you up out of this land to the land that God swore to our fathers Abraham, Isaac and Jacob.
+
+**Genesis 50:25**
+
+And Joseph adjured the sons of Israel, saying, In the visitation with which God will visit you, then you will carry up my bones from here with you.
+
+**Genesis 50:26**
+
+And Joseph died, being one hundred ten years old, and they prepared him and put him in the coffin in Egypt.
 
 ## Exodus
 
@@ -8559,3 +14129,81233 @@ But if he is not redeemed by these means, he shall go out in the year of release
 **Leviticus 25:55**
 
 Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
+
+### Chapter 26
+
+**Leviticus 26:1**
+
+Do not make for yourselves idols made by hand, nor carved images, nor set up a pillar for yourselves, nor place a watching stone in your land to bow down to it, because I am the Lord your God.
+
+**Leviticus 26:2**
+
+Keep my Sabbaths, and stand in awe before my holy things. I am the Lord.
+
+**Leviticus 26:3**
+
+If you walk in my ordinances and keep my commands and do them,
+
+**Leviticus 26:4**
+
+then I will give you rain in its season, and the land will give its produce, and the trees of the plains will yield their fruit.
+
+**Leviticus 26:5**
+
+And threshing will overtake vintage for you, and vintage will overtake sowing, and you will eat your bread to fullness and dwell in safety on your land.
+
+**Leviticus 26:6**
+
+And war will not pass through your land, and I will give peace in your land, and you will sleep, and there will be none to frighten you, and I will destroy harmful wild beasts from your land.
+
+**Leviticus 26:7**
+
+And you will pursue your enemies, and they will fall before you by slaughter.
+
+**Leviticus 26:8**
+
+And five of you will pursue a hundred, and a hundred of you will pursue myriads, and your enemies will fall before you by sword.
+
+**Leviticus 26:9**
+
+And I will look upon you and increase you and multiply you, and I will establish my covenant with you.
+
+**Leviticus 26:10**
+
+And you will eat old stores, even very old stores, and you will clear out the old before the new.
+
+**Leviticus 26:11**
+
+And I will set my covenant among you, and my soul will not abhor you.
+
+**Leviticus 26:12**
+
+And I will walk among you and will be your God, and you will be my people.
+
+**Leviticus 26:13**
+
+I am the Lord your God, who brought you out of the land of Egypt when you were slaves, and I shattered the bonds of your yoke and led you with boldness.
+
+**Leviticus 26:14**
+
+But if you do not listen to me and do not do these ordinances,
+
+**Leviticus 26:15**
+
+but disobey them, and your soul loathes my judgments, so that you do not do all my commands, so as to break my covenant,
+
+**Leviticus 26:16**
+
+then I also will do this to you: I will bring upon you distress, scab, and jaundice, wasting your eyes and consuming your life, and you will sow your seed for nothing, and your adversaries will eat it.
+
+**Leviticus 26:17**
+
+And I will set my face against you, and you will fall before your enemies, and those who hate you will pursue you, and you will flee though none pursues you.
+
+**Leviticus 26:18**
+
+And if even after this you do not listen to me, I will continue to discipline you sevenfold for your sins.
+
+**Leviticus 26:19**
+
+And I will shatter the arrogance of your pride, and I will make your sky iron and your land like bronze.
+
+**Leviticus 26:20**
+
+And your strength will be spent in vain, and your land will not give its seed, and the tree of your field will not give its fruit.
+
+**Leviticus 26:21**
+
+And if after this you go at odds with me and are unwilling to listen to me, I will add blows to you sevenfold according to your sins.
+
+**Leviticus 26:22**
+
+And I will send against you the wild beasts of the land, and they will devour you and destroy your cattle and make you few, and your roads will be desolate.
+
+**Leviticus 26:23**
+
+And if by these things you are not disciplined, but go at odds with me,
+
+**Leviticus 26:24**
+
+then I also will go with you in anger at odds, and I myself will strike you sevenfold for your sins.
+
+**Leviticus 26:25**
+
+And I will bring upon you a sword avenging covenant justice, and you will flee into your cities, and I will send death among you, and you will be handed over into enemies' hands.
+
+**Leviticus 26:26**
+
+When I afflict you with scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
+
+**Leviticus 26:27**
+
+But if after these things you do not listen to me and go with me at odds,
+
+**Leviticus 26:28**
+
+then I myself will go with you in wrath at odds and discipline you sevenfold according to your sins.
+
+**Leviticus 26:29**
+
+And you will eat the flesh of your sons, and you will eat the flesh of your daughters.
+
+**Leviticus 26:30**
+
+And I will lay waste your pillars and destroy your wooden idols, and I will place your carcasses upon the carcasses of your idols, and my soul will loathe you.
+
+**Leviticus 26:31**
+
+And I will make your cities desolate and lay waste your holy places, and I will not smell the fragrance of your sacrifices.
+
+**Leviticus 26:32**
+
+And I myself will lay waste the land, and your enemies who dwell in it will wonder at it.
+
+**Leviticus 26:33**
+
+And I will scatter you among the nations, and the sword coming after you will consume you, and your land will be desolate and your cities desolate.
+
+**Leviticus 26:34**
+
+Then the land will welcome its Sabbaths all the days of its desolation, while you are in the land of your enemies; then the land will keep Sabbath and welcome its Sabbaths.
+
+**Leviticus 26:35**
+
+All the days of its desolation it will keep Sabbath, what it did not keep Sabbath in your Sabbaths when you were dwelling on it.
+
+**Leviticus 26:36**
+
+And to those left of you I will bring fear into their heart in the land of their enemies, and the sound of a driven leaf will pursue them, and they will flee as fleeing from war and will fall with none pursuing.
+
+**Leviticus 26:37**
+
+And brother will disregard brother, as in war, though none chases, and you will not be able to stand against your enemies.
+
+**Leviticus 26:38**
+
+And you will perish among the nations, and the land of your enemies will devour you.
+
+**Leviticus 26:39**
+
+And those left of you will waste away for their sins in the land of their enemies; they also will melt away for the sins of their fathers.
+
+**Leviticus 26:40**
+
+And they will confess their sins and the sins of their fathers, that they transgressed and overlooked me and went at odds with me.
+
+**Leviticus 26:41**
+
+And I also went with them in anger at odds and destroyed them in the land of their enemies. Then their uncircumcised heart will be ashamed, and then they will accept their sins.
+
+**Leviticus 26:42**
+
+And I will remember the covenant of Jacob, and the covenant of Isaac, and the covenant of Abraham I will remember, and I will remember the land.
+
+**Leviticus 26:43**
+
+And the land will be left by them; then it will welcome its Sabbaths while made desolate because of them, and they will accept their lawless deeds, because they overlooked my judgments and their soul loathed my ordinances.
+
+**Leviticus 26:44**
+
+Yet not even while they are in the land of their enemies have I overlooked them or loathed them so as to destroy them, so as to break my covenant with them, because I am the Lord their God.
+
+**Leviticus 26:45**
+
+And I will remember for them the earlier covenant, when I brought them out of the land of Egypt, out of a house of slavery, before the nations, to be their God. I am the Lord.
+
+**Leviticus 26:46**
+
+These are the judgments and the ordinances and the law that the Lord gave between himself and the sons of Israel on Mount Sinai by Moses' hand.
+
+### Chapter 27
+
+**Leviticus 27:1**
+
+And the Lord spoke to Moses, saying,
+
+**Leviticus 27:2**
+
+Speak to the sons of Israel, and you shall say to them: Whoever vows a vow, setting the valuation of his life to the Lord,
+
+**Leviticus 27:3**
+
+the valuation of the male from twenty years old to sixty years old shall be fifty silver didrachms by the holy standard.
+
+**Leviticus 27:4**
+
+And the valuation of the female shall be thirty didrachms.
+
+**Leviticus 27:5**
+
+And if from five years old to twenty years old, the valuation of the male shall be twenty didrachms, and of the female ten didrachms.
+
+**Leviticus 27:6**
+
+And from a month old to five years old, the valuation of the male shall be five silver didrachms, and of the female three didrachms.
+
+**Leviticus 27:7**
+
+And if from sixty years old and upward, if male, the valuation shall be fifteen silver didrachms, and if female, ten didrachms.
+
+**Leviticus 27:8**
+
+And if he is too poor for the valuation, he shall stand before the priest, and the priest shall value him; according as the hand of the one who vowed is able, the priest shall value him.
+
+**Leviticus 27:9**
+
+And if it is from the cattle that people bring from them as a gift to the Lord, whatever someone gives from these to the Lord shall be holy.
+
+**Leviticus 27:10**
+
+He shall not exchange it, good for bad or bad for good. But if in exchanging he does exchange animal for animal, both it and its exchange shall be holy.
+
+**Leviticus 27:11**
+
+And if it is any unclean animal, from which they do not bring a gift to the Lord, he shall set the animal before the priest.
+
+**Leviticus 27:12**
+
+And the priest shall value it between good and bad, and as the priest values it, so it shall stand.
+
+**Leviticus 27:13**
+
+But if in redeeming he redeems it, he shall add the fifth part to its valuation.
+
+**Leviticus 27:14**
+
+And if a person sanctifies his house as holy to the Lord, the priest shall value it between good and bad; as the priest values it, so it shall stand.
+
+**Leviticus 27:15**
+
+And if the one who sanctified it redeems his house, he shall add to it the fifth part of the silver of its valuation, and it shall be his.
+
+**Leviticus 27:16**
+
+And if a person sanctifies to the Lord part of the field of his possession, its valuation shall be according to its seed: a homer of barley seed, fifty silver didrachms.
+
+**Leviticus 27:17**
+
+And if he sanctifies his field from the year of release, it shall stand according to its valuation.
+
+**Leviticus 27:18**
+
+But if he sanctifies his field later, after the release, the priest shall reckon the silver for him according to the years remaining until the year of release, and it shall be deducted from its valuation.
+
+**Leviticus 27:19**
+
+And if the one who sanctified it redeems the field, he shall add the fifth part of the silver to its valuation, and it shall be his.
+
+**Leviticus 27:20**
+
+But if he does not redeem the field, and the field is sold to another person, he may no longer redeem it.
+
+**Leviticus 27:21**
+
+But when the field goes out in the release, it shall be holy to the Lord, like land set apart. It shall belong to the priest as a possession.
+
+**Leviticus 27:22**
+
+And if he sanctifies to the Lord part of a field he bought, which is not from the field of his possession,
+
+**Leviticus 27:23**
+
+the priest shall reckon for him the full amount of the valuation until the year of release, and he shall give the valuation on that day, holy to the Lord.
+
+**Leviticus 27:24**
+
+And in the year of release the field shall be returned to the person from whom he bought it, to the one whose possession the land was.
+
+**Leviticus 27:25**
+
+And every valuation shall be by holy weights; twenty obols shall be the didrachm.
+
+**Leviticus 27:26**
+
+But every firstborn that is born among your cattle shall belong to the Lord, and no one shall sanctify it, whether calf or sheep; it belongs to the Lord.
+
+**Leviticus 27:27**
+
+And if it is from the unclean four-footed animals, he shall redeem it according to its valuation and add the fifth part to it, and it shall be his. But if it is not redeemed, it shall be sold according to its valuation.
+
+**Leviticus 27:28**
+
+But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
+
+**Leviticus 27:29**
+
+And every devoted thing that is devoted from humans shall not be redeemed, but shall surely be put to death.
+
+**Leviticus 27:30**
+
+And every tithe of the land, from the seed of the land and from the fruit of the trees, belongs to the Lord; it is holy to the Lord.
+
+**Leviticus 27:31**
+
+And if a person redeems his tithe in redeeming, he shall add the fifth part to it, and it shall be his.
+
+**Leviticus 27:32**
+
+And every tithe of cattle and sheep, everything that passes under the rod, the tenth shall be holy to the Lord.
+
+**Leviticus 27:33**
+
+He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed.
+
+**Leviticus 27:34**
+
+These are the commands that the Lord commanded Moses for the sons of Israel on Mount Sinai.
+
+## Numbers
+
+### Chapter 1
+
+**Numbers 1:1**
+
+And the Lord spoke to Moses in the wilderness of Sinai, in the tent of testimony, on the first day of the second month, in the second year after they came out of the land of Egypt, saying,
+
+**Numbers 1:2**
+
+Take the headcount of the whole congregation of the sons of Israel by their families, by the houses of their fathers, by the number of their names, by their heads, every male,
+
+**Numbers 1:3**
+
+from twenty years old and upward, every one going out in force in Israel. You and Aaron shall count them with their strength.
+
+**Numbers 1:4**
+
+And with you there shall be one man from each tribe; they shall be chiefs by the houses of their fathers.
+
+**Numbers 1:5**
+
+And these are the names of the men who shall stand with you: from Reuben, Elizur son of Shedeur;
+
+**Numbers 1:6**
+
+from Simeon, Shelumiel son of Zurishaddai;
+
+**Numbers 1:7**
+
+from Judah, Nahshon son of Amminadab;
+
+**Numbers 1:8**
+
+from Issachar, Nethanel son of Zuar;
+
+**Numbers 1:9**
+
+from Zebulun, Eliab son of Helon;
+
+**Numbers 1:10**
+
+from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;
+
+**Numbers 1:11**
+
+from Benjamin, Abidan son of Gideoni;
+
+**Numbers 1:12**
+
+from Dan, Ahiezer son of Ammishaddai;
+
+**Numbers 1:13**
+
+from Asher, Pagiel son of Ocran;
+
+**Numbers 1:14**
+
+from Gad, Eliasaph son of Reuel;
+
+**Numbers 1:15**
+
+from Naphtali, Ahira son of Enan.
+
+**Numbers 1:16**
+
+These were the called ones of the congregation, chiefs of the tribes of their fathers, commanders of thousands in Israel.
+
+**Numbers 1:17**
+
+And Moses and Aaron took these men, the ones called by name,
+
+**Numbers 1:18**
+
+and they assembled the whole congregation on the first day of the second month in the second year, and they enrolled themselves by their generations, by their fathers, by the number of their names, from twenty years old and upward, every male by their heads.
+
+**Numbers 1:19**
+
+As the Lord commanded Moses, so they were counted in the wilderness of Sinai.
+
+**Numbers 1:20**
+
+And the sons of Reuben, Israel's firstborn, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:21**
+
+those counted from the tribe of Reuben: forty-six thousand five hundred.
+
+**Numbers 1:22**
+
+As for the sons of Simeon, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:23**
+
+those counted from the tribe of Simeon: fifty-nine thousand three hundred.
+
+**Numbers 1:24**
+
+As for the sons of Judah, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:25**
+
+those counted from the tribe of Judah: seventy-four thousand six hundred.
+
+**Numbers 1:26**
+
+As for the sons of Issachar, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:27**
+
+those counted from the tribe of Issachar: fifty-four thousand four hundred.
+
+**Numbers 1:28**
+
+As for the sons of Zebulun, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:29**
+
+those counted from the tribe of Zebulun: fifty-seven thousand four hundred.
+
+**Numbers 1:30**
+
+As for the sons of Joseph, the sons of Ephraim, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:31**
+
+those counted from the tribe of Ephraim: forty thousand five hundred.
+
+**Numbers 1:32**
+
+As for the sons of Manasseh, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:33**
+
+those counted from the tribe of Manasseh: thirty-two thousand two hundred.
+
+**Numbers 1:34**
+
+As for the sons of Benjamin, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:35**
+
+those counted from the tribe of Benjamin: thirty-five thousand four hundred.
+
+**Numbers 1:36**
+
+As for the sons of Gad, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:37**
+
+those counted from the tribe of Gad: forty-five thousand six hundred fifty.
+
+**Numbers 1:38**
+
+As for the sons of Dan, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:39**
+
+those counted from the tribe of Dan: sixty-two thousand seven hundred.
+
+**Numbers 1:40**
+
+As for the sons of Asher, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:41**
+
+those counted from the tribe of Asher: forty-one thousand five hundred.
+
+**Numbers 1:42**
+
+As for the sons of Naphtali, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+
+**Numbers 1:43**
+
+those counted from the tribe of Naphtali: fifty-three thousand four hundred.
+
+**Numbers 1:44**
+
+This was the counting that Moses and Aaron and the chiefs of Israel counted, twelve men; one man for each tribe, by the tribe of his fathers' houses.
+
+**Numbers 1:45**
+
+And the whole counting of the sons of Israel, with their strength, from twenty years old and upward, every one going out to line up for battle in Israel,
+
+**Numbers 1:46**
+
+was six hundred three thousand five hundred fifty.
+
+**Numbers 1:47**
+
+But the Levites by the tribe of their fathers were not counted among the sons of Israel.
+
+**Numbers 1:48**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 1:49**
+
+See to the tribe of Levi; you shall not count them, and you shall not take their number among the sons of Israel.
+
+**Numbers 1:50**
+
+But you shall appoint the Levites over the tent of testimony and over all its furnishings and over everything in it. They shall carry the tent and all its furnishings, and they shall minister in it, and they shall camp around the tent.
+
+**Numbers 1:51**
+
+And when the tent is taken down, the Levites shall take it down, and when the tent camps, the Levites shall set it up. And the stranger who comes near shall die.
+
+**Numbers 1:52**
+
+And the sons of Israel shall camp, each in his own order and each by his own command, with their strength.
+
+**Numbers 1:53**
+
+But the Levites shall camp before the Lord around the tent of testimony, and there shall not be offense among the sons of Israel. And the Levites themselves shall keep the charge of the tent of testimony.
+
+**Numbers 1:54**
+
+And the sons of Israel did according to all that the Lord commanded Moses and Aaron; so they did.
+
+### Chapter 2
+
+**Numbers 2:1**
+
+And the Lord spoke to Moses and Aaron, saying,
+
+**Numbers 2:2**
+
+The sons of Israel shall camp, each close by his own order, by standards, by the houses of their fathers. Opposite, around the tent of testimony, the sons of Israel shall camp.
+
+**Numbers 2:3**
+
+And those camping first on the east shall be the order of the camp of Judah, with their strength. And the chief of the sons of Judah shall be Nahshon son of Amminadab.
+
+**Numbers 2:4**
+
+His force, the ones counted, was seventy-four thousand six hundred.
+
+**Numbers 2:5**
+
+And those camping next to them shall be the tribe of Issachar. And the chief of the sons of Issachar shall be Nethanel son of Zuar.
+
+**Numbers 2:6**
+
+His force, the ones counted, was fifty-four thousand four hundred.
+
+**Numbers 2:7**
+
+And those camping next shall be the tribe of Zebulun. And the chief of the sons of Zebulun shall be Eliab son of Helon.
+
+**Numbers 2:8**
+
+His force, the ones counted, was fifty-seven thousand four hundred.
+
+**Numbers 2:9**
+
+All those counted of the camp of Judah were a hundred eighty-six thousand four hundred, with their strength. They shall set out first.
+
+**Numbers 2:10**
+
+The order of the camp of Reuben shall be to the south, with their strength. And the chief of the sons of Reuben shall be Elizur son of Shedeur.
+
+**Numbers 2:11**
+
+His force, the ones counted, was forty-six thousand five hundred.
+
+**Numbers 2:12**
+
+And those camping next to him shall be the tribe of Simeon. And the chief of the sons of Simeon shall be Shelumiel son of Zurishaddai.
+
+**Numbers 2:13**
+
+His force, the ones counted, was fifty-nine thousand three hundred.
+
+**Numbers 2:14**
+
+And those camping next to him shall be the tribe of Gad. And the chief of the sons of Gad shall be Eliasaph son of Reuel.
+
+**Numbers 2:15**
+
+His force, the ones counted, was forty-five thousand six hundred fifty.
+
+**Numbers 2:16**
+
+All those counted of the camp of Reuben were a hundred fifty-one thousand four hundred fifty, with their strength. They shall set out second.
+
+**Numbers 2:17**
+
+Then the tent of testimony and the camp of the Levites shall be taken up in the middle of the camps. As they camp, so they shall set out, each one next in order to his command.
+
+**Numbers 2:18**
+
+The order of the camp of Ephraim shall be by the sea, with their strength. And the chief of the sons of Ephraim shall be Elishama son of Ammihud.
+
+**Numbers 2:19**
+
+His force, the ones counted, was forty thousand five hundred.
+
+**Numbers 2:20**
+
+And those camping next shall be the tribe of Manasseh. And the chief of the sons of Manasseh shall be Gamaliel son of Pedahzur.
+
+**Numbers 2:21**
+
+His force, the ones counted, was thirty-two thousand two hundred.
+
+**Numbers 2:22**
+
+And those camping next shall be the tribe of Benjamin. And the chief of the sons of Benjamin shall be Abidan son of Gideoni.
+
+**Numbers 2:23**
+
+His force, the ones counted, was thirty-five thousand four hundred.
+
+**Numbers 2:24**
+
+All those counted of the camp of Ephraim were a hundred eight thousand one hundred, with their strength. They shall set out third.
+
+**Numbers 2:25**
+
+The order of the camp of Dan shall be to the north, with their strength. And the chief of the sons of Dan shall be Ahiezer son of Ammishaddai.
+
+**Numbers 2:26**
+
+His force, the ones counted, was sixty-two thousand seven hundred.
+
+**Numbers 2:27**
+
+And those camping next to him shall be the tribe of Asher. And the chief of the sons of Asher shall be Pagiel son of Ocran.
+
+**Numbers 2:28**
+
+His force, the ones counted, was forty-one thousand five hundred.
+
+**Numbers 2:29**
+
+And those camping next shall be the tribe of Naphtali. And the chief of the sons of Naphtali shall be Ahira son of Enan.
+
+**Numbers 2:30**
+
+His force, the ones counted, was fifty-three thousand four hundred.
+
+**Numbers 2:31**
+
+All those counted of the camp of Dan were a hundred fifty-seven thousand six hundred. They shall set out last according to their order.
+
+**Numbers 2:32**
+
+This was the counting of the sons of Israel by the houses of their fathers. The whole counting of the camps, with their strength, was six hundred three thousand five hundred fifty.
+
+**Numbers 2:33**
+
+But the Levites were not counted among them, just as the Lord commanded Moses.
+
+**Numbers 2:34**
+
+And the sons of Israel did according to all that the Lord commanded Moses. So they camped by their order, and so they set out, each one next by their clans, by the houses of their fathers.
+
+### Chapter 3
+
+**Numbers 3:1**
+
+And these are the generations of Aaron and Moses on the day when the Lord spoke to Moses on Mount Sinai.
+
+**Numbers 3:2**
+
+And these are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
+
+**Numbers 3:3**
+
+These are the names of the sons of Aaron, the priests, the anointed ones whose hands were consecrated to serve as priests.
+
+**Numbers 3:4**
+
+And Nadab and Abihu died before the Lord when they offered strange fire before the Lord in the wilderness of Sinai, and they had no children. And Eleazar and Ithamar served as priests with Aaron their father.
+
+**Numbers 3:5**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 3:6**
+
+Take the tribe of Levi and set them before Aaron the priest, and they shall minister to him.
+
+**Numbers 3:7**
+
+And they shall keep his charges and the charges of the sons of Israel before the tent of testimony, to do the works of the tent.
+
+**Numbers 3:8**
+
+And they shall keep all the furnishings of the tent of testimony and the charges of the sons of Israel according to all the works of the tent.
+
+**Numbers 3:9**
+
+And you shall give the Levites to Aaron and to his sons the priests. Given as a gift, these are mine from the sons of Israel.
+
+**Numbers 3:10**
+
+And you shall appoint Aaron and his sons over the tent of testimony, and they shall keep their priesthood and all things concerning the altar and inside the veil. And the stranger who touches shall die.
+
+**Numbers 3:11**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 3:12**
+
+And I, behold, have taken the Levites from the midst of the sons of Israel in place of every firstborn opening a womb among the sons of Israel. They shall be their ransom, and the Levites shall be mine.
+
+**Numbers 3:13**
+
+For every firstborn is mine. On the day I struck every firstborn in the land of Egypt, I sanctified to myself every firstborn in Israel, from human to beast. They shall be mine. I am the Lord.
+
+**Numbers 3:14**
+
+And the Lord spoke to Moses in the wilderness of Sinai, saying,
+
+**Numbers 3:15**
+
+Count the sons of Levi by the houses of their fathers, by their clans, by their families. Every male from a month old and upward you shall count.
+
+**Numbers 3:16**
+
+And Moses and Aaron counted them by the word of the Lord, just as the Lord commanded them.
+
+**Numbers 3:17**
+
+And these were the sons of Levi by their names: Gershon, Kohath, and Merari.
+
+**Numbers 3:18**
+
+And these are the names of the sons of Gershon by their clans: Lobeni and Shimei.
+
+**Numbers 3:19**
+
+And the sons of Kohath by their clans: Amram and Issahar, Hebron and Oziel.
+
+**Numbers 3:20**
+
+And the sons of Merari by their clans: Mooli and Mushi. These are the clans of the Levites by the houses of their fathers.
+
+**Numbers 3:21**
+
+To Gershon belonged the clan of Lobeni and the clan of Shimei. These are the clans of Gershon.
+
+**Numbers 3:22**
+
+Their counting, by the number of every male from a month old and upward, was seven thousand five hundred.
+
+**Numbers 3:23**
+
+The sons of Gershon shall camp behind the tent, by the sea.
+
+**Numbers 3:24**
+
+And the chief of the fathers' house of the clan of Gershon was Elisaph son of Lael.
+
+**Numbers 3:25**
+
+And the charge of the sons of Gershon in the tent of testimony was the tent and the covering and the screen of the door of the tent of testimony,
+
+**Numbers 3:26**
+
+and the curtains of the court and the screen of the gate of the court that is by the tent, and the rest of all its works.
+
+**Numbers 3:27**
+
+To Kohath belonged the clan of the Amramites and the clan of the Issaharites and the clan of the Hebronites and the clan of the Ozielites. These are the clans of Kohath.
+
+**Numbers 3:28**
+
+By the number of every male from a month old and upward, there were eight thousand six hundred, keeping the charges of the holy things.
+
+**Numbers 3:29**
+
+The clans of the sons of Kohath shall camp at the sides of the tent, toward the south.
+
+**Numbers 3:30**
+
+And the chief of the fathers' house of the clans of Kohath was Elisaphan son of Oziel.
+
+**Numbers 3:31**
+
+And their charge was the ark and the table and the lampstand and the altars and the vessels of the sanctuary with which they minister and the covering and all their works.
+
+**Numbers 3:32**
+
+And the chief over the chiefs of the Levites was Eleazar the son of Aaron the priest, appointed to keep the charges of the holy things.
+
+**Numbers 3:33**
+
+To Merari belonged the clan of the Moolites and the clan of the Mushites. These are the clans of Merari.
+
+**Numbers 3:34**
+
+Their counting, by the number of every male from a month old and upward, was six thousand fifty.
+
+**Numbers 3:35**
+
+And the chief of the fathers' house of the clan of Merari was Souriel son of Abichail. They shall camp at the sides of the tent, toward the north.
+
+**Numbers 3:36**
+
+And the charge of the sons of Merari was the frames of the tent and its bars and its pillars and its bases and all their furnishings and all their works,
+
+**Numbers 3:37**
+
+and the pillars of the court all around and their bases and their pegs and their cords.
+
+**Numbers 3:38**
+
+And those camping before the tent of testimony on the east were Moses and Aaron and his sons, keeping the charges of the sanctuary for the charges of the sons of Israel. And the stranger who touches shall die.
+
+**Numbers 3:39**
+
+All the counting of the Levites whom Moses and Aaron counted by the word of the Lord, by their clans, every male from a month old and upward, was twenty-two thousand.
+
+**Numbers 3:40**
+
+And the Lord said to Moses, saying, Count every firstborn male of the sons of Israel from a month old and upward, and take the number by name.
+
+**Numbers 3:41**
+
+And you shall take the Levites for me, I am the Lord, in place of all the firstborn of the sons of Israel, and the cattle of the Levites in place of all the firstborn among the cattle of the sons of Israel.
+
+**Numbers 3:42**
+
+And Moses counted, just as the Lord commanded, every firstborn among the sons of Israel.
+
+**Numbers 3:43**
+
+And all the firstborn males by the number of names, from a month old and upward, from their counting, were twenty-two thousand two hundred seventy-three.
+
+**Numbers 3:44**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 3:45**
+
+Take the Levites in place of all the firstborn of the sons of Israel and the cattle of the Levites in place of their cattle, and the Levites shall be mine. I am the Lord.
+
+**Numbers 3:46**
+
+And for the ransom of the two hundred seventy-three who exceed the Levites from the firstborn of the sons of Israel,
+
+**Numbers 3:47**
+
+you shall take five shekels per head, by the holy didrachm; you shall take twenty obols to the shekel.
+
+**Numbers 3:48**
+
+And you shall give the silver to Aaron and to his sons as the ransom of those exceeding among them.
+
+**Numbers 3:49**
+
+And Moses took the silver of ransom from those who exceeded in redemption beyond the Levites.
+
+**Numbers 3:50**
+
+From the firstborn of the sons of Israel he took the silver: one thousand three hundred sixty-five shekels by the holy shekel.
+
+**Numbers 3:51**
+
+And Moses gave the silver for the ransom of those exceeding to Aaron and to his sons by the word of the Lord, just as the Lord commanded Moses.
+
+### Chapter 4
+
+**Numbers 4:1**
+
+And the Lord spoke to Moses and Aaron, saying,
+
+**Numbers 4:2**
+
+Take the headcount of the sons of Kohath from among the sons of Levi, by their clans, by the houses of their fathers,
+
+**Numbers 4:3**
+
+from twenty-five years old and upward to fifty years old, every one entering to minister, to do all the works in the tent of testimony.
+
+**Numbers 4:4**
+
+And these are the works of the sons of Kohath in the tent of testimony: the holy of holies.
+
+**Numbers 4:5**
+
+And Aaron and his sons shall go in when the camp is taken up, and they shall take down the screening veil and with it cover the ark of testimony.
+
+**Numbers 4:6**
+
+And they shall put upon it a blue leather covering and spread over it an all-blue cloth above, and they shall put in its carrying poles.
+
+**Numbers 4:7**
+
+And upon the table set forth they shall spread a purple cloth, and they shall place upon it the dishes and the censers and the bowls and the libation vessels with which they pour. And the continual breads shall remain on it.
+
+**Numbers 4:8**
+
+And they shall spread over it a scarlet cloth and cover it with a blue leather covering and put through it the carrying poles.
+
+**Numbers 4:9**
+
+And they shall take a blue cloth and cover the lampstand that gives light and its lamps and its tongs and its snuffers and all its oil vessels by which they minister with them.
+
+**Numbers 4:10**
+
+And they shall place it and all its vessels into a blue leather covering and set it upon carrying poles.
+
+**Numbers 4:11**
+
+And upon the golden altar they shall spread a blue cloth and cover it with a blue leather covering and put through its poles.
+
+**Numbers 4:12**
+
+And they shall take all the service vessels with which they minister in the sanctuary and place them into a blue cloth and cover them with a blue leather covering and set them upon carrying poles.
+
+**Numbers 4:13**
+
+And they shall place the cover-pan on the altar and spread over it a whole purple cloth.
+
+**Numbers 4:14**
+
+And they shall place upon it all the vessels with which they minister on it, the firepans and the flesh-hooks and the bowls and the cover-pan, all the vessels of the altar. And they shall spread over it a blue leather covering and put through its poles. And they shall take a purple cloth and cover the laver and its base and place them in a blue leather covering and set them upon carrying poles.
+
+**Numbers 4:15**
+
+And Aaron and his sons shall finish covering the holy things and all the holy vessels when the camp is taken up, and after these things the sons of Kohath shall go in to carry them. But they shall not touch the holy things, lest they die. These are the things the sons of Kohath shall carry in the tent of testimony.
+
+**Numbers 4:16**
+
+And the oversight of Eleazar son of Aaron the priest is the oil for the light and the compound incense and the daily sacrifice and the anointing oil, the oversight of the whole tent and everything in it, in the sanctuary and in all its works.
+
+**Numbers 4:17**
+
+And the Lord spoke to Moses and Aaron, saying,
+
+**Numbers 4:18**
+
+Do not destroy the clan of Kohath from among the Levites.
+
+**Numbers 4:19**
+
+Do this for them, and they shall live and not die when they approach the holy of holies: Aaron and his sons shall go in and appoint each of them to his task and to his burden.
+
+**Numbers 4:20**
+
+And they shall not go in to look suddenly upon the holy things and die.
+
+**Numbers 4:21**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 4:22**
+
+Take the headcount of the sons of Gershon, these also, by the houses of their fathers, by their clans.
+
+**Numbers 4:23**
+
+From twenty-five years old and upward to fifty years old, count them, every one entering to minister and to do his works in the tent of testimony.
+
+**Numbers 4:24**
+
+This is the service of the clan of Gershon, to minister and to carry.
+
+**Numbers 4:25**
+
+And he shall carry the skins of the tent and the tent of testimony and its covering and the blue covering that is over it above and the screen of the door of the tent of testimony,
+
+**Numbers 4:26**
+
+and the curtains of the court that are by the tent of testimony and the extra pieces and all the service vessels with which they minister in them. They shall do all these things.
+
+**Numbers 4:27**
+
+At Aaron's command and at the command of his sons shall be all the service of the sons of Gershon in all their ministries and in all the things carried by them. And you shall oversee for them by name all the things carried by them.
+
+**Numbers 4:28**
+
+This is the service of the sons of Gershon in the tent of testimony, and their charge is in the hand of Ithamar son of Aaron the priest.
+
+**Numbers 4:29**
+
+Count the sons of Merari by their clans, by the houses of their fathers.
+
+**Numbers 4:30**
+
+From twenty-five years old and upward to fifty years old, count them, every one entering to minister in the works of the tent of testimony.
+
+**Numbers 4:31**
+
+And these are the charges of the things carried by them according to all their works in the tent of testimony: the frames of the tent and its bars and its pillars and its bases and the screen and the bases of them and its pillars and the screen of the door of the tent,
+
+**Numbers 4:32**
+
+and the pillars of the court all around and their bases and the pillars of the screen of the gate of the court and their bases and their pegs and their cords and all their furnishings and all their services. By name you shall count them and all the vessels of the charge of the things carried by them.
+
+**Numbers 4:33**
+
+This is the service of the clan of the sons of Merari in all their works in the tent of testimony, in the hand of Ithamar son of Aaron the priest.
+
+**Numbers 4:34**
+
+And Moses and Aaron and the chiefs of Israel counted the sons of Kohath by their clans, by the houses of their fathers,
+
+**Numbers 4:35**
+
+from twenty-five years old and upward to fifty years old, every one entering to minister and to work in the tent of testimony.
+
+**Numbers 4:36**
+
+And their counting by their clans was two thousand two hundred fifty.
+
+**Numbers 4:37**
+
+This was the counting of the clan of Kohath, every one ministering in the tent of testimony, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+
+**Numbers 4:38**
+
+And the sons of Gershon were counted by their clans, by the houses of their fathers,
+
+**Numbers 4:39**
+
+from twenty-five years old and upward to fifty years old, every one entering to minister and to do the works in the tent of testimony.
+
+**Numbers 4:40**
+
+And their counting by their clans, by the houses of their fathers, was two thousand six hundred thirty.
+
+**Numbers 4:41**
+
+This was the counting of the clan of the sons of Gershon, every one ministering in the tent of testimony, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+
+**Numbers 4:42**
+
+And the clan of the sons of Merari also was counted by their clans, by the houses of their fathers,
+
+**Numbers 4:43**
+
+from twenty-five years old and upward to fifty years old, every one entering to minister for the works of the tent of testimony.
+
+**Numbers 4:44**
+
+And their counting by their clans, by the houses of their fathers, was three thousand two hundred.
+
+**Numbers 4:45**
+
+This was the counting of the clan of the sons of Merari, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+
+**Numbers 4:46**
+
+All those counted whom Moses and Aaron and the chiefs of Israel counted, the Levites by their clans, by the houses of their fathers,
+
+**Numbers 4:47**
+
+from twenty-five years old and upward to fifty years old, every one entering for the work of the works and the things carried in the tent of testimony,
+
+**Numbers 4:48**
+
+their count was eight thousand five hundred eighty.
+
+**Numbers 4:49**
+
+By the word of the Lord he counted them by Moses' hand, each man over his works and over what they carried. And they were counted just as the Lord commanded Moses.
+
+### Chapter 5
+
+**Numbers 5:1**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 5:2**
+
+Command the sons of Israel, and let them send out from the camp every leprous person and every one with a discharge and every one unclean by a dead person.
+
+**Numbers 5:3**
+
+From male to female you shall send them out of the camp, and they shall not defile their camps, in the midst of which I dwell among them.
+
+**Numbers 5:4**
+
+And the sons of Israel did so and sent them out of the camp. Just as the Lord spoke to Moses, so the sons of Israel did.
+
+**Numbers 5:5**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 5:6**
+
+Speak to the sons of Israel, saying, If a man or a woman does any of the human sins, and in overlooking overlooks, and that soul trespasses,
+
+**Numbers 5:7**
+
+he shall confess the sin that he did, and he shall repay the principal of the trespass and add its fifth part to it and give it to the one against whom he trespassed.
+
+**Numbers 5:8**
+
+But if the person has no near kinsman so that the trespass may be repaid to him, the trespass repaid to the Lord shall be for the priest, besides the ram of atonement by which he shall make atonement for him.
+
+**Numbers 5:9**
+
+And every firstfruit among all the holy things of the sons of Israel, whatever they bring to the Lord, shall be his, for the priest.
+
+**Numbers 5:10**
+
+And each man's holy things shall be his. Whatever a man gives to the priest shall be his.
+
+**Numbers 5:11**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 5:12**
+
+Speak to the sons of Israel, and you shall say to them, If any man's wife goes astray and in overlooking overlooks him,
+
+**Numbers 5:13**
+
+and someone lies with her in a bed of seed, and it is hidden from the eyes of her husband, and she herself is concealed, though she has been defiled, and there is no witness with her, and she was not caught,
+
+**Numbers 5:14**
+
+and a spirit of jealousy comes upon him and he is jealous of his wife and she has been defiled, or a spirit of jealousy comes upon him and he is jealous of his wife and she has not been defiled,
+
+**Numbers 5:15**
+
+then the man shall bring his wife to the priest and bring her gift concerning her: a tenth of an ephah of barley flour. He shall not pour oil upon it, nor place frankincense upon it, because it is a sacrifice of jealousy, a sacrifice of memorial, bringing sin to remembrance.
+
+**Numbers 5:16**
+
+And the priest shall bring her near and set her before the Lord.
+
+**Numbers 5:17**
+
+And the priest shall take pure living water in an earthen vessel, and from the dust that is on the floor of the tent of testimony, taking it, the priest shall put it into the water.
+
+**Numbers 5:18**
+
+And the priest shall set the woman before the Lord and uncover the woman's head and put upon her hands the sacrifice of memorial, the sacrifice of jealousy. And in the priest's hand shall be the water of reproof, this cursed water.
+
+**Numbers 5:19**
+
+And the priest shall adjure her and say to the woman, If no man has lain with you, and if you have not gone astray to be defiled under your own husband, be innocent from this water of reproof, this cursed water.
+
+**Numbers 5:20**
+
+But if you have gone astray under your husband, and if you are defiled, and some man besides your husband has given his bed in you,
+
+**Numbers 5:21**
+
+then the priest shall adjure the woman with the oaths of this curse, and the priest shall say to the woman: May the Lord make you a curse and an oath in the midst of your people, when the Lord gives your thigh fallen away and your belly swollen.
+
+**Numbers 5:22**
+
+And this cursed water shall enter into your belly to make the belly swell and to make your thigh fall away. And the woman shall say, Amen, amen.
+
+**Numbers 5:23**
+
+And the priest shall write these curses in a scroll and wipe them into the water of reproof, this cursed water.
+
+**Numbers 5:24**
+
+And he shall make the woman drink the water of reproof, this cursed water, and the cursed water of reproof shall enter into her.
+
+**Numbers 5:25**
+
+And the priest shall take from the woman's hand the sacrifice of jealousy and shall present the sacrifice before the Lord and bring it to the altar.
+
+**Numbers 5:26**
+
+And the priest shall take a handful from the sacrifice as its memorial and offer it upon the altar, and after these things he shall make the woman drink the water.
+
+**Numbers 5:27**
+
+And it shall be, if she has been defiled and by concealment concealed it from her husband, then the water of reproof, the cursed water, shall enter into her, and her belly shall swell and her thigh shall fall away, and the woman shall become a curse among her people.
+
+**Numbers 5:28**
+
+But if the woman has not been defiled and is clean, she shall be innocent and shall conceive seed.
+
+**Numbers 5:29**
+
+This is the law of jealousy, when a woman, being under a husband, goes astray and is defiled,
+
+**Numbers 5:30**
+
+or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
+
+**Numbers 5:31**
+
+And the man shall be clear from sin, but that woman shall bear her sin.
+
+### Chapter 6
+
+**Numbers 6:1**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 6:2**
+
+Speak to the sons of Israel, and you shall say to them: A man or a woman who greatly vows a vow, to consecrate a consecration to the Lord,
+
+**Numbers 6:3**
+
+shall separate himself from wine and strong drink. He shall not drink vinegar from wine or vinegar from strong drink, and he shall not drink whatever is produced from grapes, and he shall not eat fresh grapes or raisins.
+
+**Numbers 6:4**
+
+All the days of his vow, from everything made from the vine of wine, from grape husks to grape seed, he shall not eat.
+
+**Numbers 6:5**
+
+All the days of the vow of his consecration, a razor shall not come upon his head until the days are fulfilled that he vowed to the Lord. He shall be holy, letting the hair of his head grow long.
+
+**Numbers 6:6**
+
+All the days of his vow to the Lord, he shall not go in to any dead person.
+
+**Numbers 6:7**
+
+For father and for mother and for brother and for sister, he shall not be defiled for them when they die, because the vow of his God is upon his head.
+
+**Numbers 6:8**
+
+All the days of his vow he shall be holy to the Lord.
+
+**Numbers 6:9**
+
+But if someone suddenly dies beside him at once, the head of his vow will be defiled, and he shall shave his head on whatever day he is cleansed; on the seventh day it shall be shaved.
+
+**Numbers 6:10**
+
+And on the eighth day he shall bring two turtledoves or two young pigeons to the priest at the doors of the tent of testimony.
+
+**Numbers 6:11**
+
+And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
+
+**Numbers 6:12**
+
+And he shall consecrate to the Lord the days of his vow and bring a year-old lamb for a trespass offering, and the former days shall be without account, because the head of his vow was defiled.
+
+**Numbers 6:13**
+
+And this is the law of the one who has vowed: on whatever day he completes the days of his vow, he shall bring himself to the doors of the tent of testimony.
+
+**Numbers 6:14**
+
+And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+
+**Numbers 6:15**
+
+and a basket of unleavened bread, fine-flour loaves prepared with oil and unleavened wafers anointed with oil, and their sacrifice and their libation.
+
+**Numbers 6:16**
+
+And the priest shall bring them before the Lord and make his sin offering and his whole burnt offering.
+
+**Numbers 6:17**
+
+And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+
+**Numbers 6:18**
+
+And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+
+**Numbers 6:19**
+
+And the priest shall take the boiled shoulder from the ram and one unleavened loaf from the basket and one unleavened wafer and place them on the hands of the one who vowed, after he has shaved his vow.
+
+**Numbers 6:20**
+
+And the priest shall present them as an offering set before the Lord. It shall be holy for the priest, besides the breast of the offering set before the Lord and besides the arm of the contribution. And after these things the one who vowed shall drink wine.
+
+**Numbers 6:21**
+
+This is the law of the one who vowed, who vows his gift to the Lord concerning his vow, apart from whatever his hand may find. According to the power of his vow that he vowed, according to the law of consecration, so shall he do.
+
+**Numbers 6:22**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 6:23**
+
+Speak to Aaron and to his sons, saying, Thus you shall bless the sons of Israel, saying to them. And they shall put my name upon the sons of Israel, and I the Lord will bless them.
+
+**Numbers 6:24**
+
+May the Lord bless you and keep you.
+
+**Numbers 6:25**
+
+May the Lord make his face shine upon you and have mercy on you.
+
+**Numbers 6:26**
+
+May the Lord lift up his face upon you and give you peace.
+
+### Chapter 7
+
+**Numbers 7:1**
+
+And it happened on the day Moses finished setting up the tent and anointed it and sanctified it and all its furnishings and the altar and all its vessels, and he anointed them and sanctified them,
+
+**Numbers 7:2**
+
+that the chiefs of Israel brought offerings, twelve chiefs of the houses of their fathers. These were chiefs of the tribes, these the ones standing over the counting.
+
+**Numbers 7:3**
+
+And they brought their gifts before the Lord: six covered wagons and twelve oxen, a wagon from every two chiefs and an ox from each one, and they brought them before the tent.
+
+**Numbers 7:4**
+
+And the Lord said to Moses, saying,
+
+**Numbers 7:5**
+
+Take them from them, and they shall be for the service works of the tent of testimony, and you shall give them to the Levites, to each according to his service.
+
+**Numbers 7:6**
+
+And Moses took the wagons and the oxen and gave them to the Levites.
+
+**Numbers 7:7**
+
+The two wagons and the four oxen he gave to the sons of Gershon according to their services.
+
+**Numbers 7:8**
+
+And the four wagons and the eight oxen he gave to the sons of Merari according to their services, by the hand of Ithamar son of Aaron the priest.
+
+**Numbers 7:9**
+
+But to the sons of Kohath he did not give any, because they have the services of the holy things; upon their shoulders they shall carry them.
+
+**Numbers 7:10**
+
+And the chiefs brought offerings for the dedication of the altar on the day he anointed it, and the chiefs brought their gifts before the altar.
+
+**Numbers 7:11**
+
+And the Lord said to Moses, One chief each day, one chief each day, shall bring their gifts for the dedication of the altar.
+
+**Numbers 7:12**
+
+And the one bringing his gift on the first day was Nahshon son of Amminadab, chief of the tribe of Judah.
+
+**Numbers 7:13**
+
+And he brought his gift: one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:14**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:15**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:16**
+
+and one goat kid for sin offering,
+
+**Numbers 7:17**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+
+**Numbers 7:18**
+
+On the second day Nethanel son of Zuar, chief of the tribe of Issachar, brought his offering.
+
+**Numbers 7:19**
+
+And he brought his gift: one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:20**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:21**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:22**
+
+and one goat kid for sin offering,
+
+**Numbers 7:23**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+
+**Numbers 7:24**
+
+On the third day, the chief of the sons of Zebulun was Eliab son of Helon.
+
+**Numbers 7:25**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:26**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:27**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:28**
+
+and one goat kid for sin offering,
+
+**Numbers 7:29**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+
+**Numbers 7:30**
+
+On the fourth day, the chief of the sons of Reuben was Elizur son of Shedeur.
+
+**Numbers 7:31**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:32**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:33**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:34**
+
+and one goat kid for sin offering,
+
+**Numbers 7:35**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+
+**Numbers 7:36**
+
+On the fifth day, the chief of the sons of Simeon was Shelumiel son of Zurishaddai.
+
+**Numbers 7:37**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:38**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:39**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:40**
+
+and one goat kid for sin offering,
+
+**Numbers 7:41**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+
+**Numbers 7:42**
+
+On the sixth day, the chief of the sons of Gad was Eliasaph son of Reuel.
+
+**Numbers 7:43**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:44**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:45**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:46**
+
+and one goat kid for sin offering,
+
+**Numbers 7:47**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+
+**Numbers 7:48**
+
+On the seventh day, the chief of the sons of Ephraim was Elishama son of Ammihud.
+
+**Numbers 7:49**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:50**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:51**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:52**
+
+and one goat kid for sin offering,
+
+**Numbers 7:53**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+
+**Numbers 7:54**
+
+On the eighth day, the chief of the sons of Manasseh was Gamaliel son of Pedahzur.
+
+**Numbers 7:55**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:56**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:57**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:58**
+
+and one goat kid for sin offering,
+
+**Numbers 7:59**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+
+**Numbers 7:60**
+
+On the ninth day, the chief of the sons of Benjamin was Abidan son of Gideoni.
+
+**Numbers 7:61**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:62**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:63**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:64**
+
+and one goat kid for sin offering,
+
+**Numbers 7:65**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+
+**Numbers 7:66**
+
+On the tenth day, the chief of the sons of Dan was Ahiezer son of Ammishaddai.
+
+**Numbers 7:67**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:68**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:69**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:70**
+
+and one goat kid for sin offering,
+
+**Numbers 7:71**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+
+**Numbers 7:72**
+
+On the eleventh day, the chief of the sons of Asher was Pagiel son of Ocran.
+
+**Numbers 7:73**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:74**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:75**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:76**
+
+and one goat kid for sin offering,
+
+**Numbers 7:77**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+
+**Numbers 7:78**
+
+On the twelfth day, the chief of the sons of Naphtali was Ahira son of Enan.
+
+**Numbers 7:79**
+
+His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+
+**Numbers 7:80**
+
+one golden censer of ten gold pieces, full of incense,
+
+**Numbers 7:81**
+
+one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+
+**Numbers 7:82**
+
+and one goat kid for sin offering,
+
+**Numbers 7:83**
+
+and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+
+**Numbers 7:84**
+
+This was the dedication of the altar on the day he anointed it, from the chiefs of the sons of Israel: twelve silver dishes, twelve silver bowls, twelve golden censers,
+
+**Numbers 7:85**
+
+each dish one hundred thirty shekels, and each bowl seventy shekels. All the silver of the vessels was two thousand four hundred shekels by the holy shekel.
+
+**Numbers 7:86**
+
+Twelve golden censers full of incense. All the gold of the censers was one hundred twenty gold pieces.
+
+**Numbers 7:87**
+
+All the cattle for whole burnt offering were twelve bulls, twelve rams, twelve yearling lambs, and their sacrifices and their libations, and twelve goat kids for sin offering.
+
+**Numbers 7:88**
+
+All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+
+**Numbers 7:89**
+
+When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
+
+### Chapter 8
+
+**Numbers 8:1**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 8:2**
+
+Speak to Aaron, and you shall say to him: When you set the lamps in place, toward the front of the lampstand the seven lamps shall give light.
+
+**Numbers 8:3**
+
+And Aaron did so. From one side toward the front of the lampstand he lit its lamps, just as the Lord commanded Moses.
+
+**Numbers 8:4**
+
+And this was the workmanship of the lampstand: solid gold, its stem and its lilies, all solid. According to the pattern the Lord showed Moses, so he made the lampstand.
+
+**Numbers 8:5**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 8:6**
+
+Take the Levites from the midst of the sons of Israel and purify them.
+
+**Numbers 8:7**
+
+And thus you shall do to them for their purification: sprinkle them with water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
+
+**Numbers 8:8**
+
+And they shall take one bull from the cattle and its sacrifice of fine flour prepared with oil, and you shall take another yearling bull from the cattle for sin offering.
+
+**Numbers 8:9**
+
+And you shall bring the Levites before the tent of testimony, and you shall gather the whole congregation of the sons of Israel.
+
+**Numbers 8:10**
+
+And you shall bring the Levites before the Lord, and the sons of Israel shall place their hands upon the Levites.
+
+**Numbers 8:11**
+
+And Aaron shall set apart the Levites as an offering before the Lord from the sons of Israel, and they shall be for working the works of the Lord.
+
+**Numbers 8:12**
+
+And the Levites shall place their hands upon the heads of the bulls, and he shall make one a sin offering and one a whole burnt offering to the Lord, to make atonement for them.
+
+**Numbers 8:13**
+
+And you shall station the Levites before the Lord and before Aaron and before his sons, and you shall present them as an offering before the Lord.
+
+**Numbers 8:14**
+
+And you shall separate the Levites from the midst of the sons of Israel, and they shall be mine.
+
+**Numbers 8:15**
+
+And after these things the Levites shall go in to work the works of the tent of testimony, and you shall cleanse them and present them before the Lord.
+
+**Numbers 8:16**
+
+Because given as a gift, gift-given, these are mine from the midst of the sons of Israel. In place of those opening every womb, all the firstborn of the sons of Israel, I have taken them for myself.
+
+**Numbers 8:17**
+
+Because every firstborn among the sons of Israel is mine, from human to beast. On the day I struck every firstborn in the land of Egypt, I sanctified them to myself.
+
+**Numbers 8:18**
+
+And I took the Levites in place of every firstborn among the sons of Israel.
+
+**Numbers 8:19**
+
+And I gave the Levites as an offering, given to Aaron and to his sons from the midst of the sons of Israel, to work the works of the sons of Israel in the tent of testimony and to make atonement for the sons of Israel, and there shall not be among the sons of Israel one coming near the holy things.
+
+**Numbers 8:20**
+
+And Moses and Aaron and the whole congregation of the sons of Israel did to the Levites just as the Lord commanded Moses concerning the Levites; so the sons of Israel did to them.
+
+**Numbers 8:21**
+
+And the Levites purified themselves and washed their garments, and Aaron presented them as an offering before the Lord, and Aaron made atonement for them to purify them.
+
+**Numbers 8:22**
+
+And after these things the Levites went in to minister their ministry in the tent of testimony before Aaron and before his sons. Just as the Lord commanded Moses concerning the Levites, so they did to them.
+
+**Numbers 8:23**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 8:24**
+
+This is what concerns the Levites: from twenty-five years old and upward they shall go in to work in the tent of testimony.
+
+**Numbers 8:25**
+
+And from fifty years old they shall withdraw from the ministry and shall work no more.
+
+**Numbers 8:26**
+
+But his brother shall minister in the tent of testimony to keep charges, though he shall do no work. Thus you shall do to the Levites in their charges.
+
+### Chapter 9
+
+**Numbers 9:1**
+
+And the Lord spoke to Moses in the wilderness of Sinai, in the second year after they came out of the land of Egypt, in the first month, saying,
+
+**Numbers 9:2**
+
+Tell the sons of Israel also to keep the Passover at its appointed time.
+
+**Numbers 9:3**
+
+On the fourteenth day of the first month, toward evening, you shall keep it at its appointed times. According to its law and according to its ordinance you shall keep it.
+
+**Numbers 9:4**
+
+And Moses spoke to the sons of Israel to keep the Passover.
+
+**Numbers 9:5**
+
+At evening, on the fourteenth day of the month, in the wilderness of Sinai, just as the Lord commanded Moses, so the sons of Israel did.
+
+**Numbers 9:6**
+
+And there were men who were unclean by a dead person and were not able to keep the Passover on that day, and they came before Moses and Aaron on that day.
+
+**Numbers 9:7**
+
+And those men said to him, We are unclean by a dead person. Must we then be kept back from bringing the Lord's gift at its appointed time in the midst of the sons of Israel?
+
+**Numbers 9:8**
+
+And Moses said to them, Stand there, and I will hear what the Lord will command concerning you.
+
+**Numbers 9:9**
+
+And the Lord spoke to Moses, saying,
+
+**Numbers 9:10**
+
+Speak to the sons of Israel, saying, If any man becomes unclean by a dead person, or is on a far journey among you or in your generations, and he keeps Passover to the Lord,
+
+**Numbers 9:11**
+
+then in the second month, on the fourteenth day toward evening, they shall keep it. With unleavened bread and bitter herbs they shall eat it.
+
+**Numbers 9:12**
+
+They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it.
+
+**Numbers 9:13**
+
+But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
+
+**Numbers 9:14**
+
+And if a sojourner comes near you in your land and keeps Passover to the Lord, according to the law of the Passover and according to its ordinance he shall keep it. One law shall be for you and for the sojourner and for the native of the land.
+
+**Numbers 9:15**
+
+And on the day the tent was set up, the cloud covered the tent, the house of testimony. And in the evening it was over the tent like the appearance of fire until morning.
+
+**Numbers 9:16**
+
+So it was continually: the cloud covered it by day, and the appearance of fire by night.
+
+**Numbers 9:17**
+
+And whenever the cloud went up from the tent, after that the sons of Israel would set out, and in the place where the cloud stood, there the sons of Israel would camp.
+
+**Numbers 9:18**
+
+At the command of the Lord the sons of Israel would camp, and at the command of the Lord they would set out. All the days in which the cloud overshadowed the tent, the sons of Israel would camp.
+
+**Numbers 9:19**
+
+And when the cloud lingered over the tent many days, the sons of Israel kept the charge of God and did not set out.
+
+**Numbers 9:20**
+
+And it would happen when the cloud covered the tent for a number of days: at the Lord's voice they would camp, and at the Lord's command they would set out.
+
+**Numbers 9:21**
+
+And it would happen when the cloud was there from evening until morning and the cloud went up in the morning, they would set out by day or by night.
+
+**Numbers 9:22**
+
+Or when the cloud lingered for a month or more days, overshadowing it, the sons of Israel would camp and would not set out.
+
+**Numbers 9:23**
+
+Because at the Lord's command they would set out, and at the Lord's command they would camp. They kept the charge of the Lord by Moses' hand.
+
+### Chapter 10
+
+**Numbers 10:1**
+
+[TODO]
+
+**Numbers 10:2**
+
+[TODO]
+
+**Numbers 10:3**
+
+[TODO]
+
+**Numbers 10:4**
+
+[TODO]
+
+**Numbers 10:5**
+
+[TODO]
+
+**Numbers 10:6**
+
+[TODO]
+
+**Numbers 10:7**
+
+[TODO]
+
+**Numbers 10:8**
+
+[TODO]
+
+**Numbers 10:9**
+
+[TODO]
+
+**Numbers 10:10**
+
+[TODO]
+
+**Numbers 10:11**
+
+[TODO]
+
+**Numbers 10:12**
+
+[TODO]
+
+**Numbers 10:13**
+
+[TODO]
+
+**Numbers 10:14**
+
+[TODO]
+
+**Numbers 10:15**
+
+[TODO]
+
+**Numbers 10:16**
+
+[TODO]
+
+**Numbers 10:17**
+
+[TODO]
+
+**Numbers 10:18**
+
+[TODO]
+
+**Numbers 10:19**
+
+[TODO]
+
+**Numbers 10:20**
+
+[TODO]
+
+**Numbers 10:21**
+
+[TODO]
+
+**Numbers 10:22**
+
+[TODO]
+
+**Numbers 10:23**
+
+[TODO]
+
+**Numbers 10:24**
+
+[TODO]
+
+**Numbers 10:25**
+
+[TODO]
+
+**Numbers 10:26**
+
+[TODO]
+
+**Numbers 10:27**
+
+[TODO]
+
+**Numbers 10:28**
+
+[TODO]
+
+**Numbers 10:29**
+
+[TODO]
+
+**Numbers 10:30**
+
+[TODO]
+
+**Numbers 10:31**
+
+[TODO]
+
+**Numbers 10:32**
+
+[TODO]
+
+**Numbers 10:33**
+
+[TODO]
+
+**Numbers 10:34**
+
+[TODO]
+
+**Numbers 10:35**
+
+[TODO]
+
+**Numbers 10:36**
+
+[TODO]
+
+### Chapter 11
+
+**Numbers 11:1**
+
+[TODO]
+
+**Numbers 11:2**
+
+[TODO]
+
+**Numbers 11:3**
+
+[TODO]
+
+**Numbers 11:4**
+
+[TODO]
+
+**Numbers 11:5**
+
+[TODO]
+
+**Numbers 11:6**
+
+[TODO]
+
+**Numbers 11:7**
+
+[TODO]
+
+**Numbers 11:8**
+
+[TODO]
+
+**Numbers 11:9**
+
+[TODO]
+
+**Numbers 11:10**
+
+[TODO]
+
+**Numbers 11:11**
+
+[TODO]
+
+**Numbers 11:12**
+
+[TODO]
+
+**Numbers 11:13**
+
+[TODO]
+
+**Numbers 11:14**
+
+[TODO]
+
+**Numbers 11:15**
+
+[TODO]
+
+**Numbers 11:16**
+
+[TODO]
+
+**Numbers 11:17**
+
+[TODO]
+
+**Numbers 11:18**
+
+[TODO]
+
+**Numbers 11:19**
+
+[TODO]
+
+**Numbers 11:20**
+
+[TODO]
+
+**Numbers 11:21**
+
+[TODO]
+
+**Numbers 11:22**
+
+[TODO]
+
+**Numbers 11:23**
+
+[TODO]
+
+**Numbers 11:24**
+
+[TODO]
+
+**Numbers 11:25**
+
+[TODO]
+
+**Numbers 11:26**
+
+[TODO]
+
+**Numbers 11:27**
+
+[TODO]
+
+**Numbers 11:28**
+
+[TODO]
+
+**Numbers 11:29**
+
+[TODO]
+
+**Numbers 11:30**
+
+[TODO]
+
+**Numbers 11:31**
+
+[TODO]
+
+**Numbers 11:32**
+
+[TODO]
+
+**Numbers 11:33**
+
+[TODO]
+
+**Numbers 11:34**
+
+[TODO]
+
+**Numbers 11:35**
+
+[TODO]
+
+### Chapter 12
+
+**Numbers 12:1**
+
+[TODO]
+
+**Numbers 12:2**
+
+[TODO]
+
+**Numbers 12:3**
+
+[TODO]
+
+**Numbers 12:4**
+
+[TODO]
+
+**Numbers 12:5**
+
+[TODO]
+
+**Numbers 12:6**
+
+[TODO]
+
+**Numbers 12:7**
+
+[TODO]
+
+**Numbers 12:8**
+
+[TODO]
+
+**Numbers 12:9**
+
+[TODO]
+
+**Numbers 12:10**
+
+[TODO]
+
+**Numbers 12:11**
+
+[TODO]
+
+**Numbers 12:12**
+
+[TODO]
+
+**Numbers 12:13**
+
+[TODO]
+
+**Numbers 12:14**
+
+[TODO]
+
+**Numbers 12:15**
+
+[TODO]
+
+**Numbers 12:16**
+
+[TODO]
+
+### Chapter 13
+
+**Numbers 13:1**
+
+[TODO]
+
+**Numbers 13:2**
+
+[TODO]
+
+**Numbers 13:3**
+
+[TODO]
+
+**Numbers 13:4**
+
+[TODO]
+
+**Numbers 13:5**
+
+[TODO]
+
+**Numbers 13:6**
+
+[TODO]
+
+**Numbers 13:7**
+
+[TODO]
+
+**Numbers 13:8**
+
+[TODO]
+
+**Numbers 13:9**
+
+[TODO]
+
+**Numbers 13:10**
+
+[TODO]
+
+**Numbers 13:11**
+
+[TODO]
+
+**Numbers 13:12**
+
+[TODO]
+
+**Numbers 13:13**
+
+[TODO]
+
+**Numbers 13:14**
+
+[TODO]
+
+**Numbers 13:15**
+
+[TODO]
+
+**Numbers 13:16**
+
+[TODO]
+
+**Numbers 13:17**
+
+[TODO]
+
+**Numbers 13:18**
+
+[TODO]
+
+**Numbers 13:19**
+
+[TODO]
+
+**Numbers 13:20**
+
+[TODO]
+
+**Numbers 13:21**
+
+[TODO]
+
+**Numbers 13:22**
+
+[TODO]
+
+**Numbers 13:23**
+
+[TODO]
+
+**Numbers 13:24**
+
+[TODO]
+
+**Numbers 13:25**
+
+[TODO]
+
+**Numbers 13:26**
+
+[TODO]
+
+**Numbers 13:27**
+
+[TODO]
+
+**Numbers 13:28**
+
+[TODO]
+
+**Numbers 13:29**
+
+[TODO]
+
+**Numbers 13:30**
+
+[TODO]
+
+**Numbers 13:31**
+
+[TODO]
+
+**Numbers 13:32**
+
+[TODO]
+
+**Numbers 13:33**
+
+[TODO]
+
+### Chapter 14
+
+**Numbers 14:1**
+
+[TODO]
+
+**Numbers 14:2**
+
+[TODO]
+
+**Numbers 14:3**
+
+[TODO]
+
+**Numbers 14:4**
+
+[TODO]
+
+**Numbers 14:5**
+
+[TODO]
+
+**Numbers 14:6**
+
+[TODO]
+
+**Numbers 14:7**
+
+[TODO]
+
+**Numbers 14:8**
+
+[TODO]
+
+**Numbers 14:9**
+
+[TODO]
+
+**Numbers 14:10**
+
+[TODO]
+
+**Numbers 14:11**
+
+[TODO]
+
+**Numbers 14:12**
+
+[TODO]
+
+**Numbers 14:13**
+
+[TODO]
+
+**Numbers 14:14**
+
+[TODO]
+
+**Numbers 14:15**
+
+[TODO]
+
+**Numbers 14:16**
+
+[TODO]
+
+**Numbers 14:17**
+
+[TODO]
+
+**Numbers 14:18**
+
+[TODO]
+
+**Numbers 14:19**
+
+[TODO]
+
+**Numbers 14:20**
+
+[TODO]
+
+**Numbers 14:21**
+
+[TODO]
+
+**Numbers 14:22**
+
+[TODO]
+
+**Numbers 14:23**
+
+[TODO]
+
+**Numbers 14:24**
+
+[TODO]
+
+**Numbers 14:25**
+
+[TODO]
+
+**Numbers 14:26**
+
+[TODO]
+
+**Numbers 14:27**
+
+[TODO]
+
+**Numbers 14:28**
+
+[TODO]
+
+**Numbers 14:29**
+
+[TODO]
+
+**Numbers 14:30**
+
+[TODO]
+
+**Numbers 14:31**
+
+[TODO]
+
+**Numbers 14:32**
+
+[TODO]
+
+**Numbers 14:33**
+
+[TODO]
+
+**Numbers 14:34**
+
+[TODO]
+
+**Numbers 14:35**
+
+[TODO]
+
+**Numbers 14:36**
+
+[TODO]
+
+**Numbers 14:37**
+
+[TODO]
+
+**Numbers 14:38**
+
+[TODO]
+
+**Numbers 14:39**
+
+[TODO]
+
+**Numbers 14:40**
+
+[TODO]
+
+**Numbers 14:41**
+
+[TODO]
+
+**Numbers 14:42**
+
+[TODO]
+
+**Numbers 14:43**
+
+[TODO]
+
+**Numbers 14:44**
+
+[TODO]
+
+**Numbers 14:45**
+
+[TODO]
+
+### Chapter 15
+
+**Numbers 15:1**
+
+[TODO]
+
+**Numbers 15:2**
+
+[TODO]
+
+**Numbers 15:3**
+
+[TODO]
+
+**Numbers 15:4**
+
+[TODO]
+
+**Numbers 15:5**
+
+[TODO]
+
+**Numbers 15:6**
+
+[TODO]
+
+**Numbers 15:7**
+
+[TODO]
+
+**Numbers 15:8**
+
+[TODO]
+
+**Numbers 15:9**
+
+[TODO]
+
+**Numbers 15:10**
+
+[TODO]
+
+**Numbers 15:11**
+
+[TODO]
+
+**Numbers 15:12**
+
+[TODO]
+
+**Numbers 15:13**
+
+[TODO]
+
+**Numbers 15:14**
+
+[TODO]
+
+**Numbers 15:15**
+
+[TODO]
+
+**Numbers 15:16**
+
+[TODO]
+
+**Numbers 15:17**
+
+[TODO]
+
+**Numbers 15:18**
+
+[TODO]
+
+**Numbers 15:19**
+
+[TODO]
+
+**Numbers 15:20**
+
+[TODO]
+
+**Numbers 15:21**
+
+[TODO]
+
+**Numbers 15:22**
+
+[TODO]
+
+**Numbers 15:23**
+
+[TODO]
+
+**Numbers 15:24**
+
+[TODO]
+
+**Numbers 15:25**
+
+[TODO]
+
+**Numbers 15:26**
+
+[TODO]
+
+**Numbers 15:27**
+
+[TODO]
+
+**Numbers 15:28**
+
+[TODO]
+
+**Numbers 15:29**
+
+[TODO]
+
+**Numbers 15:30**
+
+[TODO]
+
+**Numbers 15:31**
+
+[TODO]
+
+**Numbers 15:32**
+
+[TODO]
+
+**Numbers 15:33**
+
+[TODO]
+
+**Numbers 15:34**
+
+[TODO]
+
+**Numbers 15:35**
+
+[TODO]
+
+**Numbers 15:36**
+
+[TODO]
+
+**Numbers 15:37**
+
+[TODO]
+
+**Numbers 15:38**
+
+[TODO]
+
+**Numbers 15:39**
+
+[TODO]
+
+**Numbers 15:40**
+
+[TODO]
+
+**Numbers 15:41**
+
+[TODO]
+
+### Chapter 16
+
+**Numbers 16:1**
+
+[TODO]
+
+**Numbers 16:2**
+
+[TODO]
+
+**Numbers 16:3**
+
+[TODO]
+
+**Numbers 16:4**
+
+[TODO]
+
+**Numbers 16:5**
+
+[TODO]
+
+**Numbers 16:6**
+
+[TODO]
+
+**Numbers 16:7**
+
+[TODO]
+
+**Numbers 16:8**
+
+[TODO]
+
+**Numbers 16:9**
+
+[TODO]
+
+**Numbers 16:10**
+
+[TODO]
+
+**Numbers 16:11**
+
+[TODO]
+
+**Numbers 16:12**
+
+[TODO]
+
+**Numbers 16:13**
+
+[TODO]
+
+**Numbers 16:14**
+
+[TODO]
+
+**Numbers 16:15**
+
+[TODO]
+
+**Numbers 16:16**
+
+[TODO]
+
+**Numbers 16:17**
+
+[TODO]
+
+**Numbers 16:18**
+
+[TODO]
+
+**Numbers 16:19**
+
+[TODO]
+
+**Numbers 16:20**
+
+[TODO]
+
+**Numbers 16:21**
+
+[TODO]
+
+**Numbers 16:22**
+
+[TODO]
+
+**Numbers 16:23**
+
+[TODO]
+
+**Numbers 16:24**
+
+[TODO]
+
+**Numbers 16:25**
+
+[TODO]
+
+**Numbers 16:26**
+
+[TODO]
+
+**Numbers 16:27**
+
+[TODO]
+
+**Numbers 16:28**
+
+[TODO]
+
+**Numbers 16:29**
+
+[TODO]
+
+**Numbers 16:30**
+
+[TODO]
+
+**Numbers 16:31**
+
+[TODO]
+
+**Numbers 16:32**
+
+[TODO]
+
+**Numbers 16:33**
+
+[TODO]
+
+**Numbers 16:34**
+
+[TODO]
+
+**Numbers 16:35**
+
+[TODO]
+
+### Chapter 17
+
+**Numbers 17:1**
+
+[TODO]
+
+**Numbers 17:2**
+
+[TODO]
+
+**Numbers 17:3**
+
+[TODO]
+
+**Numbers 17:4**
+
+[TODO]
+
+**Numbers 17:5**
+
+[TODO]
+
+**Numbers 17:6**
+
+[TODO]
+
+**Numbers 17:7**
+
+[TODO]
+
+**Numbers 17:8**
+
+[TODO]
+
+**Numbers 17:9**
+
+[TODO]
+
+**Numbers 17:10**
+
+[TODO]
+
+**Numbers 17:11**
+
+[TODO]
+
+**Numbers 17:12**
+
+[TODO]
+
+**Numbers 17:13**
+
+[TODO]
+
+**Numbers 17:14**
+
+[TODO]
+
+**Numbers 17:15**
+
+[TODO]
+
+**Numbers 17:16**
+
+[TODO]
+
+**Numbers 17:17**
+
+[TODO]
+
+**Numbers 17:18**
+
+[TODO]
+
+**Numbers 17:19**
+
+[TODO]
+
+**Numbers 17:20**
+
+[TODO]
+
+**Numbers 17:21**
+
+[TODO]
+
+**Numbers 17:22**
+
+[TODO]
+
+**Numbers 17:23**
+
+[TODO]
+
+**Numbers 17:24**
+
+[TODO]
+
+**Numbers 17:25**
+
+[TODO]
+
+**Numbers 17:26**
+
+[TODO]
+
+**Numbers 17:27**
+
+[TODO]
+
+**Numbers 17:28**
+
+[TODO]
+
+### Chapter 18
+
+**Numbers 18:1**
+
+[TODO]
+
+**Numbers 18:2**
+
+[TODO]
+
+**Numbers 18:3**
+
+[TODO]
+
+**Numbers 18:4**
+
+[TODO]
+
+**Numbers 18:5**
+
+[TODO]
+
+**Numbers 18:6**
+
+[TODO]
+
+**Numbers 18:7**
+
+[TODO]
+
+**Numbers 18:8**
+
+[TODO]
+
+**Numbers 18:9**
+
+[TODO]
+
+**Numbers 18:10**
+
+[TODO]
+
+**Numbers 18:11**
+
+[TODO]
+
+**Numbers 18:12**
+
+[TODO]
+
+**Numbers 18:13**
+
+[TODO]
+
+**Numbers 18:14**
+
+[TODO]
+
+**Numbers 18:15**
+
+[TODO]
+
+**Numbers 18:16**
+
+[TODO]
+
+**Numbers 18:17**
+
+[TODO]
+
+**Numbers 18:18**
+
+[TODO]
+
+**Numbers 18:19**
+
+[TODO]
+
+**Numbers 18:20**
+
+[TODO]
+
+**Numbers 18:21**
+
+[TODO]
+
+**Numbers 18:22**
+
+[TODO]
+
+**Numbers 18:23**
+
+[TODO]
+
+**Numbers 18:24**
+
+[TODO]
+
+**Numbers 18:25**
+
+[TODO]
+
+**Numbers 18:26**
+
+[TODO]
+
+**Numbers 18:27**
+
+[TODO]
+
+**Numbers 18:28**
+
+[TODO]
+
+**Numbers 18:29**
+
+[TODO]
+
+**Numbers 18:30**
+
+[TODO]
+
+**Numbers 18:31**
+
+[TODO]
+
+**Numbers 18:32**
+
+[TODO]
+
+### Chapter 19
+
+**Numbers 19:1**
+
+[TODO]
+
+**Numbers 19:2**
+
+[TODO]
+
+**Numbers 19:3**
+
+[TODO]
+
+**Numbers 19:4**
+
+[TODO]
+
+**Numbers 19:5**
+
+[TODO]
+
+**Numbers 19:6**
+
+[TODO]
+
+**Numbers 19:7**
+
+[TODO]
+
+**Numbers 19:8**
+
+[TODO]
+
+**Numbers 19:9**
+
+[TODO]
+
+**Numbers 19:10**
+
+[TODO]
+
+**Numbers 19:11**
+
+[TODO]
+
+**Numbers 19:12**
+
+[TODO]
+
+**Numbers 19:13**
+
+[TODO]
+
+**Numbers 19:14**
+
+[TODO]
+
+**Numbers 19:15**
+
+[TODO]
+
+**Numbers 19:16**
+
+[TODO]
+
+**Numbers 19:17**
+
+[TODO]
+
+**Numbers 19:18**
+
+[TODO]
+
+**Numbers 19:19**
+
+[TODO]
+
+**Numbers 19:20**
+
+[TODO]
+
+**Numbers 19:21**
+
+[TODO]
+
+**Numbers 19:22**
+
+[TODO]
+
+### Chapter 20
+
+**Numbers 20:1**
+
+[TODO]
+
+**Numbers 20:2**
+
+[TODO]
+
+**Numbers 20:3**
+
+[TODO]
+
+**Numbers 20:4**
+
+[TODO]
+
+**Numbers 20:5**
+
+[TODO]
+
+**Numbers 20:6**
+
+[TODO]
+
+**Numbers 20:7**
+
+[TODO]
+
+**Numbers 20:8**
+
+[TODO]
+
+**Numbers 20:9**
+
+[TODO]
+
+**Numbers 20:10**
+
+[TODO]
+
+**Numbers 20:11**
+
+[TODO]
+
+**Numbers 20:12**
+
+[TODO]
+
+**Numbers 20:13**
+
+[TODO]
+
+**Numbers 20:14**
+
+[TODO]
+
+**Numbers 20:15**
+
+[TODO]
+
+**Numbers 20:16**
+
+[TODO]
+
+**Numbers 20:17**
+
+[TODO]
+
+**Numbers 20:18**
+
+[TODO]
+
+**Numbers 20:19**
+
+[TODO]
+
+**Numbers 20:20**
+
+[TODO]
+
+**Numbers 20:21**
+
+[TODO]
+
+**Numbers 20:22**
+
+[TODO]
+
+**Numbers 20:23**
+
+[TODO]
+
+**Numbers 20:24**
+
+[TODO]
+
+**Numbers 20:25**
+
+[TODO]
+
+**Numbers 20:26**
+
+[TODO]
+
+**Numbers 20:27**
+
+[TODO]
+
+**Numbers 20:28**
+
+[TODO]
+
+**Numbers 20:29**
+
+[TODO]
+
+### Chapter 21
+
+**Numbers 21:1**
+
+[TODO]
+
+**Numbers 21:2**
+
+[TODO]
+
+**Numbers 21:3**
+
+[TODO]
+
+**Numbers 21:4**
+
+[TODO]
+
+**Numbers 21:5**
+
+[TODO]
+
+**Numbers 21:6**
+
+[TODO]
+
+**Numbers 21:7**
+
+[TODO]
+
+**Numbers 21:8**
+
+[TODO]
+
+**Numbers 21:9**
+
+[TODO]
+
+**Numbers 21:10**
+
+[TODO]
+
+**Numbers 21:11**
+
+[TODO]
+
+**Numbers 21:12**
+
+[TODO]
+
+**Numbers 21:13**
+
+[TODO]
+
+**Numbers 21:14**
+
+[TODO]
+
+**Numbers 21:15**
+
+[TODO]
+
+**Numbers 21:16**
+
+[TODO]
+
+**Numbers 21:17**
+
+[TODO]
+
+**Numbers 21:18**
+
+[TODO]
+
+**Numbers 21:19**
+
+[TODO]
+
+**Numbers 21:20**
+
+[TODO]
+
+**Numbers 21:21**
+
+[TODO]
+
+**Numbers 21:22**
+
+[TODO]
+
+**Numbers 21:23**
+
+[TODO]
+
+**Numbers 21:24**
+
+[TODO]
+
+**Numbers 21:25**
+
+[TODO]
+
+**Numbers 21:26**
+
+[TODO]
+
+**Numbers 21:27**
+
+[TODO]
+
+**Numbers 21:28**
+
+[TODO]
+
+**Numbers 21:29**
+
+[TODO]
+
+**Numbers 21:30**
+
+[TODO]
+
+**Numbers 21:31**
+
+[TODO]
+
+**Numbers 21:32**
+
+[TODO]
+
+**Numbers 21:33**
+
+[TODO]
+
+**Numbers 21:34**
+
+[TODO]
+
+**Numbers 21:35**
+
+[TODO]
+
+### Chapter 22
+
+**Numbers 22:1**
+
+[TODO]
+
+**Numbers 22:2**
+
+[TODO]
+
+**Numbers 22:3**
+
+[TODO]
+
+**Numbers 22:4**
+
+[TODO]
+
+**Numbers 22:5**
+
+[TODO]
+
+**Numbers 22:6**
+
+[TODO]
+
+**Numbers 22:7**
+
+[TODO]
+
+**Numbers 22:8**
+
+[TODO]
+
+**Numbers 22:9**
+
+[TODO]
+
+**Numbers 22:10**
+
+[TODO]
+
+**Numbers 22:11**
+
+[TODO]
+
+**Numbers 22:12**
+
+[TODO]
+
+**Numbers 22:13**
+
+[TODO]
+
+**Numbers 22:14**
+
+[TODO]
+
+**Numbers 22:15**
+
+[TODO]
+
+**Numbers 22:16**
+
+[TODO]
+
+**Numbers 22:17**
+
+[TODO]
+
+**Numbers 22:18**
+
+[TODO]
+
+**Numbers 22:19**
+
+[TODO]
+
+**Numbers 22:20**
+
+[TODO]
+
+**Numbers 22:21**
+
+[TODO]
+
+**Numbers 22:22**
+
+[TODO]
+
+**Numbers 22:23**
+
+[TODO]
+
+**Numbers 22:24**
+
+[TODO]
+
+**Numbers 22:25**
+
+[TODO]
+
+**Numbers 22:26**
+
+[TODO]
+
+**Numbers 22:27**
+
+[TODO]
+
+**Numbers 22:28**
+
+[TODO]
+
+**Numbers 22:29**
+
+[TODO]
+
+**Numbers 22:30**
+
+[TODO]
+
+**Numbers 22:31**
+
+[TODO]
+
+**Numbers 22:32**
+
+[TODO]
+
+**Numbers 22:33**
+
+[TODO]
+
+**Numbers 22:34**
+
+[TODO]
+
+**Numbers 22:35**
+
+[TODO]
+
+**Numbers 22:36**
+
+[TODO]
+
+**Numbers 22:37**
+
+[TODO]
+
+**Numbers 22:38**
+
+[TODO]
+
+**Numbers 22:39**
+
+[TODO]
+
+**Numbers 22:40**
+
+[TODO]
+
+**Numbers 22:41**
+
+[TODO]
+
+### Chapter 23
+
+**Numbers 23:1**
+
+[TODO]
+
+**Numbers 23:2**
+
+[TODO]
+
+**Numbers 23:3**
+
+[TODO]
+
+**Numbers 23:4**
+
+[TODO]
+
+**Numbers 23:5**
+
+[TODO]
+
+**Numbers 23:6**
+
+[TODO]
+
+**Numbers 23:7**
+
+[TODO]
+
+**Numbers 23:8**
+
+[TODO]
+
+**Numbers 23:9**
+
+[TODO]
+
+**Numbers 23:10**
+
+[TODO]
+
+**Numbers 23:11**
+
+[TODO]
+
+**Numbers 23:12**
+
+[TODO]
+
+**Numbers 23:13**
+
+[TODO]
+
+**Numbers 23:14**
+
+[TODO]
+
+**Numbers 23:15**
+
+[TODO]
+
+**Numbers 23:16**
+
+[TODO]
+
+**Numbers 23:17**
+
+[TODO]
+
+**Numbers 23:18**
+
+[TODO]
+
+**Numbers 23:19**
+
+[TODO]
+
+**Numbers 23:20**
+
+[TODO]
+
+**Numbers 23:21**
+
+[TODO]
+
+**Numbers 23:22**
+
+[TODO]
+
+**Numbers 23:23**
+
+[TODO]
+
+**Numbers 23:24**
+
+[TODO]
+
+**Numbers 23:25**
+
+[TODO]
+
+**Numbers 23:26**
+
+[TODO]
+
+**Numbers 23:27**
+
+[TODO]
+
+**Numbers 23:28**
+
+[TODO]
+
+**Numbers 23:29**
+
+[TODO]
+
+**Numbers 23:30**
+
+[TODO]
+
+### Chapter 24
+
+**Numbers 24:1**
+
+[TODO]
+
+**Numbers 24:2**
+
+[TODO]
+
+**Numbers 24:3**
+
+[TODO]
+
+**Numbers 24:4**
+
+[TODO]
+
+**Numbers 24:5**
+
+[TODO]
+
+**Numbers 24:6**
+
+[TODO]
+
+**Numbers 24:7**
+
+[TODO]
+
+**Numbers 24:8**
+
+[TODO]
+
+**Numbers 24:9**
+
+[TODO]
+
+**Numbers 24:10**
+
+[TODO]
+
+**Numbers 24:11**
+
+[TODO]
+
+**Numbers 24:12**
+
+[TODO]
+
+**Numbers 24:13**
+
+[TODO]
+
+**Numbers 24:14**
+
+[TODO]
+
+**Numbers 24:15**
+
+[TODO]
+
+**Numbers 24:16**
+
+[TODO]
+
+**Numbers 24:17**
+
+[TODO]
+
+**Numbers 24:18**
+
+[TODO]
+
+**Numbers 24:19**
+
+[TODO]
+
+**Numbers 24:20**
+
+[TODO]
+
+**Numbers 24:21**
+
+[TODO]
+
+**Numbers 24:22**
+
+[TODO]
+
+**Numbers 24:23**
+
+[TODO]
+
+**Numbers 24:24**
+
+[TODO]
+
+**Numbers 24:25**
+
+[TODO]
+
+### Chapter 25
+
+**Numbers 25:1**
+
+[TODO]
+
+**Numbers 25:2**
+
+[TODO]
+
+**Numbers 25:3**
+
+[TODO]
+
+**Numbers 25:4**
+
+[TODO]
+
+**Numbers 25:5**
+
+[TODO]
+
+**Numbers 25:6**
+
+[TODO]
+
+**Numbers 25:7**
+
+[TODO]
+
+**Numbers 25:8**
+
+[TODO]
+
+**Numbers 25:9**
+
+[TODO]
+
+**Numbers 25:10**
+
+[TODO]
+
+**Numbers 25:11**
+
+[TODO]
+
+**Numbers 25:12**
+
+[TODO]
+
+**Numbers 25:13**
+
+[TODO]
+
+**Numbers 25:14**
+
+[TODO]
+
+**Numbers 25:15**
+
+[TODO]
+
+**Numbers 25:16**
+
+[TODO]
+
+**Numbers 25:17**
+
+[TODO]
+
+**Numbers 25:18**
+
+[TODO]
+
+### Chapter 26
+
+**Numbers 26:1**
+
+[TODO]
+
+**Numbers 26:2**
+
+[TODO]
+
+**Numbers 26:3**
+
+[TODO]
+
+**Numbers 26:4**
+
+[TODO]
+
+**Numbers 26:5**
+
+[TODO]
+
+**Numbers 26:6**
+
+[TODO]
+
+**Numbers 26:7**
+
+[TODO]
+
+**Numbers 26:8**
+
+[TODO]
+
+**Numbers 26:9**
+
+[TODO]
+
+**Numbers 26:10**
+
+[TODO]
+
+**Numbers 26:11**
+
+[TODO]
+
+**Numbers 26:12**
+
+[TODO]
+
+**Numbers 26:13**
+
+[TODO]
+
+**Numbers 26:14**
+
+[TODO]
+
+**Numbers 26:15**
+
+[TODO]
+
+**Numbers 26:16**
+
+[TODO]
+
+**Numbers 26:17**
+
+[TODO]
+
+**Numbers 26:18**
+
+[TODO]
+
+**Numbers 26:19**
+
+[TODO]
+
+**Numbers 26:20**
+
+[TODO]
+
+**Numbers 26:21**
+
+[TODO]
+
+**Numbers 26:22**
+
+[TODO]
+
+**Numbers 26:23**
+
+[TODO]
+
+**Numbers 26:24**
+
+[TODO]
+
+**Numbers 26:25**
+
+[TODO]
+
+**Numbers 26:26**
+
+[TODO]
+
+**Numbers 26:27**
+
+[TODO]
+
+**Numbers 26:28**
+
+[TODO]
+
+**Numbers 26:29**
+
+[TODO]
+
+**Numbers 26:30**
+
+[TODO]
+
+**Numbers 26:31**
+
+[TODO]
+
+**Numbers 26:32**
+
+[TODO]
+
+**Numbers 26:33**
+
+[TODO]
+
+**Numbers 26:34**
+
+[TODO]
+
+**Numbers 26:35**
+
+[TODO]
+
+**Numbers 26:36**
+
+[TODO]
+
+**Numbers 26:37**
+
+[TODO]
+
+**Numbers 26:38**
+
+[TODO]
+
+**Numbers 26:39**
+
+[TODO]
+
+**Numbers 26:40**
+
+[TODO]
+
+**Numbers 26:41**
+
+[TODO]
+
+**Numbers 26:42**
+
+[TODO]
+
+**Numbers 26:43**
+
+[TODO]
+
+**Numbers 26:44**
+
+[TODO]
+
+**Numbers 26:45**
+
+[TODO]
+
+**Numbers 26:46**
+
+[TODO]
+
+**Numbers 26:47**
+
+[TODO]
+
+**Numbers 26:48**
+
+[TODO]
+
+**Numbers 26:49**
+
+[TODO]
+
+**Numbers 26:50**
+
+[TODO]
+
+**Numbers 26:51**
+
+[TODO]
+
+**Numbers 26:52**
+
+[TODO]
+
+**Numbers 26:53**
+
+[TODO]
+
+**Numbers 26:54**
+
+[TODO]
+
+**Numbers 26:55**
+
+[TODO]
+
+**Numbers 26:56**
+
+[TODO]
+
+**Numbers 26:57**
+
+[TODO]
+
+**Numbers 26:58**
+
+[TODO]
+
+**Numbers 26:59**
+
+[TODO]
+
+**Numbers 26:60**
+
+[TODO]
+
+**Numbers 26:61**
+
+[TODO]
+
+**Numbers 26:62**
+
+[TODO]
+
+**Numbers 26:63**
+
+[TODO]
+
+**Numbers 26:64**
+
+[TODO]
+
+**Numbers 26:65**
+
+[TODO]
+
+### Chapter 27
+
+**Numbers 27:1**
+
+[TODO]
+
+**Numbers 27:2**
+
+[TODO]
+
+**Numbers 27:3**
+
+[TODO]
+
+**Numbers 27:4**
+
+[TODO]
+
+**Numbers 27:5**
+
+[TODO]
+
+**Numbers 27:6**
+
+[TODO]
+
+**Numbers 27:7**
+
+[TODO]
+
+**Numbers 27:8**
+
+[TODO]
+
+**Numbers 27:9**
+
+[TODO]
+
+**Numbers 27:10**
+
+[TODO]
+
+**Numbers 27:11**
+
+[TODO]
+
+**Numbers 27:12**
+
+[TODO]
+
+**Numbers 27:13**
+
+[TODO]
+
+**Numbers 27:14**
+
+[TODO]
+
+**Numbers 27:15**
+
+[TODO]
+
+**Numbers 27:16**
+
+[TODO]
+
+**Numbers 27:17**
+
+[TODO]
+
+**Numbers 27:18**
+
+[TODO]
+
+**Numbers 27:19**
+
+[TODO]
+
+**Numbers 27:20**
+
+[TODO]
+
+**Numbers 27:21**
+
+[TODO]
+
+**Numbers 27:22**
+
+[TODO]
+
+**Numbers 27:23**
+
+[TODO]
+
+### Chapter 28
+
+**Numbers 28:1**
+
+[TODO]
+
+**Numbers 28:2**
+
+[TODO]
+
+**Numbers 28:3**
+
+[TODO]
+
+**Numbers 28:4**
+
+[TODO]
+
+**Numbers 28:5**
+
+[TODO]
+
+**Numbers 28:6**
+
+[TODO]
+
+**Numbers 28:7**
+
+[TODO]
+
+**Numbers 28:8**
+
+[TODO]
+
+**Numbers 28:9**
+
+[TODO]
+
+**Numbers 28:10**
+
+[TODO]
+
+**Numbers 28:11**
+
+[TODO]
+
+**Numbers 28:12**
+
+[TODO]
+
+**Numbers 28:13**
+
+[TODO]
+
+**Numbers 28:14**
+
+[TODO]
+
+**Numbers 28:15**
+
+[TODO]
+
+**Numbers 28:16**
+
+[TODO]
+
+**Numbers 28:17**
+
+[TODO]
+
+**Numbers 28:18**
+
+[TODO]
+
+**Numbers 28:19**
+
+[TODO]
+
+**Numbers 28:20**
+
+[TODO]
+
+**Numbers 28:21**
+
+[TODO]
+
+**Numbers 28:22**
+
+[TODO]
+
+**Numbers 28:23**
+
+[TODO]
+
+**Numbers 28:24**
+
+[TODO]
+
+**Numbers 28:25**
+
+[TODO]
+
+**Numbers 28:26**
+
+[TODO]
+
+**Numbers 28:27**
+
+[TODO]
+
+**Numbers 28:28**
+
+[TODO]
+
+**Numbers 28:29**
+
+[TODO]
+
+**Numbers 28:30**
+
+[TODO]
+
+**Numbers 28:31**
+
+[TODO]
+
+### Chapter 29
+
+**Numbers 29:1**
+
+[TODO]
+
+**Numbers 29:2**
+
+[TODO]
+
+**Numbers 29:3**
+
+[TODO]
+
+**Numbers 29:4**
+
+[TODO]
+
+**Numbers 29:5**
+
+[TODO]
+
+**Numbers 29:6**
+
+[TODO]
+
+**Numbers 29:7**
+
+[TODO]
+
+**Numbers 29:8**
+
+[TODO]
+
+**Numbers 29:9**
+
+[TODO]
+
+**Numbers 29:10**
+
+[TODO]
+
+**Numbers 29:11**
+
+[TODO]
+
+**Numbers 29:12**
+
+[TODO]
+
+**Numbers 29:13**
+
+[TODO]
+
+**Numbers 29:14**
+
+[TODO]
+
+**Numbers 29:15**
+
+[TODO]
+
+**Numbers 29:16**
+
+[TODO]
+
+**Numbers 29:17**
+
+[TODO]
+
+**Numbers 29:18**
+
+[TODO]
+
+**Numbers 29:19**
+
+[TODO]
+
+**Numbers 29:20**
+
+[TODO]
+
+**Numbers 29:21**
+
+[TODO]
+
+**Numbers 29:22**
+
+[TODO]
+
+**Numbers 29:23**
+
+[TODO]
+
+**Numbers 29:24**
+
+[TODO]
+
+**Numbers 29:25**
+
+[TODO]
+
+**Numbers 29:26**
+
+[TODO]
+
+**Numbers 29:27**
+
+[TODO]
+
+**Numbers 29:28**
+
+[TODO]
+
+**Numbers 29:29**
+
+[TODO]
+
+**Numbers 29:30**
+
+[TODO]
+
+**Numbers 29:31**
+
+[TODO]
+
+**Numbers 29:32**
+
+[TODO]
+
+**Numbers 29:33**
+
+[TODO]
+
+**Numbers 29:34**
+
+[TODO]
+
+**Numbers 29:35**
+
+[TODO]
+
+**Numbers 29:36**
+
+[TODO]
+
+**Numbers 29:37**
+
+[TODO]
+
+**Numbers 29:38**
+
+[TODO]
+
+**Numbers 29:39**
+
+[TODO]
+
+### Chapter 30
+
+**Numbers 30:1**
+
+[TODO]
+
+**Numbers 30:2**
+
+[TODO]
+
+**Numbers 30:3**
+
+[TODO]
+
+**Numbers 30:4**
+
+[TODO]
+
+**Numbers 30:5**
+
+[TODO]
+
+**Numbers 30:6**
+
+[TODO]
+
+**Numbers 30:7**
+
+[TODO]
+
+**Numbers 30:8**
+
+[TODO]
+
+**Numbers 30:9**
+
+[TODO]
+
+**Numbers 30:10**
+
+[TODO]
+
+**Numbers 30:11**
+
+[TODO]
+
+**Numbers 30:12**
+
+[TODO]
+
+**Numbers 30:13**
+
+[TODO]
+
+**Numbers 30:14**
+
+[TODO]
+
+**Numbers 30:15**
+
+[TODO]
+
+**Numbers 30:16**
+
+[TODO]
+
+**Numbers 30:17**
+
+[TODO]
+
+### Chapter 31
+
+**Numbers 31:1**
+
+[TODO]
+
+**Numbers 31:2**
+
+[TODO]
+
+**Numbers 31:3**
+
+[TODO]
+
+**Numbers 31:4**
+
+[TODO]
+
+**Numbers 31:5**
+
+[TODO]
+
+**Numbers 31:6**
+
+[TODO]
+
+**Numbers 31:7**
+
+[TODO]
+
+**Numbers 31:8**
+
+[TODO]
+
+**Numbers 31:9**
+
+[TODO]
+
+**Numbers 31:10**
+
+[TODO]
+
+**Numbers 31:11**
+
+[TODO]
+
+**Numbers 31:12**
+
+[TODO]
+
+**Numbers 31:13**
+
+[TODO]
+
+**Numbers 31:14**
+
+[TODO]
+
+**Numbers 31:15**
+
+[TODO]
+
+**Numbers 31:16**
+
+[TODO]
+
+**Numbers 31:17**
+
+[TODO]
+
+**Numbers 31:18**
+
+[TODO]
+
+**Numbers 31:19**
+
+[TODO]
+
+**Numbers 31:20**
+
+[TODO]
+
+**Numbers 31:21**
+
+[TODO]
+
+**Numbers 31:22**
+
+[TODO]
+
+**Numbers 31:23**
+
+[TODO]
+
+**Numbers 31:24**
+
+[TODO]
+
+**Numbers 31:25**
+
+[TODO]
+
+**Numbers 31:26**
+
+[TODO]
+
+**Numbers 31:27**
+
+[TODO]
+
+**Numbers 31:28**
+
+[TODO]
+
+**Numbers 31:29**
+
+[TODO]
+
+**Numbers 31:30**
+
+[TODO]
+
+**Numbers 31:31**
+
+[TODO]
+
+**Numbers 31:32**
+
+[TODO]
+
+**Numbers 31:33**
+
+[TODO]
+
+**Numbers 31:34**
+
+[TODO]
+
+**Numbers 31:35**
+
+[TODO]
+
+**Numbers 31:36**
+
+[TODO]
+
+**Numbers 31:37**
+
+[TODO]
+
+**Numbers 31:38**
+
+[TODO]
+
+**Numbers 31:39**
+
+[TODO]
+
+**Numbers 31:40**
+
+[TODO]
+
+**Numbers 31:41**
+
+[TODO]
+
+**Numbers 31:42**
+
+[TODO]
+
+**Numbers 31:43**
+
+[TODO]
+
+**Numbers 31:44**
+
+[TODO]
+
+**Numbers 31:45**
+
+[TODO]
+
+**Numbers 31:46**
+
+[TODO]
+
+**Numbers 31:47**
+
+[TODO]
+
+**Numbers 31:48**
+
+[TODO]
+
+**Numbers 31:49**
+
+[TODO]
+
+**Numbers 31:50**
+
+[TODO]
+
+**Numbers 31:51**
+
+[TODO]
+
+**Numbers 31:52**
+
+[TODO]
+
+**Numbers 31:53**
+
+[TODO]
+
+**Numbers 31:54**
+
+[TODO]
+
+### Chapter 32
+
+**Numbers 32:1**
+
+[TODO]
+
+**Numbers 32:2**
+
+[TODO]
+
+**Numbers 32:3**
+
+[TODO]
+
+**Numbers 32:4**
+
+[TODO]
+
+**Numbers 32:5**
+
+[TODO]
+
+**Numbers 32:6**
+
+[TODO]
+
+**Numbers 32:7**
+
+[TODO]
+
+**Numbers 32:8**
+
+[TODO]
+
+**Numbers 32:9**
+
+[TODO]
+
+**Numbers 32:10**
+
+[TODO]
+
+**Numbers 32:11**
+
+[TODO]
+
+**Numbers 32:12**
+
+[TODO]
+
+**Numbers 32:13**
+
+[TODO]
+
+**Numbers 32:14**
+
+[TODO]
+
+**Numbers 32:15**
+
+[TODO]
+
+**Numbers 32:16**
+
+[TODO]
+
+**Numbers 32:17**
+
+[TODO]
+
+**Numbers 32:18**
+
+[TODO]
+
+**Numbers 32:19**
+
+[TODO]
+
+**Numbers 32:20**
+
+[TODO]
+
+**Numbers 32:21**
+
+[TODO]
+
+**Numbers 32:22**
+
+[TODO]
+
+**Numbers 32:23**
+
+[TODO]
+
+**Numbers 32:24**
+
+[TODO]
+
+**Numbers 32:25**
+
+[TODO]
+
+**Numbers 32:26**
+
+[TODO]
+
+**Numbers 32:27**
+
+[TODO]
+
+**Numbers 32:28**
+
+[TODO]
+
+**Numbers 32:29**
+
+[TODO]
+
+**Numbers 32:30**
+
+[TODO]
+
+**Numbers 32:31**
+
+[TODO]
+
+**Numbers 32:32**
+
+[TODO]
+
+**Numbers 32:33**
+
+[TODO]
+
+**Numbers 32:34**
+
+[TODO]
+
+**Numbers 32:35**
+
+[TODO]
+
+**Numbers 32:36**
+
+[TODO]
+
+**Numbers 32:37**
+
+[TODO]
+
+**Numbers 32:38**
+
+[TODO]
+
+**Numbers 32:39**
+
+[TODO]
+
+**Numbers 32:40**
+
+[TODO]
+
+**Numbers 32:41**
+
+[TODO]
+
+**Numbers 32:42**
+
+[TODO]
+
+### Chapter 33
+
+**Numbers 33:1**
+
+[TODO]
+
+**Numbers 33:2**
+
+[TODO]
+
+**Numbers 33:3**
+
+[TODO]
+
+**Numbers 33:4**
+
+[TODO]
+
+**Numbers 33:5**
+
+[TODO]
+
+**Numbers 33:6**
+
+[TODO]
+
+**Numbers 33:7**
+
+[TODO]
+
+**Numbers 33:8**
+
+[TODO]
+
+**Numbers 33:9**
+
+[TODO]
+
+**Numbers 33:10**
+
+[TODO]
+
+**Numbers 33:11**
+
+[TODO]
+
+**Numbers 33:12**
+
+[TODO]
+
+**Numbers 33:13**
+
+[TODO]
+
+**Numbers 33:14**
+
+[TODO]
+
+**Numbers 33:15**
+
+[TODO]
+
+**Numbers 33:16**
+
+[TODO]
+
+**Numbers 33:17**
+
+[TODO]
+
+**Numbers 33:18**
+
+[TODO]
+
+**Numbers 33:19**
+
+[TODO]
+
+**Numbers 33:20**
+
+[TODO]
+
+**Numbers 33:21**
+
+[TODO]
+
+**Numbers 33:22**
+
+[TODO]
+
+**Numbers 33:23**
+
+[TODO]
+
+**Numbers 33:24**
+
+[TODO]
+
+**Numbers 33:25**
+
+[TODO]
+
+**Numbers 33:26**
+
+[TODO]
+
+**Numbers 33:27**
+
+[TODO]
+
+**Numbers 33:28**
+
+[TODO]
+
+**Numbers 33:29**
+
+[TODO]
+
+**Numbers 33:30**
+
+[TODO]
+
+**Numbers 33:31**
+
+[TODO]
+
+**Numbers 33:32**
+
+[TODO]
+
+**Numbers 33:33**
+
+[TODO]
+
+**Numbers 33:34**
+
+[TODO]
+
+**Numbers 33:35**
+
+[TODO]
+
+**Numbers 33:36**
+
+[TODO]
+
+**Numbers 33:37**
+
+[TODO]
+
+**Numbers 33:38**
+
+[TODO]
+
+**Numbers 33:39**
+
+[TODO]
+
+**Numbers 33:40**
+
+[TODO]
+
+**Numbers 33:41**
+
+[TODO]
+
+**Numbers 33:42**
+
+[TODO]
+
+**Numbers 33:43**
+
+[TODO]
+
+**Numbers 33:44**
+
+[TODO]
+
+**Numbers 33:45**
+
+[TODO]
+
+**Numbers 33:46**
+
+[TODO]
+
+**Numbers 33:47**
+
+[TODO]
+
+**Numbers 33:48**
+
+[TODO]
+
+**Numbers 33:49**
+
+[TODO]
+
+**Numbers 33:50**
+
+[TODO]
+
+**Numbers 33:51**
+
+[TODO]
+
+**Numbers 33:52**
+
+[TODO]
+
+**Numbers 33:53**
+
+[TODO]
+
+**Numbers 33:54**
+
+[TODO]
+
+**Numbers 33:55**
+
+[TODO]
+
+**Numbers 33:56**
+
+[TODO]
+
+### Chapter 34
+
+**Numbers 34:1**
+
+[TODO]
+
+**Numbers 34:2**
+
+[TODO]
+
+**Numbers 34:3**
+
+[TODO]
+
+**Numbers 34:4**
+
+[TODO]
+
+**Numbers 34:5**
+
+[TODO]
+
+**Numbers 34:6**
+
+[TODO]
+
+**Numbers 34:7**
+
+[TODO]
+
+**Numbers 34:8**
+
+[TODO]
+
+**Numbers 34:9**
+
+[TODO]
+
+**Numbers 34:10**
+
+[TODO]
+
+**Numbers 34:11**
+
+[TODO]
+
+**Numbers 34:12**
+
+[TODO]
+
+**Numbers 34:13**
+
+[TODO]
+
+**Numbers 34:14**
+
+[TODO]
+
+**Numbers 34:15**
+
+[TODO]
+
+**Numbers 34:16**
+
+[TODO]
+
+**Numbers 34:17**
+
+[TODO]
+
+**Numbers 34:18**
+
+[TODO]
+
+**Numbers 34:19**
+
+[TODO]
+
+**Numbers 34:20**
+
+[TODO]
+
+**Numbers 34:21**
+
+[TODO]
+
+**Numbers 34:22**
+
+[TODO]
+
+**Numbers 34:23**
+
+[TODO]
+
+**Numbers 34:24**
+
+[TODO]
+
+**Numbers 34:25**
+
+[TODO]
+
+**Numbers 34:26**
+
+[TODO]
+
+**Numbers 34:27**
+
+[TODO]
+
+**Numbers 34:28**
+
+[TODO]
+
+**Numbers 34:29**
+
+[TODO]
+
+### Chapter 35
+
+**Numbers 35:1**
+
+[TODO]
+
+**Numbers 35:2**
+
+[TODO]
+
+**Numbers 35:3**
+
+[TODO]
+
+**Numbers 35:4**
+
+[TODO]
+
+**Numbers 35:5**
+
+[TODO]
+
+**Numbers 35:6**
+
+[TODO]
+
+**Numbers 35:7**
+
+[TODO]
+
+**Numbers 35:8**
+
+[TODO]
+
+**Numbers 35:9**
+
+[TODO]
+
+**Numbers 35:10**
+
+[TODO]
+
+**Numbers 35:11**
+
+[TODO]
+
+**Numbers 35:12**
+
+[TODO]
+
+**Numbers 35:13**
+
+[TODO]
+
+**Numbers 35:14**
+
+[TODO]
+
+**Numbers 35:15**
+
+[TODO]
+
+**Numbers 35:16**
+
+[TODO]
+
+**Numbers 35:17**
+
+[TODO]
+
+**Numbers 35:18**
+
+[TODO]
+
+**Numbers 35:19**
+
+[TODO]
+
+**Numbers 35:20**
+
+[TODO]
+
+**Numbers 35:21**
+
+[TODO]
+
+**Numbers 35:22**
+
+[TODO]
+
+**Numbers 35:23**
+
+[TODO]
+
+**Numbers 35:24**
+
+[TODO]
+
+**Numbers 35:25**
+
+[TODO]
+
+**Numbers 35:26**
+
+[TODO]
+
+**Numbers 35:27**
+
+[TODO]
+
+**Numbers 35:28**
+
+[TODO]
+
+**Numbers 35:29**
+
+[TODO]
+
+**Numbers 35:30**
+
+[TODO]
+
+**Numbers 35:31**
+
+[TODO]
+
+**Numbers 35:32**
+
+[TODO]
+
+**Numbers 35:33**
+
+[TODO]
+
+**Numbers 35:34**
+
+[TODO]
+
+### Chapter 36
+
+**Numbers 36:1**
+
+[TODO]
+
+**Numbers 36:2**
+
+[TODO]
+
+**Numbers 36:3**
+
+[TODO]
+
+**Numbers 36:4**
+
+[TODO]
+
+**Numbers 36:5**
+
+[TODO]
+
+**Numbers 36:6**
+
+[TODO]
+
+**Numbers 36:7**
+
+[TODO]
+
+**Numbers 36:8**
+
+[TODO]
+
+**Numbers 36:9**
+
+[TODO]
+
+**Numbers 36:10**
+
+[TODO]
+
+**Numbers 36:11**
+
+[TODO]
+
+**Numbers 36:12**
+
+[TODO]
+
+**Numbers 36:13**
+
+[TODO]
+
+## Deuteronomy
+
+### Chapter 1
+
+**Deuteronomy 1:1**
+
+[TODO]
+
+**Deuteronomy 1:2**
+
+[TODO]
+
+**Deuteronomy 1:3**
+
+[TODO]
+
+**Deuteronomy 1:4**
+
+[TODO]
+
+**Deuteronomy 1:5**
+
+[TODO]
+
+**Deuteronomy 1:6**
+
+[TODO]
+
+**Deuteronomy 1:7**
+
+[TODO]
+
+**Deuteronomy 1:8**
+
+[TODO]
+
+**Deuteronomy 1:9**
+
+[TODO]
+
+**Deuteronomy 1:10**
+
+[TODO]
+
+**Deuteronomy 1:11**
+
+[TODO]
+
+**Deuteronomy 1:12**
+
+[TODO]
+
+**Deuteronomy 1:13**
+
+[TODO]
+
+**Deuteronomy 1:14**
+
+[TODO]
+
+**Deuteronomy 1:15**
+
+[TODO]
+
+**Deuteronomy 1:16**
+
+[TODO]
+
+**Deuteronomy 1:17**
+
+[TODO]
+
+**Deuteronomy 1:18**
+
+[TODO]
+
+**Deuteronomy 1:19**
+
+[TODO]
+
+**Deuteronomy 1:20**
+
+[TODO]
+
+**Deuteronomy 1:21**
+
+[TODO]
+
+**Deuteronomy 1:22**
+
+[TODO]
+
+**Deuteronomy 1:23**
+
+[TODO]
+
+**Deuteronomy 1:24**
+
+[TODO]
+
+**Deuteronomy 1:25**
+
+[TODO]
+
+**Deuteronomy 1:26**
+
+[TODO]
+
+**Deuteronomy 1:27**
+
+[TODO]
+
+**Deuteronomy 1:28**
+
+[TODO]
+
+**Deuteronomy 1:29**
+
+[TODO]
+
+**Deuteronomy 1:30**
+
+[TODO]
+
+**Deuteronomy 1:31**
+
+[TODO]
+
+**Deuteronomy 1:32**
+
+[TODO]
+
+**Deuteronomy 1:33**
+
+[TODO]
+
+**Deuteronomy 1:34**
+
+[TODO]
+
+**Deuteronomy 1:35**
+
+[TODO]
+
+**Deuteronomy 1:36**
+
+[TODO]
+
+**Deuteronomy 1:37**
+
+[TODO]
+
+**Deuteronomy 1:38**
+
+[TODO]
+
+**Deuteronomy 1:39**
+
+[TODO]
+
+**Deuteronomy 1:40**
+
+[TODO]
+
+**Deuteronomy 1:41**
+
+[TODO]
+
+**Deuteronomy 1:42**
+
+[TODO]
+
+**Deuteronomy 1:43**
+
+[TODO]
+
+**Deuteronomy 1:44**
+
+[TODO]
+
+**Deuteronomy 1:45**
+
+[TODO]
+
+**Deuteronomy 1:46**
+
+[TODO]
+
+### Chapter 2
+
+**Deuteronomy 2:1**
+
+[TODO]
+
+**Deuteronomy 2:2**
+
+[TODO]
+
+**Deuteronomy 2:3**
+
+[TODO]
+
+**Deuteronomy 2:4**
+
+[TODO]
+
+**Deuteronomy 2:5**
+
+[TODO]
+
+**Deuteronomy 2:6**
+
+[TODO]
+
+**Deuteronomy 2:7**
+
+[TODO]
+
+**Deuteronomy 2:8**
+
+[TODO]
+
+**Deuteronomy 2:9**
+
+[TODO]
+
+**Deuteronomy 2:10**
+
+[TODO]
+
+**Deuteronomy 2:11**
+
+[TODO]
+
+**Deuteronomy 2:12**
+
+[TODO]
+
+**Deuteronomy 2:13**
+
+[TODO]
+
+**Deuteronomy 2:14**
+
+[TODO]
+
+**Deuteronomy 2:15**
+
+[TODO]
+
+**Deuteronomy 2:16**
+
+[TODO]
+
+**Deuteronomy 2:17**
+
+[TODO]
+
+**Deuteronomy 2:18**
+
+[TODO]
+
+**Deuteronomy 2:19**
+
+[TODO]
+
+**Deuteronomy 2:20**
+
+[TODO]
+
+**Deuteronomy 2:21**
+
+[TODO]
+
+**Deuteronomy 2:22**
+
+[TODO]
+
+**Deuteronomy 2:23**
+
+[TODO]
+
+**Deuteronomy 2:24**
+
+[TODO]
+
+**Deuteronomy 2:25**
+
+[TODO]
+
+**Deuteronomy 2:26**
+
+[TODO]
+
+**Deuteronomy 2:27**
+
+[TODO]
+
+**Deuteronomy 2:28**
+
+[TODO]
+
+**Deuteronomy 2:29**
+
+[TODO]
+
+**Deuteronomy 2:30**
+
+[TODO]
+
+**Deuteronomy 2:31**
+
+[TODO]
+
+**Deuteronomy 2:32**
+
+[TODO]
+
+**Deuteronomy 2:33**
+
+[TODO]
+
+**Deuteronomy 2:34**
+
+[TODO]
+
+**Deuteronomy 2:35**
+
+[TODO]
+
+**Deuteronomy 2:36**
+
+[TODO]
+
+**Deuteronomy 2:37**
+
+[TODO]
+
+### Chapter 3
+
+**Deuteronomy 3:1**
+
+[TODO]
+
+**Deuteronomy 3:2**
+
+[TODO]
+
+**Deuteronomy 3:3**
+
+[TODO]
+
+**Deuteronomy 3:4**
+
+[TODO]
+
+**Deuteronomy 3:5**
+
+[TODO]
+
+**Deuteronomy 3:6**
+
+[TODO]
+
+**Deuteronomy 3:7**
+
+[TODO]
+
+**Deuteronomy 3:8**
+
+[TODO]
+
+**Deuteronomy 3:9**
+
+[TODO]
+
+**Deuteronomy 3:10**
+
+[TODO]
+
+**Deuteronomy 3:11**
+
+[TODO]
+
+**Deuteronomy 3:12**
+
+[TODO]
+
+**Deuteronomy 3:13**
+
+[TODO]
+
+**Deuteronomy 3:14**
+
+[TODO]
+
+**Deuteronomy 3:15**
+
+[TODO]
+
+**Deuteronomy 3:16**
+
+[TODO]
+
+**Deuteronomy 3:17**
+
+[TODO]
+
+**Deuteronomy 3:18**
+
+[TODO]
+
+**Deuteronomy 3:19**
+
+[TODO]
+
+**Deuteronomy 3:20**
+
+[TODO]
+
+**Deuteronomy 3:21**
+
+[TODO]
+
+**Deuteronomy 3:22**
+
+[TODO]
+
+**Deuteronomy 3:23**
+
+[TODO]
+
+**Deuteronomy 3:24**
+
+[TODO]
+
+**Deuteronomy 3:25**
+
+[TODO]
+
+**Deuteronomy 3:26**
+
+[TODO]
+
+**Deuteronomy 3:27**
+
+[TODO]
+
+**Deuteronomy 3:28**
+
+[TODO]
+
+**Deuteronomy 3:29**
+
+[TODO]
+
+### Chapter 4
+
+**Deuteronomy 4:1**
+
+[TODO]
+
+**Deuteronomy 4:2**
+
+[TODO]
+
+**Deuteronomy 4:3**
+
+[TODO]
+
+**Deuteronomy 4:4**
+
+[TODO]
+
+**Deuteronomy 4:5**
+
+[TODO]
+
+**Deuteronomy 4:6**
+
+[TODO]
+
+**Deuteronomy 4:7**
+
+[TODO]
+
+**Deuteronomy 4:8**
+
+[TODO]
+
+**Deuteronomy 4:9**
+
+[TODO]
+
+**Deuteronomy 4:10**
+
+[TODO]
+
+**Deuteronomy 4:11**
+
+[TODO]
+
+**Deuteronomy 4:12**
+
+[TODO]
+
+**Deuteronomy 4:13**
+
+[TODO]
+
+**Deuteronomy 4:14**
+
+[TODO]
+
+**Deuteronomy 4:15**
+
+[TODO]
+
+**Deuteronomy 4:16**
+
+[TODO]
+
+**Deuteronomy 4:17**
+
+[TODO]
+
+**Deuteronomy 4:18**
+
+[TODO]
+
+**Deuteronomy 4:19**
+
+[TODO]
+
+**Deuteronomy 4:20**
+
+[TODO]
+
+**Deuteronomy 4:21**
+
+[TODO]
+
+**Deuteronomy 4:22**
+
+[TODO]
+
+**Deuteronomy 4:23**
+
+[TODO]
+
+**Deuteronomy 4:24**
+
+[TODO]
+
+**Deuteronomy 4:25**
+
+[TODO]
+
+**Deuteronomy 4:26**
+
+[TODO]
+
+**Deuteronomy 4:27**
+
+[TODO]
+
+**Deuteronomy 4:28**
+
+[TODO]
+
+**Deuteronomy 4:29**
+
+[TODO]
+
+**Deuteronomy 4:30**
+
+[TODO]
+
+**Deuteronomy 4:31**
+
+[TODO]
+
+**Deuteronomy 4:32**
+
+[TODO]
+
+**Deuteronomy 4:33**
+
+[TODO]
+
+**Deuteronomy 4:34**
+
+[TODO]
+
+**Deuteronomy 4:35**
+
+[TODO]
+
+**Deuteronomy 4:36**
+
+[TODO]
+
+**Deuteronomy 4:37**
+
+[TODO]
+
+**Deuteronomy 4:38**
+
+[TODO]
+
+**Deuteronomy 4:39**
+
+[TODO]
+
+**Deuteronomy 4:40**
+
+[TODO]
+
+**Deuteronomy 4:41**
+
+[TODO]
+
+**Deuteronomy 4:42**
+
+[TODO]
+
+**Deuteronomy 4:43**
+
+[TODO]
+
+**Deuteronomy 4:44**
+
+[TODO]
+
+**Deuteronomy 4:45**
+
+[TODO]
+
+**Deuteronomy 4:46**
+
+[TODO]
+
+**Deuteronomy 4:47**
+
+[TODO]
+
+**Deuteronomy 4:48**
+
+[TODO]
+
+**Deuteronomy 4:49**
+
+[TODO]
+
+### Chapter 5
+
+**Deuteronomy 5:1**
+
+[TODO]
+
+**Deuteronomy 5:2**
+
+[TODO]
+
+**Deuteronomy 5:3**
+
+[TODO]
+
+**Deuteronomy 5:4**
+
+[TODO]
+
+**Deuteronomy 5:5**
+
+[TODO]
+
+**Deuteronomy 5:6**
+
+[TODO]
+
+**Deuteronomy 5:7**
+
+[TODO]
+
+**Deuteronomy 5:8**
+
+[TODO]
+
+**Deuteronomy 5:9**
+
+[TODO]
+
+**Deuteronomy 5:10**
+
+[TODO]
+
+**Deuteronomy 5:11**
+
+[TODO]
+
+**Deuteronomy 5:12**
+
+[TODO]
+
+**Deuteronomy 5:13**
+
+[TODO]
+
+**Deuteronomy 5:14**
+
+[TODO]
+
+**Deuteronomy 5:15**
+
+[TODO]
+
+**Deuteronomy 5:16**
+
+[TODO]
+
+**Deuteronomy 5:17**
+
+[TODO]
+
+**Deuteronomy 5:18**
+
+[TODO]
+
+**Deuteronomy 5:19**
+
+[TODO]
+
+**Deuteronomy 5:20**
+
+[TODO]
+
+**Deuteronomy 5:21**
+
+[TODO]
+
+**Deuteronomy 5:22**
+
+[TODO]
+
+**Deuteronomy 5:23**
+
+[TODO]
+
+**Deuteronomy 5:24**
+
+[TODO]
+
+**Deuteronomy 5:25**
+
+[TODO]
+
+**Deuteronomy 5:26**
+
+[TODO]
+
+**Deuteronomy 5:27**
+
+[TODO]
+
+**Deuteronomy 5:28**
+
+[TODO]
+
+**Deuteronomy 5:29**
+
+[TODO]
+
+**Deuteronomy 5:30**
+
+[TODO]
+
+**Deuteronomy 5:31**
+
+[TODO]
+
+**Deuteronomy 5:32**
+
+[TODO]
+
+**Deuteronomy 5:33**
+
+[TODO]
+
+### Chapter 6
+
+**Deuteronomy 6:1**
+
+[TODO]
+
+**Deuteronomy 6:2**
+
+[TODO]
+
+**Deuteronomy 6:3**
+
+[TODO]
+
+**Deuteronomy 6:4**
+
+[TODO]
+
+**Deuteronomy 6:5**
+
+[TODO]
+
+**Deuteronomy 6:6**
+
+[TODO]
+
+**Deuteronomy 6:7**
+
+[TODO]
+
+**Deuteronomy 6:8**
+
+[TODO]
+
+**Deuteronomy 6:9**
+
+[TODO]
+
+**Deuteronomy 6:10**
+
+[TODO]
+
+**Deuteronomy 6:11**
+
+[TODO]
+
+**Deuteronomy 6:12**
+
+[TODO]
+
+**Deuteronomy 6:13**
+
+[TODO]
+
+**Deuteronomy 6:14**
+
+[TODO]
+
+**Deuteronomy 6:15**
+
+[TODO]
+
+**Deuteronomy 6:16**
+
+[TODO]
+
+**Deuteronomy 6:17**
+
+[TODO]
+
+**Deuteronomy 6:18**
+
+[TODO]
+
+**Deuteronomy 6:19**
+
+[TODO]
+
+**Deuteronomy 6:20**
+
+[TODO]
+
+**Deuteronomy 6:21**
+
+[TODO]
+
+**Deuteronomy 6:22**
+
+[TODO]
+
+**Deuteronomy 6:23**
+
+[TODO]
+
+**Deuteronomy 6:24**
+
+[TODO]
+
+**Deuteronomy 6:25**
+
+[TODO]
+
+### Chapter 7
+
+**Deuteronomy 7:1**
+
+[TODO]
+
+**Deuteronomy 7:2**
+
+[TODO]
+
+**Deuteronomy 7:3**
+
+[TODO]
+
+**Deuteronomy 7:4**
+
+[TODO]
+
+**Deuteronomy 7:5**
+
+[TODO]
+
+**Deuteronomy 7:6**
+
+[TODO]
+
+**Deuteronomy 7:7**
+
+[TODO]
+
+**Deuteronomy 7:8**
+
+[TODO]
+
+**Deuteronomy 7:9**
+
+[TODO]
+
+**Deuteronomy 7:10**
+
+[TODO]
+
+**Deuteronomy 7:11**
+
+[TODO]
+
+**Deuteronomy 7:12**
+
+[TODO]
+
+**Deuteronomy 7:13**
+
+[TODO]
+
+**Deuteronomy 7:14**
+
+[TODO]
+
+**Deuteronomy 7:15**
+
+[TODO]
+
+**Deuteronomy 7:16**
+
+[TODO]
+
+**Deuteronomy 7:17**
+
+[TODO]
+
+**Deuteronomy 7:18**
+
+[TODO]
+
+**Deuteronomy 7:19**
+
+[TODO]
+
+**Deuteronomy 7:20**
+
+[TODO]
+
+**Deuteronomy 7:21**
+
+[TODO]
+
+**Deuteronomy 7:22**
+
+[TODO]
+
+**Deuteronomy 7:23**
+
+[TODO]
+
+**Deuteronomy 7:24**
+
+[TODO]
+
+**Deuteronomy 7:25**
+
+[TODO]
+
+**Deuteronomy 7:26**
+
+[TODO]
+
+### Chapter 8
+
+**Deuteronomy 8:1**
+
+[TODO]
+
+**Deuteronomy 8:2**
+
+[TODO]
+
+**Deuteronomy 8:3**
+
+[TODO]
+
+**Deuteronomy 8:4**
+
+[TODO]
+
+**Deuteronomy 8:5**
+
+[TODO]
+
+**Deuteronomy 8:6**
+
+[TODO]
+
+**Deuteronomy 8:7**
+
+[TODO]
+
+**Deuteronomy 8:8**
+
+[TODO]
+
+**Deuteronomy 8:9**
+
+[TODO]
+
+**Deuteronomy 8:10**
+
+[TODO]
+
+**Deuteronomy 8:11**
+
+[TODO]
+
+**Deuteronomy 8:12**
+
+[TODO]
+
+**Deuteronomy 8:13**
+
+[TODO]
+
+**Deuteronomy 8:14**
+
+[TODO]
+
+**Deuteronomy 8:15**
+
+[TODO]
+
+**Deuteronomy 8:16**
+
+[TODO]
+
+**Deuteronomy 8:17**
+
+[TODO]
+
+**Deuteronomy 8:18**
+
+[TODO]
+
+**Deuteronomy 8:19**
+
+[TODO]
+
+**Deuteronomy 8:20**
+
+[TODO]
+
+### Chapter 9
+
+**Deuteronomy 9:1**
+
+[TODO]
+
+**Deuteronomy 9:2**
+
+[TODO]
+
+**Deuteronomy 9:3**
+
+[TODO]
+
+**Deuteronomy 9:4**
+
+[TODO]
+
+**Deuteronomy 9:5**
+
+[TODO]
+
+**Deuteronomy 9:6**
+
+[TODO]
+
+**Deuteronomy 9:7**
+
+[TODO]
+
+**Deuteronomy 9:8**
+
+[TODO]
+
+**Deuteronomy 9:9**
+
+[TODO]
+
+**Deuteronomy 9:10**
+
+[TODO]
+
+**Deuteronomy 9:11**
+
+[TODO]
+
+**Deuteronomy 9:12**
+
+[TODO]
+
+**Deuteronomy 9:13**
+
+[TODO]
+
+**Deuteronomy 9:14**
+
+[TODO]
+
+**Deuteronomy 9:15**
+
+[TODO]
+
+**Deuteronomy 9:16**
+
+[TODO]
+
+**Deuteronomy 9:17**
+
+[TODO]
+
+**Deuteronomy 9:18**
+
+[TODO]
+
+**Deuteronomy 9:19**
+
+[TODO]
+
+**Deuteronomy 9:20**
+
+[TODO]
+
+**Deuteronomy 9:21**
+
+[TODO]
+
+**Deuteronomy 9:22**
+
+[TODO]
+
+**Deuteronomy 9:23**
+
+[TODO]
+
+**Deuteronomy 9:24**
+
+[TODO]
+
+**Deuteronomy 9:25**
+
+[TODO]
+
+**Deuteronomy 9:26**
+
+[TODO]
+
+**Deuteronomy 9:27**
+
+[TODO]
+
+**Deuteronomy 9:28**
+
+[TODO]
+
+**Deuteronomy 9:29**
+
+[TODO]
+
+### Chapter 10
+
+**Deuteronomy 10:1**
+
+[TODO]
+
+**Deuteronomy 10:2**
+
+[TODO]
+
+**Deuteronomy 10:3**
+
+[TODO]
+
+**Deuteronomy 10:4**
+
+[TODO]
+
+**Deuteronomy 10:5**
+
+[TODO]
+
+**Deuteronomy 10:6**
+
+[TODO]
+
+**Deuteronomy 10:7**
+
+[TODO]
+
+**Deuteronomy 10:8**
+
+[TODO]
+
+**Deuteronomy 10:9**
+
+[TODO]
+
+**Deuteronomy 10:10**
+
+[TODO]
+
+**Deuteronomy 10:11**
+
+[TODO]
+
+**Deuteronomy 10:12**
+
+[TODO]
+
+**Deuteronomy 10:13**
+
+[TODO]
+
+**Deuteronomy 10:14**
+
+[TODO]
+
+**Deuteronomy 10:15**
+
+[TODO]
+
+**Deuteronomy 10:16**
+
+[TODO]
+
+**Deuteronomy 10:17**
+
+[TODO]
+
+**Deuteronomy 10:18**
+
+[TODO]
+
+**Deuteronomy 10:19**
+
+[TODO]
+
+**Deuteronomy 10:20**
+
+[TODO]
+
+**Deuteronomy 10:21**
+
+[TODO]
+
+**Deuteronomy 10:22**
+
+[TODO]
+
+### Chapter 11
+
+**Deuteronomy 11:1**
+
+[TODO]
+
+**Deuteronomy 11:2**
+
+[TODO]
+
+**Deuteronomy 11:3**
+
+[TODO]
+
+**Deuteronomy 11:4**
+
+[TODO]
+
+**Deuteronomy 11:5**
+
+[TODO]
+
+**Deuteronomy 11:6**
+
+[TODO]
+
+**Deuteronomy 11:7**
+
+[TODO]
+
+**Deuteronomy 11:8**
+
+[TODO]
+
+**Deuteronomy 11:9**
+
+[TODO]
+
+**Deuteronomy 11:10**
+
+[TODO]
+
+**Deuteronomy 11:11**
+
+[TODO]
+
+**Deuteronomy 11:12**
+
+[TODO]
+
+**Deuteronomy 11:13**
+
+[TODO]
+
+**Deuteronomy 11:14**
+
+[TODO]
+
+**Deuteronomy 11:15**
+
+[TODO]
+
+**Deuteronomy 11:16**
+
+[TODO]
+
+**Deuteronomy 11:17**
+
+[TODO]
+
+**Deuteronomy 11:18**
+
+[TODO]
+
+**Deuteronomy 11:19**
+
+[TODO]
+
+**Deuteronomy 11:20**
+
+[TODO]
+
+**Deuteronomy 11:21**
+
+[TODO]
+
+**Deuteronomy 11:22**
+
+[TODO]
+
+**Deuteronomy 11:23**
+
+[TODO]
+
+**Deuteronomy 11:24**
+
+[TODO]
+
+**Deuteronomy 11:25**
+
+[TODO]
+
+**Deuteronomy 11:26**
+
+[TODO]
+
+**Deuteronomy 11:27**
+
+[TODO]
+
+**Deuteronomy 11:28**
+
+[TODO]
+
+**Deuteronomy 11:29**
+
+[TODO]
+
+**Deuteronomy 11:30**
+
+[TODO]
+
+**Deuteronomy 11:31**
+
+[TODO]
+
+**Deuteronomy 11:32**
+
+[TODO]
+
+### Chapter 12
+
+**Deuteronomy 12:1**
+
+[TODO]
+
+**Deuteronomy 12:2**
+
+[TODO]
+
+**Deuteronomy 12:3**
+
+[TODO]
+
+**Deuteronomy 12:4**
+
+[TODO]
+
+**Deuteronomy 12:5**
+
+[TODO]
+
+**Deuteronomy 12:6**
+
+[TODO]
+
+**Deuteronomy 12:7**
+
+[TODO]
+
+**Deuteronomy 12:8**
+
+[TODO]
+
+**Deuteronomy 12:9**
+
+[TODO]
+
+**Deuteronomy 12:10**
+
+[TODO]
+
+**Deuteronomy 12:11**
+
+[TODO]
+
+**Deuteronomy 12:12**
+
+[TODO]
+
+**Deuteronomy 12:13**
+
+[TODO]
+
+**Deuteronomy 12:14**
+
+[TODO]
+
+**Deuteronomy 12:15**
+
+[TODO]
+
+**Deuteronomy 12:16**
+
+[TODO]
+
+**Deuteronomy 12:17**
+
+[TODO]
+
+**Deuteronomy 12:18**
+
+[TODO]
+
+**Deuteronomy 12:19**
+
+[TODO]
+
+**Deuteronomy 12:20**
+
+[TODO]
+
+**Deuteronomy 12:21**
+
+[TODO]
+
+**Deuteronomy 12:22**
+
+[TODO]
+
+**Deuteronomy 12:23**
+
+[TODO]
+
+**Deuteronomy 12:24**
+
+[TODO]
+
+**Deuteronomy 12:25**
+
+[TODO]
+
+**Deuteronomy 12:26**
+
+[TODO]
+
+**Deuteronomy 12:27**
+
+[TODO]
+
+**Deuteronomy 12:28**
+
+[TODO]
+
+**Deuteronomy 12:29**
+
+[TODO]
+
+**Deuteronomy 12:30**
+
+[TODO]
+
+**Deuteronomy 12:31**
+
+[TODO]
+
+### Chapter 13
+
+**Deuteronomy 13:1**
+
+[TODO]
+
+**Deuteronomy 13:2**
+
+[TODO]
+
+**Deuteronomy 13:3**
+
+[TODO]
+
+**Deuteronomy 13:4**
+
+[TODO]
+
+**Deuteronomy 13:5**
+
+[TODO]
+
+**Deuteronomy 13:6**
+
+[TODO]
+
+**Deuteronomy 13:7**
+
+[TODO]
+
+**Deuteronomy 13:8**
+
+[TODO]
+
+**Deuteronomy 13:9**
+
+[TODO]
+
+**Deuteronomy 13:10**
+
+[TODO]
+
+**Deuteronomy 13:11**
+
+[TODO]
+
+**Deuteronomy 13:12**
+
+[TODO]
+
+**Deuteronomy 13:13**
+
+[TODO]
+
+**Deuteronomy 13:14**
+
+[TODO]
+
+**Deuteronomy 13:15**
+
+[TODO]
+
+**Deuteronomy 13:16**
+
+[TODO]
+
+**Deuteronomy 13:17**
+
+[TODO]
+
+**Deuteronomy 13:18**
+
+[TODO]
+
+**Deuteronomy 13:19**
+
+[TODO]
+
+### Chapter 14
+
+**Deuteronomy 14:1**
+
+[TODO]
+
+**Deuteronomy 14:2**
+
+[TODO]
+
+**Deuteronomy 14:3**
+
+[TODO]
+
+**Deuteronomy 14:4**
+
+[TODO]
+
+**Deuteronomy 14:5**
+
+[TODO]
+
+**Deuteronomy 14:6**
+
+[TODO]
+
+**Deuteronomy 14:7**
+
+[TODO]
+
+**Deuteronomy 14:8**
+
+[TODO]
+
+**Deuteronomy 14:9**
+
+[TODO]
+
+**Deuteronomy 14:10**
+
+[TODO]
+
+**Deuteronomy 14:11**
+
+[TODO]
+
+**Deuteronomy 14:12**
+
+[TODO]
+
+**Deuteronomy 14:13**
+
+[TODO]
+
+**Deuteronomy 14:14**
+
+[TODO]
+
+**Deuteronomy 14:15**
+
+[TODO]
+
+**Deuteronomy 14:16**
+
+[TODO]
+
+**Deuteronomy 14:17**
+
+[TODO]
+
+**Deuteronomy 14:18**
+
+[TODO]
+
+**Deuteronomy 14:19**
+
+[TODO]
+
+**Deuteronomy 14:20**
+
+[TODO]
+
+**Deuteronomy 14:21**
+
+[TODO]
+
+**Deuteronomy 14:22**
+
+[TODO]
+
+**Deuteronomy 14:23**
+
+[TODO]
+
+**Deuteronomy 14:24**
+
+[TODO]
+
+**Deuteronomy 14:25**
+
+[TODO]
+
+**Deuteronomy 14:26**
+
+[TODO]
+
+**Deuteronomy 14:27**
+
+[TODO]
+
+**Deuteronomy 14:28**
+
+[TODO]
+
+**Deuteronomy 14:29**
+
+[TODO]
+
+### Chapter 15
+
+**Deuteronomy 15:1**
+
+[TODO]
+
+**Deuteronomy 15:2**
+
+[TODO]
+
+**Deuteronomy 15:3**
+
+[TODO]
+
+**Deuteronomy 15:4**
+
+[TODO]
+
+**Deuteronomy 15:5**
+
+[TODO]
+
+**Deuteronomy 15:6**
+
+[TODO]
+
+**Deuteronomy 15:7**
+
+[TODO]
+
+**Deuteronomy 15:8**
+
+[TODO]
+
+**Deuteronomy 15:9**
+
+[TODO]
+
+**Deuteronomy 15:10**
+
+[TODO]
+
+**Deuteronomy 15:11**
+
+[TODO]
+
+**Deuteronomy 15:12**
+
+[TODO]
+
+**Deuteronomy 15:13**
+
+[TODO]
+
+**Deuteronomy 15:14**
+
+[TODO]
+
+**Deuteronomy 15:15**
+
+[TODO]
+
+**Deuteronomy 15:16**
+
+[TODO]
+
+**Deuteronomy 15:17**
+
+[TODO]
+
+**Deuteronomy 15:18**
+
+[TODO]
+
+**Deuteronomy 15:19**
+
+[TODO]
+
+**Deuteronomy 15:20**
+
+[TODO]
+
+**Deuteronomy 15:21**
+
+[TODO]
+
+**Deuteronomy 15:22**
+
+[TODO]
+
+**Deuteronomy 15:23**
+
+[TODO]
+
+### Chapter 16
+
+**Deuteronomy 16:1**
+
+[TODO]
+
+**Deuteronomy 16:2**
+
+[TODO]
+
+**Deuteronomy 16:3**
+
+[TODO]
+
+**Deuteronomy 16:4**
+
+[TODO]
+
+**Deuteronomy 16:5**
+
+[TODO]
+
+**Deuteronomy 16:6**
+
+[TODO]
+
+**Deuteronomy 16:7**
+
+[TODO]
+
+**Deuteronomy 16:8**
+
+[TODO]
+
+**Deuteronomy 16:9**
+
+[TODO]
+
+**Deuteronomy 16:10**
+
+[TODO]
+
+**Deuteronomy 16:11**
+
+[TODO]
+
+**Deuteronomy 16:12**
+
+[TODO]
+
+**Deuteronomy 16:13**
+
+[TODO]
+
+**Deuteronomy 16:14**
+
+[TODO]
+
+**Deuteronomy 16:15**
+
+[TODO]
+
+**Deuteronomy 16:16**
+
+[TODO]
+
+**Deuteronomy 16:17**
+
+[TODO]
+
+**Deuteronomy 16:18**
+
+[TODO]
+
+**Deuteronomy 16:19**
+
+[TODO]
+
+**Deuteronomy 16:20**
+
+[TODO]
+
+**Deuteronomy 16:21**
+
+[TODO]
+
+**Deuteronomy 16:22**
+
+[TODO]
+
+### Chapter 17
+
+**Deuteronomy 17:1**
+
+[TODO]
+
+**Deuteronomy 17:2**
+
+[TODO]
+
+**Deuteronomy 17:3**
+
+[TODO]
+
+**Deuteronomy 17:4**
+
+[TODO]
+
+**Deuteronomy 17:5**
+
+[TODO]
+
+**Deuteronomy 17:6**
+
+[TODO]
+
+**Deuteronomy 17:7**
+
+[TODO]
+
+**Deuteronomy 17:8**
+
+[TODO]
+
+**Deuteronomy 17:9**
+
+[TODO]
+
+**Deuteronomy 17:10**
+
+[TODO]
+
+**Deuteronomy 17:11**
+
+[TODO]
+
+**Deuteronomy 17:12**
+
+[TODO]
+
+**Deuteronomy 17:13**
+
+[TODO]
+
+**Deuteronomy 17:14**
+
+[TODO]
+
+**Deuteronomy 17:15**
+
+[TODO]
+
+**Deuteronomy 17:16**
+
+[TODO]
+
+**Deuteronomy 17:17**
+
+[TODO]
+
+**Deuteronomy 17:18**
+
+[TODO]
+
+**Deuteronomy 17:19**
+
+[TODO]
+
+**Deuteronomy 17:20**
+
+[TODO]
+
+### Chapter 18
+
+**Deuteronomy 18:1**
+
+[TODO]
+
+**Deuteronomy 18:2**
+
+[TODO]
+
+**Deuteronomy 18:3**
+
+[TODO]
+
+**Deuteronomy 18:4**
+
+[TODO]
+
+**Deuteronomy 18:5**
+
+[TODO]
+
+**Deuteronomy 18:6**
+
+[TODO]
+
+**Deuteronomy 18:7**
+
+[TODO]
+
+**Deuteronomy 18:8**
+
+[TODO]
+
+**Deuteronomy 18:9**
+
+[TODO]
+
+**Deuteronomy 18:10**
+
+[TODO]
+
+**Deuteronomy 18:11**
+
+[TODO]
+
+**Deuteronomy 18:12**
+
+[TODO]
+
+**Deuteronomy 18:13**
+
+[TODO]
+
+**Deuteronomy 18:14**
+
+[TODO]
+
+**Deuteronomy 18:15**
+
+[TODO]
+
+**Deuteronomy 18:16**
+
+[TODO]
+
+**Deuteronomy 18:17**
+
+[TODO]
+
+**Deuteronomy 18:18**
+
+[TODO]
+
+**Deuteronomy 18:19**
+
+[TODO]
+
+**Deuteronomy 18:20**
+
+[TODO]
+
+**Deuteronomy 18:21**
+
+[TODO]
+
+**Deuteronomy 18:22**
+
+[TODO]
+
+### Chapter 19
+
+**Deuteronomy 19:1**
+
+[TODO]
+
+**Deuteronomy 19:2**
+
+[TODO]
+
+**Deuteronomy 19:3**
+
+[TODO]
+
+**Deuteronomy 19:4**
+
+[TODO]
+
+**Deuteronomy 19:5**
+
+[TODO]
+
+**Deuteronomy 19:6**
+
+[TODO]
+
+**Deuteronomy 19:7**
+
+[TODO]
+
+**Deuteronomy 19:8**
+
+[TODO]
+
+**Deuteronomy 19:9**
+
+[TODO]
+
+**Deuteronomy 19:10**
+
+[TODO]
+
+**Deuteronomy 19:11**
+
+[TODO]
+
+**Deuteronomy 19:12**
+
+[TODO]
+
+**Deuteronomy 19:13**
+
+[TODO]
+
+**Deuteronomy 19:14**
+
+[TODO]
+
+**Deuteronomy 19:15**
+
+[TODO]
+
+**Deuteronomy 19:16**
+
+[TODO]
+
+**Deuteronomy 19:17**
+
+[TODO]
+
+**Deuteronomy 19:18**
+
+[TODO]
+
+**Deuteronomy 19:19**
+
+[TODO]
+
+**Deuteronomy 19:20**
+
+[TODO]
+
+**Deuteronomy 19:21**
+
+[TODO]
+
+### Chapter 20
+
+**Deuteronomy 20:1**
+
+[TODO]
+
+**Deuteronomy 20:2**
+
+[TODO]
+
+**Deuteronomy 20:3**
+
+[TODO]
+
+**Deuteronomy 20:4**
+
+[TODO]
+
+**Deuteronomy 20:5**
+
+[TODO]
+
+**Deuteronomy 20:6**
+
+[TODO]
+
+**Deuteronomy 20:7**
+
+[TODO]
+
+**Deuteronomy 20:8**
+
+[TODO]
+
+**Deuteronomy 20:9**
+
+[TODO]
+
+**Deuteronomy 20:10**
+
+[TODO]
+
+**Deuteronomy 20:11**
+
+[TODO]
+
+**Deuteronomy 20:12**
+
+[TODO]
+
+**Deuteronomy 20:13**
+
+[TODO]
+
+**Deuteronomy 20:14**
+
+[TODO]
+
+**Deuteronomy 20:15**
+
+[TODO]
+
+**Deuteronomy 20:16**
+
+[TODO]
+
+**Deuteronomy 20:17**
+
+[TODO]
+
+**Deuteronomy 20:18**
+
+[TODO]
+
+**Deuteronomy 20:19**
+
+[TODO]
+
+**Deuteronomy 20:20**
+
+[TODO]
+
+### Chapter 21
+
+**Deuteronomy 21:1**
+
+[TODO]
+
+**Deuteronomy 21:2**
+
+[TODO]
+
+**Deuteronomy 21:3**
+
+[TODO]
+
+**Deuteronomy 21:4**
+
+[TODO]
+
+**Deuteronomy 21:5**
+
+[TODO]
+
+**Deuteronomy 21:6**
+
+[TODO]
+
+**Deuteronomy 21:7**
+
+[TODO]
+
+**Deuteronomy 21:8**
+
+[TODO]
+
+**Deuteronomy 21:9**
+
+[TODO]
+
+**Deuteronomy 21:10**
+
+[TODO]
+
+**Deuteronomy 21:11**
+
+[TODO]
+
+**Deuteronomy 21:12**
+
+[TODO]
+
+**Deuteronomy 21:13**
+
+[TODO]
+
+**Deuteronomy 21:14**
+
+[TODO]
+
+**Deuteronomy 21:15**
+
+[TODO]
+
+**Deuteronomy 21:16**
+
+[TODO]
+
+**Deuteronomy 21:17**
+
+[TODO]
+
+**Deuteronomy 21:18**
+
+[TODO]
+
+**Deuteronomy 21:19**
+
+[TODO]
+
+**Deuteronomy 21:20**
+
+[TODO]
+
+**Deuteronomy 21:21**
+
+[TODO]
+
+**Deuteronomy 21:22**
+
+[TODO]
+
+**Deuteronomy 21:23**
+
+[TODO]
+
+### Chapter 22
+
+**Deuteronomy 22:1**
+
+[TODO]
+
+**Deuteronomy 22:2**
+
+[TODO]
+
+**Deuteronomy 22:3**
+
+[TODO]
+
+**Deuteronomy 22:4**
+
+[TODO]
+
+**Deuteronomy 22:5**
+
+[TODO]
+
+**Deuteronomy 22:6**
+
+[TODO]
+
+**Deuteronomy 22:7**
+
+[TODO]
+
+**Deuteronomy 22:8**
+
+[TODO]
+
+**Deuteronomy 22:9**
+
+[TODO]
+
+**Deuteronomy 22:10**
+
+[TODO]
+
+**Deuteronomy 22:11**
+
+[TODO]
+
+**Deuteronomy 22:12**
+
+[TODO]
+
+**Deuteronomy 22:13**
+
+[TODO]
+
+**Deuteronomy 22:14**
+
+[TODO]
+
+**Deuteronomy 22:15**
+
+[TODO]
+
+**Deuteronomy 22:16**
+
+[TODO]
+
+**Deuteronomy 22:17**
+
+[TODO]
+
+**Deuteronomy 22:18**
+
+[TODO]
+
+**Deuteronomy 22:19**
+
+[TODO]
+
+**Deuteronomy 22:20**
+
+[TODO]
+
+**Deuteronomy 22:21**
+
+[TODO]
+
+**Deuteronomy 22:22**
+
+[TODO]
+
+**Deuteronomy 22:23**
+
+[TODO]
+
+**Deuteronomy 22:24**
+
+[TODO]
+
+**Deuteronomy 22:25**
+
+[TODO]
+
+**Deuteronomy 22:26**
+
+[TODO]
+
+**Deuteronomy 22:27**
+
+[TODO]
+
+**Deuteronomy 22:28**
+
+[TODO]
+
+**Deuteronomy 22:29**
+
+[TODO]
+
+### Chapter 23
+
+**Deuteronomy 23:1**
+
+[TODO]
+
+**Deuteronomy 23:2**
+
+[TODO]
+
+**Deuteronomy 23:3**
+
+[TODO]
+
+**Deuteronomy 23:4**
+
+[TODO]
+
+**Deuteronomy 23:5**
+
+[TODO]
+
+**Deuteronomy 23:6**
+
+[TODO]
+
+**Deuteronomy 23:7**
+
+[TODO]
+
+**Deuteronomy 23:8**
+
+[TODO]
+
+**Deuteronomy 23:9**
+
+[TODO]
+
+**Deuteronomy 23:10**
+
+[TODO]
+
+**Deuteronomy 23:11**
+
+[TODO]
+
+**Deuteronomy 23:12**
+
+[TODO]
+
+**Deuteronomy 23:13**
+
+[TODO]
+
+**Deuteronomy 23:14**
+
+[TODO]
+
+**Deuteronomy 23:15**
+
+[TODO]
+
+**Deuteronomy 23:16**
+
+[TODO]
+
+**Deuteronomy 23:17**
+
+[TODO]
+
+**Deuteronomy 23:18**
+
+[TODO]
+
+**Deuteronomy 23:19**
+
+[TODO]
+
+**Deuteronomy 23:20**
+
+[TODO]
+
+**Deuteronomy 23:21**
+
+[TODO]
+
+**Deuteronomy 23:22**
+
+[TODO]
+
+**Deuteronomy 23:23**
+
+[TODO]
+
+**Deuteronomy 23:24**
+
+[TODO]
+
+**Deuteronomy 23:25**
+
+[TODO]
+
+**Deuteronomy 23:26**
+
+[TODO]
+
+### Chapter 24
+
+**Deuteronomy 24:1**
+
+[TODO]
+
+**Deuteronomy 24:2**
+
+[TODO]
+
+**Deuteronomy 24:3**
+
+[TODO]
+
+**Deuteronomy 24:4**
+
+[TODO]
+
+**Deuteronomy 24:5**
+
+[TODO]
+
+**Deuteronomy 24:6**
+
+[TODO]
+
+**Deuteronomy 24:7**
+
+[TODO]
+
+**Deuteronomy 24:8**
+
+[TODO]
+
+**Deuteronomy 24:9**
+
+[TODO]
+
+**Deuteronomy 24:10**
+
+[TODO]
+
+**Deuteronomy 24:11**
+
+[TODO]
+
+**Deuteronomy 24:12**
+
+[TODO]
+
+**Deuteronomy 24:13**
+
+[TODO]
+
+**Deuteronomy 24:14**
+
+[TODO]
+
+**Deuteronomy 24:15**
+
+[TODO]
+
+**Deuteronomy 24:16**
+
+[TODO]
+
+**Deuteronomy 24:17**
+
+[TODO]
+
+**Deuteronomy 24:18**
+
+[TODO]
+
+**Deuteronomy 24:19**
+
+[TODO]
+
+**Deuteronomy 24:20**
+
+[TODO]
+
+**Deuteronomy 24:21**
+
+[TODO]
+
+**Deuteronomy 24:22**
+
+[TODO]
+
+### Chapter 25
+
+**Deuteronomy 25:1**
+
+[TODO]
+
+**Deuteronomy 25:2**
+
+[TODO]
+
+**Deuteronomy 25:3**
+
+[TODO]
+
+**Deuteronomy 25:4**
+
+[TODO]
+
+**Deuteronomy 25:5**
+
+[TODO]
+
+**Deuteronomy 25:6**
+
+[TODO]
+
+**Deuteronomy 25:7**
+
+[TODO]
+
+**Deuteronomy 25:8**
+
+[TODO]
+
+**Deuteronomy 25:9**
+
+[TODO]
+
+**Deuteronomy 25:10**
+
+[TODO]
+
+**Deuteronomy 25:11**
+
+[TODO]
+
+**Deuteronomy 25:12**
+
+[TODO]
+
+**Deuteronomy 25:13**
+
+[TODO]
+
+**Deuteronomy 25:14**
+
+[TODO]
+
+**Deuteronomy 25:15**
+
+[TODO]
+
+**Deuteronomy 25:16**
+
+[TODO]
+
+**Deuteronomy 25:17**
+
+[TODO]
+
+**Deuteronomy 25:18**
+
+[TODO]
+
+**Deuteronomy 25:19**
+
+[TODO]
+
+### Chapter 26
+
+**Deuteronomy 26:1**
+
+[TODO]
+
+**Deuteronomy 26:2**
+
+[TODO]
+
+**Deuteronomy 26:3**
+
+[TODO]
+
+**Deuteronomy 26:4**
+
+[TODO]
+
+**Deuteronomy 26:5**
+
+[TODO]
+
+**Deuteronomy 26:6**
+
+[TODO]
+
+**Deuteronomy 26:7**
+
+[TODO]
+
+**Deuteronomy 26:8**
+
+[TODO]
+
+**Deuteronomy 26:9**
+
+[TODO]
+
+**Deuteronomy 26:10**
+
+[TODO]
+
+**Deuteronomy 26:11**
+
+[TODO]
+
+**Deuteronomy 26:12**
+
+[TODO]
+
+**Deuteronomy 26:13**
+
+[TODO]
+
+**Deuteronomy 26:14**
+
+[TODO]
+
+**Deuteronomy 26:15**
+
+[TODO]
+
+**Deuteronomy 26:16**
+
+[TODO]
+
+**Deuteronomy 26:17**
+
+[TODO]
+
+**Deuteronomy 26:18**
+
+[TODO]
+
+**Deuteronomy 26:19**
+
+[TODO]
+
+### Chapter 27
+
+**Deuteronomy 27:1**
+
+[TODO]
+
+**Deuteronomy 27:2**
+
+[TODO]
+
+**Deuteronomy 27:3**
+
+[TODO]
+
+**Deuteronomy 27:4**
+
+[TODO]
+
+**Deuteronomy 27:5**
+
+[TODO]
+
+**Deuteronomy 27:6**
+
+[TODO]
+
+**Deuteronomy 27:7**
+
+[TODO]
+
+**Deuteronomy 27:8**
+
+[TODO]
+
+**Deuteronomy 27:9**
+
+[TODO]
+
+**Deuteronomy 27:10**
+
+[TODO]
+
+**Deuteronomy 27:11**
+
+[TODO]
+
+**Deuteronomy 27:12**
+
+[TODO]
+
+**Deuteronomy 27:13**
+
+[TODO]
+
+**Deuteronomy 27:14**
+
+[TODO]
+
+**Deuteronomy 27:15**
+
+[TODO]
+
+**Deuteronomy 27:16**
+
+[TODO]
+
+**Deuteronomy 27:17**
+
+[TODO]
+
+**Deuteronomy 27:18**
+
+[TODO]
+
+**Deuteronomy 27:19**
+
+[TODO]
+
+**Deuteronomy 27:20**
+
+[TODO]
+
+**Deuteronomy 27:21**
+
+[TODO]
+
+**Deuteronomy 27:22**
+
+[TODO]
+
+**Deuteronomy 27:23**
+
+[TODO]
+
+**Deuteronomy 27:24**
+
+[TODO]
+
+**Deuteronomy 27:25**
+
+[TODO]
+
+**Deuteronomy 27:26**
+
+[TODO]
+
+### Chapter 28
+
+**Deuteronomy 28:1**
+
+[TODO]
+
+**Deuteronomy 28:2**
+
+[TODO]
+
+**Deuteronomy 28:3**
+
+[TODO]
+
+**Deuteronomy 28:4**
+
+[TODO]
+
+**Deuteronomy 28:5**
+
+[TODO]
+
+**Deuteronomy 28:6**
+
+[TODO]
+
+**Deuteronomy 28:7**
+
+[TODO]
+
+**Deuteronomy 28:8**
+
+[TODO]
+
+**Deuteronomy 28:9**
+
+[TODO]
+
+**Deuteronomy 28:10**
+
+[TODO]
+
+**Deuteronomy 28:11**
+
+[TODO]
+
+**Deuteronomy 28:12**
+
+[TODO]
+
+**Deuteronomy 28:13**
+
+[TODO]
+
+**Deuteronomy 28:14**
+
+[TODO]
+
+**Deuteronomy 28:15**
+
+[TODO]
+
+**Deuteronomy 28:16**
+
+[TODO]
+
+**Deuteronomy 28:17**
+
+[TODO]
+
+**Deuteronomy 28:18**
+
+[TODO]
+
+**Deuteronomy 28:19**
+
+[TODO]
+
+**Deuteronomy 28:20**
+
+[TODO]
+
+**Deuteronomy 28:21**
+
+[TODO]
+
+**Deuteronomy 28:22**
+
+[TODO]
+
+**Deuteronomy 28:23**
+
+[TODO]
+
+**Deuteronomy 28:24**
+
+[TODO]
+
+**Deuteronomy 28:25**
+
+[TODO]
+
+**Deuteronomy 28:26**
+
+[TODO]
+
+**Deuteronomy 28:27**
+
+[TODO]
+
+**Deuteronomy 28:28**
+
+[TODO]
+
+**Deuteronomy 28:29**
+
+[TODO]
+
+**Deuteronomy 28:30**
+
+[TODO]
+
+**Deuteronomy 28:31**
+
+[TODO]
+
+**Deuteronomy 28:32**
+
+[TODO]
+
+**Deuteronomy 28:33**
+
+[TODO]
+
+**Deuteronomy 28:34**
+
+[TODO]
+
+**Deuteronomy 28:35**
+
+[TODO]
+
+**Deuteronomy 28:36**
+
+[TODO]
+
+**Deuteronomy 28:37**
+
+[TODO]
+
+**Deuteronomy 28:38**
+
+[TODO]
+
+**Deuteronomy 28:39**
+
+[TODO]
+
+**Deuteronomy 28:40**
+
+[TODO]
+
+**Deuteronomy 28:41**
+
+[TODO]
+
+**Deuteronomy 28:42**
+
+[TODO]
+
+**Deuteronomy 28:43**
+
+[TODO]
+
+**Deuteronomy 28:44**
+
+[TODO]
+
+**Deuteronomy 28:45**
+
+[TODO]
+
+**Deuteronomy 28:46**
+
+[TODO]
+
+**Deuteronomy 28:47**
+
+[TODO]
+
+**Deuteronomy 28:48**
+
+[TODO]
+
+**Deuteronomy 28:49**
+
+[TODO]
+
+**Deuteronomy 28:50**
+
+[TODO]
+
+**Deuteronomy 28:51**
+
+[TODO]
+
+**Deuteronomy 28:52**
+
+[TODO]
+
+**Deuteronomy 28:53**
+
+[TODO]
+
+**Deuteronomy 28:54**
+
+[TODO]
+
+**Deuteronomy 28:55**
+
+[TODO]
+
+**Deuteronomy 28:56**
+
+[TODO]
+
+**Deuteronomy 28:57**
+
+[TODO]
+
+**Deuteronomy 28:58**
+
+[TODO]
+
+**Deuteronomy 28:59**
+
+[TODO]
+
+**Deuteronomy 28:60**
+
+[TODO]
+
+**Deuteronomy 28:61**
+
+[TODO]
+
+**Deuteronomy 28:62**
+
+[TODO]
+
+**Deuteronomy 28:63**
+
+[TODO]
+
+**Deuteronomy 28:64**
+
+[TODO]
+
+**Deuteronomy 28:65**
+
+[TODO]
+
+**Deuteronomy 28:66**
+
+[TODO]
+
+**Deuteronomy 28:67**
+
+[TODO]
+
+**Deuteronomy 28:68**
+
+[TODO]
+
+**Deuteronomy 28:69**
+
+[TODO]
+
+### Chapter 29
+
+**Deuteronomy 29:1**
+
+[TODO]
+
+**Deuteronomy 29:2**
+
+[TODO]
+
+**Deuteronomy 29:3**
+
+[TODO]
+
+**Deuteronomy 29:4**
+
+[TODO]
+
+**Deuteronomy 29:5**
+
+[TODO]
+
+**Deuteronomy 29:6**
+
+[TODO]
+
+**Deuteronomy 29:7**
+
+[TODO]
+
+**Deuteronomy 29:8**
+
+[TODO]
+
+**Deuteronomy 29:9**
+
+[TODO]
+
+**Deuteronomy 29:10**
+
+[TODO]
+
+**Deuteronomy 29:11**
+
+[TODO]
+
+**Deuteronomy 29:12**
+
+[TODO]
+
+**Deuteronomy 29:13**
+
+[TODO]
+
+**Deuteronomy 29:14**
+
+[TODO]
+
+**Deuteronomy 29:15**
+
+[TODO]
+
+**Deuteronomy 29:16**
+
+[TODO]
+
+**Deuteronomy 29:17**
+
+[TODO]
+
+**Deuteronomy 29:18**
+
+[TODO]
+
+**Deuteronomy 29:19**
+
+[TODO]
+
+**Deuteronomy 29:20**
+
+[TODO]
+
+**Deuteronomy 29:21**
+
+[TODO]
+
+**Deuteronomy 29:22**
+
+[TODO]
+
+**Deuteronomy 29:23**
+
+[TODO]
+
+**Deuteronomy 29:24**
+
+[TODO]
+
+**Deuteronomy 29:25**
+
+[TODO]
+
+**Deuteronomy 29:26**
+
+[TODO]
+
+**Deuteronomy 29:27**
+
+[TODO]
+
+**Deuteronomy 29:28**
+
+[TODO]
+
+### Chapter 30
+
+**Deuteronomy 30:1**
+
+[TODO]
+
+**Deuteronomy 30:2**
+
+[TODO]
+
+**Deuteronomy 30:3**
+
+[TODO]
+
+**Deuteronomy 30:4**
+
+[TODO]
+
+**Deuteronomy 30:5**
+
+[TODO]
+
+**Deuteronomy 30:6**
+
+[TODO]
+
+**Deuteronomy 30:7**
+
+[TODO]
+
+**Deuteronomy 30:8**
+
+[TODO]
+
+**Deuteronomy 30:9**
+
+[TODO]
+
+**Deuteronomy 30:10**
+
+[TODO]
+
+**Deuteronomy 30:11**
+
+[TODO]
+
+**Deuteronomy 30:12**
+
+[TODO]
+
+**Deuteronomy 30:13**
+
+[TODO]
+
+**Deuteronomy 30:14**
+
+[TODO]
+
+**Deuteronomy 30:15**
+
+[TODO]
+
+**Deuteronomy 30:16**
+
+[TODO]
+
+**Deuteronomy 30:17**
+
+[TODO]
+
+**Deuteronomy 30:18**
+
+[TODO]
+
+**Deuteronomy 30:19**
+
+[TODO]
+
+**Deuteronomy 30:20**
+
+[TODO]
+
+### Chapter 31
+
+**Deuteronomy 31:1**
+
+[TODO]
+
+**Deuteronomy 31:2**
+
+[TODO]
+
+**Deuteronomy 31:3**
+
+[TODO]
+
+**Deuteronomy 31:4**
+
+[TODO]
+
+**Deuteronomy 31:5**
+
+[TODO]
+
+**Deuteronomy 31:6**
+
+[TODO]
+
+**Deuteronomy 31:7**
+
+[TODO]
+
+**Deuteronomy 31:8**
+
+[TODO]
+
+**Deuteronomy 31:9**
+
+[TODO]
+
+**Deuteronomy 31:10**
+
+[TODO]
+
+**Deuteronomy 31:11**
+
+[TODO]
+
+**Deuteronomy 31:12**
+
+[TODO]
+
+**Deuteronomy 31:13**
+
+[TODO]
+
+**Deuteronomy 31:14**
+
+[TODO]
+
+**Deuteronomy 31:15**
+
+[TODO]
+
+**Deuteronomy 31:16**
+
+[TODO]
+
+**Deuteronomy 31:17**
+
+[TODO]
+
+**Deuteronomy 31:18**
+
+[TODO]
+
+**Deuteronomy 31:19**
+
+[TODO]
+
+**Deuteronomy 31:20**
+
+[TODO]
+
+**Deuteronomy 31:21**
+
+[TODO]
+
+**Deuteronomy 31:22**
+
+[TODO]
+
+**Deuteronomy 31:23**
+
+[TODO]
+
+**Deuteronomy 31:24**
+
+[TODO]
+
+**Deuteronomy 31:25**
+
+[TODO]
+
+**Deuteronomy 31:26**
+
+[TODO]
+
+**Deuteronomy 31:27**
+
+[TODO]
+
+**Deuteronomy 31:28**
+
+[TODO]
+
+**Deuteronomy 31:29**
+
+[TODO]
+
+**Deuteronomy 31:30**
+
+[TODO]
+
+### Chapter 32
+
+**Deuteronomy 32:1**
+
+[TODO]
+
+**Deuteronomy 32:2**
+
+[TODO]
+
+**Deuteronomy 32:3**
+
+[TODO]
+
+**Deuteronomy 32:4**
+
+[TODO]
+
+**Deuteronomy 32:5**
+
+[TODO]
+
+**Deuteronomy 32:6**
+
+[TODO]
+
+**Deuteronomy 32:7**
+
+[TODO]
+
+**Deuteronomy 32:8**
+
+[TODO]
+
+**Deuteronomy 32:9**
+
+[TODO]
+
+**Deuteronomy 32:10**
+
+[TODO]
+
+**Deuteronomy 32:11**
+
+[TODO]
+
+**Deuteronomy 32:12**
+
+[TODO]
+
+**Deuteronomy 32:13**
+
+[TODO]
+
+**Deuteronomy 32:14**
+
+[TODO]
+
+**Deuteronomy 32:15**
+
+[TODO]
+
+**Deuteronomy 32:16**
+
+[TODO]
+
+**Deuteronomy 32:17**
+
+[TODO]
+
+**Deuteronomy 32:18**
+
+[TODO]
+
+**Deuteronomy 32:19**
+
+[TODO]
+
+**Deuteronomy 32:20**
+
+[TODO]
+
+**Deuteronomy 32:21**
+
+[TODO]
+
+**Deuteronomy 32:22**
+
+[TODO]
+
+**Deuteronomy 32:23**
+
+[TODO]
+
+**Deuteronomy 32:24**
+
+[TODO]
+
+**Deuteronomy 32:25**
+
+[TODO]
+
+**Deuteronomy 32:26**
+
+[TODO]
+
+**Deuteronomy 32:27**
+
+[TODO]
+
+**Deuteronomy 32:28**
+
+[TODO]
+
+**Deuteronomy 32:29**
+
+[TODO]
+
+**Deuteronomy 32:30**
+
+[TODO]
+
+**Deuteronomy 32:31**
+
+[TODO]
+
+**Deuteronomy 32:32**
+
+[TODO]
+
+**Deuteronomy 32:33**
+
+[TODO]
+
+**Deuteronomy 32:34**
+
+[TODO]
+
+**Deuteronomy 32:35**
+
+[TODO]
+
+**Deuteronomy 32:36**
+
+[TODO]
+
+**Deuteronomy 32:37**
+
+[TODO]
+
+**Deuteronomy 32:38**
+
+[TODO]
+
+**Deuteronomy 32:39**
+
+[TODO]
+
+**Deuteronomy 32:40**
+
+[TODO]
+
+**Deuteronomy 32:41**
+
+[TODO]
+
+**Deuteronomy 32:42**
+
+[TODO]
+
+**Deuteronomy 32:43**
+
+[TODO]
+
+**Deuteronomy 32:44**
+
+[TODO]
+
+**Deuteronomy 32:45**
+
+[TODO]
+
+**Deuteronomy 32:46**
+
+[TODO]
+
+**Deuteronomy 32:47**
+
+[TODO]
+
+**Deuteronomy 32:48**
+
+[TODO]
+
+**Deuteronomy 32:49**
+
+[TODO]
+
+**Deuteronomy 32:50**
+
+[TODO]
+
+**Deuteronomy 32:51**
+
+[TODO]
+
+**Deuteronomy 32:52**
+
+[TODO]
+
+### Chapter 33
+
+**Deuteronomy 33:1**
+
+[TODO]
+
+**Deuteronomy 33:2**
+
+[TODO]
+
+**Deuteronomy 33:3**
+
+[TODO]
+
+**Deuteronomy 33:4**
+
+[TODO]
+
+**Deuteronomy 33:5**
+
+[TODO]
+
+**Deuteronomy 33:6**
+
+[TODO]
+
+**Deuteronomy 33:7**
+
+[TODO]
+
+**Deuteronomy 33:8**
+
+[TODO]
+
+**Deuteronomy 33:9**
+
+[TODO]
+
+**Deuteronomy 33:10**
+
+[TODO]
+
+**Deuteronomy 33:11**
+
+[TODO]
+
+**Deuteronomy 33:12**
+
+[TODO]
+
+**Deuteronomy 33:13**
+
+[TODO]
+
+**Deuteronomy 33:14**
+
+[TODO]
+
+**Deuteronomy 33:15**
+
+[TODO]
+
+**Deuteronomy 33:16**
+
+[TODO]
+
+**Deuteronomy 33:17**
+
+[TODO]
+
+**Deuteronomy 33:18**
+
+[TODO]
+
+**Deuteronomy 33:19**
+
+[TODO]
+
+**Deuteronomy 33:20**
+
+[TODO]
+
+**Deuteronomy 33:21**
+
+[TODO]
+
+**Deuteronomy 33:22**
+
+[TODO]
+
+**Deuteronomy 33:23**
+
+[TODO]
+
+**Deuteronomy 33:24**
+
+[TODO]
+
+**Deuteronomy 33:25**
+
+[TODO]
+
+**Deuteronomy 33:26**
+
+[TODO]
+
+**Deuteronomy 33:27**
+
+[TODO]
+
+**Deuteronomy 33:28**
+
+[TODO]
+
+**Deuteronomy 33:29**
+
+[TODO]
+
+### Chapter 34
+
+**Deuteronomy 34:1**
+
+[TODO]
+
+**Deuteronomy 34:2**
+
+[TODO]
+
+**Deuteronomy 34:3**
+
+[TODO]
+
+**Deuteronomy 34:4**
+
+[TODO]
+
+**Deuteronomy 34:5**
+
+[TODO]
+
+**Deuteronomy 34:6**
+
+[TODO]
+
+**Deuteronomy 34:7**
+
+[TODO]
+
+**Deuteronomy 34:8**
+
+[TODO]
+
+**Deuteronomy 34:9**
+
+[TODO]
+
+**Deuteronomy 34:10**
+
+[TODO]
+
+**Deuteronomy 34:11**
+
+[TODO]
+
+**Deuteronomy 34:12**
+
+[TODO]
+
+## Joshua
+
+### Chapter 1
+
+**Joshua 1:1**
+
+[TODO]
+
+**Joshua 1:2**
+
+[TODO]
+
+**Joshua 1:3**
+
+[TODO]
+
+**Joshua 1:4**
+
+[TODO]
+
+**Joshua 1:5**
+
+[TODO]
+
+**Joshua 1:6**
+
+[TODO]
+
+**Joshua 1:7**
+
+[TODO]
+
+**Joshua 1:8**
+
+[TODO]
+
+**Joshua 1:9**
+
+[TODO]
+
+**Joshua 1:10**
+
+[TODO]
+
+**Joshua 1:11**
+
+[TODO]
+
+**Joshua 1:12**
+
+[TODO]
+
+**Joshua 1:13**
+
+[TODO]
+
+**Joshua 1:14**
+
+[TODO]
+
+**Joshua 1:15**
+
+[TODO]
+
+**Joshua 1:16**
+
+[TODO]
+
+**Joshua 1:17**
+
+[TODO]
+
+**Joshua 1:18**
+
+[TODO]
+
+### Chapter 2
+
+**Joshua 2:1**
+
+[TODO]
+
+**Joshua 2:2**
+
+[TODO]
+
+**Joshua 2:3**
+
+[TODO]
+
+**Joshua 2:4**
+
+[TODO]
+
+**Joshua 2:5**
+
+[TODO]
+
+**Joshua 2:6**
+
+[TODO]
+
+**Joshua 2:7**
+
+[TODO]
+
+**Joshua 2:8**
+
+[TODO]
+
+**Joshua 2:9**
+
+[TODO]
+
+**Joshua 2:10**
+
+[TODO]
+
+**Joshua 2:11**
+
+[TODO]
+
+**Joshua 2:12**
+
+[TODO]
+
+**Joshua 2:13**
+
+[TODO]
+
+**Joshua 2:14**
+
+[TODO]
+
+**Joshua 2:15**
+
+[TODO]
+
+**Joshua 2:16**
+
+[TODO]
+
+**Joshua 2:17**
+
+[TODO]
+
+**Joshua 2:18**
+
+[TODO]
+
+**Joshua 2:19**
+
+[TODO]
+
+**Joshua 2:20**
+
+[TODO]
+
+**Joshua 2:21**
+
+[TODO]
+
+**Joshua 2:22**
+
+[TODO]
+
+**Joshua 2:23**
+
+[TODO]
+
+**Joshua 2:24**
+
+[TODO]
+
+### Chapter 3
+
+**Joshua 3:1**
+
+[TODO]
+
+**Joshua 3:2**
+
+[TODO]
+
+**Joshua 3:3**
+
+[TODO]
+
+**Joshua 3:4**
+
+[TODO]
+
+**Joshua 3:5**
+
+[TODO]
+
+**Joshua 3:6**
+
+[TODO]
+
+**Joshua 3:7**
+
+[TODO]
+
+**Joshua 3:8**
+
+[TODO]
+
+**Joshua 3:9**
+
+[TODO]
+
+**Joshua 3:10**
+
+[TODO]
+
+**Joshua 3:11**
+
+[TODO]
+
+**Joshua 3:12**
+
+[TODO]
+
+**Joshua 3:13**
+
+[TODO]
+
+**Joshua 3:14**
+
+[TODO]
+
+**Joshua 3:15**
+
+[TODO]
+
+**Joshua 3:16**
+
+[TODO]
+
+**Joshua 3:17**
+
+[TODO]
+
+### Chapter 4
+
+**Joshua 4:1**
+
+[TODO]
+
+**Joshua 4:2**
+
+[TODO]
+
+**Joshua 4:3**
+
+[TODO]
+
+**Joshua 4:4**
+
+[TODO]
+
+**Joshua 4:5**
+
+[TODO]
+
+**Joshua 4:6**
+
+[TODO]
+
+**Joshua 4:7**
+
+[TODO]
+
+**Joshua 4:8**
+
+[TODO]
+
+**Joshua 4:9**
+
+[TODO]
+
+**Joshua 4:10**
+
+[TODO]
+
+**Joshua 4:11**
+
+[TODO]
+
+**Joshua 4:12**
+
+[TODO]
+
+**Joshua 4:13**
+
+[TODO]
+
+**Joshua 4:14**
+
+[TODO]
+
+**Joshua 4:15**
+
+[TODO]
+
+**Joshua 4:16**
+
+[TODO]
+
+**Joshua 4:17**
+
+[TODO]
+
+**Joshua 4:18**
+
+[TODO]
+
+**Joshua 4:19**
+
+[TODO]
+
+**Joshua 4:20**
+
+[TODO]
+
+**Joshua 4:21**
+
+[TODO]
+
+**Joshua 4:22**
+
+[TODO]
+
+**Joshua 4:23**
+
+[TODO]
+
+**Joshua 4:24**
+
+[TODO]
+
+### Chapter 5
+
+**Joshua 5:1**
+
+[TODO]
+
+**Joshua 5:2**
+
+[TODO]
+
+**Joshua 5:3**
+
+[TODO]
+
+**Joshua 5:4**
+
+[TODO]
+
+**Joshua 5:5**
+
+[TODO]
+
+**Joshua 5:6**
+
+[TODO]
+
+**Joshua 5:7**
+
+[TODO]
+
+**Joshua 5:8**
+
+[TODO]
+
+**Joshua 5:9**
+
+[TODO]
+
+**Joshua 5:10**
+
+[TODO]
+
+**Joshua 5:11**
+
+[TODO]
+
+**Joshua 5:12**
+
+[TODO]
+
+**Joshua 5:13**
+
+[TODO]
+
+**Joshua 5:14**
+
+[TODO]
+
+**Joshua 5:15**
+
+[TODO]
+
+### Chapter 6
+
+**Joshua 6:1**
+
+[TODO]
+
+**Joshua 6:2**
+
+[TODO]
+
+**Joshua 6:3**
+
+[TODO]
+
+**Joshua 6:5**
+
+[TODO]
+
+**Joshua 6:6**
+
+[TODO]
+
+**Joshua 6:7**
+
+[TODO]
+
+**Joshua 6:8**
+
+[TODO]
+
+**Joshua 6:9**
+
+[TODO]
+
+**Joshua 6:10**
+
+[TODO]
+
+**Joshua 6:11**
+
+[TODO]
+
+**Joshua 6:12**
+
+[TODO]
+
+**Joshua 6:13**
+
+[TODO]
+
+**Joshua 6:14**
+
+[TODO]
+
+**Joshua 6:15**
+
+[TODO]
+
+**Joshua 6:16**
+
+[TODO]
+
+**Joshua 6:17**
+
+[TODO]
+
+**Joshua 6:18**
+
+[TODO]
+
+**Joshua 6:19**
+
+[TODO]
+
+**Joshua 6:20**
+
+[TODO]
+
+**Joshua 6:21**
+
+[TODO]
+
+**Joshua 6:22**
+
+[TODO]
+
+**Joshua 6:23**
+
+[TODO]
+
+**Joshua 6:24**
+
+[TODO]
+
+**Joshua 6:25**
+
+[TODO]
+
+**Joshua 6:26**
+
+[TODO]
+
+**Joshua 6:27**
+
+[TODO]
+
+### Chapter 7
+
+**Joshua 7:1**
+
+[TODO]
+
+**Joshua 7:2**
+
+[TODO]
+
+**Joshua 7:3**
+
+[TODO]
+
+**Joshua 7:4**
+
+[TODO]
+
+**Joshua 7:5**
+
+[TODO]
+
+**Joshua 7:6**
+
+[TODO]
+
+**Joshua 7:7**
+
+[TODO]
+
+**Joshua 7:8**
+
+[TODO]
+
+**Joshua 7:9**
+
+[TODO]
+
+**Joshua 7:10**
+
+[TODO]
+
+**Joshua 7:11**
+
+[TODO]
+
+**Joshua 7:12**
+
+[TODO]
+
+**Joshua 7:13**
+
+[TODO]
+
+**Joshua 7:14**
+
+[TODO]
+
+**Joshua 7:15**
+
+[TODO]
+
+**Joshua 7:16**
+
+[TODO]
+
+**Joshua 7:17**
+
+[TODO]
+
+**Joshua 7:18**
+
+[TODO]
+
+**Joshua 7:19**
+
+[TODO]
+
+**Joshua 7:20**
+
+[TODO]
+
+**Joshua 7:21**
+
+[TODO]
+
+**Joshua 7:22**
+
+[TODO]
+
+**Joshua 7:23**
+
+[TODO]
+
+**Joshua 7:24**
+
+[TODO]
+
+**Joshua 7:25**
+
+[TODO]
+
+**Joshua 7:26**
+
+[TODO]
+
+### Chapter 8
+
+**Joshua 8:1**
+
+[TODO]
+
+**Joshua 8:2**
+
+[TODO]
+
+**Joshua 8:3**
+
+[TODO]
+
+**Joshua 8:4**
+
+[TODO]
+
+**Joshua 8:5**
+
+[TODO]
+
+**Joshua 8:6**
+
+[TODO]
+
+**Joshua 8:7**
+
+[TODO]
+
+**Joshua 8:8**
+
+[TODO]
+
+**Joshua 8:9**
+
+[TODO]
+
+**Joshua 8:10**
+
+[TODO]
+
+**Joshua 8:11**
+
+[TODO]
+
+**Joshua 8:12**
+
+[TODO]
+
+**Joshua 8:14**
+
+[TODO]
+
+**Joshua 8:15**
+
+[TODO]
+
+**Joshua 8:16**
+
+[TODO]
+
+**Joshua 8:17**
+
+[TODO]
+
+**Joshua 8:18**
+
+[TODO]
+
+**Joshua 8:19**
+
+[TODO]
+
+**Joshua 8:20**
+
+[TODO]
+
+**Joshua 8:21**
+
+[TODO]
+
+**Joshua 8:22**
+
+[TODO]
+
+**Joshua 8:23**
+
+[TODO]
+
+**Joshua 8:24**
+
+[TODO]
+
+**Joshua 8:25**
+
+[TODO]
+
+**Joshua 8:27**
+
+[TODO]
+
+**Joshua 8:28**
+
+[TODO]
+
+**Joshua 8:29**
+
+[TODO]
+
+### Chapter 9
+
+**Joshua 9:1**
+
+[TODO]
+
+**Joshua 9:2**
+
+[TODO]
+
+**Joshua 9:3**
+
+[TODO]
+
+**Joshua 9:4**
+
+[TODO]
+
+**Joshua 9:5**
+
+[TODO]
+
+**Joshua 9:6**
+
+[TODO]
+
+**Joshua 9:7**
+
+[TODO]
+
+**Joshua 9:8**
+
+[TODO]
+
+**Joshua 9:9**
+
+[TODO]
+
+**Joshua 9:10**
+
+[TODO]
+
+**Joshua 9:11**
+
+[TODO]
+
+**Joshua 9:12**
+
+[TODO]
+
+**Joshua 9:13**
+
+[TODO]
+
+**Joshua 9:14**
+
+[TODO]
+
+**Joshua 9:15**
+
+[TODO]
+
+**Joshua 9:16**
+
+[TODO]
+
+**Joshua 9:17**
+
+[TODO]
+
+**Joshua 9:18**
+
+[TODO]
+
+**Joshua 9:19**
+
+[TODO]
+
+**Joshua 9:20**
+
+[TODO]
+
+**Joshua 9:21**
+
+[TODO]
+
+**Joshua 9:22**
+
+[TODO]
+
+**Joshua 9:23**
+
+[TODO]
+
+**Joshua 9:24**
+
+[TODO]
+
+**Joshua 9:25**
+
+[TODO]
+
+**Joshua 9:26**
+
+[TODO]
+
+**Joshua 9:27**
+
+[TODO]
+
+### Chapter 10
+
+**Joshua 10:1**
+
+[TODO]
+
+**Joshua 10:2**
+
+[TODO]
+
+**Joshua 10:3**
+
+[TODO]
+
+**Joshua 10:4**
+
+[TODO]
+
+**Joshua 10:5**
+
+[TODO]
+
+**Joshua 10:6**
+
+[TODO]
+
+**Joshua 10:7**
+
+[TODO]
+
+**Joshua 10:8**
+
+[TODO]
+
+**Joshua 10:9**
+
+[TODO]
+
+**Joshua 10:10**
+
+[TODO]
+
+**Joshua 10:11**
+
+[TODO]
+
+**Joshua 10:12**
+
+[TODO]
+
+**Joshua 10:13**
+
+[TODO]
+
+**Joshua 10:14**
+
+[TODO]
+
+**Joshua 10:16**
+
+[TODO]
+
+**Joshua 10:17**
+
+[TODO]
+
+**Joshua 10:18**
+
+[TODO]
+
+**Joshua 10:19**
+
+[TODO]
+
+**Joshua 10:20**
+
+[TODO]
+
+**Joshua 10:21**
+
+[TODO]
+
+**Joshua 10:22**
+
+[TODO]
+
+**Joshua 10:23**
+
+[TODO]
+
+**Joshua 10:24**
+
+[TODO]
+
+**Joshua 10:25**
+
+[TODO]
+
+**Joshua 10:26**
+
+[TODO]
+
+**Joshua 10:27**
+
+[TODO]
+
+**Joshua 10:28**
+
+[TODO]
+
+**Joshua 10:29**
+
+[TODO]
+
+**Joshua 10:30**
+
+[TODO]
+
+**Joshua 10:31**
+
+[TODO]
+
+**Joshua 10:32**
+
+[TODO]
+
+**Joshua 10:33**
+
+[TODO]
+
+**Joshua 10:34**
+
+[TODO]
+
+**Joshua 10:35**
+
+[TODO]
+
+**Joshua 10:36**
+
+[TODO]
+
+**Joshua 10:37**
+
+[TODO]
+
+**Joshua 10:38**
+
+[TODO]
+
+**Joshua 10:39**
+
+[TODO]
+
+**Joshua 10:40**
+
+[TODO]
+
+**Joshua 10:41**
+
+[TODO]
+
+**Joshua 10:42**
+
+[TODO]
+
+### Chapter 11
+
+**Joshua 11:1**
+
+[TODO]
+
+**Joshua 11:2**
+
+[TODO]
+
+**Joshua 11:3**
+
+[TODO]
+
+**Joshua 11:4**
+
+[TODO]
+
+**Joshua 11:5**
+
+[TODO]
+
+**Joshua 11:6**
+
+[TODO]
+
+**Joshua 11:7**
+
+[TODO]
+
+**Joshua 11:8**
+
+[TODO]
+
+**Joshua 11:9**
+
+[TODO]
+
+**Joshua 11:10**
+
+[TODO]
+
+**Joshua 11:11**
+
+[TODO]
+
+**Joshua 11:12**
+
+[TODO]
+
+**Joshua 11:13**
+
+[TODO]
+
+**Joshua 11:14**
+
+[TODO]
+
+**Joshua 11:15**
+
+[TODO]
+
+**Joshua 11:16**
+
+[TODO]
+
+**Joshua 11:17**
+
+[TODO]
+
+**Joshua 11:18**
+
+[TODO]
+
+**Joshua 11:19**
+
+[TODO]
+
+**Joshua 11:20**
+
+[TODO]
+
+**Joshua 11:21**
+
+[TODO]
+
+**Joshua 11:22**
+
+[TODO]
+
+**Joshua 11:23**
+
+[TODO]
+
+### Chapter 12
+
+**Joshua 12:1**
+
+[TODO]
+
+**Joshua 12:2**
+
+[TODO]
+
+**Joshua 12:3**
+
+[TODO]
+
+**Joshua 12:4**
+
+[TODO]
+
+**Joshua 12:5**
+
+[TODO]
+
+**Joshua 12:6**
+
+[TODO]
+
+**Joshua 12:7**
+
+[TODO]
+
+**Joshua 12:8**
+
+[TODO]
+
+**Joshua 12:9**
+
+[TODO]
+
+**Joshua 12:10**
+
+[TODO]
+
+**Joshua 12:11**
+
+[TODO]
+
+**Joshua 12:12**
+
+[TODO]
+
+**Joshua 12:13**
+
+[TODO]
+
+**Joshua 12:14**
+
+[TODO]
+
+**Joshua 12:15**
+
+[TODO]
+
+**Joshua 12:16**
+
+[TODO]
+
+**Joshua 12:17**
+
+[TODO]
+
+**Joshua 12:18**
+
+[TODO]
+
+**Joshua 12:19**
+
+[TODO]
+
+**Joshua 12:20**
+
+[TODO]
+
+**Joshua 12:21**
+
+[TODO]
+
+**Joshua 12:22**
+
+[TODO]
+
+**Joshua 12:23**
+
+[TODO]
+
+**Joshua 12:24**
+
+[TODO]
+
+### Chapter 13
+
+**Joshua 13:1**
+
+[TODO]
+
+**Joshua 13:2**
+
+[TODO]
+
+**Joshua 13:3**
+
+[TODO]
+
+**Joshua 13:4**
+
+[TODO]
+
+**Joshua 13:5**
+
+[TODO]
+
+**Joshua 13:6**
+
+[TODO]
+
+**Joshua 13:7**
+
+[TODO]
+
+**Joshua 13:8**
+
+[TODO]
+
+**Joshua 13:9**
+
+[TODO]
+
+**Joshua 13:10**
+
+[TODO]
+
+**Joshua 13:11**
+
+[TODO]
+
+**Joshua 13:12**
+
+[TODO]
+
+**Joshua 13:13**
+
+[TODO]
+
+**Joshua 13:14**
+
+[TODO]
+
+**Joshua 13:15**
+
+[TODO]
+
+**Joshua 13:16**
+
+[TODO]
+
+**Joshua 13:17**
+
+[TODO]
+
+**Joshua 13:18**
+
+[TODO]
+
+**Joshua 13:19**
+
+[TODO]
+
+**Joshua 13:20**
+
+[TODO]
+
+**Joshua 13:21**
+
+[TODO]
+
+**Joshua 13:22**
+
+[TODO]
+
+**Joshua 13:23**
+
+[TODO]
+
+**Joshua 13:24**
+
+[TODO]
+
+**Joshua 13:25**
+
+[TODO]
+
+**Joshua 13:26**
+
+[TODO]
+
+**Joshua 13:27**
+
+[TODO]
+
+**Joshua 13:28**
+
+[TODO]
+
+**Joshua 13:29**
+
+[TODO]
+
+**Joshua 13:30**
+
+[TODO]
+
+**Joshua 13:31**
+
+[TODO]
+
+**Joshua 13:32**
+
+[TODO]
+
+### Chapter 14
+
+**Joshua 14:1**
+
+[TODO]
+
+**Joshua 14:2**
+
+[TODO]
+
+**Joshua 14:3**
+
+[TODO]
+
+**Joshua 14:4**
+
+[TODO]
+
+**Joshua 14:5**
+
+[TODO]
+
+**Joshua 14:6**
+
+[TODO]
+
+**Joshua 14:7**
+
+[TODO]
+
+**Joshua 14:8**
+
+[TODO]
+
+**Joshua 14:9**
+
+[TODO]
+
+**Joshua 14:10**
+
+[TODO]
+
+**Joshua 14:11**
+
+[TODO]
+
+**Joshua 14:12**
+
+[TODO]
+
+**Joshua 14:13**
+
+[TODO]
+
+**Joshua 14:14**
+
+[TODO]
+
+**Joshua 14:15**
+
+[TODO]
+
+### Chapter 15
+
+**Joshua 15:1**
+
+[TODO]
+
+**Joshua 15:2**
+
+[TODO]
+
+**Joshua 15:3**
+
+[TODO]
+
+**Joshua 15:4**
+
+[TODO]
+
+**Joshua 15:5**
+
+[TODO]
+
+**Joshua 15:6**
+
+[TODO]
+
+**Joshua 15:7**
+
+[TODO]
+
+**Joshua 15:8**
+
+[TODO]
+
+**Joshua 15:9**
+
+[TODO]
+
+**Joshua 15:10**
+
+[TODO]
+
+**Joshua 15:11**
+
+[TODO]
+
+**Joshua 15:12**
+
+[TODO]
+
+**Joshua 15:13**
+
+[TODO]
+
+**Joshua 15:14**
+
+[TODO]
+
+**Joshua 15:15**
+
+[TODO]
+
+**Joshua 15:16**
+
+[TODO]
+
+**Joshua 15:17**
+
+[TODO]
+
+**Joshua 15:18**
+
+[TODO]
+
+**Joshua 15:19**
+
+[TODO]
+
+**Joshua 15:20**
+
+[TODO]
+
+**Joshua 15:21**
+
+[TODO]
+
+**Joshua 15:22**
+
+[TODO]
+
+**Joshua 15:23**
+
+[TODO]
+
+**Joshua 15:24**
+
+[TODO]
+
+**Joshua 15:25**
+
+[TODO]
+
+**Joshua 15:26**
+
+[TODO]
+
+**Joshua 15:27**
+
+[TODO]
+
+**Joshua 15:28**
+
+[TODO]
+
+**Joshua 15:29**
+
+[TODO]
+
+**Joshua 15:30**
+
+[TODO]
+
+**Joshua 15:31**
+
+[TODO]
+
+**Joshua 15:32**
+
+[TODO]
+
+**Joshua 15:33**
+
+[TODO]
+
+**Joshua 15:34**
+
+[TODO]
+
+**Joshua 15:35**
+
+[TODO]
+
+**Joshua 15:36**
+
+[TODO]
+
+**Joshua 15:37**
+
+[TODO]
+
+**Joshua 15:38**
+
+[TODO]
+
+**Joshua 15:39**
+
+[TODO]
+
+**Joshua 15:40**
+
+[TODO]
+
+**Joshua 15:41**
+
+[TODO]
+
+**Joshua 15:42**
+
+[TODO]
+
+**Joshua 15:43**
+
+[TODO]
+
+**Joshua 15:44**
+
+[TODO]
+
+**Joshua 15:45**
+
+[TODO]
+
+**Joshua 15:46**
+
+[TODO]
+
+**Joshua 15:47**
+
+[TODO]
+
+**Joshua 15:48**
+
+[TODO]
+
+**Joshua 15:49**
+
+[TODO]
+
+**Joshua 15:50**
+
+[TODO]
+
+**Joshua 15:51**
+
+[TODO]
+
+**Joshua 15:52**
+
+[TODO]
+
+**Joshua 15:53**
+
+[TODO]
+
+**Joshua 15:54**
+
+[TODO]
+
+**Joshua 15:55**
+
+[TODO]
+
+**Joshua 15:56**
+
+[TODO]
+
+**Joshua 15:57**
+
+[TODO]
+
+**Joshua 15:58**
+
+[TODO]
+
+**Joshua 15:59**
+
+[TODO]
+
+**Joshua 15:60**
+
+[TODO]
+
+**Joshua 15:61**
+
+[TODO]
+
+**Joshua 15:62**
+
+[TODO]
+
+**Joshua 15:63**
+
+[TODO]
+
+### Chapter 16
+
+**Joshua 16:1**
+
+[TODO]
+
+**Joshua 16:2**
+
+[TODO]
+
+**Joshua 16:3**
+
+[TODO]
+
+**Joshua 16:4**
+
+[TODO]
+
+**Joshua 16:5**
+
+[TODO]
+
+**Joshua 16:6**
+
+[TODO]
+
+**Joshua 16:7**
+
+[TODO]
+
+**Joshua 16:8**
+
+[TODO]
+
+**Joshua 16:9**
+
+[TODO]
+
+**Joshua 16:10**
+
+[TODO]
+
+### Chapter 17
+
+**Joshua 17:1**
+
+[TODO]
+
+**Joshua 17:2**
+
+[TODO]
+
+**Joshua 17:3**
+
+[TODO]
+
+**Joshua 17:4**
+
+[TODO]
+
+**Joshua 17:5**
+
+[TODO]
+
+**Joshua 17:6**
+
+[TODO]
+
+**Joshua 17:7**
+
+[TODO]
+
+**Joshua 17:8**
+
+[TODO]
+
+**Joshua 17:9**
+
+[TODO]
+
+**Joshua 17:10**
+
+[TODO]
+
+**Joshua 17:11**
+
+[TODO]
+
+**Joshua 17:12**
+
+[TODO]
+
+**Joshua 17:13**
+
+[TODO]
+
+**Joshua 17:14**
+
+[TODO]
+
+**Joshua 17:15**
+
+[TODO]
+
+**Joshua 17:16**
+
+[TODO]
+
+**Joshua 17:17**
+
+[TODO]
+
+**Joshua 17:18**
+
+[TODO]
+
+### Chapter 18
+
+**Joshua 18:1**
+
+[TODO]
+
+**Joshua 18:2**
+
+[TODO]
+
+**Joshua 18:3**
+
+[TODO]
+
+**Joshua 18:4**
+
+[TODO]
+
+**Joshua 18:5**
+
+[TODO]
+
+**Joshua 18:6**
+
+[TODO]
+
+**Joshua 18:7**
+
+[TODO]
+
+**Joshua 18:8**
+
+[TODO]
+
+**Joshua 18:9**
+
+[TODO]
+
+**Joshua 18:10**
+
+[TODO]
+
+**Joshua 18:11**
+
+[TODO]
+
+**Joshua 18:12**
+
+[TODO]
+
+**Joshua 18:13**
+
+[TODO]
+
+**Joshua 18:14**
+
+[TODO]
+
+**Joshua 18:15**
+
+[TODO]
+
+**Joshua 18:16**
+
+[TODO]
+
+**Joshua 18:17**
+
+[TODO]
+
+**Joshua 18:18**
+
+[TODO]
+
+**Joshua 18:19**
+
+[TODO]
+
+**Joshua 18:20**
+
+[TODO]
+
+**Joshua 18:21**
+
+[TODO]
+
+**Joshua 18:22**
+
+[TODO]
+
+**Joshua 18:23**
+
+[TODO]
+
+**Joshua 18:24**
+
+[TODO]
+
+**Joshua 18:25**
+
+[TODO]
+
+**Joshua 18:26**
+
+[TODO]
+
+**Joshua 18:27**
+
+[TODO]
+
+**Joshua 18:28**
+
+[TODO]
+
+### Chapter 19
+
+**Joshua 19:1**
+
+[TODO]
+
+**Joshua 19:2**
+
+[TODO]
+
+**Joshua 19:3**
+
+[TODO]
+
+**Joshua 19:4**
+
+[TODO]
+
+**Joshua 19:5**
+
+[TODO]
+
+**Joshua 19:6**
+
+[TODO]
+
+**Joshua 19:7**
+
+[TODO]
+
+**Joshua 19:8**
+
+[TODO]
+
+**Joshua 19:9**
+
+[TODO]
+
+**Joshua 19:10**
+
+[TODO]
+
+**Joshua 19:11**
+
+[TODO]
+
+**Joshua 19:12**
+
+[TODO]
+
+**Joshua 19:13**
+
+[TODO]
+
+**Joshua 19:14**
+
+[TODO]
+
+**Joshua 19:15**
+
+[TODO]
+
+**Joshua 19:16**
+
+[TODO]
+
+**Joshua 19:17**
+
+[TODO]
+
+**Joshua 19:18**
+
+[TODO]
+
+**Joshua 19:19**
+
+[TODO]
+
+**Joshua 19:20**
+
+[TODO]
+
+**Joshua 19:21**
+
+[TODO]
+
+**Joshua 19:22**
+
+[TODO]
+
+**Joshua 19:23**
+
+[TODO]
+
+**Joshua 19:24**
+
+[TODO]
+
+**Joshua 19:25**
+
+[TODO]
+
+**Joshua 19:26**
+
+[TODO]
+
+**Joshua 19:27**
+
+[TODO]
+
+**Joshua 19:28**
+
+[TODO]
+
+**Joshua 19:29**
+
+[TODO]
+
+**Joshua 19:30**
+
+[TODO]
+
+**Joshua 19:31**
+
+[TODO]
+
+**Joshua 19:32**
+
+[TODO]
+
+**Joshua 19:33**
+
+[TODO]
+
+**Joshua 19:34**
+
+[TODO]
+
+**Joshua 19:35**
+
+[TODO]
+
+**Joshua 19:36**
+
+[TODO]
+
+**Joshua 19:37**
+
+[TODO]
+
+**Joshua 19:38**
+
+[TODO]
+
+**Joshua 19:39**
+
+[TODO]
+
+**Joshua 19:40**
+
+[TODO]
+
+**Joshua 19:41**
+
+[TODO]
+
+**Joshua 19:42**
+
+[TODO]
+
+**Joshua 19:43**
+
+[TODO]
+
+**Joshua 19:44**
+
+[TODO]
+
+**Joshua 19:45**
+
+[TODO]
+
+**Joshua 19:46**
+
+[TODO]
+
+**Joshua 19:47**
+
+[TODO]
+
+**Joshua 19:48**
+
+[TODO]
+
+**Joshua 19:49**
+
+[TODO]
+
+**Joshua 19:50**
+
+[TODO]
+
+**Joshua 19:51**
+
+[TODO]
+
+### Chapter 20
+
+**Joshua 20:1**
+
+[TODO]
+
+**Joshua 20:2**
+
+[TODO]
+
+**Joshua 20:3**
+
+[TODO]
+
+**Joshua 20:7**
+
+[TODO]
+
+**Joshua 20:8**
+
+[TODO]
+
+**Joshua 20:9**
+
+[TODO]
+
+### Chapter 21
+
+**Joshua 21:1**
+
+[TODO]
+
+**Joshua 21:2**
+
+[TODO]
+
+**Joshua 21:3**
+
+[TODO]
+
+**Joshua 21:4**
+
+[TODO]
+
+**Joshua 21:5**
+
+[TODO]
+
+**Joshua 21:6**
+
+[TODO]
+
+**Joshua 21:7**
+
+[TODO]
+
+**Joshua 21:8**
+
+[TODO]
+
+**Joshua 21:9**
+
+[TODO]
+
+**Joshua 21:10**
+
+[TODO]
+
+**Joshua 21:11**
+
+[TODO]
+
+**Joshua 21:12**
+
+[TODO]
+
+**Joshua 21:13**
+
+[TODO]
+
+**Joshua 21:14**
+
+[TODO]
+
+**Joshua 21:15**
+
+[TODO]
+
+**Joshua 21:16**
+
+[TODO]
+
+**Joshua 21:17**
+
+[TODO]
+
+**Joshua 21:18**
+
+[TODO]
+
+**Joshua 21:19**
+
+[TODO]
+
+**Joshua 21:20**
+
+[TODO]
+
+**Joshua 21:21**
+
+[TODO]
+
+**Joshua 21:22**
+
+[TODO]
+
+**Joshua 21:23**
+
+[TODO]
+
+**Joshua 21:24**
+
+[TODO]
+
+**Joshua 21:25**
+
+[TODO]
+
+**Joshua 21:26**
+
+[TODO]
+
+**Joshua 21:27**
+
+[TODO]
+
+**Joshua 21:28**
+
+[TODO]
+
+**Joshua 21:29**
+
+[TODO]
+
+**Joshua 21:30**
+
+[TODO]
+
+**Joshua 21:31**
+
+[TODO]
+
+**Joshua 21:32**
+
+[TODO]
+
+**Joshua 21:33**
+
+[TODO]
+
+**Joshua 21:34**
+
+[TODO]
+
+**Joshua 21:35**
+
+[TODO]
+
+**Joshua 21:36**
+
+[TODO]
+
+**Joshua 21:37**
+
+[TODO]
+
+**Joshua 21:38**
+
+[TODO]
+
+**Joshua 21:39**
+
+[TODO]
+
+**Joshua 21:40**
+
+[TODO]
+
+**Joshua 21:41**
+
+[TODO]
+
+**Joshua 21:42**
+
+[TODO]
+
+**Joshua 21:43**
+
+[TODO]
+
+**Joshua 21:44**
+
+[TODO]
+
+**Joshua 21:45**
+
+[TODO]
+
+### Chapter 22
+
+**Joshua 22:1**
+
+[TODO]
+
+**Joshua 22:2**
+
+[TODO]
+
+**Joshua 22:3**
+
+[TODO]
+
+**Joshua 22:4**
+
+[TODO]
+
+**Joshua 22:5**
+
+[TODO]
+
+**Joshua 22:6**
+
+[TODO]
+
+**Joshua 22:7**
+
+[TODO]
+
+**Joshua 22:8**
+
+[TODO]
+
+**Joshua 22:9**
+
+[TODO]
+
+**Joshua 22:10**
+
+[TODO]
+
+**Joshua 22:11**
+
+[TODO]
+
+**Joshua 22:12**
+
+[TODO]
+
+**Joshua 22:13**
+
+[TODO]
+
+**Joshua 22:14**
+
+[TODO]
+
+**Joshua 22:15**
+
+[TODO]
+
+**Joshua 22:16**
+
+[TODO]
+
+**Joshua 22:17**
+
+[TODO]
+
+**Joshua 22:18**
+
+[TODO]
+
+**Joshua 22:19**
+
+[TODO]
+
+**Joshua 22:20**
+
+[TODO]
+
+**Joshua 22:21**
+
+[TODO]
+
+**Joshua 22:22**
+
+[TODO]
+
+**Joshua 22:23**
+
+[TODO]
+
+**Joshua 22:24**
+
+[TODO]
+
+**Joshua 22:25**
+
+[TODO]
+
+**Joshua 22:26**
+
+[TODO]
+
+**Joshua 22:27**
+
+[TODO]
+
+**Joshua 22:28**
+
+[TODO]
+
+**Joshua 22:29**
+
+[TODO]
+
+**Joshua 22:30**
+
+[TODO]
+
+**Joshua 22:31**
+
+[TODO]
+
+**Joshua 22:32**
+
+[TODO]
+
+**Joshua 22:33**
+
+[TODO]
+
+**Joshua 22:34**
+
+[TODO]
+
+### Chapter 23
+
+**Joshua 23:1**
+
+[TODO]
+
+**Joshua 23:2**
+
+[TODO]
+
+**Joshua 23:3**
+
+[TODO]
+
+**Joshua 23:4**
+
+[TODO]
+
+**Joshua 23:5**
+
+[TODO]
+
+**Joshua 23:6**
+
+[TODO]
+
+**Joshua 23:7**
+
+[TODO]
+
+**Joshua 23:8**
+
+[TODO]
+
+**Joshua 23:9**
+
+[TODO]
+
+**Joshua 23:10**
+
+[TODO]
+
+**Joshua 23:11**
+
+[TODO]
+
+**Joshua 23:12**
+
+[TODO]
+
+**Joshua 23:13**
+
+[TODO]
+
+**Joshua 23:14**
+
+[TODO]
+
+**Joshua 23:15**
+
+[TODO]
+
+**Joshua 23:16**
+
+[TODO]
+
+### Chapter 24
+
+**Joshua 24:1**
+
+[TODO]
+
+**Joshua 24:2**
+
+[TODO]
+
+**Joshua 24:3**
+
+[TODO]
+
+**Joshua 24:4**
+
+[TODO]
+
+**Joshua 24:5**
+
+[TODO]
+
+**Joshua 24:6**
+
+[TODO]
+
+**Joshua 24:7**
+
+[TODO]
+
+**Joshua 24:8**
+
+[TODO]
+
+**Joshua 24:9**
+
+[TODO]
+
+**Joshua 24:10**
+
+[TODO]
+
+**Joshua 24:11**
+
+[TODO]
+
+**Joshua 24:12**
+
+[TODO]
+
+**Joshua 24:13**
+
+[TODO]
+
+**Joshua 24:14**
+
+[TODO]
+
+**Joshua 24:15**
+
+[TODO]
+
+**Joshua 24:16**
+
+[TODO]
+
+**Joshua 24:17**
+
+[TODO]
+
+**Joshua 24:18**
+
+[TODO]
+
+**Joshua 24:19**
+
+[TODO]
+
+**Joshua 24:20**
+
+[TODO]
+
+**Joshua 24:21**
+
+[TODO]
+
+**Joshua 24:22**
+
+[TODO]
+
+**Joshua 24:23**
+
+[TODO]
+
+**Joshua 24:24**
+
+[TODO]
+
+**Joshua 24:25**
+
+[TODO]
+
+**Joshua 24:26**
+
+[TODO]
+
+**Joshua 24:27**
+
+[TODO]
+
+**Joshua 24:28**
+
+[TODO]
+
+**Joshua 24:29**
+
+[TODO]
+
+**Joshua 24:30**
+
+[TODO]
+
+**Joshua 24:31**
+
+[TODO]
+
+**Joshua 24:32**
+
+[TODO]
+
+**Joshua 24:33**
+
+[TODO]
+
+## Judges
+
+### Chapter 1
+
+**Judges 1:1**
+
+[TODO]
+
+**Judges 1:2**
+
+[TODO]
+
+**Judges 1:3**
+
+[TODO]
+
+**Judges 1:4**
+
+[TODO]
+
+**Judges 1:5**
+
+[TODO]
+
+**Judges 1:6**
+
+[TODO]
+
+**Judges 1:7**
+
+[TODO]
+
+**Judges 1:8**
+
+[TODO]
+
+**Judges 1:9**
+
+[TODO]
+
+**Judges 1:10**
+
+[TODO]
+
+**Judges 1:11**
+
+[TODO]
+
+**Judges 1:12**
+
+[TODO]
+
+**Judges 1:13**
+
+[TODO]
+
+**Judges 1:14**
+
+[TODO]
+
+**Judges 1:15**
+
+[TODO]
+
+**Judges 1:16**
+
+[TODO]
+
+**Judges 1:17**
+
+[TODO]
+
+**Judges 1:18**
+
+[TODO]
+
+**Judges 1:19**
+
+[TODO]
+
+**Judges 1:20**
+
+[TODO]
+
+**Judges 1:21**
+
+[TODO]
+
+**Judges 1:22**
+
+[TODO]
+
+**Judges 1:23**
+
+[TODO]
+
+**Judges 1:24**
+
+[TODO]
+
+**Judges 1:25**
+
+[TODO]
+
+**Judges 1:26**
+
+[TODO]
+
+**Judges 1:27**
+
+[TODO]
+
+**Judges 1:28**
+
+[TODO]
+
+**Judges 1:29**
+
+[TODO]
+
+**Judges 1:30**
+
+[TODO]
+
+**Judges 1:31**
+
+[TODO]
+
+**Judges 1:32**
+
+[TODO]
+
+**Judges 1:33**
+
+[TODO]
+
+**Judges 1:34**
+
+[TODO]
+
+**Judges 1:35**
+
+[TODO]
+
+**Judges 1:36**
+
+[TODO]
+
+### Chapter 2
+
+**Judges 2:1**
+
+[TODO]
+
+**Judges 2:2**
+
+[TODO]
+
+**Judges 2:3**
+
+[TODO]
+
+**Judges 2:4**
+
+[TODO]
+
+**Judges 2:5**
+
+[TODO]
+
+**Judges 2:6**
+
+[TODO]
+
+**Judges 2:7**
+
+[TODO]
+
+**Judges 2:8**
+
+[TODO]
+
+**Judges 2:9**
+
+[TODO]
+
+**Judges 2:10**
+
+[TODO]
+
+**Judges 2:11**
+
+[TODO]
+
+**Judges 2:12**
+
+[TODO]
+
+**Judges 2:13**
+
+[TODO]
+
+**Judges 2:14**
+
+[TODO]
+
+**Judges 2:15**
+
+[TODO]
+
+**Judges 2:16**
+
+[TODO]
+
+**Judges 2:17**
+
+[TODO]
+
+**Judges 2:18**
+
+[TODO]
+
+**Judges 2:19**
+
+[TODO]
+
+**Judges 2:20**
+
+[TODO]
+
+**Judges 2:21**
+
+[TODO]
+
+**Judges 2:22**
+
+[TODO]
+
+**Judges 2:23**
+
+[TODO]
+
+### Chapter 3
+
+**Judges 3:1**
+
+[TODO]
+
+**Judges 3:2**
+
+[TODO]
+
+**Judges 3:3**
+
+[TODO]
+
+**Judges 3:4**
+
+[TODO]
+
+**Judges 3:5**
+
+[TODO]
+
+**Judges 3:6**
+
+[TODO]
+
+**Judges 3:7**
+
+[TODO]
+
+**Judges 3:8**
+
+[TODO]
+
+**Judges 3:9**
+
+[TODO]
+
+**Judges 3:10**
+
+[TODO]
+
+**Judges 3:11**
+
+[TODO]
+
+**Judges 3:12**
+
+[TODO]
+
+**Judges 3:13**
+
+[TODO]
+
+**Judges 3:14**
+
+[TODO]
+
+**Judges 3:15**
+
+[TODO]
+
+**Judges 3:16**
+
+[TODO]
+
+**Judges 3:17**
+
+[TODO]
+
+**Judges 3:18**
+
+[TODO]
+
+**Judges 3:19**
+
+[TODO]
+
+**Judges 3:20**
+
+[TODO]
+
+**Judges 3:21**
+
+[TODO]
+
+**Judges 3:22**
+
+[TODO]
+
+**Judges 3:23**
+
+[TODO]
+
+**Judges 3:24**
+
+[TODO]
+
+**Judges 3:25**
+
+[TODO]
+
+**Judges 3:26**
+
+[TODO]
+
+**Judges 3:27**
+
+[TODO]
+
+**Judges 3:28**
+
+[TODO]
+
+**Judges 3:29**
+
+[TODO]
+
+**Judges 3:30**
+
+[TODO]
+
+**Judges 3:31**
+
+[TODO]
+
+### Chapter 4
+
+**Judges 4:1**
+
+[TODO]
+
+**Judges 4:2**
+
+[TODO]
+
+**Judges 4:3**
+
+[TODO]
+
+**Judges 4:4**
+
+[TODO]
+
+**Judges 4:5**
+
+[TODO]
+
+**Judges 4:6**
+
+[TODO]
+
+**Judges 4:7**
+
+[TODO]
+
+**Judges 4:8**
+
+[TODO]
+
+**Judges 4:9**
+
+[TODO]
+
+**Judges 4:10**
+
+[TODO]
+
+**Judges 4:11**
+
+[TODO]
+
+**Judges 4:12**
+
+[TODO]
+
+**Judges 4:13**
+
+[TODO]
+
+**Judges 4:14**
+
+[TODO]
+
+**Judges 4:15**
+
+[TODO]
+
+**Judges 4:16**
+
+[TODO]
+
+**Judges 4:17**
+
+[TODO]
+
+**Judges 4:18**
+
+[TODO]
+
+**Judges 4:19**
+
+[TODO]
+
+**Judges 4:20**
+
+[TODO]
+
+**Judges 4:21**
+
+[TODO]
+
+**Judges 4:22**
+
+[TODO]
+
+**Judges 4:23**
+
+[TODO]
+
+**Judges 4:24**
+
+[TODO]
+
+### Chapter 5
+
+**Judges 5:1**
+
+[TODO]
+
+**Judges 5:2**
+
+[TODO]
+
+**Judges 5:3**
+
+[TODO]
+
+**Judges 5:4**
+
+[TODO]
+
+**Judges 5:5**
+
+[TODO]
+
+**Judges 5:6**
+
+[TODO]
+
+**Judges 5:7**
+
+[TODO]
+
+**Judges 5:8**
+
+[TODO]
+
+**Judges 5:9**
+
+[TODO]
+
+**Judges 5:10**
+
+[TODO]
+
+**Judges 5:11**
+
+[TODO]
+
+**Judges 5:12**
+
+[TODO]
+
+**Judges 5:13**
+
+[TODO]
+
+**Judges 5:14**
+
+[TODO]
+
+**Judges 5:15**
+
+[TODO]
+
+**Judges 5:16**
+
+[TODO]
+
+**Judges 5:17**
+
+[TODO]
+
+**Judges 5:18**
+
+[TODO]
+
+**Judges 5:19**
+
+[TODO]
+
+**Judges 5:20**
+
+[TODO]
+
+**Judges 5:21**
+
+[TODO]
+
+**Judges 5:22**
+
+[TODO]
+
+**Judges 5:23**
+
+[TODO]
+
+**Judges 5:24**
+
+[TODO]
+
+**Judges 5:25**
+
+[TODO]
+
+**Judges 5:26**
+
+[TODO]
+
+**Judges 5:27**
+
+[TODO]
+
+**Judges 5:28**
+
+[TODO]
+
+**Judges 5:29**
+
+[TODO]
+
+**Judges 5:30**
+
+[TODO]
+
+**Judges 5:31**
+
+[TODO]
+
+### Chapter 6
+
+**Judges 6:1**
+
+[TODO]
+
+**Judges 6:2**
+
+[TODO]
+
+**Judges 6:3**
+
+[TODO]
+
+**Judges 6:4**
+
+[TODO]
+
+**Judges 6:5**
+
+[TODO]
+
+**Judges 6:6**
+
+[TODO]
+
+**Judges 6:7**
+
+[TODO]
+
+**Judges 6:8**
+
+[TODO]
+
+**Judges 6:9**
+
+[TODO]
+
+**Judges 6:10**
+
+[TODO]
+
+**Judges 6:11**
+
+[TODO]
+
+**Judges 6:12**
+
+[TODO]
+
+**Judges 6:13**
+
+[TODO]
+
+**Judges 6:14**
+
+[TODO]
+
+**Judges 6:15**
+
+[TODO]
+
+**Judges 6:16**
+
+[TODO]
+
+**Judges 6:17**
+
+[TODO]
+
+**Judges 6:18**
+
+[TODO]
+
+**Judges 6:19**
+
+[TODO]
+
+**Judges 6:20**
+
+[TODO]
+
+**Judges 6:21**
+
+[TODO]
+
+**Judges 6:22**
+
+[TODO]
+
+**Judges 6:23**
+
+[TODO]
+
+**Judges 6:24**
+
+[TODO]
+
+**Judges 6:25**
+
+[TODO]
+
+**Judges 6:26**
+
+[TODO]
+
+**Judges 6:27**
+
+[TODO]
+
+**Judges 6:28**
+
+[TODO]
+
+**Judges 6:29**
+
+[TODO]
+
+**Judges 6:30**
+
+[TODO]
+
+**Judges 6:31**
+
+[TODO]
+
+**Judges 6:32**
+
+[TODO]
+
+**Judges 6:33**
+
+[TODO]
+
+**Judges 6:34**
+
+[TODO]
+
+**Judges 6:35**
+
+[TODO]
+
+**Judges 6:36**
+
+[TODO]
+
+**Judges 6:37**
+
+[TODO]
+
+**Judges 6:38**
+
+[TODO]
+
+**Judges 6:39**
+
+[TODO]
+
+**Judges 6:40**
+
+[TODO]
+
+### Chapter 7
+
+**Judges 7:1**
+
+[TODO]
+
+**Judges 7:2**
+
+[TODO]
+
+**Judges 7:3**
+
+[TODO]
+
+**Judges 7:4**
+
+[TODO]
+
+**Judges 7:5**
+
+[TODO]
+
+**Judges 7:6**
+
+[TODO]
+
+**Judges 7:7**
+
+[TODO]
+
+**Judges 7:8**
+
+[TODO]
+
+**Judges 7:9**
+
+[TODO]
+
+**Judges 7:10**
+
+[TODO]
+
+**Judges 7:11**
+
+[TODO]
+
+**Judges 7:12**
+
+[TODO]
+
+**Judges 7:13**
+
+[TODO]
+
+**Judges 7:14**
+
+[TODO]
+
+**Judges 7:15**
+
+[TODO]
+
+**Judges 7:16**
+
+[TODO]
+
+**Judges 7:17**
+
+[TODO]
+
+**Judges 7:18**
+
+[TODO]
+
+**Judges 7:19**
+
+[TODO]
+
+**Judges 7:20**
+
+[TODO]
+
+**Judges 7:21**
+
+[TODO]
+
+**Judges 7:22**
+
+[TODO]
+
+**Judges 7:23**
+
+[TODO]
+
+**Judges 7:24**
+
+[TODO]
+
+**Judges 7:25**
+
+[TODO]
+
+### Chapter 8
+
+**Judges 8:1**
+
+[TODO]
+
+**Judges 8:2**
+
+[TODO]
+
+**Judges 8:3**
+
+[TODO]
+
+**Judges 8:4**
+
+[TODO]
+
+**Judges 8:5**
+
+[TODO]
+
+**Judges 8:6**
+
+[TODO]
+
+**Judges 8:7**
+
+[TODO]
+
+**Judges 8:8**
+
+[TODO]
+
+**Judges 8:9**
+
+[TODO]
+
+**Judges 8:10**
+
+[TODO]
+
+**Judges 8:11**
+
+[TODO]
+
+**Judges 8:12**
+
+[TODO]
+
+**Judges 8:13**
+
+[TODO]
+
+**Judges 8:14**
+
+[TODO]
+
+**Judges 8:15**
+
+[TODO]
+
+**Judges 8:16**
+
+[TODO]
+
+**Judges 8:17**
+
+[TODO]
+
+**Judges 8:18**
+
+[TODO]
+
+**Judges 8:19**
+
+[TODO]
+
+**Judges 8:20**
+
+[TODO]
+
+**Judges 8:21**
+
+[TODO]
+
+**Judges 8:22**
+
+[TODO]
+
+**Judges 8:23**
+
+[TODO]
+
+**Judges 8:24**
+
+[TODO]
+
+**Judges 8:25**
+
+[TODO]
+
+**Judges 8:26**
+
+[TODO]
+
+**Judges 8:27**
+
+[TODO]
+
+**Judges 8:28**
+
+[TODO]
+
+**Judges 8:29**
+
+[TODO]
+
+**Judges 8:30**
+
+[TODO]
+
+**Judges 8:31**
+
+[TODO]
+
+**Judges 8:32**
+
+[TODO]
+
+**Judges 8:33**
+
+[TODO]
+
+**Judges 8:34**
+
+[TODO]
+
+**Judges 8:35**
+
+[TODO]
+
+### Chapter 9
+
+**Judges 9:1**
+
+[TODO]
+
+**Judges 9:2**
+
+[TODO]
+
+**Judges 9:3**
+
+[TODO]
+
+**Judges 9:4**
+
+[TODO]
+
+**Judges 9:5**
+
+[TODO]
+
+**Judges 9:6**
+
+[TODO]
+
+**Judges 9:7**
+
+[TODO]
+
+**Judges 9:8**
+
+[TODO]
+
+**Judges 9:9**
+
+[TODO]
+
+**Judges 9:10**
+
+[TODO]
+
+**Judges 9:11**
+
+[TODO]
+
+**Judges 9:12**
+
+[TODO]
+
+**Judges 9:13**
+
+[TODO]
+
+**Judges 9:14**
+
+[TODO]
+
+**Judges 9:15**
+
+[TODO]
+
+**Judges 9:16**
+
+[TODO]
+
+**Judges 9:17**
+
+[TODO]
+
+**Judges 9:18**
+
+[TODO]
+
+**Judges 9:19**
+
+[TODO]
+
+**Judges 9:20**
+
+[TODO]
+
+**Judges 9:21**
+
+[TODO]
+
+**Judges 9:22**
+
+[TODO]
+
+**Judges 9:23**
+
+[TODO]
+
+**Judges 9:24**
+
+[TODO]
+
+**Judges 9:25**
+
+[TODO]
+
+**Judges 9:26**
+
+[TODO]
+
+**Judges 9:27**
+
+[TODO]
+
+**Judges 9:28**
+
+[TODO]
+
+**Judges 9:29**
+
+[TODO]
+
+**Judges 9:30**
+
+[TODO]
+
+**Judges 9:31**
+
+[TODO]
+
+**Judges 9:32**
+
+[TODO]
+
+**Judges 9:33**
+
+[TODO]
+
+**Judges 9:34**
+
+[TODO]
+
+**Judges 9:35**
+
+[TODO]
+
+**Judges 9:36**
+
+[TODO]
+
+**Judges 9:37**
+
+[TODO]
+
+**Judges 9:38**
+
+[TODO]
+
+**Judges 9:39**
+
+[TODO]
+
+**Judges 9:40**
+
+[TODO]
+
+**Judges 9:41**
+
+[TODO]
+
+**Judges 9:42**
+
+[TODO]
+
+**Judges 9:43**
+
+[TODO]
+
+**Judges 9:44**
+
+[TODO]
+
+**Judges 9:45**
+
+[TODO]
+
+**Judges 9:46**
+
+[TODO]
+
+**Judges 9:47**
+
+[TODO]
+
+**Judges 9:48**
+
+[TODO]
+
+**Judges 9:49**
+
+[TODO]
+
+**Judges 9:50**
+
+[TODO]
+
+**Judges 9:51**
+
+[TODO]
+
+**Judges 9:52**
+
+[TODO]
+
+**Judges 9:53**
+
+[TODO]
+
+**Judges 9:54**
+
+[TODO]
+
+**Judges 9:55**
+
+[TODO]
+
+**Judges 9:56**
+
+[TODO]
+
+**Judges 9:57**
+
+[TODO]
+
+### Chapter 10
+
+**Judges 10:1**
+
+[TODO]
+
+**Judges 10:2**
+
+[TODO]
+
+**Judges 10:3**
+
+[TODO]
+
+**Judges 10:4**
+
+[TODO]
+
+**Judges 10:5**
+
+[TODO]
+
+**Judges 10:6**
+
+[TODO]
+
+**Judges 10:7**
+
+[TODO]
+
+**Judges 10:8**
+
+[TODO]
+
+**Judges 10:9**
+
+[TODO]
+
+**Judges 10:10**
+
+[TODO]
+
+**Judges 10:11**
+
+[TODO]
+
+**Judges 10:12**
+
+[TODO]
+
+**Judges 10:13**
+
+[TODO]
+
+**Judges 10:14**
+
+[TODO]
+
+**Judges 10:15**
+
+[TODO]
+
+**Judges 10:16**
+
+[TODO]
+
+**Judges 10:17**
+
+[TODO]
+
+**Judges 10:18**
+
+[TODO]
+
+### Chapter 11
+
+**Judges 11:1**
+
+[TODO]
+
+**Judges 11:2**
+
+[TODO]
+
+**Judges 11:3**
+
+[TODO]
+
+**Judges 11:4**
+
+[TODO]
+
+**Judges 11:5**
+
+[TODO]
+
+**Judges 11:6**
+
+[TODO]
+
+**Judges 11:7**
+
+[TODO]
+
+**Judges 11:8**
+
+[TODO]
+
+**Judges 11:9**
+
+[TODO]
+
+**Judges 11:10**
+
+[TODO]
+
+**Judges 11:11**
+
+[TODO]
+
+**Judges 11:12**
+
+[TODO]
+
+**Judges 11:13**
+
+[TODO]
+
+**Judges 11:14**
+
+[TODO]
+
+**Judges 11:15**
+
+[TODO]
+
+**Judges 11:16**
+
+[TODO]
+
+**Judges 11:17**
+
+[TODO]
+
+**Judges 11:18**
+
+[TODO]
+
+**Judges 11:19**
+
+[TODO]
+
+**Judges 11:20**
+
+[TODO]
+
+**Judges 11:21**
+
+[TODO]
+
+**Judges 11:22**
+
+[TODO]
+
+**Judges 11:23**
+
+[TODO]
+
+**Judges 11:24**
+
+[TODO]
+
+**Judges 11:25**
+
+[TODO]
+
+**Judges 11:26**
+
+[TODO]
+
+**Judges 11:27**
+
+[TODO]
+
+**Judges 11:28**
+
+[TODO]
+
+**Judges 11:29**
+
+[TODO]
+
+**Judges 11:30**
+
+[TODO]
+
+**Judges 11:31**
+
+[TODO]
+
+**Judges 11:32**
+
+[TODO]
+
+**Judges 11:33**
+
+[TODO]
+
+**Judges 11:34**
+
+[TODO]
+
+**Judges 11:35**
+
+[TODO]
+
+**Judges 11:36**
+
+[TODO]
+
+**Judges 11:37**
+
+[TODO]
+
+**Judges 11:38**
+
+[TODO]
+
+**Judges 11:39**
+
+[TODO]
+
+**Judges 11:40**
+
+[TODO]
+
+### Chapter 12
+
+**Judges 12:1**
+
+[TODO]
+
+**Judges 12:2**
+
+[TODO]
+
+**Judges 12:3**
+
+[TODO]
+
+**Judges 12:4**
+
+[TODO]
+
+**Judges 12:5**
+
+[TODO]
+
+**Judges 12:6**
+
+[TODO]
+
+**Judges 12:7**
+
+[TODO]
+
+**Judges 12:8**
+
+[TODO]
+
+**Judges 12:9**
+
+[TODO]
+
+**Judges 12:10**
+
+[TODO]
+
+**Judges 12:11**
+
+[TODO]
+
+**Judges 12:12**
+
+[TODO]
+
+**Judges 12:13**
+
+[TODO]
+
+**Judges 12:14**
+
+[TODO]
+
+**Judges 12:15**
+
+[TODO]
+
+### Chapter 13
+
+**Judges 13:1**
+
+[TODO]
+
+**Judges 13:2**
+
+[TODO]
+
+**Judges 13:3**
+
+[TODO]
+
+**Judges 13:4**
+
+[TODO]
+
+**Judges 13:5**
+
+[TODO]
+
+**Judges 13:6**
+
+[TODO]
+
+**Judges 13:7**
+
+[TODO]
+
+**Judges 13:8**
+
+[TODO]
+
+**Judges 13:9**
+
+[TODO]
+
+**Judges 13:10**
+
+[TODO]
+
+**Judges 13:11**
+
+[TODO]
+
+**Judges 13:12**
+
+[TODO]
+
+**Judges 13:13**
+
+[TODO]
+
+**Judges 13:14**
+
+[TODO]
+
+**Judges 13:15**
+
+[TODO]
+
+**Judges 13:16**
+
+[TODO]
+
+**Judges 13:17**
+
+[TODO]
+
+**Judges 13:18**
+
+[TODO]
+
+**Judges 13:19**
+
+[TODO]
+
+**Judges 13:20**
+
+[TODO]
+
+**Judges 13:21**
+
+[TODO]
+
+**Judges 13:22**
+
+[TODO]
+
+**Judges 13:23**
+
+[TODO]
+
+**Judges 13:24**
+
+[TODO]
+
+**Judges 13:25**
+
+[TODO]
+
+### Chapter 14
+
+**Judges 14:1**
+
+[TODO]
+
+**Judges 14:2**
+
+[TODO]
+
+**Judges 14:3**
+
+[TODO]
+
+**Judges 14:4**
+
+[TODO]
+
+**Judges 14:5**
+
+[TODO]
+
+**Judges 14:6**
+
+[TODO]
+
+**Judges 14:7**
+
+[TODO]
+
+**Judges 14:8**
+
+[TODO]
+
+**Judges 14:9**
+
+[TODO]
+
+**Judges 14:10**
+
+[TODO]
+
+**Judges 14:11**
+
+[TODO]
+
+**Judges 14:12**
+
+[TODO]
+
+**Judges 14:13**
+
+[TODO]
+
+**Judges 14:14**
+
+[TODO]
+
+**Judges 14:15**
+
+[TODO]
+
+**Judges 14:16**
+
+[TODO]
+
+**Judges 14:17**
+
+[TODO]
+
+**Judges 14:18**
+
+[TODO]
+
+**Judges 14:19**
+
+[TODO]
+
+**Judges 14:20**
+
+[TODO]
+
+### Chapter 15
+
+**Judges 15:1**
+
+[TODO]
+
+**Judges 15:2**
+
+[TODO]
+
+**Judges 15:3**
+
+[TODO]
+
+**Judges 15:4**
+
+[TODO]
+
+**Judges 15:5**
+
+[TODO]
+
+**Judges 15:6**
+
+[TODO]
+
+**Judges 15:7**
+
+[TODO]
+
+**Judges 15:8**
+
+[TODO]
+
+**Judges 15:9**
+
+[TODO]
+
+**Judges 15:10**
+
+[TODO]
+
+**Judges 15:11**
+
+[TODO]
+
+**Judges 15:12**
+
+[TODO]
+
+**Judges 15:13**
+
+[TODO]
+
+**Judges 15:14**
+
+[TODO]
+
+**Judges 15:15**
+
+[TODO]
+
+**Judges 15:16**
+
+[TODO]
+
+**Judges 15:17**
+
+[TODO]
+
+**Judges 15:18**
+
+[TODO]
+
+**Judges 15:19**
+
+[TODO]
+
+**Judges 15:20**
+
+[TODO]
+
+### Chapter 16
+
+**Judges 16:1**
+
+[TODO]
+
+**Judges 16:2**
+
+[TODO]
+
+**Judges 16:3**
+
+[TODO]
+
+**Judges 16:4**
+
+[TODO]
+
+**Judges 16:5**
+
+[TODO]
+
+**Judges 16:6**
+
+[TODO]
+
+**Judges 16:7**
+
+[TODO]
+
+**Judges 16:8**
+
+[TODO]
+
+**Judges 16:9**
+
+[TODO]
+
+**Judges 16:10**
+
+[TODO]
+
+**Judges 16:11**
+
+[TODO]
+
+**Judges 16:12**
+
+[TODO]
+
+**Judges 16:13**
+
+[TODO]
+
+**Judges 16:14**
+
+[TODO]
+
+**Judges 16:15**
+
+[TODO]
+
+**Judges 16:16**
+
+[TODO]
+
+**Judges 16:17**
+
+[TODO]
+
+**Judges 16:18**
+
+[TODO]
+
+**Judges 16:19**
+
+[TODO]
+
+**Judges 16:20**
+
+[TODO]
+
+**Judges 16:21**
+
+[TODO]
+
+**Judges 16:22**
+
+[TODO]
+
+**Judges 16:23**
+
+[TODO]
+
+**Judges 16:24**
+
+[TODO]
+
+**Judges 16:25**
+
+[TODO]
+
+**Judges 16:26**
+
+[TODO]
+
+**Judges 16:27**
+
+[TODO]
+
+**Judges 16:28**
+
+[TODO]
+
+**Judges 16:29**
+
+[TODO]
+
+**Judges 16:30**
+
+[TODO]
+
+**Judges 16:31**
+
+[TODO]
+
+### Chapter 17
+
+**Judges 17:1**
+
+[TODO]
+
+**Judges 17:2**
+
+[TODO]
+
+**Judges 17:3**
+
+[TODO]
+
+**Judges 17:4**
+
+[TODO]
+
+**Judges 17:5**
+
+[TODO]
+
+**Judges 17:6**
+
+[TODO]
+
+**Judges 17:7**
+
+[TODO]
+
+**Judges 17:8**
+
+[TODO]
+
+**Judges 17:9**
+
+[TODO]
+
+**Judges 17:10**
+
+[TODO]
+
+**Judges 17:11**
+
+[TODO]
+
+**Judges 17:12**
+
+[TODO]
+
+**Judges 17:13**
+
+[TODO]
+
+### Chapter 18
+
+**Judges 18:1**
+
+[TODO]
+
+**Judges 18:2**
+
+[TODO]
+
+**Judges 18:3**
+
+[TODO]
+
+**Judges 18:4**
+
+[TODO]
+
+**Judges 18:5**
+
+[TODO]
+
+**Judges 18:6**
+
+[TODO]
+
+**Judges 18:7**
+
+[TODO]
+
+**Judges 18:8**
+
+[TODO]
+
+**Judges 18:9**
+
+[TODO]
+
+**Judges 18:10**
+
+[TODO]
+
+**Judges 18:11**
+
+[TODO]
+
+**Judges 18:12**
+
+[TODO]
+
+**Judges 18:13**
+
+[TODO]
+
+**Judges 18:14**
+
+[TODO]
+
+**Judges 18:15**
+
+[TODO]
+
+**Judges 18:16**
+
+[TODO]
+
+**Judges 18:17**
+
+[TODO]
+
+**Judges 18:18**
+
+[TODO]
+
+**Judges 18:19**
+
+[TODO]
+
+**Judges 18:20**
+
+[TODO]
+
+**Judges 18:21**
+
+[TODO]
+
+**Judges 18:22**
+
+[TODO]
+
+**Judges 18:23**
+
+[TODO]
+
+**Judges 18:24**
+
+[TODO]
+
+**Judges 18:25**
+
+[TODO]
+
+**Judges 18:26**
+
+[TODO]
+
+**Judges 18:27**
+
+[TODO]
+
+**Judges 18:28**
+
+[TODO]
+
+**Judges 18:29**
+
+[TODO]
+
+**Judges 18:30**
+
+[TODO]
+
+**Judges 18:31**
+
+[TODO]
+
+### Chapter 19
+
+**Judges 19:1**
+
+[TODO]
+
+**Judges 19:2**
+
+[TODO]
+
+**Judges 19:3**
+
+[TODO]
+
+**Judges 19:4**
+
+[TODO]
+
+**Judges 19:5**
+
+[TODO]
+
+**Judges 19:6**
+
+[TODO]
+
+**Judges 19:7**
+
+[TODO]
+
+**Judges 19:8**
+
+[TODO]
+
+**Judges 19:9**
+
+[TODO]
+
+**Judges 19:10**
+
+[TODO]
+
+**Judges 19:11**
+
+[TODO]
+
+**Judges 19:12**
+
+[TODO]
+
+**Judges 19:13**
+
+[TODO]
+
+**Judges 19:14**
+
+[TODO]
+
+**Judges 19:15**
+
+[TODO]
+
+**Judges 19:16**
+
+[TODO]
+
+**Judges 19:17**
+
+[TODO]
+
+**Judges 19:18**
+
+[TODO]
+
+**Judges 19:19**
+
+[TODO]
+
+**Judges 19:20**
+
+[TODO]
+
+**Judges 19:21**
+
+[TODO]
+
+**Judges 19:22**
+
+[TODO]
+
+**Judges 19:23**
+
+[TODO]
+
+**Judges 19:24**
+
+[TODO]
+
+**Judges 19:25**
+
+[TODO]
+
+**Judges 19:26**
+
+[TODO]
+
+**Judges 19:27**
+
+[TODO]
+
+**Judges 19:28**
+
+[TODO]
+
+**Judges 19:29**
+
+[TODO]
+
+**Judges 19:30**
+
+[TODO]
+
+### Chapter 20
+
+**Judges 20:1**
+
+[TODO]
+
+**Judges 20:2**
+
+[TODO]
+
+**Judges 20:3**
+
+[TODO]
+
+**Judges 20:4**
+
+[TODO]
+
+**Judges 20:5**
+
+[TODO]
+
+**Judges 20:6**
+
+[TODO]
+
+**Judges 20:7**
+
+[TODO]
+
+**Judges 20:8**
+
+[TODO]
+
+**Judges 20:9**
+
+[TODO]
+
+**Judges 20:10**
+
+[TODO]
+
+**Judges 20:11**
+
+[TODO]
+
+**Judges 20:12**
+
+[TODO]
+
+**Judges 20:13**
+
+[TODO]
+
+**Judges 20:14**
+
+[TODO]
+
+**Judges 20:15**
+
+[TODO]
+
+**Judges 20:16**
+
+[TODO]
+
+**Judges 20:17**
+
+[TODO]
+
+**Judges 20:18**
+
+[TODO]
+
+**Judges 20:19**
+
+[TODO]
+
+**Judges 20:20**
+
+[TODO]
+
+**Judges 20:21**
+
+[TODO]
+
+**Judges 20:22**
+
+[TODO]
+
+**Judges 20:23**
+
+[TODO]
+
+**Judges 20:24**
+
+[TODO]
+
+**Judges 20:25**
+
+[TODO]
+
+**Judges 20:26**
+
+[TODO]
+
+**Judges 20:27**
+
+[TODO]
+
+**Judges 20:28**
+
+[TODO]
+
+**Judges 20:29**
+
+[TODO]
+
+**Judges 20:30**
+
+[TODO]
+
+**Judges 20:31**
+
+[TODO]
+
+**Judges 20:32**
+
+[TODO]
+
+**Judges 20:33**
+
+[TODO]
+
+**Judges 20:34**
+
+[TODO]
+
+**Judges 20:35**
+
+[TODO]
+
+**Judges 20:36**
+
+[TODO]
+
+**Judges 20:37**
+
+[TODO]
+
+**Judges 20:38**
+
+[TODO]
+
+**Judges 20:39**
+
+[TODO]
+
+**Judges 20:40**
+
+[TODO]
+
+**Judges 20:41**
+
+[TODO]
+
+**Judges 20:42**
+
+[TODO]
+
+**Judges 20:43**
+
+[TODO]
+
+**Judges 20:44**
+
+[TODO]
+
+**Judges 20:45**
+
+[TODO]
+
+**Judges 20:46**
+
+[TODO]
+
+**Judges 20:47**
+
+[TODO]
+
+**Judges 20:48**
+
+[TODO]
+
+### Chapter 21
+
+**Judges 21:1**
+
+[TODO]
+
+**Judges 21:2**
+
+[TODO]
+
+**Judges 21:3**
+
+[TODO]
+
+**Judges 21:4**
+
+[TODO]
+
+**Judges 21:5**
+
+[TODO]
+
+**Judges 21:6**
+
+[TODO]
+
+**Judges 21:7**
+
+[TODO]
+
+**Judges 21:8**
+
+[TODO]
+
+**Judges 21:9**
+
+[TODO]
+
+**Judges 21:10**
+
+[TODO]
+
+**Judges 21:11**
+
+[TODO]
+
+**Judges 21:12**
+
+[TODO]
+
+**Judges 21:13**
+
+[TODO]
+
+**Judges 21:14**
+
+[TODO]
+
+**Judges 21:15**
+
+[TODO]
+
+**Judges 21:16**
+
+[TODO]
+
+**Judges 21:17**
+
+[TODO]
+
+**Judges 21:18**
+
+[TODO]
+
+**Judges 21:19**
+
+[TODO]
+
+**Judges 21:20**
+
+[TODO]
+
+**Judges 21:21**
+
+[TODO]
+
+**Judges 21:22**
+
+[TODO]
+
+**Judges 21:23**
+
+[TODO]
+
+**Judges 21:24**
+
+[TODO]
+
+**Judges 21:25**
+
+[TODO]
+
+## Ruth
+
+### Chapter 1
+
+**Ruth 1:1**
+
+[TODO]
+
+**Ruth 1:2**
+
+[TODO]
+
+**Ruth 1:3**
+
+[TODO]
+
+**Ruth 1:4**
+
+[TODO]
+
+**Ruth 1:5**
+
+[TODO]
+
+**Ruth 1:6**
+
+[TODO]
+
+**Ruth 1:7**
+
+[TODO]
+
+**Ruth 1:8**
+
+[TODO]
+
+**Ruth 1:9**
+
+[TODO]
+
+**Ruth 1:10**
+
+[TODO]
+
+**Ruth 1:11**
+
+[TODO]
+
+**Ruth 1:12**
+
+[TODO]
+
+**Ruth 1:13**
+
+[TODO]
+
+**Ruth 1:14**
+
+[TODO]
+
+**Ruth 1:15**
+
+[TODO]
+
+**Ruth 1:16**
+
+[TODO]
+
+**Ruth 1:17**
+
+[TODO]
+
+**Ruth 1:18**
+
+[TODO]
+
+**Ruth 1:19**
+
+[TODO]
+
+**Ruth 1:20**
+
+[TODO]
+
+**Ruth 1:21**
+
+[TODO]
+
+**Ruth 1:22**
+
+[TODO]
+
+### Chapter 2
+
+**Ruth 2:1**
+
+[TODO]
+
+**Ruth 2:2**
+
+[TODO]
+
+**Ruth 2:3**
+
+[TODO]
+
+**Ruth 2:4**
+
+[TODO]
+
+**Ruth 2:5**
+
+[TODO]
+
+**Ruth 2:6**
+
+[TODO]
+
+**Ruth 2:7**
+
+[TODO]
+
+**Ruth 2:8**
+
+[TODO]
+
+**Ruth 2:9**
+
+[TODO]
+
+**Ruth 2:10**
+
+[TODO]
+
+**Ruth 2:11**
+
+[TODO]
+
+**Ruth 2:12**
+
+[TODO]
+
+**Ruth 2:13**
+
+[TODO]
+
+**Ruth 2:14**
+
+[TODO]
+
+**Ruth 2:15**
+
+[TODO]
+
+**Ruth 2:16**
+
+[TODO]
+
+**Ruth 2:17**
+
+[TODO]
+
+**Ruth 2:18**
+
+[TODO]
+
+**Ruth 2:19**
+
+[TODO]
+
+**Ruth 2:20**
+
+[TODO]
+
+**Ruth 2:21**
+
+[TODO]
+
+**Ruth 2:22**
+
+[TODO]
+
+**Ruth 2:23**
+
+[TODO]
+
+### Chapter 3
+
+**Ruth 3:1**
+
+[TODO]
+
+**Ruth 3:2**
+
+[TODO]
+
+**Ruth 3:3**
+
+[TODO]
+
+**Ruth 3:4**
+
+[TODO]
+
+**Ruth 3:5**
+
+[TODO]
+
+**Ruth 3:6**
+
+[TODO]
+
+**Ruth 3:7**
+
+[TODO]
+
+**Ruth 3:8**
+
+[TODO]
+
+**Ruth 3:9**
+
+[TODO]
+
+**Ruth 3:10**
+
+[TODO]
+
+**Ruth 3:11**
+
+[TODO]
+
+**Ruth 3:12**
+
+[TODO]
+
+**Ruth 3:13**
+
+[TODO]
+
+**Ruth 3:14**
+
+[TODO]
+
+**Ruth 3:15**
+
+[TODO]
+
+**Ruth 3:16**
+
+[TODO]
+
+**Ruth 3:17**
+
+[TODO]
+
+**Ruth 3:18**
+
+[TODO]
+
+### Chapter 4
+
+**Ruth 4:1**
+
+[TODO]
+
+**Ruth 4:2**
+
+[TODO]
+
+**Ruth 4:3**
+
+[TODO]
+
+**Ruth 4:4**
+
+[TODO]
+
+**Ruth 4:5**
+
+[TODO]
+
+**Ruth 4:6**
+
+[TODO]
+
+**Ruth 4:7**
+
+[TODO]
+
+**Ruth 4:8**
+
+[TODO]
+
+**Ruth 4:9**
+
+[TODO]
+
+**Ruth 4:10**
+
+[TODO]
+
+**Ruth 4:11**
+
+[TODO]
+
+**Ruth 4:12**
+
+[TODO]
+
+**Ruth 4:13**
+
+[TODO]
+
+**Ruth 4:14**
+
+[TODO]
+
+**Ruth 4:15**
+
+[TODO]
+
+**Ruth 4:16**
+
+[TODO]
+
+**Ruth 4:17**
+
+[TODO]
+
+**Ruth 4:18**
+
+[TODO]
+
+**Ruth 4:19**
+
+[TODO]
+
+**Ruth 4:20**
+
+[TODO]
+
+**Ruth 4:21**
+
+[TODO]
+
+**Ruth 4:22**
+
+[TODO]
+
+## 1 Samuel
+
+### Chapter 1
+
+**1 Samuel 1:1**
+
+[TODO]
+
+**1 Samuel 1:2**
+
+[TODO]
+
+**1 Samuel 1:3**
+
+[TODO]
+
+**1 Samuel 1:4**
+
+[TODO]
+
+**1 Samuel 1:5**
+
+[TODO]
+
+**1 Samuel 1:6**
+
+[TODO]
+
+**1 Samuel 1:7**
+
+[TODO]
+
+**1 Samuel 1:8**
+
+[TODO]
+
+**1 Samuel 1:9**
+
+[TODO]
+
+**1 Samuel 1:10**
+
+[TODO]
+
+**1 Samuel 1:11**
+
+[TODO]
+
+**1 Samuel 1:12**
+
+[TODO]
+
+**1 Samuel 1:13**
+
+[TODO]
+
+**1 Samuel 1:14**
+
+[TODO]
+
+**1 Samuel 1:15**
+
+[TODO]
+
+**1 Samuel 1:16**
+
+[TODO]
+
+**1 Samuel 1:17**
+
+[TODO]
+
+**1 Samuel 1:18**
+
+[TODO]
+
+**1 Samuel 1:19**
+
+[TODO]
+
+**1 Samuel 1:20**
+
+[TODO]
+
+**1 Samuel 1:21**
+
+[TODO]
+
+**1 Samuel 1:22**
+
+[TODO]
+
+**1 Samuel 1:23**
+
+[TODO]
+
+**1 Samuel 1:24**
+
+[TODO]
+
+**1 Samuel 1:25**
+
+[TODO]
+
+**1 Samuel 1:26**
+
+[TODO]
+
+**1 Samuel 1:27**
+
+[TODO]
+
+**1 Samuel 1:28**
+
+[TODO]
+
+### Chapter 2
+
+**1 Samuel 2:1**
+
+[TODO]
+
+**1 Samuel 2:2**
+
+[TODO]
+
+**1 Samuel 2:3**
+
+[TODO]
+
+**1 Samuel 2:4**
+
+[TODO]
+
+**1 Samuel 2:5**
+
+[TODO]
+
+**1 Samuel 2:6**
+
+[TODO]
+
+**1 Samuel 2:7**
+
+[TODO]
+
+**1 Samuel 2:8**
+
+[TODO]
+
+**1 Samuel 2:9**
+
+[TODO]
+
+**1 Samuel 2:10**
+
+[TODO]
+
+**1 Samuel 2:11**
+
+[TODO]
+
+**1 Samuel 2:12**
+
+[TODO]
+
+**1 Samuel 2:13**
+
+[TODO]
+
+**1 Samuel 2:14**
+
+[TODO]
+
+**1 Samuel 2:15**
+
+[TODO]
+
+**1 Samuel 2:16**
+
+[TODO]
+
+**1 Samuel 2:17**
+
+[TODO]
+
+**1 Samuel 2:18**
+
+[TODO]
+
+**1 Samuel 2:19**
+
+[TODO]
+
+**1 Samuel 2:20**
+
+[TODO]
+
+**1 Samuel 2:21**
+
+[TODO]
+
+**1 Samuel 2:22**
+
+[TODO]
+
+**1 Samuel 2:23**
+
+[TODO]
+
+**1 Samuel 2:24**
+
+[TODO]
+
+**1 Samuel 2:25**
+
+[TODO]
+
+**1 Samuel 2:26**
+
+[TODO]
+
+**1 Samuel 2:27**
+
+[TODO]
+
+**1 Samuel 2:28**
+
+[TODO]
+
+**1 Samuel 2:29**
+
+[TODO]
+
+**1 Samuel 2:30**
+
+[TODO]
+
+**1 Samuel 2:31**
+
+[TODO]
+
+**1 Samuel 2:32**
+
+[TODO]
+
+**1 Samuel 2:33**
+
+[TODO]
+
+**1 Samuel 2:34**
+
+[TODO]
+
+**1 Samuel 2:35**
+
+[TODO]
+
+**1 Samuel 2:36**
+
+[TODO]
+
+### Chapter 3
+
+**1 Samuel 3:1**
+
+[TODO]
+
+**1 Samuel 3:2**
+
+[TODO]
+
+**1 Samuel 3:3**
+
+[TODO]
+
+**1 Samuel 3:4**
+
+[TODO]
+
+**1 Samuel 3:5**
+
+[TODO]
+
+**1 Samuel 3:6**
+
+[TODO]
+
+**1 Samuel 3:7**
+
+[TODO]
+
+**1 Samuel 3:8**
+
+[TODO]
+
+**1 Samuel 3:9**
+
+[TODO]
+
+**1 Samuel 3:10**
+
+[TODO]
+
+**1 Samuel 3:11**
+
+[TODO]
+
+**1 Samuel 3:12**
+
+[TODO]
+
+**1 Samuel 3:13**
+
+[TODO]
+
+**1 Samuel 3:14**
+
+[TODO]
+
+**1 Samuel 3:15**
+
+[TODO]
+
+**1 Samuel 3:16**
+
+[TODO]
+
+**1 Samuel 3:17**
+
+[TODO]
+
+**1 Samuel 3:18**
+
+[TODO]
+
+**1 Samuel 3:19**
+
+[TODO]
+
+**1 Samuel 3:20**
+
+[TODO]
+
+**1 Samuel 3:21**
+
+[TODO]
+
+### Chapter 4
+
+**1 Samuel 4:1**
+
+[TODO]
+
+**1 Samuel 4:2**
+
+[TODO]
+
+**1 Samuel 4:3**
+
+[TODO]
+
+**1 Samuel 4:4**
+
+[TODO]
+
+**1 Samuel 4:5**
+
+[TODO]
+
+**1 Samuel 4:6**
+
+[TODO]
+
+**1 Samuel 4:7**
+
+[TODO]
+
+**1 Samuel 4:8**
+
+[TODO]
+
+**1 Samuel 4:9**
+
+[TODO]
+
+**1 Samuel 4:10**
+
+[TODO]
+
+**1 Samuel 4:11**
+
+[TODO]
+
+**1 Samuel 4:12**
+
+[TODO]
+
+**1 Samuel 4:13**
+
+[TODO]
+
+**1 Samuel 4:14**
+
+[TODO]
+
+**1 Samuel 4:15**
+
+[TODO]
+
+**1 Samuel 4:16**
+
+[TODO]
+
+**1 Samuel 4:17**
+
+[TODO]
+
+**1 Samuel 4:18**
+
+[TODO]
+
+**1 Samuel 4:19**
+
+[TODO]
+
+**1 Samuel 4:20**
+
+[TODO]
+
+**1 Samuel 4:21**
+
+[TODO]
+
+**1 Samuel 4:22**
+
+[TODO]
+
+### Chapter 5
+
+**1 Samuel 5:1**
+
+[TODO]
+
+**1 Samuel 5:2**
+
+[TODO]
+
+**1 Samuel 5:3**
+
+[TODO]
+
+**1 Samuel 5:4**
+
+[TODO]
+
+**1 Samuel 5:5**
+
+[TODO]
+
+**1 Samuel 5:6**
+
+[TODO]
+
+**1 Samuel 5:7**
+
+[TODO]
+
+**1 Samuel 5:8**
+
+[TODO]
+
+**1 Samuel 5:9**
+
+[TODO]
+
+**1 Samuel 5:10**
+
+[TODO]
+
+**1 Samuel 5:11**
+
+[TODO]
+
+**1 Samuel 5:12**
+
+[TODO]
+
+### Chapter 6
+
+**1 Samuel 6:1**
+
+[TODO]
+
+**1 Samuel 6:2**
+
+[TODO]
+
+**1 Samuel 6:3**
+
+[TODO]
+
+**1 Samuel 6:4**
+
+[TODO]
+
+**1 Samuel 6:5**
+
+[TODO]
+
+**1 Samuel 6:6**
+
+[TODO]
+
+**1 Samuel 6:7**
+
+[TODO]
+
+**1 Samuel 6:8**
+
+[TODO]
+
+**1 Samuel 6:9**
+
+[TODO]
+
+**1 Samuel 6:10**
+
+[TODO]
+
+**1 Samuel 6:11**
+
+[TODO]
+
+**1 Samuel 6:12**
+
+[TODO]
+
+**1 Samuel 6:13**
+
+[TODO]
+
+**1 Samuel 6:14**
+
+[TODO]
+
+**1 Samuel 6:15**
+
+[TODO]
+
+**1 Samuel 6:16**
+
+[TODO]
+
+**1 Samuel 6:17**
+
+[TODO]
+
+**1 Samuel 6:18**
+
+[TODO]
+
+**1 Samuel 6:19**
+
+[TODO]
+
+**1 Samuel 6:20**
+
+[TODO]
+
+**1 Samuel 6:21**
+
+[TODO]
+
+### Chapter 7
+
+**1 Samuel 7:1**
+
+[TODO]
+
+**1 Samuel 7:2**
+
+[TODO]
+
+**1 Samuel 7:3**
+
+[TODO]
+
+**1 Samuel 7:4**
+
+[TODO]
+
+**1 Samuel 7:5**
+
+[TODO]
+
+**1 Samuel 7:6**
+
+[TODO]
+
+**1 Samuel 7:7**
+
+[TODO]
+
+**1 Samuel 7:8**
+
+[TODO]
+
+**1 Samuel 7:9**
+
+[TODO]
+
+**1 Samuel 7:10**
+
+[TODO]
+
+**1 Samuel 7:11**
+
+[TODO]
+
+**1 Samuel 7:12**
+
+[TODO]
+
+**1 Samuel 7:13**
+
+[TODO]
+
+**1 Samuel 7:14**
+
+[TODO]
+
+**1 Samuel 7:15**
+
+[TODO]
+
+**1 Samuel 7:16**
+
+[TODO]
+
+**1 Samuel 7:17**
+
+[TODO]
+
+### Chapter 8
+
+**1 Samuel 8:1**
+
+[TODO]
+
+**1 Samuel 8:2**
+
+[TODO]
+
+**1 Samuel 8:3**
+
+[TODO]
+
+**1 Samuel 8:4**
+
+[TODO]
+
+**1 Samuel 8:5**
+
+[TODO]
+
+**1 Samuel 8:6**
+
+[TODO]
+
+**1 Samuel 8:7**
+
+[TODO]
+
+**1 Samuel 8:8**
+
+[TODO]
+
+**1 Samuel 8:9**
+
+[TODO]
+
+**1 Samuel 8:10**
+
+[TODO]
+
+**1 Samuel 8:11**
+
+[TODO]
+
+**1 Samuel 8:12**
+
+[TODO]
+
+**1 Samuel 8:13**
+
+[TODO]
+
+**1 Samuel 8:14**
+
+[TODO]
+
+**1 Samuel 8:15**
+
+[TODO]
+
+**1 Samuel 8:16**
+
+[TODO]
+
+**1 Samuel 8:17**
+
+[TODO]
+
+**1 Samuel 8:18**
+
+[TODO]
+
+**1 Samuel 8:19**
+
+[TODO]
+
+**1 Samuel 8:20**
+
+[TODO]
+
+**1 Samuel 8:21**
+
+[TODO]
+
+**1 Samuel 8:22**
+
+[TODO]
+
+### Chapter 9
+
+**1 Samuel 9:1**
+
+[TODO]
+
+**1 Samuel 9:2**
+
+[TODO]
+
+**1 Samuel 9:3**
+
+[TODO]
+
+**1 Samuel 9:4**
+
+[TODO]
+
+**1 Samuel 9:5**
+
+[TODO]
+
+**1 Samuel 9:6**
+
+[TODO]
+
+**1 Samuel 9:7**
+
+[TODO]
+
+**1 Samuel 9:8**
+
+[TODO]
+
+**1 Samuel 9:9**
+
+[TODO]
+
+**1 Samuel 9:10**
+
+[TODO]
+
+**1 Samuel 9:11**
+
+[TODO]
+
+**1 Samuel 9:12**
+
+[TODO]
+
+**1 Samuel 9:13**
+
+[TODO]
+
+**1 Samuel 9:14**
+
+[TODO]
+
+**1 Samuel 9:15**
+
+[TODO]
+
+**1 Samuel 9:16**
+
+[TODO]
+
+**1 Samuel 9:17**
+
+[TODO]
+
+**1 Samuel 9:18**
+
+[TODO]
+
+**1 Samuel 9:19**
+
+[TODO]
+
+**1 Samuel 9:20**
+
+[TODO]
+
+**1 Samuel 9:21**
+
+[TODO]
+
+**1 Samuel 9:22**
+
+[TODO]
+
+**1 Samuel 9:23**
+
+[TODO]
+
+**1 Samuel 9:24**
+
+[TODO]
+
+**1 Samuel 9:25**
+
+[TODO]
+
+**1 Samuel 9:26**
+
+[TODO]
+
+**1 Samuel 9:27**
+
+[TODO]
+
+### Chapter 10
+
+**1 Samuel 10:1**
+
+[TODO]
+
+**1 Samuel 10:2**
+
+[TODO]
+
+**1 Samuel 10:3**
+
+[TODO]
+
+**1 Samuel 10:4**
+
+[TODO]
+
+**1 Samuel 10:5**
+
+[TODO]
+
+**1 Samuel 10:6**
+
+[TODO]
+
+**1 Samuel 10:7**
+
+[TODO]
+
+**1 Samuel 10:8**
+
+[TODO]
+
+**1 Samuel 10:9**
+
+[TODO]
+
+**1 Samuel 10:10**
+
+[TODO]
+
+**1 Samuel 10:11**
+
+[TODO]
+
+**1 Samuel 10:12**
+
+[TODO]
+
+**1 Samuel 10:13**
+
+[TODO]
+
+**1 Samuel 10:14**
+
+[TODO]
+
+**1 Samuel 10:15**
+
+[TODO]
+
+**1 Samuel 10:16**
+
+[TODO]
+
+**1 Samuel 10:17**
+
+[TODO]
+
+**1 Samuel 10:18**
+
+[TODO]
+
+**1 Samuel 10:19**
+
+[TODO]
+
+**1 Samuel 10:20**
+
+[TODO]
+
+**1 Samuel 10:21**
+
+[TODO]
+
+**1 Samuel 10:22**
+
+[TODO]
+
+**1 Samuel 10:23**
+
+[TODO]
+
+**1 Samuel 10:24**
+
+[TODO]
+
+**1 Samuel 10:25**
+
+[TODO]
+
+**1 Samuel 10:26**
+
+[TODO]
+
+**1 Samuel 10:27**
+
+[TODO]
+
+### Chapter 11
+
+**1 Samuel 11:1**
+
+[TODO]
+
+**1 Samuel 11:2**
+
+[TODO]
+
+**1 Samuel 11:3**
+
+[TODO]
+
+**1 Samuel 11:4**
+
+[TODO]
+
+**1 Samuel 11:5**
+
+[TODO]
+
+**1 Samuel 11:6**
+
+[TODO]
+
+**1 Samuel 11:7**
+
+[TODO]
+
+**1 Samuel 11:8**
+
+[TODO]
+
+**1 Samuel 11:9**
+
+[TODO]
+
+**1 Samuel 11:10**
+
+[TODO]
+
+**1 Samuel 11:11**
+
+[TODO]
+
+**1 Samuel 11:12**
+
+[TODO]
+
+**1 Samuel 11:13**
+
+[TODO]
+
+**1 Samuel 11:14**
+
+[TODO]
+
+**1 Samuel 11:15**
+
+[TODO]
+
+### Chapter 12
+
+**1 Samuel 12:1**
+
+[TODO]
+
+**1 Samuel 12:2**
+
+[TODO]
+
+**1 Samuel 12:3**
+
+[TODO]
+
+**1 Samuel 12:4**
+
+[TODO]
+
+**1 Samuel 12:5**
+
+[TODO]
+
+**1 Samuel 12:6**
+
+[TODO]
+
+**1 Samuel 12:7**
+
+[TODO]
+
+**1 Samuel 12:8**
+
+[TODO]
+
+**1 Samuel 12:9**
+
+[TODO]
+
+**1 Samuel 12:10**
+
+[TODO]
+
+**1 Samuel 12:11**
+
+[TODO]
+
+**1 Samuel 12:12**
+
+[TODO]
+
+**1 Samuel 12:13**
+
+[TODO]
+
+**1 Samuel 12:14**
+
+[TODO]
+
+**1 Samuel 12:15**
+
+[TODO]
+
+**1 Samuel 12:16**
+
+[TODO]
+
+**1 Samuel 12:17**
+
+[TODO]
+
+**1 Samuel 12:18**
+
+[TODO]
+
+**1 Samuel 12:19**
+
+[TODO]
+
+**1 Samuel 12:20**
+
+[TODO]
+
+**1 Samuel 12:21**
+
+[TODO]
+
+**1 Samuel 12:22**
+
+[TODO]
+
+**1 Samuel 12:23**
+
+[TODO]
+
+**1 Samuel 12:24**
+
+[TODO]
+
+**1 Samuel 12:25**
+
+[TODO]
+
+### Chapter 13
+
+**1 Samuel 13:2**
+
+[TODO]
+
+**1 Samuel 13:3**
+
+[TODO]
+
+**1 Samuel 13:4**
+
+[TODO]
+
+**1 Samuel 13:5**
+
+[TODO]
+
+**1 Samuel 13:6**
+
+[TODO]
+
+**1 Samuel 13:7**
+
+[TODO]
+
+**1 Samuel 13:8**
+
+[TODO]
+
+**1 Samuel 13:9**
+
+[TODO]
+
+**1 Samuel 13:10**
+
+[TODO]
+
+**1 Samuel 13:11**
+
+[TODO]
+
+**1 Samuel 13:12**
+
+[TODO]
+
+**1 Samuel 13:13**
+
+[TODO]
+
+**1 Samuel 13:14**
+
+[TODO]
+
+**1 Samuel 13:15**
+
+[TODO]
+
+**1 Samuel 13:16**
+
+[TODO]
+
+**1 Samuel 13:17**
+
+[TODO]
+
+**1 Samuel 13:18**
+
+[TODO]
+
+**1 Samuel 13:19**
+
+[TODO]
+
+**1 Samuel 13:20**
+
+[TODO]
+
+**1 Samuel 13:21**
+
+[TODO]
+
+**1 Samuel 13:22**
+
+[TODO]
+
+**1 Samuel 13:23**
+
+[TODO]
+
+### Chapter 14
+
+**1 Samuel 14:1**
+
+[TODO]
+
+**1 Samuel 14:2**
+
+[TODO]
+
+**1 Samuel 14:3**
+
+[TODO]
+
+**1 Samuel 14:4**
+
+[TODO]
+
+**1 Samuel 14:5**
+
+[TODO]
+
+**1 Samuel 14:6**
+
+[TODO]
+
+**1 Samuel 14:7**
+
+[TODO]
+
+**1 Samuel 14:8**
+
+[TODO]
+
+**1 Samuel 14:9**
+
+[TODO]
+
+**1 Samuel 14:10**
+
+[TODO]
+
+**1 Samuel 14:11**
+
+[TODO]
+
+**1 Samuel 14:12**
+
+[TODO]
+
+**1 Samuel 14:13**
+
+[TODO]
+
+**1 Samuel 14:14**
+
+[TODO]
+
+**1 Samuel 14:15**
+
+[TODO]
+
+**1 Samuel 14:16**
+
+[TODO]
+
+**1 Samuel 14:17**
+
+[TODO]
+
+**1 Samuel 14:18**
+
+[TODO]
+
+**1 Samuel 14:19**
+
+[TODO]
+
+**1 Samuel 14:20**
+
+[TODO]
+
+**1 Samuel 14:21**
+
+[TODO]
+
+**1 Samuel 14:22**
+
+[TODO]
+
+**1 Samuel 14:23**
+
+[TODO]
+
+**1 Samuel 14:24**
+
+[TODO]
+
+**1 Samuel 14:25**
+
+[TODO]
+
+**1 Samuel 14:26**
+
+[TODO]
+
+**1 Samuel 14:27**
+
+[TODO]
+
+**1 Samuel 14:28**
+
+[TODO]
+
+**1 Samuel 14:29**
+
+[TODO]
+
+**1 Samuel 14:30**
+
+[TODO]
+
+**1 Samuel 14:31**
+
+[TODO]
+
+**1 Samuel 14:32**
+
+[TODO]
+
+**1 Samuel 14:33**
+
+[TODO]
+
+**1 Samuel 14:34**
+
+[TODO]
+
+**1 Samuel 14:35**
+
+[TODO]
+
+**1 Samuel 14:36**
+
+[TODO]
+
+**1 Samuel 14:37**
+
+[TODO]
+
+**1 Samuel 14:38**
+
+[TODO]
+
+**1 Samuel 14:39**
+
+[TODO]
+
+**1 Samuel 14:40**
+
+[TODO]
+
+**1 Samuel 14:41**
+
+[TODO]
+
+**1 Samuel 14:42**
+
+[TODO]
+
+**1 Samuel 14:43**
+
+[TODO]
+
+**1 Samuel 14:44**
+
+[TODO]
+
+**1 Samuel 14:45**
+
+[TODO]
+
+**1 Samuel 14:46**
+
+[TODO]
+
+**1 Samuel 14:47**
+
+[TODO]
+
+**1 Samuel 14:48**
+
+[TODO]
+
+**1 Samuel 14:49**
+
+[TODO]
+
+**1 Samuel 14:50**
+
+[TODO]
+
+**1 Samuel 14:51**
+
+[TODO]
+
+**1 Samuel 14:52**
+
+[TODO]
+
+### Chapter 15
+
+**1 Samuel 15:1**
+
+[TODO]
+
+**1 Samuel 15:2**
+
+[TODO]
+
+**1 Samuel 15:3**
+
+[TODO]
+
+**1 Samuel 15:4**
+
+[TODO]
+
+**1 Samuel 15:5**
+
+[TODO]
+
+**1 Samuel 15:6**
+
+[TODO]
+
+**1 Samuel 15:7**
+
+[TODO]
+
+**1 Samuel 15:8**
+
+[TODO]
+
+**1 Samuel 15:9**
+
+[TODO]
+
+**1 Samuel 15:10**
+
+[TODO]
+
+**1 Samuel 15:11**
+
+[TODO]
+
+**1 Samuel 15:12**
+
+[TODO]
+
+**1 Samuel 15:13**
+
+[TODO]
+
+**1 Samuel 15:14**
+
+[TODO]
+
+**1 Samuel 15:15**
+
+[TODO]
+
+**1 Samuel 15:16**
+
+[TODO]
+
+**1 Samuel 15:17**
+
+[TODO]
+
+**1 Samuel 15:18**
+
+[TODO]
+
+**1 Samuel 15:19**
+
+[TODO]
+
+**1 Samuel 15:20**
+
+[TODO]
+
+**1 Samuel 15:21**
+
+[TODO]
+
+**1 Samuel 15:22**
+
+[TODO]
+
+**1 Samuel 15:23**
+
+[TODO]
+
+**1 Samuel 15:24**
+
+[TODO]
+
+**1 Samuel 15:25**
+
+[TODO]
+
+**1 Samuel 15:26**
+
+[TODO]
+
+**1 Samuel 15:27**
+
+[TODO]
+
+**1 Samuel 15:28**
+
+[TODO]
+
+**1 Samuel 15:29**
+
+[TODO]
+
+**1 Samuel 15:30**
+
+[TODO]
+
+**1 Samuel 15:31**
+
+[TODO]
+
+**1 Samuel 15:32**
+
+[TODO]
+
+**1 Samuel 15:33**
+
+[TODO]
+
+**1 Samuel 15:34**
+
+[TODO]
+
+**1 Samuel 15:35**
+
+[TODO]
+
+### Chapter 16
+
+**1 Samuel 16:1**
+
+[TODO]
+
+**1 Samuel 16:2**
+
+[TODO]
+
+**1 Samuel 16:3**
+
+[TODO]
+
+**1 Samuel 16:4**
+
+[TODO]
+
+**1 Samuel 16:5**
+
+[TODO]
+
+**1 Samuel 16:6**
+
+[TODO]
+
+**1 Samuel 16:7**
+
+[TODO]
+
+**1 Samuel 16:8**
+
+[TODO]
+
+**1 Samuel 16:9**
+
+[TODO]
+
+**1 Samuel 16:10**
+
+[TODO]
+
+**1 Samuel 16:11**
+
+[TODO]
+
+**1 Samuel 16:12**
+
+[TODO]
+
+**1 Samuel 16:13**
+
+[TODO]
+
+**1 Samuel 16:14**
+
+[TODO]
+
+**1 Samuel 16:15**
+
+[TODO]
+
+**1 Samuel 16:16**
+
+[TODO]
+
+**1 Samuel 16:17**
+
+[TODO]
+
+**1 Samuel 16:18**
+
+[TODO]
+
+**1 Samuel 16:19**
+
+[TODO]
+
+**1 Samuel 16:20**
+
+[TODO]
+
+**1 Samuel 16:21**
+
+[TODO]
+
+**1 Samuel 16:22**
+
+[TODO]
+
+**1 Samuel 16:23**
+
+[TODO]
+
+### Chapter 17
+
+**1 Samuel 17:1**
+
+[TODO]
+
+**1 Samuel 17:2**
+
+[TODO]
+
+**1 Samuel 17:3**
+
+[TODO]
+
+**1 Samuel 17:4**
+
+[TODO]
+
+**1 Samuel 17:5**
+
+[TODO]
+
+**1 Samuel 17:6**
+
+[TODO]
+
+**1 Samuel 17:7**
+
+[TODO]
+
+**1 Samuel 17:8**
+
+[TODO]
+
+**1 Samuel 17:9**
+
+[TODO]
+
+**1 Samuel 17:10**
+
+[TODO]
+
+**1 Samuel 17:11**
+
+[TODO]
+
+**1 Samuel 17:32**
+
+[TODO]
+
+**1 Samuel 17:33**
+
+[TODO]
+
+**1 Samuel 17:34**
+
+[TODO]
+
+**1 Samuel 17:35**
+
+[TODO]
+
+**1 Samuel 17:36**
+
+[TODO]
+
+**1 Samuel 17:37**
+
+[TODO]
+
+**1 Samuel 17:38**
+
+[TODO]
+
+**1 Samuel 17:39**
+
+[TODO]
+
+**1 Samuel 17:40**
+
+[TODO]
+
+**1 Samuel 17:42**
+
+[TODO]
+
+**1 Samuel 17:43**
+
+[TODO]
+
+**1 Samuel 17:44**
+
+[TODO]
+
+**1 Samuel 17:45**
+
+[TODO]
+
+**1 Samuel 17:46**
+
+[TODO]
+
+**1 Samuel 17:47**
+
+[TODO]
+
+**1 Samuel 17:48**
+
+[TODO]
+
+**1 Samuel 17:49**
+
+[TODO]
+
+**1 Samuel 17:51**
+
+[TODO]
+
+**1 Samuel 17:52**
+
+[TODO]
+
+**1 Samuel 17:53**
+
+[TODO]
+
+**1 Samuel 17:54**
+
+[TODO]
+
+### Chapter 18
+
+**1 Samuel 18:6**
+
+[TODO]
+
+**1 Samuel 18:7**
+
+[TODO]
+
+**1 Samuel 18:8**
+
+[TODO]
+
+**1 Samuel 18:9**
+
+[TODO]
+
+**1 Samuel 18:12**
+
+[TODO]
+
+**1 Samuel 18:13**
+
+[TODO]
+
+**1 Samuel 18:14**
+
+[TODO]
+
+**1 Samuel 18:15**
+
+[TODO]
+
+**1 Samuel 18:16**
+
+[TODO]
+
+**1 Samuel 18:20**
+
+[TODO]
+
+**1 Samuel 18:21**
+
+[TODO]
+
+**1 Samuel 18:22**
+
+[TODO]
+
+**1 Samuel 18:23**
+
+[TODO]
+
+**1 Samuel 18:24**
+
+[TODO]
+
+**1 Samuel 18:25**
+
+[TODO]
+
+**1 Samuel 18:26**
+
+[TODO]
+
+**1 Samuel 18:27**
+
+[TODO]
+
+**1 Samuel 18:28**
+
+[TODO]
+
+**1 Samuel 18:29**
+
+[TODO]
+
+### Chapter 19
+
+**1 Samuel 19:1**
+
+[TODO]
+
+**1 Samuel 19:2**
+
+[TODO]
+
+**1 Samuel 19:3**
+
+[TODO]
+
+**1 Samuel 19:4**
+
+[TODO]
+
+**1 Samuel 19:5**
+
+[TODO]
+
+**1 Samuel 19:6**
+
+[TODO]
+
+**1 Samuel 19:7**
+
+[TODO]
+
+**1 Samuel 19:8**
+
+[TODO]
+
+**1 Samuel 19:9**
+
+[TODO]
+
+**1 Samuel 19:10**
+
+[TODO]
+
+**1 Samuel 19:11**
+
+[TODO]
+
+**1 Samuel 19:12**
+
+[TODO]
+
+**1 Samuel 19:13**
+
+[TODO]
+
+**1 Samuel 19:14**
+
+[TODO]
+
+**1 Samuel 19:15**
+
+[TODO]
+
+**1 Samuel 19:16**
+
+[TODO]
+
+**1 Samuel 19:17**
+
+[TODO]
+
+**1 Samuel 19:18**
+
+[TODO]
+
+**1 Samuel 19:19**
+
+[TODO]
+
+**1 Samuel 19:20**
+
+[TODO]
+
+**1 Samuel 19:21**
+
+[TODO]
+
+**1 Samuel 19:22**
+
+[TODO]
+
+**1 Samuel 19:23**
+
+[TODO]
+
+**1 Samuel 19:24**
+
+[TODO]
+
+### Chapter 20
+
+**1 Samuel 20:1**
+
+[TODO]
+
+**1 Samuel 20:2**
+
+[TODO]
+
+**1 Samuel 20:3**
+
+[TODO]
+
+**1 Samuel 20:4**
+
+[TODO]
+
+**1 Samuel 20:5**
+
+[TODO]
+
+**1 Samuel 20:6**
+
+[TODO]
+
+**1 Samuel 20:7**
+
+[TODO]
+
+**1 Samuel 20:8**
+
+[TODO]
+
+**1 Samuel 20:9**
+
+[TODO]
+
+**1 Samuel 20:10**
+
+[TODO]
+
+**1 Samuel 20:11**
+
+[TODO]
+
+**1 Samuel 20:12**
+
+[TODO]
+
+**1 Samuel 20:13**
+
+[TODO]
+
+**1 Samuel 20:14**
+
+[TODO]
+
+**1 Samuel 20:15**
+
+[TODO]
+
+**1 Samuel 20:16**
+
+[TODO]
+
+**1 Samuel 20:17**
+
+[TODO]
+
+**1 Samuel 20:18**
+
+[TODO]
+
+**1 Samuel 20:19**
+
+[TODO]
+
+**1 Samuel 20:20**
+
+[TODO]
+
+**1 Samuel 20:21**
+
+[TODO]
+
+**1 Samuel 20:22**
+
+[TODO]
+
+**1 Samuel 20:23**
+
+[TODO]
+
+**1 Samuel 20:24**
+
+[TODO]
+
+**1 Samuel 20:25**
+
+[TODO]
+
+**1 Samuel 20:26**
+
+[TODO]
+
+**1 Samuel 20:27**
+
+[TODO]
+
+**1 Samuel 20:28**
+
+[TODO]
+
+**1 Samuel 20:29**
+
+[TODO]
+
+**1 Samuel 20:30**
+
+[TODO]
+
+**1 Samuel 20:31**
+
+[TODO]
+
+**1 Samuel 20:32**
+
+[TODO]
+
+**1 Samuel 20:33**
+
+[TODO]
+
+**1 Samuel 20:34**
+
+[TODO]
+
+**1 Samuel 20:35**
+
+[TODO]
+
+**1 Samuel 20:36**
+
+[TODO]
+
+**1 Samuel 20:37**
+
+[TODO]
+
+**1 Samuel 20:38**
+
+[TODO]
+
+**1 Samuel 20:39**
+
+[TODO]
+
+**1 Samuel 20:40**
+
+[TODO]
+
+**1 Samuel 20:41**
+
+[TODO]
+
+**1 Samuel 20:42**
+
+[TODO]
+
+### Chapter 21
+
+**1 Samuel 21:1**
+
+[TODO]
+
+**1 Samuel 21:2**
+
+[TODO]
+
+**1 Samuel 21:3**
+
+[TODO]
+
+**1 Samuel 21:4**
+
+[TODO]
+
+**1 Samuel 21:5**
+
+[TODO]
+
+**1 Samuel 21:6**
+
+[TODO]
+
+**1 Samuel 21:7**
+
+[TODO]
+
+**1 Samuel 21:8**
+
+[TODO]
+
+**1 Samuel 21:9**
+
+[TODO]
+
+**1 Samuel 21:10**
+
+[TODO]
+
+**1 Samuel 21:11**
+
+[TODO]
+
+**1 Samuel 21:12**
+
+[TODO]
+
+**1 Samuel 21:13**
+
+[TODO]
+
+**1 Samuel 21:14**
+
+[TODO]
+
+**1 Samuel 21:15**
+
+[TODO]
+
+**1 Samuel 21:16**
+
+[TODO]
+
+### Chapter 22
+
+**1 Samuel 22:1**
+
+[TODO]
+
+**1 Samuel 22:2**
+
+[TODO]
+
+**1 Samuel 22:3**
+
+[TODO]
+
+**1 Samuel 22:4**
+
+[TODO]
+
+**1 Samuel 22:5**
+
+[TODO]
+
+**1 Samuel 22:6**
+
+[TODO]
+
+**1 Samuel 22:7**
+
+[TODO]
+
+**1 Samuel 22:8**
+
+[TODO]
+
+**1 Samuel 22:9**
+
+[TODO]
+
+**1 Samuel 22:10**
+
+[TODO]
+
+**1 Samuel 22:11**
+
+[TODO]
+
+**1 Samuel 22:12**
+
+[TODO]
+
+**1 Samuel 22:13**
+
+[TODO]
+
+**1 Samuel 22:14**
+
+[TODO]
+
+**1 Samuel 22:15**
+
+[TODO]
+
+**1 Samuel 22:16**
+
+[TODO]
+
+**1 Samuel 22:17**
+
+[TODO]
+
+**1 Samuel 22:18**
+
+[TODO]
+
+**1 Samuel 22:19**
+
+[TODO]
+
+**1 Samuel 22:20**
+
+[TODO]
+
+**1 Samuel 22:21**
+
+[TODO]
+
+**1 Samuel 22:22**
+
+[TODO]
+
+**1 Samuel 22:23**
+
+[TODO]
+
+### Chapter 23
+
+**1 Samuel 23:1**
+
+[TODO]
+
+**1 Samuel 23:2**
+
+[TODO]
+
+**1 Samuel 23:3**
+
+[TODO]
+
+**1 Samuel 23:4**
+
+[TODO]
+
+**1 Samuel 23:5**
+
+[TODO]
+
+**1 Samuel 23:6**
+
+[TODO]
+
+**1 Samuel 23:7**
+
+[TODO]
+
+**1 Samuel 23:8**
+
+[TODO]
+
+**1 Samuel 23:9**
+
+[TODO]
+
+**1 Samuel 23:10**
+
+[TODO]
+
+**1 Samuel 23:11**
+
+[TODO]
+
+**1 Samuel 23:13**
+
+[TODO]
+
+**1 Samuel 23:14**
+
+[TODO]
+
+**1 Samuel 23:15**
+
+[TODO]
+
+**1 Samuel 23:16**
+
+[TODO]
+
+**1 Samuel 23:17**
+
+[TODO]
+
+**1 Samuel 23:18**
+
+[TODO]
+
+**1 Samuel 23:19**
+
+[TODO]
+
+**1 Samuel 23:20**
+
+[TODO]
+
+**1 Samuel 23:21**
+
+[TODO]
+
+**1 Samuel 23:22**
+
+[TODO]
+
+**1 Samuel 23:23**
+
+[TODO]
+
+**1 Samuel 23:24**
+
+[TODO]
+
+**1 Samuel 23:25**
+
+[TODO]
+
+**1 Samuel 23:26**
+
+[TODO]
+
+**1 Samuel 23:27**
+
+[TODO]
+
+**1 Samuel 23:28**
+
+[TODO]
+
+### Chapter 24
+
+**1 Samuel 24:1**
+
+[TODO]
+
+**1 Samuel 24:2**
+
+[TODO]
+
+**1 Samuel 24:3**
+
+[TODO]
+
+**1 Samuel 24:4**
+
+[TODO]
+
+**1 Samuel 24:5**
+
+[TODO]
+
+**1 Samuel 24:6**
+
+[TODO]
+
+**1 Samuel 24:7**
+
+[TODO]
+
+**1 Samuel 24:8**
+
+[TODO]
+
+**1 Samuel 24:9**
+
+[TODO]
+
+**1 Samuel 24:10**
+
+[TODO]
+
+**1 Samuel 24:11**
+
+[TODO]
+
+**1 Samuel 24:12**
+
+[TODO]
+
+**1 Samuel 24:13**
+
+[TODO]
+
+**1 Samuel 24:14**
+
+[TODO]
+
+**1 Samuel 24:15**
+
+[TODO]
+
+**1 Samuel 24:16**
+
+[TODO]
+
+**1 Samuel 24:17**
+
+[TODO]
+
+**1 Samuel 24:18**
+
+[TODO]
+
+**1 Samuel 24:19**
+
+[TODO]
+
+**1 Samuel 24:20**
+
+[TODO]
+
+**1 Samuel 24:21**
+
+[TODO]
+
+**1 Samuel 24:22**
+
+[TODO]
+
+**1 Samuel 24:23**
+
+[TODO]
+
+### Chapter 25
+
+**1 Samuel 25:1**
+
+[TODO]
+
+**1 Samuel 25:2**
+
+[TODO]
+
+**1 Samuel 25:3**
+
+[TODO]
+
+**1 Samuel 25:4**
+
+[TODO]
+
+**1 Samuel 25:5**
+
+[TODO]
+
+**1 Samuel 25:6**
+
+[TODO]
+
+**1 Samuel 25:7**
+
+[TODO]
+
+**1 Samuel 25:8**
+
+[TODO]
+
+**1 Samuel 25:9**
+
+[TODO]
+
+**1 Samuel 25:10**
+
+[TODO]
+
+**1 Samuel 25:11**
+
+[TODO]
+
+**1 Samuel 25:12**
+
+[TODO]
+
+**1 Samuel 25:13**
+
+[TODO]
+
+**1 Samuel 25:14**
+
+[TODO]
+
+**1 Samuel 25:15**
+
+[TODO]
+
+**1 Samuel 25:16**
+
+[TODO]
+
+**1 Samuel 25:17**
+
+[TODO]
+
+**1 Samuel 25:18**
+
+[TODO]
+
+**1 Samuel 25:19**
+
+[TODO]
+
+**1 Samuel 25:20**
+
+[TODO]
+
+**1 Samuel 25:21**
+
+[TODO]
+
+**1 Samuel 25:22**
+
+[TODO]
+
+**1 Samuel 25:23**
+
+[TODO]
+
+**1 Samuel 25:24**
+
+[TODO]
+
+**1 Samuel 25:25**
+
+[TODO]
+
+**1 Samuel 25:26**
+
+[TODO]
+
+**1 Samuel 25:27**
+
+[TODO]
+
+**1 Samuel 25:28**
+
+[TODO]
+
+**1 Samuel 25:29**
+
+[TODO]
+
+**1 Samuel 25:30**
+
+[TODO]
+
+**1 Samuel 25:31**
+
+[TODO]
+
+**1 Samuel 25:32**
+
+[TODO]
+
+**1 Samuel 25:33**
+
+[TODO]
+
+**1 Samuel 25:34**
+
+[TODO]
+
+**1 Samuel 25:35**
+
+[TODO]
+
+**1 Samuel 25:36**
+
+[TODO]
+
+**1 Samuel 25:37**
+
+[TODO]
+
+**1 Samuel 25:38**
+
+[TODO]
+
+**1 Samuel 25:39**
+
+[TODO]
+
+**1 Samuel 25:40**
+
+[TODO]
+
+**1 Samuel 25:41**
+
+[TODO]
+
+**1 Samuel 25:42**
+
+[TODO]
+
+**1 Samuel 25:43**
+
+[TODO]
+
+**1 Samuel 25:44**
+
+[TODO]
+
+### Chapter 26
+
+**1 Samuel 26:1**
+
+[TODO]
+
+**1 Samuel 26:2**
+
+[TODO]
+
+**1 Samuel 26:3**
+
+[TODO]
+
+**1 Samuel 26:4**
+
+[TODO]
+
+**1 Samuel 26:5**
+
+[TODO]
+
+**1 Samuel 26:6**
+
+[TODO]
+
+**1 Samuel 26:7**
+
+[TODO]
+
+**1 Samuel 26:8**
+
+[TODO]
+
+**1 Samuel 26:9**
+
+[TODO]
+
+**1 Samuel 26:10**
+
+[TODO]
+
+**1 Samuel 26:11**
+
+[TODO]
+
+**1 Samuel 26:12**
+
+[TODO]
+
+**1 Samuel 26:13**
+
+[TODO]
+
+**1 Samuel 26:14**
+
+[TODO]
+
+**1 Samuel 26:15**
+
+[TODO]
+
+**1 Samuel 26:16**
+
+[TODO]
+
+**1 Samuel 26:17**
+
+[TODO]
+
+**1 Samuel 26:18**
+
+[TODO]
+
+**1 Samuel 26:19**
+
+[TODO]
+
+**1 Samuel 26:20**
+
+[TODO]
+
+**1 Samuel 26:21**
+
+[TODO]
+
+**1 Samuel 26:22**
+
+[TODO]
+
+**1 Samuel 26:23**
+
+[TODO]
+
+**1 Samuel 26:24**
+
+[TODO]
+
+**1 Samuel 26:25**
+
+[TODO]
+
+### Chapter 27
+
+**1 Samuel 27:1**
+
+[TODO]
+
+**1 Samuel 27:2**
+
+[TODO]
+
+**1 Samuel 27:3**
+
+[TODO]
+
+**1 Samuel 27:4**
+
+[TODO]
+
+**1 Samuel 27:5**
+
+[TODO]
+
+**1 Samuel 27:6**
+
+[TODO]
+
+**1 Samuel 27:7**
+
+[TODO]
+
+**1 Samuel 27:8**
+
+[TODO]
+
+**1 Samuel 27:9**
+
+[TODO]
+
+**1 Samuel 27:10**
+
+[TODO]
+
+**1 Samuel 27:11**
+
+[TODO]
+
+**1 Samuel 27:12**
+
+[TODO]
+
+### Chapter 28
+
+**1 Samuel 28:1**
+
+[TODO]
+
+**1 Samuel 28:2**
+
+[TODO]
+
+**1 Samuel 28:3**
+
+[TODO]
+
+**1 Samuel 28:4**
+
+[TODO]
+
+**1 Samuel 28:5**
+
+[TODO]
+
+**1 Samuel 28:6**
+
+[TODO]
+
+**1 Samuel 28:7**
+
+[TODO]
+
+**1 Samuel 28:8**
+
+[TODO]
+
+**1 Samuel 28:9**
+
+[TODO]
+
+**1 Samuel 28:10**
+
+[TODO]
+
+**1 Samuel 28:11**
+
+[TODO]
+
+**1 Samuel 28:12**
+
+[TODO]
+
+**1 Samuel 28:13**
+
+[TODO]
+
+**1 Samuel 28:14**
+
+[TODO]
+
+**1 Samuel 28:15**
+
+[TODO]
+
+**1 Samuel 28:16**
+
+[TODO]
+
+**1 Samuel 28:17**
+
+[TODO]
+
+**1 Samuel 28:18**
+
+[TODO]
+
+**1 Samuel 28:19**
+
+[TODO]
+
+**1 Samuel 28:20**
+
+[TODO]
+
+**1 Samuel 28:21**
+
+[TODO]
+
+**1 Samuel 28:22**
+
+[TODO]
+
+**1 Samuel 28:23**
+
+[TODO]
+
+**1 Samuel 28:24**
+
+[TODO]
+
+**1 Samuel 28:25**
+
+[TODO]
+
+### Chapter 29
+
+**1 Samuel 29:1**
+
+[TODO]
+
+**1 Samuel 29:2**
+
+[TODO]
+
+**1 Samuel 29:3**
+
+[TODO]
+
+**1 Samuel 29:4**
+
+[TODO]
+
+**1 Samuel 29:5**
+
+[TODO]
+
+**1 Samuel 29:6**
+
+[TODO]
+
+**1 Samuel 29:7**
+
+[TODO]
+
+**1 Samuel 29:8**
+
+[TODO]
+
+**1 Samuel 29:9**
+
+[TODO]
+
+**1 Samuel 29:10**
+
+[TODO]
+
+**1 Samuel 29:11**
+
+[TODO]
+
+### Chapter 30
+
+**1 Samuel 30:1**
+
+[TODO]
+
+**1 Samuel 30:2**
+
+[TODO]
+
+**1 Samuel 30:3**
+
+[TODO]
+
+**1 Samuel 30:4**
+
+[TODO]
+
+**1 Samuel 30:5**
+
+[TODO]
+
+**1 Samuel 30:6**
+
+[TODO]
+
+**1 Samuel 30:7**
+
+[TODO]
+
+**1 Samuel 30:8**
+
+[TODO]
+
+**1 Samuel 30:9**
+
+[TODO]
+
+**1 Samuel 30:10**
+
+[TODO]
+
+**1 Samuel 30:11**
+
+[TODO]
+
+**1 Samuel 30:12**
+
+[TODO]
+
+**1 Samuel 30:13**
+
+[TODO]
+
+**1 Samuel 30:14**
+
+[TODO]
+
+**1 Samuel 30:15**
+
+[TODO]
+
+**1 Samuel 30:16**
+
+[TODO]
+
+**1 Samuel 30:17**
+
+[TODO]
+
+**1 Samuel 30:18**
+
+[TODO]
+
+**1 Samuel 30:19**
+
+[TODO]
+
+**1 Samuel 30:20**
+
+[TODO]
+
+**1 Samuel 30:21**
+
+[TODO]
+
+**1 Samuel 30:22**
+
+[TODO]
+
+**1 Samuel 30:23**
+
+[TODO]
+
+**1 Samuel 30:24**
+
+[TODO]
+
+**1 Samuel 30:25**
+
+[TODO]
+
+**1 Samuel 30:26**
+
+[TODO]
+
+**1 Samuel 30:27**
+
+[TODO]
+
+**1 Samuel 30:28**
+
+[TODO]
+
+**1 Samuel 30:29**
+
+[TODO]
+
+**1 Samuel 30:30**
+
+[TODO]
+
+**1 Samuel 30:31**
+
+[TODO]
+
+### Chapter 31
+
+**1 Samuel 31:1**
+
+[TODO]
+
+**1 Samuel 31:2**
+
+[TODO]
+
+**1 Samuel 31:3**
+
+[TODO]
+
+**1 Samuel 31:4**
+
+[TODO]
+
+**1 Samuel 31:5**
+
+[TODO]
+
+**1 Samuel 31:6**
+
+[TODO]
+
+**1 Samuel 31:7**
+
+[TODO]
+
+**1 Samuel 31:8**
+
+[TODO]
+
+**1 Samuel 31:9**
+
+[TODO]
+
+**1 Samuel 31:10**
+
+[TODO]
+
+**1 Samuel 31:11**
+
+[TODO]
+
+**1 Samuel 31:12**
+
+[TODO]
+
+**1 Samuel 31:13**
+
+[TODO]
+
+## 2 Samuel
+
+### Chapter 1
+
+**2 Samuel 1:1**
+
+[TODO]
+
+**2 Samuel 1:2**
+
+[TODO]
+
+**2 Samuel 1:3**
+
+[TODO]
+
+**2 Samuel 1:4**
+
+[TODO]
+
+**2 Samuel 1:5**
+
+[TODO]
+
+**2 Samuel 1:6**
+
+[TODO]
+
+**2 Samuel 1:7**
+
+[TODO]
+
+**2 Samuel 1:8**
+
+[TODO]
+
+**2 Samuel 1:9**
+
+[TODO]
+
+**2 Samuel 1:10**
+
+[TODO]
+
+**2 Samuel 1:11**
+
+[TODO]
+
+**2 Samuel 1:12**
+
+[TODO]
+
+**2 Samuel 1:13**
+
+[TODO]
+
+**2 Samuel 1:14**
+
+[TODO]
+
+**2 Samuel 1:15**
+
+[TODO]
+
+**2 Samuel 1:16**
+
+[TODO]
+
+**2 Samuel 1:17**
+
+[TODO]
+
+**2 Samuel 1:18**
+
+[TODO]
+
+**2 Samuel 1:19**
+
+[TODO]
+
+**2 Samuel 1:20**
+
+[TODO]
+
+**2 Samuel 1:21**
+
+[TODO]
+
+**2 Samuel 1:22**
+
+[TODO]
+
+**2 Samuel 1:23**
+
+[TODO]
+
+**2 Samuel 1:24**
+
+[TODO]
+
+**2 Samuel 1:25**
+
+[TODO]
+
+**2 Samuel 1:26**
+
+[TODO]
+
+**2 Samuel 1:27**
+
+[TODO]
+
+### Chapter 2
+
+**2 Samuel 2:1**
+
+[TODO]
+
+**2 Samuel 2:2**
+
+[TODO]
+
+**2 Samuel 2:3**
+
+[TODO]
+
+**2 Samuel 2:4**
+
+[TODO]
+
+**2 Samuel 2:5**
+
+[TODO]
+
+**2 Samuel 2:6**
+
+[TODO]
+
+**2 Samuel 2:7**
+
+[TODO]
+
+**2 Samuel 2:8**
+
+[TODO]
+
+**2 Samuel 2:9**
+
+[TODO]
+
+**2 Samuel 2:10**
+
+[TODO]
+
+**2 Samuel 2:11**
+
+[TODO]
+
+**2 Samuel 2:12**
+
+[TODO]
+
+**2 Samuel 2:13**
+
+[TODO]
+
+**2 Samuel 2:14**
+
+[TODO]
+
+**2 Samuel 2:15**
+
+[TODO]
+
+**2 Samuel 2:16**
+
+[TODO]
+
+**2 Samuel 2:17**
+
+[TODO]
+
+**2 Samuel 2:18**
+
+[TODO]
+
+**2 Samuel 2:19**
+
+[TODO]
+
+**2 Samuel 2:20**
+
+[TODO]
+
+**2 Samuel 2:21**
+
+[TODO]
+
+**2 Samuel 2:22**
+
+[TODO]
+
+**2 Samuel 2:23**
+
+[TODO]
+
+**2 Samuel 2:24**
+
+[TODO]
+
+**2 Samuel 2:25**
+
+[TODO]
+
+**2 Samuel 2:26**
+
+[TODO]
+
+**2 Samuel 2:27**
+
+[TODO]
+
+**2 Samuel 2:28**
+
+[TODO]
+
+**2 Samuel 2:29**
+
+[TODO]
+
+**2 Samuel 2:30**
+
+[TODO]
+
+**2 Samuel 2:31**
+
+[TODO]
+
+**2 Samuel 2:32**
+
+[TODO]
+
+### Chapter 3
+
+**2 Samuel 3:1**
+
+[TODO]
+
+**2 Samuel 3:2**
+
+[TODO]
+
+**2 Samuel 3:3**
+
+[TODO]
+
+**2 Samuel 3:4**
+
+[TODO]
+
+**2 Samuel 3:5**
+
+[TODO]
+
+**2 Samuel 3:6**
+
+[TODO]
+
+**2 Samuel 3:7**
+
+[TODO]
+
+**2 Samuel 3:8**
+
+[TODO]
+
+**2 Samuel 3:9**
+
+[TODO]
+
+**2 Samuel 3:10**
+
+[TODO]
+
+**2 Samuel 3:11**
+
+[TODO]
+
+**2 Samuel 3:12**
+
+[TODO]
+
+**2 Samuel 3:13**
+
+[TODO]
+
+**2 Samuel 3:14**
+
+[TODO]
+
+**2 Samuel 3:15**
+
+[TODO]
+
+**2 Samuel 3:16**
+
+[TODO]
+
+**2 Samuel 3:17**
+
+[TODO]
+
+**2 Samuel 3:18**
+
+[TODO]
+
+**2 Samuel 3:19**
+
+[TODO]
+
+**2 Samuel 3:20**
+
+[TODO]
+
+**2 Samuel 3:21**
+
+[TODO]
+
+**2 Samuel 3:22**
+
+[TODO]
+
+**2 Samuel 3:23**
+
+[TODO]
+
+**2 Samuel 3:24**
+
+[TODO]
+
+**2 Samuel 3:25**
+
+[TODO]
+
+**2 Samuel 3:26**
+
+[TODO]
+
+**2 Samuel 3:27**
+
+[TODO]
+
+**2 Samuel 3:28**
+
+[TODO]
+
+**2 Samuel 3:29**
+
+[TODO]
+
+**2 Samuel 3:30**
+
+[TODO]
+
+**2 Samuel 3:31**
+
+[TODO]
+
+**2 Samuel 3:32**
+
+[TODO]
+
+**2 Samuel 3:33**
+
+[TODO]
+
+**2 Samuel 3:34**
+
+[TODO]
+
+**2 Samuel 3:35**
+
+[TODO]
+
+**2 Samuel 3:36**
+
+[TODO]
+
+**2 Samuel 3:37**
+
+[TODO]
+
+**2 Samuel 3:38**
+
+[TODO]
+
+**2 Samuel 3:39**
+
+[TODO]
+
+### Chapter 4
+
+**2 Samuel 4:1**
+
+[TODO]
+
+**2 Samuel 4:2**
+
+[TODO]
+
+**2 Samuel 4:3**
+
+[TODO]
+
+**2 Samuel 4:4**
+
+[TODO]
+
+**2 Samuel 4:5**
+
+[TODO]
+
+**2 Samuel 4:6**
+
+[TODO]
+
+**2 Samuel 4:7**
+
+[TODO]
+
+**2 Samuel 4:8**
+
+[TODO]
+
+**2 Samuel 4:9**
+
+[TODO]
+
+**2 Samuel 4:10**
+
+[TODO]
+
+**2 Samuel 4:11**
+
+[TODO]
+
+**2 Samuel 4:12**
+
+[TODO]
+
+### Chapter 5
+
+**2 Samuel 5:1**
+
+[TODO]
+
+**2 Samuel 5:2**
+
+[TODO]
+
+**2 Samuel 5:3**
+
+[TODO]
+
+**2 Samuel 5:4**
+
+[TODO]
+
+**2 Samuel 5:5**
+
+[TODO]
+
+**2 Samuel 5:6**
+
+[TODO]
+
+**2 Samuel 5:7**
+
+[TODO]
+
+**2 Samuel 5:8**
+
+[TODO]
+
+**2 Samuel 5:9**
+
+[TODO]
+
+**2 Samuel 5:10**
+
+[TODO]
+
+**2 Samuel 5:11**
+
+[TODO]
+
+**2 Samuel 5:12**
+
+[TODO]
+
+**2 Samuel 5:13**
+
+[TODO]
+
+**2 Samuel 5:14**
+
+[TODO]
+
+**2 Samuel 5:15**
+
+[TODO]
+
+**2 Samuel 5:16**
+
+[TODO]
+
+**2 Samuel 5:17**
+
+[TODO]
+
+**2 Samuel 5:18**
+
+[TODO]
+
+**2 Samuel 5:19**
+
+[TODO]
+
+**2 Samuel 5:20**
+
+[TODO]
+
+**2 Samuel 5:21**
+
+[TODO]
+
+**2 Samuel 5:22**
+
+[TODO]
+
+**2 Samuel 5:23**
+
+[TODO]
+
+**2 Samuel 5:24**
+
+[TODO]
+
+**2 Samuel 5:25**
+
+[TODO]
+
+### Chapter 6
+
+**2 Samuel 6:1**
+
+[TODO]
+
+**2 Samuel 6:2**
+
+[TODO]
+
+**2 Samuel 6:3**
+
+[TODO]
+
+**2 Samuel 6:4**
+
+[TODO]
+
+**2 Samuel 6:5**
+
+[TODO]
+
+**2 Samuel 6:6**
+
+[TODO]
+
+**2 Samuel 6:7**
+
+[TODO]
+
+**2 Samuel 6:8**
+
+[TODO]
+
+**2 Samuel 6:9**
+
+[TODO]
+
+**2 Samuel 6:10**
+
+[TODO]
+
+**2 Samuel 6:11**
+
+[TODO]
+
+**2 Samuel 6:12**
+
+[TODO]
+
+**2 Samuel 6:13**
+
+[TODO]
+
+**2 Samuel 6:14**
+
+[TODO]
+
+**2 Samuel 6:15**
+
+[TODO]
+
+**2 Samuel 6:16**
+
+[TODO]
+
+**2 Samuel 6:17**
+
+[TODO]
+
+**2 Samuel 6:18**
+
+[TODO]
+
+**2 Samuel 6:19**
+
+[TODO]
+
+**2 Samuel 6:20**
+
+[TODO]
+
+**2 Samuel 6:21**
+
+[TODO]
+
+**2 Samuel 6:22**
+
+[TODO]
+
+**2 Samuel 6:23**
+
+[TODO]
+
+### Chapter 7
+
+**2 Samuel 7:1**
+
+[TODO]
+
+**2 Samuel 7:2**
+
+[TODO]
+
+**2 Samuel 7:3**
+
+[TODO]
+
+**2 Samuel 7:4**
+
+[TODO]
+
+**2 Samuel 7:5**
+
+[TODO]
+
+**2 Samuel 7:6**
+
+[TODO]
+
+**2 Samuel 7:7**
+
+[TODO]
+
+**2 Samuel 7:8**
+
+[TODO]
+
+**2 Samuel 7:9**
+
+[TODO]
+
+**2 Samuel 7:10**
+
+[TODO]
+
+**2 Samuel 7:11**
+
+[TODO]
+
+**2 Samuel 7:12**
+
+[TODO]
+
+**2 Samuel 7:13**
+
+[TODO]
+
+**2 Samuel 7:14**
+
+[TODO]
+
+**2 Samuel 7:15**
+
+[TODO]
+
+**2 Samuel 7:16**
+
+[TODO]
+
+**2 Samuel 7:17**
+
+[TODO]
+
+**2 Samuel 7:18**
+
+[TODO]
+
+**2 Samuel 7:19**
+
+[TODO]
+
+**2 Samuel 7:20**
+
+[TODO]
+
+**2 Samuel 7:21**
+
+[TODO]
+
+**2 Samuel 7:22**
+
+[TODO]
+
+**2 Samuel 7:23**
+
+[TODO]
+
+**2 Samuel 7:24**
+
+[TODO]
+
+**2 Samuel 7:25**
+
+[TODO]
+
+**2 Samuel 7:26**
+
+[TODO]
+
+**2 Samuel 7:27**
+
+[TODO]
+
+**2 Samuel 7:28**
+
+[TODO]
+
+**2 Samuel 7:29**
+
+[TODO]
+
+### Chapter 8
+
+**2 Samuel 8:1**
+
+[TODO]
+
+**2 Samuel 8:2**
+
+[TODO]
+
+**2 Samuel 8:3**
+
+[TODO]
+
+**2 Samuel 8:4**
+
+[TODO]
+
+**2 Samuel 8:5**
+
+[TODO]
+
+**2 Samuel 8:6**
+
+[TODO]
+
+**2 Samuel 8:7**
+
+[TODO]
+
+**2 Samuel 8:8**
+
+[TODO]
+
+**2 Samuel 8:9**
+
+[TODO]
+
+**2 Samuel 8:10**
+
+[TODO]
+
+**2 Samuel 8:11**
+
+[TODO]
+
+**2 Samuel 8:12**
+
+[TODO]
+
+**2 Samuel 8:13**
+
+[TODO]
+
+**2 Samuel 8:14**
+
+[TODO]
+
+**2 Samuel 8:15**
+
+[TODO]
+
+**2 Samuel 8:16**
+
+[TODO]
+
+**2 Samuel 8:17**
+
+[TODO]
+
+**2 Samuel 8:18**
+
+[TODO]
+
+### Chapter 9
+
+**2 Samuel 9:1**
+
+[TODO]
+
+**2 Samuel 9:2**
+
+[TODO]
+
+**2 Samuel 9:3**
+
+[TODO]
+
+**2 Samuel 9:4**
+
+[TODO]
+
+**2 Samuel 9:5**
+
+[TODO]
+
+**2 Samuel 9:6**
+
+[TODO]
+
+**2 Samuel 9:7**
+
+[TODO]
+
+**2 Samuel 9:8**
+
+[TODO]
+
+**2 Samuel 9:9**
+
+[TODO]
+
+**2 Samuel 9:10**
+
+[TODO]
+
+**2 Samuel 9:11**
+
+[TODO]
+
+**2 Samuel 9:12**
+
+[TODO]
+
+**2 Samuel 9:13**
+
+[TODO]
+
+### Chapter 10
+
+**2 Samuel 10:1**
+
+[TODO]
+
+**2 Samuel 10:2**
+
+[TODO]
+
+**2 Samuel 10:3**
+
+[TODO]
+
+**2 Samuel 10:4**
+
+[TODO]
+
+**2 Samuel 10:5**
+
+[TODO]
+
+**2 Samuel 10:6**
+
+[TODO]
+
+**2 Samuel 10:7**
+
+[TODO]
+
+**2 Samuel 10:8**
+
+[TODO]
+
+**2 Samuel 10:9**
+
+[TODO]
+
+**2 Samuel 10:10**
+
+[TODO]
+
+**2 Samuel 10:11**
+
+[TODO]
+
+**2 Samuel 10:12**
+
+[TODO]
+
+**2 Samuel 10:13**
+
+[TODO]
+
+**2 Samuel 10:14**
+
+[TODO]
+
+**2 Samuel 10:15**
+
+[TODO]
+
+**2 Samuel 10:16**
+
+[TODO]
+
+**2 Samuel 10:17**
+
+[TODO]
+
+**2 Samuel 10:18**
+
+[TODO]
+
+**2 Samuel 10:19**
+
+[TODO]
+
+### Chapter 11
+
+**2 Samuel 11:1**
+
+[TODO]
+
+**2 Samuel 11:2**
+
+[TODO]
+
+**2 Samuel 11:3**
+
+[TODO]
+
+**2 Samuel 11:4**
+
+[TODO]
+
+**2 Samuel 11:5**
+
+[TODO]
+
+**2 Samuel 11:6**
+
+[TODO]
+
+**2 Samuel 11:7**
+
+[TODO]
+
+**2 Samuel 11:8**
+
+[TODO]
+
+**2 Samuel 11:9**
+
+[TODO]
+
+**2 Samuel 11:10**
+
+[TODO]
+
+**2 Samuel 11:11**
+
+[TODO]
+
+**2 Samuel 11:12**
+
+[TODO]
+
+**2 Samuel 11:13**
+
+[TODO]
+
+**2 Samuel 11:14**
+
+[TODO]
+
+**2 Samuel 11:15**
+
+[TODO]
+
+**2 Samuel 11:16**
+
+[TODO]
+
+**2 Samuel 11:17**
+
+[TODO]
+
+**2 Samuel 11:18**
+
+[TODO]
+
+**2 Samuel 11:19**
+
+[TODO]
+
+**2 Samuel 11:20**
+
+[TODO]
+
+**2 Samuel 11:21**
+
+[TODO]
+
+**2 Samuel 11:22**
+
+[TODO]
+
+**2 Samuel 11:23**
+
+[TODO]
+
+**2 Samuel 11:24**
+
+[TODO]
+
+**2 Samuel 11:25**
+
+[TODO]
+
+**2 Samuel 11:26**
+
+[TODO]
+
+**2 Samuel 11:27**
+
+[TODO]
+
+### Chapter 12
+
+**2 Samuel 12:1**
+
+[TODO]
+
+**2 Samuel 12:2**
+
+[TODO]
+
+**2 Samuel 12:3**
+
+[TODO]
+
+**2 Samuel 12:4**
+
+[TODO]
+
+**2 Samuel 12:5**
+
+[TODO]
+
+**2 Samuel 12:6**
+
+[TODO]
+
+**2 Samuel 12:7**
+
+[TODO]
+
+**2 Samuel 12:8**
+
+[TODO]
+
+**2 Samuel 12:9**
+
+[TODO]
+
+**2 Samuel 12:10**
+
+[TODO]
+
+**2 Samuel 12:11**
+
+[TODO]
+
+**2 Samuel 12:12**
+
+[TODO]
+
+**2 Samuel 12:13**
+
+[TODO]
+
+**2 Samuel 12:14**
+
+[TODO]
+
+**2 Samuel 12:15**
+
+[TODO]
+
+**2 Samuel 12:16**
+
+[TODO]
+
+**2 Samuel 12:17**
+
+[TODO]
+
+**2 Samuel 12:18**
+
+[TODO]
+
+**2 Samuel 12:19**
+
+[TODO]
+
+**2 Samuel 12:20**
+
+[TODO]
+
+**2 Samuel 12:21**
+
+[TODO]
+
+**2 Samuel 12:22**
+
+[TODO]
+
+**2 Samuel 12:23**
+
+[TODO]
+
+**2 Samuel 12:24**
+
+[TODO]
+
+**2 Samuel 12:25**
+
+[TODO]
+
+**2 Samuel 12:26**
+
+[TODO]
+
+**2 Samuel 12:27**
+
+[TODO]
+
+**2 Samuel 12:28**
+
+[TODO]
+
+**2 Samuel 12:29**
+
+[TODO]
+
+**2 Samuel 12:30**
+
+[TODO]
+
+**2 Samuel 12:31**
+
+[TODO]
+
+### Chapter 13
+
+**2 Samuel 13:1**
+
+[TODO]
+
+**2 Samuel 13:2**
+
+[TODO]
+
+**2 Samuel 13:3**
+
+[TODO]
+
+**2 Samuel 13:4**
+
+[TODO]
+
+**2 Samuel 13:5**
+
+[TODO]
+
+**2 Samuel 13:6**
+
+[TODO]
+
+**2 Samuel 13:7**
+
+[TODO]
+
+**2 Samuel 13:8**
+
+[TODO]
+
+**2 Samuel 13:9**
+
+[TODO]
+
+**2 Samuel 13:10**
+
+[TODO]
+
+**2 Samuel 13:11**
+
+[TODO]
+
+**2 Samuel 13:12**
+
+[TODO]
+
+**2 Samuel 13:13**
+
+[TODO]
+
+**2 Samuel 13:14**
+
+[TODO]
+
+**2 Samuel 13:15**
+
+[TODO]
+
+**2 Samuel 13:16**
+
+[TODO]
+
+**2 Samuel 13:17**
+
+[TODO]
+
+**2 Samuel 13:18**
+
+[TODO]
+
+**2 Samuel 13:19**
+
+[TODO]
+
+**2 Samuel 13:20**
+
+[TODO]
+
+**2 Samuel 13:21**
+
+[TODO]
+
+**2 Samuel 13:22**
+
+[TODO]
+
+**2 Samuel 13:23**
+
+[TODO]
+
+**2 Samuel 13:24**
+
+[TODO]
+
+**2 Samuel 13:25**
+
+[TODO]
+
+**2 Samuel 13:26**
+
+[TODO]
+
+**2 Samuel 13:27**
+
+[TODO]
+
+**2 Samuel 13:28**
+
+[TODO]
+
+**2 Samuel 13:29**
+
+[TODO]
+
+**2 Samuel 13:30**
+
+[TODO]
+
+**2 Samuel 13:31**
+
+[TODO]
+
+**2 Samuel 13:32**
+
+[TODO]
+
+**2 Samuel 13:33**
+
+[TODO]
+
+**2 Samuel 13:34**
+
+[TODO]
+
+**2 Samuel 13:35**
+
+[TODO]
+
+**2 Samuel 13:36**
+
+[TODO]
+
+**2 Samuel 13:37**
+
+[TODO]
+
+**2 Samuel 13:38**
+
+[TODO]
+
+**2 Samuel 13:39**
+
+[TODO]
+
+### Chapter 14
+
+**2 Samuel 14:1**
+
+[TODO]
+
+**2 Samuel 14:2**
+
+[TODO]
+
+**2 Samuel 14:3**
+
+[TODO]
+
+**2 Samuel 14:4**
+
+[TODO]
+
+**2 Samuel 14:5**
+
+[TODO]
+
+**2 Samuel 14:6**
+
+[TODO]
+
+**2 Samuel 14:7**
+
+[TODO]
+
+**2 Samuel 14:8**
+
+[TODO]
+
+**2 Samuel 14:9**
+
+[TODO]
+
+**2 Samuel 14:10**
+
+[TODO]
+
+**2 Samuel 14:11**
+
+[TODO]
+
+**2 Samuel 14:12**
+
+[TODO]
+
+**2 Samuel 14:13**
+
+[TODO]
+
+**2 Samuel 14:14**
+
+[TODO]
+
+**2 Samuel 14:15**
+
+[TODO]
+
+**2 Samuel 14:16**
+
+[TODO]
+
+**2 Samuel 14:17**
+
+[TODO]
+
+**2 Samuel 14:18**
+
+[TODO]
+
+**2 Samuel 14:19**
+
+[TODO]
+
+**2 Samuel 14:20**
+
+[TODO]
+
+**2 Samuel 14:21**
+
+[TODO]
+
+**2 Samuel 14:22**
+
+[TODO]
+
+**2 Samuel 14:23**
+
+[TODO]
+
+**2 Samuel 14:24**
+
+[TODO]
+
+**2 Samuel 14:25**
+
+[TODO]
+
+**2 Samuel 14:26**
+
+[TODO]
+
+**2 Samuel 14:27**
+
+[TODO]
+
+**2 Samuel 14:28**
+
+[TODO]
+
+**2 Samuel 14:29**
+
+[TODO]
+
+**2 Samuel 14:30**
+
+[TODO]
+
+**2 Samuel 14:31**
+
+[TODO]
+
+**2 Samuel 14:32**
+
+[TODO]
+
+**2 Samuel 14:33**
+
+[TODO]
+
+### Chapter 15
+
+**2 Samuel 15:1**
+
+[TODO]
+
+**2 Samuel 15:2**
+
+[TODO]
+
+**2 Samuel 15:3**
+
+[TODO]
+
+**2 Samuel 15:4**
+
+[TODO]
+
+**2 Samuel 15:5**
+
+[TODO]
+
+**2 Samuel 15:6**
+
+[TODO]
+
+**2 Samuel 15:7**
+
+[TODO]
+
+**2 Samuel 15:8**
+
+[TODO]
+
+**2 Samuel 15:9**
+
+[TODO]
+
+**2 Samuel 15:10**
+
+[TODO]
+
+**2 Samuel 15:11**
+
+[TODO]
+
+**2 Samuel 15:12**
+
+[TODO]
+
+**2 Samuel 15:13**
+
+[TODO]
+
+**2 Samuel 15:14**
+
+[TODO]
+
+**2 Samuel 15:15**
+
+[TODO]
+
+**2 Samuel 15:16**
+
+[TODO]
+
+**2 Samuel 15:17**
+
+[TODO]
+
+**2 Samuel 15:18**
+
+[TODO]
+
+**2 Samuel 15:19**
+
+[TODO]
+
+**2 Samuel 15:20**
+
+[TODO]
+
+**2 Samuel 15:21**
+
+[TODO]
+
+**2 Samuel 15:22**
+
+[TODO]
+
+**2 Samuel 15:23**
+
+[TODO]
+
+**2 Samuel 15:24**
+
+[TODO]
+
+**2 Samuel 15:25**
+
+[TODO]
+
+**2 Samuel 15:26**
+
+[TODO]
+
+**2 Samuel 15:27**
+
+[TODO]
+
+**2 Samuel 15:28**
+
+[TODO]
+
+**2 Samuel 15:29**
+
+[TODO]
+
+**2 Samuel 15:30**
+
+[TODO]
+
+**2 Samuel 15:31**
+
+[TODO]
+
+**2 Samuel 15:32**
+
+[TODO]
+
+**2 Samuel 15:33**
+
+[TODO]
+
+**2 Samuel 15:34**
+
+[TODO]
+
+**2 Samuel 15:35**
+
+[TODO]
+
+**2 Samuel 15:36**
+
+[TODO]
+
+**2 Samuel 15:37**
+
+[TODO]
+
+### Chapter 16
+
+**2 Samuel 16:1**
+
+[TODO]
+
+**2 Samuel 16:2**
+
+[TODO]
+
+**2 Samuel 16:3**
+
+[TODO]
+
+**2 Samuel 16:4**
+
+[TODO]
+
+**2 Samuel 16:5**
+
+[TODO]
+
+**2 Samuel 16:6**
+
+[TODO]
+
+**2 Samuel 16:7**
+
+[TODO]
+
+**2 Samuel 16:8**
+
+[TODO]
+
+**2 Samuel 16:9**
+
+[TODO]
+
+**2 Samuel 16:10**
+
+[TODO]
+
+**2 Samuel 16:11**
+
+[TODO]
+
+**2 Samuel 16:12**
+
+[TODO]
+
+**2 Samuel 16:13**
+
+[TODO]
+
+**2 Samuel 16:14**
+
+[TODO]
+
+**2 Samuel 16:15**
+
+[TODO]
+
+**2 Samuel 16:16**
+
+[TODO]
+
+**2 Samuel 16:17**
+
+[TODO]
+
+**2 Samuel 16:18**
+
+[TODO]
+
+**2 Samuel 16:19**
+
+[TODO]
+
+**2 Samuel 16:20**
+
+[TODO]
+
+**2 Samuel 16:21**
+
+[TODO]
+
+**2 Samuel 16:22**
+
+[TODO]
+
+**2 Samuel 16:23**
+
+[TODO]
+
+### Chapter 17
+
+**2 Samuel 17:1**
+
+[TODO]
+
+**2 Samuel 17:2**
+
+[TODO]
+
+**2 Samuel 17:3**
+
+[TODO]
+
+**2 Samuel 17:4**
+
+[TODO]
+
+**2 Samuel 17:5**
+
+[TODO]
+
+**2 Samuel 17:6**
+
+[TODO]
+
+**2 Samuel 17:7**
+
+[TODO]
+
+**2 Samuel 17:8**
+
+[TODO]
+
+**2 Samuel 17:9**
+
+[TODO]
+
+**2 Samuel 17:10**
+
+[TODO]
+
+**2 Samuel 17:11**
+
+[TODO]
+
+**2 Samuel 17:12**
+
+[TODO]
+
+**2 Samuel 17:13**
+
+[TODO]
+
+**2 Samuel 17:14**
+
+[TODO]
+
+**2 Samuel 17:15**
+
+[TODO]
+
+**2 Samuel 17:16**
+
+[TODO]
+
+**2 Samuel 17:17**
+
+[TODO]
+
+**2 Samuel 17:18**
+
+[TODO]
+
+**2 Samuel 17:19**
+
+[TODO]
+
+**2 Samuel 17:20**
+
+[TODO]
+
+**2 Samuel 17:21**
+
+[TODO]
+
+**2 Samuel 17:22**
+
+[TODO]
+
+**2 Samuel 17:23**
+
+[TODO]
+
+**2 Samuel 17:24**
+
+[TODO]
+
+**2 Samuel 17:25**
+
+[TODO]
+
+**2 Samuel 17:26**
+
+[TODO]
+
+**2 Samuel 17:27**
+
+[TODO]
+
+**2 Samuel 17:28**
+
+[TODO]
+
+**2 Samuel 17:29**
+
+[TODO]
+
+### Chapter 18
+
+**2 Samuel 18:1**
+
+[TODO]
+
+**2 Samuel 18:2**
+
+[TODO]
+
+**2 Samuel 18:3**
+
+[TODO]
+
+**2 Samuel 18:4**
+
+[TODO]
+
+**2 Samuel 18:5**
+
+[TODO]
+
+**2 Samuel 18:6**
+
+[TODO]
+
+**2 Samuel 18:7**
+
+[TODO]
+
+**2 Samuel 18:8**
+
+[TODO]
+
+**2 Samuel 18:9**
+
+[TODO]
+
+**2 Samuel 18:10**
+
+[TODO]
+
+**2 Samuel 18:11**
+
+[TODO]
+
+**2 Samuel 18:12**
+
+[TODO]
+
+**2 Samuel 18:13**
+
+[TODO]
+
+**2 Samuel 18:14**
+
+[TODO]
+
+**2 Samuel 18:15**
+
+[TODO]
+
+**2 Samuel 18:16**
+
+[TODO]
+
+**2 Samuel 18:17**
+
+[TODO]
+
+**2 Samuel 18:18**
+
+[TODO]
+
+**2 Samuel 18:19**
+
+[TODO]
+
+**2 Samuel 18:20**
+
+[TODO]
+
+**2 Samuel 18:21**
+
+[TODO]
+
+**2 Samuel 18:22**
+
+[TODO]
+
+**2 Samuel 18:23**
+
+[TODO]
+
+**2 Samuel 18:24**
+
+[TODO]
+
+**2 Samuel 18:25**
+
+[TODO]
+
+**2 Samuel 18:26**
+
+[TODO]
+
+**2 Samuel 18:27**
+
+[TODO]
+
+**2 Samuel 18:28**
+
+[TODO]
+
+**2 Samuel 18:29**
+
+[TODO]
+
+**2 Samuel 18:30**
+
+[TODO]
+
+**2 Samuel 18:31**
+
+[TODO]
+
+**2 Samuel 18:32**
+
+[TODO]
+
+### Chapter 19
+
+**2 Samuel 19:1**
+
+[TODO]
+
+**2 Samuel 19:2**
+
+[TODO]
+
+**2 Samuel 19:3**
+
+[TODO]
+
+**2 Samuel 19:4**
+
+[TODO]
+
+**2 Samuel 19:5**
+
+[TODO]
+
+**2 Samuel 19:6**
+
+[TODO]
+
+**2 Samuel 19:7**
+
+[TODO]
+
+**2 Samuel 19:8**
+
+[TODO]
+
+**2 Samuel 19:9**
+
+[TODO]
+
+**2 Samuel 19:10**
+
+[TODO]
+
+**2 Samuel 19:11**
+
+[TODO]
+
+**2 Samuel 19:12**
+
+[TODO]
+
+**2 Samuel 19:13**
+
+[TODO]
+
+**2 Samuel 19:14**
+
+[TODO]
+
+**2 Samuel 19:15**
+
+[TODO]
+
+**2 Samuel 19:16**
+
+[TODO]
+
+**2 Samuel 19:17**
+
+[TODO]
+
+**2 Samuel 19:18**
+
+[TODO]
+
+**2 Samuel 19:19**
+
+[TODO]
+
+**2 Samuel 19:20**
+
+[TODO]
+
+**2 Samuel 19:21**
+
+[TODO]
+
+**2 Samuel 19:22**
+
+[TODO]
+
+**2 Samuel 19:23**
+
+[TODO]
+
+**2 Samuel 19:24**
+
+[TODO]
+
+**2 Samuel 19:25**
+
+[TODO]
+
+**2 Samuel 19:26**
+
+[TODO]
+
+**2 Samuel 19:27**
+
+[TODO]
+
+**2 Samuel 19:28**
+
+[TODO]
+
+**2 Samuel 19:29**
+
+[TODO]
+
+**2 Samuel 19:30**
+
+[TODO]
+
+**2 Samuel 19:31**
+
+[TODO]
+
+**2 Samuel 19:32**
+
+[TODO]
+
+**2 Samuel 19:33**
+
+[TODO]
+
+**2 Samuel 19:34**
+
+[TODO]
+
+**2 Samuel 19:35**
+
+[TODO]
+
+**2 Samuel 19:36**
+
+[TODO]
+
+**2 Samuel 19:37**
+
+[TODO]
+
+**2 Samuel 19:38**
+
+[TODO]
+
+**2 Samuel 19:39**
+
+[TODO]
+
+**2 Samuel 19:40**
+
+[TODO]
+
+**2 Samuel 19:41**
+
+[TODO]
+
+**2 Samuel 19:42**
+
+[TODO]
+
+**2 Samuel 19:43**
+
+[TODO]
+
+**2 Samuel 19:44**
+
+[TODO]
+
+### Chapter 20
+
+**2 Samuel 20:1**
+
+[TODO]
+
+**2 Samuel 20:2**
+
+[TODO]
+
+**2 Samuel 20:3**
+
+[TODO]
+
+**2 Samuel 20:4**
+
+[TODO]
+
+**2 Samuel 20:5**
+
+[TODO]
+
+**2 Samuel 20:6**
+
+[TODO]
+
+**2 Samuel 20:7**
+
+[TODO]
+
+**2 Samuel 20:8**
+
+[TODO]
+
+**2 Samuel 20:9**
+
+[TODO]
+
+**2 Samuel 20:10**
+
+[TODO]
+
+**2 Samuel 20:11**
+
+[TODO]
+
+**2 Samuel 20:12**
+
+[TODO]
+
+**2 Samuel 20:13**
+
+[TODO]
+
+**2 Samuel 20:14**
+
+[TODO]
+
+**2 Samuel 20:15**
+
+[TODO]
+
+**2 Samuel 20:16**
+
+[TODO]
+
+**2 Samuel 20:17**
+
+[TODO]
+
+**2 Samuel 20:18**
+
+[TODO]
+
+**2 Samuel 20:19**
+
+[TODO]
+
+**2 Samuel 20:20**
+
+[TODO]
+
+**2 Samuel 20:21**
+
+[TODO]
+
+**2 Samuel 20:22**
+
+[TODO]
+
+**2 Samuel 20:23**
+
+[TODO]
+
+**2 Samuel 20:24**
+
+[TODO]
+
+**2 Samuel 20:25**
+
+[TODO]
+
+**2 Samuel 20:26**
+
+[TODO]
+
+### Chapter 21
+
+**2 Samuel 21:1**
+
+[TODO]
+
+**2 Samuel 21:2**
+
+[TODO]
+
+**2 Samuel 21:3**
+
+[TODO]
+
+**2 Samuel 21:4**
+
+[TODO]
+
+**2 Samuel 21:5**
+
+[TODO]
+
+**2 Samuel 21:6**
+
+[TODO]
+
+**2 Samuel 21:7**
+
+[TODO]
+
+**2 Samuel 21:8**
+
+[TODO]
+
+**2 Samuel 21:9**
+
+[TODO]
+
+**2 Samuel 21:10**
+
+[TODO]
+
+**2 Samuel 21:11**
+
+[TODO]
+
+**2 Samuel 21:12**
+
+[TODO]
+
+**2 Samuel 21:13**
+
+[TODO]
+
+**2 Samuel 21:14**
+
+[TODO]
+
+**2 Samuel 21:15**
+
+[TODO]
+
+**2 Samuel 21:16**
+
+[TODO]
+
+**2 Samuel 21:17**
+
+[TODO]
+
+**2 Samuel 21:18**
+
+[TODO]
+
+**2 Samuel 21:19**
+
+[TODO]
+
+**2 Samuel 21:20**
+
+[TODO]
+
+**2 Samuel 21:21**
+
+[TODO]
+
+**2 Samuel 21:22**
+
+[TODO]
+
+### Chapter 22
+
+**2 Samuel 22:1**
+
+[TODO]
+
+**2 Samuel 22:2**
+
+[TODO]
+
+**2 Samuel 22:3**
+
+[TODO]
+
+**2 Samuel 22:4**
+
+[TODO]
+
+**2 Samuel 22:5**
+
+[TODO]
+
+**2 Samuel 22:6**
+
+[TODO]
+
+**2 Samuel 22:7**
+
+[TODO]
+
+**2 Samuel 22:8**
+
+[TODO]
+
+**2 Samuel 22:9**
+
+[TODO]
+
+**2 Samuel 22:10**
+
+[TODO]
+
+**2 Samuel 22:11**
+
+[TODO]
+
+**2 Samuel 22:12**
+
+[TODO]
+
+**2 Samuel 22:13**
+
+[TODO]
+
+**2 Samuel 22:14**
+
+[TODO]
+
+**2 Samuel 22:15**
+
+[TODO]
+
+**2 Samuel 22:16**
+
+[TODO]
+
+**2 Samuel 22:17**
+
+[TODO]
+
+**2 Samuel 22:18**
+
+[TODO]
+
+**2 Samuel 22:19**
+
+[TODO]
+
+**2 Samuel 22:20**
+
+[TODO]
+
+**2 Samuel 22:21**
+
+[TODO]
+
+**2 Samuel 22:22**
+
+[TODO]
+
+**2 Samuel 22:23**
+
+[TODO]
+
+**2 Samuel 22:24**
+
+[TODO]
+
+**2 Samuel 22:25**
+
+[TODO]
+
+**2 Samuel 22:26**
+
+[TODO]
+
+**2 Samuel 22:27**
+
+[TODO]
+
+**2 Samuel 22:28**
+
+[TODO]
+
+**2 Samuel 22:29**
+
+[TODO]
+
+**2 Samuel 22:30**
+
+[TODO]
+
+**2 Samuel 22:31**
+
+[TODO]
+
+**2 Samuel 22:32**
+
+[TODO]
+
+**2 Samuel 22:33**
+
+[TODO]
+
+**2 Samuel 22:34**
+
+[TODO]
+
+**2 Samuel 22:35**
+
+[TODO]
+
+**2 Samuel 22:36**
+
+[TODO]
+
+**2 Samuel 22:37**
+
+[TODO]
+
+**2 Samuel 22:38**
+
+[TODO]
+
+**2 Samuel 22:39**
+
+[TODO]
+
+**2 Samuel 22:40**
+
+[TODO]
+
+**2 Samuel 22:41**
+
+[TODO]
+
+**2 Samuel 22:42**
+
+[TODO]
+
+**2 Samuel 22:43**
+
+[TODO]
+
+**2 Samuel 22:44**
+
+[TODO]
+
+**2 Samuel 22:45**
+
+[TODO]
+
+**2 Samuel 22:46**
+
+[TODO]
+
+**2 Samuel 22:47**
+
+[TODO]
+
+**2 Samuel 22:48**
+
+[TODO]
+
+**2 Samuel 22:49**
+
+[TODO]
+
+**2 Samuel 22:50**
+
+[TODO]
+
+**2 Samuel 22:51**
+
+[TODO]
+
+### Chapter 23
+
+**2 Samuel 23:1**
+
+[TODO]
+
+**2 Samuel 23:2**
+
+[TODO]
+
+**2 Samuel 23:3**
+
+[TODO]
+
+**2 Samuel 23:4**
+
+[TODO]
+
+**2 Samuel 23:5**
+
+[TODO]
+
+**2 Samuel 23:6**
+
+[TODO]
+
+**2 Samuel 23:7**
+
+[TODO]
+
+**2 Samuel 23:8**
+
+[TODO]
+
+**2 Samuel 23:9**
+
+[TODO]
+
+**2 Samuel 23:10**
+
+[TODO]
+
+**2 Samuel 23:11**
+
+[TODO]
+
+**2 Samuel 23:12**
+
+[TODO]
+
+**2 Samuel 23:13**
+
+[TODO]
+
+**2 Samuel 23:14**
+
+[TODO]
+
+**2 Samuel 23:15**
+
+[TODO]
+
+**2 Samuel 23:16**
+
+[TODO]
+
+**2 Samuel 23:17**
+
+[TODO]
+
+**2 Samuel 23:18**
+
+[TODO]
+
+**2 Samuel 23:19**
+
+[TODO]
+
+**2 Samuel 23:20**
+
+[TODO]
+
+**2 Samuel 23:21**
+
+[TODO]
+
+**2 Samuel 23:22**
+
+[TODO]
+
+**2 Samuel 23:23**
+
+[TODO]
+
+**2 Samuel 23:24**
+
+[TODO]
+
+**2 Samuel 23:25**
+
+[TODO]
+
+**2 Samuel 23:26**
+
+[TODO]
+
+**2 Samuel 23:27**
+
+[TODO]
+
+**2 Samuel 23:28**
+
+[TODO]
+
+**2 Samuel 23:29**
+
+[TODO]
+
+**2 Samuel 23:30**
+
+[TODO]
+
+**2 Samuel 23:31**
+
+[TODO]
+
+**2 Samuel 23:32**
+
+[TODO]
+
+**2 Samuel 23:33**
+
+[TODO]
+
+**2 Samuel 23:34**
+
+[TODO]
+
+**2 Samuel 23:35**
+
+[TODO]
+
+**2 Samuel 23:36**
+
+[TODO]
+
+**2 Samuel 23:37**
+
+[TODO]
+
+**2 Samuel 23:38**
+
+[TODO]
+
+**2 Samuel 23:39**
+
+[TODO]
+
+### Chapter 24
+
+**2 Samuel 24:1**
+
+[TODO]
+
+**2 Samuel 24:2**
+
+[TODO]
+
+**2 Samuel 24:3**
+
+[TODO]
+
+**2 Samuel 24:4**
+
+[TODO]
+
+**2 Samuel 24:5**
+
+[TODO]
+
+**2 Samuel 24:6**
+
+[TODO]
+
+**2 Samuel 24:7**
+
+[TODO]
+
+**2 Samuel 24:8**
+
+[TODO]
+
+**2 Samuel 24:9**
+
+[TODO]
+
+**2 Samuel 24:10**
+
+[TODO]
+
+**2 Samuel 24:11**
+
+[TODO]
+
+**2 Samuel 24:12**
+
+[TODO]
+
+**2 Samuel 24:13**
+
+[TODO]
+
+**2 Samuel 24:14**
+
+[TODO]
+
+**2 Samuel 24:15**
+
+[TODO]
+
+**2 Samuel 24:16**
+
+[TODO]
+
+**2 Samuel 24:17**
+
+[TODO]
+
+**2 Samuel 24:18**
+
+[TODO]
+
+**2 Samuel 24:19**
+
+[TODO]
+
+**2 Samuel 24:20**
+
+[TODO]
+
+**2 Samuel 24:21**
+
+[TODO]
+
+**2 Samuel 24:22**
+
+[TODO]
+
+**2 Samuel 24:23**
+
+[TODO]
+
+**2 Samuel 24:24**
+
+[TODO]
+
+**2 Samuel 24:25**
+
+[TODO]
+
+## 1 Kings
+
+### Chapter 1
+
+**1 Kings 1:1**
+
+[TODO]
+
+**1 Kings 1:2**
+
+[TODO]
+
+**1 Kings 1:3**
+
+[TODO]
+
+**1 Kings 1:4**
+
+[TODO]
+
+**1 Kings 1:5**
+
+[TODO]
+
+**1 Kings 1:6**
+
+[TODO]
+
+**1 Kings 1:7**
+
+[TODO]
+
+**1 Kings 1:8**
+
+[TODO]
+
+**1 Kings 1:9**
+
+[TODO]
+
+**1 Kings 1:10**
+
+[TODO]
+
+**1 Kings 1:11**
+
+[TODO]
+
+**1 Kings 1:12**
+
+[TODO]
+
+**1 Kings 1:13**
+
+[TODO]
+
+**1 Kings 1:14**
+
+[TODO]
+
+**1 Kings 1:15**
+
+[TODO]
+
+**1 Kings 1:16**
+
+[TODO]
+
+**1 Kings 1:17**
+
+[TODO]
+
+**1 Kings 1:18**
+
+[TODO]
+
+**1 Kings 1:19**
+
+[TODO]
+
+**1 Kings 1:20**
+
+[TODO]
+
+**1 Kings 1:21**
+
+[TODO]
+
+**1 Kings 1:22**
+
+[TODO]
+
+**1 Kings 1:23**
+
+[TODO]
+
+**1 Kings 1:24**
+
+[TODO]
+
+**1 Kings 1:25**
+
+[TODO]
+
+**1 Kings 1:26**
+
+[TODO]
+
+**1 Kings 1:27**
+
+[TODO]
+
+**1 Kings 1:28**
+
+[TODO]
+
+**1 Kings 1:29**
+
+[TODO]
+
+**1 Kings 1:30**
+
+[TODO]
+
+**1 Kings 1:31**
+
+[TODO]
+
+**1 Kings 1:32**
+
+[TODO]
+
+**1 Kings 1:33**
+
+[TODO]
+
+**1 Kings 1:34**
+
+[TODO]
+
+**1 Kings 1:35**
+
+[TODO]
+
+**1 Kings 1:36**
+
+[TODO]
+
+**1 Kings 1:37**
+
+[TODO]
+
+**1 Kings 1:38**
+
+[TODO]
+
+**1 Kings 1:39**
+
+[TODO]
+
+**1 Kings 1:40**
+
+[TODO]
+
+**1 Kings 1:41**
+
+[TODO]
+
+**1 Kings 1:42**
+
+[TODO]
+
+**1 Kings 1:43**
+
+[TODO]
+
+**1 Kings 1:44**
+
+[TODO]
+
+**1 Kings 1:45**
+
+[TODO]
+
+**1 Kings 1:46**
+
+[TODO]
+
+**1 Kings 1:47**
+
+[TODO]
+
+**1 Kings 1:48**
+
+[TODO]
+
+**1 Kings 1:49**
+
+[TODO]
+
+**1 Kings 1:50**
+
+[TODO]
+
+**1 Kings 1:51**
+
+[TODO]
+
+**1 Kings 1:52**
+
+[TODO]
+
+**1 Kings 1:53**
+
+[TODO]
+
+### Chapter 2
+
+**1 Kings 2:1**
+
+[TODO]
+
+**1 Kings 2:2**
+
+[TODO]
+
+**1 Kings 2:3**
+
+[TODO]
+
+**1 Kings 2:4**
+
+[TODO]
+
+**1 Kings 2:5**
+
+[TODO]
+
+**1 Kings 2:6**
+
+[TODO]
+
+**1 Kings 2:7**
+
+[TODO]
+
+**1 Kings 2:8**
+
+[TODO]
+
+**1 Kings 2:9**
+
+[TODO]
+
+**1 Kings 2:10**
+
+[TODO]
+
+**1 Kings 2:11**
+
+[TODO]
+
+**1 Kings 2:12**
+
+[TODO]
+
+**1 Kings 2:13**
+
+[TODO]
+
+**1 Kings 2:14**
+
+[TODO]
+
+**1 Kings 2:15**
+
+[TODO]
+
+**1 Kings 2:16**
+
+[TODO]
+
+**1 Kings 2:17**
+
+[TODO]
+
+**1 Kings 2:18**
+
+[TODO]
+
+**1 Kings 2:19**
+
+[TODO]
+
+**1 Kings 2:20**
+
+[TODO]
+
+**1 Kings 2:21**
+
+[TODO]
+
+**1 Kings 2:22**
+
+[TODO]
+
+**1 Kings 2:23**
+
+[TODO]
+
+**1 Kings 2:24**
+
+[TODO]
+
+**1 Kings 2:25**
+
+[TODO]
+
+**1 Kings 2:26**
+
+[TODO]
+
+**1 Kings 2:27**
+
+[TODO]
+
+**1 Kings 2:28**
+
+[TODO]
+
+**1 Kings 2:29**
+
+[TODO]
+
+**1 Kings 2:30**
+
+[TODO]
+
+**1 Kings 2:31**
+
+[TODO]
+
+**1 Kings 2:32**
+
+[TODO]
+
+**1 Kings 2:33**
+
+[TODO]
+
+**1 Kings 2:34**
+
+[TODO]
+
+**1 Kings 2:35**
+
+[TODO]
+
+**1 Kings 2:36**
+
+[TODO]
+
+**1 Kings 2:37**
+
+[TODO]
+
+**1 Kings 2:38**
+
+[TODO]
+
+**1 Kings 2:39**
+
+[TODO]
+
+**1 Kings 2:40**
+
+[TODO]
+
+**1 Kings 2:41**
+
+[TODO]
+
+**1 Kings 2:42**
+
+[TODO]
+
+**1 Kings 2:43**
+
+[TODO]
+
+**1 Kings 2:44**
+
+[TODO]
+
+**1 Kings 2:45**
+
+[TODO]
+
+**1 Kings 2:46**
+
+[TODO]
+
+### Chapter 3
+
+**1 Kings 3:2**
+
+[TODO]
+
+**1 Kings 3:3**
+
+[TODO]
+
+**1 Kings 3:4**
+
+[TODO]
+
+**1 Kings 3:5**
+
+[TODO]
+
+**1 Kings 3:6**
+
+[TODO]
+
+**1 Kings 3:7**
+
+[TODO]
+
+**1 Kings 3:8**
+
+[TODO]
+
+**1 Kings 3:9**
+
+[TODO]
+
+**1 Kings 3:10**
+
+[TODO]
+
+**1 Kings 3:11**
+
+[TODO]
+
+**1 Kings 3:12**
+
+[TODO]
+
+**1 Kings 3:13**
+
+[TODO]
+
+**1 Kings 3:14**
+
+[TODO]
+
+**1 Kings 3:15**
+
+[TODO]
+
+**1 Kings 3:16**
+
+[TODO]
+
+**1 Kings 3:17**
+
+[TODO]
+
+**1 Kings 3:18**
+
+[TODO]
+
+**1 Kings 3:19**
+
+[TODO]
+
+**1 Kings 3:20**
+
+[TODO]
+
+**1 Kings 3:21**
+
+[TODO]
+
+**1 Kings 3:22**
+
+[TODO]
+
+**1 Kings 3:23**
+
+[TODO]
+
+**1 Kings 3:24**
+
+[TODO]
+
+**1 Kings 3:25**
+
+[TODO]
+
+**1 Kings 3:26**
+
+[TODO]
+
+**1 Kings 3:27**
+
+[TODO]
+
+**1 Kings 3:28**
+
+[TODO]
+
+### Chapter 4
+
+**1 Kings 4:1**
+
+[TODO]
+
+**1 Kings 4:2**
+
+[TODO]
+
+**1 Kings 4:3**
+
+[TODO]
+
+**1 Kings 4:4**
+
+[TODO]
+
+**1 Kings 4:5**
+
+[TODO]
+
+**1 Kings 4:6**
+
+[TODO]
+
+**1 Kings 4:7**
+
+[TODO]
+
+**1 Kings 4:8**
+
+[TODO]
+
+**1 Kings 4:9**
+
+[TODO]
+
+**1 Kings 4:10**
+
+[TODO]
+
+**1 Kings 4:11**
+
+[TODO]
+
+**1 Kings 4:12**
+
+[TODO]
+
+**1 Kings 4:13**
+
+[TODO]
+
+**1 Kings 4:14**
+
+[TODO]
+
+**1 Kings 4:15**
+
+[TODO]
+
+**1 Kings 4:16**
+
+[TODO]
+
+**1 Kings 4:17**
+
+[TODO]
+
+**1 Kings 4:18**
+
+[TODO]
+
+**1 Kings 4:19**
+
+[TODO]
+
+### Chapter 5
+
+**1 Kings 5:1**
+
+[TODO]
+
+**1 Kings 5:2**
+
+[TODO]
+
+**1 Kings 5:3**
+
+[TODO]
+
+**1 Kings 5:4**
+
+[TODO]
+
+**1 Kings 5:9**
+
+[TODO]
+
+**1 Kings 5:10**
+
+[TODO]
+
+**1 Kings 5:11**
+
+[TODO]
+
+**1 Kings 5:12**
+
+[TODO]
+
+**1 Kings 5:13**
+
+[TODO]
+
+**1 Kings 5:14**
+
+[TODO]
+
+**1 Kings 5:15**
+
+[TODO]
+
+**1 Kings 5:16**
+
+[TODO]
+
+**1 Kings 5:17**
+
+[TODO]
+
+**1 Kings 5:18**
+
+[TODO]
+
+**1 Kings 5:19**
+
+[TODO]
+
+**1 Kings 5:20**
+
+[TODO]
+
+**1 Kings 5:21**
+
+[TODO]
+
+**1 Kings 5:22**
+
+[TODO]
+
+**1 Kings 5:23**
+
+[TODO]
+
+**1 Kings 5:24**
+
+[TODO]
+
+**1 Kings 5:25**
+
+[TODO]
+
+**1 Kings 5:26**
+
+[TODO]
+
+**1 Kings 5:27**
+
+[TODO]
+
+**1 Kings 5:28**
+
+[TODO]
+
+**1 Kings 5:29**
+
+[TODO]
+
+**1 Kings 5:30**
+
+[TODO]
+
+**1 Kings 5:32**
+
+[TODO]
+
+### Chapter 6
+
+**1 Kings 6:1**
+
+[TODO]
+
+**1 Kings 6:2**
+
+[TODO]
+
+**1 Kings 6:3**
+
+[TODO]
+
+**1 Kings 6:4**
+
+[TODO]
+
+**1 Kings 6:5**
+
+[TODO]
+
+**1 Kings 6:6**
+
+[TODO]
+
+**1 Kings 6:7**
+
+[TODO]
+
+**1 Kings 6:8**
+
+[TODO]
+
+**1 Kings 6:9**
+
+[TODO]
+
+**1 Kings 6:10**
+
+[TODO]
+
+**1 Kings 6:15**
+
+[TODO]
+
+**1 Kings 6:16**
+
+[TODO]
+
+**1 Kings 6:17**
+
+[TODO]
+
+**1 Kings 6:19**
+
+[TODO]
+
+**1 Kings 6:20**
+
+[TODO]
+
+**1 Kings 6:21**
+
+[TODO]
+
+**1 Kings 6:22**
+
+[TODO]
+
+**1 Kings 6:23**
+
+[TODO]
+
+**1 Kings 6:24**
+
+[TODO]
+
+**1 Kings 6:25**
+
+[TODO]
+
+**1 Kings 6:26**
+
+[TODO]
+
+**1 Kings 6:27**
+
+[TODO]
+
+**1 Kings 6:28**
+
+[TODO]
+
+**1 Kings 6:29**
+
+[TODO]
+
+**1 Kings 6:30**
+
+[TODO]
+
+**1 Kings 6:31**
+
+[TODO]
+
+**1 Kings 6:32**
+
+[TODO]
+
+**1 Kings 6:33**
+
+[TODO]
+
+**1 Kings 6:34**
+
+[TODO]
+
+**1 Kings 6:35**
+
+[TODO]
+
+**1 Kings 6:36**
+
+[TODO]
+
+### Chapter 7
+
+**1 Kings 7:1**
+
+[TODO]
+
+**1 Kings 7:2**
+
+[TODO]
+
+**1 Kings 7:3**
+
+[TODO]
+
+**1 Kings 7:4**
+
+[TODO]
+
+**1 Kings 7:5**
+
+[TODO]
+
+**1 Kings 7:6**
+
+[TODO]
+
+**1 Kings 7:7**
+
+[TODO]
+
+**1 Kings 7:8**
+
+[TODO]
+
+**1 Kings 7:9**
+
+[TODO]
+
+**1 Kings 7:10**
+
+[TODO]
+
+**1 Kings 7:11**
+
+[TODO]
+
+**1 Kings 7:12**
+
+[TODO]
+
+**1 Kings 7:13**
+
+[TODO]
+
+**1 Kings 7:14**
+
+[TODO]
+
+**1 Kings 7:15**
+
+[TODO]
+
+**1 Kings 7:16**
+
+[TODO]
+
+**1 Kings 7:17**
+
+[TODO]
+
+**1 Kings 7:18**
+
+[TODO]
+
+**1 Kings 7:19**
+
+[TODO]
+
+**1 Kings 7:20**
+
+[TODO]
+
+**1 Kings 7:21**
+
+[TODO]
+
+**1 Kings 7:22**
+
+[TODO]
+
+**1 Kings 7:23**
+
+[TODO]
+
+**1 Kings 7:24**
+
+[TODO]
+
+**1 Kings 7:25**
+
+[TODO]
+
+**1 Kings 7:26**
+
+[TODO]
+
+**1 Kings 7:27**
+
+[TODO]
+
+**1 Kings 7:28**
+
+[TODO]
+
+**1 Kings 7:29**
+
+[TODO]
+
+**1 Kings 7:30**
+
+[TODO]
+
+**1 Kings 7:31**
+
+[TODO]
+
+**1 Kings 7:32**
+
+[TODO]
+
+**1 Kings 7:33**
+
+[TODO]
+
+**1 Kings 7:34**
+
+[TODO]
+
+**1 Kings 7:35**
+
+[TODO]
+
+**1 Kings 7:36**
+
+[TODO]
+
+**1 Kings 7:37**
+
+[TODO]
+
+**1 Kings 7:38**
+
+[TODO]
+
+**1 Kings 7:39**
+
+[TODO]
+
+**1 Kings 7:40**
+
+[TODO]
+
+**1 Kings 7:41**
+
+[TODO]
+
+**1 Kings 7:42**
+
+[TODO]
+
+**1 Kings 7:43**
+
+[TODO]
+
+**1 Kings 7:44**
+
+[TODO]
+
+**1 Kings 7:45**
+
+[TODO]
+
+**1 Kings 7:46**
+
+[TODO]
+
+**1 Kings 7:47**
+
+[TODO]
+
+**1 Kings 7:48**
+
+[TODO]
+
+**1 Kings 7:49**
+
+[TODO]
+
+**1 Kings 7:50**
+
+[TODO]
+
+### Chapter 8
+
+**1 Kings 8:1**
+
+[TODO]
+
+**1 Kings 8:2**
+
+[TODO]
+
+**1 Kings 8:3**
+
+[TODO]
+
+**1 Kings 8:4**
+
+[TODO]
+
+**1 Kings 8:5**
+
+[TODO]
+
+**1 Kings 8:6**
+
+[TODO]
+
+**1 Kings 8:7**
+
+[TODO]
+
+**1 Kings 8:8**
+
+[TODO]
+
+**1 Kings 8:9**
+
+[TODO]
+
+**1 Kings 8:10**
+
+[TODO]
+
+**1 Kings 8:11**
+
+[TODO]
+
+**1 Kings 8:14**
+
+[TODO]
+
+**1 Kings 8:15**
+
+[TODO]
+
+**1 Kings 8:16**
+
+[TODO]
+
+**1 Kings 8:17**
+
+[TODO]
+
+**1 Kings 8:18**
+
+[TODO]
+
+**1 Kings 8:19**
+
+[TODO]
+
+**1 Kings 8:20**
+
+[TODO]
+
+**1 Kings 8:21**
+
+[TODO]
+
+**1 Kings 8:22**
+
+[TODO]
+
+**1 Kings 8:23**
+
+[TODO]
+
+**1 Kings 8:24**
+
+[TODO]
+
+**1 Kings 8:25**
+
+[TODO]
+
+**1 Kings 8:26**
+
+[TODO]
+
+**1 Kings 8:27**
+
+[TODO]
+
+**1 Kings 8:28**
+
+[TODO]
+
+**1 Kings 8:29**
+
+[TODO]
+
+**1 Kings 8:30**
+
+[TODO]
+
+**1 Kings 8:31**
+
+[TODO]
+
+**1 Kings 8:32**
+
+[TODO]
+
+**1 Kings 8:33**
+
+[TODO]
+
+**1 Kings 8:34**
+
+[TODO]
+
+**1 Kings 8:35**
+
+[TODO]
+
+**1 Kings 8:36**
+
+[TODO]
+
+**1 Kings 8:37**
+
+[TODO]
+
+**1 Kings 8:38**
+
+[TODO]
+
+**1 Kings 8:39**
+
+[TODO]
+
+**1 Kings 8:40**
+
+[TODO]
+
+**1 Kings 8:41**
+
+[TODO]
+
+**1 Kings 8:42**
+
+[TODO]
+
+**1 Kings 8:43**
+
+[TODO]
+
+**1 Kings 8:44**
+
+[TODO]
+
+**1 Kings 8:45**
+
+[TODO]
+
+**1 Kings 8:46**
+
+[TODO]
+
+**1 Kings 8:47**
+
+[TODO]
+
+**1 Kings 8:48**
+
+[TODO]
+
+**1 Kings 8:49**
+
+[TODO]
+
+**1 Kings 8:50**
+
+[TODO]
+
+**1 Kings 8:51**
+
+[TODO]
+
+**1 Kings 8:52**
+
+[TODO]
+
+**1 Kings 8:53**
+
+[TODO]
+
+**1 Kings 8:54**
+
+[TODO]
+
+**1 Kings 8:55**
+
+[TODO]
+
+**1 Kings 8:56**
+
+[TODO]
+
+**1 Kings 8:57**
+
+[TODO]
+
+**1 Kings 8:58**
+
+[TODO]
+
+**1 Kings 8:59**
+
+[TODO]
+
+**1 Kings 8:60**
+
+[TODO]
+
+**1 Kings 8:61**
+
+[TODO]
+
+**1 Kings 8:62**
+
+[TODO]
+
+**1 Kings 8:63**
+
+[TODO]
+
+**1 Kings 8:64**
+
+[TODO]
+
+**1 Kings 8:65**
+
+[TODO]
+
+**1 Kings 8:66**
+
+[TODO]
+
+### Chapter 9
+
+**1 Kings 9:1**
+
+[TODO]
+
+**1 Kings 9:2**
+
+[TODO]
+
+**1 Kings 9:3**
+
+[TODO]
+
+**1 Kings 9:4**
+
+[TODO]
+
+**1 Kings 9:5**
+
+[TODO]
+
+**1 Kings 9:6**
+
+[TODO]
+
+**1 Kings 9:7**
+
+[TODO]
+
+**1 Kings 9:8**
+
+[TODO]
+
+**1 Kings 9:9**
+
+[TODO]
+
+**1 Kings 9:10**
+
+[TODO]
+
+**1 Kings 9:11**
+
+[TODO]
+
+**1 Kings 9:12**
+
+[TODO]
+
+**1 Kings 9:13**
+
+[TODO]
+
+**1 Kings 9:14**
+
+[TODO]
+
+**1 Kings 9:26**
+
+[TODO]
+
+**1 Kings 9:27**
+
+[TODO]
+
+**1 Kings 9:28**
+
+[TODO]
+
+### Chapter 10
+
+**1 Kings 10:1**
+
+[TODO]
+
+**1 Kings 10:2**
+
+[TODO]
+
+**1 Kings 10:3**
+
+[TODO]
+
+**1 Kings 10:4**
+
+[TODO]
+
+**1 Kings 10:5**
+
+[TODO]
+
+**1 Kings 10:6**
+
+[TODO]
+
+**1 Kings 10:7**
+
+[TODO]
+
+**1 Kings 10:8**
+
+[TODO]
+
+**1 Kings 10:9**
+
+[TODO]
+
+**1 Kings 10:10**
+
+[TODO]
+
+**1 Kings 10:11**
+
+[TODO]
+
+**1 Kings 10:12**
+
+[TODO]
+
+**1 Kings 10:13**
+
+[TODO]
+
+**1 Kings 10:14**
+
+[TODO]
+
+**1 Kings 10:15**
+
+[TODO]
+
+**1 Kings 10:16**
+
+[TODO]
+
+**1 Kings 10:17**
+
+[TODO]
+
+**1 Kings 10:18**
+
+[TODO]
+
+**1 Kings 10:19**
+
+[TODO]
+
+**1 Kings 10:20**
+
+[TODO]
+
+**1 Kings 10:21**
+
+[TODO]
+
+**1 Kings 10:22**
+
+[TODO]
+
+**1 Kings 10:23**
+
+[TODO]
+
+**1 Kings 10:24**
+
+[TODO]
+
+**1 Kings 10:25**
+
+[TODO]
+
+**1 Kings 10:26**
+
+[TODO]
+
+**1 Kings 10:27**
+
+[TODO]
+
+**1 Kings 10:28**
+
+[TODO]
+
+**1 Kings 10:29**
+
+[TODO]
+
+### Chapter 11
+
+**1 Kings 11:1**
+
+[TODO]
+
+**1 Kings 11:2**
+
+[TODO]
+
+**1 Kings 11:4**
+
+[TODO]
+
+**1 Kings 11:5**
+
+[TODO]
+
+**1 Kings 11:6**
+
+[TODO]
+
+**1 Kings 11:7**
+
+[TODO]
+
+**1 Kings 11:8**
+
+[TODO]
+
+**1 Kings 11:9**
+
+[TODO]
+
+**1 Kings 11:10**
+
+[TODO]
+
+**1 Kings 11:11**
+
+[TODO]
+
+**1 Kings 11:12**
+
+[TODO]
+
+**1 Kings 11:13**
+
+[TODO]
+
+**1 Kings 11:14**
+
+[TODO]
+
+**1 Kings 11:15**
+
+[TODO]
+
+**1 Kings 11:16**
+
+[TODO]
+
+**1 Kings 11:17**
+
+[TODO]
+
+**1 Kings 11:18**
+
+[TODO]
+
+**1 Kings 11:19**
+
+[TODO]
+
+**1 Kings 11:20**
+
+[TODO]
+
+**1 Kings 11:21**
+
+[TODO]
+
+**1 Kings 11:22**
+
+[TODO]
+
+**1 Kings 11:25**
+
+[TODO]
+
+**1 Kings 11:26**
+
+[TODO]
+
+**1 Kings 11:27**
+
+[TODO]
+
+**1 Kings 11:28**
+
+[TODO]
+
+**1 Kings 11:29**
+
+[TODO]
+
+**1 Kings 11:30**
+
+[TODO]
+
+**1 Kings 11:31**
+
+[TODO]
+
+**1 Kings 11:32**
+
+[TODO]
+
+**1 Kings 11:33**
+
+[TODO]
+
+**1 Kings 11:34**
+
+[TODO]
+
+**1 Kings 11:35**
+
+[TODO]
+
+**1 Kings 11:36**
+
+[TODO]
+
+**1 Kings 11:37**
+
+[TODO]
+
+**1 Kings 11:38**
+
+[TODO]
+
+**1 Kings 11:40**
+
+[TODO]
+
+**1 Kings 11:41**
+
+[TODO]
+
+**1 Kings 11:42**
+
+[TODO]
+
+**1 Kings 11:43**
+
+[TODO]
+
+### Chapter 12
+
+**1 Kings 12:1**
+
+[TODO]
+
+**1 Kings 12:3**
+
+[TODO]
+
+**1 Kings 12:4**
+
+[TODO]
+
+**1 Kings 12:5**
+
+[TODO]
+
+**1 Kings 12:6**
+
+[TODO]
+
+**1 Kings 12:7**
+
+[TODO]
+
+**1 Kings 12:8**
+
+[TODO]
+
+**1 Kings 12:9**
+
+[TODO]
+
+**1 Kings 12:10**
+
+[TODO]
+
+**1 Kings 12:11**
+
+[TODO]
+
+**1 Kings 12:12**
+
+[TODO]
+
+**1 Kings 12:13**
+
+[TODO]
+
+**1 Kings 12:14**
+
+[TODO]
+
+**1 Kings 12:15**
+
+[TODO]
+
+**1 Kings 12:16**
+
+[TODO]
+
+**1 Kings 12:18**
+
+[TODO]
+
+**1 Kings 12:19**
+
+[TODO]
+
+**1 Kings 12:20**
+
+[TODO]
+
+**1 Kings 12:21**
+
+[TODO]
+
+**1 Kings 12:22**
+
+[TODO]
+
+**1 Kings 12:23**
+
+[TODO]
+
+**1 Kings 12:24**
+
+[TODO]
+
+**1 Kings 12:25**
+
+[TODO]
+
+**1 Kings 12:26**
+
+[TODO]
+
+**1 Kings 12:27**
+
+[TODO]
+
+**1 Kings 12:28**
+
+[TODO]
+
+**1 Kings 12:29**
+
+[TODO]
+
+**1 Kings 12:30**
+
+[TODO]
+
+**1 Kings 12:31**
+
+[TODO]
+
+**1 Kings 12:32**
+
+[TODO]
+
+**1 Kings 12:33**
+
+[TODO]
+
+### Chapter 13
+
+**1 Kings 13:1**
+
+[TODO]
+
+**1 Kings 13:2**
+
+[TODO]
+
+**1 Kings 13:3**
+
+[TODO]
+
+**1 Kings 13:4**
+
+[TODO]
+
+**1 Kings 13:5**
+
+[TODO]
+
+**1 Kings 13:6**
+
+[TODO]
+
+**1 Kings 13:7**
+
+[TODO]
+
+**1 Kings 13:8**
+
+[TODO]
+
+**1 Kings 13:9**
+
+[TODO]
+
+**1 Kings 13:10**
+
+[TODO]
+
+**1 Kings 13:11**
+
+[TODO]
+
+**1 Kings 13:12**
+
+[TODO]
+
+**1 Kings 13:13**
+
+[TODO]
+
+**1 Kings 13:14**
+
+[TODO]
+
+**1 Kings 13:15**
+
+[TODO]
+
+**1 Kings 13:16**
+
+[TODO]
+
+**1 Kings 13:17**
+
+[TODO]
+
+**1 Kings 13:18**
+
+[TODO]
+
+**1 Kings 13:19**
+
+[TODO]
+
+**1 Kings 13:20**
+
+[TODO]
+
+**1 Kings 13:21**
+
+[TODO]
+
+**1 Kings 13:22**
+
+[TODO]
+
+**1 Kings 13:23**
+
+[TODO]
+
+**1 Kings 13:24**
+
+[TODO]
+
+**1 Kings 13:25**
+
+[TODO]
+
+**1 Kings 13:26**
+
+[TODO]
+
+**1 Kings 13:28**
+
+[TODO]
+
+**1 Kings 13:29**
+
+[TODO]
+
+**1 Kings 13:30**
+
+[TODO]
+
+**1 Kings 13:31**
+
+[TODO]
+
+**1 Kings 13:32**
+
+[TODO]
+
+**1 Kings 13:33**
+
+[TODO]
+
+**1 Kings 13:34**
+
+[TODO]
+
+### Chapter 14
+
+**1 Kings 14:21**
+
+[TODO]
+
+**1 Kings 14:22**
+
+[TODO]
+
+**1 Kings 14:23**
+
+[TODO]
+
+**1 Kings 14:24**
+
+[TODO]
+
+**1 Kings 14:25**
+
+[TODO]
+
+**1 Kings 14:26**
+
+[TODO]
+
+**1 Kings 14:27**
+
+[TODO]
+
+**1 Kings 14:28**
+
+[TODO]
+
+**1 Kings 14:29**
+
+[TODO]
+
+**1 Kings 14:30**
+
+[TODO]
+
+**1 Kings 14:31**
+
+[TODO]
+
+### Chapter 15
+
+**1 Kings 15:1**
+
+[TODO]
+
+**1 Kings 15:2**
+
+[TODO]
+
+**1 Kings 15:3**
+
+[TODO]
+
+**1 Kings 15:4**
+
+[TODO]
+
+**1 Kings 15:5**
+
+[TODO]
+
+**1 Kings 15:7**
+
+[TODO]
+
+**1 Kings 15:8**
+
+[TODO]
+
+**1 Kings 15:9**
+
+[TODO]
+
+**1 Kings 15:10**
+
+[TODO]
+
+**1 Kings 15:11**
+
+[TODO]
+
+**1 Kings 15:12**
+
+[TODO]
+
+**1 Kings 15:13**
+
+[TODO]
+
+**1 Kings 15:14**
+
+[TODO]
+
+**1 Kings 15:15**
+
+[TODO]
+
+**1 Kings 15:16**
+
+[TODO]
+
+**1 Kings 15:17**
+
+[TODO]
+
+**1 Kings 15:18**
+
+[TODO]
+
+**1 Kings 15:19**
+
+[TODO]
+
+**1 Kings 15:20**
+
+[TODO]
+
+**1 Kings 15:21**
+
+[TODO]
+
+**1 Kings 15:22**
+
+[TODO]
+
+**1 Kings 15:23**
+
+[TODO]
+
+**1 Kings 15:24**
+
+[TODO]
+
+**1 Kings 15:25**
+
+[TODO]
+
+**1 Kings 15:26**
+
+[TODO]
+
+**1 Kings 15:27**
+
+[TODO]
+
+**1 Kings 15:28**
+
+[TODO]
+
+**1 Kings 15:29**
+
+[TODO]
+
+**1 Kings 15:30**
+
+[TODO]
+
+**1 Kings 15:31**
+
+[TODO]
+
+**1 Kings 15:33**
+
+[TODO]
+
+**1 Kings 15:34**
+
+[TODO]
+
+### Chapter 16
+
+**1 Kings 16:1**
+
+[TODO]
+
+**1 Kings 16:2**
+
+[TODO]
+
+**1 Kings 16:3**
+
+[TODO]
+
+**1 Kings 16:4**
+
+[TODO]
+
+**1 Kings 16:5**
+
+[TODO]
+
+**1 Kings 16:6**
+
+[TODO]
+
+**1 Kings 16:7**
+
+[TODO]
+
+**1 Kings 16:8**
+
+[TODO]
+
+**1 Kings 16:9**
+
+[TODO]
+
+**1 Kings 16:10**
+
+[TODO]
+
+**1 Kings 16:11**
+
+[TODO]
+
+**1 Kings 16:12**
+
+[TODO]
+
+**1 Kings 16:13**
+
+[TODO]
+
+**1 Kings 16:14**
+
+[TODO]
+
+**1 Kings 16:15**
+
+[TODO]
+
+**1 Kings 16:16**
+
+[TODO]
+
+**1 Kings 16:17**
+
+[TODO]
+
+**1 Kings 16:18**
+
+[TODO]
+
+**1 Kings 16:19**
+
+[TODO]
+
+**1 Kings 16:20**
+
+[TODO]
+
+**1 Kings 16:21**
+
+[TODO]
+
+**1 Kings 16:22**
+
+[TODO]
+
+**1 Kings 16:23**
+
+[TODO]
+
+**1 Kings 16:24**
+
+[TODO]
+
+**1 Kings 16:25**
+
+[TODO]
+
+**1 Kings 16:26**
+
+[TODO]
+
+**1 Kings 16:27**
+
+[TODO]
+
+**1 Kings 16:28**
+
+[TODO]
+
+**1 Kings 16:29**
+
+[TODO]
+
+**1 Kings 16:30**
+
+[TODO]
+
+**1 Kings 16:31**
+
+[TODO]
+
+**1 Kings 16:32**
+
+[TODO]
+
+**1 Kings 16:33**
+
+[TODO]
+
+**1 Kings 16:34**
+
+[TODO]
+
+### Chapter 17
+
+**1 Kings 17:1**
+
+[TODO]
+
+**1 Kings 17:2**
+
+[TODO]
+
+**1 Kings 17:3**
+
+[TODO]
+
+**1 Kings 17:4**
+
+[TODO]
+
+**1 Kings 17:5**
+
+[TODO]
+
+**1 Kings 17:6**
+
+[TODO]
+
+**1 Kings 17:7**
+
+[TODO]
+
+**1 Kings 17:8**
+
+[TODO]
+
+**1 Kings 17:9**
+
+[TODO]
+
+**1 Kings 17:10**
+
+[TODO]
+
+**1 Kings 17:11**
+
+[TODO]
+
+**1 Kings 17:12**
+
+[TODO]
+
+**1 Kings 17:13**
+
+[TODO]
+
+**1 Kings 17:14**
+
+[TODO]
+
+**1 Kings 17:15**
+
+[TODO]
+
+**1 Kings 17:16**
+
+[TODO]
+
+**1 Kings 17:17**
+
+[TODO]
+
+**1 Kings 17:18**
+
+[TODO]
+
+**1 Kings 17:19**
+
+[TODO]
+
+**1 Kings 17:20**
+
+[TODO]
+
+**1 Kings 17:21**
+
+[TODO]
+
+**1 Kings 17:22**
+
+[TODO]
+
+**1 Kings 17:23**
+
+[TODO]
+
+**1 Kings 17:24**
+
+[TODO]
+
+### Chapter 18
+
+**1 Kings 18:1**
+
+[TODO]
+
+**1 Kings 18:2**
+
+[TODO]
+
+**1 Kings 18:3**
+
+[TODO]
+
+**1 Kings 18:4**
+
+[TODO]
+
+**1 Kings 18:5**
+
+[TODO]
+
+**1 Kings 18:6**
+
+[TODO]
+
+**1 Kings 18:7**
+
+[TODO]
+
+**1 Kings 18:8**
+
+[TODO]
+
+**1 Kings 18:9**
+
+[TODO]
+
+**1 Kings 18:10**
+
+[TODO]
+
+**1 Kings 18:11**
+
+[TODO]
+
+**1 Kings 18:12**
+
+[TODO]
+
+**1 Kings 18:13**
+
+[TODO]
+
+**1 Kings 18:14**
+
+[TODO]
+
+**1 Kings 18:15**
+
+[TODO]
+
+**1 Kings 18:16**
+
+[TODO]
+
+**1 Kings 18:17**
+
+[TODO]
+
+**1 Kings 18:18**
+
+[TODO]
+
+**1 Kings 18:19**
+
+[TODO]
+
+**1 Kings 18:20**
+
+[TODO]
+
+**1 Kings 18:21**
+
+[TODO]
+
+**1 Kings 18:22**
+
+[TODO]
+
+**1 Kings 18:23**
+
+[TODO]
+
+**1 Kings 18:24**
+
+[TODO]
+
+**1 Kings 18:25**
+
+[TODO]
+
+**1 Kings 18:26**
+
+[TODO]
+
+**1 Kings 18:27**
+
+[TODO]
+
+**1 Kings 18:28**
+
+[TODO]
+
+**1 Kings 18:29**
+
+[TODO]
+
+**1 Kings 18:30**
+
+[TODO]
+
+**1 Kings 18:31**
+
+[TODO]
+
+**1 Kings 18:32**
+
+[TODO]
+
+**1 Kings 18:33**
+
+[TODO]
+
+**1 Kings 18:34**
+
+[TODO]
+
+**1 Kings 18:35**
+
+[TODO]
+
+**1 Kings 18:36**
+
+[TODO]
+
+**1 Kings 18:37**
+
+[TODO]
+
+**1 Kings 18:38**
+
+[TODO]
+
+**1 Kings 18:39**
+
+[TODO]
+
+**1 Kings 18:40**
+
+[TODO]
+
+**1 Kings 18:41**
+
+[TODO]
+
+**1 Kings 18:42**
+
+[TODO]
+
+**1 Kings 18:43**
+
+[TODO]
+
+**1 Kings 18:44**
+
+[TODO]
+
+**1 Kings 18:45**
+
+[TODO]
+
+**1 Kings 18:46**
+
+[TODO]
+
+### Chapter 19
+
+**1 Kings 19:1**
+
+[TODO]
+
+**1 Kings 19:2**
+
+[TODO]
+
+**1 Kings 19:3**
+
+[TODO]
+
+**1 Kings 19:4**
+
+[TODO]
+
+**1 Kings 19:5**
+
+[TODO]
+
+**1 Kings 19:6**
+
+[TODO]
+
+**1 Kings 19:7**
+
+[TODO]
+
+**1 Kings 19:8**
+
+[TODO]
+
+**1 Kings 19:9**
+
+[TODO]
+
+**1 Kings 19:10**
+
+[TODO]
+
+**1 Kings 19:11**
+
+[TODO]
+
+**1 Kings 19:12**
+
+[TODO]
+
+**1 Kings 19:13**
+
+[TODO]
+
+**1 Kings 19:14**
+
+[TODO]
+
+**1 Kings 19:15**
+
+[TODO]
+
+**1 Kings 19:16**
+
+[TODO]
+
+**1 Kings 19:17**
+
+[TODO]
+
+**1 Kings 19:18**
+
+[TODO]
+
+**1 Kings 19:19**
+
+[TODO]
+
+**1 Kings 19:20**
+
+[TODO]
+
+**1 Kings 19:21**
+
+[TODO]
+
+### Chapter 20
+
+**1 Kings 20:1**
+
+[TODO]
+
+**1 Kings 20:2**
+
+[TODO]
+
+**1 Kings 20:3**
+
+[TODO]
+
+**1 Kings 20:4**
+
+[TODO]
+
+**1 Kings 20:5**
+
+[TODO]
+
+**1 Kings 20:6**
+
+[TODO]
+
+**1 Kings 20:7**
+
+[TODO]
+
+**1 Kings 20:8**
+
+[TODO]
+
+**1 Kings 20:9**
+
+[TODO]
+
+**1 Kings 20:10**
+
+[TODO]
+
+**1 Kings 20:11**
+
+[TODO]
+
+**1 Kings 20:12**
+
+[TODO]
+
+**1 Kings 20:13**
+
+[TODO]
+
+**1 Kings 20:14**
+
+[TODO]
+
+**1 Kings 20:15**
+
+[TODO]
+
+**1 Kings 20:16**
+
+[TODO]
+
+**1 Kings 20:17**
+
+[TODO]
+
+**1 Kings 20:18**
+
+[TODO]
+
+**1 Kings 20:19**
+
+[TODO]
+
+**1 Kings 20:20**
+
+[TODO]
+
+**1 Kings 20:21**
+
+[TODO]
+
+**1 Kings 20:22**
+
+[TODO]
+
+**1 Kings 20:23**
+
+[TODO]
+
+**1 Kings 20:24**
+
+[TODO]
+
+**1 Kings 20:25**
+
+[TODO]
+
+**1 Kings 20:26**
+
+[TODO]
+
+**1 Kings 20:27**
+
+[TODO]
+
+**1 Kings 20:28**
+
+[TODO]
+
+**1 Kings 20:29**
+
+[TODO]
+
+### Chapter 21
+
+**1 Kings 21:1**
+
+[TODO]
+
+**1 Kings 21:2**
+
+[TODO]
+
+**1 Kings 21:3**
+
+[TODO]
+
+**1 Kings 21:4**
+
+[TODO]
+
+**1 Kings 21:5**
+
+[TODO]
+
+**1 Kings 21:6**
+
+[TODO]
+
+**1 Kings 21:7**
+
+[TODO]
+
+**1 Kings 21:8**
+
+[TODO]
+
+**1 Kings 21:9**
+
+[TODO]
+
+**1 Kings 21:10**
+
+[TODO]
+
+**1 Kings 21:11**
+
+[TODO]
+
+**1 Kings 21:12**
+
+[TODO]
+
+**1 Kings 21:13**
+
+[TODO]
+
+**1 Kings 21:14**
+
+[TODO]
+
+**1 Kings 21:15**
+
+[TODO]
+
+**1 Kings 21:16**
+
+[TODO]
+
+**1 Kings 21:17**
+
+[TODO]
+
+**1 Kings 21:18**
+
+[TODO]
+
+**1 Kings 21:19**
+
+[TODO]
+
+**1 Kings 21:20**
+
+[TODO]
+
+**1 Kings 21:21**
+
+[TODO]
+
+**1 Kings 21:22**
+
+[TODO]
+
+**1 Kings 21:23**
+
+[TODO]
+
+**1 Kings 21:24**
+
+[TODO]
+
+**1 Kings 21:25**
+
+[TODO]
+
+**1 Kings 21:26**
+
+[TODO]
+
+**1 Kings 21:27**
+
+[TODO]
+
+**1 Kings 21:28**
+
+[TODO]
+
+**1 Kings 21:29**
+
+[TODO]
+
+**1 Kings 21:30**
+
+[TODO]
+
+**1 Kings 21:31**
+
+[TODO]
+
+**1 Kings 21:32**
+
+[TODO]
+
+**1 Kings 21:33**
+
+[TODO]
+
+**1 Kings 21:34**
+
+[TODO]
+
+**1 Kings 21:35**
+
+[TODO]
+
+**1 Kings 21:36**
+
+[TODO]
+
+**1 Kings 21:37**
+
+[TODO]
+
+**1 Kings 21:38**
+
+[TODO]
+
+**1 Kings 21:39**
+
+[TODO]
+
+**1 Kings 21:40**
+
+[TODO]
+
+**1 Kings 21:41**
+
+[TODO]
+
+**1 Kings 21:42**
+
+[TODO]
+
+**1 Kings 21:43**
+
+[TODO]
+
+### Chapter 22
+
+**1 Kings 22:1**
+
+[TODO]
+
+**1 Kings 22:2**
+
+[TODO]
+
+**1 Kings 22:3**
+
+[TODO]
+
+**1 Kings 22:4**
+
+[TODO]
+
+**1 Kings 22:5**
+
+[TODO]
+
+**1 Kings 22:6**
+
+[TODO]
+
+**1 Kings 22:7**
+
+[TODO]
+
+**1 Kings 22:8**
+
+[TODO]
+
+**1 Kings 22:9**
+
+[TODO]
+
+**1 Kings 22:10**
+
+[TODO]
+
+**1 Kings 22:11**
+
+[TODO]
+
+**1 Kings 22:12**
+
+[TODO]
+
+**1 Kings 22:13**
+
+[TODO]
+
+**1 Kings 22:14**
+
+[TODO]
+
+**1 Kings 22:15**
+
+[TODO]
+
+**1 Kings 22:16**
+
+[TODO]
+
+**1 Kings 22:17**
+
+[TODO]
+
+**1 Kings 22:18**
+
+[TODO]
+
+**1 Kings 22:19**
+
+[TODO]
+
+**1 Kings 22:20**
+
+[TODO]
+
+**1 Kings 22:21**
+
+[TODO]
+
+**1 Kings 22:22**
+
+[TODO]
+
+**1 Kings 22:23**
+
+[TODO]
+
+**1 Kings 22:24**
+
+[TODO]
+
+**1 Kings 22:25**
+
+[TODO]
+
+**1 Kings 22:26**
+
+[TODO]
+
+**1 Kings 22:27**
+
+[TODO]
+
+**1 Kings 22:28**
+
+[TODO]
+
+**1 Kings 22:29**
+
+[TODO]
+
+**1 Kings 22:30**
+
+[TODO]
+
+**1 Kings 22:31**
+
+[TODO]
+
+**1 Kings 22:32**
+
+[TODO]
+
+**1 Kings 22:33**
+
+[TODO]
+
+**1 Kings 22:34**
+
+[TODO]
+
+**1 Kings 22:35**
+
+[TODO]
+
+**1 Kings 22:36**
+
+[TODO]
+
+**1 Kings 22:37**
+
+[TODO]
+
+**1 Kings 22:38**
+
+[TODO]
+
+**1 Kings 22:39**
+
+[TODO]
+
+**1 Kings 22:40**
+
+[TODO]
+
+**1 Kings 22:41**
+
+[TODO]
+
+**1 Kings 22:42**
+
+[TODO]
+
+**1 Kings 22:43**
+
+[TODO]
+
+**1 Kings 22:44**
+
+[TODO]
+
+**1 Kings 22:45**
+
+[TODO]
+
+**1 Kings 22:46**
+
+[TODO]
+
+**1 Kings 22:51**
+
+[TODO]
+
+**1 Kings 22:52**
+
+[TODO]
+
+**1 Kings 22:53**
+
+[TODO]
+
+**1 Kings 22:54**
+
+[TODO]
+
+## 2 Kings
+
+### Chapter 1
+
+**2 Kings 1:1**
+
+[TODO]
+
+**2 Kings 1:2**
+
+[TODO]
+
+**2 Kings 1:3**
+
+[TODO]
+
+**2 Kings 1:4**
+
+[TODO]
+
+**2 Kings 1:5**
+
+[TODO]
+
+**2 Kings 1:6**
+
+[TODO]
+
+**2 Kings 1:7**
+
+[TODO]
+
+**2 Kings 1:8**
+
+[TODO]
+
+**2 Kings 1:9**
+
+[TODO]
+
+**2 Kings 1:10**
+
+[TODO]
+
+**2 Kings 1:11**
+
+[TODO]
+
+**2 Kings 1:12**
+
+[TODO]
+
+**2 Kings 1:13**
+
+[TODO]
+
+**2 Kings 1:14**
+
+[TODO]
+
+**2 Kings 1:15**
+
+[TODO]
+
+**2 Kings 1:16**
+
+[TODO]
+
+**2 Kings 1:17**
+
+[TODO]
+
+**2 Kings 1:18**
+
+[TODO]
+
+### Chapter 2
+
+**2 Kings 2:1**
+
+[TODO]
+
+**2 Kings 2:2**
+
+[TODO]
+
+**2 Kings 2:3**
+
+[TODO]
+
+**2 Kings 2:4**
+
+[TODO]
+
+**2 Kings 2:5**
+
+[TODO]
+
+**2 Kings 2:6**
+
+[TODO]
+
+**2 Kings 2:7**
+
+[TODO]
+
+**2 Kings 2:8**
+
+[TODO]
+
+**2 Kings 2:9**
+
+[TODO]
+
+**2 Kings 2:10**
+
+[TODO]
+
+**2 Kings 2:11**
+
+[TODO]
+
+**2 Kings 2:12**
+
+[TODO]
+
+**2 Kings 2:13**
+
+[TODO]
+
+**2 Kings 2:14**
+
+[TODO]
+
+**2 Kings 2:15**
+
+[TODO]
+
+**2 Kings 2:16**
+
+[TODO]
+
+**2 Kings 2:17**
+
+[TODO]
+
+**2 Kings 2:18**
+
+[TODO]
+
+**2 Kings 2:19**
+
+[TODO]
+
+**2 Kings 2:20**
+
+[TODO]
+
+**2 Kings 2:21**
+
+[TODO]
+
+**2 Kings 2:22**
+
+[TODO]
+
+**2 Kings 2:23**
+
+[TODO]
+
+**2 Kings 2:24**
+
+[TODO]
+
+**2 Kings 2:25**
+
+[TODO]
+
+### Chapter 3
+
+**2 Kings 3:1**
+
+[TODO]
+
+**2 Kings 3:2**
+
+[TODO]
+
+**2 Kings 3:3**
+
+[TODO]
+
+**2 Kings 3:4**
+
+[TODO]
+
+**2 Kings 3:5**
+
+[TODO]
+
+**2 Kings 3:6**
+
+[TODO]
+
+**2 Kings 3:7**
+
+[TODO]
+
+**2 Kings 3:8**
+
+[TODO]
+
+**2 Kings 3:9**
+
+[TODO]
+
+**2 Kings 3:10**
+
+[TODO]
+
+**2 Kings 3:11**
+
+[TODO]
+
+**2 Kings 3:12**
+
+[TODO]
+
+**2 Kings 3:13**
+
+[TODO]
+
+**2 Kings 3:14**
+
+[TODO]
+
+**2 Kings 3:15**
+
+[TODO]
+
+**2 Kings 3:16**
+
+[TODO]
+
+**2 Kings 3:17**
+
+[TODO]
+
+**2 Kings 3:18**
+
+[TODO]
+
+**2 Kings 3:19**
+
+[TODO]
+
+**2 Kings 3:20**
+
+[TODO]
+
+**2 Kings 3:21**
+
+[TODO]
+
+**2 Kings 3:22**
+
+[TODO]
+
+**2 Kings 3:23**
+
+[TODO]
+
+**2 Kings 3:24**
+
+[TODO]
+
+**2 Kings 3:25**
+
+[TODO]
+
+**2 Kings 3:26**
+
+[TODO]
+
+**2 Kings 3:27**
+
+[TODO]
+
+### Chapter 4
+
+**2 Kings 4:1**
+
+[TODO]
+
+**2 Kings 4:2**
+
+[TODO]
+
+**2 Kings 4:3**
+
+[TODO]
+
+**2 Kings 4:4**
+
+[TODO]
+
+**2 Kings 4:5**
+
+[TODO]
+
+**2 Kings 4:6**
+
+[TODO]
+
+**2 Kings 4:7**
+
+[TODO]
+
+**2 Kings 4:8**
+
+[TODO]
+
+**2 Kings 4:9**
+
+[TODO]
+
+**2 Kings 4:10**
+
+[TODO]
+
+**2 Kings 4:11**
+
+[TODO]
+
+**2 Kings 4:12**
+
+[TODO]
+
+**2 Kings 4:13**
+
+[TODO]
+
+**2 Kings 4:14**
+
+[TODO]
+
+**2 Kings 4:15**
+
+[TODO]
+
+**2 Kings 4:16**
+
+[TODO]
+
+**2 Kings 4:17**
+
+[TODO]
+
+**2 Kings 4:18**
+
+[TODO]
+
+**2 Kings 4:19**
+
+[TODO]
+
+**2 Kings 4:20**
+
+[TODO]
+
+**2 Kings 4:21**
+
+[TODO]
+
+**2 Kings 4:22**
+
+[TODO]
+
+**2 Kings 4:23**
+
+[TODO]
+
+**2 Kings 4:24**
+
+[TODO]
+
+**2 Kings 4:25**
+
+[TODO]
+
+**2 Kings 4:26**
+
+[TODO]
+
+**2 Kings 4:27**
+
+[TODO]
+
+**2 Kings 4:28**
+
+[TODO]
+
+**2 Kings 4:29**
+
+[TODO]
+
+**2 Kings 4:30**
+
+[TODO]
+
+**2 Kings 4:31**
+
+[TODO]
+
+**2 Kings 4:32**
+
+[TODO]
+
+**2 Kings 4:33**
+
+[TODO]
+
+**2 Kings 4:34**
+
+[TODO]
+
+**2 Kings 4:35**
+
+[TODO]
+
+**2 Kings 4:36**
+
+[TODO]
+
+**2 Kings 4:37**
+
+[TODO]
+
+**2 Kings 4:38**
+
+[TODO]
+
+**2 Kings 4:39**
+
+[TODO]
+
+**2 Kings 4:40**
+
+[TODO]
+
+**2 Kings 4:41**
+
+[TODO]
+
+**2 Kings 4:42**
+
+[TODO]
+
+**2 Kings 4:43**
+
+[TODO]
+
+**2 Kings 4:44**
+
+[TODO]
+
+### Chapter 5
+
+**2 Kings 5:1**
+
+[TODO]
+
+**2 Kings 5:2**
+
+[TODO]
+
+**2 Kings 5:3**
+
+[TODO]
+
+**2 Kings 5:4**
+
+[TODO]
+
+**2 Kings 5:5**
+
+[TODO]
+
+**2 Kings 5:6**
+
+[TODO]
+
+**2 Kings 5:7**
+
+[TODO]
+
+**2 Kings 5:8**
+
+[TODO]
+
+**2 Kings 5:9**
+
+[TODO]
+
+**2 Kings 5:10**
+
+[TODO]
+
+**2 Kings 5:11**
+
+[TODO]
+
+**2 Kings 5:12**
+
+[TODO]
+
+**2 Kings 5:13**
+
+[TODO]
+
+**2 Kings 5:14**
+
+[TODO]
+
+**2 Kings 5:15**
+
+[TODO]
+
+**2 Kings 5:16**
+
+[TODO]
+
+**2 Kings 5:17**
+
+[TODO]
+
+**2 Kings 5:18**
+
+[TODO]
+
+**2 Kings 5:19**
+
+[TODO]
+
+**2 Kings 5:20**
+
+[TODO]
+
+**2 Kings 5:21**
+
+[TODO]
+
+**2 Kings 5:22**
+
+[TODO]
+
+**2 Kings 5:23**
+
+[TODO]
+
+**2 Kings 5:24**
+
+[TODO]
+
+**2 Kings 5:25**
+
+[TODO]
+
+**2 Kings 5:26**
+
+[TODO]
+
+**2 Kings 5:27**
+
+[TODO]
+
+### Chapter 6
+
+**2 Kings 6:1**
+
+[TODO]
+
+**2 Kings 6:2**
+
+[TODO]
+
+**2 Kings 6:3**
+
+[TODO]
+
+**2 Kings 6:4**
+
+[TODO]
+
+**2 Kings 6:5**
+
+[TODO]
+
+**2 Kings 6:6**
+
+[TODO]
+
+**2 Kings 6:7**
+
+[TODO]
+
+**2 Kings 6:8**
+
+[TODO]
+
+**2 Kings 6:9**
+
+[TODO]
+
+**2 Kings 6:10**
+
+[TODO]
+
+**2 Kings 6:11**
+
+[TODO]
+
+**2 Kings 6:12**
+
+[TODO]
+
+**2 Kings 6:13**
+
+[TODO]
+
+**2 Kings 6:14**
+
+[TODO]
+
+**2 Kings 6:15**
+
+[TODO]
+
+**2 Kings 6:16**
+
+[TODO]
+
+**2 Kings 6:17**
+
+[TODO]
+
+**2 Kings 6:18**
+
+[TODO]
+
+**2 Kings 6:19**
+
+[TODO]
+
+**2 Kings 6:20**
+
+[TODO]
+
+**2 Kings 6:21**
+
+[TODO]
+
+**2 Kings 6:22**
+
+[TODO]
+
+**2 Kings 6:23**
+
+[TODO]
+
+**2 Kings 6:24**
+
+[TODO]
+
+**2 Kings 6:25**
+
+[TODO]
+
+**2 Kings 6:26**
+
+[TODO]
+
+**2 Kings 6:27**
+
+[TODO]
+
+**2 Kings 6:28**
+
+[TODO]
+
+**2 Kings 6:29**
+
+[TODO]
+
+**2 Kings 6:30**
+
+[TODO]
+
+**2 Kings 6:31**
+
+[TODO]
+
+**2 Kings 6:32**
+
+[TODO]
+
+**2 Kings 6:33**
+
+[TODO]
+
+### Chapter 7
+
+**2 Kings 7:1**
+
+[TODO]
+
+**2 Kings 7:2**
+
+[TODO]
+
+**2 Kings 7:3**
+
+[TODO]
+
+**2 Kings 7:4**
+
+[TODO]
+
+**2 Kings 7:5**
+
+[TODO]
+
+**2 Kings 7:6**
+
+[TODO]
+
+**2 Kings 7:7**
+
+[TODO]
+
+**2 Kings 7:8**
+
+[TODO]
+
+**2 Kings 7:9**
+
+[TODO]
+
+**2 Kings 7:10**
+
+[TODO]
+
+**2 Kings 7:11**
+
+[TODO]
+
+**2 Kings 7:12**
+
+[TODO]
+
+**2 Kings 7:13**
+
+[TODO]
+
+**2 Kings 7:14**
+
+[TODO]
+
+**2 Kings 7:15**
+
+[TODO]
+
+**2 Kings 7:16**
+
+[TODO]
+
+**2 Kings 7:17**
+
+[TODO]
+
+**2 Kings 7:18**
+
+[TODO]
+
+**2 Kings 7:19**
+
+[TODO]
+
+**2 Kings 7:20**
+
+[TODO]
+
+### Chapter 8
+
+**2 Kings 8:1**
+
+[TODO]
+
+**2 Kings 8:2**
+
+[TODO]
+
+**2 Kings 8:3**
+
+[TODO]
+
+**2 Kings 8:4**
+
+[TODO]
+
+**2 Kings 8:5**
+
+[TODO]
+
+**2 Kings 8:6**
+
+[TODO]
+
+**2 Kings 8:7**
+
+[TODO]
+
+**2 Kings 8:8**
+
+[TODO]
+
+**2 Kings 8:9**
+
+[TODO]
+
+**2 Kings 8:10**
+
+[TODO]
+
+**2 Kings 8:11**
+
+[TODO]
+
+**2 Kings 8:12**
+
+[TODO]
+
+**2 Kings 8:13**
+
+[TODO]
+
+**2 Kings 8:14**
+
+[TODO]
+
+**2 Kings 8:15**
+
+[TODO]
+
+**2 Kings 8:16**
+
+[TODO]
+
+**2 Kings 8:17**
+
+[TODO]
+
+**2 Kings 8:18**
+
+[TODO]
+
+**2 Kings 8:19**
+
+[TODO]
+
+**2 Kings 8:20**
+
+[TODO]
+
+**2 Kings 8:21**
+
+[TODO]
+
+**2 Kings 8:22**
+
+[TODO]
+
+**2 Kings 8:23**
+
+[TODO]
+
+**2 Kings 8:24**
+
+[TODO]
+
+**2 Kings 8:25**
+
+[TODO]
+
+**2 Kings 8:26**
+
+[TODO]
+
+**2 Kings 8:27**
+
+[TODO]
+
+**2 Kings 8:28**
+
+[TODO]
+
+**2 Kings 8:29**
+
+[TODO]
+
+### Chapter 9
+
+**2 Kings 9:1**
+
+[TODO]
+
+**2 Kings 9:2**
+
+[TODO]
+
+**2 Kings 9:3**
+
+[TODO]
+
+**2 Kings 9:4**
+
+[TODO]
+
+**2 Kings 9:5**
+
+[TODO]
+
+**2 Kings 9:6**
+
+[TODO]
+
+**2 Kings 9:7**
+
+[TODO]
+
+**2 Kings 9:8**
+
+[TODO]
+
+**2 Kings 9:9**
+
+[TODO]
+
+**2 Kings 9:10**
+
+[TODO]
+
+**2 Kings 9:11**
+
+[TODO]
+
+**2 Kings 9:12**
+
+[TODO]
+
+**2 Kings 9:13**
+
+[TODO]
+
+**2 Kings 9:14**
+
+[TODO]
+
+**2 Kings 9:15**
+
+[TODO]
+
+**2 Kings 9:16**
+
+[TODO]
+
+**2 Kings 9:17**
+
+[TODO]
+
+**2 Kings 9:18**
+
+[TODO]
+
+**2 Kings 9:19**
+
+[TODO]
+
+**2 Kings 9:20**
+
+[TODO]
+
+**2 Kings 9:21**
+
+[TODO]
+
+**2 Kings 9:22**
+
+[TODO]
+
+**2 Kings 9:23**
+
+[TODO]
+
+**2 Kings 9:24**
+
+[TODO]
+
+**2 Kings 9:25**
+
+[TODO]
+
+**2 Kings 9:26**
+
+[TODO]
+
+**2 Kings 9:27**
+
+[TODO]
+
+**2 Kings 9:28**
+
+[TODO]
+
+**2 Kings 9:29**
+
+[TODO]
+
+**2 Kings 9:30**
+
+[TODO]
+
+**2 Kings 9:31**
+
+[TODO]
+
+**2 Kings 9:32**
+
+[TODO]
+
+**2 Kings 9:33**
+
+[TODO]
+
+**2 Kings 9:34**
+
+[TODO]
+
+**2 Kings 9:35**
+
+[TODO]
+
+**2 Kings 9:36**
+
+[TODO]
+
+**2 Kings 9:37**
+
+[TODO]
+
+### Chapter 10
+
+**2 Kings 10:1**
+
+[TODO]
+
+**2 Kings 10:2**
+
+[TODO]
+
+**2 Kings 10:3**
+
+[TODO]
+
+**2 Kings 10:4**
+
+[TODO]
+
+**2 Kings 10:5**
+
+[TODO]
+
+**2 Kings 10:6**
+
+[TODO]
+
+**2 Kings 10:7**
+
+[TODO]
+
+**2 Kings 10:8**
+
+[TODO]
+
+**2 Kings 10:9**
+
+[TODO]
+
+**2 Kings 10:10**
+
+[TODO]
+
+**2 Kings 10:11**
+
+[TODO]
+
+**2 Kings 10:12**
+
+[TODO]
+
+**2 Kings 10:13**
+
+[TODO]
+
+**2 Kings 10:14**
+
+[TODO]
+
+**2 Kings 10:15**
+
+[TODO]
+
+**2 Kings 10:16**
+
+[TODO]
+
+**2 Kings 10:17**
+
+[TODO]
+
+**2 Kings 10:18**
+
+[TODO]
+
+**2 Kings 10:19**
+
+[TODO]
+
+**2 Kings 10:20**
+
+[TODO]
+
+**2 Kings 10:21**
+
+[TODO]
+
+**2 Kings 10:22**
+
+[TODO]
+
+**2 Kings 10:23**
+
+[TODO]
+
+**2 Kings 10:24**
+
+[TODO]
+
+**2 Kings 10:25**
+
+[TODO]
+
+**2 Kings 10:26**
+
+[TODO]
+
+**2 Kings 10:27**
+
+[TODO]
+
+**2 Kings 10:28**
+
+[TODO]
+
+**2 Kings 10:29**
+
+[TODO]
+
+**2 Kings 10:30**
+
+[TODO]
+
+**2 Kings 10:31**
+
+[TODO]
+
+**2 Kings 10:32**
+
+[TODO]
+
+**2 Kings 10:33**
+
+[TODO]
+
+**2 Kings 10:34**
+
+[TODO]
+
+**2 Kings 10:35**
+
+[TODO]
+
+**2 Kings 10:36**
+
+[TODO]
+
+### Chapter 11
+
+**2 Kings 11:1**
+
+[TODO]
+
+**2 Kings 11:2**
+
+[TODO]
+
+**2 Kings 11:3**
+
+[TODO]
+
+**2 Kings 11:4**
+
+[TODO]
+
+**2 Kings 11:5**
+
+[TODO]
+
+**2 Kings 11:6**
+
+[TODO]
+
+**2 Kings 11:7**
+
+[TODO]
+
+**2 Kings 11:8**
+
+[TODO]
+
+**2 Kings 11:9**
+
+[TODO]
+
+**2 Kings 11:10**
+
+[TODO]
+
+**2 Kings 11:11**
+
+[TODO]
+
+**2 Kings 11:12**
+
+[TODO]
+
+**2 Kings 11:13**
+
+[TODO]
+
+**2 Kings 11:14**
+
+[TODO]
+
+**2 Kings 11:15**
+
+[TODO]
+
+**2 Kings 11:16**
+
+[TODO]
+
+**2 Kings 11:17**
+
+[TODO]
+
+**2 Kings 11:18**
+
+[TODO]
+
+**2 Kings 11:19**
+
+[TODO]
+
+**2 Kings 11:20**
+
+[TODO]
+
+### Chapter 12
+
+**2 Kings 12:1**
+
+[TODO]
+
+**2 Kings 12:2**
+
+[TODO]
+
+**2 Kings 12:3**
+
+[TODO]
+
+**2 Kings 12:4**
+
+[TODO]
+
+**2 Kings 12:5**
+
+[TODO]
+
+**2 Kings 12:6**
+
+[TODO]
+
+**2 Kings 12:7**
+
+[TODO]
+
+**2 Kings 12:8**
+
+[TODO]
+
+**2 Kings 12:9**
+
+[TODO]
+
+**2 Kings 12:10**
+
+[TODO]
+
+**2 Kings 12:11**
+
+[TODO]
+
+**2 Kings 12:12**
+
+[TODO]
+
+**2 Kings 12:13**
+
+[TODO]
+
+**2 Kings 12:14**
+
+[TODO]
+
+**2 Kings 12:15**
+
+[TODO]
+
+**2 Kings 12:16**
+
+[TODO]
+
+**2 Kings 12:17**
+
+[TODO]
+
+**2 Kings 12:18**
+
+[TODO]
+
+**2 Kings 12:19**
+
+[TODO]
+
+**2 Kings 12:20**
+
+[TODO]
+
+**2 Kings 12:21**
+
+[TODO]
+
+**2 Kings 12:22**
+
+[TODO]
+
+### Chapter 13
+
+**2 Kings 13:1**
+
+[TODO]
+
+**2 Kings 13:2**
+
+[TODO]
+
+**2 Kings 13:3**
+
+[TODO]
+
+**2 Kings 13:4**
+
+[TODO]
+
+**2 Kings 13:5**
+
+[TODO]
+
+**2 Kings 13:6**
+
+[TODO]
+
+**2 Kings 13:7**
+
+[TODO]
+
+**2 Kings 13:8**
+
+[TODO]
+
+**2 Kings 13:9**
+
+[TODO]
+
+**2 Kings 13:10**
+
+[TODO]
+
+**2 Kings 13:11**
+
+[TODO]
+
+**2 Kings 13:12**
+
+[TODO]
+
+**2 Kings 13:13**
+
+[TODO]
+
+**2 Kings 13:14**
+
+[TODO]
+
+**2 Kings 13:15**
+
+[TODO]
+
+**2 Kings 13:16**
+
+[TODO]
+
+**2 Kings 13:17**
+
+[TODO]
+
+**2 Kings 13:18**
+
+[TODO]
+
+**2 Kings 13:19**
+
+[TODO]
+
+**2 Kings 13:20**
+
+[TODO]
+
+**2 Kings 13:21**
+
+[TODO]
+
+**2 Kings 13:22**
+
+[TODO]
+
+**2 Kings 13:23**
+
+[TODO]
+
+**2 Kings 13:24**
+
+[TODO]
+
+**2 Kings 13:25**
+
+[TODO]
+
+### Chapter 14
+
+**2 Kings 14:1**
+
+[TODO]
+
+**2 Kings 14:2**
+
+[TODO]
+
+**2 Kings 14:3**
+
+[TODO]
+
+**2 Kings 14:4**
+
+[TODO]
+
+**2 Kings 14:5**
+
+[TODO]
+
+**2 Kings 14:6**
+
+[TODO]
+
+**2 Kings 14:7**
+
+[TODO]
+
+**2 Kings 14:8**
+
+[TODO]
+
+**2 Kings 14:9**
+
+[TODO]
+
+**2 Kings 14:10**
+
+[TODO]
+
+**2 Kings 14:11**
+
+[TODO]
+
+**2 Kings 14:12**
+
+[TODO]
+
+**2 Kings 14:13**
+
+[TODO]
+
+**2 Kings 14:14**
+
+[TODO]
+
+**2 Kings 14:15**
+
+[TODO]
+
+**2 Kings 14:16**
+
+[TODO]
+
+**2 Kings 14:17**
+
+[TODO]
+
+**2 Kings 14:18**
+
+[TODO]
+
+**2 Kings 14:19**
+
+[TODO]
+
+**2 Kings 14:20**
+
+[TODO]
+
+**2 Kings 14:21**
+
+[TODO]
+
+**2 Kings 14:22**
+
+[TODO]
+
+**2 Kings 14:23**
+
+[TODO]
+
+**2 Kings 14:24**
+
+[TODO]
+
+**2 Kings 14:25**
+
+[TODO]
+
+**2 Kings 14:26**
+
+[TODO]
+
+**2 Kings 14:27**
+
+[TODO]
+
+**2 Kings 14:28**
+
+[TODO]
+
+**2 Kings 14:29**
+
+[TODO]
+
+### Chapter 15
+
+**2 Kings 15:1**
+
+[TODO]
+
+**2 Kings 15:2**
+
+[TODO]
+
+**2 Kings 15:3**
+
+[TODO]
+
+**2 Kings 15:4**
+
+[TODO]
+
+**2 Kings 15:5**
+
+[TODO]
+
+**2 Kings 15:6**
+
+[TODO]
+
+**2 Kings 15:7**
+
+[TODO]
+
+**2 Kings 15:8**
+
+[TODO]
+
+**2 Kings 15:9**
+
+[TODO]
+
+**2 Kings 15:10**
+
+[TODO]
+
+**2 Kings 15:11**
+
+[TODO]
+
+**2 Kings 15:12**
+
+[TODO]
+
+**2 Kings 15:13**
+
+[TODO]
+
+**2 Kings 15:14**
+
+[TODO]
+
+**2 Kings 15:15**
+
+[TODO]
+
+**2 Kings 15:16**
+
+[TODO]
+
+**2 Kings 15:17**
+
+[TODO]
+
+**2 Kings 15:18**
+
+[TODO]
+
+**2 Kings 15:19**
+
+[TODO]
+
+**2 Kings 15:20**
+
+[TODO]
+
+**2 Kings 15:21**
+
+[TODO]
+
+**2 Kings 15:22**
+
+[TODO]
+
+**2 Kings 15:23**
+
+[TODO]
+
+**2 Kings 15:24**
+
+[TODO]
+
+**2 Kings 15:25**
+
+[TODO]
+
+**2 Kings 15:26**
+
+[TODO]
+
+**2 Kings 15:27**
+
+[TODO]
+
+**2 Kings 15:28**
+
+[TODO]
+
+**2 Kings 15:29**
+
+[TODO]
+
+**2 Kings 15:30**
+
+[TODO]
+
+**2 Kings 15:31**
+
+[TODO]
+
+**2 Kings 15:32**
+
+[TODO]
+
+**2 Kings 15:33**
+
+[TODO]
+
+**2 Kings 15:34**
+
+[TODO]
+
+**2 Kings 15:35**
+
+[TODO]
+
+**2 Kings 15:36**
+
+[TODO]
+
+**2 Kings 15:37**
+
+[TODO]
+
+**2 Kings 15:38**
+
+[TODO]
+
+### Chapter 16
+
+**2 Kings 16:1**
+
+[TODO]
+
+**2 Kings 16:2**
+
+[TODO]
+
+**2 Kings 16:3**
+
+[TODO]
+
+**2 Kings 16:4**
+
+[TODO]
+
+**2 Kings 16:5**
+
+[TODO]
+
+**2 Kings 16:6**
+
+[TODO]
+
+**2 Kings 16:7**
+
+[TODO]
+
+**2 Kings 16:8**
+
+[TODO]
+
+**2 Kings 16:9**
+
+[TODO]
+
+**2 Kings 16:10**
+
+[TODO]
+
+**2 Kings 16:11**
+
+[TODO]
+
+**2 Kings 16:12**
+
+[TODO]
+
+**2 Kings 16:13**
+
+[TODO]
+
+**2 Kings 16:14**
+
+[TODO]
+
+**2 Kings 16:15**
+
+[TODO]
+
+**2 Kings 16:16**
+
+[TODO]
+
+**2 Kings 16:17**
+
+[TODO]
+
+**2 Kings 16:18**
+
+[TODO]
+
+**2 Kings 16:19**
+
+[TODO]
+
+**2 Kings 16:20**
+
+[TODO]
+
+### Chapter 17
+
+**2 Kings 17:1**
+
+[TODO]
+
+**2 Kings 17:2**
+
+[TODO]
+
+**2 Kings 17:3**
+
+[TODO]
+
+**2 Kings 17:4**
+
+[TODO]
+
+**2 Kings 17:5**
+
+[TODO]
+
+**2 Kings 17:6**
+
+[TODO]
+
+**2 Kings 17:7**
+
+[TODO]
+
+**2 Kings 17:8**
+
+[TODO]
+
+**2 Kings 17:9**
+
+[TODO]
+
+**2 Kings 17:10**
+
+[TODO]
+
+**2 Kings 17:11**
+
+[TODO]
+
+**2 Kings 17:12**
+
+[TODO]
+
+**2 Kings 17:13**
+
+[TODO]
+
+**2 Kings 17:14**
+
+[TODO]
+
+**2 Kings 17:15**
+
+[TODO]
+
+**2 Kings 17:16**
+
+[TODO]
+
+**2 Kings 17:17**
+
+[TODO]
+
+**2 Kings 17:18**
+
+[TODO]
+
+**2 Kings 17:19**
+
+[TODO]
+
+**2 Kings 17:20**
+
+[TODO]
+
+**2 Kings 17:21**
+
+[TODO]
+
+**2 Kings 17:22**
+
+[TODO]
+
+**2 Kings 17:23**
+
+[TODO]
+
+**2 Kings 17:24**
+
+[TODO]
+
+**2 Kings 17:25**
+
+[TODO]
+
+**2 Kings 17:26**
+
+[TODO]
+
+**2 Kings 17:27**
+
+[TODO]
+
+**2 Kings 17:28**
+
+[TODO]
+
+**2 Kings 17:29**
+
+[TODO]
+
+**2 Kings 17:30**
+
+[TODO]
+
+**2 Kings 17:31**
+
+[TODO]
+
+**2 Kings 17:32**
+
+[TODO]
+
+**2 Kings 17:33**
+
+[TODO]
+
+**2 Kings 17:34**
+
+[TODO]
+
+**2 Kings 17:35**
+
+[TODO]
+
+**2 Kings 17:36**
+
+[TODO]
+
+**2 Kings 17:37**
+
+[TODO]
+
+**2 Kings 17:38**
+
+[TODO]
+
+**2 Kings 17:39**
+
+[TODO]
+
+**2 Kings 17:40**
+
+[TODO]
+
+**2 Kings 17:41**
+
+[TODO]
+
+### Chapter 18
+
+**2 Kings 18:1**
+
+[TODO]
+
+**2 Kings 18:2**
+
+[TODO]
+
+**2 Kings 18:3**
+
+[TODO]
+
+**2 Kings 18:4**
+
+[TODO]
+
+**2 Kings 18:5**
+
+[TODO]
+
+**2 Kings 18:6**
+
+[TODO]
+
+**2 Kings 18:7**
+
+[TODO]
+
+**2 Kings 18:8**
+
+[TODO]
+
+**2 Kings 18:9**
+
+[TODO]
+
+**2 Kings 18:10**
+
+[TODO]
+
+**2 Kings 18:11**
+
+[TODO]
+
+**2 Kings 18:12**
+
+[TODO]
+
+**2 Kings 18:13**
+
+[TODO]
+
+**2 Kings 18:14**
+
+[TODO]
+
+**2 Kings 18:15**
+
+[TODO]
+
+**2 Kings 18:16**
+
+[TODO]
+
+**2 Kings 18:17**
+
+[TODO]
+
+**2 Kings 18:18**
+
+[TODO]
+
+**2 Kings 18:19**
+
+[TODO]
+
+**2 Kings 18:20**
+
+[TODO]
+
+**2 Kings 18:21**
+
+[TODO]
+
+**2 Kings 18:22**
+
+[TODO]
+
+**2 Kings 18:23**
+
+[TODO]
+
+**2 Kings 18:24**
+
+[TODO]
+
+**2 Kings 18:25**
+
+[TODO]
+
+**2 Kings 18:26**
+
+[TODO]
+
+**2 Kings 18:27**
+
+[TODO]
+
+**2 Kings 18:28**
+
+[TODO]
+
+**2 Kings 18:29**
+
+[TODO]
+
+**2 Kings 18:30**
+
+[TODO]
+
+**2 Kings 18:31**
+
+[TODO]
+
+**2 Kings 18:32**
+
+[TODO]
+
+**2 Kings 18:33**
+
+[TODO]
+
+**2 Kings 18:34**
+
+[TODO]
+
+**2 Kings 18:35**
+
+[TODO]
+
+**2 Kings 18:36**
+
+[TODO]
+
+**2 Kings 18:37**
+
+[TODO]
+
+### Chapter 19
+
+**2 Kings 19:1**
+
+[TODO]
+
+**2 Kings 19:2**
+
+[TODO]
+
+**2 Kings 19:3**
+
+[TODO]
+
+**2 Kings 19:4**
+
+[TODO]
+
+**2 Kings 19:5**
+
+[TODO]
+
+**2 Kings 19:6**
+
+[TODO]
+
+**2 Kings 19:7**
+
+[TODO]
+
+**2 Kings 19:8**
+
+[TODO]
+
+**2 Kings 19:9**
+
+[TODO]
+
+**2 Kings 19:10**
+
+[TODO]
+
+**2 Kings 19:11**
+
+[TODO]
+
+**2 Kings 19:12**
+
+[TODO]
+
+**2 Kings 19:13**
+
+[TODO]
+
+**2 Kings 19:14**
+
+[TODO]
+
+**2 Kings 19:15**
+
+[TODO]
+
+**2 Kings 19:16**
+
+[TODO]
+
+**2 Kings 19:17**
+
+[TODO]
+
+**2 Kings 19:18**
+
+[TODO]
+
+**2 Kings 19:19**
+
+[TODO]
+
+**2 Kings 19:20**
+
+[TODO]
+
+**2 Kings 19:21**
+
+[TODO]
+
+**2 Kings 19:22**
+
+[TODO]
+
+**2 Kings 19:23**
+
+[TODO]
+
+**2 Kings 19:24**
+
+[TODO]
+
+**2 Kings 19:25**
+
+[TODO]
+
+**2 Kings 19:26**
+
+[TODO]
+
+**2 Kings 19:27**
+
+[TODO]
+
+**2 Kings 19:28**
+
+[TODO]
+
+**2 Kings 19:29**
+
+[TODO]
+
+**2 Kings 19:30**
+
+[TODO]
+
+**2 Kings 19:31**
+
+[TODO]
+
+**2 Kings 19:32**
+
+[TODO]
+
+**2 Kings 19:33**
+
+[TODO]
+
+**2 Kings 19:34**
+
+[TODO]
+
+**2 Kings 19:35**
+
+[TODO]
+
+**2 Kings 19:36**
+
+[TODO]
+
+**2 Kings 19:37**
+
+[TODO]
+
+### Chapter 20
+
+**2 Kings 20:1**
+
+[TODO]
+
+**2 Kings 20:2**
+
+[TODO]
+
+**2 Kings 20:3**
+
+[TODO]
+
+**2 Kings 20:4**
+
+[TODO]
+
+**2 Kings 20:5**
+
+[TODO]
+
+**2 Kings 20:6**
+
+[TODO]
+
+**2 Kings 20:7**
+
+[TODO]
+
+**2 Kings 20:8**
+
+[TODO]
+
+**2 Kings 20:9**
+
+[TODO]
+
+**2 Kings 20:10**
+
+[TODO]
+
+**2 Kings 20:11**
+
+[TODO]
+
+**2 Kings 20:12**
+
+[TODO]
+
+**2 Kings 20:13**
+
+[TODO]
+
+**2 Kings 20:14**
+
+[TODO]
+
+**2 Kings 20:15**
+
+[TODO]
+
+**2 Kings 20:16**
+
+[TODO]
+
+**2 Kings 20:17**
+
+[TODO]
+
+**2 Kings 20:18**
+
+[TODO]
+
+**2 Kings 20:19**
+
+[TODO]
+
+**2 Kings 20:20**
+
+[TODO]
+
+**2 Kings 20:21**
+
+[TODO]
+
+### Chapter 21
+
+**2 Kings 21:1**
+
+[TODO]
+
+**2 Kings 21:2**
+
+[TODO]
+
+**2 Kings 21:3**
+
+[TODO]
+
+**2 Kings 21:4**
+
+[TODO]
+
+**2 Kings 21:5**
+
+[TODO]
+
+**2 Kings 21:6**
+
+[TODO]
+
+**2 Kings 21:7**
+
+[TODO]
+
+**2 Kings 21:8**
+
+[TODO]
+
+**2 Kings 21:9**
+
+[TODO]
+
+**2 Kings 21:10**
+
+[TODO]
+
+**2 Kings 21:11**
+
+[TODO]
+
+**2 Kings 21:12**
+
+[TODO]
+
+**2 Kings 21:13**
+
+[TODO]
+
+**2 Kings 21:14**
+
+[TODO]
+
+**2 Kings 21:15**
+
+[TODO]
+
+**2 Kings 21:16**
+
+[TODO]
+
+**2 Kings 21:17**
+
+[TODO]
+
+**2 Kings 21:18**
+
+[TODO]
+
+**2 Kings 21:19**
+
+[TODO]
+
+**2 Kings 21:20**
+
+[TODO]
+
+**2 Kings 21:21**
+
+[TODO]
+
+**2 Kings 21:22**
+
+[TODO]
+
+**2 Kings 21:23**
+
+[TODO]
+
+**2 Kings 21:24**
+
+[TODO]
+
+**2 Kings 21:25**
+
+[TODO]
+
+**2 Kings 21:26**
+
+[TODO]
+
+### Chapter 22
+
+**2 Kings 22:1**
+
+[TODO]
+
+**2 Kings 22:2**
+
+[TODO]
+
+**2 Kings 22:3**
+
+[TODO]
+
+**2 Kings 22:4**
+
+[TODO]
+
+**2 Kings 22:5**
+
+[TODO]
+
+**2 Kings 22:6**
+
+[TODO]
+
+**2 Kings 22:7**
+
+[TODO]
+
+**2 Kings 22:8**
+
+[TODO]
+
+**2 Kings 22:9**
+
+[TODO]
+
+**2 Kings 22:10**
+
+[TODO]
+
+**2 Kings 22:11**
+
+[TODO]
+
+**2 Kings 22:12**
+
+[TODO]
+
+**2 Kings 22:13**
+
+[TODO]
+
+**2 Kings 22:14**
+
+[TODO]
+
+**2 Kings 22:15**
+
+[TODO]
+
+**2 Kings 22:16**
+
+[TODO]
+
+**2 Kings 22:17**
+
+[TODO]
+
+**2 Kings 22:18**
+
+[TODO]
+
+**2 Kings 22:19**
+
+[TODO]
+
+**2 Kings 22:20**
+
+[TODO]
+
+### Chapter 23
+
+**2 Kings 23:1**
+
+[TODO]
+
+**2 Kings 23:2**
+
+[TODO]
+
+**2 Kings 23:3**
+
+[TODO]
+
+**2 Kings 23:4**
+
+[TODO]
+
+**2 Kings 23:5**
+
+[TODO]
+
+**2 Kings 23:6**
+
+[TODO]
+
+**2 Kings 23:7**
+
+[TODO]
+
+**2 Kings 23:8**
+
+[TODO]
+
+**2 Kings 23:9**
+
+[TODO]
+
+**2 Kings 23:10**
+
+[TODO]
+
+**2 Kings 23:11**
+
+[TODO]
+
+**2 Kings 23:12**
+
+[TODO]
+
+**2 Kings 23:13**
+
+[TODO]
+
+**2 Kings 23:14**
+
+[TODO]
+
+**2 Kings 23:15**
+
+[TODO]
+
+**2 Kings 23:16**
+
+[TODO]
+
+**2 Kings 23:17**
+
+[TODO]
+
+**2 Kings 23:18**
+
+[TODO]
+
+**2 Kings 23:19**
+
+[TODO]
+
+**2 Kings 23:20**
+
+[TODO]
+
+**2 Kings 23:21**
+
+[TODO]
+
+**2 Kings 23:22**
+
+[TODO]
+
+**2 Kings 23:23**
+
+[TODO]
+
+**2 Kings 23:24**
+
+[TODO]
+
+**2 Kings 23:25**
+
+[TODO]
+
+**2 Kings 23:26**
+
+[TODO]
+
+**2 Kings 23:27**
+
+[TODO]
+
+**2 Kings 23:28**
+
+[TODO]
+
+**2 Kings 23:29**
+
+[TODO]
+
+**2 Kings 23:30**
+
+[TODO]
+
+**2 Kings 23:31**
+
+[TODO]
+
+**2 Kings 23:32**
+
+[TODO]
+
+**2 Kings 23:33**
+
+[TODO]
+
+**2 Kings 23:34**
+
+[TODO]
+
+**2 Kings 23:35**
+
+[TODO]
+
+**2 Kings 23:36**
+
+[TODO]
+
+**2 Kings 23:37**
+
+[TODO]
+
+### Chapter 24
+
+**2 Kings 24:1**
+
+[TODO]
+
+**2 Kings 24:2**
+
+[TODO]
+
+**2 Kings 24:3**
+
+[TODO]
+
+**2 Kings 24:4**
+
+[TODO]
+
+**2 Kings 24:5**
+
+[TODO]
+
+**2 Kings 24:6**
+
+[TODO]
+
+**2 Kings 24:7**
+
+[TODO]
+
+**2 Kings 24:8**
+
+[TODO]
+
+**2 Kings 24:9**
+
+[TODO]
+
+**2 Kings 24:10**
+
+[TODO]
+
+**2 Kings 24:11**
+
+[TODO]
+
+**2 Kings 24:12**
+
+[TODO]
+
+**2 Kings 24:13**
+
+[TODO]
+
+**2 Kings 24:14**
+
+[TODO]
+
+**2 Kings 24:15**
+
+[TODO]
+
+**2 Kings 24:16**
+
+[TODO]
+
+**2 Kings 24:17**
+
+[TODO]
+
+**2 Kings 24:18**
+
+[TODO]
+
+**2 Kings 24:19**
+
+[TODO]
+
+**2 Kings 24:20**
+
+[TODO]
+
+### Chapter 25
+
+**2 Kings 25:1**
+
+[TODO]
+
+**2 Kings 25:2**
+
+[TODO]
+
+**2 Kings 25:3**
+
+[TODO]
+
+**2 Kings 25:4**
+
+[TODO]
+
+**2 Kings 25:5**
+
+[TODO]
+
+**2 Kings 25:6**
+
+[TODO]
+
+**2 Kings 25:7**
+
+[TODO]
+
+**2 Kings 25:8**
+
+[TODO]
+
+**2 Kings 25:9**
+
+[TODO]
+
+**2 Kings 25:10**
+
+[TODO]
+
+**2 Kings 25:11**
+
+[TODO]
+
+**2 Kings 25:12**
+
+[TODO]
+
+**2 Kings 25:13**
+
+[TODO]
+
+**2 Kings 25:14**
+
+[TODO]
+
+**2 Kings 25:15**
+
+[TODO]
+
+**2 Kings 25:16**
+
+[TODO]
+
+**2 Kings 25:17**
+
+[TODO]
+
+**2 Kings 25:18**
+
+[TODO]
+
+**2 Kings 25:19**
+
+[TODO]
+
+**2 Kings 25:20**
+
+[TODO]
+
+**2 Kings 25:21**
+
+[TODO]
+
+**2 Kings 25:22**
+
+[TODO]
+
+**2 Kings 25:23**
+
+[TODO]
+
+**2 Kings 25:24**
+
+[TODO]
+
+**2 Kings 25:25**
+
+[TODO]
+
+**2 Kings 25:26**
+
+[TODO]
+
+**2 Kings 25:27**
+
+[TODO]
+
+**2 Kings 25:28**
+
+[TODO]
+
+**2 Kings 25:29**
+
+[TODO]
+
+**2 Kings 25:30**
+
+[TODO]
+
+## 1 Chronicles
+
+### Chapter 1
+
+**1 Chronicles 1:1**
+
+[TODO]
+
+**1 Chronicles 1:2**
+
+[TODO]
+
+**1 Chronicles 1:3**
+
+[TODO]
+
+**1 Chronicles 1:4**
+
+[TODO]
+
+**1 Chronicles 1:5**
+
+[TODO]
+
+**1 Chronicles 1:6**
+
+[TODO]
+
+**1 Chronicles 1:7**
+
+[TODO]
+
+**1 Chronicles 1:8**
+
+[TODO]
+
+**1 Chronicles 1:9**
+
+[TODO]
+
+**1 Chronicles 1:10**
+
+[TODO]
+
+**1 Chronicles 1:17**
+
+[TODO]
+
+**1 Chronicles 1:24**
+
+[TODO]
+
+**1 Chronicles 1:25**
+
+[TODO]
+
+**1 Chronicles 1:26**
+
+[TODO]
+
+**1 Chronicles 1:27**
+
+[TODO]
+
+**1 Chronicles 1:28**
+
+[TODO]
+
+**1 Chronicles 1:29**
+
+[TODO]
+
+**1 Chronicles 1:30**
+
+[TODO]
+
+**1 Chronicles 1:31**
+
+[TODO]
+
+**1 Chronicles 1:32**
+
+[TODO]
+
+**1 Chronicles 1:33**
+
+[TODO]
+
+**1 Chronicles 1:34**
+
+[TODO]
+
+**1 Chronicles 1:35**
+
+[TODO]
+
+**1 Chronicles 1:36**
+
+[TODO]
+
+**1 Chronicles 1:37**
+
+[TODO]
+
+**1 Chronicles 1:38**
+
+[TODO]
+
+**1 Chronicles 1:39**
+
+[TODO]
+
+**1 Chronicles 1:40**
+
+[TODO]
+
+**1 Chronicles 1:41**
+
+[TODO]
+
+**1 Chronicles 1:42**
+
+[TODO]
+
+**1 Chronicles 1:43**
+
+[TODO]
+
+**1 Chronicles 1:44**
+
+[TODO]
+
+**1 Chronicles 1:45**
+
+[TODO]
+
+**1 Chronicles 1:46**
+
+[TODO]
+
+**1 Chronicles 1:47**
+
+[TODO]
+
+**1 Chronicles 1:48**
+
+[TODO]
+
+**1 Chronicles 1:49**
+
+[TODO]
+
+**1 Chronicles 1:50**
+
+[TODO]
+
+**1 Chronicles 1:51**
+
+[TODO]
+
+**1 Chronicles 1:52**
+
+[TODO]
+
+**1 Chronicles 1:53**
+
+[TODO]
+
+**1 Chronicles 1:54**
+
+[TODO]
+
+### Chapter 2
+
+**1 Chronicles 2:1**
+
+[TODO]
+
+**1 Chronicles 2:2**
+
+[TODO]
+
+**1 Chronicles 2:3**
+
+[TODO]
+
+**1 Chronicles 2:4**
+
+[TODO]
+
+**1 Chronicles 2:5**
+
+[TODO]
+
+**1 Chronicles 2:6**
+
+[TODO]
+
+**1 Chronicles 2:7**
+
+[TODO]
+
+**1 Chronicles 2:8**
+
+[TODO]
+
+**1 Chronicles 2:9**
+
+[TODO]
+
+**1 Chronicles 2:10**
+
+[TODO]
+
+**1 Chronicles 2:11**
+
+[TODO]
+
+**1 Chronicles 2:12**
+
+[TODO]
+
+**1 Chronicles 2:13**
+
+[TODO]
+
+**1 Chronicles 2:14**
+
+[TODO]
+
+**1 Chronicles 2:15**
+
+[TODO]
+
+**1 Chronicles 2:16**
+
+[TODO]
+
+**1 Chronicles 2:17**
+
+[TODO]
+
+**1 Chronicles 2:18**
+
+[TODO]
+
+**1 Chronicles 2:19**
+
+[TODO]
+
+**1 Chronicles 2:20**
+
+[TODO]
+
+**1 Chronicles 2:21**
+
+[TODO]
+
+**1 Chronicles 2:22**
+
+[TODO]
+
+**1 Chronicles 2:23**
+
+[TODO]
+
+**1 Chronicles 2:24**
+
+[TODO]
+
+**1 Chronicles 2:25**
+
+[TODO]
+
+**1 Chronicles 2:26**
+
+[TODO]
+
+**1 Chronicles 2:27**
+
+[TODO]
+
+**1 Chronicles 2:28**
+
+[TODO]
+
+**1 Chronicles 2:29**
+
+[TODO]
+
+**1 Chronicles 2:30**
+
+[TODO]
+
+**1 Chronicles 2:31**
+
+[TODO]
+
+**1 Chronicles 2:32**
+
+[TODO]
+
+**1 Chronicles 2:33**
+
+[TODO]
+
+**1 Chronicles 2:34**
+
+[TODO]
+
+**1 Chronicles 2:35**
+
+[TODO]
+
+**1 Chronicles 2:36**
+
+[TODO]
+
+**1 Chronicles 2:37**
+
+[TODO]
+
+**1 Chronicles 2:38**
+
+[TODO]
+
+**1 Chronicles 2:39**
+
+[TODO]
+
+**1 Chronicles 2:40**
+
+[TODO]
+
+**1 Chronicles 2:41**
+
+[TODO]
+
+**1 Chronicles 2:42**
+
+[TODO]
+
+**1 Chronicles 2:43**
+
+[TODO]
+
+**1 Chronicles 2:44**
+
+[TODO]
+
+**1 Chronicles 2:45**
+
+[TODO]
+
+**1 Chronicles 2:46**
+
+[TODO]
+
+**1 Chronicles 2:47**
+
+[TODO]
+
+**1 Chronicles 2:48**
+
+[TODO]
+
+**1 Chronicles 2:49**
+
+[TODO]
+
+**1 Chronicles 2:50**
+
+[TODO]
+
+**1 Chronicles 2:51**
+
+[TODO]
+
+**1 Chronicles 2:52**
+
+[TODO]
+
+**1 Chronicles 2:53**
+
+[TODO]
+
+**1 Chronicles 2:54**
+
+[TODO]
+
+**1 Chronicles 2:55**
+
+[TODO]
+
+### Chapter 3
+
+**1 Chronicles 3:1**
+
+[TODO]
+
+**1 Chronicles 3:2**
+
+[TODO]
+
+**1 Chronicles 3:3**
+
+[TODO]
+
+**1 Chronicles 3:4**
+
+[TODO]
+
+**1 Chronicles 3:5**
+
+[TODO]
+
+**1 Chronicles 3:6**
+
+[TODO]
+
+**1 Chronicles 3:7**
+
+[TODO]
+
+**1 Chronicles 3:8**
+
+[TODO]
+
+**1 Chronicles 3:9**
+
+[TODO]
+
+**1 Chronicles 3:10**
+
+[TODO]
+
+**1 Chronicles 3:11**
+
+[TODO]
+
+**1 Chronicles 3:12**
+
+[TODO]
+
+**1 Chronicles 3:13**
+
+[TODO]
+
+**1 Chronicles 3:14**
+
+[TODO]
+
+**1 Chronicles 3:15**
+
+[TODO]
+
+**1 Chronicles 3:16**
+
+[TODO]
+
+**1 Chronicles 3:17**
+
+[TODO]
+
+**1 Chronicles 3:18**
+
+[TODO]
+
+**1 Chronicles 3:19**
+
+[TODO]
+
+**1 Chronicles 3:20**
+
+[TODO]
+
+**1 Chronicles 3:21**
+
+[TODO]
+
+**1 Chronicles 3:22**
+
+[TODO]
+
+**1 Chronicles 3:23**
+
+[TODO]
+
+**1 Chronicles 3:24**
+
+[TODO]
+
+### Chapter 4
+
+**1 Chronicles 4:1**
+
+[TODO]
+
+**1 Chronicles 4:2**
+
+[TODO]
+
+**1 Chronicles 4:3**
+
+[TODO]
+
+**1 Chronicles 4:4**
+
+[TODO]
+
+**1 Chronicles 4:5**
+
+[TODO]
+
+**1 Chronicles 4:6**
+
+[TODO]
+
+**1 Chronicles 4:7**
+
+[TODO]
+
+**1 Chronicles 4:8**
+
+[TODO]
+
+**1 Chronicles 4:9**
+
+[TODO]
+
+**1 Chronicles 4:10**
+
+[TODO]
+
+**1 Chronicles 4:11**
+
+[TODO]
+
+**1 Chronicles 4:12**
+
+[TODO]
+
+**1 Chronicles 4:13**
+
+[TODO]
+
+**1 Chronicles 4:14**
+
+[TODO]
+
+**1 Chronicles 4:15**
+
+[TODO]
+
+**1 Chronicles 4:16**
+
+[TODO]
+
+**1 Chronicles 4:17**
+
+[TODO]
+
+**1 Chronicles 4:18**
+
+[TODO]
+
+**1 Chronicles 4:19**
+
+[TODO]
+
+**1 Chronicles 4:20**
+
+[TODO]
+
+**1 Chronicles 4:21**
+
+[TODO]
+
+**1 Chronicles 4:22**
+
+[TODO]
+
+**1 Chronicles 4:23**
+
+[TODO]
+
+**1 Chronicles 4:24**
+
+[TODO]
+
+**1 Chronicles 4:25**
+
+[TODO]
+
+**1 Chronicles 4:26**
+
+[TODO]
+
+**1 Chronicles 4:27**
+
+[TODO]
+
+**1 Chronicles 4:28**
+
+[TODO]
+
+**1 Chronicles 4:29**
+
+[TODO]
+
+**1 Chronicles 4:30**
+
+[TODO]
+
+**1 Chronicles 4:31**
+
+[TODO]
+
+**1 Chronicles 4:32**
+
+[TODO]
+
+**1 Chronicles 4:33**
+
+[TODO]
+
+**1 Chronicles 4:34**
+
+[TODO]
+
+**1 Chronicles 4:35**
+
+[TODO]
+
+**1 Chronicles 4:36**
+
+[TODO]
+
+**1 Chronicles 4:37**
+
+[TODO]
+
+**1 Chronicles 4:38**
+
+[TODO]
+
+**1 Chronicles 4:39**
+
+[TODO]
+
+**1 Chronicles 4:40**
+
+[TODO]
+
+**1 Chronicles 4:41**
+
+[TODO]
+
+**1 Chronicles 4:42**
+
+[TODO]
+
+**1 Chronicles 4:43**
+
+[TODO]
+
+### Chapter 5
+
+**1 Chronicles 5:1**
+
+[TODO]
+
+**1 Chronicles 5:2**
+
+[TODO]
+
+**1 Chronicles 5:3**
+
+[TODO]
+
+**1 Chronicles 5:4**
+
+[TODO]
+
+**1 Chronicles 5:5**
+
+[TODO]
+
+**1 Chronicles 5:6**
+
+[TODO]
+
+**1 Chronicles 5:7**
+
+[TODO]
+
+**1 Chronicles 5:8**
+
+[TODO]
+
+**1 Chronicles 5:9**
+
+[TODO]
+
+**1 Chronicles 5:10**
+
+[TODO]
+
+**1 Chronicles 5:11**
+
+[TODO]
+
+**1 Chronicles 5:12**
+
+[TODO]
+
+**1 Chronicles 5:13**
+
+[TODO]
+
+**1 Chronicles 5:14**
+
+[TODO]
+
+**1 Chronicles 5:15**
+
+[TODO]
+
+**1 Chronicles 5:16**
+
+[TODO]
+
+**1 Chronicles 5:17**
+
+[TODO]
+
+**1 Chronicles 5:18**
+
+[TODO]
+
+**1 Chronicles 5:19**
+
+[TODO]
+
+**1 Chronicles 5:20**
+
+[TODO]
+
+**1 Chronicles 5:21**
+
+[TODO]
+
+**1 Chronicles 5:22**
+
+[TODO]
+
+**1 Chronicles 5:23**
+
+[TODO]
+
+**1 Chronicles 5:24**
+
+[TODO]
+
+**1 Chronicles 5:25**
+
+[TODO]
+
+**1 Chronicles 5:26**
+
+[TODO]
+
+**1 Chronicles 5:27**
+
+[TODO]
+
+**1 Chronicles 5:28**
+
+[TODO]
+
+**1 Chronicles 5:29**
+
+[TODO]
+
+**1 Chronicles 5:30**
+
+[TODO]
+
+**1 Chronicles 5:31**
+
+[TODO]
+
+**1 Chronicles 5:32**
+
+[TODO]
+
+**1 Chronicles 5:33**
+
+[TODO]
+
+**1 Chronicles 5:34**
+
+[TODO]
+
+**1 Chronicles 5:35**
+
+[TODO]
+
+**1 Chronicles 5:36**
+
+[TODO]
+
+**1 Chronicles 5:37**
+
+[TODO]
+
+**1 Chronicles 5:38**
+
+[TODO]
+
+**1 Chronicles 5:39**
+
+[TODO]
+
+**1 Chronicles 5:40**
+
+[TODO]
+
+**1 Chronicles 5:41**
+
+[TODO]
+
+### Chapter 6
+
+**1 Chronicles 6:1**
+
+[TODO]
+
+**1 Chronicles 6:2**
+
+[TODO]
+
+**1 Chronicles 6:3**
+
+[TODO]
+
+**1 Chronicles 6:4**
+
+[TODO]
+
+**1 Chronicles 6:5**
+
+[TODO]
+
+**1 Chronicles 6:6**
+
+[TODO]
+
+**1 Chronicles 6:7**
+
+[TODO]
+
+**1 Chronicles 6:8**
+
+[TODO]
+
+**1 Chronicles 6:9**
+
+[TODO]
+
+**1 Chronicles 6:10**
+
+[TODO]
+
+**1 Chronicles 6:11**
+
+[TODO]
+
+**1 Chronicles 6:12**
+
+[TODO]
+
+**1 Chronicles 6:13**
+
+[TODO]
+
+**1 Chronicles 6:14**
+
+[TODO]
+
+**1 Chronicles 6:15**
+
+[TODO]
+
+**1 Chronicles 6:16**
+
+[TODO]
+
+**1 Chronicles 6:17**
+
+[TODO]
+
+**1 Chronicles 6:18**
+
+[TODO]
+
+**1 Chronicles 6:19**
+
+[TODO]
+
+**1 Chronicles 6:20**
+
+[TODO]
+
+**1 Chronicles 6:21**
+
+[TODO]
+
+**1 Chronicles 6:22**
+
+[TODO]
+
+**1 Chronicles 6:23**
+
+[TODO]
+
+**1 Chronicles 6:24**
+
+[TODO]
+
+**1 Chronicles 6:25**
+
+[TODO]
+
+**1 Chronicles 6:26**
+
+[TODO]
+
+**1 Chronicles 6:27**
+
+[TODO]
+
+**1 Chronicles 6:28**
+
+[TODO]
+
+**1 Chronicles 6:29**
+
+[TODO]
+
+**1 Chronicles 6:30**
+
+[TODO]
+
+**1 Chronicles 6:31**
+
+[TODO]
+
+**1 Chronicles 6:32**
+
+[TODO]
+
+**1 Chronicles 6:33**
+
+[TODO]
+
+**1 Chronicles 6:34**
+
+[TODO]
+
+**1 Chronicles 6:35**
+
+[TODO]
+
+**1 Chronicles 6:36**
+
+[TODO]
+
+**1 Chronicles 6:37**
+
+[TODO]
+
+**1 Chronicles 6:38**
+
+[TODO]
+
+**1 Chronicles 6:39**
+
+[TODO]
+
+**1 Chronicles 6:40**
+
+[TODO]
+
+**1 Chronicles 6:41**
+
+[TODO]
+
+**1 Chronicles 6:42**
+
+[TODO]
+
+**1 Chronicles 6:43**
+
+[TODO]
+
+**1 Chronicles 6:44**
+
+[TODO]
+
+**1 Chronicles 6:45**
+
+[TODO]
+
+**1 Chronicles 6:46**
+
+[TODO]
+
+**1 Chronicles 6:47**
+
+[TODO]
+
+**1 Chronicles 6:48**
+
+[TODO]
+
+**1 Chronicles 6:49**
+
+[TODO]
+
+**1 Chronicles 6:50**
+
+[TODO]
+
+**1 Chronicles 6:51**
+
+[TODO]
+
+**1 Chronicles 6:52**
+
+[TODO]
+
+**1 Chronicles 6:53**
+
+[TODO]
+
+**1 Chronicles 6:54**
+
+[TODO]
+
+**1 Chronicles 6:55**
+
+[TODO]
+
+**1 Chronicles 6:56**
+
+[TODO]
+
+**1 Chronicles 6:57**
+
+[TODO]
+
+**1 Chronicles 6:58**
+
+[TODO]
+
+**1 Chronicles 6:59**
+
+[TODO]
+
+**1 Chronicles 6:60**
+
+[TODO]
+
+**1 Chronicles 6:61**
+
+[TODO]
+
+**1 Chronicles 6:62**
+
+[TODO]
+
+**1 Chronicles 6:63**
+
+[TODO]
+
+**1 Chronicles 6:64**
+
+[TODO]
+
+**1 Chronicles 6:65**
+
+[TODO]
+
+**1 Chronicles 6:66**
+
+[TODO]
+
+### Chapter 7
+
+**1 Chronicles 7:1**
+
+[TODO]
+
+**1 Chronicles 7:2**
+
+[TODO]
+
+**1 Chronicles 7:3**
+
+[TODO]
+
+**1 Chronicles 7:4**
+
+[TODO]
+
+**1 Chronicles 7:5**
+
+[TODO]
+
+**1 Chronicles 7:6**
+
+[TODO]
+
+**1 Chronicles 7:7**
+
+[TODO]
+
+**1 Chronicles 7:8**
+
+[TODO]
+
+**1 Chronicles 7:9**
+
+[TODO]
+
+**1 Chronicles 7:10**
+
+[TODO]
+
+**1 Chronicles 7:11**
+
+[TODO]
+
+**1 Chronicles 7:12**
+
+[TODO]
+
+**1 Chronicles 7:13**
+
+[TODO]
+
+**1 Chronicles 7:14**
+
+[TODO]
+
+**1 Chronicles 7:15**
+
+[TODO]
+
+**1 Chronicles 7:16**
+
+[TODO]
+
+**1 Chronicles 7:17**
+
+[TODO]
+
+**1 Chronicles 7:18**
+
+[TODO]
+
+**1 Chronicles 7:19**
+
+[TODO]
+
+**1 Chronicles 7:20**
+
+[TODO]
+
+**1 Chronicles 7:21**
+
+[TODO]
+
+**1 Chronicles 7:22**
+
+[TODO]
+
+**1 Chronicles 7:23**
+
+[TODO]
+
+**1 Chronicles 7:24**
+
+[TODO]
+
+**1 Chronicles 7:25**
+
+[TODO]
+
+**1 Chronicles 7:26**
+
+[TODO]
+
+**1 Chronicles 7:27**
+
+[TODO]
+
+**1 Chronicles 7:28**
+
+[TODO]
+
+**1 Chronicles 7:29**
+
+[TODO]
+
+**1 Chronicles 7:30**
+
+[TODO]
+
+**1 Chronicles 7:31**
+
+[TODO]
+
+**1 Chronicles 7:32**
+
+[TODO]
+
+**1 Chronicles 7:33**
+
+[TODO]
+
+**1 Chronicles 7:34**
+
+[TODO]
+
+**1 Chronicles 7:35**
+
+[TODO]
+
+**1 Chronicles 7:36**
+
+[TODO]
+
+**1 Chronicles 7:37**
+
+[TODO]
+
+**1 Chronicles 7:38**
+
+[TODO]
+
+**1 Chronicles 7:39**
+
+[TODO]
+
+**1 Chronicles 7:40**
+
+[TODO]
+
+### Chapter 8
+
+**1 Chronicles 8:1**
+
+[TODO]
+
+**1 Chronicles 8:2**
+
+[TODO]
+
+**1 Chronicles 8:3**
+
+[TODO]
+
+**1 Chronicles 8:4**
+
+[TODO]
+
+**1 Chronicles 8:5**
+
+[TODO]
+
+**1 Chronicles 8:6**
+
+[TODO]
+
+**1 Chronicles 8:7**
+
+[TODO]
+
+**1 Chronicles 8:8**
+
+[TODO]
+
+**1 Chronicles 8:9**
+
+[TODO]
+
+**1 Chronicles 8:10**
+
+[TODO]
+
+**1 Chronicles 8:11**
+
+[TODO]
+
+**1 Chronicles 8:12**
+
+[TODO]
+
+**1 Chronicles 8:13**
+
+[TODO]
+
+**1 Chronicles 8:14**
+
+[TODO]
+
+**1 Chronicles 8:15**
+
+[TODO]
+
+**1 Chronicles 8:16**
+
+[TODO]
+
+**1 Chronicles 8:17**
+
+[TODO]
+
+**1 Chronicles 8:18**
+
+[TODO]
+
+**1 Chronicles 8:19**
+
+[TODO]
+
+**1 Chronicles 8:20**
+
+[TODO]
+
+**1 Chronicles 8:21**
+
+[TODO]
+
+**1 Chronicles 8:22**
+
+[TODO]
+
+**1 Chronicles 8:23**
+
+[TODO]
+
+**1 Chronicles 8:24**
+
+[TODO]
+
+**1 Chronicles 8:25**
+
+[TODO]
+
+**1 Chronicles 8:26**
+
+[TODO]
+
+**1 Chronicles 8:27**
+
+[TODO]
+
+**1 Chronicles 8:28**
+
+[TODO]
+
+**1 Chronicles 8:29**
+
+[TODO]
+
+**1 Chronicles 8:30**
+
+[TODO]
+
+**1 Chronicles 8:31**
+
+[TODO]
+
+**1 Chronicles 8:32**
+
+[TODO]
+
+**1 Chronicles 8:33**
+
+[TODO]
+
+**1 Chronicles 8:34**
+
+[TODO]
+
+**1 Chronicles 8:35**
+
+[TODO]
+
+**1 Chronicles 8:36**
+
+[TODO]
+
+**1 Chronicles 8:37**
+
+[TODO]
+
+**1 Chronicles 8:38**
+
+[TODO]
+
+**1 Chronicles 8:39**
+
+[TODO]
+
+**1 Chronicles 8:40**
+
+[TODO]
+
+### Chapter 9
+
+**1 Chronicles 9:1**
+
+[TODO]
+
+**1 Chronicles 9:2**
+
+[TODO]
+
+**1 Chronicles 9:3**
+
+[TODO]
+
+**1 Chronicles 9:4**
+
+[TODO]
+
+**1 Chronicles 9:5**
+
+[TODO]
+
+**1 Chronicles 9:6**
+
+[TODO]
+
+**1 Chronicles 9:7**
+
+[TODO]
+
+**1 Chronicles 9:8**
+
+[TODO]
+
+**1 Chronicles 9:9**
+
+[TODO]
+
+**1 Chronicles 9:10**
+
+[TODO]
+
+**1 Chronicles 9:11**
+
+[TODO]
+
+**1 Chronicles 9:12**
+
+[TODO]
+
+**1 Chronicles 9:13**
+
+[TODO]
+
+**1 Chronicles 9:14**
+
+[TODO]
+
+**1 Chronicles 9:15**
+
+[TODO]
+
+**1 Chronicles 9:16**
+
+[TODO]
+
+**1 Chronicles 9:17**
+
+[TODO]
+
+**1 Chronicles 9:18**
+
+[TODO]
+
+**1 Chronicles 9:19**
+
+[TODO]
+
+**1 Chronicles 9:20**
+
+[TODO]
+
+**1 Chronicles 9:21**
+
+[TODO]
+
+**1 Chronicles 9:22**
+
+[TODO]
+
+**1 Chronicles 9:23**
+
+[TODO]
+
+**1 Chronicles 9:24**
+
+[TODO]
+
+**1 Chronicles 9:25**
+
+[TODO]
+
+**1 Chronicles 9:26**
+
+[TODO]
+
+**1 Chronicles 9:27**
+
+[TODO]
+
+**1 Chronicles 9:28**
+
+[TODO]
+
+**1 Chronicles 9:29**
+
+[TODO]
+
+**1 Chronicles 9:30**
+
+[TODO]
+
+**1 Chronicles 9:31**
+
+[TODO]
+
+**1 Chronicles 9:32**
+
+[TODO]
+
+**1 Chronicles 9:33**
+
+[TODO]
+
+**1 Chronicles 9:34**
+
+[TODO]
+
+**1 Chronicles 9:35**
+
+[TODO]
+
+**1 Chronicles 9:36**
+
+[TODO]
+
+**1 Chronicles 9:37**
+
+[TODO]
+
+**1 Chronicles 9:38**
+
+[TODO]
+
+**1 Chronicles 9:39**
+
+[TODO]
+
+**1 Chronicles 9:40**
+
+[TODO]
+
+**1 Chronicles 9:41**
+
+[TODO]
+
+**1 Chronicles 9:42**
+
+[TODO]
+
+**1 Chronicles 9:43**
+
+[TODO]
+
+**1 Chronicles 9:44**
+
+[TODO]
+
+### Chapter 10
+
+**1 Chronicles 10:1**
+
+[TODO]
+
+**1 Chronicles 10:2**
+
+[TODO]
+
+**1 Chronicles 10:3**
+
+[TODO]
+
+**1 Chronicles 10:4**
+
+[TODO]
+
+**1 Chronicles 10:5**
+
+[TODO]
+
+**1 Chronicles 10:6**
+
+[TODO]
+
+**1 Chronicles 10:7**
+
+[TODO]
+
+**1 Chronicles 10:8**
+
+[TODO]
+
+**1 Chronicles 10:9**
+
+[TODO]
+
+**1 Chronicles 10:10**
+
+[TODO]
+
+**1 Chronicles 10:11**
+
+[TODO]
+
+**1 Chronicles 10:12**
+
+[TODO]
+
+**1 Chronicles 10:13**
+
+[TODO]
+
+**1 Chronicles 10:14**
+
+[TODO]
+
+### Chapter 11
+
+**1 Chronicles 11:1**
+
+[TODO]
+
+**1 Chronicles 11:2**
+
+[TODO]
+
+**1 Chronicles 11:3**
+
+[TODO]
+
+**1 Chronicles 11:4**
+
+[TODO]
+
+**1 Chronicles 11:5**
+
+[TODO]
+
+**1 Chronicles 11:6**
+
+[TODO]
+
+**1 Chronicles 11:7**
+
+[TODO]
+
+**1 Chronicles 11:8**
+
+[TODO]
+
+**1 Chronicles 11:9**
+
+[TODO]
+
+**1 Chronicles 11:10**
+
+[TODO]
+
+**1 Chronicles 11:11**
+
+[TODO]
+
+**1 Chronicles 11:12**
+
+[TODO]
+
+**1 Chronicles 11:13**
+
+[TODO]
+
+**1 Chronicles 11:14**
+
+[TODO]
+
+**1 Chronicles 11:15**
+
+[TODO]
+
+**1 Chronicles 11:16**
+
+[TODO]
+
+**1 Chronicles 11:17**
+
+[TODO]
+
+**1 Chronicles 11:18**
+
+[TODO]
+
+**1 Chronicles 11:19**
+
+[TODO]
+
+**1 Chronicles 11:20**
+
+[TODO]
+
+**1 Chronicles 11:21**
+
+[TODO]
+
+**1 Chronicles 11:22**
+
+[TODO]
+
+**1 Chronicles 11:23**
+
+[TODO]
+
+**1 Chronicles 11:24**
+
+[TODO]
+
+**1 Chronicles 11:25**
+
+[TODO]
+
+**1 Chronicles 11:26**
+
+[TODO]
+
+**1 Chronicles 11:27**
+
+[TODO]
+
+**1 Chronicles 11:28**
+
+[TODO]
+
+**1 Chronicles 11:29**
+
+[TODO]
+
+**1 Chronicles 11:30**
+
+[TODO]
+
+**1 Chronicles 11:31**
+
+[TODO]
+
+**1 Chronicles 11:32**
+
+[TODO]
+
+**1 Chronicles 11:33**
+
+[TODO]
+
+**1 Chronicles 11:34**
+
+[TODO]
+
+**1 Chronicles 11:35**
+
+[TODO]
+
+**1 Chronicles 11:36**
+
+[TODO]
+
+**1 Chronicles 11:37**
+
+[TODO]
+
+**1 Chronicles 11:38**
+
+[TODO]
+
+**1 Chronicles 11:39**
+
+[TODO]
+
+**1 Chronicles 11:40**
+
+[TODO]
+
+**1 Chronicles 11:41**
+
+[TODO]
+
+**1 Chronicles 11:42**
+
+[TODO]
+
+**1 Chronicles 11:43**
+
+[TODO]
+
+**1 Chronicles 11:44**
+
+[TODO]
+
+**1 Chronicles 11:45**
+
+[TODO]
+
+**1 Chronicles 11:46**
+
+[TODO]
+
+**1 Chronicles 11:47**
+
+[TODO]
+
+### Chapter 12
+
+**1 Chronicles 12:1**
+
+[TODO]
+
+**1 Chronicles 12:2**
+
+[TODO]
+
+**1 Chronicles 12:3**
+
+[TODO]
+
+**1 Chronicles 12:4**
+
+[TODO]
+
+**1 Chronicles 12:5**
+
+[TODO]
+
+**1 Chronicles 12:6**
+
+[TODO]
+
+**1 Chronicles 12:7**
+
+[TODO]
+
+**1 Chronicles 12:8**
+
+[TODO]
+
+**1 Chronicles 12:9**
+
+[TODO]
+
+**1 Chronicles 12:10**
+
+[TODO]
+
+**1 Chronicles 12:11**
+
+[TODO]
+
+**1 Chronicles 12:12**
+
+[TODO]
+
+**1 Chronicles 12:13**
+
+[TODO]
+
+**1 Chronicles 12:14**
+
+[TODO]
+
+**1 Chronicles 12:15**
+
+[TODO]
+
+**1 Chronicles 12:16**
+
+[TODO]
+
+**1 Chronicles 12:17**
+
+[TODO]
+
+**1 Chronicles 12:18**
+
+[TODO]
+
+**1 Chronicles 12:19**
+
+[TODO]
+
+**1 Chronicles 12:20**
+
+[TODO]
+
+**1 Chronicles 12:21**
+
+[TODO]
+
+**1 Chronicles 12:22**
+
+[TODO]
+
+**1 Chronicles 12:23**
+
+[TODO]
+
+**1 Chronicles 12:24**
+
+[TODO]
+
+**1 Chronicles 12:25**
+
+[TODO]
+
+**1 Chronicles 12:26**
+
+[TODO]
+
+**1 Chronicles 12:27**
+
+[TODO]
+
+**1 Chronicles 12:28**
+
+[TODO]
+
+**1 Chronicles 12:29**
+
+[TODO]
+
+**1 Chronicles 12:30**
+
+[TODO]
+
+**1 Chronicles 12:31**
+
+[TODO]
+
+**1 Chronicles 12:32**
+
+[TODO]
+
+**1 Chronicles 12:33**
+
+[TODO]
+
+**1 Chronicles 12:34**
+
+[TODO]
+
+**1 Chronicles 12:35**
+
+[TODO]
+
+**1 Chronicles 12:36**
+
+[TODO]
+
+**1 Chronicles 12:37**
+
+[TODO]
+
+**1 Chronicles 12:38**
+
+[TODO]
+
+**1 Chronicles 12:39**
+
+[TODO]
+
+**1 Chronicles 12:40**
+
+[TODO]
+
+**1 Chronicles 12:41**
+
+[TODO]
+
+### Chapter 13
+
+**1 Chronicles 13:1**
+
+[TODO]
+
+**1 Chronicles 13:2**
+
+[TODO]
+
+**1 Chronicles 13:3**
+
+[TODO]
+
+**1 Chronicles 13:4**
+
+[TODO]
+
+**1 Chronicles 13:5**
+
+[TODO]
+
+**1 Chronicles 13:6**
+
+[TODO]
+
+**1 Chronicles 13:7**
+
+[TODO]
+
+**1 Chronicles 13:8**
+
+[TODO]
+
+**1 Chronicles 13:9**
+
+[TODO]
+
+**1 Chronicles 13:10**
+
+[TODO]
+
+**1 Chronicles 13:11**
+
+[TODO]
+
+**1 Chronicles 13:12**
+
+[TODO]
+
+**1 Chronicles 13:13**
+
+[TODO]
+
+**1 Chronicles 13:14**
+
+[TODO]
+
+### Chapter 14
+
+**1 Chronicles 14:1**
+
+[TODO]
+
+**1 Chronicles 14:2**
+
+[TODO]
+
+**1 Chronicles 14:3**
+
+[TODO]
+
+**1 Chronicles 14:4**
+
+[TODO]
+
+**1 Chronicles 14:5**
+
+[TODO]
+
+**1 Chronicles 14:6**
+
+[TODO]
+
+**1 Chronicles 14:7**
+
+[TODO]
+
+**1 Chronicles 14:8**
+
+[TODO]
+
+**1 Chronicles 14:9**
+
+[TODO]
+
+**1 Chronicles 14:10**
+
+[TODO]
+
+**1 Chronicles 14:11**
+
+[TODO]
+
+**1 Chronicles 14:12**
+
+[TODO]
+
+**1 Chronicles 14:13**
+
+[TODO]
+
+**1 Chronicles 14:14**
+
+[TODO]
+
+**1 Chronicles 14:15**
+
+[TODO]
+
+**1 Chronicles 14:16**
+
+[TODO]
+
+**1 Chronicles 14:17**
+
+[TODO]
+
+### Chapter 15
+
+**1 Chronicles 15:1**
+
+[TODO]
+
+**1 Chronicles 15:2**
+
+[TODO]
+
+**1 Chronicles 15:3**
+
+[TODO]
+
+**1 Chronicles 15:4**
+
+[TODO]
+
+**1 Chronicles 15:5**
+
+[TODO]
+
+**1 Chronicles 15:6**
+
+[TODO]
+
+**1 Chronicles 15:7**
+
+[TODO]
+
+**1 Chronicles 15:8**
+
+[TODO]
+
+**1 Chronicles 15:9**
+
+[TODO]
+
+**1 Chronicles 15:10**
+
+[TODO]
+
+**1 Chronicles 15:11**
+
+[TODO]
+
+**1 Chronicles 15:12**
+
+[TODO]
+
+**1 Chronicles 15:13**
+
+[TODO]
+
+**1 Chronicles 15:14**
+
+[TODO]
+
+**1 Chronicles 15:15**
+
+[TODO]
+
+**1 Chronicles 15:16**
+
+[TODO]
+
+**1 Chronicles 15:17**
+
+[TODO]
+
+**1 Chronicles 15:18**
+
+[TODO]
+
+**1 Chronicles 15:19**
+
+[TODO]
+
+**1 Chronicles 15:20**
+
+[TODO]
+
+**1 Chronicles 15:21**
+
+[TODO]
+
+**1 Chronicles 15:22**
+
+[TODO]
+
+**1 Chronicles 15:23**
+
+[TODO]
+
+**1 Chronicles 15:24**
+
+[TODO]
+
+**1 Chronicles 15:25**
+
+[TODO]
+
+**1 Chronicles 15:26**
+
+[TODO]
+
+**1 Chronicles 15:27**
+
+[TODO]
+
+**1 Chronicles 15:28**
+
+[TODO]
+
+**1 Chronicles 15:29**
+
+[TODO]
+
+### Chapter 16
+
+**1 Chronicles 16:1**
+
+[TODO]
+
+**1 Chronicles 16:2**
+
+[TODO]
+
+**1 Chronicles 16:3**
+
+[TODO]
+
+**1 Chronicles 16:4**
+
+[TODO]
+
+**1 Chronicles 16:5**
+
+[TODO]
+
+**1 Chronicles 16:6**
+
+[TODO]
+
+**1 Chronicles 16:7**
+
+[TODO]
+
+**1 Chronicles 16:8**
+
+[TODO]
+
+**1 Chronicles 16:9**
+
+[TODO]
+
+**1 Chronicles 16:10**
+
+[TODO]
+
+**1 Chronicles 16:11**
+
+[TODO]
+
+**1 Chronicles 16:12**
+
+[TODO]
+
+**1 Chronicles 16:13**
+
+[TODO]
+
+**1 Chronicles 16:14**
+
+[TODO]
+
+**1 Chronicles 16:15**
+
+[TODO]
+
+**1 Chronicles 16:16**
+
+[TODO]
+
+**1 Chronicles 16:17**
+
+[TODO]
+
+**1 Chronicles 16:18**
+
+[TODO]
+
+**1 Chronicles 16:19**
+
+[TODO]
+
+**1 Chronicles 16:20**
+
+[TODO]
+
+**1 Chronicles 16:21**
+
+[TODO]
+
+**1 Chronicles 16:22**
+
+[TODO]
+
+**1 Chronicles 16:23**
+
+[TODO]
+
+**1 Chronicles 16:25**
+
+[TODO]
+
+**1 Chronicles 16:26**
+
+[TODO]
+
+**1 Chronicles 16:27**
+
+[TODO]
+
+**1 Chronicles 16:28**
+
+[TODO]
+
+**1 Chronicles 16:29**
+
+[TODO]
+
+**1 Chronicles 16:30**
+
+[TODO]
+
+**1 Chronicles 16:31**
+
+[TODO]
+
+**1 Chronicles 16:32**
+
+[TODO]
+
+**1 Chronicles 16:33**
+
+[TODO]
+
+**1 Chronicles 16:34**
+
+[TODO]
+
+**1 Chronicles 16:35**
+
+[TODO]
+
+**1 Chronicles 16:36**
+
+[TODO]
+
+**1 Chronicles 16:37**
+
+[TODO]
+
+**1 Chronicles 16:38**
+
+[TODO]
+
+**1 Chronicles 16:39**
+
+[TODO]
+
+**1 Chronicles 16:40**
+
+[TODO]
+
+**1 Chronicles 16:41**
+
+[TODO]
+
+**1 Chronicles 16:42**
+
+[TODO]
+
+**1 Chronicles 16:43**
+
+[TODO]
+
+### Chapter 17
+
+**1 Chronicles 17:1**
+
+[TODO]
+
+**1 Chronicles 17:2**
+
+[TODO]
+
+**1 Chronicles 17:3**
+
+[TODO]
+
+**1 Chronicles 17:4**
+
+[TODO]
+
+**1 Chronicles 17:5**
+
+[TODO]
+
+**1 Chronicles 17:6**
+
+[TODO]
+
+**1 Chronicles 17:7**
+
+[TODO]
+
+**1 Chronicles 17:8**
+
+[TODO]
+
+**1 Chronicles 17:9**
+
+[TODO]
+
+**1 Chronicles 17:10**
+
+[TODO]
+
+**1 Chronicles 17:11**
+
+[TODO]
+
+**1 Chronicles 17:12**
+
+[TODO]
+
+**1 Chronicles 17:13**
+
+[TODO]
+
+**1 Chronicles 17:14**
+
+[TODO]
+
+**1 Chronicles 17:15**
+
+[TODO]
+
+**1 Chronicles 17:16**
+
+[TODO]
+
+**1 Chronicles 17:17**
+
+[TODO]
+
+**1 Chronicles 17:18**
+
+[TODO]
+
+**1 Chronicles 17:19**
+
+[TODO]
+
+**1 Chronicles 17:20**
+
+[TODO]
+
+**1 Chronicles 17:21**
+
+[TODO]
+
+**1 Chronicles 17:22**
+
+[TODO]
+
+**1 Chronicles 17:23**
+
+[TODO]
+
+**1 Chronicles 17:24**
+
+[TODO]
+
+**1 Chronicles 17:25**
+
+[TODO]
+
+**1 Chronicles 17:26**
+
+[TODO]
+
+**1 Chronicles 17:27**
+
+[TODO]
+
+### Chapter 18
+
+**1 Chronicles 18:1**
+
+[TODO]
+
+**1 Chronicles 18:2**
+
+[TODO]
+
+**1 Chronicles 18:3**
+
+[TODO]
+
+**1 Chronicles 18:4**
+
+[TODO]
+
+**1 Chronicles 18:5**
+
+[TODO]
+
+**1 Chronicles 18:6**
+
+[TODO]
+
+**1 Chronicles 18:7**
+
+[TODO]
+
+**1 Chronicles 18:8**
+
+[TODO]
+
+**1 Chronicles 18:9**
+
+[TODO]
+
+**1 Chronicles 18:10**
+
+[TODO]
+
+**1 Chronicles 18:11**
+
+[TODO]
+
+**1 Chronicles 18:12**
+
+[TODO]
+
+**1 Chronicles 18:13**
+
+[TODO]
+
+**1 Chronicles 18:14**
+
+[TODO]
+
+**1 Chronicles 18:15**
+
+[TODO]
+
+**1 Chronicles 18:16**
+
+[TODO]
+
+**1 Chronicles 18:17**
+
+[TODO]
+
+### Chapter 19
+
+**1 Chronicles 19:1**
+
+[TODO]
+
+**1 Chronicles 19:2**
+
+[TODO]
+
+**1 Chronicles 19:3**
+
+[TODO]
+
+**1 Chronicles 19:4**
+
+[TODO]
+
+**1 Chronicles 19:5**
+
+[TODO]
+
+**1 Chronicles 19:6**
+
+[TODO]
+
+**1 Chronicles 19:7**
+
+[TODO]
+
+**1 Chronicles 19:8**
+
+[TODO]
+
+**1 Chronicles 19:9**
+
+[TODO]
+
+**1 Chronicles 19:10**
+
+[TODO]
+
+**1 Chronicles 19:11**
+
+[TODO]
+
+**1 Chronicles 19:12**
+
+[TODO]
+
+**1 Chronicles 19:13**
+
+[TODO]
+
+**1 Chronicles 19:14**
+
+[TODO]
+
+**1 Chronicles 19:15**
+
+[TODO]
+
+**1 Chronicles 19:16**
+
+[TODO]
+
+**1 Chronicles 19:17**
+
+[TODO]
+
+**1 Chronicles 19:18**
+
+[TODO]
+
+**1 Chronicles 19:19**
+
+[TODO]
+
+### Chapter 20
+
+**1 Chronicles 20:1**
+
+[TODO]
+
+**1 Chronicles 20:2**
+
+[TODO]
+
+**1 Chronicles 20:3**
+
+[TODO]
+
+**1 Chronicles 20:4**
+
+[TODO]
+
+**1 Chronicles 20:5**
+
+[TODO]
+
+**1 Chronicles 20:6**
+
+[TODO]
+
+**1 Chronicles 20:7**
+
+[TODO]
+
+**1 Chronicles 20:8**
+
+[TODO]
+
+### Chapter 21
+
+**1 Chronicles 21:1**
+
+[TODO]
+
+**1 Chronicles 21:2**
+
+[TODO]
+
+**1 Chronicles 21:3**
+
+[TODO]
+
+**1 Chronicles 21:4**
+
+[TODO]
+
+**1 Chronicles 21:5**
+
+[TODO]
+
+**1 Chronicles 21:6**
+
+[TODO]
+
+**1 Chronicles 21:7**
+
+[TODO]
+
+**1 Chronicles 21:8**
+
+[TODO]
+
+**1 Chronicles 21:9**
+
+[TODO]
+
+**1 Chronicles 21:10**
+
+[TODO]
+
+**1 Chronicles 21:11**
+
+[TODO]
+
+**1 Chronicles 21:12**
+
+[TODO]
+
+**1 Chronicles 21:13**
+
+[TODO]
+
+**1 Chronicles 21:14**
+
+[TODO]
+
+**1 Chronicles 21:15**
+
+[TODO]
+
+**1 Chronicles 21:16**
+
+[TODO]
+
+**1 Chronicles 21:17**
+
+[TODO]
+
+**1 Chronicles 21:18**
+
+[TODO]
+
+**1 Chronicles 21:19**
+
+[TODO]
+
+**1 Chronicles 21:20**
+
+[TODO]
+
+**1 Chronicles 21:21**
+
+[TODO]
+
+**1 Chronicles 21:22**
+
+[TODO]
+
+**1 Chronicles 21:23**
+
+[TODO]
+
+**1 Chronicles 21:24**
+
+[TODO]
+
+**1 Chronicles 21:25**
+
+[TODO]
+
+**1 Chronicles 21:26**
+
+[TODO]
+
+**1 Chronicles 21:27**
+
+[TODO]
+
+**1 Chronicles 21:28**
+
+[TODO]
+
+**1 Chronicles 21:29**
+
+[TODO]
+
+**1 Chronicles 21:30**
+
+[TODO]
+
+### Chapter 22
+
+**1 Chronicles 22:1**
+
+[TODO]
+
+**1 Chronicles 22:2**
+
+[TODO]
+
+**1 Chronicles 22:3**
+
+[TODO]
+
+**1 Chronicles 22:4**
+
+[TODO]
+
+**1 Chronicles 22:5**
+
+[TODO]
+
+**1 Chronicles 22:6**
+
+[TODO]
+
+**1 Chronicles 22:7**
+
+[TODO]
+
+**1 Chronicles 22:8**
+
+[TODO]
+
+**1 Chronicles 22:9**
+
+[TODO]
+
+**1 Chronicles 22:10**
+
+[TODO]
+
+**1 Chronicles 22:11**
+
+[TODO]
+
+**1 Chronicles 22:12**
+
+[TODO]
+
+**1 Chronicles 22:13**
+
+[TODO]
+
+**1 Chronicles 22:14**
+
+[TODO]
+
+**1 Chronicles 22:15**
+
+[TODO]
+
+**1 Chronicles 22:16**
+
+[TODO]
+
+**1 Chronicles 22:17**
+
+[TODO]
+
+**1 Chronicles 22:18**
+
+[TODO]
+
+**1 Chronicles 22:19**
+
+[TODO]
+
+### Chapter 23
+
+**1 Chronicles 23:1**
+
+[TODO]
+
+**1 Chronicles 23:2**
+
+[TODO]
+
+**1 Chronicles 23:3**
+
+[TODO]
+
+**1 Chronicles 23:4**
+
+[TODO]
+
+**1 Chronicles 23:5**
+
+[TODO]
+
+**1 Chronicles 23:6**
+
+[TODO]
+
+**1 Chronicles 23:7**
+
+[TODO]
+
+**1 Chronicles 23:8**
+
+[TODO]
+
+**1 Chronicles 23:9**
+
+[TODO]
+
+**1 Chronicles 23:10**
+
+[TODO]
+
+**1 Chronicles 23:11**
+
+[TODO]
+
+**1 Chronicles 23:12**
+
+[TODO]
+
+**1 Chronicles 23:13**
+
+[TODO]
+
+**1 Chronicles 23:14**
+
+[TODO]
+
+**1 Chronicles 23:15**
+
+[TODO]
+
+**1 Chronicles 23:16**
+
+[TODO]
+
+**1 Chronicles 23:17**
+
+[TODO]
+
+**1 Chronicles 23:18**
+
+[TODO]
+
+**1 Chronicles 23:19**
+
+[TODO]
+
+**1 Chronicles 23:20**
+
+[TODO]
+
+**1 Chronicles 23:21**
+
+[TODO]
+
+**1 Chronicles 23:22**
+
+[TODO]
+
+**1 Chronicles 23:23**
+
+[TODO]
+
+**1 Chronicles 23:24**
+
+[TODO]
+
+**1 Chronicles 23:25**
+
+[TODO]
+
+**1 Chronicles 23:26**
+
+[TODO]
+
+**1 Chronicles 23:27**
+
+[TODO]
+
+**1 Chronicles 23:28**
+
+[TODO]
+
+**1 Chronicles 23:29**
+
+[TODO]
+
+**1 Chronicles 23:30**
+
+[TODO]
+
+**1 Chronicles 23:31**
+
+[TODO]
+
+**1 Chronicles 23:32**
+
+[TODO]
+
+### Chapter 24
+
+**1 Chronicles 24:1**
+
+[TODO]
+
+**1 Chronicles 24:2**
+
+[TODO]
+
+**1 Chronicles 24:3**
+
+[TODO]
+
+**1 Chronicles 24:4**
+
+[TODO]
+
+**1 Chronicles 24:5**
+
+[TODO]
+
+**1 Chronicles 24:6**
+
+[TODO]
+
+**1 Chronicles 24:7**
+
+[TODO]
+
+**1 Chronicles 24:8**
+
+[TODO]
+
+**1 Chronicles 24:9**
+
+[TODO]
+
+**1 Chronicles 24:10**
+
+[TODO]
+
+**1 Chronicles 24:11**
+
+[TODO]
+
+**1 Chronicles 24:12**
+
+[TODO]
+
+**1 Chronicles 24:13**
+
+[TODO]
+
+**1 Chronicles 24:14**
+
+[TODO]
+
+**1 Chronicles 24:15**
+
+[TODO]
+
+**1 Chronicles 24:16**
+
+[TODO]
+
+**1 Chronicles 24:17**
+
+[TODO]
+
+**1 Chronicles 24:18**
+
+[TODO]
+
+**1 Chronicles 24:19**
+
+[TODO]
+
+**1 Chronicles 24:20**
+
+[TODO]
+
+**1 Chronicles 24:21**
+
+[TODO]
+
+**1 Chronicles 24:22**
+
+[TODO]
+
+**1 Chronicles 24:23**
+
+[TODO]
+
+**1 Chronicles 24:24**
+
+[TODO]
+
+**1 Chronicles 24:25**
+
+[TODO]
+
+**1 Chronicles 24:26**
+
+[TODO]
+
+**1 Chronicles 24:27**
+
+[TODO]
+
+**1 Chronicles 24:28**
+
+[TODO]
+
+**1 Chronicles 24:29**
+
+[TODO]
+
+**1 Chronicles 24:30**
+
+[TODO]
+
+**1 Chronicles 24:31**
+
+[TODO]
+
+### Chapter 25
+
+**1 Chronicles 25:1**
+
+[TODO]
+
+**1 Chronicles 25:2**
+
+[TODO]
+
+**1 Chronicles 25:3**
+
+[TODO]
+
+**1 Chronicles 25:4**
+
+[TODO]
+
+**1 Chronicles 25:5**
+
+[TODO]
+
+**1 Chronicles 25:6**
+
+[TODO]
+
+**1 Chronicles 25:7**
+
+[TODO]
+
+**1 Chronicles 25:8**
+
+[TODO]
+
+**1 Chronicles 25:9**
+
+[TODO]
+
+**1 Chronicles 25:10**
+
+[TODO]
+
+**1 Chronicles 25:11**
+
+[TODO]
+
+**1 Chronicles 25:12**
+
+[TODO]
+
+**1 Chronicles 25:13**
+
+[TODO]
+
+**1 Chronicles 25:14**
+
+[TODO]
+
+**1 Chronicles 25:15**
+
+[TODO]
+
+**1 Chronicles 25:16**
+
+[TODO]
+
+**1 Chronicles 25:17**
+
+[TODO]
+
+**1 Chronicles 25:18**
+
+[TODO]
+
+**1 Chronicles 25:19**
+
+[TODO]
+
+**1 Chronicles 25:20**
+
+[TODO]
+
+**1 Chronicles 25:21**
+
+[TODO]
+
+**1 Chronicles 25:22**
+
+[TODO]
+
+**1 Chronicles 25:23**
+
+[TODO]
+
+**1 Chronicles 25:24**
+
+[TODO]
+
+**1 Chronicles 25:25**
+
+[TODO]
+
+**1 Chronicles 25:26**
+
+[TODO]
+
+**1 Chronicles 25:27**
+
+[TODO]
+
+**1 Chronicles 25:28**
+
+[TODO]
+
+**1 Chronicles 25:29**
+
+[TODO]
+
+**1 Chronicles 25:30**
+
+[TODO]
+
+**1 Chronicles 25:31**
+
+[TODO]
+
+### Chapter 26
+
+**1 Chronicles 26:1**
+
+[TODO]
+
+**1 Chronicles 26:2**
+
+[TODO]
+
+**1 Chronicles 26:3**
+
+[TODO]
+
+**1 Chronicles 26:4**
+
+[TODO]
+
+**1 Chronicles 26:5**
+
+[TODO]
+
+**1 Chronicles 26:6**
+
+[TODO]
+
+**1 Chronicles 26:7**
+
+[TODO]
+
+**1 Chronicles 26:8**
+
+[TODO]
+
+**1 Chronicles 26:9**
+
+[TODO]
+
+**1 Chronicles 26:10**
+
+[TODO]
+
+**1 Chronicles 26:11**
+
+[TODO]
+
+**1 Chronicles 26:12**
+
+[TODO]
+
+**1 Chronicles 26:13**
+
+[TODO]
+
+**1 Chronicles 26:14**
+
+[TODO]
+
+**1 Chronicles 26:15**
+
+[TODO]
+
+**1 Chronicles 26:16**
+
+[TODO]
+
+**1 Chronicles 26:17**
+
+[TODO]
+
+**1 Chronicles 26:18**
+
+[TODO]
+
+**1 Chronicles 26:19**
+
+[TODO]
+
+**1 Chronicles 26:20**
+
+[TODO]
+
+**1 Chronicles 26:21**
+
+[TODO]
+
+**1 Chronicles 26:22**
+
+[TODO]
+
+**1 Chronicles 26:23**
+
+[TODO]
+
+**1 Chronicles 26:24**
+
+[TODO]
+
+**1 Chronicles 26:25**
+
+[TODO]
+
+**1 Chronicles 26:26**
+
+[TODO]
+
+**1 Chronicles 26:27**
+
+[TODO]
+
+**1 Chronicles 26:28**
+
+[TODO]
+
+**1 Chronicles 26:29**
+
+[TODO]
+
+**1 Chronicles 26:30**
+
+[TODO]
+
+**1 Chronicles 26:31**
+
+[TODO]
+
+**1 Chronicles 26:32**
+
+[TODO]
+
+### Chapter 27
+
+**1 Chronicles 27:1**
+
+[TODO]
+
+**1 Chronicles 27:2**
+
+[TODO]
+
+**1 Chronicles 27:3**
+
+[TODO]
+
+**1 Chronicles 27:4**
+
+[TODO]
+
+**1 Chronicles 27:5**
+
+[TODO]
+
+**1 Chronicles 27:6**
+
+[TODO]
+
+**1 Chronicles 27:7**
+
+[TODO]
+
+**1 Chronicles 27:8**
+
+[TODO]
+
+**1 Chronicles 27:9**
+
+[TODO]
+
+**1 Chronicles 27:10**
+
+[TODO]
+
+**1 Chronicles 27:11**
+
+[TODO]
+
+**1 Chronicles 27:12**
+
+[TODO]
+
+**1 Chronicles 27:13**
+
+[TODO]
+
+**1 Chronicles 27:14**
+
+[TODO]
+
+**1 Chronicles 27:15**
+
+[TODO]
+
+**1 Chronicles 27:16**
+
+[TODO]
+
+**1 Chronicles 27:17**
+
+[TODO]
+
+**1 Chronicles 27:18**
+
+[TODO]
+
+**1 Chronicles 27:19**
+
+[TODO]
+
+**1 Chronicles 27:20**
+
+[TODO]
+
+**1 Chronicles 27:21**
+
+[TODO]
+
+**1 Chronicles 27:22**
+
+[TODO]
+
+**1 Chronicles 27:23**
+
+[TODO]
+
+**1 Chronicles 27:24**
+
+[TODO]
+
+**1 Chronicles 27:25**
+
+[TODO]
+
+**1 Chronicles 27:26**
+
+[TODO]
+
+**1 Chronicles 27:27**
+
+[TODO]
+
+**1 Chronicles 27:28**
+
+[TODO]
+
+**1 Chronicles 27:29**
+
+[TODO]
+
+**1 Chronicles 27:30**
+
+[TODO]
+
+**1 Chronicles 27:31**
+
+[TODO]
+
+**1 Chronicles 27:32**
+
+[TODO]
+
+**1 Chronicles 27:33**
+
+[TODO]
+
+**1 Chronicles 27:34**
+
+[TODO]
+
+### Chapter 28
+
+**1 Chronicles 28:1**
+
+[TODO]
+
+**1 Chronicles 28:2**
+
+[TODO]
+
+**1 Chronicles 28:3**
+
+[TODO]
+
+**1 Chronicles 28:4**
+
+[TODO]
+
+**1 Chronicles 28:5**
+
+[TODO]
+
+**1 Chronicles 28:6**
+
+[TODO]
+
+**1 Chronicles 28:7**
+
+[TODO]
+
+**1 Chronicles 28:8**
+
+[TODO]
+
+**1 Chronicles 28:9**
+
+[TODO]
+
+**1 Chronicles 28:10**
+
+[TODO]
+
+**1 Chronicles 28:11**
+
+[TODO]
+
+**1 Chronicles 28:12**
+
+[TODO]
+
+**1 Chronicles 28:13**
+
+[TODO]
+
+**1 Chronicles 28:14**
+
+[TODO]
+
+**1 Chronicles 28:15**
+
+[TODO]
+
+**1 Chronicles 28:16**
+
+[TODO]
+
+**1 Chronicles 28:17**
+
+[TODO]
+
+**1 Chronicles 28:18**
+
+[TODO]
+
+**1 Chronicles 28:19**
+
+[TODO]
+
+**1 Chronicles 28:20**
+
+[TODO]
+
+**1 Chronicles 28:21**
+
+[TODO]
+
+### Chapter 29
+
+**1 Chronicles 29:1**
+
+[TODO]
+
+**1 Chronicles 29:2**
+
+[TODO]
+
+**1 Chronicles 29:3**
+
+[TODO]
+
+**1 Chronicles 29:4**
+
+[TODO]
+
+**1 Chronicles 29:5**
+
+[TODO]
+
+**1 Chronicles 29:6**
+
+[TODO]
+
+**1 Chronicles 29:7**
+
+[TODO]
+
+**1 Chronicles 29:8**
+
+[TODO]
+
+**1 Chronicles 29:9**
+
+[TODO]
+
+**1 Chronicles 29:10**
+
+[TODO]
+
+**1 Chronicles 29:11**
+
+[TODO]
+
+**1 Chronicles 29:12**
+
+[TODO]
+
+**1 Chronicles 29:13**
+
+[TODO]
+
+**1 Chronicles 29:14**
+
+[TODO]
+
+**1 Chronicles 29:15**
+
+[TODO]
+
+**1 Chronicles 29:16**
+
+[TODO]
+
+**1 Chronicles 29:17**
+
+[TODO]
+
+**1 Chronicles 29:18**
+
+[TODO]
+
+**1 Chronicles 29:19**
+
+[TODO]
+
+**1 Chronicles 29:20**
+
+[TODO]
+
+**1 Chronicles 29:21**
+
+[TODO]
+
+**1 Chronicles 29:22**
+
+[TODO]
+
+**1 Chronicles 29:23**
+
+[TODO]
+
+**1 Chronicles 29:24**
+
+[TODO]
+
+**1 Chronicles 29:25**
+
+[TODO]
+
+**1 Chronicles 29:26**
+
+[TODO]
+
+**1 Chronicles 29:27**
+
+[TODO]
+
+**1 Chronicles 29:28**
+
+[TODO]
+
+**1 Chronicles 29:29**
+
+[TODO]
+
+**1 Chronicles 29:30**
+
+[TODO]
+
+## 2 Chronicles
+
+### Chapter 1
+
+**2 Chronicles 1:1**
+
+[TODO]
+
+**2 Chronicles 1:2**
+
+[TODO]
+
+**2 Chronicles 1:3**
+
+[TODO]
+
+**2 Chronicles 1:4**
+
+[TODO]
+
+**2 Chronicles 1:5**
+
+[TODO]
+
+**2 Chronicles 1:6**
+
+[TODO]
+
+**2 Chronicles 1:7**
+
+[TODO]
+
+**2 Chronicles 1:8**
+
+[TODO]
+
+**2 Chronicles 1:9**
+
+[TODO]
+
+**2 Chronicles 1:10**
+
+[TODO]
+
+**2 Chronicles 1:11**
+
+[TODO]
+
+**2 Chronicles 1:12**
+
+[TODO]
+
+**2 Chronicles 1:13**
+
+[TODO]
+
+**2 Chronicles 1:14**
+
+[TODO]
+
+**2 Chronicles 1:15**
+
+[TODO]
+
+**2 Chronicles 1:16**
+
+[TODO]
+
+**2 Chronicles 1:17**
+
+[TODO]
+
+**2 Chronicles 1:18**
+
+[TODO]
+
+### Chapter 2
+
+**2 Chronicles 2:1**
+
+[TODO]
+
+**2 Chronicles 2:2**
+
+[TODO]
+
+**2 Chronicles 2:3**
+
+[TODO]
+
+**2 Chronicles 2:4**
+
+[TODO]
+
+**2 Chronicles 2:5**
+
+[TODO]
+
+**2 Chronicles 2:6**
+
+[TODO]
+
+**2 Chronicles 2:7**
+
+[TODO]
+
+**2 Chronicles 2:8**
+
+[TODO]
+
+**2 Chronicles 2:9**
+
+[TODO]
+
+**2 Chronicles 2:10**
+
+[TODO]
+
+**2 Chronicles 2:11**
+
+[TODO]
+
+**2 Chronicles 2:12**
+
+[TODO]
+
+**2 Chronicles 2:13**
+
+[TODO]
+
+**2 Chronicles 2:14**
+
+[TODO]
+
+**2 Chronicles 2:15**
+
+[TODO]
+
+**2 Chronicles 2:16**
+
+[TODO]
+
+**2 Chronicles 2:17**
+
+[TODO]
+
+### Chapter 3
+
+**2 Chronicles 3:1**
+
+[TODO]
+
+**2 Chronicles 3:2**
+
+[TODO]
+
+**2 Chronicles 3:3**
+
+[TODO]
+
+**2 Chronicles 3:4**
+
+[TODO]
+
+**2 Chronicles 3:5**
+
+[TODO]
+
+**2 Chronicles 3:6**
+
+[TODO]
+
+**2 Chronicles 3:7**
+
+[TODO]
+
+**2 Chronicles 3:8**
+
+[TODO]
+
+**2 Chronicles 3:9**
+
+[TODO]
+
+**2 Chronicles 3:10**
+
+[TODO]
+
+**2 Chronicles 3:11**
+
+[TODO]
+
+**2 Chronicles 3:12**
+
+[TODO]
+
+**2 Chronicles 3:13**
+
+[TODO]
+
+**2 Chronicles 3:14**
+
+[TODO]
+
+**2 Chronicles 3:15**
+
+[TODO]
+
+**2 Chronicles 3:16**
+
+[TODO]
+
+**2 Chronicles 3:17**
+
+[TODO]
+
+### Chapter 4
+
+**2 Chronicles 4:1**
+
+[TODO]
+
+**2 Chronicles 4:2**
+
+[TODO]
+
+**2 Chronicles 4:3**
+
+[TODO]
+
+**2 Chronicles 4:4**
+
+[TODO]
+
+**2 Chronicles 4:5**
+
+[TODO]
+
+**2 Chronicles 4:6**
+
+[TODO]
+
+**2 Chronicles 4:7**
+
+[TODO]
+
+**2 Chronicles 4:8**
+
+[TODO]
+
+**2 Chronicles 4:9**
+
+[TODO]
+
+**2 Chronicles 4:10**
+
+[TODO]
+
+**2 Chronicles 4:11**
+
+[TODO]
+
+**2 Chronicles 4:12**
+
+[TODO]
+
+**2 Chronicles 4:13**
+
+[TODO]
+
+**2 Chronicles 4:14**
+
+[TODO]
+
+**2 Chronicles 4:15**
+
+[TODO]
+
+**2 Chronicles 4:16**
+
+[TODO]
+
+**2 Chronicles 4:17**
+
+[TODO]
+
+**2 Chronicles 4:18**
+
+[TODO]
+
+**2 Chronicles 4:19**
+
+[TODO]
+
+**2 Chronicles 4:20**
+
+[TODO]
+
+**2 Chronicles 4:21**
+
+[TODO]
+
+**2 Chronicles 4:22**
+
+[TODO]
+
+### Chapter 5
+
+**2 Chronicles 5:1**
+
+[TODO]
+
+**2 Chronicles 5:2**
+
+[TODO]
+
+**2 Chronicles 5:3**
+
+[TODO]
+
+**2 Chronicles 5:4**
+
+[TODO]
+
+**2 Chronicles 5:5**
+
+[TODO]
+
+**2 Chronicles 5:6**
+
+[TODO]
+
+**2 Chronicles 5:7**
+
+[TODO]
+
+**2 Chronicles 5:8**
+
+[TODO]
+
+**2 Chronicles 5:9**
+
+[TODO]
+
+**2 Chronicles 5:10**
+
+[TODO]
+
+**2 Chronicles 5:11**
+
+[TODO]
+
+**2 Chronicles 5:12**
+
+[TODO]
+
+**2 Chronicles 5:13**
+
+[TODO]
+
+**2 Chronicles 5:14**
+
+[TODO]
+
+### Chapter 6
+
+**2 Chronicles 6:1**
+
+[TODO]
+
+**2 Chronicles 6:2**
+
+[TODO]
+
+**2 Chronicles 6:3**
+
+[TODO]
+
+**2 Chronicles 6:4**
+
+[TODO]
+
+**2 Chronicles 6:5**
+
+[TODO]
+
+**2 Chronicles 6:6**
+
+[TODO]
+
+**2 Chronicles 6:7**
+
+[TODO]
+
+**2 Chronicles 6:8**
+
+[TODO]
+
+**2 Chronicles 6:9**
+
+[TODO]
+
+**2 Chronicles 6:10**
+
+[TODO]
+
+**2 Chronicles 6:11**
+
+[TODO]
+
+**2 Chronicles 6:12**
+
+[TODO]
+
+**2 Chronicles 6:13**
+
+[TODO]
+
+**2 Chronicles 6:14**
+
+[TODO]
+
+**2 Chronicles 6:15**
+
+[TODO]
+
+**2 Chronicles 6:16**
+
+[TODO]
+
+**2 Chronicles 6:17**
+
+[TODO]
+
+**2 Chronicles 6:18**
+
+[TODO]
+
+**2 Chronicles 6:19**
+
+[TODO]
+
+**2 Chronicles 6:20**
+
+[TODO]
+
+**2 Chronicles 6:21**
+
+[TODO]
+
+**2 Chronicles 6:22**
+
+[TODO]
+
+**2 Chronicles 6:23**
+
+[TODO]
+
+**2 Chronicles 6:24**
+
+[TODO]
+
+**2 Chronicles 6:25**
+
+[TODO]
+
+**2 Chronicles 6:26**
+
+[TODO]
+
+**2 Chronicles 6:27**
+
+[TODO]
+
+**2 Chronicles 6:28**
+
+[TODO]
+
+**2 Chronicles 6:29**
+
+[TODO]
+
+**2 Chronicles 6:30**
+
+[TODO]
+
+**2 Chronicles 6:31**
+
+[TODO]
+
+**2 Chronicles 6:32**
+
+[TODO]
+
+**2 Chronicles 6:33**
+
+[TODO]
+
+**2 Chronicles 6:34**
+
+[TODO]
+
+**2 Chronicles 6:35**
+
+[TODO]
+
+**2 Chronicles 6:36**
+
+[TODO]
+
+**2 Chronicles 6:37**
+
+[TODO]
+
+**2 Chronicles 6:38**
+
+[TODO]
+
+**2 Chronicles 6:39**
+
+[TODO]
+
+**2 Chronicles 6:40**
+
+[TODO]
+
+**2 Chronicles 6:41**
+
+[TODO]
+
+**2 Chronicles 6:42**
+
+[TODO]
+
+### Chapter 7
+
+**2 Chronicles 7:1**
+
+[TODO]
+
+**2 Chronicles 7:2**
+
+[TODO]
+
+**2 Chronicles 7:3**
+
+[TODO]
+
+**2 Chronicles 7:4**
+
+[TODO]
+
+**2 Chronicles 7:5**
+
+[TODO]
+
+**2 Chronicles 7:6**
+
+[TODO]
+
+**2 Chronicles 7:7**
+
+[TODO]
+
+**2 Chronicles 7:8**
+
+[TODO]
+
+**2 Chronicles 7:9**
+
+[TODO]
+
+**2 Chronicles 7:10**
+
+[TODO]
+
+**2 Chronicles 7:11**
+
+[TODO]
+
+**2 Chronicles 7:12**
+
+[TODO]
+
+**2 Chronicles 7:13**
+
+[TODO]
+
+**2 Chronicles 7:14**
+
+[TODO]
+
+**2 Chronicles 7:15**
+
+[TODO]
+
+**2 Chronicles 7:16**
+
+[TODO]
+
+**2 Chronicles 7:17**
+
+[TODO]
+
+**2 Chronicles 7:18**
+
+[TODO]
+
+**2 Chronicles 7:19**
+
+[TODO]
+
+**2 Chronicles 7:20**
+
+[TODO]
+
+**2 Chronicles 7:21**
+
+[TODO]
+
+**2 Chronicles 7:22**
+
+[TODO]
+
+### Chapter 8
+
+**2 Chronicles 8:1**
+
+[TODO]
+
+**2 Chronicles 8:2**
+
+[TODO]
+
+**2 Chronicles 8:3**
+
+[TODO]
+
+**2 Chronicles 8:4**
+
+[TODO]
+
+**2 Chronicles 8:5**
+
+[TODO]
+
+**2 Chronicles 8:6**
+
+[TODO]
+
+**2 Chronicles 8:7**
+
+[TODO]
+
+**2 Chronicles 8:8**
+
+[TODO]
+
+**2 Chronicles 8:9**
+
+[TODO]
+
+**2 Chronicles 8:10**
+
+[TODO]
+
+**2 Chronicles 8:11**
+
+[TODO]
+
+**2 Chronicles 8:12**
+
+[TODO]
+
+**2 Chronicles 8:13**
+
+[TODO]
+
+**2 Chronicles 8:14**
+
+[TODO]
+
+**2 Chronicles 8:15**
+
+[TODO]
+
+**2 Chronicles 8:16**
+
+[TODO]
+
+**2 Chronicles 8:17**
+
+[TODO]
+
+**2 Chronicles 8:18**
+
+[TODO]
+
+### Chapter 9
+
+**2 Chronicles 9:1**
+
+[TODO]
+
+**2 Chronicles 9:2**
+
+[TODO]
+
+**2 Chronicles 9:3**
+
+[TODO]
+
+**2 Chronicles 9:4**
+
+[TODO]
+
+**2 Chronicles 9:5**
+
+[TODO]
+
+**2 Chronicles 9:6**
+
+[TODO]
+
+**2 Chronicles 9:7**
+
+[TODO]
+
+**2 Chronicles 9:8**
+
+[TODO]
+
+**2 Chronicles 9:9**
+
+[TODO]
+
+**2 Chronicles 9:10**
+
+[TODO]
+
+**2 Chronicles 9:11**
+
+[TODO]
+
+**2 Chronicles 9:12**
+
+[TODO]
+
+**2 Chronicles 9:13**
+
+[TODO]
+
+**2 Chronicles 9:14**
+
+[TODO]
+
+**2 Chronicles 9:15**
+
+[TODO]
+
+**2 Chronicles 9:16**
+
+[TODO]
+
+**2 Chronicles 9:17**
+
+[TODO]
+
+**2 Chronicles 9:18**
+
+[TODO]
+
+**2 Chronicles 9:19**
+
+[TODO]
+
+**2 Chronicles 9:20**
+
+[TODO]
+
+**2 Chronicles 9:21**
+
+[TODO]
+
+**2 Chronicles 9:22**
+
+[TODO]
+
+**2 Chronicles 9:23**
+
+[TODO]
+
+**2 Chronicles 9:24**
+
+[TODO]
+
+**2 Chronicles 9:25**
+
+[TODO]
+
+**2 Chronicles 9:26**
+
+[TODO]
+
+**2 Chronicles 9:27**
+
+[TODO]
+
+**2 Chronicles 9:28**
+
+[TODO]
+
+**2 Chronicles 9:29**
+
+[TODO]
+
+**2 Chronicles 9:30**
+
+[TODO]
+
+**2 Chronicles 9:31**
+
+[TODO]
+
+### Chapter 10
+
+**2 Chronicles 10:1**
+
+[TODO]
+
+**2 Chronicles 10:2**
+
+[TODO]
+
+**2 Chronicles 10:3**
+
+[TODO]
+
+**2 Chronicles 10:4**
+
+[TODO]
+
+**2 Chronicles 10:5**
+
+[TODO]
+
+**2 Chronicles 10:6**
+
+[TODO]
+
+**2 Chronicles 10:7**
+
+[TODO]
+
+**2 Chronicles 10:8**
+
+[TODO]
+
+**2 Chronicles 10:9**
+
+[TODO]
+
+**2 Chronicles 10:10**
+
+[TODO]
+
+**2 Chronicles 10:11**
+
+[TODO]
+
+**2 Chronicles 10:12**
+
+[TODO]
+
+**2 Chronicles 10:13**
+
+[TODO]
+
+**2 Chronicles 10:14**
+
+[TODO]
+
+**2 Chronicles 10:15**
+
+[TODO]
+
+**2 Chronicles 10:16**
+
+[TODO]
+
+**2 Chronicles 10:17**
+
+[TODO]
+
+**2 Chronicles 10:18**
+
+[TODO]
+
+**2 Chronicles 10:19**
+
+[TODO]
+
+### Chapter 11
+
+**2 Chronicles 11:1**
+
+[TODO]
+
+**2 Chronicles 11:2**
+
+[TODO]
+
+**2 Chronicles 11:3**
+
+[TODO]
+
+**2 Chronicles 11:4**
+
+[TODO]
+
+**2 Chronicles 11:5**
+
+[TODO]
+
+**2 Chronicles 11:6**
+
+[TODO]
+
+**2 Chronicles 11:7**
+
+[TODO]
+
+**2 Chronicles 11:8**
+
+[TODO]
+
+**2 Chronicles 11:9**
+
+[TODO]
+
+**2 Chronicles 11:10**
+
+[TODO]
+
+**2 Chronicles 11:11**
+
+[TODO]
+
+**2 Chronicles 11:12**
+
+[TODO]
+
+**2 Chronicles 11:13**
+
+[TODO]
+
+**2 Chronicles 11:14**
+
+[TODO]
+
+**2 Chronicles 11:15**
+
+[TODO]
+
+**2 Chronicles 11:16**
+
+[TODO]
+
+**2 Chronicles 11:17**
+
+[TODO]
+
+**2 Chronicles 11:18**
+
+[TODO]
+
+**2 Chronicles 11:19**
+
+[TODO]
+
+**2 Chronicles 11:20**
+
+[TODO]
+
+**2 Chronicles 11:21**
+
+[TODO]
+
+**2 Chronicles 11:22**
+
+[TODO]
+
+**2 Chronicles 11:23**
+
+[TODO]
+
+### Chapter 12
+
+**2 Chronicles 12:1**
+
+[TODO]
+
+**2 Chronicles 12:2**
+
+[TODO]
+
+**2 Chronicles 12:3**
+
+[TODO]
+
+**2 Chronicles 12:4**
+
+[TODO]
+
+**2 Chronicles 12:5**
+
+[TODO]
+
+**2 Chronicles 12:6**
+
+[TODO]
+
+**2 Chronicles 12:7**
+
+[TODO]
+
+**2 Chronicles 12:8**
+
+[TODO]
+
+**2 Chronicles 12:9**
+
+[TODO]
+
+**2 Chronicles 12:10**
+
+[TODO]
+
+**2 Chronicles 12:11**
+
+[TODO]
+
+**2 Chronicles 12:12**
+
+[TODO]
+
+**2 Chronicles 12:13**
+
+[TODO]
+
+**2 Chronicles 12:14**
+
+[TODO]
+
+**2 Chronicles 12:15**
+
+[TODO]
+
+**2 Chronicles 12:16**
+
+[TODO]
+
+### Chapter 13
+
+**2 Chronicles 13:1**
+
+[TODO]
+
+**2 Chronicles 13:2**
+
+[TODO]
+
+**2 Chronicles 13:3**
+
+[TODO]
+
+**2 Chronicles 13:4**
+
+[TODO]
+
+**2 Chronicles 13:5**
+
+[TODO]
+
+**2 Chronicles 13:6**
+
+[TODO]
+
+**2 Chronicles 13:7**
+
+[TODO]
+
+**2 Chronicles 13:8**
+
+[TODO]
+
+**2 Chronicles 13:9**
+
+[TODO]
+
+**2 Chronicles 13:10**
+
+[TODO]
+
+**2 Chronicles 13:11**
+
+[TODO]
+
+**2 Chronicles 13:12**
+
+[TODO]
+
+**2 Chronicles 13:13**
+
+[TODO]
+
+**2 Chronicles 13:14**
+
+[TODO]
+
+**2 Chronicles 13:15**
+
+[TODO]
+
+**2 Chronicles 13:16**
+
+[TODO]
+
+**2 Chronicles 13:17**
+
+[TODO]
+
+**2 Chronicles 13:18**
+
+[TODO]
+
+**2 Chronicles 13:19**
+
+[TODO]
+
+**2 Chronicles 13:20**
+
+[TODO]
+
+**2 Chronicles 13:21**
+
+[TODO]
+
+**2 Chronicles 13:22**
+
+[TODO]
+
+**2 Chronicles 13:23**
+
+[TODO]
+
+### Chapter 14
+
+**2 Chronicles 14:1**
+
+[TODO]
+
+**2 Chronicles 14:2**
+
+[TODO]
+
+**2 Chronicles 14:3**
+
+[TODO]
+
+**2 Chronicles 14:4**
+
+[TODO]
+
+**2 Chronicles 14:5**
+
+[TODO]
+
+**2 Chronicles 14:6**
+
+[TODO]
+
+**2 Chronicles 14:7**
+
+[TODO]
+
+**2 Chronicles 14:8**
+
+[TODO]
+
+**2 Chronicles 14:9**
+
+[TODO]
+
+**2 Chronicles 14:10**
+
+[TODO]
+
+**2 Chronicles 14:11**
+
+[TODO]
+
+**2 Chronicles 14:12**
+
+[TODO]
+
+**2 Chronicles 14:13**
+
+[TODO]
+
+**2 Chronicles 14:14**
+
+[TODO]
+
+### Chapter 15
+
+**2 Chronicles 15:1**
+
+[TODO]
+
+**2 Chronicles 15:2**
+
+[TODO]
+
+**2 Chronicles 15:3**
+
+[TODO]
+
+**2 Chronicles 15:4**
+
+[TODO]
+
+**2 Chronicles 15:5**
+
+[TODO]
+
+**2 Chronicles 15:6**
+
+[TODO]
+
+**2 Chronicles 15:7**
+
+[TODO]
+
+**2 Chronicles 15:8**
+
+[TODO]
+
+**2 Chronicles 15:9**
+
+[TODO]
+
+**2 Chronicles 15:10**
+
+[TODO]
+
+**2 Chronicles 15:11**
+
+[TODO]
+
+**2 Chronicles 15:12**
+
+[TODO]
+
+**2 Chronicles 15:13**
+
+[TODO]
+
+**2 Chronicles 15:14**
+
+[TODO]
+
+**2 Chronicles 15:15**
+
+[TODO]
+
+**2 Chronicles 15:16**
+
+[TODO]
+
+**2 Chronicles 15:17**
+
+[TODO]
+
+**2 Chronicles 15:18**
+
+[TODO]
+
+**2 Chronicles 15:19**
+
+[TODO]
+
+### Chapter 16
+
+**2 Chronicles 16:1**
+
+[TODO]
+
+**2 Chronicles 16:2**
+
+[TODO]
+
+**2 Chronicles 16:3**
+
+[TODO]
+
+**2 Chronicles 16:4**
+
+[TODO]
+
+**2 Chronicles 16:5**
+
+[TODO]
+
+**2 Chronicles 16:6**
+
+[TODO]
+
+**2 Chronicles 16:7**
+
+[TODO]
+
+**2 Chronicles 16:8**
+
+[TODO]
+
+**2 Chronicles 16:9**
+
+[TODO]
+
+**2 Chronicles 16:10**
+
+[TODO]
+
+**2 Chronicles 16:11**
+
+[TODO]
+
+**2 Chronicles 16:12**
+
+[TODO]
+
+**2 Chronicles 16:13**
+
+[TODO]
+
+**2 Chronicles 16:14**
+
+[TODO]
+
+### Chapter 17
+
+**2 Chronicles 17:1**
+
+[TODO]
+
+**2 Chronicles 17:2**
+
+[TODO]
+
+**2 Chronicles 17:3**
+
+[TODO]
+
+**2 Chronicles 17:4**
+
+[TODO]
+
+**2 Chronicles 17:5**
+
+[TODO]
+
+**2 Chronicles 17:6**
+
+[TODO]
+
+**2 Chronicles 17:7**
+
+[TODO]
+
+**2 Chronicles 17:8**
+
+[TODO]
+
+**2 Chronicles 17:9**
+
+[TODO]
+
+**2 Chronicles 17:10**
+
+[TODO]
+
+**2 Chronicles 17:11**
+
+[TODO]
+
+**2 Chronicles 17:12**
+
+[TODO]
+
+**2 Chronicles 17:13**
+
+[TODO]
+
+**2 Chronicles 17:14**
+
+[TODO]
+
+**2 Chronicles 17:15**
+
+[TODO]
+
+**2 Chronicles 17:16**
+
+[TODO]
+
+**2 Chronicles 17:17**
+
+[TODO]
+
+**2 Chronicles 17:18**
+
+[TODO]
+
+**2 Chronicles 17:19**
+
+[TODO]
+
+### Chapter 18
+
+**2 Chronicles 18:1**
+
+[TODO]
+
+**2 Chronicles 18:2**
+
+[TODO]
+
+**2 Chronicles 18:3**
+
+[TODO]
+
+**2 Chronicles 18:4**
+
+[TODO]
+
+**2 Chronicles 18:5**
+
+[TODO]
+
+**2 Chronicles 18:6**
+
+[TODO]
+
+**2 Chronicles 18:7**
+
+[TODO]
+
+**2 Chronicles 18:8**
+
+[TODO]
+
+**2 Chronicles 18:9**
+
+[TODO]
+
+**2 Chronicles 18:10**
+
+[TODO]
+
+**2 Chronicles 18:11**
+
+[TODO]
+
+**2 Chronicles 18:12**
+
+[TODO]
+
+**2 Chronicles 18:13**
+
+[TODO]
+
+**2 Chronicles 18:14**
+
+[TODO]
+
+**2 Chronicles 18:15**
+
+[TODO]
+
+**2 Chronicles 18:16**
+
+[TODO]
+
+**2 Chronicles 18:17**
+
+[TODO]
+
+**2 Chronicles 18:18**
+
+[TODO]
+
+**2 Chronicles 18:19**
+
+[TODO]
+
+**2 Chronicles 18:20**
+
+[TODO]
+
+**2 Chronicles 18:21**
+
+[TODO]
+
+**2 Chronicles 18:22**
+
+[TODO]
+
+**2 Chronicles 18:23**
+
+[TODO]
+
+**2 Chronicles 18:24**
+
+[TODO]
+
+**2 Chronicles 18:25**
+
+[TODO]
+
+**2 Chronicles 18:26**
+
+[TODO]
+
+**2 Chronicles 18:27**
+
+[TODO]
+
+**2 Chronicles 18:28**
+
+[TODO]
+
+**2 Chronicles 18:29**
+
+[TODO]
+
+**2 Chronicles 18:30**
+
+[TODO]
+
+**2 Chronicles 18:31**
+
+[TODO]
+
+**2 Chronicles 18:32**
+
+[TODO]
+
+**2 Chronicles 18:33**
+
+[TODO]
+
+**2 Chronicles 18:34**
+
+[TODO]
+
+### Chapter 19
+
+**2 Chronicles 19:1**
+
+[TODO]
+
+**2 Chronicles 19:2**
+
+[TODO]
+
+**2 Chronicles 19:3**
+
+[TODO]
+
+**2 Chronicles 19:4**
+
+[TODO]
+
+**2 Chronicles 19:5**
+
+[TODO]
+
+**2 Chronicles 19:6**
+
+[TODO]
+
+**2 Chronicles 19:7**
+
+[TODO]
+
+**2 Chronicles 19:8**
+
+[TODO]
+
+**2 Chronicles 19:9**
+
+[TODO]
+
+**2 Chronicles 19:10**
+
+[TODO]
+
+**2 Chronicles 19:11**
+
+[TODO]
+
+### Chapter 20
+
+**2 Chronicles 20:1**
+
+[TODO]
+
+**2 Chronicles 20:2**
+
+[TODO]
+
+**2 Chronicles 20:3**
+
+[TODO]
+
+**2 Chronicles 20:4**
+
+[TODO]
+
+**2 Chronicles 20:5**
+
+[TODO]
+
+**2 Chronicles 20:6**
+
+[TODO]
+
+**2 Chronicles 20:7**
+
+[TODO]
+
+**2 Chronicles 20:8**
+
+[TODO]
+
+**2 Chronicles 20:9**
+
+[TODO]
+
+**2 Chronicles 20:10**
+
+[TODO]
+
+**2 Chronicles 20:11**
+
+[TODO]
+
+**2 Chronicles 20:12**
+
+[TODO]
+
+**2 Chronicles 20:13**
+
+[TODO]
+
+**2 Chronicles 20:14**
+
+[TODO]
+
+**2 Chronicles 20:15**
+
+[TODO]
+
+**2 Chronicles 20:16**
+
+[TODO]
+
+**2 Chronicles 20:17**
+
+[TODO]
+
+**2 Chronicles 20:18**
+
+[TODO]
+
+**2 Chronicles 20:19**
+
+[TODO]
+
+**2 Chronicles 20:20**
+
+[TODO]
+
+**2 Chronicles 20:21**
+
+[TODO]
+
+**2 Chronicles 20:22**
+
+[TODO]
+
+**2 Chronicles 20:23**
+
+[TODO]
+
+**2 Chronicles 20:24**
+
+[TODO]
+
+**2 Chronicles 20:25**
+
+[TODO]
+
+**2 Chronicles 20:26**
+
+[TODO]
+
+**2 Chronicles 20:27**
+
+[TODO]
+
+**2 Chronicles 20:28**
+
+[TODO]
+
+**2 Chronicles 20:29**
+
+[TODO]
+
+**2 Chronicles 20:30**
+
+[TODO]
+
+**2 Chronicles 20:31**
+
+[TODO]
+
+**2 Chronicles 20:32**
+
+[TODO]
+
+**2 Chronicles 20:33**
+
+[TODO]
+
+**2 Chronicles 20:34**
+
+[TODO]
+
+**2 Chronicles 20:35**
+
+[TODO]
+
+**2 Chronicles 20:36**
+
+[TODO]
+
+**2 Chronicles 20:37**
+
+[TODO]
+
+### Chapter 21
+
+**2 Chronicles 21:1**
+
+[TODO]
+
+**2 Chronicles 21:2**
+
+[TODO]
+
+**2 Chronicles 21:3**
+
+[TODO]
+
+**2 Chronicles 21:4**
+
+[TODO]
+
+**2 Chronicles 21:5**
+
+[TODO]
+
+**2 Chronicles 21:6**
+
+[TODO]
+
+**2 Chronicles 21:7**
+
+[TODO]
+
+**2 Chronicles 21:8**
+
+[TODO]
+
+**2 Chronicles 21:9**
+
+[TODO]
+
+**2 Chronicles 21:10**
+
+[TODO]
+
+**2 Chronicles 21:11**
+
+[TODO]
+
+**2 Chronicles 21:12**
+
+[TODO]
+
+**2 Chronicles 21:13**
+
+[TODO]
+
+**2 Chronicles 21:14**
+
+[TODO]
+
+**2 Chronicles 21:15**
+
+[TODO]
+
+**2 Chronicles 21:16**
+
+[TODO]
+
+**2 Chronicles 21:17**
+
+[TODO]
+
+**2 Chronicles 21:18**
+
+[TODO]
+
+**2 Chronicles 21:19**
+
+[TODO]
+
+**2 Chronicles 21:20**
+
+[TODO]
+
+### Chapter 22
+
+**2 Chronicles 22:1**
+
+[TODO]
+
+**2 Chronicles 22:2**
+
+[TODO]
+
+**2 Chronicles 22:3**
+
+[TODO]
+
+**2 Chronicles 22:4**
+
+[TODO]
+
+**2 Chronicles 22:5**
+
+[TODO]
+
+**2 Chronicles 22:6**
+
+[TODO]
+
+**2 Chronicles 22:7**
+
+[TODO]
+
+**2 Chronicles 22:8**
+
+[TODO]
+
+**2 Chronicles 22:9**
+
+[TODO]
+
+**2 Chronicles 22:10**
+
+[TODO]
+
+**2 Chronicles 22:11**
+
+[TODO]
+
+**2 Chronicles 22:12**
+
+[TODO]
+
+### Chapter 23
+
+**2 Chronicles 23:1**
+
+[TODO]
+
+**2 Chronicles 23:2**
+
+[TODO]
+
+**2 Chronicles 23:3**
+
+[TODO]
+
+**2 Chronicles 23:4**
+
+[TODO]
+
+**2 Chronicles 23:5**
+
+[TODO]
+
+**2 Chronicles 23:6**
+
+[TODO]
+
+**2 Chronicles 23:7**
+
+[TODO]
+
+**2 Chronicles 23:8**
+
+[TODO]
+
+**2 Chronicles 23:9**
+
+[TODO]
+
+**2 Chronicles 23:10**
+
+[TODO]
+
+**2 Chronicles 23:11**
+
+[TODO]
+
+**2 Chronicles 23:12**
+
+[TODO]
+
+**2 Chronicles 23:13**
+
+[TODO]
+
+**2 Chronicles 23:14**
+
+[TODO]
+
+**2 Chronicles 23:15**
+
+[TODO]
+
+**2 Chronicles 23:16**
+
+[TODO]
+
+**2 Chronicles 23:17**
+
+[TODO]
+
+**2 Chronicles 23:18**
+
+[TODO]
+
+**2 Chronicles 23:19**
+
+[TODO]
+
+**2 Chronicles 23:20**
+
+[TODO]
+
+**2 Chronicles 23:21**
+
+[TODO]
+
+### Chapter 24
+
+**2 Chronicles 24:1**
+
+[TODO]
+
+**2 Chronicles 24:2**
+
+[TODO]
+
+**2 Chronicles 24:3**
+
+[TODO]
+
+**2 Chronicles 24:4**
+
+[TODO]
+
+**2 Chronicles 24:5**
+
+[TODO]
+
+**2 Chronicles 24:6**
+
+[TODO]
+
+**2 Chronicles 24:7**
+
+[TODO]
+
+**2 Chronicles 24:8**
+
+[TODO]
+
+**2 Chronicles 24:9**
+
+[TODO]
+
+**2 Chronicles 24:10**
+
+[TODO]
+
+**2 Chronicles 24:11**
+
+[TODO]
+
+**2 Chronicles 24:12**
+
+[TODO]
+
+**2 Chronicles 24:13**
+
+[TODO]
+
+**2 Chronicles 24:14**
+
+[TODO]
+
+**2 Chronicles 24:15**
+
+[TODO]
+
+**2 Chronicles 24:16**
+
+[TODO]
+
+**2 Chronicles 24:17**
+
+[TODO]
+
+**2 Chronicles 24:18**
+
+[TODO]
+
+**2 Chronicles 24:19**
+
+[TODO]
+
+**2 Chronicles 24:20**
+
+[TODO]
+
+**2 Chronicles 24:21**
+
+[TODO]
+
+**2 Chronicles 24:22**
+
+[TODO]
+
+**2 Chronicles 24:23**
+
+[TODO]
+
+**2 Chronicles 24:24**
+
+[TODO]
+
+**2 Chronicles 24:25**
+
+[TODO]
+
+**2 Chronicles 24:26**
+
+[TODO]
+
+**2 Chronicles 24:27**
+
+[TODO]
+
+### Chapter 25
+
+**2 Chronicles 25:1**
+
+[TODO]
+
+**2 Chronicles 25:2**
+
+[TODO]
+
+**2 Chronicles 25:3**
+
+[TODO]
+
+**2 Chronicles 25:4**
+
+[TODO]
+
+**2 Chronicles 25:5**
+
+[TODO]
+
+**2 Chronicles 25:6**
+
+[TODO]
+
+**2 Chronicles 25:7**
+
+[TODO]
+
+**2 Chronicles 25:8**
+
+[TODO]
+
+**2 Chronicles 25:9**
+
+[TODO]
+
+**2 Chronicles 25:10**
+
+[TODO]
+
+**2 Chronicles 25:11**
+
+[TODO]
+
+**2 Chronicles 25:12**
+
+[TODO]
+
+**2 Chronicles 25:13**
+
+[TODO]
+
+**2 Chronicles 25:14**
+
+[TODO]
+
+**2 Chronicles 25:15**
+
+[TODO]
+
+**2 Chronicles 25:16**
+
+[TODO]
+
+**2 Chronicles 25:17**
+
+[TODO]
+
+**2 Chronicles 25:18**
+
+[TODO]
+
+**2 Chronicles 25:19**
+
+[TODO]
+
+**2 Chronicles 25:20**
+
+[TODO]
+
+**2 Chronicles 25:21**
+
+[TODO]
+
+**2 Chronicles 25:22**
+
+[TODO]
+
+**2 Chronicles 25:23**
+
+[TODO]
+
+**2 Chronicles 25:24**
+
+[TODO]
+
+**2 Chronicles 25:25**
+
+[TODO]
+
+**2 Chronicles 25:26**
+
+[TODO]
+
+**2 Chronicles 25:27**
+
+[TODO]
+
+**2 Chronicles 25:28**
+
+[TODO]
+
+### Chapter 26
+
+**2 Chronicles 26:1**
+
+[TODO]
+
+**2 Chronicles 26:2**
+
+[TODO]
+
+**2 Chronicles 26:3**
+
+[TODO]
+
+**2 Chronicles 26:4**
+
+[TODO]
+
+**2 Chronicles 26:5**
+
+[TODO]
+
+**2 Chronicles 26:6**
+
+[TODO]
+
+**2 Chronicles 26:7**
+
+[TODO]
+
+**2 Chronicles 26:8**
+
+[TODO]
+
+**2 Chronicles 26:9**
+
+[TODO]
+
+**2 Chronicles 26:10**
+
+[TODO]
+
+**2 Chronicles 26:11**
+
+[TODO]
+
+**2 Chronicles 26:12**
+
+[TODO]
+
+**2 Chronicles 26:13**
+
+[TODO]
+
+**2 Chronicles 26:14**
+
+[TODO]
+
+**2 Chronicles 26:15**
+
+[TODO]
+
+**2 Chronicles 26:16**
+
+[TODO]
+
+**2 Chronicles 26:17**
+
+[TODO]
+
+**2 Chronicles 26:18**
+
+[TODO]
+
+**2 Chronicles 26:19**
+
+[TODO]
+
+**2 Chronicles 26:20**
+
+[TODO]
+
+**2 Chronicles 26:21**
+
+[TODO]
+
+**2 Chronicles 26:22**
+
+[TODO]
+
+**2 Chronicles 26:23**
+
+[TODO]
+
+### Chapter 27
+
+**2 Chronicles 27:1**
+
+[TODO]
+
+**2 Chronicles 27:2**
+
+[TODO]
+
+**2 Chronicles 27:3**
+
+[TODO]
+
+**2 Chronicles 27:4**
+
+[TODO]
+
+**2 Chronicles 27:5**
+
+[TODO]
+
+**2 Chronicles 27:6**
+
+[TODO]
+
+**2 Chronicles 27:7**
+
+[TODO]
+
+**2 Chronicles 27:9**
+
+[TODO]
+
+### Chapter 28
+
+**2 Chronicles 28:1**
+
+[TODO]
+
+**2 Chronicles 28:2**
+
+[TODO]
+
+**2 Chronicles 28:3**
+
+[TODO]
+
+**2 Chronicles 28:4**
+
+[TODO]
+
+**2 Chronicles 28:5**
+
+[TODO]
+
+**2 Chronicles 28:6**
+
+[TODO]
+
+**2 Chronicles 28:7**
+
+[TODO]
+
+**2 Chronicles 28:8**
+
+[TODO]
+
+**2 Chronicles 28:9**
+
+[TODO]
+
+**2 Chronicles 28:10**
+
+[TODO]
+
+**2 Chronicles 28:11**
+
+[TODO]
+
+**2 Chronicles 28:12**
+
+[TODO]
+
+**2 Chronicles 28:13**
+
+[TODO]
+
+**2 Chronicles 28:14**
+
+[TODO]
+
+**2 Chronicles 28:15**
+
+[TODO]
+
+**2 Chronicles 28:16**
+
+[TODO]
+
+**2 Chronicles 28:17**
+
+[TODO]
+
+**2 Chronicles 28:18**
+
+[TODO]
+
+**2 Chronicles 28:19**
+
+[TODO]
+
+**2 Chronicles 28:20**
+
+[TODO]
+
+**2 Chronicles 28:21**
+
+[TODO]
+
+**2 Chronicles 28:22**
+
+[TODO]
+
+**2 Chronicles 28:23**
+
+[TODO]
+
+**2 Chronicles 28:24**
+
+[TODO]
+
+**2 Chronicles 28:25**
+
+[TODO]
+
+**2 Chronicles 28:26**
+
+[TODO]
+
+**2 Chronicles 28:27**
+
+[TODO]
+
+### Chapter 29
+
+**2 Chronicles 29:1**
+
+[TODO]
+
+**2 Chronicles 29:2**
+
+[TODO]
+
+**2 Chronicles 29:3**
+
+[TODO]
+
+**2 Chronicles 29:4**
+
+[TODO]
+
+**2 Chronicles 29:5**
+
+[TODO]
+
+**2 Chronicles 29:6**
+
+[TODO]
+
+**2 Chronicles 29:7**
+
+[TODO]
+
+**2 Chronicles 29:8**
+
+[TODO]
+
+**2 Chronicles 29:9**
+
+[TODO]
+
+**2 Chronicles 29:10**
+
+[TODO]
+
+**2 Chronicles 29:11**
+
+[TODO]
+
+**2 Chronicles 29:12**
+
+[TODO]
+
+**2 Chronicles 29:13**
+
+[TODO]
+
+**2 Chronicles 29:14**
+
+[TODO]
+
+**2 Chronicles 29:15**
+
+[TODO]
+
+**2 Chronicles 29:16**
+
+[TODO]
+
+**2 Chronicles 29:17**
+
+[TODO]
+
+**2 Chronicles 29:18**
+
+[TODO]
+
+**2 Chronicles 29:19**
+
+[TODO]
+
+**2 Chronicles 29:20**
+
+[TODO]
+
+**2 Chronicles 29:21**
+
+[TODO]
+
+**2 Chronicles 29:22**
+
+[TODO]
+
+**2 Chronicles 29:23**
+
+[TODO]
+
+**2 Chronicles 29:24**
+
+[TODO]
+
+**2 Chronicles 29:25**
+
+[TODO]
+
+**2 Chronicles 29:26**
+
+[TODO]
+
+**2 Chronicles 29:27**
+
+[TODO]
+
+**2 Chronicles 29:28**
+
+[TODO]
+
+**2 Chronicles 29:29**
+
+[TODO]
+
+**2 Chronicles 29:30**
+
+[TODO]
+
+**2 Chronicles 29:31**
+
+[TODO]
+
+**2 Chronicles 29:32**
+
+[TODO]
+
+**2 Chronicles 29:33**
+
+[TODO]
+
+**2 Chronicles 29:34**
+
+[TODO]
+
+**2 Chronicles 29:35**
+
+[TODO]
+
+**2 Chronicles 29:36**
+
+[TODO]
+
+### Chapter 30
+
+**2 Chronicles 30:1**
+
+[TODO]
+
+**2 Chronicles 30:2**
+
+[TODO]
+
+**2 Chronicles 30:3**
+
+[TODO]
+
+**2 Chronicles 30:4**
+
+[TODO]
+
+**2 Chronicles 30:5**
+
+[TODO]
+
+**2 Chronicles 30:6**
+
+[TODO]
+
+**2 Chronicles 30:7**
+
+[TODO]
+
+**2 Chronicles 30:8**
+
+[TODO]
+
+**2 Chronicles 30:9**
+
+[TODO]
+
+**2 Chronicles 30:10**
+
+[TODO]
+
+**2 Chronicles 30:11**
+
+[TODO]
+
+**2 Chronicles 30:12**
+
+[TODO]
+
+**2 Chronicles 30:13**
+
+[TODO]
+
+**2 Chronicles 30:14**
+
+[TODO]
+
+**2 Chronicles 30:15**
+
+[TODO]
+
+**2 Chronicles 30:16**
+
+[TODO]
+
+**2 Chronicles 30:17**
+
+[TODO]
+
+**2 Chronicles 30:18**
+
+[TODO]
+
+**2 Chronicles 30:19**
+
+[TODO]
+
+**2 Chronicles 30:20**
+
+[TODO]
+
+**2 Chronicles 30:21**
+
+[TODO]
+
+**2 Chronicles 30:22**
+
+[TODO]
+
+**2 Chronicles 30:23**
+
+[TODO]
+
+**2 Chronicles 30:24**
+
+[TODO]
+
+**2 Chronicles 30:25**
+
+[TODO]
+
+**2 Chronicles 30:26**
+
+[TODO]
+
+**2 Chronicles 30:27**
+
+[TODO]
+
+### Chapter 31
+
+**2 Chronicles 31:1**
+
+[TODO]
+
+**2 Chronicles 31:2**
+
+[TODO]
+
+**2 Chronicles 31:3**
+
+[TODO]
+
+**2 Chronicles 31:4**
+
+[TODO]
+
+**2 Chronicles 31:5**
+
+[TODO]
+
+**2 Chronicles 31:6**
+
+[TODO]
+
+**2 Chronicles 31:7**
+
+[TODO]
+
+**2 Chronicles 31:8**
+
+[TODO]
+
+**2 Chronicles 31:9**
+
+[TODO]
+
+**2 Chronicles 31:10**
+
+[TODO]
+
+**2 Chronicles 31:11**
+
+[TODO]
+
+**2 Chronicles 31:12**
+
+[TODO]
+
+**2 Chronicles 31:13**
+
+[TODO]
+
+**2 Chronicles 31:14**
+
+[TODO]
+
+**2 Chronicles 31:15**
+
+[TODO]
+
+**2 Chronicles 31:16**
+
+[TODO]
+
+**2 Chronicles 31:17**
+
+[TODO]
+
+**2 Chronicles 31:18**
+
+[TODO]
+
+**2 Chronicles 31:19**
+
+[TODO]
+
+**2 Chronicles 31:20**
+
+[TODO]
+
+**2 Chronicles 31:21**
+
+[TODO]
+
+### Chapter 32
+
+**2 Chronicles 32:1**
+
+[TODO]
+
+**2 Chronicles 32:2**
+
+[TODO]
+
+**2 Chronicles 32:3**
+
+[TODO]
+
+**2 Chronicles 32:4**
+
+[TODO]
+
+**2 Chronicles 32:5**
+
+[TODO]
+
+**2 Chronicles 32:6**
+
+[TODO]
+
+**2 Chronicles 32:7**
+
+[TODO]
+
+**2 Chronicles 32:8**
+
+[TODO]
+
+**2 Chronicles 32:9**
+
+[TODO]
+
+**2 Chronicles 32:10**
+
+[TODO]
+
+**2 Chronicles 32:11**
+
+[TODO]
+
+**2 Chronicles 32:12**
+
+[TODO]
+
+**2 Chronicles 32:13**
+
+[TODO]
+
+**2 Chronicles 32:14**
+
+[TODO]
+
+**2 Chronicles 32:15**
+
+[TODO]
+
+**2 Chronicles 32:16**
+
+[TODO]
+
+**2 Chronicles 32:17**
+
+[TODO]
+
+**2 Chronicles 32:18**
+
+[TODO]
+
+**2 Chronicles 32:19**
+
+[TODO]
+
+**2 Chronicles 32:20**
+
+[TODO]
+
+**2 Chronicles 32:21**
+
+[TODO]
+
+**2 Chronicles 32:22**
+
+[TODO]
+
+**2 Chronicles 32:23**
+
+[TODO]
+
+**2 Chronicles 32:24**
+
+[TODO]
+
+**2 Chronicles 32:25**
+
+[TODO]
+
+**2 Chronicles 32:26**
+
+[TODO]
+
+**2 Chronicles 32:27**
+
+[TODO]
+
+**2 Chronicles 32:28**
+
+[TODO]
+
+**2 Chronicles 32:29**
+
+[TODO]
+
+**2 Chronicles 32:30**
+
+[TODO]
+
+**2 Chronicles 32:31**
+
+[TODO]
+
+**2 Chronicles 32:32**
+
+[TODO]
+
+**2 Chronicles 32:33**
+
+[TODO]
+
+### Chapter 33
+
+**2 Chronicles 33:1**
+
+[TODO]
+
+**2 Chronicles 33:2**
+
+[TODO]
+
+**2 Chronicles 33:3**
+
+[TODO]
+
+**2 Chronicles 33:4**
+
+[TODO]
+
+**2 Chronicles 33:5**
+
+[TODO]
+
+**2 Chronicles 33:6**
+
+[TODO]
+
+**2 Chronicles 33:7**
+
+[TODO]
+
+**2 Chronicles 33:8**
+
+[TODO]
+
+**2 Chronicles 33:9**
+
+[TODO]
+
+**2 Chronicles 33:10**
+
+[TODO]
+
+**2 Chronicles 33:11**
+
+[TODO]
+
+**2 Chronicles 33:12**
+
+[TODO]
+
+**2 Chronicles 33:13**
+
+[TODO]
+
+**2 Chronicles 33:14**
+
+[TODO]
+
+**2 Chronicles 33:15**
+
+[TODO]
+
+**2 Chronicles 33:16**
+
+[TODO]
+
+**2 Chronicles 33:17**
+
+[TODO]
+
+**2 Chronicles 33:18**
+
+[TODO]
+
+**2 Chronicles 33:19**
+
+[TODO]
+
+**2 Chronicles 33:20**
+
+[TODO]
+
+**2 Chronicles 33:21**
+
+[TODO]
+
+**2 Chronicles 33:22**
+
+[TODO]
+
+**2 Chronicles 33:23**
+
+[TODO]
+
+**2 Chronicles 33:24**
+
+[TODO]
+
+**2 Chronicles 33:25**
+
+[TODO]
+
+### Chapter 34
+
+**2 Chronicles 34:1**
+
+[TODO]
+
+**2 Chronicles 34:2**
+
+[TODO]
+
+**2 Chronicles 34:3**
+
+[TODO]
+
+**2 Chronicles 34:4**
+
+[TODO]
+
+**2 Chronicles 34:5**
+
+[TODO]
+
+**2 Chronicles 34:6**
+
+[TODO]
+
+**2 Chronicles 34:7**
+
+[TODO]
+
+**2 Chronicles 34:8**
+
+[TODO]
+
+**2 Chronicles 34:9**
+
+[TODO]
+
+**2 Chronicles 34:10**
+
+[TODO]
+
+**2 Chronicles 34:11**
+
+[TODO]
+
+**2 Chronicles 34:12**
+
+[TODO]
+
+**2 Chronicles 34:13**
+
+[TODO]
+
+**2 Chronicles 34:14**
+
+[TODO]
+
+**2 Chronicles 34:15**
+
+[TODO]
+
+**2 Chronicles 34:16**
+
+[TODO]
+
+**2 Chronicles 34:17**
+
+[TODO]
+
+**2 Chronicles 34:18**
+
+[TODO]
+
+**2 Chronicles 34:19**
+
+[TODO]
+
+**2 Chronicles 34:20**
+
+[TODO]
+
+**2 Chronicles 34:21**
+
+[TODO]
+
+**2 Chronicles 34:22**
+
+[TODO]
+
+**2 Chronicles 34:23**
+
+[TODO]
+
+**2 Chronicles 34:24**
+
+[TODO]
+
+**2 Chronicles 34:25**
+
+[TODO]
+
+**2 Chronicles 34:26**
+
+[TODO]
+
+**2 Chronicles 34:27**
+
+[TODO]
+
+**2 Chronicles 34:28**
+
+[TODO]
+
+**2 Chronicles 34:29**
+
+[TODO]
+
+**2 Chronicles 34:30**
+
+[TODO]
+
+**2 Chronicles 34:31**
+
+[TODO]
+
+**2 Chronicles 34:32**
+
+[TODO]
+
+**2 Chronicles 34:33**
+
+[TODO]
+
+### Chapter 35
+
+**2 Chronicles 35:1**
+
+[TODO]
+
+**2 Chronicles 35:2**
+
+[TODO]
+
+**2 Chronicles 35:3**
+
+[TODO]
+
+**2 Chronicles 35:4**
+
+[TODO]
+
+**2 Chronicles 35:5**
+
+[TODO]
+
+**2 Chronicles 35:6**
+
+[TODO]
+
+**2 Chronicles 35:7**
+
+[TODO]
+
+**2 Chronicles 35:8**
+
+[TODO]
+
+**2 Chronicles 35:9**
+
+[TODO]
+
+**2 Chronicles 35:10**
+
+[TODO]
+
+**2 Chronicles 35:11**
+
+[TODO]
+
+**2 Chronicles 35:12**
+
+[TODO]
+
+**2 Chronicles 35:13**
+
+[TODO]
+
+**2 Chronicles 35:14**
+
+[TODO]
+
+**2 Chronicles 35:15**
+
+[TODO]
+
+**2 Chronicles 35:16**
+
+[TODO]
+
+**2 Chronicles 35:17**
+
+[TODO]
+
+**2 Chronicles 35:18**
+
+[TODO]
+
+**2 Chronicles 35:19**
+
+[TODO]
+
+**2 Chronicles 35:20**
+
+[TODO]
+
+**2 Chronicles 35:21**
+
+[TODO]
+
+**2 Chronicles 35:22**
+
+[TODO]
+
+**2 Chronicles 35:23**
+
+[TODO]
+
+**2 Chronicles 35:24**
+
+[TODO]
+
+**2 Chronicles 35:25**
+
+[TODO]
+
+**2 Chronicles 35:26**
+
+[TODO]
+
+**2 Chronicles 35:27**
+
+[TODO]
+
+### Chapter 36
+
+**2 Chronicles 36:1**
+
+[TODO]
+
+**2 Chronicles 36:2**
+
+[TODO]
+
+**2 Chronicles 36:3**
+
+[TODO]
+
+**2 Chronicles 36:4**
+
+[TODO]
+
+**2 Chronicles 36:5**
+
+[TODO]
+
+**2 Chronicles 36:6**
+
+[TODO]
+
+**2 Chronicles 36:7**
+
+[TODO]
+
+**2 Chronicles 36:8**
+
+[TODO]
+
+**2 Chronicles 36:9**
+
+[TODO]
+
+**2 Chronicles 36:10**
+
+[TODO]
+
+**2 Chronicles 36:11**
+
+[TODO]
+
+**2 Chronicles 36:12**
+
+[TODO]
+
+**2 Chronicles 36:13**
+
+[TODO]
+
+**2 Chronicles 36:14**
+
+[TODO]
+
+**2 Chronicles 36:15**
+
+[TODO]
+
+**2 Chronicles 36:16**
+
+[TODO]
+
+**2 Chronicles 36:17**
+
+[TODO]
+
+**2 Chronicles 36:18**
+
+[TODO]
+
+**2 Chronicles 36:19**
+
+[TODO]
+
+**2 Chronicles 36:20**
+
+[TODO]
+
+**2 Chronicles 36:21**
+
+[TODO]
+
+**2 Chronicles 36:22**
+
+[TODO]
+
+**2 Chronicles 36:23**
+
+[TODO]
+
+## Ezra
+
+### Chapter 1
+
+**Ezra 1:1**
+
+[TODO]
+
+**Ezra 1:2**
+
+[TODO]
+
+**Ezra 1:3**
+
+[TODO]
+
+**Ezra 1:4**
+
+[TODO]
+
+**Ezra 1:5**
+
+[TODO]
+
+**Ezra 1:6**
+
+[TODO]
+
+**Ezra 1:7**
+
+[TODO]
+
+**Ezra 1:8**
+
+[TODO]
+
+**Ezra 1:9**
+
+[TODO]
+
+**Ezra 1:10**
+
+[TODO]
+
+**Ezra 1:11**
+
+[TODO]
+
+**Ezra 1:12**
+
+[TODO]
+
+**Ezra 1:13**
+
+[TODO]
+
+**Ezra 1:14**
+
+[TODO]
+
+**Ezra 1:15**
+
+[TODO]
+
+**Ezra 1:16**
+
+[TODO]
+
+**Ezra 1:17**
+
+[TODO]
+
+**Ezra 1:18**
+
+[TODO]
+
+**Ezra 1:19**
+
+[TODO]
+
+**Ezra 1:20**
+
+[TODO]
+
+**Ezra 1:21**
+
+[TODO]
+
+**Ezra 1:22**
+
+[TODO]
+
+**Ezra 1:23**
+
+[TODO]
+
+**Ezra 1:24**
+
+[TODO]
+
+**Ezra 1:25**
+
+[TODO]
+
+**Ezra 1:26**
+
+[TODO]
+
+**Ezra 1:27**
+
+[TODO]
+
+**Ezra 1:28**
+
+[TODO]
+
+**Ezra 1:29**
+
+[TODO]
+
+**Ezra 1:30**
+
+[TODO]
+
+**Ezra 1:31**
+
+[TODO]
+
+**Ezra 1:32**
+
+[TODO]
+
+**Ezra 1:33**
+
+[TODO]
+
+**Ezra 1:34**
+
+[TODO]
+
+**Ezra 1:35**
+
+[TODO]
+
+**Ezra 1:36**
+
+[TODO]
+
+**Ezra 1:37**
+
+[TODO]
+
+**Ezra 1:38**
+
+[TODO]
+
+**Ezra 1:39**
+
+[TODO]
+
+**Ezra 1:40**
+
+[TODO]
+
+**Ezra 1:41**
+
+[TODO]
+
+**Ezra 1:42**
+
+[TODO]
+
+**Ezra 1:43**
+
+[TODO]
+
+**Ezra 1:44**
+
+[TODO]
+
+**Ezra 1:45**
+
+[TODO]
+
+**Ezra 1:46**
+
+[TODO]
+
+**Ezra 1:47**
+
+[TODO]
+
+**Ezra 1:48**
+
+[TODO]
+
+**Ezra 1:49**
+
+[TODO]
+
+**Ezra 1:50**
+
+[TODO]
+
+**Ezra 1:51**
+
+[TODO]
+
+**Ezra 1:52**
+
+[TODO]
+
+**Ezra 1:53**
+
+[TODO]
+
+**Ezra 1:54**
+
+[TODO]
+
+**Ezra 1:55**
+
+[TODO]
+
+### Chapter 2
+
+**Ezra 2:1**
+
+[TODO]
+
+**Ezra 2:2**
+
+[TODO]
+
+**Ezra 2:3**
+
+[TODO]
+
+**Ezra 2:4**
+
+[TODO]
+
+**Ezra 2:5**
+
+[TODO]
+
+**Ezra 2:6**
+
+[TODO]
+
+**Ezra 2:7**
+
+[TODO]
+
+**Ezra 2:8**
+
+[TODO]
+
+**Ezra 2:9**
+
+[TODO]
+
+**Ezra 2:10**
+
+[TODO]
+
+**Ezra 2:11**
+
+[TODO]
+
+**Ezra 2:12**
+
+[TODO]
+
+**Ezra 2:13**
+
+[TODO]
+
+**Ezra 2:14**
+
+[TODO]
+
+**Ezra 2:15**
+
+[TODO]
+
+**Ezra 2:16**
+
+[TODO]
+
+**Ezra 2:17**
+
+[TODO]
+
+**Ezra 2:18**
+
+[TODO]
+
+**Ezra 2:19**
+
+[TODO]
+
+**Ezra 2:20**
+
+[TODO]
+
+**Ezra 2:21**
+
+[TODO]
+
+**Ezra 2:22**
+
+[TODO]
+
+**Ezra 2:23**
+
+[TODO]
+
+**Ezra 2:24**
+
+[TODO]
+
+**Ezra 2:25**
+
+[TODO]
+
+**Ezra 2:26**
+
+[TODO]
+
+### Chapter 3
+
+**Ezra 3:1**
+
+[TODO]
+
+**Ezra 3:2**
+
+[TODO]
+
+**Ezra 3:3**
+
+[TODO]
+
+**Ezra 3:4**
+
+[TODO]
+
+**Ezra 3:5**
+
+[TODO]
+
+**Ezra 3:6**
+
+[TODO]
+
+**Ezra 3:7**
+
+[TODO]
+
+**Ezra 3:8**
+
+[TODO]
+
+**Ezra 3:9**
+
+[TODO]
+
+**Ezra 3:10**
+
+[TODO]
+
+**Ezra 3:11**
+
+[TODO]
+
+**Ezra 3:12**
+
+[TODO]
+
+**Ezra 3:13**
+
+[TODO]
+
+**Ezra 3:14**
+
+[TODO]
+
+**Ezra 3:15**
+
+[TODO]
+
+**Ezra 3:16**
+
+[TODO]
+
+**Ezra 3:17**
+
+[TODO]
+
+**Ezra 3:18**
+
+[TODO]
+
+**Ezra 3:19**
+
+[TODO]
+
+**Ezra 3:20**
+
+[TODO]
+
+**Ezra 3:21**
+
+[TODO]
+
+**Ezra 3:22**
+
+[TODO]
+
+**Ezra 3:23**
+
+[TODO]
+
+**Ezra 3:24**
+
+[TODO]
+
+### Chapter 4
+
+**Ezra 4:1**
+
+[TODO]
+
+**Ezra 4:2**
+
+[TODO]
+
+**Ezra 4:3**
+
+[TODO]
+
+**Ezra 4:4**
+
+[TODO]
+
+**Ezra 4:5**
+
+[TODO]
+
+**Ezra 4:6**
+
+[TODO]
+
+**Ezra 4:7**
+
+[TODO]
+
+**Ezra 4:8**
+
+[TODO]
+
+**Ezra 4:9**
+
+[TODO]
+
+**Ezra 4:10**
+
+[TODO]
+
+**Ezra 4:11**
+
+[TODO]
+
+**Ezra 4:12**
+
+[TODO]
+
+**Ezra 4:13**
+
+[TODO]
+
+**Ezra 4:14**
+
+[TODO]
+
+**Ezra 4:15**
+
+[TODO]
+
+**Ezra 4:16**
+
+[TODO]
+
+**Ezra 4:17**
+
+[TODO]
+
+**Ezra 4:18**
+
+[TODO]
+
+**Ezra 4:19**
+
+[TODO]
+
+**Ezra 4:20**
+
+[TODO]
+
+**Ezra 4:21**
+
+[TODO]
+
+**Ezra 4:22**
+
+[TODO]
+
+**Ezra 4:23**
+
+[TODO]
+
+**Ezra 4:24**
+
+[TODO]
+
+**Ezra 4:25**
+
+[TODO]
+
+**Ezra 4:26**
+
+[TODO]
+
+**Ezra 4:27**
+
+[TODO]
+
+**Ezra 4:28**
+
+[TODO]
+
+**Ezra 4:29**
+
+[TODO]
+
+**Ezra 4:30**
+
+[TODO]
+
+**Ezra 4:31**
+
+[TODO]
+
+**Ezra 4:32**
+
+[TODO]
+
+**Ezra 4:33**
+
+[TODO]
+
+**Ezra 4:34**
+
+[TODO]
+
+**Ezra 4:35**
+
+[TODO]
+
+**Ezra 4:36**
+
+[TODO]
+
+**Ezra 4:37**
+
+[TODO]
+
+**Ezra 4:38**
+
+[TODO]
+
+**Ezra 4:39**
+
+[TODO]
+
+**Ezra 4:40**
+
+[TODO]
+
+**Ezra 4:41**
+
+[TODO]
+
+**Ezra 4:42**
+
+[TODO]
+
+**Ezra 4:43**
+
+[TODO]
+
+**Ezra 4:44**
+
+[TODO]
+
+**Ezra 4:45**
+
+[TODO]
+
+**Ezra 4:46**
+
+[TODO]
+
+**Ezra 4:47**
+
+[TODO]
+
+**Ezra 4:48**
+
+[TODO]
+
+**Ezra 4:49**
+
+[TODO]
+
+**Ezra 4:50**
+
+[TODO]
+
+**Ezra 4:51**
+
+[TODO]
+
+**Ezra 4:52**
+
+[TODO]
+
+**Ezra 4:53**
+
+[TODO]
+
+**Ezra 4:54**
+
+[TODO]
+
+**Ezra 4:55**
+
+[TODO]
+
+**Ezra 4:56**
+
+[TODO]
+
+**Ezra 4:57**
+
+[TODO]
+
+**Ezra 4:58**
+
+[TODO]
+
+**Ezra 4:59**
+
+[TODO]
+
+**Ezra 4:60**
+
+[TODO]
+
+**Ezra 4:61**
+
+[TODO]
+
+**Ezra 4:62**
+
+[TODO]
+
+**Ezra 4:63**
+
+[TODO]
+
+### Chapter 5
+
+**Ezra 5:1**
+
+[TODO]
+
+**Ezra 5:2**
+
+[TODO]
+
+**Ezra 5:3**
+
+[TODO]
+
+**Ezra 5:4**
+
+[TODO]
+
+**Ezra 5:5**
+
+[TODO]
+
+**Ezra 5:6**
+
+[TODO]
+
+**Ezra 5:7**
+
+[TODO]
+
+**Ezra 5:8**
+
+[TODO]
+
+**Ezra 5:9**
+
+[TODO]
+
+**Ezra 5:10**
+
+[TODO]
+
+**Ezra 5:11**
+
+[TODO]
+
+**Ezra 5:12**
+
+[TODO]
+
+**Ezra 5:13**
+
+[TODO]
+
+**Ezra 5:14**
+
+[TODO]
+
+**Ezra 5:15**
+
+[TODO]
+
+**Ezra 5:16**
+
+[TODO]
+
+**Ezra 5:17**
+
+[TODO]
+
+**Ezra 5:18**
+
+[TODO]
+
+**Ezra 5:19**
+
+[TODO]
+
+**Ezra 5:20**
+
+[TODO]
+
+**Ezra 5:21**
+
+[TODO]
+
+**Ezra 5:22**
+
+[TODO]
+
+**Ezra 5:23**
+
+[TODO]
+
+**Ezra 5:24**
+
+[TODO]
+
+**Ezra 5:25**
+
+[TODO]
+
+**Ezra 5:26**
+
+[TODO]
+
+**Ezra 5:27**
+
+[TODO]
+
+**Ezra 5:28**
+
+[TODO]
+
+**Ezra 5:29**
+
+[TODO]
+
+**Ezra 5:30**
+
+[TODO]
+
+**Ezra 5:31**
+
+[TODO]
+
+**Ezra 5:32**
+
+[TODO]
+
+**Ezra 5:33**
+
+[TODO]
+
+**Ezra 5:34**
+
+[TODO]
+
+**Ezra 5:35**
+
+[TODO]
+
+**Ezra 5:36**
+
+[TODO]
+
+**Ezra 5:37**
+
+[TODO]
+
+**Ezra 5:38**
+
+[TODO]
+
+**Ezra 5:39**
+
+[TODO]
+
+**Ezra 5:40**
+
+[TODO]
+
+**Ezra 5:41**
+
+[TODO]
+
+**Ezra 5:42**
+
+[TODO]
+
+**Ezra 5:43**
+
+[TODO]
+
+**Ezra 5:44**
+
+[TODO]
+
+**Ezra 5:45**
+
+[TODO]
+
+**Ezra 5:46**
+
+[TODO]
+
+**Ezra 5:47**
+
+[TODO]
+
+**Ezra 5:48**
+
+[TODO]
+
+**Ezra 5:49**
+
+[TODO]
+
+**Ezra 5:50**
+
+[TODO]
+
+**Ezra 5:51**
+
+[TODO]
+
+**Ezra 5:52**
+
+[TODO]
+
+**Ezra 5:53**
+
+[TODO]
+
+**Ezra 5:54**
+
+[TODO]
+
+**Ezra 5:55**
+
+[TODO]
+
+**Ezra 5:56**
+
+[TODO]
+
+**Ezra 5:57**
+
+[TODO]
+
+**Ezra 5:58**
+
+[TODO]
+
+**Ezra 5:59**
+
+[TODO]
+
+**Ezra 5:60**
+
+[TODO]
+
+**Ezra 5:61**
+
+[TODO]
+
+**Ezra 5:62**
+
+[TODO]
+
+**Ezra 5:63**
+
+[TODO]
+
+**Ezra 5:64**
+
+[TODO]
+
+**Ezra 5:65**
+
+[TODO]
+
+**Ezra 5:66**
+
+[TODO]
+
+**Ezra 5:67**
+
+[TODO]
+
+**Ezra 5:68**
+
+[TODO]
+
+**Ezra 5:69**
+
+[TODO]
+
+**Ezra 5:70**
+
+[TODO]
+
+**Ezra 5:71**
+
+[TODO]
+
+### Chapter 6
+
+**Ezra 6:1**
+
+[TODO]
+
+**Ezra 6:2**
+
+[TODO]
+
+**Ezra 6:3**
+
+[TODO]
+
+**Ezra 6:4**
+
+[TODO]
+
+**Ezra 6:5**
+
+[TODO]
+
+**Ezra 6:6**
+
+[TODO]
+
+**Ezra 6:7**
+
+[TODO]
+
+**Ezra 6:8**
+
+[TODO]
+
+**Ezra 6:9**
+
+[TODO]
+
+**Ezra 6:10**
+
+[TODO]
+
+**Ezra 6:11**
+
+[TODO]
+
+**Ezra 6:12**
+
+[TODO]
+
+**Ezra 6:13**
+
+[TODO]
+
+**Ezra 6:14**
+
+[TODO]
+
+**Ezra 6:15**
+
+[TODO]
+
+**Ezra 6:16**
+
+[TODO]
+
+**Ezra 6:17**
+
+[TODO]
+
+**Ezra 6:18**
+
+[TODO]
+
+**Ezra 6:19**
+
+[TODO]
+
+**Ezra 6:20**
+
+[TODO]
+
+**Ezra 6:21**
+
+[TODO]
+
+**Ezra 6:22**
+
+[TODO]
+
+**Ezra 6:23**
+
+[TODO]
+
+**Ezra 6:24**
+
+[TODO]
+
+**Ezra 6:25**
+
+[TODO]
+
+**Ezra 6:26**
+
+[TODO]
+
+**Ezra 6:27**
+
+[TODO]
+
+**Ezra 6:28**
+
+[TODO]
+
+**Ezra 6:29**
+
+[TODO]
+
+**Ezra 6:30**
+
+[TODO]
+
+**Ezra 6:31**
+
+[TODO]
+
+**Ezra 6:32**
+
+[TODO]
+
+**Ezra 6:33**
+
+[TODO]
+
+### Chapter 7
+
+**Ezra 7:1**
+
+[TODO]
+
+**Ezra 7:2**
+
+[TODO]
+
+**Ezra 7:3**
+
+[TODO]
+
+**Ezra 7:4**
+
+[TODO]
+
+**Ezra 7:5**
+
+[TODO]
+
+**Ezra 7:6**
+
+[TODO]
+
+**Ezra 7:7**
+
+[TODO]
+
+**Ezra 7:8**
+
+[TODO]
+
+**Ezra 7:9**
+
+[TODO]
+
+**Ezra 7:10**
+
+[TODO]
+
+**Ezra 7:11**
+
+[TODO]
+
+**Ezra 7:12**
+
+[TODO]
+
+**Ezra 7:13**
+
+[TODO]
+
+**Ezra 7:14**
+
+[TODO]
+
+**Ezra 7:15**
+
+[TODO]
+
+### Chapter 8
+
+**Ezra 8:1**
+
+[TODO]
+
+**Ezra 8:2**
+
+[TODO]
+
+**Ezra 8:3**
+
+[TODO]
+
+**Ezra 8:4**
+
+[TODO]
+
+**Ezra 8:5**
+
+[TODO]
+
+**Ezra 8:6**
+
+[TODO]
+
+**Ezra 8:7**
+
+[TODO]
+
+**Ezra 8:8**
+
+[TODO]
+
+**Ezra 8:9**
+
+[TODO]
+
+**Ezra 8:10**
+
+[TODO]
+
+**Ezra 8:11**
+
+[TODO]
+
+**Ezra 8:12**
+
+[TODO]
+
+**Ezra 8:13**
+
+[TODO]
+
+**Ezra 8:14**
+
+[TODO]
+
+**Ezra 8:15**
+
+[TODO]
+
+**Ezra 8:16**
+
+[TODO]
+
+**Ezra 8:17**
+
+[TODO]
+
+**Ezra 8:18**
+
+[TODO]
+
+**Ezra 8:19**
+
+[TODO]
+
+**Ezra 8:20**
+
+[TODO]
+
+**Ezra 8:21**
+
+[TODO]
+
+**Ezra 8:22**
+
+[TODO]
+
+**Ezra 8:23**
+
+[TODO]
+
+**Ezra 8:24**
+
+[TODO]
+
+**Ezra 8:25**
+
+[TODO]
+
+**Ezra 8:26**
+
+[TODO]
+
+**Ezra 8:27**
+
+[TODO]
+
+**Ezra 8:28**
+
+[TODO]
+
+**Ezra 8:29**
+
+[TODO]
+
+**Ezra 8:30**
+
+[TODO]
+
+**Ezra 8:31**
+
+[TODO]
+
+**Ezra 8:32**
+
+[TODO]
+
+**Ezra 8:33**
+
+[TODO]
+
+**Ezra 8:34**
+
+[TODO]
+
+**Ezra 8:35**
+
+[TODO]
+
+**Ezra 8:36**
+
+[TODO]
+
+**Ezra 8:37**
+
+[TODO]
+
+**Ezra 8:38**
+
+[TODO]
+
+**Ezra 8:39**
+
+[TODO]
+
+**Ezra 8:40**
+
+[TODO]
+
+**Ezra 8:41**
+
+[TODO]
+
+**Ezra 8:42**
+
+[TODO]
+
+**Ezra 8:43**
+
+[TODO]
+
+**Ezra 8:44**
+
+[TODO]
+
+**Ezra 8:45**
+
+[TODO]
+
+**Ezra 8:46**
+
+[TODO]
+
+**Ezra 8:47**
+
+[TODO]
+
+**Ezra 8:48**
+
+[TODO]
+
+**Ezra 8:49**
+
+[TODO]
+
+**Ezra 8:50**
+
+[TODO]
+
+**Ezra 8:51**
+
+[TODO]
+
+**Ezra 8:52**
+
+[TODO]
+
+**Ezra 8:53**
+
+[TODO]
+
+**Ezra 8:54**
+
+[TODO]
+
+**Ezra 8:55**
+
+[TODO]
+
+**Ezra 8:56**
+
+[TODO]
+
+**Ezra 8:57**
+
+[TODO]
+
+**Ezra 8:58**
+
+[TODO]
+
+**Ezra 8:59**
+
+[TODO]
+
+**Ezra 8:60**
+
+[TODO]
+
+**Ezra 8:61**
+
+[TODO]
+
+**Ezra 8:62**
+
+[TODO]
+
+**Ezra 8:63**
+
+[TODO]
+
+**Ezra 8:64**
+
+[TODO]
+
+**Ezra 8:65**
+
+[TODO]
+
+**Ezra 8:66**
+
+[TODO]
+
+**Ezra 8:67**
+
+[TODO]
+
+**Ezra 8:68**
+
+[TODO]
+
+**Ezra 8:69**
+
+[TODO]
+
+**Ezra 8:70**
+
+[TODO]
+
+**Ezra 8:71**
+
+[TODO]
+
+**Ezra 8:72**
+
+[TODO]
+
+**Ezra 8:73**
+
+[TODO]
+
+**Ezra 8:74**
+
+[TODO]
+
+**Ezra 8:75**
+
+[TODO]
+
+**Ezra 8:76**
+
+[TODO]
+
+**Ezra 8:77**
+
+[TODO]
+
+**Ezra 8:78**
+
+[TODO]
+
+**Ezra 8:79**
+
+[TODO]
+
+**Ezra 8:80**
+
+[TODO]
+
+**Ezra 8:81**
+
+[TODO]
+
+**Ezra 8:82**
+
+[TODO]
+
+**Ezra 8:83**
+
+[TODO]
+
+**Ezra 8:84**
+
+[TODO]
+
+**Ezra 8:85**
+
+[TODO]
+
+**Ezra 8:86**
+
+[TODO]
+
+**Ezra 8:87**
+
+[TODO]
+
+**Ezra 8:88**
+
+[TODO]
+
+**Ezra 8:89**
+
+[TODO]
+
+**Ezra 8:90**
+
+[TODO]
+
+**Ezra 8:91**
+
+[TODO]
+
+**Ezra 8:92**
+
+[TODO]
+
+### Chapter 9
+
+**Ezra 9:1**
+
+[TODO]
+
+**Ezra 9:2**
+
+[TODO]
+
+**Ezra 9:3**
+
+[TODO]
+
+**Ezra 9:4**
+
+[TODO]
+
+**Ezra 9:5**
+
+[TODO]
+
+**Ezra 9:6**
+
+[TODO]
+
+**Ezra 9:7**
+
+[TODO]
+
+**Ezra 9:8**
+
+[TODO]
+
+**Ezra 9:9**
+
+[TODO]
+
+**Ezra 9:10**
+
+[TODO]
+
+**Ezra 9:11**
+
+[TODO]
+
+**Ezra 9:12**
+
+[TODO]
+
+**Ezra 9:13**
+
+[TODO]
+
+**Ezra 9:14**
+
+[TODO]
+
+**Ezra 9:15**
+
+[TODO]
+
+**Ezra 9:16**
+
+[TODO]
+
+**Ezra 9:17**
+
+[TODO]
+
+**Ezra 9:18**
+
+[TODO]
+
+**Ezra 9:19**
+
+[TODO]
+
+**Ezra 9:20**
+
+[TODO]
+
+**Ezra 9:21**
+
+[TODO]
+
+**Ezra 9:22**
+
+[TODO]
+
+**Ezra 9:23**
+
+[TODO]
+
+**Ezra 9:24**
+
+[TODO]
+
+**Ezra 9:25**
+
+[TODO]
+
+**Ezra 9:26**
+
+[TODO]
+
+**Ezra 9:27**
+
+[TODO]
+
+**Ezra 9:28**
+
+[TODO]
+
+**Ezra 9:29**
+
+[TODO]
+
+**Ezra 9:30**
+
+[TODO]
+
+**Ezra 9:31**
+
+[TODO]
+
+**Ezra 9:32**
+
+[TODO]
+
+**Ezra 9:33**
+
+[TODO]
+
+**Ezra 9:34**
+
+[TODO]
+
+**Ezra 9:35**
+
+[TODO]
+
+**Ezra 9:36**
+
+[TODO]
+
+**Ezra 9:37**
+
+[TODO]
+
+**Ezra 9:38**
+
+[TODO]
+
+**Ezra 9:39**
+
+[TODO]
+
+**Ezra 9:40**
+
+[TODO]
+
+**Ezra 9:41**
+
+[TODO]
+
+**Ezra 9:42**
+
+[TODO]
+
+**Ezra 9:43**
+
+[TODO]
+
+**Ezra 9:44**
+
+[TODO]
+
+**Ezra 9:45**
+
+[TODO]
+
+**Ezra 9:46**
+
+[TODO]
+
+**Ezra 9:47**
+
+[TODO]
+
+**Ezra 9:48**
+
+[TODO]
+
+**Ezra 9:49**
+
+[TODO]
+
+**Ezra 9:50**
+
+[TODO]
+
+**Ezra 9:51**
+
+[TODO]
+
+**Ezra 9:52**
+
+[TODO]
+
+**Ezra 9:53**
+
+[TODO]
+
+**Ezra 9:54**
+
+[TODO]
+
+**Ezra 9:55**
+
+[TODO]
+
+## Nehemiah
+
+### Chapter 1
+
+**Nehemiah 1:1**
+
+[TODO]
+
+**Nehemiah 1:2**
+
+[TODO]
+
+**Nehemiah 1:3**
+
+[TODO]
+
+**Nehemiah 1:4**
+
+[TODO]
+
+**Nehemiah 1:5**
+
+[TODO]
+
+**Nehemiah 1:6**
+
+[TODO]
+
+**Nehemiah 1:7**
+
+[TODO]
+
+**Nehemiah 1:8**
+
+[TODO]
+
+**Nehemiah 1:9**
+
+[TODO]
+
+**Nehemiah 1:10**
+
+[TODO]
+
+**Nehemiah 1:11**
+
+[TODO]
+
+### Chapter 2
+
+**Nehemiah 2:1**
+
+[TODO]
+
+**Nehemiah 2:2**
+
+[TODO]
+
+**Nehemiah 2:3**
+
+[TODO]
+
+**Nehemiah 2:4**
+
+[TODO]
+
+**Nehemiah 2:5**
+
+[TODO]
+
+**Nehemiah 2:6**
+
+[TODO]
+
+**Nehemiah 2:7**
+
+[TODO]
+
+**Nehemiah 2:8**
+
+[TODO]
+
+**Nehemiah 2:9**
+
+[TODO]
+
+**Nehemiah 2:10**
+
+[TODO]
+
+**Nehemiah 2:11**
+
+[TODO]
+
+**Nehemiah 2:12**
+
+[TODO]
+
+**Nehemiah 2:13**
+
+[TODO]
+
+**Nehemiah 2:14**
+
+[TODO]
+
+**Nehemiah 2:15**
+
+[TODO]
+
+**Nehemiah 2:16**
+
+[TODO]
+
+**Nehemiah 2:17**
+
+[TODO]
+
+**Nehemiah 2:18**
+
+[TODO]
+
+**Nehemiah 2:19**
+
+[TODO]
+
+**Nehemiah 2:20**
+
+[TODO]
+
+**Nehemiah 2:21**
+
+[TODO]
+
+**Nehemiah 2:22**
+
+[TODO]
+
+**Nehemiah 2:23**
+
+[TODO]
+
+**Nehemiah 2:24**
+
+[TODO]
+
+**Nehemiah 2:25**
+
+[TODO]
+
+**Nehemiah 2:26**
+
+[TODO]
+
+**Nehemiah 2:27**
+
+[TODO]
+
+**Nehemiah 2:28**
+
+[TODO]
+
+**Nehemiah 2:29**
+
+[TODO]
+
+**Nehemiah 2:30**
+
+[TODO]
+
+**Nehemiah 2:31**
+
+[TODO]
+
+**Nehemiah 2:32**
+
+[TODO]
+
+**Nehemiah 2:33**
+
+[TODO]
+
+**Nehemiah 2:34**
+
+[TODO]
+
+**Nehemiah 2:35**
+
+[TODO]
+
+**Nehemiah 2:36**
+
+[TODO]
+
+**Nehemiah 2:37**
+
+[TODO]
+
+**Nehemiah 2:38**
+
+[TODO]
+
+**Nehemiah 2:39**
+
+[TODO]
+
+**Nehemiah 2:40**
+
+[TODO]
+
+**Nehemiah 2:41**
+
+[TODO]
+
+**Nehemiah 2:42**
+
+[TODO]
+
+**Nehemiah 2:43**
+
+[TODO]
+
+**Nehemiah 2:44**
+
+[TODO]
+
+**Nehemiah 2:45**
+
+[TODO]
+
+**Nehemiah 2:46**
+
+[TODO]
+
+**Nehemiah 2:47**
+
+[TODO]
+
+**Nehemiah 2:48**
+
+[TODO]
+
+**Nehemiah 2:49**
+
+[TODO]
+
+**Nehemiah 2:50**
+
+[TODO]
+
+**Nehemiah 2:51**
+
+[TODO]
+
+**Nehemiah 2:52**
+
+[TODO]
+
+**Nehemiah 2:53**
+
+[TODO]
+
+**Nehemiah 2:54**
+
+[TODO]
+
+**Nehemiah 2:55**
+
+[TODO]
+
+**Nehemiah 2:56**
+
+[TODO]
+
+**Nehemiah 2:57**
+
+[TODO]
+
+**Nehemiah 2:58**
+
+[TODO]
+
+**Nehemiah 2:59**
+
+[TODO]
+
+**Nehemiah 2:60**
+
+[TODO]
+
+**Nehemiah 2:61**
+
+[TODO]
+
+**Nehemiah 2:62**
+
+[TODO]
+
+**Nehemiah 2:63**
+
+[TODO]
+
+**Nehemiah 2:64**
+
+[TODO]
+
+**Nehemiah 2:65**
+
+[TODO]
+
+**Nehemiah 2:66**
+
+[TODO]
+
+**Nehemiah 2:67**
+
+[TODO]
+
+**Nehemiah 2:68**
+
+[TODO]
+
+**Nehemiah 2:69**
+
+[TODO]
+
+**Nehemiah 2:70**
+
+[TODO]
+
+### Chapter 3
+
+**Nehemiah 3:1**
+
+[TODO]
+
+**Nehemiah 3:2**
+
+[TODO]
+
+**Nehemiah 3:3**
+
+[TODO]
+
+**Nehemiah 3:4**
+
+[TODO]
+
+**Nehemiah 3:5**
+
+[TODO]
+
+**Nehemiah 3:6**
+
+[TODO]
+
+**Nehemiah 3:7**
+
+[TODO]
+
+**Nehemiah 3:8**
+
+[TODO]
+
+**Nehemiah 3:9**
+
+[TODO]
+
+**Nehemiah 3:10**
+
+[TODO]
+
+**Nehemiah 3:11**
+
+[TODO]
+
+**Nehemiah 3:12**
+
+[TODO]
+
+**Nehemiah 3:13**
+
+[TODO]
+
+### Chapter 4
+
+**Nehemiah 4:1**
+
+[TODO]
+
+**Nehemiah 4:2**
+
+[TODO]
+
+**Nehemiah 4:3**
+
+[TODO]
+
+**Nehemiah 4:4**
+
+[TODO]
+
+**Nehemiah 4:5**
+
+[TODO]
+
+**Nehemiah 4:6**
+
+[TODO]
+
+**Nehemiah 4:7**
+
+[TODO]
+
+**Nehemiah 4:8**
+
+[TODO]
+
+**Nehemiah 4:9**
+
+[TODO]
+
+**Nehemiah 4:10**
+
+[TODO]
+
+**Nehemiah 4:11**
+
+[TODO]
+
+**Nehemiah 4:12**
+
+[TODO]
+
+**Nehemiah 4:13**
+
+[TODO]
+
+**Nehemiah 4:14**
+
+[TODO]
+
+**Nehemiah 4:15**
+
+[TODO]
+
+**Nehemiah 4:16**
+
+[TODO]
+
+**Nehemiah 4:17**
+
+[TODO]
+
+**Nehemiah 4:18**
+
+[TODO]
+
+**Nehemiah 4:19**
+
+[TODO]
+
+**Nehemiah 4:20**
+
+[TODO]
+
+**Nehemiah 4:21**
+
+[TODO]
+
+**Nehemiah 4:22**
+
+[TODO]
+
+**Nehemiah 4:23**
+
+[TODO]
+
+**Nehemiah 4:24**
+
+[TODO]
+
+### Chapter 5
+
+**Nehemiah 5:1**
+
+[TODO]
+
+**Nehemiah 5:2**
+
+[TODO]
+
+**Nehemiah 5:3**
+
+[TODO]
+
+**Nehemiah 5:4**
+
+[TODO]
+
+**Nehemiah 5:5**
+
+[TODO]
+
+**Nehemiah 5:6**
+
+[TODO]
+
+**Nehemiah 5:7**
+
+[TODO]
+
+**Nehemiah 5:8**
+
+[TODO]
+
+**Nehemiah 5:9**
+
+[TODO]
+
+**Nehemiah 5:10**
+
+[TODO]
+
+**Nehemiah 5:11**
+
+[TODO]
+
+**Nehemiah 5:12**
+
+[TODO]
+
+**Nehemiah 5:13**
+
+[TODO]
+
+**Nehemiah 5:14**
+
+[TODO]
+
+**Nehemiah 5:15**
+
+[TODO]
+
+**Nehemiah 5:16**
+
+[TODO]
+
+**Nehemiah 5:17**
+
+[TODO]
+
+### Chapter 6
+
+**Nehemiah 6:1**
+
+[TODO]
+
+**Nehemiah 6:2**
+
+[TODO]
+
+**Nehemiah 6:3**
+
+[TODO]
+
+**Nehemiah 6:4**
+
+[TODO]
+
+**Nehemiah 6:5**
+
+[TODO]
+
+**Nehemiah 6:6**
+
+[TODO]
+
+**Nehemiah 6:7**
+
+[TODO]
+
+**Nehemiah 6:8**
+
+[TODO]
+
+**Nehemiah 6:9**
+
+[TODO]
+
+**Nehemiah 6:10**
+
+[TODO]
+
+**Nehemiah 6:11**
+
+[TODO]
+
+**Nehemiah 6:12**
+
+[TODO]
+
+**Nehemiah 6:13**
+
+[TODO]
+
+**Nehemiah 6:14**
+
+[TODO]
+
+**Nehemiah 6:15**
+
+[TODO]
+
+**Nehemiah 6:16**
+
+[TODO]
+
+**Nehemiah 6:17**
+
+[TODO]
+
+**Nehemiah 6:18**
+
+[TODO]
+
+**Nehemiah 6:19**
+
+[TODO]
+
+**Nehemiah 6:20**
+
+[TODO]
+
+**Nehemiah 6:21**
+
+[TODO]
+
+**Nehemiah 6:22**
+
+[TODO]
+
+### Chapter 7
+
+**Nehemiah 7:1**
+
+[TODO]
+
+**Nehemiah 7:2**
+
+[TODO]
+
+**Nehemiah 7:3**
+
+[TODO]
+
+**Nehemiah 7:4**
+
+[TODO]
+
+**Nehemiah 7:5**
+
+[TODO]
+
+**Nehemiah 7:6**
+
+[TODO]
+
+**Nehemiah 7:7**
+
+[TODO]
+
+**Nehemiah 7:8**
+
+[TODO]
+
+**Nehemiah 7:9**
+
+[TODO]
+
+**Nehemiah 7:10**
+
+[TODO]
+
+**Nehemiah 7:11**
+
+[TODO]
+
+**Nehemiah 7:12**
+
+[TODO]
+
+**Nehemiah 7:13**
+
+[TODO]
+
+**Nehemiah 7:14**
+
+[TODO]
+
+**Nehemiah 7:15**
+
+[TODO]
+
+**Nehemiah 7:16**
+
+[TODO]
+
+**Nehemiah 7:17**
+
+[TODO]
+
+**Nehemiah 7:18**
+
+[TODO]
+
+**Nehemiah 7:19**
+
+[TODO]
+
+**Nehemiah 7:20**
+
+[TODO]
+
+**Nehemiah 7:21**
+
+[TODO]
+
+**Nehemiah 7:22**
+
+[TODO]
+
+**Nehemiah 7:23**
+
+[TODO]
+
+**Nehemiah 7:24**
+
+[TODO]
+
+**Nehemiah 7:25**
+
+[TODO]
+
+**Nehemiah 7:26**
+
+[TODO]
+
+**Nehemiah 7:27**
+
+[TODO]
+
+**Nehemiah 7:28**
+
+[TODO]
+
+### Chapter 8
+
+**Nehemiah 8:1**
+
+[TODO]
+
+**Nehemiah 8:2**
+
+[TODO]
+
+**Nehemiah 8:3**
+
+[TODO]
+
+**Nehemiah 8:4**
+
+[TODO]
+
+**Nehemiah 8:5**
+
+[TODO]
+
+**Nehemiah 8:6**
+
+[TODO]
+
+**Nehemiah 8:7**
+
+[TODO]
+
+**Nehemiah 8:8**
+
+[TODO]
+
+**Nehemiah 8:9**
+
+[TODO]
+
+**Nehemiah 8:10**
+
+[TODO]
+
+**Nehemiah 8:11**
+
+[TODO]
+
+**Nehemiah 8:12**
+
+[TODO]
+
+**Nehemiah 8:13**
+
+[TODO]
+
+**Nehemiah 8:14**
+
+[TODO]
+
+**Nehemiah 8:15**
+
+[TODO]
+
+**Nehemiah 8:16**
+
+[TODO]
+
+**Nehemiah 8:17**
+
+[TODO]
+
+**Nehemiah 8:18**
+
+[TODO]
+
+**Nehemiah 8:19**
+
+[TODO]
+
+**Nehemiah 8:20**
+
+[TODO]
+
+**Nehemiah 8:21**
+
+[TODO]
+
+**Nehemiah 8:22**
+
+[TODO]
+
+**Nehemiah 8:23**
+
+[TODO]
+
+**Nehemiah 8:24**
+
+[TODO]
+
+**Nehemiah 8:25**
+
+[TODO]
+
+**Nehemiah 8:26**
+
+[TODO]
+
+**Nehemiah 8:27**
+
+[TODO]
+
+**Nehemiah 8:28**
+
+[TODO]
+
+**Nehemiah 8:29**
+
+[TODO]
+
+**Nehemiah 8:30**
+
+[TODO]
+
+**Nehemiah 8:31**
+
+[TODO]
+
+**Nehemiah 8:32**
+
+[TODO]
+
+**Nehemiah 8:33**
+
+[TODO]
+
+**Nehemiah 8:34**
+
+[TODO]
+
+**Nehemiah 8:35**
+
+[TODO]
+
+**Nehemiah 8:36**
+
+[TODO]
+
+### Chapter 9
+
+**Nehemiah 9:1**
+
+[TODO]
+
+**Nehemiah 9:2**
+
+[TODO]
+
+**Nehemiah 9:3**
+
+[TODO]
+
+**Nehemiah 9:4**
+
+[TODO]
+
+**Nehemiah 9:5**
+
+[TODO]
+
+**Nehemiah 9:6**
+
+[TODO]
+
+**Nehemiah 9:7**
+
+[TODO]
+
+**Nehemiah 9:8**
+
+[TODO]
+
+**Nehemiah 9:9**
+
+[TODO]
+
+**Nehemiah 9:10**
+
+[TODO]
+
+**Nehemiah 9:11**
+
+[TODO]
+
+**Nehemiah 9:12**
+
+[TODO]
+
+**Nehemiah 9:13**
+
+[TODO]
+
+**Nehemiah 9:14**
+
+[TODO]
+
+**Nehemiah 9:15**
+
+[TODO]
+
+### Chapter 10
+
+**Nehemiah 10:1**
+
+[TODO]
+
+**Nehemiah 10:2**
+
+[TODO]
+
+**Nehemiah 10:3**
+
+[TODO]
+
+**Nehemiah 10:4**
+
+[TODO]
+
+**Nehemiah 10:5**
+
+[TODO]
+
+**Nehemiah 10:6**
+
+[TODO]
+
+**Nehemiah 10:7**
+
+[TODO]
+
+**Nehemiah 10:8**
+
+[TODO]
+
+**Nehemiah 10:9**
+
+[TODO]
+
+**Nehemiah 10:10**
+
+[TODO]
+
+**Nehemiah 10:11**
+
+[TODO]
+
+**Nehemiah 10:12**
+
+[TODO]
+
+**Nehemiah 10:13**
+
+[TODO]
+
+**Nehemiah 10:14**
+
+[TODO]
+
+**Nehemiah 10:15**
+
+[TODO]
+
+**Nehemiah 10:16**
+
+[TODO]
+
+**Nehemiah 10:17**
+
+[TODO]
+
+**Nehemiah 10:18**
+
+[TODO]
+
+**Nehemiah 10:19**
+
+[TODO]
+
+**Nehemiah 10:20**
+
+[TODO]
+
+**Nehemiah 10:21**
+
+[TODO]
+
+**Nehemiah 10:22**
+
+[TODO]
+
+**Nehemiah 10:23**
+
+[TODO]
+
+**Nehemiah 10:24**
+
+[TODO]
+
+**Nehemiah 10:25**
+
+[TODO]
+
+**Nehemiah 10:26**
+
+[TODO]
+
+**Nehemiah 10:27**
+
+[TODO]
+
+**Nehemiah 10:28**
+
+[TODO]
+
+**Nehemiah 10:29**
+
+[TODO]
+
+**Nehemiah 10:30**
+
+[TODO]
+
+**Nehemiah 10:31**
+
+[TODO]
+
+**Nehemiah 10:32**
+
+[TODO]
+
+**Nehemiah 10:33**
+
+[TODO]
+
+**Nehemiah 10:34**
+
+[TODO]
+
+**Nehemiah 10:35**
+
+[TODO]
+
+**Nehemiah 10:36**
+
+[TODO]
+
+**Nehemiah 10:37**
+
+[TODO]
+
+**Nehemiah 10:38**
+
+[TODO]
+
+**Nehemiah 10:39**
+
+[TODO]
+
+**Nehemiah 10:40**
+
+[TODO]
+
+**Nehemiah 10:41**
+
+[TODO]
+
+**Nehemiah 10:42**
+
+[TODO]
+
+**Nehemiah 10:43**
+
+[TODO]
+
+**Nehemiah 10:44**
+
+[TODO]
+
+### Chapter 11
+
+**Nehemiah 11:1**
+
+[TODO]
+
+**Nehemiah 11:2**
+
+[TODO]
+
+**Nehemiah 11:3**
+
+[TODO]
+
+**Nehemiah 11:4**
+
+[TODO]
+
+**Nehemiah 11:5**
+
+[TODO]
+
+**Nehemiah 11:6**
+
+[TODO]
+
+**Nehemiah 11:7**
+
+[TODO]
+
+**Nehemiah 11:8**
+
+[TODO]
+
+**Nehemiah 11:9**
+
+[TODO]
+
+**Nehemiah 11:10**
+
+[TODO]
+
+**Nehemiah 11:11**
+
+[TODO]
+
+### Chapter 12
+
+**Nehemiah 12:1**
+
+[TODO]
+
+**Nehemiah 12:2**
+
+[TODO]
+
+**Nehemiah 12:3**
+
+[TODO]
+
+**Nehemiah 12:4**
+
+[TODO]
+
+**Nehemiah 12:5**
+
+[TODO]
+
+**Nehemiah 12:6**
+
+[TODO]
+
+**Nehemiah 12:7**
+
+[TODO]
+
+**Nehemiah 12:8**
+
+[TODO]
+
+**Nehemiah 12:9**
+
+[TODO]
+
+**Nehemiah 12:10**
+
+[TODO]
+
+**Nehemiah 12:11**
+
+[TODO]
+
+**Nehemiah 12:12**
+
+[TODO]
+
+**Nehemiah 12:13**
+
+[TODO]
+
+**Nehemiah 12:14**
+
+[TODO]
+
+**Nehemiah 12:15**
+
+[TODO]
+
+**Nehemiah 12:16**
+
+[TODO]
+
+**Nehemiah 12:17**
+
+[TODO]
+
+**Nehemiah 12:18**
+
+[TODO]
+
+**Nehemiah 12:19**
+
+[TODO]
+
+**Nehemiah 12:20**
+
+[TODO]
+
+### Chapter 13
+
+**Nehemiah 13:1**
+
+[TODO]
+
+**Nehemiah 13:2**
+
+[TODO]
+
+**Nehemiah 13:3**
+
+[TODO]
+
+**Nehemiah 13:4**
+
+[TODO]
+
+**Nehemiah 13:5**
+
+[TODO]
+
+**Nehemiah 13:6**
+
+[TODO]
+
+**Nehemiah 13:8**
+
+[TODO]
+
+**Nehemiah 13:9**
+
+[TODO]
+
+**Nehemiah 13:10**
+
+[TODO]
+
+**Nehemiah 13:11**
+
+[TODO]
+
+**Nehemiah 13:12**
+
+[TODO]
+
+**Nehemiah 13:13**
+
+[TODO]
+
+**Nehemiah 13:14**
+
+[TODO]
+
+**Nehemiah 13:15**
+
+[TODO]
+
+**Nehemiah 13:16**
+
+[TODO]
+
+**Nehemiah 13:17**
+
+[TODO]
+
+**Nehemiah 13:18**
+
+[TODO]
+
+**Nehemiah 13:19**
+
+[TODO]
+
+**Nehemiah 13:20**
+
+[TODO]
+
+**Nehemiah 13:21**
+
+[TODO]
+
+**Nehemiah 13:22**
+
+[TODO]
+
+**Nehemiah 13:23**
+
+[TODO]
+
+**Nehemiah 13:24**
+
+[TODO]
+
+**Nehemiah 13:25**
+
+[TODO]
+
+**Nehemiah 13:26**
+
+[TODO]
+
+**Nehemiah 13:27**
+
+[TODO]
+
+**Nehemiah 13:28**
+
+[TODO]
+
+**Nehemiah 13:29**
+
+[TODO]
+
+**Nehemiah 13:30**
+
+[TODO]
+
+**Nehemiah 13:31**
+
+[TODO]
+
+**Nehemiah 13:32**
+
+[TODO]
+
+**Nehemiah 13:33**
+
+[TODO]
+
+**Nehemiah 13:34**
+
+[TODO]
+
+**Nehemiah 13:35**
+
+[TODO]
+
+**Nehemiah 13:36**
+
+[TODO]
+
+**Nehemiah 13:37**
+
+[TODO]
+
+### Chapter 14
+
+**Nehemiah 14:1**
+
+[TODO]
+
+**Nehemiah 14:2**
+
+[TODO]
+
+**Nehemiah 14:3**
+
+[TODO]
+
+**Nehemiah 14:4**
+
+[TODO]
+
+**Nehemiah 14:5**
+
+[TODO]
+
+**Nehemiah 14:6**
+
+[TODO]
+
+**Nehemiah 14:7**
+
+[TODO]
+
+**Nehemiah 14:8**
+
+[TODO]
+
+**Nehemiah 14:9**
+
+[TODO]
+
+**Nehemiah 14:10**
+
+[TODO]
+
+**Nehemiah 14:11**
+
+[TODO]
+
+**Nehemiah 14:12**
+
+[TODO]
+
+**Nehemiah 14:13**
+
+[TODO]
+
+**Nehemiah 14:14**
+
+[TODO]
+
+**Nehemiah 14:15**
+
+[TODO]
+
+**Nehemiah 14:16**
+
+[TODO]
+
+**Nehemiah 14:17**
+
+[TODO]
+
+### Chapter 15
+
+**Nehemiah 15:1**
+
+[TODO]
+
+**Nehemiah 15:2**
+
+[TODO]
+
+**Nehemiah 15:3**
+
+[TODO]
+
+**Nehemiah 15:4**
+
+[TODO]
+
+**Nehemiah 15:5**
+
+[TODO]
+
+**Nehemiah 15:6**
+
+[TODO]
+
+**Nehemiah 15:7**
+
+[TODO]
+
+**Nehemiah 15:8**
+
+[TODO]
+
+**Nehemiah 15:9**
+
+[TODO]
+
+**Nehemiah 15:10**
+
+[TODO]
+
+**Nehemiah 15:11**
+
+[TODO]
+
+**Nehemiah 15:12**
+
+[TODO]
+
+**Nehemiah 15:13**
+
+[TODO]
+
+**Nehemiah 15:14**
+
+[TODO]
+
+**Nehemiah 15:15**
+
+[TODO]
+
+**Nehemiah 15:16**
+
+[TODO]
+
+**Nehemiah 15:17**
+
+[TODO]
+
+**Nehemiah 15:18**
+
+[TODO]
+
+**Nehemiah 15:19**
+
+[TODO]
+
+### Chapter 16
+
+**Nehemiah 16:1**
+
+[TODO]
+
+**Nehemiah 16:2**
+
+[TODO]
+
+**Nehemiah 16:3**
+
+[TODO]
+
+**Nehemiah 16:4**
+
+[TODO]
+
+**Nehemiah 16:5**
+
+[TODO]
+
+**Nehemiah 16:6**
+
+[TODO]
+
+**Nehemiah 16:7**
+
+[TODO]
+
+**Nehemiah 16:8**
+
+[TODO]
+
+**Nehemiah 16:9**
+
+[TODO]
+
+**Nehemiah 16:10**
+
+[TODO]
+
+**Nehemiah 16:11**
+
+[TODO]
+
+**Nehemiah 16:12**
+
+[TODO]
+
+**Nehemiah 16:13**
+
+[TODO]
+
+**Nehemiah 16:14**
+
+[TODO]
+
+**Nehemiah 16:15**
+
+[TODO]
+
+**Nehemiah 16:16**
+
+[TODO]
+
+**Nehemiah 16:17**
+
+[TODO]
+
+**Nehemiah 16:18**
+
+[TODO]
+
+**Nehemiah 16:19**
+
+[TODO]
+
+### Chapter 17
+
+**Nehemiah 17:1**
+
+[TODO]
+
+**Nehemiah 17:2**
+
+[TODO]
+
+**Nehemiah 17:3**
+
+[TODO]
+
+**Nehemiah 17:4**
+
+[TODO]
+
+**Nehemiah 17:5**
+
+[TODO]
+
+**Nehemiah 17:6**
+
+[TODO]
+
+**Nehemiah 17:7**
+
+[TODO]
+
+**Nehemiah 17:8**
+
+[TODO]
+
+**Nehemiah 17:9**
+
+[TODO]
+
+**Nehemiah 17:10**
+
+[TODO]
+
+**Nehemiah 17:11**
+
+[TODO]
+
+**Nehemiah 17:12**
+
+[TODO]
+
+**Nehemiah 17:13**
+
+[TODO]
+
+**Nehemiah 17:14**
+
+[TODO]
+
+**Nehemiah 17:15**
+
+[TODO]
+
+**Nehemiah 17:16**
+
+[TODO]
+
+**Nehemiah 17:17**
+
+[TODO]
+
+**Nehemiah 17:18**
+
+[TODO]
+
+**Nehemiah 17:19**
+
+[TODO]
+
+**Nehemiah 17:20**
+
+[TODO]
+
+**Nehemiah 17:21**
+
+[TODO]
+
+**Nehemiah 17:22**
+
+[TODO]
+
+**Nehemiah 17:23**
+
+[TODO]
+
+**Nehemiah 17:24**
+
+[TODO]
+
+**Nehemiah 17:25**
+
+[TODO]
+
+**Nehemiah 17:26**
+
+[TODO]
+
+**Nehemiah 17:27**
+
+[TODO]
+
+**Nehemiah 17:28**
+
+[TODO]
+
+**Nehemiah 17:29**
+
+[TODO]
+
+**Nehemiah 17:30**
+
+[TODO]
+
+**Nehemiah 17:31**
+
+[TODO]
+
+**Nehemiah 17:32**
+
+[TODO]
+
+**Nehemiah 17:33**
+
+[TODO]
+
+**Nehemiah 17:34**
+
+[TODO]
+
+**Nehemiah 17:35**
+
+[TODO]
+
+**Nehemiah 17:36**
+
+[TODO]
+
+**Nehemiah 17:37**
+
+[TODO]
+
+**Nehemiah 17:38**
+
+[TODO]
+
+**Nehemiah 17:39**
+
+[TODO]
+
+**Nehemiah 17:40**
+
+[TODO]
+
+**Nehemiah 17:41**
+
+[TODO]
+
+**Nehemiah 17:42**
+
+[TODO]
+
+**Nehemiah 17:43**
+
+[TODO]
+
+**Nehemiah 17:44**
+
+[TODO]
+
+**Nehemiah 17:45**
+
+[TODO]
+
+**Nehemiah 17:46**
+
+[TODO]
+
+**Nehemiah 17:47**
+
+[TODO]
+
+**Nehemiah 17:48**
+
+[TODO]
+
+**Nehemiah 17:49**
+
+[TODO]
+
+**Nehemiah 17:50**
+
+[TODO]
+
+**Nehemiah 17:51**
+
+[TODO]
+
+**Nehemiah 17:52**
+
+[TODO]
+
+**Nehemiah 17:53**
+
+[TODO]
+
+**Nehemiah 17:54**
+
+[TODO]
+
+**Nehemiah 17:55**
+
+[TODO]
+
+**Nehemiah 17:56**
+
+[TODO]
+
+**Nehemiah 17:57**
+
+[TODO]
+
+**Nehemiah 17:58**
+
+[TODO]
+
+**Nehemiah 17:59**
+
+[TODO]
+
+**Nehemiah 17:60**
+
+[TODO]
+
+**Nehemiah 17:61**
+
+[TODO]
+
+**Nehemiah 17:62**
+
+[TODO]
+
+**Nehemiah 17:63**
+
+[TODO]
+
+**Nehemiah 17:64**
+
+[TODO]
+
+**Nehemiah 17:65**
+
+[TODO]
+
+**Nehemiah 17:66**
+
+[TODO]
+
+**Nehemiah 17:67**
+
+[TODO]
+
+**Nehemiah 17:68**
+
+[TODO]
+
+**Nehemiah 17:69**
+
+[TODO]
+
+**Nehemiah 17:70**
+
+[TODO]
+
+**Nehemiah 17:71**
+
+[TODO]
+
+**Nehemiah 17:72**
+
+[TODO]
+
+**Nehemiah 17:73**
+
+[TODO]
+
+### Chapter 18
+
+**Nehemiah 18:1**
+
+[TODO]
+
+**Nehemiah 18:2**
+
+[TODO]
+
+**Nehemiah 18:3**
+
+[TODO]
+
+**Nehemiah 18:4**
+
+[TODO]
+
+**Nehemiah 18:5**
+
+[TODO]
+
+**Nehemiah 18:6**
+
+[TODO]
+
+**Nehemiah 18:7**
+
+[TODO]
+
+**Nehemiah 18:8**
+
+[TODO]
+
+**Nehemiah 18:9**
+
+[TODO]
+
+**Nehemiah 18:10**
+
+[TODO]
+
+**Nehemiah 18:11**
+
+[TODO]
+
+**Nehemiah 18:12**
+
+[TODO]
+
+**Nehemiah 18:13**
+
+[TODO]
+
+**Nehemiah 18:14**
+
+[TODO]
+
+**Nehemiah 18:15**
+
+[TODO]
+
+**Nehemiah 18:16**
+
+[TODO]
+
+**Nehemiah 18:17**
+
+[TODO]
+
+**Nehemiah 18:18**
+
+[TODO]
+
+### Chapter 19
+
+**Nehemiah 19:1**
+
+[TODO]
+
+**Nehemiah 19:2**
+
+[TODO]
+
+**Nehemiah 19:3**
+
+[TODO]
+
+**Nehemiah 19:4**
+
+[TODO]
+
+**Nehemiah 19:5**
+
+[TODO]
+
+**Nehemiah 19:6**
+
+[TODO]
+
+**Nehemiah 19:7**
+
+[TODO]
+
+**Nehemiah 19:8**
+
+[TODO]
+
+**Nehemiah 19:9**
+
+[TODO]
+
+**Nehemiah 19:10**
+
+[TODO]
+
+**Nehemiah 19:11**
+
+[TODO]
+
+**Nehemiah 19:12**
+
+[TODO]
+
+**Nehemiah 19:13**
+
+[TODO]
+
+**Nehemiah 19:14**
+
+[TODO]
+
+**Nehemiah 19:15**
+
+[TODO]
+
+**Nehemiah 19:16**
+
+[TODO]
+
+**Nehemiah 19:17**
+
+[TODO]
+
+**Nehemiah 19:18**
+
+[TODO]
+
+**Nehemiah 19:19**
+
+[TODO]
+
+**Nehemiah 19:20**
+
+[TODO]
+
+**Nehemiah 19:21**
+
+[TODO]
+
+**Nehemiah 19:22**
+
+[TODO]
+
+**Nehemiah 19:23**
+
+[TODO]
+
+**Nehemiah 19:24**
+
+[TODO]
+
+**Nehemiah 19:25**
+
+[TODO]
+
+**Nehemiah 19:26**
+
+[TODO]
+
+**Nehemiah 19:27**
+
+[TODO]
+
+**Nehemiah 19:28**
+
+[TODO]
+
+**Nehemiah 19:29**
+
+[TODO]
+
+**Nehemiah 19:30**
+
+[TODO]
+
+**Nehemiah 19:31**
+
+[TODO]
+
+**Nehemiah 19:32**
+
+[TODO]
+
+**Nehemiah 19:33**
+
+[TODO]
+
+**Nehemiah 19:34**
+
+[TODO]
+
+**Nehemiah 19:35**
+
+[TODO]
+
+**Nehemiah 19:36**
+
+[TODO]
+
+**Nehemiah 19:37**
+
+[TODO]
+
+### Chapter 20
+
+**Nehemiah 20:1**
+
+[TODO]
+
+**Nehemiah 20:2**
+
+[TODO]
+
+**Nehemiah 20:3**
+
+[TODO]
+
+**Nehemiah 20:4**
+
+[TODO]
+
+**Nehemiah 20:5**
+
+[TODO]
+
+**Nehemiah 20:6**
+
+[TODO]
+
+**Nehemiah 20:7**
+
+[TODO]
+
+**Nehemiah 20:8**
+
+[TODO]
+
+**Nehemiah 20:9**
+
+[TODO]
+
+**Nehemiah 20:10**
+
+[TODO]
+
+**Nehemiah 20:11**
+
+[TODO]
+
+**Nehemiah 20:12**
+
+[TODO]
+
+**Nehemiah 20:13**
+
+[TODO]
+
+**Nehemiah 20:14**
+
+[TODO]
+
+**Nehemiah 20:15**
+
+[TODO]
+
+**Nehemiah 20:16**
+
+[TODO]
+
+**Nehemiah 20:17**
+
+[TODO]
+
+**Nehemiah 20:18**
+
+[TODO]
+
+**Nehemiah 20:19**
+
+[TODO]
+
+**Nehemiah 20:20**
+
+[TODO]
+
+**Nehemiah 20:21**
+
+[TODO]
+
+**Nehemiah 20:22**
+
+[TODO]
+
+**Nehemiah 20:23**
+
+[TODO]
+
+**Nehemiah 20:24**
+
+[TODO]
+
+**Nehemiah 20:25**
+
+[TODO]
+
+**Nehemiah 20:26**
+
+[TODO]
+
+**Nehemiah 20:27**
+
+[TODO]
+
+**Nehemiah 20:28**
+
+[TODO]
+
+**Nehemiah 20:29**
+
+[TODO]
+
+**Nehemiah 20:30**
+
+[TODO]
+
+**Nehemiah 20:31**
+
+[TODO]
+
+**Nehemiah 20:32**
+
+[TODO]
+
+**Nehemiah 20:33**
+
+[TODO]
+
+**Nehemiah 20:34**
+
+[TODO]
+
+**Nehemiah 20:35**
+
+[TODO]
+
+**Nehemiah 20:36**
+
+[TODO]
+
+**Nehemiah 20:37**
+
+[TODO]
+
+**Nehemiah 20:38**
+
+[TODO]
+
+**Nehemiah 20:39**
+
+[TODO]
+
+**Nehemiah 20:40**
+
+[TODO]
+
+### Chapter 21
+
+**Nehemiah 21:1**
+
+[TODO]
+
+**Nehemiah 21:2**
+
+[TODO]
+
+**Nehemiah 21:3**
+
+[TODO]
+
+**Nehemiah 21:4**
+
+[TODO]
+
+**Nehemiah 21:5**
+
+[TODO]
+
+**Nehemiah 21:6**
+
+[TODO]
+
+**Nehemiah 21:7**
+
+[TODO]
+
+**Nehemiah 21:8**
+
+[TODO]
+
+**Nehemiah 21:9**
+
+[TODO]
+
+**Nehemiah 21:10**
+
+[TODO]
+
+**Nehemiah 21:11**
+
+[TODO]
+
+**Nehemiah 21:12**
+
+[TODO]
+
+**Nehemiah 21:13**
+
+[TODO]
+
+**Nehemiah 21:14**
+
+[TODO]
+
+**Nehemiah 21:15**
+
+[TODO]
+
+**Nehemiah 21:17**
+
+[TODO]
+
+**Nehemiah 21:18**
+
+[TODO]
+
+**Nehemiah 21:19**
+
+[TODO]
+
+**Nehemiah 21:22**
+
+[TODO]
+
+**Nehemiah 21:23**
+
+[TODO]
+
+**Nehemiah 21:24**
+
+[TODO]
+
+**Nehemiah 21:25**
+
+[TODO]
+
+**Nehemiah 21:26**
+
+[TODO]
+
+**Nehemiah 21:27**
+
+[TODO]
+
+**Nehemiah 21:30**
+
+[TODO]
+
+**Nehemiah 21:31**
+
+[TODO]
+
+**Nehemiah 21:36**
+
+[TODO]
+
+### Chapter 22
+
+**Nehemiah 22:1**
+
+[TODO]
+
+**Nehemiah 22:2**
+
+[TODO]
+
+**Nehemiah 22:3**
+
+[TODO]
+
+**Nehemiah 22:7**
+
+[TODO]
+
+**Nehemiah 22:8**
+
+[TODO]
+
+**Nehemiah 22:9**
+
+[TODO]
+
+**Nehemiah 22:10**
+
+[TODO]
+
+**Nehemiah 22:11**
+
+[TODO]
+
+**Nehemiah 22:12**
+
+[TODO]
+
+**Nehemiah 22:13**
+
+[TODO]
+
+**Nehemiah 22:14**
+
+[TODO]
+
+**Nehemiah 22:15**
+
+[TODO]
+
+**Nehemiah 22:16**
+
+[TODO]
+
+**Nehemiah 22:17**
+
+[TODO]
+
+**Nehemiah 22:18**
+
+[TODO]
+
+**Nehemiah 22:19**
+
+[TODO]
+
+**Nehemiah 22:20**
+
+[TODO]
+
+**Nehemiah 22:21**
+
+[TODO]
+
+**Nehemiah 22:22**
+
+[TODO]
+
+**Nehemiah 22:23**
+
+[TODO]
+
+**Nehemiah 22:24**
+
+[TODO]
+
+**Nehemiah 22:25**
+
+[TODO]
+
+**Nehemiah 22:26**
+
+[TODO]
+
+**Nehemiah 22:27**
+
+[TODO]
+
+**Nehemiah 22:28**
+
+[TODO]
+
+**Nehemiah 22:29**
+
+[TODO]
+
+**Nehemiah 22:30**
+
+[TODO]
+
+**Nehemiah 22:31**
+
+[TODO]
+
+**Nehemiah 22:32**
+
+[TODO]
+
+**Nehemiah 22:33**
+
+[TODO]
+
+**Nehemiah 22:34**
+
+[TODO]
+
+**Nehemiah 22:35**
+
+[TODO]
+
+**Nehemiah 22:36**
+
+[TODO]
+
+**Nehemiah 22:37**
+
+[TODO]
+
+**Nehemiah 22:38**
+
+[TODO]
+
+**Nehemiah 22:39**
+
+[TODO]
+
+**Nehemiah 22:40**
+
+[TODO]
+
+**Nehemiah 22:41**
+
+[TODO]
+
+**Nehemiah 22:42**
+
+[TODO]
+
+**Nehemiah 22:43**
+
+[TODO]
+
+**Nehemiah 22:44**
+
+[TODO]
+
+**Nehemiah 22:45**
+
+[TODO]
+
+**Nehemiah 22:46**
+
+[TODO]
+
+**Nehemiah 22:47**
+
+[TODO]
+
+### Chapter 23
+
+**Nehemiah 23:1**
+
+[TODO]
+
+**Nehemiah 23:2**
+
+[TODO]
+
+**Nehemiah 23:3**
+
+[TODO]
+
+**Nehemiah 23:4**
+
+[TODO]
+
+**Nehemiah 23:5**
+
+[TODO]
+
+**Nehemiah 23:6**
+
+[TODO]
+
+**Nehemiah 23:7**
+
+[TODO]
+
+**Nehemiah 23:8**
+
+[TODO]
+
+**Nehemiah 23:9**
+
+[TODO]
+
+**Nehemiah 23:10**
+
+[TODO]
+
+**Nehemiah 23:11**
+
+[TODO]
+
+**Nehemiah 23:12**
+
+[TODO]
+
+**Nehemiah 23:13**
+
+[TODO]
+
+**Nehemiah 23:14**
+
+[TODO]
+
+**Nehemiah 23:15**
+
+[TODO]
+
+**Nehemiah 23:16**
+
+[TODO]
+
+**Nehemiah 23:17**
+
+[TODO]
+
+**Nehemiah 23:18**
+
+[TODO]
+
+**Nehemiah 23:19**
+
+[TODO]
+
+**Nehemiah 23:20**
+
+[TODO]
+
+**Nehemiah 23:21**
+
+[TODO]
+
+**Nehemiah 23:22**
+
+[TODO]
+
+**Nehemiah 23:23**
+
+[TODO]
+
+**Nehemiah 23:24**
+
+[TODO]
+
+**Nehemiah 23:25**
+
+[TODO]
+
+**Nehemiah 23:26**
+
+[TODO]
+
+**Nehemiah 23:27**
+
+[TODO]
+
+**Nehemiah 23:28**
+
+[TODO]
+
+**Nehemiah 23:29**
+
+[TODO]
+
+**Nehemiah 23:30**
+
+[TODO]
+
+**Nehemiah 23:31**
+
+[TODO]
+
+## Esther
+
+### Chapter 1
+
+**Esther 1:1**
+
+[TODO]
+
+**Esther 1:2**
+
+[TODO]
+
+**Esther 1:3**
+
+[TODO]
+
+**Esther 1:4**
+
+[TODO]
+
+**Esther 1:5**
+
+[TODO]
+
+**Esther 1:6**
+
+[TODO]
+
+**Esther 1:7**
+
+[TODO]
+
+**Esther 1:8**
+
+[TODO]
+
+**Esther 1:9**
+
+[TODO]
+
+**Esther 1:10**
+
+[TODO]
+
+**Esther 1:11**
+
+[TODO]
+
+**Esther 1:12**
+
+[TODO]
+
+**Esther 1:13**
+
+[TODO]
+
+**Esther 1:14**
+
+[TODO]
+
+**Esther 1:15**
+
+[TODO]
+
+**Esther 1:16**
+
+[TODO]
+
+**Esther 1:17**
+
+[TODO]
+
+**Esther 1:18**
+
+[TODO]
+
+**Esther 1:19**
+
+[TODO]
+
+**Esther 1:20**
+
+[TODO]
+
+**Esther 1:21**
+
+[TODO]
+
+**Esther 1:22**
+
+[TODO]
+
+### Chapter 2
+
+**Esther 2:1**
+
+[TODO]
+
+**Esther 2:2**
+
+[TODO]
+
+**Esther 2:3**
+
+[TODO]
+
+**Esther 2:4**
+
+[TODO]
+
+**Esther 2:5**
+
+[TODO]
+
+**Esther 2:6**
+
+[TODO]
+
+**Esther 2:7**
+
+[TODO]
+
+**Esther 2:8**
+
+[TODO]
+
+**Esther 2:9**
+
+[TODO]
+
+**Esther 2:10**
+
+[TODO]
+
+**Esther 2:11**
+
+[TODO]
+
+**Esther 2:12**
+
+[TODO]
+
+**Esther 2:13**
+
+[TODO]
+
+**Esther 2:14**
+
+[TODO]
+
+**Esther 2:15**
+
+[TODO]
+
+**Esther 2:16**
+
+[TODO]
+
+**Esther 2:17**
+
+[TODO]
+
+**Esther 2:18**
+
+[TODO]
+
+**Esther 2:19**
+
+[TODO]
+
+**Esther 2:20**
+
+[TODO]
+
+**Esther 2:21**
+
+[TODO]
+
+**Esther 2:22**
+
+[TODO]
+
+**Esther 2:23**
+
+[TODO]
+
+### Chapter 3
+
+**Esther 3:1**
+
+[TODO]
+
+**Esther 3:2**
+
+[TODO]
+
+**Esther 3:3**
+
+[TODO]
+
+**Esther 3:4**
+
+[TODO]
+
+**Esther 3:5**
+
+[TODO]
+
+**Esther 3:6**
+
+[TODO]
+
+**Esther 3:7**
+
+[TODO]
+
+**Esther 3:8**
+
+[TODO]
+
+**Esther 3:9**
+
+[TODO]
+
+**Esther 3:10**
+
+[TODO]
+
+**Esther 3:11**
+
+[TODO]
+
+**Esther 3:12**
+
+[TODO]
+
+**Esther 3:13**
+
+[TODO]
+
+**Esther 3:14**
+
+[TODO]
+
+**Esther 3:15**
+
+[TODO]
+
+### Chapter 4
+
+**Esther 4:1**
+
+[TODO]
+
+**Esther 4:2**
+
+[TODO]
+
+**Esther 4:3**
+
+[TODO]
+
+**Esther 4:4**
+
+[TODO]
+
+**Esther 4:5**
+
+[TODO]
+
+**Esther 4:7**
+
+[TODO]
+
+**Esther 4:8**
+
+[TODO]
+
+**Esther 4:9**
+
+[TODO]
+
+**Esther 4:10**
+
+[TODO]
+
+**Esther 4:11**
+
+[TODO]
+
+**Esther 4:12**
+
+[TODO]
+
+**Esther 4:13**
+
+[TODO]
+
+**Esther 4:14**
+
+[TODO]
+
+**Esther 4:15**
+
+[TODO]
+
+**Esther 4:16**
+
+[TODO]
+
+**Esther 4:17**
+
+[TODO]
+
+### Chapter 5
+
+**Esther 5:1**
+
+[TODO]
+
+**Esther 5:2**
+
+[TODO]
+
+**Esther 5:3**
+
+[TODO]
+
+**Esther 5:4**
+
+[TODO]
+
+**Esther 5:5**
+
+[TODO]
+
+**Esther 5:6**
+
+[TODO]
+
+**Esther 5:7**
+
+[TODO]
+
+**Esther 5:8**
+
+[TODO]
+
+**Esther 5:9**
+
+[TODO]
+
+**Esther 5:10**
+
+[TODO]
+
+**Esther 5:11**
+
+[TODO]
+
+**Esther 5:12**
+
+[TODO]
+
+**Esther 5:13**
+
+[TODO]
+
+**Esther 5:14**
+
+[TODO]
+
+### Chapter 6
+
+**Esther 6:1**
+
+[TODO]
+
+**Esther 6:2**
+
+[TODO]
+
+**Esther 6:3**
+
+[TODO]
+
+**Esther 6:4**
+
+[TODO]
+
+**Esther 6:5**
+
+[TODO]
+
+**Esther 6:6**
+
+[TODO]
+
+**Esther 6:7**
+
+[TODO]
+
+**Esther 6:8**
+
+[TODO]
+
+**Esther 6:9**
+
+[TODO]
+
+**Esther 6:10**
+
+[TODO]
+
+**Esther 6:11**
+
+[TODO]
+
+**Esther 6:12**
+
+[TODO]
+
+**Esther 6:13**
+
+[TODO]
+
+**Esther 6:14**
+
+[TODO]
+
+### Chapter 7
+
+**Esther 7:1**
+
+[TODO]
+
+**Esther 7:2**
+
+[TODO]
+
+**Esther 7:3**
+
+[TODO]
+
+**Esther 7:4**
+
+[TODO]
+
+**Esther 7:5**
+
+[TODO]
+
+**Esther 7:6**
+
+[TODO]
+
+**Esther 7:7**
+
+[TODO]
+
+**Esther 7:8**
+
+[TODO]
+
+**Esther 7:9**
+
+[TODO]
+
+**Esther 7:10**
+
+[TODO]
+
+### Chapter 8
+
+**Esther 8:1**
+
+[TODO]
+
+**Esther 8:2**
+
+[TODO]
+
+**Esther 8:3**
+
+[TODO]
+
+**Esther 8:4**
+
+[TODO]
+
+**Esther 8:5**
+
+[TODO]
+
+**Esther 8:6**
+
+[TODO]
+
+**Esther 8:7**
+
+[TODO]
+
+**Esther 8:8**
+
+[TODO]
+
+**Esther 8:9**
+
+[TODO]
+
+**Esther 8:10**
+
+[TODO]
+
+**Esther 8:11**
+
+[TODO]
+
+**Esther 8:12**
+
+[TODO]
+
+**Esther 8:13**
+
+[TODO]
+
+**Esther 8:14**
+
+[TODO]
+
+**Esther 8:15**
+
+[TODO]
+
+**Esther 8:16**
+
+[TODO]
+
+**Esther 8:17**
+
+[TODO]
+
+### Chapter 9
+
+**Esther 9:1**
+
+[TODO]
+
+**Esther 9:2**
+
+[TODO]
+
+**Esther 9:3**
+
+[TODO]
+
+**Esther 9:4**
+
+[TODO]
+
+**Esther 9:6**
+
+[TODO]
+
+**Esther 9:7**
+
+[TODO]
+
+**Esther 9:8**
+
+[TODO]
+
+**Esther 9:9**
+
+[TODO]
+
+**Esther 9:10**
+
+[TODO]
+
+**Esther 9:11**
+
+[TODO]
+
+**Esther 9:12**
+
+[TODO]
+
+**Esther 9:13**
+
+[TODO]
+
+**Esther 9:14**
+
+[TODO]
+
+**Esther 9:15**
+
+[TODO]
+
+**Esther 9:16**
+
+[TODO]
+
+**Esther 9:17**
+
+[TODO]
+
+**Esther 9:18**
+
+[TODO]
+
+**Esther 9:19**
+
+[TODO]
+
+**Esther 9:20**
+
+[TODO]
+
+**Esther 9:21**
+
+[TODO]
+
+**Esther 9:22**
+
+[TODO]
+
+**Esther 9:23**
+
+[TODO]
+
+**Esther 9:24**
+
+[TODO]
+
+**Esther 9:25**
+
+[TODO]
+
+**Esther 9:26**
+
+[TODO]
+
+**Esther 9:27**
+
+[TODO]
+
+**Esther 9:28**
+
+[TODO]
+
+**Esther 9:29**
+
+[TODO]
+
+**Esther 9:31**
+
+[TODO]
+
+**Esther 9:32**
+
+[TODO]
+
+### Chapter 10
+
+**Esther 10:1**
+
+[TODO]
+
+**Esther 10:2**
+
+[TODO]
+
+**Esther 10:3**
+
+[TODO]
+
+## Job
+
+### Chapter 1
+
+**Job 1:1**
+
+[TODO]
+
+**Job 1:2**
+
+[TODO]
+
+**Job 1:3**
+
+[TODO]
+
+**Job 1:4**
+
+[TODO]
+
+**Job 1:5**
+
+[TODO]
+
+**Job 1:6**
+
+[TODO]
+
+**Job 1:7**
+
+[TODO]
+
+**Job 1:8**
+
+[TODO]
+
+**Job 1:9**
+
+[TODO]
+
+**Job 1:10**
+
+[TODO]
+
+**Job 1:11**
+
+[TODO]
+
+**Job 1:12**
+
+[TODO]
+
+**Job 1:13**
+
+[TODO]
+
+**Job 1:14**
+
+[TODO]
+
+**Job 1:15**
+
+[TODO]
+
+**Job 1:16**
+
+[TODO]
+
+**Job 1:17**
+
+[TODO]
+
+**Job 1:18**
+
+[TODO]
+
+**Job 1:19**
+
+[TODO]
+
+**Job 1:20**
+
+[TODO]
+
+**Job 1:21**
+
+[TODO]
+
+**Job 1:22**
+
+[TODO]
+
+### Chapter 2
+
+**Job 2:1**
+
+[TODO]
+
+**Job 2:2**
+
+[TODO]
+
+**Job 2:3**
+
+[TODO]
+
+**Job 2:4**
+
+[TODO]
+
+**Job 2:5**
+
+[TODO]
+
+**Job 2:6**
+
+[TODO]
+
+**Job 2:7**
+
+[TODO]
+
+**Job 2:8**
+
+[TODO]
+
+**Job 2:9**
+
+[TODO]
+
+**Job 2:10**
+
+[TODO]
+
+**Job 2:11**
+
+[TODO]
+
+**Job 2:12**
+
+[TODO]
+
+**Job 2:13**
+
+[TODO]
+
+### Chapter 3
+
+**Job 3:1**
+
+[TODO]
+
+**Job 3:2**
+
+[TODO]
+
+**Job 3:3**
+
+[TODO]
+
+**Job 3:4**
+
+[TODO]
+
+**Job 3:5**
+
+[TODO]
+
+**Job 3:6**
+
+[TODO]
+
+**Job 3:7**
+
+[TODO]
+
+**Job 3:8**
+
+[TODO]
+
+**Job 3:9**
+
+[TODO]
+
+**Job 3:10**
+
+[TODO]
+
+**Job 3:11**
+
+[TODO]
+
+**Job 3:12**
+
+[TODO]
+
+**Job 3:13**
+
+[TODO]
+
+**Job 3:14**
+
+[TODO]
+
+**Job 3:15**
+
+[TODO]
+
+**Job 3:16**
+
+[TODO]
+
+**Job 3:17**
+
+[TODO]
+
+**Job 3:18**
+
+[TODO]
+
+**Job 3:19**
+
+[TODO]
+
+**Job 3:20**
+
+[TODO]
+
+**Job 3:21**
+
+[TODO]
+
+**Job 3:22**
+
+[TODO]
+
+**Job 3:23**
+
+[TODO]
+
+**Job 3:24**
+
+[TODO]
+
+**Job 3:25**
+
+[TODO]
+
+**Job 3:26**
+
+[TODO]
+
+### Chapter 4
+
+**Job 4:1**
+
+[TODO]
+
+**Job 4:2**
+
+[TODO]
+
+**Job 4:3**
+
+[TODO]
+
+**Job 4:4**
+
+[TODO]
+
+**Job 4:5**
+
+[TODO]
+
+**Job 4:6**
+
+[TODO]
+
+**Job 4:7**
+
+[TODO]
+
+**Job 4:8**
+
+[TODO]
+
+**Job 4:9**
+
+[TODO]
+
+**Job 4:10**
+
+[TODO]
+
+**Job 4:11**
+
+[TODO]
+
+**Job 4:12**
+
+[TODO]
+
+**Job 4:13**
+
+[TODO]
+
+**Job 4:14**
+
+[TODO]
+
+**Job 4:15**
+
+[TODO]
+
+**Job 4:16**
+
+[TODO]
+
+**Job 4:17**
+
+[TODO]
+
+**Job 4:18**
+
+[TODO]
+
+**Job 4:19**
+
+[TODO]
+
+**Job 4:20**
+
+[TODO]
+
+**Job 4:21**
+
+[TODO]
+
+### Chapter 5
+
+**Job 5:1**
+
+[TODO]
+
+**Job 5:2**
+
+[TODO]
+
+**Job 5:3**
+
+[TODO]
+
+**Job 5:4**
+
+[TODO]
+
+**Job 5:5**
+
+[TODO]
+
+**Job 5:6**
+
+[TODO]
+
+**Job 5:7**
+
+[TODO]
+
+**Job 5:8**
+
+[TODO]
+
+**Job 5:9**
+
+[TODO]
+
+**Job 5:10**
+
+[TODO]
+
+**Job 5:11**
+
+[TODO]
+
+**Job 5:12**
+
+[TODO]
+
+**Job 5:13**
+
+[TODO]
+
+**Job 5:14**
+
+[TODO]
+
+**Job 5:15**
+
+[TODO]
+
+**Job 5:16**
+
+[TODO]
+
+**Job 5:17**
+
+[TODO]
+
+**Job 5:18**
+
+[TODO]
+
+**Job 5:19**
+
+[TODO]
+
+**Job 5:20**
+
+[TODO]
+
+**Job 5:21**
+
+[TODO]
+
+**Job 5:22**
+
+[TODO]
+
+**Job 5:23**
+
+[TODO]
+
+**Job 5:24**
+
+[TODO]
+
+**Job 5:25**
+
+[TODO]
+
+**Job 5:26**
+
+[TODO]
+
+**Job 5:27**
+
+[TODO]
+
+### Chapter 6
+
+**Job 6:1**
+
+[TODO]
+
+**Job 6:2**
+
+[TODO]
+
+**Job 6:3**
+
+[TODO]
+
+**Job 6:4**
+
+[TODO]
+
+**Job 6:5**
+
+[TODO]
+
+**Job 6:6**
+
+[TODO]
+
+**Job 6:7**
+
+[TODO]
+
+**Job 6:8**
+
+[TODO]
+
+**Job 6:9**
+
+[TODO]
+
+**Job 6:10**
+
+[TODO]
+
+**Job 6:11**
+
+[TODO]
+
+**Job 6:12**
+
+[TODO]
+
+**Job 6:13**
+
+[TODO]
+
+**Job 6:14**
+
+[TODO]
+
+**Job 6:15**
+
+[TODO]
+
+**Job 6:16**
+
+[TODO]
+
+**Job 6:17**
+
+[TODO]
+
+**Job 6:18**
+
+[TODO]
+
+**Job 6:19**
+
+[TODO]
+
+**Job 6:20**
+
+[TODO]
+
+**Job 6:21**
+
+[TODO]
+
+**Job 6:22**
+
+[TODO]
+
+**Job 6:23**
+
+[TODO]
+
+**Job 6:24**
+
+[TODO]
+
+**Job 6:25**
+
+[TODO]
+
+**Job 6:26**
+
+[TODO]
+
+**Job 6:27**
+
+[TODO]
+
+**Job 6:28**
+
+[TODO]
+
+**Job 6:29**
+
+[TODO]
+
+**Job 6:30**
+
+[TODO]
+
+### Chapter 7
+
+**Job 7:1**
+
+[TODO]
+
+**Job 7:2**
+
+[TODO]
+
+**Job 7:3**
+
+[TODO]
+
+**Job 7:4**
+
+[TODO]
+
+**Job 7:5**
+
+[TODO]
+
+**Job 7:6**
+
+[TODO]
+
+**Job 7:7**
+
+[TODO]
+
+**Job 7:8**
+
+[TODO]
+
+**Job 7:9**
+
+[TODO]
+
+**Job 7:10**
+
+[TODO]
+
+**Job 7:11**
+
+[TODO]
+
+**Job 7:12**
+
+[TODO]
+
+**Job 7:13**
+
+[TODO]
+
+**Job 7:14**
+
+[TODO]
+
+**Job 7:15**
+
+[TODO]
+
+**Job 7:16**
+
+[TODO]
+
+**Job 7:17**
+
+[TODO]
+
+**Job 7:18**
+
+[TODO]
+
+**Job 7:19**
+
+[TODO]
+
+**Job 7:20**
+
+[TODO]
+
+**Job 7:21**
+
+[TODO]
+
+### Chapter 8
+
+**Job 8:1**
+
+[TODO]
+
+**Job 8:2**
+
+[TODO]
+
+**Job 8:3**
+
+[TODO]
+
+**Job 8:4**
+
+[TODO]
+
+**Job 8:5**
+
+[TODO]
+
+**Job 8:6**
+
+[TODO]
+
+**Job 8:7**
+
+[TODO]
+
+**Job 8:8**
+
+[TODO]
+
+**Job 8:9**
+
+[TODO]
+
+**Job 8:10**
+
+[TODO]
+
+**Job 8:11**
+
+[TODO]
+
+**Job 8:12**
+
+[TODO]
+
+**Job 8:13**
+
+[TODO]
+
+**Job 8:14**
+
+[TODO]
+
+**Job 8:15**
+
+[TODO]
+
+**Job 8:16**
+
+[TODO]
+
+**Job 8:17**
+
+[TODO]
+
+**Job 8:18**
+
+[TODO]
+
+**Job 8:19**
+
+[TODO]
+
+**Job 8:20**
+
+[TODO]
+
+**Job 8:21**
+
+[TODO]
+
+**Job 8:22**
+
+[TODO]
+
+### Chapter 9
+
+**Job 9:1**
+
+[TODO]
+
+**Job 9:2**
+
+[TODO]
+
+**Job 9:3**
+
+[TODO]
+
+**Job 9:4**
+
+[TODO]
+
+**Job 9:5**
+
+[TODO]
+
+**Job 9:6**
+
+[TODO]
+
+**Job 9:7**
+
+[TODO]
+
+**Job 9:8**
+
+[TODO]
+
+**Job 9:9**
+
+[TODO]
+
+**Job 9:10**
+
+[TODO]
+
+**Job 9:11**
+
+[TODO]
+
+**Job 9:12**
+
+[TODO]
+
+**Job 9:13**
+
+[TODO]
+
+**Job 9:14**
+
+[TODO]
+
+**Job 9:15**
+
+[TODO]
+
+**Job 9:16**
+
+[TODO]
+
+**Job 9:17**
+
+[TODO]
+
+**Job 9:18**
+
+[TODO]
+
+**Job 9:19**
+
+[TODO]
+
+**Job 9:20**
+
+[TODO]
+
+**Job 9:21**
+
+[TODO]
+
+**Job 9:22**
+
+[TODO]
+
+**Job 9:23**
+
+[TODO]
+
+**Job 9:24**
+
+[TODO]
+
+**Job 9:25**
+
+[TODO]
+
+**Job 9:26**
+
+[TODO]
+
+**Job 9:27**
+
+[TODO]
+
+**Job 9:28**
+
+[TODO]
+
+**Job 9:29**
+
+[TODO]
+
+**Job 9:30**
+
+[TODO]
+
+**Job 9:31**
+
+[TODO]
+
+**Job 9:32**
+
+[TODO]
+
+**Job 9:33**
+
+[TODO]
+
+**Job 9:34**
+
+[TODO]
+
+**Job 9:35**
+
+[TODO]
+
+### Chapter 10
+
+**Job 10:1**
+
+[TODO]
+
+**Job 10:2**
+
+[TODO]
+
+**Job 10:3**
+
+[TODO]
+
+**Job 10:4**
+
+[TODO]
+
+**Job 10:5**
+
+[TODO]
+
+**Job 10:6**
+
+[TODO]
+
+**Job 10:7**
+
+[TODO]
+
+**Job 10:8**
+
+[TODO]
+
+**Job 10:9**
+
+[TODO]
+
+**Job 10:10**
+
+[TODO]
+
+**Job 10:11**
+
+[TODO]
+
+**Job 10:12**
+
+[TODO]
+
+**Job 10:13**
+
+[TODO]
+
+**Job 10:14**
+
+[TODO]
+
+**Job 10:15**
+
+[TODO]
+
+**Job 10:16**
+
+[TODO]
+
+**Job 10:17**
+
+[TODO]
+
+**Job 10:18**
+
+[TODO]
+
+**Job 10:19**
+
+[TODO]
+
+**Job 10:20**
+
+[TODO]
+
+**Job 10:21**
+
+[TODO]
+
+**Job 10:22**
+
+[TODO]
+
+### Chapter 11
+
+**Job 11:1**
+
+[TODO]
+
+**Job 11:2**
+
+[TODO]
+
+**Job 11:3**
+
+[TODO]
+
+**Job 11:4**
+
+[TODO]
+
+**Job 11:5**
+
+[TODO]
+
+**Job 11:6**
+
+[TODO]
+
+**Job 11:7**
+
+[TODO]
+
+**Job 11:8**
+
+[TODO]
+
+**Job 11:9**
+
+[TODO]
+
+**Job 11:10**
+
+[TODO]
+
+**Job 11:11**
+
+[TODO]
+
+**Job 11:12**
+
+[TODO]
+
+**Job 11:13**
+
+[TODO]
+
+**Job 11:14**
+
+[TODO]
+
+**Job 11:15**
+
+[TODO]
+
+**Job 11:16**
+
+[TODO]
+
+**Job 11:17**
+
+[TODO]
+
+**Job 11:18**
+
+[TODO]
+
+**Job 11:19**
+
+[TODO]
+
+**Job 11:20**
+
+[TODO]
+
+### Chapter 12
+
+**Job 12:1**
+
+[TODO]
+
+**Job 12:2**
+
+[TODO]
+
+**Job 12:3**
+
+[TODO]
+
+**Job 12:4**
+
+[TODO]
+
+**Job 12:5**
+
+[TODO]
+
+**Job 12:6**
+
+[TODO]
+
+**Job 12:7**
+
+[TODO]
+
+**Job 12:8**
+
+[TODO]
+
+**Job 12:9**
+
+[TODO]
+
+**Job 12:10**
+
+[TODO]
+
+**Job 12:11**
+
+[TODO]
+
+**Job 12:12**
+
+[TODO]
+
+**Job 12:13**
+
+[TODO]
+
+**Job 12:14**
+
+[TODO]
+
+**Job 12:15**
+
+[TODO]
+
+**Job 12:16**
+
+[TODO]
+
+**Job 12:17**
+
+[TODO]
+
+**Job 12:18**
+
+[TODO]
+
+**Job 12:19**
+
+[TODO]
+
+**Job 12:20**
+
+[TODO]
+
+**Job 12:21**
+
+[TODO]
+
+**Job 12:22**
+
+[TODO]
+
+**Job 12:23**
+
+[TODO]
+
+**Job 12:24**
+
+[TODO]
+
+**Job 12:25**
+
+[TODO]
+
+### Chapter 13
+
+**Job 13:1**
+
+[TODO]
+
+**Job 13:2**
+
+[TODO]
+
+**Job 13:3**
+
+[TODO]
+
+**Job 13:4**
+
+[TODO]
+
+**Job 13:5**
+
+[TODO]
+
+**Job 13:6**
+
+[TODO]
+
+**Job 13:7**
+
+[TODO]
+
+**Job 13:8**
+
+[TODO]
+
+**Job 13:9**
+
+[TODO]
+
+**Job 13:10**
+
+[TODO]
+
+**Job 13:11**
+
+[TODO]
+
+**Job 13:12**
+
+[TODO]
+
+**Job 13:13**
+
+[TODO]
+
+**Job 13:14**
+
+[TODO]
+
+**Job 13:15**
+
+[TODO]
+
+**Job 13:16**
+
+[TODO]
+
+**Job 13:17**
+
+[TODO]
+
+**Job 13:18**
+
+[TODO]
+
+**Job 13:19**
+
+[TODO]
+
+**Job 13:20**
+
+[TODO]
+
+**Job 13:21**
+
+[TODO]
+
+**Job 13:22**
+
+[TODO]
+
+**Job 13:23**
+
+[TODO]
+
+**Job 13:24**
+
+[TODO]
+
+**Job 13:25**
+
+[TODO]
+
+**Job 13:26**
+
+[TODO]
+
+**Job 13:27**
+
+[TODO]
+
+**Job 13:28**
+
+[TODO]
+
+### Chapter 14
+
+**Job 14:1**
+
+[TODO]
+
+**Job 14:2**
+
+[TODO]
+
+**Job 14:3**
+
+[TODO]
+
+**Job 14:4**
+
+[TODO]
+
+**Job 14:5**
+
+[TODO]
+
+**Job 14:6**
+
+[TODO]
+
+**Job 14:7**
+
+[TODO]
+
+**Job 14:8**
+
+[TODO]
+
+**Job 14:9**
+
+[TODO]
+
+**Job 14:10**
+
+[TODO]
+
+**Job 14:11**
+
+[TODO]
+
+**Job 14:12**
+
+[TODO]
+
+**Job 14:13**
+
+[TODO]
+
+**Job 14:14**
+
+[TODO]
+
+**Job 14:15**
+
+[TODO]
+
+**Job 14:16**
+
+[TODO]
+
+**Job 14:17**
+
+[TODO]
+
+**Job 14:18**
+
+[TODO]
+
+**Job 14:19**
+
+[TODO]
+
+**Job 14:20**
+
+[TODO]
+
+**Job 14:21**
+
+[TODO]
+
+**Job 14:22**
+
+[TODO]
+
+### Chapter 15
+
+**Job 15:1**
+
+[TODO]
+
+**Job 15:2**
+
+[TODO]
+
+**Job 15:3**
+
+[TODO]
+
+**Job 15:4**
+
+[TODO]
+
+**Job 15:5**
+
+[TODO]
+
+**Job 15:6**
+
+[TODO]
+
+**Job 15:7**
+
+[TODO]
+
+**Job 15:8**
+
+[TODO]
+
+**Job 15:9**
+
+[TODO]
+
+**Job 15:10**
+
+[TODO]
+
+**Job 15:11**
+
+[TODO]
+
+**Job 15:12**
+
+[TODO]
+
+**Job 15:13**
+
+[TODO]
+
+**Job 15:14**
+
+[TODO]
+
+**Job 15:15**
+
+[TODO]
+
+**Job 15:16**
+
+[TODO]
+
+**Job 15:17**
+
+[TODO]
+
+**Job 15:18**
+
+[TODO]
+
+**Job 15:19**
+
+[TODO]
+
+**Job 15:20**
+
+[TODO]
+
+**Job 15:21**
+
+[TODO]
+
+**Job 15:22**
+
+[TODO]
+
+**Job 15:23**
+
+[TODO]
+
+**Job 15:24**
+
+[TODO]
+
+**Job 15:25**
+
+[TODO]
+
+**Job 15:26**
+
+[TODO]
+
+**Job 15:27**
+
+[TODO]
+
+**Job 15:28**
+
+[TODO]
+
+**Job 15:29**
+
+[TODO]
+
+**Job 15:30**
+
+[TODO]
+
+**Job 15:31**
+
+[TODO]
+
+**Job 15:32**
+
+[TODO]
+
+**Job 15:33**
+
+[TODO]
+
+**Job 15:34**
+
+[TODO]
+
+**Job 15:35**
+
+[TODO]
+
+### Chapter 16
+
+**Job 16:1**
+
+[TODO]
+
+**Job 16:2**
+
+[TODO]
+
+**Job 16:3**
+
+[TODO]
+
+**Job 16:4**
+
+[TODO]
+
+**Job 16:5**
+
+[TODO]
+
+**Job 16:6**
+
+[TODO]
+
+**Job 16:7**
+
+[TODO]
+
+**Job 16:8**
+
+[TODO]
+
+**Job 16:9**
+
+[TODO]
+
+**Job 16:10**
+
+[TODO]
+
+**Job 16:11**
+
+[TODO]
+
+**Job 16:12**
+
+[TODO]
+
+**Job 16:13**
+
+[TODO]
+
+**Job 16:14**
+
+[TODO]
+
+**Job 16:15**
+
+[TODO]
+
+**Job 16:16**
+
+[TODO]
+
+**Job 16:17**
+
+[TODO]
+
+**Job 16:18**
+
+[TODO]
+
+**Job 16:19**
+
+[TODO]
+
+**Job 16:20**
+
+[TODO]
+
+**Job 16:21**
+
+[TODO]
+
+**Job 16:22**
+
+[TODO]
+
+### Chapter 17
+
+**Job 17:1**
+
+[TODO]
+
+**Job 17:2**
+
+[TODO]
+
+**Job 17:3**
+
+[TODO]
+
+**Job 17:4**
+
+[TODO]
+
+**Job 17:5**
+
+[TODO]
+
+**Job 17:6**
+
+[TODO]
+
+**Job 17:7**
+
+[TODO]
+
+**Job 17:8**
+
+[TODO]
+
+**Job 17:9**
+
+[TODO]
+
+**Job 17:10**
+
+[TODO]
+
+**Job 17:11**
+
+[TODO]
+
+**Job 17:12**
+
+[TODO]
+
+**Job 17:13**
+
+[TODO]
+
+**Job 17:14**
+
+[TODO]
+
+**Job 17:15**
+
+[TODO]
+
+**Job 17:16**
+
+[TODO]
+
+### Chapter 18
+
+**Job 18:1**
+
+[TODO]
+
+**Job 18:2**
+
+[TODO]
+
+**Job 18:3**
+
+[TODO]
+
+**Job 18:4**
+
+[TODO]
+
+**Job 18:5**
+
+[TODO]
+
+**Job 18:6**
+
+[TODO]
+
+**Job 18:7**
+
+[TODO]
+
+**Job 18:8**
+
+[TODO]
+
+**Job 18:9**
+
+[TODO]
+
+**Job 18:10**
+
+[TODO]
+
+**Job 18:11**
+
+[TODO]
+
+**Job 18:12**
+
+[TODO]
+
+**Job 18:13**
+
+[TODO]
+
+**Job 18:14**
+
+[TODO]
+
+**Job 18:15**
+
+[TODO]
+
+**Job 18:16**
+
+[TODO]
+
+**Job 18:17**
+
+[TODO]
+
+**Job 18:18**
+
+[TODO]
+
+**Job 18:19**
+
+[TODO]
+
+**Job 18:20**
+
+[TODO]
+
+**Job 18:21**
+
+[TODO]
+
+### Chapter 19
+
+**Job 19:1**
+
+[TODO]
+
+**Job 19:2**
+
+[TODO]
+
+**Job 19:3**
+
+[TODO]
+
+**Job 19:4**
+
+[TODO]
+
+**Job 19:5**
+
+[TODO]
+
+**Job 19:6**
+
+[TODO]
+
+**Job 19:7**
+
+[TODO]
+
+**Job 19:8**
+
+[TODO]
+
+**Job 19:9**
+
+[TODO]
+
+**Job 19:10**
+
+[TODO]
+
+**Job 19:11**
+
+[TODO]
+
+**Job 19:12**
+
+[TODO]
+
+**Job 19:13**
+
+[TODO]
+
+**Job 19:14**
+
+[TODO]
+
+**Job 19:15**
+
+[TODO]
+
+**Job 19:16**
+
+[TODO]
+
+**Job 19:17**
+
+[TODO]
+
+**Job 19:18**
+
+[TODO]
+
+**Job 19:19**
+
+[TODO]
+
+**Job 19:20**
+
+[TODO]
+
+**Job 19:21**
+
+[TODO]
+
+**Job 19:22**
+
+[TODO]
+
+**Job 19:23**
+
+[TODO]
+
+**Job 19:24**
+
+[TODO]
+
+**Job 19:25**
+
+[TODO]
+
+**Job 19:26**
+
+[TODO]
+
+**Job 19:27**
+
+[TODO]
+
+**Job 19:28**
+
+[TODO]
+
+**Job 19:29**
+
+[TODO]
+
+### Chapter 20
+
+**Job 20:1**
+
+[TODO]
+
+**Job 20:2**
+
+[TODO]
+
+**Job 20:3**
+
+[TODO]
+
+**Job 20:4**
+
+[TODO]
+
+**Job 20:5**
+
+[TODO]
+
+**Job 20:6**
+
+[TODO]
+
+**Job 20:7**
+
+[TODO]
+
+**Job 20:8**
+
+[TODO]
+
+**Job 20:9**
+
+[TODO]
+
+**Job 20:10**
+
+[TODO]
+
+**Job 20:11**
+
+[TODO]
+
+**Job 20:12**
+
+[TODO]
+
+**Job 20:13**
+
+[TODO]
+
+**Job 20:14**
+
+[TODO]
+
+**Job 20:15**
+
+[TODO]
+
+**Job 20:16**
+
+[TODO]
+
+**Job 20:17**
+
+[TODO]
+
+**Job 20:18**
+
+[TODO]
+
+**Job 20:19**
+
+[TODO]
+
+**Job 20:20**
+
+[TODO]
+
+**Job 20:21**
+
+[TODO]
+
+**Job 20:22**
+
+[TODO]
+
+**Job 20:23**
+
+[TODO]
+
+**Job 20:24**
+
+[TODO]
+
+**Job 20:25**
+
+[TODO]
+
+**Job 20:26**
+
+[TODO]
+
+**Job 20:27**
+
+[TODO]
+
+**Job 20:28**
+
+[TODO]
+
+**Job 20:29**
+
+[TODO]
+
+### Chapter 21
+
+**Job 21:1**
+
+[TODO]
+
+**Job 21:2**
+
+[TODO]
+
+**Job 21:3**
+
+[TODO]
+
+**Job 21:4**
+
+[TODO]
+
+**Job 21:5**
+
+[TODO]
+
+**Job 21:6**
+
+[TODO]
+
+**Job 21:7**
+
+[TODO]
+
+**Job 21:8**
+
+[TODO]
+
+**Job 21:9**
+
+[TODO]
+
+**Job 21:10**
+
+[TODO]
+
+**Job 21:11**
+
+[TODO]
+
+**Job 21:12**
+
+[TODO]
+
+**Job 21:13**
+
+[TODO]
+
+**Job 21:14**
+
+[TODO]
+
+**Job 21:15**
+
+[TODO]
+
+**Job 21:16**
+
+[TODO]
+
+**Job 21:17**
+
+[TODO]
+
+**Job 21:18**
+
+[TODO]
+
+**Job 21:19**
+
+[TODO]
+
+**Job 21:20**
+
+[TODO]
+
+**Job 21:21**
+
+[TODO]
+
+**Job 21:22**
+
+[TODO]
+
+**Job 21:23**
+
+[TODO]
+
+**Job 21:24**
+
+[TODO]
+
+**Job 21:25**
+
+[TODO]
+
+**Job 21:26**
+
+[TODO]
+
+**Job 21:27**
+
+[TODO]
+
+**Job 21:28**
+
+[TODO]
+
+**Job 21:29**
+
+[TODO]
+
+**Job 21:30**
+
+[TODO]
+
+**Job 21:31**
+
+[TODO]
+
+**Job 21:32**
+
+[TODO]
+
+**Job 21:33**
+
+[TODO]
+
+**Job 21:34**
+
+[TODO]
+
+### Chapter 22
+
+**Job 22:1**
+
+[TODO]
+
+**Job 22:2**
+
+[TODO]
+
+**Job 22:3**
+
+[TODO]
+
+**Job 22:4**
+
+[TODO]
+
+**Job 22:5**
+
+[TODO]
+
+**Job 22:6**
+
+[TODO]
+
+**Job 22:7**
+
+[TODO]
+
+**Job 22:8**
+
+[TODO]
+
+**Job 22:9**
+
+[TODO]
+
+**Job 22:10**
+
+[TODO]
+
+**Job 22:11**
+
+[TODO]
+
+**Job 22:12**
+
+[TODO]
+
+**Job 22:13**
+
+[TODO]
+
+**Job 22:14**
+
+[TODO]
+
+**Job 22:15**
+
+[TODO]
+
+**Job 22:16**
+
+[TODO]
+
+**Job 22:17**
+
+[TODO]
+
+**Job 22:18**
+
+[TODO]
+
+**Job 22:19**
+
+[TODO]
+
+**Job 22:20**
+
+[TODO]
+
+**Job 22:21**
+
+[TODO]
+
+**Job 22:22**
+
+[TODO]
+
+**Job 22:23**
+
+[TODO]
+
+**Job 22:24**
+
+[TODO]
+
+**Job 22:25**
+
+[TODO]
+
+**Job 22:26**
+
+[TODO]
+
+**Job 22:27**
+
+[TODO]
+
+**Job 22:28**
+
+[TODO]
+
+**Job 22:29**
+
+[TODO]
+
+**Job 22:30**
+
+[TODO]
+
+### Chapter 23
+
+**Job 23:1**
+
+[TODO]
+
+**Job 23:2**
+
+[TODO]
+
+**Job 23:3**
+
+[TODO]
+
+**Job 23:4**
+
+[TODO]
+
+**Job 23:5**
+
+[TODO]
+
+**Job 23:6**
+
+[TODO]
+
+**Job 23:7**
+
+[TODO]
+
+**Job 23:8**
+
+[TODO]
+
+**Job 23:9**
+
+[TODO]
+
+**Job 23:10**
+
+[TODO]
+
+**Job 23:11**
+
+[TODO]
+
+**Job 23:12**
+
+[TODO]
+
+**Job 23:13**
+
+[TODO]
+
+**Job 23:15**
+
+[TODO]
+
+**Job 23:16**
+
+[TODO]
+
+**Job 23:17**
+
+[TODO]
+
+### Chapter 24
+
+**Job 24:1**
+
+[TODO]
+
+**Job 24:2**
+
+[TODO]
+
+**Job 24:3**
+
+[TODO]
+
+**Job 24:4**
+
+[TODO]
+
+**Job 24:5**
+
+[TODO]
+
+**Job 24:6**
+
+[TODO]
+
+**Job 24:7**
+
+[TODO]
+
+**Job 24:8**
+
+[TODO]
+
+**Job 24:9**
+
+[TODO]
+
+**Job 24:10**
+
+[TODO]
+
+**Job 24:11**
+
+[TODO]
+
+**Job 24:12**
+
+[TODO]
+
+**Job 24:13**
+
+[TODO]
+
+**Job 24:14**
+
+[TODO]
+
+**Job 24:15**
+
+[TODO]
+
+**Job 24:16**
+
+[TODO]
+
+**Job 24:17**
+
+[TODO]
+
+**Job 24:18**
+
+[TODO]
+
+**Job 24:19**
+
+[TODO]
+
+**Job 24:20**
+
+[TODO]
+
+**Job 24:21**
+
+[TODO]
+
+**Job 24:22**
+
+[TODO]
+
+**Job 24:23**
+
+[TODO]
+
+**Job 24:24**
+
+[TODO]
+
+**Job 24:25**
+
+[TODO]
+
+### Chapter 25
+
+**Job 25:1**
+
+[TODO]
+
+**Job 25:2**
+
+[TODO]
+
+**Job 25:3**
+
+[TODO]
+
+**Job 25:4**
+
+[TODO]
+
+**Job 25:5**
+
+[TODO]
+
+**Job 25:6**
+
+[TODO]
+
+### Chapter 26
+
+**Job 26:1**
+
+[TODO]
+
+**Job 26:2**
+
+[TODO]
+
+**Job 26:3**
+
+[TODO]
+
+**Job 26:4**
+
+[TODO]
+
+**Job 26:5**
+
+[TODO]
+
+**Job 26:6**
+
+[TODO]
+
+**Job 26:7**
+
+[TODO]
+
+**Job 26:8**
+
+[TODO]
+
+**Job 26:9**
+
+[TODO]
+
+**Job 26:10**
+
+[TODO]
+
+**Job 26:11**
+
+[TODO]
+
+**Job 26:12**
+
+[TODO]
+
+**Job 26:13**
+
+[TODO]
+
+**Job 26:14**
+
+[TODO]
+
+### Chapter 27
+
+**Job 27:1**
+
+[TODO]
+
+**Job 27:2**
+
+[TODO]
+
+**Job 27:3**
+
+[TODO]
+
+**Job 27:4**
+
+[TODO]
+
+**Job 27:5**
+
+[TODO]
+
+**Job 27:6**
+
+[TODO]
+
+**Job 27:7**
+
+[TODO]
+
+**Job 27:8**
+
+[TODO]
+
+**Job 27:9**
+
+[TODO]
+
+**Job 27:10**
+
+[TODO]
+
+**Job 27:11**
+
+[TODO]
+
+**Job 27:12**
+
+[TODO]
+
+**Job 27:13**
+
+[TODO]
+
+**Job 27:14**
+
+[TODO]
+
+**Job 27:15**
+
+[TODO]
+
+**Job 27:16**
+
+[TODO]
+
+**Job 27:17**
+
+[TODO]
+
+**Job 27:18**
+
+[TODO]
+
+**Job 27:19**
+
+[TODO]
+
+**Job 27:20**
+
+[TODO]
+
+**Job 27:21**
+
+[TODO]
+
+**Job 27:22**
+
+[TODO]
+
+**Job 27:23**
+
+[TODO]
+
+### Chapter 28
+
+**Job 28:1**
+
+[TODO]
+
+**Job 28:2**
+
+[TODO]
+
+**Job 28:3**
+
+[TODO]
+
+**Job 28:4**
+
+[TODO]
+
+**Job 28:5**
+
+[TODO]
+
+**Job 28:6**
+
+[TODO]
+
+**Job 28:7**
+
+[TODO]
+
+**Job 28:8**
+
+[TODO]
+
+**Job 28:9**
+
+[TODO]
+
+**Job 28:10**
+
+[TODO]
+
+**Job 28:11**
+
+[TODO]
+
+**Job 28:12**
+
+[TODO]
+
+**Job 28:13**
+
+[TODO]
+
+**Job 28:14**
+
+[TODO]
+
+**Job 28:15**
+
+[TODO]
+
+**Job 28:16**
+
+[TODO]
+
+**Job 28:17**
+
+[TODO]
+
+**Job 28:18**
+
+[TODO]
+
+**Job 28:19**
+
+[TODO]
+
+**Job 28:20**
+
+[TODO]
+
+**Job 28:21**
+
+[TODO]
+
+**Job 28:22**
+
+[TODO]
+
+**Job 28:23**
+
+[TODO]
+
+**Job 28:24**
+
+[TODO]
+
+**Job 28:25**
+
+[TODO]
+
+**Job 28:26**
+
+[TODO]
+
+**Job 28:27**
+
+[TODO]
+
+**Job 28:28**
+
+[TODO]
+
+### Chapter 29
+
+**Job 29:1**
+
+[TODO]
+
+**Job 29:2**
+
+[TODO]
+
+**Job 29:3**
+
+[TODO]
+
+**Job 29:4**
+
+[TODO]
+
+**Job 29:5**
+
+[TODO]
+
+**Job 29:6**
+
+[TODO]
+
+**Job 29:7**
+
+[TODO]
+
+**Job 29:8**
+
+[TODO]
+
+**Job 29:9**
+
+[TODO]
+
+**Job 29:10**
+
+[TODO]
+
+**Job 29:11**
+
+[TODO]
+
+**Job 29:12**
+
+[TODO]
+
+**Job 29:13**
+
+[TODO]
+
+**Job 29:14**
+
+[TODO]
+
+**Job 29:15**
+
+[TODO]
+
+**Job 29:16**
+
+[TODO]
+
+**Job 29:17**
+
+[TODO]
+
+**Job 29:18**
+
+[TODO]
+
+**Job 29:19**
+
+[TODO]
+
+**Job 29:20**
+
+[TODO]
+
+**Job 29:21**
+
+[TODO]
+
+**Job 29:22**
+
+[TODO]
+
+**Job 29:23**
+
+[TODO]
+
+**Job 29:24**
+
+[TODO]
+
+**Job 29:25**
+
+[TODO]
+
+### Chapter 30
+
+**Job 30:1**
+
+[TODO]
+
+**Job 30:2**
+
+[TODO]
+
+**Job 30:3**
+
+[TODO]
+
+**Job 30:4**
+
+[TODO]
+
+**Job 30:5**
+
+[TODO]
+
+**Job 30:6**
+
+[TODO]
+
+**Job 30:7**
+
+[TODO]
+
+**Job 30:8**
+
+[TODO]
+
+**Job 30:9**
+
+[TODO]
+
+**Job 30:10**
+
+[TODO]
+
+**Job 30:11**
+
+[TODO]
+
+**Job 30:12**
+
+[TODO]
+
+**Job 30:13**
+
+[TODO]
+
+**Job 30:14**
+
+[TODO]
+
+**Job 30:15**
+
+[TODO]
+
+**Job 30:16**
+
+[TODO]
+
+**Job 30:17**
+
+[TODO]
+
+**Job 30:18**
+
+[TODO]
+
+**Job 30:19**
+
+[TODO]
+
+**Job 30:20**
+
+[TODO]
+
+**Job 30:21**
+
+[TODO]
+
+**Job 30:22**
+
+[TODO]
+
+**Job 30:23**
+
+[TODO]
+
+**Job 30:24**
+
+[TODO]
+
+**Job 30:25**
+
+[TODO]
+
+**Job 30:26**
+
+[TODO]
+
+**Job 30:27**
+
+[TODO]
+
+**Job 30:28**
+
+[TODO]
+
+**Job 30:29**
+
+[TODO]
+
+**Job 30:30**
+
+[TODO]
+
+**Job 30:31**
+
+[TODO]
+
+### Chapter 31
+
+**Job 31:1**
+
+[TODO]
+
+**Job 31:2**
+
+[TODO]
+
+**Job 31:3**
+
+[TODO]
+
+**Job 31:4**
+
+[TODO]
+
+**Job 31:5**
+
+[TODO]
+
+**Job 31:6**
+
+[TODO]
+
+**Job 31:7**
+
+[TODO]
+
+**Job 31:8**
+
+[TODO]
+
+**Job 31:9**
+
+[TODO]
+
+**Job 31:10**
+
+[TODO]
+
+**Job 31:11**
+
+[TODO]
+
+**Job 31:12**
+
+[TODO]
+
+**Job 31:13**
+
+[TODO]
+
+**Job 31:14**
+
+[TODO]
+
+**Job 31:15**
+
+[TODO]
+
+**Job 31:16**
+
+[TODO]
+
+**Job 31:17**
+
+[TODO]
+
+**Job 31:18**
+
+[TODO]
+
+**Job 31:19**
+
+[TODO]
+
+**Job 31:20**
+
+[TODO]
+
+**Job 31:21**
+
+[TODO]
+
+**Job 31:22**
+
+[TODO]
+
+**Job 31:23**
+
+[TODO]
+
+**Job 31:24**
+
+[TODO]
+
+**Job 31:25**
+
+[TODO]
+
+**Job 31:26**
+
+[TODO]
+
+**Job 31:27**
+
+[TODO]
+
+**Job 31:28**
+
+[TODO]
+
+**Job 31:29**
+
+[TODO]
+
+**Job 31:30**
+
+[TODO]
+
+**Job 31:31**
+
+[TODO]
+
+**Job 31:32**
+
+[TODO]
+
+**Job 31:33**
+
+[TODO]
+
+**Job 31:34**
+
+[TODO]
+
+**Job 31:35**
+
+[TODO]
+
+**Job 31:36**
+
+[TODO]
+
+**Job 31:37**
+
+[TODO]
+
+**Job 31:38**
+
+[TODO]
+
+**Job 31:39**
+
+[TODO]
+
+**Job 31:40**
+
+[TODO]
+
+### Chapter 32
+
+**Job 32:1**
+
+[TODO]
+
+**Job 32:2**
+
+[TODO]
+
+**Job 32:3**
+
+[TODO]
+
+**Job 32:4**
+
+[TODO]
+
+**Job 32:5**
+
+[TODO]
+
+**Job 32:6**
+
+[TODO]
+
+**Job 32:7**
+
+[TODO]
+
+**Job 32:8**
+
+[TODO]
+
+**Job 32:9**
+
+[TODO]
+
+**Job 32:10**
+
+[TODO]
+
+**Job 32:11**
+
+[TODO]
+
+**Job 32:12**
+
+[TODO]
+
+**Job 32:13**
+
+[TODO]
+
+**Job 32:14**
+
+[TODO]
+
+**Job 32:15**
+
+[TODO]
+
+**Job 32:16**
+
+[TODO]
+
+**Job 32:17**
+
+[TODO]
+
+**Job 32:18**
+
+[TODO]
+
+**Job 32:19**
+
+[TODO]
+
+**Job 32:20**
+
+[TODO]
+
+**Job 32:21**
+
+[TODO]
+
+**Job 32:22**
+
+[TODO]
+
+### Chapter 33
+
+**Job 33:1**
+
+[TODO]
+
+**Job 33:2**
+
+[TODO]
+
+**Job 33:3**
+
+[TODO]
+
+**Job 33:4**
+
+[TODO]
+
+**Job 33:5**
+
+[TODO]
+
+**Job 33:6**
+
+[TODO]
+
+**Job 33:7**
+
+[TODO]
+
+**Job 33:8**
+
+[TODO]
+
+**Job 33:9**
+
+[TODO]
+
+**Job 33:10**
+
+[TODO]
+
+**Job 33:11**
+
+[TODO]
+
+**Job 33:12**
+
+[TODO]
+
+**Job 33:13**
+
+[TODO]
+
+**Job 33:14**
+
+[TODO]
+
+**Job 33:15**
+
+[TODO]
+
+**Job 33:16**
+
+[TODO]
+
+**Job 33:17**
+
+[TODO]
+
+**Job 33:18**
+
+[TODO]
+
+**Job 33:19**
+
+[TODO]
+
+**Job 33:20**
+
+[TODO]
+
+**Job 33:21**
+
+[TODO]
+
+**Job 33:22**
+
+[TODO]
+
+**Job 33:23**
+
+[TODO]
+
+**Job 33:24**
+
+[TODO]
+
+**Job 33:25**
+
+[TODO]
+
+**Job 33:26**
+
+[TODO]
+
+**Job 33:27**
+
+[TODO]
+
+**Job 33:28**
+
+[TODO]
+
+**Job 33:29**
+
+[TODO]
+
+**Job 33:30**
+
+[TODO]
+
+**Job 33:31**
+
+[TODO]
+
+**Job 33:32**
+
+[TODO]
+
+**Job 33:33**
+
+[TODO]
+
+### Chapter 34
+
+**Job 34:1**
+
+[TODO]
+
+**Job 34:2**
+
+[TODO]
+
+**Job 34:3**
+
+[TODO]
+
+**Job 34:4**
+
+[TODO]
+
+**Job 34:5**
+
+[TODO]
+
+**Job 34:6**
+
+[TODO]
+
+**Job 34:7**
+
+[TODO]
+
+**Job 34:8**
+
+[TODO]
+
+**Job 34:9**
+
+[TODO]
+
+**Job 34:10**
+
+[TODO]
+
+**Job 34:11**
+
+[TODO]
+
+**Job 34:12**
+
+[TODO]
+
+**Job 34:13**
+
+[TODO]
+
+**Job 34:14**
+
+[TODO]
+
+**Job 34:15**
+
+[TODO]
+
+**Job 34:16**
+
+[TODO]
+
+**Job 34:17**
+
+[TODO]
+
+**Job 34:18**
+
+[TODO]
+
+**Job 34:19**
+
+[TODO]
+
+**Job 34:20**
+
+[TODO]
+
+**Job 34:21**
+
+[TODO]
+
+**Job 34:22**
+
+[TODO]
+
+**Job 34:23**
+
+[TODO]
+
+**Job 34:24**
+
+[TODO]
+
+**Job 34:25**
+
+[TODO]
+
+**Job 34:26**
+
+[TODO]
+
+**Job 34:27**
+
+[TODO]
+
+**Job 34:28**
+
+[TODO]
+
+**Job 34:29**
+
+[TODO]
+
+**Job 34:30**
+
+[TODO]
+
+**Job 34:31**
+
+[TODO]
+
+**Job 34:32**
+
+[TODO]
+
+**Job 34:33**
+
+[TODO]
+
+**Job 34:34**
+
+[TODO]
+
+**Job 34:35**
+
+[TODO]
+
+**Job 34:36**
+
+[TODO]
+
+**Job 34:37**
+
+[TODO]
+
+### Chapter 35
+
+**Job 35:1**
+
+[TODO]
+
+**Job 35:2**
+
+[TODO]
+
+**Job 35:3**
+
+[TODO]
+
+**Job 35:4**
+
+[TODO]
+
+**Job 35:5**
+
+[TODO]
+
+**Job 35:6**
+
+[TODO]
+
+**Job 35:7**
+
+[TODO]
+
+**Job 35:8**
+
+[TODO]
+
+**Job 35:9**
+
+[TODO]
+
+**Job 35:10**
+
+[TODO]
+
+**Job 35:11**
+
+[TODO]
+
+**Job 35:12**
+
+[TODO]
+
+**Job 35:13**
+
+[TODO]
+
+**Job 35:14**
+
+[TODO]
+
+**Job 35:15**
+
+[TODO]
+
+**Job 35:16**
+
+[TODO]
+
+### Chapter 36
+
+**Job 36:1**
+
+[TODO]
+
+**Job 36:2**
+
+[TODO]
+
+**Job 36:3**
+
+[TODO]
+
+**Job 36:4**
+
+[TODO]
+
+**Job 36:5**
+
+[TODO]
+
+**Job 36:6**
+
+[TODO]
+
+**Job 36:7**
+
+[TODO]
+
+**Job 36:8**
+
+[TODO]
+
+**Job 36:9**
+
+[TODO]
+
+**Job 36:10**
+
+[TODO]
+
+**Job 36:11**
+
+[TODO]
+
+**Job 36:12**
+
+[TODO]
+
+**Job 36:13**
+
+[TODO]
+
+**Job 36:14**
+
+[TODO]
+
+**Job 36:15**
+
+[TODO]
+
+**Job 36:16**
+
+[TODO]
+
+**Job 36:17**
+
+[TODO]
+
+**Job 36:18**
+
+[TODO]
+
+**Job 36:19**
+
+[TODO]
+
+**Job 36:20**
+
+[TODO]
+
+**Job 36:21**
+
+[TODO]
+
+**Job 36:22**
+
+[TODO]
+
+**Job 36:23**
+
+[TODO]
+
+**Job 36:24**
+
+[TODO]
+
+**Job 36:25**
+
+[TODO]
+
+**Job 36:26**
+
+[TODO]
+
+**Job 36:27**
+
+[TODO]
+
+**Job 36:28**
+
+[TODO]
+
+**Job 36:29**
+
+[TODO]
+
+**Job 36:30**
+
+[TODO]
+
+**Job 36:31**
+
+[TODO]
+
+**Job 36:32**
+
+[TODO]
+
+**Job 36:33**
+
+[TODO]
+
+### Chapter 37
+
+**Job 37:1**
+
+[TODO]
+
+**Job 37:2**
+
+[TODO]
+
+**Job 37:3**
+
+[TODO]
+
+**Job 37:4**
+
+[TODO]
+
+**Job 37:5**
+
+[TODO]
+
+**Job 37:6**
+
+[TODO]
+
+**Job 37:7**
+
+[TODO]
+
+**Job 37:8**
+
+[TODO]
+
+**Job 37:9**
+
+[TODO]
+
+**Job 37:10**
+
+[TODO]
+
+**Job 37:11**
+
+[TODO]
+
+**Job 37:12**
+
+[TODO]
+
+**Job 37:13**
+
+[TODO]
+
+**Job 37:14**
+
+[TODO]
+
+**Job 37:15**
+
+[TODO]
+
+**Job 37:16**
+
+[TODO]
+
+**Job 37:17**
+
+[TODO]
+
+**Job 37:18**
+
+[TODO]
+
+**Job 37:19**
+
+[TODO]
+
+**Job 37:20**
+
+[TODO]
+
+**Job 37:21**
+
+[TODO]
+
+**Job 37:22**
+
+[TODO]
+
+**Job 37:23**
+
+[TODO]
+
+**Job 37:24**
+
+[TODO]
+
+### Chapter 38
+
+**Job 38:1**
+
+[TODO]
+
+**Job 38:2**
+
+[TODO]
+
+**Job 38:3**
+
+[TODO]
+
+**Job 38:4**
+
+[TODO]
+
+**Job 38:5**
+
+[TODO]
+
+**Job 38:6**
+
+[TODO]
+
+**Job 38:7**
+
+[TODO]
+
+**Job 38:8**
+
+[TODO]
+
+**Job 38:9**
+
+[TODO]
+
+**Job 38:10**
+
+[TODO]
+
+**Job 38:11**
+
+[TODO]
+
+**Job 38:12**
+
+[TODO]
+
+**Job 38:13**
+
+[TODO]
+
+**Job 38:14**
+
+[TODO]
+
+**Job 38:15**
+
+[TODO]
+
+**Job 38:16**
+
+[TODO]
+
+**Job 38:17**
+
+[TODO]
+
+**Job 38:18**
+
+[TODO]
+
+**Job 38:19**
+
+[TODO]
+
+**Job 38:20**
+
+[TODO]
+
+**Job 38:21**
+
+[TODO]
+
+**Job 38:22**
+
+[TODO]
+
+**Job 38:23**
+
+[TODO]
+
+**Job 38:24**
+
+[TODO]
+
+**Job 38:25**
+
+[TODO]
+
+**Job 38:26**
+
+[TODO]
+
+**Job 38:27**
+
+[TODO]
+
+**Job 38:28**
+
+[TODO]
+
+**Job 38:29**
+
+[TODO]
+
+**Job 38:30**
+
+[TODO]
+
+**Job 38:31**
+
+[TODO]
+
+**Job 38:32**
+
+[TODO]
+
+**Job 38:33**
+
+[TODO]
+
+**Job 38:34**
+
+[TODO]
+
+**Job 38:35**
+
+[TODO]
+
+**Job 38:36**
+
+[TODO]
+
+**Job 38:37**
+
+[TODO]
+
+**Job 38:38**
+
+[TODO]
+
+**Job 38:39**
+
+[TODO]
+
+**Job 38:40**
+
+[TODO]
+
+**Job 38:41**
+
+[TODO]
+
+### Chapter 39
+
+**Job 39:1**
+
+[TODO]
+
+**Job 39:2**
+
+[TODO]
+
+**Job 39:3**
+
+[TODO]
+
+**Job 39:4**
+
+[TODO]
+
+**Job 39:5**
+
+[TODO]
+
+**Job 39:6**
+
+[TODO]
+
+**Job 39:7**
+
+[TODO]
+
+**Job 39:8**
+
+[TODO]
+
+**Job 39:9**
+
+[TODO]
+
+**Job 39:10**
+
+[TODO]
+
+**Job 39:11**
+
+[TODO]
+
+**Job 39:12**
+
+[TODO]
+
+**Job 39:13**
+
+[TODO]
+
+**Job 39:14**
+
+[TODO]
+
+**Job 39:15**
+
+[TODO]
+
+**Job 39:16**
+
+[TODO]
+
+**Job 39:17**
+
+[TODO]
+
+**Job 39:18**
+
+[TODO]
+
+**Job 39:19**
+
+[TODO]
+
+**Job 39:20**
+
+[TODO]
+
+**Job 39:21**
+
+[TODO]
+
+**Job 39:22**
+
+[TODO]
+
+**Job 39:23**
+
+[TODO]
+
+**Job 39:24**
+
+[TODO]
+
+**Job 39:25**
+
+[TODO]
+
+**Job 39:26**
+
+[TODO]
+
+**Job 39:27**
+
+[TODO]
+
+**Job 39:28**
+
+[TODO]
+
+**Job 39:29**
+
+[TODO]
+
+**Job 39:30**
+
+[TODO]
+
+### Chapter 40
+
+**Job 40:1**
+
+[TODO]
+
+**Job 40:2**
+
+[TODO]
+
+**Job 40:3**
+
+[TODO]
+
+**Job 40:4**
+
+[TODO]
+
+**Job 40:5**
+
+[TODO]
+
+**Job 40:6**
+
+[TODO]
+
+**Job 40:7**
+
+[TODO]
+
+**Job 40:8**
+
+[TODO]
+
+**Job 40:9**
+
+[TODO]
+
+**Job 40:10**
+
+[TODO]
+
+**Job 40:11**
+
+[TODO]
+
+**Job 40:12**
+
+[TODO]
+
+**Job 40:13**
+
+[TODO]
+
+**Job 40:14**
+
+[TODO]
+
+**Job 40:15**
+
+[TODO]
+
+**Job 40:16**
+
+[TODO]
+
+**Job 40:17**
+
+[TODO]
+
+**Job 40:18**
+
+[TODO]
+
+**Job 40:19**
+
+[TODO]
+
+**Job 40:20**
+
+[TODO]
+
+**Job 40:21**
+
+[TODO]
+
+**Job 40:22**
+
+[TODO]
+
+**Job 40:23**
+
+[TODO]
+
+**Job 40:24**
+
+[TODO]
+
+**Job 40:25**
+
+[TODO]
+
+**Job 40:26**
+
+[TODO]
+
+**Job 40:27**
+
+[TODO]
+
+**Job 40:28**
+
+[TODO]
+
+**Job 40:29**
+
+[TODO]
+
+**Job 40:30**
+
+[TODO]
+
+**Job 40:31**
+
+[TODO]
+
+**Job 40:32**
+
+[TODO]
+
+### Chapter 41
+
+**Job 41:1**
+
+[TODO]
+
+**Job 41:2**
+
+[TODO]
+
+**Job 41:3**
+
+[TODO]
+
+**Job 41:4**
+
+[TODO]
+
+**Job 41:5**
+
+[TODO]
+
+**Job 41:6**
+
+[TODO]
+
+**Job 41:7**
+
+[TODO]
+
+**Job 41:8**
+
+[TODO]
+
+**Job 41:9**
+
+[TODO]
+
+**Job 41:10**
+
+[TODO]
+
+**Job 41:11**
+
+[TODO]
+
+**Job 41:12**
+
+[TODO]
+
+**Job 41:13**
+
+[TODO]
+
+**Job 41:14**
+
+[TODO]
+
+**Job 41:15**
+
+[TODO]
+
+**Job 41:16**
+
+[TODO]
+
+**Job 41:17**
+
+[TODO]
+
+**Job 41:18**
+
+[TODO]
+
+**Job 41:19**
+
+[TODO]
+
+**Job 41:20**
+
+[TODO]
+
+**Job 41:21**
+
+[TODO]
+
+**Job 41:22**
+
+[TODO]
+
+**Job 41:23**
+
+[TODO]
+
+**Job 41:24**
+
+[TODO]
+
+**Job 41:25**
+
+[TODO]
+
+**Job 41:26**
+
+[TODO]
+
+### Chapter 42
+
+**Job 42:1**
+
+[TODO]
+
+**Job 42:2**
+
+[TODO]
+
+**Job 42:3**
+
+[TODO]
+
+**Job 42:4**
+
+[TODO]
+
+**Job 42:5**
+
+[TODO]
+
+**Job 42:6**
+
+[TODO]
+
+**Job 42:7**
+
+[TODO]
+
+**Job 42:8**
+
+[TODO]
+
+**Job 42:9**
+
+[TODO]
+
+**Job 42:10**
+
+[TODO]
+
+**Job 42:11**
+
+[TODO]
+
+**Job 42:12**
+
+[TODO]
+
+**Job 42:13**
+
+[TODO]
+
+**Job 42:14**
+
+[TODO]
+
+**Job 42:15**
+
+[TODO]
+
+**Job 42:16**
+
+[TODO]
+
+**Job 42:17**
+
+[TODO]
+
+## Psalms
+
+### Chapter 1
+
+**Psalms 1:1**
+
+[TODO]
+
+**Psalms 1:2**
+
+[TODO]
+
+**Psalms 1:3**
+
+[TODO]
+
+**Psalms 1:4**
+
+[TODO]
+
+**Psalms 1:5**
+
+[TODO]
+
+**Psalms 1:6**
+
+[TODO]
+
+### Chapter 2
+
+**Psalms 2:1**
+
+[TODO]
+
+**Psalms 2:2**
+
+[TODO]
+
+**Psalms 2:3**
+
+[TODO]
+
+**Psalms 2:4**
+
+[TODO]
+
+**Psalms 2:5**
+
+[TODO]
+
+**Psalms 2:6**
+
+[TODO]
+
+**Psalms 2:7**
+
+[TODO]
+
+**Psalms 2:8**
+
+[TODO]
+
+**Psalms 2:9**
+
+[TODO]
+
+**Psalms 2:10**
+
+[TODO]
+
+**Psalms 2:11**
+
+[TODO]
+
+**Psalms 2:12**
+
+[TODO]
+
+### Chapter 3
+
+**Psalms 3:1**
+
+[TODO]
+
+**Psalms 3:2**
+
+[TODO]
+
+**Psalms 3:3**
+
+[TODO]
+
+**Psalms 3:4**
+
+[TODO]
+
+**Psalms 3:5**
+
+[TODO]
+
+**Psalms 3:6**
+
+[TODO]
+
+**Psalms 3:7**
+
+[TODO]
+
+**Psalms 3:8**
+
+[TODO]
+
+**Psalms 3:9**
+
+[TODO]
+
+### Chapter 4
+
+**Psalms 4:1**
+
+[TODO]
+
+**Psalms 4:2**
+
+[TODO]
+
+**Psalms 4:3**
+
+[TODO]
+
+**Psalms 4:4**
+
+[TODO]
+
+**Psalms 4:5**
+
+[TODO]
+
+**Psalms 4:6**
+
+[TODO]
+
+**Psalms 4:7**
+
+[TODO]
+
+**Psalms 4:8**
+
+[TODO]
+
+**Psalms 4:9**
+
+[TODO]
+
+### Chapter 5
+
+**Psalms 5:1**
+
+[TODO]
+
+**Psalms 5:2**
+
+[TODO]
+
+**Psalms 5:3**
+
+[TODO]
+
+**Psalms 5:4**
+
+[TODO]
+
+**Psalms 5:5**
+
+[TODO]
+
+**Psalms 5:6**
+
+[TODO]
+
+**Psalms 5:7**
+
+[TODO]
+
+**Psalms 5:8**
+
+[TODO]
+
+**Psalms 5:9**
+
+[TODO]
+
+**Psalms 5:10**
+
+[TODO]
+
+**Psalms 5:11**
+
+[TODO]
+
+**Psalms 5:12**
+
+[TODO]
+
+**Psalms 5:13**
+
+[TODO]
+
+### Chapter 6
+
+**Psalms 6:1**
+
+[TODO]
+
+**Psalms 6:2**
+
+[TODO]
+
+**Psalms 6:3**
+
+[TODO]
+
+**Psalms 6:4**
+
+[TODO]
+
+**Psalms 6:5**
+
+[TODO]
+
+**Psalms 6:6**
+
+[TODO]
+
+**Psalms 6:7**
+
+[TODO]
+
+**Psalms 6:8**
+
+[TODO]
+
+**Psalms 6:9**
+
+[TODO]
+
+**Psalms 6:10**
+
+[TODO]
+
+**Psalms 6:11**
+
+[TODO]
+
+### Chapter 7
+
+**Psalms 7:1**
+
+[TODO]
+
+**Psalms 7:2**
+
+[TODO]
+
+**Psalms 7:3**
+
+[TODO]
+
+**Psalms 7:4**
+
+[TODO]
+
+**Psalms 7:5**
+
+[TODO]
+
+**Psalms 7:6**
+
+[TODO]
+
+**Psalms 7:7**
+
+[TODO]
+
+**Psalms 7:8**
+
+[TODO]
+
+**Psalms 7:9**
+
+[TODO]
+
+**Psalms 7:10**
+
+[TODO]
+
+**Psalms 7:11**
+
+[TODO]
+
+**Psalms 7:12**
+
+[TODO]
+
+**Psalms 7:13**
+
+[TODO]
+
+**Psalms 7:14**
+
+[TODO]
+
+**Psalms 7:15**
+
+[TODO]
+
+**Psalms 7:16**
+
+[TODO]
+
+**Psalms 7:17**
+
+[TODO]
+
+**Psalms 7:18**
+
+[TODO]
+
+### Chapter 8
+
+**Psalms 8:1**
+
+[TODO]
+
+**Psalms 8:2**
+
+[TODO]
+
+**Psalms 8:3**
+
+[TODO]
+
+**Psalms 8:4**
+
+[TODO]
+
+**Psalms 8:5**
+
+[TODO]
+
+**Psalms 8:6**
+
+[TODO]
+
+**Psalms 8:7**
+
+[TODO]
+
+**Psalms 8:8**
+
+[TODO]
+
+**Psalms 8:9**
+
+[TODO]
+
+**Psalms 8:10**
+
+[TODO]
+
+### Chapter 9
+
+**Psalms 9:1**
+
+[TODO]
+
+**Psalms 9:2**
+
+[TODO]
+
+**Psalms 9:3**
+
+[TODO]
+
+**Psalms 9:4**
+
+[TODO]
+
+**Psalms 9:5**
+
+[TODO]
+
+**Psalms 9:6**
+
+[TODO]
+
+**Psalms 9:7**
+
+[TODO]
+
+**Psalms 9:8**
+
+[TODO]
+
+**Psalms 9:9**
+
+[TODO]
+
+**Psalms 9:10**
+
+[TODO]
+
+**Psalms 9:11**
+
+[TODO]
+
+**Psalms 9:12**
+
+[TODO]
+
+**Psalms 9:13**
+
+[TODO]
+
+**Psalms 9:14**
+
+[TODO]
+
+**Psalms 9:15**
+
+[TODO]
+
+**Psalms 9:16**
+
+[TODO]
+
+**Psalms 9:17**
+
+[TODO]
+
+**Psalms 9:18**
+
+[TODO]
+
+**Psalms 9:19**
+
+[TODO]
+
+**Psalms 9:20**
+
+[TODO]
+
+**Psalms 9:21**
+
+[TODO]
+
+**Psalms 9:22**
+
+[TODO]
+
+**Psalms 9:23**
+
+[TODO]
+
+**Psalms 9:24**
+
+[TODO]
+
+**Psalms 9:25**
+
+[TODO]
+
+**Psalms 9:26**
+
+[TODO]
+
+**Psalms 9:27**
+
+[TODO]
+
+**Psalms 9:28**
+
+[TODO]
+
+**Psalms 9:29**
+
+[TODO]
+
+**Psalms 9:30**
+
+[TODO]
+
+**Psalms 9:31**
+
+[TODO]
+
+**Psalms 9:32**
+
+[TODO]
+
+**Psalms 9:33**
+
+[TODO]
+
+**Psalms 9:34**
+
+[TODO]
+
+**Psalms 9:35**
+
+[TODO]
+
+**Psalms 9:36**
+
+[TODO]
+
+**Psalms 9:37**
+
+[TODO]
+
+**Psalms 9:38**
+
+[TODO]
+
+**Psalms 9:39**
+
+[TODO]
+
+### Chapter 10
+
+**Psalms 10:1**
+
+[TODO]
+
+**Psalms 10:2**
+
+[TODO]
+
+**Psalms 10:3**
+
+[TODO]
+
+**Psalms 10:4**
+
+[TODO]
+
+**Psalms 10:5**
+
+[TODO]
+
+**Psalms 10:6**
+
+[TODO]
+
+**Psalms 10:7**
+
+[TODO]
+
+### Chapter 11
+
+**Psalms 11:1**
+
+[TODO]
+
+**Psalms 11:2**
+
+[TODO]
+
+**Psalms 11:3**
+
+[TODO]
+
+**Psalms 11:4**
+
+[TODO]
+
+**Psalms 11:5**
+
+[TODO]
+
+**Psalms 11:6**
+
+[TODO]
+
+**Psalms 11:7**
+
+[TODO]
+
+**Psalms 11:8**
+
+[TODO]
+
+**Psalms 11:9**
+
+[TODO]
+
+### Chapter 12
+
+**Psalms 12:1**
+
+[TODO]
+
+**Psalms 12:2**
+
+[TODO]
+
+**Psalms 12:3**
+
+[TODO]
+
+**Psalms 12:4**
+
+[TODO]
+
+**Psalms 12:5**
+
+[TODO]
+
+**Psalms 12:6**
+
+[TODO]
+
+### Chapter 13
+
+**Psalms 13:1**
+
+[TODO]
+
+**Psalms 13:2**
+
+[TODO]
+
+**Psalms 13:3**
+
+[TODO]
+
+**Psalms 13:4**
+
+[TODO]
+
+**Psalms 13:5**
+
+[TODO]
+
+**Psalms 13:6**
+
+[TODO]
+
+**Psalms 13:7**
+
+[TODO]
+
+### Chapter 14
+
+**Psalms 14:1**
+
+[TODO]
+
+**Psalms 14:2**
+
+[TODO]
+
+**Psalms 14:3**
+
+[TODO]
+
+**Psalms 14:4**
+
+[TODO]
+
+**Psalms 14:5**
+
+[TODO]
+
+### Chapter 15
+
+**Psalms 15:1**
+
+[TODO]
+
+**Psalms 15:2**
+
+[TODO]
+
+**Psalms 15:3**
+
+[TODO]
+
+**Psalms 15:4**
+
+[TODO]
+
+**Psalms 15:5**
+
+[TODO]
+
+**Psalms 15:6**
+
+[TODO]
+
+**Psalms 15:7**
+
+[TODO]
+
+**Psalms 15:8**
+
+[TODO]
+
+**Psalms 15:9**
+
+[TODO]
+
+**Psalms 15:10**
+
+[TODO]
+
+**Psalms 15:11**
+
+[TODO]
+
+### Chapter 16
+
+**Psalms 16:1**
+
+[TODO]
+
+**Psalms 16:2**
+
+[TODO]
+
+**Psalms 16:3**
+
+[TODO]
+
+**Psalms 16:4**
+
+[TODO]
+
+**Psalms 16:5**
+
+[TODO]
+
+**Psalms 16:6**
+
+[TODO]
+
+**Psalms 16:7**
+
+[TODO]
+
+**Psalms 16:8**
+
+[TODO]
+
+**Psalms 16:9**
+
+[TODO]
+
+**Psalms 16:10**
+
+[TODO]
+
+**Psalms 16:11**
+
+[TODO]
+
+**Psalms 16:12**
+
+[TODO]
+
+**Psalms 16:13**
+
+[TODO]
+
+**Psalms 16:14**
+
+[TODO]
+
+**Psalms 16:15**
+
+[TODO]
+
+### Chapter 17
+
+**Psalms 17:1**
+
+[TODO]
+
+**Psalms 17:2**
+
+[TODO]
+
+**Psalms 17:3**
+
+[TODO]
+
+**Psalms 17:4**
+
+[TODO]
+
+**Psalms 17:5**
+
+[TODO]
+
+**Psalms 17:6**
+
+[TODO]
+
+**Psalms 17:7**
+
+[TODO]
+
+**Psalms 17:8**
+
+[TODO]
+
+**Psalms 17:9**
+
+[TODO]
+
+**Psalms 17:10**
+
+[TODO]
+
+**Psalms 17:11**
+
+[TODO]
+
+**Psalms 17:12**
+
+[TODO]
+
+**Psalms 17:13**
+
+[TODO]
+
+**Psalms 17:14**
+
+[TODO]
+
+**Psalms 17:15**
+
+[TODO]
+
+**Psalms 17:16**
+
+[TODO]
+
+**Psalms 17:17**
+
+[TODO]
+
+**Psalms 17:18**
+
+[TODO]
+
+**Psalms 17:19**
+
+[TODO]
+
+**Psalms 17:20**
+
+[TODO]
+
+**Psalms 17:21**
+
+[TODO]
+
+**Psalms 17:22**
+
+[TODO]
+
+**Psalms 17:23**
+
+[TODO]
+
+**Psalms 17:24**
+
+[TODO]
+
+**Psalms 17:25**
+
+[TODO]
+
+**Psalms 17:26**
+
+[TODO]
+
+**Psalms 17:27**
+
+[TODO]
+
+**Psalms 17:28**
+
+[TODO]
+
+**Psalms 17:29**
+
+[TODO]
+
+**Psalms 17:30**
+
+[TODO]
+
+**Psalms 17:31**
+
+[TODO]
+
+**Psalms 17:32**
+
+[TODO]
+
+**Psalms 17:33**
+
+[TODO]
+
+**Psalms 17:34**
+
+[TODO]
+
+**Psalms 17:35**
+
+[TODO]
+
+**Psalms 17:36**
+
+[TODO]
+
+**Psalms 17:37**
+
+[TODO]
+
+**Psalms 17:38**
+
+[TODO]
+
+**Psalms 17:39**
+
+[TODO]
+
+**Psalms 17:40**
+
+[TODO]
+
+**Psalms 17:41**
+
+[TODO]
+
+**Psalms 17:42**
+
+[TODO]
+
+**Psalms 17:43**
+
+[TODO]
+
+**Psalms 17:44**
+
+[TODO]
+
+**Psalms 17:45**
+
+[TODO]
+
+**Psalms 17:46**
+
+[TODO]
+
+**Psalms 17:47**
+
+[TODO]
+
+**Psalms 17:48**
+
+[TODO]
+
+**Psalms 17:49**
+
+[TODO]
+
+**Psalms 17:50**
+
+[TODO]
+
+**Psalms 17:51**
+
+[TODO]
+
+### Chapter 18
+
+**Psalms 18:1**
+
+[TODO]
+
+**Psalms 18:2**
+
+[TODO]
+
+**Psalms 18:3**
+
+[TODO]
+
+**Psalms 18:4**
+
+[TODO]
+
+**Psalms 18:5**
+
+[TODO]
+
+**Psalms 18:6**
+
+[TODO]
+
+**Psalms 18:7**
+
+[TODO]
+
+**Psalms 18:8**
+
+[TODO]
+
+**Psalms 18:9**
+
+[TODO]
+
+**Psalms 18:10**
+
+[TODO]
+
+**Psalms 18:11**
+
+[TODO]
+
+**Psalms 18:12**
+
+[TODO]
+
+**Psalms 18:13**
+
+[TODO]
+
+**Psalms 18:14**
+
+[TODO]
+
+**Psalms 18:15**
+
+[TODO]
+
+### Chapter 19
+
+**Psalms 19:1**
+
+[TODO]
+
+**Psalms 19:2**
+
+[TODO]
+
+**Psalms 19:3**
+
+[TODO]
+
+**Psalms 19:4**
+
+[TODO]
+
+**Psalms 19:5**
+
+[TODO]
+
+**Psalms 19:6**
+
+[TODO]
+
+**Psalms 19:7**
+
+[TODO]
+
+**Psalms 19:8**
+
+[TODO]
+
+**Psalms 19:9**
+
+[TODO]
+
+**Psalms 19:10**
+
+[TODO]
+
+### Chapter 20
+
+**Psalms 20:1**
+
+[TODO]
+
+**Psalms 20:2**
+
+[TODO]
+
+**Psalms 20:3**
+
+[TODO]
+
+**Psalms 20:4**
+
+[TODO]
+
+**Psalms 20:5**
+
+[TODO]
+
+**Psalms 20:6**
+
+[TODO]
+
+**Psalms 20:7**
+
+[TODO]
+
+**Psalms 20:8**
+
+[TODO]
+
+**Psalms 20:9**
+
+[TODO]
+
+**Psalms 20:10**
+
+[TODO]
+
+**Psalms 20:11**
+
+[TODO]
+
+**Psalms 20:12**
+
+[TODO]
+
+**Psalms 20:13**
+
+[TODO]
+
+**Psalms 20:14**
+
+[TODO]
+
+### Chapter 21
+
+**Psalms 21:1**
+
+[TODO]
+
+**Psalms 21:2**
+
+[TODO]
+
+**Psalms 21:3**
+
+[TODO]
+
+**Psalms 21:4**
+
+[TODO]
+
+**Psalms 21:5**
+
+[TODO]
+
+**Psalms 21:6**
+
+[TODO]
+
+**Psalms 21:7**
+
+[TODO]
+
+**Psalms 21:8**
+
+[TODO]
+
+**Psalms 21:9**
+
+[TODO]
+
+**Psalms 21:10**
+
+[TODO]
+
+**Psalms 21:11**
+
+[TODO]
+
+**Psalms 21:12**
+
+[TODO]
+
+**Psalms 21:13**
+
+[TODO]
+
+**Psalms 21:14**
+
+[TODO]
+
+**Psalms 21:15**
+
+[TODO]
+
+**Psalms 21:16**
+
+[TODO]
+
+**Psalms 21:17**
+
+[TODO]
+
+**Psalms 21:18**
+
+[TODO]
+
+**Psalms 21:19**
+
+[TODO]
+
+**Psalms 21:20**
+
+[TODO]
+
+**Psalms 21:21**
+
+[TODO]
+
+**Psalms 21:22**
+
+[TODO]
+
+**Psalms 21:23**
+
+[TODO]
+
+**Psalms 21:24**
+
+[TODO]
+
+**Psalms 21:25**
+
+[TODO]
+
+**Psalms 21:26**
+
+[TODO]
+
+**Psalms 21:27**
+
+[TODO]
+
+**Psalms 21:28**
+
+[TODO]
+
+**Psalms 21:29**
+
+[TODO]
+
+**Psalms 21:30**
+
+[TODO]
+
+**Psalms 21:31**
+
+[TODO]
+
+**Psalms 21:32**
+
+[TODO]
+
+### Chapter 22
+
+**Psalms 22:1**
+
+[TODO]
+
+**Psalms 22:2**
+
+[TODO]
+
+**Psalms 22:3**
+
+[TODO]
+
+**Psalms 22:4**
+
+[TODO]
+
+**Psalms 22:5**
+
+[TODO]
+
+**Psalms 22:6**
+
+[TODO]
+
+### Chapter 23
+
+**Psalms 23:1**
+
+[TODO]
+
+**Psalms 23:2**
+
+[TODO]
+
+**Psalms 23:3**
+
+[TODO]
+
+**Psalms 23:4**
+
+[TODO]
+
+**Psalms 23:5**
+
+[TODO]
+
+**Psalms 23:6**
+
+[TODO]
+
+**Psalms 23:7**
+
+[TODO]
+
+**Psalms 23:8**
+
+[TODO]
+
+**Psalms 23:9**
+
+[TODO]
+
+**Psalms 23:10**
+
+[TODO]
+
+### Chapter 24
+
+**Psalms 24:1**
+
+[TODO]
+
+**Psalms 24:2**
+
+[TODO]
+
+**Psalms 24:3**
+
+[TODO]
+
+**Psalms 24:4**
+
+[TODO]
+
+**Psalms 24:5**
+
+[TODO]
+
+**Psalms 24:6**
+
+[TODO]
+
+**Psalms 24:7**
+
+[TODO]
+
+**Psalms 24:8**
+
+[TODO]
+
+**Psalms 24:9**
+
+[TODO]
+
+**Psalms 24:10**
+
+[TODO]
+
+**Psalms 24:11**
+
+[TODO]
+
+**Psalms 24:12**
+
+[TODO]
+
+**Psalms 24:13**
+
+[TODO]
+
+**Psalms 24:14**
+
+[TODO]
+
+**Psalms 24:15**
+
+[TODO]
+
+**Psalms 24:16**
+
+[TODO]
+
+**Psalms 24:17**
+
+[TODO]
+
+**Psalms 24:18**
+
+[TODO]
+
+**Psalms 24:19**
+
+[TODO]
+
+**Psalms 24:20**
+
+[TODO]
+
+**Psalms 24:21**
+
+[TODO]
+
+**Psalms 24:22**
+
+[TODO]
+
+### Chapter 25
+
+**Psalms 25:1**
+
+[TODO]
+
+**Psalms 25:2**
+
+[TODO]
+
+**Psalms 25:3**
+
+[TODO]
+
+**Psalms 25:4**
+
+[TODO]
+
+**Psalms 25:5**
+
+[TODO]
+
+**Psalms 25:6**
+
+[TODO]
+
+**Psalms 25:7**
+
+[TODO]
+
+**Psalms 25:8**
+
+[TODO]
+
+**Psalms 25:9**
+
+[TODO]
+
+**Psalms 25:10**
+
+[TODO]
+
+**Psalms 25:11**
+
+[TODO]
+
+**Psalms 25:12**
+
+[TODO]
+
+### Chapter 26
+
+**Psalms 26:1**
+
+[TODO]
+
+**Psalms 26:2**
+
+[TODO]
+
+**Psalms 26:3**
+
+[TODO]
+
+**Psalms 26:4**
+
+[TODO]
+
+**Psalms 26:5**
+
+[TODO]
+
+**Psalms 26:6**
+
+[TODO]
+
+**Psalms 26:7**
+
+[TODO]
+
+**Psalms 26:8**
+
+[TODO]
+
+**Psalms 26:9**
+
+[TODO]
+
+**Psalms 26:10**
+
+[TODO]
+
+**Psalms 26:11**
+
+[TODO]
+
+**Psalms 26:12**
+
+[TODO]
+
+**Psalms 26:13**
+
+[TODO]
+
+**Psalms 26:14**
+
+[TODO]
+
+### Chapter 27
+
+**Psalms 27:1**
+
+[TODO]
+
+**Psalms 27:2**
+
+[TODO]
+
+**Psalms 27:3**
+
+[TODO]
+
+**Psalms 27:4**
+
+[TODO]
+
+**Psalms 27:5**
+
+[TODO]
+
+**Psalms 27:6**
+
+[TODO]
+
+**Psalms 27:7**
+
+[TODO]
+
+**Psalms 27:8**
+
+[TODO]
+
+**Psalms 27:9**
+
+[TODO]
+
+### Chapter 28
+
+**Psalms 28:1**
+
+[TODO]
+
+**Psalms 28:2**
+
+[TODO]
+
+**Psalms 28:3**
+
+[TODO]
+
+**Psalms 28:4**
+
+[TODO]
+
+**Psalms 28:5**
+
+[TODO]
+
+**Psalms 28:6**
+
+[TODO]
+
+**Psalms 28:7**
+
+[TODO]
+
+**Psalms 28:8**
+
+[TODO]
+
+**Psalms 28:9**
+
+[TODO]
+
+**Psalms 28:10**
+
+[TODO]
+
+**Psalms 28:11**
+
+[TODO]
+
+### Chapter 29
+
+**Psalms 29:1**
+
+[TODO]
+
+**Psalms 29:2**
+
+[TODO]
+
+**Psalms 29:3**
+
+[TODO]
+
+**Psalms 29:4**
+
+[TODO]
+
+**Psalms 29:5**
+
+[TODO]
+
+**Psalms 29:6**
+
+[TODO]
+
+**Psalms 29:7**
+
+[TODO]
+
+**Psalms 29:8**
+
+[TODO]
+
+**Psalms 29:9**
+
+[TODO]
+
+**Psalms 29:10**
+
+[TODO]
+
+**Psalms 29:11**
+
+[TODO]
+
+**Psalms 29:12**
+
+[TODO]
+
+**Psalms 29:13**
+
+[TODO]
+
+### Chapter 30
+
+**Psalms 30:1**
+
+[TODO]
+
+**Psalms 30:2**
+
+[TODO]
+
+**Psalms 30:3**
+
+[TODO]
+
+**Psalms 30:4**
+
+[TODO]
+
+**Psalms 30:5**
+
+[TODO]
+
+**Psalms 30:6**
+
+[TODO]
+
+**Psalms 30:7**
+
+[TODO]
+
+**Psalms 30:8**
+
+[TODO]
+
+**Psalms 30:9**
+
+[TODO]
+
+**Psalms 30:10**
+
+[TODO]
+
+**Psalms 30:11**
+
+[TODO]
+
+**Psalms 30:12**
+
+[TODO]
+
+**Psalms 30:13**
+
+[TODO]
+
+**Psalms 30:14**
+
+[TODO]
+
+**Psalms 30:15**
+
+[TODO]
+
+**Psalms 30:16**
+
+[TODO]
+
+**Psalms 30:17**
+
+[TODO]
+
+**Psalms 30:18**
+
+[TODO]
+
+**Psalms 30:19**
+
+[TODO]
+
+**Psalms 30:20**
+
+[TODO]
+
+**Psalms 30:21**
+
+[TODO]
+
+**Psalms 30:22**
+
+[TODO]
+
+**Psalms 30:23**
+
+[TODO]
+
+**Psalms 30:24**
+
+[TODO]
+
+**Psalms 30:25**
+
+[TODO]
+
+### Chapter 31
+
+**Psalms 31:1**
+
+[TODO]
+
+**Psalms 31:2**
+
+[TODO]
+
+**Psalms 31:3**
+
+[TODO]
+
+**Psalms 31:4**
+
+[TODO]
+
+**Psalms 31:5**
+
+[TODO]
+
+**Psalms 31:6**
+
+[TODO]
+
+**Psalms 31:7**
+
+[TODO]
+
+**Psalms 31:8**
+
+[TODO]
+
+**Psalms 31:9**
+
+[TODO]
+
+**Psalms 31:10**
+
+[TODO]
+
+**Psalms 31:11**
+
+[TODO]
+
+### Chapter 32
+
+**Psalms 32:1**
+
+[TODO]
+
+**Psalms 32:2**
+
+[TODO]
+
+**Psalms 32:3**
+
+[TODO]
+
+**Psalms 32:4**
+
+[TODO]
+
+**Psalms 32:5**
+
+[TODO]
+
+**Psalms 32:6**
+
+[TODO]
+
+**Psalms 32:7**
+
+[TODO]
+
+**Psalms 32:8**
+
+[TODO]
+
+**Psalms 32:9**
+
+[TODO]
+
+**Psalms 32:10**
+
+[TODO]
+
+**Psalms 32:11**
+
+[TODO]
+
+**Psalms 32:12**
+
+[TODO]
+
+**Psalms 32:13**
+
+[TODO]
+
+**Psalms 32:14**
+
+[TODO]
+
+**Psalms 32:15**
+
+[TODO]
+
+**Psalms 32:16**
+
+[TODO]
+
+**Psalms 32:17**
+
+[TODO]
+
+**Psalms 32:18**
+
+[TODO]
+
+**Psalms 32:19**
+
+[TODO]
+
+**Psalms 32:20**
+
+[TODO]
+
+**Psalms 32:21**
+
+[TODO]
+
+**Psalms 32:22**
+
+[TODO]
+
+### Chapter 33
+
+**Psalms 33:1**
+
+[TODO]
+
+**Psalms 33:2**
+
+[TODO]
+
+**Psalms 33:3**
+
+[TODO]
+
+**Psalms 33:4**
+
+[TODO]
+
+**Psalms 33:5**
+
+[TODO]
+
+**Psalms 33:6**
+
+[TODO]
+
+**Psalms 33:7**
+
+[TODO]
+
+**Psalms 33:8**
+
+[TODO]
+
+**Psalms 33:9**
+
+[TODO]
+
+**Psalms 33:10**
+
+[TODO]
+
+**Psalms 33:11**
+
+[TODO]
+
+**Psalms 33:12**
+
+[TODO]
+
+**Psalms 33:13**
+
+[TODO]
+
+**Psalms 33:14**
+
+[TODO]
+
+**Psalms 33:15**
+
+[TODO]
+
+**Psalms 33:16**
+
+[TODO]
+
+**Psalms 33:17**
+
+[TODO]
+
+**Psalms 33:18**
+
+[TODO]
+
+**Psalms 33:19**
+
+[TODO]
+
+**Psalms 33:20**
+
+[TODO]
+
+**Psalms 33:21**
+
+[TODO]
+
+**Psalms 33:22**
+
+[TODO]
+
+**Psalms 33:23**
+
+[TODO]
+
+### Chapter 34
+
+**Psalms 34:1**
+
+[TODO]
+
+**Psalms 34:2**
+
+[TODO]
+
+**Psalms 34:3**
+
+[TODO]
+
+**Psalms 34:4**
+
+[TODO]
+
+**Psalms 34:5**
+
+[TODO]
+
+**Psalms 34:6**
+
+[TODO]
+
+**Psalms 34:7**
+
+[TODO]
+
+**Psalms 34:8**
+
+[TODO]
+
+**Psalms 34:9**
+
+[TODO]
+
+**Psalms 34:10**
+
+[TODO]
+
+**Psalms 34:11**
+
+[TODO]
+
+**Psalms 34:12**
+
+[TODO]
+
+**Psalms 34:13**
+
+[TODO]
+
+**Psalms 34:14**
+
+[TODO]
+
+**Psalms 34:15**
+
+[TODO]
+
+**Psalms 34:16**
+
+[TODO]
+
+**Psalms 34:17**
+
+[TODO]
+
+**Psalms 34:18**
+
+[TODO]
+
+**Psalms 34:19**
+
+[TODO]
+
+**Psalms 34:20**
+
+[TODO]
+
+**Psalms 34:21**
+
+[TODO]
+
+**Psalms 34:22**
+
+[TODO]
+
+**Psalms 34:23**
+
+[TODO]
+
+**Psalms 34:24**
+
+[TODO]
+
+**Psalms 34:25**
+
+[TODO]
+
+**Psalms 34:26**
+
+[TODO]
+
+**Psalms 34:27**
+
+[TODO]
+
+**Psalms 34:28**
+
+[TODO]
+
+### Chapter 35
+
+**Psalms 35:1**
+
+[TODO]
+
+**Psalms 35:2**
+
+[TODO]
+
+**Psalms 35:3**
+
+[TODO]
+
+**Psalms 35:4**
+
+[TODO]
+
+**Psalms 35:5**
+
+[TODO]
+
+**Psalms 35:6**
+
+[TODO]
+
+**Psalms 35:7**
+
+[TODO]
+
+**Psalms 35:8**
+
+[TODO]
+
+**Psalms 35:9**
+
+[TODO]
+
+**Psalms 35:10**
+
+[TODO]
+
+**Psalms 35:11**
+
+[TODO]
+
+**Psalms 35:12**
+
+[TODO]
+
+**Psalms 35:13**
+
+[TODO]
+
+### Chapter 36
+
+**Psalms 36:1**
+
+[TODO]
+
+**Psalms 36:2**
+
+[TODO]
+
+**Psalms 36:3**
+
+[TODO]
+
+**Psalms 36:4**
+
+[TODO]
+
+**Psalms 36:5**
+
+[TODO]
+
+**Psalms 36:6**
+
+[TODO]
+
+**Psalms 36:7**
+
+[TODO]
+
+**Psalms 36:8**
+
+[TODO]
+
+**Psalms 36:9**
+
+[TODO]
+
+**Psalms 36:10**
+
+[TODO]
+
+**Psalms 36:11**
+
+[TODO]
+
+**Psalms 36:12**
+
+[TODO]
+
+**Psalms 36:13**
+
+[TODO]
+
+**Psalms 36:14**
+
+[TODO]
+
+**Psalms 36:15**
+
+[TODO]
+
+**Psalms 36:16**
+
+[TODO]
+
+**Psalms 36:17**
+
+[TODO]
+
+**Psalms 36:18**
+
+[TODO]
+
+**Psalms 36:19**
+
+[TODO]
+
+**Psalms 36:20**
+
+[TODO]
+
+**Psalms 36:21**
+
+[TODO]
+
+**Psalms 36:22**
+
+[TODO]
+
+**Psalms 36:23**
+
+[TODO]
+
+**Psalms 36:24**
+
+[TODO]
+
+**Psalms 36:25**
+
+[TODO]
+
+**Psalms 36:26**
+
+[TODO]
+
+**Psalms 36:27**
+
+[TODO]
+
+**Psalms 36:28**
+
+[TODO]
+
+**Psalms 36:29**
+
+[TODO]
+
+**Psalms 36:30**
+
+[TODO]
+
+**Psalms 36:31**
+
+[TODO]
+
+**Psalms 36:32**
+
+[TODO]
+
+**Psalms 36:33**
+
+[TODO]
+
+**Psalms 36:34**
+
+[TODO]
+
+**Psalms 36:35**
+
+[TODO]
+
+**Psalms 36:36**
+
+[TODO]
+
+**Psalms 36:37**
+
+[TODO]
+
+**Psalms 36:38**
+
+[TODO]
+
+**Psalms 36:39**
+
+[TODO]
+
+**Psalms 36:40**
+
+[TODO]
+
+### Chapter 37
+
+**Psalms 37:1**
+
+[TODO]
+
+**Psalms 37:2**
+
+[TODO]
+
+**Psalms 37:3**
+
+[TODO]
+
+**Psalms 37:4**
+
+[TODO]
+
+**Psalms 37:5**
+
+[TODO]
+
+**Psalms 37:6**
+
+[TODO]
+
+**Psalms 37:7**
+
+[TODO]
+
+**Psalms 37:8**
+
+[TODO]
+
+**Psalms 37:9**
+
+[TODO]
+
+**Psalms 37:10**
+
+[TODO]
+
+**Psalms 37:11**
+
+[TODO]
+
+**Psalms 37:12**
+
+[TODO]
+
+**Psalms 37:13**
+
+[TODO]
+
+**Psalms 37:14**
+
+[TODO]
+
+**Psalms 37:15**
+
+[TODO]
+
+**Psalms 37:16**
+
+[TODO]
+
+**Psalms 37:17**
+
+[TODO]
+
+**Psalms 37:18**
+
+[TODO]
+
+**Psalms 37:19**
+
+[TODO]
+
+**Psalms 37:20**
+
+[TODO]
+
+**Psalms 37:21**
+
+[TODO]
+
+**Psalms 37:22**
+
+[TODO]
+
+**Psalms 37:23**
+
+[TODO]
+
+### Chapter 38
+
+**Psalms 38:1**
+
+[TODO]
+
+**Psalms 38:2**
+
+[TODO]
+
+**Psalms 38:3**
+
+[TODO]
+
+**Psalms 38:4**
+
+[TODO]
+
+**Psalms 38:5**
+
+[TODO]
+
+**Psalms 38:6**
+
+[TODO]
+
+**Psalms 38:7**
+
+[TODO]
+
+**Psalms 38:8**
+
+[TODO]
+
+**Psalms 38:9**
+
+[TODO]
+
+**Psalms 38:10**
+
+[TODO]
+
+**Psalms 38:11**
+
+[TODO]
+
+**Psalms 38:12**
+
+[TODO]
+
+**Psalms 38:13**
+
+[TODO]
+
+**Psalms 38:14**
+
+[TODO]
+
+### Chapter 39
+
+**Psalms 39:1**
+
+[TODO]
+
+**Psalms 39:2**
+
+[TODO]
+
+**Psalms 39:3**
+
+[TODO]
+
+**Psalms 39:4**
+
+[TODO]
+
+**Psalms 39:5**
+
+[TODO]
+
+**Psalms 39:6**
+
+[TODO]
+
+**Psalms 39:7**
+
+[TODO]
+
+**Psalms 39:8**
+
+[TODO]
+
+**Psalms 39:9**
+
+[TODO]
+
+**Psalms 39:10**
+
+[TODO]
+
+**Psalms 39:11**
+
+[TODO]
+
+**Psalms 39:12**
+
+[TODO]
+
+**Psalms 39:13**
+
+[TODO]
+
+**Psalms 39:14**
+
+[TODO]
+
+**Psalms 39:15**
+
+[TODO]
+
+**Psalms 39:16**
+
+[TODO]
+
+**Psalms 39:17**
+
+[TODO]
+
+**Psalms 39:18**
+
+[TODO]
+
+### Chapter 40
+
+**Psalms 40:1**
+
+[TODO]
+
+**Psalms 40:2**
+
+[TODO]
+
+**Psalms 40:3**
+
+[TODO]
+
+**Psalms 40:4**
+
+[TODO]
+
+**Psalms 40:5**
+
+[TODO]
+
+**Psalms 40:6**
+
+[TODO]
+
+**Psalms 40:7**
+
+[TODO]
+
+**Psalms 40:8**
+
+[TODO]
+
+**Psalms 40:9**
+
+[TODO]
+
+**Psalms 40:10**
+
+[TODO]
+
+**Psalms 40:11**
+
+[TODO]
+
+**Psalms 40:12**
+
+[TODO]
+
+**Psalms 40:13**
+
+[TODO]
+
+**Psalms 40:14**
+
+[TODO]
+
+### Chapter 41
+
+**Psalms 41:1**
+
+[TODO]
+
+**Psalms 41:2**
+
+[TODO]
+
+**Psalms 41:3**
+
+[TODO]
+
+**Psalms 41:4**
+
+[TODO]
+
+**Psalms 41:5**
+
+[TODO]
+
+**Psalms 41:6**
+
+[TODO]
+
+**Psalms 41:7**
+
+[TODO]
+
+**Psalms 41:8**
+
+[TODO]
+
+**Psalms 41:9**
+
+[TODO]
+
+**Psalms 41:10**
+
+[TODO]
+
+**Psalms 41:11**
+
+[TODO]
+
+**Psalms 41:12**
+
+[TODO]
+
+### Chapter 42
+
+**Psalms 42:1**
+
+[TODO]
+
+**Psalms 42:2**
+
+[TODO]
+
+**Psalms 42:3**
+
+[TODO]
+
+**Psalms 42:4**
+
+[TODO]
+
+**Psalms 42:5**
+
+[TODO]
+
+### Chapter 43
+
+**Psalms 43:1**
+
+[TODO]
+
+**Psalms 43:2**
+
+[TODO]
+
+**Psalms 43:3**
+
+[TODO]
+
+**Psalms 43:4**
+
+[TODO]
+
+**Psalms 43:5**
+
+[TODO]
+
+**Psalms 43:6**
+
+[TODO]
+
+**Psalms 43:7**
+
+[TODO]
+
+**Psalms 43:8**
+
+[TODO]
+
+**Psalms 43:9**
+
+[TODO]
+
+**Psalms 43:10**
+
+[TODO]
+
+**Psalms 43:11**
+
+[TODO]
+
+**Psalms 43:12**
+
+[TODO]
+
+**Psalms 43:13**
+
+[TODO]
+
+**Psalms 43:14**
+
+[TODO]
+
+**Psalms 43:15**
+
+[TODO]
+
+**Psalms 43:16**
+
+[TODO]
+
+**Psalms 43:17**
+
+[TODO]
+
+**Psalms 43:18**
+
+[TODO]
+
+**Psalms 43:19**
+
+[TODO]
+
+**Psalms 43:20**
+
+[TODO]
+
+**Psalms 43:21**
+
+[TODO]
+
+**Psalms 43:22**
+
+[TODO]
+
+**Psalms 43:23**
+
+[TODO]
+
+**Psalms 43:24**
+
+[TODO]
+
+**Psalms 43:25**
+
+[TODO]
+
+**Psalms 43:26**
+
+[TODO]
+
+**Psalms 43:27**
+
+[TODO]
+
+### Chapter 44
+
+**Psalms 44:1**
+
+[TODO]
+
+**Psalms 44:2**
+
+[TODO]
+
+**Psalms 44:3**
+
+[TODO]
+
+**Psalms 44:4**
+
+[TODO]
+
+**Psalms 44:5**
+
+[TODO]
+
+**Psalms 44:6**
+
+[TODO]
+
+**Psalms 44:7**
+
+[TODO]
+
+**Psalms 44:8**
+
+[TODO]
+
+**Psalms 44:9**
+
+[TODO]
+
+**Psalms 44:10**
+
+[TODO]
+
+**Psalms 44:11**
+
+[TODO]
+
+**Psalms 44:12**
+
+[TODO]
+
+**Psalms 44:13**
+
+[TODO]
+
+**Psalms 44:14**
+
+[TODO]
+
+**Psalms 44:15**
+
+[TODO]
+
+**Psalms 44:16**
+
+[TODO]
+
+**Psalms 44:17**
+
+[TODO]
+
+**Psalms 44:18**
+
+[TODO]
+
+### Chapter 45
+
+**Psalms 45:1**
+
+[TODO]
+
+**Psalms 45:2**
+
+[TODO]
+
+**Psalms 45:3**
+
+[TODO]
+
+**Psalms 45:4**
+
+[TODO]
+
+**Psalms 45:5**
+
+[TODO]
+
+**Psalms 45:6**
+
+[TODO]
+
+**Psalms 45:7**
+
+[TODO]
+
+**Psalms 45:8**
+
+[TODO]
+
+**Psalms 45:9**
+
+[TODO]
+
+**Psalms 45:10**
+
+[TODO]
+
+**Psalms 45:11**
+
+[TODO]
+
+**Psalms 45:12**
+
+[TODO]
+
+### Chapter 46
+
+**Psalms 46:1**
+
+[TODO]
+
+**Psalms 46:2**
+
+[TODO]
+
+**Psalms 46:3**
+
+[TODO]
+
+**Psalms 46:4**
+
+[TODO]
+
+**Psalms 46:5**
+
+[TODO]
+
+**Psalms 46:6**
+
+[TODO]
+
+**Psalms 46:7**
+
+[TODO]
+
+**Psalms 46:8**
+
+[TODO]
+
+**Psalms 46:9**
+
+[TODO]
+
+**Psalms 46:10**
+
+[TODO]
+
+### Chapter 47
+
+**Psalms 47:1**
+
+[TODO]
+
+**Psalms 47:2**
+
+[TODO]
+
+**Psalms 47:3**
+
+[TODO]
+
+**Psalms 47:4**
+
+[TODO]
+
+**Psalms 47:5**
+
+[TODO]
+
+**Psalms 47:6**
+
+[TODO]
+
+**Psalms 47:7**
+
+[TODO]
+
+**Psalms 47:8**
+
+[TODO]
+
+**Psalms 47:9**
+
+[TODO]
+
+**Psalms 47:10**
+
+[TODO]
+
+**Psalms 47:11**
+
+[TODO]
+
+**Psalms 47:12**
+
+[TODO]
+
+**Psalms 47:13**
+
+[TODO]
+
+**Psalms 47:14**
+
+[TODO]
+
+**Psalms 47:15**
+
+[TODO]
+
+### Chapter 48
+
+**Psalms 48:1**
+
+[TODO]
+
+**Psalms 48:2**
+
+[TODO]
+
+**Psalms 48:3**
+
+[TODO]
+
+**Psalms 48:4**
+
+[TODO]
+
+**Psalms 48:5**
+
+[TODO]
+
+**Psalms 48:6**
+
+[TODO]
+
+**Psalms 48:7**
+
+[TODO]
+
+**Psalms 48:8**
+
+[TODO]
+
+**Psalms 48:9**
+
+[TODO]
+
+**Psalms 48:10**
+
+[TODO]
+
+**Psalms 48:11**
+
+[TODO]
+
+**Psalms 48:12**
+
+[TODO]
+
+**Psalms 48:13**
+
+[TODO]
+
+**Psalms 48:14**
+
+[TODO]
+
+**Psalms 48:15**
+
+[TODO]
+
+**Psalms 48:16**
+
+[TODO]
+
+**Psalms 48:17**
+
+[TODO]
+
+**Psalms 48:18**
+
+[TODO]
+
+**Psalms 48:19**
+
+[TODO]
+
+**Psalms 48:20**
+
+[TODO]
+
+**Psalms 48:21**
+
+[TODO]
+
+### Chapter 49
+
+**Psalms 49:1**
+
+[TODO]
+
+**Psalms 49:2**
+
+[TODO]
+
+**Psalms 49:3**
+
+[TODO]
+
+**Psalms 49:4**
+
+[TODO]
+
+**Psalms 49:5**
+
+[TODO]
+
+**Psalms 49:6**
+
+[TODO]
+
+**Psalms 49:7**
+
+[TODO]
+
+**Psalms 49:8**
+
+[TODO]
+
+**Psalms 49:9**
+
+[TODO]
+
+**Psalms 49:10**
+
+[TODO]
+
+**Psalms 49:11**
+
+[TODO]
+
+**Psalms 49:12**
+
+[TODO]
+
+**Psalms 49:13**
+
+[TODO]
+
+**Psalms 49:14**
+
+[TODO]
+
+**Psalms 49:15**
+
+[TODO]
+
+**Psalms 49:16**
+
+[TODO]
+
+**Psalms 49:17**
+
+[TODO]
+
+**Psalms 49:18**
+
+[TODO]
+
+**Psalms 49:19**
+
+[TODO]
+
+**Psalms 49:20**
+
+[TODO]
+
+**Psalms 49:21**
+
+[TODO]
+
+**Psalms 49:22**
+
+[TODO]
+
+**Psalms 49:23**
+
+[TODO]
+
+### Chapter 50
+
+**Psalms 50:1**
+
+[TODO]
+
+**Psalms 50:2**
+
+[TODO]
+
+**Psalms 50:3**
+
+[TODO]
+
+**Psalms 50:4**
+
+[TODO]
+
+**Psalms 50:5**
+
+[TODO]
+
+**Psalms 50:6**
+
+[TODO]
+
+**Psalms 50:7**
+
+[TODO]
+
+**Psalms 50:8**
+
+[TODO]
+
+**Psalms 50:9**
+
+[TODO]
+
+**Psalms 50:10**
+
+[TODO]
+
+**Psalms 50:11**
+
+[TODO]
+
+**Psalms 50:12**
+
+[TODO]
+
+**Psalms 50:13**
+
+[TODO]
+
+**Psalms 50:14**
+
+[TODO]
+
+**Psalms 50:15**
+
+[TODO]
+
+**Psalms 50:16**
+
+[TODO]
+
+**Psalms 50:17**
+
+[TODO]
+
+**Psalms 50:18**
+
+[TODO]
+
+**Psalms 50:19**
+
+[TODO]
+
+**Psalms 50:20**
+
+[TODO]
+
+**Psalms 50:21**
+
+[TODO]
+
+### Chapter 51
+
+**Psalms 51:1**
+
+[TODO]
+
+**Psalms 51:2**
+
+[TODO]
+
+**Psalms 51:3**
+
+[TODO]
+
+**Psalms 51:4**
+
+[TODO]
+
+**Psalms 51:5**
+
+[TODO]
+
+**Psalms 51:6**
+
+[TODO]
+
+**Psalms 51:7**
+
+[TODO]
+
+**Psalms 51:8**
+
+[TODO]
+
+**Psalms 51:9**
+
+[TODO]
+
+**Psalms 51:10**
+
+[TODO]
+
+**Psalms 51:11**
+
+[TODO]
+
+### Chapter 52
+
+**Psalms 52:1**
+
+[TODO]
+
+**Psalms 52:2**
+
+[TODO]
+
+**Psalms 52:3**
+
+[TODO]
+
+**Psalms 52:4**
+
+[TODO]
+
+**Psalms 52:5**
+
+[TODO]
+
+**Psalms 52:6**
+
+[TODO]
+
+**Psalms 52:7**
+
+[TODO]
+
+### Chapter 53
+
+**Psalms 53:1**
+
+[TODO]
+
+**Psalms 53:2**
+
+[TODO]
+
+**Psalms 53:3**
+
+[TODO]
+
+**Psalms 53:4**
+
+[TODO]
+
+**Psalms 53:5**
+
+[TODO]
+
+**Psalms 53:6**
+
+[TODO]
+
+**Psalms 53:7**
+
+[TODO]
+
+**Psalms 53:8**
+
+[TODO]
+
+**Psalms 53:9**
+
+[TODO]
+
+### Chapter 54
+
+**Psalms 54:1**
+
+[TODO]
+
+**Psalms 54:2**
+
+[TODO]
+
+**Psalms 54:3**
+
+[TODO]
+
+**Psalms 54:4**
+
+[TODO]
+
+**Psalms 54:5**
+
+[TODO]
+
+**Psalms 54:6**
+
+[TODO]
+
+**Psalms 54:7**
+
+[TODO]
+
+**Psalms 54:8**
+
+[TODO]
+
+**Psalms 54:9**
+
+[TODO]
+
+**Psalms 54:10**
+
+[TODO]
+
+**Psalms 54:11**
+
+[TODO]
+
+**Psalms 54:12**
+
+[TODO]
+
+**Psalms 54:13**
+
+[TODO]
+
+**Psalms 54:14**
+
+[TODO]
+
+**Psalms 54:15**
+
+[TODO]
+
+**Psalms 54:16**
+
+[TODO]
+
+**Psalms 54:17**
+
+[TODO]
+
+**Psalms 54:18**
+
+[TODO]
+
+**Psalms 54:19**
+
+[TODO]
+
+**Psalms 54:20**
+
+[TODO]
+
+**Psalms 54:21**
+
+[TODO]
+
+**Psalms 54:22**
+
+[TODO]
+
+**Psalms 54:23**
+
+[TODO]
+
+**Psalms 54:24**
+
+[TODO]
+
+### Chapter 55
+
+**Psalms 55:1**
+
+[TODO]
+
+**Psalms 55:2**
+
+[TODO]
+
+**Psalms 55:3**
+
+[TODO]
+
+**Psalms 55:4**
+
+[TODO]
+
+**Psalms 55:5**
+
+[TODO]
+
+**Psalms 55:6**
+
+[TODO]
+
+**Psalms 55:7**
+
+[TODO]
+
+**Psalms 55:8**
+
+[TODO]
+
+**Psalms 55:9**
+
+[TODO]
+
+**Psalms 55:10**
+
+[TODO]
+
+**Psalms 55:11**
+
+[TODO]
+
+**Psalms 55:12**
+
+[TODO]
+
+**Psalms 55:13**
+
+[TODO]
+
+**Psalms 55:14**
+
+[TODO]
+
+### Chapter 56
+
+**Psalms 56:1**
+
+[TODO]
+
+**Psalms 56:2**
+
+[TODO]
+
+**Psalms 56:3**
+
+[TODO]
+
+**Psalms 56:4**
+
+[TODO]
+
+**Psalms 56:5**
+
+[TODO]
+
+**Psalms 56:6**
+
+[TODO]
+
+**Psalms 56:7**
+
+[TODO]
+
+**Psalms 56:8**
+
+[TODO]
+
+**Psalms 56:9**
+
+[TODO]
+
+**Psalms 56:10**
+
+[TODO]
+
+**Psalms 56:11**
+
+[TODO]
+
+**Psalms 56:12**
+
+[TODO]
+
+### Chapter 57
+
+**Psalms 57:1**
+
+[TODO]
+
+**Psalms 57:2**
+
+[TODO]
+
+**Psalms 57:3**
+
+[TODO]
+
+**Psalms 57:4**
+
+[TODO]
+
+**Psalms 57:5**
+
+[TODO]
+
+**Psalms 57:6**
+
+[TODO]
+
+**Psalms 57:7**
+
+[TODO]
+
+**Psalms 57:8**
+
+[TODO]
+
+**Psalms 57:9**
+
+[TODO]
+
+**Psalms 57:10**
+
+[TODO]
+
+**Psalms 57:11**
+
+[TODO]
+
+**Psalms 57:12**
+
+[TODO]
+
+### Chapter 58
+
+**Psalms 58:1**
+
+[TODO]
+
+**Psalms 58:2**
+
+[TODO]
+
+**Psalms 58:3**
+
+[TODO]
+
+**Psalms 58:4**
+
+[TODO]
+
+**Psalms 58:5**
+
+[TODO]
+
+**Psalms 58:6**
+
+[TODO]
+
+**Psalms 58:7**
+
+[TODO]
+
+**Psalms 58:8**
+
+[TODO]
+
+**Psalms 58:9**
+
+[TODO]
+
+**Psalms 58:10**
+
+[TODO]
+
+**Psalms 58:11**
+
+[TODO]
+
+**Psalms 58:12**
+
+[TODO]
+
+**Psalms 58:13**
+
+[TODO]
+
+**Psalms 58:14**
+
+[TODO]
+
+**Psalms 58:15**
+
+[TODO]
+
+**Psalms 58:16**
+
+[TODO]
+
+**Psalms 58:17**
+
+[TODO]
+
+**Psalms 58:18**
+
+[TODO]
+
+### Chapter 59
+
+**Psalms 59:1**
+
+[TODO]
+
+**Psalms 59:2**
+
+[TODO]
+
+**Psalms 59:3**
+
+[TODO]
+
+**Psalms 59:4**
+
+[TODO]
+
+**Psalms 59:5**
+
+[TODO]
+
+**Psalms 59:6**
+
+[TODO]
+
+**Psalms 59:7**
+
+[TODO]
+
+**Psalms 59:8**
+
+[TODO]
+
+**Psalms 59:9**
+
+[TODO]
+
+**Psalms 59:10**
+
+[TODO]
+
+**Psalms 59:11**
+
+[TODO]
+
+**Psalms 59:12**
+
+[TODO]
+
+**Psalms 59:13**
+
+[TODO]
+
+**Psalms 59:14**
+
+[TODO]
+
+### Chapter 60
+
+**Psalms 60:1**
+
+[TODO]
+
+**Psalms 60:2**
+
+[TODO]
+
+**Psalms 60:3**
+
+[TODO]
+
+**Psalms 60:4**
+
+[TODO]
+
+**Psalms 60:5**
+
+[TODO]
+
+**Psalms 60:6**
+
+[TODO]
+
+**Psalms 60:7**
+
+[TODO]
+
+**Psalms 60:8**
+
+[TODO]
+
+**Psalms 60:9**
+
+[TODO]
+
+### Chapter 61
+
+**Psalms 61:1**
+
+[TODO]
+
+**Psalms 61:2**
+
+[TODO]
+
+**Psalms 61:3**
+
+[TODO]
+
+**Psalms 61:4**
+
+[TODO]
+
+**Psalms 61:5**
+
+[TODO]
+
+**Psalms 61:6**
+
+[TODO]
+
+**Psalms 61:7**
+
+[TODO]
+
+**Psalms 61:8**
+
+[TODO]
+
+**Psalms 61:9**
+
+[TODO]
+
+**Psalms 61:10**
+
+[TODO]
+
+**Psalms 61:11**
+
+[TODO]
+
+**Psalms 61:12**
+
+[TODO]
+
+**Psalms 61:13**
+
+[TODO]
+
+### Chapter 62
+
+**Psalms 62:1**
+
+[TODO]
+
+**Psalms 62:2**
+
+[TODO]
+
+**Psalms 62:3**
+
+[TODO]
+
+**Psalms 62:4**
+
+[TODO]
+
+**Psalms 62:5**
+
+[TODO]
+
+**Psalms 62:6**
+
+[TODO]
+
+**Psalms 62:7**
+
+[TODO]
+
+**Psalms 62:8**
+
+[TODO]
+
+**Psalms 62:9**
+
+[TODO]
+
+**Psalms 62:10**
+
+[TODO]
+
+**Psalms 62:11**
+
+[TODO]
+
+**Psalms 62:12**
+
+[TODO]
+
+### Chapter 63
+
+**Psalms 63:1**
+
+[TODO]
+
+**Psalms 63:2**
+
+[TODO]
+
+**Psalms 63:3**
+
+[TODO]
+
+**Psalms 63:4**
+
+[TODO]
+
+**Psalms 63:5**
+
+[TODO]
+
+**Psalms 63:6**
+
+[TODO]
+
+**Psalms 63:7**
+
+[TODO]
+
+**Psalms 63:8**
+
+[TODO]
+
+**Psalms 63:9**
+
+[TODO]
+
+**Psalms 63:10**
+
+[TODO]
+
+**Psalms 63:11**
+
+[TODO]
+
+### Chapter 64
+
+**Psalms 64:1**
+
+[TODO]
+
+**Psalms 64:2**
+
+[TODO]
+
+**Psalms 64:3**
+
+[TODO]
+
+**Psalms 64:4**
+
+[TODO]
+
+**Psalms 64:5**
+
+[TODO]
+
+**Psalms 64:6**
+
+[TODO]
+
+**Psalms 64:7**
+
+[TODO]
+
+**Psalms 64:8**
+
+[TODO]
+
+**Psalms 64:9**
+
+[TODO]
+
+**Psalms 64:10**
+
+[TODO]
+
+**Psalms 64:11**
+
+[TODO]
+
+**Psalms 64:12**
+
+[TODO]
+
+**Psalms 64:13**
+
+[TODO]
+
+**Psalms 64:14**
+
+[TODO]
+
+### Chapter 65
+
+**Psalms 65:1**
+
+[TODO]
+
+**Psalms 65:2**
+
+[TODO]
+
+**Psalms 65:3**
+
+[TODO]
+
+**Psalms 65:4**
+
+[TODO]
+
+**Psalms 65:5**
+
+[TODO]
+
+**Psalms 65:6**
+
+[TODO]
+
+**Psalms 65:7**
+
+[TODO]
+
+**Psalms 65:8**
+
+[TODO]
+
+**Psalms 65:9**
+
+[TODO]
+
+**Psalms 65:10**
+
+[TODO]
+
+**Psalms 65:11**
+
+[TODO]
+
+**Psalms 65:12**
+
+[TODO]
+
+**Psalms 65:13**
+
+[TODO]
+
+**Psalms 65:14**
+
+[TODO]
+
+**Psalms 65:15**
+
+[TODO]
+
+**Psalms 65:16**
+
+[TODO]
+
+**Psalms 65:17**
+
+[TODO]
+
+**Psalms 65:18**
+
+[TODO]
+
+**Psalms 65:19**
+
+[TODO]
+
+**Psalms 65:20**
+
+[TODO]
+
+### Chapter 66
+
+**Psalms 66:1**
+
+[TODO]
+
+**Psalms 66:2**
+
+[TODO]
+
+**Psalms 66:3**
+
+[TODO]
+
+**Psalms 66:4**
+
+[TODO]
+
+**Psalms 66:5**
+
+[TODO]
+
+**Psalms 66:6**
+
+[TODO]
+
+**Psalms 66:7**
+
+[TODO]
+
+**Psalms 66:8**
+
+[TODO]
+
+### Chapter 67
+
+**Psalms 67:1**
+
+[TODO]
+
+**Psalms 67:2**
+
+[TODO]
+
+**Psalms 67:3**
+
+[TODO]
+
+**Psalms 67:4**
+
+[TODO]
+
+**Psalms 67:5**
+
+[TODO]
+
+**Psalms 67:6**
+
+[TODO]
+
+**Psalms 67:7**
+
+[TODO]
+
+**Psalms 67:8**
+
+[TODO]
+
+**Psalms 67:9**
+
+[TODO]
+
+**Psalms 67:10**
+
+[TODO]
+
+**Psalms 67:11**
+
+[TODO]
+
+**Psalms 67:12**
+
+[TODO]
+
+**Psalms 67:13**
+
+[TODO]
+
+**Psalms 67:14**
+
+[TODO]
+
+**Psalms 67:15**
+
+[TODO]
+
+**Psalms 67:16**
+
+[TODO]
+
+**Psalms 67:17**
+
+[TODO]
+
+**Psalms 67:18**
+
+[TODO]
+
+**Psalms 67:19**
+
+[TODO]
+
+**Psalms 67:20**
+
+[TODO]
+
+**Psalms 67:21**
+
+[TODO]
+
+**Psalms 67:22**
+
+[TODO]
+
+**Psalms 67:23**
+
+[TODO]
+
+**Psalms 67:24**
+
+[TODO]
+
+**Psalms 67:25**
+
+[TODO]
+
+**Psalms 67:26**
+
+[TODO]
+
+**Psalms 67:27**
+
+[TODO]
+
+**Psalms 67:28**
+
+[TODO]
+
+**Psalms 67:29**
+
+[TODO]
+
+**Psalms 67:30**
+
+[TODO]
+
+**Psalms 67:31**
+
+[TODO]
+
+**Psalms 67:32**
+
+[TODO]
+
+**Psalms 67:33**
+
+[TODO]
+
+**Psalms 67:34**
+
+[TODO]
+
+**Psalms 67:35**
+
+[TODO]
+
+**Psalms 67:36**
+
+[TODO]
+
+### Chapter 68
+
+**Psalms 68:1**
+
+[TODO]
+
+**Psalms 68:2**
+
+[TODO]
+
+**Psalms 68:3**
+
+[TODO]
+
+**Psalms 68:4**
+
+[TODO]
+
+**Psalms 68:5**
+
+[TODO]
+
+**Psalms 68:6**
+
+[TODO]
+
+**Psalms 68:7**
+
+[TODO]
+
+**Psalms 68:8**
+
+[TODO]
+
+**Psalms 68:9**
+
+[TODO]
+
+**Psalms 68:10**
+
+[TODO]
+
+**Psalms 68:11**
+
+[TODO]
+
+**Psalms 68:12**
+
+[TODO]
+
+**Psalms 68:13**
+
+[TODO]
+
+**Psalms 68:14**
+
+[TODO]
+
+**Psalms 68:15**
+
+[TODO]
+
+**Psalms 68:16**
+
+[TODO]
+
+**Psalms 68:17**
+
+[TODO]
+
+**Psalms 68:18**
+
+[TODO]
+
+**Psalms 68:19**
+
+[TODO]
+
+**Psalms 68:20**
+
+[TODO]
+
+**Psalms 68:21**
+
+[TODO]
+
+**Psalms 68:22**
+
+[TODO]
+
+**Psalms 68:23**
+
+[TODO]
+
+**Psalms 68:24**
+
+[TODO]
+
+**Psalms 68:25**
+
+[TODO]
+
+**Psalms 68:26**
+
+[TODO]
+
+**Psalms 68:27**
+
+[TODO]
+
+**Psalms 68:28**
+
+[TODO]
+
+**Psalms 68:29**
+
+[TODO]
+
+**Psalms 68:30**
+
+[TODO]
+
+**Psalms 68:31**
+
+[TODO]
+
+**Psalms 68:32**
+
+[TODO]
+
+**Psalms 68:33**
+
+[TODO]
+
+**Psalms 68:34**
+
+[TODO]
+
+**Psalms 68:35**
+
+[TODO]
+
+**Psalms 68:36**
+
+[TODO]
+
+**Psalms 68:37**
+
+[TODO]
+
+### Chapter 69
+
+**Psalms 69:1**
+
+[TODO]
+
+**Psalms 69:2**
+
+[TODO]
+
+**Psalms 69:3**
+
+[TODO]
+
+**Psalms 69:4**
+
+[TODO]
+
+**Psalms 69:5**
+
+[TODO]
+
+**Psalms 69:6**
+
+[TODO]
+
+### Chapter 70
+
+**Psalms 70:1**
+
+[TODO]
+
+**Psalms 70:2**
+
+[TODO]
+
+**Psalms 70:3**
+
+[TODO]
+
+**Psalms 70:4**
+
+[TODO]
+
+**Psalms 70:5**
+
+[TODO]
+
+**Psalms 70:6**
+
+[TODO]
+
+**Psalms 70:7**
+
+[TODO]
+
+**Psalms 70:8**
+
+[TODO]
+
+**Psalms 70:9**
+
+[TODO]
+
+**Psalms 70:10**
+
+[TODO]
+
+**Psalms 70:11**
+
+[TODO]
+
+**Psalms 70:12**
+
+[TODO]
+
+**Psalms 70:13**
+
+[TODO]
+
+**Psalms 70:14**
+
+[TODO]
+
+**Psalms 70:15**
+
+[TODO]
+
+**Psalms 70:16**
+
+[TODO]
+
+**Psalms 70:17**
+
+[TODO]
+
+**Psalms 70:18**
+
+[TODO]
+
+**Psalms 70:19**
+
+[TODO]
+
+**Psalms 70:20**
+
+[TODO]
+
+**Psalms 70:21**
+
+[TODO]
+
+**Psalms 70:22**
+
+[TODO]
+
+**Psalms 70:23**
+
+[TODO]
+
+**Psalms 70:24**
+
+[TODO]
+
+### Chapter 71
+
+**Psalms 71:1**
+
+[TODO]
+
+**Psalms 71:2**
+
+[TODO]
+
+**Psalms 71:3**
+
+[TODO]
+
+**Psalms 71:4**
+
+[TODO]
+
+**Psalms 71:5**
+
+[TODO]
+
+**Psalms 71:6**
+
+[TODO]
+
+**Psalms 71:7**
+
+[TODO]
+
+**Psalms 71:8**
+
+[TODO]
+
+**Psalms 71:9**
+
+[TODO]
+
+**Psalms 71:10**
+
+[TODO]
+
+**Psalms 71:11**
+
+[TODO]
+
+**Psalms 71:12**
+
+[TODO]
+
+**Psalms 71:13**
+
+[TODO]
+
+**Psalms 71:14**
+
+[TODO]
+
+**Psalms 71:15**
+
+[TODO]
+
+**Psalms 71:16**
+
+[TODO]
+
+**Psalms 71:17**
+
+[TODO]
+
+**Psalms 71:18**
+
+[TODO]
+
+**Psalms 71:19**
+
+[TODO]
+
+**Psalms 71:20**
+
+[TODO]
+
+### Chapter 72
+
+**Psalms 72:1**
+
+[TODO]
+
+**Psalms 72:2**
+
+[TODO]
+
+**Psalms 72:3**
+
+[TODO]
+
+**Psalms 72:4**
+
+[TODO]
+
+**Psalms 72:5**
+
+[TODO]
+
+**Psalms 72:6**
+
+[TODO]
+
+**Psalms 72:7**
+
+[TODO]
+
+**Psalms 72:8**
+
+[TODO]
+
+**Psalms 72:9**
+
+[TODO]
+
+**Psalms 72:10**
+
+[TODO]
+
+**Psalms 72:11**
+
+[TODO]
+
+**Psalms 72:12**
+
+[TODO]
+
+**Psalms 72:13**
+
+[TODO]
+
+**Psalms 72:14**
+
+[TODO]
+
+**Psalms 72:15**
+
+[TODO]
+
+**Psalms 72:16**
+
+[TODO]
+
+**Psalms 72:17**
+
+[TODO]
+
+**Psalms 72:18**
+
+[TODO]
+
+**Psalms 72:19**
+
+[TODO]
+
+**Psalms 72:20**
+
+[TODO]
+
+**Psalms 72:21**
+
+[TODO]
+
+**Psalms 72:22**
+
+[TODO]
+
+**Psalms 72:23**
+
+[TODO]
+
+**Psalms 72:24**
+
+[TODO]
+
+**Psalms 72:25**
+
+[TODO]
+
+**Psalms 72:26**
+
+[TODO]
+
+**Psalms 72:27**
+
+[TODO]
+
+**Psalms 72:28**
+
+[TODO]
+
+### Chapter 73
+
+**Psalms 73:1**
+
+[TODO]
+
+**Psalms 73:2**
+
+[TODO]
+
+**Psalms 73:3**
+
+[TODO]
+
+**Psalms 73:4**
+
+[TODO]
+
+**Psalms 73:5**
+
+[TODO]
+
+**Psalms 73:6**
+
+[TODO]
+
+**Psalms 73:7**
+
+[TODO]
+
+**Psalms 73:8**
+
+[TODO]
+
+**Psalms 73:9**
+
+[TODO]
+
+**Psalms 73:10**
+
+[TODO]
+
+**Psalms 73:11**
+
+[TODO]
+
+**Psalms 73:12**
+
+[TODO]
+
+**Psalms 73:13**
+
+[TODO]
+
+**Psalms 73:14**
+
+[TODO]
+
+**Psalms 73:15**
+
+[TODO]
+
+**Psalms 73:16**
+
+[TODO]
+
+**Psalms 73:17**
+
+[TODO]
+
+**Psalms 73:18**
+
+[TODO]
+
+**Psalms 73:19**
+
+[TODO]
+
+**Psalms 73:20**
+
+[TODO]
+
+**Psalms 73:21**
+
+[TODO]
+
+**Psalms 73:22**
+
+[TODO]
+
+**Psalms 73:23**
+
+[TODO]
+
+### Chapter 74
+
+**Psalms 74:1**
+
+[TODO]
+
+**Psalms 74:2**
+
+[TODO]
+
+**Psalms 74:3**
+
+[TODO]
+
+**Psalms 74:4**
+
+[TODO]
+
+**Psalms 74:5**
+
+[TODO]
+
+**Psalms 74:6**
+
+[TODO]
+
+**Psalms 74:7**
+
+[TODO]
+
+**Psalms 74:8**
+
+[TODO]
+
+**Psalms 74:9**
+
+[TODO]
+
+**Psalms 74:10**
+
+[TODO]
+
+**Psalms 74:11**
+
+[TODO]
+
+### Chapter 75
+
+**Psalms 75:1**
+
+[TODO]
+
+**Psalms 75:2**
+
+[TODO]
+
+**Psalms 75:3**
+
+[TODO]
+
+**Psalms 75:4**
+
+[TODO]
+
+**Psalms 75:5**
+
+[TODO]
+
+**Psalms 75:6**
+
+[TODO]
+
+**Psalms 75:7**
+
+[TODO]
+
+**Psalms 75:8**
+
+[TODO]
+
+**Psalms 75:9**
+
+[TODO]
+
+**Psalms 75:10**
+
+[TODO]
+
+**Psalms 75:11**
+
+[TODO]
+
+**Psalms 75:12**
+
+[TODO]
+
+**Psalms 75:13**
+
+[TODO]
+
+### Chapter 76
+
+**Psalms 76:1**
+
+[TODO]
+
+**Psalms 76:2**
+
+[TODO]
+
+**Psalms 76:3**
+
+[TODO]
+
+**Psalms 76:4**
+
+[TODO]
+
+**Psalms 76:5**
+
+[TODO]
+
+**Psalms 76:6**
+
+[TODO]
+
+**Psalms 76:7**
+
+[TODO]
+
+**Psalms 76:8**
+
+[TODO]
+
+**Psalms 76:9**
+
+[TODO]
+
+**Psalms 76:10**
+
+[TODO]
+
+**Psalms 76:11**
+
+[TODO]
+
+**Psalms 76:12**
+
+[TODO]
+
+**Psalms 76:13**
+
+[TODO]
+
+**Psalms 76:14**
+
+[TODO]
+
+**Psalms 76:15**
+
+[TODO]
+
+**Psalms 76:16**
+
+[TODO]
+
+**Psalms 76:17**
+
+[TODO]
+
+**Psalms 76:18**
+
+[TODO]
+
+**Psalms 76:19**
+
+[TODO]
+
+**Psalms 76:20**
+
+[TODO]
+
+**Psalms 76:21**
+
+[TODO]
+
+### Chapter 77
+
+**Psalms 77:1**
+
+[TODO]
+
+**Psalms 77:2**
+
+[TODO]
+
+**Psalms 77:3**
+
+[TODO]
+
+**Psalms 77:4**
+
+[TODO]
+
+**Psalms 77:5**
+
+[TODO]
+
+**Psalms 77:6**
+
+[TODO]
+
+**Psalms 77:7**
+
+[TODO]
+
+**Psalms 77:8**
+
+[TODO]
+
+**Psalms 77:9**
+
+[TODO]
+
+**Psalms 77:10**
+
+[TODO]
+
+**Psalms 77:11**
+
+[TODO]
+
+**Psalms 77:12**
+
+[TODO]
+
+**Psalms 77:13**
+
+[TODO]
+
+**Psalms 77:14**
+
+[TODO]
+
+**Psalms 77:15**
+
+[TODO]
+
+**Psalms 77:16**
+
+[TODO]
+
+**Psalms 77:17**
+
+[TODO]
+
+**Psalms 77:18**
+
+[TODO]
+
+**Psalms 77:19**
+
+[TODO]
+
+**Psalms 77:20**
+
+[TODO]
+
+**Psalms 77:21**
+
+[TODO]
+
+**Psalms 77:22**
+
+[TODO]
+
+**Psalms 77:23**
+
+[TODO]
+
+**Psalms 77:24**
+
+[TODO]
+
+**Psalms 77:25**
+
+[TODO]
+
+**Psalms 77:26**
+
+[TODO]
+
+**Psalms 77:27**
+
+[TODO]
+
+**Psalms 77:28**
+
+[TODO]
+
+**Psalms 77:29**
+
+[TODO]
+
+**Psalms 77:30**
+
+[TODO]
+
+**Psalms 77:31**
+
+[TODO]
+
+**Psalms 77:32**
+
+[TODO]
+
+**Psalms 77:33**
+
+[TODO]
+
+**Psalms 77:34**
+
+[TODO]
+
+**Psalms 77:35**
+
+[TODO]
+
+**Psalms 77:36**
+
+[TODO]
+
+**Psalms 77:37**
+
+[TODO]
+
+**Psalms 77:38**
+
+[TODO]
+
+**Psalms 77:39**
+
+[TODO]
+
+**Psalms 77:40**
+
+[TODO]
+
+**Psalms 77:41**
+
+[TODO]
+
+**Psalms 77:42**
+
+[TODO]
+
+**Psalms 77:43**
+
+[TODO]
+
+**Psalms 77:44**
+
+[TODO]
+
+**Psalms 77:45**
+
+[TODO]
+
+**Psalms 77:46**
+
+[TODO]
+
+**Psalms 77:47**
+
+[TODO]
+
+**Psalms 77:48**
+
+[TODO]
+
+**Psalms 77:49**
+
+[TODO]
+
+**Psalms 77:50**
+
+[TODO]
+
+**Psalms 77:51**
+
+[TODO]
+
+**Psalms 77:52**
+
+[TODO]
+
+**Psalms 77:53**
+
+[TODO]
+
+**Psalms 77:54**
+
+[TODO]
+
+**Psalms 77:55**
+
+[TODO]
+
+**Psalms 77:56**
+
+[TODO]
+
+**Psalms 77:57**
+
+[TODO]
+
+**Psalms 77:58**
+
+[TODO]
+
+**Psalms 77:59**
+
+[TODO]
+
+**Psalms 77:60**
+
+[TODO]
+
+**Psalms 77:61**
+
+[TODO]
+
+**Psalms 77:62**
+
+[TODO]
+
+**Psalms 77:63**
+
+[TODO]
+
+**Psalms 77:64**
+
+[TODO]
+
+**Psalms 77:65**
+
+[TODO]
+
+**Psalms 77:66**
+
+[TODO]
+
+**Psalms 77:67**
+
+[TODO]
+
+**Psalms 77:68**
+
+[TODO]
+
+**Psalms 77:69**
+
+[TODO]
+
+**Psalms 77:70**
+
+[TODO]
+
+**Psalms 77:71**
+
+[TODO]
+
+**Psalms 77:72**
+
+[TODO]
+
+### Chapter 78
+
+**Psalms 78:1**
+
+[TODO]
+
+**Psalms 78:2**
+
+[TODO]
+
+**Psalms 78:3**
+
+[TODO]
+
+**Psalms 78:4**
+
+[TODO]
+
+**Psalms 78:5**
+
+[TODO]
+
+**Psalms 78:6**
+
+[TODO]
+
+**Psalms 78:7**
+
+[TODO]
+
+**Psalms 78:8**
+
+[TODO]
+
+**Psalms 78:9**
+
+[TODO]
+
+**Psalms 78:10**
+
+[TODO]
+
+**Psalms 78:11**
+
+[TODO]
+
+**Psalms 78:12**
+
+[TODO]
+
+**Psalms 78:13**
+
+[TODO]
+
+### Chapter 79
+
+**Psalms 79:1**
+
+[TODO]
+
+**Psalms 79:2**
+
+[TODO]
+
+**Psalms 79:3**
+
+[TODO]
+
+**Psalms 79:4**
+
+[TODO]
+
+**Psalms 79:5**
+
+[TODO]
+
+**Psalms 79:6**
+
+[TODO]
+
+**Psalms 79:7**
+
+[TODO]
+
+**Psalms 79:8**
+
+[TODO]
+
+**Psalms 79:9**
+
+[TODO]
+
+**Psalms 79:10**
+
+[TODO]
+
+**Psalms 79:11**
+
+[TODO]
+
+**Psalms 79:12**
+
+[TODO]
+
+**Psalms 79:13**
+
+[TODO]
+
+**Psalms 79:14**
+
+[TODO]
+
+**Psalms 79:15**
+
+[TODO]
+
+**Psalms 79:16**
+
+[TODO]
+
+**Psalms 79:17**
+
+[TODO]
+
+**Psalms 79:18**
+
+[TODO]
+
+**Psalms 79:19**
+
+[TODO]
+
+**Psalms 79:20**
+
+[TODO]
+
+### Chapter 80
+
+**Psalms 80:1**
+
+[TODO]
+
+**Psalms 80:2**
+
+[TODO]
+
+**Psalms 80:3**
+
+[TODO]
+
+**Psalms 80:4**
+
+[TODO]
+
+**Psalms 80:5**
+
+[TODO]
+
+**Psalms 80:6**
+
+[TODO]
+
+**Psalms 80:7**
+
+[TODO]
+
+**Psalms 80:8**
+
+[TODO]
+
+**Psalms 80:9**
+
+[TODO]
+
+**Psalms 80:10**
+
+[TODO]
+
+**Psalms 80:11**
+
+[TODO]
+
+**Psalms 80:12**
+
+[TODO]
+
+**Psalms 80:13**
+
+[TODO]
+
+**Psalms 80:14**
+
+[TODO]
+
+**Psalms 80:15**
+
+[TODO]
+
+**Psalms 80:16**
+
+[TODO]
+
+**Psalms 80:17**
+
+[TODO]
+
+### Chapter 81
+
+**Psalms 81:1**
+
+[TODO]
+
+**Psalms 81:2**
+
+[TODO]
+
+**Psalms 81:3**
+
+[TODO]
+
+**Psalms 81:4**
+
+[TODO]
+
+**Psalms 81:5**
+
+[TODO]
+
+**Psalms 81:6**
+
+[TODO]
+
+**Psalms 81:7**
+
+[TODO]
+
+**Psalms 81:8**
+
+[TODO]
+
+### Chapter 82
+
+**Psalms 82:1**
+
+[TODO]
+
+**Psalms 82:2**
+
+[TODO]
+
+**Psalms 82:3**
+
+[TODO]
+
+**Psalms 82:4**
+
+[TODO]
+
+**Psalms 82:5**
+
+[TODO]
+
+**Psalms 82:6**
+
+[TODO]
+
+**Psalms 82:7**
+
+[TODO]
+
+**Psalms 82:8**
+
+[TODO]
+
+**Psalms 82:9**
+
+[TODO]
+
+**Psalms 82:10**
+
+[TODO]
+
+**Psalms 82:11**
+
+[TODO]
+
+**Psalms 82:12**
+
+[TODO]
+
+**Psalms 82:13**
+
+[TODO]
+
+**Psalms 82:14**
+
+[TODO]
+
+**Psalms 82:15**
+
+[TODO]
+
+**Psalms 82:16**
+
+[TODO]
+
+**Psalms 82:17**
+
+[TODO]
+
+**Psalms 82:18**
+
+[TODO]
+
+**Psalms 82:19**
+
+[TODO]
+
+### Chapter 83
+
+**Psalms 83:1**
+
+[TODO]
+
+**Psalms 83:2**
+
+[TODO]
+
+**Psalms 83:3**
+
+[TODO]
+
+**Psalms 83:4**
+
+[TODO]
+
+**Psalms 83:5**
+
+[TODO]
+
+**Psalms 83:6**
+
+[TODO]
+
+**Psalms 83:7**
+
+[TODO]
+
+**Psalms 83:8**
+
+[TODO]
+
+**Psalms 83:9**
+
+[TODO]
+
+**Psalms 83:10**
+
+[TODO]
+
+**Psalms 83:11**
+
+[TODO]
+
+**Psalms 83:12**
+
+[TODO]
+
+**Psalms 83:13**
+
+[TODO]
+
+### Chapter 84
+
+**Psalms 84:1**
+
+[TODO]
+
+**Psalms 84:2**
+
+[TODO]
+
+**Psalms 84:3**
+
+[TODO]
+
+**Psalms 84:4**
+
+[TODO]
+
+**Psalms 84:5**
+
+[TODO]
+
+**Psalms 84:6**
+
+[TODO]
+
+**Psalms 84:7**
+
+[TODO]
+
+**Psalms 84:8**
+
+[TODO]
+
+**Psalms 84:9**
+
+[TODO]
+
+**Psalms 84:10**
+
+[TODO]
+
+**Psalms 84:11**
+
+[TODO]
+
+**Psalms 84:12**
+
+[TODO]
+
+**Psalms 84:13**
+
+[TODO]
+
+**Psalms 84:14**
+
+[TODO]
+
+### Chapter 85
+
+**Psalms 85:1**
+
+[TODO]
+
+**Psalms 85:2**
+
+[TODO]
+
+**Psalms 85:3**
+
+[TODO]
+
+**Psalms 85:4**
+
+[TODO]
+
+**Psalms 85:5**
+
+[TODO]
+
+**Psalms 85:6**
+
+[TODO]
+
+**Psalms 85:7**
+
+[TODO]
+
+**Psalms 85:8**
+
+[TODO]
+
+**Psalms 85:9**
+
+[TODO]
+
+**Psalms 85:10**
+
+[TODO]
+
+**Psalms 85:11**
+
+[TODO]
+
+**Psalms 85:12**
+
+[TODO]
+
+**Psalms 85:13**
+
+[TODO]
+
+**Psalms 85:14**
+
+[TODO]
+
+**Psalms 85:15**
+
+[TODO]
+
+**Psalms 85:16**
+
+[TODO]
+
+**Psalms 85:17**
+
+[TODO]
+
+### Chapter 86
+
+**Psalms 86:1**
+
+[TODO]
+
+**Psalms 86:2**
+
+[TODO]
+
+**Psalms 86:3**
+
+[TODO]
+
+**Psalms 86:4**
+
+[TODO]
+
+**Psalms 86:5**
+
+[TODO]
+
+**Psalms 86:6**
+
+[TODO]
+
+**Psalms 86:7**
+
+[TODO]
+
+### Chapter 87
+
+**Psalms 87:1**
+
+[TODO]
+
+**Psalms 87:2**
+
+[TODO]
+
+**Psalms 87:3**
+
+[TODO]
+
+**Psalms 87:4**
+
+[TODO]
+
+**Psalms 87:5**
+
+[TODO]
+
+**Psalms 87:6**
+
+[TODO]
+
+**Psalms 87:7**
+
+[TODO]
+
+**Psalms 87:8**
+
+[TODO]
+
+**Psalms 87:9**
+
+[TODO]
+
+**Psalms 87:10**
+
+[TODO]
+
+**Psalms 87:11**
+
+[TODO]
+
+**Psalms 87:12**
+
+[TODO]
+
+**Psalms 87:13**
+
+[TODO]
+
+**Psalms 87:14**
+
+[TODO]
+
+**Psalms 87:15**
+
+[TODO]
+
+**Psalms 87:16**
+
+[TODO]
+
+**Psalms 87:17**
+
+[TODO]
+
+**Psalms 87:18**
+
+[TODO]
+
+**Psalms 87:19**
+
+[TODO]
+
+### Chapter 88
+
+**Psalms 88:1**
+
+[TODO]
+
+**Psalms 88:2**
+
+[TODO]
+
+**Psalms 88:3**
+
+[TODO]
+
+**Psalms 88:4**
+
+[TODO]
+
+**Psalms 88:5**
+
+[TODO]
+
+**Psalms 88:6**
+
+[TODO]
+
+**Psalms 88:7**
+
+[TODO]
+
+**Psalms 88:8**
+
+[TODO]
+
+**Psalms 88:9**
+
+[TODO]
+
+**Psalms 88:10**
+
+[TODO]
+
+**Psalms 88:11**
+
+[TODO]
+
+**Psalms 88:12**
+
+[TODO]
+
+**Psalms 88:13**
+
+[TODO]
+
+**Psalms 88:14**
+
+[TODO]
+
+**Psalms 88:15**
+
+[TODO]
+
+**Psalms 88:16**
+
+[TODO]
+
+**Psalms 88:17**
+
+[TODO]
+
+**Psalms 88:18**
+
+[TODO]
+
+**Psalms 88:19**
+
+[TODO]
+
+**Psalms 88:20**
+
+[TODO]
+
+**Psalms 88:21**
+
+[TODO]
+
+**Psalms 88:22**
+
+[TODO]
+
+**Psalms 88:23**
+
+[TODO]
+
+**Psalms 88:24**
+
+[TODO]
+
+**Psalms 88:25**
+
+[TODO]
+
+**Psalms 88:26**
+
+[TODO]
+
+**Psalms 88:27**
+
+[TODO]
+
+**Psalms 88:28**
+
+[TODO]
+
+**Psalms 88:29**
+
+[TODO]
+
+**Psalms 88:30**
+
+[TODO]
+
+**Psalms 88:31**
+
+[TODO]
+
+**Psalms 88:32**
+
+[TODO]
+
+**Psalms 88:33**
+
+[TODO]
+
+**Psalms 88:34**
+
+[TODO]
+
+**Psalms 88:35**
+
+[TODO]
+
+**Psalms 88:36**
+
+[TODO]
+
+**Psalms 88:37**
+
+[TODO]
+
+**Psalms 88:38**
+
+[TODO]
+
+**Psalms 88:39**
+
+[TODO]
+
+**Psalms 88:40**
+
+[TODO]
+
+**Psalms 88:41**
+
+[TODO]
+
+**Psalms 88:42**
+
+[TODO]
+
+**Psalms 88:43**
+
+[TODO]
+
+**Psalms 88:44**
+
+[TODO]
+
+**Psalms 88:45**
+
+[TODO]
+
+**Psalms 88:46**
+
+[TODO]
+
+**Psalms 88:47**
+
+[TODO]
+
+**Psalms 88:48**
+
+[TODO]
+
+**Psalms 88:49**
+
+[TODO]
+
+**Psalms 88:50**
+
+[TODO]
+
+**Psalms 88:51**
+
+[TODO]
+
+**Psalms 88:52**
+
+[TODO]
+
+**Psalms 88:53**
+
+[TODO]
+
+### Chapter 89
+
+**Psalms 89:1**
+
+[TODO]
+
+**Psalms 89:2**
+
+[TODO]
+
+**Psalms 89:3**
+
+[TODO]
+
+**Psalms 89:4**
+
+[TODO]
+
+**Psalms 89:5**
+
+[TODO]
+
+**Psalms 89:6**
+
+[TODO]
+
+**Psalms 89:7**
+
+[TODO]
+
+**Psalms 89:8**
+
+[TODO]
+
+**Psalms 89:9**
+
+[TODO]
+
+**Psalms 89:10**
+
+[TODO]
+
+**Psalms 89:11**
+
+[TODO]
+
+**Psalms 89:12**
+
+[TODO]
+
+**Psalms 89:13**
+
+[TODO]
+
+**Psalms 89:14**
+
+[TODO]
+
+**Psalms 89:15**
+
+[TODO]
+
+**Psalms 89:16**
+
+[TODO]
+
+**Psalms 89:17**
+
+[TODO]
+
+### Chapter 90
+
+**Psalms 90:1**
+
+[TODO]
+
+**Psalms 90:2**
+
+[TODO]
+
+**Psalms 90:3**
+
+[TODO]
+
+**Psalms 90:4**
+
+[TODO]
+
+**Psalms 90:5**
+
+[TODO]
+
+**Psalms 90:6**
+
+[TODO]
+
+**Psalms 90:7**
+
+[TODO]
+
+**Psalms 90:8**
+
+[TODO]
+
+**Psalms 90:9**
+
+[TODO]
+
+**Psalms 90:10**
+
+[TODO]
+
+**Psalms 90:11**
+
+[TODO]
+
+**Psalms 90:12**
+
+[TODO]
+
+**Psalms 90:13**
+
+[TODO]
+
+**Psalms 90:14**
+
+[TODO]
+
+**Psalms 90:15**
+
+[TODO]
+
+**Psalms 90:16**
+
+[TODO]
+
+### Chapter 91
+
+**Psalms 91:1**
+
+[TODO]
+
+**Psalms 91:2**
+
+[TODO]
+
+**Psalms 91:3**
+
+[TODO]
+
+**Psalms 91:4**
+
+[TODO]
+
+**Psalms 91:5**
+
+[TODO]
+
+**Psalms 91:6**
+
+[TODO]
+
+**Psalms 91:7**
+
+[TODO]
+
+**Psalms 91:8**
+
+[TODO]
+
+**Psalms 91:9**
+
+[TODO]
+
+**Psalms 91:10**
+
+[TODO]
+
+**Psalms 91:11**
+
+[TODO]
+
+**Psalms 91:12**
+
+[TODO]
+
+**Psalms 91:13**
+
+[TODO]
+
+**Psalms 91:14**
+
+[TODO]
+
+**Psalms 91:15**
+
+[TODO]
+
+**Psalms 91:16**
+
+[TODO]
+
+### Chapter 92
+
+**Psalms 92:1**
+
+[TODO]
+
+**Psalms 92:2**
+
+[TODO]
+
+**Psalms 92:3**
+
+[TODO]
+
+**Psalms 92:4**
+
+[TODO]
+
+**Psalms 92:5**
+
+[TODO]
+
+### Chapter 93
+
+**Psalms 93:1**
+
+[TODO]
+
+**Psalms 93:2**
+
+[TODO]
+
+**Psalms 93:3**
+
+[TODO]
+
+**Psalms 93:4**
+
+[TODO]
+
+**Psalms 93:5**
+
+[TODO]
+
+**Psalms 93:6**
+
+[TODO]
+
+**Psalms 93:7**
+
+[TODO]
+
+**Psalms 93:8**
+
+[TODO]
+
+**Psalms 93:9**
+
+[TODO]
+
+**Psalms 93:10**
+
+[TODO]
+
+**Psalms 93:11**
+
+[TODO]
+
+**Psalms 93:12**
+
+[TODO]
+
+**Psalms 93:13**
+
+[TODO]
+
+**Psalms 93:14**
+
+[TODO]
+
+**Psalms 93:15**
+
+[TODO]
+
+**Psalms 93:16**
+
+[TODO]
+
+**Psalms 93:17**
+
+[TODO]
+
+**Psalms 93:18**
+
+[TODO]
+
+**Psalms 93:19**
+
+[TODO]
+
+**Psalms 93:20**
+
+[TODO]
+
+**Psalms 93:21**
+
+[TODO]
+
+**Psalms 93:22**
+
+[TODO]
+
+**Psalms 93:23**
+
+[TODO]
+
+### Chapter 94
+
+**Psalms 94:1**
+
+[TODO]
+
+**Psalms 94:2**
+
+[TODO]
+
+**Psalms 94:3**
+
+[TODO]
+
+**Psalms 94:4**
+
+[TODO]
+
+**Psalms 94:5**
+
+[TODO]
+
+**Psalms 94:6**
+
+[TODO]
+
+**Psalms 94:7**
+
+[TODO]
+
+**Psalms 94:8**
+
+[TODO]
+
+**Psalms 94:9**
+
+[TODO]
+
+**Psalms 94:10**
+
+[TODO]
+
+**Psalms 94:11**
+
+[TODO]
+
+### Chapter 95
+
+**Psalms 95:1**
+
+[TODO]
+
+**Psalms 95:2**
+
+[TODO]
+
+**Psalms 95:3**
+
+[TODO]
+
+**Psalms 95:4**
+
+[TODO]
+
+**Psalms 95:5**
+
+[TODO]
+
+**Psalms 95:6**
+
+[TODO]
+
+**Psalms 95:7**
+
+[TODO]
+
+**Psalms 95:8**
+
+[TODO]
+
+**Psalms 95:9**
+
+[TODO]
+
+**Psalms 95:10**
+
+[TODO]
+
+**Psalms 95:11**
+
+[TODO]
+
+**Psalms 95:12**
+
+[TODO]
+
+**Psalms 95:13**
+
+[TODO]
+
+### Chapter 96
+
+**Psalms 96:1**
+
+[TODO]
+
+**Psalms 96:2**
+
+[TODO]
+
+**Psalms 96:3**
+
+[TODO]
+
+**Psalms 96:4**
+
+[TODO]
+
+**Psalms 96:5**
+
+[TODO]
+
+**Psalms 96:6**
+
+[TODO]
+
+**Psalms 96:7**
+
+[TODO]
+
+**Psalms 96:8**
+
+[TODO]
+
+**Psalms 96:9**
+
+[TODO]
+
+**Psalms 96:10**
+
+[TODO]
+
+**Psalms 96:11**
+
+[TODO]
+
+**Psalms 96:12**
+
+[TODO]
+
+### Chapter 97
+
+**Psalms 97:1**
+
+[TODO]
+
+**Psalms 97:2**
+
+[TODO]
+
+**Psalms 97:3**
+
+[TODO]
+
+**Psalms 97:4**
+
+[TODO]
+
+**Psalms 97:5**
+
+[TODO]
+
+**Psalms 97:6**
+
+[TODO]
+
+**Psalms 97:7**
+
+[TODO]
+
+**Psalms 97:8**
+
+[TODO]
+
+**Psalms 97:9**
+
+[TODO]
+
+### Chapter 98
+
+**Psalms 98:1**
+
+[TODO]
+
+**Psalms 98:2**
+
+[TODO]
+
+**Psalms 98:3**
+
+[TODO]
+
+**Psalms 98:4**
+
+[TODO]
+
+**Psalms 98:5**
+
+[TODO]
+
+**Psalms 98:6**
+
+[TODO]
+
+**Psalms 98:7**
+
+[TODO]
+
+**Psalms 98:8**
+
+[TODO]
+
+**Psalms 98:9**
+
+[TODO]
+
+### Chapter 99
+
+**Psalms 99:1**
+
+[TODO]
+
+**Psalms 99:2**
+
+[TODO]
+
+**Psalms 99:3**
+
+[TODO]
+
+**Psalms 99:4**
+
+[TODO]
+
+**Psalms 99:5**
+
+[TODO]
+
+### Chapter 100
+
+**Psalms 100:1**
+
+[TODO]
+
+**Psalms 100:2**
+
+[TODO]
+
+**Psalms 100:3**
+
+[TODO]
+
+**Psalms 100:4**
+
+[TODO]
+
+**Psalms 100:5**
+
+[TODO]
+
+**Psalms 100:6**
+
+[TODO]
+
+**Psalms 100:7**
+
+[TODO]
+
+**Psalms 100:8**
+
+[TODO]
+
+### Chapter 101
+
+**Psalms 101:1**
+
+[TODO]
+
+**Psalms 101:2**
+
+[TODO]
+
+**Psalms 101:3**
+
+[TODO]
+
+**Psalms 101:4**
+
+[TODO]
+
+**Psalms 101:5**
+
+[TODO]
+
+**Psalms 101:6**
+
+[TODO]
+
+**Psalms 101:7**
+
+[TODO]
+
+**Psalms 101:8**
+
+[TODO]
+
+**Psalms 101:9**
+
+[TODO]
+
+**Psalms 101:10**
+
+[TODO]
+
+**Psalms 101:11**
+
+[TODO]
+
+**Psalms 101:12**
+
+[TODO]
+
+**Psalms 101:13**
+
+[TODO]
+
+**Psalms 101:14**
+
+[TODO]
+
+**Psalms 101:15**
+
+[TODO]
+
+**Psalms 101:16**
+
+[TODO]
+
+**Psalms 101:17**
+
+[TODO]
+
+**Psalms 101:18**
+
+[TODO]
+
+**Psalms 101:19**
+
+[TODO]
+
+**Psalms 101:20**
+
+[TODO]
+
+**Psalms 101:21**
+
+[TODO]
+
+**Psalms 101:22**
+
+[TODO]
+
+**Psalms 101:23**
+
+[TODO]
+
+**Psalms 101:24**
+
+[TODO]
+
+**Psalms 101:25**
+
+[TODO]
+
+**Psalms 101:26**
+
+[TODO]
+
+**Psalms 101:27**
+
+[TODO]
+
+**Psalms 101:28**
+
+[TODO]
+
+**Psalms 101:29**
+
+[TODO]
+
+### Chapter 102
+
+**Psalms 102:1**
+
+[TODO]
+
+**Psalms 102:2**
+
+[TODO]
+
+**Psalms 102:3**
+
+[TODO]
+
+**Psalms 102:4**
+
+[TODO]
+
+**Psalms 102:5**
+
+[TODO]
+
+**Psalms 102:6**
+
+[TODO]
+
+**Psalms 102:7**
+
+[TODO]
+
+**Psalms 102:8**
+
+[TODO]
+
+**Psalms 102:9**
+
+[TODO]
+
+**Psalms 102:10**
+
+[TODO]
+
+**Psalms 102:11**
+
+[TODO]
+
+**Psalms 102:12**
+
+[TODO]
+
+**Psalms 102:13**
+
+[TODO]
+
+**Psalms 102:14**
+
+[TODO]
+
+**Psalms 102:15**
+
+[TODO]
+
+**Psalms 102:16**
+
+[TODO]
+
+**Psalms 102:17**
+
+[TODO]
+
+**Psalms 102:18**
+
+[TODO]
+
+**Psalms 102:19**
+
+[TODO]
+
+**Psalms 102:20**
+
+[TODO]
+
+**Psalms 102:21**
+
+[TODO]
+
+**Psalms 102:22**
+
+[TODO]
+
+### Chapter 103
+
+**Psalms 103:1**
+
+[TODO]
+
+**Psalms 103:2**
+
+[TODO]
+
+**Psalms 103:3**
+
+[TODO]
+
+**Psalms 103:4**
+
+[TODO]
+
+**Psalms 103:5**
+
+[TODO]
+
+**Psalms 103:6**
+
+[TODO]
+
+**Psalms 103:7**
+
+[TODO]
+
+**Psalms 103:8**
+
+[TODO]
+
+**Psalms 103:9**
+
+[TODO]
+
+**Psalms 103:10**
+
+[TODO]
+
+**Psalms 103:11**
+
+[TODO]
+
+**Psalms 103:12**
+
+[TODO]
+
+**Psalms 103:13**
+
+[TODO]
+
+**Psalms 103:14**
+
+[TODO]
+
+**Psalms 103:15**
+
+[TODO]
+
+**Psalms 103:16**
+
+[TODO]
+
+**Psalms 103:17**
+
+[TODO]
+
+**Psalms 103:18**
+
+[TODO]
+
+**Psalms 103:19**
+
+[TODO]
+
+**Psalms 103:20**
+
+[TODO]
+
+**Psalms 103:21**
+
+[TODO]
+
+**Psalms 103:22**
+
+[TODO]
+
+**Psalms 103:23**
+
+[TODO]
+
+**Psalms 103:24**
+
+[TODO]
+
+**Psalms 103:25**
+
+[TODO]
+
+**Psalms 103:26**
+
+[TODO]
+
+**Psalms 103:27**
+
+[TODO]
+
+**Psalms 103:28**
+
+[TODO]
+
+**Psalms 103:29**
+
+[TODO]
+
+**Psalms 103:30**
+
+[TODO]
+
+**Psalms 103:31**
+
+[TODO]
+
+**Psalms 103:32**
+
+[TODO]
+
+**Psalms 103:33**
+
+[TODO]
+
+**Psalms 103:34**
+
+[TODO]
+
+**Psalms 103:35**
+
+[TODO]
+
+### Chapter 104
+
+**Psalms 104:1**
+
+[TODO]
+
+**Psalms 104:2**
+
+[TODO]
+
+**Psalms 104:3**
+
+[TODO]
+
+**Psalms 104:4**
+
+[TODO]
+
+**Psalms 104:5**
+
+[TODO]
+
+**Psalms 104:6**
+
+[TODO]
+
+**Psalms 104:7**
+
+[TODO]
+
+**Psalms 104:8**
+
+[TODO]
+
+**Psalms 104:9**
+
+[TODO]
+
+**Psalms 104:10**
+
+[TODO]
+
+**Psalms 104:11**
+
+[TODO]
+
+**Psalms 104:12**
+
+[TODO]
+
+**Psalms 104:13**
+
+[TODO]
+
+**Psalms 104:14**
+
+[TODO]
+
+**Psalms 104:15**
+
+[TODO]
+
+**Psalms 104:16**
+
+[TODO]
+
+**Psalms 104:17**
+
+[TODO]
+
+**Psalms 104:18**
+
+[TODO]
+
+**Psalms 104:19**
+
+[TODO]
+
+**Psalms 104:20**
+
+[TODO]
+
+**Psalms 104:21**
+
+[TODO]
+
+**Psalms 104:22**
+
+[TODO]
+
+**Psalms 104:23**
+
+[TODO]
+
+**Psalms 104:24**
+
+[TODO]
+
+**Psalms 104:25**
+
+[TODO]
+
+**Psalms 104:26**
+
+[TODO]
+
+**Psalms 104:27**
+
+[TODO]
+
+**Psalms 104:28**
+
+[TODO]
+
+**Psalms 104:29**
+
+[TODO]
+
+**Psalms 104:30**
+
+[TODO]
+
+**Psalms 104:31**
+
+[TODO]
+
+**Psalms 104:32**
+
+[TODO]
+
+**Psalms 104:33**
+
+[TODO]
+
+**Psalms 104:34**
+
+[TODO]
+
+**Psalms 104:35**
+
+[TODO]
+
+**Psalms 104:36**
+
+[TODO]
+
+**Psalms 104:37**
+
+[TODO]
+
+**Psalms 104:38**
+
+[TODO]
+
+**Psalms 104:39**
+
+[TODO]
+
+**Psalms 104:40**
+
+[TODO]
+
+**Psalms 104:41**
+
+[TODO]
+
+**Psalms 104:42**
+
+[TODO]
+
+**Psalms 104:43**
+
+[TODO]
+
+**Psalms 104:44**
+
+[TODO]
+
+**Psalms 104:45**
+
+[TODO]
+
+### Chapter 105
+
+**Psalms 105:1**
+
+[TODO]
+
+**Psalms 105:2**
+
+[TODO]
+
+**Psalms 105:3**
+
+[TODO]
+
+**Psalms 105:4**
+
+[TODO]
+
+**Psalms 105:5**
+
+[TODO]
+
+**Psalms 105:6**
+
+[TODO]
+
+**Psalms 105:7**
+
+[TODO]
+
+**Psalms 105:8**
+
+[TODO]
+
+**Psalms 105:9**
+
+[TODO]
+
+**Psalms 105:10**
+
+[TODO]
+
+**Psalms 105:11**
+
+[TODO]
+
+**Psalms 105:12**
+
+[TODO]
+
+**Psalms 105:13**
+
+[TODO]
+
+**Psalms 105:14**
+
+[TODO]
+
+**Psalms 105:15**
+
+[TODO]
+
+**Psalms 105:16**
+
+[TODO]
+
+**Psalms 105:17**
+
+[TODO]
+
+**Psalms 105:18**
+
+[TODO]
+
+**Psalms 105:19**
+
+[TODO]
+
+**Psalms 105:20**
+
+[TODO]
+
+**Psalms 105:21**
+
+[TODO]
+
+**Psalms 105:22**
+
+[TODO]
+
+**Psalms 105:23**
+
+[TODO]
+
+**Psalms 105:24**
+
+[TODO]
+
+**Psalms 105:25**
+
+[TODO]
+
+**Psalms 105:26**
+
+[TODO]
+
+**Psalms 105:27**
+
+[TODO]
+
+**Psalms 105:28**
+
+[TODO]
+
+**Psalms 105:29**
+
+[TODO]
+
+**Psalms 105:30**
+
+[TODO]
+
+**Psalms 105:31**
+
+[TODO]
+
+**Psalms 105:32**
+
+[TODO]
+
+**Psalms 105:33**
+
+[TODO]
+
+**Psalms 105:34**
+
+[TODO]
+
+**Psalms 105:35**
+
+[TODO]
+
+**Psalms 105:36**
+
+[TODO]
+
+**Psalms 105:37**
+
+[TODO]
+
+**Psalms 105:38**
+
+[TODO]
+
+**Psalms 105:39**
+
+[TODO]
+
+**Psalms 105:40**
+
+[TODO]
+
+**Psalms 105:41**
+
+[TODO]
+
+**Psalms 105:42**
+
+[TODO]
+
+**Psalms 105:43**
+
+[TODO]
+
+**Psalms 105:44**
+
+[TODO]
+
+**Psalms 105:45**
+
+[TODO]
+
+**Psalms 105:46**
+
+[TODO]
+
+**Psalms 105:47**
+
+[TODO]
+
+**Psalms 105:48**
+
+[TODO]
+
+### Chapter 106
+
+**Psalms 106:1**
+
+[TODO]
+
+**Psalms 106:2**
+
+[TODO]
+
+**Psalms 106:3**
+
+[TODO]
+
+**Psalms 106:4**
+
+[TODO]
+
+**Psalms 106:5**
+
+[TODO]
+
+**Psalms 106:6**
+
+[TODO]
+
+**Psalms 106:7**
+
+[TODO]
+
+**Psalms 106:8**
+
+[TODO]
+
+**Psalms 106:9**
+
+[TODO]
+
+**Psalms 106:10**
+
+[TODO]
+
+**Psalms 106:11**
+
+[TODO]
+
+**Psalms 106:12**
+
+[TODO]
+
+**Psalms 106:13**
+
+[TODO]
+
+**Psalms 106:14**
+
+[TODO]
+
+**Psalms 106:15**
+
+[TODO]
+
+**Psalms 106:16**
+
+[TODO]
+
+**Psalms 106:17**
+
+[TODO]
+
+**Psalms 106:18**
+
+[TODO]
+
+**Psalms 106:19**
+
+[TODO]
+
+**Psalms 106:20**
+
+[TODO]
+
+**Psalms 106:21**
+
+[TODO]
+
+**Psalms 106:22**
+
+[TODO]
+
+**Psalms 106:23**
+
+[TODO]
+
+**Psalms 106:24**
+
+[TODO]
+
+**Psalms 106:25**
+
+[TODO]
+
+**Psalms 106:26**
+
+[TODO]
+
+**Psalms 106:27**
+
+[TODO]
+
+**Psalms 106:28**
+
+[TODO]
+
+**Psalms 106:29**
+
+[TODO]
+
+**Psalms 106:30**
+
+[TODO]
+
+**Psalms 106:31**
+
+[TODO]
+
+**Psalms 106:32**
+
+[TODO]
+
+**Psalms 106:33**
+
+[TODO]
+
+**Psalms 106:34**
+
+[TODO]
+
+**Psalms 106:35**
+
+[TODO]
+
+**Psalms 106:36**
+
+[TODO]
+
+**Psalms 106:37**
+
+[TODO]
+
+**Psalms 106:38**
+
+[TODO]
+
+**Psalms 106:39**
+
+[TODO]
+
+**Psalms 106:40**
+
+[TODO]
+
+**Psalms 106:41**
+
+[TODO]
+
+**Psalms 106:42**
+
+[TODO]
+
+**Psalms 106:43**
+
+[TODO]
+
+### Chapter 107
+
+**Psalms 107:1**
+
+[TODO]
+
+**Psalms 107:2**
+
+[TODO]
+
+**Psalms 107:3**
+
+[TODO]
+
+**Psalms 107:4**
+
+[TODO]
+
+**Psalms 107:5**
+
+[TODO]
+
+**Psalms 107:6**
+
+[TODO]
+
+**Psalms 107:7**
+
+[TODO]
+
+**Psalms 107:8**
+
+[TODO]
+
+**Psalms 107:9**
+
+[TODO]
+
+**Psalms 107:10**
+
+[TODO]
+
+**Psalms 107:11**
+
+[TODO]
+
+**Psalms 107:12**
+
+[TODO]
+
+**Psalms 107:13**
+
+[TODO]
+
+**Psalms 107:14**
+
+[TODO]
+
+### Chapter 108
+
+**Psalms 108:1**
+
+[TODO]
+
+**Psalms 108:2**
+
+[TODO]
+
+**Psalms 108:3**
+
+[TODO]
+
+**Psalms 108:4**
+
+[TODO]
+
+**Psalms 108:5**
+
+[TODO]
+
+**Psalms 108:6**
+
+[TODO]
+
+**Psalms 108:7**
+
+[TODO]
+
+**Psalms 108:8**
+
+[TODO]
+
+**Psalms 108:9**
+
+[TODO]
+
+**Psalms 108:10**
+
+[TODO]
+
+**Psalms 108:11**
+
+[TODO]
+
+**Psalms 108:12**
+
+[TODO]
+
+**Psalms 108:13**
+
+[TODO]
+
+**Psalms 108:14**
+
+[TODO]
+
+**Psalms 108:15**
+
+[TODO]
+
+**Psalms 108:16**
+
+[TODO]
+
+**Psalms 108:17**
+
+[TODO]
+
+**Psalms 108:18**
+
+[TODO]
+
+**Psalms 108:19**
+
+[TODO]
+
+**Psalms 108:20**
+
+[TODO]
+
+**Psalms 108:21**
+
+[TODO]
+
+**Psalms 108:22**
+
+[TODO]
+
+**Psalms 108:23**
+
+[TODO]
+
+**Psalms 108:24**
+
+[TODO]
+
+**Psalms 108:25**
+
+[TODO]
+
+**Psalms 108:26**
+
+[TODO]
+
+**Psalms 108:27**
+
+[TODO]
+
+**Psalms 108:28**
+
+[TODO]
+
+**Psalms 108:29**
+
+[TODO]
+
+**Psalms 108:30**
+
+[TODO]
+
+**Psalms 108:31**
+
+[TODO]
+
+### Chapter 109
+
+**Psalms 109:1**
+
+[TODO]
+
+**Psalms 109:2**
+
+[TODO]
+
+**Psalms 109:3**
+
+[TODO]
+
+**Psalms 109:4**
+
+[TODO]
+
+**Psalms 109:5**
+
+[TODO]
+
+**Psalms 109:6**
+
+[TODO]
+
+**Psalms 109:7**
+
+[TODO]
+
+### Chapter 110
+
+**Psalms 110:1**
+
+[TODO]
+
+**Psalms 110:2**
+
+[TODO]
+
+**Psalms 110:3**
+
+[TODO]
+
+**Psalms 110:4**
+
+[TODO]
+
+**Psalms 110:5**
+
+[TODO]
+
+**Psalms 110:6**
+
+[TODO]
+
+**Psalms 110:7**
+
+[TODO]
+
+**Psalms 110:8**
+
+[TODO]
+
+**Psalms 110:9**
+
+[TODO]
+
+**Psalms 110:10**
+
+[TODO]
+
+### Chapter 111
+
+**Psalms 111:1**
+
+[TODO]
+
+**Psalms 111:2**
+
+[TODO]
+
+**Psalms 111:3**
+
+[TODO]
+
+**Psalms 111:4**
+
+[TODO]
+
+**Psalms 111:5**
+
+[TODO]
+
+**Psalms 111:6**
+
+[TODO]
+
+**Psalms 111:7**
+
+[TODO]
+
+**Psalms 111:8**
+
+[TODO]
+
+**Psalms 111:9**
+
+[TODO]
+
+**Psalms 111:10**
+
+[TODO]
+
+### Chapter 112
+
+**Psalms 112:1**
+
+[TODO]
+
+**Psalms 112:2**
+
+[TODO]
+
+**Psalms 112:3**
+
+[TODO]
+
+**Psalms 112:4**
+
+[TODO]
+
+**Psalms 112:5**
+
+[TODO]
+
+**Psalms 112:6**
+
+[TODO]
+
+**Psalms 112:7**
+
+[TODO]
+
+**Psalms 112:8**
+
+[TODO]
+
+**Psalms 112:9**
+
+[TODO]
+
+### Chapter 113
+
+**Psalms 113:1**
+
+[TODO]
+
+**Psalms 113:2**
+
+[TODO]
+
+**Psalms 113:3**
+
+[TODO]
+
+**Psalms 113:4**
+
+[TODO]
+
+**Psalms 113:5**
+
+[TODO]
+
+**Psalms 113:6**
+
+[TODO]
+
+**Psalms 113:7**
+
+[TODO]
+
+**Psalms 113:8**
+
+[TODO]
+
+**Psalms 113:9**
+
+[TODO]
+
+**Psalms 113:10**
+
+[TODO]
+
+**Psalms 113:11**
+
+[TODO]
+
+**Psalms 113:12**
+
+[TODO]
+
+**Psalms 113:13**
+
+[TODO]
+
+**Psalms 113:14**
+
+[TODO]
+
+**Psalms 113:15**
+
+[TODO]
+
+**Psalms 113:16**
+
+[TODO]
+
+**Psalms 113:17**
+
+[TODO]
+
+**Psalms 113:18**
+
+[TODO]
+
+**Psalms 113:19**
+
+[TODO]
+
+**Psalms 113:20**
+
+[TODO]
+
+**Psalms 113:21**
+
+[TODO]
+
+**Psalms 113:22**
+
+[TODO]
+
+**Psalms 113:23**
+
+[TODO]
+
+**Psalms 113:24**
+
+[TODO]
+
+**Psalms 113:25**
+
+[TODO]
+
+**Psalms 113:26**
+
+[TODO]
+
+### Chapter 114
+
+**Psalms 114:1**
+
+[TODO]
+
+**Psalms 114:2**
+
+[TODO]
+
+**Psalms 114:3**
+
+[TODO]
+
+**Psalms 114:4**
+
+[TODO]
+
+**Psalms 114:5**
+
+[TODO]
+
+**Psalms 114:6**
+
+[TODO]
+
+**Psalms 114:7**
+
+[TODO]
+
+**Psalms 114:8**
+
+[TODO]
+
+**Psalms 114:9**
+
+[TODO]
+
+### Chapter 115
+
+**Psalms 115:1**
+
+[TODO]
+
+**Psalms 115:2**
+
+[TODO]
+
+**Psalms 115:3**
+
+[TODO]
+
+**Psalms 115:4**
+
+[TODO]
+
+**Psalms 115:6**
+
+[TODO]
+
+**Psalms 115:7**
+
+[TODO]
+
+**Psalms 115:8**
+
+[TODO]
+
+**Psalms 115:9**
+
+[TODO]
+
+**Psalms 115:10**
+
+[TODO]
+
+### Chapter 116
+
+**Psalms 116:1**
+
+[TODO]
+
+**Psalms 116:2**
+
+[TODO]
+
+### Chapter 117
+
+**Psalms 117:1**
+
+[TODO]
+
+**Psalms 117:2**
+
+[TODO]
+
+**Psalms 117:3**
+
+[TODO]
+
+**Psalms 117:4**
+
+[TODO]
+
+**Psalms 117:5**
+
+[TODO]
+
+**Psalms 117:6**
+
+[TODO]
+
+**Psalms 117:7**
+
+[TODO]
+
+**Psalms 117:8**
+
+[TODO]
+
+**Psalms 117:9**
+
+[TODO]
+
+**Psalms 117:10**
+
+[TODO]
+
+**Psalms 117:11**
+
+[TODO]
+
+**Psalms 117:12**
+
+[TODO]
+
+**Psalms 117:13**
+
+[TODO]
+
+**Psalms 117:14**
+
+[TODO]
+
+**Psalms 117:15**
+
+[TODO]
+
+**Psalms 117:16**
+
+[TODO]
+
+**Psalms 117:17**
+
+[TODO]
+
+**Psalms 117:18**
+
+[TODO]
+
+**Psalms 117:19**
+
+[TODO]
+
+**Psalms 117:20**
+
+[TODO]
+
+**Psalms 117:21**
+
+[TODO]
+
+**Psalms 117:22**
+
+[TODO]
+
+**Psalms 117:23**
+
+[TODO]
+
+**Psalms 117:24**
+
+[TODO]
+
+**Psalms 117:25**
+
+[TODO]
+
+**Psalms 117:26**
+
+[TODO]
+
+**Psalms 117:27**
+
+[TODO]
+
+**Psalms 117:28**
+
+[TODO]
+
+**Psalms 117:29**
+
+[TODO]
+
+### Chapter 118
+
+**Psalms 118:1**
+
+[TODO]
+
+**Psalms 118:2**
+
+[TODO]
+
+**Psalms 118:3**
+
+[TODO]
+
+**Psalms 118:4**
+
+[TODO]
+
+**Psalms 118:5**
+
+[TODO]
+
+**Psalms 118:6**
+
+[TODO]
+
+**Psalms 118:7**
+
+[TODO]
+
+**Psalms 118:8**
+
+[TODO]
+
+**Psalms 118:9**
+
+[TODO]
+
+**Psalms 118:10**
+
+[TODO]
+
+**Psalms 118:11**
+
+[TODO]
+
+**Psalms 118:12**
+
+[TODO]
+
+**Psalms 118:13**
+
+[TODO]
+
+**Psalms 118:14**
+
+[TODO]
+
+**Psalms 118:15**
+
+[TODO]
+
+**Psalms 118:16**
+
+[TODO]
+
+**Psalms 118:17**
+
+[TODO]
+
+**Psalms 118:18**
+
+[TODO]
+
+**Psalms 118:19**
+
+[TODO]
+
+**Psalms 118:20**
+
+[TODO]
+
+**Psalms 118:21**
+
+[TODO]
+
+**Psalms 118:22**
+
+[TODO]
+
+**Psalms 118:23**
+
+[TODO]
+
+**Psalms 118:24**
+
+[TODO]
+
+**Psalms 118:25**
+
+[TODO]
+
+**Psalms 118:26**
+
+[TODO]
+
+**Psalms 118:27**
+
+[TODO]
+
+**Psalms 118:28**
+
+[TODO]
+
+**Psalms 118:29**
+
+[TODO]
+
+**Psalms 118:30**
+
+[TODO]
+
+**Psalms 118:31**
+
+[TODO]
+
+**Psalms 118:32**
+
+[TODO]
+
+**Psalms 118:33**
+
+[TODO]
+
+**Psalms 118:34**
+
+[TODO]
+
+**Psalms 118:35**
+
+[TODO]
+
+**Psalms 118:36**
+
+[TODO]
+
+**Psalms 118:37**
+
+[TODO]
+
+**Psalms 118:38**
+
+[TODO]
+
+**Psalms 118:39**
+
+[TODO]
+
+**Psalms 118:40**
+
+[TODO]
+
+**Psalms 118:41**
+
+[TODO]
+
+**Psalms 118:42**
+
+[TODO]
+
+**Psalms 118:43**
+
+[TODO]
+
+**Psalms 118:44**
+
+[TODO]
+
+**Psalms 118:45**
+
+[TODO]
+
+**Psalms 118:46**
+
+[TODO]
+
+**Psalms 118:47**
+
+[TODO]
+
+**Psalms 118:48**
+
+[TODO]
+
+**Psalms 118:49**
+
+[TODO]
+
+**Psalms 118:50**
+
+[TODO]
+
+**Psalms 118:51**
+
+[TODO]
+
+**Psalms 118:52**
+
+[TODO]
+
+**Psalms 118:53**
+
+[TODO]
+
+**Psalms 118:54**
+
+[TODO]
+
+**Psalms 118:55**
+
+[TODO]
+
+**Psalms 118:56**
+
+[TODO]
+
+**Psalms 118:57**
+
+[TODO]
+
+**Psalms 118:58**
+
+[TODO]
+
+**Psalms 118:59**
+
+[TODO]
+
+**Psalms 118:60**
+
+[TODO]
+
+**Psalms 118:61**
+
+[TODO]
+
+**Psalms 118:62**
+
+[TODO]
+
+**Psalms 118:63**
+
+[TODO]
+
+**Psalms 118:64**
+
+[TODO]
+
+**Psalms 118:65**
+
+[TODO]
+
+**Psalms 118:66**
+
+[TODO]
+
+**Psalms 118:67**
+
+[TODO]
+
+**Psalms 118:68**
+
+[TODO]
+
+**Psalms 118:69**
+
+[TODO]
+
+**Psalms 118:70**
+
+[TODO]
+
+**Psalms 118:71**
+
+[TODO]
+
+**Psalms 118:72**
+
+[TODO]
+
+**Psalms 118:73**
+
+[TODO]
+
+**Psalms 118:74**
+
+[TODO]
+
+**Psalms 118:75**
+
+[TODO]
+
+**Psalms 118:76**
+
+[TODO]
+
+**Psalms 118:77**
+
+[TODO]
+
+**Psalms 118:78**
+
+[TODO]
+
+**Psalms 118:79**
+
+[TODO]
+
+**Psalms 118:80**
+
+[TODO]
+
+**Psalms 118:81**
+
+[TODO]
+
+**Psalms 118:82**
+
+[TODO]
+
+**Psalms 118:83**
+
+[TODO]
+
+**Psalms 118:84**
+
+[TODO]
+
+**Psalms 118:85**
+
+[TODO]
+
+**Psalms 118:86**
+
+[TODO]
+
+**Psalms 118:87**
+
+[TODO]
+
+**Psalms 118:88**
+
+[TODO]
+
+**Psalms 118:89**
+
+[TODO]
+
+**Psalms 118:90**
+
+[TODO]
+
+**Psalms 118:91**
+
+[TODO]
+
+**Psalms 118:92**
+
+[TODO]
+
+**Psalms 118:93**
+
+[TODO]
+
+**Psalms 118:94**
+
+[TODO]
+
+**Psalms 118:95**
+
+[TODO]
+
+**Psalms 118:96**
+
+[TODO]
+
+**Psalms 118:97**
+
+[TODO]
+
+**Psalms 118:98**
+
+[TODO]
+
+**Psalms 118:99**
+
+[TODO]
+
+**Psalms 118:100**
+
+[TODO]
+
+**Psalms 118:101**
+
+[TODO]
+
+**Psalms 118:102**
+
+[TODO]
+
+**Psalms 118:103**
+
+[TODO]
+
+**Psalms 118:104**
+
+[TODO]
+
+**Psalms 118:105**
+
+[TODO]
+
+**Psalms 118:106**
+
+[TODO]
+
+**Psalms 118:107**
+
+[TODO]
+
+**Psalms 118:108**
+
+[TODO]
+
+**Psalms 118:109**
+
+[TODO]
+
+**Psalms 118:110**
+
+[TODO]
+
+**Psalms 118:111**
+
+[TODO]
+
+**Psalms 118:112**
+
+[TODO]
+
+**Psalms 118:113**
+
+[TODO]
+
+**Psalms 118:114**
+
+[TODO]
+
+**Psalms 118:115**
+
+[TODO]
+
+**Psalms 118:116**
+
+[TODO]
+
+**Psalms 118:117**
+
+[TODO]
+
+**Psalms 118:118**
+
+[TODO]
+
+**Psalms 118:119**
+
+[TODO]
+
+**Psalms 118:120**
+
+[TODO]
+
+**Psalms 118:121**
+
+[TODO]
+
+**Psalms 118:122**
+
+[TODO]
+
+**Psalms 118:123**
+
+[TODO]
+
+**Psalms 118:124**
+
+[TODO]
+
+**Psalms 118:125**
+
+[TODO]
+
+**Psalms 118:126**
+
+[TODO]
+
+**Psalms 118:127**
+
+[TODO]
+
+**Psalms 118:128**
+
+[TODO]
+
+**Psalms 118:129**
+
+[TODO]
+
+**Psalms 118:130**
+
+[TODO]
+
+**Psalms 118:131**
+
+[TODO]
+
+**Psalms 118:132**
+
+[TODO]
+
+**Psalms 118:133**
+
+[TODO]
+
+**Psalms 118:134**
+
+[TODO]
+
+**Psalms 118:135**
+
+[TODO]
+
+**Psalms 118:136**
+
+[TODO]
+
+**Psalms 118:137**
+
+[TODO]
+
+**Psalms 118:138**
+
+[TODO]
+
+**Psalms 118:139**
+
+[TODO]
+
+**Psalms 118:140**
+
+[TODO]
+
+**Psalms 118:141**
+
+[TODO]
+
+**Psalms 118:142**
+
+[TODO]
+
+**Psalms 118:143**
+
+[TODO]
+
+**Psalms 118:144**
+
+[TODO]
+
+**Psalms 118:145**
+
+[TODO]
+
+**Psalms 118:146**
+
+[TODO]
+
+**Psalms 118:147**
+
+[TODO]
+
+**Psalms 118:148**
+
+[TODO]
+
+**Psalms 118:149**
+
+[TODO]
+
+**Psalms 118:150**
+
+[TODO]
+
+**Psalms 118:151**
+
+[TODO]
+
+**Psalms 118:152**
+
+[TODO]
+
+**Psalms 118:153**
+
+[TODO]
+
+**Psalms 118:154**
+
+[TODO]
+
+**Psalms 118:155**
+
+[TODO]
+
+**Psalms 118:156**
+
+[TODO]
+
+**Psalms 118:157**
+
+[TODO]
+
+**Psalms 118:158**
+
+[TODO]
+
+**Psalms 118:159**
+
+[TODO]
+
+**Psalms 118:160**
+
+[TODO]
+
+**Psalms 118:161**
+
+[TODO]
+
+**Psalms 118:162**
+
+[TODO]
+
+**Psalms 118:163**
+
+[TODO]
+
+**Psalms 118:164**
+
+[TODO]
+
+**Psalms 118:165**
+
+[TODO]
+
+**Psalms 118:166**
+
+[TODO]
+
+**Psalms 118:167**
+
+[TODO]
+
+**Psalms 118:168**
+
+[TODO]
+
+**Psalms 118:169**
+
+[TODO]
+
+**Psalms 118:170**
+
+[TODO]
+
+**Psalms 118:171**
+
+[TODO]
+
+**Psalms 118:172**
+
+[TODO]
+
+**Psalms 118:173**
+
+[TODO]
+
+**Psalms 118:174**
+
+[TODO]
+
+**Psalms 118:175**
+
+[TODO]
+
+**Psalms 118:176**
+
+[TODO]
+
+### Chapter 119
+
+**Psalms 119:1**
+
+[TODO]
+
+**Psalms 119:2**
+
+[TODO]
+
+**Psalms 119:3**
+
+[TODO]
+
+**Psalms 119:4**
+
+[TODO]
+
+**Psalms 119:5**
+
+[TODO]
+
+**Psalms 119:6**
+
+[TODO]
+
+**Psalms 119:7**
+
+[TODO]
+
+### Chapter 120
+
+**Psalms 120:1**
+
+[TODO]
+
+**Psalms 120:2**
+
+[TODO]
+
+**Psalms 120:3**
+
+[TODO]
+
+**Psalms 120:4**
+
+[TODO]
+
+**Psalms 120:5**
+
+[TODO]
+
+**Psalms 120:6**
+
+[TODO]
+
+**Psalms 120:7**
+
+[TODO]
+
+**Psalms 120:8**
+
+[TODO]
+
+### Chapter 121
+
+**Psalms 121:1**
+
+[TODO]
+
+**Psalms 121:2**
+
+[TODO]
+
+**Psalms 121:3**
+
+[TODO]
+
+**Psalms 121:4**
+
+[TODO]
+
+**Psalms 121:5**
+
+[TODO]
+
+**Psalms 121:6**
+
+[TODO]
+
+**Psalms 121:7**
+
+[TODO]
+
+**Psalms 121:8**
+
+[TODO]
+
+**Psalms 121:9**
+
+[TODO]
+
+### Chapter 122
+
+**Psalms 122:1**
+
+[TODO]
+
+**Psalms 122:2**
+
+[TODO]
+
+**Psalms 122:3**
+
+[TODO]
+
+**Psalms 122:4**
+
+[TODO]
+
+### Chapter 123
+
+**Psalms 123:1**
+
+[TODO]
+
+**Psalms 123:2**
+
+[TODO]
+
+**Psalms 123:3**
+
+[TODO]
+
+**Psalms 123:4**
+
+[TODO]
+
+**Psalms 123:5**
+
+[TODO]
+
+**Psalms 123:6**
+
+[TODO]
+
+**Psalms 123:7**
+
+[TODO]
+
+**Psalms 123:8**
+
+[TODO]
+
+### Chapter 124
+
+**Psalms 124:1**
+
+[TODO]
+
+**Psalms 124:2**
+
+[TODO]
+
+**Psalms 124:3**
+
+[TODO]
+
+**Psalms 124:4**
+
+[TODO]
+
+**Psalms 124:5**
+
+[TODO]
+
+### Chapter 125
+
+**Psalms 125:1**
+
+[TODO]
+
+**Psalms 125:2**
+
+[TODO]
+
+**Psalms 125:3**
+
+[TODO]
+
+**Psalms 125:4**
+
+[TODO]
+
+**Psalms 125:5**
+
+[TODO]
+
+**Psalms 125:6**
+
+[TODO]
+
+### Chapter 126
+
+**Psalms 126:1**
+
+[TODO]
+
+**Psalms 126:2**
+
+[TODO]
+
+**Psalms 126:3**
+
+[TODO]
+
+**Psalms 126:4**
+
+[TODO]
+
+**Psalms 126:5**
+
+[TODO]
+
+### Chapter 127
+
+**Psalms 127:1**
+
+[TODO]
+
+**Psalms 127:2**
+
+[TODO]
+
+**Psalms 127:3**
+
+[TODO]
+
+**Psalms 127:4**
+
+[TODO]
+
+**Psalms 127:5**
+
+[TODO]
+
+**Psalms 127:6**
+
+[TODO]
+
+### Chapter 128
+
+**Psalms 128:1**
+
+[TODO]
+
+**Psalms 128:2**
+
+[TODO]
+
+**Psalms 128:3**
+
+[TODO]
+
+**Psalms 128:4**
+
+[TODO]
+
+**Psalms 128:5**
+
+[TODO]
+
+**Psalms 128:6**
+
+[TODO]
+
+**Psalms 128:7**
+
+[TODO]
+
+**Psalms 128:8**
+
+[TODO]
+
+### Chapter 129
+
+**Psalms 129:1**
+
+[TODO]
+
+**Psalms 129:2**
+
+[TODO]
+
+**Psalms 129:3**
+
+[TODO]
+
+**Psalms 129:4**
+
+[TODO]
+
+**Psalms 129:5**
+
+[TODO]
+
+**Psalms 129:6**
+
+[TODO]
+
+**Psalms 129:7**
+
+[TODO]
+
+**Psalms 129:8**
+
+[TODO]
+
+### Chapter 130
+
+**Psalms 130:1**
+
+[TODO]
+
+**Psalms 130:2**
+
+[TODO]
+
+**Psalms 130:3**
+
+[TODO]
+
+### Chapter 131
+
+**Psalms 131:1**
+
+[TODO]
+
+**Psalms 131:2**
+
+[TODO]
+
+**Psalms 131:3**
+
+[TODO]
+
+**Psalms 131:4**
+
+[TODO]
+
+**Psalms 131:5**
+
+[TODO]
+
+**Psalms 131:6**
+
+[TODO]
+
+**Psalms 131:7**
+
+[TODO]
+
+**Psalms 131:8**
+
+[TODO]
+
+**Psalms 131:9**
+
+[TODO]
+
+**Psalms 131:10**
+
+[TODO]
+
+**Psalms 131:11**
+
+[TODO]
+
+**Psalms 131:12**
+
+[TODO]
+
+**Psalms 131:13**
+
+[TODO]
+
+**Psalms 131:14**
+
+[TODO]
+
+**Psalms 131:15**
+
+[TODO]
+
+**Psalms 131:16**
+
+[TODO]
+
+**Psalms 131:17**
+
+[TODO]
+
+**Psalms 131:18**
+
+[TODO]
+
+### Chapter 132
+
+**Psalms 132:1**
+
+[TODO]
+
+**Psalms 132:2**
+
+[TODO]
+
+**Psalms 132:3**
+
+[TODO]
+
+### Chapter 133
+
+**Psalms 133:1**
+
+[TODO]
+
+**Psalms 133:2**
+
+[TODO]
+
+**Psalms 133:3**
+
+[TODO]
+
+### Chapter 134
+
+**Psalms 134:1**
+
+[TODO]
+
+**Psalms 134:2**
+
+[TODO]
+
+**Psalms 134:3**
+
+[TODO]
+
+**Psalms 134:4**
+
+[TODO]
+
+**Psalms 134:5**
+
+[TODO]
+
+**Psalms 134:6**
+
+[TODO]
+
+**Psalms 134:7**
+
+[TODO]
+
+**Psalms 134:8**
+
+[TODO]
+
+**Psalms 134:9**
+
+[TODO]
+
+**Psalms 134:10**
+
+[TODO]
+
+**Psalms 134:11**
+
+[TODO]
+
+**Psalms 134:12**
+
+[TODO]
+
+**Psalms 134:13**
+
+[TODO]
+
+**Psalms 134:14**
+
+[TODO]
+
+**Psalms 134:15**
+
+[TODO]
+
+**Psalms 134:16**
+
+[TODO]
+
+**Psalms 134:17**
+
+[TODO]
+
+**Psalms 134:18**
+
+[TODO]
+
+**Psalms 134:19**
+
+[TODO]
+
+**Psalms 134:20**
+
+[TODO]
+
+**Psalms 134:21**
+
+[TODO]
+
+### Chapter 135
+
+**Psalms 135:1**
+
+[TODO]
+
+**Psalms 135:2**
+
+[TODO]
+
+**Psalms 135:3**
+
+[TODO]
+
+**Psalms 135:4**
+
+[TODO]
+
+**Psalms 135:5**
+
+[TODO]
+
+**Psalms 135:6**
+
+[TODO]
+
+**Psalms 135:7**
+
+[TODO]
+
+**Psalms 135:8**
+
+[TODO]
+
+**Psalms 135:9**
+
+[TODO]
+
+**Psalms 135:10**
+
+[TODO]
+
+**Psalms 135:11**
+
+[TODO]
+
+**Psalms 135:12**
+
+[TODO]
+
+**Psalms 135:13**
+
+[TODO]
+
+**Psalms 135:14**
+
+[TODO]
+
+**Psalms 135:15**
+
+[TODO]
+
+**Psalms 135:16**
+
+[TODO]
+
+**Psalms 135:17**
+
+[TODO]
+
+**Psalms 135:18**
+
+[TODO]
+
+**Psalms 135:19**
+
+[TODO]
+
+**Psalms 135:20**
+
+[TODO]
+
+**Psalms 135:21**
+
+[TODO]
+
+**Psalms 135:22**
+
+[TODO]
+
+**Psalms 135:23**
+
+[TODO]
+
+**Psalms 135:24**
+
+[TODO]
+
+**Psalms 135:25**
+
+[TODO]
+
+**Psalms 135:26**
+
+[TODO]
+
+### Chapter 136
+
+**Psalms 136:1**
+
+[TODO]
+
+**Psalms 136:2**
+
+[TODO]
+
+**Psalms 136:3**
+
+[TODO]
+
+**Psalms 136:4**
+
+[TODO]
+
+**Psalms 136:5**
+
+[TODO]
+
+**Psalms 136:6**
+
+[TODO]
+
+**Psalms 136:7**
+
+[TODO]
+
+**Psalms 136:8**
+
+[TODO]
+
+**Psalms 136:9**
+
+[TODO]
+
+### Chapter 137
+
+**Psalms 137:1**
+
+[TODO]
+
+**Psalms 137:2**
+
+[TODO]
+
+**Psalms 137:3**
+
+[TODO]
+
+**Psalms 137:4**
+
+[TODO]
+
+**Psalms 137:5**
+
+[TODO]
+
+**Psalms 137:6**
+
+[TODO]
+
+**Psalms 137:7**
+
+[TODO]
+
+**Psalms 137:8**
+
+[TODO]
+
+### Chapter 138
+
+**Psalms 138:1**
+
+[TODO]
+
+**Psalms 138:2**
+
+[TODO]
+
+**Psalms 138:3**
+
+[TODO]
+
+**Psalms 138:4**
+
+[TODO]
+
+**Psalms 138:5**
+
+[TODO]
+
+**Psalms 138:6**
+
+[TODO]
+
+**Psalms 138:7**
+
+[TODO]
+
+**Psalms 138:8**
+
+[TODO]
+
+**Psalms 138:9**
+
+[TODO]
+
+**Psalms 138:10**
+
+[TODO]
+
+**Psalms 138:11**
+
+[TODO]
+
+**Psalms 138:12**
+
+[TODO]
+
+**Psalms 138:13**
+
+[TODO]
+
+**Psalms 138:14**
+
+[TODO]
+
+**Psalms 138:15**
+
+[TODO]
+
+**Psalms 138:16**
+
+[TODO]
+
+**Psalms 138:17**
+
+[TODO]
+
+**Psalms 138:18**
+
+[TODO]
+
+**Psalms 138:19**
+
+[TODO]
+
+**Psalms 138:20**
+
+[TODO]
+
+**Psalms 138:21**
+
+[TODO]
+
+**Psalms 138:22**
+
+[TODO]
+
+**Psalms 138:23**
+
+[TODO]
+
+**Psalms 138:24**
+
+[TODO]
+
+### Chapter 139
+
+**Psalms 139:1**
+
+[TODO]
+
+**Psalms 139:2**
+
+[TODO]
+
+**Psalms 139:3**
+
+[TODO]
+
+**Psalms 139:4**
+
+[TODO]
+
+**Psalms 139:5**
+
+[TODO]
+
+**Psalms 139:6**
+
+[TODO]
+
+**Psalms 139:7**
+
+[TODO]
+
+**Psalms 139:8**
+
+[TODO]
+
+**Psalms 139:9**
+
+[TODO]
+
+**Psalms 139:10**
+
+[TODO]
+
+**Psalms 139:11**
+
+[TODO]
+
+**Psalms 139:12**
+
+[TODO]
+
+**Psalms 139:13**
+
+[TODO]
+
+**Psalms 139:14**
+
+[TODO]
+
+### Chapter 140
+
+**Psalms 140:1**
+
+[TODO]
+
+**Psalms 140:2**
+
+[TODO]
+
+**Psalms 140:3**
+
+[TODO]
+
+**Psalms 140:4**
+
+[TODO]
+
+**Psalms 140:5**
+
+[TODO]
+
+**Psalms 140:6**
+
+[TODO]
+
+**Psalms 140:7**
+
+[TODO]
+
+**Psalms 140:8**
+
+[TODO]
+
+**Psalms 140:9**
+
+[TODO]
+
+**Psalms 140:10**
+
+[TODO]
+
+### Chapter 141
+
+**Psalms 141:1**
+
+[TODO]
+
+**Psalms 141:2**
+
+[TODO]
+
+**Psalms 141:3**
+
+[TODO]
+
+**Psalms 141:4**
+
+[TODO]
+
+**Psalms 141:5**
+
+[TODO]
+
+**Psalms 141:6**
+
+[TODO]
+
+**Psalms 141:7**
+
+[TODO]
+
+**Psalms 141:8**
+
+[TODO]
+
+### Chapter 142
+
+**Psalms 142:1**
+
+[TODO]
+
+**Psalms 142:2**
+
+[TODO]
+
+**Psalms 142:3**
+
+[TODO]
+
+**Psalms 142:4**
+
+[TODO]
+
+**Psalms 142:5**
+
+[TODO]
+
+**Psalms 142:6**
+
+[TODO]
+
+**Psalms 142:7**
+
+[TODO]
+
+**Psalms 142:8**
+
+[TODO]
+
+**Psalms 142:9**
+
+[TODO]
+
+**Psalms 142:10**
+
+[TODO]
+
+**Psalms 142:11**
+
+[TODO]
+
+**Psalms 142:12**
+
+[TODO]
+
+### Chapter 143
+
+**Psalms 143:1**
+
+[TODO]
+
+**Psalms 143:2**
+
+[TODO]
+
+**Psalms 143:3**
+
+[TODO]
+
+**Psalms 143:4**
+
+[TODO]
+
+**Psalms 143:5**
+
+[TODO]
+
+**Psalms 143:6**
+
+[TODO]
+
+**Psalms 143:7**
+
+[TODO]
+
+**Psalms 143:8**
+
+[TODO]
+
+**Psalms 143:9**
+
+[TODO]
+
+**Psalms 143:10**
+
+[TODO]
+
+**Psalms 143:11**
+
+[TODO]
+
+**Psalms 143:12**
+
+[TODO]
+
+**Psalms 143:13**
+
+[TODO]
+
+**Psalms 143:14**
+
+[TODO]
+
+**Psalms 143:15**
+
+[TODO]
+
+### Chapter 144
+
+**Psalms 144:1**
+
+[TODO]
+
+**Psalms 144:2**
+
+[TODO]
+
+**Psalms 144:3**
+
+[TODO]
+
+**Psalms 144:4**
+
+[TODO]
+
+**Psalms 144:5**
+
+[TODO]
+
+**Psalms 144:6**
+
+[TODO]
+
+**Psalms 144:7**
+
+[TODO]
+
+**Psalms 144:8**
+
+[TODO]
+
+**Psalms 144:9**
+
+[TODO]
+
+**Psalms 144:10**
+
+[TODO]
+
+**Psalms 144:11**
+
+[TODO]
+
+**Psalms 144:12**
+
+[TODO]
+
+**Psalms 144:13**
+
+[TODO]
+
+**Psalms 144:14**
+
+[TODO]
+
+**Psalms 144:15**
+
+[TODO]
+
+**Psalms 144:16**
+
+[TODO]
+
+**Psalms 144:17**
+
+[TODO]
+
+**Psalms 144:18**
+
+[TODO]
+
+**Psalms 144:19**
+
+[TODO]
+
+**Psalms 144:20**
+
+[TODO]
+
+**Psalms 144:21**
+
+[TODO]
+
+### Chapter 145
+
+**Psalms 145:1**
+
+[TODO]
+
+**Psalms 145:2**
+
+[TODO]
+
+**Psalms 145:3**
+
+[TODO]
+
+**Psalms 145:4**
+
+[TODO]
+
+**Psalms 145:5**
+
+[TODO]
+
+**Psalms 145:6**
+
+[TODO]
+
+**Psalms 145:7**
+
+[TODO]
+
+**Psalms 145:8**
+
+[TODO]
+
+**Psalms 145:9**
+
+[TODO]
+
+**Psalms 145:10**
+
+[TODO]
+
+### Chapter 146
+
+**Psalms 146:1**
+
+[TODO]
+
+**Psalms 146:2**
+
+[TODO]
+
+**Psalms 146:3**
+
+[TODO]
+
+**Psalms 146:4**
+
+[TODO]
+
+**Psalms 146:5**
+
+[TODO]
+
+**Psalms 146:6**
+
+[TODO]
+
+**Psalms 146:7**
+
+[TODO]
+
+**Psalms 146:8**
+
+[TODO]
+
+**Psalms 146:9**
+
+[TODO]
+
+**Psalms 146:10**
+
+[TODO]
+
+**Psalms 146:11**
+
+[TODO]
+
+### Chapter 147
+
+**Psalms 147:1**
+
+[TODO]
+
+**Psalms 147:2**
+
+[TODO]
+
+**Psalms 147:3**
+
+[TODO]
+
+**Psalms 147:4**
+
+[TODO]
+
+**Psalms 147:5**
+
+[TODO]
+
+**Psalms 147:6**
+
+[TODO]
+
+**Psalms 147:7**
+
+[TODO]
+
+**Psalms 147:8**
+
+[TODO]
+
+**Psalms 147:9**
+
+[TODO]
+
+### Chapter 148
+
+**Psalms 148:1**
+
+[TODO]
+
+**Psalms 148:2**
+
+[TODO]
+
+**Psalms 148:3**
+
+[TODO]
+
+**Psalms 148:4**
+
+[TODO]
+
+**Psalms 148:5**
+
+[TODO]
+
+**Psalms 148:6**
+
+[TODO]
+
+**Psalms 148:7**
+
+[TODO]
+
+**Psalms 148:8**
+
+[TODO]
+
+**Psalms 148:9**
+
+[TODO]
+
+**Psalms 148:10**
+
+[TODO]
+
+**Psalms 148:11**
+
+[TODO]
+
+**Psalms 148:12**
+
+[TODO]
+
+**Psalms 148:13**
+
+[TODO]
+
+**Psalms 148:14**
+
+[TODO]
+
+### Chapter 149
+
+**Psalms 149:1**
+
+[TODO]
+
+**Psalms 149:2**
+
+[TODO]
+
+**Psalms 149:3**
+
+[TODO]
+
+**Psalms 149:4**
+
+[TODO]
+
+**Psalms 149:5**
+
+[TODO]
+
+**Psalms 149:6**
+
+[TODO]
+
+**Psalms 149:7**
+
+[TODO]
+
+**Psalms 149:8**
+
+[TODO]
+
+**Psalms 149:9**
+
+[TODO]
+
+### Chapter 150
+
+**Psalms 150:1**
+
+[TODO]
+
+**Psalms 150:2**
+
+[TODO]
+
+**Psalms 150:3**
+
+[TODO]
+
+**Psalms 150:4**
+
+[TODO]
+
+**Psalms 150:5**
+
+[TODO]
+
+**Psalms 150:6**
+
+[TODO]
+
+## Proverbs
+
+### Chapter 1
+
+**Proverbs 1:1**
+
+[TODO]
+
+**Proverbs 1:2**
+
+[TODO]
+
+**Proverbs 1:3**
+
+[TODO]
+
+**Proverbs 1:4**
+
+[TODO]
+
+**Proverbs 1:5**
+
+[TODO]
+
+**Proverbs 1:6**
+
+[TODO]
+
+**Proverbs 1:7**
+
+[TODO]
+
+**Proverbs 1:8**
+
+[TODO]
+
+**Proverbs 1:9**
+
+[TODO]
+
+**Proverbs 1:10**
+
+[TODO]
+
+**Proverbs 1:11**
+
+[TODO]
+
+**Proverbs 1:12**
+
+[TODO]
+
+**Proverbs 1:13**
+
+[TODO]
+
+**Proverbs 1:14**
+
+[TODO]
+
+**Proverbs 1:15**
+
+[TODO]
+
+**Proverbs 1:16**
+
+[TODO]
+
+**Proverbs 1:17**
+
+[TODO]
+
+**Proverbs 1:18**
+
+[TODO]
+
+**Proverbs 1:19**
+
+[TODO]
+
+**Proverbs 1:20**
+
+[TODO]
+
+**Proverbs 1:21**
+
+[TODO]
+
+**Proverbs 1:22**
+
+[TODO]
+
+**Proverbs 1:23**
+
+[TODO]
+
+**Proverbs 1:24**
+
+[TODO]
+
+**Proverbs 1:25**
+
+[TODO]
+
+**Proverbs 1:26**
+
+[TODO]
+
+**Proverbs 1:27**
+
+[TODO]
+
+**Proverbs 1:28**
+
+[TODO]
+
+**Proverbs 1:29**
+
+[TODO]
+
+**Proverbs 1:30**
+
+[TODO]
+
+**Proverbs 1:31**
+
+[TODO]
+
+**Proverbs 1:32**
+
+[TODO]
+
+**Proverbs 1:33**
+
+[TODO]
+
+### Chapter 2
+
+**Proverbs 2:1**
+
+[TODO]
+
+**Proverbs 2:2**
+
+[TODO]
+
+**Proverbs 2:3**
+
+[TODO]
+
+**Proverbs 2:4**
+
+[TODO]
+
+**Proverbs 2:5**
+
+[TODO]
+
+**Proverbs 2:6**
+
+[TODO]
+
+**Proverbs 2:7**
+
+[TODO]
+
+**Proverbs 2:8**
+
+[TODO]
+
+**Proverbs 2:9**
+
+[TODO]
+
+**Proverbs 2:10**
+
+[TODO]
+
+**Proverbs 2:11**
+
+[TODO]
+
+**Proverbs 2:12**
+
+[TODO]
+
+**Proverbs 2:13**
+
+[TODO]
+
+**Proverbs 2:14**
+
+[TODO]
+
+**Proverbs 2:15**
+
+[TODO]
+
+**Proverbs 2:16**
+
+[TODO]
+
+**Proverbs 2:17**
+
+[TODO]
+
+**Proverbs 2:18**
+
+[TODO]
+
+**Proverbs 2:19**
+
+[TODO]
+
+**Proverbs 2:20**
+
+[TODO]
+
+**Proverbs 2:21**
+
+[TODO]
+
+**Proverbs 2:22**
+
+[TODO]
+
+### Chapter 3
+
+**Proverbs 3:1**
+
+[TODO]
+
+**Proverbs 3:2**
+
+[TODO]
+
+**Proverbs 3:3**
+
+[TODO]
+
+**Proverbs 3:4**
+
+[TODO]
+
+**Proverbs 3:5**
+
+[TODO]
+
+**Proverbs 3:6**
+
+[TODO]
+
+**Proverbs 3:7**
+
+[TODO]
+
+**Proverbs 3:8**
+
+[TODO]
+
+**Proverbs 3:9**
+
+[TODO]
+
+**Proverbs 3:10**
+
+[TODO]
+
+**Proverbs 3:11**
+
+[TODO]
+
+**Proverbs 3:12**
+
+[TODO]
+
+**Proverbs 3:13**
+
+[TODO]
+
+**Proverbs 3:14**
+
+[TODO]
+
+**Proverbs 3:15**
+
+[TODO]
+
+**Proverbs 3:16**
+
+[TODO]
+
+**Proverbs 3:17**
+
+[TODO]
+
+**Proverbs 3:18**
+
+[TODO]
+
+**Proverbs 3:19**
+
+[TODO]
+
+**Proverbs 3:20**
+
+[TODO]
+
+**Proverbs 3:21**
+
+[TODO]
+
+**Proverbs 3:22**
+
+[TODO]
+
+**Proverbs 3:23**
+
+[TODO]
+
+**Proverbs 3:24**
+
+[TODO]
+
+**Proverbs 3:25**
+
+[TODO]
+
+**Proverbs 3:26**
+
+[TODO]
+
+**Proverbs 3:27**
+
+[TODO]
+
+**Proverbs 3:28**
+
+[TODO]
+
+**Proverbs 3:29**
+
+[TODO]
+
+**Proverbs 3:30**
+
+[TODO]
+
+**Proverbs 3:31**
+
+[TODO]
+
+**Proverbs 3:32**
+
+[TODO]
+
+**Proverbs 3:33**
+
+[TODO]
+
+**Proverbs 3:34**
+
+[TODO]
+
+**Proverbs 3:35**
+
+[TODO]
+
+### Chapter 4
+
+**Proverbs 4:1**
+
+[TODO]
+
+**Proverbs 4:2**
+
+[TODO]
+
+**Proverbs 4:3**
+
+[TODO]
+
+**Proverbs 4:4**
+
+[TODO]
+
+**Proverbs 4:5**
+
+[TODO]
+
+**Proverbs 4:6**
+
+[TODO]
+
+**Proverbs 4:8**
+
+[TODO]
+
+**Proverbs 4:9**
+
+[TODO]
+
+**Proverbs 4:10**
+
+[TODO]
+
+**Proverbs 4:11**
+
+[TODO]
+
+**Proverbs 4:12**
+
+[TODO]
+
+**Proverbs 4:13**
+
+[TODO]
+
+**Proverbs 4:14**
+
+[TODO]
+
+**Proverbs 4:15**
+
+[TODO]
+
+**Proverbs 4:16**
+
+[TODO]
+
+**Proverbs 4:17**
+
+[TODO]
+
+**Proverbs 4:18**
+
+[TODO]
+
+**Proverbs 4:19**
+
+[TODO]
+
+**Proverbs 4:20**
+
+[TODO]
+
+**Proverbs 4:21**
+
+[TODO]
+
+**Proverbs 4:22**
+
+[TODO]
+
+**Proverbs 4:23**
+
+[TODO]
+
+**Proverbs 4:24**
+
+[TODO]
+
+**Proverbs 4:25**
+
+[TODO]
+
+**Proverbs 4:26**
+
+[TODO]
+
+**Proverbs 4:27**
+
+[TODO]
+
+### Chapter 5
+
+**Proverbs 5:1**
+
+[TODO]
+
+**Proverbs 5:2**
+
+[TODO]
+
+**Proverbs 5:3**
+
+[TODO]
+
+**Proverbs 5:4**
+
+[TODO]
+
+**Proverbs 5:5**
+
+[TODO]
+
+**Proverbs 5:6**
+
+[TODO]
+
+**Proverbs 5:7**
+
+[TODO]
+
+**Proverbs 5:8**
+
+[TODO]
+
+**Proverbs 5:9**
+
+[TODO]
+
+**Proverbs 5:10**
+
+[TODO]
+
+**Proverbs 5:11**
+
+[TODO]
+
+**Proverbs 5:12**
+
+[TODO]
+
+**Proverbs 5:13**
+
+[TODO]
+
+**Proverbs 5:14**
+
+[TODO]
+
+**Proverbs 5:15**
+
+[TODO]
+
+**Proverbs 5:16**
+
+[TODO]
+
+**Proverbs 5:17**
+
+[TODO]
+
+**Proverbs 5:18**
+
+[TODO]
+
+**Proverbs 5:19**
+
+[TODO]
+
+**Proverbs 5:20**
+
+[TODO]
+
+**Proverbs 5:21**
+
+[TODO]
+
+**Proverbs 5:22**
+
+[TODO]
+
+**Proverbs 5:23**
+
+[TODO]
+
+### Chapter 6
+
+**Proverbs 6:1**
+
+[TODO]
+
+**Proverbs 6:2**
+
+[TODO]
+
+**Proverbs 6:3**
+
+[TODO]
+
+**Proverbs 6:4**
+
+[TODO]
+
+**Proverbs 6:5**
+
+[TODO]
+
+**Proverbs 6:6**
+
+[TODO]
+
+**Proverbs 6:7**
+
+[TODO]
+
+**Proverbs 6:8**
+
+[TODO]
+
+**Proverbs 6:9**
+
+[TODO]
+
+**Proverbs 6:10**
+
+[TODO]
+
+**Proverbs 6:11**
+
+[TODO]
+
+**Proverbs 6:12**
+
+[TODO]
+
+**Proverbs 6:13**
+
+[TODO]
+
+**Proverbs 6:14**
+
+[TODO]
+
+**Proverbs 6:15**
+
+[TODO]
+
+**Proverbs 6:16**
+
+[TODO]
+
+**Proverbs 6:17**
+
+[TODO]
+
+**Proverbs 6:18**
+
+[TODO]
+
+**Proverbs 6:19**
+
+[TODO]
+
+**Proverbs 6:20**
+
+[TODO]
+
+**Proverbs 6:21**
+
+[TODO]
+
+**Proverbs 6:22**
+
+[TODO]
+
+**Proverbs 6:23**
+
+[TODO]
+
+**Proverbs 6:24**
+
+[TODO]
+
+**Proverbs 6:25**
+
+[TODO]
+
+**Proverbs 6:26**
+
+[TODO]
+
+**Proverbs 6:27**
+
+[TODO]
+
+**Proverbs 6:28**
+
+[TODO]
+
+**Proverbs 6:29**
+
+[TODO]
+
+**Proverbs 6:30**
+
+[TODO]
+
+**Proverbs 6:31**
+
+[TODO]
+
+**Proverbs 6:32**
+
+[TODO]
+
+**Proverbs 6:33**
+
+[TODO]
+
+**Proverbs 6:34**
+
+[TODO]
+
+**Proverbs 6:35**
+
+[TODO]
+
+### Chapter 7
+
+**Proverbs 7:1**
+
+[TODO]
+
+**Proverbs 7:2**
+
+[TODO]
+
+**Proverbs 7:3**
+
+[TODO]
+
+**Proverbs 7:4**
+
+[TODO]
+
+**Proverbs 7:5**
+
+[TODO]
+
+**Proverbs 7:6**
+
+[TODO]
+
+**Proverbs 7:7**
+
+[TODO]
+
+**Proverbs 7:8**
+
+[TODO]
+
+**Proverbs 7:9**
+
+[TODO]
+
+**Proverbs 7:10**
+
+[TODO]
+
+**Proverbs 7:11**
+
+[TODO]
+
+**Proverbs 7:12**
+
+[TODO]
+
+**Proverbs 7:13**
+
+[TODO]
+
+**Proverbs 7:14**
+
+[TODO]
+
+**Proverbs 7:15**
+
+[TODO]
+
+**Proverbs 7:16**
+
+[TODO]
+
+**Proverbs 7:17**
+
+[TODO]
+
+**Proverbs 7:18**
+
+[TODO]
+
+**Proverbs 7:19**
+
+[TODO]
+
+**Proverbs 7:20**
+
+[TODO]
+
+**Proverbs 7:21**
+
+[TODO]
+
+**Proverbs 7:22**
+
+[TODO]
+
+**Proverbs 7:23**
+
+[TODO]
+
+**Proverbs 7:24**
+
+[TODO]
+
+**Proverbs 7:25**
+
+[TODO]
+
+**Proverbs 7:26**
+
+[TODO]
+
+**Proverbs 7:27**
+
+[TODO]
+
+### Chapter 8
+
+**Proverbs 8:1**
+
+[TODO]
+
+**Proverbs 8:2**
+
+[TODO]
+
+**Proverbs 8:3**
+
+[TODO]
+
+**Proverbs 8:4**
+
+[TODO]
+
+**Proverbs 8:5**
+
+[TODO]
+
+**Proverbs 8:6**
+
+[TODO]
+
+**Proverbs 8:7**
+
+[TODO]
+
+**Proverbs 8:8**
+
+[TODO]
+
+**Proverbs 8:9**
+
+[TODO]
+
+**Proverbs 8:10**
+
+[TODO]
+
+**Proverbs 8:11**
+
+[TODO]
+
+**Proverbs 8:12**
+
+[TODO]
+
+**Proverbs 8:13**
+
+[TODO]
+
+**Proverbs 8:14**
+
+[TODO]
+
+**Proverbs 8:15**
+
+[TODO]
+
+**Proverbs 8:16**
+
+[TODO]
+
+**Proverbs 8:17**
+
+[TODO]
+
+**Proverbs 8:18**
+
+[TODO]
+
+**Proverbs 8:19**
+
+[TODO]
+
+**Proverbs 8:20**
+
+[TODO]
+
+**Proverbs 8:21**
+
+[TODO]
+
+**Proverbs 8:22**
+
+[TODO]
+
+**Proverbs 8:23**
+
+[TODO]
+
+**Proverbs 8:24**
+
+[TODO]
+
+**Proverbs 8:25**
+
+[TODO]
+
+**Proverbs 8:26**
+
+[TODO]
+
+**Proverbs 8:27**
+
+[TODO]
+
+**Proverbs 8:28**
+
+[TODO]
+
+**Proverbs 8:29**
+
+[TODO]
+
+**Proverbs 8:30**
+
+[TODO]
+
+**Proverbs 8:31**
+
+[TODO]
+
+**Proverbs 8:32**
+
+[TODO]
+
+**Proverbs 8:34**
+
+[TODO]
+
+**Proverbs 8:35**
+
+[TODO]
+
+**Proverbs 8:36**
+
+[TODO]
+
+### Chapter 9
+
+**Proverbs 9:1**
+
+[TODO]
+
+**Proverbs 9:2**
+
+[TODO]
+
+**Proverbs 9:3**
+
+[TODO]
+
+**Proverbs 9:4**
+
+[TODO]
+
+**Proverbs 9:5**
+
+[TODO]
+
+**Proverbs 9:6**
+
+[TODO]
+
+**Proverbs 9:7**
+
+[TODO]
+
+**Proverbs 9:8**
+
+[TODO]
+
+**Proverbs 9:9**
+
+[TODO]
+
+**Proverbs 9:10**
+
+[TODO]
+
+**Proverbs 9:11**
+
+[TODO]
+
+**Proverbs 9:12**
+
+[TODO]
+
+**Proverbs 9:13**
+
+[TODO]
+
+**Proverbs 9:14**
+
+[TODO]
+
+**Proverbs 9:15**
+
+[TODO]
+
+**Proverbs 9:16**
+
+[TODO]
+
+**Proverbs 9:17**
+
+[TODO]
+
+**Proverbs 9:18**
+
+[TODO]
+
+### Chapter 10
+
+**Proverbs 10:1**
+
+[TODO]
+
+**Proverbs 10:2**
+
+[TODO]
+
+**Proverbs 10:3**
+
+[TODO]
+
+**Proverbs 10:4**
+
+[TODO]
+
+**Proverbs 10:5**
+
+[TODO]
+
+**Proverbs 10:6**
+
+[TODO]
+
+**Proverbs 10:7**
+
+[TODO]
+
+**Proverbs 10:8**
+
+[TODO]
+
+**Proverbs 10:9**
+
+[TODO]
+
+**Proverbs 10:10**
+
+[TODO]
+
+**Proverbs 10:11**
+
+[TODO]
+
+**Proverbs 10:12**
+
+[TODO]
+
+**Proverbs 10:13**
+
+[TODO]
+
+**Proverbs 10:14**
+
+[TODO]
+
+**Proverbs 10:15**
+
+[TODO]
+
+**Proverbs 10:16**
+
+[TODO]
+
+**Proverbs 10:17**
+
+[TODO]
+
+**Proverbs 10:18**
+
+[TODO]
+
+**Proverbs 10:19**
+
+[TODO]
+
+**Proverbs 10:20**
+
+[TODO]
+
+**Proverbs 10:21**
+
+[TODO]
+
+**Proverbs 10:22**
+
+[TODO]
+
+**Proverbs 10:23**
+
+[TODO]
+
+**Proverbs 10:24**
+
+[TODO]
+
+**Proverbs 10:25**
+
+[TODO]
+
+**Proverbs 10:26**
+
+[TODO]
+
+**Proverbs 10:27**
+
+[TODO]
+
+**Proverbs 10:28**
+
+[TODO]
+
+**Proverbs 10:29**
+
+[TODO]
+
+**Proverbs 10:30**
+
+[TODO]
+
+**Proverbs 10:31**
+
+[TODO]
+
+**Proverbs 10:32**
+
+[TODO]
+
+### Chapter 11
+
+**Proverbs 11:1**
+
+[TODO]
+
+**Proverbs 11:2**
+
+[TODO]
+
+**Proverbs 11:3**
+
+[TODO]
+
+**Proverbs 11:5**
+
+[TODO]
+
+**Proverbs 11:6**
+
+[TODO]
+
+**Proverbs 11:7**
+
+[TODO]
+
+**Proverbs 11:8**
+
+[TODO]
+
+**Proverbs 11:9**
+
+[TODO]
+
+**Proverbs 11:10**
+
+[TODO]
+
+**Proverbs 11:11**
+
+[TODO]
+
+**Proverbs 11:12**
+
+[TODO]
+
+**Proverbs 11:13**
+
+[TODO]
+
+**Proverbs 11:14**
+
+[TODO]
+
+**Proverbs 11:15**
+
+[TODO]
+
+**Proverbs 11:16**
+
+[TODO]
+
+**Proverbs 11:17**
+
+[TODO]
+
+**Proverbs 11:18**
+
+[TODO]
+
+**Proverbs 11:19**
+
+[TODO]
+
+**Proverbs 11:20**
+
+[TODO]
+
+**Proverbs 11:21**
+
+[TODO]
+
+**Proverbs 11:22**
+
+[TODO]
+
+**Proverbs 11:23**
+
+[TODO]
+
+**Proverbs 11:24**
+
+[TODO]
+
+**Proverbs 11:25**
+
+[TODO]
+
+**Proverbs 11:26**
+
+[TODO]
+
+**Proverbs 11:27**
+
+[TODO]
+
+**Proverbs 11:28**
+
+[TODO]
+
+**Proverbs 11:29**
+
+[TODO]
+
+**Proverbs 11:30**
+
+[TODO]
+
+**Proverbs 11:31**
+
+[TODO]
+
+### Chapter 12
+
+**Proverbs 12:1**
+
+[TODO]
+
+**Proverbs 12:2**
+
+[TODO]
+
+**Proverbs 12:3**
+
+[TODO]
+
+**Proverbs 12:4**
+
+[TODO]
+
+**Proverbs 12:5**
+
+[TODO]
+
+**Proverbs 12:6**
+
+[TODO]
+
+**Proverbs 12:7**
+
+[TODO]
+
+**Proverbs 12:8**
+
+[TODO]
+
+**Proverbs 12:9**
+
+[TODO]
+
+**Proverbs 12:10**
+
+[TODO]
+
+**Proverbs 12:11**
+
+[TODO]
+
+**Proverbs 12:12**
+
+[TODO]
+
+**Proverbs 12:13**
+
+[TODO]
+
+**Proverbs 12:14**
+
+[TODO]
+
+**Proverbs 12:15**
+
+[TODO]
+
+**Proverbs 12:16**
+
+[TODO]
+
+**Proverbs 12:17**
+
+[TODO]
+
+**Proverbs 12:18**
+
+[TODO]
+
+**Proverbs 12:19**
+
+[TODO]
+
+**Proverbs 12:20**
+
+[TODO]
+
+**Proverbs 12:21**
+
+[TODO]
+
+**Proverbs 12:22**
+
+[TODO]
+
+**Proverbs 12:23**
+
+[TODO]
+
+**Proverbs 12:24**
+
+[TODO]
+
+**Proverbs 12:25**
+
+[TODO]
+
+**Proverbs 12:26**
+
+[TODO]
+
+**Proverbs 12:27**
+
+[TODO]
+
+**Proverbs 12:28**
+
+[TODO]
+
+### Chapter 13
+
+**Proverbs 13:1**
+
+[TODO]
+
+**Proverbs 13:2**
+
+[TODO]
+
+**Proverbs 13:3**
+
+[TODO]
+
+**Proverbs 13:4**
+
+[TODO]
+
+**Proverbs 13:5**
+
+[TODO]
+
+**Proverbs 13:6**
+
+[TODO]
+
+**Proverbs 13:7**
+
+[TODO]
+
+**Proverbs 13:8**
+
+[TODO]
+
+**Proverbs 13:9**
+
+[TODO]
+
+**Proverbs 13:10**
+
+[TODO]
+
+**Proverbs 13:11**
+
+[TODO]
+
+**Proverbs 13:12**
+
+[TODO]
+
+**Proverbs 13:13**
+
+[TODO]
+
+**Proverbs 13:14**
+
+[TODO]
+
+**Proverbs 13:15**
+
+[TODO]
+
+**Proverbs 13:16**
+
+[TODO]
+
+**Proverbs 13:17**
+
+[TODO]
+
+**Proverbs 13:18**
+
+[TODO]
+
+**Proverbs 13:19**
+
+[TODO]
+
+**Proverbs 13:20**
+
+[TODO]
+
+**Proverbs 13:21**
+
+[TODO]
+
+**Proverbs 13:22**
+
+[TODO]
+
+**Proverbs 13:23**
+
+[TODO]
+
+**Proverbs 13:24**
+
+[TODO]
+
+**Proverbs 13:25**
+
+[TODO]
+
+### Chapter 14
+
+**Proverbs 14:1**
+
+[TODO]
+
+**Proverbs 14:2**
+
+[TODO]
+
+**Proverbs 14:3**
+
+[TODO]
+
+**Proverbs 14:4**
+
+[TODO]
+
+**Proverbs 14:5**
+
+[TODO]
+
+**Proverbs 14:6**
+
+[TODO]
+
+**Proverbs 14:7**
+
+[TODO]
+
+**Proverbs 14:8**
+
+[TODO]
+
+**Proverbs 14:9**
+
+[TODO]
+
+**Proverbs 14:10**
+
+[TODO]
+
+**Proverbs 14:11**
+
+[TODO]
+
+**Proverbs 14:12**
+
+[TODO]
+
+**Proverbs 14:13**
+
+[TODO]
+
+**Proverbs 14:14**
+
+[TODO]
+
+**Proverbs 14:15**
+
+[TODO]
+
+**Proverbs 14:16**
+
+[TODO]
+
+**Proverbs 14:17**
+
+[TODO]
+
+**Proverbs 14:18**
+
+[TODO]
+
+**Proverbs 14:19**
+
+[TODO]
+
+**Proverbs 14:20**
+
+[TODO]
+
+**Proverbs 14:21**
+
+[TODO]
+
+**Proverbs 14:22**
+
+[TODO]
+
+**Proverbs 14:23**
+
+[TODO]
+
+**Proverbs 14:24**
+
+[TODO]
+
+**Proverbs 14:25**
+
+[TODO]
+
+**Proverbs 14:26**
+
+[TODO]
+
+**Proverbs 14:27**
+
+[TODO]
+
+**Proverbs 14:28**
+
+[TODO]
+
+**Proverbs 14:29**
+
+[TODO]
+
+**Proverbs 14:30**
+
+[TODO]
+
+**Proverbs 14:31**
+
+[TODO]
+
+**Proverbs 14:32**
+
+[TODO]
+
+**Proverbs 14:33**
+
+[TODO]
+
+**Proverbs 14:34**
+
+[TODO]
+
+**Proverbs 14:35**
+
+[TODO]
+
+### Chapter 15
+
+**Proverbs 15:1**
+
+[TODO]
+
+**Proverbs 15:2**
+
+[TODO]
+
+**Proverbs 15:3**
+
+[TODO]
+
+**Proverbs 15:4**
+
+[TODO]
+
+**Proverbs 15:5**
+
+[TODO]
+
+**Proverbs 15:6**
+
+[TODO]
+
+**Proverbs 15:7**
+
+[TODO]
+
+**Proverbs 15:8**
+
+[TODO]
+
+**Proverbs 15:9**
+
+[TODO]
+
+**Proverbs 15:10**
+
+[TODO]
+
+**Proverbs 15:11**
+
+[TODO]
+
+**Proverbs 15:12**
+
+[TODO]
+
+**Proverbs 15:13**
+
+[TODO]
+
+**Proverbs 15:14**
+
+[TODO]
+
+**Proverbs 15:15**
+
+[TODO]
+
+**Proverbs 15:16**
+
+[TODO]
+
+**Proverbs 15:17**
+
+[TODO]
+
+**Proverbs 15:18**
+
+[TODO]
+
+**Proverbs 15:19**
+
+[TODO]
+
+**Proverbs 15:20**
+
+[TODO]
+
+**Proverbs 15:21**
+
+[TODO]
+
+**Proverbs 15:22**
+
+[TODO]
+
+**Proverbs 15:23**
+
+[TODO]
+
+**Proverbs 15:24**
+
+[TODO]
+
+**Proverbs 15:25**
+
+[TODO]
+
+**Proverbs 15:26**
+
+[TODO]
+
+**Proverbs 15:27**
+
+[TODO]
+
+**Proverbs 15:28**
+
+[TODO]
+
+**Proverbs 15:29**
+
+[TODO]
+
+**Proverbs 15:30**
+
+[TODO]
+
+**Proverbs 15:32**
+
+[TODO]
+
+**Proverbs 15:33**
+
+[TODO]
+
+### Chapter 16
+
+**Proverbs 16:2**
+
+[TODO]
+
+**Proverbs 16:5**
+
+[TODO]
+
+**Proverbs 16:7**
+
+[TODO]
+
+**Proverbs 16:8**
+
+[TODO]
+
+**Proverbs 16:9**
+
+[TODO]
+
+**Proverbs 16:10**
+
+[TODO]
+
+**Proverbs 16:11**
+
+[TODO]
+
+**Proverbs 16:12**
+
+[TODO]
+
+**Proverbs 16:13**
+
+[TODO]
+
+**Proverbs 16:14**
+
+[TODO]
+
+**Proverbs 16:15**
+
+[TODO]
+
+**Proverbs 16:16**
+
+[TODO]
+
+**Proverbs 16:17**
+
+[TODO]
+
+**Proverbs 16:18**
+
+[TODO]
+
+**Proverbs 16:19**
+
+[TODO]
+
+**Proverbs 16:20**
+
+[TODO]
+
+**Proverbs 16:21**
+
+[TODO]
+
+**Proverbs 16:22**
+
+[TODO]
+
+**Proverbs 16:23**
+
+[TODO]
+
+**Proverbs 16:24**
+
+[TODO]
+
+**Proverbs 16:25**
+
+[TODO]
+
+**Proverbs 16:26**
+
+[TODO]
+
+**Proverbs 16:27**
+
+[TODO]
+
+**Proverbs 16:28**
+
+[TODO]
+
+**Proverbs 16:29**
+
+[TODO]
+
+**Proverbs 16:30**
+
+[TODO]
+
+**Proverbs 16:31**
+
+[TODO]
+
+**Proverbs 16:32**
+
+[TODO]
+
+**Proverbs 16:33**
+
+[TODO]
+
+### Chapter 17
+
+**Proverbs 17:1**
+
+[TODO]
+
+**Proverbs 17:2**
+
+[TODO]
+
+**Proverbs 17:3**
+
+[TODO]
+
+**Proverbs 17:4**
+
+[TODO]
+
+**Proverbs 17:5**
+
+[TODO]
+
+**Proverbs 17:6**
+
+[TODO]
+
+**Proverbs 17:7**
+
+[TODO]
+
+**Proverbs 17:8**
+
+[TODO]
+
+**Proverbs 17:9**
+
+[TODO]
+
+**Proverbs 17:10**
+
+[TODO]
+
+**Proverbs 17:11**
+
+[TODO]
+
+**Proverbs 17:12**
+
+[TODO]
+
+**Proverbs 17:13**
+
+[TODO]
+
+**Proverbs 17:14**
+
+[TODO]
+
+**Proverbs 17:15**
+
+[TODO]
+
+**Proverbs 17:16**
+
+[TODO]
+
+**Proverbs 17:17**
+
+[TODO]
+
+**Proverbs 17:18**
+
+[TODO]
+
+**Proverbs 17:19**
+
+[TODO]
+
+**Proverbs 17:20**
+
+[TODO]
+
+**Proverbs 17:21**
+
+[TODO]
+
+**Proverbs 17:22**
+
+[TODO]
+
+**Proverbs 17:23**
+
+[TODO]
+
+**Proverbs 17:24**
+
+[TODO]
+
+**Proverbs 17:25**
+
+[TODO]
+
+**Proverbs 17:26**
+
+[TODO]
+
+**Proverbs 17:27**
+
+[TODO]
+
+**Proverbs 17:28**
+
+[TODO]
+
+### Chapter 18
+
+**Proverbs 18:1**
+
+[TODO]
+
+**Proverbs 18:2**
+
+[TODO]
+
+**Proverbs 18:3**
+
+[TODO]
+
+**Proverbs 18:4**
+
+[TODO]
+
+**Proverbs 18:5**
+
+[TODO]
+
+**Proverbs 18:6**
+
+[TODO]
+
+**Proverbs 18:7**
+
+[TODO]
+
+**Proverbs 18:8**
+
+[TODO]
+
+**Proverbs 18:9**
+
+[TODO]
+
+**Proverbs 18:10**
+
+[TODO]
+
+**Proverbs 18:11**
+
+[TODO]
+
+**Proverbs 18:12**
+
+[TODO]
+
+**Proverbs 18:13**
+
+[TODO]
+
+**Proverbs 18:14**
+
+[TODO]
+
+**Proverbs 18:15**
+
+[TODO]
+
+**Proverbs 18:16**
+
+[TODO]
+
+**Proverbs 18:17**
+
+[TODO]
+
+**Proverbs 18:18**
+
+[TODO]
+
+**Proverbs 18:19**
+
+[TODO]
+
+**Proverbs 18:20**
+
+[TODO]
+
+**Proverbs 18:21**
+
+[TODO]
+
+**Proverbs 18:22**
+
+[TODO]
+
+### Chapter 19
+
+**Proverbs 19:3**
+
+[TODO]
+
+**Proverbs 19:4**
+
+[TODO]
+
+**Proverbs 19:5**
+
+[TODO]
+
+**Proverbs 19:6**
+
+[TODO]
+
+**Proverbs 19:7**
+
+[TODO]
+
+**Proverbs 19:8**
+
+[TODO]
+
+**Proverbs 19:9**
+
+[TODO]
+
+**Proverbs 19:10**
+
+[TODO]
+
+**Proverbs 19:11**
+
+[TODO]
+
+**Proverbs 19:12**
+
+[TODO]
+
+**Proverbs 19:13**
+
+[TODO]
+
+**Proverbs 19:14**
+
+[TODO]
+
+**Proverbs 19:15**
+
+[TODO]
+
+**Proverbs 19:16**
+
+[TODO]
+
+**Proverbs 19:17**
+
+[TODO]
+
+**Proverbs 19:18**
+
+[TODO]
+
+**Proverbs 19:19**
+
+[TODO]
+
+**Proverbs 19:20**
+
+[TODO]
+
+**Proverbs 19:21**
+
+[TODO]
+
+**Proverbs 19:22**
+
+[TODO]
+
+**Proverbs 19:23**
+
+[TODO]
+
+**Proverbs 19:24**
+
+[TODO]
+
+**Proverbs 19:25**
+
+[TODO]
+
+**Proverbs 19:26**
+
+[TODO]
+
+**Proverbs 19:27**
+
+[TODO]
+
+**Proverbs 19:28**
+
+[TODO]
+
+**Proverbs 19:29**
+
+[TODO]
+
+### Chapter 20
+
+**Proverbs 20:1**
+
+[TODO]
+
+**Proverbs 20:2**
+
+[TODO]
+
+**Proverbs 20:3**
+
+[TODO]
+
+**Proverbs 20:4**
+
+[TODO]
+
+**Proverbs 20:5**
+
+[TODO]
+
+**Proverbs 20:6**
+
+[TODO]
+
+**Proverbs 20:7**
+
+[TODO]
+
+**Proverbs 20:8**
+
+[TODO]
+
+**Proverbs 20:9**
+
+[TODO]
+
+**Proverbs 20:10**
+
+[TODO]
+
+**Proverbs 20:11**
+
+[TODO]
+
+**Proverbs 20:12**
+
+[TODO]
+
+**Proverbs 20:13**
+
+[TODO]
+
+**Proverbs 20:23**
+
+[TODO]
+
+**Proverbs 20:24**
+
+[TODO]
+
+**Proverbs 20:25**
+
+[TODO]
+
+**Proverbs 20:26**
+
+[TODO]
+
+**Proverbs 20:27**
+
+[TODO]
+
+**Proverbs 20:28**
+
+[TODO]
+
+**Proverbs 20:29**
+
+[TODO]
+
+**Proverbs 20:30**
+
+[TODO]
+
+### Chapter 21
+
+**Proverbs 21:1**
+
+[TODO]
+
+**Proverbs 21:2**
+
+[TODO]
+
+**Proverbs 21:3**
+
+[TODO]
+
+**Proverbs 21:4**
+
+[TODO]
+
+**Proverbs 21:6**
+
+[TODO]
+
+**Proverbs 21:7**
+
+[TODO]
+
+**Proverbs 21:8**
+
+[TODO]
+
+**Proverbs 21:9**
+
+[TODO]
+
+**Proverbs 21:10**
+
+[TODO]
+
+**Proverbs 21:11**
+
+[TODO]
+
+**Proverbs 21:12**
+
+[TODO]
+
+**Proverbs 21:13**
+
+[TODO]
+
+**Proverbs 21:14**
+
+[TODO]
+
+**Proverbs 21:15**
+
+[TODO]
+
+**Proverbs 21:16**
+
+[TODO]
+
+**Proverbs 21:17**
+
+[TODO]
+
+**Proverbs 21:18**
+
+[TODO]
+
+**Proverbs 21:19**
+
+[TODO]
+
+**Proverbs 21:20**
+
+[TODO]
+
+**Proverbs 21:21**
+
+[TODO]
+
+**Proverbs 21:22**
+
+[TODO]
+
+**Proverbs 21:23**
+
+[TODO]
+
+**Proverbs 21:24**
+
+[TODO]
+
+**Proverbs 21:25**
+
+[TODO]
+
+**Proverbs 21:26**
+
+[TODO]
+
+**Proverbs 21:27**
+
+[TODO]
+
+**Proverbs 21:28**
+
+[TODO]
+
+**Proverbs 21:29**
+
+[TODO]
+
+**Proverbs 21:30**
+
+[TODO]
+
+**Proverbs 21:31**
+
+[TODO]
+
+### Chapter 22
+
+**Proverbs 22:1**
+
+[TODO]
+
+**Proverbs 22:2**
+
+[TODO]
+
+**Proverbs 22:3**
+
+[TODO]
+
+**Proverbs 22:4**
+
+[TODO]
+
+**Proverbs 22:5**
+
+[TODO]
+
+**Proverbs 22:7**
+
+[TODO]
+
+**Proverbs 22:8**
+
+[TODO]
+
+**Proverbs 22:9**
+
+[TODO]
+
+**Proverbs 22:10**
+
+[TODO]
+
+**Proverbs 22:11**
+
+[TODO]
+
+**Proverbs 22:12**
+
+[TODO]
+
+**Proverbs 22:13**
+
+[TODO]
+
+**Proverbs 22:14**
+
+[TODO]
+
+**Proverbs 22:15**
+
+[TODO]
+
+**Proverbs 22:16**
+
+[TODO]
+
+**Proverbs 22:17**
+
+[TODO]
+
+**Proverbs 22:18**
+
+[TODO]
+
+**Proverbs 22:19**
+
+[TODO]
+
+**Proverbs 22:20**
+
+[TODO]
+
+**Proverbs 22:21**
+
+[TODO]
+
+**Proverbs 22:22**
+
+[TODO]
+
+**Proverbs 22:23**
+
+[TODO]
+
+**Proverbs 22:24**
+
+[TODO]
+
+**Proverbs 22:25**
+
+[TODO]
+
+**Proverbs 22:26**
+
+[TODO]
+
+**Proverbs 22:27**
+
+[TODO]
+
+**Proverbs 22:28**
+
+[TODO]
+
+**Proverbs 22:29**
+
+[TODO]
+
+### Chapter 23
+
+**Proverbs 23:1**
+
+[TODO]
+
+**Proverbs 23:2**
+
+[TODO]
+
+**Proverbs 23:3**
+
+[TODO]
+
+**Proverbs 23:4**
+
+[TODO]
+
+**Proverbs 23:5**
+
+[TODO]
+
+**Proverbs 23:6**
+
+[TODO]
+
+**Proverbs 23:7**
+
+[TODO]
+
+**Proverbs 23:8**
+
+[TODO]
+
+**Proverbs 23:9**
+
+[TODO]
+
+**Proverbs 23:10**
+
+[TODO]
+
+**Proverbs 23:11**
+
+[TODO]
+
+**Proverbs 23:12**
+
+[TODO]
+
+**Proverbs 23:13**
+
+[TODO]
+
+**Proverbs 23:14**
+
+[TODO]
+
+**Proverbs 23:15**
+
+[TODO]
+
+**Proverbs 23:16**
+
+[TODO]
+
+**Proverbs 23:17**
+
+[TODO]
+
+**Proverbs 23:18**
+
+[TODO]
+
+**Proverbs 23:19**
+
+[TODO]
+
+**Proverbs 23:20**
+
+[TODO]
+
+**Proverbs 23:21**
+
+[TODO]
+
+**Proverbs 23:22**
+
+[TODO]
+
+**Proverbs 23:24**
+
+[TODO]
+
+**Proverbs 23:25**
+
+[TODO]
+
+**Proverbs 23:26**
+
+[TODO]
+
+**Proverbs 23:27**
+
+[TODO]
+
+**Proverbs 23:28**
+
+[TODO]
+
+**Proverbs 23:29**
+
+[TODO]
+
+**Proverbs 23:30**
+
+[TODO]
+
+**Proverbs 23:31**
+
+[TODO]
+
+**Proverbs 23:32**
+
+[TODO]
+
+**Proverbs 23:33**
+
+[TODO]
+
+**Proverbs 23:34**
+
+[TODO]
+
+**Proverbs 23:35**
+
+[TODO]
+
+### Chapter 24
+
+**Proverbs 24:1**
+
+[TODO]
+
+**Proverbs 24:2**
+
+[TODO]
+
+**Proverbs 24:3**
+
+[TODO]
+
+**Proverbs 24:4**
+
+[TODO]
+
+**Proverbs 24:5**
+
+[TODO]
+
+**Proverbs 24:6**
+
+[TODO]
+
+**Proverbs 24:7**
+
+[TODO]
+
+**Proverbs 24:8**
+
+[TODO]
+
+**Proverbs 24:9**
+
+[TODO]
+
+**Proverbs 24:10**
+
+[TODO]
+
+**Proverbs 24:11**
+
+[TODO]
+
+**Proverbs 24:12**
+
+[TODO]
+
+**Proverbs 24:13**
+
+[TODO]
+
+**Proverbs 24:14**
+
+[TODO]
+
+**Proverbs 24:15**
+
+[TODO]
+
+**Proverbs 24:16**
+
+[TODO]
+
+**Proverbs 24:17**
+
+[TODO]
+
+**Proverbs 24:18**
+
+[TODO]
+
+**Proverbs 24:19**
+
+[TODO]
+
+**Proverbs 24:20**
+
+[TODO]
+
+**Proverbs 24:21**
+
+[TODO]
+
+**Proverbs 24:22**
+
+[TODO]
+
+**Proverbs 24:23**
+
+[TODO]
+
+**Proverbs 24:24**
+
+[TODO]
+
+**Proverbs 24:25**
+
+[TODO]
+
+**Proverbs 24:26**
+
+[TODO]
+
+**Proverbs 24:27**
+
+[TODO]
+
+**Proverbs 24:28**
+
+[TODO]
+
+**Proverbs 24:29**
+
+[TODO]
+
+**Proverbs 24:30**
+
+[TODO]
+
+**Proverbs 24:31**
+
+[TODO]
+
+**Proverbs 24:32**
+
+[TODO]
+
+**Proverbs 24:33**
+
+[TODO]
+
+**Proverbs 24:34**
+
+[TODO]
+
+### Chapter 25
+
+**Proverbs 25:1**
+
+[TODO]
+
+**Proverbs 25:2**
+
+[TODO]
+
+**Proverbs 25:3**
+
+[TODO]
+
+**Proverbs 25:4**
+
+[TODO]
+
+**Proverbs 25:5**
+
+[TODO]
+
+**Proverbs 25:6**
+
+[TODO]
+
+**Proverbs 25:7**
+
+[TODO]
+
+**Proverbs 25:8**
+
+[TODO]
+
+**Proverbs 25:9**
+
+[TODO]
+
+**Proverbs 25:10**
+
+[TODO]
+
+**Proverbs 25:11**
+
+[TODO]
+
+**Proverbs 25:12**
+
+[TODO]
+
+**Proverbs 25:13**
+
+[TODO]
+
+**Proverbs 25:14**
+
+[TODO]
+
+**Proverbs 25:15**
+
+[TODO]
+
+**Proverbs 25:16**
+
+[TODO]
+
+**Proverbs 25:17**
+
+[TODO]
+
+**Proverbs 25:18**
+
+[TODO]
+
+**Proverbs 25:19**
+
+[TODO]
+
+**Proverbs 25:20**
+
+[TODO]
+
+**Proverbs 25:21**
+
+[TODO]
+
+**Proverbs 25:22**
+
+[TODO]
+
+**Proverbs 25:23**
+
+[TODO]
+
+**Proverbs 25:24**
+
+[TODO]
+
+**Proverbs 25:25**
+
+[TODO]
+
+**Proverbs 25:26**
+
+[TODO]
+
+**Proverbs 25:27**
+
+[TODO]
+
+**Proverbs 25:28**
+
+[TODO]
+
+### Chapter 26
+
+**Proverbs 26:1**
+
+[TODO]
+
+**Proverbs 26:2**
+
+[TODO]
+
+**Proverbs 26:3**
+
+[TODO]
+
+**Proverbs 26:4**
+
+[TODO]
+
+**Proverbs 26:5**
+
+[TODO]
+
+**Proverbs 26:6**
+
+[TODO]
+
+**Proverbs 26:7**
+
+[TODO]
+
+**Proverbs 26:8**
+
+[TODO]
+
+**Proverbs 26:9**
+
+[TODO]
+
+**Proverbs 26:10**
+
+[TODO]
+
+**Proverbs 26:11**
+
+[TODO]
+
+**Proverbs 26:12**
+
+[TODO]
+
+**Proverbs 26:13**
+
+[TODO]
+
+**Proverbs 26:14**
+
+[TODO]
+
+**Proverbs 26:15**
+
+[TODO]
+
+**Proverbs 26:16**
+
+[TODO]
+
+**Proverbs 26:17**
+
+[TODO]
+
+**Proverbs 26:18**
+
+[TODO]
+
+**Proverbs 26:19**
+
+[TODO]
+
+**Proverbs 26:20**
+
+[TODO]
+
+**Proverbs 26:21**
+
+[TODO]
+
+**Proverbs 26:22**
+
+[TODO]
+
+**Proverbs 26:23**
+
+[TODO]
+
+**Proverbs 26:24**
+
+[TODO]
+
+**Proverbs 26:25**
+
+[TODO]
+
+**Proverbs 26:26**
+
+[TODO]
+
+**Proverbs 26:27**
+
+[TODO]
+
+**Proverbs 26:28**
+
+[TODO]
+
+### Chapter 27
+
+**Proverbs 27:1**
+
+[TODO]
+
+**Proverbs 27:2**
+
+[TODO]
+
+**Proverbs 27:3**
+
+[TODO]
+
+**Proverbs 27:4**
+
+[TODO]
+
+**Proverbs 27:5**
+
+[TODO]
+
+**Proverbs 27:6**
+
+[TODO]
+
+**Proverbs 27:7**
+
+[TODO]
+
+**Proverbs 27:8**
+
+[TODO]
+
+**Proverbs 27:9**
+
+[TODO]
+
+**Proverbs 27:10**
+
+[TODO]
+
+**Proverbs 27:11**
+
+[TODO]
+
+**Proverbs 27:12**
+
+[TODO]
+
+**Proverbs 27:13**
+
+[TODO]
+
+**Proverbs 27:14**
+
+[TODO]
+
+**Proverbs 27:15**
+
+[TODO]
+
+**Proverbs 27:16**
+
+[TODO]
+
+**Proverbs 27:17**
+
+[TODO]
+
+**Proverbs 27:18**
+
+[TODO]
+
+**Proverbs 27:19**
+
+[TODO]
+
+**Proverbs 27:20**
+
+[TODO]
+
+**Proverbs 27:21**
+
+[TODO]
+
+**Proverbs 27:22**
+
+[TODO]
+
+**Proverbs 27:23**
+
+[TODO]
+
+**Proverbs 27:24**
+
+[TODO]
+
+**Proverbs 27:25**
+
+[TODO]
+
+**Proverbs 27:26**
+
+[TODO]
+
+**Proverbs 27:27**
+
+[TODO]
+
+### Chapter 28
+
+**Proverbs 28:1**
+
+[TODO]
+
+**Proverbs 28:2**
+
+[TODO]
+
+**Proverbs 28:3**
+
+[TODO]
+
+**Proverbs 28:4**
+
+[TODO]
+
+**Proverbs 28:5**
+
+[TODO]
+
+**Proverbs 28:6**
+
+[TODO]
+
+**Proverbs 28:7**
+
+[TODO]
+
+**Proverbs 28:8**
+
+[TODO]
+
+**Proverbs 28:9**
+
+[TODO]
+
+**Proverbs 28:10**
+
+[TODO]
+
+**Proverbs 28:11**
+
+[TODO]
+
+**Proverbs 28:12**
+
+[TODO]
+
+**Proverbs 28:13**
+
+[TODO]
+
+**Proverbs 28:14**
+
+[TODO]
+
+**Proverbs 28:15**
+
+[TODO]
+
+**Proverbs 28:16**
+
+[TODO]
+
+**Proverbs 28:17**
+
+[TODO]
+
+**Proverbs 28:18**
+
+[TODO]
+
+**Proverbs 28:19**
+
+[TODO]
+
+**Proverbs 28:20**
+
+[TODO]
+
+**Proverbs 28:21**
+
+[TODO]
+
+**Proverbs 28:22**
+
+[TODO]
+
+**Proverbs 28:23**
+
+[TODO]
+
+**Proverbs 28:24**
+
+[TODO]
+
+**Proverbs 28:25**
+
+[TODO]
+
+**Proverbs 28:26**
+
+[TODO]
+
+**Proverbs 28:27**
+
+[TODO]
+
+**Proverbs 28:28**
+
+[TODO]
+
+### Chapter 29
+
+**Proverbs 29:1**
+
+[TODO]
+
+**Proverbs 29:2**
+
+[TODO]
+
+**Proverbs 29:3**
+
+[TODO]
+
+**Proverbs 29:4**
+
+[TODO]
+
+**Proverbs 29:5**
+
+[TODO]
+
+**Proverbs 29:6**
+
+[TODO]
+
+**Proverbs 29:7**
+
+[TODO]
+
+**Proverbs 29:8**
+
+[TODO]
+
+**Proverbs 29:9**
+
+[TODO]
+
+**Proverbs 29:10**
+
+[TODO]
+
+**Proverbs 29:11**
+
+[TODO]
+
+**Proverbs 29:12**
+
+[TODO]
+
+**Proverbs 29:13**
+
+[TODO]
+
+**Proverbs 29:14**
+
+[TODO]
+
+**Proverbs 29:15**
+
+[TODO]
+
+**Proverbs 29:16**
+
+[TODO]
+
+**Proverbs 29:17**
+
+[TODO]
+
+**Proverbs 29:18**
+
+[TODO]
+
+**Proverbs 29:19**
+
+[TODO]
+
+**Proverbs 29:20**
+
+[TODO]
+
+**Proverbs 29:21**
+
+[TODO]
+
+**Proverbs 29:22**
+
+[TODO]
+
+**Proverbs 29:23**
+
+[TODO]
+
+**Proverbs 29:24**
+
+[TODO]
+
+**Proverbs 29:25**
+
+[TODO]
+
+**Proverbs 29:26**
+
+[TODO]
+
+**Proverbs 29:27**
+
+[TODO]
+
+**Proverbs 29:11**
+
+[TODO]
+
+**Proverbs 29:12**
+
+[TODO]
+
+**Proverbs 29:13**
+
+[TODO]
+
+**Proverbs 29:14**
+
+[TODO]
+
+**Proverbs 29:15**
+
+[TODO]
+
+**Proverbs 29:16**
+
+[TODO]
+
+**Proverbs 29:17**
+
+[TODO]
+
+**Proverbs 29:18**
+
+[TODO]
+
+**Proverbs 29:19**
+
+[TODO]
+
+**Proverbs 29:20**
+
+[TODO]
+
+**Proverbs 29:21**
+
+[TODO]
+
+**Proverbs 29:22**
+
+[TODO]
+
+**Proverbs 29:23**
+
+[TODO]
+
+**Proverbs 29:24**
+
+[TODO]
+
+**Proverbs 29:25**
+
+[TODO]
+
+**Proverbs 29:26**
+
+[TODO]
+
+**Proverbs 29:27**
+
+[TODO]
+
+**Proverbs 29:28**
+
+[TODO]
+
+**Proverbs 29:29**
+
+[TODO]
+
+**Proverbs 29:30**
+
+[TODO]
+
+**Proverbs 29:31**
+
+[TODO]
+
+### Chapter 30
+
+**Proverbs 30:1**
+
+[TODO]
+
+**Proverbs 30:2**
+
+[TODO]
+
+**Proverbs 30:3**
+
+[TODO]
+
+**Proverbs 30:4**
+
+[TODO]
+
+**Proverbs 30:5**
+
+[TODO]
+
+**Proverbs 30:6**
+
+[TODO]
+
+**Proverbs 30:7**
+
+[TODO]
+
+**Proverbs 30:8**
+
+[TODO]
+
+**Proverbs 30:9**
+
+[TODO]
+
+**Proverbs 30:10**
+
+[TODO]
+
+**Proverbs 30:11**
+
+[TODO]
+
+**Proverbs 30:12**
+
+[TODO]
+
+**Proverbs 30:13**
+
+[TODO]
+
+**Proverbs 30:14**
+
+[TODO]
+
+**Proverbs 30:15**
+
+[TODO]
+
+**Proverbs 30:16**
+
+[TODO]
+
+**Proverbs 30:17**
+
+[TODO]
+
+**Proverbs 30:18**
+
+[TODO]
+
+**Proverbs 30:19**
+
+[TODO]
+
+**Proverbs 30:20**
+
+[TODO]
+
+**Proverbs 30:21**
+
+[TODO]
+
+**Proverbs 30:22**
+
+[TODO]
+
+**Proverbs 30:23**
+
+[TODO]
+
+**Proverbs 30:24**
+
+[TODO]
+
+**Proverbs 30:25**
+
+[TODO]
+
+**Proverbs 30:26**
+
+[TODO]
+
+**Proverbs 30:27**
+
+[TODO]
+
+**Proverbs 30:28**
+
+[TODO]
+
+**Proverbs 30:29**
+
+[TODO]
+
+**Proverbs 30:30**
+
+[TODO]
+
+**Proverbs 30:31**
+
+[TODO]
+
+**Proverbs 30:32**
+
+[TODO]
+
+**Proverbs 30:33**
+
+[TODO]
+
+### Chapter 31
+
+**Proverbs 31:1**
+
+[TODO]
+
+**Proverbs 31:2**
+
+[TODO]
+
+**Proverbs 31:3**
+
+[TODO]
+
+**Proverbs 31:4**
+
+[TODO]
+
+**Proverbs 31:5**
+
+[TODO]
+
+**Proverbs 31:6**
+
+[TODO]
+
+**Proverbs 31:7**
+
+[TODO]
+
+**Proverbs 31:8**
+
+[TODO]
+
+**Proverbs 31:9**
+
+[TODO]
+
+**Proverbs 31:10**
+
+[TODO]
+
+**Proverbs 31:11**
+
+[TODO]
+
+**Proverbs 31:12**
+
+[TODO]
+
+**Proverbs 31:13**
+
+[TODO]
+
+**Proverbs 31:14**
+
+[TODO]
+
+**Proverbs 31:15**
+
+[TODO]
+
+**Proverbs 31:16**
+
+[TODO]
+
+**Proverbs 31:17**
+
+[TODO]
+
+**Proverbs 31:18**
+
+[TODO]
+
+**Proverbs 31:19**
+
+[TODO]
+
+**Proverbs 31:20**
+
+[TODO]
+
+**Proverbs 31:21**
+
+[TODO]
+
+**Proverbs 31:22**
+
+[TODO]
+
+**Proverbs 31:23**
+
+[TODO]
+
+**Proverbs 31:24**
+
+[TODO]
+
+**Proverbs 31:25**
+
+[TODO]
+
+**Proverbs 31:26**
+
+[TODO]
+
+**Proverbs 31:27**
+
+[TODO]
+
+**Proverbs 31:28**
+
+[TODO]
+
+**Proverbs 31:29**
+
+[TODO]
+
+**Proverbs 31:30**
+
+[TODO]
+
+**Proverbs 31:31**
+
+[TODO]
+
+## Ecclesiastes
+
+### Chapter 1
+
+**Ecclesiastes 1:1**
+
+[TODO]
+
+**Ecclesiastes 1:2**
+
+[TODO]
+
+**Ecclesiastes 1:3**
+
+[TODO]
+
+**Ecclesiastes 1:4**
+
+[TODO]
+
+**Ecclesiastes 1:5**
+
+[TODO]
+
+**Ecclesiastes 1:6**
+
+[TODO]
+
+**Ecclesiastes 1:7**
+
+[TODO]
+
+**Ecclesiastes 1:8**
+
+[TODO]
+
+**Ecclesiastes 1:9**
+
+[TODO]
+
+**Ecclesiastes 1:10**
+
+[TODO]
+
+**Ecclesiastes 1:11**
+
+[TODO]
+
+**Ecclesiastes 1:12**
+
+[TODO]
+
+**Ecclesiastes 1:13**
+
+[TODO]
+
+**Ecclesiastes 1:14**
+
+[TODO]
+
+**Ecclesiastes 1:15**
+
+[TODO]
+
+**Ecclesiastes 1:16**
+
+[TODO]
+
+**Ecclesiastes 1:17**
+
+[TODO]
+
+**Ecclesiastes 1:18**
+
+[TODO]
+
+### Chapter 2
+
+**Ecclesiastes 2:1**
+
+[TODO]
+
+**Ecclesiastes 2:2**
+
+[TODO]
+
+**Ecclesiastes 2:3**
+
+[TODO]
+
+**Ecclesiastes 2:4**
+
+[TODO]
+
+**Ecclesiastes 2:5**
+
+[TODO]
+
+**Ecclesiastes 2:6**
+
+[TODO]
+
+**Ecclesiastes 2:7**
+
+[TODO]
+
+**Ecclesiastes 2:8**
+
+[TODO]
+
+**Ecclesiastes 2:9**
+
+[TODO]
+
+**Ecclesiastes 2:10**
+
+[TODO]
+
+**Ecclesiastes 2:11**
+
+[TODO]
+
+**Ecclesiastes 2:12**
+
+[TODO]
+
+**Ecclesiastes 2:13**
+
+[TODO]
+
+**Ecclesiastes 2:14**
+
+[TODO]
+
+**Ecclesiastes 2:15**
+
+[TODO]
+
+**Ecclesiastes 2:16**
+
+[TODO]
+
+**Ecclesiastes 2:17**
+
+[TODO]
+
+**Ecclesiastes 2:18**
+
+[TODO]
+
+**Ecclesiastes 2:19**
+
+[TODO]
+
+**Ecclesiastes 2:20**
+
+[TODO]
+
+**Ecclesiastes 2:21**
+
+[TODO]
+
+**Ecclesiastes 2:22**
+
+[TODO]
+
+**Ecclesiastes 2:23**
+
+[TODO]
+
+**Ecclesiastes 2:24**
+
+[TODO]
+
+**Ecclesiastes 2:25**
+
+[TODO]
+
+**Ecclesiastes 2:26**
+
+[TODO]
+
+### Chapter 3
+
+**Ecclesiastes 3:1**
+
+[TODO]
+
+**Ecclesiastes 3:2**
+
+[TODO]
+
+**Ecclesiastes 3:3**
+
+[TODO]
+
+**Ecclesiastes 3:4**
+
+[TODO]
+
+**Ecclesiastes 3:5**
+
+[TODO]
+
+**Ecclesiastes 3:6**
+
+[TODO]
+
+**Ecclesiastes 3:7**
+
+[TODO]
+
+**Ecclesiastes 3:8**
+
+[TODO]
+
+**Ecclesiastes 3:9**
+
+[TODO]
+
+**Ecclesiastes 3:10**
+
+[TODO]
+
+**Ecclesiastes 3:11**
+
+[TODO]
+
+**Ecclesiastes 3:12**
+
+[TODO]
+
+**Ecclesiastes 3:13**
+
+[TODO]
+
+**Ecclesiastes 3:14**
+
+[TODO]
+
+**Ecclesiastes 3:15**
+
+[TODO]
+
+**Ecclesiastes 3:16**
+
+[TODO]
+
+**Ecclesiastes 3:17**
+
+[TODO]
+
+**Ecclesiastes 3:18**
+
+[TODO]
+
+**Ecclesiastes 3:19**
+
+[TODO]
+
+**Ecclesiastes 3:20**
+
+[TODO]
+
+**Ecclesiastes 3:21**
+
+[TODO]
+
+**Ecclesiastes 3:22**
+
+[TODO]
+
+### Chapter 4
+
+**Ecclesiastes 4:1**
+
+[TODO]
+
+**Ecclesiastes 4:2**
+
+[TODO]
+
+**Ecclesiastes 4:3**
+
+[TODO]
+
+**Ecclesiastes 4:4**
+
+[TODO]
+
+**Ecclesiastes 4:5**
+
+[TODO]
+
+**Ecclesiastes 4:6**
+
+[TODO]
+
+**Ecclesiastes 4:7**
+
+[TODO]
+
+**Ecclesiastes 4:8**
+
+[TODO]
+
+**Ecclesiastes 4:9**
+
+[TODO]
+
+**Ecclesiastes 4:10**
+
+[TODO]
+
+**Ecclesiastes 4:11**
+
+[TODO]
+
+**Ecclesiastes 4:12**
+
+[TODO]
+
+**Ecclesiastes 4:13**
+
+[TODO]
+
+**Ecclesiastes 4:14**
+
+[TODO]
+
+**Ecclesiastes 4:15**
+
+[TODO]
+
+**Ecclesiastes 4:16**
+
+[TODO]
+
+**Ecclesiastes 4:17**
+
+[TODO]
+
+### Chapter 5
+
+**Ecclesiastes 5:1**
+
+[TODO]
+
+**Ecclesiastes 5:2**
+
+[TODO]
+
+**Ecclesiastes 5:3**
+
+[TODO]
+
+**Ecclesiastes 5:4**
+
+[TODO]
+
+**Ecclesiastes 5:5**
+
+[TODO]
+
+**Ecclesiastes 5:6**
+
+[TODO]
+
+**Ecclesiastes 5:7**
+
+[TODO]
+
+**Ecclesiastes 5:8**
+
+[TODO]
+
+**Ecclesiastes 5:9**
+
+[TODO]
+
+**Ecclesiastes 5:10**
+
+[TODO]
+
+**Ecclesiastes 5:11**
+
+[TODO]
+
+**Ecclesiastes 5:12**
+
+[TODO]
+
+**Ecclesiastes 5:13**
+
+[TODO]
+
+**Ecclesiastes 5:14**
+
+[TODO]
+
+**Ecclesiastes 5:15**
+
+[TODO]
+
+**Ecclesiastes 5:16**
+
+[TODO]
+
+**Ecclesiastes 5:17**
+
+[TODO]
+
+**Ecclesiastes 5:18**
+
+[TODO]
+
+**Ecclesiastes 5:19**
+
+[TODO]
+
+### Chapter 6
+
+**Ecclesiastes 6:1**
+
+[TODO]
+
+**Ecclesiastes 6:2**
+
+[TODO]
+
+**Ecclesiastes 6:3**
+
+[TODO]
+
+**Ecclesiastes 6:4**
+
+[TODO]
+
+**Ecclesiastes 6:5**
+
+[TODO]
+
+**Ecclesiastes 6:6**
+
+[TODO]
+
+**Ecclesiastes 6:7**
+
+[TODO]
+
+**Ecclesiastes 6:8**
+
+[TODO]
+
+**Ecclesiastes 6:9**
+
+[TODO]
+
+**Ecclesiastes 6:10**
+
+[TODO]
+
+**Ecclesiastes 6:11**
+
+[TODO]
+
+**Ecclesiastes 6:12**
+
+[TODO]
+
+### Chapter 7
+
+**Ecclesiastes 7:1**
+
+[TODO]
+
+**Ecclesiastes 7:2**
+
+[TODO]
+
+**Ecclesiastes 7:3**
+
+[TODO]
+
+**Ecclesiastes 7:4**
+
+[TODO]
+
+**Ecclesiastes 7:5**
+
+[TODO]
+
+**Ecclesiastes 7:6**
+
+[TODO]
+
+**Ecclesiastes 7:7**
+
+[TODO]
+
+**Ecclesiastes 7:8**
+
+[TODO]
+
+**Ecclesiastes 7:9**
+
+[TODO]
+
+**Ecclesiastes 7:10**
+
+[TODO]
+
+**Ecclesiastes 7:11**
+
+[TODO]
+
+**Ecclesiastes 7:12**
+
+[TODO]
+
+**Ecclesiastes 7:13**
+
+[TODO]
+
+**Ecclesiastes 7:14**
+
+[TODO]
+
+**Ecclesiastes 7:15**
+
+[TODO]
+
+**Ecclesiastes 7:16**
+
+[TODO]
+
+**Ecclesiastes 7:17**
+
+[TODO]
+
+**Ecclesiastes 7:18**
+
+[TODO]
+
+**Ecclesiastes 7:19**
+
+[TODO]
+
+**Ecclesiastes 7:20**
+
+[TODO]
+
+**Ecclesiastes 7:21**
+
+[TODO]
+
+**Ecclesiastes 7:22**
+
+[TODO]
+
+**Ecclesiastes 7:23**
+
+[TODO]
+
+**Ecclesiastes 7:24**
+
+[TODO]
+
+**Ecclesiastes 7:25**
+
+[TODO]
+
+**Ecclesiastes 7:26**
+
+[TODO]
+
+**Ecclesiastes 7:27**
+
+[TODO]
+
+**Ecclesiastes 7:28**
+
+[TODO]
+
+**Ecclesiastes 7:29**
+
+[TODO]
+
+### Chapter 8
+
+**Ecclesiastes 8:1**
+
+[TODO]
+
+**Ecclesiastes 8:2**
+
+[TODO]
+
+**Ecclesiastes 8:3**
+
+[TODO]
+
+**Ecclesiastes 8:4**
+
+[TODO]
+
+**Ecclesiastes 8:5**
+
+[TODO]
+
+**Ecclesiastes 8:6**
+
+[TODO]
+
+**Ecclesiastes 8:7**
+
+[TODO]
+
+**Ecclesiastes 8:8**
+
+[TODO]
+
+**Ecclesiastes 8:9**
+
+[TODO]
+
+**Ecclesiastes 8:10**
+
+[TODO]
+
+**Ecclesiastes 8:11**
+
+[TODO]
+
+**Ecclesiastes 8:12**
+
+[TODO]
+
+**Ecclesiastes 8:13**
+
+[TODO]
+
+**Ecclesiastes 8:14**
+
+[TODO]
+
+**Ecclesiastes 8:15**
+
+[TODO]
+
+**Ecclesiastes 8:16**
+
+[TODO]
+
+**Ecclesiastes 8:17**
+
+[TODO]
+
+### Chapter 9
+
+**Ecclesiastes 9:1**
+
+[TODO]
+
+**Ecclesiastes 9:2**
+
+[TODO]
+
+**Ecclesiastes 9:3**
+
+[TODO]
+
+**Ecclesiastes 9:4**
+
+[TODO]
+
+**Ecclesiastes 9:5**
+
+[TODO]
+
+**Ecclesiastes 9:6**
+
+[TODO]
+
+**Ecclesiastes 9:7**
+
+[TODO]
+
+**Ecclesiastes 9:8**
+
+[TODO]
+
+**Ecclesiastes 9:9**
+
+[TODO]
+
+**Ecclesiastes 9:10**
+
+[TODO]
+
+**Ecclesiastes 9:11**
+
+[TODO]
+
+**Ecclesiastes 9:12**
+
+[TODO]
+
+**Ecclesiastes 9:13**
+
+[TODO]
+
+**Ecclesiastes 9:14**
+
+[TODO]
+
+**Ecclesiastes 9:15**
+
+[TODO]
+
+**Ecclesiastes 9:16**
+
+[TODO]
+
+**Ecclesiastes 9:17**
+
+[TODO]
+
+**Ecclesiastes 9:18**
+
+[TODO]
+
+### Chapter 10
+
+**Ecclesiastes 10:1**
+
+[TODO]
+
+**Ecclesiastes 10:2**
+
+[TODO]
+
+**Ecclesiastes 10:3**
+
+[TODO]
+
+**Ecclesiastes 10:4**
+
+[TODO]
+
+**Ecclesiastes 10:5**
+
+[TODO]
+
+**Ecclesiastes 10:6**
+
+[TODO]
+
+**Ecclesiastes 10:7**
+
+[TODO]
+
+**Ecclesiastes 10:8**
+
+[TODO]
+
+**Ecclesiastes 10:9**
+
+[TODO]
+
+**Ecclesiastes 10:10**
+
+[TODO]
+
+**Ecclesiastes 10:11**
+
+[TODO]
+
+**Ecclesiastes 10:12**
+
+[TODO]
+
+**Ecclesiastes 10:13**
+
+[TODO]
+
+**Ecclesiastes 10:14**
+
+[TODO]
+
+**Ecclesiastes 10:15**
+
+[TODO]
+
+**Ecclesiastes 10:16**
+
+[TODO]
+
+**Ecclesiastes 10:17**
+
+[TODO]
+
+**Ecclesiastes 10:18**
+
+[TODO]
+
+**Ecclesiastes 10:19**
+
+[TODO]
+
+**Ecclesiastes 10:20**
+
+[TODO]
+
+### Chapter 11
+
+**Ecclesiastes 11:1**
+
+[TODO]
+
+**Ecclesiastes 11:2**
+
+[TODO]
+
+**Ecclesiastes 11:3**
+
+[TODO]
+
+**Ecclesiastes 11:4**
+
+[TODO]
+
+**Ecclesiastes 11:5**
+
+[TODO]
+
+**Ecclesiastes 11:6**
+
+[TODO]
+
+**Ecclesiastes 11:7**
+
+[TODO]
+
+**Ecclesiastes 11:8**
+
+[TODO]
+
+**Ecclesiastes 11:9**
+
+[TODO]
+
+**Ecclesiastes 11:10**
+
+[TODO]
+
+### Chapter 12
+
+**Ecclesiastes 12:1**
+
+[TODO]
+
+**Ecclesiastes 12:2**
+
+[TODO]
+
+**Ecclesiastes 12:3**
+
+[TODO]
+
+**Ecclesiastes 12:4**
+
+[TODO]
+
+**Ecclesiastes 12:5**
+
+[TODO]
+
+**Ecclesiastes 12:6**
+
+[TODO]
+
+**Ecclesiastes 12:7**
+
+[TODO]
+
+**Ecclesiastes 12:8**
+
+[TODO]
+
+**Ecclesiastes 12:9**
+
+[TODO]
+
+**Ecclesiastes 12:10**
+
+[TODO]
+
+**Ecclesiastes 12:11**
+
+[TODO]
+
+**Ecclesiastes 12:12**
+
+[TODO]
+
+**Ecclesiastes 12:13**
+
+[TODO]
+
+**Ecclesiastes 12:14**
+
+[TODO]
+
+## Song of Solomon
+
+### Chapter 1
+
+**Song of Solomon 1:1**
+
+[TODO]
+
+**Song of Solomon 1:2**
+
+[TODO]
+
+**Song of Solomon 1:3**
+
+[TODO]
+
+**Song of Solomon 1:4**
+
+[TODO]
+
+**Song of Solomon 1:5**
+
+[TODO]
+
+**Song of Solomon 1:6**
+
+[TODO]
+
+**Song of Solomon 1:7**
+
+[TODO]
+
+**Song of Solomon 1:8**
+
+[TODO]
+
+**Song of Solomon 1:9**
+
+[TODO]
+
+**Song of Solomon 1:10**
+
+[TODO]
+
+**Song of Solomon 1:11**
+
+[TODO]
+
+**Song of Solomon 1:12**
+
+[TODO]
+
+**Song of Solomon 1:13**
+
+[TODO]
+
+**Song of Solomon 1:14**
+
+[TODO]
+
+**Song of Solomon 1:15**
+
+[TODO]
+
+**Song of Solomon 1:16**
+
+[TODO]
+
+**Song of Solomon 1:17**
+
+[TODO]
+
+### Chapter 2
+
+**Song of Solomon 2:1**
+
+[TODO]
+
+**Song of Solomon 2:2**
+
+[TODO]
+
+**Song of Solomon 2:3**
+
+[TODO]
+
+**Song of Solomon 2:4**
+
+[TODO]
+
+**Song of Solomon 2:5**
+
+[TODO]
+
+**Song of Solomon 2:6**
+
+[TODO]
+
+**Song of Solomon 2:7**
+
+[TODO]
+
+**Song of Solomon 2:8**
+
+[TODO]
+
+**Song of Solomon 2:9**
+
+[TODO]
+
+**Song of Solomon 2:10**
+
+[TODO]
+
+**Song of Solomon 2:11**
+
+[TODO]
+
+**Song of Solomon 2:12**
+
+[TODO]
+
+**Song of Solomon 2:13**
+
+[TODO]
+
+**Song of Solomon 2:14**
+
+[TODO]
+
+**Song of Solomon 2:15**
+
+[TODO]
+
+**Song of Solomon 2:16**
+
+[TODO]
+
+**Song of Solomon 2:17**
+
+[TODO]
+
+### Chapter 3
+
+**Song of Solomon 3:1**
+
+[TODO]
+
+**Song of Solomon 3:2**
+
+[TODO]
+
+**Song of Solomon 3:3**
+
+[TODO]
+
+**Song of Solomon 3:4**
+
+[TODO]
+
+**Song of Solomon 3:5**
+
+[TODO]
+
+**Song of Solomon 3:6**
+
+[TODO]
+
+**Song of Solomon 3:7**
+
+[TODO]
+
+**Song of Solomon 3:8**
+
+[TODO]
+
+**Song of Solomon 3:9**
+
+[TODO]
+
+**Song of Solomon 3:10**
+
+[TODO]
+
+**Song of Solomon 3:11**
+
+[TODO]
+
+### Chapter 4
+
+**Song of Solomon 4:1**
+
+[TODO]
+
+**Song of Solomon 4:2**
+
+[TODO]
+
+**Song of Solomon 4:3**
+
+[TODO]
+
+**Song of Solomon 4:4**
+
+[TODO]
+
+**Song of Solomon 4:5**
+
+[TODO]
+
+**Song of Solomon 4:6**
+
+[TODO]
+
+**Song of Solomon 4:7**
+
+[TODO]
+
+**Song of Solomon 4:8**
+
+[TODO]
+
+**Song of Solomon 4:9**
+
+[TODO]
+
+**Song of Solomon 4:10**
+
+[TODO]
+
+**Song of Solomon 4:11**
+
+[TODO]
+
+**Song of Solomon 4:12**
+
+[TODO]
+
+**Song of Solomon 4:13**
+
+[TODO]
+
+**Song of Solomon 4:14**
+
+[TODO]
+
+**Song of Solomon 4:15**
+
+[TODO]
+
+**Song of Solomon 4:16**
+
+[TODO]
+
+### Chapter 5
+
+**Song of Solomon 5:1**
+
+[TODO]
+
+**Song of Solomon 5:2**
+
+[TODO]
+
+**Song of Solomon 5:3**
+
+[TODO]
+
+**Song of Solomon 5:4**
+
+[TODO]
+
+**Song of Solomon 5:5**
+
+[TODO]
+
+**Song of Solomon 5:6**
+
+[TODO]
+
+**Song of Solomon 5:7**
+
+[TODO]
+
+**Song of Solomon 5:8**
+
+[TODO]
+
+**Song of Solomon 5:9**
+
+[TODO]
+
+**Song of Solomon 5:10**
+
+[TODO]
+
+**Song of Solomon 5:11**
+
+[TODO]
+
+**Song of Solomon 5:12**
+
+[TODO]
+
+**Song of Solomon 5:13**
+
+[TODO]
+
+**Song of Solomon 5:14**
+
+[TODO]
+
+**Song of Solomon 5:15**
+
+[TODO]
+
+**Song of Solomon 5:16**
+
+[TODO]
+
+### Chapter 6
+
+**Song of Solomon 6:1**
+
+[TODO]
+
+**Song of Solomon 6:2**
+
+[TODO]
+
+**Song of Solomon 6:3**
+
+[TODO]
+
+**Song of Solomon 6:4**
+
+[TODO]
+
+**Song of Solomon 6:5**
+
+[TODO]
+
+**Song of Solomon 6:6**
+
+[TODO]
+
+**Song of Solomon 6:7**
+
+[TODO]
+
+**Song of Solomon 6:8**
+
+[TODO]
+
+**Song of Solomon 6:9**
+
+[TODO]
+
+**Song of Solomon 6:10**
+
+[TODO]
+
+**Song of Solomon 6:11**
+
+[TODO]
+
+**Song of Solomon 6:12**
+
+[TODO]
+
+### Chapter 7
+
+**Song of Solomon 7:1**
+
+[TODO]
+
+**Song of Solomon 7:2**
+
+[TODO]
+
+**Song of Solomon 7:3**
+
+[TODO]
+
+**Song of Solomon 7:4**
+
+[TODO]
+
+**Song of Solomon 7:5**
+
+[TODO]
+
+**Song of Solomon 7:6**
+
+[TODO]
+
+**Song of Solomon 7:7**
+
+[TODO]
+
+**Song of Solomon 7:8**
+
+[TODO]
+
+**Song of Solomon 7:9**
+
+[TODO]
+
+**Song of Solomon 7:10**
+
+[TODO]
+
+**Song of Solomon 7:11**
+
+[TODO]
+
+**Song of Solomon 7:12**
+
+[TODO]
+
+**Song of Solomon 7:13**
+
+[TODO]
+
+**Song of Solomon 7:14**
+
+[TODO]
+
+### Chapter 8
+
+**Song of Solomon 8:1**
+
+[TODO]
+
+**Song of Solomon 8:2**
+
+[TODO]
+
+**Song of Solomon 8:3**
+
+[TODO]
+
+**Song of Solomon 8:4**
+
+[TODO]
+
+**Song of Solomon 8:5**
+
+[TODO]
+
+**Song of Solomon 8:6**
+
+[TODO]
+
+**Song of Solomon 8:7**
+
+[TODO]
+
+**Song of Solomon 8:8**
+
+[TODO]
+
+**Song of Solomon 8:9**
+
+[TODO]
+
+**Song of Solomon 8:10**
+
+[TODO]
+
+**Song of Solomon 8:11**
+
+[TODO]
+
+**Song of Solomon 8:12**
+
+[TODO]
+
+**Song of Solomon 8:13**
+
+[TODO]
+
+**Song of Solomon 8:14**
+
+[TODO]
+
+## Isaiah
+
+### Chapter 1
+
+**Isaiah 1:1**
+
+[TODO]
+
+**Isaiah 1:2**
+
+[TODO]
+
+**Isaiah 1:3**
+
+[TODO]
+
+**Isaiah 1:4**
+
+[TODO]
+
+**Isaiah 1:5**
+
+[TODO]
+
+**Isaiah 1:6**
+
+[TODO]
+
+**Isaiah 1:7**
+
+[TODO]
+
+**Isaiah 1:8**
+
+[TODO]
+
+**Isaiah 1:9**
+
+[TODO]
+
+**Isaiah 1:10**
+
+[TODO]
+
+**Isaiah 1:11**
+
+[TODO]
+
+**Isaiah 1:12**
+
+[TODO]
+
+**Isaiah 1:13**
+
+[TODO]
+
+**Isaiah 1:14**
+
+[TODO]
+
+**Isaiah 1:15**
+
+[TODO]
+
+**Isaiah 1:16**
+
+[TODO]
+
+**Isaiah 1:17**
+
+[TODO]
+
+**Isaiah 1:18**
+
+[TODO]
+
+**Isaiah 1:19**
+
+[TODO]
+
+**Isaiah 1:20**
+
+[TODO]
+
+**Isaiah 1:21**
+
+[TODO]
+
+**Isaiah 1:22**
+
+[TODO]
+
+**Isaiah 1:23**
+
+[TODO]
+
+**Isaiah 1:24**
+
+[TODO]
+
+**Isaiah 1:25**
+
+[TODO]
+
+**Isaiah 1:26**
+
+[TODO]
+
+**Isaiah 1:27**
+
+[TODO]
+
+**Isaiah 1:28**
+
+[TODO]
+
+**Isaiah 1:29**
+
+[TODO]
+
+**Isaiah 1:30**
+
+[TODO]
+
+**Isaiah 1:31**
+
+[TODO]
+
+### Chapter 2
+
+**Isaiah 2:1**
+
+[TODO]
+
+**Isaiah 2:2**
+
+[TODO]
+
+**Isaiah 2:3**
+
+[TODO]
+
+**Isaiah 2:4**
+
+[TODO]
+
+**Isaiah 2:5**
+
+[TODO]
+
+**Isaiah 2:6**
+
+[TODO]
+
+**Isaiah 2:7**
+
+[TODO]
+
+**Isaiah 2:8**
+
+[TODO]
+
+**Isaiah 2:9**
+
+[TODO]
+
+**Isaiah 2:10**
+
+[TODO]
+
+**Isaiah 2:11**
+
+[TODO]
+
+**Isaiah 2:12**
+
+[TODO]
+
+**Isaiah 2:13**
+
+[TODO]
+
+**Isaiah 2:14**
+
+[TODO]
+
+**Isaiah 2:15**
+
+[TODO]
+
+**Isaiah 2:16**
+
+[TODO]
+
+**Isaiah 2:17**
+
+[TODO]
+
+**Isaiah 2:18**
+
+[TODO]
+
+**Isaiah 2:19**
+
+[TODO]
+
+**Isaiah 2:20**
+
+[TODO]
+
+**Isaiah 2:21**
+
+[TODO]
+
+### Chapter 3
+
+**Isaiah 3:1**
+
+[TODO]
+
+**Isaiah 3:2**
+
+[TODO]
+
+**Isaiah 3:3**
+
+[TODO]
+
+**Isaiah 3:4**
+
+[TODO]
+
+**Isaiah 3:5**
+
+[TODO]
+
+**Isaiah 3:6**
+
+[TODO]
+
+**Isaiah 3:7**
+
+[TODO]
+
+**Isaiah 3:8**
+
+[TODO]
+
+**Isaiah 3:9**
+
+[TODO]
+
+**Isaiah 3:10**
+
+[TODO]
+
+**Isaiah 3:11**
+
+[TODO]
+
+**Isaiah 3:12**
+
+[TODO]
+
+**Isaiah 3:13**
+
+[TODO]
+
+**Isaiah 3:14**
+
+[TODO]
+
+**Isaiah 3:15**
+
+[TODO]
+
+**Isaiah 3:16**
+
+[TODO]
+
+**Isaiah 3:17**
+
+[TODO]
+
+**Isaiah 3:18**
+
+[TODO]
+
+**Isaiah 3:19**
+
+[TODO]
+
+**Isaiah 3:20**
+
+[TODO]
+
+**Isaiah 3:21**
+
+[TODO]
+
+**Isaiah 3:22**
+
+[TODO]
+
+**Isaiah 3:23**
+
+[TODO]
+
+**Isaiah 3:24**
+
+[TODO]
+
+**Isaiah 3:25**
+
+[TODO]
+
+**Isaiah 3:26**
+
+[TODO]
+
+### Chapter 4
+
+**Isaiah 4:1**
+
+[TODO]
+
+**Isaiah 4:2**
+
+[TODO]
+
+**Isaiah 4:3**
+
+[TODO]
+
+**Isaiah 4:4**
+
+[TODO]
+
+**Isaiah 4:5**
+
+[TODO]
+
+**Isaiah 4:6**
+
+[TODO]
+
+### Chapter 5
+
+**Isaiah 5:1**
+
+[TODO]
+
+**Isaiah 5:2**
+
+[TODO]
+
+**Isaiah 5:3**
+
+[TODO]
+
+**Isaiah 5:4**
+
+[TODO]
+
+**Isaiah 5:5**
+
+[TODO]
+
+**Isaiah 5:6**
+
+[TODO]
+
+**Isaiah 5:7**
+
+[TODO]
+
+**Isaiah 5:8**
+
+[TODO]
+
+**Isaiah 5:9**
+
+[TODO]
+
+**Isaiah 5:10**
+
+[TODO]
+
+**Isaiah 5:11**
+
+[TODO]
+
+**Isaiah 5:12**
+
+[TODO]
+
+**Isaiah 5:13**
+
+[TODO]
+
+**Isaiah 5:14**
+
+[TODO]
+
+**Isaiah 5:15**
+
+[TODO]
+
+**Isaiah 5:16**
+
+[TODO]
+
+**Isaiah 5:17**
+
+[TODO]
+
+**Isaiah 5:18**
+
+[TODO]
+
+**Isaiah 5:19**
+
+[TODO]
+
+**Isaiah 5:20**
+
+[TODO]
+
+**Isaiah 5:21**
+
+[TODO]
+
+**Isaiah 5:22**
+
+[TODO]
+
+**Isaiah 5:23**
+
+[TODO]
+
+**Isaiah 5:24**
+
+[TODO]
+
+**Isaiah 5:25**
+
+[TODO]
+
+**Isaiah 5:26**
+
+[TODO]
+
+**Isaiah 5:27**
+
+[TODO]
+
+**Isaiah 5:28**
+
+[TODO]
+
+**Isaiah 5:29**
+
+[TODO]
+
+**Isaiah 5:30**
+
+[TODO]
+
+### Chapter 6
+
+**Isaiah 6:1**
+
+[TODO]
+
+**Isaiah 6:2**
+
+[TODO]
+
+**Isaiah 6:3**
+
+[TODO]
+
+**Isaiah 6:4**
+
+[TODO]
+
+**Isaiah 6:5**
+
+[TODO]
+
+**Isaiah 6:6**
+
+[TODO]
+
+**Isaiah 6:7**
+
+[TODO]
+
+**Isaiah 6:8**
+
+[TODO]
+
+**Isaiah 6:9**
+
+[TODO]
+
+**Isaiah 6:10**
+
+[TODO]
+
+**Isaiah 6:11**
+
+[TODO]
+
+**Isaiah 6:12**
+
+[TODO]
+
+**Isaiah 6:13**
+
+[TODO]
+
+### Chapter 7
+
+**Isaiah 7:1**
+
+[TODO]
+
+**Isaiah 7:2**
+
+[TODO]
+
+**Isaiah 7:3**
+
+[TODO]
+
+**Isaiah 7:4**
+
+[TODO]
+
+**Isaiah 7:5**
+
+[TODO]
+
+**Isaiah 7:6**
+
+[TODO]
+
+**Isaiah 7:7**
+
+[TODO]
+
+**Isaiah 7:8**
+
+[TODO]
+
+**Isaiah 7:9**
+
+[TODO]
+
+**Isaiah 7:10**
+
+[TODO]
+
+**Isaiah 7:11**
+
+[TODO]
+
+**Isaiah 7:12**
+
+[TODO]
+
+**Isaiah 7:13**
+
+[TODO]
+
+**Isaiah 7:14**
+
+[TODO]
+
+**Isaiah 7:15**
+
+[TODO]
+
+**Isaiah 7:16**
+
+[TODO]
+
+**Isaiah 7:17**
+
+[TODO]
+
+**Isaiah 7:18**
+
+[TODO]
+
+**Isaiah 7:19**
+
+[TODO]
+
+**Isaiah 7:20**
+
+[TODO]
+
+**Isaiah 7:21**
+
+[TODO]
+
+**Isaiah 7:22**
+
+[TODO]
+
+**Isaiah 7:23**
+
+[TODO]
+
+**Isaiah 7:24**
+
+[TODO]
+
+**Isaiah 7:25**
+
+[TODO]
+
+### Chapter 8
+
+**Isaiah 8:1**
+
+[TODO]
+
+**Isaiah 8:2**
+
+[TODO]
+
+**Isaiah 8:3**
+
+[TODO]
+
+**Isaiah 8:4**
+
+[TODO]
+
+**Isaiah 8:5**
+
+[TODO]
+
+**Isaiah 8:6**
+
+[TODO]
+
+**Isaiah 8:7**
+
+[TODO]
+
+**Isaiah 8:8**
+
+[TODO]
+
+**Isaiah 8:9**
+
+[TODO]
+
+**Isaiah 8:10**
+
+[TODO]
+
+**Isaiah 8:11**
+
+[TODO]
+
+**Isaiah 8:12**
+
+[TODO]
+
+**Isaiah 8:13**
+
+[TODO]
+
+**Isaiah 8:14**
+
+[TODO]
+
+**Isaiah 8:15**
+
+[TODO]
+
+**Isaiah 8:16**
+
+[TODO]
+
+**Isaiah 8:17**
+
+[TODO]
+
+**Isaiah 8:18**
+
+[TODO]
+
+**Isaiah 8:19**
+
+[TODO]
+
+**Isaiah 8:20**
+
+[TODO]
+
+**Isaiah 8:21**
+
+[TODO]
+
+**Isaiah 8:22**
+
+[TODO]
+
+**Isaiah 8:23**
+
+[TODO]
+
+### Chapter 9
+
+**Isaiah 9:1**
+
+[TODO]
+
+**Isaiah 9:2**
+
+[TODO]
+
+**Isaiah 9:3**
+
+[TODO]
+
+**Isaiah 9:4**
+
+[TODO]
+
+**Isaiah 9:5**
+
+[TODO]
+
+**Isaiah 9:6**
+
+[TODO]
+
+**Isaiah 9:7**
+
+[TODO]
+
+**Isaiah 9:8**
+
+[TODO]
+
+**Isaiah 9:9**
+
+[TODO]
+
+**Isaiah 9:10**
+
+[TODO]
+
+**Isaiah 9:11**
+
+[TODO]
+
+**Isaiah 9:12**
+
+[TODO]
+
+**Isaiah 9:13**
+
+[TODO]
+
+**Isaiah 9:14**
+
+[TODO]
+
+**Isaiah 9:15**
+
+[TODO]
+
+**Isaiah 9:16**
+
+[TODO]
+
+**Isaiah 9:17**
+
+[TODO]
+
+**Isaiah 9:18**
+
+[TODO]
+
+**Isaiah 9:19**
+
+[TODO]
+
+**Isaiah 9:20**
+
+[TODO]
+
+### Chapter 10
+
+**Isaiah 10:1**
+
+[TODO]
+
+**Isaiah 10:2**
+
+[TODO]
+
+**Isaiah 10:3**
+
+[TODO]
+
+**Isaiah 10:4**
+
+[TODO]
+
+**Isaiah 10:5**
+
+[TODO]
+
+**Isaiah 10:6**
+
+[TODO]
+
+**Isaiah 10:7**
+
+[TODO]
+
+**Isaiah 10:8**
+
+[TODO]
+
+**Isaiah 10:9**
+
+[TODO]
+
+**Isaiah 10:10**
+
+[TODO]
+
+**Isaiah 10:11**
+
+[TODO]
+
+**Isaiah 10:12**
+
+[TODO]
+
+**Isaiah 10:13**
+
+[TODO]
+
+**Isaiah 10:14**
+
+[TODO]
+
+**Isaiah 10:15**
+
+[TODO]
+
+**Isaiah 10:16**
+
+[TODO]
+
+**Isaiah 10:17**
+
+[TODO]
+
+**Isaiah 10:18**
+
+[TODO]
+
+**Isaiah 10:19**
+
+[TODO]
+
+**Isaiah 10:20**
+
+[TODO]
+
+**Isaiah 10:21**
+
+[TODO]
+
+**Isaiah 10:22**
+
+[TODO]
+
+**Isaiah 10:23**
+
+[TODO]
+
+**Isaiah 10:24**
+
+[TODO]
+
+**Isaiah 10:25**
+
+[TODO]
+
+**Isaiah 10:26**
+
+[TODO]
+
+**Isaiah 10:27**
+
+[TODO]
+
+**Isaiah 10:28**
+
+[TODO]
+
+**Isaiah 10:29**
+
+[TODO]
+
+**Isaiah 10:30**
+
+[TODO]
+
+**Isaiah 10:31**
+
+[TODO]
+
+**Isaiah 10:32**
+
+[TODO]
+
+**Isaiah 10:33**
+
+[TODO]
+
+**Isaiah 10:34**
+
+[TODO]
+
+### Chapter 11
+
+**Isaiah 11:1**
+
+[TODO]
+
+**Isaiah 11:2**
+
+[TODO]
+
+**Isaiah 11:3**
+
+[TODO]
+
+**Isaiah 11:4**
+
+[TODO]
+
+**Isaiah 11:5**
+
+[TODO]
+
+**Isaiah 11:6**
+
+[TODO]
+
+**Isaiah 11:7**
+
+[TODO]
+
+**Isaiah 11:8**
+
+[TODO]
+
+**Isaiah 11:9**
+
+[TODO]
+
+**Isaiah 11:10**
+
+[TODO]
+
+**Isaiah 11:11**
+
+[TODO]
+
+**Isaiah 11:12**
+
+[TODO]
+
+**Isaiah 11:13**
+
+[TODO]
+
+**Isaiah 11:14**
+
+[TODO]
+
+**Isaiah 11:15**
+
+[TODO]
+
+**Isaiah 11:16**
+
+[TODO]
+
+### Chapter 12
+
+**Isaiah 12:1**
+
+[TODO]
+
+**Isaiah 12:2**
+
+[TODO]
+
+**Isaiah 12:3**
+
+[TODO]
+
+**Isaiah 12:4**
+
+[TODO]
+
+**Isaiah 12:5**
+
+[TODO]
+
+**Isaiah 12:6**
+
+[TODO]
+
+### Chapter 13
+
+**Isaiah 13:1**
+
+[TODO]
+
+**Isaiah 13:2**
+
+[TODO]
+
+**Isaiah 13:3**
+
+[TODO]
+
+**Isaiah 13:4**
+
+[TODO]
+
+**Isaiah 13:5**
+
+[TODO]
+
+**Isaiah 13:6**
+
+[TODO]
+
+**Isaiah 13:7**
+
+[TODO]
+
+**Isaiah 13:8**
+
+[TODO]
+
+**Isaiah 13:9**
+
+[TODO]
+
+**Isaiah 13:10**
+
+[TODO]
+
+**Isaiah 13:11**
+
+[TODO]
+
+**Isaiah 13:12**
+
+[TODO]
+
+**Isaiah 13:13**
+
+[TODO]
+
+**Isaiah 13:14**
+
+[TODO]
+
+**Isaiah 13:15**
+
+[TODO]
+
+**Isaiah 13:16**
+
+[TODO]
+
+**Isaiah 13:17**
+
+[TODO]
+
+**Isaiah 13:18**
+
+[TODO]
+
+**Isaiah 13:19**
+
+[TODO]
+
+**Isaiah 13:20**
+
+[TODO]
+
+**Isaiah 13:21**
+
+[TODO]
+
+**Isaiah 13:22**
+
+[TODO]
+
+### Chapter 14
+
+**Isaiah 14:1**
+
+[TODO]
+
+**Isaiah 14:2**
+
+[TODO]
+
+**Isaiah 14:3**
+
+[TODO]
+
+**Isaiah 14:4**
+
+[TODO]
+
+**Isaiah 14:5**
+
+[TODO]
+
+**Isaiah 14:6**
+
+[TODO]
+
+**Isaiah 14:7**
+
+[TODO]
+
+**Isaiah 14:8**
+
+[TODO]
+
+**Isaiah 14:9**
+
+[TODO]
+
+**Isaiah 14:10**
+
+[TODO]
+
+**Isaiah 14:11**
+
+[TODO]
+
+**Isaiah 14:12**
+
+[TODO]
+
+**Isaiah 14:13**
+
+[TODO]
+
+**Isaiah 14:14**
+
+[TODO]
+
+**Isaiah 14:15**
+
+[TODO]
+
+**Isaiah 14:16**
+
+[TODO]
+
+**Isaiah 14:17**
+
+[TODO]
+
+**Isaiah 14:18**
+
+[TODO]
+
+**Isaiah 14:19**
+
+[TODO]
+
+**Isaiah 14:20**
+
+[TODO]
+
+**Isaiah 14:21**
+
+[TODO]
+
+**Isaiah 14:22**
+
+[TODO]
+
+**Isaiah 14:23**
+
+[TODO]
+
+**Isaiah 14:24**
+
+[TODO]
+
+**Isaiah 14:25**
+
+[TODO]
+
+**Isaiah 14:26**
+
+[TODO]
+
+**Isaiah 14:27**
+
+[TODO]
+
+**Isaiah 14:28**
+
+[TODO]
+
+**Isaiah 14:29**
+
+[TODO]
+
+**Isaiah 14:30**
+
+[TODO]
+
+**Isaiah 14:31**
+
+[TODO]
+
+**Isaiah 14:32**
+
+[TODO]
+
+### Chapter 15
+
+**Isaiah 15:1**
+
+[TODO]
+
+**Isaiah 15:2**
+
+[TODO]
+
+**Isaiah 15:3**
+
+[TODO]
+
+**Isaiah 15:4**
+
+[TODO]
+
+**Isaiah 15:5**
+
+[TODO]
+
+**Isaiah 15:6**
+
+[TODO]
+
+**Isaiah 15:7**
+
+[TODO]
+
+**Isaiah 15:8**
+
+[TODO]
+
+**Isaiah 15:9**
+
+[TODO]
+
+### Chapter 16
+
+**Isaiah 16:1**
+
+[TODO]
+
+**Isaiah 16:2**
+
+[TODO]
+
+**Isaiah 16:3**
+
+[TODO]
+
+**Isaiah 16:4**
+
+[TODO]
+
+**Isaiah 16:5**
+
+[TODO]
+
+**Isaiah 16:6**
+
+[TODO]
+
+**Isaiah 16:7**
+
+[TODO]
+
+**Isaiah 16:8**
+
+[TODO]
+
+**Isaiah 16:9**
+
+[TODO]
+
+**Isaiah 16:10**
+
+[TODO]
+
+**Isaiah 16:11**
+
+[TODO]
+
+**Isaiah 16:12**
+
+[TODO]
+
+**Isaiah 16:13**
+
+[TODO]
+
+**Isaiah 16:14**
+
+[TODO]
+
+### Chapter 17
+
+**Isaiah 17:1**
+
+[TODO]
+
+**Isaiah 17:2**
+
+[TODO]
+
+**Isaiah 17:3**
+
+[TODO]
+
+**Isaiah 17:4**
+
+[TODO]
+
+**Isaiah 17:5**
+
+[TODO]
+
+**Isaiah 17:6**
+
+[TODO]
+
+**Isaiah 17:7**
+
+[TODO]
+
+**Isaiah 17:8**
+
+[TODO]
+
+**Isaiah 17:9**
+
+[TODO]
+
+**Isaiah 17:10**
+
+[TODO]
+
+**Isaiah 17:11**
+
+[TODO]
+
+**Isaiah 17:12**
+
+[TODO]
+
+**Isaiah 17:13**
+
+[TODO]
+
+**Isaiah 17:14**
+
+[TODO]
+
+### Chapter 18
+
+**Isaiah 18:1**
+
+[TODO]
+
+**Isaiah 18:2**
+
+[TODO]
+
+**Isaiah 18:3**
+
+[TODO]
+
+**Isaiah 18:4**
+
+[TODO]
+
+**Isaiah 18:5**
+
+[TODO]
+
+**Isaiah 18:6**
+
+[TODO]
+
+**Isaiah 18:7**
+
+[TODO]
+
+### Chapter 19
+
+**Isaiah 19:1**
+
+[TODO]
+
+**Isaiah 19:2**
+
+[TODO]
+
+**Isaiah 19:3**
+
+[TODO]
+
+**Isaiah 19:4**
+
+[TODO]
+
+**Isaiah 19:5**
+
+[TODO]
+
+**Isaiah 19:6**
+
+[TODO]
+
+**Isaiah 19:7**
+
+[TODO]
+
+**Isaiah 19:8**
+
+[TODO]
+
+**Isaiah 19:9**
+
+[TODO]
+
+**Isaiah 19:10**
+
+[TODO]
+
+**Isaiah 19:11**
+
+[TODO]
+
+**Isaiah 19:12**
+
+[TODO]
+
+**Isaiah 19:13**
+
+[TODO]
+
+**Isaiah 19:14**
+
+[TODO]
+
+**Isaiah 19:15**
+
+[TODO]
+
+**Isaiah 19:16**
+
+[TODO]
+
+**Isaiah 19:17**
+
+[TODO]
+
+**Isaiah 19:18**
+
+[TODO]
+
+**Isaiah 19:19**
+
+[TODO]
+
+**Isaiah 19:20**
+
+[TODO]
+
+**Isaiah 19:21**
+
+[TODO]
+
+**Isaiah 19:22**
+
+[TODO]
+
+**Isaiah 19:23**
+
+[TODO]
+
+**Isaiah 19:24**
+
+[TODO]
+
+**Isaiah 19:25**
+
+[TODO]
+
+### Chapter 20
+
+**Isaiah 20:1**
+
+[TODO]
+
+**Isaiah 20:2**
+
+[TODO]
+
+**Isaiah 20:3**
+
+[TODO]
+
+**Isaiah 20:4**
+
+[TODO]
+
+**Isaiah 20:5**
+
+[TODO]
+
+**Isaiah 20:6**
+
+[TODO]
+
+### Chapter 21
+
+**Isaiah 21:1**
+
+[TODO]
+
+**Isaiah 21:2**
+
+[TODO]
+
+**Isaiah 21:3**
+
+[TODO]
+
+**Isaiah 21:4**
+
+[TODO]
+
+**Isaiah 21:5**
+
+[TODO]
+
+**Isaiah 21:6**
+
+[TODO]
+
+**Isaiah 21:7**
+
+[TODO]
+
+**Isaiah 21:8**
+
+[TODO]
+
+**Isaiah 21:9**
+
+[TODO]
+
+**Isaiah 21:10**
+
+[TODO]
+
+**Isaiah 21:11**
+
+[TODO]
+
+**Isaiah 21:12**
+
+[TODO]
+
+**Isaiah 21:13**
+
+[TODO]
+
+**Isaiah 21:14**
+
+[TODO]
+
+**Isaiah 21:15**
+
+[TODO]
+
+**Isaiah 21:16**
+
+[TODO]
+
+**Isaiah 21:17**
+
+[TODO]
+
+### Chapter 22
+
+**Isaiah 22:1**
+
+[TODO]
+
+**Isaiah 22:2**
+
+[TODO]
+
+**Isaiah 22:3**
+
+[TODO]
+
+**Isaiah 22:4**
+
+[TODO]
+
+**Isaiah 22:5**
+
+[TODO]
+
+**Isaiah 22:6**
+
+[TODO]
+
+**Isaiah 22:7**
+
+[TODO]
+
+**Isaiah 22:8**
+
+[TODO]
+
+**Isaiah 22:9**
+
+[TODO]
+
+**Isaiah 22:10**
+
+[TODO]
+
+**Isaiah 22:11**
+
+[TODO]
+
+**Isaiah 22:12**
+
+[TODO]
+
+**Isaiah 22:13**
+
+[TODO]
+
+**Isaiah 22:14**
+
+[TODO]
+
+**Isaiah 22:15**
+
+[TODO]
+
+**Isaiah 22:16**
+
+[TODO]
+
+**Isaiah 22:17**
+
+[TODO]
+
+**Isaiah 22:18**
+
+[TODO]
+
+**Isaiah 22:19**
+
+[TODO]
+
+**Isaiah 22:20**
+
+[TODO]
+
+**Isaiah 22:21**
+
+[TODO]
+
+**Isaiah 22:22**
+
+[TODO]
+
+**Isaiah 22:23**
+
+[TODO]
+
+**Isaiah 22:24**
+
+[TODO]
+
+**Isaiah 22:25**
+
+[TODO]
+
+### Chapter 23
+
+**Isaiah 23:1**
+
+[TODO]
+
+**Isaiah 23:2**
+
+[TODO]
+
+**Isaiah 23:3**
+
+[TODO]
+
+**Isaiah 23:4**
+
+[TODO]
+
+**Isaiah 23:5**
+
+[TODO]
+
+**Isaiah 23:6**
+
+[TODO]
+
+**Isaiah 23:7**
+
+[TODO]
+
+**Isaiah 23:8**
+
+[TODO]
+
+**Isaiah 23:9**
+
+[TODO]
+
+**Isaiah 23:10**
+
+[TODO]
+
+**Isaiah 23:11**
+
+[TODO]
+
+**Isaiah 23:12**
+
+[TODO]
+
+**Isaiah 23:13**
+
+[TODO]
+
+**Isaiah 23:14**
+
+[TODO]
+
+**Isaiah 23:15**
+
+[TODO]
+
+**Isaiah 23:16**
+
+[TODO]
+
+**Isaiah 23:17**
+
+[TODO]
+
+**Isaiah 23:18**
+
+[TODO]
+
+### Chapter 24
+
+**Isaiah 24:1**
+
+[TODO]
+
+**Isaiah 24:2**
+
+[TODO]
+
+**Isaiah 24:3**
+
+[TODO]
+
+**Isaiah 24:4**
+
+[TODO]
+
+**Isaiah 24:5**
+
+[TODO]
+
+**Isaiah 24:6**
+
+[TODO]
+
+**Isaiah 24:7**
+
+[TODO]
+
+**Isaiah 24:8**
+
+[TODO]
+
+**Isaiah 24:9**
+
+[TODO]
+
+**Isaiah 24:10**
+
+[TODO]
+
+**Isaiah 24:11**
+
+[TODO]
+
+**Isaiah 24:12**
+
+[TODO]
+
+**Isaiah 24:13**
+
+[TODO]
+
+**Isaiah 24:14**
+
+[TODO]
+
+**Isaiah 24:15**
+
+[TODO]
+
+**Isaiah 24:16**
+
+[TODO]
+
+**Isaiah 24:17**
+
+[TODO]
+
+**Isaiah 24:18**
+
+[TODO]
+
+**Isaiah 24:19**
+
+[TODO]
+
+**Isaiah 24:20**
+
+[TODO]
+
+**Isaiah 24:21**
+
+[TODO]
+
+**Isaiah 24:22**
+
+[TODO]
+
+**Isaiah 24:23**
+
+[TODO]
+
+### Chapter 25
+
+**Isaiah 25:1**
+
+[TODO]
+
+**Isaiah 25:2**
+
+[TODO]
+
+**Isaiah 25:3**
+
+[TODO]
+
+**Isaiah 25:4**
+
+[TODO]
+
+**Isaiah 25:5**
+
+[TODO]
+
+**Isaiah 25:6**
+
+[TODO]
+
+**Isaiah 25:7**
+
+[TODO]
+
+**Isaiah 25:8**
+
+[TODO]
+
+**Isaiah 25:9**
+
+[TODO]
+
+**Isaiah 25:10**
+
+[TODO]
+
+**Isaiah 25:11**
+
+[TODO]
+
+**Isaiah 25:12**
+
+[TODO]
+
+### Chapter 26
+
+**Isaiah 26:1**
+
+[TODO]
+
+**Isaiah 26:2**
+
+[TODO]
+
+**Isaiah 26:3**
+
+[TODO]
+
+**Isaiah 26:4**
+
+[TODO]
+
+**Isaiah 26:5**
+
+[TODO]
+
+**Isaiah 26:6**
+
+[TODO]
+
+**Isaiah 26:7**
+
+[TODO]
+
+**Isaiah 26:8**
+
+[TODO]
+
+**Isaiah 26:9**
+
+[TODO]
+
+**Isaiah 26:10**
+
+[TODO]
+
+**Isaiah 26:11**
+
+[TODO]
+
+**Isaiah 26:12**
+
+[TODO]
+
+**Isaiah 26:13**
+
+[TODO]
+
+**Isaiah 26:14**
+
+[TODO]
+
+**Isaiah 26:15**
+
+[TODO]
+
+**Isaiah 26:16**
+
+[TODO]
+
+**Isaiah 26:17**
+
+[TODO]
+
+**Isaiah 26:18**
+
+[TODO]
+
+**Isaiah 26:19**
+
+[TODO]
+
+**Isaiah 26:20**
+
+[TODO]
+
+**Isaiah 26:21**
+
+[TODO]
+
+### Chapter 27
+
+**Isaiah 27:1**
+
+[TODO]
+
+**Isaiah 27:2**
+
+[TODO]
+
+**Isaiah 27:3**
+
+[TODO]
+
+**Isaiah 27:4**
+
+[TODO]
+
+**Isaiah 27:5**
+
+[TODO]
+
+**Isaiah 27:6**
+
+[TODO]
+
+**Isaiah 27:7**
+
+[TODO]
+
+**Isaiah 27:8**
+
+[TODO]
+
+**Isaiah 27:9**
+
+[TODO]
+
+**Isaiah 27:10**
+
+[TODO]
+
+**Isaiah 27:11**
+
+[TODO]
+
+**Isaiah 27:12**
+
+[TODO]
+
+**Isaiah 27:13**
+
+[TODO]
+
+### Chapter 28
+
+**Isaiah 28:1**
+
+[TODO]
+
+**Isaiah 28:2**
+
+[TODO]
+
+**Isaiah 28:3**
+
+[TODO]
+
+**Isaiah 28:4**
+
+[TODO]
+
+**Isaiah 28:5**
+
+[TODO]
+
+**Isaiah 28:6**
+
+[TODO]
+
+**Isaiah 28:7**
+
+[TODO]
+
+**Isaiah 28:8**
+
+[TODO]
+
+**Isaiah 28:9**
+
+[TODO]
+
+**Isaiah 28:10**
+
+[TODO]
+
+**Isaiah 28:11**
+
+[TODO]
+
+**Isaiah 28:12**
+
+[TODO]
+
+**Isaiah 28:13**
+
+[TODO]
+
+**Isaiah 28:14**
+
+[TODO]
+
+**Isaiah 28:15**
+
+[TODO]
+
+**Isaiah 28:16**
+
+[TODO]
+
+**Isaiah 28:17**
+
+[TODO]
+
+**Isaiah 28:18**
+
+[TODO]
+
+**Isaiah 28:19**
+
+[TODO]
+
+**Isaiah 28:20**
+
+[TODO]
+
+**Isaiah 28:21**
+
+[TODO]
+
+**Isaiah 28:22**
+
+[TODO]
+
+**Isaiah 28:23**
+
+[TODO]
+
+**Isaiah 28:24**
+
+[TODO]
+
+**Isaiah 28:25**
+
+[TODO]
+
+**Isaiah 28:26**
+
+[TODO]
+
+**Isaiah 28:27**
+
+[TODO]
+
+**Isaiah 28:28**
+
+[TODO]
+
+**Isaiah 28:29**
+
+[TODO]
+
+### Chapter 29
+
+**Isaiah 29:1**
+
+[TODO]
+
+**Isaiah 29:2**
+
+[TODO]
+
+**Isaiah 29:3**
+
+[TODO]
+
+**Isaiah 29:4**
+
+[TODO]
+
+**Isaiah 29:5**
+
+[TODO]
+
+**Isaiah 29:6**
+
+[TODO]
+
+**Isaiah 29:7**
+
+[TODO]
+
+**Isaiah 29:8**
+
+[TODO]
+
+**Isaiah 29:9**
+
+[TODO]
+
+**Isaiah 29:10**
+
+[TODO]
+
+**Isaiah 29:11**
+
+[TODO]
+
+**Isaiah 29:12**
+
+[TODO]
+
+**Isaiah 29:13**
+
+[TODO]
+
+**Isaiah 29:14**
+
+[TODO]
+
+**Isaiah 29:15**
+
+[TODO]
+
+**Isaiah 29:16**
+
+[TODO]
+
+**Isaiah 29:17**
+
+[TODO]
+
+**Isaiah 29:18**
+
+[TODO]
+
+**Isaiah 29:19**
+
+[TODO]
+
+**Isaiah 29:20**
+
+[TODO]
+
+**Isaiah 29:21**
+
+[TODO]
+
+**Isaiah 29:22**
+
+[TODO]
+
+**Isaiah 29:23**
+
+[TODO]
+
+**Isaiah 29:24**
+
+[TODO]
+
+### Chapter 30
+
+**Isaiah 30:1**
+
+[TODO]
+
+**Isaiah 30:2**
+
+[TODO]
+
+**Isaiah 30:3**
+
+[TODO]
+
+**Isaiah 30:4**
+
+[TODO]
+
+**Isaiah 30:5**
+
+[TODO]
+
+**Isaiah 30:6**
+
+[TODO]
+
+**Isaiah 30:7**
+
+[TODO]
+
+**Isaiah 30:8**
+
+[TODO]
+
+**Isaiah 30:9**
+
+[TODO]
+
+**Isaiah 30:10**
+
+[TODO]
+
+**Isaiah 30:11**
+
+[TODO]
+
+**Isaiah 30:12**
+
+[TODO]
+
+**Isaiah 30:13**
+
+[TODO]
+
+**Isaiah 30:14**
+
+[TODO]
+
+**Isaiah 30:15**
+
+[TODO]
+
+**Isaiah 30:16**
+
+[TODO]
+
+**Isaiah 30:17**
+
+[TODO]
+
+**Isaiah 30:18**
+
+[TODO]
+
+**Isaiah 30:19**
+
+[TODO]
+
+**Isaiah 30:20**
+
+[TODO]
+
+**Isaiah 30:21**
+
+[TODO]
+
+**Isaiah 30:22**
+
+[TODO]
+
+**Isaiah 30:23**
+
+[TODO]
+
+**Isaiah 30:24**
+
+[TODO]
+
+**Isaiah 30:25**
+
+[TODO]
+
+**Isaiah 30:26**
+
+[TODO]
+
+**Isaiah 30:27**
+
+[TODO]
+
+**Isaiah 30:28**
+
+[TODO]
+
+**Isaiah 30:29**
+
+[TODO]
+
+**Isaiah 30:30**
+
+[TODO]
+
+**Isaiah 30:31**
+
+[TODO]
+
+**Isaiah 30:32**
+
+[TODO]
+
+**Isaiah 30:33**
+
+[TODO]
+
+### Chapter 31
+
+**Isaiah 31:1**
+
+[TODO]
+
+**Isaiah 31:2**
+
+[TODO]
+
+**Isaiah 31:3**
+
+[TODO]
+
+**Isaiah 31:4**
+
+[TODO]
+
+**Isaiah 31:5**
+
+[TODO]
+
+**Isaiah 31:6**
+
+[TODO]
+
+**Isaiah 31:7**
+
+[TODO]
+
+**Isaiah 31:8**
+
+[TODO]
+
+**Isaiah 31:9**
+
+[TODO]
+
+### Chapter 32
+
+**Isaiah 32:1**
+
+[TODO]
+
+**Isaiah 32:2**
+
+[TODO]
+
+**Isaiah 32:3**
+
+[TODO]
+
+**Isaiah 32:4**
+
+[TODO]
+
+**Isaiah 32:5**
+
+[TODO]
+
+**Isaiah 32:6**
+
+[TODO]
+
+**Isaiah 32:7**
+
+[TODO]
+
+**Isaiah 32:8**
+
+[TODO]
+
+**Isaiah 32:9**
+
+[TODO]
+
+**Isaiah 32:10**
+
+[TODO]
+
+**Isaiah 32:11**
+
+[TODO]
+
+**Isaiah 32:12**
+
+[TODO]
+
+**Isaiah 32:13**
+
+[TODO]
+
+**Isaiah 32:14**
+
+[TODO]
+
+**Isaiah 32:15**
+
+[TODO]
+
+**Isaiah 32:16**
+
+[TODO]
+
+**Isaiah 32:17**
+
+[TODO]
+
+**Isaiah 32:18**
+
+[TODO]
+
+**Isaiah 32:19**
+
+[TODO]
+
+**Isaiah 32:20**
+
+[TODO]
+
+### Chapter 33
+
+**Isaiah 33:1**
+
+[TODO]
+
+**Isaiah 33:2**
+
+[TODO]
+
+**Isaiah 33:3**
+
+[TODO]
+
+**Isaiah 33:4**
+
+[TODO]
+
+**Isaiah 33:5**
+
+[TODO]
+
+**Isaiah 33:6**
+
+[TODO]
+
+**Isaiah 33:7**
+
+[TODO]
+
+**Isaiah 33:8**
+
+[TODO]
+
+**Isaiah 33:9**
+
+[TODO]
+
+**Isaiah 33:10**
+
+[TODO]
+
+**Isaiah 33:11**
+
+[TODO]
+
+**Isaiah 33:12**
+
+[TODO]
+
+**Isaiah 33:13**
+
+[TODO]
+
+**Isaiah 33:14**
+
+[TODO]
+
+**Isaiah 33:15**
+
+[TODO]
+
+**Isaiah 33:16**
+
+[TODO]
+
+**Isaiah 33:17**
+
+[TODO]
+
+**Isaiah 33:18**
+
+[TODO]
+
+**Isaiah 33:19**
+
+[TODO]
+
+**Isaiah 33:20**
+
+[TODO]
+
+**Isaiah 33:21**
+
+[TODO]
+
+**Isaiah 33:22**
+
+[TODO]
+
+**Isaiah 33:23**
+
+[TODO]
+
+**Isaiah 33:24**
+
+[TODO]
+
+### Chapter 34
+
+**Isaiah 34:1**
+
+[TODO]
+
+**Isaiah 34:2**
+
+[TODO]
+
+**Isaiah 34:3**
+
+[TODO]
+
+**Isaiah 34:4**
+
+[TODO]
+
+**Isaiah 34:5**
+
+[TODO]
+
+**Isaiah 34:6**
+
+[TODO]
+
+**Isaiah 34:7**
+
+[TODO]
+
+**Isaiah 34:8**
+
+[TODO]
+
+**Isaiah 34:9**
+
+[TODO]
+
+**Isaiah 34:10**
+
+[TODO]
+
+**Isaiah 34:11**
+
+[TODO]
+
+**Isaiah 34:12**
+
+[TODO]
+
+**Isaiah 34:13**
+
+[TODO]
+
+**Isaiah 34:14**
+
+[TODO]
+
+**Isaiah 34:15**
+
+[TODO]
+
+**Isaiah 34:16**
+
+[TODO]
+
+**Isaiah 34:17**
+
+[TODO]
+
+### Chapter 35
+
+**Isaiah 35:1**
+
+[TODO]
+
+**Isaiah 35:2**
+
+[TODO]
+
+**Isaiah 35:3**
+
+[TODO]
+
+**Isaiah 35:4**
+
+[TODO]
+
+**Isaiah 35:5**
+
+[TODO]
+
+**Isaiah 35:6**
+
+[TODO]
+
+**Isaiah 35:7**
+
+[TODO]
+
+**Isaiah 35:8**
+
+[TODO]
+
+**Isaiah 35:9**
+
+[TODO]
+
+**Isaiah 35:10**
+
+[TODO]
+
+### Chapter 36
+
+**Isaiah 36:1**
+
+[TODO]
+
+**Isaiah 36:2**
+
+[TODO]
+
+**Isaiah 36:3**
+
+[TODO]
+
+**Isaiah 36:4**
+
+[TODO]
+
+**Isaiah 36:5**
+
+[TODO]
+
+**Isaiah 36:6**
+
+[TODO]
+
+**Isaiah 36:7**
+
+[TODO]
+
+**Isaiah 36:8**
+
+[TODO]
+
+**Isaiah 36:9**
+
+[TODO]
+
+**Isaiah 36:10**
+
+[TODO]
+
+**Isaiah 36:11**
+
+[TODO]
+
+**Isaiah 36:12**
+
+[TODO]
+
+**Isaiah 36:13**
+
+[TODO]
+
+**Isaiah 36:14**
+
+[TODO]
+
+**Isaiah 36:15**
+
+[TODO]
+
+**Isaiah 36:16**
+
+[TODO]
+
+**Isaiah 36:17**
+
+[TODO]
+
+**Isaiah 36:18**
+
+[TODO]
+
+**Isaiah 36:19**
+
+[TODO]
+
+**Isaiah 36:20**
+
+[TODO]
+
+**Isaiah 36:21**
+
+[TODO]
+
+**Isaiah 36:22**
+
+[TODO]
+
+### Chapter 37
+
+**Isaiah 37:1**
+
+[TODO]
+
+**Isaiah 37:2**
+
+[TODO]
+
+**Isaiah 37:3**
+
+[TODO]
+
+**Isaiah 37:4**
+
+[TODO]
+
+**Isaiah 37:5**
+
+[TODO]
+
+**Isaiah 37:6**
+
+[TODO]
+
+**Isaiah 37:7**
+
+[TODO]
+
+**Isaiah 37:8**
+
+[TODO]
+
+**Isaiah 37:9**
+
+[TODO]
+
+**Isaiah 37:10**
+
+[TODO]
+
+**Isaiah 37:11**
+
+[TODO]
+
+**Isaiah 37:12**
+
+[TODO]
+
+**Isaiah 37:13**
+
+[TODO]
+
+**Isaiah 37:14**
+
+[TODO]
+
+**Isaiah 37:15**
+
+[TODO]
+
+**Isaiah 37:16**
+
+[TODO]
+
+**Isaiah 37:17**
+
+[TODO]
+
+**Isaiah 37:18**
+
+[TODO]
+
+**Isaiah 37:19**
+
+[TODO]
+
+**Isaiah 37:20**
+
+[TODO]
+
+**Isaiah 37:21**
+
+[TODO]
+
+**Isaiah 37:22**
+
+[TODO]
+
+**Isaiah 37:23**
+
+[TODO]
+
+**Isaiah 37:24**
+
+[TODO]
+
+**Isaiah 37:25**
+
+[TODO]
+
+**Isaiah 37:26**
+
+[TODO]
+
+**Isaiah 37:27**
+
+[TODO]
+
+**Isaiah 37:28**
+
+[TODO]
+
+**Isaiah 37:29**
+
+[TODO]
+
+**Isaiah 37:30**
+
+[TODO]
+
+**Isaiah 37:31**
+
+[TODO]
+
+**Isaiah 37:32**
+
+[TODO]
+
+**Isaiah 37:33**
+
+[TODO]
+
+**Isaiah 37:34**
+
+[TODO]
+
+**Isaiah 37:35**
+
+[TODO]
+
+**Isaiah 37:36**
+
+[TODO]
+
+**Isaiah 37:37**
+
+[TODO]
+
+**Isaiah 37:38**
+
+[TODO]
+
+### Chapter 38
+
+**Isaiah 38:1**
+
+[TODO]
+
+**Isaiah 38:2**
+
+[TODO]
+
+**Isaiah 38:3**
+
+[TODO]
+
+**Isaiah 38:4**
+
+[TODO]
+
+**Isaiah 38:5**
+
+[TODO]
+
+**Isaiah 38:6**
+
+[TODO]
+
+**Isaiah 38:7**
+
+[TODO]
+
+**Isaiah 38:8**
+
+[TODO]
+
+**Isaiah 38:9**
+
+[TODO]
+
+**Isaiah 38:10**
+
+[TODO]
+
+**Isaiah 38:11**
+
+[TODO]
+
+**Isaiah 38:12**
+
+[TODO]
+
+**Isaiah 38:13**
+
+[TODO]
+
+**Isaiah 38:14**
+
+[TODO]
+
+**Isaiah 38:15**
+
+[TODO]
+
+**Isaiah 38:16**
+
+[TODO]
+
+**Isaiah 38:17**
+
+[TODO]
+
+**Isaiah 38:18**
+
+[TODO]
+
+**Isaiah 38:19**
+
+[TODO]
+
+**Isaiah 38:20**
+
+[TODO]
+
+**Isaiah 38:21**
+
+[TODO]
+
+**Isaiah 38:22**
+
+[TODO]
+
+### Chapter 39
+
+**Isaiah 39:1**
+
+[TODO]
+
+**Isaiah 39:2**
+
+[TODO]
+
+**Isaiah 39:3**
+
+[TODO]
+
+**Isaiah 39:4**
+
+[TODO]
+
+**Isaiah 39:5**
+
+[TODO]
+
+**Isaiah 39:6**
+
+[TODO]
+
+**Isaiah 39:7**
+
+[TODO]
+
+**Isaiah 39:8**
+
+[TODO]
+
+### Chapter 40
+
+**Isaiah 40:1**
+
+[TODO]
+
+**Isaiah 40:2**
+
+[TODO]
+
+**Isaiah 40:3**
+
+[TODO]
+
+**Isaiah 40:4**
+
+[TODO]
+
+**Isaiah 40:5**
+
+[TODO]
+
+**Isaiah 40:6**
+
+[TODO]
+
+**Isaiah 40:7**
+
+[TODO]
+
+**Isaiah 40:8**
+
+[TODO]
+
+**Isaiah 40:9**
+
+[TODO]
+
+**Isaiah 40:10**
+
+[TODO]
+
+**Isaiah 40:11**
+
+[TODO]
+
+**Isaiah 40:12**
+
+[TODO]
+
+**Isaiah 40:13**
+
+[TODO]
+
+**Isaiah 40:14**
+
+[TODO]
+
+**Isaiah 40:15**
+
+[TODO]
+
+**Isaiah 40:16**
+
+[TODO]
+
+**Isaiah 40:17**
+
+[TODO]
+
+**Isaiah 40:18**
+
+[TODO]
+
+**Isaiah 40:19**
+
+[TODO]
+
+**Isaiah 40:20**
+
+[TODO]
+
+**Isaiah 40:21**
+
+[TODO]
+
+**Isaiah 40:22**
+
+[TODO]
+
+**Isaiah 40:23**
+
+[TODO]
+
+**Isaiah 40:24**
+
+[TODO]
+
+**Isaiah 40:25**
+
+[TODO]
+
+**Isaiah 40:26**
+
+[TODO]
+
+**Isaiah 40:27**
+
+[TODO]
+
+**Isaiah 40:28**
+
+[TODO]
+
+**Isaiah 40:29**
+
+[TODO]
+
+**Isaiah 40:30**
+
+[TODO]
+
+**Isaiah 40:31**
+
+[TODO]
+
+### Chapter 41
+
+**Isaiah 41:1**
+
+[TODO]
+
+**Isaiah 41:2**
+
+[TODO]
+
+**Isaiah 41:3**
+
+[TODO]
+
+**Isaiah 41:4**
+
+[TODO]
+
+**Isaiah 41:5**
+
+[TODO]
+
+**Isaiah 41:6**
+
+[TODO]
+
+**Isaiah 41:7**
+
+[TODO]
+
+**Isaiah 41:8**
+
+[TODO]
+
+**Isaiah 41:9**
+
+[TODO]
+
+**Isaiah 41:10**
+
+[TODO]
+
+**Isaiah 41:11**
+
+[TODO]
+
+**Isaiah 41:12**
+
+[TODO]
+
+**Isaiah 41:13**
+
+[TODO]
+
+**Isaiah 41:14**
+
+[TODO]
+
+**Isaiah 41:15**
+
+[TODO]
+
+**Isaiah 41:16**
+
+[TODO]
+
+**Isaiah 41:17**
+
+[TODO]
+
+**Isaiah 41:18**
+
+[TODO]
+
+**Isaiah 41:19**
+
+[TODO]
+
+**Isaiah 41:20**
+
+[TODO]
+
+**Isaiah 41:21**
+
+[TODO]
+
+**Isaiah 41:22**
+
+[TODO]
+
+**Isaiah 41:23**
+
+[TODO]
+
+**Isaiah 41:24**
+
+[TODO]
+
+**Isaiah 41:25**
+
+[TODO]
+
+**Isaiah 41:26**
+
+[TODO]
+
+**Isaiah 41:27**
+
+[TODO]
+
+**Isaiah 41:28**
+
+[TODO]
+
+**Isaiah 41:29**
+
+[TODO]
+
+### Chapter 42
+
+**Isaiah 42:1**
+
+[TODO]
+
+**Isaiah 42:2**
+
+[TODO]
+
+**Isaiah 42:3**
+
+[TODO]
+
+**Isaiah 42:4**
+
+[TODO]
+
+**Isaiah 42:5**
+
+[TODO]
+
+**Isaiah 42:6**
+
+[TODO]
+
+**Isaiah 42:7**
+
+[TODO]
+
+**Isaiah 42:8**
+
+[TODO]
+
+**Isaiah 42:9**
+
+[TODO]
+
+**Isaiah 42:10**
+
+[TODO]
+
+**Isaiah 42:11**
+
+[TODO]
+
+**Isaiah 42:12**
+
+[TODO]
+
+**Isaiah 42:13**
+
+[TODO]
+
+**Isaiah 42:14**
+
+[TODO]
+
+**Isaiah 42:15**
+
+[TODO]
+
+**Isaiah 42:16**
+
+[TODO]
+
+**Isaiah 42:17**
+
+[TODO]
+
+**Isaiah 42:18**
+
+[TODO]
+
+**Isaiah 42:19**
+
+[TODO]
+
+**Isaiah 42:20**
+
+[TODO]
+
+**Isaiah 42:21**
+
+[TODO]
+
+**Isaiah 42:22**
+
+[TODO]
+
+**Isaiah 42:23**
+
+[TODO]
+
+**Isaiah 42:24**
+
+[TODO]
+
+**Isaiah 42:25**
+
+[TODO]
+
+### Chapter 43
+
+**Isaiah 43:1**
+
+[TODO]
+
+**Isaiah 43:2**
+
+[TODO]
+
+**Isaiah 43:3**
+
+[TODO]
+
+**Isaiah 43:4**
+
+[TODO]
+
+**Isaiah 43:5**
+
+[TODO]
+
+**Isaiah 43:6**
+
+[TODO]
+
+**Isaiah 43:7**
+
+[TODO]
+
+**Isaiah 43:8**
+
+[TODO]
+
+**Isaiah 43:9**
+
+[TODO]
+
+**Isaiah 43:10**
+
+[TODO]
+
+**Isaiah 43:11**
+
+[TODO]
+
+**Isaiah 43:12**
+
+[TODO]
+
+**Isaiah 43:13**
+
+[TODO]
+
+**Isaiah 43:14**
+
+[TODO]
+
+**Isaiah 43:15**
+
+[TODO]
+
+**Isaiah 43:16**
+
+[TODO]
+
+**Isaiah 43:17**
+
+[TODO]
+
+**Isaiah 43:18**
+
+[TODO]
+
+**Isaiah 43:19**
+
+[TODO]
+
+**Isaiah 43:20**
+
+[TODO]
+
+**Isaiah 43:21**
+
+[TODO]
+
+**Isaiah 43:22**
+
+[TODO]
+
+**Isaiah 43:23**
+
+[TODO]
+
+**Isaiah 43:24**
+
+[TODO]
+
+**Isaiah 43:25**
+
+[TODO]
+
+**Isaiah 43:26**
+
+[TODO]
+
+**Isaiah 43:27**
+
+[TODO]
+
+**Isaiah 43:28**
+
+[TODO]
+
+### Chapter 44
+
+**Isaiah 44:1**
+
+[TODO]
+
+**Isaiah 44:2**
+
+[TODO]
+
+**Isaiah 44:3**
+
+[TODO]
+
+**Isaiah 44:4**
+
+[TODO]
+
+**Isaiah 44:5**
+
+[TODO]
+
+**Isaiah 44:6**
+
+[TODO]
+
+**Isaiah 44:7**
+
+[TODO]
+
+**Isaiah 44:8**
+
+[TODO]
+
+**Isaiah 44:9**
+
+[TODO]
+
+**Isaiah 44:10**
+
+[TODO]
+
+**Isaiah 44:11**
+
+[TODO]
+
+**Isaiah 44:12**
+
+[TODO]
+
+**Isaiah 44:13**
+
+[TODO]
+
+**Isaiah 44:14**
+
+[TODO]
+
+**Isaiah 44:15**
+
+[TODO]
+
+**Isaiah 44:16**
+
+[TODO]
+
+**Isaiah 44:17**
+
+[TODO]
+
+**Isaiah 44:18**
+
+[TODO]
+
+**Isaiah 44:19**
+
+[TODO]
+
+**Isaiah 44:20**
+
+[TODO]
+
+**Isaiah 44:21**
+
+[TODO]
+
+**Isaiah 44:22**
+
+[TODO]
+
+**Isaiah 44:23**
+
+[TODO]
+
+**Isaiah 44:24**
+
+[TODO]
+
+**Isaiah 44:25**
+
+[TODO]
+
+**Isaiah 44:26**
+
+[TODO]
+
+**Isaiah 44:27**
+
+[TODO]
+
+**Isaiah 44:28**
+
+[TODO]
+
+### Chapter 45
+
+**Isaiah 45:1**
+
+[TODO]
+
+**Isaiah 45:2**
+
+[TODO]
+
+**Isaiah 45:3**
+
+[TODO]
+
+**Isaiah 45:4**
+
+[TODO]
+
+**Isaiah 45:5**
+
+[TODO]
+
+**Isaiah 45:6**
+
+[TODO]
+
+**Isaiah 45:7**
+
+[TODO]
+
+**Isaiah 45:8**
+
+[TODO]
+
+**Isaiah 45:9**
+
+[TODO]
+
+**Isaiah 45:10**
+
+[TODO]
+
+**Isaiah 45:11**
+
+[TODO]
+
+**Isaiah 45:12**
+
+[TODO]
+
+**Isaiah 45:13**
+
+[TODO]
+
+**Isaiah 45:14**
+
+[TODO]
+
+**Isaiah 45:15**
+
+[TODO]
+
+**Isaiah 45:16**
+
+[TODO]
+
+**Isaiah 45:17**
+
+[TODO]
+
+**Isaiah 45:18**
+
+[TODO]
+
+**Isaiah 45:19**
+
+[TODO]
+
+**Isaiah 45:20**
+
+[TODO]
+
+**Isaiah 45:21**
+
+[TODO]
+
+**Isaiah 45:22**
+
+[TODO]
+
+**Isaiah 45:23**
+
+[TODO]
+
+**Isaiah 45:24**
+
+[TODO]
+
+**Isaiah 45:25**
+
+[TODO]
+
+### Chapter 46
+
+**Isaiah 46:1**
+
+[TODO]
+
+**Isaiah 46:2**
+
+[TODO]
+
+**Isaiah 46:3**
+
+[TODO]
+
+**Isaiah 46:4**
+
+[TODO]
+
+**Isaiah 46:5**
+
+[TODO]
+
+**Isaiah 46:6**
+
+[TODO]
+
+**Isaiah 46:7**
+
+[TODO]
+
+**Isaiah 46:8**
+
+[TODO]
+
+**Isaiah 46:9**
+
+[TODO]
+
+**Isaiah 46:10**
+
+[TODO]
+
+**Isaiah 46:11**
+
+[TODO]
+
+**Isaiah 46:12**
+
+[TODO]
+
+**Isaiah 46:13**
+
+[TODO]
+
+### Chapter 47
+
+**Isaiah 47:1**
+
+[TODO]
+
+**Isaiah 47:2**
+
+[TODO]
+
+**Isaiah 47:3**
+
+[TODO]
+
+**Isaiah 47:4**
+
+[TODO]
+
+**Isaiah 47:5**
+
+[TODO]
+
+**Isaiah 47:6**
+
+[TODO]
+
+**Isaiah 47:7**
+
+[TODO]
+
+**Isaiah 47:8**
+
+[TODO]
+
+**Isaiah 47:9**
+
+[TODO]
+
+**Isaiah 47:10**
+
+[TODO]
+
+**Isaiah 47:11**
+
+[TODO]
+
+**Isaiah 47:12**
+
+[TODO]
+
+**Isaiah 47:13**
+
+[TODO]
+
+**Isaiah 47:14**
+
+[TODO]
+
+**Isaiah 47:15**
+
+[TODO]
+
+### Chapter 48
+
+**Isaiah 48:1**
+
+[TODO]
+
+**Isaiah 48:2**
+
+[TODO]
+
+**Isaiah 48:3**
+
+[TODO]
+
+**Isaiah 48:4**
+
+[TODO]
+
+**Isaiah 48:5**
+
+[TODO]
+
+**Isaiah 48:6**
+
+[TODO]
+
+**Isaiah 48:7**
+
+[TODO]
+
+**Isaiah 48:8**
+
+[TODO]
+
+**Isaiah 48:9**
+
+[TODO]
+
+**Isaiah 48:10**
+
+[TODO]
+
+**Isaiah 48:11**
+
+[TODO]
+
+**Isaiah 48:12**
+
+[TODO]
+
+**Isaiah 48:13**
+
+[TODO]
+
+**Isaiah 48:14**
+
+[TODO]
+
+**Isaiah 48:15**
+
+[TODO]
+
+**Isaiah 48:16**
+
+[TODO]
+
+**Isaiah 48:17**
+
+[TODO]
+
+**Isaiah 48:18**
+
+[TODO]
+
+**Isaiah 48:19**
+
+[TODO]
+
+**Isaiah 48:20**
+
+[TODO]
+
+**Isaiah 48:21**
+
+[TODO]
+
+**Isaiah 48:22**
+
+[TODO]
+
+### Chapter 49
+
+**Isaiah 49:1**
+
+[TODO]
+
+**Isaiah 49:2**
+
+[TODO]
+
+**Isaiah 49:3**
+
+[TODO]
+
+**Isaiah 49:4**
+
+[TODO]
+
+**Isaiah 49:5**
+
+[TODO]
+
+**Isaiah 49:6**
+
+[TODO]
+
+**Isaiah 49:7**
+
+[TODO]
+
+**Isaiah 49:8**
+
+[TODO]
+
+**Isaiah 49:9**
+
+[TODO]
+
+**Isaiah 49:10**
+
+[TODO]
+
+**Isaiah 49:11**
+
+[TODO]
+
+**Isaiah 49:12**
+
+[TODO]
+
+**Isaiah 49:13**
+
+[TODO]
+
+**Isaiah 49:14**
+
+[TODO]
+
+**Isaiah 49:15**
+
+[TODO]
+
+**Isaiah 49:16**
+
+[TODO]
+
+**Isaiah 49:17**
+
+[TODO]
+
+**Isaiah 49:18**
+
+[TODO]
+
+**Isaiah 49:19**
+
+[TODO]
+
+**Isaiah 49:20**
+
+[TODO]
+
+**Isaiah 49:21**
+
+[TODO]
+
+**Isaiah 49:22**
+
+[TODO]
+
+**Isaiah 49:23**
+
+[TODO]
+
+**Isaiah 49:24**
+
+[TODO]
+
+**Isaiah 49:25**
+
+[TODO]
+
+**Isaiah 49:26**
+
+[TODO]
+
+### Chapter 50
+
+**Isaiah 50:1**
+
+[TODO]
+
+**Isaiah 50:2**
+
+[TODO]
+
+**Isaiah 50:3**
+
+[TODO]
+
+**Isaiah 50:4**
+
+[TODO]
+
+**Isaiah 50:5**
+
+[TODO]
+
+**Isaiah 50:6**
+
+[TODO]
+
+**Isaiah 50:7**
+
+[TODO]
+
+**Isaiah 50:8**
+
+[TODO]
+
+**Isaiah 50:9**
+
+[TODO]
+
+**Isaiah 50:10**
+
+[TODO]
+
+**Isaiah 50:11**
+
+[TODO]
+
+### Chapter 51
+
+**Isaiah 51:1**
+
+[TODO]
+
+**Isaiah 51:2**
+
+[TODO]
+
+**Isaiah 51:3**
+
+[TODO]
+
+**Isaiah 51:4**
+
+[TODO]
+
+**Isaiah 51:5**
+
+[TODO]
+
+**Isaiah 51:6**
+
+[TODO]
+
+**Isaiah 51:7**
+
+[TODO]
+
+**Isaiah 51:8**
+
+[TODO]
+
+**Isaiah 51:9**
+
+[TODO]
+
+**Isaiah 51:10**
+
+[TODO]
+
+**Isaiah 51:11**
+
+[TODO]
+
+**Isaiah 51:12**
+
+[TODO]
+
+**Isaiah 51:13**
+
+[TODO]
+
+**Isaiah 51:14**
+
+[TODO]
+
+**Isaiah 51:15**
+
+[TODO]
+
+**Isaiah 51:16**
+
+[TODO]
+
+**Isaiah 51:17**
+
+[TODO]
+
+**Isaiah 51:18**
+
+[TODO]
+
+**Isaiah 51:19**
+
+[TODO]
+
+**Isaiah 51:20**
+
+[TODO]
+
+**Isaiah 51:21**
+
+[TODO]
+
+**Isaiah 51:22**
+
+[TODO]
+
+**Isaiah 51:23**
+
+[TODO]
+
+### Chapter 52
+
+**Isaiah 52:1**
+
+[TODO]
+
+**Isaiah 52:2**
+
+[TODO]
+
+**Isaiah 52:3**
+
+[TODO]
+
+**Isaiah 52:4**
+
+[TODO]
+
+**Isaiah 52:5**
+
+[TODO]
+
+**Isaiah 52:6**
+
+[TODO]
+
+**Isaiah 52:7**
+
+[TODO]
+
+**Isaiah 52:8**
+
+[TODO]
+
+**Isaiah 52:9**
+
+[TODO]
+
+**Isaiah 52:10**
+
+[TODO]
+
+**Isaiah 52:11**
+
+[TODO]
+
+**Isaiah 52:12**
+
+[TODO]
+
+**Isaiah 52:13**
+
+[TODO]
+
+**Isaiah 52:14**
+
+[TODO]
+
+**Isaiah 52:15**
+
+[TODO]
+
+### Chapter 53
+
+**Isaiah 53:1**
+
+[TODO]
+
+**Isaiah 53:2**
+
+[TODO]
+
+**Isaiah 53:3**
+
+[TODO]
+
+**Isaiah 53:4**
+
+[TODO]
+
+**Isaiah 53:5**
+
+[TODO]
+
+**Isaiah 53:6**
+
+[TODO]
+
+**Isaiah 53:7**
+
+[TODO]
+
+**Isaiah 53:8**
+
+[TODO]
+
+**Isaiah 53:9**
+
+[TODO]
+
+**Isaiah 53:10**
+
+[TODO]
+
+**Isaiah 53:11**
+
+[TODO]
+
+**Isaiah 53:12**
+
+[TODO]
+
+### Chapter 54
+
+**Isaiah 54:1**
+
+[TODO]
+
+**Isaiah 54:2**
+
+[TODO]
+
+**Isaiah 54:3**
+
+[TODO]
+
+**Isaiah 54:4**
+
+[TODO]
+
+**Isaiah 54:5**
+
+[TODO]
+
+**Isaiah 54:6**
+
+[TODO]
+
+**Isaiah 54:7**
+
+[TODO]
+
+**Isaiah 54:8**
+
+[TODO]
+
+**Isaiah 54:9**
+
+[TODO]
+
+**Isaiah 54:10**
+
+[TODO]
+
+**Isaiah 54:11**
+
+[TODO]
+
+**Isaiah 54:12**
+
+[TODO]
+
+**Isaiah 54:13**
+
+[TODO]
+
+**Isaiah 54:14**
+
+[TODO]
+
+**Isaiah 54:15**
+
+[TODO]
+
+**Isaiah 54:16**
+
+[TODO]
+
+**Isaiah 54:17**
+
+[TODO]
+
+### Chapter 55
+
+**Isaiah 55:1**
+
+[TODO]
+
+**Isaiah 55:2**
+
+[TODO]
+
+**Isaiah 55:3**
+
+[TODO]
+
+**Isaiah 55:4**
+
+[TODO]
+
+**Isaiah 55:5**
+
+[TODO]
+
+**Isaiah 55:6**
+
+[TODO]
+
+**Isaiah 55:7**
+
+[TODO]
+
+**Isaiah 55:8**
+
+[TODO]
+
+**Isaiah 55:9**
+
+[TODO]
+
+**Isaiah 55:10**
+
+[TODO]
+
+**Isaiah 55:11**
+
+[TODO]
+
+**Isaiah 55:12**
+
+[TODO]
+
+**Isaiah 55:13**
+
+[TODO]
+
+### Chapter 56
+
+**Isaiah 56:1**
+
+[TODO]
+
+**Isaiah 56:2**
+
+[TODO]
+
+**Isaiah 56:3**
+
+[TODO]
+
+**Isaiah 56:4**
+
+[TODO]
+
+**Isaiah 56:5**
+
+[TODO]
+
+**Isaiah 56:6**
+
+[TODO]
+
+**Isaiah 56:7**
+
+[TODO]
+
+**Isaiah 56:8**
+
+[TODO]
+
+**Isaiah 56:9**
+
+[TODO]
+
+**Isaiah 56:10**
+
+[TODO]
+
+**Isaiah 56:11**
+
+[TODO]
+
+### Chapter 57
+
+**Isaiah 57:1**
+
+[TODO]
+
+**Isaiah 57:2**
+
+[TODO]
+
+**Isaiah 57:3**
+
+[TODO]
+
+**Isaiah 57:4**
+
+[TODO]
+
+**Isaiah 57:5**
+
+[TODO]
+
+**Isaiah 57:6**
+
+[TODO]
+
+**Isaiah 57:7**
+
+[TODO]
+
+**Isaiah 57:8**
+
+[TODO]
+
+**Isaiah 57:9**
+
+[TODO]
+
+**Isaiah 57:10**
+
+[TODO]
+
+**Isaiah 57:11**
+
+[TODO]
+
+**Isaiah 57:12**
+
+[TODO]
+
+**Isaiah 57:13**
+
+[TODO]
+
+**Isaiah 57:14**
+
+[TODO]
+
+**Isaiah 57:15**
+
+[TODO]
+
+**Isaiah 57:16**
+
+[TODO]
+
+**Isaiah 57:17**
+
+[TODO]
+
+**Isaiah 57:18**
+
+[TODO]
+
+**Isaiah 57:19**
+
+[TODO]
+
+**Isaiah 57:20**
+
+[TODO]
+
+**Isaiah 57:21**
+
+[TODO]
+
+### Chapter 58
+
+**Isaiah 58:1**
+
+[TODO]
+
+**Isaiah 58:2**
+
+[TODO]
+
+**Isaiah 58:3**
+
+[TODO]
+
+**Isaiah 58:4**
+
+[TODO]
+
+**Isaiah 58:5**
+
+[TODO]
+
+**Isaiah 58:6**
+
+[TODO]
+
+**Isaiah 58:7**
+
+[TODO]
+
+**Isaiah 58:8**
+
+[TODO]
+
+**Isaiah 58:9**
+
+[TODO]
+
+**Isaiah 58:10**
+
+[TODO]
+
+**Isaiah 58:11**
+
+[TODO]
+
+**Isaiah 58:12**
+
+[TODO]
+
+**Isaiah 58:13**
+
+[TODO]
+
+**Isaiah 58:14**
+
+[TODO]
+
+### Chapter 59
+
+**Isaiah 59:1**
+
+[TODO]
+
+**Isaiah 59:2**
+
+[TODO]
+
+**Isaiah 59:3**
+
+[TODO]
+
+**Isaiah 59:4**
+
+[TODO]
+
+**Isaiah 59:5**
+
+[TODO]
+
+**Isaiah 59:6**
+
+[TODO]
+
+**Isaiah 59:7**
+
+[TODO]
+
+**Isaiah 59:8**
+
+[TODO]
+
+**Isaiah 59:9**
+
+[TODO]
+
+**Isaiah 59:10**
+
+[TODO]
+
+**Isaiah 59:11**
+
+[TODO]
+
+**Isaiah 59:12**
+
+[TODO]
+
+**Isaiah 59:13**
+
+[TODO]
+
+**Isaiah 59:14**
+
+[TODO]
+
+**Isaiah 59:15**
+
+[TODO]
+
+**Isaiah 59:16**
+
+[TODO]
+
+**Isaiah 59:17**
+
+[TODO]
+
+**Isaiah 59:18**
+
+[TODO]
+
+**Isaiah 59:19**
+
+[TODO]
+
+**Isaiah 59:20**
+
+[TODO]
+
+**Isaiah 59:21**
+
+[TODO]
+
+### Chapter 60
+
+**Isaiah 60:1**
+
+[TODO]
+
+**Isaiah 60:2**
+
+[TODO]
+
+**Isaiah 60:3**
+
+[TODO]
+
+**Isaiah 60:4**
+
+[TODO]
+
+**Isaiah 60:5**
+
+[TODO]
+
+**Isaiah 60:6**
+
+[TODO]
+
+**Isaiah 60:7**
+
+[TODO]
+
+**Isaiah 60:8**
+
+[TODO]
+
+**Isaiah 60:9**
+
+[TODO]
+
+**Isaiah 60:10**
+
+[TODO]
+
+**Isaiah 60:11**
+
+[TODO]
+
+**Isaiah 60:12**
+
+[TODO]
+
+**Isaiah 60:13**
+
+[TODO]
+
+**Isaiah 60:14**
+
+[TODO]
+
+**Isaiah 60:15**
+
+[TODO]
+
+**Isaiah 60:16**
+
+[TODO]
+
+**Isaiah 60:17**
+
+[TODO]
+
+**Isaiah 60:18**
+
+[TODO]
+
+**Isaiah 60:19**
+
+[TODO]
+
+**Isaiah 60:20**
+
+[TODO]
+
+**Isaiah 60:21**
+
+[TODO]
+
+**Isaiah 60:22**
+
+[TODO]
+
+### Chapter 61
+
+**Isaiah 61:1**
+
+[TODO]
+
+**Isaiah 61:2**
+
+[TODO]
+
+**Isaiah 61:3**
+
+[TODO]
+
+**Isaiah 61:4**
+
+[TODO]
+
+**Isaiah 61:5**
+
+[TODO]
+
+**Isaiah 61:6**
+
+[TODO]
+
+**Isaiah 61:7**
+
+[TODO]
+
+**Isaiah 61:8**
+
+[TODO]
+
+**Isaiah 61:9**
+
+[TODO]
+
+**Isaiah 61:10**
+
+[TODO]
+
+**Isaiah 61:11**
+
+[TODO]
+
+### Chapter 62
+
+**Isaiah 62:1**
+
+[TODO]
+
+**Isaiah 62:2**
+
+[TODO]
+
+**Isaiah 62:3**
+
+[TODO]
+
+**Isaiah 62:4**
+
+[TODO]
+
+**Isaiah 62:5**
+
+[TODO]
+
+**Isaiah 62:6**
+
+[TODO]
+
+**Isaiah 62:7**
+
+[TODO]
+
+**Isaiah 62:8**
+
+[TODO]
+
+**Isaiah 62:9**
+
+[TODO]
+
+**Isaiah 62:10**
+
+[TODO]
+
+**Isaiah 62:11**
+
+[TODO]
+
+**Isaiah 62:12**
+
+[TODO]
+
+### Chapter 63
+
+**Isaiah 63:1**
+
+[TODO]
+
+**Isaiah 63:2**
+
+[TODO]
+
+**Isaiah 63:3**
+
+[TODO]
+
+**Isaiah 63:4**
+
+[TODO]
+
+**Isaiah 63:5**
+
+[TODO]
+
+**Isaiah 63:6**
+
+[TODO]
+
+**Isaiah 63:7**
+
+[TODO]
+
+**Isaiah 63:8**
+
+[TODO]
+
+**Isaiah 63:9**
+
+[TODO]
+
+**Isaiah 63:10**
+
+[TODO]
+
+**Isaiah 63:11**
+
+[TODO]
+
+**Isaiah 63:12**
+
+[TODO]
+
+**Isaiah 63:13**
+
+[TODO]
+
+**Isaiah 63:14**
+
+[TODO]
+
+**Isaiah 63:15**
+
+[TODO]
+
+**Isaiah 63:16**
+
+[TODO]
+
+**Isaiah 63:17**
+
+[TODO]
+
+**Isaiah 63:18**
+
+[TODO]
+
+**Isaiah 63:19**
+
+[TODO]
+
+### Chapter 64
+
+**Isaiah 64:1**
+
+[TODO]
+
+**Isaiah 64:2**
+
+[TODO]
+
+**Isaiah 64:3**
+
+[TODO]
+
+**Isaiah 64:4**
+
+[TODO]
+
+**Isaiah 64:5**
+
+[TODO]
+
+**Isaiah 64:6**
+
+[TODO]
+
+**Isaiah 64:7**
+
+[TODO]
+
+**Isaiah 64:8**
+
+[TODO]
+
+**Isaiah 64:9**
+
+[TODO]
+
+**Isaiah 64:10**
+
+[TODO]
+
+**Isaiah 64:11**
+
+[TODO]
+
+### Chapter 65
+
+**Isaiah 65:1**
+
+[TODO]
+
+**Isaiah 65:2**
+
+[TODO]
+
+**Isaiah 65:3**
+
+[TODO]
+
+**Isaiah 65:4**
+
+[TODO]
+
+**Isaiah 65:5**
+
+[TODO]
+
+**Isaiah 65:6**
+
+[TODO]
+
+**Isaiah 65:7**
+
+[TODO]
+
+**Isaiah 65:8**
+
+[TODO]
+
+**Isaiah 65:9**
+
+[TODO]
+
+**Isaiah 65:10**
+
+[TODO]
+
+**Isaiah 65:11**
+
+[TODO]
+
+**Isaiah 65:12**
+
+[TODO]
+
+**Isaiah 65:13**
+
+[TODO]
+
+**Isaiah 65:14**
+
+[TODO]
+
+**Isaiah 65:15**
+
+[TODO]
+
+**Isaiah 65:16**
+
+[TODO]
+
+**Isaiah 65:17**
+
+[TODO]
+
+**Isaiah 65:18**
+
+[TODO]
+
+**Isaiah 65:19**
+
+[TODO]
+
+**Isaiah 65:20**
+
+[TODO]
+
+**Isaiah 65:21**
+
+[TODO]
+
+**Isaiah 65:22**
+
+[TODO]
+
+**Isaiah 65:23**
+
+[TODO]
+
+**Isaiah 65:24**
+
+[TODO]
+
+**Isaiah 65:25**
+
+[TODO]
+
+### Chapter 66
+
+**Isaiah 66:1**
+
+[TODO]
+
+**Isaiah 66:2**
+
+[TODO]
+
+**Isaiah 66:3**
+
+[TODO]
+
+**Isaiah 66:4**
+
+[TODO]
+
+**Isaiah 66:5**
+
+[TODO]
+
+**Isaiah 66:6**
+
+[TODO]
+
+**Isaiah 66:7**
+
+[TODO]
+
+**Isaiah 66:8**
+
+[TODO]
+
+**Isaiah 66:9**
+
+[TODO]
+
+**Isaiah 66:10**
+
+[TODO]
+
+**Isaiah 66:11**
+
+[TODO]
+
+**Isaiah 66:12**
+
+[TODO]
+
+**Isaiah 66:13**
+
+[TODO]
+
+**Isaiah 66:14**
+
+[TODO]
+
+**Isaiah 66:15**
+
+[TODO]
+
+**Isaiah 66:16**
+
+[TODO]
+
+**Isaiah 66:17**
+
+[TODO]
+
+**Isaiah 66:18**
+
+[TODO]
+
+**Isaiah 66:19**
+
+[TODO]
+
+**Isaiah 66:20**
+
+[TODO]
+
+**Isaiah 66:21**
+
+[TODO]
+
+**Isaiah 66:22**
+
+[TODO]
+
+**Isaiah 66:23**
+
+[TODO]
+
+**Isaiah 66:24**
+
+[TODO]
+
+## Jeremiah
+
+### Chapter 1
+
+**Jeremiah 1:1**
+
+[TODO]
+
+**Jeremiah 1:2**
+
+[TODO]
+
+**Jeremiah 1:3**
+
+[TODO]
+
+**Jeremiah 1:4**
+
+[TODO]
+
+**Jeremiah 1:5**
+
+[TODO]
+
+**Jeremiah 1:6**
+
+[TODO]
+
+**Jeremiah 1:7**
+
+[TODO]
+
+**Jeremiah 1:8**
+
+[TODO]
+
+**Jeremiah 1:9**
+
+[TODO]
+
+**Jeremiah 1:10**
+
+[TODO]
+
+**Jeremiah 1:11**
+
+[TODO]
+
+**Jeremiah 1:12**
+
+[TODO]
+
+**Jeremiah 1:13**
+
+[TODO]
+
+**Jeremiah 1:14**
+
+[TODO]
+
+**Jeremiah 1:15**
+
+[TODO]
+
+**Jeremiah 1:16**
+
+[TODO]
+
+**Jeremiah 1:17**
+
+[TODO]
+
+**Jeremiah 1:18**
+
+[TODO]
+
+**Jeremiah 1:19**
+
+[TODO]
+
+### Chapter 2
+
+**Jeremiah 2:2**
+
+[TODO]
+
+**Jeremiah 2:3**
+
+[TODO]
+
+**Jeremiah 2:4**
+
+[TODO]
+
+**Jeremiah 2:5**
+
+[TODO]
+
+**Jeremiah 2:6**
+
+[TODO]
+
+**Jeremiah 2:7**
+
+[TODO]
+
+**Jeremiah 2:8**
+
+[TODO]
+
+**Jeremiah 2:9**
+
+[TODO]
+
+**Jeremiah 2:10**
+
+[TODO]
+
+**Jeremiah 2:11**
+
+[TODO]
+
+**Jeremiah 2:12**
+
+[TODO]
+
+**Jeremiah 2:13**
+
+[TODO]
+
+**Jeremiah 2:14**
+
+[TODO]
+
+**Jeremiah 2:15**
+
+[TODO]
+
+**Jeremiah 2:16**
+
+[TODO]
+
+**Jeremiah 2:17**
+
+[TODO]
+
+**Jeremiah 2:18**
+
+[TODO]
+
+**Jeremiah 2:19**
+
+[TODO]
+
+**Jeremiah 2:20**
+
+[TODO]
+
+**Jeremiah 2:21**
+
+[TODO]
+
+**Jeremiah 2:22**
+
+[TODO]
+
+**Jeremiah 2:23**
+
+[TODO]
+
+**Jeremiah 2:24**
+
+[TODO]
+
+**Jeremiah 2:25**
+
+[TODO]
+
+**Jeremiah 2:26**
+
+[TODO]
+
+**Jeremiah 2:27**
+
+[TODO]
+
+**Jeremiah 2:28**
+
+[TODO]
+
+**Jeremiah 2:29**
+
+[TODO]
+
+**Jeremiah 2:30**
+
+[TODO]
+
+**Jeremiah 2:31**
+
+[TODO]
+
+**Jeremiah 2:32**
+
+[TODO]
+
+**Jeremiah 2:33**
+
+[TODO]
+
+**Jeremiah 2:34**
+
+[TODO]
+
+**Jeremiah 2:35**
+
+[TODO]
+
+**Jeremiah 2:36**
+
+[TODO]
+
+**Jeremiah 2:37**
+
+[TODO]
+
+### Chapter 3
+
+**Jeremiah 3:1**
+
+[TODO]
+
+**Jeremiah 3:2**
+
+[TODO]
+
+**Jeremiah 3:3**
+
+[TODO]
+
+**Jeremiah 3:4**
+
+[TODO]
+
+**Jeremiah 3:5**
+
+[TODO]
+
+**Jeremiah 3:6**
+
+[TODO]
+
+**Jeremiah 3:7**
+
+[TODO]
+
+**Jeremiah 3:8**
+
+[TODO]
+
+**Jeremiah 3:9**
+
+[TODO]
+
+**Jeremiah 3:10**
+
+[TODO]
+
+**Jeremiah 3:11**
+
+[TODO]
+
+**Jeremiah 3:12**
+
+[TODO]
+
+**Jeremiah 3:13**
+
+[TODO]
+
+**Jeremiah 3:14**
+
+[TODO]
+
+**Jeremiah 3:15**
+
+[TODO]
+
+**Jeremiah 3:16**
+
+[TODO]
+
+**Jeremiah 3:17**
+
+[TODO]
+
+**Jeremiah 3:18**
+
+[TODO]
+
+**Jeremiah 3:19**
+
+[TODO]
+
+**Jeremiah 3:20**
+
+[TODO]
+
+**Jeremiah 3:21**
+
+[TODO]
+
+**Jeremiah 3:22**
+
+[TODO]
+
+**Jeremiah 3:23**
+
+[TODO]
+
+**Jeremiah 3:24**
+
+[TODO]
+
+**Jeremiah 3:25**
+
+[TODO]
+
+### Chapter 4
+
+**Jeremiah 4:1**
+
+[TODO]
+
+**Jeremiah 4:2**
+
+[TODO]
+
+**Jeremiah 4:3**
+
+[TODO]
+
+**Jeremiah 4:4**
+
+[TODO]
+
+**Jeremiah 4:5**
+
+[TODO]
+
+**Jeremiah 4:6**
+
+[TODO]
+
+**Jeremiah 4:7**
+
+[TODO]
+
+**Jeremiah 4:8**
+
+[TODO]
+
+**Jeremiah 4:9**
+
+[TODO]
+
+**Jeremiah 4:10**
+
+[TODO]
+
+**Jeremiah 4:11**
+
+[TODO]
+
+**Jeremiah 4:12**
+
+[TODO]
+
+**Jeremiah 4:13**
+
+[TODO]
+
+**Jeremiah 4:14**
+
+[TODO]
+
+**Jeremiah 4:15**
+
+[TODO]
+
+**Jeremiah 4:16**
+
+[TODO]
+
+**Jeremiah 4:17**
+
+[TODO]
+
+**Jeremiah 4:18**
+
+[TODO]
+
+**Jeremiah 4:19**
+
+[TODO]
+
+**Jeremiah 4:20**
+
+[TODO]
+
+**Jeremiah 4:21**
+
+[TODO]
+
+**Jeremiah 4:22**
+
+[TODO]
+
+**Jeremiah 4:23**
+
+[TODO]
+
+**Jeremiah 4:24**
+
+[TODO]
+
+**Jeremiah 4:25**
+
+[TODO]
+
+**Jeremiah 4:26**
+
+[TODO]
+
+**Jeremiah 4:27**
+
+[TODO]
+
+**Jeremiah 4:28**
+
+[TODO]
+
+**Jeremiah 4:29**
+
+[TODO]
+
+**Jeremiah 4:30**
+
+[TODO]
+
+**Jeremiah 4:31**
+
+[TODO]
+
+### Chapter 5
+
+**Jeremiah 5:1**
+
+[TODO]
+
+**Jeremiah 5:2**
+
+[TODO]
+
+**Jeremiah 5:3**
+
+[TODO]
+
+**Jeremiah 5:4**
+
+[TODO]
+
+**Jeremiah 5:5**
+
+[TODO]
+
+**Jeremiah 5:6**
+
+[TODO]
+
+**Jeremiah 5:7**
+
+[TODO]
+
+**Jeremiah 5:8**
+
+[TODO]
+
+**Jeremiah 5:9**
+
+[TODO]
+
+**Jeremiah 5:10**
+
+[TODO]
+
+**Jeremiah 5:11**
+
+[TODO]
+
+**Jeremiah 5:12**
+
+[TODO]
+
+**Jeremiah 5:13**
+
+[TODO]
+
+**Jeremiah 5:14**
+
+[TODO]
+
+**Jeremiah 5:15**
+
+[TODO]
+
+**Jeremiah 5:16**
+
+[TODO]
+
+**Jeremiah 5:17**
+
+[TODO]
+
+**Jeremiah 5:18**
+
+[TODO]
+
+**Jeremiah 5:19**
+
+[TODO]
+
+**Jeremiah 5:20**
+
+[TODO]
+
+**Jeremiah 5:21**
+
+[TODO]
+
+**Jeremiah 5:22**
+
+[TODO]
+
+**Jeremiah 5:23**
+
+[TODO]
+
+**Jeremiah 5:24**
+
+[TODO]
+
+**Jeremiah 5:25**
+
+[TODO]
+
+**Jeremiah 5:26**
+
+[TODO]
+
+**Jeremiah 5:27**
+
+[TODO]
+
+**Jeremiah 5:28**
+
+[TODO]
+
+**Jeremiah 5:29**
+
+[TODO]
+
+**Jeremiah 5:30**
+
+[TODO]
+
+**Jeremiah 5:31**
+
+[TODO]
+
+### Chapter 6
+
+**Jeremiah 6:1**
+
+[TODO]
+
+**Jeremiah 6:2**
+
+[TODO]
+
+**Jeremiah 6:3**
+
+[TODO]
+
+**Jeremiah 6:4**
+
+[TODO]
+
+**Jeremiah 6:5**
+
+[TODO]
+
+**Jeremiah 6:6**
+
+[TODO]
+
+**Jeremiah 6:7**
+
+[TODO]
+
+**Jeremiah 6:8**
+
+[TODO]
+
+**Jeremiah 6:9**
+
+[TODO]
+
+**Jeremiah 6:10**
+
+[TODO]
+
+**Jeremiah 6:11**
+
+[TODO]
+
+**Jeremiah 6:12**
+
+[TODO]
+
+**Jeremiah 6:13**
+
+[TODO]
+
+**Jeremiah 6:14**
+
+[TODO]
+
+**Jeremiah 6:15**
+
+[TODO]
+
+**Jeremiah 6:16**
+
+[TODO]
+
+**Jeremiah 6:17**
+
+[TODO]
+
+**Jeremiah 6:18**
+
+[TODO]
+
+**Jeremiah 6:19**
+
+[TODO]
+
+**Jeremiah 6:20**
+
+[TODO]
+
+**Jeremiah 6:21**
+
+[TODO]
+
+**Jeremiah 6:22**
+
+[TODO]
+
+**Jeremiah 6:23**
+
+[TODO]
+
+**Jeremiah 6:24**
+
+[TODO]
+
+**Jeremiah 6:25**
+
+[TODO]
+
+**Jeremiah 6:26**
+
+[TODO]
+
+**Jeremiah 6:27**
+
+[TODO]
+
+**Jeremiah 6:28**
+
+[TODO]
+
+**Jeremiah 6:29**
+
+[TODO]
+
+**Jeremiah 6:30**
+
+[TODO]
+
+### Chapter 7
+
+**Jeremiah 7:2**
+
+[TODO]
+
+**Jeremiah 7:3**
+
+[TODO]
+
+**Jeremiah 7:4**
+
+[TODO]
+
+**Jeremiah 7:5**
+
+[TODO]
+
+**Jeremiah 7:6**
+
+[TODO]
+
+**Jeremiah 7:7**
+
+[TODO]
+
+**Jeremiah 7:8**
+
+[TODO]
+
+**Jeremiah 7:9**
+
+[TODO]
+
+**Jeremiah 7:10**
+
+[TODO]
+
+**Jeremiah 7:11**
+
+[TODO]
+
+**Jeremiah 7:12**
+
+[TODO]
+
+**Jeremiah 7:13**
+
+[TODO]
+
+**Jeremiah 7:14**
+
+[TODO]
+
+**Jeremiah 7:15**
+
+[TODO]
+
+**Jeremiah 7:16**
+
+[TODO]
+
+**Jeremiah 7:17**
+
+[TODO]
+
+**Jeremiah 7:18**
+
+[TODO]
+
+**Jeremiah 7:19**
+
+[TODO]
+
+**Jeremiah 7:20**
+
+[TODO]
+
+**Jeremiah 7:21**
+
+[TODO]
+
+**Jeremiah 7:22**
+
+[TODO]
+
+**Jeremiah 7:23**
+
+[TODO]
+
+**Jeremiah 7:24**
+
+[TODO]
+
+**Jeremiah 7:25**
+
+[TODO]
+
+**Jeremiah 7:26**
+
+[TODO]
+
+**Jeremiah 7:27**
+
+[TODO]
+
+**Jeremiah 7:28**
+
+[TODO]
+
+**Jeremiah 7:29**
+
+[TODO]
+
+**Jeremiah 7:30**
+
+[TODO]
+
+**Jeremiah 7:31**
+
+[TODO]
+
+**Jeremiah 7:32**
+
+[TODO]
+
+**Jeremiah 7:33**
+
+[TODO]
+
+**Jeremiah 7:34**
+
+[TODO]
+
+### Chapter 8
+
+**Jeremiah 8:1**
+
+[TODO]
+
+**Jeremiah 8:2**
+
+[TODO]
+
+**Jeremiah 8:3**
+
+[TODO]
+
+**Jeremiah 8:4**
+
+[TODO]
+
+**Jeremiah 8:5**
+
+[TODO]
+
+**Jeremiah 8:6**
+
+[TODO]
+
+**Jeremiah 8:7**
+
+[TODO]
+
+**Jeremiah 8:8**
+
+[TODO]
+
+**Jeremiah 8:9**
+
+[TODO]
+
+**Jeremiah 8:10**
+
+[TODO]
+
+**Jeremiah 8:13**
+
+[TODO]
+
+**Jeremiah 8:14**
+
+[TODO]
+
+**Jeremiah 8:15**
+
+[TODO]
+
+**Jeremiah 8:16**
+
+[TODO]
+
+**Jeremiah 8:17**
+
+[TODO]
+
+**Jeremiah 8:18**
+
+[TODO]
+
+**Jeremiah 8:19**
+
+[TODO]
+
+**Jeremiah 8:20**
+
+[TODO]
+
+**Jeremiah 8:21**
+
+[TODO]
+
+**Jeremiah 8:22**
+
+[TODO]
+
+**Jeremiah 8:23**
+
+[TODO]
+
+### Chapter 9
+
+**Jeremiah 9:1**
+
+[TODO]
+
+**Jeremiah 9:2**
+
+[TODO]
+
+**Jeremiah 9:3**
+
+[TODO]
+
+**Jeremiah 9:4**
+
+[TODO]
+
+**Jeremiah 9:5**
+
+[TODO]
+
+**Jeremiah 9:6**
+
+[TODO]
+
+**Jeremiah 9:7**
+
+[TODO]
+
+**Jeremiah 9:8**
+
+[TODO]
+
+**Jeremiah 9:9**
+
+[TODO]
+
+**Jeremiah 9:10**
+
+[TODO]
+
+**Jeremiah 9:11**
+
+[TODO]
+
+**Jeremiah 9:12**
+
+[TODO]
+
+**Jeremiah 9:13**
+
+[TODO]
+
+**Jeremiah 9:14**
+
+[TODO]
+
+**Jeremiah 9:15**
+
+[TODO]
+
+**Jeremiah 9:16**
+
+[TODO]
+
+**Jeremiah 9:17**
+
+[TODO]
+
+**Jeremiah 9:18**
+
+[TODO]
+
+**Jeremiah 9:19**
+
+[TODO]
+
+**Jeremiah 9:20**
+
+[TODO]
+
+**Jeremiah 9:21**
+
+[TODO]
+
+**Jeremiah 9:22**
+
+[TODO]
+
+**Jeremiah 9:23**
+
+[TODO]
+
+**Jeremiah 9:24**
+
+[TODO]
+
+**Jeremiah 9:25**
+
+[TODO]
+
+### Chapter 10
+
+**Jeremiah 10:1**
+
+[TODO]
+
+**Jeremiah 10:2**
+
+[TODO]
+
+**Jeremiah 10:3**
+
+[TODO]
+
+**Jeremiah 10:4**
+
+[TODO]
+
+**Jeremiah 10:5**
+
+[TODO]
+
+**Jeremiah 10:9**
+
+[TODO]
+
+**Jeremiah 10:11**
+
+[TODO]
+
+**Jeremiah 10:12**
+
+[TODO]
+
+**Jeremiah 10:13**
+
+[TODO]
+
+**Jeremiah 10:14**
+
+[TODO]
+
+**Jeremiah 10:15**
+
+[TODO]
+
+**Jeremiah 10:16**
+
+[TODO]
+
+**Jeremiah 10:17**
+
+[TODO]
+
+**Jeremiah 10:18**
+
+[TODO]
+
+**Jeremiah 10:19**
+
+[TODO]
+
+**Jeremiah 10:20**
+
+[TODO]
+
+**Jeremiah 10:21**
+
+[TODO]
+
+**Jeremiah 10:22**
+
+[TODO]
+
+**Jeremiah 10:23**
+
+[TODO]
+
+**Jeremiah 10:24**
+
+[TODO]
+
+**Jeremiah 10:25**
+
+[TODO]
+
+### Chapter 11
+
+**Jeremiah 11:1**
+
+[TODO]
+
+**Jeremiah 11:2**
+
+[TODO]
+
+**Jeremiah 11:3**
+
+[TODO]
+
+**Jeremiah 11:4**
+
+[TODO]
+
+**Jeremiah 11:5**
+
+[TODO]
+
+**Jeremiah 11:6**
+
+[TODO]
+
+**Jeremiah 11:8**
+
+[TODO]
+
+**Jeremiah 11:9**
+
+[TODO]
+
+**Jeremiah 11:10**
+
+[TODO]
+
+**Jeremiah 11:11**
+
+[TODO]
+
+**Jeremiah 11:12**
+
+[TODO]
+
+**Jeremiah 11:13**
+
+[TODO]
+
+**Jeremiah 11:14**
+
+[TODO]
+
+**Jeremiah 11:15**
+
+[TODO]
+
+**Jeremiah 11:16**
+
+[TODO]
+
+**Jeremiah 11:17**
+
+[TODO]
+
+**Jeremiah 11:18**
+
+[TODO]
+
+**Jeremiah 11:19**
+
+[TODO]
+
+**Jeremiah 11:20**
+
+[TODO]
+
+**Jeremiah 11:21**
+
+[TODO]
+
+**Jeremiah 11:22**
+
+[TODO]
+
+**Jeremiah 11:23**
+
+[TODO]
+
+### Chapter 12
+
+**Jeremiah 12:1**
+
+[TODO]
+
+**Jeremiah 12:2**
+
+[TODO]
+
+**Jeremiah 12:3**
+
+[TODO]
+
+**Jeremiah 12:4**
+
+[TODO]
+
+**Jeremiah 12:5**
+
+[TODO]
+
+**Jeremiah 12:6**
+
+[TODO]
+
+**Jeremiah 12:7**
+
+[TODO]
+
+**Jeremiah 12:8**
+
+[TODO]
+
+**Jeremiah 12:9**
+
+[TODO]
+
+**Jeremiah 12:10**
+
+[TODO]
+
+**Jeremiah 12:11**
+
+[TODO]
+
+**Jeremiah 12:12**
+
+[TODO]
+
+**Jeremiah 12:13**
+
+[TODO]
+
+**Jeremiah 12:14**
+
+[TODO]
+
+**Jeremiah 12:15**
+
+[TODO]
+
+**Jeremiah 12:16**
+
+[TODO]
+
+**Jeremiah 12:17**
+
+[TODO]
+
+### Chapter 13
+
+**Jeremiah 13:1**
+
+[TODO]
+
+**Jeremiah 13:2**
+
+[TODO]
+
+**Jeremiah 13:3**
+
+[TODO]
+
+**Jeremiah 13:4**
+
+[TODO]
+
+**Jeremiah 13:5**
+
+[TODO]
+
+**Jeremiah 13:6**
+
+[TODO]
+
+**Jeremiah 13:7**
+
+[TODO]
+
+**Jeremiah 13:8**
+
+[TODO]
+
+**Jeremiah 13:9**
+
+[TODO]
+
+**Jeremiah 13:10**
+
+[TODO]
+
+**Jeremiah 13:11**
+
+[TODO]
+
+**Jeremiah 13:12**
+
+[TODO]
+
+**Jeremiah 13:13**
+
+[TODO]
+
+**Jeremiah 13:14**
+
+[TODO]
+
+**Jeremiah 13:15**
+
+[TODO]
+
+**Jeremiah 13:16**
+
+[TODO]
+
+**Jeremiah 13:17**
+
+[TODO]
+
+**Jeremiah 13:18**
+
+[TODO]
+
+**Jeremiah 13:19**
+
+[TODO]
+
+**Jeremiah 13:20**
+
+[TODO]
+
+**Jeremiah 13:21**
+
+[TODO]
+
+**Jeremiah 13:22**
+
+[TODO]
+
+**Jeremiah 13:23**
+
+[TODO]
+
+**Jeremiah 13:24**
+
+[TODO]
+
+**Jeremiah 13:25**
+
+[TODO]
+
+**Jeremiah 13:26**
+
+[TODO]
+
+**Jeremiah 13:27**
+
+[TODO]
+
+### Chapter 14
+
+**Jeremiah 14:1**
+
+[TODO]
+
+**Jeremiah 14:2**
+
+[TODO]
+
+**Jeremiah 14:3**
+
+[TODO]
+
+**Jeremiah 14:4**
+
+[TODO]
+
+**Jeremiah 14:5**
+
+[TODO]
+
+**Jeremiah 14:6**
+
+[TODO]
+
+**Jeremiah 14:7**
+
+[TODO]
+
+**Jeremiah 14:8**
+
+[TODO]
+
+**Jeremiah 14:9**
+
+[TODO]
+
+**Jeremiah 14:10**
+
+[TODO]
+
+**Jeremiah 14:11**
+
+[TODO]
+
+**Jeremiah 14:12**
+
+[TODO]
+
+**Jeremiah 14:13**
+
+[TODO]
+
+**Jeremiah 14:14**
+
+[TODO]
+
+**Jeremiah 14:15**
+
+[TODO]
+
+**Jeremiah 14:16**
+
+[TODO]
+
+**Jeremiah 14:17**
+
+[TODO]
+
+**Jeremiah 14:18**
+
+[TODO]
+
+**Jeremiah 14:19**
+
+[TODO]
+
+**Jeremiah 14:20**
+
+[TODO]
+
+**Jeremiah 14:21**
+
+[TODO]
+
+**Jeremiah 14:22**
+
+[TODO]
+
+### Chapter 15
+
+**Jeremiah 15:1**
+
+[TODO]
+
+**Jeremiah 15:2**
+
+[TODO]
+
+**Jeremiah 15:3**
+
+[TODO]
+
+**Jeremiah 15:4**
+
+[TODO]
+
+**Jeremiah 15:5**
+
+[TODO]
+
+**Jeremiah 15:6**
+
+[TODO]
+
+**Jeremiah 15:7**
+
+[TODO]
+
+**Jeremiah 15:8**
+
+[TODO]
+
+**Jeremiah 15:9**
+
+[TODO]
+
+**Jeremiah 15:10**
+
+[TODO]
+
+**Jeremiah 15:11**
+
+[TODO]
+
+**Jeremiah 15:12**
+
+[TODO]
+
+**Jeremiah 15:13**
+
+[TODO]
+
+**Jeremiah 15:14**
+
+[TODO]
+
+**Jeremiah 15:15**
+
+[TODO]
+
+**Jeremiah 15:16**
+
+[TODO]
+
+**Jeremiah 15:17**
+
+[TODO]
+
+**Jeremiah 15:18**
+
+[TODO]
+
+**Jeremiah 15:19**
+
+[TODO]
+
+**Jeremiah 15:20**
+
+[TODO]
+
+**Jeremiah 15:21**
+
+[TODO]
+
+### Chapter 16
+
+**Jeremiah 16:1**
+
+[TODO]
+
+**Jeremiah 16:2**
+
+[TODO]
+
+**Jeremiah 16:3**
+
+[TODO]
+
+**Jeremiah 16:4**
+
+[TODO]
+
+**Jeremiah 16:5**
+
+[TODO]
+
+**Jeremiah 16:6**
+
+[TODO]
+
+**Jeremiah 16:7**
+
+[TODO]
+
+**Jeremiah 16:8**
+
+[TODO]
+
+**Jeremiah 16:9**
+
+[TODO]
+
+**Jeremiah 16:10**
+
+[TODO]
+
+**Jeremiah 16:11**
+
+[TODO]
+
+**Jeremiah 16:12**
+
+[TODO]
+
+**Jeremiah 16:13**
+
+[TODO]
+
+**Jeremiah 16:14**
+
+[TODO]
+
+**Jeremiah 16:15**
+
+[TODO]
+
+**Jeremiah 16:16**
+
+[TODO]
+
+**Jeremiah 16:17**
+
+[TODO]
+
+**Jeremiah 16:18**
+
+[TODO]
+
+**Jeremiah 16:19**
+
+[TODO]
+
+**Jeremiah 16:20**
+
+[TODO]
+
+**Jeremiah 16:21**
+
+[TODO]
+
+### Chapter 17
+
+**Jeremiah 17:5**
+
+[TODO]
+
+**Jeremiah 17:6**
+
+[TODO]
+
+**Jeremiah 17:7**
+
+[TODO]
+
+**Jeremiah 17:8**
+
+[TODO]
+
+**Jeremiah 17:9**
+
+[TODO]
+
+**Jeremiah 17:10**
+
+[TODO]
+
+**Jeremiah 17:11**
+
+[TODO]
+
+**Jeremiah 17:12**
+
+[TODO]
+
+**Jeremiah 17:13**
+
+[TODO]
+
+**Jeremiah 17:14**
+
+[TODO]
+
+**Jeremiah 17:15**
+
+[TODO]
+
+**Jeremiah 17:16**
+
+[TODO]
+
+**Jeremiah 17:17**
+
+[TODO]
+
+**Jeremiah 17:18**
+
+[TODO]
+
+**Jeremiah 17:19**
+
+[TODO]
+
+**Jeremiah 17:20**
+
+[TODO]
+
+**Jeremiah 17:21**
+
+[TODO]
+
+**Jeremiah 17:22**
+
+[TODO]
+
+**Jeremiah 17:23**
+
+[TODO]
+
+**Jeremiah 17:24**
+
+[TODO]
+
+**Jeremiah 17:25**
+
+[TODO]
+
+**Jeremiah 17:26**
+
+[TODO]
+
+**Jeremiah 17:27**
+
+[TODO]
+
+### Chapter 18
+
+**Jeremiah 18:1**
+
+[TODO]
+
+**Jeremiah 18:2**
+
+[TODO]
+
+**Jeremiah 18:3**
+
+[TODO]
+
+**Jeremiah 18:4**
+
+[TODO]
+
+**Jeremiah 18:5**
+
+[TODO]
+
+**Jeremiah 18:6**
+
+[TODO]
+
+**Jeremiah 18:7**
+
+[TODO]
+
+**Jeremiah 18:8**
+
+[TODO]
+
+**Jeremiah 18:9**
+
+[TODO]
+
+**Jeremiah 18:10**
+
+[TODO]
+
+**Jeremiah 18:11**
+
+[TODO]
+
+**Jeremiah 18:12**
+
+[TODO]
+
+**Jeremiah 18:13**
+
+[TODO]
+
+**Jeremiah 18:14**
+
+[TODO]
+
+**Jeremiah 18:15**
+
+[TODO]
+
+**Jeremiah 18:16**
+
+[TODO]
+
+**Jeremiah 18:17**
+
+[TODO]
+
+**Jeremiah 18:18**
+
+[TODO]
+
+**Jeremiah 18:19**
+
+[TODO]
+
+**Jeremiah 18:20**
+
+[TODO]
+
+**Jeremiah 18:21**
+
+[TODO]
+
+**Jeremiah 18:22**
+
+[TODO]
+
+**Jeremiah 18:23**
+
+[TODO]
+
+### Chapter 19
+
+**Jeremiah 19:1**
+
+[TODO]
+
+**Jeremiah 19:2**
+
+[TODO]
+
+**Jeremiah 19:3**
+
+[TODO]
+
+**Jeremiah 19:4**
+
+[TODO]
+
+**Jeremiah 19:5**
+
+[TODO]
+
+**Jeremiah 19:6**
+
+[TODO]
+
+**Jeremiah 19:7**
+
+[TODO]
+
+**Jeremiah 19:8**
+
+[TODO]
+
+**Jeremiah 19:9**
+
+[TODO]
+
+**Jeremiah 19:10**
+
+[TODO]
+
+**Jeremiah 19:11**
+
+[TODO]
+
+**Jeremiah 19:12**
+
+[TODO]
+
+**Jeremiah 19:13**
+
+[TODO]
+
+**Jeremiah 19:14**
+
+[TODO]
+
+**Jeremiah 19:15**
+
+[TODO]
+
+### Chapter 20
+
+**Jeremiah 20:1**
+
+[TODO]
+
+**Jeremiah 20:2**
+
+[TODO]
+
+**Jeremiah 20:3**
+
+[TODO]
+
+**Jeremiah 20:4**
+
+[TODO]
+
+**Jeremiah 20:5**
+
+[TODO]
+
+**Jeremiah 20:6**
+
+[TODO]
+
+**Jeremiah 20:7**
+
+[TODO]
+
+**Jeremiah 20:8**
+
+[TODO]
+
+**Jeremiah 20:9**
+
+[TODO]
+
+**Jeremiah 20:10**
+
+[TODO]
+
+**Jeremiah 20:11**
+
+[TODO]
+
+**Jeremiah 20:12**
+
+[TODO]
+
+**Jeremiah 20:13**
+
+[TODO]
+
+**Jeremiah 20:14**
+
+[TODO]
+
+**Jeremiah 20:15**
+
+[TODO]
+
+**Jeremiah 20:16**
+
+[TODO]
+
+**Jeremiah 20:17**
+
+[TODO]
+
+**Jeremiah 20:18**
+
+[TODO]
+
+### Chapter 21
+
+**Jeremiah 21:1**
+
+[TODO]
+
+**Jeremiah 21:2**
+
+[TODO]
+
+**Jeremiah 21:3**
+
+[TODO]
+
+**Jeremiah 21:4**
+
+[TODO]
+
+**Jeremiah 21:5**
+
+[TODO]
+
+**Jeremiah 21:6**
+
+[TODO]
+
+**Jeremiah 21:7**
+
+[TODO]
+
+**Jeremiah 21:8**
+
+[TODO]
+
+**Jeremiah 21:9**
+
+[TODO]
+
+**Jeremiah 21:10**
+
+[TODO]
+
+**Jeremiah 21:11**
+
+[TODO]
+
+**Jeremiah 21:12**
+
+[TODO]
+
+**Jeremiah 21:13**
+
+[TODO]
+
+**Jeremiah 21:14**
+
+[TODO]
+
+### Chapter 22
+
+**Jeremiah 22:1**
+
+[TODO]
+
+**Jeremiah 22:2**
+
+[TODO]
+
+**Jeremiah 22:3**
+
+[TODO]
+
+**Jeremiah 22:4**
+
+[TODO]
+
+**Jeremiah 22:5**
+
+[TODO]
+
+**Jeremiah 22:6**
+
+[TODO]
+
+**Jeremiah 22:7**
+
+[TODO]
+
+**Jeremiah 22:8**
+
+[TODO]
+
+**Jeremiah 22:9**
+
+[TODO]
+
+**Jeremiah 22:10**
+
+[TODO]
+
+**Jeremiah 22:11**
+
+[TODO]
+
+**Jeremiah 22:12**
+
+[TODO]
+
+**Jeremiah 22:13**
+
+[TODO]
+
+**Jeremiah 22:14**
+
+[TODO]
+
+**Jeremiah 22:15**
+
+[TODO]
+
+**Jeremiah 22:16**
+
+[TODO]
+
+**Jeremiah 22:17**
+
+[TODO]
+
+**Jeremiah 22:18**
+
+[TODO]
+
+**Jeremiah 22:19**
+
+[TODO]
+
+**Jeremiah 22:20**
+
+[TODO]
+
+**Jeremiah 22:21**
+
+[TODO]
+
+**Jeremiah 22:22**
+
+[TODO]
+
+**Jeremiah 22:23**
+
+[TODO]
+
+**Jeremiah 22:24**
+
+[TODO]
+
+**Jeremiah 22:25**
+
+[TODO]
+
+**Jeremiah 22:26**
+
+[TODO]
+
+**Jeremiah 22:27**
+
+[TODO]
+
+**Jeremiah 22:28**
+
+[TODO]
+
+**Jeremiah 22:29**
+
+[TODO]
+
+**Jeremiah 22:30**
+
+[TODO]
+
+### Chapter 23
+
+**Jeremiah 23:1**
+
+[TODO]
+
+**Jeremiah 23:2**
+
+[TODO]
+
+**Jeremiah 23:3**
+
+[TODO]
+
+**Jeremiah 23:4**
+
+[TODO]
+
+**Jeremiah 23:5**
+
+[TODO]
+
+**Jeremiah 23:6**
+
+[TODO]
+
+**Jeremiah 23:7**
+
+[TODO]
+
+**Jeremiah 23:8**
+
+[TODO]
+
+**Jeremiah 23:9**
+
+[TODO]
+
+**Jeremiah 23:10**
+
+[TODO]
+
+**Jeremiah 23:11**
+
+[TODO]
+
+**Jeremiah 23:12**
+
+[TODO]
+
+**Jeremiah 23:13**
+
+[TODO]
+
+**Jeremiah 23:14**
+
+[TODO]
+
+**Jeremiah 23:15**
+
+[TODO]
+
+**Jeremiah 23:16**
+
+[TODO]
+
+**Jeremiah 23:17**
+
+[TODO]
+
+**Jeremiah 23:18**
+
+[TODO]
+
+**Jeremiah 23:19**
+
+[TODO]
+
+**Jeremiah 23:20**
+
+[TODO]
+
+**Jeremiah 23:21**
+
+[TODO]
+
+**Jeremiah 23:22**
+
+[TODO]
+
+**Jeremiah 23:23**
+
+[TODO]
+
+**Jeremiah 23:24**
+
+[TODO]
+
+**Jeremiah 23:25**
+
+[TODO]
+
+**Jeremiah 23:26**
+
+[TODO]
+
+**Jeremiah 23:27**
+
+[TODO]
+
+**Jeremiah 23:28**
+
+[TODO]
+
+**Jeremiah 23:29**
+
+[TODO]
+
+**Jeremiah 23:30**
+
+[TODO]
+
+**Jeremiah 23:31**
+
+[TODO]
+
+**Jeremiah 23:32**
+
+[TODO]
+
+**Jeremiah 23:33**
+
+[TODO]
+
+**Jeremiah 23:34**
+
+[TODO]
+
+**Jeremiah 23:35**
+
+[TODO]
+
+**Jeremiah 23:36**
+
+[TODO]
+
+**Jeremiah 23:37**
+
+[TODO]
+
+**Jeremiah 23:38**
+
+[TODO]
+
+**Jeremiah 23:39**
+
+[TODO]
+
+**Jeremiah 23:40**
+
+[TODO]
+
+### Chapter 24
+
+**Jeremiah 24:1**
+
+[TODO]
+
+**Jeremiah 24:2**
+
+[TODO]
+
+**Jeremiah 24:3**
+
+[TODO]
+
+**Jeremiah 24:4**
+
+[TODO]
+
+**Jeremiah 24:5**
+
+[TODO]
+
+**Jeremiah 24:6**
+
+[TODO]
+
+**Jeremiah 24:7**
+
+[TODO]
+
+**Jeremiah 24:8**
+
+[TODO]
+
+**Jeremiah 24:9**
+
+[TODO]
+
+**Jeremiah 24:10**
+
+[TODO]
+
+### Chapter 25
+
+**Jeremiah 25:1**
+
+[TODO]
+
+**Jeremiah 25:2**
+
+[TODO]
+
+**Jeremiah 25:3**
+
+[TODO]
+
+**Jeremiah 25:4**
+
+[TODO]
+
+**Jeremiah 25:5**
+
+[TODO]
+
+**Jeremiah 25:6**
+
+[TODO]
+
+**Jeremiah 25:7**
+
+[TODO]
+
+**Jeremiah 25:8**
+
+[TODO]
+
+**Jeremiah 25:9**
+
+[TODO]
+
+**Jeremiah 25:10**
+
+[TODO]
+
+**Jeremiah 25:11**
+
+[TODO]
+
+**Jeremiah 25:12**
+
+[TODO]
+
+**Jeremiah 25:13**
+
+[TODO]
+
+**Jeremiah 25:14**
+
+[TODO]
+
+**Jeremiah 25:15**
+
+[TODO]
+
+**Jeremiah 25:16**
+
+[TODO]
+
+**Jeremiah 25:17**
+
+[TODO]
+
+**Jeremiah 25:18**
+
+[TODO]
+
+**Jeremiah 25:19**
+
+[TODO]
+
+**Jeremiah 25:20**
+
+[TODO]
+
+### Chapter 26
+
+**Jeremiah 26:2**
+
+[TODO]
+
+**Jeremiah 26:3**
+
+[TODO]
+
+**Jeremiah 26:4**
+
+[TODO]
+
+**Jeremiah 26:5**
+
+[TODO]
+
+**Jeremiah 26:6**
+
+[TODO]
+
+**Jeremiah 26:7**
+
+[TODO]
+
+**Jeremiah 26:8**
+
+[TODO]
+
+**Jeremiah 26:9**
+
+[TODO]
+
+**Jeremiah 26:10**
+
+[TODO]
+
+**Jeremiah 26:11**
+
+[TODO]
+
+**Jeremiah 26:12**
+
+[TODO]
+
+**Jeremiah 26:13**
+
+[TODO]
+
+**Jeremiah 26:14**
+
+[TODO]
+
+**Jeremiah 26:15**
+
+[TODO]
+
+**Jeremiah 26:16**
+
+[TODO]
+
+**Jeremiah 26:17**
+
+[TODO]
+
+**Jeremiah 26:18**
+
+[TODO]
+
+**Jeremiah 26:19**
+
+[TODO]
+
+**Jeremiah 26:20**
+
+[TODO]
+
+**Jeremiah 26:21**
+
+[TODO]
+
+**Jeremiah 26:22**
+
+[TODO]
+
+**Jeremiah 26:23**
+
+[TODO]
+
+**Jeremiah 26:24**
+
+[TODO]
+
+**Jeremiah 26:25**
+
+[TODO]
+
+**Jeremiah 26:27**
+
+[TODO]
+
+**Jeremiah 26:28**
+
+[TODO]
+
+### Chapter 27
+
+**Jeremiah 27:1**
+
+[TODO]
+
+**Jeremiah 27:2**
+
+[TODO]
+
+**Jeremiah 27:3**
+
+[TODO]
+
+**Jeremiah 27:4**
+
+[TODO]
+
+**Jeremiah 27:5**
+
+[TODO]
+
+**Jeremiah 27:6**
+
+[TODO]
+
+**Jeremiah 27:7**
+
+[TODO]
+
+**Jeremiah 27:8**
+
+[TODO]
+
+**Jeremiah 27:9**
+
+[TODO]
+
+**Jeremiah 27:10**
+
+[TODO]
+
+**Jeremiah 27:11**
+
+[TODO]
+
+**Jeremiah 27:12**
+
+[TODO]
+
+**Jeremiah 27:13**
+
+[TODO]
+
+**Jeremiah 27:14**
+
+[TODO]
+
+**Jeremiah 27:15**
+
+[TODO]
+
+**Jeremiah 27:16**
+
+[TODO]
+
+**Jeremiah 27:17**
+
+[TODO]
+
+**Jeremiah 27:18**
+
+[TODO]
+
+**Jeremiah 27:19**
+
+[TODO]
+
+**Jeremiah 27:20**
+
+[TODO]
+
+**Jeremiah 27:21**
+
+[TODO]
+
+**Jeremiah 27:22**
+
+[TODO]
+
+**Jeremiah 27:23**
+
+[TODO]
+
+**Jeremiah 27:24**
+
+[TODO]
+
+**Jeremiah 27:25**
+
+[TODO]
+
+**Jeremiah 27:26**
+
+[TODO]
+
+**Jeremiah 27:27**
+
+[TODO]
+
+**Jeremiah 27:28**
+
+[TODO]
+
+**Jeremiah 27:29**
+
+[TODO]
+
+**Jeremiah 27:30**
+
+[TODO]
+
+**Jeremiah 27:31**
+
+[TODO]
+
+**Jeremiah 27:32**
+
+[TODO]
+
+**Jeremiah 27:33**
+
+[TODO]
+
+**Jeremiah 27:34**
+
+[TODO]
+
+**Jeremiah 27:35**
+
+[TODO]
+
+**Jeremiah 27:36**
+
+[TODO]
+
+**Jeremiah 27:37**
+
+[TODO]
+
+**Jeremiah 27:38**
+
+[TODO]
+
+**Jeremiah 27:39**
+
+[TODO]
+
+**Jeremiah 27:40**
+
+[TODO]
+
+**Jeremiah 27:41**
+
+[TODO]
+
+**Jeremiah 27:42**
+
+[TODO]
+
+**Jeremiah 27:43**
+
+[TODO]
+
+**Jeremiah 27:44**
+
+[TODO]
+
+**Jeremiah 27:45**
+
+[TODO]
+
+**Jeremiah 27:46**
+
+[TODO]
+
+### Chapter 28
+
+**Jeremiah 28:1**
+
+[TODO]
+
+**Jeremiah 28:2**
+
+[TODO]
+
+**Jeremiah 28:3**
+
+[TODO]
+
+**Jeremiah 28:4**
+
+[TODO]
+
+**Jeremiah 28:5**
+
+[TODO]
+
+**Jeremiah 28:6**
+
+[TODO]
+
+**Jeremiah 28:7**
+
+[TODO]
+
+**Jeremiah 28:8**
+
+[TODO]
+
+**Jeremiah 28:9**
+
+[TODO]
+
+**Jeremiah 28:10**
+
+[TODO]
+
+**Jeremiah 28:11**
+
+[TODO]
+
+**Jeremiah 28:12**
+
+[TODO]
+
+**Jeremiah 28:13**
+
+[TODO]
+
+**Jeremiah 28:14**
+
+[TODO]
+
+**Jeremiah 28:15**
+
+[TODO]
+
+**Jeremiah 28:16**
+
+[TODO]
+
+**Jeremiah 28:17**
+
+[TODO]
+
+**Jeremiah 28:18**
+
+[TODO]
+
+**Jeremiah 28:19**
+
+[TODO]
+
+**Jeremiah 28:20**
+
+[TODO]
+
+**Jeremiah 28:21**
+
+[TODO]
+
+**Jeremiah 28:22**
+
+[TODO]
+
+**Jeremiah 28:23**
+
+[TODO]
+
+**Jeremiah 28:24**
+
+[TODO]
+
+**Jeremiah 28:25**
+
+[TODO]
+
+**Jeremiah 28:26**
+
+[TODO]
+
+**Jeremiah 28:27**
+
+[TODO]
+
+**Jeremiah 28:28**
+
+[TODO]
+
+**Jeremiah 28:29**
+
+[TODO]
+
+**Jeremiah 28:30**
+
+[TODO]
+
+**Jeremiah 28:31**
+
+[TODO]
+
+**Jeremiah 28:32**
+
+[TODO]
+
+**Jeremiah 28:33**
+
+[TODO]
+
+**Jeremiah 28:34**
+
+[TODO]
+
+**Jeremiah 28:35**
+
+[TODO]
+
+**Jeremiah 28:36**
+
+[TODO]
+
+**Jeremiah 28:37**
+
+[TODO]
+
+**Jeremiah 28:38**
+
+[TODO]
+
+**Jeremiah 28:39**
+
+[TODO]
+
+**Jeremiah 28:40**
+
+[TODO]
+
+**Jeremiah 28:41**
+
+[TODO]
+
+**Jeremiah 28:42**
+
+[TODO]
+
+**Jeremiah 28:43**
+
+[TODO]
+
+**Jeremiah 28:44**
+
+[TODO]
+
+**Jeremiah 28:49**
+
+[TODO]
+
+**Jeremiah 28:50**
+
+[TODO]
+
+**Jeremiah 28:51**
+
+[TODO]
+
+**Jeremiah 28:52**
+
+[TODO]
+
+**Jeremiah 28:53**
+
+[TODO]
+
+**Jeremiah 28:54**
+
+[TODO]
+
+**Jeremiah 28:55**
+
+[TODO]
+
+**Jeremiah 28:56**
+
+[TODO]
+
+**Jeremiah 28:57**
+
+[TODO]
+
+**Jeremiah 28:58**
+
+[TODO]
+
+**Jeremiah 28:59**
+
+[TODO]
+
+**Jeremiah 28:60**
+
+[TODO]
+
+**Jeremiah 28:61**
+
+[TODO]
+
+**Jeremiah 28:62**
+
+[TODO]
+
+**Jeremiah 28:63**
+
+[TODO]
+
+**Jeremiah 28:64**
+
+[TODO]
+
+### Chapter 29
+
+**Jeremiah 29:1**
+
+[TODO]
+
+**Jeremiah 29:2**
+
+[TODO]
+
+**Jeremiah 29:3**
+
+[TODO]
+
+**Jeremiah 29:4**
+
+[TODO]
+
+**Jeremiah 29:5**
+
+[TODO]
+
+**Jeremiah 29:6**
+
+[TODO]
+
+**Jeremiah 29:7**
+
+[TODO]
+
+### Chapter 30
+
+**Jeremiah 30:1**
+
+[TODO]
+
+**Jeremiah 30:2**
+
+[TODO]
+
+**Jeremiah 30:3**
+
+[TODO]
+
+**Jeremiah 30:4**
+
+[TODO]
+
+**Jeremiah 30:5**
+
+[TODO]
+
+**Jeremiah 30:6**
+
+[TODO]
+
+**Jeremiah 30:7**
+
+[TODO]
+
+**Jeremiah 30:8**
+
+[TODO]
+
+**Jeremiah 30:9**
+
+[TODO]
+
+**Jeremiah 30:10**
+
+[TODO]
+
+**Jeremiah 30:11**
+
+[TODO]
+
+**Jeremiah 30:12**
+
+[TODO]
+
+**Jeremiah 30:13**
+
+[TODO]
+
+**Jeremiah 30:14**
+
+[TODO]
+
+**Jeremiah 30:15**
+
+[TODO]
+
+**Jeremiah 30:16**
+
+[TODO]
+
+**Jeremiah 30:17**
+
+[TODO]
+
+**Jeremiah 30:18**
+
+[TODO]
+
+**Jeremiah 30:19**
+
+[TODO]
+
+**Jeremiah 30:20**
+
+[TODO]
+
+**Jeremiah 30:21**
+
+[TODO]
+
+**Jeremiah 30:23**
+
+[TODO]
+
+**Jeremiah 30:24**
+
+[TODO]
+
+**Jeremiah 30:25**
+
+[TODO]
+
+**Jeremiah 30:26**
+
+[TODO]
+
+**Jeremiah 30:27**
+
+[TODO]
+
+**Jeremiah 30:28**
+
+[TODO]
+
+**Jeremiah 30:29**
+
+[TODO]
+
+**Jeremiah 30:30**
+
+[TODO]
+
+**Jeremiah 30:31**
+
+[TODO]
+
+**Jeremiah 30:32**
+
+[TODO]
+
+**Jeremiah 30:33**
+
+[TODO]
+
+### Chapter 31
+
+**Jeremiah 31:1**
+
+[TODO]
+
+**Jeremiah 31:2**
+
+[TODO]
+
+**Jeremiah 31:3**
+
+[TODO]
+
+**Jeremiah 31:4**
+
+[TODO]
+
+**Jeremiah 31:5**
+
+[TODO]
+
+**Jeremiah 31:6**
+
+[TODO]
+
+**Jeremiah 31:7**
+
+[TODO]
+
+**Jeremiah 31:8**
+
+[TODO]
+
+**Jeremiah 31:9**
+
+[TODO]
+
+**Jeremiah 31:10**
+
+[TODO]
+
+**Jeremiah 31:11**
+
+[TODO]
+
+**Jeremiah 31:12**
+
+[TODO]
+
+**Jeremiah 31:13**
+
+[TODO]
+
+**Jeremiah 31:14**
+
+[TODO]
+
+**Jeremiah 31:15**
+
+[TODO]
+
+**Jeremiah 31:16**
+
+[TODO]
+
+**Jeremiah 31:17**
+
+[TODO]
+
+**Jeremiah 31:18**
+
+[TODO]
+
+**Jeremiah 31:19**
+
+[TODO]
+
+**Jeremiah 31:20**
+
+[TODO]
+
+**Jeremiah 31:21**
+
+[TODO]
+
+**Jeremiah 31:22**
+
+[TODO]
+
+**Jeremiah 31:23**
+
+[TODO]
+
+**Jeremiah 31:24**
+
+[TODO]
+
+**Jeremiah 31:25**
+
+[TODO]
+
+**Jeremiah 31:26**
+
+[TODO]
+
+**Jeremiah 31:27**
+
+[TODO]
+
+**Jeremiah 31:28**
+
+[TODO]
+
+**Jeremiah 31:29**
+
+[TODO]
+
+**Jeremiah 31:30**
+
+[TODO]
+
+**Jeremiah 31:31**
+
+[TODO]
+
+**Jeremiah 31:32**
+
+[TODO]
+
+**Jeremiah 31:33**
+
+[TODO]
+
+**Jeremiah 31:34**
+
+[TODO]
+
+**Jeremiah 31:35**
+
+[TODO]
+
+**Jeremiah 31:36**
+
+[TODO]
+
+**Jeremiah 31:37**
+
+[TODO]
+
+**Jeremiah 31:38**
+
+[TODO]
+
+**Jeremiah 31:39**
+
+[TODO]
+
+**Jeremiah 31:40**
+
+[TODO]
+
+**Jeremiah 31:41**
+
+[TODO]
+
+**Jeremiah 31:42**
+
+[TODO]
+
+**Jeremiah 31:43**
+
+[TODO]
+
+**Jeremiah 31:44**
+
+[TODO]
+
+### Chapter 32
+
+**Jeremiah 32:13**
+
+[TODO]
+
+**Jeremiah 32:15**
+
+[TODO]
+
+**Jeremiah 32:16**
+
+[TODO]
+
+**Jeremiah 32:17**
+
+[TODO]
+
+**Jeremiah 32:18**
+
+[TODO]
+
+**Jeremiah 32:19**
+
+[TODO]
+
+**Jeremiah 32:20**
+
+[TODO]
+
+**Jeremiah 32:21**
+
+[TODO]
+
+**Jeremiah 32:22**
+
+[TODO]
+
+**Jeremiah 32:23**
+
+[TODO]
+
+**Jeremiah 32:24**
+
+[TODO]
+
+**Jeremiah 32:25**
+
+[TODO]
+
+**Jeremiah 32:26**
+
+[TODO]
+
+**Jeremiah 32:27**
+
+[TODO]
+
+**Jeremiah 32:28**
+
+[TODO]
+
+**Jeremiah 32:29**
+
+[TODO]
+
+**Jeremiah 32:30**
+
+[TODO]
+
+**Jeremiah 32:31**
+
+[TODO]
+
+**Jeremiah 32:32**
+
+[TODO]
+
+**Jeremiah 32:33**
+
+[TODO]
+
+**Jeremiah 32:34**
+
+[TODO]
+
+**Jeremiah 32:35**
+
+[TODO]
+
+**Jeremiah 32:36**
+
+[TODO]
+
+**Jeremiah 32:37**
+
+[TODO]
+
+**Jeremiah 32:38**
+
+[TODO]
+
+### Chapter 33
+
+**Jeremiah 33:1**
+
+[TODO]
+
+**Jeremiah 33:2**
+
+[TODO]
+
+**Jeremiah 33:3**
+
+[TODO]
+
+**Jeremiah 33:4**
+
+[TODO]
+
+**Jeremiah 33:5**
+
+[TODO]
+
+**Jeremiah 33:6**
+
+[TODO]
+
+**Jeremiah 33:7**
+
+[TODO]
+
+**Jeremiah 33:8**
+
+[TODO]
+
+**Jeremiah 33:9**
+
+[TODO]
+
+**Jeremiah 33:10**
+
+[TODO]
+
+**Jeremiah 33:11**
+
+[TODO]
+
+**Jeremiah 33:12**
+
+[TODO]
+
+**Jeremiah 33:13**
+
+[TODO]
+
+**Jeremiah 33:14**
+
+[TODO]
+
+**Jeremiah 33:15**
+
+[TODO]
+
+**Jeremiah 33:16**
+
+[TODO]
+
+**Jeremiah 33:17**
+
+[TODO]
+
+**Jeremiah 33:18**
+
+[TODO]
+
+**Jeremiah 33:19**
+
+[TODO]
+
+**Jeremiah 33:20**
+
+[TODO]
+
+**Jeremiah 33:21**
+
+[TODO]
+
+**Jeremiah 33:22**
+
+[TODO]
+
+**Jeremiah 33:23**
+
+[TODO]
+
+**Jeremiah 33:24**
+
+[TODO]
+
+### Chapter 34
+
+**Jeremiah 34:2**
+
+[TODO]
+
+**Jeremiah 34:3**
+
+[TODO]
+
+**Jeremiah 34:4**
+
+[TODO]
+
+**Jeremiah 34:5**
+
+[TODO]
+
+**Jeremiah 34:6**
+
+[TODO]
+
+**Jeremiah 34:8**
+
+[TODO]
+
+**Jeremiah 34:9**
+
+[TODO]
+
+**Jeremiah 34:10**
+
+[TODO]
+
+**Jeremiah 34:11**
+
+[TODO]
+
+**Jeremiah 34:12**
+
+[TODO]
+
+**Jeremiah 34:14**
+
+[TODO]
+
+**Jeremiah 34:15**
+
+[TODO]
+
+**Jeremiah 34:16**
+
+[TODO]
+
+**Jeremiah 34:18**
+
+[TODO]
+
+**Jeremiah 34:19**
+
+[TODO]
+
+**Jeremiah 34:20**
+
+[TODO]
+
+**Jeremiah 34:22**
+
+[TODO]
+
+### Chapter 35
+
+**Jeremiah 35:1**
+
+[TODO]
+
+**Jeremiah 35:2**
+
+[TODO]
+
+**Jeremiah 35:3**
+
+[TODO]
+
+**Jeremiah 35:4**
+
+[TODO]
+
+**Jeremiah 35:5**
+
+[TODO]
+
+**Jeremiah 35:6**
+
+[TODO]
+
+**Jeremiah 35:7**
+
+[TODO]
+
+**Jeremiah 35:8**
+
+[TODO]
+
+**Jeremiah 35:9**
+
+[TODO]
+
+**Jeremiah 35:10**
+
+[TODO]
+
+**Jeremiah 35:11**
+
+[TODO]
+
+**Jeremiah 35:12**
+
+[TODO]
+
+**Jeremiah 35:13**
+
+[TODO]
+
+**Jeremiah 35:14**
+
+[TODO]
+
+**Jeremiah 35:15**
+
+[TODO]
+
+**Jeremiah 35:16**
+
+[TODO]
+
+**Jeremiah 35:17**
+
+[TODO]
+
+### Chapter 36
+
+**Jeremiah 36:1**
+
+[TODO]
+
+**Jeremiah 36:2**
+
+[TODO]
+
+**Jeremiah 36:3**
+
+[TODO]
+
+**Jeremiah 36:4**
+
+[TODO]
+
+**Jeremiah 36:5**
+
+[TODO]
+
+**Jeremiah 36:6**
+
+[TODO]
+
+**Jeremiah 36:7**
+
+[TODO]
+
+**Jeremiah 36:8**
+
+[TODO]
+
+**Jeremiah 36:9**
+
+[TODO]
+
+**Jeremiah 36:10**
+
+[TODO]
+
+**Jeremiah 36:11**
+
+[TODO]
+
+**Jeremiah 36:12**
+
+[TODO]
+
+**Jeremiah 36:13**
+
+[TODO]
+
+**Jeremiah 36:14**
+
+[TODO]
+
+**Jeremiah 36:15**
+
+[TODO]
+
+**Jeremiah 36:21**
+
+[TODO]
+
+**Jeremiah 36:22**
+
+[TODO]
+
+**Jeremiah 36:23**
+
+[TODO]
+
+**Jeremiah 36:24**
+
+[TODO]
+
+**Jeremiah 36:25**
+
+[TODO]
+
+**Jeremiah 36:26**
+
+[TODO]
+
+**Jeremiah 36:27**
+
+[TODO]
+
+**Jeremiah 36:28**
+
+[TODO]
+
+**Jeremiah 36:29**
+
+[TODO]
+
+**Jeremiah 36:30**
+
+[TODO]
+
+**Jeremiah 36:31**
+
+[TODO]
+
+**Jeremiah 36:32**
+
+[TODO]
+
+### Chapter 37
+
+**Jeremiah 37:1**
+
+[TODO]
+
+**Jeremiah 37:2**
+
+[TODO]
+
+**Jeremiah 37:3**
+
+[TODO]
+
+**Jeremiah 37:4**
+
+[TODO]
+
+**Jeremiah 37:5**
+
+[TODO]
+
+**Jeremiah 37:6**
+
+[TODO]
+
+**Jeremiah 37:7**
+
+[TODO]
+
+**Jeremiah 37:8**
+
+[TODO]
+
+**Jeremiah 37:9**
+
+[TODO]
+
+**Jeremiah 37:12**
+
+[TODO]
+
+**Jeremiah 37:13**
+
+[TODO]
+
+**Jeremiah 37:14**
+
+[TODO]
+
+**Jeremiah 37:16**
+
+[TODO]
+
+**Jeremiah 37:17**
+
+[TODO]
+
+**Jeremiah 37:18**
+
+[TODO]
+
+**Jeremiah 37:19**
+
+[TODO]
+
+**Jeremiah 37:20**
+
+[TODO]
+
+**Jeremiah 37:21**
+
+[TODO]
+
+**Jeremiah 37:23**
+
+[TODO]
+
+**Jeremiah 37:24**
+
+[TODO]
+
+### Chapter 38
+
+**Jeremiah 38:1**
+
+[TODO]
+
+**Jeremiah 38:2**
+
+[TODO]
+
+**Jeremiah 38:3**
+
+[TODO]
+
+**Jeremiah 38:4**
+
+[TODO]
+
+**Jeremiah 38:5**
+
+[TODO]
+
+**Jeremiah 38:6**
+
+[TODO]
+
+**Jeremiah 38:7**
+
+[TODO]
+
+**Jeremiah 38:8**
+
+[TODO]
+
+**Jeremiah 38:9**
+
+[TODO]
+
+**Jeremiah 38:10**
+
+[TODO]
+
+**Jeremiah 38:11**
+
+[TODO]
+
+**Jeremiah 38:12**
+
+[TODO]
+
+**Jeremiah 38:13**
+
+[TODO]
+
+**Jeremiah 38:14**
+
+[TODO]
+
+**Jeremiah 38:15**
+
+[TODO]
+
+**Jeremiah 38:16**
+
+[TODO]
+
+**Jeremiah 38:17**
+
+[TODO]
+
+**Jeremiah 38:18**
+
+[TODO]
+
+**Jeremiah 38:19**
+
+[TODO]
+
+**Jeremiah 38:20**
+
+[TODO]
+
+**Jeremiah 38:21**
+
+[TODO]
+
+**Jeremiah 38:22**
+
+[TODO]
+
+**Jeremiah 38:23**
+
+[TODO]
+
+**Jeremiah 38:24**
+
+[TODO]
+
+**Jeremiah 38:25**
+
+[TODO]
+
+**Jeremiah 38:26**
+
+[TODO]
+
+**Jeremiah 38:27**
+
+[TODO]
+
+**Jeremiah 38:28**
+
+[TODO]
+
+**Jeremiah 38:29**
+
+[TODO]
+
+**Jeremiah 38:30**
+
+[TODO]
+
+**Jeremiah 38:31**
+
+[TODO]
+
+**Jeremiah 38:32**
+
+[TODO]
+
+**Jeremiah 38:33**
+
+[TODO]
+
+**Jeremiah 38:34**
+
+[TODO]
+
+**Jeremiah 38:35**
+
+[TODO]
+
+**Jeremiah 38:36**
+
+[TODO]
+
+**Jeremiah 38:37**
+
+[TODO]
+
+**Jeremiah 38:38**
+
+[TODO]
+
+**Jeremiah 38:39**
+
+[TODO]
+
+**Jeremiah 38:40**
+
+[TODO]
+
+### Chapter 39
+
+**Jeremiah 39:1**
+
+[TODO]
+
+**Jeremiah 39:2**
+
+[TODO]
+
+**Jeremiah 39:3**
+
+[TODO]
+
+**Jeremiah 39:4**
+
+[TODO]
+
+**Jeremiah 39:5**
+
+[TODO]
+
+**Jeremiah 39:6**
+
+[TODO]
+
+**Jeremiah 39:7**
+
+[TODO]
+
+**Jeremiah 39:8**
+
+[TODO]
+
+**Jeremiah 39:9**
+
+[TODO]
+
+**Jeremiah 39:10**
+
+[TODO]
+
+**Jeremiah 39:11**
+
+[TODO]
+
+**Jeremiah 39:12**
+
+[TODO]
+
+**Jeremiah 39:13**
+
+[TODO]
+
+**Jeremiah 39:14**
+
+[TODO]
+
+**Jeremiah 39:15**
+
+[TODO]
+
+**Jeremiah 39:16**
+
+[TODO]
+
+**Jeremiah 39:17**
+
+[TODO]
+
+**Jeremiah 39:18**
+
+[TODO]
+
+**Jeremiah 39:19**
+
+[TODO]
+
+**Jeremiah 39:20**
+
+[TODO]
+
+**Jeremiah 39:21**
+
+[TODO]
+
+**Jeremiah 39:22**
+
+[TODO]
+
+**Jeremiah 39:23**
+
+[TODO]
+
+**Jeremiah 39:24**
+
+[TODO]
+
+**Jeremiah 39:25**
+
+[TODO]
+
+**Jeremiah 39:26**
+
+[TODO]
+
+**Jeremiah 39:27**
+
+[TODO]
+
+**Jeremiah 39:28**
+
+[TODO]
+
+**Jeremiah 39:29**
+
+[TODO]
+
+**Jeremiah 39:30**
+
+[TODO]
+
+**Jeremiah 39:31**
+
+[TODO]
+
+**Jeremiah 39:32**
+
+[TODO]
+
+**Jeremiah 39:33**
+
+[TODO]
+
+**Jeremiah 39:34**
+
+[TODO]
+
+**Jeremiah 39:35**
+
+[TODO]
+
+**Jeremiah 39:36**
+
+[TODO]
+
+**Jeremiah 39:37**
+
+[TODO]
+
+**Jeremiah 39:38**
+
+[TODO]
+
+**Jeremiah 39:39**
+
+[TODO]
+
+**Jeremiah 39:40**
+
+[TODO]
+
+**Jeremiah 39:41**
+
+[TODO]
+
+**Jeremiah 39:42**
+
+[TODO]
+
+**Jeremiah 39:43**
+
+[TODO]
+
+**Jeremiah 39:44**
+
+[TODO]
+
+### Chapter 40
+
+**Jeremiah 40:1**
+
+[TODO]
+
+**Jeremiah 40:2**
+
+[TODO]
+
+**Jeremiah 40:3**
+
+[TODO]
+
+**Jeremiah 40:4**
+
+[TODO]
+
+**Jeremiah 40:5**
+
+[TODO]
+
+**Jeremiah 40:6**
+
+[TODO]
+
+**Jeremiah 40:7**
+
+[TODO]
+
+**Jeremiah 40:8**
+
+[TODO]
+
+**Jeremiah 40:9**
+
+[TODO]
+
+**Jeremiah 40:10**
+
+[TODO]
+
+**Jeremiah 40:11**
+
+[TODO]
+
+**Jeremiah 40:12**
+
+[TODO]
+
+**Jeremiah 40:13**
+
+[TODO]
+
+### Chapter 41
+
+**Jeremiah 41:1**
+
+[TODO]
+
+**Jeremiah 41:2**
+
+[TODO]
+
+**Jeremiah 41:3**
+
+[TODO]
+
+**Jeremiah 41:4**
+
+[TODO]
+
+**Jeremiah 41:5**
+
+[TODO]
+
+**Jeremiah 41:6**
+
+[TODO]
+
+**Jeremiah 41:7**
+
+[TODO]
+
+**Jeremiah 41:8**
+
+[TODO]
+
+**Jeremiah 41:9**
+
+[TODO]
+
+**Jeremiah 41:10**
+
+[TODO]
+
+**Jeremiah 41:11**
+
+[TODO]
+
+**Jeremiah 41:12**
+
+[TODO]
+
+**Jeremiah 41:13**
+
+[TODO]
+
+**Jeremiah 41:14**
+
+[TODO]
+
+**Jeremiah 41:15**
+
+[TODO]
+
+**Jeremiah 41:16**
+
+[TODO]
+
+**Jeremiah 41:17**
+
+[TODO]
+
+**Jeremiah 41:18**
+
+[TODO]
+
+**Jeremiah 41:19**
+
+[TODO]
+
+**Jeremiah 41:20**
+
+[TODO]
+
+**Jeremiah 41:21**
+
+[TODO]
+
+**Jeremiah 41:22**
+
+[TODO]
+
+### Chapter 42
+
+**Jeremiah 42:1**
+
+[TODO]
+
+**Jeremiah 42:2**
+
+[TODO]
+
+**Jeremiah 42:3**
+
+[TODO]
+
+**Jeremiah 42:4**
+
+[TODO]
+
+**Jeremiah 42:5**
+
+[TODO]
+
+**Jeremiah 42:6**
+
+[TODO]
+
+**Jeremiah 42:7**
+
+[TODO]
+
+**Jeremiah 42:8**
+
+[TODO]
+
+**Jeremiah 42:9**
+
+[TODO]
+
+**Jeremiah 42:10**
+
+[TODO]
+
+**Jeremiah 42:11**
+
+[TODO]
+
+**Jeremiah 42:12**
+
+[TODO]
+
+**Jeremiah 42:13**
+
+[TODO]
+
+**Jeremiah 42:14**
+
+[TODO]
+
+**Jeremiah 42:15**
+
+[TODO]
+
+**Jeremiah 42:16**
+
+[TODO]
+
+**Jeremiah 42:17**
+
+[TODO]
+
+**Jeremiah 42:18**
+
+[TODO]
+
+**Jeremiah 42:19**
+
+[TODO]
+
+### Chapter 43
+
+**Jeremiah 43:1**
+
+[TODO]
+
+**Jeremiah 43:2**
+
+[TODO]
+
+**Jeremiah 43:3**
+
+[TODO]
+
+**Jeremiah 43:4**
+
+[TODO]
+
+**Jeremiah 43:5**
+
+[TODO]
+
+**Jeremiah 43:6**
+
+[TODO]
+
+**Jeremiah 43:7**
+
+[TODO]
+
+**Jeremiah 43:8**
+
+[TODO]
+
+**Jeremiah 43:9**
+
+[TODO]
+
+**Jeremiah 43:10**
+
+[TODO]
+
+**Jeremiah 43:11**
+
+[TODO]
+
+**Jeremiah 43:12**
+
+[TODO]
+
+**Jeremiah 43:13**
+
+[TODO]
+
+**Jeremiah 43:14**
+
+[TODO]
+
+**Jeremiah 43:15**
+
+[TODO]
+
+**Jeremiah 43:16**
+
+[TODO]
+
+**Jeremiah 43:17**
+
+[TODO]
+
+**Jeremiah 43:18**
+
+[TODO]
+
+**Jeremiah 43:19**
+
+[TODO]
+
+**Jeremiah 43:20**
+
+[TODO]
+
+**Jeremiah 43:21**
+
+[TODO]
+
+**Jeremiah 43:22**
+
+[TODO]
+
+**Jeremiah 43:23**
+
+[TODO]
+
+**Jeremiah 43:24**
+
+[TODO]
+
+**Jeremiah 43:25**
+
+[TODO]
+
+**Jeremiah 43:26**
+
+[TODO]
+
+**Jeremiah 43:27**
+
+[TODO]
+
+**Jeremiah 43:28**
+
+[TODO]
+
+**Jeremiah 43:29**
+
+[TODO]
+
+**Jeremiah 43:30**
+
+[TODO]
+
+**Jeremiah 43:31**
+
+[TODO]
+
+**Jeremiah 43:32**
+
+[TODO]
+
+### Chapter 44
+
+**Jeremiah 44:1**
+
+[TODO]
+
+**Jeremiah 44:2**
+
+[TODO]
+
+**Jeremiah 44:3**
+
+[TODO]
+
+**Jeremiah 44:4**
+
+[TODO]
+
+**Jeremiah 44:5**
+
+[TODO]
+
+**Jeremiah 44:6**
+
+[TODO]
+
+**Jeremiah 44:7**
+
+[TODO]
+
+**Jeremiah 44:8**
+
+[TODO]
+
+**Jeremiah 44:9**
+
+[TODO]
+
+**Jeremiah 44:10**
+
+[TODO]
+
+**Jeremiah 44:11**
+
+[TODO]
+
+**Jeremiah 44:12**
+
+[TODO]
+
+**Jeremiah 44:13**
+
+[TODO]
+
+**Jeremiah 44:14**
+
+[TODO]
+
+**Jeremiah 44:15**
+
+[TODO]
+
+**Jeremiah 44:16**
+
+[TODO]
+
+**Jeremiah 44:17**
+
+[TODO]
+
+**Jeremiah 44:18**
+
+[TODO]
+
+**Jeremiah 44:19**
+
+[TODO]
+
+**Jeremiah 44:20**
+
+[TODO]
+
+**Jeremiah 44:21**
+
+[TODO]
+
+### Chapter 45
+
+**Jeremiah 45:1**
+
+[TODO]
+
+**Jeremiah 45:2**
+
+[TODO]
+
+**Jeremiah 45:3**
+
+[TODO]
+
+**Jeremiah 45:4**
+
+[TODO]
+
+**Jeremiah 45:5**
+
+[TODO]
+
+**Jeremiah 45:6**
+
+[TODO]
+
+**Jeremiah 45:7**
+
+[TODO]
+
+**Jeremiah 45:8**
+
+[TODO]
+
+**Jeremiah 45:9**
+
+[TODO]
+
+**Jeremiah 45:10**
+
+[TODO]
+
+**Jeremiah 45:11**
+
+[TODO]
+
+**Jeremiah 45:12**
+
+[TODO]
+
+**Jeremiah 45:13**
+
+[TODO]
+
+**Jeremiah 45:14**
+
+[TODO]
+
+**Jeremiah 45:15**
+
+[TODO]
+
+**Jeremiah 45:16**
+
+[TODO]
+
+**Jeremiah 45:17**
+
+[TODO]
+
+**Jeremiah 45:18**
+
+[TODO]
+
+**Jeremiah 45:19**
+
+[TODO]
+
+**Jeremiah 45:20**
+
+[TODO]
+
+**Jeremiah 45:21**
+
+[TODO]
+
+**Jeremiah 45:22**
+
+[TODO]
+
+**Jeremiah 45:23**
+
+[TODO]
+
+**Jeremiah 45:24**
+
+[TODO]
+
+**Jeremiah 45:25**
+
+[TODO]
+
+**Jeremiah 45:26**
+
+[TODO]
+
+**Jeremiah 45:27**
+
+[TODO]
+
+**Jeremiah 45:28**
+
+[TODO]
+
+### Chapter 46
+
+**Jeremiah 46:1**
+
+[TODO]
+
+**Jeremiah 46:2**
+
+[TODO]
+
+**Jeremiah 46:3**
+
+[TODO]
+
+**Jeremiah 46:14**
+
+[TODO]
+
+**Jeremiah 46:15**
+
+[TODO]
+
+**Jeremiah 46:16**
+
+[TODO]
+
+**Jeremiah 46:17**
+
+[TODO]
+
+**Jeremiah 46:18**
+
+[TODO]
+
+### Chapter 47
+
+**Jeremiah 47:1**
+
+[TODO]
+
+**Jeremiah 47:2**
+
+[TODO]
+
+**Jeremiah 47:3**
+
+[TODO]
+
+**Jeremiah 47:4**
+
+[TODO]
+
+**Jeremiah 47:5**
+
+[TODO]
+
+**Jeremiah 47:6**
+
+[TODO]
+
+**Jeremiah 47:7**
+
+[TODO]
+
+**Jeremiah 47:8**
+
+[TODO]
+
+**Jeremiah 47:9**
+
+[TODO]
+
+**Jeremiah 47:10**
+
+[TODO]
+
+**Jeremiah 47:11**
+
+[TODO]
+
+**Jeremiah 47:12**
+
+[TODO]
+
+**Jeremiah 47:13**
+
+[TODO]
+
+**Jeremiah 47:14**
+
+[TODO]
+
+**Jeremiah 47:15**
+
+[TODO]
+
+**Jeremiah 47:16**
+
+[TODO]
+
+### Chapter 48
+
+**Jeremiah 48:1**
+
+[TODO]
+
+**Jeremiah 48:2**
+
+[TODO]
+
+**Jeremiah 48:3**
+
+[TODO]
+
+**Jeremiah 48:4**
+
+[TODO]
+
+**Jeremiah 48:5**
+
+[TODO]
+
+**Jeremiah 48:6**
+
+[TODO]
+
+**Jeremiah 48:7**
+
+[TODO]
+
+**Jeremiah 48:8**
+
+[TODO]
+
+**Jeremiah 48:9**
+
+[TODO]
+
+**Jeremiah 48:10**
+
+[TODO]
+
+**Jeremiah 48:11**
+
+[TODO]
+
+**Jeremiah 48:12**
+
+[TODO]
+
+**Jeremiah 48:13**
+
+[TODO]
+
+**Jeremiah 48:14**
+
+[TODO]
+
+**Jeremiah 48:15**
+
+[TODO]
+
+**Jeremiah 48:16**
+
+[TODO]
+
+**Jeremiah 48:17**
+
+[TODO]
+
+**Jeremiah 48:18**
+
+[TODO]
+
+### Chapter 49
+
+**Jeremiah 49:1**
+
+[TODO]
+
+**Jeremiah 49:2**
+
+[TODO]
+
+**Jeremiah 49:3**
+
+[TODO]
+
+**Jeremiah 49:4**
+
+[TODO]
+
+**Jeremiah 49:5**
+
+[TODO]
+
+**Jeremiah 49:6**
+
+[TODO]
+
+**Jeremiah 49:7**
+
+[TODO]
+
+**Jeremiah 49:8**
+
+[TODO]
+
+**Jeremiah 49:9**
+
+[TODO]
+
+**Jeremiah 49:10**
+
+[TODO]
+
+**Jeremiah 49:11**
+
+[TODO]
+
+**Jeremiah 49:12**
+
+[TODO]
+
+**Jeremiah 49:13**
+
+[TODO]
+
+**Jeremiah 49:14**
+
+[TODO]
+
+**Jeremiah 49:15**
+
+[TODO]
+
+**Jeremiah 49:16**
+
+[TODO]
+
+**Jeremiah 49:17**
+
+[TODO]
+
+**Jeremiah 49:18**
+
+[TODO]
+
+**Jeremiah 49:19**
+
+[TODO]
+
+**Jeremiah 49:20**
+
+[TODO]
+
+**Jeremiah 49:21**
+
+[TODO]
+
+**Jeremiah 49:22**
+
+[TODO]
+
+### Chapter 50
+
+**Jeremiah 50:1**
+
+[TODO]
+
+**Jeremiah 50:2**
+
+[TODO]
+
+**Jeremiah 50:3**
+
+[TODO]
+
+**Jeremiah 50:4**
+
+[TODO]
+
+**Jeremiah 50:5**
+
+[TODO]
+
+**Jeremiah 50:6**
+
+[TODO]
+
+**Jeremiah 50:7**
+
+[TODO]
+
+**Jeremiah 50:8**
+
+[TODO]
+
+**Jeremiah 50:9**
+
+[TODO]
+
+**Jeremiah 50:10**
+
+[TODO]
+
+**Jeremiah 50:11**
+
+[TODO]
+
+**Jeremiah 50:12**
+
+[TODO]
+
+**Jeremiah 50:13**
+
+[TODO]
+
+### Chapter 51
+
+**Jeremiah 51:1**
+
+[TODO]
+
+**Jeremiah 51:2**
+
+[TODO]
+
+**Jeremiah 51:3**
+
+[TODO]
+
+**Jeremiah 51:4**
+
+[TODO]
+
+**Jeremiah 51:5**
+
+[TODO]
+
+**Jeremiah 51:6**
+
+[TODO]
+
+**Jeremiah 51:7**
+
+[TODO]
+
+**Jeremiah 51:8**
+
+[TODO]
+
+**Jeremiah 51:9**
+
+[TODO]
+
+**Jeremiah 51:10**
+
+[TODO]
+
+**Jeremiah 51:11**
+
+[TODO]
+
+**Jeremiah 51:12**
+
+[TODO]
+
+**Jeremiah 51:13**
+
+[TODO]
+
+**Jeremiah 51:14**
+
+[TODO]
+
+**Jeremiah 51:15**
+
+[TODO]
+
+**Jeremiah 51:16**
+
+[TODO]
+
+**Jeremiah 51:17**
+
+[TODO]
+
+**Jeremiah 51:18**
+
+[TODO]
+
+**Jeremiah 51:19**
+
+[TODO]
+
+**Jeremiah 51:20**
+
+[TODO]
+
+**Jeremiah 51:21**
+
+[TODO]
+
+**Jeremiah 51:22**
+
+[TODO]
+
+**Jeremiah 51:23**
+
+[TODO]
+
+**Jeremiah 51:24**
+
+[TODO]
+
+**Jeremiah 51:25**
+
+[TODO]
+
+**Jeremiah 51:26**
+
+[TODO]
+
+**Jeremiah 51:27**
+
+[TODO]
+
+**Jeremiah 51:28**
+
+[TODO]
+
+**Jeremiah 51:29**
+
+[TODO]
+
+**Jeremiah 51:30**
+
+[TODO]
+
+**Jeremiah 51:31**
+
+[TODO]
+
+**Jeremiah 51:32**
+
+[TODO]
+
+**Jeremiah 51:33**
+
+[TODO]
+
+**Jeremiah 51:34**
+
+[TODO]
+
+**Jeremiah 51:35**
+
+[TODO]
+
+### Chapter 52
+
+**Jeremiah 52:1**
+
+[TODO]
+
+**Jeremiah 52:4**
+
+[TODO]
+
+**Jeremiah 52:5**
+
+[TODO]
+
+**Jeremiah 52:6**
+
+[TODO]
+
+**Jeremiah 52:7**
+
+[TODO]
+
+**Jeremiah 52:8**
+
+[TODO]
+
+**Jeremiah 52:9**
+
+[TODO]
+
+**Jeremiah 52:10**
+
+[TODO]
+
+**Jeremiah 52:11**
+
+[TODO]
+
+**Jeremiah 52:12**
+
+[TODO]
+
+**Jeremiah 52:13**
+
+[TODO]
+
+**Jeremiah 52:14**
+
+[TODO]
+
+**Jeremiah 52:16**
+
+[TODO]
+
+**Jeremiah 52:17**
+
+[TODO]
+
+**Jeremiah 52:18**
+
+[TODO]
+
+**Jeremiah 52:19**
+
+[TODO]
+
+**Jeremiah 52:20**
+
+[TODO]
+
+**Jeremiah 52:21**
+
+[TODO]
+
+**Jeremiah 52:22**
+
+[TODO]
+
+**Jeremiah 52:23**
+
+[TODO]
+
+**Jeremiah 52:24**
+
+[TODO]
+
+**Jeremiah 52:25**
+
+[TODO]
+
+**Jeremiah 52:26**
+
+[TODO]
+
+**Jeremiah 52:27**
+
+[TODO]
+
+**Jeremiah 52:31**
+
+[TODO]
+
+**Jeremiah 52:32**
+
+[TODO]
+
+**Jeremiah 52:33**
+
+[TODO]
+
+**Jeremiah 52:34**
+
+[TODO]
+
+## Lamentations
+
+### Chapter 1
+
+**Lamentations 1:0**
+
+[TODO]
+
+**Lamentations 1:1**
+
+[TODO]
+
+**Lamentations 1:2**
+
+[TODO]
+
+**Lamentations 1:3**
+
+[TODO]
+
+**Lamentations 1:4**
+
+[TODO]
+
+**Lamentations 1:5**
+
+[TODO]
+
+**Lamentations 1:6**
+
+[TODO]
+
+**Lamentations 1:7**
+
+[TODO]
+
+**Lamentations 1:8**
+
+[TODO]
+
+**Lamentations 1:9**
+
+[TODO]
+
+**Lamentations 1:10**
+
+[TODO]
+
+**Lamentations 1:11**
+
+[TODO]
+
+**Lamentations 1:12**
+
+[TODO]
+
+**Lamentations 1:13**
+
+[TODO]
+
+**Lamentations 1:14**
+
+[TODO]
+
+**Lamentations 1:15**
+
+[TODO]
+
+**Lamentations 1:16**
+
+[TODO]
+
+**Lamentations 1:17**
+
+[TODO]
+
+**Lamentations 1:18**
+
+[TODO]
+
+**Lamentations 1:19**
+
+[TODO]
+
+**Lamentations 1:20**
+
+[TODO]
+
+**Lamentations 1:21**
+
+[TODO]
+
+**Lamentations 1:22**
+
+[TODO]
+
+### Chapter 2
+
+**Lamentations 2:1**
+
+[TODO]
+
+**Lamentations 2:2**
+
+[TODO]
+
+**Lamentations 2:3**
+
+[TODO]
+
+**Lamentations 2:4**
+
+[TODO]
+
+**Lamentations 2:5**
+
+[TODO]
+
+**Lamentations 2:6**
+
+[TODO]
+
+**Lamentations 2:7**
+
+[TODO]
+
+**Lamentations 2:8**
+
+[TODO]
+
+**Lamentations 2:9**
+
+[TODO]
+
+**Lamentations 2:10**
+
+[TODO]
+
+**Lamentations 2:11**
+
+[TODO]
+
+**Lamentations 2:12**
+
+[TODO]
+
+**Lamentations 2:13**
+
+[TODO]
+
+**Lamentations 2:14**
+
+[TODO]
+
+**Lamentations 2:15**
+
+[TODO]
+
+**Lamentations 2:16**
+
+[TODO]
+
+**Lamentations 2:17**
+
+[TODO]
+
+**Lamentations 2:18**
+
+[TODO]
+
+**Lamentations 2:19**
+
+[TODO]
+
+**Lamentations 2:20**
+
+[TODO]
+
+**Lamentations 2:21**
+
+[TODO]
+
+**Lamentations 2:22**
+
+[TODO]
+
+### Chapter 3
+
+**Lamentations 3:1**
+
+[TODO]
+
+**Lamentations 3:2**
+
+[TODO]
+
+**Lamentations 3:3**
+
+[TODO]
+
+**Lamentations 3:4**
+
+[TODO]
+
+**Lamentations 3:5**
+
+[TODO]
+
+**Lamentations 3:6**
+
+[TODO]
+
+**Lamentations 3:7**
+
+[TODO]
+
+**Lamentations 3:8**
+
+[TODO]
+
+**Lamentations 3:9**
+
+[TODO]
+
+**Lamentations 3:10**
+
+[TODO]
+
+**Lamentations 3:11**
+
+[TODO]
+
+**Lamentations 3:12**
+
+[TODO]
+
+**Lamentations 3:13**
+
+[TODO]
+
+**Lamentations 3:14**
+
+[TODO]
+
+**Lamentations 3:15**
+
+[TODO]
+
+**Lamentations 3:16**
+
+[TODO]
+
+**Lamentations 3:17**
+
+[TODO]
+
+**Lamentations 3:18**
+
+[TODO]
+
+**Lamentations 3:19**
+
+[TODO]
+
+**Lamentations 3:20**
+
+[TODO]
+
+**Lamentations 3:21**
+
+[TODO]
+
+**Lamentations 3:25**
+
+[TODO]
+
+**Lamentations 3:26**
+
+[TODO]
+
+**Lamentations 3:27**
+
+[TODO]
+
+**Lamentations 3:28**
+
+[TODO]
+
+**Lamentations 3:30**
+
+[TODO]
+
+**Lamentations 3:31**
+
+[TODO]
+
+**Lamentations 3:32**
+
+[TODO]
+
+**Lamentations 3:33**
+
+[TODO]
+
+**Lamentations 3:34**
+
+[TODO]
+
+**Lamentations 3:35**
+
+[TODO]
+
+**Lamentations 3:36**
+
+[TODO]
+
+**Lamentations 3:37**
+
+[TODO]
+
+**Lamentations 3:38**
+
+[TODO]
+
+**Lamentations 3:39**
+
+[TODO]
+
+**Lamentations 3:40**
+
+[TODO]
+
+**Lamentations 3:41**
+
+[TODO]
+
+**Lamentations 3:42**
+
+[TODO]
+
+**Lamentations 3:43**
+
+[TODO]
+
+**Lamentations 3:44**
+
+[TODO]
+
+**Lamentations 3:45**
+
+[TODO]
+
+**Lamentations 3:46**
+
+[TODO]
+
+**Lamentations 3:47**
+
+[TODO]
+
+**Lamentations 3:48**
+
+[TODO]
+
+**Lamentations 3:49**
+
+[TODO]
+
+**Lamentations 3:50**
+
+[TODO]
+
+**Lamentations 3:51**
+
+[TODO]
+
+**Lamentations 3:52**
+
+[TODO]
+
+**Lamentations 3:53**
+
+[TODO]
+
+**Lamentations 3:54**
+
+[TODO]
+
+**Lamentations 3:55**
+
+[TODO]
+
+**Lamentations 3:56**
+
+[TODO]
+
+**Lamentations 3:57**
+
+[TODO]
+
+**Lamentations 3:58**
+
+[TODO]
+
+**Lamentations 3:59**
+
+[TODO]
+
+**Lamentations 3:60**
+
+[TODO]
+
+**Lamentations 3:61**
+
+[TODO]
+
+**Lamentations 3:62**
+
+[TODO]
+
+**Lamentations 3:63**
+
+[TODO]
+
+**Lamentations 3:64**
+
+[TODO]
+
+**Lamentations 3:65**
+
+[TODO]
+
+**Lamentations 3:66**
+
+[TODO]
+
+### Chapter 4
+
+**Lamentations 4:1**
+
+[TODO]
+
+**Lamentations 4:2**
+
+[TODO]
+
+**Lamentations 4:3**
+
+[TODO]
+
+**Lamentations 4:4**
+
+[TODO]
+
+**Lamentations 4:5**
+
+[TODO]
+
+**Lamentations 4:6**
+
+[TODO]
+
+**Lamentations 4:7**
+
+[TODO]
+
+**Lamentations 4:8**
+
+[TODO]
+
+**Lamentations 4:9**
+
+[TODO]
+
+**Lamentations 4:10**
+
+[TODO]
+
+**Lamentations 4:11**
+
+[TODO]
+
+**Lamentations 4:12**
+
+[TODO]
+
+**Lamentations 4:13**
+
+[TODO]
+
+**Lamentations 4:14**
+
+[TODO]
+
+**Lamentations 4:15**
+
+[TODO]
+
+**Lamentations 4:16**
+
+[TODO]
+
+**Lamentations 4:17**
+
+[TODO]
+
+**Lamentations 4:18**
+
+[TODO]
+
+**Lamentations 4:19**
+
+[TODO]
+
+**Lamentations 4:20**
+
+[TODO]
+
+**Lamentations 4:21**
+
+[TODO]
+
+**Lamentations 4:22**
+
+[TODO]
+
+### Chapter 5
+
+**Lamentations 5:1**
+
+[TODO]
+
+**Lamentations 5:2**
+
+[TODO]
+
+**Lamentations 5:3**
+
+[TODO]
+
+**Lamentations 5:4**
+
+[TODO]
+
+**Lamentations 5:5**
+
+[TODO]
+
+**Lamentations 5:6**
+
+[TODO]
+
+**Lamentations 5:7**
+
+[TODO]
+
+**Lamentations 5:8**
+
+[TODO]
+
+**Lamentations 5:9**
+
+[TODO]
+
+**Lamentations 5:10**
+
+[TODO]
+
+**Lamentations 5:11**
+
+[TODO]
+
+**Lamentations 5:12**
+
+[TODO]
+
+**Lamentations 5:13**
+
+[TODO]
+
+**Lamentations 5:14**
+
+[TODO]
+
+**Lamentations 5:15**
+
+[TODO]
+
+**Lamentations 5:16**
+
+[TODO]
+
+**Lamentations 5:17**
+
+[TODO]
+
+**Lamentations 5:18**
+
+[TODO]
+
+**Lamentations 5:19**
+
+[TODO]
+
+**Lamentations 5:20**
+
+[TODO]
+
+**Lamentations 5:21**
+
+[TODO]
+
+**Lamentations 5:22**
+
+[TODO]
+
+## Ezekiel
+
+### Chapter 1
+
+**Ezekiel 1:1**
+
+[TODO]
+
+**Ezekiel 1:2**
+
+[TODO]
+
+**Ezekiel 1:3**
+
+[TODO]
+
+**Ezekiel 1:4**
+
+[TODO]
+
+**Ezekiel 1:5**
+
+[TODO]
+
+**Ezekiel 1:6**
+
+[TODO]
+
+**Ezekiel 1:7**
+
+[TODO]
+
+**Ezekiel 1:8**
+
+[TODO]
+
+**Ezekiel 1:9**
+
+[TODO]
+
+**Ezekiel 1:10**
+
+[TODO]
+
+**Ezekiel 1:11**
+
+[TODO]
+
+**Ezekiel 1:12**
+
+[TODO]
+
+**Ezekiel 1:13**
+
+[TODO]
+
+**Ezekiel 1:15**
+
+[TODO]
+
+**Ezekiel 1:16**
+
+[TODO]
+
+**Ezekiel 1:17**
+
+[TODO]
+
+**Ezekiel 1:18**
+
+[TODO]
+
+**Ezekiel 1:19**
+
+[TODO]
+
+**Ezekiel 1:20**
+
+[TODO]
+
+**Ezekiel 1:21**
+
+[TODO]
+
+**Ezekiel 1:22**
+
+[TODO]
+
+**Ezekiel 1:23**
+
+[TODO]
+
+**Ezekiel 1:24**
+
+[TODO]
+
+**Ezekiel 1:25**
+
+[TODO]
+
+**Ezekiel 1:26**
+
+[TODO]
+
+**Ezekiel 1:27**
+
+[TODO]
+
+**Ezekiel 1:28**
+
+[TODO]
+
+### Chapter 2
+
+**Ezekiel 2:1**
+
+[TODO]
+
+**Ezekiel 2:2**
+
+[TODO]
+
+**Ezekiel 2:3**
+
+[TODO]
+
+**Ezekiel 2:4**
+
+[TODO]
+
+**Ezekiel 2:5**
+
+[TODO]
+
+**Ezekiel 2:6**
+
+[TODO]
+
+**Ezekiel 2:7**
+
+[TODO]
+
+**Ezekiel 2:8**
+
+[TODO]
+
+**Ezekiel 2:9**
+
+[TODO]
+
+**Ezekiel 2:10**
+
+[TODO]
+
+### Chapter 3
+
+**Ezekiel 3:1**
+
+[TODO]
+
+**Ezekiel 3:2**
+
+[TODO]
+
+**Ezekiel 3:3**
+
+[TODO]
+
+**Ezekiel 3:4**
+
+[TODO]
+
+**Ezekiel 3:5**
+
+[TODO]
+
+**Ezekiel 3:6**
+
+[TODO]
+
+**Ezekiel 3:7**
+
+[TODO]
+
+**Ezekiel 3:8**
+
+[TODO]
+
+**Ezekiel 3:9**
+
+[TODO]
+
+**Ezekiel 3:10**
+
+[TODO]
+
+**Ezekiel 3:11**
+
+[TODO]
+
+**Ezekiel 3:12**
+
+[TODO]
+
+**Ezekiel 3:13**
+
+[TODO]
+
+**Ezekiel 3:14**
+
+[TODO]
+
+**Ezekiel 3:15**
+
+[TODO]
+
+**Ezekiel 3:16**
+
+[TODO]
+
+**Ezekiel 3:17**
+
+[TODO]
+
+**Ezekiel 3:18**
+
+[TODO]
+
+**Ezekiel 3:19**
+
+[TODO]
+
+**Ezekiel 3:20**
+
+[TODO]
+
+**Ezekiel 3:21**
+
+[TODO]
+
+**Ezekiel 3:22**
+
+[TODO]
+
+**Ezekiel 3:23**
+
+[TODO]
+
+**Ezekiel 3:24**
+
+[TODO]
+
+**Ezekiel 3:25**
+
+[TODO]
+
+**Ezekiel 3:26**
+
+[TODO]
+
+**Ezekiel 3:27**
+
+[TODO]
+
+### Chapter 4
+
+**Ezekiel 4:1**
+
+[TODO]
+
+**Ezekiel 4:2**
+
+[TODO]
+
+**Ezekiel 4:3**
+
+[TODO]
+
+**Ezekiel 4:4**
+
+[TODO]
+
+**Ezekiel 4:5**
+
+[TODO]
+
+**Ezekiel 4:6**
+
+[TODO]
+
+**Ezekiel 4:7**
+
+[TODO]
+
+**Ezekiel 4:8**
+
+[TODO]
+
+**Ezekiel 4:9**
+
+[TODO]
+
+**Ezekiel 4:10**
+
+[TODO]
+
+**Ezekiel 4:11**
+
+[TODO]
+
+**Ezekiel 4:12**
+
+[TODO]
+
+**Ezekiel 4:13**
+
+[TODO]
+
+**Ezekiel 4:14**
+
+[TODO]
+
+**Ezekiel 4:15**
+
+[TODO]
+
+**Ezekiel 4:16**
+
+[TODO]
+
+**Ezekiel 4:17**
+
+[TODO]
+
+### Chapter 5
+
+**Ezekiel 5:1**
+
+[TODO]
+
+**Ezekiel 5:2**
+
+[TODO]
+
+**Ezekiel 5:3**
+
+[TODO]
+
+**Ezekiel 5:4**
+
+[TODO]
+
+**Ezekiel 5:5**
+
+[TODO]
+
+**Ezekiel 5:6**
+
+[TODO]
+
+**Ezekiel 5:7**
+
+[TODO]
+
+**Ezekiel 5:8**
+
+[TODO]
+
+**Ezekiel 5:9**
+
+[TODO]
+
+**Ezekiel 5:10**
+
+[TODO]
+
+**Ezekiel 5:11**
+
+[TODO]
+
+**Ezekiel 5:12**
+
+[TODO]
+
+**Ezekiel 5:13**
+
+[TODO]
+
+**Ezekiel 5:14**
+
+[TODO]
+
+**Ezekiel 5:15**
+
+[TODO]
+
+**Ezekiel 5:16**
+
+[TODO]
+
+**Ezekiel 5:17**
+
+[TODO]
+
+### Chapter 6
+
+**Ezekiel 6:1**
+
+[TODO]
+
+**Ezekiel 6:2**
+
+[TODO]
+
+**Ezekiel 6:3**
+
+[TODO]
+
+**Ezekiel 6:4**
+
+[TODO]
+
+**Ezekiel 6:5**
+
+[TODO]
+
+**Ezekiel 6:6**
+
+[TODO]
+
+**Ezekiel 6:7**
+
+[TODO]
+
+**Ezekiel 6:8**
+
+[TODO]
+
+**Ezekiel 6:9**
+
+[TODO]
+
+**Ezekiel 6:10**
+
+[TODO]
+
+**Ezekiel 6:11**
+
+[TODO]
+
+**Ezekiel 6:12**
+
+[TODO]
+
+**Ezekiel 6:13**
+
+[TODO]
+
+**Ezekiel 6:14**
+
+[TODO]
+
+### Chapter 7
+
+**Ezekiel 7:1**
+
+[TODO]
+
+**Ezekiel 7:2**
+
+[TODO]
+
+**Ezekiel 7:3**
+
+[TODO]
+
+**Ezekiel 7:4**
+
+[TODO]
+
+**Ezekiel 7:5**
+
+[TODO]
+
+**Ezekiel 7:6**
+
+[TODO]
+
+**Ezekiel 7:7**
+
+[TODO]
+
+**Ezekiel 7:8**
+
+[TODO]
+
+**Ezekiel 7:9**
+
+[TODO]
+
+**Ezekiel 7:10**
+
+[TODO]
+
+**Ezekiel 7:11**
+
+[TODO]
+
+**Ezekiel 7:12**
+
+[TODO]
+
+**Ezekiel 7:13**
+
+[TODO]
+
+**Ezekiel 7:14**
+
+[TODO]
+
+**Ezekiel 7:15**
+
+[TODO]
+
+**Ezekiel 7:16**
+
+[TODO]
+
+**Ezekiel 7:17**
+
+[TODO]
+
+**Ezekiel 7:18**
+
+[TODO]
+
+**Ezekiel 7:19**
+
+[TODO]
+
+**Ezekiel 7:20**
+
+[TODO]
+
+**Ezekiel 7:21**
+
+[TODO]
+
+**Ezekiel 7:22**
+
+[TODO]
+
+**Ezekiel 7:23**
+
+[TODO]
+
+**Ezekiel 7:24**
+
+[TODO]
+
+**Ezekiel 7:25**
+
+[TODO]
+
+**Ezekiel 7:26**
+
+[TODO]
+
+**Ezekiel 7:27**
+
+[TODO]
+
+### Chapter 8
+
+**Ezekiel 8:1**
+
+[TODO]
+
+**Ezekiel 8:2**
+
+[TODO]
+
+**Ezekiel 8:3**
+
+[TODO]
+
+**Ezekiel 8:4**
+
+[TODO]
+
+**Ezekiel 8:5**
+
+[TODO]
+
+**Ezekiel 8:6**
+
+[TODO]
+
+**Ezekiel 8:7**
+
+[TODO]
+
+**Ezekiel 8:8**
+
+[TODO]
+
+**Ezekiel 8:9**
+
+[TODO]
+
+**Ezekiel 8:10**
+
+[TODO]
+
+**Ezekiel 8:11**
+
+[TODO]
+
+**Ezekiel 8:12**
+
+[TODO]
+
+**Ezekiel 8:13**
+
+[TODO]
+
+**Ezekiel 8:14**
+
+[TODO]
+
+**Ezekiel 8:15**
+
+[TODO]
+
+**Ezekiel 8:16**
+
+[TODO]
+
+**Ezekiel 8:17**
+
+[TODO]
+
+**Ezekiel 8:18**
+
+[TODO]
+
+### Chapter 9
+
+**Ezekiel 9:1**
+
+[TODO]
+
+**Ezekiel 9:2**
+
+[TODO]
+
+**Ezekiel 9:3**
+
+[TODO]
+
+**Ezekiel 9:4**
+
+[TODO]
+
+**Ezekiel 9:5**
+
+[TODO]
+
+**Ezekiel 9:6**
+
+[TODO]
+
+**Ezekiel 9:7**
+
+[TODO]
+
+**Ezekiel 9:8**
+
+[TODO]
+
+**Ezekiel 9:9**
+
+[TODO]
+
+**Ezekiel 9:10**
+
+[TODO]
+
+**Ezekiel 9:11**
+
+[TODO]
+
+### Chapter 10
+
+**Ezekiel 10:1**
+
+[TODO]
+
+**Ezekiel 10:2**
+
+[TODO]
+
+**Ezekiel 10:3**
+
+[TODO]
+
+**Ezekiel 10:4**
+
+[TODO]
+
+**Ezekiel 10:5**
+
+[TODO]
+
+**Ezekiel 10:6**
+
+[TODO]
+
+**Ezekiel 10:7**
+
+[TODO]
+
+**Ezekiel 10:8**
+
+[TODO]
+
+**Ezekiel 10:9**
+
+[TODO]
+
+**Ezekiel 10:10**
+
+[TODO]
+
+**Ezekiel 10:11**
+
+[TODO]
+
+**Ezekiel 10:12**
+
+[TODO]
+
+**Ezekiel 10:13**
+
+[TODO]
+
+**Ezekiel 10:15**
+
+[TODO]
+
+**Ezekiel 10:16**
+
+[TODO]
+
+**Ezekiel 10:17**
+
+[TODO]
+
+**Ezekiel 10:18**
+
+[TODO]
+
+**Ezekiel 10:19**
+
+[TODO]
+
+**Ezekiel 10:20**
+
+[TODO]
+
+**Ezekiel 10:21**
+
+[TODO]
+
+**Ezekiel 10:22**
+
+[TODO]
+
+### Chapter 11
+
+**Ezekiel 11:1**
+
+[TODO]
+
+**Ezekiel 11:2**
+
+[TODO]
+
+**Ezekiel 11:3**
+
+[TODO]
+
+**Ezekiel 11:4**
+
+[TODO]
+
+**Ezekiel 11:5**
+
+[TODO]
+
+**Ezekiel 11:6**
+
+[TODO]
+
+**Ezekiel 11:7**
+
+[TODO]
+
+**Ezekiel 11:8**
+
+[TODO]
+
+**Ezekiel 11:9**
+
+[TODO]
+
+**Ezekiel 11:10**
+
+[TODO]
+
+**Ezekiel 11:11**
+
+[TODO]
+
+**Ezekiel 11:12**
+
+[TODO]
+
+**Ezekiel 11:13**
+
+[TODO]
+
+**Ezekiel 11:14**
+
+[TODO]
+
+**Ezekiel 11:15**
+
+[TODO]
+
+**Ezekiel 11:16**
+
+[TODO]
+
+**Ezekiel 11:17**
+
+[TODO]
+
+**Ezekiel 11:18**
+
+[TODO]
+
+**Ezekiel 11:19**
+
+[TODO]
+
+**Ezekiel 11:20**
+
+[TODO]
+
+**Ezekiel 11:21**
+
+[TODO]
+
+**Ezekiel 11:22**
+
+[TODO]
+
+**Ezekiel 11:23**
+
+[TODO]
+
+**Ezekiel 11:24**
+
+[TODO]
+
+**Ezekiel 11:25**
+
+[TODO]
+
+### Chapter 12
+
+**Ezekiel 12:1**
+
+[TODO]
+
+**Ezekiel 12:2**
+
+[TODO]
+
+**Ezekiel 12:3**
+
+[TODO]
+
+**Ezekiel 12:4**
+
+[TODO]
+
+**Ezekiel 12:5**
+
+[TODO]
+
+**Ezekiel 12:6**
+
+[TODO]
+
+**Ezekiel 12:7**
+
+[TODO]
+
+**Ezekiel 12:8**
+
+[TODO]
+
+**Ezekiel 12:9**
+
+[TODO]
+
+**Ezekiel 12:10**
+
+[TODO]
+
+**Ezekiel 12:11**
+
+[TODO]
+
+**Ezekiel 12:12**
+
+[TODO]
+
+**Ezekiel 12:13**
+
+[TODO]
+
+**Ezekiel 12:14**
+
+[TODO]
+
+**Ezekiel 12:15**
+
+[TODO]
+
+**Ezekiel 12:16**
+
+[TODO]
+
+**Ezekiel 12:17**
+
+[TODO]
+
+**Ezekiel 12:18**
+
+[TODO]
+
+**Ezekiel 12:19**
+
+[TODO]
+
+**Ezekiel 12:20**
+
+[TODO]
+
+**Ezekiel 12:21**
+
+[TODO]
+
+**Ezekiel 12:22**
+
+[TODO]
+
+**Ezekiel 12:23**
+
+[TODO]
+
+**Ezekiel 12:24**
+
+[TODO]
+
+**Ezekiel 12:25**
+
+[TODO]
+
+**Ezekiel 12:26**
+
+[TODO]
+
+**Ezekiel 12:27**
+
+[TODO]
+
+**Ezekiel 12:28**
+
+[TODO]
+
+### Chapter 13
+
+**Ezekiel 13:1**
+
+[TODO]
+
+**Ezekiel 13:2**
+
+[TODO]
+
+**Ezekiel 13:3**
+
+[TODO]
+
+**Ezekiel 13:4**
+
+[TODO]
+
+**Ezekiel 13:5**
+
+[TODO]
+
+**Ezekiel 13:6**
+
+[TODO]
+
+**Ezekiel 13:7**
+
+[TODO]
+
+**Ezekiel 13:8**
+
+[TODO]
+
+**Ezekiel 13:9**
+
+[TODO]
+
+**Ezekiel 13:10**
+
+[TODO]
+
+**Ezekiel 13:11**
+
+[TODO]
+
+**Ezekiel 13:12**
+
+[TODO]
+
+**Ezekiel 13:13**
+
+[TODO]
+
+**Ezekiel 13:14**
+
+[TODO]
+
+**Ezekiel 13:15**
+
+[TODO]
+
+**Ezekiel 13:16**
+
+[TODO]
+
+**Ezekiel 13:17**
+
+[TODO]
+
+**Ezekiel 13:18**
+
+[TODO]
+
+**Ezekiel 13:19**
+
+[TODO]
+
+**Ezekiel 13:20**
+
+[TODO]
+
+**Ezekiel 13:21**
+
+[TODO]
+
+**Ezekiel 13:22**
+
+[TODO]
+
+**Ezekiel 13:23**
+
+[TODO]
+
+### Chapter 14
+
+**Ezekiel 14:1**
+
+[TODO]
+
+**Ezekiel 14:2**
+
+[TODO]
+
+**Ezekiel 14:3**
+
+[TODO]
+
+**Ezekiel 14:4**
+
+[TODO]
+
+**Ezekiel 14:5**
+
+[TODO]
+
+**Ezekiel 14:6**
+
+[TODO]
+
+**Ezekiel 14:7**
+
+[TODO]
+
+**Ezekiel 14:8**
+
+[TODO]
+
+**Ezekiel 14:9**
+
+[TODO]
+
+**Ezekiel 14:10**
+
+[TODO]
+
+**Ezekiel 14:11**
+
+[TODO]
+
+**Ezekiel 14:12**
+
+[TODO]
+
+**Ezekiel 14:13**
+
+[TODO]
+
+**Ezekiel 14:14**
+
+[TODO]
+
+**Ezekiel 14:15**
+
+[TODO]
+
+**Ezekiel 14:16**
+
+[TODO]
+
+**Ezekiel 14:17**
+
+[TODO]
+
+**Ezekiel 14:18**
+
+[TODO]
+
+**Ezekiel 14:19**
+
+[TODO]
+
+**Ezekiel 14:20**
+
+[TODO]
+
+**Ezekiel 14:21**
+
+[TODO]
+
+**Ezekiel 14:22**
+
+[TODO]
+
+**Ezekiel 14:23**
+
+[TODO]
+
+### Chapter 15
+
+**Ezekiel 15:1**
+
+[TODO]
+
+**Ezekiel 15:2**
+
+[TODO]
+
+**Ezekiel 15:3**
+
+[TODO]
+
+**Ezekiel 15:4**
+
+[TODO]
+
+**Ezekiel 15:5**
+
+[TODO]
+
+**Ezekiel 15:6**
+
+[TODO]
+
+**Ezekiel 15:7**
+
+[TODO]
+
+**Ezekiel 15:8**
+
+[TODO]
+
+### Chapter 16
+
+**Ezekiel 16:1**
+
+[TODO]
+
+**Ezekiel 16:2**
+
+[TODO]
+
+**Ezekiel 16:3**
+
+[TODO]
+
+**Ezekiel 16:4**
+
+[TODO]
+
+**Ezekiel 16:5**
+
+[TODO]
+
+**Ezekiel 16:6**
+
+[TODO]
+
+**Ezekiel 16:7**
+
+[TODO]
+
+**Ezekiel 16:8**
+
+[TODO]
+
+**Ezekiel 16:9**
+
+[TODO]
+
+**Ezekiel 16:10**
+
+[TODO]
+
+**Ezekiel 16:11**
+
+[TODO]
+
+**Ezekiel 16:12**
+
+[TODO]
+
+**Ezekiel 16:13**
+
+[TODO]
+
+**Ezekiel 16:14**
+
+[TODO]
+
+**Ezekiel 16:15**
+
+[TODO]
+
+**Ezekiel 16:16**
+
+[TODO]
+
+**Ezekiel 16:17**
+
+[TODO]
+
+**Ezekiel 16:18**
+
+[TODO]
+
+**Ezekiel 16:19**
+
+[TODO]
+
+**Ezekiel 16:20**
+
+[TODO]
+
+**Ezekiel 16:21**
+
+[TODO]
+
+**Ezekiel 16:22**
+
+[TODO]
+
+**Ezekiel 16:23**
+
+[TODO]
+
+**Ezekiel 16:24**
+
+[TODO]
+
+**Ezekiel 16:25**
+
+[TODO]
+
+**Ezekiel 16:26**
+
+[TODO]
+
+**Ezekiel 16:27**
+
+[TODO]
+
+**Ezekiel 16:28**
+
+[TODO]
+
+**Ezekiel 16:29**
+
+[TODO]
+
+**Ezekiel 16:30**
+
+[TODO]
+
+**Ezekiel 16:31**
+
+[TODO]
+
+**Ezekiel 16:32**
+
+[TODO]
+
+**Ezekiel 16:33**
+
+[TODO]
+
+**Ezekiel 16:34**
+
+[TODO]
+
+**Ezekiel 16:35**
+
+[TODO]
+
+**Ezekiel 16:36**
+
+[TODO]
+
+**Ezekiel 16:37**
+
+[TODO]
+
+**Ezekiel 16:38**
+
+[TODO]
+
+**Ezekiel 16:39**
+
+[TODO]
+
+**Ezekiel 16:40**
+
+[TODO]
+
+**Ezekiel 16:41**
+
+[TODO]
+
+**Ezekiel 16:42**
+
+[TODO]
+
+**Ezekiel 16:43**
+
+[TODO]
+
+**Ezekiel 16:44**
+
+[TODO]
+
+**Ezekiel 16:45**
+
+[TODO]
+
+**Ezekiel 16:46**
+
+[TODO]
+
+**Ezekiel 16:47**
+
+[TODO]
+
+**Ezekiel 16:48**
+
+[TODO]
+
+**Ezekiel 16:49**
+
+[TODO]
+
+**Ezekiel 16:50**
+
+[TODO]
+
+**Ezekiel 16:51**
+
+[TODO]
+
+**Ezekiel 16:52**
+
+[TODO]
+
+**Ezekiel 16:53**
+
+[TODO]
+
+**Ezekiel 16:54**
+
+[TODO]
+
+**Ezekiel 16:55**
+
+[TODO]
+
+**Ezekiel 16:56**
+
+[TODO]
+
+**Ezekiel 16:57**
+
+[TODO]
+
+**Ezekiel 16:58**
+
+[TODO]
+
+**Ezekiel 16:59**
+
+[TODO]
+
+**Ezekiel 16:60**
+
+[TODO]
+
+**Ezekiel 16:61**
+
+[TODO]
+
+**Ezekiel 16:62**
+
+[TODO]
+
+**Ezekiel 16:63**
+
+[TODO]
+
+### Chapter 17
+
+**Ezekiel 17:1**
+
+[TODO]
+
+**Ezekiel 17:2**
+
+[TODO]
+
+**Ezekiel 17:3**
+
+[TODO]
+
+**Ezekiel 17:4**
+
+[TODO]
+
+**Ezekiel 17:5**
+
+[TODO]
+
+**Ezekiel 17:6**
+
+[TODO]
+
+**Ezekiel 17:7**
+
+[TODO]
+
+**Ezekiel 17:8**
+
+[TODO]
+
+**Ezekiel 17:9**
+
+[TODO]
+
+**Ezekiel 17:10**
+
+[TODO]
+
+**Ezekiel 17:11**
+
+[TODO]
+
+**Ezekiel 17:12**
+
+[TODO]
+
+**Ezekiel 17:13**
+
+[TODO]
+
+**Ezekiel 17:14**
+
+[TODO]
+
+**Ezekiel 17:15**
+
+[TODO]
+
+**Ezekiel 17:16**
+
+[TODO]
+
+**Ezekiel 17:17**
+
+[TODO]
+
+**Ezekiel 17:18**
+
+[TODO]
+
+**Ezekiel 17:19**
+
+[TODO]
+
+**Ezekiel 17:20**
+
+[TODO]
+
+**Ezekiel 17:21**
+
+[TODO]
+
+**Ezekiel 17:22**
+
+[TODO]
+
+**Ezekiel 17:23**
+
+[TODO]
+
+**Ezekiel 17:24**
+
+[TODO]
+
+### Chapter 18
+
+**Ezekiel 18:1**
+
+[TODO]
+
+**Ezekiel 18:2**
+
+[TODO]
+
+**Ezekiel 18:3**
+
+[TODO]
+
+**Ezekiel 18:4**
+
+[TODO]
+
+**Ezekiel 18:5**
+
+[TODO]
+
+**Ezekiel 18:6**
+
+[TODO]
+
+**Ezekiel 18:7**
+
+[TODO]
+
+**Ezekiel 18:8**
+
+[TODO]
+
+**Ezekiel 18:9**
+
+[TODO]
+
+**Ezekiel 18:10**
+
+[TODO]
+
+**Ezekiel 18:11**
+
+[TODO]
+
+**Ezekiel 18:12**
+
+[TODO]
+
+**Ezekiel 18:13**
+
+[TODO]
+
+**Ezekiel 18:14**
+
+[TODO]
+
+**Ezekiel 18:15**
+
+[TODO]
+
+**Ezekiel 18:16**
+
+[TODO]
+
+**Ezekiel 18:17**
+
+[TODO]
+
+**Ezekiel 18:18**
+
+[TODO]
+
+**Ezekiel 18:19**
+
+[TODO]
+
+**Ezekiel 18:20**
+
+[TODO]
+
+**Ezekiel 18:21**
+
+[TODO]
+
+**Ezekiel 18:22**
+
+[TODO]
+
+**Ezekiel 18:23**
+
+[TODO]
+
+**Ezekiel 18:24**
+
+[TODO]
+
+**Ezekiel 18:25**
+
+[TODO]
+
+**Ezekiel 18:26**
+
+[TODO]
+
+**Ezekiel 18:27**
+
+[TODO]
+
+**Ezekiel 18:28**
+
+[TODO]
+
+**Ezekiel 18:29**
+
+[TODO]
+
+**Ezekiel 18:30**
+
+[TODO]
+
+**Ezekiel 18:31**
+
+[TODO]
+
+**Ezekiel 18:32**
+
+[TODO]
+
+### Chapter 19
+
+**Ezekiel 19:1**
+
+[TODO]
+
+**Ezekiel 19:2**
+
+[TODO]
+
+**Ezekiel 19:3**
+
+[TODO]
+
+**Ezekiel 19:4**
+
+[TODO]
+
+**Ezekiel 19:5**
+
+[TODO]
+
+**Ezekiel 19:6**
+
+[TODO]
+
+**Ezekiel 19:7**
+
+[TODO]
+
+**Ezekiel 19:8**
+
+[TODO]
+
+**Ezekiel 19:9**
+
+[TODO]
+
+**Ezekiel 19:10**
+
+[TODO]
+
+**Ezekiel 19:11**
+
+[TODO]
+
+**Ezekiel 19:12**
+
+[TODO]
+
+**Ezekiel 19:13**
+
+[TODO]
+
+**Ezekiel 19:14**
+
+[TODO]
+
+### Chapter 20
+
+**Ezekiel 20:1**
+
+[TODO]
+
+**Ezekiel 20:2**
+
+[TODO]
+
+**Ezekiel 20:3**
+
+[TODO]
+
+**Ezekiel 20:4**
+
+[TODO]
+
+**Ezekiel 20:5**
+
+[TODO]
+
+**Ezekiel 20:6**
+
+[TODO]
+
+**Ezekiel 20:7**
+
+[TODO]
+
+**Ezekiel 20:8**
+
+[TODO]
+
+**Ezekiel 20:9**
+
+[TODO]
+
+**Ezekiel 20:10**
+
+[TODO]
+
+**Ezekiel 20:11**
+
+[TODO]
+
+**Ezekiel 20:12**
+
+[TODO]
+
+**Ezekiel 20:13**
+
+[TODO]
+
+**Ezekiel 20:14**
+
+[TODO]
+
+**Ezekiel 20:15**
+
+[TODO]
+
+**Ezekiel 20:16**
+
+[TODO]
+
+**Ezekiel 20:17**
+
+[TODO]
+
+**Ezekiel 20:18**
+
+[TODO]
+
+**Ezekiel 20:19**
+
+[TODO]
+
+**Ezekiel 20:20**
+
+[TODO]
+
+**Ezekiel 20:21**
+
+[TODO]
+
+**Ezekiel 20:22**
+
+[TODO]
+
+**Ezekiel 20:23**
+
+[TODO]
+
+**Ezekiel 20:24**
+
+[TODO]
+
+**Ezekiel 20:25**
+
+[TODO]
+
+**Ezekiel 20:26**
+
+[TODO]
+
+**Ezekiel 20:27**
+
+[TODO]
+
+**Ezekiel 20:28**
+
+[TODO]
+
+**Ezekiel 20:29**
+
+[TODO]
+
+**Ezekiel 20:30**
+
+[TODO]
+
+**Ezekiel 20:31**
+
+[TODO]
+
+**Ezekiel 20:32**
+
+[TODO]
+
+**Ezekiel 20:33**
+
+[TODO]
+
+**Ezekiel 20:34**
+
+[TODO]
+
+**Ezekiel 20:35**
+
+[TODO]
+
+**Ezekiel 20:36**
+
+[TODO]
+
+**Ezekiel 20:37**
+
+[TODO]
+
+**Ezekiel 20:38**
+
+[TODO]
+
+**Ezekiel 20:39**
+
+[TODO]
+
+**Ezekiel 20:40**
+
+[TODO]
+
+**Ezekiel 20:41**
+
+[TODO]
+
+**Ezekiel 20:42**
+
+[TODO]
+
+**Ezekiel 20:43**
+
+[TODO]
+
+**Ezekiel 20:44**
+
+[TODO]
+
+### Chapter 21
+
+**Ezekiel 21:1**
+
+[TODO]
+
+**Ezekiel 21:2**
+
+[TODO]
+
+**Ezekiel 21:3**
+
+[TODO]
+
+**Ezekiel 21:4**
+
+[TODO]
+
+**Ezekiel 21:5**
+
+[TODO]
+
+**Ezekiel 21:6**
+
+[TODO]
+
+**Ezekiel 21:7**
+
+[TODO]
+
+**Ezekiel 21:8**
+
+[TODO]
+
+**Ezekiel 21:9**
+
+[TODO]
+
+**Ezekiel 21:10**
+
+[TODO]
+
+**Ezekiel 21:11**
+
+[TODO]
+
+**Ezekiel 21:12**
+
+[TODO]
+
+**Ezekiel 21:13**
+
+[TODO]
+
+**Ezekiel 21:14**
+
+[TODO]
+
+**Ezekiel 21:15**
+
+[TODO]
+
+**Ezekiel 21:16**
+
+[TODO]
+
+**Ezekiel 21:17**
+
+[TODO]
+
+**Ezekiel 21:18**
+
+[TODO]
+
+**Ezekiel 21:19**
+
+[TODO]
+
+**Ezekiel 21:20**
+
+[TODO]
+
+**Ezekiel 21:21**
+
+[TODO]
+
+**Ezekiel 21:22**
+
+[TODO]
+
+**Ezekiel 21:23**
+
+[TODO]
+
+**Ezekiel 21:24**
+
+[TODO]
+
+**Ezekiel 21:25**
+
+[TODO]
+
+**Ezekiel 21:26**
+
+[TODO]
+
+**Ezekiel 21:27**
+
+[TODO]
+
+**Ezekiel 21:28**
+
+[TODO]
+
+**Ezekiel 21:29**
+
+[TODO]
+
+**Ezekiel 21:30**
+
+[TODO]
+
+**Ezekiel 21:31**
+
+[TODO]
+
+**Ezekiel 21:32**
+
+[TODO]
+
+**Ezekiel 21:33**
+
+[TODO]
+
+**Ezekiel 21:34**
+
+[TODO]
+
+**Ezekiel 21:35**
+
+[TODO]
+
+**Ezekiel 21:36**
+
+[TODO]
+
+**Ezekiel 21:37**
+
+[TODO]
+
+### Chapter 22
+
+**Ezekiel 22:1**
+
+[TODO]
+
+**Ezekiel 22:2**
+
+[TODO]
+
+**Ezekiel 22:3**
+
+[TODO]
+
+**Ezekiel 22:4**
+
+[TODO]
+
+**Ezekiel 22:5**
+
+[TODO]
+
+**Ezekiel 22:6**
+
+[TODO]
+
+**Ezekiel 22:7**
+
+[TODO]
+
+**Ezekiel 22:8**
+
+[TODO]
+
+**Ezekiel 22:9**
+
+[TODO]
+
+**Ezekiel 22:10**
+
+[TODO]
+
+**Ezekiel 22:11**
+
+[TODO]
+
+**Ezekiel 22:12**
+
+[TODO]
+
+**Ezekiel 22:13**
+
+[TODO]
+
+**Ezekiel 22:14**
+
+[TODO]
+
+**Ezekiel 22:15**
+
+[TODO]
+
+**Ezekiel 22:16**
+
+[TODO]
+
+**Ezekiel 22:17**
+
+[TODO]
+
+**Ezekiel 22:18**
+
+[TODO]
+
+**Ezekiel 22:19**
+
+[TODO]
+
+**Ezekiel 22:20**
+
+[TODO]
+
+**Ezekiel 22:21**
+
+[TODO]
+
+**Ezekiel 22:22**
+
+[TODO]
+
+**Ezekiel 22:23**
+
+[TODO]
+
+**Ezekiel 22:24**
+
+[TODO]
+
+**Ezekiel 22:25**
+
+[TODO]
+
+**Ezekiel 22:26**
+
+[TODO]
+
+**Ezekiel 22:27**
+
+[TODO]
+
+**Ezekiel 22:28**
+
+[TODO]
+
+**Ezekiel 22:29**
+
+[TODO]
+
+**Ezekiel 22:30**
+
+[TODO]
+
+**Ezekiel 22:31**
+
+[TODO]
+
+### Chapter 23
+
+**Ezekiel 23:1**
+
+[TODO]
+
+**Ezekiel 23:2**
+
+[TODO]
+
+**Ezekiel 23:3**
+
+[TODO]
+
+**Ezekiel 23:4**
+
+[TODO]
+
+**Ezekiel 23:5**
+
+[TODO]
+
+**Ezekiel 23:6**
+
+[TODO]
+
+**Ezekiel 23:7**
+
+[TODO]
+
+**Ezekiel 23:8**
+
+[TODO]
+
+**Ezekiel 23:9**
+
+[TODO]
+
+**Ezekiel 23:10**
+
+[TODO]
+
+**Ezekiel 23:11**
+
+[TODO]
+
+**Ezekiel 23:12**
+
+[TODO]
+
+**Ezekiel 23:13**
+
+[TODO]
+
+**Ezekiel 23:14**
+
+[TODO]
+
+**Ezekiel 23:15**
+
+[TODO]
+
+**Ezekiel 23:16**
+
+[TODO]
+
+**Ezekiel 23:17**
+
+[TODO]
+
+**Ezekiel 23:18**
+
+[TODO]
+
+**Ezekiel 23:19**
+
+[TODO]
+
+**Ezekiel 23:20**
+
+[TODO]
+
+**Ezekiel 23:21**
+
+[TODO]
+
+**Ezekiel 23:22**
+
+[TODO]
+
+**Ezekiel 23:23**
+
+[TODO]
+
+**Ezekiel 23:24**
+
+[TODO]
+
+**Ezekiel 23:25**
+
+[TODO]
+
+**Ezekiel 23:26**
+
+[TODO]
+
+**Ezekiel 23:27**
+
+[TODO]
+
+**Ezekiel 23:28**
+
+[TODO]
+
+**Ezekiel 23:29**
+
+[TODO]
+
+**Ezekiel 23:30**
+
+[TODO]
+
+**Ezekiel 23:31**
+
+[TODO]
+
+**Ezekiel 23:32**
+
+[TODO]
+
+**Ezekiel 23:33**
+
+[TODO]
+
+**Ezekiel 23:34**
+
+[TODO]
+
+**Ezekiel 23:35**
+
+[TODO]
+
+**Ezekiel 23:36**
+
+[TODO]
+
+**Ezekiel 23:37**
+
+[TODO]
+
+**Ezekiel 23:38**
+
+[TODO]
+
+**Ezekiel 23:39**
+
+[TODO]
+
+**Ezekiel 23:40**
+
+[TODO]
+
+**Ezekiel 23:41**
+
+[TODO]
+
+**Ezekiel 23:42**
+
+[TODO]
+
+**Ezekiel 23:43**
+
+[TODO]
+
+**Ezekiel 23:44**
+
+[TODO]
+
+**Ezekiel 23:45**
+
+[TODO]
+
+**Ezekiel 23:46**
+
+[TODO]
+
+**Ezekiel 23:47**
+
+[TODO]
+
+**Ezekiel 23:48**
+
+[TODO]
+
+**Ezekiel 23:49**
+
+[TODO]
+
+### Chapter 24
+
+**Ezekiel 24:1**
+
+[TODO]
+
+**Ezekiel 24:2**
+
+[TODO]
+
+**Ezekiel 24:3**
+
+[TODO]
+
+**Ezekiel 24:4**
+
+[TODO]
+
+**Ezekiel 24:5**
+
+[TODO]
+
+**Ezekiel 24:6**
+
+[TODO]
+
+**Ezekiel 24:7**
+
+[TODO]
+
+**Ezekiel 24:8**
+
+[TODO]
+
+**Ezekiel 24:9**
+
+[TODO]
+
+**Ezekiel 24:10**
+
+[TODO]
+
+**Ezekiel 24:11**
+
+[TODO]
+
+**Ezekiel 24:12**
+
+[TODO]
+
+**Ezekiel 24:13**
+
+[TODO]
+
+**Ezekiel 24:14**
+
+[TODO]
+
+**Ezekiel 24:15**
+
+[TODO]
+
+**Ezekiel 24:16**
+
+[TODO]
+
+**Ezekiel 24:17**
+
+[TODO]
+
+**Ezekiel 24:18**
+
+[TODO]
+
+**Ezekiel 24:19**
+
+[TODO]
+
+**Ezekiel 24:20**
+
+[TODO]
+
+**Ezekiel 24:21**
+
+[TODO]
+
+**Ezekiel 24:22**
+
+[TODO]
+
+**Ezekiel 24:23**
+
+[TODO]
+
+**Ezekiel 24:24**
+
+[TODO]
+
+**Ezekiel 24:25**
+
+[TODO]
+
+**Ezekiel 24:26**
+
+[TODO]
+
+**Ezekiel 24:27**
+
+[TODO]
+
+### Chapter 25
+
+**Ezekiel 25:1**
+
+[TODO]
+
+**Ezekiel 25:2**
+
+[TODO]
+
+**Ezekiel 25:3**
+
+[TODO]
+
+**Ezekiel 25:4**
+
+[TODO]
+
+**Ezekiel 25:5**
+
+[TODO]
+
+**Ezekiel 25:6**
+
+[TODO]
+
+**Ezekiel 25:7**
+
+[TODO]
+
+**Ezekiel 25:8**
+
+[TODO]
+
+**Ezekiel 25:9**
+
+[TODO]
+
+**Ezekiel 25:10**
+
+[TODO]
+
+**Ezekiel 25:11**
+
+[TODO]
+
+**Ezekiel 25:12**
+
+[TODO]
+
+**Ezekiel 25:13**
+
+[TODO]
+
+**Ezekiel 25:14**
+
+[TODO]
+
+**Ezekiel 25:15**
+
+[TODO]
+
+**Ezekiel 25:16**
+
+[TODO]
+
+**Ezekiel 25:17**
+
+[TODO]
+
+### Chapter 26
+
+**Ezekiel 26:1**
+
+[TODO]
+
+**Ezekiel 26:2**
+
+[TODO]
+
+**Ezekiel 26:3**
+
+[TODO]
+
+**Ezekiel 26:4**
+
+[TODO]
+
+**Ezekiel 26:5**
+
+[TODO]
+
+**Ezekiel 26:6**
+
+[TODO]
+
+**Ezekiel 26:7**
+
+[TODO]
+
+**Ezekiel 26:8**
+
+[TODO]
+
+**Ezekiel 26:9**
+
+[TODO]
+
+**Ezekiel 26:10**
+
+[TODO]
+
+**Ezekiel 26:11**
+
+[TODO]
+
+**Ezekiel 26:12**
+
+[TODO]
+
+**Ezekiel 26:13**
+
+[TODO]
+
+**Ezekiel 26:14**
+
+[TODO]
+
+**Ezekiel 26:15**
+
+[TODO]
+
+**Ezekiel 26:16**
+
+[TODO]
+
+**Ezekiel 26:17**
+
+[TODO]
+
+**Ezekiel 26:18**
+
+[TODO]
+
+**Ezekiel 26:19**
+
+[TODO]
+
+**Ezekiel 26:20**
+
+[TODO]
+
+**Ezekiel 26:21**
+
+[TODO]
+
+### Chapter 27
+
+**Ezekiel 27:1**
+
+[TODO]
+
+**Ezekiel 27:2**
+
+[TODO]
+
+**Ezekiel 27:3**
+
+[TODO]
+
+**Ezekiel 27:4**
+
+[TODO]
+
+**Ezekiel 27:5**
+
+[TODO]
+
+**Ezekiel 27:6**
+
+[TODO]
+
+**Ezekiel 27:7**
+
+[TODO]
+
+**Ezekiel 27:8**
+
+[TODO]
+
+**Ezekiel 27:9**
+
+[TODO]
+
+**Ezekiel 27:10**
+
+[TODO]
+
+**Ezekiel 27:11**
+
+[TODO]
+
+**Ezekiel 27:12**
+
+[TODO]
+
+**Ezekiel 27:13**
+
+[TODO]
+
+**Ezekiel 27:14**
+
+[TODO]
+
+**Ezekiel 27:15**
+
+[TODO]
+
+**Ezekiel 27:16**
+
+[TODO]
+
+**Ezekiel 27:17**
+
+[TODO]
+
+**Ezekiel 27:18**
+
+[TODO]
+
+**Ezekiel 27:19**
+
+[TODO]
+
+**Ezekiel 27:20**
+
+[TODO]
+
+**Ezekiel 27:21**
+
+[TODO]
+
+**Ezekiel 27:22**
+
+[TODO]
+
+**Ezekiel 27:23**
+
+[TODO]
+
+**Ezekiel 27:24**
+
+[TODO]
+
+**Ezekiel 27:25**
+
+[TODO]
+
+**Ezekiel 27:26**
+
+[TODO]
+
+**Ezekiel 27:27**
+
+[TODO]
+
+**Ezekiel 27:28**
+
+[TODO]
+
+**Ezekiel 27:29**
+
+[TODO]
+
+**Ezekiel 27:30**
+
+[TODO]
+
+**Ezekiel 27:32**
+
+[TODO]
+
+**Ezekiel 27:33**
+
+[TODO]
+
+**Ezekiel 27:34**
+
+[TODO]
+
+**Ezekiel 27:35**
+
+[TODO]
+
+**Ezekiel 27:36**
+
+[TODO]
+
+### Chapter 28
+
+**Ezekiel 28:1**
+
+[TODO]
+
+**Ezekiel 28:2**
+
+[TODO]
+
+**Ezekiel 28:3**
+
+[TODO]
+
+**Ezekiel 28:4**
+
+[TODO]
+
+**Ezekiel 28:5**
+
+[TODO]
+
+**Ezekiel 28:6**
+
+[TODO]
+
+**Ezekiel 28:7**
+
+[TODO]
+
+**Ezekiel 28:8**
+
+[TODO]
+
+**Ezekiel 28:9**
+
+[TODO]
+
+**Ezekiel 28:10**
+
+[TODO]
+
+**Ezekiel 28:11**
+
+[TODO]
+
+**Ezekiel 28:12**
+
+[TODO]
+
+**Ezekiel 28:13**
+
+[TODO]
+
+**Ezekiel 28:14**
+
+[TODO]
+
+**Ezekiel 28:15**
+
+[TODO]
+
+**Ezekiel 28:16**
+
+[TODO]
+
+**Ezekiel 28:17**
+
+[TODO]
+
+**Ezekiel 28:18**
+
+[TODO]
+
+**Ezekiel 28:19**
+
+[TODO]
+
+**Ezekiel 28:20**
+
+[TODO]
+
+**Ezekiel 28:21**
+
+[TODO]
+
+**Ezekiel 28:22**
+
+[TODO]
+
+**Ezekiel 28:23**
+
+[TODO]
+
+**Ezekiel 28:24**
+
+[TODO]
+
+**Ezekiel 28:25**
+
+[TODO]
+
+**Ezekiel 28:26**
+
+[TODO]
+
+### Chapter 29
+
+**Ezekiel 29:1**
+
+[TODO]
+
+**Ezekiel 29:2**
+
+[TODO]
+
+**Ezekiel 29:3**
+
+[TODO]
+
+**Ezekiel 29:4**
+
+[TODO]
+
+**Ezekiel 29:5**
+
+[TODO]
+
+**Ezekiel 29:6**
+
+[TODO]
+
+**Ezekiel 29:7**
+
+[TODO]
+
+**Ezekiel 29:8**
+
+[TODO]
+
+**Ezekiel 29:9**
+
+[TODO]
+
+**Ezekiel 29:10**
+
+[TODO]
+
+**Ezekiel 29:11**
+
+[TODO]
+
+**Ezekiel 29:12**
+
+[TODO]
+
+**Ezekiel 29:13**
+
+[TODO]
+
+**Ezekiel 29:14**
+
+[TODO]
+
+**Ezekiel 29:15**
+
+[TODO]
+
+**Ezekiel 29:16**
+
+[TODO]
+
+**Ezekiel 29:17**
+
+[TODO]
+
+**Ezekiel 29:18**
+
+[TODO]
+
+**Ezekiel 29:19**
+
+[TODO]
+
+**Ezekiel 29:20**
+
+[TODO]
+
+**Ezekiel 29:21**
+
+[TODO]
+
+### Chapter 30
+
+**Ezekiel 30:1**
+
+[TODO]
+
+**Ezekiel 30:2**
+
+[TODO]
+
+**Ezekiel 30:3**
+
+[TODO]
+
+**Ezekiel 30:4**
+
+[TODO]
+
+**Ezekiel 30:5**
+
+[TODO]
+
+**Ezekiel 30:6**
+
+[TODO]
+
+**Ezekiel 30:7**
+
+[TODO]
+
+**Ezekiel 30:8**
+
+[TODO]
+
+**Ezekiel 30:9**
+
+[TODO]
+
+**Ezekiel 30:10**
+
+[TODO]
+
+**Ezekiel 30:11**
+
+[TODO]
+
+**Ezekiel 30:12**
+
+[TODO]
+
+**Ezekiel 30:13**
+
+[TODO]
+
+**Ezekiel 30:14**
+
+[TODO]
+
+**Ezekiel 30:15**
+
+[TODO]
+
+**Ezekiel 30:16**
+
+[TODO]
+
+**Ezekiel 30:17**
+
+[TODO]
+
+**Ezekiel 30:18**
+
+[TODO]
+
+**Ezekiel 30:19**
+
+[TODO]
+
+**Ezekiel 30:20**
+
+[TODO]
+
+**Ezekiel 30:21**
+
+[TODO]
+
+**Ezekiel 30:22**
+
+[TODO]
+
+**Ezekiel 30:23**
+
+[TODO]
+
+**Ezekiel 30:24**
+
+[TODO]
+
+**Ezekiel 30:25**
+
+[TODO]
+
+**Ezekiel 30:26**
+
+[TODO]
+
+### Chapter 31
+
+**Ezekiel 31:1**
+
+[TODO]
+
+**Ezekiel 31:2**
+
+[TODO]
+
+**Ezekiel 31:3**
+
+[TODO]
+
+**Ezekiel 31:4**
+
+[TODO]
+
+**Ezekiel 31:5**
+
+[TODO]
+
+**Ezekiel 31:6**
+
+[TODO]
+
+**Ezekiel 31:7**
+
+[TODO]
+
+**Ezekiel 31:8**
+
+[TODO]
+
+**Ezekiel 31:9**
+
+[TODO]
+
+**Ezekiel 31:10**
+
+[TODO]
+
+**Ezekiel 31:11**
+
+[TODO]
+
+**Ezekiel 31:12**
+
+[TODO]
+
+**Ezekiel 31:13**
+
+[TODO]
+
+**Ezekiel 31:14**
+
+[TODO]
+
+**Ezekiel 31:15**
+
+[TODO]
+
+**Ezekiel 31:16**
+
+[TODO]
+
+**Ezekiel 31:17**
+
+[TODO]
+
+**Ezekiel 31:18**
+
+[TODO]
+
+### Chapter 32
+
+**Ezekiel 32:1**
+
+[TODO]
+
+**Ezekiel 32:2**
+
+[TODO]
+
+**Ezekiel 32:3**
+
+[TODO]
+
+**Ezekiel 32:4**
+
+[TODO]
+
+**Ezekiel 32:5**
+
+[TODO]
+
+**Ezekiel 32:6**
+
+[TODO]
+
+**Ezekiel 32:7**
+
+[TODO]
+
+**Ezekiel 32:8**
+
+[TODO]
+
+**Ezekiel 32:9**
+
+[TODO]
+
+**Ezekiel 32:10**
+
+[TODO]
+
+**Ezekiel 32:11**
+
+[TODO]
+
+**Ezekiel 32:12**
+
+[TODO]
+
+**Ezekiel 32:13**
+
+[TODO]
+
+**Ezekiel 32:14**
+
+[TODO]
+
+**Ezekiel 32:15**
+
+[TODO]
+
+**Ezekiel 32:16**
+
+[TODO]
+
+**Ezekiel 32:17**
+
+[TODO]
+
+**Ezekiel 32:18**
+
+[TODO]
+
+**Ezekiel 32:20**
+
+[TODO]
+
+**Ezekiel 32:21**
+
+[TODO]
+
+**Ezekiel 32:22**
+
+[TODO]
+
+**Ezekiel 32:23**
+
+[TODO]
+
+**Ezekiel 32:24**
+
+[TODO]
+
+**Ezekiel 32:25**
+
+[TODO]
+
+**Ezekiel 32:26**
+
+[TODO]
+
+**Ezekiel 32:27**
+
+[TODO]
+
+**Ezekiel 32:28**
+
+[TODO]
+
+**Ezekiel 32:29**
+
+[TODO]
+
+**Ezekiel 32:30**
+
+[TODO]
+
+**Ezekiel 32:31**
+
+[TODO]
+
+**Ezekiel 32:32**
+
+[TODO]
+
+### Chapter 33
+
+**Ezekiel 33:1**
+
+[TODO]
+
+**Ezekiel 33:2**
+
+[TODO]
+
+**Ezekiel 33:3**
+
+[TODO]
+
+**Ezekiel 33:4**
+
+[TODO]
+
+**Ezekiel 33:5**
+
+[TODO]
+
+**Ezekiel 33:6**
+
+[TODO]
+
+**Ezekiel 33:7**
+
+[TODO]
+
+**Ezekiel 33:8**
+
+[TODO]
+
+**Ezekiel 33:9**
+
+[TODO]
+
+**Ezekiel 33:10**
+
+[TODO]
+
+**Ezekiel 33:11**
+
+[TODO]
+
+**Ezekiel 33:12**
+
+[TODO]
+
+**Ezekiel 33:13**
+
+[TODO]
+
+**Ezekiel 33:14**
+
+[TODO]
+
+**Ezekiel 33:15**
+
+[TODO]
+
+**Ezekiel 33:16**
+
+[TODO]
+
+**Ezekiel 33:17**
+
+[TODO]
+
+**Ezekiel 33:18**
+
+[TODO]
+
+**Ezekiel 33:19**
+
+[TODO]
+
+**Ezekiel 33:20**
+
+[TODO]
+
+**Ezekiel 33:21**
+
+[TODO]
+
+**Ezekiel 33:22**
+
+[TODO]
+
+**Ezekiel 33:23**
+
+[TODO]
+
+**Ezekiel 33:24**
+
+[TODO]
+
+**Ezekiel 33:25**
+
+[TODO]
+
+**Ezekiel 33:27**
+
+[TODO]
+
+**Ezekiel 33:28**
+
+[TODO]
+
+**Ezekiel 33:29**
+
+[TODO]
+
+**Ezekiel 33:30**
+
+[TODO]
+
+**Ezekiel 33:31**
+
+[TODO]
+
+**Ezekiel 33:32**
+
+[TODO]
+
+**Ezekiel 33:33**
+
+[TODO]
+
+### Chapter 34
+
+**Ezekiel 34:1**
+
+[TODO]
+
+**Ezekiel 34:2**
+
+[TODO]
+
+**Ezekiel 34:3**
+
+[TODO]
+
+**Ezekiel 34:4**
+
+[TODO]
+
+**Ezekiel 34:5**
+
+[TODO]
+
+**Ezekiel 34:6**
+
+[TODO]
+
+**Ezekiel 34:7**
+
+[TODO]
+
+**Ezekiel 34:8**
+
+[TODO]
+
+**Ezekiel 34:9**
+
+[TODO]
+
+**Ezekiel 34:10**
+
+[TODO]
+
+**Ezekiel 34:11**
+
+[TODO]
+
+**Ezekiel 34:12**
+
+[TODO]
+
+**Ezekiel 34:13**
+
+[TODO]
+
+**Ezekiel 34:14**
+
+[TODO]
+
+**Ezekiel 34:15**
+
+[TODO]
+
+**Ezekiel 34:16**
+
+[TODO]
+
+**Ezekiel 34:17**
+
+[TODO]
+
+**Ezekiel 34:18**
+
+[TODO]
+
+**Ezekiel 34:19**
+
+[TODO]
+
+**Ezekiel 34:20**
+
+[TODO]
+
+**Ezekiel 34:21**
+
+[TODO]
+
+**Ezekiel 34:22**
+
+[TODO]
+
+**Ezekiel 34:23**
+
+[TODO]
+
+**Ezekiel 34:24**
+
+[TODO]
+
+**Ezekiel 34:25**
+
+[TODO]
+
+**Ezekiel 34:26**
+
+[TODO]
+
+**Ezekiel 34:27**
+
+[TODO]
+
+**Ezekiel 34:28**
+
+[TODO]
+
+**Ezekiel 34:29**
+
+[TODO]
+
+**Ezekiel 34:30**
+
+[TODO]
+
+**Ezekiel 34:31**
+
+[TODO]
+
+### Chapter 35
+
+**Ezekiel 35:1**
+
+[TODO]
+
+**Ezekiel 35:2**
+
+[TODO]
+
+**Ezekiel 35:3**
+
+[TODO]
+
+**Ezekiel 35:4**
+
+[TODO]
+
+**Ezekiel 35:5**
+
+[TODO]
+
+**Ezekiel 35:6**
+
+[TODO]
+
+**Ezekiel 35:7**
+
+[TODO]
+
+**Ezekiel 35:8**
+
+[TODO]
+
+**Ezekiel 35:9**
+
+[TODO]
+
+**Ezekiel 35:10**
+
+[TODO]
+
+**Ezekiel 35:11**
+
+[TODO]
+
+**Ezekiel 35:12**
+
+[TODO]
+
+**Ezekiel 35:13**
+
+[TODO]
+
+**Ezekiel 35:14**
+
+[TODO]
+
+**Ezekiel 35:15**
+
+[TODO]
+
+### Chapter 36
+
+**Ezekiel 36:1**
+
+[TODO]
+
+**Ezekiel 36:2**
+
+[TODO]
+
+**Ezekiel 36:3**
+
+[TODO]
+
+**Ezekiel 36:4**
+
+[TODO]
+
+**Ezekiel 36:5**
+
+[TODO]
+
+**Ezekiel 36:6**
+
+[TODO]
+
+**Ezekiel 36:7**
+
+[TODO]
+
+**Ezekiel 36:8**
+
+[TODO]
+
+**Ezekiel 36:9**
+
+[TODO]
+
+**Ezekiel 36:10**
+
+[TODO]
+
+**Ezekiel 36:11**
+
+[TODO]
+
+**Ezekiel 36:12**
+
+[TODO]
+
+**Ezekiel 36:13**
+
+[TODO]
+
+**Ezekiel 36:14**
+
+[TODO]
+
+**Ezekiel 36:15**
+
+[TODO]
+
+**Ezekiel 36:16**
+
+[TODO]
+
+**Ezekiel 36:17**
+
+[TODO]
+
+**Ezekiel 36:18**
+
+[TODO]
+
+**Ezekiel 36:19**
+
+[TODO]
+
+**Ezekiel 36:20**
+
+[TODO]
+
+**Ezekiel 36:21**
+
+[TODO]
+
+**Ezekiel 36:22**
+
+[TODO]
+
+**Ezekiel 36:23**
+
+[TODO]
+
+**Ezekiel 36:24**
+
+[TODO]
+
+**Ezekiel 36:25**
+
+[TODO]
+
+**Ezekiel 36:26**
+
+[TODO]
+
+**Ezekiel 36:27**
+
+[TODO]
+
+**Ezekiel 36:28**
+
+[TODO]
+
+**Ezekiel 36:29**
+
+[TODO]
+
+**Ezekiel 36:30**
+
+[TODO]
+
+**Ezekiel 36:31**
+
+[TODO]
+
+**Ezekiel 36:32**
+
+[TODO]
+
+**Ezekiel 36:33**
+
+[TODO]
+
+**Ezekiel 36:34**
+
+[TODO]
+
+**Ezekiel 36:35**
+
+[TODO]
+
+**Ezekiel 36:36**
+
+[TODO]
+
+**Ezekiel 36:37**
+
+[TODO]
+
+**Ezekiel 36:38**
+
+[TODO]
+
+### Chapter 37
+
+**Ezekiel 37:1**
+
+[TODO]
+
+**Ezekiel 37:2**
+
+[TODO]
+
+**Ezekiel 37:3**
+
+[TODO]
+
+**Ezekiel 37:4**
+
+[TODO]
+
+**Ezekiel 37:5**
+
+[TODO]
+
+**Ezekiel 37:6**
+
+[TODO]
+
+**Ezekiel 37:7**
+
+[TODO]
+
+**Ezekiel 37:8**
+
+[TODO]
+
+**Ezekiel 37:9**
+
+[TODO]
+
+**Ezekiel 37:10**
+
+[TODO]
+
+**Ezekiel 37:11**
+
+[TODO]
+
+**Ezekiel 37:12**
+
+[TODO]
+
+**Ezekiel 37:13**
+
+[TODO]
+
+**Ezekiel 37:14**
+
+[TODO]
+
+**Ezekiel 37:15**
+
+[TODO]
+
+**Ezekiel 37:16**
+
+[TODO]
+
+**Ezekiel 37:17**
+
+[TODO]
+
+**Ezekiel 37:18**
+
+[TODO]
+
+**Ezekiel 37:19**
+
+[TODO]
+
+**Ezekiel 37:20**
+
+[TODO]
+
+**Ezekiel 37:21**
+
+[TODO]
+
+**Ezekiel 37:22**
+
+[TODO]
+
+**Ezekiel 37:23**
+
+[TODO]
+
+**Ezekiel 37:24**
+
+[TODO]
+
+**Ezekiel 37:25**
+
+[TODO]
+
+**Ezekiel 37:26**
+
+[TODO]
+
+**Ezekiel 37:27**
+
+[TODO]
+
+**Ezekiel 37:28**
+
+[TODO]
+
+### Chapter 38
+
+**Ezekiel 38:1**
+
+[TODO]
+
+**Ezekiel 38:2**
+
+[TODO]
+
+**Ezekiel 38:3**
+
+[TODO]
+
+**Ezekiel 38:4**
+
+[TODO]
+
+**Ezekiel 38:5**
+
+[TODO]
+
+**Ezekiel 38:6**
+
+[TODO]
+
+**Ezekiel 38:7**
+
+[TODO]
+
+**Ezekiel 38:8**
+
+[TODO]
+
+**Ezekiel 38:9**
+
+[TODO]
+
+**Ezekiel 38:10**
+
+[TODO]
+
+**Ezekiel 38:11**
+
+[TODO]
+
+**Ezekiel 38:12**
+
+[TODO]
+
+**Ezekiel 38:13**
+
+[TODO]
+
+**Ezekiel 38:14**
+
+[TODO]
+
+**Ezekiel 38:15**
+
+[TODO]
+
+**Ezekiel 38:16**
+
+[TODO]
+
+**Ezekiel 38:17**
+
+[TODO]
+
+**Ezekiel 38:18**
+
+[TODO]
+
+**Ezekiel 38:19**
+
+[TODO]
+
+**Ezekiel 38:20**
+
+[TODO]
+
+**Ezekiel 38:21**
+
+[TODO]
+
+**Ezekiel 38:22**
+
+[TODO]
+
+**Ezekiel 38:23**
+
+[TODO]
+
+### Chapter 39
+
+**Ezekiel 39:1**
+
+[TODO]
+
+**Ezekiel 39:2**
+
+[TODO]
+
+**Ezekiel 39:3**
+
+[TODO]
+
+**Ezekiel 39:4**
+
+[TODO]
+
+**Ezekiel 39:5**
+
+[TODO]
+
+**Ezekiel 39:6**
+
+[TODO]
+
+**Ezekiel 39:7**
+
+[TODO]
+
+**Ezekiel 39:8**
+
+[TODO]
+
+**Ezekiel 39:9**
+
+[TODO]
+
+**Ezekiel 39:10**
+
+[TODO]
+
+**Ezekiel 39:11**
+
+[TODO]
+
+**Ezekiel 39:12**
+
+[TODO]
+
+**Ezekiel 39:13**
+
+[TODO]
+
+**Ezekiel 39:14**
+
+[TODO]
+
+**Ezekiel 39:15**
+
+[TODO]
+
+**Ezekiel 39:16**
+
+[TODO]
+
+**Ezekiel 39:17**
+
+[TODO]
+
+**Ezekiel 39:18**
+
+[TODO]
+
+**Ezekiel 39:19**
+
+[TODO]
+
+**Ezekiel 39:20**
+
+[TODO]
+
+**Ezekiel 39:21**
+
+[TODO]
+
+**Ezekiel 39:22**
+
+[TODO]
+
+**Ezekiel 39:23**
+
+[TODO]
+
+**Ezekiel 39:24**
+
+[TODO]
+
+**Ezekiel 39:25**
+
+[TODO]
+
+**Ezekiel 39:26**
+
+[TODO]
+
+**Ezekiel 39:27**
+
+[TODO]
+
+**Ezekiel 39:28**
+
+[TODO]
+
+**Ezekiel 39:29**
+
+[TODO]
+
+### Chapter 40
+
+**Ezekiel 40:1**
+
+[TODO]
+
+**Ezekiel 40:2**
+
+[TODO]
+
+**Ezekiel 40:3**
+
+[TODO]
+
+**Ezekiel 40:4**
+
+[TODO]
+
+**Ezekiel 40:5**
+
+[TODO]
+
+**Ezekiel 40:6**
+
+[TODO]
+
+**Ezekiel 40:7**
+
+[TODO]
+
+**Ezekiel 40:8**
+
+[TODO]
+
+**Ezekiel 40:9**
+
+[TODO]
+
+**Ezekiel 40:10**
+
+[TODO]
+
+**Ezekiel 40:11**
+
+[TODO]
+
+**Ezekiel 40:12**
+
+[TODO]
+
+**Ezekiel 40:13**
+
+[TODO]
+
+**Ezekiel 40:14**
+
+[TODO]
+
+**Ezekiel 40:15**
+
+[TODO]
+
+**Ezekiel 40:16**
+
+[TODO]
+
+**Ezekiel 40:17**
+
+[TODO]
+
+**Ezekiel 40:18**
+
+[TODO]
+
+**Ezekiel 40:19**
+
+[TODO]
+
+**Ezekiel 40:20**
+
+[TODO]
+
+**Ezekiel 40:21**
+
+[TODO]
+
+**Ezekiel 40:22**
+
+[TODO]
+
+**Ezekiel 40:23**
+
+[TODO]
+
+**Ezekiel 40:24**
+
+[TODO]
+
+**Ezekiel 40:25**
+
+[TODO]
+
+**Ezekiel 40:26**
+
+[TODO]
+
+**Ezekiel 40:27**
+
+[TODO]
+
+**Ezekiel 40:28**
+
+[TODO]
+
+**Ezekiel 40:29**
+
+[TODO]
+
+**Ezekiel 40:31**
+
+[TODO]
+
+**Ezekiel 40:32**
+
+[TODO]
+
+**Ezekiel 40:33**
+
+[TODO]
+
+**Ezekiel 40:34**
+
+[TODO]
+
+**Ezekiel 40:35**
+
+[TODO]
+
+**Ezekiel 40:36**
+
+[TODO]
+
+**Ezekiel 40:37**
+
+[TODO]
+
+**Ezekiel 40:38**
+
+[TODO]
+
+**Ezekiel 40:39**
+
+[TODO]
+
+**Ezekiel 40:40**
+
+[TODO]
+
+**Ezekiel 40:41**
+
+[TODO]
+
+**Ezekiel 40:42**
+
+[TODO]
+
+**Ezekiel 40:43**
+
+[TODO]
+
+**Ezekiel 40:44**
+
+[TODO]
+
+**Ezekiel 40:45**
+
+[TODO]
+
+**Ezekiel 40:46**
+
+[TODO]
+
+**Ezekiel 40:47**
+
+[TODO]
+
+**Ezekiel 40:48**
+
+[TODO]
+
+**Ezekiel 40:49**
+
+[TODO]
+
+### Chapter 41
+
+**Ezekiel 41:1**
+
+[TODO]
+
+**Ezekiel 41:2**
+
+[TODO]
+
+**Ezekiel 41:3**
+
+[TODO]
+
+**Ezekiel 41:4**
+
+[TODO]
+
+**Ezekiel 41:5**
+
+[TODO]
+
+**Ezekiel 41:6**
+
+[TODO]
+
+**Ezekiel 41:7**
+
+[TODO]
+
+**Ezekiel 41:8**
+
+[TODO]
+
+**Ezekiel 41:9**
+
+[TODO]
+
+**Ezekiel 41:10**
+
+[TODO]
+
+**Ezekiel 41:11**
+
+[TODO]
+
+**Ezekiel 41:12**
+
+[TODO]
+
+**Ezekiel 41:13**
+
+[TODO]
+
+**Ezekiel 41:14**
+
+[TODO]
+
+**Ezekiel 41:15**
+
+[TODO]
+
+**Ezekiel 41:16**
+
+[TODO]
+
+**Ezekiel 41:17**
+
+[TODO]
+
+**Ezekiel 41:18**
+
+[TODO]
+
+**Ezekiel 41:19**
+
+[TODO]
+
+**Ezekiel 41:20**
+
+[TODO]
+
+**Ezekiel 41:21**
+
+[TODO]
+
+**Ezekiel 41:22**
+
+[TODO]
+
+**Ezekiel 41:23**
+
+[TODO]
+
+**Ezekiel 41:24**
+
+[TODO]
+
+**Ezekiel 41:25**
+
+[TODO]
+
+**Ezekiel 41:26**
+
+[TODO]
+
+### Chapter 42
+
+**Ezekiel 42:1**
+
+[TODO]
+
+**Ezekiel 42:2**
+
+[TODO]
+
+**Ezekiel 42:3**
+
+[TODO]
+
+**Ezekiel 42:4**
+
+[TODO]
+
+**Ezekiel 42:5**
+
+[TODO]
+
+**Ezekiel 42:6**
+
+[TODO]
+
+**Ezekiel 42:7**
+
+[TODO]
+
+**Ezekiel 42:8**
+
+[TODO]
+
+**Ezekiel 42:9**
+
+[TODO]
+
+**Ezekiel 42:10**
+
+[TODO]
+
+**Ezekiel 42:11**
+
+[TODO]
+
+**Ezekiel 42:12**
+
+[TODO]
+
+**Ezekiel 42:13**
+
+[TODO]
+
+**Ezekiel 42:14**
+
+[TODO]
+
+**Ezekiel 42:15**
+
+[TODO]
+
+**Ezekiel 42:16**
+
+[TODO]
+
+**Ezekiel 42:17**
+
+[TODO]
+
+**Ezekiel 42:18**
+
+[TODO]
+
+**Ezekiel 42:19**
+
+[TODO]
+
+**Ezekiel 42:20**
+
+[TODO]
+
+### Chapter 43
+
+**Ezekiel 43:1**
+
+[TODO]
+
+**Ezekiel 43:2**
+
+[TODO]
+
+**Ezekiel 43:3**
+
+[TODO]
+
+**Ezekiel 43:4**
+
+[TODO]
+
+**Ezekiel 43:5**
+
+[TODO]
+
+**Ezekiel 43:6**
+
+[TODO]
+
+**Ezekiel 43:7**
+
+[TODO]
+
+**Ezekiel 43:8**
+
+[TODO]
+
+**Ezekiel 43:9**
+
+[TODO]
+
+**Ezekiel 43:10**
+
+[TODO]
+
+**Ezekiel 43:11**
+
+[TODO]
+
+**Ezekiel 43:12**
+
+[TODO]
+
+**Ezekiel 43:13**
+
+[TODO]
+
+**Ezekiel 43:14**
+
+[TODO]
+
+**Ezekiel 43:15**
+
+[TODO]
+
+**Ezekiel 43:16**
+
+[TODO]
+
+**Ezekiel 43:17**
+
+[TODO]
+
+**Ezekiel 43:18**
+
+[TODO]
+
+**Ezekiel 43:19**
+
+[TODO]
+
+**Ezekiel 43:20**
+
+[TODO]
+
+**Ezekiel 43:21**
+
+[TODO]
+
+**Ezekiel 43:22**
+
+[TODO]
+
+**Ezekiel 43:23**
+
+[TODO]
+
+**Ezekiel 43:24**
+
+[TODO]
+
+**Ezekiel 43:25**
+
+[TODO]
+
+**Ezekiel 43:26**
+
+[TODO]
+
+**Ezekiel 43:27**
+
+[TODO]
+
+### Chapter 44
+
+**Ezekiel 44:1**
+
+[TODO]
+
+**Ezekiel 44:2**
+
+[TODO]
+
+**Ezekiel 44:3**
+
+[TODO]
+
+**Ezekiel 44:4**
+
+[TODO]
+
+**Ezekiel 44:5**
+
+[TODO]
+
+**Ezekiel 44:6**
+
+[TODO]
+
+**Ezekiel 44:7**
+
+[TODO]
+
+**Ezekiel 44:8**
+
+[TODO]
+
+**Ezekiel 44:9**
+
+[TODO]
+
+**Ezekiel 44:10**
+
+[TODO]
+
+**Ezekiel 44:11**
+
+[TODO]
+
+**Ezekiel 44:12**
+
+[TODO]
+
+**Ezekiel 44:13**
+
+[TODO]
+
+**Ezekiel 44:14**
+
+[TODO]
+
+**Ezekiel 44:15**
+
+[TODO]
+
+**Ezekiel 44:16**
+
+[TODO]
+
+**Ezekiel 44:17**
+
+[TODO]
+
+**Ezekiel 44:18**
+
+[TODO]
+
+**Ezekiel 44:19**
+
+[TODO]
+
+**Ezekiel 44:20**
+
+[TODO]
+
+**Ezekiel 44:21**
+
+[TODO]
+
+**Ezekiel 44:22**
+
+[TODO]
+
+**Ezekiel 44:23**
+
+[TODO]
+
+**Ezekiel 44:24**
+
+[TODO]
+
+**Ezekiel 44:25**
+
+[TODO]
+
+**Ezekiel 44:26**
+
+[TODO]
+
+**Ezekiel 44:27**
+
+[TODO]
+
+**Ezekiel 44:28**
+
+[TODO]
+
+**Ezekiel 44:29**
+
+[TODO]
+
+**Ezekiel 44:30**
+
+[TODO]
+
+**Ezekiel 44:31**
+
+[TODO]
+
+### Chapter 45
+
+**Ezekiel 45:1**
+
+[TODO]
+
+**Ezekiel 45:2**
+
+[TODO]
+
+**Ezekiel 45:3**
+
+[TODO]
+
+**Ezekiel 45:4**
+
+[TODO]
+
+**Ezekiel 45:5**
+
+[TODO]
+
+**Ezekiel 45:6**
+
+[TODO]
+
+**Ezekiel 45:7**
+
+[TODO]
+
+**Ezekiel 45:8**
+
+[TODO]
+
+**Ezekiel 45:9**
+
+[TODO]
+
+**Ezekiel 45:10**
+
+[TODO]
+
+**Ezekiel 45:11**
+
+[TODO]
+
+**Ezekiel 45:12**
+
+[TODO]
+
+**Ezekiel 45:13**
+
+[TODO]
+
+**Ezekiel 45:14**
+
+[TODO]
+
+**Ezekiel 45:15**
+
+[TODO]
+
+**Ezekiel 45:16**
+
+[TODO]
+
+**Ezekiel 45:17**
+
+[TODO]
+
+**Ezekiel 45:18**
+
+[TODO]
+
+**Ezekiel 45:19**
+
+[TODO]
+
+**Ezekiel 45:20**
+
+[TODO]
+
+**Ezekiel 45:21**
+
+[TODO]
+
+**Ezekiel 45:22**
+
+[TODO]
+
+**Ezekiel 45:23**
+
+[TODO]
+
+**Ezekiel 45:24**
+
+[TODO]
+
+**Ezekiel 45:25**
+
+[TODO]
+
+### Chapter 46
+
+**Ezekiel 46:1**
+
+[TODO]
+
+**Ezekiel 46:2**
+
+[TODO]
+
+**Ezekiel 46:3**
+
+[TODO]
+
+**Ezekiel 46:4**
+
+[TODO]
+
+**Ezekiel 46:5**
+
+[TODO]
+
+**Ezekiel 46:6**
+
+[TODO]
+
+**Ezekiel 46:7**
+
+[TODO]
+
+**Ezekiel 46:8**
+
+[TODO]
+
+**Ezekiel 46:9**
+
+[TODO]
+
+**Ezekiel 46:10**
+
+[TODO]
+
+**Ezekiel 46:11**
+
+[TODO]
+
+**Ezekiel 46:12**
+
+[TODO]
+
+**Ezekiel 46:13**
+
+[TODO]
+
+**Ezekiel 46:14**
+
+[TODO]
+
+**Ezekiel 46:15**
+
+[TODO]
+
+**Ezekiel 46:16**
+
+[TODO]
+
+**Ezekiel 46:17**
+
+[TODO]
+
+**Ezekiel 46:18**
+
+[TODO]
+
+**Ezekiel 46:19**
+
+[TODO]
+
+**Ezekiel 46:20**
+
+[TODO]
+
+**Ezekiel 46:21**
+
+[TODO]
+
+**Ezekiel 46:22**
+
+[TODO]
+
+**Ezekiel 46:23**
+
+[TODO]
+
+**Ezekiel 46:24**
+
+[TODO]
+
+### Chapter 47
+
+**Ezekiel 47:1**
+
+[TODO]
+
+**Ezekiel 47:2**
+
+[TODO]
+
+**Ezekiel 47:3**
+
+[TODO]
+
+**Ezekiel 47:4**
+
+[TODO]
+
+**Ezekiel 47:5**
+
+[TODO]
+
+**Ezekiel 47:6**
+
+[TODO]
+
+**Ezekiel 47:7**
+
+[TODO]
+
+**Ezekiel 47:8**
+
+[TODO]
+
+**Ezekiel 47:9**
+
+[TODO]
+
+**Ezekiel 47:10**
+
+[TODO]
+
+**Ezekiel 47:11**
+
+[TODO]
+
+**Ezekiel 47:12**
+
+[TODO]
+
+**Ezekiel 47:13**
+
+[TODO]
+
+**Ezekiel 47:14**
+
+[TODO]
+
+**Ezekiel 47:15**
+
+[TODO]
+
+**Ezekiel 47:16**
+
+[TODO]
+
+**Ezekiel 47:17**
+
+[TODO]
+
+**Ezekiel 47:18**
+
+[TODO]
+
+**Ezekiel 47:19**
+
+[TODO]
+
+**Ezekiel 47:20**
+
+[TODO]
+
+**Ezekiel 47:21**
+
+[TODO]
+
+**Ezekiel 47:22**
+
+[TODO]
+
+**Ezekiel 47:23**
+
+[TODO]
+
+### Chapter 48
+
+**Ezekiel 48:1**
+
+[TODO]
+
+**Ezekiel 48:2**
+
+[TODO]
+
+**Ezekiel 48:3**
+
+[TODO]
+
+**Ezekiel 48:4**
+
+[TODO]
+
+**Ezekiel 48:5**
+
+[TODO]
+
+**Ezekiel 48:6**
+
+[TODO]
+
+**Ezekiel 48:7**
+
+[TODO]
+
+**Ezekiel 48:8**
+
+[TODO]
+
+**Ezekiel 48:9**
+
+[TODO]
+
+**Ezekiel 48:10**
+
+[TODO]
+
+**Ezekiel 48:11**
+
+[TODO]
+
+**Ezekiel 48:12**
+
+[TODO]
+
+**Ezekiel 48:13**
+
+[TODO]
+
+**Ezekiel 48:14**
+
+[TODO]
+
+**Ezekiel 48:15**
+
+[TODO]
+
+**Ezekiel 48:16**
+
+[TODO]
+
+**Ezekiel 48:17**
+
+[TODO]
+
+**Ezekiel 48:18**
+
+[TODO]
+
+**Ezekiel 48:19**
+
+[TODO]
+
+**Ezekiel 48:20**
+
+[TODO]
+
+**Ezekiel 48:21**
+
+[TODO]
+
+**Ezekiel 48:22**
+
+[TODO]
+
+**Ezekiel 48:23**
+
+[TODO]
+
+**Ezekiel 48:24**
+
+[TODO]
+
+**Ezekiel 48:25**
+
+[TODO]
+
+**Ezekiel 48:26**
+
+[TODO]
+
+**Ezekiel 48:27**
+
+[TODO]
+
+**Ezekiel 48:28**
+
+[TODO]
+
+**Ezekiel 48:29**
+
+[TODO]
+
+**Ezekiel 48:30**
+
+[TODO]
+
+**Ezekiel 48:31**
+
+[TODO]
+
+**Ezekiel 48:32**
+
+[TODO]
+
+**Ezekiel 48:33**
+
+[TODO]
+
+**Ezekiel 48:34**
+
+[TODO]
+
+**Ezekiel 48:35**
+
+[TODO]
+
+## Daniel
+
+### Chapter 1
+
+**Daniel 1:1**
+
+[TODO]
+
+**Daniel 1:2**
+
+[TODO]
+
+**Daniel 1:3**
+
+[TODO]
+
+**Daniel 1:4**
+
+[TODO]
+
+**Daniel 1:5**
+
+[TODO]
+
+**Daniel 1:6**
+
+[TODO]
+
+**Daniel 1:7**
+
+[TODO]
+
+**Daniel 1:8**
+
+[TODO]
+
+**Daniel 1:9**
+
+[TODO]
+
+**Daniel 1:10**
+
+[TODO]
+
+**Daniel 1:11**
+
+[TODO]
+
+**Daniel 1:12**
+
+[TODO]
+
+**Daniel 1:13**
+
+[TODO]
+
+**Daniel 1:14**
+
+[TODO]
+
+**Daniel 1:15**
+
+[TODO]
+
+**Daniel 1:16**
+
+[TODO]
+
+**Daniel 1:17**
+
+[TODO]
+
+**Daniel 1:18**
+
+[TODO]
+
+**Daniel 1:19**
+
+[TODO]
+
+**Daniel 1:20**
+
+[TODO]
+
+**Daniel 1:21**
+
+[TODO]
+
+### Chapter 2
+
+**Daniel 2:1**
+
+[TODO]
+
+**Daniel 2:2**
+
+[TODO]
+
+**Daniel 2:3**
+
+[TODO]
+
+**Daniel 2:4**
+
+[TODO]
+
+**Daniel 2:5**
+
+[TODO]
+
+**Daniel 2:6**
+
+[TODO]
+
+**Daniel 2:7**
+
+[TODO]
+
+**Daniel 2:8**
+
+[TODO]
+
+**Daniel 2:9**
+
+[TODO]
+
+**Daniel 2:10**
+
+[TODO]
+
+**Daniel 2:11**
+
+[TODO]
+
+**Daniel 2:12**
+
+[TODO]
+
+**Daniel 2:13**
+
+[TODO]
+
+**Daniel 2:14**
+
+[TODO]
+
+**Daniel 2:15**
+
+[TODO]
+
+**Daniel 2:16**
+
+[TODO]
+
+**Daniel 2:17**
+
+[TODO]
+
+**Daniel 2:18**
+
+[TODO]
+
+**Daniel 2:19**
+
+[TODO]
+
+**Daniel 2:20**
+
+[TODO]
+
+**Daniel 2:21**
+
+[TODO]
+
+**Daniel 2:22**
+
+[TODO]
+
+**Daniel 2:23**
+
+[TODO]
+
+**Daniel 2:24**
+
+[TODO]
+
+**Daniel 2:25**
+
+[TODO]
+
+**Daniel 2:26**
+
+[TODO]
+
+**Daniel 2:27**
+
+[TODO]
+
+**Daniel 2:28**
+
+[TODO]
+
+**Daniel 2:29**
+
+[TODO]
+
+**Daniel 2:30**
+
+[TODO]
+
+**Daniel 2:31**
+
+[TODO]
+
+**Daniel 2:32**
+
+[TODO]
+
+**Daniel 2:33**
+
+[TODO]
+
+**Daniel 2:34**
+
+[TODO]
+
+**Daniel 2:35**
+
+[TODO]
+
+**Daniel 2:36**
+
+[TODO]
+
+**Daniel 2:37**
+
+[TODO]
+
+**Daniel 2:38**
+
+[TODO]
+
+**Daniel 2:39**
+
+[TODO]
+
+**Daniel 2:40**
+
+[TODO]
+
+**Daniel 2:41**
+
+[TODO]
+
+**Daniel 2:42**
+
+[TODO]
+
+**Daniel 2:43**
+
+[TODO]
+
+**Daniel 2:44**
+
+[TODO]
+
+**Daniel 2:45**
+
+[TODO]
+
+**Daniel 2:46**
+
+[TODO]
+
+**Daniel 2:47**
+
+[TODO]
+
+**Daniel 2:48**
+
+[TODO]
+
+**Daniel 2:49**
+
+[TODO]
+
+### Chapter 3
+
+**Daniel 3:1**
+
+[TODO]
+
+**Daniel 3:2**
+
+[TODO]
+
+**Daniel 3:3**
+
+[TODO]
+
+**Daniel 3:4**
+
+[TODO]
+
+**Daniel 3:5**
+
+[TODO]
+
+**Daniel 3:6**
+
+[TODO]
+
+**Daniel 3:7**
+
+[TODO]
+
+**Daniel 3:8**
+
+[TODO]
+
+**Daniel 3:9**
+
+[TODO]
+
+**Daniel 3:10**
+
+[TODO]
+
+**Daniel 3:11**
+
+[TODO]
+
+**Daniel 3:12**
+
+[TODO]
+
+**Daniel 3:13**
+
+[TODO]
+
+**Daniel 3:14**
+
+[TODO]
+
+**Daniel 3:15**
+
+[TODO]
+
+**Daniel 3:16**
+
+[TODO]
+
+**Daniel 3:17**
+
+[TODO]
+
+**Daniel 3:18**
+
+[TODO]
+
+**Daniel 3:19**
+
+[TODO]
+
+**Daniel 3:20**
+
+[TODO]
+
+**Daniel 3:21**
+
+[TODO]
+
+**Daniel 3:22**
+
+[TODO]
+
+**Daniel 3:23**
+
+[TODO]
+
+**Daniel 3:24**
+
+[TODO]
+
+**Daniel 3:25**
+
+[TODO]
+
+**Daniel 3:26**
+
+[TODO]
+
+**Daniel 3:27**
+
+[TODO]
+
+**Daniel 3:28**
+
+[TODO]
+
+**Daniel 3:29**
+
+[TODO]
+
+**Daniel 3:30**
+
+[TODO]
+
+### Chapter 4
+
+**Daniel 4:4**
+
+[TODO]
+
+**Daniel 4:5**
+
+[TODO]
+
+**Daniel 4:10**
+
+[TODO]
+
+**Daniel 4:11**
+
+[TODO]
+
+**Daniel 4:12**
+
+[TODO]
+
+**Daniel 4:13**
+
+[TODO]
+
+**Daniel 4:14**
+
+[TODO]
+
+**Daniel 4:15**
+
+[TODO]
+
+**Daniel 4:16**
+
+[TODO]
+
+**Daniel 4:17**
+
+[TODO]
+
+**Daniel 4:18**
+
+[TODO]
+
+**Daniel 4:19**
+
+[TODO]
+
+**Daniel 4:20**
+
+[TODO]
+
+**Daniel 4:21**
+
+[TODO]
+
+**Daniel 4:22**
+
+[TODO]
+
+**Daniel 4:23**
+
+[TODO]
+
+**Daniel 4:24**
+
+[TODO]
+
+**Daniel 4:25**
+
+[TODO]
+
+**Daniel 4:26**
+
+[TODO]
+
+**Daniel 4:27**
+
+[TODO]
+
+**Daniel 4:28**
+
+[TODO]
+
+**Daniel 4:29**
+
+[TODO]
+
+**Daniel 4:30**
+
+[TODO]
+
+**Daniel 4:31**
+
+[TODO]
+
+**Daniel 4:32**
+
+[TODO]
+
+**Daniel 4:33**
+
+[TODO]
+
+**Daniel 4:34**
+
+[TODO]
+
+**Daniel 4:36**
+
+[TODO]
+
+**Daniel 4:37**
+
+[TODO]
+
+### Chapter 5
+
+**Daniel 5:0**
+
+[TODO]
+
+**Daniel 5:1**
+
+[TODO]
+
+**Daniel 5:2**
+
+[TODO]
+
+**Daniel 5:3**
+
+[TODO]
+
+**Daniel 5:4**
+
+[TODO]
+
+**Daniel 5:5**
+
+[TODO]
+
+**Daniel 5:6**
+
+[TODO]
+
+**Daniel 5:7**
+
+[TODO]
+
+**Daniel 5:8**
+
+[TODO]
+
+**Daniel 5:9**
+
+[TODO]
+
+**Daniel 5:10**
+
+[TODO]
+
+**Daniel 5:11**
+
+[TODO]
+
+**Daniel 5:12**
+
+[TODO]
+
+**Daniel 5:13**
+
+[TODO]
+
+**Daniel 5:16**
+
+[TODO]
+
+**Daniel 5:17**
+
+[TODO]
+
+**Daniel 5:23**
+
+[TODO]
+
+**Daniel 5:26**
+
+[TODO]
+
+**Daniel 5:27**
+
+[TODO]
+
+**Daniel 5:28**
+
+[TODO]
+
+**Daniel 5:29**
+
+[TODO]
+
+**Daniel 5:30**
+
+[TODO]
+
+### Chapter 6
+
+**Daniel 6:1**
+
+[TODO]
+
+**Daniel 6:2**
+
+[TODO]
+
+**Daniel 6:3**
+
+[TODO]
+
+**Daniel 6:4**
+
+[TODO]
+
+**Daniel 6:5**
+
+[TODO]
+
+**Daniel 6:6**
+
+[TODO]
+
+**Daniel 6:7**
+
+[TODO]
+
+**Daniel 6:8**
+
+[TODO]
+
+**Daniel 6:9**
+
+[TODO]
+
+**Daniel 6:10**
+
+[TODO]
+
+**Daniel 6:11**
+
+[TODO]
+
+**Daniel 6:12**
+
+[TODO]
+
+**Daniel 6:13**
+
+[TODO]
+
+**Daniel 6:14**
+
+[TODO]
+
+**Daniel 6:15**
+
+[TODO]
+
+**Daniel 6:16**
+
+[TODO]
+
+**Daniel 6:17**
+
+[TODO]
+
+**Daniel 6:18**
+
+[TODO]
+
+**Daniel 6:19**
+
+[TODO]
+
+**Daniel 6:20**
+
+[TODO]
+
+**Daniel 6:21**
+
+[TODO]
+
+**Daniel 6:22**
+
+[TODO]
+
+**Daniel 6:23**
+
+[TODO]
+
+**Daniel 6:24**
+
+[TODO]
+
+**Daniel 6:25**
+
+[TODO]
+
+**Daniel 6:26**
+
+[TODO]
+
+**Daniel 6:27**
+
+[TODO]
+
+**Daniel 6:28**
+
+[TODO]
+
+**Daniel 6:29**
+
+[TODO]
+
+### Chapter 7
+
+**Daniel 7:1**
+
+[TODO]
+
+**Daniel 7:2**
+
+[TODO]
+
+**Daniel 7:3**
+
+[TODO]
+
+**Daniel 7:4**
+
+[TODO]
+
+**Daniel 7:5**
+
+[TODO]
+
+**Daniel 7:6**
+
+[TODO]
+
+**Daniel 7:7**
+
+[TODO]
+
+**Daniel 7:8**
+
+[TODO]
+
+**Daniel 7:9**
+
+[TODO]
+
+**Daniel 7:10**
+
+[TODO]
+
+**Daniel 7:11**
+
+[TODO]
+
+**Daniel 7:12**
+
+[TODO]
+
+**Daniel 7:13**
+
+[TODO]
+
+**Daniel 7:14**
+
+[TODO]
+
+**Daniel 7:15**
+
+[TODO]
+
+**Daniel 7:16**
+
+[TODO]
+
+**Daniel 7:17**
+
+[TODO]
+
+**Daniel 7:18**
+
+[TODO]
+
+**Daniel 7:19**
+
+[TODO]
+
+**Daniel 7:20**
+
+[TODO]
+
+**Daniel 7:21**
+
+[TODO]
+
+**Daniel 7:22**
+
+[TODO]
+
+**Daniel 7:23**
+
+[TODO]
+
+**Daniel 7:24**
+
+[TODO]
+
+**Daniel 7:25**
+
+[TODO]
+
+**Daniel 7:26**
+
+[TODO]
+
+**Daniel 7:27**
+
+[TODO]
+
+**Daniel 7:28**
+
+[TODO]
+
+### Chapter 8
+
+**Daniel 8:1**
+
+[TODO]
+
+**Daniel 8:2**
+
+[TODO]
+
+**Daniel 8:3**
+
+[TODO]
+
+**Daniel 8:4**
+
+[TODO]
+
+**Daniel 8:5**
+
+[TODO]
+
+**Daniel 8:6**
+
+[TODO]
+
+**Daniel 8:7**
+
+[TODO]
+
+**Daniel 8:8**
+
+[TODO]
+
+**Daniel 8:9**
+
+[TODO]
+
+**Daniel 8:10**
+
+[TODO]
+
+**Daniel 8:11**
+
+[TODO]
+
+**Daniel 8:12**
+
+[TODO]
+
+**Daniel 8:13**
+
+[TODO]
+
+**Daniel 8:14**
+
+[TODO]
+
+**Daniel 8:15**
+
+[TODO]
+
+**Daniel 8:16**
+
+[TODO]
+
+**Daniel 8:17**
+
+[TODO]
+
+**Daniel 8:18**
+
+[TODO]
+
+**Daniel 8:19**
+
+[TODO]
+
+**Daniel 8:20**
+
+[TODO]
+
+**Daniel 8:21**
+
+[TODO]
+
+**Daniel 8:22**
+
+[TODO]
+
+**Daniel 8:23**
+
+[TODO]
+
+**Daniel 8:24**
+
+[TODO]
+
+**Daniel 8:25**
+
+[TODO]
+
+**Daniel 8:26**
+
+[TODO]
+
+**Daniel 8:27**
+
+[TODO]
+
+### Chapter 9
+
+**Daniel 9:1**
+
+[TODO]
+
+**Daniel 9:2**
+
+[TODO]
+
+**Daniel 9:3**
+
+[TODO]
+
+**Daniel 9:4**
+
+[TODO]
+
+**Daniel 9:5**
+
+[TODO]
+
+**Daniel 9:6**
+
+[TODO]
+
+**Daniel 9:7**
+
+[TODO]
+
+**Daniel 9:8**
+
+[TODO]
+
+**Daniel 9:9**
+
+[TODO]
+
+**Daniel 9:10**
+
+[TODO]
+
+**Daniel 9:11**
+
+[TODO]
+
+**Daniel 9:12**
+
+[TODO]
+
+**Daniel 9:13**
+
+[TODO]
+
+**Daniel 9:14**
+
+[TODO]
+
+**Daniel 9:15**
+
+[TODO]
+
+**Daniel 9:16**
+
+[TODO]
+
+**Daniel 9:17**
+
+[TODO]
+
+**Daniel 9:18**
+
+[TODO]
+
+**Daniel 9:19**
+
+[TODO]
+
+**Daniel 9:20**
+
+[TODO]
+
+**Daniel 9:21**
+
+[TODO]
+
+**Daniel 9:22**
+
+[TODO]
+
+**Daniel 9:23**
+
+[TODO]
+
+**Daniel 9:24**
+
+[TODO]
+
+**Daniel 9:25**
+
+[TODO]
+
+**Daniel 9:26**
+
+[TODO]
+
+**Daniel 9:27**
+
+[TODO]
+
+### Chapter 10
+
+**Daniel 10:1**
+
+[TODO]
+
+**Daniel 10:2**
+
+[TODO]
+
+**Daniel 10:3**
+
+[TODO]
+
+**Daniel 10:4**
+
+[TODO]
+
+**Daniel 10:5**
+
+[TODO]
+
+**Daniel 10:6**
+
+[TODO]
+
+**Daniel 10:7**
+
+[TODO]
+
+**Daniel 10:8**
+
+[TODO]
+
+**Daniel 10:9**
+
+[TODO]
+
+**Daniel 10:10**
+
+[TODO]
+
+**Daniel 10:11**
+
+[TODO]
+
+**Daniel 10:12**
+
+[TODO]
+
+**Daniel 10:13**
+
+[TODO]
+
+**Daniel 10:14**
+
+[TODO]
+
+**Daniel 10:15**
+
+[TODO]
+
+**Daniel 10:16**
+
+[TODO]
+
+**Daniel 10:17**
+
+[TODO]
+
+**Daniel 10:18**
+
+[TODO]
+
+**Daniel 10:19**
+
+[TODO]
+
+**Daniel 10:20**
+
+[TODO]
+
+**Daniel 10:21**
+
+[TODO]
+
+### Chapter 11
+
+**Daniel 11:1**
+
+[TODO]
+
+**Daniel 11:2**
+
+[TODO]
+
+**Daniel 11:3**
+
+[TODO]
+
+**Daniel 11:4**
+
+[TODO]
+
+**Daniel 11:5**
+
+[TODO]
+
+**Daniel 11:6**
+
+[TODO]
+
+**Daniel 11:7**
+
+[TODO]
+
+**Daniel 11:8**
+
+[TODO]
+
+**Daniel 11:9**
+
+[TODO]
+
+**Daniel 11:10**
+
+[TODO]
+
+**Daniel 11:11**
+
+[TODO]
+
+**Daniel 11:12**
+
+[TODO]
+
+**Daniel 11:13**
+
+[TODO]
+
+**Daniel 11:14**
+
+[TODO]
+
+**Daniel 11:15**
+
+[TODO]
+
+**Daniel 11:16**
+
+[TODO]
+
+**Daniel 11:17**
+
+[TODO]
+
+**Daniel 11:18**
+
+[TODO]
+
+**Daniel 11:19**
+
+[TODO]
+
+**Daniel 11:20**
+
+[TODO]
+
+**Daniel 11:21**
+
+[TODO]
+
+**Daniel 11:22**
+
+[TODO]
+
+**Daniel 11:23**
+
+[TODO]
+
+**Daniel 11:24**
+
+[TODO]
+
+**Daniel 11:25**
+
+[TODO]
+
+**Daniel 11:26**
+
+[TODO]
+
+**Daniel 11:27**
+
+[TODO]
+
+**Daniel 11:28**
+
+[TODO]
+
+**Daniel 11:29**
+
+[TODO]
+
+**Daniel 11:30**
+
+[TODO]
+
+**Daniel 11:31**
+
+[TODO]
+
+**Daniel 11:32**
+
+[TODO]
+
+**Daniel 11:33**
+
+[TODO]
+
+**Daniel 11:34**
+
+[TODO]
+
+**Daniel 11:35**
+
+[TODO]
+
+**Daniel 11:36**
+
+[TODO]
+
+**Daniel 11:37**
+
+[TODO]
+
+**Daniel 11:38**
+
+[TODO]
+
+**Daniel 11:39**
+
+[TODO]
+
+**Daniel 11:40**
+
+[TODO]
+
+**Daniel 11:41**
+
+[TODO]
+
+**Daniel 11:42**
+
+[TODO]
+
+**Daniel 11:43**
+
+[TODO]
+
+**Daniel 11:44**
+
+[TODO]
+
+**Daniel 11:45**
+
+[TODO]
+
+### Chapter 12
+
+**Daniel 12:1**
+
+[TODO]
+
+**Daniel 12:2**
+
+[TODO]
+
+**Daniel 12:3**
+
+[TODO]
+
+**Daniel 12:4**
+
+[TODO]
+
+**Daniel 12:5**
+
+[TODO]
+
+**Daniel 12:6**
+
+[TODO]
+
+**Daniel 12:7**
+
+[TODO]
+
+**Daniel 12:8**
+
+[TODO]
+
+**Daniel 12:9**
+
+[TODO]
+
+**Daniel 12:10**
+
+[TODO]
+
+**Daniel 12:11**
+
+[TODO]
+
+**Daniel 12:12**
+
+[TODO]
+
+**Daniel 12:13**
+
+[TODO]
+
+## Hosea
+
+### Chapter 1
+
+**Hosea 1:1**
+
+[TODO]
+
+**Hosea 1:2**
+
+[TODO]
+
+**Hosea 1:3**
+
+[TODO]
+
+**Hosea 1:4**
+
+[TODO]
+
+**Hosea 1:5**
+
+[TODO]
+
+**Hosea 1:6**
+
+[TODO]
+
+**Hosea 1:7**
+
+[TODO]
+
+**Hosea 1:8**
+
+[TODO]
+
+**Hosea 1:9**
+
+[TODO]
+
+### Chapter 2
+
+**Hosea 2:1**
+
+[TODO]
+
+**Hosea 2:2**
+
+[TODO]
+
+**Hosea 2:3**
+
+[TODO]
+
+**Hosea 2:4**
+
+[TODO]
+
+**Hosea 2:5**
+
+[TODO]
+
+**Hosea 2:6**
+
+[TODO]
+
+**Hosea 2:7**
+
+[TODO]
+
+**Hosea 2:8**
+
+[TODO]
+
+**Hosea 2:9**
+
+[TODO]
+
+**Hosea 2:10**
+
+[TODO]
+
+**Hosea 2:11**
+
+[TODO]
+
+**Hosea 2:12**
+
+[TODO]
+
+**Hosea 2:13**
+
+[TODO]
+
+**Hosea 2:14**
+
+[TODO]
+
+**Hosea 2:15**
+
+[TODO]
+
+**Hosea 2:16**
+
+[TODO]
+
+**Hosea 2:17**
+
+[TODO]
+
+**Hosea 2:18**
+
+[TODO]
+
+**Hosea 2:19**
+
+[TODO]
+
+**Hosea 2:20**
+
+[TODO]
+
+**Hosea 2:21**
+
+[TODO]
+
+**Hosea 2:22**
+
+[TODO]
+
+**Hosea 2:23**
+
+[TODO]
+
+**Hosea 2:24**
+
+[TODO]
+
+**Hosea 2:25**
+
+[TODO]
+
+### Chapter 3
+
+**Hosea 3:1**
+
+[TODO]
+
+**Hosea 3:2**
+
+[TODO]
+
+**Hosea 3:3**
+
+[TODO]
+
+**Hosea 3:4**
+
+[TODO]
+
+**Hosea 3:5**
+
+[TODO]
+
+### Chapter 4
+
+**Hosea 4:1**
+
+[TODO]
+
+**Hosea 4:2**
+
+[TODO]
+
+**Hosea 4:3**
+
+[TODO]
+
+**Hosea 4:4**
+
+[TODO]
+
+**Hosea 4:5**
+
+[TODO]
+
+**Hosea 4:6**
+
+[TODO]
+
+**Hosea 4:7**
+
+[TODO]
+
+**Hosea 4:8**
+
+[TODO]
+
+**Hosea 4:9**
+
+[TODO]
+
+**Hosea 4:10**
+
+[TODO]
+
+**Hosea 4:11**
+
+[TODO]
+
+**Hosea 4:12**
+
+[TODO]
+
+**Hosea 4:13**
+
+[TODO]
+
+**Hosea 4:14**
+
+[TODO]
+
+**Hosea 4:15**
+
+[TODO]
+
+**Hosea 4:16**
+
+[TODO]
+
+**Hosea 4:17**
+
+[TODO]
+
+**Hosea 4:18**
+
+[TODO]
+
+**Hosea 4:19**
+
+[TODO]
+
+### Chapter 5
+
+**Hosea 5:1**
+
+[TODO]
+
+**Hosea 5:2**
+
+[TODO]
+
+**Hosea 5:3**
+
+[TODO]
+
+**Hosea 5:4**
+
+[TODO]
+
+**Hosea 5:5**
+
+[TODO]
+
+**Hosea 5:6**
+
+[TODO]
+
+**Hosea 5:7**
+
+[TODO]
+
+**Hosea 5:8**
+
+[TODO]
+
+**Hosea 5:9**
+
+[TODO]
+
+**Hosea 5:10**
+
+[TODO]
+
+**Hosea 5:11**
+
+[TODO]
+
+**Hosea 5:12**
+
+[TODO]
+
+**Hosea 5:13**
+
+[TODO]
+
+**Hosea 5:14**
+
+[TODO]
+
+**Hosea 5:15**
+
+[TODO]
+
+### Chapter 6
+
+**Hosea 6:1**
+
+[TODO]
+
+**Hosea 6:2**
+
+[TODO]
+
+**Hosea 6:3**
+
+[TODO]
+
+**Hosea 6:4**
+
+[TODO]
+
+**Hosea 6:5**
+
+[TODO]
+
+**Hosea 6:6**
+
+[TODO]
+
+**Hosea 6:7**
+
+[TODO]
+
+**Hosea 6:8**
+
+[TODO]
+
+**Hosea 6:9**
+
+[TODO]
+
+**Hosea 6:10**
+
+[TODO]
+
+**Hosea 6:11**
+
+[TODO]
+
+### Chapter 7
+
+**Hosea 7:1**
+
+[TODO]
+
+**Hosea 7:2**
+
+[TODO]
+
+**Hosea 7:3**
+
+[TODO]
+
+**Hosea 7:4**
+
+[TODO]
+
+**Hosea 7:5**
+
+[TODO]
+
+**Hosea 7:6**
+
+[TODO]
+
+**Hosea 7:7**
+
+[TODO]
+
+**Hosea 7:8**
+
+[TODO]
+
+**Hosea 7:9**
+
+[TODO]
+
+**Hosea 7:10**
+
+[TODO]
+
+**Hosea 7:11**
+
+[TODO]
+
+**Hosea 7:12**
+
+[TODO]
+
+**Hosea 7:13**
+
+[TODO]
+
+**Hosea 7:14**
+
+[TODO]
+
+**Hosea 7:15**
+
+[TODO]
+
+**Hosea 7:16**
+
+[TODO]
+
+### Chapter 8
+
+**Hosea 8:1**
+
+[TODO]
+
+**Hosea 8:2**
+
+[TODO]
+
+**Hosea 8:3**
+
+[TODO]
+
+**Hosea 8:4**
+
+[TODO]
+
+**Hosea 8:5**
+
+[TODO]
+
+**Hosea 8:6**
+
+[TODO]
+
+**Hosea 8:7**
+
+[TODO]
+
+**Hosea 8:8**
+
+[TODO]
+
+**Hosea 8:9**
+
+[TODO]
+
+**Hosea 8:10**
+
+[TODO]
+
+**Hosea 8:11**
+
+[TODO]
+
+**Hosea 8:12**
+
+[TODO]
+
+**Hosea 8:13**
+
+[TODO]
+
+**Hosea 8:14**
+
+[TODO]
+
+### Chapter 9
+
+**Hosea 9:1**
+
+[TODO]
+
+**Hosea 9:2**
+
+[TODO]
+
+**Hosea 9:3**
+
+[TODO]
+
+**Hosea 9:4**
+
+[TODO]
+
+**Hosea 9:5**
+
+[TODO]
+
+**Hosea 9:6**
+
+[TODO]
+
+**Hosea 9:7**
+
+[TODO]
+
+**Hosea 9:8**
+
+[TODO]
+
+**Hosea 9:9**
+
+[TODO]
+
+**Hosea 9:10**
+
+[TODO]
+
+**Hosea 9:11**
+
+[TODO]
+
+**Hosea 9:12**
+
+[TODO]
+
+**Hosea 9:13**
+
+[TODO]
+
+**Hosea 9:14**
+
+[TODO]
+
+**Hosea 9:15**
+
+[TODO]
+
+**Hosea 9:16**
+
+[TODO]
+
+**Hosea 9:17**
+
+[TODO]
+
+### Chapter 10
+
+**Hosea 10:1**
+
+[TODO]
+
+**Hosea 10:2**
+
+[TODO]
+
+**Hosea 10:3**
+
+[TODO]
+
+**Hosea 10:4**
+
+[TODO]
+
+**Hosea 10:5**
+
+[TODO]
+
+**Hosea 10:6**
+
+[TODO]
+
+**Hosea 10:7**
+
+[TODO]
+
+**Hosea 10:8**
+
+[TODO]
+
+**Hosea 10:9**
+
+[TODO]
+
+**Hosea 10:10**
+
+[TODO]
+
+**Hosea 10:11**
+
+[TODO]
+
+**Hosea 10:12**
+
+[TODO]
+
+**Hosea 10:13**
+
+[TODO]
+
+**Hosea 10:14**
+
+[TODO]
+
+**Hosea 10:15**
+
+[TODO]
+
+### Chapter 11
+
+**Hosea 11:1**
+
+[TODO]
+
+**Hosea 11:2**
+
+[TODO]
+
+**Hosea 11:3**
+
+[TODO]
+
+**Hosea 11:4**
+
+[TODO]
+
+**Hosea 11:5**
+
+[TODO]
+
+**Hosea 11:6**
+
+[TODO]
+
+**Hosea 11:7**
+
+[TODO]
+
+**Hosea 11:8**
+
+[TODO]
+
+**Hosea 11:9**
+
+[TODO]
+
+**Hosea 11:10**
+
+[TODO]
+
+**Hosea 11:11**
+
+[TODO]
+
+### Chapter 12
+
+**Hosea 12:1**
+
+[TODO]
+
+**Hosea 12:2**
+
+[TODO]
+
+**Hosea 12:3**
+
+[TODO]
+
+**Hosea 12:4**
+
+[TODO]
+
+**Hosea 12:5**
+
+[TODO]
+
+**Hosea 12:6**
+
+[TODO]
+
+**Hosea 12:7**
+
+[TODO]
+
+**Hosea 12:8**
+
+[TODO]
+
+**Hosea 12:9**
+
+[TODO]
+
+**Hosea 12:10**
+
+[TODO]
+
+**Hosea 12:11**
+
+[TODO]
+
+**Hosea 12:12**
+
+[TODO]
+
+**Hosea 12:13**
+
+[TODO]
+
+**Hosea 12:14**
+
+[TODO]
+
+**Hosea 12:15**
+
+[TODO]
+
+### Chapter 13
+
+**Hosea 13:1**
+
+[TODO]
+
+**Hosea 13:2**
+
+[TODO]
+
+**Hosea 13:3**
+
+[TODO]
+
+**Hosea 13:4**
+
+[TODO]
+
+**Hosea 13:5**
+
+[TODO]
+
+**Hosea 13:6**
+
+[TODO]
+
+**Hosea 13:7**
+
+[TODO]
+
+**Hosea 13:8**
+
+[TODO]
+
+**Hosea 13:9**
+
+[TODO]
+
+**Hosea 13:10**
+
+[TODO]
+
+**Hosea 13:11**
+
+[TODO]
+
+**Hosea 13:12**
+
+[TODO]
+
+**Hosea 13:13**
+
+[TODO]
+
+**Hosea 13:14**
+
+[TODO]
+
+**Hosea 13:15**
+
+[TODO]
+
+### Chapter 14
+
+**Hosea 14:1**
+
+[TODO]
+
+**Hosea 14:2**
+
+[TODO]
+
+**Hosea 14:3**
+
+[TODO]
+
+**Hosea 14:4**
+
+[TODO]
+
+**Hosea 14:5**
+
+[TODO]
+
+**Hosea 14:6**
+
+[TODO]
+
+**Hosea 14:7**
+
+[TODO]
+
+**Hosea 14:8**
+
+[TODO]
+
+**Hosea 14:9**
+
+[TODO]
+
+**Hosea 14:10**
+
+[TODO]
+
+## Joel
+
+### Chapter 1
+
+**Joel 1:1**
+
+[TODO]
+
+**Joel 1:2**
+
+[TODO]
+
+**Joel 1:3**
+
+[TODO]
+
+**Joel 1:4**
+
+[TODO]
+
+**Joel 1:5**
+
+[TODO]
+
+**Joel 1:6**
+
+[TODO]
+
+**Joel 1:7**
+
+[TODO]
+
+**Joel 1:8**
+
+[TODO]
+
+**Joel 1:9**
+
+[TODO]
+
+**Joel 1:10**
+
+[TODO]
+
+**Joel 1:11**
+
+[TODO]
+
+**Joel 1:12**
+
+[TODO]
+
+**Joel 1:13**
+
+[TODO]
+
+**Joel 1:14**
+
+[TODO]
+
+**Joel 1:15**
+
+[TODO]
+
+**Joel 1:16**
+
+[TODO]
+
+**Joel 1:17**
+
+[TODO]
+
+**Joel 1:18**
+
+[TODO]
+
+**Joel 1:19**
+
+[TODO]
+
+**Joel 1:20**
+
+[TODO]
+
+### Chapter 2
+
+**Joel 2:1**
+
+[TODO]
+
+**Joel 2:2**
+
+[TODO]
+
+**Joel 2:3**
+
+[TODO]
+
+**Joel 2:4**
+
+[TODO]
+
+**Joel 2:5**
+
+[TODO]
+
+**Joel 2:6**
+
+[TODO]
+
+**Joel 2:7**
+
+[TODO]
+
+**Joel 2:8**
+
+[TODO]
+
+**Joel 2:9**
+
+[TODO]
+
+**Joel 2:10**
+
+[TODO]
+
+**Joel 2:11**
+
+[TODO]
+
+**Joel 2:12**
+
+[TODO]
+
+**Joel 2:13**
+
+[TODO]
+
+**Joel 2:14**
+
+[TODO]
+
+**Joel 2:15**
+
+[TODO]
+
+**Joel 2:16**
+
+[TODO]
+
+**Joel 2:17**
+
+[TODO]
+
+**Joel 2:18**
+
+[TODO]
+
+**Joel 2:19**
+
+[TODO]
+
+**Joel 2:20**
+
+[TODO]
+
+**Joel 2:21**
+
+[TODO]
+
+**Joel 2:22**
+
+[TODO]
+
+**Joel 2:23**
+
+[TODO]
+
+**Joel 2:24**
+
+[TODO]
+
+**Joel 2:25**
+
+[TODO]
+
+**Joel 2:26**
+
+[TODO]
+
+**Joel 2:27**
+
+[TODO]
+
+### Chapter 3
+
+**Joel 3:1**
+
+[TODO]
+
+**Joel 3:2**
+
+[TODO]
+
+**Joel 3:3**
+
+[TODO]
+
+**Joel 3:4**
+
+[TODO]
+
+**Joel 3:5**
+
+[TODO]
+
+### Chapter 4
+
+**Joel 4:1**
+
+[TODO]
+
+**Joel 4:2**
+
+[TODO]
+
+**Joel 4:3**
+
+[TODO]
+
+**Joel 4:4**
+
+[TODO]
+
+**Joel 4:5**
+
+[TODO]
+
+**Joel 4:6**
+
+[TODO]
+
+**Joel 4:7**
+
+[TODO]
+
+**Joel 4:8**
+
+[TODO]
+
+**Joel 4:9**
+
+[TODO]
+
+**Joel 4:10**
+
+[TODO]
+
+**Joel 4:11**
+
+[TODO]
+
+**Joel 4:12**
+
+[TODO]
+
+**Joel 4:13**
+
+[TODO]
+
+**Joel 4:14**
+
+[TODO]
+
+**Joel 4:15**
+
+[TODO]
+
+**Joel 4:16**
+
+[TODO]
+
+**Joel 4:17**
+
+[TODO]
+
+**Joel 4:18**
+
+[TODO]
+
+**Joel 4:19**
+
+[TODO]
+
+**Joel 4:20**
+
+[TODO]
+
+**Joel 4:21**
+
+[TODO]
+
+## Amos
+
+### Chapter 1
+
+**Amos 1:1**
+
+[TODO]
+
+**Amos 1:2**
+
+[TODO]
+
+**Amos 1:3**
+
+[TODO]
+
+**Amos 1:4**
+
+[TODO]
+
+**Amos 1:5**
+
+[TODO]
+
+**Amos 1:6**
+
+[TODO]
+
+**Amos 1:7**
+
+[TODO]
+
+**Amos 1:8**
+
+[TODO]
+
+**Amos 1:9**
+
+[TODO]
+
+**Amos 1:10**
+
+[TODO]
+
+**Amos 1:11**
+
+[TODO]
+
+**Amos 1:12**
+
+[TODO]
+
+**Amos 1:13**
+
+[TODO]
+
+**Amos 1:14**
+
+[TODO]
+
+**Amos 1:15**
+
+[TODO]
+
+### Chapter 2
+
+**Amos 2:1**
+
+[TODO]
+
+**Amos 2:2**
+
+[TODO]
+
+**Amos 2:3**
+
+[TODO]
+
+**Amos 2:4**
+
+[TODO]
+
+**Amos 2:5**
+
+[TODO]
+
+**Amos 2:6**
+
+[TODO]
+
+**Amos 2:7**
+
+[TODO]
+
+**Amos 2:8**
+
+[TODO]
+
+**Amos 2:9**
+
+[TODO]
+
+**Amos 2:10**
+
+[TODO]
+
+**Amos 2:11**
+
+[TODO]
+
+**Amos 2:12**
+
+[TODO]
+
+**Amos 2:13**
+
+[TODO]
+
+**Amos 2:14**
+
+[TODO]
+
+**Amos 2:15**
+
+[TODO]
+
+**Amos 2:16**
+
+[TODO]
+
+### Chapter 3
+
+**Amos 3:1**
+
+[TODO]
+
+**Amos 3:2**
+
+[TODO]
+
+**Amos 3:3**
+
+[TODO]
+
+**Amos 3:4**
+
+[TODO]
+
+**Amos 3:5**
+
+[TODO]
+
+**Amos 3:6**
+
+[TODO]
+
+**Amos 3:7**
+
+[TODO]
+
+**Amos 3:8**
+
+[TODO]
+
+**Amos 3:9**
+
+[TODO]
+
+**Amos 3:10**
+
+[TODO]
+
+**Amos 3:11**
+
+[TODO]
+
+**Amos 3:12**
+
+[TODO]
+
+**Amos 3:13**
+
+[TODO]
+
+**Amos 3:14**
+
+[TODO]
+
+**Amos 3:15**
+
+[TODO]
+
+### Chapter 4
+
+**Amos 4:1**
+
+[TODO]
+
+**Amos 4:2**
+
+[TODO]
+
+**Amos 4:3**
+
+[TODO]
+
+**Amos 4:4**
+
+[TODO]
+
+**Amos 4:5**
+
+[TODO]
+
+**Amos 4:6**
+
+[TODO]
+
+**Amos 4:7**
+
+[TODO]
+
+**Amos 4:8**
+
+[TODO]
+
+**Amos 4:9**
+
+[TODO]
+
+**Amos 4:10**
+
+[TODO]
+
+**Amos 4:11**
+
+[TODO]
+
+**Amos 4:12**
+
+[TODO]
+
+**Amos 4:13**
+
+[TODO]
+
+### Chapter 5
+
+**Amos 5:1**
+
+[TODO]
+
+**Amos 5:2**
+
+[TODO]
+
+**Amos 5:3**
+
+[TODO]
+
+**Amos 5:4**
+
+[TODO]
+
+**Amos 5:5**
+
+[TODO]
+
+**Amos 5:6**
+
+[TODO]
+
+**Amos 5:7**
+
+[TODO]
+
+**Amos 5:8**
+
+[TODO]
+
+**Amos 5:9**
+
+[TODO]
+
+**Amos 5:10**
+
+[TODO]
+
+**Amos 5:11**
+
+[TODO]
+
+**Amos 5:12**
+
+[TODO]
+
+**Amos 5:13**
+
+[TODO]
+
+**Amos 5:14**
+
+[TODO]
+
+**Amos 5:15**
+
+[TODO]
+
+**Amos 5:16**
+
+[TODO]
+
+**Amos 5:17**
+
+[TODO]
+
+**Amos 5:18**
+
+[TODO]
+
+**Amos 5:19**
+
+[TODO]
+
+**Amos 5:20**
+
+[TODO]
+
+**Amos 5:21**
+
+[TODO]
+
+**Amos 5:22**
+
+[TODO]
+
+**Amos 5:23**
+
+[TODO]
+
+**Amos 5:24**
+
+[TODO]
+
+**Amos 5:25**
+
+[TODO]
+
+**Amos 5:26**
+
+[TODO]
+
+**Amos 5:27**
+
+[TODO]
+
+### Chapter 6
+
+**Amos 6:1**
+
+[TODO]
+
+**Amos 6:2**
+
+[TODO]
+
+**Amos 6:3**
+
+[TODO]
+
+**Amos 6:4**
+
+[TODO]
+
+**Amos 6:5**
+
+[TODO]
+
+**Amos 6:6**
+
+[TODO]
+
+**Amos 6:7**
+
+[TODO]
+
+**Amos 6:8**
+
+[TODO]
+
+**Amos 6:9**
+
+[TODO]
+
+**Amos 6:10**
+
+[TODO]
+
+**Amos 6:11**
+
+[TODO]
+
+**Amos 6:12**
+
+[TODO]
+
+**Amos 6:13**
+
+[TODO]
+
+**Amos 6:14**
+
+[TODO]
+
+### Chapter 7
+
+**Amos 7:1**
+
+[TODO]
+
+**Amos 7:2**
+
+[TODO]
+
+**Amos 7:3**
+
+[TODO]
+
+**Amos 7:4**
+
+[TODO]
+
+**Amos 7:5**
+
+[TODO]
+
+**Amos 7:6**
+
+[TODO]
+
+**Amos 7:7**
+
+[TODO]
+
+**Amos 7:8**
+
+[TODO]
+
+**Amos 7:9**
+
+[TODO]
+
+**Amos 7:10**
+
+[TODO]
+
+**Amos 7:11**
+
+[TODO]
+
+**Amos 7:12**
+
+[TODO]
+
+**Amos 7:13**
+
+[TODO]
+
+**Amos 7:14**
+
+[TODO]
+
+**Amos 7:15**
+
+[TODO]
+
+**Amos 7:16**
+
+[TODO]
+
+**Amos 7:17**
+
+[TODO]
+
+### Chapter 8
+
+**Amos 8:1**
+
+[TODO]
+
+**Amos 8:2**
+
+[TODO]
+
+**Amos 8:3**
+
+[TODO]
+
+**Amos 8:4**
+
+[TODO]
+
+**Amos 8:5**
+
+[TODO]
+
+**Amos 8:6**
+
+[TODO]
+
+**Amos 8:7**
+
+[TODO]
+
+**Amos 8:8**
+
+[TODO]
+
+**Amos 8:9**
+
+[TODO]
+
+**Amos 8:10**
+
+[TODO]
+
+**Amos 8:11**
+
+[TODO]
+
+**Amos 8:12**
+
+[TODO]
+
+**Amos 8:13**
+
+[TODO]
+
+**Amos 8:14**
+
+[TODO]
+
+### Chapter 9
+
+**Amos 9:1**
+
+[TODO]
+
+**Amos 9:2**
+
+[TODO]
+
+**Amos 9:3**
+
+[TODO]
+
+**Amos 9:4**
+
+[TODO]
+
+**Amos 9:5**
+
+[TODO]
+
+**Amos 9:6**
+
+[TODO]
+
+**Amos 9:7**
+
+[TODO]
+
+**Amos 9:8**
+
+[TODO]
+
+**Amos 9:9**
+
+[TODO]
+
+**Amos 9:10**
+
+[TODO]
+
+**Amos 9:11**
+
+[TODO]
+
+**Amos 9:12**
+
+[TODO]
+
+**Amos 9:13**
+
+[TODO]
+
+**Amos 9:14**
+
+[TODO]
+
+**Amos 9:15**
+
+[TODO]
+
+## Obadiah
+
+### Chapter 1
+
+**Obadiah 1:1**
+
+[TODO]
+
+**Obadiah 1:2**
+
+[TODO]
+
+**Obadiah 1:3**
+
+[TODO]
+
+**Obadiah 1:4**
+
+[TODO]
+
+**Obadiah 1:5**
+
+[TODO]
+
+**Obadiah 1:6**
+
+[TODO]
+
+**Obadiah 1:7**
+
+[TODO]
+
+**Obadiah 1:8**
+
+[TODO]
+
+**Obadiah 1:9**
+
+[TODO]
+
+**Obadiah 1:10**
+
+[TODO]
+
+**Obadiah 1:11**
+
+[TODO]
+
+**Obadiah 1:12**
+
+[TODO]
+
+**Obadiah 1:13**
+
+[TODO]
+
+**Obadiah 1:14**
+
+[TODO]
+
+**Obadiah 1:15**
+
+[TODO]
+
+**Obadiah 1:16**
+
+[TODO]
+
+**Obadiah 1:17**
+
+[TODO]
+
+**Obadiah 1:18**
+
+[TODO]
+
+**Obadiah 1:19**
+
+[TODO]
+
+**Obadiah 1:20**
+
+[TODO]
+
+**Obadiah 1:21**
+
+[TODO]
+
+## Jonah
+
+### Chapter 1
+
+**Jonah 1:1**
+
+[TODO]
+
+**Jonah 1:2**
+
+[TODO]
+
+**Jonah 1:3**
+
+[TODO]
+
+**Jonah 1:4**
+
+[TODO]
+
+**Jonah 1:5**
+
+[TODO]
+
+**Jonah 1:6**
+
+[TODO]
+
+**Jonah 1:7**
+
+[TODO]
+
+**Jonah 1:8**
+
+[TODO]
+
+**Jonah 1:9**
+
+[TODO]
+
+**Jonah 1:10**
+
+[TODO]
+
+**Jonah 1:11**
+
+[TODO]
+
+**Jonah 1:12**
+
+[TODO]
+
+**Jonah 1:13**
+
+[TODO]
+
+**Jonah 1:14**
+
+[TODO]
+
+**Jonah 1:15**
+
+[TODO]
+
+**Jonah 1:16**
+
+[TODO]
+
+### Chapter 2
+
+**Jonah 2:1**
+
+[TODO]
+
+**Jonah 2:2**
+
+[TODO]
+
+**Jonah 2:3**
+
+[TODO]
+
+**Jonah 2:4**
+
+[TODO]
+
+**Jonah 2:5**
+
+[TODO]
+
+**Jonah 2:6**
+
+[TODO]
+
+**Jonah 2:7**
+
+[TODO]
+
+**Jonah 2:8**
+
+[TODO]
+
+**Jonah 2:9**
+
+[TODO]
+
+**Jonah 2:10**
+
+[TODO]
+
+**Jonah 2:11**
+
+[TODO]
+
+### Chapter 3
+
+**Jonah 3:1**
+
+[TODO]
+
+**Jonah 3:2**
+
+[TODO]
+
+**Jonah 3:3**
+
+[TODO]
+
+**Jonah 3:4**
+
+[TODO]
+
+**Jonah 3:5**
+
+[TODO]
+
+**Jonah 3:6**
+
+[TODO]
+
+**Jonah 3:7**
+
+[TODO]
+
+**Jonah 3:8**
+
+[TODO]
+
+**Jonah 3:9**
+
+[TODO]
+
+**Jonah 3:10**
+
+[TODO]
+
+### Chapter 4
+
+**Jonah 4:1**
+
+[TODO]
+
+**Jonah 4:2**
+
+[TODO]
+
+**Jonah 4:3**
+
+[TODO]
+
+**Jonah 4:4**
+
+[TODO]
+
+**Jonah 4:5**
+
+[TODO]
+
+**Jonah 4:6**
+
+[TODO]
+
+**Jonah 4:7**
+
+[TODO]
+
+**Jonah 4:8**
+
+[TODO]
+
+**Jonah 4:9**
+
+[TODO]
+
+**Jonah 4:10**
+
+[TODO]
+
+**Jonah 4:11**
+
+[TODO]
+
+## Micah
+
+### Chapter 1
+
+**Micah 1:1**
+
+[TODO]
+
+**Micah 1:2**
+
+[TODO]
+
+**Micah 1:3**
+
+[TODO]
+
+**Micah 1:4**
+
+[TODO]
+
+**Micah 1:5**
+
+[TODO]
+
+**Micah 1:6**
+
+[TODO]
+
+**Micah 1:7**
+
+[TODO]
+
+**Micah 1:8**
+
+[TODO]
+
+**Micah 1:9**
+
+[TODO]
+
+**Micah 1:10**
+
+[TODO]
+
+**Micah 1:11**
+
+[TODO]
+
+**Micah 1:12**
+
+[TODO]
+
+**Micah 1:13**
+
+[TODO]
+
+**Micah 1:14**
+
+[TODO]
+
+**Micah 1:15**
+
+[TODO]
+
+**Micah 1:16**
+
+[TODO]
+
+### Chapter 2
+
+**Micah 2:1**
+
+[TODO]
+
+**Micah 2:2**
+
+[TODO]
+
+**Micah 2:3**
+
+[TODO]
+
+**Micah 2:4**
+
+[TODO]
+
+**Micah 2:5**
+
+[TODO]
+
+**Micah 2:6**
+
+[TODO]
+
+**Micah 2:7**
+
+[TODO]
+
+**Micah 2:8**
+
+[TODO]
+
+**Micah 2:9**
+
+[TODO]
+
+**Micah 2:10**
+
+[TODO]
+
+**Micah 2:11**
+
+[TODO]
+
+**Micah 2:12**
+
+[TODO]
+
+**Micah 2:13**
+
+[TODO]
+
+### Chapter 3
+
+**Micah 3:1**
+
+[TODO]
+
+**Micah 3:2**
+
+[TODO]
+
+**Micah 3:3**
+
+[TODO]
+
+**Micah 3:4**
+
+[TODO]
+
+**Micah 3:5**
+
+[TODO]
+
+**Micah 3:6**
+
+[TODO]
+
+**Micah 3:7**
+
+[TODO]
+
+**Micah 3:8**
+
+[TODO]
+
+**Micah 3:9**
+
+[TODO]
+
+**Micah 3:10**
+
+[TODO]
+
+**Micah 3:11**
+
+[TODO]
+
+**Micah 3:12**
+
+[TODO]
+
+### Chapter 4
+
+**Micah 4:1**
+
+[TODO]
+
+**Micah 4:2**
+
+[TODO]
+
+**Micah 4:3**
+
+[TODO]
+
+**Micah 4:4**
+
+[TODO]
+
+**Micah 4:5**
+
+[TODO]
+
+**Micah 4:6**
+
+[TODO]
+
+**Micah 4:7**
+
+[TODO]
+
+**Micah 4:8**
+
+[TODO]
+
+**Micah 4:9**
+
+[TODO]
+
+**Micah 4:10**
+
+[TODO]
+
+**Micah 4:11**
+
+[TODO]
+
+**Micah 4:12**
+
+[TODO]
+
+**Micah 4:13**
+
+[TODO]
+
+**Micah 4:14**
+
+[TODO]
+
+### Chapter 5
+
+**Micah 5:1**
+
+[TODO]
+
+**Micah 5:2**
+
+[TODO]
+
+**Micah 5:3**
+
+[TODO]
+
+**Micah 5:4**
+
+[TODO]
+
+**Micah 5:5**
+
+[TODO]
+
+**Micah 5:6**
+
+[TODO]
+
+**Micah 5:7**
+
+[TODO]
+
+**Micah 5:8**
+
+[TODO]
+
+**Micah 5:9**
+
+[TODO]
+
+**Micah 5:10**
+
+[TODO]
+
+**Micah 5:11**
+
+[TODO]
+
+**Micah 5:12**
+
+[TODO]
+
+**Micah 5:13**
+
+[TODO]
+
+**Micah 5:14**
+
+[TODO]
+
+### Chapter 6
+
+**Micah 6:1**
+
+[TODO]
+
+**Micah 6:2**
+
+[TODO]
+
+**Micah 6:3**
+
+[TODO]
+
+**Micah 6:4**
+
+[TODO]
+
+**Micah 6:5**
+
+[TODO]
+
+**Micah 6:6**
+
+[TODO]
+
+**Micah 6:7**
+
+[TODO]
+
+**Micah 6:8**
+
+[TODO]
+
+**Micah 6:9**
+
+[TODO]
+
+**Micah 6:10**
+
+[TODO]
+
+**Micah 6:11**
+
+[TODO]
+
+**Micah 6:12**
+
+[TODO]
+
+**Micah 6:13**
+
+[TODO]
+
+**Micah 6:14**
+
+[TODO]
+
+**Micah 6:15**
+
+[TODO]
+
+**Micah 6:16**
+
+[TODO]
+
+### Chapter 7
+
+**Micah 7:1**
+
+[TODO]
+
+**Micah 7:2**
+
+[TODO]
+
+**Micah 7:3**
+
+[TODO]
+
+**Micah 7:4**
+
+[TODO]
+
+**Micah 7:5**
+
+[TODO]
+
+**Micah 7:6**
+
+[TODO]
+
+**Micah 7:7**
+
+[TODO]
+
+**Micah 7:8**
+
+[TODO]
+
+**Micah 7:9**
+
+[TODO]
+
+**Micah 7:10**
+
+[TODO]
+
+**Micah 7:11**
+
+[TODO]
+
+**Micah 7:12**
+
+[TODO]
+
+**Micah 7:13**
+
+[TODO]
+
+**Micah 7:14**
+
+[TODO]
+
+**Micah 7:15**
+
+[TODO]
+
+**Micah 7:16**
+
+[TODO]
+
+**Micah 7:17**
+
+[TODO]
+
+**Micah 7:18**
+
+[TODO]
+
+**Micah 7:19**
+
+[TODO]
+
+**Micah 7:20**
+
+[TODO]
+
+## Nahum
+
+### Chapter 1
+
+**Nahum 1:1**
+
+[TODO]
+
+**Nahum 1:2**
+
+[TODO]
+
+**Nahum 1:3**
+
+[TODO]
+
+**Nahum 1:4**
+
+[TODO]
+
+**Nahum 1:5**
+
+[TODO]
+
+**Nahum 1:6**
+
+[TODO]
+
+**Nahum 1:7**
+
+[TODO]
+
+**Nahum 1:8**
+
+[TODO]
+
+**Nahum 1:9**
+
+[TODO]
+
+**Nahum 1:10**
+
+[TODO]
+
+**Nahum 1:11**
+
+[TODO]
+
+**Nahum 1:12**
+
+[TODO]
+
+**Nahum 1:13**
+
+[TODO]
+
+**Nahum 1:14**
+
+[TODO]
+
+### Chapter 2
+
+**Nahum 2:1**
+
+[TODO]
+
+**Nahum 2:2**
+
+[TODO]
+
+**Nahum 2:3**
+
+[TODO]
+
+**Nahum 2:4**
+
+[TODO]
+
+**Nahum 2:5**
+
+[TODO]
+
+**Nahum 2:6**
+
+[TODO]
+
+**Nahum 2:7**
+
+[TODO]
+
+**Nahum 2:8**
+
+[TODO]
+
+**Nahum 2:9**
+
+[TODO]
+
+**Nahum 2:10**
+
+[TODO]
+
+**Nahum 2:11**
+
+[TODO]
+
+**Nahum 2:12**
+
+[TODO]
+
+**Nahum 2:13**
+
+[TODO]
+
+**Nahum 2:14**
+
+[TODO]
+
+### Chapter 3
+
+**Nahum 3:1**
+
+[TODO]
+
+**Nahum 3:2**
+
+[TODO]
+
+**Nahum 3:3**
+
+[TODO]
+
+**Nahum 3:4**
+
+[TODO]
+
+**Nahum 3:5**
+
+[TODO]
+
+**Nahum 3:6**
+
+[TODO]
+
+**Nahum 3:7**
+
+[TODO]
+
+**Nahum 3:8**
+
+[TODO]
+
+**Nahum 3:9**
+
+[TODO]
+
+**Nahum 3:10**
+
+[TODO]
+
+**Nahum 3:11**
+
+[TODO]
+
+**Nahum 3:12**
+
+[TODO]
+
+**Nahum 3:13**
+
+[TODO]
+
+**Nahum 3:14**
+
+[TODO]
+
+**Nahum 3:15**
+
+[TODO]
+
+**Nahum 3:16**
+
+[TODO]
+
+**Nahum 3:17**
+
+[TODO]
+
+**Nahum 3:18**
+
+[TODO]
+
+**Nahum 3:19**
+
+[TODO]
+
+## Habakkuk
+
+### Chapter 1
+
+**Habakkuk 1:1**
+
+[TODO]
+
+**Habakkuk 1:2**
+
+[TODO]
+
+**Habakkuk 1:3**
+
+[TODO]
+
+**Habakkuk 1:4**
+
+[TODO]
+
+**Habakkuk 1:5**
+
+[TODO]
+
+**Habakkuk 1:6**
+
+[TODO]
+
+**Habakkuk 1:7**
+
+[TODO]
+
+**Habakkuk 1:8**
+
+[TODO]
+
+**Habakkuk 1:9**
+
+[TODO]
+
+**Habakkuk 1:10**
+
+[TODO]
+
+**Habakkuk 1:11**
+
+[TODO]
+
+**Habakkuk 1:12**
+
+[TODO]
+
+**Habakkuk 1:13**
+
+[TODO]
+
+**Habakkuk 1:14**
+
+[TODO]
+
+**Habakkuk 1:15**
+
+[TODO]
+
+**Habakkuk 1:16**
+
+[TODO]
+
+**Habakkuk 1:17**
+
+[TODO]
+
+### Chapter 2
+
+**Habakkuk 2:1**
+
+[TODO]
+
+**Habakkuk 2:2**
+
+[TODO]
+
+**Habakkuk 2:3**
+
+[TODO]
+
+**Habakkuk 2:4**
+
+[TODO]
+
+**Habakkuk 2:5**
+
+[TODO]
+
+**Habakkuk 2:6**
+
+[TODO]
+
+**Habakkuk 2:7**
+
+[TODO]
+
+**Habakkuk 2:8**
+
+[TODO]
+
+**Habakkuk 2:9**
+
+[TODO]
+
+**Habakkuk 2:10**
+
+[TODO]
+
+**Habakkuk 2:11**
+
+[TODO]
+
+**Habakkuk 2:12**
+
+[TODO]
+
+**Habakkuk 2:13**
+
+[TODO]
+
+**Habakkuk 2:14**
+
+[TODO]
+
+**Habakkuk 2:15**
+
+[TODO]
+
+**Habakkuk 2:16**
+
+[TODO]
+
+**Habakkuk 2:17**
+
+[TODO]
+
+**Habakkuk 2:18**
+
+[TODO]
+
+**Habakkuk 2:19**
+
+[TODO]
+
+**Habakkuk 2:20**
+
+[TODO]
+
+### Chapter 3
+
+**Habakkuk 3:1**
+
+[TODO]
+
+**Habakkuk 3:2**
+
+[TODO]
+
+**Habakkuk 3:3**
+
+[TODO]
+
+**Habakkuk 3:4**
+
+[TODO]
+
+**Habakkuk 3:5**
+
+[TODO]
+
+**Habakkuk 3:6**
+
+[TODO]
+
+**Habakkuk 3:7**
+
+[TODO]
+
+**Habakkuk 3:8**
+
+[TODO]
+
+**Habakkuk 3:9**
+
+[TODO]
+
+**Habakkuk 3:10**
+
+[TODO]
+
+**Habakkuk 3:11**
+
+[TODO]
+
+**Habakkuk 3:12**
+
+[TODO]
+
+**Habakkuk 3:13**
+
+[TODO]
+
+**Habakkuk 3:14**
+
+[TODO]
+
+**Habakkuk 3:15**
+
+[TODO]
+
+**Habakkuk 3:16**
+
+[TODO]
+
+**Habakkuk 3:17**
+
+[TODO]
+
+**Habakkuk 3:18**
+
+[TODO]
+
+**Habakkuk 3:19**
+
+[TODO]
+
+## Zephaniah
+
+### Chapter 1
+
+**Zephaniah 1:1**
+
+[TODO]
+
+**Zephaniah 1:2**
+
+[TODO]
+
+**Zephaniah 1:3**
+
+[TODO]
+
+**Zephaniah 1:4**
+
+[TODO]
+
+**Zephaniah 1:5**
+
+[TODO]
+
+**Zephaniah 1:6**
+
+[TODO]
+
+**Zephaniah 1:7**
+
+[TODO]
+
+**Zephaniah 1:8**
+
+[TODO]
+
+**Zephaniah 1:9**
+
+[TODO]
+
+**Zephaniah 1:10**
+
+[TODO]
+
+**Zephaniah 1:11**
+
+[TODO]
+
+**Zephaniah 1:12**
+
+[TODO]
+
+**Zephaniah 1:13**
+
+[TODO]
+
+**Zephaniah 1:14**
+
+[TODO]
+
+**Zephaniah 1:15**
+
+[TODO]
+
+**Zephaniah 1:16**
+
+[TODO]
+
+**Zephaniah 1:17**
+
+[TODO]
+
+**Zephaniah 1:18**
+
+[TODO]
+
+### Chapter 2
+
+**Zephaniah 2:1**
+
+[TODO]
+
+**Zephaniah 2:2**
+
+[TODO]
+
+**Zephaniah 2:3**
+
+[TODO]
+
+**Zephaniah 2:4**
+
+[TODO]
+
+**Zephaniah 2:5**
+
+[TODO]
+
+**Zephaniah 2:6**
+
+[TODO]
+
+**Zephaniah 2:7**
+
+[TODO]
+
+**Zephaniah 2:8**
+
+[TODO]
+
+**Zephaniah 2:9**
+
+[TODO]
+
+**Zephaniah 2:10**
+
+[TODO]
+
+**Zephaniah 2:11**
+
+[TODO]
+
+**Zephaniah 2:12**
+
+[TODO]
+
+**Zephaniah 2:13**
+
+[TODO]
+
+**Zephaniah 2:14**
+
+[TODO]
+
+**Zephaniah 2:15**
+
+[TODO]
+
+### Chapter 3
+
+**Zephaniah 3:1**
+
+[TODO]
+
+**Zephaniah 3:2**
+
+[TODO]
+
+**Zephaniah 3:3**
+
+[TODO]
+
+**Zephaniah 3:4**
+
+[TODO]
+
+**Zephaniah 3:5**
+
+[TODO]
+
+**Zephaniah 3:6**
+
+[TODO]
+
+**Zephaniah 3:7**
+
+[TODO]
+
+**Zephaniah 3:8**
+
+[TODO]
+
+**Zephaniah 3:9**
+
+[TODO]
+
+**Zephaniah 3:10**
+
+[TODO]
+
+**Zephaniah 3:11**
+
+[TODO]
+
+**Zephaniah 3:12**
+
+[TODO]
+
+**Zephaniah 3:13**
+
+[TODO]
+
+**Zephaniah 3:14**
+
+[TODO]
+
+**Zephaniah 3:15**
+
+[TODO]
+
+**Zephaniah 3:16**
+
+[TODO]
+
+**Zephaniah 3:17**
+
+[TODO]
+
+**Zephaniah 3:18**
+
+[TODO]
+
+**Zephaniah 3:19**
+
+[TODO]
+
+**Zephaniah 3:20**
+
+[TODO]
+
+## Haggai
+
+### Chapter 1
+
+**Haggai 1:1**
+
+[TODO]
+
+**Haggai 1:2**
+
+[TODO]
+
+**Haggai 1:3**
+
+[TODO]
+
+**Haggai 1:4**
+
+[TODO]
+
+**Haggai 1:5**
+
+[TODO]
+
+**Haggai 1:6**
+
+[TODO]
+
+**Haggai 1:7**
+
+[TODO]
+
+**Haggai 1:8**
+
+[TODO]
+
+**Haggai 1:9**
+
+[TODO]
+
+**Haggai 1:10**
+
+[TODO]
+
+**Haggai 1:11**
+
+[TODO]
+
+**Haggai 1:12**
+
+[TODO]
+
+**Haggai 1:13**
+
+[TODO]
+
+**Haggai 1:14**
+
+[TODO]
+
+**Haggai 1:15**
+
+[TODO]
+
+### Chapter 2
+
+**Haggai 2:1**
+
+[TODO]
+
+**Haggai 2:2**
+
+[TODO]
+
+**Haggai 2:3**
+
+[TODO]
+
+**Haggai 2:4**
+
+[TODO]
+
+**Haggai 2:5**
+
+[TODO]
+
+**Haggai 2:6**
+
+[TODO]
+
+**Haggai 2:7**
+
+[TODO]
+
+**Haggai 2:8**
+
+[TODO]
+
+**Haggai 2:9**
+
+[TODO]
+
+**Haggai 2:10**
+
+[TODO]
+
+**Haggai 2:11**
+
+[TODO]
+
+**Haggai 2:12**
+
+[TODO]
+
+**Haggai 2:13**
+
+[TODO]
+
+**Haggai 2:14**
+
+[TODO]
+
+**Haggai 2:15**
+
+[TODO]
+
+**Haggai 2:16**
+
+[TODO]
+
+**Haggai 2:17**
+
+[TODO]
+
+**Haggai 2:18**
+
+[TODO]
+
+**Haggai 2:19**
+
+[TODO]
+
+**Haggai 2:20**
+
+[TODO]
+
+**Haggai 2:21**
+
+[TODO]
+
+**Haggai 2:22**
+
+[TODO]
+
+**Haggai 2:23**
+
+[TODO]
+
+## Zechariah
+
+### Chapter 1
+
+**Zechariah 1:1**
+
+[TODO]
+
+**Zechariah 1:2**
+
+[TODO]
+
+**Zechariah 1:3**
+
+[TODO]
+
+**Zechariah 1:4**
+
+[TODO]
+
+**Zechariah 1:5**
+
+[TODO]
+
+**Zechariah 1:6**
+
+[TODO]
+
+**Zechariah 1:7**
+
+[TODO]
+
+**Zechariah 1:8**
+
+[TODO]
+
+**Zechariah 1:9**
+
+[TODO]
+
+**Zechariah 1:10**
+
+[TODO]
+
+**Zechariah 1:11**
+
+[TODO]
+
+**Zechariah 1:12**
+
+[TODO]
+
+**Zechariah 1:13**
+
+[TODO]
+
+**Zechariah 1:14**
+
+[TODO]
+
+**Zechariah 1:15**
+
+[TODO]
+
+**Zechariah 1:16**
+
+[TODO]
+
+**Zechariah 1:17**
+
+[TODO]
+
+### Chapter 2
+
+**Zechariah 2:1**
+
+[TODO]
+
+**Zechariah 2:2**
+
+[TODO]
+
+**Zechariah 2:3**
+
+[TODO]
+
+**Zechariah 2:4**
+
+[TODO]
+
+**Zechariah 2:5**
+
+[TODO]
+
+**Zechariah 2:6**
+
+[TODO]
+
+**Zechariah 2:7**
+
+[TODO]
+
+**Zechariah 2:8**
+
+[TODO]
+
+**Zechariah 2:9**
+
+[TODO]
+
+**Zechariah 2:10**
+
+[TODO]
+
+**Zechariah 2:11**
+
+[TODO]
+
+**Zechariah 2:12**
+
+[TODO]
+
+**Zechariah 2:13**
+
+[TODO]
+
+**Zechariah 2:14**
+
+[TODO]
+
+**Zechariah 2:15**
+
+[TODO]
+
+**Zechariah 2:16**
+
+[TODO]
+
+**Zechariah 2:17**
+
+[TODO]
+
+### Chapter 3
+
+**Zechariah 3:1**
+
+[TODO]
+
+**Zechariah 3:2**
+
+[TODO]
+
+**Zechariah 3:3**
+
+[TODO]
+
+**Zechariah 3:4**
+
+[TODO]
+
+**Zechariah 3:5**
+
+[TODO]
+
+**Zechariah 3:6**
+
+[TODO]
+
+**Zechariah 3:7**
+
+[TODO]
+
+**Zechariah 3:8**
+
+[TODO]
+
+**Zechariah 3:9**
+
+[TODO]
+
+**Zechariah 3:10**
+
+[TODO]
+
+### Chapter 4
+
+**Zechariah 4:1**
+
+[TODO]
+
+**Zechariah 4:2**
+
+[TODO]
+
+**Zechariah 4:3**
+
+[TODO]
+
+**Zechariah 4:4**
+
+[TODO]
+
+**Zechariah 4:5**
+
+[TODO]
+
+**Zechariah 4:6**
+
+[TODO]
+
+**Zechariah 4:7**
+
+[TODO]
+
+**Zechariah 4:8**
+
+[TODO]
+
+**Zechariah 4:9**
+
+[TODO]
+
+**Zechariah 4:10**
+
+[TODO]
+
+**Zechariah 4:11**
+
+[TODO]
+
+**Zechariah 4:12**
+
+[TODO]
+
+**Zechariah 4:13**
+
+[TODO]
+
+**Zechariah 4:14**
+
+[TODO]
+
+### Chapter 5
+
+**Zechariah 5:1**
+
+[TODO]
+
+**Zechariah 5:2**
+
+[TODO]
+
+**Zechariah 5:3**
+
+[TODO]
+
+**Zechariah 5:4**
+
+[TODO]
+
+**Zechariah 5:5**
+
+[TODO]
+
+**Zechariah 5:6**
+
+[TODO]
+
+**Zechariah 5:7**
+
+[TODO]
+
+**Zechariah 5:8**
+
+[TODO]
+
+**Zechariah 5:9**
+
+[TODO]
+
+**Zechariah 5:10**
+
+[TODO]
+
+**Zechariah 5:11**
+
+[TODO]
+
+### Chapter 6
+
+**Zechariah 6:1**
+
+[TODO]
+
+**Zechariah 6:2**
+
+[TODO]
+
+**Zechariah 6:3**
+
+[TODO]
+
+**Zechariah 6:4**
+
+[TODO]
+
+**Zechariah 6:5**
+
+[TODO]
+
+**Zechariah 6:6**
+
+[TODO]
+
+**Zechariah 6:7**
+
+[TODO]
+
+**Zechariah 6:8**
+
+[TODO]
+
+**Zechariah 6:9**
+
+[TODO]
+
+**Zechariah 6:10**
+
+[TODO]
+
+**Zechariah 6:11**
+
+[TODO]
+
+**Zechariah 6:12**
+
+[TODO]
+
+**Zechariah 6:13**
+
+[TODO]
+
+**Zechariah 6:14**
+
+[TODO]
+
+**Zechariah 6:15**
+
+[TODO]
+
+### Chapter 7
+
+**Zechariah 7:1**
+
+[TODO]
+
+**Zechariah 7:2**
+
+[TODO]
+
+**Zechariah 7:3**
+
+[TODO]
+
+**Zechariah 7:4**
+
+[TODO]
+
+**Zechariah 7:5**
+
+[TODO]
+
+**Zechariah 7:6**
+
+[TODO]
+
+**Zechariah 7:7**
+
+[TODO]
+
+**Zechariah 7:8**
+
+[TODO]
+
+**Zechariah 7:9**
+
+[TODO]
+
+**Zechariah 7:10**
+
+[TODO]
+
+**Zechariah 7:11**
+
+[TODO]
+
+**Zechariah 7:12**
+
+[TODO]
+
+**Zechariah 7:13**
+
+[TODO]
+
+**Zechariah 7:14**
+
+[TODO]
+
+### Chapter 8
+
+**Zechariah 8:1**
+
+[TODO]
+
+**Zechariah 8:2**
+
+[TODO]
+
+**Zechariah 8:3**
+
+[TODO]
+
+**Zechariah 8:4**
+
+[TODO]
+
+**Zechariah 8:5**
+
+[TODO]
+
+**Zechariah 8:6**
+
+[TODO]
+
+**Zechariah 8:7**
+
+[TODO]
+
+**Zechariah 8:8**
+
+[TODO]
+
+**Zechariah 8:9**
+
+[TODO]
+
+**Zechariah 8:10**
+
+[TODO]
+
+**Zechariah 8:11**
+
+[TODO]
+
+**Zechariah 8:12**
+
+[TODO]
+
+**Zechariah 8:13**
+
+[TODO]
+
+**Zechariah 8:14**
+
+[TODO]
+
+**Zechariah 8:15**
+
+[TODO]
+
+**Zechariah 8:16**
+
+[TODO]
+
+**Zechariah 8:17**
+
+[TODO]
+
+**Zechariah 8:18**
+
+[TODO]
+
+**Zechariah 8:19**
+
+[TODO]
+
+**Zechariah 8:20**
+
+[TODO]
+
+**Zechariah 8:21**
+
+[TODO]
+
+**Zechariah 8:22**
+
+[TODO]
+
+**Zechariah 8:23**
+
+[TODO]
+
+### Chapter 9
+
+**Zechariah 9:1**
+
+[TODO]
+
+**Zechariah 9:2**
+
+[TODO]
+
+**Zechariah 9:3**
+
+[TODO]
+
+**Zechariah 9:4**
+
+[TODO]
+
+**Zechariah 9:5**
+
+[TODO]
+
+**Zechariah 9:6**
+
+[TODO]
+
+**Zechariah 9:7**
+
+[TODO]
+
+**Zechariah 9:8**
+
+[TODO]
+
+**Zechariah 9:9**
+
+[TODO]
+
+**Zechariah 9:10**
+
+[TODO]
+
+**Zechariah 9:11**
+
+[TODO]
+
+**Zechariah 9:12**
+
+[TODO]
+
+**Zechariah 9:13**
+
+[TODO]
+
+**Zechariah 9:14**
+
+[TODO]
+
+**Zechariah 9:15**
+
+[TODO]
+
+**Zechariah 9:16**
+
+[TODO]
+
+**Zechariah 9:17**
+
+[TODO]
+
+### Chapter 10
+
+**Zechariah 10:1**
+
+[TODO]
+
+**Zechariah 10:2**
+
+[TODO]
+
+**Zechariah 10:3**
+
+[TODO]
+
+**Zechariah 10:4**
+
+[TODO]
+
+**Zechariah 10:5**
+
+[TODO]
+
+**Zechariah 10:6**
+
+[TODO]
+
+**Zechariah 10:7**
+
+[TODO]
+
+**Zechariah 10:8**
+
+[TODO]
+
+**Zechariah 10:9**
+
+[TODO]
+
+**Zechariah 10:10**
+
+[TODO]
+
+**Zechariah 10:11**
+
+[TODO]
+
+**Zechariah 10:12**
+
+[TODO]
+
+### Chapter 11
+
+**Zechariah 11:1**
+
+[TODO]
+
+**Zechariah 11:2**
+
+[TODO]
+
+**Zechariah 11:3**
+
+[TODO]
+
+**Zechariah 11:4**
+
+[TODO]
+
+**Zechariah 11:5**
+
+[TODO]
+
+**Zechariah 11:6**
+
+[TODO]
+
+**Zechariah 11:7**
+
+[TODO]
+
+**Zechariah 11:8**
+
+[TODO]
+
+**Zechariah 11:9**
+
+[TODO]
+
+**Zechariah 11:10**
+
+[TODO]
+
+**Zechariah 11:11**
+
+[TODO]
+
+**Zechariah 11:12**
+
+[TODO]
+
+**Zechariah 11:13**
+
+[TODO]
+
+**Zechariah 11:14**
+
+[TODO]
+
+**Zechariah 11:15**
+
+[TODO]
+
+**Zechariah 11:16**
+
+[TODO]
+
+**Zechariah 11:17**
+
+[TODO]
+
+### Chapter 12
+
+**Zechariah 12:1**
+
+[TODO]
+
+**Zechariah 12:2**
+
+[TODO]
+
+**Zechariah 12:3**
+
+[TODO]
+
+**Zechariah 12:4**
+
+[TODO]
+
+**Zechariah 12:5**
+
+[TODO]
+
+**Zechariah 12:6**
+
+[TODO]
+
+**Zechariah 12:7**
+
+[TODO]
+
+**Zechariah 12:8**
+
+[TODO]
+
+**Zechariah 12:9**
+
+[TODO]
+
+**Zechariah 12:10**
+
+[TODO]
+
+**Zechariah 12:11**
+
+[TODO]
+
+**Zechariah 12:12**
+
+[TODO]
+
+**Zechariah 12:13**
+
+[TODO]
+
+**Zechariah 12:14**
+
+[TODO]
+
+### Chapter 13
+
+**Zechariah 13:1**
+
+[TODO]
+
+**Zechariah 13:2**
+
+[TODO]
+
+**Zechariah 13:3**
+
+[TODO]
+
+**Zechariah 13:4**
+
+[TODO]
+
+**Zechariah 13:5**
+
+[TODO]
+
+**Zechariah 13:6**
+
+[TODO]
+
+**Zechariah 13:7**
+
+[TODO]
+
+**Zechariah 13:8**
+
+[TODO]
+
+**Zechariah 13:9**
+
+[TODO]
+
+### Chapter 14
+
+**Zechariah 14:1**
+
+[TODO]
+
+**Zechariah 14:2**
+
+[TODO]
+
+**Zechariah 14:3**
+
+[TODO]
+
+**Zechariah 14:4**
+
+[TODO]
+
+**Zechariah 14:5**
+
+[TODO]
+
+**Zechariah 14:6**
+
+[TODO]
+
+**Zechariah 14:7**
+
+[TODO]
+
+**Zechariah 14:8**
+
+[TODO]
+
+**Zechariah 14:9**
+
+[TODO]
+
+**Zechariah 14:10**
+
+[TODO]
+
+**Zechariah 14:11**
+
+[TODO]
+
+**Zechariah 14:12**
+
+[TODO]
+
+**Zechariah 14:13**
+
+[TODO]
+
+**Zechariah 14:14**
+
+[TODO]
+
+**Zechariah 14:15**
+
+[TODO]
+
+**Zechariah 14:16**
+
+[TODO]
+
+**Zechariah 14:17**
+
+[TODO]
+
+**Zechariah 14:18**
+
+[TODO]
+
+**Zechariah 14:19**
+
+[TODO]
+
+**Zechariah 14:20**
+
+[TODO]
+
+**Zechariah 14:21**
+
+[TODO]
+
+## Malachi
+
+### Chapter 1
+
+**Malachi 1:1**
+
+[TODO]
+
+**Malachi 1:2**
+
+[TODO]
+
+**Malachi 1:3**
+
+[TODO]
+
+**Malachi 1:4**
+
+[TODO]
+
+**Malachi 1:5**
+
+[TODO]
+
+**Malachi 1:6**
+
+[TODO]
+
+**Malachi 1:7**
+
+[TODO]
+
+**Malachi 1:8**
+
+[TODO]
+
+**Malachi 1:9**
+
+[TODO]
+
+**Malachi 1:10**
+
+[TODO]
+
+**Malachi 1:11**
+
+[TODO]
+
+**Malachi 1:12**
+
+[TODO]
+
+**Malachi 1:13**
+
+[TODO]
+
+**Malachi 1:14**
+
+[TODO]
+
+### Chapter 2
+
+**Malachi 2:1**
+
+[TODO]
+
+**Malachi 2:2**
+
+[TODO]
+
+**Malachi 2:3**
+
+[TODO]
+
+**Malachi 2:4**
+
+[TODO]
+
+**Malachi 2:5**
+
+[TODO]
+
+**Malachi 2:6**
+
+[TODO]
+
+**Malachi 2:7**
+
+[TODO]
+
+**Malachi 2:8**
+
+[TODO]
+
+**Malachi 2:9**
+
+[TODO]
+
+**Malachi 2:10**
+
+[TODO]
+
+**Malachi 2:11**
+
+[TODO]
+
+**Malachi 2:12**
+
+[TODO]
+
+**Malachi 2:13**
+
+[TODO]
+
+**Malachi 2:14**
+
+[TODO]
+
+**Malachi 2:15**
+
+[TODO]
+
+**Malachi 2:16**
+
+[TODO]
+
+**Malachi 2:17**
+
+[TODO]
+
+### Chapter 3
+
+**Malachi 3:1**
+
+[TODO]
+
+**Malachi 3:2**
+
+[TODO]
+
+**Malachi 3:3**
+
+[TODO]
+
+**Malachi 3:4**
+
+[TODO]
+
+**Malachi 3:5**
+
+[TODO]
+
+**Malachi 3:6**
+
+[TODO]
+
+**Malachi 3:7**
+
+[TODO]
+
+**Malachi 3:8**
+
+[TODO]
+
+**Malachi 3:9**
+
+[TODO]
+
+**Malachi 3:10**
+
+[TODO]
+
+**Malachi 3:11**
+
+[TODO]
+
+**Malachi 3:12**
+
+[TODO]
+
+**Malachi 3:13**
+
+[TODO]
+
+**Malachi 3:14**
+
+[TODO]
+
+**Malachi 3:15**
+
+[TODO]
+
+**Malachi 3:16**
+
+[TODO]
+
+**Malachi 3:17**
+
+[TODO]
+
+**Malachi 3:18**
+
+[TODO]
+
+**Malachi 3:19**
+
+[TODO]
+
+**Malachi 3:20**
+
+[TODO]
+
+**Malachi 3:21**
+
+[TODO]
+
+**Malachi 3:22**
+
+[TODO]
+
+**Malachi 3:23**
+
+[TODO]
+
+**Malachi 3:24**
+
+[TODO]

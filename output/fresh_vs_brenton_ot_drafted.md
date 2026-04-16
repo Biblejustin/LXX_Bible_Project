@@ -2,19 +2,19 @@
 
 Selected scope: Genesis-Malachi (39 books)
 Selected verse rows: 23351
-Selected drafted rows: 2102
+Selected drafted rows: 3936
 Minimum importance: none
-Output compare rows: 2102
+Output compare rows: 3936
 
-Drafted rows compared: 2102
-Books with drafts: Exodus, Genesis, Leviticus
+Drafted rows compared: 3936
+Books with drafts: Exodus, Genesis, Leviticus, Numbers
 Missing Brenton rows: 0
 
 Importance counts:
-- high: 279
-- medium: 352
-- low: 1417
-- none: 54
+- high: 462
+- medium: 610
+- low: 2771
+- none: 93
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -1461,6 +1461,12345 @@ Note:
 - same_normalized: no
 - fresh: And Noah did all that the Lord God commanded him; thus he did it.
 - brenton: And Noe did all things whatever the Lord God commanded him, so did he.
+
+### Genesis 7:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Noah, Enter, you and all your house, into the ark, because I have seen you righteous before me in this generation.
+- brenton: And the Lord God said to Noe, Enter thou and all thy family into the ark, for thee have I seen righteous before me in this generation.
+
+### Genesis 7:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the clean cattle bring in to yourself seven by seven, male and female, but from the cattle that are not clean, two by two, male and female,
+- brenton: And of the clean cattle take in to thee sevens, male and female, and of the unclean cattle pairs male and female.
+
+### Genesis 7:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and from the clean birds of heaven seven by seven, male and female, and from all the birds not clean, two by two, male and female, to keep seed alive over all the earth.
+- brenton: And of clean flying creatures of the sky sevens, male and female, and of all unclean flying creatures pairs, male and female, to maintain seed on all the earth.
+
+### Genesis 7:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For still seven days, and I am bringing rain on the earth forty days and forty nights, and I will wipe out every rising thing that I made from the face of all the earth.
+- brenton: For yet seven days having passed I bring rain upon the earth forty days and forty nights, and I will blot out every offspring which I have made from the face of all the earth.
+
+### Genesis 7:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah did all that the Lord God commanded him.
+- brenton: And Noe did all things whatever the Lord God commanded him.
+
+### Genesis 7:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah was six hundred years old, and the flood of water came upon the earth.
+- brenton: And Noe was six hundred years old when the flood of water was upon the earth.
+
+### Genesis 7:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah entered, and his sons and his wife and the wives of his sons with him, into the ark because of the floodwater.
+- brenton: And then went in Noe and his sons and his wife, and his sons' wives with him into the ark, because of the water of the flood.
+
+### Genesis 7:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the clean birds and from the birds not clean and from the clean cattle and from the cattle not clean and from all the creeping things on the earth,
+- brenton: And of clean flying creatures and of unclean flying creatures, and of clean cattle and of unclean cattle, and of all things that creep upon the earth,
+
+### Genesis 7:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: two by two entered to Noah into the ark, male and female, just as God commanded Noah.
+- brenton: pairs went in to Noe into the ark, male and female, as God commanded Noe.
+
+### Genesis 7:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be after the seven days that the water of the flood came upon the earth.
+- brenton: And it came to pass after the seven days that the water of the flood came upon the earth.
+
+### Genesis 7:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In the six-hundredth year in the life of Noah, in the second month, on the twenty-seventh day of the month, on that day all the springs of the abyss burst open, and the floodgates of heaven were opened.
+- brenton: In the six hundredth year of the life of Noe, in the second month, on the twenty-seventh day of the month, on this day all the fountains of the abyss were broken up, and the flood-gates of heaven were opened.
+
+### Genesis 7:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And rain came upon the earth forty days and forty nights.
+- brenton: And the rain was upon the earth forty days and forty nights.
+
+### Genesis 7:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On that day Noah entered, Shem, Ham, Japheth, the sons of Noah, and Noah's wife and the three wives of his sons with him, into the ark,
+- brenton: On that very day entered Noe, Sem, Cham, Japheth, the sons of Noe, and the wife of Noe, and the three wives of his sons with him into the ark.
+
+### Genesis 7:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and every wild beast according to kind, and all the cattle according to kind, and every creeping thing moving on the earth according to kind, and every bird according to its kind,
+- brenton: And all the wild beasts after their kind, and all cattle after their kind, and every reptile moving itself on the earth after its kind, and every flying bird after its kind,
+
+### Genesis 7:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: entered to Noah into the ark, two by two, male and female, from all flesh in which is spirit of life.
+- brenton: went in to Noe into the ark, pairs, male and female of all flesh in which is the breath of life.
+
+### Genesis 7:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And those entering, male and female from all flesh, entered just as God commanded Noah. And the Lord God shut the ark outside him.
+- brenton: And they that entered went in male and female of all flesh, as God commanded Noe, and the Lord God shut the ark outside of him.
+
+### Genesis 7:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the flood came forty days and forty nights upon the earth, and the water multiplied and lifted the ark, and it was raised from the earth.
+- brenton: And the flood was upon the earth forty days and forty nights, and the water abounded greatly and bore up the ark, and it was lifted on high from off the earth.
+
+### Genesis 7:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water prevailed and multiplied greatly upon the earth, and the ark was borne along upon the water.
+- brenton: And the water prevailed and abounded exceedingly upon the earth, and the ark was borne upon the water.
+
+### Genesis 7:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water prevailed very, very greatly upon the earth and covered all the high mountains that were under heaven.
+- brenton: And the water prevailed exceedingly upon the earth, and covered all the high mountains which were under heaven.
+
+### Genesis 7:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Fifteen cubits above, the water rose and covered all the high mountains.
+- brenton: Fifteen cubits upwards was the water raised, and it covered all the high mountains.
+
+### Genesis 7:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all flesh moving on the earth died: birds and cattle and wild beasts and every creeping thing moving on the earth, and every human.
+- brenton: And there died all flesh that moved upon the earth, of flying creatures and cattle, and of wild beasts, and every reptile moving upon the earth, and every man.
+
+### Genesis 7:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everything having breath of life, and everything that was on the dry land, died.
+- brenton: And all things which have the breath of life, and whatever was on the dry land, died.
+
+### Genesis 7:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he wiped out every rising thing that was on the face of the earth, from human to cattle and creeping things and birds of heaven, and they were wiped from the earth. And Noah alone was left, and those with him in the ark.
+- brenton: And God blotted out every offspring which was upon the face of the earth, both man and beast, and reptiles, and birds of the sky, and they were blotted out from the earth, and Noe was left alone, and those with him in the ark.
+
+### Genesis 7:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water was raised over the earth one hundred and fifty days.
+- brenton: And the water was raised over the earth an hundred and fifty days.
+
+### Genesis 8:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God remembered Noah and all the wild beasts and all the cattle and all the birds and all the creeping things that creep, as many as were with him in the ark, and God brought a wind upon the earth, and the water subsided.
+- brenton: And God remembered Noe, and all the wild beasts, and all the cattle, and all the birds, and all the reptiles that creep, as many as were with him in the ark, and God brought a wind upon the earth, and the water stayed.
+
+### Genesis 8:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the springs of the abyss and the floodgates of heaven were covered over, and the rain from heaven was held back.
+- brenton: And the fountains of the deep were closed up, and the flood-gates of heaven, and the rain from heaven was withheld.
+
+### Genesis 8:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water kept withdrawing, going away from the earth, and the water diminished after one hundred and fifty days.
+- brenton: And the water subsided, and went off the earth, and after an hundred and fifty days the water was diminished, and the ark rested in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.
+
+### Genesis 8:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the ark came to rest in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.
+- brenton: And the water continued to decrease until the tenth month.
+
+### Genesis 8:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared.
+- brenton: And in the tenth month, on the first day of the month, the heads of the mountains were seen.
+
+### Genesis 8:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be after forty days that Noah opened the window of the ark that he made, and he sent out the raven to see whether the water had subsided.
+- brenton: And it came to pass after forty days Noe opened the window of the ark which he had made.
+
+### Genesis 8:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And having gone out, it did not return until the water dried from the earth.
+- brenton: And he sent forth a raven; and it went forth and returned not until the water was dried from off the earth.
+
+### Genesis 8:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he sent the dove after it, to see whether the water had subsided from the earth.
+- brenton: And he sent a dove after it to see if the water had ceased from off the earth.
+
+### Genesis 8:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the dove, not finding rest for its feet, returned to him into the ark, because water was on all the face of the earth. And stretching out his hand, he took it and brought it in to himself into the ark.
+- brenton: And the dove not having found rest for her feet, returned to him into the ark, because the water was on all the face of the earth, and he stretched out his hand and took her, and brought her to himself into the ark.
+
+### Genesis 8:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And waiting still another seven days, again he sent out the dove from the ark.
+- brenton: And having waited yet seven other days, he again sent forth the dove from the ark.
+
+### Genesis 8:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And toward evening the dove returned to him, and had an olive-leaf fragment in its mouth. And Noah knew that the water had subsided from the earth.
+- brenton: And the dove returned to him in the evening, and had a leaf of olive, a sprig in her mouth; and Noe knew that the water had ceased from off the earth.
+
+### Genesis 8:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And waiting still another seven days, again he sent out the dove, and it did not add to return to him any longer.
+- brenton: And having waited yet seven other days, he again sent forth the dove, and she did not return to him again any more.
+
+### Genesis 8:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be in the six-hundred-and-first year in the life of Noah, in the first month, on the first of the month, the water failed from the earth. And Noah uncovered the roof of the ark that he made and saw that the water had failed from the face of the earth.
+- brenton: And it came to pass in the six hundred and first year of the life of Noe, in the first month, on the first day of the month, the water subsided from off the earth, and Noe opened the covering of the ark which he had made, and he saw that the water had subsided from the face of the earth.
+
+### Genesis 8:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the second month, on the twenty-seventh day of the month, the earth dried.
+- brenton: And in the second month the earth was dried, on the twenty-seventh day of the month.
+
+### Genesis 8:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Noah, saying,
+- brenton: And the Lord God spoke to Noe, saying,
+
+### Genesis 8:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Come out from the ark, you and your wife and your sons and the wives of your sons with you,
+- brenton: Come out from the ark, thou and thy wife and thy sons, and thy sons' wives with thee.
+
+### Genesis 8:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the wild beasts that are with you, and all flesh from birds to cattle, and every creeping thing moving on the earth, bring out with yourself. And increase and multiply upon the earth.
+- brenton: And all the wild beasts as many as are with thee, and all flesh both of birds and beasts, and every reptile moving upon the earth, bring forth with thee: and increase ye and multiply upon the earth.
+
+### Genesis 8:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah came out, and his wife and his sons and the wives of his sons with him.
+- brenton: And Noe came forth, and his wife and his sons, and his sons' wives with him.
+
+### Genesis 8:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every wild beast and every cattle and every bird and every creeping thing moving on the earth according to their kind came out from the ark.
+- brenton: And all the wild beasts and all the cattle and every bird, and every reptile creeping upon the earth after their kind, came forth out of the ark.
+
+### Genesis 8:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah built an altar to the Lord, and took from all the clean cattle and from all the clean birds and offered up whole-burnt offerings on the altar.
+- brenton: And Noe built an altar to the Lord, and took of all clean beasts, and of all clean birds, and offered a whole burnt-offering upon the altar.
+
+### Genesis 8:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord God smelled an aroma of sweet fragrance, and the Lord God said, having considered, Let me not continue any longer to curse the earth because of the works of humans, because the mind of the human lies carefully upon evil things from his youth. Therefore I will not continue any longer to strike all living flesh, as I have done.
+- brenton: And the Lord God smelled a smell of sweetness, and the Lord God having considered, said, I will not any more curse the earth, because of the works of men, because the imagination of man is intently bent upon evil things from his youth, I will not therefore any more smite all living flesh as I have done.
+
+### Genesis 8:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days of the earth, seed and harvest, cold and heat, summer and spring, day and night shall not cease.
+- brenton: All the days of the earth, seed and harvest, cold and heat, summer and spring, shall not cease by day or night.
+
+### Genesis 9:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God blessed Noah and his sons and said to them, Increase and multiply and fill the earth and rule over it.
+- brenton: And God blessed Noe and his sons, and said to them, Increase and multiply, and fill the earth and have dominion over it.
+
+### Genesis 9:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your dread and your fear shall be upon all the wild beasts of the earth, upon all the birds of heaven and upon all the moving things on the earth and upon all the fish of the sea. Into your hands I have given them.
+- brenton: And the dread and the fear of you shall be upon all the wild beasts of the earth, on all the birds of the sky, and on all things moving upon the earth, and upon all the fishes of the sea, I have placed them under your power.
+
+### Genesis 9:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every creeping thing that is living shall be for you as food. As green herbs I have given you all things.
+- brenton: And every reptile which is living shall be to you for meat, I have given all things to you as the green herbs.
+
+### Genesis 9:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Only flesh with blood of life in it you shall not eat.
+- brenton: But flesh with blood of life ye shall not eat.
+
+### Genesis 9:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And indeed your blood of your lives I will seek out from the hand of all the wild beasts, and from the hand of a human, from the hand of a brother, I will seek out the life of the human.
+- brenton: For your blood of your lives will I require at the hand of all wild beasts, and I will require the life of man at the hand of his brother man.
+
+### Genesis 9:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one pouring out human blood, in return for that blood his own shall be poured out, because in the image of God I made the human.
+- brenton: He that sheds man's blood, instead of that blood shall his own be shed, for in the image of God I made man.
+
+### Genesis 9:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But you, increase and multiply and fill the earth and rule over it.
+- brenton: But do ye increase and multiply, and fill the earth, and have dominion over it.
+
+### Genesis 9:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Noah and to his sons with him, saying,
+- brenton: And God spoke to Noe, and to his sons with him, saying,
+
+### Genesis 9:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And look, I am establishing my covenant with you and with your seed after you,
+- brenton: And behold I establish my covenant with you, and with your seed after you,
+
+### Genesis 9:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and with every living life with you, from birds and from cattle and with all the wild beasts of the earth, as many as are with you, from all that came out of the ark.
+- brenton: and with every living creature with you, of birds and of beasts, and with all the wild beasts of the earth, as many as are with you, of all that come out of the ark.
+
+### Genesis 9:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will establish my covenant with you, and all flesh shall not die any longer from the water of the flood, and there shall no longer be a flood of water to destroy all the earth.
+- brenton: And I will establish my covenant with you and all flesh shall not any more die by the water of the flood, and there shall no more be a flood of water to destroy all the earth.
+
+### Genesis 9:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord God said to Noah, This is the sign of the covenant that I give between me and you and between every living life that is with you for everlasting generations:
+- brenton: And the Lord God said to Noe, This is the sign of the covenant which I set between me and you, and between every living creature which is with you for perpetual generations.
+
+### Genesis 9:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I place my bow in the cloud, and it shall be for a sign of covenant between me and the earth.
+- brenton: I set my bow in the cloud, and it shall be for a sign of covenant between me and the earth.
+
+### Genesis 9:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be, when I cloud the earth with clouds, my bow shall be seen in the cloud,
+- brenton: And it shall be when I gather clouds upon the earth, that my bow shall be seen in the cloud.
+
+### Genesis 9:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and I will remember my covenant that is between me and you and between every living life in all flesh, and the water shall no longer become a flood so as to wipe out all flesh.
+- brenton: And I will remember my covenant, which is between me and you, and between every living soul in all flesh, and there shall no longer be water for a deluge, so as to blot out all flesh.
+
+### Genesis 9:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And my bow shall be in the cloud, and I will see it to remember the everlasting covenant between me and the earth and between living life in all flesh that is on the earth.
+- brenton: And my bow shall be in the cloud, and I will look to remember the everlasting covenant between me and the earth, and between every living soul in all flesh, which is upon the earth.
+
+### Genesis 9:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Noah, This is the sign of the covenant that I established between me and all flesh that is on the earth.
+- brenton: And God said to Noe, This is the sign of the covenant, which I have made between me and all flesh, which is upon the earth.
+
+### Genesis 9:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Noah who came out of the ark were Shem, Ham, Japheth. Now Ham was father of Canaan.
+- brenton: Now the sons of Noe which came out of the ark, were Sem, Cham, Japheth. And Cham was father of Chanaan.
+
+### Genesis 9:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These three are sons of Noah. From these the whole earth was scattered abroad.
+- brenton: These three are the sons of Noe, of these were men scattered over all the earth.
+
+### Genesis 9:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah, a man, began to be a farmer of the earth and planted a vineyard.
+- brenton: And Noe began to be a husbandman, and he planted a vineyard.
+
+### Genesis 9:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he drank from the wine and became drunk and was stripped naked in his house.
+- brenton: And he drank of the wine, and was drunk, and was naked in his house.
+
+### Genesis 9:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ham, the father of Canaan, saw the nakedness of his father, and going out announced it to his two brothers outside.
+- brenton: And Cham the father of Chanaan saw the nakedness of his father, and he went out and told his two brothers without.
+
+### Genesis 9:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking the garment, Shem and Japheth placed it on their two backs and walked backward and covered the nakedness of their father. And their face was backward, and they did not see the nakedness of their father.
+- brenton: And Sem and Japheth having taken a garment, put it on both their backs and went backwards, and covered the nakedness of their father; and their face was backward, and they saw not the nakedness of their father.
+
+### Genesis 9:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah sobered up from the wine and knew what his younger son did to him,
+- brenton: And Noe recovered from the wine, and knew all that his younger son had done to him.
+
+### Genesis 9:25
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: and said, Cursed be Canaan. A house-servant slave shall he be to his brothers.
+- brenton: And he said, Cursed be the servant Chanaan, a slave shall he be to his brethren.
+
+### Genesis 9:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Blessed be the Lord God of Shem, and Canaan shall be his house-servant slave.
+- brenton: And he said, Blessed be the Lord God of Sem, and Chanaan shall be his bond-servant.
+
+### Genesis 9:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: May God widen Japheth, and let him dwell in the houses of Shem, and let Canaan become his servant.
+- brenton: May God make room for Japheth, and let him dwell in the habitations of Sem, and let Chanaan be his servant.
+
+### Genesis 9:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Noah lived after the flood three hundred and fifty years.
+- brenton: And Noe lived after the flood three hundred and fifty years.
+
+### Genesis 9:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Noah were nine hundred and fifty years, and he died.
+- brenton: And all the days of Noe were nine hundred and fifty years, and he died.
+
+### Genesis 10:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now these are the generations of the sons of Noah: Shem, Ham, Japheth. And sons were born to them after the flood.
+- brenton: Now these are the generations of the sons of Noe, Sem, Cham, Japheth; and sons were born to them after the flood.
+
+### Genesis 10:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Japheth: Gamer and Magog and Madai and Jovan and Elisa and Thobel and Mosoch and Thiras.
+- brenton: The sons of Japheth, Gamer, and Magog, and Madoi, and Jovan, and Elisa, and Thobel, and Mosoch, and Thiras.
+
+### Genesis 10:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Gamer: Aschanaz and Riphath and Thorgama.
+- brenton: And the sons of Gamer, Aschanaz, and Riphath, and Thorgama.
+
+### Genesis 10:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Jovan: Elisa and Tharsis, Kittians, Rhodians.
+- brenton: And the sons of Jovan, Elisa, and Tharseis, Cetians, Rhodians.
+
+### Genesis 10:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From these the islands of the nations were marked off in their land, each according to tongue, in their tribes and in their nations.
+- brenton: From these were the islands of the Gentiles divided in their land, each according to his tongue, in their tribes and in their nations.
+
+### Genesis 10:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Ham: Chous and Mesrain, Phoud and Canaan.
+- brenton: And the sons of Cham, Chus, and Mesrain, Phud, and Chanaan.
+
+### Genesis 10:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Chous: Saba and Evila and Sabatha and Regma and Sabathaca. And sons of Regma: Saba and Dadan.
+- brenton: And the sons of Chus, Saba, and Evila, and Sabatha, and Rhegma, and Sabathaca. And the sons of Rhegma, Saba, and Dadan.
+
+### Genesis 10:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Chous begot Nebrod. He began to be a giant upon the earth.
+- brenton: And Chus begot Nebrod: he began to be a giant upon the earth.
+
+### Genesis 10:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He was a giant hunter before the Lord God. Therefore they will say, Like Nebrod, a giant hunter before the Lord.
+- brenton: He was a giant hunter before the Lord God; therefore they say, As Nebrod the giant hunter before the Lord.
+
+### Genesis 10:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the beginning of his kingdom came to be Babylon and Orech and Archad and Chalanne in the land of Sennaar.
+- brenton: And the beginning of his kingdom was Babylon, and Orech, and Archad, and Chalanne, in the land of Senaar.
+
+### Genesis 10:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From that land Asshur went out and built Nineveh and Rooboth-city and Chalach,
+- brenton: Out of that land came Assur, and built Ninevi, and the city Rhooboth, and Chalach,
+
+### Genesis 10:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Dase between Nineveh and between Chalach. This is the great city.
+- brenton: and Dase between Ninevi and Chalach: this is the great city.
+
+### Genesis 10:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Mesrain begot the Loudieim and the Enemetieim and the Labieim and the Nephthalieim and the Pathrosonieim,
+- brenton: And Mesrain begot the Ludiim, and the Nephthalim, and the Enemetiim, and the Labiim,
+
+### Genesis 10:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Chasloniem, from where the Phylistieim came out, and the Caphtorieim.
+- brenton: and the Patrosoniim, and the Chasmoniim (whence came forth Phylistiim) and the Gaphthoriim.
+
+### Genesis 10:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Canaan begot Sidon his firstborn,
+- brenton: And Chanaan begot Sidon his first-born, and the Chettite,
+
+### Genesis 10:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Hettite and the Jebusite and the Amorrite and the Gergesite and the Evite and the Aroukite,
+- brenton: and the Jebusite, and the Amorite, and the Girgashite,
+
+### Genesis 10:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Asennaite and the Aradian and the Samaraian and the Amathi.
+- brenton: and the Evite, and the Arukite, and the Asennite,
+
+### Genesis 10:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after this the tribes of the Canaanites were scattered.
+- brenton: and the Aradian, and the Samarean, and the Amathite; and after this the tribes of the Chananites were dispersed.
+
+### Genesis 10:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the borders of the Canaanites came to be from Sidon until one comes to Gerara and Gaza, until one comes as far as Sodom and Gomorrah, Adama and Seboim, as far as Dasa.
+- brenton: And the boundaries of the Chananites were from Sidon till one comes to Gerara and Gaza, till one comes to Sodom and Gomorrha, Adama and Seboim, as far as Dasa.
+
+### Genesis 10:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are sons of Ham, in their tribes, according to their tongues, in their lands and in their nations.
+- brenton: These were the sons of Cham in their tribes according to their tongues, in their countries, and in their nations.
+
+### Genesis 10:21
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Shem, to him also, father of all the sons of Eber, brother of Japheth the greater, sons were born.
+- brenton: And to Sem himself also were children born, the father of all the sons of Heber, the brother of Japheth the elder.
+
+### Genesis 10:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Shem: Elam and Asshur and Arphaxad and Loud and Aram and Cainan.
+- brenton: Sons of Sem, Elam, and Assur, and Arphaxad, and Lud, and Aram, and Cainan.
+
+### Genesis 10:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Aram: Ouz and Oul and Gather and Mosoch.
+- brenton: And sons of Aram, Uz, and Ul, and Gater, and Mosoch.
+
+### Genesis 10:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Arphaxad begot Cainan, and Cainan begot Sala, and Sala begot Eber.
+- brenton: And Arphaxad begot Cainan, and Cainan begot Sala. And Sala begot Heber.
+
+### Genesis 10:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Eber two sons were born. The name of one was Phaleg, because in his days the earth was divided, and the name of his brother was Jektan.
+- brenton: And to Heber were born two sons, the name of the one, Phaleg, because in his days the earth was divided, and the name of his brother Jektan.
+
+### Genesis 10:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jektan begot Elmodad and Saleth and Sarmoth and Jarach and Odorra and Aibel and Decla,
+- brenton: And Jektan begot Elmodad, and Saleth, and Sarmoth, and Jarach,
+
+### Genesis 10:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Eual and Abimael and Saba,
+- brenton: and Odorrha, and Aibel, and Decla,
+
+### Genesis 10:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Oupheir and Eveila and Jobab.
+- brenton: and Eval, and Abimael, and Saba,
+
+### Genesis 10:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All these were sons of Jektan.
+- brenton: and Uphir, and Evila, and Jobab, all these were the sons of Jektan.
+
+### Genesis 10:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their dwelling came to be from Masse, until one comes to Saphira, a mountain of the east.
+- brenton: And their dwelling was from Masse, till one comes to Saphera, a mountain of the east.
+
+### Genesis 10:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are sons of Shem, in their tribes, according to their tongues, in their lands and in their nations.
+- brenton: These were the sons of Sem in their tribes, according to their tongues, in their countries, and in their nations.
+
+### Genesis 10:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the tribes of the sons of Noah according to their generations, according to their nations. From these the islands of the nations were scattered over the earth after the flood.
+- brenton: These are the tribes of the sons of Noe, according to their generations, according to their nations: of them were the islands of the Gentiles scattered over the earth after the flood.
+
+### Genesis 11:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And all the earth was one lip, and one voice for all.
+- brenton: And all the earth was one lip, and there was one language to all.
+
+### Genesis 11:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to be when they moved from the east, they found a plain in the land of Sennaar and lived there.
+- brenton: And it came to pass as they moved from the east, they found a plain in the land of Senaar, and they dwelt there.
+
+### Genesis 11:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a person said to his neighbor, Come, let us make bricks and bake them with fire. And the brick became stone for them, and bitumen was clay for them.
+- brenton: And a man said to his neighbour, Come, let us make bricks and bake them with fire. And the brick was to them for stone, and their mortar was bitumen.
+
+### Genesis 11:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, Come, let us build for ourselves a city and a tower whose top will be as far as heaven, and let us make a name for ourselves before we are scattered over the face of all the earth.
+- brenton: And they said, Come, let us build to ourselves a city and tower, whose top shall be to heaven, and let us make to ourselves a name, before we are scattered abroad upon the face of all the earth.
+
+### Genesis 11:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord came down to see the city and the tower that the sons of men built.
+- brenton: And the Lord came down to see the city and the tower, which the sons of men built.
+
+### Genesis 11:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, Look, one race and one lip for all, and this they have begun to do, and now nothing will fail from them, whatever they may set themselves to do.
+- brenton: And the Lord said, Behold, there is one race, and one lip of all, and they have begun to do this, and now nothing shall fail from them of all that they may have undertaken to do.
+
+### Genesis 11:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Come, and having come down, let us confuse their tongue there, so that each may not hear the voice of his neighbor.
+- brenton: Come, and having gone down let us there confound their tongue, that they may not understand each the voice of his neighbour.
+
+### Genesis 11:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord scattered them from there over the face of all the earth, and they stopped building the city and the tower.
+- brenton: And the Lord scattered them thence over the face of all the earth, and they left off building the city and the tower.
+
+### Genesis 11:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Because of this its name was called Confusion, because there the Lord confused the lips of all the earth, and from there the Lord scattered them over the face of all the earth.
+- brenton: On this account its name was called Confusion, because there the Lord confounded the languages of all the earth, and thence the Lord scattered them upon the face of all the earth.
+
+### Genesis 11:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the generations of Shem. And Shem was one hundred years old when he begot Arphaxad, in the second year after the flood.
+- brenton: And these are the generations of Sem: and Sem was a hundred years old when he begot Arphaxad, the second year after the flood.
+
+### Genesis 11:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Shem lived after begetting Arphaxad five hundred years, and begot sons and daughters, and died.
+- brenton: And Sem lived, after he had begotten Arphaxad, five hundred years, and begot sons and daughters, and died.
+
+### Genesis 11:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Arphaxad lived one hundred and thirty-five years and begot Cainan.
+- brenton: And Arphaxad lived a hundred and thirty-five years, and begot Cainan.
+
+### Genesis 11:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Arphaxad lived after begetting Cainan four hundred years, and begot sons and daughters, and died. And Cainan lived one hundred and thirty years and begot Sala. And Cainan lived after begetting Sala three hundred and thirty years, and begot sons and daughters, and died.
+- brenton: And Arphaxad lived after he had begotten Cainan, four hundred years, and begot sons and daughters, and died. And Cainan lived a hundred and thirty years and begot Sala; and Cainan lived after he had begotten Sala, three hundred and thirty years, and begot sons and daughters, and died.
+
+### Genesis 11:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sala lived one hundred and thirty years and begot Eber.
+- brenton: And Sala lived an hundred and thirty years, and begot Heber.
+
+### Genesis 11:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sala lived after begetting Eber three hundred and thirty years, and begot sons and daughters, and died.
+- brenton: And Sala lived after he had begotten Heber, three hundred and thirty years, and begot sons and daughters, and died.
+
+### Genesis 11:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eber lived one hundred and thirty-four years and begot Phaleg.
+- brenton: And Heber lived an hundred and thirty-four years, and begot Phaleg.
+
+### Genesis 11:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eber lived after begetting Phaleg two hundred and seventy years, and begot sons and daughters, and died.
+- brenton: And Heber lived after he had begotten Phaleg two hundred and seventy years, and begot sons and daughters, and died.
+
+### Genesis 11:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Phaleg lived one hundred and thirty years and begot Ragau.
+- brenton: And Phaleg lived an hundred and thirty years, and begot Ragau.
+
+### Genesis 11:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Phaleg lived after begetting Ragau two hundred and nine years, and begot sons and daughters, and died.
+- brenton: And Phaleg lived after he had begotten Ragau, two hundred and nine years, and begot sons and daughters, and died.
+
+### Genesis 11:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ragau lived one hundred and thirty-two years and begot Serouch.
+- brenton: And Ragau lived an hundred thirty and two years, and begot Seruch.
+
+### Genesis 11:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ragau lived after begetting Serouch two hundred and seven years, and begot sons and daughters, and died.
+- brenton: And Ragau lived after he had begotten Seruch, two hundred and seven years, and begot sons and daughters, and died.
+
+### Genesis 11:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Serouch lived one hundred and thirty years and begot Nachor.
+- brenton: And Seruch lived a hundred and thirty years, and begot Nachor.
+
+### Genesis 11:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Serouch lived after begetting Nachor two hundred years, and begot sons and daughters, and died.
+- brenton: And Seruch lived after he had begotten Nachor, two hundred years, and begot sons and daughters, and died.
+
+### Genesis 11:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Nachor lived one hundred and seventy-nine years and begot Thara.
+- brenton: And Nachor lived a hundred and seventy-nine years, and begot Tharrha.
+
+### Genesis 11:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Nachor lived after begetting Thara one hundred and twenty-five years, and begot sons and daughters, and died.
+- brenton: And Nachor lived after he had begotten Tharrha, an hundred and twenty-five years, and begot sons and daughters, and he died.
+
+### Genesis 11:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Thara lived seventy years and begot Abram and Nachor and Arran.
+- brenton: And Tharrha lived seventy years, and begot Abram, and Nachor, and Arrhan.
+
+### Genesis 11:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the generations of Thara. Thara begot Abram and Nachor and Arran, and Arran begot Lot.
+- brenton: And these are the generations of Tharrha. Tharrha begot Abram and Nachor, and Arrhan; and Arrhan begot Lot.
+
+### Genesis 11:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Arran died before Thara his father in the land where he was born, in the country of the Chaldeans.
+- brenton: And Arrhan died in the presence of Tharrha his father, in the land in which he was born, in the country of the Chaldees.
+
+### Genesis 11:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram and Nachor took wives for themselves. The name of Abram's wife was Sara, and the name of Nachor's wife was Melcha, daughter of Arran, father of Melcha and father of Jescha.
+- brenton: And Abram and Nachor took to themselves wives, the name of the wife of Abram was Sara, and the name of the wife of Nachor, Malcha, daughter of Arrhan, and he was the father of Malcha, the father of Jescha.
+
+### Genesis 11:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sara was barren and was not bearing children.
+- brenton: And Sara was barren, and did not bear children.
+
+### Genesis 11:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Thara took Abram his son and Lot son of Arran, son of his son, and Sara his daughter-in-law, wife of Abram his son, and brought them out from the country of the Chaldeans to go into the land of Canaan. And they came as far as Charran, and he lived there.
+- brenton: And Tharrha took Abram his son, and Lot the son of Arrhan, the son of his son, and Sara his daughter-in-law, the wife of Abram his son, and led them forth out of the land of the Chaldees, to go into the land of Chanaan, and they came as far as Charrhan, and he dwelt there.
+
+### Genesis 11:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the days of Thara in the land of Charran were two hundred and five years, and Thara died in Charran.
+- brenton: And all the days of Tharrha in the land of Charrhan were two hundred and five years, and Tharrha died in Charrhan.
+
+### Genesis 12:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Abram, Go out from your land and from your kin and from your father's house, and come into the land that I will show you.
+- brenton: And the Lord said to Abram, Go forth out of thy land and out of thy kindred, and out of the house of thy father, and come into the land which I shall shew thee.
+
+### Genesis 12:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will make you into a great nation, and I will bless you and magnify your name, and you shall be blessed.
+- brenton: And I will make thee a great nation, and I will bless thee and magnify thy name, and thou shalt be blessed.
+
+### Genesis 12:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will bless those blessing you, and those cursing you I will curse. And in you all the tribes of the earth shall be blessed.
+- brenton: And I will bless those that bless thee, and curse those that curse thee, and in thee shall all the tribes of the earth be blessed.
+
+### Genesis 12:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram went, just as the Lord spoke to him, and Lot went away with him. Abram was seventy-five years old when he went out from Charran.
+- brenton: And Abram went as the Lord spoke to him, and Lot departed with him, and Abram was seventy-five years old, when he went out of Charrhan.
+
+### Genesis 12:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram took Sarai his wife and Lot the son of his brother and all their possessions, as many as they had acquired, and every person whom they had acquired in Charran, and they went out to go into the land of Canaan.
+- brenton: And Abram took Sara his wife, and Lot the son of his brother, and all their possessions, as many as they had got, and every soul which they had got in Charrhan, and they went forth to go into the land of Chanaan.
+
+### Genesis 12:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram passed through the land through its length as far as the place Sychem, to the high oak. And the Canaanites then inhabited the land.
+- brenton: And Abram traversed the land lengthwise as far as the place Sychem, to the high oak, and the Chananites then inhabited the land.
+
+### Genesis 12:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord appeared to Abram and said to him, To your seed I will give this land. And Abram built there an altar to the Lord who had appeared to him.
+- brenton: And the Lord appeared to Abram, and said to him, I will give this land to thy seed. And Abram built an altar there to the Lord, who appeared to him.
+
+### Genesis 12:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he departed from there to the mountain east of Bethel and pitched his tent there, Bethel toward the sea and Aggai toward the east. And he built there an altar to the Lord and called on the name of the Lord.
+- brenton: And he departed thence to the mountain eastward of Bæthel, and there he pitched his tent in Bæthel near the sea, and Aggai toward the east, and there he built an altar to the Lord, and called on the name of the Lord.
+
+### Genesis 12:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram set out, and going on, camped in the wilderness.
+- brenton: And Abram departed and went and encamped in the wilderness.
+
+### Genesis 12:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a famine came upon the land, and Abram went down into Egypt to live as a foreigner there, because the famine grew strong upon the land.
+- brenton: And there was a famine in the land, and Abram went down to Egypt to sojourn there, because the famine prevailed in the land.
+
+### Genesis 12:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Abram drew near to enter Egypt, Abram said to Sarai his wife, I know that you are a woman beautiful in face.
+- brenton: And it came to pass when Abram drew nigh to enter into Egypt, Abram said to Sara his wife, I know that thou art a fair woman.
+
+### Genesis 12:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then it will be, when the Egyptians see you, they will say, This is his wife. And they will kill me, but preserve you.
+- brenton: It shall come to pass then that when the Egyptians shall see thee, they shall say, This is his wife, and they shall slay me, but they shall save thee alive.
+
+### Genesis 12:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Say then, I am his sister, so that it may go well for me because of you, and my life will keep living because of you.
+- brenton: Say, therefore, I am his sister, that it may be well with me on account of thee, and my soul shall live because of thee.
+
+### Genesis 12:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Abram entered Egypt, the Egyptians saw his wife, that she was very beautiful.
+- brenton: And it came to pass when Abram entered into Egypt—the Egyptians having seen his wife that she was very beautiful—
+
+### Genesis 12:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh's rulers saw her and praised her to Pharaoh, and they brought her into Pharaoh's house.
+- brenton: that the princes of Pharao saw her, and praised her to Pharao and brought her into the house of Pharao.
+
+### Genesis 12:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they treated Abram well because of her, and he came to have sheep and calves and donkeys and male-servants and female-servants and mules and camels.
+- brenton: And they treated Abram well on her account, and he had sheep, and calves, and asses, and men-servants, and women-servants, and mules, and camels.
+
+### Genesis 12:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God afflicted Pharaoh with great and grievous afflictions, and his house, because of Sarai Abram's wife.
+- brenton: And God afflicted Pharao with great and severe afflictions, and his house, because of Sara, Abram's wife.
+
+### Genesis 12:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh called Abram and said, What is this you have done to me, that you did not report to me that she is your wife?
+- brenton: And Pharao having called Abram, said, What is this thou hast done to me, that thou didst not tell me that she was thy wife?
+
+### Genesis 12:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Why did you say, She is my sister? And I took her for myself as a wife. And now look, your wife before you. Take her and hurry away.
+- brenton: Wherefore didst thou say, She is my sister? and I took her for a wife to myself; and now, behold, thy wife is before thee, take her and go quickly away.
+
+### Genesis 12:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh instructed men concerning Abram to send him on, and his wife, and all that was his.
+- brenton: And Pharao gave charge to men concerning Abram, to join in sending him forward, and his wife, and all that he had.
+
+### Genesis 13:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram went up from Egypt, he and his wife and all that was his and Lot with him, into the wilderness.
+- brenton: And Abram went up out of Egypt, he and his wife, and all that he had, and Lot with him, into the wilderness.
+
+### Genesis 13:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram was very rich in livestock and silver and gold.
+- brenton: And Abram was very rich in cattle, and silver, and gold.
+
+### Genesis 13:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he went to the place from which he had come into the wilderness as far as Bethel, as far as the place where his tent had been before, between Bethel and Aggai,
+- brenton: And he went to the place whence he came, into the wilderness as far as Bæthel, as far as the place where his tent was before, between Bæthel and Aggai,
+
+### Genesis 13:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to the place of the altar that he had made there at the beginning. And Abram called on the name of the Lord there.
+- brenton: to the place of the altar, which he built there at first, and Abram there called on the name of the Lord.
+
+### Genesis 13:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lot, who was traveling with Abram, had sheep and oxen and tents.
+- brenton: And Lot who went out with Abram had sheep, and oxen, and tents.
+
+### Genesis 13:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land had no room for them to live together, because their possessions were many, and the land had no room for them to live together.
+- brenton: And the land was not large enough for them to live together, because their possessions were great; and the land was not large enough for them to live together.
+
+### Genesis 13:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a conflict arose between the shepherds of Abram's livestock and the shepherds of Lot's livestock. And the Canaanites and the Perizzites then inhabited the land.
+- brenton: And there was a strife between the herdmen of Abram's cattle, and the herdmen of Lot's cattle, and the Chananites and the Pherezites then inhabited the land.
+
+### Genesis 13:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram said to Lot, Let there not be a conflict between me and you and between my shepherds and your shepherds, because we are human brothers.
+- brenton: And Abram said to Lot, Let there not be a strife between me and thee, and between my herdmen and thy herdmen, for we are brethren.
+
+### Genesis 13:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, is not all the land before you? Separate yourself from me. If you go left, I will go right. If you go right, I will go left.
+- brenton: Lo! is not the whole land before thee? Separate thyself from me; if thou goest to the left, I will go to the right, and if thou goest to the right, I will go to the left.
+
+### Genesis 13:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Lot lifted up his eyes and saw all the region around the Jordan, that all of it was watered before God overthrew Sodom and Gomorrah, like the garden of God and like the land of Egypt, as far as one comes to Zoar.
+- brenton: And Lot having lifted up his eyes, observed all the country round about Jordan, that it was all watered, before God overthrew Sodom and Gomorrha, as the garden of the Lord, and as the land of Egypt, until thou come to Zogora.
+
+### Genesis 13:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lot chose for himself all the region around the Jordan, and Lot set out from the east, and they were separated, each from his brother.
+- brenton: And Lot chose for himself all the country round Jordan, and Lot went from the east, and they were separated each from his brother. And Abram dwelt in the land of Chanaan.
+
+### Genesis 13:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Abram dwelt in the land of Canaan, but Lot dwelt in a city of the surrounding region and pitched tents in Sodom.
+- brenton: And Lot dwelt in a city of the neighbouring people, and pitched his tent in Sodom.
+
+### Genesis 13:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now the people in Sodom were wicked and sinful before God exceedingly.
+- brenton: But the men of Sodom were evil, and exceedingly sinful before God.
+
+### Genesis 13:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Abram after Lot had separated from him, Lift up your eyes and see from the place where you are now, toward north and south and east and sea.
+- brenton: And God said to Abram after Lot was separated from him, Look up with thine eyes, and behold from the place where thou now art northward and southward, and eastward and seaward;
+
+### Genesis 13:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because all the land that you see, I will give it to you and to your seed forever.
+- brenton: for all the land which thou seest, I will give it to thee and to thy seed for ever.
+
+### Genesis 13:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will make your seed like the sand of the earth. If anyone can number the sand of the earth, then your seed also shall be numbered.
+- brenton: And I will make thy seed like the dust of the earth; if any one is able to number the dust of the earth, then shall thy seed be numbered.
+
+### Genesis 13:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Rise, go through the land into its length and into its breadth, because I will give it to you and to your seed forever.
+- brenton: Arise and traverse the land, both in the length of it and in the breadth; for to thee will I give it, and to thy seed for ever.
+
+### Genesis 13:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram, having moved his tent, came and dwelt by the oak of Mamre, which was in Hebron, and built there an altar to the Lord.
+- brenton: And Abram having removed his tent, came and dwelt by the oak of Mambre, which was in Chebrom, and he there built an altar to the Lord.
+
+### Genesis 14:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in the reign of Amarphal king of Sennaar, and Arioch king of Ellasar, Chodollogomor king of Elam, and Thargal king of nations,
+- brenton: And it came to pass in the reign of Amarphal king of Sennaar, and Arioch king of Ellasar, that Chodollogomor king of Elam, and Thargal king of nations,
+
+### Genesis 14:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: they made war with Balla king of Sodom and with Barsa king of Gomorrah and with Sennaar king of Adama and with Symobor king of Seboim and king of Balak, this is Segor.
+- brenton: made war with Balla king of Sodom, and with Barsa king of Gomorrha, and with Sennaar, king of Adama, and with Symobor king of Seboim and the king of Balac, this is Segor.
+
+### Genesis 14:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All these joined together at the salt valley. This is the Salt Sea.
+- brenton: All these met with one consent at the salt valley; this is now the sea of salt.
+
+### Genesis 14:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For twelve years they served Chodollogomor, but in the thirteenth year they revolted.
+- brenton: Twelve years they served Chodollogomor, and the thirteenth year they revolted.
+
+### Genesis 14:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the fourteenth year Chodollogomor came, and the kings with him, and they cut down the giants in Astaroth and Karnaim, and strong nations with them, and the Ommaeans in the city Save,
+- brenton: And in the fourteenth year came Chodollogomor, and the kings with him, and cut to pieces the giants in Astaroth, and Carnain, and strong nations with them, and the Ommæans in the city Save.
+
+### Genesis 14:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Chorraeans in the mountains of Seir, as far as the terebinth of Pharan, which is in the wilderness.
+- brenton: And the Chorrhæans in the mountains of Seir, to the turpentine tree of Pharan, which is in the desert.
+
+### Genesis 14:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And having turned back they came to the spring of judgment, this is Kades, and they cut down all the rulers of Amalek and the Amorites dwelling in Asasonthamar.
+- brenton: And having turned back they came to the well of judgment; this is Cades, and they cut in pieces all the princes of Amalec, and the Amorites dwelling in Asasonthamar.
+
+### Genesis 14:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the king of Sodom went out, and the king of Gomorrah and king of Adama and king of Seboim and king of Balak, this is Segor, and they drew up against them for war in the salt valley,
+- brenton: And the king of Sodom went out, and the king of Gomorrha, and king of Adama, and king of Seboim, and king of Balac, this is Segor, and they set themselves in array against them for war in the salt valley,
+
+### Genesis 14:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: against Chodollogomor king of Elam and Thargal king of nations and Amarphal king of Sennaar and Arioch king of Ellasar, four kings against the five.
+- brenton: against Chodollogomor king of Elam, and Thargal king of nations, and Amarphal king of Sennaar, and Arioch king of Ellasar, the four kings against the five.
+
+### Genesis 14:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now the salt valley had wells of asphalt. And the king of Sodom fled, and the king of Gomorrah, and they fell there. But those left behind fled into the mountain country.
+- brenton: Now the salt valley consists of slime-pits. And the king of Sodom fled and the king of Gomorrha, and they fell in there: and they that were left fled to the mountain country.
+
+### Genesis 14:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they took all the cavalry of Sodom and Gomorrah, and all their provisions, and went away.
+- brenton: And they took all the cavalry of Sodom and Gomorrha, and all their provisions, and departed.
+
+### Genesis 14:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took Lot also, the son of Abram's brother, and his baggage, and went away, for he was dwelling in Sodom.
+- brenton: And they took also Lot the son of Abram's brother, and his baggage, and departed, for he dwelt in Sodom.
+
+### Genesis 14:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And one of those rescued came and reported to Abram the Hebrew. He was dwelling by the oak of Mamre the Amorite, brother of Eschol and brother of Aunan, who were Abram's allies.
+- brenton: And one of them that had been rescued came and told Abram the Hebrew; and he dwelt by the oak of Mamre the Amorite the brother of Eschol, and the brother of Aunan, who were confederates with Abram.
+
+### Genesis 14:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram, hearing that Lot his nephew had been taken captive, numbered his own home-born ones, three hundred eighteen, and pursued after them as far as Dan.
+- brenton: And Abram having heard that Lot his nephew had been taken captive, numbered his own home-born servants three hundred and eighteen, and pursued after them to Dan.
+
+### Genesis 14:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he fell upon them by night, he and his servants, and struck them and pursued them as far as Choba, which is left of Damascus.
+- brenton: And he came upon them by night, he and his servants, and he smote them and pursued them as far as Choba, which is on the left of Damascus.
+
+### Genesis 14:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought back all the cavalry of Sodom, and he brought back Lot his nephew and all his possessions and the women and the people.
+- brenton: And he recovered all the cavalry of Sodom, and he recovered Lot his nephew, and all his possessions, and the women and the people.
+
+### Genesis 14:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the king of Sodom went out to meet him after he returned from the slaughter of Chodollogomor and the kings with him, to the valley of Saby. This was the plain of the kings.
+- brenton: And the king of Sodom went out to meet him, after he returned from the slaughter of Chodollogomor, and the kings with him, to the valley of Saby; this was the plain of the kings.
+
+### Genesis 14:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Melchisedec king of Salem brought out loaves and wine. He was priest of God Most High.
+- brenton: And Melchisedec king of Salem brought forth loaves and wine, and he was the priest of the most high God.
+
+### Genesis 14:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he blessed Abram and said, Blessed be Abram by God Most High, who created heaven and earth.
+- brenton: And he blessed Abram, and said, Blessed be Abram of the most high God, who made heaven and earth,
+
+### Genesis 14:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And blessed be God Most High, who delivered your enemies under your hand. And Abram gave him a tenth of everything.
+- brenton: and blessed be the most high God who delivered thine enemies into thy power. And Abram gave him the tithe of all.
+
+### Genesis 14:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the king of Sodom said to Abram, Give me the men, but take the cavalry for yourself.
+- brenton: And the king of Sodom said to Abram, Give me the men, and take the horses to thyself.
+
+### Genesis 14:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram said to the king of Sodom, I will stretch out my hand to the Lord, God Most High, who created heaven and earth,
+- brenton: And Abram said to the king of Sodom, I will stretch out my hand to the Lord the most high God, who made the heaven and the earth,
+
+### Genesis 14:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: that I will not take anything from all that is yours, from a cord to a sandal-thong, so that you may not say, I made Abram rich.
+- brenton: that I will not take from all thy goods from a string to a shoe-latchet, lest thou shouldest say, I have made Abram rich.
+
+### Genesis 14:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Except what the young men have eaten and the share of the men who went with me, Eschol, Aunan, Mamre. Let these take a share.
+- brenton: Except what things the young men have eaten, and the portion of the men that went with me, Eschol, Aunan, Mambre, these shall take a portion.
+
+### Genesis 15:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: After these words the word of the Lord came to Abram in a vision, saying, Do not fear, Abram. I shield you. Your reward shall be very great.
+- brenton: And after these things the word of the Lord came to Abram in a vision, saying, Fear not, Abram, I shield thee, thy reward shall be very great.
+
+### Genesis 15:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Abram said, Master Lord, what will you give me? I am being dismissed childless. And the son of Masek of my home-born household, this is Damascus Eliezer.
+- brenton: And Abram said, Master and Lord, what wilt thou give me? whereas I am departing without a child, but the son of Masek my home-born female slave, this Eliezer of Damascus is mine heir.
+
+### Genesis 15:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram said, Since you have not given me seed, my home-born one will inherit for me.
+- brenton: And Abram said, I am grieved since thou hast given me no seed, but my home-born servant shall succeed me.
+
+### Genesis 15:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And immediately a voice of the Lord came to him, saying, This one shall not inherit you, but the one coming out from you, this one shall inherit you.
+- brenton: And immediately there was a voice of the Lord to him, saying, This shall not be thine heir; but he that shall come out of thee shall be thine heir.
+
+### Genesis 15:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought him outside and said to him, Look up now to heaven and count the stars, if you can fully number them. And he said, So shall your seed be.
+- brenton: And he brought him out and said to him, Look up now to heaven, and count the stars, if thou shalt be able to number them fully, and he said, Thus shall thy seed be.
+
+### Genesis 15:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Abram believed God, and it was reckoned to him as righteousness.
+- brenton: And Abram believed God, and it was counted to him for righteousness.
+
+### Genesis 15:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, I am God who brought you out from the land of the Chaldeans, so as to give you this land to inherit.
+- brenton: And he said to him, I am God that brought thee out of the land of the Chaldeans, so as to give thee this land to inherit.
+
+### Genesis 15:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Master Lord, by what shall I know that I will inherit it?
+- brenton: And he said, Master and Lord, how shall I know that I shall inherit it?
+
+### Genesis 15:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, Take for me a heifer in her third year and a she-goat in her third year and a ram in his third year and a turtledove and a pigeon.
+- brenton: And he said to him, Take for me an heifer in her third year, and a she-goat in her third year, and a ram in his third year, and a dove and a pigeon.
+
+### Genesis 15:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So he took all these for him and divided them in the middle and placed them opposite each other. But the birds he did not divide.
+- brenton: So he took to him all these, and divided them in the midst, and set them opposite to each other, but the birds he did not divide.
+
+### Genesis 15:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And birds came down on the bodies, on their cut pieces, and Abram sat with them.
+- brenton: And birds came down upon the bodies, even upon the divided parts of them, and Abram sat down by them.
+
+### Genesis 15:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And about sunset a trance fell upon Abram, and look, a great dark fear falls upon him.
+- brenton: And about sunset a trance fell upon Abram, and lo! a great gloomy terror falls upon him.
+
+### Genesis 15:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it was said to Abram, Knowing you shall know that your seed will be a foreigner in a land not its own, and they will enslave them and afflict them and humble them four hundred years.
+- brenton: And it was said to Abram, Thou shalt surely know that thy seed shall be a sojourner in a land not their own, and they shall enslave them, and afflict them, and humble them four hundred years.
+
+### Genesis 15:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But the nation to which they will serve, I will judge. And after these things they will come out here with much baggage.
+- brenton: And the nation whomsoever they shall serve I will judge; and after this, they shall come forth hither with much property.
+
+### Genesis 15:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But you shall depart to your fathers in peace, nourished in good old age.
+- brenton: But thou shalt depart to thy fathers in peace, nourished in a good old age.
+
+### Genesis 15:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the fourth generation they will return here, for the sins of the Amorites have not yet been filled up until now.
+- brenton: And in the fourth generation they shall return hither, for the sins of the Amorites are not yet filled up, even until now.
+
+### Genesis 15:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the sun had gone down, flame came to be, and look, a smoking furnace and lamps of fire, which passed between these divided pieces.
+- brenton: And when the sun was about to set, there was a flame, and behold a smoking furnace and lamps of fire, which passed between these divided pieces.
+
+### Genesis 15:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In that day the Lord made a covenant with Abram, saying, To your seed I will give this land, from the river of Egypt as far as the great river, the Euphrates river,
+- brenton: In that day the Lord made a covenant with Abram, saying, To thy seed I will give this land, from the river of Egypt to the great river Euphrates.
+
+### Genesis 15:19
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: the Kenites and the Kenezites and the Kedmoneans,
+- brenton: The Kenites, and the Kenezites, and the Kedmoneans,
+
+### Genesis 15:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Hittites and the Perizzites and the Rephaim,
+- brenton: and the Chettites, and the Pherezites, and the Raphaim,
+
+### Genesis 15:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the Amorites and the Canaanites and the Hivites and the Gergesites and the Jebusites.
+- brenton: and the Amorites, and the Chananites, and the Evites, and the Gergesites, and the Jebusites.
+
+### Genesis 16:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Sarai Abram's wife was not bearing to him. She had an Egyptian servant-girl whose name was Hagar.
+- brenton: And Sara the wife of Abram bore him no children; and she had an Egyptian maid, whose name was Agar.
+
+### Genesis 16:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Sarai said to Abram, Look, the Lord has shut me up from not bearing. Go in then to my servant-girl, so that I may get children through her. And Abram listened to Sarai's voice.
+- brenton: And Sara said to Abram, Behold, the Lord has restrained me from bearing, go therefore in to my maid, that I may get children for myself through her. And Abram hearkened to the voice of Sara.
+
+### Genesis 16:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarai, Abram's wife, took Hagar the Egyptian, her own servant-girl, after Abram had dwelt ten years in the land of Canaan, and gave her to Abram her husband as a wife for him.
+- brenton: So Sara the wife of Abram having taken Agar the Egyptian her handmaid, after Abram had dwelt ten years in the land of Chanaan, gave her to Abram her husband as a wife to him.
+
+### Genesis 16:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he went in to Hagar, and she conceived. And she saw that she was pregnant, and her mistress was dishonored before her.
+- brenton: And he went in to Agar, and she conceived, and saw that she was with child, and her mistress was dishonoured before her.
+
+### Genesis 16:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarai said to Abram, I am being wronged because of you. I gave my servant-girl into your bosom, and when she saw that she was pregnant, I was dishonored before her. God judge between me and you.
+- brenton: And Sara said to Abram, I am injured by thee; I gave my handmaid into thy bosom, and when I saw that she was with child, I was dishonoured before her. The Lord judge between me and thee.
+
+### Genesis 16:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abram said to Sarai, Look, your servant-girl is in your hands. Use her as may seem good to you. And Sarai mistreated her, and she fled from her face.
+- brenton: And Abram said to Sara, Behold thy handmaid is in thy hands, use her as it may seem good to thee. And Sara afflicted her, and she fled from her face.
+
+### Genesis 16:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And an angel of the Lord found her by the spring of water in the wilderness, by the spring on the way to Shur.
+- brenton: And an angel of the Lord found her by the fountain of water in the wilderness, by the fountain in the way to Sur.
+
+### Genesis 16:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the angel of the Lord said to her, Hagar, Sarai's servant-girl, where are you coming from and where are you going? And she said, I am running away from the face of Sarai my mistress.
+- brenton: And the angel of the Lord said to her, Agar, Sara's maid, whence comest thou, and whither goest thou? and she said, I am fleeing from the face of my mistress Sara.
+
+### Genesis 16:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the angel of the Lord said to her, Return to your mistress and humble yourself under her hands.
+- brenton: And the angel of the Lord said to her, Return to thy mistress, and submit thyself under her hands.
+
+### Genesis 16:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the angel of the Lord said to her, Multiplying I will multiply your seed, and it will not be numbered because of the multitude.
+- brenton: And the angel of the Lord said to her, I will surely multiply thy seed, and it shall not be numbered for multitude.
+
+### Genesis 16:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the angel of the Lord said to her, Look, you are pregnant and will bear a son, and you shall call his name Ishmael, because the Lord has hearkened to your humiliation.
+- brenton: And the angel of the Lord said to her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ismael, for the Lord hath hearkened to thy humiliation.
+
+### Genesis 16:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: This one shall be a wild man. His hands against all, and all hands against him, and before the face of all his brothers he shall dwell.
+- brenton: He shall be a wild man, his hands against all, and the hands of all against him, and he shall dwell in the presence of all his brethren.
+
+### Genesis 16:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Hagar called the name of the Lord who was speaking to her, You are God who saw me, because she said, For I have even here seen the one who appeared to me.
+- brenton: And she called the name of the Lord God who spoke to her, Thou art God who seest me; for she said, For I have openly seen him that appeared to me.
+
+### Genesis 16:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because of this she called the well, The well of the one whom I saw before me. Look, it is between Kadesh and Barad.
+- brenton: Therefore she called the well, The well of him whom I have openly seen; behold it is between Cades and Barad.
+
+### Genesis 16:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Hagar bore a son to Abram, and Abram called the name of his son, whom Hagar bore to him, Ishmael.
+- brenton: And Agar bore a son to Abram; and Abram called the name of his son which Agar bore to him, Ismael.
+
+### Genesis 16:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+- brenton: And Abram was eighty-six years old, when Agar bore Ismael to Abram.
+
+### Genesis 17:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Abram became ninety-nine years old, and the Lord appeared to Abram and said to him, I am your God. Be well-pleasing before me and become blameless.
+- brenton: And Abram was ninety-nine years old, and the Lord appeared to Abram and said to him, I am thy God, be well-pleasing before me, and be blameless.
+
+### Genesis 17:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will place my covenant between me and you and will multiply you exceedingly.
+- brenton: And I will establish my covenant between me and thee, and I will multiply thee exceedingly.
+
+### Genesis 17:3
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Abram fell upon his face, and God spoke to him, saying,
+- brenton: And Abram fell upon his face, and God spoke to him, saying,
+
+### Genesis 17:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I, look, my covenant is with you, and you shall be father of a multitude of nations,
+- brenton: And I, behold! my covenant is with thee, and thou shalt be a father of a multitude of nations.
+
+### Genesis 17:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And your name shall no longer be called Abram, but your name shall be Abraham, because I have made you father of many nations.
+- brenton: And thy name shall no more be called Abram, but thy name shall be Abraam, for I have made thee a father of many nations.
+
+### Genesis 17:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will increase you very exceedingly and make you into nations, and kings shall come out from you.
+- brenton: And I will increase thee very exceedingly, and I will make nations of thee, and kings shall come out of thee.
+
+### Genesis 17:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you.
+- brenton: And I will establish my covenant between thee and thy seed after thee, to their generations, for an everlasting covenant, to be thy God, and the God of thy seed after thee.
+
+### Genesis 17:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will give to you and to your seed after you the land that you are living as a foreigner in, all the land of Canaan, for an everlasting possession, and I will be God to them.
+- brenton: And I will give to thee and to thy seed after thee the land wherein thou sojournest, even all the land of Chanaan for an everlasting possession, and I will be to them a God.
+
+### Genesis 17:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Abraham, And you, you shall keep my covenant, you and your seed after you throughout their generations.
+- brenton: And God said to Abraam, Thou also shalt fully keep my covenant, thou and thy seed after thee for their generations.
+
+### Genesis 17:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the covenant which you shall keep, between me and you and your seed after you throughout their generations: every male among you shall be circumcised.
+- brenton: And this is the covenant which thou shalt fully keep between me and you, and between thy seed after thee for their generations; every male of you shall be circumcised.
+
+### Genesis 17:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall circumcise the flesh of your foreskin, and it shall be for a sign of covenant between me and you.
+- brenton: And ye shall be circumcised in the flesh of your foreskin, and it shall be for a sign of a covenant between me and you.
+
+### Genesis 17:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a child of eight days shall be circumcised by you, every male throughout your generations, the home-born and the silver-bought, from every son of a foreigner who is not of your seed.
+- brenton: And the child of eight days old shall be circumcised by you, every male throughout your generations, and the servant born in the house and he that is bought with money, of every son of a stranger, who is not of thy seed.
+
+### Genesis 17:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By circumcision the home-born of your house and the one bought with silver shall be circumcised, and my covenant shall be on your flesh as an everlasting covenant.
+- brenton: He that is born in thy house, and he that is bought with money shall be surely circumcised, and my covenant shall be on your flesh for an everlasting covenant.
+
+### Genesis 17:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the uncircumcised male, who will not circumcise the flesh of his foreskin on the eighth day, that life shall be utterly destroyed from its kind, because he has scattered my covenant.
+- brenton: And the uncircumcised male, who shall not be circumcised in the flesh of his foreskin on the eighth day, that soul shall be utterly destroyed from its family, for he has broken my covenant.
+
+### Genesis 17:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Abraham, Sarai your wife, her name shall not be called Sarai, but Sarah shall be her name.
+- brenton: And God said to Abraam, Sara thy wife—her name shall not be called Sara, Sarrha shall be her name.
+
+### Genesis 17:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will bless her, and I will give you a child from her. And I will bless him, and he shall become nations, and kings of nations shall come from him.
+- brenton: And I will bless her, and give thee a son of her, and I will bless him, and he shall become nations, and kings of nations shall be of him.
+
+### Genesis 17:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham fell upon his face and laughed, and said in his mind, Shall a son be born to one who is a hundred years old? And shall Sarah, being ninety years old, bear?
+- brenton: And Abraam fell upon his face, and laughed; and spoke in his heart, saying, Shall there be a child to one who is a hundred years old, and shall Sarrha who is ninety years old, bear?
+
+### Genesis 17:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said to God, Let this Ishmael live before you.
+- brenton: And Abraam said to God, Let this Ismael live before thee.
+
+### Genesis 17:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Abraham, Yes. Look, Sarah your wife shall bear you a son, and you shall call his name Isaac. And I will establish my covenant with him as an everlasting covenant, to be God to him and to his seed after him.
+- brenton: And God said to Abraam, Yea, behold, Sarrha thy wife shall bear thee a son, and thou shalt call his name Isaac; and I will establish my covenant with him, for an everlasting covenant, to be a God to him and to his seed after him.
+
+### Genesis 17:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And concerning Ishmael, look, I have heard you. And look, I have blessed him and will increase him and multiply him exceedingly. He shall beget twelve nations, and I will make him into a great nation.
+- brenton: And concerning Ismael, behold, I have heard thee, and, behold, I have blessed him, and will increase him and multiply him exceedingly; twelve nations shall he beget, and I will make him a great nation.
+
+### Genesis 17:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time in the next year.
+- brenton: But I will establish my covenant with Isaac, whom Sarrha shall bear to thee at this time, in the next year.
+
+### Genesis 17:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He finished speaking with him, and God went up from Abraham.
+- brenton: And he left off speaking with him, and God went up from Abraam.
+
+### Genesis 17:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham took Ishmael his son and all his home-born ones and all those bought with silver and every male of the men in Abraham's house, and circumcised their foreskins in the time of that very day, just as God spoke to him.
+- brenton: And Abraam took Ismael his son, and all his home-born servants, and all those bought with money, and every male of the men in the house of Abraam, and he circumcised their foreskins in the time of that day, according as God spoke to him.
+
+### Genesis 17:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Abraham was ninety-nine years old when he circumcised the flesh of his foreskin.
+- brenton: And Abraam was ninety-nine years old, when he was circumcised in the flesh of his foreskin.
+
+### Genesis 17:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Ishmael his son was thirteen years old when he circumcised the flesh of his foreskin.
+- brenton: And Ismael his son was thirteen years old when he was circumcised in the flesh of his foreskin.
+
+### Genesis 17:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: At the time of that day Abraham was circumcised, and Ishmael his son,
+- brenton: And at the period of that day, Abraam was circumcised, and Ismael his son,
+
+### Genesis 17:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the men of his house, the home-born and the silver-bought from foreign nations, he circumcised them.
+- brenton: and all the men of his house, both those born in the house, and those bought with money of foreign nations.
+
+### Genesis 18:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God appeared to him by the oak of Mamre, as he sat at the door of his tent at midday.
+- brenton: And God appeared to him by the oak of Mambre, as he sat by the door of his tent at noon.
+
+### Genesis 18:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Looking up with his eyes he saw, and look, three men stood over him. And seeing, he ran to meet them from the door of his tent and bowed to the ground.
+- brenton: And he lifted up his eyes and beheld, and lo! three men stood before him; and having seen them he ran to meet them from the door of his tent, and did obeisance to the ground.
+
+### Genesis 18:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Lord, if I have found favor before you, do not pass by your servant.
+- brenton: And he said, Lord, if indeed I have found grace in thy sight, pass not by thy servant.
+
+### Genesis 18:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let water be taken, and let them wash your feet, and cool yourselves under the tree.
+- brenton: Let water now be brought, and let them wash your feet, and do ye refresh yourselves under the tree.
+
+### Genesis 18:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will take bread, and you shall eat, and after this you shall go on your way, because for this reason you turned aside to your servant. And they said, Do so, just as you have said.
+- brenton: And I will bring bread, and ye shall eat, and after this ye shall depart on your journey, on account of which refreshment ye have turned aside to your servant. And he said, So do, as thou hast said.
+
+### Genesis 18:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham hurried to the tent to Sarah and said to her, Hurry and knead three measures of fine flour and make hearth-cakes.
+- brenton: And Abraam hasted to the tent to Sarrha, and said to her, Hasten, and knead three measures of fine flour, and make cakes.
+
+### Genesis 18:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham ran to the cattle and took a tender and good calf and gave it to the servant-boy, and he hurried to prepare it.
+- brenton: And Abraam ran to the kine, and took a young calf, tender and good, and gave it to his servant, and he hasted to dress it.
+
+### Genesis 18:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he took butter and milk and the calf that he had prepared and set it before them, and they ate. But he stood by them under the tree.
+- brenton: And he took butter and milk, and the calf which he had dressed; and he set them before them, and they did eat, and he stood by them under the tree.
+
+### Genesis 18:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to him, Where is Sarah your wife? And answering he said, Look, in the tent.
+- brenton: And he said to him, Where is Sarrha thy wife? And he answered and said, Behold! in the tent.
+
+### Genesis 18:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Returning I will come to you at this season in due time, and Sarah your wife shall have a son. Sarah heard at the door of the tent, being behind him.
+- brenton: And he said, I will return and come to thee according to this period seasonably, and Sarrha thy wife shall have a son; and Sarrha heard at the door of the tent, being behind him.
+
+### Genesis 18:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham and Sarah were old, advanced in days, and the things of women had ceased to be with Sarah.
+- brenton: And Abraam and Sarrha were old, advanced in days, and the custom of women ceased with Sarrha.
+
+### Genesis 18:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah laughed in herself, saying, It has not happened to me until now, and my lord is old.
+- brenton: And Sarrha laughed in herself, saying, The thing has not as yet happened to me, even until now, and my lord is old.
+
+### Genesis 18:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Abraham, Why is it that Sarah laughed in herself, saying, Shall I truly bear? But I have grown old.
+- brenton: And the Lord said to Abraam, Why is it that Sarrha has laughed in herself, saying, Shall I then indeed bear? but I am grown old.
+
+### Genesis 18:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Shall any word be impossible with God? At this season I will return to you in due time, and Sarah shall have a son.
+- brenton: Shall anything be impossible with the Lord? At this time I will return to thee seasonably, and Sarrha shall have a son.
+
+### Genesis 18:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah denied, saying, I did not laugh, for she was afraid. And he said to her, No, but you did laugh.
+- brenton: But Sarrha denied, saying, I did not laugh, for she was afraid. And he said to her, Nay, but thou didst laugh.
+
+### Genesis 18:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men, rising from there, looked down toward Sodom and Gomorrah. But Abraham went with them, sending them on.
+- brenton: And the men having risen up from thence looked towards Sodom and Gomorrha. And Abraam went with them, attending them on their journey.
+
+### Genesis 18:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, Shall I hide from Abraham my servant what I am doing?
+- brenton: And the Lord said, Shall I hide from Abraam my servant what things I intend to do?
+
+### Genesis 18:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham indeed shall become a great and numerous nation, and in him all the nations of the earth shall be blessed.
+- brenton: But Abraam shall become a great and populous nation, and in him shall all the nations of the earth be blest.
+
+### Genesis 18:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+- brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
+
+### Genesis 18:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, The outcry of Sodom and Gomorrah has been multiplied toward me, and their sins are very great.
+- brenton: And the Lord said, The cry of Sodom and Gomorrha has been increased towards me, and their sins are very great.
+
+### Genesis 18:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So coming down I will see whether they are carried out according to their outcry that comes to me. But if not, so that I may know.
+- brenton: I will therefore go down and see, if they completely correspond with the cry which comes to me, and if not, that I may know.
+
+### Genesis 18:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men, turning from there, came to Sodom. But Abraham was still standing before the Lord.
+- brenton: And the men having departed thence, came to Sodom; and Abraam was still standing before the Lord.
+
+### Genesis 18:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham, drawing near, said, Will you sweep away righteous with ungodly, and shall the righteous be like the ungodly?
+- brenton: And Abraam drew nigh and said, Wouldest thou destroy the righteous with the wicked, and shall the righteous be as the wicked?
+
+### Genesis 18:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If there are fifty righteous in the city, will you destroy them? Will you not let the whole place go because of the fifty righteous, if they are in it?
+- brenton: Should there be fifty righteous in the city, wilt thou destroy them? wilt thou not spare the whole place for the sake of the fifty righteous, if they be in it?
+
+### Genesis 18:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By no means will you do according to this word, to kill righteous with ungodly, and the righteous shall be like the ungodly. By no means. The one judging all the earth, will you not do judgment?
+- brenton: By no means shalt thou do as this thing is so as to destroy the righteous with the wicked, so the righteous shall be as the wicked: by no means. Thou that judgest the whole earth, shalt thou not do right?
+
+### Genesis 18:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said, If there are fifty righteous in Sodom in the city, I will spare the whole city and all the place because of them.
+- brenton: And the Lord said, If there should be in Sodom fifty righteous in the city, I will spare the whole city, and the whole place for their sakes.
+
+### Genesis 18:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham answered and said, Now I have begun to speak to my Lord, and I am earth and ashes.
+- brenton: And Abraam answered and said, Now I have begun to speak to my Lord, and I am earth and ashes.
+
+### Genesis 18:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the fifty righteous are lessened to forty-five, will you destroy the whole city because of the five? And he said, I will certainly not destroy it if I find forty-five there.
+- brenton: But if the fifty righteous should be diminished to forty-five, wilt thou destroy the whole city because of the five wanting? And he said, I will not destroy it, if I should find there forty-five.
+
+### Genesis 18:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he added still to speak to him and said, But if forty are found there? And he said, I will certainly not destroy it because of the forty.
+- brenton: And he continued to speak to him still, and said, But if there should be found there forty? And he said, I will not destroy it for the forty's sake.
+
+### Genesis 18:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Let it not be so, Lord, if I speak. But if thirty are found there? And he said, I will certainly not destroy it because of the thirty.
+- brenton: And he said, Will there be anything against me, Lord, if I shall speak? but if there be found there thirty? And he said, I will not destroy it for the thirty's sake.
+
+### Genesis 18:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Since I have it to speak to the Lord, but if twenty are found there? And he said, I will certainly not destroy it if I find twenty there.
+- brenton: And he said, Since I am able to speak to the Lord, what if there should be found there twenty? And he said, I will not destroy it, if I should find there twenty.
+
+### Genesis 18:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Let it not be so, Lord, if I speak still once more. But if ten are found there? And he said, I will certainly not destroy it because of the ten.
+- brenton: And he said, Will there be anything against me, Lord, if I speak yet once? but if there should be found there ten? And he said, I will not destroy it for the ten's sake.
+
+### Genesis 18:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord departed when he ceased speaking with Abraham, and Abraham returned to his place.
+- brenton: And the Lord departed, when he left off speaking to Abraam, and Abraam returned to his place.
+
+### Genesis 19:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the two angels came to Sodom at evening. And Lot was sitting by the gate of Sodom. Seeing them, Lot rose to meet them and bowed with his face to the ground.
+- brenton: And the two angels came to Sodom at evening. And Lot sat by the gate of Sodom, and Lot having seen them, rose up to meet them, and he worshipped with his face to the ground, and said,
+
+### Genesis 19:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Look, lords, turn aside into the house of your servant and lodge and wash your feet, and rising early you shall go on your way. And they said, No, but we will lodge in the square.
+- brenton: Lo! my lords, turn aside to the house of your servant, and rest from your journey, and wash your feet, and having risen early in the morning ye shall depart on your journey. And they said, Nay, but we will lodge in the street.
+
+### Genesis 19:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he pressed them, and they turned aside to him and entered into his house. And he made a feast for them, and baked unleavened bread for them, and they ate.
+- brenton: And he constrained them, and they turned aside to him, and they entered into his house, and he made a feast for them, and baked unleavened cakes for them, and they did eat.
+
+### Genesis 19:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But before they lay down, the men of the city, the Sodomites, surrounded the house, from young man to old man, all the people together.
+- brenton: But before they went to sleep, the men of the city, the Sodomites, compassed the house, both young and old, all the people together.
+
+### Genesis 19:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they called out to Lot and said to him, Where are the men who entered to you tonight? Bring them out to us, so that we may be with them.
+- brenton: And they called out Lot, and said to him, Where are the men that went in to thee this night? bring them out to us that we may be with them.
+
+### Genesis 19:6
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Lot went out to them to the porch, and he shut the door after him.
+- brenton: And Lot went out to them to the porch, and he shut the door after him,
+
+### Genesis 19:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, By no means, brothers, do not act wickedly.
+- brenton: and said to them, By no means, brethren, do not act villanously.
+
+### Genesis 19:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Look, I have two daughters who have not known a man. I will bring them out to you, and use them as may please you. Only do no wrong to these men, because for this reason they entered under the shelter of my roof-beams.
+- brenton: But I have two daughters, who have not known a man. I will bring them out to you, and do ye use them as it may please you, only do not injury to these men, to avoid which they came under the shelter of my roof.
+
+### Genesis 19:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to him, Stand back there. You came in to live as a foreigner; do you also mean to judge? Now we will mistreat you more than them. And they pressed the man Lot very hard, and they drew near to break the door.
+- brenton: And they said to him, Stand back there, thou camest in to sojourn, was it also to judge? Now then we would harm thee more than them. And they pressed hard on the man, even Lot, and they drew nigh to break the door.
+
+### Genesis 19:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men stretched out their hands and drew Lot into the house to themselves, and they shut the door of the house.
+- brenton: And the men stretched forth their hands and drew Lot in to them into the house, and shut the door of the house.
+
+### Genesis 19:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men at the door of the house they struck with blindness, from small to great, and they were worn out seeking the door.
+- brenton: And they smote the men that were at the door of the house with blindness, both small and great, and they were wearied with seeking the door.
+
+### Genesis 19:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men said to Lot, Do you have here sons-in-law or sons or daughters? Or if anyone else is yours in the city, bring them out from this place.
+- brenton: And the men said to Lot, Hast thou here sons-in-law, or sons or daughters, or if thou hast any other friend in the city, bring them out of this place.
+
+### Genesis 19:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because we are destroying this place, because their outcry has been lifted up before the Lord, and the Lord has sent us to wipe it out.
+- brenton: For we are going to destroy this place; for their cry has been raised up before the Lord, and the Lord has sent us to destroy it.
+
+### Genesis 19:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lot went out and spoke to his sons-in-law, those who had taken his daughters, and said, Rise and go out from this place, because the Lord is wiping out the city. But he seemed to be joking before his sons-in-law.
+- brenton: And Lot went out, and spoke to his sons-in-law who had married his daughters, and said, Rise up, and depart out of this place, for the Lord is about to destroy the city; but he seemed to be speaking absurdly before his sons-in-law.
+
+### Genesis 19:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: When dawn was coming, the angels urged Lot, saying, Rise, take your wife and your two daughters whom you have, and go out, lest you too be destroyed with the lawless acts of the city.
+- brenton: But when it was morning, the angels hastened Lot, saying, Arise and take thy wife, and thy two daughters whom thou hast, and go forth; lest thou also be destroyed with the iniquities of the city.
+
+### Genesis 19:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they were troubled, and the angels took hold of his hand and the hand of his wife and the hands of his two daughters, because the Lord spared him.
+- brenton: And they were troubled, and the angels laid hold on his hand, and the hand of his wife, and the hands of his two daughters, in that the Lord spared him.
+
+### Genesis 19:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened when they brought them outside that they said, Save your own life by all means. Do not look around to what is behind, and do not stand in all the surrounding region. Escape to the mountain, lest perhaps you be taken together with them.
+- brenton: And it came to pass when they brought them out, that they said, Save thine own life by all means; look not round to that which is behind, nor stay in all the country round about, escape to the mountain, lest perhaps thou be overtaken together with them.
+
+### Genesis 19:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lot said to them, I beg, lord,
+- brenton: And Lot said to them, I pray, Lord,
+
+### Genesis 19:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Since your servant has found mercy before you, and you have magnified your righteousness, what you are doing toward me to keep my life alive, I will not be able to escape to the mountain, lest perhaps the evils overtake me and I die.
+- brenton: since thy servant has found mercy before thee, and thou hast magnified thy righteousness, in what thou doest towards me that my soul may live,—but I shall not be able to escape to the mountain, lest perhaps the calamity overtake me and I die.
+
+### Genesis 19:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, this city is near for me to flee there, and it is small, and there I shall be preserved. Is it not small? And my life shall live because of you.
+- brenton: Behold this city is near for me to escape thither, which is a small one, and there shall I be preserved, is it not little? and my soul shall live because of thee.
+
+### Genesis 19:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said to him, Look, I have shown regard for you also in this matter, that I should not overthrow the city about which you spoke.
+- brenton: And he said to him, Behold, I have had respect to thee also about this thing, that I should not overthrow the city about which thou hast spoken.
+
+### Genesis 19:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Hasten then to be saved there, for I will not be able to do anything until you come there. Because of this he called the name of that city Segor.
+- brenton: Hasten therefore to escape thither, for I shall not be able to do anything until thou art come thither; therefore he called the name of that city, Segor.
+
+### Genesis 19:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sun came out upon the earth, and Lot entered into Segor.
+- brenton: The sun was risen upon the earth, when Lot entered into Segor.
+
+### Genesis 19:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord rained upon Sodom and Gomorrah sulfur and fire from the Lord out of heaven.
+- brenton: And the Lord rained on Sodom and Gomorrha brimstone and fire from the Lord out of heaven.
+
+### Genesis 19:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he overthrew these cities and all the surrounding region and all dwelling in the cities and the things springing up from the earth.
+- brenton: And he overthrew these cities, and all the country round about, and all that dwelt in the cities, and the plants springing out of the ground.
+
+### Genesis 19:26
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And his wife looked back, and she became a pillar of salt.
+- brenton: And his wife looked back, and she became a pillar of salt.
+
+### Genesis 19:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham rose early in the morning to the place where he had stood before the Lord.
+- brenton: And Abraam rose up early to go to the place, where he had stood before the Lord.
+
+### Genesis 19:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he looked toward Sodom and Gomorrah and toward the surrounding region and saw, and look, flame went up from the earth like the vapor of a furnace.
+- brenton: And he looked towards Sodom and Gomorrha, and towards the surrounding country, and saw, and behold a flame went up from the earth, as the smoke of a furnace.
+
+### Genesis 19:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when God destroyed all the cities of the surrounding region, God remembered Abraham and sent Lot out from the midst of the overthrow, when the Lord overthrew the cities in which Lot dwelt.
+- brenton: And it came to pass that when God destroyed all the cities of the region round about, God remembered Abraam, and sent Lot out of the midst of the overthrow, when the Lord overthrew those cities in which Lot dwelt.
+
+### Genesis 19:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lot went up from Segor and dwelt in the mountain, he and his two daughters with him, for he feared to dwell in Segor. And he dwelt in the cave, he and his two daughters with him.
+- brenton: And Lot went up out of Segor, and dwelt in the mountain, he and his two daughters with him, for he feared to dwell in Segor; and he dwelt in a cave, he and his two daughters with him.
+
+### Genesis 19:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the elder said to the younger, Our father is old, and no one is on the earth who will come in to us, as is fitting for all the earth.
+- brenton: And the elder said to the younger, Our father is old, and there is no one on the earth who shall come in to us, as it is fit in all the earth.
+
+### Genesis 19:32
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: Come and let us make our father drink wine, and let us sleep with him, and let us raise up seed from our father.
+- brenton: Come and let us make our father drink wine, and let us sleep with him, and let us raise up seed from our father.
+
+### Genesis 19:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made their father drink wine in that night, and the elder went in and lay with her father in that night, and he did not know when she lay down or when she rose up.
+- brenton: So they made their father drink wine in that night, and the elder went in and lay with her father that night, and he knew not when he slept and when he rose up.
+
+### Genesis 19:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on the next day that the elder said to the younger, Look, I slept yesterday with our father. Let us make him drink wine in this night also, and going in you sleep with him, and let us raise up seed from our father.
+- brenton: And it came to pass on the morrow, that the elder said to the younger, Behold, I slept yesternight with our father, let us make him drink wine in this night also, and do thou go in and sleep with him, and let us raise up seed of our father.
+
+### Genesis 19:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made their father drink wine in that night also, and the younger went in and slept with her father, and he did not know when she lay down nor when she arose.
+- brenton: So they made their father drink wine in that night also, and the younger went in and slept with her father, and he knew not when he slept, nor when he arose.
+
+### Genesis 19:36
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the two daughters of Lot conceived by their father.
+- brenton: And the two daughters of Lot conceived by their father.
+
+### Genesis 19:37
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the elder bore a son and called his name Moab, saying, From my father. This one is father of the Moabites to the present day.
+- brenton: And the elder bore a son, and called his name Moab, saying, He is of my father. This is the father of the Moabites to this present day.
+
+### Genesis 19:38
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the younger also bore a son and called his name Amman, saying, Son of my family. This one is father of the Ammanites to the present day.
+- brenton: And the younger also bore a son, and called his name Amman, saying, The son of my family. This is the father of the Ammanites to this present day.
+
+### Genesis 20:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham moved from there toward the south land and dwelt between Kadesh and Shur, and lived as a foreigner in Gerara.
+- brenton: And Abraam removed thence to the southern country, and dwelt between Cades and Sur, and sojourned in Gerara.
+
+### Genesis 20:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said concerning Sarah his wife, She is my sister. For he feared to say, She is my wife, lest perhaps the men of the city kill him because of her. And Abimelech king of Gerara sent and took Sarah.
+- brenton: And Abraam said concerning Sarrha his wife, She is my sister, for he feared to say, She is my wife, lest at any time the men of the city should kill him for her sake. So Abimelech king of Gerara sent and took Sarrha.
+
+### Genesis 20:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God came to Abimelech in sleep by night and said, Look, you are dying because of the woman whom you have taken, but she has lived with a husband.
+- brenton: And God came to Abimelech by night in sleep, and said, Behold, thou diest for the woman, whom thou hast taken, whereas she has lived with a husband.
+
+### Genesis 20:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Abimelech had not touched her, and he said, Lord, will you destroy an ignorant and righteous nation?
+- brenton: But Abimelech had not touched her, and he said, Lord, wilt thou destroy an ignorantly sinning and just nation?
+
+### Genesis 20:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Did he not himself say to me, She is my sister? And did she not say to me, He is my brother? In a pure heart and in the righteousness of my hands I did this.
+- brenton: Said he not to me, She is my sister, and said she not to me, He is my brother? with a pure heart and in the righteousness of my hands have I done this.
+
+### Genesis 20:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to him in sleep, Yes, I knew that you did this in a pure heart, and I spared you so that you should not sin against me. Because of this I did not permit you to touch her.
+- brenton: And God said to him in sleep, Yea, I knew that thou didst this with a pure heart, and I spared thee, so that thou shouldest not sin against me, therefore I suffered thee not to touch her.
+
+### Genesis 20:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But now return the woman to the man, because he is a prophet and he will pray for you and you will live. But if you do not return her, know that you shall die, you and all that is yours.
+- brenton: But now return the man his wife; for he is a prophet, and shall pray for thee, and thou shalt live; but if thou restore her not, know that thou shalt die and all thine.
+
+### Genesis 20:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech rose early in the morning and called all his servants and spoke all these words into their ears, and all the men feared exceedingly.
+- brenton: And Abimelech rose early in the morning, and called all his servants, and he spoke all these words in their ears, and all the men feared exceedingly.
+
+### Genesis 20:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech called Abraham and said to him, What is this you have done to us? Did we sin against you, that you brought upon me and upon my kingdom a great sin? A deed that no one should do, you have done to me.
+- brenton: And Abimelech called Abraam and said to him, What is this that thou hast done to us? Have we sinned against thee, that thou hast brought upon me and upon my kingdom a great sin? Thou hast done to me a deed, which no one ought to do.
+
+### Genesis 20:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to Abraham, What did you see, that you did this?
+- brenton: And Abimelech said to Abraam, What hast thou seen in me that thou hast done this?
+
+### Genesis 20:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said, For I said, Surely there is no reverence for God in this place, and they will kill me because of my wife.
+- brenton: And Abraam said, Why I said, Surely there is not the worship of God in this place, and they will slay me because of my wife.
+
+### Genesis 20:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And indeed she truly is my sister by my father, but not by my mother, and she became my wife.
+- brenton: For truly she is my sister by my father, but not by my mother, and she became my wife.
+
+### Genesis 20:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when God brought me out from my father's house, that I said to her, This righteousness you shall do for me: in every place where we enter there, say of me, He is my brother.
+- brenton: And it came to pass when God brought me forth out of the house of my father, that I said to her, This righteousness thou shalt perform to me, in every place into which we may enter, say of me, He is my brother.
+
+### Genesis 20:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech took a thousand didrachmas and sheep and calves and male-servants and female-servants and gave them to Abraham, and returned Sarah his wife to him.
+- brenton: And Abimelech took a thousand pieces of silver, and sheep, and calves, and servants, and maid-servants, and gave them to Abraam, and he returned him Sarrha his wife.
+
+### Genesis 20:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to Abraham, Look, my land before you. Wherever it pleases you, dwell.
+- brenton: And Abimelech said to Abraam, Behold, my land is before thee, dwell wheresoever it may please thee.
+
+### Genesis 20:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Sarah he said, Look, I have given a thousand didrachmas to your brother. These shall be to you for the honor of your face and to all the women with you. And speak truth in all things.
+- brenton: And to Sarrha he said, Behold, I have given thy brother a thousand pieces of silver, those shall be to thee for the price of thy countenance, and to all the women with thee, and speak the truth in all things.
+
+### Genesis 20:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham prayed to God, and God healed Abimelech and his wife and his female-servants, and they bore children.
+- brenton: And Abraam prayed to God, and God healed Abimelech, and his wife, and his women servants, and they bore children.
+
+### Genesis 20:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Because in closing the Lord had closed from outside every womb in Abimelech's house, because of Sarah Abraham's wife.
+- brenton: Because the Lord had fast closed from without every womb in the house of Abimelech, because of Sarrha Abraam's wife.
+
+### Genesis 21:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord visited Sarah, just as he said, and the Lord did for Sarah just as he spoke,
+- brenton: And the Lord visited Sarrha, as he said, and the Lord did to Sarrha, as he spoke.
+
+### Genesis 21:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and conceiving, she bore to Abraham a son in old age, at the appointed time, just as the Lord spoke to him.
+- brenton: And she conceived and bore to Abraam a son in old age, at the set time according as the Lord spoke to him.
+
+### Genesis 21:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham called the name of his son who came to be for him, whom Sarah bore to him, Isaac.
+- brenton: And Abraam called the name of his son that was born to him, whom Sarrha bore to him, Isaac.
+
+### Genesis 21:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham circumcised Isaac on the eighth day, just as God commanded him.
+- brenton: And Abraam circumcised Isaac on the eighth day, as God commanded him.
+
+### Genesis 21:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham was one hundred years old when Isaac his son came to be for him.
+- brenton: And Abraam was a hundred years old when Isaac his son was born to him.
+
+### Genesis 21:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Sarah said, The Lord made laughter for me, for whoever hears will rejoice with me.
+- brenton: And Sarrha said, The Lord has made laughter for me, for whoever shall hear shall rejoice with me.
+
+### Genesis 21:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said, Who will report to Abraham that Sarah nurses a child? For I bore a son in my old age.
+- brenton: And she said, Who shall say to Abraam that Sarrha suckles a child? for I have born a child in my old age.
+
+### Genesis 21:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the child grew and was weaned, and Abraham made a great feast on the day Isaac his son was weaned.
+- brenton: And the child grew and was weaned, and Abraam made a great feast the day that his son Isaac was weaned.
+
+### Genesis 21:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah saw the son of Hagar the Egyptian, who had come to be for Abraham, playing with Isaac her son.
+- brenton: And Sarrha having seen the son of Agar the Egyptian who was born to Abraam, sporting with Isaac her son,
+
+### Genesis 21:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said to Abraham, Cast out this servant-girl and her son, for the son of this servant-girl shall certainly not inherit with my son Isaac.
+- brenton: then she said to Abraam, Cast out this bondwoman and her son, for the son of this bondwoman shall not inherit with my son Isaac.
+
+### Genesis 21:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the word appeared very hard before Abraham concerning his son.
+- brenton: But the word appeared very hard before Abraam concerning his son.
+
+### Genesis 21:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said to Abraham, Let it not be hard before you concerning the child and concerning the servant-girl. In all that Sarah says to you, hear her voice, because in Isaac seed shall be called for you.
+- brenton: But God said to Abraam, Let it not be hard before thee concerning the child, and concerning the bondwoman; in all things whatsoever Sarrha shall say to thee, hear her voice, for in Isaac shall thy seed be called.
+
+### Genesis 21:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will make the son of this servant-girl into a great nation also, because he is your seed.
+- brenton: And moreover I will make the son of this bondwoman a great nation, because he is thy seed.
+
+### Genesis 21:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham rose early in the morning and took loaves and a skin of water and gave them to Hagar, and set the child on her shoulders, and sent her away. And departing, she wandered by the wilderness near the well of the oath.
+- brenton: And Abraam rose up in the morning and took loaves and a skin of water, and gave them to Agar, and he put the child on her shoulder, and sent her away, and she having departed wandered in the wilderness near the well of the oath.
+
+### Genesis 21:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the water failed from the skin, and she threw the child under one fir tree.
+- brenton: And the water failed out of the skin, and she cast the child under a fir tree.
+
+### Genesis 21:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And departing she sat opposite him at a distance, about a bow-shot, for she said, I certainly shall not see the death of my child. And she sat opposite him, and the child cried out and wept.
+- brenton: And she departed and sat down opposite him at a distance, as it were a bow-shot, for she said, Surely I cannot see the death of my child: and she sat opposite him, and the child cried aloud and wept.
+
+### Genesis 21:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God heard the voice of the child from the place where he was, and an angel of God called Hagar out of heaven and said to her, What is it, Hagar? Do not fear, for God has heard the voice of the child from the place where he is.
+- brenton: And God heard the voice of the child from the place where he was, and an angel of God called Agar out of heaven, and said to her, What is it, Agar? fear not, for God has heard the voice of the child from the place where he is.
+
+### Genesis 21:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Rise and take the child and hold him in your hand, for I will make him into a great nation.
+- brenton: Rise up, and take the child, and hold him in thine hand, for I will make him a great nation.
+
+### Genesis 21:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God opened her eyes, and she saw a well of living water and went and filled the skin with water and gave the child drink.
+- brenton: And God opened her eyes, and she saw a well of springing water; and she went and filled the skin with water, and gave the child drink.
+
+### Genesis 21:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God was with the child, and he grew. And he dwelt in the wilderness and became an archer.
+- brenton: And God was with the child, and he grew and dwelt in the wilderness, and became an archer.
+
+### Genesis 21:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he dwelt in the wilderness of Pharan, and his mother took a wife for him out of the land of Egypt.
+- brenton: And he dwelt in the wilderness, and his mother took him a wife out of Pharan of Egypt.
+
+### Genesis 21:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened at that time that Abimelech and Ochozath his marriage-companion and Phichol the commander-in-chief of his force said to Abraham, saying, God is with you in all that you may do.
+- brenton: And it came to pass at that time that Abimelech spoke, and Ochozath his friend, and Phichol the chief captain of his host, to Abraam, saying, God is with thee in all things, whatsoever thou mayest do.
+
+### Genesis 21:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then swear to me by God that you will not wrong me, nor my seed, nor my name, but according to the righteousness that I did with you, you shall do with me and with the land in which you have lived as a foreigner.
+- brenton: Now therefore swear to me by God that thou wilt not injure me, nor my seed, nor my name, but according to the righteousness which I have performed with thee thou shalt deal with me, and with the land in which thou hast sojourned.
+
+### Genesis 21:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said, I will swear.
+- brenton: And Abraam said, I will swear.
+
+### Genesis 21:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham reproved Abimelech concerning the wells of water, which Abimelech's servants took away.
+- brenton: And Abraam reproved Abimelech because of the wells of water, which the servants of Abimelech took away.
+
+### Genesis 21:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to him, I did not know who did this thing to you, nor did you report it to me, nor did I hear it except today.
+- brenton: And Abimelech said to him, I know not who has done this thing to thee, neither didst thou tell it me, neither heard I it but only to-day.
+
+### Genesis 21:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham took sheep and calves and gave them to Abimelech, and the two made a covenant.
+- brenton: And Abraam took sheep and calves, and gave them to Abimelech, and both made a covenant.
+
+### Genesis 21:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham set seven ewe-lambs of the flock by themselves.
+- brenton: And Abraam set seven ewe-lambs by themselves.
+
+### Genesis 21:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to Abraham, What are these seven ewe-lambs of the flock that you set by themselves?
+- brenton: And Abimelech said to Abraam, What are these seven ewe-lambs which thou hast set alone?
+
+### Genesis 21:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said, You shall receive the seven ewe-lambs from me, so that they may be for me as a witness that I dug this well.
+- brenton: And Abraam said, Thou shalt receive the seven ewe-lambs of me, that they may be for me as a witness, that I dug this well.
+
+### Genesis 21:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Because of this he named the name of that place, Well of Oath, because there both of them swore.
+- brenton: Therefore he named the name of that place, The Well of the Oath, for there they both swore.
+
+### Genesis 21:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they made a covenant at the well of the oath. And Abimelech rose, and Ochozath his marriage-companion, and Phichol the commander-in-chief of his force, and they returned to the land of the Philistines.
+- brenton: And they made a covenant at the well of the oath. And there rose up Abimelech, Ochozath his friend, and Phichol the commander-in-chief of his army, and they returned to the land of the Phylistines.
+
+### Genesis 21:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham planted a field at the well of the oath and called there on the name of the Lord, Everlasting God.
+- brenton: And Abraam planted a field at the well of the oath, and called there on the name of the Lord, the everlasting God.
+
+### Genesis 21:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham lived as a foreigner in the land of the Philistines many days.
+- brenton: And Abraam sojourned in the land of the Phylistines many days.
+
+### Genesis 22:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened after these words that God tested Abraham and said to him, Abraham, Abraham. And he said, Look, I am here.
+- brenton: And it came to pass after these things that God tempted Abraam, and said to him, Abraam, Abraam; and he said, Lo! I am here.
+
+### Genesis 22:2
+
+- importance: high
+- decisions: 1
+- footnotes: 2
+- same_normalized: no
+- fresh: And he said, Take your beloved son, whom you loved, Isaac, and go into the high land and bring him up there as a whole-burnt offering on one of the mountains that I will tell you.
+- brenton: And he said, Take thy son, the beloved one, whom thou hast loved—Isaac, and go into the high land, and offer him there for a whole-burnt-offering on one of the mountains which I will tell thee of.
+
+### Genesis 22:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham rose early in the morning and saddled his donkey, and took with himself two servants and Isaac his son, and splitting wood for a whole-burnt offering, he rose and went and came to the place that God told him, on the third day.
+- brenton: And Abraam rose up in the morning and saddled his ass, and he took with him two servants, and Isaac his son, and having split wood for a whole-burnt-offering, he arose and departed, and came to the place of which God spoke to him,
+
+### Genesis 22:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham, looking up with his eyes, saw the place from afar.
+- brenton: on the third day; and Abraam having lifted up his eyes, saw the place afar off.
+
+### Genesis 22:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said to his servants, Sit here with the donkey, and I and the young one will go through as far as there, and having worshiped we will return to you.
+- brenton: And Abraam said to his servants, Sit ye here with the ass, and I and the lad will proceed thus far, and having worshipped we will return to you.
+
+### Genesis 22:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham took the wood of the whole-burnt offering and laid it upon Isaac his son. And he took in his hands also the fire and the knife, and the two went together.
+- brenton: And Abraam took the wood of the whole-burnt-offering, and laid it on Isaac his son, and he took into his hands both the fire and the knife, and the two went together.
+
+### Genesis 22:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac said to Abraham his father, Father. And he said, What is it, child? And he said, Look, the fire and the wood. Where is the sheep for a whole-burnt offering?
+- brenton: And Isaac said to Abraam his father, Father. And he said, What is it, son? And he said, Behold the fire and the wood, where is the sheep for a whole-burnt-offering?
+
+### Genesis 22:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Abraham said, God will see for himself a sheep for a whole-burnt offering, child. And both went on together.
+- brenton: And Abraam said, God will provide himself a sheep for a whole-burnt-offering, my son. And both having gone together,
+
+### Genesis 22:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came to the place that God told him. And Abraham built there the altar and placed the wood, and having bound together Isaac his son, he laid him on the altar upon the wood.
+- brenton: came to the place which God spoke of to him; and there Abraam built the altar, and laid the wood on it, and having bound the feet of Isaac his son together, he laid him on the altar upon the wood.
+
+### Genesis 22:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham stretched out his hand to take the knife to slay his son.
+- brenton: And Abraam stretched forth his hand to take the knife to slay his son.
+
+### Genesis 22:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And an angel of the Lord called him from heaven and said, Abraham, Abraham. And he said, Look, I am here.
+- brenton: And an angel of the Lord called him out of heaven, and said, Abraam, Abraam. And he said, Behold, I am here.
+
+### Genesis 22:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Do not lay your hand on the child, and do nothing to him, for now I know that you fear God, and for my sake you did not spare your beloved son.
+- brenton: And he said, Lay not thine hand upon the child, neither do anything to him, for now I know that thou fearest God, and for my sake thou hast not spared thy beloved son.
+
+### Genesis 22:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham, looking up with his eyes, saw, and look, one ram caught in a plant of Sabek by the horns. And Abraham went and took the ram and brought it up as a whole-burnt offering instead of Isaac his son.
+- brenton: And Abraam lifted up his eyes and beheld, and lo! a ram caught by his horns in a plant of Sabec; and Abraam went and took the ram, and offered him up for a whole-burnt-offering in the place of Isaac his son.
+
+### Genesis 22:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Abraham called the name of that place, The Lord saw, so that they may say today, On the mountain the Lord was seen.
+- brenton: And Abraam called the name of that place, The Lord hath seen; that they might say to-day, In the mount the Lord was seen.
+
+### Genesis 22:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And an angel of the Lord called Abraham a second time from heaven, saying,
+- brenton: And an angel of the Lord called Abraam the second time out of heaven,
+
+### Genesis 22:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By myself I have sworn, says the Lord, because you did this thing, and for my sake did not spare your beloved son,
+- brenton: saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,
+
+### Genesis 22:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Surely in blessing I will bless you, and in multiplying I will multiply your seed, like the stars of heaven and like the sand beside the shore of the sea, and your seed shall inherit the cities of the adversaries.
+- brenton: surely blessing I will bless thee, and multiplying I will multiply thy seed as the stars of heaven, and as the sand which is by the shore of the sea, and thy seed shall inherit the cities of their enemies.
+
+### Genesis 22:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in your seed all the nations of the earth shall be blessed, because you hearkened to my voice.
+- brenton: And in thy seed shall all the nations of the earth be blessed, because thou hast hearkened to my voice.
+
+### Genesis 22:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham returned to his servants, and rising they went together to the well of the oath. And Abraham dwelt at the well of the oath.
+- brenton: And Abraam returned to his servants, and they arose and went together to the well of the oath; and Abraam dwelt at the well of the oath.
+
+### Genesis 22:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after these words that it was reported to Abraham, saying, Look, Milcha also has borne sons to Nachor your brother,
+- brenton: And it came to pass after these things, that it was reported to Abraam, saying, Behold, Melcha herself too has born sons to Nachor thy brother,
+
+### Genesis 22:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Uz the firstborn and Baux his brother and Kamouel father of the Syrians
+- brenton: Uz the first-born, and Baux his brother, and Camuel the father of the Syrians, and Chazad, and
+
+### Genesis 22:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Chazad and Azau and Phaldes and Jeldaph and Bathouel.
+- brenton: Azav and Phaldes, and Jeldaph, and Bathuel, and Bathuel begot Rebecca;
+
+### Genesis 22:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Bathouel begot Rebecca. These are eight sons whom Milcha bore to Nachor the brother of Abraham.
+- brenton: these are eight sons, which Melcha bore to Nachor the brother of Abraam.
+
+### Genesis 22:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his concubine, whose name was Rheuma, also bore Tabek and Taam and Tochos and Mocha.
+- brenton: And his concubine whose name was Rheuma, she also bore Tabec, and Taam, and Tochos, and Mocha.
+
+### Genesis 23:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah's life was one hundred twenty-seven years.
+- brenton: And the life of Sarrha was an hundred and twenty-seven years.
+
+### Genesis 23:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah died in the city of Arbok, which is in the hollow (this is Hebron) in the land of Canaan. And Abraham came to lament Sarah and to mourn.
+- brenton: And Sarrha died in the city of Arboc, which is in the valley, this is Chebron in the land of Chanaan; and Abraam came to lament for Sarrha and to mourn.
+
+### Genesis 23:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham rose up from his dead and Abraham said to the sons of Heth, saying,
+- brenton: And Abraam stood up from before his dead; and Abraam spoke to the sons of Chet, saying,
+
+### Genesis 23:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: I am a sojourner and a temporary resident among you. So give me a burial holding among you, and I will bury my dead away from me.
+- brenton: I am a sojourner and a stranger among you, give me therefore possession of a burying-place among you, and I will bury my dead away from me.
+
+### Genesis 23:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Heth answered Abraham, saying, No, lord.
+- brenton: And the sons of Chet answered to Abraam, saying, Not so, Sir,
+
+### Genesis 23:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Hear us. You are a king from God among us. In our choice tombs bury your dead, for none of us will withhold his tomb from you, so that you may bury your dead there.
+- brenton: but hear us; thou art in the midst of us a king from God; bury thy dead in our choice sepulchres, for not one of us will by any means withhold his sepulchre from thee, so that thou shouldest not bury thy dead there.
+
+### Genesis 23:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham rose and bowed to the people of the land, to the sons of Heth,
+- brenton: And Abraam rose up and did obeisance to the people of the land, to the sons of Chet.
+
+### Genesis 23:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Abraham spoke to them, saying, If it is in your mind that I should bury my dead out of my sight, hear me and speak on my behalf to Ephron son of Saar,
+- brenton: And Abraam spoke to them, saying, If ye have it in your mind that I should bury my dead out of my sight, hearken to me, and speak for me to Ephron the son of Saar.
+
+### Genesis 23:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and let him give me the double cave, which belongs to him, which is in part of his field. Let him give it to me among you for full silver as a burial holding.
+- brenton: And let him give me the double cave which he has, which is in a part of his field, let him give it me for the money it is worth for possession of a burying-place among you.
+
+### Genesis 23:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Ephron was sitting in the midst of the sons of Heth. And Ephron the Hittite answered Abraham, speaking in the hearing of the sons of Heth and of all who entered into the city, saying,
+- brenton: Now Ephron was sitting in the midst of the children of Chet, and Ephron the Chettite answered Abraam and spoke in the hearing of the sons of Chet, and of all who entered the city, saying,
+
+### Genesis 23:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Listen, lord, and hear me. I give you the field and the cave in it. Before all my fellow-citizens I have given it to you. Bury your dead.
+- brenton: Attend to me, my lord, and hear me, I give to thee the field and the cave which is in it; I have given it thee before all my countrymen; bury thy dead.
+
+### Genesis 23:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham bowed before the people of the land,
+- brenton: And Abraam did obeisance before the people of the land.
+
+### Genesis 23:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and said to Ephron in the hearing of the people of the land, Since you are for me, hear me. Take the silver for the field from me, and I will bury my dead there.
+- brenton: And he said in the ears of Ephron before the people of the land, Since thou art on my side, hear me; take the price of the field from me, and I will bury my dead there.
+
+### Genesis 23:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ephron answered Abraham, saying,
+- brenton: But Ephron answered Abraam, saying,
+
+### Genesis 23:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: No, lord, I have indeed heard. Land worth four hundred silver didrachms - but what is that between me and you? So bury your dead.
+- brenton: Nay, my lord, I have heard indeed, the land is worth four hundred silver didrachms, but what can this be between me and thee? nay, do thou bury thy dead.
+
+### Genesis 23:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver that he had spoken in the hearing of the sons of Heth, four hundred silver didrachms, merchant-approved.
+- brenton: And Abraam hearkened to Ephron, and Abraam rendered to Ephron the money, which he mentioned in the ears of the sons of Chet, four hundred didrachms of silver approved with merchants.
+
+### Genesis 23:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the field of Ephron, which was at the double cave, which is opposite Mamre, the field and the cave in it, and every tree that was in the field, and everything that was within all its borders round about, was established
+- brenton: And the field of Ephron, which was in Double Cave, which is opposite Mambre, the field and the cave, which was in it, and every tree which was in the field, and whatever is in its borders round about, were made sure
+
+### Genesis 23:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: to Abraham as a holding, before the sons of Heth and all who entered into the city.
+- brenton: to Abraam for a possession, before the sons of Chet, and all that entered into the city.
+
+### Genesis 23:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: After this Abraham buried Sarah his wife in the cave of the field at the double place, which is opposite Mamre (this is Hebron) in the land of Canaan.
+- brenton: After this Abraam buried Sarrha his wife in the Double Cave of the field, which is opposite Mambre, this is Chebron in the land of Chanaan.
+
+### Genesis 23:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the field and the cave in it were confirmed to Abraham as a burial holding from the sons of Heth.
+- brenton: So the field and the cave which was in it were made sure to Abraam for possession of a burying place, by the sons of Chet.
+
+### Genesis 24:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham was old, far advanced in days, and the Lord had blessed Abraham in everything.
+- brenton: And Abraam was old, advanced in days, and the Lord blessed Abraam in all things.
+
+### Genesis 24:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said to his servant, the elder of his house, the ruler of all that was his, Put your hand under my thigh,
+- brenton: And Abraam said to his servant the elder of his house, who had rule over all his possessions, Put thy hand under my thigh,
+
+### Genesis 24:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: and I will bind you by oath by the Lord, the God of heaven and the God of the earth, that you shall not take a wife for my son Isaac from the daughters of the Canaanites, among whom I dwell,
+- brenton: and I will adjure thee by the Lord the God of heaven, and the God of the earth, that thou take not a wife for my son Isaac from the daughters of the Chananites, with whom I dwell, in the midst of them.
+
+### Genesis 24:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but you shall go instead to my land, where I was born, and to my tribe, and take a wife from there for my son Isaac.
+- brenton: But thou shalt go instead to my country, where I was born, and to my tribe, and thou shalt take from thence a wife for my son Isaac.
+
+### Genesis 24:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant said to him, Suppose the woman is not willing to come back with me to this land. Shall I return your son to the land from which you came out?
+- brenton: And the servant said to him, Shall I carry back thy son to the land whence thou camest forth, if haply the woman should not be willing to return with me to this land?
+
+### Genesis 24:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham said to him, Beware for yourself that you do not return my son there.
+- brenton: And Abraam said to him, Take heed to thyself that thou carry not my son back thither.
+
+### Genesis 24:7
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
+- brenton: The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.
+
+### Genesis 24:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the woman is not willing to come with you into this land, you shall be clear from my oath. Only do not return my son there.
+- brenton: And if the woman should not be willing to come with thee into this land, thou shalt be clear from my oath, only carry not my son thither again.
+
+### Genesis 24:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant put his hand under the thigh of Abraham his lord and swore to him concerning this matter.
+- brenton: And the servant put his hand under the thigh of his master Abraam, and swore to him concerning this matter.
+
+### Genesis 24:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant took ten camels from the camels of his lord, and from all the good things of his lord with him. And he rose and went to Mesopotamia, to the city of Nahor.
+- brenton: And the servant took ten camels of his master's camels, and he took of all the goods of his master with him, and he arose and went into Mesopotamia to the city of Nachor.
+
+### Genesis 24:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he made the camels lie down outside the city beside the water well toward evening, at the time when the women who draw water go out.
+- brenton: And he rested his camels without the city by the well of water towards evening, when damsels go forth to draw water.
+
+### Genesis 24:12
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Lord, God of my lord Abraham, prosper things before me today and show mercy toward my lord Abraham.
+- brenton: And he said, O Lord God of my master Abraam, prosper my way before me to day, and deal mercifully with my master Abraam.
+
+### Genesis 24:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, I am standing at the spring of water, and the daughters of those inhabiting the city are coming out to draw water,
+- brenton: Lo! I stand by the well of water, and the daughters of them that inhabit the city come forth to draw water.
+
+### Genesis 24:14
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: and let it be that the virgin to whom I say, Lower your water jar so that I may drink, and she says to me, Drink, and I will water your camels until they stop drinking - this is the one you prepared for your servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+- brenton: And it shall be, the virgin to whomsoever I shall say, Incline thy water-pot, that I may drink, and she shall say, Drink thou, and I will give thy camels drink, until they shall have done drinking—even this one thou hast prepared for thy servant Isaac, and hereby shall I know that thou hast dealt mercifully with my master Abraam.
+
+### Genesis 24:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened before he finished speaking in his mind, that at once Rebekah came out, born to Bethuel son of Milcah wife of Nahor, Abraham's brother, having her water jar on her shoulders.
+- brenton: And it came to pass before he had done speaking in his mind, that behold, Rebecca the daughter of Bathuel, the son of Melcha, the wife of Nachor, and the same the brother of Abraam, came forth, having a water-pot on her shoulders.
+
+### Genesis 24:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the virgin was very beautiful in appearance. She was a virgin; a man had not known her. And she went down to the spring, filled her water jar, and came up.
+- brenton: And the virgin was very beautiful in appearance, she was a virgin, a man had not known her; and she went down to the well, and filled her water-pot, and came up.
+
+### Genesis 24:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant ran to meet her and said, Give me a little water to drink from your jar.
+- brenton: And the servant ran up to meet her, and said, Give me a little water to drink out of thy pitcher;
+
+### Genesis 24:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said, Drink, lord. And she hurried and lowered the jar onto her arm and gave him drink until he stopped drinking.
+- brenton: and she said, Drink, Sir; and she hasted, and let down the pitcher upon her arm, and gave him to drink, till he ceased drinking.
+
+### Genesis 24:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said, I will draw for your camels too, until they all drink.
+- brenton: And she said, I will also draw water for thy camels, till they shall all have drunk.
+
+### Genesis 24:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she hurried and emptied the water jar into the trough and ran back to the well to draw again and drew for all the camels.
+- brenton: And she hasted, and emptied the water-pot into the trough, and ran to the well to draw again, and drew water for all the camels.
+
+### Genesis 24:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man was closely observing her and kept silent, to know whether the Lord had prospered his way or not.
+- brenton: And the man took great notice of her, and remained silent to know whether the Lord had made his way prosperous or not.
+
+### Genesis 24:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when all the camels stopped drinking, the man took golden earrings, a drachm in weight each, and two bracelets for her hands, their weight ten gold pieces.
+- brenton: And it came to pass when all the camels ceased drinking, that the man took golden ear-rings, each of a drachm weight, and he put two bracelets on her hands, their weight was ten pieces of gold.
+
+### Genesis 24:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he asked her and said, Whose daughter are you? Tell me whether there is room at your father's house for us to lodge.
+- brenton: And he asked her, and said, Whose daughter art thou? Tell me if there is room for us to lodge with thy father.
+
+### Genesis 24:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said to him, I am daughter of Bethuel, son of Milcah, whom she bore to Nahor.
+- brenton: And she said to him, I am the daughter of Bathuel the son of Melcha, whom she bore to Nachor.
+
+### Genesis 24:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said to him, We have both much straw and fodder with us, and room to lodge.
+- brenton: And she said to him, We have both straw and much provender, and a place for resting.
+
+### Genesis 24:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man, being well pleased, bowed to the Lord and said,
+- brenton: And the man being well pleased, worshipped the Lord,
+
+### Genesis 24:27
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+- brenton: and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.
+
+### Genesis 24:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the girl ran and reported to her mother's house according to these words.
+- brenton: And the damsel ran and reported to the house of her mother according to these words.
+
+### Genesis 24:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Rebekah had a brother whose name was Laban. And Laban ran out to the man, to the spring.
+- brenton: And Rebecca had a brother whose name was Laban; and Laban ran out to meet the man, to the well.
+
+### Genesis 24:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when he saw the earrings and the bracelets on his sister's hands, and when he heard the words of Rebekah his sister saying, Thus the man spoke to me, that he came to the man standing by the camels at the spring.
+- brenton: And it came to pass when he saw the ear-rings and the bracelets on the hands of his sister, and when he heard the words of Rebecca his sister, saying, Thus the man spoke to me, that he went to the man, as he stood by the camels at the well.
+
+### Genesis 24:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, Come in, blessed of the Lord. Why do you stand outside? I have prepared the house and a place for the camels.
+- brenton: And he said to him, Come in hither, thou blessed of the Lord, why standest thou without, whereas I have prepared the house and a place for the camels?
+
+### Genesis 24:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man entered the house and unloaded the camels and gave straw and fodder to the camels, and water to wash his feet and the feet of the men with him.
+- brenton: And the man entered into the house, and unloaded the camels, and gave the camels straw and provender, and water to wash his feet, and the feet of the men that were with him.
+
+### Genesis 24:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set loaves before them to eat. But he said, I will certainly not eat until I speak my words. And they said, Speak.
+- brenton: And he set before them loaves to eat; but he said, I will not eat, until I have told my errand. And he said, Speak on.
+
+### Genesis 24:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, I am Abraham's servant.
+- brenton: And he said, I am a servant of Abraam;
+
+### Genesis 24:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord greatly blessed my lord, and he was exalted. And he gave him sheep and calves and silver and gold and male servants and female servants and camels and donkeys.
+- brenton: and the Lord has blessed my master greatly, and he is exalted, and he has given him sheep, and calves, and silver, and gold, servants and servant-maids, camels, and asses.
+
+### Genesis 24:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sarah, my lord's wife, bore one son to my lord after he had grown old, and he gave him all that he had.
+- brenton: And Sarrha my master's wife bore one son to my master after he had grown old; and he gave him whatever he had.
+
+### Genesis 24:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And my lord made me swear, saying, You shall not take a wife for my son from the daughters of the Canaanites, among whose land I sojourn,
+- brenton: And my master caused me to swear, saying, Thou shalt not take a wife to my son of the daughters of the Chananites, among whom I sojourn in their land.
+
+### Genesis 24:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but you shall go instead to my father's house and to my tribe and take a wife for my son from there.
+- brenton: But thou shalt go to the house of my father, and to my tribe, and thou shalt take thence a wife for my son.
+
+### Genesis 24:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to my lord, Suppose the woman will not come with me.
+- brenton: And I said to my master, Haply the woman will not go with me.
+
+### Genesis 24:40
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
+- brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
+
+### Genesis 24:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then you shall be innocent of my curse, for whenever you come to my tribe and they do not give to you, you shall be innocent of my oath.
+- brenton: Then shalt thou be clear from my curse, for whensoever thou shalt have come to my tribe, and they shall not give her to thee, then shalt thou be clear from my oath.
+
+### Genesis 24:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when I came today to the spring I said, Lord, God of my lord Abraham, if you are prospering the way on which I am now going,
+- brenton: And having come this day to the well, I said, Lord God of my master Abraam, if thou prosperest my journey on which I am now going,
+
+### Genesis 24:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: look, I am standing at the spring of water, and the daughters of the men of the city are coming out to draw water. And let it be that the virgin to whom I say, Give me a little water from your jar to drink,
+- brenton: behold, I stand by the well of water, and the daughters of the men of the city come forth to draw water, and it shall be that the damsel to whom I shall say, Give me a little water to drink out of thy pitcher,
+
+### Genesis 24:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and she says to me, Drink yourself, and I will draw water for your camels too - this is the woman whom the Lord prepared for his own servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+- brenton: and she shall say to me, Both drink thou, and I will draw water for thy camels, this shall be the wife whom the Lord has prepared for his own servant Isaac; and hereby shall I know that thou hast wrought mercy with my master Abraam.
+
+### Genesis 24:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened before I finished speaking in my mind, at once Rebekah came out having the water jar on her shoulders, and she went down to the spring and drew water. And I said to her, Give me drink.
+- brenton: And it came to pass before I had done speaking in my mind, straightway Rebecca came forth, having her pitcher on her shoulders; and she went down to the well, and drew water; and I said to her, Give me to drink.
+
+### Genesis 24:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too.
+- brenton: And she hasted and let down her pitcher on her arm from her head, and said, Drink thou, and I will give thy camels drink; and I drank, and she gave the camels drink.
+
+### Genesis 24:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I asked her and said, Whose daughter are you? Tell me. And she said, I am daughter of Bethuel son of Nahor, whom Milcah bore to him. And I put the earrings on her and the bracelets around her hands.
+- brenton: And I asked her, and said, Whose daughter art thou? tell me; and she said, I am daughter of Bathuel the son of Nachor, whom Melcha bore to him; and I put on her the ear-rings, and the bracelets on her hands.
+
+### Genesis 24:48
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And being well pleased I bowed to the Lord and blessed the Lord, the God of my lord Abraham, who prospered me on a true way to take the daughter of my lord's brother for his son.
+- brenton: And being well-pleased I worshipped the Lord, and I blessed the Lord the God of my master Abraam, who has prospered me in a true way, so that I should take the daughter of my master's brother for his son.
+
+### Genesis 24:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So now, if you are doing mercy and righteousness toward my lord, tell me. But if not, tell me, so that I may turn to the right or to the left.
+- brenton: If then ye will deal mercifully and justly with my lord, tell me, and if not, tell me, that I may turn to the right hand or to the left.
+
+### Genesis 24:50
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban and Bethuel answered and said, This command has gone out from the Lord. So we will not be able to speak against you evil or good.
+- brenton: And Laban and Bathuel answered and said, This matter has come forth from the Lord, we shall not be able to answer thee bad or good.
+
+### Genesis 24:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, Rebekah is before you. Take her and go quickly, and let her be wife to your lord's son, just as the Lord spoke.
+- brenton: Behold, Rebecca is before thee, take her and go away, and let her be wife to the son of thy master, as the Lord has said.
+
+### Genesis 24:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Abraham's servant heard these words, he bowed to the ground to the Lord.
+- brenton: And it came to pass when the servant of Abraam heard these words, he bowed himself to the Lord down to the earth.
+
+### Genesis 24:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant brought out silver vessels and gold vessels and clothing and gave them to Rebekah, and he gave gifts to her brother and to her mother.
+- brenton: And the servant having brought forth jewels of silver and gold and raiment, gave them to Rebecca, and gave gifts to her brother, and to her mother.
+
+### Genesis 24:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he and the men with him ate and drank and slept. And rising in the morning, he said, Send me away, so that I may go to my lord.
+- brenton: And both he and the men with him ate and drank and went to sleep. And he arose in the morning and said, Send me away, that I may go to my master.
+
+### Genesis 24:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But her brothers and her mother said, Let the virgin remain with us about ten days, and after that she will depart.
+- brenton: And her brethren and her mother said, Let the virgin remain with us about ten days, and after that she shall depart.
+
+### Genesis 24:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But he said to them, Do not hold me back, for the Lord prospered my way for me. Send me away, so that I may go to my lord.
+- brenton: But he said to them, Hinder me not, for the Lord has prospered my journey for me; send me away, that I may depart to my master.
+
+### Genesis 24:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, Let us call the girl and ask from her mouth.
+- brenton: And they said, Let us call the damsel, and enquire at her mouth.
+
+### Genesis 24:58
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they called Rebekah and said to her, Will you go with this man? And she said, I will go.
+- brenton: And they called Rebecca, and said to her, Wilt thou go with this man? and she said, I will go.
+
+### Genesis 24:59
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they sent away Rebekah their sister and what belonged to her, and Abraham's servant and those with him.
+- brenton: So they sent forth Rebecca their sister, and her goods, and the servant of Abraam, and his attendants.
+
+### Genesis 24:60
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they blessed Rebekah and said to her, You are our sister. Become into thousands of myriads, and let your seed inherit the cities of the adversaries.
+- brenton: And they blessed Rebecca, and said to her, Thou art our sister; become thou thousands of myriads, and let thy seed possess the cities of their enemies.
+
+### Genesis 24:61
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rebekah rose up and her maidens, and they mounted the camels and went with the man. And the servant, taking Rebekah, went away.
+- brenton: And Rebecca rose up and her maidens, and they mounted the camels and went with the man; and the servant having taken up Rebecca, departed.
+
+### Genesis 24:62
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac was traveling through the wilderness by the well of the vision, and he was dwelling in the land toward the south.
+- brenton: And Isaac went through the wilderness to the well of the vision, and he dwelt in the land toward the south.
+
+### Genesis 24:63
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Isaac went out to muse in the field toward evening, and lifting up his eyes he saw camels coming.
+- brenton: And Isaac went forth into the plain toward evening to meditate; and having lifted up his eyes, he saw camels coming.
+
+### Genesis 24:64
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rebekah lifted up her eyes and saw Isaac and sprang down from the camel.
+- brenton: And Rebecca lifted up her eyes, and saw Isaac; and she alighted briskly from the camel,
+
+### Genesis 24:65
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said to the servant, Who is that man there walking in the field to meet us? And the servant said, This is my lord. And she took the veil and covered herself.
+- brenton: and said to the servant, Who is that man that walks in the plain to meet us? And the servant said, This is my master; and she took her veil and covered herself.
+
+### Genesis 24:66
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant recounted to Isaac all the things that he had done.
+- brenton: And the servant told Isaac all that he had done.
+
+### Genesis 24:67
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Isaac went into the house of his mother and took Rebekah, and she became his wife, and he loved her. And Isaac was comforted concerning Sarah his mother.
+- brenton: And Isaac went into the house of his mother, and took Rebecca, and she became his wife, and he loved her; and Isaac was comforted for Sarrha his mother.
+
+### Genesis 25:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham took another wife, whose name was Ketturah.
+- brenton: And Abraam again took a wife, whose name was Chettura.
+
+### Genesis 25:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she bore to him Zombran and Jezan and Madal and Madiam and Jesbok and Soie.
+- brenton: And she bore to him Zombran, and Jezan, and Madal, and Madiam, and Jesboc, and Soie.
+
+### Genesis 25:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jezan begot Thaiman and Saba and Dedan. And sons of Dedan became Ragouel and Nabdeel and Assourieim and Latousieim and Laomeim.
+- brenton: And Jezan begot Saba and Dedan. And the sons of Dedan were the Assurians and the Latusians, and Laomim.
+
+### Genesis 25:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Madiam were Gephar and Apher and Enoch and Abeira and Eldaga. All these were sons of Ketturah.
+- brenton: And the sons of Madiam were Gephar and Aphir, and Enoch, and Abeida, and Eldaga; all these were sons of Chettura.
+
+### Genesis 25:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham gave all his possessions to Isaac his son,
+- brenton: But Abraam gave all his possessions to Isaac his son.
+
+### Genesis 25:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but to the sons of his concubines Abraham gave gifts and sent them away from Isaac his son, while he was still alive, eastward into the eastern land.
+- brenton: But to the sons of his concubines Abraam gave gifts, and he sent them away from his son Isaac, while he was yet living, to the east into the country of the east.
+
+### Genesis 25:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these were the years of the days of Abraham's life, as many as he lived: one hundred seventy-five years.
+- brenton: And these were the years of the days of the life of Abraam as many as he lived, a hundred and seventy-five years.
+
+### Genesis 25:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abraham came to his end and died in a good old age, old and full of days, and was added to his people.
+- brenton: And Abraam failing died in a good old age, an old man and full of days, and was added to his people.
+
+### Genesis 25:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac and Ishmael his sons buried him in the double cave, in the field of Ephron son of Saar the Hittite, which is opposite Mamre,
+- brenton: And Isaac and Ismael his sons buried him in the double cave, in the field of Ephron the son of Saar the Chettite, which is over against Mambre:
+
+### Genesis 25:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the field and the cave that Abraham acquired from the sons of Heth. There they buried Abraham and Sarah his wife.
+- brenton: even the field and the cave which Abraam bought of the sons of Chet; there they buried Abraam and Sarrha his wife.
+
+### Genesis 25:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after Abraham died, God blessed Isaac his son. And Isaac dwelt by the well of the vision.
+- brenton: And it came to pass after Abraam was dead, that God blessed Isaac his son, and Isaac dwelt by the well of the vision.
+
+### Genesis 25:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the generations of Ishmael son of Abraham, whom Hagar the Egyptian, Sarah's servant-girl, bore to Abraham.
+- brenton: And these are the generations of Ismael the son of Abraam, whom Agar the Egyptian the hand-maid of Sarrha bore to Abraam.
+
+### Genesis 25:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of Ishmael's sons according to the names of their generations: firstborn of Ishmael, Nabaioth, and Kedar and Nabdeel and Massam
+- brenton: And these are the names of the sons of Ismael, according to the names of their generations. The firstborn of Ismael, Nabaioth, and Kedar, and Nabdeel, and Massam,
+
+### Genesis 25:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Masma and Douma and Masse
+- brenton: and Masma, and Duma, and Masse,
+
+### Genesis 25:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Choddan and Thaiman and Jetour and Naphes and Kedma.
+- brenton: and Choddan, and Thæman, and Jetur, and Naphes, and Kedma.
+
+### Genesis 25:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are Ishmael's sons, and these are their names in their tents and in their settlements, twelve rulers according to their nations.
+- brenton: These are the sons of Ismael, and these are their names in their tents and in their dwellings, twelve princes according to their nations.
+
+### Genesis 25:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the years of Ishmael's life: one hundred thirty-seven years. And coming to his end he died and was added to his people.
+- brenton: And these are the years of the life of Ismael, a hundred and thirty-seven years; and he failed and died, and was added to his fathers.
+
+### Genesis 25:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he dwelt from Evilat to Sour, which is opposite Egypt, until one comes to the Assyrians. He dwelt in the presence of all his brothers.
+- brenton: And he dwelt from Evilat to Sur, which is opposite Egypt, until one comes to the Assyrians; he dwelt in the presence of all his brethren.
+
+### Genesis 25:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the generations of Isaac, Abraham's son.
+- brenton: And these are the generations of Isaac the son of Abraam.
+
+### Genesis 25:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Abraham begot Isaac. And Isaac was forty years old when he took Rebekah, daughter of Bethuel the Syrian from Mesopotamian Syria, sister of Laban the Syrian, as wife for himself.
+- brenton: Abraam begot Isaac. And Isaac was forty years old when he took to wife Rebecca, daughter of Bathuel the Syrian, out of Syrian Mesopotamia, sister of Laban the Syrian.
+
+### Genesis 25:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac was praying to the Lord concerning Rebekah his wife, because she was barren. And God heard him, and Rebekah his wife conceived in her womb.
+- brenton: And Isaac prayed the Lord concerning Rebecca his wife, because she was barren; and the Lord heard him, and his wife Rebecca conceived in her womb.
+
+### Genesis 25:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the children were leaping in her. And she said, If it is going to be like this for me, why is this happening to me? And she went to inquire from the Lord.
+- brenton: And the babes leaped within her; and she said, If it will be so with me, why is this to me? And she went to enquire of the Lord.
+
+### Genesis 25:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord said to her, Two nations are in your womb, and two peoples will be separated from your belly. And one people will excel the other, and the greater will serve the lesser.
+- brenton: And the Lord said to her, There are two nations in thy womb, and two peoples shall be separated from thy belly, and one people shall excel the other, and the elder shall serve the younger.
+
+### Genesis 25:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days were fulfilled for her to give birth, and she had twins in her womb.
+- brenton: And the days were fulfilled that she should be delivered, and she had twins in her womb.
+
+### Genesis 25:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the first came out reddish, all hairy like a hide, and she called his name Esau.
+- brenton: And the first came out red, hairy all over like a skin; and she called his name Esau.
+
+### Genesis 25:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after this his brother came out, and his hand was gripping Esau's heel, and he called his name Jacob. And Isaac was sixty years old when Rebekah bore them.
+- brenton: And after this came forth his brother, and his hand took hold of the heel of Esau; and she called his name Jacob. And Isaac was sixty years old when Rebecca bore them.
+
+### Genesis 25:27
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And the young men grew, and Esau was a man skilled in hunting, a country man, but Jacob was a straightforward man, dwelling at home.
+- brenton: And the lads grew, and Esau was a man skilled in hunting, dwelling in the country, and Jacob a simple man, dwelling in a house.
+
+### Genesis 25:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac loved Esau, because his hunting was food for him, but Rebekah loved Jacob.
+- brenton: And Isaac loved Esau, because his venison was his food, but Rebecca loved Jacob.
+
+### Genesis 25:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob cooked stew, and Esau came from the plain exhausted,
+- brenton: And Jacob cooked pottage, and Esau came from the plain, fainting.
+
+### Genesis 25:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Esau said to Jacob, Feed me from this red stew, because I am exhausted. Therefore his name was called Edom.
+- brenton: And Esau said to Jacob, Let me taste of that red pottage, because I am fainting; therefore his name was called Edom.
+
+### Genesis 25:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob said to Esau, Give over to me today your firstborn rights.
+- brenton: And Jacob said to Esau, Sell me this day thy birthright.
+
+### Genesis 25:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau said, Look, I am going to die, and why are these firstborn rights to me?
+- brenton: And Esau said, Behold, I am going to die, and for what good does this birthright belong to me?
+
+### Genesis 25:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to him, Swear to me today. And he swore to him, and Esau sold the firstborn rights to Jacob.
+- brenton: And Jacob said to him, Swear to me this day; and he swore to him; and Esau sold his birthright to Jacob.
+
+### Genesis 25:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went away. And Esau made light of the firstborn rights.
+- brenton: And Jacob gave bread to Esau, and pottage of lentiles; and he ate and drank, and he arose and departed; so Esau slighted his birthright.
+
+### Genesis 26:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there came a famine on the land besides the earlier famine that happened in Abraham's time. And Isaac went to Abimelech king of the Philistines, to Gerara.
+- brenton: And there was a famine in the land, besides the former famine, which was in the time of Abraam; and Isaac went to Abimelech the king of the Phylistines to Gerara.
+
+### Genesis 26:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord appeared to him and said, Do not go down to Egypt, but dwell in the land that I tell you.
+- brenton: And the Lord appeared to him and said, Go not down to Egypt, but dwell in the land, which I shall tell thee of.
+
+### Genesis 26:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sojourn in this land, and I will be with you and bless you, for to you and to your seed I will give all this land, and I will establish my oath that I swore to Abraham your father.
+- brenton: And sojourn in this land; and I will be with thee, and bless thee, for I will give to thee and to thy seed all this land; and I will establish my oath which I swore to thy father Abraam.
+
+### Genesis 26:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will multiply your seed like the stars of heaven and give all this land to your seed, and in your seed all the nations of the earth will be blessed,
+- brenton: And I will multiply thy seed as the stars of heaven; and I will give to thy seed all this land, and all the nations of the earth shall be blest in thy seed.
+
+### Genesis 26:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: because Abraham your father heard my voice and kept my charges and my commandments and my ordinances and my statutes.
+- brenton: Because Abraam thy father hearkened to my voice, and kept my injunctions, and my commandments, and my ordinances, and my statutes.
+
+### Genesis 26:6
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Isaac dwelt in Gerara.
+- brenton: And Isaac dwelt in Gerara.
+
+### Genesis 26:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men of the place asked about Rebekah his wife, and he said, She is my sister, for he feared to say, She is my wife, lest the men of the place kill him because of Rebekah, because she was beautiful in appearance.
+- brenton: And the men of the place questioned him concerning Rebecca his wife, and he said, She is my sister, for he feared to say, She is my wife, lest at any time the men of the place should slay him because of Rebecca, because she was fair.
+
+### Genesis 26:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after a long time there, Abimelech king of Gerara leaned through the window and saw Isaac sporting with Rebekah his wife.
+- brenton: And he remained there a long time, and Abimelech the king of Gerara leaned to look through the window, and saw Isaac sporting with Rebecca his wife.
+
+### Genesis 26:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech called Isaac and said to him, So then is she your wife? Why did you say, She is my sister? And Isaac said to him, Because I said, Lest I die because of her.
+- brenton: And Abimelech called Isaac, and said to him, Is she then thy wife? why hast thou said, She is my sister? And Isaac said to him, I did so, for I said, Lest at any time I die on her account.
+
+### Genesis 26:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance.
+- brenton: And Abimelech said to him, Why hast thou done this to us? one of my kindred within a little had lain with thy wife, and thou wouldest have brought a sin of ignorance upon us.
+
+### Genesis 26:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech charged all his people, saying, Everyone touching this man or his wife will be liable to death.
+- brenton: And Abimelech charged all his people, saying, Every man that touches this man and his wife shall be liable to death.
+
+### Genesis 26:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac sowed in that land and found in that year hundredfold barley. And the Lord blessed him.
+- brenton: And Isaac sowed in that land, and he found in that year barley an hundred-fold, and the Lord blessed him.
+
+### Genesis 26:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man was exalted, and going forward he became greater until he became very great.
+- brenton: And the man was exalted, and advancing he increased, till he became very great.
+
+### Genesis 26:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he had flocks of sheep and herds of cattle and many farms. And the Philistines envied him,
+- brenton: And he had cattle of sheep, and cattle of oxen, and many tilled lands, and the Phylistines envied him.
+
+### Genesis 26:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the wells that his father's servants dug in his father's time, the Philistines stopped them up and filled them with earth.
+- brenton: And all the wells which the servants of his father had dug in the time of his father, the Phylistines stopped them, and filled them with earth.
+
+### Genesis 26:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech said to Isaac, Go away from us, because you have become much stronger than we are.
+- brenton: And Abimelech said to Isaac, Depart from us, for thou art become much mightier than we.
+
+### Genesis 26:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac went away from there and camped in the valley of Gerar and dwelt there.
+- brenton: And Isaac departed thence, and rested in the valley of Gerara, and dwelt there.
+
+### Genesis 26:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac dug again the wells of water that his father Abraham's servants dug and the Philistines stopped up after Abraham his father died. And he called them by the names his father had named them.
+- brenton: And Isaac dug again the wells of water, which the servants of his father Abraam had dug, and the Phylistines had stopped them, after the death of his father Abraam; and he gave them names, according to the names by which his father named them.
+
+### Genesis 26:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Isaac's servants dug in the valley of Gerar and found there a well of living water.
+- brenton: And the servants of Isaac dug in the valley of Gerara, and they found there a well of living water.
+
+### Genesis 26:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the shepherds of Gerar fought with Isaac's shepherds, saying the water was theirs. And he called the name of the well Injustice, because they wronged him.
+- brenton: And the shepherds of Gerara strove with the shepherds of Isaac, saying that the water was theirs; and they called the name of the well, Injury, for they injured him.
+
+### Genesis 26:21
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And moving on from there, he dug another well, and they were quarreling over that one too. And he named it Enmity.
+- brenton: And having departed thence he dug another well, and they strove also for that; and he named the name of it, Enmity.
+
+### Genesis 26:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And moving on from there, he dug another well, and they did not fight over it. And he named it Broad Space, saying, Because now the Lord made room for us and increased us on the earth.
+- brenton: And he departed thence and dug another well; and they did not strive about that; and he named the name of it, Room, saying, Because now the Lord has made room for us, and has increased us upon the earth.
+
+### Genesis 26:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he went up from there to the Well of Oath.
+- brenton: And he went up thence to the well of the oath.
+
+### Genesis 26:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord appeared to him in that night and said, I am the God of Abraham your father. Do not fear, for I am with you, and I will bless you and multiply your seed because of Abraham your father.
+- brenton: And the Lord appeared to him in that night, and said, I am the God of Abraam thy father; fear not, for I am with thee, and I will bless thee, and multiply thy seed for the sake of Abraam thy father.
+
+### Genesis 26:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he built there an altar and called on the name of the Lord and pitched his tent there. And Isaac's servants dug a well there in the valley of Gerar.
+- brenton: And he built there an altar, and called on the name of the Lord, and there he pitched his tent, and there the servants of Isaac dug a well in the valley of Gerara.
+
+### Genesis 26:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Abimelech went to him from Gerar, and Ochozath his marriage-companion and Phichol the commander-in-chief of his force.
+- brenton: And Abimelech came to him from Gerara, and so did Ochozath his friend, and Phichol the commander-in-chief of his army.
+
+### Genesis 26:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac said to them, Why did you come to me? You hated me and sent me away from you.
+- brenton: And Isaac said to them, Wherefore have ye come to me? whereas ye hated me, and sent me away from you.
+
+### Genesis 26:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they said, Seeing, we have seen that the Lord was with you, and we said, Let there be an oath-curse between us and you, and we will make a covenant with you,
+- brenton: And they said, We have surely seen that the Lord was with thee, and we said, Let there be an oath between us and thee, and we will make a covenant with thee,
+
+### Genesis 26:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: that you not do us evil, since we did not abhor you and in the way we treated you well and sent you away with peace. And now you are blessed by the Lord.
+- brenton: that thou shalt do no wrong by us, as we have not abhorred thee, and according as we have treated thee well, and have sent thee forth peaceably; and now thou art blessed of the Lord.
+
+### Genesis 26:30
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And he made a feast for them, and they ate and drank.
+- brenton: And he made a feast for them, and they ate and drank.
+
+### Genesis 26:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And rising in the morning, each swore to his neighbor, and Isaac sent them away, and they went away from him in safety.
+- brenton: And they arose in the morning, and swore each to his neighbour; and Isaac sent them forth, and they departed from him in safety.
+
+### Genesis 26:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in that day Isaac's servants came and reported to him about the well that they dug, and they said, We did not find water.
+- brenton: And it came to pass in that day, that the servants of Isaac came and told him of the well which they had dug; and they said, We have not found water.
+
+### Genesis 26:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he called it Oath. Therefore he called the name of that city Well of Oath until this day.
+- brenton: And he called it, Oath: therefore he called the name of that city, the Well of Oath, until this day.
+
+### Genesis 26:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau was forty years old and took Judith, daughter of Beoch the Hittite, and Basemath, daughter of Helon the Hittite, as wives.
+- brenton: And Esau was forty years old; and he took to wife Judith the daughter of Beoch the Chettite, and Basemath, daughter of Helon the Chettite.
+
+### Genesis 26:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they were contentious toward Isaac and Rebekah.
+- brenton: And they were provoking to Isaac and Rebecca.
+
+### Genesis 27:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after Isaac had grown old and his eyes had become dim for seeing, that he called Esau his older son and said to him, My son. And he said, Look, I am here.
+- brenton: And it came to pass after Isaac was old, that his eyes were dimmed so that he could not see; and he called Esau, his elder son, and said to him, My son; and he said, Behold, I am here.
+
+### Genesis 27:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Look, I have grown old and do not know the day of my death.
+- brenton: And he said, Behold, I am grown old, and know not the day of my death.
+
+### Genesis 27:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then take your gear, both quiver and bow, and go out into the plain and hunt game for me,
+- brenton: Now then take thy weapons, both thy quiver and thy bow, and go into the plain, and get me venison,
+
+### Genesis 27:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and make me dishes, as I love, and bring them to me so that I may eat, so that my soul may bless you before I die.
+- brenton: and make me meats, as I like them, and bring them to me that I may eat, that my soul may bless thee, before I die.
+
+### Genesis 27:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Rebekah heard Isaac speaking to Esau his son. And Esau went into the plain to hunt game for his father.
+- brenton: And Rebecca heard Isaac speaking to Esau his son; and Esau went to the plain to procure venison for his father.
+
+### Genesis 27:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rebekah said to Jacob her son, the lesser one, Look, I heard your father speaking to Esau your brother, saying,
+- brenton: And Rebecca said to Jacob her younger son, Behold, I heard thy father speaking to Esau thy brother, saying,
+
+### Genesis 27:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Bring me game and make me dishes so that I may eat and bless you before the Lord before I die.
+- brenton: Bring me venison, and prepare me meats, that I may eat and bless thee before the Lord before I die.
+
+### Genesis 27:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, my son, hear me, as I command you.
+- brenton: Now then, my son, hearken to me, as I command thee.
+
+### Genesis 27:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And go to the flock and take from there two tender good kids for me, and I will make them dishes for your father as he loves,
+- brenton: And go to the cattle and take for me thence two kids, tender and good, and I will make them meats for thy father, as he likes.
+
+### Genesis 27:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and you shall bring them to your father and he will eat, so that your father may bless you before he dies.
+- brenton: And thou shalt bring them in to thy father, and he shall eat, that thy father may bless thee before he dies.
+
+### Genesis 27:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Jacob said to Rebekah his mother, Esau my brother is a hairy man, but I am a smooth man.
+- brenton: And Jacob said to his mother Rebecca, Esau my brother is a hairy man, and I a smooth man.
+
+### Genesis 27:12
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Perhaps my father will feel me and I shall be before him as one mocking him, and I will bring a curse upon myself and not a blessing.
+- brenton: Peradventure my father may feel me, and I shall be before him as one ill-intentioned, and I shall bring upon me a curse, and not a blessing.
+
+### Genesis 27:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But his mother said to him, Let your curse be on me, child. Only hear my voice, and go bring them to me.
+- brenton: And his mother said to him, On me be thy curse, son; only hearken to my voice, and go and bring them me.
+
+### Genesis 27:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So he went and took them and brought them to his mother, and his mother made dishes as his father loved them.
+- brenton: So he went and took and brought them to his mother; and his mother made meats, as his father liked them.
+
+### Genesis 27:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rebekah took the fine robe of Esau her older son, which was with her in the house, and put it on Jacob her younger son,
+- brenton: And Rebecca having taken the fine raiment of her elder son Esau which was with her in the house, put it on Jacob her younger son.
+
+### Genesis 27:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and she put the skins of the kids on his arms and on the bare parts of his neck,
+- brenton: And she put on his arms the skins of the kids, and on the bare parts of his neck.
+
+### Genesis 27:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and gave the dishes and the loaves she made into Jacob her son's hands.
+- brenton: And she gave the meats, and the loaves which she had prepared, into the hands of Jacob her son.
+
+### Genesis 27:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought them in to his father. And he said, Father. And he said, Look, I am here. Who are you, child?
+- brenton: And he brought them to his father, and said, Father; and he said, Behold I am here; who art thou, son?
+
+### Genesis 27:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to his father, I am Esau your firstborn. I have done as you told me. Rise, sit, and eat of my game, so that your soul may bless me.
+- brenton: And Jacob said to his father, I, Esau thy first-born, have done as thou toldest me; rise, sit, and eat of my venison, that thy soul may bless me.
+
+### Genesis 27:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Isaac said to his son, What is this that you found so quickly, child? And he said, What the Lord your God handed over before me.
+- brenton: And Isaac said to his son, What is this which thou hast quickly found? And he said, That which the Lord thy God presented before me.
+
+### Genesis 27:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac said to Jacob, Come near to me and I will feel you, child, whether you are my son Esau or not.
+- brenton: And Isaac said to Jacob, Draw nigh to me, and I will feel thee, son, if thou art my son Esau or not.
+
+### Genesis 27:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob came near to Isaac his father, and he felt him and said, The voice is Jacob's voice, but the hands are Esau's hands.
+- brenton: And Jacob drew nigh to his father Isaac, and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.
+
+### Genesis 27:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he did not recognize him, for his hands were hairy like the hands of his brother Esau. And he blessed him,
+- brenton: And he knew him not, for his hands were as the hands of his brother Esau, hairy; and he blessed him,
+
+### Genesis 27:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and said, Are you my son Esau? And he said, I am.
+- brenton: and he said, Art thou my son Esau? and he said, I am.
+
+### Genesis 27:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Bring it near to me, and I will eat of your game, child, so that my soul may bless you. And he brought it near to him, and he ate. And he brought him wine, and he drank.
+- brenton: And he said, Bring hither, and I will eat of thy venison, son, that my soul may bless thee; and he brought it near to him, and he ate, and he brought him wine, and he drank.
+
+### Genesis 27:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac his father said to him, Come near to me and kiss me, child.
+- brenton: And Isaac his father said to him, Draw nigh to me, and kiss me, son.
+
+### Genesis 27:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he came near and kissed him, and he smelled the smell of his clothes and blessed him and said, Look, the smell of my son is like the smell of a full field that the Lord blessed.
+- brenton: And he drew nigh and kissed him, and smelled the smell of his garments, and blessed him, and said, Behold, the smell of my son is as the smell of an abundant field, which the Lord has blessed.
+
+### Genesis 27:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And may God give you from the dew of heaven and from the fatness of the earth and abundance of grain and wine.
+- brenton: And may God give thee of the dew of heaven, and of the fatness of the earth, and abundance of corn and wine.
+
+### Genesis 27:29
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And let nations serve you, and let rulers bow down to you. And become lord of your brother, and the sons of your father shall bow to you. Cursed be the one cursing you, and blessed be the one blessing you.
+- brenton: And let nations serve thee, and princes bow down to thee, and be thou lord of thy brother, and the sons of thy father shall do thee reverence; accursed is he that curses thee, and blessed is he that blesses thee.
+
+### Genesis 27:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after Isaac finished blessing Jacob his son, indeed it happened just as Jacob went out from before Isaac his father, that Esau his brother came from the hunt.
+- brenton: And it came to pass after Isaac had ceased blessing his son Jacob, it even came to pass, just when Jacob had gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+
+### Genesis 27:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he too made dishes and brought them to his father. And he said to his father, Let my father arise and eat of his son's game, so that your soul may bless me.
+- brenton: And he also had made meats and brought them to his father; and he said to his father, Let my father arise and eat of his son's venison, that thy soul may bless me.
+
+### Genesis 27:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac his father said to him, Who are you? And he said, I am your firstborn son Esau.
+- brenton: And Isaac his father said to him, Who art thou? And he said, I am thy first-born son Esau.
+
+### Genesis 27:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac was overcome with a very great astonishment and said, Who then was the one who hunted game for me and brought it to me? And I ate from everything before you came, and I blessed him, and blessed he shall be.
+- brenton: And Isaac was amazed with very great amazement, and said, Who then is it that has procured venison for me and brought it to me? and I have eaten of all before thou camest, and I have blessed him, and he shall be blessed.
+
+### Genesis 27:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Esau heard the words of Isaac his father, he cried out with a great and very bitter cry and said, Bless me too, father.
+- brenton: And it came to pass when Esau heard the words of his father Isaac, he cried out with a great and very bitter cry, and said, Bless, I pray thee, me also, father.
+
+### Genesis 27:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, Your brother came with deceit and took your blessing.
+- brenton: And he said to him, Thy brother has come with subtlety, and taken thy blessing.
+
+### Genesis 27:36
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said, Rightly was his name called Jacob, for now this second time he has tripped me by the heel. He took my firstborn rights, and now he has taken my blessing. And Esau said to his father, Did you not leave a blessing for me, father?
+- brenton: And he said, Rightly was his name called Jacob, for lo! this second time has he supplanted me; he has both taken my birthright, and now he has taken my blessing; and Esau said to his father, Hast thou not left a blessing for me, father?
+
+### Genesis 27:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Isaac answered and said to Esau, If I made him your lord and made all his brothers his servants, and I strengthened him with grain and wine, what then shall I do for you, child?
+- brenton: And Isaac answered and said to Esau, If I have made him thy lord, and have made all his brethren his servants, and have strengthened him with corn and wine, what then shall I do for thee, son?
+
+### Genesis 27:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And Isaac was pierced, and Esau cried aloud and wept.
+- brenton: And Esau said to his father, Hast thou only one blessing, father? Bless, I pray thee, me also, father. And Isaac being troubled, Esau cried aloud and wept.
+
+### Genesis 27:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac his father answered and said to him, Look, your dwelling shall be from the fatness of the earth and from the dew of heaven above.
+- brenton: And Isaac his father answered and said to him, Behold, thy dwelling shall be of the fatness of the earth, and of the dew of heaven from above.
+
+### Genesis 27:40
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall live by your sword and serve your brother. But when you break away, then you will loosen his yoke from your neck.
+- brenton: And thou shalt live by thy sword, and shalt serve thy brother; and there shall be a time when thou shalt break and loosen his yoke from off thy neck.
+
+### Genesis 27:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau kept anger against Jacob because of the blessing with which his father blessed him. And Esau said in his mind, Let the days of mourning for my father draw near, so that I may kill Jacob my brother.
+- brenton: And Esau was angry with Jacob because of the blessing, with which his father blessed him; and Esau said in his mind, Let the days of my father's mourning draw nigh, that I may slay my brother Jacob.
+
+### Genesis 27:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the words of Esau her older son were reported to Rebekah, and she sent and called Jacob her younger son and said to him, Look, Esau your brother is threatening you, intending to kill you.
+- brenton: And the words of Esau her elder son were reported to Rebecca, and she sent and called Jacob her younger son, and said to him, Behold, Esau thy brother threatens thee to kill thee.
+
+### Genesis 27:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, child, hear my voice and rise, flee to Mesopotamia to Laban my brother in Harran.
+- brenton: Now then, my son, hear my voice, and rise and depart quickly into Mesopotamia to Laban my brother into Charran.
+
+### Genesis 27:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And dwell with him some days,
+- brenton: And dwell with him certain days, until thy brother's anger
+
+### Genesis 27:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: until the anger and wrath of your brother turn away from you and he forget what you did to him. Then I will send and bring you back from there, lest I be bereaved of both of you in one day.
+- brenton: and rage depart from thee, and he forget what thou hast done to him; and I will send and fetch thee thence, lest at any time I should be bereaved of you both in one day.
+
+### Genesis 27:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rebekah said to Isaac, I am weary of my life because of the daughters of the sons of Heth. If Jacob takes a wife from the daughters of this land, why should I go on living?
+- brenton: And Rebecca said to Isaac, I am weary of my life, because of the daughters of the sons of Chet; if Jacob shall take a wife of the daughters of this land, wherefore should I live?
+
+### Genesis 28:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac, calling Jacob to him, blessed him and charged him, saying, You shall not take a wife from the daughters of the Canaanites.
+- brenton: And Isaac having called for Jacob, blessed him, and charged him, saying, Thou shalt not take a wife of the daughters of the Chananites.
+
+### Genesis 28:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Rise and flee to Mesopotamia, to the house of Bethuel the father of your mother, and take for yourself a wife from there, from the daughters of Laban your mother's brother.
+- brenton: Rise and depart quickly into Mesopotamia, to the house of Bathuel the father of thy mother, and take to thyself thence a wife of the daughters of Laban thy mother's brother.
+
+### Genesis 28:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And may my God bless you and increase you and multiply you, and you shall become gatherings of nations.
+- brenton: And may my God bless thee, and increase thee, and multiply thee, and thou shalt become gatherings of nations.
+
+### Genesis 28:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And may he give to you the blessing of Abraham my father, to you and to your seed after you, to inherit the land of your sojourning, which God gave to Abraham.
+- brenton: And may he give thee the blessing of my father Abraam, even to thee and to thy seed after thee, to inherit the land of thy sojourning, which God gave to Abraam.
+
+### Genesis 28:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Isaac sent Jacob away, and he went to Mesopotamia to Laban son of Bethuel the Syrian, brother of Rebekah, mother of Jacob and Esau.
+- brenton: So Isaac sent away Jacob, and he went into Mesopotamia to Laban the son of Bethuel the Syrian, the brother of Rebecca the mother of Jacob and Esau.
+
+### Genesis 28:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau saw that Isaac blessed Jacob and sent him away to Mesopotamia of Syria to take a wife for himself from there when he blessed him, and that he charged him, saying, You shall not take a wife from the daughters of the Canaanites,
+- brenton: And Esau saw that Isaac blessed Jacob, and sent him away to Mesopotamia of Syria as he blessed him, to take to himself a wife thence, and that he charged him, saying, Thou shalt not take a wife of the daughters of the Chananites;
+
+### Genesis 28:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and that Jacob heard his father and mother and went to Mesopotamia of Syria.
+- brenton: and that Jacob hearkened to his father and his mother, and went to Mesopotamia of Syria.
+
+### Genesis 28:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau also saw that the daughters of Canaan were evil in the sight of Isaac his father,
+- brenton: And Esau also having seen that the daughters of Chanaan were evil before his father Isaac,
+
+### Genesis 28:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Esau went to Ishmael and took Mahaleth daughter of Ishmael son of Abraham, sister of Nabeoth, as wife in addition to his wives.
+- brenton: Esau went to Ismael, and took Maeleth the daughter of Ismael, the son of Abraam, the sister of Nabeoth, a wife in addition to his other wives.
+
+### Genesis 28:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob went out from the Well of Oath and went to Harran.
+- brenton: And Jacob went forth from the well of the oath, and departed into Charrhan.
+
+### Genesis 28:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he came upon a place and slept there, for the sun had gone down. And he took one of the stones of the place and put it by his head and slept in that place.
+- brenton: And came to a certain place and slept there, for the sun had gone down; and he took one of the stones of the place, and put it at his head, and lay down to sleep in that place,
+
+### Genesis 28:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he dreamed, and look, a ladder stood fixed in the earth, and its top reached to heaven, and the angels of God were ascending and descending on it.
+- brenton: and dreamed, and behold a ladder fixed on the earth, whose top reached to heaven, and the angels of God ascended and descended on it.
+
+### Genesis 28:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord stood fixed on it and said, I am the God of Abraham your father and the God of Isaac. Do not fear. The land on which you are sleeping, to you I will give it and to your seed.
+- brenton: And the Lord stood upon it, and said, I am the God of thy father Abraam, and the God of Isaac; fear not, the land on which thou liest, to thee will I give it, and to thy seed.
+
+### Genesis 28:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your seed shall be like the sand of the earth, and it shall spread out to the sea and to the south and to the north and to the east, and in you and in your seed all the tribes of the earth shall be blessed.
+- brenton: And thy seed shall be as the sand of the earth; and it shall spread abroad to the sea, and the south, and the north, and to the east; and in thee and in thy seed shall all the tribes of the earth be blessed.
+
+### Genesis 28:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And look, I am with you, guarding you on every road where you may go, and I will bring you back to this land, because I will certainly not leave you until I do all that I spoke to you.
+- brenton: And behold I am with thee to preserve thee continually in all the way wherein thou shalt go; and I will bring thee back to this land; for I will not desert thee, until I have done all that I have said to thee.
+
+### Genesis 28:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob awoke from his sleep and said, Surely the Lord is in this place, and I did not know it.
+- brenton: And Jacob awaked out of his sleep, and said, The Lord is in this place, and I knew it not.
+
+### Genesis 28:17
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And he was afraid and said, How fearsome this place is. This is nothing other than God's house, and this is heaven's gate.
+- brenton: And he was afraid, and said, How fearful is this place! this is none other than the house of God, and this is the gate of heaven.
+
+### Genesis 28:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob rose early in the morning and took the stone he had placed there by his head and set it up as a pillar and poured oil on its top.
+- brenton: And Jacob rose up in the morning, and took the stone he had laid there by his head, and he set it up as a pillar, and poured oil on the top of it.
+
+### Genesis 28:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he called the name of that place House of God, but Ulam-luz was the name of the city before.
+- brenton: And he called the name of that place, the House of God; and the name of the city before was Ulam-luz.
+
+### Genesis 28:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob vowed a vow, saying, If the Lord God is with me and guards me on this road on which I am going and gives me bread to eat and clothing to wear,
+- brenton: And Jacob vowed a vow, saying, If the Lord God will be with me, and guard me throughout on this journey, on which I am going, and give me bread to eat, and raiment to put on,
+
+### Genesis 28:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and brings me back with safety to my father's house, then the Lord shall be God to me,
+- brenton: and bring me back in safety to the house of my father, then shall the Lord be for a God to me.
+
+### Genesis 28:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and this stone that I set up as a pillar shall be God's house, and from everything you give me, I will tithe a tenth of it to you.
+- brenton: And this stone, which I have set up for a pillar, shall be to me a house of God; and of all whatsoever thou shalt give me, I will tithe a tenth for thee.
+
+### Genesis 29:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, lifting up his feet, went to the eastern land, to Laban son of Bethuel the Syrian, brother of Rebekah, mother of Jacob and Esau.
+- brenton: And Jacob started and went to the land of the east to Laban, the son of Bathuel the Syrian, and the brother of Rebecca, mother of Jacob and Esau.
+
+### Genesis 29:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he sees, and look, a well in the plain, and three flocks of sheep were lying there by it, for from that well they watered the flocks, and a great stone was on the mouth of the well,
+- brenton: And he looks, and behold! a well in the plain; and there were there three flocks of sheep resting at it, for out of that well they watered the flocks, but there was a great stone at the mouth of the well.
+
+### Genesis 29:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the flocks were gathered there, and they would roll away the stone from the mouth of the well and water the sheep and set the stone back on the mouth of the well in its place.
+- brenton: And there were all the flocks gathered, and they used to roll away the stone from the mouth of the well, and water the flocks, and set the stone again in its place on the mouth of the well.
+
+### Genesis 29:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to them, Brothers, where are you from? And they said, We are from Harran.
+- brenton: And Jacob said to them, Brethren, whence are ye? and they said, We are of Charrhan.
+
+### Genesis 29:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Do you know Laban son of Nahor? And they said, We know him.
+- brenton: And he said to them, Know ye Laban, the son of Nachor? and they said, We do know him.
+
+### Genesis 29:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Is he well? And they said, He is well. And look, Rachel his daughter was coming with the sheep.
+- brenton: And he said to them, Is he well? And they said, He is well. And behold Rachel his daughter came with the sheep.
+
+### Genesis 29:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said, It is still much day, not yet time for the livestock to be gathered. Water the sheep, then go and pasture them.
+- brenton: And Jacob said, It is yet high day, it is not yet time that the flocks be gathered together; water ye the flocks, and depart and feed them.
+
+### Genesis 29:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But they said, We cannot until all the shepherds are gathered and they roll the stone away from the mouth of the well, then we water the sheep.
+- brenton: And they said, We shall not be able, until all the shepherds be gathered together, and they shall roll away the stone from the mouth of the well, then we will water the flocks.
+
+### Genesis 29:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: While he was still speaking with them, look, Rachel daughter of Laban was coming with her father's sheep, for she was shepherding her father's sheep.
+- brenton: While he was yet speaking to them, behold, Rachel the daughter of Laban came with her father's sheep, for she fed the sheep of her father.
+
+### Genesis 29:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Jacob saw Rachel daughter of Laban, brother of his mother, and the sheep of Laban, brother of his mother, Jacob came near and rolled the stone from the mouth of the well and watered the sheep of Laban, brother of his mother.
+- brenton: And it came to pass when Jacob saw Rachel the daughter of Laban, his mother's brother, and the sheep of Laban, his mother's brother, that Jacob came and rolled away the stone from the mouth of the well, and watered the sheep of Laban, his mother's brother.
+
+### Genesis 29:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob kissed Rachel, and crying out with his voice, he wept.
+- brenton: And Jacob kissed Rachel, and cried with a loud voice and wept.
+
+### Genesis 29:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob reported to Rachel that he was brother to her father and that he was son of Rebekah. And she ran and reported to her father according to these words.
+- brenton: And he told Rachel that he was the near relative of her father, and the son of Rebecca; and she ran and reported to her father according to these words.
+
+### Genesis 29:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Laban heard the name of Jacob, son of his sister, he ran to meet him and embraced him and kissed him and brought him into his house. And Jacob recounted to Laban all these matters.
+- brenton: And it came to pass when Laban heard the name of Jacob, his sister's son, he ran to meet him, and embraced and kissed him, and brought him into his house; and he told Laban all these sayings.
+
+### Genesis 29:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to him, You are from my bones and from my flesh. And he was with him a month of days.
+- brenton: And Laban said to him, Thou art of my bones and of my flesh; and he was with him a full month.
+
+### Genesis 29:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to Jacob, Because you are my brother, will you serve me for nothing? Tell me, what shall your wages be?
+- brenton: And Laban said to Jacob, Surely thou shalt not serve me for nothing, because thou art my brother; tell me what thy reward is to be.
+
+### Genesis 29:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Laban had two daughters. The name of the elder was Leah, and the name of the younger Rachel.
+- brenton: Now Laban had two daughters, the name of the elder was Lea, and the name of the younger, Rachel.
+
+### Genesis 29:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Leah's eyes were weak, but Rachel was beautiful in form and exceedingly lovely in appearance.
+- brenton: And the eyes of Lea were weak. But Rachel was beautiful in appearance, and exceedingly fair in countenance.
+
+### Genesis 29:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob loved Rachel and said, I will serve you seven years for Rachel your younger daughter.
+- brenton: And Jacob loved Rachel, and said, I will serve thee seven years for thy younger daughter Rachel.
+
+### Genesis 29:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to him, It is better for me to give her to you than for me to give her to another man. Dwell with me.
+- brenton: And Laban said to him, It is better that I should give her to thee, than that I should give her to another man; dwell with me.
+
+### Genesis 29:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob served for Rachel seven years, and they were in his sight like a few days because he loved her.
+- brenton: And Jacob served for Rachel seven years, and they were before him as a few days, by reason of his loving her.
+
+### Genesis 29:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to Laban, Give me my wife, for my days are fulfilled so that I may go in to her.
+- brenton: And Jacob said to Laban, Give me my wife, for my days are fulfilled, that I may go in to her.
+
+### Genesis 29:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban gathered all the men of the place and made a wedding feast.
+- brenton: And Laban gathered together all the men of the place, and made a marriage-feast.
+
+### Genesis 29:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened at evening that he took Leah his daughter and brought her to Jacob, and Jacob went in to her.
+- brenton: And it was even, and he took his daughter Lea, and brought her in to Jacob, and Jacob went in to her.
+
+### Genesis 29:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban gave to Leah his daughter Zelpha his servant-girl as servant-girl for her.
+- brenton: And Laban gave to his daughter Lea, Zelpha his handmaid, as a handmaid for her.
+
+### Genesis 29:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in the morning, and look, it was Leah. And Jacob said to Laban, What is this you did to me? Was it not for Rachel that I served with you? And why did you trick me?
+- brenton: And it was morning, and behold it was Lea; and Jacob said to Laban, What is this that thou hast done to me? did I not serve thee for Rachel? and wherefore hast thou deceived me?
+
+### Genesis 29:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban answered, It is not done this way in our place, to give the younger before the elder.
+- brenton: And Laban answered, It is not done thus in our country, to give the younger before the elder.
+
+### Genesis 29:27
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: So fulfill this one's sevens, and I will give you that one too in exchange for the work that you work with me, still another seven years.
+- brenton: Fulfil then her sevens, and I will give to thee her also in return for thy labour, which thou labourest with me, yet seven other years.
+
+### Genesis 29:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob did so and fulfilled this one's sevens, and Laban gave him Rachel his daughter to him as wife.
+- brenton: And Jacob did so, and fulfilled her sevens; and Laban gave him his daughter Rachel to wife.
+
+### Genesis 29:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban gave to his daughter Rachel Balla his servant-girl as servant-girl for her.
+- brenton: And Laban gave to his daughter his handmaid Balla, for a handmaid to her.
+
+### Genesis 29:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he went in to Rachel, and he loved Rachel more than Leah, and he served him another seven years.
+- brenton: And he went in to Rachel; and he loved Rachel more than Lea; and he served him seven other years.
+
+### Genesis 29:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And when the Lord God saw that Leah was hated, he opened her womb, but Rachel was barren.
+- brenton: And when the Lord God saw that Lea was hated, he opened her womb; but Rachel was barren.
+
+### Genesis 29:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah conceived and bore a son to Jacob, and she called his name Reuben, saying, Because the Lord saw my humiliation and gave me a son. So now my husband will love me.
+- brenton: And Lea conceived and bore a son to Jacob; and she called his name, Ruben; saying, Because the Lord has looked on my humiliation, and has given me a son, now then my husband will love me.
+
+### Genesis 29:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she conceived again and bore a second son to Jacob and said, Because the Lord heard that I am hated, he gave me this one also. And she called his name Simeon.
+- brenton: And she conceived again, and bore a second son to Jacob; and she said, Because the Lord has heard that I am hated, he has given to me this one also; and she called his name, Simeon.
+
+### Genesis 29:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she conceived yet again and bore a son and said, At this time now my husband will be with me, for I have borne him three sons. Therefore she called his name Levi.
+- brenton: And she conceived yet again, and bore a son, and said, In the present time my husband will be with me, for I have born him three sons; therefore she called his name, Levi.
+
+### Genesis 29:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And conceiving yet again she bore a son and said, Now this time I will give thanks to the Lord. Therefore she called his name Judah. And she stopped bearing.
+- brenton: And having conceived yet again, she bore a son, and said, Now yet again this time will I give thanks to the Lord; therefore she called his name, Juda; and ceased bearing.
+
+### Genesis 30:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rachel, seeing that she bore no children to Jacob, became jealous of her sister and said to Jacob, Give me children, but if not, I will die.
+- brenton: And Rachel having perceived that she bore Jacob no children, was jealous of her sister; and said to Jacob, Give me children; and if not, I shall die.
+
+### Genesis 30:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, angered at Rachel, said to her, Am I in the place of God, who deprived you of fruit of womb?
+- brenton: And Jacob was angry with Rachel, and said to her, Am I in the place of God, who has deprived thee of the fruit of the womb?
+
+### Genesis 30:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rachel said to Jacob, Look, my servant-girl Balla. Go in to her, and she will bear upon my knees, and I too will have children through her.
+- brenton: And Rachel said to Jacob, Behold my handmaid Balla, go in to her, and she shall bear upon my knees, and I also shall have children by her.
+
+### Genesis 30:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she gave him Balla her servant-girl as wife for him, and Jacob went in to her.
+- brenton: And she gave him Balla her maid, for a wife to him; and Jacob went in to her.
+
+### Genesis 30:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balla, Rachel's servant-girl, conceived and bore a son to Jacob.
+- brenton: And Balla, Rachel's maid, conceived, and bore Jacob a son.
+
+### Genesis 30:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rachel said, God judged for me and heard my voice and gave me a son. Therefore she called his name Dan.
+- brenton: And Rachel said, God has given judgment for me, and hearkened to my voice, and has given me a son; therefore she called his name, Dan.
+
+### Genesis 30:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balla, Rachel's servant-girl, conceived again and bore a second son to Jacob.
+- brenton: And Balla, Rachel's maid, conceived yet again, and bore a second son to Jacob.
+
+### Genesis 30:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Rachel said, God joined in my struggle, and I struggled with my sister and prevailed. And she called his name Naphtali.
+- brenton: And Rachel said, God has helped me, and I contended with my sister and prevailed; and she called his name, Nephthalim.
+
+### Genesis 30:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah saw that she had stopped bearing, and she took Zelpha her servant-girl and gave her to Jacob as wife. And he went in to her.
+- brenton: And Lea saw that she ceased from bearing, and she took Zelpha her maid, and gave her to Jacob for a wife; and he went in to her.
+
+### Genesis 30:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Zelpha, Leah's servant-girl, conceived and bore a son to Jacob.
+- brenton: And Zelpha the maid of Lea conceived, and bore Jacob a son.
+
+### Genesis 30:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Leah said, In luck. And she called his name Gad.
+- brenton: And Lea said, It is happily: and she called his name, Gad.
+
+### Genesis 30:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Zelpha, Leah's servant-girl, conceived again and bore a second son to Jacob.
+- brenton: And Zelpha the maid of Lea conceived yet again, and bore Jacob a second son.
+
+### Genesis 30:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah said, Blessed am I, because the women will pronounce me blessed. And she called his name Asher.
+- brenton: And Lea said, I am blessed, for the women will pronounce me blessed; and she called his name, Aser.
+
+### Genesis 30:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben went in the days of wheat harvest and found mandrake apples in the field and brought them to Leah his mother. And Rachel said to Leah her sister, Give me some of your son's mandrakes.
+- brenton: And Ruben went in the day of barley-harvest, and found apples of mandrakes in the field, and brought them to his mother Lea; and Rachel said to Lea her sister, Give me of thy son's mandrakes.
+
+### Genesis 30:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah said, Is it not enough for you that you took my husband? Will you now take my son's mandrakes too? And Rachel said, Not so. Let him sleep with you tonight in exchange for your son's mandrakes.
+- brenton: And Lea said, Is it not enough for thee that thou hast taken my husband, wilt thou also take my son's mandrakes? And Rachel said, Not so: let him lie with thee to-night for thy son's mandrakes.
+
+### Genesis 30:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob came in from the field at evening, and Leah went out to meet him and said, You will come in to me today, for I hired you with my son's mandrakes. And he slept with her that night.
+- brenton: And Jacob came in out of the field at even; and Lea went forth to meet him, and said, Thou shalt come in to me this day, for I have hired thee for my son's mandrakes; and he lay with her that night.
+
+### Genesis 30:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God heard Leah, and conceiving she bore a fifth son to Jacob.
+- brenton: And God hearkened to Lea, and she conceived, and bore Jacob a fifth son.
+
+### Genesis 30:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah said, God gave me my wages, because I gave my servant-girl to my husband. And she called his name Issachar, which means wages.
+- brenton: And Lea said, God has given me my reward, because I gave my maid to my husband; and she called his name Issachar, which is, Reward.
+
+### Genesis 30:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah conceived again and bore a sixth son to Jacob.
+- brenton: And Lea conceived again, and bore Jacob a sixth son.
+
+### Genesis 30:20
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Leah said, God has gifted me with a good gift at this time. My husband will choose me, for I have borne him six sons. And she called his name Zebulun.
+- brenton: And Lea said, God has given me a good gift in this time; my husband will choose me, for I have born him six sons: and she called his name, Zabulon.
+
+### Genesis 30:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after this she bore a daughter and called her name Dinah.
+- brenton: And after this she bore a daughter; and she called her name, Dina.
+
+### Genesis 30:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God remembered Rachel, and God heard her and opened her womb,
+- brenton: And God remembered Rachel, and God hearkened to her, and he opened her womb.
+
+### Genesis 30:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and conceiving she bore a son to Jacob. And Rachel said, God took away my reproach.
+- brenton: And she conceived, and bore Jacob a son; and Rachel said, God has taken away my reproach.
+
+### Genesis 30:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she called his name Joseph, saying, Let God add another son to me.
+- brenton: And she called his name Joseph, saying, Let God add to me another son.
+
+### Genesis 30:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Rachel bore Joseph, Jacob said to Laban, Send me away, so that I may depart to my place and to my land.
+- brenton: And it came to pass when Rachel had born Joseph, Jacob said to Laban, Send me away, that I may go to my place and to my land.
+
+### Genesis 30:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Restore my wives and my children, for whom I have served you, so that I may depart, for you know the service with which I have served you.
+- brenton: Restore my wives and my children, for whom I have served thee, that I may depart, for thou knowest the service wherewith I have served thee.
+
+### Genesis 30:27
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Laban said to him, If I found favor before you, I would practice augury, for God blessed me at your coming in.
+- brenton: And Laban said to him, If I have found grace in thy sight, I would augur well, for the Lord has blessed me at thy coming in.
+
+### Genesis 30:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Set your wages with me, and I will give them.
+- brenton: Appoint me thy wages, and I will give them.
+
+### Genesis 30:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said, You know what things I have served you in and how much livestock of yours was with me,
+- brenton: And Jacob said, Thou knowest in what things I have served thee, and how many cattle of thine are with me.
+
+### Genesis 30:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: for what you had before me was little, and it increased into a multitude, and the Lord God blessed you at my foot. Now then, when shall I too make a house for myself?
+- brenton: For it was little thou hadst before my time, and it is increased to a multitude, and the Lord God has blessed thee since my coming; now then, when shall I set up also my own house?
+
+### Genesis 30:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to him, What shall I give you? And Jacob said to him, You shall give me nothing. If you do this thing for me, I will again shepherd your sheep and keep them.
+- brenton: And Laban said to him, What shall I give thee? and Jacob said to him, Thou shalt not give me anything; if thou wilt do this thing for me, I will again tend thy flocks and keep them.
+
+### Genesis 30:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let all your sheep pass by today, and separate from there every gray sheep among the lambs and every white-marked and speckled one among the goats. This shall be my wages.
+- brenton: Let all thy sheep pass by to-day, and separate thence every grey sheep among the rams, and every one that is speckled and spotted among the goats—this shall be my reward.
+
+### Genesis 30:33
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And my righteousness will answer for me on the next day, because my wages are before you. Everything that is not speckled and white-marked among the goats and gray among the lambs will be considered stolen with me.
+- brenton: And my righteousness shall answer for me on the morrow, for it is my reward before thee: whatever shall not be spotted and speckled among the goats, and grey among the rams, shall be stolen with me.
+
+### Genesis 30:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to him, Let it be according to your word.
+- brenton: And Laban said to him, Let it be according to thy word.
+
+### Genesis 30:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he separated on that day the speckled and white-marked he-goats and all the speckled and white-marked she-goats and everything gray among the lambs and everything white among them, and gave them into the hand of his sons.
+- brenton: And he separated in that day the spotted and speckled he-goats, and all the spotted and speckled she-goats, and all that was grey among the rams, and every one that was white among them, and he gave them into the hand of his sons.
+
+### Genesis 30:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set a journey of three days between them and Jacob. And Jacob was shepherding the remaining sheep of Laban.
+- brenton: And he set a distance of a three days' journey between them and Jacob. And Jacob tended the cattle of Laban that were left behind.
+
+### Genesis 30:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob took for himself a green storax rod and walnut and plane-tree, and Jacob peeled white peelings on them, stripping away the green. And the white that he peeled showed variegated on the rods.
+- brenton: And Jacob took to himself green rods of storax tree and walnut and plane-tree; and Jacob peeled in them white stripes; and as he drew off the green, the white stripe which he had made appeared alternate on the rods.
+
+### Genesis 30:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set the rods that he peeled in the troughs of the watering places, so that when the sheep came to drink before the rods, when they came to drink, they might conceive by the rods.
+- brenton: And he laid the rods which he had peeled, in the hollows of the watering-troughs, that whensoever the cattle should come to drink, as they should have come to drink before the rods, the cattle might conceive at the rods.
+
+### Genesis 30:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sheep were conceiving by the rods, and the sheep bore white-marked and variegated and ash-speckled young.
+- brenton: So the cattle conceived at the rods, and the cattle brought forth young speckled, and streaked and spotted with ash-coloured spots.
+
+### Genesis 30:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob separated the lambs and set before the sheep a white-marked ram and every variegated one among the lambs. And he separated flocks for himself by themselves and did not mix them into Laban's sheep.
+- brenton: And Jacob separated the lambs, and set before the sheep a speckled ram, and every variegated one among the lambs, and he separated flocks for himself alone, and did not mingle them with the sheep of Laban.
+
+### Genesis 30:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened at the time when the sheep that were taking in seed conceived, Jacob set the rods before the sheep in the troughs, so that they might conceive in relation to the rods.
+- brenton: And it came to pass in the time wherein the cattle became pregnant, conceiving in the belly, Jacob put the rods before the cattle in the troughs, that they might conceive by the rods.
+
+### Genesis 30:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But whenever the sheep were giving birth, he did not set them there. So the unmarked were Laban's, but the marked were Jacob's.
+- brenton: But he did not put them in indiscriminately whenever the cattle happened to bring forth, but the unmarked ones were Laban's, and the marked ones Jacob's.
+
+### Genesis 30:43
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man grew very, very rich, and he had many flocks and cattle and male servants and female servants and camels and donkeys.
+- brenton: And the man became very rich, and he had many cattle, and oxen, and servants, and maid-servants, and camels, and asses.
+
+### Genesis 31:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob heard the words of Laban's sons saying, Jacob has taken all that belonged to our father, and from what belonged to our father he made all this glory.
+- brenton: And Jacob heard the words of the sons of Laban, saying, Jacob has taken all that was our father's, and of our father's property has he gotten all this glory.
+
+### Genesis 31:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob saw Laban's face, and look, it was not toward him as yesterday and the third day.
+- brenton: And Jacob saw the countenance of Laban, and behold it was not toward him as before.
+
+### Genesis 31:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Jacob, Return to the land of your father and to your family line, and I will be with you.
+- brenton: And the Lord said to Jacob, Return to the land of thy father, and to thy family, and I will be with thee.
+
+### Genesis 31:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob sent and called Leah and Rachel into the plain where the flocks were.
+- brenton: And Jacob sent and called Lea and Rachel to the plain where the flocks were.
+
+### Genesis 31:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, I see your father's face, that it is not toward me as yesterday and the third day, but the God of my father was with me.
+- brenton: And he said to them, I see the face of your father, that it is not toward me as before, but the God of my father was with me.
+
+### Genesis 31:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you yourselves know that with all my strength I served your father.
+- brenton: And ye too know that with all my might I have served your father.
+
+### Genesis 31:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But your father cheated me and changed my wages for the ten lambs, yet God did not let him harm me.
+- brenton: But your father deceived me, and changed my wages for the ten lambs, yet God gave him not power to hurt me.
+
+### Genesis 31:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If he said this, The variegated shall be your wages, then all the sheep would bear variegated. But if he said, The white ones shall be your wages, then all the sheep would bear white.
+- brenton: If he should say thus, The speckled shall be thy reward, then all the cattle would bear speckled; and if he should say, The white shall be thy reward, then would all the cattle bear white.
+
+### Genesis 31:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So God took away all your father's livestock and gave them to me.
+- brenton: So God has taken away all the cattle of your father, and given them to me.
+
+### Genesis 31:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when the sheep were conceiving and taking seed in the belly, I saw with my eyes in sleep, and look, the he-goats and rams mounting the sheep and the goats were white-marked and variegated and ash-speckled.
+- brenton: And it came to pass when the cattle conceived and were with young, that I beheld with mine eyes in sleep, and behold the he-goats and the rams leaping on the sheep and the she-goats, speckled and variegated and spotted with ash-coloured spots.
+
+### Genesis 31:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the angel of God said to me in sleep, Jacob. And I said, What is it?
+- brenton: And the angel of God said to me in a dream, Jacob; and I said, What is it?
+
+### Genesis 31:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Lift up your eyes and see the he-goats and the rams mounting the sheep and the goats, white-marked and variegated and ash-speckled, for I have seen what things Laban does to you.
+- brenton: And he said, Look up with thine eyes, and behold the he-goats and the rams leaping on the sheep and the she-goats, speckled and variegated and spotted with ash-coloured spots; for I have seen all things that Laban does to thee.
+
+### Genesis 31:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I am the God who appeared to you in the place of God, where you anointed a pillar to me and vowed a vow to me there. So now rise and go out from this land and go to the land of your birth, and I will be with you.
+- brenton: I am God that appeared to thee in the place of God, where thou anointedst a pillar to me, and vowedst to me there a vow; now then arise and depart out of this land, depart into the land of thy nativity, and I will be with thee.
+
+### Genesis 31:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rachel and Leah answered and said to him, Is there still a portion or inheritance for us in our father's house?
+- brenton: And Rachel and Lea answered and said to him, Have we yet a part or inheritance in the house of our father?
+
+### Genesis 31:15
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Are we not counted by him as foreigners? For he sold us and by eating ate up our silver.
+- brenton: Are we not considered strangers by him? for he has sold us, and quite devoured our money.
+
+### Genesis 31:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the wealth and the glory that God took away from our father shall be ours and our children's. So now whatever God said to you, do.
+- brenton: All the wealth and the glory which God has taken from our father, it shall be our's and our children's; now then do whatsoever God has said to thee.
+
+### Genesis 31:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob rose and took his wives and his children on the camels.
+- brenton: And Jacob arose and took his wives and his children up on the camels;
+
+### Genesis 31:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he led away all that belonged to him and all his baggage, which he acquired in Mesopotamia, all that was his, to go to Isaac his father in the land of Canaan.
+- brenton: and he took away all his possessions and all his store, which he had gotten in Mesopotamia, and all that belonged to him, to depart to Isaac his father in the land of Chanaan.
+
+### Genesis 31:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Now Laban had gone to shear his sheep, and Rachel stole her father's idols.
+- brenton: And Laban went to shear his sheep; and Rachel stole her father's images.
+
+### Genesis 31:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob hid the matter from Laban the Syrian by not reporting to him that he was running away.
+- brenton: And Jacob hid the matter from Laban the Syrian, so as not to tell him that he ran away.
+
+### Genesis 31:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he fled, he and all that was his, and crossed the river and set out for the mountain of Gilead.
+- brenton: And he departed himself and all that belonged to him, and passed over the river, and went into the mountain Galaad.
+
+### Genesis 31:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the third day it was reported to Laban the Syrian that Jacob had fled,
+- brenton: But it was told Laban the Syrian on the third day, that Jacob was fled.
+
+### Genesis 31:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and taking his brothers with him, he pursued after him a journey of seven days and overtook him at the mountain of Gilead.
+- brenton: And having taken his brethren with him, he pursued after him seven days' journey, and overtook him on Mount Galaad.
+
+### Genesis 31:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God came to Laban the Syrian in sleep by night and said to him, Watch yourself, lest you speak evil things with Jacob.
+- brenton: And God came to Laban the Syrian in sleep by night, and said to him, Take heed to thyself that thou speak not at any time to Jacob evil things.
+
+### Genesis 31:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban overtook Jacob. Now Jacob had pitched his tent in the mountain, and Laban stationed his brothers at the mountain of Gilead.
+- brenton: And Laban overtook Jacob; and Jacob pitched his tent in the mountain; and Laban stationed his brothers in the mount Galaad.
+
+### Genesis 31:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to Jacob, What did you do? Why did you run away in secret and carry me off by theft and lead away my daughters like captives of the sword?
+- brenton: And Laban said to Jacob, What hast thou done? wherefore didst thou run away secretly, and pillage me, and lead away my daughters as captives taken with the sword?
+
+### Genesis 31:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you had reported it to me, I would have sent you away with gladness and with songs and with tambourines and with lyre,
+- brenton: Whereas if thou hadst told me, I would have sent thee away with mirth, and with songs, and timbrels, and harp.
+
+### Genesis 31:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and I was not counted worthy to kiss my children and my daughters. But now you acted foolishly.
+- brenton: And I was not counted worthy to embrace my children and my daughters; now then thou hast wrought foolishly.
+
+### Genesis 31:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now my hand has power to harm you, but the God of your father said to me yesterday, saying, Watch yourself, lest you speak evil things with Jacob.
+- brenton: And now my hand has power to hurt thee; but the God of thy father spoke to me yesterday, saying, Take heed to thyself that thou speak not evil words to Jacob.
+
+### Genesis 31:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So now go on, for with desire you desired to go to your father's house. Why did you steal my gods?
+- brenton: Now then go on thy way, for thou hast earnestly desired to depart to the house of thy father; wherefore hast thou stolen my gods?
+
+### Genesis 31:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob answered and said to Laban, Because I was afraid, for I said, Perhaps you would take your daughters away from me and all that is mine.
+- brenton: And Jacob answered and said to Laban, Because I was afraid; for I said, Lest at any time thou shouldest take away thy daughters from me, and all my possessions.
+
+### Genesis 31:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said, With whomever you find your gods, he shall not live before our brothers. Recognize what of yours is with me and take it. But Jacob did not know that Rachel his wife had stolen them.
+- brenton: And Jacob said, With whomsoever thou shalt find thy gods, he shall not live in the presence of our brethren; take notice of what I have of thy property, and take it; and he observed nothing with him, but Jacob knew not that his wife Rachel had stolen them.
+
+### Genesis 31:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And going in, Laban searched Leah's house and did not find them. And he went out from Leah's house and searched Jacob's house and the house of the two servant-girls and did not find them. Then he entered Rachel's house too.
+- brenton: And Laban went in and searched in the house of Lea, and found them not; and he went out of the house of Lea, and searched in the house of Jacob, and in the house of the two maid-servants, and found them not; and he went also into the house of Rachel.
+
+### Genesis 31:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Rachel had taken the idols and thrown them among the camel packs and sat on them.
+- brenton: And Rachel took the idols, and cast them among the camels' packs, and sat upon them.
+
+### Genesis 31:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she said to her father, Do not take it heavily, lord. I cannot rise before you, because the custom of women is upon me. And Laban searched through the whole house and did not find the idols.
+- brenton: And she said to her father, Be not indignant, Sir; I cannot rise up before thee, for it is with me according to the manner of women. Laban searched in all the house, and found not the images.
+
+### Genesis 31:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob grew angry and fought with Laban. And Jacob answered and said to Laban, What is my wrongdoing and what is my sin, that you pursued after me?
+- brenton: And Jacob was angry, and strove with Laban; and Jacob answered and said to Laban, What is my injustice, and what my sin, that thou hast pursued after me,
+
+### Genesis 31:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And because you searched all the furnishings of my house, what did you find from all the furnishings of your house? Set it here before your brothers and my brothers, and let them judge between the two of us.
+- brenton: and that thou hast searched all the furniture of my house? what hast thou found of all the furniture of thine house? set it here between thy relations and my relations, and let them decide between us two.
+
+### Genesis 31:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These twenty years I have been with you. Your sheep and your goats did not miscarry, and I did not eat the rams of your sheep.
+- brenton: These twenty years have I been with thee; thy sheep, and thy she-goats have not failed in bearing; I devoured not the rams of thy cattle.
+
+### Genesis 31:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: What was torn by beasts I did not bring to you. I was making good from myself the thefts of day and the thefts of night.
+- brenton: That which was taken of beasts I brought not to thee; I made good of myself the thefts of the day, and the thefts of the night.
+
+### Genesis 31:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By day I was being burned together by the heat and by the frost of night, and my sleep departed from my eyes.
+- brenton: I was parched with heat by day, and chilled with frost by night, and my sleep departed from my eyes.
+
+### Genesis 31:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you tricked my wages by ten lambs.
+- brenton: These twenty years have I been in thy house; I served thee fourteen years for thy two daughters, and six years among thy sheep, and thou didst falsely rate my wages for ten lambs.
+
+### Genesis 31:42
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: If the God of my father Abraham and the Fear of Isaac had not been mine, now you would have sent me away empty. God saw my humiliation and the labor of my hands and rebuked you yesterday.
+- brenton: Unless I had the God of my father Abraam, and the fear of Isaac, now thou wouldest have sent me away empty; God saw my humiliation, and the labour of my hands, and rebuked thee yesterday.
+
+### Genesis 31:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the livestock my livestock, and all that you see is mine and my daughters'. What shall I do to these today or to their children whom they bore?
+- brenton: And Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the cattle are my cattle, and all things which thou seest are mine, and the property of my daughters; what shall I do to them to-day, or their children which they bore?
+
+### Genesis 31:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So now come, let us make a covenant, both I and you, and it shall be for a witness between me and you. And he said to him, Look, no one is with us. Look, God is witness between me and you.
+- brenton: Now then come, let me make a covenant, both I and thou, and it shall be for a witness between me and thee; and he said to him, Behold, there is no one with us; behold, God is witness between me and thee.
+
+### Genesis 31:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob took a stone and set it up as a pillar.
+- brenton: And Jacob having taken a stone, set it up for a pillar.
+
+### Genesis 31:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to his brothers, Gather stones. And they gathered stones and made a heap, and they ate there on the heap.
+- brenton: And Jacob said to his brethren, Gather stones; and they gathered stones and made a heap, and ate there upon the heap; and Laban said to him, This heap witnesses between me and thee to-day.
+
+### Genesis 31:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban said to him, This heap bears witness between me and you today.
+- brenton: And Laban called it, the Heap of Testimony; and Jacob called it, the Witness Heap.
+
+### Genesis 31:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Laban called it Heap of Witness, but Jacob called it Witness Heap. And Laban said to Jacob, Look, this heap and this pillar that I set between me and you, this heap bears witness and this pillar bears witness. Therefore its name was called, Heap bears witness.
+- brenton: And Laban said to Jacob, Behold this heap, and the pillar, which I have set between me and thee; this heap witnesses, and this pillar witnesses; therefore its name was called, the Heap witnesses.
+
+### Genesis 31:49
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Watchpost, which he said, May God look between me and you, because we will be separated from one another.
+- brenton: And the vision of which he said—Let God look to it between me and thee, because we are about to depart from each other,—
+
+### Genesis 31:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you humble my daughters, if you take wives in addition to my daughters, see, no one is with us seeing. God is witness between me and you.
+- brenton: If thou shalt humble my daughters, if thou shouldest take wives in addition to my daughters, see, there is no one with us looking on. God is witness between me and thee.
+
+### Genesis 31:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For if I should not cross over to you, and you should not cross over to me beyond this heap and this pillar for evil,
+- brenton: For if I should not cross over unto thee, neither shouldest thou cross over to me, for mischief beyond this heap and this pillar.
+
+### Genesis 31:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the God of Abraham and the God of Nahor will judge between us.
+- brenton: The God of Abraam and the God of Nachor judge between us; and Jacob swore by the Fear of his father Isaac.
+
+### Genesis 31:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob swore by the Fear of Isaac his father and offered a sacrifice in the mountain and called his brothers, and they ate and drank and slept in the mountain.
+- brenton: And he offered a sacrifice in the mountain, and called his brethren, and they ate and drank, and slept in the mountain.
+
+### Genesis 32:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob went on his own way. And lifting up his eyes, he saw a camp of God encamped, and the angels of God met him.
+- brenton: And Laban rose up in the morning, and kissed his sons and his daughters, and blessed them; and Laban having turned back, departed to his place.
+
+### Genesis 32:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
+- brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
+
+### Genesis 32:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob sent messengers before him to Esau his brother in the land of Seir, in the country of Edom.
+- brenton: And Jacob said, when he saw them, This is the Camp of God; and he called the name of that place, Encampments.
+
+### Genesis 32:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he charged them, saying, Thus you will say to my lord Esau, Thus says your servant Jacob: I sojourned with Laban and lingered until now,
+- brenton: And Jacob sent messengers before him to Esau his brother to the land of Seir, to the country of Edom.
+
+### Genesis 32:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and there came to me oxen and donkeys and sheep and male servants and female servants, and I sent to report to my lord Esau, so that your servant may find favor before you.
+- brenton: And he charged them, saying, Thus shall ye say to my lord Esau: Thus saith thy servant Jacob; I have sojourned with Laban and tarried until now.
+
+### Genesis 32:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the messengers returned to Jacob, saying, We came to your brother Esau, and look, he is coming to meet you, and four hundred men are with him.
+- brenton: And there were born to me oxen, and asses, and sheep, and men-servants and women-servants; and I sent to tell my lord Esau, that thy servant might find grace in thy sight.
+
+### Genesis 32:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob feared greatly and was perplexed. And he divided the people with him and the cattle and the camels and the sheep into two camps,
+- brenton: And the messengers returned to Jacob, saying, We came to thy brother Esau, and lo! he comes to meet thee, and four hundred men with him.
+
+### Genesis 32:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Jacob said, If Esau comes to one camp and cuts it down, the second camp will be for safety.
+- brenton: And Jacob was greatly terrified, and was perplexed; and he divided the people that was with him, and the cows, and the camels, and the sheep, into two camps.
+
+### Genesis 32:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said, God of my father Abraham and God of my father Isaac, Lord, you are the one who said to me, Run back to the land of your birth and I will do you good,
+- brenton: And Jacob said, If Esau should come to one camp, and smite it, the other camp shall be in safety.
+
+### Genesis 32:10
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
+
+### Genesis 32:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Deliver me from the hand of my brother, from the hand of Esau, because I am afraid of him, lest he come and strike me, mother upon children.
+- brenton: Let there be to me a sufficiency of all the justice and all the truth which thou hast wrought with thy servant; for with this my staff I passed over this Jordan, and now I am become two camps.
+
+### Genesis 32:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you said, I will do you good and make your seed like the sand of the sea, which will not be numbered because of the multitude.
+- brenton: Deliver me from the hand of my brother, from the hand of Esau, for I am afraid of him, lest haply he should come and smite me, and the mother upon the children.
+
+### Genesis 32:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he slept there that night and took from what he was carrying gifts and sent them to Esau his brother,
+- brenton: But thou saidst, I will do thee good, and will make thy seed as the sand of the sea, which shall not be numbered for multitude.
+
+### Genesis 32:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
+- brenton: And he slept there that night, and took of the gifts which he carried with him, and sent out to Esau his brother,
+
+### Genesis 32:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
+- brenton: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
+
+### Genesis 32:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he gave them to his servants, herd by itself. And he said to his servants, Go on before me, and put a gap between herd and herd.
+- brenton: milch camels, and their foals, thirty, forty kine, ten bulls, twenty asses, and ten colts.
+
+### Genesis 32:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he charged the first, saying, If Esau my brother meets you and asks you, saying, Whose are you and where are you going and whose are these going before you,
+- brenton: And he gave them to his servants each drove apart; and he said to his servants, Go on before me, and put a space between drove and drove.
+
+### Genesis 32:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: you will say, They belong to your servant Jacob. He sent gifts to my lord Esau, and look, he himself is behind us.
+- brenton: And he charged the first, saying, If Esau my brother meet thee, and he ask thee, saying, Whose art thou? and whither wouldest thou go, and whose are these possessions advancing before thee?
+
+### Genesis 32:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he charged the first and the second and the third and all those going before behind these herds, saying, According to this word speak to Esau when you find him,
+- brenton: Thou shalt say, Thy servant Jacob's; he hath sent gifts to my lord Esau, and lo! he is behind us.
+
+### Genesis 32:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: and you will say, Look, your servant Jacob is coming behind us. For he said, I will propitiate his face with the gifts going before him, and after this I will see his face. For perhaps he will accept my face.
+- brenton: And he charged the first and the second and the third, and all that went before him after these flocks, saying, Thus shall ye speak to Esau when ye find him;
+
+### Genesis 32:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the gifts went on before him, but he himself slept that night in the camp.
+- brenton: and ye shall say, Behold thy servant Jacob comes after us. For he said, I will propitiate his countenance with the gifts going before his presence, and afterwards I will behold his face, for peradventure he will accept me.
+
+### Genesis 32:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And rising in that night, he took his two wives and his two servant-girls and his eleven children and crossed the ford of Jabbok.
+- brenton: So the presents went on before him, but he himself lodged that night in the camp.
+
+### Genesis 32:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he took them and crossed the torrent and brought over all that was his.
+- brenton: And he rose up in that night, and took his two wives and his two servant-maids, and his eleven children, and crossed over the ford of Jaboch.
+
+### Genesis 32:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob was left behind alone, and a man wrestled with him until morning.
+- brenton: And he took them, and passed over the torrent, and brought over all his possessions.
+
+### Genesis 32:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+- brenton: And Jacob was left alone; and a man wrestled with him till the morning.
+
+### Genesis 32:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, Send me away, for dawn has come up. But he said, I will certainly not send you away unless you bless me.
+- brenton: And he saw that he prevailed not against him; and he touched the broad part of his thigh, and the broad part of Jacob's thigh was benumbed in his wrestling with him.
+
+### Genesis 32:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, What is your name? And he said, Jacob.
+- brenton: And he said to him, Let me go, for the day has dawned; but he said, I will not let thee go, except thou bless me.
+
+### Genesis 32:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said to him, Your name will no longer be called Jacob, but Israel shall be your name, because you were strong with God, and with men you will be powerful.
+- brenton: And he said to him, What is thy name? and he answered, Jacob.
+
+### Genesis 32:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob asked and said, Tell me your name. And he said, Why is this that you ask my name? And he blessed him there.
+- brenton: And he said to him, Thy name shall no longer be called Jacob, but Israel shall be thy name; for thou hast prevailed with God, and shalt be mighty with men.
+
+### Genesis 32:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
+- brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.
+
+### Genesis 32:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sun rose on him when he passed the Form of God, and he was limping on his thigh.
+- brenton: And Jacob called the name of that place, the Face of God; for, said he, I have seen God face to face, and my life was preserved.
+
+### Genesis 32:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because of this the sons of Israel shall never eat the sinew that went numb, which is on the broad part of the thigh, until this day, because he touched the broad part of Jacob's thigh, the sinew that went numb.
+- brenton: And the sun rose upon him, when he passed the Face of God; and he halted upon his thigh.
+
+### Genesis 32:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because of this the sons of Israel shall never eat the sinew that went numb, which is on the broad part of the thigh, until this day, because he touched the broad part of Jacob's thigh, the sinew and it went numb.
+- brenton: Therefore the children of Israel will by no means eat of the sinew which was benumbed, which is on the broad part of the thigh, until this day, because the angel touched the broad part of the thigh of Jacob—even the sinew which was benumbed.
+
+### Genesis 33:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, lifting up his eyes, saw, and look, Esau his brother was coming and four hundred men with him. And Jacob divided the children among Leah and Rachel and the two servant-girls.
+- brenton: And Jacob lifted up his eyes, and beheld, and lo! Esau his brother coming, and four hundred men with him; and Jacob divided the children to Lea and to Rachel, and the two handmaidens.
+
+### Genesis 33:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he placed the two servant-girls and their sons first, and Leah and her children behind, and Rachel and Joseph last.
+- brenton: And he put the two handmaidens and their children with the first, and Lea and her children behind, and Rachel and Joseph last.
+
+### Genesis 33:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But he himself went before them and bowed to the ground seven times until he drew near to his brother.
+- brenton: But he advanced himself before them, and did reverence to the ground seven times, until he drew near to his brother.
+
+### Genesis 33:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau ran to meet him and embraced him and fell on his neck and kissed him, and both wept.
+- brenton: And Esau ran on to meet him, and embraced him, and fell on his neck, and kissed him; and they both wept.
+
+### Genesis 33:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau lifted up his eyes and saw the women and the children and said, What are these to you? And he said, The children to whom God showed mercy to your servant.
+- brenton: And Esau looked up and saw the women and the children, and said, What are these to thee? And he said, The children with which God has mercifully blessed thy servant.
+
+### Genesis 33:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the servant-girls and their children came near and bowed,
+- brenton: And the maid-servants and their children drew near and did reverence.
+
+### Genesis 33:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Leah and her children came near and bowed. And after these Rachel and Joseph came near and bowed.
+- brenton: And Lea and her children drew near and did reverence; and after this drew near Rachel and Joseph, and did reverence.
+
+### Genesis 33:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, What are all these camps to you that I met? And he said, So that your servant may find favor before you, lord.
+- brenton: And he said, What are these things to thee, all these companies that I have met? And he said, That thy servant might find grace in thy sight, my lord.
+
+### Genesis 33:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau said, I have much, brother. Let what is yours remain yours.
+- brenton: And Esau said, I have much, my brother; keep thine own.
+
+### Genesis 33:10
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said, If I found favor before you, receive the gifts by my hands, because for this reason I saw your face as one might see God's face, and you were well pleased with me.
+- brenton: And Jacob said, If I have found grace in thy sight, receive the gifts through my hands; therefore have I seen thy face, as if any one should see the face of God, and thou shalt be well-pleased with me.
+
+### Genesis 33:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Take my blessings that I brought to you, because God showed mercy to me and because I have everything. And he pressed him, and he took them.
+- brenton: Receive my blessings, which I have brought thee, because God has had mercy on me, and I have all things; and he constrained him, and he took them.
+
+### Genesis 33:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Let us set out and go straight on.
+- brenton: And he said, Let us depart, and proceed right onward.
+
+### Genesis 33:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But he said to him, My lord knows that the children are more delicate, and the sheep and the cattle with young are on me. So if I drive them hard one day, all the livestock will die.
+- brenton: And he said to him, My lord knows, that the children are very tender, and the flocks and the herds with me are with young; if then I shall drive them hard one day, all the cattle will die.
+
+### Genesis 33:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let my lord go on before his servant, and I will strengthen myself on the road at the leisure of the journey before me and according to the pace of the children, until I come to my lord in Seir.
+- brenton: Let my lord go on before his servant, and I shall have strength on the road according to the ease of the journey before me, and according to the strength of the children, until I come to my lord to Seir.
+
+### Genesis 33:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau said, I will leave with you some of the people with me. But he said, Why this? It is enough that I found favor before you, lord.
+- brenton: And Esau said, I will leave with thee some of the people who are with me. And he said, Why so? it is enough that I have found favour before thee, my lord.
+
+### Genesis 33:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau turned back on that day on his way to Seir.
+- brenton: And Esau returned on that day on his journey to Seir.
+
+### Genesis 33:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob set out to Tents, and there he made houses for himself, and for his livestock he made tents. Therefore he called the name of that place, Tents.
+- brenton: And Jacob departs to his tents; and he made for himself there habitations, and for his cattle he made booths; therefore he called the name of that place, Booths.
+
+### Genesis 33:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob came to Salem, city of Shechem, which is in the land of Canaan, when he returned from Mesopotamia of Syria, and he encamped in front of the city.
+- brenton: And Jacob came to Salem, a city of Secima, which is in the land of Chanaan, when he departed out of Mesopotamia of Syria, and took up a position in front of the city.
+
+### Genesis 33:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he bought the portion of the field where he set his tent there from Emmor father of Sychem for one hundred lambs.
+- brenton: And he bought the portion of the field, where he pitched his tent, of Emmor the father of Sychem, for a hundred lambs.
+
+### Genesis 33:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he set up an altar there and called on the God of Israel.
+- brenton: And he set up there an altar, and called on the God of Israel.
+
+### Genesis 34:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Dinah, daughter of Leah, whom she bore to Jacob, went out to observe the daughters of the inhabitants.
+- brenton: And Dina, the daughter of Lea, whom she bore to Jacob, went forth to observe the daughters of the inhabitants.
+
+### Genesis 34:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sychem son of Emmor the Hivite, ruler of the land, saw her, and taking her, he lay with her and humbled her.
+- brenton: And Sychem the son of Emmor the Evite, the ruler of the land, saw her, and took her and lay with her, and humbled her.
+
+### Genesis 34:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he was attached in soul to Dinah daughter of Jacob, and he loved the virgin and spoke to the heart of the virgin.
+- brenton: And he was attached to the soul of Dina the daughter of Jacob, and he loved the damsel, and he spoke kindly to the damsel.
+
+### Genesis 34:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sychem said to Emmor his father, saying, Take this girl for me as wife.
+- brenton: Sychem spoke to Emmor his father, saying, Take for me this damsel to wife.
+
+### Genesis 34:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob heard that the son of Emmor had defiled Dinah his daughter. But his sons were with his livestock in the plain. And Jacob kept silent until they came.
+- brenton: And Jacob heard that the son of Emmor had defiled Dina his daughter (now his sons were with his cattle in the plain). And Jacob was silent until they came.
+
+### Genesis 34:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Emmor father of Sychem went out to Jacob to speak with him.
+- brenton: And Emmor the father of Sychem went forth to Jacob, to speak to him.
+
+### Genesis 34:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob's sons came from the plain. And when they heard, the men were pierced and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
+- brenton: And the sons of Jacob came from the plain; and when they heard, the men were deeply pained, and it was very grievous to them, because the man wrought folly in Israel, having lain with the daughter of Jacob, and so it must not be.
+
+### Genesis 34:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Emmor spoke to them, saying, My son Sychem chose your daughter in his soul. So give her to him as wife,
+- brenton: And Emmor spoke to them, saying, Sychem my son has chosen in his heart your daughter; give her therefore to him for a wife,
+
+### Genesis 34:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and intermarry with us. Give your daughters to us and take our daughters for your sons.
+- brenton: and intermarry with us. Give us your daughters, and take our daughters for your sons.
+
+### Genesis 34:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And dwell among us, and look, the land is broad before you. Dwell and trade on it and gain possessions in it.
+- brenton: And dwell in the midst of us; and, behold, the land is spacious before you, dwell in it, and trade, and get possessions in it.
+
+### Genesis 34:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sychem said to her father and to her brothers, May I find favor before you, and whatever you say, we will give.
+- brenton: And Sychem said to her father and to her brothers, I would find grace before you, and we will give whatever ye shall name.
+
+### Genesis 34:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Greatly increase the dowry, and I will give according to whatever you say to me. Only give me this girl as wife.
+- brenton: Multiply your demand of dowry very much, and I will give accordingly as ye shall say to me, only ye shall give me this damsel for a wife.
+
+### Genesis 34:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob's sons answered Sychem and Emmor his father with deceit and spoke to them, because they had defiled Dinah their sister,
+- brenton: And the sons of Jacob answered to Sychem and Emmor his father craftily, and spoke to them, because they had defiled Dina their sister.
+
+### Genesis 34:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Simeon and Levi, Dinah's brothers, said to them, We cannot do this thing, to give our sister to a man who has foreskin, for it is a reproach to us.
+- brenton: And Symeon and Levi, the brothers of Dina, said to them, We shall not be able to do this thing, to give our sister to a man who is uncircumcised, for it is a reproach to us.
+
+### Genesis 34:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only in this will we become like you and dwell among you: if you too become as we are in every male of yours being circumcised.
+- brenton: Only on these terms will we conform to you, and dwell among you, if ye also will be as we are, in that every male of you be circumcised.
+
+### Genesis 34:16
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And we will give our daughters to you, and from your daughters we will take wives for ourselves, and we will dwell with you and become like one race.
+- brenton: And we will give our daughters to you, and we will take of your daughters for wives to us, and we will dwell with you, and we will be as one race.
+
+### Genesis 34:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if you do not listen to us to be circumcised, taking our daughter, we will depart.
+- brenton: But if ye will not hearken to us to be circumcised, we will take our daughter and depart.
+
+### Genesis 34:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the words were pleasing before Emmor and before Sychem son of Emmor.
+- brenton: And the words pleased Emmor, and Sychem the son of Emmor.
+
+### Genesis 34:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the young man did not delay to do this thing, for he was attached to Jacob's daughter. And he was the most honored of all in his father's house.
+- brenton: And the young man delayed not to do this thing, for he was much attached to Jacob's daughter, and he was the most honourable of all in his father's house.
+
+### Genesis 34:20
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Emmor and Sychem his son came to the gate of their city and spoke to the men of their city, saying,
+- brenton: And Emmor and Sychem his son came to the gate of their city, and spoke to the men of their city, saying,
+
+### Genesis 34:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These men are peaceable with us. Let them dwell on the land and trade it, and look, the land is broad before them. We will take their daughters as wives for ourselves, and we will give our daughters to them.
+- brenton: These men are peaceable, let them dwell with us upon the land, and let them trade in it, and behold the land is extensive before them; we will take their daughters to us for wives, and we will give them our daughters.
+
+### Genesis 34:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only in this will the men become like us to dwell with us, so as to be one people, in every male of us being circumcised, just as they also are circumcised.
+- brenton: Only on these terms will the men conform to us to dwell with us so as to be one people, if every male of us be circumcised, as they also are circumcised.
+
+### Genesis 34:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And will not their livestock and their four-footed animals and their possessions be ours? Only in this let us become like them, and they will dwell with us.
+- brenton: And shall not their cattle and their herds, and their possessions, be ours? only in this let us conform to them, and they will dwell with us.
+
+### Genesis 34:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all who traded through the gate of their city listened to Emmor and Sychem his son, and every male was circumcised in the flesh of their foreskin.
+- brenton: And all that went in at the gate of their city hearkened to Emmor and Sychem his son, and they were circumcised in the flesh of their foreskin every male.
+
+### Genesis 34:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on the third day, when they were in pain, the two sons of Jacob, Simeon and Levi, Dinah's brothers, each took his sword and entered the city securely and killed every male.
+- brenton: And it came to pass on the third day, when they were in pain, the two sons of Jacob, Symeon and Levi, Dina's brethren, took each man his sword, and came upon the city securely, and slew every male.
+
+### Genesis 34:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they killed Emmor and Sychem his son by the mouth of the sword, and they took Dinah from Sychem's house and went out.
+- brenton: And they slew Emmor and Sychem his son with the edge of the sword, and took Dina out of the house of Sychem, and went forth.
+
+### Genesis 34:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob's sons entered upon the wounded and plundered the city in which they had defiled Dinah their sister,
+- brenton: But the sons of Jacob came upon the wounded, and ravaged the city wherein they had defiled Dina their sister.
+
+### Genesis 34:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they took their sheep and their cattle and their donkeys, whatever was in the city and whatever was in the field.
+- brenton: And their sheep, and their oxen, and their asses they took, and all things whatsoever were in the city, and whatsoever were in the plain.
+
+### Genesis 34:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took captive all their persons and all their baggage and their wives, and they plundered whatever was in the city and whatever was in the houses.
+- brenton: And they took captive all the persons of them, and all their store, and their wives, and plundered both whatever things there were in the city, and whatever things there were in the houses.
+
+### Genesis 34:30
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to Simeon and Levi, You made me hateful, so that I am evil to all the inhabitants of the land, both among the Canaanites and among the Perizzites. And I am few in number, and gathering against me they will cut me down, and I and my house will be destroyed.
+- brenton: And Jacob said to Symeon and Levi, Ye have made me hateful so that I should be evil to all the inhabitants of the land, both among the Chananites and the Pherezites, and I am few in number; they will gather themselves against me and cut me in pieces, and I shall be utterly destroyed, and my house.
+
+### Genesis 34:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But they said, Shall they treat our sister like a prostitute?
+- brenton: And they said, Nay, but shall they treat our sister as an harlot?
+
+### Genesis 35:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Jacob, Rise, go up to the place Bethel and dwell there, and make there an altar to the God who appeared to you when you fled from the face of Esau your brother.
+- brenton: And God said to Jacob, Arise, go up to the place, Bæthel, and dwell there; and make there an altar to the God that appeared to thee, when thou fleddest from the face of Esau thy brother.
+
+### Genesis 35:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to his house and to all with him, Take away the foreign gods from your midst and purify yourselves and change your garments,
+- brenton: And Jacob said to his house, and to all that were with him, Remove the strange gods that are with you from the midst of you, and purify yourselves, and change your clothes.
+
+### Genesis 35:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and rising, let us go up to Bethel and let us make there an altar to the God who heard me in the day of distress, who was with me and preserved me on the road on which I traveled.
+- brenton: And let us rise and go up to Bæthel, and let us there make an altar to God who hearkened to me in the day of calamity, who was with me, and preserved me throughout in the journey, by which I went.
+
+### Genesis 35:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they gave Jacob the foreign gods that were in their hands and the earrings in their ears, and Jacob hid them under the terebinth in Sychem, and he destroyed them until this day.
+- brenton: And they gave to Jacob the strange gods, which were in their hands, and the ear-rings which were in their ears, and Jacob hid them under the turpentine tree which is in Secima, and destroyed them to this day.
+
+### Genesis 35:5
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel set out from Sychem, and a fear of God came on the cities around them, and they did not pursue after the sons of Israel.
+- brenton: So Israel departed from Secima, and the fear of God was upon the cities round about them, and they did not pursue after the children of Israel.
+
+### Genesis 35:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob came to Louza, which is in the land of Canaan, which is Bethel, he and all the people with him.
+- brenton: And Jacob came to Luza, which is in the land of Chanaan, which is Bæthel, he and all the people that were with him.
+
+### Genesis 35:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he built there an altar and called the name of the place Bethel, for there God appeared to him when he fled from the face of Esau his brother.
+- brenton: And he built there an altar, and called the name of the place Bæthel; for there God appeared to him, when he fled from the face of his brother Esau.
+
+### Genesis 35:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Deborah, Rebekah's nurse, died and was buried below Bethel under the oak, and Jacob called its name Oak of Mourning.
+- brenton: And Deborrha, Rebecca's nurse, died, and was buried below Bæthel under the oak; and Jacob called its name, The Oak of Mourning.
+
+### Genesis 35:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God appeared to Jacob again in Louza, when he came from Mesopotamia of Syria, and God blessed him.
+- brenton: And God appeared to Jacob once more in Luza, when he came out of Mesopotamia of Syria, and God blessed him.
+
+### Genesis 35:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to him, Your name shall no longer be called Jacob, but Israel shall be your name. And he called his name Israel.
+- brenton: And God said to him, Thy name shall not be called Jacob, but Israel shall be thy name; and he called his name Israel.
+
+### Genesis 35:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins.
+- brenton: And God said to him, I am thy God; increase and multiply; for nations and gatherings of nations shall be of thee, and kings shall come out of thy loins.
+
+### Genesis 35:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land that I gave to Abraham and Isaac, I have given it to you. It shall be yours, and to your seed after you I will give this land.
+- brenton: And the land which I gave to Abraam and Isaac, I have given it to thee; and it shall come to pass that I will give this land also to thy seed after thee.
+
+### Genesis 35:13
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And God went up from him from the place where he spoke with him.
+- brenton: And God went up from him from the place where he spoke with him.
+
+### Genesis 35:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob set up a pillar in the place where God spoke with him, a stone pillar, and he poured a libation on it and poured oil on it.
+- brenton: And Jacob set up a pillar in the place where God spoke with him, even a pillar of stone; and offered a libation upon it, and poured oil upon it.
+
+### Genesis 35:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob called the name of the place where God spoke with him there, Bethel.
+- brenton: And Jacob called the name of the place in which God spoke with him, Bæthel.
+
+### Genesis 35:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, setting out from Bethel, pitched his tent beyond the tower of Gader. And it happened when he drew near to Chabratha to come to Ephratha, Rachel gave birth, and she was in hard labor in the birth.
+- brenton: [And Jacob removed from Bæthel, and pitched his tent beyond the tower of Gader,] and it came to pass when he drew nigh to Chabratha, to enter into Ephratha, Rachel travailed; and in her travail she was in hard labour.
+
+### Genesis 35:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in her hard labor, the midwife said to her, Take courage, for this son also is yours.
+- brenton: And it came to pass in her hard labour, that the midwife said to her, Be of good courage, for thou shalt also have this son.
+
+### Genesis 35:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened when her life was departing, for she was dying, she called his name Son of my pain. But his father called his name Benjamin.
+- brenton: And it came to pass in her giving up the ghost (for she was dying), that she called his name, The son of my pain; but his father called his name Benjamin.
+
+### Genesis 35:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Rachel died and was buried on the road of the racecourse of Ephratha (this is Bethlehem).
+- brenton: So Rachel died, and was buried in the way of the course of Ephratha, this is Bethleem.
+
+### Genesis 35:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob set up a pillar over her tomb. This is the pillar over Rachel's tomb until this day.
+- brenton: And Jacob set up a pillar on her tomb; this is the pillar on the tomb of Rachel, until this day.
+
+### Genesis 35:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Jacob's sons were twelve.
+- brenton: And it came to pass when Israel dwelt in that land, that Ruben went and lay with Balla, the concubine of his father Jacob; and Israel heard, and the thing appeared grievous before him.
+
+### Genesis 35:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Leah: firstborn of Jacob, Reuben, Simeon, Levi, Judah, Issachar, Zebulun.
+- brenton: The sons of Lea, the first-born of Jacob; Ruben, Symeon, Levi, Judas, Issachar, Zabulon.
+
+### Genesis 35:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Rachel: Joseph and Benjamin.
+- brenton: And the sons of Rachel; Joseph and Benjamin.
+
+### Genesis 35:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Balla, Rachel's servant-girl: Dan and Naphtali.
+- brenton: And the sons of Balla, the hand-maid of Rachel; Dan and Nephthalim.
+
+### Genesis 35:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons of Zelpha, Leah's servant-girl: Gad and Asher. These are Jacob's sons, who came to him in Mesopotamia of Syria.
+- brenton: And the sons of Zelpha, the hand-maid of Lea; Gad and Aser. These are the sons of Jacob, which were born to him in Mesopotamia of Syria.
+
+### Genesis 35:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob came to Isaac his father at Mamre, to city of the plain (this is Hebron) in the land of Canaan, where Abraham and Isaac had sojourned.
+- brenton: And Jacob came to Isaac his father to Mambre, to a city of the plain; this is Chebron in the land of Chanaan, where Abraam and Isaac sojourned.
+
+### Genesis 35:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days of Isaac that he lived became one hundred eighty years,
+- brenton: And the days of Isaac which he lived were an hundred and eighty years.
+
+### Genesis 35:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and failing, Isaac died and was added to his people, old and full of days. And Esau and Jacob his sons buried him.
+- brenton: And Isaac gave up the ghost and died, and was laid to his family, old and full of days; and Esau and Jacob his sons buried him.
+
+### Genesis 36:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the generations of Esau (he is Edom):
+- brenton: And these are the generations of Esau; this is Edom.
+
+### Genesis 36:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau took wives for himself from the daughters of the Canaanites: Ada daughter of Ailon the Hittite, and Olibema daughter of Ana son of Sebegon the Hivite,
+- brenton: And Esau took to himself wives of the daughters of the Chananites; Ada, the daughter of Ælom the Chettite; and Olibema, daughter of Ana the son of Sebegon, the Evite;
+
+### Genesis 36:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Basemath daughter of Ishmael, sister of Nabeoth.
+- brenton: and Basemath, daughter of Ismael, sister of Nabaioth.
+
+### Genesis 36:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ada bore Eliphas to him, and Basemath bore Ragouel,
+- brenton: And Ada bore to him Eliphas; and Basemath bore Raguel.
+
+### Genesis 36:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Olibema bore Jeous and Jeglom and Kore. These are Esau's sons who came to him in the land of Canaan.
+- brenton: And Olibema bore Jeus, and Jeglom, and Core; these are the sons of Esau, which were born to him in the land of Chanaan.
+
+### Genesis 36:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Esau took his wives and his sons and his daughters and all the persons of his house and all his possessions and all his livestock and everything he acquired and everything he gained in the land of Canaan, and Esau went from the land of Canaan away from the face of Jacob his brother.
+- brenton: And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and all his possessions, and all his cattle, and all that he had got, and all things whatsoever he had acquired in the land of Chanaan; and Esau went forth from the land of Chanaan, from the face of his brother Jacob.
+
+### Genesis 36:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For their possessions were too many to dwell together, and the land of their sojourning was not able to carry them because of the abundance of their possessions.
+- brenton: For their substance was too great for them to dwell together; and the land of their sojourning could not bear them, because of the abundance of their possessions.
+
+### Genesis 36:8
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Esau dwelt in Mount Seir (Esau, he is Edom).
+- brenton: And Esau dwelt in mount Seir; Esau, he is Edom.
+
+### Genesis 36:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the generations of Esau father of Edom in Mount Seir,
+- brenton: And these are the generations of Esau, the father of Edom in the mount Seir.
+
+### Genesis 36:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and these are the names of Esau's sons: Eliphas son of Ada, wife of Esau, and Ragouel son of Basemath, wife of Esau.
+- brenton: And these are the names of the sons of Esau. Eliphas, the son of Ada, the wife of Esau; and Raguel, the son of Basemath, wife of Esau.
+
+### Genesis 36:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eliphas' sons were Thaiman, Omar, Sophar, Gothom, and Kenez.
+- brenton: And the sons of Eliphas were Thæman, Omar, Sophar, Gothom, and Kenez.
+
+### Genesis 36:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Thamna was concubine of Eliphas, Esau's son, and she bore Amalek to Eliphas. These are the sons of Ada, Esau's wife.
+- brenton: And Thamna was a concubine of Eliphaz, the son of Esau; and she bore Amalec to Eliphas. These are the sons of Ada, the wife of Esau.
+
+### Genesis 36:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are Ragouel's sons: Nachoth, Zare, Some, and Moze. These were the sons of Basemath, Esau's wife.
+- brenton: And these are the sons of Raguel; Nachoth, Zare, Some, and Moze. These were the sons of Basemath, wife of Esau.
+
+### Genesis 36:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Olibema, daughter of Ana son of Sebegon, wife of Esau. And she bore Jeous and Jeglom and Kore to Esau.
+- brenton: And these are the sons of Olibema, the daughter of Ana, the son of Sebegon, the wife of Esau; and she bore to Esau, Jeus, and Jeglom, and Core.
+
+### Genesis 36:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the chiefs, sons of Esau. Sons of Eliphas, Esau's firstborn: chief Thaiman, chief Omar, chief Sophar, chief Kenez,
+- brenton: These are the chiefs of the son of Esau, even the sons of Eliphas, the first-born of Esau; chief Thæman, chief Omar, chief Sophar, chief Kenez,
+
+### Genesis 36:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: chief Kore, chief Gothom, chief Amalek. These are the chiefs of Eliphas in the land of Idumea. These are the sons of Ada.
+- brenton: chief Core, chief Gothom, chief Amalec. These are the chiefs of Eliphas, in the land of Edom; these are the sons of Ada.
+
+### Genesis 36:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Ragouel, son of Esau: chief Nachoth, chief Zare, chief Some, chief Moze. These are the chiefs of Ragouel in the land of Edom. These are the sons of Basemath, Esau's wife.
+- brenton: And these are the sons of Raguel, the son of Esau; chief Nachoth, chief Zare, chief Some, chief Moze. These are the chiefs of Raguel, in the land of Edom; these are the sons of Basemath, wife of Esau.
+
+### Genesis 36:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Olibema, wife of Esau: chief Jeoul, chief Jeglom, chief Kore. These are the chiefs of Olibema daughter of Ana, wife of Esau.
+- brenton: And these are the sons of Olibema, wife of Esau; chief Jeus, chief Jeglom, chief Core. These are the chiefs of Olibema, daughter of Ana, wife of Esau.
+
+### Genesis 36:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Esau, and these are their chiefs. These are the sons of Edom.
+- brenton: These are the sons of Esau, and these are the chiefs; these are the sons of Edom.
+
+### Genesis 36:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Seir the Horite, who inhabited the land: Lotan, Sobal, Sebegon, Ana,
+- brenton: And these are the sons of Seir, the Chorrhite, who inhabited the land; Lotan, Sobal, Sebegon, Ana,
+
+### Genesis 36:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Deson and Asar and Rison. These are the chiefs of the Horite, sons of Seir in the land of Edom.
+- brenton: and Deson, and Asar, and Rison. These are the chiefs of the Chorrhite, the son of Seir, in the land of Edom.
+
+### Genesis 36:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Lotan's sons became Chorri and Aiman, and Lotan's sister was Thamna.
+- brenton: And the sons of Lotan were Chorrhi and Hæman; and the sister of Lotan, Thamna.
+
+### Genesis 36:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Sobal: Golam and Manachath and Gaibel and Sophar and Omar.
+- brenton: And these are the sons of Sobal; Golam, and Manachath, and Gæbel, and Sophar, and Omar.
+
+### Genesis 36:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Sebegon: Aie and Ana. This is Ana, who found Jamein in the wilderness, when he tended the beasts of burden of Sebegon his father.
+- brenton: And these are the sons of Sebegon; Aïe, and Ana; this is the Ana who found Jamin in the wilderness, when he tended the beasts of his father Sebegon.
+
+### Genesis 36:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Ana: Deson and Olibema daughter of Ana.
+- brenton: And these are the sons of Ana; Deson—and Olibema was daughter of Ana.
+
+### Genesis 36:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Deson: Amada and Asban and Ithran and Charran.
+- brenton: And these are the sons of Deson; Amada, and Asban, and Ithran, and Charrhan.
+
+### Genesis 36:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Asar: Balaam and Zoukam and Joukam.
+- brenton: And these are the sons of Asar; Balaam, and Zucam, and Jucam.
+
+### Genesis 36:28
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And these are the sons of Rison: Hos and Aran.
+- brenton: And these are the sons of Rison; Hos, and Aran.
+
+### Genesis 36:29
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And these are the chiefs of Chorri: chief Lotan, chief Sobal, chief Sebegon, chief Ana,
+- brenton: And these are the chiefs of Chorri; chief Lotan, chief Sobal, chief Sebegon, chief Ana,
+
+### Genesis 36:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: chief Deson, chief Asar, chief Rison. These are the chiefs of Chorri in their chiefships in the land of Edom.
+- brenton: chief Deson, chief Asar, chief Rison. These are the chiefs of Chorri, in their principalities in the land of Edom.
+
+### Genesis 36:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And these are the kings who reigned in Edom before a king reigned in Israel.
+- brenton: And these are the kings which reigned in Edom, before a king reigned in Israel.
+
+### Genesis 36:32
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Balac son of Beor reigned in Edom, and the name of his city was Dennaba.
+- brenton: And Balac, son of Beor, reigned in Edom; and the name of his city was Dennaba.
+
+### Genesis 36:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balac died, and Jobab son of Zare from Bosorra reigned in his place.
+- brenton: And Balac died; and Jobab, son of Zara, from Bosorrha reigned in his stead.
+
+### Genesis 36:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jobab died, and Asom from the land of the Thaimanites reigned in his place.
+- brenton: And Jobab died; and Asom, from the land of the Thæmanites, reigned in his stead.
+
+### Genesis 36:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Asom died, and Adad son of Barad, who cut down Madiam in the plain of Moab, reigned in his place, and the name of his city was Geththaim.
+- brenton: And Asom died; and Adad son of Barad, who cut off Madiam in the plain of Moab, ruled in his stead; and the name of his city was Getthaim.
+
+### Genesis 36:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Adad died, and Samada from Masekka reigned in his place.
+- brenton: And Adad died; and Samada of Massecca reigned in his stead.
+
+### Genesis 36:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Samada died, and Saoul from Rooboth by the river reigned in his place.
+- brenton: And Samada died; and Saul of Rhoöboth by the river reigned in his stead.
+
+### Genesis 36:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Saoul died, and Balaennon son of Achobor reigned in his place.
+- brenton: And Saul died; and Ballenon the son of Achobor reigned in his stead.
+
+### Genesis 36:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaennon son of Achobor died, and Arad son of Barad reigned in his place, and the name of his city was Phogor, and the name of his wife was Metebeel, daughter of Matraith son of Maizoob.
+- brenton: And Ballenon the son of Achobor died; and Arad the son of Barad reigned in his stead; and the name of his city was Phogor; and the name of his wife was Metebeel, daughter of Matraith, son of Maizoöb.
+
+### Genesis 36:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the names of the chiefs of Esau in their tribes according to their place, in their lands and in their nations: chief Thamna, chief Gola, chief Jether,
+- brenton: These are the names of the chiefs of Esau, in their tribes, according to their place, in their countries, and in their nations; chief Thamna, chief Gola, chief Jether,
+
+### Genesis 36:41
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: chief Olibema, chief Helas, chief Phinon,
+- brenton: chief Olibema, chief Helas, chief Phinon,
+
+### Genesis 36:42
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: chief Kenez, chief Thaiman, chief Mazar,
+- brenton: chief Kenez, chief Thæman, chief Mazar,
+
+### Genesis 36:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: chief Magediel, chief Zaphoin. These are the chiefs of Edom in the places built up in the land of their possession. This is Esau, father of Edom.
+- brenton: chief Magediel, chief Zaphoin. These are the chiefs of Edom in their dwelling-places, in the land of their possession; this is Esau, the father of Edom.
+
+### Genesis 37:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Jacob lived in the land where his father had sojourned, in the land of Canaan.
+- brenton: And Jacob dwelt in the land where his father sojourned, in the land of Chanaan.
+
+### Genesis 37:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And these are the generations of Jacob. Joseph was seventeen years old, shepherding his father's sheep with his brothers, being young, with the sons of Bilhah and with the sons of Zilpah, the wives of his father. And Joseph brought a bad report to Israel their father.
+- brenton: And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach.
+
+### Genesis 37:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now Jacob loved Joseph more than all his sons, because he was a son of old age to him. And he made him a varicolored tunic.
+- brenton: And Jacob loved Joseph more than all his sons, because he was to him the son of old age; and he made for him a coat of many colours.
+
+### Genesis 37:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when his brothers saw that their father loved him more than all his sons, they hated him and could not speak anything peaceful to him.
+- brenton: And his brethren having seen that his father loved him more than all his sons, hated him, and could not speak anything peaceable to him.
+
+### Genesis 37:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph dreamed a dream and told it to his brothers.
+- brenton: And Joseph dreamed a dream, and reported it to his brethren.
+
+### Genesis 37:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Hear this dream that I dreamed:
+- brenton: And he said to them, Hear this dream which I have dreamed.
+
+### Genesis 37:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I thought you were binding sheaves in the middle of the field, and my sheaf rose and stood upright, and your sheaves turned around and bowed to my sheaf.
+- brenton: I thought ye were binding sheaves in the middle of the field, and my sheaf stood up and was erected, and your sheaves turned round, and did obeisance to my sheaf.
+
+### Genesis 37:8
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And his brothers said to him, Reigning will you reign over us, or ruling will you rule us? And they added still more to hate him because of his dreams and because of his words.
+- brenton: And his brethren said to him, Shalt thou indeed reign over us, or shalt thou indeed be lord over us? And they hated him still more for his dreams and for his words.
+
+### Genesis 37:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he saw another dream and told it to his father and to his brothers and said, Look, I dreamed another dream, like the sun and the moon and eleven stars bowing to me.
+- brenton: And he dreamed another dream, and related it to his father, and to his brethren, and said, Behold, I have dreamed another dream: as it were the sun, and the moon, and the eleven stars did me reverence.
+
+### Genesis 37:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his father rebuked him and said to him, What is this dream that you dreamed? Shall I and your mother and your brothers truly come to bow to you on the ground?
+- brenton: And his father rebuked him, and said to him, What is this dream which thou hast dreamed? shall indeed both I and thy mother and thy brethren come and bow before thee to the earth?
+
+### Genesis 37:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his brothers envied him, but his father kept the saying.
+- brenton: And his brethren envied him; but his father observed the saying.
+
+### Genesis 37:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his brothers went to pasture their father's sheep at Shechem.
+- brenton: And his brethren went to feed the sheep of their father to Sychem.
+
+### Genesis 37:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said to Joseph, Are not your brothers shepherding at Shechem? Come, I will send you to them. And he said to him, Look, I am here.
+- brenton: And Israel said to Joseph, Do not thy brethren feed their flock in Sychem? Come, I will send thee to them; and he said to him, Behold, I am here.
+
+### Genesis 37:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said to him, Go and see whether your brothers are well and whether the sheep are well, and report to me. And he sent him from the valley of Hebron, and he came to Shechem.
+- brenton: And Israel said to him, Go and see if thy brethren and the sheep are well, and bring me word; and he sent him out of the valley of Chebron, and he came to Sychem.
+
+### Genesis 37:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a man found him wandering in the field, and the man asked him, saying, What do you seek?
+- brenton: And a man found him wandering in the field; and the man asked him, saying, What seekest thou?
+
+### Genesis 37:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, I seek my brothers. Tell me where they are shepherding.
+- brenton: And he said, I am seeking my brethren; tell me where they feed their flocks.
+
+### Genesis 37:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man said to him, They have departed from here, for I heard them saying, Let us go to Dothaim. And Joseph went after his brothers and found them at Dothaim.
+- brenton: And the man said to him, They have departed hence, for I heard them saying, Let us go to Dothaim; and Joseph went after his brethren, and found them in Dothaim.
+
+### Genesis 37:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they saw him from far away before he came near to them, and they plotted wickedly to kill him.
+- brenton: And they spied him from a distance before he drew nigh to them, and they wickedly took counsel to slay him.
+
+### Genesis 37:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And each said to his brother, Look, that dreamer is coming.
+- brenton: And each said to his brother, Behold, that dreamer comes.
+
+### Genesis 37:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then come, let us kill him and throw him into one of the pits, and we will say, An evil beast devoured him. And we will see what his dreams will become.
+- brenton: Now then come, let us kill him, and cast him into one of the pits; and we will say, An evil wild beast has devoured him; and we shall see what his dreams will be.
+
+### Genesis 37:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben, hearing, rescued him from their hands and said, Let us not strike him down to death.
+- brenton: And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.
+
+### Genesis 37:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben said to them, Do not shed blood. Throw him into one of these pits in the wilderness, but do not lay a hand on him, so that he might rescue him from their hands and restore him to his father.
+- brenton: And Ruben said to them, Shed not blood; cast him into one of these pits in the wilderness, but do not lay your hand upon him; that he might rescue him out of their hands, and restore him to his father.
+
+### Genesis 37:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when Joseph came to his brothers, they stripped Joseph of the varicolored tunic that was around him.
+- brenton: And it came to pass, when Joseph came to his brethren, that they stripped Joseph of his many-coloured coat that was upon him.
+
+### Genesis 37:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking him, they threw him into the pit. And the pit was empty; it had no water.
+- brenton: And they took him and cast him into the pit; and the pit was empty, it had not water.
+
+### Genesis 37:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they sat down to eat bread, and looking up with their eyes they saw, and look, Ishmaelite travelers were coming from Gilead, and their camels were full of aromatics and resin and stacte, and they were going to carry them down to Egypt.
+- brenton: And they sat down to eat bread; and having lifted up their eyes they beheld, and lo, Ismaelitish travellers came from Galaad, and their camels were heavily loaded with spices, and resin, and myrrh; and they went to bring them to Egypt.
+
+### Genesis 37:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said to his brothers, What profit is there if we kill our brother and hide his blood?
+- brenton: And Judas said to his brethren, What profit is it if we slay our brother, and conceal his blood?
+
+### Genesis 37:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Come, let us sell him to these Ishmaelites, and let not our hands be upon him, because he is our brother and our flesh. And his brothers listened.
+- brenton: Come, let us sell him to these Ismaelites, but let not our hands be upon him, because he is our brother and our flesh; and his brethren hearkened.
+
+### Genesis 37:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Midianite merchant men passed by, and they drew Joseph up and brought him out of the pit and sold Joseph to the Ishmaelites for twenty gold pieces. And they brought Joseph down to Egypt.
+- brenton: And the men, the merchants of Madian, went by, and they drew and lifted Joseph out of the pit, and sold Joseph to the Ismaelites for twenty pieces of gold; and they brought Joseph down into Egypt.
+
+### Genesis 37:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben returned to the pit and did not see Joseph in the pit. And he tore his garments.
+- brenton: And Ruben returned to the pit, and sees not Joseph in the pit; and he rent his garments.
+
+### Genesis 37:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he returned to his brothers and said, The child is not there, and I, where shall I still go?
+- brenton: And he returned to his brethren and said, The boy is not; and I, whither am I yet to go?
+
+### Genesis 37:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking Joseph's tunic, they slaughtered a kid of the goats and stained the tunic with blood.
+- brenton: And having taken the coat of Joseph, they slew a kid of the goats, and stained the coat with the blood.
+
+### Genesis 37:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they sent the varicolored tunic and brought it to their father. And they said, We found this. Recognize whether it is your son's tunic or not.
+- brenton: And they sent the coat of many colours; and they brought it to their father, and said, This have we found; know if it be thy son's coat or no.
+
+### Genesis 37:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he recognized it and said, It is my son's tunic. An evil beast devoured him. A beast seized Joseph.
+- brenton: And he recognised it, and said, It is my son's coat, an evil wild beast has devoured him; a wild beast has carried off Joseph.
+
+### Genesis 37:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob tore his garments and put sackcloth on his loins and mourned his son many days.
+- brenton: And Jacob rent his clothes, and put sackcloth on his loins, and mourned for his son many days.
+
+### Genesis 37:35
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And all his sons and daughters gathered and came to comfort him, but he would not be comforted, saying, I will go down mourning to my son into Hades. And his father wept for him.
+- brenton: And all his sons and his daughters gathered themselves together, and came to comfort him; but he would not be comforted, saying, I will go down to my son mourning to Hades; and his father wept for him.
+
+### Genesis 37:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Midianites sold Joseph in Egypt to Potiphar, Pharaoh's eunuch, the chief-cook.
+- brenton: And the Madianites sold Joseph into Egypt; to Petephres, the eunuch of Pharao, captain of the guard.
+
+### Genesis 38:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened at that time, Judah went down from his brothers and came as far as a certain Adullamite man whose name was Hirah.
+- brenton: And it came to pass at that time that Judas went down from his brethren, and came as far as to a certain man of Odollam, whose name was Iras.
+
+### Genesis 38:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah saw there the daughter of a Canaanite man whose name was Shua, and he took her and went in to her.
+- brenton: And Judas saw there the daughter of a Chananitish man, whose name was Sava; and he took her, and went in to her.
+
+### Genesis 38:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she conceived and bore a son, and he called his name Er.
+- brenton: And she conceived and bore a son, and called his name, Er.
+
+### Genesis 38:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And again she conceived and bore a son and called his name Onan.
+- brenton: And she conceived and bore a son again; and called his name, Aunan.
+
+### Genesis 38:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And adding again, she bore a son and called his name Shelah. And she was in Chasbi when she bore them.
+- brenton: And she again bore a son; and called his name, Selom: and she was in Chasbi when she bore them.
+
+### Genesis 38:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah took a wife for Er his firstborn, whose name was Tamar.
+- brenton: And Judas took a wife for Er his first-born, whose name was Thamar.
+
+### Genesis 38:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Er, Judah's firstborn, became evil before the Lord, and God killed him.
+- brenton: And Er, the first-born of Judas, was wicked before the Lord; and God killed him.
+
+### Genesis 38:8
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said to Onan, Go in to your brother's wife and perform a brother-in-law's duty for her and raise up seed for your brother.
+- brenton: And Judas said to Aunan, Go in to thy brother's wife, and marry her as her brother-in-law, and raise up seed to thy brother.
+
+### Genesis 38:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Onan, knowing that the seed would not be his, whenever he went in to his brother's wife, spilled it on the ground so as not to give seed to his brother.
+- brenton: And Aunan, knowing that the seed should not be his—it came to pass when he went in to his brother's wife, that he spilled it upon the ground, so that he should not give seed to his brother's wife.
+
+### Genesis 38:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what he did appeared evil before God, and he put him to death also.
+- brenton: And his doing this appeared evil before God; and he slew him also.
+
+### Genesis 38:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said to Tamar his daughter-in-law, Sit as a widow in your father's house until my son Shelah grows up. For he said, Lest he also die like his brothers. And Tamar went away and sat in her father's house.
+- brenton: And Judas said to Thamar, his daughter-in-law, Sit thou a widow in the house of thy father-in-law, until Selom my son be grown; for he said, Lest he also die as his brethren; and Thamar departed, and sat in the house of her father.
+
+### Genesis 38:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days multiplied, and Shua, Judah's wife, died. And Judah, having been comforted, went up to those shearing his sheep, he and Hirah his Adullamite shepherd, to Timnah.
+- brenton: And the days were fulfilled, and Sava the wife of Judas died; and Judas, being comforted, went to them that sheared his sheep, himself and Iras his shepherd the Odollamite, to Thamna.
+
+### Genesis 38:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep.
+- brenton: And it was told Thamar his daughter-in-law, saying, Behold, thy father-in-law goeth up to Thamna, to shear his sheep.
+
+### Genesis 38:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking off the garments of her widowhood from herself, she put on a veil and adorned herself and sat by the gates of Enaim, which is on the road to Timnah, for she saw that Shelah had grown up and he had not given her to him as wife.
+- brenton: And having taken off the garments of her widowhood from her, she put on a veil, and ornamented her face, and sat by the gates of Ænan, which is in the way to Thamna, for she saw that Selom was grown; but he gave her not to him for a wife.
+
+### Genesis 38:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah, seeing her, thought her to be a prostitute, for she had covered her face and he did not recognize her.
+- brenton: And when Judas saw her, he thought her to be a harlot; for she covered her face, and he knew her not.
+
+### Genesis 38:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he turned aside to her on the road and said to her, Let me come in to you, for he did not know that she was his daughter-in-law. And she said, What will you give me if you come in to me?
+- brenton: And he went out of his way to her, and said to her, Let me come in to thee; for he knew not that she was his daughter-in-law; and she said, What wilt thou give me if thou shouldest come in to me?
+
+### Genesis 38:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, I will send you a kid of the goats from my flock. And she said, If you will give me a pledge until you send it.
+- brenton: And he said, I will send thee a kid of the goats from my flock; and she said, Well, if thou wilt give me an earnest, until thou send it.
+
+### Genesis 38:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, What pledge shall I give you? And she said, Your signet and your cord and the staff in your hand. And he gave them to her and went in to her, and she conceived by him.
+- brenton: And he said, What is the earnest that I shall give thee? and she said, Thy ring, and thy bracelet, and the staff in thy hand; and he gave them to her, and went in to her, and she conceived by him.
+
+### Genesis 38:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she rose and went away and took off her veil from herself and put on the garments of her widowhood.
+- brenton: And she arose and departed, and took her veil from off her, and put on the garments of her widowhood.
+
+### Genesis 38:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah sent the kid of the goats by the hand of his Adullamite shepherd to receive the pledge from the woman, and he did not find her.
+- brenton: And Judas sent the kid of the goats by the hand of his shepherd the Odollamite, to receive the pledge from the woman; and he found her not.
+
+### Genesis 38:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he asked the men of the place, Where is the prostitute who was at Enaim by the road? And they said, There was no prostitute here.
+- brenton: And he asked the men of the place, Where is the harlot who was in Ænan by the way-side? and they said, There was no harlot here.
+
+### Genesis 38:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he returned to Judah and said, I did not find her, and the men of the place say there was no prostitute here.
+- brenton: And he returned to Judas, and said, I have not found her; and the men of the place say, There is no harlot here.
+
+### Genesis 38:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said, Let her keep them, lest perhaps we become a laughingstock. I sent this kid, but you did not find her.
+- brenton: And Judas said, Let her have them, but let us not be ridiculed; I sent this kid, but thou hast not found her.
+
+### Genesis 38:24
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after three months, it was reported to Judah, saying, Tamar your daughter-in-law has prostituted herself, and look, she is with child from prostitution. And Judah said, Bring her out and let her be burned.
+- brenton: And it came to pass after three months, that it was told Judas, saying, Thamar thy daughter-in-law has grievously played the harlot, and behold she is with child by whoredom; and Judas said, Bring her out, and let her be burnt.
+
+### Genesis 38:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And as she was being brought out, she sent to her father-in-law, saying, By the man whose these things are, I am with child. And she said, Recognize whose signet and cord and staff these are.
+- brenton: And as they were bringing her, she sent to her father-in-law, saying, I am with child by the man whose these things are; and she said, See whose is this ring and bracelet and staff.
+
+### Genesis 38:26
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Judah recognized them and said, Tamar is more righteous than I, because I did not give her to my son Shelah. And he did not continue to know her.
+- brenton: And Judas knew them, and said, Thamar is cleared rather than I, forasmuch as I gave her not to Selom my son: and he knew her not again.
+
+### Genesis 38:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when she was giving birth, that twins were in her womb.
+- brenton: And it came to pass when she was in labour, that she also had twins in her womb.
+
+### Genesis 38:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened while she was giving birth, one put out a hand. And the midwife took it and tied scarlet on his hand, saying, This one will come out first.
+- brenton: And it came to pass as she was bringing forth, one thrust forth his hand, and the midwife having taken hold of it, bound upon his hand a scarlet thread, saying, This one shall come out first.
+
+### Genesis 38:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And when he drew back his hand, immediately his brother came out. And she said, Why did a breach break out because of you? And she called his name Perez.
+- brenton: And when he drew back his hand, then immediately came forth his brother; and she said, Why has the barrier been cut through because of thee? and she called his name, Phares.
+
+### Genesis 38:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after this his brother came out, on whose hand was the scarlet, and she called his name Zerah.
+- brenton: And after this came forth his brother, on whose hand was the scarlet thread; and she called his name, Zara.
+
+### Genesis 39:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph was brought down to Egypt, and Potiphar, Pharaoh's eunuch, the chief-cook, an Egyptian man, bought him from the hands of the Ishmaelites, who had brought him down there.
+- brenton: And Joseph was brought down to Egypt; and Petephres the eunuch of Pharao, the captain of the guard, an Egyptian, bought him of the hands of the Ismaelites, who brought him down thither.
+
+### Genesis 39:2
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord was with Joseph, and he was a man finding success, and he came to be in the house of his Egyptian master.
+- brenton: And the Lord was with Joseph, and he was a prosperous man; and he was in the house with his lord the Egyptian.
+
+### Genesis 39:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his master knew that the Lord was with him, and whatever he did, the Lord prospered in his hands.
+- brenton: And his master knew that the Lord was with him, and the Lord prospers in his hands whatsoever he happens to do.
+
+### Genesis 39:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph found favor before his master and was well-pleasing to him, and he appointed him over his house, and all that he had he gave into Joseph's hand.
+- brenton: And Joseph found grace in the presence of his lord, and was well-pleasing to him; and he set him over his house, and all that he had he gave into the hand of Joseph.
+
+### Genesis 39:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after he appointed him over his house and over all that he had, the Lord blessed the Egyptian's house because of Joseph, and the blessing of the Lord came upon all his possessions in the house and in his field.
+- brenton: And it came to pass after that he was set over his house, and over all that he had, that the Lord blessed the house of the Egyptian for Joseph's sake; and the blessing of the Lord was on all his possessions in the house, and in his field.
+
+### Genesis 39:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he entrusted all that he had into Joseph's hands, and knew nothing of what belonged to him except the bread he ate. And Joseph was handsome in form and very beautiful in appearance.
+- brenton: And he committed all that he had into the hands of Joseph; and he knew not of anything that belonged to him, save the bread which he himself ate. And Joseph was handsome in form, and exceedingly beautiful in countenance.
+
+### Genesis 39:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after these things, his master's wife cast her eyes on Joseph and said, Sleep with me.
+- brenton: And it came to pass after these things, that his master's wife cast her eyes upon Joseph, and said, Lie with me.
+
+### Genesis 39:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But he would not, and he said to his master's wife, If because of me my master knows nothing in his house, and all that is his he has given into my hands,
+- brenton: But he would not; but said to his master's wife, If because of me my master knows nothing in his house, and has given into my hands all things that belong to him:
+
+### Genesis 39:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and nothing in this house is greater than I, nor has he withheld anything from me except you, because you are his wife, how shall I do this evil thing and sin before God?
+- brenton: and in this house there is nothing above me, nor has anything been kept back from me, but thou, because thou art his wife—how then shall I do this wicked thing, and sin against God?
+
+### Genesis 39:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when she spoke to Joseph day after day, he did not heed her, to sleep with her or to be with her.
+- brenton: And when she talked with Joseph day by day, and he hearkened not to her to sleep with her, so as to be with her,
+
+### Genesis 39:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on such a day, Joseph entered the house to do his work, and none of the people of the house was inside.
+- brenton: it came to pass on a certain day, that Joseph went into the house to do his business, and there was no one of the household within.
+
+### Genesis 39:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she grabbed him by his garments, saying, Sleep with me. But leaving his garments in her hands, he fled and went outside.
+- brenton: And she caught hold of him by his clothes, and said, Lie with me; and having left his clothes in her hands, he fled, and went forth.
+
+### Genesis 39:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when she saw that, leaving his garments in her hands, he fled and went outside,
+- brenton: And it came to pass, when she saw that he had left his clothes in her hands, and fled, and gone forth,
+
+### Genesis 39:14
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: she called those in the house and said to them, saying, See, he brought in to us a Hebrew servant to mock us. He came in to me, saying, Sleep with me, and I cried with a loud voice.
+- brenton: that she called those that were in the house, and spoke to them, saying, See, he has brought in to us a Hebrew servant to mock us—he came in to me, saying, Lie with me, and I cried with a loud voice.
+
+### Genesis 39:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he heard that I lifted my voice and cried, leaving his garments beside me, he fled and went outside.
+- brenton: And when he heard that I lifted up my voice and cried, having left his clothes with me, he fled, and went forth out.
+
+### Genesis 39:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she kept his garments beside herself until his master came into his house.
+- brenton: So she leaves the clothes by her, until the master came to his house.
+
+### Genesis 39:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And she spoke to him according to these words, saying, The Hebrew servant whom you brought in to us came in to me to mock me and said, I will sleep with you.
+- brenton: And she spoke to him according to these words, saying, The Hebrew servant, whom thou broughtest in to us, came in to me to mock me, and said to me, I will lie with thee.
+
+### Genesis 39:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he heard that I lifted my voice and cried, leaving his garments beside me, he fled and went outside.
+- brenton: And when he heard that I lifted up my voice and cried, having left his clothes with me, he fled and departed forth.
+
+### Genesis 39:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when his master heard the words of his wife that she spoke to him, saying, Thus your servant did to me, he became angry with wrath.
+- brenton: And it came to pass, when his master heard all the words of his wife, that she spoke to him, saying, Thus did thy servant to me, that he was very angry.
+
+### Genesis 39:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Joseph's master took him and threw him into the fortress, into the place where the king's prisoners were kept, there in the fortress.
+- brenton: And his master took Joseph, and cast him into the prison, into the place where the king's prisoners are kept, there in the prison.
+
+### Genesis 39:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord was with Joseph and poured out mercy on him and gave him favor before the chief jailer.
+- brenton: And the Lord was with Joseph, and poured down mercy upon him; and he gave him favour in the sight of the chief keeper of the prison.
+
+### Genesis 39:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief jailer gave the prison into Joseph's hand, and all the prisoners, as many as were in the prison, and whatever was done there, he was the one doing it.
+- brenton: And the chief keeper of the prison gave the prison into the hand of Joseph, and all the prisoners as many as were in the prison; and all things whatsoever they do there, he did them.
+
+### Genesis 39:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The chief jailer knew nothing because of him, for all things were by Joseph's hand, because the Lord was with him, and whatever he did, the Lord prospered in his hands.
+- brenton: Because of him the chief keeper of the prison knew nothing, for all things were in the hand of Joseph, because the Lord was with him; and whatever things he did, the Lord made them to prosper in his hands.
+
+### Genesis 40:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after these matters, the chief cupbearer of the king of Egypt and the chief baker sinned against their lord, the king of Egypt.
+- brenton: And it came to pass after these things, that the chief cupbearer of the king of Egypt and the chief baker trespassed against their lord the king of Egypt.
+
+### Genesis 40:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh grew angry at his two eunuchs, at the chief cupbearer and at the chief baker.
+- brenton: And Pharao was wroth with his two eunuchs, with his chief cupbearer, and with his chief baker.
+
+### Genesis 40:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he put them under guard in the prison, in the place where Joseph had been led away there.
+- brenton: And he put them in ward, into the prison, into the place whereinto Joseph had been led.
+
+### Genesis 40:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief jailer assigned them to Joseph, and he attended them. And they were some days under guard.
+- brenton: And the chief keeper of the prison committed them to Joseph, and he stood by them; and they were some days in the prison.
+
+### Genesis 40:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And both saw a dream in one night. And this was the vision of the dream of the chief cupbearer and chief baker of the king of Egypt, who were in the prison.
+- brenton: And they both had a dream in one night; and the vision of the dream of the chief cupbearer and chief baker, who belonged to the king of Egypt, who were in the prison, was this.
+
+### Genesis 40:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph came in to them in the morning and saw them, and they were troubled.
+- brenton: Joseph went in to them in the morning, and saw them, and they had been troubled.
+
+### Genesis 40:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he asked Pharaoh's eunuchs, who were with him under guard in his master's house, saying, Why are your faces gloomy today?
+- brenton: And he asked the eunuchs of Pharao who were with him in the prison with his master, saying, Why is it that your countenances are sad to-day?
+
+### Genesis 40:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to him, We have seen a dream, and there is no one to interpret it. And Joseph said to them, Are not their explanations through God? Tell them to me, then.
+- brenton: And they said to him, We have seen a dream, and there is no interpreter of it. And Joseph said to them, Is not the interpretation of them through God? tell them then to me.
+
+### Genesis 40:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief cupbearer told his dream to Joseph and said, In my sleep there was a vine before me.
+- brenton: And the chief cupbearer related his dream to Joseph, and said, In my dream a vine was before me.
+
+### Genesis 40:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the vine were three stems, and it was budding, bringing up shoots. Its grape-clusters were ripe.
+- brenton: And in the vine were three stems; and it budding shot forth blossoms; the clusters of grapes were ripe.
+
+### Genesis 40:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh's cup was in my hand. And I took the grapes and squeezed them into the cup and gave the cup into Pharaoh's hand.
+- brenton: And the cup of Pharao was in my hand; and I took the bunch of grapes, and squeezed it into the cup, and gave the cup into Pharao's hand.
+
+### Genesis 40:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to him, This is its interpretation: the three stems are three days.
+- brenton: And Joseph said to him, This is the interpretation of it. The three stems are three days.
+
+### Genesis 40:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Yet three days and Pharaoh will remember your office and restore you to your chief-cupbearing, and you will give Pharaoh's cup into his hand according to your former office, as when you were cupbearer.
+- brenton: Yet three days and Pharao shall remember thy office, and he shall restore thee to thy place of chief cupbearer, and thou shalt give the cup of Pharao into his hand, according to thy former high place, as thou wast wont to be cupbearer.
+
+### Genesis 40:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But remember me because of yourself when it goes well with you, and show mercy to me and make mention of me to Pharaoh and bring me out of this fortress.
+- brenton: But remember me of thyself, when it shall be well with thee, and thou shalt deal mercifully with me, and thou shalt make mention of me to Pharao, and thou shalt bring me forth out of this dungeon.
+
+### Genesis 40:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because by theft I was stolen from the land of the Hebrews, and here also I did nothing, yet they threw me into this pit.
+- brenton: For surely I was stolen away out of the land of the Hebrews, and here I have done nothing, but they have cast me into this pit.
+
+### Genesis 40:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief baker saw that he interpreted rightly and said to Joseph, I also saw a dream, and I thought I was carrying three baskets of pastry on my head.
+- brenton: And the chief baker saw that he interpreted aright; and he said to Joseph, I also saw a dream, and methought I took up on my head three baskets of mealy food.
+
+### Genesis 40:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the upper basket were all kinds of things that Pharaoh eats, the work of a baker, and the birds of heaven were eating them from the basket on top of my head.
+- brenton: And in the upper basket there was the work of the baker of every kind which Pharao eats; and the fowls of the air ate them out of the basket that was on my head.
+
+### Genesis 40:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph answered and said to him, This is its interpretation: the three baskets are three days.
+- brenton: And Joseph answered and said to him, This is the interpretation of it; The three baskets are three days.
+
+### Genesis 40:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Yet three days and Pharaoh will lift your head from off you and hang you on a tree, and the birds of heaven will eat your flesh from off you.
+- brenton: Yet three days, and Pharao shall take away thy head from off thee, and shall hang thee on a tree, and the birds of the sky shall eat thy flesh from off thee.
+
+### Genesis 40:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on the third day, Pharaoh's birthday, he made a drinking-feast for all his servants. And he remembered the office of the cupbearer and the office of the baker among his servants.
+- brenton: And it came to pass on the third day that it was Pharao's birth-day, and he made a banquet for all his servants, and he remembered the office of the cupbearer and the office of the baker in the midst of his servants.
+
+### Genesis 40:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he restored the chief cupbearer to his office, and he gave the cup into Pharaoh's hand.
+- brenton: And he restored the chief cupbearer to his office, and he gave the cup into Pharao's hand.
+
+### Genesis 40:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the chief baker he hanged, just as Joseph had interpreted to them.
+- brenton: And he hanged the chief baker, as Joseph interpreted to them.
+
+### Genesis 40:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief cupbearer did not remember Joseph, but forgot him.
+- brenton: Yet did not the chief cupbearer remember Joseph, but forgot him.
+
+### Genesis 41:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after two full years, Pharaoh saw a dream. He thought he was standing by the river.
+- brenton: And it came to pass after two full years that Pharao had a dream. He thought he stood upon the bank of the river.
+
+### Genesis 41:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And look, as though out of the river seven cows were coming up, beautiful in appearance and choice in flesh, and they were grazing among the reeds.
+- brenton: And lo, there came up as it were out of the river seven cows, fair in appearance, and choice of flesh, and they fed on the sedge.
+
+### Genesis 41:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seven other cows came up after these out of the river, ugly in appearance and thin in flesh, and they were feeding beside the cows on the bank of the river.
+- brenton: And other seven cows came up after these out of the river, ill-favoured and lean-fleshed, and fed by the other cows on the bank of the river.
+
+### Genesis 41:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven cows ugly in appearance and thin in flesh devoured the seven cows beautiful in appearance and choice in flesh. And Pharaoh woke up.
+- brenton: And the seven ill-favoured and lean cows devoured the seven well-favoured and choice-fleshed cows; and Pharao awoke.
+
+### Genesis 41:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he dreamed a second time, and look, seven ears were coming up on one stalk, choice and good.
+- brenton: And he dreamed again. And, behold, seven ears came up on one stalk, choice and good.
+
+### Genesis 41:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And look, seven thin ears, wind-stricken, sprang up after them.
+- brenton: And, behold, seven ears thin and blasted with the wind, grew up after them.
+
+### Genesis 41:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven thin ears, wind-stricken, swallowed the seven choice and full ears. And Pharaoh woke up, and it was a dream.
+- brenton: And the seven thin ears and blasted with the wind devoured the seven choice and full ears; and Pharao awoke, and it was a dream.
+
+### Genesis 41:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in the morning, his soul was troubled, and he sent and called all the interpreters of Egypt and all its wise men, and Pharaoh told them his dream, and there was no one to declare it to Pharaoh.
+- brenton: And it was morning, and his soul was troubled; and he sent and called all the interpreters of Egypt, and all her wise men; and Pharao related to them his dream, and there was no one to interpret it to Pharao.
+
+### Genesis 41:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief cupbearer spoke to Pharaoh, saying, I remember my sin today.
+- brenton: And the chief cupbearer spoke to Pharao, saying, I this day remember my fault:
+
+### Genesis 41:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Pharaoh grew angry at his servants and put us under guard in the house of the chief-cook, both me and the chief baker.
+- brenton: Pharao was angry with his servants, and put us in prison in the house of the captain of the guard, both me and the chief baker.
+
+### Genesis 41:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And both of us saw a dream in one night, I and he. Each of us saw according to his own dream.
+- brenton: And we had a dream both in one night, I and he; we saw, each according to his dream.
+
+### Genesis 41:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there was with us there a young Hebrew servant of the chief-cook, and we told him, and he interpreted for us.
+- brenton: And there was there with us a young man, a Hebrew servant of the captain of the guard; and we related to him our dreams, and he interpreted them to us.
+
+### Genesis 41:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And as he interpreted to us, so also it happened. I was restored to my office, and that man was hanged.
+- brenton: And it came to pass, as he interpreted them to us, so also it happened, both that I was restored to my office, and that he was hanged.
+
+### Genesis 41:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh sent and called Joseph, and they brought him out of the fortress and shaved him and changed his clothing, and he came to Pharaoh.
+- brenton: And Pharao having sent, called Joseph; and they brought him out from the prison, and shaved him, and changed his dress, and he came to Pharao.
+
+### Genesis 41:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, I have seen a dream, and there is no one to interpret it. But I have heard concerning you, men saying that when you hear dreams, you interpret them.
+- brenton: And Pharao said to Joseph, I have seen a vision, and there is no one to interpret it; but I have heard say concerning thee that thou didst hear dreams and interpret them.
+
+### Genesis 41:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Joseph answered Pharaoh and said, Apart from God, no answer of safety will be given to Pharaoh.
+- brenton: And Joseph answered Pharao and said, Without God an answer of safety shall not be given to Pharao.
+
+### Genesis 41:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh spoke to Joseph, saying, In my dream I thought I was standing by the bank of the river.
+- brenton: And Pharao spoke to Joseph, saying, In my dream methought I stood by the bank of the river;
+
+### Genesis 41:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And as though out of the river seven cows were coming up, beautiful in appearance and choice in flesh, and they were feeding among the reeds.
+- brenton: and there came up as it were out of the river, seven cows well-favoured and choice-fleshed, and they fed on the sedge.
+
+### Genesis 41:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And look, seven other cows came up after them out of the river, evil and ugly in appearance and thin in flesh, such that I never saw uglier ones in all the land of Egypt.
+- brenton: And behold seven other cows came up after them out of the river, evil and ill-favoured and lean-fleshed, such that I never saw worse in all the land of Egypt.
+
+### Genesis 41:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven cows ugly and thin devoured the seven first cows, the beautiful ones and the choice ones.
+- brenton: And the seven ill-favoured and thin cows ate up the seven first good and choice cows.
+
+### Genesis 41:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they went into their bellies, and it was not evident that they had gone into their bellies, and their appearance remained ugly as at the beginning. And after I woke, I slept.
+- brenton: And they went into their bellies; and it was not perceptible that they had gone into their bellies, and their appearance was ill-favoured, as also at the beginning; and after I awoke I slept,
+
+### Genesis 41:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I saw again in my sleep, and as though seven ears were coming up on one stalk, full and good.
+- brenton: and saw again in my sleep, and as it were seven ears came up on one stem, full and good.
+
+### Genesis 41:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seven other ears, thin and wind-stricken, sprang up close after them.
+- brenton: And other seven ears, thin and blasted with the wind, sprang up close to them.
+
+### Genesis 41:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven thin and wind-stricken ears swallowed the seven good and full ears. So I told the interpreters, and there was no one to declare it to me.
+- brenton: And the seven thin and blasted ears devoured the seven fine and full ears: so I spoke to the interpreters, and there was no one to explain it to me.
+
+### Genesis 41:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to Pharaoh, Pharaoh's dream is one. What God is doing he has shown to Pharaoh.
+- brenton: And Joseph said to Pharao, The dream of Pharao is one; whatever God does, he has shewn to Pharao.
+
+### Genesis 41:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The seven good cows are seven years, and the seven good ears are seven years. Pharaoh's dream is one.
+- brenton: The seven good cows are seven years, and the seven good ears are seven years; the dream of Pharao is one.
+
+### Genesis 41:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven thin cows coming up after them are seven years, and the seven thin ears, wind-stricken, will be seven years of famine.
+- brenton: And the seven thin kine that came up after them are seven years; and the seven thin and blasted ears are seven years; there shall be seven years of famine.
+
+### Genesis 41:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the word I spoke to Pharaoh: what God is doing he has shown to Pharaoh.
+- brenton: And as for the word which I have told Pharao, whatsoever God intends to do, he has shewn to Pharao:
+
+### Genesis 41:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, seven years of great plenty are coming in all the land of Egypt.
+- brenton: behold, for seven years there is coming great plenty in all the land of Egypt.
+
+### Genesis 41:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But seven years of famine will come after these, and the plenty that was in all Egypt will be forgotten, and the famine will consume the land.
+- brenton: But there shall come seven years of famine after these, and they shall forget the plenty that shall be in all Egypt, and the famine shall consume the land.
+
+### Genesis 41:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the plenty will not be recognized on the land because of the famine coming after this, for it will be very severe.
+- brenton: And the plenty shall not be known in the land by reason of the famine that shall be after this, for it shall be very grievous.
+
+### Genesis 41:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And because Pharaoh's dream was doubled twice, the thing will be true from God, and God will hasten to do it.
+- brenton: And concerning the repetition of the dream to Pharao twice, it is because the saying which is from God shall be true, and God will hasten to accomplish it.
+
+### Genesis 41:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, look for a prudent and understanding man and appoint him over the land of Egypt.
+- brenton: Now then, look out a wise and prudent man, and set him over the land of Egypt.
+
+### Genesis 41:34
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And let Pharaoh act and appoint local governors over the land, and let them take up a fifth of all the produce of the land of Egypt during the seven years of plenty.
+- brenton: And let Pharao make and appoint local governors over the land; and let them take up a fifth part of all the produce of the land of Egypt for the seven years of the plenty.
+
+### Genesis 41:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And let them gather all the food of these coming good years, and let grain be gathered under Pharaoh's hand. Let food be kept in the cities.
+- brenton: And let them gather all the food of these seven good years that are coming, and let the corn be gathered under the hand of Pharao; let food be kept in the cities.
+
+### Genesis 41:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the stored food will be for the land against the seven years of famine that will be in the land of Egypt, and the land will not be destroyed by the famine.
+- brenton: And the stored food shall be for the land against the seven years of famine, which shall be in the land of Egypt; and the land shall not be utterly destroyed by the famine.
+
+### Genesis 41:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the word pleased Pharaoh and all his servants.
+- brenton: And the word was pleasing in the sight of Pharao, and in the sight of all his servants.
+
+### Genesis 41:38
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to all his servants, Shall we find another man like this, who has the spirit of God in him?
+- brenton: And Pharao said to all his servants, Shall we find such a man as this, who has the Spirit of God in him?
+
+### Genesis 41:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Since God has shown you all these things, there is no one more prudent and more understanding than you.
+- brenton: And Pharao said to Joseph, Since God has shewed thee all these things, there is not a wiser or more prudent man than thou.
+
+### Genesis 41:40
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You will be over my house, and by your mouth all my people will obey. Only in the throne will I be above you.
+- brenton: Thou shalt be over my house, and all my people shall be obedient to thy word; only in the throne will I excel thee.
+
+### Genesis 41:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Look, I appoint you today over all the land of Egypt.
+- brenton: And Pharao said to Joseph, Behold, I set thee this day over all the land of Egypt.
+
+### Genesis 41:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh took the ring from his hand and put it on Joseph's hand and clothed him in a linen robe and put a golden collar around his neck.
+- brenton: And Pharao took his ring off his hand, and put it on the hand of Joseph, and put on him a robe of fine linen, and put a necklace of gold about his neck.
+
+### Genesis 41:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he mounted him on his second chariot, and a herald cried before him. And he set him over all the land of Egypt.
+- brenton: And he mounted him on the second of his chariots, and a herald made proclamation before him; and he set him over all the land of Egypt.
+
+### Genesis 41:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, I am Pharaoh. Without you no one will lift his hand over all the land of Egypt.
+- brenton: And Pharao said to Joseph, I am Pharao; without thee no one shall lift up his hand on all the land of Egypt.
+
+### Genesis 41:45
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Pharaoh called Joseph's name Psonthomphanech, and he gave him Aseneth, daughter of Petephres priest of Heliopolis, as wife.
+- brenton: And Pharao called the name of Joseph, Psonthomphanech; and he gave him Aseneth, the daughter of Petephres, priest of Heliopolis, to wife.
+
+### Genesis 41:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from Pharaoh's presence and passed through all the land of Egypt.
+- brenton: And Joseph was thirty years old when he stood before Pharao, king of Egypt. And Joseph went out from the presence of Pharao, and went through all the land of Egypt.
+
+### Genesis 41:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land produced by sheaves in the seven years of plenty.
+- brenton: And the land produced, in the seven years of plenty, whole handfuls of corn.
+
+### Genesis 41:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he gathered all the food of the seven years in which there was plenty in the land of Egypt and put the food in the cities. The food of the fields around each city he put within it.
+- brenton: And he gathered all the food of the seven years, in which was the plenty in the land of Egypt; and he laid up the food in the cities; the food of the fields of a city round about it he laid up in it.
+
+### Genesis 41:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph gathered grain like the sand of the sea, very much, until it could no longer be counted, for there was no number.
+- brenton: And Joseph gathered very much corn as the sand of the sea, until it could not be numbered, for there was no number of it.
+
+### Genesis 41:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Joseph two sons were born before the seven years of famine came, whom Aseneth daughter of Petephres priest of Heliopolis bore to him.
+- brenton: And to Joseph were born two sons, before the seven years of famine came, which Aseneth, the daughter of Petephres, priest of Heliopolis, bore to him.
+
+### Genesis 41:51
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph called the name of the firstborn Manasseh, because God made me forget all my troubles and all the things of my father.
+- brenton: And Joseph called the name of the first-born, Manasse; for God, said he, has made me forget all my toils, and all my father's house.
+
+### Genesis 41:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he called the name of the second Ephraim, because God increased me in the land of my humiliation.
+- brenton: And he called the name of the second, Ephraim; for God, said he, has increased me in the land of my humiliation.
+
+### Genesis 41:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven years of plenty that came in the land of Egypt passed by.
+- brenton: And the seven years of plenty passed away, which were in the land of Egypt.
+
+### Genesis 41:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seven years of famine began to come, just as Joseph had said. And famine came in all the land, but in all the land of Egypt there was bread.
+- brenton: And the seven years of famine began to come, as Joseph said; and there was a famine in all the land; but in all the land of Egypt there was bread.
+
+### Genesis 41:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the land of Egypt hungered, and the people cried to Pharaoh for bread. And Pharaoh said to all the Egyptians, Go to Joseph, and whatever he says to you, do.
+- brenton: And all the land of Egypt was hungry; and the people cried to Pharao for bread. And Pharao said to all the Egyptians, Go to Joseph, and do whatsoever he shall tell you.
+
+### Genesis 41:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the famine was upon the face of all the land. And Joseph opened all the granaries and sold to all the Egyptians.
+- brenton: And the famine was on the face of all the earth; and Joseph opened all the granaries, and sold to all the Egyptians.
+
+### Genesis 41:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the lands came into Egypt to Joseph to buy, for the famine prevailed in all the land.
+- brenton: And all countries came to Egypt to buy of Joseph, for the famine prevailed in all the earth.
+
+### Genesis 42:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, seeing that there was grain for sale in Egypt, said to his sons, Why are you idle?
+- brenton: And Jacob having seen that there was a sale of corn in Egypt, said to his sons, Why are ye indolent?
+
+### Genesis 42:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, I have heard that there is grain in Egypt. Go down there and buy us a little food, so that we may live and not die.
+- brenton: Behold, I have heard that there is corn in Egypt; go down thither, and buy for us a little food, that we may live, and not die.
+
+### Genesis 42:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the ten brothers of Joseph went down to buy grain from Egypt.
+- brenton: And the ten brethren of Joseph went down to buy corn out of Egypt.
+
+### Genesis 42:4
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: But Benjamin, Joseph's brother, he did not send with his brothers, for he said, Lest perhaps some harm happen to him.
+- brenton: But Jacob sent not Benjamin, the brother of Joseph, with his brethren; for he said, Lest, haply, disease befal him.
+
+### Genesis 42:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel came to buy among those coming, for the famine was in the land of Canaan.
+- brenton: And the sons of Israel came to buy with those that came, for the famine was in the land of Chanaan.
+
+### Genesis 42:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph was ruler of the land. He sold to all the people of the land. And Joseph's brothers came and bowed to him with face to the ground.
+- brenton: And Joseph was ruler of the land; he sold to all the people of the land. And the brethren of Joseph, having come, did reverence to him, bowing with the face to the ground.
+
+### Genesis 42:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph saw his brothers and recognized them, but made himself strange to them and spoke harshly to them and said to them, Where have you come from? And they said, From the land of Canaan, to buy food.
+- brenton: And when Joseph saw his brethren, he knew them, and estranged himself from them, and spoke hard words to them; and said to them, Whence are ye come? And they said, Out of the land of Chanaan, to buy food.
+
+### Genesis 42:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph recognized his brothers, but they did not recognize him.
+- brenton: And Joseph knew his brethren, but they knew not him.
+
+### Genesis 42:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Joseph remembered his dreams that he had seen, and he said to them, You are spies. You came to inspect the tracks of the land.
+- brenton: And Joseph remembered his dream, which he saw; and he said to them, Ye are spies; to observe the marks of the land are ye come.
+
+### Genesis 42:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, No, lord. Your servants came to buy food.
+- brenton: But they said, Nay, Sir, we thy servants are come to buy food;
+
+### Genesis 42:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We are all sons of one man. We are peaceful. Your servants are not spies.
+- brenton: we are all sons of one man; we are peaceable, thy servants are not spies.
+
+### Genesis 42:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, No, but you came to see the tracks of the land.
+- brenton: And he said to them, Nay, but ye are come to observe the marks of the land.
+
+### Genesis 42:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, We your servants are twelve brothers in the land of Canaan, and look, the youngest is with our father today, and the other is no more.
+- brenton: And they said, We thy servants are twelve brethren, in the land of Chanaan; and, behold, the youngest is with our father to-day, but the other one is not.
+
+### Genesis 42:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to them, This is what I told you, saying that you are spies.
+- brenton: And Joseph said to them, This is it that I spoke to you, saying, ye are spies;
+
+### Genesis 42:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In this you will be shown. By Pharaoh's health, you shall not leave this place unless your youngest brother comes here.
+- brenton: herein shall ye be manifested; by the health of Pharao, ye shall not depart hence, unless your younger brother come hither.
+
+### Genesis 42:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Send one of you and let him take your brother, but you will be led away until your words become clear, whether you speak truly or not. But if not, by Pharaoh's health, surely you are spies.
+- brenton: Send one of you, and take your brother; and go ye to prison, till your words be clear, whether ye speak the truth or not; but, if not, by the health of Pharao, verily ye are spies.
+
+### Genesis 42:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he put them under guard for three days.
+- brenton: And he put them in prison three days.
+
+### Genesis 42:18
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the third day Joseph said to them, Do this and live, for I fear God.
+- brenton: And he said to them on the third day, This do, and ye shall live, for I fear God.
+
+### Genesis 42:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you are peaceful, let one of your brothers be held in the prison, but you go and carry the grain for your provision.
+- brenton: If ye be peaceable, let one of your brethren be detained in prison; but go ye, and carry back the corn ye have purchased.
+
+### Genesis 42:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And bring your youngest brother to me, and your words will be believed. But if not, you will die. And they did so.
+- brenton: And bring your younger brother to me, and your words shall be believed; but, if not, ye shall die. And they did so.
+
+### Genesis 42:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this this anguish has come upon us.
+- brenton: And each said to his brother, Yes, indeed, for we are in fault concerning our brother, when we disregarded the anguish of his soul, when he besought us, and we hearkened not to him; and therefore has this affliction come upon us.
+
+### Genesis 42:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben answered and said to them, Did I not speak to you, saying, Do not wrong the child? And you did not listen to me. And look, his blood is being required.
+- brenton: And Ruben answered them, saying, Did I not speak to you, saying, Hurt not the boy, and ye heard me not? and, behold, his blood is required.
+
+### Genesis 42:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But they did not know that Joseph heard, for the interpreter was between them.
+- brenton: But they knew not that Joseph understood them; for there was an interpreter between them.
+
+### Genesis 42:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph turned away from them and wept. Then he came near to them again and spoke to them, and he took Simeon from them and bound him before them.
+- brenton: And Joseph turned away from them, and wept; and again he came to them, and spoke to them; and he took Symeon from them, and bound him before their eyes.
+
+### Genesis 42:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph commanded that their containers be filled with grain and that each man's money be returned into his sack and that provisions for the road be given to them. And it was done for them in this way.
+- brenton: And Joseph gave orders to fill their vessels with corn, and to return their money to each into his sack, and to give them provision for the way; and it was so done to them.
+
+### Genesis 42:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And placing the grain on their donkeys, they departed from there.
+- brenton: And having put the corn on the asses, they departed thence.
+
+### Genesis 42:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one of them loosened his bag to give fodder to his donkeys where they camped, and he saw his bundle of money, and look, it was on the mouth of the bag.
+- brenton: And one having opened his sack to give his asses fodder, at the place where they rested, saw also his bundle of money, for it was on the mouth of his sack.
+
+### Genesis 42:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to his brothers, My money has been returned to me, and look, this is in my bag. And their heart was stunned, and they were troubled to one another, saying, What is this that God has done to us?
+- brenton: And he said to his brethren, My money has been restored to me, and behold this is in my sack. And their heart was wonder-struck, and they were troubled, saying one to another, What is this that God has done to us?
+
+### Genesis 42:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came to Jacob their father in the land of Canaan and told him all the things that had happened to them, saying:
+- brenton: And they came to their father, Jacob, into the land of Chanaan, and reported to him all that had happened to them, saying,
+
+### Genesis 42:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The man, the lord of the land, spoke harshly to us and put us under guard as though spying out the land.
+- brenton: The man, the lord of the land, spoke harsh words to us, and put us in prison as spies of the land.
+
+### Genesis 42:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we said to him, We are peaceful. We are not spies.
+- brenton: And we said to him, We are men of peace, we are not spies.
+
+### Genesis 42:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We are twelve brothers, sons of our father. One is no more, and the youngest is with our father today in the land of Canaan.
+- brenton: We are twelve brethren, sons of our father; one is not, and the youngest is with his father to-day in the land of Chanaan.
+
+### Genesis 42:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man, the lord of the land, said to us, By this I will know that you are peaceful. Leave one brother here with me, and taking the grain for your household's provision, go.
+- brenton: And the man, the lord of the land, said to us, Herein shall I know that ye are peaceable; leave one brother here with me, and having taken the corn ye have purchased for your family, depart.
+
+### Genesis 42:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And bring your youngest brother to me, and I will know that you are not spies but peaceful men, and I will give your brother back to you, and you will trade in the land.
+- brenton: And bring to me your younger brother; then I shall know that ye are not spies, but that ye are men of peace: and I will restore you your brother, and ye shall trade in the land.
+
+### Genesis 42:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened as they were emptying their sacks, each man's bundle of money was in his sack. And they and their father saw their bundles of money and were afraid.
+- brenton: And it came to pass as they were emptying their sacks, there was each man's bundle of money in his sack; and they and their father saw their bundles of money, and they were afraid.
+
+### Genesis 42:36
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob their father said to them, You have made me childless. Joseph is not, Simeon is not, and Benjamin you will take. On me all these things have come.
+- brenton: And their father Jacob said to them, Ye have bereaved me. Joseph is not, Symeon is not, and will ye take Benjamin? all these things have come upon me.
+
+### Genesis 42:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Reuben said to his father, saying, Kill my two sons if I do not bring him to you. Give him into my hand, and I will bring him back to you.
+- brenton: And Ruben spoke to his father, saying, Slay my two sons, if I bring him not to thee; give him into my hand, and I will bring him back to thee.
+
+### Genesis 42:38
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said, My son shall not go down with you, because his brother died and he alone has been left. And it may happen that he is weakened on the road where you go, and you will bring my old age down with sorrow into Hades.
+- brenton: But he said, My son shall not go down with you, because his brother is dead, and he only has been left; and suppose it shall come to pass that he is afflicted by the way by which ye go, then ye shall bring down my old age with sorrow to Hades.
+
+### Genesis 43:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: But the famine prevailed in the land.
+- brenton: But the famine prevailed in the land.
+
+### Genesis 43:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when they finished eating the grain that they had brought out of Egypt, their father said to them, Go again; buy us a little food.
+- brenton: And it came to pass, when they had finished eating the corn which they had brought out of Egypt, that their father said to them, Go again; buy us a little food.
+
+### Genesis 43:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said to him, saying, The man, the lord of the land, solemnly testified to us, saying, You shall not see my face unless your younger brother is with you.
+- brenton: And Judas spoke to him, saying, The man, the lord of the country, positively testified to us, saying, Ye shall not see my face, unless your younger brother be with you.
+
+### Genesis 43:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If then you send our brother with us, we will go down and buy you food.
+- brenton: If, then, thou send our brother with us, we will go down, and buy thee food;
+
+### Genesis 43:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if you do not send our brother with us, we will not go. For the man said to us, You shall not see my face unless your younger brother is with you.
+- brenton: but if thou send not our brother with us, we will not go: for the man spoke to us, saying, Ye shall not see my face, unless your younger brother be with you.
+
+### Genesis 43:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said, Why did you mistreat me by telling the man that you had a brother?
+- brenton: And Israel said, Why did ye harm me, inasmuch as ye told the man that ye had a brother?
+
+### Genesis 43:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, The man kept questioning us and our family, saying, Is your father still alive, and do you have a brother? And we told him according to this questioning. Did we know that he would say to us, Bring your brother down?
+- brenton: And they said, The man closely questioned us about our family also, saying, Does your father yet live, and have ye a brother? and we answered him according to this question: did we know that he would say to us, Bring your brother?
+
+### Genesis 43:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said to Israel his father, Send the boy with me, and rising, we will go, so that we may live and not die, both we and you and our households.
+- brenton: And Judas said to his father Israel, Send the boy with me, and we will arise and go, that we may live and not die, both we and thou, and our store.
+
+### Genesis 43:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I myself guarantee him. From my hand seek him. If I do not bring him to you and set him before you, I shall be guilty toward you all my days.
+- brenton: And I engage for him; at my hand do thou require him; if I bring him not to thee, and place him before thee, I shall be guilty toward thee for ever.
+
+### Genesis 43:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For if we had not delayed, by now we would have returned twice.
+- brenton: For if we had not tarried, we should now have returned twice.
+
+### Genesis 43:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel their father said to them, If it is so, do this. Take from the fruits of the land in your containers and carry down gifts to the man: resin and honey, spices and stacte, turpentine and walnuts.
+- brenton: And Israel, their father, said to them, If it be so, do this; take of the fruits of the earth in your vessels, and carry down to the man presents of gum and honey, and frankincense, and stacte, and turpentine, and walnuts.
+
+### Genesis 43:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And take double money in your hands. And the money returned in your bags carry back with you, lest perhaps it is an oversight.
+- brenton: And take double money in your hands, and the money that was returned in your sacks, carry back with you, lest peradventure it is a mistake.
+
+### Genesis 43:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And take your brother and rise and go down to the man.
+- brenton: And take your brother; and arise, go down to the man.
+
+### Genesis 43:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And my God give you favor before the man and send away your one brother and Benjamin. And as for me, as I have been bereaved, I have been bereaved.
+- brenton: And my God give you favour in the sight of the man, and send away your other brother, and Benjamin, for I accordingly as I have been bereaved, am bereaved.
+
+### Genesis 43:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men took these gifts and took double money in their hands and Benjamin, and rising, they went down to Egypt and stood before Joseph.
+- brenton: And the men having taken these presents, and the double money, took in their hands also Benjamin; and they rose up and went down to Egypt, and stood before Joseph.
+
+### Genesis 43:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph saw them and Benjamin his brother, born of the same mother, and he said to the man over his house, Bring the men into the house and slaughter beasts and prepare, for the men will eat bread with me at noon.
+- brenton: And Joseph saw them and his brother Benjamin, born of the same mother; and he said to the steward of his household, Bring the men into the house, and slay beasts and make ready, for the men are to eat bread with me at noon.
+
+### Genesis 43:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man did as Joseph said, and he brought the men into Joseph's house.
+- brenton: And the man did as Joseph said; and he brought the men into the house of Joseph.
+
+### Genesis 43:18
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men, when they saw that they had been brought into Joseph's house, said, We are being brought in because of the money returned in our bags the first time, to inform against us and to attack us, to take us as servants and our donkeys.
+- brenton: And the men, when they perceived that they were brought into the house of Joseph, said, We are brought in because of the money that was returned in our sacks at the first; even in order to inform against us, and lay it to our charge; to take us for servants, and our asses.
+
+### Genesis 43:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And coming near to the man over Joseph's house, they spoke to him at the gateway of the house,
+- brenton: And having approached the man who was over the house of Joseph, they spoke to him in the porch of the house,
+
+### Genesis 43:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: saying, We beg you, lord. We came down the first time to buy food.
+- brenton: saying, We pray thee, Sir; we came down at first to buy food.
+
+### Genesis 43:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when we came to the lodging-place and opened our bags, each man's money was in his bag. We have now brought our money back in our hands by weight,
+- brenton: And it came to pass, when we came to unlade, and opened our sacks, there was also this money of each in his sack; we have now brought back our money by weight in our hands.
+
+### Genesis 43:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and we have brought other money with us to buy food. We do not know who put our money into our bags.
+- brenton: And we have brought other money with us to buy food; we know not who put the money into our sacks.
+
+### Genesis 43:23
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Mercy to you. Do not be afraid. Your God and the God of your fathers gave you treasures in your bags, and I have your approved money. And he brought Simeon out to them.
+- brenton: And he said to them, God deal mercifully with you; be not afraid; your God, and the God of your fathers, has given you treasures in your sacks, and I have enough of your good money. And he brought Symeon out to them.
+
+### Genesis 43:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought water to wash their feet and gave fodder to their donkeys.
+- brenton: And he brought water to wash their feet; and gave provender to their asses.
+
+### Genesis 43:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they prepared the gifts until Joseph came at noon, for they heard that he was going to dine there.
+- brenton: And they prepared their gifts, until Joseph came at noon, for they heard that he was going to dine there.
+
+### Genesis 43:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph entered the house, and they brought him the gifts that they had in their hands into the house, and they bowed to him with face to the ground.
+- brenton: And Joseph entered into the house, and they brought him the gifts which they had in their hands, into the house; and they did him reverence with their face to the ground.
+
+### Genesis 43:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he asked them, How are you? And he said to them, Is your father well, the old man of whom you spoke? Does he still live?
+- brenton: And he asked them, How are ye? and he said to them, Is your father, the old man of whom ye spoke, well? Does he yet live?
+
+### Genesis 43:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, Your servant our father is well. He still lives. And he said, Blessed be that man by God. And bowing, they did him reverence.
+- brenton: And they said, Thy servant our father is well; he is yet alive. And he said, Blessed be that man by God;—and they bowed, and did him reverence.
+
+### Genesis 43:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph, lifting up his eyes, saw Benjamin his brother, born of the same mother, and said, Is this your younger brother, whom you said to me you would bring? And he said, God show mercy to you, child.
+- brenton: And Joseph lifted up his eyes, and saw his brother Benjamin, born of the same mother; and he said, Is this your younger brother, whom ye spoke of bringing to me? and he said, God have mercy on thee, my son.
+
+### Genesis 43:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph was troubled, for his inward parts turned upon his brother, and he sought to weep. And going into the chamber, he wept there.
+- brenton: And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he went into his chamber, and wept there.
+
+### Genesis 43:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And washing his face, he came out and restrained himself and said, Serve bread.
+- brenton: And he washed his face and came out, and refrained himself, and said, Set on bread.
+
+### Genesis 43:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they served him alone and them by themselves and the Egyptians dining with him by themselves, because the Egyptians could not eat bread with the Hebrews, for it is an abomination to the Egyptians.
+- brenton: And they set on bread for him alone, and for them by themselves, and for the Egyptians feasting with him by themselves, for the Egyptians could not eat bread with the Hebrews, for it is an abomination to the Egyptians.
+
+### Genesis 43:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they sat before him, the firstborn according to his seniority and the younger according to his youth, and the men looked in amazement each at his brother.
+- brenton: And they sat before him, the first-born according to his seniority, and the younger according to his youth; and the men looked with amazement every one at his brother.
+
+### Genesis 43:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took portions from him to themselves, but Benjamin's portion was enlarged beyond the portions of all, fivefold beyond theirs, and they drank and became drunk with him.
+- brenton: And they took their portions from him to themselves; but Benjamin's portion was five times as much as the portions of the others. And they drank and were filled with drink with him.
+
+### Genesis 44:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph commanded the man over his house, saying, Fill the bags of the men with food, as much as they are able to carry, and put each man's money on the mouth of his bag,
+- brenton: And Joseph charged the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put the money of each in the mouth of his sack.
+
+### Genesis 44:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and put my silver cup into the bag of the youngest and the price of his grain. And it was done according to Joseph's word, just as he said.
+- brenton: And put my silver cup into the sack of the youngest, and the price of his corn. And it was done according to the word of Joseph, as he said.
+
+### Genesis 44:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The morning dawned, and the men were sent away, they and their donkeys.
+- brenton: The morning dawned, and the men were sent away, they and their asses.
+
+### Genesis 44:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when they had gone out of the city, they were not far away, and Joseph said to the man over his house, Rise, pursue after the men, and you will overtake them, and you will say to them, Why did you repay evil for good? Why did you steal my silver cup?
+- brenton: And when they had gone out of the city, and were not far off, then Joseph said to his steward, Arise, and pursue after the men; and thou shalt overtake them, and say to them, Why have ye returned evil for good?
+
+### Genesis 44:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Is this not the one in which my lord drinks? And he himself surely practices divination with it. You have done evil in what you have done.
+- brenton: Why have ye stolen my silver cup? is it not this out of which my lord drinks? and he divines augury with it; ye have accomplished evil in that which ye have done.
+
+### Genesis 44:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And finding them, he spoke to them according to these words.
+- brenton: And he found them, and spoke to them according to these words.
+
+### Genesis 44:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to him, Why does my lord speak according to these words? Far be it from your servants to do according to this word.
+- brenton: And they said to him, Why does our lord speak according to these words? far be it from thy servants to do according to this word.
+
+### Genesis 44:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If the money that we found in our bags we brought back to you from the land of Canaan, how would we steal silver or gold out of your lord's house?
+- brenton: If we brought back to thee out of the land of Chanaan the money which we found in our sacks, how should we steal silver or gold out of the house of thy lord?
+
+### Genesis 44:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: With whomever you find the cup among your servants, let him die. And we too will be servants to our lord.
+- brenton: With whomsoever of thy servants thou shalt find the cup, let him die; and, moreover, we will be servants to our lord.
+
+### Genesis 44:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, And now, as you say, so it will be. The one with whom the cup is found will be my servant, but you will be innocent.
+- brenton: And he said, Now then it shall be as ye say; with whomsoever the cup shall be found, he shall be my servant, and ye shall be clear.
+
+### Genesis 44:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they hurried, and each brought down his bag to the ground, and each opened his bag.
+- brenton: And they hasted, and took down every man his sack on the ground, and they opened every man his sack.
+
+### Genesis 44:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he searched, beginning from the elder until he came to the youngest, and he found the cup in Benjamin's bag.
+- brenton: And he searched, beginning from the eldest, until he came to the youngest; and he found the cup in Benjamin's sack.
+
+### Genesis 44:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they tore their garments and each loaded his bag on his donkey, and they returned to the city.
+- brenton: And they rent their garments, and laid each man his sack on his ass, and returned to the city.
+
+### Genesis 44:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah and his brothers entered to Joseph, while he was still there, and they fell before him to the ground.
+- brenton: And Judas and his brethren came in to Joseph, while he was yet there, and fell on the ground before him.
+
+### Genesis 44:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to them, What is this deed that you have done? Do you not know that a man like me surely practices divination?
+- brenton: And Joseph said to them, What is this thing that ye have done? know ye not that a man such as I can surely divine?
+
+### Genesis 44:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah said, What shall we answer to our lord, or what shall we speak, or how shall we be justified? God found the injustice of your servants. Look, we are servants to our lord, both we and the one with whom the cup was found.
+- brenton: And Judas said, What shall we answer to our lord, or what shall we say, or wherein should we be justified? whereas God has discovered the unrighteousness of thy servants; behold, we are slaves to our lord, both we and he with whom the cup has been found.
+
+### Genesis 44:17
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said, Far be it from me to do this thing. The man with whom the cup was found, he will be my servant. But you go up in peace to your father.
+- brenton: And Joseph said, Far be it from me to do this thing; the man with whom the cup has been found, he shall be my servant; but do ye go up with safety to your father.
+
+### Genesis 44:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Judah came near to him and said, I beg you, lord. Let your servant speak a word before you, and do not be angry with your servant, for you are as Pharaoh.
+- brenton: And Judas drew near him, and said, I pray, Sir, let thy servant speak a word before thee, and be not angry with thy servant, for thou art next to Pharao.
+
+### Genesis 44:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: My lord, you asked your servants, saying, Do you have a father or a brother?
+- brenton: Sir, thou askedst thy servants, saying, Have ye a father or a brother?
+
+### Genesis 44:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we said to our lord, We have an elderly father and a child of his old age, younger to him, and his brother died, and he alone was left to his mother, and his father loved him.
+- brenton: And we said to my lord, We have a father, an old man, and he has a son of his old age, a young one, and his brother is dead, and he alone has been left behind to his mother, and his father loves him.
+
+### Genesis 44:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you said to your servants, Bring him down to me, and I will care for him.
+- brenton: And thou saidst to thy servants, Bring him down to me, and I will take care of him.
+
+### Genesis 44:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we said to our lord, The child will not be able to leave his father, and if he leaves his father, he will die.
+- brenton: And we said to my lord, The child will not be able to leave his father; but if he should leave his father, he will die.
+
+### Genesis 44:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But you said to your servants, Unless your younger brother comes down with you, you shall not continue to see my face.
+- brenton: But thou saidst to thy servants, Except your younger brother come down with you, ye shall not see my face again.
+
+### Genesis 44:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened when we went up to your servant our father, we told him the words of our lord.
+- brenton: And it came to pass, when we went up to thy servant our father, we reported to him the words of our lord.
+
+### Genesis 44:25
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And our father said, Go again and buy us a little food.
+- brenton: And our father said, Go again, and buy us a little food.
+
+### Genesis 44:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we said, We will not be able to go down. But if our younger brother goes down with us, we will go down, for we will not be able to see the man's face if our younger brother is not with us.
+- brenton: And we said, We shall not be able to go down; but if our younger brother go down with us, we will go down; for we shall not be able to see the man's face, our younger brother not being with us.
+
+### Genesis 44:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your servant our father said to us, You know that my wife bore me two sons.
+- brenton: And thy servant our father said to us, Ye know that my wife bore me two sons;
+
+### Genesis 44:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one went out from me, and you said, He has become eaten by beasts, and I have not seen him until now.
+- brenton: and one is departed from me; and ye said that he was devoured of wild beasts, and I have not seen him until now.
+
+### Genesis 44:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If then you take this one also from my face, and some harm happens to him on the road, you will bring my old age down with sorrow into Hades.
+- brenton: If then ye take this one also from my presence, and an affliction happen to him by the way, then shall ye bring down my old age with sorrow to the grave.
+
+### Genesis 44:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, if I go in to your servant my father and the child is not with us, and his soul hangs from this child's soul,
+- brenton: Now then, if I should go in to thy servant, and our father, and the boy should not be with us, (and his life depends on this lad's life)—
+
+### Genesis 44:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then it will happen that when he sees that the child is not with us, he will die, and your servants will bring down the old age of your servant our father with sorrow into Hades.
+- brenton: it shall even come to pass, when he sees the boy is not with us, that he will die, and thy servants will bring down the old age of thy servant, and our father, with sorrow to the grave.
+
+### Genesis 44:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For your servant has taken the child as a pledge from the father, saying, If I do not bring him to you and set him before you, I shall be guilty before my father all my days.
+- brenton: For thy servant has received the boy in charge from his father, saying, If I bring him not to thee, and place him before thee, I shall be guilty towards my father for ever.
+
+### Genesis 44:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, let me remain as a servant to my lord in place of the child, but let the child go up with his brothers.
+- brenton: Now then I will remain a servant with thee instead of the lad, a domestic of my lord; but let the lad go up with his brethren.
+
+### Genesis 44:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For how shall I go up to my father if the child is not with us? Lest I see the evils that will find my father.
+- brenton: For how shall I go up to my father, the lad not being with us? lest I behold the evils which will befal my father.
+
+### Genesis 45:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph was not able to hold out before all those standing by him, but said, Send everyone away from me. And no one stood with Joseph when he made himself known to his brothers.
+- brenton: And Joseph could not refrain himself when all were standing by him, but said, Dismiss all from me; and no one stood near Joseph, when he made himself known to his brethren.
+
+### Genesis 45:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he lifted up his voice with weeping. And all the Egyptians heard, and it became heard in Pharaoh's house.
+- brenton: And he uttered his voice with weeping; and all the Egyptians heard, and it was reported to the house of Pharao.
+
+### Genesis 45:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to his brothers, I am Joseph. Does my father still live? And his brothers were not able to answer him, for they were troubled.
+- brenton: And Joseph said to his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him, for they were troubled.
+
+### Genesis 45:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to his brothers, Come near to me, and they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
+- brenton: And Joseph said to his brethren, Draw nigh to me; and they drew nigh; and he said, I am your brother Joseph, whom ye sold into Egypt.
+
+### Genesis 45:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now do not be grieved, nor let it seem hard to you, because you sold me here. For God sent me before you for life.
+- brenton: Now then be not grieved, and let it not seem hard to you that ye sold me hither, for God sent me before you for life.
+
+### Genesis 45:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For this is the second year of famine upon the land, and there are still five years in which there will be neither plowing nor harvest.
+- brenton: For this second year there is famine on the earth, and there are yet five years remaining, in which there is to be neither ploughing, nor mowing.
+
+### Genesis 45:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For God sent me before you to leave for you a remnant on the earth and to preserve for you a great remnant.
+- brenton: For God sent me before you, that there might be left to you a remnant upon the earth, even to nourish a great remnant of you.
+
+### Genesis 45:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And now it was not you who sent me here, but God, and he made me as a father to Pharaoh and lord of all his house and ruler of all the land of Egypt.
+- brenton: Now then ye did not send me hither, but God; and he hath made me as a father of Pharao, and lord of all his house, and ruler of all the land of Egypt.
+
+### Genesis 45:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Hurry then and go up to my father and say to him, Thus says your son Joseph: God made me lord of all the land of Egypt. Come down to me, and do not remain.
+- brenton: Hasten, therefore, and go up to my father, and say to him, These things saith thy son Joseph; God has made me lord of all the land of Egypt; come down therefore to me, and tarry not.
+
+### Genesis 45:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will dwell in the land of Gesem of Arabia, and you will be near me, you and your sons and the sons of your sons, your sheep and your cattle and all that is yours,
+- brenton: And thou shalt dwell in the land of Gesem of Arabia; and thou shalt be near me, thou and thy sons, and thy sons' sons, thy sheep and thine oxen, and whatsoever things are thine.
+
+### Genesis 45:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and I will nourish you there, for there are still five years of famine, lest you and your sons and all your possessions be destroyed.
+- brenton: And I will nourish thee there: for the famine is yet for five years; lest thou be consumed, and thy sons, and all thy possessions.
+
+### Genesis 45:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Look, your eyes see, and the eyes of Benjamin my brother see, that my mouth is the one speaking to you.
+- brenton: Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you.
+
+### Genesis 45:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then tell my father all my glory in Egypt and all that you have seen, and hurry and bring my father down here.
+- brenton: Report, therefore, to my father all my glory in Egypt, and all things that ye have seen, and make haste and bring down my father hither.
+
+### Genesis 45:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And falling on the neck of Benjamin his brother, he wept over him, and Benjamin wept on his neck.
+- brenton: And he fell on his brother Benjamin's neck, and wept on him; and Benjamin wept on his neck.
+
+### Genesis 45:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And kissing all his brothers, he wept over them, and after this his brothers spoke to him.
+- brenton: And he kissed all his brethren, and wept on them; and after these things his brethren spoke to him.
+
+### Genesis 45:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the report was heard in Pharaoh's house, saying, Joseph's brothers have come. And Pharaoh and his household rejoiced.
+- brenton: And the report was carried into the house of Pharao, saying, Joseph's brethren are come; and Pharao was glad, and his household.
+
+### Genesis 45:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Tell your brothers, Do this: fill your beasts and go to the land of Canaan,
+- brenton: And Pharao said to Joseph, Say to thy brethren, Do this; fill your waggons, and depart into the land of Chanaan.
+
+### Genesis 45:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: and take your father and your possessions and come to me, and I will give you from all the good things of Egypt, and you will eat the marrow of the land.
+- brenton: And take up your father, and your possessions, and come to me; and I will give you of all the goods of Egypt, and ye shall eat the marrow of the land.
+
+### Genesis 45:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you, command this: take carts for them out of the land of Egypt for your little ones and your wives. And taking your father, come.
+- brenton: And do thou charge them thus; that they should take for them waggons out of the land of Egypt, for your little ones, and for your wives; and take up your father, and come.
+
+### Genesis 45:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And do not spare your eyes for your goods, for all the good things of Egypt will be yours.
+- brenton: And be not sparing in regard to your property, for all the good of Egypt shall be yours.
+
+### Genesis 45:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel did so. And Joseph gave them carts according to Pharaoh's word and gave them provisions for the road,
+- brenton: And the children of Israel did so; and Joseph gave to them waggons, according to the words spoken by king Pharao; and he gave them provision for the journey.
+
+### Genesis 45:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and to all he gave two garments apiece, but to Benjamin he gave three hundred gold pieces and five changing garments,
+- brenton: And he gave to them all two sets of raiment apiece; but to Benjamin he gave three hundred pieces of gold, and five changes of raiment.
+
+### Genesis 45:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and to his father he sent likewise: ten donkeys carrying from all the good things of Egypt, and ten she-donkeys carrying bread for his father for the journey.
+- brenton: And to his father he sent presents at the same rate, and ten asses, bearing some of all the good things of Egypt, and ten mules, bearing bread for his father for the journey.
+
+### Genesis 45:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he sent away his brothers, and they went. And he said to them, Do not be angry on the road.
+- brenton: And he sent away his brethren, and they went; and he said to them, Be not angry by the way.
+
+### Genesis 45:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they went up out of Egypt and came to the land of Canaan to Jacob their father,
+- brenton: And they went up out of Egypt, and came into the land of Chanaan, to Jacob their father.
+
+### Genesis 45:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they reported to him, saying, Your son Joseph lives, and he rules all the land of Egypt. And Jacob was stunned in mind, for he did not believe them.
+- brenton: And they reported to him, saying, Thy son Joseph is living, and he is ruler over all the land of Egypt; and Jacob was amazed, for he did not believe them.
+
+### Genesis 45:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they told him all the words of Joseph that he had spoken to them. And when he saw the carts that Joseph had sent to take him, the spirit of Jacob their father revived.
+- brenton: But they spoke to him all the words uttered by Joseph, whatsoever he said to them; and having seen the chariots which Joseph sent to take him up, the spirit of Jacob their father revived.
+
+### Genesis 45:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said, It is a great thing for me if Joseph my son still lives. I will go and see him before I die.
+- brenton: And Israel said, It is a great thing for me if Joseph my son is yet alive, I will go and see him before I die.
+
+### Genesis 46:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel departed, he and all that was his, and came to the Well of the Oath and offered sacrifice to the God of his father Isaac.
+- brenton: And Israel departed, he and all that he had, and came to the well of the oath; and he offered sacrifice to the God of his father Isaac.
+
+### Genesis 46:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God spoke to Israel in a vision of the night, saying, Jacob, Jacob. And he said, What is it?
+- brenton: And God spoke to Israel in a night vision, saying, Jacob, Jacob; and he said, What is it?
+
+### Genesis 46:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he says to him, I am the God of your fathers. Do not fear to go down into Egypt, for I will make you there into a great nation,
+- brenton: And he says to him, I am the God of thy fathers; fear not to go down into Egypt, for I will make thee there a great nation.
+
+### Genesis 46:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and I will go down with you into Egypt, and I will bring you up at the end, and Joseph will place his hands on your eyes.
+- brenton: And I will go down with thee into Egypt, and I will bring thee up at the end; and Joseph shall put his hands on thine eyes.
+
+### Genesis 46:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob rose from the Well of the Oath, and the sons of Israel took up their father and their households and their wives on the carts that Joseph sent to take him,
+- brenton: And Jacob rose up from the well of the oath; and the sons of Israel took up their father, and the baggage, and their wives on the waggons, which Joseph sent to take them.
+
+### Genesis 46:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and taking up their possessions and all the property that they had acquired in the land of Canaan, they entered into Egypt, Jacob and all his seed with him,
+- brenton: And they took up their goods, and all their property, which they had gotten in the land of Chanaan; they came into the land of Egypt, Jacob, and all his seed with him.
+
+### Genesis 46:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons and sons of his sons with him, daughters and daughters of his daughters. And he brought all his seed into Egypt.
+- brenton: The sons, and the sons of his sons with him; his daughters, and the daughters of his daughters; and he brought all his seed into Egypt.
+
+### Genesis 46:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of the sons of Israel who entered into Egypt along with Jacob their father: Jacob and his sons. The firstborn of Jacob was Reuben.
+- brenton: And these are the names of the sons of Israel that went into Egypt with their father Jacob—Jacob and his sons. The first-born of Jacob, Ruben.
+
+### Genesis 46:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben: Enoch and Phallus, Asron and Charmi.
+- brenton: And the sons of Ruben; Enoch, and Phallus, Asron, and Charmi.
+
+### Genesis 46:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Simeon: Jemuel and Jamin and Aod and Jachin and Saar and Saul, son of the Canaanite woman.
+- brenton: And the sons of Symeon; Jemuel, and Jamin, and Aod, and Achin, and Saar, and Saul, the son of a Chananitish woman.
+
+### Genesis 46:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Levi: Gerson, Caath and Merari.
+- brenton: And the sons of Levi; Gerson, Cath, and Merari.
+
+### Genesis 46:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Judah: Er and Aunan and Selom and Phares and Zara. And Er and Aunan died in the land of Canaan. And the sons of Phares became Esron and Jemuel.
+- brenton: And the sons of Judas; Er, and Aunan, and Selom, and Phares, and Zara: and Er and Aunan died in the land of Chanaan.
+
+### Genesis 46:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Issachar: Thola and Phua and Iasub and Zambram.
+- brenton: And the sons of Phares were Esron, and Jemuel. And the sons of Issachar; Thola, and Phua, and Asum, and Sambran.
+
+### Genesis 46:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Zebulun: Sered and Allon and Achoel.
+- brenton: And the sons of Zabulun, Sered, and Allon, and Achoel.
+
+### Genesis 46:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Leah, whom she bore to Jacob in Mesopotamia of Syria, and Dinah his daughter. All the souls, sons and daughters, were thirty-three.
+- brenton: These are the sons of Lea, which she bore to Jacob in Mesopotamia of Syria, and Dina his daughter; all the souls, sons and daughters, thirty-three.
+
+### Genesis 46:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Gad: Saphon and Angis and Saunis and Thasoban and Aedeis and Aroedeis and Areeleis.
+- brenton: And the sons of Gad; Saphon, and Angis, and Sannis, and Thasoban, and Aedis, and Aroedis, and Areelis.
+
+### Genesis 46:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Asher: Jemna, Jessua and Jeoul and Baria and Sara their sister. And the sons of Baria: Chobor and Melchiil.
+- brenton: And the sons of Aser; Jemna, Jessua, and Jeul, and Baria, and Sara their sister. And the sons of Baria; Chobor, and Melchiil.
+
+### Genesis 46:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Zilpah, whom Laban gave to Leah his daughter, who bore these to Jacob, sixteen souls.
+- brenton: These are the sons of Zelpha, which Laban gave to his daughter Lea, who bore these to Jacob, sixteen souls.
+
+### Genesis 46:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Rachel, Jacob's wife: Joseph and Benjamin.
+- brenton: And the sons of Rachel, the wife of Jacob; Joseph, and Benjamin.
+
+### Genesis 46:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sons were born to Joseph in the land of Egypt, whom Aseneth daughter of Petephres priest of Heliopolis bore to him, Manasseh and Ephraim. And there were sons of Manasseh, whom the Syrian concubine bore to him, Machir. And Machir begot Galaad. And the sons of Ephraim, brother of Manasseh, were Sutalaam and Taam. And the sons of Sutalaam were Edem.
+- brenton: And there were sons born to Joseph in the land of Egypt, whom Aseneth, the daughter of Petephres, priest of Heliopolis, bore to him, even Manasses and Ephraim. And there were sons born to Manasses, which the Syrian concubine bore to him, even Machir. And Machir begot Galaad. And the sons of Ephraim, the brother of Manasses; Sutalaam, and Taam. And the sons of Sutalaam; Edom.
+
+### Genesis 46:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Benjamin: Bala and Chobor and Asbel. And there became sons of Bala: Gera and Noeman and Anchis and Ros and Mamphim and Ophimin. And Gera begot Arad.
+- brenton: And the sons of Benjamin; Bala, and Bochor, and Asbel. And the sons of Bala were Gera, and Noeman, and Anchis, and Ros, and Mamphim. And Gera begot Arad.
+
+### Genesis 46:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Rachel, whom she bore to Jacob. All the souls were eighteen.
+- brenton: These are the sons of Rachel, which she bore to Jacob; all the souls eighteen.
+
+### Genesis 46:23
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the sons of Dan: Asom.
+- brenton: And the sons of Dan; Asom.
+
+### Genesis 46:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Naphtali: Asiel and Gouni and Issaar and Syllim.
+- brenton: And the sons of Nephthalim; Asiel, and Goni, and Issaar, and Sollem.
+
+### Genesis 46:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Bilhah, whom Laban gave to Rachel his daughter, who bore these to Jacob. All the souls were seven.
+- brenton: These are the sons of Balla, whom Laban gave to his daughter Rachel, who bore these to Jacob; all the souls, seven.
+
+### Genesis 46:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the souls that entered with Jacob into Egypt, those who came out of his loins, apart from the wives of Jacob's sons, all the souls were sixty-six.
+- brenton: And all the souls that came with Jacob into Egypt, who came out of his loins, besides the wives of the sons of Jacob, even all the souls were sixty-six.
+
+### Genesis 46:27
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the sons of Joseph born to him in the land of Egypt were nine souls. All the souls of the house of Jacob that entered into Egypt with Jacob were seventy-five souls.
+- brenton: And the sons of Joseph, who were born to him in the land of Egypt, were nine souls; all the souls of the house of Jacob who came with Joseph into Egypt, were seventy-five souls.
+
+### Genesis 46:28
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And he sent Judah before him to Joseph to meet him at the city of Heroes, into the land of Ramesses.
+- brenton: And he sent Judas before him to Joseph, to meet him to the city of Heroes, into the land of Ramesses.
+
+### Genesis 46:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Joseph, yoking his chariots, went up to meet Israel his father at the city of Heroes, and appearing to him, he fell on his neck and wept with abundant weeping.
+- brenton: And Joseph having made ready his chariots, went up to meet Israel his father, at the city of Heroes; and having appeared to him, fell on his neck, and wept with abundant weeping.
+
+### Genesis 46:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said to Joseph, From now on I will die, since I have seen your face, because you still live.
+- brenton: And Israel said to Joseph, After this I will gladly die, since I have seen thy face, for thou art yet living.
+
+### Genesis 46:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to his brothers, I will go up and report to Pharaoh, and I will say to him, My brothers and my father's house, who were in the land of Canaan, have come to me.
+- brenton: And Joseph said to his brethren, I will go up and tell Pharao, and will say to him, My brethren, and my father's house, who were in the land of Chanaan, are come to me.
+
+### Genesis 46:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men are shepherds, for they were men who bred cattle, and they have brought their cattle and their oxen and all that is theirs.
+- brenton: And the men are shepherds; for they have been feeders of cattle, and they have brought with them their cattle, and their kine, and all their property.
+
+### Genesis 46:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If then Pharaoh calls you and says to you, What is your work?
+- brenton: If then Pharao call you, and say to you, What is your occupation?
+
+### Genesis 46:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: you will say, Your servants are breeders of cattle from childhood until now, both we and our fathers, so that you may dwell in the land of Gesem of Arabia, for every shepherd of sheep is an abomination to the Egyptians.
+- brenton: Ye shall say, We thy servants are herdsmen from our youth until now, both we and our fathers: that ye may dwell in the land of Gesem of Arabia, for every shepherd is an abomination to the Egyptians.
+
+### Genesis 47:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph came and reported to Pharaoh, saying, My father and my brothers and their cattle and their oxen and all that is theirs have come out of the land of Canaan, and look, they are in the land of Gesem.
+- brenton: And Joseph came and told Pharao, saying, My father, and my brethren, and their cattle, and their oxen, and all their possessions, are come out of the land of Chanaan, and, behold, they are in the land of Gesem.
+
+### Genesis 47:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from his brothers he took five men and set them before Pharaoh.
+- brenton: And he took of his brethren five men, and set them before Pharao.
+
+### Genesis 47:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph's brothers, What is your work? And they said to Pharaoh, Your servants are shepherds of sheep, both we and our fathers.
+- brenton: And Pharao said to the brethren of Joseph, What is your occupation? and they said to Pharao, Thy servants are shepherds, both we and our fathers.
+
+### Genesis 47:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to Pharaoh, We have come to sojourn in the land, for there is no pasture for the flocks of your servants, because the famine prevailed in the land of Canaan. Now then, let your servants dwell in the land of Gesem.
+- brenton: And they said to Pharao, We are come to sojourn in the land, for there is no pasture for the flocks of thy servants, for the famine has prevailed in the land of Chanaan; now then, we will dwell in the land of Gesem. And Pharao said to Joseph, Let them dwell in the land of Gesem; and if thou knowest that there are among them able men, make them overseers of my cattle. So Jacob and his sons came into Egypt, to Joseph; and Pharao, king of Egypt, heard of it.
+
+### Genesis 47:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Let them dwell in the land of Gesem. And if you know that there are able men among them, appoint them rulers over my cattle. And Jacob and his sons came into Egypt to Joseph, and Pharaoh king of Egypt heard.
+- brenton: And Pharao spoke to Joseph, saying, Thy father, and thy brethren, are come to thee.
+
+### Genesis 47:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Your father and your brothers have come to you. Look, the land of Egypt is before you. In the best land settle your father and your brothers.
+- brenton: Behold, the land of Egypt is before thee; settle thy father and thy brethren in the best land.
+
+### Genesis 47:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed Pharaoh.
+- brenton: And Joseph brought in Jacob his father, and set him before Pharao; and Jacob blessed Pharao.
+
+### Genesis 47:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Jacob, How many are the years of the days of your life?
+- brenton: And Pharao said to Jacob, How many are the years of the days of thy life?
+
+### Genesis 47:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Jacob said to Pharaoh, The days of the years of my life in which I sojourn are one hundred thirty years. Few and evil have become the days of the years of my life, and they have not reached the days of the years of the life of my fathers, in which days they sojourned.
+- brenton: And Jacob said to Pharao, The days of the years of my life, wherein I sojourn, are a hundred and thirty years; few and evil have been the days of the years of my life, they have not attained to the days of the life of my fathers, in which days they sojourned.
+
+### Genesis 47:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob, having blessed Pharaoh, went out from him.
+- brenton: And Jacob blessed Pharao, and departed from him.
+
+### Genesis 47:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best land, in the land of Ramesses, just as Pharaoh commanded.
+- brenton: And Joseph settled his father and his brethren, and gave them a possession in the land of Egypt, in the best land, in the land of Ramesses, as Pharao commanded.
+
+### Genesis 47:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph measured out grain to his father and his brothers and to all the house of his father according to persons.
+- brenton: And Joseph gave provision to his father, and his brethren, and to all the house of his father, corn for each person.
+
+### Genesis 47:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there was no grain in all the land, for the famine prevailed greatly. And the land of Egypt and the land of Canaan failed because of the famine.
+- brenton: And there was no corn in all the land, for the famine prevailed greatly; and the land of Egypt, and the land of Chanaan, fainted for the famine.
+
+### Genesis 47:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph gathered all the money found in the land of Egypt and in the land of Canaan for the grain that they were buying, and he measured out grain to them. And Joseph brought all the money into Pharaoh's house.
+- brenton: And Joseph gathered all the money that was found in the land of Egypt, and the land of Chanaan, in return for the corn which they bought, and he distributed corn to them; and Joseph brought all the money into the house of Pharao.
+
+### Genesis 47:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the money failed out of the land of Egypt and out of the land of Canaan. And all the Egyptians came to Joseph, saying, Give us bread, and why should we die before you? For our money has failed.
+- brenton: And all the money failed out of the land of Egypt, and out of the land of Chanaan; and all the Egyptians came to Joseph, saying, Give us bread, and why do we die in thy presence? for our money is spent.
+
+### Genesis 47:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to them, Bring your livestock, and I will give you bread in exchange for your livestock, if your money has failed.
+- brenton: And Joseph said to them, Bring your cattle, and I will give you bread for your cattle, if your money is spent.
+
+### Genesis 47:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they brought their livestock to Joseph, and Joseph gave them bread in exchange for the horses and in exchange for the sheep and in exchange for the oxen and in exchange for the donkeys. And he fed them with bread in exchange for all their livestock in that year.
+- brenton: And they brought their cattle to Joseph; and Joseph gave them bread in return for their horses, and for their sheep, and for their oxen, and for their asses; and Joseph maintained them with bread for all their cattle in that year.
+
+### Genesis 47:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And that year ended, and they came to him in the second year and said to him, Let us not be wiped out before our lord. For if our money has failed and our possessions and livestock belong to you, our lord, nothing is left for us before our lord except our own bodies and our land.
+- brenton: And that year passed, and they came to him in the second year, and said to him, Must we then be consumed from before our lord? for if our money has failed, and our possessions, and our cattle, brought to thee our lord, and there has not been left to us before our lord more than our own bodies and our land, we are indeed destitute.
+
+### Genesis 47:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So then, let us not die before you and let not the land be made desolate. Buy us and our land for bread, and we and our land will be servants to Pharaoh. Give seed, so that we may sow and live and not die, and the land will not be made desolate.
+- brenton: In order, then, that we die not before thee, and the land be made desolate, buy us and our land for bread, and we and our land will be servants to Pharao: give seed that we may sow, and live and not die, so our land shall not be made desolate.
+
+### Genesis 47:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph bought all the land of the Egyptians for Pharaoh, for the Egyptians sold their land to Pharaoh, because the famine prevailed against them, and the land became Pharaoh's.
+- brenton: And Joseph bought all the land of the Egyptians, for Pharao; for the Egyptians sold their land to Pharao; for the famine prevailed against them, and the land became Pharao's.
+
+### Genesis 47:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he enslaved the people to him as servants from one border of Egypt to the other.
+- brenton: And he brought the people into bondage to him, for servants, from one extremity of Egypt to the other,
+
+### Genesis 47:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only the land of the priests Joseph did not buy, for Pharaoh gave a fixed allowance to the priests, and they ate the allowance that Pharaoh gave them. Because of this they did not sell their land.
+- brenton: except only the land of the priests; Joseph bought not this, for Pharao gave a portion in the way of gift to the priests; and they ate their portion which Pharao gave them; therefore they sold not their land.
+
+### Genesis 47:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to all the Egyptians, Look, I have bought you and your land today for Pharaoh. Take seed for yourselves and sow the land,
+- brenton: And Joseph said to all the Egyptians, Behold, I have bought you and your land this day for Pharao; take seed for you, and sow the land.
+
+### Genesis 47:24
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: and its produce will come, and you will give the fifth part to Pharaoh, and the four parts will be for you yourselves, for seed for the land and for food for you and all those in your houses.
+- brenton: And there shall be the fruits of it; and ye shall give the fifth part to Pharao, and the four remaining parts shall be for yourselves, for seed for the earth, and for food for you, and all that are in your houses.
+
+### Genesis 47:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, You have saved us. We have found favor before our lord, and we will be servants to Pharaoh.
+- brenton: And they said, Thou hast saved us; we have found favour before our lord, and we will be servants to Pharao.
+
+### Genesis 47:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph set it for them as an ordinance until this day on the land of Egypt, reserving a fifth part for Pharaoh, except only the land of the priests, which did not belong to Pharaoh.
+- brenton: And Joseph appointed it to them for an ordinance until this day; to reserve a fifth part for Pharao, on the land of Egypt, except only the land of the priests, that was not Pharao's.
+
+### Genesis 47:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel dwelt in the land of Egypt, on the land of Gesem, and they gained an inheritance on it and increased and multiplied greatly.
+- brenton: And Israel dwelt in Egypt, in the land of Gesem, and they gained an inheritance upon it; and they increased and multiplied very greatly.
+
+### Genesis 47:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob lived in the land of Egypt seventeen years, and the days of Jacob, the years of his life, became one hundred forty-seven years.
+- brenton: And Jacob survived seventeen years in the land of Egypt; and Jacob's days of the years of his life were a hundred and forty-seven years.
+
+### Genesis 47:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days of Israel drew near for him to die, and he called his son Joseph and said to him, If I have found favor before you, put your hand under my thigh, and you will do mercy and truth toward me so as not to bury me in Egypt,
+- brenton: And the days of Israel drew nigh for him to die: and he called his son Joseph, and said to him, If I have found favour before thee, put thy hand under my thigh, and thou shalt execute mercy and truth toward me, so as not to bury me in Egypt.
+
+### Genesis 47:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but I will sleep with my fathers, and you will carry me up out of Egypt and bury me in their tomb. And he said, I will do according to your word.
+- brenton: But I will sleep with my fathers, and thou shalt carry me up out of Egypt, and bury me in their sepulchre. And he said, I will do according to thy word.
+
+### Genesis 47:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he said, Swear to me. And he swore to him. And Israel bowed upon the top of his staff.
+- brenton: And he said, Swear to me; and he swore to him. And Israel did reverence, leaning on the top of his staff.
+
+### Genesis 48:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened after these matters, it was reported to Joseph that your father is ill. And taking his two sons, Manasseh and Ephraim, he came to Jacob.
+- brenton: And it came to pass after these things, that it was reported to Joseph, Behold, thy father is ill; and, having taken his two sons, Manasse and Ephraim, he came to Jacob.
+
+### Genesis 48:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it was reported to Jacob, saying, Look, your son Joseph is coming to you. And Israel, strengthening himself, sat upon the bed.
+- brenton: And it was reported to Jacob, saying, Behold, thy son Joseph cometh to thee; and Israel having strengthened himself, sat upon the bed.
+
+### Genesis 48:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob said to Joseph, My God appeared to me in Luza in the land of Canaan and blessed me
+- brenton: And Jacob said to Joseph, My God appeared to me in Luza, in the land of Chanaan, and blessed me,
+
+### Genesis 48:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and said to me, Look, I will increase you and multiply you and make you into gatherings of nations, and I will give this land to you and to your seed after you for an everlasting possession.
+- brenton: and said to me, Behold, I will increase thee, and multiply thee, and will make of thee multitudes of nations; and I will give this land to thee, and to thy seed after thee, for an everlasting possession.
+
+### Genesis 48:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then, your two sons born to you in the land of Egypt before I came to you into Egypt are mine. Ephraim and Manasseh shall be mine as Reuben and Simeon are.
+- brenton: Now then thy two sons, who were born to thee in the land of Egypt, before I came to thee into Egypt, are mine; Ephraim and Manasse, as Ruben and Symeon they shall be mine.
+
+### Genesis 48:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the offspring that you beget after these will be under the name of their brothers. They will be called after their brothers' inheritances.
+- brenton: And the children which thou shalt beget hereafter, shall be in the name of their brethren; they shall be named after their inheritances.
+
+### Genesis 48:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And as for me, when I was coming from Mesopotamia of Syria, Rachel your mother died in the land of Canaan as I drew near toward the racecourse of Chabratha of the land so as to come to Ephratha, and I buried her on the road of the racecourse. This is Bethlehem.
+- brenton: And as for me, when I came out of Mesopotamia of Syria, Rachel, thy mother, died in the land of Chanaan, as I drew nigh to the horse-course of Chabratha of the land of Chanaan, so as to come to Ephratha; and I buried her in the road of the course; this is Bethlehem.
+
+### Genesis 48:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when Israel saw the sons of Joseph, he said, Who are these to you?
+- brenton: And when Israel saw the sons of Joseph, he said, Who are these to thee?
+
+### Genesis 48:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to his father, They are my sons, whom God gave me here. And Jacob said, Bring them to me, so that I may bless them.
+- brenton: And Joseph said to his father, They are my sons, whom God gave me here; and Jacob said, Bring me them, that I may bless them.
+
+### Genesis 48:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now the eyes of Israel were dim from old age, and he was not able to see. And Joseph brought them near to him, and he kissed them and embraced them.
+- brenton: Now the eyes of Israel were dim through age, and he could not see; and he brought them near to him, and he kissed them, and embraced them.
+
+### Genesis 48:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said to Joseph, Look, I was not deprived even of your face, and look, God also showed me your seed.
+- brenton: And Israel said to Joseph, Behold, I have not been deprived of seeing thy face, and lo! God has showed me thy seed also.
+
+### Genesis 48:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph brought them out from his knees, and they bowed to him with face to the ground.
+- brenton: And Joseph brought them out from between his knees, and they did reverence to him, with their face to the ground.
+
+### Genesis 48:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph took his two sons, Ephraim in his right hand on Israel's left, and Manasseh in his left hand on Israel's right, and brought them near to him.
+- brenton: And Joseph took his two sons, both Ephraim in his right hand, but on the left of Israel, and Manasse on his left hand, but on the right of Israel, and brought them near to him.
+
+### Genesis 48:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel, stretching out his right hand, laid it on Ephraim's head, though he was the younger, and his left on Manasseh's head, crossing his hands.
+- brenton: But Israel having stretched out his right hand, laid it on the head of Ephraim, and he was the younger; and his left hand on the head of Manasse, guiding his hands crosswise.
+
+### Genesis 48:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he blessed them and said, The God before whom my fathers Abraham and Isaac were well-pleasing, the God who feeds me from youth until this day,
+- brenton: And he blessed them and said, The God in whose sight my fathers were well pleasing, even Abraam and Isaac, the God who continues to feed me from my youth until this day;
+
+### Genesis 48:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: the angel who rescues me from all evils, may he bless these boys. And let my name be called on them, and the name of my fathers Abraham and Isaac, and let them be multiplied into a great multitude on the earth.
+- brenton: the angel who delivers me from all evils, bless these boys, and my name shall be called upon them, and the name of my fathers, Abraam and Isaac; and let them be increased to a great multitude on the earth.
+
+### Genesis 48:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph, seeing that his father laid his right hand on Ephraim's head, it seemed grievous to him, and Joseph took hold of his father's hand to remove it from Ephraim's head onto Manasseh's head.
+- brenton: And Joseph having seen that his father put his right hand on the head of Ephraim—it seemed grievous to him; and Joseph took hold of the hand of his father, to remove it from the head of Ephraim to the head of Manasse.
+
+### Genesis 48:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to his father, Not so, father, for this one is the firstborn. Put your right hand on his head.
+- brenton: And Joseph said to his father, Not so, father; for this is the first-born; lay thy right-hand upon his head.
+
+### Genesis 48:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he would not, but said, I know, child, I know. He also will become a people, and he also will be exalted. But his younger brother will be greater than he, and his seed will become a multitude of nations.
+- brenton: And he would not, but said, I know it, son, I know it; he also shall be a people, and he shall be exalted, but his younger brother shall be greater than he, and his seed shall become a multitude of nations.
+
+### Genesis 48:20
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And he blessed them in that day, saying, In you Israel will be blessed, saying, God make you as Ephraim and as Manasseh. And he put Ephraim before Manasseh.
+- brenton: And he blessed them in that day, saying, In you shall Israel be blessed, saying, God make thee as Ephraim and Manasse; and he set Ephraim before Manasse.
+
+### Genesis 48:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel said to Joseph, Look, I am dying, and God will be with you and return you to the land of your fathers.
+- brenton: And Israel said to Joseph, Behold, I die; and God shall be with you, and restore you to the land of your fathers.
+
+### Genesis 48:22
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And I give to you Sikima, a chosen portion above your brothers, which I took from the hand of the Amorites with my sword and my bow.
+- brenton: And I give to thee Sicima, a select portion above thy brethren, which I took out of the hand of the Amorites with my sword and bow.
+
+### Genesis 49:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob called his sons and said to them, Gather yourselves, so that I may tell you what will meet you in the last days.
+- brenton: And Jacob called his sons, and said to them, Assemble yourselves, that I may tell you what shall happen to you in the last days.
+
+### Genesis 49:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Gather yourselves and hear me, sons of Jacob. Hear Israel your father.
+- brenton: Gather yourselves together, and hear me, sons of Jacob; hear Israel, hear your father.
+
+### Genesis 49:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Reuben, my firstborn, you are my strength and the beginning of my children, hard to bear and hard, self-willed.
+- brenton: Ruben, thou art my first-born, thou my strength, and the first of my children, hard to be endured, hard and self-willed.
+
+### Genesis 49:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You were insolent like water; do not boil over, for you went up to your father's bed. Then you defiled the couch where you went up.
+- brenton: Thou wast insolent like water, burst not forth with violence, for thou wentest up to the bed of thy father; then thou defiledst the couch, whereupon thou wentest up.
+
+### Genesis 49:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Simeon and Levi are brothers. They accomplished injustice from their own choosing.
+- brenton: Symeon and Levi, brethren, accomplished the injustice of their cutting off.
+
+### Genesis 49:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let not my soul come into their counsel, and let not my inward parts lean upon their conspiracy, because in their wrath they killed men, and in their desire they hamstrung a bull.
+- brenton: Let not my soul come into their counsel, and let not mine inward parts contend in their conspiracy, for in their wrath they slew men, and in their passion they houghed a bull.
+
+### Genesis 49:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Cursed be their wrath, because it was self-willed, and their anger, because it grew hard. I will divide them in Jacob and scatter them in Israel.
+- brenton: Cursed be their wrath, for it was wilful, and their anger, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
+
+### Genesis 49:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Judah, your brothers will praise you. Your hands will be on the back of your enemies. Your father's sons will bow to you.
+- brenton: Juda, thy brethren have praised thee, and thy hands shall be on the back of thine enemies; thy father's sons shall do thee reverence.
+
+### Genesis 49:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Judah is a lion's cub. From a shoot, my son, you went up. Having lain down, you slept as a lion and as a cub. Who will rouse him?
+- brenton: Juda is a lion's whelp: from the tender plant, my son, thou art gone up, having couched thou liest as a lion, and as a whelp; who shall stir him up?
+
+### Genesis 49:10
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: A ruler will not fail from Judah, nor a leader from his loins, until the things stored up for him come, and he is the expectation of nations.
+- brenton: A ruler shall not fail from Juda, nor a prince from his loins, until there come the things stored up for him; and he is the expectation of nations.
+
+### Genesis 49:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Binding his foal to the vine and the foal of his donkey to the tendril, he will wash his robe in wine and his garment in the blood of the grape.
+- brenton: Binding his foal to the vine, and the foal of his ass to the branch of it, he shall wash his robe in wine, and his garment in the blood of the grape.
+
+### Genesis 49:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His eyes are gladdening from wine, and his teeth are whiter than milk.
+- brenton: His eyes shall be more cheering than wine, and his teeth whiter than milk.
+
+### Genesis 49:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Zebulun will dwell by the sea, and he will be by a harbor of ships, and he will stretch out as far as Sidon.
+- brenton: Zabulon shall dwell on the coast, and he shall be by a haven of ships, and shall extend to Sidon.
+
+### Genesis 49:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Issachar desired the good, resting between the allotments.
+- brenton: Issachar has desired that which is good; resting between the inheritances.
+
+### Genesis 49:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seeing that the rest was good and the land rich, he put his shoulder to labor and became a farmer.
+- brenton: And having seen the resting place that it was good, and the land that it was fertile, he subjected his shoulder to labour, and became a husbandman.
+
+### Genesis 49:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Dan will judge his people, as one tribe too in Israel.
+- brenton: Dan shall judge his people, as one tribe too in Israel.
+
+### Genesis 49:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And let Dan become a serpent on the road, sitting by the path, biting the horse's heel, and the rider will fall backward,
+- brenton: And let Dan be a serpent in the way, besetting the path, biting the heel of the horse (and the rider shall fall backward),
+
+### Genesis 49:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: yes
+- fresh: waiting for the salvation of the Lord.
+- brenton: waiting for the salvation of the Lord.
+
+### Genesis 49:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Gad, a raiding troop will raid him, but he will raid it at heel.
+- brenton: Gad, a plundering troop shall plunder him; but he shall plunder him, pursuing him closely.
+
+### Genesis 49:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Asher, his bread is rich, and he will give delicacies to rulers.
+- brenton: Aser, his bread shall be fat; and he shall yield dainties to princes.
+
+### Genesis 49:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Naphtali is a released stem, bestowing beauty in its fruit.
+- brenton: Nephthalim is a spreading stem, bestowing beauty on its fruit.
+
+### Genesis 49:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Joseph is a son increased, my increased and envied son, my youngest son. Return to me.
+- brenton: Joseph is a son increased; my dearly loved son is increased; my youngest son, turn to me.
+
+### Genesis 49:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Against him, taking evil counsel, they reviled him, and lords of arrows pressed hard upon him.
+- brenton: Against whom men taking evil counsel reproached him, and the archers pressed hard upon him.
+
+### Genesis 49:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But their bows were shattered with strength, and the sinews of their arms were loosened by the hand of the Mighty One of Jacob. From there is the one who strengthened Israel, from the God of your father,
+- brenton: But their bow and arrows were mightily consumed, and the sinews of their arms were slackened by the hand of the mighty one of Jacob; thence is he that strengthened Israel from the God of thy father;
+
+### Genesis 49:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and my God helped you and blessed you with blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
+- brenton: and my God helped thee, and he blessed thee with the blessing of heaven from above, and the blessing of the earth possessing all things, because of the blessing of the breasts and of the womb,
+
+### Genesis 49:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the blessings of your father and mother prevailed above the blessings of abiding mountains and the blessings of everlasting hills. They will be on Joseph's head and on the crown of the one who led his brothers.
+- brenton: the blessings of thy father and thy mother—it has prevailed above the blessing of the lasting mountains, and beyond the blessings of the everlasting hills; they shall be upon the head of Joseph, and upon the head of the brothers of whom he took the lead.
+
+### Genesis 49:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Benjamin is a ravening wolf. In the morning he will still eat, and toward evening he gives food.
+- brenton: Benjamin, as a ravening wolf, shall eat still in the morning, and at evening he gives food.
+
+### Genesis 49:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All these are the twelve sons of Jacob. And these are the things their father spoke to them, and he blessed them. He blessed each according to his blessing.
+- brenton: All these are the twelve sons of Jacob; and their father spoke these words to them, and he blessed them; he blessed each of them according to his blessing.
+
+### Genesis 49:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, I am being added to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+- brenton: And he said to them, I am added to my people; ye shall bury me with my fathers in the cave, which is in the field of Ephron the Chettite,
+
+### Genesis 49:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: in the double cave opposite Mambre in the land of Canaan, which Abraham acquired from Ephron the Hittite as a possession for a tomb,
+- brenton: in the double cave which is opposite Mambre, in the land of Chanaan, the cave which Abraam bought of Ephron the Chettite, for a possession of a sepulchre.
+
+### Genesis 49:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: there they buried Abraham and Sarah his wife, there they buried Isaac and Rebecca his wife, there I buried Leah,
+- brenton: There they buried Abraam and Sarrha his wife; there they buried Isaac, and Rebecca his wife; there they buried Lea;
+
+### Genesis 49:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: in the purchase of the field and of the cave that is in it, from the sons of Heth.
+- brenton: in the portion of the field, and of the cave that was in it, purchased of the sons of Chet.
+
+### Genesis 49:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jacob ceased commanding his sons, and lifting his feet onto the bed, he failed and was added to his people.
+- brenton: And Jacob ceased giving charges to his sons; and having lifted up his feet on the bed, he died, and was gathered to his people.
+
+### Genesis 50:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph, falling on his father's face, wept over him and kissed him.
+- brenton: And Joseph fell upon his father's face, and wept on him, and kissed him.
+
+### Genesis 50:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Joseph commanded his servants the embalmers to embalm his father, and the embalmers embalmed Israel.
+- brenton: And Joseph commanded his servants the embalmers to embalm his father; and the embalmers embalmed Israel.
+
+### Genesis 50:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they completed forty days for him, for so the days of embalming are counted. And Egypt mourned for him seventy days.
+- brenton: And they fulfilled forty days for him, for so are the days of embalming numbered; and Egypt mourned for him seventy days.
+
+### Genesis 50:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the days of mourning passed, Joseph spoke to Pharaoh's nobles, saying, If I have found favor before you, speak concerning me into Pharaoh's ears, saying,
+- brenton: And when the days of mourning were past, Joseph spoke to the princes of Pharao, saying, If I have found favour in your sight, speak concerning me in the ears of Pharao, saying,
+
+### Genesis 50:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: My father adjured me, saying, In the tomb that I dug for myself in the land of Canaan, there you will bury me. Now then I will go up and bury my father, and I will return again.
+- brenton: My father adjured me, saying, In the sepulchre which I dug for myself in the land of Chanaan, there thou shalt bury me; now then I will go up and bury my father, and return again.
+
+### Genesis 50:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Pharaoh said to Joseph, Go up and bury your father, just as he caused you to swear.
+- brenton: And Pharao said to Joseph, Go up, bury thy father, as he constrained thee to swear.
+
+### Genesis 50:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph went up to bury his father, and all Pharaoh's servants went up with him, and the elders of his house, and all the elders of the land of Egypt,
+- brenton: So Joseph went up to bury his father; and all the servants of Pharao went up with him, and the elders of his house, and all the elders of the land of Egypt.
+
+### Genesis 50:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the household of Joseph, and his brothers, and all his father's house, and his kin. But they left behind the sheep and the oxen in the land of Gesem.
+- brenton: And all the household of Joseph, and his brethren, and all the house of his father, and his kindred; and they left behind the sheep and the oxen in the land of Gesem.
+
+### Genesis 50:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And chariots and horsemen also went up with him, and the company became very great.
+- brenton: And there went up with him also chariots and horsemen; and there was a very great company.
+
+### Genesis 50:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came to the threshing-floor of Atad, which is beyond the Jordan, and they bewailed him with a great and very strong lamentation. And he made mourning for his father seven days.
+- brenton: And they came to the threshing-floor of Atad, which is beyond Jordan; and they bewailed him with a great and very sore lamentation; and he made a mourning for his father seven days.
+
+### Genesis 50:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the inhabitants of the land of Canaan saw the mourning at the threshing-floor of Atad and said, This is a great mourning for the Egyptians. Because of this he called its name Mourning of Egypt, which is beyond the Jordan.
+- brenton: And the inhabitants of the land of Chanaan saw the mourning at the floor of Atad, and said, This is a great mourning to the Egyptians; therefore he called its name, The mourning of Egypt, which is beyond Jordan.
+
+### Genesis 50:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his sons did so for him.
+- brenton: And thus his sons did to him.
+
+### Genesis 50:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And his sons carried him up into the land of Canaan and buried him in the double cave, which Abraham acquired as a possession for a tomb from Ephrom the Hittite, before Mambre.
+- brenton: So his sons carried him up into the land of Chanaan, and buried him in the double cave, which cave Abraam bought for possession of a burying place, of Ephrom the Chettite, before Mambre.
+
+### Genesis 50:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph returned to Egypt, he and his brothers and those who went up with him to bury his father.
+- brenton: And Joseph returned to Egypt, he and his brethren, and those that had gone up with him to bury his father.
+
+### Genesis 50:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph's brothers, seeing that their father had died, said, Perhaps Joseph will remember evil against us and repay us with repayment for all the evils that we showed against him.
+- brenton: And when the brethren of Joseph saw that their father was dead, they said, Let us take heed, lest at any time Joseph remember evil against us, and recompense to us all the evils which we have done against him.
+
+### Genesis 50:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And coming to Joseph they said, Your father adjured before his death, saying,
+- brenton: And they came to Joseph, and said, Thy father adjured us before his death, saying,
+
+### Genesis 50:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Thus you will say to Joseph, Forgive them their injustice and their sin, because they showed evil to you. And now accept the injustice of the servants of the God of your father. And Joseph wept while they spoke to him.
+- brenton: Thus say ye to Joseph, Forgive them their injustice and their sin, forasmuch as they have done thee evil; and now pardon the injustice of the servants of the God of thy father. And Joseph wept while they spoke to him.
+
+### Genesis 50:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came to him and said, Here we are, your suppliants.
+- brenton: And they came to him and said, We, these persons, are thy servants.
+
+### Genesis 50:19
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph said to them, Do not fear, for I am God's.
+- brenton: And Joseph said to them, Fear not, for I am God's.
+
+### Genesis 50:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: You planned against me for evil, but God planned concerning me for good, so that it might happen as today and much people might be fed.
+- brenton: Ye took counsel against me for evil, but God took counsel for me for good, that the matter might be as it is to-day, and much people might be fed.
+
+### Genesis 50:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Do not fear. I will nourish you and your households. And he comforted them and spoke to their heart.
+- brenton: And he said to them, Fear not, I will maintain you, and your families: and he comforted them, and spoke kindly to them.
+
+### Genesis 50:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph dwelt in Egypt, he and his brothers and all the household of his father, and Joseph lived one hundred ten years.
+- brenton: And Joseph dwelt in Egypt, he and his brethren, and all the family of his father; and Joseph lived a hundred and ten years.
+
+### Genesis 50:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph saw Ephraim's children to the third generation, and the sons of Machir son of Manasseh were born upon Joseph's thighs.
+- brenton: And Joseph saw the children of Ephraim to the third generation; and the sons of Machir the son of Manasse were borne on the sides of Joseph.
+
+### Genesis 50:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Joseph said to his brothers, saying, I am dying. But with visitation God will visit you and bring you up out of this land to the land that God swore to our fathers Abraham, Isaac and Jacob.
+- brenton: And Joseph spoke to his brethren, saying, I die, and God will surely visit you, and will bring you out of this land to the land concerning which God sware to our fathers, Abraam, Isaac, and Jacob.
+
+### Genesis 50:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph adjured the sons of Israel, saying, In the visitation with which God will visit you, then you will carry up my bones from here with you.
+- brenton: And Joseph adjured the sons of Israel, saying, At the visitation with which God shall visit you, then ye shall carry up my bones hence with you.
+
+### Genesis 50:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joseph died, being one hundred ten years old, and they prepared him and put him in the coffin in Egypt.
+- brenton: And Joseph died, aged an hundred and ten years; and they prepared his corpse, and put him in a coffin in Egypt.
 
 ## Exodus
 
@@ -18943,3 +31282,4172 @@ Note:
 - same_normalized: no
 - fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
 - brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
+
+### Leviticus 26:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Do not make for yourselves idols made by hand, nor carved images, nor set up a pillar for yourselves, nor place a watching stone in your land to bow down to it, because I am the Lord your God.
+- brenton: I am the Lord your God: ye shall not make to yourselves gods made with hands, or graven; neither shall ye rear up a pillar for yourselves, neither shall ye set up a stone for an object in your land to worship it: I am the Lord your God.
+
+### Leviticus 26:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Keep my Sabbaths, and stand in awe before my holy things. I am the Lord.
+- brenton: Ye shall keep my sabbaths, and reverence my sanctuaries: I am the Lord.
+
+### Leviticus 26:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If you walk in my ordinances and keep my commands and do them,
+- brenton: If ye will walk in my ordinances, and keep my commandments, and do them,
+
+### Leviticus 26:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then I will give you rain in its season, and the land will give its produce, and the trees of the plains will yield their fruit.
+- brenton: then will I give you the rain in its season, and the land shall produce its fruits, and the trees of the field shall yield their fruit.
+
+### Leviticus 26:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And threshing will overtake vintage for you, and vintage will overtake sowing, and you will eat your bread to fullness and dwell in safety on your land.
+- brenton: And your threshing time shall overtake the vintage, and your vintage shall overtake your seed time; and ye shall eat your bread to the full; and ye shall dwell safely upon your land, and war shall not go through your land.
+
+### Leviticus 26:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And war will not pass through your land, and I will give peace in your land, and you will sleep, and there will be none to frighten you, and I will destroy harmful wild beasts from your land.
+- brenton: And I will give peace in your land, and ye shall sleep, and none shall make you afraid; and I will destroy the evil beasts out of your land,
+
+### Leviticus 26:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will pursue your enemies, and they will fall before you by slaughter.
+- brenton: and ye shall pursue your enemies, and they shall fall before you with slaughter.
+
+### Leviticus 26:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And five of you will pursue a hundred, and a hundred of you will pursue myriads, and your enemies will fall before you by sword.
+- brenton: And five of you shall chase a hundred, and a hundred of you shall chase tens of thousands; and your enemies shall fall before you by the sword.
+
+### Leviticus 26:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will look upon you and increase you and multiply you, and I will establish my covenant with you.
+- brenton: And I will look upon you, and increase you, and multiply you, and establish my covenant with you.
+
+### Leviticus 26:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will eat old stores, even very old stores, and you will clear out the old before the new.
+- brenton: And ye shall eat that which is old and very old, and bring forth the old to make way for the new.
+
+### Leviticus 26:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will set my covenant among you, and my soul will not abhor you.
+- brenton: And I will set my tabernacle among you, and my soul shall not abhor you;
+
+### Leviticus 26:12
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will walk among you and will be your God, and you will be my people.
+- brenton: and I will walk among you, and be your God, and ye shall be my people.
+
+### Leviticus 26:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I am the Lord your God, who brought you out of the land of Egypt when you were slaves, and I shattered the bonds of your yoke and led you with boldness.
+- brenton: I am the Lord your God, who brought you out of the land of Egypt, where ye were slaves; and I broke the band of your yoke, and brought you forth openly.
+
+### Leviticus 26:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if you do not listen to me and do not do these ordinances,
+- brenton: But if ye will not hearken to me, nor obey these my ordinances,
+
+### Leviticus 26:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: but disobey them, and your soul loathes my judgments, so that you do not do all my commands, so as to break my covenant,
+- brenton: but disobey them, and your soul should loathe my judgments, so that ye should not keep all my commands, so as to break my covenant,
+
+### Leviticus 26:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then I also will do this to you: I will bring upon you distress, scab, and jaundice, wasting your eyes and consuming your life, and you will sow your seed for nothing, and your adversaries will eat it.
+- brenton: then will I do thus to you: I will even bring upon you perplexity and the itch, and the fever that causes your eyes to waste away, and disease that consumes your life; and ye shall sow your seeds in vain, and your enemies shall eat them.
+
+### Leviticus 26:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will set my face against you, and you will fall before your enemies, and those who hate you will pursue you, and you will flee though none pursues you.
+- brenton: And I will set my face against you, and ye shall fall before your enemies, and they that hate you shall pursue you; and ye shall flee, no one pursuing you.
+
+### Leviticus 26:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if even after this you do not listen to me, I will continue to discipline you sevenfold for your sins.
+- brenton: And if ye still refuse to hearken to me, then will I chasten you yet more even seven times for your sins.
+
+### Leviticus 26:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will shatter the arrogance of your pride, and I will make your sky iron and your land like bronze.
+- brenton: And I will break down the haughtiness of your pride; and I will make your heaven iron, and your earth as it were brass.
+
+### Leviticus 26:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your strength will be spent in vain, and your land will not give its seed, and the tree of your field will not give its fruit.
+- brenton: And your strength shall be in vain; and your land shall not yield its seed, and the tree of your field shall not yield its fruit.
+
+### Leviticus 26:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if after this you go at odds with me and are unwilling to listen to me, I will add blows to you sevenfold according to your sins.
+- brenton: And if after this ye should walk perversely, and not be willing to obey me, I will further bring upon you seven plagues according to your sins.
+
+### Leviticus 26:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will send against you the wild beasts of the land, and they will devour you and destroy your cattle and make you few, and your roads will be desolate.
+- brenton: And I will send upon you the wild beasts of the land, and they shall devour you, and shall consume your cattle: and I will make you few in number, and your ways shall be desolate.
+
+### Leviticus 26:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if by these things you are not disciplined, but go at odds with me,
+- brenton: And if hereupon ye are not corrected, but walk perversely towards me,
+
+### Leviticus 26:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then I also will go with you in anger at odds, and I myself will strike you sevenfold for your sins.
+- brenton: I also will walk with you with a perverse spirit, and I also will smite you seven times for your sins.
+
+### Leviticus 26:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will bring upon you a sword avenging covenant justice, and you will flee into your cities, and I will send death among you, and you will be handed over into enemies' hands.
+- brenton: And I will bring upon you a sword avenging the cause of my covenant, and ye shall flee for refuge to your cities; and I will send out death against you, and ye shall be delivered into the hands of your enemies.
+
+### Leviticus 26:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: When I afflict you with scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
+- brenton: When I afflict you with famine of bread, then ten women shall bake your loaves in one oven, and they shall render your loaves by weight; and ye shall eat, and not be satisfied.
+
+### Leviticus 26:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if after these things you do not listen to me and go with me at odds,
+- brenton: And if hereupon ye will not obey me, but walk perversely towards me,
+
+### Leviticus 26:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then I myself will go with you in wrath at odds and discipline you sevenfold according to your sins.
+- brenton: then will I walk with you with a froward mind, and I will chasten you sevenfold according to your sins.
+
+### Leviticus 26:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will eat the flesh of your sons, and you will eat the flesh of your daughters.
+- brenton: And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.
+
+### Leviticus 26:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will lay waste your pillars and destroy your wooden idols, and I will place your carcasses upon the carcasses of your idols, and my soul will loathe you.
+- brenton: And I will render your pillars desolate, and will utterly destroy your wooden images made with hands; and I will lay your carcases on the carcases of your idols, and my soul shall loathe you.
+
+### Leviticus 26:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will make your cities desolate and lay waste your holy places, and I will not smell the fragrance of your sacrifices.
+- brenton: And I will lay your cities waste, and I will make your sanctuaries desolate, and I will not smell the savour of your sacrifices.
+
+### Leviticus 26:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I myself will lay waste the land, and your enemies who dwell in it will wonder at it.
+- brenton: And I will lay your land desolate, and your enemies who dwell in it shall wonder at it.
+
+### Leviticus 26:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will scatter you among the nations, and the sword coming after you will consume you, and your land will be desolate and your cities desolate.
+- brenton: And I will scatter you among the nations, and the sword shall come upon you and consume you; and your land shall be desolate, and your cities shall be desolate.
+
+### Leviticus 26:34
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Then the land will welcome its Sabbaths all the days of its desolation, while you are in the land of your enemies; then the land will keep Sabbath and welcome its Sabbaths.
+- brenton: Then the land shall enjoy its sabbaths all the days of its desolation.
+
+### Leviticus 26:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days of its desolation it will keep Sabbath, what it did not keep Sabbath in your Sabbaths when you were dwelling on it.
+- brenton: And ye shall be in the land of your enemies; then the land shall keep its sabbaths, and the land shall enjoy its sabbaths all the days of its desolation: it shall keep sabbaths which it kept not among your sabbaths, when ye dwelt in it.
+
+### Leviticus 26:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to those left of you I will bring fear into their heart in the land of their enemies, and the sound of a driven leaf will pursue them, and they will flee as fleeing from war and will fall with none pursuing.
+- brenton: And to those who are left of you I will bring bondage into their heart in the land of their enemies; and the sound of a shaken leaf shall chase them, and they shall flee as fleeing from war, and shall fall when none pursues them.
+
+### Leviticus 26:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And brother will disregard brother, as in war, though none chases, and you will not be able to stand against your enemies.
+- brenton: And brother shall disregard brother as in war, when none pursues; and ye shall not be able to withstand your enemies.
+
+### Leviticus 26:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will perish among the nations, and the land of your enemies will devour you.
+- brenton: And ye shall perish among the Gentiles, and the land of your enemies shall devour you.
+
+### Leviticus 26:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those left of you will waste away for their sins in the land of their enemies; they also will melt away for the sins of their fathers.
+- brenton: And those who are left of you shall perish, because of their sins, and because of the sins of their fathers: in the land of their enemies shall they consume away.
+
+### Leviticus 26:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they will confess their sins and the sins of their fathers, that they transgressed and overlooked me and went at odds with me.
+- brenton: And they shall confess their sins, and the sins of their fathers, that they have transgressed and neglected me, and that they have walked perversely before me,
+
+### Leviticus 26:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I also went with them in anger at odds and destroyed them in the land of their enemies. Then their uncircumcised heart will be ashamed, and then they will accept their sins.
+- brenton: and I walked with them with a perverse mind; and I will destroy them in the land of their enemies: then shall their uncircumcised heart be ashamed, and then shall they acquiesce in the punishment of their sins.
+
+### Leviticus 26:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will remember the covenant of Jacob, and the covenant of Isaac, and the covenant of Abraham I will remember, and I will remember the land.
+- brenton: And I will remember the covenant of Jacob, and the covenant of Isaac, and the covenant of Abraam will I remember.
+
+### Leviticus 26:43
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the land will be left by them; then it will welcome its Sabbaths while made desolate because of them, and they will accept their lawless deeds, because they overlooked my judgments and their soul loathed my ordinances.
+- brenton: And I will remember the land, and the land shall be left of them; then the land shall enjoy her sabbaths, when it is deserted through them: and they shall accept the punishment of their iniquities, because they neglected my judgments, and in their soul loathed my ordinances.
+
+### Leviticus 26:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Yet not even while they are in the land of their enemies have I overlooked them or loathed them so as to destroy them, so as to break my covenant with them, because I am the Lord their God.
+- brenton: And yet not even thus, while they were in the land of their enemies, did I overlook them, nor did I loathe them so as to consume them, to break my covenant made with them; for I am the Lord their God.
+
+### Leviticus 26:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I will remember for them the earlier covenant, when I brought them out of the land of Egypt, out of a house of slavery, before the nations, to be their God. I am the Lord.
+- brenton: And I will remember their former covenant, when I brought them out of the land of Egypt, out of the house of bondage before the nations, to be their God; I am the Lord.
+
+### Leviticus 26:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the judgments and the ordinances and the law that the Lord gave between himself and the sons of Israel on Mount Sinai by Moses' hand.
+- brenton: These are my judgments and my ordinances, and the law which the Lord gave between himself and the children of Israel, in the mount Sina, by the hand of Moses.
+
+### Leviticus 27:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Leviticus 27:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them: Whoever vows a vow, setting the valuation of his life to the Lord,
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whosoever shall vow a vow as the valuation of his soul for the Lord,
+
+### Leviticus 27:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the valuation of the male from twenty years old to sixty years old shall be fifty silver didrachms by the holy standard.
+- brenton: the valuation of a male from twenty years old to sixty years old shall be—his valuation shall be fifty didrachms of silver by the standard of the sanctuary.
+
+### Leviticus 27:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the valuation of the female shall be thirty didrachms.
+- brenton: And the valuation of a female shall be thirty didrachms.
+
+### Leviticus 27:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if from five years old to twenty years old, the valuation of the male shall be twenty didrachms, and of the female ten didrachms.
+- brenton: And if it be from five years old to twenty, the valuation of a male shall be twenty didrachms, and of a female ten didrachms.
+
+### Leviticus 27:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from a month old to five years old, the valuation of the male shall be five silver didrachms, and of the female three didrachms.
+- brenton: And from a month old to five years old, the valuation of a male shall be five didrachms, and of a female, three didrachms of silver.
+
+### Leviticus 27:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if from sixty years old and upward, if male, the valuation shall be fifteen silver didrachms, and if female, ten didrachms.
+- brenton: And if from sixty years old and upward, if it be a male, his valuation shall be fifteen didrachms of silver, and if a female, ten didrachms.
+
+### Leviticus 27:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he is too poor for the valuation, he shall stand before the priest, and the priest shall value him; according as the hand of the one who vowed is able, the priest shall value him.
+- brenton: And if the man be too poor for the valuation, he shall stand before the priest; and the priest shall value him: according to what the man who has vowed can afford, the priest shall value him.
+
+### Leviticus 27:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if it is from the cattle that people bring from them as a gift to the Lord, whatever someone gives from these to the Lord shall be holy.
+- brenton: And if it be from the cattle that are offered as a gift to the Lord, whoever shall offer one of these to the Lord, it shall be holy.
+
+### Leviticus 27:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall not exchange it, good for bad or bad for good. But if in exchanging he does exchange animal for animal, both it and its exchange shall be holy.
+- brenton: He shall not change it, a good for a bad, or a bad for a good; and if he do at all change it, a beast for a beast, it and the substitute shall be holy.
+
+### Leviticus 27:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if it is any unclean animal, from which they do not bring a gift to the Lord, he shall set the animal before the priest.
+- brenton: And if it be any unclean beast, of which none are offered as a gift to the Lord, he shall set the beast before the priest.
+
+### Leviticus 27:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall value it between good and bad, and as the priest values it, so it shall stand.
+- brenton: And the priest shall make a valuation between the good and the bad, and accordingly as the priest shall value it, so shall it stand.
+
+### Leviticus 27:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if in redeeming he redeems it, he shall add the fifth part to its valuation.
+- brenton: And if the worshipper will at all redeem it, he shall add the fifth part to its value.
+
+### Leviticus 27:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a person sanctifies his house as holy to the Lord, the priest shall value it between good and bad; as the priest values it, so it shall stand.
+- brenton: And whatsoever man shall consecrate his house as holy to the Lord, the priest shall make a valuation of it between the good and the bad: as the priest shall value it, so shall it stand.
+
+### Leviticus 27:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the one who sanctified it redeems his house, he shall add to it the fifth part of the silver of its valuation, and it shall be his.
+- brenton: And if he that has sanctified it should redeem his house, he shall add to it the fifth part of the money of the valuation, and it shall be his.
+
+### Leviticus 27:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a person sanctifies to the Lord part of the field of his possession, its valuation shall be according to its seed: a homer of barley seed, fifty silver didrachms.
+- brenton: And if a man should hallow to the Lord a part of the field of his possession, then the valuation shall be according to its seed, fifty didrachms of silver for a homer of barley.
+
+### Leviticus 27:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he sanctifies his field from the year of release, it shall stand according to its valuation.
+- brenton: And if he should sanctify his field from the year of release, it shall stand according to his valuation.
+
+### Leviticus 27:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he sanctifies his field later, after the release, the priest shall reckon the silver for him according to the years remaining until the year of release, and it shall be deducted from its valuation.
+- brenton: And if he should sanctify his field in the latter time after the release, the priest shall reckon to him the money for the remaining years, until the next year of release, and it shall be deducted as an equivalent from his full valuation.
+
+### Leviticus 27:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the one who sanctified it redeems the field, he shall add the fifth part of the silver to its valuation, and it shall be his.
+- brenton: And if he that sanctified the field would redeem it, he shall add to its value the fifth part of the money, and it shall be his.
+
+### Leviticus 27:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he does not redeem the field, and the field is sold to another person, he may no longer redeem it.
+- brenton: And if he do not redeem the field, but should sell the field to another man, he shall not after redeem it.
+
+### Leviticus 27:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But when the field goes out in the release, it shall be holy to the Lord, like land set apart. It shall belong to the priest as a possession.
+- brenton: But the field shall be holy to the Lord after the release, as separated land; the priest shall have possession of it.
+
+### Leviticus 27:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he sanctifies to the Lord part of a field he bought, which is not from the field of his possession,
+- brenton: And if he should consecrate to the Lord of a field which he has bought, which is not of the field of his possession,
+
+### Leviticus 27:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the priest shall reckon for him the full amount of the valuation until the year of release, and he shall give the valuation on that day, holy to the Lord.
+- brenton: the priest shall reckon to him the full valuation from the year of release, and he shall pay the valuation in that day as holy to the Lord.
+
+### Leviticus 27:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the year of release the field shall be returned to the person from whom he bought it, to the one whose possession the land was.
+- brenton: And in the year of release the land shall be restored to the man of whom the other bought it, whose the possession of the land was.
+
+### Leviticus 27:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every valuation shall be by holy weights; twenty obols shall be the didrachm.
+- brenton: And every valuation shall be by holy weights: the didrachm shall be twenty oboli.
+
+### Leviticus 27:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But every firstborn that is born among your cattle shall belong to the Lord, and no one shall sanctify it, whether calf or sheep; it belongs to the Lord.
+- brenton: And every first-born which shall be produced among thy cattle shall be the Lord's, and no man shall sanctify it: whether calf or sheep, it is the Lord's.
+
+### Leviticus 27:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if it is from the unclean four-footed animals, he shall redeem it according to its valuation and add the fifth part to it, and it shall be his. But if it is not redeemed, it shall be sold according to its valuation.
+- brenton: But if he should redeem an unclean beast, according to its valuation, then he shall add the fifth part to it, and it shall be his; and if he redeem it not, it shall be sold according to its valuation.
+
+### Leviticus 27:28
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
+- brenton: And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
+
+### Leviticus 27:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every devoted thing that is devoted from humans shall not be redeemed, but shall surely be put to death.
+- brenton: And whatever shall be dedicated of men, shall not be ransomed, but shall be surely put to death.
+
+### Leviticus 27:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every tithe of the land, from the seed of the land and from the fruit of the trees, belongs to the Lord; it is holy to the Lord.
+- brenton: Every tithe of the land, both of the seed of the land, and of the fruit of trees, is the Lord's, holy to the Lord.
+
+### Leviticus 27:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a person redeems his tithe in redeeming, he shall add the fifth part to it, and it shall be his.
+- brenton: And if a man should at all redeem his tithe, he shall add the fifth part to it, and it shall be his.
+
+### Leviticus 27:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every tithe of cattle and sheep, everything that passes under the rod, the tenth shall be holy to the Lord.
+- brenton: And every tithe of oxen, and of sheep, and whatsoever may come in numbering under the rod, the tenth shall be holy to the Lord.
+
+### Leviticus 27:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed.
+- brenton: Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.
+
+### Leviticus 27:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the commands that the Lord commanded Moses for the sons of Israel on Mount Sinai.
+- brenton: These are the commandments which the Lord commanded Moses for the sons of Israel in mount Sina.
+
+## Numbers
+
+### Numbers 1:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses in the wilderness of Sinai, in the tent of testimony, on the first day of the second month, in the second year after they came out of the land of Egypt, saying,
+- brenton: And the Lord spoke to Moses in the wilderness of Sina, in the tabernacle of witness, on the first day of the second month, in the second year of their departure from the land of Egypt, saying,
+
+### Numbers 1:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Take the headcount of the whole congregation of the sons of Israel by their families, by the houses of their fathers, by the number of their names, by their heads, every male,
+- brenton: Take the sum of all the congregation of Israel according to their kindreds, according to the houses of their fathers' families, according to their number by their names, according to their heads: every male
+
+### Numbers 1:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: from twenty years old and upward, every one going out in force in Israel. You and Aaron shall count them with their strength.
+- brenton: from twenty years old and upwards, every one that goes forth in the forces of Israel, take account of them with their strength; thou and Aaron take account of them.
+
+### Numbers 1:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And with you there shall be one man from each tribe; they shall be chiefs by the houses of their fathers.
+- brenton: And with you there shall be each one of the rulers according to the tribe of each: they shall be according to the houses of their families.
+
+### Numbers 1:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of the men who shall stand with you: from Reuben, Elizur son of Shedeur;
+- brenton: And these are the names of the men who shall be present with you; of the tribe of Ruben, Elisur the son of Sediur.
+
+### Numbers 1:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Simeon, Shelumiel son of Zurishaddai;
+- brenton: Of Symeon, Salamiel the son of Surisadai.
+
+### Numbers 1:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Judah, Nahshon son of Amminadab;
+- brenton: Of Juda, Naasson the son of Aminadab.
+
+### Numbers 1:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Issachar, Nethanel son of Zuar;
+- brenton: Of Issachar, Nathanael the son of Sogar.
+
+### Numbers 1:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Zebulun, Eliab son of Helon;
+- brenton: Of Zabulon, Eliab the son of Chælon.
+
+### Numbers 1:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;
+- brenton: Of the sons of Joseph, of Ephraim, Elisama the son of Emiud: of Manasses, Gamaliel the son of Phadasur.
+
+### Numbers 1:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Benjamin, Abidan son of Gideoni;
+- brenton: Of Benjamin, Abidan the son of Gadeoni.
+
+### Numbers 1:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Dan, Ahiezer son of Ammishaddai;
+- brenton: Of Dan, Achiezer the son of Amisadai.
+
+### Numbers 1:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Asher, Pagiel son of Ocran;
+- brenton: Of Aser, Phagaiel the son of Echran.
+
+### Numbers 1:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Gad, Eliasaph son of Reuel;
+- brenton: Of Gad, Elisaph the son of Raguel.
+
+### Numbers 1:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from Naphtali, Ahira son of Enan.
+- brenton: Of Nephthali, Achire the son of Ænan.
+
+### Numbers 1:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: These were the called ones of the congregation, chiefs of the tribes of their fathers, commanders of thousands in Israel.
+- brenton: These were famous men of the congregation, heads of the tribes according to their families: these are heads of thousands in Israel.
+
+### Numbers 1:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron took these men, the ones called by name,
+- brenton: And Moses and Aaron took these men who were called by name.
+
+### Numbers 1:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they assembled the whole congregation on the first day of the second month in the second year, and they enrolled themselves by their generations, by their fathers, by the number of their names, from twenty years old and upward, every male by their heads.
+- brenton: And they assembled all the congregation on the first day of the month in the second year; and they registered them after their lineage, after their families, after the number of their names, from twenty years old and upwards, every male according to their number:
+
+### Numbers 1:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As the Lord commanded Moses, so they were counted in the wilderness of Sinai.
+- brenton: as the Lord commanded Moses, so they were numbered in the wilderness of Sina.
+
+### Numbers 1:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben, Israel's firstborn, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: And the sons of Ruben the first-born of Israel according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their heads, were—all males from twenty years old and upward, every one that went out with the host—
+
+### Numbers 1:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Reuben: forty-six thousand five hundred.
+- brenton: the numbering of them of the tribe of Ruben, was forty-six thousand and four hundred.
+
+### Numbers 1:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Simeon, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the children of Symeon according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,
+
+### Numbers 1:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Simeon: fifty-nine thousand three hundred.
+- brenton: the numbering of them of the tribe of Symeon, was fifty-nine thousand and three hundred.
+
+### Numbers 1:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Judah, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Juda according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Judah: seventy-four thousand six hundred.
+- brenton: the numbering of them of the tribe of Juda, was seventy-four thousand and six hundred.
+
+### Numbers 1:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Issachar, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Issachar according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Issachar: fifty-four thousand four hundred.
+- brenton: the numbering of them of the tribe of Issachar, was fifty-four thousand and four hundred.
+
+### Numbers 1:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Zebulun, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Zabulon according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,
+
+### Numbers 1:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Zebulun: fifty-seven thousand four hundred.
+- brenton: the numbering of them of the tribe of Zabulon, was fifty-seven thousand and four hundred.
+
+### Numbers 1:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Joseph, the sons of Ephraim, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Joseph, the sons of Ephraim, according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,
+
+### Numbers 1:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Ephraim: forty thousand five hundred.
+- brenton: the numbering of them of the tribe of Ephraim, was forty thousand and five hundred.
+
+### Numbers 1:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Manasseh, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Manasse according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,
+
+### Numbers 1:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Manasseh: thirty-two thousand two hundred.
+- brenton: the numbering of them of the tribe of Manasse, was thirty-two thousand and two hundred.
+
+### Numbers 1:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Benjamin, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Benjamin according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Benjamin: thirty-five thousand four hundred.
+- brenton: the numbering of them of the tribe of Benjamin, was thirty-five thousand and four hundred.
+
+### Numbers 1:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Gad, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Gad according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Gad: forty-five thousand six hundred fifty.
+- brenton: the numbering of them of the tribe of Gad, was forty and five thousand and six hundred and fifty.
+
+### Numbers 1:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Dan, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Dan according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Dan: sixty-two thousand seven hundred.
+- brenton: the numbering of them of the tribe of Dan, was sixty and two thousand and seven hundred.
+
+### Numbers 1:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Asher, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Aser according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one that goes forth with the host,
+
+### Numbers 1:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Asher: forty-one thousand five hundred.
+- brenton: the numbering of them of the tribe of Aser, was forty and one thousand and five hundred.
+
+### Numbers 1:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: As for the sons of Naphtali, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
+- brenton: For the sons of Nephthali according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one who goes forth with the host,
+
+### Numbers 1:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those counted from the tribe of Naphtali: fifty-three thousand four hundred.
+- brenton: the numbering of them of the tribe of Nephthali, was fifty-three thousand and four hundred.
+
+### Numbers 1:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This was the counting that Moses and Aaron and the chiefs of Israel counted, twelve men; one man for each tribe, by the tribe of his fathers' houses.
+- brenton: This is the numbering which Moses and Aaron and the rulers of Israel, being twelve men, conducted: there was a man for each tribe, they were according to the tribe of the houses of their family.
+
+### Numbers 1:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the whole counting of the sons of Israel, with their strength, from twenty years old and upward, every one going out to line up for battle in Israel,
+- brenton: And the whole numbering of the children of Israel with their host from twenty years old and upward, every one that goes out to set himself in battle array in Israel, came to
+
+### Numbers 1:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: was six hundred three thousand five hundred fifty.
+- brenton: six hundred thousand and three thousand and five hundred and fifty.
+
+### Numbers 1:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the Levites by the tribe of their fathers were not counted among the sons of Israel.
+- brenton: But the Levites of the tribe of their family were not counted among the children of Israel.
+
+### Numbers 1:48
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 1:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: See to the tribe of Levi; you shall not count them, and you shall not take their number among the sons of Israel.
+- brenton: See, thou shalt not muster the tribe of Levi, and thou shalt not take their numbers, in the midst of the children of Israel.
+
+### Numbers 1:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But you shall appoint the Levites over the tent of testimony and over all its furnishings and over everything in it. They shall carry the tent and all its furnishings, and they shall minister in it, and they shall camp around the tent.
+- brenton: And do thou set the Levites over the tabernacle of witness, and over all its furniture, and over all things that are in it; and they shall do service in it, and they shall encamp round about the tabernacle.
+
+### Numbers 1:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the tent is taken down, the Levites shall take it down, and when the tent camps, the Levites shall set it up. And the stranger who comes near shall die.
+- brenton: And in removing the tabernacle, the Levites shall take it down, and in pitching the tabernacle they shall set it up: and let the stranger that advances to touch it die.
+
+### Numbers 1:52
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel shall camp, each in his own order and each by his own command, with their strength.
+- brenton: And the children of Israel shall encamp, every man in his own order, and every man according to his company, with their host.
+
+### Numbers 1:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the Levites shall camp before the Lord around the tent of testimony, and there shall not be offense among the sons of Israel. And the Levites themselves shall keep the charge of the tent of testimony.
+- brenton: But let the Levites encamp round about the tabernacle of witness fronting it, and so there shall be no sin among the children of Israel; and the Levites themselves shall keep the guard of the tabernacle of witness.
+
+### Numbers 1:54
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel did according to all that the Lord commanded Moses and Aaron; so they did.
+- brenton: And the children of Israel did according to all that the Lord commanded Moses and Aaron, so did they.
+
+### Numbers 2:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 2:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: The sons of Israel shall camp, each close by his own order, by standards, by the houses of their fathers. Opposite, around the tent of testimony, the sons of Israel shall camp.
+- brenton: Let the children of Israel encamp fronting each other, every man keeping his own rank, according to their standards, according to the houses of their families; the children of Israel shall encamp round about the tabernacle of witness.
+
+### Numbers 2:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping first on the east shall be the order of the camp of Judah, with their strength. And the chief of the sons of Judah shall be Nahshon son of Amminadab.
+- brenton: And they that encamp first toward the east shall be the order of the camp of Juda with their host, and the prince of the sons of Juda, Naasson the son of Aminadab.
+
+### Numbers 2:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was seventy-four thousand six hundred.
+- brenton: His forces that were numbered, were seventy-four thousand and six hundred.
+
+### Numbers 2:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next to them shall be the tribe of Issachar. And the chief of the sons of Issachar shall be Nethanel son of Zuar.
+- brenton: And they that encamp next shall be of the tribe of Issachar, and the prince of the sons of Issachar shall be Nathanael the son of Sogar.
+
+### Numbers 2:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was fifty-four thousand four hundred.
+- brenton: His forces that were numbered, were fifty-four thousand and four hundred.
+
+### Numbers 2:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next shall be the tribe of Zebulun. And the chief of the sons of Zebulun shall be Eliab son of Helon.
+- brenton: And they that encamp next shall be of the tribe of Zabulon, and the prince of the sons of Zabulon shall be Eliab the son of Chælon.
+
+### Numbers 2:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was fifty-seven thousand four hundred.
+- brenton: His forces that were numbered, were fifty-seven thousand and four hundred.
+
+### Numbers 2:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All those counted of the camp of Judah were a hundred eighty-six thousand four hundred, with their strength. They shall set out first.
+- brenton: All that were numbered of the camp of Juda were a hundred and eighty thousand and six thousand and four hundred: they shall move first with their forces.
+
+### Numbers 2:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The order of the camp of Reuben shall be to the south, with their strength. And the chief of the sons of Reuben shall be Elizur son of Shedeur.
+- brenton: This is the order of the camp of Ruben; their forces shall be toward the south, and the prince of the children of Ruben shall be Elisur the son of Sediur.
+
+### Numbers 2:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was forty-six thousand five hundred.
+- brenton: His forces that were numbered, were forty-six thousand and five hundred.
+
+### Numbers 2:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next to him shall be the tribe of Simeon. And the chief of the sons of Simeon shall be Shelumiel son of Zurishaddai.
+- brenton: And they that encamp next to him shall be of the tribe of Symeon, and the prince of the sons of Symeon shall be Salamiel the son of Surisadai.
+
+### Numbers 2:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was fifty-nine thousand three hundred.
+- brenton: His forces that were numbered, were fifty-nine thousand and three hundred.
+
+### Numbers 2:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next to him shall be the tribe of Gad. And the chief of the sons of Gad shall be Eliasaph son of Reuel.
+- brenton: And they that encamp next to them shall be the tribe of Gad; and the prince of the sons of Gad, Elisaph the son of Raguel.
+
+### Numbers 2:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was forty-five thousand six hundred fifty.
+- brenton: His forces that were numbered, were forty-five thousand and six hundred and fifty.
+
+### Numbers 2:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All those counted of the camp of Reuben were a hundred fifty-one thousand four hundred fifty, with their strength. They shall set out second.
+- brenton: All who were numbered of the camp of Ruben, were a hundred and fifty-one thousand and four hundred and fifty: they with their forces shall proceed in the second place.
+
+### Numbers 2:17
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Then the tent of testimony and the camp of the Levites shall be taken up in the middle of the camps. As they camp, so they shall set out, each one next in order to his command.
+- brenton: And then the tabernacle of witness shall be set forward, and the camp of the Levites shall be between the camps; as they shall encamp, so also shall they commence their march, each one next in order to his fellow according to their companies.
+
+### Numbers 2:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The order of the camp of Ephraim shall be by the sea, with their strength. And the chief of the sons of Ephraim shall be Elishama son of Ammihud.
+- brenton: The station of the camp of Ephraim shall be westward with their forces, and the head of the children of Ephraim shall be Elisama the son of Emiud.
+
+### Numbers 2:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was forty thousand five hundred.
+- brenton: His forces that were numbered, are forty thousand and five hundred.
+
+### Numbers 2:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next shall be the tribe of Manasseh. And the chief of the sons of Manasseh shall be Gamaliel son of Pedahzur.
+- brenton: And they that encamp next shall be of the tribe of Manasse, and the prince of the sons of Manasse, Gamaliel the son of Phadassur.
+
+### Numbers 2:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was thirty-two thousand two hundred.
+- brenton: His forces that were numbered, were thirty-two thousand and two hundred.
+
+### Numbers 2:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next shall be the tribe of Benjamin. And the chief of the sons of Benjamin shall be Abidan son of Gideoni.
+- brenton: And they that encamp next shall be of the tribe of Benjamin, and the prince of the sons of Benjamin, Abidan the son of Gadeoni.
+
+### Numbers 2:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was thirty-five thousand four hundred.
+- brenton: His forces that were numbered, were thirty-five thousand and four hundred.
+
+### Numbers 2:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All those counted of the camp of Ephraim were a hundred eight thousand one hundred, with their strength. They shall set out third.
+- brenton: All that were numbered of the camp of Ephraim, were one hundred and eight thousand and one hundred: they with their forces shall set out third.
+
+### Numbers 2:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The order of the camp of Dan shall be to the north, with their strength. And the chief of the sons of Dan shall be Ahiezer son of Ammishaddai.
+- brenton: The order of the camp of Dan shall be northward with their forces; and the prince of the sons of Dan, Achiezer the son of Amisadai.
+
+### Numbers 2:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was sixty-two thousand seven hundred.
+- brenton: His forces that were numbered, were sixty-two thousand and seven hundred.
+
+### Numbers 2:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next to him shall be the tribe of Asher. And the chief of the sons of Asher shall be Pagiel son of Ocran.
+- brenton: And they that encamp next to him shall be the tribe of Aser; and the prince of the sons of Aser, Phagiel the son of Echran.
+
+### Numbers 2:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was forty-one thousand five hundred.
+- brenton: His forces that were numbered, were forty-one thousand and five hundred.
+
+### Numbers 2:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping next shall be the tribe of Naphtali. And the chief of the sons of Naphtali shall be Ahira son of Enan.
+- brenton: And they that encamp next shall be of the tribe of Nephthali; and the prince of the children of Nephthali, Achire son of Ænan.
+
+### Numbers 2:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His force, the ones counted, was fifty-three thousand four hundred.
+- brenton: His forces that were numbered were fifty-three thousand and four hundred.
+
+### Numbers 2:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All those counted of the camp of Dan were a hundred fifty-seven thousand six hundred. They shall set out last according to their order.
+- brenton: All that were numbered of the camp of Dan, were a hundred and fifty-seven thousand and six hundred: they shall set out last according to their order.
+
+### Numbers 2:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This was the counting of the sons of Israel by the houses of their fathers. The whole counting of the camps, with their strength, was six hundred three thousand five hundred fifty.
+- brenton: This is the numbering of the children of Israel according to the houses of their families: all the numbering of the camps with their forces, was six hundred and three thousand, five hundred and fifty.
+
+### Numbers 2:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the Levites were not counted among them, just as the Lord commanded Moses.
+- brenton: But the Levites were not numbered with them, as the Lord commanded Moses.
+
+### Numbers 2:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel did according to all that the Lord commanded Moses. So they camped by their order, and so they set out, each one next by their clans, by the houses of their fathers.
+- brenton: And the children of Israel did all things that the Lord commanded Moses; thus they encamped in their order, and thus they began their march in succession each according to their divisions, according to the houses of their families.
+
+### Numbers 3:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And these are the generations of Aaron and Moses on the day when the Lord spoke to Moses on Mount Sinai.
+- brenton: And these are the generations of Aaron and Moses, in the day in which the Lord spoke to Moses in mount Sina.
+
+### Numbers 3:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
+- brenton: And these are the names of the sons of Aaron; Nadab the first-born; and Abiud, Eleazar and Ithamar.
+
+### Numbers 3:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the names of the sons of Aaron, the priests, the anointed ones whose hands were consecrated to serve as priests.
+- brenton: These are the names of the sons of Aaron, the anointed priests whom they consecrated to the priesthood.
+
+### Numbers 3:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Nadab and Abihu died before the Lord when they offered strange fire before the Lord in the wilderness of Sinai, and they had no children. And Eleazar and Ithamar served as priests with Aaron their father.
+- brenton: And Nadab and Abiud died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sina; and they had no children; and Eleazar and Ithamar ministered in the priests' office with Aaron their father.
+
+### Numbers 3:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 3:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the tribe of Levi and set them before Aaron the priest, and they shall minister to him.
+- brenton: Take the tribe of Levi, and thou shalt set them before Aaron the priest, and they shall minister to him,
+
+### Numbers 3:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall keep his charges and the charges of the sons of Israel before the tent of testimony, to do the works of the tent.
+- brenton: and shall keep his charges, and the charges of the children of Israel, before the tabernacle of witness, to do the works of the tabernacle.
+
+### Numbers 3:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall keep all the furnishings of the tent of testimony and the charges of the sons of Israel according to all the works of the tent.
+- brenton: And they shall keep all the furniture of the tabernacle of witness, and the charges of the children of Israel as to all the works of the tabernacle.
+
+### Numbers 3:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall give the Levites to Aaron and to his sons the priests. Given as a gift, these are mine from the sons of Israel.
+- brenton: And thou shalt give the Levites to Aaron, and to his sons the priests; they are given for a gift to me of the children of Israel.
+
+### Numbers 3:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall appoint Aaron and his sons over the tent of testimony, and they shall keep their priesthood and all things concerning the altar and inside the veil. And the stranger who touches shall die.
+- brenton: And thou shalt appoint Aaron and his sons over the tabernacle of witness; and they shall keep their charge of priesthood, and all things belonging to the altar, and within the veil; and the stranger that touches them shall die.
+
+### Numbers 3:11
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 3:12
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I, behold, have taken the Levites from the midst of the sons of Israel in place of every firstborn opening a womb among the sons of Israel. They shall be their ransom, and the Levites shall be mine.
+- brenton: Behold, I have taken the Levites from the midst of the children of Israel, instead of every male that opens the womb from among the children of Israel: they shall be their ransom, and the Levites shall be mine.
+
+### Numbers 3:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For every firstborn is mine. On the day I struck every firstborn in the land of Egypt, I sanctified to myself every firstborn in Israel, from human to beast. They shall be mine. I am the Lord.
+- brenton: For every first-born is mine; in the day in which I smote every first-born in the land of Egypt, I sanctified to myself every first-born in Israel: both of man and beast, they shall be mine: I am the Lord.
+
+### Numbers 3:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses in the wilderness of Sinai, saying,
+- brenton: And the Lord spoke to Moses in the wilderness of Sina, saying,
+
+### Numbers 3:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Count the sons of Levi by the houses of their fathers, by their clans, by their families. Every male from a month old and upward you shall count.
+- brenton: Take the number of the sons of Levi, according to the houses of their families, according to their divisions; number ye them every male from a month old and upwards.
+
+### Numbers 3:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron counted them by the word of the Lord, just as the Lord commanded them.
+- brenton: And Moses and Aaron numbered them by the word of the Lord, as the Lord commanded them.
+
+### Numbers 3:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these were the sons of Levi by their names: Gershon, Kohath, and Merari.
+- brenton: And these were the sons of Levi by their names; Gedson, Caath, and Merari.
+
+### Numbers 3:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of the sons of Gershon by their clans: Lobeni and Shimei.
+- brenton: And these are the names of the sons of Gedson according to their families; Lobeni and Semei:
+
+### Numbers 3:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Kohath by their clans: Amram and Issahar, Hebron and Oziel.
+- brenton: and the sons of Caath according to their families; Amram and Issaar, Chebron and Oziel:
+
+### Numbers 3:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Merari by their clans: Mooli and Mushi. These are the clans of the Levites by the houses of their fathers.
+- brenton: and the sons of Merari according to their families, Mooli and Musi; these are the families of the Levites according to the houses of their families.
+
+### Numbers 3:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: To Gershon belonged the clan of Lobeni and the clan of Shimei. These are the clans of Gershon.
+- brenton: To Gedson belongs the family of Lobeni, and the family of Semei: these are the families of Gedson.
+
+### Numbers 3:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Their counting, by the number of every male from a month old and upward, was seven thousand five hundred.
+- brenton: The numbering of them according to the number of every male from a month old and upwards, their numbering was seven thousand and five hundred.
+
+### Numbers 3:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Gershon shall camp behind the tent, by the sea.
+- brenton: And the sons of Gedson shall encamp westward behind the tabernacle.
+
+### Numbers 3:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief of the fathers' house of the clan of Gershon was Elisaph son of Lael.
+- brenton: And the ruler of the household of the family of Gedson was Elisaph the son of Dael.
+
+### Numbers 3:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the charge of the sons of Gershon in the tent of testimony was the tent and the covering and the screen of the door of the tent of testimony,
+- brenton: And the charge of the sons of Gedson in the tabernacle of witness was the tent and the veil, and the covering of the door of the tabernacle of witness,
+
+### Numbers 3:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the curtains of the court and the screen of the gate of the court that is by the tent, and the rest of all its works.
+- brenton: and the curtains of the court, and the veil of the door of the court, which is by the tabernacle, and the remainder of all its works.
+
+### Numbers 3:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: To Kohath belonged the clan of the Amramites and the clan of the Issaharites and the clan of the Hebronites and the clan of the Ozielites. These are the clans of Kohath.
+- brenton: To Caath belonged one division, that of Amram, and another division, that of Issaar, and another division, that of Chebron, and another division, that of Oziel: these are the divisions of Caath, according to number.
+
+### Numbers 3:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By the number of every male from a month old and upward, there were eight thousand six hundred, keeping the charges of the holy things.
+- brenton: Every male from a month old and upward, eight thousand and six hundred, keeping the charges of the holy things.
+
+### Numbers 3:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The clans of the sons of Kohath shall camp at the sides of the tent, toward the south.
+- brenton: The families of the sons of Caath, shall encamp beside the tabernacle toward the south.
+
+### Numbers 3:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief of the fathers' house of the clans of Kohath was Elisaphan son of Oziel.
+- brenton: And the chief of the house of the families of the divisions of Caath, was Elisaphan the son of Oziel.
+
+### Numbers 3:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their charge was the ark and the table and the lampstand and the altars and the vessels of the sanctuary with which they minister and the covering and all their works.
+- brenton: And their charge was the ark, and the table, and the candlestick, and the altars, and all the vessels of the sanctuary wherewith they do holy service, and the veil, and all their works.
+
+### Numbers 3:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief over the chiefs of the Levites was Eleazar the son of Aaron the priest, appointed to keep the charges of the holy things.
+- brenton: And the chief over the chief of the Levites, was Eleazar the son of Aaron the priest, appointed to keep the charges of the holy things.
+
+### Numbers 3:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: To Merari belonged the clan of the Moolites and the clan of the Mushites. These are the clans of Merari.
+- brenton: To Merari belonged the family of Mooli, and the family of Musi: these are the families of Merari.
+
+### Numbers 3:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Their counting, by the number of every male from a month old and upward, was six thousand fifty.
+- brenton: The mustering of them according to number, every male from a month old and upwards, was six thousand and fifty.
+
+### Numbers 3:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chief of the fathers' house of the clan of Merari was Souriel son of Abichail. They shall camp at the sides of the tent, toward the north.
+- brenton: And the head of the house of the families of the division of Merari, was Suriel the son of Abichail: they shall encamp by the side of the tabernacle northwards.
+
+### Numbers 3:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the charge of the sons of Merari was the frames of the tent and its bars and its pillars and its bases and all their furnishings and all their works,
+- brenton: The oversight of the charge of the sons of Merari included the chapiters of the tabernacle, and its bars, and its pillars, and its sockets, and all their furniture, and their works,
+
+### Numbers 3:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the pillars of the court all around and their bases and their pegs and their cords.
+- brenton: and the pillars of the court round about, and their bases, and their pins, and their cords.
+
+### Numbers 3:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those camping before the tent of testimony on the east were Moses and Aaron and his sons, keeping the charges of the sanctuary for the charges of the sons of Israel. And the stranger who touches shall die.
+- brenton: They that encamp before the tabernacle of witness on the east shall be Moses and Aaron and his sons, keeping the charges of the sanctuary according to the charges of the children of Israel; and the stranger that touches them, shall die.
+
+### Numbers 3:39
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: All the counting of the Levites whom Moses and Aaron counted by the word of the Lord, by their clans, every male from a month old and upward, was twenty-two thousand.
+- brenton: All the numbering of the Levites, whom Moses and Aaron numbered by the word of the Lord, according to their families, every male from a month old and upwards, were two and twenty thousand.
+
+### Numbers 3:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying, Count every firstborn male of the sons of Israel from a month old and upward, and take the number by name.
+- brenton: And the Lord spoke to Moses, saying, Count every first-born male of the children of Israel from a month old and upwards, and take the number by name.
+
+### Numbers 3:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take the Levites for me, I am the Lord, in place of all the firstborn of the sons of Israel, and the cattle of the Levites in place of all the firstborn among the cattle of the sons of Israel.
+- brenton: And thou shalt take the Levites for me—I am the Lord—instead of all the first-born of the sons of Israel, and the cattle of the Levites instead of all the first-born among the cattle of the children of Israel.
+
+### Numbers 3:42
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses counted, just as the Lord commanded, every firstborn among the sons of Israel.
+- brenton: And Moses counted, as the Lord commanded him, every first-born among the children of Israel.
+
+### Numbers 3:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the firstborn males by the number of names, from a month old and upward, from their counting, were twenty-two thousand two hundred seventy-three.
+- brenton: And all the male first-born in number by name, from a month old and upwards, were according to their numbering twenty-two thousand and two hundred and seventy-three.
+
+### Numbers 3:44
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 3:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the Levites in place of all the firstborn of the sons of Israel and the cattle of the Levites in place of their cattle, and the Levites shall be mine. I am the Lord.
+- brenton: Take the Levites instead of all the first-born of the sons of Israel, and the cattle of the Levites instead of their cattle, and the Levites shall be mine; I am the Lord.
+
+### Numbers 3:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for the ransom of the two hundred seventy-three who exceed the Levites from the firstborn of the sons of Israel,
+- brenton: And for the ransoms of the two hundred and seventy-three which exceed the Levites in number of the first-born of the sons of Israel;
+
+### Numbers 3:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: you shall take five shekels per head, by the holy didrachm; you shall take twenty obols to the shekel.
+- brenton: thou shalt even take five shekels a head; thou shalt take them according to the holy didrachm, twenty oboli to the shekel.
+
+### Numbers 3:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall give the silver to Aaron and to his sons as the ransom of those exceeding among them.
+- brenton: And thou shalt give the money to Aaron and to his sons, the ransom of those who exceed in number among them.
+
+### Numbers 3:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took the silver of ransom from those who exceeded in redemption beyond the Levites.
+- brenton: And Moses took the silver, the ransom of those that exceeded in number the redemption of the Levites.
+
+### Numbers 3:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the firstborn of the sons of Israel he took the silver: one thousand three hundred sixty-five shekels by the holy shekel.
+- brenton: He took the silver from the first-born of the sons of Israel, a thousand three hundred and sixty-five shekels, according to the holy shekel.
+
+### Numbers 3:51
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses gave the silver for the ransom of those exceeding to Aaron and to his sons by the word of the Lord, just as the Lord commanded Moses.
+- brenton: And Moses gave the ransom of them that were over to Aaron and his sons, by the word of the Lord, as the Lord commanded Moses.
+
+### Numbers 4:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 4:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the headcount of the sons of Kohath from among the sons of Levi, by their clans, by the houses of their fathers,
+- brenton: Take the sum of the children of Caath from the midst of the sons of Levi, after their families, according to the houses of their fathers' households;
+
+### Numbers 4:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: from twenty-five years old and upward to fifty years old, every one entering to minister, to do all the works in the tent of testimony.
+- brenton: from twenty-five years old and upward until fifty years, every one that goes in to minister, to do all the works in the tabernacle of witness.
+
+### Numbers 4:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the works of the sons of Kohath in the tent of testimony: the holy of holies.
+- brenton: And these are the works of the sons of Caath in the tabernacle of witness; it is most holy.
+
+### Numbers 4:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons shall go in when the camp is taken up, and they shall take down the screening veil and with it cover the ark of testimony.
+- brenton: And Aaron and his sons shall go in, when the camp is about to move, and shall take down the shadowing veil, and shall cover with it the ark of the testimony.
+
+### Numbers 4:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall put upon it a blue leather covering and spread over it an all-blue cloth above, and they shall put in its carrying poles.
+- brenton: And they shall put on it a cover, even a blue skin, and put on it above a garment all of blue, and shall put the staves through the rings.
+
+### Numbers 4:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And upon the table set forth they shall spread a purple cloth, and they shall place upon it the dishes and the censers and the bowls and the libation vessels with which they pour. And the continual breads shall remain on it.
+- brenton: And they shall put on the table set forth for shew-bread a cloth all of purple, and the dishes, and the censers, and the cups, and the vessels with which one offers drink-offerings; and the continual loaves shall be upon it.
+
+### Numbers 4:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall spread over it a scarlet cloth and cover it with a blue leather covering and put through it the carrying poles.
+- brenton: And they shall put upon it a scarlet cloth, and they shall cover it with a blue covering of skin, and they shall put the staves into it.
+
+### Numbers 4:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall take a blue cloth and cover the lampstand that gives light and its lamps and its tongs and its snuffers and all its oil vessels by which they minister with them.
+- brenton: And they shall take a blue covering, and cover the candlestick that gives light, and its lamps, and its snuffers, and its funnels, and all the vessels of oil with which they minister.
+
+### Numbers 4:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall place it and all its vessels into a blue leather covering and set it upon carrying poles.
+- brenton: And they shall put it, and all its vessels, into a blue skin cover; and they shall put it on bearers.
+
+### Numbers 4:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And upon the golden altar they shall spread a blue cloth and cover it with a blue leather covering and put through its poles.
+- brenton: And they shall put a blue cloth for a cover on the golden altar, and shall cover it with a blue skin cover, and put in its staves.
+
+### Numbers 4:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall take all the service vessels with which they minister in the sanctuary and place them into a blue cloth and cover them with a blue leather covering and set them upon carrying poles.
+- brenton: And they shall take all the instruments of service, with which they minister in the sanctuary: and shall place them in a cloth of blue, and shall cover them with blue skin covering, and put them upon staves.
+
+### Numbers 4:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall place the cover-pan on the altar and spread over it a whole purple cloth.
+- brenton: And he shall put the covering on the altar, and they shall cover it with a cloth all of purple.
+
+### Numbers 4:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall place upon it all the vessels with which they minister on it, the firepans and the flesh-hooks and the bowls and the cover-pan, all the vessels of the altar. And they shall spread over it a blue leather covering and put through its poles. And they shall take a purple cloth and cover the laver and its base and place them in a blue leather covering and set them upon carrying poles.
+- brenton: And they shall put upon it all the vessels with which they minister upon it, and the fire-pans, and the flesh-hooks, and the cups, and the cover, and all the vessels of the altar; and they shall put on it a blue cover of skins, and shall put in its staves; and they shall take a purple cloth, and cover the laver and its foot, and they shall put it into a blue cover of skin, and put it on bars.
+
+### Numbers 4:15
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron and his sons shall finish covering the holy things and all the holy vessels when the camp is taken up, and after these things the sons of Kohath shall go in to carry them. But they shall not touch the holy things, lest they die. These are the things the sons of Kohath shall carry in the tent of testimony.
+- brenton: And Aaron and his sons shall finish covering the holy things, and all the holy vessels, when the camp begins to move; and afterwards the sons of Caath shall go in to take up the furniture; but shall not touch the holy things, lest they die: these shall the sons of Caath bear in the tabernacle of witness.
+
+### Numbers 4:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the oversight of Eleazar son of Aaron the priest is the oil for the light and the compound incense and the daily sacrifice and the anointing oil, the oversight of the whole tent and everything in it, in the sanctuary and in all its works.
+- brenton: Eleazar the son of Aaron the priest is overseer—the oil of the light, and the incense of composition, and the daily meat-offering and the anointing oil, are his charge; even the oversight of the whole tabernacle, and all things that are in it in the holy place, in all the works.
+
+### Numbers 4:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 4:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do not destroy the clan of Kohath from among the Levites.
+- brenton: Ye shall not destroy the family of Caath from the tribe out of the midst of the Levites.
+
+### Numbers 4:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do this for them, and they shall live and not die when they approach the holy of holies: Aaron and his sons shall go in and appoint each of them to his task and to his burden.
+- brenton: This do ye to them, and they shall live and not die, when they approach the holy of holies: Let Aaron and his sons advance, and they shall place them each in his post for bearing.
+
+### Numbers 4:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they shall not go in to look suddenly upon the holy things and die.
+- brenton: And so they shall by no means go in to look suddenly upon the holy things, and die.
+
+### Numbers 4:21
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 4:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the headcount of the sons of Gershon, these also, by the houses of their fathers, by their clans.
+- brenton: Take the sum of the children of Gedson, and these according to the houses of their lineage, according to their families.
+
+### Numbers 4:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From twenty-five years old and upward to fifty years old, count them, every one entering to minister and to do his works in the tent of testimony.
+- brenton: Take the number of them from five and twenty years old and upwards until the age of fifty, every one that goes in to minister, to do his business in the tabernacle of witness.
+
+### Numbers 4:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the service of the clan of Gershon, to minister and to carry.
+- brenton: This is the public service of the family of Gedson, to minister and to bear.
+
+### Numbers 4:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall carry the skins of the tent and the tent of testimony and its covering and the blue covering that is over it above and the screen of the door of the tent of testimony,
+- brenton: And they shall bear the skins of the tabernacle, and the tabernacle of witness, and its veil, and the blue cover that was on it above, and the cover of the door of the tabernacle of witness.
+
+### Numbers 4:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the curtains of the court that are by the tent of testimony and the extra pieces and all the service vessels with which they minister in them. They shall do all these things.
+- brenton: And all the curtains of the court which were upon the tabernacle of witness, and the appendages, and all the vessels of service that they minister with they shall attend to.
+
+### Numbers 4:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: At Aaron's command and at the command of his sons shall be all the service of the sons of Gershon in all their ministries and in all the things carried by them. And you shall oversee for them by name all the things carried by them.
+- brenton: According to the direction of Aaron and his sons shall be the ministry of the sons of Gedson, in all their ministries, and in all their works; and thou shalt take account of them by name in all things borne by them.
+
+### Numbers 4:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the service of the sons of Gershon in the tent of testimony, and their charge is in the hand of Ithamar son of Aaron the priest.
+- brenton: This is the service of the sons of Gedson in the tabernacle of witness, and their charge by the hand of Ithamar the son of Aaron the priest.
+
+### Numbers 4:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Count the sons of Merari by their clans, by the houses of their fathers.
+- brenton: The sons of Merari according to their families, according to the houses of their lineage, take ye the number of them.
+
+### Numbers 4:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From twenty-five years old and upward to fifty years old, count them, every one entering to minister in the works of the tent of testimony.
+- brenton: Take the number of them from five and twenty years old and upwards until fifty years old, every one that goes in to perform the services of the tabernacle of witness.
+
+### Numbers 4:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the charges of the things carried by them according to all their works in the tent of testimony: the frames of the tent and its bars and its pillars and its bases and the screen and the bases of them and its pillars and the screen of the door of the tent,
+- brenton: And these are the charges of the things borne by them according to all their works in the tabernacle of witness: they shall bear the chapiters of the tabernacle, and the bars, and its pillars, and its sockets, and the veil, and there shall be their sockets, and their pillars, and the curtain of the door of the tabernacle.
+
+### Numbers 4:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the pillars of the court all around and their bases and the pillars of the screen of the gate of the court and their bases and their pegs and their cords and all their furnishings and all their services. By name you shall count them and all the vessels of the charge of the things carried by them.
+- brenton: And they shall bear the pillars of the court round about, and there shall be their sockets, and they shall bear the pillars of the veil of the door of the court, and their sockets and their pins, and their cords, and all their furniture, and all their instruments of service: take ye their number by name, and all the articles of the charge of the things borne by them.
+
+### Numbers 4:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the service of the clan of the sons of Merari in all their works in the tent of testimony, in the hand of Ithamar son of Aaron the priest.
+- brenton: This is the ministration of the family of the sons of Merari in all their works in the tabernacle of witness, by the hand of Ithamar the son of Aaron the priest.
+
+### Numbers 4:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron and the chiefs of Israel counted the sons of Kohath by their clans, by the houses of their fathers,
+- brenton: And Moses and Aaron and the rulers of Israel took the number of the sons of Caath according to their families, according to the houses of their lineage;
+
+### Numbers 4:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from twenty-five years old and upward to fifty years old, every one entering to minister and to work in the tent of testimony.
+- brenton: from five and twenty years old and upwards to the age of fifty years, every one that goes in to minister and do service in the tabernacle of witness.
+
+### Numbers 4:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their counting by their clans was two thousand two hundred fifty.
+- brenton: And the numbering of them according to their families was two thousand, seven hundred and fifty.
+
+### Numbers 4:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This was the counting of the clan of Kohath, every one ministering in the tent of testimony, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+- brenton: This is the numbering of the family of Caath, every one that ministers in the tabernacle of witness, as Moses and Aaron numbered them by the word of the Lord, by the hand of Moses.
+
+### Numbers 4:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Gershon were counted by their clans, by the houses of their fathers,
+- brenton: And the sons of Gedson were numbered according to their families, according to the houses of their lineage,
+
+### Numbers 4:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from twenty-five years old and upward to fifty years old, every one entering to minister and to do the works in the tent of testimony.
+- brenton: from five and twenty years old and upward till fifty years old, every one that goes in to minister and to do the services in the tabernacle of witness.
+
+### Numbers 4:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their counting by their clans, by the houses of their fathers, was two thousand six hundred thirty.
+- brenton: And the numbering of them according to their families, according to the houses of their lineage, was two thousand six hundred and thirty.
+
+### Numbers 4:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This was the counting of the clan of the sons of Gershon, every one ministering in the tent of testimony, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+- brenton: This is the numbering of the family of the sons of Gedson, every one who ministers in the tabernacle of witness; whom Moses and Aaron numbered by the word of the Lord, by the hand of Moses.
+
+### Numbers 4:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the clan of the sons of Merari also was counted by their clans, by the houses of their fathers,
+- brenton: And also the family of the sons of Merari were numbered according to their divisions, according to the house of their fathers;
+
+### Numbers 4:43
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from twenty-five years old and upward to fifty years old, every one entering to minister for the works of the tent of testimony.
+- brenton: from five and twenty years old and upward till fifty years old, every one that goes in to minister in the services of the tabernacle of witness.
+
+### Numbers 4:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their counting by their clans, by the houses of their fathers, was three thousand two hundred.
+- brenton: And the numbering of them according to their families, according to the houses of their lineage, was three thousand and two hundred.
+
+### Numbers 4:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This was the counting of the clan of the sons of Merari, whom Moses and Aaron counted by the word of the Lord by Moses' hand.
+- brenton: This is the numbering of the family of the sons of Merari, whom Moses and Aaron numbered by the word of the Lord, by the hand of Moses.
+
+### Numbers 4:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All those counted whom Moses and Aaron and the chiefs of Israel counted, the Levites by their clans, by the houses of their fathers,
+- brenton: All that were numbered, whom Moses and Aaron and the rulers of Israel numbered, namely, the Levites, according to their families and according to the houses of their lineage,
+
+### Numbers 4:47
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from twenty-five years old and upward to fifty years old, every one entering for the work of the works and the things carried in the tent of testimony,
+- brenton: from five and twenty years old and upward till fifty years old, every one that goes in to the service of the works, and the charge of the things that are carried in the tabernacle of witness.
+
+### Numbers 4:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their count was eight thousand five hundred eighty.
+- brenton: And they that were numbered were eight thousand five hundred and eighty.
+
+### Numbers 4:49
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: By the word of the Lord he counted them by Moses' hand, each man over his works and over what they carried. And they were counted just as the Lord commanded Moses.
+- brenton: He reviewed them by the word of the Lord by the hand of Moses, appointing each man severally over their respective work, and over their burdens; and they were numbered, as the Lord commanded Moses.
+
+### Numbers 5:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 5:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Command the sons of Israel, and let them send out from the camp every leprous person and every one with a discharge and every one unclean by a dead person.
+- brenton: Charge the children of Israel, and let them send forth out of the camp every leper, and every one who has an issue of the reins, and every one who is unclean from a dead body.
+
+### Numbers 5:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From male to female you shall send them out of the camp, and they shall not defile their camps, in the midst of which I dwell among them.
+- brenton: Whether male or female, send them forth out of the camp; and they shall not defile their camps in which I dwell among them.
+
+### Numbers 5:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel did so and sent them out of the camp. Just as the Lord spoke to Moses, so the sons of Israel did.
+- brenton: And the children of Israel did so, and sent them out of the camp: as the Lord said to Moses, so did the children of Israel.
+
+### Numbers 5:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 5:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, If a man or a woman does any of the human sins, and in overlooking overlooks, and that soul trespasses,
+- brenton: Speak to the children of Israel, saying, Every man or woman who shall commit any sin that is common to man, or if that soul shall in anywise have neglected the commandment and transgressed;
+
+### Numbers 5:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: he shall confess the sin that he did, and he shall repay the principal of the trespass and add its fifth part to it and give it to the one against whom he trespassed.
+- brenton: that person shall confess the sin which he has committed, and shall make satisfaction for his trespass: he shall pay the principal, and shall add to it the fifth part, and shall make restoration to him against whom he has trespassed.
+
+### Numbers 5:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the person has no near kinsman so that the trespass may be repaid to him, the trespass repaid to the Lord shall be for the priest, besides the ram of atonement by which he shall make atonement for him.
+- brenton: But if a man have no near kinsman, so as to make satisfaction for his trespass to him, the trespass-offering paid to the Lord shall be for the priest, besides the ram of atonement, by which he shall make atonement with it for him.
+
+### Numbers 5:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every firstfruit among all the holy things of the sons of Israel, whatever they bring to the Lord, shall be his, for the priest.
+- brenton: And every first-fruits in all the sanctified things among the children of Israel, whatsoever they shall offer to the Lord, shall be for the priest himself.
+
+### Numbers 5:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And each man's holy things shall be his. Whatever a man gives to the priest shall be his.
+- brenton: And the hallowed things of every man shall be his; and whatever man shall give any thing to the priest, the gift shall be his.
+
+### Numbers 5:11
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 5:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them, If any man's wife goes astray and in overlooking overlooks him,
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whosesoever wife shall transgress against him, and slight and despise him,
+
+### Numbers 5:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and someone lies with her in a bed of seed, and it is hidden from the eyes of her husband, and she herself is concealed, though she has been defiled, and there is no witness with her, and she was not caught,
+- brenton: and supposing any one shall lie with her carnally, and the thing shall be hid from the eyes of her husband, and she should conceal it and be herself defiled, and there be no witness with her, and she should not be taken;
+
+### Numbers 5:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and a spirit of jealousy comes upon him and he is jealous of his wife and she has been defiled, or a spirit of jealousy comes upon him and he is jealous of his wife and she has not been defiled,
+- brenton: and there should come upon him a spirit of jealousy, and he should be jealous of his wife, and she be defiled; or there should come upon him a spirit of jealousy, and he should be jealous of his wife, and she should not be defiled;
+
+### Numbers 5:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the man shall bring his wife to the priest and bring her gift concerning her: a tenth of an ephah of barley flour. He shall not pour oil upon it, nor place frankincense upon it, because it is a sacrifice of jealousy, a sacrifice of memorial, bringing sin to remembrance.
+- brenton: then shall the man bring his wife to the priest, and shall bring his gift for her, the tenth part of an ephah of barley-meal: he shall not pour oil upon it, neither shall he put frankincense upon it; for it is a sacrifice of jealousy, a sacrifice of memorial, recalling sin to remembrance.
+
+### Numbers 5:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall bring her near and set her before the Lord.
+- brenton: And the priest shall bring her, and cause her to stand before the Lord.
+
+### Numbers 5:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take pure living water in an earthen vessel, and from the dust that is on the floor of the tent of testimony, taking it, the priest shall put it into the water.
+- brenton: And the priest shall take pure running water in an earthen vessel, and he shall take of the dust that is on the floor of the tabernacle of witness, and the priest having taken it shall cast it into the water.
+
+### Numbers 5:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the priest shall set the woman before the Lord and uncover the woman's head and put upon her hands the sacrifice of memorial, the sacrifice of jealousy. And in the priest's hand shall be the water of reproof, this cursed water.
+- brenton: And the priest shall cause the woman to stand before the Lord, and shall uncover the head of the woman, and shall put into her hands the sacrifice of memorial, the sacrifice of jealousy; and in the hand of the priest shall be the water of this conviction that brings the curse.
+
+### Numbers 5:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall adjure her and say to the woman, If no man has lain with you, and if you have not gone astray to be defiled under your own husband, be innocent from this water of reproof, this cursed water.
+- brenton: And the priest shall adjure her, and shall say to the woman, If no one has lain with thee, and if thou hast not transgressed so as to be polluted, being under the power of thy husband, be free from this water of the conviction that causes the curse.
+
+### Numbers 5:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if you have gone astray under your husband, and if you are defiled, and some man besides your husband has given his bed in you,
+- brenton: But if being a married woman thou hast transgressed, or been polluted, and any one has lain with thee, beside thy husband:
+
+### Numbers 5:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: then the priest shall adjure the woman with the oaths of this curse, and the priest shall say to the woman: May the Lord make you a curse and an oath in the midst of your people, when the Lord gives your thigh fallen away and your belly swollen.
+- brenton: then the priest shall adjure the woman by the oaths of this curse, and the priest shall say to the woman, The Lord bring thee into a curse and under an oath in the midst of thy people, in that the Lord should cause thy thigh to rot and thy belly to swell;
+
+### Numbers 5:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this cursed water shall enter into your belly to make the belly swell and to make your thigh fall away. And the woman shall say, Amen, amen.
+- brenton: and this water bringing the curse shall enter into thy womb to cause thy belly to swell, and thy thigh to rot. And the woman shall say, So be it, So be it.
+
+### Numbers 5:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall write these curses in a scroll and wipe them into the water of reproof, this cursed water.
+- brenton: And the priest shall write these curses in a book, and shall blot them out with the water of the conviction that brings the curse.
+
+### Numbers 5:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make the woman drink the water of reproof, this cursed water, and the cursed water of reproof shall enter into her.
+- brenton: And he shall cause the woman to drink the water of the conviction that brings the curse; and the water of the conviction that brings the curse shall enter into her.
+
+### Numbers 5:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take from the woman's hand the sacrifice of jealousy and shall present the sacrifice before the Lord and bring it to the altar.
+- brenton: And the priest shall take from the hand of the woman the sacrifice of jealousy, and shall present the sacrifice before the Lord, and shall bring it to the altar.
+
+### Numbers 5:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take a handful from the sacrifice as its memorial and offer it upon the altar, and after these things he shall make the woman drink the water.
+- brenton: And the priest shall take a handful of the sacrifice as a memorial of it, and shall offer it up upon the altar; and afterwards he shall cause the woman to drink the water.
+
+### Numbers 5:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be, if she has been defiled and by concealment concealed it from her husband, then the water of reproof, the cursed water, shall enter into her, and her belly shall swell and her thigh shall fall away, and the woman shall become a curse among her people.
+- brenton: And it shall come to pass, if she be defiled, and have altogether escaped the notice of her husband, then the water of the conviction that brings the curse shall enter into her; and she shall swell in her belly, and her thigh shall rot, and the woman shall be for a curse in the midst of her people.
+
+### Numbers 5:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the woman has not been defiled and is clean, she shall be innocent and shall conceive seed.
+- brenton: But if the woman have not been polluted, and be clean, then shall she be guiltless and shall conceive seed.
+
+### Numbers 5:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of jealousy, when a woman, being under a husband, goes astray and is defiled,
+- brenton: This is the law of jealousy, wherein a married woman should happen to transgress, and be defiled;
+
+### Numbers 5:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
+- brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
+
+### Numbers 5:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man shall be clear from sin, but that woman shall bear her sin.
+- brenton: Then the man shall be clear from sin, and that woman shall bear her sin.
+
+### Numbers 6:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 6:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them: A man or a woman who greatly vows a vow, to consecrate a consecration to the Lord,
+- brenton: Speak to the children of Israel, and thou shalt say to them, Whatsoever man or woman shall specially vow a vow to separate oneself with purity to the Lord,
+
+### Numbers 6:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: shall separate himself from wine and strong drink. He shall not drink vinegar from wine or vinegar from strong drink, and he shall not drink whatever is produced from grapes, and he shall not eat fresh grapes or raisins.
+- brenton: he shall purely abstain from wine and strong drink; and he shall drink no vinegar of wine or vinegar of strong drink; and whatever is made of the grape he shall not drink; neither shall he eat fresh grapes or raisins,
+
+### Numbers 6:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days of his vow, from everything made from the vine of wine, from grape husks to grape seed, he shall not eat.
+- brenton: all the days of his vow: he shall eat no one of all the things that come from the vine, wine from the grape-stones to the husk,
+
+### Numbers 6:5
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days of the vow of his consecration, a razor shall not come upon his head until the days are fulfilled that he vowed to the Lord. He shall be holy, letting the hair of his head grow long.
+- brenton: all the days of his separation:—a razor shall not come upon his head, until the days be fulfilled which he vowed to the Lord: he shall be holy, cherishing the long hair of the head,
+
+### Numbers 6:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the days of his vow to the Lord, he shall not go in to any dead person.
+- brenton: all the days of his vow to the Lord: he shall not come nigh to any dead body,
+
+### Numbers 6:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For father and for mother and for brother and for sister, he shall not be defiled for them when they die, because the vow of his God is upon his head.
+- brenton: to his father or his mother, or to his brother or his sister; he shall not defile himself for them, when they have died, because the vow of God is upon him on his head.
+
+### Numbers 6:8
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: All the days of his vow he shall be holy to the Lord.
+- brenton: All the days of his vow he shall be holy to the Lord.
+
+### Numbers 6:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if someone suddenly dies beside him at once, the head of his vow will be defiled, and he shall shave his head on whatever day he is cleansed; on the seventh day it shall be shaved.
+- brenton: And if any one should die suddenly by him, immediately the head of his vow shall be defiled; and he shall shave his head in whatever day he shall be purified: on the seventh day he shall be shaved.
+
+### Numbers 6:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the eighth day he shall bring two turtledoves or two young pigeons to the priest at the doors of the tent of testimony.
+- brenton: And on the eighth day he shall bring two turtle-doves, or two young pigeons, to the priest, to the doors of the tabernacle of witness.
+
+### Numbers 6:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
+- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
+
+### Numbers 6:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall consecrate to the Lord the days of his vow and bring a year-old lamb for a trespass offering, and the former days shall be without account, because the head of his vow was defiled.
+- brenton: in which he was consecrated to the Lord, all the days of his vow; and he shall bring a lamb of a year old for a trespass-offering; and the former days shall not be reckoned, because the head of his vow was polluted.
+
+### Numbers 6:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the law of the one who has vowed: on whatever day he completes the days of his vow, he shall bring himself to the doors of the tent of testimony.
+- brenton: And this is the law of him that has vowed: in whatever day he shall have fulfilled the days of his vow, he shall himself bring his gift to the doors of the tabernacle of witness.
+
+### Numbers 6:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
+
+### Numbers 6:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and a basket of unleavened bread, fine-flour loaves prepared with oil and unleavened wafers anointed with oil, and their sacrifice and their libation.
+- brenton: and a basket of unleavened bread of fine flour, even loaves kneaded with oil, and unleavened cakes anointed with oil, and their meat-offering, and their drink-offering.
+
+### Numbers 6:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall bring them before the Lord and make his sin offering and his whole burnt offering.
+- brenton: And the priest shall bring them before the Lord, and shall offer his sin-offering, and his whole-burnt-offering.
+
+### Numbers 6:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
+
+### Numbers 6:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+- brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
+
+### Numbers 6:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take the boiled shoulder from the ram and one unleavened loaf from the basket and one unleavened wafer and place them on the hands of the one who vowed, after he has shaved his vow.
+- brenton: And the priest shall take the sodden shoulder of the ram, and one unleavened loaf from the basket, and one unleavened cake, and shall put them on the hands of the votary after he has shaved off his holy hair.
+
+### Numbers 6:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall present them as an offering set before the Lord. It shall be holy for the priest, besides the breast of the offering set before the Lord and besides the arm of the contribution. And after these things the one who vowed shall drink wine.
+- brenton: And the priest shall present them as an offering before the Lord; it shall be the holy portion for the priest beside the breast of the heave-offering, and beside the shoulder of the wave-offering: and afterwards the votary shall drink wine.
+
+### Numbers 6:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the law of the one who vowed, who vows his gift to the Lord concerning his vow, apart from whatever his hand may find. According to the power of his vow that he vowed, according to the law of consecration, so shall he do.
+- brenton: This is the law of the votary who shall have vowed to the Lord his gift to the Lord, concerning his vow, besides what he may be able to afford according to the value of his vow, which he may have vowed according to the law of separation.
+
+### Numbers 6:22
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 6:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to Aaron and to his sons, saying, Thus you shall bless the sons of Israel, saying to them. And they shall put my name upon the sons of Israel, and I the Lord will bless them.
+- brenton: Speak to Aaron and to his sons, saying, Thus ye shall bless the children of Israel, saying to them,
+
+### Numbers 6:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: May the Lord bless you and keep you.
+- brenton: The Lord bless thee and keep thee;
+
+### Numbers 6:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: May the Lord make his face shine upon you and have mercy on you.
+- brenton: the Lord make his face to shine upon thee, and have mercy upon thee;
+
+### Numbers 6:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: May the Lord lift up his face upon you and give you peace.
+- brenton: the Lord lift up his countenance upon thee, and give thee peace.
+
+### Numbers 7:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened on the day Moses finished setting up the tent and anointed it and sanctified it and all its furnishings and the altar and all its vessels, and he anointed them and sanctified them,
+- brenton: And it came to pass in the day in which Moses finished the setting-up of the tabernacle, that he anointed it, and consecrated it, and all its furniture, and the altar and all its furniture, he even anointed them, and consecrated them.
+
+### Numbers 7:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: that the chiefs of Israel brought offerings, twelve chiefs of the houses of their fathers. These were chiefs of the tribes, these the ones standing over the counting.
+- brenton: And the princes of Israel brought gifts, twelve princes of their fathers' houses: these were the heads of tribes, these are they that presided over the numbering.
+
+### Numbers 7:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they brought their gifts before the Lord: six covered wagons and twelve oxen, a wagon from every two chiefs and an ox from each one, and they brought them before the tent.
+- brenton: And they brought their gift before the Lord, six covered waggons, and twelve oxen; a waggon from two princes, and a calf from each: and they brought them before the tabernacle.
+
+### Numbers 7:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 7:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take them from them, and they shall be for the service works of the tent of testimony, and you shall give them to the Levites, to each according to his service.
+- brenton: Take of them, and they shall be for the works of the services of the tabernacle of witness: and thou shalt give them to the Levites, to each one according to his ministration.
+
+### Numbers 7:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took the wagons and the oxen and gave them to the Levites.
+- brenton: And Moses took the waggons and the oxen, and gave them to the Levites.
+
+### Numbers 7:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The two wagons and the four oxen he gave to the sons of Gershon according to their services.
+- brenton: And he gave two waggons and four oxen to the sons of Gedson, according to their ministrations.
+
+### Numbers 7:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the four wagons and the eight oxen he gave to the sons of Merari according to their services, by the hand of Ithamar son of Aaron the priest.
+- brenton: And four waggons and eight oxen he gave to the sons of Merari according to their ministrations, by Ithamar the son of Aaron the priest.
+
+### Numbers 7:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But to the sons of Kohath he did not give any, because they have the services of the holy things; upon their shoulders they shall carry them.
+- brenton: But to the sons of Caath he gave them not, because they have the ministrations of the sacred things: they shall bear them on their shoulders.
+
+### Numbers 7:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the chiefs brought offerings for the dedication of the altar on the day he anointed it, and the chiefs brought their gifts before the altar.
+- brenton: And the rulers brought gifts for the dedication of the altar, in the day in which he anointed it, and the rulers brought their gifts before the altar.
+
+### Numbers 7:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord said to Moses, One chief each day, one chief each day, shall bring their gifts for the dedication of the altar.
+- brenton: And the Lord said to Moses, One chief each day, they shall offer their gifts a chief each day for the dedication of the altar.
+
+### Numbers 7:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one bringing his gift on the first day was Nahshon son of Amminadab, chief of the tribe of Judah.
+- brenton: And he that offered his gift on the first day, was Naasson the son of Aminadab, prince of the tribe of Juda.
+
+### Numbers 7:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought his gift: one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: And he brought his gift, one silver charger of a hundred and thirty shekels was its weight, one silver bowl, of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels full of incense.
+
+### Numbers 7:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering;
+
+### Numbers 7:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he goats, five ewe-lambs of a year old: this was the gift of Naasson the son of Aminadab.
+
+### Numbers 7:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the second day Nethanel son of Zuar, chief of the tribe of Issachar, brought his offering.
+- brenton: On the second day Nathanael son of Sogar, the prince of the tribe of Issachar, brought his offering.
+
+### Numbers 7:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought his gift: one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: And he brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One censer of ten golden shekels, full of incense.
+
+### Numbers 7:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+- brenton: And for a sacrifice, a peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Nathanael the son of Sogar.
+
+### Numbers 7:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the third day, the chief of the sons of Zebulun was Eliab son of Helon.
+- brenton: On the third day the prince of the sons of Zabulon, Eliab the son of Chælon.
+
+### Numbers 7:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Eliab the son of Chælon.
+
+### Numbers 7:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the fourth day, the chief of the sons of Reuben was Elizur son of Shedeur.
+- brenton: On the fourth day Elisur the son of Sediur, the prince of the children of Ruben.
+
+### Numbers 7:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels full of incense.
+
+### Numbers 7:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisur the son of Sediur.
+
+### Numbers 7:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the fifth day, the chief of the sons of Simeon was Shelumiel son of Zurishaddai.
+- brenton: On the fifth day the prince of the children of Symeon, Salamiel the son of Surisadai.
+
+### Numbers 7:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight one hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Salamiel the son of Surisadai.
+
+### Numbers 7:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the sixth day, the chief of the sons of Gad was Eliasaph son of Reuel.
+- brenton: On the sixth day the prince of the sons of Gad, Elisaph the son of Raguel.
+
+### Numbers 7:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat offering.
+
+### Numbers 7:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisaph the son of Raguel.
+
+### Numbers 7:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the seventh day, the chief of the sons of Ephraim was Elishama son of Ammihud.
+- brenton: On the seventh day the prince of the sons of Ephraim, Elisama the son of Emiud.
+
+### Numbers 7:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight was a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisama the son of Emiud.
+
+### Numbers 7:54
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the eighth day, the chief of the sons of Manasseh was Gamaliel son of Pedahzur.
+- brenton: On the eighth day the prince of the sons of Manasse, Gamaliel the son of Phadassur.
+
+### Numbers 7:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight one hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
+
+### Numbers 7:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:58
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:59
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+- brenton: And for a sacrifice of peace-offering two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Gamaliel the son of Phadassur.
+
+### Numbers 7:60
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the ninth day, the chief of the sons of Benjamin was Abidan son of Gideoni.
+- brenton: On the ninth day the prince of the sons of Benjamin, Abidan the son of Gadeoni.
+
+### Numbers 7:61
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
+
+### Numbers 7:62
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:63
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:64
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:65
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Abidan the son of Gadeoni.
+
+### Numbers 7:66
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the tenth day, the chief of the sons of Dan was Ahiezer son of Ammishaddai.
+- brenton: On the tenth day the prince of the sons of Dan, Achiezer the son of Amisadai.
+
+### Numbers 7:67
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
+
+### Numbers 7:68
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:69
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:70
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:71
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old. This was the gift of Achiezer the son of Amisadai.
+
+### Numbers 7:72
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the eleventh day, the chief of the sons of Asher was Pagiel son of Ocran.
+- brenton: On the eleventh day the prince of the sons of Aser, Phageel the son of Echran.
+
+### Numbers 7:73
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
+
+### Numbers 7:74
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:75
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:76
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:77
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Phageel the son of Echran.
+
+### Numbers 7:78
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the twelfth day, the chief of the sons of Naphtali was Ahira son of Enan.
+- brenton: On the twelfth day the prince of the sons of Nephthali, Achire the son of Ænan.
+
+### Numbers 7:79
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
+- brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels; one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat offering.
+
+### Numbers 7:80
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one golden censer of ten gold pieces, full of incense,
+- brenton: One golden censer of ten shekels, full of incense.
+
+### Numbers 7:81
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one bull from the cattle, one ram, one yearling lamb, for whole burnt offering,
+- brenton: One calf of the herd, one ram, one he-lamb of a year old for a whole-burnt-offering,
+
+### Numbers 7:82
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one goat kid for sin offering,
+- brenton: and one kid of the goats for a sin-offering.
+
+### Numbers 7:83
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Achire the son of Ænan.
+
+### Numbers 7:84
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: This was the dedication of the altar on the day he anointed it, from the chiefs of the sons of Israel: twelve silver dishes, twelve silver bowls, twelve golden censers,
+- brenton: This was the dedication of the altar in the day in which Moses anointed it, by the princes of the sons of Israel; twelve silver chargers, twelve silver bowls, twelve golden censers:
+
+### Numbers 7:85
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: each dish one hundred thirty shekels, and each bowl seventy shekels. All the silver of the vessels was two thousand four hundred shekels by the holy shekel.
+- brenton: each charger of a hundred and thirty shekels, and each bowl of seventy shekels: all the silver of the vessels was two thousand four hundred shekels, the shekels according to the holy shekel.
+
+### Numbers 7:86
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Twelve golden censers full of incense. All the gold of the censers was one hundred twenty gold pieces.
+- brenton: Twelve golden censers full of incense: all the gold of the shekels, a hundred and twenty shekels.
+
+### Numbers 7:87
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the cattle for whole burnt offering were twelve bulls, twelve rams, twelve yearling lambs, and their sacrifices and their libations, and twelve goat kids for sin offering.
+- brenton: All the cattle for whole-burnt-offerings, twelve calves, twelve rams, twelve he-lambs of a year old, and their meat-offerings, and their drink-offerings: and twelve kids of the goats for sin-offering.
+
+### Numbers 7:88
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
+
+### Numbers 7:89
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
+- brenton: When Moses went into the tabernacle of witness to speak to God, then he heard the voice of the Lord speaking to him from off the mercy-seat, which is upon the ark of the testimony, between the two cherubs; and he spoke to him.
+
+### Numbers 8:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 8:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to Aaron, and you shall say to him: When you set the lamps in place, toward the front of the lampstand the seven lamps shall give light.
+- brenton: Speak to Aaron, and thou shalt say to him, Whenever thou shalt set the lamps in order, the seven lamps shall give light opposite the candlestick.
+
+### Numbers 8:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron did so. From one side toward the front of the lampstand he lit its lamps, just as the Lord commanded Moses.
+- brenton: And Aaron did so: on one side opposite the candlestick he lighted its lamps, as the Lord appointed Moses.
+
+### Numbers 8:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this was the workmanship of the lampstand: solid gold, its stem and its lilies, all solid. According to the pattern the Lord showed Moses, so he made the lampstand.
+- brenton: And this is the construction of the candlestick: it is solid, golden—its stem, and its lilies—all solid: according to the pattern which the Lord shewed Moses, so he made the candlestick.
+
+### Numbers 8:5
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 8:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the Levites from the midst of the sons of Israel and purify them.
+- brenton: Take the Levites out of the midst of the children of Israel, and thou shalt purify them.
+
+### Numbers 8:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And thus you shall do to them for their purification: sprinkle them with water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
+- brenton: And thus shalt thou perform their purification: thou shalt sprinkle them with water of purification, and a razor shall come upon the whole of their body, and they shall wash their garments, and shall be clean.
+
+### Numbers 8:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall take one bull from the cattle and its sacrifice of fine flour prepared with oil, and you shall take another yearling bull from the cattle for sin offering.
+- brenton: And they shall take one calf of the herd, and its meat-offering, fine flour mingled with oil: and thou shalt take a calf of a year old of the herd for a sin-offering.
+
+### Numbers 8:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring the Levites before the tent of testimony, and you shall gather the whole congregation of the sons of Israel.
+- brenton: And thou shalt bring the Levites before the tabernacle of witness; and thou shalt assemble all the congregation of the sons of Israel.
+
+### Numbers 8:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring the Levites before the Lord, and the sons of Israel shall place their hands upon the Levites.
+- brenton: And thou shalt bring the Levites before the Lord; and the sons of Israel shall lay their hands upon the Levites.
+
+### Numbers 8:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Aaron shall set apart the Levites as an offering before the Lord from the sons of Israel, and they shall be for working the works of the Lord.
+- brenton: And Aaron shall separate the Levites for a gift before the Lord from the children of Israel: and they shall be prepared to perform the works of the Lord.
+
+### Numbers 8:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Levites shall place their hands upon the heads of the bulls, and he shall make one a sin offering and one a whole burnt offering to the Lord, to make atonement for them.
+- brenton: And the Levites shall lay their hands on the heads of the calves; and thou shalt offer one for a sin-offering, and the other for a whole-burnt-offering to the Lord, to make atonement for them.
+
+### Numbers 8:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall station the Levites before the Lord and before Aaron and before his sons, and you shall present them as an offering before the Lord.
+- brenton: And thou shalt set the Levites before the Lord, and before Aaron, and before his sons; and thou shalt give them as a gift before the Lord.
+
+### Numbers 8:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall separate the Levites from the midst of the sons of Israel, and they shall be mine.
+- brenton: And thou shalt separate the Levites from the midst of the sons of Israel, and they shall be mine.
+
+### Numbers 8:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after these things the Levites shall go in to work the works of the tent of testimony, and you shall cleanse them and present them before the Lord.
+- brenton: And afterwards the Levites shall go in to perform the works of the tabernacle of witness; and thou shalt purify them, and present them before the Lord.
+
+### Numbers 8:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Because given as a gift, gift-given, these are mine from the midst of the sons of Israel. In place of those opening every womb, all the firstborn of the sons of Israel, I have taken them for myself.
+- brenton: For these are given to me for a present out of the midst of the children of Israel: I have taken them to myself instead of all the first-born of the sons of Israel that open every womb.
+
+### Numbers 8:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because every firstborn among the sons of Israel is mine, from human to beast. On the day I struck every firstborn in the land of Egypt, I sanctified them to myself.
+- brenton: For every first-born among the children of Israel is mine, whether of man or beast: in the day in which I smote every first-born in the land of Egypt, I sanctified them to myself.
+
+### Numbers 8:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I took the Levites in place of every firstborn among the sons of Israel.
+- brenton: And I took the Levites in the place of every first-born among the children of Israel.
+
+### Numbers 8:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I gave the Levites as an offering, given to Aaron and to his sons from the midst of the sons of Israel, to work the works of the sons of Israel in the tent of testimony and to make atonement for the sons of Israel, and there shall not be among the sons of Israel one coming near the holy things.
+- brenton: And I gave the Levites presented as a gift to Aaron and his sons out of the midst of the children of Israel, to do the service of the children of Israel in the tabernacle of witness, and to make atonement for the children of Israel: thus there shall be none among the sons of Israel to draw nigh to the holy things.
+
+### Numbers 8:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron and the whole congregation of the sons of Israel did to the Levites just as the Lord commanded Moses concerning the Levites; so the sons of Israel did to them.
+- brenton: And Moses and Aaron, and all the congregation of the children of Israel, did to the Levites as the Lord commanded Moses concerning the Levites, so the sons of Israel did to them.
+
+### Numbers 8:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Levites purified themselves and washed their garments, and Aaron presented them as an offering before the Lord, and Aaron made atonement for them to purify them.
+- brenton: So the Levites purified themselves and washed their garments; and Aaron presented them as a gift before the Lord, and Aaron made atonement for them to purify them.
+
+### Numbers 8:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after these things the Levites went in to minister their ministry in the tent of testimony before Aaron and before his sons. Just as the Lord commanded Moses concerning the Levites, so they did to them.
+- brenton: And afterwards the Levites went in to minister in their service in the tabernacle of witness before Aaron, and before his sons; as the Lord appointed Moses concerning the Levites, so they did to them.
+
+### Numbers 8:23
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 8:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is what concerns the Levites: from twenty-five years old and upward they shall go in to work in the tent of testimony.
+- brenton: This is the ordinance for the Levites; From five and twenty years old and upward, they shall go in to minister in the tabernacle of witness.
+
+### Numbers 8:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from fifty years old they shall withdraw from the ministry and shall work no more.
+- brenton: And from fifty years old the Levite shall cease from the ministry, and shall not work any longer.
+
+### Numbers 8:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But his brother shall minister in the tent of testimony to keep charges, though he shall do no work. Thus you shall do to the Levites in their charges.
+- brenton: And his brother shall serve in the tabernacle of witness to keep charges, but he shall not do works: so shalt thou do to the Levites in their charges.
+
+### Numbers 9:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses in the wilderness of Sinai, in the second year after they came out of the land of Egypt, in the first month, saying,
+- brenton: And the Lord spoke to Moses in the wilderness of Sina in the second year after they had gone forth from the land of Egypt, in the first month, saying,
+
+### Numbers 9:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Tell the sons of Israel also to keep the Passover at its appointed time.
+- brenton: Speak, and let the children of Israel keep the passover in its season.
+
+### Numbers 9:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the fourteenth day of the first month, toward evening, you shall keep it at its appointed times. According to its law and according to its ordinance you shall keep it.
+- brenton: On the fourteenth day of the first month at even, thou shalt keep it in its season; thou shalt keep it according to its law, and according to its ordinance.
+
+### Numbers 9:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the sons of Israel to keep the Passover.
+- brenton: And Moses ordered the children of Israel to sacrifice the passover,
+
+### Numbers 9:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: At evening, on the fourteenth day of the month, in the wilderness of Sinai, just as the Lord commanded Moses, so the sons of Israel did.
+- brenton: on the fourteenth day of the first month in the wilderness of Sina, as the Lord appointed Moses, so the children of Israel did.
+
+### Numbers 9:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there were men who were unclean by a dead person and were not able to keep the Passover on that day, and they came before Moses and Aaron on that day.
+- brenton: And there came men who were unclean by reason of a dead body, and they were not able to keep the passover on that day; and they came before Moses and Aaron on that day.
+
+### Numbers 9:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those men said to him, We are unclean by a dead person. Must we then be kept back from bringing the Lord's gift at its appointed time in the midst of the sons of Israel?
+- brenton: And those men said to Moses, We are unclean by reason of the dead body of a man: shall we therefore fail to offer the gift to the Lord in its season in the midst of the children of Israel?
+
+### Numbers 9:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to them, Stand there, and I will hear what the Lord will command concerning you.
+- brenton: And Moses said to them, Stand there, and I will hear what charge the Lord will give concerning you.
+
+### Numbers 9:9
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 9:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, saying, If any man becomes unclean by a dead person, or is on a far journey among you or in your generations, and he keeps Passover to the Lord,
+- brenton: Speak to the children of Israel, saying, Whatever man shall be unclean by reason of a dead body, or on a journey far off, among you, or among your posterity; he shall then keep the passover to the Lord,
+
+### Numbers 9:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then in the second month, on the fourteenth day toward evening, they shall keep it. With unleavened bread and bitter herbs they shall eat it.
+- brenton: in the second month, on the fourteenth day; in the evening they shall offer it, with unleavened bread and bitter herbs shall they eat it.
+
+### Numbers 9:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it.
+- brenton: They shall not leave of it until the morrow, and they shall not break a bone of it; they shall sacrifice it according to the ordinance of the passover.
+
+### Numbers 9:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
+- brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
+
+### Numbers 9:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a sojourner comes near you in your land and keeps Passover to the Lord, according to the law of the Passover and according to its ordinance he shall keep it. One law shall be for you and for the sojourner and for the native of the land.
+- brenton: And if there should come to you a stranger in your land, and should keep the passover to the Lord, he shall keep it according to the law of the passover and according to its ordinance: there shall be one law for you, both for the stranger, and for the native of the land.
+
+### Numbers 9:15
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And on the day the tent was set up, the cloud covered the tent, the house of testimony. And in the evening it was over the tent like the appearance of fire until morning.
+- brenton: And in the day in which the tabernacle was pitched the cloud covered the tabernacle, the place of the testimony; and in the evening there was upon the tabernacle as the appearance of fire till the morning.
+
+### Numbers 9:16
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: So it was continually: the cloud covered it by day, and the appearance of fire by night.
+- brenton: So it was continually: the cloud covered it by day, and the appearance of fire by night.
+
+### Numbers 9:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whenever the cloud went up from the tent, after that the sons of Israel would set out, and in the place where the cloud stood, there the sons of Israel would camp.
+- brenton: And when the cloud went up from the tabernacle, then after that the children of Israel departed; and in whatever place the cloud rested, there the children of Israel encamped.
+
+### Numbers 9:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: At the command of the Lord the sons of Israel would camp, and at the command of the Lord they would set out. All the days in which the cloud overshadowed the tent, the sons of Israel would camp.
+- brenton: The children of Israel shall encamp by the command of the Lord, and by the command of the Lord they shall remove: all the days in which the cloud overshadows the tabernacle, the children of Israel shall encamp.
+
+### Numbers 9:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the cloud lingered over the tent many days, the sons of Israel kept the charge of God and did not set out.
+- brenton: And whenever the cloud shall be drawn over the tabernacle for many days, then the children of Israel shall keep the charge of God, and they shall not remove.
+
+### Numbers 9:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it would happen when the cloud covered the tent for a number of days: at the Lord's voice they would camp, and at the Lord's command they would set out.
+- brenton: And it shall be, whenever the cloud overshadows the tabernacle a number of days, they shall encamp by the word of the Lord, and shall remove by the command of the Lord.
+
+### Numbers 9:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it would happen when the cloud was there from evening until morning and the cloud went up in the morning, they would set out by day or by night.
+- brenton: And it shall come to pass, whenever the cloud shall remain from the evening till the morning, and in the morning the cloud shall go up, then shall they remove by day or by night.
+
+### Numbers 9:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Or when the cloud lingered for a month or more days, overshadowing it, the sons of Israel would camp and would not set out.
+- brenton: When the cloud continues a full month overshadowing the tabernacle, the children of Israel shall encamp, and shall not depart.
+
+### Numbers 9:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because at the Lord's command they would set out, and at the Lord's command they would camp. They kept the charge of the Lord by Moses' hand.
+- brenton: For they shall depart by the command of the Lord:—they kept the charge of the Lord by the command of the Lord by the hand of Moses.
