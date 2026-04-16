@@ -87,6 +87,19 @@ This writes:
 - `output/working/deuteronomy_3_5_compare.md`
 - `output/working/deuteronomy_3_5_compare.csv`
 
+Book-checkpoint rebuild:
+
+```bash
+python3 scripts/run_book_checkpoint.py
+```
+
+This rebuilds consolidated outputs:
+
+- `output/fresh_translation_ot_full.md`
+- `output/fresh_translation_ot_full_translation_only.md`
+- `output/fresh_vs_brenton_ot_drafted.md`
+- `output/fresh_vs_brenton_ot_drafted.csv`
+
 Recommended rhythm:
 
 - draft in `data/raw/lxx_greek/ot_full.csv`

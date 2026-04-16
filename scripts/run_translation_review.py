@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import csv
 import json
 import subprocess
 import sys
@@ -23,6 +24,24 @@ def load_json(path: Path) -> dict:
     if not path.exists():
         return {}
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def count_drafted_rows(source: Path, book: str, chapter: int | None, chapter_start: int | None, chapter_end: int | None) -> int:
+    drafted = 0
+    with source.open("r", encoding="utf-8", newline="") as handle:
+        for row in csv.DictReader(handle):
+            if row.get("book_name", "").strip().lower() != book.strip().lower():
+                continue
+            row_chapter = int(row["chapter"])
+            if chapter is not None and row_chapter != chapter:
+                continue
+            if chapter_start is not None and row_chapter < chapter_start:
+                continue
+            if chapter_end is not None and row_chapter > chapter_end:
+                continue
+            if row.get("draft_translation", "").strip():
+                drafted += 1
+    return drafted
 
 
 def build_scope_label(book: str, chapter: int | None, chapter_start: int | None, chapter_end: int | None) -> str:
@@ -67,6 +86,14 @@ def main() -> None:
         if args.chapter_end is not None:
             scope_args += ["--chapter-end", str(args.chapter_end)]
 
+    drafted_before_build = count_drafted_rows(
+        ROOT / args.source,
+        args.book,
+        args.chapter,
+        args.chapter_start,
+        args.chapter_end,
+    )
+
     py = sys.executable
     run(
         [
@@ -104,21 +131,19 @@ def main() -> None:
 
     translation_data = load_json(translation_diag)
     compare_data = load_json(compare_diag)
-    print(
-        json.dumps(
-            {
-                "scope": translation_data.get("selected_scope"),
-                "drafted_rows": translation_data.get("output_drafted_rows"),
-                "compare_rows": compare_data.get("output_compare_rows"),
-                "min_importance": compare_data.get("min_importance"),
-                "worksheet": str(worksheet),
-                "translation_only": str(translation_only),
-                "compare_markdown": str(compare_md),
-                "compare_csv": str(compare_csv),
-            },
-            indent=2,
-        )
-    )
+    payload = {
+        "scope": translation_data.get("selected_scope"),
+        "drafted_rows": translation_data.get("output_drafted_rows"),
+        "compare_rows": compare_data.get("output_compare_rows"),
+        "min_importance": compare_data.get("min_importance"),
+        "worksheet": str(worksheet),
+        "translation_only": str(translation_only),
+        "compare_markdown": str(compare_md),
+        "compare_csv": str(compare_csv),
+    }
+    if drafted_before_build == 0:
+        payload["warning"] = "No drafted verses in selected scope yet. Draft that chunk first, or run this on an already drafted chunk."
+    print(json.dumps(payload, indent=2))
 
 
 if __name__ == "__main__":
