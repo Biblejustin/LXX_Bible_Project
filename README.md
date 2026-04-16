@@ -21,6 +21,10 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
 - `output/fresh_vs_brenton_ot_theme_overview.md`
+- `output/fresh_vs_mt_brenton_ot_review.md`
+- `output/fresh_mt_leaning_vs_brenton.md`
+- `output/fresh_human_review_phase1.md`
+- `output/fresh_human_review_core.md`
 
 ## Fresh Translation Pilot
 
@@ -120,6 +124,20 @@ This rebuilds:
 - `output/fresh_vs_brenton_ot_review_queue.md`
 - `output/fresh_vs_brenton_ot_decision_queue.csv`
 - `output/fresh_vs_brenton_ot_decision_queue.md`
+- `output/fresh_vs_mt_brenton_ot_review.md`
+- `output/fresh_same_as_mt_differs_from_brenton.md`
+- `output/fresh_mt_leaning_vs_brenton.md`
+- `output/fresh_differs_from_mt_and_brenton.md`
+- `output/fresh_ot_idiom_consistency_review.md`
+- `output/fresh_ot_idiom_consistency_outliers.md`
+- `output/fresh_ot_nt_idiom_review.md`
+- `output/fresh_ot_nt_idiom_outliers.md`
+- `output/fresh_ot_crossref_clues.md`
+- `output/fresh_ot_crossref_watch.md`
+- `output/fresh_human_review_phase1.md`
+- `output/fresh_human_review_core.md`
+- `output/fresh_human_review_mt_watch.md`
+- `output/fresh_human_review_nt_watch.md`
 
 Private witness matrix:
 

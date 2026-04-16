@@ -24,6 +24,11 @@ def main() -> None:
     run_script("build_priority_review_queue.py")
     run_script("build_decision_review_queue.py")
     run_script("build_remap_queue.py")
+    run_script("build_mt_lxx_review.py")
+    run_script("build_idiom_consistency_review.py")
+    run_script("build_nt_idiom_review.py")
+    run_script("build_crossref_clue_review.py")
+    run_script("build_human_review_gate.py")
 
     print(
         json.dumps(
@@ -39,6 +44,30 @@ def main() -> None:
                 "decision_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.md"),
                 "remap_queue": str(ROOT / "output" / "fresh_vs_brenton_ot_remap_queue.csv"),
                 "remap_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_remap_queue.md"),
+                "mt_lxx_review": str(ROOT / "output" / "fresh_vs_mt_brenton_ot_review.md"),
+                "mt_lxx_review_csv": str(ROOT / "output" / "fresh_vs_mt_brenton_ot_review.csv"),
+                "idiom_consistency_review": str(ROOT / "output" / "fresh_ot_idiom_consistency_review.md"),
+                "idiom_consistency_review_csv": str(ROOT / "output" / "fresh_ot_idiom_consistency_review.csv"),
+                "idiom_consistency_outliers": str(ROOT / "output" / "fresh_ot_idiom_consistency_outliers.md"),
+                "idiom_consistency_outliers_csv": str(ROOT / "output" / "fresh_ot_idiom_consistency_outliers.csv"),
+                "nt_idiom_review": str(ROOT / "output" / "fresh_ot_nt_idiom_review.md"),
+                "nt_idiom_review_csv": str(ROOT / "output" / "fresh_ot_nt_idiom_review.csv"),
+                "nt_idiom_outliers": str(ROOT / "output" / "fresh_ot_nt_idiom_outliers.md"),
+                "nt_idiom_outliers_csv": str(ROOT / "output" / "fresh_ot_nt_idiom_outliers.csv"),
+                "crossref_clues": str(ROOT / "output" / "fresh_ot_crossref_clues.md"),
+                "crossref_clues_csv": str(ROOT / "output" / "fresh_ot_crossref_clues.csv"),
+                "crossref_watch": str(ROOT / "output" / "fresh_ot_crossref_watch.md"),
+                "crossref_watch_csv": str(ROOT / "output" / "fresh_ot_crossref_watch.csv"),
+                "same_as_mt": str(ROOT / "output" / "fresh_same_as_mt_differs_from_brenton.md"),
+                "same_as_mt_csv": str(ROOT / "output" / "fresh_same_as_mt_differs_from_brenton.csv"),
+                "mt_leaning": str(ROOT / "output" / "fresh_mt_leaning_vs_brenton.md"),
+                "mt_leaning_csv": str(ROOT / "output" / "fresh_mt_leaning_vs_brenton.csv"),
+                "differs_from_both": str(ROOT / "output" / "fresh_differs_from_mt_and_brenton.md"),
+                "differs_from_both_csv": str(ROOT / "output" / "fresh_differs_from_mt_and_brenton.csv"),
+                "human_review_core": str(ROOT / "output" / "fresh_human_review_core.md"),
+                "human_review_phase1": str(ROOT / "output" / "fresh_human_review_phase1.md"),
+                "human_review_mt_watch": str(ROOT / "output" / "fresh_human_review_mt_watch.md"),
+                "human_review_nt_watch": str(ROOT / "output" / "fresh_human_review_nt_watch.md"),
             },
             indent=2,
         )

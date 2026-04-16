@@ -18687,7 +18687,7 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I name my name, there I will come to you and bless you."
+- fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ### Exodus 20:25
@@ -98764,7 +98764,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But God said, You shall not build me house to have my name named upon it, because you are man of war and poured out blood.
+- fresh: But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
 - brenton: but God said, Thou shalt not build me a house to call my name upon it, for thou art a man of war, and hast shed blood.
 
 ### 1 Chronicles 28:4

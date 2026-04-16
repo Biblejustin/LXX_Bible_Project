@@ -1,0 +1,255 @@
+# Fresh OT Idiom Consistency Review
+
+Repeated Greek idiom families. Use this to check whether one verse is drifting away from how the same formula is handled elsewhere.
+
+Families: 4
+Rows checked: 109
+Outliers: 32
+
+## Family Summary
+
+### name-there-formula
+- description: Name formula with location marker such as 'to have his name called there'.
+- rows: 16
+- dominant bucket: `called-there` (14)
+- buckets: called-there=14, name-there=1, other=1
+
+- 2 Chronicles 6:20 [called-there]
+  - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- 2 Chronicles 12:13 [name-there]
+  - fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+- Deuteronomy 12:5 [called-there]
+  - fresh: But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there.
+- Deuteronomy 12:11 [called-there]
+  - fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
+- Deuteronomy 12:21 [called-there]
+  - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
+- Deuteronomy 12:26 [called-there]
+  - fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
+- Deuteronomy 14:23 [called-there]
+  - fresh: And you shall eat it before the Lord your God in the place where the Lord your God chooses for his name to be called there. You shall bring the tithes of your grain and your wine and your oil and the firstborn of your cattle and your sheep, so that you may learn to fear the Lord your God all the days.
+- Deuteronomy 14:24 [called-there]
+  - fresh: And if the road is too long for you and you are not able to carry them, because the place that the Lord your God chooses for his name to be called there is far from you, because the Lord your God will bless you,
+- Deuteronomy 16:2 [called-there]
+  - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
+- Deuteronomy 16:6 [called-there]
+  - fresh: but only at the place that the Lord your God chooses for his name to be called there, there you shall sacrifice the Passover in the evening, at the setting of the sun, at the time when you came out from Egypt.
+- Deuteronomy 16:11 [called-there]
+  - fresh: And you shall rejoice before the Lord your God, you and your son and your daughter, your male servant and your female servant, and the Levite in your cities and the proselyte and the orphan and the widow among you, in the place that the Lord your God chooses for his name to be called there.
+- Deuteronomy 17:8 [called-there]
+  - fresh: And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there.
+- Deuteronomy 17:10 [called-there]
+  - fresh: And you shall act according to the matter that they report to you from the place that the Lord your God chooses for his name to be called there, and you shall keep very carefully to do according to everything that may be legislated to you.
+- Deuteronomy 26:2 [called-there]
+  - fresh: then you shall take from the firstfruits of the fruits of your land that the Lord your God gives you and put them into a basket and go to the place that the Lord your God chooses for his name to be called there.
+- Exodus 20:24 [called-there]
+  - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
+- Jeremiah 7:11 [other]
+  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+
+### name-upon-formula
+- description: Name formula with 'upon' language for house/people/object.
+- rows: 9
+- dominant bucket: `called-upon` (4)
+- buckets: other=5, called-upon=4
+
+- 1 Chronicles 28:3 [called-upon]
+  - fresh: But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
+- 2 Chronicles 7:14 [other]
+  - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
+- Amos 9:12 [called-upon]
+  - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
+- Jeremiah 7:10 [other]
+  - fresh: and you came and stood before me in house over which my name has been called and said, We have held back from doing all these abominations—
+- Jeremiah 7:11 [other]
+  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- Jeremiah 7:14 [other]
+  - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
+- Jeremiah 7:30 [other]
+  - fresh: Because sons of Judah did evil before me, says Lord. They set their abominations in house over which my name has been called, to defile it.
+- Jeremiah 14:9 [called-upon]
+  - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
+- Jeremiah 15:16 [called-upon]
+  - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
+
+### call-on-name-formula
+- description: Active invocation formula, calling on the divine name.
+- rows: 13
+- dominant bucket: `call-on-name` (5)
+- buckets: other=6, call-on-name=5, call-in-name=2
+
+- 1 Kings 8:43 [other]
+  - fresh: then you will hear from heaven from your ready dwelling place and do according to all that the foreigner calls on you for, so that all the peoples of the earth may know your name and fear you as your people Israel do, and may know that your name is called upon this house that I built.
+- 1 Kings 18:24 [call-in-name]
+  - fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- 1 Kings 18:25 [call-in-name]
+  - fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
+- 2 Chronicles 6:33 [other]
+  - fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever foreigner calls upon you for, so that all peoples of earth may know your name and fear you as your people Israel and know that your name is called upon this house which I built.
+- 2 Kings 5:11 [call-on-name]
+  - fresh: And Naiman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
+- 2 Samuel 20:1 [other]
+  - fresh: And there happened to be there a lawless man, and his name was Sabee son of Bochori, a Jeminaian man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Iessai. Each man to your tents, O Israel.
+- Isaiah 64:6 [other]
+  - fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+- Joel 3:5 [other]
+  - fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
+- Psalms 74:2 [call-on-name]
+  - fresh: We will confess to you, O God, we will confess, and we will call on your name.
+- Psalms 79:19 [call-on-name]
+  - fresh: And we will never depart from you; you will make us live, and we will call upon your name.
+- Psalms 98:6 [other]
+  - fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on Lord, and he heard them.
+- Psalms 115:4 [call-on-name]
+  - fresh: Cup of salvation I will take, and name of Lord I will call upon.
+- Zechariah 13:9 [call-on-name]
+  - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
+
+### soteria-sacrifice-formula
+- description: Cultic σωτηρι- terms in sacrificial context.
+- rows: 71
+- dominant bucket: `salvation` (43)
+- buckets: salvation=43, peace=27, well-being=1
+
+- 1 Chronicles 16:1 [peace]
+  - fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and peace offerings before God.
+- 1 Chronicles 16:2 [peace]
+  - fresh: And Dauid finished offering whole burnt offerings and peace offerings and blessed people in name of Lord.
+- 1 Chronicles 21:26 [peace]
+  - fresh: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+- 2 Chronicles 7:7 [peace]
+  - fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of peace offerings, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+- 2 Chronicles 29:35 [peace]
+  - fresh: And whole burnt offering was much, with fats of perfection of peace offering and libations of whole burnt offering, and work in house of Lord was set right.
+- 2 Chronicles 30:22 [peace]
+  - fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers.
+- 2 Chronicles 31:2 [peace]
+  - fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and peace offering and to praise and give thanks and minister at gates in courts of house of Lord.
+- 2 Chronicles 33:16 [salvation]
+  - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- Amos 5:22 [peace]
+  - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings.
+- Deuteronomy 27:7 [salvation]
+  - fresh: and you shall sacrifice there a sacrifice of salvation to the Lord your God, and you shall eat and be filled and rejoice before the Lord your God.
+- Exodus 20:24 [salvation]
+  - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
+- Exodus 24:5 [salvation]
+  - fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
+- Exodus 32:6 [salvation]
+  - fresh: And rising early the next day, he offered whole burnt offerings and brought sacrifices of salvation. And the people sat down to eat and drink and rose up to play.
+- Ezekiel 43:27 [salvation]
+  - fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says Lord.
+- Ezekiel 45:15 [salvation]
+  - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says Lord God.
+- Ezekiel 45:17 [salvation]
+  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for house of Israel.
+- Ezekiel 46:2 [salvation]
+  - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
+- Ezekiel 46:12 [salvation]
+  - fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
+- Jonah 2:10 [salvation]
+  - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
+- Joshua 22:23 [salvation]
+  - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
+- Joshua 22:27 [salvation]
+  - fresh: but so that this may be a witness between us and you and between our generations after us, to render service to the Lord before him in our offerings and in our sacrifices and in our sacrifices of salvation, and your children will not say to our children tomorrow, You have no share in the Lord.
+- Joshua 22:29 [well-being]
+  - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- Judges 20:26 [salvation]
+  - fresh: And all the sons of Israel and all the people went up and came to Baethel and wept before the Lord and fasted on that day and offered whole burnt offerings of salvation before the Lord.
+- Judges 21:4 [salvation]
+  - fresh: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
+- Leviticus 3:1 [salvation]
+  - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
+- Leviticus 3:3 [salvation]
+  - fresh: And from the sacrifice of salvation they shall bring an offering to the Lord: the fat that covers the belly and all the fat that is on the belly,
+- Leviticus 3:6 [salvation]
+  - fresh: And if his gift from the sheep is a sacrifice of salvation to the Lord, male or female, he shall bring it without blemish.
+- Leviticus 3:9 [salvation]
+  - fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
+- Leviticus 4:10 [salvation]
+  - fresh: just as it is removed from the calf of the sacrifice of salvation. And the priest shall offer it on the altar of offering.
+- Leviticus 4:26 [salvation]
+  - fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- Leviticus 4:31 [salvation]
+  - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
+- Leviticus 4:35 [salvation]
+  - fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
+- Leviticus 6:5 [salvation]
+  - fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- Leviticus 7:11 [salvation]
+  - fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
+- Leviticus 7:13 [salvation]
+  - fresh: With leavened loaves he shall bring his gifts with the sacrifice of praise of salvation.
+- Leviticus 7:15 [salvation]
+  - fresh: And the flesh of the sacrifice of praise of salvation shall belong to him, and it shall be eaten on the day it is offered. They shall not leave any of it until morning.
+- Leviticus 7:20 [salvation]
+  - fresh: And the person who eats from the flesh of the sacrifice of salvation, which belongs to the Lord, while his uncleanness is upon him, that person shall perish from his people.
+- Leviticus 7:21 [salvation]
+  - fresh: And if a person touches any unclean thing, whether human uncleanness or unclean quadrupeds or any unclean abomination, and eats from the flesh of the sacrifice of salvation, which belongs to the Lord, that person shall perish from his people.
+- Leviticus 7:29 [salvation]
+  - fresh: And you shall speak to the sons of Israel, saying, The one who brings a sacrifice of salvation to the Lord shall bring his gift to the Lord from the sacrifice of salvation.
+- Leviticus 7:32 [salvation]
+  - fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- Leviticus 7:34 [salvation]
+  - fresh: For I have taken the breast of the presentation and the arm of the contribution from the sons of Israel, from your sacrifices of salvation, and I have given them to Aaron the priest and to his sons as an everlasting statute from the sons of Israel.
+- Leviticus 7:37 [salvation]
+  - fresh: This is the law of the whole burnt offerings and of sacrifice and of the thing for sin and of trespass and of consecration and of the sacrifice of salvation,
+- Leviticus 9:4 [salvation]
+  - fresh: and a calf and a ram for a sacrifice of salvation before the Lord, and fine flour mixed with oil, because today the Lord will appear among you.
+- Leviticus 9:18 [salvation]
+  - fresh: And he slaughtered the calf and the ram of the people's sacrifice of salvation, and the sons of Aaron brought the blood to him, and he poured it around on the altar.
+- Leviticus 9:22 [salvation]
+  - fresh: And Aaron, lifting up his hands over the people, blessed them, and he came down after making the sin-offering and the whole burnt offerings and the things of salvation.
+- Leviticus 10:14 [salvation]
+  - fresh: And you shall eat the breast of separation and the arm of contribution in a holy place, you and your sons and your house with you, because it has been given as a statute for you and a statute for your sons from the sacrifices of salvation of the sons of Israel.
+- Leviticus 17:4 [salvation]
+  - fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- Leviticus 17:5 [salvation]
+  - fresh: So that the sons of Israel may bring their sacrifices that they slaughter in the open fields, and bring them to the Lord at the doors of the tent of testimony, to the priest, and sacrifice them as sacrifices of salvation to the Lord.
+- Leviticus 19:5 [salvation]
+  - fresh: And if you sacrifice a sacrifice of salvation to the Lord, you shall sacrifice it so that you may be accepted.
+- Leviticus 22:21 [salvation]
+  - fresh: And if a man brings a sacrifice of salvation to the Lord, fulfilling a vow or as a freewill choice or in your festivals, it shall be unblemished for acceptance, from the cattle or from the sheep. No blemish shall be in it.
+- Leviticus 23:19 [salvation]
+  - fresh: And they shall offer one kid from the goats for sin, and two yearling lambs as a sacrifice of salvation with the loaves of firstfruits.
+- Numbers 6:14 [peace]
+  - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- Numbers 6:17 [peace]
+  - fresh: And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- Numbers 6:18 [peace]
+  - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+- Numbers 7:17 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+- Numbers 7:23 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+- Numbers 7:29 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+- Numbers 7:35 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+- Numbers 7:41 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+- Numbers 7:47 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+- Numbers 7:53 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+- Numbers 7:59 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+- Numbers 7:65 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+- Numbers 7:71 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+- Numbers 7:77 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+- Numbers 7:83 [peace]
+  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+- Numbers 7:88 [peace]
+  - fresh: All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- Numbers 10:10 [peace]
+  - fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
+- Numbers 15:8 [peace]
+  - fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
+- Numbers 29:39 [peace]
+  - fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
+- Psalms 49:23 [salvation]
+  - fresh: Sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.

@@ -3,37 +3,37 @@
 Selected verses: 6
 
 ## Leviticus 2:13
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, lord, sacrifice
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, lord, sacrifice; crossref_top_vote=18
 - fresh: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
 - brenton: And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.
 
 ## Leviticus 3:1
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
 
 ## Leviticus 4:3
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, lord, priest, sin
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, lord, priest, sin; crossref_top_vote=5
 - fresh: if the anointed high priest sins so as to make the people sin, then he shall bring for his sin that he sinned a calf from the cattle, without blemish, to the Lord for his sin.
 - brenton: if the anointed priest sin so as to cause the people to sin, then shall he bring for his sin, which he has sinned, an unblemished calf of the herd to the Lord for his sin.
 
-## Leviticus 5:15
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, sin, soul
-- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
-- brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
+## Leviticus 4:31
+- score: 19
+- reasons: importance=low; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2
+- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
+- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## Leviticus 7:32
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
 
 ## Leviticus 18:21
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, name, seed
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, name, seed; crossref_top_vote=10
 - fresh: And from your seed you shall not give to serve a ruler, and you shall not profane my holy name. I am the Lord.
 - brenton: And thou shalt not give of thy seed to serve a ruler; and thou shalt not profane my holy name; I am the Lord.
-
-## Leviticus 24:22
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, judgment, lord, righteous
-- fresh: One righteous judgment shall be for the newcomer and for the native-born, because I am the Lord your God.
-- brenton: There shall be one judgment for the stranger and the native, for I am the Lord your God.

@@ -41647,15 +41647,15 @@ Greek: θυσιαστηριον εκ γης ποιησετε μοι και θυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I name my name, there I will come to you and bless you."
+Draft translation: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 
 Decision rows:
 - greek_phrase: τὰ σωτήρια ὑμῶν | lemma: σωτήριον | morphology: accusative plural substantive | chosen_rendering: your offerings of salvation | alternate_renderings: your peace-offerings; your offerings of deliverance; your well-being offerings | rationale: Keeps the salvation-shaped Greek noun visible rather than simply importing a traditional cultic label. | status: drafted
-- greek_phrase: οὗ ἐὰν ἐπονομάσω τὸ ὄνομά μου | lemma: ἐπονομάζω | ὄνομα | morphology: relative clause + aorist active subjunctive 1 singular | chosen_rendering: where I name my name | alternate_renderings: where I record my name; where I cause my name to be invoked | rationale: Keeps the self-naming divine action relatively direct and literal. | status: drafted
+- greek_phrase: οὗ ἐὰν ἐπονομάσω τὸ ὄνομά μου | lemma: ἐπονομάζω | ὄνομα | morphology: relative clause + aorist active subjunctive 1 singular | chosen_rendering: where I cause my name to be called | alternate_renderings: where I name my name; where I record my name; where I cause my name to be invoked | rationale: Brings the clause into line with the project's broader name-formula handling while still keeping the Greek naming idiom visible. | status: drafted
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: offerings of salvation | footnote_text: Greek literally uses a salvation-related term here. This draft keeps that wording visible rather than immediately replacing it with a standard cultic label. | source_basis: lexical + ritual | status: drafted
-- note_type: translation | trigger_phrase: where I name my name | footnote_text: Greek frames the altar promise around God naming his own name there. This draft keeps that direct wording. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: where I cause my name to be called | footnote_text: Greek uses a naming formula here. This wording keeps the Greek idiom visible while aligning with the project's broader pattern of rendering similar clauses as name-called language. | source_basis: lexical + theology | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -220163,7 +220163,7 @@ Greek: και ο θεος ειπεν ουκ οικοδομησεις εμοι ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But God said, You shall not build me house to have my name named upon it, because you are man of war and poured out blood.
+Draft translation: But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
 
 Decision rows:
 - [TODO add decision rows]

@@ -3,6 +3,8 @@
   "selected_rows": 234,
   "per_book_limit": 6,
   "min_score": 4,
+  "rows_with_nt_parallels": 10,
+  "rows_with_crossref_signal": 232,
   "books": [
     "1 Chronicles",
     "1 Kings",

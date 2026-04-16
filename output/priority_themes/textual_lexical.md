@@ -3,81 +3,81 @@
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
 Rows: 11
-Books: 5
+Books: 6
+
+## Genesis 1:1
+- score: 19
+- reasons: decisions=3; footnotes=1; importance=high; keywords=god; crossref_top_vote=361
+- keywords: god
+- fresh: At the beginning, God made heaven and earth.
+- brenton: In the beginning God made the heaven and the earth.
 
 ## Genesis 1:2
-- score: 19
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit
+- score: 21
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97
 - keywords: abyss, god, spirit
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:5
-- score: 17
-- reasons: decisions=2; footnotes=1; importance=high; keywords=day one, god
+- score: 19
+- reasons: decisions=2; footnotes=1; importance=high; keywords=day one, god; crossref_top_vote=26
 - keywords: day one, god
 - fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
 - brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
 
+## Genesis 1:26
+- score: 20
+- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82
+- keywords: god, image
+- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
 ## Genesis 2:7
-- score: 19
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul
+- score: 21
+- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
 - keywords: being, god, soul
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Exodus 20:24
-- score: 25
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation
+- score: 31
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4
 - keywords: altar, name, peace, sacrifice, salvation
-- fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I name my name, there I will come to you and bless you."
+- fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ## Deuteronomy 1:31
-- score: 14
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord
+- score: 15
+- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=12
 - keywords: god, lord
 - fresh: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
 - brenton: and in this wilderness which ye saw, by the way of the mountain of the Amorite; how the Lord thy God will bear thee as a nursling, as if any man should nurse his child, through all the way which ye have gone until ye came to this place.
 
-## Deuteronomy 2:7
-- score: 14
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord
+## 1 Samuel 16:7
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=146
 - keywords: god, lord
-- fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
-- brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
+- fresh: And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
+- brenton: But the Lord said to Samuel, Look not on his appearance, nor on his stature, for I have rejected him; for God sees not as a man looks; for man looks at the outward appearance, but God looks at the heart.
 
-## Deuteronomy 4:24
-- score: 14
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord
-- keywords: god, lord
-- fresh: Because the Lord your God is a consuming fire, a jealous God.
-- brenton: For the Lord thy God is a consuming fire, a jealous God.
+## 1 Samuel 23:16
+- score: 16
+- reasons: decisions=1; footnotes=1; importance=high; keywords=lord; crossref_top_vote=205
+- keywords: lord
+- fresh: And Iōnathan son of Saoul rose and went to David into the New Place and strengthened his hands in the Lord.
+- brenton: And Jonathan son of Saul rose, and went to David to Cæne, and strengthened his hands in the Lord.
 
 ## Lamentations 1:15
-- score: 7
-- reasons: importance=medium; keywords=lord, virgin
+- score: 8
+- reasons: importance=medium; keywords=lord, virgin; crossref_top_vote=5
 - keywords: lord, virgin
 - fresh: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: [missing]
 
 ## Nahum 1:3
-- score: 5
-- reasons: importance=medium; keywords=lord
+- score: 6
+- reasons: importance=medium; keywords=lord; crossref_top_vote=16
 - keywords: lord
 - fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
-- brenton: [missing]
-
-## Nahum 1:12
-- score: 5
-- reasons: importance=medium; keywords=lord
-- keywords: lord
-- fresh: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
-- brenton: [missing]
-
-## Nahum 2:14
-- score: 5
-- reasons: importance=medium; keywords=lord
-- keywords: lord
-- fresh: Behold, I am against you, says Lord Almighty, and I will burn your multitude in smoke, and sword will devour your lions, and I will destroy your prey from earth, and your works will no longer be heard.
 - brenton: [missing]

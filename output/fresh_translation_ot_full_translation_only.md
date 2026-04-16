@@ -8440,7 +8440,7 @@ Then the Lord said to Moses, "These things you shall say to the house of Jacob, 
 
 **Exodus 20:24**
 
-"You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I name my name, there I will come to you and bless you."
+"You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 
 **Exodus 20:25**
 
@@ -44634,7 +44634,7 @@ And Dauid stood in midst of assembly and said, Hear me, my brothers and my peopl
 
 **1 Chronicles 28:3**
 
-But God said, You shall not build me house to have my name named upon it, because you are man of war and poured out blood.
+But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
 
 **1 Chronicles 28:4**
 
