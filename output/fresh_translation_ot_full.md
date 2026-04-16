@@ -12452,7 +12452,7 @@ Greek: εὐλογητὸς Κύριος ὁ Θεὸς τοῦ κυρίου μ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+Draft translation: Blessed be the Lord, the God of my lord Abraham, who has not withheld his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
 
 Decision rows:
 - greek_phrase: τὴν δικαιοσύνην αὐτοῦ καὶ τὴν ἀλήθειαν | lemma: δικαιοσύνη | ἀλήθεια | morphology: accusative singular noun pair | chosen_rendering: his righteousness and his truth | alternate_renderings: his justice and his faithfulness; his mercy and truth | rationale: Keeps the Greek noun pair visible instead of harmonizing to a more familiar traditional pairing. | status: drafted
@@ -32355,7 +32355,7 @@ Greek: ειπεν δε κυριος προς μωυσην τις εδωκεν σ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one speechless and deaf, seeing and blind? Is it not I, God?'
+Draft translation: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
 
 Decision rows:
 - greek_phrase: δυσκώφον καὶ κωφόν | lemma: δυσκώφος | κωφός | morphology: paired adjectives | chosen_rendering: speechless and deaf | alternate_renderings: hard of hearing and deaf; mute and deaf | rationale: The Greek pair is difficult and overlapping, so the draft preserves the bodily disability language without over-resolving it. | status: drafted
@@ -33279,7 +33279,7 @@ Greek: και ωφθην προς αβρααμ και ισαακ και ιακω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+Draft translation: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 
 Decision rows:
 - greek_phrase: τὸ ὄνομά μου κύριος οὐκ ἐδήλωσα αὐτοῖς | lemma: ὄνομα | κύριος | δηλόω | morphology: accusative phrase | chosen_rendering: my name Lord I did not make known to them | alternate_renderings: I did not reveal my name Lord to them | rationale: Preserves the tension of the Greek wording without prematurely solving the theological problem. | status: drafted
@@ -56101,7 +56101,7 @@ Greek: ψυχη εαν λαθη αυτον ληθη και αμαρτη ακου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+Draft translation: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 
 Decision rows:
 - greek_phrase: ψυχὴ ἐὰν λάθῃ αὐτὸν λήθη ... ἀπὸ τῶν ἁγίων κυρίου | lemma: ψυχή | λανθάνω | λήθη | ἅγιος | κύριος | morphology: conditional clause with cognate noun + genitive phrase | chosen_rendering: if a person slips in forgetfulness ... in the holy things of the Lord | alternate_renderings: if a person commits an oversight ... in the sacred things of the Lord | rationale: Keeps the cognate forgetfulness wording and the holy-things phrase explicit. | status: drafted
@@ -147675,7 +147675,7 @@ Greek: και εφαλειται επι σε πνευμα κυριου και π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Spirit of the Lord will leap upon you, and you will prophesy with them, and you will be turned into another man.
+Draft translation: And the Spirit of the Lord will rush upon you, and you will prophesy with them, and you will be turned into another man.
 
 Decision rows:
 - greek_phrase: πνεῦμα κυρίου | lemma: πνεῦμα | κύριος | morphology: nominative neuter singular noun + genitive noun | chosen_rendering: the Spirit of the Lord | alternate_renderings: the breath of the Lord; the wind of the Lord | rationale: Prophetic transformation context favors Spirit, while the dynamic verb preserves force. | status: drafted
@@ -172867,7 +172867,7 @@ Greek: και ωκοδομησεν εκει δαυιδ θυσιαστηριον 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and Solomon added upon the altar at the end, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+Draft translation: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 
 Decision rows:
 - greek_phrase: καὶ προσέθηκεν Σαλωμων ἐπὶ τὸ θυσιαστήριον | lemma: προστίθημι | Σαλωμων | morphology: aorist active indicative + proper noun | chosen_rendering: Solomon added upon the altar at the end | alternate_renderings: text uncertain; later expansion | rationale: Greek line contains an unexpected Solomon clause. Draft keeps the expansion visible instead of silently omitting it. | status: drafted
@@ -188579,7 +188579,7 @@ Greek: και εγενετο εν τω διαβηναι αυτους και ηλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let double things of your spirit now be upon me.
+Draft translation: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 
 Decision rows:
 - greek_phrase: διπλᾶ ἐν πνεύματί σου | lemma: διπλοῦς | πνεῦμα | morphology: adjective with dative noun | chosen_rendering: double things of your spirit | alternate_renderings: a double share of your spirit | rationale: The draft keeps the Greek doubling expression visible instead of resolving it immediately into the later inheritance idiom. | status: drafted

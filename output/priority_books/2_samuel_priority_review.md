@@ -35,5 +35,5 @@ Selected verses: 6
 ## 2 Samuel 24:25
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=altar, lord, peace
-- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and Solomon added upon the altar at the end, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.

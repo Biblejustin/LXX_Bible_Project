@@ -2526,7 +2526,7 @@ And the man, being well pleased, bowed to the Lord and said,
 
 **Genesis 24:27**
 
-Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+Blessed be the Lord, the God of my lord Abraham, who has not withheld his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
 
 **Genesis 24:28**
 
@@ -6556,7 +6556,7 @@ And Moses said to the Lord, 'I beg you, Lord, I have not been adequate before, n
 
 **Exodus 4:11**
 
-And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one speechless and deaf, seeing and blind? Is it not I, God?'
+And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
 
 **Exodus 4:12**
 
@@ -6744,7 +6744,7 @@ And God spoke to Moses and said to him, 'I am the Lord.'
 
 **Exodus 6:3**
 
-And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 
 **Exodus 6:4**
 
@@ -11372,7 +11372,7 @@ And the Lord spoke to Moses, saying,
 
 **Leviticus 5:15**
 
-If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 
 **Leviticus 5:16**
 
@@ -29938,7 +29938,7 @@ And after these things you will enter the hill of God, where the station of the 
 
 **1 Samuel 10:6**
 
-And the Spirit of the Lord will leap upon you, and you will prophesy with them, and you will be turned into another man.
+And the Spirit of the Lord will rush upon you, and you will prophesy with them, and you will be turned into another man.
 
 **1 Samuel 10:7**
 
@@ -35050,7 +35050,7 @@ And the king said to Orna, No, because in buying I will buy from you for a price
 
 **2 Samuel 24:25**
 
-And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and Solomon added upon the altar at the end, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 
 ## 1 Kings
 
@@ -38234,7 +38234,7 @@ And Elijah took his sheepskin cloak and rolled it up and struck the water, and t
 
 **2 Kings 2:9**
 
-And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let double things of your spirit now be upon me.
+And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 
 **2 Kings 2:10**
 

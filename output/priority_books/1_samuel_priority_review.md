@@ -11,7 +11,7 @@ Selected verses: 6
 ## 1 Samuel 10:6
 - score: 14
 - reasons: decisions=1; footnotes=1; importance=high; keywords=lord, spirit
-- fresh: And the Spirit of the Lord will leap upon you, and you will prophesy with them, and you will be turned into another man.
+- fresh: And the Spirit of the Lord will rush upon you, and you will prophesy with them, and you will be turned into another man.
 - brenton: And the Spirit of the Lord shall come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 
 ## 1 Samuel 12:17

@@ -5590,7 +5590,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+- fresh: Blessed be the Lord, the God of my lord Abraham, who has not withheld his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
 - brenton: and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.
 
 ### Genesis 24:28
@@ -14520,7 +14520,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one speechless and deaf, seeing and blind? Is it not I, God?'
+- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
 - brenton: And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?
 
 ### Exodus 4:12
@@ -14934,7 +14934,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ### Exodus 6:4
@@ -25169,7 +25169,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ### Leviticus 5:16
@@ -66248,7 +66248,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Spirit of the Lord will leap upon you, and you will prophesy with them, and you will be turned into another man.
+- fresh: And the Spirit of the Lord will rush upon you, and you will prophesy with them, and you will be turned into another man.
 - brenton: And the Spirit of the Lord shall come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 
 ### 1 Samuel 10:7
@@ -77545,7 +77545,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and Solomon added upon the altar at the end, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
 ## 1 Kings
@@ -84596,7 +84596,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let double things of your spirit now be upon me.
+- fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
 
 ### 2 Kings 2:10

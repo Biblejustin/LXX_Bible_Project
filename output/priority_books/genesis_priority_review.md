@@ -29,7 +29,7 @@ Selected verses: 6
 ## Genesis 24:27
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, righteousness, truth
-- fresh: Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+- fresh: Blessed be the Lord, the God of my lord Abraham, who has not withheld his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
 - brenton: and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.
 
 ## Genesis 32:10

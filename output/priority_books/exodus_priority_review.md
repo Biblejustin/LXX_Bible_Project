@@ -17,13 +17,13 @@ Selected verses: 6
 ## Exodus 4:11
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord
-- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one speechless and deaf, seeing and blind? Is it not I, God?'
+- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
 - brenton: And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?
 
 ## Exodus 6:3
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Exodus 20:24

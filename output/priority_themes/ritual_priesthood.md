@@ -51,7 +51,7 @@ Books: 31
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, sin, soul
 - keywords: holy, lord, sin, soul
-- fresh: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## Leviticus 18:21
@@ -149,7 +149,7 @@ Books: 31
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=altar, lord, peace
 - keywords: altar, lord, peace
-- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and Solomon added upon the altar at the end, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
 ## 1 Kings 2:35

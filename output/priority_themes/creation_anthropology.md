@@ -37,21 +37,21 @@ Books: 35
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord
 - keywords: being, god, lord
-- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one speechless and deaf, seeing and blind? Is it not I, God?'
+- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
 - brenton: And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?
 
 ## Exodus 6:3
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name
 - keywords: being, god, lord, name
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Leviticus 5:15
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, sin, soul
 - keywords: holy, lord, sin, soul
-- fresh: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## Leviticus 18:21
@@ -149,7 +149,7 @@ Books: 35
 - score: 14
 - reasons: decisions=1; footnotes=1; importance=high; keywords=lord, spirit
 - keywords: lord, spirit
-- fresh: And the Spirit of the Lord will leap upon you, and you will prophesy with them, and you will be turned into another man.
+- fresh: And the Spirit of the Lord will rush upon you, and you will prophesy with them, and you will be turned into another man.
 - brenton: And the Spirit of the Lord shall come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 
 ## 1 Samuel 20:42
@@ -184,7 +184,7 @@ Books: 35
 - score: 12
 - reasons: decisions=1; footnotes=1; importance=high; keywords=spirit
 - keywords: spirit
-- fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let double things of your spirit now be upon me.
+- fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
 
 ## 2 Kings 23:24

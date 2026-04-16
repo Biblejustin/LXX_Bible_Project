@@ -9,7 +9,7 @@ Books: 37
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, righteousness, truth
 - keywords: god, lord, righteousness, truth
-- fresh: Blessed be the Lord, the God of my lord Abraham, who has not forsaken his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
+- fresh: Blessed be the Lord, the God of my lord Abraham, who has not withheld his righteousness and his truth from my lord. And the Lord guided me well to the house of my lord's brother.
 - brenton: and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.
 
 ## Genesis 32:10
@@ -30,7 +30,7 @@ Books: 37
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name
 - keywords: being, god, lord, name
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name Lord I did not make known to them.
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Exodus 20:24
@@ -51,7 +51,7 @@ Books: 37
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, sin, soul
 - keywords: holy, lord, sin, soul
-- fresh: If a person slips in forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## Leviticus 18:21
