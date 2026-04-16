@@ -167,8 +167,8 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 624,
-  "footnote_rows": 532,
+  "decision_rows": 625,
+  "footnote_rows": 533,
   "variant_rows": 48,
   "decision_status_counts": {
     "todo": 0,
@@ -177,7 +177,7 @@
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 532,
+    "drafted": 533,
     "reviewed": 0
   },
   "chapters": [

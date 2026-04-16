@@ -1,5 +1,5 @@
 {
-  "families": 4,
+  "families": 5,
   "family_stats": [
     {
       "family": "name-there-formula",
@@ -32,9 +32,17 @@
       "dominant_bucket": "salvation",
       "dominant_count": "43",
       "bucket_summary": "salvation=43, peace=27, well-being=1"
+    },
+    {
+      "family": "into-living-soul-formula",
+      "description": "Predicate \u03b5\u1f30\u03c2 \u03c8\u03c5\u03c7\u1f74\u03bd \u03b6\u1ff6\u03c3\u03b1\u03bd / into a living soul, especially Genesis 2:7 and its NT echo.",
+      "row_count": "1",
+      "dominant_bucket": "living-soul",
+      "dominant_count": "1",
+      "bucket_summary": "living-soul=1"
     }
   ],
-  "row_count": 109,
+  "row_count": 110,
   "outlier_count": 31,
   "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
   "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",

@@ -18,6 +18,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.parse_args()
 
+    run_script("build_private_nt_english_witness_observations.py")
     run_script("build_priority_diff_review.py")
     run_script("build_priority_book_reviews.py")
     run_script("build_priority_theme_reviews.py")
@@ -57,6 +58,7 @@ def main() -> None:
                 "nt_idiom_review_csv": str(ROOT / "output" / "fresh_ot_nt_idiom_review.csv"),
                 "nt_idiom_outliers": str(ROOT / "output" / "fresh_ot_nt_idiom_outliers.md"),
                 "nt_idiom_outliers_csv": str(ROOT / "output" / "fresh_ot_nt_idiom_outliers.csv"),
+                "nt_english_witness_observations": str(ROOT / "data" / "research" / "local" / "witness_review" / "nt_english_witness_observations.csv"),
                 "crossref_clues": str(ROOT / "output" / "fresh_ot_crossref_clues.md"),
                 "crossref_clues_csv": str(ROOT / "output" / "fresh_ot_crossref_clues.csv"),
                 "crossref_watch": str(ROOT / "output" / "fresh_ot_crossref_watch.md"),

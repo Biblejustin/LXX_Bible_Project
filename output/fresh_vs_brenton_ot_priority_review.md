@@ -80,10 +80,14 @@ Use:
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ### Genesis 2:7
-- score: 21
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
+- score: 26
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- nt refs: 1 Corinthians 15:45
+- nt english witnesses: checked 3, support 2, soften 0, mixed 1
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing
 - crossref top vote: 41
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ### Genesis 18:19
@@ -117,9 +121,12 @@ Use:
 - brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
 
 ### Exodus 20:24
-- score: 31
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4
+- score: 33
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 43
 - crossref shared-family hits: 4
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
@@ -233,26 +240,12 @@ Use:
 
 ## Deuteronomy
 
-### Deuteronomy 1:31
-- score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=12
-- crossref top vote: 12
-- fresh: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
-- brenton: and in this wilderness which ye saw, by the way of the mountain of the Amorite; how the Lord thy God will bear thee as a nursling, as if any man should nurse his child, through all the way which ye have gone until ye came to this place.
-
 ### Deuteronomy 2:30
 - score: 19
 - reasons: decisions=1; footnotes=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8
 - crossref top vote: 8
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
-
-### Deuteronomy 3:24
-- score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=9
-- crossref top vote: 9
-- fresh: Lord, Lord, you began to show your servant your strength and your power and your mighty hand and your high arm. For what god is there in heaven or on earth who will do as you did and according to your strength?
-- brenton: Lord God, thou hast begun to shew to thy servant thy strength, and thy power, and thy mighty hand, and thy high arm: for what God is there in heaven or on the earth, who will do as thou hast done, and according to thy might?
 
 ### Deuteronomy 5:11
 - score: 18
@@ -261,19 +254,49 @@ Use:
 - fresh: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
 - brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
-### Deuteronomy 12:21
-- score: 16
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6
+### Deuteronomy 12:11
+- score: 17
+- reasons: importance=medium; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
+- crossref top vote: 5
+- crossref shared-family hits: 3
+- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
+- brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
+
+### Deuteronomy 12:21
+- score: 18
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 3
 - crossref shared-family hits: 6
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
-### Deuteronomy 16:2
-- score: 16
-- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2
+### Deuteronomy 12:26
+- score: 17
+- reasons: importance=low; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
+- crossref top vote: 4
+- crossref shared-family hits: 2
+- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
+- brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
+
+### Deuteronomy 16:2
+- score: 18
+- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 5
 - crossref shared-family hits: 2
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
@@ -632,10 +655,25 @@ Use:
 
 ## 2 Chronicles
 
-### 2 Chronicles 7:14
+### 2 Chronicles 6:20
 - score: 13
-- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297
+- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
+- crossref top vote: 5
+- crossref shared-family hits: 2
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+
+### 2 Chronicles 7:14
+- score: 15
+- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked 6, support 1, soften 3, mixed 2
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 297
 - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 - brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
@@ -648,12 +686,15 @@ Use:
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ### 2 Chronicles 12:13
-- score: 14
-- reasons: importance=medium; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3
+- score: 21
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 9, support 3, soften 3, mixed 3
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 5
 - crossref shared-family hits: 3
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ### 2 Chronicles 26:18
@@ -662,13 +703,6 @@ Use:
 - crossref top vote: 7
 - fresh: And they stood against Ozia the king and said to him, Not for you, Ozia, to burn incense to Lord, but for priests, sons of Aaron, those sanctified to burn incense. Go out from sanctuary, because you rebelled from Lord, and this shall not be for glory to you from Lord God.
 - brenton: And they withstood Ozias the king, and said to him, It is not for thee, Ozias, to burn incense to the Lord, but only for the priests the sons of Aaron, who are consecrated to sacrifice: go forth of the sanctuary, for thou hast departed from the Lord; and this shall not be for glory to thee from the Lord God.
-
-### 2 Chronicles 31:21
-- score: 13
-- reasons: importance=medium; keywords=god, law, lord, soul; crossref_top_vote=39
-- crossref top vote: 39
-- fresh: And in every work which he began in service in house of Lord and in law and in ordinances, he sought his God with all his soul and did it, and he prospered.
-- brenton: And in every work which he began in service in the house of the Lord, and in the law, and in the ordinances, he sought his God with all his soul, and wrought, and prospered.
 
 ### 2 Chronicles 33:16
 - score: 16
@@ -1083,6 +1117,17 @@ Use:
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
+### Jeremiah 7:11
+- score: 12
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked 15, support 4, soften 6, mixed 5
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
+- crossref top vote: 10
+- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- brenton: [missing]
+
 ### Jeremiah 9:23
 - score: 13
 - reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57
@@ -1091,18 +1136,24 @@ Use:
 - brenton: [missing]
 
 ### Jeremiah 14:9
-- score: 12
-- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1
+- score: 14
+- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked 6, support 1, soften 3, mixed 2
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 5
 - crossref shared-family hits: 1
 - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - brenton: [missing]
 
 ### Jeremiah 15:16
-- score: 13
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549
+- score: 15
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked 6, support 1, soften 3, mixed 2
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 549
 - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: [missing]
@@ -1112,13 +1163,6 @@ Use:
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23
 - crossref top vote: 23
 - fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: [missing]
-
-### Jeremiah 33:16
-- score: 12
-- reasons: importance=medium; keywords=god, judgment, lord, name; crossref_top_vote=11
-- crossref top vote: 11
-- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in name of Lord our God he spoke to us.
 - brenton: [missing]
 
 ## Lamentations
@@ -1336,8 +1380,11 @@ Use:
 
 ### Joel 3:5
 - score: 9
-- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4
+- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
 - nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
+- nt english witnesses: checked 12, support 12, soften 0, mixed 0
+- nt english recommendation: keep
+- nt english signals: literal_support
 - crossref top vote: 4
 - fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
 - brenton: [missing]
@@ -1380,9 +1427,12 @@ Use:
 - brenton: [missing]
 
 ### Amos 9:12
-- score: 13
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1
+- score: 15
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked 6, support 1, soften 3, mixed 2
+- nt english recommendation: keep
+- nt english signals: literal_support, smoothing, translation_tradition
 - crossref top vote: 7
 - crossref shared-family hits: 1
 - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
@@ -1728,8 +1778,11 @@ Use:
 
 ### Zechariah 13:9
 - score: 15
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
 - nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
+- nt english witnesses: checked 12, support 12, soften 0, mixed 0
+- nt english recommendation: keep
+- nt english signals: literal_support
 - crossref top vote: 132
 - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
 - brenton: [missing]

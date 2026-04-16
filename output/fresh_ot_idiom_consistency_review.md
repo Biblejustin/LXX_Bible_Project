@@ -2,8 +2,8 @@
 
 Repeated Greek idiom families. Use this to check whether one verse is drifting away from how the same formula is handled elsewhere.
 
-Families: 4
-Rows checked: 109
+Families: 5
+Rows checked: 110
 Outliers: 31
 
 ## Family Summary
@@ -253,3 +253,12 @@ Outliers: 31
   - fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
 - Psalms 49:23 [salvation]
   - fresh: Sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.
+
+### into-living-soul-formula
+- description: Predicate εἰς ψυχὴν ζῶσαν / into a living soul, especially Genesis 2:7 and its NT echo.
+- rows: 1
+- dominant bucket: `living-soul` (1)
+- buckets: living-soul=1
+
+- Genesis 2:7 [living-soul]
+  - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.

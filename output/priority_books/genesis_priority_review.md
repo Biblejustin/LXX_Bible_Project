@@ -27,9 +27,9 @@ Selected verses: 6
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ## Genesis 2:7
-- score: 21
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- score: 26
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Genesis 18:19

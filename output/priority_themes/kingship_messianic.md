@@ -6,8 +6,8 @@ Rows: 101
 Books: 34
 
 ## Exodus 20:24
-- score: 31
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4
+- score: 33
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: altar, name, peace, sacrifice, salvation
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
@@ -74,13 +74,6 @@ Books: 34
 - keywords: god, king, lord, spirit
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
-
-## Deuteronomy 3:24
-- score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=9
-- keywords: god, lord, servant
-- fresh: Lord, Lord, you began to show your servant your strength and your power and your mighty hand and your high arm. For what god is there in heaven or on earth who will do as you did and according to your strength?
-- brenton: Lord God, thou hast begun to shew to thy servant thy strength, and thy power, and thy mighty hand, and thy high arm: for what God is there in heaven or on the earth, who will do as thou hast done, and according to thy might?
 
 ## Joshua 22:5
 - score: 15
@@ -285,6 +278,13 @@ Books: 34
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
+## 2 Chronicles 6:20
+- score: 13
+- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- keywords: name, servant
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+
 ## 2 Chronicles 9:8
 - score: 15
 - reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness; crossref_top_vote=5
@@ -293,10 +293,10 @@ Books: 34
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Chronicles 12:13
-- score: 14
-- reasons: importance=medium; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3
+- score: 21
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: king, lord, name
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ## 2 Chronicles 26:18

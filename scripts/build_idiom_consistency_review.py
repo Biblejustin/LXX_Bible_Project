@@ -87,6 +87,17 @@ def classify_soteria_sacrifice(english: str) -> str:
     return "other"
 
 
+def classify_living_soul(english: str) -> str:
+    text = english.lower()
+    if "living soul" in text:
+        return "living-soul"
+    if "living being" in text:
+        return "living-being"
+    if "living creature" in text or "living creatures" in text:
+        return "living-creature"
+    return "other"
+
+
 FAMILIES = [
     {
         "name": "name-there-formula",
@@ -118,6 +129,12 @@ FAMILIES = [
         "match": lambda greek: "σωτηρι" in greek
         and any(token in greek for token in ("θυσ", "θυσε", "ολοκαυτ", "βωμ")),
         "classify": classify_soteria_sacrifice,
+    },
+    {
+        "name": "into-living-soul-formula",
+        "description": "Predicate εἰς ψυχὴν ζῶσαν / into a living soul, especially Genesis 2:7 and its NT echo.",
+        "match": lambda greek: re.search(r"ε[ἰι]ς.{0,20}ψυχ.{0,20}ζ[ωῶ]σ", greek) is not None,
+        "classify": classify_living_soul,
     },
 ]
 

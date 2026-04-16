@@ -158,7 +158,7 @@ But a spring was rising from the earth and watering the whole face of the ground
 
 **Genesis 2:7**
 
-And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 
 **Genesis 2:8**
 

@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 80
+Rows: 78
 Books: 34
 
 ## Genesis 18:19
@@ -167,8 +167,8 @@ Books: 34
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 7:14
-- score: 13
-- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297
+- score: 15
+- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: name, repent
 - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 - brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
@@ -179,13 +179,6 @@ Books: 34
 - keywords: god, judgment, justice, king, lord, righteousness
 - fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
-
-## 2 Chronicles 31:21
-- score: 13
-- reasons: importance=medium; keywords=god, law, lord, soul; crossref_top_vote=39
-- keywords: god, law, lord, soul
-- fresh: And in every work which he began in service in house of Lord and in law and in ordinances, he sought his God with all his soul and did it, and he prospered.
-- brenton: And in every work which he began in service in the house of the Lord, and in the law, and in the ordinances, he sought his God with all his soul, and wrought, and prospered.
 
 ## Ezra 7:6
 - score: 11
@@ -374,13 +367,6 @@ Books: 34
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23
 - keywords: judgment, king, lord, righteous, righteousness
 - fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: [missing]
-
-## Jeremiah 33:16
-- score: 12
-- reasons: importance=medium; keywords=god, judgment, lord, name; crossref_top_vote=11
-- keywords: god, judgment, lord, name
-- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in name of Lord our God he spoke to us.
 - brenton: [missing]
 
 ## Lamentations 2:9

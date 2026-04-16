@@ -8,6 +8,12 @@ Selected verses: 6
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
+## Jeremiah 7:11
+- score: 12
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- brenton: [missing]
+
 ## Jeremiah 9:23
 - score: 13
 - reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57
@@ -15,14 +21,14 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Jeremiah 14:9
-- score: 12
-- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1
+- score: 14
+- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - brenton: [missing]
 
 ## Jeremiah 15:16
-- score: 13
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549
+- score: 15
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: [missing]
 
@@ -30,10 +36,4 @@ Selected verses: 6
 - score: 14
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23
 - fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: [missing]
-
-## Jeremiah 33:16
-- score: 12
-- reasons: importance=medium; keywords=god, judgment, lord, name; crossref_top_vote=11
-- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in name of Lord our God he spoke to us.
 - brenton: [missing]

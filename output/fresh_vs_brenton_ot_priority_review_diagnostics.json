@@ -3,7 +3,8 @@
   "selected_rows": 234,
   "per_book_limit": 6,
   "min_score": 4,
-  "rows_with_nt_parallels": 10,
+  "rows_with_nt_parallels": 15,
+  "rows_with_nt_english_signal": 15,
   "rows_with_crossref_signal": 232,
   "rows_with_english_witness_signal": 0,
   "books": [

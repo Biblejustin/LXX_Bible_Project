@@ -34,6 +34,6 @@ Selected verses: 6
 
 ## Joel 3:5
 - score: 9
-- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4
+- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
 - fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
 - brenton: [missing]

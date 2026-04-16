@@ -33,7 +33,7 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 9:12
-- score: 13
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1
+- score: 15
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
 - brenton: [missing]

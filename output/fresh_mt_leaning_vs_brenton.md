@@ -20,6 +20,15 @@ Rows: 407
 - mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 - brenton: And these are the last words of David.
 
+## 2 Chronicles 6:20
+- priority: `13`
+- importance: `low`
+- fresh_mt_ratio: `0.846`
+- fresh_brenton_ratio: `0.127`
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+
 ## Ruth 2:12
 - priority: `8`
 - importance: `low`
@@ -154,15 +163,6 @@ Rows: 407
 - fresh: And Joseph, seeing that his father laid his right hand on Ephraim's head, it seemed grievous to him, and Joseph took hold of his father's hand to remove it from Ephraim's head onto Manasseh's head.
 - mt: And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head.
 - brenton: And Joseph having seen that his father put his right hand on the head of Ephraim—it seemed grievous to him; and Joseph took hold of the hand of his father, to remove it from the head of Ephraim to the head of Manasse.
-
-## 2 Chronicles 6:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.846`
-- fresh_brenton_ratio: `0.127`
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
-- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ## Ruth 1:16
 - priority: `0`

@@ -358,10 +358,10 @@ Note:
 ### Genesis 2:7
 
 - importance: high
-- decisions: 2
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ### Genesis 2:8

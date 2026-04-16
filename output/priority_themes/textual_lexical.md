@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 11
-Books: 6
+Rows: 10
+Books: 5
 
 ## Genesis 1:1
 - score: 19
@@ -34,25 +34,18 @@ Books: 6
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ## Genesis 2:7
-- score: 21
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
-- keywords: being, god, soul
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- score: 26
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- keywords: god, soul
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Exodus 20:24
-- score: 31
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4
+- score: 33
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: altar, name, peace, sacrifice, salvation
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
-
-## Deuteronomy 1:31
-- score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=12
-- keywords: god, lord
-- fresh: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
-- brenton: and in this wilderness which ye saw, by the way of the mountain of the Amorite; how the Lord thy God will bear thee as a nursling, as if any man should nurse his child, through all the way which ye have gone until ye came to this place.
 
 ## 1 Samuel 16:7
 - score: 18

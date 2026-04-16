@@ -134,6 +134,7 @@ This rebuilds:
 - `output/fresh_ot_nt_idiom_outliers.md`
 - `output/fresh_ot_crossref_clues.md`
 - `output/fresh_ot_crossref_watch.md`
+- `data/research/local/witness_review/nt_english_witness_observations.csv`
 - `output/fresh_ot_english_witness_review.md`
 - `output/fresh_ot_english_witness_watch.md`
 - `output/fresh_ot_proper_name_watch.md`
@@ -160,6 +161,20 @@ This writes:
 - `data/research/local/witness_review/english_witness_observations_README.md`
 
 Use short alignment notes only.
+Do not store long copyrighted text.
+
+Private NT English witness worksheet for LSB / ESV / KJV:
+
+```bash
+python3 scripts/build_private_nt_english_witness_observations.py
+```
+
+This writes:
+
+- `data/research/local/witness_review/nt_english_witness_observations.csv`
+- `data/research/local/witness_review/nt_english_witness_observations_README.md`
+
+Use this to record whether NT English witnesses preserve or smooth the Greek idiom-family behind OT rows with NT reuse or NT-linked wording.
 Do not store long copyrighted text.
 
 Proper-name watch:

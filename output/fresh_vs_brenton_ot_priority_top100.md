@@ -4,8 +4,8 @@ Rows: 100
 
 ## Exodus 20:24
 - book: Exodus
-- score: 31
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4
+- score: 33
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
@@ -16,6 +16,13 @@ Rows: 100
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
+## Genesis 2:7
+- book: Genesis
+- score: 26
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
 ## 1 Kings 12:24
 - book: 1 Kings
 - score: 22
@@ -23,19 +30,19 @@ Rows: 100
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
+## 2 Chronicles 12:13
+- book: 2 Chronicles
+- score: 21
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
+- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
+
 ## Genesis 1:2
 - book: Genesis
 - score: 21
 - reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
-
-## Genesis 2:7
-- book: Genesis
-- score: 21
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
-- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Leviticus 3:1
 - book: Leviticus
@@ -163,6 +170,20 @@ Rows: 100
 - fresh: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
 
+## Deuteronomy 12:21
+- book: Deuteronomy
+- score: 18
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
+- brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
+
+## Deuteronomy 16:2
+- book: Deuteronomy
+- score: 18
+- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
+- brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
+
 ## Deuteronomy 5:11
 - book: Deuteronomy
 - score: 18
@@ -232,6 +253,20 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant; crossref_top_vote=5
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
+
+## Deuteronomy 12:11
+- book: Deuteronomy
+- score: 17
+- reasons: importance=medium; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
+- brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
+
+## Deuteronomy 12:26
+- book: Deuteronomy
+- score: 17
+- reasons: importance=low; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
+- brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
 
 ## Numbers 12:8
 - book: Numbers
@@ -317,27 +352,6 @@ Rows: 100
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. Gods of nations have no power in themselves to turn kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: [missing]
 
-## Deuteronomy 12:21
-- book: Deuteronomy
-- score: 16
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6
-- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
-- brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
-
-## Deuteronomy 16:2
-- book: Deuteronomy
-- score: 16
-- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2
-- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
-- brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
-
-## Deuteronomy 3:24
-- book: Deuteronomy
-- score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=9
-- fresh: Lord, Lord, you began to show your servant your strength and your power and your mighty hand and your high arm. For what god is there in heaven or on earth who will do as you did and according to your strength?
-- brenton: Lord God, thou hast begun to shew to thy servant thy strength, and thy power, and thy mighty hand, and thy high arm: for what God is there in heaven or on the earth, who will do as thou hast done, and according to thy might?
-
 ## Isaiah 54:10
 - book: Isaiah
 - score: 16
@@ -358,6 +372,13 @@ Rows: 100
 - reasons: importance=medium; keywords=anointed, holy, judgment, justice, lord, righteousness; crossref_top_vote=9
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
+
+## 2 Chronicles 7:14
+- book: 2 Chronicles
+- score: 15
+- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
+- brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
 
 ## 2 Chronicles 9:8
 - book: 2 Chronicles
@@ -380,12 +401,12 @@ Rows: 100
 - fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
 
-## Deuteronomy 1:31
-- book: Deuteronomy
+## Amos 9:12
+- book: Amos
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=12
-- fresh: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
-- brenton: and in this wilderness which ye saw, by the way of the mountain of the Amorite; how the Lord thy God will bear thee as a nursling, as if any man should nurse his child, through all the way which ye have gone until ye came to this place.
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
+- brenton: [missing]
 
 ## Isaiah 12:2
 - book: Isaiah
@@ -399,6 +420,13 @@ Rows: 100
 - score: 15
 - reasons: importance=medium; keywords=covenant, lord, seed, spirit; crossref_top_vote=320
 - fresh: And this covenant from me with them, said Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said Lord, from now and forever.
+- brenton: [missing]
+
+## Jeremiah 15:16
+- book: Jeremiah
+- score: 15
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: [missing]
 
 ## Joshua 22:29
@@ -439,16 +467,9 @@ Rows: 100
 ## Zechariah 13:9
 - book: Zechariah
 - score: 15
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
 - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
 - brenton: [missing]
-
-## 2 Chronicles 12:13
-- book: 2 Chronicles
-- score: 14
-- reasons: importance=medium; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
-- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ## Isaiah 44:2
 - book: Isaiah
@@ -469,6 +490,13 @@ Rows: 100
 - score: 14
 - reasons: importance=low; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177
 - fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
+- brenton: [missing]
+
+## Jeremiah 14:9
+- book: Jeremiah
+- score: 14
+- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - brenton: [missing]
 
 ## Jeremiah 23:5
@@ -534,19 +562,12 @@ Rows: 100
 - fresh: And they stood against Ozia the king and said to him, Not for you, Ozia, to burn incense to Lord, but for priests, sons of Aaron, those sanctified to burn incense. Go out from sanctuary, because you rebelled from Lord, and this shall not be for glory to you from Lord God.
 - brenton: And they withstood Ozias the king, and said to him, It is not for thee, Ozias, to burn incense to the Lord, but only for the priests the sons of Aaron, who are consecrated to sacrifice: go forth of the sanctuary, for thou hast departed from the Lord; and this shall not be for glory to thee from the Lord God.
 
-## 2 Chronicles 31:21
+## 2 Chronicles 6:20
 - book: 2 Chronicles
 - score: 13
-- reasons: importance=medium; keywords=god, law, lord, soul; crossref_top_vote=39
-- fresh: And in every work which he began in service in house of Lord and in law and in ordinances, he sought his God with all his soul and did it, and he prospered.
-- brenton: And in every work which he began in service in the house of the Lord, and in the law, and in the ordinances, he sought his God with all his soul, and wrought, and prospered.
-
-## 2 Chronicles 7:14
-- book: 2 Chronicles
-- score: 13
-- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297
-- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
-- brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
+- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ## 2 Kings 23:24
 - book: 2 Kings
@@ -569,25 +590,11 @@ Rows: 100
 - fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
-## Amos 9:12
-- book: Amos
-- score: 13
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1
-- fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
-- brenton: [missing]
-
 ## Daniel 9:4
 - book: Daniel
 - score: 13
 - reasons: importance=medium; keywords=covenant, god, lord, mercy; crossref_top_vote=26
 - fresh: And I prayed to Lord God and confessed and said, Behold, Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
-- brenton: [missing]
-
-## Jeremiah 15:16
-- book: Jeremiah
-- score: 13
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549
-- fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: [missing]
 
 ## Jeremiah 4:2
@@ -693,11 +700,4 @@ Rows: 100
 - score: 12
 - reasons: importance=medium; keywords=being, god, holy, king; crossref_top_vote=4
 - fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on face of whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste house of living God because of sins of his consecrated people.
-- brenton: [missing]
-
-## Daniel 4:33
-- book: Daniel
-- score: 12
-- reasons: importance=medium; keywords=god, king, lord, soul; crossref_top_vote=3
-- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before Lord God of heaven, and concerning my ignorances I prayed to God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
 - brenton: [missing]

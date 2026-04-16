@@ -2,9 +2,15 @@
 
 Selected verses: 6
 
-## 2 Chronicles 7:14
+## 2 Chronicles 6:20
 - score: 13
-- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297
+- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+
+## 2 Chronicles 7:14
+- score: 15
+- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 - brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
 
@@ -15,9 +21,9 @@ Selected verses: 6
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Chronicles 12:13
-- score: 14
-- reasons: importance=medium; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+- score: 21
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ## 2 Chronicles 26:18
@@ -25,12 +31,6 @@ Selected verses: 6
 - reasons: importance=low; keywords=glory, god, king, lord, sacrifice; crossref_top_vote=7
 - fresh: And they stood against Ozia the king and said to him, Not for you, Ozia, to burn incense to Lord, but for priests, sons of Aaron, those sanctified to burn incense. Go out from sanctuary, because you rebelled from Lord, and this shall not be for glory to you from Lord God.
 - brenton: And they withstood Ozias the king, and said to him, It is not for thee, Ozias, to burn incense to the Lord, but only for the priests the sons of Aaron, who are consecrated to sacrifice: go forth of the sanctuary, for thou hast departed from the Lord; and this shall not be for glory to thee from the Lord God.
-
-## 2 Chronicles 31:21
-- score: 13
-- reasons: importance=medium; keywords=god, law, lord, soul; crossref_top_vote=39
-- fresh: And in every work which he began in service in house of Lord and in law and in ordinances, he sought his God with all his soul and did it, and he prospered.
-- brenton: And in every work which he began in service in the house of the Lord, and in the law, and in the ordinances, he sought his God with all his soul, and wrought, and prospered.
 
 ## 2 Chronicles 33:16
 - score: 16

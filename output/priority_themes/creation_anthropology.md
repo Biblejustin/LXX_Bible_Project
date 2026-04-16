@@ -2,8 +2,8 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 68
-Books: 32
+Rows: 67
+Books: 31
 
 ## Genesis 1:2
 - score: 21
@@ -27,10 +27,10 @@ Books: 32
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ## Genesis 2:7
-- score: 21
-- reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul; crossref_top_vote=41
-- keywords: being, god, soul
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
+- score: 26
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- keywords: god, soul
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Exodus 3:2
@@ -76,8 +76,8 @@ Books: 32
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
 ## Deuteronomy 12:21
-- score: 16
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6
+- score: 18
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: god, lord, name, soul
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
@@ -193,13 +193,6 @@ Books: 32
 - keywords: god, lord, soul
 - fresh: And now, Salomon my son, know God of your fathers and serve him with complete heart and willing soul, because Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end.
 - brenton: And now, my son Solomon, know the God of thy fathers, and serve him with a perfect heart and willing soul: for the Lord searches all hearts, and knows every thought: if thou seek him, he will be found of thee; but if thou shouldest forsake him, he will forsake thee for ever.
-
-## 2 Chronicles 31:21
-- score: 13
-- reasons: importance=medium; keywords=god, law, lord, soul; crossref_top_vote=39
-- keywords: god, law, lord, soul
-- fresh: And in every work which he began in service in house of Lord and in law and in ordinances, he sought his God with all his soul and did it, and he prospered.
-- brenton: And in every work which he began in service in the house of the Lord, and in the law, and in the ordinances, he sought his God with all his soul, and wrought, and prospered.
 
 ## Ezra 1:1
 - score: 10

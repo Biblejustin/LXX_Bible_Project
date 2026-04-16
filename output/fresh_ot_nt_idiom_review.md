@@ -1,6 +1,6 @@
 # Fresh OT NT Idiom Review
 
-Rows: 38
+Rows: 39
 
 ## 1 Kings 8:43
 - family: `call-on-name-formula`
@@ -10,6 +10,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## 1 Kings 18:24
 - family: `call-on-name-formula`
@@ -19,6 +21,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## 1 Kings 18:25
 - family: `call-on-name-formula`
@@ -28,6 +32,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## 2 Chronicles 6:33
 - family: `call-on-name-formula`
@@ -37,6 +43,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## 2 Kings 5:11
 - family: `call-on-name-formula`
@@ -46,6 +54,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## 2 Samuel 20:1
 - family: `call-on-name-formula`
@@ -55,6 +65,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Isaiah 64:6
 - family: `call-on-name-formula`
@@ -64,6 +76,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Joel 3:5
 - family: `call-on-name-formula`
@@ -73,6 +87,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Psalms 74:2
 - family: `call-on-name-formula`
@@ -82,6 +98,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Psalms 79:19
 - family: `call-on-name-formula`
@@ -91,6 +109,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Psalms 98:6
 - family: `call-on-name-formula`
@@ -100,6 +120,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Psalms 115:4
 - family: `call-on-name-formula`
@@ -109,6 +131,8 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
 
 ## Zechariah 13:9
 - family: `call-on-name-formula`
@@ -118,6 +142,19 @@ Rows: 38
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
+- NT English witnesses: checked `12`, support `12`, soften `0`, mixed `0`
+- NT English recommendation: `keep`
+
+## Genesis 2:7
+- family: `into-living-soul-formula`
+- dominant bucket: `living-soul`
+- current bucket: `living-soul`
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- NT refs: 1 Corinthians 15:45
+- NT Greek: 1 Corinthians 15:45: ἐγένετο ὁ πρῶτος ἄνθρωπος Αδαμ εἰς ψυχὴν ζῶσαν
+- NT gloss: 1 Corinthians 15:45: became / the first / human / Adam / into / living / soul
+- NT English witnesses: checked `3`, support `2`, soften `0`, mixed `1`
+- NT English recommendation: `keep`
 
 ## 2 Chronicles 6:20
 - family: `name-there-formula`
@@ -127,6 +164,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## 2 Chronicles 12:13
 - family: `name-there-formula`
@@ -136,6 +175,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 12:5
 - family: `name-there-formula`
@@ -145,6 +186,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 12:11
 - family: `name-there-formula`
@@ -154,6 +197,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 12:21
 - family: `name-there-formula`
@@ -163,6 +208,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 12:26
 - family: `name-there-formula`
@@ -172,6 +219,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 14:23
 - family: `name-there-formula`
@@ -181,6 +230,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 14:24
 - family: `name-there-formula`
@@ -190,6 +241,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 16:2
 - family: `name-there-formula`
@@ -199,6 +252,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 16:6
 - family: `name-there-formula`
@@ -208,6 +263,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 16:11
 - family: `name-there-formula`
@@ -217,6 +274,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 17:8
 - family: `name-there-formula`
@@ -226,6 +285,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 17:10
 - family: `name-there-formula`
@@ -235,6 +296,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Deuteronomy 26:2
 - family: `name-there-formula`
@@ -244,6 +307,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Exodus 20:24
 - family: `name-there-formula`
@@ -253,6 +318,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## Jeremiah 7:11
 - family: `name-there-formula`
@@ -262,6 +329,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
+- NT English witnesses: checked `9`, support `3`, soften `3`, mixed `3`
+- NT English recommendation: `keep`
 
 ## 1 Chronicles 28:3
 - family: `name-upon-formula`
@@ -271,6 +340,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## 2 Chronicles 7:14
 - family: `name-upon-formula`
@@ -280,6 +351,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Amos 9:12
 - family: `name-upon-formula`
@@ -289,6 +362,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 7:10
 - family: `name-upon-formula`
@@ -298,6 +373,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 7:11
 - family: `name-upon-formula`
@@ -307,6 +384,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 7:14
 - family: `name-upon-formula`
@@ -316,6 +395,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 7:30
 - family: `name-upon-formula`
@@ -325,6 +406,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 14:9
 - family: `name-upon-formula`
@@ -334,6 +417,8 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`
 
 ## Jeremiah 15:16
 - family: `name-upon-formula`
@@ -343,3 +428,5 @@ Rows: 38
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
+- NT English witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- NT English recommendation: `keep`

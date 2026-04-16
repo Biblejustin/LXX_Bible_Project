@@ -49,6 +49,8 @@ def build_md(title: str, rows: list[dict[str, str]], intro: list[str]) -> str:
                 f"- importance: `{row.get('importance', 'none')}`",
                 f"- reason: {row.get('gate_reason', '[none]')}",
                 f"- nt refs: {row.get('nt_parallel_refs', '[none]') or '[none]'}",
+                f"- nt english witnesses: checked `{row.get('nt_english_checked', '0')}`, support `{row.get('nt_english_support_family', '0')}`, soften `{row.get('nt_english_softens_family', '0')}`, mixed `{row.get('nt_english_mixed', '0')}`",
+                f"- nt english recommendation: `{row.get('nt_english_recommendation', '') or 'none'}`",
                 f"- english witnesses: checked `{row.get('english_witness_checked', '0')}`, fresh `{row.get('english_witness_fresh_support', '0')}`, brenton `{row.get('english_witness_brenton_support', '0')}`, mt `{row.get('english_witness_mt_support', '0')}`",
                 f"- english witness recommendation: `{row.get('english_witness_recommendation', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
@@ -71,6 +73,8 @@ def main() -> None:
         decisions = int(row.get("decision_count") or 0)
         footnotes = int(row.get("footnote_count") or 0)
         nt_count = int(row.get("nt_parallel_count") or 0)
+        nt_english_checked = int(row.get("nt_english_checked") or 0)
+        nt_english_reco = row.get("nt_english_recommendation", "")
         english_checked = int(row.get("english_witness_checked") or 0)
         english_reco = row.get("english_witness_recommendation", "")
         importance = row.get("importance", "none")
@@ -85,6 +89,10 @@ def main() -> None:
             reasons.append(f"footnotes={footnotes}")
         if nt_count > 0:
             reasons.append(f"nt={nt_count}")
+        if nt_english_checked > 0:
+            reasons.append(f"nt_eng={nt_english_checked}")
+        if nt_english_reco:
+            reasons.append(f"nt_eng_reco={nt_english_reco}")
         if english_checked > 0:
             reasons.append(f"eng={english_checked}")
         if english_reco:
@@ -100,15 +108,23 @@ def main() -> None:
             phase1_reasons.append("high+tracked")
         if nt_count > 0 and score >= 14:
             phase1_reasons.append("nt+score>=14")
+        if nt_english_checked > 0 and nt_english_reco in {"revise", "needs_logos"}:
+            phase1_reasons.append(f"nt_eng={nt_english_reco}")
         if english_checked > 0 and english_reco in {"revise", "needs_logos"}:
             phase1_reasons.append(f"eng={english_reco}")
         if phase1_reasons:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(phase1_reasons)
             phase1_rows.append(enriched)
-        if nt_count > 0 and score >= 10:
+        if (nt_count > 0 or nt_english_checked > 0) and score >= 10:
             enriched = dict(row)
-            enriched["gate_reason"] = f"nt={nt_count}; score={score}"
+            parts = []
+            if nt_count > 0:
+                parts.append(f"nt={nt_count}")
+            if nt_english_checked > 0:
+                parts.append(f"nt_eng={nt_english_checked}")
+            parts.append(f"score={score}")
+            enriched["gate_reason"] = "; ".join(parts)
             nt_watch_rows.append(enriched)
 
     mt_watch_rows: list[dict[str, str]] = []
