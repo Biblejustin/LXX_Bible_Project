@@ -1,12 +1,12 @@
 {
   "verse_rows": 23351,
   "verses_with_greek_text": 23351,
-  "verses_with_draft_translation": 13594,
+  "verses_with_draft_translation": 23351,
   "selected_scope": "Genesis-Malachi (39 books)",
   "selected_verse_rows": 23351,
-  "selected_drafted_rows": 13594,
+  "selected_drafted_rows": 23351,
   "output_verse_rows": 23351,
-  "output_drafted_rows": 13594,
+  "output_drafted_rows": 23351,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -79,91 +79,91 @@
     },
     "Job": {
       "verse_rows": 1069,
-      "drafted_rows": 486
+      "drafted_rows": 1069
     },
     "Psalms": {
       "verse_rows": 2526,
-      "drafted_rows": 0
+      "drafted_rows": 2526
     },
     "Proverbs": {
       "verse_rows": 912,
-      "drafted_rows": 0
+      "drafted_rows": 912
     },
     "Ecclesiastes": {
       "verse_rows": 222,
-      "drafted_rows": 0
+      "drafted_rows": 222
     },
     "Song of Solomon": {
       "verse_rows": 117,
-      "drafted_rows": 0
+      "drafted_rows": 117
     },
     "Isaiah": {
       "verse_rows": 1289,
-      "drafted_rows": 0
+      "drafted_rows": 1289
     },
     "Jeremiah": {
       "verse_rows": 1299,
-      "drafted_rows": 0
+      "drafted_rows": 1299
     },
     "Lamentations": {
       "verse_rows": 151,
-      "drafted_rows": 0
+      "drafted_rows": 151
     },
     "Ezekiel": {
       "verse_rows": 1267,
-      "drafted_rows": 0
+      "drafted_rows": 1267
     },
     "Daniel": {
       "verse_rows": 341,
-      "drafted_rows": 0
+      "drafted_rows": 341
     },
     "Hosea": {
       "verse_rows": 197,
-      "drafted_rows": 0
+      "drafted_rows": 197
     },
     "Joel": {
       "verse_rows": 73,
-      "drafted_rows": 0
+      "drafted_rows": 73
     },
     "Amos": {
       "verse_rows": 146,
-      "drafted_rows": 0
+      "drafted_rows": 146
     },
     "Obadiah": {
       "verse_rows": 21,
-      "drafted_rows": 0
+      "drafted_rows": 21
     },
     "Jonah": {
       "verse_rows": 48,
-      "drafted_rows": 0
+      "drafted_rows": 48
     },
     "Micah": {
       "verse_rows": 105,
-      "drafted_rows": 0
+      "drafted_rows": 105
     },
     "Nahum": {
       "verse_rows": 47,
-      "drafted_rows": 0
+      "drafted_rows": 47
     },
     "Habakkuk": {
       "verse_rows": 56,
-      "drafted_rows": 0
+      "drafted_rows": 56
     },
     "Zephaniah": {
       "verse_rows": 53,
-      "drafted_rows": 0
+      "drafted_rows": 53
     },
     "Haggai": {
       "verse_rows": 38,
-      "drafted_rows": 0
+      "drafted_rows": 38
     },
     "Zechariah": {
       "verse_rows": 211,
-      "drafted_rows": 0
+      "drafted_rows": 211
     },
     "Malachi": {
       "verse_rows": 55,
-      "drafted_rows": 0
+      "drafted_rows": 55
     }
   },
   "logos_note_rows": 36,
