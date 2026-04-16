@@ -176,6 +176,24 @@ This writes:
 
 Use this for normalizing Greekized OT names toward familiar MT-based English forms, while keeping meaning notes in notes rather than main-text spellings.
 
+Apply approved proper-name normalizations:
+
+```bash
+python3 scripts/apply_proper_name_decisions.py --dry-run
+python3 scripts/apply_proper_name_decisions.py --rebuild-watch
+python3 scripts/apply_proper_name_decisions.py --forms "Ierousalem,Roboam" --rebuild-watch
+python3 scripts/apply_proper_name_decisions.py --checkpoint
+```
+
+This reads:
+
+- `data/research/local/proper_name_review/proper_name_candidates.csv`
+
+And writes private summaries:
+
+- `data/research/local/proper_name_review/last_apply_summary.json`
+- `data/research/local/proper_name_review/last_apply_summary.md`
+
 Apply witness decisions back into source:
 
 ```bash
