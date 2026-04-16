@@ -116,6 +116,8 @@ This rebuilds:
 - `output/priority_books/index.md`
 - `output/fresh_vs_brenton_ot_theme_overview.md`
 - `output/priority_themes/index.md`
+- `output/fresh_vs_brenton_ot_review_queue.csv`
+- `output/fresh_vs_brenton_ot_review_queue.md`
 
 Recommended rhythm:
 

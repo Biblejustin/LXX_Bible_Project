@@ -21,6 +21,7 @@ def main() -> None:
     run_script("build_priority_diff_review.py")
     run_script("build_priority_book_reviews.py")
     run_script("build_priority_theme_reviews.py")
+    run_script("build_priority_review_queue.py")
 
     print(
         json.dumps(
@@ -30,6 +31,8 @@ def main() -> None:
                 "theme_overview": str(ROOT / "output" / "fresh_vs_brenton_ot_theme_overview.md"),
                 "theme_index": str(ROOT / "output" / "priority_themes" / "index.md"),
                 "book_index": str(ROOT / "output" / "priority_books" / "index.md"),
+                "review_queue": str(ROOT / "output" / "fresh_vs_brenton_ot_review_queue.csv"),
+                "review_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_review_queue.md"),
             },
             indent=2,
         )
