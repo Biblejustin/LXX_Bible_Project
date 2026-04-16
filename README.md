@@ -70,6 +70,23 @@ python3 scripts/build_fresh_vs_brenton_compare.py \
   --diagnostics output/working/exodus_32_34_compare_diagnostics.json
 ```
 
+One-command scoped review pack:
+
+```bash
+python3 scripts/run_translation_review.py \
+  --book Deuteronomy \
+  --chapter-start 3 \
+  --chapter-end 5 \
+  --min-importance medium
+```
+
+This writes:
+
+- `output/working/deuteronomy_3_5.md`
+- `output/working/deuteronomy_3_5_translation_only.md`
+- `output/working/deuteronomy_3_5_compare.md`
+- `output/working/deuteronomy_3_5_compare.csv`
+
 Recommended rhythm:
 
 - draft in `data/raw/lxx_greek/ot_full.csv`

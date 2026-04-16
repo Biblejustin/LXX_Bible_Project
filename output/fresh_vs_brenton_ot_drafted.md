@@ -2,19 +2,19 @@
 
 Selected scope: Genesis-Malachi (39 books)
 Selected verse rows: 23351
-Selected drafted rows: 3936
+Selected drafted rows: 4923
 Minimum importance: none
-Output compare rows: 3936
+Output compare rows: 4923
 
-Drafted rows compared: 3936
-Books with drafts: Exodus, Genesis, Leviticus, Numbers
+Drafted rows compared: 4923
+Books with drafts: Deuteronomy, Exodus, Genesis, Leviticus, Numbers
 Missing Brenton rows: 0
 
 Importance counts:
-- high: 462
-- medium: 610
-- low: 2771
-- none: 93
+- high: 520
+- medium: 797
+- low: 3491
+- none: 115
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -35451,3 +35451,8888 @@ Note:
 - same_normalized: no
 - fresh: Because at the Lord's command they would set out, and at the Lord's command they would camp. They kept the charge of the Lord by Moses' hand.
 - brenton: For they shall depart by the command of the Lord:—they kept the charge of the Lord by the command of the Lord by the hand of Moses.
+
+### Numbers 10:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 10:2
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: Make for yourself two silver trumpets; you shall make them hammered, and they shall be for you for calling the congregation and for breaking camp.
+- brenton: Make to thyself two silver trumpets: thou shalt make them of beaten work; and they shall be to thee for the purpose of calling the assembly, and of removing the camps.
+
+### Numbers 10:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall blow with them, and the whole congregation shall gather to the door of the tent of testimony.
+- brenton: And thou shalt sound with them, and all the congregation shall be gathered to the door of the tabernacle of witness.
+
+### Numbers 10:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if they blow with one, all the chiefs, the leaders of Israel, shall come near to you.
+- brenton: And if they shall sound with one, all the rulers even the princes of Israel shall come to thee.
+
+### Numbers 10:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall blow a signal, and the camps camping to the east shall set out.
+- brenton: And ye shall sound an alarm, and the camps pitched eastward shall begin to move.
+
+### Numbers 10:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall blow a second signal, and the camps camping to the south shall set out. And you shall blow a third signal, and the camps camping by the sea shall set out. And you shall blow a fourth signal, and the camps camping to the north shall set out. They shall blow a signal when they set out.
+- brenton: And ye shall sound a second alarm, and the camps pitched southward shall move; and ye shall sound a third alarm, and the camps pitched westward shall move forward; and ye shall sound a fourth alarm, and they that encamp toward the north shall move forward: they shall sound an alarm at their departure.
+
+### Numbers 10:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when you gather the congregation, you shall blow, but not a signal.
+- brenton: And whenever ye shall gather the assembly, ye shall sound, but not an alarm.
+
+### Numbers 10:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations.
+- brenton: And the priests the sons of Aaron shall sound with the trumpets; and it shall be a perpetual ordinance for you throughout your generations.
+
+### Numbers 10:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you go out to war in your land against the adversaries standing against you, then you shall signal with the trumpets, and you shall be remembered before the Lord and be saved from your enemies.
+- brenton: And if ye shall go forth to war in your land against your enemies that are opposed to you, then shall ye sound with the trumpets; and ye shall be had in remembrance before the Lord, and ye shall be saved from your enemies.
+
+### Numbers 10:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
+- brenton: And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.
+
+### Numbers 10:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in the second year, in the second month, on the twentieth day of the month, that the cloud went up from the tent of testimony.
+- brenton: And it came to pass in the second year, in the second month, on the twentieth day of the month, the cloud went up from the tabernacle of witness.
+
+### Numbers 10:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel set out by their stages in the wilderness of Sinai, and the cloud stood in the wilderness of Paran.
+- brenton: And the children of Israel set forward with their baggage in the wilderness of Sina; and the cloud rested in the wilderness of Pharan.
+
+### Numbers 10:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out first by the word of the Lord by Moses' hand.
+- brenton: And the first rank departed by the word of the Lord by the hand of Moses.
+
+### Numbers 10:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the order of the camp of the sons of Judah set out first with their strength, and over their strength was Nahshon son of Amminadab.
+- brenton: And they first set in motion the order of the camp of the children of Juda with their host; and over their host was Naasson, son of Aminadab.
+
+### Numbers 10:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Issachar was Nethanel son of Zuar.
+- brenton: And over the host of the tribe of the sons of Issachar, was Nathanael son of Sogar.
+
+### Numbers 10:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Zebulun was Eliab son of Helon.
+- brenton: And over the host of the tribe of the sons of Zabulon, was Eliab the son of Chælon.
+
+### Numbers 10:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took down the tent, and the sons of Gershon and the sons of Merari set out carrying the tent.
+- brenton: And they shall take down the tabernacle, and the sons of Gedson shall set forward, and the sons of Merari, who bear the tabernacle.
+
+### Numbers 10:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the order of the camp of Reuben set out with their strength, and over their strength was Elizur son of Shedeur.
+- brenton: And the order of the camp of Ruben set forward with their host; and over their host was Elisur the son of Sediur.
+
+### Numbers 10:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Simeon was Shelumiel son of Zurishaddai.
+- brenton: And over the host of the tribe of the sons of Symeon, was Salamiel son of Surisadai.
+
+### Numbers 10:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Gad was Eliasaph son of Reuel.
+- brenton: And over the host of the tribe of the children of Gad, was Elisaph the son of Raguel.
+
+### Numbers 10:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Kohath set out carrying the holy things, and they would set up the tent until these arrived.
+- brenton: And the sons of Caath shall set forward bearing the holy things, and the others shall set up the tabernacle until they arrive.
+
+### Numbers 10:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the order of the camp of Ephraim set out with their strength, and over their strength was Elishama son of Ammihud.
+- brenton: And the order of the camp of Ephraim shall set forward with their forces; and over their forces was Elisama the son of Semiud.
+
+### Numbers 10:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Manasseh was Gamaliel son of Pedahzur.
+- brenton: And over the forces of the tribe of the sons of Manasse, was Gamaliel the son of Phadassur.
+
+### Numbers 10:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Benjamin was Abidan son of Gideoni.
+- brenton: And over the forces of the tribe of the children of Benjamin, was Abidan the son of Gadeoni.
+
+### Numbers 10:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the order of the camp of the sons of Dan set out last of all the camps with their strength, and over their strength was Ahiezer son of Ammishaddai.
+- brenton: And the order of the camp of the sons of Dan shall set forward the last of all the camps, with their forces: and over their forces was Achiezer the son of Amisadai.
+
+### Numbers 10:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Asher was Pagiel son of Ocran.
+- brenton: And over the forces of the tribe of the sons of Aser, was Phageel the son of Echran.
+
+### Numbers 10:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And over the strength of the tribe of the sons of Naphtali was Ahira son of Enan.
+- brenton: And over the forces of the tribe of the sons of Nephthali, was Achire the son of Ænan.
+
+### Numbers 10:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the armies of the sons of Israel, and they set out with their strength.
+- brenton: These are the armies of the children of Israel; and they set forward with their forces.
+
+### Numbers 10:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses said to Hobab son of Reuel the Midianite, Moses' relative by marriage, We are setting out to the place of which the Lord said, This I will give to you. Come with us, and we will do you good, because the Lord has spoken good things concerning Israel.
+- brenton: And Moses said to Obab the son of Raguel the Madianite, the father-in-law of Moses, We are going forward to the place concerning which the Lord said, This will I give to you: Come with us, and we will do thee good, for the Lord has spoken good concerning Israel.
+
+### Numbers 10:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to him, I will not go, but I will go to my land and to my family.
+- brenton: And he said to him, I will not go, but I will go to my land and to my kindred.
+
+### Numbers 10:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said, Do not leave us, because for this reason you were with us in the wilderness, and you shall be among us an elder.
+- brenton: And he said, Leave us not, because thou hast been with us in the wilderness, and thou shalt be an elder among us.
+
+### Numbers 10:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be, if you go with us, then whatever good things the Lord does for us, we will do for you.
+- brenton: And it shall come to pass if thou wilt go with us, it shall even come to pass that in whatsoever things the Lord shall do us good, we will also do thee good.
+
+### Numbers 10:33
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the mountain of the Lord a three days' journey, and the ark of the covenant of the Lord went before them a three days' journey to seek out rest for them.
+- brenton: And they departed from the mount of the Lord a three days' journey; and the ark of the covenant of the Lord went before them a three days' journey to provide rest for them.
+
+### Numbers 10:34
+
+- importance: high
+- decisions: 0
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened, when the ark set out, that Moses said, Rise up, Lord; let your enemies be scattered, let all who hate you flee.
+- brenton: And it came to pass when the ark set forward, that Moses said, Arise, O Lord, and let thine enemies be scattered: let all that hate thee flee.
+
+### Numbers 10:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in its resting he said, Return, Lord, the thousands of myriads in Israel.
+- brenton: And in the resting he said, Turn again, O Lord, the thousands and tens of thousands in Israel.
+
+### Numbers 10:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cloud was overshadowing them by day when they set out from the camp.
+- brenton: And the cloud overshadowed them by day, when they departed from the camp.
+
+### Numbers 11:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people were grumbling evil things before the Lord, and the Lord heard and burned with anger, and fire from the Lord burned among them and devoured some part of the camp.
+- brenton: And the people murmured sinfully before the Lord; and the Lord heard them and was very angry; and fire was kindled among them from the Lord, and devoured a part of the camp.
+
+### Numbers 11:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people cried out to Moses, and Moses prayed to the Lord, and the fire died down.
+- brenton: And the people cried to Moses: and Moses prayed to the Lord, and the fire was quenched.
+
+### Numbers 11:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of that place was called Burning, because fire from the Lord burned among them.
+- brenton: And the name of that place was called Burning; for a fire was kindled among them from the Lord.
+
+### Numbers 11:4
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the mixed company among them desired a desire, and sitting down, the sons of Israel also wept and said, Who will feed us meat?
+- brenton: And the mixed multitude among them lusted exceedingly; and they and the children of Israel sat down and wept and said, Who shall give us flesh to eat?
+
+### Numbers 11:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We remember the fish that we ate in Egypt for nothing, and the cucumbers and the melons and the leeks and the onions and the garlic.
+- brenton: We remember the fish, which we ate in Egypt freely; and the cucumbers, and the melons, and the leeks, and the garlic, and the onions.
+
+### Numbers 11:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But now our life is dried up. There is nothing except this manna before our eyes.
+- brenton: But now our soul is dried up; our eyes turn to nothing but to the manna.
+
+### Numbers 11:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the manna was like coriander seed, and its appearance was like the appearance of crystal.
+- brenton: And the manna is as coriander seed, and the appearance of it the appearance of hoarfrost.
+
+### Numbers 11:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people would go around and gather it, and they would grind it in the mill and pound it in the mortar and boil it in the pot and make it into cakes, and its taste was like the flavor of a cake from oil.
+- brenton: And the people went through the field, and gathered, and ground it in the mill, or pounded it in a mortar, and baked it in a pan, and made cakes of it; and the sweetness of it was as the taste of wafer made with oil.
+
+### Numbers 11:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when the dew came down upon the camp at night, the manna came down upon it.
+- brenton: And when the dew came upon the camp by night, the manna came down upon it.
+
+### Numbers 11:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses heard them weeping by their clans, each at his door, and the anger of the Lord burned greatly, and in Moses' sight it was evil.
+- brenton: And Moses heard them weeping by their families, every one in his door: and the Lord was very angry; and the thing was evil in the sight of Moses.
+
+### Numbers 11:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the Lord, Why have you mistreated your servant, and why have I not found favor before you, to lay the rush of all this people upon me?
+- brenton: And Moses said to the Lord, Why hast thou afflicted thy servant, and why have I not found grace in thy sight, that thou shouldest lay the weight of this people upon me?
+
+### Numbers 11:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Did I conceive all this people in the womb, or did I bear them, that you say to me, Take him in your bosom, like a nurse carrying the suckling child, into the land that you swore to their fathers?
+- brenton: Have I conceived all this people, or have I born them? that thou sayest to me, Take them into thy bosom, as a nurse would take her suckling, into the land which thou swarest to their fathers?
+
+### Numbers 11:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From where is there meat for me to give to all this people? For they weep over me, saying, Give us meat, that we may eat.
+- brenton: Whence have I flesh to give to all this people? for they weep to me, saying, Give us flesh, that we may eat.
+
+### Numbers 11:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I am not able, I alone, to bear all this people, because this word is too heavy for me.
+- brenton: I shall not be able to bear this people alone, for this thing is too heavy for me.
+
+### Numbers 11:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if this is how you deal with me, kill me by slaughter, if I have found mercy before you, so that I may not see my affliction.
+- brenton: And if thou doest thus to me, slay me utterly, if I have found favour with thee, that I may not see my affliction.
+
+### Numbers 11:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Gather for me seventy men from the elders of Israel, whom you yourself know that these are elders of the people and their officers, and you shall bring them to the tent of testimony, and they shall stand there with you.
+- brenton: And the Lord said to Moses, Gather me seventy men from the elders of Israel, whom thou thyself knowest that they are the elders of the people, and their scribes; and thou shalt bring them to the tabernacle of witness, and they shall stand there with thee.
+
+### Numbers 11:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And I will come down and speak with you there, and I will take from the Spirit upon you and place it upon them, and they shall help bear with you the rush of the people, and you shall not bear them alone.
+- brenton: And I will go down, and speak there with thee; and I will take of the spirit that is upon thee, and will put it upon them; and they shall bear together with thee the burden of the people, and thou shalt not bear them alone.
+
+### Numbers 11:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to the people you shall say, Purify yourselves for tomorrow, and you shall eat meat, because you wept before the Lord, saying, Who will feed us meat? For it was good for us in Egypt. And the Lord will give you meat to eat, and you shall eat meat.
+- brenton: And to the people thou shalt say, Purify yourselves for the morrow, and ye shall eat flesh; for ye wept before the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: and the Lord shall allow you to eat flesh, and ye shall eat flesh.
+
+### Numbers 11:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not eat for one day, nor two, nor five days, nor ten days, nor twenty days,
+- brenton: Ye shall not eat one day, nor two, nor five days, nor ten days, nor twenty days;
+
+### Numbers 11:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: but for a month of days you shall eat, until it comes out of your nostrils and becomes loathsome to you, because you disobeyed the Lord who is among you and wept before him, saying, Why did we come out from Egypt?
+- brenton: ye shall eat for a full month, until the flesh come out at your nostrils; and it shall be nausea to you, because ye disobeyed the Lord, who is among you, and wept before him, saying, What had we to do to come out of Egypt?
+
+### Numbers 11:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said, The people in whose midst I am are six hundred thousand on foot, and you said, I will give them meat, and they shall eat for a month of days.
+- brenton: And Moses said, The people among whom I am are six hundred thousand footmen; and thou saidst, I will give them flesh to eat, and they shall eat a whole month.
+
+### Numbers 11:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Will sheep and cattle be slaughtered for them, and will it be enough for them? Or will every fish of the sea be gathered for them, and will it be enough for them?
+- brenton: Shall sheep and oxen be slain for them, and shall it suffice them? or shall all the fish of the sea be gathered together for them, and shall it suffice them?
+
+### Numbers 11:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not.
+- brenton: And the Lord said to Moses, Shall not the hand of the Lord be fully sufficient? now shalt thou know whether my word shall come to pass to thee or not.
+
+### Numbers 11:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses went out and spoke to the people the words of the Lord, and he gathered seventy men from the elders of the people and stood them around the tent.
+- brenton: And Moses went out, and spoke the words of the Lord to the people; and he gathered seventy men of the elders of the people, and he set them round about the tabernacle.
+
+### Numbers 11:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord came down in a cloud and spoke to him, and he took from the Spirit upon him and placed it upon the seventy elders. And when the Spirit rested upon them, they prophesied, and they did not continue.
+- brenton: And the Lord came down in a cloud, and spoke to him, and took of the spirit that was upon him, and put it upon the seventy men that were elders; and when the spirit rested upon them, they prophesied and ceased.
+
+### Numbers 11:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And two men remained in the camp, the name of the one Eldad and the name of the second Modad, and the Spirit rested upon them. And these were among those enrolled, and they had not come to the tent, and they prophesied in the camp.
+- brenton: And there were two men left in the camp, the name of the one was Eldad, and the name of the other Modad; and the spirit rested upon them, and these were of the number of them that were enrolled, but they did not come to the tabernacle; and they prophesied in the camp.
+
+### Numbers 11:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a young man ran and reported to Moses and said, Eldad and Modad are prophesying in the camp.
+- brenton: And a young man ran and told Moses, and spoke, saying, Eldad and Modad prophesy in the camp.
+
+### Numbers 11:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joshua son of Nun, the attendant of Moses, the chosen one, answered and said, My lord Moses, stop them.
+- brenton: And Joshua the son of Naue, who attended on Moses, the chosen one, said, My lord Moses, forbid them.
+
+### Numbers 11:29
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Moses said to him, Are you jealous for me? Would that all the Lord's people were prophets, whenever the Lord might give his Spirit upon them.
+- brenton: And Moses said to him, Art thou jealous on my account? and would that all the Lord's people were prophets; whenever the Lord shall put his spirit upon them.
+
+### Numbers 11:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses went away into the camp, he and the elders of Israel.
+- brenton: And Moses departed into the camp, himself and the elders of Israel.
+
+### Numbers 11:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a wind went out from the Lord and swept quail from the sea and threw them over the camp, a day's journey this way and a day's journey that way, around the camp, about two cubits above the ground.
+- brenton: And there went forth a wind from the Lord, and brought quails over from the sea; and it brought them down upon the camp a day's journey on this side, and a day's journey on that side, round about the camp, as it were two cubits from the earth.
+
+### Numbers 11:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people rose all that day and all that night and all the next day and gathered the quail. The one gathering the least gathered ten cors, and they spread them out for themselves all around the camp.
+- brenton: And the people rose up all the day, and all the night, and all the next day, and gathered quails; he that gathered least, gathered ten measures; and they refreshed themselves round about the camp.
+
+### Numbers 11:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The meat was still in their teeth before it failed, and the Lord burned with anger against the people, and the Lord struck the people with a very great plague.
+- brenton: The flesh was yet between their teeth, before it failed, when the Lord was wroth with the people, and the Lord smote the people with a very great plague.
+
+### Numbers 11:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of that place was called Graves of Desire, because there they buried the desirous people.
+- brenton: And the name of that place was called the Graves of Lust; for there they buried the people that lusted.
+
+### Numbers 11:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From Graves of Desire the people set out to Hazeroth, and the people came to be in Hazeroth.
+- brenton: The people departed from the Graves of Lust to Aseroth; and the people halted at Aseroth.
+
+### Numbers 12:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Miriam and Aaron spoke against Moses because of the Cushite woman whom Moses took, because he had taken a Cushite woman.
+- brenton: And Mariam and Aaron spoke against Moses, because of the Ethiopian woman whom Moses took; for he had taken an Ethiopian woman.
+
+### Numbers 12:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, Has the Lord spoken only by Moses? Has he not also spoken by us? And the Lord heard it.
+- brenton: And they said, Has the Lord spoken to Moses only? has he not also spoken to us? and the Lord heard it.
+
+### Numbers 12:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the man Moses was very gentle, beyond all the people who were upon the earth.
+- brenton: And the man Moses was very meek beyond all the men that were upon the earth.
+
+### Numbers 12:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said at once to Moses and Miriam and Aaron, Come out, you three, to the tent of testimony. And the three went out to the tent of testimony.
+- brenton: And the Lord said immediately to Moses and Aaron and Mariam, Come forth all three of you to the tabernacle of witness.
+
+### Numbers 12:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out.
+- brenton: And the three came forth to the tabernacle of witness; and the Lord descended in a pillar of a cloud, and stood at the door of the tabernacle of witness; and Aaron and Mariam were called; and both came forth.
+
+### Numbers 12:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Hear my words: if there is a prophet of yours to the Lord, I will make myself known to him in a vision, and in sleep I will speak to him.
+- brenton: And he said to them, Hear my words: If there should be of you a prophet to the Lord, I will be made known to him in a vision, and in sleep will I speak to him.
+
+### Numbers 12:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Not so with my servant Moses; in all my house he is faithful.
+- brenton: My servant Moses is not so; he is faithful in all my house.
+
+### Numbers 12:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Mouth to mouth I will speak to him, in visible form and not by riddles, and he has seen the glory of the Lord. And why were you not afraid to speak against my servant Moses?
+- brenton: I will speak to him mouth to mouth apparently, and not in dark speeches; and he has seen the glory of the Lord; and why were ye not afraid to speak against my servant Moses?
+
+### Numbers 12:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the anger of the Lord's wrath was upon them, and he departed.
+- brenton: And the great anger of the Lord was upon them, and he departed.
+
+### Numbers 12:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cloud departed from the tent, and behold, Miriam had become leprous like snow. And Aaron looked upon Miriam, and behold, she was leprous.
+- brenton: And the cloud departed from the tabernacle; and, behold, Mariam was leprous, white as snow; and Aaron looked upon Mariam, and, behold, she was leprous.
+
+### Numbers 12:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron said to Moses, I beg, my lord, do not lay sin upon us, because we were ignorant and because we sinned.
+- brenton: And Aaron said to Moses, I beseech thee, my lord, do not lay sin upon us, for we were ignorant wherein we sinned.
+
+### Numbers 12:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let her not become as one equal to death, like a miscarriage coming out from the womb of its mother and devouring half her flesh.
+- brenton: Let her not be as it were like death, as an abortion coming out of his mother's womb, when the disease devours the half of the flesh.
+
+### Numbers 12:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses cried out to the Lord, saying, O God, I beg you, heal her.
+- brenton: And Moses cried to the Lord, saying, O God, I beseech thee, heal her.
+
+### Numbers 12:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, If her father had spit a spit into her face, would she not be ashamed seven days? Let her be set apart outside the camp seven days, and after these things she shall come in.
+- brenton: And the Lord said to Moses, If her father had only spit in her face, would she not be ashamed seven days? let her be set apart seven days without the camp, and afterwards she shall come in.
+
+### Numbers 12:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Miriam was set apart outside the camp seven days, and the people did not set out until Miriam was cleansed.
+- brenton: And Mariam was separated without the camp seven days; and the people moved not forward till Mariam was cleansed.
+
+### Numbers 12:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And after these things the people set out from Hazeroth and camped in the wilderness of Paran.
+- brenton: And afterwards the people set forth from Aseroth, and encamped in the wilderness of Pharan.
+
+### Numbers 13:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 13:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Send for yourself men, and let them spy out the land of the Canaanites, which I am giving to the sons of Israel for possession. One man each by tribe, by the clans of their fathers, you shall send them, every one a leader among them.
+- brenton: Send for thee men, and let them spy the land of the Chananites, which I give to the sons of Israel for a possession; one man for a tribe, thou shalt send them away according to their families, every one of them a prince.
+
+### Numbers 13:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent them from the wilderness of Paran by the Lord's word. All these men were leaders of the sons of Israel.
+- brenton: And Moses sent them out of the wilderness of Pharan by the word of the Lord; all these were the princes of the sons of Israel.
+
+### Numbers 13:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are their names: from the tribe of Reuben, Salamiēl son of Zacchour;
+- brenton: And these are their names: of the tribe of Ruben, Samuel the son of Zachur.
+
+### Numbers 13:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Simeon, Saphat son of Souri;
+- brenton: Of the tribe of Symeon, Saphat the son of Suri.
+
+### Numbers 13:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Judah, Caleb son of Jephonnē;
+- brenton: Of the tribe of Judah, Chaleb the son of Jephonne.
+
+### Numbers 13:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Issachar, Igaal son of Iōsēph;
+- brenton: Of the tribe of Issachar, Ilaal the son of Joseph.
+
+### Numbers 13:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Ephraim, Ausē son of Nauē;
+- brenton: Of the tribe of Ephraim, Ause the son of Naue.
+
+### Numbers 13:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Benjamin, Phalti son of Raphou;
+- brenton: Of the tribe of Benjamin, Phalti the son of Raphu.
+
+### Numbers 13:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Zebulun, Goudiēl son of Soudi;
+- brenton: Of the tribe of Zabulon, Gudiel the son of Sudi.
+
+### Numbers 13:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Joseph, from the sons of Manasseh, Gaddi son of Sousi;
+- brenton: Of the tribe of Joseph of the sons of Manasse, Gaddi the son of Susi.
+
+### Numbers 13:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Dan, Amiēl son of Gamali;
+- brenton: Of the tribe of Dan, Amiel the son of Gamali.
+
+### Numbers 13:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Asher, Sathour son of Michaēl;
+- brenton: Of the tribe of Aser, Sathur the son of Michael.
+
+### Numbers 13:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Naphtali, Nabi son of Iabi;
+- brenton: Of the tribe of Nephthali, Nabi the son of Sabi.
+
+### Numbers 13:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: from the tribe of Gad, Goudiēl son of Macchi.
+- brenton: Of the tribe of Gad, Gudiel the son of Macchi.
+
+### Numbers 13:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: These are the names of the men whom Moses sent to spy out the land, and Moses renamed Ausē son of Nauē as Joshua.
+- brenton: These are the names of the men whom Moses sent to spy out the land; and Moses called Ause the son of Naue, Joshua.
+
+### Numbers 13:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent them to spy out the land of Canaan and said to them, Go up by this wilderness, and you shall go up into the hill country.
+- brenton: And Moses sent them to spy out the land of Chanaan, and said to them, Go up by this wilderness; and ye shall go up to the mountain,
+
+### Numbers 13:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall look at the land, what it is, and the people dwelling upon it, whether it is stronger or weak, whether they are few or many.
+- brenton: and ye shall see the land, what it is, and the people that dwells on it, whether it is strong or weak, or whether they are few or many.
+
+### Numbers 13:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what is the land on which these dwell, whether it is good or bad, and what are the cities in which they dwell, whether walled or unwalled.
+- brenton: And what the land is on which they dwell, whether it is good or bad; and what the cities are wherein these dwell, whether they dwell in walled cities or unwalled.
+
+### Numbers 13:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And what is the land, whether rich or poor, whether there are trees in it or not. And be courageous and take from the fruits of the land. And the days were the spring days, firstfruits of grape.
+- brenton: And what the land is, whether rich or poor; whether there are trees in it or no: and ye shall persevere and take of the fruits of the land: and the days were the days of spring, the forerunners of the grape.
+
+### Numbers 13:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they went up and spied out the land from the wilderness of Sin as far as Rehob, as one enters Hamath.
+- brenton: And they went up and surveyed the land from the wilderness of Sin to Rhoob, as men go in to Æmath.
+
+### Numbers 13:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they went up through the wilderness and came as far as Hebron, and there were Achiman and Sessi and Tholami, the offspring of Anak. And Hebron was built seven years before Tanis of Egypt.
+- brenton: And they went up by the wilderness, and departed as far as Chebron; and there was Achiman, and Sessi, and Thelami, the progeny of Enach. Now Chebron was built seven years before Tanin of Egypt.
+
+### Numbers 13:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came as far as the Ravine of Cluster and spied it out, and they cut from there a branch with one cluster of grapes on it, and they carried it on poles, and also some of the pomegranates and the figs.
+- brenton: And they came to the valley of the cluster and surveyed it; and they cut down thence a bough and one cluster of grapes upon it, and bore it on staves, and they took of the pomegranates and the figs.
+
+### Numbers 13:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: That place they named Ravine of Cluster because of the cluster which the sons of Israel cut from there.
+- brenton: And they called that place, The valley of the cluster, because of the cluster which the children of Israel cut down from thence.
+
+### Numbers 13:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they returned from there after spying out the land in forty days.
+- brenton: And they returned from thence, having surveyed the land, after forty days.
+
+### Numbers 13:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And going on, they came to Moses and Aaron and to the whole congregation of the sons of Israel in the wilderness of Paran at Kadesh, and they brought back word to them and to all the congregation, and they showed the fruit of the land.
+- brenton: And they proceeded and came to Moses and Aaron and all the congregation of the children of Israel, to the wilderness of Pharan Cades; and they brought word to them and to all the congregation, and they shewed the fruit of the land:
+
+### Numbers 13:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they described it to him and said, We came into the land where you sent us, a land flowing with milk and honey, and this is its fruit.
+- brenton: and they reported to him, and said, We came into the land into which thou sentest us, a land flowing with milk and honey; and this is the fruit of it.
+
+### Numbers 13:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the people dwelling upon it are bold, and the cities are fortified, walled, and very large, and we saw there the offspring of Anak.
+- brenton: Only the nation that dwells upon it is bold, and they have very great and strong walled towns, and we saw there the children of Enach.
+
+### Numbers 13:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Amalek dwells in the land toward the south, and the Hittite and the Hivite and the Jebusite and the Amorite dwell in the hill country, and the Canaanite dwells by the sea and beside the Jordan River.
+- brenton: And Amalec dwells in the land toward the south: and the Chettite and the Evite, and the Jebusite, and the Amorite dwells in the hill country: and the Chananite dwells by the sea, and by the river Jordan.
+
+### Numbers 13:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
+- brenton: And Chaleb stayed the people from speaking before Moses, and said to him, Nay, but we will go up by all means, and will inherit it, for we shall surely prevail against them.
+
+### Numbers 13:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men going up with him said, We will not go up, because we will not be able to go up against the nation, because it is stronger than we are.
+- brenton: But the men that went up together with him said, We will not go up, for we shall not by any means be able to go up against the nation, for it is much stronger than we.
+
+### Numbers 13:32
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And they brought an alarming report of the land that they had spied out to the sons of Israel, saying, The land through which we passed to spy it out is a land devouring those dwelling upon it, and all the people whom we saw in it were very tall men.
+- brenton: And they brought a horror of that land which they surveyed upon the children of Israel, saying, The land which we passed by to survey it, is a land that eats up its inhabitants; and all the people whom we saw in it are men of extraordinary stature.
+
+### Numbers 13:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there we saw the giants, and before them we were like locusts, and so we were before them.
+- brenton: And there we saw the giants; and we were before them as locusts, yea even so were we before them.
+
+### Numbers 14:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the whole congregation, taking it up, raised their voice, and the people wept all that night.
+- brenton: And all the congregation lifted up their voice and cried; and the people wept all that night.
+
+### Numbers 14:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the sons of Israel grumbled against Moses and Aaron, and the whole congregation said to them, Would that we had died in the land of Egypt, or would that we had died in this wilderness.
+- brenton: And all the children of Israel murmured against Moses and Aaron; and all the congregation said to them,
+
+### Numbers 14:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And why is the Lord bringing us into this land to fall in war? Our wives and our little children will be for plunder. So now it is better for us to turn back into Egypt.
+- brenton: Would we had died in the land of Egypt! or in this wilderness, would we had died! and why does the Lord bring us into this land to fall in war? our wives and our children shall be for a prey: now then it is better to return into Egypt.
+
+### Numbers 14:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, one to another, Let us appoint a leader and turn back into Egypt.
+- brenton: And they said one to another, Let us make a ruler, and return into Egypt.
+
+### Numbers 14:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron fell on their face before the whole congregation of the sons of Israel.
+- brenton: And Moses and Aaron fell upon their face before all the congregation of the children of Israel.
+
+### Numbers 14:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Joshua son of Nun and Caleb son of Jephonnē, of those who spied out the land, tore their garments.
+- brenton: But Joshua the son of Naue, and Chaleb the son of Jephonne, of the number of them that spied out the land, rent their garments,
+
+### Numbers 14:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to the whole congregation of the sons of Israel, saying, The land that we spied out is very, very good.
+- brenton: and spoke to all the congregation of the children of Israel, saying, The land which we surveyed is indeed extremely good.
+
+### Numbers 14:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If the Lord takes pleasure in us, he will bring us into this land and give it to us, a land flowing with milk and honey.
+- brenton: If the Lord choose us, he will bring us into this land, and give it us; a land which flows with milk and honey.
+
+### Numbers 14:9
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Only do not become apostates from the Lord, and do not fear the people of the land, because they are food for us. For their time has departed from them, but the Lord is in us. Do not fear them.
+- brenton: Only depart not from the Lord; and fear ye not the people of the land, for they are meat for us; for the season of prosperity is departed from them, but the Lord is among us: fear them not.
+
+### Numbers 14:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the whole congregation said to stone them with stones, and the glory of the Lord appeared in a cloud upon the tent of testimony before all the sons of Israel.
+- brenton: And all the congregation bade stone them with stones; and the glory of the Lord appeared in the cloud on the tabernacle of witness to all the children of Israel.
+
+### Numbers 14:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, How long will this people provoke me, and how long will they not believe me in all the signs that I did among them?
+- brenton: And the Lord said to Moses, How long does this people provoke me? and how long do they refuse to believe me for all the signs which I have wrought among them?
+
+### Numbers 14:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I will strike them with death and destroy them, and I will make you and your father's house into a nation great and much greater than this.
+- brenton: I will smite them with death, and destroy them; and I will make of thee and of thy father's house a great nation, and much greater than this.
+
+### Numbers 14:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the Lord, And Egypt will hear, because you brought up this people from among them by your strength.
+- brenton: And Moses said to the Lord, So Egypt shall hear, for thou hast brought up this people from them by thy might.
+
+### Numbers 14:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night.
+- brenton: Moreover all the dwellers upon this land have heard that thou art Lord in the midst of this people, who, O Lord, art seen by them face to face, and thy cloud rests upon them, and thou goest before them by day in a pillar of a cloud, and by night in a pillar of fire.
+
+### Numbers 14:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you destroy this people like one man, the nations who have heard your name will say,
+- brenton: And if thou shalt destroy this nation as one man; then all the nations that have heard thy name shall speak, saying,
+
+### Numbers 14:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because the Lord was not able to bring this people into the land that he swore to them, he struck them down in the wilderness.
+- brenton: Because the Lord could not bring this people into the land which he sware to them, he has overthrown them in the wilderness.
+
+### Numbers 14:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now let your strength be exalted, Lord, as you spoke, saying,
+- brenton: And now, O Lord, let thy strength be exalted, as thou spakest, saying,
+
+### Numbers 14:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: The Lord is long-suffering and greatly merciful and true, removing lawlessness and injustice and sins, and in cleansing will not cleanse the guilty, repaying fathers' sins upon children to the third and fourth generation.
+- brenton: The Lord is long-suffering and merciful, and true, removing transgressions and iniquities and sins, and he will by no means clear the guilty, visiting the sins of the fathers upon the children to the third and fourth generation.
+
+### Numbers 14:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Forgive the sin of this people according to your great mercy, just as you have been gracious to them from Egypt until now.
+- brenton: Forgive this people their sin according to thy great mercy, as thou wast favourable to them from Egypt until now.
+
+### Numbers 14:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, I am gracious to them according to your word.
+- brenton: And the Lord said to Moses, I am gracious to them according to thy word.
+
+### Numbers 14:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But I live, and my name lives, and the glory of the Lord shall fill the whole earth.
+- brenton: But as I live and my name is living, so the glory of the Lord shall fill all the earth.
+
+### Numbers 14:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For all the men who saw my glory and the signs that I did in Egypt and in this wilderness, and tested me this tenth time and did not obey my voice,
+- brenton: For all the men who see my glory, and the signs which I wrought in Egypt, and in the wilderness, and have tempted me this tenth time, and have not hearkened to my voice,
+
+### Numbers 14:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: surely they shall not see the land that I swore to their fathers. But their children who are here with me, as many as do not know good or evil, every young inexperienced one, to these I will give the land. But all who provoked me shall not see it.
+- brenton: surely they shall not see the land, which I sware to their fathers; but their children which are with me here, as many as know not good or evil, every inexperienced youth, to them will I give the land; but none who have provoked me shall see it.
+
+### Numbers 14:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But my servant Caleb, because a different spirit came to be in him and he followed me, I will bring him into the land into which he entered, and his seed shall inherit it.
+- brenton: But my servant Chaleb, because there was another spirit in him, and he followed me, I will bring him into the land into which he entered, and his seed shall inherit it.
+
+### Numbers 14:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Amalek and the Canaanite dwell in the valley. Tomorrow turn yourselves and set out into the wilderness by the way of the Red Sea.
+- brenton: But Amalec and the Chananite dwell in the valley: to-morrow turn and depart for the wilderness by the way of the Red Sea.
+
+### Numbers 14:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 14:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: How long shall I bear with this evil congregation, these things they are grumbling against me? The grumbling of the sons of Israel that they grumbled about you, I have heard.
+- brenton: How long shall I endure this wicked congregation? I have heard their murmurings against me, even the murmuring of the children of Israel, which they have murmured concerning you.
+
+### Numbers 14:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Say to them, As I live, says the Lord, surely just as you have spoken in my ears, so I will do to you.
+- brenton: Say to them, As I live, saith the Lord: surely as ye spoke into my ears, so will I do to you.
+
+### Numbers 14:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In this wilderness your carcasses shall fall, and all your number, all those counted of you from twenty years old and upward, whoever grumbled against me,
+- brenton: Your carcases shall fall in this wilderness; and all those of you that were reviewed, and those of you that were numbered from twenty years old and upward, all that murmured against me,
+
+### Numbers 14:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: surely you shall not enter into the land upon which I stretched out my hand to settle you on it, except Caleb son of Jephonnē and Joshua son of Nun.
+- brenton: ye shall not enter into the land for which I stretched out my hand to establish you upon it; except only Chaleb the son of Jephonne, and Joshua the son of Naue.
+
+### Numbers 14:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your little children, whom you said would be for plunder, I will bring into the land, and they shall inherit the land from which you turned away.
+- brenton: And your little ones, who ye said should be a prey, them will I bring into the land; and they shall inherit the land, which ye rejected.
+
+### Numbers 14:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But your carcasses shall fall in this wilderness.
+- brenton: And your carcases shall fall in this wilderness.
+
+### Numbers 14:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your sons shall be feeding in the wilderness forty years, and they shall bear your prostitution until your carcasses are consumed in the wilderness.
+- brenton: And your sons shall be fed in the wilderness forty years, and they shall bear your fornication, until your carcases be consumed in the wilderness.
+
+### Numbers 14:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According to the number of the days in which you spied out the land, forty days, a day for a year, you shall bear your sins forty years, and you shall know the fury of my anger.
+- brenton: According to the number of the days during which ye spied the land, forty days, a day for a year, ye shall bear your sins forty years, and ye shall know my fierce anger.
+
+### Numbers 14:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I, the Lord, have spoken. Surely thus I will do to this whole evil congregation gathered together against me. In this wilderness they shall be consumed, and there they shall die.
+- brenton: I the Lord have spoken, Surely will I do thus to this evil congregation that has risen up together against me: in this wilderness they shall be utterly consumed, and there they shall die.
+
+### Numbers 14:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the men whom Moses sent to spy out the land, and who came back and made the whole congregation grumble against it by bringing out evil words about the land,
+- brenton: And the men whom Moses sent to spy out the land, and who came and murmured against it to the assembly so as to bring out evil words concerning the land,—
+
+### Numbers 14:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: those men who spoke evil against the land died in the plague before the Lord.
+- brenton: the men that spoke evil reports against the land, even died of the plague before the Lord.
+
+### Numbers 14:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But Joshua son of Nun and Caleb son of Jephonnē lived on from those men who had gone to spy out the land.
+- brenton: And Joshua the son of Naue and Chaleb the son of Jephonne still lived of those men that went to spy out the land.
+
+### Numbers 14:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke these words to all the sons of Israel, and the people mourned greatly.
+- brenton: And Moses spoke these words to all the children of Israel; and the people mourned exceedingly.
+
+### Numbers 14:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And rising early in the morning, they went up to the top of the mountain, saying, Behold, here we are. We will go up to the place that the Lord spoke of, because we have sinned.
+- brenton: And they rose early in the morning and went up to the top of the mountain, saying, Behold, we that are here will go up to the place of which the Lord has spoken, because we have sinned.
+
+### Numbers 14:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said, Why are you transgressing the Lord's word? It will not prosper for you.
+- brenton: And Moses said, Why do ye transgress the word of the Lord? ye shall not prosper.
+
+### Numbers 14:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do not go up, for the Lord is not with you, and you will fall before your enemies.
+- brenton: Go not up, for the Lord is not with you; so shall ye fall before the face of your enemies.
+
+### Numbers 14:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For Amalek and the Canaanite are there before you, and you will fall by sword, because you turned away in disobedience from the Lord, and the Lord will not be among you.
+- brenton: For Amalec and the Chananite are there before you, and ye shall fall by the sword; because ye have disobeyed the Lord and turned aside, and the Lord will not be among you.
+
+### Numbers 14:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And forcing themselves, they went up to the top of the mountain, but the ark of the covenant of the Lord and Moses did not move from the camp.
+- brenton: And having forced their passage, they went up to the top of the mountain; but the ark of the covenant of the Lord and Moses stirred not out of the camp.
+
+### Numbers 14:45
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Amalek came down, and the Canaanite dwelling in that mountain, and they routed them and cut them down as far as Erman, and they turned back to the camp.
+- brenton: And Amalec and the Chananite that dwelt in that mountain came down, and routed them, and destroyed them unto Herman; and they returned to the camp.
+
+### Numbers 15:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 15:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them, When you enter into the land of your dwelling, which I am giving to you,
+- brenton: Speak to the children of Israel, and thou shalt say to them, When ye are come into the land of your habitation, which I give to you,
+
+### Numbers 15:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and you make whole burnt offerings to the Lord, a whole burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or in your feasts, to make an aroma of sweet fragrance to the Lord, whether from the cattle or from the sheep,
+- brenton: and thou wilt offer whole-burnt-offerings to the Lord, a whole-burnt-offering or a meat-offering to perform a vow, or a free-will offering, or to offer in your feasts a sacrifice of sweet savour to the Lord, whether of the herd or the flock:
+
+### Numbers 15:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the one bringing his gift to the Lord shall bring a sacrifice of fine flour, a tenth of an ephah, prepared with oil, one fourth of a hin.
+- brenton: then he that offers his gift to the Lord shall bring a meat-offering of fine flour, a tenth part of an ephah mingled with oil, even with the fourth part of a hin.
+
+### Numbers 15:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And wine for a libation, one fourth of a hin, you shall prepare with the whole burnt offering or with the sacrifice for the one lamb, so much as a gift, an aroma of sweet fragrance to the Lord.
+- brenton: And for a drink-offering ye shall offer the fourth part of a hin on the whole-burnt-offering, or on the meat-offering: for every lamb thou shalt offer so much, as a sacrifice, a smell of sweet savour to the Lord.
+
+### Numbers 15:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for the ram, when you make it as a whole burnt offering or as a sacrifice, you shall make a sacrifice of fine flour, two tenths, prepared with oil, one third of a hin.
+- brenton: And for a ram, when ye offer it as a whole-burnt-offering or as a sacrifice, thou shalt prepare as a meat-offering two tenths of fine flour mingled with oil, the third part of a hin.
+
+### Numbers 15:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And wine for a libation, one third of a hin, you shall bring as an aroma of sweet fragrance to the Lord.
+- brenton: And ye shall offer for a smell of sweet savour to the Lord wine for a drink-offering, the third part of a hin.
+
+### Numbers 15:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
+
+### Numbers 15:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then with the bull he shall bring a sacrifice of fine flour, three tenths, prepared with oil, one half of a hin.
+- brenton: then the worshipper shall offer upon the calf a meat-offering, three tenth deals of fine flour mingled with oil, even the half of a hin.
+
+### Numbers 15:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And wine for a libation, one half of a hin, a gift, an aroma of sweet fragrance to the Lord.
+- brenton: And wine for a drink-offering the half of a hin, a sacrifice for a smell of sweet savour to the Lord.
+
+### Numbers 15:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Thus you shall do for the one bull, or for the one ram, or for the one lamb from the sheep or from the goats.
+- brenton: Thus shalt thou do to one calf or to one ram, or to one lamb of the sheep or kid of the goats.
+
+### Numbers 15:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According to the number that you make, so you shall do for the one according to their number.
+- brenton: According to the number of what ye shall offer, so shall ye do to each one, according to their number.
+
+### Numbers 15:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every native-born shall do thus, these things, to bring gifts as an aroma of sweet fragrance to the Lord.
+- brenton: Every native of the country shall do thus to offer such things as sacrifices for a smell of sweet savour to the Lord.
+
+### Numbers 15:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if a sojourner joins himself to you in your land, or whoever may be among you in your generations, and makes a gift as an aroma of sweet fragrance to the Lord, just as you do, so shall the congregation do to the Lord.
+- brenton: And if there should be a stranger among you in your land, or one who should be born to you among your generations, and he will offer a sacrifice, a smell of sweet savour to the Lord—as ye do, so the whole congregation shall offer to the Lord.
+
+### Numbers 15:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: One law shall be for you and for the sojourners dwelling with you, an everlasting law throughout your generations. As you are, so shall the sojourner be before the Lord.
+- brenton: There shall be one law for you and for the strangers abiding among you, a perpetual law for your generations: as ye are, so shall the stranger be before the Lord.
+
+### Numbers 15:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: One law shall be, and one ordinance shall be for you and for the sojourner dwelling among you.
+- brenton: There shall be one law and one ordinance for you, and for the stranger that abides among you.
+
+### Numbers 15:17
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 15:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them, In your entering into the land into which I am bringing you there,
+- brenton: Speak to the sons of Israel, and thou shalt say to them, When ye are entering into the land, into which I bring you,
+
+### Numbers 15:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then it shall be, when you eat from the breads of the land, you shall remove a contribution set apart for the Lord.
+- brenton: then it shall come to pass, when ye shall eat of the bread of the land, ye shall separate a wave-offering, a special offering to the Lord, the first-fruits of your dough.
+
+### Numbers 15:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The firstfruits of your dough, a loaf, you shall set apart as a contribution. As a contribution from the threshing floor, so you shall remove it.
+- brenton: Ye shall offer your bread a heave-offering: as a heave-offering from the threshing-floor, so shall ye separate it,
+
+### Numbers 15:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the firstfruits of your dough you shall give a contribution to the Lord throughout your generations.
+- brenton: even the first-fruits of your dough, and ye shall give the Lord a heave-offering throughout your generations.
+
+### Numbers 15:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But when you go astray and do not do all these commands that the Lord spoke to Moses,
+- brenton: But whensoever ye shall transgress, and not perform all these commands, which the Lord spoke to Moses;
+
+### Numbers 15:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as the Lord commanded you by Moses' hand, from the day that the Lord commanded you and onward throughout your generations,
+- brenton: as the Lord appointed you by the hand of Moses, from the day which the Lord appointed you and forward throughout your generations,
+
+### Numbers 15:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then it shall be, if it happens unintentionally from the eyes of the congregation, the whole congregation shall offer one unblemished bull from the cattle as a whole burnt offering, as an aroma of sweet fragrance to the Lord, and its sacrifice and its libation according to the ordinance, and one goat kid for sin offering.
+- brenton: then it shall come to pass, if a trespass be committed unwillingly, unknown to the congregation, then shall all the congregation offer a calf of the herd without blemish for a whole-burnt-offering of sweet savour to the Lord, and its meat-offering and its drink-offering according to the ordinance, and one kid of the goats for a sin-offering.
+
+### Numbers 15:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make atonement for the whole congregation of the sons of Israel, and it shall be forgiven them, because it is unintentional. And they brought their gift, a gift to the Lord, for their sin before the Lord, for their unintentional acts.
+- brenton: And the priest shall make atonement for all the congregation of the children of Israel, and the trespass shall be forgiven them, because it is involuntary; and they have brought their gift, a burnt-offering to the Lord for their trespass before the Lord, even for their involuntary sins.
+
+### Numbers 15:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be forgiven to the whole congregation of the sons of Israel and to the sojourner dwelling among you, because to all the people it was unintentional.
+- brenton: And it shall be forgiven as respects all the congregation of the children of Israel, and the stranger that is abiding among you, because it is involuntary to all the people.
+
+### Numbers 15:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if one person sins unintentionally, he shall bring one year-old goat for sin offering.
+- brenton: And if one soul sin unwillingly, he shall bring one she-goat of a year old for a sin-offering.
+
+### Numbers 15:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall make atonement for the person who sinned unintentionally before the Lord, to make atonement for him.
+- brenton: And the priest shall make atonement for the soul that committed the trespass unwillingly, and that sinned unwillingly before the Lord, to make atonement for him.
+
+### Numbers 15:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For the native among the sons of Israel and for the sojourner dwelling among them, one law shall be for them, whoever acts unintentionally.
+- brenton: There shall be one law for the native among the children of Israel, and for the stranger that abides among them, whosoever shall commit a trespass unwillingly.
+
+### Numbers 15:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But the person who acts with a hand of arrogance, whether from the native-born or from the sojourners, this one provokes God. That person shall be cut off from his people.
+- brenton: And whatever soul either of the natives or of the strangers shall do any thing with a presumptuous hand, he will provoke God; that soul shall be cut off from his people,
+
+### Numbers 15:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because he treated the Lord's word as worthless and scattered his commands, that person shall be utterly destroyed. His sin is in him.
+- brenton: for he has set at nought the word of the Lord and broken his commands: that soul shall be utterly destroyed, his sin is upon him.
+
+### Numbers 15:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel were in the wilderness, and they found a man gathering wood on the day of the Sabbaths.
+- brenton: And the children of Israel were in the wilderness, and they found a man gathering sticks on the sabbath-day.
+
+### Numbers 15:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those who found him gathering wood on the day of the Sabbaths brought him to Moses and Aaron and to the whole congregation of the sons of Israel.
+- brenton: And they who found him gathering sticks on the sabbath-day brought him to Moses and Aaron, and to all the congregation of the children of Israel.
+
+### Numbers 15:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they put him under guard, for they had not judged what should be done to him.
+- brenton: And they placed him in custody, for they did not determine what they should do to him.
+
+### Numbers 15:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses, saying, Let the man surely be put to death. Let the whole congregation stone him with stones.
+- brenton: And the Lord spoke to Moses, saying, Let the man be by all means put to death: do ye all the congregation, stone him with stones.
+
+### Numbers 15:36
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the whole congregation brought him outside the camp and the whole congregation stoned him with stones outside the camp, just as the Lord commanded Moses.
+- brenton: And all the congregation brought him forth out of the camp; and all the congregation stoned him with stones outside the camp, as the Lord commanded Moses.
+
+### Numbers 15:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 15:38
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Speak to the sons of Israel, and you shall say to them that they should make for themselves tassels on the wings of their garments throughout their generations, and you shall place on the tassels of the wings a blue cord.
+- brenton: Speak to the children of Israel, and thou shalt tell them; and let them make for themselves fringes upon the borders of their garments throughout their generations: and ye shall put upon the fringes of the borders a lace of blue.
+
+### Numbers 15:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be for you in the tassels, and you shall look at them and remember all the Lord's commands and do them, and you shall not turn aside after your minds and after your eyes, in which you prostitute yourselves after them.
+- brenton: And it shall be on your fringes, and ye shall look on them, and ye shall remember all the commands of the Lord, and do them: and ye shall not turn back after your imaginations, and after the sight of your eyes in the things after which ye go a whoring;
+
+### Numbers 15:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So that you may remember and do all my commands and be holy to your God.
+- brenton: that ye may remember and perform all my commands, and ye shall be holy unto your God.
+
+### Numbers 15:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I am the Lord your God, who brought you out of the land of Egypt to be your God. I am the Lord your God.
+- brenton: I am the Lord your God that brought you out of the land of Egypt, to be your God: I am the Lord your God.
+
+### Numbers 16:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Korah son of Issaar son of Kohath son of Levi, and Dathan and Abiram sons of Eliab, and Aun son of Phaleth son of Reuben, spoke,
+- brenton: And Core the son of Isaar the son of Caath the son of Levi, and Dathan and Abiron, sons of Eliab, and Aun the son of Phaleth the son of Ruben, spoke;
+
+### Numbers 16:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and they rose up before Moses, along with two hundred fifty men of the sons of Israel, leaders of the congregation, summoned of the council, men of name.
+- brenton: and rose up before Moses, and two hundred and fifty men of the sons of Israel, chiefs of the assembly, chosen councillors, and men of renown.
+
+### Numbers 16:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
+- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
+
+### Numbers 16:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses, hearing it, fell on his face.
+- brenton: And when Moses heard it, he fell on his face.
+
+### Numbers 16:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he spoke to Korah and to all his congregation, saying, God has visited and known those who are his and the holy ones, and he has brought near to himself those whom he chose for himself.
+- brenton: And he spoke to Core and all his assembly, saying, God has visited and known those that are his and who are holy, and has brought them to himself; and whom he has chosen for himself, he has brought to himself.
+
+### Numbers 16:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do this: take for yourselves firepans, Korah and all his congregation,
+- brenton: This do ye: take to yourselves censers, Core and all his company;
+
+### Numbers 16:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and place fire on them and place incense on them before the Lord tomorrow, and it shall be that the man whom the Lord chooses, this one is holy. Let it be enough for you, sons of Levi.
+- brenton: and put fire on them, and put incense on them before the Lord to-morrow; and it shall come to pass that the man whom the Lord has chosen, he shall be holy: let it be enough for you, ye sons of Levi.
+
+### Numbers 16:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Korah, Hear me, sons of Levi.
+- brenton: And Moses said to Core, Hearken to me, ye sons of Levi.
+
+### Numbers 16:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Is this a small thing to you, that the God of Israel separated you from the congregation of Israel and brought you near to himself to minister the ministries of the tent of the Lord and to stand before the congregation to serve them?
+- brenton: Is it a little thing for you, that the God of Israel has separated you from the congregation of Israel, and brought you near to himself to minister in the services of the tabernacle of the Lord, and to stand before the tabernacle to minister for them?
+
+### Numbers 16:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he brought you near, and all your brothers the sons of Levi with you, and now do you seek to serve as priests?
+- brenton: and he has brought thee near and all thy brethren the sons of Levi with thee, and do ye seek to be priests also?
+
+### Numbers 16:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Thus you and all your congregation have gathered together against God, and Aaron, who is he that you grumble against him?
+- brenton: Thus it is with thee and all thy congregation which is gathered together against God: and who is Aaron, that ye murmur against him?
+
+### Numbers 16:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent to call Dathan and Abiram sons of Eliab, and they said, We will not come up.
+- brenton: And Moses sent to call Dathan and Abiron sons of Eliab; and they said, We will not go up.
+
+### Numbers 16:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Is it a small thing that you brought us up from a land flowing with milk and honey to kill us in the wilderness, that you also rule over us as ruler?
+- brenton: Is it a little thing that thou hast brought us up to a land flowing with milk and honey, to kill us in the wilderness, and that thou altogether rulest over us?
+
+### Numbers 16:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Even if you had brought us into a land flowing with milk and honey and given us an inheritance of field and vineyards, would you gouge out the eyes of those men? We will not come up.
+- brenton: Thou art a prince, and hast thou brought us into a land flowing with milk and honey, and hast thou given us an inheritance of land and vineyards? wouldest thou have put out the eyes of those men? we will not go up.
+
+### Numbers 16:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses was greatly weighed down and said to the Lord, Do not attend to their sacrifice. I have taken not one thing desired from any of them, nor have I harmed any one of them.
+- brenton: And Moses was exceedingly indignant, and said to the Lord, Do thou take no heed to their sacrifice: I have not taken away the desire of any one of them, neither have I hurt any one of them.
+
+### Numbers 16:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Korah, Sanctify your congregation and be ready before the Lord, you and they and Aaron, tomorrow.
+- brenton: And Moses said to Core, Sanctify thy company, and be ready before the Lord, thou and Aaron and they, to-morrow.
+
+### Numbers 16:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And let each take his firepan and place incense on them, and each bring his firepan before the Lord, two hundred fifty firepans, and you and Aaron, each his firepan.
+- brenton: And take each man his censer, and ye shall put incense upon them, and shall bring each one his censer before the Lord, two hundred and fifty censers, and thou and Aaron shall bring each his censer.
+
+### Numbers 16:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And each took his firepan and put fire on them and cast incense on it, and they stood by the doors of the tent of testimony, Moses and Aaron.
+- brenton: And each man took his censer, and they put on them fire, and laid incense on them; and Moses and Aaron stood by the doors of the tabernacle of witness.
+
+### Numbers 16:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation.
+- brenton: And Core raised up against them all his company by the door of the tabernacle of witness; and the glory of the Lord appeared to all the congregation.
+
+### Numbers 16:20
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 16:21
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: Separate yourselves from the midst of this congregation, and I will consume them at once.
+- brenton: Separate yourselves from the midst of this congregation, and I will consume them at once.
+
+### Numbers 16:22
+
+- importance: high
+- decisions: 1
+- footnotes: 0
+- same_normalized: no
+- fresh: And they fell on their face and said, God, God of the spirits and of all flesh, if one man sinned, will the Lord's wrath be upon the whole congregation?
+- brenton: And they fell on their faces, and said, O God, the God of spirits and of all flesh, if one man has sinned, shall the wrath of the Lord be upon the whole congregation?
+
+### Numbers 16:23
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 16:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the congregation, saying, Withdraw all around from the congregation of Korah.
+- brenton: Speak to the congregation, saying, Depart from the company of Core round about.
+
+### Numbers 16:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses rose and went to Dathan and Abiram, and all the elders of Israel went with him.
+- brenton: And Moses rose up and went to Dathan and Abiron, and all the elders of Israel went with him.
+
+### Numbers 16:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he spoke to the congregation, saying, Separate yourselves from the tents of these hard men, and do not touch anything that belongs to them, lest you perish together in all their sin.
+- brenton: And he spoke to the congregation, saying, Separate yourselves from the tents of these stubborn men, and touch nothing that belongs to them, lest ye be consumed with them in all their sin.
+
+### Numbers 16:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they stood away from the tent of Korah all around, and Dathan and Abiram came out and stood by the doors of their tents, and their wives and their children and their baggage.
+- brenton: And they stood aloof from the tent of Core round about; and Dathan and Abiron went forth and stood by the doors of their tents, and their wives and their children and their store.
+
+### Numbers 16:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said, By this you shall know that the Lord has sent me to do all these works, because they are not from myself.
+- brenton: And Moses said, Hereby shall ye know that the Lord has sent me to perform all these works, that I have not done them of myself.
+
+### Numbers 16:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If these die by the death of all people, and if their visitation is according to the visitation of all people, then the Lord has not sent me.
+- brenton: If these men shall die according to the death of all men, if also their visitation shall be according to the visitation of all men, then the Lord has not sent me.
+
+### Numbers 16:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if the Lord shows this by a wonder, and the earth, opening its mouth, swallows them and their houses and their tents and everything that belongs to them, and they go down alive into Hades, then you shall know that these men provoked the Lord.
+- brenton: But if the Lord shall shew by a wonder, and the earth shall open her mouth and swallow them up, and their houses, and their tents, and all that belongs to them, and they shall go down alive into Hades, then ye shall know that these men have provoked the Lord.
+
+### Numbers 16:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And when he finished speaking all these words, the earth beneath them was torn open.
+- brenton: And when he ceased speaking all these words, the ground clave asunder beneath them.
+
+### Numbers 16:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the earth opened and swallowed them and their houses and all the people who were with Korah and their cattle.
+- brenton: And the ground opened, and swallowed them up, and their houses, and all the men that were with Core, and their cattle.
+
+### Numbers 16:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they and all that belonged to them went down alive into Hades, and the earth covered them, and they perished from the midst of the congregation.
+- brenton: And they went down and all that they had, alive into Hades; and the ground covered them, and they perished from the midst of the congregation.
+
+### Numbers 16:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all Israel around them fled from their cry, for they said, Lest the earth swallow us too.
+- brenton: And all Israel round about them fled from the sound of them, for they said, Lest the earth swallow us up also.
+
+### Numbers 16:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And fire went out from the Lord and devoured the two hundred fifty men offering the incense.
+- brenton: And fire went forth from the Lord, and devoured the two hundred and fifty men that offered incense.
+
+### Numbers 17:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord said to Moses,
+- brenton: And the Lord said to Moses,
+
+### Numbers 17:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Eleazar son of Aaron the priest: take up the bronze firepans from the midst of the burned ones, and scatter this strange fire there, because they were sanctified.
+- brenton: and to Eleazar the son of Aaron the priest, Take up the brazen censers out of the midst of the men that have been burnt, and scatter the strange fire yonder, for they have sanctified the censers
+
+### Numbers 17:3
+
+- importance: high
+- decisions: 0
+- footnotes: 1
+- same_normalized: no
+- fresh: The firepans of these sinners against their own lives: make them hammered plates as a covering for the altar, because they were brought before the Lord and were sanctified, and they became a sign to the sons of Israel.
+- brenton: of these sinners against their own souls, and do thou make them beaten plates a covering to the altar, because they were brought before the Lord and hallowed; and they became a sign to the children of Israel.
+
+### Numbers 17:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eleazar son of Aaron the priest took the bronze firepans that the burned ones had brought, and they added them as a covering for the altar,
+- brenton: And Eleazar the son of Aaron the priest took the brazen censers, which the men who had been burnt brought near, and they put them as a covering on the altar:
+
+### Numbers 17:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a memorial to the sons of Israel, so that no stranger who is not from the seed of Aaron may come near to place incense before the Lord, and he will not be like Korah and his gathering together, just as the Lord spoke by Moses' hand.
+- brenton: a memorial to the children of Israel that no stranger might draw nigh, who is not of the seed of Aaron, to offer incense before the Lord; so he shall not be as Core and as they that conspired with him, as the Lord spoke to him by the hand of Moses.
+
+### Numbers 17:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the next day the sons of Israel grumbled against Moses and Aaron, saying, You have killed the people of the Lord.
+- brenton: And the children of Israel murmured the next day against Moses and Aaron, saying, Ye have killed the people of the Lord.
+
+### Numbers 17:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened, when the congregation rushed together against Moses and Aaron, they rushed toward the tent of testimony, and behold, the cloud covered it, and the glory of the Lord appeared.
+- brenton: And it came to pass when the congregation combined against Moses and Aaron, that they ran impetuously to the tabernacle of witness; and the cloud covered it, and the glory of the Lord appeared.
+
+### Numbers 17:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron went in before the tent of testimony.
+- brenton: And Moses and Aaron went in, in front of the tabernacle of witness.
+
+### Numbers 17:9
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 17:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Move away from the midst of this congregation, and I will consume them at once. And they fell on their face.
+- brenton: Depart out of the midst of this congregation, and I will consume them at once: and they fell upon their faces.
+
+### Numbers 17:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to Aaron, Take the firepan and place upon it fire from the altar and cast incense upon it, and carry it quickly into the camp and make atonement for them, for wrath has gone out from the Lord; the breaking of the people has begun.
+- brenton: And Moses said to Aaron, Take a censer, and put on it fire from the altar, and put incense on it, and carry it away quickly into the camp, and make atonement for them; for wrath is gone forth from the presence of the Lord, it has begun to destroy the people.
+
+### Numbers 17:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron took it, just as Moses spoke to him, and ran into the congregation, and already the breaking had begun among the people. And he cast the incense and made atonement for the people.
+- brenton: And Aaron took as Moses spoke to him, and ran among the congregation, for already the plague had begun among the people; and he put on incense, and made an atonement for the people.
+
+### Numbers 17:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he stood between the dead and the living, and the breaking ceased.
+- brenton: And he stood between the dead and the living, and the plague ceased.
+
+### Numbers 17:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those dead in the breaking were fourteen thousand seven hundred, besides those dead because of Korah.
+- brenton: And they that died in the plague were fourteen thousand and seven hundred, besides those that died on account of Core.
+
+### Numbers 17:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron returned to Moses at the door of the tent of testimony, and the breaking ceased.
+- brenton: And Aaron returned to Moses to the door of the tabernacle of witness, and the plague ceased.
+
+### Numbers 17:16
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 17:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel and take from them rod by rod according to the houses of their fathers, from all their chiefs according to the houses of their fathers, twelve rods, and write each one's name on his rod.
+- brenton: Speak to the children of Israel, and take rods of them, according to the houses of their families, a rod from all their princes, according to the houses of their families, twelve rods, and write the name of each on his rod.
+
+### Numbers 17:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron's name you shall write on the rod of Levi, for there shall be one rod for each tribe of the houses of their fathers.
+- brenton: And write the name of Aaron on the rod of Levi; for it is one rod for each: they shall give them according to the tribe of the house of their families.
+
+### Numbers 17:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall place them in the tent of testimony opposite the testimonies, where I will make myself known to you there.
+- brenton: And thou shalt put them in the tabernacle of witness, before the testimony, where I will be made known to thee.
+
+### Numbers 17:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be that the man whom I choose, his rod shall sprout, and I will remove from myself the grumbling of the sons of Israel, which they grumble against you.
+- brenton: And it shall be, the man whom I shall choose, his rod shall blossom; and I will remove from me the murmuring of the children of Israel, which they murmur against you.
+
+### Numbers 17:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the sons of Israel, and all their chiefs gave him a rod, one rod to each chief according to the houses of their fathers, twelve rods, and Aaron's rod was among their rods.
+- brenton: And Moses spoke to the children of Israel, and all their chiefs gave him a rod each, for one chief a rod, according to the house of their families, twelve rods; and the rod of Aaron was in the midst of the rods.
+
+### Numbers 17:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses placed the rods before the Lord in the tent of testimony.
+- brenton: And Moses laid up the rods before the Lord in the tabernacle of witness.
+
+### Numbers 17:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it happened on the next day, Moses and Aaron entered into the tent of testimony, and behold, the rod of Aaron for the house of Levi had sprouted and brought forth a shoot and bloomed blossoms and sprouted nuts.
+- brenton: And it came to pass on the morrow, that Moses and Aaron went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi blossomed, and put forth a bud, and bloomed blossoms and produced almonds.
+
+### Numbers 17:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought out all the rods from before the Lord to all the sons of Israel, and they saw and each took his rod.
+- brenton: And Moses brought forth all the rods from before the Lord to all the sons of Israel; and they looked, and each one took his rod.
+
+### Numbers 17:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Put Aaron's rod before the testimonies for keeping, as a sign to the sons of disobedience, and let their grumbling cease from me, and they shall not die.
+- brenton: And the Lord said to Moses, Lay up the rod of Aaron before the testimonies to be kept as a sign for the children of the disobedient; and let their murmuring cease from me, and they shall not die.
+
+### Numbers 17:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron did just as the Lord commanded Moses; so they did.
+- brenton: And Moses and Aaron did as the Lord commanded Moses, so did they.
+
+### Numbers 17:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel said to Moses, saying, Behold, we are consumed, we are lost, we are utterly destroyed.
+- brenton: And the children of Israel spoke to Moses, saying, Behold, we are cut off, we are destroyed, we are consumed.
+
+### Numbers 17:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone who touches the tent of the Lord dies. Shall we die to the end?
+- brenton: Every one that touches the tabernacle of the Lord, dies: shall we die utterly?
+
+### Numbers 18:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Aaron, saying: you and your sons and your fathers' house with you shall bear the sins of the holy things, and you and your sons shall bear the sins of your priesthood.
+- brenton: And the Lord spoke to Aaron, saying, Thou and thy sons and thy father's house shall bear the sins of the holy things, and thou and thy sons shall bear the iniquity of your priesthood.
+
+### Numbers 18:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your brothers, the tribe of Levi, the clan of your father, bring near to yourself, and let them be joined to you and minister to you, and you and your sons with you shall be before the tent of testimony.
+- brenton: And take to thyself thy brethren the tribe of Levi, the family of thy father, and let them be joined to thee, and let them minister to thee; and thou and thy sons with thee shall minister before the tabernacle of witness.
+
+### Numbers 18:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall keep your charges and the charges of the tent, only they shall not approach the holy vessels and the altar, and they shall not die, both they and you.
+- brenton: And they shall keep thy charges, and the charges of the tabernacle; only they shall not approach the holy vessels and the altar, so both they and you shall not die.
+
+### Numbers 18:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall be joined to you and keep the charges of the tent of testimony according to all the services of the tent, and the stranger shall not come near to you.
+- brenton: And they shall be joined to thee, and shall keep the charges of the tabernacle of witness, in all the services of the tabernacle; and a stranger shall not approach to thee.
+
+### Numbers 18:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall keep the charges of the holy things and the charges of the altar, and there shall not be wrath among the sons of Israel.
+- brenton: And ye shall keep the charges of the holy things, and the charges of the altar, and so there shall not be anger among the children of Israel.
+
+### Numbers 18:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I have taken your brothers, the Levites, from the midst of the sons of Israel, a gift given to the Lord, to minister the services of the tent of testimony.
+- brenton: And I have taken your brethren the Levites out of the midst of the children of Israel, a present given to the Lord, to minister in the services of the tabernacle of witness.
+
+### Numbers 18:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you and your sons with you shall keep your priesthood according to every matter of the altar and what is within the veil, and you shall minister the ministries. I give your priesthood as a gift, and the stranger coming near shall die.
+- brenton: And thou and thy sons after thee shall keep up your priestly ministration, according to the whole manner of the altar, and that which is within the veil; and ye shall minister in the services as the office of your priesthood; and the stranger that comes near shall die.
+
+### Numbers 18:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Aaron: and I, behold, have given you the keeping of the firstfruits from all things sanctified to me from the sons of Israel. I have given them to you as an honor and to your sons after you, an everlasting statute.
+- brenton: And the Lord said to Aaron, And, behold, I have given you the charge of the first-fruits of all things consecrated to me by the children of Israel; and I have given them to thee as an honour, and to thy sons after thee for a perpetual ordinance.
+
+### Numbers 18:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this shall be yours from the holy things of the gifts: from all their gifts and from all their sacrifices and from all their trespasses and from all their sins, whatever they give back to me from all the holy things shall be yours and your sons'.
+- brenton: And let this be to you from all the holy things that are consecrated to me, even the burnt-offerings, from all their gifts, and from all their sacrifices, and from every trespass-offering of theirs, and from all their sin-offerings, whatever things they give to me of all their holy things, they shall be thine and thy sons'.
+
+### Numbers 18:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: In the holy of holies you shall eat them. Every male shall eat them, you and your sons. They shall be holy to you.
+- brenton: In the most holy place shall ye eat them; every male shall eat them, thou and thy sons: they shall be holy to thee.
+
+### Numbers 18:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this shall be yours: the firstfruits of their gifts from all the offerings of the sons of Israel. I have given them to you and to your sons and your daughters with you, an everlasting statute. Everyone clean in your house shall eat them.
+- brenton: And this shall be to you of the first-fruits of their gifts, of all the wave-offerings of the children of Israel; to thee have I given them and to thy sons and thy daughters with thee, a perpetual ordinance; every clean person in thy house shall eat them.
+
+### Numbers 18:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the firstfruits of oil and all the firstfruits of wine and grain, their firstfruits, whatever they give to the Lord, I have given them to you.
+- brenton: Every first-offering of oil, and every first-offering of wine, their first-fruits of corn, whatsoever they may give to the Lord, to thee have I given them.
+
+### Numbers 18:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the first produce in their land, whatever they bring to the Lord, shall be yours. Everyone clean in your house shall eat them.
+- brenton: All the first-fruits that are in their land, whatsoever they shall offer to the Lord, shall be thine: every clean person in thy house shall eat them.
+
+### Numbers 18:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Every devoted thing among the sons of Israel shall be yours.
+- brenton: Every devoted thing among the children of Israel shall be thine.
+
+### Numbers 18:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every opener of the womb from all flesh, which they bring to the Lord, from human to beast, shall be yours. But in redeeming, the firstborn of humans shall be redeemed, and the firstborn of unclean beasts you shall redeem.
+- brenton: And every thing that opens the womb of all flesh, whatsoever they bring to the Lord, whether man or beast, shall be thine: only the first-born of men shall be surely redeemed, and thou shalt redeem the first-born of unclean cattle.
+
+### Numbers 18:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And its redemption from one month old shall be, by valuation, five shekels according to the holy shekel; twenty obols they are.
+- brenton: And the redemption of them shall be from a month old; their valuation of five shekels—it is twenty oboli according to the holy shekel.
+
+### Numbers 18:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Only the firstborn of cattle and the firstborn of sheep and the firstborn of goats you shall not redeem; they are holy. And their blood you shall pour out toward the altar, and the fat you shall offer as a gift, as an aroma of sweet fragrance to the Lord.
+- brenton: But thou shalt not redeem the first-born of calves and the first-born of sheep and the first-born of goats; they are holy: and thou shalt pour their blood upon the altar, and thou shalt offer the fat as a burnt-offering for a smell of sweet savour to the Lord.
+
+### Numbers 18:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the meat shall be yours, just as the breast of the offering set before the Lord and the right arm shall be yours.
+- brenton: And the flesh shall be thine, as also the breast of the wave-offering and as the right shoulder, it shall be thine.
+
+### Numbers 18:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
+- brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+
+### Numbers 18:20
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord spoke to Aaron: In their land you shall not inherit, and no part shall be yours among them, because I am your part and your inheritance in the midst of the sons of Israel.
+- brenton: And the Lord said to Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any portion among them; for I am thy portion and thine inheritance in the midst of the children of Israel.
+
+### Numbers 18:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to the sons of Levi, behold, I have given every tithe in Israel as an inheritance in exchange for their services, whatever services they minister in the tent of testimony.
+- brenton: And, behold, I have given to the sons of Levi every tithe in Israel for an inheritance for their services, whereinsoever they perform ministry in the tabernacle of witness.
+
+### Numbers 18:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel shall no longer come near to the tent of testimony, to bear a deadly sin.
+- brenton: And the children of Israel shall no more draw nigh to the tabernacle of witness to incur fatal guilt.
+
+### Numbers 18:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Levite himself shall minister the ministry of the tent of testimony, and they shall bear their sins, an everlasting statute throughout their generations. And in the midst of the sons of Israel they shall not inherit an inheritance.
+- brenton: And the Levite himself shall perform the service of the tabernacle of witness; and they shall bear their iniquities, it is a perpetual statute throughout their generations; and in the midst of the children of Israel they shall not receive an inheritance.
+
+### Numbers 18:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because the tithes of the sons of Israel, whatever they set apart to the Lord as a contribution, I have given to the Levites as an inheritance. Therefore I said to them, In the midst of the sons of Israel they shall not inherit an inheritance.
+- brenton: Because I have given as a distinct portion to the Levites for an inheritance the tithes of the children of Israel, whatsoever they shall offer to the Lord; therefore I said to them, In the midst of the children of Israel they shall have no inheritance.
+
+### Numbers 18:25
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 18:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall speak to the Levites and say to them, If you receive from the sons of Israel the tithe that I have given you from them as an inheritance, then you shall remove from it a contribution to the Lord, a tithe from the tithe.
+- brenton: Thou shalt also speak to the Levites, and shalt say to them, If ye take the tithe from the children of Israel, which I have given you from them for an inheritance, then shall ye separate from it a heave-offering to the Lord, a tenth of the tenth.
+
+### Numbers 18:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your contributions shall be reckoned to you as grain from the threshing floor and as contribution from the winepress.
+- brenton: And your heave-offerings shall be reckoned to you as corn from the floor, and an offering from the wine-press.
+
+### Numbers 18:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Thus you also shall remove the Lord's contribution from all your tithes, whatever you receive from the sons of Israel, and from them you shall give the Lord's contribution to Aaron the priest.
+- brenton: So shall ye also separate them from all the offerings of the Lord out of all your tithes, whatsoever ye shall receive from the children of Israel; and ye shall give of them an offering to the Lord to Aaron the priest.
+
+### Numbers 18:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From all your gifts you shall remove the Lord's contribution, from all the firstfruits, the holy part from it.
+- brenton: Of all your gifts ye shall offer an offering to the Lord, and of every first-fruit the consecrated part from it.
+
+### Numbers 18:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall say to them, When you remove the first part from it, it shall be reckoned to the Levites as produce from the threshing floor and as produce from the winepress.
+- brenton: And thou shalt say to them, When ye shall offer the first-fruits from it, then shall it be reckoned to the Levites as produce from the threshing-floor, and as produce from the wine-press.
+
+### Numbers 18:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall eat it in every place, you and your households, because this is wages for you in exchange for your services in the tent of testimony.
+- brenton: And ye shall eat it in any place, ye and your families; for this is your reward for your services in the tabernacle of witness.
+
+### Numbers 18:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not bear sin because of it when you remove the first part from it, and you shall not profane the holy things of the sons of Israel, so that you do not die.
+- brenton: And ye shall not bear sin by reason of it, for ye shall have offered an offering of first-fruits from it, and ye shall not profane the holy things of the children of Israel, that ye die not.
+
+### Numbers 19:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses and Aaron, saying,
+- brenton: And the Lord spoke to Moses and Aaron, saying,
+
+### Numbers 19:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: This is the ordinance of the law, what the Lord commanded, saying: Speak to the sons of Israel, and let them take to you a red heifer, unblemished, in which there is no defect and on which a yoke has not come.
+- brenton: This is the constitution of the law, as the Lord has commanded, saying, Speak to the sons of Israel, and let them take for thee a red heifer without spot, which has no spot on her, and on which no yoke has been put.
+
+### Numbers 19:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall give it to Eleazar the priest, and they shall bring it outside the camp to a clean place, and they shall slaughter it before him.
+- brenton: And thou shalt give her to Eleazar the priest; and they shall bring her out of the camp into a clean place, and shall kill her before his face.
+
+### Numbers 19:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eleazar shall take from its blood and sprinkle from its blood seven times toward the face of the tent of testimony.
+- brenton: And Eleazar shall take of her blood, and sprinkle of her blood seven times in front of the tabernacle of witness.
+
+### Numbers 19:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they shall burn it before him, and its skin and its flesh and its blood with its dung shall be burned.
+- brenton: And they shall burn her to ashes before him; and her skin and her flesh and her blood, with her dung, shall be consumed.
+
+### Numbers 19:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall take cedar wood and hyssop and scarlet and cast them into the midst of the burning of the heifer.
+- brenton: And the priest shall take cedar wood and hyssop and scarlet wool, and they shall cast them into the midst of the burning of the heifer.
+
+### Numbers 19:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priest shall wash his garments and bathe his body in water, and after these things he shall enter into the camp, and the priest shall be unclean until evening.
+- brenton: And the priest shall wash his garments, and bathe his body in water, and afterwards he shall go into the camp, and the priest shall be unclean till evening.
+
+### Numbers 19:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one burning it shall wash his garments and bathe his body, and he shall be unclean until evening.
+- brenton: And he that burns her shall wash his garments, and bathe his body, and shall be unclean till evening.
+
+### Numbers 19:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a clean man shall gather the ashes of the heifer and place them outside the camp in a clean place, and it shall be for the congregation of the sons of Israel for keeping, as water of sprinkling; it is purification.
+- brenton: And a clean man shall gather up the ashes of the heifer, and lay them up in a clean place outside the camp; and they shall be for the congregation of the children of Israel to keep: it is the water of sprinkling, a purification.
+
+### Numbers 19:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the one gathering the ashes of the heifer shall wash his garments and be unclean until evening, and it shall be for the sons of Israel and for the sojourners dwelling among them an everlasting statute.
+- brenton: And he that gathers up the ashes of the heifer shall wash his garments, and shall be unclean until evening; and it shall be a perpetual statute for the children of Israel and for the strangers joined to them.
+
+### Numbers 19:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one touching the dead of any human person shall be unclean seven days.
+- brenton: He that touches the dead body of any man, shall be unclean seven days.
+
+### Numbers 19:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This one shall be purified on the third day and on the seventh day and shall be clean. But if he is not purified on the third day and on the seventh day, he shall not be clean.
+- brenton: He shall be purified on the third day and the seventh day, and shall be clean; but if he be not purged on the third day and the seventh day, he shall not be clean.
+
+### Numbers 19:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
+
+### Numbers 19:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the law: if a person dies in a house, everyone entering into the house and everything in the house shall be unclean seven days.
+- brenton: And this is the law; if a man die in a house, every one that goes into the house, and all things in the house, shall be unclean seven days.
+
+### Numbers 19:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every open vessel on which no binding is tied shall be unclean.
+- brenton: And every open vessel which has not a covering bound upon it, shall be unclean.
+
+### Numbers 19:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone who touches on the face of the field one slain or a dead body or a human bone or a grave shall be unclean seven days.
+- brenton: And every one who shall touch a man slain by violence, or a corpse, or human bone, or sepulchre, shall be unclean seven days.
+
+### Numbers 19:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for the unclean they shall take from the ashes of the burnt purification and pour living water upon it into a vessel.
+- brenton: And they shall take for the unclean of the burnt ashes of purification, and they shall pour upon them running water into a vessel.
+
+### Numbers 19:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a clean man shall take hyssop and dip it into the water and sprinkle it upon the house and upon the vessels and upon the persons who are there, and upon the one who touched the bone, the human body, or the slain one, or the dead one, or the grave.
+- brenton: And a clean man shall take hyssop, and dip it into the water, and sprinkle it upon the house, and the furniture, and all the souls that are therein, and upon him that touched the human bone, or the slain man, or the corpse, or the tomb.
+
+### Numbers 19:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the clean person shall sprinkle upon the unclean on the third day and on the seventh day, and he shall be purified on the seventh day and wash his garments and bathe in water, and he shall be unclean until evening.
+- brenton: And the clean man shall sprinkle the water on the unclean on the third day and on the seventh day, and on the seventh day he shall purify himself; and the other shall wash his garments, and bathe himself in water, and shall be unclean until evening.
+
+### Numbers 19:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the person who becomes unclean and is not purified shall be cut off from the midst of the congregation, because he has defiled the holy things of the Lord, because water of sprinkling was not sprinkled upon him. He is unclean.
+- brenton: And whatever man shall be defiled and shall not purify himself, that soul shall be cut off from the midst of the congregation, because he has defiled the holy things of the Lord, because the water of sprinkling has not been sprinkled upon him; he is unclean.
+
+### Numbers 19:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be for you an everlasting statute, and the one sprinkling water of sprinkling shall wash his garments, and the one touching the water of sprinkling shall be unclean until evening.
+- brenton: And it shall be to you a perpetual statute; and he that sprinkles the water of sprinkling shall wash his garments; and he that touches the water of sprinkling shall be unclean until evening.
+
+### Numbers 19:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everything that the unclean person touches shall be unclean, and the person touching it shall be unclean until evening.
+- brenton: And whatsoever the unclean man shall touch shall be unclean, and the soul that touches it shall be unclean till evening.
+
+### Numbers 20:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel, the whole congregation, came into the wilderness of Sin in the first month, and the people stayed in Kadesh, and Miriam died there and was buried there.
+- brenton: And the children of Israel, even the whole congregation, came into the wilderness of Sin, in the first month, and the people abode in Cades; and Mariam died there, and was buried there.
+
+### Numbers 20:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And there was no water for the congregation, and they gathered against Moses and Aaron.
+- brenton: And there was no water for the congregation: and they gathered themselves together against Moses and Aaron.
+
+### Numbers 20:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people were reviling Moses, saying, If only we had died in the destruction of our brothers before the Lord.
+- brenton: And the people reviled Moses, saying, Would we had died in the destruction of our brethren before the Lord!
+
+### Numbers 20:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And why did you bring up the congregation of the Lord into this wilderness, to kill us and our cattle?
+- brenton: And wherefore have ye brought up the congregation of the Lord into this wilderness, to kill us and our cattle?
+
+### Numbers 20:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And why is this, that you brought us up from Egypt, to come into this evil place? It is no place for sowing, or figs, or vines, or pomegranates, and there is no water to drink.
+- brenton: And wherefore is this? Ye have brought us up out of Egypt, that we should come into this evil place; a place where there is no sowing, neither figs, nor vines, nor pomegranates, neither is there water to drink.
+
+### Numbers 20:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron came from before the congregation to the door of the tent of testimony and fell on their face, and the glory of the Lord appeared to them.
+- brenton: And Moses and Aaron went from before the assembly to the door of the tabernacle of witness, and they fell upon their faces; and the glory of the Lord appeared to them.
+
+### Numbers 20:7
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 20:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the rod and assemble the congregation, you and Aaron your brother, and speak to the rock before them, and it will give its waters, and you shall bring out water for them from the rock, and you shall give drink to the congregation and to their cattle.
+- brenton: Take thy rod, and call the assembly, thou and Aaron thy brother, and speak ye to the rock before them, and it shall give forth its waters; and ye shall bring forth for them water out of the rock, and give drink to the congregation and their cattle.
+
+### Numbers 20:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took the rod from before the Lord, just as the Lord commanded.
+- brenton: And Moses took his rod which was before the Lord, as the Lord commanded.
+
+### Numbers 20:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Aaron assembled the congregation before the rock, and he said to them, Hear me, you disobedient ones. Shall we bring out water for you from this rock?
+- brenton: And Moses and Aaron assembled the congregation before the rock, and said to them, Hear me, ye disobedient ones; must we bring you water out of this rock?
+
+### Numbers 20:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses lifted his hand and struck the rock with the rod twice, and much water came out, and the congregation and their cattle drank.
+- brenton: And Moses lifted up his hand and struck the rock with his rod twice; and much water came forth, and the congregation drank, and their cattle.
+
+### Numbers 20:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses and Aaron, Because you did not trust me, to sanctify me before the sons of Israel, therefore you shall not bring this congregation into the land that I have given them.
+- brenton: And the Lord said to Moses and Aaron, Because ye have not believed me to sanctify me before the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
+
+### Numbers 20:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: This is the water of reviling, because the sons of Israel reviled before the Lord, and he was sanctified among them.
+- brenton: This is the water of Strife, because the children of Israel spoke insolently before the Lord, and he was sanctified in them.
+
+### Numbers 20:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
+- brenton: And Moses sent messengers from Cades to the king of Edom, saying, Thus says thy brother Israel; Thou knowest all the distress that has come upon us.
+
+### Numbers 20:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And our fathers went down into Egypt, and we lived in Egypt many days, and the Egyptians mistreated us and our fathers.
+- brenton: And how our fathers went down into Egypt, and we sojourned in Egypt many days, and the Egyptians afflicted us and our fathers.
+
+### Numbers 20:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
+- brenton: And we cried to the Lord, and the Lord heard our voice, and sent an angel and brought us out of Egypt; and now we are in the city of Cades, at the extremity of thy coasts.
+
+### Numbers 20:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We shall pass through your land. We shall not pass through fields or through vineyards, nor shall we drink water from your cistern. We shall go by the king's road. We shall not turn aside right or left until we pass your borders.
+- brenton: We will pass through thy land: we will not go through the fields, nor through the vineyards, nor will we drink water out of thy cistern: we will go by the king's highway; we will not turn aside to the right hand or to the left, until we have passed thy borders.
+
+### Numbers 20:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Edom said to him, You shall not pass through me. Otherwise I will come out to meet you in war.
+- brenton: And Edom said to him, Thou shalt not pass through me, and if otherwise, I will go forth to meet thee in war.
+
+### Numbers 20:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel say to him, We shall pass along the mountain. And if I and my cattle drink your water, I will give payment to you. But the matter is nothing. We shall pass along the mountain.
+- brenton: And the children of Israel say to him, We will pass by the mountain; and if I and my cattle drink of thy water, I will pay thee: but it is no matter of importance, we will go by the mountain.
+
+### Numbers 20:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But he said, You shall not pass through me. And Edom came out to meet him with a heavy crowd and with a strong hand.
+- brenton: And he said, Thou shalt not pass through me; and Edom went forth to meet him with a great host, and a mighty hand.
+
+### Numbers 20:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Edom was not willing to let Israel pass through his borders, and Israel turned aside from him.
+- brenton: So Edom refused to allow Israel to pass through his borders, and Israel turned away from him.
+
+### Numbers 20:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Kadesh, and the sons of Israel, the whole congregation, came to Mount Hor.
+- brenton: And they departed from Cades; and the children of Israel, even the whole congregation, came to Mount Or.
+
+### Numbers 20:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses and Aaron at Mount Hor on the borders of the land of Edom, saying,
+- brenton: And the Lord spoke to Moses and Aaron in mount Or, on the borders of the land of Edom, saying,
+
+### Numbers 20:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Let Aaron be added to his people, because you shall surely not enter into the land that I have given to the sons of Israel, because you provoked me at the water of reviling.
+- brenton: Let Aaron be added to his people; for ye shall certainly not go into the land which I have given the children of Israel, because ye provoked me at the water of strife.
+
+### Numbers 20:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take Aaron and Eleazar his son, and bring them up to Mount Hor before all the congregation.
+- brenton: Take Aaron, and Eleazar his son, and bring them up to the mount Or before all the congregation;
+
+### Numbers 20:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there.
+- brenton: and take Aaron's apparel from off him, and put it on Eleazar his son: and let Aaron die there and be added to his people.
+
+### Numbers 20:27
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses did just as the Lord commanded, and he brought him up to Mount Hor before all the congregation.
+- brenton: And Moses did as the Lord commanded him, and took him up to mount Or, before all the congregation.
+
+### Numbers 20:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses stripped Aaron of his garments and clothed Eleazar his son with them, and Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
+- brenton: And he took Aaron's garments off him, and put them on Eleazar his son, and Aaron died on the top of the mountain; and Moses and Eleazar came down from the mountain.
+
+### Numbers 20:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the congregation saw that Aaron had been released, and all the house of Israel mourned Aaron thirty days.
+- brenton: And all the congregation saw that Aaron was dead: and they wept for Aaron thirty days, even all the house of Israel.
+
+### Numbers 21:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Canaanite king of Arad, who dwelt by the wilderness, heard, for Israel was coming by the way of Atharim, and he fought against Israel and took captives from them.
+- brenton: And Arad the Chananitish king who dwelt by the wilderness, heard that Israel came by the way of Atharin; and he made war on Israel, and carried off some of them captives.
+
+### Numbers 21:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel vowed a vow to the Lord and said, If you hand this people over into my hand, I will devote them and their cities to destruction.
+- brenton: And Israel vowed a vow to the Lord, and said, If thou wilt deliver this people into my power, I will devote it and its cities to thee.
+
+### Numbers 21:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord heard the voice of Israel and handed over the Canaanite into his hand, and he devoted him and his cities to destruction, and they called the name of that place Devoted Destruction.
+- brenton: And the Lord hearkened to the voice of Israel, and delivered the Chananite into his power; and Israel devoted him and his cities, and they called the name of that place Anathema.
+
+### Numbers 21:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And setting out from Mount Hor by the way of the Red Sea, they went around the land of Edom, and the people grew short-souled on the way.
+- brenton: And having departed from mount Or by the way leading to the Red Sea, they compassed the land of Edom, and the people lost courage by the way.
+
+### Numbers 21:5
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the people were speaking against God and against Moses, saying, Why did you bring us up from Egypt, to kill us in the wilderness? For there is no bread and no water, and our soul has loathed this empty bread.
+- brenton: And the people spoke against God and against Moses, saying, Why is this? Hast thou brought us ought of Egypt to slay us in the wilderness? for there is not bread nor water; and our soul loathes this light bread.
+
+### Numbers 21:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord sent among the people deadly snakes, and they were biting the people, and many people from the sons of Israel died.
+- brenton: And the Lord sent among the people deadly serpents, and they bit the people, and much people of the children of Israel died.
+
+### Numbers 21:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the people came to Moses and were saying, We sinned, because we spoke against the Lord and against you. Pray then to the Lord, and let him take the snake away from us. And Moses prayed to the Lord concerning the people.
+- brenton: And the people came to Moses and said, We have sinned, for we have spoken against the Lord, and against thee: pray therefore to the Lord, and let him take away the serpent from us.
+
+### Numbers 21:8
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord said to Moses, Make yourself a snake and set it on a sign, and it shall be that if a snake bites a person, everyone bitten, looking at it, shall live.
+- brenton: And Moses prayed to the Lord for the people; and the Lord said to Moses, Make thee a serpent, and put it on a signal-staff; and it shall come to pass that whenever a serpent shall bite a man, every one so bitten that looks upon it shall live.
+
+### Numbers 21:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses made a bronze snake and set it on a sign, and it came to pass, when a snake bit a person and he looked on the bronze snake, he lived.
+- brenton: And Moses made a serpent of brass, and put it upon a signal-staff: and it came to pass that whenever a serpent bit a man, and he looked on the brazen serpent, he lived.
+
+### Numbers 21:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel set out and camped in Oboth.
+- brenton: And the children of Israel departed, and encamped in Oboth.
+
+### Numbers 21:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And setting out from Oboth, they camped in Achelgai beyond, in the wilderness that is opposite Moab, toward the sunrise.
+- brenton: And having departed from Oboth, they encamped in Achalgai, on the farther side in the wilderness, which is opposite Moab, toward the east.
+
+### Numbers 21:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From there they set out and camped in the ravine of Zaret.
+- brenton: And thence they departed, and encamped in the valley of Zared.
+
+### Numbers 21:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from there, setting out, they camped beyond Arnon, in the wilderness that extends from the borders of the Amorites. For Arnon is the border of Moab, between Moab and the Amorite.
+- brenton: And they departed thence and encamped on the other side of Arnon in the wilderness, the country which extends from the coasts of the Amorites; for Arnon is the borders of Moab, between Moab and the Amorites.
+
+### Numbers 21:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Therefore it is said in the Book, The War of the Lord: Zoob he set aflame, and the torrents of Arnon.
+- brenton: Therefore it is said in a book, A war of the Lord has set on fire Zoob, and the brooks of Arnon.
+
+### Numbers 21:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he established the torrents to make Ar a dwelling, and it lies against the borders of Moab.
+- brenton: And he has appointed brooks to cause Er to dwell there; and it lies near to the coasts of Moab.
+
+### Numbers 21:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from there to the well. This is the well about which the Lord said to Moses, Gather the people, and I will give them water to drink.
+- brenton: And thence they came to the well; this is the well of which the Lord said to Moses, Gather the people, and I will give them water to drink.
+
+### Numbers 21:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Then Israel sang this song over the well: Sing to it.
+- brenton: Then Israel sang this song at the well, Begin to sing of the well;
+
+### Numbers 21:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Well that rulers dug, kings of nations quarried out in their kingdom, when they ruled. And from the well to Manthanain,
+- brenton: the princes digged it, the kings of the nations in their kingdom, in their lordship sank it in the rock: and they went from the well to Manthanain,
+
+### Numbers 21:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and from Manthanain to Naaliel, and from Naaliel to Bamoth,
+- brenton: and from Manthanain to Naaliel, and from Naaliel to Bamoth, and from Bamoth to Janen, which is in the plain of Moab as seen from the top of the quarried rock that looks toward the wilderness.
+
+### Numbers 21:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and from Bamoth to the valley that is in the field of Moab, from the top of the Hewn Place, which looks toward the face of the wilderness.
+- brenton: And Moses sent ambassadors to Seon king of the Amorites, with peaceable words, saying,
+
+### Numbers 21:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent envoys to Sihon king of the Amorites with words of peace, saying,
+- brenton: We will pass through thy land, we will go by the road; we will not turn aside to the field or to the vineyard.
+
+### Numbers 21:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We shall pass through your land. We shall go by the road. We shall not turn aside into field or vineyard. We shall not drink water from your well. We shall go by the king's road until we pass your borders.
+- brenton: We will not drink water out of thy well; we will go by the king's highway, until we have past thy boundaries.
+
+### Numbers 21:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel.
+- brenton: And Seon did not allow Israel to pass through his borders, and Seon gathered all his people, and went out to set the battle in array against Israel into the wilderness; and he came to Jassa, and set the battle in array against Israel.
+
+### Numbers 21:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel struck him with slaughter by sword and took possession of his land from Arnon to Jabbok, as far as the sons of Ammon, for Jazer is the border of the sons of Ammon.
+- brenton: And Israel smote him with the slaughter of the sword, and they became possessors of his land, from Arnon to Jaboc, as far as the children of Amman, for Jazer is the borders of the children of Amman.
+
+### Numbers 21:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel took all these cities, and Israel settled in all the cities of the Amorites, in Heshbon and in all the villages depending on it.
+- brenton: And Israel took all their cities, and Israel dwelt in all the cities of the Amorites, in Esebon, and in all cities belonging to it.
+
+### Numbers 21:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For Heshbon was the city of Sihon king of the Amorites, and he had fought earlier against the king of Moab and taken all his land from Aroer to Arnon.
+- brenton: For Esebon is the city of Seon king of the Amorites; and he before fought against the king of Moab, and they took all his land, from Aroer to Arnon.
+
+### Numbers 21:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Therefore the riddle-speakers say, Come to Heshbon, so that the city of Sihon may be built and prepared.
+- brenton: Therefore say they who deal in dark speeches, Come to Esebon, that the city of Seon may be built and prepared.
+
+### Numbers 21:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For fire came out from Heshbon, a flame from the city of Sihon, and it devoured as far as Moab and swallowed the pillars of Arnon.
+- brenton: For a fire has gone forth from Esebon, a flame from the city of Seon, and has consumed as far as Moab, and devoured the pillars of Arnon.
+
+### Numbers 21:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Woe to you, Moab. You are destroyed, people of Chemosh. His sons were given over to escape, and his daughters as captives to Sihon king of the Amorites.
+- brenton: Woe to thee, Moab; thou art lost, thou people of Chamos: their sons are sold for preservation, and their daughters are captives to Seon king of the Amorites.
+
+### Numbers 21:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their seed shall perish from Heshbon to Dibon, and the women still kindled fire against Moab.
+- brenton: And their seed shall perish from Esebon to Dæbon; and their women have yet farther kindled a fire against Moab.
+
+### Numbers 21:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel settled in all the cities of the Amorites.
+- brenton: And Israel dwelt in all the cities of the Amorites.
+
+### Numbers 21:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent to spy out Jazer, and they took it and its villages and cast out the Amorite dwelling there.
+- brenton: And Moses sent to spy out Jazer; and they took it, and its villages, and cast out the Amorite that dwelt there.
+
+### Numbers 21:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And turning, they went up by the road to Bashan, and Og king of Bashan came out to meet them, he and all his people, for battle at Edrain.
+- brenton: And having returned, they went up the road that leads to Basan; and Og the king of Basan went forth to meet them, and all his people to war to Edrain.
+
+### Numbers 21:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Do not fear him, because into your hands I have handed him over, and all his people and all his land, and you shall do to him just as you did to Sihon king of the Amorites, who dwelt in Heshbon.
+- brenton: And the Lord said to Moses, Fear him not; for I have delivered him and all his people, and all his land, into thy hands; and thou shalt do to him as thou didst to Seon king of the Amorites, who dwelt in Esebon.
+
+### Numbers 21:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he struck him and his sons and all his people, until none of his people remained alive, and they inherited their land.
+- brenton: And he smote him and his sons, and all his people, until he left none of his to be taken alive; and they inherited his land.
+
+### Numbers 22:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel set out and camped west of Moab by the Jordan at Jericho.
+- brenton: And the children of Israel departed, and encamped on the west of Moab by Jordan toward Jericho.
+
+### Numbers 22:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak son of Zippor saw all that Israel had done to the Amorite.
+- brenton: And when Balac son of Sepphor saw all that Israel did to the Amorite,
+
+### Numbers 22:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moab feared the people greatly, because they were many, and Moab was sickened because of the presence of the sons of Israel.
+- brenton: then Moab feared the people exceedingly because they were many; and Moab was grieved before the face of the children of Israel.
+
+### Numbers 22:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moab said to the elders of Midian, Now this congregation will lick up all around us, as the calf licks up the green growth of the plain. And Balak son of Zippor was king of Moab at that time.
+- brenton: And Moab said to the elders of Madiam, Now shall this assembly lick up all that are round about us, as a calf would lick up the green herbs of the field:—and Balac son of Sepphor was king of Moab at that time.
+
+### Numbers 22:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he sent envoys to Balaam son of Beor at Pathoura, which is on the river, in the land of the sons of his people, to call him, saying, Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me.
+- brenton: And he sent ambassadors to Balaam the son of Beor, to Phathura, which is on a river of the land of the sons of his people, to call him, saying, Behold, a people is come out of Egypt, and behold it has covered the face of the earth, and it has encamped close to me.
+
+### Numbers 22:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now come, curse this people for me, because they are stronger than we. If perhaps we can strike them and drive them from the land, for I know that whomever you bless are blessed, and whomever you curse are cursed.
+- brenton: And now come, curse me this people, for it is stronger than we; if we may be able to smite some of them, and I will cast them out of the land: for I know that whomsoever thou dost bless, they are blessed, and whomsoever thou dost curse, they are cursed.
+
+### Numbers 22:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the elders of Moab and the elders of Midian went, and the divinations were in their hands. And they came to Balaam and spoke to him the words of Balak.
+- brenton: And the elders of Moab went, and the elders of Madiam, and their divining instruments were in their hands; and they came to Balaam, and spoke to him the words of Balac.
+
+### Numbers 22:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he said to them, Lodge here tonight, and I will answer you with the matters that the Lord may speak to me. And the princes of Moab stayed with Balaam.
+- brenton: And he said to them, Tarry here the night, and I will answer you the things which the Lord shall say to me; and the princes of Moab stayed with Balaam.
+
+### Numbers 22:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God came to Balaam and said to him, Who are these men with you?
+- brenton: And God came to Balaam, and said to him, Who are these men with thee?
+
+### Numbers 22:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to God, Balak son of Zippor, king of Moab, sent them to me, saying,
+- brenton: And Balaam said to God, Balac son of Sepphor, king of Moab, sent them to me, saying,
+
+### Numbers 22:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me. And now come, curse it for me. If perhaps I can strike it and drive it from the land.
+- brenton: Behold, a people has come forth out of Egypt, and has covered the face of the land, and it has encamped near to me; and now come, curse it for me, if indeed I shall be able to smite it, and cast it out of the land.
+
+### Numbers 22:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God said to Balaam, You shall not go with them, nor shall you curse the people, for it is blessed.
+- brenton: And God said to Balaam, Thou shalt not go with them, neither shalt thou curse the people; for they are blessed.
+
+### Numbers 22:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam rose in the morning and said to Balak's princes, Run back to your lord. God does not allow me to go with you.
+- brenton: And Balaam rose up in the morning, and said to the princes of Balac, Depart quickly to your lord; God does not permit me to go with you.
+
+### Numbers 22:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the princes of Moab rose and came to Balak and said, Balaam does not want to come with us.
+- brenton: And the princes of Moab rose, and came to Balac, and said, Balaam will not come with us.
+
+### Numbers 22:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak again sent more princes and more honored than these.
+- brenton: And Balac yet again sent more princes and more honourable than they.
+
+### Numbers 22:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came to Balaam and say to him, Thus says Balak son of Zippor: I ask you, do not delay to come to me.
+- brenton: And they came to Balaam, and they say to him, Thus says Balac the son of Sepphor: I beseech thee, delay not to come to me.
+
+### Numbers 22:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For I will honor you greatly, and whatever you say I will do for you. And come, curse this people for me.
+- brenton: For I will greatly honour thee, and will do for thee whatsoever thou shalt say; come then, curse me this people.
+
+### Numbers 22:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam answered and said to the princes of Balak, If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord my God, to do it small or great in my mind.
+- brenton: And Balaam answered and said to the princes of Balac, If Balac would give me his house full of silver and gold, I shall not be able to go beyond the word of the Lord God, to make it little or great in my mind.
+
+### Numbers 22:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now remain here, you too, this night, and I will know what more the Lord will speak to me.
+- brenton: And now do ye also tarry here this night, and I shall know what the Lord will yet say to me.
+
+### Numbers 22:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God came to Balaam by night and said to him, If these men have come to call you, rise, follow them. But the word that I shall speak to you, this you shall do.
+- brenton: And God came to Balaam by night, and said to him, If these men are come to call thee, rise and follow them; nevertheless the word which I shall speak to thee, it shalt thou do.
+
+### Numbers 22:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam rose in the morning, saddled his donkey, and went with the princes of Moab.
+- brenton: And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
+
+### Numbers 22:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
+- brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
+
+### Numbers 22:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
+- brenton: And when the ass saw the angel of God standing opposite in the way, and his sword drawn in his hand, then the ass turned aside out of the way, and went into the field; and Balaam smote the ass with his staff to direct her in the way.
+
+### Numbers 22:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
+- brenton: And the angel of the Lord stood in the avenues of the vines, a fence being on this side and a fence on that.
+
+### Numbers 22:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
+- brenton: And when the ass saw the angel of God, she thrust herself against the wall, and crushed Balaam's foot against the wall, and he smote her again.
+
+### Numbers 22:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
+- brenton: And the angel of the Lord went farther, and came and stood in a narrow place where it was impossible to turn to the right or the left.
+
+### Numbers 22:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
+- brenton: And when the ass saw the angel of God, she lay down under Balaam; and Balaam was angry, and struck the ass with his staff.
+
+### Numbers 22:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God opened the mouth of the donkey, and she says to Balaam, What have I done to you that you have beaten me this third time?
+- brenton: And God opened the mouth of the ass, and she says to Balaam, What have I done to thee, that thou hast smitten me this third time?
+
+### Numbers 22:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to the donkey, Because you have mocked me. If I had a sword in my hand, already I would have pierced you.
+- brenton: And Balaam said to the ass, Because thou hast mocked me; and if I had had a sword in my hand, I would now have killed thee.
+
+### Numbers 22:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the donkey says to Balaam, Am I not your donkey, on which you have ridden from your youth until this day? Have I ever neglected you and acted thus toward you? And he said, No.
+- brenton: And the ass says to Balaam, Am not I thine ass on which thou hast ridden since thy youth till this day? did I ever do thus to thee, utterly disregarding thee? and he said, No.
+
+### Numbers 22:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
+- brenton: And God opened the eyes of Balaam, and he sees the angel of the Lord withstanding him in the way, and his sword drawn in his hand, and he stooped down and worshipped on his face.
+
+### Numbers 22:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
+- brenton: And the angel of God said to him, Why hast thou smitten thine ass this third time? and, behold, I came out to withstand thee, for thy way was not seemly before me; and when the ass saw me, she turned away from me this third time.
+
+### Numbers 22:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the donkey saw me and turned aside from me this third time. And if she had not turned aside, then now I would have killed you, and I would have preserved her alive.
+- brenton: And if she had not turned out of the way, surely now, I should have slain thee, and should have saved her alive.
+
+### Numbers 22:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+- brenton: And Balaam said to the angel of the Lord, I have sinned, for I did not know that thou wert standing opposite in the way to meet me; and now if it shall not be pleasing to thee for me to go on, I will return.
+
+### Numbers 22:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
+- brenton: And the angel of the Lord said to Balaam, Go with the men: nevertheless the word which I shall speak to thee, that thou shalt take heed to speak. And Balaam went with the princes of Balac.
+
+### Numbers 22:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak, hearing that Balaam had come, went out to meet him at the City of Moab, which is on the borders of Arnon, which is at the edge of the border.
+- brenton: And when Balac heard that Balaam was come, he went out to meet him, to a city of Moab, which is on the borders of Arnon, which is on the extreme part of the borders.
+
+### Numbers 22:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak said to Balaam, Did I not send to call you? Why did you not come to me? Am I really not able to honor you?
+- brenton: And Balac said to Balaam, Did I not send to thee to call thee? why hast thou not come to me? shall I not indeed be able to honour thee?
+
+### Numbers 22:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Behold, I have come to you now. Shall I be able to speak anything? The word that God puts in my mouth, this I shall speak.
+- brenton: And Balaam said to Balac, Behold, I am now come to thee: shall I be able to say anything? the word which God shall put into my mouth, that I shall speak.
+
+### Numbers 22:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam went with Balak, and they came to the cities of the settlements.
+- brenton: And Balaam went with Balac, and they came to the cities of streets.
+
+### Numbers 22:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak sacrificed sheep and calves and sent portions to Balaam and to the princes with him.
+- brenton: And Balac offered sheep and calves, and sent to Balaam and to his princes who were with him.
+
+### Numbers 22:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it happened in the morning, and Balak took Balaam and brought him up to the pillar of Baal, and from there he showed him some part of the people.
+- brenton: And it was morning; and Balac took Balaam, and brought him up to the pillar of Baal, and shewed him thence a part of the people.
+
+### Numbers 23:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Build here seven altars for me, and prepare here seven calves and seven rams for me.
+- brenton: And Balaam said to Balac, Build me here seven altars, and prepare me here seven calves, and seven rams.
+
+### Numbers 23:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak did as Balaam said to him, and he offered up a calf and a ram on the altar.
+- brenton: And Balac did as Balaam told him; and he offered up a calf and a ram on every altar.
+
+### Numbers 23:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Stand by your sacrifice, and I will go, if perhaps God will appear to me in a meeting, and whatever word he shows me I will report to you. And Balak stood by his sacrifice, and Balaam went to inquire of God and went straight.
+- brenton: And Balaam said to Balac, Stand by thy sacrifice, and I will go and see if God will appear to me and meet me, and the word which he shall shew me, I will report to thee. And Balac stood by his sacrifice.
+
+### Numbers 23:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God appeared to Balaam, and he said to him, I have prepared the seven altars, and I offered up a calf and a ram on the altar.
+- brenton: And Balaam went to enquire of God; and he went straight forward, and God appeared to Balaam; and Balaam said to him, I have prepared the seven altars, and have offered a calf and a ram on every altar.
+
+### Numbers 23:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus.
+- brenton: And God put a word into the mouth of Balaam, and said, Thou shalt return to Balac, and thus shalt thou speak.
+
+### Numbers 23:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he returned to him, and behold, he had stood by his whole burnt offerings, and all the princes of Moab with him.
+- brenton: And he returned to him, and moreover he stood over his whole-burnt-offerings, and all the princes of Moab with him; and the Spirit of God came upon him.
+
+### Numbers 23:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Spirit of God came to be on him, and taking up his oracle, he said: From Mesopotamia Balak king of Moab has summoned me, from mountains of the east, saying, Come, curse Jacob for me, and come, curse Israel for me.
+- brenton: And he took up his parable, and said, Balac king of Moab sent for me out of Mesopotamia, out of the mountains of the east, saying, Come, curse me Jacob, and Come, call for a curse for me upon Israel.
+
+### Numbers 23:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: What shall I curse, whom the Lord does not curse? Or what shall I denounce, whom God does not denounce?
+- brenton: How can I curse whom the Lord curses not? or how can I devote whom God devotes not?
+
+### Numbers 23:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For from the top of mountains I shall see him, and from the hills I shall perceive him. Behold, a people shall dwell alone, and among nations it shall not be reckoned.
+- brenton: For from the top of the mountains I shall see him, and from the hills I shall observe him: behold, the people shall dwell alone, and shall not be reckoned among the nations.
+
+### Numbers 23:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Who has searched out the seed of Jacob, and who will number the peoples of Israel? Let my soul die among the souls of the righteous, and let my seed become like the seed of these.
+- brenton: Who has exactly calculated the seed of Jacob, and who shall number the families of Israel? let my soul die with the souls of the righteous, and let my seed be as their seed.
+
+### Numbers 23:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak said to Balaam, What have you done to me? I called you to curse my enemies, and behold, you have blessed with blessing.
+- brenton: And Balac said to Balaam, What hast thou done to me? I called thee to curse my enemies, and behold thou hast greatly blessed them.
+
+### Numbers 23:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Shall I not carefully speak whatever God puts into my mouth?
+- brenton: And Balaam said to Balac, Whatsoever the Lord shall put into my mouth, shall I not take heed to speak this?
+
+### Numbers 23:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak said to him, Come still with me to another place from which you will not see him from there, but you will see only some part of him, and all of him you shall certainly not see. And curse him for me from there.
+- brenton: And Balac said to him, Come yet with me to another place where thou shalt not see the people, but only thou shalt see a part of them, and shalt not see them all; and curse me them from thence.
+
+### Numbers 23:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he took him to the field of Lookout, to the top of the Hewn Place, and he built there seven altars and offered up a calf and a ram on the altar.
+- brenton: And he took him to a high place of the field to the top of the quarried rock, and he built there seven altars, and offered a calf and a ram on every altar.
+
+### Numbers 23:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Stand by your sacrifice, but I will go to inquire of God.
+- brenton: And Balaam said to Balac, Stand by thy sacrifice, and I will go to enquire of God.
+
+### Numbers 23:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And God met Balaam and put a word in his mouth and said, Turn back to Balak, and these things you shall speak.
+- brenton: And God met Balaam, and put a word into his mouth, and said, Return to Balac, and thus shalt thou speak.
+
+### Numbers 23:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he returned to him, and behold, he had stood by his whole burnt offering, and all the princes of Moab with him. And Balak said to him, What has the Lord spoken?
+- brenton: And he returned to him: and he also was standing by his whole-burnt-sacrifice, and all the princes of Moab with him; and Balac said to him, What has the Lord spoken?
+
+### Numbers 23:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking up his oracle, he said: Rise, Balak, and hear. Give ear, witness, son of Zippor.
+- brenton: And he took up his parable, and said, Rise up, Balac, and hear; hearken as a witness, thou son of Sepphor.
+
+### Numbers 23:19
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: God is not like a man, to waver, nor like a son of man, to be threatened. He himself said, shall he not do it? He will speak, and will he not remain in it?
+- brenton: God is not as man to waver, nor as the son of man to be threatened; shall he say and not perform? shall he speak and not keep to his word?
+
+### Numbers 23:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Behold, I have received a charge to bless. I will bless, and I shall not turn back.
+- brenton: Behold, I have received commandment to bless: I will bless, and not turn back.
+
+### Numbers 23:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: There shall not be hardship in Jacob, nor shall trouble be seen in Israel. The Lord his God is with him. The glories of rulers are in him.
+- brenton: There shall not be trouble in Jacob, neither shall sorrow be seen in Israel: the Lord his God is with him, the glories of rulers are in him.
+
+### Numbers 23:22
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: God, who brought them out of Egypt, is like the glory of a one-horned beast to them.
+- brenton: It was God who brought him out of Egypt; he has as it were the glory of a unicorn.
+
+### Numbers 23:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For there is no omen in Jacob, nor divination in Israel. In season it shall be said to Jacob and to Israel what God will accomplish.
+- brenton: For there is no divination in Jacob, nor enchantment in Israel; in season it shall be told to Jacob and Israel what God shall perform.
+
+### Numbers 23:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Behold, a people shall rise like a cub and exalt itself like a lion. It shall not lie down until it eats prey and drinks the blood of the wounded.
+- brenton: Behold, the people shall rise up as a lion's whelp, and shall exalt himself as a lion; he shall not lie down till he have eaten the prey, and he shall drink the blood of the slain.
+
+### Numbers 23:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak said to Balaam, Neither curse him with curses for me, nor blessing bless him for me.
+- brenton: And Balac said to Balaam, Neither curse the people at all for me, nor bless them at all.
+
+### Numbers 23:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam answered and said to Balak, Did I not speak to you, saying, The word that God speaks, this I will do?
+- brenton: And Balaam answered and said to Balac, Spoke I not to thee, saying, Whatsoever thing God shall speak to me, that will I do?
+
+### Numbers 23:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak said to Balaam, Come, let me take you to another place. If it pleases God, curse him for me from there.
+- brenton: And Balac said to Balaam, Come and I will remove thee to another place, if it shall please God, and curse me them from thence.
+
+### Numbers 23:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak took Balaam to the top of Peor, which stretches toward the wilderness.
+- brenton: And Balac took Balaam to the top of Phogor, which extends to the wilderness.
+
+### Numbers 23:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Build for me here seven altars, and prepare for me here seven calves and seven rams.
+- brenton: And Balaam said to Balac, Build me here seven altars, and prepare me here seven calves, and seven rams.
+
+### Numbers 23:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak did just as Balaam said to him and offered up a calf and a ram on the altar.
+- brenton: And Balac did as Balaam told him, and offered a calf and a ram on every altar.
+
+### Numbers 24:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam, seeing that it is good before the Lord to bless Israel, did not go as usual to meet the omens, and he turned his face toward the wilderness.
+- brenton: And when Balaam saw that it pleased God to bless Israel, he did not go according to his custom to meet the omens, but turned his face toward the wilderness.
+
+### Numbers 24:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam lifted his eyes and saw Israel encamped tribe by tribe, and the Spirit of God came to be in him.
+- brenton: And Balaam lifted up his eyes, and sees Israel encamped by their tribes; and the Spirit of God came upon him.
+
+### Numbers 24:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
+- brenton: And he took up his parable and said, Balaam son of Beor says, the man who sees truly says,
+
+### Numbers 24:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: says the one hearing the oracles of God, who saw a vision of God in sleep, his eyes having been uncovered.
+- brenton: he says who hears the oracle of the Mighty One, who saw a vision of God in sleep; his eyes were opened:
+
+### Numbers 24:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: How good are your houses, Jacob, your tents, Israel.
+- brenton: How goodly are thy habitations, Jacob, and thy tents, Israel!
+
+### Numbers 24:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Like shaded valleys, and like gardens beside rivers, and like tents that the Lord pitched, like cedars by waters.
+- brenton: as shady groves, and as gardens by a river, and as tents which God pitched, and as cedars by the waters.
+
+### Numbers 24:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A man shall come out from his seed and shall rule many nations, and his kingdom shall be exalted above Gog, and his kingdom shall be increased.
+- brenton: There shall come a man out of his seed, and he shall rule over many nations; and the kingdom of Gog shall be exalted, and his kingdom shall be increased.
+
+### Numbers 24:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: God guided him out of Egypt. He is like the glory of a one-horned beast to him. He shall eat the nations of his enemies and suck out their marrow, and with his missiles he shall shoot through an enemy.
+- brenton: God led him out of Egypt; he has as it were the glory of a unicorn: he shall consume the nations of his enemies, and he shall drain their marrow, and with his darts he shall shoot through the enemy.
+
+### Numbers 24:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Lying down, he rested like a lion and like a cub. Who will raise him? Those blessing you are blessed, and those cursing you are cursed.
+- brenton: He lay down, he rested as a lion, and as a young lion; who shall stir him up? they that bless thee are blessed, and they that curse thee are cursed.
+
+### Numbers 24:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balak became angry against Balaam and clapped his hands, and Balak said to Balaam, I called you to curse my enemy, and behold, blessing you have blessed this third time.
+- brenton: And Balac was angry with Balaam, and clapped his hands together; and Balac said to Balaam, I called thee to curse my enemy, and behold thou hast decidedly blessed him this third time.
+
+### Numbers 24:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then flee to your place. I said I would honor you, and now the Lord has deprived you of glory.
+- brenton: Now therefore flee to thy place: I said, I will honour thee, but now the Lord has deprived thee of glory.
+
+### Numbers 24:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam said to Balak, Did I not also speak to your messengers whom you sent to me, saying,
+- brenton: And Balaam said to Balac, Did I not speak to thy messengers also whom thou sentest to me, saying,
+
+### Numbers 24:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do evil or good from myself. Whatever God says, these things I will say.
+- brenton: If Balac should give me his house full of silver and gold, I shall not be able to transgress the word of the Lord to make it good or bad by myself; whatsoever things God shall say, them will I speak.
+
+### Numbers 24:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now behold, I am going back to my place. Come, I will advise you what this people will do to your people at the last of days.
+- brenton: And now, behold, I return to my place; come, I will advise thee of what this people shall do to thy people in the last days.
+
+### Numbers 24:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
+- brenton: And he took up his parable and said,
+
+### Numbers 24:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: who hears the oracles of God, knowing knowledge from the Most High, who saw a vision of God in sleep, his eyes having been uncovered.
+- brenton: hearing the oracles of God, receiving knowledge from the Most High, and having seen a vision of God in sleep; his eyes were opened.
+
+### Numbers 24:17
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: I will point him out, but not now. I count him blessed, and he is not near. A star shall rise out of Jacob, and a man shall stand up out of Israel, and he shall crush the leaders of Moab and plunder all the sons of Seth.
+- brenton: I will point to him, but not now; I bless him, but he draws not near: a star shall rise out of Jacob, a man shall spring out of Israel; and shall crush the princes of Moab, and shall spoil all the sons of Seth.
+
+### Numbers 24:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Edom shall be an inheritance, and Esau his enemy shall be an inheritance, and Israel acted in strength.
+- brenton: And Edom shall be an inheritance, and Esau his enemy shall be an inheritance of Israel, and Israel wrought valiantly.
+
+### Numbers 24:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one shall rise from Jacob and destroy the survivor from the city.
+- brenton: And one shall arise out of Jacob, and destroy out of the city him that escapes.
+
+### Numbers 24:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seeing Amalek and taking up his oracle, he said: Amalek is the beginning of nations, and their seed shall perish.
+- brenton: And having seen Amalec, he took up his parable and said, Amalec is the first of the nations; yet his seed shall perish.
+
+### Numbers 24:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock,
+- brenton: And having seen the Kenite, he took up his parable and said, Thy dwelling-place is strong; yet though thou shouldest put thy nest in a rock,
+
+### Numbers 24:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then if Beor's nest should come to be in craftiness, Assyrians shall take you captive.
+- brenton: and though Beor should have a skilfully contrived hiding-place, the Assyrians shall carry thee away captive.
+
+### Numbers 24:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And seeing Og and taking up his oracle, he said: Oh, oh, who shall live when God sets these things in place?
+- brenton: And he looked upon Og, and took up his parable and said, Oh, oh, who shall live, when God shall do these things?
+
+### Numbers 24:24
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And one shall come out from the hand of Kittim, and they shall afflict Asshur and afflict Hebrews, and they themselves together shall perish.
+- brenton: And one shall come forth from the hands of the Citians, and shall afflict Assur, and shall afflict the Hebrews, and they shall perish together.
+
+### Numbers 24:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Balaam rose and went away, turning back to his place, and Balak went to himself.
+- brenton: And Balaam rose up and departed and returned to his place, and Balac went to his own home.
+
+### Numbers 25:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel stayed in Sattin, and the people were profaned to prostitute themselves with the daughters of Moab.
+- brenton: And Israel sojourned in Sattin, and the people profaned itself by going a-whoring after the daughters of Moab.
+
+### Numbers 25:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they called them to the sacrifices of their idols, and the people ate from their sacrifices and bowed to their idols.
+- brenton: And they called them to the sacrifices of their idols; and the people ate of their sacrifices, and worshipped their idols.
+
+### Numbers 25:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Israel joined itself to Baal-Peor, and the Lord was enraged in anger against Israel.
+- brenton: And Israel consecrated themselves to Beel-phegor; and the Lord was very angry with Israel.
+
+### Numbers 25:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Take all the leaders of the people and make an example of them for the Lord before the sun, and the anger of the Lord's wrath will turn away from Israel.
+- brenton: And the Lord said to Moses, Take all the princes of the people, and make them examples of judgment for the Lord in the face of the sun, and the anger of the Lord shall be turned away from Israel.
+
+### Numbers 25:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the tribes of Israel, Let each one kill his own kinsman who has been joined to Baal-Peor.
+- brenton: And Moses said to the tribes of Israel, Slay ye every one his friend that is consecrated to Beel-phegor.
+
+### Numbers 25:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And behold, a man from the sons of Israel came and brought the Midianite woman before Moses and before the whole congregation of the sons of Israel, while they were weeping at the door of the tent of testimony.
+- brenton: And, behold, a man of the children of Israel came and brought his brother to a Madianitish woman before Moses, and before all the congregation of the children of Israel; and they were weeping at the door of the tabernacle of witness.
+
+### Numbers 25:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Phinehas son of Eleazar son of Aaron the priest saw, rose up from the midst of the congregation, and taking a spear in his hand,
+- brenton: And Phinees the son of Eleazar, the son of Aaron the priest, saw it, and rose out of the midst of the congregation, and took a javelin in his hand,
+
+### Numbers 25:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: went in after the Israelite man into the chamber and pierced both of them, both the Israelite man and the woman through her womb. And the plague ceased from the sons of Israel.
+- brenton: and went in after the Israelitish man into the chamber, and pierced them both through, both the Israelitish man, and the woman through her womb; and the plague was stayed from the children of Israel.
+
+### Numbers 25:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those who died in the plague became twenty-four thousand.
+- brenton: And those that died in the plague were four and twenty thousand.
+
+### Numbers 25:10
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 25:11
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Phinehas son of Eleazar son of Aaron the priest has stopped my wrath from the sons of Israel by being jealous with my jealousy among them, and I did not consume the sons of Israel in my jealousy.
+- brenton: Phinees the son of Eleazar the son of Aaron the priest has caused my wrath to cease from the children of Israel, when I was exceedingly jealous among them, and I did not consume the children of Israel in my jealousy.
+
+### Numbers 25:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Therefore say, Behold, I give him a covenant of peace.
+- brenton: Thus do thou say to him, Behold, I give him a covenant of peace:
+
+### Numbers 25:13
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
+- brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
+
+### Numbers 25:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of the Israelite man who had been struck, who was struck with the Midianite woman, was Zambri son of Salu, leader of a father's house of the Symeonites.
+- brenton: Now the name of the smitten Israelitish man, who was smitten with the Madianitish woman, was Zambri son of Salmon, prince of a house of the tribe of Symeon.
+
+### Numbers 25:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of the Midianite woman who had been struck was Chasbi daughter of Sur, chief of the nation Ommoth, of a father's house among Midian.
+- brenton: And the name of the Madianitish woman who was smitten, was Chasbi, daughter of Sur, a prince of the nation of Ommoth: it is a chief house among the people of Madiam.
+
+### Numbers 25:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying, Speak to the children of Israel, saying,
+
+### Numbers 25:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Treat the Midianites as enemies and strike them,
+- brenton: Plague the Madianites as enemies, and smite them,
+
+### Numbers 25:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: because they act as enemies toward you in the deceit with which they deceive you over Peor and over Chasbi daughter of the chief of Midian, their sister, the one struck down on the day of the plague over Peor.
+- brenton: for they are enemies to you by the treachery wherein they ensnare you through Phogor, and through Chasbi their sister, daughter of a prince of Madiam, who was smitten in the day of the plague because of Phogor.
+
+### Numbers 26:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to pass after the plague, and the Lord spoke to Moses and to Eleazar the priest, saying,
+- brenton: And it came to pass after the plague, that the Lord spoke to Moses and Eleazar the priest, saying,
+
+### Numbers 26:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the sum of the whole congregation of the sons of Israel, from twenty years old and upward, by their ancestral houses, everyone who goes out to array for battle in Israel.
+- brenton: Take the sum of all the congregation of the children of Israel, from twenty years old and upward, according to the houses of their lineage, every one that goes forth to battle in Israel.
+
+### Numbers 26:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Eleazar the priest spoke in the plains of Moab by the Jordan at Jericho, saying,
+- brenton: And Moses and Eleazar the priest spoke in Araboth of Moab at the Jordan by Jericho, saying,
+
+### Numbers 26:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From twenty years old and upward, just as the Lord commanded Moses. And these are the sons of Israel who came out of Egypt:
+- brenton: This is the numbering from twenty years old and upward as the Lord commanded Moses. And the sons of Israel that came out of Egypt are as follows:
+
+### Numbers 26:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Reuben, Israels firstborn. And the sons of Reuben: of Hanoch, the clan of the Hanochite; of Phallu, the clan of the Phalluite.
+- brenton: Ruben was the first-born of Israel: and the sons of Ruben, Enoch, and the family of Enoch; to Phallu belongs the family of the Phalluites.
+
+### Numbers 26:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Hezron, the clan of the Hezronite; of Carmi, the clan of the Carmite.
+- brenton: To Asron, the family of Asroni: to Charmi, the family of Charmi.
+
+### Numbers 26:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Reuben, and their enrollment became forty-three thousand seven hundred thirty.
+- brenton: These are the families of Ruben; and their numbering was forty-three thousand and seven hundred and thirty.
+
+### Numbers 26:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Phallu: Eliab.
+- brenton: And the sons of Phallu were Eliab,—
+
+### Numbers 26:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Eliab: Namuel and Dathan and Abiram. These are the called men of the congregation, the ones who rose up against Moses and Aaron in the congregation of Korah, in the uprising against the Lord.
+- brenton: and the sons of Eliab, Namuel, and Dathan, and Abiron: these are renowned men of the congregation; these are they that rose up against Moses and Aaron in the gathering of Core, in the rebellion against the Lord.
+
+### Numbers 26:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the earth, opening its mouth, swallowed them and Korah in the death of his congregation, when the fire devoured the two hundred fifty, and they became a sign.
+- brenton: And the earth opened her mouth, and swallowed up them and Core, when their assembly perished, when the fire devoured the two hundred and fifty, and they were made a sign.
+
+### Numbers 26:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But the sons of Korah did not die.
+- brenton: But the sons of Core died not.
+
+### Numbers 26:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Symeon, the clan of the sons of Symeon: of Namuel, the clan of the Namuelite; of Jamin, the clan of the Jaminite; of Jachin, the clan of the Jachinite.
+- brenton: And the sons of Symeon:—the family of the sons of Symeon: to Namuel, belonged the family of the Namuelites; to Jamin the family of the Jaminites; to Jachin the family of the Jachinites.
+
+### Numbers 26:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Zarah, the clan of the Zarahite; of Saul, the clan of the Saulite.
+- brenton: To Zara the family of the Zaraites; to Saul the family of the Saulites.
+
+### Numbers 26:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Symeon from their enrollment, twenty-two thousand two hundred.
+- brenton: These are the families of Symeon according to their numbering, two and twenty thousand and two hundred.
+
+### Numbers 26:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Judah were Er and Onan, and Er and Onan died in the land of Canaan.
+- brenton: And the sons of Juda, Er and Aunan; and Er and Aunan died in the land of Chanaan.
+
+### Numbers 26:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Judah came to be by their clans: of Shelah, the clan of the Shelanite; of Pharez, the clan of the Pharezite; of Zerah, the clan of the Zerahite.
+- brenton: And these were the sons of Juda, according to their families: to Selom belonged the family of the Selonites; to Phares, the family of the Pharesites; to Zara, the family of the Zaraites.
+
+### Numbers 26:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Pharez: of Hezron, the clan of the Hezronite; of Jamoun, the clan of the Jamounite.
+- brenton: And the sons of Phares were, to Asron, the family of the Asronites; to Jamun, the family of the Jamunites.
+
+### Numbers 26:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Judah by their enrollment, seventy-six thousand five hundred.
+- brenton: These are the families of Juda according to their numbering, seventy-six thousand and five hundred.
+
+### Numbers 26:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Issachar by their clans: of Thola, the clan of the Tholaite; of Phua, the clan of the Phuaite.
+- brenton: And the sons of Issachar according to their families: to Thola, the family of the Tholaites; to Phua, the family of the Phuaites.
+
+### Numbers 26:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Jashub, the clan of the Jashubite; of Samaran, the clan of the Samaranite.
+- brenton: To Jasub, the family of the Jasubites; to Samram, the family of the Samramites.
+
+### Numbers 26:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Issachar by their enrollment, sixty-four thousand three hundred.
+- brenton: These are the families of Issachar according to their numbering, sixty-four thousand and four hundred.
+
+### Numbers 26:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Zebulun by their clans: of Sared, the clan of the Saredite; of Allon, the clan of the Allonite; of Allel, the clan of the Allelite.
+- brenton: The sons of Zabulon according to their families: to Sared, the family of the Saredites; to Allon, the family of the Allonites; to Allel, the family of the Allelites.
+
+### Numbers 26:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Zebulun by their enrollment, sixty thousand five hundred.
+- brenton: These are the families of Zabulon according to their numbering, sixty thousand and five hundred.
+
+### Numbers 26:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Gad by their clans: of Saphon, the clan of the Saphonite; of Angi, the clan of the Angite; of Suni, the clan of the Sunite.
+- brenton: The sons of Gad according to their families: to Saphon, the family of the Saphonites; to Angi, the family of the Angites; to Suni, the family of the Sunites;
+
+### Numbers 26:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Azeni, the clan of the Azenite; of Addi, the clan of the Addite.
+- brenton: to Azeni, the family of the Azenites; to Addi, the family of the Addites:
+
+### Numbers 26:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Aroadi, the clan of the Aroadite; of Ariel, the clan of the Arielite.
+- brenton: to Aroadi, the family of the Aroadites; to Ariel, the family of the Arielites.
+
+### Numbers 26:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of the sons of Gad by their enrollment, forty thousand five hundred.
+- brenton: These are the families of the children of Gad according to their numbering, forty-four thousand and five hundred.
+
+### Numbers 26:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Asher by their clans: of Jamin, the clan of the Jaminite; of Jesui, the clan of the Jesuite; of Bari, the clan of the Bariite.
+- brenton: The sons of Aser according to their families; to Jamin, the family of the Jaminites; to Jesu, the family of the Jesusites; to Baria, the family of the Bariaites.
+
+### Numbers 26:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Chober, the clan of the Choberite; of Melchiel, the clan of the Melchielite.
+- brenton: To Chober, the family of the Choberites; to Melchiel, the family of the Melchielites.
+
+### Numbers 26:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of Ashers daughter was Sara.
+- brenton: And the name of the daughter of Aser, Sara.
+
+### Numbers 26:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Asher by their enrollment, fifty-three thousand four hundred.
+- brenton: These are the families of Aser according to their numbering, forty-three thousand and four hundred.
+
+### Numbers 26:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Joseph by their clans: Manasseh and Ephraim.
+- brenton: The sons of Joseph according to their families, Manasse and Ephraim.
+
+### Numbers 26:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Manasseh: of Machir, the clan of the Machirite. And Machir begot Gilead; of Gilead, the clan of the Gileadite.
+- brenton: The sons of Manasse. To Machir the family of the Machirites; and Machir begot Galaad: to Galaad, the family of the Galaadites.
+
+### Numbers 26:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Gilead: of Achiezer, the clan of the Achiezerite; of Cheleg, the clan of the Chelegite.
+- brenton: And these are the sons of Galaad; to Achiezer, the family of the Achiezerites; to Cheleg, the family of the Chelegites.
+
+### Numbers 26:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Esriel, the clan of the Esrielite; of Sychem, the clan of the Sychemite.
+- brenton: To Esriel, the family of the Esrielites; to Sychem, the family of the Sychemites.
+
+### Numbers 26:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Symaer, the clan of the Symaerite; and of Opher, the clan of the Opherite.
+- brenton: To Symaer, the family of the Symaerites; and to Opher, the family of the Opherites.
+
+### Numbers 26:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Salpaad son of Opher there were no sons, but daughters. And these are the names of the daughters of Salpaad: Mala and Noua and Egla and Melcha and Thersa.
+- brenton: And to Salpaad the son of Opher there were no sons, but daughters: and these were the names of the daughters of Salpaad; Mala, and Nua, and Egla, and Melcha, and Thersa.
+
+### Numbers 26:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Manasseh by their enrollment, fifty-two thousand seven hundred.
+- brenton: These are the families of Manasse according to their numbering, fifty-two thousand and seven hundred.
+
+### Numbers 26:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the sons of Ephraim: of Suthala, the clan of the Suthalaite; of Tanach, the clan of the Tanachite.
+- brenton: And these are the children of Ephraim; to Suthala, the family of the Suthalanites; to Tanach, the family of the Tanachites.
+
+### Numbers 26:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Suthala: of Eden, the clan of the Edenite.
+- brenton: These are the sons of Suthala; to Eden, the family of the Edenites.
+
+### Numbers 26:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Ephraim by their enrollment, thirty-two thousand five hundred. These are the clans of the sons of Joseph by their clans.
+- brenton: These are the families of Ephraim according to their numbering, thirty-two thousand and five hundred: these are the families of the children of Joseph according to their families.
+
+### Numbers 26:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Benjamin by their clans: of Bale, the clan of the Baleite; of Asyber, the clan of the Asyberite; of Jachiran, the clan of the Jachiranite.
+- brenton: The sons of Benjamin according to their families; to Bale, the family of the Balites; to Asyber, the family of the Asyberites; to Jachiran, the family of the Jachiranites.
+
+### Numbers 26:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Sophan, the clan of the Sophanite.
+- brenton: To Sophan, the family of the Sophanites.
+
+### Numbers 26:44
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Bale came to be Adar and Noeman: of Adar, the clan of the Adarite; of Noeman, the clan of the Noemanite.
+- brenton: And the sons of Bale were Adar and Noeman; to Adar, the family of the Adarites; and to Noeman, the family of the Noemanites.
+
+### Numbers 26:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the sons of Benjamin by their clans, by their enrollment, forty-five thousand six hundred.
+- brenton: These are the sons of Benjamin by their families according to their numbering, thirty-five thousand and five hundred.
+
+### Numbers 26:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Dan by their clans: of Sami, the clan of the Samite. These are the clans of Dan by their clans.
+- brenton: And the sons of Dan according to their families; to Same, the family of the Sameites; these are the families of Dan according to their families.
+
+### Numbers 26:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the clans of Sami by their enrollment were sixty-four thousand four hundred.
+- brenton: All the families of Samei according to their numbering, sixty-four thousand and four hundred.
+
+### Numbers 26:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Naphtali by their clans: of Asiel, the clan of the Asielite; of Gauni, the clan of the Gaunite.
+- brenton: The sons of Nephthali according to their families; to Asiel, the family of the Asielites; to Gauni, the family of the Gaunites.
+
+### Numbers 26:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Of Jeser, the clan of the Jeserite; of Sellem, the clan of the Sellemite.
+- brenton: To Jeser, the family of the Jeserites; to Sellem, the family of the Sellemites.
+
+### Numbers 26:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of Naphtali by their enrollment, forty-five thousand four hundred.
+- brenton: These are the families of Nephthali, according to their numbering, forty thousand and three hundred.
+
+### Numbers 26:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the enrollment of the sons of Israel: six hundred one thousand seven hundred thirty.
+- brenton: This is the numbering of the children of Israel, six hundred and one thousand and seven hundred and thirty.
+
+### Numbers 26:52
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 26:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: To these the land shall be divided for inheritance by number of names.
+- brenton: To these the land shall be divided, so that they may inherit according to the number of the names.
+
+### Numbers 26:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: To the more you shall increase the inheritance, and to the fewer you shall lessen the inheritance. To each one according to those who were enrolled shall their inheritance be given.
+- brenton: To the greater number thou shalt give the greater inheritance, and to the less number thou shalt give the less inheritance: to each one, as they have been numbered, shall their inheritance be given.
+
+### Numbers 26:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The land shall be divided by lots. By the names of the tribes of their fathers they shall inherit.
+- brenton: The land shall be divided to the names by lot, they shall inherit according to the tribes of their families.
+
+### Numbers 26:56
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Out of the lot you shall divide their inheritance between many and few.
+- brenton: Thou shalt divide their inheritance by lot between the many and the few.
+
+### Numbers 26:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Levi by their clans: of Gedson, the clan of the Gedsonite; of Kaath, the clan of the Kaathite; of Merari, the clan of the Merarite.
+- brenton: And the sons of Levi according to their families; to Gedson, the family of the Gedsonites; to Caath, the family of the Caathites; to Merari, the family of the Merarites.
+
+### Numbers 26:58
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the clans of the sons of Levi: the clan of the Lobenite, the clan of the Chebronite, the clan of Kore, and the clan of Mousi. And Kaath begot Amram.
+- brenton: These are the families of the sons of Levi; the family of the Lobenites, the family of the Chebronites, the family of the Coreites, and the family of the Musites; and Caath begot Amram.
+
+### Numbers 26:59
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram Aaron and Moses and Miriam their sister.
+- brenton: And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram, Aaron and Moses, and Mariam their sister.
+
+### Numbers 26:60
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And to Aaron were born Nadab and Abioud and Eleazar and Ithamar.
+- brenton: And to Aaron were born both Nadab and Abiud, and Eleazar, and Ithamar.
+
+### Numbers 26:61
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Nadab and Abioud died when they brought strange fire before the Lord in the wilderness of Sinai.
+- brenton: And Nadab and Abiud died when they offered strange fire before the Lord in the wilderness of Sina.
+
+### Numbers 26:62
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And those from their enrollment became twenty-three thousand, every male from one month old and upward. For they were not enrolled among the sons of Israel, because no inheritance is given to them among the sons of Israel.
+- brenton: And there were according to their numbering, twenty-three thousand, every male from a month old and upward; for they were not numbered among the children of Israel, because they have no inheritance in the midst of the children of Israel.
+
+### Numbers 26:63
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this is the enrollment of Moses and Eleazar the priest, who enrolled the sons of Israel in the plains of Moab by the Jordan at Jericho.
+- brenton: And this is the numbering of Moses and Eleazar the priest, who numbered the children of Israel in Araboth of Moab, at Jordan by Jericho.
+
+### Numbers 26:64
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And among these there was no man from those enrolled by Moses and Aaron who enrolled the sons of Israel in the wilderness of Sinai.
+- brenton: And among these there was not a man numbered by Moses and Aaron, whom, even the children of Israel, they numbered in the wilderness of Sinai.
+
+### Numbers 26:65
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because the Lord said to them, By death they shall die in the wilderness. And there was not left from them even one, except Caleb son of Jephunneh and Joshua son of Nun.
+- brenton: For the Lord said to them, They shall surely die in the wilderness; and there was not left even one of them, except Chaleb the son of Jephonne, and Joshua the son of Naue.
+
+### Numbers 27:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the daughters of Salpaad son of Opher, son of Gilead, son of Machir, from the clan of Manasseh of the sons of Joseph, came near. And these are their names: Mala and Noua and Egla and Melcha and Thersa.
+- brenton: And the daughters of Salpaad the son of Opher, the son of Galaad, the son of Machir, of the tribe of Manasse, of the sons of Joseph, came near; and these were their names, Maala, and Nua, and Egla, and Melcha, and Thersa;
+
+### Numbers 27:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they stood before Moses and before Eleazar the priest and before the leaders and before the whole congregation at the door of the tent of testimony, saying,
+- brenton: and they stood before Moses, and before Eleazar the priest, and before the princes, and before all the congregation at the door of the tabernacle of witness, saying,
+
+### Numbers 27:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Our father died in the wilderness, and he was not in the midst of the congregation that gathered against the Lord in the congregation of Korah, but he died for his own sin, and sons were not born to him.
+- brenton: Our father died in the wilderness, and he was not in the midst of the congregation that rebelled against the Lord in the gathering of Core; for he died for his own sin, and he had no sons. Let not the name of our father be blotted out of the midst of his people, because he has no son: give us an inheritance in the midst of our father's brethren.
+
+### Numbers 27:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let not the name of our father be wiped out from the midst of his clan because he has no son. Give us a possession among the brothers of our father.
+- brenton: And Moses brought their case before the Lord.
+
+### Numbers 27:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses brought their judgment before the Lord.
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 27:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: The daughters of Salpaad have spoken rightly: thou shalt surely give them a possession of inheritance in the midst of their father's brethren, and thou shalt assign their father's inheritance to them.
+
+### Numbers 27:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: The daughters of Salpaad have spoken rightly. Giving you shall give them a possession of inheritance among the brothers of their father, and you shall put the inheritance of their father upon them.
+- brenton: And thou shalt speak to the children of Israel, saying,
+
+### Numbers 27:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter.
+- brenton: If a man die, and have no son, ye shall assign his inheritance to his daughter.
+
+### Numbers 27:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he has no daughter, you shall give his inheritance to his brother.
+- brenton: And if he have no daughter, ye shall give his inheritance to his brother.
+
+### Numbers 27:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if he has no brothers, you shall give his inheritance to the brother of his father.
+- brenton: And if he have no brethren, ye shall give his inheritance to his father's brother.
+
+### Numbers 27:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if there are no brothers of his father, you shall give his inheritance to his nearest kinsman from his tribe, and he shall inherit what is his. And this shall be for the sons of Israel an ordinance of judgment, just as the Lord commanded Moses.
+- brenton: And if there be no brethren of his father, ye shall give the inheritance to his nearest relation of his tribe, to inherit his possessions; and this shall be to the children of Israel an ordinance of judgment, as the Lord commanded Moses.
+
+### Numbers 27:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to Moses, Go up into this mountain across here, Mount Nabau, and see the land of Canaan that I give to the sons of Israel as a possession.
+- brenton: And the Lord said to Moses, Go up to the mountain that is in the country beyond Jordan, this mount Nabau, and behold the land Chanaan, which I give to the sons of Israel for a possession.
+
+### Numbers 27:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall see it, and you too shall be added to your people, just as Aaron your brother was added on Mount Hor.
+- brenton: And thou shalt see it, and thou also shalt be added to thy people, as Aaron thy brother was added to them in mount Or:
+
+### Numbers 27:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Because you transgressed my word in the wilderness of Sin when the congregation fell against me. To sanctify me, you did not sanctify me over the water before them. This is the water of reviling at Kadesh in the wilderness of Sin.
+- brenton: because ye transgressed my commandment in the wilderness of Sin, when the congregation resisted and refused to sanctify me; ye sanctified me not at the water before them. This is the water of Strife in Cades in the wilderness of Sin.
+
+### Numbers 27:15
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And Moses said to the Lord,
+- brenton: And Moses said to the Lord,
+
+### Numbers 27:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Let the Lord, the God of the spirits and of all flesh, appoint a man over this congregation,
+- brenton: Let the Lord God of spirits and of all flesh look out for a man over this congregation,
+
+### Numbers 27:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: one who shall go out before their face and one who shall come in before their face, and one who shall bring them out and one who shall bring them in, and the congregation of the Lord shall not be like sheep that have no shepherd.
+- brenton: who shall go out before them, and who shall come in before them, and who shall lead them out, and who shall bring them in; so the congregation of the Lord shall not be as sheep without a shepherd.
+
+### Numbers 27:18
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Lord spoke to Moses, saying, Take to yourself Joshua son of Nun, a man who has spirit in himself, and you shall lay your hands upon him.
+- brenton: And the Lord spoke to Moses, saying, Take to thyself Joshua the son of Naue, a man who has the Spirit in him, and thou shalt lay thy hands upon him.
+
+### Numbers 27:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall set him before Eleazar the priest and command him before the whole congregation, and command concerning him before them.
+- brenton: And thou shalt set him before Eleazar the priest, and thou shalt give him a charge before all the congregation, and thou shalt give a charge concerning him before them.
+
+### Numbers 27:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall give some of your glory upon him, so that the sons of Israel may hear him.
+- brenton: And thou shalt put of thy glory upon him, that the children of Israel may hearken to him.
+
+### Numbers 27:21
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
+- brenton: And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.
+
+### Numbers 27:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses did just as the Lord commanded him, and taking Joshua he set him before Eleazar the priest and before the whole congregation.
+- brenton: And Moses did as the Lord commanded him; and he took Joshua, and set him before Eleazar the priest, and before all the congregation.
+
+### Numbers 27:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And he laid his hands upon him and appointed him, just as the Lord commanded Moses.
+- brenton: And he laid his hands on him, and appointed him as the Lord ordered Moses.
+
+### Numbers 28:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 28:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Command the sons of Israel and say to them, saying: My gifts, my offerings, my fruit-gifts for an aroma of sweet fragrance, you shall keep to offer to me at my feasts.
+- brenton: Charge the children of Israel, and thou shalt speak to them, saying, Ye shall observe to offer to me in my feasts my gifts, my presents, my burnt-offerings for a sweet-smelling savour.
+
+### Numbers 28:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall say to them, These are the fruit-gifts that you shall bring near to the Lord: two one-year lambs without blemish each day for a continual whole burnt offering.
+- brenton: And thou shalt say to them, These are the burnt-offerings, all that ye shall bring to the Lord; two lambs of a year old without blemish daily, for a whole-burnt offering perpetually.
+
+### Numbers 28:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The one lamb you shall do in the morning, and the second lamb you shall do at evening.
+- brenton: Thou shalt offer one lamb in the morning, and thou shalt offer the second lamb towards evening.
+
+### Numbers 28:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make a tenth of an ephah of fine flour for a sacrifice kneaded in oil, a fourth of a hin.
+- brenton: And thou shalt offer the tenth part of an ephah of fine flour for a meat-offering, mingled with oil, with the fourth part of a hin.
+
+### Numbers 28:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It is a continual whole burnt offering made on Mount Sinai for an aroma of sweet fragrance to the Lord.
+- brenton: It is a perpetual whole-burnt-offering, a sacrifice offered in the mount of Sina for a sweet-smelling savour to the Lord.
+
+### Numbers 28:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And its libation, a fourth of a hin for the one lamb. In the holy place you shall pour out a libation of strong drink to the Lord.
+- brenton: And its drink-offering, the fourth part of a hin to each lamb; in the holy place shalt thou pour strong drink as a drink-offering to the Lord.
+
+### Numbers 28:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the second lamb you shall do at evening. According to its sacrifice and according to its libation you shall do it for an aroma of sweet fragrance to the Lord.
+- brenton: And the second lamb thou shalt offer toward evening; thou shalt offer it according to its meat-offering and according to its drink-offering for a smell of sweet savour to the Lord.
+
+### Numbers 28:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the day of the Sabbaths you shall bring two one-year lambs without blemish and two tenths of fine flour kneaded in oil for a sacrifice and a libation.
+- brenton: And on the sabbath-day ye shall offer two lambs of a year old without blemish, and two tenth deals of fine flour mingled with oil for a meat-offering, and a drink-offering.
+
+### Numbers 28:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A whole burnt offering of Sabbaths on the Sabbaths, besides the continual whole burnt offering and its libation.
+- brenton: It is a whole-burnt-offering of the sabbaths on the sabbath days, besides the continued whole-burnt-offering, and its drink offering.
+
+### Numbers 28:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And at the new moons you shall bring whole burnt offerings to the Lord: two young bulls from the cattle and one ram, seven one-year lambs without blemish,
+- brenton: And at the new moons ye shall bring a whole-burnt-offering to the Lord, two calves of the herd, and one ram, seven lambs of a year old without blemish.
+
+### Numbers 28:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: three tenths of fine flour kneaded in oil for the one bull and two tenths of fine flour kneaded in oil for the one ram,
+- brenton: Three tenth deals of fine flour mingled with oil for one calf, and two tenth deals of fine flour mingled with oil for one ram.
+
+### Numbers 28:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a tenth of fine flour kneaded in oil for the one lamb, a sacrifice, an aroma of sweet fragrance, a fruit-gift to the Lord.
+- brenton: A tenth deal of fine flour mingled with oil for each lamb, as a meat-offering, a sweet-smelling savour, a burnt-offering to the Lord.
+
+### Numbers 28:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of month by month throughout the months of the year.
+- brenton: Their drink-offering shall be the half of a hin for one calf; and the third of a hin for one ram; and the fourth part of a hin of wine for one lamb: this is the whole-burnt-offering monthly throughout the months of the year.
+
+### Numbers 28:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one kid from the goats for a sin offering to the Lord; besides the continual whole burnt offering it shall be made, and its libation.
+- brenton: And he shall offer one kid of the goats for a sin-offering to the Lord; it shall be offered beside the continual whole-burnt-offering and its drink-offering.
+
+### Numbers 28:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in the first month, on the fourteenth day of the month, Passover to the Lord.
+- brenton: And in the first month, on the fourteenth day of the month, is the passover to the Lord.
+
+### Numbers 28:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the fifteenth day of this month, a feast. Seven days you shall eat unleavened bread.
+- brenton: And on the fifteenth day of this month is a feast; seven days ye shall eat unleavened bread.
+
+### Numbers 28:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the first day shall be a called holy day for you. You shall do no service-work.
+- brenton: And the first day shall be to you a holy convocation; ye shall do no servile work.
+
+### Numbers 28:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring whole burnt offerings, fruit-gifts to the Lord: two young bulls from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
+- brenton: And ye shall bring whole-burnt-offerings, a sacrifice to the Lord, two calves of the herd, one ram, seven lambs of a year old; they shall be to you without blemish.
+
+### Numbers 28:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And their sacrifice shall be fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram.
+- brenton: And their meat-offering shall be fine flour mingled with oil; three tenth deals for one calf, and two tenth deals for one ram.
+
+### Numbers 28:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A tenth by a tenth you shall do for the one lamb, for the seven lambs.
+- brenton: Thou shalt offer a tenth for each lamb, for the seven lambs.
+
+### Numbers 28:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one kid from the goats for a sin offering, to make atonement for you.
+- brenton: And thou shalt offer one kid of the goats for a sin-offering, to make atonement for you.
+
+### Numbers 28:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Besides the continual morning whole burnt offering, which is a continual whole burnt offering.
+- brenton: Beside the perpetual whole-burnt-offering in the morning, which is a whole-burnt-sacrifice for a continuance,
+
+### Numbers 28:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: So shall you do these things day by day for the seven days, a gift, a fruit-gift for an aroma of sweet fragrance to the Lord. Besides the continual whole burnt offering you shall do it and its libation.
+- brenton: these shall ye thus offer daily for seven days, a gift, a sacrifice for a sweet-smelling savour to the Lord; beside the continual whole-burnt-offering, thou shalt offer its drink-offering.
+
+### Numbers 28:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the seventh day shall be a called holy day for you. You shall do no service-work on it.
+- brenton: And the seventh day shall be to you a holy convocation; ye shall do no servile work in it.
+
+### Numbers 28:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the day of the new things, when you offer a new sacrifice to the Lord in the Feast of Weeks, it shall be a called holy day for you. You shall do no service-work.
+- brenton: And on the day of the new corn, when ye shall offer a new sacrifice at the festival of weeks to the Lord, there shall be to you a holy convocation; ye shall do no servile work,
+
+### Numbers 28:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring whole burnt offerings for an aroma of sweet fragrance to the Lord: two young bulls from the cattle, one ram, seven one-year lambs without blemish,
+- brenton: and ye shall bring whole-burnt-offerings for a sweet-smelling savour to the Lord, two calves of the herd, one ram, seven lambs without blemish.
+
+### Numbers 28:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
+- brenton: Their meat-offering shall be fine flour mingled with oil; there shall be three tenth deals for one calf, and two tenth deals for one ram.
+
+### Numbers 28:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a tenth by a tenth for the one lamb, for the seven lambs,
+- brenton: A tenth for each lamb separately, for the seven lambs; and a kid of the goats,
+
+### Numbers 28:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, to make atonement for you.
+- brenton: for a sin-offering, to make atonement for you; beside the perpetual whole-burnt-offering: and
+
+### Numbers 28:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Besides the continual whole burnt offering and their sacrifice you shall do them for me. They shall be without blemish for you, and their libations.
+- brenton: ye shall offer to me their meat-offering. They shall be to you unblemished, and ye shall offer their drink-offerings.
+
+### Numbers 29:1
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And in the seventh month, on the first day of the month, it shall be a called holy day for you. You shall do no service-work. It shall be a day of signal for you.
+- brenton: And in the seventh month, on the first day of the month, there shall be to you a holy convocation: ye shall do no servile work: it shall be to you a day of blowing the trumpets.
+
+### Numbers 29:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall make whole burnt offerings for an aroma of sweet fragrance to the Lord: one bull from the cattle, one ram, seven one-year lambs without blemish,
+- brenton: And ye shall offer whole-burnt-offerings for a sweet savour to the Lord, one calf of the herd, one ram, seven lambs of a year old without blemish.
+
+### Numbers 29:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
+- brenton: Their meat-offering shall be fine flour mingled with oil; three tenth deals for one calf, and two tenth deals for one ram:
+
+### Numbers 29:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a tenth by a tenth for the one lamb, for the seven lambs,
+- brenton: a tenth deal for each several ram, for the seven lambs.
+
+### Numbers 29:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, to make atonement for you,
+- brenton: And one kid of the goats for a sin-offering, to make atonement for you.
+
+### Numbers 29:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: besides the whole burnt offerings of the new moon and their sacrifices and their libations, and the continual whole burnt offering and their sacrifices and their libations, according to their reckoning, for an aroma of sweet fragrance to the Lord.
+- brenton: Beside the whole-burnt-offerings for the new moon, and their meat-offerings, and their drink-offerings, and their perpetual whole-burnt-offering; and their meat-offerings and their drink-offerings according to their ordinance for a sweet-smelling savour to the Lord.
+
+### Numbers 29:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the tenth of this month, it shall be a called holy day for you, and you shall afflict your souls, and you shall do no work.
+- brenton: And on the tenth of this month there shall be to you a holy convocation; and ye shall afflict your souls, and ye shall do no work.
+
+### Numbers 29:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall offer whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
+- brenton: And ye shall bring near whole-burnt-offerings for a sweet-smelling savour to the Lord; burnt-sacrifices to the Lord, one calf of the herd, one ram, seven lambs of a year old; they shall be to you without blemish.
+
+### Numbers 29:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
+- brenton: Their meat-offering shall be fine flour mingled with oil; three tenth deals for one calf, and two tenth deals for one ram.
+
+### Numbers 29:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a tenth by a tenth for the one lamb, for the seven lambs,
+- brenton: A tenth deal for each several lamb, for the seven lambs.
+
+### Numbers 29:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, to make atonement for you, besides the sin offering of atonement and the continual whole burnt offering and its sacrifice and its libation, according to the reckoning, for an aroma of sweet fragrance, a fruit-gift to the Lord.
+- brenton: And one kid of the goats for a sin-offering, to make atonement for you; beside the sin-offering for atonement, and the continual whole-burnt-offering, its meat-offering, and its drink-offering according to its ordinance for a smell of sweet savour, a burnt-sacrifice to the Lord.
+
+### Numbers 29:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the fifteenth day of this seventh month it shall be a called holy day for you. You shall do no service-work, and you shall celebrate it as a feast to the Lord seven days.
+- brenton: And on the fifteenth day of this seventh month ye shall have a holy convocation; ye shall do no servile work; and ye shall keep it a feast to the Lord seven days.
+
+### Numbers 29:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring whole burnt offerings, fruit-gifts for an aroma of sweet fragrance to the Lord: on the first day, thirteen bulls from the cattle, two rams, fourteen one-year lambs. They shall be without blemish.
+- brenton: And ye shall bring near whole-burnt-offerings, a sacrifice for a smell of sweet savour to the Lord, on the first day thirteen calves of the herd, two rams, fourteen lambs of a year old; they shall be without blemish.
+
+### Numbers 29:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Their sacrifices shall be fine flour kneaded in oil, three tenths for the one bull, for the thirteen bulls, and two tenths for the one ram, for the two rams,
+- brenton: Their meat-offerings shall be fine flour mingled with oil; there shall be three tenth deals for one calf, for the thirteen calves; and two tenth deals for one ram, for the two rams.
+
+### Numbers 29:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a tenth by a tenth for the one lamb, for the fourteen lambs,
+- brenton: A tenth deal for every lamb, for the fourteen lambs.
+
+### Numbers 29:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering: there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And on the second day, twelve bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: And on the second day twelve calves, two rams, fourteen lambs of a year old without blemish.
+
+### Numbers 29:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: Their meat-offering and their drink-offering shall be for the calves and the rams and the lambs according to their number, according to their ordinance.
+
+### Numbers 29:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; their meat-offerings and their drink-offerings.
+
+### Numbers 29:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the third day, eleven bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: On the third day eleven calves, two rams, fourteen lambs of a year old without blemish.
+
+### Numbers 29:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: Their meat-offering and their drink-offering shall be to the calves and to the rams and to the lambs according to their number, according to their ordinance.
+
+### Numbers 29:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the fourth day, ten bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: On the fourth day ten calves, two rams, fourteen lambs of a year old without spot.
+
+### Numbers 29:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: There shall be their meat-offerings and their drink-offerings to the calves and the rams and the lambs according to their number, according to their ordinance.
+
+### Numbers 29:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the fifth day, nine bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: On the fifth day nine calves, two rams, fourteen lambs of a year old without spot.
+
+### Numbers 29:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: Their meat-offerings and their drink-offerings shall be to the calves and the rams and the lambs according to their number, according to their ordinance.
+
+### Numbers 29:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the sixth day, eight bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: On the sixth day eight calves, two rams, fourteen lambs of a year old without blemish.
+
+### Numbers 29:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: There shall be their meat-offerings and their drink-offerings to the calves and rams and lambs according to their number, according to their ordinance.
+
+### Numbers 29:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: On the seventh day, seven bulls, two rams, fourteen one-year lambs without blemish,
+- brenton: On the seventh day seven calves, two rams, fourteen lambs of a year old without blemish.
+
+### Numbers 29:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
+- brenton: Their meat-offerings and their drink-offerings shall be to the calves and the rams and the lambs according to their number, according to their ordinance.
+
+### Numbers 29:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:35
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And on the eighth day there shall be a dismissal for you. You shall do no service-work on it.
+- brenton: And on the eighth day there shall be to you a release: ye shall do no servile work in it.
+
+### Numbers 29:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall bring whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull, one ram, seven one-year lambs without blemish,
+- brenton: And ye shall offer whole-burnt-offerings as sacrifices to the Lord, one calf, one ram, seven lambs of a year old without spot.
+
+### Numbers 29:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their sacrifices and their libations for the bull and for the ram and for the lambs, according to their number, according to their reckoning,
+- brenton: There shall be their meat-offerings and their drink-offerings for the calf and the ram and the lambs according to their number, according to their ordinance.
+
+### Numbers 29:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
+- brenton: And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.
+
+### Numbers 29:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
+- brenton: These sacrifices shall ye offer to the Lord in your feasts, besides your vows; and ye shall offer your free-will-offerings and your whole-burnt-offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.
+
+### Numbers 30:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the sons of Israel according to all that the Lord commanded Moses.
+- brenton: And Moses spoke to the children of Israel according to all that the Lord commanded Moses.
+
+### Numbers 30:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the leaders of the tribes of Israel, saying, This is the word that the Lord commanded.
+- brenton: And Moses spoke to the heads of the tribes of the children of Israel, saying, This is the thing which the Lord has commanded.
+
+### Numbers 30:3
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Man by man, whoever vows a vow to the Lord or swears an oath or binds himself with a binding over his life, he shall not profane his word. Everything that goes out from his mouth he shall do.
+- brenton: Whatsoever man shall vow a vow to the Lord, or swear an oath, or bind himself with an obligation upon his soul, he shall not break his word; all that shall come out of his mouth he shall do.
+
+### Numbers 30:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if a woman vows a vow to the Lord or binds a binding in the house of her father in her youth,
+- brenton: And if a woman shall vow a vow to the Lord, or bind herself with an obligation in her youth in her father's house; and her father should hear her vows and her obligations, wherewith she has bound her soul, and her father should hold his peace at her, then all her vows shall stand,
+
+### Numbers 30:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and her father hears her vows and her bindings which she bound against her life and her father keeps silent to her, then all her vows shall stand, and all the bindings which she bound against her life shall remain for her.
+- brenton: and all the obligations with which she has bound her soul, shall remain to her.
+
+### Numbers 30:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if her father by refusal refuses her on the day he hears all her vows and the bindings which she bound against her life, they shall not stand, and the Lord will clear her, because her father refused her.
+- brenton: But if her father straitly forbid her in the day in which he shall hear all her vows and her obligations, which she has contracted upon her soul, they shall not stand; and the Lord shall hold her guiltless, because her father forbade her.
+
+### Numbers 30:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if, having become, she becomes to a man, and her vows are upon her according to the utterance of her lips, which she bound against her life,
+- brenton: But if she should be indeed married, and her vows be upon her according to the utterance of her lips, in respect of the obligations which she has contracted upon her soul;
+
+### Numbers 30:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and her husband hears and keeps silent to her on the day he hears, then all her vows shall stand, and her bindings which she bound against her life shall stand.
+- brenton: and her husband should hear, and hold his peace at her in the day in which he should hear, then thus shall all her vows be binding, and her obligations, which she has contracted upon her soul shall stand.
+
+### Numbers 30:9
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if her husband by refusal refuses her on the day he hears, all her vows and her bindings which she bound against her life shall not remain, because her husband refused them from her, and the Lord will clear her.
+- brenton: But if her husband should straitly forbid her in the day in which he should hear her, none of her vows or obligations which she has contracted upon her soul shall stand, because her husband has disallowed her, and the Lord shall hold her guiltless.
+
+### Numbers 30:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the vow of a widow or of one cast out, whatever she vows against her life, shall remain for her.
+- brenton: And the vow of a widow and of her that is put away, whatsoever she shall bind upon her soul, shall stand to her.
+
+### Numbers 30:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if in the house of her husband her vow or the binding against her life is with an oath,
+- brenton: And if her vow be made in the house of her husband, or the obligation upon her soul with an oath,
+
+### Numbers 30:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and her husband hears and keeps silent to her and does not refuse her, then all her vows shall stand, and all her bindings which she bound against her life shall stand against her.
+- brenton: and her husband should hear, and hold his peace at her, and not disallow her, then all her vows shall stand, and all the obligations which she contracted against her soul, shall stand against her.
+
+### Numbers 30:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if her husband removes them when he hears, everything that has gone out from her lips according to her vows and according to the bindings against her life shall not remain for her. Her husband removed them, and the Lord will clear her.
+- brenton: But if her husband should utterly cancel the vow in the day in which he shall hear it, none of the things which shall proceed out of her lips in her vows, and in the obligations contracted upon her soul, shall stand to her; her husband has cancelled them, and the Lord shall hold her guiltless.
+
+### Numbers 30:14
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Every vow and every binding oath to afflict a life, her husband shall establish it for her, and her husband shall remove it.
+- brenton: Every vow, and every binding oath to afflict her soul, her husband shall confirm it to her, or her husband shall cancel it.
+
+### Numbers 30:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if her husband keeps silent to her day after day, he shall establish all her vows and the bindings upon her. He shall establish them for her, because he kept silent to her on the day he heard.
+- brenton: But if he be wholly silent at her from day to day, then shall he bind upon her all her vows; and he shall confirm to her the obligations which she has bound upon herself, because he held his peace at her in the day in which he heard her.
+
+### Numbers 30:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he removes them after the day he heard, he shall bear his sin.
+- brenton: And if her husband should in any wise cancel them after the day in which he heard them, then he shall bear his iniquity.
+
+### Numbers 30:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the ordinances that the Lord commanded Moses between a man and his wife and between a father and daughter in youth in the house of her father.
+- brenton: These are the ordinances which the Lord commanded Moses, between a man and his wife, and between a father and daughter in her youth in the house of her father.
+
+### Numbers 31:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 31:2
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: Avenge the vengeance of the sons of Israel on the Midianites, and at the end you shall be added to your people.
+- brenton: Avenge the wrongs of the children of Israel on the Madianites, and afterwards thou shalt be added to thy people.
+
+### Numbers 31:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses spoke to the people, saying, Arm men from among you to array for battle before the Lord against Midian, to return vengeance from the Lord upon Midian.
+- brenton: And Moses spoke to the people, saying, Arm some of you, and set yourselves in array before the Lord against Madian, to inflict vengeance on Madian from the Lord.
+
+### Numbers 31:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: A thousand from a tribe, a thousand from a tribe, from all the tribes of Israel, send out to array for battle.
+- brenton: Send a thousand of each tribe from all the tribes of the children of Israel to set themselves in array.
+
+### Numbers 31:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they were counted from the thousands of Israel, a thousand from a tribe, twelve thousand armed for battle.
+- brenton: And they numbered of the thousands of Israel a thousand of each tribe, twelve thousands; these were armed for war.
+
+### Numbers 31:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands.
+- brenton: And Moses sent them away a thousand of every tribe with their forces, and Phinees the son of Eleazar the son of Aaron the priest: and the holy instruments, and the signal trumpets were in their hands.
+
+### Numbers 31:7
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they arrayed against Midian just as the Lord commanded Moses, and they killed every male.
+- brenton: And they set themselves in array against Madian, as the Lord commanded Moses; and they slew every male.
+
+### Numbers 31:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the kings of Midian they killed along with their wounded: Evin and Sour and Rokom and Our and Robok, five kings of Midian. And Balaam son of Beor they killed with sword along with their wounded.
+- brenton: And they slew the kings of Madian together with their slain subjects; even Evi and Rocon, and Sur, and Ur, and Roboc, five kings of Madian; and they slew with the sword Balaam the son of Beor with their other slain.
+
+### Numbers 31:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they plundered the women of Midian and their baggage and their cattle and all their possessions and all their force they plundered.
+- brenton: And they made a prey of the women of Madian, and their store, and their cattle, and all their possessions: and they spoiled their forces.
+
+### Numbers 31:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all their cities in their dwellings and their camps they burned with fire.
+- brenton: And they burnt with fire all their cities in the places of their habitation, and they burnt their villages with fire.
+
+### Numbers 31:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took all the plunder and all their spoils, from human to beast.
+- brenton: And they took all their plunder, and all their spoils, both man and beast.
+
+### Numbers 31:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they brought to Moses and to Eleazar the priest and to all the sons of Israel the captivity and the spoils and the plunder to the camp in the plains of Moab, which are by the Jordan at Jericho.
+- brenton: And they brought to Moses and to Eleazar the priest, and to all the children of Israel, the captives, and the spoils, and the plunder, to the camp to Araboth Moab, which is at Jordan by Jericho.
+
+### Numbers 31:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp.
+- brenton: And Moses and Eleazar the priest and all the rulers of the synagogue went forth out of the camp to meet them.
+
+### Numbers 31:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses was angry with the overseers of the force, the chiliarchs and centurions coming from the battle line of the war.
+- brenton: And Moses was angry with the captains of the host, the heads of thousands and the heads of hundreds who came from the battle-array.
+
+### Numbers 31:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to them, Why have you kept every female alive?
+- brenton: And Moses said to them, Why have ye saved every female alive?
+
+### Numbers 31:16
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For these became for the sons of Israel, according to the word of Balaam, a cause to depart and despise the word of the Lord for the sake of Peor, and the plague came in the congregation of the Lord.
+- brenton: For they were the occasion to the children of Israel by the word of Balaam of their revolting and despising the word of the Lord, because of Phogor; and there was a plague in the congregation of the Lord.
+
+### Numbers 31:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now kill every male among all the company, and every woman who has known the bed of a male kill.
+- brenton: Now then slay every male in all the spoil, slay every woman, who has known the lying with man.
+
+### Numbers 31:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But every company of women who has not known the bed of a male keep alive for yourselves.
+- brenton: And as for all the captivity of women, who have not known the lying with man, save ye them alive.
+
+### Numbers 31:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you camp outside the camp seven days, every one who killed and every one touching the wounded. He shall be purified on the third day and on the seventh day, you and your captives.
+- brenton: And ye shall encamp outside the great camp seven days; every one who has slain and who touches a dead body, shall be purified on the third day, and ye and your captivity shall purify yourselves on the seventh day.
+
+### Numbers 31:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every garment and every leather vessel and every work of goats hair and every wooden vessel you shall cleanse.
+- brenton: And ye shall purify every garment and every leathern utensil, and all furniture of goat skin, and every wooden vessel.
+
+### Numbers 31:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Eleazar the priest said to the men of the force who had come from the battle line of the war, This is the ordinance of the law that the Lord commanded Moses:
+- brenton: And Eleazar the priest said to the men of the host that came from the battle-array, This is the ordinance of the law which the Lord has commanded Moses.
+
+### Numbers 31:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Except the gold and the silver and bronze and iron and lead and tin,
+- brenton: Beside the gold, and the silver, and the brass, and the iron, and lead, and tin,
+
+### Numbers 31:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: every thing that goes through fire shall be purified, but it shall be purified by the water of purification. And everything that does not pass through fire shall go through water.
+- brenton: every thing that shall pass through the fire shall so be clean, nevertheless it shall be purified with the water of sanctification; and whatsoever will not pass through the fire shall pass through water.
+
+### Numbers 31:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp.
+- brenton: And on the seventh day ye shall wash your garments, and be clean; and afterwards ye shall come into the camp.
+
+### Numbers 31:25
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 31:26
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Take the total of the spoil of the captivity, from human to beast, you and Eleazar the priest and the leaders of the ancestral houses of the congregation.
+- brenton: Take the sum of the spoils of the captivity both of man and beast, thou and Eleazar the priest, and the heads of the families of the congregation.
+
+### Numbers 31:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And divide the spoils between the warriors who went out into battle and the whole congregation.
+- brenton: And ye shall divide the spoils between the warriors that went out to battle, and the whole congregation.
+
+### Numbers 31:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And remove a tax for the Lord from the warriors who went out into battle, one soul out of five hundred, from the humans and from the cattle and from the oxen and from the sheep and from the goats.
+- brenton: And ye shall take a tribute for the Lord from the warriors that went out to battle; one soul out of five hundred, from the men, and from the cattle, even from the oxen, and from the sheep, and from the asses; and ye shall take from their half.
+
+### Numbers 31:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from their half you shall take and give to Eleazar the priest the firstfruits of the Lord.
+- brenton: And thou shalt give them to Eleazar the priest as the first-fruits of the Lord.
+
+### Numbers 31:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the half of the sons of Israel you shall take one out of fifty, from the humans and from the oxen and from the sheep and from the donkeys and from all the cattle, and you shall give them to the Levites who keep the charges in the tent of the Lord.
+- brenton: And from the half belonging to the children of Israel thou shalt take one in fifty from the men, and from the oxen, and from the sheep, and from the asses, and from all the cattle; and thou shalt give them to the Levites that keep the charges in the tabernacle of the Lord.
+
+### Numbers 31:31
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Eleazar the priest did just as the Lord commanded Moses.
+- brenton: And Moses and Eleazar the priest did as the Lord commanded Moses.
+
+### Numbers 31:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the excess of plunder that the fighting men plundered from the sheep was six hundred seventy-five thousand.
+- brenton: And that which remained of the spoil which the warriors took, was—of the sheep, six hundred and seventy-five thousand:
+
+### Numbers 31:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And cattle, seventy-two thousand.
+- brenton: and oxen, seventy-two thousand:
+
+### Numbers 31:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And donkeys, sixty-one thousand.
+- brenton: and asses, sixty-one thousand.
+
+### Numbers 31:35
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And human souls from the women who had not known the bed of a male, all the souls, thirty-two thousand.
+- brenton: And persons of women who had not known lying with man, all the souls, thirty-two thousand.
+
+### Numbers 31:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the half, the share of those who went out to war, from the number of the sheep, was three hundred thirty-seven thousand five hundred.
+- brenton: And the half, even the portion of them that went out to war, from the number of the sheep, was three hundred and thirty-seven thousand and five hundred.
+
+### Numbers 31:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the tax to the Lord from the sheep was six hundred seventy-five.
+- brenton: And the tribute to the Lord from the sheep was six hundred and seventy-five.
+
+### Numbers 31:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And cattle, thirty-six thousand, and the tax to the Lord, seventy-two.
+- brenton: And the oxen, six and thirty thousand, and the tribute to the Lord, seventy-two.
+
+### Numbers 31:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And donkeys, thirty thousand five hundred, and the tax to the Lord, sixty-one.
+- brenton: And asses, thirty thousand and five hundred, and the tribute to the Lord, sixty-one:
+
+### Numbers 31:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And human souls, sixteen thousand, and their tax to the Lord, thirty-two souls.
+- brenton: and the persons, sixteen thousand, and the tribute of them to the Lord, thirty-two souls.
+
+### Numbers 31:41
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses gave the tax to the Lord, the removed offering of God, to Eleazar the priest, just as the Lord commanded Moses.
+- brenton: And Moses gave the tribute to the Lord, the heave-offering of God, to Eleazar the priest, as the Lord commanded Moses;
+
+### Numbers 31:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the half of the sons of Israel, which Moses divided off from the fighting men,
+- brenton: from the half belonging to the children of Israel, whom Moses separated from the men of war.
+
+### Numbers 31:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the half of the congregation was, from the sheep, three hundred thirty-seven thousand five hundred,
+- brenton: And the half taken from the sheep, belonging to the congregation, was three hundred and thirty-seven thousand and five hundred.
+
+### Numbers 31:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and cattle, thirty-six thousand,
+- brenton: And the oxen, thirty-six thousand;
+
+### Numbers 31:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: donkeys, thirty thousand five hundred,
+- brenton: asses, thirty thousand and five hundred;
+
+### Numbers 31:46
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and human souls, sixteen thousand.
+- brenton: and persons, sixteen thousand.
+
+### Numbers 31:47
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses took from the half of the sons of Israel one out of fifty, from the humans and from the cattle, and gave them to the Levites who keep the charges of the tent of the Lord, just as the Lord commanded Moses.
+- brenton: And Moses took of the half belonging to the children of Israel the fiftieth part, of men and of cattle, and he gave them to the Levites who keep the charges of the tabernacle of the Lord, as the Lord commanded Moses.
+
+### Numbers 31:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all those appointed over the thousands of the force, the chiliarchs and centurions, came near to Moses
+- brenton: And all those who were appointed to be officers of thousands of the host, captains of thousands and captains of hundreds, approached Moses, and said to Moses,
+
+### Numbers 31:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and said to Moses, Your servants have taken the total of the fighting men from among us, and not even one is missing from them.
+- brenton: Thy servants have taken the sum of the men of war with us, and not one is missing.
+
+### Numbers 31:50
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we have brought the gift to the Lord, each man what he found, a gold article, chain and bracelet and ring and armlet and clasped ornament, to make atonement for us before the Lord.
+- brenton: And we have brought our gift to the Lord, every man who has found an article of gold, whether an armlet, or a chain, or a ring, or a bracelet, or a clasp for hair, to make atonement for us before the Lord.
+
+### Numbers 31:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Eleazar the priest took the gold from them, every worked article.
+- brenton: And Moses and Eleazar the priest took the gold from them, even every wrought article.
+
+### Numbers 31:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the gold, the removed offering that they removed for the Lord, was sixteen thousand seven hundred fifty shekels from the chiliarchs and from the centurions.
+- brenton: And all the wrought gold, even the offering that they offered to the Lord, was sixteen thousand and seven hundred and fifty shekels from the captains of thousands and the captains of hundreds.
+
+### Numbers 31:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the fighting men had each plundered for himself.
+- brenton: For the men of war took plunder every one for himself.
+
+### Numbers 31:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses and Eleazar the priest took the gold from the chiliarchs and from the centurions and brought it into the tent of testimony, a memorial of the sons of Israel before the Lord.
+- brenton: And Moses and Eleazar the priest took the gold from the captains of thousands and captains of hundreds, and brought the vessels into the tabernacle of witness, a memorial of the children of Israel before the Lord.
+
+### Numbers 32:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And cattle in great multitude belonged to the sons of Reuben and to the sons of Gad, very many, and they saw the land of Jazer and the land of Gilead, and the place was a place for cattle.
+- brenton: And the children of Ruben and the children of Gad had a multitude of cattle, very great; and they saw the land of Jazer, and the land of Galaad; and the place was a place for cattle:
+
+### Numbers 32:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben and the sons of Gad came and said to Moses and to Eleazar the priest and to the leaders of the congregation, saying,
+- brenton: and the children of Ruben and the children of Gad came, and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,
+
+### Numbers 32:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Ataroth and Dibon and Jazer and Nambram and Heshbon and Elealeh and Sebama and Nabau and Baian,
+- brenton: Ataroth, and Dæbon, and Jazer, and Namra, and Esebon, and Eleale, and Sebama, and Nabau, and Bæan,
+
+### Numbers 32:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the land that the Lord handed over before the sons of Israel, is cattle-land, and your servants have cattle.
+- brenton: the land which the Lord has delivered up before the children of Israel, is pasture land, and thy servants have cattle.
+
+### Numbers 32:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said, If we have found favor before you, let this land be given to your servants as a possession, and do not carry us across the Jordan.
+- brenton: And they said, If we have found grace in thy sight, let this land be given to thy servants for a possession, and do not cause us to pass over Jordan.
+
+### Numbers 32:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to the sons of Gad and to the sons of Reuben, Shall your brothers go to war and you sit here?
+- brenton: And Moses said to the sons of Gad and the sons of Ruben, Shall your brethren go to war, and shall ye sit here?
+
+### Numbers 32:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And why do you twist the minds of the sons of Israel, so that they do not cross into the land that the Lord gives them?
+- brenton: And why do ye pervert the minds of the children of Israel, that they should not cross over into the land, which the Lord gives them?
+
+### Numbers 32:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Did not your fathers do thus when I sent them from Kadesh-Barnea to look upon the land?
+- brenton: Did not your fathers thus, when I sent them from Cades Barne to spy out the land?
+
+### Numbers 32:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they went up to the Ravine of Cluster and looked upon the land, and turned away the heart of the sons of Israel so that they did not enter into the land that the Lord gave them.
+- brenton: and they went up to the valley of the cluster, and spied the land, and turned aside the heart of the children of Israel, that they should not go into the land, which the Lord gave them.
+
+### Numbers 32:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord was enraged in anger on that day and swore, saying,
+- brenton: And the Lord was very angry in that day, and sware, saying,
+
+### Numbers 32:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall see the land that I swore to Abraham and Isaac and Jacob, because they did not follow after me—
+- brenton: Surely these men who came up out of Egypt from twenty years old and upward, who know good and evil, shall not see the land which I sware to give to Abraam and Isaac and Jacob, for they have not closely followed after me:
+
+### Numbers 32:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: except Caleb son of Jephunneh, the separated one, and Joshua son of Nun, because he followed after the Lord.
+- brenton: save Caleb the son of Jephonne, who was set apart, and Joshua the son of Naue, for they closely followed after the Lord.
+
+### Numbers 32:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed.
+- brenton: And the Lord was very angry with Israel; and for forty years he caused them to wander in the wilderness, until all the generation which did evil in the sight of the Lord was extinct.
+
+### Numbers 32:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Behold, you rose up in place of your fathers, a twisted growth of sinful men, to add yet more to the fury of the Lords anger against Israel.
+- brenton: Behold, ye are risen up in the room of your fathers, a combination of sinful men, to increase yet farther the fierce wrath of the Lord against Israel.
+
+### Numbers 32:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For you will turn away from him, to add yet again to leave him in the wilderness, and you will do lawlessness against all this congregation.
+- brenton: For ye will turn away from him to desert him yet once more in the wilderness, and ye will sin against this whole congregation.
+
+### Numbers 32:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they came near to him and said, Let us build sheepfolds here for our cattle and cities for our baggage.
+- brenton: And they came to him, and said, We will build here folds for our cattle, and cities for our possessions;
+
+### Numbers 32:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But we, armed for a guard, will go first before the sons of Israel until we bring them to their place, and our baggage will dwell in fortified cities because of those dwelling in the land.
+- brenton: and we will arm ourselves and go as an advanced guard before the children of Israel, until we shall have brought them into their place; and our possessions shall remain in walled cities because of the inhabitants of the land.
+
+### Numbers 32:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We shall certainly not turn back to our houses until the sons of Israel are apportioned, each one into his inheritance.
+- brenton: We will not return to our houses till the children of Israel shall have been distributed, each to his own inheritance.
+
+### Numbers 32:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we shall no longer inherit with them from beyond the Jordan and further on, because our allotments are here beyond the Jordan to the east.
+- brenton: And we will not any longer inherit with them from the other side of Jordan and onwards, because we have our full inheritance on the side beyond Jordan eastward.
+
+### Numbers 32:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to them, If you do this thing, if you arm yourselves before the Lord for war,
+- brenton: And Moses said to them, If ye will do according to these words, if ye will arm yourselves before the Lord for battle,
+
+### Numbers 32:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and every armed man of yours crosses the Jordan before the Lord until his enemy is crushed from before him,
+- brenton: and every one of you will pass over Jordan fully armed before the Lord, until his enemy be destroyed from before his face,
+
+### Numbers 32:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the land is subdued before the Lord, and afterward you turn back, then you shall be innocent before the Lord and from Israel, and this land shall be for you as a possession before the Lord.
+- brenton: and the land shall be subdued before the Lord, then afterwards ye shall return, and be guiltless before the Lord, and as regards Israel; and this land shall be to you for a possession before the Lord.
+
+### Numbers 32:23
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if you do not do thus, you will sin before the Lord, and you shall know your sin when evils overtake you.
+- brenton: But if ye will not do so, ye will sin against the Lord; and ye shall know your sin, when afflictions shall come upon you.
+
+### Numbers 32:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall build cities for your baggage and sheepfolds for your cattle, and what goes out from your mouth you shall do.
+- brenton: And ye shall build for yourselves cities for your store, and folds for your cattle; and ye shall do that which proceeds out of your mouth.
+
+### Numbers 32:25
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben and the sons of Gad said to Moses, saying, Your servants will do just as our lord commands.
+- brenton: And the sons of Ruben and the sons of Gad spoke to Moses, saying, Thy servants will do as our lord commands.
+
+### Numbers 32:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Our baggage and our wives and all our cattle will be in the cities of Gilead.
+- brenton: Our store, and our wives, and all our cattle shall be in the cities of Galaad.
+
+### Numbers 32:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But your servants will cross over, all armed and drawn up before the Lord for battle, as our lord says.
+- brenton: But thy servants will go over all armed and set in order before the Lord to battle, as our lord says.
+
+### Numbers 32:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses appointed over them Eleazar the priest and Joshua son of Nun and the leaders of the ancestral houses of the tribes of Israel.
+- brenton: And Moses appointed to them for judges Eleazar the priest, and Joshua the son of Naue, and the chiefs of the families of the tribes of Israel.
+
+### Numbers 32:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses said to them, If the sons of Reuben and the sons of Gad cross the Jordan with you, every armed man for war before the Lord, and you subdue the land before you, then you shall give them the land of Gilead as a possession.
+- brenton: And Moses said to them, If the sons of Ruben and the sons of Gad will pass over Jordan with you, every one armed for war before the Lord, and ye shall subdue the land before you, then ye shall give to them the land of Galaad for a possession.
+
+### Numbers 32:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if they do not cross armed with you before the Lord into war, then you shall bring their baggage and their wives and their cattle across ahead of you into the land of Canaan, and they shall inherit along with you in the land of Canaan.
+- brenton: But if they will not pass over armed with you to war before the Lord, then shall ye cause to pass over their possessions and their wives and their cattle before you into the land of Chanaan, and they shall inherit with you in the land of Chanaan.
+
+### Numbers 32:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben and the sons of Gad answered, saying, Whatever the Lord says to his servants, so we will do.
+- brenton: And the sons of Ruben and the sons of Gad answered, saying, Whatsoever the Lord says to his servants, that will we do.
+
+### Numbers 32:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: We will cross armed before the Lord into the land of Canaan, and give us the possession beyond the Jordan.
+- brenton: We will go over armed before the Lord into the land of Chanaan, and ye shall give us our inheritance beyond Jordan.
+
+### Numbers 32:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses gave to them—to the sons of Gad and to the sons of Reuben and to the half-tribe of Manasseh, sons of Joseph—the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with its borders, the cities of the land around.
+- brenton: And Moses gave to them, even to the sons of Gad and the sons of Ruben, and to the half tribe of Manasse of the sons of Joseph, the kingdom of Seon king of the Amorites, and the kingdom of Og king of Basan, the land and its cities with its coasts, the cities of the land round about.
+
+### Numbers 32:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Gad built Dibon and Ataroth and Aroer,
+- brenton: And the sons of Gad built Dæbon, and Ataroth, and Aroer,
+
+### Numbers 32:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Sophar and Jazer and fortified them,
+- brenton: and Sophar, and Jazer, and they set them up,
+
+### Numbers 32:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Nambran and Baitharan, fortified cities, and sheepfolds.
+- brenton: and Namram, and Bætharan, strong cities, and folds for sheep.
+
+### Numbers 32:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Reuben built Heshbon and Elealeh and Kariathaim,
+- brenton: And the sons of Ruben built Esebon, and Eleale, and Kariatham,
+
+### Numbers 32:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Beelmeon, surrounded with walls, and Sebama, and they renamed by their names the names of the cities that they built.
+- brenton: and Beelmeon, surrounded with walls, and Sebama; and they called the names of the cities which they built, after their own names.
+
+### Numbers 32:39
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a son of Machir son of Manasseh went into Gilead and took it and destroyed the Amorite dwelling in it.
+- brenton: And a son of Machir the son of Manasse went to Galaad, and took it, and destroyed the Amorite who dwelt in it.
+
+### Numbers 32:40
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses gave Gilead to Machir son of Manasseh, and he dwelt there.
+- brenton: And Moses gave Galaad to Machir the son of Manasse, and he dwelt there.
+
+### Numbers 32:41
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Jair the Manassite went and took their camps and named them Jairs Camps.
+- brenton: And Jair the son of Manasse went and took their villages, and called them the villages of Jair.
+
+### Numbers 32:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Nabau went and took Kenaath and its villages and named them Naboth after his name.
+- brenton: And Nabau went and took Caath and her villages, and called them Naboth after his name.
+
+### Numbers 33:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the stages of the sons of Israel as they went out from the land of Egypt with their forces by the hand of Moses and Aaron.
+- brenton: And these are the stages of the children of Israel, as they went out from the land of Egypt with their host by the hand of Moses and Aaron.
+
+### Numbers 33:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses wrote down their departures and their stages by word of the Lord. And these are the stages of their journey.
+- brenton: And Moses wrote their removals and their stages, by the word of the Lord: and these are the stages of their journeying.
+
+### Numbers 33:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: They set out from Ramesse in the first month, on the fifteenth day of the first month, on the day after Passover. The sons of Israel went out with uplifted hand before all the Egyptians,
+- brenton: They departed from Ramesses in the first month, on the fifteenth day of the first month; on the day after the passover the children of Israel went forth with a high hand before all the Egyptians.
+
+### Numbers 33:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: while the Egyptians were burying from among them all the dead whom the Lord had struck, every firstborn in the land of Egypt. And on their gods the Lord executed vengeance.
+- brenton: And the Egyptians buried those that died of them, even all that the Lord smote, every first-born in the land of Egypt; also the Lord executed vengeance on their gods.
+
+### Numbers 33:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the sons of Israel set out from Ramesse and camped in Sokchoth.
+- brenton: And the children of Israel departed from Ramesses, and encamped in Socchoth:
+
+### Numbers 33:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Sokchoth and camped in Bouthan, which is some part of the wilderness.
+- brenton: and they departed from Socchoth and encamped in Buthan, which is a part of the wilderness.
+
+### Numbers 33:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Bouthan and camped at the mouth of Eiroth, which is opposite Beelsepphon, and camped opposite Magdolus.
+- brenton: And they departed from Buthan and encamped at the mouth of Iroth, which is opposite Beel-sepphon, and encamped opposite Magdol.
+
+### Numbers 33:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from opposite Eiroth and passed through the midst of the sea into the wilderness, and they went a road of three days through the wilderness, they themselves, and camped in Pikriai.
+- brenton: And they departed from before Iroth, and crossed the middle of the sea into the wilderness; and they went a journey of three days through the wilderness, and encamped in Picriæ.
+
+### Numbers 33:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water.
+- brenton: And they departed from Picriæ, and came to Ælim; and in Ælim were twelve fountains of water, and seventy palm-trees, and they encamped there by the water.
+
+### Numbers 33:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Ailim and camped by the Red Sea.
+- brenton: And they departed from Ælim, and encamped by the Red Sea.
+
+### Numbers 33:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the Red Sea and camped in the wilderness of Sin.
+- brenton: And they departed from the Red Sea, and encamped in the wilderness of Sin.
+
+### Numbers 33:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the wilderness of Sin and camped in Raphaka.
+- brenton: And they departed from the wilderness of Sin, and encamped in Raphaca.
+
+### Numbers 33:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Raphaka and camped in Ailous.
+- brenton: And they departed from Raphaca, and encamped in Ælus.
+
+### Numbers 33:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Ailous and camped in Raphidin, and there was no water for the people to drink there.
+- brenton: And they departed from Ælus, and encamped in Raphidin; and there was no water there for the people to drink.
+
+### Numbers 33:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Raphidin and camped in the wilderness of Sinai.
+- brenton: And they departed from Raphidin, and encamped in the wilderness of Sina.
+
+### Numbers 33:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the wilderness of Sinai and camped at the Tombs of Desire.
+- brenton: And they departed from the wilderness of Sina, and encamped at the Graves of Lust.
+
+### Numbers 33:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the Tombs of Desire and camped in Aseroth.
+- brenton: And they departed from the Graves of Lust, and encamped in Aseroth.
+
+### Numbers 33:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Aseroth and camped in Rathama.
+- brenton: And they departed from Aseroth, and encamped in Rathama.
+
+### Numbers 33:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Rathama and camped in Remmon-Phares.
+- brenton: And they departed from Rathama, and encamped in Remmon Phares.
+
+### Numbers 33:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Remmon-Phares and camped in Lemona.
+- brenton: And they departed from Remmon Phares, and encamped in Lebona.
+
+### Numbers 33:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Lemona and camped at Dessa.
+- brenton: And they departed from Lebona, and encamped in Ressan.
+
+### Numbers 33:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Dessa and camped at Makellath.
+- brenton: And they departed from Ressan, and encamped in Makellath.
+
+### Numbers 33:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Makellath and camped at Sapher.
+- brenton: And they departed from Makellath, and encamped in Saphar.
+
+### Numbers 33:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Sapher and camped at Charadath.
+- brenton: And they departed from Saphar, and encamped in Charadath.
+
+### Numbers 33:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Charadath and camped at Makeloth.
+- brenton: And they departed from Charadath, and encamped in Makeloth.
+
+### Numbers 33:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Makeloth and camped at Kataath.
+- brenton: And they departed from Makeloth, and encamped in Kataath.
+
+### Numbers 33:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Kataath and camped at Tarath.
+- brenton: And they departed from Kataath, and encamped in Tarath.
+
+### Numbers 33:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Tarath and camped at Matekka.
+- brenton: And they departed from Tarath, and encamped in Mathecca.
+
+### Numbers 33:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Matekka and camped at Selmona.
+- brenton: And they departed from Mathecca, and encamped in Selmona.
+
+### Numbers 33:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Selmona and camped at Massourouth.
+- brenton: And they departed from Selmona, and encamped in Masuruth.
+
+### Numbers 33:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Massourouth and camped at Banaia.
+- brenton: And they departed from Masuruth, and encamped in Banæa.
+
+### Numbers 33:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Banaia and camped at Mount Gadgad.
+- brenton: And they departed from Banæa, and encamped in the mountain Gadgad.
+
+### Numbers 33:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Mount Gadgad and camped at Etebatha.
+- brenton: And they departed from the mountain Gadgad, and encamped in Etebatha.
+
+### Numbers 33:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Etebatha and camped at Ebrona.
+- brenton: And they departed from Etebatha, and encamped in Ebrona.
+
+### Numbers 33:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Ebrona and camped at Gesiongaber.
+- brenton: And they departed from Ebrona, and encamped in Gesion Gaber.
+
+### Numbers 33:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Gesiongaber and camped in the wilderness of Sin, and they set out from the wilderness of Sin and camped in the wilderness of Paran; this is Kadesh.
+- brenton: And they departed from Gesion Gaber, and encamped in the wilderness of Sin; and they departed from the wilderness of Sin, and encamped in the wilderness of Pharan; this is Cades.
+
+### Numbers 33:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Kadesh and camped at Mount Hor, near the land of Edom.
+- brenton: And they departed from Cades, and encamped in mount Or near the land of Edom.
+
+### Numbers 33:38
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron the priest went up by command of the Lord and died there, in the fortieth year of the departure of the sons of Israel from the land of Egypt, in the fifth month, on the first day of the month.
+- brenton: And Aaron the priest went up by the command of the Lord, and died there in the fortieth year of the departure of the children of Israel from the land of Egypt, in the fifth month, on the first day of the month.
+
+### Numbers 33:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Aaron was one hundred twenty-three years old when he died on Mount Hor.
+- brenton: And Aaron was a hundred and twenty-three years old, when he died in mount Or.
+
+### Numbers 33:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Canaanite king of Arad heard, and he himself dwelt in the land of Canaan, when the sons of Israel were entering.
+- brenton: And Arad the Chananitish king (he too dwelt in the land of Chanaan) having heard when the children of Israel were entering the land—
+
+### Numbers 33:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Mount Hor and camped at Selmona.
+- brenton: then they departed from mount Or, and encamped in Selmona.
+
+### Numbers 33:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Selmona and camped at Phino.
+- brenton: And they departed from Selmona, and encamped in Phino.
+
+### Numbers 33:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Phino and camped at Oboth.
+- brenton: And they departed from Phino, and encamped in Oboth.
+
+### Numbers 33:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Oboth and camped in Gai-beyond on the borders of Moab.
+- brenton: And they departed from Oboth, and encamped in Gai, on the other side Jordan on the borders of Moab.
+
+### Numbers 33:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Gai and camped at Dibon-Gad.
+- brenton: And they departed from Gai, and encamped in Dæbon Gad.
+
+### Numbers 33:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Dibon-Gad and camped in Gelmon-Deblathaim.
+- brenton: And they departed from Dæbon Gad, and encamped in Gelmon Deblathaim.
+
+### Numbers 33:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from Gelmon-Deblathaim and camped at the mountains of Abarim opposite Nabau.
+- brenton: And they departed from Gelmon Deblathaim, and encamped on the mountains of Abarim, over against Nabau.
+
+### Numbers 33:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they set out from the mountains of Abarim and camped west of Moab by the Jordan at Jericho.
+- brenton: And they departed from the mountains of Abarim, and encamped on the west of Moab, at Jordan by Jericho.
+
+### Numbers 33:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they camped by the Jordan, from Aisimoth to Belsattim, west of Moab.
+- brenton: And they encamped by Jordan between Æsimoth, as far as Belsa to the west of Moab.
+
+### Numbers 33:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
+- brenton: And the Lord spoke to Moses at the west of Moab by Jordan at Jericho, saying,
+
+### Numbers 33:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
+- brenton: Speak to the children of Israel, and thou shalt say to them, Ye are to pass over Jordan into the land of Chanaan.
+
+### Numbers 33:52
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall destroy all the inhabitants in the land from before you, and you shall remove their watch-posts, and all their molten idols you shall destroy them, and all their pillars you shall remove.
+- brenton: And ye shall destroy all that dwell in the land before your face, and ye shall abolish their high places, and all their molten images ye shall destroy, and ye shall demolish all their pillars.
+
+### Numbers 33:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall destroy all those inhabiting the land and dwell in it, for I have given you their land by lot.
+- brenton: And ye shall destroy all the inhabitants of the land, and ye shall dwell in it, for I have given their land to you for an inheritance.
+
+### Numbers 33:54
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall take possession of their land by lot according to your tribes. To the greater you shall increase their possession, and to the fewer you shall lessen their possession. Wherever his lot comes out, there it shall be his. According to the tribes of your fathers you shall inherit.
+- brenton: And ye shall inherit their land according to your tribes; to the greater number ye shall give the larger possession, and to the smaller ye shall give the less possession; to whatsoever part a man's name shall go forth by lot, there shall be his property: ye shall inherit according to the tribes of your families.
+
+### Numbers 33:55
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: But if you do not destroy the inhabitants of the land from before you, then those you leave from them shall be spikes in your eyes and darts in your sides, and they shall be hostile over the land on which you dwell.
+- brenton: But if ye will not destroy the dwellers in the land from before you, then it shall come to pass that whomsoever of them ye shall leave shall be thorns in your eyes, and darts in your sides, and they shall be enemies to you on the land on which ye shall dwell;
+
+### Numbers 33:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it shall be, just as I determined to do to them, I will do to you.
+- brenton: and it shall come to pass that as I had determined to do to them, so I will do to you.
+
+### Numbers 34:1
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 34:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Command the sons of Israel and say to them, You are entering into the land of Canaan. This shall be for you as an inheritance, the land of Canaan with its borders.
+- brenton: Charge the children of Israel, and thou shalt say to them, Ye are entering into the land of Chanaan: it shall be to you for an inheritance, the land of Chanaan with its boundaries.
+
+### Numbers 34:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And for you the south side shall be from the wilderness of Sin up to Edom, and for you the southern borders shall be from the side of the Salt Sea eastward.
+- brenton: And your southern side shall be from the wilderness of Sin to the border of Edom, and your border southward shall extend on the side of the salt sea eastward.
+
+### Numbers 34:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the borders shall turn for you from the south to the ascent of Akrabin and shall pass Sena, and its exit shall be south of Kadesh-Barnea and shall go out to the camp of Arad and shall pass Asemona.
+- brenton: And your border shall go round you from the south to the ascent of Acrabin, and shall proceed by Ennac, and the going forth of it shall be southward to Cades Barne, and it shall go forth to the village of Arad, and shall proceed by Asemona.
+
+### Numbers 34:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the borders shall turn from Asemona to the Torrent of Egypt, and its exit shall be the sea.
+- brenton: And the border shall compass from Asemona to the river of Egypt, and the sea shall be the termination.
+
+### Numbers 34:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And your sea border shall be the Great Sea; it shall mark the boundary. This shall be for you the sea border.
+- brenton: And ye shall have your border on the west, the great sea shall be the boundary: this shall be to you the border on the west.
+
+### Numbers 34:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And this shall be the border for you to the north. From the Great Sea you shall measure for yourselves by Mount Hor.
+- brenton: And this shall be your northern border; from the great sea ye shall measure to yourselves, by the side of the mountain.
+
+### Numbers 34:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from Mount Hor you shall measure for yourselves entering into Emath, and its exit shall be the borders of Sarada.
+- brenton: And ye shall measure to yourselves the mountain from mount Hor at the entering in to Emath, and the termination of it shall be the coasts of Saradac.
+
+### Numbers 34:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the borders shall go out to Dephrōn, and its exit shall be Asernain. This shall be for you the northern border.
+- brenton: And the border shall go out to Dephrona, and its termination shall be at Arsenain; this shall be your border from the north.
+
+### Numbers 34:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall measure for yourselves the eastern border from Asernain to Sephama.
+- brenton: And ye shall measure to yourselves the eastern border from Arsenain to Sepphamar.
+
+### Numbers 34:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the border shall go down from Sepham to Arbela eastward by the springs, and the border shall go down to Bela on the slope of the Sea of Chenereth eastward.
+- brenton: And the border shall go down from Sepphamar to Bela eastward to the fountains, and the border shall go down from Bela behind the sea Chenereth eastward.
+
+### Numbers 34:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the border shall go down to the Jordan, and its exit shall be the Salt Sea. This shall be for you the land and its borders all around.
+- brenton: And the border shall go down to Jordan, and the termination shall be the salt sea; this shall be your land and its borders round about.
+
+### Numbers 34:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses commanded the sons of Israel, saying, This is the land that you shall inherit by lot, which the Lord commanded Moses to give it to the nine tribes and to the half-tribe of Manasseh,
+- brenton: And Moses charged the children of Israel, saying, This is the land which ye shall inherit by lot, even as the Lord commanded us to give it to the nine tribes and the half-tribe of Manasse.
+
+### Numbers 34:14
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: because the tribe of the sons of Reuben and the tribe of the sons of Gad by their ancestral houses and the half-tribe of Manasseh received their allotments.
+- brenton: For the tribe of the children of Ruben, and the tribe of the children of Gad have received their inheritance according to their families; and the half-tribe of Manasse have received their inheritances.
+
+### Numbers 34:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Two tribes and a half-tribe received their allotments beyond the Jordan at Jericho, from the south eastward.
+- brenton: Two tribes and half a tribe have received their inheritance beyond Jordan by Jericho from the south eastwards.
+
+### Numbers 34:16
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 34:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the names of the men who shall allot the land to you: Eleazar the priest and Joshua son of Nun.
+- brenton: These are the names of the men who shall divide the land to you for an inheritance; Eleazar the priest and Joshua the son of Naue.
+
+### Numbers 34:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And one leader from each tribe you shall take to allot the land for you.
+- brenton: And ye shall take one ruler from each tribe to divide the land to you by lot.
+
+### Numbers 34:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these are the names of the men: from the tribe of Judah, Caleb son of Jephunneh.
+- brenton: And these are the names of the men; of the tribe of Juda, Chaleb the son of Jephonne.
+
+### Numbers 34:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of Symeon, Salamiēl son of Emioud.
+- brenton: Of the tribe of Symeon, Salamiel the son of Semiud.
+
+### Numbers 34:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of Benjamin, Eldad son of Chaslōn.
+- brenton: Of the tribe of Benjamin, Eldad the son of Chaslon.
+
+### Numbers 34:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of Dan, the leader Bacchir son of Egli.
+- brenton: Of the tribe of Dan the prince was Bacchir the son of Egli.
+
+### Numbers 34:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the sons of Joseph, from the tribe of the sons of Manasseh, the leader Aniēl son of Ouphi.
+- brenton: Of the sons of Joseph of the tribe of the sons of Manasse, the prince was Aniel the son of Suphi.
+
+### Numbers 34:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of the sons of Ephraim, the leader Kamouēl son of Sabatha.
+- brenton: Of the tribe of the sons of Ephraim, the prince was Camuel the son of Sabathan.
+
+### Numbers 34:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of Zebulun, the leader Elisaphan son of Pharnach.
+- brenton: Of the tribe of Zabulon, the prince was Elisaphan the son of Pharnac.
+
+### Numbers 34:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of the sons of Issachar, the leader Phaltiēl son of Oza.
+- brenton: Of the tribe of the sons of Issachar, the prince was Phaltiel the son of Oza.
+
+### Numbers 34:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of the sons of Asher, the leader Achiōr son of Selemi.
+- brenton: Of the tribe of the children of Aser, the prince was Achior the son of Selemi.
+
+### Numbers 34:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the tribe of Naphtali, the leader Phadaēl son of Benamioud.
+- brenton: Of the tribe of Nephthali, the prince was Phadael the son of Jamiud.
+
+### Numbers 34:29
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan.
+- brenton: These did the Lord command to distribute the inheritances to the children of Israel in the land of Chanaan.
+
+### Numbers 35:1
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
+- brenton: And the Lord spoke to Moses to the west of Moab by Jordan near Jericho, saying,
+
+### Numbers 35:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Command the sons of Israel, and they shall give to the Levites from the lots of their possession cities to dwell in, and the outskirts of the cities around them they shall give to the Levites.
+- brenton: Give orders to the children of Israel, and they shall give to the Levites cities to dwell in from the lot of their possession, and they shall give to the Levites the suburbs of the cities round about them.
+
+### Numbers 35:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cities shall be for them to dwell in, and their separated lands shall be for their cattle and for all their four-footed animals.
+- brenton: And the cities shall be for them to dwell in, and their enclosures shall be for their cattle and all their beasts.
+
+### Numbers 35:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the surrounding lands of the cities that you shall give to the Levites, from the wall of the city and outward, shall be two thousand cubits all around.
+- brenton: And the suburbs of the cities which ye shall give to the Levites, shall be from the wall of the city and outwards two thousand cubits round about.
+
+### Numbers 35:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall measure outside the city the east side two thousand cubits and the south side two thousand cubits and the west side two thousand cubits and the north side two thousand cubits, and the city shall be in the middle of this. These shall be for you the adjoining lands of the cities.
+- brenton: And thou shalt measure outside the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and your city shall be in the midst of this, and the suburbs of the cities as described.
+
+### Numbers 35:6
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the cities that you shall give to the Levites, the six cities of refuges, which you shall give for the slayer to flee there, and besides these, forty-two cities.
+- brenton: And ye shall give the cities to the Levites, the six cities of refuge which ye shall give for the slayer to flee thither, and in addition to these, forty-two cities.
+
+### Numbers 35:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the cities that you shall give to the Levites shall be forty-eight cities, these and their outskirts.
+- brenton: Ye shall give to the Levites in all forty-eight cities, them and their suburbs.
+
+### Numbers 35:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cities that you shall give from the possession of the sons of Israel, from the greater share many, and from the smaller share fewer. Each according to his inheritance that they will inherit, they shall give from their cities to the Levites.
+- brenton: And as for the cities which ye shall give out of the possession of the children of Israel, from those that have much ye shall give much, and from those that have less ye shall give less: they shall give of their cities to the Levites each one according to his inheritance which they shall inherit.
+
+### Numbers 35:9
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord spoke to Moses, saying,
+- brenton: And the Lord spoke to Moses, saying,
+
+### Numbers 35:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
+- brenton: Speak to the children of Israel, and thou shalt say to them, Ye are to cross over Jordan into the land of Chanaan.
+
+### Numbers 35:11
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall designate cities for yourselves. They shall be refuges for you, for the slayer to flee there, everyone who struck down a soul unintentionally.
+- brenton: And ye shall appoint to yourselves cities: they shall be to you cities of refuge for the slayer to flee to, every one who has killed another unintentionally.
+
+### Numbers 35:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cities shall be refuges for you from the avenger of blood, and the slayer shall certainly not die until he stands before the congregation for judgment.
+- brenton: And the cities shall be to you places of refuge from the avenger of blood, and the slayer shall not die until he stands before the congregation for judgment.
+
+### Numbers 35:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the cities that you shall give, the six cities, shall be refuges for you.
+- brenton: And the cities which ye shall assign, even the six cities, shall be places of refuge for you.
+
+### Numbers 35:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Three cities you shall give beyond the Jordan, and three cities you shall give in the land of Canaan.
+- brenton: Ye shall assign three cities on the other side of Jordan, and ye shall assign three cities in the land of Chanaan.
+
+### Numbers 35:15
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The refuge shall be for the sons of Israel and for the proselyte and for the resident among you. These cities shall be a refuge, for everyone striking a soul unintentionally to flee there.
+- brenton: It shall be a place of refuge for the children of Israel, and for the stranger, and for him that sojourns among you; these cities shall be for a place of refuge, for every one to flee thither who has killed a man unintentionally.
+
+### Numbers 35:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
+- brenton: And if he should smite him with an iron instrument, and the man should die, he is a murderer; let the murderer by all means be put to death.
+
+### Numbers 35:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if with a stone in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
+- brenton: And if he should smite him with a stone thrown from his hand, whereby a man may die, and he thus die, he is a murderer; let the murderer by all means be put to death.
+
+### Numbers 35:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if with a wooden tool in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
+- brenton: And if he should smite him with an instrument of wood from his hand, whereby he may die, and he thus die, he is a murderer; let the murderer by all means be put to death.
+
+### Numbers 35:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him.
+- brenton: The avenger of blood himself shall slay the murderer: whensoever he shall meet him he shall slay him.
+
+### Numbers 35:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if through enmity he pushes him, or throws any object upon him from ambush, and he dies,
+- brenton: And if he should thrust him through enmity, or cast any thing upon him from an ambuscade, and the man should die,
+
+### Numbers 35:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or in anger strikes him with the hand and he dies, the one striking shall surely be put to death. He is a murderer. The avenger of blood shall kill the murderer when he meets him.
+- brenton: or if he have smitten him with his hand through anger, and the man should die, let the man that smote him be put to death by all means, he is a murderer: let the murderer by all means be put to death: the avenger of blood shall slay the murderer when he meets him.
+
+### Numbers 35:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if suddenly, not through enmity, he pushes him, or throws any object upon him not from ambush,
+- brenton: But if he should thrust him suddenly, not through enmity, or cast any thing upon him, not from an ambuscade,
+
+### Numbers 35:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: or with any stone by which one may die, not knowing, it falls on him and he dies, while he was not his enemy nor seeking to do him harm,
+- brenton: or smite him with any stone, whereby a man may die, unawares, and it should fall upon him, and he should die, but he was not his enemy, nor sought to hurt him;
+
+### Numbers 35:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: then the congregation shall judge between the striker and the avenger of blood according to these judgments.
+- brenton: then the assembly shall judge between the smiter and the avenger of blood, according to these judgments.
+
+### Numbers 35:25
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to the city of his refuge where he fled, and he shall dwell there until the great priest dies, the one whom they anointed with the holy oil.
+- brenton: And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to his city of refuge, whither he fled for refuge; and he shall dwell there till the death of the high-priest, whom they anointed with the holy oil.
+
+### Numbers 35:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But if the slayer goes out beyond the bounds of the city where he fled there,
+- brenton: But if the slayer should in any wise go out beyond the bounds of the city whither he fled for refuge,
+
+### Numbers 35:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and the avenger of blood finds him outside the bounds of the city of his refuge and the avenger of blood kills the slayer, he is not guilty.
+- brenton: and the avenger of blood should find him without the bounds of the city of his refuge, and the avenger of blood should kill the slayer, he is not guilty.
+
+### Numbers 35:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: For he shall dwell in the city of refuge until the great priest dies, and after the great priest dies the slayer shall return to the land of his possession.
+- brenton: For he ought to have remained in the city of refuge till the high-priest died; and after the death of the high-priest the slayer shall return to the land of his possession.
+
+### Numbers 35:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these things shall be for you an ordinance of judgment throughout your generations in all your dwellings.
+- brenton: And these things shall be to you for an ordinance of judgment throughout your generations in all your dwellings.
+
+### Numbers 35:30
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everyone striking a soul, by witnesses you shall kill the murderer, but one witness shall not testify against a soul for dying.
+- brenton: Whoever kills a man, thou shalt slay the murderer on the testimony of witnesses; and one witness shall not testify against a soul that he should die.
+
+### Numbers 35:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not take ransom for the life of the murderer who is guilty to be taken away, for by death he shall be put to death.
+- brenton: And ye shall not accept ransoms for life from a murderer who is worthy of death, for he shall be surely put to death.
+
+### Numbers 35:32
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not take ransom for fleeing into the city of refuges, for returning to dwell upon the land until the great priest dies.
+- brenton: Ye shall not accept a ransom to excuse his fleeing to the city of refuge, so that he should again dwell in the land, until the death of the high-priest.
+
+### Numbers 35:33
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And you shall certainly not murder the land in which you dwell, for blood murders the land, and the land shall not be atoned for from the blood poured out on it except by the blood of the one pouring it out.
+- brenton: So shall ye not pollute with murder the land in which ye dwell; for this blood pollutes the land, and the land shall not be purged from the blood shed upon it, but by the blood of him that shed it.
+
+### Numbers 35:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you shall not defile the land on which you dwell, upon which I tabernacle among you, for I am the Lord tabernacling in the midst of the sons of Israel.
+- brenton: And ye shall not defile the land whereon ye dwell, on which I dwell in the midst of you; for I am the Lord dwelling in the midst of the children of Israel.
+
+### Numbers 36:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the leaders of the tribe of the sons of Gilead son of Machir son of Manasseh, from the tribe of the sons of Joseph, came near and spoke before Moses and before Eleazar the priest and before the leaders of the ancestral houses of the sons of Israel.
+- brenton: And the heads of the tribe of the sons of Galaad the son of Machir the son of Manasse, of the tribe of the sons of Joseph, drew near, and spoke before Moses, and before Eleazar the priest, and before the heads of the houses of the families of the children of Israel:
+
+### Numbers 36:2
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they said to our lord, The Lord commanded to give the land of inheritance by lot to the sons of Israel, and to our lord the Lord commanded to give the inheritance of Salpaad our brother to his daughters.
+- brenton: and they said, The Lord commanded our lord to render the land of inheritance by lot to the children of Israel; and the Lord appointed our lord to give the inheritance of Salpaad our brother to his daughters.
+
+### Numbers 36:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if they become wives to one of the tribes of the sons of Israel, their inheritance will be taken away from the possession of our fathers and added to the inheritance of the tribe to which they become wives, and it will be taken away from the lot of our inheritance.
+- brenton: And they will become wives in one of the tribes of the children of Israel; so their inheritance shall be taken away from the possession of our fathers, and shall be added to the inheritance of the tribe into which the women shall marry, and shall be taken away from the portion of our inheritance.
+
+### Numbers 36:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And if the release of the sons of Israel comes, their inheritance will be added to the inheritance of the tribe to which they become wives, and their inheritance will be taken away from the inheritance of the tribe of our fathers.
+- brenton: And if there shall be a release of the children of Israel, then shall their inheritance be added to the inheritance of the tribe into which the women marry, and their inheritance shall be taken away from the inheritance of our family's tribe.
+
+### Numbers 36:5
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Moses commanded the sons of Israel by command of the Lord, saying, Thus the tribe of the sons of Joseph speaks.
+- brenton: And Moses charged the children of Israel by the commandment of the Lord, saying, Thus says the tribe of the children of Joseph.
+
+### Numbers 36:6
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: This is the word that the Lord commanded for the daughters of Salpaad, saying, Let them become wives to whom it is pleasing before them. Only from the clan of their father shall they become wives.
+- brenton: This is the thing which the Lord has appointed the daughters of Salpaad, saying, Let them marry where they please, only let them marry men of their father's tribe.
+
+### Numbers 36:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And inheritance shall not be turned around for the sons of Israel from tribe to tribe, because the sons of Israel shall cling each to the inheritance of the tribe of his fathers.
+- brenton: So shall not the inheritance of the children of Israel go about from tribe to tribe, for the children of Israel shall steadfastly continue each in the inheritance of his family's tribe.
+
+### Numbers 36:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every daughter inheriting inheritance from the tribes of the sons of Israel shall become wife to one from the clan of her father, so that the sons of Israel may inherit each the inheritance of his fathers.
+- brenton: And whatever daughter is heiress to a property of the tribes of the children of Israel, such women shall be married each to one of her father's tribe, that the sons of Israel may each inherit the property of his father's tribe.
+
+### Numbers 36:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And a lot shall not be turned from tribe to another tribe, but the sons of Israel shall cling each to his own inheritance.
+- brenton: And the inheritance shall not go about from one tribe to another, but the children of Israel shall steadfastly continue each in his own inheritance.
+
+### Numbers 36:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Just as the Lord commanded Moses, so the daughters of Salpaad did.
+- brenton: As the Lord commanded Moses, so did they to the daughters of Salpaad.
+
+### Numbers 36:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Thersa and Egla and Melcha and Noua and Maala, daughters of Salpaad, became wives to their cousins.
+- brenton: So Thersa, and Egla, and Melcha, and Nua, and Malaa, the daughters of Salpaad, married their cousins;
+
+### Numbers 36:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From the clan of Manasseh, sons of Joseph, they became wives, and their inheritance remained upon the tribe of the clan of their father.
+- brenton: they were married to men of the tribe of Manasse of the sons of Joseph; and their inheritance was attached to the tribe of their father's family.
+
+### Numbers 36:13
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the commands and the ordinances and the judgments that the Lord commanded by the hand of Moses west of Moab by the Jordan at Jericho.
+- brenton: These are the commandments, and the ordinances, and the judgments, which the Lord commanded by the hand of Moses, at the west of Moab, at Jordan by Jericho.
+
+## Deuteronomy
+
+### Deuteronomy 1:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
+- brenton: These are the words which Moses spoke to all Israel on this side Jordan in the desert towards the west near the Red Sea, between Pharan Tophol, and Lobon, and Aulon, and the gold works.
+
+### Deuteronomy 1:2
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
+- brenton: It is a journey of eleven days from Choreb to mount Seir as far as Cades Barne.
+
+### Deuteronomy 1:3
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to pass in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to all the sons of Israel according to all that the Lord commanded him to them,
+- brenton: And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to all the children of Israel, according to all things which the Lord commanded him for them:
+
+### Deuteronomy 1:4
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: after he struck Sihon king of the Amorites who dwelt in Heshbon and Og king of Bashan who dwelt in Astaroth and in Edrain.
+- brenton: after he had smitten Seon king of the Amorites who dwelt in Esebon, and Og the king of Basan who dwelt in Astaroth and in Edrain;
+
+### Deuteronomy 1:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Beyond the Jordan, in the land of Moab, Moses began to make this law clear, saying,
+- brenton: beyond Jordan in the land of Moab, Moses began to declare this law, saying,
+
+### Deuteronomy 1:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The Lord our God spoke to us in Horeb, saying, Let it be enough for you to dwell on this mountain.
+- brenton: The Lord your God spoke to us in Choreb, saying, Let it suffice you to have dwelt so long in this mountain.
+
+### Deuteronomy 1:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Turn and set out, you, and enter into the hill-country of the Amorites and to all the neighbors of the Arabah, into mountain and plain and toward the south and the coastland, the land of the Canaanites and Lebanon, as far as the great river Euphrates.
+- brenton: Turn ye and depart and enter into the mountain of the Amorites, and go to all that dwell near about Araba, to the mountain and the plain and to the south, and the land of the Chananites near the sea, and Antilibanus, as far as the great river, the river Euphrates.
+
+### Deuteronomy 1:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: See, I have handed over the land before you. Having entered, inherit the land which I swore to your fathers, to Abraham and Isaac and Jacob, to give to them and to their seed after them.
+- brenton: Behold, God has delivered the land before you; go in and inherit the land, which I sware to your fathers, Abraam, and Isaac, and Jacob, to give it to them and to their seed after them.
+
+### Deuteronomy 1:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to you at that time, saying, I will not be able to bear you alone.
+- brenton: And I spoke to you at that time, saying, I shall not be able by myself to bear you.
+
+### Deuteronomy 1:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The Lord your God multiplied you, and behold, today you are as the stars of heaven in multitude.
+- brenton: The Lord your God has multiplied you, and, behold, ye are to-day as the stars of heaven for multitude.
+
+### Deuteronomy 1:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: May the Lord, the God of your fathers, add to you, as you are, a thousandfold, and bless you just as he spoke to you.
+- brenton: The Lord God of your fathers add to you a thousand-fold more than you are, and bless you as he has spoken to you.
+
+### Deuteronomy 1:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: How will I be able alone to bear your toil and your standing and your disputes?
+- brenton: How shall I alone be able to bear your labour, and your burden, and your gainsayings?
+
+### Deuteronomy 1:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Give yourselves men wise and understanding and prudent for your tribes, and I will appoint them as leaders over you.
+- brenton: Take to yourselves wise and understanding and prudent men for your tribes, and I will set your leaders over you.
+
+### Deuteronomy 1:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you answered me and said, Good is the word that you spoke to do.
+- brenton: And ye answered me and said, The thing which thou hast told us is good to do.
+
+### Deuteronomy 1:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I took from among you men wise and understanding and prudent, and I appointed them to lead over you as chiliarchs and centurions and leaders of fifty and leaders of ten and record-keepers for your judges.
+- brenton: So I took of you wise and understanding and prudent men, and I set them to rule over you as rulers of thousands, and rulers of hundreds, and rulers of fifties, and rulers of tens, and officers to your judges.
+
+### Deuteronomy 1:16
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I commanded your judges at that time, saying, Hear between your brothers and judge righteously between a man and his brother and his proselyte.
+- brenton: And I charged your judges at that time, saying, Hear causes between your brethren, and judge rightly between a man and his brother, and the stranger that is with him.
+
+### Deuteronomy 1:17
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it.
+- brenton: Thou shalt not have respect to persons in judgment, thou shalt judge small and great equally; thou shalt not shrink from before the person of a man, for the judgment is God's; and whatsoever matter shall be too hard for you, ye shall bring it to me, and I will hear it.
+
+### Deuteronomy 1:18
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I commanded you at that time all the matters that you should do.
+- brenton: And I charged upon you at that time all the commands which ye shall perform.
+
+### Deuteronomy 1:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And setting out from Horeb, we went through all that great and fearful wilderness which you saw, by the road of the mountain of the Amorite, just as the Lord our God commanded us, and we came as far as Kadesh-Barnea.
+- brenton: And we departed from Choreb, and went through all that great wilderness and terrible, which ye saw, by the way of the mountain of the Amorite, as the Lord our God charged us, and we came as far as Cades Barne.
+
+### Deuteronomy 1:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to you, You have come as far as the mountain of the Amorite, which the Lord our God gives you.
+- brenton: And I said to you, Ye have come as far as the mountain of the Amorite, which the Lord our God gives to you:
+
+### Deuteronomy 1:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: See, the Lord your God has handed over the land before you. Go up, inherit, just as the Lord the God of your fathers said to you. Do not fear and do not lose heart.
+- brenton: behold, the Lord your God has delivered to us the land before you: go up and inherit it as the Lord God of your fathers said to you; fear not, neither be afraid.
+
+### Deuteronomy 1:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you all came near to me and said, Let us send men before us, and let them explore the land for us and report back to us the answer, the road by which we shall go up in it and the cities into which we shall enter.
+- brenton: And ye all came to me, and said, Let us send men before us, and let them go up to the land for us; and let them bring back to us a report of the way by which we shall go up, and of the cities into which we shall enter.
+
+### Deuteronomy 1:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the word pleased me, and I took from among you twelve men, one man by tribe.
+- brenton: And the saying pleased me: and I took of you twelve men, one man of a tribe.
+
+### Deuteronomy 1:24
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And turning, they went up into the mountain and came as far as the Ravine of Cluster and spied it out.
+- brenton: And they turned and went up to the mountain, and they came as far as the valley of the cluster, and surveyed it.
+
+### Deuteronomy 1:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they took in their hands from the fruit of the land and brought it down to us and said, Good is the land that the Lord our God gives us.
+- brenton: And they took in their hands of the fruit of the land, and brought it to you, and said, The land is good which the Lord our God gives us.
+
+### Deuteronomy 1:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: But you were not willing to go up, and you disobeyed the word of the Lord your God.
+- brenton: Yet ye would not go up, but rebelled against the words of the Lord our God.
+
+### Deuteronomy 1:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you were grumbling in your tents and said, Because the Lord hates us, he brought us out from the land of Egypt to hand us over into the hands of the Amorites to destroy us.
+- brenton: And ye murmured in your tents, and said, Because the Lord hated us, he has brought us out of the land of Egypt to deliver us into the hands of the Amorites, to destroy us.
+
+### Deuteronomy 1:28
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Where are we going up? Our brothers turned away your heart, saying, The nation is great and many and stronger than we, and the cities great and walled up to heaven, and moreover we saw sons of giants there.
+- brenton: Whither do we go up? and your brethren drew away your heart, saying, It is a great nation and populous, and mightier than we; and there are cities great and walled up to heaven: moreover we saw there the sons of the giants.
+
+### Deuteronomy 1:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I said to you, Do not be terrified, and do not fear them.
+- brenton: And I said to you, Fear not, neither be ye afraid of them;
+
+### Deuteronomy 1:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The Lord your God who goes before your face, he himself will fight together with them for you according to all that he did for you in the land of Egypt,
+- brenton: the Lord your God who goes before your face, he shall fight against them together with you effectually, according to all that he wrought for you in the land of Egypt;
+
+### Deuteronomy 1:31
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
+- brenton: and in this wilderness which ye saw, by the way of the mountain of the Amorite; how the Lord thy God will bear thee as a nursling, as if any man should nurse his child, through all the way which ye have gone until ye came to this place.
+
+### Deuteronomy 1:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in this matter you did not trust the Lord your God,
+- brenton: And in this matter ye believed not the Lord our God,
+
+### Deuteronomy 1:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: who goes ahead of you on the road, choosing for you a place, leading you in fire by night, showing you the road on which you go, and in cloud by day.
+- brenton: who goes before you in the way to choose you a place, guiding you in fire by night, shewing you the way by which ye go, and a cloud by day.
+
+### Deuteronomy 1:34
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord heard the voice of your words and, being provoked, swore, saying,
+- brenton: And the Lord heard the voice of your words, and being greatly provoked he sware, saying,
+
+### Deuteronomy 1:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: If any of these men shall see this good land that I swore to their fathers—
+- brenton: Not one of these men shall see this good land, which I sware to their fathers,
+
+### Deuteronomy 1:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: except Caleb son of Jephunneh. He shall see it, and to him I will give the land on which he trod and to his sons, because he clung to the things of the Lord.
+- brenton: except Chaleb the son of Jephonne, he shall see it; and to him I will give the land on which he went up, and to his sons, because he attended to the things of the Lord.
+
+### Deuteronomy 1:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord was angry with me because of you, saying, Neither shall you enter there.
+- brenton: And the Lord was angry with me for your sake, saying, Neither shalt thou by any means enter therein.
+
+### Deuteronomy 1:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Joshua son of Nun, the one standing by you, he shall enter there. Strengthen him, because he shall allot it to Israel.
+- brenton: Joshua the son of Naue, who stands by thee, he shall enter in there; do thou strengthen him, for he shall cause Israel to inherit it.
+
+### Deuteronomy 1:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And every young child who today does not know good or evil, these shall enter there, and to these I will give it, and they shall inherit it.
+- brenton: And every young child who this day knows not good or evil,—they shall enter therein, and to them I will give it, and they shall inherit it.
+
+### Deuteronomy 1:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you, having turned, camp yourselves in the wilderness by the road of the Red Sea.
+- brenton: And ye turned and marched into the wilderness, in the way by the Red Sea.
+
+### Deuteronomy 1:41
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you answered me and said, We sinned before the Lord our God. We ourselves, going up, will wage war according to all that the Lord our God commanded us. And each taking up his weapons of war and gathering yourselves, you were going up into the mountain.
+- brenton: And ye answered and said, We have sinned before the Lord our God; we will go up and fight according to all that the Lord our God has commanded us: and having taken every one his weapons of war, and being gathered together, ye went up to the mountain.
+
+### Deuteronomy 1:42
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to me, Tell them, You shall not go up, nor shall you fight, for I am not with you, and you shall not be crushed before your enemies.
+- brenton: And the Lord said to me, Tell them, Ye shall not go up, neither shall ye fight, for I am not with you; thus shall ye not be destroyed before your enemies.
+
+### Deuteronomy 1:43
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I spoke to you, and you did not listen to me, and you transgressed the word of the Lord, and forcing your way, you went up into the mountain.
+- brenton: And I spoke to you, and ye did not hearken to me; and ye transgressed the commandment of the Lord; and ye forced your way and went up into the mountain.
+
+### Deuteronomy 1:44
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And the Amorite who dwelt in that mountain came out to meet you and pursued you as bees might do and were wounding you from Seir to Herma.
+- brenton: And the Amorite who dwelt in that mountain came out to meet you, and pursued you as bees do, and wounded you from Seir to Herma.
+
+### Deuteronomy 1:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And sitting down, you were weeping before the Lord, and the Lord did not hear your voice nor pay attention to you.
+- brenton: And ye sat down and wept before the Lord our God, and the Lord hearkened not to your voice, neither did he take heed to you.
+
+### Deuteronomy 1:46
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you remained in Kadesh many days, however many days you remained.
+- brenton: And ye dwelt in Cades many days, as many days as ye dwelt there.
+
+### Deuteronomy 2:1
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And turning, we set out into the wilderness by the way of the Red Sea, just as the Lord spoke to me, and we went around Mount Seir many days.
+- brenton: And we turned and departed into the wilderness, by the way of the Red Sea, as the Lord spoke to me, and we compassed mount Seir many days.
+
+### Deuteronomy 2:2
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: And the Lord said to me,
+- brenton: And the Lord said to me,
+
+### Deuteronomy 2:3
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let it be enough for you to go around this mountain. Turn then to the north.
+- brenton: Ye have compassed this mount long enough; turn therefore toward the north.
+
+### Deuteronomy 2:4
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And command the people, saying, You are passing through the borders of your brothers, the sons of Esau, who dwell in Seir, and they shall fear you and be very wary of you.
+- brenton: And charge the people, saying, Ye are going through the borders of your brethren the children of Esau, who dwell in Seir; and they shall fear you, and dread you greatly.
+
+### Deuteronomy 2:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Do not join battle with them, for I shall certainly not give you from their land even a step of foot, because I have given Mount Seir to the sons of Esau as an inheritance.
+- brenton: Do not engage in war against them, for I will not give you of their land even enough to set your foot upon, for I have given mount Seir to the children of Esau as an inheritance.
+
+### Deuteronomy 2:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Buy food from them with silver and eat, and water by measure take from them for silver and drink.
+- brenton: Buy food of them for money and eat, and ye shall receive water of them by measure for money, and drink.
+
+### Deuteronomy 2:7
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
+- brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
+
+### Deuteronomy 2:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we passed by our brothers, the sons of Esau, who dwell in Seir, by the road of the Arabah, from Ailon and from Gasiongaber. And turning, we passed by the road of the wilderness of Moab.
+- brenton: And we passed by our brethren the children of Esau, who dwelt in Seir, by the way of Araba from Ælon and from Gesion Gaber; and we turned and passed by the way of the desert of Moab.
+
+### Deuteronomy 2:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to me, Do not treat the Moabites as enemies, and do not join them in war, for I shall certainly not give you from their land as an inheritance, because I have given Seir to the sons of Lot as an inheritance.
+- brenton: And the Lord said to me, Do not ye quarrel with the Moabites, and do not engage in war with them; for I will not give you of their land for an inheritance, for I have given Aroer to the children of Lot to inherit.
+
+### Deuteronomy 2:10
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The Ommin lived on it formerly, a great and many people and mighty, like the Anakim.
+- brenton: Formerly the Ommin dwelt in it, a great and numerous nation and powerful, like the Enakim.
+
+### Deuteronomy 2:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These also are counted as Raphain, like the Anakim, and the Moabites call them Ommin.
+- brenton: These also shall be accounted Raphain like the Enakim; and the Moabites call them Ommin.
+
+### Deuteronomy 2:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in Seir the Chorraean dwelt formerly, and the sons of Esau destroyed them and crushed them from before them and settled in their place, just as Israel did to the land of his inheritance which the Lord gave them.
+- brenton: And the Chorrhite dwelt in Seir before, and the sons of Esau destroyed them, and utterly consumed them from before them; and they dwelt in their place, as Israel did to the land of his inheritance, which the Lord gave to them.
+
+### Deuteronomy 2:13
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then rise and set out, you, and pass through the Ravine of Zaret. And we passed through the Ravine of Zaret.
+- brenton: Now then, arise ye, said I, and depart, and cross the valley of Zaret.
+
+### Deuteronomy 2:14
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the days that we traveled from Kadesh-Barnea until we passed through the Ravine of Zaret were thirty-eight years, until all the generation of fighting men fell away, dying from the camp, just as God swore to them.
+- brenton: And the days in which we travelled from Cades Barne till we crossed the valley of Zaret, were thirty and eight years, until the whole generation of the men of war failed, dying out of the camp, as the Lord God sware to them.
+
+### Deuteronomy 2:15
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the hand of God was upon them to consume them from the camp until they fell away.
+- brenton: And the hand of the Lord was upon them to destroy them out of the midst of the camp, until they were consumed.
+
+### Deuteronomy 2:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it came to pass, when all the fighting men had fallen away, dying from the midst of the people,
+- brenton: And it came to pass when all the men of war dying out of the midst of the people had fallen,
+
+### Deuteronomy 2:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: the Lord spoke to me, saying,
+- brenton: that the Lord spoke to me, saying,
+
+### Deuteronomy 2:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: You are passing today the borders of Moab, Seir.
+- brenton: Thou shalt pass over this day the borders of Moab to Aroer;
+
+### Deuteronomy 2:19
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you will come near to the sons of Ammon. Do not treat them as enemies and do not join them in war, for I shall certainly not give you from the land of the sons of Ammon as an inheritance, because I have given it to the sons of Lot as an inheritance.
+- brenton: and ye shall draw nigh to the children of Amman: do not quarrel with them, nor wage war with them; for I will not give thee of the land of the children of Amman for an inheritance, because I have given it to the children of Lot for an inheritance.
+
+### Deuteronomy 2:20
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: It is counted as land of Raphain, for Raphain dwelt on it formerly, and the Ammanites call them Zomzommin,
+- brenton: It shall be accounted a land of Raphain, for the Raphain dwelt there before, and the Ammanites call them Zochommin.
+
+### Deuteronomy 2:21
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: a great and many people and stronger than you, like the Anakim. And the Lord destroyed them from before them, and they inherited and dwelt in their place to this day,
+- brenton: A great nation and populous, and mightier than you, as also the Enakim: yet the Lord destroyed them from before them, and they inherited their land, and they dwelt there instead of them until this day.
+
+### Deuteronomy 2:22
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as they did for the sons of Esau who dwell in Seir, in the way they crushed the Chorraean from before them and inherited and dwelt in their place to this day.
+- brenton: As they did to the children of Esau that dwell in Seir, even as they destroyed the Chorrhite from before them, and inherited their country, and dwelt therein instead of them until this day.
+
+### Deuteronomy 2:23
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Euaeans who dwelt in Aseroth as far as Gaza, and the Cappadocians who came out from Cappadocia crushed them and dwelt in their place.
+- brenton: And the Evites who dwell in Asedoth to Gaza, and the Cappadocians who came out of Cappadocia, destroyed them, and dwelt in their room.
+
+### Deuteronomy 2:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Now then rise and set out and pass through the Ravine of Arnon. Behold, I have handed into your hands Sihon king of Heshbon the Amorite and his land. Begin to inherit; join battle with him.
+- brenton: Now then arise and depart, and pass over the valley of Arnon: behold, I have delivered into thy hands Seon the king of Esebon the Amorite, and his land: begin to inherit it: engage in war with him this day.
+
+### Deuteronomy 2:25
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: On this day begin to give your terror and your fear on the face of all the nations under heaven, who, hearing your name, shall be troubled and shall have birth-pains from before your face.
+- brenton: Begin to put thy terror and thy fear on the face of all the nations under heaven, who shall be troubled when they have heard thy name, and shall be in anguish before thee.
+
+### Deuteronomy 2:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I sent envoys from the wilderness of Kedamoth to Sihon king of Heshbon with words of peace, saying,
+- brenton: And I sent ambassadors from the wilderness of Kedamoth to Seon king of Esebon with peaceable words, saying,
+
+### Deuteronomy 2:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: I shall pass through your land. By the road I shall pass. I shall not turn aside right or left.
+- brenton: I will pass through thy land: I will go by the road, I will not turn aside to the right hand or to the left.
+
+### Deuteronomy 2:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Food for silver you shall give me and I shall eat, and water for silver you shall give me and I shall drink, except that I shall pass through on foot,
+- brenton: Thou shalt give me food for money, and I will eat; and thou shalt give me water for money, and I will drink; I will only go through on my feet:
+
+### Deuteronomy 2:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: just as the sons of Esau dwelling in Seir did for me, and the Moabites dwelling in Aroer, until I pass through the Jordan into the land that the Lord our God gives us.
+- brenton: as the sons of Esau did to me, who dwelt in Seir, and the Moabites who dwelt in Aroer, until I shall have passed Jordan into the land which the Lord our God gives us.
+
+### Deuteronomy 2:30
+
+- importance: high
+- decisions: 1
+- footnotes: 1
+- same_normalized: no
+- fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
+- brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
+
+### Deuteronomy 2:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord said to me, Behold, I have begun to hand over before your face Sihon king of Heshbon the Amorite and his land. Begin to inherit his land.
+- brenton: And the Lord said to me, Behold, I have begun to deliver before thee Seon the king of Esebon the Amorite, and his land, and do thou begin to inherit his land.
+
+### Deuteronomy 2:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Sihon king of Heshbon came out to meet us, he and all his people, for battle at Jassa.
+- brenton: And Seon the king of Esebon came forth to meet us, he and all his people to war at Jassa.
+
+### Deuteronomy 2:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Lord our God handed him over before our face, and we struck him and his sons and all his people.
+- brenton: And the Lord our God delivered him before our face, and we smote him, and his sons, and all his people.
+
+### Deuteronomy 2:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And we seized all his cities at that time and utterly destroyed every city in succession, and their women and their children. We left no living captive.
+- brenton: And we took possession of all his cities at that time, and we utterly destroyed every city in succession, and their wives, and their children; we left no living prey.
+
+### Deuteronomy 2:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Except the cattle we plundered and the spoils of the cities we took.
+- brenton: Only we took the cattle captive, and took the spoil of the cities.
+
+### Deuteronomy 2:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From Aroer, which is by the lip of the torrent Arnon, and the city that is in the ravine, even to the mountain of Gilead, there was no city that escaped us. The Lord our God handed all of them into our hands.
+- brenton: From Aroer, which is by the brink of the brook of Arnon, and the city which is in the valley, and as far as the mount of Galaad; there was not a city which escaped us: the Lord our God delivered all of them into our hands.
+
+### Deuteronomy 2:37
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Except to the land of the sons of Ammon we did not come near, all adjoining the torrent Jabbok, and the cities in the hill country, just as the Lord our God commanded us.
+- brenton: Only we did not draw near to the children of Amman, even all the parts bordering on the brook Jaboc, and the cities in the mountain country, as the Lord our God charged us.

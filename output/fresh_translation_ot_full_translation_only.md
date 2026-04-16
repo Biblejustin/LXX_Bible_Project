@@ -16010,3671 +16010,3671 @@ Because at the Lord's command they would set out, and at the Lord's command they
 
 **Numbers 10:1**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 10:2**
 
-[TODO]
+Make for yourself two silver trumpets; you shall make them hammered, and they shall be for you for calling the congregation and for breaking camp.
 
 **Numbers 10:3**
 
-[TODO]
+And you shall blow with them, and the whole congregation shall gather to the door of the tent of testimony.
 
 **Numbers 10:4**
 
-[TODO]
+But if they blow with one, all the chiefs, the leaders of Israel, shall come near to you.
 
 **Numbers 10:5**
 
-[TODO]
+And you shall blow a signal, and the camps camping to the east shall set out.
 
 **Numbers 10:6**
 
-[TODO]
+And you shall blow a second signal, and the camps camping to the south shall set out. And you shall blow a third signal, and the camps camping by the sea shall set out. And you shall blow a fourth signal, and the camps camping to the north shall set out. They shall blow a signal when they set out.
 
 **Numbers 10:7**
 
-[TODO]
+And when you gather the congregation, you shall blow, but not a signal.
 
 **Numbers 10:8**
 
-[TODO]
+And the sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations.
 
 **Numbers 10:9**
 
-[TODO]
+And if you go out to war in your land against the adversaries standing against you, then you shall signal with the trumpets, and you shall be remembered before the Lord and be saved from your enemies.
 
 **Numbers 10:10**
 
-[TODO]
+And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
 
 **Numbers 10:11**
 
-[TODO]
+And it happened in the second year, in the second month, on the twentieth day of the month, that the cloud went up from the tent of testimony.
 
 **Numbers 10:12**
 
-[TODO]
+And the sons of Israel set out by their stages in the wilderness of Sinai, and the cloud stood in the wilderness of Paran.
 
 **Numbers 10:13**
 
-[TODO]
+And they set out first by the word of the Lord by Moses' hand.
 
 **Numbers 10:14**
 
-[TODO]
+And the order of the camp of the sons of Judah set out first with their strength, and over their strength was Nahshon son of Amminadab.
 
 **Numbers 10:15**
 
-[TODO]
+And over the strength of the tribe of the sons of Issachar was Nethanel son of Zuar.
 
 **Numbers 10:16**
 
-[TODO]
+And over the strength of the tribe of the sons of Zebulun was Eliab son of Helon.
 
 **Numbers 10:17**
 
-[TODO]
+And they took down the tent, and the sons of Gershon and the sons of Merari set out carrying the tent.
 
 **Numbers 10:18**
 
-[TODO]
+And the order of the camp of Reuben set out with their strength, and over their strength was Elizur son of Shedeur.
 
 **Numbers 10:19**
 
-[TODO]
+And over the strength of the tribe of the sons of Simeon was Shelumiel son of Zurishaddai.
 
 **Numbers 10:20**
 
-[TODO]
+And over the strength of the tribe of the sons of Gad was Eliasaph son of Reuel.
 
 **Numbers 10:21**
 
-[TODO]
+And the sons of Kohath set out carrying the holy things, and they would set up the tent until these arrived.
 
 **Numbers 10:22**
 
-[TODO]
+And the order of the camp of Ephraim set out with their strength, and over their strength was Elishama son of Ammihud.
 
 **Numbers 10:23**
 
-[TODO]
+And over the strength of the tribe of the sons of Manasseh was Gamaliel son of Pedahzur.
 
 **Numbers 10:24**
 
-[TODO]
+And over the strength of the tribe of the sons of Benjamin was Abidan son of Gideoni.
 
 **Numbers 10:25**
 
-[TODO]
+And the order of the camp of the sons of Dan set out last of all the camps with their strength, and over their strength was Ahiezer son of Ammishaddai.
 
 **Numbers 10:26**
 
-[TODO]
+And over the strength of the tribe of the sons of Asher was Pagiel son of Ocran.
 
 **Numbers 10:27**
 
-[TODO]
+And over the strength of the tribe of the sons of Naphtali was Ahira son of Enan.
 
 **Numbers 10:28**
 
-[TODO]
+These are the armies of the sons of Israel, and they set out with their strength.
 
 **Numbers 10:29**
 
-[TODO]
+And Moses said to Hobab son of Reuel the Midianite, Moses' relative by marriage, We are setting out to the place of which the Lord said, This I will give to you. Come with us, and we will do you good, because the Lord has spoken good things concerning Israel.
 
 **Numbers 10:30**
 
-[TODO]
+And he said to him, I will not go, but I will go to my land and to my family.
 
 **Numbers 10:31**
 
-[TODO]
+And he said, Do not leave us, because for this reason you were with us in the wilderness, and you shall be among us an elder.
 
 **Numbers 10:32**
 
-[TODO]
+And it shall be, if you go with us, then whatever good things the Lord does for us, we will do for you.
 
 **Numbers 10:33**
 
-[TODO]
+And they set out from the mountain of the Lord a three days' journey, and the ark of the covenant of the Lord went before them a three days' journey to seek out rest for them.
 
 **Numbers 10:34**
 
-[TODO]
+And it happened, when the ark set out, that Moses said, Rise up, Lord; let your enemies be scattered, let all who hate you flee.
 
 **Numbers 10:35**
 
-[TODO]
+And in its resting he said, Return, Lord, the thousands of myriads in Israel.
 
 **Numbers 10:36**
 
-[TODO]
+And the cloud was overshadowing them by day when they set out from the camp.
 
 ### Chapter 11
 
 **Numbers 11:1**
 
-[TODO]
+And the people were grumbling evil things before the Lord, and the Lord heard and burned with anger, and fire from the Lord burned among them and devoured some part of the camp.
 
 **Numbers 11:2**
 
-[TODO]
+And the people cried out to Moses, and Moses prayed to the Lord, and the fire died down.
 
 **Numbers 11:3**
 
-[TODO]
+And the name of that place was called Burning, because fire from the Lord burned among them.
 
 **Numbers 11:4**
 
-[TODO]
+And the mixed company among them desired a desire, and sitting down, the sons of Israel also wept and said, Who will feed us meat?
 
 **Numbers 11:5**
 
-[TODO]
+We remember the fish that we ate in Egypt for nothing, and the cucumbers and the melons and the leeks and the onions and the garlic.
 
 **Numbers 11:6**
 
-[TODO]
+But now our life is dried up. There is nothing except this manna before our eyes.
 
 **Numbers 11:7**
 
-[TODO]
+And the manna was like coriander seed, and its appearance was like the appearance of crystal.
 
 **Numbers 11:8**
 
-[TODO]
+And the people would go around and gather it, and they would grind it in the mill and pound it in the mortar and boil it in the pot and make it into cakes, and its taste was like the flavor of a cake from oil.
 
 **Numbers 11:9**
 
-[TODO]
+And when the dew came down upon the camp at night, the manna came down upon it.
 
 **Numbers 11:10**
 
-[TODO]
+And Moses heard them weeping by their clans, each at his door, and the anger of the Lord burned greatly, and in Moses' sight it was evil.
 
 **Numbers 11:11**
 
-[TODO]
+And Moses said to the Lord, Why have you mistreated your servant, and why have I not found favor before you, to lay the rush of all this people upon me?
 
 **Numbers 11:12**
 
-[TODO]
+Did I conceive all this people in the womb, or did I bear them, that you say to me, Take him in your bosom, like a nurse carrying the suckling child, into the land that you swore to their fathers?
 
 **Numbers 11:13**
 
-[TODO]
+From where is there meat for me to give to all this people? For they weep over me, saying, Give us meat, that we may eat.
 
 **Numbers 11:14**
 
-[TODO]
+I am not able, I alone, to bear all this people, because this word is too heavy for me.
 
 **Numbers 11:15**
 
-[TODO]
+And if this is how you deal with me, kill me by slaughter, if I have found mercy before you, so that I may not see my affliction.
 
 **Numbers 11:16**
 
-[TODO]
+And the Lord said to Moses, Gather for me seventy men from the elders of Israel, whom you yourself know that these are elders of the people and their officers, and you shall bring them to the tent of testimony, and they shall stand there with you.
 
 **Numbers 11:17**
 
-[TODO]
+And I will come down and speak with you there, and I will take from the Spirit upon you and place it upon them, and they shall help bear with you the rush of the people, and you shall not bear them alone.
 
 **Numbers 11:18**
 
-[TODO]
+And to the people you shall say, Purify yourselves for tomorrow, and you shall eat meat, because you wept before the Lord, saying, Who will feed us meat? For it was good for us in Egypt. And the Lord will give you meat to eat, and you shall eat meat.
 
 **Numbers 11:19**
 
-[TODO]
+You shall not eat for one day, nor two, nor five days, nor ten days, nor twenty days,
 
 **Numbers 11:20**
 
-[TODO]
+but for a month of days you shall eat, until it comes out of your nostrils and becomes loathsome to you, because you disobeyed the Lord who is among you and wept before him, saying, Why did we come out from Egypt?
 
 **Numbers 11:21**
 
-[TODO]
+And Moses said, The people in whose midst I am are six hundred thousand on foot, and you said, I will give them meat, and they shall eat for a month of days.
 
 **Numbers 11:22**
 
-[TODO]
+Will sheep and cattle be slaughtered for them, and will it be enough for them? Or will every fish of the sea be gathered for them, and will it be enough for them?
 
 **Numbers 11:23**
 
-[TODO]
+And the Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not.
 
 **Numbers 11:24**
 
-[TODO]
+And Moses went out and spoke to the people the words of the Lord, and he gathered seventy men from the elders of the people and stood them around the tent.
 
 **Numbers 11:25**
 
-[TODO]
+And the Lord came down in a cloud and spoke to him, and he took from the Spirit upon him and placed it upon the seventy elders. And when the Spirit rested upon them, they prophesied, and they did not continue.
 
 **Numbers 11:26**
 
-[TODO]
+And two men remained in the camp, the name of the one Eldad and the name of the second Modad, and the Spirit rested upon them. And these were among those enrolled, and they had not come to the tent, and they prophesied in the camp.
 
 **Numbers 11:27**
 
-[TODO]
+And a young man ran and reported to Moses and said, Eldad and Modad are prophesying in the camp.
 
 **Numbers 11:28**
 
-[TODO]
+And Joshua son of Nun, the attendant of Moses, the chosen one, answered and said, My lord Moses, stop them.
 
 **Numbers 11:29**
 
-[TODO]
+And Moses said to him, Are you jealous for me? Would that all the Lord's people were prophets, whenever the Lord might give his Spirit upon them.
 
 **Numbers 11:30**
 
-[TODO]
+And Moses went away into the camp, he and the elders of Israel.
 
 **Numbers 11:31**
 
-[TODO]
+And a wind went out from the Lord and swept quail from the sea and threw them over the camp, a day's journey this way and a day's journey that way, around the camp, about two cubits above the ground.
 
 **Numbers 11:32**
 
-[TODO]
+And the people rose all that day and all that night and all the next day and gathered the quail. The one gathering the least gathered ten cors, and they spread them out for themselves all around the camp.
 
 **Numbers 11:33**
 
-[TODO]
+The meat was still in their teeth before it failed, and the Lord burned with anger against the people, and the Lord struck the people with a very great plague.
 
 **Numbers 11:34**
 
-[TODO]
+And the name of that place was called Graves of Desire, because there they buried the desirous people.
 
 **Numbers 11:35**
 
-[TODO]
+From Graves of Desire the people set out to Hazeroth, and the people came to be in Hazeroth.
 
 ### Chapter 12
 
 **Numbers 12:1**
 
-[TODO]
+And Miriam and Aaron spoke against Moses because of the Cushite woman whom Moses took, because he had taken a Cushite woman.
 
 **Numbers 12:2**
 
-[TODO]
+And they said, Has the Lord spoken only by Moses? Has he not also spoken by us? And the Lord heard it.
 
 **Numbers 12:3**
 
-[TODO]
+And the man Moses was very gentle, beyond all the people who were upon the earth.
 
 **Numbers 12:4**
 
-[TODO]
+And the Lord said at once to Moses and Miriam and Aaron, Come out, you three, to the tent of testimony. And the three went out to the tent of testimony.
 
 **Numbers 12:5**
 
-[TODO]
+And the Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out.
 
 **Numbers 12:6**
 
-[TODO]
+And he said to them, Hear my words: if there is a prophet of yours to the Lord, I will make myself known to him in a vision, and in sleep I will speak to him.
 
 **Numbers 12:7**
 
-[TODO]
+Not so with my servant Moses; in all my house he is faithful.
 
 **Numbers 12:8**
 
-[TODO]
+Mouth to mouth I will speak to him, in visible form and not by riddles, and he has seen the glory of the Lord. And why were you not afraid to speak against my servant Moses?
 
 **Numbers 12:9**
 
-[TODO]
+And the anger of the Lord's wrath was upon them, and he departed.
 
 **Numbers 12:10**
 
-[TODO]
+And the cloud departed from the tent, and behold, Miriam had become leprous like snow. And Aaron looked upon Miriam, and behold, she was leprous.
 
 **Numbers 12:11**
 
-[TODO]
+And Aaron said to Moses, I beg, my lord, do not lay sin upon us, because we were ignorant and because we sinned.
 
 **Numbers 12:12**
 
-[TODO]
+Let her not become as one equal to death, like a miscarriage coming out from the womb of its mother and devouring half her flesh.
 
 **Numbers 12:13**
 
-[TODO]
+And Moses cried out to the Lord, saying, O God, I beg you, heal her.
 
 **Numbers 12:14**
 
-[TODO]
+And the Lord said to Moses, If her father had spit a spit into her face, would she not be ashamed seven days? Let her be set apart outside the camp seven days, and after these things she shall come in.
 
 **Numbers 12:15**
 
-[TODO]
+And Miriam was set apart outside the camp seven days, and the people did not set out until Miriam was cleansed.
 
 **Numbers 12:16**
 
-[TODO]
+And after these things the people set out from Hazeroth and camped in the wilderness of Paran.
 
 ### Chapter 13
 
 **Numbers 13:1**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 13:2**
 
-[TODO]
+Send for yourself men, and let them spy out the land of the Canaanites, which I am giving to the sons of Israel for possession. One man each by tribe, by the clans of their fathers, you shall send them, every one a leader among them.
 
 **Numbers 13:3**
 
-[TODO]
+And Moses sent them from the wilderness of Paran by the Lord's word. All these men were leaders of the sons of Israel.
 
 **Numbers 13:4**
 
-[TODO]
+And these are their names: from the tribe of Reuben, Salamiēl son of Zacchour;
 
 **Numbers 13:5**
 
-[TODO]
+from the tribe of Simeon, Saphat son of Souri;
 
 **Numbers 13:6**
 
-[TODO]
+from the tribe of Judah, Caleb son of Jephonnē;
 
 **Numbers 13:7**
 
-[TODO]
+from the tribe of Issachar, Igaal son of Iōsēph;
 
 **Numbers 13:8**
 
-[TODO]
+from the tribe of Ephraim, Ausē son of Nauē;
 
 **Numbers 13:9**
 
-[TODO]
+from the tribe of Benjamin, Phalti son of Raphou;
 
 **Numbers 13:10**
 
-[TODO]
+from the tribe of Zebulun, Goudiēl son of Soudi;
 
 **Numbers 13:11**
 
-[TODO]
+from the tribe of Joseph, from the sons of Manasseh, Gaddi son of Sousi;
 
 **Numbers 13:12**
 
-[TODO]
+from the tribe of Dan, Amiēl son of Gamali;
 
 **Numbers 13:13**
 
-[TODO]
+from the tribe of Asher, Sathour son of Michaēl;
 
 **Numbers 13:14**
 
-[TODO]
+from the tribe of Naphtali, Nabi son of Iabi;
 
 **Numbers 13:15**
 
-[TODO]
+from the tribe of Gad, Goudiēl son of Macchi.
 
 **Numbers 13:16**
 
-[TODO]
+These are the names of the men whom Moses sent to spy out the land, and Moses renamed Ausē son of Nauē as Joshua.
 
 **Numbers 13:17**
 
-[TODO]
+And Moses sent them to spy out the land of Canaan and said to them, Go up by this wilderness, and you shall go up into the hill country.
 
 **Numbers 13:18**
 
-[TODO]
+And you shall look at the land, what it is, and the people dwelling upon it, whether it is stronger or weak, whether they are few or many.
 
 **Numbers 13:19**
 
-[TODO]
+And what is the land on which these dwell, whether it is good or bad, and what are the cities in which they dwell, whether walled or unwalled.
 
 **Numbers 13:20**
 
-[TODO]
+And what is the land, whether rich or poor, whether there are trees in it or not. And be courageous and take from the fruits of the land. And the days were the spring days, firstfruits of grape.
 
 **Numbers 13:21**
 
-[TODO]
+And they went up and spied out the land from the wilderness of Sin as far as Rehob, as one enters Hamath.
 
 **Numbers 13:22**
 
-[TODO]
+And they went up through the wilderness and came as far as Hebron, and there were Achiman and Sessi and Tholami, the offspring of Anak. And Hebron was built seven years before Tanis of Egypt.
 
 **Numbers 13:23**
 
-[TODO]
+And they came as far as the Ravine of Cluster and spied it out, and they cut from there a branch with one cluster of grapes on it, and they carried it on poles, and also some of the pomegranates and the figs.
 
 **Numbers 13:24**
 
-[TODO]
+That place they named Ravine of Cluster because of the cluster which the sons of Israel cut from there.
 
 **Numbers 13:25**
 
-[TODO]
+And they returned from there after spying out the land in forty days.
 
 **Numbers 13:26**
 
-[TODO]
+And going on, they came to Moses and Aaron and to the whole congregation of the sons of Israel in the wilderness of Paran at Kadesh, and they brought back word to them and to all the congregation, and they showed the fruit of the land.
 
 **Numbers 13:27**
 
-[TODO]
+And they described it to him and said, We came into the land where you sent us, a land flowing with milk and honey, and this is its fruit.
 
 **Numbers 13:28**
 
-[TODO]
+But the people dwelling upon it are bold, and the cities are fortified, walled, and very large, and we saw there the offspring of Anak.
 
 **Numbers 13:29**
 
-[TODO]
+And Amalek dwells in the land toward the south, and the Hittite and the Hivite and the Jebusite and the Amorite dwell in the hill country, and the Canaanite dwells by the sea and beside the Jordan River.
 
 **Numbers 13:30**
 
-[TODO]
+And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
 
 **Numbers 13:31**
 
-[TODO]
+And the men going up with him said, We will not go up, because we will not be able to go up against the nation, because it is stronger than we are.
 
 **Numbers 13:32**
 
-[TODO]
+And they brought an alarming report of the land that they had spied out to the sons of Israel, saying, The land through which we passed to spy it out is a land devouring those dwelling upon it, and all the people whom we saw in it were very tall men.
 
 **Numbers 13:33**
 
-[TODO]
+And there we saw the giants, and before them we were like locusts, and so we were before them.
 
 ### Chapter 14
 
 **Numbers 14:1**
 
-[TODO]
+And the whole congregation, taking it up, raised their voice, and the people wept all that night.
 
 **Numbers 14:2**
 
-[TODO]
+And all the sons of Israel grumbled against Moses and Aaron, and the whole congregation said to them, Would that we had died in the land of Egypt, or would that we had died in this wilderness.
 
 **Numbers 14:3**
 
-[TODO]
+And why is the Lord bringing us into this land to fall in war? Our wives and our little children will be for plunder. So now it is better for us to turn back into Egypt.
 
 **Numbers 14:4**
 
-[TODO]
+And they said, one to another, Let us appoint a leader and turn back into Egypt.
 
 **Numbers 14:5**
 
-[TODO]
+And Moses and Aaron fell on their face before the whole congregation of the sons of Israel.
 
 **Numbers 14:6**
 
-[TODO]
+And Joshua son of Nun and Caleb son of Jephonnē, of those who spied out the land, tore their garments.
 
 **Numbers 14:7**
 
-[TODO]
+And they said to the whole congregation of the sons of Israel, saying, The land that we spied out is very, very good.
 
 **Numbers 14:8**
 
-[TODO]
+If the Lord takes pleasure in us, he will bring us into this land and give it to us, a land flowing with milk and honey.
 
 **Numbers 14:9**
 
-[TODO]
+Only do not become apostates from the Lord, and do not fear the people of the land, because they are food for us. For their time has departed from them, but the Lord is in us. Do not fear them.
 
 **Numbers 14:10**
 
-[TODO]
+And the whole congregation said to stone them with stones, and the glory of the Lord appeared in a cloud upon the tent of testimony before all the sons of Israel.
 
 **Numbers 14:11**
 
-[TODO]
+And the Lord said to Moses, How long will this people provoke me, and how long will they not believe me in all the signs that I did among them?
 
 **Numbers 14:12**
 
-[TODO]
+I will strike them with death and destroy them, and I will make you and your father's house into a nation great and much greater than this.
 
 **Numbers 14:13**
 
-[TODO]
+And Moses said to the Lord, And Egypt will hear, because you brought up this people from among them by your strength.
 
 **Numbers 14:14**
 
-[TODO]
+And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night.
 
 **Numbers 14:15**
 
-[TODO]
+And if you destroy this people like one man, the nations who have heard your name will say,
 
 **Numbers 14:16**
 
-[TODO]
+Because the Lord was not able to bring this people into the land that he swore to them, he struck them down in the wilderness.
 
 **Numbers 14:17**
 
-[TODO]
+And now let your strength be exalted, Lord, as you spoke, saying,
 
 **Numbers 14:18**
 
-[TODO]
+The Lord is long-suffering and greatly merciful and true, removing lawlessness and injustice and sins, and in cleansing will not cleanse the guilty, repaying fathers' sins upon children to the third and fourth generation.
 
 **Numbers 14:19**
 
-[TODO]
+Forgive the sin of this people according to your great mercy, just as you have been gracious to them from Egypt until now.
 
 **Numbers 14:20**
 
-[TODO]
+And the Lord said to Moses, I am gracious to them according to your word.
 
 **Numbers 14:21**
 
-[TODO]
+But I live, and my name lives, and the glory of the Lord shall fill the whole earth.
 
 **Numbers 14:22**
 
-[TODO]
+For all the men who saw my glory and the signs that I did in Egypt and in this wilderness, and tested me this tenth time and did not obey my voice,
 
 **Numbers 14:23**
 
-[TODO]
+surely they shall not see the land that I swore to their fathers. But their children who are here with me, as many as do not know good or evil, every young inexperienced one, to these I will give the land. But all who provoked me shall not see it.
 
 **Numbers 14:24**
 
-[TODO]
+But my servant Caleb, because a different spirit came to be in him and he followed me, I will bring him into the land into which he entered, and his seed shall inherit it.
 
 **Numbers 14:25**
 
-[TODO]
+And Amalek and the Canaanite dwell in the valley. Tomorrow turn yourselves and set out into the wilderness by the way of the Red Sea.
 
 **Numbers 14:26**
 
-[TODO]
+And the Lord said to Moses and Aaron, saying,
 
 **Numbers 14:27**
 
-[TODO]
+How long shall I bear with this evil congregation, these things they are grumbling against me? The grumbling of the sons of Israel that they grumbled about you, I have heard.
 
 **Numbers 14:28**
 
-[TODO]
+Say to them, As I live, says the Lord, surely just as you have spoken in my ears, so I will do to you.
 
 **Numbers 14:29**
 
-[TODO]
+In this wilderness your carcasses shall fall, and all your number, all those counted of you from twenty years old and upward, whoever grumbled against me,
 
 **Numbers 14:30**
 
-[TODO]
+surely you shall not enter into the land upon which I stretched out my hand to settle you on it, except Caleb son of Jephonnē and Joshua son of Nun.
 
 **Numbers 14:31**
 
-[TODO]
+And your little children, whom you said would be for plunder, I will bring into the land, and they shall inherit the land from which you turned away.
 
 **Numbers 14:32**
 
-[TODO]
+But your carcasses shall fall in this wilderness.
 
 **Numbers 14:33**
 
-[TODO]
+And your sons shall be feeding in the wilderness forty years, and they shall bear your prostitution until your carcasses are consumed in the wilderness.
 
 **Numbers 14:34**
 
-[TODO]
+According to the number of the days in which you spied out the land, forty days, a day for a year, you shall bear your sins forty years, and you shall know the fury of my anger.
 
 **Numbers 14:35**
 
-[TODO]
+I, the Lord, have spoken. Surely thus I will do to this whole evil congregation gathered together against me. In this wilderness they shall be consumed, and there they shall die.
 
 **Numbers 14:36**
 
-[TODO]
+And the men whom Moses sent to spy out the land, and who came back and made the whole congregation grumble against it by bringing out evil words about the land,
 
 **Numbers 14:37**
 
-[TODO]
+those men who spoke evil against the land died in the plague before the Lord.
 
 **Numbers 14:38**
 
-[TODO]
+But Joshua son of Nun and Caleb son of Jephonnē lived on from those men who had gone to spy out the land.
 
 **Numbers 14:39**
 
-[TODO]
+And Moses spoke these words to all the sons of Israel, and the people mourned greatly.
 
 **Numbers 14:40**
 
-[TODO]
+And rising early in the morning, they went up to the top of the mountain, saying, Behold, here we are. We will go up to the place that the Lord spoke of, because we have sinned.
 
 **Numbers 14:41**
 
-[TODO]
+And Moses said, Why are you transgressing the Lord's word? It will not prosper for you.
 
 **Numbers 14:42**
 
-[TODO]
+Do not go up, for the Lord is not with you, and you will fall before your enemies.
 
 **Numbers 14:43**
 
-[TODO]
+For Amalek and the Canaanite are there before you, and you will fall by sword, because you turned away in disobedience from the Lord, and the Lord will not be among you.
 
 **Numbers 14:44**
 
-[TODO]
+And forcing themselves, they went up to the top of the mountain, but the ark of the covenant of the Lord and Moses did not move from the camp.
 
 **Numbers 14:45**
 
-[TODO]
+And Amalek came down, and the Canaanite dwelling in that mountain, and they routed them and cut them down as far as Erman, and they turned back to the camp.
 
 ### Chapter 15
 
 **Numbers 15:1**
 
-[TODO]
+And the Lord said to Moses, saying,
 
 **Numbers 15:2**
 
-[TODO]
+Speak to the sons of Israel, and you shall say to them, When you enter into the land of your dwelling, which I am giving to you,
 
 **Numbers 15:3**
 
-[TODO]
+and you make whole burnt offerings to the Lord, a whole burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or in your feasts, to make an aroma of sweet fragrance to the Lord, whether from the cattle or from the sheep,
 
 **Numbers 15:4**
 
-[TODO]
+then the one bringing his gift to the Lord shall bring a sacrifice of fine flour, a tenth of an ephah, prepared with oil, one fourth of a hin.
 
 **Numbers 15:5**
 
-[TODO]
+And wine for a libation, one fourth of a hin, you shall prepare with the whole burnt offering or with the sacrifice for the one lamb, so much as a gift, an aroma of sweet fragrance to the Lord.
 
 **Numbers 15:6**
 
-[TODO]
+And for the ram, when you make it as a whole burnt offering or as a sacrifice, you shall make a sacrifice of fine flour, two tenths, prepared with oil, one third of a hin.
 
 **Numbers 15:7**
 
-[TODO]
+And wine for a libation, one third of a hin, you shall bring as an aroma of sweet fragrance to the Lord.
 
 **Numbers 15:8**
 
-[TODO]
+And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
 
 **Numbers 15:9**
 
-[TODO]
+then with the bull he shall bring a sacrifice of fine flour, three tenths, prepared with oil, one half of a hin.
 
 **Numbers 15:10**
 
-[TODO]
+And wine for a libation, one half of a hin, a gift, an aroma of sweet fragrance to the Lord.
 
 **Numbers 15:11**
 
-[TODO]
+Thus you shall do for the one bull, or for the one ram, or for the one lamb from the sheep or from the goats.
 
 **Numbers 15:12**
 
-[TODO]
+According to the number that you make, so you shall do for the one according to their number.
 
 **Numbers 15:13**
 
-[TODO]
+Every native-born shall do thus, these things, to bring gifts as an aroma of sweet fragrance to the Lord.
 
 **Numbers 15:14**
 
-[TODO]
+And if a sojourner joins himself to you in your land, or whoever may be among you in your generations, and makes a gift as an aroma of sweet fragrance to the Lord, just as you do, so shall the congregation do to the Lord.
 
 **Numbers 15:15**
 
-[TODO]
+One law shall be for you and for the sojourners dwelling with you, an everlasting law throughout your generations. As you are, so shall the sojourner be before the Lord.
 
 **Numbers 15:16**
 
-[TODO]
+One law shall be, and one ordinance shall be for you and for the sojourner dwelling among you.
 
 **Numbers 15:17**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 15:18**
 
-[TODO]
+Speak to the sons of Israel, and you shall say to them, In your entering into the land into which I am bringing you there,
 
 **Numbers 15:19**
 
-[TODO]
+then it shall be, when you eat from the breads of the land, you shall remove a contribution set apart for the Lord.
 
 **Numbers 15:20**
 
-[TODO]
+The firstfruits of your dough, a loaf, you shall set apart as a contribution. As a contribution from the threshing floor, so you shall remove it.
 
 **Numbers 15:21**
 
-[TODO]
+From the firstfruits of your dough you shall give a contribution to the Lord throughout your generations.
 
 **Numbers 15:22**
 
-[TODO]
+But when you go astray and do not do all these commands that the Lord spoke to Moses,
 
 **Numbers 15:23**
 
-[TODO]
+just as the Lord commanded you by Moses' hand, from the day that the Lord commanded you and onward throughout your generations,
 
 **Numbers 15:24**
 
-[TODO]
+then it shall be, if it happens unintentionally from the eyes of the congregation, the whole congregation shall offer one unblemished bull from the cattle as a whole burnt offering, as an aroma of sweet fragrance to the Lord, and its sacrifice and its libation according to the ordinance, and one goat kid for sin offering.
 
 **Numbers 15:25**
 
-[TODO]
+And the priest shall make atonement for the whole congregation of the sons of Israel, and it shall be forgiven them, because it is unintentional. And they brought their gift, a gift to the Lord, for their sin before the Lord, for their unintentional acts.
 
 **Numbers 15:26**
 
-[TODO]
+And it shall be forgiven to the whole congregation of the sons of Israel and to the sojourner dwelling among you, because to all the people it was unintentional.
 
 **Numbers 15:27**
 
-[TODO]
+And if one person sins unintentionally, he shall bring one year-old goat for sin offering.
 
 **Numbers 15:28**
 
-[TODO]
+And the priest shall make atonement for the person who sinned unintentionally before the Lord, to make atonement for him.
 
 **Numbers 15:29**
 
-[TODO]
+For the native among the sons of Israel and for the sojourner dwelling among them, one law shall be for them, whoever acts unintentionally.
 
 **Numbers 15:30**
 
-[TODO]
+But the person who acts with a hand of arrogance, whether from the native-born or from the sojourners, this one provokes God. That person shall be cut off from his people.
 
 **Numbers 15:31**
 
-[TODO]
+Because he treated the Lord's word as worthless and scattered his commands, that person shall be utterly destroyed. His sin is in him.
 
 **Numbers 15:32**
 
-[TODO]
+And the sons of Israel were in the wilderness, and they found a man gathering wood on the day of the Sabbaths.
 
 **Numbers 15:33**
 
-[TODO]
+And those who found him gathering wood on the day of the Sabbaths brought him to Moses and Aaron and to the whole congregation of the sons of Israel.
 
 **Numbers 15:34**
 
-[TODO]
+And they put him under guard, for they had not judged what should be done to him.
 
 **Numbers 15:35**
 
-[TODO]
+And the Lord spoke to Moses, saying, Let the man surely be put to death. Let the whole congregation stone him with stones.
 
 **Numbers 15:36**
 
-[TODO]
+And the whole congregation brought him outside the camp and the whole congregation stoned him with stones outside the camp, just as the Lord commanded Moses.
 
 **Numbers 15:37**
 
-[TODO]
+And the Lord said to Moses, saying,
 
 **Numbers 15:38**
 
-[TODO]
+Speak to the sons of Israel, and you shall say to them that they should make for themselves tassels on the wings of their garments throughout their generations, and you shall place on the tassels of the wings a blue cord.
 
 **Numbers 15:39**
 
-[TODO]
+And it shall be for you in the tassels, and you shall look at them and remember all the Lord's commands and do them, and you shall not turn aside after your minds and after your eyes, in which you prostitute yourselves after them.
 
 **Numbers 15:40**
 
-[TODO]
+So that you may remember and do all my commands and be holy to your God.
 
 **Numbers 15:41**
 
-[TODO]
+I am the Lord your God, who brought you out of the land of Egypt to be your God. I am the Lord your God.
 
 ### Chapter 16
 
 **Numbers 16:1**
 
-[TODO]
+And Korah son of Issaar son of Kohath son of Levi, and Dathan and Abiram sons of Eliab, and Aun son of Phaleth son of Reuben, spoke,
 
 **Numbers 16:2**
 
-[TODO]
+and they rose up before Moses, along with two hundred fifty men of the sons of Israel, leaders of the congregation, summoned of the council, men of name.
 
 **Numbers 16:3**
 
-[TODO]
+They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 
 **Numbers 16:4**
 
-[TODO]
+And Moses, hearing it, fell on his face.
 
 **Numbers 16:5**
 
-[TODO]
+And he spoke to Korah and to all his congregation, saying, God has visited and known those who are his and the holy ones, and he has brought near to himself those whom he chose for himself.
 
 **Numbers 16:6**
 
-[TODO]
+Do this: take for yourselves firepans, Korah and all his congregation,
 
 **Numbers 16:7**
 
-[TODO]
+and place fire on them and place incense on them before the Lord tomorrow, and it shall be that the man whom the Lord chooses, this one is holy. Let it be enough for you, sons of Levi.
 
 **Numbers 16:8**
 
-[TODO]
+And Moses said to Korah, Hear me, sons of Levi.
 
 **Numbers 16:9**
 
-[TODO]
+Is this a small thing to you, that the God of Israel separated you from the congregation of Israel and brought you near to himself to minister the ministries of the tent of the Lord and to stand before the congregation to serve them?
 
 **Numbers 16:10**
 
-[TODO]
+And he brought you near, and all your brothers the sons of Levi with you, and now do you seek to serve as priests?
 
 **Numbers 16:11**
 
-[TODO]
+Thus you and all your congregation have gathered together against God, and Aaron, who is he that you grumble against him?
 
 **Numbers 16:12**
 
-[TODO]
+And Moses sent to call Dathan and Abiram sons of Eliab, and they said, We will not come up.
 
 **Numbers 16:13**
 
-[TODO]
+Is it a small thing that you brought us up from a land flowing with milk and honey to kill us in the wilderness, that you also rule over us as ruler?
 
 **Numbers 16:14**
 
-[TODO]
+Even if you had brought us into a land flowing with milk and honey and given us an inheritance of field and vineyards, would you gouge out the eyes of those men? We will not come up.
 
 **Numbers 16:15**
 
-[TODO]
+And Moses was greatly weighed down and said to the Lord, Do not attend to their sacrifice. I have taken not one thing desired from any of them, nor have I harmed any one of them.
 
 **Numbers 16:16**
 
-[TODO]
+And Moses said to Korah, Sanctify your congregation and be ready before the Lord, you and they and Aaron, tomorrow.
 
 **Numbers 16:17**
 
-[TODO]
+And let each take his firepan and place incense on them, and each bring his firepan before the Lord, two hundred fifty firepans, and you and Aaron, each his firepan.
 
 **Numbers 16:18**
 
-[TODO]
+And each took his firepan and put fire on them and cast incense on it, and they stood by the doors of the tent of testimony, Moses and Aaron.
 
 **Numbers 16:19**
 
-[TODO]
+And Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation.
 
 **Numbers 16:20**
 
-[TODO]
+And the Lord spoke to Moses and Aaron, saying,
 
 **Numbers 16:21**
 
-[TODO]
+Separate yourselves from the midst of this congregation, and I will consume them at once.
 
 **Numbers 16:22**
 
-[TODO]
+And they fell on their face and said, God, God of the spirits and of all flesh, if one man sinned, will the Lord's wrath be upon the whole congregation?
 
 **Numbers 16:23**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 16:24**
 
-[TODO]
+Speak to the congregation, saying, Withdraw all around from the congregation of Korah.
 
 **Numbers 16:25**
 
-[TODO]
+And Moses rose and went to Dathan and Abiram, and all the elders of Israel went with him.
 
 **Numbers 16:26**
 
-[TODO]
+And he spoke to the congregation, saying, Separate yourselves from the tents of these hard men, and do not touch anything that belongs to them, lest you perish together in all their sin.
 
 **Numbers 16:27**
 
-[TODO]
+And they stood away from the tent of Korah all around, and Dathan and Abiram came out and stood by the doors of their tents, and their wives and their children and their baggage.
 
 **Numbers 16:28**
 
-[TODO]
+And Moses said, By this you shall know that the Lord has sent me to do all these works, because they are not from myself.
 
 **Numbers 16:29**
 
-[TODO]
+If these die by the death of all people, and if their visitation is according to the visitation of all people, then the Lord has not sent me.
 
 **Numbers 16:30**
 
-[TODO]
+But if the Lord shows this by a wonder, and the earth, opening its mouth, swallows them and their houses and their tents and everything that belongs to them, and they go down alive into Hades, then you shall know that these men provoked the Lord.
 
 **Numbers 16:31**
 
-[TODO]
+And when he finished speaking all these words, the earth beneath them was torn open.
 
 **Numbers 16:32**
 
-[TODO]
+And the earth opened and swallowed them and their houses and all the people who were with Korah and their cattle.
 
 **Numbers 16:33**
 
-[TODO]
+And they and all that belonged to them went down alive into Hades, and the earth covered them, and they perished from the midst of the congregation.
 
 **Numbers 16:34**
 
-[TODO]
+And all Israel around them fled from their cry, for they said, Lest the earth swallow us too.
 
 **Numbers 16:35**
 
-[TODO]
+And fire went out from the Lord and devoured the two hundred fifty men offering the incense.
 
 ### Chapter 17
 
 **Numbers 17:1**
 
-[TODO]
+And the Lord said to Moses,
 
 **Numbers 17:2**
 
-[TODO]
+And to Eleazar son of Aaron the priest: take up the bronze firepans from the midst of the burned ones, and scatter this strange fire there, because they were sanctified.
 
 **Numbers 17:3**
 
-[TODO]
+The firepans of these sinners against their own lives: make them hammered plates as a covering for the altar, because they were brought before the Lord and were sanctified, and they became a sign to the sons of Israel.
 
 **Numbers 17:4**
 
-[TODO]
+And Eleazar son of Aaron the priest took the bronze firepans that the burned ones had brought, and they added them as a covering for the altar,
 
 **Numbers 17:5**
 
-[TODO]
+a memorial to the sons of Israel, so that no stranger who is not from the seed of Aaron may come near to place incense before the Lord, and he will not be like Korah and his gathering together, just as the Lord spoke by Moses' hand.
 
 **Numbers 17:6**
 
-[TODO]
+And the next day the sons of Israel grumbled against Moses and Aaron, saying, You have killed the people of the Lord.
 
 **Numbers 17:7**
 
-[TODO]
+And it happened, when the congregation rushed together against Moses and Aaron, they rushed toward the tent of testimony, and behold, the cloud covered it, and the glory of the Lord appeared.
 
 **Numbers 17:8**
 
-[TODO]
+And Moses and Aaron went in before the tent of testimony.
 
 **Numbers 17:9**
 
-[TODO]
+And the Lord spoke to Moses and Aaron, saying,
 
 **Numbers 17:10**
 
-[TODO]
+Move away from the midst of this congregation, and I will consume them at once. And they fell on their face.
 
 **Numbers 17:11**
 
-[TODO]
+And Moses said to Aaron, Take the firepan and place upon it fire from the altar and cast incense upon it, and carry it quickly into the camp and make atonement for them, for wrath has gone out from the Lord; the breaking of the people has begun.
 
 **Numbers 17:12**
 
-[TODO]
+And Aaron took it, just as Moses spoke to him, and ran into the congregation, and already the breaking had begun among the people. And he cast the incense and made atonement for the people.
 
 **Numbers 17:13**
 
-[TODO]
+And he stood between the dead and the living, and the breaking ceased.
 
 **Numbers 17:14**
 
-[TODO]
+And those dead in the breaking were fourteen thousand seven hundred, besides those dead because of Korah.
 
 **Numbers 17:15**
 
-[TODO]
+And Aaron returned to Moses at the door of the tent of testimony, and the breaking ceased.
 
 **Numbers 17:16**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 17:17**
 
-[TODO]
+Speak to the sons of Israel and take from them rod by rod according to the houses of their fathers, from all their chiefs according to the houses of their fathers, twelve rods, and write each one's name on his rod.
 
 **Numbers 17:18**
 
-[TODO]
+And Aaron's name you shall write on the rod of Levi, for there shall be one rod for each tribe of the houses of their fathers.
 
 **Numbers 17:19**
 
-[TODO]
+And you shall place them in the tent of testimony opposite the testimonies, where I will make myself known to you there.
 
 **Numbers 17:20**
 
-[TODO]
+And it shall be that the man whom I choose, his rod shall sprout, and I will remove from myself the grumbling of the sons of Israel, which they grumble against you.
 
 **Numbers 17:21**
 
-[TODO]
+And Moses spoke to the sons of Israel, and all their chiefs gave him a rod, one rod to each chief according to the houses of their fathers, twelve rods, and Aaron's rod was among their rods.
 
 **Numbers 17:22**
 
-[TODO]
+And Moses placed the rods before the Lord in the tent of testimony.
 
 **Numbers 17:23**
 
-[TODO]
+And it happened on the next day, Moses and Aaron entered into the tent of testimony, and behold, the rod of Aaron for the house of Levi had sprouted and brought forth a shoot and bloomed blossoms and sprouted nuts.
 
 **Numbers 17:24**
 
-[TODO]
+And Moses brought out all the rods from before the Lord to all the sons of Israel, and they saw and each took his rod.
 
 **Numbers 17:25**
 
-[TODO]
+And the Lord said to Moses, Put Aaron's rod before the testimonies for keeping, as a sign to the sons of disobedience, and let their grumbling cease from me, and they shall not die.
 
 **Numbers 17:26**
 
-[TODO]
+And Moses and Aaron did just as the Lord commanded Moses; so they did.
 
 **Numbers 17:27**
 
-[TODO]
+And the sons of Israel said to Moses, saying, Behold, we are consumed, we are lost, we are utterly destroyed.
 
 **Numbers 17:28**
 
-[TODO]
+Everyone who touches the tent of the Lord dies. Shall we die to the end?
 
 ### Chapter 18
 
 **Numbers 18:1**
 
-[TODO]
+And the Lord said to Aaron, saying: you and your sons and your fathers' house with you shall bear the sins of the holy things, and you and your sons shall bear the sins of your priesthood.
 
 **Numbers 18:2**
 
-[TODO]
+And your brothers, the tribe of Levi, the clan of your father, bring near to yourself, and let them be joined to you and minister to you, and you and your sons with you shall be before the tent of testimony.
 
 **Numbers 18:3**
 
-[TODO]
+And they shall keep your charges and the charges of the tent, only they shall not approach the holy vessels and the altar, and they shall not die, both they and you.
 
 **Numbers 18:4**
 
-[TODO]
+And they shall be joined to you and keep the charges of the tent of testimony according to all the services of the tent, and the stranger shall not come near to you.
 
 **Numbers 18:5**
 
-[TODO]
+And you shall keep the charges of the holy things and the charges of the altar, and there shall not be wrath among the sons of Israel.
 
 **Numbers 18:6**
 
-[TODO]
+And I have taken your brothers, the Levites, from the midst of the sons of Israel, a gift given to the Lord, to minister the services of the tent of testimony.
 
 **Numbers 18:7**
 
-[TODO]
+And you and your sons with you shall keep your priesthood according to every matter of the altar and what is within the veil, and you shall minister the ministries. I give your priesthood as a gift, and the stranger coming near shall die.
 
 **Numbers 18:8**
 
-[TODO]
+And the Lord spoke to Aaron: and I, behold, have given you the keeping of the firstfruits from all things sanctified to me from the sons of Israel. I have given them to you as an honor and to your sons after you, an everlasting statute.
 
 **Numbers 18:9**
 
-[TODO]
+And this shall be yours from the holy things of the gifts: from all their gifts and from all their sacrifices and from all their trespasses and from all their sins, whatever they give back to me from all the holy things shall be yours and your sons'.
 
 **Numbers 18:10**
 
-[TODO]
+In the holy of holies you shall eat them. Every male shall eat them, you and your sons. They shall be holy to you.
 
 **Numbers 18:11**
 
-[TODO]
+And this shall be yours: the firstfruits of their gifts from all the offerings of the sons of Israel. I have given them to you and to your sons and your daughters with you, an everlasting statute. Everyone clean in your house shall eat them.
 
 **Numbers 18:12**
 
-[TODO]
+All the firstfruits of oil and all the firstfruits of wine and grain, their firstfruits, whatever they give to the Lord, I have given them to you.
 
 **Numbers 18:13**
 
-[TODO]
+All the first produce in their land, whatever they bring to the Lord, shall be yours. Everyone clean in your house shall eat them.
 
 **Numbers 18:14**
 
-[TODO]
+Every devoted thing among the sons of Israel shall be yours.
 
 **Numbers 18:15**
 
-[TODO]
+And every opener of the womb from all flesh, which they bring to the Lord, from human to beast, shall be yours. But in redeeming, the firstborn of humans shall be redeemed, and the firstborn of unclean beasts you shall redeem.
 
 **Numbers 18:16**
 
-[TODO]
+And its redemption from one month old shall be, by valuation, five shekels according to the holy shekel; twenty obols they are.
 
 **Numbers 18:17**
 
-[TODO]
+Only the firstborn of cattle and the firstborn of sheep and the firstborn of goats you shall not redeem; they are holy. And their blood you shall pour out toward the altar, and the fat you shall offer as a gift, as an aroma of sweet fragrance to the Lord.
 
 **Numbers 18:18**
 
-[TODO]
+And the meat shall be yours, just as the breast of the offering set before the Lord and the right arm shall be yours.
 
 **Numbers 18:19**
 
-[TODO]
+All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 
 **Numbers 18:20**
 
-[TODO]
+And the Lord spoke to Aaron: In their land you shall not inherit, and no part shall be yours among them, because I am your part and your inheritance in the midst of the sons of Israel.
 
 **Numbers 18:21**
 
-[TODO]
+And to the sons of Levi, behold, I have given every tithe in Israel as an inheritance in exchange for their services, whatever services they minister in the tent of testimony.
 
 **Numbers 18:22**
 
-[TODO]
+And the sons of Israel shall no longer come near to the tent of testimony, to bear a deadly sin.
 
 **Numbers 18:23**
 
-[TODO]
+And the Levite himself shall minister the ministry of the tent of testimony, and they shall bear their sins, an everlasting statute throughout their generations. And in the midst of the sons of Israel they shall not inherit an inheritance.
 
 **Numbers 18:24**
 
-[TODO]
+Because the tithes of the sons of Israel, whatever they set apart to the Lord as a contribution, I have given to the Levites as an inheritance. Therefore I said to them, In the midst of the sons of Israel they shall not inherit an inheritance.
 
 **Numbers 18:25**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 18:26**
 
-[TODO]
+And you shall speak to the Levites and say to them, If you receive from the sons of Israel the tithe that I have given you from them as an inheritance, then you shall remove from it a contribution to the Lord, a tithe from the tithe.
 
 **Numbers 18:27**
 
-[TODO]
+And your contributions shall be reckoned to you as grain from the threshing floor and as contribution from the winepress.
 
 **Numbers 18:28**
 
-[TODO]
+Thus you also shall remove the Lord's contribution from all your tithes, whatever you receive from the sons of Israel, and from them you shall give the Lord's contribution to Aaron the priest.
 
 **Numbers 18:29**
 
-[TODO]
+From all your gifts you shall remove the Lord's contribution, from all the firstfruits, the holy part from it.
 
 **Numbers 18:30**
 
-[TODO]
+And you shall say to them, When you remove the first part from it, it shall be reckoned to the Levites as produce from the threshing floor and as produce from the winepress.
 
 **Numbers 18:31**
 
-[TODO]
+And you shall eat it in every place, you and your households, because this is wages for you in exchange for your services in the tent of testimony.
 
 **Numbers 18:32**
 
-[TODO]
+And you shall not bear sin because of it when you remove the first part from it, and you shall not profane the holy things of the sons of Israel, so that you do not die.
 
 ### Chapter 19
 
 **Numbers 19:1**
 
-[TODO]
+And the Lord spoke to Moses and Aaron, saying,
 
 **Numbers 19:2**
 
-[TODO]
+This is the ordinance of the law, what the Lord commanded, saying: Speak to the sons of Israel, and let them take to you a red heifer, unblemished, in which there is no defect and on which a yoke has not come.
 
 **Numbers 19:3**
 
-[TODO]
+And you shall give it to Eleazar the priest, and they shall bring it outside the camp to a clean place, and they shall slaughter it before him.
 
 **Numbers 19:4**
 
-[TODO]
+And Eleazar shall take from its blood and sprinkle from its blood seven times toward the face of the tent of testimony.
 
 **Numbers 19:5**
 
-[TODO]
+And they shall burn it before him, and its skin and its flesh and its blood with its dung shall be burned.
 
 **Numbers 19:6**
 
-[TODO]
+And the priest shall take cedar wood and hyssop and scarlet and cast them into the midst of the burning of the heifer.
 
 **Numbers 19:7**
 
-[TODO]
+And the priest shall wash his garments and bathe his body in water, and after these things he shall enter into the camp, and the priest shall be unclean until evening.
 
 **Numbers 19:8**
 
-[TODO]
+And the one burning it shall wash his garments and bathe his body, and he shall be unclean until evening.
 
 **Numbers 19:9**
 
-[TODO]
+And a clean man shall gather the ashes of the heifer and place them outside the camp in a clean place, and it shall be for the congregation of the sons of Israel for keeping, as water of sprinkling; it is purification.
 
 **Numbers 19:10**
 
-[TODO]
+And the one gathering the ashes of the heifer shall wash his garments and be unclean until evening, and it shall be for the sons of Israel and for the sojourners dwelling among them an everlasting statute.
 
 **Numbers 19:11**
 
-[TODO]
+The one touching the dead of any human person shall be unclean seven days.
 
 **Numbers 19:12**
 
-[TODO]
+This one shall be purified on the third day and on the seventh day and shall be clean. But if he is not purified on the third day and on the seventh day, he shall not be clean.
 
 **Numbers 19:13**
 
-[TODO]
+Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
 
 **Numbers 19:14**
 
-[TODO]
+And this is the law: if a person dies in a house, everyone entering into the house and everything in the house shall be unclean seven days.
 
 **Numbers 19:15**
 
-[TODO]
+And every open vessel on which no binding is tied shall be unclean.
 
 **Numbers 19:16**
 
-[TODO]
+And everyone who touches on the face of the field one slain or a dead body or a human bone or a grave shall be unclean seven days.
 
 **Numbers 19:17**
 
-[TODO]
+And for the unclean they shall take from the ashes of the burnt purification and pour living water upon it into a vessel.
 
 **Numbers 19:18**
 
-[TODO]
+And a clean man shall take hyssop and dip it into the water and sprinkle it upon the house and upon the vessels and upon the persons who are there, and upon the one who touched the bone, the human body, or the slain one, or the dead one, or the grave.
 
 **Numbers 19:19**
 
-[TODO]
+And the clean person shall sprinkle upon the unclean on the third day and on the seventh day, and he shall be purified on the seventh day and wash his garments and bathe in water, and he shall be unclean until evening.
 
 **Numbers 19:20**
 
-[TODO]
+And the person who becomes unclean and is not purified shall be cut off from the midst of the congregation, because he has defiled the holy things of the Lord, because water of sprinkling was not sprinkled upon him. He is unclean.
 
 **Numbers 19:21**
 
-[TODO]
+And it shall be for you an everlasting statute, and the one sprinkling water of sprinkling shall wash his garments, and the one touching the water of sprinkling shall be unclean until evening.
 
 **Numbers 19:22**
 
-[TODO]
+And everything that the unclean person touches shall be unclean, and the person touching it shall be unclean until evening.
 
 ### Chapter 20
 
 **Numbers 20:1**
 
-[TODO]
+And the sons of Israel, the whole congregation, came into the wilderness of Sin in the first month, and the people stayed in Kadesh, and Miriam died there and was buried there.
 
 **Numbers 20:2**
 
-[TODO]
+And there was no water for the congregation, and they gathered against Moses and Aaron.
 
 **Numbers 20:3**
 
-[TODO]
+And the people were reviling Moses, saying, If only we had died in the destruction of our brothers before the Lord.
 
 **Numbers 20:4**
 
-[TODO]
+And why did you bring up the congregation of the Lord into this wilderness, to kill us and our cattle?
 
 **Numbers 20:5**
 
-[TODO]
+And why is this, that you brought us up from Egypt, to come into this evil place? It is no place for sowing, or figs, or vines, or pomegranates, and there is no water to drink.
 
 **Numbers 20:6**
 
-[TODO]
+And Moses and Aaron came from before the congregation to the door of the tent of testimony and fell on their face, and the glory of the Lord appeared to them.
 
 **Numbers 20:7**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 20:8**
 
-[TODO]
+Take the rod and assemble the congregation, you and Aaron your brother, and speak to the rock before them, and it will give its waters, and you shall bring out water for them from the rock, and you shall give drink to the congregation and to their cattle.
 
 **Numbers 20:9**
 
-[TODO]
+And Moses took the rod from before the Lord, just as the Lord commanded.
 
 **Numbers 20:10**
 
-[TODO]
+And Moses and Aaron assembled the congregation before the rock, and he said to them, Hear me, you disobedient ones. Shall we bring out water for you from this rock?
 
 **Numbers 20:11**
 
-[TODO]
+And Moses lifted his hand and struck the rock with the rod twice, and much water came out, and the congregation and their cattle drank.
 
 **Numbers 20:12**
 
-[TODO]
+And the Lord said to Moses and Aaron, Because you did not trust me, to sanctify me before the sons of Israel, therefore you shall not bring this congregation into the land that I have given them.
 
 **Numbers 20:13**
 
-[TODO]
+This is the water of reviling, because the sons of Israel reviled before the Lord, and he was sanctified among them.
 
 **Numbers 20:14**
 
-[TODO]
+And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
 
 **Numbers 20:15**
 
-[TODO]
+And our fathers went down into Egypt, and we lived in Egypt many days, and the Egyptians mistreated us and our fathers.
 
 **Numbers 20:16**
 
-[TODO]
+And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
 
 **Numbers 20:17**
 
-[TODO]
+We shall pass through your land. We shall not pass through fields or through vineyards, nor shall we drink water from your cistern. We shall go by the king's road. We shall not turn aside right or left until we pass your borders.
 
 **Numbers 20:18**
 
-[TODO]
+And Edom said to him, You shall not pass through me. Otherwise I will come out to meet you in war.
 
 **Numbers 20:19**
 
-[TODO]
+And the sons of Israel say to him, We shall pass along the mountain. And if I and my cattle drink your water, I will give payment to you. But the matter is nothing. We shall pass along the mountain.
 
 **Numbers 20:20**
 
-[TODO]
+But he said, You shall not pass through me. And Edom came out to meet him with a heavy crowd and with a strong hand.
 
 **Numbers 20:21**
 
-[TODO]
+And Edom was not willing to let Israel pass through his borders, and Israel turned aside from him.
 
 **Numbers 20:22**
 
-[TODO]
+And they set out from Kadesh, and the sons of Israel, the whole congregation, came to Mount Hor.
 
 **Numbers 20:23**
 
-[TODO]
+And the Lord said to Moses and Aaron at Mount Hor on the borders of the land of Edom, saying,
 
 **Numbers 20:24**
 
-[TODO]
+Let Aaron be added to his people, because you shall surely not enter into the land that I have given to the sons of Israel, because you provoked me at the water of reviling.
 
 **Numbers 20:25**
 
-[TODO]
+Take Aaron and Eleazar his son, and bring them up to Mount Hor before all the congregation.
 
 **Numbers 20:26**
 
-[TODO]
+And strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there.
 
 **Numbers 20:27**
 
-[TODO]
+And Moses did just as the Lord commanded, and he brought him up to Mount Hor before all the congregation.
 
 **Numbers 20:28**
 
-[TODO]
+And Moses stripped Aaron of his garments and clothed Eleazar his son with them, and Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 
 **Numbers 20:29**
 
-[TODO]
+And all the congregation saw that Aaron had been released, and all the house of Israel mourned Aaron thirty days.
 
 ### Chapter 21
 
 **Numbers 21:1**
 
-[TODO]
+And the Canaanite king of Arad, who dwelt by the wilderness, heard, for Israel was coming by the way of Atharim, and he fought against Israel and took captives from them.
 
 **Numbers 21:2**
 
-[TODO]
+And Israel vowed a vow to the Lord and said, If you hand this people over into my hand, I will devote them and their cities to destruction.
 
 **Numbers 21:3**
 
-[TODO]
+And the Lord heard the voice of Israel and handed over the Canaanite into his hand, and he devoted him and his cities to destruction, and they called the name of that place Devoted Destruction.
 
 **Numbers 21:4**
 
-[TODO]
+And setting out from Mount Hor by the way of the Red Sea, they went around the land of Edom, and the people grew short-souled on the way.
 
 **Numbers 21:5**
 
-[TODO]
+And the people were speaking against God and against Moses, saying, Why did you bring us up from Egypt, to kill us in the wilderness? For there is no bread and no water, and our soul has loathed this empty bread.
 
 **Numbers 21:6**
 
-[TODO]
+And the Lord sent among the people deadly snakes, and they were biting the people, and many people from the sons of Israel died.
 
 **Numbers 21:7**
 
-[TODO]
+And the people came to Moses and were saying, We sinned, because we spoke against the Lord and against you. Pray then to the Lord, and let him take the snake away from us. And Moses prayed to the Lord concerning the people.
 
 **Numbers 21:8**
 
-[TODO]
+And the Lord said to Moses, Make yourself a snake and set it on a sign, and it shall be that if a snake bites a person, everyone bitten, looking at it, shall live.
 
 **Numbers 21:9**
 
-[TODO]
+And Moses made a bronze snake and set it on a sign, and it came to pass, when a snake bit a person and he looked on the bronze snake, he lived.
 
 **Numbers 21:10**
 
-[TODO]
+And the sons of Israel set out and camped in Oboth.
 
 **Numbers 21:11**
 
-[TODO]
+And setting out from Oboth, they camped in Achelgai beyond, in the wilderness that is opposite Moab, toward the sunrise.
 
 **Numbers 21:12**
 
-[TODO]
+From there they set out and camped in the ravine of Zaret.
 
 **Numbers 21:13**
 
-[TODO]
+And from there, setting out, they camped beyond Arnon, in the wilderness that extends from the borders of the Amorites. For Arnon is the border of Moab, between Moab and the Amorite.
 
 **Numbers 21:14**
 
-[TODO]
+Therefore it is said in the Book, The War of the Lord: Zoob he set aflame, and the torrents of Arnon.
 
 **Numbers 21:15**
 
-[TODO]
+And he established the torrents to make Ar a dwelling, and it lies against the borders of Moab.
 
 **Numbers 21:16**
 
-[TODO]
+And from there to the well. This is the well about which the Lord said to Moses, Gather the people, and I will give them water to drink.
 
 **Numbers 21:17**
 
-[TODO]
+Then Israel sang this song over the well: Sing to it.
 
 **Numbers 21:18**
 
-[TODO]
+Well that rulers dug, kings of nations quarried out in their kingdom, when they ruled. And from the well to Manthanain,
 
 **Numbers 21:19**
 
-[TODO]
+and from Manthanain to Naaliel, and from Naaliel to Bamoth,
 
 **Numbers 21:20**
 
-[TODO]
+and from Bamoth to the valley that is in the field of Moab, from the top of the Hewn Place, which looks toward the face of the wilderness.
 
 **Numbers 21:21**
 
-[TODO]
+And Moses sent envoys to Sihon king of the Amorites with words of peace, saying,
 
 **Numbers 21:22**
 
-[TODO]
+We shall pass through your land. We shall go by the road. We shall not turn aside into field or vineyard. We shall not drink water from your well. We shall go by the king's road until we pass your borders.
 
 **Numbers 21:23**
 
-[TODO]
+And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel.
 
 **Numbers 21:24**
 
-[TODO]
+And Israel struck him with slaughter by sword and took possession of his land from Arnon to Jabbok, as far as the sons of Ammon, for Jazer is the border of the sons of Ammon.
 
 **Numbers 21:25**
 
-[TODO]
+And Israel took all these cities, and Israel settled in all the cities of the Amorites, in Heshbon and in all the villages depending on it.
 
 **Numbers 21:26**
 
-[TODO]
+For Heshbon was the city of Sihon king of the Amorites, and he had fought earlier against the king of Moab and taken all his land from Aroer to Arnon.
 
 **Numbers 21:27**
 
-[TODO]
+Therefore the riddle-speakers say, Come to Heshbon, so that the city of Sihon may be built and prepared.
 
 **Numbers 21:28**
 
-[TODO]
+For fire came out from Heshbon, a flame from the city of Sihon, and it devoured as far as Moab and swallowed the pillars of Arnon.
 
 **Numbers 21:29**
 
-[TODO]
+Woe to you, Moab. You are destroyed, people of Chemosh. His sons were given over to escape, and his daughters as captives to Sihon king of the Amorites.
 
 **Numbers 21:30**
 
-[TODO]
+And their seed shall perish from Heshbon to Dibon, and the women still kindled fire against Moab.
 
 **Numbers 21:31**
 
-[TODO]
+And Israel settled in all the cities of the Amorites.
 
 **Numbers 21:32**
 
-[TODO]
+And Moses sent to spy out Jazer, and they took it and its villages and cast out the Amorite dwelling there.
 
 **Numbers 21:33**
 
-[TODO]
+And turning, they went up by the road to Bashan, and Og king of Bashan came out to meet them, he and all his people, for battle at Edrain.
 
 **Numbers 21:34**
 
-[TODO]
+And the Lord said to Moses, Do not fear him, because into your hands I have handed him over, and all his people and all his land, and you shall do to him just as you did to Sihon king of the Amorites, who dwelt in Heshbon.
 
 **Numbers 21:35**
 
-[TODO]
+And he struck him and his sons and all his people, until none of his people remained alive, and they inherited their land.
 
 ### Chapter 22
 
 **Numbers 22:1**
 
-[TODO]
+And the sons of Israel set out and camped west of Moab by the Jordan at Jericho.
 
 **Numbers 22:2**
 
-[TODO]
+And Balak son of Zippor saw all that Israel had done to the Amorite.
 
 **Numbers 22:3**
 
-[TODO]
+And Moab feared the people greatly, because they were many, and Moab was sickened because of the presence of the sons of Israel.
 
 **Numbers 22:4**
 
-[TODO]
+And Moab said to the elders of Midian, Now this congregation will lick up all around us, as the calf licks up the green growth of the plain. And Balak son of Zippor was king of Moab at that time.
 
 **Numbers 22:5**
 
-[TODO]
+And he sent envoys to Balaam son of Beor at Pathoura, which is on the river, in the land of the sons of his people, to call him, saying, Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me.
 
 **Numbers 22:6**
 
-[TODO]
+And now come, curse this people for me, because they are stronger than we. If perhaps we can strike them and drive them from the land, for I know that whomever you bless are blessed, and whomever you curse are cursed.
 
 **Numbers 22:7**
 
-[TODO]
+And the elders of Moab and the elders of Midian went, and the divinations were in their hands. And they came to Balaam and spoke to him the words of Balak.
 
 **Numbers 22:8**
 
-[TODO]
+And he said to them, Lodge here tonight, and I will answer you with the matters that the Lord may speak to me. And the princes of Moab stayed with Balaam.
 
 **Numbers 22:9**
 
-[TODO]
+And God came to Balaam and said to him, Who are these men with you?
 
 **Numbers 22:10**
 
-[TODO]
+And Balaam said to God, Balak son of Zippor, king of Moab, sent them to me, saying,
 
 **Numbers 22:11**
 
-[TODO]
+Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me. And now come, curse it for me. If perhaps I can strike it and drive it from the land.
 
 **Numbers 22:12**
 
-[TODO]
+And God said to Balaam, You shall not go with them, nor shall you curse the people, for it is blessed.
 
 **Numbers 22:13**
 
-[TODO]
+And Balaam rose in the morning and said to Balak's princes, Run back to your lord. God does not allow me to go with you.
 
 **Numbers 22:14**
 
-[TODO]
+And the princes of Moab rose and came to Balak and said, Balaam does not want to come with us.
 
 **Numbers 22:15**
 
-[TODO]
+And Balak again sent more princes and more honored than these.
 
 **Numbers 22:16**
 
-[TODO]
+And they came to Balaam and say to him, Thus says Balak son of Zippor: I ask you, do not delay to come to me.
 
 **Numbers 22:17**
 
-[TODO]
+For I will honor you greatly, and whatever you say I will do for you. And come, curse this people for me.
 
 **Numbers 22:18**
 
-[TODO]
+And Balaam answered and said to the princes of Balak, If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord my God, to do it small or great in my mind.
 
 **Numbers 22:19**
 
-[TODO]
+And now remain here, you too, this night, and I will know what more the Lord will speak to me.
 
 **Numbers 22:20**
 
-[TODO]
+And God came to Balaam by night and said to him, If these men have come to call you, rise, follow them. But the word that I shall speak to you, this you shall do.
 
 **Numbers 22:21**
 
-[TODO]
+And Balaam rose in the morning, saddled his donkey, and went with the princes of Moab.
 
 **Numbers 22:22**
 
-[TODO]
+And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 
 **Numbers 22:23**
 
-[TODO]
+And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 
 **Numbers 22:24**
 
-[TODO]
+And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
 
 **Numbers 22:25**
 
-[TODO]
+And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
 
 **Numbers 22:26**
 
-[TODO]
+And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
 
 **Numbers 22:27**
 
-[TODO]
+And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
 
 **Numbers 22:28**
 
-[TODO]
+And God opened the mouth of the donkey, and she says to Balaam, What have I done to you that you have beaten me this third time?
 
 **Numbers 22:29**
 
-[TODO]
+And Balaam said to the donkey, Because you have mocked me. If I had a sword in my hand, already I would have pierced you.
 
 **Numbers 22:30**
 
-[TODO]
+And the donkey says to Balaam, Am I not your donkey, on which you have ridden from your youth until this day? Have I ever neglected you and acted thus toward you? And he said, No.
 
 **Numbers 22:31**
 
-[TODO]
+And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
 
 **Numbers 22:32**
 
-[TODO]
+And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
 
 **Numbers 22:33**
 
-[TODO]
+And the donkey saw me and turned aside from me this third time. And if she had not turned aside, then now I would have killed you, and I would have preserved her alive.
 
 **Numbers 22:34**
 
-[TODO]
+And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 
 **Numbers 22:35**
 
-[TODO]
+And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
 
 **Numbers 22:36**
 
-[TODO]
+And Balak, hearing that Balaam had come, went out to meet him at the City of Moab, which is on the borders of Arnon, which is at the edge of the border.
 
 **Numbers 22:37**
 
-[TODO]
+And Balak said to Balaam, Did I not send to call you? Why did you not come to me? Am I really not able to honor you?
 
 **Numbers 22:38**
 
-[TODO]
+And Balaam said to Balak, Behold, I have come to you now. Shall I be able to speak anything? The word that God puts in my mouth, this I shall speak.
 
 **Numbers 22:39**
 
-[TODO]
+And Balaam went with Balak, and they came to the cities of the settlements.
 
 **Numbers 22:40**
 
-[TODO]
+And Balak sacrificed sheep and calves and sent portions to Balaam and to the princes with him.
 
 **Numbers 22:41**
 
-[TODO]
+And it happened in the morning, and Balak took Balaam and brought him up to the pillar of Baal, and from there he showed him some part of the people.
 
 ### Chapter 23
 
 **Numbers 23:1**
 
-[TODO]
+And Balaam said to Balak, Build here seven altars for me, and prepare here seven calves and seven rams for me.
 
 **Numbers 23:2**
 
-[TODO]
+And Balak did as Balaam said to him, and he offered up a calf and a ram on the altar.
 
 **Numbers 23:3**
 
-[TODO]
+And Balaam said to Balak, Stand by your sacrifice, and I will go, if perhaps God will appear to me in a meeting, and whatever word he shows me I will report to you. And Balak stood by his sacrifice, and Balaam went to inquire of God and went straight.
 
 **Numbers 23:4**
 
-[TODO]
+And God appeared to Balaam, and he said to him, I have prepared the seven altars, and I offered up a calf and a ram on the altar.
 
 **Numbers 23:5**
 
-[TODO]
+And God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus.
 
 **Numbers 23:6**
 
-[TODO]
+And he returned to him, and behold, he had stood by his whole burnt offerings, and all the princes of Moab with him.
 
 **Numbers 23:7**
 
-[TODO]
+And the Spirit of God came to be on him, and taking up his oracle, he said: From Mesopotamia Balak king of Moab has summoned me, from mountains of the east, saying, Come, curse Jacob for me, and come, curse Israel for me.
 
 **Numbers 23:8**
 
-[TODO]
+What shall I curse, whom the Lord does not curse? Or what shall I denounce, whom God does not denounce?
 
 **Numbers 23:9**
 
-[TODO]
+For from the top of mountains I shall see him, and from the hills I shall perceive him. Behold, a people shall dwell alone, and among nations it shall not be reckoned.
 
 **Numbers 23:10**
 
-[TODO]
+Who has searched out the seed of Jacob, and who will number the peoples of Israel? Let my soul die among the souls of the righteous, and let my seed become like the seed of these.
 
 **Numbers 23:11**
 
-[TODO]
+And Balak said to Balaam, What have you done to me? I called you to curse my enemies, and behold, you have blessed with blessing.
 
 **Numbers 23:12**
 
-[TODO]
+And Balaam said to Balak, Shall I not carefully speak whatever God puts into my mouth?
 
 **Numbers 23:13**
 
-[TODO]
+And Balak said to him, Come still with me to another place from which you will not see him from there, but you will see only some part of him, and all of him you shall certainly not see. And curse him for me from there.
 
 **Numbers 23:14**
 
-[TODO]
+And he took him to the field of Lookout, to the top of the Hewn Place, and he built there seven altars and offered up a calf and a ram on the altar.
 
 **Numbers 23:15**
 
-[TODO]
+And Balaam said to Balak, Stand by your sacrifice, but I will go to inquire of God.
 
 **Numbers 23:16**
 
-[TODO]
+And God met Balaam and put a word in his mouth and said, Turn back to Balak, and these things you shall speak.
 
 **Numbers 23:17**
 
-[TODO]
+And he returned to him, and behold, he had stood by his whole burnt offering, and all the princes of Moab with him. And Balak said to him, What has the Lord spoken?
 
 **Numbers 23:18**
 
-[TODO]
+And taking up his oracle, he said: Rise, Balak, and hear. Give ear, witness, son of Zippor.
 
 **Numbers 23:19**
 
-[TODO]
+God is not like a man, to waver, nor like a son of man, to be threatened. He himself said, shall he not do it? He will speak, and will he not remain in it?
 
 **Numbers 23:20**
 
-[TODO]
+Behold, I have received a charge to bless. I will bless, and I shall not turn back.
 
 **Numbers 23:21**
 
-[TODO]
+There shall not be hardship in Jacob, nor shall trouble be seen in Israel. The Lord his God is with him. The glories of rulers are in him.
 
 **Numbers 23:22**
 
-[TODO]
+God, who brought them out of Egypt, is like the glory of a one-horned beast to them.
 
 **Numbers 23:23**
 
-[TODO]
+For there is no omen in Jacob, nor divination in Israel. In season it shall be said to Jacob and to Israel what God will accomplish.
 
 **Numbers 23:24**
 
-[TODO]
+Behold, a people shall rise like a cub and exalt itself like a lion. It shall not lie down until it eats prey and drinks the blood of the wounded.
 
 **Numbers 23:25**
 
-[TODO]
+And Balak said to Balaam, Neither curse him with curses for me, nor blessing bless him for me.
 
 **Numbers 23:26**
 
-[TODO]
+And Balaam answered and said to Balak, Did I not speak to you, saying, The word that God speaks, this I will do?
 
 **Numbers 23:27**
 
-[TODO]
+And Balak said to Balaam, Come, let me take you to another place. If it pleases God, curse him for me from there.
 
 **Numbers 23:28**
 
-[TODO]
+And Balak took Balaam to the top of Peor, which stretches toward the wilderness.
 
 **Numbers 23:29**
 
-[TODO]
+And Balaam said to Balak, Build for me here seven altars, and prepare for me here seven calves and seven rams.
 
 **Numbers 23:30**
 
-[TODO]
+And Balak did just as Balaam said to him and offered up a calf and a ram on the altar.
 
 ### Chapter 24
 
 **Numbers 24:1**
 
-[TODO]
+And Balaam, seeing that it is good before the Lord to bless Israel, did not go as usual to meet the omens, and he turned his face toward the wilderness.
 
 **Numbers 24:2**
 
-[TODO]
+And Balaam lifted his eyes and saw Israel encamped tribe by tribe, and the Spirit of God came to be in him.
 
 **Numbers 24:3**
 
-[TODO]
+And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
 
 **Numbers 24:4**
 
-[TODO]
+says the one hearing the oracles of God, who saw a vision of God in sleep, his eyes having been uncovered.
 
 **Numbers 24:5**
 
-[TODO]
+How good are your houses, Jacob, your tents, Israel.
 
 **Numbers 24:6**
 
-[TODO]
+Like shaded valleys, and like gardens beside rivers, and like tents that the Lord pitched, like cedars by waters.
 
 **Numbers 24:7**
 
-[TODO]
+A man shall come out from his seed and shall rule many nations, and his kingdom shall be exalted above Gog, and his kingdom shall be increased.
 
 **Numbers 24:8**
 
-[TODO]
+God guided him out of Egypt. He is like the glory of a one-horned beast to him. He shall eat the nations of his enemies and suck out their marrow, and with his missiles he shall shoot through an enemy.
 
 **Numbers 24:9**
 
-[TODO]
+Lying down, he rested like a lion and like a cub. Who will raise him? Those blessing you are blessed, and those cursing you are cursed.
 
 **Numbers 24:10**
 
-[TODO]
+And Balak became angry against Balaam and clapped his hands, and Balak said to Balaam, I called you to curse my enemy, and behold, blessing you have blessed this third time.
 
 **Numbers 24:11**
 
-[TODO]
+Now then flee to your place. I said I would honor you, and now the Lord has deprived you of glory.
 
 **Numbers 24:12**
 
-[TODO]
+And Balaam said to Balak, Did I not also speak to your messengers whom you sent to me, saying,
 
 **Numbers 24:13**
 
-[TODO]
+If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do evil or good from myself. Whatever God says, these things I will say.
 
 **Numbers 24:14**
 
-[TODO]
+And now behold, I am going back to my place. Come, I will advise you what this people will do to your people at the last of days.
 
 **Numbers 24:15**
 
-[TODO]
+And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
 
 **Numbers 24:16**
 
-[TODO]
+who hears the oracles of God, knowing knowledge from the Most High, who saw a vision of God in sleep, his eyes having been uncovered.
 
 **Numbers 24:17**
 
-[TODO]
+I will point him out, but not now. I count him blessed, and he is not near. A star shall rise out of Jacob, and a man shall stand up out of Israel, and he shall crush the leaders of Moab and plunder all the sons of Seth.
 
 **Numbers 24:18**
 
-[TODO]
+And Edom shall be an inheritance, and Esau his enemy shall be an inheritance, and Israel acted in strength.
 
 **Numbers 24:19**
 
-[TODO]
+And one shall rise from Jacob and destroy the survivor from the city.
 
 **Numbers 24:20**
 
-[TODO]
+And seeing Amalek and taking up his oracle, he said: Amalek is the beginning of nations, and their seed shall perish.
 
 **Numbers 24:21**
 
-[TODO]
+And seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock,
 
 **Numbers 24:22**
 
-[TODO]
+then if Beor's nest should come to be in craftiness, Assyrians shall take you captive.
 
 **Numbers 24:23**
 
-[TODO]
+And seeing Og and taking up his oracle, he said: Oh, oh, who shall live when God sets these things in place?
 
 **Numbers 24:24**
 
-[TODO]
+And one shall come out from the hand of Kittim, and they shall afflict Asshur and afflict Hebrews, and they themselves together shall perish.
 
 **Numbers 24:25**
 
-[TODO]
+And Balaam rose and went away, turning back to his place, and Balak went to himself.
 
 ### Chapter 25
 
 **Numbers 25:1**
 
-[TODO]
+And Israel stayed in Sattin, and the people were profaned to prostitute themselves with the daughters of Moab.
 
 **Numbers 25:2**
 
-[TODO]
+And they called them to the sacrifices of their idols, and the people ate from their sacrifices and bowed to their idols.
 
 **Numbers 25:3**
 
-[TODO]
+And Israel joined itself to Baal-Peor, and the Lord was enraged in anger against Israel.
 
 **Numbers 25:4**
 
-[TODO]
+And the Lord said to Moses, Take all the leaders of the people and make an example of them for the Lord before the sun, and the anger of the Lord's wrath will turn away from Israel.
 
 **Numbers 25:5**
 
-[TODO]
+And Moses said to the tribes of Israel, Let each one kill his own kinsman who has been joined to Baal-Peor.
 
 **Numbers 25:6**
 
-[TODO]
+And behold, a man from the sons of Israel came and brought the Midianite woman before Moses and before the whole congregation of the sons of Israel, while they were weeping at the door of the tent of testimony.
 
 **Numbers 25:7**
 
-[TODO]
+And Phinehas son of Eleazar son of Aaron the priest saw, rose up from the midst of the congregation, and taking a spear in his hand,
 
 **Numbers 25:8**
 
-[TODO]
+went in after the Israelite man into the chamber and pierced both of them, both the Israelite man and the woman through her womb. And the plague ceased from the sons of Israel.
 
 **Numbers 25:9**
 
-[TODO]
+And those who died in the plague became twenty-four thousand.
 
 **Numbers 25:10**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 25:11**
 
-[TODO]
+Phinehas son of Eleazar son of Aaron the priest has stopped my wrath from the sons of Israel by being jealous with my jealousy among them, and I did not consume the sons of Israel in my jealousy.
 
 **Numbers 25:12**
 
-[TODO]
+Therefore say, Behold, I give him a covenant of peace.
 
 **Numbers 25:13**
 
-[TODO]
+And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 
 **Numbers 25:14**
 
-[TODO]
+And the name of the Israelite man who had been struck, who was struck with the Midianite woman, was Zambri son of Salu, leader of a father's house of the Symeonites.
 
 **Numbers 25:15**
 
-[TODO]
+And the name of the Midianite woman who had been struck was Chasbi daughter of Sur, chief of the nation Ommoth, of a father's house among Midian.
 
 **Numbers 25:16**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 25:17**
 
-[TODO]
+Treat the Midianites as enemies and strike them,
 
 **Numbers 25:18**
 
-[TODO]
+because they act as enemies toward you in the deceit with which they deceive you over Peor and over Chasbi daughter of the chief of Midian, their sister, the one struck down on the day of the plague over Peor.
 
 ### Chapter 26
 
 **Numbers 26:1**
 
-[TODO]
+And it came to pass after the plague, and the Lord spoke to Moses and to Eleazar the priest, saying,
 
 **Numbers 26:2**
 
-[TODO]
+Take the sum of the whole congregation of the sons of Israel, from twenty years old and upward, by their ancestral houses, everyone who goes out to array for battle in Israel.
 
 **Numbers 26:3**
 
-[TODO]
+And Moses and Eleazar the priest spoke in the plains of Moab by the Jordan at Jericho, saying,
 
 **Numbers 26:4**
 
-[TODO]
+From twenty years old and upward, just as the Lord commanded Moses. And these are the sons of Israel who came out of Egypt:
 
 **Numbers 26:5**
 
-[TODO]
+Reuben, Israels firstborn. And the sons of Reuben: of Hanoch, the clan of the Hanochite; of Phallu, the clan of the Phalluite.
 
 **Numbers 26:6**
 
-[TODO]
+Of Hezron, the clan of the Hezronite; of Carmi, the clan of the Carmite.
 
 **Numbers 26:7**
 
-[TODO]
+These are the clans of Reuben, and their enrollment became forty-three thousand seven hundred thirty.
 
 **Numbers 26:8**
 
-[TODO]
+And the sons of Phallu: Eliab.
 
 **Numbers 26:9**
 
-[TODO]
+And the sons of Eliab: Namuel and Dathan and Abiram. These are the called men of the congregation, the ones who rose up against Moses and Aaron in the congregation of Korah, in the uprising against the Lord.
 
 **Numbers 26:10**
 
-[TODO]
+And the earth, opening its mouth, swallowed them and Korah in the death of his congregation, when the fire devoured the two hundred fifty, and they became a sign.
 
 **Numbers 26:11**
 
-[TODO]
+But the sons of Korah did not die.
 
 **Numbers 26:12**
 
-[TODO]
+And the sons of Symeon, the clan of the sons of Symeon: of Namuel, the clan of the Namuelite; of Jamin, the clan of the Jaminite; of Jachin, the clan of the Jachinite.
 
 **Numbers 26:13**
 
-[TODO]
+Of Zarah, the clan of the Zarahite; of Saul, the clan of the Saulite.
 
 **Numbers 26:14**
 
-[TODO]
+These are the clans of Symeon from their enrollment, twenty-two thousand two hundred.
 
 **Numbers 26:15**
 
-[TODO]
+And the sons of Judah were Er and Onan, and Er and Onan died in the land of Canaan.
 
 **Numbers 26:16**
 
-[TODO]
+And the sons of Judah came to be by their clans: of Shelah, the clan of the Shelanite; of Pharez, the clan of the Pharezite; of Zerah, the clan of the Zerahite.
 
 **Numbers 26:17**
 
-[TODO]
+And the sons of Pharez: of Hezron, the clan of the Hezronite; of Jamoun, the clan of the Jamounite.
 
 **Numbers 26:18**
 
-[TODO]
+These are the clans of Judah by their enrollment, seventy-six thousand five hundred.
 
 **Numbers 26:19**
 
-[TODO]
+And the sons of Issachar by their clans: of Thola, the clan of the Tholaite; of Phua, the clan of the Phuaite.
 
 **Numbers 26:20**
 
-[TODO]
+Of Jashub, the clan of the Jashubite; of Samaran, the clan of the Samaranite.
 
 **Numbers 26:21**
 
-[TODO]
+These are the clans of Issachar by their enrollment, sixty-four thousand three hundred.
 
 **Numbers 26:22**
 
-[TODO]
+The sons of Zebulun by their clans: of Sared, the clan of the Saredite; of Allon, the clan of the Allonite; of Allel, the clan of the Allelite.
 
 **Numbers 26:23**
 
-[TODO]
+These are the clans of Zebulun by their enrollment, sixty thousand five hundred.
 
 **Numbers 26:24**
 
-[TODO]
+The sons of Gad by their clans: of Saphon, the clan of the Saphonite; of Angi, the clan of the Angite; of Suni, the clan of the Sunite.
 
 **Numbers 26:25**
 
-[TODO]
+Of Azeni, the clan of the Azenite; of Addi, the clan of the Addite.
 
 **Numbers 26:26**
 
-[TODO]
+Of Aroadi, the clan of the Aroadite; of Ariel, the clan of the Arielite.
 
 **Numbers 26:27**
 
-[TODO]
+These are the clans of the sons of Gad by their enrollment, forty thousand five hundred.
 
 **Numbers 26:28**
 
-[TODO]
+The sons of Asher by their clans: of Jamin, the clan of the Jaminite; of Jesui, the clan of the Jesuite; of Bari, the clan of the Bariite.
 
 **Numbers 26:29**
 
-[TODO]
+Of Chober, the clan of the Choberite; of Melchiel, the clan of the Melchielite.
 
 **Numbers 26:30**
 
-[TODO]
+And the name of Ashers daughter was Sara.
 
 **Numbers 26:31**
 
-[TODO]
+These are the clans of Asher by their enrollment, fifty-three thousand four hundred.
 
 **Numbers 26:32**
 
-[TODO]
+The sons of Joseph by their clans: Manasseh and Ephraim.
 
 **Numbers 26:33**
 
-[TODO]
+The sons of Manasseh: of Machir, the clan of the Machirite. And Machir begot Gilead; of Gilead, the clan of the Gileadite.
 
 **Numbers 26:34**
 
-[TODO]
+And these are the sons of Gilead: of Achiezer, the clan of the Achiezerite; of Cheleg, the clan of the Chelegite.
 
 **Numbers 26:35**
 
-[TODO]
+Of Esriel, the clan of the Esrielite; of Sychem, the clan of the Sychemite.
 
 **Numbers 26:36**
 
-[TODO]
+Of Symaer, the clan of the Symaerite; and of Opher, the clan of the Opherite.
 
 **Numbers 26:37**
 
-[TODO]
+And to Salpaad son of Opher there were no sons, but daughters. And these are the names of the daughters of Salpaad: Mala and Noua and Egla and Melcha and Thersa.
 
 **Numbers 26:38**
 
-[TODO]
+These are the clans of Manasseh by their enrollment, fifty-two thousand seven hundred.
 
 **Numbers 26:39**
 
-[TODO]
+And these are the sons of Ephraim: of Suthala, the clan of the Suthalaite; of Tanach, the clan of the Tanachite.
 
 **Numbers 26:40**
 
-[TODO]
+These are the sons of Suthala: of Eden, the clan of the Edenite.
 
 **Numbers 26:41**
 
-[TODO]
+These are the clans of Ephraim by their enrollment, thirty-two thousand five hundred. These are the clans of the sons of Joseph by their clans.
 
 **Numbers 26:42**
 
-[TODO]
+The sons of Benjamin by their clans: of Bale, the clan of the Baleite; of Asyber, the clan of the Asyberite; of Jachiran, the clan of the Jachiranite.
 
 **Numbers 26:43**
 
-[TODO]
+Of Sophan, the clan of the Sophanite.
 
 **Numbers 26:44**
 
-[TODO]
+And the sons of Bale came to be Adar and Noeman: of Adar, the clan of the Adarite; of Noeman, the clan of the Noemanite.
 
 **Numbers 26:45**
 
-[TODO]
+These are the sons of Benjamin by their clans, by their enrollment, forty-five thousand six hundred.
 
 **Numbers 26:46**
 
-[TODO]
+And the sons of Dan by their clans: of Sami, the clan of the Samite. These are the clans of Dan by their clans.
 
 **Numbers 26:47**
 
-[TODO]
+All the clans of Sami by their enrollment were sixty-four thousand four hundred.
 
 **Numbers 26:48**
 
-[TODO]
+The sons of Naphtali by their clans: of Asiel, the clan of the Asielite; of Gauni, the clan of the Gaunite.
 
 **Numbers 26:49**
 
-[TODO]
+Of Jeser, the clan of the Jeserite; of Sellem, the clan of the Sellemite.
 
 **Numbers 26:50**
 
-[TODO]
+These are the clans of Naphtali by their enrollment, forty-five thousand four hundred.
 
 **Numbers 26:51**
 
-[TODO]
+This is the enrollment of the sons of Israel: six hundred one thousand seven hundred thirty.
 
 **Numbers 26:52**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 26:53**
 
-[TODO]
+To these the land shall be divided for inheritance by number of names.
 
 **Numbers 26:54**
 
-[TODO]
+To the more you shall increase the inheritance, and to the fewer you shall lessen the inheritance. To each one according to those who were enrolled shall their inheritance be given.
 
 **Numbers 26:55**
 
-[TODO]
+The land shall be divided by lots. By the names of the tribes of their fathers they shall inherit.
 
 **Numbers 26:56**
 
-[TODO]
+Out of the lot you shall divide their inheritance between many and few.
 
 **Numbers 26:57**
 
-[TODO]
+And the sons of Levi by their clans: of Gedson, the clan of the Gedsonite; of Kaath, the clan of the Kaathite; of Merari, the clan of the Merarite.
 
 **Numbers 26:58**
 
-[TODO]
+These are the clans of the sons of Levi: the clan of the Lobenite, the clan of the Chebronite, the clan of Kore, and the clan of Mousi. And Kaath begot Amram.
 
 **Numbers 26:59**
 
-[TODO]
+And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram Aaron and Moses and Miriam their sister.
 
 **Numbers 26:60**
 
-[TODO]
+And to Aaron were born Nadab and Abioud and Eleazar and Ithamar.
 
 **Numbers 26:61**
 
-[TODO]
+And Nadab and Abioud died when they brought strange fire before the Lord in the wilderness of Sinai.
 
 **Numbers 26:62**
 
-[TODO]
+And those from their enrollment became twenty-three thousand, every male from one month old and upward. For they were not enrolled among the sons of Israel, because no inheritance is given to them among the sons of Israel.
 
 **Numbers 26:63**
 
-[TODO]
+And this is the enrollment of Moses and Eleazar the priest, who enrolled the sons of Israel in the plains of Moab by the Jordan at Jericho.
 
 **Numbers 26:64**
 
-[TODO]
+And among these there was no man from those enrolled by Moses and Aaron who enrolled the sons of Israel in the wilderness of Sinai.
 
 **Numbers 26:65**
 
-[TODO]
+Because the Lord said to them, By death they shall die in the wilderness. And there was not left from them even one, except Caleb son of Jephunneh and Joshua son of Nun.
 
 ### Chapter 27
 
 **Numbers 27:1**
 
-[TODO]
+And the daughters of Salpaad son of Opher, son of Gilead, son of Machir, from the clan of Manasseh of the sons of Joseph, came near. And these are their names: Mala and Noua and Egla and Melcha and Thersa.
 
 **Numbers 27:2**
 
-[TODO]
+And they stood before Moses and before Eleazar the priest and before the leaders and before the whole congregation at the door of the tent of testimony, saying,
 
 **Numbers 27:3**
 
-[TODO]
+Our father died in the wilderness, and he was not in the midst of the congregation that gathered against the Lord in the congregation of Korah, but he died for his own sin, and sons were not born to him.
 
 **Numbers 27:4**
 
-[TODO]
+Let not the name of our father be wiped out from the midst of his clan because he has no son. Give us a possession among the brothers of our father.
 
 **Numbers 27:5**
 
-[TODO]
+And Moses brought their judgment before the Lord.
 
 **Numbers 27:6**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 27:7**
 
-[TODO]
+The daughters of Salpaad have spoken rightly. Giving you shall give them a possession of inheritance among the brothers of their father, and you shall put the inheritance of their father upon them.
 
 **Numbers 27:8**
 
-[TODO]
+And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter.
 
 **Numbers 27:9**
 
-[TODO]
+And if he has no daughter, you shall give his inheritance to his brother.
 
 **Numbers 27:10**
 
-[TODO]
+And if he has no brothers, you shall give his inheritance to the brother of his father.
 
 **Numbers 27:11**
 
-[TODO]
+And if there are no brothers of his father, you shall give his inheritance to his nearest kinsman from his tribe, and he shall inherit what is his. And this shall be for the sons of Israel an ordinance of judgment, just as the Lord commanded Moses.
 
 **Numbers 27:12**
 
-[TODO]
+And the Lord said to Moses, Go up into this mountain across here, Mount Nabau, and see the land of Canaan that I give to the sons of Israel as a possession.
 
 **Numbers 27:13**
 
-[TODO]
+And you shall see it, and you too shall be added to your people, just as Aaron your brother was added on Mount Hor.
 
 **Numbers 27:14**
 
-[TODO]
+Because you transgressed my word in the wilderness of Sin when the congregation fell against me. To sanctify me, you did not sanctify me over the water before them. This is the water of reviling at Kadesh in the wilderness of Sin.
 
 **Numbers 27:15**
 
-[TODO]
+And Moses said to the Lord,
 
 **Numbers 27:16**
 
-[TODO]
+Let the Lord, the God of the spirits and of all flesh, appoint a man over this congregation,
 
 **Numbers 27:17**
 
-[TODO]
+one who shall go out before their face and one who shall come in before their face, and one who shall bring them out and one who shall bring them in, and the congregation of the Lord shall not be like sheep that have no shepherd.
 
 **Numbers 27:18**
 
-[TODO]
+And the Lord spoke to Moses, saying, Take to yourself Joshua son of Nun, a man who has spirit in himself, and you shall lay your hands upon him.
 
 **Numbers 27:19**
 
-[TODO]
+And you shall set him before Eleazar the priest and command him before the whole congregation, and command concerning him before them.
 
 **Numbers 27:20**
 
-[TODO]
+And you shall give some of your glory upon him, so that the sons of Israel may hear him.
 
 **Numbers 27:21**
 
-[TODO]
+And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 
 **Numbers 27:22**
 
-[TODO]
+And Moses did just as the Lord commanded him, and taking Joshua he set him before Eleazar the priest and before the whole congregation.
 
 **Numbers 27:23**
 
-[TODO]
+And he laid his hands upon him and appointed him, just as the Lord commanded Moses.
 
 ### Chapter 28
 
 **Numbers 28:1**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 28:2**
 
-[TODO]
+Command the sons of Israel and say to them, saying: My gifts, my offerings, my fruit-gifts for an aroma of sweet fragrance, you shall keep to offer to me at my feasts.
 
 **Numbers 28:3**
 
-[TODO]
+And you shall say to them, These are the fruit-gifts that you shall bring near to the Lord: two one-year lambs without blemish each day for a continual whole burnt offering.
 
 **Numbers 28:4**
 
-[TODO]
+The one lamb you shall do in the morning, and the second lamb you shall do at evening.
 
 **Numbers 28:5**
 
-[TODO]
+And you shall make a tenth of an ephah of fine flour for a sacrifice kneaded in oil, a fourth of a hin.
 
 **Numbers 28:6**
 
-[TODO]
+It is a continual whole burnt offering made on Mount Sinai for an aroma of sweet fragrance to the Lord.
 
 **Numbers 28:7**
 
-[TODO]
+And its libation, a fourth of a hin for the one lamb. In the holy place you shall pour out a libation of strong drink to the Lord.
 
 **Numbers 28:8**
 
-[TODO]
+And the second lamb you shall do at evening. According to its sacrifice and according to its libation you shall do it for an aroma of sweet fragrance to the Lord.
 
 **Numbers 28:9**
 
-[TODO]
+And on the day of the Sabbaths you shall bring two one-year lambs without blemish and two tenths of fine flour kneaded in oil for a sacrifice and a libation.
 
 **Numbers 28:10**
 
-[TODO]
+A whole burnt offering of Sabbaths on the Sabbaths, besides the continual whole burnt offering and its libation.
 
 **Numbers 28:11**
 
-[TODO]
+And at the new moons you shall bring whole burnt offerings to the Lord: two young bulls from the cattle and one ram, seven one-year lambs without blemish,
 
 **Numbers 28:12**
 
-[TODO]
+three tenths of fine flour kneaded in oil for the one bull and two tenths of fine flour kneaded in oil for the one ram,
 
 **Numbers 28:13**
 
-[TODO]
+a tenth of fine flour kneaded in oil for the one lamb, a sacrifice, an aroma of sweet fragrance, a fruit-gift to the Lord.
 
 **Numbers 28:14**
 
-[TODO]
+And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of month by month throughout the months of the year.
 
 **Numbers 28:15**
 
-[TODO]
+And one kid from the goats for a sin offering to the Lord; besides the continual whole burnt offering it shall be made, and its libation.
 
 **Numbers 28:16**
 
-[TODO]
+And in the first month, on the fourteenth day of the month, Passover to the Lord.
 
 **Numbers 28:17**
 
-[TODO]
+And on the fifteenth day of this month, a feast. Seven days you shall eat unleavened bread.
 
 **Numbers 28:18**
 
-[TODO]
+And the first day shall be a called holy day for you. You shall do no service-work.
 
 **Numbers 28:19**
 
-[TODO]
+And you shall bring whole burnt offerings, fruit-gifts to the Lord: two young bulls from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
 
 **Numbers 28:20**
 
-[TODO]
+And their sacrifice shall be fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram.
 
 **Numbers 28:21**
 
-[TODO]
+A tenth by a tenth you shall do for the one lamb, for the seven lambs.
 
 **Numbers 28:22**
 
-[TODO]
+And one kid from the goats for a sin offering, to make atonement for you.
 
 **Numbers 28:23**
 
-[TODO]
+Besides the continual morning whole burnt offering, which is a continual whole burnt offering.
 
 **Numbers 28:24**
 
-[TODO]
+So shall you do these things day by day for the seven days, a gift, a fruit-gift for an aroma of sweet fragrance to the Lord. Besides the continual whole burnt offering you shall do it and its libation.
 
 **Numbers 28:25**
 
-[TODO]
+And the seventh day shall be a called holy day for you. You shall do no service-work on it.
 
 **Numbers 28:26**
 
-[TODO]
+And on the day of the new things, when you offer a new sacrifice to the Lord in the Feast of Weeks, it shall be a called holy day for you. You shall do no service-work.
 
 **Numbers 28:27**
 
-[TODO]
+And you shall bring whole burnt offerings for an aroma of sweet fragrance to the Lord: two young bulls from the cattle, one ram, seven one-year lambs without blemish,
 
 **Numbers 28:28**
 
-[TODO]
+their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 **Numbers 28:29**
 
-[TODO]
+a tenth by a tenth for the one lamb, for the seven lambs,
 
 **Numbers 28:30**
 
-[TODO]
+and one kid from the goats for a sin offering, to make atonement for you.
 
 **Numbers 28:31**
 
-[TODO]
+Besides the continual whole burnt offering and their sacrifice you shall do them for me. They shall be without blemish for you, and their libations.
 
 ### Chapter 29
 
 **Numbers 29:1**
 
-[TODO]
+And in the seventh month, on the first day of the month, it shall be a called holy day for you. You shall do no service-work. It shall be a day of signal for you.
 
 **Numbers 29:2**
 
-[TODO]
+And you shall make whole burnt offerings for an aroma of sweet fragrance to the Lord: one bull from the cattle, one ram, seven one-year lambs without blemish,
 
 **Numbers 29:3**
 
-[TODO]
+their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 **Numbers 29:4**
 
-[TODO]
+a tenth by a tenth for the one lamb, for the seven lambs,
 
 **Numbers 29:5**
 
-[TODO]
+and one kid from the goats for a sin offering, to make atonement for you,
 
 **Numbers 29:6**
 
-[TODO]
+besides the whole burnt offerings of the new moon and their sacrifices and their libations, and the continual whole burnt offering and their sacrifices and their libations, according to their reckoning, for an aroma of sweet fragrance to the Lord.
 
 **Numbers 29:7**
 
-[TODO]
+And on the tenth of this month, it shall be a called holy day for you, and you shall afflict your souls, and you shall do no work.
 
 **Numbers 29:8**
 
-[TODO]
+And you shall offer whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
 
 **Numbers 29:9**
 
-[TODO]
+their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 **Numbers 29:10**
 
-[TODO]
+a tenth by a tenth for the one lamb, for the seven lambs,
 
 **Numbers 29:11**
 
-[TODO]
+and one kid from the goats for a sin offering, to make atonement for you, besides the sin offering of atonement and the continual whole burnt offering and its sacrifice and its libation, according to the reckoning, for an aroma of sweet fragrance, a fruit-gift to the Lord.
 
 **Numbers 29:12**
 
-[TODO]
+And on the fifteenth day of this seventh month it shall be a called holy day for you. You shall do no service-work, and you shall celebrate it as a feast to the Lord seven days.
 
 **Numbers 29:13**
 
-[TODO]
+And you shall bring whole burnt offerings, fruit-gifts for an aroma of sweet fragrance to the Lord: on the first day, thirteen bulls from the cattle, two rams, fourteen one-year lambs. They shall be without blemish.
 
 **Numbers 29:14**
 
-[TODO]
+Their sacrifices shall be fine flour kneaded in oil, three tenths for the one bull, for the thirteen bulls, and two tenths for the one ram, for the two rams,
 
 **Numbers 29:15**
 
-[TODO]
+a tenth by a tenth for the one lamb, for the fourteen lambs,
 
 **Numbers 29:16**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:17**
 
-[TODO]
+And on the second day, twelve bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:18**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:19**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:20**
 
-[TODO]
+On the third day, eleven bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:21**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:22**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:23**
 
-[TODO]
+On the fourth day, ten bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:24**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:25**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:26**
 
-[TODO]
+On the fifth day, nine bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:27**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:28**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:29**
 
-[TODO]
+On the sixth day, eight bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:30**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:31**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:32**
 
-[TODO]
+On the seventh day, seven bulls, two rams, fourteen one-year lambs without blemish,
 
 **Numbers 29:33**
 
-[TODO]
+their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:34**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:35**
 
-[TODO]
+And on the eighth day there shall be a dismissal for you. You shall do no service-work on it.
 
 **Numbers 29:36**
 
-[TODO]
+And you shall bring whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull, one ram, seven one-year lambs without blemish,
 
 **Numbers 29:37**
 
-[TODO]
+their sacrifices and their libations for the bull and for the ram and for the lambs, according to their number, according to their reckoning,
 
 **Numbers 29:38**
 
-[TODO]
+and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 **Numbers 29:39**
 
-[TODO]
+These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
 
 ### Chapter 30
 
 **Numbers 30:1**
 
-[TODO]
+And Moses spoke to the sons of Israel according to all that the Lord commanded Moses.
 
 **Numbers 30:2**
 
-[TODO]
+And Moses spoke to the leaders of the tribes of Israel, saying, This is the word that the Lord commanded.
 
 **Numbers 30:3**
 
-[TODO]
+Man by man, whoever vows a vow to the Lord or swears an oath or binds himself with a binding over his life, he shall not profane his word. Everything that goes out from his mouth he shall do.
 
 **Numbers 30:4**
 
-[TODO]
+But if a woman vows a vow to the Lord or binds a binding in the house of her father in her youth,
 
 **Numbers 30:5**
 
-[TODO]
+and her father hears her vows and her bindings which she bound against her life and her father keeps silent to her, then all her vows shall stand, and all the bindings which she bound against her life shall remain for her.
 
 **Numbers 30:6**
 
-[TODO]
+But if her father by refusal refuses her on the day he hears all her vows and the bindings which she bound against her life, they shall not stand, and the Lord will clear her, because her father refused her.
 
 **Numbers 30:7**
 
-[TODO]
+And if, having become, she becomes to a man, and her vows are upon her according to the utterance of her lips, which she bound against her life,
 
 **Numbers 30:8**
 
-[TODO]
+and her husband hears and keeps silent to her on the day he hears, then all her vows shall stand, and her bindings which she bound against her life shall stand.
 
 **Numbers 30:9**
 
-[TODO]
+But if her husband by refusal refuses her on the day he hears, all her vows and her bindings which she bound against her life shall not remain, because her husband refused them from her, and the Lord will clear her.
 
 **Numbers 30:10**
 
-[TODO]
+And the vow of a widow or of one cast out, whatever she vows against her life, shall remain for her.
 
 **Numbers 30:11**
 
-[TODO]
+But if in the house of her husband her vow or the binding against her life is with an oath,
 
 **Numbers 30:12**
 
-[TODO]
+and her husband hears and keeps silent to her and does not refuse her, then all her vows shall stand, and all her bindings which she bound against her life shall stand against her.
 
 **Numbers 30:13**
 
-[TODO]
+But if her husband removes them when he hears, everything that has gone out from her lips according to her vows and according to the bindings against her life shall not remain for her. Her husband removed them, and the Lord will clear her.
 
 **Numbers 30:14**
 
-[TODO]
+Every vow and every binding oath to afflict a life, her husband shall establish it for her, and her husband shall remove it.
 
 **Numbers 30:15**
 
-[TODO]
+But if her husband keeps silent to her day after day, he shall establish all her vows and the bindings upon her. He shall establish them for her, because he kept silent to her on the day he heard.
 
 **Numbers 30:16**
 
-[TODO]
+But if he removes them after the day he heard, he shall bear his sin.
 
 **Numbers 30:17**
 
-[TODO]
+These are the ordinances that the Lord commanded Moses between a man and his wife and between a father and daughter in youth in the house of her father.
 
 ### Chapter 31
 
 **Numbers 31:1**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 31:2**
 
-[TODO]
+Avenge the vengeance of the sons of Israel on the Midianites, and at the end you shall be added to your people.
 
 **Numbers 31:3**
 
-[TODO]
+And Moses spoke to the people, saying, Arm men from among you to array for battle before the Lord against Midian, to return vengeance from the Lord upon Midian.
 
 **Numbers 31:4**
 
-[TODO]
+A thousand from a tribe, a thousand from a tribe, from all the tribes of Israel, send out to array for battle.
 
 **Numbers 31:5**
 
-[TODO]
+And they were counted from the thousands of Israel, a thousand from a tribe, twelve thousand armed for battle.
 
 **Numbers 31:6**
 
-[TODO]
+And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands.
 
 **Numbers 31:7**
 
-[TODO]
+And they arrayed against Midian just as the Lord commanded Moses, and they killed every male.
 
 **Numbers 31:8**
 
-[TODO]
+And the kings of Midian they killed along with their wounded: Evin and Sour and Rokom and Our and Robok, five kings of Midian. And Balaam son of Beor they killed with sword along with their wounded.
 
 **Numbers 31:9**
 
-[TODO]
+And they plundered the women of Midian and their baggage and their cattle and all their possessions and all their force they plundered.
 
 **Numbers 31:10**
 
-[TODO]
+And all their cities in their dwellings and their camps they burned with fire.
 
 **Numbers 31:11**
 
-[TODO]
+And they took all the plunder and all their spoils, from human to beast.
 
 **Numbers 31:12**
 
-[TODO]
+And they brought to Moses and to Eleazar the priest and to all the sons of Israel the captivity and the spoils and the plunder to the camp in the plains of Moab, which are by the Jordan at Jericho.
 
 **Numbers 31:13**
 
-[TODO]
+And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp.
 
 **Numbers 31:14**
 
-[TODO]
+And Moses was angry with the overseers of the force, the chiliarchs and centurions coming from the battle line of the war.
 
 **Numbers 31:15**
 
-[TODO]
+And Moses said to them, Why have you kept every female alive?
 
 **Numbers 31:16**
 
-[TODO]
+For these became for the sons of Israel, according to the word of Balaam, a cause to depart and despise the word of the Lord for the sake of Peor, and the plague came in the congregation of the Lord.
 
 **Numbers 31:17**
 
-[TODO]
+And now kill every male among all the company, and every woman who has known the bed of a male kill.
 
 **Numbers 31:18**
 
-[TODO]
+But every company of women who has not known the bed of a male keep alive for yourselves.
 
 **Numbers 31:19**
 
-[TODO]
+And you camp outside the camp seven days, every one who killed and every one touching the wounded. He shall be purified on the third day and on the seventh day, you and your captives.
 
 **Numbers 31:20**
 
-[TODO]
+And every garment and every leather vessel and every work of goats hair and every wooden vessel you shall cleanse.
 
 **Numbers 31:21**
 
-[TODO]
+And Eleazar the priest said to the men of the force who had come from the battle line of the war, This is the ordinance of the law that the Lord commanded Moses:
 
 **Numbers 31:22**
 
-[TODO]
+Except the gold and the silver and bronze and iron and lead and tin,
 
 **Numbers 31:23**
 
-[TODO]
+every thing that goes through fire shall be purified, but it shall be purified by the water of purification. And everything that does not pass through fire shall go through water.
 
 **Numbers 31:24**
 
-[TODO]
+And you shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp.
 
 **Numbers 31:25**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 31:26**
 
-[TODO]
+Take the total of the spoil of the captivity, from human to beast, you and Eleazar the priest and the leaders of the ancestral houses of the congregation.
 
 **Numbers 31:27**
 
-[TODO]
+And divide the spoils between the warriors who went out into battle and the whole congregation.
 
 **Numbers 31:28**
 
-[TODO]
+And remove a tax for the Lord from the warriors who went out into battle, one soul out of five hundred, from the humans and from the cattle and from the oxen and from the sheep and from the goats.
 
 **Numbers 31:29**
 
-[TODO]
+And from their half you shall take and give to Eleazar the priest the firstfruits of the Lord.
 
 **Numbers 31:30**
 
-[TODO]
+And from the half of the sons of Israel you shall take one out of fifty, from the humans and from the oxen and from the sheep and from the donkeys and from all the cattle, and you shall give them to the Levites who keep the charges in the tent of the Lord.
 
 **Numbers 31:31**
 
-[TODO]
+And Moses and Eleazar the priest did just as the Lord commanded Moses.
 
 **Numbers 31:32**
 
-[TODO]
+And the excess of plunder that the fighting men plundered from the sheep was six hundred seventy-five thousand.
 
 **Numbers 31:33**
 
-[TODO]
+And cattle, seventy-two thousand.
 
 **Numbers 31:34**
 
-[TODO]
+And donkeys, sixty-one thousand.
 
 **Numbers 31:35**
 
-[TODO]
+And human souls from the women who had not known the bed of a male, all the souls, thirty-two thousand.
 
 **Numbers 31:36**
 
-[TODO]
+And the half, the share of those who went out to war, from the number of the sheep, was three hundred thirty-seven thousand five hundred.
 
 **Numbers 31:37**
 
-[TODO]
+And the tax to the Lord from the sheep was six hundred seventy-five.
 
 **Numbers 31:38**
 
-[TODO]
+And cattle, thirty-six thousand, and the tax to the Lord, seventy-two.
 
 **Numbers 31:39**
 
-[TODO]
+And donkeys, thirty thousand five hundred, and the tax to the Lord, sixty-one.
 
 **Numbers 31:40**
 
-[TODO]
+And human souls, sixteen thousand, and their tax to the Lord, thirty-two souls.
 
 **Numbers 31:41**
 
-[TODO]
+And Moses gave the tax to the Lord, the removed offering of God, to Eleazar the priest, just as the Lord commanded Moses.
 
 **Numbers 31:42**
 
-[TODO]
+From the half of the sons of Israel, which Moses divided off from the fighting men,
 
 **Numbers 31:43**
 
-[TODO]
+and the half of the congregation was, from the sheep, three hundred thirty-seven thousand five hundred,
 
 **Numbers 31:44**
 
-[TODO]
+and cattle, thirty-six thousand,
 
 **Numbers 31:45**
 
-[TODO]
+donkeys, thirty thousand five hundred,
 
 **Numbers 31:46**
 
-[TODO]
+and human souls, sixteen thousand.
 
 **Numbers 31:47**
 
-[TODO]
+And Moses took from the half of the sons of Israel one out of fifty, from the humans and from the cattle, and gave them to the Levites who keep the charges of the tent of the Lord, just as the Lord commanded Moses.
 
 **Numbers 31:48**
 
-[TODO]
+And all those appointed over the thousands of the force, the chiliarchs and centurions, came near to Moses
 
 **Numbers 31:49**
 
-[TODO]
+and said to Moses, Your servants have taken the total of the fighting men from among us, and not even one is missing from them.
 
 **Numbers 31:50**
 
-[TODO]
+And we have brought the gift to the Lord, each man what he found, a gold article, chain and bracelet and ring and armlet and clasped ornament, to make atonement for us before the Lord.
 
 **Numbers 31:51**
 
-[TODO]
+And Moses and Eleazar the priest took the gold from them, every worked article.
 
 **Numbers 31:52**
 
-[TODO]
+And all the gold, the removed offering that they removed for the Lord, was sixteen thousand seven hundred fifty shekels from the chiliarchs and from the centurions.
 
 **Numbers 31:53**
 
-[TODO]
+And the fighting men had each plundered for himself.
 
 **Numbers 31:54**
 
-[TODO]
+And Moses and Eleazar the priest took the gold from the chiliarchs and from the centurions and brought it into the tent of testimony, a memorial of the sons of Israel before the Lord.
 
 ### Chapter 32
 
 **Numbers 32:1**
 
-[TODO]
+And cattle in great multitude belonged to the sons of Reuben and to the sons of Gad, very many, and they saw the land of Jazer and the land of Gilead, and the place was a place for cattle.
 
 **Numbers 32:2**
 
-[TODO]
+And the sons of Reuben and the sons of Gad came and said to Moses and to Eleazar the priest and to the leaders of the congregation, saying,
 
 **Numbers 32:3**
 
-[TODO]
+Ataroth and Dibon and Jazer and Nambram and Heshbon and Elealeh and Sebama and Nabau and Baian,
 
 **Numbers 32:4**
 
-[TODO]
+the land that the Lord handed over before the sons of Israel, is cattle-land, and your servants have cattle.
 
 **Numbers 32:5**
 
-[TODO]
+And they said, If we have found favor before you, let this land be given to your servants as a possession, and do not carry us across the Jordan.
 
 **Numbers 32:6**
 
-[TODO]
+And Moses said to the sons of Gad and to the sons of Reuben, Shall your brothers go to war and you sit here?
 
 **Numbers 32:7**
 
-[TODO]
+And why do you twist the minds of the sons of Israel, so that they do not cross into the land that the Lord gives them?
 
 **Numbers 32:8**
 
-[TODO]
+Did not your fathers do thus when I sent them from Kadesh-Barnea to look upon the land?
 
 **Numbers 32:9**
 
-[TODO]
+And they went up to the Ravine of Cluster and looked upon the land, and turned away the heart of the sons of Israel so that they did not enter into the land that the Lord gave them.
 
 **Numbers 32:10**
 
-[TODO]
+And the Lord was enraged in anger on that day and swore, saying,
 
 **Numbers 32:11**
 
-[TODO]
+If these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall see the land that I swore to Abraham and Isaac and Jacob, because they did not follow after me—
 
 **Numbers 32:12**
 
-[TODO]
+except Caleb son of Jephunneh, the separated one, and Joshua son of Nun, because he followed after the Lord.
 
 **Numbers 32:13**
 
-[TODO]
+And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed.
 
 **Numbers 32:14**
 
-[TODO]
+Behold, you rose up in place of your fathers, a twisted growth of sinful men, to add yet more to the fury of the Lords anger against Israel.
 
 **Numbers 32:15**
 
-[TODO]
+For you will turn away from him, to add yet again to leave him in the wilderness, and you will do lawlessness against all this congregation.
 
 **Numbers 32:16**
 
-[TODO]
+And they came near to him and said, Let us build sheepfolds here for our cattle and cities for our baggage.
 
 **Numbers 32:17**
 
-[TODO]
+But we, armed for a guard, will go first before the sons of Israel until we bring them to their place, and our baggage will dwell in fortified cities because of those dwelling in the land.
 
 **Numbers 32:18**
 
-[TODO]
+We shall certainly not turn back to our houses until the sons of Israel are apportioned, each one into his inheritance.
 
 **Numbers 32:19**
 
-[TODO]
+And we shall no longer inherit with them from beyond the Jordan and further on, because our allotments are here beyond the Jordan to the east.
 
 **Numbers 32:20**
 
-[TODO]
+And Moses said to them, If you do this thing, if you arm yourselves before the Lord for war,
 
 **Numbers 32:21**
 
-[TODO]
+and every armed man of yours crosses the Jordan before the Lord until his enemy is crushed from before him,
 
 **Numbers 32:22**
 
-[TODO]
+and the land is subdued before the Lord, and afterward you turn back, then you shall be innocent before the Lord and from Israel, and this land shall be for you as a possession before the Lord.
 
 **Numbers 32:23**
 
-[TODO]
+But if you do not do thus, you will sin before the Lord, and you shall know your sin when evils overtake you.
 
 **Numbers 32:24**
 
-[TODO]
+And you shall build cities for your baggage and sheepfolds for your cattle, and what goes out from your mouth you shall do.
 
 **Numbers 32:25**
 
-[TODO]
+And the sons of Reuben and the sons of Gad said to Moses, saying, Your servants will do just as our lord commands.
 
 **Numbers 32:26**
 
-[TODO]
+Our baggage and our wives and all our cattle will be in the cities of Gilead.
 
 **Numbers 32:27**
 
-[TODO]
+But your servants will cross over, all armed and drawn up before the Lord for battle, as our lord says.
 
 **Numbers 32:28**
 
-[TODO]
+And Moses appointed over them Eleazar the priest and Joshua son of Nun and the leaders of the ancestral houses of the tribes of Israel.
 
 **Numbers 32:29**
 
-[TODO]
+And Moses said to them, If the sons of Reuben and the sons of Gad cross the Jordan with you, every armed man for war before the Lord, and you subdue the land before you, then you shall give them the land of Gilead as a possession.
 
 **Numbers 32:30**
 
-[TODO]
+But if they do not cross armed with you before the Lord into war, then you shall bring their baggage and their wives and their cattle across ahead of you into the land of Canaan, and they shall inherit along with you in the land of Canaan.
 
 **Numbers 32:31**
 
-[TODO]
+And the sons of Reuben and the sons of Gad answered, saying, Whatever the Lord says to his servants, so we will do.
 
 **Numbers 32:32**
 
-[TODO]
+We will cross armed before the Lord into the land of Canaan, and give us the possession beyond the Jordan.
 
 **Numbers 32:33**
 
-[TODO]
+And Moses gave to them—to the sons of Gad and to the sons of Reuben and to the half-tribe of Manasseh, sons of Joseph—the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with its borders, the cities of the land around.
 
 **Numbers 32:34**
 
-[TODO]
+And the sons of Gad built Dibon and Ataroth and Aroer,
 
 **Numbers 32:35**
 
-[TODO]
+and Sophar and Jazer and fortified them,
 
 **Numbers 32:36**
 
-[TODO]
+and Nambran and Baitharan, fortified cities, and sheepfolds.
 
 **Numbers 32:37**
 
-[TODO]
+And the sons of Reuben built Heshbon and Elealeh and Kariathaim,
 
 **Numbers 32:38**
 
-[TODO]
+and Beelmeon, surrounded with walls, and Sebama, and they renamed by their names the names of the cities that they built.
 
 **Numbers 32:39**
 
-[TODO]
+And a son of Machir son of Manasseh went into Gilead and took it and destroyed the Amorite dwelling in it.
 
 **Numbers 32:40**
 
-[TODO]
+And Moses gave Gilead to Machir son of Manasseh, and he dwelt there.
 
 **Numbers 32:41**
 
-[TODO]
+And Jair the Manassite went and took their camps and named them Jairs Camps.
 
 **Numbers 32:42**
 
-[TODO]
+And Nabau went and took Kenaath and its villages and named them Naboth after his name.
 
 ### Chapter 33
 
 **Numbers 33:1**
 
-[TODO]
+And these are the stages of the sons of Israel as they went out from the land of Egypt with their forces by the hand of Moses and Aaron.
 
 **Numbers 33:2**
 
-[TODO]
+And Moses wrote down their departures and their stages by word of the Lord. And these are the stages of their journey.
 
 **Numbers 33:3**
 
-[TODO]
+They set out from Ramesse in the first month, on the fifteenth day of the first month, on the day after Passover. The sons of Israel went out with uplifted hand before all the Egyptians,
 
 **Numbers 33:4**
 
-[TODO]
+while the Egyptians were burying from among them all the dead whom the Lord had struck, every firstborn in the land of Egypt. And on their gods the Lord executed vengeance.
 
 **Numbers 33:5**
 
-[TODO]
+And the sons of Israel set out from Ramesse and camped in Sokchoth.
 
 **Numbers 33:6**
 
-[TODO]
+And they set out from Sokchoth and camped in Bouthan, which is some part of the wilderness.
 
 **Numbers 33:7**
 
-[TODO]
+And they set out from Bouthan and camped at the mouth of Eiroth, which is opposite Beelsepphon, and camped opposite Magdolus.
 
 **Numbers 33:8**
 
-[TODO]
+And they set out from opposite Eiroth and passed through the midst of the sea into the wilderness, and they went a road of three days through the wilderness, they themselves, and camped in Pikriai.
 
 **Numbers 33:9**
 
-[TODO]
+And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water.
 
 **Numbers 33:10**
 
-[TODO]
+And they set out from Ailim and camped by the Red Sea.
 
 **Numbers 33:11**
 
-[TODO]
+And they set out from the Red Sea and camped in the wilderness of Sin.
 
 **Numbers 33:12**
 
-[TODO]
+And they set out from the wilderness of Sin and camped in Raphaka.
 
 **Numbers 33:13**
 
-[TODO]
+And they set out from Raphaka and camped in Ailous.
 
 **Numbers 33:14**
 
-[TODO]
+And they set out from Ailous and camped in Raphidin, and there was no water for the people to drink there.
 
 **Numbers 33:15**
 
-[TODO]
+And they set out from Raphidin and camped in the wilderness of Sinai.
 
 **Numbers 33:16**
 
-[TODO]
+And they set out from the wilderness of Sinai and camped at the Tombs of Desire.
 
 **Numbers 33:17**
 
-[TODO]
+And they set out from the Tombs of Desire and camped in Aseroth.
 
 **Numbers 33:18**
 
-[TODO]
+And they set out from Aseroth and camped in Rathama.
 
 **Numbers 33:19**
 
-[TODO]
+And they set out from Rathama and camped in Remmon-Phares.
 
 **Numbers 33:20**
 
-[TODO]
+And they set out from Remmon-Phares and camped in Lemona.
 
 **Numbers 33:21**
 
-[TODO]
+And they set out from Lemona and camped at Dessa.
 
 **Numbers 33:22**
 
-[TODO]
+And they set out from Dessa and camped at Makellath.
 
 **Numbers 33:23**
 
-[TODO]
+And they set out from Makellath and camped at Sapher.
 
 **Numbers 33:24**
 
-[TODO]
+And they set out from Sapher and camped at Charadath.
 
 **Numbers 33:25**
 
-[TODO]
+And they set out from Charadath and camped at Makeloth.
 
 **Numbers 33:26**
 
-[TODO]
+And they set out from Makeloth and camped at Kataath.
 
 **Numbers 33:27**
 
-[TODO]
+And they set out from Kataath and camped at Tarath.
 
 **Numbers 33:28**
 
-[TODO]
+And they set out from Tarath and camped at Matekka.
 
 **Numbers 33:29**
 
-[TODO]
+And they set out from Matekka and camped at Selmona.
 
 **Numbers 33:30**
 
-[TODO]
+And they set out from Selmona and camped at Massourouth.
 
 **Numbers 33:31**
 
-[TODO]
+And they set out from Massourouth and camped at Banaia.
 
 **Numbers 33:32**
 
-[TODO]
+And they set out from Banaia and camped at Mount Gadgad.
 
 **Numbers 33:33**
 
-[TODO]
+And they set out from Mount Gadgad and camped at Etebatha.
 
 **Numbers 33:34**
 
-[TODO]
+And they set out from Etebatha and camped at Ebrona.
 
 **Numbers 33:35**
 
-[TODO]
+And they set out from Ebrona and camped at Gesiongaber.
 
 **Numbers 33:36**
 
-[TODO]
+And they set out from Gesiongaber and camped in the wilderness of Sin, and they set out from the wilderness of Sin and camped in the wilderness of Paran; this is Kadesh.
 
 **Numbers 33:37**
 
-[TODO]
+And they set out from Kadesh and camped at Mount Hor, near the land of Edom.
 
 **Numbers 33:38**
 
-[TODO]
+And Aaron the priest went up by command of the Lord and died there, in the fortieth year of the departure of the sons of Israel from the land of Egypt, in the fifth month, on the first day of the month.
 
 **Numbers 33:39**
 
-[TODO]
+And Aaron was one hundred twenty-three years old when he died on Mount Hor.
 
 **Numbers 33:40**
 
-[TODO]
+And the Canaanite king of Arad heard, and he himself dwelt in the land of Canaan, when the sons of Israel were entering.
 
 **Numbers 33:41**
 
-[TODO]
+And they set out from Mount Hor and camped at Selmona.
 
 **Numbers 33:42**
 
-[TODO]
+And they set out from Selmona and camped at Phino.
 
 **Numbers 33:43**
 
-[TODO]
+And they set out from Phino and camped at Oboth.
 
 **Numbers 33:44**
 
-[TODO]
+And they set out from Oboth and camped in Gai-beyond on the borders of Moab.
 
 **Numbers 33:45**
 
-[TODO]
+And they set out from Gai and camped at Dibon-Gad.
 
 **Numbers 33:46**
 
-[TODO]
+And they set out from Dibon-Gad and camped in Gelmon-Deblathaim.
 
 **Numbers 33:47**
 
-[TODO]
+And they set out from Gelmon-Deblathaim and camped at the mountains of Abarim opposite Nabau.
 
 **Numbers 33:48**
 
-[TODO]
+And they set out from the mountains of Abarim and camped west of Moab by the Jordan at Jericho.
 
 **Numbers 33:49**
 
-[TODO]
+And they camped by the Jordan, from Aisimoth to Belsattim, west of Moab.
 
 **Numbers 33:50**
 
-[TODO]
+And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
 
 **Numbers 33:51**
 
-[TODO]
+Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
 
 **Numbers 33:52**
 
-[TODO]
+And you shall destroy all the inhabitants in the land from before you, and you shall remove their watch-posts, and all their molten idols you shall destroy them, and all their pillars you shall remove.
 
 **Numbers 33:53**
 
-[TODO]
+And you shall destroy all those inhabiting the land and dwell in it, for I have given you their land by lot.
 
 **Numbers 33:54**
 
-[TODO]
+And you shall take possession of their land by lot according to your tribes. To the greater you shall increase their possession, and to the fewer you shall lessen their possession. Wherever his lot comes out, there it shall be his. According to the tribes of your fathers you shall inherit.
 
 **Numbers 33:55**
 
-[TODO]
+But if you do not destroy the inhabitants of the land from before you, then those you leave from them shall be spikes in your eyes and darts in your sides, and they shall be hostile over the land on which you dwell.
 
 **Numbers 33:56**
 
-[TODO]
+And it shall be, just as I determined to do to them, I will do to you.
 
 ### Chapter 34
 
 **Numbers 34:1**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 34:2**
 
-[TODO]
+Command the sons of Israel and say to them, You are entering into the land of Canaan. This shall be for you as an inheritance, the land of Canaan with its borders.
 
 **Numbers 34:3**
 
-[TODO]
+And for you the south side shall be from the wilderness of Sin up to Edom, and for you the southern borders shall be from the side of the Salt Sea eastward.
 
 **Numbers 34:4**
 
-[TODO]
+And the borders shall turn for you from the south to the ascent of Akrabin and shall pass Sena, and its exit shall be south of Kadesh-Barnea and shall go out to the camp of Arad and shall pass Asemona.
 
 **Numbers 34:5**
 
-[TODO]
+And the borders shall turn from Asemona to the Torrent of Egypt, and its exit shall be the sea.
 
 **Numbers 34:6**
 
-[TODO]
+And your sea border shall be the Great Sea; it shall mark the boundary. This shall be for you the sea border.
 
 **Numbers 34:7**
 
-[TODO]
+And this shall be the border for you to the north. From the Great Sea you shall measure for yourselves by Mount Hor.
 
 **Numbers 34:8**
 
-[TODO]
+And from Mount Hor you shall measure for yourselves entering into Emath, and its exit shall be the borders of Sarada.
 
 **Numbers 34:9**
 
-[TODO]
+And the borders shall go out to Dephrōn, and its exit shall be Asernain. This shall be for you the northern border.
 
 **Numbers 34:10**
 
-[TODO]
+And you shall measure for yourselves the eastern border from Asernain to Sephama.
 
 **Numbers 34:11**
 
-[TODO]
+And the border shall go down from Sepham to Arbela eastward by the springs, and the border shall go down to Bela on the slope of the Sea of Chenereth eastward.
 
 **Numbers 34:12**
 
-[TODO]
+And the border shall go down to the Jordan, and its exit shall be the Salt Sea. This shall be for you the land and its borders all around.
 
 **Numbers 34:13**
 
-[TODO]
+And Moses commanded the sons of Israel, saying, This is the land that you shall inherit by lot, which the Lord commanded Moses to give it to the nine tribes and to the half-tribe of Manasseh,
 
 **Numbers 34:14**
 
-[TODO]
+because the tribe of the sons of Reuben and the tribe of the sons of Gad by their ancestral houses and the half-tribe of Manasseh received their allotments.
 
 **Numbers 34:15**
 
-[TODO]
+Two tribes and a half-tribe received their allotments beyond the Jordan at Jericho, from the south eastward.
 
 **Numbers 34:16**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 34:17**
 
-[TODO]
+These are the names of the men who shall allot the land to you: Eleazar the priest and Joshua son of Nun.
 
 **Numbers 34:18**
 
-[TODO]
+And one leader from each tribe you shall take to allot the land for you.
 
 **Numbers 34:19**
 
-[TODO]
+And these are the names of the men: from the tribe of Judah, Caleb son of Jephunneh.
 
 **Numbers 34:20**
 
-[TODO]
+From the tribe of Symeon, Salamiēl son of Emioud.
 
 **Numbers 34:21**
 
-[TODO]
+From the tribe of Benjamin, Eldad son of Chaslōn.
 
 **Numbers 34:22**
 
-[TODO]
+From the tribe of Dan, the leader Bacchir son of Egli.
 
 **Numbers 34:23**
 
-[TODO]
+From the sons of Joseph, from the tribe of the sons of Manasseh, the leader Aniēl son of Ouphi.
 
 **Numbers 34:24**
 
-[TODO]
+From the tribe of the sons of Ephraim, the leader Kamouēl son of Sabatha.
 
 **Numbers 34:25**
 
-[TODO]
+From the tribe of Zebulun, the leader Elisaphan son of Pharnach.
 
 **Numbers 34:26**
 
-[TODO]
+From the tribe of the sons of Issachar, the leader Phaltiēl son of Oza.
 
 **Numbers 34:27**
 
-[TODO]
+From the tribe of the sons of Asher, the leader Achiōr son of Selemi.
 
 **Numbers 34:28**
 
-[TODO]
+From the tribe of Naphtali, the leader Phadaēl son of Benamioud.
 
 **Numbers 34:29**
 
-[TODO]
+These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan.
 
 ### Chapter 35
 
 **Numbers 35:1**
 
-[TODO]
+And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
 
 **Numbers 35:2**
 
-[TODO]
+Command the sons of Israel, and they shall give to the Levites from the lots of their possession cities to dwell in, and the outskirts of the cities around them they shall give to the Levites.
 
 **Numbers 35:3**
 
-[TODO]
+And the cities shall be for them to dwell in, and their separated lands shall be for their cattle and for all their four-footed animals.
 
 **Numbers 35:4**
 
-[TODO]
+And the surrounding lands of the cities that you shall give to the Levites, from the wall of the city and outward, shall be two thousand cubits all around.
 
 **Numbers 35:5**
 
-[TODO]
+And you shall measure outside the city the east side two thousand cubits and the south side two thousand cubits and the west side two thousand cubits and the north side two thousand cubits, and the city shall be in the middle of this. These shall be for you the adjoining lands of the cities.
 
 **Numbers 35:6**
 
-[TODO]
+And the cities that you shall give to the Levites, the six cities of refuges, which you shall give for the slayer to flee there, and besides these, forty-two cities.
 
 **Numbers 35:7**
 
-[TODO]
+All the cities that you shall give to the Levites shall be forty-eight cities, these and their outskirts.
 
 **Numbers 35:8**
 
-[TODO]
+And the cities that you shall give from the possession of the sons of Israel, from the greater share many, and from the smaller share fewer. Each according to his inheritance that they will inherit, they shall give from their cities to the Levites.
 
 **Numbers 35:9**
 
-[TODO]
+And the Lord spoke to Moses, saying,
 
 **Numbers 35:10**
 
-[TODO]
+Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
 
 **Numbers 35:11**
 
-[TODO]
+And you shall designate cities for yourselves. They shall be refuges for you, for the slayer to flee there, everyone who struck down a soul unintentionally.
 
 **Numbers 35:12**
 
-[TODO]
+And the cities shall be refuges for you from the avenger of blood, and the slayer shall certainly not die until he stands before the congregation for judgment.
 
 **Numbers 35:13**
 
-[TODO]
+And the cities that you shall give, the six cities, shall be refuges for you.
 
 **Numbers 35:14**
 
-[TODO]
+Three cities you shall give beyond the Jordan, and three cities you shall give in the land of Canaan.
 
 **Numbers 35:15**
 
-[TODO]
+The refuge shall be for the sons of Israel and for the proselyte and for the resident among you. These cities shall be a refuge, for everyone striking a soul unintentionally to flee there.
 
 **Numbers 35:16**
 
-[TODO]
+But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 
 **Numbers 35:17**
 
-[TODO]
+And if with a stone in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
 
 **Numbers 35:18**
 
-[TODO]
+And if with a wooden tool in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
 
 **Numbers 35:19**
 
-[TODO]
+The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him.
 
 **Numbers 35:20**
 
-[TODO]
+And if through enmity he pushes him, or throws any object upon him from ambush, and he dies,
 
 **Numbers 35:21**
 
-[TODO]
+or in anger strikes him with the hand and he dies, the one striking shall surely be put to death. He is a murderer. The avenger of blood shall kill the murderer when he meets him.
 
 **Numbers 35:22**
 
-[TODO]
+But if suddenly, not through enmity, he pushes him, or throws any object upon him not from ambush,
 
 **Numbers 35:23**
 
-[TODO]
+or with any stone by which one may die, not knowing, it falls on him and he dies, while he was not his enemy nor seeking to do him harm,
 
 **Numbers 35:24**
 
-[TODO]
+then the congregation shall judge between the striker and the avenger of blood according to these judgments.
 
 **Numbers 35:25**
 
-[TODO]
+And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to the city of his refuge where he fled, and he shall dwell there until the great priest dies, the one whom they anointed with the holy oil.
 
 **Numbers 35:26**
 
-[TODO]
+But if the slayer goes out beyond the bounds of the city where he fled there,
 
 **Numbers 35:27**
 
-[TODO]
+and the avenger of blood finds him outside the bounds of the city of his refuge and the avenger of blood kills the slayer, he is not guilty.
 
 **Numbers 35:28**
 
-[TODO]
+For he shall dwell in the city of refuge until the great priest dies, and after the great priest dies the slayer shall return to the land of his possession.
 
 **Numbers 35:29**
 
-[TODO]
+And these things shall be for you an ordinance of judgment throughout your generations in all your dwellings.
 
 **Numbers 35:30**
 
-[TODO]
+Everyone striking a soul, by witnesses you shall kill the murderer, but one witness shall not testify against a soul for dying.
 
 **Numbers 35:31**
 
-[TODO]
+And you shall not take ransom for the life of the murderer who is guilty to be taken away, for by death he shall be put to death.
 
 **Numbers 35:32**
 
-[TODO]
+You shall not take ransom for fleeing into the city of refuges, for returning to dwell upon the land until the great priest dies.
 
 **Numbers 35:33**
 
-[TODO]
+And you shall certainly not murder the land in which you dwell, for blood murders the land, and the land shall not be atoned for from the blood poured out on it except by the blood of the one pouring it out.
 
 **Numbers 35:34**
 
-[TODO]
+And you shall not defile the land on which you dwell, upon which I tabernacle among you, for I am the Lord tabernacling in the midst of the sons of Israel.
 
 ### Chapter 36
 
 **Numbers 36:1**
 
-[TODO]
+And the leaders of the tribe of the sons of Gilead son of Machir son of Manasseh, from the tribe of the sons of Joseph, came near and spoke before Moses and before Eleazar the priest and before the leaders of the ancestral houses of the sons of Israel.
 
 **Numbers 36:2**
 
-[TODO]
+And they said to our lord, The Lord commanded to give the land of inheritance by lot to the sons of Israel, and to our lord the Lord commanded to give the inheritance of Salpaad our brother to his daughters.
 
 **Numbers 36:3**
 
-[TODO]
+And if they become wives to one of the tribes of the sons of Israel, their inheritance will be taken away from the possession of our fathers and added to the inheritance of the tribe to which they become wives, and it will be taken away from the lot of our inheritance.
 
 **Numbers 36:4**
 
-[TODO]
+And if the release of the sons of Israel comes, their inheritance will be added to the inheritance of the tribe to which they become wives, and their inheritance will be taken away from the inheritance of the tribe of our fathers.
 
 **Numbers 36:5**
 
-[TODO]
+And Moses commanded the sons of Israel by command of the Lord, saying, Thus the tribe of the sons of Joseph speaks.
 
 **Numbers 36:6**
 
-[TODO]
+This is the word that the Lord commanded for the daughters of Salpaad, saying, Let them become wives to whom it is pleasing before them. Only from the clan of their father shall they become wives.
 
 **Numbers 36:7**
 
-[TODO]
+And inheritance shall not be turned around for the sons of Israel from tribe to tribe, because the sons of Israel shall cling each to the inheritance of the tribe of his fathers.
 
 **Numbers 36:8**
 
-[TODO]
+And every daughter inheriting inheritance from the tribes of the sons of Israel shall become wife to one from the clan of her father, so that the sons of Israel may inherit each the inheritance of his fathers.
 
 **Numbers 36:9**
 
-[TODO]
+And a lot shall not be turned from tribe to another tribe, but the sons of Israel shall cling each to his own inheritance.
 
 **Numbers 36:10**
 
-[TODO]
+Just as the Lord commanded Moses, so the daughters of Salpaad did.
 
 **Numbers 36:11**
 
-[TODO]
+And Thersa and Egla and Melcha and Noua and Maala, daughters of Salpaad, became wives to their cousins.
 
 **Numbers 36:12**
 
-[TODO]
+From the clan of Manasseh, sons of Joseph, they became wives, and their inheritance remained upon the tribe of the clan of their father.
 
 **Numbers 36:13**
 
-[TODO]
+These are the commands and the ordinances and the judgments that the Lord commanded by the hand of Moses west of Moab by the Jordan at Jericho.
 
 ## Deuteronomy
 
@@ -19682,337 +19682,337 @@ Because at the Lord's command they would set out, and at the Lord's command they
 
 **Deuteronomy 1:1**
 
-[TODO]
+These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
 
 **Deuteronomy 1:2**
 
-[TODO]
+Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
 
 **Deuteronomy 1:3**
 
-[TODO]
+And it came to pass in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to all the sons of Israel according to all that the Lord commanded him to them,
 
 **Deuteronomy 1:4**
 
-[TODO]
+after he struck Sihon king of the Amorites who dwelt in Heshbon and Og king of Bashan who dwelt in Astaroth and in Edrain.
 
 **Deuteronomy 1:5**
 
-[TODO]
+Beyond the Jordan, in the land of Moab, Moses began to make this law clear, saying,
 
 **Deuteronomy 1:6**
 
-[TODO]
+The Lord our God spoke to us in Horeb, saying, Let it be enough for you to dwell on this mountain.
 
 **Deuteronomy 1:7**
 
-[TODO]
+Turn and set out, you, and enter into the hill-country of the Amorites and to all the neighbors of the Arabah, into mountain and plain and toward the south and the coastland, the land of the Canaanites and Lebanon, as far as the great river Euphrates.
 
 **Deuteronomy 1:8**
 
-[TODO]
+See, I have handed over the land before you. Having entered, inherit the land which I swore to your fathers, to Abraham and Isaac and Jacob, to give to them and to their seed after them.
 
 **Deuteronomy 1:9**
 
-[TODO]
+And I said to you at that time, saying, I will not be able to bear you alone.
 
 **Deuteronomy 1:10**
 
-[TODO]
+The Lord your God multiplied you, and behold, today you are as the stars of heaven in multitude.
 
 **Deuteronomy 1:11**
 
-[TODO]
+May the Lord, the God of your fathers, add to you, as you are, a thousandfold, and bless you just as he spoke to you.
 
 **Deuteronomy 1:12**
 
-[TODO]
+How will I be able alone to bear your toil and your standing and your disputes?
 
 **Deuteronomy 1:13**
 
-[TODO]
+Give yourselves men wise and understanding and prudent for your tribes, and I will appoint them as leaders over you.
 
 **Deuteronomy 1:14**
 
-[TODO]
+And you answered me and said, Good is the word that you spoke to do.
 
 **Deuteronomy 1:15**
 
-[TODO]
+And I took from among you men wise and understanding and prudent, and I appointed them to lead over you as chiliarchs and centurions and leaders of fifty and leaders of ten and record-keepers for your judges.
 
 **Deuteronomy 1:16**
 
-[TODO]
+And I commanded your judges at that time, saying, Hear between your brothers and judge righteously between a man and his brother and his proselyte.
 
 **Deuteronomy 1:17**
 
-[TODO]
+You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it.
 
 **Deuteronomy 1:18**
 
-[TODO]
+And I commanded you at that time all the matters that you should do.
 
 **Deuteronomy 1:19**
 
-[TODO]
+And setting out from Horeb, we went through all that great and fearful wilderness which you saw, by the road of the mountain of the Amorite, just as the Lord our God commanded us, and we came as far as Kadesh-Barnea.
 
 **Deuteronomy 1:20**
 
-[TODO]
+And I said to you, You have come as far as the mountain of the Amorite, which the Lord our God gives you.
 
 **Deuteronomy 1:21**
 
-[TODO]
+See, the Lord your God has handed over the land before you. Go up, inherit, just as the Lord the God of your fathers said to you. Do not fear and do not lose heart.
 
 **Deuteronomy 1:22**
 
-[TODO]
+And you all came near to me and said, Let us send men before us, and let them explore the land for us and report back to us the answer, the road by which we shall go up in it and the cities into which we shall enter.
 
 **Deuteronomy 1:23**
 
-[TODO]
+And the word pleased me, and I took from among you twelve men, one man by tribe.
 
 **Deuteronomy 1:24**
 
-[TODO]
+And turning, they went up into the mountain and came as far as the Ravine of Cluster and spied it out.
 
 **Deuteronomy 1:25**
 
-[TODO]
+And they took in their hands from the fruit of the land and brought it down to us and said, Good is the land that the Lord our God gives us.
 
 **Deuteronomy 1:26**
 
-[TODO]
+But you were not willing to go up, and you disobeyed the word of the Lord your God.
 
 **Deuteronomy 1:27**
 
-[TODO]
+And you were grumbling in your tents and said, Because the Lord hates us, he brought us out from the land of Egypt to hand us over into the hands of the Amorites to destroy us.
 
 **Deuteronomy 1:28**
 
-[TODO]
+Where are we going up? Our brothers turned away your heart, saying, The nation is great and many and stronger than we, and the cities great and walled up to heaven, and moreover we saw sons of giants there.
 
 **Deuteronomy 1:29**
 
-[TODO]
+And I said to you, Do not be terrified, and do not fear them.
 
 **Deuteronomy 1:30**
 
-[TODO]
+The Lord your God who goes before your face, he himself will fight together with them for you according to all that he did for you in the land of Egypt,
 
 **Deuteronomy 1:31**
 
-[TODO]
+and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
 
 **Deuteronomy 1:32**
 
-[TODO]
+And in this matter you did not trust the Lord your God,
 
 **Deuteronomy 1:33**
 
-[TODO]
+who goes ahead of you on the road, choosing for you a place, leading you in fire by night, showing you the road on which you go, and in cloud by day.
 
 **Deuteronomy 1:34**
 
-[TODO]
+And the Lord heard the voice of your words and, being provoked, swore, saying,
 
 **Deuteronomy 1:35**
 
-[TODO]
+If any of these men shall see this good land that I swore to their fathers—
 
 **Deuteronomy 1:36**
 
-[TODO]
+except Caleb son of Jephunneh. He shall see it, and to him I will give the land on which he trod and to his sons, because he clung to the things of the Lord.
 
 **Deuteronomy 1:37**
 
-[TODO]
+And the Lord was angry with me because of you, saying, Neither shall you enter there.
 
 **Deuteronomy 1:38**
 
-[TODO]
+Joshua son of Nun, the one standing by you, he shall enter there. Strengthen him, because he shall allot it to Israel.
 
 **Deuteronomy 1:39**
 
-[TODO]
+And every young child who today does not know good or evil, these shall enter there, and to these I will give it, and they shall inherit it.
 
 **Deuteronomy 1:40**
 
-[TODO]
+And you, having turned, camp yourselves in the wilderness by the road of the Red Sea.
 
 **Deuteronomy 1:41**
 
-[TODO]
+And you answered me and said, We sinned before the Lord our God. We ourselves, going up, will wage war according to all that the Lord our God commanded us. And each taking up his weapons of war and gathering yourselves, you were going up into the mountain.
 
 **Deuteronomy 1:42**
 
-[TODO]
+And the Lord said to me, Tell them, You shall not go up, nor shall you fight, for I am not with you, and you shall not be crushed before your enemies.
 
 **Deuteronomy 1:43**
 
-[TODO]
+And I spoke to you, and you did not listen to me, and you transgressed the word of the Lord, and forcing your way, you went up into the mountain.
 
 **Deuteronomy 1:44**
 
-[TODO]
+And the Amorite who dwelt in that mountain came out to meet you and pursued you as bees might do and were wounding you from Seir to Herma.
 
 **Deuteronomy 1:45**
 
-[TODO]
+And sitting down, you were weeping before the Lord, and the Lord did not hear your voice nor pay attention to you.
 
 **Deuteronomy 1:46**
 
-[TODO]
+And you remained in Kadesh many days, however many days you remained.
 
 ### Chapter 2
 
 **Deuteronomy 2:1**
 
-[TODO]
+And turning, we set out into the wilderness by the way of the Red Sea, just as the Lord spoke to me, and we went around Mount Seir many days.
 
 **Deuteronomy 2:2**
 
-[TODO]
+And the Lord said to me,
 
 **Deuteronomy 2:3**
 
-[TODO]
+Let it be enough for you to go around this mountain. Turn then to the north.
 
 **Deuteronomy 2:4**
 
-[TODO]
+And command the people, saying, You are passing through the borders of your brothers, the sons of Esau, who dwell in Seir, and they shall fear you and be very wary of you.
 
 **Deuteronomy 2:5**
 
-[TODO]
+Do not join battle with them, for I shall certainly not give you from their land even a step of foot, because I have given Mount Seir to the sons of Esau as an inheritance.
 
 **Deuteronomy 2:6**
 
-[TODO]
+Buy food from them with silver and eat, and water by measure take from them for silver and drink.
 
 **Deuteronomy 2:7**
 
-[TODO]
+For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
 
 **Deuteronomy 2:8**
 
-[TODO]
+And we passed by our brothers, the sons of Esau, who dwell in Seir, by the road of the Arabah, from Ailon and from Gasiongaber. And turning, we passed by the road of the wilderness of Moab.
 
 **Deuteronomy 2:9**
 
-[TODO]
+And the Lord said to me, Do not treat the Moabites as enemies, and do not join them in war, for I shall certainly not give you from their land as an inheritance, because I have given Seir to the sons of Lot as an inheritance.
 
 **Deuteronomy 2:10**
 
-[TODO]
+The Ommin lived on it formerly, a great and many people and mighty, like the Anakim.
 
 **Deuteronomy 2:11**
 
-[TODO]
+These also are counted as Raphain, like the Anakim, and the Moabites call them Ommin.
 
 **Deuteronomy 2:12**
 
-[TODO]
+And in Seir the Chorraean dwelt formerly, and the sons of Esau destroyed them and crushed them from before them and settled in their place, just as Israel did to the land of his inheritance which the Lord gave them.
 
 **Deuteronomy 2:13**
 
-[TODO]
+Now then rise and set out, you, and pass through the Ravine of Zaret. And we passed through the Ravine of Zaret.
 
 **Deuteronomy 2:14**
 
-[TODO]
+And the days that we traveled from Kadesh-Barnea until we passed through the Ravine of Zaret were thirty-eight years, until all the generation of fighting men fell away, dying from the camp, just as God swore to them.
 
 **Deuteronomy 2:15**
 
-[TODO]
+And the hand of God was upon them to consume them from the camp until they fell away.
 
 **Deuteronomy 2:16**
 
-[TODO]
+And it came to pass, when all the fighting men had fallen away, dying from the midst of the people,
 
 **Deuteronomy 2:17**
 
-[TODO]
+the Lord spoke to me, saying,
 
 **Deuteronomy 2:18**
 
-[TODO]
+You are passing today the borders of Moab, Seir.
 
 **Deuteronomy 2:19**
 
-[TODO]
+And you will come near to the sons of Ammon. Do not treat them as enemies and do not join them in war, for I shall certainly not give you from the land of the sons of Ammon as an inheritance, because I have given it to the sons of Lot as an inheritance.
 
 **Deuteronomy 2:20**
 
-[TODO]
+It is counted as land of Raphain, for Raphain dwelt on it formerly, and the Ammanites call them Zomzommin,
 
 **Deuteronomy 2:21**
 
-[TODO]
+a great and many people and stronger than you, like the Anakim. And the Lord destroyed them from before them, and they inherited and dwelt in their place to this day,
 
 **Deuteronomy 2:22**
 
-[TODO]
+just as they did for the sons of Esau who dwell in Seir, in the way they crushed the Chorraean from before them and inherited and dwelt in their place to this day.
 
 **Deuteronomy 2:23**
 
-[TODO]
+And the Euaeans who dwelt in Aseroth as far as Gaza, and the Cappadocians who came out from Cappadocia crushed them and dwelt in their place.
 
 **Deuteronomy 2:24**
 
-[TODO]
+Now then rise and set out and pass through the Ravine of Arnon. Behold, I have handed into your hands Sihon king of Heshbon the Amorite and his land. Begin to inherit; join battle with him.
 
 **Deuteronomy 2:25**
 
-[TODO]
+On this day begin to give your terror and your fear on the face of all the nations under heaven, who, hearing your name, shall be troubled and shall have birth-pains from before your face.
 
 **Deuteronomy 2:26**
 
-[TODO]
+And I sent envoys from the wilderness of Kedamoth to Sihon king of Heshbon with words of peace, saying,
 
 **Deuteronomy 2:27**
 
-[TODO]
+I shall pass through your land. By the road I shall pass. I shall not turn aside right or left.
 
 **Deuteronomy 2:28**
 
-[TODO]
+Food for silver you shall give me and I shall eat, and water for silver you shall give me and I shall drink, except that I shall pass through on foot,
 
 **Deuteronomy 2:29**
 
-[TODO]
+just as the sons of Esau dwelling in Seir did for me, and the Moabites dwelling in Aroer, until I pass through the Jordan into the land that the Lord our God gives us.
 
 **Deuteronomy 2:30**
 
-[TODO]
+And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 
 **Deuteronomy 2:31**
 
-[TODO]
+And the Lord said to me, Behold, I have begun to hand over before your face Sihon king of Heshbon the Amorite and his land. Begin to inherit his land.
 
 **Deuteronomy 2:32**
 
-[TODO]
+And Sihon king of Heshbon came out to meet us, he and all his people, for battle at Jassa.
 
 **Deuteronomy 2:33**
 
-[TODO]
+And the Lord our God handed him over before our face, and we struck him and his sons and all his people.
 
 **Deuteronomy 2:34**
 
-[TODO]
+And we seized all his cities at that time and utterly destroyed every city in succession, and their women and their children. We left no living captive.
 
 **Deuteronomy 2:35**
 
-[TODO]
+Except the cattle we plundered and the spoils of the cities we took.
 
 **Deuteronomy 2:36**
 
-[TODO]
+From Aroer, which is by the lip of the torrent Arnon, and the city that is in the ravine, even to the mountain of Gilead, there was no city that escaped us. The Lord our God handed all of them into our hands.
 
 **Deuteronomy 2:37**
 
-[TODO]
+Except to the land of the sons of Ammon we did not come near, all adjoining the torrent Jabbok, and the cities in the hill country, just as the Lord our God commanded us.
 
 ### Chapter 3
 

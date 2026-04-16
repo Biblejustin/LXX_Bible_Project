@@ -79027,7 +79027,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -79047,10 +79047,10 @@ Greek: ποιησον σεαυτω δυο σαλπιγγας αργυρας ελ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Make for yourself two silver trumpets; you shall make them hammered, and they shall be for you for calling the congregation and for breaking camp.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δύο σάλπιγγας ἀργυρᾶς ἐλατάς | lemma: σάλπιγξ | ἀργύρεος | ἐλατός | morphology: accusative plural noun phrase | chosen_rendering: two hammered silver trumpets | alternate_renderings: two beaten silver trumpets | rationale: Keeps both the material and crafted form of the signal instruments. | status: drafted
 
 Publishable footnotes:
 - [TODO add footnote draft if needed]
@@ -79067,7 +79067,7 @@ Greek: και σαλπισεις εν αυταις και συναχθησετα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall blow with them, and the whole congregation shall gather to the door of the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79087,7 +79087,7 @@ Greek: εαν δε εν μια σαλπισωσιν προσελευσονται
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if they blow with one, all the chiefs, the leaders of Israel, shall come near to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79107,7 +79107,7 @@ Greek: και σαλπιειτε σημασιαν και εξαρουσιν αι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall blow a signal, and the camps camping to the east shall set out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79127,7 +79127,7 @@ Greek: και σαλπιειτε σημασιαν δευτεραν και εξα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall blow a second signal, and the camps camping to the south shall set out. And you shall blow a third signal, and the camps camping by the sea shall set out. And you shall blow a fourth signal, and the camps camping to the north shall set out. They shall blow a signal when they set out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79147,7 +79147,7 @@ Greek: και οταν συναγαγητε την συναγωγην σαλπι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And when you gather the congregation, you shall blow, but not a signal.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79167,7 +79167,7 @@ Greek: και οι υιοι ααρων οι ιερεις σαλπιουσιν τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79187,7 +79187,7 @@ Greek: εαν δε εξελθητε εις πολεμον εν τη γη υμω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if you go out to war in your land against the adversaries standing against you, then you shall signal with the trumpets, and you shall be remembered before the Lord and be saved from your enemies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79207,7 +79207,7 @@ Greek: και εν ταις ημεραις της ευφροσυνης υμων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79227,7 +79227,7 @@ Greek: και εγενετο εν τω ενιαυτω τω δευτερω εν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it happened in the second year, in the second month, on the twentieth day of the month, that the cloud went up from the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79247,7 +79247,7 @@ Greek: και εξηραν οι υιοι ισραηλ συν απαρτιαις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel set out by their stages in the wilderness of Sinai, and the cloud stood in the wilderness of Paran.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79267,7 +79267,7 @@ Greek: και εξηραν πρωτοι δια φωνης κυριου εν χε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out first by the word of the Lord by Moses' hand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79287,7 +79287,7 @@ Greek: και εξηραν ταγμα παρεμβολης υιων ιουδα �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the order of the camp of the sons of Judah set out first with their strength, and over their strength was Nahshon son of Amminadab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79307,7 +79307,7 @@ Greek: και επι της δυναμεως φυλης υιων ισσαχαρ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Issachar was Nethanel son of Zuar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79327,7 +79327,7 @@ Greek: και επι της δυναμεως φυλης υιων ζαβουλω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Zebulun was Eliab son of Helon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79347,7 +79347,7 @@ Greek: και καθελουσιν την σκηνην και εξαρουσιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they took down the tent, and the sons of Gershon and the sons of Merari set out carrying the tent.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79367,7 +79367,7 @@ Greek: και εξηραν ταγμα παρεμβολης ρουβην συν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the order of the camp of Reuben set out with their strength, and over their strength was Elizur son of Shedeur.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79387,7 +79387,7 @@ Greek: και επι της δυναμεως φυλης υιων συμεων σ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Simeon was Shelumiel son of Zurishaddai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79407,7 +79407,7 @@ Greek: και επι της δυναμεως φυλης υιων γαδ ελισ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Gad was Eliasaph son of Reuel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79427,7 +79427,7 @@ Greek: και εξαρουσιν οι υιοι κααθ αιροντες τα α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Kohath set out carrying the holy things, and they would set up the tent until these arrived.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79447,7 +79447,7 @@ Greek: και εξαρουσιν ταγμα παρεμβολης εφραιμ σ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the order of the camp of Ephraim set out with their strength, and over their strength was Elishama son of Ammihud.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79467,7 +79467,7 @@ Greek: και επι της δυναμεως φυλης υιων μανασση 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Manasseh was Gamaliel son of Pedahzur.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79487,7 +79487,7 @@ Greek: και επι της δυναμεως φυλης υιων βενιαμι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Benjamin was Abidan son of Gideoni.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79507,7 +79507,7 @@ Greek: και εξαρουσιν ταγμα παρεμβολης υιων δαν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the order of the camp of the sons of Dan set out last of all the camps with their strength, and over their strength was Ahiezer son of Ammishaddai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79527,7 +79527,7 @@ Greek: και επι της δυναμεως φυλης υιων ασηρ φαγ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Asher was Pagiel son of Ocran.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79547,7 +79547,7 @@ Greek: και επι της δυναμεως φυλης υιων νεφθαλι 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And over the strength of the tribe of the sons of Naphtali was Ahira son of Enan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79567,7 +79567,7 @@ Greek: αυται αι στρατιαι υιων ισραηλ και εξηρα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the armies of the sons of Israel, and they set out with their strength.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79587,13 +79587,13 @@ Greek: και ειπεν μωυσης τω ιωβαβ υιω ραγουηλ τω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to Hobab son of Reuel the Midianite, Moses' relative by marriage, We are setting out to the place of which the Lord said, This I will give to you. Come with us, and we will do you good, because the Lord has spoken good things concerning Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῷ γαμβρῷ Μωυσῆ | lemma: γαμβρός | Μωυσῆς | morphology: dative singular noun phrase | chosen_rendering: Moses' relative by marriage | alternate_renderings: Moses' father-in-law; Moses' brother-in-law | rationale: Leaves the kinship term open where the Greek can point to more than one in-law relation. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: relative by marriage | footnote_text: The Greek kinship term can point to more than one kind of in-law relation. This draft keeps it broad rather than forcing a narrower family label too early. | source_basis: kinship ambiguity | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -79607,7 +79607,7 @@ Greek: και ειπεν προς αυτον ου πορευσομαι αλλα 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he said to him, I will not go, but I will go to my land and to my family.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79627,7 +79627,7 @@ Greek: και ειπεν μη εγκαταλιπης ημας ου εινεκε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he said, Do not leave us, because for this reason you were with us in the wilderness, and you shall be among us an elder.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79647,7 +79647,7 @@ Greek: και εσται εαν πορευθης μεθ' ημων και εστ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be, if you go with us, then whatever good things the Lord does for us, we will do for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79667,10 +79667,10 @@ Greek: και εξηραν εκ του ορους κυριου οδον τριω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the mountain of the Lord a three days' journey, and the ark of the covenant of the Lord went before them a three days' journey to seek out rest for them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατασκέψασθαι αὐτοῖς ἀνάπαυσιν | lemma: κατασκέπτομαι | ἀνάπαυσις | morphology: aorist middle infinitive + accusative singular noun | chosen_rendering: to seek out rest for them | alternate_renderings: to find a resting place for them | rationale: Keeps the ark actively going before them to search out their resting place. | status: drafted
 
 Publishable footnotes:
 - [TODO add footnote draft if needed]
@@ -79687,13 +79687,13 @@ Greek: και εγενετο εν τω εξαιρειν την κιβωτον κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it happened, when the ark set out, that Moses said, Rise up, Lord; let your enemies be scattered, let all who hate you flee.
 
 Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Rise up, Lord | footnote_text: In this source file the ark sayings appear before the cloud line rather than after it. This draft follows the local verse map already used in the project files. | source_basis: source verse map | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -79707,7 +79707,7 @@ Greek: και εν τη καταπαυσει ειπεν επιστρεφε κυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in its resting he said, Return, Lord, the thousands of myriads in Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79727,7 +79727,7 @@ Greek: και η νεφελη εγενετο σκιαζουσα επ' αυτοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cloud was overshadowing them by day when they set out from the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79749,7 +79749,7 @@ Greek: και ην ο λαος γογγυζων πονηρα εναντι κυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people were grumbling evil things before the Lord, and the Lord heard and burned with anger, and fire from the Lord burned among them and devoured some part of the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79769,7 +79769,7 @@ Greek: και εκεκραξεν ο λαος προς μωυσην και ηυξ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people cried out to Moses, and Moses prayed to the Lord, and the fire died down.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79789,7 +79789,7 @@ Greek: και εκληθη το ονομα του τοπου εκεινου εμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of that place was called Burning, because fire from the Lord burned among them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79809,13 +79809,13 @@ Greek: και ο επιμικτος ο εν αυτοις επεθυμησαν ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the mixed company among them desired a desire, and sitting down, the sons of Israel also wept and said, Who will feed us meat?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ ἐπίμικτος ... ἐπεθύμησαν ἐπιθυμίαν | lemma: ἐπίμικτος | ἐπιθυμέω | ἐπιθυμία | morphology: nominative singular adjective/substantive + cognate verb/object | chosen_rendering: the mixed company ... desired a desire | alternate_renderings: the mixed multitude ... craved intensely | rationale: Preserves both the mixed-group label and the emphatic cognate desire phrasing. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: desired a desire | footnote_text: The Greek uses a cognate verb-and-noun pair here for emphasis. This draft leaves the intensification visible instead of smoothing it away completely. | source_basis: cognate emphasis | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -79829,7 +79829,7 @@ Greek: εμνησθημεν τους ιχθυας ους ησθιομεν εν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: We remember the fish that we ate in Egypt for nothing, and the cucumbers and the melons and the leeks and the onions and the garlic.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79849,7 +79849,7 @@ Greek: νυνι δε η ψυχη ημων καταξηρος ουδεν πλην
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But now our life is dried up. There is nothing except this manna before our eyes.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79869,7 +79869,7 @@ Greek: το δε μαννα ωσει σπερμα κοριου εστιν και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the manna was like coriander seed, and its appearance was like the appearance of crystal.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79889,7 +79889,7 @@ Greek: και διεπορευετο ο λαος και συνελεγον κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people would go around and gather it, and they would grind it in the mill and pound it in the mortar and boil it in the pot and make it into cakes, and its taste was like the flavor of a cake from oil.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79909,7 +79909,7 @@ Greek: και οταν κατεβη η δροσος επι την παρεμβο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And when the dew came down upon the camp at night, the manna came down upon it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79929,7 +79929,7 @@ Greek: και ηκουσεν μωυσης κλαιοντων αυτων κατα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses heard them weeping by their clans, each at his door, and the anger of the Lord burned greatly, and in Moses' sight it was evil.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79949,7 +79949,7 @@ Greek: και ειπεν μωυσης προς κυριον ινα τι εκακ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to the Lord, Why have you mistreated your servant, and why have I not found favor before you, to lay the rush of all this people upon me?
 
 Decision rows:
 - [TODO add decision rows]
@@ -79969,7 +79969,7 @@ Greek: μη εγω εν γαστρι ελαβον παντα τον λαον τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Did I conceive all this people in the womb, or did I bear them, that you say to me, Take him in your bosom, like a nurse carrying the suckling child, into the land that you swore to their fathers?
 
 Decision rows:
 - [TODO add decision rows]
@@ -79989,7 +79989,7 @@ Greek: ποθεν μοι κρεα δουναι παντι τω λαω τουτω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From where is there meat for me to give to all this people? For they weep over me, saying, Give us meat, that we may eat.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80009,7 +80009,7 @@ Greek: ου δυνησομαι εγω μονος φερειν τον λαον τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I am not able, I alone, to bear all this people, because this word is too heavy for me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80029,7 +80029,7 @@ Greek: ει δε ουτως συ ποιεις μοι αποκτεινον με �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if this is how you deal with me, kill me by slaughter, if I have found mercy before you, so that I may not see my affliction.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80049,7 +80049,7 @@ Greek: και ειπεν κυριος προς μωυσην συναγαγε μ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Gather for me seventy men from the elders of Israel, whom you yourself know that these are elders of the people and their officers, and you shall bring them to the tent of testimony, and they shall stand there with you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80069,13 +80069,13 @@ Greek: και καταβησομαι και λαλησω εκει μετα σο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I will come down and speak with you there, and I will take from the Spirit upon you and place it upon them, and they shall help bear with you the rush of the people, and you shall not bear them alone.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀφελῶ ἀπὸ τοῦ πνεύματος τοῦ ἐπὶ σοί | lemma: ἀφαιρέω | πνεῦμα | morphology: future active indicative 1 singular + genitive singular noun phrase | chosen_rendering: I will take from the Spirit upon you | alternate_renderings: I will take some of the spirit on you | rationale: Keeps the transfer of Spirit-language explicit in the appointment of the seventy elders. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: take from the Spirit upon you | footnote_text: The Greek describes the Lord taking from the Spirit on Moses and placing it on the elders. This draft keeps that transfer language explicit. | source_basis: Spirit transfer language | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -80089,7 +80089,7 @@ Greek: και τω λαω ερεις αγνισασθε εις αυριον κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And to the people you shall say, Purify yourselves for tomorrow, and you shall eat meat, because you wept before the Lord, saying, Who will feed us meat? For it was good for us in Egypt. And the Lord will give you meat to eat, and you shall eat meat.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80109,7 +80109,7 @@ Greek: ουχ ημεραν μιαν φαγεσθε ουδε δυο ουδε πε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: You shall not eat for one day, nor two, nor five days, nor ten days, nor twenty days,
 
 Decision rows:
 - [TODO add decision rows]
@@ -80129,13 +80129,13 @@ Greek: εως μηνος ημερων φαγεσθε εως αν εξελθη ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: but for a month of days you shall eat, until it comes out of your nostrils and becomes loathsome to you, because you disobeyed the Lord who is among you and wept before him, saying, Why did we come out from Egypt?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἕως ἂν ἐξέλθῃ ἐκ τῶν μυκτήρων ὑμῶν | lemma: ἕως | ἐξέρχομαι | μυκτήρ | morphology: conjunction + aorist subjunctive 3 singular + genitive plural noun | chosen_rendering: until it comes out of your nostrils | alternate_renderings: until it comes out your nose | rationale: Keeps the deliberately harsh bodily image in the judgment speech. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: comes out of your nostrils | footnote_text: The judgment speech is intentionally graphic. This draft keeps the bodily image instead of softening it to a vague statement of disgust. | source_basis: graphic judgment image | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -80149,7 +80149,7 @@ Greek: και ειπεν μωυσης εξακοσιαι χιλιαδες πεζ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said, The people in whose midst I am are six hundred thousand on foot, and you said, I will give them meat, and they shall eat for a month of days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80169,7 +80169,7 @@ Greek: μη προβατα και βοες σφαγησονται αυτοις �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Will sheep and cattle be slaughtered for them, and will it be enough for them? Or will every fish of the sea be gathered for them, and will it be enough for them?
 
 Decision rows:
 - [TODO add decision rows]
@@ -80189,7 +80189,7 @@ Greek: και ειπεν κυριος προς μωυσην μη χειρ κυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80209,7 +80209,7 @@ Greek: και εξηλθεν μωυσης και ελαλησεν προς το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses went out and spoke to the people the words of the Lord, and he gathered seventy men from the elders of the people and stood them around the tent.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80229,7 +80229,7 @@ Greek: και κατεβη κυριος εν νεφελη και ελαλησε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord came down in a cloud and spoke to him, and he took from the Spirit upon him and placed it upon the seventy elders. And when the Spirit rested upon them, they prophesied, and they did not continue.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80249,7 +80249,7 @@ Greek: και κατελειφθησαν δυο ανδρες εν τη παρε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And two men remained in the camp, the name of the one Eldad and the name of the second Modad, and the Spirit rested upon them. And these were among those enrolled, and they had not come to the tent, and they prophesied in the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80269,7 +80269,7 @@ Greek: και προσδραμων ο νεανισκος απηγγειλεν μ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a young man ran and reported to Moses and said, Eldad and Modad are prophesying in the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80289,7 +80289,7 @@ Greek: και αποκριθεις ιησους ο του ναυη ο παρεσ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Joshua son of Nun, the attendant of Moses, the chosen one, answered and said, My lord Moses, stop them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80309,13 +80309,13 @@ Greek: και ειπεν αυτω μωυσης μη ζηλοις συ μοι κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to him, Are you jealous for me? Would that all the Lord's people were prophets, whenever the Lord might give his Spirit upon them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τίς δῴη πάντα τὸν λαὸν Κυρίου προφήτας | lemma: δίδωμι | λαός | κύριος | προφήτης | morphology: optative expression + accusative phrase | chosen_rendering: Would that all the Lord's people were prophets | alternate_renderings: Who will give that all the Lord's people be prophets? | rationale: Keeps Moses' striking wish in a natural English optative form. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Would that all the Lord's people were prophets | footnote_text: Moses responds with a wish, not a rebuke alone. This draft keeps the prophetic wish explicit and central. | source_basis: optative wish | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -80329,7 +80329,7 @@ Greek: και απηλθεν μωυσης εις την παρεμβολην α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses went away into the camp, he and the elders of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80349,7 +80349,7 @@ Greek: και πνευμα εξηλθεν παρα κυριου και εξεπ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a wind went out from the Lord and swept quail from the sea and threw them over the camp, a day's journey this way and a day's journey that way, around the camp, about two cubits above the ground.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80369,7 +80369,7 @@ Greek: και αναστας ο λαος ολην την ημεραν και ο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people rose all that day and all that night and all the next day and gathered the quail. The one gathering the least gathered ten cors, and they spread them out for themselves all around the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80389,7 +80389,7 @@ Greek: τα κρεα ετι ην εν τοις οδουσιν αυτων πρι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The meat was still in their teeth before it failed, and the Lord burned with anger against the people, and the Lord struck the people with a very great plague.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80409,7 +80409,7 @@ Greek: και εκληθη το ονομα του τοπου εκεινου μν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of that place was called Graves of Desire, because there they buried the desirous people.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80429,7 +80429,7 @@ Greek: απο μνηματων επιθυμιας εξηρεν ο λαος ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From Graves of Desire the people set out to Hazeroth, and the people came to be in Hazeroth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80451,13 +80451,13 @@ Greek: και ελαλησεν μαριαμ και ααρων κατα μωυσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Miriam and Aaron spoke against Moses because of the Cushite woman whom Moses took, because he had taken a Cushite woman.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῆς γυναικὸς τῆς Αἰθιοπίσσης | lemma: γυνή | Αἰθιοπίς | morphology: genitive singular noun phrase | chosen_rendering: the Cushite woman | alternate_renderings: the Ethiopian woman | rationale: Uses a broader ancient-ethnic rendering while staying close to the Greek term. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Cushite woman | footnote_text: The Greek refers to Moses' wife with an ethnic term often rendered Ethiopian. This draft uses Cushite to keep the ancient reference broad. | source_basis: ethnic term choice | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -80471,7 +80471,7 @@ Greek: και ειπαν μη μωυση μονω λελαληκεν κυριο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they said, Has the Lord spoken only by Moses? Has he not also spoken by us? And the Lord heard it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80491,7 +80491,7 @@ Greek: και ο ανθρωπος μωυσης πραυς σφοδρα παρα 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the man Moses was very gentle, beyond all the people who were upon the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80511,7 +80511,7 @@ Greek: και ειπεν κυριος παραχρημα προς μωυσην �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said at once to Moses and Miriam and Aaron, Come out, you three, to the tent of testimony. And the three went out to the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80531,7 +80531,7 @@ Greek: και κατεβη κυριος εν στυλω νεφελης και ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80551,7 +80551,7 @@ Greek: και ειπεν προς αυτους ακουσατε των λογω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he said to them, Hear my words: if there is a prophet of yours to the Lord, I will make myself known to him in a vision, and in sleep I will speak to him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80571,7 +80571,7 @@ Greek: ουχ ουτως ο θεραπων μου μωυσης εν ολω τω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Not so with my servant Moses; in all my house he is faithful.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80591,13 +80591,13 @@ Greek: στομα κατα στομα λαλησω αυτω εν ειδει κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Mouth to mouth I will speak to him, in visible form and not by riddles, and he has seen the glory of the Lord. And why were you not afraid to speak against my servant Moses?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: στόμα κατὰ στόμα | lemma: στόμα | morphology: accusative singular noun phrase | chosen_rendering: mouth to mouth | alternate_renderings: face to face; directly | rationale: Keeps the striking directness formula in the Lord's defense of Moses. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Mouth to mouth | footnote_text: The Greek uses a direct-contact expression here in contrast to visions and riddles. This draft keeps that sharp contrast visible. | source_basis: direct revelation formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -80611,7 +80611,7 @@ Greek: και οργη θυμου κυριου επ' αυτοις και απη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the anger of the Lord's wrath was upon them, and he departed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80631,7 +80631,7 @@ Greek: και η νεφελη απεστη απο της σκηνης και ι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cloud departed from the tent, and behold, Miriam had become leprous like snow. And Aaron looked upon Miriam, and behold, she was leprous.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80651,7 +80651,7 @@ Greek: και ειπεν ααρων προς μωυσην δεομαι κυρι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron said to Moses, I beg, my lord, do not lay sin upon us, because we were ignorant and because we sinned.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80671,7 +80671,7 @@ Greek: μη γενηται ωσει ισον θανατω ωσει εκτρωμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Let her not become as one equal to death, like a miscarriage coming out from the womb of its mother and devouring half her flesh.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80691,7 +80691,7 @@ Greek: και εβοησεν μωυσης προς κυριον λεγων ο θ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses cried out to the Lord, saying, O God, I beg you, heal her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80711,7 +80711,7 @@ Greek: και ειπεν κυριος προς μωυσην ει ο πατηρ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, If her father had spit a spit into her face, would she not be ashamed seven days? Let her be set apart outside the camp seven days, and after these things she shall come in.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80731,7 +80731,7 @@ Greek: και αφωρισθη μαριαμ εξω της παρεμβολης �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Miriam was set apart outside the camp seven days, and the people did not set out until Miriam was cleansed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80751,7 +80751,7 @@ Greek: και μετα ταυτα εξηρεν ο λαος εξ ασηρωθ κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And after these things the people set out from Hazeroth and camped in the wilderness of Paran.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80773,7 +80773,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -80793,7 +80793,7 @@ Greek: αποστειλον σεαυτω ανδρας και κατασκεψα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Send for yourself men, and let them spy out the land of the Canaanites, which I am giving to the sons of Israel for possession. One man each by tribe, by the clans of their fathers, you shall send them, every one a leader among them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80813,7 +80813,7 @@ Greek: και εξαπεστειλεν αυτους μωυσης εκ της ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent them from the wilderness of Paran by the Lord's word. All these men were leaders of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80833,7 +80833,7 @@ Greek: και ταυτα τα ονοματα αυτων της φυλης ρου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these are their names: from the tribe of Reuben, Salamiēl son of Zacchour;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80853,7 +80853,7 @@ Greek: της φυλης συμεων σαφατ υιος σουρι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Simeon, Saphat son of Souri;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80873,7 +80873,7 @@ Greek: της φυλης ιουδα χαλεβ υιος ιεφοννη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Judah, Caleb son of Jephonnē;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80893,7 +80893,7 @@ Greek: της φυλης ισσαχαρ ιγααλ υιος ιωσηφ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Issachar, Igaal son of Iōsēph;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80913,7 +80913,7 @@ Greek: της φυλης εφραιμ αυση υιος ναυη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Ephraim, Ausē son of Nauē;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80933,7 +80933,7 @@ Greek: της φυλης βενιαμιν φαλτι υιος ραφου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Benjamin, Phalti son of Raphou;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80953,7 +80953,7 @@ Greek: της φυλης ζαβουλων γουδιηλ υιος σουδι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Zebulun, Goudiēl son of Soudi;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80973,7 +80973,7 @@ Greek: της φυλης ιωσηφ των υιων μανασση γαδδι υ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Joseph, from the sons of Manasseh, Gaddi son of Sousi;
 
 Decision rows:
 - [TODO add decision rows]
@@ -80993,7 +80993,7 @@ Greek: της φυλης δαν αμιηλ υιος γαμαλι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Dan, Amiēl son of Gamali;
 
 Decision rows:
 - [TODO add decision rows]
@@ -81013,7 +81013,7 @@ Greek: της φυλης ασηρ σαθουρ υιος μιχαηλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Asher, Sathour son of Michaēl;
 
 Decision rows:
 - [TODO add decision rows]
@@ -81033,7 +81033,7 @@ Greek: της φυλης νεφθαλι ναβι υιος ιαβι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Naphtali, Nabi son of Iabi;
 
 Decision rows:
 - [TODO add decision rows]
@@ -81053,7 +81053,7 @@ Greek: της φυλης γαδ γουδιηλ υιος μακχι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: from the tribe of Gad, Goudiēl son of Macchi.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81073,13 +81073,13 @@ Greek: ταυτα τα ονοματα των ανδρων ους απεστει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the names of the men whom Moses sent to spy out the land, and Moses renamed Ausē son of Nauē as Joshua.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπωνόμασεν ... Ἰησοῦν | lemma: ἐπονομάζω | Ἰησοῦς | morphology: aorist active indicative 3 singular + accusative singular proper noun | chosen_rendering: renamed ... Joshua | alternate_renderings: renamed ... Iesous/Jesus | rationale: Uses the familiar English form Joshua while noting the Greek name form behind it. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Joshua | footnote_text: The Greek form here is Iesous. This draft uses the conventional English form Joshua for continuity with English Bible naming. | source_basis: name form | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -81093,7 +81093,7 @@ Greek: και απεστειλεν αυτους μωυσης κατασκεψα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent them to spy out the land of Canaan and said to them, Go up by this wilderness, and you shall go up into the hill country.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81113,7 +81113,7 @@ Greek: και οψεσθε την γην τις εστιν και τον λαο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall look at the land, what it is, and the people dwelling upon it, whether it is stronger or weak, whether they are few or many.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81133,7 +81133,7 @@ Greek: και τις η γη εις ην ουτοι εγκαθηνται επ' �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And what is the land on which these dwell, whether it is good or bad, and what are the cities in which they dwell, whether walled or unwalled.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81153,7 +81153,7 @@ Greek: και τις η γη ει πιων η παρειμενη ει εστιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And what is the land, whether rich or poor, whether there are trees in it or not. And be courageous and take from the fruits of the land. And the days were the spring days, firstfruits of grape.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81173,7 +81173,7 @@ Greek: και αναβαντες κατεσκεψαντο την γην απο �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they went up and spied out the land from the wilderness of Sin as far as Rehob, as one enters Hamath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81193,7 +81193,7 @@ Greek: και ανεβησαν κατα την ερημον και ηλθον ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they went up through the wilderness and came as far as Hebron, and there were Achiman and Sessi and Tholami, the offspring of Anak. And Hebron was built seven years before Tanis of Egypt.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81213,7 +81213,7 @@ Greek: και ηλθοσαν εως φαραγγος βοτρυος και κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they came as far as the Ravine of Cluster and spied it out, and they cut from there a branch with one cluster of grapes on it, and they carried it on poles, and also some of the pomegranates and the figs.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81233,7 +81233,7 @@ Greek: τον τοπον εκεινον επωνομασαν φαραγξ βοτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: That place they named Ravine of Cluster because of the cluster which the sons of Israel cut from there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81253,7 +81253,7 @@ Greek: και απεστρεψαν εκειθεν κατασκεψαμενοι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they returned from there after spying out the land in forty days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81273,7 +81273,7 @@ Greek: και πορευθεντες ηλθον προς μωυσην και α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And going on, they came to Moses and Aaron and to the whole congregation of the sons of Israel in the wilderness of Paran at Kadesh, and they brought back word to them and to all the congregation, and they showed the fruit of the land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81293,7 +81293,7 @@ Greek: και διηγησαντο αυτω και ειπαν ηλθαμεν ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they described it to him and said, We came into the land where you sent us, a land flowing with milk and honey, and this is its fruit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81313,7 +81313,7 @@ Greek: αλλ' η οτι θρασυ το εθνος το κατοικουν επ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But the people dwelling upon it are bold, and the cities are fortified, walled, and very large, and we saw there the offspring of Anak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81333,7 +81333,7 @@ Greek: και αμαληκ κατοικει εν τη γη τη προς νοτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Amalek dwells in the land toward the south, and the Hittite and the Hivite and the Jebusite and the Amorite dwell in the hill country, and the Canaanite dwells by the sea and beside the Jordan River.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81353,7 +81353,7 @@ Greek: και κατεσιωπησεν χαλεβ τον λαον προς μω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81373,7 +81373,7 @@ Greek: και οι ανθρωποι οι συναναβαντες μετ' αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the men going up with him said, We will not go up, because we will not be able to go up against the nation, because it is stronger than we are.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81393,13 +81393,13 @@ Greek: και εξηνεγκαν εκστασιν της γης ην κατεσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they brought an alarming report of the land that they had spied out to the sons of Israel, saying, The land through which we passed to spy it out is a land devouring those dwelling upon it, and all the people whom we saw in it were very tall men.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: γῆ κατεσθούσα τοὺς κατοικοῦντας ἐπ᾽ αὐτῆς | lemma: γῆ | κατεσθίω | κατοικέω | morphology: nominative singular noun phrase + present active participle phrase | chosen_rendering: a land devouring those dwelling upon it | alternate_renderings: a land that eats its inhabitants | rationale: Keeps the exaggerated, ominous image in the spies' bad report. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a land devouring those dwelling upon it | footnote_text: The Greek report is deliberately extreme. This draft keeps the devouring-land image rather than reducing it to a milder summary. | source_basis: hostile land image | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -81413,7 +81413,7 @@ Greek: και εκει εωρακαμεν τους γιγαντας και ημ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And there we saw the giants, and before them we were like locusts, and so we were before them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81435,7 +81435,7 @@ Greek: και αναλαβουσα πασα η συναγωγη εδωκεν φ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the whole congregation, taking it up, raised their voice, and the people wept all that night.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81455,7 +81455,7 @@ Greek: και διεγογγυζον επι μωυσην και ααρων πα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all the sons of Israel grumbled against Moses and Aaron, and the whole congregation said to them, Would that we had died in the land of Egypt, or would that we had died in this wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81475,7 +81475,7 @@ Greek: και ινα τι κυριος εισαγει ημας εις την γ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And why is the Lord bringing us into this land to fall in war? Our wives and our little children will be for plunder. So now it is better for us to turn back into Egypt.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81495,7 +81495,7 @@ Greek: και ειπαν ετερος τω ετερω δωμεν αρχηγον 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they said, one to another, Let us appoint a leader and turn back into Egypt.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81515,7 +81515,7 @@ Greek: και επεσεν μωυσης και ααρων επι προσωπο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Aaron fell on their face before the whole congregation of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81535,7 +81535,7 @@ Greek: ιησους δε ο του ναυη και χαλεβ ο του ιεφο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Joshua son of Nun and Caleb son of Jephonnē, of those who spied out the land, tore their garments.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81555,7 +81555,7 @@ Greek: και ειπαν προς πασαν συναγωγην υιων ισρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they said to the whole congregation of the sons of Israel, saying, The land that we spied out is very, very good.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81575,7 +81575,7 @@ Greek: ει αιρετιζει ημας κυριος εισαξει ημας ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: If the Lord takes pleasure in us, he will bring us into this land and give it to us, a land flowing with milk and honey.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81595,13 +81595,13 @@ Greek: αλλα απο του κυριου μη αποσταται γινεσθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Only do not become apostates from the Lord, and do not fear the people of the land, because they are food for us. For their time has departed from them, but the Lord is in us. Do not fear them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατάβρωμα ἡμῖν ἐστιν | lemma: κατάβρωμα | morphology: nominative singular noun phrase | chosen_rendering: they are food for us | alternate_renderings: they are prey for us | rationale: Keeps the stark consumption image in Joshua and Caleb's confidence speech. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they are food for us | footnote_text: The Greek uses a striking consumption image here. This draft keeps the imagery rather than replacing it with a weaker statement of victory. | source_basis: victory metaphor | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -81615,7 +81615,7 @@ Greek: και ειπεν πασα η συναγωγη καταλιθοβολησ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the whole congregation said to stone them with stones, and the glory of the Lord appeared in a cloud upon the tent of testimony before all the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81635,7 +81635,7 @@ Greek: και ειπεν κυριος προς μωυσην εως τινος π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, How long will this people provoke me, and how long will they not believe me in all the signs that I did among them?
 
 Decision rows:
 - [TODO add decision rows]
@@ -81655,7 +81655,7 @@ Greek: παταξω αυτους θανατω και απολω αυτους κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I will strike them with death and destroy them, and I will make you and your father's house into a nation great and much greater than this.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81675,7 +81675,7 @@ Greek: και ειπεν μωυσης προς κυριον και ακουσε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to the Lord, And Egypt will hear, because you brought up this people from among them by your strength.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81695,7 +81695,7 @@ Greek: αλλα και παντες οι κατοικουντες επι της 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81715,7 +81715,7 @@ Greek: και εκτριψεις τον λαον τουτον ωσει ανθρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if you destroy this people like one man, the nations who have heard your name will say,
 
 Decision rows:
 - [TODO add decision rows]
@@ -81735,7 +81735,7 @@ Greek: παρα το μη δυνασθαι κυριον εισαγαγειν τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Because the Lord was not able to bring this people into the land that he swore to them, he struck them down in the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81755,7 +81755,7 @@ Greek: και νυν υψωθητω η ισχυς σου κυριε ον τρο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And now let your strength be exalted, Lord, as you spoke, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -81775,13 +81775,13 @@ Greek: κυριος μακροθυμος και πολυελεος και αλη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The Lord is long-suffering and greatly merciful and true, removing lawlessness and injustice and sins, and in cleansing will not cleanse the guilty, repaying fathers' sins upon children to the third and fourth generation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καθαρισμῷ οὐ καθαριεῖ τὸν ἔνοχον | lemma: καθαρισμός | καθαρίζω | ἔνοχος | morphology: dative singular noun + future active indicative + accusative singular adjective | chosen_rendering: in cleansing will not cleanse the guilty | alternate_renderings: though cleansing, he will not clear the guilty | rationale: Keeps the emphatic doubled cleansing formula visible in the mercy-judgment confession. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in cleansing will not cleanse the guilty | footnote_text: The Greek doubles the cleansing language for emphasis. This draft keeps the repetition visible in the confession of mercy and judgment. | source_basis: doubled formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -81795,7 +81795,7 @@ Greek: αφες την αμαρτιαν τω λαω τουτω κατα το μ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Forgive the sin of this people according to your great mercy, just as you have been gracious to them from Egypt until now.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81815,7 +81815,7 @@ Greek: και ειπεν κυριος προς μωυσην ιλεως αυτο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, I am gracious to them according to your word.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81835,7 +81835,7 @@ Greek: αλλα ζω εγω και ζων το ονομα μου και εμπλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But I live, and my name lives, and the glory of the Lord shall fill the whole earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81855,7 +81855,7 @@ Greek: οτι παντες οι ανδρες οι ορωντες την δοξα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For all the men who saw my glory and the signs that I did in Egypt and in this wilderness, and tested me this tenth time and did not obey my voice,
 
 Decision rows:
 - [TODO add decision rows]
@@ -81875,7 +81875,7 @@ Greek: η μην ουκ οψονται την γην ην ωμοσα τοις π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: surely they shall not see the land that I swore to their fathers. But their children who are here with me, as many as do not know good or evil, every young inexperienced one, to these I will give the land. But all who provoked me shall not see it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81895,7 +81895,7 @@ Greek: ο δε παις μου χαλεβ οτι εγενηθη πνευμα ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But my servant Caleb, because a different spirit came to be in him and he followed me, I will bring him into the land into which he entered, and his seed shall inherit it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81915,7 +81915,7 @@ Greek: ο δε αμαληκ και ο χαναναιος κατοικουσιν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Amalek and the Canaanite dwell in the valley. Tomorrow turn yourselves and set out into the wilderness by the way of the Red Sea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81935,7 +81935,7 @@ Greek: και ειπεν κυριος προς μωυσην και ααρων λ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses and Aaron, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -81955,7 +81955,7 @@ Greek: εως τινος την συναγωγην την πονηραν ταυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: How long shall I bear with this evil congregation, these things they are grumbling against me? The grumbling of the sons of Israel that they grumbled about you, I have heard.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81975,7 +81975,7 @@ Greek: ειπον αυτοις ζω εγω λεγει κυριος η μην ο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Say to them, As I live, says the Lord, surely just as you have spoken in my ears, so I will do to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -81995,7 +81995,7 @@ Greek: εν τη ερημω ταυτη πεσειται τα κωλα υμων �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: In this wilderness your carcasses shall fall, and all your number, all those counted of you from twenty years old and upward, whoever grumbled against me,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82015,7 +82015,7 @@ Greek: ει υμεις εισελευσεσθε εις την γην εφ' ην 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: surely you shall not enter into the land upon which I stretched out my hand to settle you on it, except Caleb son of Jephonnē and Joshua son of Nun.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82035,7 +82035,7 @@ Greek: και τα παιδια α ειπατε εν διαρπαγη εσεσθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And your little children, whom you said would be for plunder, I will bring into the land, and they shall inherit the land from which you turned away.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82055,7 +82055,7 @@ Greek: και τα κωλα υμων πεσειται εν τη ερημω τα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But your carcasses shall fall in this wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82075,7 +82075,7 @@ Greek: οι δε υιοι υμων εσονται νεμομενοι εν τη �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And your sons shall be feeding in the wilderness forty years, and they shall bear your prostitution until your carcasses are consumed in the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82095,7 +82095,7 @@ Greek: κατα τον αριθμον των ημερων οσας κατεσκ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: According to the number of the days in which you spied out the land, forty days, a day for a year, you shall bear your sins forty years, and you shall know the fury of my anger.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82115,7 +82115,7 @@ Greek: εγω κυριος ελαλησα η μην ουτως ποιησω τη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I, the Lord, have spoken. Surely thus I will do to this whole evil congregation gathered together against me. In this wilderness they shall be consumed, and there they shall die.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82135,7 +82135,7 @@ Greek: και οι ανθρωποι ους απεστειλεν μωυσης κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the men whom Moses sent to spy out the land, and who came back and made the whole congregation grumble against it by bringing out evil words about the land,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82155,7 +82155,7 @@ Greek: και απεθανον οι ανθρωποι οι κατειπαντες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: those men who spoke evil against the land died in the plague before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82175,7 +82175,7 @@ Greek: και ιησους υιος ναυη και χαλεβ υιος ιεφο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But Joshua son of Nun and Caleb son of Jephonnē lived on from those men who had gone to spy out the land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82195,7 +82195,7 @@ Greek: και ελαλησεν μωυσης τα ρηματα ταυτα προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses spoke these words to all the sons of Israel, and the people mourned greatly.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82215,7 +82215,7 @@ Greek: και ορθρισαντες το πρωι ανεβησαν εις τη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And rising early in the morning, they went up to the top of the mountain, saying, Behold, here we are. We will go up to the place that the Lord spoke of, because we have sinned.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82235,7 +82235,7 @@ Greek: και ειπεν μωυσης ινα τι υμεις παραβαινε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said, Why are you transgressing the Lord's word? It will not prosper for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82255,7 +82255,7 @@ Greek: μη αναβαινετε ου γαρ εστιν κυριος μεθ' υ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Do not go up, for the Lord is not with you, and you will fall before your enemies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82275,7 +82275,7 @@ Greek: οτι ο αμαληκ και ο χαναναιος εκει εμπροσ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For Amalek and the Canaanite are there before you, and you will fall by sword, because you turned away in disobedience from the Lord, and the Lord will not be among you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82295,7 +82295,7 @@ Greek: και διαβιασαμενοι ανεβησαν επι την κορυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And forcing themselves, they went up to the top of the mountain, but the ark of the covenant of the Lord and Moses did not move from the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82315,7 +82315,7 @@ Greek: και κατεβη ο αμαληκ και ο χαναναιος ο εγ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Amalek came down, and the Canaanite dwelling in that mountain, and they routed them and cut them down as far as Erman, and they turned back to the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82337,7 +82337,7 @@ Greek: και ειπεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82357,7 +82357,7 @@ Greek: λαλησον τοις υιοις ισραηλ και ερεις προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel, and you shall say to them, When you enter into the land of your dwelling, which I am giving to you,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82377,7 +82377,7 @@ Greek: και ποιησεις ολοκαυτωματα κυριω ολοκαρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and you make whole burnt offerings to the Lord, a whole burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or in your feasts, to make an aroma of sweet fragrance to the Lord, whether from the cattle or from the sheep,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82397,7 +82397,7 @@ Greek: και προσοισει ο προσφερων το δωρον αυτο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then the one bringing his gift to the Lord shall bring a sacrifice of fine flour, a tenth of an ephah, prepared with oil, one fourth of a hin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82417,7 +82417,7 @@ Greek: και οινον εις σπονδην το τεταρτον του ιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And wine for a libation, one fourth of a hin, you shall prepare with the whole burnt offering or with the sacrifice for the one lamb, so much as a gift, an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82437,7 +82437,7 @@ Greek: και τω κριω οταν ποιητε αυτον η εις ολοκ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And for the ram, when you make it as a whole burnt offering or as a sacrifice, you shall make a sacrifice of fine flour, two tenths, prepared with oil, one third of a hin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82457,7 +82457,7 @@ Greek: και οινον εις σπονδην το τριτον του ιν π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And wine for a libation, one third of a hin, you shall bring as an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82477,7 +82477,7 @@ Greek: εαν δε απο των βοων ποιητε εις ολοκαυτωμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82497,7 +82497,7 @@ Greek: και προσοισει επι του μοσχου θυσιαν σεμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then with the bull he shall bring a sacrifice of fine flour, three tenths, prepared with oil, one half of a hin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82517,7 +82517,7 @@ Greek: και οινον εις σπονδην το ημισυ του ιν κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And wine for a libation, one half of a hin, a gift, an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82537,7 +82537,7 @@ Greek: ουτως ποιησεις τω μοσχω τω ενι η τω κριω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Thus you shall do for the one bull, or for the one ram, or for the one lamb from the sheep or from the goats.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82557,7 +82557,7 @@ Greek: κατα τον αριθμον ων εαν ποιησητε ουτω πο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: According to the number that you make, so you shall do for the one according to their number.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82577,7 +82577,7 @@ Greek: πας ο αυτοχθων ποιησει ουτως τοιαυτα πρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Every native-born shall do thus, these things, to bring gifts as an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82597,7 +82597,7 @@ Greek: εαν δε προσηλυτος εν υμιν προσγενηται ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if a sojourner joins himself to you in your land, or whoever may be among you in your generations, and makes a gift as an aroma of sweet fragrance to the Lord, just as you do, so shall the congregation do to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82617,7 +82617,7 @@ Greek: νομος εις εσται υμιν και τοις προσηλυτο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: One law shall be for you and for the sojourners dwelling with you, an everlasting law throughout your generations. As you are, so shall the sojourner be before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82637,7 +82637,7 @@ Greek: νομος εις εσται και δικαιωμα εν εσται υμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: One law shall be, and one ordinance shall be for you and for the sojourner dwelling among you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82657,7 +82657,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82677,7 +82677,7 @@ Greek: λαλησον τοις υιοις ισραηλ και ερεις προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel, and you shall say to them, In your entering into the land into which I am bringing you there,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82697,7 +82697,7 @@ Greek: και εσται οταν εσθητε υμεις απο των αρτω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then it shall be, when you eat from the breads of the land, you shall remove a contribution set apart for the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82717,7 +82717,7 @@ Greek: απαρχην φυραματος υμων αρτον αφαιρεμα α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The firstfruits of your dough, a loaf, you shall set apart as a contribution. As a contribution from the threshing floor, so you shall remove it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82737,7 +82737,7 @@ Greek: απαρχην φυραματος υμων και δωσετε κυριω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the firstfruits of your dough you shall give a contribution to the Lord throughout your generations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82757,7 +82757,7 @@ Greek: οταν δε διαμαρτητε και μη ποιησητε πασα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But when you go astray and do not do all these commands that the Lord spoke to Moses,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82777,7 +82777,7 @@ Greek: καθα συνεταξεν κυριος προς υμας εν χειρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: just as the Lord commanded you by Moses' hand, from the day that the Lord commanded you and onward throughout your generations,
 
 Decision rows:
 - [TODO add decision rows]
@@ -82797,7 +82797,7 @@ Greek: και εσται εαν εξ οφθαλμων της συναγωγης 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then it shall be, if it happens unintentionally from the eyes of the congregation, the whole congregation shall offer one unblemished bull from the cattle as a whole burnt offering, as an aroma of sweet fragrance to the Lord, and its sacrifice and its libation according to the ordinance, and one goat kid for sin offering.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82817,7 +82817,7 @@ Greek: και εξιλασεται ο ιερευς περι πασης συνα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the priest shall make atonement for the whole congregation of the sons of Israel, and it shall be forgiven them, because it is unintentional. And they brought their gift, a gift to the Lord, for their sin before the Lord, for their unintentional acts.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82837,7 +82837,7 @@ Greek: και αφεθησεται κατα πασαν συναγωγην υιω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be forgiven to the whole congregation of the sons of Israel and to the sojourner dwelling among you, because to all the people it was unintentional.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82857,7 +82857,7 @@ Greek: εαν δε ψυχη μια αμαρτη ακουσιως προσαξε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if one person sins unintentionally, he shall bring one year-old goat for sin offering.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82877,7 +82877,7 @@ Greek: και εξιλασεται ο ιερευς περι της ψυχης τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the priest shall make atonement for the person who sinned unintentionally before the Lord, to make atonement for him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82897,7 +82897,7 @@ Greek: τω εγχωριω εν υιοις ισραηλ και τω προσηλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For the native among the sons of Israel and for the sojourner dwelling among them, one law shall be for them, whoever acts unintentionally.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82917,13 +82917,13 @@ Greek: και ψυχη ητις ποιησει εν χειρι υπερηφαν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But the person who acts with a hand of arrogance, whether from the native-born or from the sojourners, this one provokes God. That person shall be cut off from his people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν χειρὶ ὑπερηφανίας | lemma: χείρ | ὑπερηφανία | morphology: preposition phrase + genitive singular noun | chosen_rendering: with a hand of arrogance | alternate_renderings: with a high hand | rationale: Keeps the proud-defiant force of the idiom while remaining readable in English. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with a hand of arrogance | footnote_text: The Greek idiom marks a deliberate, defiant act, not an accidental failure. This draft keeps the strong posture-language in view. | source_basis: defiant-sin idiom | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -82937,7 +82937,7 @@ Greek: οτι το ρημα κυριου εφαυλισεν και τας εντ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Because he treated the Lord's word as worthless and scattered his commands, that person shall be utterly destroyed. His sin is in him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82957,7 +82957,7 @@ Greek: και ησαν οι υιοι ισραηλ εν τη ερημω και ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel were in the wilderness, and they found a man gathering wood on the day of the Sabbaths.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82977,7 +82977,7 @@ Greek: και προσηγαγον αυτον οι ευροντες αυτον �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And those who found him gathering wood on the day of the Sabbaths brought him to Moses and Aaron and to the whole congregation of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -82997,7 +82997,7 @@ Greek: και απεθεντο αυτον εις φυλακην ου γαρ συ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they put him under guard, for they had not judged what should be done to him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83017,7 +83017,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων θ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying, Let the man surely be put to death. Let the whole congregation stone him with stones.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83037,7 +83037,7 @@ Greek: και εξηγαγον αυτον πασα η συναγωγη εξω τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the whole congregation brought him outside the camp and the whole congregation stoned him with stones outside the camp, just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83057,7 +83057,7 @@ Greek: και ειπεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83077,13 +83077,13 @@ Greek: λαλησον τοις υιοις ισραηλ και ερεις προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel, and you shall say to them that they should make for themselves tassels on the wings of their garments throughout their generations, and you shall place on the tassels of the wings a blue cord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κρασπέδα ... κλῶσμα ὑακίνθινον | lemma: κράσπεδον | κλῶσμα | ὑακίνθινος | morphology: accusative plural noun + accusative singular noun phrase | chosen_rendering: tassels ... a blue cord | alternate_renderings: fringes ... a blue thread | rationale: Uses natural garment-language while preserving the distinctive blue element. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a blue cord | footnote_text: The command does not mention tassels alone but a blue element attached to them. This draft keeps that visible because it matters to the sign-function of the garment. | source_basis: garment-sign detail | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -83097,7 +83097,7 @@ Greek: και εσται υμιν εν τοις κρασπεδοις και οψ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be for you in the tassels, and you shall look at them and remember all the Lord's commands and do them, and you shall not turn aside after your minds and after your eyes, in which you prostitute yourselves after them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83117,7 +83117,7 @@ Greek: οπως αν μνησθητε και ποιησητε πασας τας 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: So that you may remember and do all my commands and be holy to your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83137,7 +83137,7 @@ Greek: εγω κυριος ο θεος υμων ο εξαγαγων υμας ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I am the Lord your God, who brought you out of the land of Egypt to be your God. I am the Lord your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83159,7 +83159,7 @@ Greek: και ελαλησεν κορε υιος ισσααρ υιου κααθ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Korah son of Issaar son of Kohath son of Levi, and Dathan and Abiram sons of Eliab, and Aun son of Phaleth son of Reuben, spoke,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83179,7 +83179,7 @@ Greek: και ανεστησαν εναντι μωυση και ανδρες τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and they rose up before Moses, along with two hundred fifty men of the sons of Israel, leaders of the congregation, summoned of the council, men of name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83199,13 +83199,13 @@ Greek: συνεστησαν επι μωυσην και ααρων και ειπ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πᾶσα ἡ συναγωγή πάντες ἅγιοι | lemma: συναγωγή | πᾶς | ἅγιος | morphology: nominative singular noun phrase + nominative plural adjective | chosen_rendering: the whole congregation, every one of them, is holy | alternate_renderings: all the congregation are holy, every one of them | rationale: Keeps the democratic holiness claim explicit in Korah's challenge. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the whole congregation, every one of them, is holy | footnote_text: Korah's protest rests on a holiness claim shared by the whole congregation. This draft keeps that claim fully visible before the judgment scene unfolds. | source_basis: argument formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -83219,7 +83219,7 @@ Greek: και ακουσας μωυσης επεσεν επι προσωπον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses, hearing it, fell on his face.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83239,7 +83239,7 @@ Greek: και ελαλησεν προς κορε και προς πασαν αυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he spoke to Korah and to all his congregation, saying, God has visited and known those who are his and the holy ones, and he has brought near to himself those whom he chose for himself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83259,7 +83259,7 @@ Greek: τουτο ποιησατε λαβετε υμιν αυτοις πυρει
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Do this: take for yourselves firepans, Korah and all his congregation,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83279,7 +83279,7 @@ Greek: και επιθετε επ' αυτα πυρ και επιθετε επ' �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and place fire on them and place incense on them before the Lord tomorrow, and it shall be that the man whom the Lord chooses, this one is holy. Let it be enough for you, sons of Levi.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83299,7 +83299,7 @@ Greek: και ειπεν μωυσης προς κορε εισακουσατε �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to Korah, Hear me, sons of Levi.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83319,7 +83319,7 @@ Greek: μη μικρον εστιν τουτο υμιν οτι διεστειλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Is this a small thing to you, that the God of Israel separated you from the congregation of Israel and brought you near to himself to minister the ministries of the tent of the Lord and to stand before the congregation to serve them?
 
 Decision rows:
 - [TODO add decision rows]
@@ -83339,7 +83339,7 @@ Greek: και προσηγαγετο σε και παντας τους αδελ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he brought you near, and all your brothers the sons of Levi with you, and now do you seek to serve as priests?
 
 Decision rows:
 - [TODO add decision rows]
@@ -83359,7 +83359,7 @@ Greek: ουτως συ και πασα η συναγωγη σου η συνηθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Thus you and all your congregation have gathered together against God, and Aaron, who is he that you grumble against him?
 
 Decision rows:
 - [TODO add decision rows]
@@ -83379,7 +83379,7 @@ Greek: και απεστειλεν μωυσης καλεσαι δαθαν και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent to call Dathan and Abiram sons of Eliab, and they said, We will not come up.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83399,7 +83399,7 @@ Greek: μη μικρον τουτο οτι ανηγαγες ημας εκ γης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Is it a small thing that you brought us up from a land flowing with milk and honey to kill us in the wilderness, that you also rule over us as ruler?
 
 Decision rows:
 - [TODO add decision rows]
@@ -83419,7 +83419,7 @@ Greek: ει και εις γην ρεουσαν γαλα και μελι εισ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Even if you had brought us into a land flowing with milk and honey and given us an inheritance of field and vineyards, would you gouge out the eyes of those men? We will not come up.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83439,7 +83439,7 @@ Greek: και εβαρυθυμησεν μωυσης σφοδρα και ειπε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses was greatly weighed down and said to the Lord, Do not attend to their sacrifice. I have taken not one thing desired from any of them, nor have I harmed any one of them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83459,7 +83459,7 @@ Greek: και ειπεν μωυσης προς κορε αγιασον την σ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to Korah, Sanctify your congregation and be ready before the Lord, you and they and Aaron, tomorrow.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83479,7 +83479,7 @@ Greek: και λαβετε εκαστος το πυρειον αυτου και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And let each take his firepan and place incense on them, and each bring his firepan before the Lord, two hundred fifty firepans, and you and Aaron, each his firepan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83499,7 +83499,7 @@ Greek: και ελαβεν εκαστος το πυρειον αυτου και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And each took his firepan and put fire on them and cast incense on it, and they stood by the doors of the tent of testimony, Moses and Aaron.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83519,7 +83519,7 @@ Greek: και επισυνεστησεν επ' αυτους κορε την πα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83539,7 +83539,7 @@ Greek: και ελαλησεν κυριος προς μωυσην και ααρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses and Aaron, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83559,7 +83559,7 @@ Greek: αποσχισθητε εκ μεσου της συναγωγης ταυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Separate yourselves from the midst of this congregation, and I will consume them at once.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83579,10 +83579,10 @@ Greek: και επεσαν επι προσωπον αυτων και ειπαν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they fell on their face and said, God, God of the spirits and of all flesh, if one man sinned, will the Lord's wrath be upon the whole congregation?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θεὸς θεὸς τῶν πνευμάτων καὶ πάσης σαρκός | lemma: θεός | πνεῦμα | σάρξ | morphology: nominative singular noun phrase + genitive plural/singular nouns | chosen_rendering: God, God of the spirits and of all flesh | alternate_renderings: God of the spirits of all flesh | rationale: Preserves the solemn doubled divine address in Moses' intercession. | status: drafted
 
 Publishable footnotes:
 - [TODO add footnote draft if needed]
@@ -83599,7 +83599,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83619,7 +83619,7 @@ Greek: λαλησον τη συναγωγη λεγων αναχωρησατε κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the congregation, saying, Withdraw all around from the congregation of Korah.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83639,7 +83639,7 @@ Greek: και ανεστη μωυσης και επορευθη προς δαθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses rose and went to Dathan and Abiram, and all the elders of Israel went with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83659,7 +83659,7 @@ Greek: και ελαλησεν προς την συναγωγην λεγων α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he spoke to the congregation, saying, Separate yourselves from the tents of these hard men, and do not touch anything that belongs to them, lest you perish together in all their sin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83679,7 +83679,7 @@ Greek: και απεστησαν απο της σκηνης κορε κυκλω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they stood away from the tent of Korah all around, and Dathan and Abiram came out and stood by the doors of their tents, and their wives and their children and their baggage.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83699,7 +83699,7 @@ Greek: και ειπεν μωυσης εν τουτω γνωσεσθε οτι κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said, By this you shall know that the Lord has sent me to do all these works, because they are not from myself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83719,7 +83719,7 @@ Greek: ει κατα θανατον παντων ανθρωπων αποθανο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: If these die by the death of all people, and if their visitation is according to the visitation of all people, then the Lord has not sent me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83739,13 +83739,13 @@ Greek: αλλ' η εν φασματι δειξει κυριος και ανοι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if the Lord shows this by a wonder, and the earth, opening its mouth, swallows them and their houses and their tents and everything that belongs to them, and they go down alive into Hades, then you shall know that these men provoked the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καταβήσονται ζῶντες εἰς Ἅδου | lemma: καταβαίνω | ζάω | Ἅδης | morphology: future middle indicative 3 plural + nominative plural participle + preposition phrase | chosen_rendering: they go down alive into Hades | alternate_renderings: they descend alive into the grave/underworld | rationale: Keeps the Greek underworld term visible in this judgment sign. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: alive into Hades | footnote_text: The Greek uses Hades here, not a generic death word. This draft keeps the underworld term visible in the sign of judgment. | source_basis: underworld term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -83759,7 +83759,7 @@ Greek: ως δε επαυσατο λαλων παντας τους λογους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And when he finished speaking all these words, the earth beneath them was torn open.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83779,7 +83779,7 @@ Greek: και ηνοιχθη η γη και κατεπιεν αυτους και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the earth opened and swallowed them and their houses and all the people who were with Korah and their cattle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83799,7 +83799,7 @@ Greek: και κατεβησαν αυτοι και οσα εστιν αυτων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they and all that belonged to them went down alive into Hades, and the earth covered them, and they perished from the midst of the congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83819,7 +83819,7 @@ Greek: και πας ισραηλ οι κυκλω αυτων εφυγον απο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all Israel around them fled from their cry, for they said, Lest the earth swallow us too.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83839,7 +83839,7 @@ Greek: και πυρ εξηλθεν παρα κυριου και κατεφαγ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And fire went out from the Lord and devoured the two hundred fifty men offering the incense.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83861,7 +83861,7 @@ Greek: και ειπεν κυριος προς μωυσην
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83881,7 +83881,7 @@ Greek: και προς ελεαζαρ τον υιον ααρων τον ιερε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And to Eleazar son of Aaron the priest: take up the bronze firepans from the midst of the burned ones, and scatter this strange fire there, because they were sanctified.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83901,13 +83901,13 @@ Greek: τα πυρεια των αμαρτωλων τουτων εν ταις ψ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The firepans of these sinners against their own lives: make them hammered plates as a covering for the altar, because they were brought before the Lord and were sanctified, and they became a sign to the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: hammered plates as a covering for the altar | footnote_text: The censers are not discarded. The Greek turns them into a visible altar covering and sign for Israel. | source_basis: cultic sign reuse | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -83921,7 +83921,7 @@ Greek: και ελαβεν ελεαζαρ υιος ααρων του ιερεω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Eleazar son of Aaron the priest took the bronze firepans that the burned ones had brought, and they added them as a covering for the altar,
 
 Decision rows:
 - [TODO add decision rows]
@@ -83941,7 +83941,7 @@ Greek: μνημοσυνον τοις υιοις ισραηλ οπως αν μη 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a memorial to the sons of Israel, so that no stranger who is not from the seed of Aaron may come near to place incense before the Lord, and he will not be like Korah and his gathering together, just as the Lord spoke by Moses' hand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83961,7 +83961,7 @@ Greek: και εγογγυσαν οι υιοι ισραηλ τη επαυριο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the next day the sons of Israel grumbled against Moses and Aaron, saying, You have killed the people of the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -83981,7 +83981,7 @@ Greek: και εγενετο εν τω επισυστρεφεσθαι την σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it happened, when the congregation rushed together against Moses and Aaron, they rushed toward the tent of testimony, and behold, the cloud covered it, and the glory of the Lord appeared.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84001,7 +84001,7 @@ Greek: και εισηλθεν μωυσης και ααρων κατα προσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Aaron went in before the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84021,7 +84021,7 @@ Greek: και ελαλησεν κυριος προς μωυσην και ααρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses and Aaron, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -84041,7 +84041,7 @@ Greek: εκχωρησατε εκ μεσου της συναγωγης ταυτη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Move away from the midst of this congregation, and I will consume them at once. And they fell on their face.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84061,7 +84061,7 @@ Greek: και ειπεν μωυσης προς ααρων λαβε το πυρε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to Aaron, Take the firepan and place upon it fire from the altar and cast incense upon it, and carry it quickly into the camp and make atonement for them, for wrath has gone out from the Lord; the breaking of the people has begun.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84081,7 +84081,7 @@ Greek: και ελαβεν ααρων καθαπερ ελαλησεν αυτω �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron took it, just as Moses spoke to him, and ran into the congregation, and already the breaking had begun among the people. And he cast the incense and made atonement for the people.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84101,7 +84101,7 @@ Greek: και εστη ανα μεσον των τεθνηκοτων και τω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he stood between the dead and the living, and the breaking ceased.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84121,7 +84121,7 @@ Greek: και εγενοντο οι τεθνηκοτες εν τη θραυσε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And those dead in the breaking were fourteen thousand seven hundred, besides those dead because of Korah.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84141,7 +84141,7 @@ Greek: και επεστρεψεν ααρων προς μωυσην επι τη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron returned to Moses at the door of the tent of testimony, and the breaking ceased.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84161,7 +84161,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -84181,7 +84181,7 @@ Greek: λαλησον τοις υιοις ισραηλ και λαβε παρ' �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel and take from them rod by rod according to the houses of their fathers, from all their chiefs according to the houses of their fathers, twelve rods, and write each one's name on his rod.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84201,7 +84201,7 @@ Greek: και το ονομα ααρων επιγραψον επι της ραβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron's name you shall write on the rod of Levi, for there shall be one rod for each tribe of the houses of their fathers.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84221,7 +84221,7 @@ Greek: και θησεις αυτας εν τη σκηνη του μαρτυρι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall place them in the tent of testimony opposite the testimonies, where I will make myself known to you there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84241,7 +84241,7 @@ Greek: και εσται ο ανθρωπος ον εαν εκλεξωμαι αυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be that the man whom I choose, his rod shall sprout, and I will remove from myself the grumbling of the sons of Israel, which they grumble against you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84261,7 +84261,7 @@ Greek: και ελαλησεν μωυσης τοις υιοις ισραηλ κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses spoke to the sons of Israel, and all their chiefs gave him a rod, one rod to each chief according to the houses of their fathers, twelve rods, and Aaron's rod was among their rods.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84281,7 +84281,7 @@ Greek: και απεθηκεν μωυσης τας ραβδους εναντι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses placed the rods before the Lord in the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84301,13 +84301,13 @@ Greek: και εγενετο τη επαυριον και εισηλθεν μω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it happened on the next day, Moses and Aaron entered into the tent of testimony, and behold, the rod of Aaron for the house of Levi had sprouted and brought forth a shoot and bloomed blossoms and sprouted nuts.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐβλάστησεν ... ἐξήνεγκεν βλαστόν ... ἐξήνθησεν ἄνθη ... ἐβλάστησεν κάρυα | lemma: βλαστάνω | βλαστός | ἐξανθέω | ἄνθος | κάρυον | morphology: aorist active indicative sequence | chosen_rendering: had sprouted and brought forth a shoot and bloomed blossoms and sprouted nuts | alternate_renderings: had budded, blossomed, and borne almonds | rationale: Keeps the full staged sequence of Aaron's rod coming to life in one night. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: brought forth a shoot and bloomed blossoms and sprouted nuts | footnote_text: The Greek narrates Aaron's rod in stages: sprouting, shooting, blossoming, then nut-bearing. This draft keeps the full sequence. | source_basis: staged miracle sequence | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -84321,7 +84321,7 @@ Greek: και εξηνεγκεν μωυσης πασας τας ραβδους �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses brought out all the rods from before the Lord to all the sons of Israel, and they saw and each took his rod.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84341,7 +84341,7 @@ Greek: και ειπεν κυριος προς μωυσην αποθες την 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Put Aaron's rod before the testimonies for keeping, as a sign to the sons of disobedience, and let their grumbling cease from me, and they shall not die.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84361,7 +84361,7 @@ Greek: και εποιησεν μωυσης και ααρων καθα συνε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Aaron did just as the Lord commanded Moses; so they did.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84381,7 +84381,7 @@ Greek: και ειπαν οι υιοι ισραηλ προς μωυσην λεγ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel said to Moses, saying, Behold, we are consumed, we are lost, we are utterly destroyed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84401,7 +84401,7 @@ Greek: πας ο απτομενος της σκηνης κυριου αποθν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Everyone who touches the tent of the Lord dies. Shall we die to the end?
 
 Decision rows:
 - [TODO add decision rows]
@@ -84423,7 +84423,7 @@ Greek: και ειπεν κυριος προς ααρων λεγων συ και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Aaron, saying: you and your sons and your fathers' house with you shall bear the sins of the holy things, and you and your sons shall bear the sins of your priesthood.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84443,7 +84443,7 @@ Greek: και τους αδελφους σου φυλην λευι δημον τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And your brothers, the tribe of Levi, the clan of your father, bring near to yourself, and let them be joined to you and minister to you, and you and your sons with you shall be before the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84463,7 +84463,7 @@ Greek: και φυλαξονται τας φυλακας σου και τας φ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they shall keep your charges and the charges of the tent, only they shall not approach the holy vessels and the altar, and they shall not die, both they and you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84483,7 +84483,7 @@ Greek: και προστεθησονται προς σε και φυλαξοντ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they shall be joined to you and keep the charges of the tent of testimony according to all the services of the tent, and the stranger shall not come near to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84503,7 +84503,7 @@ Greek: και φυλαξεσθε τας φυλακας των αγιων και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall keep the charges of the holy things and the charges of the altar, and there shall not be wrath among the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84523,7 +84523,7 @@ Greek: και εγω ειληφα τους αδελφους υμων τους λ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I have taken your brothers, the Levites, from the midst of the sons of Israel, a gift given to the Lord, to minister the services of the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84543,7 +84543,7 @@ Greek: και συ και οι υιοι σου μετα σου διατηρησ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you and your sons with you shall keep your priesthood according to every matter of the altar and what is within the veil, and you shall minister the ministries. I give your priesthood as a gift, and the stranger coming near shall die.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84563,7 +84563,7 @@ Greek: και ελαλησεν κυριος προς ααρων και εγω ι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Aaron: and I, behold, have given you the keeping of the firstfruits from all things sanctified to me from the sons of Israel. I have given them to you as an honor and to your sons after you, an everlasting statute.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84583,7 +84583,7 @@ Greek: και τουτο εστω υμιν απο των ηγιασμενων α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And this shall be yours from the holy things of the gifts: from all their gifts and from all their sacrifices and from all their trespasses and from all their sins, whatever they give back to me from all the holy things shall be yours and your sons'.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84603,7 +84603,7 @@ Greek: εν τω αγιω των αγιων φαγεσθε αυτα παν αρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: In the holy of holies you shall eat them. Every male shall eat them, you and your sons. They shall be holy to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84623,7 +84623,7 @@ Greek: και τουτο εσται υμιν απαρχη δοματων αυτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And this shall be yours: the firstfruits of their gifts from all the offerings of the sons of Israel. I have given them to you and to your sons and your daughters with you, an everlasting statute. Everyone clean in your house shall eat them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84643,7 +84643,7 @@ Greek: πασα απαρχη ελαιου και πασα απαρχη οινο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: All the firstfruits of oil and all the firstfruits of wine and grain, their firstfruits, whatever they give to the Lord, I have given them to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84663,7 +84663,7 @@ Greek: τα πρωτογενηματα παντα οσα εν τη γη αυτω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: All the first produce in their land, whatever they bring to the Lord, shall be yours. Everyone clean in your house shall eat them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84683,7 +84683,7 @@ Greek: παν ανατεθεματισμενον εν υιοις ισραηλ σ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Every devoted thing among the sons of Israel shall be yours.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84703,7 +84703,7 @@ Greek: και παν διανοιγον μητραν απο πασης σαρκ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And every opener of the womb from all flesh, which they bring to the Lord, from human to beast, shall be yours. But in redeeming, the firstborn of humans shall be redeemed, and the firstborn of unclean beasts you shall redeem.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84723,7 +84723,7 @@ Greek: και η λυτρωσις αυτου απο μηνιαιου η συντ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And its redemption from one month old shall be, by valuation, five shekels according to the holy shekel; twenty obols they are.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84743,7 +84743,7 @@ Greek: πλην πρωτοτοκα μοσχων και πρωτοτοκα προ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Only the firstborn of cattle and the firstborn of sheep and the firstborn of goats you shall not redeem; they are holy. And their blood you shall pour out toward the altar, and the fat you shall offer as a gift, as an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84763,7 +84763,7 @@ Greek: και τα κρεα εσται σοι καθα και το στηθυν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the meat shall be yours, just as the breast of the offering set before the Lord and the right arm shall be yours.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84783,13 +84783,13 @@ Greek: παν αφαιρεμα των αγιων οσα αν αφελωσιν ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διαθήκη ἁλὸς αἰωνίου | lemma: διαθήκη | ἅλς | αἰώνιος | morphology: nominative singular noun phrase + genitive singular noun | chosen_rendering: a covenant of everlasting salt | alternate_renderings: an eternal covenant of salt | rationale: Keeps the unusual covenant phrase visible instead of flattening it into a generic lasting agreement. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: covenant of everlasting salt | footnote_text: The Greek preserves the covenant-of-salt wording here. This draft keeps the phrase visible rather than replacing it with a generic permanence formula. | source_basis: covenant idiom | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -84803,13 +84803,13 @@ Greek: και ελαλησεν κυριος προς ααρων εν τη γη �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Aaron: In their land you shall not inherit, and no part shall be yours among them, because I am your part and your inheritance in the midst of the sons of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐγὼ μερίς σου καὶ κληρονομία σου | lemma: ἐγώ | μερίς | κληρονομία | morphology: nominative singular pronoun + nominative singular nouns | chosen_rendering: I am your part and your inheritance | alternate_renderings: I am your portion and your inheritance | rationale: Preserves the direct divine self-identification as Aaron's share among Israel. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am your part and your inheritance | footnote_text: Aaron receives no land-share because the Lord himself is named as his share. This draft keeps that personal formula direct. | source_basis: inheritance formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -84823,7 +84823,7 @@ Greek: και τοις υιοις λευι ιδου δεδωκα παν επιδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And to the sons of Levi, behold, I have given every tithe in Israel as an inheritance in exchange for their services, whatever services they minister in the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84843,7 +84843,7 @@ Greek: και ου προσελευσονται ετι οι υιοι ισραη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel shall no longer come near to the tent of testimony, to bear a deadly sin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84863,7 +84863,7 @@ Greek: και λειτουργησει ο λευιτης αυτος την λε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Levite himself shall minister the ministry of the tent of testimony, and they shall bear their sins, an everlasting statute throughout their generations. And in the midst of the sons of Israel they shall not inherit an inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84883,7 +84883,7 @@ Greek: οτι τα επιδεκατα των υιων ισραηλ οσα αν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Because the tithes of the sons of Israel, whatever they set apart to the Lord as a contribution, I have given to the Levites as an inheritance. Therefore I said to them, In the midst of the sons of Israel they shall not inherit an inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84903,7 +84903,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -84923,7 +84923,7 @@ Greek: και τοις λευιταις λαλησεις και ερεις πρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall speak to the Levites and say to them, If you receive from the sons of Israel the tithe that I have given you from them as an inheritance, then you shall remove from it a contribution to the Lord, a tithe from the tithe.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84943,7 +84943,7 @@ Greek: και λογισθησεται υμιν τα αφαιρεματα υμω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And your contributions shall be reckoned to you as grain from the threshing floor and as contribution from the winepress.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84963,7 +84963,7 @@ Greek: ουτως αφελειτε και υμεις απο των αφαιρε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Thus you also shall remove the Lord's contribution from all your tithes, whatever you receive from the sons of Israel, and from them you shall give the Lord's contribution to Aaron the priest.
 
 Decision rows:
 - [TODO add decision rows]
@@ -84983,7 +84983,7 @@ Greek: απο παντων των δοματων υμων αφελειτε αφ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From all your gifts you shall remove the Lord's contribution, from all the firstfruits, the holy part from it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85003,7 +85003,7 @@ Greek: και ερεις προς αυτους οταν αφαιρητε την 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall say to them, When you remove the first part from it, it shall be reckoned to the Levites as produce from the threshing floor and as produce from the winepress.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85023,7 +85023,7 @@ Greek: και εδεσθε αυτο εν παντι τοπω υμεις και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall eat it in every place, you and your households, because this is wages for you in exchange for your services in the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85043,7 +85043,7 @@ Greek: και ου λημψεσθε δι' αυτο αμαρτιαν οτι αν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall not bear sin because of it when you remove the first part from it, and you shall not profane the holy things of the sons of Israel, so that you do not die.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85065,7 +85065,7 @@ Greek: και ελαλησεν κυριος προς μωυσην και ααρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses and Aaron, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -85085,13 +85085,13 @@ Greek: αυτη η διαστολη του νομου οσα συνεταξεν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: This is the ordinance of the law, what the Lord commanded, saying: Speak to the sons of Israel, and let them take to you a red heifer, unblemished, in which there is no defect and on which a yoke has not come.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δάμαλιν πυρρὰν ἄμωμον | lemma: δάμαλις | πυρρός | ἄμωμος | morphology: accusative singular noun phrase | chosen_rendering: a red heifer, unblemished | alternate_renderings: a reddish cow without blemish | rationale: Uses the established animal term while keeping the color and sacrificial condition explicit. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: red heifer | footnote_text: The Greek specifies a red, unblemished heifer on which no yoke has come. This draft keeps each identifying detail visible at the start of the rite. | source_basis: ritual animal description | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -85105,7 +85105,7 @@ Greek: και δωσεις αυτην προς ελεαζαρ τον ιερεα 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall give it to Eleazar the priest, and they shall bring it outside the camp to a clean place, and they shall slaughter it before him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85125,7 +85125,7 @@ Greek: και λημψεται ελεαζαρ απο του αιματος αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Eleazar shall take from its blood and sprinkle from its blood seven times toward the face of the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85145,7 +85145,7 @@ Greek: και κατακαυσουσιν αυτην εναντιον αυτου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they shall burn it before him, and its skin and its flesh and its blood with its dung shall be burned.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85165,7 +85165,7 @@ Greek: και λημψεται ο ιερευς ξυλον κεδρινον κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the priest shall take cedar wood and hyssop and scarlet and cast them into the midst of the burning of the heifer.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85185,7 +85185,7 @@ Greek: και πλυνει τα ιματια αυτου ο ιερευς και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the priest shall wash his garments and bathe his body in water, and after these things he shall enter into the camp, and the priest shall be unclean until evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85205,7 +85205,7 @@ Greek: και ο κατακαιων αυτην πλυνει τα ιματια α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the one burning it shall wash his garments and bathe his body, and he shall be unclean until evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85225,7 +85225,7 @@ Greek: και συναξει ανθρωπος καθαρος την σποδον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a clean man shall gather the ashes of the heifer and place them outside the camp in a clean place, and it shall be for the congregation of the sons of Israel for keeping, as water of sprinkling; it is purification.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85245,7 +85245,7 @@ Greek: και πλυνει τα ιματια ο συναγων την σποδι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the one gathering the ashes of the heifer shall wash his garments and be unclean until evening, and it shall be for the sons of Israel and for the sojourners dwelling among them an everlasting statute.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85265,7 +85265,7 @@ Greek: ο απτομενος του τεθνηκοτος πασης ψυχης �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The one touching the dead of any human person shall be unclean seven days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85285,7 +85285,7 @@ Greek: ουτος αγνισθησεται τη ημερα τη τριτη κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: This one shall be purified on the third day and on the seventh day and shall be clean. But if he is not purified on the third day and on the seventh day, he shall not be clean.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85305,13 +85305,13 @@ Greek: πας ο απτομενος του τεθνηκοτος απο ψυχη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὴν σκηνὴν Κυρίου ἐμίανεν | lemma: σκηνή | κύριος | μιαίνω | morphology: accusative singular noun phrase + aorist active indicative 3 singular | chosen_rendering: has defiled the tent of the Lord | alternate_renderings: has polluted the Lord's tabernacle | rationale: Keeps the impurity offense tied directly to the sanctuary, not only to the person. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: has defiled the tent of the Lord | footnote_text: The Greek makes corpse impurity a sanctuary offense if purification is neglected. This draft keeps that direct connection to the tent visible. | source_basis: sanctuary impurity formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -85325,7 +85325,7 @@ Greek: και ουτος ο νομος ανθρωπος εαν αποθανη ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And this is the law: if a person dies in a house, everyone entering into the house and everything in the house shall be unclean seven days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85345,7 +85345,7 @@ Greek: και παν σκευος ανεωγμενον οσα ουχι δεσμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And every open vessel on which no binding is tied shall be unclean.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85365,7 +85365,7 @@ Greek: και πας ος εαν αψηται επι προσωπου του π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And everyone who touches on the face of the field one slain or a dead body or a human bone or a grave shall be unclean seven days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85385,7 +85385,7 @@ Greek: και λημψονται τω ακαθαρτω απο της σποδι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And for the unclean they shall take from the ashes of the burnt purification and pour living water upon it into a vessel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85405,7 +85405,7 @@ Greek: και λημψεται υσσωπον και βαψει εις το υδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a clean man shall take hyssop and dip it into the water and sprinkle it upon the house and upon the vessels and upon the persons who are there, and upon the one who touched the bone, the human body, or the slain one, or the dead one, or the grave.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85425,7 +85425,7 @@ Greek: και περιρρανει ο καθαρος επι τον ακαθαρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the clean person shall sprinkle upon the unclean on the third day and on the seventh day, and he shall be purified on the seventh day and wash his garments and bathe in water, and he shall be unclean until evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85445,7 +85445,7 @@ Greek: και ανθρωπος ος εαν μιανθη και μη αφαγνι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the person who becomes unclean and is not purified shall be cut off from the midst of the congregation, because he has defiled the holy things of the Lord, because water of sprinkling was not sprinkled upon him. He is unclean.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85465,7 +85465,7 @@ Greek: και εσται υμιν νομιμον αιωνιον και ο περ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be for you an everlasting statute, and the one sprinkling water of sprinkling shall wash his garments, and the one touching the water of sprinkling shall be unclean until evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85485,7 +85485,7 @@ Greek: και παντος ου εαν αψηται αυτου ο ακαθαρτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And everything that the unclean person touches shall be unclean, and the person touching it shall be unclean until evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85507,7 +85507,7 @@ Greek: και ηλθον οι υιοι ισραηλ πασα η συναγωγη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel, the whole congregation, came into the wilderness of Sin in the first month, and the people stayed in Kadesh, and Miriam died there and was buried there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85527,7 +85527,7 @@ Greek: και ουκ ην υδωρ τη συναγωγη και ηθροισθη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And there was no water for the congregation, and they gathered against Moses and Aaron.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85547,7 +85547,7 @@ Greek: και ελοιδορειτο ο λαος προς μωυσην λεγο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people were reviling Moses, saying, If only we had died in the destruction of our brothers before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85567,7 +85567,7 @@ Greek: και ινα τι ανηγαγετε την συναγωγην κυρι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And why did you bring up the congregation of the Lord into this wilderness, to kill us and our cattle?
 
 Decision rows:
 - [TODO add decision rows]
@@ -85587,7 +85587,7 @@ Greek: και ινα τι τουτο ανηγαγετε ημας εξ αιγυπ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And why is this, that you brought us up from Egypt, to come into this evil place? It is no place for sowing, or figs, or vines, or pomegranates, and there is no water to drink.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85607,7 +85607,7 @@ Greek: και ηλθεν μωυσης και ααρων απο προσωπου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Aaron came from before the congregation to the door of the tent of testimony and fell on their face, and the glory of the Lord appeared to them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85627,7 +85627,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -85647,7 +85647,7 @@ Greek: λαβε την ραβδον και εκκλησιασον την συν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Take the rod and assemble the congregation, you and Aaron your brother, and speak to the rock before them, and it will give its waters, and you shall bring out water for them from the rock, and you shall give drink to the congregation and to their cattle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85667,7 +85667,7 @@ Greek: και ελαβεν μωυσης την ραβδον την απεναν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses took the rod from before the Lord, just as the Lord commanded.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85687,7 +85687,7 @@ Greek: και εξεκκλησιασεν μωυσης και ααρων την �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Aaron assembled the congregation before the rock, and he said to them, Hear me, you disobedient ones. Shall we bring out water for you from this rock?
 
 Decision rows:
 - [TODO add decision rows]
@@ -85707,7 +85707,7 @@ Greek: και επαρας μωυσης την χειρα αυτου επατα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses lifted his hand and struck the rock with the rod twice, and much water came out, and the congregation and their cattle drank.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85727,7 +85727,7 @@ Greek: και ειπεν κυριος προς μωυσην και ααρων ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses and Aaron, Because you did not trust me, to sanctify me before the sons of Israel, therefore you shall not bring this congregation into the land that I have given them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85747,13 +85747,13 @@ Greek: τουτο υδωρ αντιλογιας οτι ελοιδορηθησα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: This is the water of reviling, because the sons of Israel reviled before the Lord, and he was sanctified among them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὕδωρ ἀντιλογίας ... ἡγιάσθη ἐν αὐτοῖς | lemma: ὕδωρ | ἀντιλογία | ἁγιάζω | morphology: nominative singular noun phrase + aorist passive indicative 3 singular | chosen_rendering: water of reviling ... he was sanctified among them | alternate_renderings: water of contradiction / contention | rationale: Keeps the naming tied both to Israels complaint and to the Lords self-sanctifying response. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: water of reviling | footnote_text: The Greek names the place with reviling language, then immediately says the Lord was sanctified among them. This draft keeps both ideas together. | source_basis: place-name and sanctification formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -85767,7 +85767,7 @@ Greek: και απεστειλεν μωυσης αγγελους εκ καδης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85787,7 +85787,7 @@ Greek: και κατεβησαν οι πατερες ημων εις αιγυπ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And our fathers went down into Egypt, and we lived in Egypt many days, and the Egyptians mistreated us and our fathers.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85807,7 +85807,7 @@ Greek: και ανεβοησαμεν προς κυριον και εισηκου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85827,7 +85827,7 @@ Greek: παρελευσομεθα δια της γης σου ου διελευ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: We shall pass through your land. We shall not pass through fields or through vineyards, nor shall we drink water from your cistern. We shall go by the king's road. We shall not turn aside right or left until we pass your borders.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85847,7 +85847,7 @@ Greek: και ειπεν προς αυτον εδωμ ου διελευση δι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Edom said to him, You shall not pass through me. Otherwise I will come out to meet you in war.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85867,7 +85867,7 @@ Greek: και λεγουσιν αυτω οι υιοι ισραηλ παρα το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel say to him, We shall pass along the mountain. And if I and my cattle drink your water, I will give payment to you. But the matter is nothing. We shall pass along the mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85887,7 +85887,7 @@ Greek: ο δε ειπεν ου διελευση δι' εμου και εξηλθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But he said, You shall not pass through me. And Edom came out to meet him with a heavy crowd and with a strong hand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85907,7 +85907,7 @@ Greek: και ουκ ηθελησεν εδωμ δουναι τω ισραηλ π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Edom was not willing to let Israel pass through his borders, and Israel turned aside from him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85927,7 +85927,7 @@ Greek: και απηραν εκ καδης και παρεγενοντο οι υ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Kadesh, and the sons of Israel, the whole congregation, came to Mount Hor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85947,7 +85947,7 @@ Greek: και ειπεν κυριος προς μωυσην και ααρων ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses and Aaron at Mount Hor on the borders of the land of Edom, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -85967,13 +85967,13 @@ Greek: προστεθητω ααρων προς τον λαον αυτου οτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Let Aaron be added to his people, because you shall surely not enter into the land that I have given to the sons of Israel, because you provoked me at the water of reviling.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προστεθήτω Ἀαρὼν πρὸς τὸν λαὸν αὐτοῦ | lemma: προστίθημι | λαός | morphology: aorist passive imperative 3 singular + accusative singular noun phrase | chosen_rendering: Let Aaron be added to his people | alternate_renderings: Let Aaron be gathered to his people | rationale: Keeps the Greek added-to-his-people formula instead of replacing it with a smoother burial euphemism. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: be added to his people | footnote_text: The Greek says Aaron is added to his people. This draft keeps that formula instead of replacing it with a generic death expression. | source_basis: death formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -85987,7 +85987,7 @@ Greek: λαβε τον ααρων και ελεαζαρ τον υιον αυτο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Take Aaron and Eleazar his son, and bring them up to Mount Hor before all the congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86007,7 +86007,7 @@ Greek: και εκδυσον ααρων την στολην αυτου και ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86027,7 +86027,7 @@ Greek: και εποιησεν μωυσης καθα συνεταξεν κυρι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses did just as the Lord commanded, and he brought him up to Mount Hor before all the congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86047,7 +86047,7 @@ Greek: και εξεδυσεν ααρων τα ιματια αυτου και ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses stripped Aaron of his garments and clothed Eleazar his son with them, and Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86067,7 +86067,7 @@ Greek: και ειδεν πασα η συναγωγη οτι απελυθη αα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all the congregation saw that Aaron had been released, and all the house of Israel mourned Aaron thirty days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86089,7 +86089,7 @@ Greek: και ηκουσεν ο χανανις βασιλευς αραδ ο κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Canaanite king of Arad, who dwelt by the wilderness, heard, for Israel was coming by the way of Atharim, and he fought against Israel and took captives from them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86109,7 +86109,7 @@ Greek: και ηυξατο ισραηλ ευχην κυριω και ειπεν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel vowed a vow to the Lord and said, If you hand this people over into my hand, I will devote them and their cities to destruction.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86129,7 +86129,7 @@ Greek: και εισηκουσεν κυριος της φωνης ισραηλ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord heard the voice of Israel and handed over the Canaanite into his hand, and he devoted him and his cities to destruction, and they called the name of that place Devoted Destruction.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86149,7 +86149,7 @@ Greek: και απαραντες εξ ωρ του ορους οδον επι θ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And setting out from Mount Hor by the way of the Red Sea, they went around the land of Edom, and the people grew short-souled on the way.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86169,13 +86169,13 @@ Greek: και κατελαλει ο λαος προς τον θεον και κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people were speaking against God and against Moses, saying, Why did you bring us up from Egypt, to kill us in the wilderness? For there is no bread and no water, and our soul has loathed this empty bread.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ ἄρτος ὁ διάκενος | lemma: ἄρτος | διάκενος | morphology: nominative singular noun phrase | chosen_rendering: this empty bread | alternate_renderings: this worthless bread | rationale: Preserves the insult in the peoples complaint without smoothing it into an interpretive paraphrase. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: empty bread | footnote_text: The complaint uses a harsh dismissal of the wilderness bread. This draft keeps the insult blunt rather than softening it. | source_basis: complaint formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -86189,7 +86189,7 @@ Greek: και απεστειλεν κυριος εις τον λαον τους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord sent among the people deadly snakes, and they were biting the people, and many people from the sons of Israel died.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86209,7 +86209,7 @@ Greek: και παραγενομενος ο λαος προς μωυσην ελ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the people came to Moses and were saying, We sinned, because we spoke against the Lord and against you. Pray then to the Lord, and let him take the snake away from us. And Moses prayed to the Lord concerning the people.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86229,13 +86229,13 @@ Greek: και ειπεν κυριος προς μωυσην ποιησον σε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Make yourself a snake and set it on a sign, and it shall be that if a snake bites a person, everyone bitten, looking at it, shall live.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θὲς αὐτὸν ἐπὶ σημείου | lemma: τίθημι | σημεῖον | morphology: aorist active imperative 2 singular + preposition phrase | chosen_rendering: set it on a sign | alternate_renderings: set it on a standard / sign-pole | rationale: Leaves the Greek sign-language visible before later traditions specify how the lifted serpent should be imagined. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: set it on a sign | footnote_text: The Greek uses sign-language here, not a more specific pole term. This draft leaves that wording visible for later review. | source_basis: sign term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -86249,7 +86249,7 @@ Greek: και εποιησεν μωυσης οφιν χαλκουν και εσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses made a bronze snake and set it on a sign, and it came to pass, when a snake bit a person and he looked on the bronze snake, he lived.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86269,7 +86269,7 @@ Greek: και απηραν οι υιοι ισραηλ και παρενεβαλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel set out and camped in Oboth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86289,7 +86289,7 @@ Greek: και εξαραντες εξ ωβωθ παρενεβαλον εν αχ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And setting out from Oboth, they camped in Achelgai beyond, in the wilderness that is opposite Moab, toward the sunrise.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86309,7 +86309,7 @@ Greek: εκειθεν απηραν και παρενεβαλον εις φαρα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From there they set out and camped in the ravine of Zaret.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86329,7 +86329,7 @@ Greek: και εκειθεν απαραντες παρενεβαλον εις τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And from there, setting out, they camped beyond Arnon, in the wilderness that extends from the borders of the Amorites. For Arnon is the border of Moab, between Moab and the Amorite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86349,13 +86349,13 @@ Greek: δια τουτο λεγεται εν βιβλιω πολεμος του 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Therefore it is said in the Book, The War of the Lord: Zoob he set aflame, and the torrents of Arnon.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν βιβλίῳ Πόλεμος τοῦ Κυρίου | lemma: βιβλίον | πόλεμος | κύριος | morphology: dative singular noun phrase | chosen_rendering: in the Book, The War of the Lord | alternate_renderings: in the Book of the War of the Lord | rationale: Keeps the citation formula rough and visible, since the line appears to quote a named source or heading. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Book, The War of the Lord | footnote_text: The line appears to quote or cite a named source. This draft keeps the citation rough instead of over-resolving the title. | source_basis: citation formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -86369,7 +86369,7 @@ Greek: και τους χειμαρρους κατεστησεν κατοικι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he established the torrents to make Ar a dwelling, and it lies against the borders of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86389,7 +86389,7 @@ Greek: και εκειθεν το φρεαρ τουτο εστιν το φρεα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And from there to the well. This is the well about which the Lord said to Moses, Gather the people, and I will give them water to drink.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86409,7 +86409,7 @@ Greek: τοτε ησεν ισραηλ το ασμα τουτο επι του φ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Then Israel sang this song over the well: Sing to it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86429,7 +86429,7 @@ Greek: φρεαρ ωρυξαν αυτο αρχοντες εξελατομησα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Well that rulers dug, kings of nations quarried out in their kingdom, when they ruled. And from the well to Manthanain,
 
 Decision rows:
 - [TODO add decision rows]
@@ -86449,7 +86449,7 @@ Greek: και απο μανθαναιν εις νααλιηλ και απο να
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and from Manthanain to Naaliel, and from Naaliel to Bamoth,
 
 Decision rows:
 - [TODO add decision rows]
@@ -86469,7 +86469,7 @@ Greek: και απο βαμωθ εις ναπην η εστιν εν τω πεδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and from Bamoth to the valley that is in the field of Moab, from the top of the Hewn Place, which looks toward the face of the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86489,7 +86489,7 @@ Greek: και απεστειλεν μωυσης πρεσβεις προς σηω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent envoys to Sihon king of the Amorites with words of peace, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -86509,7 +86509,7 @@ Greek: παρελευσομεθα δια της γης σου τη οδω πορ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: We shall pass through your land. We shall go by the road. We shall not turn aside into field or vineyard. We shall not drink water from your well. We shall go by the king's road until we pass your borders.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86529,7 +86529,7 @@ Greek: και ουκ εδωκεν σηων τω ισραηλ παρελθειν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86549,7 +86549,7 @@ Greek: και επαταξεν αυτον ισραηλ φονω μαχαιρης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel struck him with slaughter by sword and took possession of his land from Arnon to Jabbok, as far as the sons of Ammon, for Jazer is the border of the sons of Ammon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86569,7 +86569,7 @@ Greek: και ελαβεν ισραηλ πασας τας πολεις ταυτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel took all these cities, and Israel settled in all the cities of the Amorites, in Heshbon and in all the villages depending on it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86589,7 +86589,7 @@ Greek: εστιν γαρ εσεβων πολις σηων του βασιλεω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For Heshbon was the city of Sihon king of the Amorites, and he had fought earlier against the king of Moab and taken all his land from Aroer to Arnon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86609,7 +86609,7 @@ Greek: δια τουτο ερουσιν οι αινιγματισται ελθε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Therefore the riddle-speakers say, Come to Heshbon, so that the city of Sihon may be built and prepared.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86629,7 +86629,7 @@ Greek: οτι πυρ εξηλθεν εξ εσεβων φλοξ εκ πολεως
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For fire came out from Heshbon, a flame from the city of Sihon, and it devoured as far as Moab and swallowed the pillars of Arnon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86649,7 +86649,7 @@ Greek: ουαι σοι μωαβ απωλου λαος χαμως απεδοθη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Woe to you, Moab. You are destroyed, people of Chemosh. His sons were given over to escape, and his daughters as captives to Sihon king of the Amorites.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86669,7 +86669,7 @@ Greek: και το σπερμα αυτων απολειται εσεβων εω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And their seed shall perish from Heshbon to Dibon, and the women still kindled fire against Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86689,7 +86689,7 @@ Greek: κατωκησεν δε ισραηλ εν πασαις ταις πολε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel settled in all the cities of the Amorites.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86709,7 +86709,7 @@ Greek: και απεστειλεν μωυσης κατασκεψασθαι τη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent to spy out Jazer, and they took it and its villages and cast out the Amorite dwelling there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86729,7 +86729,7 @@ Greek: και επιστρεψαντες ανεβησαν οδον την εις
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And turning, they went up by the road to Bashan, and Og king of Bashan came out to meet them, he and all his people, for battle at Edrain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86749,7 +86749,7 @@ Greek: και ειπεν κυριος προς μωυσην μη φοβηθης 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Do not fear him, because into your hands I have handed him over, and all his people and all his land, and you shall do to him just as you did to Sihon king of the Amorites, who dwelt in Heshbon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86769,7 +86769,7 @@ Greek: και επαταξεν αυτον και τους υιους αυτου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he struck him and his sons and all his people, until none of his people remained alive, and they inherited their land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86791,7 +86791,7 @@ Greek: και απαραντες οι υιοι ισραηλ παρενεβαλο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel set out and camped west of Moab by the Jordan at Jericho.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86811,7 +86811,7 @@ Greek: και ιδων βαλακ υιος σεπφωρ παντα οσα επο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak son of Zippor saw all that Israel had done to the Amorite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86831,7 +86831,7 @@ Greek: και εφοβηθη μωαβ τον λαον σφοδρα οτι πολ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moab feared the people greatly, because they were many, and Moab was sickened because of the presence of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86851,7 +86851,7 @@ Greek: και ειπεν μωαβ τη γερουσια μαδιαμ νυν εκ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moab said to the elders of Midian, Now this congregation will lick up all around us, as the calf licks up the green growth of the plain. And Balak son of Zippor was king of Moab at that time.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86871,7 +86871,7 @@ Greek: και απεστειλεν πρεσβεις προς βαλααμ υιο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he sent envoys to Balaam son of Beor at Pathoura, which is on the river, in the land of the sons of his people, to call him, saying, Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86891,7 +86891,7 @@ Greek: και νυν δευρο αρασαι μοι τον λαον τουτον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And now come, curse this people for me, because they are stronger than we. If perhaps we can strike them and drive them from the land, for I know that whomever you bless are blessed, and whomever you curse are cursed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86911,7 +86911,7 @@ Greek: και επορευθη η γερουσια μωαβ και η γερου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the elders of Moab and the elders of Midian went, and the divinations were in their hands. And they came to Balaam and spoke to him the words of Balak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86931,7 +86931,7 @@ Greek: και ειπεν προς αυτους καταλυσατε αυτου �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he said to them, Lodge here tonight, and I will answer you with the matters that the Lord may speak to me. And the princes of Moab stayed with Balaam.
 
 Decision rows:
 - [TODO add decision rows]
@@ -86951,7 +86951,7 @@ Greek: και ηλθεν ο θεος προς βαλααμ και ειπεν α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God came to Balaam and said to him, Who are these men with you?
 
 Decision rows:
 - [TODO add decision rows]
@@ -86971,7 +86971,7 @@ Greek: και ειπεν βαλααμ προς τον θεον βαλακ υιο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to God, Balak son of Zippor, king of Moab, sent them to me, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -86991,7 +86991,7 @@ Greek: ιδου λαος εξεληλυθεν εξ αιγυπτου και ιδ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Behold, a people has come out from Egypt, and behold, it has covered the face of the land, and it sits beside me. And now come, curse it for me. If perhaps I can strike it and drive it from the land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87011,7 +87011,7 @@ Greek: και ειπεν ο θεος προς βαλααμ ου πορευση �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God said to Balaam, You shall not go with them, nor shall you curse the people, for it is blessed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87031,7 +87031,7 @@ Greek: και αναστας βαλααμ το πρωι ειπεν τοις αρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam rose in the morning and said to Balak's princes, Run back to your lord. God does not allow me to go with you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87051,7 +87051,7 @@ Greek: και ανασταντες οι αρχοντες μωαβ ηλθον π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the princes of Moab rose and came to Balak and said, Balaam does not want to come with us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87071,7 +87071,7 @@ Greek: και προσεθετο βαλακ ετι αποστειλαι αρχο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak again sent more princes and more honored than these.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87091,7 +87091,7 @@ Greek: και ηλθον προς βαλααμ και λεγουσιν αυτω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they came to Balaam and say to him, Thus says Balak son of Zippor: I ask you, do not delay to come to me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87111,7 +87111,7 @@ Greek: εντιμως γαρ τιμησω σε και οσα εαν ειπης �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For I will honor you greatly, and whatever you say I will do for you. And come, curse this people for me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87131,7 +87131,7 @@ Greek: και απεκριθη βαλααμ και ειπεν τοις αρχο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam answered and said to the princes of Balak, If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord my God, to do it small or great in my mind.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87151,7 +87151,7 @@ Greek: και νυν υπομεινατε αυτου και υμεις την ν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And now remain here, you too, this night, and I will know what more the Lord will speak to me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87171,7 +87171,7 @@ Greek: και ηλθεν ο θεος προς βαλααμ νυκτος και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God came to Balaam by night and said to him, If these men have come to call you, rise, follow them. But the word that I shall speak to you, this you shall do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87191,7 +87191,7 @@ Greek: και αναστας βαλααμ το πρωι επεσαξεν την 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam rose in the morning, saddled his donkey, and went with the princes of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87211,13 +87211,13 @@ Greek: και ωργισθη θυμω ο θεος οτι επορευθη αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀνέστη ὁ ἄγγελος τοῦ θεοῦ ἐνδιαβαλεῖν αὐτόν | lemma: ἀνίστημι | ἄγγελος | ἐνδιαβάλλω | morphology: aorist active indicative 3 singular + infinitive | chosen_rendering: the messenger of God rose up to oppose him | alternate_renderings: to stand against / accuse him | rationale: Carries the hostile blocking sense without collapsing the verb to a generic appearance formula. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: rose up to oppose him | footnote_text: The messenger does not simply appear. The Greek marks active opposition against Balaams path. | source_basis: hostile verb | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -87231,7 +87231,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87251,7 +87251,7 @@ Greek: και εστη ο αγγελος του θεου εν ταις αυλα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87271,7 +87271,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87291,7 +87291,7 @@ Greek: και προσεθετο ο αγγελος του θεου και απε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87311,7 +87311,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87331,7 +87331,7 @@ Greek: και ηνοιξεν ο θεος το στομα της ονου και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God opened the mouth of the donkey, and she says to Balaam, What have I done to you that you have beaten me this third time?
 
 Decision rows:
 - [TODO add decision rows]
@@ -87351,7 +87351,7 @@ Greek: και ειπεν βαλααμ τη ονω οτι εμπεπαιχας μ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to the donkey, Because you have mocked me. If I had a sword in my hand, already I would have pierced you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87371,7 +87371,7 @@ Greek: και λεγει η ονος τω βαλααμ ουκ εγω η ονος
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the donkey says to Balaam, Am I not your donkey, on which you have ridden from your youth until this day? Have I ever neglected you and acted thus toward you? And he said, No.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87391,7 +87391,7 @@ Greek: απεκαλυψεν δε ο θεος τους οφθαλμους βαλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87411,7 +87411,7 @@ Greek: και ειπεν αυτω ο αγγελος του θεου δια τι 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87431,7 +87431,7 @@ Greek: και ιδουσα με η ονος εξεκλινεν απ' εμου τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the donkey saw me and turned aside from me this third time. And if she had not turned aside, then now I would have killed you, and I would have preserved her alive.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87451,7 +87451,7 @@ Greek: και ειπεν βαλααμ τω αγγελω κυριου ημαρτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87471,7 +87471,7 @@ Greek: και ειπεν ο αγγελος του θεου προς βαλααμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87491,7 +87491,7 @@ Greek: και ακουσας βαλακ οτι ηκει βαλααμ εξηλθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak, hearing that Balaam had come, went out to meet him at the City of Moab, which is on the borders of Arnon, which is at the edge of the border.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87511,7 +87511,7 @@ Greek: και ειπεν βαλακ προς βαλααμ ουχι απεστε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak said to Balaam, Did I not send to call you? Why did you not come to me? Am I really not able to honor you?
 
 Decision rows:
 - [TODO add decision rows]
@@ -87531,7 +87531,7 @@ Greek: και ειπεν βαλααμ προς βαλακ ιδου ηκω προ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Behold, I have come to you now. Shall I be able to speak anything? The word that God puts in my mouth, this I shall speak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87551,7 +87551,7 @@ Greek: και επορευθη βαλααμ μετα βαλακ και ηλθο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam went with Balak, and they came to the cities of the settlements.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87571,7 +87571,7 @@ Greek: και εθυσεν βαλακ προβατα και μοσχους κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak sacrificed sheep and calves and sent portions to Balaam and to the princes with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87591,7 +87591,7 @@ Greek: και εγενηθη πρωι και παραλαβων βαλακ το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it happened in the morning, and Balak took Balaam and brought him up to the pillar of Baal, and from there he showed him some part of the people.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87613,7 +87613,7 @@ Greek: και ειπεν βαλααμ τω βαλακ οικοδομησον μ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Build here seven altars for me, and prepare here seven calves and seven rams for me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87633,7 +87633,7 @@ Greek: και εποιησεν βαλακ ον τροπον ειπεν αυτω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak did as Balaam said to him, and he offered up a calf and a ram on the altar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87653,7 +87653,7 @@ Greek: και ειπεν βαλααμ προς βαλακ παραστηθι ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Stand by your sacrifice, and I will go, if perhaps God will appear to me in a meeting, and whatever word he shows me I will report to you. And Balak stood by his sacrifice, and Balaam went to inquire of God and went straight.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87673,7 +87673,7 @@ Greek: και εφανη ο θεος τω βαλααμ και ειπεν προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God appeared to Balaam, and he said to him, I have prepared the seven altars, and I offered up a calf and a ram on the altar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87693,7 +87693,7 @@ Greek: και ενεβαλεν ο θεος ρημα εις το στομα βα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87713,7 +87713,7 @@ Greek: και απεστραφη προς αυτον και οδε εφειστ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he returned to him, and behold, he had stood by his whole burnt offerings, and all the princes of Moab with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87733,7 +87733,7 @@ Greek: και εγενηθη πνευμα θεου επ' αυτω και ανα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Spirit of God came to be on him, and taking up his oracle, he said: From Mesopotamia Balak king of Moab has summoned me, from mountains of the east, saying, Come, curse Jacob for me, and come, curse Israel for me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87753,7 +87753,7 @@ Greek: τι αρασωμαι ον μη καταραται κυριος η τι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: What shall I curse, whom the Lord does not curse? Or what shall I denounce, whom God does not denounce?
 
 Decision rows:
 - [TODO add decision rows]
@@ -87773,7 +87773,7 @@ Greek: οτι απο κορυφης ορεων οψομαι αυτον και α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For from the top of mountains I shall see him, and from the hills I shall perceive him. Behold, a people shall dwell alone, and among nations it shall not be reckoned.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87793,7 +87793,7 @@ Greek: τις εξηκριβασατο το σπερμα ιακωβ και τι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Who has searched out the seed of Jacob, and who will number the peoples of Israel? Let my soul die among the souls of the righteous, and let my seed become like the seed of these.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87813,7 +87813,7 @@ Greek: και ειπεν βαλακ προς βαλααμ τι πεποιηκα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak said to Balaam, What have you done to me? I called you to curse my enemies, and behold, you have blessed with blessing.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87833,7 +87833,7 @@ Greek: και ειπεν βαλααμ προς βαλακ ουχι οσα εαν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Shall I not carefully speak whatever God puts into my mouth?
 
 Decision rows:
 - [TODO add decision rows]
@@ -87853,7 +87853,7 @@ Greek: και ειπεν προς αυτον βαλακ δευρο ετι μετ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak said to him, Come still with me to another place from which you will not see him from there, but you will see only some part of him, and all of him you shall certainly not see. And curse him for me from there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87873,7 +87873,7 @@ Greek: και παρελαβεν αυτον εις αγρου σκοπιαν ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he took him to the field of Lookout, to the top of the Hewn Place, and he built there seven altars and offered up a calf and a ram on the altar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87893,7 +87893,7 @@ Greek: και ειπεν βαλααμ προς βαλακ παραστηθι ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Stand by your sacrifice, but I will go to inquire of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87913,7 +87913,7 @@ Greek: και συνηντησεν ο θεος τω βαλααμ και ενεβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And God met Balaam and put a word in his mouth and said, Turn back to Balak, and these things you shall speak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87933,7 +87933,7 @@ Greek: και απεστραφη προς αυτον και οδε εφειστ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he returned to him, and behold, he had stood by his whole burnt offering, and all the princes of Moab with him. And Balak said to him, What has the Lord spoken?
 
 Decision rows:
 - [TODO add decision rows]
@@ -87953,7 +87953,7 @@ Greek: και αναλαβων την παραβολην αυτου ειπεν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And taking up his oracle, he said: Rise, Balak, and hear. Give ear, witness, son of Zippor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87973,13 +87973,13 @@ Greek: ουχ ως ανθρωπος ο θεος διαρτηθηναι ουδε 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: God is not like a man, to waver, nor like a son of man, to be threatened. He himself said, shall he not do it? He will speak, and will he not remain in it?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐχ ὡς ἄνθρωπος ὁ θεὸς διαρτηθῆναι | lemma: ἄνθρωπος | θεός | διαρτάω | morphology: negative comparison + aorist passive infinitive | chosen_rendering: God is not like a man, to waver | alternate_renderings: to be unsettled / thrown off balance | rationale: Keeps the contrast pointed at divine constancy even though the Greek verb is unusual and needs later review. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God is not like a man, to waver | footnote_text: The Greek verb is unusual, but the line presses divine steadiness over against human instability. This draft keeps that contrast foregrounded. | source_basis: divine constancy contrast | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -87993,7 +87993,7 @@ Greek: ιδου ευλογειν παρειλημμαι ευλογησω και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Behold, I have received a charge to bless. I will bless, and I shall not turn back.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88013,7 +88013,7 @@ Greek: ουκ εσται μοχθος εν ιακωβ ουδε οφθησετα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: There shall not be hardship in Jacob, nor shall trouble be seen in Israel. The Lord his God is with him. The glories of rulers are in him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88033,13 +88033,13 @@ Greek: θεος ο εξαγαγων αυτους εξ αιγυπτου ως δο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: God, who brought them out of Egypt, is like the glory of a one-horned beast to them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὡς δόξα μονοκέρωτος | lemma: δόξα | μονόκερως | morphology: comparative noun phrase | chosen_rendering: like the glory of a one-horned beast | alternate_renderings: like the strength/glory of a unicorn | rationale: Preserves the strange Greek creature term instead of replacing it with a fully harmonized animal guess. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one-horned beast | footnote_text: The Greek uses the one-horned creature term here. This draft keeps the odd image visible rather than replacing it with a confident animal identification. | source_basis: animal term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -88053,7 +88053,7 @@ Greek: ου γαρ εστιν οιωνισμος εν ιακωβ ουδε μαν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For there is no omen in Jacob, nor divination in Israel. In season it shall be said to Jacob and to Israel what God will accomplish.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88073,7 +88073,7 @@ Greek: ιδου λαος ως σκυμνος αναστησεται και ως 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Behold, a people shall rise like a cub and exalt itself like a lion. It shall not lie down until it eats prey and drinks the blood of the wounded.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88093,7 +88093,7 @@ Greek: και ειπεν βαλακ προς βαλααμ ουτε καταρα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak said to Balaam, Neither curse him with curses for me, nor blessing bless him for me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88113,7 +88113,7 @@ Greek: και αποκριθεις βαλααμ ειπεν τω βαλακ ου�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam answered and said to Balak, Did I not speak to you, saying, The word that God speaks, this I will do?
 
 Decision rows:
 - [TODO add decision rows]
@@ -88133,7 +88133,7 @@ Greek: και ειπεν βαλακ προς βαλααμ δευρο παραλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak said to Balaam, Come, let me take you to another place. If it pleases God, curse him for me from there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88153,7 +88153,7 @@ Greek: και παρελαβεν βαλακ τον βαλααμ επι κορυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak took Balaam to the top of Peor, which stretches toward the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88173,7 +88173,7 @@ Greek: και ειπεν βαλααμ προς βαλακ οικοδομησον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Build for me here seven altars, and prepare for me here seven calves and seven rams.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88193,7 +88193,7 @@ Greek: και εποιησεν βαλακ καθαπερ ειπεν αυτω β�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak did just as Balaam said to him and offered up a calf and a ram on the altar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88215,7 +88215,7 @@ Greek: και ιδων βαλααμ οτι καλον εστιν εναντι κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam, seeing that it is good before the Lord to bless Israel, did not go as usual to meet the omens, and he turned his face toward the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88235,7 +88235,7 @@ Greek: και εξαρας βαλααμ τους οφθαλμους αυτου �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam lifted his eyes and saw Israel encamped tribe by tribe, and the Spirit of God came to be in him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88255,7 +88255,7 @@ Greek: και αναλαβων την παραβολην αυτου ειπεν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88275,7 +88275,7 @@ Greek: φησιν ακουων λογια θεου οστις ορασιν θε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: says the one hearing the oracles of God, who saw a vision of God in sleep, his eyes having been uncovered.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88295,7 +88295,7 @@ Greek: ως καλοι σου οι οικοι ιακωβ αι σκηναι σο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: How good are your houses, Jacob, your tents, Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88315,7 +88315,7 @@ Greek: ωσει ναπαι σκιαζουσαι και ωσει παραδεισ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Like shaded valleys, and like gardens beside rivers, and like tents that the Lord pitched, like cedars by waters.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88335,7 +88335,7 @@ Greek: εξελευσεται ανθρωπος εκ του σπερματος α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: A man shall come out from his seed and shall rule many nations, and his kingdom shall be exalted above Gog, and his kingdom shall be increased.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88355,7 +88355,7 @@ Greek: θεος ωδηγησεν αυτον εξ αιγυπτου ως δοξα 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: God guided him out of Egypt. He is like the glory of a one-horned beast to him. He shall eat the nations of his enemies and suck out their marrow, and with his missiles he shall shoot through an enemy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88375,7 +88375,7 @@ Greek: κατακλιθεις ανεπαυσατο ως λεων και ως σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Lying down, he rested like a lion and like a cub. Who will raise him? Those blessing you are blessed, and those cursing you are cursed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88395,7 +88395,7 @@ Greek: και εθυμωθη βαλακ επι βαλααμ και συνεκρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balak became angry against Balaam and clapped his hands, and Balak said to Balaam, I called you to curse my enemy, and behold, blessing you have blessed this third time.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88415,7 +88415,7 @@ Greek: νυν ουν φευγε εις τον τοπον σου ειπα τιμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Now then flee to your place. I said I would honor you, and now the Lord has deprived you of glory.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88435,7 +88435,7 @@ Greek: και ειπεν βαλααμ προς βαλακ ουχι και τοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam said to Balak, Did I not also speak to your messengers whom you sent to me, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88455,7 +88455,7 @@ Greek: εαν μοι δω βαλακ πληρη τον οικον αυτου α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do evil or good from myself. Whatever God says, these things I will say.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88475,7 +88475,7 @@ Greek: και νυν ιδου αποτρεχω εις τον τοπον μου �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And now behold, I am going back to my place. Come, I will advise you what this people will do to your people at the last of days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88495,7 +88495,7 @@ Greek: και αναλαβων την παραβολην αυτου ειπεν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And taking up his oracle, he said: Balaam son of Beor says, the man who truly sees says,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88515,7 +88515,7 @@ Greek: ακουων λογια θεου επισταμενος επιστημη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: who hears the oracles of God, knowing knowledge from the Most High, who saw a vision of God in sleep, his eyes having been uncovered.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88535,13 +88535,13 @@ Greek: δειξω αυτω και ουχι νυν μακαριζω και ουκ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I will point him out, but not now. I count him blessed, and he is not near. A star shall rise out of Jacob, and a man shall stand up out of Israel, and he shall crush the leaders of Moab and plunder all the sons of Seth.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀνατελεῖ ἄστρον ἐξ Ἰακώβ | lemma: ἀνατέλλω | ἄστρον | Ἰακώβ | morphology: future active indicative 3 singular + nominative singular noun | chosen_rendering: A star shall rise out of Jacob | alternate_renderings: A star shall come up from Jacob | rationale: Keeps the astral royal image explicit and separate from the following man-from-Israel line. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: A star shall rise out of Jacob | footnote_text: The Greek gives both a star from Jacob and a man from Israel. This draft keeps the two royal images distinct. | source_basis: royal image pair | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -88555,7 +88555,7 @@ Greek: και εσται εδωμ κληρονομια και εσται κλη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Edom shall be an inheritance, and Esau his enemy shall be an inheritance, and Israel acted in strength.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88575,7 +88575,7 @@ Greek: και εξεγερθησεται εξ ιακωβ και απολει σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And one shall rise from Jacob and destroy the survivor from the city.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88595,7 +88595,7 @@ Greek: και ιδων τον αμαληκ και αναλαβων την παρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And seeing Amalek and taking up his oracle, he said: Amalek is the beginning of nations, and their seed shall perish.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88615,7 +88615,7 @@ Greek: και ιδων τον καιναιον και αναλαβων την π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88635,7 +88635,7 @@ Greek: και εαν γενηται τω βεωρ νεοσσια πανουργ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then if Beor's nest should come to be in craftiness, Assyrians shall take you captive.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88655,7 +88655,7 @@ Greek: και ιδων τον ωγ και αναλαβων την παραβολ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And seeing Og and taking up his oracle, he said: Oh, oh, who shall live when God sets these things in place?
 
 Decision rows:
 - [TODO add decision rows]
@@ -88675,13 +88675,13 @@ Greek: και εξελευσεται εκ χειρος κιτιαιων και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And one shall come out from the hand of Kittim, and they shall afflict Asshur and afflict Hebrews, and they themselves together shall perish.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κακώσουσιν Ἐβραίους | lemma: κακόω | Ἑβραῖος | morphology: future active indicative 3 plural + accusative plural noun | chosen_rendering: they shall afflict Hebrews | alternate_renderings: they shall afflict the Hebrews | rationale: Keeps the explicit ethnic label Hebrews instead of smoothing it into a generic Israel reference. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: afflict Hebrews | footnote_text: The Greek explicitly says Hebrews here. This draft keeps that ethnic label instead of flattening it into a general national term. | source_basis: ethnic label | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -88695,7 +88695,7 @@ Greek: και αναστας βαλααμ απηλθεν αποστραφεις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Balaam rose and went away, turning back to his place, and Balak went to himself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88717,7 +88717,7 @@ Greek: και κατελυσεν ισραηλ εν σαττιν και εβεβ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel stayed in Sattin, and the people were profaned to prostitute themselves with the daughters of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88737,7 +88737,7 @@ Greek: και εκαλεσαν αυτους επι ταις θυσιαις τω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they called them to the sacrifices of their idols, and the people ate from their sacrifices and bowed to their idols.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88757,7 +88757,7 @@ Greek: και ετελεσθη ισραηλ τω βεελφεγωρ και ωρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Israel joined itself to Baal-Peor, and the Lord was enraged in anger against Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88777,7 +88777,7 @@ Greek: και ειπεν κυριος τω μωυση λαβε παντας το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Take all the leaders of the people and make an example of them for the Lord before the sun, and the anger of the Lord's wrath will turn away from Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88797,7 +88797,7 @@ Greek: και ειπεν μωυσης ταις φυλαις ισραηλ απο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to the tribes of Israel, Let each one kill his own kinsman who has been joined to Baal-Peor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88817,7 +88817,7 @@ Greek: και ιδου ανθρωπος των υιων ισραηλ ελθων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And behold, a man from the sons of Israel came and brought the Midianite woman before Moses and before the whole congregation of the sons of Israel, while they were weeping at the door of the tent of testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88837,7 +88837,7 @@ Greek: και ιδων φινεες υιος ελεαζαρ υιου ααρων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Phinehas son of Eleazar son of Aaron the priest saw, rose up from the midst of the congregation, and taking a spear in his hand,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88857,7 +88857,7 @@ Greek: εισηλθεν οπισω του ανθρωπου του ισραηλι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: went in after the Israelite man into the chamber and pierced both of them, both the Israelite man and the woman through her womb. And the plague ceased from the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88877,7 +88877,7 @@ Greek: και εγενοντο οι τεθνηκοτες εν τη πληγη τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And those who died in the plague became twenty-four thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88897,7 +88897,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -88917,13 +88917,13 @@ Greek: φινεες υιος ελεαζαρ υιου ααρων του ιερε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Phinehas son of Eleazar son of Aaron the priest has stopped my wrath from the sons of Israel by being jealous with my jealousy among them, and I did not consume the sons of Israel in my jealousy.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν τῷ ζηλῶσαί μου τὸν ζῆλον ἐν αὐτοῖς | lemma: ζηλόω | ζῆλος | morphology: articular infinitive + accusative singular noun | chosen_rendering: by being jealous with my jealousy among them | alternate_renderings: by zealing my zeal among them | rationale: Keeps the doubled zeal wording visible instead of flattening Phinehas into a generic defender of honor. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my jealousy among them | footnote_text: The Greek doubles the zeal language here. This draft keeps the overlap between divine zeal and Phinehas action visible. | source_basis: doubled zeal wording | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -88937,7 +88937,7 @@ Greek: ουτως ειπον ιδου εγω διδωμι αυτω διαθηκ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Therefore say, Behold, I give him a covenant of peace.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88957,13 +88957,13 @@ Greek: και εσται αυτω και τω σπερματι αυτου μετ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διαθήκη ἱερατείας αἰωνία | lemma: διαθήκη | ἱερατεία | αἰώνιος | morphology: nominative singular noun phrase | chosen_rendering: a covenant of everlasting priesthood | alternate_renderings: an eternal priestly covenant | rationale: Preserves both covenant language and the priesthood focus without smoothing the phrase into abstract office language. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: covenant of everlasting priesthood | footnote_text: The reward is phrased as both covenant and priesthood. This draft keeps both terms explicit. | source_basis: priestly covenant formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -88977,7 +88977,7 @@ Greek: το δε ονομα του ανθρωπου του ισραηλιτου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of the Israelite man who had been struck, who was struck with the Midianite woman, was Zambri son of Salu, leader of a father's house of the Symeonites.
 
 Decision rows:
 - [TODO add decision rows]
@@ -88997,7 +88997,7 @@ Greek: και ονομα τη γυναικι τη μαδιανιτιδι τη π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of the Midianite woman who had been struck was Chasbi daughter of Sur, chief of the nation Ommoth, of a father's house among Midian.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89017,7 +89017,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων λ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -89037,7 +89037,7 @@ Greek: εχθραινετε τοις μαδιηναιοις και παταξα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Treat the Midianites as enemies and strike them,
 
 Decision rows:
 - [TODO add decision rows]
@@ -89057,7 +89057,7 @@ Greek: οτι εχθραινουσιν αυτοι υμιν εν δολιοτητ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: because they act as enemies toward you in the deceit with which they deceive you over Peor and over Chasbi daughter of the chief of Midian, their sister, the one struck down on the day of the plague over Peor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89079,7 +89079,7 @@ Greek: και εγενετο μετα την πληγην και ελαλησε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it came to pass after the plague, and the Lord spoke to Moses and to Eleazar the priest, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -89099,7 +89099,7 @@ Greek: λαβε την αρχην πασης συναγωγης υιων ισρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Take the sum of the whole congregation of the sons of Israel, from twenty years old and upward, by their ancestral houses, everyone who goes out to array for battle in Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89119,7 +89119,7 @@ Greek: και ελαλησεν μωυσης και ελεαζαρ ο ιερευ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Eleazar the priest spoke in the plains of Moab by the Jordan at Jericho, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -89139,7 +89139,7 @@ Greek: απο εικοσαετους και επανω ον τροπον συν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From twenty years old and upward, just as the Lord commanded Moses. And these are the sons of Israel who came out of Egypt:
 
 Decision rows:
 - [TODO add decision rows]
@@ -89159,7 +89159,7 @@ Greek: ρουβην πρωτοτοκος ισραηλ υιοι δε ρουβην
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Reuben, Israels firstborn. And the sons of Reuben: of Hanoch, the clan of the Hanochite; of Phallu, the clan of the Phalluite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89179,7 +89179,7 @@ Greek: τω ασρων δημος του ασρωνι τω χαρμι δημος
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Hezron, the clan of the Hezronite; of Carmi, the clan of the Carmite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89199,7 +89199,7 @@ Greek: ουτοι δημοι ρουβην και εγενετο η επισκε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Reuben, and their enrollment became forty-three thousand seven hundred thirty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89219,7 +89219,7 @@ Greek: και υιοι φαλλου ελιαβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Phallu: Eliab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89239,7 +89239,7 @@ Greek: και υιοι ελιαβ ναμουηλ και δαθαν και αβι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Eliab: Namuel and Dathan and Abiram. These are the called men of the congregation, the ones who rose up against Moses and Aaron in the congregation of Korah, in the uprising against the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89259,7 +89259,7 @@ Greek: και ανοιξασα η γη το στομα αυτης κατεπιε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the earth, opening its mouth, swallowed them and Korah in the death of his congregation, when the fire devoured the two hundred fifty, and they became a sign.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89279,7 +89279,7 @@ Greek: οι δε υιοι κορε ουκ απεθανον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But the sons of Korah did not die.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89299,7 +89299,7 @@ Greek: και οι υιοι συμεων ο δημος των υιων συμε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Symeon, the clan of the sons of Symeon: of Namuel, the clan of the Namuelite; of Jamin, the clan of the Jaminite; of Jachin, the clan of the Jachinite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89319,7 +89319,7 @@ Greek: τω ζαρα δημος ο ζαραι τω σαουλ δημος ο σα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Zarah, the clan of the Zarahite; of Saul, the clan of the Saulite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89339,7 +89339,7 @@ Greek: ουτοι δημοι συμεων εκ της επισκεψεως αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Symeon from their enrollment, twenty-two thousand two hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89359,7 +89359,7 @@ Greek: υιοι δε ιουδα ηρ και αυναν και απεθανεν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Judah were Er and Onan, and Er and Onan died in the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89379,7 +89379,7 @@ Greek: εγενοντο δε οι υιοι ιουδα κατα δημους αυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Judah came to be by their clans: of Shelah, the clan of the Shelanite; of Pharez, the clan of the Pharezite; of Zerah, the clan of the Zerahite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89399,7 +89399,7 @@ Greek: και εγενοντο υιοι φαρες τω ασρων δημος ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Pharez: of Hezron, the clan of the Hezronite; of Jamoun, the clan of the Jamounite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89419,7 +89419,7 @@ Greek: ουτοι δημοι τω ιουδα κατα την επισκοπην 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Judah by their enrollment, seventy-six thousand five hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89439,7 +89439,7 @@ Greek: και υιοι ισσαχαρ κατα δημους αυτων τω θω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Issachar by their clans: of Thola, the clan of the Tholaite; of Phua, the clan of the Phuaite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89459,7 +89459,7 @@ Greek: τω ιασουβ δημος ο ιασουβι τω σαμαραν δημ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Jashub, the clan of the Jashubite; of Samaran, the clan of the Samaranite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89479,7 +89479,7 @@ Greek: ουτοι δημοι ισσαχαρ εξ επισκεψεως αυτων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Issachar by their enrollment, sixty-four thousand three hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89499,7 +89499,7 @@ Greek: υιοι ζαβουλων κατα δημους αυτων τω σαρε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Zebulun by their clans: of Sared, the clan of the Saredite; of Allon, the clan of the Allonite; of Allel, the clan of the Allelite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89519,7 +89519,7 @@ Greek: ουτοι δημοι ζαβουλων εξ επισκεψεως αυτω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Zebulun by their enrollment, sixty thousand five hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89539,7 +89539,7 @@ Greek: υιοι γαδ κατα δημους αυτων τω σαφων δημο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Gad by their clans: of Saphon, the clan of the Saphonite; of Angi, the clan of the Angite; of Suni, the clan of the Sunite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89559,7 +89559,7 @@ Greek: τω αζενι δημος ο αζενι τω αδδι δημος ο αδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Azeni, the clan of the Azenite; of Addi, the clan of the Addite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89579,7 +89579,7 @@ Greek: τω αροαδι δημος ο αροαδι τω αριηλ δημος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Aroadi, the clan of the Aroadite; of Ariel, the clan of the Arielite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89599,7 +89599,7 @@ Greek: ουτοι δημοι υιων γαδ εξ επισκεψεως αυτω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of the sons of Gad by their enrollment, forty thousand five hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89619,7 +89619,7 @@ Greek: υιοι ασηρ κατα δημους αυτων τω ιαμιν δημ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Asher by their clans: of Jamin, the clan of the Jaminite; of Jesui, the clan of the Jesuite; of Bari, the clan of the Bariite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89639,7 +89639,7 @@ Greek: τω χοβερ δημος ο χοβερι τω μελχιηλ δημος
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Chober, the clan of the Choberite; of Melchiel, the clan of the Melchielite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89659,7 +89659,7 @@ Greek: και το ονομα θυγατρος ασηρ σαρα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of Ashers daughter was Sara.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89679,7 +89679,7 @@ Greek: ουτοι δημοι ασηρ εξ επισκεψεως αυτων τρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Asher by their enrollment, fifty-three thousand four hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89699,7 +89699,7 @@ Greek: υιοι ιωσηφ κατα δημους αυτων μανασση κα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Joseph by their clans: Manasseh and Ephraim.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89719,7 +89719,7 @@ Greek: υιοι μανασση τω μαχιρ δημος ο μαχιρι και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Manasseh: of Machir, the clan of the Machirite. And Machir begot Gilead; of Gilead, the clan of the Gileadite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89739,7 +89739,7 @@ Greek: και ουτοι υιοι γαλααδ τω αχιεζερ δημος ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these are the sons of Gilead: of Achiezer, the clan of the Achiezerite; of Cheleg, the clan of the Chelegite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89759,7 +89759,7 @@ Greek: τω εσριηλ δημος ο εσριηλι τω συχεμ δημος
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Esriel, the clan of the Esrielite; of Sychem, the clan of the Sychemite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89779,7 +89779,7 @@ Greek: τω συμαερ δημος ο συμαερι και τω οφερ δη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Symaer, the clan of the Symaerite; and of Opher, the clan of the Opherite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89799,7 +89799,7 @@ Greek: και τω σαλπααδ υιω οφερ ουκ εγενοντο αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And to Salpaad son of Opher there were no sons, but daughters. And these are the names of the daughters of Salpaad: Mala and Noua and Egla and Melcha and Thersa.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89819,7 +89819,7 @@ Greek: ουτοι δημοι μανασση εξ επισκεψεως αυτων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Manasseh by their enrollment, fifty-two thousand seven hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89839,7 +89839,7 @@ Greek: και ουτοι υιοι εφραιμ τω σουταλα δημος ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these are the sons of Ephraim: of Suthala, the clan of the Suthalaite; of Tanach, the clan of the Tanachite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89859,7 +89859,7 @@ Greek: ουτοι υιοι σουταλα τω εδεν δημος ο εδενι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the sons of Suthala: of Eden, the clan of the Edenite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89879,7 +89879,7 @@ Greek: ουτοι δημοι εφραιμ εξ επισκεψεως αυτων �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Ephraim by their enrollment, thirty-two thousand five hundred. These are the clans of the sons of Joseph by their clans.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89899,7 +89899,7 @@ Greek: υιοι βενιαμιν κατα δημους αυτων τω βαλε 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Benjamin by their clans: of Bale, the clan of the Baleite; of Asyber, the clan of the Asyberite; of Jachiran, the clan of the Jachiranite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89919,7 +89919,7 @@ Greek: τω σωφαν δημος ο σωφανι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Sophan, the clan of the Sophanite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89939,7 +89939,7 @@ Greek: και εγενοντο οι υιοι βαλε αδαρ και νοεμα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Bale came to be Adar and Noeman: of Adar, the clan of the Adarite; of Noeman, the clan of the Noemanite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89959,7 +89959,7 @@ Greek: ουτοι υιοι βενιαμιν κατα δημους αυτων ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the sons of Benjamin by their clans, by their enrollment, forty-five thousand six hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89979,7 +89979,7 @@ Greek: και υιοι δαν κατα δημους αυτων τω σαμι δ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Dan by their clans: of Sami, the clan of the Samite. These are the clans of Dan by their clans.
 
 Decision rows:
 - [TODO add decision rows]
@@ -89999,7 +89999,7 @@ Greek: παντες οι δημοι σαμι κατ' επισκοπην αυτω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: All the clans of Sami by their enrollment were sixty-four thousand four hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90019,7 +90019,7 @@ Greek: υιοι νεφθαλι κατα δημους αυτων τω ασιηλ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The sons of Naphtali by their clans: of Asiel, the clan of the Asielite; of Gauni, the clan of the Gaunite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90039,7 +90039,7 @@ Greek: τω ιεσερ δημος ο ιεσερι τω σελλημ δημος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Of Jeser, the clan of the Jeserite; of Sellem, the clan of the Sellemite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90059,7 +90059,7 @@ Greek: ουτοι δημοι νεφθαλι εξ επισκεψεως αυτων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of Naphtali by their enrollment, forty-five thousand four hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90079,7 +90079,7 @@ Greek: αυτη η επισκεψις υιων ισραηλ εξακοσιαι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: This is the enrollment of the sons of Israel: six hundred one thousand seven hundred thirty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90099,7 +90099,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -90119,7 +90119,7 @@ Greek: τουτοις μερισθησεται η γη κληρονομειν ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: To these the land shall be divided for inheritance by number of names.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90139,7 +90139,7 @@ Greek: τοις πλειοσιν πλεονασεις την κληρονομι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: To the more you shall increase the inheritance, and to the fewer you shall lessen the inheritance. To each one according to those who were enrolled shall their inheritance be given.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90159,7 +90159,7 @@ Greek: δια κληρων μερισθησεται η γη τοις ονομα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The land shall be divided by lots. By the names of the tribes of their fathers they shall inherit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90179,7 +90179,7 @@ Greek: εκ του κληρου μεριεις την κληρονομιαν α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Out of the lot you shall divide their inheritance between many and few.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90199,7 +90199,7 @@ Greek: και υιοι λευι κατα δημους αυτων τω γεδσω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Levi by their clans: of Gedson, the clan of the Gedsonite; of Kaath, the clan of the Kaathite; of Merari, the clan of the Merarite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90219,7 +90219,7 @@ Greek: ουτοι δημοι υιων λευι δημος ο λοβενι δημ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the clans of the sons of Levi: the clan of the Lobenite, the clan of the Chebronite, the clan of Kore, and the clan of Mousi. And Kaath begot Amram.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90239,7 +90239,7 @@ Greek: και το ονομα της γυναικος αυτου ιωχαβεδ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram Aaron and Moses and Miriam their sister.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90259,7 +90259,7 @@ Greek: και εγεννηθησαν τω ααρων ο τε ναδαβ και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And to Aaron were born Nadab and Abioud and Eleazar and Ithamar.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90279,7 +90279,7 @@ Greek: και απεθανεν ναδαβ και αβιουδ εν τω προσ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Nadab and Abioud died when they brought strange fire before the Lord in the wilderness of Sinai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90299,7 +90299,7 @@ Greek: και εγενηθησαν εξ επισκεψεως αυτων τρει
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And those from their enrollment became twenty-three thousand, every male from one month old and upward. For they were not enrolled among the sons of Israel, because no inheritance is given to them among the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90319,7 +90319,7 @@ Greek: και αυτη η επισκεψις μωυση και ελεαζαρ τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And this is the enrollment of Moses and Eleazar the priest, who enrolled the sons of Israel in the plains of Moab by the Jordan at Jericho.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90339,7 +90339,7 @@ Greek: και εν τουτοις ουκ ην ανθρωπος των επεσκ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And among these there was no man from those enrolled by Moses and Aaron who enrolled the sons of Israel in the wilderness of Sinai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90359,7 +90359,7 @@ Greek: οτι ειπεν κυριος αυτοις θανατω αποθανου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Because the Lord said to them, By death they shall die in the wilderness. And there was not left from them even one, except Caleb son of Jephunneh and Joshua son of Nun.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90381,7 +90381,7 @@ Greek: και προσελθουσαι αι θυγατερες σαλπααδ υ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the daughters of Salpaad son of Opher, son of Gilead, son of Machir, from the clan of Manasseh of the sons of Joseph, came near. And these are their names: Mala and Noua and Egla and Melcha and Thersa.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90401,7 +90401,7 @@ Greek: και στασαι εναντι μωυση και εναντι ελεα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they stood before Moses and before Eleazar the priest and before the leaders and before the whole congregation at the door of the tent of testimony, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -90421,7 +90421,7 @@ Greek: ο πατηρ ημων απεθανεν εν τη ερημω και αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Our father died in the wilderness, and he was not in the midst of the congregation that gathered against the Lord in the congregation of Korah, but he died for his own sin, and sons were not born to him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90441,7 +90441,7 @@ Greek: μη εξαλειφθητω το ονομα του πατρος ημων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Let not the name of our father be wiped out from the midst of his clan because he has no son. Give us a possession among the brothers of our father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90461,7 +90461,7 @@ Greek: και προσηγαγεν μωυσης την κρισιν αυτων �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses brought their judgment before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90481,7 +90481,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -90501,13 +90501,13 @@ Greek: ορθως θυγατερες σαλπααδ λελαληκασιν δο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The daughters of Salpaad have spoken rightly. Giving you shall give them a possession of inheritance among the brothers of their father, and you shall put the inheritance of their father upon them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὀρθῶς ... λελαλήκασιν | lemma: ὀρθῶς | λαλέω | morphology: adverb + perfect active indicative 3 plural | chosen_rendering: have spoken rightly | alternate_renderings: have spoken correctly | rationale: Keeps the divine approval of the daughters argument explicit before the inheritance ruling is stated. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: have spoken rightly | footnote_text: The daughters case is not merely granted; it is called right. This draft keeps that approval direct. | source_basis: divine approval formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -90521,7 +90521,7 @@ Greek: και τοις υιοις ισραηλ λαλησεις λεγων αν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90541,7 +90541,7 @@ Greek: εαν δε μη η θυγατηρ αυτω δωσετε την κληρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if he has no daughter, you shall give his inheritance to his brother.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90561,7 +90561,7 @@ Greek: εαν δε μη ωσιν αυτω αδελφοι δωσετε την κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if he has no brothers, you shall give his inheritance to the brother of his father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90581,7 +90581,7 @@ Greek: εαν δε μη ωσιν αδελφοι του πατρος αυτου �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if there are no brothers of his father, you shall give his inheritance to his nearest kinsman from his tribe, and he shall inherit what is his. And this shall be for the sons of Israel an ordinance of judgment, just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90601,7 +90601,7 @@ Greek: και ειπεν κυριος προς μωυσην αναβηθι ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to Moses, Go up into this mountain across here, Mount Nabau, and see the land of Canaan that I give to the sons of Israel as a possession.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90621,7 +90621,7 @@ Greek: και οψει αυτην και προστεθηση προς τον λ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall see it, and you too shall be added to your people, just as Aaron your brother was added on Mount Hor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90641,7 +90641,7 @@ Greek: διοτι παρεβητε το ρημα μου εν τη ερημω σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Because you transgressed my word in the wilderness of Sin when the congregation fell against me. To sanctify me, you did not sanctify me over the water before them. This is the water of reviling at Kadesh in the wilderness of Sin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90661,7 +90661,7 @@ Greek: και ειπεν μωυσης προς κυριον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to the Lord,
 
 Decision rows:
 - [TODO add decision rows]
@@ -90681,13 +90681,13 @@ Greek: επισκεψασθω κυριος ο θεος των πνευματων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Let the Lord, the God of the spirits and of all flesh, appoint a man over this congregation,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ θεὸς τῶν πνευμάτων καὶ πάσης σαρκός | lemma: θεός | πνεῦμα | σάρξ | morphology: nominative singular noun phrase + genitive plural/singular nouns | chosen_rendering: the God of the spirits and of all flesh | alternate_renderings: God of the spirits of all flesh | rationale: Matches the same solemn formula used earlier in Numbers and keeps the universal scope visible. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God of the spirits and of all flesh | footnote_text: The prayer uses the same broad life-and-flesh formula heard earlier in Numbers. This draft preserves that repeated address. | source_basis: repeated divine title | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -90701,7 +90701,7 @@ Greek: οστις εξελευσεται προ προσωπου αυτων κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: one who shall go out before their face and one who shall come in before their face, and one who shall bring them out and one who shall bring them in, and the congregation of the Lord shall not be like sheep that have no shepherd.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90721,13 +90721,13 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων λ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying, Take to yourself Joshua son of Nun, a man who has spirit in himself, and you shall lay your hands upon him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἄνθρωπον ὃς ἔχει πνεῦμα ἐν ἑαυτῷ | lemma: ἄνθρωπος | ἔχω | πνεῦμα | morphology: accusative singular noun + relative clause | chosen_rendering: a man who has spirit in himself | alternate_renderings: a man in whom there is spirit | rationale: Keeps the inward spirit-language direct instead of turning the line into a later doctrinal formula. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a man who has spirit in himself | footnote_text: The Greek speaks of spirit being in Joshua himself. This draft leaves that inward wording visible. | source_basis: indwelling spirit phrase | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -90741,7 +90741,7 @@ Greek: και στησεις αυτον εναντι ελεαζαρ του ιε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall set him before Eleazar the priest and command him before the whole congregation, and command concerning him before them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90761,7 +90761,7 @@ Greek: και δωσεις της δοξης σου επ' αυτον οπως α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall give some of your glory upon him, so that the sons of Israel may hear him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90781,13 +90781,13 @@ Greek: και εναντι ελεαζαρ του ιερεως στησεται �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὴν κρίσιν τῶν δήλων | lemma: κρίσις | δῆλος | morphology: accusative singular noun phrase + genitive plural adjective used substantively | chosen_rendering: the judgment of the Manifestations | alternate_renderings: the judgment of the clear tokens / Urim-like manifestations | rationale: Tracks the same manifestation vocabulary already used in Exodus instead of importing a later fixed label without signal. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: judgment of the Manifestations | footnote_text: The Greek uses manifestation-language related to the cultic terms translated Manifestation and Truth in Exodus. This draft keeps that link visible. | source_basis: cultic terminology | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -90801,7 +90801,7 @@ Greek: και εποιησεν μωυσης καθα ενετειλατο αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses did just as the Lord commanded him, and taking Joshua he set him before Eleazar the priest and before the whole congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90821,7 +90821,7 @@ Greek: και επεθηκεν τας χειρας αυτου επ' αυτον �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And he laid his hands upon him and appointed him, just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90843,7 +90843,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -90863,7 +90863,7 @@ Greek: εντειλαι τοις υιοις ισραηλ και ερεις πρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Command the sons of Israel and say to them, saying: My gifts, my offerings, my fruit-gifts for an aroma of sweet fragrance, you shall keep to offer to me at my feasts.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90883,7 +90883,7 @@ Greek: και ερεις προς αυτους ταυτα τα καρπωματ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall say to them, These are the fruit-gifts that you shall bring near to the Lord: two one-year lambs without blemish each day for a continual whole burnt offering.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90903,7 +90903,7 @@ Greek: τον αμνον τον ενα ποιησεις το πρωι και τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The one lamb you shall do in the morning, and the second lamb you shall do at evening.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90923,7 +90923,7 @@ Greek: και ποιησεις το δεκατον του οιφι σεμιδα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall make a tenth of an ephah of fine flour for a sacrifice kneaded in oil, a fourth of a hin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90943,7 +90943,7 @@ Greek: ολοκαυτωμα ενδελεχισμου η γενομενη εν τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: It is a continual whole burnt offering made on Mount Sinai for an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90963,7 +90963,7 @@ Greek: και σπονδην αυτου το τεταρτον του ιν τω �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And its libation, a fourth of a hin for the one lamb. In the holy place you shall pour out a libation of strong drink to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90983,7 +90983,7 @@ Greek: και τον αμνον τον δευτερον ποιησεις το π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the second lamb you shall do at evening. According to its sacrifice and according to its libation you shall do it for an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91003,7 +91003,7 @@ Greek: και τη ημερα των σαββατων προσαξετε δυο 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the day of the Sabbaths you shall bring two one-year lambs without blemish and two tenths of fine flour kneaded in oil for a sacrifice and a libation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91023,7 +91023,7 @@ Greek: ολοκαυτωμα σαββατων εν τοις σαββατοις ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: A whole burnt offering of Sabbaths on the Sabbaths, besides the continual whole burnt offering and its libation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91043,7 +91043,7 @@ Greek: και εν ταις νεομηνιαις προσαξετε ολοκαυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And at the new moons you shall bring whole burnt offerings to the Lord: two young bulls from the cattle and one ram, seven one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91063,7 +91063,7 @@ Greek: τρια δεκατα σεμιδαλεως αναπεποιημενης �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: three tenths of fine flour kneaded in oil for the one bull and two tenths of fine flour kneaded in oil for the one ram,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91083,7 +91083,7 @@ Greek: δεκατον σεμιδαλεως αναπεποιημενης εν ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a tenth of fine flour kneaded in oil for the one lamb, a sacrifice, an aroma of sweet fragrance, a fruit-gift to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91103,7 +91103,7 @@ Greek: η σπονδη αυτων το ημισυ του ιν εσται τω μ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of month by month throughout the months of the year.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91123,7 +91123,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And one kid from the goats for a sin offering to the Lord; besides the continual whole burnt offering it shall be made, and its libation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91143,7 +91143,7 @@ Greek: και εν τω μηνι τω πρωτω τεσσαρεσκαιδεκα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in the first month, on the fourteenth day of the month, Passover to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91163,7 +91163,7 @@ Greek: και τη πεντεκαιδεκατη ημερα του μηνος τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the fifteenth day of this month, a feast. Seven days you shall eat unleavened bread.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91183,7 +91183,7 @@ Greek: και η ημερα η πρωτη επικλητος αγια εσται
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the first day shall be a called holy day for you. You shall do no service-work.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91203,7 +91203,7 @@ Greek: και προσαξετε ολοκαυτωματα καρπωματα κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall bring whole burnt offerings, fruit-gifts to the Lord: two young bulls from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91223,7 +91223,7 @@ Greek: και η θυσια αυτων σεμιδαλις αναπεποιημε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And their sacrifice shall be fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91243,7 +91243,7 @@ Greek: δεκατον δεκατον ποιησεις τω αμνω τω ενι 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: A tenth by a tenth you shall do for the one lamb, for the seven lambs.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91263,7 +91263,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And one kid from the goats for a sin offering, to make atonement for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91283,7 +91283,7 @@ Greek: πλην της ολοκαυτωσεως της δια παντος τη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Besides the continual morning whole burnt offering, which is a continual whole burnt offering.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91303,7 +91303,7 @@ Greek: ταυτα κατα ταυτα ποιησετε την ημεραν ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: So shall you do these things day by day for the seven days, a gift, a fruit-gift for an aroma of sweet fragrance to the Lord. Besides the continual whole burnt offering you shall do it and its libation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91323,7 +91323,7 @@ Greek: και η ημερα η εβδομη κλητη αγια εσται υμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the seventh day shall be a called holy day for you. You shall do no service-work on it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91343,7 +91343,7 @@ Greek: και τη ημερα των νεων οταν προσφερητε θυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the day of the new things, when you offer a new sacrifice to the Lord in the Feast of Weeks, it shall be a called holy day for you. You shall do no service-work.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91363,7 +91363,7 @@ Greek: και προσαξετε ολοκαυτωματα εις οσμην ευ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall bring whole burnt offerings for an aroma of sweet fragrance to the Lord: two young bulls from the cattle, one ram, seven one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91383,7 +91383,7 @@ Greek: η θυσια αυτων σεμιδαλις αναπεποιημενη ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91403,7 +91403,7 @@ Greek: δεκατον δεκατον τω αμνω τω ενι τοις επτα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a tenth by a tenth for the one lamb, for the seven lambs,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91423,7 +91423,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, to make atonement for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91443,7 +91443,7 @@ Greek: πλην του ολοκαυτωματος του δια παντος κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Besides the continual whole burnt offering and their sacrifice you shall do them for me. They shall be without blemish for you, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91465,13 +91465,13 @@ Greek: και τω μηνι τω εβδομω μια του μηνος επικ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in the seventh month, on the first day of the month, it shall be a called holy day for you. You shall do no service-work. It shall be a day of signal for you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἡμέρα σημασίας ἔσται ὑμῖν | lemma: ἡμέρα | σημασία | morphology: nominative singular noun phrase | chosen_rendering: It shall be a day of signal for you | alternate_renderings: a day of signaling / trumpet signal | rationale: Keeps the Greek signal-language visible without forcing a later liturgical label into the line. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: day of signal | footnote_text: The Greek marks this day with signal language. This draft leaves that term visible rather than replacing it outright with a later feast title. | source_basis: festival term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -91485,7 +91485,7 @@ Greek: και ποιησετε ολοκαυτωματα εις οσμην ευω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall make whole burnt offerings for an aroma of sweet fragrance to the Lord: one bull from the cattle, one ram, seven one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91505,7 +91505,7 @@ Greek: η θυσια αυτων σεμιδαλις αναπεποιημενη ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91525,7 +91525,7 @@ Greek: δεκατον δεκατον τω αμνω τω ενι τοις επτα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a tenth by a tenth for the one lamb, for the seven lambs,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91545,7 +91545,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, to make atonement for you,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91565,7 +91565,7 @@ Greek: πλην των ολοκαυτωματων της νουμηνιας κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: besides the whole burnt offerings of the new moon and their sacrifices and their libations, and the continual whole burnt offering and their sacrifices and their libations, according to their reckoning, for an aroma of sweet fragrance to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91585,7 +91585,7 @@ Greek: και τη δεκατη του μηνος τουτου επικλητο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the tenth of this month, it shall be a called holy day for you, and you shall afflict your souls, and you shall do no work.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91605,7 +91605,7 @@ Greek: και προσοισετε ολοκαυτωματα εις οσμην ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall offer whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull from the cattle, one ram, seven one-year lambs. They shall be without blemish for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91625,7 +91625,7 @@ Greek: η θυσια αυτων σεμιδαλις αναπεποιημενη ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifice being fine flour kneaded in oil, three tenths for the one bull and two tenths for the one ram,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91645,7 +91645,7 @@ Greek: δεκατον δεκατον τω αμνω τω ενι εις τους �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a tenth by a tenth for the one lamb, for the seven lambs,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91665,7 +91665,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, to make atonement for you, besides the sin offering of atonement and the continual whole burnt offering and its sacrifice and its libation, according to the reckoning, for an aroma of sweet fragrance, a fruit-gift to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91685,7 +91685,7 @@ Greek: και τη πεντεκαιδεκατη ημερα του μηνος τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the fifteenth day of this seventh month it shall be a called holy day for you. You shall do no service-work, and you shall celebrate it as a feast to the Lord seven days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91705,7 +91705,7 @@ Greek: και προσαξετε ολοκαυτωματα καρπωματα ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall bring whole burnt offerings, fruit-gifts for an aroma of sweet fragrance to the Lord: on the first day, thirteen bulls from the cattle, two rams, fourteen one-year lambs. They shall be without blemish.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91725,7 +91725,7 @@ Greek: αι θυσιαι αυτων σεμιδαλις αναπεποιημεν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Their sacrifices shall be fine flour kneaded in oil, three tenths for the one bull, for the thirteen bulls, and two tenths for the one ram, for the two rams,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91745,7 +91745,7 @@ Greek: δεκατον δεκατον τω αμνω τω ενι επι τους �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a tenth by a tenth for the one lamb, for the fourteen lambs,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91765,7 +91765,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91785,7 +91785,7 @@ Greek: και τη ημερα τη δευτερα μοσχους δωδεκα κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the second day, twelve bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91805,7 +91805,7 @@ Greek: η θυσια αυτων και η σπονδη αυτων τοις μο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91825,7 +91825,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91845,7 +91845,7 @@ Greek: τη ημερα τη τριτη μοσχους ενδεκα κριους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On the third day, eleven bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91865,7 +91865,7 @@ Greek: η θυσια αυτων και η σπονδη αυτων τοις μο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91885,7 +91885,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91905,7 +91905,7 @@ Greek: τη ημερα τη τεταρτη μοσχους δεκα κριους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On the fourth day, ten bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91925,7 +91925,7 @@ Greek: αι θυσιαι αυτων και αι σπονδαι αυτων τοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91945,7 +91945,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -91965,7 +91965,7 @@ Greek: τη ημερα τη πεμπτη μοσχους εννεα κριους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On the fifth day, nine bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -91985,7 +91985,7 @@ Greek: αι θυσιαι αυτων και αι σπονδαι αυτων τοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92005,7 +92005,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92025,7 +92025,7 @@ Greek: τη ημερα τη εκτη μοσχους οκτω κριους δυο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On the sixth day, eight bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92045,7 +92045,7 @@ Greek: αι θυσιαι αυτων και αι σπονδαι αυτων τοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92065,7 +92065,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92085,7 +92085,7 @@ Greek: τη ημερα τη εβδομη μοσχους επτα κριους δ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On the seventh day, seven bulls, two rams, fourteen one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92105,7 +92105,7 @@ Greek: αι θυσιαι αυτων και αι σπονδαι αυτων τοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bulls and for the rams and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92125,7 +92125,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92145,13 +92145,13 @@ Greek: και τη ημερα τη ογδοη εξοδιον εσται υμιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And on the eighth day there shall be a dismissal for you. You shall do no service-work on it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐξόδιον ἔσται ὑμῖν | lemma: ἐξόδιον | morphology: nominative singular noun | chosen_rendering: there shall be a dismissal for you | alternate_renderings: a closing assembly / departure day | rationale: Leaves the closing-dismissal sense exposed instead of harmonizing it immediately with later feast terminology. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: dismissal | footnote_text: The Greek wording emphasizes a closing or sending-off day. This draft keeps that sense in view. | source_basis: closing-day term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -92165,7 +92165,7 @@ Greek: και προσαξετε ολοκαυτωματα εις οσμην ευ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall bring whole burnt offerings for an aroma of sweet fragrance, fruit-gifts to the Lord: one bull, one ram, seven one-year lambs without blemish,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92185,7 +92185,7 @@ Greek: αι θυσιαι αυτων και αι σπονδαι αυτων τω �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: their sacrifices and their libations for the bull and for the ram and for the lambs, according to their number, according to their reckoning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92205,7 +92205,7 @@ Greek: και χιμαρον εξ αιγων ενα περι αμαρτιας π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and one kid from the goats for a sin offering, besides the continual whole burnt offering, their sacrifices, and their libations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92225,7 +92225,7 @@ Greek: ταυτα ποιησετε κυριω εν ταις εορταις υμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92247,7 +92247,7 @@ Greek: και ελαλησεν μωυσης τοις υιοις ισραηλ κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses spoke to the sons of Israel according to all that the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92267,7 +92267,7 @@ Greek: και ελαλησεν μωυσης προς τους αρχοντας �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses spoke to the leaders of the tribes of Israel, saying, This is the word that the Lord commanded.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92287,13 +92287,13 @@ Greek: ανθρωπος ανθρωπος ος αν ευξηται ευχην κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Man by man, whoever vows a vow to the Lord or swears an oath or binds himself with a binding over his life, he shall not profane his word. Everything that goes out from his mouth he shall do.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐ βεβηλώσει τὸ ῥῆμα αὐτοῦ | lemma: βεβηλόω | ῥῆμα | morphology: future active indicative 3 singular + accusative singular noun phrase | chosen_rendering: he shall not profane his word | alternate_renderings: he shall not treat his word as common | rationale: Keeps vow-breaking in the Greek category of profanation, not merely failure to perform. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: shall not profane his word | footnote_text: The Greek treats vow-breaking as profanation of the spoken word. This draft keeps that stronger category visible. | source_basis: profanation language | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -92307,7 +92307,7 @@ Greek: εαν δε γυνη ευξηται ευχην κυριω η ορισητ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if a woman vows a vow to the Lord or binds a binding in the house of her father in her youth,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92327,7 +92327,7 @@ Greek: και ακουση ο πατηρ αυτης τας ευχας αυτης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and her father hears her vows and her bindings which she bound against her life and her father keeps silent to her, then all her vows shall stand, and all the bindings which she bound against her life shall remain for her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92347,7 +92347,7 @@ Greek: εαν δε ανανευων ανανευση ο πατηρ αυτης η
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if her father by refusal refuses her on the day he hears all her vows and the bindings which she bound against her life, they shall not stand, and the Lord will clear her, because her father refused her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92367,7 +92367,7 @@ Greek: εαν δε γενομενη γενηται ανδρι και αι ευχ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if, having become, she becomes to a man, and her vows are upon her according to the utterance of her lips, which she bound against her life,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92387,7 +92387,7 @@ Greek: και ακουση ο ανηρ αυτης και παρασιωπηση 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and her husband hears and keeps silent to her on the day he hears, then all her vows shall stand, and her bindings which she bound against her life shall stand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92407,7 +92407,7 @@ Greek: εαν δε ανανευων ανανευση ο ανηρ αυτης η �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if her husband by refusal refuses her on the day he hears, all her vows and her bindings which she bound against her life shall not remain, because her husband refused them from her, and the Lord will clear her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92427,7 +92427,7 @@ Greek: και ευχη χηρας και εκβεβλημενης οσα αν ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the vow of a widow or of one cast out, whatever she vows against her life, shall remain for her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92447,7 +92447,7 @@ Greek: εαν δε εν τω οικω του ανδρος αυτης η ευχη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if in the house of her husband her vow or the binding against her life is with an oath,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92467,7 +92467,7 @@ Greek: και ακουση ο ανηρ αυτης και παρασιωπηση 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and her husband hears and keeps silent to her and does not refuse her, then all her vows shall stand, and all her bindings which she bound against her life shall stand against her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92487,7 +92487,7 @@ Greek: εαν δε περιελων περιελη ο ανηρ αυτης η α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if her husband removes them when he hears, everything that has gone out from her lips according to her vows and according to the bindings against her life shall not remain for her. Her husband removed them, and the Lord will clear her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92507,13 +92507,13 @@ Greek: πασα ευχη και πας ορκος δεσμου κακωσαι ψ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Every vow and every binding oath to afflict a life, her husband shall establish it for her, and her husband shall remove it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὅρκος δεσμοῦ κακῶσαι ψυχήν | lemma: ὅρκος | δεσμός | κακόω | ψυχή | morphology: noun phrase + infinitive phrase | chosen_rendering: Every vow and every binding oath to afflict a life | alternate_renderings: to afflict the soul | rationale: Keeps the Greek life/soul wording available instead of pre-deciding the phrase in one devotional direction. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to afflict a life | footnote_text: The Greek literally speaks of afflicting a life or soul. This draft keeps that wider wording instead of narrowing it too early. | source_basis: soul/life phrase | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -92527,7 +92527,7 @@ Greek: εαν δε σιωπων παρασιωπηση αυτη ημεραν ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if her husband keeps silent to her day after day, he shall establish all her vows and the bindings upon her. He shall establish them for her, because he kept silent to her on the day he heard.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92547,7 +92547,7 @@ Greek: εαν δε περιελων περιελη αυτης μετα την η
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if he removes them after the day he heard, he shall bear his sin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92567,7 +92567,7 @@ Greek: ταυτα τα δικαιωματα οσα ενετειλατο κυρι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the ordinances that the Lord commanded Moses between a man and his wife and between a father and daughter in youth in the house of her father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92589,7 +92589,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -92609,13 +92609,13 @@ Greek: εκδικει την εκδικησιν υιων ισραηλ εκ τω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Avenge the vengeance of the sons of Israel on the Midianites, and at the end you shall be added to your people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐκδίκει τὴν ἐκδίκησιν ... καὶ ἔσχατον προστεθήσῃ | lemma: ἐκδικέω | ἐκδίκησις | προστίθημι | morphology: present imperative + accusative noun + future passive indicative | chosen_rendering: Avenge the vengeance ... and at the end you shall be added to your people | alternate_renderings: Take vengeance ... then be gathered to your people | rationale: Keeps the doubled vengeance wording and the death formula together in the same commission. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Avenge the vengeance | footnote_text: The Greek doubles the vengeance language, then immediately places Moses own death formula after the campaign. This draft keeps both edges of the line. | source_basis: doubled vengeance + death formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -92629,7 +92629,7 @@ Greek: και ελαλησεν μωυσης προς τον λαον λεγων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses spoke to the people, saying, Arm men from among you to array for battle before the Lord against Midian, to return vengeance from the Lord upon Midian.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92649,7 +92649,7 @@ Greek: χιλιους εκ φυλης χιλιους εκ φυλης εκ πασ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: A thousand from a tribe, a thousand from a tribe, from all the tribes of Israel, send out to array for battle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92669,7 +92669,7 @@ Greek: και εξηριθμησαν εκ των χιλιαδων ισραηλ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they were counted from the thousands of Israel, a thousand from a tribe, twelve thousand armed for battle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92689,7 +92689,7 @@ Greek: και απεστειλεν αυτους μωυσης χιλιους εκ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92709,7 +92709,7 @@ Greek: και παρεταξαντο επι μαδιαν καθα ενετειλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they arrayed against Midian just as the Lord commanded Moses, and they killed every male.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92729,7 +92729,7 @@ Greek: και τους βασιλεις μαδιαν απεκτειναν αμα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the kings of Midian they killed along with their wounded: Evin and Sour and Rokom and Our and Robok, five kings of Midian. And Balaam son of Beor they killed with sword along with their wounded.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92749,7 +92749,7 @@ Greek: και επρονομευσαν τας γυναικας μαδιαν κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they plundered the women of Midian and their baggage and their cattle and all their possessions and all their force they plundered.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92769,7 +92769,7 @@ Greek: και πασας τας πολεις αυτων τας εν ταις ο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all their cities in their dwellings and their camps they burned with fire.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92789,7 +92789,7 @@ Greek: και ελαβον πασαν την προνομην και παντα 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they took all the plunder and all their spoils, from human to beast.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92809,7 +92809,7 @@ Greek: και ηγαγον προς μωυσην και προς ελεαζαρ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they brought to Moses and to Eleazar the priest and to all the sons of Israel the captivity and the spoils and the plunder to the camp in the plains of Moab, which are by the Jordan at Jericho.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92829,7 +92829,7 @@ Greek: και εξηλθεν μωυσης και ελεαζαρ ο ιερευς 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92849,7 +92849,7 @@ Greek: και ωργισθη μωυσης επι τοις επισκοποις �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses was angry with the overseers of the force, the chiliarchs and centurions coming from the battle line of the war.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92869,7 +92869,7 @@ Greek: και ειπεν αυτοις μωυσης ινα τι εζωγρησα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to them, Why have you kept every female alive?
 
 Decision rows:
 - [TODO add decision rows]
@@ -92889,13 +92889,13 @@ Greek: αυται γαρ ησαν τοις υιοις ισραηλ κατα το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For these became for the sons of Israel, according to the word of Balaam, a cause to depart and despise the word of the Lord for the sake of Peor, and the plague came in the congregation of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατὰ τὸ ῥῆμα Βαλαάμ τοῦ ἀποστῆσαι | lemma: ῥῆμα | Βαλαάμ | ἀφίστημι | morphology: preposition phrase + articular infinitive | chosen_rendering: according to the word of Balaam, a cause to depart | alternate_renderings: by Balaams counsel, to turn away | rationale: Preserves Balaams word as the named source of Israels turning aside. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: according to the word of Balaam | footnote_text: The Greek names Balaams word as the source behind Israels turning at Peor. This draft keeps that attribution explicit. | source_basis: named source of apostasy | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -92909,7 +92909,7 @@ Greek: και νυν αποκτεινατε παν αρσενικον εν πα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And now kill every male among all the company, and every woman who has known the bed of a male kill.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92929,7 +92929,7 @@ Greek: πασαν την απαρτιαν των γυναικων ητις ου�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But every company of women who has not known the bed of a male keep alive for yourselves.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92949,7 +92949,7 @@ Greek: και υμεις παρεμβαλετε εξω της παρεμβολη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you camp outside the camp seven days, every one who killed and every one touching the wounded. He shall be purified on the third day and on the seventh day, you and your captives.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92969,7 +92969,7 @@ Greek: και παν περιβλημα και παν σκευος δερματ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And every garment and every leather vessel and every work of goats hair and every wooden vessel you shall cleanse.
 
 Decision rows:
 - [TODO add decision rows]
@@ -92989,7 +92989,7 @@ Greek: και ειπεν ελεαζαρ ο ιερευς προς τους ανδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Eleazar the priest said to the men of the force who had come from the battle line of the war, This is the ordinance of the law that the Lord commanded Moses:
 
 Decision rows:
 - [TODO add decision rows]
@@ -93009,7 +93009,7 @@ Greek: πλην του χρυσιου και του αργυριου και χα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Except the gold and the silver and bronze and iron and lead and tin,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93029,7 +93029,7 @@ Greek: παν πραγμα ο διελευσεται εν πυρι και καθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: every thing that goes through fire shall be purified, but it shall be purified by the water of purification. And everything that does not pass through fire shall go through water.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93049,7 +93049,7 @@ Greek: και πλυνεισθε τα ιματια τη ημερα τη εβδο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93069,7 +93069,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93089,7 +93089,7 @@ Greek: λαβε το κεφαλαιον των σκυλων της αιχμαλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Take the total of the spoil of the captivity, from human to beast, you and Eleazar the priest and the leaders of the ancestral houses of the congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93109,7 +93109,7 @@ Greek: και διελειτε τα σκυλα ανα μεσον των πολε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And divide the spoils between the warriors who went out into battle and the whole congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93129,7 +93129,7 @@ Greek: και αφελειτε τελος κυριω παρα των ανθρω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And remove a tax for the Lord from the warriors who went out into battle, one soul out of five hundred, from the humans and from the cattle and from the oxen and from the sheep and from the goats.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93149,7 +93149,7 @@ Greek: και απο του ημισους αυτων λημψεσθε και δ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And from their half you shall take and give to Eleazar the priest the firstfruits of the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93169,7 +93169,7 @@ Greek: και απο του ημισους του των υιων ισραηλ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And from the half of the sons of Israel you shall take one out of fifty, from the humans and from the oxen and from the sheep and from the donkeys and from all the cattle, and you shall give them to the Levites who keep the charges in the tent of the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93189,7 +93189,7 @@ Greek: και εποιησεν μωυσης και ελεαζαρ ο ιερευ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Eleazar the priest did just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93209,7 +93209,7 @@ Greek: και εγενηθη το πλεονασμα της προνομης ο 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the excess of plunder that the fighting men plundered from the sheep was six hundred seventy-five thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93229,7 +93229,7 @@ Greek: και βοες δυο και εβδομηκοντα χιλιαδες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And cattle, seventy-two thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93249,7 +93249,7 @@ Greek: και ονοι μια και εξηκοντα χιλιαδες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And donkeys, sixty-one thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93269,7 +93269,7 @@ Greek: και ψυχαι ανθρωπων απο των γυναικων αι ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And human souls from the women who had not known the bed of a male, all the souls, thirty-two thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93289,7 +93289,7 @@ Greek: και εγενηθη το ημισευμα η μερις των εκπε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the half, the share of those who went out to war, from the number of the sheep, was three hundred thirty-seven thousand five hundred.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93309,7 +93309,7 @@ Greek: και εγενετο το τελος κυριω απο των προβα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the tax to the Lord from the sheep was six hundred seventy-five.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93329,7 +93329,7 @@ Greek: και βοες εξ και τριακοντα χιλιαδες και τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And cattle, thirty-six thousand, and the tax to the Lord, seventy-two.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93349,7 +93349,7 @@ Greek: και ονοι τριακοντα χιλιαδες και πεντακο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And donkeys, thirty thousand five hundred, and the tax to the Lord, sixty-one.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93369,7 +93369,7 @@ Greek: και ψυχαι ανθρωπων εκκαιδεκα χιλιαδες κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And human souls, sixteen thousand, and their tax to the Lord, thirty-two souls.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93389,7 +93389,7 @@ Greek: και εδωκεν μωυσης το τελος κυριω το αφαι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses gave the tax to the Lord, the removed offering of God, to Eleazar the priest, just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93409,7 +93409,7 @@ Greek: απο του ημισευματος των υιων ισραηλ ους 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the half of the sons of Israel, which Moses divided off from the fighting men,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93429,7 +93429,7 @@ Greek: και εγενετο το ημισευμα το της συναγωγη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and the half of the congregation was, from the sheep, three hundred thirty-seven thousand five hundred,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93449,7 +93449,7 @@ Greek: και βοες εξ και τριακοντα χιλιαδες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and cattle, thirty-six thousand,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93469,7 +93469,7 @@ Greek: ονοι τριακοντα χιλιαδες και πεντακοσιο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: donkeys, thirty thousand five hundred,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93489,7 +93489,7 @@ Greek: και ψυχαι ανθρωπων εξ και δεκα χιλιαδες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and human souls, sixteen thousand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93509,7 +93509,7 @@ Greek: και ελαβεν μωυσης απο του ημισευματος τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses took from the half of the sons of Israel one out of fifty, from the humans and from the cattle, and gave them to the Levites who keep the charges of the tent of the Lord, just as the Lord commanded Moses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93529,7 +93529,7 @@ Greek: και προσηλθον προς μωυσην παντες οι καθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all those appointed over the thousands of the force, the chiliarchs and centurions, came near to Moses
 
 Decision rows:
 - [TODO add decision rows]
@@ -93549,7 +93549,7 @@ Greek: και ειπαν προς μωυσην οι παιδες σου ειλη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and said to Moses, Your servants have taken the total of the fighting men from among us, and not even one is missing from them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93569,7 +93569,7 @@ Greek: και προσενηνοχαμεν το δωρον κυριω ανηρ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And we have brought the gift to the Lord, each man what he found, a gold article, chain and bracelet and ring and armlet and clasped ornament, to make atonement for us before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93589,7 +93589,7 @@ Greek: και ελαβεν μωυσης και ελεαζαρ ο ιερευς τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Eleazar the priest took the gold from them, every worked article.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93609,7 +93609,7 @@ Greek: και εγενετο παν το χρυσιον το αφαιρεμα ο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And all the gold, the removed offering that they removed for the Lord, was sixteen thousand seven hundred fifty shekels from the chiliarchs and from the centurions.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93629,7 +93629,7 @@ Greek: και οι ανδρες οι πολεμισται επρονομευσα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the fighting men had each plundered for himself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93649,7 +93649,7 @@ Greek: και ελαβεν μωυσης και ελεαζαρ ο ιερευς τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses and Eleazar the priest took the gold from the chiliarchs and from the centurions and brought it into the tent of testimony, a memorial of the sons of Israel before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93671,7 +93671,7 @@ Greek: και κτηνη πληθος ην τοις υιοις ρουβην κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And cattle in great multitude belonged to the sons of Reuben and to the sons of Gad, very many, and they saw the land of Jazer and the land of Gilead, and the place was a place for cattle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93691,7 +93691,7 @@ Greek: και προσελθοντες οι υιοι ρουβην και οι υ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Reuben and the sons of Gad came and said to Moses and to Eleazar the priest and to the leaders of the congregation, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93711,7 +93711,7 @@ Greek: αταρωθ και δαιβων και ιαζηρ και ναμβρα κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Ataroth and Dibon and Jazer and Nambram and Heshbon and Elealeh and Sebama and Nabau and Baian,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93731,7 +93731,7 @@ Greek: την γην ην παρεδωκεν κυριος ενωπιον των 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: the land that the Lord handed over before the sons of Israel, is cattle-land, and your servants have cattle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93751,7 +93751,7 @@ Greek: και ελεγον ει ευρομεν χαριν ενωπιον σου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they said, If we have found favor before you, let this land be given to your servants as a possession, and do not carry us across the Jordan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93771,7 +93771,7 @@ Greek: και ειπεν μωυσης τοις υιοις γαδ και τοις
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to the sons of Gad and to the sons of Reuben, Shall your brothers go to war and you sit here?
 
 Decision rows:
 - [TODO add decision rows]
@@ -93791,7 +93791,7 @@ Greek: και ινα τι διαστρεφετε τας διανοιας των 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And why do you twist the minds of the sons of Israel, so that they do not cross into the land that the Lord gives them?
 
 Decision rows:
 - [TODO add decision rows]
@@ -93811,7 +93811,7 @@ Greek: ουχ ουτως εποιησαν οι πατερες υμων οτε α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Did not your fathers do thus when I sent them from Kadesh-Barnea to look upon the land?
 
 Decision rows:
 - [TODO add decision rows]
@@ -93831,7 +93831,7 @@ Greek: και ανεβησαν φαραγγα βοτρυος και κατενο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they went up to the Ravine of Cluster and looked upon the land, and turned away the heart of the sons of Israel so that they did not enter into the land that the Lord gave them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93851,7 +93851,7 @@ Greek: και ωργισθη θυμω κυριος εν τη ημερα εκει
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord was enraged in anger on that day and swore, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -93871,7 +93871,7 @@ Greek: ει οψονται οι ανθρωποι ουτοι οι αναβαντ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: If these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall see the land that I swore to Abraham and Isaac and Jacob, because they did not follow after me—
 
 Decision rows:
 - [TODO add decision rows]
@@ -93891,7 +93891,7 @@ Greek: πλην χαλεβ υιος ιεφοννη ο διακεχωρισμεν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: except Caleb son of Jephunneh, the separated one, and Joshua son of Nun, because he followed after the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93911,7 +93911,7 @@ Greek: και ωργισθη θυμω κυριος επι τον ισραηλ κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93931,7 +93931,7 @@ Greek: ιδου ανεστητε αντι των πατερων υμων συσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Behold, you rose up in place of your fathers, a twisted growth of sinful men, to add yet more to the fury of the Lords anger against Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93951,7 +93951,7 @@ Greek: οτι αποστραφησεσθε απ' αυτου προσθειναι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For you will turn away from him, to add yet again to leave him in the wilderness, and you will do lawlessness against all this congregation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93971,7 +93971,7 @@ Greek: και προσηλθον αυτω και ελεγον επαυλεις �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they came near to him and said, Let us build sheepfolds here for our cattle and cities for our baggage.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93991,7 +93991,7 @@ Greek: και ημεις ενοπλισαμενοι προφυλακη προτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But we, armed for a guard, will go first before the sons of Israel until we bring them to their place, and our baggage will dwell in fortified cities because of those dwelling in the land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94011,7 +94011,7 @@ Greek: ου μη αποστραφωμεν εις τας οικιας ημων ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: We shall certainly not turn back to our houses until the sons of Israel are apportioned, each one into his inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94031,7 +94031,7 @@ Greek: και ουκετι κληρονομησωμεν εν αυτοις απο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And we shall no longer inherit with them from beyond the Jordan and further on, because our allotments are here beyond the Jordan to the east.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94051,7 +94051,7 @@ Greek: και ειπεν προς αυτους μωυσης εαν ποιηση�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to them, If you do this thing, if you arm yourselves before the Lord for war,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94071,7 +94071,7 @@ Greek: και παρελευσεται υμων πας οπλιτης τον ι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and every armed man of yours crosses the Jordan before the Lord until his enemy is crushed from before him,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94091,7 +94091,7 @@ Greek: και κατακυριευθη η γη εναντι κυριου και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and the land is subdued before the Lord, and afterward you turn back, then you shall be innocent before the Lord and from Israel, and this land shall be for you as a possession before the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94111,13 +94111,13 @@ Greek: εαν δε μη ποιησητε ουτως αμαρτησεσθε εν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if you do not do thus, you will sin before the Lord, and you shall know your sin when evils overtake you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: γνώσεσθε τὴν ἁμαρτίαν ὑμῶν ὅταν ὑμᾶς καταλάβῃ τὰ κακά | lemma: γινώσκω | ἁμαρτία | καταλαμβάνω | κακός | morphology: future middle indicative + accusative noun phrase + temporal clause | chosen_rendering: you shall know your sin when evils overtake you | alternate_renderings: you will know your sin when disaster catches you | rationale: Keeps the warning tied to sin becoming known through overtaking evils, not only through abstract guilt. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall know your sin when evils overtake you | footnote_text: The warning is not only that they have sinned, but that the sin will become evident when the resulting evils catch them. This draft keeps that sequence visible. | source_basis: warning formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -94131,7 +94131,7 @@ Greek: και οικοδομησετε υμιν αυτοις πολεις τη �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall build cities for your baggage and sheepfolds for your cattle, and what goes out from your mouth you shall do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94151,7 +94151,7 @@ Greek: και ειπαν οι υιοι ρουβην και οι υιοι γαδ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Reuben and the sons of Gad said to Moses, saying, Your servants will do just as our lord commands.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94171,7 +94171,7 @@ Greek: η αποσκευη ημων και αι γυναικες ημων και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Our baggage and our wives and all our cattle will be in the cities of Gilead.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94191,7 +94191,7 @@ Greek: οι δε παιδες σου παρελευσονται παντες ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But your servants will cross over, all armed and drawn up before the Lord for battle, as our lord says.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94211,7 +94211,7 @@ Greek: και συνεστησεν αυτοις μωυσης ελεαζαρ το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses appointed over them Eleazar the priest and Joshua son of Nun and the leaders of the ancestral houses of the tribes of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94231,7 +94231,7 @@ Greek: και ειπεν προς αυτους μωυσης εαν διαβωσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses said to them, If the sons of Reuben and the sons of Gad cross the Jordan with you, every armed man for war before the Lord, and you subdue the land before you, then you shall give them the land of Gilead as a possession.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94251,7 +94251,7 @@ Greek: εαν δε μη διαβωσιν ενωπλισμενοι μεθ' υμω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if they do not cross armed with you before the Lord into war, then you shall bring their baggage and their wives and their cattle across ahead of you into the land of Canaan, and they shall inherit along with you in the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94271,7 +94271,7 @@ Greek: και απεκριθησαν οι υιοι ρουβην και οι υι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Reuben and the sons of Gad answered, saying, Whatever the Lord says to his servants, so we will do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94291,7 +94291,7 @@ Greek: ημεις διαβησομεθα ενωπλισμενοι εναντι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: We will cross armed before the Lord into the land of Canaan, and give us the possession beyond the Jordan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94311,7 +94311,7 @@ Greek: και εδωκεν αυτοις μωυσης τοις υιοις γαδ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses gave to them—to the sons of Gad and to the sons of Reuben and to the half-tribe of Manasseh, sons of Joseph—the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with its borders, the cities of the land around.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94331,7 +94331,7 @@ Greek: και ωκοδομησαν οι υιοι γαδ την δαιβων κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Gad built Dibon and Ataroth and Aroer,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94351,7 +94351,7 @@ Greek: και την σωφαρ και την ιαζηρ και υψωσαν α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and Sophar and Jazer and fortified them,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94371,7 +94371,7 @@ Greek: και την ναμβραν και την βαιθαραν πολεις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and Nambran and Baitharan, fortified cities, and sheepfolds.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94391,7 +94391,7 @@ Greek: και οι υιοι ρουβην ωκοδομησαν την εσεβω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Reuben built Heshbon and Elealeh and Kariathaim,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94411,7 +94411,7 @@ Greek: και την βεελμεων περικεκυκλωμενας και τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and Beelmeon, surrounded with walls, and Sebama, and they renamed by their names the names of the cities that they built.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94431,7 +94431,7 @@ Greek: και επορευθη υιος μαχιρ υιου μανασση ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a son of Machir son of Manasseh went into Gilead and took it and destroyed the Amorite dwelling in it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94451,7 +94451,7 @@ Greek: και εδωκεν μωυσης την γαλααδ τω μαχιρ υι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses gave Gilead to Machir son of Manasseh, and he dwelt there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94471,7 +94471,7 @@ Greek: και ιαιρ ο του μανασση επορευθη και ελαβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Jair the Manassite went and took their camps and named them Jairs Camps.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94491,7 +94491,7 @@ Greek: και ναβαυ επορευθη και ελαβεν την καναα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Nabau went and took Kenaath and its villages and named them Naboth after his name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94513,7 +94513,7 @@ Greek: και ουτοι σταθμοι των υιων ισραηλ ως εξη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these are the stages of the sons of Israel as they went out from the land of Egypt with their forces by the hand of Moses and Aaron.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94533,7 +94533,7 @@ Greek: και εγραψεν μωυσης τας απαρσεις αυτων κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses wrote down their departures and their stages by word of the Lord. And these are the stages of their journey.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94553,7 +94553,7 @@ Greek: απηραν εκ ραμεσση τω μηνι τω πρωτω τη πε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: They set out from Ramesse in the first month, on the fifteenth day of the first month, on the day after Passover. The sons of Israel went out with uplifted hand before all the Egyptians,
 
 Decision rows:
 - [TODO add decision rows]
@@ -94573,7 +94573,7 @@ Greek: και οι αιγυπτιοι εθαπτον εξ αυτων τους τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: while the Egyptians were burying from among them all the dead whom the Lord had struck, every firstborn in the land of Egypt. And on their gods the Lord executed vengeance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94593,7 +94593,7 @@ Greek: και απαραντες οι υιοι ισραηλ εκ ραμεσση 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the sons of Israel set out from Ramesse and camped in Sokchoth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94613,7 +94613,7 @@ Greek: και απηραν εκ σοκχωθ και παρενεβαλον ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Sokchoth and camped in Bouthan, which is some part of the wilderness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94633,7 +94633,7 @@ Greek: και απηραν εκ βουθαν και παρενεβαλον επ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Bouthan and camped at the mouth of Eiroth, which is opposite Beelsepphon, and camped opposite Magdolus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94653,7 +94653,7 @@ Greek: και απηραν απεναντι ειρωθ και διεβησαν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from opposite Eiroth and passed through the midst of the sea into the wilderness, and they went a road of three days through the wilderness, they themselves, and camped in Pikriai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94673,7 +94673,7 @@ Greek: και απηραν εκ πικριων και ηλθον εις αιλι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94693,7 +94693,7 @@ Greek: και απηραν εξ αιλιμ και παρενεβαλον επι 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Ailim and camped by the Red Sea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94713,7 +94713,7 @@ Greek: και απηραν απο θαλασσης ερυθρας και παρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the Red Sea and camped in the wilderness of Sin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94733,7 +94733,7 @@ Greek: και απηραν εκ της ερημου σιν και παρενεβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the wilderness of Sin and camped in Raphaka.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94753,7 +94753,7 @@ Greek: και απηραν εκ ραφακα και παρενεβαλον εν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Raphaka and camped in Ailous.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94773,7 +94773,7 @@ Greek: και απηραν εξ αιλους και παρενεβαλον εν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Ailous and camped in Raphidin, and there was no water for the people to drink there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94793,7 +94793,7 @@ Greek: και απηραν εκ ραφιδιν και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Raphidin and camped in the wilderness of Sinai.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94813,7 +94813,7 @@ Greek: και απηραν εκ της ερημου σινα και παρενε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the wilderness of Sinai and camped at the Tombs of Desire.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94833,7 +94833,7 @@ Greek: και απηραν εκ μνηματων επιθυμιας και πα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the Tombs of Desire and camped in Aseroth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94853,7 +94853,7 @@ Greek: και απηραν εξ ασηρωθ και παρενεβαλον εν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Aseroth and camped in Rathama.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94873,7 +94873,7 @@ Greek: και απηραν εκ ραθαμα και παρενεβαλον εν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Rathama and camped in Remmon-Phares.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94893,7 +94893,7 @@ Greek: και απηραν εκ ρεμμων φαρες και παρενεβα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Remmon-Phares and camped in Lemona.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94913,7 +94913,7 @@ Greek: και απηραν εκ λεμωνα και παρενεβαλον ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Lemona and camped at Dessa.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94933,7 +94933,7 @@ Greek: και απηραν εκ δεσσα και παρενεβαλον εις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Dessa and camped at Makellath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94953,7 +94953,7 @@ Greek: και απηραν εκ μακελλαθ και παρενεβαλον �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Makellath and camped at Sapher.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94973,7 +94973,7 @@ Greek: και απηραν εκ σαφαρ και παρενεβαλον εις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Sapher and camped at Charadath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -94993,7 +94993,7 @@ Greek: και απηραν εκ χαραδαθ και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Charadath and camped at Makeloth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95013,7 +95013,7 @@ Greek: και απηραν εκ μακηλωθ και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Makeloth and camped at Kataath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95033,7 +95033,7 @@ Greek: και απηραν εκ κατααθ και παρενεβαλον ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Kataath and camped at Tarath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95053,7 +95053,7 @@ Greek: και απηραν εκ ταραθ και παρενεβαλον εις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Tarath and camped at Matekka.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95073,7 +95073,7 @@ Greek: και απηραν εκ ματεκκα και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Matekka and camped at Selmona.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95093,7 +95093,7 @@ Greek: και απηραν εκ σελμωνα και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Selmona and camped at Massourouth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95113,7 +95113,7 @@ Greek: και απηραν εκ μασσουρουθ και παρενεβαλο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Massourouth and camped at Banaia.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95133,7 +95133,7 @@ Greek: και απηραν εκ βαναια και παρενεβαλον ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Banaia and camped at Mount Gadgad.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95153,7 +95153,7 @@ Greek: και απηραν εκ του ορους γαδγαδ και παρεν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Mount Gadgad and camped at Etebatha.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95173,7 +95173,7 @@ Greek: και απηραν εξ ετεβαθα και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Etebatha and camped at Ebrona.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95193,7 +95193,7 @@ Greek: και απηραν εξ εβρωνα και παρενεβαλον ει�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Ebrona and camped at Gesiongaber.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95213,7 +95213,7 @@ Greek: και απηραν εκ γεσιωνγαβερ και παρενεβαλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Gesiongaber and camped in the wilderness of Sin, and they set out from the wilderness of Sin and camped in the wilderness of Paran; this is Kadesh.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95233,7 +95233,7 @@ Greek: και απηραν εκ καδης και παρενεβαλον εις 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Kadesh and camped at Mount Hor, near the land of Edom.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95253,7 +95253,7 @@ Greek: και ανεβη ααρων ο ιερευς δια προσταγματ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron the priest went up by command of the Lord and died there, in the fortieth year of the departure of the sons of Israel from the land of Egypt, in the fifth month, on the first day of the month.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95273,7 +95273,7 @@ Greek: και ααρων ην τριων και εικοσι και εκατον
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Aaron was one hundred twenty-three years old when he died on Mount Hor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95293,7 +95293,7 @@ Greek: και ακουσας ο χανανις βασιλευς αραδ και 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Canaanite king of Arad heard, and he himself dwelt in the land of Canaan, when the sons of Israel were entering.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95313,7 +95313,7 @@ Greek: και απηραν εξ ωρ του ορους και παρενεβαλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Mount Hor and camped at Selmona.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95333,7 +95333,7 @@ Greek: και απηραν εκ σελμωνα και παρενεβαλον ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Selmona and camped at Phino.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95353,7 +95353,7 @@ Greek: και απηραν εκ φινω και παρενεβαλον εις ω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Phino and camped at Oboth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95373,7 +95373,7 @@ Greek: και απηραν εξ ωβωθ και παρενεβαλον εν γα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Oboth and camped in Gai-beyond on the borders of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95393,7 +95393,7 @@ Greek: και απηραν εκ γαι και παρενεβαλον εις δα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Gai and camped at Dibon-Gad.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95413,7 +95413,7 @@ Greek: και απηραν εκ δαιβων γαδ και παρενεβαλο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Dibon-Gad and camped in Gelmon-Deblathaim.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95433,7 +95433,7 @@ Greek: και απηραν εκ γελμων δεβλαθαιμ και παρε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from Gelmon-Deblathaim and camped at the mountains of Abarim opposite Nabau.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95453,7 +95453,7 @@ Greek: και απηραν απο ορεων αβαριμ και παρενεβ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they set out from the mountains of Abarim and camped west of Moab by the Jordan at Jericho.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95473,7 +95473,7 @@ Greek: και παρενεβαλον παρα τον ιορδανην ανα μ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they camped by the Jordan, from Aisimoth to Belsattim, west of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95493,7 +95493,7 @@ Greek: και ελαλησεν κυριος προς μωυσην επι δυσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -95513,7 +95513,7 @@ Greek: λαλησον τοις υιοις ισραηλ και ερεις προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95533,7 +95533,7 @@ Greek: και απολειτε παντας τους κατοικουντας ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall destroy all the inhabitants in the land from before you, and you shall remove their watch-posts, and all their molten idols you shall destroy them, and all their pillars you shall remove.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95553,7 +95553,7 @@ Greek: και απολειτε παντας τους κατοικουντας τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall destroy all those inhabiting the land and dwell in it, for I have given you their land by lot.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95573,7 +95573,7 @@ Greek: και κατακληρονομησετε την γην αυτων εν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall take possession of their land by lot according to your tribes. To the greater you shall increase their possession, and to the fewer you shall lessen their possession. Wherever his lot comes out, there it shall be his. According to the tribes of your fathers you shall inherit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95593,13 +95593,13 @@ Greek: εαν δε μη απολεσητε τους κατοικουντας ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if you do not destroy the inhabitants of the land from before you, then those you leave from them shall be spikes in your eyes and darts in your sides, and they shall be hostile over the land on which you dwell.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σκόλοπες ἐν τοῖς ὀφθαλμοῖς ... βολίδες ἐν ταῖς πλευραῖς | lemma: σκόλοψ | βολίς | πλευρά | morphology: nominative plural noun phrases | chosen_rendering: spikes in your eyes and darts in your sides | alternate_renderings: thorns in your eyes and missiles in your flanks | rationale: Retains the two sharp bodily images rather than collapsing them into one generic trouble phrase. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: spikes in your eyes and darts in your sides | footnote_text: The Greek uses two separate bodily threat images here. This draft keeps both instead of flattening the warning into one idiom. | source_basis: paired bodily images | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -95613,7 +95613,7 @@ Greek: και εσται καθοτι διεγνωκειν ποιησαι αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it shall be, just as I determined to do to them, I will do to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95635,7 +95635,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -95655,7 +95655,7 @@ Greek: εντειλαι τοις υιοις ισραηλ και ερεις πρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Command the sons of Israel and say to them, You are entering into the land of Canaan. This shall be for you as an inheritance, the land of Canaan with its borders.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95675,7 +95675,7 @@ Greek: και εσται υμιν το κλιτος το προς λιβα απ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And for you the south side shall be from the wilderness of Sin up to Edom, and for you the southern borders shall be from the side of the Salt Sea eastward.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95695,7 +95695,7 @@ Greek: και κυκλωσει υμας τα ορια απο λιβος προς
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the borders shall turn for you from the south to the ascent of Akrabin and shall pass Sena, and its exit shall be south of Kadesh-Barnea and shall go out to the camp of Arad and shall pass Asemona.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95715,7 +95715,7 @@ Greek: και κυκλωσει τα ορια απο ασεμωνα χειμαρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the borders shall turn from Asemona to the Torrent of Egypt, and its exit shall be the sea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95735,7 +95735,7 @@ Greek: και τα ορια της θαλασσης εσται υμιν η θα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And your sea border shall be the Great Sea; it shall mark the boundary. This shall be for you the sea border.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95755,7 +95755,7 @@ Greek: και τουτο εσται τα ορια υμιν προς βορραν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And this shall be the border for you to the north. From the Great Sea you shall measure for yourselves by Mount Hor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95775,7 +95775,7 @@ Greek: και απο του ορους το ορος καταμετρησετε 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And from Mount Hor you shall measure for yourselves entering into Emath, and its exit shall be the borders of Sarada.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95795,7 +95795,7 @@ Greek: και εξελευσεται τα ορια δεφρωνα και εστ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the borders shall go out to Dephrōn, and its exit shall be Asernain. This shall be for you the northern border.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95815,7 +95815,7 @@ Greek: και καταμετρησετε υμιν αυτοις τα ορια α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall measure for yourselves the eastern border from Asernain to Sephama.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95835,7 +95835,7 @@ Greek: και καταβησεται τα ορια απο σεπφαμ αρβη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the border shall go down from Sepham to Arbela eastward by the springs, and the border shall go down to Bela on the slope of the Sea of Chenereth eastward.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95855,7 +95855,7 @@ Greek: και καταβησεται τα ορια επι τον ιορδανη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the border shall go down to the Jordan, and its exit shall be the Salt Sea. This shall be for you the land and its borders all around.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95875,7 +95875,7 @@ Greek: και ενετειλατο μωυσης τοις υιοις ισραηλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses commanded the sons of Israel, saying, This is the land that you shall inherit by lot, which the Lord commanded Moses to give it to the nine tribes and to the half-tribe of Manasseh,
 
 Decision rows:
 - [TODO add decision rows]
@@ -95895,7 +95895,7 @@ Greek: οτι ελαβεν φυλη υιων ρουβην και φυλη υιω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: because the tribe of the sons of Reuben and the tribe of the sons of Gad by their ancestral houses and the half-tribe of Manasseh received their allotments.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95915,7 +95915,7 @@ Greek: δυο φυλαι και ημισυ φυλης ελαβον τους κλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Two tribes and a half-tribe received their allotments beyond the Jordan at Jericho, from the south eastward.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95935,7 +95935,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -95955,7 +95955,7 @@ Greek: ταυτα τα ονοματα των ανδρων οι κληρονομ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the names of the men who shall allot the land to you: Eleazar the priest and Joshua son of Nun.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95975,7 +95975,7 @@ Greek: και αρχοντα ενα εκ φυλης λημψεσθε κατακ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And one leader from each tribe you shall take to allot the land for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95995,7 +95995,7 @@ Greek: και ταυτα τα ονοματα των ανδρων της φυλη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these are the names of the men: from the tribe of Judah, Caleb son of Jephunneh.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96015,7 +96015,7 @@ Greek: της φυλης συμεων σαλαμιηλ υιος εμιουδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of Symeon, Salamiēl son of Emioud.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96035,7 +96035,7 @@ Greek: της φυλης βενιαμιν ελδαδ υιος χασλων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of Benjamin, Eldad son of Chaslōn.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96055,7 +96055,7 @@ Greek: της φυλης δαν αρχων βακχιρ υιος εγλι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of Dan, the leader Bacchir son of Egli.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96075,7 +96075,7 @@ Greek: των υιων ιωσηφ φυλης υιων μανασση αρχων 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the sons of Joseph, from the tribe of the sons of Manasseh, the leader Aniēl son of Ouphi.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96095,7 +96095,7 @@ Greek: της φυλης υιων εφραιμ αρχων καμουηλ υιο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of the sons of Ephraim, the leader Kamouēl son of Sabatha.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96115,7 +96115,7 @@ Greek: της φυλης ζαβουλων αρχων ελισαφαν υιος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of Zebulun, the leader Elisaphan son of Pharnach.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96135,7 +96135,7 @@ Greek: της φυλης υιων ισσαχαρ αρχων φαλτιηλ υι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of the sons of Issachar, the leader Phaltiēl son of Oza.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96155,7 +96155,7 @@ Greek: της φυλης υιων ασηρ αρχων αχιωρ υιος σελ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of the sons of Asher, the leader Achiōr son of Selemi.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96175,7 +96175,7 @@ Greek: της φυλης νεφθαλι αρχων φαδαηλ υιος βεν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the tribe of Naphtali, the leader Phadaēl son of Benamioud.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96195,7 +96195,7 @@ Greek: ουτοι οις ενετειλατο κυριος καταμερισα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96217,7 +96217,7 @@ Greek: και ελαλησεν κυριος προς μωυσην επι δυσ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses west of Moab by the Jordan at Jericho, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96237,7 +96237,7 @@ Greek: συνταξον τοις υιοις ισραηλ και δωσουσιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Command the sons of Israel, and they shall give to the Levites from the lots of their possession cities to dwell in, and the outskirts of the cities around them they shall give to the Levites.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96257,7 +96257,7 @@ Greek: και εσονται αυτοις αι πολεις κατοικειν �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cities shall be for them to dwell in, and their separated lands shall be for their cattle and for all their four-footed animals.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96277,7 +96277,7 @@ Greek: και τα συγκυρουντα των πολεων ας δωσετε 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the surrounding lands of the cities that you shall give to the Levites, from the wall of the city and outward, shall be two thousand cubits all around.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96297,7 +96297,7 @@ Greek: και μετρησεις εξω της πολεως το κλιτος τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall measure outside the city the east side two thousand cubits and the south side two thousand cubits and the west side two thousand cubits and the north side two thousand cubits, and the city shall be in the middle of this. These shall be for you the adjoining lands of the cities.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96317,13 +96317,13 @@ Greek: και τας πολεις δωσετε τοις λευιταις τας 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cities that you shall give to the Levites, the six cities of refuges, which you shall give for the slayer to flee there, and besides these, forty-two cities.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὰς ἓξ πόλεις τῶν φυγαδευτηρίων | lemma: πόλις | φυγαδευτήριον | morphology: accusative plural noun phrase | chosen_rendering: the six cities of refuges | alternate_renderings: the six refuge cities | rationale: Keeps the flight/refuge sense explicit in the Greek compound instead of reducing it to a simple city label. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cities of refuges | footnote_text: The Greek uses a compound built on fleeing. This draft keeps the refuge-by-flight sense explicit. | source_basis: refuge compound term | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -96337,7 +96337,7 @@ Greek: πασας τας πολεις δωσετε τοις λευιταις τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: All the cities that you shall give to the Levites shall be forty-eight cities, these and their outskirts.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96357,7 +96357,7 @@ Greek: και τας πολεις ας δωσετε απο της κατασχε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cities that you shall give from the possession of the sons of Israel, from the greater share many, and from the smaller share fewer. Each according to his inheritance that they will inherit, they shall give from their cities to the Levites.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96377,7 +96377,7 @@ Greek: και ελαλησεν κυριος προς μωυσην λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96397,7 +96397,7 @@ Greek: λαλησον τοις υιοις ισραηλ και ερεις προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Speak to the sons of Israel and say to them, You are crossing the Jordan into the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96417,7 +96417,7 @@ Greek: και διαστελειτε υμιν αυτοις πολεις φυγα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall designate cities for yourselves. They shall be refuges for you, for the slayer to flee there, everyone who struck down a soul unintentionally.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96437,7 +96437,7 @@ Greek: και εσονται αι πολεις υμιν φυγαδευτηρια
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cities shall be refuges for you from the avenger of blood, and the slayer shall certainly not die until he stands before the congregation for judgment.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96457,7 +96457,7 @@ Greek: και αι πολεις ας δωσετε τας εξ πολεις φυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the cities that you shall give, the six cities, shall be refuges for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96477,7 +96477,7 @@ Greek: τας τρεις πολεις δωσετε εν τω περαν του �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Three cities you shall give beyond the Jordan, and three cities you shall give in the land of Canaan.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96497,7 +96497,7 @@ Greek: φυγαδιον εσται τοις υιοις ισραηλ και τω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The refuge shall be for the sons of Israel and for the proselyte and for the resident among you. These cities shall be a refuge, for everyone striking a soul unintentionally to flee there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96517,7 +96517,7 @@ Greek: εαν δε εν σκευει σιδηρου παταξη αυτον κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96537,7 +96537,7 @@ Greek: εαν δε εν λιθω εκ χειρος εν ω αποθανειτα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if with a stone in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96557,7 +96557,7 @@ Greek: εαν δε εν σκευει ξυλινω εκ χειρος εξ ου α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if with a wooden tool in the hand by which one may die he strikes him and he dies, he is a murderer. The murderer shall surely be put to death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96577,7 +96577,7 @@ Greek: ο αγχιστευων το αιμα ουτος αποκτενει το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96597,7 +96597,7 @@ Greek: εαν δε δι' εχθραν ωση αυτον και επιρριψη 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if through enmity he pushes him, or throws any object upon him from ambush, and he dies,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96617,7 +96617,7 @@ Greek: η δια μηνιν επαταξεν αυτον τη χειρι και �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: or in anger strikes him with the hand and he dies, the one striking shall surely be put to death. He is a murderer. The avenger of blood shall kill the murderer when he meets him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96637,7 +96637,7 @@ Greek: εαν δε εξαπινα ου δι' εχθραν ωση αυτον η �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if suddenly, not through enmity, he pushes him, or throws any object upon him not from ambush,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96657,7 +96657,7 @@ Greek: η παντι λιθω εν ω αποθανειται εν αυτω ου�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: or with any stone by which one may die, not knowing, it falls on him and he dies, while he was not his enemy nor seeking to do him harm,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96677,7 +96677,7 @@ Greek: και κρινει η συναγωγη ανα μεσον του πατα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: then the congregation shall judge between the striker and the avenger of blood according to these judgments.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96697,13 +96697,13 @@ Greek: και εξελειται η συναγωγη τον φονευσαντα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to the city of his refuge where he fled, and he shall dwell there until the great priest dies, the one whom they anointed with the holy oil.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἕως ἂν ἀποθάνῃ ὁ ἱερεὺς ὁ μέγας | lemma: ἕως | ἀποθνῄσκω | ἱερεύς | μέγας | morphology: temporal clause + nominative singular noun phrase | chosen_rendering: until the great priest dies | alternate_renderings: until the high priest dies | rationale: Leaves the title in its direct Greek form while preserving the release marker tied to that death. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: great priest | footnote_text: The Greek title here is literally great priest. This draft keeps that direct wording while marking the release tied to his death. | source_basis: priestly title | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -96717,7 +96717,7 @@ Greek: εαν δε εξοδω εξελθη ο φονευσας τα ορια τ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But if the slayer goes out beyond the bounds of the city where he fled there,
 
 Decision rows:
 - [TODO add decision rows]
@@ -96737,7 +96737,7 @@ Greek: και ευρη αυτον ο αγχιστευων το αιμα εξω �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and the avenger of blood finds him outside the bounds of the city of his refuge and the avenger of blood kills the slayer, he is not guilty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96757,7 +96757,7 @@ Greek: εν γαρ τη πολει της καταφυγης κατοικειτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For he shall dwell in the city of refuge until the great priest dies, and after the great priest dies the slayer shall return to the land of his possession.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96777,7 +96777,7 @@ Greek: και εσται ταυτα υμιν εις δικαιωμα κριμα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And these things shall be for you an ordinance of judgment throughout your generations in all your dwellings.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96797,7 +96797,7 @@ Greek: πας παταξας ψυχην δια μαρτυρων φονευσει
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Everyone striking a soul, by witnesses you shall kill the murderer, but one witness shall not testify against a soul for dying.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96817,7 +96817,7 @@ Greek: και ου λημψεσθε λυτρα περι ψυχης παρα το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall not take ransom for the life of the murderer who is guilty to be taken away, for by death he shall be put to death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96837,7 +96837,7 @@ Greek: ου λημψεσθε λυτρα του φυγειν εις πολιν τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: You shall not take ransom for fleeing into the city of refuges, for returning to dwell upon the land until the great priest dies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96857,13 +96857,13 @@ Greek: και ου μη φονοκτονησητε την γην εις ην υ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall certainly not murder the land in which you dwell, for blood murders the land, and the land shall not be atoned for from the blood poured out on it except by the blood of the one pouring it out.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸ αἷμα τοῦτο φονοκτονεῖ τὴν γῆν | lemma: αἷμα | φονοκτονέω | γῆ | morphology: nominative singular noun phrase + present active indicative 3 singular | chosen_rendering: blood murders the land | alternate_renderings: blood blood-guilts the land | rationale: Keeps the verbal shock of the Greek by making blood itself the active polluting murderer of the land. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: blood murders the land | footnote_text: The Greek makes bloodshed an active assault on the land itself. This draft keeps that violent wording visible. | source_basis: land-pollution verb | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -96877,7 +96877,7 @@ Greek: και ου μιανειτε την γην εφ' ης κατοικειτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you shall not defile the land on which you dwell, upon which I tabernacle among you, for I am the Lord tabernacling in the midst of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96899,7 +96899,7 @@ Greek: και προσηλθον οι αρχοντες φυλης υιων γα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the leaders of the tribe of the sons of Gilead son of Machir son of Manasseh, from the tribe of the sons of Joseph, came near and spoke before Moses and before Eleazar the priest and before the leaders of the ancestral houses of the sons of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96919,7 +96919,7 @@ Greek: και ειπαν τω κυριω ημων ενετειλατο κυρι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they said to our lord, The Lord commanded to give the land of inheritance by lot to the sons of Israel, and to our lord the Lord commanded to give the inheritance of Salpaad our brother to his daughters.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96939,7 +96939,7 @@ Greek: και εσονται ενι των φυλων υιων ισραηλ γυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if they become wives to one of the tribes of the sons of Israel, their inheritance will be taken away from the possession of our fathers and added to the inheritance of the tribe to which they become wives, and it will be taken away from the lot of our inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96959,7 +96959,7 @@ Greek: εαν δε γενηται η αφεσις των υιων ισραηλ �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And if the release of the sons of Israel comes, their inheritance will be added to the inheritance of the tribe to which they become wives, and their inheritance will be taken away from the inheritance of the tribe of our fathers.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96979,7 +96979,7 @@ Greek: και ενετειλατο μωυσης τοις υιοις ισραηλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Moses commanded the sons of Israel by command of the Lord, saying, Thus the tribe of the sons of Joseph speaks.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96999,7 +96999,7 @@ Greek: τουτο το ρημα ο συνεταξεν κυριος ταις θυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: This is the word that the Lord commanded for the daughters of Salpaad, saying, Let them become wives to whom it is pleasing before them. Only from the clan of their father shall they become wives.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97019,13 +97019,13 @@ Greek: και ουχι περιστραφησεται κληρονομια το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And inheritance shall not be turned around for the sons of Israel from tribe to tribe, because the sons of Israel shall cling each to the inheritance of the tribe of his fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐχὶ περιστραφήσεται κληρονομία ... ἀπὸ φυλῆς ἐπὶ φυλήν | lemma: περιστρέφω | κληρονομία | φυλή | morphology: future passive indicative 3 singular + preposition phrase | chosen_rendering: inheritance shall not be turned around ... from tribe to tribe | alternate_renderings: shall not be transferred / turned aside | rationale: Keeps the rotational movement image in the Greek rather than flattening it into a bare legal transfer term. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: turned around | footnote_text: The Greek pictures inheritance being turned around from tribe to tribe. This draft keeps that motion image instead of replacing it with a flatter legal term. | source_basis: movement image in inheritance law | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -97039,7 +97039,7 @@ Greek: και πασα θυγατηρ αγχιστευουσα κληρονομ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And every daughter inheriting inheritance from the tribes of the sons of Israel shall become wife to one from the clan of her father, so that the sons of Israel may inherit each the inheritance of his fathers.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97059,7 +97059,7 @@ Greek: και ου περιστραφησεται κληρος εκ φυλης �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And a lot shall not be turned from tribe to another tribe, but the sons of Israel shall cling each to his own inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97079,7 +97079,7 @@ Greek: ον τροπον συνεταξεν κυριος μωυση ουτως �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Just as the Lord commanded Moses, so the daughters of Salpaad did.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97099,7 +97099,7 @@ Greek: και εγενοντο θερσα και εγλα και μελχα κα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Thersa and Egla and Melcha and Noua and Maala, daughters of Salpaad, became wives to their cousins.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97119,7 +97119,7 @@ Greek: εκ του δημου του μανασση υιων ιωσηφ εγεν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From the clan of Manasseh, sons of Joseph, they became wives, and their inheritance remained upon the tribe of the clan of their father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97139,7 +97139,7 @@ Greek: αυται αι εντολαι και τα δικαιωματα και τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the commands and the ordinances and the judgments that the Lord commanded by the hand of Moses west of Moab by the Jordan at Jericho.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97163,7 +97163,7 @@ Greek: ουτοι οι λογοι ους ελαλησεν μωυσης παντ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97183,7 +97183,7 @@ Greek: ενδεκα ημερων εν χωρηβ οδος επ' ορος σηι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97203,7 +97203,7 @@ Greek: και εγενηθη εν τω τεσσαρακοστω ετει εν τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it came to pass in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to all the sons of Israel according to all that the Lord commanded him to them,
 
 Decision rows:
 - [TODO add decision rows]
@@ -97223,7 +97223,7 @@ Greek: μετα το παταξαι σηων βασιλεα αμορραιων �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: after he struck Sihon king of the Amorites who dwelt in Heshbon and Og king of Bashan who dwelt in Astaroth and in Edrain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97243,7 +97243,7 @@ Greek: εν τω περαν του ιορδανου εν γη μωαβ ηρξα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Beyond the Jordan, in the land of Moab, Moses began to make this law clear, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -97263,7 +97263,7 @@ Greek: κυριος ο θεος ημων ελαλησεν ημιν εν χωρη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The Lord our God spoke to us in Horeb, saying, Let it be enough for you to dwell on this mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97283,7 +97283,7 @@ Greek: επιστραφητε και απαρατε υμεις και εισπο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Turn and set out, you, and enter into the hill-country of the Amorites and to all the neighbors of the Arabah, into mountain and plain and toward the south and the coastland, the land of the Canaanites and Lebanon, as far as the great river Euphrates.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97303,7 +97303,7 @@ Greek: ιδετε παραδεδωκα ενωπιον υμων την γην ε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: See, I have handed over the land before you. Having entered, inherit the land which I swore to your fathers, to Abraham and Isaac and Jacob, to give to them and to their seed after them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97323,7 +97323,7 @@ Greek: και ειπα προς υμας εν τω καιρω εκεινω λε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I said to you at that time, saying, I will not be able to bear you alone.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97343,7 +97343,7 @@ Greek: κυριος ο θεος υμων επληθυνεν υμας και ιδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The Lord your God multiplied you, and behold, today you are as the stars of heaven in multitude.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97363,7 +97363,7 @@ Greek: κυριος ο θεος των πατερων υμων προσθειη 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: May the Lord, the God of your fathers, add to you, as you are, a thousandfold, and bless you just as he spoke to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97383,7 +97383,7 @@ Greek: πως δυνησομαι μονος φερειν τον κοπον υμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: How will I be able alone to bear your toil and your standing and your disputes?
 
 Decision rows:
 - [TODO add decision rows]
@@ -97403,7 +97403,7 @@ Greek: δοτε εαυτοις ανδρας σοφους και επιστημο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Give yourselves men wise and understanding and prudent for your tribes, and I will appoint them as leaders over you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97423,7 +97423,7 @@ Greek: και απεκριθητε μοι και ειπατε καλον το ρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you answered me and said, Good is the word that you spoke to do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97443,7 +97443,7 @@ Greek: και ελαβον εξ υμων ανδρας σοφους και επι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I took from among you men wise and understanding and prudent, and I appointed them to lead over you as chiliarchs and centurions and leaders of fifty and leaders of ten and record-keepers for your judges.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97463,7 +97463,7 @@ Greek: και ενετειλαμην τοις κριταις υμων εν τω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I commanded your judges at that time, saying, Hear between your brothers and judge righteously between a man and his brother and his proselyte.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97483,7 +97483,7 @@ Greek: ουκ επιγνωση προσωπον εν κρισει κατα το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97503,7 +97503,7 @@ Greek: και ενετειλαμην υμιν εν τω καιρω εκεινω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I commanded you at that time all the matters that you should do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97523,7 +97523,7 @@ Greek: και απαραντες εκ χωρηβ επορευθημεν πασα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And setting out from Horeb, we went through all that great and fearful wilderness which you saw, by the road of the mountain of the Amorite, just as the Lord our God commanded us, and we came as far as Kadesh-Barnea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97543,7 +97543,7 @@ Greek: και ειπα προς υμας ηλθατε εως του ορους �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I said to you, You have come as far as the mountain of the Amorite, which the Lord our God gives you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97563,7 +97563,7 @@ Greek: ιδετε παραδεδωκεν υμιν κυριος ο θεος υμ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: See, the Lord your God has handed over the land before you. Go up, inherit, just as the Lord the God of your fathers said to you. Do not fear and do not lose heart.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97583,7 +97583,7 @@ Greek: και προσηλθατε μοι παντες και ειπατε απ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you all came near to me and said, Let us send men before us, and let them explore the land for us and report back to us the answer, the road by which we shall go up in it and the cities into which we shall enter.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97603,7 +97603,7 @@ Greek: και ηρεσεν εναντιον μου το ρημα και ελαβ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the word pleased me, and I took from among you twelve men, one man by tribe.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97623,7 +97623,7 @@ Greek: και επιστραφεντες ανεβησαν εις το ορος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And turning, they went up into the mountain and came as far as the Ravine of Cluster and spied it out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97643,7 +97643,7 @@ Greek: και ελαβοσαν εν ταις χερσιν αυτων απο το
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And they took in their hands from the fruit of the land and brought it down to us and said, Good is the land that the Lord our God gives us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97663,7 +97663,7 @@ Greek: και ουκ ηθελησατε αναβηναι και ηπειθησα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: But you were not willing to go up, and you disobeyed the word of the Lord your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97683,7 +97683,7 @@ Greek: και διεγογγυζετε εν ταις σκηναις υμων κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you were grumbling in your tents and said, Because the Lord hates us, he brought us out from the land of Egypt to hand us over into the hands of the Amorites to destroy us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97703,7 +97703,7 @@ Greek: που ημεις αναβαινομεν οι αδελφοι υμων α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Where are we going up? Our brothers turned away your heart, saying, The nation is great and many and stronger than we, and the cities great and walled up to heaven, and moreover we saw sons of giants there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97723,7 +97723,7 @@ Greek: και ειπα προς υμας μη πτηξητε μηδε φοβηθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I said to you, Do not be terrified, and do not fear them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97743,7 +97743,7 @@ Greek: κυριος ο θεος υμων ο προπορευομενος προ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The Lord your God who goes before your face, he himself will fight together with them for you according to all that he did for you in the land of Egypt,
 
 Decision rows:
 - [TODO add decision rows]
@@ -97763,13 +97763,13 @@ Greek: και εν τη ερημω ταυτη ην ειδετε ως ετροφ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: and in this wilderness which you saw, how the Lord your God carried you as someone would carry his son, throughout all the road that you traveled until you came to this place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὡς εἴ τις τροφοφορήσει ἄνθρωπος τὸν υἱὸν αὐτοῦ | lemma: τροφοφορέω | ἄνθρωπος | υἱός | morphology: comparative clause + future active indicative 3 singular | chosen_rendering: as someone would carry his son | alternate_renderings: as a man nourishes/carries his son | rationale: Keeps the parental carrying image direct instead of shifting immediately to a generalized care metaphor. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: carried you as someone would carry his son | footnote_text: The Greek gives a concrete parental carrying image here. This draft keeps that bodily picture intact. | source_basis: parental carrying image | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -97783,7 +97783,7 @@ Greek: και εν τω λογω τουτω ουκ ενεπιστευσατε κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in this matter you did not trust the Lord your God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -97803,7 +97803,7 @@ Greek: ος προπορευεται προτερος υμων εν τη οδω 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: who goes ahead of you on the road, choosing for you a place, leading you in fire by night, showing you the road on which you go, and in cloud by day.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97823,7 +97823,7 @@ Greek: και ηκουσεν κυριος την φωνην των λογων υ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord heard the voice of your words and, being provoked, swore, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -97843,7 +97843,7 @@ Greek: ει οψεται τις των ανδρων τουτων την αγαθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: If any of these men shall see this good land that I swore to their fathers—
 
 Decision rows:
 - [TODO add decision rows]
@@ -97863,7 +97863,7 @@ Greek: πλην χαλεβ υιος ιεφοννη ουτος οψεται αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: except Caleb son of Jephunneh. He shall see it, and to him I will give the land on which he trod and to his sons, because he clung to the things of the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97883,7 +97883,7 @@ Greek: και εμοι εθυμωθη κυριος δι' υμας λεγων ο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord was angry with me because of you, saying, Neither shall you enter there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97903,7 +97903,7 @@ Greek: ιησους υιος ναυη ο παρεστηκως σοι ουτος 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Joshua son of Nun, the one standing by you, he shall enter there. Strengthen him, because he shall allot it to Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97923,7 +97923,7 @@ Greek: και παν παιδιον νεον οστις ουκ οιδεν σημ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And every young child who today does not know good or evil, these shall enter there, and to these I will give it, and they shall inherit it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97943,7 +97943,7 @@ Greek: και υμεις επιστραφεντες εστρατοπεδευσα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you, having turned, camp yourselves in the wilderness by the road of the Red Sea.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97963,7 +97963,7 @@ Greek: και απεκριθητε μοι και ειπατε ημαρτομεν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you answered me and said, We sinned before the Lord our God. We ourselves, going up, will wage war according to all that the Lord our God commanded us. And each taking up his weapons of war and gathering yourselves, you were going up into the mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -97983,7 +97983,7 @@ Greek: και ειπεν κυριος προς με ειπον αυτοις ου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to me, Tell them, You shall not go up, nor shall you fight, for I am not with you, and you shall not be crushed before your enemies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98003,7 +98003,7 @@ Greek: και ελαλησα υμιν και ουκ εισηκουσατε μο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I spoke to you, and you did not listen to me, and you transgressed the word of the Lord, and forcing your way, you went up into the mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98023,13 +98023,13 @@ Greek: και εξηλθεν ο αμορραιος ο κατοικων εν τω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Amorite who dwelt in that mountain came out to meet you and pursued you as bees might do and were wounding you from Seir to Herma.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὡς εἰ ποιήσαισαν αἱ μέλισσαι | lemma: μέλισσα | ποιέω | morphology: comparative clause with optative | chosen_rendering: as bees might do | alternate_renderings: like bees act/swarm | rationale: Preserves the stinging swarm image without softening the pursuit into a generic chase. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: as bees might do | footnote_text: The pursuers are compared to bees, making the attack feel swarming and stinging rather than merely military. | source_basis: swarm image | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -98043,7 +98043,7 @@ Greek: και καθισαντες εκλαιετε εναντι κυριου κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And sitting down, you were weeping before the Lord, and the Lord did not hear your voice nor pay attention to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98063,7 +98063,7 @@ Greek: και ενεκαθησθε εν καδης ημερας πολλας ο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you remained in Kadesh many days, however many days you remained.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98085,7 +98085,7 @@ Greek: και επιστραφεντες απηραμεν εις την ερημ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And turning, we set out into the wilderness by the way of the Red Sea, just as the Lord spoke to me, and we went around Mount Seir many days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98105,7 +98105,7 @@ Greek: και ειπεν κυριος προς με
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to me,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98125,7 +98125,7 @@ Greek: ικανουσθω υμιν κυκλουν το ορος τουτο επ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Let it be enough for you to go around this mountain. Turn then to the north.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98145,7 +98145,7 @@ Greek: και τω λαω εντειλαι λεγων υμεις παραπορ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And command the people, saying, You are passing through the borders of your brothers, the sons of Esau, who dwell in Seir, and they shall fear you and be very wary of you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98165,7 +98165,7 @@ Greek: μη συναψητε προς αυτους πολεμον ου γαρ μ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Do not join battle with them, for I shall certainly not give you from their land even a step of foot, because I have given Mount Seir to the sons of Esau as an inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98185,7 +98185,7 @@ Greek: βρωματα αργυριου αγορασατε παρ' αυτων κ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Buy food from them with silver and eat, and water by measure take from them for silver and drink.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98205,13 +98205,13 @@ Greek: ο γαρ κυριος ο θεος ημων ευλογησεν σε εν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἐπεδεήθης ῥήματος | lemma: ἐπιδέω | ῥῆμα | morphology: aorist passive indicative 2 singular + genitive singular noun | chosen_rendering: You lacked no thing | alternate_renderings: You were in need of no word/thing | rationale: Keeps the line terse and absolute, reflecting the Greek without over-specifying the object of lack. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: You lacked no thing | footnote_text: The Greek line is brief and totalizing. This draft keeps the absolute form rather than expanding it beyond the text. | source_basis: compressed provision formula | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -98225,7 +98225,7 @@ Greek: και παρηλθομεν τους αδελφους ημων υιους
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And we passed by our brothers, the sons of Esau, who dwell in Seir, by the road of the Arabah, from Ailon and from Gasiongaber. And turning, we passed by the road of the wilderness of Moab.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98245,7 +98245,7 @@ Greek: και ειπεν κυριος προς με μη εχθραινετε τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to me, Do not treat the Moabites as enemies, and do not join them in war, for I shall certainly not give you from their land as an inheritance, because I have given Seir to the sons of Lot as an inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98265,7 +98265,7 @@ Greek: οι ομμιν προτεροι ενεκαθηντο επ' αυτης ε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: The Ommin lived on it formerly, a great and many people and mighty, like the Anakim.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98285,7 +98285,7 @@ Greek: ραφαιν λογισθησονται και ουτοι ωσπερ οι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: These also are counted as Raphain, like the Anakim, and the Moabites call them Ommin.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98305,7 +98305,7 @@ Greek: και εν σηιρ ενεκαθητο ο χορραιος προτερ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And in Seir the Chorraean dwelt formerly, and the sons of Esau destroyed them and crushed them from before them and settled in their place, just as Israel did to the land of his inheritance which the Lord gave them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98325,7 +98325,7 @@ Greek: νυν ουν αναστητε και απαρατε υμεις και π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Now then rise and set out, you, and pass through the Ravine of Zaret. And we passed through the Ravine of Zaret.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98345,7 +98345,7 @@ Greek: και αι ημεραι ας παρεπορευθημεν απο καδ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the days that we traveled from Kadesh-Barnea until we passed through the Ravine of Zaret were thirty-eight years, until all the generation of fighting men fell away, dying from the camp, just as God swore to them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98365,7 +98365,7 @@ Greek: και η χειρ του θεου ην επ' αυτοις εξαναλω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the hand of God was upon them to consume them from the camp until they fell away.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98385,7 +98385,7 @@ Greek: και εγενηθη επει διεπεσαν παντες οι ανδ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And it came to pass, when all the fighting men had fallen away, dying from the midst of the people,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98405,7 +98405,7 @@ Greek: και ελαλησεν κυριος προς με λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: the Lord spoke to me, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98425,7 +98425,7 @@ Greek: συ παραπορευση σημερον τα ορια μωαβ την 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: You are passing today the borders of Moab, Seir.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98445,7 +98445,7 @@ Greek: και προσαξετε εγγυς υιων αμμαν μη εχθρα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And you will come near to the sons of Ammon. Do not treat them as enemies and do not join them in war, for I shall certainly not give you from the land of the sons of Ammon as an inheritance, because I have given it to the sons of Lot as an inheritance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98465,7 +98465,7 @@ Greek: γη ραφαιν λογισθησεται και γαρ επ' αυτης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: It is counted as land of Raphain, for Raphain dwelt on it formerly, and the Ammanites call them Zomzommin,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98485,7 +98485,7 @@ Greek: εθνος μεγα και πολυ και δυνατωτερον υμω�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: a great and many people and stronger than you, like the Anakim. And the Lord destroyed them from before them, and they inherited and dwelt in their place to this day,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98505,7 +98505,7 @@ Greek: ωσπερ εποιησαν τοις υιοις ησαυ τοις κατ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: just as they did for the sons of Esau who dwell in Seir, in the way they crushed the Chorraean from before them and inherited and dwelt in their place to this day.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98525,7 +98525,7 @@ Greek: και οι ευαιοι οι κατοικουντες εν ασηρωθ 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Euaeans who dwelt in Aseroth as far as Gaza, and the Cappadocians who came out from Cappadocia crushed them and dwelt in their place.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98545,7 +98545,7 @@ Greek: νυν ουν αναστητε και απαρατε και παρελθ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Now then rise and set out and pass through the Ravine of Arnon. Behold, I have handed into your hands Sihon king of Heshbon the Amorite and his land. Begin to inherit; join battle with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98565,13 +98565,13 @@ Greek: εν τη ημερα ταυτη εναρχου δουναι τον τρο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: On this day begin to give your terror and your fear on the face of all the nations under heaven, who, hearing your name, shall be troubled and shall have birth-pains from before your face.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὠδῖνας ἕξουσιν ἀπὸ προσώπου σου | lemma: ὠδίν | ἔχω | morphology: accusative plural noun + future active indicative 3 plural | chosen_rendering: shall have birth-pains from before your face | alternate_renderings: shall writhe in pangs before you | rationale: Keeps the labor-pain image explicit in the terror promised among the nations. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: birth-pains | footnote_text: The Greek uses labor-pain language for the nations response. This draft keeps that visceral fear image visible. | source_basis: labor-pain image | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -98585,7 +98585,7 @@ Greek: και απεστειλα πρεσβεις εκ της ερημου κε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And I sent envoys from the wilderness of Kedamoth to Sihon king of Heshbon with words of peace, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98605,7 +98605,7 @@ Greek: παρελευσομαι δια της γης σου εν τη οδω π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: I shall pass through your land. By the road I shall pass. I shall not turn aside right or left.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98625,7 +98625,7 @@ Greek: βρωματα αργυριου αποδωση μοι και φαγομα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Food for silver you shall give me and I shall eat, and water for silver you shall give me and I shall drink, except that I shall pass through on foot,
 
 Decision rows:
 - [TODO add decision rows]
@@ -98645,7 +98645,7 @@ Greek: καθως εποιησαν μοι οι υιοι ησαυ οι κατοι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: just as the sons of Esau dwelling in Seir did for me, and the Moabites dwelling in Aroer, until I pass through the Jordan into the land that the Lord our God gives us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98665,13 +98665,13 @@ Greek: και ουκ ηθελησεν σηων βασιλευς εσεβων π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐσκλήρυνεν ... τὸ πνεῦμα αὐτοῦ καὶ κατίσχυσεν τὴν καρδίαν αὐτοῦ | lemma: σκληρύνω | πνεῦμα | κατισχύω | καρδία | morphology: aorist active indicative sequence | chosen_rendering: hardened his spirit and strengthened his heart | alternate_renderings: made his spirit stubborn and his heart strong | rationale: Preserves the paired inner terms spirit and heart instead of collapsing the hardening to one flat formula. | status: drafted
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: hardened his spirit and strengthened his heart | footnote_text: The Greek names both spirit and heart in the hardening sequence. This draft keeps both inner terms explicit. | source_basis: paired hardening terms | status: drafted
 
 Logos research:
 - [TODO add Logos note]
@@ -98685,7 +98685,7 @@ Greek: και ειπεν κυριος προς με ιδου ηργμαι παρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord said to me, Behold, I have begun to hand over before your face Sihon king of Heshbon the Amorite and his land. Begin to inherit his land.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98705,7 +98705,7 @@ Greek: και εξηλθεν σηων βασιλευς εσεβων εις συ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And Sihon king of Heshbon came out to meet us, he and all his people, for battle at Jassa.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98725,7 +98725,7 @@ Greek: και παρεδωκεν αυτον κυριος ο θεος ημων π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And the Lord our God handed him over before our face, and we struck him and his sons and all his people.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98745,7 +98745,7 @@ Greek: και εκρατησαμεν πασων των πολεων αυτου �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: And we seized all his cities at that time and utterly destroyed every city in succession, and their women and their children. We left no living captive.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98765,7 +98765,7 @@ Greek: πλην τα κτηνη επρονομευσαμεν και τα σκυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Except the cattle we plundered and the spoils of the cities we took.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98785,7 +98785,7 @@ Greek: εξ αροηρ η εστιν παρα το χειλος χειμαρρο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: From Aroer, which is by the lip of the torrent Arnon, and the city that is in the ravine, even to the mountain of Gilead, there was no city that escaped us. The Lord our God handed all of them into our hands.
 
 Decision rows:
 - [TODO add decision rows]
@@ -98805,7 +98805,7 @@ Greek: πλην εις γην υιων αμμων ου προσηλθομεν π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: [TODO]
+Draft translation: Except to the land of the sons of Ammon we did not come near, all adjoining the torrent Jabbok, and the cities in the hill country, just as the Lord our God commanded us.
 
 Decision rows:
 - [TODO add decision rows]
