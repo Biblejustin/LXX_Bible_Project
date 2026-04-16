@@ -1,12 +1,12 @@
 {
   "verse_rows": 23351,
   "verses_with_greek_text": 23351,
-  "verses_with_draft_translation": 4923,
+  "verses_with_draft_translation": 13594,
   "selected_scope": "Genesis-Malachi (39 books)",
   "selected_verse_rows": 23351,
-  "selected_drafted_rows": 4923,
+  "selected_drafted_rows": 13594,
   "output_verse_rows": 23351,
-  "output_drafted_rows": 4923,
+  "output_drafted_rows": 13594,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -27,59 +27,59 @@
     },
     "Deuteronomy": {
       "verse_rows": 959,
-      "drafted_rows": 83
+      "drafted_rows": 959
     },
     "Joshua": {
       "verse_rows": 643,
-      "drafted_rows": 0
+      "drafted_rows": 643
     },
     "Judges": {
       "verse_rows": 618,
-      "drafted_rows": 0
+      "drafted_rows": 618
     },
     "Ruth": {
       "verse_rows": 85,
-      "drafted_rows": 0
+      "drafted_rows": 85
     },
     "1 Samuel": {
       "verse_rows": 772,
-      "drafted_rows": 0
+      "drafted_rows": 772
     },
     "2 Samuel": {
       "verse_rows": 695,
-      "drafted_rows": 0
+      "drafted_rows": 695
     },
     "1 Kings": {
       "verse_rows": 756,
-      "drafted_rows": 0
+      "drafted_rows": 756
     },
     "2 Kings": {
       "verse_rows": 719,
-      "drafted_rows": 0
+      "drafted_rows": 719
     },
     "1 Chronicles": {
       "verse_rows": 930,
-      "drafted_rows": 0
+      "drafted_rows": 930
     },
     "2 Chronicles": {
       "verse_rows": 821,
-      "drafted_rows": 0
+      "drafted_rows": 821
     },
     "Ezra": {
       "verse_rows": 434,
-      "drafted_rows": 0
+      "drafted_rows": 434
     },
     "Nehemiah": {
       "verse_rows": 672,
-      "drafted_rows": 0
+      "drafted_rows": 672
     },
     "Esther": {
       "verse_rows": 164,
-      "drafted_rows": 0
+      "drafted_rows": 164
     },
     "Job": {
       "verse_rows": 1069,
-      "drafted_rows": 0
+      "drafted_rows": 486
     },
     "Psalms": {
       "verse_rows": 2526,
@@ -167,17 +167,17 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 543,
-  "footnote_rows": 453,
+  "decision_rows": 623,
+  "footnote_rows": 532,
   "variant_rows": 48,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 543,
+    "drafted": 623,
     "reviewed": 0
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 453,
+    "drafted": 532,
     "reviewed": 0
   },
   "chapters": [

@@ -1,22 +1,35 @@
 {
-  "drafted_rows_compared": 4923,
+  "drafted_rows_compared": 13594,
   "books_with_drafts": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
     "Deuteronomy",
+    "Esther",
     "Exodus",
+    "Ezra",
     "Genesis",
+    "Job",
+    "Joshua",
+    "Judges",
     "Leviticus",
-    "Numbers"
+    "Nehemiah",
+    "Numbers",
+    "Ruth"
   ],
-  "missing_brenton_rows": 0,
+  "missing_brenton_rows": 1325,
   "importance_counts": {
-    "high": 520,
-    "medium": 797,
-    "low": 3491,
-    "none": 115
+    "high": 600,
+    "medium": 2804,
+    "low": 10037,
+    "none": 153
   },
   "selected_scope": "Genesis-Malachi (39 books)",
   "selected_verse_rows": 23351,
-  "selected_drafted_rows": 4923,
+  "selected_drafted_rows": 13594,
   "min_importance": "none",
-  "output_compare_rows": 4923
+  "output_compare_rows": 13594
 }
