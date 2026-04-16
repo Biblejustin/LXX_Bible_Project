@@ -270,6 +270,37 @@ Private scanner output goes under:
 
 - `data/research/local/logos_scan/`
 
+Local Logos state inspection:
+
+```bash
+# inspect one account
+python3 scripts/inspect_logos_local_state.py --account fuwvxxd2.2xq
+
+# inspect every account
+python3 scripts/inspect_logos_local_state.py --all-accounts --output-dir data/research/local/logos_state_merged
+```
+
+This writes:
+
+- `data/research/local/logos_state/accounts.csv`
+- `data/research/local/logos_state/recent_history.csv`
+- `data/research/local/logos_state/layout_panels.csv`
+- `data/research/local/logos_state/file_signatures.csv`
+- `data/research/local/logos_state/summary.json`
+
+Local Logos index query:
+
+```bash
+python3 scripts/query_logos_local_index.py salvation --account fuwvxxd2.2xq
+python3 scripts/query_logos_local_index.py σωτηρία --account fuwvxxd2.2xq
+```
+
+This queries:
+
+- `AutoComplete.db` for terms, labels, descriptions, word senses, and entity references
+- `milestones.db` for headword-to-resource matches
+- `history.db` for recent matching search / factbook / word-study activity
+
 ## Data Sources in Repo
 
 - `data/hebrew_top_vocab.csv`
