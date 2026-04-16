@@ -226271,10 +226271,10 @@ Greek: και κατισχυσεν ροβοαμ εν ιερουσαλημ και
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+Draft translation: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπονομασαι το ονομα αυτου εκει | lemma: ἐπονομάζω | ὄνομα | morphology: articular infinitive phrase | chosen_rendering: to have his name called there | alternate_renderings: to name his name there; to put his name there; to call his name there | rationale: Revised to match the dominant OT name-formula pattern and the NT-linked idiom family rather than leaving a stiff literal outlier. | status: drafted
 
 Publishable footnotes:
 - [TODO add footnote draft if needed]

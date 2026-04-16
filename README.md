@@ -234,6 +234,23 @@ This produces:
 - `data/research/local/logos_scan/logos_translation_resources.csv`
 - `data/research/local/logos_scan/logos_scan_summary.json`
 
+Options:
+
+```bash
+# scan a specific Logos account
+python3 scripts/scan_logos_library.py --account fuwvxxd2.2xq
+
+# merge all Logos accounts into one union inventory
+python3 scripts/scan_logos_library.py --all-accounts --output-dir data/research/local/logos_scan_merged
+```
+
+Merged output adds account metadata columns:
+
+- `account`
+- `account_ids`
+- `account_count`
+- `resource_locations`
+
 Private scanner output goes under:
 
 - `data/research/local/logos_scan/`

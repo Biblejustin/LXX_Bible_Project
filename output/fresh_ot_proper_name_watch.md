@@ -1,6 +1,6 @@
 # Fresh OT Proper Name Watch
 
-Rows: 21
+Rows: 20
 
 Default policy:
 - use familiar MT-based English name forms in main text when Greek is simply transliterating the same referent
@@ -30,7 +30,7 @@ Default policy:
 
 ## Ierousalem → Jerusalem
 - kind: `place`
-- occurrences: `269`
+- occurrences: `267`
 - sample refs: 2 Samuel 17:20, 2 Samuel 19:20, 2 Samuel 19:26, 2 Samuel 19:34, 2 Samuel 19:35, 2 Samuel 20:2, 2 Samuel 20:3, 2 Samuel 20:7
 - meaning: [none]
 - status: `open`
@@ -79,7 +79,7 @@ Default policy:
 
 ## Roboam → Rehoboam
 - kind: `person`
-- occurrences: `60`
+- occurrences: `58`
 - sample refs: 2 Samuel 8:7, 2 Samuel 14:27, 1 Kings 11:43, 1 Kings 12:1, 1 Kings 12:3, 1 Kings 12:12, 1 Kings 12:13, 1 Kings 12:18
 - meaning: [none]
 - status: `open`
@@ -144,12 +144,5 @@ Default policy:
 - kind: `place`
 - occurrences: `7`
 - sample refs: 1 Kings 16:34, 1 Chronicles 6:63, 1 Chronicles 19:5, 2 Chronicles 28:15, Ezra 2:34, Nehemiah 3:2, Nehemiah 7:36
-- meaning: [none]
-- status: `open`
-
-## Noomma → Naamah
-- kind: `person`
-- occurrences: `1`
-- sample refs: 2 Chronicles 12:13
 - meaning: [none]
 - status: `open`

@@ -158,7 +158,7 @@ def score_resource(row: Dict[str, str], categories: List[str]) -> int:
     return score
 
 
-def normalize_locations(rows: List[Dict[str, str]], resource_locations: Dict[str, str]) -> List[Dict[str, str]]:
+def normalize_locations(rows: List[Dict[str, str]], resource_locations: Dict[str, str], account_name: str) -> List[Dict[str, str]]:
     normalized: List[Dict[str, str]] = []
     for row in rows:
         categories = classify_resource(row)
@@ -172,12 +172,49 @@ def normalize_locations(rows: List[Dict[str, str]], resource_locations: Dict[str
             "languages": row.get("Languages", "") or "",
             "subjects": row.get("Subjects", "") or "",
             "description": row.get("Description", "") or "",
+            "account": account_name,
+            "account_ids": account_name,
+            "account_count": "1",
             "resource_location": resource_locations.get(row.get("ResourceId", "") or "", ""),
+            "resource_locations": resource_locations.get(row.get("ResourceId", "") or "", ""),
             "categories": ";".join(categories),
         }
         normalized_row["relevance_score"] = str(score_resource(row, categories))
         normalized.append(normalized_row)
     return normalized
+
+
+def merge_account_rows(accounts: List[Dict[str, Path]]) -> List[Dict[str, str]]:
+    merged: Dict[str, Dict[str, str]] = {}
+    account_sets: Dict[str, set[str]] = {}
+    location_sets: Dict[str, set[str]] = {}
+
+    for account in accounts:
+        account_name = account["account"].name
+        catalog_rows = fetch_catalog_rows(account["catalog_db"])
+        resource_locations = fetch_resource_locations(account["resource_db"])
+        normalized_rows = normalize_locations(catalog_rows, resource_locations, account_name)
+        for row in normalized_rows:
+            resource_id = row["resource_id"]
+            account_sets.setdefault(resource_id, set()).add(account_name)
+            if row["resource_location"]:
+                location_sets.setdefault(resource_id, set()).add(row["resource_location"])
+            if resource_id not in merged:
+                merged[resource_id] = dict(row)
+
+    out: List[Dict[str, str]] = []
+    for resource_id, row in merged.items():
+        accounts_sorted = sorted(account_sets.get(resource_id, set()))
+        locations_sorted = sorted(location_sets.get(resource_id, set()))
+        row["account_ids"] = ";".join(accounts_sorted)
+        row["account_count"] = str(len(accounts_sorted))
+        if accounts_sorted:
+            row["account"] = accounts_sorted[0] if len(accounts_sorted) == 1 else "multiple"
+        if locations_sorted:
+            row["resource_location"] = locations_sorted[0]
+            row["resource_locations"] = ";".join(locations_sorted)
+        out.append(row)
+    return out
 
 
 def translation_priority_rows(rows: List[Dict[str, str]]) -> List[Dict[str, str]]:
@@ -200,21 +237,25 @@ def write_csv(path: Path, rows: List[Dict[str, str]]) -> None:
         writer.writerows(rows)
 
 
-def build_summary(account: Dict[str, Path], rows: List[Dict[str, str]], priority_rows: List[Dict[str, str]]) -> Dict[str, object]:
+def build_summary(
+    rows: List[Dict[str, str]],
+    priority_rows: List[Dict[str, str]],
+    accounts: List[Dict[str, Path]],
+    selected_account: Optional[Dict[str, Path]] = None,
+    merged_accounts: bool = False,
+) -> Dict[str, object]:
     category_counts = Counter()
     type_counts = Counter()
     for row in rows:
         type_counts[row["type"]] += 1
         for category in filter(None, row["categories"].split(";")):
             category_counts[category] += 1
-    return {
-        "logos_root": str(account["account"].parents[1]),
-        "account": account["account"].name,
-        "catalog_db": str(account["catalog_db"]),
-        "resource_db": str(account["resource_db"]),
-        "documents_dir": str(account["documents_dir"]),
+    summary = {
+        "logos_root": str(accounts[0]["account"].parents[1]) if accounts else "",
         "total_resources": len(rows),
         "priority_resources": len(priority_rows),
+        "merged_accounts": merged_accounts,
+        "accounts_scanned": [row["account"].name for row in accounts],
         "category_counts": dict(sorted(category_counts.items())),
         "top_types": dict(type_counts.most_common(20)),
         "top_priority_resources": [
@@ -228,12 +269,23 @@ def build_summary(account: Dict[str, Path], rows: List[Dict[str, str]], priority
             for row in priority_rows[:40]
         ],
     }
+    if selected_account is not None and not merged_accounts:
+        summary.update(
+            {
+                "account": selected_account["account"].name,
+                "catalog_db": str(selected_account["catalog_db"]),
+                "resource_db": str(selected_account["resource_db"]),
+                "documents_dir": str(selected_account["documents_dir"]),
+            }
+        )
+    return summary
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--logos-root", default=str(DEFAULT_LOGOS_ROOT))
     parser.add_argument("--account")
+    parser.add_argument("--all-accounts", action="store_true")
     parser.add_argument("--output-dir", default=str(DEFAULT_OUTPUT_DIR))
     args = parser.parse_args()
 
@@ -241,12 +293,25 @@ def main() -> None:
     output_dir = Path(args.output_dir).expanduser()
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    account = choose_account(discover_accounts(logos_root), args.account)
-    catalog_rows = fetch_catalog_rows(account["catalog_db"])
-    resource_locations = fetch_resource_locations(account["resource_db"])
-    normalized_rows = normalize_locations(catalog_rows, resource_locations)
+    accounts = discover_accounts(logos_root)
+    if args.all_accounts:
+        selected_accounts = accounts
+        normalized_rows = merge_account_rows(selected_accounts)
+        selected_account = None
+    else:
+        selected_account = choose_account(accounts, args.account)
+        selected_accounts = [selected_account]
+        catalog_rows = fetch_catalog_rows(selected_account["catalog_db"])
+        resource_locations = fetch_resource_locations(selected_account["resource_db"])
+        normalized_rows = normalize_locations(catalog_rows, resource_locations, selected_account["account"].name)
     priority_rows = translation_priority_rows(normalized_rows)
-    summary = build_summary(account, normalized_rows, priority_rows)
+    summary = build_summary(
+        normalized_rows,
+        priority_rows,
+        accounts=selected_accounts,
+        selected_account=selected_account,
+        merged_accounts=args.all_accounts,
+    )
 
     all_csv = output_dir / "logos_resources_all.csv"
     priority_csv = output_dir / "logos_translation_resources.csv"
@@ -259,7 +324,9 @@ def main() -> None:
     print(
         json.dumps(
             {
-                "account": account["account"].name,
+                "account": selected_account["account"].name if selected_account is not None else None,
+                "accounts_scanned": [row["account"].name for row in selected_accounts],
+                "merged_accounts": args.all_accounts,
                 "all_resources_csv": str(all_csv),
                 "translation_resources_csv": str(priority_csv),
                 "summary_json": str(summary_json),

@@ -2,7 +2,7 @@
 
 Rows where current English diverges from the dominant rendering pattern inside a repeated Greek idiom-family.
 
-Rows: 32
+Rows: 31
 
 ## 1 Kings 18:24
 - family: `call-on-name-formula`
@@ -15,12 +15,6 @@ Rows: 32
 - current bucket: `call-in-name`
 - dominant bucket: `call-on-name`
 - fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
-
-## 2 Chronicles 12:13
-- family: `name-there-formula`
-- current bucket: `name-there`
-- dominant bucket: `called-there`
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
 
 ## Jeremiah 7:11
 - family: `name-there-formula`

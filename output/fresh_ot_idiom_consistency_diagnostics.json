@@ -6,8 +6,8 @@
       "description": "Name formula with location marker such as 'to have his name called there'.",
       "row_count": "16",
       "dominant_bucket": "called-there",
-      "dominant_count": "14",
-      "bucket_summary": "called-there=14, name-there=1, other=1"
+      "dominant_count": "15",
+      "bucket_summary": "called-there=15, other=1"
     },
     {
       "family": "name-upon-formula",
@@ -35,7 +35,7 @@
     }
   ],
   "row_count": 109,
-  "outlier_count": 32,
+  "outlier_count": 31,
   "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
   "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",
   "outliers_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_outliers.md",

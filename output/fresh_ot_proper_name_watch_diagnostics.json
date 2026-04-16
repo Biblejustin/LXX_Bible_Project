@@ -1,5 +1,5 @@
 {
-  "rows": 21,
+  "rows": 20,
   "top_rows": [
     {
       "current_form": "Saoul",
@@ -32,7 +32,7 @@
       "current_form": "Ierousalem",
       "preferred_form": "Jerusalem",
       "kind": "place",
-      "occurrences": "269",
+      "occurrences": "267",
       "sample_refs": "2 Samuel 17:20, 2 Samuel 19:20, 2 Samuel 19:26, 2 Samuel 19:34, 2 Samuel 19:35, 2 Samuel 20:2, 2 Samuel 20:3, 2 Samuel 20:7",
       "meaning": "",
       "status": ""

@@ -131,8 +131,8 @@ Rows: 38
 ## 2 Chronicles 12:13
 - family: `name-there-formula`
 - dominant bucket: `called-there`
-- current bucket: `name-there`
-- fresh: And Roboam was strengthened in Ierousalem and reigned. Roboam was forty-one years old when he reigned, and he reigned seventeen years in Ierousalem, in city which Lord chose to name his name there from all tribes of sons of Israel, and name of his mother was Noomma the Ammonite.
+- current bucket: `called-there`
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
