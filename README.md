@@ -16,8 +16,11 @@ Fresh-translation pilot branch for Greek-to-English work using:
 
 ## Current Outputs
 
-- `output/fresh_translation_genesis_1_3_pilot.md`
-- `output/fresh_translation_genesis_1_3_pilot_diagnostics.json`
+- `output/fresh_translation_ot_full.md`
+- `output/fresh_translation_ot_full_translation_only.md`
+- `output/fresh_vs_brenton_ot_drafted.md`
+- `output/fresh_vs_brenton_ot_priority_review.md`
+- `output/fresh_vs_brenton_ot_theme_overview.md`
 
 ## Fresh Translation Pilot
 
@@ -100,6 +103,20 @@ This rebuilds consolidated outputs:
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_drafted.csv`
 
+Priority-review suite:
+
+```bash
+python3 scripts/run_priority_review_suite.py
+```
+
+This rebuilds:
+
+- `output/fresh_vs_brenton_ot_priority_review.md`
+- `output/fresh_vs_brenton_ot_priority_top100.md`
+- `output/priority_books/index.md`
+- `output/fresh_vs_brenton_ot_theme_overview.md`
+- `output/priority_themes/index.md`
+
 Recommended rhythm:
 
 - draft in `data/raw/lxx_greek/ot_full.csv`
@@ -115,8 +132,9 @@ python3 scripts/scan_logos_library.py
 
 This produces:
 
-- `output/fresh_translation_genesis_1_3_pilot.md`
-- `output/fresh_translation_genesis_1_3_pilot_diagnostics.json`
+- `data/research/local/logos_scan/logos_resources_all.csv`
+- `data/research/local/logos_scan/logos_translation_resources.csv`
+- `data/research/local/logos_scan/logos_scan_summary.json`
 
 Private scanner output goes under:
 
