@@ -35,5 +35,5 @@ Selected verses: 6
 ## Ecclesiastes 6:9
 - score: 7
 - reasons: importance=medium; keywords=soul, spirit
-- fresh: Better sight of eyes than wandering of soul; this too vanity and choice of spirit.
+- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 - brenton: [missing]

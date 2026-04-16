@@ -23,6 +23,7 @@ def main() -> None:
     run_script("build_priority_theme_reviews.py")
     run_script("build_priority_review_queue.py")
     run_script("build_decision_review_queue.py")
+    run_script("build_remap_queue.py")
 
     print(
         json.dumps(
@@ -36,6 +37,8 @@ def main() -> None:
                 "review_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_review_queue.md"),
                 "decision_queue": str(ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.csv"),
                 "decision_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.md"),
+                "remap_queue": str(ROOT / "output" / "fresh_vs_brenton_ot_remap_queue.csv"),
+                "remap_queue_readme": str(ROOT / "output" / "fresh_vs_brenton_ot_remap_queue.md"),
             },
             indent=2,
         )

@@ -1,20 +1,20 @@
 # Fresh vs Brenton OT Comparison
 
 Selected scope: Genesis-Malachi (39 books)
-Selected verse rows: 23351
-Selected drafted rows: 23351
+Selected verse rows: 22917
+Selected drafted rows: 22917
 Minimum importance: none
-Output compare rows: 23351
+Output compare rows: 22917
 
-Drafted rows compared: 23351
+Drafted rows compared: 22917
 Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Samuel, Amos, Daniel, Deuteronomy, Ecclesiastes, Esther, Exodus, Ezekiel, Ezra, Genesis, Habakkuk, Haggai, Hosea, Isaiah, Jeremiah, Job, Joel, Jonah, Joshua, Judges, Lamentations, Leviticus, Malachi, Micah, Nahum, Nehemiah, Numbers, Obadiah, Proverbs, Psalms, Ruth, Song of Solomon, Zechariah, Zephaniah
-Missing Brenton rows: 11082
+Missing Brenton rows: 10426
 
 Importance counts:
 - high: 600
-- medium: 4977
-- low: 17621
-- none: 153
+- medium: 4874
+- low: 17287
+- none: 156
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -37,7 +37,7 @@ Note:
 - decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ### Genesis 1:3
@@ -8452,7 +8452,7 @@ Note:
 - decisions: 1
 - footnotes: 0
 - same_normalized: no
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
 
 ### Genesis 32:11
@@ -53827,11 +53827,11 @@ Note:
 
 ### Joshua 9:2
 
-- importance: medium
+- importance: none
 - decisions: 0
 - footnotes: 0
-- same_normalized: no
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
+- same_normalized: yes
+- fresh: they came all together at the same time to make war against Joshua and Israel.
 - brenton: they came all together at the same time to make war against Joshua and Israel.
 
 ### Joshua 9:3
@@ -74449,7 +74449,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Samuel 14:18
@@ -76978,7 +76978,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - brenton: And these are the last words of David.
 
 ### 2 Samuel 23:2
@@ -106304,11 +106304,11 @@ Note:
 
 ### 2 Chronicles 35:19
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
+- fresh: In eighteenth year of reign of Iōsias this Passover was kept.
 - brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ### 2 Chronicles 35:20
@@ -106598,7 +106598,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Iōsias brought Passover in Ierousalem to Lord his God, and sacrificed the Passover on fourteenth day of first month.
+- fresh: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
 
 ### Ezra 1:2
@@ -106607,7 +106607,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Having stationed priests by courses, arrayed in temple of Lord.
+- fresh: Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Ierousalem, the one in Ioudaia.
 - brenton: Thus said Cyrus king of the Persians, The Lord God of heaven has given me all the kingdoms of the earth, and he has given me a charge to build him a house in Jerusalem that is in Judea.
 
 ### Ezra 1:3
@@ -106616,7 +106616,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
+- fresh: Who among you is from all his people? Let his God be with him, and let him go up to Ierousalem in Ioudaia and build house of God of Israel. He is the God in Ierousalem.
 - brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
 
 ### Ezra 1:4
@@ -106625,7 +106625,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And now serve Lord your God and attend his nation Israel, and prepare according to your father-houses and your tribes, according to writing of Dauid king of Israel and according to greatness of Salōmōn his son.
+- fresh: And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for house of God in Ierousalem.
 - brenton: And let every Jew that is left go from every place where he sojourns, and the men of his place shall help him with silver, and gold, and goods, and cattle, together with the voluntary offering for the house of God that is in Jerusalem.
 
 ### Ezra 1:5
@@ -106634,7 +106634,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And standing in temple according to fatherly divisions of you Levites before your brothers, sons of Israel, in order,
+- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
 - brenton: Then the chiefs of the families of Juda and Benjamin arose, and the priests, and the Levites, all whose spirit the Lord stirred up to go up to build the house of the Lord that is in Jerusalem.
 
 ### Ezra 1:6
@@ -106643,7 +106643,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: sacrifice the Passover and prepare the sacrifices for your brothers and do the Passover according to ordinance of Lord given to Mōusēs.
+- fresh: And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
 - brenton: And all that were round about strengthened their hands with vessels of silver, with gold, with goods, and with cattle, and with presents, besides the voluntary offerings.
 
 ### Ezra 1:7
@@ -106652,7 +106652,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Iōsias gifted to people found there thirty thousand lambs and kids and three thousand calves. These were given from royal stores by promise to people and to priests and Levites.
+- fresh: And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
 - brenton: And king Cyrus brought out the vessels of the house of the Lord, which Nabuchodonosor had brought from Jerusalem, and put in the house of his god.
 
 ### Ezra 1:8
@@ -106661,7 +106661,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Chelkias and Zacharias and Hēsyēlos, supervisors of sanctuary, gave to priests for Passover two thousand six hundred sheep and three hundred calves.
+- fresh: And Cyrus king of Persians brought them out by hand of Mithradates the treasurer and counted them out to Sasabasar, governor of Iouda.
 - brenton: And Cyrus king of the Persians brought them out by the hand of Mithradates the treasurer, and he numbered them to Sasabasar, the chief man of Juda.
 
 ### Ezra 1:9
@@ -106670,7 +106670,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Iechonias and Samaias and Nathanaēl the brother and Asabias and Ochielos and Iōram, chiliarchs, gave to Levites for Passover five thousand sheep and seven hundred calves.
+- fresh: And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
 - brenton: And this is their number: thirty gold basons, and a thousand silver basons, nine and twenty changes, thirty golden goblets,
 
 ### Ezra 1:10
@@ -106679,7 +106679,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And when these things happened fittingly, priests and Levites stood,
+- fresh: thirty golden bowls, two hundred silver bowls, and one thousand other vessels.
 - brenton: and four hundred and ten double silver vessels, and a thousand other vessels.
 
 ### Ezra 1:11
@@ -106688,404 +106688,8 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: holding the unleavened breads according to tribes,
+- fresh: All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
 - brenton: All the gold and silver vessels were five thousand four hundred, even all that went up with Sasabasar from the place of transportation, from Babylon to Jerusalem.
-
-### Ezra 1:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and according to divisions of fathers before people, to bring to Lord according to things written in book of Mōusēs, and thus for morning.
-- brenton: [missing]
-
-### Ezra 1:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they roasted the Passover with fire as was fitting, and boiled the sacrifices in bronze pots and cauldrons with sweet fragrance, and carried them to all from people.
-- brenton: [missing]
-
-### Ezra 1:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after these things they prepared for themselves and for priests their brothers, sons of Aarōn. For priests offered fats until dawn, and Levites prepared for themselves and for priests their brothers, sons of Aarōn.
-- brenton: [missing]
-
-### Ezra 1:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And temple-singers, sons of Asaph, were at their order according to things appointed by Dauid and Asaph and Zacharias and Eddinous from king, and gatekeepers at each gate. It was not for each to pass beyond his own course, for their brothers the Levites prepared for them.
-- brenton: [missing]
-
-### Ezra 1:16
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And things of sacrifice of Lord were completed on that day, so that the Passover might be brought and sacrifices might be offered upon altar of Lord according to command of king Iōsias.
-- brenton: [missing]
-
-### Ezra 1:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of Israel found there brought the Passover at that time, and feast of unleavened breads for seven days.
-- brenton: [missing]
-
-### Ezra 1:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And no such Passover was brought in Israel from times of Samouēl the prophet.
-- brenton: [missing]
-
-### Ezra 1:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all kings of Israel did not bring such a Passover as Iōsias brought, and priests and Levites and Ioudaioi and all Israel found there in their dwelling in Ierousalem.
-- brenton: [missing]
-
-### Ezra 1:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: In eighteenth year of Iōsias reigning this Passover was brought.
-- brenton: [missing]
-
-### Ezra 1:21
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And works of Iōsias were made right before Lord his God in heart full of piety.
-- brenton: [missing]
-
-### Ezra 1:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And matters concerning him were written in former times, and concerning those who sinned and acted impiously toward Lord beyond every nation and kingdom and the things by which they grieved him deeply, and words of Lord rose up against Israel.
-- brenton: [missing]
-
-### Ezra 1:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after all this action of Iōsias it happened that Pharaoh king of Egypt came to stir up war in Charkamys at Euphratēs, and Iōsias went out to meet him.
-- brenton: [missing]
-
-### Ezra 1:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And king of Egypt sent to him, saying, What is to me and to you, king of Ioudaia?
-- brenton: [missing]
-
-### Ezra 1:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: I have not been sent against you by Lord God, for my war is on Euphratēs, and now Lord is with me, and Lord with me is hurrying me. Stand away and do not oppose Lord.
-- brenton: [missing]
-
-### Ezra 1:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Iōsias did not turn himself upon his chariot, but attempted to fight him, not paying attention to words of Ieremias prophet from mouth of Lord.
-- brenton: [missing]
-
-### Ezra 1:27
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But he joined battle with him in plain of Mageddaous, and commanders came down to king Iōsias.
-- brenton: [missing]
-
-### Ezra 1:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And king said to his servants, Take me away from battle, for I have become very weak. And immediately his servants took him away from battle-line.
-- brenton: [missing]
-
-### Ezra 1:29
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he mounted his second chariot, and after being brought back to Ierousalem he passed from life and was buried in tomb of his fathers.
-- brenton: [missing]
-
-### Ezra 1:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And in all Iouda they mourned Iōsias, and Ieremias the prophet lamented over Iōsias, and leaders together with women kept lamenting him until this day, and this was given to be done always for all race of Israel.
-- brenton: [missing]
-
-### Ezra 1:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: These things are written in book of histories concerning kings of Iouda, and each deed done in action of Iōsias and his glory and his understanding in law of Lord, both things formerly done by him and those now related in book of kings of Israel and Iouda.
-- brenton: [missing]
-
-### Ezra 1:32
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And those from nation took Iechonias son of Iōsias and showed him forth king instead of Iōsias his father, he being twenty-three years old.
-- brenton: [missing]
-
-### Ezra 1:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he reigned in Iouda and Ierousalem three months, and king of Egypt deposed him from reigning in Ierousalem.
-- brenton: [missing]
-
-### Ezra 1:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he fined nation one hundred talents of silver and one talent of gold.
-- brenton: [missing]
-
-### Ezra 1:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And king of Egypt appointed Iōakim his brother king of Iouda and Ierousalem.
-- brenton: [missing]
-
-### Ezra 1:36
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he bound Iōakim's nobles, and Zarios his brother, after seizing him, he brought up from Egypt.
-- brenton: [missing]
-
-### Ezra 1:37
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Now Iōakim was twenty-five years old when he reigned over Iouda and Ierousalem, and he did evil before Lord.
-- brenton: [missing]
-
-### Ezra 1:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Nabouchodonosor king of Babylōn came up against him, and after binding him in bronze chain he led him away into Babylōn.
-- brenton: [missing]
-
-### Ezra 1:39
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after Nabouchodonosor took sacred vessels of Lord and carried them away, he deposited them in his own temple in Babylōn.
-- brenton: [missing]
-
-### Ezra 1:40
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Things recorded concerning him and his uncleanness and impiety are written in book of chronicles of kings.
-- brenton: [missing]
-
-### Ezra 1:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Iōakim his son reigned instead of him, for when he was shown forth he was eighteen years old.
-- brenton: [missing]
-
-### Ezra 1:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he reigned in Ierousalem three months and ten days, and he did evil before Lord.
-- brenton: [missing]
-
-### Ezra 1:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after a year Nabouchodonosor sent and transferred him into Babylōn together with sacred vessels of Lord.
-- brenton: [missing]
-
-### Ezra 1:44
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he appointed Sedekias king of Iouda and Ierousalem, Sedekias being twenty-one years old, and he reigned eleven years.
-- brenton: [missing]
-
-### Ezra 1:45
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he did evil before Lord and was not ashamed from words spoken by Ieremias the prophet from mouth of Lord.
-- brenton: [missing]
-
-### Ezra 1:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And though sworn by king Nabouchodonosor in name of Lord, after swearing falsely he rebelled, and hardening his neck and strengthening his heart he transgressed laws of Lord God of Israel.
-- brenton: [missing]
-
-### Ezra 1:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And leaders of people and priests acted very impiously and lawlessly beyond all uncleannesses of all nations, and they defiled sanctuary of Lord sanctified in Ierousalēm.
-- brenton: [missing]
-
-### Ezra 1:48
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And God of their fathers sent through his angel to call them back, because he was sparing them and his tabernacle.
-- brenton: [missing]
-
-### Ezra 1:49
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But they mocked his messengers, and on day Lord spoke they were making sport of his prophets, until in his anger against his nation for their impieties he commanded kings of Chaldeans to be brought up against them.
-- brenton: [missing]
-
-### Ezra 1:50
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: These killed their young men with sword around their holy sanctuary, and they did not spare young man and virgin and old man and younger, but he gave all into their hands.
-- brenton: [missing]
-
-### Ezra 1:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And taking all sacred vessels of Lord, great and small, and coffers of Lord and royal storehouses, they carried them away into Babylōn.
-- brenton: [missing]
-
-### Ezra 1:52
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they burned house of Lord and broke down walls of Ierousalēm, and burned her towers with fire.
-- brenton: [missing]
-
-### Ezra 1:53
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they finished all her glorious things for destruction, and remnant he led away with sword into Babylōn.
-- brenton: [missing]
-
-### Ezra 1:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they were servants to him and to his sons until Persians reigned, for fulfillment of word of Lord in mouth of Ieremias,
-- brenton: [missing]
-
-### Ezra 1:55
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: until land was pleased with its Sabbaths; all time of its desolation it will keep Sabbath for fulfillment of seventy years.
-- brenton: [missing]
 
 ### Ezra 2:1
 
@@ -107093,7 +106697,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: In first year of Cyrus king of Persians, for fulfillment of word of Lord in mouth of Ieremias, Lord stirred spirit of Cyrus king of Persians, and he proclaimed in all his kingdom, also by writings, saying,
+- fresh: And these are sons of the province, those coming up from captivity of the exile whom Nabouchodonosor king of Babylon exiled to Babylon, and they returned to Ierousalem and Iouda, each to his city.
 - brenton: And these are the people of the land that went up, of the number of prisoners who were removed, whom Nabuchodonosor king of Babylon carried away to Babylon, and they returned to Juda and Jerusalem, every man to his city;
 
 ### Ezra 2:2
@@ -107102,7 +106706,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Thus says Cyrus king of Persians: Lord of Israel, Lord Most High, appointed me king of inhabited world and signified to me to build for him house in Ierousalem in Ioudaia.
+- fresh: Those who came with Zorobabel were Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum, and Baana. Number of men of people of Israel:
 - brenton: who came with Zorobabel: Jesus, Neemias, Saraias, Reelias, Mardochæus, Balasan, Masphar, Baguai, Reum, Baana. The number of the people of Israel:
 
 ### Ezra 2:3
@@ -107111,34 +106715,34 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: If then anyone of you is from his nation, let his Lord be with him, and after going up to Ierousalem in Ioudaia let him build house of Lord of Israel. He is Lord, the one who dwelt in Ierousalem.
+- fresh: Sons of Phoros: 2,172.
 - brenton: The children of Phares, two thousand one hundred and seventy-two.
 
 ### Ezra 2:4
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now as many as dwell in places, let those in his place help him with gold and silver, with gifts, with horses and cattle, besides other things added according to vows for sanctuary of Lord in Ierousalem.
+- fresh: Sons of Saphatia: 372.
 - brenton: The children of Saphatia, three hundred and seventy-two.
 
 ### Ezra 2:5
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then chiefs of father-houses of tribe of Iouda and Beniamin and priests and Levites stood up, and of all whose spirit Lord raised to go up to build house for Lord in Ierousalem.
+- fresh: Sons of Hara: 775.
 - brenton: The children of Ares, seven hundred and seventy-five.
 
 ### Ezra 2:6
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And those around them helped with everything, with silver and gold, horses and cattle and very many vowed gifts, from many whose mind was raised.
+- fresh: Sons of Phaathmoab, to sons of Iesoue-Ioab: 2,812.
 - brenton: The children of Phaath Moab, belonging to the sons of Jesue and Joab, two thousand eight hundred and twelve.
 
 ### Ezra 2:7
@@ -107147,7 +106751,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And king Cyrus brought out sacred vessels of Lord which Nabouchodonosor carried away from Ierousalem and deposited in his own idol-temple.
+- fresh: Sons of Ailam: 1,254.
 - brenton: The children of Ælam, a thousand two hundred and fifty-four.
 
 ### Ezra 2:8
@@ -107156,7 +106760,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: After bringing them out, Cyrus king of Persians gave them to Mithridatēs his own treasurer, and through him they were handed over to Sanabassar, governor of Ioudaia.
+- fresh: Sons of Zathoua: 945.
 - brenton: The children of Zatthua, nine hundred and forty-five.
 
 ### Ezra 2:9
@@ -107165,7 +106769,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And number of these was: golden libation-bowls one thousand, silver libation-bowls one thousand, silver censers twenty-nine,
+- fresh: Sons of Zakkou: 760.
 - brenton: The children of Zacchu, seven hundred and sixty.
 
 ### Ezra 2:10
@@ -107174,7 +106778,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: golden bowls thirty, silver bowls two thousand four hundred ten, and other vessels one thousand.
+- fresh: Sons of Banoui: 642.
 - brenton: The children of Banui, six hundred and forty-two.
 
 ### Ezra 2:11
@@ -107183,7 +106787,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all vessels carried over, gold and silver, were five thousand four hundred sixty-nine. They were brought up by Sanabassar together with those of captivity from Babylōn to Ierosolyma.
+- fresh: Sons of Babi: 623.
 - brenton: The children of Babai, six hundred and twenty-three.
 
 ### Ezra 2:12
@@ -107192,7 +106796,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now in times of Artaxerxes king of Persians, Bēslemos and Mithradatēs and Tabellios and Raoumos and Beelteēmos and Samsaios the scribe and the rest allied with these, dwelling in Samareia and other places, wrote against those dwelling in Ioudaia and Ierousalem the letter written below.
+- fresh: Sons of Asgad: 3,222.
 - brenton: The children of Asgad, a thousand two hundred and twenty-two.
 
 ### Ezra 2:13
@@ -107201,7 +106805,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: To king Artaxerxes our lord, your servants Raoumos the recorder and Samsaios the scribe and rest of their council, judges in Coele-Syria and Phoinikia:
+- fresh: Sons of Adonikam: 666.
 - brenton: The children of Adonicam, six hundred and sixty-six.
 
 ### Ezra 2:14
@@ -107210,7 +106814,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And now let it be known to our lord king that, after Ioudaioi came up from you to us and came into Ierousalem, that rebellious and wicked city, they are building its marketplaces and restoring walls and laying foundations for temple.
+- fresh: Sons of Bagoi: 2,056.
 - brenton: The children of Bague, two thousand and fifty-six.
 
 ### Ezra 2:15
@@ -107219,7 +106823,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: If then this city is built and walls are completed, they will certainly not endure to pay tribute, but will also oppose kings.
+- fresh: Sons of Adin: 454.
 - brenton: The children of Addin, four hundred and fifty-four.
 
 ### Ezra 2:16
@@ -107228,7 +106832,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And since matters concerning temple are in progress, we consider it good not to overlook such a thing, but to address our lord king, so that it might appear to you if search is made in books from your fathers.
+- fresh: Sons of Ater, of Hezekias: 98.
 - brenton: The children of Ater the son of Ezekias, ninety-eight.
 
 ### Ezra 2:17
@@ -107237,7 +106841,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And you will find in records things written concerning these, and you will know that that city was rebellious and troubling kings and cities, and that Ioudaioi were rebels and setting up sieges in it from everlasting, for which reason also this city was laid waste.
+- fresh: Sons of Basou: 323.
 - brenton: The children of Bassu, three hundred and twenty-three.
 
 ### Ezra 2:18
@@ -107246,7 +106850,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Therefore now we show you, lord king, that if this city is built and its walls are raised again, you will no longer have passage into Coele-Syria and Phoinikia.
+- fresh: Sons of Iora: 112.
 - brenton: The children of Jora, a hundred and twelve.
 
 ### Ezra 2:19
@@ -107255,7 +106859,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then king wrote back to Raoumos the recorder and Beelteēmos and Samsaios the scribe and the rest allied with them and dwelling in Samareia and Syria and Phoinikia the things written below:
+- fresh: Sons of Asem: 223.
 - brenton: The children of Asum, two hundred and twenty-three.
 
 ### Ezra 2:20
@@ -107264,7 +106868,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: I read the letter which you sent to me.
+- fresh: Sons of Gaber: 95.
 - brenton: The children of Gaber, ninety-five.
 
 ### Ezra 2:21
@@ -107273,7 +106877,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: So I ordered search to be made, and it was found that that city from everlasting has arrayed itself against kings, and men there are bringing rebellions and wars to completion.
+- fresh: Sons of Baithleem: 123.
 - brenton: The children of Bethlaem, a hundred and twenty-three.
 
 ### Ezra 2:22
@@ -107282,7 +106886,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And strong and harsh kings were in Ierousalem, ruling and taxing Coele-Syria and Phoinikia.
+- fresh: Sons of Netopha: 56.
 - brenton: The children of Netopha, fifty-six.
 
 ### Ezra 2:23
@@ -107291,7 +106895,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now therefore I ordered that those men be prevented from building the city,
+- fresh: Sons of Anathoth: 128.
 - brenton: The children of Anathoth, a hundred and twenty-eight.
 
 ### Ezra 2:24
@@ -107300,7 +106904,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and that care be taken so that nothing beyond these things be done and that progress of wickedness not go further to trouble kings.
+- fresh: Sons of Asmoth: 42.
 - brenton: The children of Azmoth, forty-three.
 
 ### Ezra 2:25
@@ -107309,7 +106913,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then when things written from king Artaxerxes were read, Raoumos and Samsaios the scribe and those allied with them, after setting out in haste to Ierousalem with horse and ordered crowd, began hindering those building.
+- fresh: Sons of Kariathiarim, Kaphira, and Beroth: 743.
 - brenton: The children of Cariathiarim, Chaphira, and Beroth, seven hundred and forty-three.
 
 ### Ezra 2:26
@@ -107318,8 +106922,404 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And building of sanctuary in Ierousalem ceased until second year of reign of Darius king of Persians.
+- fresh: Sons of Arama and Gabaa: 621.
 - brenton: The children of Rama and Gabaa, six hundred and twenty-one.
+
+### Ezra 2:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Men of Machmas: 122.
+- brenton: The men of Machmas, a hundred and twenty-two.
+
+### Ezra 2:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Men of Baithel and Aia: 423.
+- brenton: The men of Bæthel and Aia, four hundred and twenty-three.
+
+### Ezra 2:29
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Nabo: 52.
+- brenton: The children of Nabu, fifty-two.
+
+### Ezra 2:30
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Magebos: 156.
+- brenton: The children of Magebis, a hundred and fifty-six.
+
+### Ezra 2:31
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Elam-ar: 1,254.
+- brenton: The children of Elamar, a thousand two hundred and fifty-four.
+
+### Ezra 2:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Heram: 320.
+- brenton: The children of Elam, three hundred and twenty.
+
+### Ezra 2:33
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Lod, Aroth, and Ono: 725.
+- brenton: The children of Lodadi and Ono, seven hundred and twenty-five.
+
+### Ezra 2:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Iericho: 345.
+- brenton: The children of Jericho, three hundred and forty-five.
+
+### Ezra 2:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Sanaa: 3,630.
+- brenton: The children of Senaa, three thousand six hundred and thirty.
+
+### Ezra 2:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priests: sons of Iedoua, of house of Iesou, 973.
+- brenton: And the priests, the sons of Jedua, belonging to the house of Jesus, were nine hundred and seventy-three.
+
+### Ezra 2:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Emmer: 1,052.
+- brenton: The children of Emmer, a thousand and fifty-two.
+
+### Ezra 2:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Phassour: 1,247.
+- brenton: The children of Phassur, a thousand two hundred and forty-seven.
+
+### Ezra 2:39
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Herem: 1,007.
+- brenton: The children of Erem, a thousand and seven.
+
+### Ezra 2:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the Levites: sons of Iesou and Kadmiel, to sons of Odouia, 74.
+- brenton: And the Levites, the sons of Jesus and Cadmiel, belonging to the sons of Oduia, seventy-four.
+
+### Ezra 2:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The singers: sons of Asaph, 128.
+- brenton: The sons of Asaph, singers, a hundred and twenty-eight.
+
+### Ezra 2:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of the gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabaou, all together 139.
+- brenton: The children of the porters, the children of Sellum, the children of Ater, the children of Telmon, the children of Acub, the children of Atita, the children of Sobai, in all a hundred and thirty-nine.
+
+### Ezra 2:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The nethinim: sons of Souia, sons of Asouph, sons of Tabaoth,
+- brenton: The Nathinim: the children of Suthia, the children of Asupha, the children of Tabaoth,
+
+### Ezra 2:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Keraos, sons of Soeia, sons of Phadon,
+- brenton: the sons of Cades, the children of Siaa, the children of Phadon,
+
+### Ezra 2:45
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Labano, sons of Agaba, sons of Akaboth,
+- brenton: the children of Labano, the children of Agaba, the sons of Acub,
+
+### Ezra 2:46
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Agab, sons of Samalai, sons of Anan,
+- brenton: the children of Agab, the children of Selami, the children of Anan,
+
+### Ezra 2:47
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Kedel, sons of Gaer, sons of Reea,
+- brenton: the children of Geddel, the children of Gaar, the children of Raia,
+
+### Ezra 2:48
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Rason, sons of Nekoda, sons of Gazem,
+- brenton: the children of Rason, the children of Necoda, the children of Gazem,
+
+### Ezra 2:49
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Ousa, sons of Phase, sons of Basi,
+- brenton: the children of Azo, the children of Phase, the children of Basi,
+
+### Ezra 2:50
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Asena, sons of Maonim, sons of Naphison,
+- brenton: the children of Asena, the children of Moünim, the children of Nephusim,
+
+### Ezra 2:51
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Bakbouk, sons of Akipha, sons of Arour,
+- brenton: the children of Bacbuc, the children of Acupha, the children of Arur,
+
+### Ezra 2:52
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Basaloth, sons of Maouda, sons of Aresa,
+- brenton: the children of Basaloth, the children of Mauda, the children of Arsa,
+
+### Ezra 2:53
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Barkous, sons of Sisara, sons of Thema,
+- brenton: the children of Barcos, the children of Sisara, the children of Thema,
+
+### Ezra 2:54
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Nasoue, sons of Atoupha.
+- brenton: the children of Nasthie, the children of Atupha.
+
+### Ezra 2:55
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Sons of Abdeselma: sons of Sati, sons of Asepherath, sons of Phadoura,
+- brenton: The children of the servants of Solomon: the children of Sotai, the children of Sephera, the children of Phadura,
+
+### Ezra 2:56
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Iela, sons of Darkon, sons of Gedel,
+- brenton: the children of Jeela, the children of Darcon, the children of Gedel,
+
+### Ezra 2:57
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Saphatia, sons of Atil, sons of Phacherath-aseboin, sons of Emi.
+- brenton: the children of Saphatia, the children of Atil, the children of Phacherath, the children of Aseboim, the children of Emei.
+
+### Ezra 2:58
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All the nethinim and sons of Abdeselma: 392.
+- brenton: All the Nathanim, and the sons of Abdeselma were three hundred and ninety-two.
+
+### Ezra 2:59
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And these were the ones coming up from Thelmeleth, Thelareisa, Charoub, Edan, and Emmer, and they were not able to declare their father-house and their seed, whether they were from Israel:
+- brenton: And these are they that went up from Thelmelech, Thelaresa, Cherub, Hedan, Emmer: and they were not able to tell the house of their fathers, and their seed, whether they were of Israel:
+
+### Ezra 2:60
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: sons of Dalaia, sons of Boua, sons of Tobia, sons of Nekoda: 652.
+- brenton: the children of Dalæa, the children of Bua, the children of Tobias, the children of Necoda, six hundred and fifty-two.
+
+### Ezra 2:61
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of the priests: sons of Chabia, sons of Akous, sons of Berzellai, who took a wife from daughters of Berzellai the Galaadite and was called by their name.
+- brenton: And of the children of the priests, the children of Labeia, the children of Akkus, the children of Berzellai, who took a wife of the daughter of Berzellai the Galaadite, and was called by their name.
+
+### Ezra 2:62
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: These sought their enrolled writing, and it was not found, and they were excluded from the priesthood.
+- brenton: These sought their genealogy as though they had been reckoned, but they were not found; and they were removed, as polluted, from the priesthood.
+
+### Ezra 2:63
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Atharsatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
+- brenton: And the Athersastha told them that they should not eat of the most holy things, until a priest should arise with Lights and Perfections.
+
+### Ezra 2:64
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the assembly together was forty-two thousand three hundred sixty,
+- brenton: And all the congregation together were about forty-two thousand three hundred and sixty;
+
+### Ezra 2:65
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: besides their male slaves and female slaves; these were seven thousand three hundred thirty-seven, and they had two hundred singers and singing women.
+- brenton: besides their men-servants and maid-servants, and these were seven thousand three hundred and thirty-seven: and among these were two hundred singing men and singing women.
+
+### Ezra 2:66
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Their horses were 736, their mules 245,
+- brenton: Their horses were seven hundred and thirty-six, their mules, two hundred and forty-five.
+
+### Ezra 2:67
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: their camels 435, their donkeys 6,720.
+- brenton: Their camels, four hundred and thirty-five; their asses, six thousand seven hundred and twenty.
+
+### Ezra 2:68
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And some from heads of father-houses, when they came to house of the Lord in Ierousalem, made freewill offerings for house of God, to set it on its foundation.
+- brenton: And some of the chiefs of families, when they went into the house of the Lord that was in Jerusalem, offered willingly for the house of God, to establish it on its prepared place.
+
+### Ezra 2:69
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: According to their strength they gave into treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
+- brenton: According to their power they gave into the treasury of the work pure gold sixty-one thousand pieces, and five thousand pounds of silver, and one hundred priests' garments.
+
+### Ezra 2:70
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
+- brenton: So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nathinim, dwelt in their cities, and all Israel in their cities.
 
 ### Ezra 3:1
 
@@ -107327,7 +107327,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And king Darius made great feast for all those under him and for all his households and for all magnates of Media and Persia,
+- fresh: And the seventh month arrived, and sons of Israel were in their cities, and the people gathered as one man in Ierousalem.
 - brenton: And the seventh month came on, and the children of Israel were in their cities, and the people assembled as one man at Jerusalem.
 
 ### Ezra 3:2
@@ -107336,7 +107336,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and for all satraps and generals and toparchs under him, from India to Ethiopia, in one hundred twenty-seven satrapies.
+- fresh: And Iesous son of Iosedek rose up, and his brothers the priests, and Zorobabel son of Salathiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in law of Moses man of God.
 - brenton: Then stood up Jesus the son of Josedec, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel, to offer upon it whole-burnt-offerings, according to the things that were written in the law of Moses the man of God.
 
 ### Ezra 3:3
@@ -107345,7 +107345,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they ate and drank, and when they were filled they withdrew. But king Darius withdrew to bedchamber and slept and awoke.
+- fresh: And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
 - brenton: And they set up the altar on its place, for there was a terror upon them because of the people of the lands: and the whole-burnt-offering was offered up upon it to the Lord morning and evening.
 
 ### Ezra 3:4
@@ -107354,7 +107354,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then the three young men, the bodyguards guarding body of king, said each to the other,
+- fresh: And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
 - brenton: And they kept the feast of tabernacles, according to that which was written, and offered whole-burnt-offerings daily in number according to the ordinance, the exact daily rate.
 
 ### Ezra 3:5
@@ -107363,7 +107363,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Let each of us speak one word, which shall prove strongest, and whichever saying appears wiser than that of other, Darius the king will give to him great gifts and great victory-prizes,
+- fresh: And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
 - brenton: And after this the perpetual whole-burnt-offering, and offering for the season of new moon, and for all the hallowed feasts to the Lord, and for every one that offered a free-will-offering to the Lord.
 
 ### Ezra 3:6
@@ -107372,25 +107372,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: to put on purple and drink from gold ornaments and sleep on gold, and a gold-bridled chariot and a turban of fine linen and a neck-chain around neck,
+- fresh: On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
 - brenton: On the first day of the seventh month they began to offer whole-burnt-offerings to the Lord: but the foundation of the house of the Lord was not laid.
 
 ### Ezra 3:7
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and he shall sit second to Darius because of his wisdom and shall be called kinsman of Darius.
-- brenton: And they gave money to the stone-hewers and carpenters, and meat and drink, and oil, to the Sidonians, and Tyrians, to bring cedar trees from Libanus to the sea of Joppa, according to the grant of Cyrus king of the Persians to them.
-
-### Ezra 3:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And then after each wrote his own word, they sealed them and put them under pillow of Darius the king and said,
+- fresh: And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Ioppe, according to grant of Cyrus king of Persians upon them.
+- brenton: And they gave money to the stone-hewers and carpenters, and meat and drink, and oil, to the Sidonians, and Tyrians, to bring cedar trees from Libanus to the sea of Joppa, according to the grant of Cyrus king of the Persians to them.
+
+### Ezra 3:8
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And in second year of their coming to house of God in Ierousalem, in second month, Zorobabel son of Salathiel and Iesous son of Iosedek began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Ierousalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
 - brenton: And in the second year of their coming to the house of God in Jerusalem, in the second month, began Zorobabel the son of Salathiel, and Jesus the son of Josedec, and the rest of their brethren the priests and the Levites, and all who came from the captivity to Jerusalem, and they appointed the Levites, from twenty years old and upward, over the workmen in the house of the Lord.
 
 ### Ezra 3:9
@@ -107399,7 +107399,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: When king rises, they will give him the writing, and whichever king and three magnates of Persia judge that his word is wiser, to him victory shall be given as has been written.
+- fresh: And Iesous stood, and his sons and his brothers, Kadmiel and his sons, sons of Iouda, over those doing the works in house of God, the sons of Enadad, their sons and their brothers the Levites.
 - brenton: And Jesus and his sons and his brethren stood, Cadmiel and his sons the sons of Juda, over them that wrought the works in the house of God: the sons of Enadad, their sons and their brethren the Levites.
 
 ### Ezra 3:10
@@ -107408,7 +107408,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: The one wrote, Wine is strongest.
+- fresh: And they laid foundations to build house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to ordinance of David king of Israel.
 - brenton: And they laid a foundation for building the house of the Lord: and the priests in their robes stood with trumpets and the Levites the sons of Asaph with cymbals, to praise the Lord, according to the order of David king of Israel.
 
 ### Ezra 3:11
@@ -107417,7 +107417,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: The other wrote, King is strongest.
+- fresh: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord.
 - brenton: And they answered each other with praise and thanksgiving to the Lord, saying, For it is good, for his mercy to Israel endures for ever. And all the people shouted with a loud voice to praise the Lord at the laying the foundation of the house of the Lord.
 
 ### Ezra 3:12
@@ -107426,7 +107426,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: The third wrote, Women are strongest, but above all truth wins.
+- fresh: And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
 - brenton: But many of the priests and the Levites, and the elder men, heads of families, who had seen the former house on its foundation, and who saw this house with their eyes, wept with a loud voice: but the multitude shouted with joy to raise a song.
 
 ### Ezra 3:13
@@ -107435,107 +107435,8 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And when king awoke, after taking writings they gave them to him, and he read.
+- fresh: And the people could not distinguish sound of shout of joy from sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
 - brenton: And the people did not distinguish the voice of the glad shout from the voice of the weeping of the people: for the people shouted with a loud voice, and the voice was heard even from afar off.
-
-### Ezra 3:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after sending out he called all magnates of Persia and Media and satraps and generals and toparchs and chief-governors, and he sat in court and writings were read before them.
-- brenton: [missing]
-
-### Ezra 3:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he said, Call the young men, and they themselves will explain their words. And they were called and came in.
-- brenton: [missing]
-
-### Ezra 3:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they said to them, Tell us concerning what has been written.
-- brenton: [missing]
-
-### Ezra 3:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And first began the one who spoke concerning strength of wine, and he said thus:
-- brenton: [missing]
-
-### Ezra 3:18
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Men, how does not wine prove strongest, for all humans who drink it it leads mind astray?
-- brenton: [missing]
-
-### Ezra 3:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: It makes mind of king and of orphan one, and that of slave and free, and that of poor and rich.
-- brenton: [missing]
-
-### Ezra 3:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it turns every mind into feasting and gladness, and it remembers no sorrow and no debt.
-- brenton: [missing]
-
-### Ezra 3:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it makes all hearts rich, and remembers no king nor satrap, and makes all speak in talents.
-- brenton: [missing]
-
-### Ezra 3:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when they drink, they do not remember to befriend friends and brothers, and after no long time they draw swords.
-- brenton: [missing]
-
-### Ezra 3:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when they arise from wine, they do not remember what they did.
-- brenton: [missing]
-
-### Ezra 3:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: O men, does not wine prove strongest, because it compels thus to do? And after saying this he became silent.
-- brenton: [missing]
 
 ### Ezra 4:1
 
@@ -107543,16 +107444,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And second began to speak, the one who spoke concerning strength of king:
+- fresh: And those afflicting Iouda and Beniamin heard that sons of the captivity are building house to the Lord God of Israel.
 - brenton: And they that afflicted Juda and Benjamin heard, that the children of the captivity were building a house to the Lord God of Israel.
 
 ### Ezra 4:2
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: O men, are not humans strong, mastering earth and sea and all things in them?
+- fresh: And they came near to Zorobabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from days of Asaraddan king of Assour, who brought us up here.
 - brenton: And they drew near to Zorobabel, and to the heads of families, and said to them, We will build with you; for as ye do, we seek to serve our God, and we do sacrifice to him from the days of Asaradan king of Assur, who brought us hither.
 
 ### Ezra 4:3
@@ -107561,7 +107462,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But king is strongest and rules them and is master of them, and everything he says to them they obey.
+- fresh: And Zorobabel and Iesous and the rest of heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of Persians commanded us.
 - brenton: Then Zorobabel, and Jesus and the rest of the heads of the families of Israel said to them, It is not for us and you to build a house to our God, for we ourselves will build together to the Lord our God, as Cyrus the king of the Persians commanded us.
 
 ### Ezra 4:4
@@ -107570,7 +107471,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: If he tells them to make war one against another, they do it. But if he sends them against enemies, they go and subdue mountains and walls and towers.
+- fresh: And people of the land were weakening hands of people of Iouda and hindering them from building,
 - brenton: And the people of the land weakened the hands of the people of Juda, and hindered them in building,
 
 ### Ezra 4:5
@@ -107579,16 +107480,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: They kill and are killed, and they do not transgress word of king. And if they conquer, to king they bring all things, whatever they plunder and all the rest.
+- fresh: and hiring counselors against them to scatter their counsel all the days of Cyrus king of Persians and until reign of Darius king of Persians.
 - brenton: and continued hiring persons against them, plotting to frustrate their counsel, all the days of Cyrus king of the Persians, and until the reign of Darius king of the Persians.
 
 ### Ezra 4:6
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And as many as do not serve in army nor make war, but farm the land, whenever they sow and reap, they bring it again to king, and by compelling one another they bring taxes to king.
+- fresh: And in reign of Asoueros, at beginning of his reign, they wrote a letter against inhabitants of Iouda and Ierousalem.
 - brenton: And in the reign of Assuerus, even in the beginning of his reign, they wrote a letter against the inhabitants of Juda and Jerusalem.
 
 ### Ezra 4:7
@@ -107597,7 +107498,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he is one alone. If he says to kill, they kill. If he says to release, they release.
+- fresh: And in days of Arthasastha, Mithradates, Tabeel, together with the rest of his fellow-servants, wrote to Arthasastha king of Persians. The tax-writer wrote the document in Syrian, and it was translated.
 - brenton: And in the days of Arthasastha, Tabeel wrote peaceably to Mithradates and to the rest of his fellow-servants: the tribute-gatherer wrote to Arthasastha king of the Persians a writing in the Syrian tongue, and the same interpreted.
 
 ### Ezra 4:8
@@ -107606,7 +107507,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: He said, Strike, and they strike. He said, Lay waste, and they lay waste. He said, Build, and they build.
+- fresh: Reoum Baaltham and Samsai the scribe wrote one letter against Ierousalem to King Arthasastha,
 - brenton: Reum the chancellor, and Sampsa the scribe wrote an epistle against Jerusalem to king Arthasastha, saying,
 
 ### Ezra 4:9
@@ -107615,7 +107516,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: He said, Cut down, and they cut down. He said, Plant, and they plant.
+- fresh: thus judged Reoum Baaltham and Samsai the scribe and our other fellow-servants, the Dinaeans, the Apharsathachaeans, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
 - brenton: Thus has judged Reum the chancellor, and Sampsa the scribe, and the rest of our fellow-servants, the Dinæans, the Apharsathachæans, the Tarphalæans, the Apharsæans, the Archyæans, the Babylonians, the Susanachæans, Davæans,
 
 ### Ezra 4:10
@@ -107624,25 +107525,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all his people and his forces obey him.
+- fresh: and the rest of the nations whom Asennaphar the great and honored deported and settled in cities of Samaria and the rest beyond the River.
 - brenton: and the rest of the nations whom the great and noble Assenaphar removed, and settled them in the cities of Somoron, and the rest of them beyond the river.
 
 ### Ezra 4:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Besides these things, he reclines, eats and drinks and sleeps, but they keep watch around him, and they cannot each depart to do his work, nor do they disobey him.
-- brenton: This is the purport of the letter, which they sent to him: Thy servants the men beyond the river to king Arthasastha.
-
-### Ezra 4:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: O men, how does not king prove strongest, because he is thus obeyed? And he became silent.
+- fresh: This is the copy of the letter which they sent to him, to King Arthasastha: Your servants, men beyond the River.
+- brenton: This is the purport of the letter, which they sent to him: Thy servants the men beyond the river to king Arthasastha.
+
+### Ezra 4:12
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Let it be known to the king that the Ioudaioi who came up from you to us have come to Ierousalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
 - brenton: Be it known to the king, that the Jews who came up from thee to us have come to Jerusalem the rebellious and wicked city, which they are building, and its walls are set in order, and they have established the foundations of it.
 
 ### Ezra 4:13
@@ -107651,16 +107552,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then the third, the one who spoke concerning women and truth, this is Zorobabel, began to speak.
+- fresh: Now then let it be known to the king that if that city is rebuilt and its walls completed, taxes will not belong to you, nor will they give tribute, and this harms kings.
 - brenton: Now then be it known to the king, that if that city be built up, and its walls completed, thou shalt have no tribute, neither will they pay anything, and this injures kings.
 
 ### Ezra 4:14
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Men, is not king great and many are the humans and wine is strong? Who then is master of them, or who rules them? Are they not women?
+- fresh: And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
 - brenton: And it is not lawful for us to see the dishonour of the king: therefore have we sent and made known the matter to the king;
 
 ### Ezra 4:15
@@ -107669,7 +107570,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Women gave birth to king and to all people who rule sea and earth.
+- fresh: so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
 - brenton: that examination may be made in thy fathers' book of record; and thou shalt find, and thou shalt know that that city is rebellious, and does harm to kings and countries, and there are in the midst of it from very old time refuges for runaway slaves: therefore this city has been made desolate.
 
 ### Ezra 4:16
@@ -107678,7 +107579,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from them these came to be, and they nourished those planting vineyards from which wine comes to be.
+- fresh: Therefore we make known to the king that if that city is rebuilt and its walls completed, there will not be peace for you.
 - brenton: We therefore declare to the king, that, if that city be built, and its walls be set up, thou shalt not have peace.
 
 ### Ezra 4:17
@@ -107687,16 +107588,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they make garments of men, and they make glory for men, and men are not able to be apart from women.
+- fresh: And the king sent to Reoum Baaltham and Samsai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
 - brenton: Then the king sent to Reum the chancellor, and Sampsa the scribe, and the rest of their fellow-servants who dwelt in Samaria, and the rest beyond the river, saying, Peace; and he says,
 
 ### Ezra 4:18
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And if they gather gold and silver and every beautiful thing, and see one woman beautiful in appearance and beauty,
+- fresh: The tax-document which you sent to us was read before me.
 - brenton: The tribute-gatherer whom ye sent to us, has been called before me.
 
 ### Ezra 4:19
@@ -107705,25 +107606,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: leaving all these behind, they gape at her and with mouth hanging open gaze at her, and all choose her rather than gold and silver and every beautiful thing.
+- fresh: And a decree from me was set down, and they searched and found that that city from ancient days rises up against kings, and rebellions and runaways happen in it.
 - brenton: And a decree has been made by me, and we have examined, and found that that city of old time exalts itself against kings, and that rebellions and desertions take place within it.
 
 ### Ezra 4:20
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Man abandons his own father who nourished him and his own country and clings to his own wife.
+- fresh: And strong kings were over Ierousalem, ruling all the west beyond the River, and full taxes and tribute were given to them.
 - brenton: And there were powerful kings in Jerusalem, and they ruled over all the country beyond the river, and abundant revenues and tribute were given to them.
 
 ### Ezra 4:21
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And with wife he leaves his soul, and remembers neither father nor mother nor country.
+- fresh: And now set decision to stop those men, and that city shall not be built again except by decree.
 - brenton: Now therefore make a decree to stop the work of those men, and that city shall no more be built.
 
 ### Ezra 4:22
@@ -107732,16 +107633,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From here it is necessary for you to know that women rule over you. Do you not toil and labor and bear and give all things to women?
+- fresh: And take care not to be negligent concerning this, lest destruction multiply to harm kings.
 - brenton: See that ye be careful of the decree, not to be remiss concerning this matter, lest at any time destruction should abound to the harm of kings.
 
 ### Ezra 4:23
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And man takes his sword and goes out to travel and to rob and steal and sail on sea and rivers,
+- fresh: Then tax-document of King Arthasastha was read before Reoum and Samsai the scribe and their fellow-servants, and they went in haste to Ierousalem and into Iouda and stopped them with horses and force.
 - brenton: Then the tribute-gatherer of king Arthasastha read the letter before Reum the chancellor, and Sampsa the scribe, and his fellow-servants: and they went in haste to Jerusalem and through Juda, and caused them to cease with horses and an armed force.
 
 ### Ezra 4:24
@@ -107750,359 +107651,8 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and he looks at lion and walks in darkness, and when he steals and seizes and plunders, to his beloved he carries it away.
+- fresh: Then work of house of God in Ierousalem ceased, and it lay idle until second year of reign of Darius king of Persians.
 - brenton: Then ceased the work of the house of God in Jerusalem, and it was at a stand until the second year of the reign of Darius king of the Persians.
-
-### Ezra 4:25
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And man loves his own wife more than father and mother.
-- brenton: [missing]
-
-### Ezra 4:26
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And many lost their minds because of women and became slaves through them.
-- brenton: [missing]
-
-### Ezra 4:27
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And many perished and stumbled and sinned because of women.
-- brenton: [missing]
-
-### Ezra 4:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now do you not believe me? Is not king great in his authority? Do not all lands fear to touch him?
-- brenton: [missing]
-
-### Ezra 4:29
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: I was watching him and Apamē, daughter of Bartakos the admirable, king's concubine, sitting at king's right.
-- brenton: [missing]
-
-### Ezra 4:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And she was taking diadem from head of king and placing it on herself, and she struck king with her left hand.
-- brenton: [missing]
-
-### Ezra 4:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And besides these things, king with open mouth was looking at her, and if she smiled at him he smiles, but if she is embittered against him he flatters her so that she may be reconciled to him.
-- brenton: [missing]
-
-### Ezra 4:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: O men, how are not women strong, because they do such things?
-- brenton: [missing]
-
-### Ezra 4:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And then king and magnates looked each toward other.
-- brenton: [missing]
-
-### Ezra 4:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he began to speak concerning truth: Men, are not women strong? Great is earth and high heaven and swift in course is sun, because it turns in circle of heaven and again runs back to its own place in one day.
-- brenton: [missing]
-
-### Ezra 4:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Is not great the one doing these things? And truth is great and stronger than all things.
-- brenton: [missing]
-
-### Ezra 4:36
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: All earth calls on truth and heaven blesses it, and all works shake and tremble, and with it there is no unrighteous thing.
-- brenton: [missing]
-
-### Ezra 4:37
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Unrighteous is wine, unrighteous king, unrighteous women, unrighteous all sons of men, and unrighteous all their works, all such things, and there is no truth in them, and in their unrighteousness they will perish.
-- brenton: [missing]
-
-### Ezra 4:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But truth remains and is strong forever, and lives and prevails forever and ever.
-- brenton: [missing]
-
-### Ezra 4:39
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And with it there is no receiving of persons nor distinction, but it does righteous things away from all unrighteous and wicked things, and all are pleased with its works, and there is nothing unrighteous in its judgment.
-- brenton: [missing]
-
-### Ezra 4:40
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And this is strength and kingdom and authority and majesty of all the ages. Blessed is God of truth.
-- brenton: [missing]
-
-### Ezra 4:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he became silent from speaking, and all people then cried out, and then they said, Great is truth, and it proves strongest.
-- brenton: [missing]
-
-### Ezra 4:42
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then king said to him, Ask what you want beyond what has been written, and we will give, in what way you were found wiser, and you shall sit next to me and be called my kinsman.
-- brenton: [missing]
-
-### Ezra 4:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then he said to king, Remember the vow which you vowed to build Ierousalem in day when you received your kingdom,
-- brenton: [missing]
-
-### Ezra 4:44
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and to send away all vessels taken from Ierousalem which Cyrus set apart when he resolved to cut down Babylōn and resolved to send there.
-- brenton: [missing]
-
-### Ezra 4:45
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And you yourself vowed to build temple which Idoumaioi burned when Ioudaia was laid waste by Chaldeans.
-- brenton: [missing]
-
-### Ezra 4:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now this is what I ask of you, lord king, and what I request of you, and this is greatness I beg from you, that you do the vow which you vowed to king of heaven to perform from your mouth.
-- brenton: [missing]
-
-### Ezra 4:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then king Darius rose and kissed him and wrote letters for him to all stewards and toparchs and generals and satraps, that they should send him on and all with him who are going up to build Ierousalem.
-- brenton: [missing]
-
-### Ezra 4:48
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And to all toparchs in Coele-Syria and Phoinikia and those in Lebanon he wrote letters to carry cedar wood from Lebanon into Ierousalem and so that they might build city with him.
-- brenton: [missing]
-
-### Ezra 4:49
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he wrote for all Ioudaioi going up from kingdom into Ioudaia concerning freedom, that no ruler at all, satrap and toparch and steward, should come upon their doors.
-- brenton: [missing]
-
-### Ezra 4:50
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And that all land which they will gain should be tax-free for them, and that Idoumaioi should let go villages which they are holding from Ioudaioi.
-- brenton: [missing]
-
-### Ezra 4:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And that twenty talents should be given yearly for building of temple, until it is built.
-- brenton: [missing]
-
-### Ezra 4:52
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And for whole burnt offerings on altar to be consumed daily, according as they have command to offer seventeen, and another ten talents yearly.
-- brenton: [missing]
-
-### Ezra 4:53
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And that all coming up from Babylōnia to build city should have freedom, both they and their children and all priests coming up.
-- brenton: [missing]
-
-### Ezra 4:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he wrote also concerning subsidy and priestly robe, in which they minister in it.
-- brenton: [missing]
-
-### Ezra 4:55
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And for Levites he wrote to give subsidy until day house is completed and Ierousalem is built.
-- brenton: [missing]
-
-### Ezra 4:56
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And to all guarding city he wrote to give them allotments and wages.
-- brenton: [missing]
-
-### Ezra 4:57
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he sent away all vessels which Cyrus set apart from Babylōn, and all things Cyrus said to do, he himself ordered to do and to send away into Ierousalem.
-- brenton: [missing]
-
-### Ezra 4:58
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when young man went out, after lifting face to heaven opposite Ierousalem, he blessed king of heaven, saying,
-- brenton: [missing]
-
-### Ezra 4:59
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From you victory and from you wisdom and yours glory, and I am your servant.
-- brenton: [missing]
-
-### Ezra 4:60
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Blessed are you who gave me wisdom, and to you I confess, Master of fathers.
-- brenton: [missing]
-
-### Ezra 4:61
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he took letters and went out to Babylōn and reported to all his brothers.
-- brenton: [missing]
-
-### Ezra 4:62
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they blessed God of their fathers because he gave them relief and release,
-- brenton: [missing]
-
-### Ezra 4:63
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: to go up and build Ierousalem and sanctuary on which his name had been named, and they feasted with music and joy seven days.
-- brenton: [missing]
 
 ### Ezra 5:1
 
@@ -108110,7 +107660,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: After these things chiefs of father-houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
+- fresh: And Haggai the prophet and Zacharias son of Addo prophesied over the Ioudaioi in Iouda and Ierousalem, in name of God of Israel upon them.
 - brenton: And Aggæus the prophet, and Zacharias the son of Addo, prophesied a prophecy to the Jews in Juda and Jerusalem in the name of the God of Israel, even to them.
 
 ### Ezra 5:2
@@ -108119,7 +107669,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Darius sent with them 1,000 horsemen, until he restored them to Ierousalem with peace and with music of tambourines and flutes.
+- fresh: Then Zorobabel son of Salathiel and Iesous son of Iosedek rose up and began to build house of God in Ierousalem, and with them were prophets of God helping them.
 - brenton: Then rose up Zorobabel the son of Salathiel, and Jesus the son of Josedec, and began to build the house of God that was in Jerusalem: and with them were the prophets of God assisting them.
 
 ### Ezra 5:3
@@ -108128,7 +107678,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all their brothers were rejoicing, and he made them go up with them.
+- fresh: At that time Thanthanai, governor beyond the River, and Satharbouzana and their fellow-servants came upon them and said these things to them: Who set decree for you to build this house and complete this structure?
 - brenton: At the same time came there upon them Thanthanai, the governor on this side the river, and Satharbuzanai, and their fellow-servants, and spoke thus to them, Who has ordained a decree for you to build this house, and to provide this preparation?
 
 ### Ezra 5:4
@@ -108137,7 +107687,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And these are names of men going up according to their fathers, by their tribes, according to their division:
+- fresh: Then they said these things to them: What are names of the men building this city?
 - brenton: Then they spoke thus to them, What are the names of the men that build this city?
 
 ### Ezra 5:5
@@ -108146,7 +107696,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: The priests: sons of Phinees, Iēsous son of Iōsedek son of Saraiou; and Iōakim son of Zorobabel son of Salathiēl, from house of Dauid, from line of Phares, tribe of Iouda,
+- fresh: And eyes of God were upon captivity of Iouda, and they did not stop them until a report was carried to Darius and then answer was sent to the tax-officer concerning this.
 - brenton: But the eyes of God were upon the captivity of Juda, and they did not cause them to cease till the decree was brought to Darius; and then was sent by the tribute-gatherer concerning this
 
 ### Ezra 5:6
@@ -108155,7 +107705,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: who spoke wise words before Darius king of Persians in second year of his reign, in month Nisan, first month.
+- fresh: Copy of letter which Thanthanai governor beyond the River and Satharbouzana and their fellow-servants, the Apharsachaeans beyond the River, sent to King Darius:
 - brenton: the copy of a letter, which Thanthanai, the governor of the part on this side the river, and Satharbuzanai, and their fellow-servants the Apharsachæans who were on this side of the river, sent to king Darius.
 
 ### Ezra 5:7
@@ -108164,16 +107714,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And these are from Ioudaia, those who came up from captivity of sojourning whom Nabouchodonosor king of Babylōn resettled in Babylōn,
+- fresh: They sent a report to him, and these things were written in it: To King Darius, all peace.
 - brenton: They sent an account to him, and thus it was written in it:
 
 ### Ezra 5:8
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and they returned to Ierousalem and the rest of Ioudaia, each to his own city, those who came with Zorobabel and Iēsous, Neemiou, Zaraiou, Rhēsaiou, Enēniou, Mardochaiou, Beelsarou, Aspharasou, Boroliou, Roimou, Baana, their leaders.
+- fresh: Let it be known to the king that we went into land of Iouda, to house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
 - brenton: Be it known to the king, that we went into the land of Judea, to the house of the great God; and it is building with choice stones, and they are laying timbers in the walls, and that work is prospering, and goes on favourably in their hands.
 
 ### Ezra 5:9
@@ -108182,7 +107732,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Number of those from nation and their leaders: sons of Phoros, 2,172.
+- fresh: Then we asked those elders and said this to them: Who set decree for you to build this house and complete this structure?
 - brenton: Then we asked those elders, and thus we said to them, Who gave you the order to build this house, and to provide this preparation?
 
 ### Ezra 5:10
@@ -108191,7 +107741,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Saphat, 472; sons of Aree, 756.
+- fresh: And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
 - brenton: And we asked them their names, in order to declare them to thee, so as to write to thee the names of their leading men.
 
 ### Ezra 5:11
@@ -108200,7 +107750,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Phaathmōab, among sons of Iēsous and Iōab, 2,812.
+- fresh: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
 - brenton: And they answered us thus, saying, We are the servants of the God of heaven and earth, and we are building the house which had been built many years before this, and a great king of Israel built it, and established it for them.
 
 ### Ezra 5:12
@@ -108209,7 +107759,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Ōlamou, 1,254; sons of Zatou, 945; sons of Chorbē, 705; sons of Bani, 648.
+- fresh: But from time when our fathers provoked God of heaven, he gave them into hand of Nabouchodonosor king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
 - brenton: But after that our fathers provoked the God of heaven, he gave them into the hands of Nabuchodonosor the Chaldean, king of Babylon, and he destroyed this house, and carried the people captive to Babylon.
 
 ### Ezra 5:13
@@ -108218,7 +107768,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Bēbai, 623; sons of Asgad, 1,322.
+- fresh: But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
 - brenton: And in the first year of king Cyrus, Cyrus the king made a decree that this house of God should be built.
 
 ### Ezra 5:14
@@ -108227,7 +107777,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Adōnikam, 667; sons of Bagoi, 2,066; sons of Adinou, 454.
+- fresh: And vessels of house of God, the gold and silver ones which Nabouchodonosor took from the house in Ierousalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sasabasar, the treasurer over the treasury.
 - brenton: And the gold and silver vessels of the house of God, which Nabuchodonosor brought out from the house that was in Jerusalem, and carried them into the temple of the king, them did king Cyrus bring out from the temple of the king, and gave them to Sabanasar the treasurer, who was over the treasure;
 
 ### Ezra 5:15
@@ -108236,7 +107786,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Atēr Ezekiou, 92; sons of Kilan and Azētas, 67; sons of Azourou, 432.
+- fresh: And he said to him, Take all the vessels and go, put them in the house in Ierousalem, each in its own place.
 - brenton: and said to him, Take all the vessels, and go, put them in the house that is in Jerusalem in their place.
 
 ### Ezra 5:16
@@ -108245,7 +107795,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Annias, 101; sons of Arom; sons of Bassai, 323; sons of Ariphou, 112.
+- fresh: Then that Sasabasar came and laid foundations of house of God in Ierousalem, and from then until now it has been built and not completed.
 - brenton: Then that Sabanazar came, and laid the foundations of the house of God in Jerusalem: and from that time even until now it has been building, and has not been finished.
 
 ### Ezra 5:17
@@ -108254,494 +107804,8 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Baitērous, 3,005; sons from Baithlōmōn, 123.
+- fresh: And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us.
 - brenton: And now, if it seem good to the king, let search be made in the treasure-house of the king at Babylon, that thou mayest know if it be that a decree was made by king Cyrus to build that house of God that was in Jerusalem, and let the king send to us when he has learnt concerning this matter.
-
-### Ezra 5:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those from Netebas, 55; those from Enatou, 158; those from Baithasmōn, 42.
-- brenton: [missing]
-
-### Ezra 5:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those from Kariathiarios, 25; those from Kapiras and Bērot, 743.
-- brenton: [missing]
-
-### Ezra 5:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those Chadasai and Ammidioi, 422; those from Kiramas and Gabbēs, 621.
-- brenton: [missing]
-
-### Ezra 5:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those from Makalōn, 122; those from Baitholiō, 52; sons of Niphi, 156.
-- brenton: [missing]
-
-### Ezra 5:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Kalamōlallou and Ōnous, 725; sons of Ierechou, 345.
-- brenton: [missing]
-
-### Ezra 5:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Sanaas, 3,330.
-- brenton: [missing]
-
-### Ezra 5:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The priests: sons of Ieddou, son of Iēsous among sons of Anasib, 972; sons of Emmērou, 1,052.
-- brenton: [missing]
-
-### Ezra 5:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Phassourou, 1,247; sons of Charmē, 1,017.
-- brenton: [missing]
-
-### Ezra 5:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Levites: sons of Iēsous and Kadmiēlou and Bannou and Soudiou, 74.
-- brenton: [missing]
-
-### Ezra 5:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The temple-singers, sons of Asaph, 128.
-- brenton: [missing]
-
-### Ezra 5:28
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The gatekeepers: sons of Saloum, sons of Atar, sons of Tolman, sons of Akoub, sons of Atita, sons of Sōbai, all of them 139.
-- brenton: [missing]
-
-### Ezra 5:29
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The temple-servants: sons of Ēsau, sons of Asipha, sons of Tabaōth, sons of Kēras, sons of Soua, sons of Phadaiou, sons of Labana, sons of Aggaba,
-- brenton: [missing]
-
-### Ezra 5:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Akoud, sons of Outa, sons of Kētab, sons of Agaba, sons of Sybai, sons of Anan, sons of Kathoua, sons of Geddour,
-- brenton: [missing]
-
-### Ezra 5:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Iairou, sons of Daisan, sons of Noeba, sons of Chaseba, sons of Gazēra, sons of Oziou, sons of Phinoe, sons of Asara, sons of Basthai, sons of Asana, sons of Maani, sons of Naphisi, sons of Akouph, sons of Achiba, sons of Asour, sons of Pharakim, sons of Basalōth,
-- brenton: [missing]
-
-### Ezra 5:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Meedda, sons of Koutha, sons of Charea, sons of Barchous, sons of Serar, sons of Thomoi, sons of Nasi, sons of Atipha.
-- brenton: [missing]
-
-### Ezra 5:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of children of Salōmōn: sons of Assaphiōth, sons of Pharida, sons of Ieiēli, sons of Lozōn, sons of Isdaēl, sons of Saphythi,
-- brenton: [missing]
-
-### Ezra 5:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Agia, sons of Phakareth-Sabiē, sons of Sarōthie, sons of Masias, sons of Gas, sons of Addous, sons of Soubas, sons of Apherra, sons of Barōdis, sons of Saphat, sons of Amōn.
-- brenton: [missing]
-
-### Ezra 5:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: All temple-servants and sons of children of Salōmōn, 372.
-- brenton: [missing]
-
-### Ezra 5:36
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: These came up from Thermeleth and Thelersas, their leader being Charaath, Adan, and Amar.
-- brenton: [missing]
-
-### Ezra 5:37
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they were not able to report their father-houses and generations, that they are from Israel: sons of Dalan son of Touban, sons of Nekōdan, 652.
-- brenton: [missing]
-
-### Ezra 5:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from priests, those making claim to priesthood and not found: sons of Obbia, sons of Akkōs, sons of Ioddous, who took Augian as wife from daughters of Pharzellaiou and was called by his name.
-- brenton: [missing]
-
-### Ezra 5:39
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when genealogical register was sought among enrollment and not found, they were separated from serving as priests.
-- brenton: [missing]
-
-### Ezra 5:40
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Neemias and Attharias said to them not to share in holy things until high priest arises clothed with manifestation and truth.
-- brenton: [missing]
-
-### Ezra 5:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all together were 42,360 Israelites besides children and female servants; of these male and female servants were 7,337, singers and songstresses 245.
-- brenton: [missing]
-
-### Ezra 5:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Camels, 435; horses, 7,036; mules, 245; beasts of burden, 5,525.
-- brenton: [missing]
-
-### Ezra 5:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from leaders according to their father-houses, when they came into sanctuary of God in Ierousalem, they vowed to raise house upon its place according to their ability,
-- brenton: [missing]
-
-### Ezra 5:44
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and to give into sacred treasury of works 1,000 minas of gold and 5,000 minas of silver and 100 priestly robes.
-- brenton: [missing]
-
-### Ezra 5:45
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And priests and Levites and those from people dwelt in Ierousalem and in country, and also temple-singers and gatekeepers and all Israel in their villages.
-- brenton: [missing]
-
-### Ezra 5:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Now when seventh month came, and sons of Israel were each in their own places, they gathered with one accord into broad place of first gate toward east.
-- brenton: [missing]
-
-### Ezra 5:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Iēsous son of Iōsedek and his brothers and Zorobabel son of Salathiēl and his brothers stood and prepared altar of God of Israel,
-- brenton: [missing]
-
-### Ezra 5:48
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: to offer whole burnt offerings upon it, according as things prescribed in book of Mōusēs, man of God.
-- brenton: [missing]
-
-### Ezra 5:49
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from other nations of land they were gathered against them, and they set altar aright on its place, because they were in hostility to them and all nations on earth prevailed against them, and they offered sacrifices at time and morning and evening whole burnt offerings to Lord.
-- brenton: [missing]
-
-### Ezra 5:50
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they kept feast of tabernacles as commanded in law, and sacrifices daily as was fitting.
-- brenton: [missing]
-
-### Ezra 5:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after these things they brought continual offerings and sacrifices of Sabbaths and new moons and all consecrated feasts.
-- brenton: [missing]
-
-### Ezra 5:52
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all who vowed vow to God began from new moon of seventh month to offer sacrifices to God, though temple of God had not yet been built.
-- brenton: [missing]
-
-### Ezra 5:53
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they gave silver to masons and carpenters, and food and drink and cheer to Sidōnioi and Tyrioi, that they should bring cedar woods from Lebanon, carrying by rafts to port of Ioppē, according to command written to them from Cyrus king of Persians.
-- brenton: [missing]
-
-### Ezra 5:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And in second year, when they came to sanctuary of God in Ierousalem, in second month, Zorobabel son of Salathiēl and Iēsous son of Iōsedek and their brothers and priests and Levites and all who came from captivity to Ierousalem began.
-- brenton: [missing]
-
-### Ezra 5:55
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they founded temple of God on new moon of second month of second year after coming into Ioudaia and Ierousalem.
-- brenton: [missing]
-
-### Ezra 5:56
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they stationed Levites from twenty years old over works of Lord, and Iēsous stood, and his sons and brothers, and Kadmiēl the brother and sons of Iēsou Ēmadaboun and sons of Iōda the Iliadoun, together with sons and brothers, all the Levites together, workmasters of those doing works in house of God.
-- brenton: [missing]
-
-### Ezra 5:57
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And builders built temple of Lord, and priests stood arrayed with music and trumpets, and Levites sons of Asaph holding cymbals, hymning to Lord and blessing according to Dauid king of Israel.
-- brenton: [missing]
-
-### Ezra 5:58
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they cried out through hymns, confessing to Lord, because his goodness and glory are forever to all Israel.
-- brenton: [missing]
-
-### Ezra 5:59
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all people trumpeted and shouted with loud voice, hymning to Lord over raising of house of Lord.
-- brenton: [missing]
-
-### Ezra 5:60
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And there came from priests and Levites and heads according to their father-houses, the elders who had seen former house, to this building with great cry and weeping,
-- brenton: [missing]
-
-### Ezra 5:61
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and many with trumpets and joy with loud voice,
-- brenton: [missing]
-
-### Ezra 5:62
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: so that people did not hear sound of trumpets because of weeping of people, for crowd was trumpeting greatly, so as to be heard far away.
-- brenton: [missing]
-
-### Ezra 5:63
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when enemies of tribe of Iouda and Beniamin heard, they came to know what voice of trumpets was.
-- brenton: [missing]
-
-### Ezra 5:64
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they learned that those from captivity are building temple to Lord God of Israel.
-- brenton: [missing]
-
-### Ezra 5:65
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after approaching Zorobabel and Iēsous and heads of father-houses, they say to them, We will build with you.
-- brenton: [missing]
-
-### Ezra 5:66
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For like you we hear Lord your God, and to him we sacrifice from days of Asbasareth king of Assyrians, who transported us here.
-- brenton: [missing]
-
-### Ezra 5:67
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Zorobabel and Iēsous and heads of father-houses of Israel said to them, It is not for you and for us to build house to Lord our God.
-- brenton: [missing]
-
-### Ezra 5:68
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For we alone will build to Lord of Israel, according as Cyrus king of Persians commanded us.
-- brenton: [missing]
-
-### Ezra 5:69
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But peoples of land pressed upon those in Ioudaia, and besieging them they hindered the building,
-- brenton: [missing]
-
-### Ezra 5:70
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and by making plots and popular pressure and gatherings they prevented building from being completed all time of life of king Cyrus.
-- brenton: [missing]
-
-### Ezra 5:71
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And building was delayed two years until reign of Darius.
-- brenton: [missing]
 
 ### Ezra 6:1
 
@@ -108749,16 +107813,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And in second year of reign of Darius, Aggaios and Zacharias son of Eddi, the prophets, prophesied over the Ioudaioi in Ioudaia and Ierousalem in name of Lord God of Israel over them.
+- fresh: Then King Darius set decree, and search was made in the libraries where the treasure is laid in Babylon.
 - brenton: Then Darius the king made a decree, and caused a search to be made in the record-offices, where the treasure is stored in Babylon.
 
 ### Ezra 6:2
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then after Zorobabel son of Salathiēl and Iēsous son of Iōsedek stood up, they began to build house of Lord in Ierousalem, prophets of Lord being with them and helping them.
+- fresh: And in city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
 - brenton: And there was found in the city, in the palace, a volume, and this was the record written in it.
 
 ### Ezra 6:3
@@ -108767,7 +107831,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: At that same time Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners came to them and said,
+- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 - brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
 ### Ezra 6:4
@@ -108776,7 +107840,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: By whose order are you building this house and this roof and completing all other things? And who are builders completing these things?
+- fresh: with three courses of massive stone and one course of timber, and expense shall be given from house of the king.
 - brenton: And let there be three strong layers of stone, and one layer of timber; and the expense shall be paid out of the house of the king.
 
 ### Ezra 6:5
@@ -108785,7 +107849,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And favor of oversight from Lord came upon elders of Ioudaioi of captivity,
+- fresh: And silver and gold vessels of house of God, which Nabouchodonosor brought out from the house in Ierousalem and carried to Babylon, let them be given back and go to the temple in Ierousalem, to place where they were put, in house of God.
 - brenton: And the silver and the gold vessels of the house of God, which Nabuchodonosor carried off from the house that was in Jerusalem, and carried to Babylon, let them even be given, and be carried to the temple that is in Jerusalem, and put in the place where they were set in the house of God.
 
 ### Ezra 6:6
@@ -108794,7 +107858,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and they were not hindered from building until message about them should be shown to Darius and answer returned.
+- fresh: Now stay away from there, governors beyond the River, Satharbouzana and your fellow-servants, the Apharsachaeans beyond the River.
 - brenton: Now, ye rulers beyond the river, Satharbuzanai, and their fellow-servants the Apharsachæans, who are on the other side of the river, give these things, keeping far from that place.
 
 ### Ezra 6:7
@@ -108803,34 +107867,34 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Copy of letter which Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners, leaders in Syria and Phoinikia, wrote to Darius and sent:
+- fresh: Leave work of that house of God alone. Let leaders of the Ioudaioi and elders of the Ioudaioi build that house of God on its place.
 - brenton: Now let alone the work of the house of God: let the rulers of the Jews and the elders of the Jews build that house of God on its place.
 
 ### Ezra 6:8
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: To king Darius, greetings in all things. Let it be known to our lord king that when we came into land of Ioudaia and entered Ierousalem city, we found elders of captivity of Ioudaioi in Ierousalem city building great new house to Lord from carved costly stones, timbers being laid in walls.
+- fresh: And from me decree has been set that you do nothing against elders of the Ioudaioi in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
 - brenton: Also a decree has been made by me, if haply ye may do somewhat in concert with the elders of the Jews for the building of that house of God: to wit, out of the king's property, even the tributes beyond the river, let there be money to defray the expenses carefully granted to those men, so that they be not hindered.
 
 ### Ezra 6:9
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And those works are being done with haste, and work is prospering in their hands and being brought to completion with all glory and diligence.
+- fresh: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Ierousalem, let it be given to them day by day, whatever they ask,
 - brenton: And whatever need there may be, ye shall give both the young of bulls and rams, and lambs for whole-burnt-offerings to the God of heaven, wheat, salt, wine, oil:—let it be given them according to the word of the priests that are in Jerusalem, day by day whatsoever they shall ask;
 
 ### Ezra 6:10
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then we asked those elders, saying, By whose command are you building this house and laying foundations of these works?
+- fresh: so that they may be offering fragrant offerings to God of heaven and praying for life of the king and his sons.
 - brenton: that they may offer sweet savours to the God of heaven, and that they may pray for the life of the king and his sons.
 
 ### Ezra 6:11
@@ -108839,7 +107903,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: So we asked them in order to make it known to you and write to you names of men leading them, and we requested from them names of those taking lead.
+- fresh: And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
 - brenton: And a decree has been made by me, that every man who shall alter this word, timber shall be pulled down from his house, and let him be lifted up and slain upon it, and his house shall be confiscated.
 
 ### Ezra 6:12
@@ -108848,16 +107912,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they answered us, saying, We are servants of Lord who created heaven and earth.
+- fresh: And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Ierousalem. I, Darius, set decree; it shall be done carefully.
 - brenton: And may the God whose name dwells there, overthrow every king and people who shall stretch out his hand to alter or destroy the house of God which is in Jerusalem. I Darius have made a decree; let it be diligently attended to.
 
 ### Ezra 6:13
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And house was built before many years by a great and strong king of Israel, and it was completed.
+- fresh: Then Thanthanai, governor beyond the River, Satharbouzana, and their fellow-servants did carefully according to what Darius the king sent.
 - brenton: Then Thanthanai the governor on this side beyond the river, Satharbuzanai, and his fellow-servants, according to that which king Darius sent, so they did diligently.
 
 ### Ezra 6:14
@@ -108866,7 +107930,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And because our fathers provoked and sinned against Lord of Israel, the heavenly one, he gave them into hands of Nabouchodonosor king of Babylōn, king of Chaldeans.
+- fresh: And elders of the Ioudaioi were building and prospering through prophecy of Haggai the prophet and Zacharias son of Addo. And they built and completed it by decree of God of Israel and by decree of Cyrus and Darius and Arthasastha, kings of Persia.
 - brenton: And the elders of the Jews and the Levites built, at the prophecy of Aggæus the prophet, and Zacharias the son of Addo: and they built up, and finished it, by the decree of the God of Israel, and by the decree of Cyrus, and Darius, and Arthasastha, kings of the Persians.
 
 ### Ezra 6:15
@@ -108875,7 +107939,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: After pulling house down, they burned it, and they led people away captive into Babylōn.
+- fresh: And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
 - brenton: And they finished this house by the third day of the month Adar, which is the sixth year of the reign of Darius the king.
 
 ### Ezra 6:16
@@ -108884,7 +107948,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But in first year of Cyrus reigning over land of Babylōnia, king Cyrus wrote that this house should be built.
+- fresh: And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of house of God with gladness.
 - brenton: And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of the house of God with gladness.
 
 ### Ezra 6:17
@@ -108893,7 +107957,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sacred vessels of house of Lord, gold and silver, which Nabouchodonosor brought out from house in Ierousalem and deposited in his own temple, king Cyrus again brought them out from temple in Babylōn and they were handed over to Zorobabel and Sanabassaros the governor.
+- fresh: And they offered at dedication of house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to number of tribes of Israel.
 - brenton: And they offered for the dedication of the house of God a hundred calves, two hundred rams, four hundred lambs, twelve kids of the goats for a sin-offering for all Israel, according to the number of the tribes of Israel.
 
 ### Ezra 6:18
@@ -108902,16 +107966,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And it was ordered him, after carrying all these vessels away, to place them in temple in Ierousalem, and that this temple of Lord be built on the place.
+- fresh: And they set priests in their divisions and Levites in their allotments for service of God in Ierousalem, according to writing of book of Moses.
 - brenton: And they set the priests in their divisions, and the Levites in their separate orders, for the services of God in Jerusalem, according to the writing of the book of Moses.
 
 ### Ezra 6:19
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then that Sanabassar, after coming, laid foundations of house of Lord in Ierousalem, and from then until now it is being built and has not yet taken completion.
+- fresh: And sons of the exile kept the Passover on fourteenth day of the first month.
 - brenton: And the children of the captivity kept the passover on the fourteenth day of the first month.
 
 ### Ezra 6:20
@@ -108920,7 +107984,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now therefore, if king judges, let search be made in royal libraries of our lord king, those in Babylōn.
+- fresh: For the priests and the Levites had purified themselves until all of them together were pure, and they slaughtered the Passover for all sons of exile and for their brothers the priests and for themselves.
 - brenton: For the priests and Levites were purified, all were clean to a man, and they slew the passover for all the children of the captivity, and for their brethren the priests, and for themselves.
 
 ### Ezra 6:21
@@ -108929,7 +107993,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And if it is found with approval of king Cyrus that building of house of Lord in Ierousalem took place, and if it seems good to our lord king, let him send word to us concerning these things.
+- fresh: And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
 - brenton: And the children of Israel ate the passover, even they that were of the captivity, and every one who separated himself to them from the uncleanness of the nations of the land, to seek the Lord God of Israel.
 
 ### Ezra 6:22
@@ -108938,142 +108002,43 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then king Darius ordered search to be made in royal libraries lying in Babylōn, and in Ekbatanois in fortress in land of Media there was found one scroll in which these things had been recorded:
+- fresh: And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Assour toward them, to strengthen their hands in works of house of God of Israel.
 - brenton: And they kept the feast of unleavened bread seven days with gladness, because the Lord made them glad, and he turned the heart of the king of Assyria to them, to strengthen their hands in the works of the house of the God of Israel.
-
-### Ezra 6:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: In first year of Cyrus reigning, king Cyrus ordered house of Lord in Ierousalem to be built where they sacrifice with continual fire.
-- brenton: [missing]
-
-### Ezra 6:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Its height sixty cubits, width sixty cubits, with three courses of hewn stone and one course of new local timber, and expense to be given from house of king Cyrus.
-- brenton: [missing]
-
-### Ezra 6:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sacred vessels of house of Lord, both gold and silver, which Nabouchodonosor brought out from house in Ierousalem and carried to Babylōn, are to be restored to house in Ierousalem where they were laid, so that they may be placed there.
-- brenton: [missing]
-
-### Ezra 6:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he ordered Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners and leaders appointed in Syria and Phoinikia, to keep away from the place, but to let servant of Lord Zorobabel, governor of Ioudaia, and elders of Ioudaioi build that house of Lord on the place.
-- brenton: [missing]
-
-### Ezra 6:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I also ordered that it be built completely, and that attention be given so that they help those from captivity of Ioudaia until house of Lord is completed.
-- brenton: [missing]
-
-### Ezra 6:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from tribute of Coele-Syria and Phoinikia let supplies be carefully given to those men for sacrifices to Lord, to Zorobabel the governor, for bulls and rams and lambs,
-- brenton: [missing]
-
-### Ezra 6:29
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and likewise wheat and salt and wine and oil continually year by year, as priests in Ierousalem direct to be used up day by day without dispute,
-- brenton: [missing]
-
-### Ezra 6:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: so that libations may be offered to God Most High for king and children, and they may pray concerning their life.
-- brenton: [missing]
-
-### Ezra 6:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he ordered that whoever transgresses any of the things said beforehand and written down, or even annuls them, let timber be taken from his own house and let him be hanged upon it, and let his possessions become royal.
-- brenton: [missing]
-
-### Ezra 6:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Because of these things may Lord, whose name is invoked there, destroy every king and nation that stretches out hand to hinder or to do harm to that house of Lord there in Ierousalem.
-- brenton: [missing]
-
-### Ezra 6:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: I king Darius have decreed that these things be done carefully according to them.
-- brenton: [missing]
 
 ### Ezra 7:1
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then Sisinnēs, governor of Coele-Syria and Phoinikia, and Sathrabouzanēs and their partners, following commands given by king Darius,
+- fresh: And after these words, in reign of Arthasastha king of Persians, Ezra son of Saraios, son of Azarias, son of Elkia,
 - brenton: Now after these things, in the reign of Arthasastha king of the Persians, came up Esdras the son of Saraias, the son of Azarias, the son of Chelcias,
 
 ### Ezra 7:2
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: supervised sacred works more carefully, cooperating with elders of Ioudaioi and temple-officials.
+- fresh: son of Saloum, son of Saddouk, son of Achitob,
 - brenton: the son of Selum, the son of Sadduc, the son of Achitob,
 
 ### Ezra 7:3
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sacred works prospered while Aggaios and Zacharias the prophets were prophesying.
+- fresh: son of Samarias, son of Esria, son of Mareroth,
 - brenton: the son of Samarias, the son of Esria, the son of Mareoth,
 
 ### Ezra 7:4
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they completed these things through command of Lord God of Israel,
+- fresh: son of Zaria, son of Saouia, son of Bokki,
 - brenton: the son of Zaraia, the son of Ozias, the son of Bokki,
 
 ### Ezra 7:5
@@ -109082,7 +108047,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and with approval of Cyrus and Darius and Artaxerxes kings of Persians the holy house was completed until twenty-third of month Adar, in sixth year of reign of Darius.
+- fresh: son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
 - brenton: the son of Abisue, the son of Phinees, the son of Eleazar, the son of Aaron the first priest.
 
 ### Ezra 7:6
@@ -109091,7 +108056,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sons of Israel and priests and Levites and rest from captivity who had been added did according to things in book of Mōusēs.
+- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
 ### Ezra 7:7
@@ -109100,7 +108065,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they brought to dedication of sanctuary of Lord 100 bulls, 200 rams, 400 lambs,
+- fresh: And some from sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Ierousalem in seventh year of King Arthasastha.
 - brenton: And some of the children of Israel went up, and some of the priests, and of the Levites, and the singers, and the door-keepers, and the Nathinim, to Jerusalem, in the seventh year of Arthasastha the king.
 
 ### Ezra 7:8
@@ -109109,16 +108074,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: 12 goats for sin of all Israel, according to number of tribal leaders of Israel, 12.
+- fresh: And they came to Ierousalem in fifth month; this was seventh year of the king.
 - brenton: And they came to Jerusalem in the fifth month, this was the seventh year of the king.
 
 ### Ezra 7:9
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And priests and Levites arrayed by tribes stood over works of Lord God of Israel according to book of Mōusēs, and gatekeepers at each gate.
+- fresh: For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Ierousalem, because good hand of his God was upon him.
 - brenton: For in the first day of the first month he began the going up from Babylon, and in the first day of the fifth month they came to Jerusalem, for the good hand of his God was upon him.
 
 ### Ezra 7:10
@@ -109127,7 +108092,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sons of Israel from captivity kept Passover on fourteenth of first month, for priests and Levites were purified together.
+- fresh: For Ezra gave his heart to seek the law and to do it and to teach ordinances and judgments in Israel.
 - brenton: For Esdras had determined in his heart to seek the law, and to do and teach the ordinances and judgments in Israel.
 
 ### Ezra 7:11
@@ -109136,7 +108101,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And not all sons of captivity had purified themselves, but Levites all together had purified themselves.
+- fresh: And this is copy of decree which Arthasastha gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
 - brenton: And this is the copy of the order which Arthasastha gave to Esdras the priest, the scribe of the book of the words of the commandments of the Lord, and of his ordinances to Israel.
 
 ### Ezra 7:12
@@ -109145,7 +108110,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they sacrificed Passover for all sons of captivity and for their brothers the priests and for themselves.
+- fresh: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
 - brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
 
 ### Ezra 7:13
@@ -109154,7 +108119,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sons of Israel from captivity ate, all who had separated from abominations of nations of land, seeking Lord.
+- fresh: From me decree has been set that everyone in my kingdom who freely chooses from people of Israel and priests and Levites to go to Ierousalem with you may go.
 - brenton: A decree is made by me, that every one who is willing in my kingdom of the people of Israel, and of the priests and Levites, to go to Jerusalem, be permitted to go with thee.
 
 ### Ezra 7:14
@@ -109163,17 +108128,134 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they kept feast of unleavened breads seven days, rejoicing before Lord,
+- fresh: Because you are sent from presence of the king and the seven counselors to inspect concerning Ioudaia and Ierousalem by law of your God in your hand,
 - brenton: One has been sent from the king and the seven councillors, to visit Judea and Jerusalem, according to the law of their God that is in thine hand.
 
 ### Ezra 7:15
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: because he turned counsel of king of Assyrians upon them, to strengthen their hands in works of Lord God of Israel.
+- fresh: and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Ierousalem,
 - brenton: And for the house of the Lord there have been sent silver and gold, which the king and the councillors have freely given to the God of Israel, who dwells in Jerusalem.
+
+### Ezra 7:16
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for house of God in Ierousalem,
+- brenton: And all the silver and gold, whatsoever thou shalt find in all the land of Babylon, with the freewill-offering of the people, and the priests that offer freely for the house of God which is in Jerusalem.
+
+### Ezra 7:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on altar of house of your God in Ierousalem.
+- brenton: And as for every one that arrives there, speedily order him by this letter to bring calves, rams, lambs, and their meat-offerings, and their drink-offerings; and thou shalt offer them on the altar of the house of your God which is in Jerusalem.
+
+### Ezra 7:18
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
+- brenton: And whatever it shall seem good to thee and to thy brethren to do with the rest of the silver and the gold, do as it is pleasing to your God.
+
+### Ezra 7:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And vessels given to you for service of house of God, deliver before God in Ierousalem.
+- brenton: And deliver the vessels that are given thee for the service of the house of God, before God in Jerusalem.
+
+### Ezra 7:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And whatever remains of need for house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+- brenton: And as to the rest of the need of the house of thy God, thou shalt give from the king's treasure-houses,
+
+### Ezra 7:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- brenton: and from me, whatever it shall seem good to thee to give.
+
+### Ezra 7:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: up to one hundred talents of silver and up to one hundred kors of wheat and up to one hundred baths of wine and up to one hundred baths of oil, and salt without measure.
+- brenton: to the amount of a hundred talents of silver, and a hundred measures of wheat, and a hundred baths of wine, and a hundred baths of oil, and salt without reckoning.
+
+### Ezra 7:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Everything in decree of God of heaven, let it be done carefully for house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
+- brenton: Let whatever is in the decree of the God of heaven, be done: take heed lest any one make an attack on the house of the God of heaven, lest at any time there should be wrath against the realm of the king and his sons.
+
+### Ezra 7:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
+- brenton: Also this has been declared to you, with respect to all the priests, and Levites, the singers, porters, Nathinim and ministers of the house of God, let no tribute be paid to thee; thou shalt not have power to oppress them.
+
+### Ezra 7:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
+- brenton: And thou, Esdras, as the wisdom of God is in thy hand, appoint scribes and judges, that they may judge for all the people beyond the river, all that know the law of the Lord thy God; and ye shall make it known to him that knows not.
+
+### Ezra 7:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+- brenton: And whosoever shall not do the law of God, and the law of the king readily, judgment shall be taken upon him, whether for death or for chastisement, or for a fine of his property, or casting into prison.
+
+### Ezra 7:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Blessed is the Lord God of our fathers, who gave thus into heart of the king to glorify house of the Lord in Ierousalem,
+- brenton: Blessed be the Lord God of our fathers, who has put it thus into the heart of the king, to glorify the house of the Lord which is in Jerusalem;
+
+### Ezra 7:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and bent mercy toward me before the king and his counselors and all the exalted rulers of the king. And I was strengthened, as good hand of God was upon me, and I gathered leaders from Israel to go up with me.
+- brenton: and has given me favour in the eyes of the king, and of his councillors, and all the rulers of the king, the exalted ones. And I was strengthened according to the good hand of God upon me, and I gathered chief men of Israel to go up with me.
 
 ### Ezra 8:1
 
@@ -109181,7 +108263,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And after these things, later, when Artaxerxes king of Persians was reigning, Esdras came up, son of Saraiou, son of Ezeriou, son of Chelkiou, son of Salēmou,
+- fresh: And these were chiefs of their father-houses, leaders going up with me in reign of Arthasastha, king of Babylon:
 - brenton: And these are the heads of their families, the leaders that went up with me in the reign of Arthasastha the king of Babylon.
 
 ### Ezra 8:2
@@ -109190,16 +108272,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: son of Saddouk, son of Achitōb, son of Amariou, son of Oziou, son of Bokka, son of Abisoue, son of Phinees, son of Eleazar, son of Aarōn the first priest.
+- fresh: from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
 - brenton: Of the sons of Phinees; Gerson: of the sons of Ithamar; Daniel: of the sons of David; Attus.
 
 ### Ezra 8:3
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: This Esdras came up from Babylōn, being a skilled scribe in law of Mōusēs which was given by God of Israel.
+- fresh: from sons of Sechanias; from sons of Phoros, Zacharias, and with him a band of one hundred fifty males;
 - brenton: Of the sons of Sachania, and of the sons of Phoros; Zacharias: and with him a company of a hundred and fifty.
 
 ### Ezra 8:4
@@ -109208,7 +108290,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And king gave him glory, he having found favor before him concerning all his requests.
+- fresh: from sons of Phaathmoab, Elianas son of Zaraia, and with him two hundred males;
 - brenton: Of the sons of Phaath-Moab; Eliana the son of Saraia, and with him two hundred that were males.
 
 ### Ezra 8:5
@@ -109217,7 +108299,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And there went up with him from sons of Israel and from priests and Levites and temple-singers and gatekeepers and temple-servants to Ierosolyma in seventh year of reign of Artaxerxes, in fifth month; this was seventh year to king.
+- fresh: from sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;
 - brenton: And of the sons of Zathoes; Sechenias the son of Aziel, and with him three hundred males.
 
 ### Ezra 8:6
@@ -109226,16 +108308,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: For after they departed from Babylōn on new moon of first month, on new moon of fifth month they arrived in Ierousalem, according to good journey given them from Lord upon him.
+- fresh: and from sons of Adin, Obeth son of Ionathan, and with him fifty males;
 - brenton: And of the sons of Adin; Obeth the son of Jonathan, and with him fifty males.
 
 ### Ezra 8:7
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: For Esdras had much knowledge, so as to leave out nothing from law of Lord and from commandments, to teach all Israel all righteous requirements and judgments.
+- fresh: and from sons of Elam, Iesias son of Athelia, and with him seventy males;
 - brenton: And of the sons of Elam; Isæas the son of Athelia, and with him seventy males.
 
 ### Ezra 8:8
@@ -109244,7 +108326,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now when decree written from Artaxerxes the king to Esdras the priest and reader of law of Lord fell upon him, the copy below is this:
+- fresh: and from sons of Saphatia, Zabdia son of Michael, and with him eighty males;
 - brenton: And of the sons of Saphatia; Zabadias the son of Michael, and with him eighty males.
 
 ### Ezra 8:9
@@ -109253,25 +108335,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: King Artaxerxes to Esdras the priest and reader of law of Lord, greetings.
+- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
 - brenton: And of the sons of Joab; Abadia the son of Jeiel, and with him two hundred and eighteen males.
 
 ### Ezra 8:10
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I, judging humane things, ordered that those wishing from nation of Ioudaioi and from priests and Levites and those in my kingdom may go with you to Ierousalem.
+- fresh: and from sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
 - brenton: And of the sons of Baani; Selimuth the son of Josephia, and with him a hundred and sixty males.
 
 ### Ezra 8:11
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Therefore as many as think it good, let them set out together, just as it seemed good to me and to seven friends who counsel me,
+- fresh: and from sons of Babi, Zacharia son of Babi, and with him seventy-eight males;
 - brenton: And of the sons of Babi; Zacharias the son of Babi, and with him twenty-eight males.
 
 ### Ezra 8:12
@@ -109280,7 +108362,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: so that they may inspect matters according to Ioudaia and Ierousalem, according to what law of your God contains,
+- fresh: and from sons of Asgad, Ioanan son of Akatan, and with him one hundred ten males;
 - brenton: And of the sons of Asgad; Joanan the son of Accatan, and with him a hundred and ten males.
 
 ### Ezra 8:13
@@ -109289,7 +108371,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and to carry gifts to Lord of Israel which both I and my friends vowed for Ierousalem, and all gold and silver whatever may be found in land of Babylōnia for Lord in Ierousalem, together with what is given by nation for sanctuary of Lord there in Ierousalem,
+- fresh: and from sons of Adonikam, the last, and these their names: Eliphalat, Iiel, and Samaia, and with them sixty males;
 - brenton: And of the sons of Adonicam were the last, and these were their names, Eliphalat, Jeel, and Samæa, and with them sixty males.
 
 ### Ezra 8:14
@@ -109298,7 +108380,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: to gather both gold and silver for bulls and rams and lambs and things following with these,
+- fresh: and from sons of Bagoi, Outhi, and with him seventy males.
 - brenton: And of the sons of Baguæ, Uthai, and Zabud, and with him seventy males.
 
 ### Ezra 8:15
@@ -109307,25 +108389,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: so as to offer sacrifices upon altar of Lord your God in Ierousalem.
+- fresh: And I gathered them to the river coming to Eui, and we camped there three days, and I discerned among the people and the priests, but from sons of Levi I found no one there.
 - brenton: And I gathered them to the river that comes to Evi, and we encamped there three days: and I reviewed the people and the priests, and found none of the sons of Levi there.
 
 ### Ezra 8:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all whatever you wish to do with your brothers in gold and silver, complete according to will of your God.
-- brenton: And I sent men of understanding to Eleazar, to Ariel, to Semeias, and to Alonam, and to Jarib, and to Elnatham, and to Nathan, and to Zacharias, and to Mesollam, and to Joarim, and to Elnathan.
-
-### Ezra 8:17
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And sacred vessels of Lord, those being given to you for service of sanctuary of your God in Ierousalem,
+- fresh: And I sent for Eleazar, Ariel, Semaia, Alonam, Iarib, Elnathan, Nathan, Zacharia, and Mesoulam, men, and for Ioarib and Elnathan, those with understanding.
+- brenton: And I sent men of understanding to Eleazar, to Ariel, to Semeias, and to Alonam, and to Jarib, and to Elnatham, and to Nathan, and to Zacharias, and to Mesollam, and to Joarim, and to Elnathan.
+
+### Ezra 8:17
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And I sent them out to the leader at Argyriou the place, and I put words in their mouth to speak to their brothers the nethinim at Argyriou the place, to bring us singers for house of our God.
 - brenton: And I forwarded them to the rulers with the money of the place, and I put words in their mouth to speak to their brethren the Athinim with the money of the place, that they should bring us singers for the house of our God.
 
 ### Ezra 8:18
@@ -109334,7 +108416,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and the rest, whatever may fall upon you for need of sanctuary of your God, you shall give from royal treasury.
+- fresh: And they came to us, because good hand of our God was upon us, a man, Sachol, from sons of Mooli son of Levi son of Israel, and his sons and his brothers, eighteen.
 - brenton: And they came to us, as the good hand of our God was upon us, even a man of understanding of the sons of Mooli, the son of Levi, the son of Israel, and at the commencement came his sons and his brethren, eighteen.
 
 ### Ezra 8:19
@@ -109343,7 +108425,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I king Artaxerxes ordered treasurers of Syria and Phoinikia that whatever Esdras the priest and reader of law of God Most High may send for, they should give him carefully, up to 100 talents of silver,
+- fresh: And Asabia and Osaia from sons of Merari, his brothers and their sons, twenty.
 - brenton: And Asebia, and Isaia of the sons of Merari, his brethren and his sons, twenty.
 
 ### Ezra 8:20
@@ -109352,7 +108434,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and likewise up to 100 kors of wheat and 100 measures of wine, and salt in abundance.
+- fresh: And from the nethinim, whom David and the rulers gave for service of the Levites, two hundred twenty nethinim. All were enrolled by names.
 - brenton: And of the Nathinim, whom David and the princes had appointed for the service of the Levites there were two hundred and twenty Nathinim; all were gathered by their names.
 
 ### Ezra 8:21
@@ -109361,7 +108443,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Let all things according to law of God be done diligently for God Most High, so that wrath may not come upon kingdom of king and sons.
+- fresh: And I proclaimed a fast there at river Aoue, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
 - brenton: And I proclaimed there a fast, at the river Aüe, that we should humble ourselves before our God, to seek of him a straight way for us, and for our children, and for all our property.
 
 ### Ezra 8:22
@@ -109370,7 +108452,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And to you it is said that for all priests and Levites and temple-singers and gatekeepers and temple-servants and workers of this sanctuary, no tribute nor any other exaction should be imposed, and no one should have authority to impose anything on these.
+- fresh: For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, Hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
 - brenton: For I was ashamed to ask of the king a guard and horsemen to save us from the enemy in the way: for we had spoken to the king, saying, The hand of our God is upon all that seek him, for good; but his power and his wrath are upon all that forsake him.
 
 ### Ezra 8:23
@@ -109379,7 +108461,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And you, Esdras, according to wisdom of God, appoint judges and magistrates so that they may judge in all Syria and Phoinikia all who know law of your God, and those not knowing you shall teach.
+- fresh: And we fasted and sought from our God concerning this, and he listened to us.
 - brenton: So we fasted, and asked of our God concerning this; and he hearkened to us.
 
 ### Ezra 8:24
@@ -109388,7 +108470,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all who transgress law of your God and king's law will be carefully punished, whether by death or punishment or money-fine or removal.
+- fresh: And I separated twelve from chiefs of the priests: Saraias, Asabia, and with them ten from their brothers.
 - brenton: And I gave charge to twelve of the chiefs of the priests, to Saraia, to Asabia, and ten of their brethren with them.
 
 ### Ezra 8:25
@@ -109397,7 +108479,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Blessed alone is Lord, who gave these things into heart of king, to glorify his house in Ierousalem,
+- fresh: And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
 - brenton: And I weighed to them the silver, and the gold, and the vessels of the first-fruits of the house of our God, which the king, and his councillors, and his princes, and all Israel that were found, had dedicated.
 
 ### Ezra 8:26
@@ -109406,16 +108488,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and honored me before king and his counselors and all his friends and magnates.
+- fresh: And I weighed into their hands six hundred fifty talents of silver and one hundred silver vessels and one hundred talents of gold,
 - brenton: I even weighed into their hands six hundred and fifty talents of silver, and a hundred silver vessels, and a hundred talents of gold;
 
 ### Ezra 8:27
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I became bold according to help of Lord my God, and I gathered from Israel men to go up with me.
+- fresh: and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
 - brenton: and twenty golden bowls, weighing about a thousand drachms, and superior vessels of fine shining brass, precious as gold.
 
 ### Ezra 8:28
@@ -109424,7 +108506,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And these are leaders according to their father-houses and their divisions, those going up with me from Babylōn in reign of Artaxerxes the king:
+- fresh: And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
 - brenton: And I said to them, Ye are holy to the Lord; and the vessels are holy; and the silver and the gold are freewill-offerings to the Lord God of our fathers.
 
 ### Ezra 8:29
@@ -109433,7 +108515,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Phinees, Garsomos; from sons of Ietamarou, Gamēlos; from sons of Dauid, Attous son of Secheniou.
+- fresh: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Ierousalem, in chambers of house of the Lord.
 - brenton: Be watchful and keep them, until ye weigh them before the chief priests and the Levites, and the chiefs of families in Jerusalem, at the chambers of the house of the Lord.
 
 ### Ezra 8:30
@@ -109442,7 +108524,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Phoros, Zacharias, and with him from register 150 men.
+- fresh: And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Ierousalem into house of our God.
 - brenton: So the priests and the Levites took the weight of the silver, and the gold, and the vessels, to bring to Jerusalem into the house of our God.
 
 ### Ezra 8:31
@@ -109451,7 +108533,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Phaathmōab, Eliaōnias son of Zaraiou, and with him 200 men.
+- fresh: And we set out from river Aoue on twelfth day of the first month to come to Ierousalem, and hand of our God was upon us, and he rescued us from hand of enemy and foe on the road.
 - brenton: And we departed from the river of Aüe on the twelfth day of the first month, to come to Jerusalem: and the hand of our God was upon us, and delivered us from the hand of the enemy and adversary in the way.
 
 ### Ezra 8:32
@@ -109460,7 +108542,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Zathoēs, Sechenias son of Iezēlou, and with him 300 men; from sons of Adinou, Bēn-Iōnathou, and with him 250 men.
+- fresh: And we came to Ierousalem and sat there three days.
 - brenton: And we came to Jerusalem, and abode there three days.
 
 ### Ezra 8:33
@@ -109469,7 +108551,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Ēlam, Iēsias son of Gotholiou, and with him 70 men.
+- fresh: And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
 - brenton: And it came to pass on the fourth day that we weighed the silver, and the gold, and the vessels, in the house of our God, into the hand of Merimoth the son of Uria the priest; and with him was Eleazar the son of Phinees, and with them Jozabad the son of Jesus, and Noadia the son of Banaia, the Levites.
 
 ### Ezra 8:34
@@ -109478,7 +108560,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Saphatiou, Zaraias son of Michaēlou, and with him 70 men.
+- fresh: by number and by weight, everything, and all the weight was written at that time.
 - brenton: All things were reckoned by number and weight, and the whole weight was written down.
 
 ### Ezra 8:35
@@ -109487,7 +108569,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Iōab, Abadias son of Iezēlou, and with him 212 men.
+- fresh: Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
 - brenton: At that time the children of the banishment that came from the captivity offered whole-burnt-offerings to the God of Israel, twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goats for a sin-offering: all whole-burnt-offerings to the Lord.
 
 ### Ezra 8:36
@@ -109496,512 +108578,8 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: From sons of Bani, Assalimōth son of Iōsapiou, and with him 160 men.
+- fresh: And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and house of God.
 - brenton: And they gave the king's mandate to the king's lieutenants, and the governors beyond the river: and they honoured the people and the house of God.
-
-### Ezra 8:37
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Babi, Zacharias son of Bēbai, and with him 28 men.
-- brenton: [missing]
-
-### Ezra 8:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Asgath, Iōanēs son of Akatan, and with him 110 men.
-- brenton: [missing]
-
-### Ezra 8:39
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Adōnikam, the last ones, and these are their names: Eliphalatos, Ieouēl, and Samaias, and with them 70 men.
-- brenton: [missing]
-
-### Ezra 8:40
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Bago, Outhi son of Istalkourou, and with him 70 men.
-- brenton: [missing]
-
-### Ezra 8:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I gathered them by river called Thera, and we camped there three days, and I examined them.
-- brenton: [missing]
-
-### Ezra 8:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And among sons of priests and from Levites I found none there.
-- brenton: [missing]
-
-### Ezra 8:43
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: So I sent to Eleazar and Idouēlon and Maasman and Elnathan and Samaian and Iōribon, Nathan, Ennatan, Zacharian, and Mesollamon, the leaders and instructed ones.
-- brenton: [missing]
-
-### Ezra 8:44
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I told them to come to Addaios the leader in place of treasury,
-- brenton: [missing]
-
-### Ezra 8:45
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: having commanded them to speak with Addaios and his brothers and treasury-keepers in that place to send to us those who would minister in house of our Lord.
-- brenton: [missing]
-
-### Ezra 8:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And by mighty hand of our Lord they brought to us skilled men from sons of Mooli the Levite of Israel, Asebebias and sons and brothers of him, 18,
-- brenton: [missing]
-
-### Ezra 8:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and Asebia and Announon and Osaia the brother from sons of Chanounaiou, and their sons, 20.
-- brenton: [missing]
-
-### Ezra 8:48
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from temple-servants whom Dauid and leaders gave for work of Levites, 220 temple-servants; of all these the name record had been marked.
-- brenton: [missing]
-
-### Ezra 8:49
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I vowed there a fast for young men before our Lord,
-- brenton: [missing]
-
-### Ezra 8:50
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: to seek from him good journey for us and those with us, our children and cattle.
-- brenton: [missing]
-
-### Ezra 8:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For I was ashamed to ask king for infantry and horsemen and escort because of enemies opposing us.
-- brenton: [missing]
-
-### Ezra 8:52
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For we had said to king that strength of our Lord would be with those seeking him for every restoration.
-- brenton: [missing]
-
-### Ezra 8:53
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And again we begged our Lord concerning these things, and we obtained favorable hearing.
-- brenton: [missing]
-
-### Ezra 8:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I separated from chiefs of priests 12 men, and Serebian and Asabian, and with them 10 men from their brothers,
-- brenton: [missing]
-
-### Ezra 8:55
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and I weighed out to them the silver and gold and sacred vessels of house of our Lord, which king himself and his counselors and magnates and all Israel had dedicated.
-- brenton: [missing]
-
-### Ezra 8:56
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after weighing I handed over to them 650 talents of silver and silver vessels of 100 talents and 100 talents of gold and 20 golden bowls and 12 bronze vessels of good shining bronze, gold-like vessels.
-- brenton: [missing]
-
-### Ezra 8:57
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I said to them, You are holy to Lord, and vessels are holy, and silver and gold are a vow to Lord, Lord of our fathers.
-- brenton: [missing]
-
-### Ezra 8:58
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Keep watch and guard until you hand them over to chiefs of priests and Levites and to leaders of father-houses of Israel in Ierousalem, in chambers of house of our Lord.
-- brenton: [missing]
-
-### Ezra 8:59
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And priests and Levites who received silver and gold and vessels brought them into Ierousalem, into sanctuary of Lord.
-- brenton: [missing]
-
-### Ezra 8:60
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after setting out from river Thera on twelfth of first month, we entered into Ierousalem by mighty hand of our Lord upon us, and he rescued us on the way from every enemy, and we came to Ierousalem.
-- brenton: [missing]
-
-### Ezra 8:61
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when third day came there, silver and gold were delivered in house of our Lord to Marmōthi, Ourias the priest,
-- brenton: [missing]
-
-### Ezra 8:62
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and with him Eleazar son of Phinees, and with them Iōsabdos son of Iēsou and Mōeth son of Sabannou, the Levites, by number and weight of all things, and whole weight of them was written in that hour.
-- brenton: [missing]
-
-### Ezra 8:63
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those who came from captivity offered sacrifices to Lord God of Israel: 12 bulls for all Israel, 96 rams, 72 lambs, 12 goats for salvation, all as sacrifice to Lord.
-- brenton: [missing]
-
-### Ezra 8:64
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they delivered king's decrees to royal stewards and governors of Coele-Syria and Phoinikia, and they honored nation and sanctuary of Lord.
-- brenton: [missing]
-
-### Ezra 8:65
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when these things were finished, leaders approached me, saying,
-- brenton: [missing]
-
-### Ezra 8:66
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: People of Israel and leaders and priests and Levites have not separated from foreign nations of land and from their uncleannesses, from Chananaians and Chettaians and Pherezaians and Iebousaians and Mōabitans and Egyptians and Idoumaians.
-- brenton: [missing]
-
-### Ezra 8:67
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For they have dwelt with their daughters, both they and their sons, and holy seed has been mixed with foreign nations of land, and leaders and magnates shared in this lawlessness from beginning of matter.
-- brenton: [missing]
-
-### Ezra 8:68
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And as soon as I heard these things, I tore garments and holy robe and plucked hair of head and beard and sat mind-struck and grieved.
-- brenton: [missing]
-
-### Ezra 8:69
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all who were ever stirred by word of Lord of Israel gathered to me while I was mourning over lawlessness, and I sat grieving until evening sacrifice.
-- brenton: [missing]
-
-### Ezra 8:70
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after rising from fasting, with garments and holy robe torn, after bending knees and stretching out hands toward Lord, I said,
-- brenton: [missing]
-
-### Ezra 8:71
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Lord, I am ashamed, I am confounded before your face.
-- brenton: [missing]
-
-### Ezra 8:72
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For our sins increased above our heads, and our ignorances rose up as far as heaven.
-- brenton: [missing]
-
-### Ezra 8:73
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From times of our fathers we are in great sin until this day.
-- brenton: [missing]
-
-### Ezra 8:74
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And because of our sins, together with our brothers and with our kings and with our priests we were given over to kings of earth, to sword and captivity and plunder with shame, until this day.
-- brenton: [missing]
-
-### Ezra 8:75
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now to some small extent mercy has come to us from you, Lord, to leave to us a root and a name in place of your sanctuary,
-- brenton: [missing]
-
-### Ezra 8:76
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and to uncover our light in house of our Lord, to give us food in time of our slavery.
-- brenton: [missing]
-
-### Ezra 8:77
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And while we were enslaved, we were not forsaken by our Lord, but he dealt with us in favor before kings of Persians,
-- brenton: [missing]
-
-### Ezra 8:78
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: to give us food and to glorify sanctuary of our Lord and to raise desolate Siōn, to give us support in Ioudaia and Ierousalem.
-- brenton: [missing]
-
-### Ezra 8:79
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now what shall we say, Lord, having these things? For we transgressed your commandments, which you gave by hand of your servants the prophets, saying that
-- brenton: [missing]
-
-### Ezra 8:80
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: land into which you are entering to inherit is a polluted land with pollution of foreigners of land, and with their uncleanness they filled it.
-- brenton: [missing]
-
-### Ezra 8:81
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now do not marry your daughters to their sons, and do not take their daughters for your sons,
-- brenton: [missing]
-
-### Ezra 8:82
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and you shall not seek to make peace with them for all time, so that after becoming strong you may eat good things of land and leave inheritance to your sons forever.
-- brenton: [missing]
-
-### Ezra 8:83
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all things happening to us are coming because of our evil works and our great sins.
-- brenton: [missing]
-
-### Ezra 8:84
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For you, Lord, lightened our sins and gave us such a root. Shall we again turn back to transgress your law by mixing with uncleanness of nations of land?
-- brenton: [missing]
-
-### Ezra 8:85
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Were you not angry with us to destroy us, until there should be left neither root nor seed nor our name?
-- brenton: [missing]
-
-### Ezra 8:86
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Lord of Israel, you are true, for we were left as a root to this day.
-- brenton: [missing]
-
-### Ezra 8:87
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Behold, now we are before you in our lawless acts, for there is no standing any longer before you because of these things.
-- brenton: [missing]
-
-### Ezra 8:88
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And while Esdras was praying and confessing, weeping prostrate on ground before sanctuary, a very great crowd gathered to him from Ierousalem, men and women and young people, for there was great weeping in multitude.
-- brenton: [missing]
-
-### Ezra 8:89
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Iechonias son of Ieiēlou from sons of Israel cried out and said, Esdras, we have sinned against Lord and have married foreign women from nations of land, and now there is hope for Israel in this.
-- brenton: [missing]
-
-### Ezra 8:90
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: In this matter let there be oath for us to Lord, to cast out all our wives from foreigners together with their children, as it was judged by you and by all who obey law of Lord.
-- brenton: [missing]
-
-### Ezra 8:91
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Rise up and accomplish it, for matter is on you, and we are with you to act strongly.
-- brenton: [missing]
-
-### Ezra 8:92
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after Esdras rose up, he made chiefs of priests and Levites and all Israel swear to do according to these things, and they swore.
-- brenton: [missing]
 
 ### Ezra 9:1
 
@@ -110009,7 +108587,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And after Esdras rose from court of sanctuary, he went to chamber of Iōanan son of Eliasib.
+- fresh: And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Iebousite, Ammonite, Moabite, Moserite, and Amorite.
 - brenton: And when these things were finished, the princes drew near to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands in their abominations, even the Chananite, the Ethite, the Pherezite, the Jebusite, the Ammonite, the Moabite, and the Moserite and the Amorite.
 
 ### Ezra 9:2
@@ -110018,16 +108596,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And after lodging there, he tasted no bread and drank no water, mourning over great lawlessnesses of multitude.
+- fresh: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with peoples of the lands, and hand of the rulers was first in this faithlessness.
 - brenton: For they have taken of their daughters for themselves and their sons; and the holy seed has passed among the nations of the lands, and the hand of the rulers has been first in this transgression.
 
 ### Ezra 9:3
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And proclamation came to be in all Ioudaia and Ierousalem for all from captivity to gather in Ierousalem.
+- fresh: And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
 - brenton: And when I heard this thing, I rent my garments, and trembled, and plucked some of the hairs of my head and of my beard, and sat down mourning.
 
 ### Ezra 9:4
@@ -110036,16 +108614,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And whoever would not arrive in two or three days according to judgment of leaders and elders, their cattle would be devoted and he himself would be alienated from multitude of captivity.
+- fresh: And everyone pursuing word of God of Israel was gathered to me over faithlessness of the exile, and I sat devastated until evening sacrifice.
 - brenton: Then there assembled to me all that followed the word of the God of Israel, on account of the transgression of the captivity; and I remained mourning until the evening sacrifice.
 
 ### Ezra 9:5
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And those from tribe of Iouda and Beniamin gathered in Ierousalem in three days; this was ninth month, twentieth of month.
+- fresh: And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
 - brenton: And at the evening sacrifice I rose up from my humiliation; and when I had rent my garments, then I trembled, and I bow myself on my knees, and spread out my hands to the Lord God,
 
 ### Ezra 9:6
@@ -110054,7 +108632,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all multitude sat in broad place of sanctuary, trembling because of present winter.
+- fresh: and said, Lord, I was ashamed and embarrassed to lift my face to you, because our lawlessnesses multiplied above our head and our trespasses grew great unto heaven.
 - brenton: and I said, O Lord, I am ashamed and confounded, O my God, to lift up my face to thee: for our transgressions have abounded over our head, and our trespasses have increased even to heaven.
 
 ### Ezra 9:7
@@ -110063,7 +108641,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And after Esdras rose he said to them, You acted lawlessly and married foreign women, to add sin to Israel.
+- fresh: From days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
 - brenton: From the days of our fathers we have been in a great trespass until this day: and because of our iniquities we, and our kings, and our children, have been delivered into the hand of the kings of the Gentiles by the sword, and by captivity, and by spoil, and with shame of our face, as at this day.
 
 ### Ezra 9:8
@@ -110072,7 +108650,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And now give confession, glory to Lord God of our fathers,
+- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
 - brenton: And now our God has dealt mercifully with us, so as to leave us to escape, and to give us an establishment in the place of his sanctuary, to enlighten our eyes, and to give a little quickening in our servitude.
 
 ### Ezra 9:9
@@ -110081,7 +108659,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and do his will, and separate yourselves from nations of land and from foreign women.
+- fresh: For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Iouda and in Ierousalem.
 - brenton: For we are slaves, yet in our servitude the Lord our God has not deserted us; and he has extended favour to us in the sight of the kings of the Persians, to give us a quickening, that they should raise up the house of our God, and restore the desolate places of it, and to give us a fence in Juda and Jerusalem.
 
 ### Ezra 9:10
@@ -110090,16 +108668,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all multitude cried out and said with loud voice, Just as you have said, so we will do.
+- fresh: And what shall we say, our God, after this? For we forsook your commandments,
 - brenton: What shall we say, our God, after this? for we have forsaken thy commandments,
 
 ### Ezra 9:11
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But multitude is many, and season is wintry, and we are not able to stand outside, and work for us is not of one day nor two, for we sinned much in these things.
+- fresh: which you gave by hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
 - brenton: which thou hast given us by the hand of thy servants the prophets, saying, The land, into which ye go to inherit it, is a land subject to disturbance by the removal of the people of the nations for their abominations, wherewith they have filled it from one end to the other by their uncleannesses.
 
 ### Ezra 9:12
@@ -110108,7 +108686,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Let leaders of multitude stand, and all in our dwellings who have foreign wives, let them come after taking time,
+- fresh: And now do not give your daughters to their sons, and do not take from their daughters for your sons, and do not seek their peace and their good forever, so that you may grow strong and eat good things of the land and leave it as inheritance to your sons forever.
 - brenton: And now give not your daughters to their sons, and take not of their daughters for your sons, neither shall ye seek their peace or their good for ever: that ye may be strong, and eat the good of the land, and transmit it as an inheritance to your children for ever.
 
 ### Ezra 9:13
@@ -110117,7 +108695,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and with elders and judges of each place, until wrath of Lord concerning this matter is turned away from us.
+- fresh: And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance,
 - brenton: And after all that is come upon us because of our evil deeds, and our great trespass, it is clear that there is none such as our God, for thou hast lightly visited our iniquities, and given us deliverance;
 
 ### Ezra 9:14
@@ -110126,7 +108704,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Iōnathas son of Azaēlou and Iezias son of Thokanou undertook it according to these things, and Mosollamos and Leuis and Sabbataios assisted them.
+- fresh: shall we turn again to scatter your commandments and intermarry with peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
 - brenton: whereas we have repeatedly broken thy commandments, and intermarried with the people of the lands: be not very angry with us to our utter destruction, so that there should be no remnant or escaping one.
 
 ### Ezra 9:15
@@ -110135,378 +108713,414 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And those from captivity did according to all these things.
+- fresh: Lord God of Israel, righteous are you, because we were left escaping as this day. Behold, we are before you in our trespasses, because there is no standing before you on account of this.
 - brenton: O Lord God of Israel, thou art righteous; for we remain yet escaped, as at this day: behold, we are before thee in our trespasses: for we cannot stand before thee on this account.
 
-### Ezra 9:16
+### Ezra 10:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Esdras the priest chose for himself men, leaders of their fathers, all by name, and they met on new moon of tenth month to examine matter.
-- brenton: [missing]
+- fresh: And as Ezra prayed and confessed, weeping and praying before house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
+- brenton: So when Esdras had prayed, and when he had confessed, weeping and praying before the house of God, a very great assembly of Israel came together to him, men and women and youths; for the people wept, and wept aloud.
 
-### Ezra 9:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And matter concerning men holding foreign wives was brought to completion until new moon of first month.
-- brenton: [missing]
-
-### Ezra 9:18
+### Ezra 10:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And there were found among priests those gathered together having foreign wives:
-- brenton: [missing]
+- fresh: And Sechenias son of Iiel, from sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from peoples of the land, and now there is patient hope for Israel about this.
+- brenton: And Sechenias the son of Jeel, of the sons of Elam, answered and said to Esdras, We have broken covenant with our God, and have taken strange wives of the nations of the land: yet now there is patience of hope to Israel concerning this thing.
 
-### Ezra 9:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Iēsous son of Iōsedek and his brothers: Masēas and Eleazar and Iōribos and Iōdanos.
-- brenton: [missing]
-
-### Ezra 9:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they pledged their hands to cast out their wives, and rams for atonement over their ignorance.
-- brenton: [missing]
-
-### Ezra 9:21
+### Ezra 10:3
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Emmēr: Ananias and Zabdaios and Manēs and Samaios and Iiēl and Azarias.
-- brenton: [missing]
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
-### Ezra 9:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Phaisour: Eliōnais, Massias, Ismaēlos, and Nathanaēlos and Ōkidēlos and Salthas.
-- brenton: [missing]
-
-### Ezra 9:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from Levites: Iōzabdos and Semeis and Kōlios, this one Kalitas, and Pathaios and Ōoudas and Iōanas.
-- brenton: [missing]
-
-### Ezra 9:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From temple-singers: Eliasibos and Bakkouros.
-- brenton: [missing]
-
-### Ezra 9:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From gatekeepers: Salloumos and Tolbanēs.
-- brenton: [missing]
-
-### Ezra 9:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From Israel, from sons of Phoros: Iermas and Iezias and Melchias and Miaminos and Eleazaros and Asibias and Bannaias.
-- brenton: [missing]
-
-### Ezra 9:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Ēlam: Matanias and Zacharias, Iezriēlos and Ōbadios and Ieremōth and Ēlias.
-- brenton: [missing]
-
-### Ezra 9:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Zamōth: Eliadas, Eliasimos, Othonias, Iarimōth, and Sabathos and Zerdaias.
-- brenton: [missing]
-
-### Ezra 9:29
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Bēbai: Iōannēs and Ananias and Zabdos and Emathis.
-- brenton: [missing]
-
-### Ezra 9:30
+### Ezra 10:4
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Mani: Ōlamos, Mamouchos, Iedaios, Iasoubos, and Asaēlos and Ieremōth.
-- brenton: [missing]
+- fresh: Rise, because the matter is on you, and we are with you. Be strong and do it.
+- brenton: arise, and alarm them with the commands of our God; and let it be done according to the law. Rise up, for the matter is upon thee; and we are with thee: be strong and do.
 
-### Ezra 9:31
+### Ezra 10:5
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ezra rose and made the rulers, the priests, and the Levites and all Israel swear to do according to this word, and they swore.
+- brenton: Then Esdras arose, and caused the rulers, the priests, and Levites, and all Israel, to swear that they would do according to this word: and they swore.
+
+### Ezra 10:6
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ezra rose from before house of God and went into treasury-room of Ioanan son of Elisoub, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
+- brenton: And Esdras rose up from before the house of God, and went to the treasury of Joanan the son of Elisub; he even went thither: he ate no bread, and drank no water; for he mourned over the unfaithfulness of them of the captivity.
+
+### Ezra 10:7
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they proclaimed through Iouda and Ierousalem to all sons of the exile to gather into Ierousalem.
+- brenton: And they made proclamation throughout Juda and Jerusalem to all the children of the captivity, that they should assemble at Jerusalem, saying,
+
+### Ezra 10:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And everyone who would not come within three days, according to counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
+- brenton: Every one who shall not arrive within three days, as is the counsel of the rulers and the elders, all his substance shall be forfeited, and he shall be separated from the congregation of the captivity.
+
+### Ezra 10:9
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all men of Iouda and Beniamin gathered into Ierousalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of house of God, trembling because of the matter and because of the winter.
+- brenton: So all the men of Juda and Benjamin assembled at Jerusalem within the three days. This was the ninth month: on the twentieth day of the month all the people sat down in the street of the house of the Lord, because of their alarm concerning the word, and because of the storm.
+
+### Ezra 10:10
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
+- brenton: And Esdras the priest arose, and said to them, Ye have broken covenant, and have taken strange wives, to add to the trespass of Israel.
+
+### Ezra 10:11
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from peoples of the land and from the foreign women.
+- brenton: Now therefore give praise to the Lord God of our fathers, and do that which is pleasing in his sight: and separate yourselves from the peoples of the land, and from the strange wives.
+
+### Ezra 10:12
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And all the assembly answered and said, Great is this word of yours upon us to do.
+- brenton: Then all the congregation answered and said, This thy word is powerful upon us to do it.
+
+### Ezra 10:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Addi: Naathos and Moossias, Lakkounos and Naidos and Beskaspasmys and Sesthēl and Balnouos and Manassēas.
-- brenton: [missing]
+- fresh: But the people are many, and the season is rainy, and there is no strength to stand outside, and the work is not for one day and not for two, because we multiplied wrongdoing in this matter.
+- brenton: But the people is numerous, and the season is stormy, and there is no power to stand without, and the work is more than enough for one day or for two; for we have greatly sinned in this matter.
 
-### Ezra 9:32
+### Ezra 10:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Annan: Eliōnas and Asaias and Melchias and Sabbaias and Simōn Chosamaios.
-- brenton: [missing]
+- fresh: Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
+- brenton: Let now our rulers stand, and for all those in our cities who have taken strange wives, let them come at appointed times, and with them elders from every several city, and judges, to turn away the fierce wrath of our God from us concerning this matter.
 
-### Ezra 9:33
+### Ezra 10:15
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Asōm: Maltannaios and Mattathias and Sabannaious and Eliphalat and Manassēs and Semei.
-- brenton: [missing]
+- fresh: Only Ionathan son of Asael and Iazias son of Thekoue stood for this, and Mesoulam and Sabathai the Levite were helping them.
+- brenton: Only Jonathan the son of Asael, and Jazias the son of Thecoe were with me concerning this; and Mesollam, and Sabbathai the Levite helped them.
 
-### Ezra 9:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Baani: Ieremias, Momdios, Maēros, Iouēl, Mamdai, and Pedias and Anōs, Karabasiōn and Eliasibos and Mamnitanēmos, Eliasis, Bannous, Elialis, Someis, Selemias, Nathanias, and from sons of Ezōra: Sessis, Ezril, Azaēlos, Samatos, Zambris, Iōsēpos.
-- brenton: [missing]
-
-### Ezra 9:35
+### Ezra 10:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And from sons of Nooma: Maziitias, Zabadaias, Ēdais, Iouēl, Bannaias.
-- brenton: [missing]
+- fresh: And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
+- brenton: And the children of the captivity did thus: and Esdras the priest, and heads of families according to their house were separated, and all by their names, for they returned in the first day of the tenth month to search out the matter.
 
-### Ezra 9:36
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: All these had dwelt with foreign women, and they sent them away with children.
-- brenton: [missing]
-
-### Ezra 9:37
+### Ezra 10:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And priests and Levites and those from Israel dwelt in Ierousalem and in country on new moon of seventh month, and sons of Israel were in their dwellings.
-- brenton: [missing]
+- fresh: And they finished with all the men who had seated foreign women by first day of the first month.
+- brenton: And they made an end with all the men who had taken strange wives by the first day of the first month.
 
-### Ezra 9:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all crowd gathered with one accord in broad place of eastward gate of sanctuary.
-- brenton: [missing]
-
-### Ezra 9:39
+### Ezra 10:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they said to Esdras the high priest and reader to bring law of Mōusēs, the one delivered by Lord God of Israel.
-- brenton: [missing]
+- fresh: And from sons of the priests who had seated foreign women were found these: from sons of Iesous son of Iosedek and his brothers, Maasaias and Eliezer and Iarib and Gadalia.
+- brenton: And there were found some of the sons of the priests who had taken strange wives: of the sons of Jesus the son of Josedec, and his brethren; Maasia, and Eliezer, and Jarib, and Gadalia.
 
-### Ezra 9:40
+### Ezra 10:19
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And they gave their hands to put out their wives, and for their trespass a ram from the sheep for their trespass.
+- brenton: And they pledged themselves to put away their wives, and offered a ram of the flock for a trespass-offering because of their trespass.
+
+### Ezra 10:20
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Emmer: Anani and Zabdia.
+- brenton: And of the sons of Emmer; Anani, and Zabdia.
+
+### Ezra 10:21
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Heram: Masaia and Elia and Samaia and Iiel and Ozia.
+- brenton: And of the sons of Eram; Masael, and Elia, and Samaia, and Jeel, and Ozia.
+
+### Ezra 10:22
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Phassour: Elioenai, Maasaias, Ismael, Nathanael, Iozabad, and Elasas.
+- brenton: And of the sons of Phasur; Elionai, Maasia, and Ismael, and Nathanael, and Jozabad, and Elasa.
+
+### Ezra 10:23
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the Levites: Iozabad and Samou and Kolia, he is Kolitas, and Phathaia and Iodom and Eliezer.
+- brenton: And of the Levites; Jozabad, and Samu, and Colia (he is Colitas,) and Phetheia, and Judas, and Eliezer.
+
+### Ezra 10:24
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from the singers: Elisaph. And from the gatekeepers: Sellem and Telem and Odoue.
+- brenton: And of the singers; Elisab: and of the porters; Solmen, and Telmen, and Oduth.
+
+### Ezra 10:25
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from Israel, from sons of Phoros: Ramia and Iazia and Melchia and Meamin and Eleazar and Asabia and Banaia.
+- brenton: Also of Israel: of the sons of Phoros; Ramia, and Azia, and Melchia, and Meamin, and Eleazar, and Asabia, and Banaia.
+
+### Ezra 10:26
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Elam: Mathania and Zacharia and Iaeiel and Abdia and Iarimoth and Elia.
+- brenton: And of the sons of Helam; Matthania, and Zacharia, and Jaïel, and Abdia, and Jarimoth, and Elia.
+
+### Ezra 10:27
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad, and Oziza.
+- brenton: And of the sons of Zathua; Elionai, Elisub, Matthanai, and Armoth, and Zabad, and Oziza.
+
+### Ezra 10:28
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Babi: Ioanan, Anania, Zabou, Othali.
+- brenton: And of the sons of Babei; Joanan, Anania, and Zabu, and Thali.
+
+### Ezra 10:29
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Esdras the high priest brought the law to all crowd, from man to woman, and to all priests to hear the law, on new moon of seventh month.
-- brenton: [missing]
+- fresh: And from sons of Banoui: Mesoulam, Mallouch, Adaias, Iasoub, Salouia, and Remoth.
+- brenton: And of the sons of Banui; Mosollam, Maluch, Adaias, Jasub, and Saluia, and Remoth.
 
-### Ezra 9:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he read in broad place before gate of sanctuary from dawn until midday, before men and women, and all crowd gave mind to law.
-- brenton: [missing]
-
-### Ezra 9:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Esdras the priest and reader of law stood upon wooden platform made for that purpose.
-- brenton: [missing]
-
-### Ezra 9:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And there stood beside him Mattathias, Sammous, Ananias, Azarias, Ourias, Ezekias, Baalsamos on the right,
-- brenton: [missing]
-
-### Ezra 9:44
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and on the left Phadaios, Misaēl, Melchias, Lōthasoubos, Nabarias, Zacharias.
-- brenton: [missing]
-
-### Ezra 9:45
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after Esdras took book of law before crowd, for he had prominence before all,
-- brenton: [missing]
-
-### Ezra 9:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: when he opened the law, all stood upright, and Esdras blessed Lord God Most High, God of hosts, Almighty.
-- brenton: [missing]
-
-### Ezra 9:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all crowd cried Amen, and after raising hands upward, falling on earth they worshiped Lord.
-- brenton: [missing]
-
-### Ezra 9:48
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Iēsous and Anniouth and Sarabias, Iadinos, Iakoubos, Sabbataios, Autaeas, Maiannas, Kalitas, Azarias, Iōzabdos, Ananias, Phalias, the Levites, were teaching law of Lord and reading law of Lord to crowd, inspiring them together with the reading.
-- brenton: [missing]
-
-### Ezra 9:49
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Attarates said to Esdras the high priest and reader and to Levites teaching crowd, before all,
-- brenton: [missing]
-
-### Ezra 9:50
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: This day is holy to Lord, and all were weeping in hearing the law.
-- brenton: [missing]
-
-### Ezra 9:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: After going, eat rich foods and drink sweet things and send portions to those who do not have,
-- brenton: [missing]
-
-### Ezra 9:52
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: for day is holy to Lord, and do not be grieved, for Lord will glorify you.
-- brenton: [missing]
-
-### Ezra 9:53
+### Ezra 10:30
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Levites were commanding all people, saying, This day is holy, do not be grieved.
-- brenton: [missing]
+- fresh: And from sons of Phaathmoab: Edna, Chalel, Banaia, Maseia, Mathania, Beselel, Banoui, and Manasse.
+- brenton: And of the sons of Phaath Moab; Edne, and Chalel, and Banaia, Maasia, Matthania, Beseleel, and Banui, and Manasse.
 
-### Ezra 9:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all went away to eat and drink and to give portions to those who did not have and to rejoice greatly,
-- brenton: [missing]
-
-### Ezra 9:55
+### Ezra 10:31
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: because they also had been instructed in words which they were taught, and they had been gathered together.
-- brenton: [missing]
+- fresh: And from sons of Heram: Eliezer, Iessia, Melchia, Samaia, Semeon,
+- brenton: And of the sons of Eram; Eliezer, Jesia, Melchia, Samaias, Semeon,
+
+### Ezra 10:32
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Beniamin, Mallouch, Samaria.
+- brenton: Benjamin, Baluch, Samaria.
+
+### Ezra 10:33
+
+- importance: medium
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And from sons of Esam: Mathani, Mathatha, Zabed, Eliphaleph, Ieremai, Manasse, Semei.
+- brenton: And of the sons of Asem; Metthania, Matthatha, Zadab, Eliphalet, Jerami, Manasse, Semei.
+
+### Ezra 10:34
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From sons of Bani: Maadi, Amram, Ouel,
+- brenton: And of the sons of Bani; Moodia, Amram, Uel,
+
+### Ezra 10:35
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Banaia, Badaia, Chelia,
+- brenton: Banaia, Badaia, Chelkia,
+
+### Ezra 10:36
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Ouechoa, Ieramoth, Eliasib,
+- brenton: Uvania, Marimoth, Eliasiph,
+
+### Ezra 10:37
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Mathania, Mathanai, and they made.
+- brenton: Matthania, Matthanai:
+
+### Ezra 10:38
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: The sons of Banoui and the sons of Semei,
+- brenton: and so did the children of Banui, and the children of Semei,
+
+### Ezra 10:39
+
+- importance: none
+- decisions: 0
+- footnotes: 0
+- same_normalized: yes
+- fresh: and Selemia and Nathan and Adaia,
+- brenton: and Selemia, and Nathan, and Adaia,
+
+### Ezra 10:40
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Machnadabou, Sese, Sarou,
+- brenton: Machadnabu, Sesei, Sariu,
+
+### Ezra 10:41
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: Ezereel and Selemia and Samaria,
+- brenton: Ezriel, and Selemia, and Samaria,
+
+### Ezra 10:42
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: and Saloum, Amaria, Ioseph.
+- brenton: and Sellum, Amaria, Joseph.
+
+### Ezra 10:43
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: From sons of Nabo: Iiel, Mathathia, Zedem, Zambina, Iadai, Ioel, and Banaia.
+- brenton: Of the sons of Nabu; Jael, Matthanias, Zabad, Zebennas, Jadai, and Joel, and Banaia.
+
+### Ezra 10:44
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: All these took foreign women and begot sons from them.
+- brenton: All these had taken strange wives, and had begotten sons of them.
 
 ## Nehemiah
 
 ### Nehemiah 1:1
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+- fresh: Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
 - brenton: The words of Neemias the son of Chelcia. And it came to pass in the month Chaseleu, of the twentieth year, that I was in Susan the palace.
 
 ### Nehemiah 1:2
@@ -110515,7 +109129,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Ierousalem, the one in Ioudaia.
+- fresh: And Anani, one from my brothers, came, he and men of Iouda, and I asked them concerning the survivors who were left from captivity and concerning Ierousalem.
 - brenton: And Anani, one of my brethren, came, he and some men of Juda; and I asked them concerning those that had escaped, who had been left of the captivity, and concerning Jerusalem.
 
 ### Nehemiah 1:3
@@ -110524,7 +109138,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Who among you is from all his people? Let his God be with him, and let him go up to Ierousalem in Ioudaia and build house of God of Israel. He is the God in Ierousalem.
+- fresh: And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Ierousalem are broken down and its gates have been burned with fire.
 - brenton: And they said to me, The remnant, even those that are left of the captivity, are there in the land, in great distress and reproach: and the walls of Jerusalem are thrown down, and its gates are burnt with fire.
 
 ### Nehemiah 1:4
@@ -110533,7 +109147,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for house of God in Ierousalem.
+- fresh: And it came to be when I heard these words, I sat and wept and mourned for days, and I was fasting and praying before God of heaven.
 - brenton: And it came to pass, when I heard these words, that I sat down and wept, and mourned for several days, and continued fasting and praying before the God of heaven.
 
 ### Nehemiah 1:5
@@ -110542,7 +109156,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
+- fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 - brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
 
 ### Nehemiah 1:6
@@ -110551,7 +109165,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
+- fresh: let your ear now be attentive and your eyes open to hear prayer of your servant which I pray before you today, day and night, concerning sons of Israel your servants, and I confess over sins of sons of Israel, which we sinned against you; both I and house of my father sinned.
 - brenton: let now thine ear be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee at this time, this day both day and night, for the children of Israel thy servants, and make confession for the sins of the children of Israel, which we have sinned against thee: both I and the house of my father have sinned.
 
 ### Nehemiah 1:7
@@ -110560,16 +109174,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
+- fresh: In ruin we were ruined toward you, and we did not keep the commandments and the ordinances and the judgments which you commanded Moses your servant.
 - brenton: We have altogether broken covenant with thee, and we have not kept the commandments, and the ordinances, and the judgments, which thou didst command thy servant Moses.
 
 ### Nehemiah 1:8
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Cyrus king of Persians brought them out by hand of Mithradates the treasurer and counted them out to Sasabasar, governor of Iouda.
+- fresh: Remember, please, the word which you commanded Moses your servant, saying, If you act faithlessly, I will scatter you among the peoples.
 - brenton: Remember, I pray thee, the word wherewith thou didst charge thy servant Moses, saying, If ye break covenant with me, I will disperse you among the nations.
 
 ### Nehemiah 1:9
@@ -110578,7 +109192,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
+- fresh: But if you return to me and keep my commandments and do them, even if your dispersion is from edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
 - brenton: But if ye turn again to me, and keep my commandments, and do them; if ye should be scattered under the utmost bound of heaven, thence will I gather them, and I will bring them into the place which I have chosen to cause my name to dwell there.
 
 ### Nehemiah 1:10
@@ -110587,7 +109201,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: thirty golden bowls, two hundred silver bowls, and one thousand other vessels.
+- fresh: And they are your servants and your people, whom you redeemed by your great power and your strong hand.
 - brenton: Now they are thy servants and thy people, whom thou hast redeemed with thy great power, and with thy strong hand.
 
 ### Nehemiah 1:11
@@ -110596,7 +109210,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
+- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 - brenton: Turn not away, I pray thee, O Lord, but let thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and cause him to find mercy in the sight of this man. Now I was the king's cup-bearer.
 
 ### Nehemiah 2:1
@@ -110605,7 +109219,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And these are sons of the province, those coming up from captivity of the exile whom Nabouchodonosor king of Babylon exiled to Babylon, and they returned to Ierousalem and Iouda, each to his city.
+- fresh: And it came to be in month Nisan, twentieth year of King Arthasastha, and wine was before me, and I took the wine and gave it to the king, and I had not been sad before him.
 - brenton: And it came to pass in the month Nisan of the twentieth year of king Arthasastha, that the wine was before me: and I took the wine, and gave it to the king: and there was not another before him.
 
 ### Nehemiah 2:2
@@ -110614,7 +109228,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Those who came with Zorobabel were Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum, and Baana. Number of men of people of Israel:
+- fresh: And the king said to me, Why is your face troubled while you are not sick? This is nothing except trouble of heart. And I feared very greatly,
 - brenton: And the king said to me, Why is thy countenance sad, and dost thou not control thyself? and now this is nothing but sorrow of heart. Then I was very much alarmed,
 
 ### Nehemiah 2:3
@@ -110623,7 +109237,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Phoros: 2,172.
+- fresh: and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
 - brenton: and I said to the king, Let the king live for ever: why should not my countenance be said, forasmuch as the city, even the home of the sepulchres of my fathers, has been laid waste, and her gates have been devoured with fire?
 
 ### Nehemiah 2:4
@@ -110632,7 +109246,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Saphatia: 372.
+- fresh: And the king said to me, For what do you seek this? And I prayed to God of heaven,
 - brenton: And the king said to me, For what dost thou ask thus? So I prayed to the God of heaven.
 
 ### Nehemiah 2:5
@@ -110641,7 +109255,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Hara: 775.
+- fresh: and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Iouda, to city of tombs of my fathers, and I will rebuild it.
 - brenton: And I said to the king, If it seem good to the king, and if thy servant shall have found favour in thy sight, I ask that thou wouldest send him into Juda, to the city of the sepulchres of my fathers; then will I rebuild it.
 
 ### Nehemiah 2:6
@@ -110650,7 +109264,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Phaathmoab, to sons of Iesoue-Ioab: 2,812.
+- fresh: And the king and the concubine sitting beside him said to me, Until when will your journey be, and when will you return? And it seemed good before the king, and he sent me, and I gave him a time.
 - brenton: And the king, and his concubine that sat next to him, said to me, For how long will thy journey be, and when wilt thou return? and the proposal was pleasing before the king, and he sent me away, and I appointed him a time.
 
 ### Nehemiah 2:7
@@ -110659,7 +109273,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Ailam: 1,254.
+- fresh: And I said to the king, If it seems good to the king, let letters be given to me for governors beyond the River, so that they may send me through until I come to Iouda,
 - brenton: And I said to the king, If it seem good to the king, let him give me letters to the governors beyond the river, so as to forward me till I come to Juda;
 
 ### Nehemiah 2:8
@@ -110668,7 +109282,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Zathoua: 945.
+- fresh: and a letter to Asaph, keeper of the king's park, so that he may give me timbers to roof the gates of the citadel belonging to the house and for wall of the city and for the house into which I will enter. And the king gave to me, as good hand of God was upon me.
 - brenton: and a letter to Asaph the keeper of the garden which belongs to the king, that he may give me timber to cover the gates, and for the wall of the city, and for the house into which I shall enter. And the king gave to me, according as the good hand of God was upon me.
 
 ### Nehemiah 2:9
@@ -110677,7 +109291,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Zakkou: 760.
+- fresh: And I came to the governors beyond the River and gave to them letters of the king, and the king sent with me leaders of force and horsemen.
 - brenton: And I came to the governors beyond the river, and I gave them the king's letters. (Now the king had sent with me captains of the army and horsemen.)
 
 ### Nehemiah 2:10
@@ -110686,7 +109300,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Banoui: 642.
+- fresh: And Sanaballat the Aoronite heard, and Tobia the servant, the Ammonite, and it became evil to them that a man had come to seek good for sons of Israel.
 - brenton: And Sanaballat the Aronite heard it, and Tobia the servant, the Ammonite, and it was grievous to them that a man was come to seek good for the children of Israel.
 
 ### Nehemiah 2:11
@@ -110695,7 +109309,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Babi: 623.
+- fresh: And I came to Ierousalem and was there three days.
 - brenton: So I came to Jerusalem, and was there three days.
 
 ### Nehemiah 2:12
@@ -110704,7 +109318,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Asgad: 3,222.
+- fresh: And I rose by night, I and a few men with me, and I did not tell any man what God was giving in my heart to do with Israel, and no beast was with me except the beast on which I rode.
 - brenton: And I rose up by night, I and a few men with me; and I told no man what God put into my heart to do with Israel; and there was no beast with me, except the beast which I rode upon.
 
 ### Nehemiah 2:13
@@ -110713,7 +109327,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Adonikam: 666.
+- fresh: And I went out by night through gate of Goleila and toward mouth of spring of the figs and to gate of the dung-heaps, and I was inspecting wall of Ierousalem, which they are pulling down, and its gates were devoured by fire.
 - brenton: And I went forth by the gate of the valley by night, and to the mouth of the well of fig trees, and to the dung-gate: and I mourned over the wall of Jerusalem which they were destroying, and her gates were devoured with fire.
 
 ### Nehemiah 2:14
@@ -110722,7 +109336,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Bagoi: 2,056.
+- fresh: And I passed on to gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
 - brenton: And I passed on to the fountain gate, and to the king's pool; and there was no room for the beast to pass under me.
 
 ### Nehemiah 2:15
@@ -110731,7 +109345,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Adin: 454.
+- fresh: And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by gate of the gorge and returned.
 - brenton: And I went up by the wall of the brook by night, and mourned over the wall, and passed through the gate of the valley, and returned.
 
 ### Nehemiah 2:16
@@ -110740,7 +109354,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Ater, of Hezekias: 98.
+- fresh: And the guards did not know where I went and what I was doing, and to the Ioudaioi and to the priests and to the nobles and to the generals and to the rest doing the works I had not told it until then.
 - brenton: And the sentinels knew not why I went, nor what I was doing; and until that time I told it not to the Jews, or to the priests, or to the nobles, or to the captains, or to the rest of the men who wrought the works.
 
 ### Nehemiah 2:17
@@ -110749,7 +109363,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Basou: 323.
+- fresh: And I said to them, You see the evil in which we are, how Ierousalem lies waste and its gates were given to fire. Come, let us rebuild wall of Ierousalem, and we will no longer be a reproach.
 - brenton: Then I said to them, Ye see this evil, in which we are, how Jerusalem is desolate, and her gates have been set on fire: come, and let us build throughout the wall of Jerusalem, and we shall be no longer a reproach.
 
 ### Nehemiah 2:18
@@ -110758,7 +109372,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Iora: 112.
+- fresh: And I told them of hand of God, that it is good upon me, and of words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
 - brenton: And I told them of the hand of God which was good upon me, also about the words of the king which he spoke to me: and I said, Let us arise and build. And their hands were strengthened for the good work.
 
 ### Nehemiah 2:19
@@ -110767,7 +109381,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Asem: 223.
+- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
 - brenton: And Sanaballat the Aronite, and Tobia the servant, the Ammonite, and Gesam the Arabian, heard it, and they laughed us to scorn, and came to us, and said, What is this thing that ye are doing? are ye revolting against the king?
 
 ### Nehemiah 2:20
@@ -110776,475 +109390,25 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Sons of Gaber: 95.
+- fresh: And I answered them with a word and said to them, God of heaven, he will prosper us, and we his servants are clean and will build, but to you there is no share and no right and no memorial in Ierousalem.
 - brenton: And I answered them, and said to them, The God of heaven, he shall prosper us, and we his servants are pure, and we will build: but ye have no part, nor right, nor memorial, in Jerusalem.
-
-### Nehemiah 2:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Baithleem: 123.
-- brenton: [missing]
-
-### Nehemiah 2:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Netopha: 56.
-- brenton: [missing]
-
-### Nehemiah 2:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Anathoth: 128.
-- brenton: [missing]
-
-### Nehemiah 2:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Asmoth: 42.
-- brenton: [missing]
-
-### Nehemiah 2:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Kariathiarim, Kaphira, and Beroth: 743.
-- brenton: [missing]
-
-### Nehemiah 2:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Arama and Gabaa: 621.
-- brenton: [missing]
-
-### Nehemiah 2:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Men of Machmas: 122.
-- brenton: [missing]
-
-### Nehemiah 2:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Men of Baithel and Aia: 423.
-- brenton: [missing]
-
-### Nehemiah 2:29
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Nabo: 52.
-- brenton: [missing]
-
-### Nehemiah 2:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Magebos: 156.
-- brenton: [missing]
-
-### Nehemiah 2:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Elam-ar: 1,254.
-- brenton: [missing]
-
-### Nehemiah 2:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Heram: 320.
-- brenton: [missing]
-
-### Nehemiah 2:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Lod, Aroth, and Ono: 725.
-- brenton: [missing]
-
-### Nehemiah 2:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Iericho: 345.
-- brenton: [missing]
-
-### Nehemiah 2:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Sanaa: 3,630.
-- brenton: [missing]
-
-### Nehemiah 2:36
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the priests: sons of Iedoua, of house of Iesou, 973.
-- brenton: [missing]
-
-### Nehemiah 2:37
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Emmer: 1,052.
-- brenton: [missing]
-
-### Nehemiah 2:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Phassour: 1,247.
-- brenton: [missing]
-
-### Nehemiah 2:39
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Herem: 1,007.
-- brenton: [missing]
-
-### Nehemiah 2:40
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the Levites: sons of Iesou and Kadmiel, to sons of Odouia, 74.
-- brenton: [missing]
-
-### Nehemiah 2:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The singers: sons of Asaph, 128.
-- brenton: [missing]
-
-### Nehemiah 2:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of the gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabaou, all together 139.
-- brenton: [missing]
-
-### Nehemiah 2:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The nethinim: sons of Souia, sons of Asouph, sons of Tabaoth,
-- brenton: [missing]
-
-### Nehemiah 2:44
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Keraos, sons of Soeia, sons of Phadon,
-- brenton: [missing]
-
-### Nehemiah 2:45
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Labano, sons of Agaba, sons of Akaboth,
-- brenton: [missing]
-
-### Nehemiah 2:46
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Agab, sons of Samalai, sons of Anan,
-- brenton: [missing]
-
-### Nehemiah 2:47
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Kedel, sons of Gaer, sons of Reea,
-- brenton: [missing]
-
-### Nehemiah 2:48
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Rason, sons of Nekoda, sons of Gazem,
-- brenton: [missing]
-
-### Nehemiah 2:49
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Ousa, sons of Phase, sons of Basi,
-- brenton: [missing]
-
-### Nehemiah 2:50
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Asena, sons of Maonim, sons of Naphison,
-- brenton: [missing]
-
-### Nehemiah 2:51
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Bakbouk, sons of Akipha, sons of Arour,
-- brenton: [missing]
-
-### Nehemiah 2:52
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Basaloth, sons of Maouda, sons of Aresa,
-- brenton: [missing]
-
-### Nehemiah 2:53
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Barkous, sons of Sisara, sons of Thema,
-- brenton: [missing]
-
-### Nehemiah 2:54
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Nasoue, sons of Atoupha.
-- brenton: [missing]
-
-### Nehemiah 2:55
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Sons of Abdeselma: sons of Sati, sons of Asepherath, sons of Phadoura,
-- brenton: [missing]
-
-### Nehemiah 2:56
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Iela, sons of Darkon, sons of Gedel,
-- brenton: [missing]
-
-### Nehemiah 2:57
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Saphatia, sons of Atil, sons of Phacherath-aseboin, sons of Emi.
-- brenton: [missing]
-
-### Nehemiah 2:58
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: All the nethinim and sons of Abdeselma: 392.
-- brenton: [missing]
-
-### Nehemiah 2:59
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And these were the ones coming up from Thelmeleth, Thelareisa, Charoub, Edan, and Emmer, and they were not able to declare their father-house and their seed, whether they were from Israel:
-- brenton: [missing]
-
-### Nehemiah 2:60
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: sons of Dalaia, sons of Boua, sons of Tobia, sons of Nekoda: 652.
-- brenton: [missing]
-
-### Nehemiah 2:61
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of the priests: sons of Chabia, sons of Akous, sons of Berzellai, who took a wife from daughters of Berzellai the Galaadite and was called by their name.
-- brenton: [missing]
-
-### Nehemiah 2:62
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: These sought their enrolled writing, and it was not found, and they were excluded from the priesthood.
-- brenton: [missing]
-
-### Nehemiah 2:63
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Atharsatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
-- brenton: [missing]
-
-### Nehemiah 2:64
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all the assembly together was forty-two thousand three hundred sixty,
-- brenton: [missing]
-
-### Nehemiah 2:65
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: besides their male slaves and female slaves; these were seven thousand three hundred thirty-seven, and they had two hundred singers and singing women.
-- brenton: [missing]
-
-### Nehemiah 2:66
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Their horses were 736, their mules 245,
-- brenton: [missing]
-
-### Nehemiah 2:67
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: their camels 435, their donkeys 6,720.
-- brenton: [missing]
-
-### Nehemiah 2:68
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And some from heads of father-houses, when they came to house of the Lord in Ierousalem, made freewill offerings for house of God, to set it on its foundation.
-- brenton: [missing]
-
-### Nehemiah 2:69
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: According to their strength they gave into treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
-- brenton: [missing]
-
-### Nehemiah 2:70
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
-- brenton: [missing]
 
 ### Nehemiah 3:1
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the seventh month arrived, and sons of Israel were in their cities, and the people gathered as one man in Ierousalem.
+- fresh: And Elisoub the great priest and his brothers the priests rose up and built the Sheep Gate. They sanctified it and set up its doors, and sanctified it as far as Tower of Hundred, as far as Tower of Hananeel.
 - brenton: Then Eliasub the high priest, and his brethren the priests, rose up, and built the sheep-gate; they sanctified it, and set up the doors of it; even to the tower of the hundred they sanctified it, to the tower of Anameel.
 
 ### Nehemiah 3:2
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Iesous son of Iosedek rose up, and his brothers the priests, and Zorobabel son of Salathiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in law of Moses man of God.
+- fresh: And next to them were sons of men of Iericho, and next to them sons of Zakkour son of Amari.
 - brenton: And they builded by the side of the men of Jericho, and by the side of the sons of Zacchur, the son of Amari.
 
 ### Nehemiah 3:3
@@ -111253,7 +109417,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
+- fresh: And sons of Asana built the Fish Gate. They roofed it and set its doors, its bolts, and its bars.
 - brenton: And the sons of Asana built the fish-gate; they roofed it, and covered in its doors, and bolts, and bars.
 
 ### Nehemiah 3:4
@@ -111262,7 +109426,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
+- fresh: And next to them Meramoth son of Ouria son of Akos repaired, and next to them Mosollam son of Barachia son of Masezebel repaired, and next to them Sadok son of Baana repaired.
 - brenton: And next to them the order reached to Ramoth the son of Uria, the son of Accos, and next to them Mosollam son of Barachias the son of Mazebel took his place: and next to them Sadoc the son of Baana took his place.
 
 ### Nehemiah 3:5
@@ -111271,43 +109435,34 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
+- fresh: And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord.
 - brenton: And next to them the Thecoim took their place; but the Adorim applied not their neck to their service.
 
 ### Nehemiah 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
-- brenton: And Joida the son of Phasec, and Mesulam son of Basodia, repaired the old gate; they covered it in, and set up its doors, and its bolts, and its bars.
-
-### Nehemiah 3:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Ioppe, according to grant of Cyrus king of Persians upon them.
-- brenton: And next to them repaired Maltias the Gabaonite, and Evaron the Meronothite, the men of Gabaon and Maspha, to the throne of the governor on this side the river.
-
-### Nehemiah 3:8
-
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And in second year of their coming to house of God in Ierousalem, in second month, Zorobabel son of Salathiel and Iesous son of Iosedek began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Ierousalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
+- fresh: And Ioda son of Phasek and Mesoulam son of Basodia repaired the Old Gate. They roofed it and set its doors, its bolts, and its bars.
+- brenton: And Joida the son of Phasec, and Mesulam son of Basodia, repaired the old gate; they covered it in, and set up its doors, and its bolts, and its bars.
+
+### Nehemiah 3:8
+
+- importance: low
+- decisions: 0
+- footnotes: 0
+- same_normalized: no
+- fresh: And next to them Hananias son of the perfumers repaired, and they left Ierousalem as far as the Broad Wall.
 - brenton: And next to him Oziel the son of Arachias of the smiths, carried on the repairs: and next to them Ananias the son of one of the apothecaries repaired, and they finished Jerusalem to the broad wall.
 
 ### Nehemiah 3:9
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Iesous stood, and his sons and his brothers, Kadmiel and his sons, sons of Iouda, over those doing the works in house of God, the sons of Enadad, their sons and their brothers the Levites.
+- fresh: And next to them Raphaia, ruler of half district of Ierousalem, repaired.
 - brenton: And next to them repaired Raphaea the son of Sur, the ruler of half the district round about Jerusalem.
 
 ### Nehemiah 3:10
@@ -111316,7 +109471,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they laid foundations to build house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to ordinance of David king of Israel.
+- fresh: And next to them Iedaia son of Eromaph repaired opposite his house, and next to him Atous son of Asbania repaired.
 - brenton: And next to them repaired Jedaia the son of Eromaph, and that in front of his house: and next to him repaired Attuth son of Asabania.
 
 ### Nehemiah 3:11
@@ -111325,16 +109480,16 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord.
+- fresh: A second section Melchias son of Heram and Asoub son of Phaathmoab repaired, and as far as Tower of Ovens.
 - brenton: And next to him repaired Melchias son of Heram, and Asub son of Phaat Moab, even to the tower of the furnaces.
 
 ### Nehemiah 3:12
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
+- fresh: And next to him Seloum son of Alloes, ruler of half district of Ierousalem, repaired, he and his daughters.
 - brenton: And next to him repaired Sallum the son of Alloes, the ruler of half the district round about Jerusalem, he and his daughters.
 
 ### Nehemiah 3:13
@@ -111343,2242 +109498,181 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the people could not distinguish sound of shout of joy from sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
+- fresh: Hanoun and inhabitants of Zano repaired Valley Gate. They built it and set its doors, its bolts, and its bars, and one thousand cubits on the wall, as far as Dung Gate.
 - brenton: Anun and the inhabitants of Zano repaired the gate of the valley: they built it, and set up its doors, and its bolts, and its bars, and a thousand cubits of the wall as far as the dung-gate.
 
-### Nehemiah 4:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And those afflicting Iouda and Beniamin heard that sons of the captivity are building house to the Lord God of Israel.
-- brenton: Now it came to pass, when Sanaballat heard that we were building the wall, that it was grievous to him, and he was very angry, and railed against the Jews.
-
-### Nehemiah 4:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they came near to Zorobabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from days of Asaraddan king of Assour, who brought us up here.
-- brenton: And he said before his brethren (that is the army of the Samaritans) Is it true that these Jews are building their city? do they indeed offer sacrifices? will they prevail? and will they this day restore the stones, after they have been burnt and made a heap of rubbish?
-
-### Nehemiah 4:3
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Zorobabel and Iesous and the rest of heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of Persians commanded us.
-- brenton: And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
-
-### Nehemiah 4:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And people of the land were weakening hands of people of Iouda and hindering them from building,
-- brenton: Hear, O our God, for we have become a scorn; and return thou their reproach upon their head, and make them a scorn in a land of captivity,
-
-### Nehemiah 4:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and hiring counselors against them to scatter their counsel all the days of Cyrus king of Persians and until reign of Darius king of Persians.
-- brenton: and do not cover their iniquity.
-
-### Nehemiah 4:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And in reign of Asoueros, at beginning of his reign, they wrote a letter against inhabitants of Iouda and Ierousalem.
-- brenton: [missing]
-
-### Nehemiah 4:7
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And in days of Arthasastha, Mithradates, Tabeel, together with the rest of his fellow-servants, wrote to Arthasastha king of Persians. The tax-writer wrote the document in Syrian, and it was translated.
-- brenton: But it came to pass, when Sanaballat and Tobia, and the Arabians, and the Ammanites, heard that the building of the walls of Jerusalem was advancing, and that the breaches began to be stopped, that it appeared very grievous to them.
-
-### Nehemiah 4:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Reoum Baaltham and Samsai the scribe wrote one letter against Ierousalem to King Arthasastha,
-- brenton: And all of them assembled together, to come to fight against Jerusalem, and to destroy it utterly.
-
-### Nehemiah 4:9
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: thus judged Reoum Baaltham and Samsai the scribe and our other fellow-servants, the Dinaeans, the Apharsathachaeans, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
-- brenton: So we prayed to our God and set watchmen against them day and night, because of them.
-
-### Nehemiah 4:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and the rest of the nations whom Asennaphar the great and honored deported and settled in cities of Samaria and the rest beyond the River.
-- brenton: And Juda said, The strength of the enemies is broken, yet there is much rubbish, and we shall not be able to build the wall.
-
-### Nehemiah 4:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: This is the copy of the letter which they sent to him, to King Arthasastha: Your servants, men beyond the River.
-- brenton: And they that afflicted us said, They shall not know, and they shall not see, until we come into the midst of them, and slay them, and cause the work to cease.
-
-### Nehemiah 4:12
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Let it be known to the king that the Ioudaioi who came up from you to us have come to Ierousalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
-- brenton: And it came to pass, when the Jews who lived near them came, that they said to us, They are coming up against us from every quarter.
-
-### Nehemiah 4:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Now then let it be known to the king that if that city is rebuilt and its walls completed, taxes will not belong to you, nor will they give tribute, and this harms kings.
-- brenton: So I set men in the lowest part of the place behind the wall in the lurking-places, I even set the people according to their families, with their swords, their spears, and their bows.
-
-### Nehemiah 4:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
-- brenton: And I looked, and arose, and said to the nobles, and to the captains, and to the rest of the people, Be not afraid of them: remember our great and terrible God, and fight for your brethren, your sons, your daughters, your wives, and your houses.
-
-### Nehemiah 4:15
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
-- brenton: And it came to pass, when our enemies heard that it was made known to us, and God had frustrated their counsel, that we all returned to the wall, every man to his work.
-
-### Nehemiah 4:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Therefore we make known to the king that if that city is rebuilt and its walls completed, there will not be peace for you.
-- brenton: And it came to pass from that day that half of them that had been driven forth, wrought the work, and half of them kept guard; and there were spears, and shields, and bows, and breast-plates, and rulers behind the whole house of Juda,
-
-### Nehemiah 4:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the king sent to Reoum Baaltham and Samsai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
-- brenton: even of them that were building the wall:—and those who carried the burdens were under arms: each with one hand wrought his work, and with the other held his dart.
-
-### Nehemiah 4:18
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The tax-document which you sent to us was read before me.
-- brenton: And the builders wrought each man having his sword girt upon his loins, and so they built: and the trumpeter with his trumpet next to him.
-
-### Nehemiah 4:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And a decree from me was set down, and they searched and found that that city from ancient days rises up against kings, and rebellions and runaways happen in it.
-- brenton: And I said to the nobles, and to the rulers, and to the rest of the people, The work is great and abundant, and we are dispersed upon the wall, each at a great distance from his brother.
-
-### Nehemiah 4:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And strong kings were over Ierousalem, ruling all the west beyond the River, and full taxes and tribute were given to them.
-- brenton: In whatsoever place ye shall hear the sound of the cornet, thither gather yourselves together to us; and our God shall fight for us.
-
-### Nehemiah 4:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now set decision to stop those men, and that city shall not be built again except by decree.
-- brenton: So we continued labouring at the work: and half of them held the spears from the rising of the morning until the stars appeared.
-
-### Nehemiah 4:22
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And take care not to be negligent concerning this, lest destruction multiply to harm kings.
-- brenton: And at that time I said to the people, Lodge ye every man with his servant in the midst of Jerusalem, and let the night be a watch-time to you, and the day a work-time.
-
-### Nehemiah 4:23
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then tax-document of King Arthasastha was read before Reoum and Samsai the scribe and their fellow-servants, and they went in haste to Ierousalem and into Iouda and stopped them with horses and force.
-- brenton: And I was there, and the watchmen behind me, and there was not a man of us that put off his garments.
-
-### Nehemiah 4:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then work of house of God in Ierousalem ceased, and it lay idle until second year of reign of Darius king of Persians.
-- brenton: [missing]
-
-### Nehemiah 5:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Haggai the prophet and Zacharias son of Addo prophesied over the Ioudaioi in Iouda and Ierousalem, in name of God of Israel upon them.
-- brenton: And the cry of the people and their wives was great against their brethren the Jews.
-
-### Nehemiah 5:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then Zorobabel son of Salathiel and Iesous son of Iosedek rose up and began to build house of God in Ierousalem, and with them were prophets of God helping them.
-- brenton: And some said, We are numerous with our sons and our daughters; so we will take corn, and eat, and live.
-
-### Nehemiah 5:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: At that time Thanthanai, governor beyond the River, and Satharbouzana and their fellow-servants came upon them and said these things to them: Who set decree for you to build this house and complete this structure?
-- brenton: And some said, As to our fields and vineyards and houses, let us pledge them, and we will take corn, and eat.
-
-### Nehemiah 5:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then they said these things to them: What are names of the men building this city?
-- brenton: And some said, We have borrowed money for the king's tributes:—our fields, and our vineyards, and houses are pledged.
-
-### Nehemiah 5:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And eyes of God were upon captivity of Iouda, and they did not stop them until a report was carried to Darius and then answer was sent to the tax-officer concerning this.
-- brenton: And now our flesh is as the flesh of our brethren, our children are as their children: yet, behold, we are reducing our sons and our daughters to slavery, and some of our daughters are enslaved: and there is no power of our hands, for our fields and our vineyards belong to the nobles.
-
-### Nehemiah 5:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Copy of letter which Thanthanai governor beyond the River and Satharbouzana and their fellow-servants, the Apharsachaeans beyond the River, sent to King Darius:
-- brenton: And I was much grieved as I heard their cry and these words.
-
-### Nehemiah 5:7
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: They sent a report to him, and these things were written in it: To King Darius, all peace.
-- brenton: And my heart took counsel within me, and I contended against the nobles, and the princes, and I said to them, Should every man demand of his brother what ye demand? And I appointed against them a great assembly,
-
-### Nehemiah 5:8
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Let it be known to the king that we went into land of Iouda, to house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
-- brenton: and I said to them, We of our free-will have redeemed our brethren the Jews that were sold to the Gentiles; and do ye sell your brethren? and shall they be delivered to us? And they were silent, and found no answer.
-
-### Nehemiah 5:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then we asked those elders and said this to them: Who set decree for you to build this house and complete this structure?
-- brenton: And I said, The thing which ye do is not good; ye will not so walk in the fear of our God because of the reproach of the Gentiles our enemies.
-
-### Nehemiah 5:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
-- brenton: Both my brethren, and my acquaintances, and I, have lent them money and corn: let us now leave off this exaction.
-
-### Nehemiah 5:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
-- brenton: Restore to them, I pray, as at this day, their fields, and their vineyards, and their olive-yards, and their houses, and bring forth to them corn and wine and oil of the money.
-
-### Nehemiah 5:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But from time when our fathers provoked God of heaven, he gave them into hand of Nabouchodonosor king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
-- brenton: And they said, We will restore, and we will not exact of them; we will do thus as thou sayest. Then I called the priests, and bound them by oath to do according to this word.
-
-### Nehemiah 5:13
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
-- brenton: And I shook out my garment, and said, So may God shake out every man who shall not keep to this word, from his house, and from his labours, he shall be even thus shaken out, as an outcast and empty. And all the congregation said, Amen, and they praised the Lord: and the people did this thing.
-
-### Nehemiah 5:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And vessels of house of God, the gold and silver ones which Nabouchodonosor took from the house in Ierousalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sasabasar, the treasurer over the treasury.
-- brenton: From the day that he charged me to be their ruler in the land of Juda, from the twentieth year even to the thirty-second year of Arthasastha, twelve years, I and my brethren ate not provision extorted from them.
-
-### Nehemiah 5:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And he said to him, Take all the vessels and go, put them in the house in Ierousalem, each in its own place.
-- brenton: But as for the former acts of extortion wherein those who were before me oppressed them, they even took of them their last money, forty didrachms for bread and wine; and the very outcasts of them exercised authority over the people: but I did not so, because of the fear of God.
-
-### Nehemiah 5:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then that Sasabasar came and laid foundations of house of God in Ierousalem, and from then until now it has been built and not completed.
-- brenton: Also in the work of the wall I treated them not with rigor, I bought not land: and all that were gathered together came thither to the work.
-
-### Nehemiah 5:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us.
-- brenton: And the Jews, to the number of a hundred and fifty men, besides those coming to us from the nations round about, were at my table.
-
-### Nehemiah 6:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then King Darius set decree, and search was made in the libraries where the treasure is laid in Babylon.
-- brenton: Now it came to pass, when Sanaballat, and Tobias, and Gesam the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no opening left therein; (but hitherto I had not set up the doors on the gates;)
-
-### Nehemiah 6:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And in city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
-- brenton: that Sanaballat and Gesam sent to me, saying, Come and let us meet together in the villages in the plain of Ono. But they were plotting to do me mischief.
-
-### Nehemiah 6:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
-- brenton: So I sent messengers to them, saying, I am doing a great work, and I shall not be able to come down, lest the work should cease: as soon as I shall have finished it, I will come down to you.
-
-### Nehemiah 6:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: with three courses of massive stone and one course of timber, and expense shall be given from house of the king.
-- brenton: And they sent to me again to this effect; and I sent them word accordingly.
-
-### Nehemiah 6:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And silver and gold vessels of house of God, which Nabouchodonosor brought out from the house in Ierousalem and carried to Babylon, let them be given back and go to the temple in Ierousalem, to place where they were put, in house of God.
-- brenton: Then Sanaballat sent his servant to me with an open letter in his hand.
-
-### Nehemiah 6:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Now stay away from there, governors beyond the River, Satharbouzana and your fellow-servants, the Apharsachaeans beyond the River.
-- brenton: And in it was written, It has been reported among the Gentiles that thou and the Jews are planning to revolt: therefore thou art building the wall, and thou wilt be a king to them.
-
-### Nehemiah 6:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Leave work of that house of God alone. Let leaders of the Ioudaioi and elders of the Ioudaioi build that house of God on its place.
-- brenton: And moreover thou has appointed prophets to thyself, that thou mightest dwell in Jerusalem as a king over Juda: and now these words will be reported to the king. Now then, come, let us take counsel together.
-
-### Nehemiah 6:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from me decree has been set that you do nothing against elders of the Ioudaioi in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
-- brenton: And I sent to him, saying, It has not happened according to these words, even as thou sayest, for thou framest them falsely out of thy heart.
-
-### Nehemiah 6:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Ierousalem, let it be given to them day by day, whatever they ask,
-- brenton: For all were trying to alarm us, saying, Their hands shall be weakened from this work, and it shall not be done. Now therefore I have strengthened my hands.
-
-### Nehemiah 6:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: so that they may be offering fragrant offerings to God of heaven and praying for life of the king and his sons.
-- brenton: And I came into the house of Semei the son of Dalaia the Son of Metabeel, and he was shut up; and he said, Let us assemble together in the house of God, in the midst of it, and let us shut the doors of it; for they are coming by night to slay thee.
-
-### Nehemiah 6:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
-- brenton: And I said, Who is the man that shall enter into the house, that he may live?
-
-### Nehemiah 6:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Ierousalem. I, Darius, set decree; it shall be done carefully.
-- brenton: And I observed, and, behold, God had not sent him, for the prophecy was a fable devised against me:
-
-### Nehemiah 6:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Then Thanthanai, governor beyond the River, Satharbouzana, and their fellow-servants did carefully according to what Darius the king sent.
-- brenton: and Tobias and Sanaballat had hired against me a multitude, that I might be frightened, and do this, and sin, and become to them an ill name, that they might reproach me.
-
-### Nehemiah 6:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And elders of the Ioudaioi were building and prospering through prophecy of Haggai the prophet and Zacharias son of Addo. And they built and completed it by decree of God of Israel and by decree of Cyrus and Darius and Arthasastha, kings of Persia.
-- brenton: Remember, O God, Tobias and Sanaballat, according to these their deeds, and the prophetess Noadia, and the rest of the prophets who tried to alarm me.
-
-### Nehemiah 6:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
-- brenton: So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days.
-
-### Nehemiah 6:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of house of God with gladness.
-- brenton: And it came to pass, when all our enemies heard of it, that all the nations round about us feared, and great alarm fell upon them, and they knew that it was of our God that this work should be finished.
-
-### Nehemiah 6:17
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they offered at dedication of house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to number of tribes of Israel.
-- brenton: And in those days letters came to Tobias from many nobles of Juda, and those of Tobias came to them.
-
-### Nehemiah 6:18
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they set priests in their divisions and Levites in their allotments for service of God in Ierousalem, according to writing of book of Moses.
-- brenton: For many in Juda were bound to him by oath, because he was son-in-law of Sechenias the son of Herae; and Jonan his son had taken the daughter of Mesulam the son of Barachia to wife.
-
-### Nehemiah 6:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of the exile kept the Passover on fourteenth day of the first month.
-- brenton: And they reported his words to me, and carried out my words to him: and Tobias sent letters to terrify me.
-
-### Nehemiah 6:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For the priests and the Levites had purified themselves until all of them together were pure, and they slaughtered the Passover for all sons of exile and for their brothers the priests and for themselves.
-- brenton: [missing]
-
-### Nehemiah 6:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
-- brenton: [missing]
-
-### Nehemiah 6:22
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Assour toward them, to strengthen their hands in works of house of God of Israel.
-- brenton: [missing]
-
-### Nehemiah 7:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after these words, in reign of Arthasastha king of Persians, Ezra son of Saraios, son of Azarias, son of Elkia,
-- brenton: And it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
-
-### Nehemiah 7:2
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: son of Saloum, son of Saddouk, son of Achitob,
-- brenton: that I gave charge to Ananias my brother, and Ananias the ruler of the palace, over Jerusalem: for he was a true man, and one that feared God beyond many.
-
-### Nehemiah 7:3
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: son of Samarias, son of Esria, son of Mareroth,
-- brenton: And I said to them, The gates of Jerusalem shall not be opened till sunrise; and while they are still watching, let the doors be shut, and bolted; and set watches of them that dwell in Jerusalem, every man at his post, and every man over against his house.
-
-### Nehemiah 7:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: son of Zaria, son of Saouia, son of Bokki,
-- brenton: Now the city was wide and large; and the people were few in it, and the houses were not built.
-
-### Nehemiah 7:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
-- brenton: And God put it into my heart, and I gathered the nobles, and the rulers, and the people, into companies: and I found a register of the company that came up first, and I found written in it as follows:
-
-### Nehemiah 7:6
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
-- brenton: Now these are the children of the country, that came up from captivity, of the number which Nabuchodonosor king of Babylon carried away, and they returned to Jerusalem and to Juda, every man to his city;
-
-### Nehemiah 7:7
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And some from sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Ierousalem in seventh year of King Arthasastha.
-- brenton: with Zorobabel, and Jesus, and Neemia, Azaria, and Reelma, Naemani, Mardochaeus, Balsan, Maspharath, Esdra, Boguia, Inaum, Baana, Masphar, men of the people of Israel.
-
-### Nehemiah 7:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they came to Ierousalem in fifth month; this was seventh year of the king.
-- brenton: The children of Phoros, two thousand one hundred and seventy-two.
-
-### Nehemiah 7:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Ierousalem, because good hand of his God was upon him.
-- brenton: The children of Saphatia, three hundred and seventy-two.
-
-### Nehemiah 7:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For Ezra gave his heart to seek the law and to do it and to teach ordinances and judgments in Israel.
-- brenton: The children of Era, six hundred and fifty-two.
-
-### Nehemiah 7:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And this is copy of decree which Arthasastha gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
-- brenton: The children of Phaath Moab, with the children of Jesus and Joab, two thousand six hundred and eighteen.
-
-### Nehemiah 7:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
-- brenton: The children of Aelam, a thousand two hundred and fifty-four.
-
-### Nehemiah 7:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From me decree has been set that everyone in my kingdom who freely chooses from people of Israel and priests and Levites to go to Ierousalem with you may go.
-- brenton: The children of Zathuia, eight hundred and forty-five.
-
-### Nehemiah 7:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Because you are sent from presence of the king and the seven counselors to inspect concerning Ioudaia and Ierousalem by law of your God in your hand,
-- brenton: The children of Zacchu, seven hundred and sixty.
-
-### Nehemiah 7:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Ierousalem,
-- brenton: The children of Banui, six hundred and forty-eight.
-
-### Nehemiah 7:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for house of God in Ierousalem,
-- brenton: The children of Bebi, six hundred and twenty-eight.
-
-### Nehemiah 7:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on altar of house of your God in Ierousalem.
-- brenton: The children of Asgad, two thousand three hundred and twenty-two.
-
-### Nehemiah 7:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
-- brenton: The children of Adonicam, six hundred and sixty-seven.
-
-### Nehemiah 7:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And vessels given to you for service of house of God, deliver before God in Ierousalem.
-- brenton: The children of Bagoi, two thousand and sixty-seven.
-
-### Nehemiah 7:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And whatever remains of need for house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
-- brenton: The children of Edin, six hundred and fifty-five.
-
-### Nehemiah 7:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
-- brenton: The children of Ater, the son of Ezekias, ninety-eight.
-
-### Nehemiah 7:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: up to one hundred talents of silver and up to one hundred kors of wheat and up to one hundred baths of wine and up to one hundred baths of oil, and salt without measure.
-- brenton: The children of Esam, three hundred and twenty-eight.
-
-### Nehemiah 7:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Everything in decree of God of heaven, let it be done carefully for house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
-- brenton: The children of Besei, three hundred and twenty-four.
-
-### Nehemiah 7:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
-- brenton: The children of Ariph, a hundred and twelve: the children of Asen, two hundred and twenty-three.
-
-### Nehemiah 7:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
-- brenton: The children of Gabaon, ninety-five.
-
-### Nehemiah 7:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
-- brenton: The children of Baethalem, a hundred and twenty-three: the children of Atopha, fifty-six.
-
-### Nehemiah 7:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Blessed is the Lord God of our fathers, who gave thus into heart of the king to glorify house of the Lord in Ierousalem,
-- brenton: The children of Anathoth, a hundred and twenty-eight.
-
-### Nehemiah 7:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and bent mercy toward me before the king and his counselors and all the exalted rulers of the king. And I was strengthened, as good hand of God was upon me, and I gathered leaders from Israel to go up with me.
-- brenton: The men of Bethasmoth, forty-two.
-
-### Nehemiah 8:1
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And these were chiefs of their father-houses, leaders going up with me in reign of Arthasastha, king of Babylon:
-- brenton: And the seventh month arrived, and the children of Israel were settled in their cities; and all the people were gathered as one man to the broad place before the water-gate, and they told Esdras the scribe to bring the book of the law of Moses, which the Lord commanded Israel.
-
-### Nehemiah 8:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
-- brenton: So Esdras the priest brought the law before the congregation both of men and women, and every one who had understanding was present to hearken, on the first day of the seventh month.
-
-### Nehemiah 8:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: from sons of Sechanias; from sons of Phoros, Zacharias, and with him a band of one hundred fifty males;
-- brenton: And he read in it from the time of sun-rise to the middle of the day, before the men and the women; and they understood it, and the ears of all the people were attentive to the book of the law.
-
-### Nehemiah 8:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: from sons of Phaathmoab, Elianas son of Zaraia, and with him two hundred males;
-- brenton: And Esdras the scribe stood on a wooden stage, and there stood next to him Mattathias, and Samaeas, and Ananias, and Urias, and Chelcia, and Massia, on his right hand; and on his left Phadaeas, and Misael, and Melchias, and Asom, and Asabadma, and Zacharias, and Mesollam.
-
-### Nehemiah 8:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: from sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;
-- brenton: And Esdras opened the book before all the people, for he was above the people; and it came to pass when he had opened it, that all the people stood.
-
-### Nehemiah 8:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Adin, Obeth son of Ionathan, and with him fifty males;
-- brenton: And Esdras blessed the Lord, the great God: and all the people answered, and said, Amen, lifting up their hands: and they bowed down and worshipped the Lord with their face to the ground.
-
-### Nehemiah 8:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Elam, Iesias son of Athelia, and with him seventy males;
-- brenton: And Jesus and Banaias and Sarabias instructed the people in the law, and the people stood in their place.
-
-### Nehemiah 8:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Saphatia, Zabdia son of Michael, and with him eighty males;
-- brenton: And they read in the book of the law of God, and Esdras taught, and instructed them distinctly in the knowledge of the Lord, and the people understood the law in the reading.
-
-### Nehemiah 8:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
-- brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
-
-### Nehemiah 8:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
-- brenton: And the governor said to them, Go, eat the fat, and drink the sweet, and send portions to them that have nothing; for the day is holy to our Lord: and faint not, for the Lord is our strength.
-
-### Nehemiah 8:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Babi, Zacharia son of Babi, and with him seventy-eight males;
-- brenton: And the Levites caused all the people to be silent, saying, Be silent, for it is a holy day, and despond not.
-
-### Nehemiah 8:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Asgad, Ioanan son of Akatan, and with him one hundred ten males;
-- brenton: So all the people departed to eat, and to drink, and to send portions, and to make great mirth, for they understood the words which he made known to them.
-
-### Nehemiah 8:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Adonikam, the last, and these their names: Eliphalat, Iiel, and Samaia, and with them sixty males;
-- brenton: And on the second day the heads of families assembled with all the people, also the priests and Levites, to Esdras the scribe, to attend to all the words of the law.
-
-### Nehemiah 8:14
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and from sons of Bagoi, Outhi, and with him seventy males.
-- brenton: And they found written in the law which the Lord commanded Moses, that the children of Israel should dwell in booths, in the feast in the seventh month:
-
-### Nehemiah 8:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I gathered them to the river coming to Eui, and we camped there three days, and I discerned among the people and the priests, but from sons of Levi I found no one there.
-- brenton: and that they should sound with trumpets in all their cities, and in Jerusalem. And Esdras said, Go forth to the mountain, and bring branches of olive, and branches of cypress trees, and branches of myrtle, and branches of palm trees, and branches of every thick tree, to make booths, according to that which was written.
-
-### Nehemiah 8:16
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I sent for Eleazar, Ariel, Semaia, Alonam, Iarib, Elnathan, Nathan, Zacharia, and Mesoulam, men, and for Ioarib and Elnathan, those with understanding.
-- brenton: And the people went forth, and brought them, and made booths for themselves, each one upon his roof, and in their courts, and in the courts of the house of God, and in the streets of the city, and as far as the gate of Ephraim.
-
-### Nehemiah 8:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I sent them out to the leader at Argyriou the place, and I put words in their mouth to speak to their brothers the nethinim at Argyriou the place, to bring us singers for house of our God.
-- brenton: And all the congregation who had returned from the captivity, made booths, and dwelt in booths: for the children of Israel had not done so from the days of Jesus the son of Naue until that day: and there was great joy.
-
-### Nehemiah 8:18
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they came to us, because good hand of our God was upon us, a man, Sachol, from sons of Mooli son of Levi son of Israel, and his sons and his brothers, eighteen.
-- brenton: And Esdras read in the book of the law of God daily, from the first day even to the last day: and they kept the feast seven days; and on the eighth day a solemn assembly, according to the ordinance.
-
-### Nehemiah 8:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Asabia and Osaia from sons of Merari, his brothers and their sons, twenty.
-- brenton: [missing]
-
-### Nehemiah 8:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from the nethinim, whom David and the rulers gave for service of the Levites, two hundred twenty nethinim. All were enrolled by names.
-- brenton: [missing]
-
-### Nehemiah 8:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I proclaimed a fast there at river Aoue, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
-- brenton: [missing]
-
-### Nehemiah 8:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, Hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
-- brenton: [missing]
-
-### Nehemiah 8:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And we fasted and sought from our God concerning this, and he listened to us.
-- brenton: [missing]
-
-### Nehemiah 8:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I separated twelve from chiefs of the priests: Saraias, Asabia, and with them ten from their brothers.
-- brenton: [missing]
-
-### Nehemiah 8:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
-- brenton: [missing]
-
-### Nehemiah 8:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I weighed into their hands six hundred fifty talents of silver and one hundred silver vessels and one hundred talents of gold,
-- brenton: [missing]
-
-### Nehemiah 8:27
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
-- brenton: [missing]
-
-### Nehemiah 8:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
-- brenton: [missing]
-
-### Nehemiah 8:29
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Ierousalem, in chambers of house of the Lord.
-- brenton: [missing]
-
-### Nehemiah 8:30
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Ierousalem into house of our God.
-- brenton: [missing]
-
-### Nehemiah 8:31
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And we set out from river Aoue on twelfth day of the first month to come to Ierousalem, and hand of our God was upon us, and he rescued us from hand of enemy and foe on the road.
-- brenton: [missing]
-
-### Nehemiah 8:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And we came to Ierousalem and sat there three days.
-- brenton: [missing]
-
-### Nehemiah 8:33
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
-- brenton: [missing]
-
-### Nehemiah 8:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: by number and by weight, everything, and all the weight was written at that time.
-- brenton: [missing]
-
-### Nehemiah 8:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
-- brenton: [missing]
-
-### Nehemiah 8:36
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and house of God.
-- brenton: [missing]
-
-### Nehemiah 9:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Iebousite, Ammonite, Moabite, Moserite, and Amorite.
-- brenton: Now on the twenty-fourth day of this month the children of Israel assembled with fasting, and in sackcloths, and with ashes on their head.
-
-### Nehemiah 9:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with peoples of the lands, and hand of the rulers was first in this faithlessness.
-- brenton: And the children of Israel separated themselves from every stranger, and stood and confessed their sins, and the iniquities of their fathers.
-
-### Nehemiah 9:3
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
-- brenton: And they stood in their place, and read in the book of the law of the Lord their god: and they confessed their sins to the Lord, and worshipped the Lord their God.
-
-### Nehemiah 9:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And everyone pursuing word of God of Israel was gathered to me over faithlessness of the exile, and I sat devastated until evening sacrifice.
-- brenton: And there stood upon the stairs, of the Levites, Jesus, and the sons of Cadmiel, Sechenia the son of Sarabia, sons of Choneni; and they cried with a loud voice to the Lord their God.
-
-### Nehemiah 9:5
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
-- brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
-
-### Nehemiah 9:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and said, Lord, I was ashamed and embarrassed to lift my face to you, because our lawlessnesses multiplied above our head and our trespasses grew great unto heaven.
-- brenton: And Esdras said, Thou art the only true Lord; thou madest the heaven, and the heaven of heavens, and all their array, the earth, and all things that are in it, the seas, and all things in them; and thou quickenest all things, and the hosts of heaven worship thee.
-
-### Nehemiah 9:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
-- brenton: Thou art the Lord God, thou didst choose Abram, and broughtest him out of the land of the Chaldeans, and gavest him the name of Abraam:
-
-### Nehemiah 9:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
-
-### Nehemiah 9:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Iouda and in Ierousalem.
-- brenton: And thou sawest the affliction of our fathers in Egypt, and thou heardest their cry at the Red Sea.
-
-### Nehemiah 9:10
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And what shall we say, our God, after this? For we forsook your commandments,
-- brenton: And thou shewedst signs and wonders in Egypt, on Pharao and all his servants, and on all the people of his land: for thou knowest that they behaved insolently against them: and thou madest thyself a name, as at this day.
-
-### Nehemiah 9:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: which you gave by hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
-- brenton: And thou didst cleave the sea before them, and they passed through the midst of the sea on dry land; and thou didst cast into the deep them that were about to pursue them, as a stone in the mighty water.
-
-### Nehemiah 9:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now do not give your daughters to their sons, and do not take from their daughters for your sons, and do not seek their peace and their good forever, so that you may grow strong and eat good things of the land and leave it as inheritance to your sons forever.
-- brenton: And thou guidedst them by day by a pillar of cloud, and by night by a pillar of fire, to enlighten for them the way wherein they should walk.
-
-### Nehemiah 9:13
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance,
-- brenton: Also thou camest down upon mount Sina, and thou spakest to them out of heaven, and gavest them right judgments, and laws of truth, ordinances, and good commandments.
-
-### Nehemiah 9:14
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: shall we turn again to scatter your commandments and intermarry with peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
-- brenton: And thou didst make known to them thy holy sabbath; thou didst enjoin upon them commandments, and ordinances, and a law, by the hand of thy servant Moses.
-
-### Nehemiah 9:15
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Lord God of Israel, righteous are you, because we were left escaping as this day. Behold, we are before you in our trespasses, because there is no standing before you on account of this.
-- brenton: And thou gavest them bread from heaven for their food, and thou broughtest them forth water from a rock for their thirst; and thou badest them go in to inherit the land over which thou stretchedst out thy hand to give it them.
-
-### Nehemiah 10:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And as Ezra prayed and confessed, weeping and praying before house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
-- brenton: And over them that sealed were Neemias the Artasastha, son of Achalia, and Zedekias,
-
-### Nehemiah 10:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Sechenias son of Iiel, from sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from peoples of the land, and now there is patient hope for Israel about this.
-- brenton: the son of Araea, and Azaria, and Jeremia,
-
-### Nehemiah 10:3
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
-- brenton: Phasur, Amaria, Melchia,
-
-### Nehemiah 10:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Rise, because the matter is on you, and we are with you. Be strong and do it.
-- brenton: Attus, Sebani, Maluch,
-
-### Nehemiah 10:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Ezra rose and made the rulers, the priests, and the Levites and all Israel swear to do according to this word, and they swore.
-- brenton: Iram, Meramoth, Abdia,
-
-### Nehemiah 10:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Ezra rose from before house of God and went into treasury-room of Ioanan son of Elisoub, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
-- brenton: Daniel, Gannathon, Baruch,
-
-### Nehemiah 10:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they proclaimed through Iouda and Ierousalem to all sons of the exile to gather into Ierousalem.
-- brenton: Mesulam, Abia, Miamin,
-
-### Nehemiah 10:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And everyone who would not come within three days, according to counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
-- brenton: Maazia, Belgai, Samaia; these were priests.
-
-### Nehemiah 10:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all men of Iouda and Beniamin gathered into Ierousalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of house of God, trembling because of the matter and because of the winter.
-- brenton: And the Levites; Jesus the son of Azania, Banaiu of the sons of Enadad, Cadmiel
-
-### Nehemiah 10:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
-- brenton: and his brethren, Sabania, Oduia, Calitan, Phelia, Anan,
-
-### Nehemiah 10:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from peoples of the land and from the foreign women.
-- brenton: Micha, Roob, Asebias,
-
-### Nehemiah 10:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And all the assembly answered and said, Great is this word of yours upon us to do.
-- brenton: Zacchor, Sarabia, Sebania,
-
-### Nehemiah 10:13
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But the people are many, and the season is rainy, and there is no strength to stand outside, and the work is not for one day and not for two, because we multiplied wrongdoing in this matter.
-- brenton: Odum, the sons of Banuae.
-
-### Nehemiah 10:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
-- brenton: The heads of the people; Phoros, Phaath Moab, Elam, Zathuia,
-
-### Nehemiah 10:15
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Only Ionathan son of Asael and Iazias son of Thekoue stood for this, and Mesoulam and Sabathai the Levite were helping them.
-- brenton: the sons of Bani, Asgad, Bebai,
-
-### Nehemiah 10:16
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
-- brenton: Adania, Bagoi, Hedin
-
-### Nehemiah 10:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they finished with all the men who had seated foreign women by first day of the first month.
-- brenton: Ater, Ezekia, Azur,
-
-### Nehemiah 10:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of the priests who had seated foreign women were found these: from sons of Iesous son of Iosedek and his brothers, Maasaias and Eliezer and Iarib and Gadalia.
-- brenton: Oduia, Esam, Besi,
-
-### Nehemiah 10:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they gave their hands to put out their wives, and for their trespass a ram from the sheep for their trespass.
-- brenton: Ariph, Anathoth, Nobai,
-
-### Nehemiah 10:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Emmer: Anani and Zabdia.
-- brenton: Megaphes, Mesullam, Ezir,
-
-### Nehemiah 10:21
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Heram: Masaia and Elia and Samaia and Iiel and Ozia.
-- brenton: Mesozebel, Saduc, Jeddua,
-
-### Nehemiah 10:22
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Phassour: Elioenai, Maasaias, Ismael, Nathanael, Iozabad, and Elasas.
-- brenton: Phaltia, Anan, Anaea,
-
-### Nehemiah 10:23
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from the Levites: Iozabad and Samou and Kolia, he is Kolitas, and Phathaia and Iodom and Eliezer.
-- brenton: Osee, Anania, Asub,
-
-### Nehemiah 10:24
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from the singers: Elisaph. And from the gatekeepers: Sellem and Telem and Odoue.
-- brenton: Aloes, Phalai, Sobec,
-
-### Nehemiah 10:25
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from Israel, from sons of Phoros: Ramia and Iazia and Melchia and Meamin and Eleazar and Asabia and Banaia.
-- brenton: Reum, Essabana, Maasia,
-
-### Nehemiah 10:26
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Elam: Mathania and Zacharia and Iaeiel and Abdia and Iarimoth and Elia.
-- brenton: and Aia, Aenan, Enam,
-
-### Nehemiah 10:27
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad, and Oziza.
-- brenton: Maluch, Eram, Baana.
-
-### Nehemiah 10:28
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Babi: Ioanan, Anania, Zabou, Othali.
-- brenton: And the rest of the people, the priests, the Levites, the porters, the singers, the Nathinim, and every one who drew off from the nations of the land to the law of God, their wives, their sons, their daughters, every one who had knowledge and understanding,
-
-### Nehemiah 10:29
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Banoui: Mesoulam, Mallouch, Adaias, Iasoub, Salouia, and Remoth.
-- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
-
-### Nehemiah 10:30
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Phaathmoab: Edna, Chalel, Banaia, Maseia, Mathania, Beselel, Banoui, and Manasse.
-- brenton: and that we will not, they said,give our daughters to the people of the land, nor will we take their daughters to our sons.
-
-### Nehemiah 10:31
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Heram: Eliezer, Iessia, Melchia, Samaia, Semeon,
-- brenton: And as for the people of the land who bring wares and all manner of merchandise to sell on the sabbath-day, we will not buy of them on the sabbath or on the holy day: and we will leave the seventh year, and the exaction of every debt.
-
-### Nehemiah 10:32
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Beniamin, Mallouch, Samaria.
-- brenton: And we will impose ordinances upon ourselves, to levy on ourselves the third part of a didrachm yearly for the service of the house of our God;
-
-### Nehemiah 10:33
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And from sons of Esam: Mathani, Mathatha, Zabed, Eliphaleph, Ieremai, Manasse, Semei.
-- brenton: the shewbread, and the continual meat-offering, and for the continual whole-burnt-offering, of the sabbaths, of the new moon, for the feast, and for the holy things, and the sin-offerings, to make atonement for Israel, and for the works of the house of our God.
-
-### Nehemiah 10:34
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Bani: Maadi, Amram, Ouel,
-- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
-
-### Nehemiah 10:35
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Banaia, Badaia, Chelia,
-- brenton: and to bring the first-fruits of our land, and the first-fruits of the fruit of every tree, year by year, into the house of the Lord:
-
-### Nehemiah 10:36
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Ouechoa, Ieramoth, Eliasib,
-- brenton: the first-born of our sons, and of our cattle, as it is written in the law, and the first-born of our herds and of our flocks, to bring to the house of our God, for the priests that minister in the house of our God.
-
-### Nehemiah 10:37
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Mathania, Mathanai, and they made.
-- brenton: And the first-fruits of our corn, and the fruit of every tree, of wine, and of oil, will we bring to the priests to the treasury of the house of God; and a tithe of our land to the Levites: for the Levites themselves shall receive tithes in all the cities of the land we cultivate.
-
-### Nehemiah 10:38
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: The sons of Banoui and the sons of Semei,
-- brenton: And the priest the son of Aaron shall be with the Levites in the tithe of the Levite: and the Levites shall bring up the tenth part of their tithe to the house of our God, into the treasuries of the house of God.
-
-### Nehemiah 10:39
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and Selemia and Nathan and Adaia,
-- brenton: For the children of Israel and the children of Levi shall bring into the treasuries the first-fruits of the corn, and wine, and oil; and there are the holy vessels, and the priests, and the ministers, and the porters, and the singers: and we will not forsake the house of our God.
-
-### Nehemiah 10:40
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Machnadabou, Sese, Sarou,
-- brenton: [missing]
-
-### Nehemiah 10:41
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Ezereel and Selemia and Samaria,
-- brenton: [missing]
-
-### Nehemiah 10:42
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and Saloum, Amaria, Ioseph.
-- brenton: [missing]
-
-### Nehemiah 10:43
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: From sons of Nabo: Iiel, Mathathia, Zedem, Zambina, Iadai, Ioel, and Banaia.
-- brenton: [missing]
-
-### Nehemiah 10:44
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: All these took foreign women and begot sons from them.
-- brenton: [missing]
-
-### Nehemiah 11:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
-- brenton: And the chiefs of the people dwelt in Jerusalem: and the rest of the people cast lots, to bring one of every ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
-
-### Nehemiah 11:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Anani, one from my brothers, came, he and men of Iouda, and I asked them concerning the survivors who were left from captivity and concerning Ierousalem.
-- brenton: And the people blessed all the men that volunteered to dwell in Jerusalem.
-
-### Nehemiah 11:3
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Ierousalem are broken down and its gates have been burned with fire.
-- brenton: Now these are the chiefs of the province who dwelt in Jerusalem, and in the cities of Juda; every man dwelt in his possession in their cities: Israel, the priests, and the Levites, and the Nathinim, and the children of the servants of Solomon.
-
-### Nehemiah 11:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it came to be when I heard these words, I sat and wept and mourned for days, and I was fasting and praying before God of heaven.
-- brenton: And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin. Of the children of Juda; Athaia son of Azia, the son of Zacharia, the son of Samaria, the son of Saphatia, the son of Maleleel, and some of the sons of Phares;
-
-### Nehemiah 11:5
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
-- brenton: and Maasia son of Baruch, son of Chalaza, son of Ozia, son of Adaia, son of Joarib, son of Zacharias, son of Seloni.
-
-### Nehemiah 11:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: let your ear now be attentive and your eyes open to hear prayer of your servant which I pray before you today, day and night, concerning sons of Israel your servants, and I confess over sins of sons of Israel, which we sinned against you; both I and house of my father sinned.
-- brenton: All the sons of Phares who dwelt in Jerusalem were four hundred and sixty-eight men of might.
-
-### Nehemiah 11:7
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: In ruin we were ruined toward you, and we did not keep the commandments and the ordinances and the judgments which you commanded Moses your servant.
-- brenton: And these were the children of Benjamin; Selo son of Mesulam, son of Joad, son of Phadaia, son of Coleia, son of Maasias, son of Ethiel, son of Jesia.
-
-### Nehemiah 11:8
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Remember, please, the word which you commanded Moses your servant, saying, If you act faithlessly, I will scatter you among the peoples.
-- brenton: And after him Gebe, Seli, nine hundred and twenty-eight.
-
-### Nehemiah 11:9
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: But if you return to me and keep my commandments and do them, even if your dispersion is from edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
-- brenton: And Joel son of Zechri was overseer over them: and Juda son of Asana was second in the city.
-
-### Nehemiah 11:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And they are your servants and your people, whom you redeemed by your great power and your strong hand.
-- brenton: Of the priests: both Jadia son of Joarib, and Jachin.
-
-### Nehemiah 11:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
-- brenton: Saraia, son of Elchia, son of Mesulam, son of Sadduc, son of Marioth, son of Aetoth, was over the house of God.
-
-### Nehemiah 12:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And it came to be in month Nisan, twentieth year of King Arthasastha, and wine was before me, and I took the wine and gave it to the king, and I had not been sad before him.
-- brenton: Now these are the priests and the Levites that went up with Zorobabel the son of Salathiel and Jesus: Saraia, Jeremia, Esdra,
-
-### Nehemiah 12:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the king said to me, Why is your face troubled while you are not sick? This is nothing except trouble of heart. And I feared very greatly,
-- brenton: Amaria, Maluch,
-
-### Nehemiah 12:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
-- brenton: Sechenia.
-
-### Nehemiah 12:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the king said to me, For what do you seek this? And I prayed to God of heaven,
-- brenton: [missing]
-
-### Nehemiah 12:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Iouda, to city of tombs of my fathers, and I will rebuild it.
-- brenton: [missing]
-
-### Nehemiah 12:6
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the king and the concubine sitting beside him said to me, Until when will your journey be, and when will you return? And it seemed good before the king, and he sent me, and I gave him a time.
-- brenton: [missing]
-
-### Nehemiah 12:7
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I said to the king, If it seems good to the king, let letters be given to me for governors beyond the River, so that they may send me through until I come to Iouda,
-- brenton: These were the chiefs of the priests, and their brethren in the days of Jesus.
-
-### Nehemiah 12:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: and a letter to Asaph, keeper of the king's park, so that he may give me timbers to roof the gates of the citadel belonging to the house and for wall of the city and for the house into which I will enter. And the king gave to me, as good hand of God was upon me.
-- brenton: And the Levites were, Jesus, Banui, Cadmiel, Sarabia, Jodae, Matthania: he was over the bands,
-
-### Nehemiah 12:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I came to the governors beyond the River and gave to them letters of the king, and the king sent with me leaders of force and horsemen.
-- brenton: and his brethren were appointed to the daily courses.
-
-### Nehemiah 12:10
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Sanaballat the Aoronite heard, and Tobia the servant, the Ammonite, and it became evil to them that a man had come to seek good for sons of Israel.
-- brenton: And Jesus begot Joakim, and Joakim begot Eliasib, and Eliasib begot Jodae,
-
-### Nehemiah 12:11
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I came to Ierousalem and was there three days.
-- brenton: and Jodae begot Jonathan, and Jonathan begot Jadu.
-
-### Nehemiah 12:12
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I rose by night, I and a few men with me, and I did not tell any man what God was giving in my heart to do with Israel, and no beast was with me except the beast on which I rode.
-- brenton: And in the days of Joakim, his brethren the priests and the heads of families were, belonging to Saraia, Amaria; to Jeremia, Anania;
-
-### Nehemiah 12:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I went out by night through gate of Goleila and toward mouth of spring of the figs and to gate of the dung-heaps, and I was inspecting wall of Ierousalem, which they are pulling down, and its gates were devoured by fire.
-- brenton: to Esdra, Mesulam; to Amaria, Joanan;
-
-### Nehemiah 12:14
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I passed on to gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
-- brenton: to Amaluch, Jonathan; to Sechenia, Joseph;
-
-### Nehemiah 12:15
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by gate of the gorge and returned.
-- brenton: to Are, Mannas; to Marioth, Elcai;
-
-### Nehemiah 12:16
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And the guards did not know where I went and what I was doing, and to the Ioudaioi and to the priests and to the nobles and to the generals and to the rest doing the works I had not told it until then.
-- brenton: to Adadai, Zacharia; to Ganathoth, Mesolam;
-
-### Nehemiah 12:17
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I said to them, You see the evil in which we are, how Ierousalem lies waste and its gates were given to fire. Come, let us rebuild wall of Ierousalem, and we will no longer be a reproach.
-- brenton: to Abia, Zechri; to Miamin, Maadai; to Pheleti, one;
-
-### Nehemiah 12:18
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I told them of hand of God, that it is good upon me, and of words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
-- brenton: to Balgas, Samue; to Semia, Jonathan;
-
-### Nehemiah 12:19
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
-- brenton: to Joarib, Matthanai; to Edio, Ozi;
-
-### Nehemiah 12:20
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And I answered them with a word and said to them, God of heaven, he will prosper us, and we his servants are clean and will build, but to you there is no share and no right and no memorial in Ierousalem.
-- brenton: to Salai, Callai; to Amec, Abed;
-
-### Nehemiah 13:1
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Elisoub the great priest and his brothers the priests rose up and built the Sheep Gate. They sanctified it and set up its doors, and sanctified it as far as Tower of Hundred, as far as Tower of Hananeel.
-- brenton: In that day they read in the book of Moses in the ears of the people; and it was found written in it, that the Ammonites and Moabites should not enter into the congregation of God for ever;
-
-### Nehemiah 13:2
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them were sons of men of Iericho, and next to them sons of Zakkour son of Amari.
-- brenton: because they met not the children of Israel with bread and water, but hired Balaam against them to curse them: but our God turned the curse into a blessing.
-
-### Nehemiah 13:3
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And sons of Asana built the Fish Gate. They roofed it and set its doors, its bolts, and its bars.
-- brenton: And it came to pass, when they heard the law, that they were separated, even every alien in Israel.
-
-### Nehemiah 13:4
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them Meramoth son of Ouria son of Akos repaired, and next to them Mosollam son of Barachia son of Masezebel repaired, and next to them Sadok son of Baana repaired.
-- brenton: And before this time Eliasib the priest dwelt in the treasury of the house of our God, connected with Tobias;
-
-### Nehemiah 13:5
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord.
-- brenton: and he made himself a great treasury, and there they were formerly in the habit of bestowing the offerings, and the frankincense, and the vessels, and the tithe of the corn, and the wine, and the oil, the ordered portion of the Levites, and singers, and porters; and the first-fruits of the priests.
-
-### Nehemiah 13:6
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And Ioda son of Phasek and Mesoulam son of Basodia repaired the Old Gate. They roofed it and set its doors, its bolts, and its bars.
-- brenton: But in all this time I was not in Jerusalem; for in the thirty-second year of Arthasastha king of Babylon I came to the king, and after a certain time I made my request of the king;
-
-### Nehemiah 13:8
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them Hananias son of the perfumers repaired, and they left Ierousalem as far as the Broad Wall.
-- brenton: And it appeared very evil to me: so I cast forth all the furniture of the house of Tobias from the treasury.
-
-### Nehemiah 13:9
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them Raphaia, ruler of half district of Ierousalem, repaired.
-- brenton: And I gave orders, and they purified the treasuries: and I restored thither the vessels of the house of God, and the offerings, and the frankincense.
-
-### Nehemiah 13:10
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to them Iedaia son of Eromaph repaired opposite his house, and next to him Atous son of Asbania repaired.
-- brenton: And I understood that the portion of the Levites had not been given: and they had fled every one to his field, the Levites and the singers doing the work.
-
-### Nehemiah 13:11
-
-- importance: medium
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: A second section Melchias son of Heram and Asoub son of Phaathmoab repaired, and as far as Tower of Ovens.
-- brenton: And I strove with the commanders, and said, Wherefore has the house of God been abandoned? and I assembled them, and set them in their place.
-
-### Nehemiah 13:12
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: And next to him Seloum son of Alloes, ruler of half district of Ierousalem, repaired, he and his daughters.
-- brenton: And all Juda brought a tithe of the wheat and the wine and the oil into the treasuries,
-
-### Nehemiah 13:13
-
-- importance: low
-- decisions: 0
-- footnotes: 0
-- same_normalized: no
-- fresh: Hanoun and inhabitants of Zano repaired Valley Gate. They built it and set its doors, its bolts, and its bars, and one thousand cubits on the wall, as far as Dung Gate.
-- brenton: to the charge of Selemia the priest, and Sadoc the scribe, and Phadaea of the Levites: and next to them was Anan the son of Zacchur, son of Matthanias; for they were accounted faithful: it was their office to distribute to their brethren.
-
-### Nehemiah 13:14
+### Nehemiah 3:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Melchias son of Rechab, ruler of district of Bethacharm, repaired Dung Gate, he and his sons. They roofed it and set its doors, its bolts, and its bars.
-- brenton: Remember me, O God, in this, and let not my kindness be forgotten which I have wrought in regard to the house of the Lord God.
+- brenton: And Melchia the son of Rechab, the ruler of the district round about Beth-accharim, repaired the dung-gate, he and his sons; and they covered it, and set up its doors, and its bolts, and its bars.
 
-### Nehemiah 13:15
+### Nehemiah 3:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the wall of pool of Kodia at the king's garden, and as far as the stairs going down from city of David.
-- brenton: In those days I saw in Juda men treading wine-presses on the sabbath, and carrying sheaves, and loading asses with both wine, and grapes, and figs, and every kind of burden, and bringing them into Jerusalem on the sabbath-day:
+- brenton: But Solomon the son of Choleze repaired the gate of the fountain, the ruler of part of Maspha; he built it, and covered it, and set up its doors and its bars, and the wall of the pool of the skins by the meadow of the king, and as far as the steps that lead down from the city of David.
 
-### Nehemiah 13:16
+### Nehemiah 3:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Nehemias son of Azabouch, ruler of half district of Bethsur, repaired as far as garden of tomb of David and as far as pool that was made and as far as House of the Mighty Men.
-- brenton: and I testified in the day of their sale. Also their dwelt in it men bringing fish, and selling every kind of merchandise to the children of Juda and in Jerusalem on the sabbath.
+- brenton: After him repaired Neemias son of Azabuch, ruler of half the district round about Bethsur, as far as the garden of David's sepulchre, and as far as the artificial pool, and as far as the house of the mighty men.
 
-### Nehemiah 13:17
+### Nehemiah 3:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him the Levites repaired: Raoum son of Bani. Next to him Asabia, ruler of half district of Keila, repaired for his district.
-- brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
+- brenton: After him repaired the Levites, even Raum the son of Bani: next to him repaired Asabia, ruler of half the district round about Keila, in his district.
 
-### Nehemiah 13:18
+### Nehemiah 3:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him their brothers repaired: Beni son of Enadad, ruler of half district of Keila.
-- brenton: Did not your fathers thus, and our God brought upon them and upon us and upon this city all these evils? and do ye bring additional wrath upon Israel by profaning the sabbath?
+- brenton: And after him repaired his brethren, Benei son of Enadad, ruler of half the district round about Keila.
 
-### Nehemiah 13:19
+### Nehemiah 3:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And next to him Azour son of Iesou, ruler of Masphe, repaired a second measure from tower of ascent adjoining the angle.
-- brenton: And it came to pass, when the gates were set up in Jerusalem, before the sabbath, that I spoke, and they shut the gates; and I gave orders that they should not be opened till after the sabbath: and I set some of my servants at the gates, that none should bring in burdens on the sabbath-day.
+- brenton: And next to him repaired Azur the son of Joshua, ruler of Masphai, another portion of the tower of ascent, where it meets the corner.
 
-### Nehemiah 13:20
+### Nehemiah 3:20
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Barouch son of Zabou repaired a second measure, from the angle to door of house of Elisoub the great priest.
-- brenton: So all the merchants lodged, and carried on traffic without Jerusalem once or twice.
+- brenton: After him repaired Baruch the son of Zabu, a second portion, from the corner as far as the door of the house of Eliasub the high priest.
 
-### Nehemiah 13:21
+### Nehemiah 3:21
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Meramoth son of Ouria son of Akos repaired a second measure, from door of house of Elisoub to end of house of Elisoub.
-- brenton: Then I testified against them, and said to them, Why do ye lodge in front of the wall? if ye do so again, I will stretch out my hand upon you. From that time they came not on the sabbath.
+- brenton: After him repaired Meramoth the son of Uria the son of Accos, a second part from the door of the house of Eliasub, to the end of the house of Eliasub.
 
-### Nehemiah 13:22
+### Nehemiah 3:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And after him the priests, men of Achechar, repaired.
-- brenton: and I told the Levites who were purifying themselves, and came and kept the gates, that they should sanctify the sabbath-day. Remember me, O God, for these things, and spare me according to the abundance of thy mercy.
+- brenton: And after him repaired the priests, the men of Ecchechar.
 
-### Nehemiah 13:23
+### Nehemiah 3:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And after him Beniamin and Asoub repaired opposite their house. After him Azaria son of Maasia son of Anania repaired beside his house.
-- brenton: And in those days I saw the Jews who had married women of Ashdod, of Ammon, and of Moab:
+- brenton: And after him repaired Benjamin and Asub over against their house: and after him repaired Azarias son of Maasias the son of Ananias, the parts near to his house.
 
-### Nehemiah 13:24
+### Nehemiah 3:24
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Bani son of Enadad repaired a second measure, from house of Azaria to the angle and to the turning.
-- brenton: and their children spoke half in the language of Ashdod, and did not know how to speak in the Jewish language.
+- brenton: After him repaired Bani the son of Adad, another portion from the house of Azaria as far as the corner and to the turning,
 
-### Nehemiah 13:25
+### Nehemiah 3:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Phalal son of Euzai repaired opposite the angle and the tower projecting from upper house of the king, the one at court of the guard, and after him Phadaia son of Phoros.
-- brenton: And I strove with them and cursed them; and I smote some of them, and plucked off their hair, and made them swear by God, saying,Ye shall not give your daughters to their sons, and ye shall not take of their daughters to your sons.
+- brenton: of Phalach the son of Uzai, opposite the corner, and where is also the tower that projects from the king's house, even the upper one of the prison-house: and after him repaired Phadaea the son of Phoros.
 
-### Nehemiah 13:26
+### Nehemiah 3:26
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the nethinim were dwelling in the Ophal as far as Water Gate eastward and the projecting tower.
-- brenton: Did not Solomon king of Israel sin thus? though there was no king like him among many nations, and he was beloved of God, and God made him king over all Israel; yet strange women turned him aside.
+- brenton: And the Nathinim dwelt in Ophal, as far as the garden of the water-gate eastward, and there is the projecting tower.
 
-### Nehemiah 13:27
+### Nehemiah 3:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him the Thekoim repaired a second measure, opposite the great projecting tower and as far as wall of Ophal.
-- brenton: So we will not hearken to you to do all this evil, to break covenant with our God, —to marry strange wives.
+- brenton: And after them the Thecoim repaired, another portion opposite the great projecting tower, even as far as the wall of Ophla.
 
-### Nehemiah 13:28
+### Nehemiah 3:28
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Above Horse Gate the priests repaired, each opposite his own house.
-- brenton: and Elisub the high priest, one of the sons of Joada, being son-in-law of Sanaballat the Uranite, I chased him away from me.
+- brenton: The priests repaired above the horse-gate, every man over against his own house.
 
-### Nehemiah 13:29
+### Nehemiah 3:29
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Sadduk son of Emmer repaired opposite his house, and after him Samaia son of Sechenia, keeper of East Gate, repaired.
-- brenton: Remember them, O God, for their false connection with the priesthood, and the breaking the covenant of the priesthood, and for defiling the Levites.
+- brenton: And after him Sadduc the son of Emmer repaired opposite his own house: and after him repaired Samaea son of Sechenia, guard of the east-gate.
 
-### Nehemiah 13:30
+### Nehemiah 3:30
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Anania son of Selemia and Anoum son of Seleph, the sixth, repaired a second measure. After him Mesoulam son of Barachia repaired opposite his treasury-room.
-- brenton: So I purged them from all foreign connection, and established courses for the priests and the Levites, every man according to his work.
+- brenton: After him repaired Anania son of Selemia, and Anom, the sixth son of Seleph, another portion: after him Mesulam the son of Barachia repaired over against his treasury.
 
-### Nehemiah 13:31
+### Nehemiah 3:31
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: After him Melchia son of the goldsmith repaired as far as house of the nethinim and the traders, opposite Gate of the Mustering and as far as ascent of the turning.
-- brenton: And the offering of the wood-bearers was at certain set times, and in the times of the first-fruits. Remember me, O our God, for good.
+- brenton: After him repaired Melchia the son of Sarephi as far as the house of the Nathinim, and the chapmen over against the gate of Maphecad, and as far as the steps of the corner.
 
-### Nehemiah 13:32
+### Nehemiah 3:32
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And between ascent of the turning and Sheep Gate the smiths and the traders repaired.
-- brenton: [missing]
+- brenton: And between that and the sheep-gate the smiths and chapmen repaired.
 
-### Nehemiah 13:33
+### Nehemiah 3:33
 
 - importance: low
 - decisions: 0
@@ -113587,7 +109681,7 @@ Note:
 - fresh: And it came to be when Sanaballat heard that we are building the wall, it was evil to him and he became very angry and mocked the Ioudaioi.
 - brenton: [missing]
 
-### Nehemiah 13:34
+### Nehemiah 3:34
 
 - importance: low
 - decisions: 0
@@ -113596,7 +109690,7 @@ Note:
 - fresh: And he said before his brothers, This force of Samaria, that these Ioudaioi build their own city?
 - brenton: [missing]
 
-### Nehemiah 13:35
+### Nehemiah 3:35
 
 - importance: medium
 - decisions: 0
@@ -113605,7 +109699,7 @@ Note:
 - fresh: And Tobias the Ammanite beside him came, and they said among themselves, Will they not sacrifice or eat on their place? Surely a fox will go up and tear down wall of their stones.
 - brenton: [missing]
 
-### Nehemiah 13:36
+### Nehemiah 3:36
 
 - importance: low
 - decisions: 0
@@ -113614,7 +109708,7 @@ Note:
 - fresh: Hear, our God, because we became a mockery, and turn their reproach upon their own head and give them for mockery in land of captivity.
 - brenton: [missing]
 
-### Nehemiah 13:37
+### Nehemiah 3:37
 
 - importance: low
 - decisions: 0
@@ -113623,52 +109717,52 @@ Note:
 - fresh: And do not cover over their lawlessness.
 - brenton: [missing]
 
-### Nehemiah 14:1
+### Nehemiah 4:1
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be as Sanaballat and Tobia and the Arabs and the Ammanites heard that growth had come to walls of Ierousalem, that the breaches began to be closed, it seemed very evil to them.
-- brenton: [missing]
+- brenton: Now it came to pass, when Sanaballat heard that we were building the wall, that it was grievous to him, and he was very angry, and railed against the Jews.
 
-### Nehemiah 14:2
+### Nehemiah 4:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they all gathered together to come to array against Ierousalem.
-- brenton: [missing]
+- brenton: And he said before his brethren (that is the army of the Samaritans) Is it true that these Jews are building their city? do they indeed offer sacrifices? will they prevail? and will they this day restore the stones, after they have been burnt and made a heap of rubbish?
 
-### Nehemiah 14:3
+### Nehemiah 4:3
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And we prayed to our God and set guards over them day and night because of them.
-- brenton: [missing]
+- brenton: And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
 
-### Nehemiah 14:4
+### Nehemiah 4:4
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Iouda said, Strength of the enemies was crushed, and the dust is much, and we shall not be able to build on the wall.
-- brenton: [missing]
+- brenton: Hear, O our God, for we have become a scorn; and return thou their reproach upon their head, and make them a scorn in a land of captivity,
 
-### Nehemiah 14:5
+### Nehemiah 4:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And those afflicting us said, They will not know and they will not see until we come into their midst and kill them and stop the work.
-- brenton: [missing]
+- brenton: and do not cover their iniquity.
 
-### Nehemiah 14:6
+### Nehemiah 4:6
 
 - importance: low
 - decisions: 0
@@ -113677,1051 +109771,1051 @@ Note:
 - fresh: And it came to be when the Ioudaioi dwelling near them came and said to us, They are coming up against us from all the places.
 - brenton: [missing]
 
-### Nehemiah 14:7
+### Nehemiah 4:7
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I stationed in the lowest parts of the place behind the wall, in the sheltered places, and I stationed the people by clans with their swords, their spears, and their bows.
-- brenton: [missing]
+- brenton: But it came to pass, when Sanaballat and Tobia, and the Arabians, and the Ammanites, heard that the building of the walls of Jerusalem was advancing, and that the breaches began to be stopped, that it appeared very grievous to them.
 
-### Nehemiah 14:8
+### Nehemiah 4:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I looked and rose and said to the nobles and the generals and the rest of the people, Do not fear before them. Remember our God, the great and fearful, and array yourselves for your brothers, your sons and daughters, your wives and your houses.
-- brenton: [missing]
+- brenton: And all of them assembled together, to come to fight against Jerusalem, and to destroy it utterly.
 
-### Nehemiah 14:9
+### Nehemiah 4:9
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be when our enemies heard that it had become known to us and God scattered their counsel, we all returned to the wall, each man to his own work.
-- brenton: [missing]
+- brenton: So we prayed to our God and set watchmen against them day and night, because of them.
 
-### Nehemiah 14:10
+### Nehemiah 4:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be from that day, half of those shaken out were doing the work, and half of them were holding spears and shields and bows and breastplates, and the rulers were behind whole house of Iouda.
-- brenton: [missing]
+- brenton: And Juda said, The strength of the enemies is broken, yet there is much rubbish, and we shall not be able to build the wall.
 
-### Nehemiah 14:11
+### Nehemiah 4:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Those building on the wall and those carrying in the loads, in arms, with one hand each was doing the work and one was holding the dart.
-- brenton: [missing]
+- brenton: And they that afflicted us said, They shall not know, and they shall not see, until we come into the midst of them, and slay them, and cause the work to cease.
 
-### Nehemiah 14:12
+### Nehemiah 4:12
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the builders, each man girded his sword upon his loins, and they were building, and the one sounding on the horn was beside him.
-- brenton: [missing]
+- brenton: And it came to pass, when the Jews who lived near them came, that they said to us, They are coming up against us from every quarter.
 
-### Nehemiah 14:13
+### Nehemiah 4:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I said to the nobles and to the rulers and to the rest of the people, The work is wide and much, and we are scattered on the wall, far each man from his brother.
-- brenton: [missing]
+- brenton: So I set men in the lowest part of the place behind the wall in the lurking-places, I even set the people according to their families, with their swords, their spears, and their bows.
 
-### Nehemiah 14:14
+### Nehemiah 4:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: In place where you hear sound of the horn, there you shall gather to us, and our God will fight for us.
-- brenton: [missing]
+- brenton: And I looked, and arose, and said to the nobles, and to the captains, and to the rest of the people, Be not afraid of them: remember our great and terrible God, and fight for your brethren, your sons, your daughters, your wives, and your houses.
 
-### Nehemiah 14:15
+### Nehemiah 4:15
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And we were doing the work, and half of them were holding the spears from rising of dawn until coming out of the stars.
-- brenton: [missing]
+- brenton: And it came to pass, when our enemies heard that it was made known to us, and God had frustrated their counsel, that we all returned to the wall, every man to his work.
 
-### Nehemiah 14:16
+### Nehemiah 4:16
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And at that time I said to the people, Lodge inside Ierousalem, and let the night be a watch for you and the day a work.
-- brenton: [missing]
+- brenton: And it came to pass from that day that half of them that had been driven forth, wrought the work, and half of them kept guard; and there were spears, and shields, and bows, and breast-plates, and rulers behind the whole house of Juda,
 
-### Nehemiah 14:17
+### Nehemiah 4:17
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I and men of the watch behind me, not one of us was taking off his clothes.
-- brenton: [missing]
+- brenton: even of them that were building the wall:—and those who carried the burdens were under arms: each with one hand wrought his work, and with the other held his dart.
 
-### Nehemiah 15:1
+### Nehemiah 5:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And cry of the people and of their women was great against their brothers the Ioudaioi.
-- brenton: [missing]
+- brenton: And the cry of the people and their wives was great against their brethren the Jews.
 
-### Nehemiah 15:2
+### Nehemiah 5:2
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And some were saying, In our sons and in our daughters we are many, and we shall get grain and eat and live.
-- brenton: [missing]
+- brenton: And some said, We are numerous with our sons and our daughters; so we will take corn, and eat, and live.
 
-### Nehemiah 15:3
+### Nehemiah 5:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And some were saying, Our fields and our vineyards and our houses we are pledging, and we shall get grain and eat.
-- brenton: [missing]
+- brenton: And some said, As to our fields and vineyards and houses, let us pledge them, and we will take corn, and eat.
 
-### Nehemiah 15:4
+### Nehemiah 5:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And some were saying, We borrowed silver for taxes of the king on our fields and our vineyards and our houses.
-- brenton: [missing]
+- brenton: And some said, We have borrowed money for the king's tributes:—our fields, and our vineyards, and houses are pledged.
 
-### Nehemiah 15:5
+### Nehemiah 5:5
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And now flesh of our brothers is our flesh, as their sons are our sons, and behold we oppress our sons and our daughters into slavery, and some from our daughters are being oppressed, and there is no power in our hands, and our fields and our vineyards belong to the nobles.
-- brenton: [missing]
+- brenton: And now our flesh is as the flesh of our brethren, our children are as their children: yet, behold, we are reducing our sons and our daughters to slavery, and some of our daughters are enslaved: and there is no power of our hands, for our fields and our vineyards belong to the nobles.
 
-### Nehemiah 15:6
+### Nehemiah 5:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I was very grieved when I heard their cry and these words.
-- brenton: [missing]
+- brenton: And I was much grieved as I heard their cry and these words.
 
-### Nehemiah 15:7
+### Nehemiah 5:7
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And my heart counseled within me, and I contended with the nobles and the rulers and said to them, Each man demands from his brother? You are demanding. And I set against them a great assembly.
-- brenton: [missing]
+- brenton: And my heart took counsel within me, and I contended against the nobles, and the princes, and I said to them, Should every man demand of his brother what ye demand? And I appointed against them a great assembly,
 
-### Nehemiah 15:8
+### Nehemiah 5:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I said to them, We bought our brothers the Ioudaioi, those sold to the nations, according to our will, and you sell your brothers? And they were silent and found no word.
-- brenton: [missing]
+- brenton: and I said to them, We of our free-will have redeemed our brethren the Jews that were sold to the Gentiles; and do ye sell your brethren? and shall they be delivered to us? And they were silent, and found no answer.
 
-### Nehemiah 15:9
+### Nehemiah 5:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
-- brenton: [missing]
+- brenton: And I said, The thing which ye do is not good; ye will not so walk in the fear of our God because of the reproach of the Gentiles our enemies.
 
-### Nehemiah 15:10
+### Nehemiah 5:10
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And my brothers and my acquaintances and I placed silver and grain among them. Let us leave off this demand.
-- brenton: [missing]
+- brenton: Both my brethren, and my acquaintances, and I, have lent them money and corn: let us now leave off this exaction.
 
-### Nehemiah 15:11
+### Nehemiah 5:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Return to them today their fields, their vineyards, their oliveyards, and their houses, and bring out to them from the silver and the grain and the wine and the oil.
-- brenton: [missing]
+- brenton: Restore to them, I pray, as at this day, their fields, and their vineyards, and their olive-yards, and their houses, and bring forth to them corn and wine and oil of the money.
 
-### Nehemiah 15:12
+### Nehemiah 5:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they said, We will give it back and will not ask from them; thus we will do as you say. And I called the priests and made them swear to do according to this word.
-- brenton: [missing]
+- brenton: And they said, We will restore, and we will not exact of them; we will do thus as thou sayest. Then I called the priests, and bound them by oath to do according to this word.
 
-### Nehemiah 15:13
+### Nehemiah 5:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I shook out my fold and said, Thus may God shake out every man who does not fulfill this word, from his house and from his labor, and thus may he be shaken out and empty. And all the assembly said, Amen, and they praised the Lord, and the people did this word.
-- brenton: [missing]
+- brenton: And I shook out my garment, and said, So may God shake out every man who shall not keep to this word, from his house, and from his labours, he shall be even thus shaken out, as an outcast and empty. And all the congregation said, Amen, and they praised the Lord: and the people did this thing.
 
-### Nehemiah 15:14
+### Nehemiah 5:14
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: From the day when he commanded me to be governor over them in land of Iouda, from twentieth year until thirty-second year of Arthasastha, twelve years, I and my brothers did not eat their exaction.
-- brenton: [missing]
+- brenton: From the day that he charged me to be their ruler in the land of Juda, from the twentieth year even to the thirty-second year of Arthasastha, twelve years, I and my brethren ate not provision extorted from them.
 
-### Nehemiah 15:15
+### Nehemiah 5:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: But the first exactions which were before me weighed heavily upon them, and they took from them in breads and in wine, at last forty didrachmas of silver, and those shaken out from them exercised power over the people. But I did not do so because of fear of God.
-- brenton: [missing]
+- brenton: But as for the former acts of extortion wherein those who were before me oppressed them, they even took of them their last money, forty didrachms for bread and wine; and the very outcasts of them exercised authority over the people: but I did not so, because of the fear of God.
 
-### Nehemiah 15:16
+### Nehemiah 5:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in work of this wall I did not take possession of field, I did not acquire any, and all gathered there were for the work.
-- brenton: [missing]
+- brenton: Also in the work of the wall I treated them not with rigor, I bought not land: and all that were gathered together came thither to the work.
 
-### Nehemiah 15:17
+### Nehemiah 5:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And one hundred fifty Ioudaioi men, and those coming to us from the nations around us, were at my table.
-- brenton: [missing]
+- brenton: And the Jews, to the number of a hundred and fifty men, besides those coming to us from the nations round about, were at my table.
 
-### Nehemiah 15:18
+### Nehemiah 5:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And what was made for one day was one calf, and six choice sheep, and a goat were made for me, and every ten days wine in abundance for all. Yet with these I did not seek bread of exaction, because service was heavy upon this people.
-- brenton: [missing]
+- brenton: And there came to me for one day one calf, and I had six choice sheep and a goat; and every ten days wine in abundance of all sorts: yet with these I required not the bread of extortion, because the bondage was heavy upon this people.
 
-### Nehemiah 15:19
+### Nehemiah 5:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Remember me, O God, for good, all that I did for this people.
-- brenton: [missing]
+- brenton: Remember me, O God, for good, in all that I have done to this people.
 
-### Nehemiah 16:1
+### Nehemiah 6:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be as Sanaballat and Tobia and Gesam the Arab and the rest of our enemies heard that I had built the wall and no breach was left in it, though until that time I had not set doors in the gates,
-- brenton: [missing]
+- brenton: Now it came to pass, when Sanaballat, and Tobias, and Gesam the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no opening left therein; (but hitherto I had not set up the doors on the gates;)
 
-### Nehemiah 16:2
+### Nehemiah 6:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sanaballat and Gesam sent to me saying, Come, let us gather together in the villages in plain of Ono. But they were reckoning to do evil to me.
-- brenton: [missing]
+- brenton: that Sanaballat and Gesam sent to me, saying, Come and let us meet together in the villages in the plain of Ono. But they were plotting to do me mischief.
 
-### Nehemiah 16:3
+### Nehemiah 6:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I sent messengers to them saying, Great work I do, and I will not be able to come down, lest the work stop. As soon as I complete it, I will come down to you.
-- brenton: [missing]
+- brenton: So I sent messengers to them, saying, I am doing a great work, and I shall not be able to come down, lest the work should cease: as soon as I shall have finished it, I will come down to you.
 
-### Nehemiah 16:4
+### Nehemiah 6:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they sent to me according to this word four times, and I sent them according to these things.
-- brenton: [missing]
+- brenton: And they sent to me again to this effect; and I sent them word accordingly.
 
-### Nehemiah 16:5
+### Nehemiah 6:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Sanaballat sent to me his servant and an open letter in his hand.
-- brenton: [missing]
+- brenton: Then Sanaballat sent his servant to me with an open letter in his hand.
 
-### Nehemiah 16:6
+### Nehemiah 6:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And written in it was, Among nations it was heard that you and the Ioudaioi are reckoning to rebel; because of this you build the wall and you will become king to them.
-- brenton: [missing]
+- brenton: And in it was written, It has been reported among the Gentiles that thou and the Jews are planning to revolt: therefore thou art building the wall, and thou wilt be a king to them.
 
-### Nehemiah 16:7
+### Nehemiah 6:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And besides these things, you appointed prophets for yourself so that you might sit in Ierousalem as king in Iouda, and now these words will be reported to the king. So now come, let us take counsel together.
-- brenton: [missing]
+- brenton: And moreover thou has appointed prophets to thyself, that thou mightest dwell in Jerusalem as a king over Juda: and now these words will be reported to the king. Now then, come, let us take counsel together.
 
-### Nehemiah 16:8
+### Nehemiah 6:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I sent to him saying, These words which you say did not happen, because from your own heart you invent them.
-- brenton: [missing]
+- brenton: And I sent to him, saying, It has not happened according to these words, even as thou sayest, for thou framest them falsely out of thy heart.
 
-### Nehemiah 16:9
+### Nehemiah 6:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: For all are frightening us, saying, Their hands will be loosened from this work, and it will not be done. And now I strengthened my hands.
-- brenton: [missing]
+- brenton: For all were trying to alarm us, saying, Their hands shall be weakened from this work, and it shall not be done. Now therefore I have strengthened my hands.
 
-### Nehemiah 16:10
+### Nehemiah 6:10
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I entered house of Semei son of Dalaia son of Meehtabel, and he, being confined, said, Let us gather in house of God, in its midst, and let us shut its doors, because they are coming by night to kill you.
-- brenton: [missing]
+- brenton: And I came into the house of Semei the son of Dalaia the Son of Metabeel, and he was shut up; and he said, Let us assemble together in the house of God, in the midst of it, and let us shut the doors of it; for they are coming by night to slay thee.
 
-### Nehemiah 16:11
+### Nehemiah 6:11
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I said, What kind of man will go into the house and live?
-- brenton: [missing]
+- brenton: And I said, Who is the man that shall enter into the house, that he may live?
 
-### Nehemiah 16:12
+### Nehemiah 6:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him.
-- brenton: [missing]
+- brenton: And I observed, and, behold, God had not sent him, for the prophecy was a fable devised against me:
 
-### Nehemiah 16:13
+### Nehemiah 6:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: They hired him against me so that I might fear and do thus and sin and become to them for an evil name, so that they might reproach me.
-- brenton: [missing]
+- brenton: and Tobias and Sanaballat had hired against me a multitude, that I might be frightened, and do this, and sin, and become to them an ill name, that they might reproach me.
 
-### Nehemiah 16:14
+### Nehemiah 6:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Remember, my God, Tobia and Sanaballat according to these deeds of his, and Noadia the prophet and the rest of the prophets who were frightening me.
-- brenton: [missing]
+- brenton: Remember, O God, Tobias and Sanaballat, according to these their deeds, and the prophetess Noadia, and the rest of the prophets who tried to alarm me.
 
-### Nehemiah 16:15
+### Nehemiah 6:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the wall was completed on twenty-fifth of Eloul, in fifty-two days.
-- brenton: [missing]
+- brenton: So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days.
 
-### Nehemiah 16:16
+### Nehemiah 6:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be when all our enemies heard and all nations around us feared, fear fell very greatly in their eyes, and they knew that this work came to completion from our God.
-- brenton: [missing]
+- brenton: And it came to pass, when all our enemies heard of it, that all the nations round about us feared, and great alarm fell upon them, and they knew that it was of our God that this work should be finished.
 
-### Nehemiah 16:17
+### Nehemiah 6:17
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in those days letters from many nobles of Iouda were going to Tobia, and those of Tobia were coming to them.
-- brenton: [missing]
+- brenton: And in those days letters came to Tobias from many nobles of Juda, and those of Tobias came to them.
 
-### Nehemiah 16:18
+### Nehemiah 6:18
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: For many in Iouda were under oath to him, because he was son-in-law of Sechenia son of Harae, and Ioanan his son had taken daughter of Mesoulam son of Barachia as wife.
-- brenton: [missing]
+- brenton: For many in Juda were bound to him by oath, because he was son-in-law of Sechenias the son of Herae; and Jonan his son had taken the daughter of Mesulam the son of Barachia to wife.
 
-### Nehemiah 16:19
+### Nehemiah 6:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they were speaking his words to me, and they were carrying my words out to him, and Tobias sent letters to frighten me.
-- brenton: [missing]
+- brenton: And they reported his words to me, and carried out my words to him: and Tobias sent letters to terrify me.
 
-### Nehemiah 17:1
+### Nehemiah 7:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be when the wall was built, and I set up the doors, that the gatekeepers and the singers and the Levites were appointed.
-- brenton: [missing]
+- brenton: And it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
 
-### Nehemiah 17:2
+### Nehemiah 7:2
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I commanded Hanani my brother and Hanania ruler of the citadel in Ierousalem, because he was as a truthful man and fearing God beyond many,
-- brenton: [missing]
+- brenton: that I gave charge to Ananias my brother, and Ananias the ruler of the palace, over Jerusalem: for he was a true man, and one that feared God beyond many.
 
-### Nehemiah 17:3
+### Nehemiah 7:3
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and I said to them, Gates of Ierousalem shall not be opened until the sun is hot, and while they are still keeping watch let the doors be shut and barred. And station guards from inhabitants of Ierousalem, each man in his watch and each man opposite his own house.
-- brenton: [missing]
+- brenton: And I said to them, The gates of Jerusalem shall not be opened till sunrise; and while they are still watching, let the doors be shut, and bolted; and set watches of them that dwell in Jerusalem, every man at his post, and every man over against his house.
 
-### Nehemiah 17:4
+### Nehemiah 7:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the city was wide and great, but the people in it were few, and no houses had been built.
-- brenton: [missing]
+- brenton: Now the city was wide and large; and the people were few in it, and the houses were not built.
 
-### Nehemiah 17:5
+### Nehemiah 7:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And God gave into my heart, and I gathered the nobles and the rulers and the people for enrollment, and I found book of enrollment of those who came up at first, and I found written in it:
-- brenton: [missing]
+- brenton: And God put it into my heart, and I gathered the nobles, and the rulers, and the people, into companies: and I found a register of the company that came up first, and I found written in it as follows:
 
-### Nehemiah 17:6
+### Nehemiah 7:6
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And these are sons of the province, those who came up from captivity of the exile whom Nabouchodonosor king of Babylon exiled, and they returned to Ierousalem and to Iouda, each man to his own city,
-- brenton: [missing]
+- brenton: Now these are the children of the country, that came up from captivity, of the number which Nabuchodonosor king of Babylon carried away, and they returned to Jerusalem and to Juda, every man to his city;
 
-### Nehemiah 17:7
+### Nehemiah 7:7
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: with Zorobabel and Iesou and Neemia, Azaria, Daemia, Naemani, Mardochaios, Balsan, Maspharath, Esdra, Bagoi, Naoum, Baana, Masphar. Men of people of Israel:
-- brenton: [missing]
+- brenton: with Zorobabel, and Jesus, and Neemia, Azaria, and Reelma, Naemani, Mardochaeus, Balsan, Maspharath, Esdra, Boguia, Inaum, Baana, Masphar, men of the people of Israel.
 
-### Nehemiah 17:8
+### Nehemiah 7:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Phoros: 2,172.
-- brenton: [missing]
+- brenton: The children of Phoros, two thousand one hundred and seventy-two.
 
-### Nehemiah 17:9
+### Nehemiah 7:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Saphatia: 372.
-- brenton: [missing]
+- brenton: The children of Saphatia, three hundred and seventy-two.
 
-### Nehemiah 17:10
+### Nehemiah 7:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Hara: 652.
-- brenton: [missing]
+- brenton: The children of Era, six hundred and fifty-two.
 
-### Nehemiah 17:11
+### Nehemiah 7:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Phaathmoab, to sons of Iesou and Ioab: 2,818.
-- brenton: [missing]
+- brenton: The children of Phaath Moab, with the children of Jesus and Joab, two thousand six hundred and eighteen.
 
-### Nehemiah 17:12
+### Nehemiah 7:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Ailam: 1,254.
-- brenton: [missing]
+- brenton: The children of Aelam, a thousand two hundred and fifty-four.
 
-### Nehemiah 17:13
+### Nehemiah 7:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Zathoua: 845.
-- brenton: [missing]
+- brenton: The children of Zathuia, eight hundred and forty-five.
 
-### Nehemiah 17:14
+### Nehemiah 7:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Zakkou: 760.
-- brenton: [missing]
+- brenton: The children of Zacchu, seven hundred and sixty.
 
-### Nehemiah 17:15
+### Nehemiah 7:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Banoui: 648.
-- brenton: [missing]
+- brenton: The children of Banui, six hundred and forty-eight.
 
-### Nehemiah 17:16
+### Nehemiah 7:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Bebi: 628.
-- brenton: [missing]
+- brenton: The children of Bebi, six hundred and twenty-eight.
 
-### Nehemiah 17:17
+### Nehemiah 7:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Asgad: 2,322.
-- brenton: [missing]
+- brenton: The children of Asgad, two thousand three hundred and twenty-two.
 
-### Nehemiah 17:18
+### Nehemiah 7:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Adenikam: 667.
-- brenton: [missing]
+- brenton: The children of Adonicam, six hundred and sixty-seven.
 
-### Nehemiah 17:19
+### Nehemiah 7:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Bagoi: 2,067.
-- brenton: [missing]
+- brenton: The children of Bagoi, two thousand and sixty-seven.
 
-### Nehemiah 17:20
+### Nehemiah 7:20
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Edin: 655.
-- brenton: [missing]
+- brenton: The children of Edin, six hundred and fifty-five.
 
-### Nehemiah 17:21
+### Nehemiah 7:21
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Ater, of Hezekia: 98.
-- brenton: [missing]
+- brenton: The children of Ater, the son of Ezekias, ninety-eight.
 
-### Nehemiah 17:22
+### Nehemiah 7:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Esam: 328.
-- brenton: [missing]
+- brenton: The children of Esam, three hundred and twenty-eight.
 
-### Nehemiah 17:23
+### Nehemiah 7:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Besi: 324.
-- brenton: [missing]
+- brenton: The children of Besei, three hundred and twenty-four.
 
-### Nehemiah 17:24
+### Nehemiah 7:24
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Ariph: 112.
-- brenton: [missing]
+- brenton: The children of Ariph, a hundred and twelve: the children of Asen, two hundred and twenty-three.
 
-### Nehemiah 17:25
+### Nehemiah 7:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Gabaon: 95.
-- brenton: [missing]
+- brenton: The children of Gabaon, ninety-five.
 
-### Nehemiah 17:26
+### Nehemiah 7:26
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Baithleem: 123. Sons of Netopha: 56.
-- brenton: [missing]
+- brenton: The children of Baethalem, a hundred and twenty-three: the children of Atopha, fifty-six.
 
-### Nehemiah 17:27
+### Nehemiah 7:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Anathoth: 128.
-- brenton: [missing]
+- brenton: The children of Anathoth, a hundred and twenty-eight.
 
-### Nehemiah 17:28
+### Nehemiah 7:28
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Bethasmoth: 42.
-- brenton: [missing]
+- brenton: The men of Bethasmoth, forty-two.
 
-### Nehemiah 17:29
+### Nehemiah 7:29
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Kariathiarim, Kaphira, and Beroth: 743.
-- brenton: [missing]
+- brenton: The men of Cariatharim, Caphira, and Beroth, seven hundred and forty-three.
 
-### Nehemiah 17:30
+### Nehemiah 7:30
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Arama and Gabaa: 621.
-- brenton: [missing]
+- brenton: The men of Arama and Gabaa, six hundred and twenty.
 
-### Nehemiah 17:31
+### Nehemiah 7:31
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Machemas: 122.
-- brenton: [missing]
+- brenton: The men of Machemas, a hundred and twenty-two.
 
-### Nehemiah 17:32
+### Nehemiah 7:32
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Bethel and Aia: 123.
-- brenton: [missing]
+- brenton: The men of Baethel and Ai, a hundred and twenty-three.
 
-### Nehemiah 17:33
+### Nehemiah 7:33
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Nabi-aar: 52.
-- brenton: [missing]
+- brenton: The men of Nabia, a hundred an fifty-two.
 
-### Nehemiah 17:34
+### Nehemiah 7:34
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Men of Elam-aar: 1,254.
-- brenton: [missing]
+- brenton: The men of Elamaar, one thousand two hundred and fifty-two.
 
-### Nehemiah 17:35
+### Nehemiah 7:35
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Heram: 320.
-- brenton: [missing]
+- brenton: The children of Eram, three hundred and twenty.
 
-### Nehemiah 17:36
+### Nehemiah 7:36
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Iericho: 345.
-- brenton: [missing]
+- brenton: The children of Jericho, three hundred and forty-five.
 
-### Nehemiah 17:37
+### Nehemiah 7:37
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Lod, Adid, and Ono: 721.
-- brenton: [missing]
+- brenton: The children of Lodadid and Ono, seven hundred and twenty-one.
 
-### Nehemiah 17:38
+### Nehemiah 7:38
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Sanaa: 3,930.
-- brenton: [missing]
+- brenton: The children of Sanana, three thousand nine hundred and thirty.
 
-### Nehemiah 17:39
+### Nehemiah 7:39
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The priests: sons of Iodae, of house of Iesou, 973.
-- brenton: [missing]
+- brenton: The priests; the sons of Jodae, pertaining to the house of Jesus, nine hundred and seventy-three.
 
-### Nehemiah 17:40
+### Nehemiah 7:40
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Emmer: 1,052.
-- brenton: [missing]
+- brenton: The children of Emmer, one thousand and fifty-two.
 
-### Nehemiah 17:41
+### Nehemiah 7:41
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Phassour: 1,247.
-- brenton: [missing]
+- brenton: The children of Phaseur, one thousand two hundred and forty-seven.
 
-### Nehemiah 17:42
+### Nehemiah 7:42
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Heram: 1,017.
-- brenton: [missing]
+- brenton: The children of Eram, a thousand and seventeen.
 
-### Nehemiah 17:43
+### Nehemiah 7:43
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The Levites: sons of Iesou, of Kadmiel, to sons of Odouia, 74.
-- brenton: [missing]
+- brenton: The Levites; the children of Jesus the son of Cadmiel, with the children of Uduia, seventy-four.
 
-### Nehemiah 17:44
+### Nehemiah 7:44
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The singers: sons of Asaph, 148.
-- brenton: [missing]
+- brenton: The singers; the children of Asaph, a hundred and forty-eight.
 
-### Nehemiah 17:45
+### Nehemiah 7:45
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabi, 138.
-- brenton: [missing]
+- brenton: The porters; the children of Salum, the children of Ater, the children of Telmon, the children of Acub, the children of Atita, the children of Sabi, a hundred and thirty-eight.
 
-### Nehemiah 17:46
+### Nehemiah 7:46
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The nethinim: sons of Seia, sons of Asipha, sons of Tabaoth,
-- brenton: [missing]
+- brenton: The Nathinim; the children of Sea, the children of Aspha, the children of Tabaoth,
 
-### Nehemiah 17:47
+### Nehemiah 7:47
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Kiras, sons of Souia, sons of Phadon,
-- brenton: [missing]
+- brenton: the children of Kiras, the children of Asuia, the children of Phadon,
 
-### Nehemiah 17:48
+### Nehemiah 7:48
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Labana, sons of Agaba, sons of Salami,
-- brenton: [missing]
+- brenton: the children of Labana, the children of Agaba, the children of Selmei,
 
-### Nehemiah 17:49
+### Nehemiah 7:49
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Anan, sons of Gadel, sons of Gaar,
-- brenton: [missing]
+- brenton: the children of Anan, the children of Gadel, the children of Gaar,
 
-### Nehemiah 17:50
+### Nehemiah 7:50
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Raaia, sons of Rason, sons of Nekoda,
-- brenton: [missing]
+- brenton: the children of Raaia, the children of Rasson, the children of Necoda,
 
-### Nehemiah 17:51
+### Nehemiah 7:51
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Gēzam, sons of Ozi, sons of Phese,
-- brenton: [missing]
+- brenton: the children of Gezam, the children of Ozi, the children of Phese,
 
-### Nehemiah 17:52
+### Nehemiah 7:52
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Bēsi, sons of Meinōm, sons of Nephōsasim,
-- brenton: [missing]
+- brenton: the children of Besi, the children of Meinon, the children of Nephosasi,
 
-### Nehemiah 17:53
+### Nehemiah 7:53
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Bakbouk, sons of Achipha, sons of Arour,
-- brenton: [missing]
+- brenton: the children of Bacbuc, the children of Achipha, the children of Arur,
 
-### Nehemiah 17:54
+### Nehemiah 7:54
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Basaloth, sons of Meida, sons of Adasan,
-- brenton: [missing]
+- brenton: the children of Basaloth, the children of Mida, the children of Adasan,
 
-### Nehemiah 17:55
+### Nehemiah 7:55
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Barkous, sons of Sisara, sons of Thema,
-- brenton: [missing]
+- brenton: the children of Barcue, the children of Sisarath, the children of Thema,
 
-### Nehemiah 17:56
+### Nehemiah 7:56
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Nisia, sons of Atipha.
-- brenton: [missing]
+- brenton: the children of Nisia, the children of Atipha.
 
-### Nehemiah 17:57
+### Nehemiah 7:57
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of servants of Salomon: sons of Souti, sons of Sapharath, sons of Pherida,
-- brenton: [missing]
+- brenton: The children of the servants of Solomon; the children of Sutei, the children of Sapharat, the children of Pherida,
 
-### Nehemiah 17:58
+### Nehemiah 7:58
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Ieala, sons of Dorkon, sons of Gadel,
-- brenton: [missing]
+- brenton: the children of Jelel, the children of Dorcon, the children of Gadael,
 
-### Nehemiah 17:59
+### Nehemiah 7:59
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Saphatia, sons of Etil, sons of Phacharath, sons of Sabaim, sons of Emim.
-- brenton: [missing]
+- brenton: the children of Saphatia, the children of Ettel, the children of Phacarath, the children of Sabaim, the children of Emim.
 
-### Nehemiah 17:60
+### Nehemiah 7:60
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: All the nethinim and sons of servants of Salomon: 392.
-- brenton: [missing]
+- brenton: All the Nathinim, and children of the servants of Solomon, were three hundred and ninety-two.
 
-### Nehemiah 17:61
+### Nehemiah 7:61
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And these came up from Thelmeleth, Aresa, Charoub, Heron, and Iemer, and they were not able to declare their father-houses and their seed, whether they were from Israel:
-- brenton: [missing]
+- brenton: And these went up from Thelmeleth, Thelaresa, Charub, Eron, Jemer: but they could not declare the houses of their families, or their seed, whether they were of Israel.
 
-### Nehemiah 17:62
+### Nehemiah 7:62
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: sons of Dalaia, sons of Tobia, sons of Nekoda: 642.
-- brenton: [missing]
+- brenton: The children of Dalaia, the children of Tobia, the children of Necoda, six hundred and forty-two.
 
-### Nehemiah 17:63
+### Nehemiah 7:63
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from the priests: sons of Ebia, sons of Akos, sons of Berzelli, because he took wives from daughters of Berzelli the Galaadite and was called by their name.
-- brenton: [missing]
+- brenton: And of the priests; the children of Ebia, the children of Acos, the children of Berzelli, for they took wives of the daughters of Berzelli the Galaadite, and they were called by their name.
 
-### Nehemiah 17:64
+### Nehemiah 7:64
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: These sought their writing of enrollment and it was not found, and they were excluded from the priesthood.
-- brenton: [missing]
+- brenton: These sought the pedigree of their company, and it was not found, and they were removed as polluted from the priesthood.
 
-### Nehemiah 17:65
+### Nehemiah 7:65
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Atharsatha said that they should not eat from the holy of holies until the priest might arise giving light.
-- brenton: [missing]
+- brenton: And the Athersastha said, that they should not eat of the most holy things, until a priest should stand up to give light.
 
-### Nehemiah 17:66
+### Nehemiah 7:66
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all the assembly together was forty-two thousand three hundred sixty,
-- brenton: [missing]
+- brenton: And all the congregation was about forty-two thousand three hundred and sixty,
 
-### Nehemiah 17:67
+### Nehemiah 7:67
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: besides their male slaves and female slaves, these being seven thousand three hundred thirty-seven, and singers and singing women, two hundred forty-five.
-- brenton: [missing]
+- brenton: besides their men-servants and their maid-servants: these were seven thousand three hundred and thirty seven: and the singing-men and singing-women, two hundred and forty-five.
 
-### Nehemiah 17:68
+### Nehemiah 7:68
 
 - importance: low
 - decisions: 0
@@ -114730,898 +110824,898 @@ Note:
 - fresh: Horses: 736. Mules: 245.
 - brenton: [missing]
 
-### Nehemiah 17:69
+### Nehemiah 7:69
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Camels: 435. Donkeys: 6,720.
-- brenton: [missing]
+- brenton: Two thousand seven hundred asses.
 
-### Nehemiah 17:70
+### Nehemiah 7:70
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from part of chiefs of father-houses they gave to the work. To Nehemias, for the treasury: one thousand gold pieces, fifty bowls, and thirty priestly tunics.
-- brenton: [missing]
+- brenton: And part of the heads of families gave into the treasury to Neemias for the work a thousand pieces of gold, fifty bowls, and thirty priests' garments.
 
-### Nehemiah 17:71
+### Nehemiah 7:71
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from chiefs of father-houses they gave to treasury of the work twenty thousand gold pieces and two thousand two hundred minas of silver.
-- brenton: [missing]
+- brenton: And some of the heads of families gave into the treasuries of the work, twenty thousand pieces of gold, and two thousand three hundred pounds of silver.
 
-### Nehemiah 17:72
+### Nehemiah 7:72
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the rest of the people gave twenty thousand gold pieces and two thousand two hundred minas of silver and sixty-seven priestly tunics.
-- brenton: [missing]
+- brenton: And the rest of the people gave twenty thousand pieces of gold, and two thousand two hundred pounds of silver, and sixty-seven priests' garments.
 
-### Nehemiah 17:73
+### Nehemiah 7:73
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the priests and the Levites and the gatekeepers and the singers and some from the people and the nethinim and all Israel settled in their cities. And the seventh month arrived, and sons of Israel were in their cities.
-- brenton: [missing]
+- brenton: And the priests, and Levites, and porters, and singers, and some of the people, and the Nathinim, and all Israel, dwelt in their cities.
 
-### Nehemiah 18:1
+### Nehemiah 8:1
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all the people were gathered as one man into the broad place before Water Gate, and they told Ezra the scribe to bring book of law of Moses which the Lord commanded to Israel.
-- brenton: [missing]
+- brenton: And the seventh month arrived, and the children of Israel were settled in their cities; and all the people were gathered as one man to the broad place before the water-gate, and they told Esdras the scribe to bring the book of the law of Moses, which the Lord commanded Israel.
 
-### Nehemiah 18:2
+### Nehemiah 8:2
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on first day of the seventh month.
-- brenton: [missing]
+- brenton: So Esdras the priest brought the law before the congregation both of men and women, and every one who had understanding was present to hearken, on the first day of the seventh month.
 
-### Nehemiah 18:3
+### Nehemiah 8:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And he read in it from the hour when the sun was giving light until middle of the day, before the men and the women, and they were understanding, and ears of all the people were toward book of the law.
-- brenton: [missing]
+- brenton: And he read in it from the time of sun-rise to the middle of the day, before the men and the women; and they understood it, and the ears of all the people were attentive to the book of the law.
 
-### Nehemiah 18:4
+### Nehemiah 8:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Ezra the scribe stood on a wooden platform, and standing beside him on his right were Mattathias and Samaias and Ananias and Ouria and Elkia and Maasaias, and on his left Phadaias and Misael and Melchias and Osam and Asabdana and Zacharias and Mosollam.
-- brenton: [missing]
+- brenton: And Esdras the scribe stood on a wooden stage, and there stood next to him Mattathias, and Samaeas, and Ananias, and Urias, and Chelcia, and Massia, on his right hand; and on his left Phadaeas, and Misael, and Melchias, and Asom, and Asabadma, and Zacharias, and Mesollam.
 
-### Nehemiah 18:5
+### Nehemiah 8:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Ezra opened the book before all the people, because he was above all the people, and it came to be when he opened it all the people stood.
-- brenton: [missing]
+- brenton: And Esdras opened the book before all the people, for he was above the people; and it came to pass when he had opened it, that all the people stood.
 
-### Nehemiah 18:6
+### Nehemiah 8:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Ezra blessed the Lord, the great God, and all the people answered and said, Amen, lifting up their hands. And they bowed and worshiped the Lord with face to the ground.
-- brenton: [missing]
+- brenton: And Esdras blessed the Lord, the great God: and all the people answered, and said, Amen, lifting up their hands: and they bowed down and worshipped the Lord with their face to the ground.
 
-### Nehemiah 18:7
+### Nehemiah 8:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Iesous and Banaias and Sarabia were causing the people to understand the law, and the people stood in their place.
-- brenton: [missing]
+- brenton: And Jesus and Banaias and Sarabias instructed the people in the law, and the people stood in their place.
 
-### Nehemiah 18:8
+### Nehemiah 8:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they read in book of law of God, and Ezra was teaching and distinguishing it by knowledge of the Lord, and the people understood in the reading.
-- brenton: [missing]
+- brenton: And they read in the book of the law of God, and Esdras taught, and instructed them distinctly in the knowledge of the Lord, and the people understood the law in the reading.
 
-### Nehemiah 18:9
+### Nehemiah 8:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
-- brenton: [missing]
+- brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-### Nehemiah 18:10
+### Nehemiah 8:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And he said to them, Go, eat fat things and drink sweet things and send portions to those having nothing, because the day is holy to our Lord, and do not fall away, because he is your strength.
-- brenton: [missing]
+- brenton: And the governor said to them, Go, eat the fat, and drink the sweet, and send portions to them that have nothing; for the day is holy to our Lord: and faint not, for the Lord is our strength.
 
-### Nehemiah 18:11
+### Nehemiah 8:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the Levites were silencing all the people, saying, Be silent, because the day is holy, and do not fall away.
-- brenton: [missing]
+- brenton: And the Levites caused all the people to be silent, saying, Be silent, for it is a holy day, and despond not.
 
-### Nehemiah 18:12
+### Nehemiah 8:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all the people went away to eat and drink and send portions and make great rejoicing, because they understood in the words which he made known to them.
-- brenton: [missing]
+- brenton: So all the people departed to eat, and to drink, and to send portions, and to make great mirth, for they understood the words which he made known to them.
 
-### Nehemiah 18:13
+### Nehemiah 8:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And on the second day chiefs of the fathers of all the people, the priests and the Levites, were gathered to Ezra the scribe, to gain insight into all words of the law.
-- brenton: [missing]
+- brenton: And on the second day the heads of families assembled with all the people, also the priests and Levites, to Esdras the scribe, to attend to all the words of the law.
 
-### Nehemiah 18:14
+### Nehemiah 8:14
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they found written in the law which the Lord commanded by Moses that sons of Israel should dwell in booths during the feast in the seventh month,
-- brenton: [missing]
+- brenton: And they found written in the law which the Lord commanded Moses, that the children of Israel should dwell in booths, in the feast in the seventh month:
 
-### Nehemiah 18:15
+### Nehemiah 8:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and that they should sound with trumpets in all their cities and in Ierousalem. And Ezra said, Go out to the mountain and bring leaves of olive and leaves of cypress woods and leaves of myrtle and leaves of palms and leaves of thick wood, to make booths according to what is written.
-- brenton: [missing]
+- brenton: and that they should sound with trumpets in all their cities, and in Jerusalem. And Esdras said, Go forth to the mountain, and bring branches of olive, and branches of cypress trees, and branches of myrtle, and branches of palm trees, and branches of every thick tree, to make booths, according to that which was written.
 
-### Nehemiah 18:16
+### Nehemiah 8:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in courts of house of God and in the broad places of the city, even to Gate of Ephraim.
-- brenton: [missing]
+- brenton: And the people went forth, and brought them, and made booths for themselves, each one upon his roof, and in their courts, and in the courts of the house of God, and in the streets of the city, and as far as the gate of Ephraim.
 
-### Nehemiah 18:17
+### Nehemiah 8:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all the assembly, those returned from captivity, made booths and sat in booths, for sons of Israel had not done thus from days of Iesous son of Naue until that day. And there was very great rejoicing.
-- brenton: [missing]
+- brenton: And all the congregation who had returned from the captivity, made booths, and dwelt in booths: for the children of Israel had not done so from the days of Jesus the son of Naue until that day: and there was great joy.
 
-### Nehemiah 18:18
+### Nehemiah 8:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And he read in book of law of God day by day, from first day until last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
-- brenton: [missing]
+- brenton: And Esdras read in the book of the law of God daily, from the first day even to the last day: and they kept the feast seven days; and on the eighth day a solemn assembly, according to the ordinance.
 
-### Nehemiah 19:1
+### Nehemiah 9:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And on twenty-fourth day of this month sons of Israel were gathered in fasting and in sackcloth.
-- brenton: [missing]
+- brenton: Now on the twenty-fourth day of this month the children of Israel assembled with fasting, and in sackcloths, and with ashes on their head.
 
-### Nehemiah 19:2
+### Nehemiah 9:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And sons of Israel were separated from every foreign son and stood and confessed their sins and lawless deeds of their fathers.
-- brenton: [missing]
+- brenton: And the children of Israel separated themselves from every stranger, and stood and confessed their sins, and the iniquities of their fathers.
 
-### Nehemiah 19:3
+### Nehemiah 9:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they stood at their standing place and read in book of law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
-- brenton: [missing]
+- brenton: And they stood in their place, and read in the book of the law of the Lord their god: and they confessed their sins to the Lord, and worshipped the Lord their God.
 
-### Nehemiah 19:4
+### Nehemiah 9:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And on the platform of the Levites stood Iesous and sons of Kadmiel, Sachania son of Sarabia, sons of Chanani, and they cried with a loud voice to the Lord their God.
-- brenton: [missing]
+- brenton: And there stood upon the stairs, of the Levites, Jesus, and the sons of Cadmiel, Sechenia the son of Sarabia, sons of Choneni; and they cried with a loud voice to the Lord their God.
 
-### Nehemiah 19:5
+### Nehemiah 9:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
-- brenton: [missing]
+- brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
 
-### Nehemiah 19:6
+### Nehemiah 9:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Ezra said, You are the one, Lord alone. You made heaven and heaven of heaven and all their array, the earth and all things in it, the seas and all things in them, and you give life to all, and armies of heaven worship you.
-- brenton: [missing]
+- brenton: And Esdras said, Thou art the only true Lord; thou madest the heaven, and the heaven of heavens, and all their array, the earth, and all things that are in it, the seas, and all things in them; and thou quickenest all things, and the hosts of heaven worship thee.
 
-### Nehemiah 19:7
+### Nehemiah 9:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: You are the Lord God. You chose Abram and brought him out from land of the Chaldeans and placed on him the name Abraam.
-- brenton: [missing]
+- brenton: Thou art the Lord God, thou didst choose Abram, and broughtest him out of the land of the Chaldeans, and gavest him the name of Abraam:
 
-### Nehemiah 19:8
+### Nehemiah 9:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you found his heart faithful before you and made covenant with him, to give to him land of the Canaanites and Hittites and Amorites and Perizzites and Iebousites and Gergesaites, and to his seed, and you established your words, because you are righteous.
-- brenton: [missing]
+- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
 
-### Nehemiah 19:9
+### Nehemiah 9:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you saw humiliation of our fathers in Egypt, and their cry you heard at Red Sea.
-- brenton: [missing]
+- brenton: And thou sawest the affliction of our fathers in Egypt, and thou heardest their cry at the Red Sea.
 
-### Nehemiah 19:10
+### Nehemiah 9:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you gave signs in Egypt against Pharaoh and all his servants and all the people of his land, because you knew that they acted proudly against them, and you made a name for yourself as this day.
-- brenton: [missing]
+- brenton: And thou shewedst signs and wonders in Egypt, on Pharao and all his servants, and on all the people of his land: for thou knowest that they behaved insolently against them: and thou madest thyself a name, as at this day.
 
-### Nehemiah 19:11
+### Nehemiah 9:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you split the sea before them, and they passed through middle of the sea on dry land, and their pursuers you threw into the deep like a stone in mighty water.
-- brenton: [missing]
+- brenton: And thou didst cleave the sea before them, and they passed through the midst of the sea on dry land; and thou didst cast into the deep them that were about to pursue them, as a stone in the mighty water.
 
-### Nehemiah 19:12
+### Nehemiah 9:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in pillar of cloud you guided them by day, and in pillar of fire by night, to enlighten for them the road in which they would go.
-- brenton: [missing]
+- brenton: And thou guidedst them by day by a pillar of cloud, and by night by a pillar of fire, to enlighten for them the way wherein they should walk.
 
-### Nehemiah 19:13
+### Nehemiah 9:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And upon Mount Sinai you came down and spoke to them from heaven and gave them straight judgments and laws of truth, good ordinances and commandments.
-- brenton: [missing]
+- brenton: Also thou camest down upon mount Sina, and thou spakest to them out of heaven, and gavest them right judgments, and laws of truth, ordinances, and good commandments.
 
-### Nehemiah 19:14
+### Nehemiah 9:14
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And your holy Sabbath you made known to them, and by hand of Moses your servant you commanded to them commandments and ordinances and law.
-- brenton: [missing]
+- brenton: And thou didst make known to them thy holy sabbath; thou didst enjoin upon them commandments, and ordinances, and a law, by the hand of thy servant Moses.
 
-### Nehemiah 19:15
+### Nehemiah 9:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And bread from heaven you gave to them for their hunger, and water from a rock you brought out for them for their thirst, and you told them to enter to inherit the land over which you stretched out your hand to give to them.
-- brenton: [missing]
+- brenton: And thou gavest them bread from heaven for their food, and thou broughtest them forth water from a rock for their thirst; and thou badest them go in to inherit the land over which thou stretchedst out thy hand to give it them.
 
-### Nehemiah 19:16
+### Nehemiah 9:16
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: But they and our fathers acted proudly and hardened their neck and did not hear your commandments.
-- brenton: [missing]
+- brenton: But they and our fathers behaved proudly, and hardened their neck, and did not hearken to thy commandments,
 
-### Nehemiah 19:17
+### Nehemiah 9:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they refused to hear and did not remember your wonders which you did with them, and they hardened their neck and gave a chief to return into their slavery in Egypt. But you are a God merciful and compassionate, long-suffering and abundant in mercy, and you did not forsake them.
-- brenton: [missing]
+- brenton: and refused to listen, and remembered not thy wonders which thou wroughtest with them; and they hardened their neck, and appointed a leader to return to their slavery in Egypt: but thou, O God, art merciful and compassionate, long-suffering, and abundant in mercy, and thou didst not forsake them.
 
-### Nehemiah 19:18
+### Nehemiah 9:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Even when they made for themselves a molten calf and said, These are your gods who brought us up from Egypt, and committed great provocations,
-- brenton: [missing]
+- brenton: And still farther they even made to themselves a molten calf, and said, These are the gods that brought us up out of Egypt: and they wrought great provocations.
 
-### Nehemiah 19:19
+### Nehemiah 9:19
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: you, in your many compassions, did not forsake them in the wilderness. Pillar of cloud did not turn away from them by day to guide them in the road, nor pillar of fire by night to enlighten them the road in which they would go.
-- brenton: [missing]
+- brenton: Yet thou in thy great compassions didst not forsake them in the wilderness: thou didst not turn away from them the pillar of the cloud by day, to guide them in the way, nor the pillar of fire by night, to enlighten for them the way wherein they should walk.
 
-### Nehemiah 19:20
+### Nehemiah 9:20
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And your good Spirit you gave to instruct them, and your manna you did not withhold from their mouth, and water you gave to them for their thirst.
-- brenton: [missing]
+- brenton: And thou gavest thy good Spirit to instruct them, and thou didst not withhold thy manna from their mouth, and gavest them water in their thirst.
 
-### Nehemiah 19:21
+### Nehemiah 9:21
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And forty years you sustained them in the wilderness. They did not lack. Their garments did not grow old, and their feet did not split.
-- brenton: [missing]
+- brenton: And thou didst sustain them forty years in the wilderness; thou didst not allow anything to fail them: their garments did not wax old, and their feet were not bruised.
 
-### Nehemiah 19:22
+### Nehemiah 9:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you gave to them kingdoms and peoples and divided them out to them, and they inherited land of Sihon king of Heshbon and land of Og king of Basan.
-- brenton: [missing]
+- brenton: Moreover, thou gavest them kingdoms, and didst divide nations to them: and they inherited the land of Seon king of Esebon, and the land of Og king of Basan.
 
-### Nehemiah 19:23
+### Nehemiah 9:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And their sons you multiplied like stars of heaven, and you brought them into the land which you told their fathers, and they inherited it.
-- brenton: [missing]
+- brenton: And thou didst multiply their children as the stars of heaven, and broughtest them into the land of which thou spokest to their fathers;
 
-### Nehemiah 19:24
+### Nehemiah 9:24
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you subdued before them inhabitants of land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
-- brenton: [missing]
+- brenton: And they inherited it: and thou didst destroy from before them the dwellers in the land of the Chananites, and thou gavest into their hands them and their kings, and the nations of the land, to do unto them as it pleased them.
 
-### Nehemiah 19:25
+### Nehemiah 9:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they seized lofty cities and inherited houses full of every good thing, hewn cisterns, vineyards and oliveyards and every edible tree in abundance. And they ate and were filled and grew fat and luxuriated in your great goodness.
-- brenton: [missing]
+- brenton: And they took lofty cities, and inherited houses full of all good things, wells dug, vineyards, and oliveyards, and every fruit tree in abundance: so they ate, and were filled, and grew fat, and rioted in thy great goodness.
 
-### Nehemiah 19:26
+### Nehemiah 9:26
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they changed and turned away from you and cast your law behind their body, and your prophets they killed, the ones who testified among them to turn them back to you, and they committed great provocations.
-- brenton: [missing]
+- brenton: But they turned, and revolted from thee, and cast thy law behind their backs; and they slew thy prophets, who testified against them to turn them back to thee, and they wrought great provocations.
 
-### Nehemiah 19:27
+### Nehemiah 9:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them.
-- brenton: [missing]
+- brenton: Then thou gavest them into the hand of them that afflicted them, and they did afflict them: and they cried to thee in the time of their affliction, and thou didst hear them from thy heaven, and in thy great compassions gavest them deliverers, and didst save them from the hand of them that afflicted them.
 
-### Nehemiah 19:28
+### Nehemiah 9:28
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And when they rested, they turned again to do evil before you, and you forsook them into hands of their enemies, and they ruled over them. And they cried out to you again, and you from heaven heard and rescued them in your many compassions.
-- brenton: [missing]
+- brenton: But when they rested, they did evil again before thee: so thou leftest them in the hands of their enemies, and they ruled over them: and they cried again to thee, and thou heardest them from heaven, and didst deliver them in thy great compassions.
 
-### Nehemiah 19:29
+### Nehemiah 9:29
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you testified to them to turn them back to your law, but they did not hear. Instead, in your commandments and in your judgments they sinned, which if a man does he will live in them. And they gave a stubborn back and hardened their neck and did not hear.
-- brenton: [missing]
+- brenton: And thou didst testify against them, to bring them back to thy law: but they hearkened not, but sinned against thy commandments and thy judgments, which if a man do, he shall live in them; and they turned their back, and hardened their neck, and heard not.
 
-### Nehemiah 19:30
+### Nehemiah 9:30
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you drew over them many years and testified to them by your Spirit in hand of your prophets, and they gave no ear, and you gave them into hand of peoples of the land.
-- brenton: [missing]
+- brenton: Yet thou didst bear long with them many years, and didst testify to them by thy Spirit by the hand of thy prophets: but they hearkened not; so thou gavest them into the hand of the nations of the land.
 
-### Nehemiah 19:31
+### Nehemiah 9:31
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: But you, in your many compassions, did not make an end of them and did not forsake them, because strong and merciful and compassionate you are.
-- brenton: [missing]
+- brenton: But thou in thy many mercies didst not appoint them to destruction, and didst not forsake them; for thou art strong, and merciful, and pitiful.
 
-### Nehemiah 19:32
+### Nehemiah 9:32
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And now, our God, strong, great, mighty, and fearful, keeping your covenant and your mercy, let not all the toil grow little before you, which found us and our kings and our rulers and our priests and our prophets and our fathers and all your people, from days of kings of Assour until this day.
-- brenton: [missing]
+- brenton: And now, O our God, the powerful, the great, the mighty, and the terrible, keeping thy covenant and thy mercy, let not all the trouble seem little in thy sight which has come upon us, and our kings, and our princes, and our priests, and our prophets, and our fathers, and upon all thy people, from the days of the kings of Assur even to this day.
 
-### Nehemiah 19:33
+### Nehemiah 9:33
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And you are righteous over all things coming upon us, because you did truth, and we sinned.
-- brenton: [missing]
+- brenton: But thou art righteous in all the things that come upon us; for thou hast wrought faithfully, but we have greatly sinned.
 
-### Nehemiah 19:34
+### Nehemiah 9:34
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And our kings and our rulers and our priests and our fathers did not do your law and did not pay attention to your commandments and your testimonies with which you testified to them.
-- brenton: [missing]
+- brenton: And our kings, and our princes, and our priests, and our fathers, have not performed thy law, and have not given heed to thy commandments, and have not kept thy testimonies which thou didst testify to them.
 
-### Nehemiah 19:35
+### Nehemiah 9:35
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they in your kingdom and in your great goodness which you gave to them, and in the broad and fat land which you gave before them, did not serve you and did not turn from their evil practices.
-- brenton: [missing]
+- brenton: And they did not serve thee in thy kingdom, and in thy great goodness which thou gavest to them, and in the large and fat land which thou didst furnish before them, and they turned not from their evil devices.
 
-### Nehemiah 19:36
+### Nehemiah 9:36
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Behold, we are slaves today, and the land which you gave to our fathers to eat its fruit,
-- brenton: [missing]
+- brenton: Behold, we are servants this day, and as for the land which thou gavest to our fathers to eat the fruit of it and the good things of it, behold, we are servants upon it:
 
-### Nehemiah 19:37
+### Nehemiah 9:37
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: belongs to kings whom you set over us because of our sins, and over our bodies they rule, and over our cattle as is pleasing to them, and we are in great affliction.
-- brenton: [missing]
+- brenton: and its produce is abundant for the kings whom thou didst appoint over us because of our sins; and they have dominion over our bodies, and over our cattle, as it pleases them, and we are in great affliction.
 
-### Nehemiah 20:1
+### Nehemiah 10:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in all these things we are making a faithful covenant and writing it, and all our rulers, our Levites, and our priests are sealing it.
-- brenton: [missing]
+- brenton: And over them that sealed were Neemias the Artasastha, son of Achalia, and Zedekias,
 
-### Nehemiah 20:2
+### Nehemiah 10:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And among the sealers: Nehemias son of Achalia, and Sedekias,
-- brenton: [missing]
+- brenton: the son of Araea, and Azaria, and Jeremia,
 
-### Nehemiah 20:3
+### Nehemiah 10:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Seraia, Azaria, and Ieremia,
-- brenton: [missing]
+- brenton: Phasur, Amaria, Melchia,
 
-### Nehemiah 20:4
+### Nehemiah 10:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Phassour, Amaria, Melchia,
-- brenton: [missing]
+- brenton: Attus, Sebani, Maluch,
 
-### Nehemiah 20:5
+### Nehemiah 10:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Atous, Sebani, Mallouch,
-- brenton: [missing]
+- brenton: Iram, Meramoth, Abdia,
 
-### Nehemiah 20:6
+### Nehemiah 10:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Iram, Meramoth, Abdia,
-- brenton: [missing]
+- brenton: Daniel, Gannathon, Baruch,
 
-### Nehemiah 20:7
+### Nehemiah 10:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Daniel, Ganathon, Barouch,
-- brenton: [missing]
+- brenton: Mesulam, Abia, Miamin,
 
-### Nehemiah 20:8
+### Nehemiah 10:8
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Mesoulam, Abia, Miamin,
-- brenton: [missing]
+- brenton: Maazia, Belgai, Samaia; these were priests.
 
-### Nehemiah 20:9
+### Nehemiah 10:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Maazia, Belgai, Samaia. These were priests.
-- brenton: [missing]
+- brenton: And the Levites; Jesus the son of Azania, Banaiu of the sons of Enadad, Cadmiel
 
-### Nehemiah 20:10
+### Nehemiah 10:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the Levites: Iesous son of Azania, Banaiou from sons of Enadad, Kadmiel,
-- brenton: [missing]
+- brenton: and his brethren, Sabania, Oduia, Calitan, Phelia, Anan,
 
-### Nehemiah 20:11
+### Nehemiah 10:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and his brothers: Sabania, Odouia, Kalita, Pheleia, Anan,
-- brenton: [missing]
+- brenton: Micha, Roob, Asebias,
 
-### Nehemiah 20:12
+### Nehemiah 10:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Micha, Roob, Esebias,
-- brenton: [missing]
+- brenton: Zacchor, Sarabia, Sebania,
 
-### Nehemiah 20:13
+### Nehemiah 10:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Zachor, Sarabia, Sebania,
-- brenton: [missing]
+- brenton: Odum, the sons of Banuae.
 
-### Nehemiah 20:14
+### Nehemiah 10:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Odouia, sons of Banounai.
-- brenton: [missing]
+- brenton: The heads of the people; Phoros, Phaath Moab, Elam, Zathuia,
 
-### Nehemiah 20:15
+### Nehemiah 10:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Rulers of the people: Phoros, Phaathmoab, Elam, Zathouia, sons of
-- brenton: [missing]
+- brenton: the sons of Bani, Asgad, Bebai,
 
-### Nehemiah 20:16
+### Nehemiah 10:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Bani, Asgad, Bēbai,
-- brenton: [missing]
+- brenton: Adania, Bagoi, Hedin
 
-### Nehemiah 20:17
+### Nehemiah 10:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Edania, Bagoi, Edin,
-- brenton: [missing]
+- brenton: Ater, Ezekia, Azur,
 
-### Nehemiah 20:18
+### Nehemiah 10:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Ater, Ezekia, Azour,
-- brenton: [missing]
+- brenton: Oduia, Esam, Besi,
 
-### Nehemiah 20:19
+### Nehemiah 10:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Odouia, Esam, Bēsi,
-- brenton: [missing]
+- brenton: Ariph, Anathoth, Nobai,
 
-### Nehemiah 20:20
+### Nehemiah 10:20
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Ariph, Anathoth, Nōbai,
-- brenton: [missing]
+- brenton: Megaphes, Mesullam, Ezir,
 
-### Nehemiah 20:21
+### Nehemiah 10:21
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Magaphēs, Mesoulam, Hezir,
-- brenton: [missing]
+- brenton: Mesozebel, Saduc, Jeddua,
 
-### Nehemiah 20:22
+### Nehemiah 10:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Mesōzebel, Saddouk, Ieddoua,
-- brenton: [missing]
+- brenton: Phaltia, Anan, Anaea,
 
-### Nehemiah 20:23
+### Nehemiah 10:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Phaltia, Anan, Anaia,
-- brenton: [missing]
+- brenton: Osee, Anania, Asub,
 
-### Nehemiah 20:24
+### Nehemiah 10:24
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Osēe, Anania, Asoub,
-- brenton: [missing]
+- brenton: Aloes, Phalai, Sobec,
 
-### Nehemiah 20:25
+### Nehemiah 10:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Alōēs, Phalai, Sōbēk,
-- brenton: [missing]
+- brenton: Reum, Essabana, Maasia,
 
-### Nehemiah 20:26
+### Nehemiah 10:26
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Raoum, Esabana, Maasaia,
-- brenton: [missing]
+- brenton: and Aia, Aenan, Enam,
 
-### Nehemiah 20:27
+### Nehemiah 10:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Aia, Ainam, Anan,
-- brenton: [missing]
+- brenton: Maluch, Eram, Baana.
 
-### Nehemiah 20:28
+### Nehemiah 10:28
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Mallouch, Heram, Baana.
-- brenton: [missing]
+- brenton: And the rest of the people, the priests, the Levites, the porters, the singers, the Nathinim, and every one who drew off from the nations of the land to the law of God, their wives, their sons, their daughters, every one who had knowledge and understanding,
 
-### Nehemiah 20:29
+### Nehemiah 10:29
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
-- brenton: [missing]
+- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
 
-### Nehemiah 20:30
+### Nehemiah 10:30
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
-- brenton: [missing]
+- brenton: and that we will not, they said,give our daughters to the people of the land, nor will we take their daughters to our sons.
 
-### Nehemiah 20:31
+### Nehemiah 10:31
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and that we would not give our daughters to peoples of the land and would not take their daughters for our sons,
-- brenton: [missing]
+- brenton: And as for the people of the land who bring wares and all manner of merchandise to sell on the sabbath-day, we will not buy of them on the sabbath or on the holy day: and we will leave the seventh year, and the exaction of every debt.
 
-### Nehemiah 20:32
+### Nehemiah 10:32
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and that from peoples of the land bringing wares and every merchandise on Sabbath day to sell, we would not buy from them on Sabbath and on holy day, and we would leave the seventh year and demand of every hand.
-- brenton: [missing]
+- brenton: And we will impose ordinances upon ourselves, to levy on ourselves the third part of a didrachm yearly for the service of the house of our God;
 
-### Nehemiah 20:33
+### Nehemiah 10:33
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And we will set commandments upon ourselves, to give upon ourselves a third of a didrachma yearly for service of house of our God,
-- brenton: [missing]
+- brenton: the shewbread, and the continual meat-offering, and for the continual whole-burnt-offering, of the sabbaths, of the new moon, for the feast, and for the holy things, and the sin-offerings, to make atonement for Israel, and for the works of the house of our God.
 
-### Nehemiah 20:34
+### Nehemiah 10:34
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
-- brenton: [missing]
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
-### Nehemiah 20:35
+### Nehemiah 10:35
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into house of our God, to house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
-- brenton: [missing]
+- brenton: and to bring the first-fruits of our land, and the first-fruits of the fruit of every tree, year by year, into the house of the Lord:
 
-### Nehemiah 20:36
+### Nehemiah 10:36
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord,
-- brenton: [missing]
+- brenton: the first-born of our sons, and of our cattle, as it is written in the law, and the first-born of our herds and of our flocks, to bring to the house of our God, for the priests that minister in the house of our God.
 
-### Nehemiah 20:37
+### Nehemiah 10:37
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and the firstborn of our sons and our cattle as written in the law, and firstborn of our cattle and our flocks, to bring into house of our God, to the priests ministering in house of our God,
-- brenton: [missing]
+- brenton: And the first-fruits of our corn, and the fruit of every tree, of wine, and of oil, will we bring to the priests to the treasury of the house of God; and a tithe of our land to the Levites: for the Levites themselves shall receive tithes in all the cities of the land we cultivate.
 
-### Nehemiah 20:38
+### Nehemiah 10:38
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and the firstfruit of our grains and fruit of every tree, wine and oil, we will bring to the priests into treasury-room of house of God, and tithe of our land to the Levites, and they, the Levites, are tithing in all cities of our service.
-- brenton: [missing]
+- brenton: And the priest the son of Aaron shall be with the Levites in the tithe of the Levite: and the Levites shall bring up the tenth part of their tithe to the house of our God, into the treasuries of the house of God.
 
-### Nehemiah 20:39
+### Nehemiah 10:39
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And priest son of Aaron shall be with the Levite in tithe of the Levite, and the Levites shall bring up tithe of the tithe into house of our God, into the treasury-rooms, into house of God.
-- brenton: [missing]
+- brenton: For the children of Israel and the children of Levi shall bring into the treasuries the first-fruits of the corn, and wine, and oil; and there are the holy vessels, and the priests, and the ministers, and the porters, and the singers: and we will not forsake the house of our God.
 
-### Nehemiah 20:40
+### Nehemiah 10:40
 
 - importance: low
 - decisions: 0
@@ -115630,556 +111724,556 @@ Note:
 - fresh: For into the treasuries sons of Israel and sons of Levi will bring the firstfruits of the grain and the wine and the oil, and there are the holy vessels and the ministering priests and the gatekeepers and the singers, and we will not forsake house of our God.
 - brenton: [missing]
 
-### Nehemiah 21:1
+### Nehemiah 11:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And rulers of the people settled in Ierousalem, and the rest of the people cast lots to bring one of ten to settle in Ierousalem, the holy city, and nine parts in the cities.
-- brenton: [missing]
+- brenton: And the chiefs of the people dwelt in Jerusalem: and the rest of the people cast lots, to bring one of every ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
 
-### Nehemiah 21:2
+### Nehemiah 11:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the people blessed all the men freely choosing to settle in Ierousalem.
-- brenton: [missing]
+- brenton: And the people blessed all the men that volunteered to dwell in Jerusalem.
 
-### Nehemiah 21:3
+### Nehemiah 11:3
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And these are rulers of the province who settled in Ierousalem, while in cities of Iouda each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Salomon.
-- brenton: [missing]
+- brenton: Now these are the chiefs of the province who dwelt in Jerusalem, and in the cities of Juda; every man dwelt in his possession in their cities: Israel, the priests, and the Levites, and the Nathinim, and the children of the servants of Solomon.
 
-### Nehemiah 21:4
+### Nehemiah 11:4
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in Ierousalem settled some from sons of Iouda and some from sons of Beniamin. From sons of Iouda: Athaia son of Azia, son of Zacharia, son of Amaria, son of Saphatia, son of Maleleel, from sons of Phares,
-- brenton: [missing]
+- brenton: And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin. Of the children of Juda; Athaia son of Azia, the son of Zacharia, the son of Samaria, the son of Saphatia, the son of Maleleel, and some of the sons of Phares;
 
-### Nehemiah 21:5
+### Nehemiah 11:5
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Maasia son of Barouch, son of Chalaza, son of Ozia, son of Adaia, son of Ioirib, son of Thēzia, son of the Sēlōnite.
-- brenton: [missing]
+- brenton: and Maasia son of Baruch, son of Chalaza, son of Ozia, son of Adaia, son of Joarib, son of Zacharias, son of Seloni.
 
-### Nehemiah 21:6
+### Nehemiah 11:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: All sons of Phares settling in Ierousalem: four hundred sixty-eight mighty men.
-- brenton: [missing]
+- brenton: All the sons of Phares who dwelt in Jerusalem were four hundred and sixty-eight men of might.
 
-### Nehemiah 21:7
+### Nehemiah 11:7
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And these are sons of Beniamin: Sēlō son of Mesoulam, son of Iōad, son of Phadaia, son of Kōlia, son of Masaia, son of Aithiēl, son of Iesia.
-- brenton: [missing]
+- brenton: And these were the children of Benjamin; Selo son of Mesulam, son of Joad, son of Phadaia, son of Coleia, son of Maasias, son of Ethiel, son of Jesia.
 
-### Nehemiah 21:8
+### Nehemiah 11:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And after him: Gēbi, Sēli, nine hundred twenty-eight.
-- brenton: [missing]
+- brenton: And after him Gebe, Seli, nine hundred and twenty-eight.
 
-### Nehemiah 21:9
+### Nehemiah 11:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Iōēl son of Zechri was overseer over them, and Ioudas son of Asana was second over the city.
-- brenton: [missing]
+- brenton: And Joel son of Zechri was overseer over them: and Juda son of Asana was second in the city.
 
-### Nehemiah 21:10
+### Nehemiah 11:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: From the priests: Iadaia son of Iōirib, Iachin,
-- brenton: [missing]
+- brenton: Of the priests: both Jadia son of Joarib, and Jachin.
 
-### Nehemiah 21:11
+### Nehemiah 11:11
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Saraia son of Elkia, son of Mesoulam, son of Saddouk, son of Mariōth, son of Aitōb, opposite house of God,
-- brenton: [missing]
+- brenton: Saraia, son of Elchia, son of Mesulam, son of Sadduc, son of Marioth, son of Aetoth, was over the house of God.
 
-### Nehemiah 21:12
+### Nehemiah 11:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and their brothers doing work of the house: Amasi son of Zacharia, son of Phassour, son of Melchia,
-- brenton: [missing]
+- brenton: And their brethren doing the work of the house were eight hundred and twenty-two: and Adaia son of Jeroam, son of Phalalia, son of Amasi, son of Zacharia, son of Phassur, son of Melchia,
 
-### Nehemiah 21:13
+### Nehemiah 11:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: heads of fathers: two hundred forty-two. And Amessai son of Esdriēl,
-- brenton: [missing]
+- brenton: and his brethren, chiefs of families, two hundred and forty-two: and Amasia son of Esdriel, son of Mesarimith, son of Emmer,
 
-### Nehemiah 21:14
+### Nehemiah 11:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and his brothers, mighty men of battle: one hundred twenty-eight, and their overseer was Badiēl.
-- brenton: [missing]
+- brenton: and his brethren, mighty men of war, a hundred and twenty-eight: and their overseer was Badiel son of one of the great men.
 
-### Nehemiah 21:15
+### Nehemiah 11:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from the Levites: Samaia son of Asoub, son of Ezri,
-- brenton: [missing]
+- brenton: And of the Levites; Samaia, son of Esricam,
 
-### Nehemiah 21:17
+### Nehemiah 11:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Mathania son of Micha and Ōbēd son of Samoui,
-- brenton: [missing]
+- brenton: Matthanias son of Micha, and Jobeb son of Samui,
 
-### Nehemiah 21:18
+### Nehemiah 11:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: two hundred eighty-four.
-- brenton: [missing]
+- brenton: two hundred and eighty-four.
 
-### Nehemiah 21:19
+### Nehemiah 11:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the gatekeepers: Akoub, Telamin, and their brothers: one hundred seventy-two.
-- brenton: [missing]
+- brenton: And the porters; Acub, Telamin, and their brethren, a hundred and seventy-two.
 
-### Nehemiah 21:22
+### Nehemiah 11:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And overseer of the Levites was son of Bani, Ozi, son of Asabia, son of Micha, from sons of Asaph the singers, over against work of house of God.
-- brenton: [missing]
+- brenton: And the overseer of the Levites was the son of Bani, son of Ozi, son of Asabia, the son of Micha. Of the sons of Asaph the singers some were over the house of God,
 
-### Nehemiah 21:23
+### Nehemiah 11:23
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: For command of the king was upon them.
-- brenton: [missing]
+- brenton: For so was the king's commandment concerning them.
 
-### Nehemiah 21:24
+### Nehemiah 11:24
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Pathaia son of Basēza was at hand of the king for every matter of the people.
-- brenton: [missing]
+- brenton: And Phathaia son of Baseza was in attendance on the king in every matter for the people,
 
-### Nehemiah 21:25
+### Nehemiah 11:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And toward the farmsteads in their field, some from sons of Iouda settled in Kariatharbok
-- brenton: [missing]
+- brenton: and with regard to villages in their country district: and some of the children of Juda dwelt in Cariatharboc,
 
-### Nehemiah 21:26
+### Nehemiah 11:26
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and in Iēsou
-- brenton: [missing]
+- brenton: and in Jesu,
 
-### Nehemiah 21:27
+### Nehemiah 11:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and in Beērsabee,
-- brenton: [missing]
+- brenton: and in Bersabee:
 
-### Nehemiah 21:30
+### Nehemiah 11:30
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and their farmsteads, Lachis and its fields, and they camped in Beērsabee.
-- brenton: [missing]
+- brenton: And their villages were Lachis and her hands: and they pitched their tents in Bersabee.
 
-### Nehemiah 21:31
+### Nehemiah 11:31
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And sons of Beniamin settled from Gaba, Machamas,
-- brenton: [missing]
+- brenton: And the children of Benjamin dwelt from Gabaa to Machmas.
 
-### Nehemiah 21:36
+### Nehemiah 11:36
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from the Levites, divisions of Iouda were for Beniamin.
-- brenton: [missing]
+- brenton: And of the Levites there were divisions to Juda and to Benjamin.
 
-### Nehemiah 22:1
+### Nehemiah 12:1
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And these are the priests and the Levites who came up with Zorobabel son of Salathiel and Iesou: Saraia, Iermia, Esdra,
-- brenton: [missing]
+- brenton: Now these are the priests and the Levites that went up with Zorobabel the son of Salathiel and Jesus: Saraia, Jeremia, Esdra,
 
-### Nehemiah 22:2
+### Nehemiah 12:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Amaria, Mallouch,
-- brenton: [missing]
+- brenton: Amaria, Maluch,
 
-### Nehemiah 22:3
+### Nehemiah 12:3
 
-- importance: low
+- importance: none
 - decisions: 0
 - footnotes: 0
-- same_normalized: no
+- same_normalized: yes
 - fresh: Sechenia,
-- brenton: [missing]
+- brenton: Sechenia.
 
-### Nehemiah 22:7
+### Nehemiah 12:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: These were leaders of the priests and their brothers in days of Iesou.
-- brenton: [missing]
+- brenton: These were the chiefs of the priests, and their brethren in the days of Jesus.
 
-### Nehemiah 22:8
+### Nehemiah 12:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the Levites: Iesou, Banoui, Kadmiel, Sarabia, Iouda, Machania, over the hands, he and his brothers,
-- brenton: [missing]
+- brenton: And the Levites were, Jesus, Banui, Cadmiel, Sarabia, Jodae, Matthania: he was over the bands,
 
-### Nehemiah 22:9
+### Nehemiah 12:9
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: for the courses.
-- brenton: [missing]
+- brenton: and his brethren were appointed to the daily courses.
 
-### Nehemiah 22:10
+### Nehemiah 12:10
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And Iesou begot Iōakim, and Iōakim begot Eliasib, and Eliasib begot Iōdae,
-- brenton: [missing]
+- brenton: And Jesus begot Joakim, and Joakim begot Eliasib, and Eliasib begot Jodae,
 
-### Nehemiah 22:11
+### Nehemiah 12:11
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Iōdae begot Ionathan, and Ionathan begot Iadou.
-- brenton: [missing]
+- brenton: and Jodae begot Jonathan, and Jonathan begot Jadu.
 
-### Nehemiah 22:12
+### Nehemiah 12:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in days of Iōakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
-- brenton: [missing]
+- brenton: And in the days of Joakim, his brethren the priests and the heads of families were, belonging to Saraia, Amaria; to Jeremia, Anania;
 
-### Nehemiah 22:13
+### Nehemiah 12:13
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Esdra, Mesoulam; to Amaria, Iōanan;
-- brenton: [missing]
+- brenton: to Esdra, Mesulam; to Amaria, Joanan;
 
-### Nehemiah 22:14
+### Nehemiah 12:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Mallouch, Ionathan; to Sechenia, Iōsēph;
-- brenton: [missing]
+- brenton: to Amaluch, Jonathan; to Sechenia, Joseph;
 
-### Nehemiah 22:15
+### Nehemiah 12:15
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Arem, Adnas; to Mariōth, Elkai;
-- brenton: [missing]
+- brenton: to Are, Mannas; to Marioth, Elcai;
 
-### Nehemiah 22:16
+### Nehemiah 12:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Addai, Zacharias; to Ganathōn, Mosollam;
-- brenton: [missing]
+- brenton: to Adadai, Zacharia; to Ganathoth, Mesolam;
 
-### Nehemiah 22:17
+### Nehemiah 12:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Abia, Zechri; to Beniamin, in times; to Phēlti,
-- brenton: [missing]
+- brenton: to Abia, Zechri; to Miamin, Maadai; to Pheleti, one;
 
-### Nehemiah 22:18
+### Nehemiah 12:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Balga, Samoue; to Semeia, Ionathan;
-- brenton: [missing]
+- brenton: to Balgas, Samue; to Semia, Jonathan;
 
-### Nehemiah 22:19
+### Nehemiah 12:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Iōiarib, Maththanai; to Idia, Ozi;
-- brenton: [missing]
+- brenton: to Joarib, Matthanai; to Edio, Ozi;
 
-### Nehemiah 22:20
+### Nehemiah 12:20
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Sallai, Kallai; to Amouk, Abed;
-- brenton: [missing]
+- brenton: to Salai, Callai; to Amec, Abed;
 
-### Nehemiah 22:21
+### Nehemiah 12:21
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: to Elkia, Asabias; to Iedeiou, Nathanael.
-- brenton: [missing]
+- brenton: to Elkia, Asabias; to Jedeiu, Nathanael.
 
-### Nehemiah 22:22
+### Nehemiah 12:22
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: The Levites in days of Eliasib, Iōada, Iōanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
-- brenton: [missing]
+- brenton: The Levites in the days of Eliasib, Joada, and Joa, and Joanan, and Idua, were recorded heads of families: also the priests, in the reign of Darius the Persian.
 
-### Nehemiah 22:23
+### Nehemiah 12:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Sons of Levi, heads of fathers, were written in book of words of the days until days of Iōanan son of Elisoub.
-- brenton: [missing]
+- brenton: And the sons of Levi, heads of families, were written in the book of the chronicles, even to the days of Joanan son of Elisue.
 
-### Nehemiah 22:24
+### Nehemiah 12:24
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And leaders of the Levites were Asabia and Sarabia and Iesou and sons of Kadmiel, and their brothers opposite them, to hymn and praise by command of David man of God, course by course.
-- brenton: [missing]
+- brenton: And the heads of the Levites were Asabia, and Sarabia, and Jesu: and the sons of Cadmiel, and their brethren over against them, were to sing hymns of praise, according to the commandment of David the man of God, course by course.
 
-### Nehemiah 22:25
+### Nehemiah 12:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: When I was gathering the gatekeepers.
-- brenton: [missing]
+- brenton: When I gathered the porters,
 
-### Nehemiah 22:26
+### Nehemiah 12:26
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: In days of Iōakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
-- brenton: [missing]
+- brenton: it was in the days of Joakim son of Jesus, son of Josedec, and in the days of Neemia: and Esdras the priest was scribe.
 
-### Nehemiah 22:27
+### Nehemiah 12:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And at dedication of wall of Ierousalem they sought the Levites in their places, to bring them into Ierousalem to make dedication and rejoicing, in thanksgiving and in songs, with cymbals and stringed instruments and lyres.
-- brenton: [missing]
+- brenton: And at the dedication of the wall of Jerusalem they sought the Levites in their places, to bring them to Jerusalem, to keep a feast of dedication and gladness with thanksgiving, and they sounded cymbals with songs, and had psalteries and harps.
 
-### Nehemiah 22:28
+### Nehemiah 12:28
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And sons of the singers were gathered both from the district round about into Ierousalem and from the farmsteads,
-- brenton: [missing]
+- brenton: And the sons of the singers were assembled both from the neighbourhood round about to Jerusalem, and from the villages,
 
-### Nehemiah 22:29
+### Nehemiah 12:29
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and from the fields, because the singers built farmsteads for themselves in Ierousalem.
-- brenton: [missing]
+- brenton: and from the country: for the singers built themselves villages by Jerusalem.
 
-### Nehemiah 22:30
+### Nehemiah 12:30
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And the priests and the Levites purified themselves, and they purified the people and the gatekeepers and the wall.
-- brenton: [missing]
+- brenton: And the priests and the Levites purified themselves, and they purified the people, and the porters, and the wall.
 
-### Nehemiah 22:31
+### Nehemiah 12:31
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I brought up rulers of Iouda upon the wall and set two great thanksgiving choirs, and they went to the right upon the wall by the Dung Gate.
-- brenton: [missing]
+- brenton: And they brought up the princes of Juda on the wall, and they appointed two great companies for thanksgiving, and they passed on the right hand on the wall of the dung-gate.
 
-### Nehemiah 22:32
+### Nehemiah 12:32
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And after them went Hōsaia and half of rulers of Iouda,
-- brenton: [missing]
+- brenton: And after them went Osaia, and half the princes of Juda,
 
-### Nehemiah 22:33
+### Nehemiah 12:33
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Azaria, Esdra, and Mesoulam,
-- brenton: [missing]
+- brenton: and Azarias, and Esdras, and Mesollam,
 
-### Nehemiah 22:34
+### Nehemiah 12:34
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Iouda and Beniamin and Samaia and Iermia,
-- brenton: [missing]
+- brenton: and Juda, and Benjamin, and Samaias and Jeremia.
 
-### Nehemiah 22:35
+### Nehemiah 12:35
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and from sons of the priests with trumpets, Zacharias son of Ionathan, son of Samaia, son of Mathania, son of Michaia, son of Zakkour, son of Asaph,
-- brenton: [missing]
+- brenton: And some of the sons of the priest with trumpets, Zacharias son of Jonathan, son of Samaias, son of Matthania, son of Michaia, son of Zacchur, son of Asaph:
 
-### Nehemiah 22:36
+### Nehemiah 12:36
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and his brothers, Samaia and Oziēl, praising in songs of David man of God, and Ezra the scribe before them,
-- brenton: [missing]
+- brenton: and his brethren, Samaia, and Oziel, Gelol, Jama, Aia, Nathanael, and Juda, Anani, to praise with the hymns of David the man of God; and Esdras the scribe was before them,
 
-### Nehemiah 22:37
+### Nehemiah 12:37
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: at Gate of Ain opposite them. They went up on steps of city of David, on ascent of the wall above house of David and as far as Water Gate eastward.
-- brenton: [missing]
+- brenton: at the gate, to praise before them, and they went up by the steps of the city of David, in the ascent of the wall, above the house of David, even to the water-gate
 
-### Nehemiah 22:38
+### Nehemiah 12:38
 
 - importance: low
 - decisions: 0
@@ -116188,16 +112282,16 @@ Note:
 - fresh: And the second thanksgiving choir was going to meet them, and I after it, and half of the people upon the wall above Tower of Ovens and as far as Broad Wall,
 - brenton: [missing]
 
-### Nehemiah 22:39
+### Nehemiah 12:39
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and above Gate of Ephraim and to the Old Gate and to Fish Gate and Tower of Hananeel and as far as Sheep Gate, and they stood in Gate of the Guard.
-- brenton: [missing]
+- brenton: of Ephraim, and to the fish-gate, and by the tower of Anameel, and as far as the sheep-gate.
 
-### Nehemiah 22:40
+### Nehemiah 12:40
 
 - importance: low
 - decisions: 0
@@ -116206,7 +112300,7 @@ Note:
 - fresh: And the two choirs stood in house of God, and I and half of the generals with me,
 - brenton: [missing]
 
-### Nehemiah 22:41
+### Nehemiah 12:41
 
 - importance: low
 - decisions: 0
@@ -116215,338 +112309,338 @@ Note:
 - fresh: and the priests, Eliakim, Maasias, Beniamin, Michaias, Eliōēnai, Zacharias, Ananias, with trumpets,
 - brenton: [missing]
 
-### Nehemiah 22:42
+### Nehemiah 12:42
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and Maasias and Semeias and Eleazar and Ozi and Iōanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
-- brenton: [missing]
+- brenton: And the singers were heard, and were numbered.
 
-### Nehemiah 22:43
+### Nehemiah 12:43
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they sacrificed on that day great sacrifices and rejoiced, because God gladdened them greatly, and their wives and their children rejoiced, and rejoicing in Ierousalem was heard from far away.
-- brenton: [missing]
+- brenton: And in that day they offered great sacrifices, and rejoiced; for God had made them very joyful: and their wives and their children rejoiced: and the joy in Jerusalem was heard from afar off.
 
-### Nehemiah 22:44
+### Nehemiah 12:44
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And on that day men were appointed over the treasury-rooms, for the treasures, the firstfruits, the tithes, and the things gathered in them by rulers of the cities, portions for the priests and for the Levites, because rejoicing was in Iouda over the priests and over the Levites who stood.
-- brenton: [missing]
+- brenton: And in that day they appointed men over the treasuries, for the treasures, the first-fruits, and the tithes, and for the chiefs of the cities who were assembled among them, to furnish portions for the priests and Levites: for there was joy in Juda over the priests and over the Levites that waited.
 
-### Nehemiah 22:45
+### Nehemiah 12:45
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they kept charges of their God and charges of the purification and the singers and the gatekeepers, as commands of David and Salomon his son.
-- brenton: [missing]
+- brenton: And they kept the charges of their God, and the charges of the purification, and ordered the singers and the porters, according to the commandments of David and his son Solomon.
 
-### Nehemiah 22:46
+### Nehemiah 12:46
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: For in days of David, Asaph from the beginning was chief of the singers, and there was hymn and praise to God.
-- brenton: [missing]
+- brenton: For in the days of David Asaph was originally first of the singers, and they sang hymns and praise to God.
 
-### Nehemiah 22:47
+### Nehemiah 12:47
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all Israel in days of Zorobabel were giving portions of the singers and the gatekeepers, matter of each day on its day, and sanctifying for the Levites, and the Levites sanctifying for sons of Aaron.
-- brenton: [missing]
+- brenton: And all Israel in the days of Zorobabel, and in the days of Neemias, gave the portions of the singers and the porters, a daily rate: and consecrated them to the Levites: and the Levites consecrated them to the sons of Aaron.
 
-### Nehemiah 23:1
+### Nehemiah 13:1
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: On that day it was read in book of Moses in ears of the people, and it was found written in it that Ammanites and Moabites should not enter into assembly of God forever,
-- brenton: [missing]
+- brenton: In that day they read in the book of Moses in the ears of the people; and it was found written in it, that the Ammonites and Moabites should not enter into the congregation of God for ever;
 
-### Nehemiah 23:2
+### Nehemiah 13:2
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: because they did not meet sons of Israel with bread and water, and they hired Balaam against him to curse him, and our God turned the curse into blessing.
-- brenton: [missing]
+- brenton: because they met not the children of Israel with bread and water, but hired Balaam against them to curse them: but our God turned the curse into a blessing.
 
-### Nehemiah 23:3
+### Nehemiah 13:3
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be when they heard the law, they separated every mixed group in Israel.
-- brenton: [missing]
+- brenton: And it came to pass, when they heard the law, that they were separated, even every alien in Israel.
 
-### Nehemiah 23:4
+### Nehemiah 13:4
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And before this, Eliasib the priest was dwelling in treasury-room of house of our God, being near to Tobia,
-- brenton: [missing]
+- brenton: And before this time Eliasib the priest dwelt in the treasury of the house of our God, connected with Tobias;
 
-### Nehemiah 23:5
+### Nehemiah 13:5
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and he made for him a great treasury-room, and there they formerly gave the manna and the frankincense and the vessels and the tithe of grain and wine and oil, the command for the Levites and the singers and the gatekeepers, and firstfruits of the priests.
-- brenton: [missing]
+- brenton: and he made himself a great treasury, and there they were formerly in the habit of bestowing the offerings, and the frankincense, and the vessels, and the tithe of the corn, and the wine, and the oil, the ordered portion of the Levites, and singers, and porters; and the first-fruits of the priests.
 
-### Nehemiah 23:6
+### Nehemiah 13:6
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in all this I was not in Ierousalem, because in thirty-second year of Arthasastha king of Babylon I came to the king, and after end of days I asked leave from the king.
-- brenton: [missing]
+- brenton: But in all this time I was not in Jerusalem; for in the thirty-second year of Arthasastha king of Babylon I came to the king, and after a certain time I made my request of the king;
 
-### Nehemiah 23:7
+### Nehemiah 13:7
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I came to Ierousalem and understood the evil which Eliasib did for Tobia, making for him a treasury-room in court of house of God.
-- brenton: [missing]
+- brenton: and I came to Jerusalem, and I understood the mischief which Eliasib had done in the case of Tobias, in making for him a treasury in the court of the house of God.
 
-### Nehemiah 23:8
+### Nehemiah 13:8
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it seemed very evil to me, and I threw all vessels of house of Tobia outside the treasury-room.
-- brenton: [missing]
+- brenton: And it appeared very evil to me: so I cast forth all the furniture of the house of Tobias from the treasury.
 
-### Nehemiah 23:9
+### Nehemiah 13:9
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I said, and they purified the treasury-rooms, and I restored there vessels of house of God, the manna, and the frankincense.
-- brenton: [missing]
+- brenton: And I gave orders, and they purified the treasuries: and I restored thither the vessels of the house of God, and the offerings, and the frankincense.
 
-### Nehemiah 23:10
+### Nehemiah 13:10
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I knew that portions of the Levites had not been given, and the Levites and the singers doing the work fled, each man to his own field.
-- brenton: [missing]
+- brenton: And I understood that the portion of the Levites had not been given: and they had fled every one to his field, the Levites and the singers doing the work.
 
-### Nehemiah 23:11
+### Nehemiah 13:11
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing.
-- brenton: [missing]
+- brenton: And I strove with the commanders, and said, Wherefore has the house of God been abandoned? and I assembled them, and set them in their place.
 
-### Nehemiah 23:12
+### Nehemiah 13:12
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all Iouda brought tithe of the grain and the wine and the oil into the treasuries.
-- brenton: [missing]
+- brenton: And all Juda brought a tithe of the wheat and the wine and the oil into the treasuries,
 
-### Nehemiah 23:13
+### Nehemiah 13:13
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Over hand of Selemia the priest and Saddouk the scribe and Phadaia from the Levites, and over their hand Hanan son of Zakkour son of Mathania, because they were reckoned faithful to divide to their brothers.
-- brenton: [missing]
+- brenton: to the charge of Selemia the priest, and Sadoc the scribe, and Phadaea of the Levites: and next to them was Anan the son of Zacchur, son of Matthanias; for they were accounted faithful: it was their office to distribute to their brethren.
 
-### Nehemiah 23:14
+### Nehemiah 13:14
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Remember me, O God, in this, and let not my mercy be wiped out, which I did in house of Lord God.
-- brenton: [missing]
+- brenton: Remember me, O God, in this, and let not my kindness be forgotten which I have wrought in regard to the house of the Lord God.
 
-### Nehemiah 23:15
+### Nehemiah 13:15
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: In those days I saw in Iouda men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Ierousalem on Sabbath day, and I testified on day of their selling.
-- brenton: [missing]
+- brenton: In those days I saw in Juda men treading wine-presses on the sabbath, and carrying sheaves, and loading asses with both wine, and grapes, and figs, and every kind of burden, and bringing them into Jerusalem on the sabbath-day:
 
-### Nehemiah 23:16
+### Nehemiah 13:16
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And they were dwelling in it, bringing fish and every kind of merchandise, selling on the Sabbath to sons of Iouda and in Ierousalem.
-- brenton: [missing]
+- brenton: and I testified in the day of their sale. Also their dwelt in it men bringing fish, and selling every kind of merchandise to the children of Juda and in Jerusalem on the sabbath.
 
-### Nehemiah 23:17
+### Nehemiah 13:17
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I contended with sons of Iouda, the free men, and said to them, What is this evil word which you are doing and profaning the Sabbath day?
-- brenton: [missing]
+- brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
 
-### Nehemiah 23:18
+### Nehemiah 13:18
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Did not your fathers do thus, and our God brought all these evils upon them and upon us and upon this city? And you add wrath upon Israel by profaning the Sabbath.
-- brenton: [missing]
+- brenton: Did not your fathers thus, and our God brought upon them and upon us and upon this city all these evils? and do ye bring additional wrath upon Israel by profaning the sabbath?
 
-### Nehemiah 23:19
+### Nehemiah 13:19
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And it came to be when gates of Ierousalem were set before the Sabbath, I gave word and they shut the gates, and I said that they should not be opened until after the Sabbath. And from my servants I set some over the gates, so that no burden be brought in on Sabbath day.
-- brenton: [missing]
+- brenton: And it came to pass, when the gates were set up in Jerusalem, before the sabbath, that I spoke, and they shut the gates; and I gave orders that they should not be opened till after the sabbath: and I set some of my servants at the gates, that none should bring in burdens on the sabbath-day.
 
-### Nehemiah 23:20
+### Nehemiah 13:20
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And all the traders and sellers of merchandise lodged outside Ierousalem once and twice.
-- brenton: [missing]
+- brenton: So all the merchants lodged, and carried on traffic without Jerusalem once or twice.
 
-### Nehemiah 23:21
+### Nehemiah 13:21
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I testified among them and said to them, Why do you lodge opposite the wall? If you do this a second time, I will stretch out my hand against you. From that time they did not come on the Sabbath.
-- brenton: [missing]
+- brenton: Then I testified against them, and said to them, Why do ye lodge in front of the wall? if ye do so again, I will stretch out my hand upon you. From that time they came not on the sabbath.
 
-### Nehemiah 23:22
+### Nehemiah 13:22
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I told the Levites, those being purified and coming to guard the gates, to sanctify the Sabbath day. Concerning these things remember me, O God, and spare me according to abundance of your mercy.
-- brenton: [missing]
+- brenton: and I told the Levites who were purifying themselves, and came and kept the gates, that they should sanctify the sabbath-day. Remember me, O God, for these things, and spare me according to the abundance of thy mercy.
 
-### Nehemiah 23:23
+### Nehemiah 13:23
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And in those days I saw the Ioudaioi who had seated Ashdodite, Ammonite, and Moabite women.
-- brenton: [missing]
+- brenton: And in those days I saw the Jews who had married women of Ashdod, of Ammon, and of Moab:
 
-### Nehemiah 23:24
+### Nehemiah 13:24
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And half of their sons were speaking Ashdodite and were not recognizing how to speak Ioudaian.
-- brenton: [missing]
+- brenton: and their children spoke half in the language of Ashdod, and did not know how to speak in the Jewish language.
 
-### Nehemiah 23:25
+### Nehemiah 13:25
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I contended with them and cursed them and struck men among them and made them bald, and made them swear by God that you will not give your daughters to their sons and will not take from their daughters for your sons.
-- brenton: [missing]
+- brenton: And I strove with them and cursed them; and I smote some of them, and plucked off their hair, and made them swear by God, saying,Ye shall not give your daughters to their sons, and ye shall not take of their daughters to your sons.
 
-### Nehemiah 23:26
+### Nehemiah 13:26
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Did not Salomon king of Israel sin thus? And among many nations there was no king like him, and he was loved by God, and God gave him as king over all Israel, yet foreign women turned even him aside.
-- brenton: [missing]
+- brenton: Did not Solomon king of Israel sin thus? though there was no king like him among many nations, and he was beloved of God, and God made him king over all Israel; yet strange women turned him aside.
 
-### Nehemiah 23:27
+### Nehemiah 13:27
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And shall we listen to you to do all this evil, to act faithlessly toward our God, seating foreign women?
-- brenton: [missing]
+- brenton: So we will not hearken to you to do all this evil, to break covenant with our God, —to marry strange wives.
 
-### Nehemiah 23:28
+### Nehemiah 13:28
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And from sons of Iōada, of Elisoub the great priest, was son-in-law of Sanaballat the Horonite, and I drove him out from me.
-- brenton: [missing]
+- brenton: and Elisub the high priest, one of the sons of Joada, being son-in-law of Sanaballat the Uranite, I chased him away from me.
 
-### Nehemiah 23:29
+### Nehemiah 13:29
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: Remember them, O God, for kinship with the priesthood and covenant of the priesthood and the Levites.
-- brenton: [missing]
+- brenton: Remember them, O God, for their false connection with the priesthood, and the breaking the covenant of the priesthood, and for defiling the Levites.
 
-### Nehemiah 23:30
+### Nehemiah 13:30
 
 - importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: And I purified them from every foreign thing and set courses for the priests and for the Levites, each man as his work,
-- brenton: [missing]
+- brenton: So I purged them from all foreign connection, and established courses for the priests and the Levites, every man according to his work.
 
-### Nehemiah 23:31
+### Nehemiah 13:31
 
 - importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
 - fresh: and gift of the wood-bearers at appointed times from years and in the firstfruits. Remember me, our God, for goodness.
-- brenton: [missing]
+- brenton: And the offering of the wood-bearers was at certain set times, and in the times of the first-fruits. Remember me, O our God, for good.
 
 ## Esther
 
@@ -202348,7 +198442,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
+- fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
 - brenton: [missing]
 
 ### Hosea 13:3
@@ -203747,7 +199841,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
 ### Amos 5:1
@@ -205490,7 +201584,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 - brenton: [missing]
 
 ### Micah 3:9
@@ -206127,11 +202221,11 @@ Note:
 
 ### Nahum 1:3
 
-- importance: low
+- importance: medium
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Lord long-suffering, and great his strength, and acquitting he will not acquit. Lord's way is in completion and in upheaval, and clouds are dust of his feet.
+- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 - brenton: [missing]
 
 ### Nahum 1:4
@@ -206212,7 +202306,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Thus says Lord, ruling many waters: Thus they will be scattered, and your report will no longer be heard.
+- fresh: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 - brenton: [missing]
 
 ### Nahum 1:13
@@ -206230,7 +202324,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are swift.
+- fresh: And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 - brenton: [missing]
 
 ### Nahum 2:1
@@ -206637,7 +202731,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+- fresh: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: [missing]
 
 ### Habakkuk 1:13
@@ -206718,7 +202812,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: If he shrinks back, my soul takes no pleasure in him; but righteous one will live by my faith.
+- fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 - brenton: [missing]
 
 ### Habakkuk 2:5
@@ -206880,7 +202974,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. In midst of two living things you will be known; when years draw near you will be recognized; when time is present you will be shown. When my soul is troubled, in wrath you will remember mercy.
+- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - brenton: [missing]
 
 ### Habakkuk 3:3
@@ -209451,7 +205545,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ### Zechariah 12:11
@@ -210020,7 +206114,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]
 
 ### Malachi 2:16
@@ -210029,7 +206123,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+- fresh: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]
 
 ### Malachi 2:17

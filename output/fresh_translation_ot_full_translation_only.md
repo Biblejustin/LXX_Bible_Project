@@ -12,7 +12,7 @@ At the beginning, God made heaven and earth.
 
 **Genesis 1:2**
 
-Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 
 **Genesis 1:3**
 
@@ -3814,7 +3814,7 @@ And Jacob said, God of my father Abraham and God of my father Isaac, Lord, you a
 
 **Genesis 32:10**
 
-Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 
 **Genesis 32:11**
 
@@ -24316,7 +24316,7 @@ And as the kings of the Amorites in the beyond of the Jordan heard, those in the
 
 **Joshua 9:2**
 
-they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
+they came all together at the same time to make war against Joshua and Israel.
 
 **Joshua 9:3**
 
@@ -33654,7 +33654,7 @@ Because the king will listen to rescue his servant from the hand of the man seek
 
 **2 Samuel 14:17**
 
-And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 
 **2 Samuel 14:18**
 
@@ -34796,7 +34796,7 @@ magnifying the salvations of his king and doing mercy for his anointed, for Davi
 
 **2 Samuel 23:1**
 
-And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 
 **2 Samuel 23:2**
 
@@ -48060,7 +48060,7 @@ And no Passover like it came to be in Israel from days of Samouēl the prophet, 
 
 **2 Chronicles 35:19**
 
-In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
+In eighteenth year of reign of Iōsias this Passover was kept.
 
 **2 Chronicles 35:20**
 
@@ -48194,1755 +48194,1141 @@ Thus says Cyrus king of Persians: Lord God of heaven gave me all kingdoms of ear
 
 **Ezra 1:1**
 
-And Iōsias brought Passover in Ierousalem to Lord his God, and sacrificed the Passover on fourteenth day of first month.
+And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 
 **Ezra 1:2**
 
-Having stationed priests by courses, arrayed in temple of Lord.
+Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Ierousalem, the one in Ioudaia.
 
 **Ezra 1:3**
 
-And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
+Who among you is from all his people? Let his God be with him, and let him go up to Ierousalem in Ioudaia and build house of God of Israel. He is the God in Ierousalem.
 
 **Ezra 1:4**
 
-And now serve Lord your God and attend his nation Israel, and prepare according to your father-houses and your tribes, according to writing of Dauid king of Israel and according to greatness of Salōmōn his son.
+And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for house of God in Ierousalem.
 
 **Ezra 1:5**
 
-And standing in temple according to fatherly divisions of you Levites before your brothers, sons of Israel, in order,
+Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
 
 **Ezra 1:6**
 
-sacrifice the Passover and prepare the sacrifices for your brothers and do the Passover according to ordinance of Lord given to Mōusēs.
+And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
 
 **Ezra 1:7**
 
-And Iōsias gifted to people found there thirty thousand lambs and kids and three thousand calves. These were given from royal stores by promise to people and to priests and Levites.
+And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
 
 **Ezra 1:8**
 
-And Chelkias and Zacharias and Hēsyēlos, supervisors of sanctuary, gave to priests for Passover two thousand six hundred sheep and three hundred calves.
+And Cyrus king of Persians brought them out by hand of Mithradates the treasurer and counted them out to Sasabasar, governor of Iouda.
 
 **Ezra 1:9**
 
-And Iechonias and Samaias and Nathanaēl the brother and Asabias and Ochielos and Iōram, chiliarchs, gave to Levites for Passover five thousand sheep and seven hundred calves.
+And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
 
 **Ezra 1:10**
 
-And when these things happened fittingly, priests and Levites stood,
+thirty golden bowls, two hundred silver bowls, and one thousand other vessels.
 
 **Ezra 1:11**
 
-holding the unleavened breads according to tribes,
-
-**Ezra 1:12**
-
-and according to divisions of fathers before people, to bring to Lord according to things written in book of Mōusēs, and thus for morning.
-
-**Ezra 1:13**
-
-And they roasted the Passover with fire as was fitting, and boiled the sacrifices in bronze pots and cauldrons with sweet fragrance, and carried them to all from people.
-
-**Ezra 1:14**
-
-And after these things they prepared for themselves and for priests their brothers, sons of Aarōn. For priests offered fats until dawn, and Levites prepared for themselves and for priests their brothers, sons of Aarōn.
-
-**Ezra 1:15**
-
-And temple-singers, sons of Asaph, were at their order according to things appointed by Dauid and Asaph and Zacharias and Eddinous from king, and gatekeepers at each gate. It was not for each to pass beyond his own course, for their brothers the Levites prepared for them.
-
-**Ezra 1:16**
-
-And things of sacrifice of Lord were completed on that day, so that the Passover might be brought and sacrifices might be offered upon altar of Lord according to command of king Iōsias.
-
-**Ezra 1:17**
-
-And sons of Israel found there brought the Passover at that time, and feast of unleavened breads for seven days.
-
-**Ezra 1:18**
-
-And no such Passover was brought in Israel from times of Samouēl the prophet.
-
-**Ezra 1:19**
-
-And all kings of Israel did not bring such a Passover as Iōsias brought, and priests and Levites and Ioudaioi and all Israel found there in their dwelling in Ierousalem.
-
-**Ezra 1:20**
-
-In eighteenth year of Iōsias reigning this Passover was brought.
-
-**Ezra 1:21**
-
-And works of Iōsias were made right before Lord his God in heart full of piety.
-
-**Ezra 1:22**
-
-And matters concerning him were written in former times, and concerning those who sinned and acted impiously toward Lord beyond every nation and kingdom and the things by which they grieved him deeply, and words of Lord rose up against Israel.
-
-**Ezra 1:23**
-
-And after all this action of Iōsias it happened that Pharaoh king of Egypt came to stir up war in Charkamys at Euphratēs, and Iōsias went out to meet him.
-
-**Ezra 1:24**
-
-And king of Egypt sent to him, saying, What is to me and to you, king of Ioudaia?
-
-**Ezra 1:25**
-
-I have not been sent against you by Lord God, for my war is on Euphratēs, and now Lord is with me, and Lord with me is hurrying me. Stand away and do not oppose Lord.
-
-**Ezra 1:26**
-
-And Iōsias did not turn himself upon his chariot, but attempted to fight him, not paying attention to words of Ieremias prophet from mouth of Lord.
-
-**Ezra 1:27**
-
-But he joined battle with him in plain of Mageddaous, and commanders came down to king Iōsias.
-
-**Ezra 1:28**
-
-And king said to his servants, Take me away from battle, for I have become very weak. And immediately his servants took him away from battle-line.
-
-**Ezra 1:29**
-
-And he mounted his second chariot, and after being brought back to Ierousalem he passed from life and was buried in tomb of his fathers.
-
-**Ezra 1:30**
-
-And in all Iouda they mourned Iōsias, and Ieremias the prophet lamented over Iōsias, and leaders together with women kept lamenting him until this day, and this was given to be done always for all race of Israel.
-
-**Ezra 1:31**
-
-These things are written in book of histories concerning kings of Iouda, and each deed done in action of Iōsias and his glory and his understanding in law of Lord, both things formerly done by him and those now related in book of kings of Israel and Iouda.
-
-**Ezra 1:32**
-
-And those from nation took Iechonias son of Iōsias and showed him forth king instead of Iōsias his father, he being twenty-three years old.
-
-**Ezra 1:33**
-
-And he reigned in Iouda and Ierousalem three months, and king of Egypt deposed him from reigning in Ierousalem.
-
-**Ezra 1:34**
-
-And he fined nation one hundred talents of silver and one talent of gold.
-
-**Ezra 1:35**
-
-And king of Egypt appointed Iōakim his brother king of Iouda and Ierousalem.
-
-**Ezra 1:36**
-
-And he bound Iōakim's nobles, and Zarios his brother, after seizing him, he brought up from Egypt.
-
-**Ezra 1:37**
-
-Now Iōakim was twenty-five years old when he reigned over Iouda and Ierousalem, and he did evil before Lord.
-
-**Ezra 1:38**
-
-And Nabouchodonosor king of Babylōn came up against him, and after binding him in bronze chain he led him away into Babylōn.
-
-**Ezra 1:39**
-
-And after Nabouchodonosor took sacred vessels of Lord and carried them away, he deposited them in his own temple in Babylōn.
-
-**Ezra 1:40**
-
-Things recorded concerning him and his uncleanness and impiety are written in book of chronicles of kings.
-
-**Ezra 1:41**
-
-And Iōakim his son reigned instead of him, for when he was shown forth he was eighteen years old.
-
-**Ezra 1:42**
-
-And he reigned in Ierousalem three months and ten days, and he did evil before Lord.
-
-**Ezra 1:43**
-
-And after a year Nabouchodonosor sent and transferred him into Babylōn together with sacred vessels of Lord.
-
-**Ezra 1:44**
-
-And he appointed Sedekias king of Iouda and Ierousalem, Sedekias being twenty-one years old, and he reigned eleven years.
-
-**Ezra 1:45**
-
-And he did evil before Lord and was not ashamed from words spoken by Ieremias the prophet from mouth of Lord.
-
-**Ezra 1:46**
-
-And though sworn by king Nabouchodonosor in name of Lord, after swearing falsely he rebelled, and hardening his neck and strengthening his heart he transgressed laws of Lord God of Israel.
-
-**Ezra 1:47**
-
-And leaders of people and priests acted very impiously and lawlessly beyond all uncleannesses of all nations, and they defiled sanctuary of Lord sanctified in Ierousalēm.
-
-**Ezra 1:48**
-
-And God of their fathers sent through his angel to call them back, because he was sparing them and his tabernacle.
-
-**Ezra 1:49**
-
-But they mocked his messengers, and on day Lord spoke they were making sport of his prophets, until in his anger against his nation for their impieties he commanded kings of Chaldeans to be brought up against them.
-
-**Ezra 1:50**
-
-These killed their young men with sword around their holy sanctuary, and they did not spare young man and virgin and old man and younger, but he gave all into their hands.
-
-**Ezra 1:51**
-
-And taking all sacred vessels of Lord, great and small, and coffers of Lord and royal storehouses, they carried them away into Babylōn.
-
-**Ezra 1:52**
-
-And they burned house of Lord and broke down walls of Ierousalēm, and burned her towers with fire.
-
-**Ezra 1:53**
-
-And they finished all her glorious things for destruction, and remnant he led away with sword into Babylōn.
-
-**Ezra 1:54**
-
-And they were servants to him and to his sons until Persians reigned, for fulfillment of word of Lord in mouth of Ieremias,
-
-**Ezra 1:55**
-
-until land was pleased with its Sabbaths; all time of its desolation it will keep Sabbath for fulfillment of seventy years.
+All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
 
 ### Chapter 2
 
 **Ezra 2:1**
 
-In first year of Cyrus king of Persians, for fulfillment of word of Lord in mouth of Ieremias, Lord stirred spirit of Cyrus king of Persians, and he proclaimed in all his kingdom, also by writings, saying,
+And these are sons of the province, those coming up from captivity of the exile whom Nabouchodonosor king of Babylon exiled to Babylon, and they returned to Ierousalem and Iouda, each to his city.
 
 **Ezra 2:2**
 
-Thus says Cyrus king of Persians: Lord of Israel, Lord Most High, appointed me king of inhabited world and signified to me to build for him house in Ierousalem in Ioudaia.
+Those who came with Zorobabel were Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum, and Baana. Number of men of people of Israel:
 
 **Ezra 2:3**
 
-If then anyone of you is from his nation, let his Lord be with him, and after going up to Ierousalem in Ioudaia let him build house of Lord of Israel. He is Lord, the one who dwelt in Ierousalem.
+Sons of Phoros: 2,172.
 
 **Ezra 2:4**
 
-Now as many as dwell in places, let those in his place help him with gold and silver, with gifts, with horses and cattle, besides other things added according to vows for sanctuary of Lord in Ierousalem.
+Sons of Saphatia: 372.
 
 **Ezra 2:5**
 
-Then chiefs of father-houses of tribe of Iouda and Beniamin and priests and Levites stood up, and of all whose spirit Lord raised to go up to build house for Lord in Ierousalem.
+Sons of Hara: 775.
 
 **Ezra 2:6**
 
-And those around them helped with everything, with silver and gold, horses and cattle and very many vowed gifts, from many whose mind was raised.
+Sons of Phaathmoab, to sons of Iesoue-Ioab: 2,812.
 
 **Ezra 2:7**
 
-And king Cyrus brought out sacred vessels of Lord which Nabouchodonosor carried away from Ierousalem and deposited in his own idol-temple.
+Sons of Ailam: 1,254.
 
 **Ezra 2:8**
 
-After bringing them out, Cyrus king of Persians gave them to Mithridatēs his own treasurer, and through him they were handed over to Sanabassar, governor of Ioudaia.
+Sons of Zathoua: 945.
 
 **Ezra 2:9**
 
-And number of these was: golden libation-bowls one thousand, silver libation-bowls one thousand, silver censers twenty-nine,
+Sons of Zakkou: 760.
 
 **Ezra 2:10**
 
-golden bowls thirty, silver bowls two thousand four hundred ten, and other vessels one thousand.
+Sons of Banoui: 642.
 
 **Ezra 2:11**
 
-And all vessels carried over, gold and silver, were five thousand four hundred sixty-nine. They were brought up by Sanabassar together with those of captivity from Babylōn to Ierosolyma.
+Sons of Babi: 623.
 
 **Ezra 2:12**
 
-Now in times of Artaxerxes king of Persians, Bēslemos and Mithradatēs and Tabellios and Raoumos and Beelteēmos and Samsaios the scribe and the rest allied with these, dwelling in Samareia and other places, wrote against those dwelling in Ioudaia and Ierousalem the letter written below.
+Sons of Asgad: 3,222.
 
 **Ezra 2:13**
 
-To king Artaxerxes our lord, your servants Raoumos the recorder and Samsaios the scribe and rest of their council, judges in Coele-Syria and Phoinikia:
+Sons of Adonikam: 666.
 
 **Ezra 2:14**
 
-And now let it be known to our lord king that, after Ioudaioi came up from you to us and came into Ierousalem, that rebellious and wicked city, they are building its marketplaces and restoring walls and laying foundations for temple.
+Sons of Bagoi: 2,056.
 
 **Ezra 2:15**
 
-If then this city is built and walls are completed, they will certainly not endure to pay tribute, but will also oppose kings.
+Sons of Adin: 454.
 
 **Ezra 2:16**
 
-And since matters concerning temple are in progress, we consider it good not to overlook such a thing, but to address our lord king, so that it might appear to you if search is made in books from your fathers.
+Sons of Ater, of Hezekias: 98.
 
 **Ezra 2:17**
 
-And you will find in records things written concerning these, and you will know that that city was rebellious and troubling kings and cities, and that Ioudaioi were rebels and setting up sieges in it from everlasting, for which reason also this city was laid waste.
+Sons of Basou: 323.
 
 **Ezra 2:18**
 
-Therefore now we show you, lord king, that if this city is built and its walls are raised again, you will no longer have passage into Coele-Syria and Phoinikia.
+Sons of Iora: 112.
 
 **Ezra 2:19**
 
-Then king wrote back to Raoumos the recorder and Beelteēmos and Samsaios the scribe and the rest allied with them and dwelling in Samareia and Syria and Phoinikia the things written below:
+Sons of Asem: 223.
 
 **Ezra 2:20**
 
-I read the letter which you sent to me.
+Sons of Gaber: 95.
 
 **Ezra 2:21**
 
-So I ordered search to be made, and it was found that that city from everlasting has arrayed itself against kings, and men there are bringing rebellions and wars to completion.
+Sons of Baithleem: 123.
 
 **Ezra 2:22**
 
-And strong and harsh kings were in Ierousalem, ruling and taxing Coele-Syria and Phoinikia.
+Sons of Netopha: 56.
 
 **Ezra 2:23**
 
-Now therefore I ordered that those men be prevented from building the city,
+Sons of Anathoth: 128.
 
 **Ezra 2:24**
 
-and that care be taken so that nothing beyond these things be done and that progress of wickedness not go further to trouble kings.
+Sons of Asmoth: 42.
 
 **Ezra 2:25**
 
-Then when things written from king Artaxerxes were read, Raoumos and Samsaios the scribe and those allied with them, after setting out in haste to Ierousalem with horse and ordered crowd, began hindering those building.
+Sons of Kariathiarim, Kaphira, and Beroth: 743.
 
 **Ezra 2:26**
 
-And building of sanctuary in Ierousalem ceased until second year of reign of Darius king of Persians.
+Sons of Arama and Gabaa: 621.
+
+**Ezra 2:27**
+
+Men of Machmas: 122.
+
+**Ezra 2:28**
+
+Men of Baithel and Aia: 423.
+
+**Ezra 2:29**
+
+Sons of Nabo: 52.
+
+**Ezra 2:30**
+
+Sons of Magebos: 156.
+
+**Ezra 2:31**
+
+Sons of Elam-ar: 1,254.
+
+**Ezra 2:32**
+
+Sons of Heram: 320.
+
+**Ezra 2:33**
+
+Sons of Lod, Aroth, and Ono: 725.
+
+**Ezra 2:34**
+
+Sons of Iericho: 345.
+
+**Ezra 2:35**
+
+Sons of Sanaa: 3,630.
+
+**Ezra 2:36**
+
+And the priests: sons of Iedoua, of house of Iesou, 973.
+
+**Ezra 2:37**
+
+Sons of Emmer: 1,052.
+
+**Ezra 2:38**
+
+Sons of Phassour: 1,247.
+
+**Ezra 2:39**
+
+Sons of Herem: 1,007.
+
+**Ezra 2:40**
+
+And the Levites: sons of Iesou and Kadmiel, to sons of Odouia, 74.
+
+**Ezra 2:41**
+
+The singers: sons of Asaph, 128.
+
+**Ezra 2:42**
+
+Sons of the gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabaou, all together 139.
+
+**Ezra 2:43**
+
+The nethinim: sons of Souia, sons of Asouph, sons of Tabaoth,
+
+**Ezra 2:44**
+
+sons of Keraos, sons of Soeia, sons of Phadon,
+
+**Ezra 2:45**
+
+sons of Labano, sons of Agaba, sons of Akaboth,
+
+**Ezra 2:46**
+
+sons of Agab, sons of Samalai, sons of Anan,
+
+**Ezra 2:47**
+
+sons of Kedel, sons of Gaer, sons of Reea,
+
+**Ezra 2:48**
+
+sons of Rason, sons of Nekoda, sons of Gazem,
+
+**Ezra 2:49**
+
+sons of Ousa, sons of Phase, sons of Basi,
+
+**Ezra 2:50**
+
+sons of Asena, sons of Maonim, sons of Naphison,
+
+**Ezra 2:51**
+
+sons of Bakbouk, sons of Akipha, sons of Arour,
+
+**Ezra 2:52**
+
+sons of Basaloth, sons of Maouda, sons of Aresa,
+
+**Ezra 2:53**
+
+sons of Barkous, sons of Sisara, sons of Thema,
+
+**Ezra 2:54**
+
+sons of Nasoue, sons of Atoupha.
+
+**Ezra 2:55**
+
+Sons of Abdeselma: sons of Sati, sons of Asepherath, sons of Phadoura,
+
+**Ezra 2:56**
+
+sons of Iela, sons of Darkon, sons of Gedel,
+
+**Ezra 2:57**
+
+sons of Saphatia, sons of Atil, sons of Phacherath-aseboin, sons of Emi.
+
+**Ezra 2:58**
+
+All the nethinim and sons of Abdeselma: 392.
+
+**Ezra 2:59**
+
+And these were the ones coming up from Thelmeleth, Thelareisa, Charoub, Edan, and Emmer, and they were not able to declare their father-house and their seed, whether they were from Israel:
+
+**Ezra 2:60**
+
+sons of Dalaia, sons of Boua, sons of Tobia, sons of Nekoda: 652.
+
+**Ezra 2:61**
+
+And from sons of the priests: sons of Chabia, sons of Akous, sons of Berzellai, who took a wife from daughters of Berzellai the Galaadite and was called by their name.
+
+**Ezra 2:62**
+
+These sought their enrolled writing, and it was not found, and they were excluded from the priesthood.
+
+**Ezra 2:63**
+
+And Atharsatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
+
+**Ezra 2:64**
+
+And all the assembly together was forty-two thousand three hundred sixty,
+
+**Ezra 2:65**
+
+besides their male slaves and female slaves; these were seven thousand three hundred thirty-seven, and they had two hundred singers and singing women.
+
+**Ezra 2:66**
+
+Their horses were 736, their mules 245,
+
+**Ezra 2:67**
+
+their camels 435, their donkeys 6,720.
+
+**Ezra 2:68**
+
+And some from heads of father-houses, when they came to house of the Lord in Ierousalem, made freewill offerings for house of God, to set it on its foundation.
+
+**Ezra 2:69**
+
+According to their strength they gave into treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
+
+**Ezra 2:70**
+
+And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
 
 ### Chapter 3
 
 **Ezra 3:1**
 
-And king Darius made great feast for all those under him and for all his households and for all magnates of Media and Persia,
+And the seventh month arrived, and sons of Israel were in their cities, and the people gathered as one man in Ierousalem.
 
 **Ezra 3:2**
 
-and for all satraps and generals and toparchs under him, from India to Ethiopia, in one hundred twenty-seven satrapies.
+And Iesous son of Iosedek rose up, and his brothers the priests, and Zorobabel son of Salathiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in law of Moses man of God.
 
 **Ezra 3:3**
 
-And they ate and drank, and when they were filled they withdrew. But king Darius withdrew to bedchamber and slept and awoke.
+And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
 
 **Ezra 3:4**
 
-Then the three young men, the bodyguards guarding body of king, said each to the other,
+And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
 
 **Ezra 3:5**
 
-Let each of us speak one word, which shall prove strongest, and whichever saying appears wiser than that of other, Darius the king will give to him great gifts and great victory-prizes,
+And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
 
 **Ezra 3:6**
 
-to put on purple and drink from gold ornaments and sleep on gold, and a gold-bridled chariot and a turban of fine linen and a neck-chain around neck,
+On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
 
 **Ezra 3:7**
 
-and he shall sit second to Darius because of his wisdom and shall be called kinsman of Darius.
+And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Ioppe, according to grant of Cyrus king of Persians upon them.
 
 **Ezra 3:8**
 
-And then after each wrote his own word, they sealed them and put them under pillow of Darius the king and said,
+And in second year of their coming to house of God in Ierousalem, in second month, Zorobabel son of Salathiel and Iesous son of Iosedek began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Ierousalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
 
 **Ezra 3:9**
 
-When king rises, they will give him the writing, and whichever king and three magnates of Persia judge that his word is wiser, to him victory shall be given as has been written.
+And Iesous stood, and his sons and his brothers, Kadmiel and his sons, sons of Iouda, over those doing the works in house of God, the sons of Enadad, their sons and their brothers the Levites.
 
 **Ezra 3:10**
 
-The one wrote, Wine is strongest.
+And they laid foundations to build house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to ordinance of David king of Israel.
 
 **Ezra 3:11**
 
-The other wrote, King is strongest.
+And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord.
 
 **Ezra 3:12**
 
-The third wrote, Women are strongest, but above all truth wins.
+And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
 
 **Ezra 3:13**
 
-And when king awoke, after taking writings they gave them to him, and he read.
-
-**Ezra 3:14**
-
-And after sending out he called all magnates of Persia and Media and satraps and generals and toparchs and chief-governors, and he sat in court and writings were read before them.
-
-**Ezra 3:15**
-
-And he said, Call the young men, and they themselves will explain their words. And they were called and came in.
-
-**Ezra 3:16**
-
-And they said to them, Tell us concerning what has been written.
-
-**Ezra 3:17**
-
-And first began the one who spoke concerning strength of wine, and he said thus:
-
-**Ezra 3:18**
-
-Men, how does not wine prove strongest, for all humans who drink it it leads mind astray?
-
-**Ezra 3:19**
-
-It makes mind of king and of orphan one, and that of slave and free, and that of poor and rich.
-
-**Ezra 3:20**
-
-And it turns every mind into feasting and gladness, and it remembers no sorrow and no debt.
-
-**Ezra 3:21**
-
-And it makes all hearts rich, and remembers no king nor satrap, and makes all speak in talents.
-
-**Ezra 3:22**
-
-And when they drink, they do not remember to befriend friends and brothers, and after no long time they draw swords.
-
-**Ezra 3:23**
-
-And when they arise from wine, they do not remember what they did.
-
-**Ezra 3:24**
-
-O men, does not wine prove strongest, because it compels thus to do? And after saying this he became silent.
+And the people could not distinguish sound of shout of joy from sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
 
 ### Chapter 4
 
 **Ezra 4:1**
 
-And second began to speak, the one who spoke concerning strength of king:
+And those afflicting Iouda and Beniamin heard that sons of the captivity are building house to the Lord God of Israel.
 
 **Ezra 4:2**
 
-O men, are not humans strong, mastering earth and sea and all things in them?
+And they came near to Zorobabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from days of Asaraddan king of Assour, who brought us up here.
 
 **Ezra 4:3**
 
-But king is strongest and rules them and is master of them, and everything he says to them they obey.
+And Zorobabel and Iesous and the rest of heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of Persians commanded us.
 
 **Ezra 4:4**
 
-If he tells them to make war one against another, they do it. But if he sends them against enemies, they go and subdue mountains and walls and towers.
+And people of the land were weakening hands of people of Iouda and hindering them from building,
 
 **Ezra 4:5**
 
-They kill and are killed, and they do not transgress word of king. And if they conquer, to king they bring all things, whatever they plunder and all the rest.
+and hiring counselors against them to scatter their counsel all the days of Cyrus king of Persians and until reign of Darius king of Persians.
 
 **Ezra 4:6**
 
-And as many as do not serve in army nor make war, but farm the land, whenever they sow and reap, they bring it again to king, and by compelling one another they bring taxes to king.
+And in reign of Asoueros, at beginning of his reign, they wrote a letter against inhabitants of Iouda and Ierousalem.
 
 **Ezra 4:7**
 
-And he is one alone. If he says to kill, they kill. If he says to release, they release.
+And in days of Arthasastha, Mithradates, Tabeel, together with the rest of his fellow-servants, wrote to Arthasastha king of Persians. The tax-writer wrote the document in Syrian, and it was translated.
 
 **Ezra 4:8**
 
-He said, Strike, and they strike. He said, Lay waste, and they lay waste. He said, Build, and they build.
+Reoum Baaltham and Samsai the scribe wrote one letter against Ierousalem to King Arthasastha,
 
 **Ezra 4:9**
 
-He said, Cut down, and they cut down. He said, Plant, and they plant.
+thus judged Reoum Baaltham and Samsai the scribe and our other fellow-servants, the Dinaeans, the Apharsathachaeans, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
 
 **Ezra 4:10**
 
-And all his people and his forces obey him.
+and the rest of the nations whom Asennaphar the great and honored deported and settled in cities of Samaria and the rest beyond the River.
 
 **Ezra 4:11**
 
-Besides these things, he reclines, eats and drinks and sleeps, but they keep watch around him, and they cannot each depart to do his work, nor do they disobey him.
+This is the copy of the letter which they sent to him, to King Arthasastha: Your servants, men beyond the River.
 
 **Ezra 4:12**
 
-O men, how does not king prove strongest, because he is thus obeyed? And he became silent.
+Let it be known to the king that the Ioudaioi who came up from you to us have come to Ierousalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
 
 **Ezra 4:13**
 
-Then the third, the one who spoke concerning women and truth, this is Zorobabel, began to speak.
+Now then let it be known to the king that if that city is rebuilt and its walls completed, taxes will not belong to you, nor will they give tribute, and this harms kings.
 
 **Ezra 4:14**
 
-Men, is not king great and many are the humans and wine is strong? Who then is master of them, or who rules them? Are they not women?
+And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
 
 **Ezra 4:15**
 
-Women gave birth to king and to all people who rule sea and earth.
+so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
 
 **Ezra 4:16**
 
-And from them these came to be, and they nourished those planting vineyards from which wine comes to be.
+Therefore we make known to the king that if that city is rebuilt and its walls completed, there will not be peace for you.
 
 **Ezra 4:17**
 
-And they make garments of men, and they make glory for men, and men are not able to be apart from women.
+And the king sent to Reoum Baaltham and Samsai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
 
 **Ezra 4:18**
 
-And if they gather gold and silver and every beautiful thing, and see one woman beautiful in appearance and beauty,
+The tax-document which you sent to us was read before me.
 
 **Ezra 4:19**
 
-leaving all these behind, they gape at her and with mouth hanging open gaze at her, and all choose her rather than gold and silver and every beautiful thing.
+And a decree from me was set down, and they searched and found that that city from ancient days rises up against kings, and rebellions and runaways happen in it.
 
 **Ezra 4:20**
 
-Man abandons his own father who nourished him and his own country and clings to his own wife.
+And strong kings were over Ierousalem, ruling all the west beyond the River, and full taxes and tribute were given to them.
 
 **Ezra 4:21**
 
-And with wife he leaves his soul, and remembers neither father nor mother nor country.
+And now set decision to stop those men, and that city shall not be built again except by decree.
 
 **Ezra 4:22**
 
-From here it is necessary for you to know that women rule over you. Do you not toil and labor and bear and give all things to women?
+And take care not to be negligent concerning this, lest destruction multiply to harm kings.
 
 **Ezra 4:23**
 
-And man takes his sword and goes out to travel and to rob and steal and sail on sea and rivers,
+Then tax-document of King Arthasastha was read before Reoum and Samsai the scribe and their fellow-servants, and they went in haste to Ierousalem and into Iouda and stopped them with horses and force.
 
 **Ezra 4:24**
 
-and he looks at lion and walks in darkness, and when he steals and seizes and plunders, to his beloved he carries it away.
-
-**Ezra 4:25**
-
-And man loves his own wife more than father and mother.
-
-**Ezra 4:26**
-
-And many lost their minds because of women and became slaves through them.
-
-**Ezra 4:27**
-
-And many perished and stumbled and sinned because of women.
-
-**Ezra 4:28**
-
-And now do you not believe me? Is not king great in his authority? Do not all lands fear to touch him?
-
-**Ezra 4:29**
-
-I was watching him and Apamē, daughter of Bartakos the admirable, king's concubine, sitting at king's right.
-
-**Ezra 4:30**
-
-And she was taking diadem from head of king and placing it on herself, and she struck king with her left hand.
-
-**Ezra 4:31**
-
-And besides these things, king with open mouth was looking at her, and if she smiled at him he smiles, but if she is embittered against him he flatters her so that she may be reconciled to him.
-
-**Ezra 4:32**
-
-O men, how are not women strong, because they do such things?
-
-**Ezra 4:33**
-
-And then king and magnates looked each toward other.
-
-**Ezra 4:34**
-
-And he began to speak concerning truth: Men, are not women strong? Great is earth and high heaven and swift in course is sun, because it turns in circle of heaven and again runs back to its own place in one day.
-
-**Ezra 4:35**
-
-Is not great the one doing these things? And truth is great and stronger than all things.
-
-**Ezra 4:36**
-
-All earth calls on truth and heaven blesses it, and all works shake and tremble, and with it there is no unrighteous thing.
-
-**Ezra 4:37**
-
-Unrighteous is wine, unrighteous king, unrighteous women, unrighteous all sons of men, and unrighteous all their works, all such things, and there is no truth in them, and in their unrighteousness they will perish.
-
-**Ezra 4:38**
-
-But truth remains and is strong forever, and lives and prevails forever and ever.
-
-**Ezra 4:39**
-
-And with it there is no receiving of persons nor distinction, but it does righteous things away from all unrighteous and wicked things, and all are pleased with its works, and there is nothing unrighteous in its judgment.
-
-**Ezra 4:40**
-
-And this is strength and kingdom and authority and majesty of all the ages. Blessed is God of truth.
-
-**Ezra 4:41**
-
-And he became silent from speaking, and all people then cried out, and then they said, Great is truth, and it proves strongest.
-
-**Ezra 4:42**
-
-Then king said to him, Ask what you want beyond what has been written, and we will give, in what way you were found wiser, and you shall sit next to me and be called my kinsman.
-
-**Ezra 4:43**
-
-Then he said to king, Remember the vow which you vowed to build Ierousalem in day when you received your kingdom,
-
-**Ezra 4:44**
-
-and to send away all vessels taken from Ierousalem which Cyrus set apart when he resolved to cut down Babylōn and resolved to send there.
-
-**Ezra 4:45**
-
-And you yourself vowed to build temple which Idoumaioi burned when Ioudaia was laid waste by Chaldeans.
-
-**Ezra 4:46**
-
-And now this is what I ask of you, lord king, and what I request of you, and this is greatness I beg from you, that you do the vow which you vowed to king of heaven to perform from your mouth.
-
-**Ezra 4:47**
-
-Then king Darius rose and kissed him and wrote letters for him to all stewards and toparchs and generals and satraps, that they should send him on and all with him who are going up to build Ierousalem.
-
-**Ezra 4:48**
-
-And to all toparchs in Coele-Syria and Phoinikia and those in Lebanon he wrote letters to carry cedar wood from Lebanon into Ierousalem and so that they might build city with him.
-
-**Ezra 4:49**
-
-And he wrote for all Ioudaioi going up from kingdom into Ioudaia concerning freedom, that no ruler at all, satrap and toparch and steward, should come upon their doors.
-
-**Ezra 4:50**
-
-And that all land which they will gain should be tax-free for them, and that Idoumaioi should let go villages which they are holding from Ioudaioi.
-
-**Ezra 4:51**
-
-And that twenty talents should be given yearly for building of temple, until it is built.
-
-**Ezra 4:52**
-
-And for whole burnt offerings on altar to be consumed daily, according as they have command to offer seventeen, and another ten talents yearly.
-
-**Ezra 4:53**
-
-And that all coming up from Babylōnia to build city should have freedom, both they and their children and all priests coming up.
-
-**Ezra 4:54**
-
-And he wrote also concerning subsidy and priestly robe, in which they minister in it.
-
-**Ezra 4:55**
-
-And for Levites he wrote to give subsidy until day house is completed and Ierousalem is built.
-
-**Ezra 4:56**
-
-And to all guarding city he wrote to give them allotments and wages.
-
-**Ezra 4:57**
-
-And he sent away all vessels which Cyrus set apart from Babylōn, and all things Cyrus said to do, he himself ordered to do and to send away into Ierousalem.
-
-**Ezra 4:58**
-
-And when young man went out, after lifting face to heaven opposite Ierousalem, he blessed king of heaven, saying,
-
-**Ezra 4:59**
-
-From you victory and from you wisdom and yours glory, and I am your servant.
-
-**Ezra 4:60**
-
-Blessed are you who gave me wisdom, and to you I confess, Master of fathers.
-
-**Ezra 4:61**
-
-And he took letters and went out to Babylōn and reported to all his brothers.
-
-**Ezra 4:62**
-
-And they blessed God of their fathers because he gave them relief and release,
-
-**Ezra 4:63**
-
-to go up and build Ierousalem and sanctuary on which his name had been named, and they feasted with music and joy seven days.
+Then work of house of God in Ierousalem ceased, and it lay idle until second year of reign of Darius king of Persians.
 
 ### Chapter 5
 
 **Ezra 5:1**
 
-After these things chiefs of father-houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
+And Haggai the prophet and Zacharias son of Addo prophesied over the Ioudaioi in Iouda and Ierousalem, in name of God of Israel upon them.
 
 **Ezra 5:2**
 
-And Darius sent with them 1,000 horsemen, until he restored them to Ierousalem with peace and with music of tambourines and flutes.
+Then Zorobabel son of Salathiel and Iesous son of Iosedek rose up and began to build house of God in Ierousalem, and with them were prophets of God helping them.
 
 **Ezra 5:3**
 
-And all their brothers were rejoicing, and he made them go up with them.
+At that time Thanthanai, governor beyond the River, and Satharbouzana and their fellow-servants came upon them and said these things to them: Who set decree for you to build this house and complete this structure?
 
 **Ezra 5:4**
 
-And these are names of men going up according to their fathers, by their tribes, according to their division:
+Then they said these things to them: What are names of the men building this city?
 
 **Ezra 5:5**
 
-The priests: sons of Phinees, Iēsous son of Iōsedek son of Saraiou; and Iōakim son of Zorobabel son of Salathiēl, from house of Dauid, from line of Phares, tribe of Iouda,
+And eyes of God were upon captivity of Iouda, and they did not stop them until a report was carried to Darius and then answer was sent to the tax-officer concerning this.
 
 **Ezra 5:6**
 
-who spoke wise words before Darius king of Persians in second year of his reign, in month Nisan, first month.
+Copy of letter which Thanthanai governor beyond the River and Satharbouzana and their fellow-servants, the Apharsachaeans beyond the River, sent to King Darius:
 
 **Ezra 5:7**
 
-And these are from Ioudaia, those who came up from captivity of sojourning whom Nabouchodonosor king of Babylōn resettled in Babylōn,
+They sent a report to him, and these things were written in it: To King Darius, all peace.
 
 **Ezra 5:8**
 
-and they returned to Ierousalem and the rest of Ioudaia, each to his own city, those who came with Zorobabel and Iēsous, Neemiou, Zaraiou, Rhēsaiou, Enēniou, Mardochaiou, Beelsarou, Aspharasou, Boroliou, Roimou, Baana, their leaders.
+Let it be known to the king that we went into land of Iouda, to house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
 
 **Ezra 5:9**
 
-Number of those from nation and their leaders: sons of Phoros, 2,172.
+Then we asked those elders and said this to them: Who set decree for you to build this house and complete this structure?
 
 **Ezra 5:10**
 
-Sons of Saphat, 472; sons of Aree, 756.
+And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
 
 **Ezra 5:11**
 
-Sons of Phaathmōab, among sons of Iēsous and Iōab, 2,812.
+And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
 
 **Ezra 5:12**
 
-Sons of Ōlamou, 1,254; sons of Zatou, 945; sons of Chorbē, 705; sons of Bani, 648.
+But from time when our fathers provoked God of heaven, he gave them into hand of Nabouchodonosor king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
 
 **Ezra 5:13**
 
-Sons of Bēbai, 623; sons of Asgad, 1,322.
+But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
 
 **Ezra 5:14**
 
-Sons of Adōnikam, 667; sons of Bagoi, 2,066; sons of Adinou, 454.
+And vessels of house of God, the gold and silver ones which Nabouchodonosor took from the house in Ierousalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sasabasar, the treasurer over the treasury.
 
 **Ezra 5:15**
 
-Sons of Atēr Ezekiou, 92; sons of Kilan and Azētas, 67; sons of Azourou, 432.
+And he said to him, Take all the vessels and go, put them in the house in Ierousalem, each in its own place.
 
 **Ezra 5:16**
 
-Sons of Annias, 101; sons of Arom; sons of Bassai, 323; sons of Ariphou, 112.
+Then that Sasabasar came and laid foundations of house of God in Ierousalem, and from then until now it has been built and not completed.
 
 **Ezra 5:17**
 
-Sons of Baitērous, 3,005; sons from Baithlōmōn, 123.
-
-**Ezra 5:18**
-
-Those from Netebas, 55; those from Enatou, 158; those from Baithasmōn, 42.
-
-**Ezra 5:19**
-
-Those from Kariathiarios, 25; those from Kapiras and Bērot, 743.
-
-**Ezra 5:20**
-
-Those Chadasai and Ammidioi, 422; those from Kiramas and Gabbēs, 621.
-
-**Ezra 5:21**
-
-Those from Makalōn, 122; those from Baitholiō, 52; sons of Niphi, 156.
-
-**Ezra 5:22**
-
-Sons of Kalamōlallou and Ōnous, 725; sons of Ierechou, 345.
-
-**Ezra 5:23**
-
-Sons of Sanaas, 3,330.
-
-**Ezra 5:24**
-
-The priests: sons of Ieddou, son of Iēsous among sons of Anasib, 972; sons of Emmērou, 1,052.
-
-**Ezra 5:25**
-
-Sons of Phassourou, 1,247; sons of Charmē, 1,017.
-
-**Ezra 5:26**
-
-And the Levites: sons of Iēsous and Kadmiēlou and Bannou and Soudiou, 74.
-
-**Ezra 5:27**
-
-The temple-singers, sons of Asaph, 128.
-
-**Ezra 5:28**
-
-The gatekeepers: sons of Saloum, sons of Atar, sons of Tolman, sons of Akoub, sons of Atita, sons of Sōbai, all of them 139.
-
-**Ezra 5:29**
-
-The temple-servants: sons of Ēsau, sons of Asipha, sons of Tabaōth, sons of Kēras, sons of Soua, sons of Phadaiou, sons of Labana, sons of Aggaba,
-
-**Ezra 5:30**
-
-sons of Akoud, sons of Outa, sons of Kētab, sons of Agaba, sons of Sybai, sons of Anan, sons of Kathoua, sons of Geddour,
-
-**Ezra 5:31**
-
-sons of Iairou, sons of Daisan, sons of Noeba, sons of Chaseba, sons of Gazēra, sons of Oziou, sons of Phinoe, sons of Asara, sons of Basthai, sons of Asana, sons of Maani, sons of Naphisi, sons of Akouph, sons of Achiba, sons of Asour, sons of Pharakim, sons of Basalōth,
-
-**Ezra 5:32**
-
-sons of Meedda, sons of Koutha, sons of Charea, sons of Barchous, sons of Serar, sons of Thomoi, sons of Nasi, sons of Atipha.
-
-**Ezra 5:33**
-
-Sons of children of Salōmōn: sons of Assaphiōth, sons of Pharida, sons of Ieiēli, sons of Lozōn, sons of Isdaēl, sons of Saphythi,
-
-**Ezra 5:34**
-
-sons of Agia, sons of Phakareth-Sabiē, sons of Sarōthie, sons of Masias, sons of Gas, sons of Addous, sons of Soubas, sons of Apherra, sons of Barōdis, sons of Saphat, sons of Amōn.
-
-**Ezra 5:35**
-
-All temple-servants and sons of children of Salōmōn, 372.
-
-**Ezra 5:36**
-
-These came up from Thermeleth and Thelersas, their leader being Charaath, Adan, and Amar.
-
-**Ezra 5:37**
-
-And they were not able to report their father-houses and generations, that they are from Israel: sons of Dalan son of Touban, sons of Nekōdan, 652.
-
-**Ezra 5:38**
-
-And from priests, those making claim to priesthood and not found: sons of Obbia, sons of Akkōs, sons of Ioddous, who took Augian as wife from daughters of Pharzellaiou and was called by his name.
-
-**Ezra 5:39**
-
-And when genealogical register was sought among enrollment and not found, they were separated from serving as priests.
-
-**Ezra 5:40**
-
-And Neemias and Attharias said to them not to share in holy things until high priest arises clothed with manifestation and truth.
-
-**Ezra 5:41**
-
-And all together were 42,360 Israelites besides children and female servants; of these male and female servants were 7,337, singers and songstresses 245.
-
-**Ezra 5:42**
-
-Camels, 435; horses, 7,036; mules, 245; beasts of burden, 5,525.
-
-**Ezra 5:43**
-
-And from leaders according to their father-houses, when they came into sanctuary of God in Ierousalem, they vowed to raise house upon its place according to their ability,
-
-**Ezra 5:44**
-
-and to give into sacred treasury of works 1,000 minas of gold and 5,000 minas of silver and 100 priestly robes.
-
-**Ezra 5:45**
-
-And priests and Levites and those from people dwelt in Ierousalem and in country, and also temple-singers and gatekeepers and all Israel in their villages.
-
-**Ezra 5:46**
-
-Now when seventh month came, and sons of Israel were each in their own places, they gathered with one accord into broad place of first gate toward east.
-
-**Ezra 5:47**
-
-And Iēsous son of Iōsedek and his brothers and Zorobabel son of Salathiēl and his brothers stood and prepared altar of God of Israel,
-
-**Ezra 5:48**
-
-to offer whole burnt offerings upon it, according as things prescribed in book of Mōusēs, man of God.
-
-**Ezra 5:49**
-
-And from other nations of land they were gathered against them, and they set altar aright on its place, because they were in hostility to them and all nations on earth prevailed against them, and they offered sacrifices at time and morning and evening whole burnt offerings to Lord.
-
-**Ezra 5:50**
-
-And they kept feast of tabernacles as commanded in law, and sacrifices daily as was fitting.
-
-**Ezra 5:51**
-
-And after these things they brought continual offerings and sacrifices of Sabbaths and new moons and all consecrated feasts.
-
-**Ezra 5:52**
-
-And all who vowed vow to God began from new moon of seventh month to offer sacrifices to God, though temple of God had not yet been built.
-
-**Ezra 5:53**
-
-And they gave silver to masons and carpenters, and food and drink and cheer to Sidōnioi and Tyrioi, that they should bring cedar woods from Lebanon, carrying by rafts to port of Ioppē, according to command written to them from Cyrus king of Persians.
-
-**Ezra 5:54**
-
-And in second year, when they came to sanctuary of God in Ierousalem, in second month, Zorobabel son of Salathiēl and Iēsous son of Iōsedek and their brothers and priests and Levites and all who came from captivity to Ierousalem began.
-
-**Ezra 5:55**
-
-And they founded temple of God on new moon of second month of second year after coming into Ioudaia and Ierousalem.
-
-**Ezra 5:56**
-
-And they stationed Levites from twenty years old over works of Lord, and Iēsous stood, and his sons and brothers, and Kadmiēl the brother and sons of Iēsou Ēmadaboun and sons of Iōda the Iliadoun, together with sons and brothers, all the Levites together, workmasters of those doing works in house of God.
-
-**Ezra 5:57**
-
-And builders built temple of Lord, and priests stood arrayed with music and trumpets, and Levites sons of Asaph holding cymbals, hymning to Lord and blessing according to Dauid king of Israel.
-
-**Ezra 5:58**
-
-And they cried out through hymns, confessing to Lord, because his goodness and glory are forever to all Israel.
-
-**Ezra 5:59**
-
-And all people trumpeted and shouted with loud voice, hymning to Lord over raising of house of Lord.
-
-**Ezra 5:60**
-
-And there came from priests and Levites and heads according to their father-houses, the elders who had seen former house, to this building with great cry and weeping,
-
-**Ezra 5:61**
-
-and many with trumpets and joy with loud voice,
-
-**Ezra 5:62**
-
-so that people did not hear sound of trumpets because of weeping of people, for crowd was trumpeting greatly, so as to be heard far away.
-
-**Ezra 5:63**
-
-And when enemies of tribe of Iouda and Beniamin heard, they came to know what voice of trumpets was.
-
-**Ezra 5:64**
-
-And they learned that those from captivity are building temple to Lord God of Israel.
-
-**Ezra 5:65**
-
-And after approaching Zorobabel and Iēsous and heads of father-houses, they say to them, We will build with you.
-
-**Ezra 5:66**
-
-For like you we hear Lord your God, and to him we sacrifice from days of Asbasareth king of Assyrians, who transported us here.
-
-**Ezra 5:67**
-
-And Zorobabel and Iēsous and heads of father-houses of Israel said to them, It is not for you and for us to build house to Lord our God.
-
-**Ezra 5:68**
-
-For we alone will build to Lord of Israel, according as Cyrus king of Persians commanded us.
-
-**Ezra 5:69**
-
-But peoples of land pressed upon those in Ioudaia, and besieging them they hindered the building,
-
-**Ezra 5:70**
-
-and by making plots and popular pressure and gatherings they prevented building from being completed all time of life of king Cyrus.
-
-**Ezra 5:71**
-
-And building was delayed two years until reign of Darius.
+And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us.
 
 ### Chapter 6
 
 **Ezra 6:1**
 
-And in second year of reign of Darius, Aggaios and Zacharias son of Eddi, the prophets, prophesied over the Ioudaioi in Ioudaia and Ierousalem in name of Lord God of Israel over them.
+Then King Darius set decree, and search was made in the libraries where the treasure is laid in Babylon.
 
 **Ezra 6:2**
 
-Then after Zorobabel son of Salathiēl and Iēsous son of Iōsedek stood up, they began to build house of Lord in Ierousalem, prophets of Lord being with them and helping them.
+And in city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
 
 **Ezra 6:3**
 
-At that same time Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners came to them and said,
+In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 
 **Ezra 6:4**
 
-By whose order are you building this house and this roof and completing all other things? And who are builders completing these things?
+with three courses of massive stone and one course of timber, and expense shall be given from house of the king.
 
 **Ezra 6:5**
 
-And favor of oversight from Lord came upon elders of Ioudaioi of captivity,
+And silver and gold vessels of house of God, which Nabouchodonosor brought out from the house in Ierousalem and carried to Babylon, let them be given back and go to the temple in Ierousalem, to place where they were put, in house of God.
 
 **Ezra 6:6**
 
-and they were not hindered from building until message about them should be shown to Darius and answer returned.
+Now stay away from there, governors beyond the River, Satharbouzana and your fellow-servants, the Apharsachaeans beyond the River.
 
 **Ezra 6:7**
 
-Copy of letter which Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners, leaders in Syria and Phoinikia, wrote to Darius and sent:
+Leave work of that house of God alone. Let leaders of the Ioudaioi and elders of the Ioudaioi build that house of God on its place.
 
 **Ezra 6:8**
 
-To king Darius, greetings in all things. Let it be known to our lord king that when we came into land of Ioudaia and entered Ierousalem city, we found elders of captivity of Ioudaioi in Ierousalem city building great new house to Lord from carved costly stones, timbers being laid in walls.
+And from me decree has been set that you do nothing against elders of the Ioudaioi in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
 
 **Ezra 6:9**
 
-And those works are being done with haste, and work is prospering in their hands and being brought to completion with all glory and diligence.
+And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Ierousalem, let it be given to them day by day, whatever they ask,
 
 **Ezra 6:10**
 
-Then we asked those elders, saying, By whose command are you building this house and laying foundations of these works?
+so that they may be offering fragrant offerings to God of heaven and praying for life of the king and his sons.
 
 **Ezra 6:11**
 
-So we asked them in order to make it known to you and write to you names of men leading them, and we requested from them names of those taking lead.
+And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
 
 **Ezra 6:12**
 
-And they answered us, saying, We are servants of Lord who created heaven and earth.
+And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Ierousalem. I, Darius, set decree; it shall be done carefully.
 
 **Ezra 6:13**
 
-And house was built before many years by a great and strong king of Israel, and it was completed.
+Then Thanthanai, governor beyond the River, Satharbouzana, and their fellow-servants did carefully according to what Darius the king sent.
 
 **Ezra 6:14**
 
-And because our fathers provoked and sinned against Lord of Israel, the heavenly one, he gave them into hands of Nabouchodonosor king of Babylōn, king of Chaldeans.
+And elders of the Ioudaioi were building and prospering through prophecy of Haggai the prophet and Zacharias son of Addo. And they built and completed it by decree of God of Israel and by decree of Cyrus and Darius and Arthasastha, kings of Persia.
 
 **Ezra 6:15**
 
-After pulling house down, they burned it, and they led people away captive into Babylōn.
+And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
 
 **Ezra 6:16**
 
-But in first year of Cyrus reigning over land of Babylōnia, king Cyrus wrote that this house should be built.
+And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of house of God with gladness.
 
 **Ezra 6:17**
 
-And sacred vessels of house of Lord, gold and silver, which Nabouchodonosor brought out from house in Ierousalem and deposited in his own temple, king Cyrus again brought them out from temple in Babylōn and they were handed over to Zorobabel and Sanabassaros the governor.
+And they offered at dedication of house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to number of tribes of Israel.
 
 **Ezra 6:18**
 
-And it was ordered him, after carrying all these vessels away, to place them in temple in Ierousalem, and that this temple of Lord be built on the place.
+And they set priests in their divisions and Levites in their allotments for service of God in Ierousalem, according to writing of book of Moses.
 
 **Ezra 6:19**
 
-Then that Sanabassar, after coming, laid foundations of house of Lord in Ierousalem, and from then until now it is being built and has not yet taken completion.
+And sons of the exile kept the Passover on fourteenth day of the first month.
 
 **Ezra 6:20**
 
-Now therefore, if king judges, let search be made in royal libraries of our lord king, those in Babylōn.
+For the priests and the Levites had purified themselves until all of them together were pure, and they slaughtered the Passover for all sons of exile and for their brothers the priests and for themselves.
 
 **Ezra 6:21**
 
-And if it is found with approval of king Cyrus that building of house of Lord in Ierousalem took place, and if it seems good to our lord king, let him send word to us concerning these things.
+And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
 
 **Ezra 6:22**
 
-Then king Darius ordered search to be made in royal libraries lying in Babylōn, and in Ekbatanois in fortress in land of Media there was found one scroll in which these things had been recorded:
-
-**Ezra 6:23**
-
-In first year of Cyrus reigning, king Cyrus ordered house of Lord in Ierousalem to be built where they sacrifice with continual fire.
-
-**Ezra 6:24**
-
-Its height sixty cubits, width sixty cubits, with three courses of hewn stone and one course of new local timber, and expense to be given from house of king Cyrus.
-
-**Ezra 6:25**
-
-And sacred vessels of house of Lord, both gold and silver, which Nabouchodonosor brought out from house in Ierousalem and carried to Babylōn, are to be restored to house in Ierousalem where they were laid, so that they may be placed there.
-
-**Ezra 6:26**
-
-And he ordered Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners and leaders appointed in Syria and Phoinikia, to keep away from the place, but to let servant of Lord Zorobabel, governor of Ioudaia, and elders of Ioudaioi build that house of Lord on the place.
-
-**Ezra 6:27**
-
-And I also ordered that it be built completely, and that attention be given so that they help those from captivity of Ioudaia until house of Lord is completed.
-
-**Ezra 6:28**
-
-And from tribute of Coele-Syria and Phoinikia let supplies be carefully given to those men for sacrifices to Lord, to Zorobabel the governor, for bulls and rams and lambs,
-
-**Ezra 6:29**
-
-and likewise wheat and salt and wine and oil continually year by year, as priests in Ierousalem direct to be used up day by day without dispute,
-
-**Ezra 6:30**
-
-so that libations may be offered to God Most High for king and children, and they may pray concerning their life.
-
-**Ezra 6:31**
-
-And he ordered that whoever transgresses any of the things said beforehand and written down, or even annuls them, let timber be taken from his own house and let him be hanged upon it, and let his possessions become royal.
-
-**Ezra 6:32**
-
-Because of these things may Lord, whose name is invoked there, destroy every king and nation that stretches out hand to hinder or to do harm to that house of Lord there in Ierousalem.
-
-**Ezra 6:33**
-
-I king Darius have decreed that these things be done carefully according to them.
+And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Assour toward them, to strengthen their hands in works of house of God of Israel.
 
 ### Chapter 7
 
 **Ezra 7:1**
 
-Then Sisinnēs, governor of Coele-Syria and Phoinikia, and Sathrabouzanēs and their partners, following commands given by king Darius,
+And after these words, in reign of Arthasastha king of Persians, Ezra son of Saraios, son of Azarias, son of Elkia,
 
 **Ezra 7:2**
 
-supervised sacred works more carefully, cooperating with elders of Ioudaioi and temple-officials.
+son of Saloum, son of Saddouk, son of Achitob,
 
 **Ezra 7:3**
 
-And sacred works prospered while Aggaios and Zacharias the prophets were prophesying.
+son of Samarias, son of Esria, son of Mareroth,
 
 **Ezra 7:4**
 
-And they completed these things through command of Lord God of Israel,
+son of Zaria, son of Saouia, son of Bokki,
 
 **Ezra 7:5**
 
-and with approval of Cyrus and Darius and Artaxerxes kings of Persians the holy house was completed until twenty-third of month Adar, in sixth year of reign of Darius.
+son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
 
 **Ezra 7:6**
 
-And sons of Israel and priests and Levites and rest from captivity who had been added did according to things in book of Mōusēs.
+This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
 
 **Ezra 7:7**
 
-And they brought to dedication of sanctuary of Lord 100 bulls, 200 rams, 400 lambs,
+And some from sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Ierousalem in seventh year of King Arthasastha.
 
 **Ezra 7:8**
 
-12 goats for sin of all Israel, according to number of tribal leaders of Israel, 12.
+And they came to Ierousalem in fifth month; this was seventh year of the king.
 
 **Ezra 7:9**
 
-And priests and Levites arrayed by tribes stood over works of Lord God of Israel according to book of Mōusēs, and gatekeepers at each gate.
+For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Ierousalem, because good hand of his God was upon him.
 
 **Ezra 7:10**
 
-And sons of Israel from captivity kept Passover on fourteenth of first month, for priests and Levites were purified together.
+For Ezra gave his heart to seek the law and to do it and to teach ordinances and judgments in Israel.
 
 **Ezra 7:11**
 
-And not all sons of captivity had purified themselves, but Levites all together had purified themselves.
+And this is copy of decree which Arthasastha gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
 
 **Ezra 7:12**
 
-And they sacrificed Passover for all sons of captivity and for their brothers the priests and for themselves.
+Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
 
 **Ezra 7:13**
 
-And sons of Israel from captivity ate, all who had separated from abominations of nations of land, seeking Lord.
+From me decree has been set that everyone in my kingdom who freely chooses from people of Israel and priests and Levites to go to Ierousalem with you may go.
 
 **Ezra 7:14**
 
-And they kept feast of unleavened breads seven days, rejoicing before Lord,
+Because you are sent from presence of the king and the seven counselors to inspect concerning Ioudaia and Ierousalem by law of your God in your hand,
 
 **Ezra 7:15**
 
-because he turned counsel of king of Assyrians upon them, to strengthen their hands in works of Lord God of Israel.
+and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Ierousalem,
+
+**Ezra 7:16**
+
+and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for house of God in Ierousalem,
+
+**Ezra 7:17**
+
+and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on altar of house of your God in Ierousalem.
+
+**Ezra 7:18**
+
+And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
+
+**Ezra 7:19**
+
+And vessels given to you for service of house of God, deliver before God in Ierousalem.
+
+**Ezra 7:20**
+
+And whatever remains of need for house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+
+**Ezra 7:21**
+
+And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+
+**Ezra 7:22**
+
+up to one hundred talents of silver and up to one hundred kors of wheat and up to one hundred baths of wine and up to one hundred baths of oil, and salt without measure.
+
+**Ezra 7:23**
+
+Everything in decree of God of heaven, let it be done carefully for house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
+
+**Ezra 7:24**
+
+And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
+
+**Ezra 7:25**
+
+And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
+
+**Ezra 7:26**
+
+And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+
+**Ezra 7:27**
+
+Blessed is the Lord God of our fathers, who gave thus into heart of the king to glorify house of the Lord in Ierousalem,
+
+**Ezra 7:28**
+
+and bent mercy toward me before the king and his counselors and all the exalted rulers of the king. And I was strengthened, as good hand of God was upon me, and I gathered leaders from Israel to go up with me.
 
 ### Chapter 8
 
 **Ezra 8:1**
 
-And after these things, later, when Artaxerxes king of Persians was reigning, Esdras came up, son of Saraiou, son of Ezeriou, son of Chelkiou, son of Salēmou,
+And these were chiefs of their father-houses, leaders going up with me in reign of Arthasastha, king of Babylon:
 
 **Ezra 8:2**
 
-son of Saddouk, son of Achitōb, son of Amariou, son of Oziou, son of Bokka, son of Abisoue, son of Phinees, son of Eleazar, son of Aarōn the first priest.
+from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
 
 **Ezra 8:3**
 
-This Esdras came up from Babylōn, being a skilled scribe in law of Mōusēs which was given by God of Israel.
+from sons of Sechanias; from sons of Phoros, Zacharias, and with him a band of one hundred fifty males;
 
 **Ezra 8:4**
 
-And king gave him glory, he having found favor before him concerning all his requests.
+from sons of Phaathmoab, Elianas son of Zaraia, and with him two hundred males;
 
 **Ezra 8:5**
 
-And there went up with him from sons of Israel and from priests and Levites and temple-singers and gatekeepers and temple-servants to Ierosolyma in seventh year of reign of Artaxerxes, in fifth month; this was seventh year to king.
+from sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;
 
 **Ezra 8:6**
 
-For after they departed from Babylōn on new moon of first month, on new moon of fifth month they arrived in Ierousalem, according to good journey given them from Lord upon him.
+and from sons of Adin, Obeth son of Ionathan, and with him fifty males;
 
 **Ezra 8:7**
 
-For Esdras had much knowledge, so as to leave out nothing from law of Lord and from commandments, to teach all Israel all righteous requirements and judgments.
+and from sons of Elam, Iesias son of Athelia, and with him seventy males;
 
 **Ezra 8:8**
 
-Now when decree written from Artaxerxes the king to Esdras the priest and reader of law of Lord fell upon him, the copy below is this:
+and from sons of Saphatia, Zabdia son of Michael, and with him eighty males;
 
 **Ezra 8:9**
 
-King Artaxerxes to Esdras the priest and reader of law of Lord, greetings.
+and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
 
 **Ezra 8:10**
 
-And I, judging humane things, ordered that those wishing from nation of Ioudaioi and from priests and Levites and those in my kingdom may go with you to Ierousalem.
+and from sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
 
 **Ezra 8:11**
 
-Therefore as many as think it good, let them set out together, just as it seemed good to me and to seven friends who counsel me,
+and from sons of Babi, Zacharia son of Babi, and with him seventy-eight males;
 
 **Ezra 8:12**
 
-so that they may inspect matters according to Ioudaia and Ierousalem, according to what law of your God contains,
+and from sons of Asgad, Ioanan son of Akatan, and with him one hundred ten males;
 
 **Ezra 8:13**
 
-and to carry gifts to Lord of Israel which both I and my friends vowed for Ierousalem, and all gold and silver whatever may be found in land of Babylōnia for Lord in Ierousalem, together with what is given by nation for sanctuary of Lord there in Ierousalem,
+and from sons of Adonikam, the last, and these their names: Eliphalat, Iiel, and Samaia, and with them sixty males;
 
 **Ezra 8:14**
 
-to gather both gold and silver for bulls and rams and lambs and things following with these,
+and from sons of Bagoi, Outhi, and with him seventy males.
 
 **Ezra 8:15**
 
-so as to offer sacrifices upon altar of Lord your God in Ierousalem.
+And I gathered them to the river coming to Eui, and we camped there three days, and I discerned among the people and the priests, but from sons of Levi I found no one there.
 
 **Ezra 8:16**
 
-And all whatever you wish to do with your brothers in gold and silver, complete according to will of your God.
+And I sent for Eleazar, Ariel, Semaia, Alonam, Iarib, Elnathan, Nathan, Zacharia, and Mesoulam, men, and for Ioarib and Elnathan, those with understanding.
 
 **Ezra 8:17**
 
-And sacred vessels of Lord, those being given to you for service of sanctuary of your God in Ierousalem,
+And I sent them out to the leader at Argyriou the place, and I put words in their mouth to speak to their brothers the nethinim at Argyriou the place, to bring us singers for house of our God.
 
 **Ezra 8:18**
 
-and the rest, whatever may fall upon you for need of sanctuary of your God, you shall give from royal treasury.
+And they came to us, because good hand of our God was upon us, a man, Sachol, from sons of Mooli son of Levi son of Israel, and his sons and his brothers, eighteen.
 
 **Ezra 8:19**
 
-And I king Artaxerxes ordered treasurers of Syria and Phoinikia that whatever Esdras the priest and reader of law of God Most High may send for, they should give him carefully, up to 100 talents of silver,
+And Asabia and Osaia from sons of Merari, his brothers and their sons, twenty.
 
 **Ezra 8:20**
 
-and likewise up to 100 kors of wheat and 100 measures of wine, and salt in abundance.
+And from the nethinim, whom David and the rulers gave for service of the Levites, two hundred twenty nethinim. All were enrolled by names.
 
 **Ezra 8:21**
 
-Let all things according to law of God be done diligently for God Most High, so that wrath may not come upon kingdom of king and sons.
+And I proclaimed a fast there at river Aoue, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
 
 **Ezra 8:22**
 
-And to you it is said that for all priests and Levites and temple-singers and gatekeepers and temple-servants and workers of this sanctuary, no tribute nor any other exaction should be imposed, and no one should have authority to impose anything on these.
+For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, Hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
 
 **Ezra 8:23**
 
-And you, Esdras, according to wisdom of God, appoint judges and magistrates so that they may judge in all Syria and Phoinikia all who know law of your God, and those not knowing you shall teach.
+And we fasted and sought from our God concerning this, and he listened to us.
 
 **Ezra 8:24**
 
-And all who transgress law of your God and king's law will be carefully punished, whether by death or punishment or money-fine or removal.
+And I separated twelve from chiefs of the priests: Saraias, Asabia, and with them ten from their brothers.
 
 **Ezra 8:25**
 
-Blessed alone is Lord, who gave these things into heart of king, to glorify his house in Ierousalem,
+And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
 
 **Ezra 8:26**
 
-and honored me before king and his counselors and all his friends and magnates.
+And I weighed into their hands six hundred fifty talents of silver and one hundred silver vessels and one hundred talents of gold,
 
 **Ezra 8:27**
 
-And I became bold according to help of Lord my God, and I gathered from Israel men to go up with me.
+and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
 
 **Ezra 8:28**
 
-And these are leaders according to their father-houses and their divisions, those going up with me from Babylōn in reign of Artaxerxes the king:
+And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
 
 **Ezra 8:29**
 
-From sons of Phinees, Garsomos; from sons of Ietamarou, Gamēlos; from sons of Dauid, Attous son of Secheniou.
+Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Ierousalem, in chambers of house of the Lord.
 
 **Ezra 8:30**
 
-From sons of Phoros, Zacharias, and with him from register 150 men.
+And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Ierousalem into house of our God.
 
 **Ezra 8:31**
 
-From sons of Phaathmōab, Eliaōnias son of Zaraiou, and with him 200 men.
+And we set out from river Aoue on twelfth day of the first month to come to Ierousalem, and hand of our God was upon us, and he rescued us from hand of enemy and foe on the road.
 
 **Ezra 8:32**
 
-From sons of Zathoēs, Sechenias son of Iezēlou, and with him 300 men; from sons of Adinou, Bēn-Iōnathou, and with him 250 men.
+And we came to Ierousalem and sat there three days.
 
 **Ezra 8:33**
 
-From sons of Ēlam, Iēsias son of Gotholiou, and with him 70 men.
+And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
 
 **Ezra 8:34**
 
-From sons of Saphatiou, Zaraias son of Michaēlou, and with him 70 men.
+by number and by weight, everything, and all the weight was written at that time.
 
 **Ezra 8:35**
 
-From sons of Iōab, Abadias son of Iezēlou, and with him 212 men.
+Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
 
 **Ezra 8:36**
 
-From sons of Bani, Assalimōth son of Iōsapiou, and with him 160 men.
-
-**Ezra 8:37**
-
-From sons of Babi, Zacharias son of Bēbai, and with him 28 men.
-
-**Ezra 8:38**
-
-From sons of Asgath, Iōanēs son of Akatan, and with him 110 men.
-
-**Ezra 8:39**
-
-From sons of Adōnikam, the last ones, and these are their names: Eliphalatos, Ieouēl, and Samaias, and with them 70 men.
-
-**Ezra 8:40**
-
-From sons of Bago, Outhi son of Istalkourou, and with him 70 men.
-
-**Ezra 8:41**
-
-And I gathered them by river called Thera, and we camped there three days, and I examined them.
-
-**Ezra 8:42**
-
-And among sons of priests and from Levites I found none there.
-
-**Ezra 8:43**
-
-So I sent to Eleazar and Idouēlon and Maasman and Elnathan and Samaian and Iōribon, Nathan, Ennatan, Zacharian, and Mesollamon, the leaders and instructed ones.
-
-**Ezra 8:44**
-
-And I told them to come to Addaios the leader in place of treasury,
-
-**Ezra 8:45**
-
-having commanded them to speak with Addaios and his brothers and treasury-keepers in that place to send to us those who would minister in house of our Lord.
-
-**Ezra 8:46**
-
-And by mighty hand of our Lord they brought to us skilled men from sons of Mooli the Levite of Israel, Asebebias and sons and brothers of him, 18,
-
-**Ezra 8:47**
-
-and Asebia and Announon and Osaia the brother from sons of Chanounaiou, and their sons, 20.
-
-**Ezra 8:48**
-
-And from temple-servants whom Dauid and leaders gave for work of Levites, 220 temple-servants; of all these the name record had been marked.
-
-**Ezra 8:49**
-
-And I vowed there a fast for young men before our Lord,
-
-**Ezra 8:50**
-
-to seek from him good journey for us and those with us, our children and cattle.
-
-**Ezra 8:51**
-
-For I was ashamed to ask king for infantry and horsemen and escort because of enemies opposing us.
-
-**Ezra 8:52**
-
-For we had said to king that strength of our Lord would be with those seeking him for every restoration.
-
-**Ezra 8:53**
-
-And again we begged our Lord concerning these things, and we obtained favorable hearing.
-
-**Ezra 8:54**
-
-And I separated from chiefs of priests 12 men, and Serebian and Asabian, and with them 10 men from their brothers,
-
-**Ezra 8:55**
-
-and I weighed out to them the silver and gold and sacred vessels of house of our Lord, which king himself and his counselors and magnates and all Israel had dedicated.
-
-**Ezra 8:56**
-
-And after weighing I handed over to them 650 talents of silver and silver vessels of 100 talents and 100 talents of gold and 20 golden bowls and 12 bronze vessels of good shining bronze, gold-like vessels.
-
-**Ezra 8:57**
-
-And I said to them, You are holy to Lord, and vessels are holy, and silver and gold are a vow to Lord, Lord of our fathers.
-
-**Ezra 8:58**
-
-Keep watch and guard until you hand them over to chiefs of priests and Levites and to leaders of father-houses of Israel in Ierousalem, in chambers of house of our Lord.
-
-**Ezra 8:59**
-
-And priests and Levites who received silver and gold and vessels brought them into Ierousalem, into sanctuary of Lord.
-
-**Ezra 8:60**
-
-And after setting out from river Thera on twelfth of first month, we entered into Ierousalem by mighty hand of our Lord upon us, and he rescued us on the way from every enemy, and we came to Ierousalem.
-
-**Ezra 8:61**
-
-And when third day came there, silver and gold were delivered in house of our Lord to Marmōthi, Ourias the priest,
-
-**Ezra 8:62**
-
-and with him Eleazar son of Phinees, and with them Iōsabdos son of Iēsou and Mōeth son of Sabannou, the Levites, by number and weight of all things, and whole weight of them was written in that hour.
-
-**Ezra 8:63**
-
-Those who came from captivity offered sacrifices to Lord God of Israel: 12 bulls for all Israel, 96 rams, 72 lambs, 12 goats for salvation, all as sacrifice to Lord.
-
-**Ezra 8:64**
-
-And they delivered king's decrees to royal stewards and governors of Coele-Syria and Phoinikia, and they honored nation and sanctuary of Lord.
-
-**Ezra 8:65**
-
-And when these things were finished, leaders approached me, saying,
-
-**Ezra 8:66**
-
-People of Israel and leaders and priests and Levites have not separated from foreign nations of land and from their uncleannesses, from Chananaians and Chettaians and Pherezaians and Iebousaians and Mōabitans and Egyptians and Idoumaians.
-
-**Ezra 8:67**
-
-For they have dwelt with their daughters, both they and their sons, and holy seed has been mixed with foreign nations of land, and leaders and magnates shared in this lawlessness from beginning of matter.
-
-**Ezra 8:68**
-
-And as soon as I heard these things, I tore garments and holy robe and plucked hair of head and beard and sat mind-struck and grieved.
-
-**Ezra 8:69**
-
-And all who were ever stirred by word of Lord of Israel gathered to me while I was mourning over lawlessness, and I sat grieving until evening sacrifice.
-
-**Ezra 8:70**
-
-And after rising from fasting, with garments and holy robe torn, after bending knees and stretching out hands toward Lord, I said,
-
-**Ezra 8:71**
-
-Lord, I am ashamed, I am confounded before your face.
-
-**Ezra 8:72**
-
-For our sins increased above our heads, and our ignorances rose up as far as heaven.
-
-**Ezra 8:73**
-
-From times of our fathers we are in great sin until this day.
-
-**Ezra 8:74**
-
-And because of our sins, together with our brothers and with our kings and with our priests we were given over to kings of earth, to sword and captivity and plunder with shame, until this day.
-
-**Ezra 8:75**
-
-And now to some small extent mercy has come to us from you, Lord, to leave to us a root and a name in place of your sanctuary,
-
-**Ezra 8:76**
-
-and to uncover our light in house of our Lord, to give us food in time of our slavery.
-
-**Ezra 8:77**
-
-And while we were enslaved, we were not forsaken by our Lord, but he dealt with us in favor before kings of Persians,
-
-**Ezra 8:78**
-
-to give us food and to glorify sanctuary of our Lord and to raise desolate Siōn, to give us support in Ioudaia and Ierousalem.
-
-**Ezra 8:79**
-
-And now what shall we say, Lord, having these things? For we transgressed your commandments, which you gave by hand of your servants the prophets, saying that
-
-**Ezra 8:80**
-
-land into which you are entering to inherit is a polluted land with pollution of foreigners of land, and with their uncleanness they filled it.
-
-**Ezra 8:81**
-
-And now do not marry your daughters to their sons, and do not take their daughters for your sons,
-
-**Ezra 8:82**
-
-and you shall not seek to make peace with them for all time, so that after becoming strong you may eat good things of land and leave inheritance to your sons forever.
-
-**Ezra 8:83**
-
-And all things happening to us are coming because of our evil works and our great sins.
-
-**Ezra 8:84**
-
-For you, Lord, lightened our sins and gave us such a root. Shall we again turn back to transgress your law by mixing with uncleanness of nations of land?
-
-**Ezra 8:85**
-
-Were you not angry with us to destroy us, until there should be left neither root nor seed nor our name?
-
-**Ezra 8:86**
-
-Lord of Israel, you are true, for we were left as a root to this day.
-
-**Ezra 8:87**
-
-Behold, now we are before you in our lawless acts, for there is no standing any longer before you because of these things.
-
-**Ezra 8:88**
-
-And while Esdras was praying and confessing, weeping prostrate on ground before sanctuary, a very great crowd gathered to him from Ierousalem, men and women and young people, for there was great weeping in multitude.
-
-**Ezra 8:89**
-
-And Iechonias son of Ieiēlou from sons of Israel cried out and said, Esdras, we have sinned against Lord and have married foreign women from nations of land, and now there is hope for Israel in this.
-
-**Ezra 8:90**
-
-In this matter let there be oath for us to Lord, to cast out all our wives from foreigners together with their children, as it was judged by you and by all who obey law of Lord.
-
-**Ezra 8:91**
-
-Rise up and accomplish it, for matter is on you, and we are with you to act strongly.
-
-**Ezra 8:92**
-
-And after Esdras rose up, he made chiefs of priests and Levites and all Israel swear to do according to these things, and they swore.
+And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and house of God.
 
 ### Chapter 9
 
 **Ezra 9:1**
 
-And after Esdras rose from court of sanctuary, he went to chamber of Iōanan son of Eliasib.
+And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Iebousite, Ammonite, Moabite, Moserite, and Amorite.
 
 **Ezra 9:2**
 
-And after lodging there, he tasted no bread and drank no water, mourning over great lawlessnesses of multitude.
+For they took from their daughters for themselves and for their sons, and the holy seed was mixed with peoples of the lands, and hand of the rulers was first in this faithlessness.
 
 **Ezra 9:3**
 
-And proclamation came to be in all Ioudaia and Ierousalem for all from captivity to gather in Ierousalem.
+And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
 
 **Ezra 9:4**
 
-And whoever would not arrive in two or three days according to judgment of leaders and elders, their cattle would be devoted and he himself would be alienated from multitude of captivity.
+And everyone pursuing word of God of Israel was gathered to me over faithlessness of the exile, and I sat devastated until evening sacrifice.
 
 **Ezra 9:5**
 
-And those from tribe of Iouda and Beniamin gathered in Ierousalem in three days; this was ninth month, twentieth of month.
+And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
 
 **Ezra 9:6**
 
-And all multitude sat in broad place of sanctuary, trembling because of present winter.
+and said, Lord, I was ashamed and embarrassed to lift my face to you, because our lawlessnesses multiplied above our head and our trespasses grew great unto heaven.
 
 **Ezra 9:7**
 
-And after Esdras rose he said to them, You acted lawlessly and married foreign women, to add sin to Israel.
+From days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
 
 **Ezra 9:8**
 
-And now give confession, glory to Lord God of our fathers,
+And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
 
 **Ezra 9:9**
 
-and do his will, and separate yourselves from nations of land and from foreign women.
+For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Iouda and in Ierousalem.
 
 **Ezra 9:10**
 
-And all multitude cried out and said with loud voice, Just as you have said, so we will do.
+And what shall we say, our God, after this? For we forsook your commandments,
 
 **Ezra 9:11**
 
-But multitude is many, and season is wintry, and we are not able to stand outside, and work for us is not of one day nor two, for we sinned much in these things.
+which you gave by hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
 
 **Ezra 9:12**
 
-Let leaders of multitude stand, and all in our dwellings who have foreign wives, let them come after taking time,
+And now do not give your daughters to their sons, and do not take from their daughters for your sons, and do not seek their peace and their good forever, so that you may grow strong and eat good things of the land and leave it as inheritance to your sons forever.
 
 **Ezra 9:13**
 
-and with elders and judges of each place, until wrath of Lord concerning this matter is turned away from us.
+And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance,
 
 **Ezra 9:14**
 
-Iōnathas son of Azaēlou and Iezias son of Thokanou undertook it according to these things, and Mosollamos and Leuis and Sabbataios assisted them.
+shall we turn again to scatter your commandments and intermarry with peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
 
 **Ezra 9:15**
 
-And those from captivity did according to all these things.
+Lord God of Israel, righteous are you, because we were left escaping as this day. Behold, we are before you in our trespasses, because there is no standing before you on account of this.
 
-**Ezra 9:16**
+### Chapter 10
 
-And Esdras the priest chose for himself men, leaders of their fathers, all by name, and they met on new moon of tenth month to examine matter.
+**Ezra 10:1**
 
-**Ezra 9:17**
+And as Ezra prayed and confessed, weeping and praying before house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
 
-And matter concerning men holding foreign wives was brought to completion until new moon of first month.
+**Ezra 10:2**
 
-**Ezra 9:18**
+And Sechenias son of Iiel, from sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from peoples of the land, and now there is patient hope for Israel about this.
 
-And there were found among priests those gathered together having foreign wives:
+**Ezra 10:3**
 
-**Ezra 9:19**
+And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
 
-From sons of Iēsous son of Iōsedek and his brothers: Masēas and Eleazar and Iōribos and Iōdanos.
+**Ezra 10:4**
 
-**Ezra 9:20**
+Rise, because the matter is on you, and we are with you. Be strong and do it.
 
-And they pledged their hands to cast out their wives, and rams for atonement over their ignorance.
+**Ezra 10:5**
 
-**Ezra 9:21**
+And Ezra rose and made the rulers, the priests, and the Levites and all Israel swear to do according to this word, and they swore.
 
-And from sons of Emmēr: Ananias and Zabdaios and Manēs and Samaios and Iiēl and Azarias.
+**Ezra 10:6**
 
-**Ezra 9:22**
+And Ezra rose from before house of God and went into treasury-room of Ioanan son of Elisoub, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
 
-And from sons of Phaisour: Eliōnais, Massias, Ismaēlos, and Nathanaēlos and Ōkidēlos and Salthas.
+**Ezra 10:7**
 
-**Ezra 9:23**
+And they proclaimed through Iouda and Ierousalem to all sons of the exile to gather into Ierousalem.
 
-And from Levites: Iōzabdos and Semeis and Kōlios, this one Kalitas, and Pathaios and Ōoudas and Iōanas.
+**Ezra 10:8**
 
-**Ezra 9:24**
+And everyone who would not come within three days, according to counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
 
-From temple-singers: Eliasibos and Bakkouros.
+**Ezra 10:9**
 
-**Ezra 9:25**
+And all men of Iouda and Beniamin gathered into Ierousalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of house of God, trembling because of the matter and because of the winter.
 
-From gatekeepers: Salloumos and Tolbanēs.
+**Ezra 10:10**
 
-**Ezra 9:26**
+And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
 
-From Israel, from sons of Phoros: Iermas and Iezias and Melchias and Miaminos and Eleazaros and Asibias and Bannaias.
+**Ezra 10:11**
 
-**Ezra 9:27**
+And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from peoples of the land and from the foreign women.
 
-And from sons of Ēlam: Matanias and Zacharias, Iezriēlos and Ōbadios and Ieremōth and Ēlias.
+**Ezra 10:12**
 
-**Ezra 9:28**
+And all the assembly answered and said, Great is this word of yours upon us to do.
 
-And from sons of Zamōth: Eliadas, Eliasimos, Othonias, Iarimōth, and Sabathos and Zerdaias.
+**Ezra 10:13**
 
-**Ezra 9:29**
+But the people are many, and the season is rainy, and there is no strength to stand outside, and the work is not for one day and not for two, because we multiplied wrongdoing in this matter.
 
-And from sons of Bēbai: Iōannēs and Ananias and Zabdos and Emathis.
+**Ezra 10:14**
 
-**Ezra 9:30**
+Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
 
-And from sons of Mani: Ōlamos, Mamouchos, Iedaios, Iasoubos, and Asaēlos and Ieremōth.
+**Ezra 10:15**
 
-**Ezra 9:31**
+Only Ionathan son of Asael and Iazias son of Thekoue stood for this, and Mesoulam and Sabathai the Levite were helping them.
 
-And from sons of Addi: Naathos and Moossias, Lakkounos and Naidos and Beskaspasmys and Sesthēl and Balnouos and Manassēas.
+**Ezra 10:16**
 
-**Ezra 9:32**
+And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
 
-And from sons of Annan: Eliōnas and Asaias and Melchias and Sabbaias and Simōn Chosamaios.
+**Ezra 10:17**
 
-**Ezra 9:33**
+And they finished with all the men who had seated foreign women by first day of the first month.
 
-And from sons of Asōm: Maltannaios and Mattathias and Sabannaious and Eliphalat and Manassēs and Semei.
+**Ezra 10:18**
 
-**Ezra 9:34**
+And from sons of the priests who had seated foreign women were found these: from sons of Iesous son of Iosedek and his brothers, Maasaias and Eliezer and Iarib and Gadalia.
 
-And from sons of Baani: Ieremias, Momdios, Maēros, Iouēl, Mamdai, and Pedias and Anōs, Karabasiōn and Eliasibos and Mamnitanēmos, Eliasis, Bannous, Elialis, Someis, Selemias, Nathanias, and from sons of Ezōra: Sessis, Ezril, Azaēlos, Samatos, Zambris, Iōsēpos.
+**Ezra 10:19**
 
-**Ezra 9:35**
+And they gave their hands to put out their wives, and for their trespass a ram from the sheep for their trespass.
 
-And from sons of Nooma: Maziitias, Zabadaias, Ēdais, Iouēl, Bannaias.
+**Ezra 10:20**
 
-**Ezra 9:36**
+And from sons of Emmer: Anani and Zabdia.
 
-All these had dwelt with foreign women, and they sent them away with children.
+**Ezra 10:21**
 
-**Ezra 9:37**
+And from sons of Heram: Masaia and Elia and Samaia and Iiel and Ozia.
 
-And priests and Levites and those from Israel dwelt in Ierousalem and in country on new moon of seventh month, and sons of Israel were in their dwellings.
+**Ezra 10:22**
 
-**Ezra 9:38**
+And from sons of Phassour: Elioenai, Maasaias, Ismael, Nathanael, Iozabad, and Elasas.
 
-And all crowd gathered with one accord in broad place of eastward gate of sanctuary.
+**Ezra 10:23**
 
-**Ezra 9:39**
+And from the Levites: Iozabad and Samou and Kolia, he is Kolitas, and Phathaia and Iodom and Eliezer.
 
-And they said to Esdras the high priest and reader to bring law of Mōusēs, the one delivered by Lord God of Israel.
+**Ezra 10:24**
 
-**Ezra 9:40**
+And from the singers: Elisaph. And from the gatekeepers: Sellem and Telem and Odoue.
 
-And Esdras the high priest brought the law to all crowd, from man to woman, and to all priests to hear the law, on new moon of seventh month.
+**Ezra 10:25**
 
-**Ezra 9:41**
+And from Israel, from sons of Phoros: Ramia and Iazia and Melchia and Meamin and Eleazar and Asabia and Banaia.
 
-And he read in broad place before gate of sanctuary from dawn until midday, before men and women, and all crowd gave mind to law.
+**Ezra 10:26**
 
-**Ezra 9:42**
+And from sons of Elam: Mathania and Zacharia and Iaeiel and Abdia and Iarimoth and Elia.
 
-And Esdras the priest and reader of law stood upon wooden platform made for that purpose.
+**Ezra 10:27**
 
-**Ezra 9:43**
+And from sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad, and Oziza.
 
-And there stood beside him Mattathias, Sammous, Ananias, Azarias, Ourias, Ezekias, Baalsamos on the right,
+**Ezra 10:28**
 
-**Ezra 9:44**
+And from sons of Babi: Ioanan, Anania, Zabou, Othali.
 
-and on the left Phadaios, Misaēl, Melchias, Lōthasoubos, Nabarias, Zacharias.
+**Ezra 10:29**
 
-**Ezra 9:45**
+And from sons of Banoui: Mesoulam, Mallouch, Adaias, Iasoub, Salouia, and Remoth.
 
-And after Esdras took book of law before crowd, for he had prominence before all,
+**Ezra 10:30**
 
-**Ezra 9:46**
+And from sons of Phaathmoab: Edna, Chalel, Banaia, Maseia, Mathania, Beselel, Banoui, and Manasse.
 
-when he opened the law, all stood upright, and Esdras blessed Lord God Most High, God of hosts, Almighty.
+**Ezra 10:31**
 
-**Ezra 9:47**
+And from sons of Heram: Eliezer, Iessia, Melchia, Samaia, Semeon,
 
-And all crowd cried Amen, and after raising hands upward, falling on earth they worshiped Lord.
+**Ezra 10:32**
 
-**Ezra 9:48**
+Beniamin, Mallouch, Samaria.
 
-Iēsous and Anniouth and Sarabias, Iadinos, Iakoubos, Sabbataios, Autaeas, Maiannas, Kalitas, Azarias, Iōzabdos, Ananias, Phalias, the Levites, were teaching law of Lord and reading law of Lord to crowd, inspiring them together with the reading.
+**Ezra 10:33**
 
-**Ezra 9:49**
+And from sons of Esam: Mathani, Mathatha, Zabed, Eliphaleph, Ieremai, Manasse, Semei.
 
-And Attarates said to Esdras the high priest and reader and to Levites teaching crowd, before all,
+**Ezra 10:34**
 
-**Ezra 9:50**
+From sons of Bani: Maadi, Amram, Ouel,
 
-This day is holy to Lord, and all were weeping in hearing the law.
+**Ezra 10:35**
 
-**Ezra 9:51**
+Banaia, Badaia, Chelia,
 
-After going, eat rich foods and drink sweet things and send portions to those who do not have,
+**Ezra 10:36**
 
-**Ezra 9:52**
+Ouechoa, Ieramoth, Eliasib,
 
-for day is holy to Lord, and do not be grieved, for Lord will glorify you.
+**Ezra 10:37**
 
-**Ezra 9:53**
+Mathania, Mathanai, and they made.
 
-And Levites were commanding all people, saying, This day is holy, do not be grieved.
+**Ezra 10:38**
 
-**Ezra 9:54**
+The sons of Banoui and the sons of Semei,
 
-And all went away to eat and drink and to give portions to those who did not have and to rejoice greatly,
+**Ezra 10:39**
 
-**Ezra 9:55**
+and Selemia and Nathan and Adaia,
 
-because they also had been instructed in words which they were taught, and they had been gathered together.
+**Ezra 10:40**
+
+Machnadabou, Sese, Sarou,
+
+**Ezra 10:41**
+
+Ezereel and Selemia and Samaria,
+
+**Ezra 10:42**
+
+and Saloum, Amaria, Ioseph.
+
+**Ezra 10:43**
+
+From sons of Nabo: Iiel, Mathathia, Zedem, Zambina, Iadai, Ioel, and Banaia.
+
+**Ezra 10:44**
+
+All these took foreign women and begot sons from them.
 
 ## Nehemiah
 
@@ -49950,2733 +49336,1593 @@ because they also had been instructed in words which they were taught, and they 
 
 **Nehemiah 1:1**
 
-And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
 
 **Nehemiah 1:2**
 
-Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Ierousalem, the one in Ioudaia.
+And Anani, one from my brothers, came, he and men of Iouda, and I asked them concerning the survivors who were left from captivity and concerning Ierousalem.
 
 **Nehemiah 1:3**
 
-Who among you is from all his people? Let his God be with him, and let him go up to Ierousalem in Ioudaia and build house of God of Israel. He is the God in Ierousalem.
+And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Ierousalem are broken down and its gates have been burned with fire.
 
 **Nehemiah 1:4**
 
-And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for house of God in Ierousalem.
+And it came to be when I heard these words, I sat and wept and mourned for days, and I was fasting and praying before God of heaven.
 
 **Nehemiah 1:5**
 
-Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
+And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 
 **Nehemiah 1:6**
 
-And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
+let your ear now be attentive and your eyes open to hear prayer of your servant which I pray before you today, day and night, concerning sons of Israel your servants, and I confess over sins of sons of Israel, which we sinned against you; both I and house of my father sinned.
 
 **Nehemiah 1:7**
 
-And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
+In ruin we were ruined toward you, and we did not keep the commandments and the ordinances and the judgments which you commanded Moses your servant.
 
 **Nehemiah 1:8**
 
-And Cyrus king of Persians brought them out by hand of Mithradates the treasurer and counted them out to Sasabasar, governor of Iouda.
+Remember, please, the word which you commanded Moses your servant, saying, If you act faithlessly, I will scatter you among the peoples.
 
 **Nehemiah 1:9**
 
-And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
+But if you return to me and keep my commandments and do them, even if your dispersion is from edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
 
 **Nehemiah 1:10**
 
-thirty golden bowls, two hundred silver bowls, and one thousand other vessels.
+And they are your servants and your people, whom you redeemed by your great power and your strong hand.
 
 **Nehemiah 1:11**
 
-All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
+Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 
 ### Chapter 2
 
 **Nehemiah 2:1**
 
-And these are sons of the province, those coming up from captivity of the exile whom Nabouchodonosor king of Babylon exiled to Babylon, and they returned to Ierousalem and Iouda, each to his city.
+And it came to be in month Nisan, twentieth year of King Arthasastha, and wine was before me, and I took the wine and gave it to the king, and I had not been sad before him.
 
 **Nehemiah 2:2**
 
-Those who came with Zorobabel were Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum, and Baana. Number of men of people of Israel:
+And the king said to me, Why is your face troubled while you are not sick? This is nothing except trouble of heart. And I feared very greatly,
 
 **Nehemiah 2:3**
 
-Sons of Phoros: 2,172.
+and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
 
 **Nehemiah 2:4**
 
-Sons of Saphatia: 372.
+And the king said to me, For what do you seek this? And I prayed to God of heaven,
 
 **Nehemiah 2:5**
 
-Sons of Hara: 775.
+and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Iouda, to city of tombs of my fathers, and I will rebuild it.
 
 **Nehemiah 2:6**
 
-Sons of Phaathmoab, to sons of Iesoue-Ioab: 2,812.
+And the king and the concubine sitting beside him said to me, Until when will your journey be, and when will you return? And it seemed good before the king, and he sent me, and I gave him a time.
 
 **Nehemiah 2:7**
 
-Sons of Ailam: 1,254.
+And I said to the king, If it seems good to the king, let letters be given to me for governors beyond the River, so that they may send me through until I come to Iouda,
 
 **Nehemiah 2:8**
 
-Sons of Zathoua: 945.
+and a letter to Asaph, keeper of the king's park, so that he may give me timbers to roof the gates of the citadel belonging to the house and for wall of the city and for the house into which I will enter. And the king gave to me, as good hand of God was upon me.
 
 **Nehemiah 2:9**
 
-Sons of Zakkou: 760.
+And I came to the governors beyond the River and gave to them letters of the king, and the king sent with me leaders of force and horsemen.
 
 **Nehemiah 2:10**
 
-Sons of Banoui: 642.
+And Sanaballat the Aoronite heard, and Tobia the servant, the Ammonite, and it became evil to them that a man had come to seek good for sons of Israel.
 
 **Nehemiah 2:11**
 
-Sons of Babi: 623.
+And I came to Ierousalem and was there three days.
 
 **Nehemiah 2:12**
 
-Sons of Asgad: 3,222.
+And I rose by night, I and a few men with me, and I did not tell any man what God was giving in my heart to do with Israel, and no beast was with me except the beast on which I rode.
 
 **Nehemiah 2:13**
 
-Sons of Adonikam: 666.
+And I went out by night through gate of Goleila and toward mouth of spring of the figs and to gate of the dung-heaps, and I was inspecting wall of Ierousalem, which they are pulling down, and its gates were devoured by fire.
 
 **Nehemiah 2:14**
 
-Sons of Bagoi: 2,056.
+And I passed on to gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
 
 **Nehemiah 2:15**
 
-Sons of Adin: 454.
+And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by gate of the gorge and returned.
 
 **Nehemiah 2:16**
 
-Sons of Ater, of Hezekias: 98.
+And the guards did not know where I went and what I was doing, and to the Ioudaioi and to the priests and to the nobles and to the generals and to the rest doing the works I had not told it until then.
 
 **Nehemiah 2:17**
 
-Sons of Basou: 323.
+And I said to them, You see the evil in which we are, how Ierousalem lies waste and its gates were given to fire. Come, let us rebuild wall of Ierousalem, and we will no longer be a reproach.
 
 **Nehemiah 2:18**
 
-Sons of Iora: 112.
+And I told them of hand of God, that it is good upon me, and of words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
 
 **Nehemiah 2:19**
 
-Sons of Asem: 223.
+And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
 
 **Nehemiah 2:20**
 
-Sons of Gaber: 95.
-
-**Nehemiah 2:21**
-
-Sons of Baithleem: 123.
-
-**Nehemiah 2:22**
-
-Sons of Netopha: 56.
-
-**Nehemiah 2:23**
-
-Sons of Anathoth: 128.
-
-**Nehemiah 2:24**
-
-Sons of Asmoth: 42.
-
-**Nehemiah 2:25**
-
-Sons of Kariathiarim, Kaphira, and Beroth: 743.
-
-**Nehemiah 2:26**
-
-Sons of Arama and Gabaa: 621.
-
-**Nehemiah 2:27**
-
-Men of Machmas: 122.
-
-**Nehemiah 2:28**
-
-Men of Baithel and Aia: 423.
-
-**Nehemiah 2:29**
-
-Sons of Nabo: 52.
-
-**Nehemiah 2:30**
-
-Sons of Magebos: 156.
-
-**Nehemiah 2:31**
-
-Sons of Elam-ar: 1,254.
-
-**Nehemiah 2:32**
-
-Sons of Heram: 320.
-
-**Nehemiah 2:33**
-
-Sons of Lod, Aroth, and Ono: 725.
-
-**Nehemiah 2:34**
-
-Sons of Iericho: 345.
-
-**Nehemiah 2:35**
-
-Sons of Sanaa: 3,630.
-
-**Nehemiah 2:36**
-
-And the priests: sons of Iedoua, of house of Iesou, 973.
-
-**Nehemiah 2:37**
-
-Sons of Emmer: 1,052.
-
-**Nehemiah 2:38**
-
-Sons of Phassour: 1,247.
-
-**Nehemiah 2:39**
-
-Sons of Herem: 1,007.
-
-**Nehemiah 2:40**
-
-And the Levites: sons of Iesou and Kadmiel, to sons of Odouia, 74.
-
-**Nehemiah 2:41**
-
-The singers: sons of Asaph, 128.
-
-**Nehemiah 2:42**
-
-Sons of the gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabaou, all together 139.
-
-**Nehemiah 2:43**
-
-The nethinim: sons of Souia, sons of Asouph, sons of Tabaoth,
-
-**Nehemiah 2:44**
-
-sons of Keraos, sons of Soeia, sons of Phadon,
-
-**Nehemiah 2:45**
-
-sons of Labano, sons of Agaba, sons of Akaboth,
-
-**Nehemiah 2:46**
-
-sons of Agab, sons of Samalai, sons of Anan,
-
-**Nehemiah 2:47**
-
-sons of Kedel, sons of Gaer, sons of Reea,
-
-**Nehemiah 2:48**
-
-sons of Rason, sons of Nekoda, sons of Gazem,
-
-**Nehemiah 2:49**
-
-sons of Ousa, sons of Phase, sons of Basi,
-
-**Nehemiah 2:50**
-
-sons of Asena, sons of Maonim, sons of Naphison,
-
-**Nehemiah 2:51**
-
-sons of Bakbouk, sons of Akipha, sons of Arour,
-
-**Nehemiah 2:52**
-
-sons of Basaloth, sons of Maouda, sons of Aresa,
-
-**Nehemiah 2:53**
-
-sons of Barkous, sons of Sisara, sons of Thema,
-
-**Nehemiah 2:54**
-
-sons of Nasoue, sons of Atoupha.
-
-**Nehemiah 2:55**
-
-Sons of Abdeselma: sons of Sati, sons of Asepherath, sons of Phadoura,
-
-**Nehemiah 2:56**
-
-sons of Iela, sons of Darkon, sons of Gedel,
-
-**Nehemiah 2:57**
-
-sons of Saphatia, sons of Atil, sons of Phacherath-aseboin, sons of Emi.
-
-**Nehemiah 2:58**
-
-All the nethinim and sons of Abdeselma: 392.
-
-**Nehemiah 2:59**
-
-And these were the ones coming up from Thelmeleth, Thelareisa, Charoub, Edan, and Emmer, and they were not able to declare their father-house and their seed, whether they were from Israel:
-
-**Nehemiah 2:60**
-
-sons of Dalaia, sons of Boua, sons of Tobia, sons of Nekoda: 652.
-
-**Nehemiah 2:61**
-
-And from sons of the priests: sons of Chabia, sons of Akous, sons of Berzellai, who took a wife from daughters of Berzellai the Galaadite and was called by their name.
-
-**Nehemiah 2:62**
-
-These sought their enrolled writing, and it was not found, and they were excluded from the priesthood.
-
-**Nehemiah 2:63**
-
-And Atharsatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
-
-**Nehemiah 2:64**
-
-And all the assembly together was forty-two thousand three hundred sixty,
-
-**Nehemiah 2:65**
-
-besides their male slaves and female slaves; these were seven thousand three hundred thirty-seven, and they had two hundred singers and singing women.
-
-**Nehemiah 2:66**
-
-Their horses were 736, their mules 245,
-
-**Nehemiah 2:67**
-
-their camels 435, their donkeys 6,720.
-
-**Nehemiah 2:68**
-
-And some from heads of father-houses, when they came to house of the Lord in Ierousalem, made freewill offerings for house of God, to set it on its foundation.
-
-**Nehemiah 2:69**
-
-According to their strength they gave into treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
-
-**Nehemiah 2:70**
-
-And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
+And I answered them with a word and said to them, God of heaven, he will prosper us, and we his servants are clean and will build, but to you there is no share and no right and no memorial in Ierousalem.
 
 ### Chapter 3
 
 **Nehemiah 3:1**
 
-And the seventh month arrived, and sons of Israel were in their cities, and the people gathered as one man in Ierousalem.
+And Elisoub the great priest and his brothers the priests rose up and built the Sheep Gate. They sanctified it and set up its doors, and sanctified it as far as Tower of Hundred, as far as Tower of Hananeel.
 
 **Nehemiah 3:2**
 
-And Iesous son of Iosedek rose up, and his brothers the priests, and Zorobabel son of Salathiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in law of Moses man of God.
+And next to them were sons of men of Iericho, and next to them sons of Zakkour son of Amari.
 
 **Nehemiah 3:3**
 
-And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
+And sons of Asana built the Fish Gate. They roofed it and set its doors, its bolts, and its bars.
 
 **Nehemiah 3:4**
 
-And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
+And next to them Meramoth son of Ouria son of Akos repaired, and next to them Mosollam son of Barachia son of Masezebel repaired, and next to them Sadok son of Baana repaired.
 
 **Nehemiah 3:5**
 
-And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
+And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord.
 
 **Nehemiah 3:6**
 
-On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
-
-**Nehemiah 3:7**
-
-And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Ioppe, according to grant of Cyrus king of Persians upon them.
+And Ioda son of Phasek and Mesoulam son of Basodia repaired the Old Gate. They roofed it and set its doors, its bolts, and its bars.
 
 **Nehemiah 3:8**
 
-And in second year of their coming to house of God in Ierousalem, in second month, Zorobabel son of Salathiel and Iesous son of Iosedek began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Ierousalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
+And next to them Hananias son of the perfumers repaired, and they left Ierousalem as far as the Broad Wall.
 
 **Nehemiah 3:9**
 
-And Iesous stood, and his sons and his brothers, Kadmiel and his sons, sons of Iouda, over those doing the works in house of God, the sons of Enadad, their sons and their brothers the Levites.
+And next to them Raphaia, ruler of half district of Ierousalem, repaired.
 
 **Nehemiah 3:10**
 
-And they laid foundations to build house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to ordinance of David king of Israel.
+And next to them Iedaia son of Eromaph repaired opposite his house, and next to him Atous son of Asbania repaired.
 
 **Nehemiah 3:11**
 
-And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord.
+A second section Melchias son of Heram and Asoub son of Phaathmoab repaired, and as far as Tower of Ovens.
 
 **Nehemiah 3:12**
 
-And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
+And next to him Seloum son of Alloes, ruler of half district of Ierousalem, repaired, he and his daughters.
 
 **Nehemiah 3:13**
 
-And the people could not distinguish sound of shout of joy from sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
+Hanoun and inhabitants of Zano repaired Valley Gate. They built it and set its doors, its bolts, and its bars, and one thousand cubits on the wall, as far as Dung Gate.
+
+**Nehemiah 3:14**
+
+And Melchias son of Rechab, ruler of district of Bethacharm, repaired Dung Gate, he and his sons. They roofed it and set its doors, its bolts, and its bars.
+
+**Nehemiah 3:15**
+
+And the wall of pool of Kodia at the king's garden, and as far as the stairs going down from city of David.
+
+**Nehemiah 3:16**
+
+After him Nehemias son of Azabouch, ruler of half district of Bethsur, repaired as far as garden of tomb of David and as far as pool that was made and as far as House of the Mighty Men.
+
+**Nehemiah 3:17**
+
+After him the Levites repaired: Raoum son of Bani. Next to him Asabia, ruler of half district of Keila, repaired for his district.
+
+**Nehemiah 3:18**
+
+After him their brothers repaired: Beni son of Enadad, ruler of half district of Keila.
+
+**Nehemiah 3:19**
+
+And next to him Azour son of Iesou, ruler of Masphe, repaired a second measure from tower of ascent adjoining the angle.
+
+**Nehemiah 3:20**
+
+After him Barouch son of Zabou repaired a second measure, from the angle to door of house of Elisoub the great priest.
+
+**Nehemiah 3:21**
+
+After him Meramoth son of Ouria son of Akos repaired a second measure, from door of house of Elisoub to end of house of Elisoub.
+
+**Nehemiah 3:22**
+
+And after him the priests, men of Achechar, repaired.
+
+**Nehemiah 3:23**
+
+And after him Beniamin and Asoub repaired opposite their house. After him Azaria son of Maasia son of Anania repaired beside his house.
+
+**Nehemiah 3:24**
+
+After him Bani son of Enadad repaired a second measure, from house of Azaria to the angle and to the turning.
+
+**Nehemiah 3:25**
+
+Phalal son of Euzai repaired opposite the angle and the tower projecting from upper house of the king, the one at court of the guard, and after him Phadaia son of Phoros.
+
+**Nehemiah 3:26**
+
+And the nethinim were dwelling in the Ophal as far as Water Gate eastward and the projecting tower.
+
+**Nehemiah 3:27**
+
+After him the Thekoim repaired a second measure, opposite the great projecting tower and as far as wall of Ophal.
+
+**Nehemiah 3:28**
+
+Above Horse Gate the priests repaired, each opposite his own house.
+
+**Nehemiah 3:29**
+
+After him Sadduk son of Emmer repaired opposite his house, and after him Samaia son of Sechenia, keeper of East Gate, repaired.
+
+**Nehemiah 3:30**
+
+After him Anania son of Selemia and Anoum son of Seleph, the sixth, repaired a second measure. After him Mesoulam son of Barachia repaired opposite his treasury-room.
+
+**Nehemiah 3:31**
+
+After him Melchia son of the goldsmith repaired as far as house of the nethinim and the traders, opposite Gate of the Mustering and as far as ascent of the turning.
+
+**Nehemiah 3:32**
+
+And between ascent of the turning and Sheep Gate the smiths and the traders repaired.
+
+**Nehemiah 3:33**
+
+And it came to be when Sanaballat heard that we are building the wall, it was evil to him and he became very angry and mocked the Ioudaioi.
+
+**Nehemiah 3:34**
+
+And he said before his brothers, This force of Samaria, that these Ioudaioi build their own city?
+
+**Nehemiah 3:35**
+
+And Tobias the Ammanite beside him came, and they said among themselves, Will they not sacrifice or eat on their place? Surely a fox will go up and tear down wall of their stones.
+
+**Nehemiah 3:36**
+
+Hear, our God, because we became a mockery, and turn their reproach upon their own head and give them for mockery in land of captivity.
+
+**Nehemiah 3:37**
+
+And do not cover over their lawlessness.
 
 ### Chapter 4
 
 **Nehemiah 4:1**
 
-And those afflicting Iouda and Beniamin heard that sons of the captivity are building house to the Lord God of Israel.
+And it came to be as Sanaballat and Tobia and the Arabs and the Ammanites heard that growth had come to walls of Ierousalem, that the breaches began to be closed, it seemed very evil to them.
 
 **Nehemiah 4:2**
 
-And they came near to Zorobabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from days of Asaraddan king of Assour, who brought us up here.
+And they all gathered together to come to array against Ierousalem.
 
 **Nehemiah 4:3**
 
-And Zorobabel and Iesous and the rest of heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of Persians commanded us.
+And we prayed to our God and set guards over them day and night because of them.
 
 **Nehemiah 4:4**
 
-And people of the land were weakening hands of people of Iouda and hindering them from building,
+And Iouda said, Strength of the enemies was crushed, and the dust is much, and we shall not be able to build on the wall.
 
 **Nehemiah 4:5**
 
-and hiring counselors against them to scatter their counsel all the days of Cyrus king of Persians and until reign of Darius king of Persians.
+And those afflicting us said, They will not know and they will not see until we come into their midst and kill them and stop the work.
 
 **Nehemiah 4:6**
 
-And in reign of Asoueros, at beginning of his reign, they wrote a letter against inhabitants of Iouda and Ierousalem.
+And it came to be when the Ioudaioi dwelling near them came and said to us, They are coming up against us from all the places.
 
 **Nehemiah 4:7**
 
-And in days of Arthasastha, Mithradates, Tabeel, together with the rest of his fellow-servants, wrote to Arthasastha king of Persians. The tax-writer wrote the document in Syrian, and it was translated.
+And I stationed in the lowest parts of the place behind the wall, in the sheltered places, and I stationed the people by clans with their swords, their spears, and their bows.
 
 **Nehemiah 4:8**
 
-Reoum Baaltham and Samsai the scribe wrote one letter against Ierousalem to King Arthasastha,
+And I looked and rose and said to the nobles and the generals and the rest of the people, Do not fear before them. Remember our God, the great and fearful, and array yourselves for your brothers, your sons and daughters, your wives and your houses.
 
 **Nehemiah 4:9**
 
-thus judged Reoum Baaltham and Samsai the scribe and our other fellow-servants, the Dinaeans, the Apharsathachaeans, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
+And it came to be when our enemies heard that it had become known to us and God scattered their counsel, we all returned to the wall, each man to his own work.
 
 **Nehemiah 4:10**
 
-and the rest of the nations whom Asennaphar the great and honored deported and settled in cities of Samaria and the rest beyond the River.
+And it came to be from that day, half of those shaken out were doing the work, and half of them were holding spears and shields and bows and breastplates, and the rulers were behind whole house of Iouda.
 
 **Nehemiah 4:11**
 
-This is the copy of the letter which they sent to him, to King Arthasastha: Your servants, men beyond the River.
+Those building on the wall and those carrying in the loads, in arms, with one hand each was doing the work and one was holding the dart.
 
 **Nehemiah 4:12**
 
-Let it be known to the king that the Ioudaioi who came up from you to us have come to Ierousalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
+And the builders, each man girded his sword upon his loins, and they were building, and the one sounding on the horn was beside him.
 
 **Nehemiah 4:13**
 
-Now then let it be known to the king that if that city is rebuilt and its walls completed, taxes will not belong to you, nor will they give tribute, and this harms kings.
+And I said to the nobles and to the rulers and to the rest of the people, The work is wide and much, and we are scattered on the wall, far each man from his brother.
 
 **Nehemiah 4:14**
 
-And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
+In place where you hear sound of the horn, there you shall gather to us, and our God will fight for us.
 
 **Nehemiah 4:15**
 
-so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
+And we were doing the work, and half of them were holding the spears from rising of dawn until coming out of the stars.
 
 **Nehemiah 4:16**
 
-Therefore we make known to the king that if that city is rebuilt and its walls completed, there will not be peace for you.
+And at that time I said to the people, Lodge inside Ierousalem, and let the night be a watch for you and the day a work.
 
 **Nehemiah 4:17**
 
-And the king sent to Reoum Baaltham and Samsai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
-
-**Nehemiah 4:18**
-
-The tax-document which you sent to us was read before me.
-
-**Nehemiah 4:19**
-
-And a decree from me was set down, and they searched and found that that city from ancient days rises up against kings, and rebellions and runaways happen in it.
-
-**Nehemiah 4:20**
-
-And strong kings were over Ierousalem, ruling all the west beyond the River, and full taxes and tribute were given to them.
-
-**Nehemiah 4:21**
-
-And now set decision to stop those men, and that city shall not be built again except by decree.
-
-**Nehemiah 4:22**
-
-And take care not to be negligent concerning this, lest destruction multiply to harm kings.
-
-**Nehemiah 4:23**
-
-Then tax-document of King Arthasastha was read before Reoum and Samsai the scribe and their fellow-servants, and they went in haste to Ierousalem and into Iouda and stopped them with horses and force.
-
-**Nehemiah 4:24**
-
-Then work of house of God in Ierousalem ceased, and it lay idle until second year of reign of Darius king of Persians.
+And I and men of the watch behind me, not one of us was taking off his clothes.
 
 ### Chapter 5
 
 **Nehemiah 5:1**
 
-And Haggai the prophet and Zacharias son of Addo prophesied over the Ioudaioi in Iouda and Ierousalem, in name of God of Israel upon them.
+And cry of the people and of their women was great against their brothers the Ioudaioi.
 
 **Nehemiah 5:2**
 
-Then Zorobabel son of Salathiel and Iesous son of Iosedek rose up and began to build house of God in Ierousalem, and with them were prophets of God helping them.
+And some were saying, In our sons and in our daughters we are many, and we shall get grain and eat and live.
 
 **Nehemiah 5:3**
 
-At that time Thanthanai, governor beyond the River, and Satharbouzana and their fellow-servants came upon them and said these things to them: Who set decree for you to build this house and complete this structure?
+And some were saying, Our fields and our vineyards and our houses we are pledging, and we shall get grain and eat.
 
 **Nehemiah 5:4**
 
-Then they said these things to them: What are names of the men building this city?
+And some were saying, We borrowed silver for taxes of the king on our fields and our vineyards and our houses.
 
 **Nehemiah 5:5**
 
-And eyes of God were upon captivity of Iouda, and they did not stop them until a report was carried to Darius and then answer was sent to the tax-officer concerning this.
+And now flesh of our brothers is our flesh, as their sons are our sons, and behold we oppress our sons and our daughters into slavery, and some from our daughters are being oppressed, and there is no power in our hands, and our fields and our vineyards belong to the nobles.
 
 **Nehemiah 5:6**
 
-Copy of letter which Thanthanai governor beyond the River and Satharbouzana and their fellow-servants, the Apharsachaeans beyond the River, sent to King Darius:
+And I was very grieved when I heard their cry and these words.
 
 **Nehemiah 5:7**
 
-They sent a report to him, and these things were written in it: To King Darius, all peace.
+And my heart counseled within me, and I contended with the nobles and the rulers and said to them, Each man demands from his brother? You are demanding. And I set against them a great assembly.
 
 **Nehemiah 5:8**
 
-Let it be known to the king that we went into land of Iouda, to house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
+And I said to them, We bought our brothers the Ioudaioi, those sold to the nations, according to our will, and you sell your brothers? And they were silent and found no word.
 
 **Nehemiah 5:9**
 
-Then we asked those elders and said this to them: Who set decree for you to build this house and complete this structure?
+And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
 
 **Nehemiah 5:10**
 
-And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
+And my brothers and my acquaintances and I placed silver and grain among them. Let us leave off this demand.
 
 **Nehemiah 5:11**
 
-And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
+Return to them today their fields, their vineyards, their oliveyards, and their houses, and bring out to them from the silver and the grain and the wine and the oil.
 
 **Nehemiah 5:12**
 
-But from time when our fathers provoked God of heaven, he gave them into hand of Nabouchodonosor king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
+And they said, We will give it back and will not ask from them; thus we will do as you say. And I called the priests and made them swear to do according to this word.
 
 **Nehemiah 5:13**
 
-But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
+And I shook out my fold and said, Thus may God shake out every man who does not fulfill this word, from his house and from his labor, and thus may he be shaken out and empty. And all the assembly said, Amen, and they praised the Lord, and the people did this word.
 
 **Nehemiah 5:14**
 
-And vessels of house of God, the gold and silver ones which Nabouchodonosor took from the house in Ierousalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sasabasar, the treasurer over the treasury.
+From the day when he commanded me to be governor over them in land of Iouda, from twentieth year until thirty-second year of Arthasastha, twelve years, I and my brothers did not eat their exaction.
 
 **Nehemiah 5:15**
 
-And he said to him, Take all the vessels and go, put them in the house in Ierousalem, each in its own place.
+But the first exactions which were before me weighed heavily upon them, and they took from them in breads and in wine, at last forty didrachmas of silver, and those shaken out from them exercised power over the people. But I did not do so because of fear of God.
 
 **Nehemiah 5:16**
 
-Then that Sasabasar came and laid foundations of house of God in Ierousalem, and from then until now it has been built and not completed.
+And in work of this wall I did not take possession of field, I did not acquire any, and all gathered there were for the work.
 
 **Nehemiah 5:17**
 
-And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us.
+And one hundred fifty Ioudaioi men, and those coming to us from the nations around us, were at my table.
+
+**Nehemiah 5:18**
+
+And what was made for one day was one calf, and six choice sheep, and a goat were made for me, and every ten days wine in abundance for all. Yet with these I did not seek bread of exaction, because service was heavy upon this people.
+
+**Nehemiah 5:19**
+
+Remember me, O God, for good, all that I did for this people.
 
 ### Chapter 6
 
 **Nehemiah 6:1**
 
-Then King Darius set decree, and search was made in the libraries where the treasure is laid in Babylon.
+And it came to be as Sanaballat and Tobia and Gesam the Arab and the rest of our enemies heard that I had built the wall and no breach was left in it, though until that time I had not set doors in the gates,
 
 **Nehemiah 6:2**
 
-And in city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
+Sanaballat and Gesam sent to me saying, Come, let us gather together in the villages in plain of Ono. But they were reckoning to do evil to me.
 
 **Nehemiah 6:3**
 
-In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+And I sent messengers to them saying, Great work I do, and I will not be able to come down, lest the work stop. As soon as I complete it, I will come down to you.
 
 **Nehemiah 6:4**
 
-with three courses of massive stone and one course of timber, and expense shall be given from house of the king.
+And they sent to me according to this word four times, and I sent them according to these things.
 
 **Nehemiah 6:5**
 
-And silver and gold vessels of house of God, which Nabouchodonosor brought out from the house in Ierousalem and carried to Babylon, let them be given back and go to the temple in Ierousalem, to place where they were put, in house of God.
+And Sanaballat sent to me his servant and an open letter in his hand.
 
 **Nehemiah 6:6**
 
-Now stay away from there, governors beyond the River, Satharbouzana and your fellow-servants, the Apharsachaeans beyond the River.
+And written in it was, Among nations it was heard that you and the Ioudaioi are reckoning to rebel; because of this you build the wall and you will become king to them.
 
 **Nehemiah 6:7**
 
-Leave work of that house of God alone. Let leaders of the Ioudaioi and elders of the Ioudaioi build that house of God on its place.
+And besides these things, you appointed prophets for yourself so that you might sit in Ierousalem as king in Iouda, and now these words will be reported to the king. So now come, let us take counsel together.
 
 **Nehemiah 6:8**
 
-And from me decree has been set that you do nothing against elders of the Ioudaioi in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
+And I sent to him saying, These words which you say did not happen, because from your own heart you invent them.
 
 **Nehemiah 6:9**
 
-And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Ierousalem, let it be given to them day by day, whatever they ask,
+For all are frightening us, saying, Their hands will be loosened from this work, and it will not be done. And now I strengthened my hands.
 
 **Nehemiah 6:10**
 
-so that they may be offering fragrant offerings to God of heaven and praying for life of the king and his sons.
+And I entered house of Semei son of Dalaia son of Meehtabel, and he, being confined, said, Let us gather in house of God, in its midst, and let us shut its doors, because they are coming by night to kill you.
 
 **Nehemiah 6:11**
 
-And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
+And I said, What kind of man will go into the house and live?
 
 **Nehemiah 6:12**
 
-And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Ierousalem. I, Darius, set decree; it shall be done carefully.
+And I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him.
 
 **Nehemiah 6:13**
 
-Then Thanthanai, governor beyond the River, Satharbouzana, and their fellow-servants did carefully according to what Darius the king sent.
+They hired him against me so that I might fear and do thus and sin and become to them for an evil name, so that they might reproach me.
 
 **Nehemiah 6:14**
 
-And elders of the Ioudaioi were building and prospering through prophecy of Haggai the prophet and Zacharias son of Addo. And they built and completed it by decree of God of Israel and by decree of Cyrus and Darius and Arthasastha, kings of Persia.
+Remember, my God, Tobia and Sanaballat according to these deeds of his, and Noadia the prophet and the rest of the prophets who were frightening me.
 
 **Nehemiah 6:15**
 
-And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
+And the wall was completed on twenty-fifth of Eloul, in fifty-two days.
 
 **Nehemiah 6:16**
 
-And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of house of God with gladness.
+And it came to be when all our enemies heard and all nations around us feared, fear fell very greatly in their eyes, and they knew that this work came to completion from our God.
 
 **Nehemiah 6:17**
 
-And they offered at dedication of house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to number of tribes of Israel.
+And in those days letters from many nobles of Iouda were going to Tobia, and those of Tobia were coming to them.
 
 **Nehemiah 6:18**
 
-And they set priests in their divisions and Levites in their allotments for service of God in Ierousalem, according to writing of book of Moses.
+For many in Iouda were under oath to him, because he was son-in-law of Sechenia son of Harae, and Ioanan his son had taken daughter of Mesoulam son of Barachia as wife.
 
 **Nehemiah 6:19**
 
-And sons of the exile kept the Passover on fourteenth day of the first month.
-
-**Nehemiah 6:20**
-
-For the priests and the Levites had purified themselves until all of them together were pure, and they slaughtered the Passover for all sons of exile and for their brothers the priests and for themselves.
-
-**Nehemiah 6:21**
-
-And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
-
-**Nehemiah 6:22**
-
-And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Assour toward them, to strengthen their hands in works of house of God of Israel.
+And they were speaking his words to me, and they were carrying my words out to him, and Tobias sent letters to frighten me.
 
 ### Chapter 7
 
 **Nehemiah 7:1**
 
-And after these words, in reign of Arthasastha king of Persians, Ezra son of Saraios, son of Azarias, son of Elkia,
+And it came to be when the wall was built, and I set up the doors, that the gatekeepers and the singers and the Levites were appointed.
 
 **Nehemiah 7:2**
 
-son of Saloum, son of Saddouk, son of Achitob,
+And I commanded Hanani my brother and Hanania ruler of the citadel in Ierousalem, because he was as a truthful man and fearing God beyond many,
 
 **Nehemiah 7:3**
 
-son of Samarias, son of Esria, son of Mareroth,
+and I said to them, Gates of Ierousalem shall not be opened until the sun is hot, and while they are still keeping watch let the doors be shut and barred. And station guards from inhabitants of Ierousalem, each man in his watch and each man opposite his own house.
 
 **Nehemiah 7:4**
 
-son of Zaria, son of Saouia, son of Bokki,
+And the city was wide and great, but the people in it were few, and no houses had been built.
 
 **Nehemiah 7:5**
 
-son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
+And God gave into my heart, and I gathered the nobles and the rulers and the people for enrollment, and I found book of enrollment of those who came up at first, and I found written in it:
 
 **Nehemiah 7:6**
 
-This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
+And these are sons of the province, those who came up from captivity of the exile whom Nabouchodonosor king of Babylon exiled, and they returned to Ierousalem and to Iouda, each man to his own city,
 
 **Nehemiah 7:7**
 
-And some from sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Ierousalem in seventh year of King Arthasastha.
+with Zorobabel and Iesou and Neemia, Azaria, Daemia, Naemani, Mardochaios, Balsan, Maspharath, Esdra, Bagoi, Naoum, Baana, Masphar. Men of people of Israel:
 
 **Nehemiah 7:8**
 
-And they came to Ierousalem in fifth month; this was seventh year of the king.
+Sons of Phoros: 2,172.
 
 **Nehemiah 7:9**
 
-For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Ierousalem, because good hand of his God was upon him.
+Sons of Saphatia: 372.
 
 **Nehemiah 7:10**
 
-For Ezra gave his heart to seek the law and to do it and to teach ordinances and judgments in Israel.
+Sons of Hara: 652.
 
 **Nehemiah 7:11**
 
-And this is copy of decree which Arthasastha gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
+Sons of Phaathmoab, to sons of Iesou and Ioab: 2,818.
 
 **Nehemiah 7:12**
 
-Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+Sons of Ailam: 1,254.
 
 **Nehemiah 7:13**
 
-From me decree has been set that everyone in my kingdom who freely chooses from people of Israel and priests and Levites to go to Ierousalem with you may go.
+Sons of Zathoua: 845.
 
 **Nehemiah 7:14**
 
-Because you are sent from presence of the king and the seven counselors to inspect concerning Ioudaia and Ierousalem by law of your God in your hand,
+Sons of Zakkou: 760.
 
 **Nehemiah 7:15**
 
-and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Ierousalem,
+Sons of Banoui: 648.
 
 **Nehemiah 7:16**
 
-and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for house of God in Ierousalem,
+Sons of Bebi: 628.
 
 **Nehemiah 7:17**
 
-and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on altar of house of your God in Ierousalem.
+Sons of Asgad: 2,322.
 
 **Nehemiah 7:18**
 
-And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
+Sons of Adenikam: 667.
 
 **Nehemiah 7:19**
 
-And vessels given to you for service of house of God, deliver before God in Ierousalem.
+Sons of Bagoi: 2,067.
 
 **Nehemiah 7:20**
 
-And whatever remains of need for house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+Sons of Edin: 655.
 
 **Nehemiah 7:21**
 
-And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+Sons of Ater, of Hezekia: 98.
 
 **Nehemiah 7:22**
 
-up to one hundred talents of silver and up to one hundred kors of wheat and up to one hundred baths of wine and up to one hundred baths of oil, and salt without measure.
+Sons of Esam: 328.
 
 **Nehemiah 7:23**
 
-Everything in decree of God of heaven, let it be done carefully for house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
+Sons of Besi: 324.
 
 **Nehemiah 7:24**
 
-And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
+Sons of Ariph: 112.
 
 **Nehemiah 7:25**
 
-And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
+Sons of Gabaon: 95.
 
 **Nehemiah 7:26**
 
-And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+Sons of Baithleem: 123. Sons of Netopha: 56.
 
 **Nehemiah 7:27**
 
-Blessed is the Lord God of our fathers, who gave thus into heart of the king to glorify house of the Lord in Ierousalem,
+Sons of Anathoth: 128.
 
 **Nehemiah 7:28**
 
-and bent mercy toward me before the king and his counselors and all the exalted rulers of the king. And I was strengthened, as good hand of God was upon me, and I gathered leaders from Israel to go up with me.
+Men of Bethasmoth: 42.
+
+**Nehemiah 7:29**
+
+Men of Kariathiarim, Kaphira, and Beroth: 743.
+
+**Nehemiah 7:30**
+
+Men of Arama and Gabaa: 621.
+
+**Nehemiah 7:31**
+
+Men of Machemas: 122.
+
+**Nehemiah 7:32**
+
+Men of Bethel and Aia: 123.
+
+**Nehemiah 7:33**
+
+Men of Nabi-aar: 52.
+
+**Nehemiah 7:34**
+
+Men of Elam-aar: 1,254.
+
+**Nehemiah 7:35**
+
+Sons of Heram: 320.
+
+**Nehemiah 7:36**
+
+Sons of Iericho: 345.
+
+**Nehemiah 7:37**
+
+Sons of Lod, Adid, and Ono: 721.
+
+**Nehemiah 7:38**
+
+Sons of Sanaa: 3,930.
+
+**Nehemiah 7:39**
+
+The priests: sons of Iodae, of house of Iesou, 973.
+
+**Nehemiah 7:40**
+
+Sons of Emmer: 1,052.
+
+**Nehemiah 7:41**
+
+Sons of Phassour: 1,247.
+
+**Nehemiah 7:42**
+
+Sons of Heram: 1,017.
+
+**Nehemiah 7:43**
+
+The Levites: sons of Iesou, of Kadmiel, to sons of Odouia, 74.
+
+**Nehemiah 7:44**
+
+The singers: sons of Asaph, 148.
+
+**Nehemiah 7:45**
+
+The gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabi, 138.
+
+**Nehemiah 7:46**
+
+The nethinim: sons of Seia, sons of Asipha, sons of Tabaoth,
+
+**Nehemiah 7:47**
+
+sons of Kiras, sons of Souia, sons of Phadon,
+
+**Nehemiah 7:48**
+
+sons of Labana, sons of Agaba, sons of Salami,
+
+**Nehemiah 7:49**
+
+sons of Anan, sons of Gadel, sons of Gaar,
+
+**Nehemiah 7:50**
+
+sons of Raaia, sons of Rason, sons of Nekoda,
+
+**Nehemiah 7:51**
+
+sons of Gēzam, sons of Ozi, sons of Phese,
+
+**Nehemiah 7:52**
+
+sons of Bēsi, sons of Meinōm, sons of Nephōsasim,
+
+**Nehemiah 7:53**
+
+sons of Bakbouk, sons of Achipha, sons of Arour,
+
+**Nehemiah 7:54**
+
+sons of Basaloth, sons of Meida, sons of Adasan,
+
+**Nehemiah 7:55**
+
+sons of Barkous, sons of Sisara, sons of Thema,
+
+**Nehemiah 7:56**
+
+sons of Nisia, sons of Atipha.
+
+**Nehemiah 7:57**
+
+Sons of servants of Salomon: sons of Souti, sons of Sapharath, sons of Pherida,
+
+**Nehemiah 7:58**
+
+sons of Ieala, sons of Dorkon, sons of Gadel,
+
+**Nehemiah 7:59**
+
+sons of Saphatia, sons of Etil, sons of Phacharath, sons of Sabaim, sons of Emim.
+
+**Nehemiah 7:60**
+
+All the nethinim and sons of servants of Salomon: 392.
+
+**Nehemiah 7:61**
+
+And these came up from Thelmeleth, Aresa, Charoub, Heron, and Iemer, and they were not able to declare their father-houses and their seed, whether they were from Israel:
+
+**Nehemiah 7:62**
+
+sons of Dalaia, sons of Tobia, sons of Nekoda: 642.
+
+**Nehemiah 7:63**
+
+And from the priests: sons of Ebia, sons of Akos, sons of Berzelli, because he took wives from daughters of Berzelli the Galaadite and was called by their name.
+
+**Nehemiah 7:64**
+
+These sought their writing of enrollment and it was not found, and they were excluded from the priesthood.
+
+**Nehemiah 7:65**
+
+And Atharsatha said that they should not eat from the holy of holies until the priest might arise giving light.
+
+**Nehemiah 7:66**
+
+And all the assembly together was forty-two thousand three hundred sixty,
+
+**Nehemiah 7:67**
+
+besides their male slaves and female slaves, these being seven thousand three hundred thirty-seven, and singers and singing women, two hundred forty-five.
+
+**Nehemiah 7:68**
+
+Horses: 736. Mules: 245.
+
+**Nehemiah 7:69**
+
+Camels: 435. Donkeys: 6,720.
+
+**Nehemiah 7:70**
+
+And from part of chiefs of father-houses they gave to the work. To Nehemias, for the treasury: one thousand gold pieces, fifty bowls, and thirty priestly tunics.
+
+**Nehemiah 7:71**
+
+And from chiefs of father-houses they gave to treasury of the work twenty thousand gold pieces and two thousand two hundred minas of silver.
+
+**Nehemiah 7:72**
+
+And the rest of the people gave twenty thousand gold pieces and two thousand two hundred minas of silver and sixty-seven priestly tunics.
+
+**Nehemiah 7:73**
+
+And the priests and the Levites and the gatekeepers and the singers and some from the people and the nethinim and all Israel settled in their cities. And the seventh month arrived, and sons of Israel were in their cities.
 
 ### Chapter 8
 
 **Nehemiah 8:1**
 
-And these were chiefs of their father-houses, leaders going up with me in reign of Arthasastha, king of Babylon:
+And all the people were gathered as one man into the broad place before Water Gate, and they told Ezra the scribe to bring book of law of Moses which the Lord commanded to Israel.
 
 **Nehemiah 8:2**
 
-from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
+And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on first day of the seventh month.
 
 **Nehemiah 8:3**
 
-from sons of Sechanias; from sons of Phoros, Zacharias, and with him a band of one hundred fifty males;
+And he read in it from the hour when the sun was giving light until middle of the day, before the men and the women, and they were understanding, and ears of all the people were toward book of the law.
 
 **Nehemiah 8:4**
 
-from sons of Phaathmoab, Elianas son of Zaraia, and with him two hundred males;
+And Ezra the scribe stood on a wooden platform, and standing beside him on his right were Mattathias and Samaias and Ananias and Ouria and Elkia and Maasaias, and on his left Phadaias and Misael and Melchias and Osam and Asabdana and Zacharias and Mosollam.
 
 **Nehemiah 8:5**
 
-from sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;
+And Ezra opened the book before all the people, because he was above all the people, and it came to be when he opened it all the people stood.
 
 **Nehemiah 8:6**
 
-and from sons of Adin, Obeth son of Ionathan, and with him fifty males;
+And Ezra blessed the Lord, the great God, and all the people answered and said, Amen, lifting up their hands. And they bowed and worshiped the Lord with face to the ground.
 
 **Nehemiah 8:7**
 
-and from sons of Elam, Iesias son of Athelia, and with him seventy males;
+And Iesous and Banaias and Sarabia were causing the people to understand the law, and the people stood in their place.
 
 **Nehemiah 8:8**
 
-and from sons of Saphatia, Zabdia son of Michael, and with him eighty males;
+And they read in book of law of God, and Ezra was teaching and distinguishing it by knowledge of the Lord, and the people understood in the reading.
 
 **Nehemiah 8:9**
 
-and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
+And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 
 **Nehemiah 8:10**
 
-and from sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
+And he said to them, Go, eat fat things and drink sweet things and send portions to those having nothing, because the day is holy to our Lord, and do not fall away, because he is your strength.
 
 **Nehemiah 8:11**
 
-and from sons of Babi, Zacharia son of Babi, and with him seventy-eight males;
+And the Levites were silencing all the people, saying, Be silent, because the day is holy, and do not fall away.
 
 **Nehemiah 8:12**
 
-and from sons of Asgad, Ioanan son of Akatan, and with him one hundred ten males;
+And all the people went away to eat and drink and send portions and make great rejoicing, because they understood in the words which he made known to them.
 
 **Nehemiah 8:13**
 
-and from sons of Adonikam, the last, and these their names: Eliphalat, Iiel, and Samaia, and with them sixty males;
+And on the second day chiefs of the fathers of all the people, the priests and the Levites, were gathered to Ezra the scribe, to gain insight into all words of the law.
 
 **Nehemiah 8:14**
 
-and from sons of Bagoi, Outhi, and with him seventy males.
+And they found written in the law which the Lord commanded by Moses that sons of Israel should dwell in booths during the feast in the seventh month,
 
 **Nehemiah 8:15**
 
-And I gathered them to the river coming to Eui, and we camped there three days, and I discerned among the people and the priests, but from sons of Levi I found no one there.
+and that they should sound with trumpets in all their cities and in Ierousalem. And Ezra said, Go out to the mountain and bring leaves of olive and leaves of cypress woods and leaves of myrtle and leaves of palms and leaves of thick wood, to make booths according to what is written.
 
 **Nehemiah 8:16**
 
-And I sent for Eleazar, Ariel, Semaia, Alonam, Iarib, Elnathan, Nathan, Zacharia, and Mesoulam, men, and for Ioarib and Elnathan, those with understanding.
+And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in courts of house of God and in the broad places of the city, even to Gate of Ephraim.
 
 **Nehemiah 8:17**
 
-And I sent them out to the leader at Argyriou the place, and I put words in their mouth to speak to their brothers the nethinim at Argyriou the place, to bring us singers for house of our God.
+And all the assembly, those returned from captivity, made booths and sat in booths, for sons of Israel had not done thus from days of Iesous son of Naue until that day. And there was very great rejoicing.
 
 **Nehemiah 8:18**
 
-And they came to us, because good hand of our God was upon us, a man, Sachol, from sons of Mooli son of Levi son of Israel, and his sons and his brothers, eighteen.
-
-**Nehemiah 8:19**
-
-And Asabia and Osaia from sons of Merari, his brothers and their sons, twenty.
-
-**Nehemiah 8:20**
-
-And from the nethinim, whom David and the rulers gave for service of the Levites, two hundred twenty nethinim. All were enrolled by names.
-
-**Nehemiah 8:21**
-
-And I proclaimed a fast there at river Aoue, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
-
-**Nehemiah 8:22**
-
-For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, Hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
-
-**Nehemiah 8:23**
-
-And we fasted and sought from our God concerning this, and he listened to us.
-
-**Nehemiah 8:24**
-
-And I separated twelve from chiefs of the priests: Saraias, Asabia, and with them ten from their brothers.
-
-**Nehemiah 8:25**
-
-And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
-
-**Nehemiah 8:26**
-
-And I weighed into their hands six hundred fifty talents of silver and one hundred silver vessels and one hundred talents of gold,
-
-**Nehemiah 8:27**
-
-and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
-
-**Nehemiah 8:28**
-
-And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
-
-**Nehemiah 8:29**
-
-Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Ierousalem, in chambers of house of the Lord.
-
-**Nehemiah 8:30**
-
-And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Ierousalem into house of our God.
-
-**Nehemiah 8:31**
-
-And we set out from river Aoue on twelfth day of the first month to come to Ierousalem, and hand of our God was upon us, and he rescued us from hand of enemy and foe on the road.
-
-**Nehemiah 8:32**
-
-And we came to Ierousalem and sat there three days.
-
-**Nehemiah 8:33**
-
-And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
-
-**Nehemiah 8:34**
-
-by number and by weight, everything, and all the weight was written at that time.
-
-**Nehemiah 8:35**
-
-Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
-
-**Nehemiah 8:36**
-
-And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and house of God.
+And he read in book of law of God day by day, from first day until last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
 
 ### Chapter 9
 
 **Nehemiah 9:1**
 
-And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Iebousite, Ammonite, Moabite, Moserite, and Amorite.
+And on twenty-fourth day of this month sons of Israel were gathered in fasting and in sackcloth.
 
 **Nehemiah 9:2**
 
-For they took from their daughters for themselves and for their sons, and the holy seed was mixed with peoples of the lands, and hand of the rulers was first in this faithlessness.
+And sons of Israel were separated from every foreign son and stood and confessed their sins and lawless deeds of their fathers.
 
 **Nehemiah 9:3**
 
-And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
+And they stood at their standing place and read in book of law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
 
 **Nehemiah 9:4**
 
-And everyone pursuing word of God of Israel was gathered to me over faithlessness of the exile, and I sat devastated until evening sacrifice.
+And on the platform of the Levites stood Iesous and sons of Kadmiel, Sachania son of Sarabia, sons of Chanani, and they cried with a loud voice to the Lord their God.
 
 **Nehemiah 9:5**
 
-And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
+And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
 
 **Nehemiah 9:6**
 
-and said, Lord, I was ashamed and embarrassed to lift my face to you, because our lawlessnesses multiplied above our head and our trespasses grew great unto heaven.
+And Ezra said, You are the one, Lord alone. You made heaven and heaven of heaven and all their array, the earth and all things in it, the seas and all things in them, and you give life to all, and armies of heaven worship you.
 
 **Nehemiah 9:7**
 
-From days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
+You are the Lord God. You chose Abram and brought him out from land of the Chaldeans and placed on him the name Abraam.
 
 **Nehemiah 9:8**
 
-And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
+And you found his heart faithful before you and made covenant with him, to give to him land of the Canaanites and Hittites and Amorites and Perizzites and Iebousites and Gergesaites, and to his seed, and you established your words, because you are righteous.
 
 **Nehemiah 9:9**
 
-For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Iouda and in Ierousalem.
+And you saw humiliation of our fathers in Egypt, and their cry you heard at Red Sea.
 
 **Nehemiah 9:10**
 
-And what shall we say, our God, after this? For we forsook your commandments,
+And you gave signs in Egypt against Pharaoh and all his servants and all the people of his land, because you knew that they acted proudly against them, and you made a name for yourself as this day.
 
 **Nehemiah 9:11**
 
-which you gave by hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
+And you split the sea before them, and they passed through middle of the sea on dry land, and their pursuers you threw into the deep like a stone in mighty water.
 
 **Nehemiah 9:12**
 
-And now do not give your daughters to their sons, and do not take from their daughters for your sons, and do not seek their peace and their good forever, so that you may grow strong and eat good things of the land and leave it as inheritance to your sons forever.
+And in pillar of cloud you guided them by day, and in pillar of fire by night, to enlighten for them the road in which they would go.
 
 **Nehemiah 9:13**
 
-And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance,
+And upon Mount Sinai you came down and spoke to them from heaven and gave them straight judgments and laws of truth, good ordinances and commandments.
 
 **Nehemiah 9:14**
 
-shall we turn again to scatter your commandments and intermarry with peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
+And your holy Sabbath you made known to them, and by hand of Moses your servant you commanded to them commandments and ordinances and law.
 
 **Nehemiah 9:15**
 
-Lord God of Israel, righteous are you, because we were left escaping as this day. Behold, we are before you in our trespasses, because there is no standing before you on account of this.
+And bread from heaven you gave to them for their hunger, and water from a rock you brought out for them for their thirst, and you told them to enter to inherit the land over which you stretched out your hand to give to them.
+
+**Nehemiah 9:16**
+
+But they and our fathers acted proudly and hardened their neck and did not hear your commandments.
+
+**Nehemiah 9:17**
+
+And they refused to hear and did not remember your wonders which you did with them, and they hardened their neck and gave a chief to return into their slavery in Egypt. But you are a God merciful and compassionate, long-suffering and abundant in mercy, and you did not forsake them.
+
+**Nehemiah 9:18**
+
+Even when they made for themselves a molten calf and said, These are your gods who brought us up from Egypt, and committed great provocations,
+
+**Nehemiah 9:19**
+
+you, in your many compassions, did not forsake them in the wilderness. Pillar of cloud did not turn away from them by day to guide them in the road, nor pillar of fire by night to enlighten them the road in which they would go.
+
+**Nehemiah 9:20**
+
+And your good Spirit you gave to instruct them, and your manna you did not withhold from their mouth, and water you gave to them for their thirst.
+
+**Nehemiah 9:21**
+
+And forty years you sustained them in the wilderness. They did not lack. Their garments did not grow old, and their feet did not split.
+
+**Nehemiah 9:22**
+
+And you gave to them kingdoms and peoples and divided them out to them, and they inherited land of Sihon king of Heshbon and land of Og king of Basan.
+
+**Nehemiah 9:23**
+
+And their sons you multiplied like stars of heaven, and you brought them into the land which you told their fathers, and they inherited it.
+
+**Nehemiah 9:24**
+
+And you subdued before them inhabitants of land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
+
+**Nehemiah 9:25**
+
+And they seized lofty cities and inherited houses full of every good thing, hewn cisterns, vineyards and oliveyards and every edible tree in abundance. And they ate and were filled and grew fat and luxuriated in your great goodness.
+
+**Nehemiah 9:26**
+
+And they changed and turned away from you and cast your law behind their body, and your prophets they killed, the ones who testified among them to turn them back to you, and they committed great provocations.
+
+**Nehemiah 9:27**
+
+And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them.
+
+**Nehemiah 9:28**
+
+And when they rested, they turned again to do evil before you, and you forsook them into hands of their enemies, and they ruled over them. And they cried out to you again, and you from heaven heard and rescued them in your many compassions.
+
+**Nehemiah 9:29**
+
+And you testified to them to turn them back to your law, but they did not hear. Instead, in your commandments and in your judgments they sinned, which if a man does he will live in them. And they gave a stubborn back and hardened their neck and did not hear.
+
+**Nehemiah 9:30**
+
+And you drew over them many years and testified to them by your Spirit in hand of your prophets, and they gave no ear, and you gave them into hand of peoples of the land.
+
+**Nehemiah 9:31**
+
+But you, in your many compassions, did not make an end of them and did not forsake them, because strong and merciful and compassionate you are.
+
+**Nehemiah 9:32**
+
+And now, our God, strong, great, mighty, and fearful, keeping your covenant and your mercy, let not all the toil grow little before you, which found us and our kings and our rulers and our priests and our prophets and our fathers and all your people, from days of kings of Assour until this day.
+
+**Nehemiah 9:33**
+
+And you are righteous over all things coming upon us, because you did truth, and we sinned.
+
+**Nehemiah 9:34**
+
+And our kings and our rulers and our priests and our fathers did not do your law and did not pay attention to your commandments and your testimonies with which you testified to them.
+
+**Nehemiah 9:35**
+
+And they in your kingdom and in your great goodness which you gave to them, and in the broad and fat land which you gave before them, did not serve you and did not turn from their evil practices.
+
+**Nehemiah 9:36**
+
+Behold, we are slaves today, and the land which you gave to our fathers to eat its fruit,
+
+**Nehemiah 9:37**
+
+belongs to kings whom you set over us because of our sins, and over our bodies they rule, and over our cattle as is pleasing to them, and we are in great affliction.
 
 ### Chapter 10
 
 **Nehemiah 10:1**
 
-And as Ezra prayed and confessed, weeping and praying before house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
+And in all these things we are making a faithful covenant and writing it, and all our rulers, our Levites, and our priests are sealing it.
 
 **Nehemiah 10:2**
 
-And Sechenias son of Iiel, from sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from peoples of the land, and now there is patient hope for Israel about this.
+And among the sealers: Nehemias son of Achalia, and Sedekias,
 
 **Nehemiah 10:3**
 
-And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+Seraia, Azaria, and Ieremia,
 
 **Nehemiah 10:4**
 
-Rise, because the matter is on you, and we are with you. Be strong and do it.
+Phassour, Amaria, Melchia,
 
 **Nehemiah 10:5**
 
-And Ezra rose and made the rulers, the priests, and the Levites and all Israel swear to do according to this word, and they swore.
+Atous, Sebani, Mallouch,
 
 **Nehemiah 10:6**
 
-And Ezra rose from before house of God and went into treasury-room of Ioanan son of Elisoub, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
+Iram, Meramoth, Abdia,
 
 **Nehemiah 10:7**
 
-And they proclaimed through Iouda and Ierousalem to all sons of the exile to gather into Ierousalem.
+Daniel, Ganathon, Barouch,
 
 **Nehemiah 10:8**
 
-And everyone who would not come within three days, according to counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
+Mesoulam, Abia, Miamin,
 
 **Nehemiah 10:9**
 
-And all men of Iouda and Beniamin gathered into Ierousalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of house of God, trembling because of the matter and because of the winter.
+Maazia, Belgai, Samaia. These were priests.
 
 **Nehemiah 10:10**
 
-And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
+And the Levites: Iesous son of Azania, Banaiou from sons of Enadad, Kadmiel,
 
 **Nehemiah 10:11**
 
-And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from peoples of the land and from the foreign women.
+and his brothers: Sabania, Odouia, Kalita, Pheleia, Anan,
 
 **Nehemiah 10:12**
 
-And all the assembly answered and said, Great is this word of yours upon us to do.
+Micha, Roob, Esebias,
 
 **Nehemiah 10:13**
 
-But the people are many, and the season is rainy, and there is no strength to stand outside, and the work is not for one day and not for two, because we multiplied wrongdoing in this matter.
+Zachor, Sarabia, Sebania,
 
 **Nehemiah 10:14**
 
-Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
+Odouia, sons of Banounai.
 
 **Nehemiah 10:15**
 
-Only Ionathan son of Asael and Iazias son of Thekoue stood for this, and Mesoulam and Sabathai the Levite were helping them.
+Rulers of the people: Phoros, Phaathmoab, Elam, Zathouia, sons of
 
 **Nehemiah 10:16**
 
-And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
+Bani, Asgad, Bēbai,
 
 **Nehemiah 10:17**
 
-And they finished with all the men who had seated foreign women by first day of the first month.
+Edania, Bagoi, Edin,
 
 **Nehemiah 10:18**
 
-And from sons of the priests who had seated foreign women were found these: from sons of Iesous son of Iosedek and his brothers, Maasaias and Eliezer and Iarib and Gadalia.
+Ater, Ezekia, Azour,
 
 **Nehemiah 10:19**
 
-And they gave their hands to put out their wives, and for their trespass a ram from the sheep for their trespass.
+Odouia, Esam, Bēsi,
 
 **Nehemiah 10:20**
 
-And from sons of Emmer: Anani and Zabdia.
+Ariph, Anathoth, Nōbai,
 
 **Nehemiah 10:21**
 
-And from sons of Heram: Masaia and Elia and Samaia and Iiel and Ozia.
+Magaphēs, Mesoulam, Hezir,
 
 **Nehemiah 10:22**
 
-And from sons of Phassour: Elioenai, Maasaias, Ismael, Nathanael, Iozabad, and Elasas.
+Mesōzebel, Saddouk, Ieddoua,
 
 **Nehemiah 10:23**
 
-And from the Levites: Iozabad and Samou and Kolia, he is Kolitas, and Phathaia and Iodom and Eliezer.
+Phaltia, Anan, Anaia,
 
 **Nehemiah 10:24**
 
-And from the singers: Elisaph. And from the gatekeepers: Sellem and Telem and Odoue.
+Osēe, Anania, Asoub,
 
 **Nehemiah 10:25**
 
-And from Israel, from sons of Phoros: Ramia and Iazia and Melchia and Meamin and Eleazar and Asabia and Banaia.
+Alōēs, Phalai, Sōbēk,
 
 **Nehemiah 10:26**
 
-And from sons of Elam: Mathania and Zacharia and Iaeiel and Abdia and Iarimoth and Elia.
+Raoum, Esabana, Maasaia,
 
 **Nehemiah 10:27**
 
-And from sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad, and Oziza.
+and Aia, Ainam, Anan,
 
 **Nehemiah 10:28**
 
-And from sons of Babi: Ioanan, Anania, Zabou, Othali.
+Mallouch, Heram, Baana.
 
 **Nehemiah 10:29**
 
-And from sons of Banoui: Mesoulam, Mallouch, Adaias, Iasoub, Salouia, and Remoth.
+And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
 
 **Nehemiah 10:30**
 
-And from sons of Phaathmoab: Edna, Chalel, Banaia, Maseia, Mathania, Beselel, Banoui, and Manasse.
+were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
 
 **Nehemiah 10:31**
 
-And from sons of Heram: Eliezer, Iessia, Melchia, Samaia, Semeon,
+and that we would not give our daughters to peoples of the land and would not take their daughters for our sons,
 
 **Nehemiah 10:32**
 
-Beniamin, Mallouch, Samaria.
+and that from peoples of the land bringing wares and every merchandise on Sabbath day to sell, we would not buy from them on Sabbath and on holy day, and we would leave the seventh year and demand of every hand.
 
 **Nehemiah 10:33**
 
-And from sons of Esam: Mathani, Mathatha, Zabed, Eliphaleph, Ieremai, Manasse, Semei.
+And we will set commandments upon ourselves, to give upon ourselves a third of a didrachma yearly for service of house of our God,
 
 **Nehemiah 10:34**
 
-From sons of Bani: Maadi, Amram, Ouel,
+for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
 
 **Nehemiah 10:35**
 
-Banaia, Badaia, Chelia,
+And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into house of our God, to house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
 
 **Nehemiah 10:36**
 
-Ouechoa, Ieramoth, Eliasib,
+and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord,
 
 **Nehemiah 10:37**
 
-Mathania, Mathanai, and they made.
+and the firstborn of our sons and our cattle as written in the law, and firstborn of our cattle and our flocks, to bring into house of our God, to the priests ministering in house of our God,
 
 **Nehemiah 10:38**
 
-The sons of Banoui and the sons of Semei,
+and the firstfruit of our grains and fruit of every tree, wine and oil, we will bring to the priests into treasury-room of house of God, and tithe of our land to the Levites, and they, the Levites, are tithing in all cities of our service.
 
 **Nehemiah 10:39**
 
-and Selemia and Nathan and Adaia,
+And priest son of Aaron shall be with the Levite in tithe of the Levite, and the Levites shall bring up tithe of the tithe into house of our God, into the treasury-rooms, into house of God.
 
 **Nehemiah 10:40**
 
-Machnadabou, Sese, Sarou,
-
-**Nehemiah 10:41**
-
-Ezereel and Selemia and Samaria,
-
-**Nehemiah 10:42**
-
-and Saloum, Amaria, Ioseph.
-
-**Nehemiah 10:43**
-
-From sons of Nabo: Iiel, Mathathia, Zedem, Zambina, Iadai, Ioel, and Banaia.
-
-**Nehemiah 10:44**
-
-All these took foreign women and begot sons from them.
+For into the treasuries sons of Israel and sons of Levi will bring the firstfruits of the grain and the wine and the oil, and there are the holy vessels and the ministering priests and the gatekeepers and the singers, and we will not forsake house of our God.
 
 ### Chapter 11
 
 **Nehemiah 11:1**
 
-Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
+And rulers of the people settled in Ierousalem, and the rest of the people cast lots to bring one of ten to settle in Ierousalem, the holy city, and nine parts in the cities.
 
 **Nehemiah 11:2**
 
-And Anani, one from my brothers, came, he and men of Iouda, and I asked them concerning the survivors who were left from captivity and concerning Ierousalem.
+And the people blessed all the men freely choosing to settle in Ierousalem.
 
 **Nehemiah 11:3**
 
-And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Ierousalem are broken down and its gates have been burned with fire.
+And these are rulers of the province who settled in Ierousalem, while in cities of Iouda each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Salomon.
 
 **Nehemiah 11:4**
 
-And it came to be when I heard these words, I sat and wept and mourned for days, and I was fasting and praying before God of heaven.
+And in Ierousalem settled some from sons of Iouda and some from sons of Beniamin. From sons of Iouda: Athaia son of Azia, son of Zacharia, son of Amaria, son of Saphatia, son of Maleleel, from sons of Phares,
 
 **Nehemiah 11:5**
 
-And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
+and Maasia son of Barouch, son of Chalaza, son of Ozia, son of Adaia, son of Ioirib, son of Thēzia, son of the Sēlōnite.
 
 **Nehemiah 11:6**
 
-let your ear now be attentive and your eyes open to hear prayer of your servant which I pray before you today, day and night, concerning sons of Israel your servants, and I confess over sins of sons of Israel, which we sinned against you; both I and house of my father sinned.
+All sons of Phares settling in Ierousalem: four hundred sixty-eight mighty men.
 
 **Nehemiah 11:7**
 
-In ruin we were ruined toward you, and we did not keep the commandments and the ordinances and the judgments which you commanded Moses your servant.
+And these are sons of Beniamin: Sēlō son of Mesoulam, son of Iōad, son of Phadaia, son of Kōlia, son of Masaia, son of Aithiēl, son of Iesia.
 
 **Nehemiah 11:8**
 
-Remember, please, the word which you commanded Moses your servant, saying, If you act faithlessly, I will scatter you among the peoples.
+And after him: Gēbi, Sēli, nine hundred twenty-eight.
 
 **Nehemiah 11:9**
 
-But if you return to me and keep my commandments and do them, even if your dispersion is from edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
+And Iōēl son of Zechri was overseer over them, and Ioudas son of Asana was second over the city.
 
 **Nehemiah 11:10**
 
-And they are your servants and your people, whom you redeemed by your great power and your strong hand.
+From the priests: Iadaia son of Iōirib, Iachin,
 
 **Nehemiah 11:11**
 
-Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
+Saraia son of Elkia, son of Mesoulam, son of Saddouk, son of Mariōth, son of Aitōb, opposite house of God,
+
+**Nehemiah 11:12**
+
+and their brothers doing work of the house: Amasi son of Zacharia, son of Phassour, son of Melchia,
+
+**Nehemiah 11:13**
+
+heads of fathers: two hundred forty-two. And Amessai son of Esdriēl,
+
+**Nehemiah 11:14**
+
+and his brothers, mighty men of battle: one hundred twenty-eight, and their overseer was Badiēl.
+
+**Nehemiah 11:15**
+
+And from the Levites: Samaia son of Asoub, son of Ezri,
+
+**Nehemiah 11:17**
+
+and Mathania son of Micha and Ōbēd son of Samoui,
+
+**Nehemiah 11:18**
+
+two hundred eighty-four.
+
+**Nehemiah 11:19**
+
+And the gatekeepers: Akoub, Telamin, and their brothers: one hundred seventy-two.
+
+**Nehemiah 11:22**
+
+And overseer of the Levites was son of Bani, Ozi, son of Asabia, son of Micha, from sons of Asaph the singers, over against work of house of God.
+
+**Nehemiah 11:23**
+
+For command of the king was upon them.
+
+**Nehemiah 11:24**
+
+And Pathaia son of Basēza was at hand of the king for every matter of the people.
+
+**Nehemiah 11:25**
+
+And toward the farmsteads in their field, some from sons of Iouda settled in Kariatharbok
+
+**Nehemiah 11:26**
+
+and in Iēsou
+
+**Nehemiah 11:27**
+
+and in Beērsabee,
+
+**Nehemiah 11:30**
+
+and their farmsteads, Lachis and its fields, and they camped in Beērsabee.
+
+**Nehemiah 11:31**
+
+And sons of Beniamin settled from Gaba, Machamas,
+
+**Nehemiah 11:36**
+
+And from the Levites, divisions of Iouda were for Beniamin.
 
 ### Chapter 12
 
 **Nehemiah 12:1**
 
-And it came to be in month Nisan, twentieth year of King Arthasastha, and wine was before me, and I took the wine and gave it to the king, and I had not been sad before him.
+And these are the priests and the Levites who came up with Zorobabel son of Salathiel and Iesou: Saraia, Iermia, Esdra,
 
 **Nehemiah 12:2**
 
-And the king said to me, Why is your face troubled while you are not sick? This is nothing except trouble of heart. And I feared very greatly,
+Amaria, Mallouch,
 
 **Nehemiah 12:3**
 
-and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
-
-**Nehemiah 12:4**
-
-And the king said to me, For what do you seek this? And I prayed to God of heaven,
-
-**Nehemiah 12:5**
-
-and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Iouda, to city of tombs of my fathers, and I will rebuild it.
-
-**Nehemiah 12:6**
-
-And the king and the concubine sitting beside him said to me, Until when will your journey be, and when will you return? And it seemed good before the king, and he sent me, and I gave him a time.
+Sechenia,
 
 **Nehemiah 12:7**
 
-And I said to the king, If it seems good to the king, let letters be given to me for governors beyond the River, so that they may send me through until I come to Iouda,
+These were leaders of the priests and their brothers in days of Iesou.
 
 **Nehemiah 12:8**
 
-and a letter to Asaph, keeper of the king's park, so that he may give me timbers to roof the gates of the citadel belonging to the house and for wall of the city and for the house into which I will enter. And the king gave to me, as good hand of God was upon me.
+And the Levites: Iesou, Banoui, Kadmiel, Sarabia, Iouda, Machania, over the hands, he and his brothers,
 
 **Nehemiah 12:9**
 
-And I came to the governors beyond the River and gave to them letters of the king, and the king sent with me leaders of force and horsemen.
+for the courses.
 
 **Nehemiah 12:10**
 
-And Sanaballat the Aoronite heard, and Tobia the servant, the Ammonite, and it became evil to them that a man had come to seek good for sons of Israel.
+And Iesou begot Iōakim, and Iōakim begot Eliasib, and Eliasib begot Iōdae,
 
 **Nehemiah 12:11**
 
-And I came to Ierousalem and was there three days.
+and Iōdae begot Ionathan, and Ionathan begot Iadou.
 
 **Nehemiah 12:12**
 
-And I rose by night, I and a few men with me, and I did not tell any man what God was giving in my heart to do with Israel, and no beast was with me except the beast on which I rode.
+And in days of Iōakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
 
 **Nehemiah 12:13**
 
-And I went out by night through gate of Goleila and toward mouth of spring of the figs and to gate of the dung-heaps, and I was inspecting wall of Ierousalem, which they are pulling down, and its gates were devoured by fire.
+to Esdra, Mesoulam; to Amaria, Iōanan;
 
 **Nehemiah 12:14**
 
-And I passed on to gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
+to Mallouch, Ionathan; to Sechenia, Iōsēph;
 
 **Nehemiah 12:15**
 
-And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by gate of the gorge and returned.
+to Arem, Adnas; to Mariōth, Elkai;
 
 **Nehemiah 12:16**
 
-And the guards did not know where I went and what I was doing, and to the Ioudaioi and to the priests and to the nobles and to the generals and to the rest doing the works I had not told it until then.
+to Addai, Zacharias; to Ganathōn, Mosollam;
 
 **Nehemiah 12:17**
 
-And I said to them, You see the evil in which we are, how Ierousalem lies waste and its gates were given to fire. Come, let us rebuild wall of Ierousalem, and we will no longer be a reproach.
+to Abia, Zechri; to Beniamin, in times; to Phēlti,
 
 **Nehemiah 12:18**
 
-And I told them of hand of God, that it is good upon me, and of words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
+to Balga, Samoue; to Semeia, Ionathan;
 
 **Nehemiah 12:19**
 
-And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
+to Iōiarib, Maththanai; to Idia, Ozi;
 
 **Nehemiah 12:20**
 
-And I answered them with a word and said to them, God of heaven, he will prosper us, and we his servants are clean and will build, but to you there is no share and no right and no memorial in Ierousalem.
+to Sallai, Kallai; to Amouk, Abed;
+
+**Nehemiah 12:21**
+
+to Elkia, Asabias; to Iedeiou, Nathanael.
+
+**Nehemiah 12:22**
+
+The Levites in days of Eliasib, Iōada, Iōanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
+
+**Nehemiah 12:23**
+
+Sons of Levi, heads of fathers, were written in book of words of the days until days of Iōanan son of Elisoub.
+
+**Nehemiah 12:24**
+
+And leaders of the Levites were Asabia and Sarabia and Iesou and sons of Kadmiel, and their brothers opposite them, to hymn and praise by command of David man of God, course by course.
+
+**Nehemiah 12:25**
+
+When I was gathering the gatekeepers.
+
+**Nehemiah 12:26**
+
+In days of Iōakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
+
+**Nehemiah 12:27**
+
+And at dedication of wall of Ierousalem they sought the Levites in their places, to bring them into Ierousalem to make dedication and rejoicing, in thanksgiving and in songs, with cymbals and stringed instruments and lyres.
+
+**Nehemiah 12:28**
+
+And sons of the singers were gathered both from the district round about into Ierousalem and from the farmsteads,
+
+**Nehemiah 12:29**
+
+and from the fields, because the singers built farmsteads for themselves in Ierousalem.
+
+**Nehemiah 12:30**
+
+And the priests and the Levites purified themselves, and they purified the people and the gatekeepers and the wall.
+
+**Nehemiah 12:31**
+
+And I brought up rulers of Iouda upon the wall and set two great thanksgiving choirs, and they went to the right upon the wall by the Dung Gate.
+
+**Nehemiah 12:32**
+
+And after them went Hōsaia and half of rulers of Iouda,
+
+**Nehemiah 12:33**
+
+and Azaria, Esdra, and Mesoulam,
+
+**Nehemiah 12:34**
+
+Iouda and Beniamin and Samaia and Iermia,
+
+**Nehemiah 12:35**
+
+and from sons of the priests with trumpets, Zacharias son of Ionathan, son of Samaia, son of Mathania, son of Michaia, son of Zakkour, son of Asaph,
+
+**Nehemiah 12:36**
+
+and his brothers, Samaia and Oziēl, praising in songs of David man of God, and Ezra the scribe before them,
+
+**Nehemiah 12:37**
+
+at Gate of Ain opposite them. They went up on steps of city of David, on ascent of the wall above house of David and as far as Water Gate eastward.
+
+**Nehemiah 12:38**
+
+And the second thanksgiving choir was going to meet them, and I after it, and half of the people upon the wall above Tower of Ovens and as far as Broad Wall,
+
+**Nehemiah 12:39**
+
+and above Gate of Ephraim and to the Old Gate and to Fish Gate and Tower of Hananeel and as far as Sheep Gate, and they stood in Gate of the Guard.
+
+**Nehemiah 12:40**
+
+And the two choirs stood in house of God, and I and half of the generals with me,
+
+**Nehemiah 12:41**
+
+and the priests, Eliakim, Maasias, Beniamin, Michaias, Eliōēnai, Zacharias, Ananias, with trumpets,
+
+**Nehemiah 12:42**
+
+and Maasias and Semeias and Eleazar and Ozi and Iōanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
+
+**Nehemiah 12:43**
+
+And they sacrificed on that day great sacrifices and rejoiced, because God gladdened them greatly, and their wives and their children rejoiced, and rejoicing in Ierousalem was heard from far away.
+
+**Nehemiah 12:44**
+
+And on that day men were appointed over the treasury-rooms, for the treasures, the firstfruits, the tithes, and the things gathered in them by rulers of the cities, portions for the priests and for the Levites, because rejoicing was in Iouda over the priests and over the Levites who stood.
+
+**Nehemiah 12:45**
+
+And they kept charges of their God and charges of the purification and the singers and the gatekeepers, as commands of David and Salomon his son.
+
+**Nehemiah 12:46**
+
+For in days of David, Asaph from the beginning was chief of the singers, and there was hymn and praise to God.
+
+**Nehemiah 12:47**
+
+And all Israel in days of Zorobabel were giving portions of the singers and the gatekeepers, matter of each day on its day, and sanctifying for the Levites, and the Levites sanctifying for sons of Aaron.
 
 ### Chapter 13
 
 **Nehemiah 13:1**
 
-And Elisoub the great priest and his brothers the priests rose up and built the Sheep Gate. They sanctified it and set up its doors, and sanctified it as far as Tower of Hundred, as far as Tower of Hananeel.
+On that day it was read in book of Moses in ears of the people, and it was found written in it that Ammanites and Moabites should not enter into assembly of God forever,
 
 **Nehemiah 13:2**
 
-And next to them were sons of men of Iericho, and next to them sons of Zakkour son of Amari.
+because they did not meet sons of Israel with bread and water, and they hired Balaam against him to curse him, and our God turned the curse into blessing.
 
 **Nehemiah 13:3**
 
-And sons of Asana built the Fish Gate. They roofed it and set its doors, its bolts, and its bars.
+And it came to be when they heard the law, they separated every mixed group in Israel.
 
 **Nehemiah 13:4**
 
-And next to them Meramoth son of Ouria son of Akos repaired, and next to them Mosollam son of Barachia son of Masezebel repaired, and next to them Sadok son of Baana repaired.
+And before this, Eliasib the priest was dwelling in treasury-room of house of our God, being near to Tobia,
 
 **Nehemiah 13:5**
 
-And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord.
+and he made for him a great treasury-room, and there they formerly gave the manna and the frankincense and the vessels and the tithe of grain and wine and oil, the command for the Levites and the singers and the gatekeepers, and firstfruits of the priests.
 
 **Nehemiah 13:6**
 
-And Ioda son of Phasek and Mesoulam son of Basodia repaired the Old Gate. They roofed it and set its doors, its bolts, and its bars.
-
-**Nehemiah 13:8**
-
-And next to them Hananias son of the perfumers repaired, and they left Ierousalem as far as the Broad Wall.
-
-**Nehemiah 13:9**
-
-And next to them Raphaia, ruler of half district of Ierousalem, repaired.
-
-**Nehemiah 13:10**
-
-And next to them Iedaia son of Eromaph repaired opposite his house, and next to him Atous son of Asbania repaired.
-
-**Nehemiah 13:11**
-
-A second section Melchias son of Heram and Asoub son of Phaathmoab repaired, and as far as Tower of Ovens.
-
-**Nehemiah 13:12**
-
-And next to him Seloum son of Alloes, ruler of half district of Ierousalem, repaired, he and his daughters.
-
-**Nehemiah 13:13**
-
-Hanoun and inhabitants of Zano repaired Valley Gate. They built it and set its doors, its bolts, and its bars, and one thousand cubits on the wall, as far as Dung Gate.
-
-**Nehemiah 13:14**
-
-And Melchias son of Rechab, ruler of district of Bethacharm, repaired Dung Gate, he and his sons. They roofed it and set its doors, its bolts, and its bars.
-
-**Nehemiah 13:15**
-
-And the wall of pool of Kodia at the king's garden, and as far as the stairs going down from city of David.
-
-**Nehemiah 13:16**
-
-After him Nehemias son of Azabouch, ruler of half district of Bethsur, repaired as far as garden of tomb of David and as far as pool that was made and as far as House of the Mighty Men.
-
-**Nehemiah 13:17**
-
-After him the Levites repaired: Raoum son of Bani. Next to him Asabia, ruler of half district of Keila, repaired for his district.
-
-**Nehemiah 13:18**
-
-After him their brothers repaired: Beni son of Enadad, ruler of half district of Keila.
-
-**Nehemiah 13:19**
-
-And next to him Azour son of Iesou, ruler of Masphe, repaired a second measure from tower of ascent adjoining the angle.
-
-**Nehemiah 13:20**
-
-After him Barouch son of Zabou repaired a second measure, from the angle to door of house of Elisoub the great priest.
-
-**Nehemiah 13:21**
-
-After him Meramoth son of Ouria son of Akos repaired a second measure, from door of house of Elisoub to end of house of Elisoub.
-
-**Nehemiah 13:22**
-
-And after him the priests, men of Achechar, repaired.
-
-**Nehemiah 13:23**
-
-And after him Beniamin and Asoub repaired opposite their house. After him Azaria son of Maasia son of Anania repaired beside his house.
-
-**Nehemiah 13:24**
-
-After him Bani son of Enadad repaired a second measure, from house of Azaria to the angle and to the turning.
-
-**Nehemiah 13:25**
-
-Phalal son of Euzai repaired opposite the angle and the tower projecting from upper house of the king, the one at court of the guard, and after him Phadaia son of Phoros.
-
-**Nehemiah 13:26**
-
-And the nethinim were dwelling in the Ophal as far as Water Gate eastward and the projecting tower.
-
-**Nehemiah 13:27**
-
-After him the Thekoim repaired a second measure, opposite the great projecting tower and as far as wall of Ophal.
-
-**Nehemiah 13:28**
-
-Above Horse Gate the priests repaired, each opposite his own house.
-
-**Nehemiah 13:29**
-
-After him Sadduk son of Emmer repaired opposite his house, and after him Samaia son of Sechenia, keeper of East Gate, repaired.
-
-**Nehemiah 13:30**
-
-After him Anania son of Selemia and Anoum son of Seleph, the sixth, repaired a second measure. After him Mesoulam son of Barachia repaired opposite his treasury-room.
-
-**Nehemiah 13:31**
-
-After him Melchia son of the goldsmith repaired as far as house of the nethinim and the traders, opposite Gate of the Mustering and as far as ascent of the turning.
-
-**Nehemiah 13:32**
-
-And between ascent of the turning and Sheep Gate the smiths and the traders repaired.
-
-**Nehemiah 13:33**
-
-And it came to be when Sanaballat heard that we are building the wall, it was evil to him and he became very angry and mocked the Ioudaioi.
-
-**Nehemiah 13:34**
-
-And he said before his brothers, This force of Samaria, that these Ioudaioi build their own city?
-
-**Nehemiah 13:35**
-
-And Tobias the Ammanite beside him came, and they said among themselves, Will they not sacrifice or eat on their place? Surely a fox will go up and tear down wall of their stones.
-
-**Nehemiah 13:36**
-
-Hear, our God, because we became a mockery, and turn their reproach upon their own head and give them for mockery in land of captivity.
-
-**Nehemiah 13:37**
-
-And do not cover over their lawlessness.
-
-### Chapter 14
-
-**Nehemiah 14:1**
-
-And it came to be as Sanaballat and Tobia and the Arabs and the Ammanites heard that growth had come to walls of Ierousalem, that the breaches began to be closed, it seemed very evil to them.
-
-**Nehemiah 14:2**
-
-And they all gathered together to come to array against Ierousalem.
-
-**Nehemiah 14:3**
-
-And we prayed to our God and set guards over them day and night because of them.
-
-**Nehemiah 14:4**
-
-And Iouda said, Strength of the enemies was crushed, and the dust is much, and we shall not be able to build on the wall.
-
-**Nehemiah 14:5**
-
-And those afflicting us said, They will not know and they will not see until we come into their midst and kill them and stop the work.
-
-**Nehemiah 14:6**
-
-And it came to be when the Ioudaioi dwelling near them came and said to us, They are coming up against us from all the places.
-
-**Nehemiah 14:7**
-
-And I stationed in the lowest parts of the place behind the wall, in the sheltered places, and I stationed the people by clans with their swords, their spears, and their bows.
-
-**Nehemiah 14:8**
-
-And I looked and rose and said to the nobles and the generals and the rest of the people, Do not fear before them. Remember our God, the great and fearful, and array yourselves for your brothers, your sons and daughters, your wives and your houses.
-
-**Nehemiah 14:9**
-
-And it came to be when our enemies heard that it had become known to us and God scattered their counsel, we all returned to the wall, each man to his own work.
-
-**Nehemiah 14:10**
-
-And it came to be from that day, half of those shaken out were doing the work, and half of them were holding spears and shields and bows and breastplates, and the rulers were behind whole house of Iouda.
-
-**Nehemiah 14:11**
-
-Those building on the wall and those carrying in the loads, in arms, with one hand each was doing the work and one was holding the dart.
-
-**Nehemiah 14:12**
-
-And the builders, each man girded his sword upon his loins, and they were building, and the one sounding on the horn was beside him.
-
-**Nehemiah 14:13**
-
-And I said to the nobles and to the rulers and to the rest of the people, The work is wide and much, and we are scattered on the wall, far each man from his brother.
-
-**Nehemiah 14:14**
-
-In place where you hear sound of the horn, there you shall gather to us, and our God will fight for us.
-
-**Nehemiah 14:15**
-
-And we were doing the work, and half of them were holding the spears from rising of dawn until coming out of the stars.
-
-**Nehemiah 14:16**
-
-And at that time I said to the people, Lodge inside Ierousalem, and let the night be a watch for you and the day a work.
-
-**Nehemiah 14:17**
-
-And I and men of the watch behind me, not one of us was taking off his clothes.
-
-### Chapter 15
-
-**Nehemiah 15:1**
-
-And cry of the people and of their women was great against their brothers the Ioudaioi.
-
-**Nehemiah 15:2**
-
-And some were saying, In our sons and in our daughters we are many, and we shall get grain and eat and live.
-
-**Nehemiah 15:3**
-
-And some were saying, Our fields and our vineyards and our houses we are pledging, and we shall get grain and eat.
-
-**Nehemiah 15:4**
-
-And some were saying, We borrowed silver for taxes of the king on our fields and our vineyards and our houses.
-
-**Nehemiah 15:5**
-
-And now flesh of our brothers is our flesh, as their sons are our sons, and behold we oppress our sons and our daughters into slavery, and some from our daughters are being oppressed, and there is no power in our hands, and our fields and our vineyards belong to the nobles.
-
-**Nehemiah 15:6**
-
-And I was very grieved when I heard their cry and these words.
-
-**Nehemiah 15:7**
-
-And my heart counseled within me, and I contended with the nobles and the rulers and said to them, Each man demands from his brother? You are demanding. And I set against them a great assembly.
-
-**Nehemiah 15:8**
-
-And I said to them, We bought our brothers the Ioudaioi, those sold to the nations, according to our will, and you sell your brothers? And they were silent and found no word.
-
-**Nehemiah 15:9**
-
-And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
-
-**Nehemiah 15:10**
-
-And my brothers and my acquaintances and I placed silver and grain among them. Let us leave off this demand.
-
-**Nehemiah 15:11**
-
-Return to them today their fields, their vineyards, their oliveyards, and their houses, and bring out to them from the silver and the grain and the wine and the oil.
-
-**Nehemiah 15:12**
-
-And they said, We will give it back and will not ask from them; thus we will do as you say. And I called the priests and made them swear to do according to this word.
-
-**Nehemiah 15:13**
-
-And I shook out my fold and said, Thus may God shake out every man who does not fulfill this word, from his house and from his labor, and thus may he be shaken out and empty. And all the assembly said, Amen, and they praised the Lord, and the people did this word.
-
-**Nehemiah 15:14**
-
-From the day when he commanded me to be governor over them in land of Iouda, from twentieth year until thirty-second year of Arthasastha, twelve years, I and my brothers did not eat their exaction.
-
-**Nehemiah 15:15**
-
-But the first exactions which were before me weighed heavily upon them, and they took from them in breads and in wine, at last forty didrachmas of silver, and those shaken out from them exercised power over the people. But I did not do so because of fear of God.
-
-**Nehemiah 15:16**
-
-And in work of this wall I did not take possession of field, I did not acquire any, and all gathered there were for the work.
-
-**Nehemiah 15:17**
-
-And one hundred fifty Ioudaioi men, and those coming to us from the nations around us, were at my table.
-
-**Nehemiah 15:18**
-
-And what was made for one day was one calf, and six choice sheep, and a goat were made for me, and every ten days wine in abundance for all. Yet with these I did not seek bread of exaction, because service was heavy upon this people.
-
-**Nehemiah 15:19**
-
-Remember me, O God, for good, all that I did for this people.
-
-### Chapter 16
-
-**Nehemiah 16:1**
-
-And it came to be as Sanaballat and Tobia and Gesam the Arab and the rest of our enemies heard that I had built the wall and no breach was left in it, though until that time I had not set doors in the gates,
-
-**Nehemiah 16:2**
-
-Sanaballat and Gesam sent to me saying, Come, let us gather together in the villages in plain of Ono. But they were reckoning to do evil to me.
-
-**Nehemiah 16:3**
-
-And I sent messengers to them saying, Great work I do, and I will not be able to come down, lest the work stop. As soon as I complete it, I will come down to you.
-
-**Nehemiah 16:4**
-
-And they sent to me according to this word four times, and I sent them according to these things.
-
-**Nehemiah 16:5**
-
-And Sanaballat sent to me his servant and an open letter in his hand.
-
-**Nehemiah 16:6**
-
-And written in it was, Among nations it was heard that you and the Ioudaioi are reckoning to rebel; because of this you build the wall and you will become king to them.
-
-**Nehemiah 16:7**
-
-And besides these things, you appointed prophets for yourself so that you might sit in Ierousalem as king in Iouda, and now these words will be reported to the king. So now come, let us take counsel together.
-
-**Nehemiah 16:8**
-
-And I sent to him saying, These words which you say did not happen, because from your own heart you invent them.
-
-**Nehemiah 16:9**
-
-For all are frightening us, saying, Their hands will be loosened from this work, and it will not be done. And now I strengthened my hands.
-
-**Nehemiah 16:10**
-
-And I entered house of Semei son of Dalaia son of Meehtabel, and he, being confined, said, Let us gather in house of God, in its midst, and let us shut its doors, because they are coming by night to kill you.
-
-**Nehemiah 16:11**
-
-And I said, What kind of man will go into the house and live?
-
-**Nehemiah 16:12**
-
-And I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him.
-
-**Nehemiah 16:13**
-
-They hired him against me so that I might fear and do thus and sin and become to them for an evil name, so that they might reproach me.
-
-**Nehemiah 16:14**
-
-Remember, my God, Tobia and Sanaballat according to these deeds of his, and Noadia the prophet and the rest of the prophets who were frightening me.
-
-**Nehemiah 16:15**
-
-And the wall was completed on twenty-fifth of Eloul, in fifty-two days.
-
-**Nehemiah 16:16**
-
-And it came to be when all our enemies heard and all nations around us feared, fear fell very greatly in their eyes, and they knew that this work came to completion from our God.
-
-**Nehemiah 16:17**
-
-And in those days letters from many nobles of Iouda were going to Tobia, and those of Tobia were coming to them.
-
-**Nehemiah 16:18**
-
-For many in Iouda were under oath to him, because he was son-in-law of Sechenia son of Harae, and Ioanan his son had taken daughter of Mesoulam son of Barachia as wife.
-
-**Nehemiah 16:19**
-
-And they were speaking his words to me, and they were carrying my words out to him, and Tobias sent letters to frighten me.
-
-### Chapter 17
-
-**Nehemiah 17:1**
-
-And it came to be when the wall was built, and I set up the doors, that the gatekeepers and the singers and the Levites were appointed.
-
-**Nehemiah 17:2**
-
-And I commanded Hanani my brother and Hanania ruler of the citadel in Ierousalem, because he was as a truthful man and fearing God beyond many,
-
-**Nehemiah 17:3**
-
-and I said to them, Gates of Ierousalem shall not be opened until the sun is hot, and while they are still keeping watch let the doors be shut and barred. And station guards from inhabitants of Ierousalem, each man in his watch and each man opposite his own house.
-
-**Nehemiah 17:4**
-
-And the city was wide and great, but the people in it were few, and no houses had been built.
-
-**Nehemiah 17:5**
-
-And God gave into my heart, and I gathered the nobles and the rulers and the people for enrollment, and I found book of enrollment of those who came up at first, and I found written in it:
-
-**Nehemiah 17:6**
-
-And these are sons of the province, those who came up from captivity of the exile whom Nabouchodonosor king of Babylon exiled, and they returned to Ierousalem and to Iouda, each man to his own city,
-
-**Nehemiah 17:7**
-
-with Zorobabel and Iesou and Neemia, Azaria, Daemia, Naemani, Mardochaios, Balsan, Maspharath, Esdra, Bagoi, Naoum, Baana, Masphar. Men of people of Israel:
-
-**Nehemiah 17:8**
-
-Sons of Phoros: 2,172.
-
-**Nehemiah 17:9**
-
-Sons of Saphatia: 372.
-
-**Nehemiah 17:10**
-
-Sons of Hara: 652.
-
-**Nehemiah 17:11**
-
-Sons of Phaathmoab, to sons of Iesou and Ioab: 2,818.
-
-**Nehemiah 17:12**
-
-Sons of Ailam: 1,254.
-
-**Nehemiah 17:13**
-
-Sons of Zathoua: 845.
-
-**Nehemiah 17:14**
-
-Sons of Zakkou: 760.
-
-**Nehemiah 17:15**
-
-Sons of Banoui: 648.
-
-**Nehemiah 17:16**
-
-Sons of Bebi: 628.
-
-**Nehemiah 17:17**
-
-Sons of Asgad: 2,322.
-
-**Nehemiah 17:18**
-
-Sons of Adenikam: 667.
-
-**Nehemiah 17:19**
-
-Sons of Bagoi: 2,067.
-
-**Nehemiah 17:20**
-
-Sons of Edin: 655.
-
-**Nehemiah 17:21**
-
-Sons of Ater, of Hezekia: 98.
-
-**Nehemiah 17:22**
-
-Sons of Esam: 328.
-
-**Nehemiah 17:23**
-
-Sons of Besi: 324.
-
-**Nehemiah 17:24**
-
-Sons of Ariph: 112.
-
-**Nehemiah 17:25**
-
-Sons of Gabaon: 95.
-
-**Nehemiah 17:26**
-
-Sons of Baithleem: 123. Sons of Netopha: 56.
-
-**Nehemiah 17:27**
-
-Sons of Anathoth: 128.
-
-**Nehemiah 17:28**
-
-Men of Bethasmoth: 42.
-
-**Nehemiah 17:29**
-
-Men of Kariathiarim, Kaphira, and Beroth: 743.
-
-**Nehemiah 17:30**
-
-Men of Arama and Gabaa: 621.
-
-**Nehemiah 17:31**
-
-Men of Machemas: 122.
-
-**Nehemiah 17:32**
-
-Men of Bethel and Aia: 123.
-
-**Nehemiah 17:33**
-
-Men of Nabi-aar: 52.
-
-**Nehemiah 17:34**
-
-Men of Elam-aar: 1,254.
-
-**Nehemiah 17:35**
-
-Sons of Heram: 320.
-
-**Nehemiah 17:36**
-
-Sons of Iericho: 345.
-
-**Nehemiah 17:37**
-
-Sons of Lod, Adid, and Ono: 721.
-
-**Nehemiah 17:38**
-
-Sons of Sanaa: 3,930.
-
-**Nehemiah 17:39**
-
-The priests: sons of Iodae, of house of Iesou, 973.
-
-**Nehemiah 17:40**
-
-Sons of Emmer: 1,052.
-
-**Nehemiah 17:41**
-
-Sons of Phassour: 1,247.
-
-**Nehemiah 17:42**
-
-Sons of Heram: 1,017.
-
-**Nehemiah 17:43**
-
-The Levites: sons of Iesou, of Kadmiel, to sons of Odouia, 74.
-
-**Nehemiah 17:44**
-
-The singers: sons of Asaph, 148.
-
-**Nehemiah 17:45**
-
-The gatekeepers: sons of Saloum, sons of Ater, sons of Telmon, sons of Akoub, sons of Atita, sons of Sabi, 138.
-
-**Nehemiah 17:46**
-
-The nethinim: sons of Seia, sons of Asipha, sons of Tabaoth,
-
-**Nehemiah 17:47**
-
-sons of Kiras, sons of Souia, sons of Phadon,
-
-**Nehemiah 17:48**
-
-sons of Labana, sons of Agaba, sons of Salami,
-
-**Nehemiah 17:49**
-
-sons of Anan, sons of Gadel, sons of Gaar,
-
-**Nehemiah 17:50**
-
-sons of Raaia, sons of Rason, sons of Nekoda,
-
-**Nehemiah 17:51**
-
-sons of Gēzam, sons of Ozi, sons of Phese,
-
-**Nehemiah 17:52**
-
-sons of Bēsi, sons of Meinōm, sons of Nephōsasim,
-
-**Nehemiah 17:53**
-
-sons of Bakbouk, sons of Achipha, sons of Arour,
-
-**Nehemiah 17:54**
-
-sons of Basaloth, sons of Meida, sons of Adasan,
-
-**Nehemiah 17:55**
-
-sons of Barkous, sons of Sisara, sons of Thema,
-
-**Nehemiah 17:56**
-
-sons of Nisia, sons of Atipha.
-
-**Nehemiah 17:57**
-
-Sons of servants of Salomon: sons of Souti, sons of Sapharath, sons of Pherida,
-
-**Nehemiah 17:58**
-
-sons of Ieala, sons of Dorkon, sons of Gadel,
-
-**Nehemiah 17:59**
-
-sons of Saphatia, sons of Etil, sons of Phacharath, sons of Sabaim, sons of Emim.
-
-**Nehemiah 17:60**
-
-All the nethinim and sons of servants of Salomon: 392.
-
-**Nehemiah 17:61**
-
-And these came up from Thelmeleth, Aresa, Charoub, Heron, and Iemer, and they were not able to declare their father-houses and their seed, whether they were from Israel:
-
-**Nehemiah 17:62**
-
-sons of Dalaia, sons of Tobia, sons of Nekoda: 642.
-
-**Nehemiah 17:63**
-
-And from the priests: sons of Ebia, sons of Akos, sons of Berzelli, because he took wives from daughters of Berzelli the Galaadite and was called by their name.
-
-**Nehemiah 17:64**
-
-These sought their writing of enrollment and it was not found, and they were excluded from the priesthood.
-
-**Nehemiah 17:65**
-
-And Atharsatha said that they should not eat from the holy of holies until the priest might arise giving light.
-
-**Nehemiah 17:66**
-
-And all the assembly together was forty-two thousand three hundred sixty,
-
-**Nehemiah 17:67**
-
-besides their male slaves and female slaves, these being seven thousand three hundred thirty-seven, and singers and singing women, two hundred forty-five.
-
-**Nehemiah 17:68**
-
-Horses: 736. Mules: 245.
-
-**Nehemiah 17:69**
-
-Camels: 435. Donkeys: 6,720.
-
-**Nehemiah 17:70**
-
-And from part of chiefs of father-houses they gave to the work. To Nehemias, for the treasury: one thousand gold pieces, fifty bowls, and thirty priestly tunics.
-
-**Nehemiah 17:71**
-
-And from chiefs of father-houses they gave to treasury of the work twenty thousand gold pieces and two thousand two hundred minas of silver.
-
-**Nehemiah 17:72**
-
-And the rest of the people gave twenty thousand gold pieces and two thousand two hundred minas of silver and sixty-seven priestly tunics.
-
-**Nehemiah 17:73**
-
-And the priests and the Levites and the gatekeepers and the singers and some from the people and the nethinim and all Israel settled in their cities. And the seventh month arrived, and sons of Israel were in their cities.
-
-### Chapter 18
-
-**Nehemiah 18:1**
-
-And all the people were gathered as one man into the broad place before Water Gate, and they told Ezra the scribe to bring book of law of Moses which the Lord commanded to Israel.
-
-**Nehemiah 18:2**
-
-And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on first day of the seventh month.
-
-**Nehemiah 18:3**
-
-And he read in it from the hour when the sun was giving light until middle of the day, before the men and the women, and they were understanding, and ears of all the people were toward book of the law.
-
-**Nehemiah 18:4**
-
-And Ezra the scribe stood on a wooden platform, and standing beside him on his right were Mattathias and Samaias and Ananias and Ouria and Elkia and Maasaias, and on his left Phadaias and Misael and Melchias and Osam and Asabdana and Zacharias and Mosollam.
-
-**Nehemiah 18:5**
-
-And Ezra opened the book before all the people, because he was above all the people, and it came to be when he opened it all the people stood.
-
-**Nehemiah 18:6**
-
-And Ezra blessed the Lord, the great God, and all the people answered and said, Amen, lifting up their hands. And they bowed and worshiped the Lord with face to the ground.
-
-**Nehemiah 18:7**
-
-And Iesous and Banaias and Sarabia were causing the people to understand the law, and the people stood in their place.
-
-**Nehemiah 18:8**
-
-And they read in book of law of God, and Ezra was teaching and distinguishing it by knowledge of the Lord, and the people understood in the reading.
-
-**Nehemiah 18:9**
-
-And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
-
-**Nehemiah 18:10**
-
-And he said to them, Go, eat fat things and drink sweet things and send portions to those having nothing, because the day is holy to our Lord, and do not fall away, because he is your strength.
-
-**Nehemiah 18:11**
-
-And the Levites were silencing all the people, saying, Be silent, because the day is holy, and do not fall away.
-
-**Nehemiah 18:12**
-
-And all the people went away to eat and drink and send portions and make great rejoicing, because they understood in the words which he made known to them.
-
-**Nehemiah 18:13**
-
-And on the second day chiefs of the fathers of all the people, the priests and the Levites, were gathered to Ezra the scribe, to gain insight into all words of the law.
-
-**Nehemiah 18:14**
-
-And they found written in the law which the Lord commanded by Moses that sons of Israel should dwell in booths during the feast in the seventh month,
-
-**Nehemiah 18:15**
-
-and that they should sound with trumpets in all their cities and in Ierousalem. And Ezra said, Go out to the mountain and bring leaves of olive and leaves of cypress woods and leaves of myrtle and leaves of palms and leaves of thick wood, to make booths according to what is written.
-
-**Nehemiah 18:16**
-
-And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in courts of house of God and in the broad places of the city, even to Gate of Ephraim.
-
-**Nehemiah 18:17**
-
-And all the assembly, those returned from captivity, made booths and sat in booths, for sons of Israel had not done thus from days of Iesous son of Naue until that day. And there was very great rejoicing.
-
-**Nehemiah 18:18**
-
-And he read in book of law of God day by day, from first day until last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
-
-### Chapter 19
-
-**Nehemiah 19:1**
-
-And on twenty-fourth day of this month sons of Israel were gathered in fasting and in sackcloth.
-
-**Nehemiah 19:2**
-
-And sons of Israel were separated from every foreign son and stood and confessed their sins and lawless deeds of their fathers.
-
-**Nehemiah 19:3**
-
-And they stood at their standing place and read in book of law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
-
-**Nehemiah 19:4**
-
-And on the platform of the Levites stood Iesous and sons of Kadmiel, Sachania son of Sarabia, sons of Chanani, and they cried with a loud voice to the Lord their God.
-
-**Nehemiah 19:5**
-
-And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
-
-**Nehemiah 19:6**
-
-And Ezra said, You are the one, Lord alone. You made heaven and heaven of heaven and all their array, the earth and all things in it, the seas and all things in them, and you give life to all, and armies of heaven worship you.
-
-**Nehemiah 19:7**
-
-You are the Lord God. You chose Abram and brought him out from land of the Chaldeans and placed on him the name Abraam.
-
-**Nehemiah 19:8**
-
-And you found his heart faithful before you and made covenant with him, to give to him land of the Canaanites and Hittites and Amorites and Perizzites and Iebousites and Gergesaites, and to his seed, and you established your words, because you are righteous.
-
-**Nehemiah 19:9**
-
-And you saw humiliation of our fathers in Egypt, and their cry you heard at Red Sea.
-
-**Nehemiah 19:10**
-
-And you gave signs in Egypt against Pharaoh and all his servants and all the people of his land, because you knew that they acted proudly against them, and you made a name for yourself as this day.
-
-**Nehemiah 19:11**
-
-And you split the sea before them, and they passed through middle of the sea on dry land, and their pursuers you threw into the deep like a stone in mighty water.
-
-**Nehemiah 19:12**
-
-And in pillar of cloud you guided them by day, and in pillar of fire by night, to enlighten for them the road in which they would go.
-
-**Nehemiah 19:13**
-
-And upon Mount Sinai you came down and spoke to them from heaven and gave them straight judgments and laws of truth, good ordinances and commandments.
-
-**Nehemiah 19:14**
-
-And your holy Sabbath you made known to them, and by hand of Moses your servant you commanded to them commandments and ordinances and law.
-
-**Nehemiah 19:15**
-
-And bread from heaven you gave to them for their hunger, and water from a rock you brought out for them for their thirst, and you told them to enter to inherit the land over which you stretched out your hand to give to them.
-
-**Nehemiah 19:16**
-
-But they and our fathers acted proudly and hardened their neck and did not hear your commandments.
-
-**Nehemiah 19:17**
-
-And they refused to hear and did not remember your wonders which you did with them, and they hardened their neck and gave a chief to return into their slavery in Egypt. But you are a God merciful and compassionate, long-suffering and abundant in mercy, and you did not forsake them.
-
-**Nehemiah 19:18**
-
-Even when they made for themselves a molten calf and said, These are your gods who brought us up from Egypt, and committed great provocations,
-
-**Nehemiah 19:19**
-
-you, in your many compassions, did not forsake them in the wilderness. Pillar of cloud did not turn away from them by day to guide them in the road, nor pillar of fire by night to enlighten them the road in which they would go.
-
-**Nehemiah 19:20**
-
-And your good Spirit you gave to instruct them, and your manna you did not withhold from their mouth, and water you gave to them for their thirst.
-
-**Nehemiah 19:21**
-
-And forty years you sustained them in the wilderness. They did not lack. Their garments did not grow old, and their feet did not split.
-
-**Nehemiah 19:22**
-
-And you gave to them kingdoms and peoples and divided them out to them, and they inherited land of Sihon king of Heshbon and land of Og king of Basan.
-
-**Nehemiah 19:23**
-
-And their sons you multiplied like stars of heaven, and you brought them into the land which you told their fathers, and they inherited it.
-
-**Nehemiah 19:24**
-
-And you subdued before them inhabitants of land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
-
-**Nehemiah 19:25**
-
-And they seized lofty cities and inherited houses full of every good thing, hewn cisterns, vineyards and oliveyards and every edible tree in abundance. And they ate and were filled and grew fat and luxuriated in your great goodness.
-
-**Nehemiah 19:26**
-
-And they changed and turned away from you and cast your law behind their body, and your prophets they killed, the ones who testified among them to turn them back to you, and they committed great provocations.
-
-**Nehemiah 19:27**
-
-And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them.
-
-**Nehemiah 19:28**
-
-And when they rested, they turned again to do evil before you, and you forsook them into hands of their enemies, and they ruled over them. And they cried out to you again, and you from heaven heard and rescued them in your many compassions.
-
-**Nehemiah 19:29**
-
-And you testified to them to turn them back to your law, but they did not hear. Instead, in your commandments and in your judgments they sinned, which if a man does he will live in them. And they gave a stubborn back and hardened their neck and did not hear.
-
-**Nehemiah 19:30**
-
-And you drew over them many years and testified to them by your Spirit in hand of your prophets, and they gave no ear, and you gave them into hand of peoples of the land.
-
-**Nehemiah 19:31**
-
-But you, in your many compassions, did not make an end of them and did not forsake them, because strong and merciful and compassionate you are.
-
-**Nehemiah 19:32**
-
-And now, our God, strong, great, mighty, and fearful, keeping your covenant and your mercy, let not all the toil grow little before you, which found us and our kings and our rulers and our priests and our prophets and our fathers and all your people, from days of kings of Assour until this day.
-
-**Nehemiah 19:33**
-
-And you are righteous over all things coming upon us, because you did truth, and we sinned.
-
-**Nehemiah 19:34**
-
-And our kings and our rulers and our priests and our fathers did not do your law and did not pay attention to your commandments and your testimonies with which you testified to them.
-
-**Nehemiah 19:35**
-
-And they in your kingdom and in your great goodness which you gave to them, and in the broad and fat land which you gave before them, did not serve you and did not turn from their evil practices.
-
-**Nehemiah 19:36**
-
-Behold, we are slaves today, and the land which you gave to our fathers to eat its fruit,
-
-**Nehemiah 19:37**
-
-belongs to kings whom you set over us because of our sins, and over our bodies they rule, and over our cattle as is pleasing to them, and we are in great affliction.
-
-### Chapter 20
-
-**Nehemiah 20:1**
-
-And in all these things we are making a faithful covenant and writing it, and all our rulers, our Levites, and our priests are sealing it.
-
-**Nehemiah 20:2**
-
-And among the sealers: Nehemias son of Achalia, and Sedekias,
-
-**Nehemiah 20:3**
-
-Seraia, Azaria, and Ieremia,
-
-**Nehemiah 20:4**
-
-Phassour, Amaria, Melchia,
-
-**Nehemiah 20:5**
-
-Atous, Sebani, Mallouch,
-
-**Nehemiah 20:6**
-
-Iram, Meramoth, Abdia,
-
-**Nehemiah 20:7**
-
-Daniel, Ganathon, Barouch,
-
-**Nehemiah 20:8**
-
-Mesoulam, Abia, Miamin,
-
-**Nehemiah 20:9**
-
-Maazia, Belgai, Samaia. These were priests.
-
-**Nehemiah 20:10**
-
-And the Levites: Iesous son of Azania, Banaiou from sons of Enadad, Kadmiel,
-
-**Nehemiah 20:11**
-
-and his brothers: Sabania, Odouia, Kalita, Pheleia, Anan,
-
-**Nehemiah 20:12**
-
-Micha, Roob, Esebias,
-
-**Nehemiah 20:13**
-
-Zachor, Sarabia, Sebania,
-
-**Nehemiah 20:14**
-
-Odouia, sons of Banounai.
-
-**Nehemiah 20:15**
-
-Rulers of the people: Phoros, Phaathmoab, Elam, Zathouia, sons of
-
-**Nehemiah 20:16**
-
-Bani, Asgad, Bēbai,
-
-**Nehemiah 20:17**
-
-Edania, Bagoi, Edin,
-
-**Nehemiah 20:18**
-
-Ater, Ezekia, Azour,
-
-**Nehemiah 20:19**
-
-Odouia, Esam, Bēsi,
-
-**Nehemiah 20:20**
-
-Ariph, Anathoth, Nōbai,
-
-**Nehemiah 20:21**
-
-Magaphēs, Mesoulam, Hezir,
-
-**Nehemiah 20:22**
-
-Mesōzebel, Saddouk, Ieddoua,
-
-**Nehemiah 20:23**
-
-Phaltia, Anan, Anaia,
-
-**Nehemiah 20:24**
-
-Osēe, Anania, Asoub,
-
-**Nehemiah 20:25**
-
-Alōēs, Phalai, Sōbēk,
-
-**Nehemiah 20:26**
-
-Raoum, Esabana, Maasaia,
-
-**Nehemiah 20:27**
-
-and Aia, Ainam, Anan,
-
-**Nehemiah 20:28**
-
-Mallouch, Heram, Baana.
-
-**Nehemiah 20:29**
-
-And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
-
-**Nehemiah 20:30**
-
-were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
-
-**Nehemiah 20:31**
-
-and that we would not give our daughters to peoples of the land and would not take their daughters for our sons,
-
-**Nehemiah 20:32**
-
-and that from peoples of the land bringing wares and every merchandise on Sabbath day to sell, we would not buy from them on Sabbath and on holy day, and we would leave the seventh year and demand of every hand.
-
-**Nehemiah 20:33**
-
-And we will set commandments upon ourselves, to give upon ourselves a third of a didrachma yearly for service of house of our God,
-
-**Nehemiah 20:34**
-
-for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
-
-**Nehemiah 20:35**
-
-And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into house of our God, to house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
-
-**Nehemiah 20:36**
-
-and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord,
-
-**Nehemiah 20:37**
-
-and the firstborn of our sons and our cattle as written in the law, and firstborn of our cattle and our flocks, to bring into house of our God, to the priests ministering in house of our God,
-
-**Nehemiah 20:38**
-
-and the firstfruit of our grains and fruit of every tree, wine and oil, we will bring to the priests into treasury-room of house of God, and tithe of our land to the Levites, and they, the Levites, are tithing in all cities of our service.
-
-**Nehemiah 20:39**
-
-And priest son of Aaron shall be with the Levite in tithe of the Levite, and the Levites shall bring up tithe of the tithe into house of our God, into the treasury-rooms, into house of God.
-
-**Nehemiah 20:40**
-
-For into the treasuries sons of Israel and sons of Levi will bring the firstfruits of the grain and the wine and the oil, and there are the holy vessels and the ministering priests and the gatekeepers and the singers, and we will not forsake house of our God.
-
-### Chapter 21
-
-**Nehemiah 21:1**
-
-And rulers of the people settled in Ierousalem, and the rest of the people cast lots to bring one of ten to settle in Ierousalem, the holy city, and nine parts in the cities.
-
-**Nehemiah 21:2**
-
-And the people blessed all the men freely choosing to settle in Ierousalem.
-
-**Nehemiah 21:3**
-
-And these are rulers of the province who settled in Ierousalem, while in cities of Iouda each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Salomon.
-
-**Nehemiah 21:4**
-
-And in Ierousalem settled some from sons of Iouda and some from sons of Beniamin. From sons of Iouda: Athaia son of Azia, son of Zacharia, son of Amaria, son of Saphatia, son of Maleleel, from sons of Phares,
-
-**Nehemiah 21:5**
-
-and Maasia son of Barouch, son of Chalaza, son of Ozia, son of Adaia, son of Ioirib, son of Thēzia, son of the Sēlōnite.
-
-**Nehemiah 21:6**
-
-All sons of Phares settling in Ierousalem: four hundred sixty-eight mighty men.
-
-**Nehemiah 21:7**
-
-And these are sons of Beniamin: Sēlō son of Mesoulam, son of Iōad, son of Phadaia, son of Kōlia, son of Masaia, son of Aithiēl, son of Iesia.
-
-**Nehemiah 21:8**
-
-And after him: Gēbi, Sēli, nine hundred twenty-eight.
-
-**Nehemiah 21:9**
-
-And Iōēl son of Zechri was overseer over them, and Ioudas son of Asana was second over the city.
-
-**Nehemiah 21:10**
-
-From the priests: Iadaia son of Iōirib, Iachin,
-
-**Nehemiah 21:11**
-
-Saraia son of Elkia, son of Mesoulam, son of Saddouk, son of Mariōth, son of Aitōb, opposite house of God,
-
-**Nehemiah 21:12**
-
-and their brothers doing work of the house: Amasi son of Zacharia, son of Phassour, son of Melchia,
-
-**Nehemiah 21:13**
-
-heads of fathers: two hundred forty-two. And Amessai son of Esdriēl,
-
-**Nehemiah 21:14**
-
-and his brothers, mighty men of battle: one hundred twenty-eight, and their overseer was Badiēl.
-
-**Nehemiah 21:15**
-
-And from the Levites: Samaia son of Asoub, son of Ezri,
-
-**Nehemiah 21:17**
-
-and Mathania son of Micha and Ōbēd son of Samoui,
-
-**Nehemiah 21:18**
-
-two hundred eighty-four.
-
-**Nehemiah 21:19**
-
-And the gatekeepers: Akoub, Telamin, and their brothers: one hundred seventy-two.
-
-**Nehemiah 21:22**
-
-And overseer of the Levites was son of Bani, Ozi, son of Asabia, son of Micha, from sons of Asaph the singers, over against work of house of God.
-
-**Nehemiah 21:23**
-
-For command of the king was upon them.
-
-**Nehemiah 21:24**
-
-And Pathaia son of Basēza was at hand of the king for every matter of the people.
-
-**Nehemiah 21:25**
-
-And toward the farmsteads in their field, some from sons of Iouda settled in Kariatharbok
-
-**Nehemiah 21:26**
-
-and in Iēsou
-
-**Nehemiah 21:27**
-
-and in Beērsabee,
-
-**Nehemiah 21:30**
-
-and their farmsteads, Lachis and its fields, and they camped in Beērsabee.
-
-**Nehemiah 21:31**
-
-And sons of Beniamin settled from Gaba, Machamas,
-
-**Nehemiah 21:36**
-
-And from the Levites, divisions of Iouda were for Beniamin.
-
-### Chapter 22
-
-**Nehemiah 22:1**
-
-And these are the priests and the Levites who came up with Zorobabel son of Salathiel and Iesou: Saraia, Iermia, Esdra,
-
-**Nehemiah 22:2**
-
-Amaria, Mallouch,
-
-**Nehemiah 22:3**
-
-Sechenia,
-
-**Nehemiah 22:7**
-
-These were leaders of the priests and their brothers in days of Iesou.
-
-**Nehemiah 22:8**
-
-And the Levites: Iesou, Banoui, Kadmiel, Sarabia, Iouda, Machania, over the hands, he and his brothers,
-
-**Nehemiah 22:9**
-
-for the courses.
-
-**Nehemiah 22:10**
-
-And Iesou begot Iōakim, and Iōakim begot Eliasib, and Eliasib begot Iōdae,
-
-**Nehemiah 22:11**
-
-and Iōdae begot Ionathan, and Ionathan begot Iadou.
-
-**Nehemiah 22:12**
-
-And in days of Iōakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
-
-**Nehemiah 22:13**
-
-to Esdra, Mesoulam; to Amaria, Iōanan;
-
-**Nehemiah 22:14**
-
-to Mallouch, Ionathan; to Sechenia, Iōsēph;
-
-**Nehemiah 22:15**
-
-to Arem, Adnas; to Mariōth, Elkai;
-
-**Nehemiah 22:16**
-
-to Addai, Zacharias; to Ganathōn, Mosollam;
-
-**Nehemiah 22:17**
-
-to Abia, Zechri; to Beniamin, in times; to Phēlti,
-
-**Nehemiah 22:18**
-
-to Balga, Samoue; to Semeia, Ionathan;
-
-**Nehemiah 22:19**
-
-to Iōiarib, Maththanai; to Idia, Ozi;
-
-**Nehemiah 22:20**
-
-to Sallai, Kallai; to Amouk, Abed;
-
-**Nehemiah 22:21**
-
-to Elkia, Asabias; to Iedeiou, Nathanael.
-
-**Nehemiah 22:22**
-
-The Levites in days of Eliasib, Iōada, Iōanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
-
-**Nehemiah 22:23**
-
-Sons of Levi, heads of fathers, were written in book of words of the days until days of Iōanan son of Elisoub.
-
-**Nehemiah 22:24**
-
-And leaders of the Levites were Asabia and Sarabia and Iesou and sons of Kadmiel, and their brothers opposite them, to hymn and praise by command of David man of God, course by course.
-
-**Nehemiah 22:25**
-
-When I was gathering the gatekeepers.
-
-**Nehemiah 22:26**
-
-In days of Iōakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
-
-**Nehemiah 22:27**
-
-And at dedication of wall of Ierousalem they sought the Levites in their places, to bring them into Ierousalem to make dedication and rejoicing, in thanksgiving and in songs, with cymbals and stringed instruments and lyres.
-
-**Nehemiah 22:28**
-
-And sons of the singers were gathered both from the district round about into Ierousalem and from the farmsteads,
-
-**Nehemiah 22:29**
-
-and from the fields, because the singers built farmsteads for themselves in Ierousalem.
-
-**Nehemiah 22:30**
-
-And the priests and the Levites purified themselves, and they purified the people and the gatekeepers and the wall.
-
-**Nehemiah 22:31**
-
-And I brought up rulers of Iouda upon the wall and set two great thanksgiving choirs, and they went to the right upon the wall by the Dung Gate.
-
-**Nehemiah 22:32**
-
-And after them went Hōsaia and half of rulers of Iouda,
-
-**Nehemiah 22:33**
-
-and Azaria, Esdra, and Mesoulam,
-
-**Nehemiah 22:34**
-
-Iouda and Beniamin and Samaia and Iermia,
-
-**Nehemiah 22:35**
-
-and from sons of the priests with trumpets, Zacharias son of Ionathan, son of Samaia, son of Mathania, son of Michaia, son of Zakkour, son of Asaph,
-
-**Nehemiah 22:36**
-
-and his brothers, Samaia and Oziēl, praising in songs of David man of God, and Ezra the scribe before them,
-
-**Nehemiah 22:37**
-
-at Gate of Ain opposite them. They went up on steps of city of David, on ascent of the wall above house of David and as far as Water Gate eastward.
-
-**Nehemiah 22:38**
-
-And the second thanksgiving choir was going to meet them, and I after it, and half of the people upon the wall above Tower of Ovens and as far as Broad Wall,
-
-**Nehemiah 22:39**
-
-and above Gate of Ephraim and to the Old Gate and to Fish Gate and Tower of Hananeel and as far as Sheep Gate, and they stood in Gate of the Guard.
-
-**Nehemiah 22:40**
-
-And the two choirs stood in house of God, and I and half of the generals with me,
-
-**Nehemiah 22:41**
-
-and the priests, Eliakim, Maasias, Beniamin, Michaias, Eliōēnai, Zacharias, Ananias, with trumpets,
-
-**Nehemiah 22:42**
-
-and Maasias and Semeias and Eleazar and Ozi and Iōanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
-
-**Nehemiah 22:43**
-
-And they sacrificed on that day great sacrifices and rejoiced, because God gladdened them greatly, and their wives and their children rejoiced, and rejoicing in Ierousalem was heard from far away.
-
-**Nehemiah 22:44**
-
-And on that day men were appointed over the treasury-rooms, for the treasures, the firstfruits, the tithes, and the things gathered in them by rulers of the cities, portions for the priests and for the Levites, because rejoicing was in Iouda over the priests and over the Levites who stood.
-
-**Nehemiah 22:45**
-
-And they kept charges of their God and charges of the purification and the singers and the gatekeepers, as commands of David and Salomon his son.
-
-**Nehemiah 22:46**
-
-For in days of David, Asaph from the beginning was chief of the singers, and there was hymn and praise to God.
-
-**Nehemiah 22:47**
-
-And all Israel in days of Zorobabel were giving portions of the singers and the gatekeepers, matter of each day on its day, and sanctifying for the Levites, and the Levites sanctifying for sons of Aaron.
-
-### Chapter 23
-
-**Nehemiah 23:1**
-
-On that day it was read in book of Moses in ears of the people, and it was found written in it that Ammanites and Moabites should not enter into assembly of God forever,
-
-**Nehemiah 23:2**
-
-because they did not meet sons of Israel with bread and water, and they hired Balaam against him to curse him, and our God turned the curse into blessing.
-
-**Nehemiah 23:3**
-
-And it came to be when they heard the law, they separated every mixed group in Israel.
-
-**Nehemiah 23:4**
-
-And before this, Eliasib the priest was dwelling in treasury-room of house of our God, being near to Tobia,
-
-**Nehemiah 23:5**
-
-and he made for him a great treasury-room, and there they formerly gave the manna and the frankincense and the vessels and the tithe of grain and wine and oil, the command for the Levites and the singers and the gatekeepers, and firstfruits of the priests.
-
-**Nehemiah 23:6**
-
 And in all this I was not in Ierousalem, because in thirty-second year of Arthasastha king of Babylon I came to the king, and after end of days I asked leave from the king.
 
-**Nehemiah 23:7**
+**Nehemiah 13:7**
 
 And I came to Ierousalem and understood the evil which Eliasib did for Tobia, making for him a treasury-room in court of house of God.
 
-**Nehemiah 23:8**
+**Nehemiah 13:8**
 
 And it seemed very evil to me, and I threw all vessels of house of Tobia outside the treasury-room.
 
-**Nehemiah 23:9**
+**Nehemiah 13:9**
 
 And I said, and they purified the treasury-rooms, and I restored there vessels of house of God, the manna, and the frankincense.
 
-**Nehemiah 23:10**
+**Nehemiah 13:10**
 
 And I knew that portions of the Levites had not been given, and the Levites and the singers doing the work fled, each man to his own field.
 
-**Nehemiah 23:11**
+**Nehemiah 13:11**
 
 And I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing.
 
-**Nehemiah 23:12**
+**Nehemiah 13:12**
 
 And all Iouda brought tithe of the grain and the wine and the oil into the treasuries.
 
-**Nehemiah 23:13**
+**Nehemiah 13:13**
 
 Over hand of Selemia the priest and Saddouk the scribe and Phadaia from the Levites, and over their hand Hanan son of Zakkour son of Mathania, because they were reckoned faithful to divide to their brothers.
 
-**Nehemiah 23:14**
+**Nehemiah 13:14**
 
 Remember me, O God, in this, and let not my mercy be wiped out, which I did in house of Lord God.
 
-**Nehemiah 23:15**
+**Nehemiah 13:15**
 
 In those days I saw in Iouda men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Ierousalem on Sabbath day, and I testified on day of their selling.
 
-**Nehemiah 23:16**
+**Nehemiah 13:16**
 
 And they were dwelling in it, bringing fish and every kind of merchandise, selling on the Sabbath to sons of Iouda and in Ierousalem.
 
-**Nehemiah 23:17**
+**Nehemiah 13:17**
 
 And I contended with sons of Iouda, the free men, and said to them, What is this evil word which you are doing and profaning the Sabbath day?
 
-**Nehemiah 23:18**
+**Nehemiah 13:18**
 
 Did not your fathers do thus, and our God brought all these evils upon them and upon us and upon this city? And you add wrath upon Israel by profaning the Sabbath.
 
-**Nehemiah 23:19**
+**Nehemiah 13:19**
 
 And it came to be when gates of Ierousalem were set before the Sabbath, I gave word and they shut the gates, and I said that they should not be opened until after the Sabbath. And from my servants I set some over the gates, so that no burden be brought in on Sabbath day.
 
-**Nehemiah 23:20**
+**Nehemiah 13:20**
 
 And all the traders and sellers of merchandise lodged outside Ierousalem once and twice.
 
-**Nehemiah 23:21**
+**Nehemiah 13:21**
 
 And I testified among them and said to them, Why do you lodge opposite the wall? If you do this a second time, I will stretch out my hand against you. From that time they did not come on the Sabbath.
 
-**Nehemiah 23:22**
+**Nehemiah 13:22**
 
 And I told the Levites, those being purified and coming to guard the gates, to sanctify the Sabbath day. Concerning these things remember me, O God, and spare me according to abundance of your mercy.
 
-**Nehemiah 23:23**
+**Nehemiah 13:23**
 
 And in those days I saw the Ioudaioi who had seated Ashdodite, Ammonite, and Moabite women.
 
-**Nehemiah 23:24**
+**Nehemiah 13:24**
 
 And half of their sons were speaking Ashdodite and were not recognizing how to speak Ioudaian.
 
-**Nehemiah 23:25**
+**Nehemiah 13:25**
 
 And I contended with them and cursed them and struck men among them and made them bald, and made them swear by God that you will not give your daughters to their sons and will not take from their daughters for your sons.
 
-**Nehemiah 23:26**
+**Nehemiah 13:26**
 
 Did not Salomon king of Israel sin thus? And among many nations there was no king like him, and he was loved by God, and God gave him as king over all Israel, yet foreign women turned even him aside.
 
-**Nehemiah 23:27**
+**Nehemiah 13:27**
 
 And shall we listen to you to do all this evil, to act faithlessly toward our God, seating foreign women?
 
-**Nehemiah 23:28**
+**Nehemiah 13:28**
 
 And from sons of Iōada, of Elisoub the great priest, was son-in-law of Sanaballat the Horonite, and I drove him out from me.
 
-**Nehemiah 23:29**
+**Nehemiah 13:29**
 
 Remember them, O God, for kinship with the priesthood and covenant of the priesthood and the Levites.
 
-**Nehemiah 23:30**
+**Nehemiah 13:30**
 
 And I purified them from every foreign thing and set courses for the priests and for the Levites, each man as his work,
 
-**Nehemiah 23:31**
+**Nehemiah 13:31**
 
 and gift of the wood-bearers at appointed times from years and in the firstfruits. Remember me, our God, for goodness.
 
@@ -91724,7 +89970,7 @@ According to word of Ephraim, he received ordinances in Israel, and he set them 
 
 **Hosea 13:2**
 
-And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
+And now they sinned increasingly and made for themselves a molten image from their silver according to likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
 
 **Hosea 13:3**
 
@@ -92366,7 +90612,7 @@ Therefore thus I will do to you, Israel. Yet because I will do thus to you, prep
 
 **Amos 4:13**
 
-Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 
 ### Chapter 5
 
@@ -93170,7 +91416,7 @@ And seers of dreams will be put to shame and diviners laughed to scorn, and all 
 
 **Micah 3:8**
 
-Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 
 **Micah 3:9**
 
@@ -93466,7 +91712,7 @@ God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his a
 
 **Nahum 1:3**
 
-Lord long-suffering, and great his strength, and acquitting he will not acquit. Lord's way is in completion and in upheaval, and clouds are dust of his feet.
+The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 
 **Nahum 1:4**
 
@@ -93502,7 +91748,7 @@ From you one thinking evil against Lord will come out, devising hostile things.
 
 **Nahum 1:12**
 
-Thus says Lord, ruling many waters: Thus they will be scattered, and your report will no longer be heard.
+Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 
 **Nahum 1:13**
 
@@ -93510,7 +91756,7 @@ Now I will break his rod from upon you, and your bonds I will tear apart.
 
 **Nahum 1:14**
 
-Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are swift.
+And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 
 ### Chapter 2
 
@@ -93698,7 +91944,7 @@ Then spirit will change and pass through and make atonement. This strength belon
 
 **Habakkuk 1:12**
 
-Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 
 **Habakkuk 1:13**
 
@@ -93736,7 +91982,7 @@ Because vision is still for time, and it will rise to end and not for emptiness.
 
 **Habakkuk 2:4**
 
-If he shrinks back, my soul takes no pleasure in him; but righteous one will live by my faith.
+If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 
 **Habakkuk 2:5**
 
@@ -93810,7 +92056,7 @@ Prayer of Habakkuk prophet, with song.
 
 **Habakkuk 3:2**
 
-Lord, I heard your report and feared. I considered your works and was astonished. In midst of two living things you will be known; when years draw near you will be recognized; when time is present you will be shown. When my soul is troubled, in wrath you will remember mercy.
+Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 
 **Habakkuk 3:3**
 
@@ -94990,7 +93236,7 @@ And it will be in that day, I will seek to remove all nations coming against Jer
 
 **Zechariah 12:10**
 
-And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 
 **Zechariah 12:11**
 
@@ -95252,11 +93498,11 @@ And you said, For what reason? Because Lord testified between you and wife of yo
 
 **Malachi 2:15**
 
-Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 
 **Malachi 2:16**
 
-But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 
 **Malachi 2:17**
 

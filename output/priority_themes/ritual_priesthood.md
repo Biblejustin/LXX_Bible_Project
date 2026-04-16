@@ -2,7 +2,7 @@
 
 Altar, sacrifice, priesthood, holiness in cultic setting.
 
-Rows: 75
+Rows: 72
 Books: 31
 
 ## Exodus 3:18
@@ -81,13 +81,6 @@ Books: 31
 - keywords: covenant, holy, lord, seed
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
-
-## Joshua 9:2
-- score: 19
-- reasons: importance=medium; keywords=altar, covenant, god, law, lord, sacrifice
-- keywords: altar, covenant, god, law, lord, sacrifice, salvation, servant
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
-- brenton: they came all together at the same time to make war against Joshua and Israel.
 
 ## Joshua 22:23
 - score: 14
@@ -236,40 +229,33 @@ Books: 31
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- keywords: king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
-
-## Ezra 1:3
+## Ezra 6:3
 - score: 10
-- reasons: importance=low; keywords=god, holy, king, lord
-- keywords: god, holy, king, lord
-- fresh: And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
-- brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
+- reasons: importance=low; keywords=god, holy, king, sacrifice
+- keywords: god, holy, king, sacrifice
+- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
-## Ezra 1:16
-- score: 11
-- reasons: importance=medium; keywords=altar, king, lord, sacrifice
-- keywords: altar, king, lord, sacrifice
-- fresh: And things of sacrifice of Lord were completed on that day, so that the Passover might be brought and sacrifices might be offered upon altar of Lord according to command of king Iōsias.
-- brenton: [missing]
+## Ezra 7:21
+- score: 10
+- reasons: importance=low; keywords=god, king, law, priest
+- keywords: god, king, law, priest
+- fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- brenton: and from me, whatever it shall seem good to thee to give.
 
 ## Nehemiah 8:9
 - score: 12
 - reasons: importance=low; keywords=god, holy, law, lord, priest
 - keywords: god, holy, law, lord, priest
-- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
+- fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Nehemiah 9:8
-- score: 14
-- reasons: importance=low; keywords=covenant, god, lord, righteous, salvation, seed
-- keywords: covenant, god, lord, righteous, salvation, seed
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
+## Nehemiah 10:34
+- score: 17
+- reasons: importance=medium; keywords=altar, god, holy, law, lord, sacrifice
+- keywords: altar, god, holy, law, lord, sacrifice, sin
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Esther 4:11
 - score: 7
@@ -390,13 +376,6 @@ Books: 31
 - fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without manifestations.
 - brenton: [missing]
 
-## Hosea 13:2
-- score: 9
-- reasons: importance=medium; keywords=image, sacrifice, sin
-- keywords: image, sacrifice, sin
-- fresh: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
-- brenton: [missing]
-
 ## Joel 1:9
 - score: 8
 - reasons: importance=low; keywords=altar, lord, sacrifice
@@ -464,7 +443,7 @@ Books: 31
 - score: 10
 - reasons: importance=low; keywords=god, holy, judgment, lord
 - keywords: god, holy, judgment, lord
-- fresh: Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+- fresh: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: [missing]
 
 ## Zephaniah 1:7

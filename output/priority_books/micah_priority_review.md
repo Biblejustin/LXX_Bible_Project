@@ -5,7 +5,7 @@ Selected verses: 6
 ## Micah 3:8
 - score: 9
 - reasons: importance=medium; keywords=judgment, lord, spirit
-- fresh: Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 - brenton: [missing]
 
 ## Micah 4:2

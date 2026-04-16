@@ -29,7 +29,7 @@ Selected verses: 6
 ## 2 Samuel 23:1
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - brenton: And these are the last words of David.
 
 ## 2 Samuel 24:25

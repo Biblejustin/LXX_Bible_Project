@@ -20,6 +20,12 @@ Selected verses: 6
 - fresh: And many days Israel was without true God and without priest showing way and without law.
 - brenton: And Israel has been a long time without the true God, and without a priest to expound the truth, and without the law.
 
+## 2 Chronicles 15:12
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, soul
+- fresh: And he entered into covenant to seek Lord God of their fathers with all heart and with all soul.
+- brenton: And he entered into a covenant that they should seek the Lord God of their fathers with all their heart and with all their soul.
+
 ## 2 Chronicles 26:18
 - score: 12
 - reasons: importance=low; keywords=glory, god, king, lord, sacrifice
@@ -31,9 +37,3 @@ Selected verses: 6
 - reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.

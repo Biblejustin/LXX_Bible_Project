@@ -6,13 +6,21 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DECISION_QUEUE = ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.csv"
+REVIEW_QUEUE = ROOT / "output" / "fresh_vs_brenton_ot_review_queue.csv"
 OT_SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
-REVIEW_PASS = ROOT / "data" / "research" / "ot_review_pass_01.md"
+REVIEW_DIR = ROOT / "data" / "research"
 LOGOS_SCAN = ROOT / "data" / "research" / "local" / "logos_scan" / "logos_translation_resources.csv"
 OUT_DIR = ROOT / "data" / "research" / "local" / "witness_review"
 OUT_CSV = OUT_DIR / "ot_witness_matrix.csv"
 OUT_RESOURCES = OUT_DIR / "resource_shortlist.csv"
 OUT_README = OUT_DIR / "README.md"
+
+
+def review_pass_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"ot_review_pass_(\d+)\.md$", path.name)
+    if not match:
+        return (0, path.name)
+    return (int(match.group(1)), path.name)
 
 
 GENERIC_RESOURCE_IDS = {
@@ -178,6 +186,28 @@ def load_ot_rows(path: Path) -> dict[str, dict[str, str]]:
     return {row["ref"]: row for row in load_csv(path)}
 
 
+def load_review_passes(directory: Path) -> dict[str, dict[str, str]]:
+    merged: dict[str, dict[str, str]] = {}
+    for path in sorted(directory.glob("ot_review_pass_*.md"), key=review_pass_sort_key):
+        for ref, row in parse_review_pass(path).items():
+            item = dict(row)
+            item["review_pass"] = path.name
+            merged[ref] = item
+    return merged
+
+
+def load_queue_rows(*paths: Path) -> dict[str, dict[str, str]]:
+    merged: dict[str, dict[str, str]] = {}
+    for path in paths:
+        if not path.exists():
+            continue
+        for row in load_csv(path):
+            ref = row.get("ref", "")
+            if ref:
+                merged.setdefault(ref, {}).update(row)
+    return merged
+
+
 def first_matching_resources(path: Path) -> list[dict[str, str]]:
     if not path.exists():
         return []
@@ -260,34 +290,39 @@ def pick_resource_label(
 
 
 def build_matrix_rows(
-    decision_rows: list[dict[str, str]],
+    queue_rows: dict[str, dict[str, str]],
     review_map: dict[str, dict[str, str]],
     ot_rows: dict[str, dict[str, str]],
     resources: dict[str, list[dict[str, str]]],
+    *,
+    include_keep_provisional: bool = False,
 ) -> list[dict[str, str]]:
     status_rank = {"needs-logos": 0, "keep-provisional": 1, "revised": 2, "keep": 3}
+    allowed_statuses = {"needs-logos"}
+    if include_keep_provisional:
+        allowed_statuses.add("keep-provisional")
     picked = []
-    for row in decision_rows:
-        meta = review_map.get(row["ref"])
-        if not meta:
+    for ref, meta in review_map.items():
+        if meta.get("pass_status") not in allowed_statuses:
             continue
-        if meta.get("pass_status") not in {"needs-logos", "keep-provisional"}:
-            continue
-        source_row = ot_rows.get(row["ref"], {})
-        book = row["ref"].rsplit(" ", 1)[0]
+        source_row = ot_rows.get(ref, {})
+        queue_row = queue_rows.get(ref, {})
+        book = ref.rsplit(" ", 1)[0]
+        priority_score = queue_row.get("priority_score", "")
         picked.append(
             {
                 "sort_status": str(status_rank.get(meta.get("pass_status", "keep"), 9)),
-                "sort_score": row["priority_score"],
-                "ref": row["ref"],
-                "priority_score": row["priority_score"],
+                "sort_score": priority_score or "0",
+                "ref": ref,
+                "priority_score": priority_score,
                 "pass_status": meta.get("pass_status", ""),
                 "focus": meta.get("focus", ""),
                 "reason": meta.get("reason", ""),
                 "change_note": meta.get("change", ""),
+                "review_pass": meta.get("review_pass", ""),
                 "greek_text": source_row.get("greek_text", ""),
                 "our_draft": source_row.get("draft_translation", ""),
-                "brenton_translation": row.get("brenton_translation", ""),
+                "brenton_translation": queue_row.get("brenton_translation", ""),
                 "base_greek_resource": pick_resource_label(resources, "greek_base_rahlfs", book),
                 "swete_resource": pick_resource_label(resources, "greek_swete", book),
                 "gottingen_resource": pick_resource_label(resources, "greek_gottingen", book),
@@ -319,8 +354,45 @@ def build_matrix_rows(
 
 def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+    if rows:
+        fieldnames = list(rows[0].keys())
+    elif path == OUT_CSV:
+        fieldnames = [
+            "order",
+            "ref",
+            "priority_score",
+            "pass_status",
+            "focus",
+            "reason",
+            "change_note",
+            "review_pass",
+            "greek_text",
+            "our_draft",
+            "brenton_translation",
+            "base_greek_resource",
+            "swete_resource",
+            "gottingen_resource",
+            "apparatus_resource",
+            "les_resource",
+            "nets_resource",
+            "saas_resource",
+            "base_greek_notes",
+            "swete_notes",
+            "gottingen_notes",
+            "apparatus_notes",
+            "les_notes",
+            "nets_notes",
+            "saas_notes",
+            "smoothing_note",
+            "textual_issue",
+            "recommended_action",
+            "final_decision",
+            "reviewer_notes",
+        ]
+    else:
+        fieldnames = ["slot", "book_scope", "resource_id", "title", "short_title", "path"]
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0].keys()))
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
@@ -367,17 +439,15 @@ def write_readme(path: Path, resource_rows: list[dict[str, str]], matrix_rows: l
 
 
 def main() -> None:
-    decision_rows = load_csv(DECISION_QUEUE)
+    queue_rows = load_queue_rows(DECISION_QUEUE, REVIEW_QUEUE)
     ot_rows = load_ot_rows(OT_SOURCE)
-    review_map = parse_review_pass(REVIEW_PASS)
+    review_map = load_review_passes(REVIEW_DIR)
     logos_rows = first_matching_resources(LOGOS_SCAN)
-    pre_matrix_rows = build_matrix_rows(decision_rows, review_map, ot_rows, {})
+    pre_matrix_rows = build_matrix_rows(queue_rows, review_map, ot_rows, {}, include_keep_provisional=False)
     relevant_books = {row["ref"].rsplit(" ", 1)[0] for row in pre_matrix_rows}
     resource_rows = shortlist_resources_for_books(logos_rows, relevant_books)
     resources = resource_index(resource_rows)
-    matrix_rows = build_matrix_rows(decision_rows, review_map, ot_rows, resources)
-    if not matrix_rows:
-        raise SystemExit("No witness-review rows selected.")
+    matrix_rows = build_matrix_rows(queue_rows, review_map, ot_rows, resources, include_keep_provisional=False)
     write_csv(OUT_CSV, matrix_rows)
     write_csv(OUT_RESOURCES, resource_rows)
     write_readme(OUT_README, resource_rows, matrix_rows)

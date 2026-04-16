@@ -8,6 +8,12 @@ Selected verses: 6
 - fresh: But sons of Judah I will show mercy to and save them in Lord their God, and I will not save them by bow nor by sword nor by war nor by chariots nor by horses nor by horsemen.
 - brenton: [missing]
 
+## Hosea 2:21
+- score: 8
+- reasons: importance=low; keywords=judgment, mercy, righteousness
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
+- brenton: [missing]
+
 ## Hosea 3:4
 - score: 9
 - reasons: importance=medium; keywords=altar, king, sacrifice
@@ -24,12 +30,6 @@ Selected verses: 6
 - score: 9
 - reasons: importance=medium; keywords=god, lord, spirit
 - fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
-- brenton: [missing]
-
-## Hosea 13:2
-- score: 9
-- reasons: importance=medium; keywords=image, sacrifice, sin
-- fresh: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
 - brenton: [missing]
 
 ## Hosea 13:4

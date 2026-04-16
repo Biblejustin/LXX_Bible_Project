@@ -2,7 +2,7 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 100
+Rows: 98
 Books: 37
 
 ## Genesis 24:27
@@ -16,7 +16,7 @@ Books: 37
 - score: 18
 - reasons: decisions=1; importance=high; keywords=god, lord, righteousness, servant, truth
 - keywords: god, lord, righteousness, servant, truth
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
 
 ## Exodus 3:2
@@ -229,67 +229,46 @@ Books: 37
 - fresh: And they stood against Ozia the king and said to him, Not for you, Ozia, to burn incense to Lord, but for priests, sons of Aaron, those sanctified to burn incense. Go out from sanctuary, because you rebelled from Lord, and this shall not be for glory to you from Lord God.
 - brenton: And they withstood Ozias the king, and said to him, It is not for thee, Ozias, to burn incense to the Lord, but only for the priests the sons of Aaron, who are consecrated to sacrifice: go forth of the sanctuary, for thou hast departed from the Lord; and this shall not be for glory to thee from the Lord God.
 
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- keywords: king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
-
-## Ezra 1:3
+## Ezra 6:3
 - score: 10
-- reasons: importance=low; keywords=god, holy, king, lord
-- keywords: god, holy, king, lord
-- fresh: And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
-- brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
-
-## Ezra 1:46
-- score: 10
-- reasons: importance=low; keywords=god, king, lord, name
-- keywords: god, king, lord, name
-- fresh: And though sworn by king Nabouchodonosor in name of Lord, after swearing falsely he rebelled, and hardening his neck and strengthening his heart he transgressed laws of Lord God of Israel.
-- brenton: [missing]
-
-## Ezra 6:12
-- score: 12
-- reasons: importance=low; keywords=created, god, king, lord, name
-- keywords: created, god, king, lord, name
-- fresh: And they answered us, saying, We are servants of Lord who created heaven and earth.
-- brenton: And may the God whose name dwells there, overthrow every king and people who shall stretch out his hand to alter or destroy the house of God which is in Jerusalem. I Darius have made a decree; let it be diligently attended to.
+- reasons: importance=low; keywords=god, holy, king, sacrifice
+- keywords: god, holy, king, sacrifice
+- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
 ## Nehemiah 1:5
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, lord, mercy, spirit
-- keywords: covenant, god, lord, mercy, spirit
-- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, mercy
+- keywords: covenant, god, lord, mercy
+- fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 - brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
 
 ## Nehemiah 1:11
 - score: 13
 - reasons: importance=medium; keywords=king, lord, mercy, name, servant
 - keywords: king, lord, mercy, name, servant
-- fresh: All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
+- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 - brenton: Turn not away, I pray thee, O Lord, but let thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and cause him to find mercy in the sight of this man. Now I was the king's cup-bearer.
 
 ## Nehemiah 8:9
 - score: 12
 - reasons: importance=low; keywords=god, holy, law, lord, priest
 - keywords: god, holy, law, lord, priest
-- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
+- fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Nehemiah 11:11
-- score: 13
-- reasons: importance=medium; keywords=god, king, lord, name, servant
-- keywords: god, king, lord, name, servant
-- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
-- brenton: Saraia, son of Elchia, son of Mesulam, son of Sadduc, son of Marioth, son of Aetoth, was over the house of God.
+## Nehemiah 10:34
+- score: 17
+- reasons: importance=medium; keywords=altar, god, holy, law, lord, sacrifice
+- keywords: altar, god, holy, law, lord, sacrifice, sin
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Esther 8:8
 - score: 7
 - reasons: importance=medium; keywords=king, name
 - keywords: king, name
-- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 - brenton: [missing]
 
 ## Job 1:1
@@ -516,6 +495,13 @@ Books: 37
 - fresh: But sons of Judah I will show mercy to and save them in Lord their God, and I will not save them by bow nor by sword nor by war nor by chariots nor by horses nor by horsemen.
 - brenton: [missing]
 
+## Hosea 2:21
+- score: 8
+- reasons: importance=low; keywords=judgment, mercy, righteousness
+- keywords: judgment, mercy, righteousness
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
+- brenton: [missing]
+
 ## Hosea 4:1
 - score: 10
 - reasons: importance=low; keywords=god, lord, mercy, truth
@@ -545,10 +531,10 @@ Books: 37
 - brenton: [missing]
 
 ## Amos 4:13
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, spirit
-- keywords: god, lord, name, spirit
-- fresh: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+- score: 13
+- reasons: importance=medium; keywords=anointed, god, lord, name, wind
+- keywords: anointed, god, lord, name, wind
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
 ## Amos 5:8
@@ -611,21 +597,21 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=god, lord, name
 - keywords: god, lord, name
-- fresh: Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are swift.
+- fresh: And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 - brenton: [missing]
 
 ## Habakkuk 1:12
 - score: 10
 - reasons: importance=low; keywords=god, holy, judgment, lord
 - keywords: god, holy, judgment, lord
-- fresh: Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+- fresh: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: [missing]
 
 ## Habakkuk 3:2
 - score: 9
 - reasons: importance=medium; keywords=lord, mercy, soul
 - keywords: lord, mercy, soul
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. In midst of two living things you will be known; when years draw near you will be recognized; when time is present you will be shown. When my soul is troubled, in wrath you will remember mercy.
+- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - brenton: [missing]
 
 ## Zephaniah 3:4
@@ -639,7 +625,7 @@ Books: 37
 - score: 6
 - reasons: importance=low; keywords=lord, messenger
 - keywords: lord, messenger
-- fresh: Haggai messenger of Lord said to people, I am with you, says Lord.
+- fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 - brenton: [missing]
 
 ## Haggai 2:9
@@ -674,7 +660,7 @@ Books: 37
 - score: 13
 - reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit
 - keywords: beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ## Zechariah 14:5

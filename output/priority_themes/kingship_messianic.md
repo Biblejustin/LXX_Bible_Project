@@ -2,14 +2,14 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 108
+Rows: 106
 Books: 36
 
 ## Genesis 32:10
 - score: 18
 - reasons: decisions=1; importance=high; keywords=god, lord, righteousness, servant, truth
 - keywords: god, lord, righteousness, servant, truth
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
 
 ## Exodus 3:18
@@ -74,13 +74,6 @@ Books: 36
 - keywords: god, lord, servant
 - fresh: Lord, Lord, you began to show your servant your strength and your power and your mighty hand and your high arm. For what god is there in heaven or on earth who will do as you did and according to your strength?
 - brenton: Lord God, thou hast begun to shew to thy servant thy strength, and thy power, and thy mighty hand, and thy high arm: for what God is there in heaven or on the earth, who will do as thou hast done, and according to thy might?
-
-## Joshua 9:2
-- score: 19
-- reasons: importance=medium; keywords=altar, covenant, god, law, lord, sacrifice
-- keywords: altar, covenant, god, law, lord, sacrifice, salvation, servant
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
-- brenton: they came all together at the same time to make war against Joshua and Israel.
 
 ## Joshua 22:5
 - score: 13
@@ -184,7 +177,7 @@ Books: 36
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord
 - keywords: anointed, god, lord
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - brenton: And these are the last words of David.
 
 ## 2 Samuel 24:25
@@ -320,82 +313,68 @@ Books: 36
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- keywords: king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
-
-## Ezra 1:1
-- score: 11
-- reasons: importance=medium; keywords=god, king, lord, spirit
-- keywords: god, king, lord, spirit
-- fresh: And Iōsias brought Passover in Ierousalem to Lord his God, and sacrificed the Passover on fourteenth day of first month.
-- brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
-
-## Ezra 1:3
+## Ezra 6:3
 - score: 10
-- reasons: importance=low; keywords=god, holy, king, lord
-- keywords: god, holy, king, lord
-- fresh: And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
-- brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
+- reasons: importance=low; keywords=god, holy, king, sacrifice
+- keywords: god, holy, king, sacrifice
+- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
-## Ezra 1:16
-- score: 11
-- reasons: importance=medium; keywords=altar, king, lord, sacrifice
-- keywords: altar, king, lord, sacrifice
-- fresh: And things of sacrifice of Lord were completed on that day, so that the Passover might be brought and sacrifices might be offered upon altar of Lord according to command of king Iōsias.
-- brenton: [missing]
-
-## Ezra 1:46
+## Ezra 7:6
 - score: 10
-- reasons: importance=low; keywords=god, king, lord, name
-- keywords: god, king, lord, name
-- fresh: And though sworn by king Nabouchodonosor in name of Lord, after swearing falsely he rebelled, and hardening his neck and strengthening his heart he transgressed laws of Lord God of Israel.
-- brenton: [missing]
+- reasons: importance=low; keywords=god, king, law, lord
+- keywords: god, king, law, lord
+- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
+- brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
-## Ezra 6:8
+## Ezra 7:12
+- score: 10
+- reasons: importance=low; keywords=god, king, law, lord
+- keywords: god, king, law, lord
+- fresh: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+- brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
+
+## Ezra 7:21
+- score: 10
+- reasons: importance=low; keywords=god, king, law, priest
+- keywords: god, king, law, priest
+- fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- brenton: and from me, whatever it shall seem good to thee to give.
+
+## Ezra 7:26
+- score: 10
+- reasons: importance=low; keywords=god, judgment, king, law
+- keywords: god, judgment, king, law
+- fresh: And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+- brenton: And whosoever shall not do the law of God, and the law of the king readily, judgment shall be taken upon him, whether for death or for chastisement, or for a fine of his property, or casting into prison.
+
+## Ezra 10:3
 - score: 11
-- reasons: importance=medium; keywords=being, god, king, lord
-- keywords: being, god, king, lord
-- fresh: To king Darius, greetings in all things. Let it be known to our lord king that when we came into land of Ioudaia and entered Ierousalem city, we found elders of captivity of Ioudaioi in Ierousalem city building great new house to Lord from carved costly stones, timbers being laid in walls.
-- brenton: Also a decree has been made by me, if haply ye may do somewhat in concert with the elders of the Jews for the building of that house of God: to wit, out of the king's property, even the tributes beyond the river, let there be money to defray the expenses carefully granted to those men, so that they be not hindered.
-
-## Ezra 6:12
-- score: 12
-- reasons: importance=low; keywords=created, god, king, lord, name
-- keywords: created, god, king, lord, name
-- fresh: And they answered us, saying, We are servants of Lord who created heaven and earth.
-- brenton: And may the God whose name dwells there, overthrow every king and people who shall stretch out his hand to alter or destroy the house of God which is in Jerusalem. I Darius have made a decree; let it be diligently attended to.
-
-## Nehemiah 1:7
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, king, lord, servant
-- keywords: covenant, god, king, lord, servant
-- fresh: And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
-- brenton: We have altogether broken covenant with thee, and we have not kept the commandments, and the ordinances, and the judgments, which thou didst command thy servant Moses.
+- reasons: importance=medium; keywords=covenant, god, law, offspring
+- keywords: covenant, god, law, offspring
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
 ## Nehemiah 1:11
 - score: 13
 - reasons: importance=medium; keywords=king, lord, mercy, name, servant
 - keywords: king, lord, mercy, name, servant
-- fresh: All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
+- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 - brenton: Turn not away, I pray thee, O Lord, but let thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and cause him to find mercy in the sight of this man. Now I was the king's cup-bearer.
 
-## Nehemiah 9:8
-- score: 14
-- reasons: importance=low; keywords=covenant, god, lord, righteous, salvation, seed
-- keywords: covenant, god, lord, righteous, salvation, seed
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
+## Nehemiah 10:29
+- score: 11
+- reasons: importance=medium; keywords=god, law, lord, servant
+- keywords: god, law, lord, servant
+- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
+- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
 
-## Nehemiah 11:11
-- score: 13
-- reasons: importance=medium; keywords=god, king, lord, name, servant
-- keywords: god, king, lord, name, servant
-- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
-- brenton: Saraia, son of Elchia, son of Mesulam, son of Sadduc, son of Marioth, son of Aetoth, was over the house of God.
+## Nehemiah 10:30
+- score: 11
+- reasons: importance=medium; keywords=god, law, lord, servant
+- keywords: god, law, lord, servant
+- fresh: were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
+- brenton: and that we will not, they said,give our daughters to the people of the land, nor will we take their daughters to our sons.
 
 ## Esther 1:8
 - score: 6
@@ -436,7 +415,7 @@ Books: 36
 - score: 7
 - reasons: importance=medium; keywords=king, name
 - keywords: king, name
-- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 - brenton: [missing]
 
 ## Job 1:8
@@ -506,21 +485,21 @@ Books: 36
 - score: 5
 - reasons: importance=medium; keywords=beloved
 - keywords: beloved
-- fresh: As apple tree among trees of grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit sweet in my throat.
+- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: [missing]
 
 ## Song of Solomon 2:9
 - score: 5
 - reasons: importance=medium; keywords=beloved
 - keywords: beloved
-- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through nets.
+- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 - brenton: [missing]
 
 ## Song of Solomon 5:6
 - score: 7
 - reasons: importance=medium; keywords=beloved, soul
 - keywords: beloved, soul
-- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not listen to me.
+- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 - brenton: [missing]
 
 ## Song of Solomon 6:2
@@ -656,6 +635,13 @@ Books: 36
 - fresh: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
+## Amos 4:13
+- score: 13
+- reasons: importance=medium; keywords=anointed, god, lord, name, wind
+- keywords: anointed, god, lord, name, wind
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
+- brenton: [missing]
+
 ## Obadiah 1:17
 - score: 6
 - reasons: importance=low; keywords=holy, salvation
@@ -730,7 +716,7 @@ Books: 36
 - score: 13
 - reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit
 - keywords: beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ## Zechariah 14:5

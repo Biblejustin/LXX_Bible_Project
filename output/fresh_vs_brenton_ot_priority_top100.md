@@ -23,13 +23,6 @@ Rows: 100
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
-## Genesis 1:2
-- book: Genesis
-- score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit, wind
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
-- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
-
 ## 2 Samuel 14:17
 - book: 2 Samuel
 - score: 20
@@ -37,19 +30,19 @@ Rows: 100
 - fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
+## Genesis 1:2
+- book: Genesis
+- score: 19
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
+
 ## Genesis 2:7
 - book: Genesis
 - score: 19
 - reasons: decisions=2; footnotes=1; importance=high; keywords=being, god, soul
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living being.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
-
-## Joshua 9:2
-- book: Joshua
-- score: 19
-- reasons: importance=medium; keywords=altar, covenant, god, law, lord, sacrifice
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
-- brenton: they came all together at the same time to make war against Joshua and Israel.
 
 ## 1 Samuel 20:42
 - book: 1 Samuel
@@ -104,7 +97,7 @@ Rows: 100
 - book: Genesis
 - score: 18
 - reasons: decisions=1; importance=high; keywords=god, lord, righteousness, servant, truth
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
 
 ## Leviticus 18:21
@@ -170,6 +163,13 @@ Rows: 100
 - fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
 - brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
 
+## Nehemiah 10:34
+- book: Nehemiah
+- score: 17
+- reasons: importance=medium; keywords=altar, god, holy, law, lord, sacrifice
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
+
 ## 1 Kings 16:28
 - book: 1 Kings
 - score: 16
@@ -209,7 +209,7 @@ Rows: 100
 - book: 2 Samuel
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - brenton: And these are the last words of David.
 
 ## 2 Samuel 24:25
@@ -295,13 +295,6 @@ Rows: 100
 - reasons: importance=medium; keywords=anointed, holy, judgment, justice, lord, righteousness
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
-
-## 2 Chronicles 35:19
-- book: 2 Chronicles
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ## Daniel 4:37
 - book: Daniel
@@ -401,13 +394,6 @@ Rows: 100
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
 
-## Nehemiah 9:8
-- book: Nehemiah
-- score: 14
-- reasons: importance=low; keywords=covenant, god, lord, righteous, salvation, seed
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
-
 ## Psalms 83:12
 - book: Psalms
 - score: 14
@@ -435,6 +421,13 @@ Rows: 100
 - reasons: importance=medium; keywords=king, law, lord, priest, spirit
 - fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Iōsias removed, to establish the words of the law written upon the book which Chelkias the priest found in the house of the Lord.
 - brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
+
+## Amos 4:13
+- book: Amos
+- score: 13
+- reasons: importance=medium; keywords=anointed, god, lord, name, wind
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
+- brenton: [missing]
 
 ## Isaiah 49:7
 - book: Isaiah
@@ -464,39 +457,18 @@ Rows: 100
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
-## Nehemiah 11:11
-- book: Nehemiah
-- score: 13
-- reasons: importance=medium; keywords=god, king, lord, name, servant
-- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
-- brenton: Saraia, son of Elchia, son of Mesulam, son of Sadduc, son of Marioth, son of Aetoth, was over the house of God.
-
 ## Nehemiah 1:11
 - book: Nehemiah
 - score: 13
 - reasons: importance=medium; keywords=king, lord, mercy, name, servant
-- fresh: All the vessels, in gold and silver, were five thousand four hundred. Sasabasar brought them all up with those coming up from captivity, from Babylon to Ierousalem.
+- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 - brenton: Turn not away, I pray thee, O Lord, but let thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and cause him to find mercy in the sight of this man. Now I was the king's cup-bearer.
-
-## Nehemiah 1:5
-- book: Nehemiah
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, lord, mercy, spirit
-- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
-- brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
-
-## Nehemiah 1:7
-- book: Nehemiah
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, king, lord, servant
-- fresh: And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
-- brenton: We have altogether broken covenant with thee, and we have not kept the commandments, and the ordinances, and the judgments, which thou didst command thy servant Moses.
 
 ## Zechariah 12:10
 - book: Zechariah
 - score: 13
 - reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ## 1 Chronicles 16:35
@@ -526,13 +498,6 @@ Rows: 100
 - reasons: importance=low; keywords=god, holy, lord, mercy, name
 - fresh: Therefore thus says Lord God: Now I will turn back captivity of Jacob and have mercy on house of Israel and be jealous for my holy name.
 - brenton: [missing]
-
-## Ezra 6:12
-- book: Ezra
-- score: 12
-- reasons: importance=low; keywords=created, god, king, lord, name
-- fresh: And they answered us, saying, We are servants of Lord who created heaven and earth.
-- brenton: And may the God whose name dwells there, overthrow every king and people who shall stretch out his hand to alter or destroy the house of God which is in Jerusalem. I Darius have made a decree; let it be diligently attended to.
 
 ## Isaiah 12:2
 - book: Isaiah
@@ -587,7 +552,7 @@ Rows: 100
 - book: Nehemiah
 - score: 12
 - reasons: importance=low; keywords=god, holy, law, lord, priest
-- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
+- fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
 ## Psalms 113:9
@@ -632,6 +597,13 @@ Rows: 100
 - fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
 - brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
 
+## 2 Chronicles 15:12
+- book: 2 Chronicles
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, soul
+- fresh: And he entered into covenant to seek Lord God of their fathers with all heart and with all soul.
+- brenton: And he entered into a covenant that they should seek the Lord God of their fathers with all their heart and with all their soul.
+
 ## 2 Chronicles 15:3
 - book: 2 Chronicles
 - score: 11
@@ -667,13 +639,6 @@ Rows: 100
 - fresh: because they did not listen to the voice of the Lord their God and transgressed his covenant, all that Moses the servant of the Lord commanded, and they did not listen and did not do it.
 - brenton: because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.
 
-## Amos 4:13
-- book: Amos
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, spirit
-- fresh: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
-- brenton: [missing]
-
 ## Amos 9:1
 - book: Amos
 - score: 11
@@ -700,4 +665,39 @@ Rows: 100
 - score: 11
 - reasons: importance=medium; keywords=god, king, lord, soul
 - fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before Lord God of heaven, and concerning my ignorances I prayed to God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
+- brenton: [missing]
+
+## Daniel 9:4
+- book: Daniel
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, mercy
+- fresh: And I prayed to Lord God and confessed and said, Behold, Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
+- brenton: [missing]
+
+## Ezra 10:3
+- book: Ezra
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, law, offspring
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
+
+## Haggai 1:14
+- book: Haggai
+- score: 11
+- reasons: importance=medium; keywords=god, lord, priest, spirit
+- fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
+- brenton: [missing]
+
+## Haggai 2:9
+- book: Haggai
+- score: 11
+- reasons: importance=medium; keywords=glory, lord, peace, soul
+- fresh: Latter glory of this house will be greater than first, says Lord Almighty, and in this place I will give peace, says Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
+- brenton: [missing]
+
+## Jeremiah 33:16
+- book: Jeremiah
+- score: 11
+- reasons: importance=medium; keywords=god, judgment, lord, name
+- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in name of Lord our God he spoke to us.
 - brenton: [missing]

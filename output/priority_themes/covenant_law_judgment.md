@@ -2,8 +2,8 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 83
-Books: 32
+Rows: 89
+Books: 33
 
 ## Genesis 18:19
 - score: 18
@@ -23,7 +23,7 @@ Books: 32
 - score: 18
 - reasons: decisions=1; importance=high; keywords=god, lord, righteousness, servant, truth
 - keywords: god, lord, righteousness, servant, truth
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.
 
 ## Exodus 28:30
@@ -75,13 +75,6 @@ Books: 32
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
 
-## Joshua 9:2
-- score: 19
-- reasons: importance=medium; keywords=altar, covenant, god, law, lord, sacrifice
-- keywords: altar, covenant, god, law, lord, sacrifice, salvation, servant
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
-- brenton: they came all together at the same time to make war against Joshua and Israel.
-
 ## Joshua 22:5
 - score: 13
 - reasons: importance=medium; keywords=god, law, lord, servant, soul
@@ -95,6 +88,13 @@ Books: 32
 - keywords: being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## Joshua 24:25
+- score: 10
+- reasons: importance=low; keywords=covenant, god, judgment, law
+- keywords: covenant, god, judgment, law
+- fresh: And Joshua made a covenant with the people on that day and gave them law and judgment in Shiloh before the tent of the God of Israel.
+- brenton: So Joshua made a covenant with the people on that day, and gave them a law and an ordinance in Selo before the tabernacle of the God of Israel.
 
 ## Ruth 1:8
 - score: 8
@@ -215,40 +215,82 @@ Books: 32
 - fresh: And many days Israel was without true God and without priest showing way and without law.
 - brenton: And Israel has been a long time without the true God, and without a priest to expound the truth, and without the law.
 
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- keywords: king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
+## 2 Chronicles 15:12
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, soul
+- keywords: covenant, god, lord, soul
+- fresh: And he entered into covenant to seek Lord God of their fathers with all heart and with all soul.
+- brenton: And he entered into a covenant that they should seek the Lord God of their fathers with all their heart and with all their soul.
+
+## Ezra 7:6
+- score: 10
+- reasons: importance=low; keywords=god, king, law, lord
+- keywords: god, king, law, lord
+- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
+- brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
+
+## Ezra 7:12
+- score: 10
+- reasons: importance=low; keywords=god, king, law, lord
+- keywords: god, king, law, lord
+- fresh: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+- brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
+
+## Ezra 7:21
+- score: 10
+- reasons: importance=low; keywords=god, king, law, priest
+- keywords: god, king, law, priest
+- fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- brenton: and from me, whatever it shall seem good to thee to give.
+
+## Ezra 7:26
+- score: 10
+- reasons: importance=low; keywords=god, judgment, king, law
+- keywords: god, judgment, king, law
+- fresh: And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+- brenton: And whosoever shall not do the law of God, and the law of the king readily, judgment shall be taken upon him, whether for death or for chastisement, or for a fine of his property, or casting into prison.
+
+## Ezra 10:3
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, law, offspring
+- keywords: covenant, god, law, offspring
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
 ## Nehemiah 1:5
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, lord, mercy, spirit
-- keywords: covenant, god, lord, mercy, spirit
-- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
+- score: 11
+- reasons: importance=medium; keywords=covenant, god, lord, mercy
+- keywords: covenant, god, lord, mercy
+- fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 - brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
-
-## Nehemiah 1:7
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, king, lord, servant
-- keywords: covenant, god, king, lord, servant
-- fresh: And King Cyrus brought out vessels of house of the Lord, which Nabouchodonosor took from Ierousalem and placed in house of his god.
-- brenton: We have altogether broken covenant with thee, and we have not kept the commandments, and the ordinances, and the judgments, which thou didst command thy servant Moses.
 
 ## Nehemiah 8:9
 - score: 12
 - reasons: importance=low; keywords=god, holy, law, lord, priest
 - keywords: god, holy, law, lord, priest
-- fresh: and from sons of Ioab, Abdia son of Iiel, and with him two hundred eighteen males;
+- fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Nehemiah 9:8
-- score: 14
-- reasons: importance=low; keywords=covenant, god, lord, righteous, salvation, seed
-- keywords: covenant, god, lord, righteous, salvation, seed
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
+## Nehemiah 10:29
+- score: 11
+- reasons: importance=medium; keywords=god, law, lord, servant
+- keywords: god, law, lord, servant
+- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
+- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
+
+## Nehemiah 10:30
+- score: 11
+- reasons: importance=medium; keywords=god, law, lord, servant
+- keywords: god, law, lord, servant
+- fresh: were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
+- brenton: and that we will not, they said,give our daughters to the people of the land, nor will we take their daughters to our sons.
+
+## Nehemiah 10:34
+- score: 17
+- reasons: importance=medium; keywords=altar, god, holy, law, lord, sacrifice
+- keywords: altar, god, holy, law, lord, sacrifice, sin
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Esther 1:8
 - score: 6
@@ -439,11 +481,11 @@ Books: 32
 - fresh: And I prayed to Lord God and confessed and said, Behold, Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
 - brenton: [missing]
 
-## Hosea 13:2
-- score: 9
-- reasons: importance=medium; keywords=image, sacrifice, sin
-- keywords: image, sacrifice, sin
-- fresh: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
+## Hosea 2:21
+- score: 8
+- reasons: importance=low; keywords=judgment, mercy, righteousness
+- keywords: judgment, mercy, righteousness
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
 - brenton: [missing]
 
 ## Joel 2:14
@@ -478,14 +520,14 @@ Books: 32
 - score: 7
 - reasons: importance=medium; keywords=lord, righteous
 - keywords: lord, righteous
-- fresh: They cried to Lord and said, By no means, Lord, let us not perish for life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 - brenton: [missing]
 
 ## Micah 3:8
 - score: 9
 - reasons: importance=medium; keywords=judgment, lord, spirit
 - keywords: judgment, lord, spirit
-- fresh: Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 - brenton: [missing]
 
 ## Micah 4:2
@@ -520,14 +562,14 @@ Books: 32
 - score: 10
 - reasons: importance=low; keywords=god, holy, judgment, lord
 - keywords: god, holy, judgment, lord
-- fresh: Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+- fresh: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: [missing]
 
 ## Habakkuk 2:4
 - score: 9
 - reasons: importance=medium; keywords=faith, righteous, soul
 - keywords: faith, righteous, soul
-- fresh: If he shrinks back, my soul takes no pleasure in him; but righteous one will live by my faith.
+- fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 - brenton: [missing]
 
 ## Zephaniah 2:3

@@ -29,7 +29,7 @@ Selected verses: 6
 ## Zechariah 12:10
 - score: 13
 - reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ## Zechariah 14:5

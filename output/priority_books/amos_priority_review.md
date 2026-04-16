@@ -15,9 +15,9 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 4:13
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, spirit
-- fresh: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+- score: 13
+- reasons: importance=medium; keywords=anointed, god, lord, name, wind
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
 ## Amos 5:8

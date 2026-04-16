@@ -2,12 +2,6 @@
 
 Selected verses: 6
 
-## Lamentations 1:11
-- score: 7
-- reasons: importance=medium; keywords=lord, soul
-- fresh: All her people groaning seek bread. They gave their desirable things for food, to restore soul. See, Lord, and look, because I became dishonored.
-- brenton: [missing]
-
 ## Lamentations 1:15
 - score: 7
 - reasons: importance=medium; keywords=lord, virgin
@@ -36,4 +30,10 @@ Selected verses: 6
 - score: 7
 - reasons: importance=medium; keywords=peace, soul
 - fresh: And he thrust my soul away from peace. I forgot good things.
+- brenton: [missing]
+
+## Lamentations 3:25
+- score: 7
+- reasons: importance=medium; keywords=lord, soul
+- fresh: Lord good to those waiting for him, soul that seeks him, good.
 - brenton: [missing]

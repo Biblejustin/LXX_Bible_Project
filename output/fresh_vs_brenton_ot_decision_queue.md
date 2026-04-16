@@ -7,8 +7,8 @@ Only verses with tracked decision rows or footnotes.
 - 1. 1 Kings 2:35 | score 26 | decisions 1 | footnotes 1
 - 2. Exodus 20:24 | score 25 | decisions 2 | footnotes 2
 - 3. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1
-- 4. Genesis 1:2 | score 21 | decisions 4 | footnotes 1
-- 5. 2 Samuel 14:17 | score 20 | decisions 1 | footnotes 1
+- 4. 2 Samuel 14:17 | score 20 | decisions 1 | footnotes 1
+- 5. Genesis 1:2 | score 19 | decisions 4 | footnotes 1
 - 6. Genesis 2:7 | score 19 | decisions 2 | footnotes 1
 - 7. 1 Samuel 20:42 | score 18 | decisions 1 | footnotes 1
 - 8. Deuteronomy 2:30 | score 18 | decisions 1 | footnotes 1

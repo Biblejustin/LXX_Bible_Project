@@ -48,9 +48,9 @@ Variant notes:
 
 Greek: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα Θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.
 Transliteration: he de ge en aoratos kai akataskeuastos, kai skotos epano tes abyssou, kai pneuma Theou epephereto epano tou hydatos.
-Literal gloss: But the earth was unseen and unformed, and darkness over the abyss, and a wind from God was moving over the water.
-Syntax notes: De marks scene shift. Three linked clauses describe the world's condition. Imperfect epephereto presents ongoing motion. Pneuma remains semantically open but is rendered here with a meteorological sense.
-Draft translation: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+Literal gloss: But the earth was unseen and unformed, and darkness over the abyss, and the Spirit of God moved over the water.
+Syntax notes: De marks scene shift. Three linked clauses describe the world's condition. Imperfect epephereto presents ongoing motion.
+Draft translation: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 
 Decision rows:
 - greek_phrase: ἀόρατος καὶ ἀκατασκεύαστος | lemma: ἀόρατος | ἀκατασκεύαστος | morphology: nominative feminine singular adjectives | chosen_rendering: unseen and unformed | alternate_renderings: invisible and unprepared; unformed and unready | rationale: Preserves the double description and keeps the line concrete. | status: drafted
@@ -18828,7 +18828,7 @@ Greek: ἱκανούσθω μοι ἀπὸ πάσης δικαιοσύνης 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+Draft translation: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 
 Decision rows:
 - greek_phrase: ἀπὸ πάσης δικαιοσύνης καὶ ἀπὸ πάσης ἀληθείας | lemma: δικαιοσύνη | ἀλήθεια | morphology: genitive singular noun pair | chosen_rendering: from all the righteousness and from all the truth | alternate_renderings: from all the justice and all the faithfulness | rationale: Keeps the same key noun pair already appearing elsewhere in the Greek narrative. | status: drafted
@@ -119985,11 +119985,11 @@ Variant notes:
 
 ### Joshua 9:2
 
-Greek: συνηλθοσαν επι το αυτο εκπολεμησαι ιησουν και ισραηλ αμα παντες [2α] τοτε ωκοδομησεν ιησους θυσιαστηριον κυριω τω θεω ισραηλ εν ορει γαιβαλ [2β] καθοτι ενετειλατο μωυσης ο θεραπων κυριου τοις υιοις ισραηλ καθα γεγραπται εν τω νομω μωυση θυσιαστηριον λιθων ολοκληρων εφ' ους ουκ επεβληθη σιδηρος και ανεβιβασεν εκει ολοκαυτωματα κυριω και θυσιαν σωτηριου [2χ] και εγραψεν ιησους επι των λιθων το δευτερονομιον νομον μωυση ον εγραψεν ενωπιον υιων ισραηλ [2δ] και πας ισραηλ και οι πρεσβυτεροι αυτων και οι δικασται και οι γραμματεις αυτων παρεπορευοντο ενθεν και ενθεν της κιβωτου απεναντι και οι ιερεις και οι λευιται ηραν την κιβωτον της διαθηκης κυριου και ο προσηλυτος και ο αυτοχθων οι ησαν ημισυ πλησιον ορους γαριζιν και οι ησαν ημισυ πλησιον ορους γαιβαλ καθοτι ενετειλατο μωυσης ο θεραπων κυριου ευλογησαι τον λαον εν πρωτοις [2ε] και μετα ταυτα ουτως ανεγνω ιησους παντα τα ρηματα του νομου τουτου τας ευλογιας και τας καταρας κατα παντα τα γεγραμμενα εν τω νομω μωυση [2φ] ουκ ην ρημα απο παντων ων ενετειλατο μωυσης τω ιησοι ο ουκ ανεγνω ιησους εις τα ωτα πασης εκκλησιας υιων ισραηλ τοις ανδρασιν και ταις γυναιξιν και τοις παιδιοις και τοις προσηλυτοις τοις προσπορευομενοις τω ισραηλ
+Greek: συνηλθοσαν επι το αυτο εκπολεμησαι ιησουν και ισραηλ αμα παντες
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
+Draft translation: they came all together at the same time to make war against Joshua and Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -165967,7 +165967,7 @@ Greek: και ειπεν η γυνη ειη δη ο λογος του κυριο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+Draft translation: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 
 Decision rows:
 - greek_phrase: εἴη ... εἰς θυσίαν | lemma: εἰμί | θυσία | morphology: optative verb + prepositional accusative phrase | chosen_rendering: let the word ... be for sacrifice | alternate_renderings: be for reassurance; be for rest | rationale: Phrase remains difficult; draft keeps sacrificial wording visible for later review. | status: drafted
@@ -171605,7 +171605,7 @@ Greek: και ουτοι οι λογοι δαυιδ οι εσχατοι πιστ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up concerning the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+Draft translation: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 
 Decision rows:
 - greek_phrase: πιστὸς Δαυιδ ... καὶ εὐπρεπεῖς ψαλμοὶ Ἰσραήλ | lemma: πιστός | εὐπρεπής | morphology: adjectival clauses | chosen_rendering: Faithful is David ... and beautiful are the psalms of Israel | alternate_renderings: Oracle of David; sweet singer of Israel | rationale: Stays close to the Greek adjectives rather than importing a familiar traditional paraphrase. | status: drafted
@@ -236993,11 +236993,11 @@ Variant notes:
 
 ### 2 Chronicles 35:19
 
-Greek: τω οκτωκαιδεκατω ετει της βασιλειας ιωσια [19α] και τους εγγαστριμυθους και τους γνωστας και τα θαραφιν και τα ειδωλα και τα καρασιμ α ην εν γη ιουδα και εν ιερουσαλημ ενεπυρισεν ο βασιλευς ιωσιας ινα στηση τους λογους του νομου τους γεγραμμενους επι του βιβλιου ου ευρεν χελκιας ο ιερευς εν τω οικω κυριου [19β] ομοιος αυτω ουκ εγενηθη εμπροσθεν αυτου ος επεστρεψεν προς κυριον εν ολη καρδια αυτου και εν ολη ψυχη αυτου και εν ολη ισχυι αυτου κατα παντα τον νομον μωυση και μετ' αυτον ουκ ανεστη ομοιος αυτω [19χ] πλην ουκ απεστραφη κυριος απο οργης θυμου αυτου του μεγαλου ου ωργισθη θυμω κυριος εν τω ιουδα επι παντα τα παροργισματα α παρωργισεν μανασσης [19δ] και ειπεν κυριος και γε τον ιουδαν αποστησω απο προσωπου μου καθως απεστησα τον ισραηλ και απωσαμην την πολιν ην εξελεξαμην την ιερουσαλημ και τον οικον ον ειπα εσται το ονομα μου εκει
+Greek: τω οκτωκαιδεκατω ετει της βασιλειας ιωσια
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
+Draft translation: In eighteenth year of reign of Iōsias this Passover was kept.
 
 Decision rows:
 - [TODO add decision rows]
@@ -237639,8706 +237639,6 @@ Variant notes:
 
 ### Ezra 1:1
 
-Greek: και ηγαγεν ιωσιας το πασχα εν ιερουσαλημ τω κυριω αυτου και εθυσεν το πασχα τη τεσσαρεσκαιδεκατη ημερα του μηνος του πρωτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iōsias brought Passover in Ierousalem to Lord his God, and sacrificed the Passover on fourteenth day of first month.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:2
-
-Greek: στησας τους ιερεις κατ' εφημεριας εστολισμενους εν τω ιερω του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Having stationed priests by courses, arrayed in temple of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:3
-
-Greek: και ειπεν τοις λευιταις ιεροδουλοις του ισραηλ αγιασαι εαυτους τω κυριω εν τη θεσει της αγιας κιβωτου του κυριου εν τω οικω ω ωκοδομησεν σαλωμων ο του δαυιδ ο βασιλευς ουκ εσται υμιν αραι επ' ωμων αυτην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he said to Levites, temple-servants of Israel, to sanctify themselves to Lord in setting holy ark of Lord in house which Salōmōn son of Dauid the king built. It will not be for you to bear it on shoulders.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:4
-
-Greek: και νυν λατρευετε τω κυριω θεω υμων και θεραπευετε το εθνος αυτου ισραηλ και ετοιμασατε κατα τας πατριας και τας φυλας υμων κατα την γραφην δαυιδ βασιλεως ισραηλ και κατα την μεγαλειοτητα σαλωμων του υιου αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now serve Lord your God and attend his nation Israel, and prepare according to your father-houses and your tribes, according to writing of Dauid king of Israel and according to greatness of Salōmōn his son.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:5
-
-Greek: και σταντες εν τω ιερω κατα την μεριδαρχιαν την πατρικην υμων των λευιτων των εμπροσθεν των αδελφων υμων υιων ισραηλ εν ταξει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And standing in temple according to fatherly divisions of you Levites before your brothers, sons of Israel, in order,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:6
-
-Greek: θυσατε το πασχα και τας θυσιας ετοιμασατε τοις αδελφοις υμων και ποιησατε το πασχα κατα το προσταγμα του κυριου το δοθεν τω μωυση
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: sacrifice the Passover and prepare the sacrifices for your brothers and do the Passover according to ordinance of Lord given to Mōusēs.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:7
-
-Greek: και εδωρησατο ιωσιας τω λαω τω ευρεθεντι αρνων και εριφων τριακοντα χιλιαδας μοσχους τρισχιλιους ταυτα εκ των βασιλικων εδοθη κατ' επαγγελιαν τω λαω και τοις ιερευσιν και λευιταις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iōsias gifted to people found there thirty thousand lambs and kids and three thousand calves. These were given from royal stores by promise to people and to priests and Levites.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:8
-
-Greek: και εδωκεν χελκιας και ζαχαριας και ησυηλος οι επισταται του ιερου τοις ιερευσιν εις πασχα προβατα δισχιλια εξακοσια μοσχους τριακοσιους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Chelkias and Zacharias and Hēsyēlos, supervisors of sanctuary, gave to priests for Passover two thousand six hundred sheep and three hundred calves.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:9
-
-Greek: και ιεχονιας και σαμαιας και ναθαναηλ ο αδελφος και ασαβιας και οχιηλος και ιωραμ χιλιαρχοι εδωκαν τοις λευιταις εις πασχα προβατα πεντακισχιλια μοσχους επτακοσιους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iechonias and Samaias and Nathanaēl the brother and Asabias and Ochielos and Iōram, chiliarchs, gave to Levites for Passover five thousand sheep and seven hundred calves.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:10
-
-Greek: και ταυτα τα γενομενα ευπρεπως εστησαν οι ιερεις και οι λευιται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when these things happened fittingly, priests and Levites stood,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:11
-
-Greek: εχοντες τα αζυμα κατα τας φυλας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: holding the unleavened breads according to tribes,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:12
-
-Greek: και κατα τας μεριδαρχιας των πατερων εμπροσθεν του λαου προσενεγκειν τω κυριω κατα τα γεγραμμενα εν βιβλιω μωυση και ουτω το πρωινον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and according to divisions of fathers before people, to bring to Lord according to things written in book of Mōusēs, and thus for morning.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:13
-
-Greek: και ωπτησαν το πασχα πυρι ως καθηκει και τας θυσιας ηψησαν εν τοις χαλκειοις και λεβησιν μετ' ευωδιας και απηνεγκαν πασι τοις εκ του λαου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they roasted the Passover with fire as was fitting, and boiled the sacrifices in bronze pots and cauldrons with sweet fragrance, and carried them to all from people.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:14
-
-Greek: μετα δε ταυτα ητοιμασαν εαυτοις τε και τοις ιερευσιν αδελφοις αυτων υιοις ααρων οι γαρ ιερεις ανεφερον τα στεατα εως αωριας και οι λευιται ητοιμασαν εαυτοις και τοις ιερευσιν αδελφοις αυτων υιοις ααρων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after these things they prepared for themselves and for priests their brothers, sons of Aarōn. For priests offered fats until dawn, and Levites prepared for themselves and for priests their brothers, sons of Aarōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:15
-
-Greek: και οι ιεροψαλται υιοι ασαφ ησαν επι της ταξεως αυτων κατα τα υπο δαυιδ τεταγμενα και ασαφ και ζαχαριας και εδδινους οι παρα του βασιλεως και οι θυρωροι εφ' εκαστου πυλωνος ουκ εστιν παραβηναι εκαστον την εαυτου εφημεριαν οι γαρ αδελφοι αυτων οι λευιται ητοιμασαν αυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And temple-singers, sons of Asaph, were at their order according to things appointed by Dauid and Asaph and Zacharias and Eddinous from king, and gatekeepers at each gate. It was not for each to pass beyond his own course, for their brothers the Levites prepared for them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:16
-
-Greek: και συνετελεσθη τα της θυσιας του κυριου εν εκεινη τη ημερα αχθηναι το πασχα και προσενεχθηναι τας θυσιας επι το του κυριου θυσιαστηριον κατα την επιταγην του βασιλεως ιωσιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And things of sacrifice of Lord were completed on that day, so that the Passover might be brought and sacrifices might be offered upon altar of Lord according to command of king Iōsias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:17
-
-Greek: και ηγαγοσαν οι υιοι ισραηλ οι ευρεθεντες εν τω καιρω τουτω το πασχα και την εορτην των αζυμων ημερας επτα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sons of Israel found there brought the Passover at that time, and feast of unleavened breads for seven days.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:18
-
-Greek: και ουκ ηχθη το πασχα τοιουτο εν τω ισραηλ απο των χρονων σαμουηλ του προφητου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And no such Passover was brought in Israel from times of Samouēl the prophet.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:19
-
-Greek: και παντες οι βασιλεις του ισραηλ ουκ ηγαγοσαν πασχα τοιουτον οιον ηγαγεν ιωσιας και οι ιερεις και οι λευιται και οι ιουδαιοι και πας ισραηλ οι ευρεθεντες εν τη κατοικησει αυτων εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all kings of Israel did not bring such a Passover as Iōsias brought, and priests and Levites and Ioudaioi and all Israel found there in their dwelling in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:20
-
-Greek: οκτωκαιδεκατω ετει βασιλευοντος ιωσιου ηχθη το πασχα τουτο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: In eighteenth year of Iōsias reigning this Passover was brought.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:21
-
-Greek: και ωρθωθη τα εργα ιωσιου ενωπιον του κυριου αυτου εν καρδια πληρει ευσεβειας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And works of Iōsias were made right before Lord his God in heart full of piety.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:22
-
-Greek: και τα κατ' αυτον δε αναγεγραπται εν τοις εμπροσθεν χρονοις περι των ημαρτηκοτων και ησεβηκοτων εις τον κυριον παρα παν εθνος και βασιλειαν και α ελυπησαν αυτον εν αισθησει και οι λογοι του κυριου ανεστησαν επι ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And matters concerning him were written in former times, and concerning those who sinned and acted impiously toward Lord beyond every nation and kingdom and the things by which they grieved him deeply, and words of Lord rose up against Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:23
-
-Greek: και μετα πασαν την πραξιν ταυτην ιωσιου συνεβη φαραω βασιλεα αιγυπτου ελθοντα πολεμον εγειραι εν χαρκαμυς επι του ευφρατου και εξηλθεν εις απαντησιν αυτω ιωσιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after all this action of Iōsias it happened that Pharaoh king of Egypt came to stir up war in Charkamys at Euphratēs, and Iōsias went out to meet him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:24
-
-Greek: και διεπεμψατο βασιλευς αιγυπτου προς αυτον λεγων τι εμοι και σοι εστιν βασιλευ της ιουδαιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king of Egypt sent to him, saying, What is to me and to you, king of Ioudaia?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:25
-
-Greek: ουχι προς σε εξαπεσταλμαι υπο κυριου του θεου επι γαρ του ευφρατου ο πολεμος μου εστιν και νυν κυριος μετ' εμου εστιν και κυριος μετ' εμου επισπευδων εστιν αποστηθι και μη εναντιου τω κυριω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: I have not been sent against you by Lord God, for my war is on Euphratēs, and now Lord is with me, and Lord with me is hurrying me. Stand away and do not oppose Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:26
-
-Greek: και ουκ απεστρεψεν εαυτον ιωσιας επι το αρμα αυτου αλλα πολεμειν αυτον επιχειρει ου προσεχων ρημασιν ιερεμιου προφητου εκ στοματος κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iōsias did not turn himself upon his chariot, but attempted to fight him, not paying attention to words of Ieremias prophet from mouth of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:27
-
-Greek: αλλα συνεστησατο προς αυτον πολεμον εν τω πεδιω μαγεδδαους και κατεβησαν οι αρχοντες προς τον βασιλεα ιωσιαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But he joined battle with him in plain of Mageddaous, and commanders came down to king Iōsias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:28
-
-Greek: και ειπεν ο βασιλευς τοις παισιν αυτου αποστησατε με απο της μαχης ησθενησα γαρ λιαν και ευθεως απεστησαν αυτον οι παιδες αυτου απο της παραταξεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king said to his servants, Take me away from battle, for I have become very weak. And immediately his servants took him away from battle-line.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:29
-
-Greek: και ανεβη επι το αρμα το δευτεριον αυτου και αποκατασταθεις εις ιερουσαλημ μετηλλαξεν τον βιον αυτου και εταφη εν τω πατρικω ταφω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he mounted his second chariot, and after being brought back to Ierousalem he passed from life and was buried in tomb of his fathers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:30
-
-Greek: και εν ολη τη ιουδαια επενθησαν τον ιωσιαν και εθρηνησεν ιερεμιας ο προφητης υπερ ιωσιου και οι προκαθημενοι συν γυναιξιν εθρηνουσαν αυτον εως της ημερας ταυτης και εξεδοθη τουτο γινεσθαι αιει εις απαν το γενος ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And in all Iouda they mourned Iōsias, and Ieremias the prophet lamented over Iōsias, and leaders together with women kept lamenting him until this day, and this was given to be done always for all race of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:31
-
-Greek: ταυτα δε αναγεγραπται εν τη βυβλω των ιστορουμενων περι των βασιλεων της ιουδαιας και το καθ' εν πραχθεν της πραξεως ιωσιου και της δοξης αυτου και της συνεσεως αυτου εν τω νομω κυριου τα τε προπραχθεντα υπ' αυτου και τα νυν ιστορηται εν τω βυβλιω των βασιλεων ισραηλ και ιουδα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: These things are written in book of histories concerning kings of Iouda, and each deed done in action of Iōsias and his glory and his understanding in law of Lord, both things formerly done by him and those now related in book of kings of Israel and Iouda.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:32
-
-Greek: και αναλαβοντες οι εκ του εθνους τον ιεχονιαν υιον ιωσιου ανεδειξαν βασιλεα αντι ιωσιου του πατρος αυτου οντα ετων εικοσι τριων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And those from nation took Iechonias son of Iōsias and showed him forth king instead of Iōsias his father, he being twenty-three years old.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:33
-
-Greek: και εβασιλευσεν εν ιουδα και ιερουσαλημ μηνας τρεις και απεκατεστησεν αυτον βασιλευς αιγυπτου βασιλευειν εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he reigned in Iouda and Ierousalem three months, and king of Egypt deposed him from reigning in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:34
-
-Greek: και εζημιωσεν το εθνος αργυριου ταλαντοις εκατον και χρυσιου ταλαντω ενι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he fined nation one hundred talents of silver and one talent of gold.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:35
-
-Greek: και ανεδειξεν ο βασιλευς αιγυπτου βασιλεα ιωακιμ τον αδελφον αυτου βασιλεα της ιουδαιας και ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king of Egypt appointed Iōakim his brother king of Iouda and Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:36
-
-Greek: και εδησεν ιωακιμ τους μεγιστανας ζαριον δε τον αδελφον αυτου συλλαβων ανηγαγεν εξ αιγυπτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he bound Iōakim's nobles, and Zarios his brother, after seizing him, he brought up from Egypt.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:37
-
-Greek: ετων δε ην εικοσι πεντε ιωακιμ οτε εβασιλευσεν της ιουδαιας και ιερουσαλημ και εποιησεν το πονηρον ενωπιον κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now Iōakim was twenty-five years old when he reigned over Iouda and Ierousalem, and he did evil before Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:38
-
-Greek: επ' αυτον δε ανεβη ναβουχοδονοσορ βασιλευς βαβυλωνος και δησας αυτον εν χαλκειω δεσμω απηγαγεν εις βαβυλωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Nabouchodonosor king of Babylōn came up against him, and after binding him in bronze chain he led him away into Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:39
-
-Greek: και απο των ιερων σκευων του κυριου λαβων ναβουχοδονοσορ και απενεγκας απηρεισατο εν τω ναω αυτου εν βαβυλωνι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after Nabouchodonosor took sacred vessels of Lord and carried them away, he deposited them in his own temple in Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:40
-
-Greek: τα δε ιστορηθεντα περι αυτου και της αυτου ακαθαρσιας και δυσσεβειας αναγεγραπται εν τη βιβλω των χρονων των βασιλεων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Things recorded concerning him and his uncleanness and impiety are written in book of chronicles of kings.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:41
-
-Greek: και εβασιλευσεν αντ' αυτου ιωακιμ ο υιος αυτου οτε γαρ ανεδειχθη ην ετων δεκα οκτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iōakim his son reigned instead of him, for when he was shown forth he was eighteen years old.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:42
-
-Greek: βασιλευει δε μηνας τρεις και ημερας δεκα εν ιερουσαλημ και εποιησεν το πονηρον εναντι κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he reigned in Ierousalem three months and ten days, and he did evil before Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:43
-
-Greek: και μετ' ενιαυτον αποστειλας ναβουχοδονοσορ μετηγαγεν αυτον εις βαβυλωνα αμα τοις ιεροις σκευεσιν του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after a year Nabouchodonosor sent and transferred him into Babylōn together with sacred vessels of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:44
-
-Greek: και ανεδειξε σεδεκιαν βασιλεα της ιουδαιας και ιερουσαλημ σεδεκιαν οντα ετων εικοσι ενος βασιλευει δε ετη ενδεκα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he appointed Sedekias king of Iouda and Ierousalem, Sedekias being twenty-one years old, and he reigned eleven years.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:45
-
-Greek: και εποιησεν το πονηρον ενωπιον κυριου και ουκ ενετραπη απο των ρηθεντων λογων υπο ιερεμιου του προφητου εκ στοματος του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he did evil before Lord and was not ashamed from words spoken by Ieremias the prophet from mouth of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:46
-
-Greek: και ορκισθεις απο του βασιλεως ναβουχοδονοσορ τω ονοματι του κυριου επιορκησας απεστη και σκληρυνας αυτου τον τραχηλον και την καρδιαν αυτου παρεβη τα νομιμα κυριου θεου ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And though sworn by king Nabouchodonosor in name of Lord, after swearing falsely he rebelled, and hardening his neck and strengthening his heart he transgressed laws of Lord God of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:47
-
-Greek: και οι ηγουμενοι δε του λαου και των ιερεων πολλα ησεβησαν και ηνομησαν υπερ πασας τας ακαθαρσιας παντων των εθνων και εμιαναν το ιερον του κυριου το αγιαζομενον εν ιεροσολυμοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And leaders of people and priests acted very impiously and lawlessly beyond all uncleannesses of all nations, and they defiled sanctuary of Lord sanctified in Ierousalēm.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:48
-
-Greek: και απεστειλεν ο θεος των πατερων αυτων δια του αγγελου αυτου μετακαλεσαι αυτους καθο εφειδετο αυτων και του σκηνωματος αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And God of their fathers sent through his angel to call them back, because he was sparing them and his tabernacle.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:49
-
-Greek: αυτοι δε εξεμυκτηρισαν εν τοις αγγελοις αυτου και η ημερα ελαλησεν κυριος ησαν εκπαιζοντες τους προφητας αυτου εως του θυμωθεντα αυτον επι τω εθνει αυτου δια τα δυσσεβηματα προσταξαι αναβιβασαι επ' αυτους τους βασιλεις των χαλδαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But they mocked his messengers, and on day Lord spoke they were making sport of his prophets, until in his anger against his nation for their impieties he commanded kings of Chaldeans to be brought up against them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:50
-
-Greek: ουτοι απεκτειναν τους νεανισκους αυτων εν ρομφαια περικυκλω του αγιου αυτων ιερου και ουκ εφεισαντο νεανισκου και παρθενου και πρεσβυτου και νεωτερου αλλα παντας παρεδωκεν εις τας χειρας αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: These killed their young men with sword around their holy sanctuary, and they did not spare young man and virgin and old man and younger, but he gave all into their hands.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:51
-
-Greek: και παντα τα ιερα σκευη του κυριου τα μεγαλα και τα μικρα και τας κιβωτους του κυριου και τας βασιλικας αποθηκας αναλαβοντες απηνεγκαν εις βαβυλωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And taking all sacred vessels of Lord, great and small, and coffers of Lord and royal storehouses, they carried them away into Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:52
-
-Greek: και ενεπυρισαν τον οικον του κυριου και ελυσαν τα τειχα ιεροσολυμων και τους πυργους αυτων ενεπυρισαν εν πυρι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they burned house of Lord and broke down walls of Ierousalēm, and burned her towers with fire.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:53
-
-Greek: και συνετελεσαν παντα τα ενδοξα αυτης αχρεωσαι και τους επιλοιπους απηγαγεν μετα ρομφαιας εις βαβυλωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they finished all her glorious things for destruction, and remnant he led away with sword into Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:54
-
-Greek: και ησαν παιδες αυτω και τοις υιοις αυτου μεχρι του βασιλευσαι περσας εις αναπληρωσιν του ρηματος του κυριου εν στοματι ιερεμιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they were servants to him and to his sons until Persians reigned, for fulfillment of word of Lord in mouth of Ieremias,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 1:55
-
-Greek: εως του ευδοκησαι την γην τα σαββατα αυτης παντα τον χρονον της ερημωσεως αυτης σαββατιει εις συμπληρωσιν ετων εβδομηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: until land was pleased with its Sabbaths; all time of its desolation it will keep Sabbath for fulfillment of seventy years.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 2
-
-### Ezra 2:1
-
-Greek: βασιλευοντος κυρου περσων ετους πρωτου εις συντελειαν ρηματος κυριου εν στοματι ιερεμιου ηγειρεν κυριος το πνευμα κυρου βασιλεως περσων και εκηρυξεν εν ολη τη βασιλεια αυτου και αμα δια γραπτων λεγων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: In first year of Cyrus king of Persians, for fulfillment of word of Lord in mouth of Ieremias, Lord stirred spirit of Cyrus king of Persians, and he proclaimed in all his kingdom, also by writings, saying,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:2
-
-Greek: ταδε λεγει ο βασιλευς περσων κυρος εμε ανεδειξεν βασιλεα της οικουμενης ο κυριος του ισραηλ κυριος ο υψιστος και εσημηνεν μοι οικοδομησαι αυτω οικον εν ιερουσαλημ τη εν τη ιουδαια
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Thus says Cyrus king of Persians: Lord of Israel, Lord Most High, appointed me king of inhabited world and signified to me to build for him house in Ierousalem in Ioudaia.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:3
-
-Greek: ει τις εστιν ουν υμων εκ του εθνους αυτου εστω ο κυριος αυτου μετ' αυτου και αναβας εις την ιερουσαλημ την εν τη ιουδαια οικοδομειτω τον οικον του κυριου του ισραηλ ουτος ο κυριος ο κατασκηνωσας εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: If then anyone of you is from his nation, let his Lord be with him, and after going up to Ierousalem in Ioudaia let him build house of Lord of Israel. He is Lord, the one who dwelt in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:4
-
-Greek: οσοι ουν κατα τοπους οικουσιν βοηθειτωσαν αυτω οι εν τω τοπω αυτου εν χρυσιω και εν αργυριω εν δοσεσιν μεθ' ιππων και κτηνων συν τοις αλλοις τοις κατ' ευχας προστεθειμενοις εις το ιερον του κυριου το εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now as many as dwell in places, let those in his place help him with gold and silver, with gifts, with horses and cattle, besides other things added according to vows for sanctuary of Lord in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:5
-
-Greek: και κατασταντες οι αρχιφυλοι των πατριων της ιουδα και βενιαμιν φυλης και οι ιερεις και οι λευιται και παντων ων ηγειρεν κυριος το πνευμα αναβηναι οικοδομησαι οικον τω κυριω τον εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then chiefs of father-houses of tribe of Iouda and Beniamin and priests and Levites stood up, and of all whose spirit Lord raised to go up to build house for Lord in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:6
-
-Greek: και οι περικυκλω αυτων εβοηθησαν εν πασιν αργυριω και χρυσιω ιπποις και κτηνεσιν και ευχαις ως πλεισταις πολλων ων ο νους ηγερθη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And those around them helped with everything, with silver and gold, horses and cattle and very many vowed gifts, from many whose mind was raised.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:7
-
-Greek: και ο βασιλευς κυρος εξηνεγκεν τα ιερα σκευη του κυριου α μετηγαγεν ναβουχοδονοσορ εξ ιερουσαλημ και απηρεισατο αυτα εν τω εαυτου ειδωλιω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king Cyrus brought out sacred vessels of Lord which Nabouchodonosor carried away from Ierousalem and deposited in his own idol-temple.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:8
-
-Greek: εξενεγκας δε αυτα κυρος ο βασιλευς περσων παρεδωκεν αυτα μιθριδατη τω εαυτου γαζοφυλακι δια δε τουτου παρεδοθησαν σαναβασσαρω προστατη της ιουδαιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: After bringing them out, Cyrus king of Persians gave them to Mithridatēs his own treasurer, and through him they were handed over to Sanabassar, governor of Ioudaia.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:9
-
-Greek: ο δε τουτων αριθμος ην σπονδεια χρυσα χιλια σπονδεια αργυρα χιλια θυισκαι αργυραι εικοσι εννεα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And number of these was: golden libation-bowls one thousand, silver libation-bowls one thousand, silver censers twenty-nine,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:10
-
-Greek: φιαλαι χρυσαι τριακοντα αργυραι δισχιλιαι τετρακοσιαι δεκα και αλλα σκευη χιλια
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: golden bowls thirty, silver bowls two thousand four hundred ten, and other vessels one thousand.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:11
-
-Greek: τα δε παντα σκευη διεκομισθη χρυσα και αργυρα πεντακισχιλια τετρακοσια εξηκοντα εννεα ανηνεχθη δε υπο σαναβασσαρου αμα τοις εκ της αιχμαλωσιας εκ βαβυλωνος εις ιεροσολυμα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all vessels carried over, gold and silver, were five thousand four hundred sixty-nine. They were brought up by Sanabassar together with those of captivity from Babylōn to Ierosolyma.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:12
-
-Greek: εν δε τοις επι αρταξερξου του περσων βασιλεως χρονοις κατεγραψεν αυτω κατα των κατοικουντων εν τη ιουδαια και ιερουσαλημ βεσλεμος και μιθραδατης και ταβελλιος και ραουμος και βεελτεεμος και σαμσαιος ο γραμματευς και οι λοιποι οι τουτοις συντασσομενοι οικουντες δε εν σαμαρεια και τοις αλλοις τοποις την υπογεγραμμενην επιστολην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now in times of Artaxerxes king of Persians, Bēslemos and Mithradatēs and Tabellios and Raoumos and Beelteēmos and Samsaios the scribe and the rest allied with these, dwelling in Samareia and other places, wrote against those dwelling in Ioudaia and Ierousalem the letter written below.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:13
-
-Greek: βασιλει αρταξερξη κυριω οι παιδες σου ραουμος ο τα προσπιπτοντα και σαμσαιος ο γραμματευς και οι επιλοιποι της βουλης αυτων κριται οι εν κοιλη συρια και φοινικη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: To king Artaxerxes our lord, your servants Raoumos the recorder and Samsaios the scribe and rest of their council, judges in Coele-Syria and Phoinikia:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:14
-
-Greek: και νυν γνωστον εστω τω κυριω βασιλει διοτι οι ιουδαιοι αναβαντες παρ' υμων προς ημας ελθοντες εις ιερουσαλημ την πολιν την αποστατιν και πονηραν οικοδομουσιν τας τε αγορας αυτης και τα τειχη θεραπευουσιν και ναον υποβαλλονται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now let it be known to our lord king that, after Ioudaioi came up from you to us and came into Ierousalem, that rebellious and wicked city, they are building its marketplaces and restoring walls and laying foundations for temple.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:15
-
-Greek: εαν ουν η πολις αυτη οικοδομηθη και τα τειχη συντελεσθη φορολογιαν ου μη υπομεινωσιν δουναι αλλα και βασιλευσιν αντιστησονται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: If then this city is built and walls are completed, they will certainly not endure to pay tribute, but will also oppose kings.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:16
-
-Greek: και επει ενεργειται τα κατα τον ναον καλως εχειν υπολαμβανομεν μη υπεριδειν το τοιουτο αλλα προσφωνησαι τω κυριω βασιλει οπως αν φαινηται σοι επισκεφθη εν τοις απο των πατερων σου βιβλιοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And since matters concerning temple are in progress, we consider it good not to overlook such a thing, but to address our lord king, so that it might appear to you if search is made in books from your fathers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:17
-
-Greek: και ευρησεις εν τοις υπομνηματισμοις τα γεγραμμενα περι τουτων και γνωση οτι η πολις ην εκεινη αποστατις και βασιλεις και πολεις ενοχλουσα και οι ιουδαιοι αποσταται και πολιορκιας συνισταμενοι εν αυτη ετι εξ αιωνος δι' ην αιτιαν και η πολις αυτη ηρημωθη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And you will find in records things written concerning these, and you will know that that city was rebellious and troubling kings and cities, and that Ioudaioi were rebels and setting up sieges in it from everlasting, for which reason also this city was laid waste.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:18
-
-Greek: νυν ουν υποδεικνυμεν σοι κυριε βασιλευ διοτι εαν η πολις αυτη οικοδομηθη και τα ταυτης τειχη ανασταθη καθοδος σοι ουκετι εσται εις κοιλην συριαν και φοινικην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Therefore now we show you, lord king, that if this city is built and its walls are raised again, you will no longer have passage into Coele-Syria and Phoinikia.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:19
-
-Greek: τοτε αντεγραψεν ο βασιλευς ραουμω τω γραφοντι τα προσπιπτοντα και βεελτεεμω και σαμσαιω γραμματει και τοις λοιποις τοις συντασσομενοις και οικουσιν εν τη σαμαρεια και συρια και φοινικη τα υπογεγραμμενα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then king wrote back to Raoumos the recorder and Beelteēmos and Samsaios the scribe and the rest allied with them and dwelling in Samareia and Syria and Phoinikia the things written below:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:20
-
-Greek: ανεγνων την επιστολην ην πεπομφατε προς με
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: I read the letter which you sent to me.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:21
-
-Greek: επεταξα ουν επισκεψασθαι και ευρεθη οτι εστιν η πολις εκεινη εξ αιωνος βασιλευσιν αντιπαρατασσουσα και οι ανθρωποι αποστασεις και πολεμους εν αυτη συντελουντες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: So I ordered search to be made, and it was found that that city from everlasting has arrayed itself against kings, and men there are bringing rebellions and wars to completion.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:22
-
-Greek: και βασιλεις ισχυροι και σκληροι ησαν εν ιερουσαλημ κυριευοντες και φορολογουντες κοιλην συριαν και φοινικην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And strong and harsh kings were in Ierousalem, ruling and taxing Coele-Syria and Phoinikia.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:23
-
-Greek: νυν ουν επεταξα αποκωλυσαι τους ανθρωπους εκεινους του οικοδομησαι την πολιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now therefore I ordered that those men be prevented from building the city,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:24
-
-Greek: και προνοηθηναι οπως μηθεν παρα ταυτα γενηται και μη προβη επι πλειον τα της κακιας εις το βασιλεις ενοχλησαι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and that care be taken so that nothing beyond these things be done and that progress of wickedness not go further to trouble kings.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:25
-
-Greek: τοτε αναγνωσθεντων των παρα του βασιλεως αρταξερξου γραφεντων ο ραουμος και σαμσαιος ο γραμματευς και οι τουτοις συντασσομενοι αναζευξαντες κατα σπουδην εις ιερουσαλημ μεθ' ιππου και οχλου παραταξεως ηρξαντο κωλυειν τους οικοδομουντας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then when things written from king Artaxerxes were read, Raoumos and Samsaios the scribe and those allied with them, after setting out in haste to Ierousalem with horse and ordered crowd, began hindering those building.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 2:26
-
-Greek: και ηργει η οικοδομη του ιερου του εν ιερουσαλημ μεχρι του δευτερου ετους της βασιλειας δαρειου του περσων βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And building of sanctuary in Ierousalem ceased until second year of reign of Darius king of Persians.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 3
-
-### Ezra 3:1
-
-Greek: και βασιλευς δαρειος εποιησεν δοχην μεγαλην πασιν τοις υπ' αυτον και πασιν τοις οικογενεσιν αυτου και πασιν τοις μεγιστασιν της μηδιας και της περσιδος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king Darius made great feast for all those under him and for all his households and for all magnates of Media and Persia,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:2
-
-Greek: και πασιν τοις σατραπαις και στρατηγοις και τοπαρχαις τοις υπ' αυτον απο της ινδικης μεχρι της αιθιοπιας εν ταις εκατον εικοσι επτα σατραπειαις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and for all satraps and generals and toparchs under him, from India to Ethiopia, in one hundred twenty-seven satrapies.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:3
-
-Greek: και εφαγοσαν και επιοσαν και εμπλησθεντες ανελυσαν ο δε δαρειος ο βασιλευς ανελυσεν εις τον κοιτωνα και εκοιμηθη και εξυπνος εγενετο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they ate and drank, and when they were filled they withdrew. But king Darius withdrew to bedchamber and slept and awoke.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:4
-
-Greek: τοτε οι τρεις νεανισκοι οι σωματοφυλακες οι φυλασσοντες το σωμα του βασιλεως ειπαν ετερος προς τον ετερον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then the three young men, the bodyguards guarding body of king, said each to the other,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:5
-
-Greek: ειπωμεν εκαστος ημων ενα λογον ος υπερισχυσει και ου αν φανη το ρημα αυτου σοφωτερον του ετερου δωσει αυτω δαρειος ο βασιλευς δωρεας μεγαλας και επινικια μεγαλα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Let each of us speak one word, which shall prove strongest, and whichever saying appears wiser than that of other, Darius the king will give to him great gifts and great victory-prizes,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:6
-
-Greek: και πορφυραν περιβαλεσθαι και εν χρυσωμασιν πινειν και επι χρυσω καθευδειν και αρμα χρυσοχαλινον και κιδαριν βυσσινην και μανιακην περι τον τραχηλον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to put on purple and drink from gold ornaments and sleep on gold, and a gold-bridled chariot and a turban of fine linen and a neck-chain around neck,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:7
-
-Greek: και δευτερος καθιειται δαρειου δια την σοφιαν αυτου και συγγενης δαρειου κληθησεται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and he shall sit second to Darius because of his wisdom and shall be called kinsman of Darius.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:8
-
-Greek: και τοτε γραψαντες εκαστος τον εαυτου λογον εσφραγισαντο και εθηκαν υπο το προσκεφαλαιον δαρειου του βασιλεως και ειπαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And then after each wrote his own word, they sealed them and put them under pillow of Darius the king and said,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:9
-
-Greek: οταν εγερθη ο βασιλευς δωσουσιν αυτω το γραμμα και ον αν κρινη ο βασιλευς και οι τρεις μεγιστανες της περσιδος οτι ο λογος αυτου σοφωτερος αυτω δοθησεται το νικος καθως γεγραπται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: When king rises, they will give him the writing, and whichever king and three magnates of Persia judge that his word is wiser, to him victory shall be given as has been written.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:10
-
-Greek: ο εις εγραψεν υπερισχυει ο οινος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The one wrote, Wine is strongest.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:11
-
-Greek: ο ετερος εγραψεν υπερισχυει ο βασιλευς
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The other wrote, King is strongest.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:12
-
-Greek: ο τριτος εγραψεν υπερισχυουσιν αι γυναικες υπερ δε παντα νικα η αληθεια
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The third wrote, Women are strongest, but above all truth wins.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:13
-
-Greek: και οτε εξηγερθη ο βασιλευς λαβοντες το γραμμα εδωκαν αυτω και ανεγνω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when king awoke, after taking writings they gave them to him, and he read.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:14
-
-Greek: και εξαποστειλας εκαλεσεν παντας τους μεγιστανας της περσιδος και της μηδιας και σατραπας και στρατηγους και τοπαρχας και υπατους και εκαθισεν εν τω χρηματιστηριω και ανεγνωσθη το γραμμα ενωπιον αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after sending out he called all magnates of Persia and Media and satraps and generals and toparchs and chief-governors, and he sat in court and writings were read before them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:15
-
-Greek: και ειπεν καλεσατε τους νεανισκους και αυτοι δηλωσουσιν τους λογους αυτων και εκληθησαν και εισηλθοσαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he said, Call the young men, and they themselves will explain their words. And they were called and came in.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:16
-
-Greek: και ειπαν αυτοις απαγγειλατε ημιν περι των γεγραμμενων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they said to them, Tell us concerning what has been written.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:17
-
-Greek: και ηρξατο ο πρωτος ο ειπας περι της ισχυος του οινου και εφη ουτως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And first began the one who spoke concerning strength of wine, and he said thus:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:18
-
-Greek: ανδρες πως υπερισχυει ο οινος παντας τους ανθρωπους τους πινοντας αυτον πλανα την διανοιαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Men, how does not wine prove strongest, for all humans who drink it it leads mind astray?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:19
-
-Greek: του τε βασιλεως και του ορφανου ποιει την διανοιαν μιαν την τε του οικετου και την του ελευθερου την τε του πενητος και την του πλουσιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: It makes mind of king and of orphan one, and that of slave and free, and that of poor and rich.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:20
-
-Greek: και πασαν διανοιαν μεταστρεφει εις ευωχιαν και ευφροσυνην και ου μεμνηται πασαν λυπην και παν οφειλημα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And it turns every mind into feasting and gladness, and it remembers no sorrow and no debt.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:21
-
-Greek: και πασας καρδιας ποιει πλουσιας και ου μεμνηται βασιλεα ουδε σατραπην και παντα δια ταλαντων ποιει λαλειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And it makes all hearts rich, and remembers no king nor satrap, and makes all speak in talents.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:22
-
-Greek: και ου μεμνηται οταν πινωσιν φιλιαζειν φιλοις και αδελφοις και μετ' ου πολυ σπωνται μαχαιρας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when they drink, they do not remember to befriend friends and brothers, and after no long time they draw swords.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:23
-
-Greek: και οταν απο του οινου γενηθωσιν ου μεμνηται α επραξαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when they arise from wine, they do not remember what they did.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 3:24
-
-Greek: ω ανδρες ουχ υπερισχυει ο οινος οτι ουτως αναγκαζει ποιειν και εσιγησεν ουτως ειπας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: O men, does not wine prove strongest, because it compels thus to do? And after saying this he became silent.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 4
-
-### Ezra 4:1
-
-Greek: και ηρξατο ο δευτερος λαλειν ο ειπας περι της ισχυος του βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And second began to speak, the one who spoke concerning strength of king:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:2
-
-Greek: ω ανδρες ουχ υπερισχυουσιν οι ανθρωποι την γην και την θαλασσαν κατακρατουντες και παντα τα εν αυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: O men, are not humans strong, mastering earth and sea and all things in them?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:3
-
-Greek: ο δε βασιλευς υπερισχυει και κυριευει αυτων και δεσποζει αυτων και παν ο εαν ειπη αυτοις ενακουουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But king is strongest and rules them and is master of them, and everything he says to them they obey.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:4
-
-Greek: εαν ειπη αυτοις ποιησαι πολεμον ετερος προς τον ετερον ποιουσιν εαν δε εξαποστειλη αυτους προς τους πολεμιους βαδιζουσιν και κατεργαζονται τα ορη και τα τειχη και τους πυργους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: If he tells them to make war one against another, they do it. But if he sends them against enemies, they go and subdue mountains and walls and towers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:5
-
-Greek: φονευουσιν και φονευονται και τον λογον του βασιλεως ου παραβαινουσιν εαν δε νικησωσιν τω βασιλει κομιζουσιν παντα και οσα εαν προνομευσωσιν και τα αλλα παντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: They kill and are killed, and they do not transgress word of king. And if they conquer, to king they bring all things, whatever they plunder and all the rest.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:6
-
-Greek: και οσοι ου στρατευονται ουδε πολεμουσιν αλλα γεωργουσιν την γην παλιν οταν σπειρωσι θερισαντες αναφερουσιν τω βασιλει και ετερος τον ετερον αναγκαζοντες αναφερουσι τους φορους τω βασιλει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And as many as do not serve in army nor make war, but farm the land, whenever they sow and reap, they bring it again to king, and by compelling one another they bring taxes to king.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:7
-
-Greek: και αυτος εις μονος εστιν εαν ειπη αποκτειναι αποκτεννουσιν ειπεν αφειναι αφιουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he is one alone. If he says to kill, they kill. If he says to release, they release.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:8
-
-Greek: ειπε παταξαι τυπτουσιν ειπεν ερημωσαι ερημουσιν ειπεν οικοδομησαι οικοδομουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: He said, Strike, and they strike. He said, Lay waste, and they lay waste. He said, Build, and they build.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:9
-
-Greek: ειπεν εκκοψαι εκκοπτουσιν ειπεν φυτευσαι φυτευουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: He said, Cut down, and they cut down. He said, Plant, and they plant.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:10
-
-Greek: και πας ο λαος αυτου και αι δυναμεις αυτου ενακουουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all his people and his forces obey him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:11
-
-Greek: προς δε τουτοις αυτος ανακειται εσθιει και πινει και καθευδει αυτοι δε τηρουσιν κυκλω περι αυτον και ου δυνανται εκαστος απελθειν και ποιειν τα εργα αυτου ουδε παρακουουσιν αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Besides these things, he reclines, eats and drinks and sleeps, but they keep watch around him, and they cannot each depart to do his work, nor do they disobey him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:12
-
-Greek: ω ανδρες πως ουχ υπερισχυει ο βασιλευς οτι ουτως επακουστος εστιν και εσιγησεν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: O men, how does not king prove strongest, because he is thus obeyed? And he became silent.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:13
-
-Greek: ο δε τριτος ο ειπας περι των γυναικων και της αληθειας ουτος εστιν ζοροβαβελ ηρξατο λαλειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then the third, the one who spoke concerning women and truth, this is Zorobabel, began to speak.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:14
-
-Greek: ανδρες ου μεγας ο βασιλευς και πολλοι οι ανθρωποι και ο οινος ισχυει τις ουν ο δεσποζων αυτων η τις ο κυριευων αυτων ουχ αι γυναικες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Men, is not king great and many are the humans and wine is strong? Who then is master of them, or who rules them? Are they not women?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:15
-
-Greek: αι γυναικες εγεννησαν τον βασιλεα και παντα τον λαον ος κυριευει της θαλασσης και της γης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Women gave birth to king and to all people who rule sea and earth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:16
-
-Greek: και εξ αυτων εγενοντο και αυται εξεθρεψαν αυτους τους φυτευοντας τους αμπελωνας εξ ων ο οινος γινεται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from them these came to be, and they nourished those planting vineyards from which wine comes to be.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:17
-
-Greek: και αυται ποιουσιν τας στολας των ανθρωπων και αυται ποιουσιν δοξαν τοις ανθρωποις και ου δυνανται οι ανθρωποι ειναι χωρις των γυναικων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they make garments of men, and they make glory for men, and men are not able to be apart from women.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:18
-
-Greek: εαν δε συναγαγωσιν χρυσιον και αργυριον και παν πραγμα ωραιον και ιδωσιν γυναικα μιαν καλην τω ειδει και τω καλλει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And if they gather gold and silver and every beautiful thing, and see one woman beautiful in appearance and beauty,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:19
-
-Greek: και ταυτα παντα αφεντες εις αυτην εγκεχηναν και χασκοντες το στομα θεωρουσιν αυτην και παντες αυτην αιρετιζουσιν μαλλον η το χρυσιον και το αργυριον και παν πραγμα ωραιον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: leaving all these behind, they gape at her and with mouth hanging open gaze at her, and all choose her rather than gold and silver and every beautiful thing.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:20
-
-Greek: ανθρωπος τον εαυτου πατερα εγκαταλειπει ος εξεθρεψεν αυτον και την ιδιαν χωραν και προς την ιδιαν γυναικα κολλαται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Man abandons his own father who nourished him and his own country and clings to his own wife.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:21
-
-Greek: και μετα της γυναικος αφιησι την ψυχην και ουτε τον πατερα μεμνηται ουτε την μητερα ουτε την χωραν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And with wife he leaves his soul, and remembers neither father nor mother nor country.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:22
-
-Greek: και εντευθεν δει υμας γνωναι οτι αι γυναικες κυριευουσιν υμων ουχι πονειτε και μοχθειτε και παντα ταις γυναιξιν διδοτε και φερετε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From here it is necessary for you to know that women rule over you. Do you not toil and labor and bear and give all things to women?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:23
-
-Greek: και λαμβανει ανθρωπος την ρομφαιαν αυτου και εκπορευεται εξοδευειν και ληστευειν και κλεπτειν και εις την θαλασσαν πλειν και ποταμους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And man takes his sword and goes out to travel and to rob and steal and sail on sea and rivers,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:24
-
-Greek: και τον λεοντα θεωρει και εν σκοτει βαδιζει και οταν κλεψη και αρπαση και λωποδυτηση τη ερωμενη αποφερει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and he looks at lion and walks in darkness, and when he steals and seizes and plunders, to his beloved he carries it away.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:25
-
-Greek: και πλειον αγαπα ανθρωπος την ιδιαν γυναικα μαλλον η τον πατερα και την μητερα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And man loves his own wife more than father and mother.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:26
-
-Greek: και πολλοι απενοηθησαν ταις ιδιαις διανοιαις δια τας γυναικας και δουλοι εγενοντο δι' αυτας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And many lost their minds because of women and became slaves through them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:27
-
-Greek: και πολλοι απωλοντο και εσφαλησαν και ημαρτοσαν δια τας γυναικας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And many perished and stumbled and sinned because of women.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:28
-
-Greek: και νυν ου πιστευετε μοι ουχι μεγας ο βασιλευς τη εξουσια αυτου ουχι πασαι αι χωραι ευλαβουνται αψασθαι αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now do you not believe me? Is not king great in his authority? Do not all lands fear to touch him?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:29
-
-Greek: εθεωρουν αυτον και απαμην την θυγατερα βαρτακου του θαυμαστου την παλλακην του βασιλεως καθημενην εν δεξια του βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: I was watching him and Apamē, daughter of Bartakos the admirable, king's concubine, sitting at king's right.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:30
-
-Greek: και αφαιρουσαν το διαδημα απο της κεφαλης του βασιλεως και επιτιθουσαν εαυτη και ερραπιζεν τον βασιλεα τη αριστερα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And she was taking diadem from head of king and placing it on herself, and she struck king with her left hand.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:31
-
-Greek: και προς τουτοις ο βασιλευς χασκων το στομα εθεωρει αυτην και εαν προσγελαση αυτω γελα εαν δε πικρανθη επ' αυτον κολακευει αυτην οπως διαλλαγη αυτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And besides these things, king with open mouth was looking at her, and if she smiled at him he smiles, but if she is embittered against him he flatters her so that she may be reconciled to him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:32
-
-Greek: ω ανδρες πως ουχι ισχυραι αι γυναικες οτι ουτως πρασσουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: O men, how are not women strong, because they do such things?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:33
-
-Greek: και τοτε ο βασιλευς και οι μεγιστανες ενεβλεπον ετερος προς τον ετερον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And then king and magnates looked each toward other.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:34
-
-Greek: και ηρξατο λαλειν περι της αληθειας ανδρες ουχι ισχυραι αι γυναικες μεγαλη η γη και υψηλος ο ουρανος και ταχυς τω δρομω ο ηλιος οτι στρεφεται εν τω κυκλω του ουρανου και παλιν αποτρεχει εις τον εαυτου τοπον εν μια ημερα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he began to speak concerning truth: Men, are not women strong? Great is earth and high heaven and swift in course is sun, because it turns in circle of heaven and again runs back to its own place in one day.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:35
-
-Greek: ουχι μεγας ος ταυτα ποιει και η αληθεια μεγαλη και ισχυροτερα παρα παντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Is not great the one doing these things? And truth is great and stronger than all things.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:36
-
-Greek: πασα η γη την αληθειαν καλει και ο ουρανος αυτην ευλογει και παντα τα εργα σειεται και τρεμει και ουκ εστιν μετ' αυτου αδικον ουθεν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: All earth calls on truth and heaven blesses it, and all works shake and tremble, and with it there is no unrighteous thing.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:37
-
-Greek: αδικος ο οινος αδικος ο βασιλευς αδικοι αι γυναικες αδικοι παντες οι υιοι των ανθρωπων και αδικα παντα τα εργα αυτων παντα τα τοιαυτα και ουκ εστιν εν αυτοις αληθεια και εν τη αδικια αυτων απολουνται
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Unrighteous is wine, unrighteous king, unrighteous women, unrighteous all sons of men, and unrighteous all their works, all such things, and there is no truth in them, and in their unrighteousness they will perish.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:38
-
-Greek: η δε αληθεια μενει και ισχυει εις τον αιωνα και ζη και κρατει εις τον αιωνα του αιωνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But truth remains and is strong forever, and lives and prevails forever and ever.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:39
-
-Greek: και ουκ εστιν παρ' αυτη λαμβανειν προσωπα ουδε διαφορα αλλα τα δικαια ποιει απο παντων των αδικων και πονηρων και παντες ευδοκουσι τοις εργοις αυτης και ουκ εστιν εν τη κρισει αυτης ουθεν αδικον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And with it there is no receiving of persons nor distinction, but it does righteous things away from all unrighteous and wicked things, and all are pleased with its works, and there is nothing unrighteous in its judgment.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:40
-
-Greek: και αυτη η ισχυς και το βασιλειον και η εξουσια και η μεγαλειοτης των παντων αιωνων ευλογητος ο θεος της αληθειας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And this is strength and kingdom and authority and majesty of all the ages. Blessed is God of truth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:41
-
-Greek: και εσιωπησεν του λαλειν και πας ο λαος τοτε εφωνησεν και τοτε ειπον μεγαλη η αληθεια και υπερισχυει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he became silent from speaking, and all people then cried out, and then they said, Great is truth, and it proves strongest.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:42
-
-Greek: τοτε ο βασιλευς ειπεν αυτω αιτησαι ο θελεις πλειω των γεγραμμενων και δωσομεν σοι ον τροπον ευρεθης σοφωτερος και εχομενος μου καθηση και συγγενης μου κληθηση
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then king said to him, Ask what you want beyond what has been written, and we will give, in what way you were found wiser, and you shall sit next to me and be called my kinsman.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:43
-
-Greek: τοτε ειπεν τω βασιλει μνησθητι την ευχην ην ηυξω οικοδομησαι την ιερουσαλημ εν τη ημερα η το βασιλειον σου παρελαβες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then he said to king, Remember the vow which you vowed to build Ierousalem in day when you received your kingdom,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:44
-
-Greek: και παντα τα σκευη τα λημφθεντα εξ ιερουσαλημ εκπεμψαι α εξεχωρισεν κυρος οτε ηυξατο εκκοψαι βαβυλωνα και ηυξατο εξαποστειλαι εκει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and to send away all vessels taken from Ierousalem which Cyrus set apart when he resolved to cut down Babylōn and resolved to send there.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:45
-
-Greek: και συ ευξω οικοδομησαι τον ναον ον ενεπυρισαν οι ιδουμαιοι οτε ηρημωθη η ιουδαια υπο των χαλδαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And you yourself vowed to build temple which Idoumaioi burned when Ioudaia was laid waste by Chaldeans.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:46
-
-Greek: και νυν τουτο εστιν ο σε αξιω κυριε βασιλευ και ο αιτουμαι σε και αυτη εστιν η μεγαλωσυνη η παρα σου δεομαι ουν ινα ποιησης την ευχην ην ηυξω τω βασιλει του ουρανου ποιησαι εκ στοματος σου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now this is what I ask of you, lord king, and what I request of you, and this is greatness I beg from you, that you do the vow which you vowed to king of heaven to perform from your mouth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:47
-
-Greek: τοτε αναστας δαρειος ο βασιλευς κατεφιλησεν αυτον και εγραψεν αυτω τας επιστολας προς παντας τους οικονομους και τοπαρχας και στρατηγους και σατραπας ινα προπεμψωσιν αυτον και τους μετ' αυτου παντας αναβαινοντας οικοδομησαι την ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then king Darius rose and kissed him and wrote letters for him to all stewards and toparchs and generals and satraps, that they should send him on and all with him who are going up to build Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:48
-
-Greek: και πασι τοις τοπαρχαις εν κοιλη συρια και φοινικη και τοις εν τω λιβανω εγραψεν επιστολας μεταφερειν ξυλα κεδρινα απο του λιβανου εις ιερουσαλημ και οπως οικοδομησωσιν μετ' αυτου την πολιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And to all toparchs in Coele-Syria and Phoinikia and those in Lebanon he wrote letters to carry cedar wood from Lebanon into Ierousalem and so that they might build city with him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:49
-
-Greek: και εγραψεν πασι τοις ιουδαιοις τοις αναβαινουσιν απο της βασιλειας εις την ιουδαιαν υπερ της ελευθεριας παντα δυνατον και σατραπην και τοπαρχην και οικονομον μη επελευσεσθαι επι τας θυρας αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he wrote for all Ioudaioi going up from kingdom into Ioudaia concerning freedom, that no ruler at all, satrap and toparch and steward, should come upon their doors.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:50
-
-Greek: και πασαν την χωραν ην κρατησουσιν αφορολογητον αυτοις υπαρχειν και ινα οι ιδουμαιοι αφιωσι τας κωμας ας διακρατουσιν των ιουδαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And that all land which they will gain should be tax-free for them, and that Idoumaioi should let go villages which they are holding from Ioudaioi.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:51
-
-Greek: και εις την οικοδομην του ιερου δοθηναι κατ' ενιαυτον ταλαντα εικοσι μεχρι του οικοδομηθηναι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And that twenty talents should be given yearly for building of temple, until it is built.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:52
-
-Greek: και επι το θυσιαστηριον ολοκαυτωματα καρπουσθαι καθ' ημεραν καθα εχουσιν εντολην επτακαιδεκα προσφερειν αλλα ταλαντα δεκα κατ' ενιαυτον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And for whole burnt offerings on altar to be consumed daily, according as they have command to offer seventeen, and another ten talents yearly.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:53
-
-Greek: και πασιν τοις προσβαινουσιν απο της βαβυλωνιας κτισαι την πολιν υπαρχειν την ελευθεριαν αυτοις τε και τοις τεκνοις αυτων και πασι τοις ιερευσι τοις προσβαινουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And that all coming up from Babylōnia to build city should have freedom, both they and their children and all priests coming up.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:54
-
-Greek: εγραψεν δε και την χορηγιαν και την ιερατικην στολην εν τινι λατρευουσιν εν αυτη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he wrote also concerning subsidy and priestly robe, in which they minister in it.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:55
-
-Greek: και τοις λευιταις εγραψεν δουναι την χορηγιαν εως ης ημερας επιτελεσθη ο οικος και ιερουσαλημ οικοδομηθηναι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And for Levites he wrote to give subsidy until day house is completed and Ierousalem is built.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:56
-
-Greek: και πασι τοις φρουρουσι την πολιν εγραψε δουναι αυτοις κληρους και οψωνια
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And to all guarding city he wrote to give them allotments and wages.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:57
-
-Greek: και εξαπεστειλεν παντα τα σκευη α εξεχωρισεν κυρος απο βαβυλωνος και παντα οσα ειπεν κυρος ποιησαι και αυτος επεταξεν ποιησαι και εξαποστειλαι εις ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he sent away all vessels which Cyrus set apart from Babylōn, and all things Cyrus said to do, he himself ordered to do and to send away into Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:58
-
-Greek: και οτε εξηλθεν ο νεανισκος αρας το προσωπον εις τον ουρανον εναντιον ιερουσαλημ ευλογησεν τω βασιλει του ουρανου λεγων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when young man went out, after lifting face to heaven opposite Ierousalem, he blessed king of heaven, saying,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:59
-
-Greek: παρα σου η νικη και παρα σου η σοφια και ση η δοξα και εγω σος οικετης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From you victory and from you wisdom and yours glory, and I am your servant.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:60
-
-Greek: ευλογητος ει ος εδωκας μοι σοφιαν και σοι ομολογω δεσποτα των πατερων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Blessed are you who gave me wisdom, and to you I confess, Master of fathers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:61
-
-Greek: και ελαβεν τας επιστολας και εξηλθεν εις βαβυλωνα και απηγγειλεν τοις αδελφοις αυτου πασιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he took letters and went out to Babylōn and reported to all his brothers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:62
-
-Greek: και ευλογησαν τον θεον των πατερων αυτων οτι εδωκεν αυτοις ανεσιν και αφεσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they blessed God of their fathers because he gave them relief and release,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 4:63
-
-Greek: αναβηναι και οικοδομησαι ιερουσαλημ και το ιερον ου ωνομασθη το ονομα αυτου επ' αυτω και εκωθωνιζοντο μετα μουσικων και χαρας ημερας επτα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to go up and build Ierousalem and sanctuary on which his name had been named, and they feasted with music and joy seven days.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 5
-
-### Ezra 5:1
-
-Greek: μετα δε ταυτα εξελεγησαν αναβηναι αρχηγοι οικου πατριων κατα φυλας αυτων και αι γυναικες αυτων και οι υιοι και αι θυγατερες και οι παιδες αυτων και αι παιδισκαι και τα κτηνη αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: After these things chiefs of father-houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:2
-
-Greek: και δαρειος συναπεστειλεν μετ' αυτων ιππεις χιλιους εως του αποκαταστησαι αυτους εις ιερουσαλημ μετ' ειρηνης και μετα μουσικων τυμπανων και αυλων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Darius sent with them 1,000 horsemen, until he restored them to Ierousalem with peace and with music of tambourines and flutes.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:3
-
-Greek: και παντες οι αδελφοι αυτων παιζοντες και εποιησεν αυτους συναναβηναι μετ' εκεινων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all their brothers were rejoicing, and he made them go up with them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:4
-
-Greek: και ταυτα τα ονοματα των ανδρων των αναβαινοντων κατα πατριας αυτων εις τας φυλας επι την μεριδαρχιαν αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And these are names of men going up according to their fathers, by their tribes, according to their division:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:5
-
-Greek: οι ιερεις υιοι φινεες υιου ααρων ιησους ο του ιωσεδεκ του σαραιου και ιωακιμ ο του ζοροβαβελ του σαλαθιηλ εκ του οικου του δαυιδ εκ της γενεας φαρες φυλης δε ιουδα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The priests: sons of Phinees, Iēsous son of Iōsedek son of Saraiou; and Iōakim son of Zorobabel son of Salathiēl, from house of Dauid, from line of Phares, tribe of Iouda,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:6
-
-Greek: ος ελαλησεν επι δαρειου του βασιλεως περσων λογους σοφους εν τω δευτερω ετει της βασιλειας αυτου μηνι νισαν του πρωτου μηνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: who spoke wise words before Darius king of Persians in second year of his reign, in month Nisan, first month.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:7
-
-Greek: εισιν δε ουτοι εκ της ιουδαιας οι αναβαντες εκ της αιχμαλωσιας της παροικιας ους μετωκισεν ναβουχοδονοσορ βασιλευς βαβυλωνος εις βαβυλωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And these are from Ioudaia, those who came up from captivity of sojourning whom Nabouchodonosor king of Babylōn resettled in Babylōn,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:8
-
-Greek: και επεστρεψαν εις ιερουσαλημ και την λοιπην ιουδαιαν εκαστος εις την ιδιαν πολιν οι ελθοντες μετα ζοροβαβελ και ιησου νεεμιου ζαραιου ρησαιου ενηνιος μαρδοχαιου βεελσαρου ασφαρασου βορολιου ροιμου βαανα των προηγουμενων αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and they returned to Ierousalem and the rest of Ioudaia, each to his own city, those who came with Zorobabel and Iēsous, Neemiou, Zaraiou, Rhēsaiou, Enēniou, Mardochaiou, Beelsarou, Aspharasou, Boroliou, Roimou, Baana, their leaders.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:9
-
-Greek: αριθμος των απο του εθνους και οι προηγουμενοι αυτων υιοι φορος δυο χιλιαδες και εκατον εβδομηκοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Number of those from nation and their leaders: sons of Phoros, 2,172.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:10
-
-Greek: υιοι σαφατ τετρακοσιοι εβδομηκοντα δυο υιοι αρεε επτακοσιοι πεντηκοντα εξ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Saphat, 472; sons of Aree, 756.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:11
-
-Greek: υιοι φααθμωαβ εις τους υιους ιησου και ιωαβ δισχιλιοι οκτακοσιοι δεκα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Phaathmōab, among sons of Iēsous and Iōab, 2,812.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:12
-
-Greek: υιοι ωλαμου χιλιοι διακοσιοι πεντηκοντα τεσσαρες υιοι ζατου εννακοσιοι τεσσαρακοντα πεντε υιοι χορβε επτακοσιοι πεντε υιοι βανι εξακοσιοι τεσσαρακοντα οκτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Ōlamou, 1,254; sons of Zatou, 945; sons of Chorbē, 705; sons of Bani, 648.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:13
-
-Greek: υιοι βηβαι εξακοσιοι εικοσι τρεις υιοι ασγαδ χιλιοι τριακοσιοι εικοσι δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Bēbai, 623; sons of Asgad, 1,322.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:14
-
-Greek: υιοι αδωνικαμ εξακοσιοι εξηκοντα επτα υιοι βαγοι δισχιλιοι εξηκοντα εξ υιοι αδινου τετρακοσιοι πεντηκοντα τεσσαρες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Adōnikam, 667; sons of Bagoi, 2,066; sons of Adinou, 454.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:15
-
-Greek: υιοι ατηρ εζεκιου ενενηκοντα δυο υιοι κιλαν και αζητας εξηκοντα επτα υιοι αζουρου τετρακοσιοι τριακοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Atēr Ezekiou, 92; sons of Kilan and Azētas, 67; sons of Azourou, 432.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:16
-
-Greek: υιοι αννιας εκατον εις υιοι αρομ υιοι βασσαι τριακοσιοι εικοσι τρεις υιοι αριφου εκατον δεκα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Annias, 101; sons of Arom; sons of Bassai, 323; sons of Ariphou, 112.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:17
-
-Greek: υιοι βαιτηρους τρισχιλιοι πεντε υιοι εκ βαιθλωμων εκατον εικοσι τρεις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Baitērous, 3,005; sons from Baithlōmōn, 123.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:18
-
-Greek: οι εκ νετεβας πεντηκοντα πεντε οι εξ ενατου εκατον πεντηκοντα οκτω οι εκ βαιτασμων τεσσαρακοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Those from Netebas, 55; those from Enatou, 158; those from Baithasmōn, 42.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:19
-
-Greek: οι εκ καριαθιαριος εικοσι πεντε οι εκ καπιρας και βηροτ επτακοσιοι τεσσαρακοντα τρεις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Those from Kariathiarios, 25; those from Kapiras and Bērot, 743.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:20
-
-Greek: οι χαδιασαι και αμμιδιοι τετρακοσιοι εικοσι δυο οι εκ κιραμας και γαββης εξακοσιοι εικοσι εις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Those Chadasai and Ammidioi, 422; those from Kiramas and Gabbēs, 621.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:21
-
-Greek: οι εκ μακαλων εκατον εικοσι δυο οι εκ βαιτολιω πεντηκοντα δυο υιοι νιφις εκατον πεντηκοντα εξ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Those from Makalōn, 122; those from Baitholiō, 52; sons of Niphi, 156.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:22
-
-Greek: υιοι καλαμω αλλου και ωνους επτακοσιοι εικοσι πεντε υιοι ιερεχου τριακοσιοι τεσσαρακοντα πεντε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Kalamōlallou and Ōnous, 725; sons of Ierechou, 345.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:23
-
-Greek: υιοι σαναας τρισχιλιοι τριακοσιοι τριακοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Sanaas, 3,330.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:24
-
-Greek: οι ιερεις υιοι ιεδδου του υιου ιησου εις τους υιους ανασιβ εννακοσιοι εβδομηκοντα δυο υιοι εμμηρου χιλιοι πεντηκοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The priests: sons of Ieddou, son of Iēsous among sons of Anasib, 972; sons of Emmērou, 1,052.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:25
-
-Greek: υιοι φασσουρου χιλιοι διακοσιοι τεσσαρακοντα επτα υιοι χαρμη χιλιοι δεκα επτα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of Phassourou, 1,247; sons of Charmē, 1,017.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:26
-
-Greek: οι δε λευιται υιοι ιησου και καδμιηλου και βαννου και σουδιου εβδομηκοντα τεσσαρες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And the Levites: sons of Iēsous and Kadmiēlou and Bannou and Soudiou, 74.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:27
-
-Greek: οι ιεροψαλται υιοι ασαφ εκατον εικοσι οκτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The temple-singers, sons of Asaph, 128.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:28
-
-Greek: οι θυρωροι υιοι σαλουμ υιοι αταρ υιοι τολμαν υιοι ακουβ υιοι ατητα υιοι σωβαι οι παντες εκατον τριακοντα εννεα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The gatekeepers: sons of Saloum, sons of Atar, sons of Tolman, sons of Akoub, sons of Atita, sons of Sōbai, all of them 139.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:29
-
-Greek: οι ιεροδουλοι υιοι ησαυ υιοι ασιφα υιοι ταβαωθ υιοι κηρας υιοι σουα υιοι φαδαιου υιοι λαβανα υιοι αγγαβα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: The temple-servants: sons of Ēsau, sons of Asipha, sons of Tabaōth, sons of Kēras, sons of Soua, sons of Phadaiou, sons of Labana, sons of Aggaba,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:30
-
-Greek: υιοι ακουδ υιοι ουτα υιοι κηταβ υιοι αγαβα υιοι συβαι υιοι αναν υιοι καθουα υιοι γεδδουρ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: sons of Akoud, sons of Outa, sons of Kētab, sons of Agaba, sons of Sybai, sons of Anan, sons of Kathoua, sons of Geddour,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:31
-
-Greek: υιοι ιαιρου υιοι δαισαν υιοι νοεβα υιοι χασεβα υιοι γαζηρα υιοι οζιου υιοι φινοε υιοι ασαρα υιοι βασθαι υιοι ασανα υιοι μαανι υιοι ναφισι υιοι ακουφ υιοι αχιβα υιοι ασουρ υιοι φαρακιμ υιοι βασαλωθ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: sons of Iairou, sons of Daisan, sons of Noeba, sons of Chaseba, sons of Gazēra, sons of Oziou, sons of Phinoe, sons of Asara, sons of Basthai, sons of Asana, sons of Maani, sons of Naphisi, sons of Akouph, sons of Achiba, sons of Asour, sons of Pharakim, sons of Basalōth,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:32
-
-Greek: υιοι μεεδδα υιοι κουθα υιοι χαρεα υιοι βαρχους υιοι σεραρ υιοι θομοι υιοι νασι υιοι ατιφα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: sons of Meedda, sons of Koutha, sons of Charea, sons of Barchous, sons of Serar, sons of Thomoi, sons of Nasi, sons of Atipha.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:33
-
-Greek: υιοι παιδων σαλωμων υιοι ασσαφιωθ υιοι φαριδα υιοι ιεηλι υιοι λοζων υιοι ισδαηλ υιοι σαφυθι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Sons of children of Salōmōn: sons of Assaphiōth, sons of Pharida, sons of Ieiēli, sons of Lozōn, sons of Isdaēl, sons of Saphythi,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:34
-
-Greek: υιοι αγια υιοι φακαρεθ-σαβιη υιοι σαρωθιε υιοι μασιας υιοι γας υιοι αδδους υιοι σουβας υιοι αφερρα υιοι βαρωδις υιοι σαφατ υιοι αμων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: sons of Agia, sons of Phakareth-Sabiē, sons of Sarōthie, sons of Masias, sons of Gas, sons of Addous, sons of Soubas, sons of Apherra, sons of Barōdis, sons of Saphat, sons of Amōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:35
-
-Greek: παντες οι ιεροδουλοι και οι υιοι των παιδων σαλωμων τριακοσιοι εβδομηκοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: All temple-servants and sons of children of Salōmōn, 372.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:36
-
-Greek: ουτοι αναβαντες απο θερμελεθ και θελερσας ηγουμενος αυτων χαρααθ αδαν και αμαρ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: These came up from Thermeleth and Thelersas, their leader being Charaath, Adan, and Amar.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:37
-
-Greek: και ουκ ηδυναντο απαγγειλαι τας πατριας αυτων και γενεας ως εκ του ισραηλ εισιν υιοι δαλαν του υιου τουβαν υιοι νεκωδαν εξακοσιοι πεντηκοντα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they were not able to report their father-houses and generations, that they are from Israel: sons of Dalan son of Touban, sons of Nekōdan, 652.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:38
-
-Greek: και εκ των ιερεων οι εμποιουμενοι ιερωσυνης και ουχ ευρεθησαν υιοι οββια υιοι ακκως υιοι ιοδδους του λαβοντος αυγιαν γυναικα των θυγατερων φαρζελλαιου και εκληθη επι τω ονοματι αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from priests, those making claim to priesthood and not found: sons of Obbia, sons of Akkōs, sons of Ioddous, who took Augian as wife from daughters of Pharzellaiou and was called by his name.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:39
-
-Greek: και τουτων ζητηθεισης της γενικης γραφης εν τω καταλοχισμω και μη ευρεθεισης εχωρισθησαν του ιερατευειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when genealogical register was sought among enrollment and not found, they were separated from serving as priests.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:40
-
-Greek: και ειπεν αυτοις νεεμιας και ατθαριας μη μετεχειν των αγιων αυτους εως αναστη αρχιερευς ενδεδυμενος την δηλωσιν και την αληθειαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Neemias and Attharias said to them not to share in holy things until high priest arises clothed with manifestation and truth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:41
-
-Greek: οι δε παντες ησαν ισραηλ απο δωδεκαετους χωρις παιδων και παιδισκων μυριαδες τεσσαρες δισχιλιοι τριακοσιοι εξηκοντα παιδες τουτων και παιδισκαι επτακισχιλιοι τριακοσιοι τριακοντα επτα ψαλται και ψαλτωδοι διακοσιοι τεσσαρακοντα πεντε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all together were 42,360 Israelites besides children and female servants; of these male and female servants were 7,337, singers and songstresses 245.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:42
-
-Greek: καμηλοι τετρακοσιοι τριακοντα πεντε και ιπποι επτακισχιλιοι τριακοντα εξ ημιονοι διακοσιοι τεσσαρακοντα πεντε υποζυγια πεντακισχιλια πεντακοσια εικοσι πεντε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Camels, 435; horses, 7,036; mules, 245; beasts of burden, 5,525.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:43
-
-Greek: και εκ των ηγουμενων κατα τας πατριας εν τω παραγινεσθαι αυτους εις το ιερον του θεου το εν ιερουσαλημ ευξαντο εγειραι τον οικον επι του τοπου αυτου κατα την αυτων δυναμιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from leaders according to their father-houses, when they came into sanctuary of God in Ierousalem, they vowed to raise house upon its place according to their ability,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:44
-
-Greek: και δουναι εις το ιερον γαζοφυλακιον των εργων χρυσιου μνας χιλιας και αργυριου μνας πεντακισχιλιας και στολας ιερατικας εκατον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and to give into sacred treasury of works 1,000 minas of gold and 5,000 minas of silver and 100 priestly robes.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:45
-
-Greek: και κατωκισθησαν οι ιερεις και οι λευιται και οι εκ του λαου εν ιερουσαλημ και τη χωρα οι τε ιεροψαλται και οι θυρωροι και πας ισραηλ εν ταις κωμαις αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And priests and Levites and those from people dwelt in Ierousalem and in country, and also temple-singers and gatekeepers and all Israel in their villages.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:46
-
-Greek: ενσταντος δε του εβδομου μηνος και οντων των υιων ισραηλ εκαστου εν τοις ιδιοις συνηχθησαν ομοθυμαδον εις το ευρυχωρον του πρωτου πυλωνος του προς τη ανατολη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now when seventh month came, and sons of Israel were each in their own places, they gathered with one accord into broad place of first gate toward east.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:47
-
-Greek: και καταστας ιησους ο του ιωσεδεκ και οι αδελφοι αυτου οι ιερεις και ζοροβαβελ ο του σαλαθιηλ και οι τουτου αδελφοι ητοιμασαν το θυσιαστηριον του θεου του ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iēsous son of Iōsedek and his brothers and Zorobabel son of Salathiēl and his brothers stood and prepared altar of God of Israel,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:48
-
-Greek: προσενεγκαι επ' αυτου ολοκαυτωσεις ακολουθως τοις εν τη μωυσεως βιβλω του ανθρωπου του θεου διηγορευμενοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to offer whole burnt offerings upon it, according as things prescribed in book of Mōusēs, man of God.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:49
-
-Greek: και επισυνηχθησαν αυτοις εκ των αλλων εθνων της γης και κατωρθωσαν το θυσιαστηριον επι του τοπου αυτου οτι εν εχθρα ησαν αυτοις και κατισχυσαν αυτους παντα τα εθνη τα επι της γης και ανεφερον θυσιας κατα τον καιρον και ολοκαυτωματα τω κυριω το πρωινον και το δειλινον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from other nations of land they were gathered against them, and they set altar aright on its place, because they were in hostility to them and all nations on earth prevailed against them, and they offered sacrifices at time and morning and evening whole burnt offerings to Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:50
-
-Greek: και ηγαγοσαν την της σκηνοπηγιας εορτην ως επιτετακται εν τω νομω και θυσιας καθ' ημεραν ως προσηκον ην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they kept feast of tabernacles as commanded in law, and sacrifices daily as was fitting.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:51
-
-Greek: και μετα ταυτα προσφορας ενδελεχισμου και θυσιας σαββατων και νουμηνιων και εορτων πασων ηγιασμενων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after these things they brought continual offerings and sacrifices of Sabbaths and new moons and all consecrated feasts.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:52
-
-Greek: και οσοι ευξαντο ευχην τω θεω απο της νουμηνιας του εβδομου μηνος ηρξαντο προσφερειν θυσιας τω θεω και ο ναος του θεου ουπω ωκοδομητο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all who vowed vow to God began from new moon of seventh month to offer sacrifices to God, though temple of God had not yet been built.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:53
-
-Greek: και εδωκαν αργυριον τοις λατομοις και τεκτοσι και βρωτα και ποτα και χαρα τοις σιδωνιοις και τυριοις εις το παραγειν αυτους εκ του λιβανου ξυλα κεδρινα διαφερειν σχεδιας εις τον ιοππης λιμενα κατα το προσταγμα το γραφεν αυτοις παρα κυρου του περσων βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they gave silver to masons and carpenters, and food and drink and cheer to Sidōnioi and Tyrioi, that they should bring cedar woods from Lebanon, carrying by rafts to port of Ioppē, according to command written to them from Cyrus king of Persians.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:54
-
-Greek: και τω δευτερω ετει παραγενομενος εις το ιερον του θεου εις ιερουσαλημ μηνος δευτερου ηρξατο ζοροβαβελ ο του σαλαθιηλ και ιησους ο του ιωσεδεκ και οι αδελφοι αυτων και οι ιερεις οι λευιται και παντες οι παραγενομενοι εκ της αιχμαλωσιας εις ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And in second year, when they came to sanctuary of God in Ierousalem, in second month, Zorobabel son of Salathiēl and Iēsous son of Iōsedek and their brothers and priests and Levites and all who came from captivity to Ierousalem began.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:55
-
-Greek: και εθεμελιωσαν τον ναον του θεου τη νουμηνια του δευτερου μηνος του δευτερου ετους εν τω ελθειν εις την ιουδαιαν και ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they founded temple of God on new moon of second month of second year after coming into Ioudaia and Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:56
-
-Greek: και εστησαν τους λευιτας απο εικοσαετους επι των εργων του κυριου και εστη ιησους και οι υιοι και οι αδελφοι και καδμιηλ ο αδελφος και οι υιοι ιησου ημαδαβουν και οι υιοι ιωδα του ιλιαδουν συν τοις υιοις και αδελφοις παντες οι λευιται ομοθυμαδον εργοδιωκται ποιουντες εις τα εργα εν τω οικω του θεου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they stationed Levites from twenty years old over works of Lord, and Iēsous stood, and his sons and brothers, and Kadmiēl the brother and sons of Iēsou Ēmadaboun and sons of Iōda the Iliadoun, together with sons and brothers, all the Levites together, workmasters of those doing works in house of God.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:57
-
-Greek: και ωκοδομησαν οι οικοδομοι τον ναον του κυριου και εστησαν οι ιερεις εστολισμενοι μετα μουσικων και σαλπιγγων και οι λευιται υιοι ασαφ εχοντες τα κυμβαλα υμνουντες τω κυριω και ευλογουντες κατα δαυιδ βασιλεα του ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And builders built temple of Lord, and priests stood arrayed with music and trumpets, and Levites sons of Asaph holding cymbals, hymning to Lord and blessing according to Dauid king of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:58
-
-Greek: και εφωνησαν δι' υμνων ομολογουντες τω κυριω οτι η χρηστοτης αυτου και η δοξα εις τους αιωνας παντι ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they cried out through hymns, confessing to Lord, because his goodness and glory are forever to all Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:59
-
-Greek: και πας ο λαος εσαλπισαν και εβοησαν φωνη μεγαλη υμνουντες τω κυριω επι τη εγερσει του οικου του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all people trumpeted and shouted with loud voice, hymning to Lord over raising of house of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:60
-
-Greek: και ηλθοσαν εκ των ιερεων των λευιτων και των προκαθημενων κατα τας πατριας αυτων οι πρεσβυτεροι οι εωρακοτες τον προ τουτου οικον προς την τουτου οικοδομην μετα κραυγης και κλαυθμου μεγαλου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And there came from priests and Levites and heads according to their father-houses, the elders who had seen former house, to this building with great cry and weeping,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:61
-
-Greek: και πολλοι δια σαλπιγγων και χαρας μεγαλη τη φωνη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and many with trumpets and joy with loud voice,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:62
-
-Greek: ωστε τον λαον μη ακουειν των σαλπιγγων δια τον κλαυθμον του λαου ο γαρ οχλος ην ο σαλπιζων μεγαλωστι ωστε μακροθεν ακουεσθαι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: so that people did not hear sound of trumpets because of weeping of people, for crowd was trumpeting greatly, so as to be heard far away.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:63
-
-Greek: και ακουσαντες οι εχθροι της φυλης ιουδα και βενιαμιν ηλθοσαν επιγνωναι τις η φωνη των σαλπιγγων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when enemies of tribe of Iouda and Beniamin heard, they came to know what voice of trumpets was.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:64
-
-Greek: και επεγνωσαν οτι οι εκ της αιχμαλωσιας οικοδομουσιν τον ναον τω κυριω θεω ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they learned that those from captivity are building temple to Lord God of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:65
-
-Greek: και προσελθοντες τω ζοροβαβελ και ιησου και τοις ηγουμενοις των πατριων λεγουσιν αυτοις συνοικοδομησομεν υμιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after approaching Zorobabel and Iēsous and heads of father-houses, they say to them, We will build with you.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:66
-
-Greek: ομοιως γαρ υμιν ακουομεν του κυριου υμων και αυτω επιθυομεν απο ημερων ασβασαρεθ βασιλεως ασσυριων ος μετηγαγεν ημας ενταυθα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For like you we hear Lord your God, and to him we sacrifice from days of Asbasareth king of Assyrians, who transported us here.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:67
-
-Greek: και ειπεν αυτοις ζοροβαβελ και ιησους και οι ηγουμενοι των πατριων του ισραηλ ουχ υμιν και ημιν του οικοδομησαι τον οικον κυριω τω θεω ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Zorobabel and Iēsous and heads of father-houses of Israel said to them, It is not for you and for us to build house to Lord our God.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:68
-
-Greek: ημεις γαρ μονοι οικοδομησομεν τω κυριω του ισραηλ ακολουθως οις προσεταξεν ημιν κυρος ο βασιλευς περσων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For we alone will build to Lord of Israel, according as Cyrus king of Persians commanded us.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:69
-
-Greek: τα δε εθνη της γης επικειμενα τοις εν τη ιουδαια και πολιορκουντες ειργον του οικοδομειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But peoples of land pressed upon those in Ioudaia, and besieging them they hindered the building,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:70
-
-Greek: και επιβουλας και δημαγωγιας και επισυστασεις ποιουμενοι απεκωλυσαν του επιτελεσθηναι την οικοδομην παντα τον χρονον της ζωης του βασιλεως κυρου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and by making plots and popular pressure and gatherings they prevented building from being completed all time of life of king Cyrus.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 5:71
-
-Greek: και ειρχθησαν της οικοδομης ετη δυο εως της δαρειου βασιλειας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And building was delayed two years until reign of Darius.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 6
-
-### Ezra 6:1
-
-Greek: εν δε τω δευτερω ετει της του δαρειου βασιλειας επροφητευσεν αγγαιος και ζαχαριας ο του εδδι οι προφηται επι τους ιουδαιους τους εν τη ιουδαια και ιερουσαλημ επι τω ονοματι κυριου θεου ισραηλ επ' αυτους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And in second year of reign of Darius, Aggaios and Zacharias son of Eddi, the prophets, prophesied over the Ioudaioi in Ioudaia and Ierousalem in name of Lord God of Israel over them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:2
-
-Greek: τοτε στας ζοροβαβελ ο του σαλαθιηλ και ιησους ο του ιωσεδεκ ηρξαντο οικοδομειν τον οικον του κυριου τον εν ιερουσαλημ συνοντων των προφητων του κυριου βοηθουντων αυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then after Zorobabel son of Salathiēl and Iēsous son of Iōsedek stood up, they began to build house of Lord in Ierousalem, prophets of Lord being with them and helping them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:3
-
-Greek: εν αυτω τω χρονω παρην προς αυτους σισιννης ο επαρχος συριας και φοινικης και σαθραβουζανης και οι συνεταιροι και ειπαν αυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: At that same time Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners came to them and said,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:4
-
-Greek: τινος υμιν συνταξαντος τον οικον τουτον οικοδομειτε και την στεγην ταυτην και ταλλα παντα επιτελειτε και τινες εισιν οι οικοδομοι οι ταυτα επιτελουντες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: By whose order are you building this house and this roof and completing all other things? And who are builders completing these things?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:5
-
-Greek: και εσχοσαν χαριν επισκοπης γενομενης επι την αιχμαλωσιαν παρα του κυριου οι πρεσβυτεροι των ιουδαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And favor of oversight from Lord came upon elders of Ioudaioi of captivity,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:6
-
-Greek: και ουκ εκωλυθησαν της οικοδομης μεχρι του υποσημανθηναι δαρειω περι αυτων και προσφωνηθηναι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and they were not hindered from building until message about them should be shown to Darius and answer returned.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:7
-
-Greek: αντιγραφον επιστολης ης εγραψεν δαρειω και απεστειλεν σισιννης ο επαρχος συριας και φοινικης και σαθραβουζανης και οι συνεταιροι οι εν συρια και φοινικη ηγεμονες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Copy of letter which Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners, leaders in Syria and Phoinikia, wrote to Darius and sent:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:8
-
-Greek: βασιλει δαρειω χαιρειν παντα γνωστα εστω τω κυριω ημων τω βασιλει οτι παραγενομενοι εις την χωραν της ιουδαιας και ελθοντες εις ιερουσαλημ την πολιν κατελαβομεν της αιχμαλωσιας τους πρεσβυτερους των ιουδαιων εν ιερουσαλημ τη πολει οικοδομουντας οικον τω κυριω μεγαν καινον δια λιθων ξυστων πολυτελων ξυλων τιθεμενων εν τοις τοιχοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: To king Darius, greetings in all things. Let it be known to our lord king that when we came into land of Ioudaia and entered Ierousalem city, we found elders of captivity of Ioudaioi in Ierousalem city building great new house to Lord from carved costly stones, timbers being laid in walls.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:9
-
-Greek: και τα εργα εκεινα επι σπουδης γιγνομενα και ευοδουμενον το εργον εν ταις χερσιν αυτων και εν παση δοξη και επιμελεια συντελουμενα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And those works are being done with haste, and work is prospering in their hands and being brought to completion with all glory and diligence.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:10
-
-Greek: τοτε επυνθανομεθα των πρεσβυτερων τουτων λεγοντες τινος υμιν προσταξαντος οικοδομειτε τον οικον τουτον και τα εργα ταυτα θεμελιουτε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then we asked those elders, saying, By whose command are you building this house and laying foundations of these works?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:11
-
-Greek: επηρωτησαμεν ουν αυτους εινεκεν του γνωρισαι σοι και γραψαι σοι τους ανθρωπους τους αφηγουμενους και την ονοματογραφιαν ητουμεν αυτους των προκαθηγουμενων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: So we asked them in order to make it known to you and write to you names of men leading them, and we requested from them names of those taking lead.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:12
-
-Greek: οι δε απεκριθησαν ημιν λεγοντες ημεις εσμεν παιδες του κυριου του κτισαντος τον ουρανον και την γην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they answered us, saying, We are servants of Lord who created heaven and earth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:13
-
-Greek: και ωκοδομητο ο οικος εμπροσθεν ετων πλειονων δια βασιλεως του ισραηλ μεγαλου και ισχυρου και επετελεσθη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And house was built before many years by a great and strong king of Israel, and it was completed.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:14
-
-Greek: και επει οι πατερες ημων παραπικραναντες ημαρτον εις τον κυριον του ισραηλ τον ουρανιον παρεδωκεν αυτους εις χειρας ναβουχοδονοσορ βασιλεως βαβυλωνος βασιλεως των χαλδαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And because our fathers provoked and sinned against Lord of Israel, the heavenly one, he gave them into hands of Nabouchodonosor king of Babylōn, king of Chaldeans.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:15
-
-Greek: τον τε οικον καθελοντες ενεπυρισαν και τον λαον ηχμαλωτευσαν εις βαβυλωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: After pulling house down, they burned it, and they led people away captive into Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:16
-
-Greek: εν δε τω πρωτω ετει βασιλευοντος κυρου χωρας βαβυλωνιας εγραψεν ο βασιλευς κυρος οικοδομησαι τον οικον τουτον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But in first year of Cyrus reigning over land of Babylōnia, king Cyrus wrote that this house should be built.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:17
-
-Greek: και τα ιερα σκευη τα χρυσα και τα αργυρα α εξηνεγκεν ναβουχοδονοσορ εκ του οικου του εν ιερουσαλημ και απηρεισατο αυτα εν τω εαυτου ναω παλιν εξηνεγκεν αυτα κυρος ο βασιλευς εκ του ναου του εν βαβυλωνι και παρεδοθη ζοροβαβελ και σαναβασσαρω τω επαρχω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sacred vessels of house of Lord, gold and silver, which Nabouchodonosor brought out from house in Ierousalem and deposited in his own temple, king Cyrus again brought them out from temple in Babylōn and they were handed over to Zorobabel and Sanabassaros the governor.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:18
-
-Greek: και επεταγη αυτω απενεγκαντι παντα τα σκευη ταυτα αποθειναι εν τω ναω τω εν ιερουσαλημ και τον ναον του κυριου τουτον οικοδομηθηναι επι του τοπου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And it was ordered him, after carrying all these vessels away, to place them in temple in Ierousalem, and that this temple of Lord be built on the place.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:19
-
-Greek: τοτε ο σαναβασσαρος εκεινος παραγενομενος ενεβαλετο τους θεμελιους του οικου κυριου του εν ιερουσαλημ και απ' εκεινου μεχρι του νυν οικοδομουμενος ουκ ελαβεν συντελειαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then that Sanabassar, after coming, laid foundations of house of Lord in Ierousalem, and from then until now it is being built and has not yet taken completion.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:20
-
-Greek: νυν ουν ει κρινεται βασιλευ επισκεπητω εν τοις βασιλικοις βιβλιοφυλακιοις του κυριου βασιλεως τοις εν βαβυλωνι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now therefore, if king judges, let search be made in royal libraries of our lord king, those in Babylōn.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:21
-
-Greek: και εαν ευρισκηται μετα της γνωμης κυρου του βασιλεως γενομενην την οικοδομην του οικου κυριου του εν ιερουσαλημ και κρινηται τω κυριω βασιλει ημων προσφωνησατω ημιν περι τουτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And if it is found with approval of king Cyrus that building of house of Lord in Ierousalem took place, and if it seems good to our lord king, let him send word to us concerning these things.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:22
-
-Greek: τοτε ο βασιλευς δαρειος προσεταξεν επισκεψασθαι εν τοις βασιλικοις βιβλιοφυλακιοις τοις κειμενοις εν βαβυλωνι και ευρεθη εν εκβατανοις τη βαρει τη εν μηδια χωρα τομος εις εν ω υπεμνηματιστο ταδε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then king Darius ordered search to be made in royal libraries lying in Babylōn, and in Ekbatanois in fortress in land of Media there was found one scroll in which these things had been recorded:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:23
-
-Greek: ετους πρωτου βασιλευοντος κυρου βασιλευς κυρος προσεταξεν τον οικον του κυριου τον εν ιερουσαλημ οικοδομησαι οπου επιθυουσιν δια πυρος ενδελεχους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: In first year of Cyrus reigning, king Cyrus ordered house of Lord in Ierousalem to be built where they sacrifice with continual fire.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:24
-
-Greek: ου το υψος πηχεων εξηκοντα πλατος πηχεων εξηκοντα δια δομων λιθινων ξυστων τριων και δομου ξυλινου εγχωριου καινου ενος και το δαπανημα δοθηναι εκ του οικου κυρου του βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Its height sixty cubits, width sixty cubits, with three courses of hewn stone and one course of new local timber, and expense to be given from house of king Cyrus.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:25
-
-Greek: και τα ιερα σκευη του οικου κυριου τα τε χρυσα και τα αργυρα α εξηνεγκεν ναβουχοδονοσορ εκ του οικου του εν ιερουσαλημ και απηνεγκεν εις βαβυλωνα αποκατασταθηναι εις τον οικον τον εν ιερουσαλημ ου ην κειμενα οπως τεθη εκει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sacred vessels of house of Lord, both gold and silver, which Nabouchodonosor brought out from house in Ierousalem and carried to Babylōn, are to be restored to house in Ierousalem where they were laid, so that they may be placed there.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:26
-
-Greek: προσεταξεν δε επιμεληθηναι σισιννη επαρχω συριας και φοινικης και σαθραβουζανη και τοις συνεταιροις και τοις αποτεταγμενοις εν συρια και φοινικη ηγεμοσιν απεχεσθαι του τοπου εασαι δε τον παιδα του κυριου ζοροβαβελ επαρχον δε της ιουδαιας και τους πρεσβυτερους των ιουδαιων τον οικον του κυριου εκεινον οικοδομειν επι του τοπου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he ordered Sisinnēs, governor of Syria and Phoinikia, and Sathrabouzanēs and their partners and leaders appointed in Syria and Phoinikia, to keep away from the place, but to let servant of Lord Zorobabel, governor of Ioudaia, and elders of Ioudaioi build that house of Lord on the place.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:27
-
-Greek: καγω δε επεταξα ολοσχερως οικοδομησαι και ατενισαι ινα συμποιωσιν τοις εκ της αιχμαλωσιας της ιουδαιας μεχρι του επιτελεσθηναι τον οικον του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I also ordered that it be built completely, and that attention be given so that they help those from captivity of Ioudaia until house of Lord is completed.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:28
-
-Greek: και απο της φορολογιας κοιλης συριας και φοινικης επιμελως συνταξιν διδοσθαι τουτοις τοις ανθρωποις εις θυσιας τω κυριω ζοροβαβελ επαρχω εις ταυρους και κριους και αρνας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from tribute of Coele-Syria and Phoinikia let supplies be carefully given to those men for sacrifices to Lord, to Zorobabel the governor, for bulls and rams and lambs,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:29
-
-Greek: ομοιως δε και πυρον και αλα και οινον και ελαιον ενδελεχως κατ' ενιαυτον καθως αν οι ιερεις οι εν ιερουσαλημ υπαγορευσωσιν αναλισκεσθαι καθ' ημεραν αναμφισβητητως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and likewise wheat and salt and wine and oil continually year by year, as priests in Ierousalem direct to be used up day by day without dispute,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:30
-
-Greek: οπως προσφερωνται σπονδαι τω θεω τω υψιστω υπερ του βασιλεως και των παιδων και προσευχωνται περι της αυτων ζωης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: so that libations may be offered to God Most High for king and children, and they may pray concerning their life.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:31
-
-Greek: και προσεταξεν ινα οσοι εαν παραβωσιν τι των προειρημενων και των προσγεγραμμενων η και ακυρωσωσιν λημφθηναι ξυλον εκ των ιδιων αυτου και επι τουτου κρεμασθηναι και τα υπαρχοντα αυτου ειναι βασιλικα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he ordered that whoever transgresses any of the things said beforehand and written down, or even annuls them, let timber be taken from his own house and let him be hanged upon it, and let his possessions become royal.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:32
-
-Greek: δια ταυτα και ο κυριος ου το ονομα αυτου επικεκληται εκει αφανισαι παντα βασιλεα και εθνος ος εκτενει την χειρα αυτου κωλυσαι η κακοποιησαι τον οικον του κυριου εκεινον τον εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Because of these things may Lord, whose name is invoked there, destroy every king and nation that stretches out hand to hinder or to do harm to that house of Lord there in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 6:33
-
-Greek: εγω βασιλευς δαρειος δεδογματικα επιμελως κατα ταυτα γιγνεσθαι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: I king Darius have decreed that these things be done carefully according to them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 7
-
-### Ezra 7:1
-
-Greek: τοτε σισιννης ο επαρχος κοιλης συριας και φοινικης και σαθραβουζανης και οι συνεταιροι κατακολουθησαντες τοις υπο του βασιλεως δαρειου προσταγεισιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Then Sisinnēs, governor of Coele-Syria and Phoinikia, and Sathrabouzanēs and their partners, following commands given by king Darius,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:2
-
-Greek: επεστατουν των ιερων εργων επιμελεστερον συνεργουντες τοις πρεσβυτεροις των ιουδαιων και ιεροσταταις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: supervised sacred works more carefully, cooperating with elders of Ioudaioi and temple-officials.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:3
-
-Greek: και ευοδα εγινετο τα ιερα εργα προφητευοντων αγγαιου και ζαχαριου των προφητων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sacred works prospered while Aggaios and Zacharias the prophets were prophesying.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:4
-
-Greek: και συνετελεσαν ταυτα δια προσταγματος του κυριου θεου ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they completed these things through command of Lord God of Israel,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:5
-
-Greek: και μετα της γνωμης κυρου και δαρειου και αρταξερξου βασιλεως περσων συνετελεσθη ο οικος ο αγιος εως τριτης και εικαδος μηνος αδαρ του εκτου ετους βασιλεως δαρειου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and with approval of Cyrus and Darius and Artaxerxes kings of Persians the holy house was completed until twenty-third of month Adar, in sixth year of reign of Darius.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:6
-
-Greek: και εποιησαν οι υιοι ισραηλ και οι ιερεις και οι λευιται και οι λοιποι οι εκ της αιχμαλωσιας οι προστεθεντες ακολουθως τοις εν τη μωυσεως βιβλω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sons of Israel and priests and Levites and rest from captivity who had been added did according to things in book of Mōusēs.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:7
-
-Greek: και προσηνεγκαν εις τον εγκαινισμον του ιερου του κυριου ταυρους εκατον κριους διακοσιους αρνας τετρακοσιους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they brought to dedication of sanctuary of Lord 100 bulls, 200 rams, 400 lambs,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:8
-
-Greek: χιμαρους υπερ αμαρτιας παντος του ισραηλ δωδεκα προς αριθμον εκ των φυλαρχων του ισραηλ δωδεκα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: 12 goats for sin of all Israel, according to number of tribal leaders of Israel, 12.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:9
-
-Greek: και εστησαν οι ιερεις και οι λευιται εστολισμενοι κατα φυλας επι των εργων του κυριου θεου ισραηλ ακολουθως τη μωυσεως βιβλω και οι θυρωροι εφ' εκαστου πυλωνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And priests and Levites arrayed by tribes stood over works of Lord God of Israel according to book of Mōusēs, and gatekeepers at each gate.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:10
-
-Greek: και ηγαγοσαν οι υιοι ισραηλ των εκ της αιχμαλωσιας το πασχα εν τη τεσσαρεσκαιδεκατη του πρωτου μηνος οτι ηγνισθησαν οι ιερεις και οι λευιται αμα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sons of Israel from captivity kept Passover on fourteenth of first month, for priests and Levites were purified together.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:11
-
-Greek: και παντες οι υιοι της αιχμαλωσιας ουχ ηγνισθησαν οτι οι λευιται αμα παντες ηγνισθησαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And not all sons of captivity had purified themselves, but Levites all together had purified themselves.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:12
-
-Greek: και εθυσαν το πασχα πασιν τοις υιοις της αιχμαλωσιας και τοις αδελφοις αυτων τοις ιερευσιν και εαυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they sacrificed Passover for all sons of captivity and for their brothers the priests and for themselves.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:13
-
-Greek: και εφαγοσαν οι υιοι ισραηλ οι εκ της αιχμαλωσιας παντες οι χωρισθεντες απο των βδελυγματων των εθνων της γης ζητουντες τον κυριον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sons of Israel from captivity ate, all who had separated from abominations of nations of land, seeking Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:14
-
-Greek: και ηγαγοσαν την εορτην των αζυμων επτα ημερας ευφραινομενοι εναντι του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they kept feast of unleavened breads seven days, rejoicing before Lord,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 7:15
-
-Greek: οτι μετεστρεψεν την βουλην του βασιλεως ασσυριων επ' αυτους κατισχυσαι τας χειρας αυτων επι τα εργα κυριου θεου ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: because he turned counsel of king of Assyrians upon them, to strengthen their hands in works of Lord God of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 8
-
-### Ezra 8:1
-
-Greek: και μεταγενεστερος τουτων βασιλευοντος αρταξερξου του περσων βασιλεως προσεβη εσδρας σαραιου του εζεριου του χελκιου του σαλημου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after these things, later, when Artaxerxes king of Persians was reigning, Esdras came up, son of Saraiou, son of Ezeriou, son of Chelkiou, son of Salēmou,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:2
-
-Greek: του σαδδουκου του αχιτωβ του αμαριου του οζιου του βοκκα του αβισουε του φινεες του ελεαζαρ του ααρων του πρωτου ιερεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: son of Saddouk, son of Achitōb, son of Amariou, son of Oziou, son of Bokka, son of Abisoue, son of Phinees, son of Eleazar, son of Aarōn the first priest.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:3
-
-Greek: ουτος εσδρας ανεβη εκ βαβυλωνος ως γραμματευς ευφυης ων εν τω μωυσεως νομω τω εκδεδομενω υπο του θεου του ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: This Esdras came up from Babylōn, being a skilled scribe in law of Mōusēs which was given by God of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:4
-
-Greek: και εδωκεν αυτω ο βασιλευς δοξαν ευροντος χαριν εναντιον αυτου επι παντα τα αξιωματα αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And king gave him glory, he having found favor before him concerning all his requests.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:5
-
-Greek: και συνανεβησαν εκ των υιων ισραηλ και των ιερεων και λευιτων και ιεροψαλτων και θυρωρων και ιεροδουλων εις ιεροσολυμα ετους εβδομου βασιλευοντος αρταξερξου εν τω πεμπτω μηνι ουτος ενιαυτος εβδομος τω βασιλει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And there went up with him from sons of Israel and from priests and Levites and temple-singers and gatekeepers and temple-servants to Ierosolyma in seventh year of reign of Artaxerxes, in fifth month; this was seventh year to king.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:6
-
-Greek: εξελθοντες γαρ εκ βαβυλωνος τη νουμηνια του πρωτου μηνος εν τη νουμηνια του πεμπτου μηνος παρεγενοντο εις ιεροσολυμα κατα την δοθεισαν αυτοις ευοδιαν παρα του κυριου επ' αυτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For after they departed from Babylōn on new moon of first month, on new moon of fifth month they arrived in Ierousalem, according to good journey given them from Lord upon him.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:7
-
-Greek: ο γαρ εσδρας πολλην επιστημην περιειχεν εις το μηδεν παραλιπειν των εκ του νομου κυριου και εκ των εντολων διδαξαι τον παντα ισραηλ παντα τα δικαιωματα και τα κριματα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For Esdras had much knowledge, so as to leave out nothing from law of Lord and from commandments, to teach all Israel all righteous requirements and judgments.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:8
-
-Greek: προσπεσοντος δε του γραφεντος προσταγματος παρα αρταξερξου του βασιλεως προς εσδραν τον ιερεα και αναγνωστην του νομου κυριου ου εστιν αντιγραφον το υποκειμενον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Now when decree written from Artaxerxes the king to Esdras the priest and reader of law of Lord fell upon him, the copy below is this:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:9
-
-Greek: βασιλευς αρταξερξης εσδρα τω ιερει και αναγνωστη του νομου κυριου χαιρειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: King Artaxerxes to Esdras the priest and reader of law of Lord, greetings.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:10
-
-Greek: και τα φιλανθρωπα εγω κρινας προσεταξα τους βουλομενους εκ του εθνους των ιουδαιων αιρετιζοντας και των ιερεων και των λευιτων και των δε εν τη ημετερα βασιλεια συμπορευεσθαι σοι εις ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I, judging humane things, ordered that those wishing from nation of Ioudaioi and from priests and Levites and those in my kingdom may go with you to Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:11
-
-Greek: οσοι ουν ενθυμουνται συνεξορματωσαν καθαπερ δεδοκται εμοι τε και τοις επτα φιλοις συμβουλευταις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Therefore as many as think it good, let them set out together, just as it seemed good to me and to seven friends who counsel me,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:12
-
-Greek: οπως επισκεψωνται τα κατα την ιουδαιαν και ιερουσαλημ ακολουθως ω εχει εν τω νομω του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: so that they may inspect matters according to Ioudaia and Ierousalem, according to what law of your God contains,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:13
-
-Greek: και απενεγκειν δωρα τω κυριω του ισραηλ α ηυξαμην εγω τε και οι φιλοι εις ιερουσαλημ και παν χρυσιον και αργυριον ο εαν ευρεθη εν τη χωρα της βαβυλωνιας τω κυριω εις ιερουσαλημ συν τω δεδωρημενω υπο του εθνους εις το ιερον του κυριου αυτων το εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and to carry gifts to Lord of Israel which both I and my friends vowed for Ierousalem, and all gold and silver whatever may be found in land of Babylōnia for Lord in Ierousalem, together with what is given by nation for sanctuary of Lord there in Ierousalem,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:14
-
-Greek: συναχθηναι το τε χρυσιον και αργυριον εις ταυρους και κριους και αρνας και τα τουτοις ακολουθα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to gather both gold and silver for bulls and rams and lambs and things following with these,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:15
-
-Greek: ωστε προσενεγκειν θυσιας επι το θυσιαστηριον του κυριου αυτων το εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: so as to offer sacrifices upon altar of Lord your God in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:16
-
-Greek: και παντα οσα αν βουλη μετα των αδελφων σου ποιησαι χρυσιω και αργυριω επιτελει κατα το θελημα του θεου σου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all whatever you wish to do with your brothers in gold and silver, complete according to will of your God.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:17
-
-Greek: και τα ιερα σκευη του κυριου τα διδομενα σοι εις την χρειαν του ιερου του θεου σου του εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And sacred vessels of Lord, those being given to you for service of sanctuary of your God in Ierousalem,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:18
-
-Greek: και τα λοιπα οσα αν υποπιπτη σοι εις την χρειαν του ιερου του θεου σου δωσεις εκ του βασιλικου γαζοφυλακιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and the rest, whatever may fall upon you for need of sanctuary of your God, you shall give from royal treasury.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:19
-
-Greek: καγω δε αρταξερξης ο βασιλευς προσεταξα τοις γαζοφυλαξι συριας και φοινικης ινα οσα αν αποστειλη εσδρας ο ιερευς και αναγνωστης του νομου του θεου του υψιστου επιμελως διδωσιν αυτω εως αργυριου ταλαντων εκατον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I king Artaxerxes ordered treasurers of Syria and Phoinikia that whatever Esdras the priest and reader of law of God Most High may send for, they should give him carefully, up to 100 talents of silver,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:20
-
-Greek: ομοιως δε και εως πυρου κορων εκατον και οινου μετρητων εκατον και αλα εκ πληθους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and likewise up to 100 kors of wheat and 100 measures of wine, and salt in abundance.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:21
-
-Greek: παντα τα κατα τον του θεου νομον επιτελεσθητω επιμελως τω θεω τω υψιστω ενεκα του μη γενεσθαι οργην εις την βασιλειαν του βασιλεως και των υιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Let all things according to law of God be done diligently for God Most High, so that wrath may not come upon kingdom of king and sons.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:22
-
-Greek: και υμιν δε λεγεται οπως πασι τοις ιερευσιν και τοις λευιταις και ιεροψαλταις και θυρωροις και ιεροδουλοις και πραγματικοις του ιερου τουτου μηδεμια φορολογια μηδε αλλη επιβολη γιγνηται και εξουσιαν μηδενα εχειν επιβαλειν τι τουτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And to you it is said that for all priests and Levites and temple-singers and gatekeepers and temple-servants and workers of this sanctuary, no tribute nor any other exaction should be imposed, and no one should have authority to impose anything on these.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:23
-
-Greek: και συ εσδρα κατα την σοφιαν του θεου αναδειξον κριτας και δικαστας οπως δικαζωσιν εν ολη συρια και φοινικη παντας τους επισταμενους τον νομον του θεου σου και τους μη επισταμενους δε διδαξεις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And you, Esdras, according to wisdom of God, appoint judges and magistrates so that they may judge in all Syria and Phoinikia all who know law of your God, and those not knowing you shall teach.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:24
-
-Greek: και παντες οσοι εαν παραβαινωσι τον νομον του θεου σου και τον βασιλικον επιμελως κολασθησονται εαν τε και θανατω εαν τε και τιμωρια η αργυρικη ζημια η απαγωγη
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all who transgress law of your God and king's law will be carefully punished, whether by death or punishment or money-fine or removal.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:25
-
-Greek: ευλογητος μονος ο κυριος ο δους ταυτα εις την καρδιαν του βασιλεως δοξασαι τον οικον αυτου τον εν ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Blessed alone is Lord, who gave these things into heart of king, to glorify his house in Ierousalem,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:26
-
-Greek: και εμε ετιμησεν εναντι του βασιλεως και των συμβουλευοντων και παντων των φιλων και μεγιστανων αυτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and honored me before king and his counselors and all his friends and magnates.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:27
-
-Greek: και εγω ευθαρσης εγενομην κατα την αντιλημψιν κυριου του θεου μου και συνηγαγον εκ του ισραηλ ανδρας ωστε συναναβηναι μοι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I became bold according to help of Lord my God, and I gathered from Israel men to go up with me.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:28
-
-Greek: και ουτοι οι προηγουμενοι κατα τας πατριας αυτων και τας μεριδαρχιας οι αναβαντες μετ' εμου εκ βαβυλωνος εν τη βασιλεια αρταξερξου του βασιλεως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And these are leaders according to their father-houses and their divisions, those going up with me from Babylōn in reign of Artaxerxes the king:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:29
-
-Greek: εκ των υιων φινεες γαρσομος εκ των υιων ιεταμαρου γαμηλος εκ των υιων δαυιδ αττους ο σεχενιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Phinees, Garsomos; from sons of Ietamarou, Gamēlos; from sons of Dauid, Attous son of Secheniou.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:30
-
-Greek: εκ των υιων φορος ζαχαριας και μετ' αυτου απο γραφης ανδρες εκατον πεντηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Phoros, Zacharias, and with him from register 150 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:31
-
-Greek: εκ των υιων φααθμωαβ ελιαωνιας ζαραιου και μετ' αυτου ανδρες διακοσιοι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Phaathmōab, Eliaōnias son of Zaraiou, and with him 200 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:32
-
-Greek: εκ των υιων ζαθοης σεχενιας ιεζηλου και μετ' αυτου ανδρες τριακοσιοι εκ των υιων αδινου βην-ιωναθου και μετ' αυτου ανδρες διακοσιοι πεντηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Zathoēs, Sechenias son of Iezēlou, and with him 300 men; from sons of Adinou, Bēn-Iōnathou, and with him 250 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:33
-
-Greek: εκ των υιων ηλαμ ιεσιας γοθολιου και μετ' αυτου ανδρες εβδομηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Ēlam, Iēsias son of Gotholiou, and with him 70 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:34
-
-Greek: εκ των υιων σαφατιου ζαραιας μιχαηλου και μετ' αυτου ανδρες εβδομηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Saphatiou, Zaraias son of Michaēlou, and with him 70 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:35
-
-Greek: εκ των υιων ιωαβ αβαδιας ιεζηλου και μετ' αυτου ανδρες διακοσιοι δεκα δυο
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Iōab, Abadias son of Iezēlou, and with him 212 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:36
-
-Greek: εκ των υιων βανι ασσαλιμωθ ιωσαφιου και μετ' αυτου ανδρες εκατον εξηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Bani, Assalimōth son of Iōsapiou, and with him 160 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:37
-
-Greek: εκ των υιων βαβι ζαχαριας βηβαι και μετ' αυτου ανδρες εικοσι οκτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Babi, Zacharias son of Bēbai, and with him 28 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:38
-
-Greek: εκ των υιων ασγαθ ιωανης ακαταν και μετ' αυτου ανδρες εκατον δεκα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Asgath, Iōanēs son of Akatan, and with him 110 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:39
-
-Greek: εκ των υιων αδωνικαμ οι εσχατοι και ταυτα τα ονοματα αυτων ελιφαλατος ιεουηλ και σαμαιας και μετ' αυτων ανδρες εβδομηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Adōnikam, the last ones, and these are their names: Eliphalatos, Ieouēl, and Samaias, and with them 70 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:40
-
-Greek: εκ των υιων βαγο ουθι ο του ισταλκουρου και μετ' αυτου ανδρες εβδομηκοντα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Bago, Outhi son of Istalkourou, and with him 70 men.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:41
-
-Greek: και συνηγαγον αυτους επι τον λεγομενον θεραν ποταμον και παρενεβαλομεν αυτοθι ημερας τρεις και κατεμαθον αυτους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I gathered them by river called Thera, and we camped there three days, and I examined them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:42
-
-Greek: και εκ των υιων των ιερεων και εκ των λευιτων ουχ ευρων εκει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And among sons of priests and from Levites I found none there.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:43
-
-Greek: απεστειλα προς ελεαζαρον και ιδουηλον και μαασμαν και ελναταν και σαμαιαν και ιωριβον ναθαν ενναταν ζαχαριαν και μεσολαμον τους ηγουμενους και επιστημονας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: So I sent to Eleazar and Idouēlon and Maasman and Elnathan and Samaian and Iōribon, Nathan, Ennatan, Zacharian, and Mesollamon, the leaders and instructed ones.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:44
-
-Greek: και ειπα αυτοις ελθειν προς αδδαιον τον ηγουμενον τον εν τω τοπω του γαζοφυλακιου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I told them to come to Addaios the leader in place of treasury,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:45
-
-Greek: εντειλαμενος αυτοις διαλεγηναι αδδαιω και τοις αδελφοις αυτου και τοις εν τω τοπω γαζοφυλαξιν αποστειλαι ημιν τους ιερατευσοντας εν τω οικω του κυριου ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: having commanded them to speak with Addaios and his brothers and treasury-keepers in that place to send to us those who would minister in house of our Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:46
-
-Greek: και ηγαγον ημιν κατα την κραταιαν χειρα του κυριου ημων ανδρας επιστημονας των υιων μοολι του λευι του ισραηλ ασεβηβιαν και τους υιους και τους αδελφους δεκα οκτω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And by mighty hand of our Lord they brought to us skilled men from sons of Mooli the Levite of Israel, Asebebias and sons and brothers of him, 18,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:47
-
-Greek: και ασεβιαν και αννουνον και ωσαιαν αδελφον εκ των υιων χανουναιου και οι υιοι αυτων ανδρες εικοσι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and Asebia and Announon and Osaia the brother from sons of Chanounaiou, and their sons, 20.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:48
-
-Greek: και εκ των ιεροδουλων ων εδωκεν δαυιδ και οι ηγουμενοι εις την εργασιαν των λευιτων ιεροδουλοι διακοσιοι εικοσι παντων εσημανθη η ονοματογραφια
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from temple-servants whom Dauid and leaders gave for work of Levites, 220 temple-servants; of all these the name record had been marked.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:49
-
-Greek: και ευξαμην εκει νηστειαν τοις νεανισκοις εναντι του κυριου ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I vowed there a fast for young men before our Lord,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:50
-
-Greek: ζητησαι παρ' αυτου ευοδιαν ημιν τε και τοις συνουσιν ημιν τεκνοις ημων και κτηνεσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to seek from him good journey for us and those with us, our children and cattle.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:51
-
-Greek: ενετραπην γαρ αιτησαι τον βασιλεα πεζους τε και ιππεις και προπομπην ενεκεν ασφαλειας της προς τους εναντιουμενους ημιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For I was ashamed to ask king for infantry and horsemen and escort because of enemies opposing us.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:52
-
-Greek: ειπαμεν γαρ τω βασιλει οτι ισχυς του κυριου ημων εσται μετα των επιζητουντων αυτον εις πασαν επανορθωσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For we had said to king that strength of our Lord would be with those seeking him for every restoration.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:53
-
-Greek: και παλιν εδεηθημεν του κυριου ημων κατα ταυτα και ευιλατου ετυχομεν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And again we begged our Lord concerning these things, and we obtained favorable hearing.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:54
-
-Greek: και εχωρισα των φυλαρχων των ιερεων ανδρας δεκα δυο και σερεβιαν και ασαβιαν και μετ' αυτων εκ των αδελφων αυτων ανδρας δεκα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I separated from chiefs of priests 12 men, and Serebian and Asabian, and with them 10 men from their brothers,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:55
-
-Greek: και εστησα αυτοις το αργυριον και το χρυσιον και τα ιερα σκευη του οικου του κυριου ημων α αυτος εδωρησατο ο βασιλευς και οι συμβουλοι αυτου και οι μεγιστανες και πας ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and I weighed out to them the silver and gold and sacred vessels of house of our Lord, which king himself and his counselors and magnates and all Israel had dedicated.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:56
-
-Greek: και στησας παρεδωκα αυτοις αργυριου ταλαντα εξακοσια πεντηκοντα και σκευη αργυρα ταλαντων εκατον και χρυσιου ταλαντα εκατον και χρυσωματα εικοσι και σκευη χαλκα απο χρηστου χαλκου στιλβοντα χρυσοειδη σκευη δωδεκα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after weighing I handed over to them 650 talents of silver and silver vessels of 100 talents and 100 talents of gold and 20 golden bowls and 12 bronze vessels of good shining bronze, gold-like vessels.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:57
-
-Greek: και ειπα αυτοις και υμεις αγιοι εστε τω κυριω και τα σκευη αγια και το αργυριον και το χρυσιον ευχη τω κυριω κυριω των πατερων ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And I said to them, You are holy to Lord, and vessels are holy, and silver and gold are a vow to Lord, Lord of our fathers.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:58
-
-Greek: αγρυπνειτε και φυλασσετε εως του παραδουναι αυτα υμας τοις φυλαρχοις των ιερεων και των λευιτων και τοις ηγουμενοις των πατριων του ισραηλ εν ιερουσαλημ εν τοις παστοφοριοις του οικου του κυριου ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Keep watch and guard until you hand them over to chiefs of priests and Levites and to leaders of father-houses of Israel in Ierousalem, in chambers of house of our Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:59
-
-Greek: και οι παραλαβοντες οι ιερεις και οι λευιται το αργυριον και το χρυσιον και τα σκευη τα εν ιερουσαλημ εισηνεγκαν εις το ιερον του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And priests and Levites who received silver and gold and vessels brought them into Ierousalem, into sanctuary of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:60
-
-Greek: και αναζευξαντες απο του ποταμου θερα τη δωδεκατη του πρωτου μηνος εισηλθομεν εις ιερουσαλημ κατα την κραταιαν χειρα του κυριου ημων την εφ' ημιν και ερρυσατο ημας επι της εισοδου απο παντος εχθρου και ηλθομεν εις ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after setting out from river Thera on twelfth of first month, we entered into Ierousalem by mighty hand of our Lord upon us, and he rescued us on the way from every enemy, and we came to Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:61
-
-Greek: και γενομενης αυτοθι ημερας τριτης σταθεν το αργυριον και το χρυσιον παρεδοθη εν τω οικω του κυριου ημων μαρμωθι ουρια ιερει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when third day came there, silver and gold were delivered in house of our Lord to Marmōthi, Ourias the priest,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:62
-
-Greek: και μετ' αυτου ελεαζαρ ο του φινεες και ησαν μετ' αυτων ιωσαβδος ιησου και μωεθ σαβαννου οι λευιται προς αριθμον και ολκην απαντα και εγραφη πασα η ολκη αυτων αυτη τη ωρα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and with him Eleazar son of Phinees, and with them Iōsabdos son of Iēsou and Mōeth son of Sabannou, the Levites, by number and weight of all things, and whole weight of them was written in that hour.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:63
-
-Greek: οι δε παραγενομενοι εκ της αιχμαλωσιας προσηνεγκαν θυσιας τω θεω του ισραηλ κυριω ταυρους δωδεκα υπερ παντος ισραηλ κριους ενενηκοντα εξ αρνας εβδομηκοντα δυο τραγους υπερ σωτηριου δεκα δυο απαντα θυσιαν τω κυριω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Those who came from captivity offered sacrifices to Lord God of Israel: 12 bulls for all Israel, 96 rams, 72 lambs, 12 goats for salvation, all as sacrifice to Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:64
-
-Greek: και απεδωκαν τα προσταγματα του βασιλεως τοις βασιλικοις οικονομοις και τοις επαρχοις κοιλης συριας και φοινικης και εδοξασαν το εθνος και το ιερον του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they delivered king's decrees to royal stewards and governors of Coele-Syria and Phoinikia, and they honored nation and sanctuary of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:65
-
-Greek: και τουτων τελεσθεντων προσηλθοσαν μοι οι ηγουμενοι λεγοντες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And when these things were finished, leaders approached me, saying,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:66
-
-Greek: ουκ εχωρισαν το εθνος του ισραηλ και οι αρχοντες και οι ιερεις και οι λευιται τα αλλογενη εθνη της γης και τας ακαθαρσιας αυτων χαναναιων και χετταιων και φερεζαιων και ιεβουσαιων και μωαβιτων και αιγυπτιων και ιδουμαιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: People of Israel and leaders and priests and Levites have not separated from foreign nations of land and from their uncleannesses, from Chananaians and Chettaians and Pherezaians and Iebousaians and Mōabitans and Egyptians and Idoumaians.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:67
-
-Greek: συνωκησαν γαρ μετα των θυγατερων αυτων και αυτοι και οι υιοι αυτων και επεμιγη το σπερμα το αγιον εις τα αλλογενη εθνη της γης και μετειχον οι προηγουμενοι και οι μεγιστανες της ανομιας ταυτης απο της αρχης του πραγματος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For they have dwelt with their daughters, both they and their sons, and holy seed has been mixed with foreign nations of land, and leaders and magnates shared in this lawlessness from beginning of matter.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:68
-
-Greek: και αμα τω ακουσαι με ταυτα διερρηξα τα ιματια και την ιεραν εσθητα και κατετιλα του τριχωματος της κεφαλης και του πωγωνος και εκαθισα συννους και περιλυπος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And as soon as I heard these things, I tore garments and holy robe and plucked hair of head and beard and sat mind-struck and grieved.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:69
-
-Greek: και επισυνηχθησαν προς με οσοι ποτε επεκινουντο τω ρηματι κυριου του ισραηλ εμου πενθουντος επι τη ανομια και εκαθημην περιλυπος εως της δειλινης θυσιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all who were ever stirred by word of Lord of Israel gathered to me while I was mourning over lawlessness, and I sat grieving until evening sacrifice.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:70
-
-Greek: και εξεγερθεις εκ της νηστειας διερρηγμενα εχων τα ιματια και την ιεραν εσθητα καμψας τα γονατα και εκτεινας τας χειρας προς τον κυριον ελεγον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after rising from fasting, with garments and holy robe torn, after bending knees and stretching out hands toward Lord, I said,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:71
-
-Greek: κυριε ησχυμμαι εντετραμμαι κατα προσωπον σου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Lord, I am ashamed, I am confounded before your face.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:72
-
-Greek: αι γαρ αμαρτιαι ημων επλεονασαν υπερ τας κεφαλας ημων αι δε αγνοιαι ημων υπερηνεγκαν εως του ουρανου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For our sins increased above our heads, and our ignorances rose up as far as heaven.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:73
-
-Greek: απο των χρονων των πατερων ημων και εσμεν εν μεγαλη αμαρτια εως της ημερας ταυτης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From times of our fathers we are in great sin until this day.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:74
-
-Greek: και δια τας αμαρτιας ημων και των πατερων ημων παρεδοθημεν συν τοις αδελφοις ημων και συν τοις βασιλευσιν ημων και συν τοις ιερευσιν ημων τοις βασιλευσιν της γης εις ρομφαιαν και αιχμαλωσιαν και προνομην μετα αισχυνης μεχρι της σημερον ημερας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And because of our sins, together with our brothers and with our kings and with our priests we were given over to kings of earth, to sword and captivity and plunder with shame, until this day.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:75
-
-Greek: και νυν κατα ποσον τι εγενηθη ημιν ελεος παρα σου κυριε καταλειφθηναι ημιν ριζαν και ονομα εν τω τοπω του αγιασματος σου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now to some small extent mercy has come to us from you, Lord, to leave to us a root and a name in place of your sanctuary,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:76
-
-Greek: και του ανακαλυψαι φωστηρα ημων εν τω οικω του κυριου ημων δουναι ημιν τροφην εν τω καιρω της δουλειας ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and to uncover our light in house of our Lord, to give us food in time of our slavery.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:77
-
-Greek: και εν τω δουλευειν ημας ουκ εγκατελειφθημεν υπο του κυριου ημων αλλα εποιησεν ημας εν χαριτι ενωπιον των βασιλεων περσων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And while we were enslaved, we were not forsaken by our Lord, but he dealt with us in favor before kings of Persians,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:78
-
-Greek: δουναι ημιν τροφην και δοξασαι το ιερον του κυριου ημων και εγειραι την ερημον σιων δουναι ημιν στερεωμα εν τη ιουδαια και ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: to give us food and to glorify sanctuary of our Lord and to raise desolate Siōn, to give us support in Ioudaia and Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:79
-
-Greek: και νυν τι ερουμεν κυριε εχοντες ταυτα παρεβημεν γαρ τα προσταγματα σου α εδωκας εν χειρι των παιδων σου των προφητων λεγων οτι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now what shall we say, Lord, having these things? For we transgressed your commandments, which you gave by hand of your servants the prophets, saying that
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:80
-
-Greek: η γη εις ην εισερχεσθε κληρονομησαι εστιν γη μεμολυσμενη μολυσμω των αλλογενων της γης και της ακαθαρσιας αυτων ενεπλησαν αυτην
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: land into which you are entering to inherit is a polluted land with pollution of foreigners of land, and with their uncleanness they filled it.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:81
-
-Greek: και νυν τας θυγατερας υμων μη συνοικισητε τοις υιοις αυτων και τας θυγατερας αυτων μη λαβητε τοις υιοις υμων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now do not marry your daughters to their sons, and do not take their daughters for your sons,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:82
-
-Greek: και ου ζητησετε ειρηνευσαι τα προς αυτους τον απαντα χρονον ινα ισχυσαντες φαγητε τα αγαθα της γης και κατακληρονομησητε τοις υιοις υμων εως αιωνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and you shall not seek to make peace with them for all time, so that after becoming strong you may eat good things of land and leave inheritance to your sons forever.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:83
-
-Greek: και τα συμβαινοντα παντα ημιν γιγνεται δια τα εργα ημων τα πονηρα και τας μεγαλας αμαρτιας ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all things happening to us are coming because of our evil works and our great sins.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:84
-
-Greek: συ γαρ κυριε εκουφισας τας αμαρτιας ημων και εδωκας ημιν τοιαυτην ριζαν παλιν ανεκαμψαμεν παραβηναι τον νομον σου εις το επιμιγηναι τη ακαθαρσια των εθνων της γης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: For you, Lord, lightened our sins and gave us such a root. Shall we again turn back to transgress your law by mixing with uncleanness of nations of land?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:85
-
-Greek: ουχι ωργισθης ημιν απολεσαι ημας εως του μη καταλιπειν ριζαν και σπερμα και ονομα ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Were you not angry with us to destroy us, until there should be left neither root nor seed nor our name?
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:86
-
-Greek: κυριε του ισραηλ αληθινος ει κατελειφθημεν γαρ ριζα εν τη σημερον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Lord of Israel, you are true, for we were left as a root to this day.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:87
-
-Greek: ιδου νυν εσμεν ενωπιον σου εν ταις ανομιαις ημων ου γαρ εστιν στηναι ετι εμπροσθεν σου επι τουτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Behold, now we are before you in our lawless acts, for there is no standing any longer before you because of these things.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:88
-
-Greek: και οτε προσευχομενος εσδρας ανθωμολογειτο κλαιων χαμαιπετης εμπροσθεν του ιερου επισυνηχθησαν προς αυτον απο ιερουσαλημ οχλος πολυς σφοδρα ανδρες και γυναικες και νεανιαι κλαυθμος γαρ ην μεγας εν τω πληθει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And while Esdras was praying and confessing, weeping prostrate on ground before sanctuary, a very great crowd gathered to him from Ierousalem, men and women and young people, for there was great weeping in multitude.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:89
-
-Greek: και φωνησας ιεχονιας ιεηλου των υιων ισραηλ ειπεν εσδρα ημεις ημαρτομεν εις τον κυριον και συνωκισαμεν γυναικας αλλογενεις εκ των εθνων της γης και νυν εστιν ελπις τω ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Iechonias son of Ieiēlou from sons of Israel cried out and said, Esdras, we have sinned against Lord and have married foreign women from nations of land, and now there is hope for Israel in this.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:90
-
-Greek: εν τουτω γενεσθω ημιν ορκωμοσια προς τον κυριον εκβαλειν πασας τας γυναικας ημων τας εκ των αλλογενων συν τοις τεκνοις αυτων ως εκριθη σοι και οσοι πειθαρχουσιν τω νομω του κυριου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: In this matter let there be oath for us to Lord, to cast out all our wives from foreigners together with their children, as it was judged by you and by all who obey law of Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:91
-
-Greek: αναστας επιτελει προς σε γαρ το πραγμα και ημεις μετα σου ισχυν ποιειν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Rise up and accomplish it, for matter is on you, and we are with you to act strongly.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 8:92
-
-Greek: και αναστας εσδρας ωρκισεν τους φυλαρχους των ιερεων και λευιτων παντος του ισραηλ ποιησαι κατα ταυτα και ωμοσαν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after Esdras rose up, he made chiefs of priests and Levites and all Israel swear to do according to these things, and they swore.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-## Chapter 9
-
-### Ezra 9:1
-
-Greek: και αναστας εσδρας απο της αυλης του ιερου επορευθη εις το παστοφοριον ιωαναν του ελιασιβου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after Esdras rose from court of sanctuary, he went to chamber of Iōanan son of Eliasib.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:2
-
-Greek: και αυλισθεις εκει αρτου ουκ εγευσατο ουδε υδωρ επιεν πενθων υπερ των ανομιων των μεγαλων του πληθους
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after lodging there, he tasted no bread and drank no water, mourning over great lawlessnesses of multitude.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:3
-
-Greek: και εγενετο κηρυγμα εν ολη τη ιουδαια και ιερουσαλημ πασι τοις εκ της αιχμαλωσιας συναχθηναι εις ιερουσαλημ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And proclamation came to be in all Ioudaia and Ierousalem for all from captivity to gather in Ierousalem.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:4
-
-Greek: και οσοι αν μη απαντησωσιν εν δυσιν η τρισιν ημεραις κατα το κριμα των προκαθημενων πρεσβυτερων ανιερωθησονται τα κτηνη αυτων και αυτος αλλοτριωθησεται απο του πληθους της αιχμαλωσιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And whoever would not arrive in two or three days according to judgment of leaders and elders, their cattle would be devoted and he himself would be alienated from multitude of captivity.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:5
-
-Greek: και επισυνηχθησαν οι εκ της φυλης ιουδα και βενιαμιν εν τρισιν ημεραις εις ιερουσαλημ ουτος ο μην ενατος τη εικαδι του μηνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And those from tribe of Iouda and Beniamin gathered in Ierousalem in three days; this was ninth month, twentieth of month.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:6
-
-Greek: και συνεκαθισαν παν το πληθος εν τη ευρυχωρω του ιερου τρεμοντες δια τον ενεστωτα χειμωνα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all multitude sat in broad place of sanctuary, trembling because of present winter.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:7
-
-Greek: και αναστας εσδρας ειπεν αυτοις υμεις ηνομησατε και συνωκισατε γυναικας αλλογενεις του προσθειναι αμαρτιαν τω ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after Esdras rose he said to them, You acted lawlessly and married foreign women, to add sin to Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:8
-
-Greek: και νυν δοτε ομολογιαν δοξαν τω κυριω θεω των πατερων ημων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And now give confession, glory to Lord God of our fathers,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:9
-
-Greek: και ποιησατε το θελημα αυτου και χωρισθητε απο των εθνων της γης και απο των γυναικων των αλλογενων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and do his will, and separate yourselves from nations of land and from foreign women.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:10
-
-Greek: και εφωνησαν απαν το πληθος και ειπον μεγαλη τη φωνη ουτως ως ειρηκας ποιησομεν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all multitude cried out and said with loud voice, Just as you have said, so we will do.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:11
-
-Greek: αλλα το πληθος πολυ και η ωρα χειμερινη και ουκ ισχυομεν στηναι αιθριοι και ουχ ευρομεν και το εργον ημιν ουκ εστιν ημερας μιας ουδε δυο επι πλειον γαρ ημαρτομεν εν τουτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: But multitude is many, and season is wintry, and we are not able to stand outside, and work for us is not of one day nor two, for we sinned much in these things.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:12
-
-Greek: στητωσαν δε οι προηγουμενοι του πληθους και παντες οι εκ των κατοικιων ημων οσοι εχουσιν γυναικας αλλογενεις παραγενηθητωσαν λαβοντες χρονον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Let leaders of multitude stand, and all in our dwellings who have foreign wives, let them come after taking time,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:13
-
-Greek: και εκαστου δε τοπου τους πρεσβυτερους και τους κριτας εως του λυσαι την οργην του κυριου αφ' ημων του πραγματος τουτου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and with elders and judges of each place, until wrath of Lord concerning this matter is turned away from us.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:14
-
-Greek: ιωναθας αζαηλου και ιεζιας θοκανου επεδεξαντο κατα ταυτα και μοσολλαμος και λευις και σαββαταιος συνεβραβευσαν αυτοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Iōnathas son of Azaēlou and Iezias son of Thokanou undertook it according to these things, and Mosollamos and Leuis and Sabbataios assisted them.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:15
-
-Greek: και εποιησαν κατα παντα ταυτα οι εκ της αιχμαλωσιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And those from captivity did according to all these things.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:16
-
-Greek: και επελεξατο εαυτω εσδρας ο ιερευς ανδρας ηγουμενους των πατριων αυτων κατ' ονομα παντας και συνεκαθισαν τη νουμηνια του μηνος του δεκατου ετασαι το πραγμα
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Esdras the priest chose for himself men, leaders of their fathers, all by name, and they met on new moon of tenth month to examine matter.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:17
-
-Greek: και ηχθη επι περας τα κατα τους ανδρας τους επισυνεχοντας γυναικας αλλογενεις εως της νουμηνιας του πρωτου μηνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And matter concerning men holding foreign wives was brought to completion until new moon of first month.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:18
-
-Greek: και ευρεθησαν των ιερεων οι επισυναχθεντες αλλογενεις γυναικας εχοντες
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And there were found among priests those gathered together having foreign wives:
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:19
-
-Greek: εκ των υιων ιησου του ιωσεδεκ και των αδελφων μασηας και ελεαζαρος και ιωριβος και ιωδανος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From sons of Iēsous son of Iōsedek and his brothers: Masēas and Eleazar and Iōribos and Iōdanos.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:20
-
-Greek: και επεβαλον τας χειρας εκβαλειν τας γυναικας αυτων και εις εξιλασμον κριους υπερ της αγνοιας αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they pledged their hands to cast out their wives, and rams for atonement over their ignorance.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:21
-
-Greek: και εκ των υιων εμμηρ ανανιας και ζαβδαιος και μανης και σαμαιος και ιιηλ και αζαριας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Emmēr: Ananias and Zabdaios and Manēs and Samaios and Iiēl and Azarias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:22
-
-Greek: και εκ των υιων φαισουρ ελιωναις μασσιας ισμαηλος και ναθαναηλος και ωκιδηλος και σαλθας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Phaisour: Eliōnais, Massias, Ismaēlos, and Nathanaēlos and Ōkidēlos and Salthas.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:23
-
-Greek: και εκ των λευιτων ιωζαβδος και σεμεις και κωλιος ουτος καλιτας και παθαιος και ωουδας και ιωανας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from Levites: Iōzabdos and Semeis and Kōlios, this one Kalitas, and Pathaios and Ōoudas and Iōanas.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:24
-
-Greek: εκ των ιεροψαλτων ελιασιβος βακχουρος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From temple-singers: Eliasibos and Bakkouros.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:25
-
-Greek: εκ των θυρωρων σαλλουμος και τολβανης
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From gatekeepers: Salloumos and Tolbanēs.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:26
-
-Greek: εκ του ισραηλ εκ των υιων φορος ιερμας και ιεζιας και μελχιας και μιαμινος και ελεαζαρος και ασιβιας και βανναιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: From Israel, from sons of Phoros: Iermas and Iezias and Melchias and Miaminos and Eleazaros and Asibias and Bannaias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:27
-
-Greek: εκ των υιων ηλαμ ματανιας και ζαχαριας ιεζριηλος και ωβαδιος και ιερεμωθ και ηλιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Ēlam: Matanias and Zacharias, Iezriēlos and Ōbadios and Ieremōth and Ēlias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:28
-
-Greek: και εκ των υιων ζαμοθ ελιαδας ελιασιμος οθονιας ιαριμωθ και σαβαθος και ζερδαιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Zamōth: Eliadas, Eliasimos, Othonias, Iarimōth, and Sabathos and Zerdaias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:29
-
-Greek: και εκ των υιων βηβαι ιωαννης και ανανιας και ζαβδος και εμαθις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Bēbai: Iōannēs and Ananias and Zabdos and Emathis.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:30
-
-Greek: και εκ των υιων μανι ωλαμος μαμουχος ιεδαιος ιασουβος και ασαηλος και ιερεμωθ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Mani: Ōlamos, Mamouchos, Iedaios, Iasoubos, and Asaēlos and Ieremōth.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:31
-
-Greek: και εκ των υιων αδδι νααθος και μοοσσιας λακκουνος και ναιδος και βεσκασπασμυς και σεσθηλ και βαλνουος και μανασσηας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Addi: Naathos and Moossias, Lakkounos and Naidos and Beskaspasmys and Sesthēl and Balnouos and Manassēas.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:32
-
-Greek: και εκ των υιων ανναν ελιωνας και ασαιας και μελχιας και σαββαιας και σιμων χοσαμαιος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Annan: Eliōnas and Asaias and Melchias and Sabbaias and Simōn Chosamaios.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:33
-
-Greek: και εκ των υιων ασομ μαλτανναιος και ματταθιας και σαβανναιους και ελιφαλατ και μανασσης και σεμει
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Asōm: Maltannaios and Mattathias and Sabannaious and Eliphalat and Manassēs and Semei.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:34
-
-Greek: και εκ των υιων βαανι ιερεμιας μομδιος μαηρος ιουηλ μαμδαι και πεδιας και ανως καραβασιων και ελιασιβος και μαμνιταναιμος ελιασις βαννους ελιαλις σομεις σελεμιας ναθανιας και εκ των υιων εζωρα σεσσις εζριλ αζαηλος σαματος ζαμβρις ιωσηπος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Baani: Ieremias, Momdios, Maēros, Iouēl, Mamdai, and Pedias and Anōs, Karabasiōn and Eliasibos and Mamnitanēmos, Eliasis, Bannous, Elialis, Someis, Selemias, Nathanias, and from sons of Ezōra: Sessis, Ezril, Azaēlos, Samatos, Zambris, Iōsēpos.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:35
-
-Greek: και εκ των υιων νοομα μαζιτιας ζαβαδαιας ηδαις ιουηλ βαναιας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And from sons of Nooma: Maziitias, Zabadaias, Ēdais, Iouēl, Bannaias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:36
-
-Greek: παντες ουτοι συνωκισαν γυναικας αλλογενεις και απελυσαν αυτας συν τεκνοις
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: All these had dwelt with foreign women, and they sent them away with children.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:37
-
-Greek: και κατωκησαν οι ιερεις και οι λευιται και οι εκ του ισραηλ εν ιερουσαλημ και εν τη χωρα τη νουμηνια του εβδομου μηνος και οι υιοι ισραηλ εν ταις κατοικιαις αυτων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And priests and Levites and those from Israel dwelt in Ierousalem and in country on new moon of seventh month, and sons of Israel were in their dwellings.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:38
-
-Greek: και συνηχθη παν το πληθος ομοθυμαδον επι το ευρυχωρον του προς ανατολας του ιερου πυλωνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all crowd gathered with one accord in broad place of eastward gate of sanctuary.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:39
-
-Greek: και ειπον εσδρα τω αρχιερει και αναγνωστη κομισαι τον νομον μωυσεως τον παραδοθεντα υπο του κυριου θεου ισραηλ
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And they said to Esdras the high priest and reader to bring law of Mōusēs, the one delivered by Lord God of Israel.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:40
-
-Greek: και εκομισεν εσδρας ο αρχιερευς τον νομον παντι τω πληθει απο ανθρωπου εως γυναικος και πασιν τοις ιερευσιν ακουσαι του νομου νουμηνια του εβδομου μηνος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Esdras the high priest brought the law to all crowd, from man to woman, and to all priests to hear the law, on new moon of seventh month.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:41
-
-Greek: και ανεγιγνωσκεν εν τω προ του ιερου πυλωνος ευρυχωρω απο ορθρου εως μεσημβρινου ενωπιον ανδρων τε και γυναικων και επεδωκαν παν το πληθος τον νουν εις τον νομον
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And he read in broad place before gate of sanctuary from dawn until midday, before men and women, and all crowd gave mind to law.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:42
-
-Greek: και εστη εσδρας ο ιερευς και αναγνωστης του νομου επι του ξυλινου βηματος του κατασκευασθεντος
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Esdras the priest and reader of law stood upon wooden platform made for that purpose.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:43
-
-Greek: και εστησαν παρ' αυτω ματταθιας σαμμους ανανιας αζαριας ουριας εζεκιας βααλσαμος εκ δεξιων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And there stood beside him Mattathias, Sammous, Ananias, Azarias, Ourias, Ezekias, Baalsamos on the right,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:44
-
-Greek: και εξ ευωνυμων φαδαιος μισαηλ μελχιας λωθασουβος ναβαριας ζαχαριας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: and on the left Phadaios, Misaēl, Melchias, Lōthasoubos, Nabarias, Zacharias.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:45
-
-Greek: και αναλαβων εσδρας το βιβλιον του νομου ενωπιον του πληθους προεκαθητο γαρ επιδοξως ενωπιον παντων
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And after Esdras took book of law before crowd, for he had prominence before all,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:46
-
-Greek: και εν τω λυσαι τον νομον παντες ορθοι εστησαν και ευλογησεν εσδρας τω κυριω θεω υψιστω θεω σαβαωθ παντοκρατορι
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: when he opened the law, all stood upright, and Esdras blessed Lord God Most High, God of hosts, Almighty.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:47
-
-Greek: και επεφωνησεν παν το πληθος αμην και αραντες ανω τας χειρας προσπεσοντες επι την γην προσεκυνησαν τω κυριω
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all crowd cried Amen, and after raising hands upward, falling on earth they worshiped Lord.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:48
-
-Greek: ιησους και αννιουθ και σαραβιας ιαδινος ιακουβος σαββαταιος αυταιας μαιαννας και καλιτας αζαριας και ιωζαβδος ανανιας φαλιας οι λευιται εδιδασκον τον νομον κυριου και προς το πληθος ανεγινωσκον τον νομον του κυριου εμφυσιουντες αμα την αναγνωσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: Iēsous and Anniouth and Sarabias, Iadinos, Iakoubos, Sabbataios, Autaeas, Maiannas, Kalitas, Azarias, Iōzabdos, Ananias, Phalias, the Levites, were teaching law of Lord and reading law of Lord to crowd, inspiring them together with the reading.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:49
-
-Greek: και ειπεν ατταρατης εσδρα τω αρχιερει και αναγνωστη και τοις λευιταις τοις διδασκουσι το πληθος επι παντας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Attarates said to Esdras the high priest and reader and to Levites teaching crowd, before all,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:50
-
-Greek: η ημερα αυτη εστιν αγια τω κυριω και παντες εκλαιον εν τω ακουσαι του νομου
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: This day is holy to Lord, and all were weeping in hearing the law.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:51
-
-Greek: βαδισαντες ουν φαγετε λιπασματα και πιετε γλυκασματα και αποστειλατε αποστολας τοις μη εχουσιν
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: After going, eat rich foods and drink sweet things and send portions to those who do not have,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:52
-
-Greek: αγια γαρ η ημερα τω κυριω και μη λυπεισθε ο γαρ κυριος δοξασει υμας
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: for day is holy to Lord, and do not be grieved, for Lord will glorify you.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:53
-
-Greek: και οι λευιται εκελευον τω δημω παντι λεγοντες η ημερα αυτη αγια μη λυπεισθε
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And Levites were commanding all people, saying, This day is holy, do not be grieved.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:54
-
-Greek: και ωχοντο παντες φαγειν και πιειν και ευφραινεσθαι και δουναι αποστολας τοις μη εχουσιν και ευφρανθηναι μεγαλως
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: And all went away to eat and drink and to give portions to those who did not have and to rejoice greatly,
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-### Ezra 9:55
-
-Greek: οτι και ενεφυσιωθησαν εν τοις ρημασιν οις εδιδαχθησαν και επισυνηχθησαν .
-Transliteration: [TODO]
-Literal gloss: [TODO]
-Syntax notes: [TODO]
-Draft translation: because they also had been instructed in words which they were taught, and they had been gathered together.
-
-Decision rows:
-- [TODO add decision rows]
-
-Publishable footnotes:
-- [TODO add footnote draft if needed]
-
-Logos research:
-- [TODO add Logos note]
-
-Variant notes:
-- [TODO add variant note]
-
-# Nehemiah
-
-## Chapter 1
-
-### Nehemiah 1:1
-
 Greek: και εν τω πρωτω ετει κυρου του βασιλεως περσων του τελεσθηναι λογον κυριου απο στοματος ιερεμιου εξηγειρεν κυριος το πνευμα κυρου βασιλεως περσων και παρηγγειλεν φωνην εν παση βασιλεια αυτου και γε εν γραπτω λεγων
 Transliteration: [TODO]
 Literal gloss: [TODO]
@@ -246357,7 +237657,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:2
+### Ezra 1:2
 
 Greek: ουτως ειπεν κυρος βασιλευς περσων πασας τας βασιλειας της γης εδωκεν μοι κυριος ο θεος του ουρανου και αυτος επεσκεψατο επ' εμε του οικοδομησαι αυτω οικον εν ιερουσαλημ τη εν τη ιουδαια
 Transliteration: [TODO]
@@ -246377,7 +237677,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:3
+### Ezra 1:3
 
 Greek: τις εν υμιν απο παντος του λαου αυτου και εσται ο θεος αυτου μετ' αυτου και αναβησεται εις ιερουσαλημ την εν τη ιουδαια και οικοδομησατω τον οικον θεου ισραηλ αυτος ο θεος ο εν ιερουσαλημ
 Transliteration: [TODO]
@@ -246397,7 +237697,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:4
+### Ezra 1:4
 
 Greek: και πας ο καταλειπομενος απο παντων των τοπων ου αυτος παροικει εκει και λημψονται αυτον ανδρες του τοπου αυτου εν αργυριω και χρυσιω και αποσκευη και κτηνεσιν μετα του εκουσιου εις οικον του θεου του εν ιερουσαλημ
 Transliteration: [TODO]
@@ -246417,7 +237717,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:5
+### Ezra 1:5
 
 Greek: και ανεστησαν αρχοντες των πατριων τω ιουδα και βενιαμιν και οι ιερεις και οι λευιται παντων ων εξηγειρεν ο θεος το πνευμα αυτων του αναβηναι οικοδομησαι τον οικον κυριου τον εν ιερουσαλημ
 Transliteration: [TODO]
@@ -246437,7 +237737,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:6
+### Ezra 1:6
 
 Greek: και παντες οι κυκλοθεν ενισχυσαν εν χερσιν αυτων εν σκευεσιν αργυριου εν χρυσω εν αποσκευη και εν κτηνεσιν και εν ξενιοις παρεξ των εν εκουσιοις
 Transliteration: [TODO]
@@ -246457,7 +237757,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:7
+### Ezra 1:7
 
 Greek: και ο βασιλευς κυρος εξηνεγκεν τα σκευη οικου κυριου α ελαβεν ναβουχοδονοσορ απο ιερουσαλημ και εδωκεν αυτα εν οικω θεου αυτου
 Transliteration: [TODO]
@@ -246477,7 +237777,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:8
+### Ezra 1:8
 
 Greek: και εξηνεγκεν αυτα κυρος βασιλευς περσων επι χειρα μιθραδατου γασβαρηνου και ηριθμησεν αυτα τω σασαβασαρ αρχοντι του ιουδα
 Transliteration: [TODO]
@@ -246497,7 +237797,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:9
+### Ezra 1:9
 
 Greek: και ουτος ο αριθμος αυτων ψυκτηρες χρυσοι τριακοντα και ψυκτηρες αργυροι χιλιοι παρηλλαγμενα εννεα και εικοσι
 Transliteration: [TODO]
@@ -246517,7 +237817,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:10
+### Ezra 1:10
 
 Greek: κεφφουρη χρυσοι τριακοντα και αργυροι διακοσιοι και σκευη ετερα χιλια
 Transliteration: [TODO]
@@ -246537,7 +237837,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 1:11
+### Ezra 1:11
 
 Greek: παντα τα σκευη τω χρυσω και τω αργυρω πεντακισχιλια και τετρακοσια τα παντα αναβαινοντα μετα σασαβασαρ απο της αποικιας εκ βαβυλωνος εις ιερουσαλημ
 Transliteration: [TODO]
@@ -246559,7 +237859,7 @@ Variant notes:
 
 ## Chapter 2
 
-### Nehemiah 2:1
+### Ezra 2:1
 
 Greek: και ουτοι οι υιοι της χωρας οι αναβαινοντες απο της αιχμαλωσιας της αποικιας ης απωκισεν ναβουχοδονοσορ βασιλευς βαβυλωνος εις βαβυλωνα και επεστρεψαν εις ιερουσαλημ και ιουδα ανηρ εις πολιν αυτου
 Transliteration: [TODO]
@@ -246579,7 +237879,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:2
+### Ezra 2:2
 
 Greek: οι ηλθον μετα ζοροβαβελ ιησους νεεμιας σαραιας ρεελιας μαρδοχαιος βαλασαν μασφαρ βαγουι ρεουμ βαανα ανδρων αριθμος λαου ισραηλ
 Transliteration: [TODO]
@@ -246599,7 +237899,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:3
+### Ezra 2:3
 
 Greek: υιοι φορος δισχιλιοι εκατον εβδομηκοντα δυο
 Transliteration: [TODO]
@@ -246619,7 +237919,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:4
+### Ezra 2:4
 
 Greek: υιοι σαφατια τριακοσιοι εβδομηκοντα δυο
 Transliteration: [TODO]
@@ -246639,7 +237939,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:5
+### Ezra 2:5
 
 Greek: υιοι ηρα επτακοσιοι εβδομηκοντα πεντε
 Transliteration: [TODO]
@@ -246659,7 +237959,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:6
+### Ezra 2:6
 
 Greek: υιοι φααθμωαβ τοις υιοις ιησουε ιωαβ δισχιλιοι οκτακοσιοι δεκα δυο
 Transliteration: [TODO]
@@ -246679,7 +237979,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:7
+### Ezra 2:7
 
 Greek: υιοι αιλαμ χιλιοι διακοσιοι πεντηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -246699,7 +237999,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:8
+### Ezra 2:8
 
 Greek: υιοι ζαθουα εννακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -246719,7 +238019,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:9
+### Ezra 2:9
 
 Greek: υιοι ζακχου επτακοσιοι εξηκοντα
 Transliteration: [TODO]
@@ -246739,7 +238039,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:10
+### Ezra 2:10
 
 Greek: υιοι βανουι εξακοσιοι τεσσαρακοντα δυο
 Transliteration: [TODO]
@@ -246759,7 +238059,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:11
+### Ezra 2:11
 
 Greek: υιοι βαβι εξακοσιοι εικοσι τρεις
 Transliteration: [TODO]
@@ -246779,7 +238079,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:12
+### Ezra 2:12
 
 Greek: υιοι ασγαδ τρισχιλιοι διακοσιοι εικοσι δυο
 Transliteration: [TODO]
@@ -246799,7 +238099,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:13
+### Ezra 2:13
 
 Greek: υιοι αδωνικαμ εξακοσιοι εξηκοντα εξ
 Transliteration: [TODO]
@@ -246819,7 +238119,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:14
+### Ezra 2:14
 
 Greek: υιοι βαγοι δισχιλιοι πεντηκοντα εξ
 Transliteration: [TODO]
@@ -246839,7 +238139,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:15
+### Ezra 2:15
 
 Greek: υιοι αδιν τετρακοσιοι πεντηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -246859,7 +238159,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:16
+### Ezra 2:16
 
 Greek: υιοι ατηρ τω εζεκια ενενηκοντα οκτω
 Transliteration: [TODO]
@@ -246879,7 +238179,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:17
+### Ezra 2:17
 
 Greek: υιοι βασου τριακοσιοι εικοσι τρεις
 Transliteration: [TODO]
@@ -246899,7 +238199,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:18
+### Ezra 2:18
 
 Greek: υιοι ιωρα εκατον δεκα δυο
 Transliteration: [TODO]
@@ -246919,7 +238219,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:19
+### Ezra 2:19
 
 Greek: υιοι ασεμ διακοσιοι εικοσι τρεις
 Transliteration: [TODO]
@@ -246939,7 +238239,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:20
+### Ezra 2:20
 
 Greek: υιοι γαβερ ενενηκοντα πεντε
 Transliteration: [TODO]
@@ -246959,7 +238259,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:21
+### Ezra 2:21
 
 Greek: υιοι βαιθλεεμ εκατον εικοσι τρεις
 Transliteration: [TODO]
@@ -246979,7 +238279,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:22
+### Ezra 2:22
 
 Greek: υιοι νετωφα πεντηκοντα εξ
 Transliteration: [TODO]
@@ -246999,7 +238299,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:23
+### Ezra 2:23
 
 Greek: υιοι αναθωθ εκατον εικοσι οκτω
 Transliteration: [TODO]
@@ -247019,7 +238319,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:24
+### Ezra 2:24
 
 Greek: υιοι ασμωθ τεσσαρακοντα δυο
 Transliteration: [TODO]
@@ -247039,7 +238339,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:25
+### Ezra 2:25
 
 Greek: υιοι καριαθιαριμ καφιρα και βηρωθ επτακοσιοι τεσσαρακοντα τρεις
 Transliteration: [TODO]
@@ -247059,7 +238359,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:26
+### Ezra 2:26
 
 Greek: υιοι αραμα και γαβαα εξακοσιοι εικοσι εις
 Transliteration: [TODO]
@@ -247079,7 +238379,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:27
+### Ezra 2:27
 
 Greek: ανδρες μαχμας εκατον εικοσι δυο
 Transliteration: [TODO]
@@ -247099,7 +238399,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:28
+### Ezra 2:28
 
 Greek: ανδρες βαιθηλ και αια τετρακοσιοι εικοσι τρεις
 Transliteration: [TODO]
@@ -247119,7 +238419,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:29
+### Ezra 2:29
 
 Greek: υιοι ναβου πεντηκοντα δυο
 Transliteration: [TODO]
@@ -247139,7 +238439,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:30
+### Ezra 2:30
 
 Greek: υιοι μαγεβως εκατον πεντηκοντα εξ
 Transliteration: [TODO]
@@ -247159,7 +238459,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:31
+### Ezra 2:31
 
 Greek: υιοι ηλαμ-αρ χιλιοι διακοσιοι πεντηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -247179,7 +238479,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:32
+### Ezra 2:32
 
 Greek: υιοι ηραμ τριακοσιοι εικοσι
 Transliteration: [TODO]
@@ -247199,7 +238499,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:33
+### Ezra 2:33
 
 Greek: υιοι λοδ αρωθ και ωνω επτακοσιοι εικοσι πεντε
 Transliteration: [TODO]
@@ -247219,7 +238519,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:34
+### Ezra 2:34
 
 Greek: υιοι ιεριχω τριακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -247239,7 +238539,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:35
+### Ezra 2:35
 
 Greek: υιοι σαναα τρισχιλιοι εξακοσιοι τριακοντα
 Transliteration: [TODO]
@@ -247259,7 +238559,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:36
+### Ezra 2:36
 
 Greek: και οι ιερεις υιοι ιεδουα τω οικω ιησου εννακοσιοι εβδομηκοντα τρεις
 Transliteration: [TODO]
@@ -247279,7 +238579,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:37
+### Ezra 2:37
 
 Greek: υιοι εμμηρ χιλιοι πεντηκοντα δυο
 Transliteration: [TODO]
@@ -247299,7 +238599,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:38
+### Ezra 2:38
 
 Greek: υιοι φασσουρ χιλιοι διακοσιοι τεσσαρακοντα επτα
 Transliteration: [TODO]
@@ -247319,7 +238619,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:39
+### Ezra 2:39
 
 Greek: υιοι ηρεμ χιλιοι επτα
 Transliteration: [TODO]
@@ -247339,7 +238639,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:40
+### Ezra 2:40
 
 Greek: και οι λευιται υιοι ιησου και καδμιηλ τοις υιοις ωδουια εβδομηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -247359,7 +238659,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:41
+### Ezra 2:41
 
 Greek: οι αδοντες υιοι ασαφ εκατον εικοσι οκτω
 Transliteration: [TODO]
@@ -247379,7 +238679,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:42
+### Ezra 2:42
 
 Greek: υιοι των πυλωρων υιοι σαλουμ υιοι ατηρ υιοι τελμων υιοι ακουβ υιοι ατιτα υιοι σαβαου οι παντες εκατον τριακοντα εννεα
 Transliteration: [TODO]
@@ -247399,7 +238699,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:43
+### Ezra 2:43
 
 Greek: οι ναθιναιοι υιοι σουια υιοι ασουφε υιοι ταβαωθ
 Transliteration: [TODO]
@@ -247419,7 +238719,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:44
+### Ezra 2:44
 
 Greek: υιοι κηραος υιοι σωηα υιοι φαδων
 Transliteration: [TODO]
@@ -247439,7 +238739,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:45
+### Ezra 2:45
 
 Greek: υιοι λαβανω υιοι αγαβα υιοι ακαβωθ
 Transliteration: [TODO]
@@ -247459,7 +238759,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:46
+### Ezra 2:46
 
 Greek: υιοι αγαβ υιοι σαμαλαι υιοι αναν
 Transliteration: [TODO]
@@ -247479,7 +238779,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:47
+### Ezra 2:47
 
 Greek: υιοι κεδελ υιοι γαερ υιοι ρεηα
 Transliteration: [TODO]
@@ -247499,7 +238799,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:48
+### Ezra 2:48
 
 Greek: υιοι ρασων υιοι νεκωδα υιοι γαζεμ
 Transliteration: [TODO]
@@ -247519,7 +238819,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:49
+### Ezra 2:49
 
 Greek: υιοι ουσα υιοι φαση υιοι βασι
 Transliteration: [TODO]
@@ -247539,7 +238839,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:50
+### Ezra 2:50
 
 Greek: υιοι ασενα υιοι μαωνιμ υιοι ναφισων
 Transliteration: [TODO]
@@ -247559,7 +238859,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:51
+### Ezra 2:51
 
 Greek: υιοι βακβουκ υιοι ακιφα υιοι αρουρ
 Transliteration: [TODO]
@@ -247579,7 +238879,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:52
+### Ezra 2:52
 
 Greek: υιοι βασαλωθ υιοι μαουδα υιοι αρησα
 Transliteration: [TODO]
@@ -247599,7 +238899,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:53
+### Ezra 2:53
 
 Greek: υιοι βαρκους υιοι σισαρα υιοι θεμα
 Transliteration: [TODO]
@@ -247619,7 +238919,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:54
+### Ezra 2:54
 
 Greek: υιοι νασουε υιοι ατουφα
 Transliteration: [TODO]
@@ -247639,7 +238939,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:55
+### Ezra 2:55
 
 Greek: υιοι αβδησελμα υιοι σατι υιοι ασεφηραθ υιοι φαδουρα
 Transliteration: [TODO]
@@ -247659,7 +238959,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:56
+### Ezra 2:56
 
 Greek: υιοι ιεηλα υιοι δαρκων υιοι γεδηλ
 Transliteration: [TODO]
@@ -247679,7 +238979,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:57
+### Ezra 2:57
 
 Greek: υιοι σαφατια υιοι ατιλ υιοι φαχεραθ-ασεβωιν υιοι ημι
 Transliteration: [TODO]
@@ -247699,7 +238999,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:58
+### Ezra 2:58
 
 Greek: παντες οι ναθινιν και υιοι αβδησελμα τριακοσιοι ενενηκοντα δυο
 Transliteration: [TODO]
@@ -247719,7 +239019,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:59
+### Ezra 2:59
 
 Greek: και ουτοι οι αναβαντες απο θελμελεθ θελαρησα χαρουβ ηδαν εμμηρ και ουκ ηδυνασθησαν του αναγγειλαι οικον πατριας αυτων και σπερμα αυτων ει εξ ισραηλ εισιν
 Transliteration: [TODO]
@@ -247739,7 +239039,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:60
+### Ezra 2:60
 
 Greek: υιοι δαλαια υιοι βουα υιοι τωβια υιοι νεκωδα εξακοσιοι πεντηκοντα δυο
 Transliteration: [TODO]
@@ -247759,7 +239059,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:61
+### Ezra 2:61
 
 Greek: και απο των υιων των ιερεων υιοι χαβια υιοι ακους υιοι βερζελλαι ος ελαβεν απο θυγατερων βερζελλαι του γαλααδιτου γυναικα και εκληθη επι τω ονοματι αυτων
 Transliteration: [TODO]
@@ -247779,7 +239079,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:62
+### Ezra 2:62
 
 Greek: ουτοι εζητησαν γραφην αυτων οι μεθωεσιμ και ουχ ευρεθησαν και ηγχιστευθησαν απο της ιερατειας
 Transliteration: [TODO]
@@ -247799,7 +239099,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:63
+### Ezra 2:63
 
 Greek: και ειπεν αθερσαθα αυτοις του μη φαγειν απο του αγιου των αγιων εως αναστη ιερευς τοις φωτιζουσιν και τοις τελειοις
 Transliteration: [TODO]
@@ -247819,7 +239119,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:64
+### Ezra 2:64
 
 Greek: πασα δε η εκκλησια ως εις τεσσαρες μυριαδες δισχιλιοι τριακοσιοι εξηκοντα
 Transliteration: [TODO]
@@ -247839,7 +239139,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:65
+### Ezra 2:65
 
 Greek: χωρις δουλων αυτων και παιδισκων αυτων ουτοι επτακισχιλιοι τριακοσιοι τριακοντα επτα και ουτοι αδοντες και αδουσαι διακοσιοι
 Transliteration: [TODO]
@@ -247859,7 +239159,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:66
+### Ezra 2:66
 
 Greek: ιπποι αυτων επτακοσιοι τριακοντα εξ ημιονοι αυτων διακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -247879,7 +239179,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:67
+### Ezra 2:67
 
 Greek: καμηλοι αυτων τετρακοσιοι τριακοντα πεντε ονοι αυτων εξακισχιλιοι επτακοσιοι εικοσι
 Transliteration: [TODO]
@@ -247899,7 +239199,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:68
+### Ezra 2:68
 
 Greek: και απο αρχοντων πατριων εν τω ελθειν αυτους εις οικον κυριου τον εν ιερουσαλημ ηκουσιασαντο εις οικον του θεου του στησαι αυτον επι την ετοιμασιαν αυτου
 Transliteration: [TODO]
@@ -247919,7 +239219,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:69
+### Ezra 2:69
 
 Greek: ως η δυναμις αυτων εδωκαν εις θησαυρον του εργου χρυσιον καθαρον μναι εξ μυριαδες και χιλιαι και αργυριον μναι πεντακισχιλιαι και κοθωνοι των ιερεων εκατον
 Transliteration: [TODO]
@@ -247939,7 +239239,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 2:70
+### Ezra 2:70
 
 Greek: και εκαθισαν οι ιερεις και οι λευιται και οι απο του λαου και οι αδοντες και οι πυλωροι και οι ναθινιμ εν πολεσιν αυτων και πας ισραηλ εν πολεσιν αυτων
 Transliteration: [TODO]
@@ -247961,7 +239261,7 @@ Variant notes:
 
 ## Chapter 3
 
-### Nehemiah 3:1
+### Ezra 3:1
 
 Greek: και εφθασεν ο μην ο εβδομος και οι υιοι ισραηλ εν πολεσιν αυτων και συνηχθη ο λαος ως ανηρ εις εις ιερουσαλημ
 Transliteration: [TODO]
@@ -247981,7 +239281,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:2
+### Ezra 3:2
 
 Greek: και ανεστη ιησους ο του ιωσεδεκ και οι αδελφοι αυτου ιερεις και ζοροβαβελ ο του σαλαθιηλ και οι αδελφοι αυτου και ωκοδομησαν το θυσιαστηριον θεου ισραηλ του ανενεγκαι επ' αυτο ολοκαυτωσεις κατα τα γεγραμμενα εν νομω μωυση ανθρωπου του θεου
 Transliteration: [TODO]
@@ -248001,7 +239301,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:3
+### Ezra 3:3
 
 Greek: και ητοιμασαν το θυσιαστηριον επι την ετοιμασιαν αυτου οτι εν καταπληξει επ' αυτους απο των λαων των γαιων και ανεβη επ' αυτο ολοκαυτωσις τω κυριω το πρωι και εις εσπεραν
 Transliteration: [TODO]
@@ -248021,7 +239321,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:4
+### Ezra 3:4
 
 Greek: και εποιησαν την εορτην των σκηνων κατα το γεγραμμενον και ολοκαυτωσεις ημεραν εν ημερα εν αριθμω ως η κρισις λογον ημερας εν ημερα αυτου
 Transliteration: [TODO]
@@ -248041,7 +239341,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:5
+### Ezra 3:5
 
 Greek: και μετα τουτο ολοκαυτωσεις ενδελεχισμου και εις τας νουμηνιας και εις πασας εορτας τας ηγιασμενας και παντι εκουσιαζομενω εκουσιον τω κυριω
 Transliteration: [TODO]
@@ -248061,7 +239361,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:6
+### Ezra 3:6
 
 Greek: εν ημερα μια του μηνος του εβδομου ηρξαντο αναφερειν ολοκαυτωσεις τω κυριω και ο οικος κυριου ουκ εθεμελιωθη
 Transliteration: [TODO]
@@ -248081,7 +239381,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:7
+### Ezra 3:7
 
 Greek: και εδωκαν αργυριον τοις λατομοις και τοις τεκτοσιν και βρωματα και ποτα και ελαιον τοις σηδανιν και τοις σωριν ενεγκαι ξυλα κεδρινα απο του λιβανου προς θαλασσαν ιοππης κατ' επιχωρησιν κυρου βασιλεως περσων επ' αυτους
 Transliteration: [TODO]
@@ -248101,7 +239401,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:8
+### Ezra 3:8
 
 Greek: και εν τω ετει τω δευτερω του ελθειν αυτους εις οικον του θεου εις ιερουσαλημ εν μηνι τω δευτερω ηρξατο ζοροβαβελ ο του σαλαθιηλ και ιησους ο του ιωσεδεκ και οι καταλοιποι των αδελφων αυτων οι ιερεις και οι λευιται και παντες οι ερχομενοι απο της αιχμαλωσιας εις ιερουσαλημ και εστησαν τους λευιτας απο εικοσαετους και επανω επι τους ποιουντας τα εργα εν οικω κυριου
 Transliteration: [TODO]
@@ -248121,7 +239421,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:9
+### Ezra 3:9
 
 Greek: και εστη ιησους και οι υιοι αυτου και οι αδελφοι αυτου καδμιηλ και οι υιοι αυτου υιοι ιουδα επι τους ποιουντας τα εργα εν οικω του θεου υιοι ηναδαδ υιοι αυτων και αδελφοι αυτων οι λευιται
 Transliteration: [TODO]
@@ -248141,7 +239441,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:10
+### Ezra 3:10
 
 Greek: και εθεμελιωσαν του οικοδομησαι τον οικον κυριου και εστησαν οι ιερεις εστολισμενοι εν σαλπιγξιν και οι λευιται υιοι ασαφ εν κυμβαλοις του αινειν τον κυριον επι χειρας δαυιδ βασιλεως ισραηλ
 Transliteration: [TODO]
@@ -248161,7 +239461,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:11
+### Ezra 3:11
 
 Greek: και απεκριθησαν εν αινω και ανθομολογησει τω κυριω οτι αγαθον οτι εις τον αιωνα το ελεος αυτου επι ισραηλ και πας ο λαος εσημαινον φωνην μεγαλην αινειν τω κυριω επι θεμελιωσει οικου κυριου
 Transliteration: [TODO]
@@ -248181,7 +239481,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:12
+### Ezra 3:12
 
 Greek: και πολλοι απο των ιερεων και των λευιτων και αρχοντες των πατριων οι πρεσβυτεροι οι ειδοσαν τον οικον τον πρωτον εν θεμελιωσει αυτου και τουτον τον οικον εν οφθαλμοις αυτων εκλαιον φωνη μεγαλη και οχλος εν σημασια μετ' ευφροσυνης του υψωσαι ωδην
 Transliteration: [TODO]
@@ -248201,7 +239501,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 3:13
+### Ezra 3:13
 
 Greek: και ουκ ην ο λαος επιγινωσκων φωνην σημασιας της ευφροσυνης απο της φωνης του κλαυθμου του λαου οτι ο λαος εκραυγασεν φωνη μεγαλη και η φωνη ηκουετο εως απο μακροθεν
 Transliteration: [TODO]
@@ -248223,7 +239523,7 @@ Variant notes:
 
 ## Chapter 4
 
-### Nehemiah 4:1
+### Ezra 4:1
 
 Greek: και ηκουσαν οι θλιβοντες ιουδα και βενιαμιν οτι οι υιοι της αποικιας οικοδομουσιν οικον τω κυριω θεω ισραηλ
 Transliteration: [TODO]
@@ -248243,7 +239543,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:2
+### Ezra 4:2
 
 Greek: και ηγγισαν προς ζοροβαβελ και προς τους αρχοντας των πατριων και ειπαν αυτοις οικοδομησομεν μεθ' υμων οτι ως υμεις εκζητουμεν τω θεω υμων και αυτω ημεις θυσιαζομεν απο ημερων ασαραδδων βασιλεως ασσουρ του ενεγκαντος ημας ωδε
 Transliteration: [TODO]
@@ -248263,7 +239563,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:3
+### Ezra 4:3
 
 Greek: και ειπεν προς αυτους ζοροβαβελ και ιησους και οι καταλοιποι των αρχοντων των πατριων του ισραηλ ουχ ημιν και υμιν του οικοδομησαι οικον τω θεω ημων οτι ημεις αυτοι επι το αυτο οικοδομησομεν τω κυριω θεω ημων ως ενετειλατο ημιν κυρος ο βασιλευς περσων
 Transliteration: [TODO]
@@ -248283,7 +239583,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:4
+### Ezra 4:4
 
 Greek: και ην ο λαος της γης εκλυων τας χειρας του λαου ιουδα και ενεποδιζον αυτους του οικοδομειν
 Transliteration: [TODO]
@@ -248303,7 +239603,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:5
+### Ezra 4:5
 
 Greek: και μισθουμενοι επ' αυτους βουλευομενοι του διασκεδασαι βουλην αυτων πασας τας ημερας κυρου βασιλεως περσων και εως βασιλειας δαρειου βασιλεως περσων
 Transliteration: [TODO]
@@ -248323,7 +239623,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:6
+### Ezra 4:6
 
 Greek: και εν βασιλεια ασουηρου εν αρχη βασιλειας αυτου εγραψαν επιστολην επι οικουντας ιουδα και ιερουσαλημ
 Transliteration: [TODO]
@@ -248343,7 +239643,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:7
+### Ezra 4:7
 
 Greek: και εν ημεραις αρθασασθα εγραψεν εν ειρηνη μιθραδατη ταβεηλ συν και τοις λοιποις συνδουλοις αυτου προς αρθασασθα βασιλεα περσων εγραψεν ο φορολογος γραφην συριστι και ηρμηνευμενην
 Transliteration: [TODO]
@@ -248363,7 +239663,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:8
+### Ezra 4:8
 
 Greek: ραουμ βααλταμ και σαμσαι ο γραμματευς εγραψαν επιστολην μιαν κατα ιερουσαλημ τω αρθασασθα βασιλει
 Transliteration: [TODO]
@@ -248383,7 +239683,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:9
+### Ezra 4:9
 
 Greek: ταδε εκρινεν ραουμ βααλταμ και σαμσαι ο γραμματευς και οι καταλοιποι συνδουλοι ημων διναιοι αφαρσαθαχαιοι ταρφαλλαιοι αφαρσαιοι αρχυαιοι βαβυλωνιοι σουσαναχαιοι οι εισιν ηλαμαιοι
 Transliteration: [TODO]
@@ -248403,7 +239703,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:10
+### Ezra 4:10
 
 Greek: και οι καταλοιποι εθνων ων απωκισεν ασενναφαρ ο μεγας και ο τιμιος και κατωκισεν αυτους εν πολεσιν της σομορων και το καταλοιπον περαν του ποταμου
 Transliteration: [TODO]
@@ -248423,7 +239723,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:11
+### Ezra 4:11
 
 Greek: αυτη η διαταγη της επιστολης ης απεστειλαν προς αυτον προς αρθασασθα βασιλεα παιδες σου ανδρες περαν του ποταμου
 Transliteration: [TODO]
@@ -248443,7 +239743,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:12
+### Ezra 4:12
 
 Greek: γνωστον εστω τω βασιλει οτι οι ιουδαιοι αναβαντες απο σου εφ' ημας ηλθοσαν εις ιερουσαλημ την πολιν την αποστατιν και πονηραν οικοδομουσιν και τα τειχη αυτης κατηρτισμενοι εισιν και θεμελιους αυτης ανυψωσαν
 Transliteration: [TODO]
@@ -248463,7 +239763,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:13
+### Ezra 4:13
 
 Greek: νυν ουν γνωστον εστω τω βασιλει οτι εαν η πολις εκεινη ανοικοδομηθη και τα τειχη αυτης καταρτισθωσιν φοροι ουκ εσονται σοι ουδε δωσουσιν και τουτο βασιλεις κακοποιει
 Transliteration: [TODO]
@@ -248483,7 +239783,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:14
+### Ezra 4:14
 
 Greek: και ασχημοσυνην βασιλεως ουκ εξεστιν ημιν ιδειν δια τουτο επεμψαμεν και εγνωρισαμεν τω βασιλει
 Transliteration: [TODO]
@@ -248503,7 +239803,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:15
+### Ezra 4:15
 
 Greek: ινα επισκεψηται εν βιβλιω υπομνηματισμου των πατερων σου και ευρησεις και γνωση οτι η πολις εκεινη πολις αποστατις και κακοποιουσα βασιλεις και χωρας και φυγαδια δουλων εν μεσω αυτης απο χρονων αιωνος δια ταυτα η πολις αυτη ηρημωθη
 Transliteration: [TODO]
@@ -248523,7 +239823,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:16
+### Ezra 4:16
 
 Greek: γνωριζομεν ουν ημεις τω βασιλει οτι εαν η πολις εκεινη οικοδομηθη και τα τειχη αυτης καταρτισθη ουκ εστιν σοι ειρηνη
 Transliteration: [TODO]
@@ -248543,7 +239843,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:17
+### Ezra 4:17
 
 Greek: και απεστειλεν ο βασιλευς προς ραουμ βααλταμ και σαμσαι γραμματεα και τους καταλοιπους συνδουλους αυτων τους οικουντας εν σαμαρεια και τους καταλοιπους περαν του ποταμου ειρηνην και φησιν
 Transliteration: [TODO]
@@ -248563,7 +239863,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:18
+### Ezra 4:18
 
 Greek: ο φορολογος ον απεστειλατε προς ημας εκληθη εμπροσθεν εμου
 Transliteration: [TODO]
@@ -248583,7 +239883,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:19
+### Ezra 4:19
 
 Greek: και παρ' εμου ετεθη γνωμη και επεσκεψαμεθα και ευραμεν οτι η πολις εκεινη αφ' ημερων αιωνος επι βασιλεις επαιρεται και αποστασεις και φυγαδια γινονται εν αυτη
 Transliteration: [TODO]
@@ -248603,7 +239903,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:20
+### Ezra 4:20
 
 Greek: και βασιλεις ισχυροι γινονται επι ιερουσαλημ και επικρατουντες ολης της εσπερας του ποταμου και φοροι πληρεις και μερος διδοται αυτοις
 Transliteration: [TODO]
@@ -248623,7 +239923,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:21
+### Ezra 4:21
 
 Greek: και νυν θετε γνωμην καταργησαι τους ανδρας εκεινους και η πολις εκεινη ουκ οικοδομηθησεται ετι οπως απο της γνωμης
 Transliteration: [TODO]
@@ -248643,7 +239943,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:22
+### Ezra 4:22
 
 Greek: πεφυλαγμενοι ητε ανεσιν ποιησαι περι τουτου μηποτε πληθυνθη αφανισμος εις κακοποιησιν βασιλευσιν
 Transliteration: [TODO]
@@ -248663,7 +239963,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:23
+### Ezra 4:23
 
 Greek: τοτε ο φορολογος του αρθασασθα βασιλεως ανεγνω ενωπιον ραουμ και σαμσαι γραμματεως και συνδουλων αυτων και επορευθησαν σπουδη εις ιερουσαλημ και εν ιουδα και κατηργησαν αυτους εν ιπποις και δυναμει
 Transliteration: [TODO]
@@ -248683,7 +239983,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 4:24
+### Ezra 4:24
 
 Greek: τοτε ηργησεν το εργον οικου του θεου του εν ιερουσαλημ και ην αργουν εως δευτερου ετους της βασιλειας δαρειου του βασιλεως περσων
 Transliteration: [TODO]
@@ -248705,7 +240005,7 @@ Variant notes:
 
 ## Chapter 5
 
-### Nehemiah 5:1
+### Ezra 5:1
 
 Greek: και επροφητευσεν αγγαιος ο προφητης και ζαχαριας ο του αδδω προφητειαν επι τους ιουδαιους τους εν ιουδα και ιερουσαλημ εν ονοματι θεου ισραηλ επ' αυτους
 Transliteration: [TODO]
@@ -248725,7 +240025,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:2
+### Ezra 5:2
 
 Greek: τοτε ανεστησαν ζοροβαβελ ο του σαλαθιηλ και ιησους ο υιος ιωσεδεκ και ηρξαντο οικοδομησαι τον οικον του θεου τον εν ιερουσαλημ και μετ' αυτων οι προφηται του θεου βοηθουντες αυτοις
 Transliteration: [TODO]
@@ -248745,7 +240045,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:3
+### Ezra 5:3
 
 Greek: εν αυτω τω καιρω ηλθεν επ' αυτους θανθαναι επαρχος περαν του ποταμου και σαθαρβουζανα και οι συνδουλοι αυτων και τοια ειπαν αυτοις τις εθηκεν υμιν γνωμην του οικοδομησαι τον οικον τουτον και την χορηγιαν ταυτην καταρτισασθαι
 Transliteration: [TODO]
@@ -248765,7 +240065,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:4
+### Ezra 5:4
 
 Greek: τοτε ταυτα ειποσαν αυτοις τινα εστιν τα ονοματα των ανδρων των οικοδομουντων την πολιν ταυτην
 Transliteration: [TODO]
@@ -248785,7 +240085,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:5
+### Ezra 5:5
 
 Greek: και οι οφθαλμοι του θεου επι την αιχμαλωσιαν ιουδα και ου κατηργησαν αυτους εως γνωμη τω δαρειω απηνεχθη και τοτε απεσταλη τω φορολογω υπερ τουτου
 Transliteration: [TODO]
@@ -248805,7 +240105,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:6
+### Ezra 5:6
 
 Greek: διασαφησις επιστολης ης απεστειλεν θανθαναι ο επαρχος του περαν του ποταμου και σαθαρβουζανα και οι συνδουλοι αυτων αφαρσαχαιοι οι εν τω περαν του ποταμου δαρειω τω βασιλει
 Transliteration: [TODO]
@@ -248825,7 +240125,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:7
+### Ezra 5:7
 
 Greek: ρησιν απεστειλαν προς αυτον και ταδε γεγραπται εν αυτω δαρειω τω βασιλει ειρηνη πασα
 Transliteration: [TODO]
@@ -248845,7 +240145,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:8
+### Ezra 5:8
 
 Greek: γνωστον εστω τω βασιλει οτι επορευθημεν εις την ιουδαιαν χωραν εις οικον του θεου του μεγαλου και αυτος οικοδομειται λιθοις εκλεκτοις και ξυλα εντιθεται εν τοις τοιχοις και το εργον εκεινο επιδεξιον γινεται και ευοδουται εν ταις χερσιν αυτων
 Transliteration: [TODO]
@@ -248865,7 +240165,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:9
+### Ezra 5:9
 
 Greek: τοτε ηρωτησαμεν τους πρεσβυτερους εκεινους και ουτως ειπαμεν αυτοις τις εθηκεν υμιν γνωμην τον οικον τουτον οικοδομησαι και την χορηγιαν ταυτην καταρτισασθαι
 Transliteration: [TODO]
@@ -248885,7 +240185,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:10
+### Ezra 5:10
 
 Greek: και τα ονοματα αυτων ηρωτησαμεν αυτους γνωρισαι σοι ωστε γραψαι σοι τα ονοματα των ανδρων των αρχοντων αυτων
 Transliteration: [TODO]
@@ -248905,7 +240205,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:11
+### Ezra 5:11
 
 Greek: και τοιουτο ρημα απεκριθησαν ημιν λεγοντες ημεις εσμεν δουλοι του θεου του ουρανου και της γης και οικοδομουμεν τον οικον ος ην ωκοδομημενος προ τουτου ετη πολλα και βασιλευς του ισραηλ μεγας ωκοδομησεν αυτον και κατηρτισατο αυτον
 Transliteration: [TODO]
@@ -248925,7 +240225,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:12
+### Ezra 5:12
 
 Greek: αυτοις αφ' οτε δε παρωργισαν οι πατερες ημων τον θεον του ουρανου εδωκεν αυτους εις χειρας ναβουχοδονοσορ βασιλεως βαβυλωνος του χαλδαιου και τον οικον τουτον κατελυσεν και τον λαον απωκισεν εις βαβυλωνα
 Transliteration: [TODO]
@@ -248945,7 +240245,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:13
+### Ezra 5:13
 
 Greek: αλλ' εν ετει πρωτω κυρου του βασιλεως κυρος ο βασιλευς εθετο γνωμην τον οικον του θεου τουτον οικοδομηθηναι
 Transliteration: [TODO]
@@ -248965,7 +240265,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:14
+### Ezra 5:14
 
 Greek: και τα σκευη του οικου του θεου τα χρυσα και τα αργυρα α ναβουχοδονοσορ εξηνεγκεν απο οικου του εν ιερουσαλημ και απηνεγκεν αυτα εις ναον του βασιλεως εξηνεγκεν αυτα κυρος ο βασιλευς απο ναου του βασιλεως και εδωκεν τω σασαβασαρ τω θησαυροφυλακι τω επι του θησαυρου
 Transliteration: [TODO]
@@ -248985,7 +240285,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:15
+### Ezra 5:15
 
 Greek: και ειπεν αυτω παντα τα σκευη λαβε και πορευου θες αυτα εν τω οικω τω εν ιερουσαλημ εις τον εαυτων τοπον
 Transliteration: [TODO]
@@ -249005,7 +240305,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:16
+### Ezra 5:16
 
 Greek: τοτε σασαβασαρ εκεινος ηλθεν και εδωκεν θεμελιους του οικου του θεου του εν ιερουσαλημ και απο τοτε εως του νυν ωκοδομηθη και ουκ ετελεσθη
 Transliteration: [TODO]
@@ -249025,7 +240325,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 5:17
+### Ezra 5:17
 
 Greek: και νυν ει επι τον βασιλεα αγαθον επισκεπητω εν οικω της γαζης του βασιλεως βαβυλωνος οπως γνως οτι απο βασιλεως κυρου ετεθη γνωμη οικοδομησαι τον οικον του θεου εκεινον τον εν ιερουσαλημ και γνους ο βασιλευς περι τουτου πεμψατω προς ημας
 Transliteration: [TODO]
@@ -249047,7 +240347,7 @@ Variant notes:
 
 ## Chapter 6
 
-### Nehemiah 6:1
+### Ezra 6:1
 
 Greek: τοτε δαρειος ο βασιλευς εθηκεν γνωμην και επεσκεψατο εν ταις βιβλιοθηκαις οπου η γαζα κειται εν βαβυλωνι
 Transliteration: [TODO]
@@ -249067,7 +240367,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:2
+### Ezra 6:2
 
 Greek: και ευρεθη εν πολει εν τη βαρει της μηδων πολεως κεφαλις μια και τουτο ην γεγραμμενον εν αυτη υπομνημα
 Transliteration: [TODO]
@@ -249087,7 +240387,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:3
+### Ezra 6:3
 
 Greek: εν ετει πρωτω κυρου βασιλεως κυρος ο βασιλευς εθηκεν γνωμην περι οικου του θεου του εν ιερουσαλημ οικος οικοδομηθητω και τοπος ου θυσιαζουσιν τα θυσιασματα και εθηκεν επαρμα υψος πηχεις εξηκοντα πλατος αυτου πηχεων εξηκοντα
 Transliteration: [TODO]
@@ -249107,7 +240407,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:4
+### Ezra 6:4
 
 Greek: και δομοι λιθινοι κραταιοι τρεις και δομος ξυλινος εις και η δαπανη εξ οικου του βασιλεως δοθησεται
 Transliteration: [TODO]
@@ -249127,7 +240427,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:5
+### Ezra 6:5
 
 Greek: και τα σκευη οικου του θεου τα αργυρα και τα χρυσα α ναβουχοδονοσορ εξηνεγκεν απο οικου του εν ιερουσαλημ και εκομισεν εις βαβυλωνα και δοθητω και απελθατω εις τον ναον τον εν ιερουσαλημ επι τοπου ου ετεθη εν οικω του θεου
 Transliteration: [TODO]
@@ -249147,7 +240447,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:6
+### Ezra 6:6
 
 Greek: νυν δωσετε επαρχοι περαν του ποταμου σαθαρβουζανα και οι συνδουλοι αυτων αφαρσαχαιοι οι εν περα του ποταμου μακραν οντες εκειθεν
 Transliteration: [TODO]
@@ -249167,7 +240467,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:7
+### Ezra 6:7
 
 Greek: αφετε το εργον οικου του θεου οι αφηγουμενοι των ιουδαιων και οι πρεσβυτεροι των ιουδαιων οικον του θεου εκεινον οικοδομειτωσαν επι του τοπου αυτου
 Transliteration: [TODO]
@@ -249187,7 +240487,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:8
+### Ezra 6:8
 
 Greek: και απ' εμου ετεθη γνωμη μηποτε τι ποιησητε μετα των πρεσβυτερων των ιουδαιων του οικοδομησαι οικον του θεου εκεινον και απο υπαρχοντων βασιλεως των φορων περαν του ποταμου επιμελως δαπανη εστω διδομενη τοις ανδρασιν εκεινοις το μη καταργηθηναι
 Transliteration: [TODO]
@@ -249207,7 +240507,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:9
+### Ezra 6:9
 
 Greek: και ο αν υστερημα και υιους βοων και κριων και αμνους εις ολοκαυτωσεις τω θεω του ουρανου πυρους αλας οινον ελαιον κατα το ρημα των ιερεων των εν ιερουσαλημ εστω διδομενον αυτοις ημεραν εν ημερα ο εαν αιτησωσιν
 Transliteration: [TODO]
@@ -249227,7 +240527,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:10
+### Ezra 6:10
 
 Greek: ινα ωσιν προσφεροντες ευωδιας τω θεω του ουρανου και προσευχωνται εις ζωην του βασιλεως και των υιων αυτου
 Transliteration: [TODO]
@@ -249247,7 +240547,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:11
+### Ezra 6:11
 
 Greek: και απ' εμου ετεθη γνωμη οτι πας ανθρωπος ος αλλαξει το ρημα τουτο καθαιρεθησεται ξυλον εκ της οικιας αυτου και ωρθωμενος παγησεται επ' αυτου και ο οικος αυτου το κατ' εμε ποιηθησεται
 Transliteration: [TODO]
@@ -249267,7 +240567,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:12
+### Ezra 6:12
 
 Greek: και ο θεος ου κατασκηνοι το ονομα εκει καταστρεψει παντα βασιλεα και λαον ος εκτενει την χειρα αυτου αλλαξαι η αφανισαι τον οικον του θεου εκεινον τον εν ιερουσαλημ εγω δαρειος εθηκα γνωμην επιμελως εσται
 Transliteration: [TODO]
@@ -249287,7 +240587,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:13
+### Ezra 6:13
 
 Greek: τοτε θανθαναι επαρχος περαν του ποταμου σαθαρβουζανα και οι συνδουλοι αυτου προς ο απεστειλεν δαρειος ο βασιλευς ουτως εποιησαν επιμελως
 Transliteration: [TODO]
@@ -249307,7 +240607,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:14
+### Ezra 6:14
 
 Greek: και οι πρεσβυτεροι των ιουδαιων ωκοδομουσαν και οι λευιται εν προφητεια αγγαιου του προφητου και ζαχαριου υιου αδδω και ανωκοδομησαν και κατηρτισαντο απο γνωμης θεου ισραηλ και απο γνωμης κυρου και δαρειου και αρθασασθα βασιλεων περσων
 Transliteration: [TODO]
@@ -249327,7 +240627,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:15
+### Ezra 6:15
 
 Greek: και ετελεσαν τον οικον τουτον εως ημερας τριτης μηνος αδαρ ο εστιν ετος εκτον τη βασιλεια δαρειου του βασιλεως
 Transliteration: [TODO]
@@ -249347,7 +240647,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:16
+### Ezra 6:16
 
 Greek: και εποιησαν οι υιοι ισραηλ οι ιερεις και οι λευιται και οι καταλοιποι υιων αποικεσιας εγκαινια του οικου του θεου εν ευφροσυνη
 Transliteration: [TODO]
@@ -249367,7 +240667,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:17
+### Ezra 6:17
 
 Greek: και προσηνεγκαν εις τα εγκαινια του οικου του θεου μοσχους εκατον κριους διακοσιους αμνους τετρακοσιους χιμαρους αιγων περι αμαρτιας υπερ παντος ισραηλ δωδεκα εις αριθμον φυλων ισραηλ
 Transliteration: [TODO]
@@ -249387,7 +240687,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:18
+### Ezra 6:18
 
 Greek: και εστησαν τους ιερεις εν διαιρεσεσιν αυτων και τους λευιτας εν μερισμοις αυτων επι δουλεια θεου του εν ιερουσαλημ κατα την γραφην βιβλιου μωυση
 Transliteration: [TODO]
@@ -249407,7 +240707,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:19
+### Ezra 6:19
 
 Greek: και εποιησαν οι υιοι της αποικεσιας το πασχα τη τεσσαρεσκαιδεκατη του μηνος του πρωτου
 Transliteration: [TODO]
@@ -249427,7 +240727,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:20
+### Ezra 6:20
 
 Greek: οτι εκαθαρισθησαν οι ιερεις και οι λευιται εως εις παντες καθαροι και εσφαξαν το πασχα τοις πασιν υιοις της αποικεσιας και τοις αδελφοις αυτων τοις ιερευσιν και εαυτοις
 Transliteration: [TODO]
@@ -249447,7 +240747,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:21
+### Ezra 6:21
 
 Greek: και εφαγον οι υιοι ισραηλ το πασχα οι απο της αποικεσιας και πας ο χωριζομενος της ακαθαρσιας εθνων της γης προς αυτους του εκζητησαι κυριον θεον ισραηλ
 Transliteration: [TODO]
@@ -249467,7 +240767,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 6:22
+### Ezra 6:22
 
 Greek: και εποιησαν την εορτην των αζυμων επτα ημερας εν ευφροσυνη οτι ευφρανεν αυτους κυριος και επεστρεψεν καρδιαν βασιλεως ασσουρ επ' αυτους κραταιωσαι τας χειρας αυτων εν εργοις οικου του θεου ισραηλ
 Transliteration: [TODO]
@@ -249489,7 +240789,7 @@ Variant notes:
 
 ## Chapter 7
 
-### Nehemiah 7:1
+### Ezra 7:1
 
 Greek: και μετα τα ρηματα ταυτα εν βασιλεια αρθασασθα βασιλεως περσων ανεβη εσδρας υιος σαραιου υιου αζαριου υιου ελκια
 Transliteration: [TODO]
@@ -249509,7 +240809,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:2
+### Ezra 7:2
 
 Greek: υιου σαλουμ υιου σαδδουκ υιου αχιτωβ
 Transliteration: [TODO]
@@ -249529,7 +240829,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:3
+### Ezra 7:3
 
 Greek: υιου σαμαρια υιου εσρια υιου μαρερωθ
 Transliteration: [TODO]
@@ -249549,7 +240849,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:4
+### Ezra 7:4
 
 Greek: υιου ζαραια υιου σαουια υιου βοκκι
 Transliteration: [TODO]
@@ -249569,7 +240869,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:5
+### Ezra 7:5
 
 Greek: υιου αβισουε υιου φινεες υιου ελεαζαρ υιου ααρων του ιερεως του πρωτου
 Transliteration: [TODO]
@@ -249589,7 +240889,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:6
+### Ezra 7:6
 
 Greek: αυτος εσδρας ανεβη εκ βαβυλωνος και αυτος γραμματευς ταχυς εν νομω μωυση ον εδωκεν κυριος ο θεος ισραηλ και εδωκεν αυτω ο βασιλευς οτι χειρ κυριου θεου αυτου επ' αυτον εν πασιν οις εζητει αυτος
 Transliteration: [TODO]
@@ -249609,7 +240909,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:7
+### Ezra 7:7
 
 Greek: και ανεβησαν απο υιων ισραηλ και απο των ιερεων και απο των λευιτων και οι αδοντες και οι πυλωροι και οι ναθινιμ εις ιερουσαλημ εν ετει εβδομω τω αρθασασθα τω βασιλει
 Transliteration: [TODO]
@@ -249629,7 +240929,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:8
+### Ezra 7:8
 
 Greek: και ηλθοσαν εις ιερουσαλημ τω μηνι τω πεμπτω τουτο ετος εβδομον τω βασιλει
 Transliteration: [TODO]
@@ -249649,7 +240949,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:9
+### Ezra 7:9
 
 Greek: οτι εν μια του μηνος του πρωτου αυτος εθεμελιωσεν την αναβασιν την απο βαβυλωνος εν δε τη πρωτη του μηνος του πεμπτου ηλθοσαν εις ιερουσαλημ οτι χειρ θεου αυτου ην αγαθη επ' αυτον
 Transliteration: [TODO]
@@ -249669,7 +240969,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:10
+### Ezra 7:10
 
 Greek: οτι εσδρας εδωκεν εν καρδια αυτου ζητησαι τον νομον και ποιειν και διδασκειν εν ισραηλ προσταγματα και κριματα
 Transliteration: [TODO]
@@ -249689,7 +240989,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:11
+### Ezra 7:11
 
 Greek: και αυτη η διασαφησις του διαταγματος ου εδωκεν αρθασασθα τω εσδρα τω ιερει τω γραμματει βιβλιου λογων εντολων κυριου και προσταγματων αυτου επι τον ισραηλ
 Transliteration: [TODO]
@@ -249709,7 +241009,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:12
+### Ezra 7:12
 
 Greek: αρθασασθα βασιλευς βασιλεων εσδρα γραμματει νομου του θεου του ουρανου τετελεσται ο λογος και η αποκρισις
 Transliteration: [TODO]
@@ -249729,7 +241029,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:13
+### Ezra 7:13
 
 Greek: απ' εμου ετεθη γνωμη οτι πας ο εκουσιαζομενος εν βασιλεια μου απο λαου ισραηλ και ιερεων και λευιτων πορευθηναι εις ιερουσαλημ μετα σου πορευθηναι
 Transliteration: [TODO]
@@ -249749,7 +241049,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:14
+### Ezra 7:14
 
 Greek: απο προσωπου του βασιλεως και των επτα συμβουλων απεσταλη επισκεψασθαι επι την ιουδαιαν και εις ιερουσαλημ νομω θεου αυτων τω εν χειρι σου
 Transliteration: [TODO]
@@ -249769,7 +241069,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:15
+### Ezra 7:15
 
 Greek: και εις οικον κυριου αργυριον και χρυσιον ο ο βασιλευς και οι συμβουλοι ηκουσιασθησαν τω θεω του ισραηλ τω εν ιερουσαλημ κατασκηνουντι
 Transliteration: [TODO]
@@ -249789,7 +241089,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:16
+### Ezra 7:16
 
 Greek: και παν αργυριον και χρυσιον ο τι εαν ευρης εν παση χωρα βαβυλωνος μετα εκουσιασμου του λαου και ιερεων των εκουσιαζομενων εις οικον θεου τον εν ιερουσαλημ
 Transliteration: [TODO]
@@ -249809,7 +241109,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:17
+### Ezra 7:17
 
 Greek: και παν προσπορευομενον τουτον ετοιμως ενταξον εν βιβλιω τουτω μοσχους κριους αμνους και θυσιας αυτων και σπονδας αυτων και προσοισεις αυτα επι θυσιαστηριου του οικου του θεου υμων του εν ιερουσαλημ
 Transliteration: [TODO]
@@ -249829,7 +241129,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:18
+### Ezra 7:18
 
 Greek: και ει τι επι σε και τους αδελφους σου αγαθυνθη εν καταλοιπω του αργυριου και του χρυσιου ποιησαι ως αρεστον τω θεω υμων ποιησατε
 Transliteration: [TODO]
@@ -249849,7 +241149,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:19
+### Ezra 7:19
 
 Greek: και τα σκευη τα διδομενα σοι εις λειτουργιαν οικου θεου παραδος ενωπιον του θεου εν ιερουσαλημ
 Transliteration: [TODO]
@@ -249869,7 +241169,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:20
+### Ezra 7:20
 
 Greek: και καταλοιπον χρειας οικου θεου σου ο αν φανη σοι δουναι δωσεις απο οικων γαζης βασιλεως
 Transliteration: [TODO]
@@ -249889,7 +241189,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:21
+### Ezra 7:21
 
 Greek: και απ' εμου εγω αρθασασθα βασιλευς εθηκα γνωμην πασαις ταις γαζαις ταις εν περα του ποταμου οτι παν ο αν αιτηση υμας εσδρας ο ιερευς και γραμματευς του νομου του θεου του ουρανου ετοιμως γιγνεσθω
 Transliteration: [TODO]
@@ -249909,7 +241209,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:22
+### Ezra 7:22
 
 Greek: εως αργυριου ταλαντων εκατον και εως πυρου κορων εκατον και εως οινου βαδων εκατον και εως ελαιου βαδων εκατον και αλας ου ουκ εστιν γραφη
 Transliteration: [TODO]
@@ -249929,7 +241229,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:23
+### Ezra 7:23
 
 Greek: παν ο εστιν εν γνωμη θεου του ουρανου γιγνεσθω προσεχετε μη τις επιχειρηση εις οικον θεου του ουρανου μηποτε γενηται οργη επι την βασιλειαν του βασιλεως και των υιων αυτου
 Transliteration: [TODO]
@@ -249949,7 +241249,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:24
+### Ezra 7:24
 
 Greek: και υμιν εγνωρισται εν πασιν τοις ιερευσιν και τοις λευιταις αδουσιν πυλωροις ναθινιμ και λειτουργοις οικου θεου τουτου φορος μη εστω σοι ουκ εξουσιασεις καταδουλουσθαι αυτους
 Transliteration: [TODO]
@@ -249969,7 +241269,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:25
+### Ezra 7:25
 
 Greek: και συ εσδρα ως η σοφια του θεου εν χειρι σου καταστησον γραμματεις και κριτας ινα ωσιν κρινοντες παντι τω λαω τω εν περα του ποταμου πασιν τοις ειδοσιν νομον του θεου σου και τω μη ειδοτι γνωριειτε
 Transliteration: [TODO]
@@ -249989,7 +241289,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:26
+### Ezra 7:26
 
 Greek: και πας ος αν μη η ποιων νομον του θεου και νομον του βασιλεως ετοιμως το κριμα εσται γιγνομενον εξ αυτου εαν τε εις θανατον εαν τε εις παιδειαν εαν τε εις ζημιαν του βιου εαν τε εις δεσμα
 Transliteration: [TODO]
@@ -250009,7 +241309,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:27
+### Ezra 7:27
 
 Greek: ευλογητος κυριος ο θεος των πατερων ημων ος εδωκεν ουτως εν καρδια του βασιλεως του δοξασαι τον οικον κυριου τον εν ιερουσαλημ
 Transliteration: [TODO]
@@ -250029,7 +241329,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 7:28
+### Ezra 7:28
 
 Greek: και επ' εμε εκλινεν ελεος εν οφθαλμοις του βασιλεως και των συμβουλων αυτου και παντων των αρχοντων του βασιλεως των επηρμενων και εγω εκραταιωθην ως χειρ θεου η αγαθη επ' εμε και συνηξα απο ισραηλ αρχοντας αναβηναι μετ' εμου
 Transliteration: [TODO]
@@ -250051,7 +241351,7 @@ Variant notes:
 
 ## Chapter 8
 
-### Nehemiah 8:1
+### Ezra 8:1
 
 Greek: και ουτοι οι αρχοντες πατριων αυτων οι οδηγοι αναβαινοντες μετ' εμου εν βασιλεια αρθασασθα του βασιλεως βαβυλωνος
 Transliteration: [TODO]
@@ -250071,7 +241371,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:2
+### Ezra 8:2
 
 Greek: απο υιων φινεες γηρσωμ απο υιων ιθαμαρ δανιηλ απο υιων δαυιδ ατους
 Transliteration: [TODO]
@@ -250091,7 +241391,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:3
+### Ezra 8:3
 
 Greek: απο υιων σαχανια απο υιων φορος ζαχαριας και μετ' αυτου το συστρεμμα εκατον και πεντηκοντα
 Transliteration: [TODO]
@@ -250111,7 +241411,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:4
+### Ezra 8:4
 
 Greek: απο υιων φααθμωαβ ελιανα υιος ζαραια και μετ' αυτου διακοσιοι τα αρσενικα
 Transliteration: [TODO]
@@ -250131,7 +241431,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:5
+### Ezra 8:5
 
 Greek: απο υιων ζαθοης σεχενιας υιος αζιηλ και μετ' αυτου τριακοσιοι τα αρσενικα
 Transliteration: [TODO]
@@ -250151,7 +241451,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:6
+### Ezra 8:6
 
 Greek: και απο υιων αδιν ωβηθ υιος ιωναθαν και μετ' αυτου πεντηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250171,7 +241471,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:7
+### Ezra 8:7
 
 Greek: και απο υιων ηλαμ ιεσια υιος αθελια και μετ' αυτου εβδομηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250191,7 +241491,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:8
+### Ezra 8:8
 
 Greek: και απο υιων σαφατια ζαβδια υιος μιχαηλ και μετ' αυτου ογδοηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250211,7 +241511,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:9
+### Ezra 8:9
 
 Greek: και απο υιων ιωαβ αβαδια υιος ιιηλ και μετ' αυτου διακοσιοι δεκα οκτω τα αρσενικα
 Transliteration: [TODO]
@@ -250231,7 +241531,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:10
+### Ezra 8:10
 
 Greek: και απο υιων βαανι σαλιμουθ υιος ιωσεφια και μετ' αυτου εκατον εξηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250251,7 +241551,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:11
+### Ezra 8:11
 
 Greek: και απο υιων βαβι ζαχαρια υιος βαβι και μετ' αυτου εβδομηκοντα οκτω τα αρσενικα
 Transliteration: [TODO]
@@ -250271,7 +241571,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:12
+### Ezra 8:12
 
 Greek: και απο υιων ασγαδ ιωαναν υιος ακαταν και μετ' αυτου εκατον δεκα τα αρσενικα
 Transliteration: [TODO]
@@ -250291,7 +241591,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:13
+### Ezra 8:13
 
 Greek: και απο υιων αδωνικαμ εσχατοι και ταυτα τα ονοματα αυτων αλιφαλατ ιιηλ και σαμαια και μετ' αυτων εξηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250311,7 +241611,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:14
+### Ezra 8:14
 
 Greek: και απο υιων βαγο ουθι και μετ' αυτου εβδομηκοντα τα αρσενικα
 Transliteration: [TODO]
@@ -250331,7 +241631,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:15
+### Ezra 8:15
 
 Greek: και συνηξα αυτους προς τον ποταμον τον ερχομενον προς τον ευι και παρενεβαλομεν εκει ημερας τρεις και συνηκα εν τω λαω και εν τοις ιερευσιν και απο υιων λευι ουχ ευρον εκει
 Transliteration: [TODO]
@@ -250351,7 +241651,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:16
+### Ezra 8:16
 
 Greek: και απεστειλα τω ελεαζαρ τω αριηλ τω σαμαια και τω αλωναμ και τω ιαριβ και τω ελναθαν και τω ναθαν και τω ζαχαρια και τω μεσουλαμ ανδρας και τω ιωαριβ και τω ελναθαν συνιοντας
 Transliteration: [TODO]
@@ -250371,7 +241671,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:17
+### Ezra 8:17
 
 Greek: και εξηνεγκα αυτους επι αρχοντος εν αργυριω του τοπου και εθηκα εν στοματι αυτων λογους λαλησαι προς τους αδελφους αυτων τους ναθινιμ εν αργυριω του τοπου του ενεγκαι ημιν αδοντας εις οικον θεου ημων
 Transliteration: [TODO]
@@ -250391,7 +241691,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:18
+### Ezra 8:18
 
 Greek: και ηλθοσαν ημιν ως χειρ θεου ημων αγαθη εφ' ημας ανηρ σαχωλ απο υιων μοολι υιου λευι υιου ισραηλ και αρχην ηλθοσαν υιοι αυτου και αδελφοι αυτου οκτωκαιδεκα
 Transliteration: [TODO]
@@ -250411,7 +241711,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:19
+### Ezra 8:19
 
 Greek: και τον ασεβια και τον ωσαιαν απο υιων μεραρι αδελφοι αυτου και υιοι αυτων εικοσι
 Transliteration: [TODO]
@@ -250431,7 +241731,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:20
+### Ezra 8:20
 
 Greek: και απο των ναθινιμ ων εδωκεν δαυιδ και οι αρχοντες εις δουλειαν των λευιτων ναθινιμ διακοσιοι και εικοσι παντες συνηχθησαν εν ονομασιν
 Transliteration: [TODO]
@@ -250451,7 +241751,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:21
+### Ezra 8:21
 
 Greek: και εκαλεσα εκει νηστειαν επι τον ποταμον αουε του ταπεινωθηναι ενωπιον θεου ημων ζητησαι παρ' αυτου οδον ευθειαν ημιν και τοις τεκνοις ημων και παση τη κτησει ημων
 Transliteration: [TODO]
@@ -250471,7 +241771,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:22
+### Ezra 8:22
 
 Greek: οτι ησχυνθην αιτησασθαι παρα του βασιλεως δυναμιν και ιππεις σωσαι ημας απο εχθρου εν τη οδω οτι ειπαμεν τω βασιλει λεγοντες χειρ του θεου ημων επι παντας τους ζητουντας αυτον εις αγαθον και κρατος αυτου και θυμος αυτου επι παντας εγκαταλειποντας αυτον
 Transliteration: [TODO]
@@ -250491,7 +241791,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:23
+### Ezra 8:23
 
 Greek: και ενηστευσαμεν και εζητησαμεν παρα του θεου ημων περι τουτου και επηκουσεν ημιν
 Transliteration: [TODO]
@@ -250511,7 +241811,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:24
+### Ezra 8:24
 
 Greek: και διεστειλα απο αρχοντων των ιερεων δωδεκα τω σαραια ασαβια και μετ' αυτων απο αδελφων αυτων δεκα
 Transliteration: [TODO]
@@ -250531,7 +241831,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:25
+### Ezra 8:25
 
 Greek: και εστησα αυτοις το αργυριον και το χρυσιον και τα σκευη απαρχης οικου θεου ημων α υψωσεν ο βασιλευς και οι συμβουλοι αυτου και οι αρχοντες αυτου και πας ισραηλ οι ευρισκομενοι
 Transliteration: [TODO]
@@ -250551,7 +241851,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:26
+### Ezra 8:26
 
 Greek: και εστησα επι χειρας αυτων αργυριου ταλαντα εξακοσια και πεντηκοντα και σκευη αργυρα εκατον και ταλαντα χρυσιου εκατον
 Transliteration: [TODO]
@@ -250571,7 +241871,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:27
+### Ezra 8:27
 
 Greek: και καφουρη χρυσοι εικοσι εις την οδον χαμανιμ χιλιοι και σκευη χαλκου στιλβοντος αγαθου διαφορα επιθυμητα εν χρυσιω
 Transliteration: [TODO]
@@ -250591,7 +241891,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:28
+### Ezra 8:28
 
 Greek: και ειπα προς αυτους υμεις αγιοι τω κυριω και τα σκευη αγια και το αργυριον και το χρυσιον εκουσια τω κυριω θεω πατερων υμων
 Transliteration: [TODO]
@@ -250611,7 +241911,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:29
+### Ezra 8:29
 
 Greek: αγρυπνειτε και τηρειτε εως στητε ενωπιον αρχοντων των ιερεων και των λευιτων και των αρχοντων των πατριων εν ιερουσαλημ εις σκηνας οικου κυριου
 Transliteration: [TODO]
@@ -250631,7 +241931,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:30
+### Ezra 8:30
 
 Greek: και εδεξαντο οι ιερεις και οι λευιται σταθμον του αργυριου και του χρυσιου και των σκευων ενεγκειν εις ιερουσαλημ εις οικον θεου ημων
 Transliteration: [TODO]
@@ -250651,7 +241951,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:31
+### Ezra 8:31
 
 Greek: και εξηραμεν απο του ποταμου αουε εν τη δωδεκατη του μηνος του πρωτου του ελθειν εις ιερουσαλημ και χειρ θεου ημων ην εφ' ημιν και ερρυσατο ημας απο χειρος εχθρου και πολεμιου εν τη οδω
 Transliteration: [TODO]
@@ -250671,7 +241971,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:32
+### Ezra 8:32
 
 Greek: και ηλθομεν εις ιερουσαλημ και εκαθισαμεν εκει ημερας τρεις
 Transliteration: [TODO]
@@ -250691,7 +241991,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:33
+### Ezra 8:33
 
 Greek: και εγενηθη τη ημερα τη τεταρτη εστησαμεν το αργυριον και το χρυσιον και τα σκευη εν οικω θεου ημων επι χειρα μεριμωθ υιου ουρια του ιερεως και μετ' αυτου ελεαζαρ υιος φινεες και μετ' αυτων ιωζαβαδ υιος ιησου και νωαδια υιος βαναια οι λευιται
 Transliteration: [TODO]
@@ -250711,7 +242011,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:34
+### Ezra 8:34
 
 Greek: εν αριθμω και εν σταθμω τα παντα και εγραφη πας ο σταθμος εν τω καιρω εκεινω
 Transliteration: [TODO]
@@ -250731,7 +242031,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:35
+### Ezra 8:35
 
 Greek: οι ελθοντες απο της αιχμαλωσιας υιοι της παροικιας προσηνεγκαν ολοκαυτωσεις τω θεω ισραηλ μοσχους δωδεκα περι παντος ισραηλ κριους ενενηκοντα εξ αμνους εβδομηκοντα και επτα χιμαρους περι αμαρτιας δωδεκα τα παντα ολοκαυτωματα τω κυριω
 Transliteration: [TODO]
@@ -250751,7 +242051,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 8:36
+### Ezra 8:36
 
 Greek: και εδωκαν το νομισμα του βασιλεως τοις διοικηταις του βασιλεως και επαρχοις περαν του ποταμου και εδοξασαν τον λαον και τον οικον του θεου
 Transliteration: [TODO]
@@ -250773,7 +242073,7 @@ Variant notes:
 
 ## Chapter 9
 
-### Nehemiah 9:1
+### Ezra 9:1
 
 Greek: και ως ετελεσθη ταυτα ηγγισαν προς με οι αρχοντες λεγοντες ουκ εχωρισθη ο λαος ισραηλ και οι ιερεις και οι λευιται απο λαων των γαιων εν μακρυμμασιν αυτων τω χανανι ο εθι ο φερεζι ο ιεβουσι ο αμμωνι ο μωαβι ο μοσερι και ο αμορι
 Transliteration: [TODO]
@@ -250793,7 +242093,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:2
+### Ezra 9:2
 
 Greek: οτι ελαβοσαν απο θυγατερων αυτων εαυτοις και τοις υιοις αυτων και παρηχθη σπερμα το αγιον εν λαοις των γαιων και χειρ των αρχοντων εν τη ασυνθεσια ταυτη εν αρχη
 Transliteration: [TODO]
@@ -250813,7 +242113,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:3
+### Ezra 9:3
 
 Greek: και ως ηκουσα τον λογον τουτον διερρηξα τα ιματια μου και επαλλομην και ετιλλον απο των τριχων της κεφαλης μου και απο του πωγωνος μου και εκαθημην ηρεμαζων
 Transliteration: [TODO]
@@ -250833,7 +242133,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:4
+### Ezra 9:4
 
 Greek: και συνηχθησαν προς με πας ο διωκων λογον θεου ισραηλ επι ασυνθεσια της αποικιας και εγω καθημενος ηρεμαζων εως της θυσιας της εσπερινης
 Transliteration: [TODO]
@@ -250853,7 +242153,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:5
+### Ezra 9:5
 
 Greek: και εν θυσια τη εσπερινη ανεστην απο ταπεινωσεως μου και εν τω διαρρηξαι με τα ιματια μου και επαλλομην και κλινω επι τα γονατα μου και εκπεταζω τας χειρας μου προς κυριον τον θεον
 Transliteration: [TODO]
@@ -250873,7 +242173,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:6
+### Ezra 9:6
 
 Greek: και ειπα κυριε ησχυνθην και ενετραπην του υψωσαι το προσωπον μου προς σε οτι αι ανομιαι ημων επληθυνθησαν υπερ κεφαλης ημων και αι πλημμελειαι ημων εμεγαλυνθησαν εως εις ουρανον
 Transliteration: [TODO]
@@ -250893,7 +242193,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:7
+### Ezra 9:7
 
 Greek: απο ημερων πατερων ημων εσμεν εν πλημμελεια μεγαλη εως της ημερας ταυτης και εν ταις ανομιαις ημων παρεδοθημεν ημεις και οι βασιλεις ημων και οι υιοι ημων εν χειρι βασιλεων των εθνων εν ρομφαια και εν αιχμαλωσια και εν διαρπαγη και εν αισχυνη προσωπου ημων ως η ημερα αυτη
 Transliteration: [TODO]
@@ -250913,7 +242213,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:8
+### Ezra 9:8
 
 Greek: και νυν επιεικευσατο ημιν κυριος ο θεος ημων του καταλιπειν ημιν εις σωτηριαν και δουναι ημιν στηριγμα εν τοπω αγιασματος αυτου του φωτισαι οφθαλμους ημων και δουναι ζωοποιησιν μικραν εν τη δουλεια ημων
 Transliteration: [TODO]
@@ -250933,7 +242233,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:9
+### Ezra 9:9
 
 Greek: οτι δουλοι εσμεν και εν τη δουλεια ημων ουκ εγκατελιπεν ημας κυριος ο θεος ημων και εκλινεν εφ' ημας ελεος ενωπιον βασιλεων περσων δουναι ημιν ζωοποιησιν του υψωσαι αυτους τον οικον του θεου ημων και αναστησαι τα ερημα αυτης και του δουναι ημιν φραγμον εν ιουδα και εν ιερουσαλημ
 Transliteration: [TODO]
@@ -250953,7 +242253,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:10
+### Ezra 9:10
 
 Greek: τι ειπωμεν ο θεος ημων μετα τουτο οτι εγκατελιπομεν εντολας σου
 Transliteration: [TODO]
@@ -250973,7 +242273,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:11
+### Ezra 9:11
 
 Greek: ας εδωκας ημιν εν χειρι δουλων σου των προφητων λεγων η γη εις ην εισπορευεσθε κληρονομησαι αυτην γη μετακινουμενη εστιν εν μετακινησει λαων των εθνων εν μακρυμμασιν αυτων ων επλησαν αυτην απο στοματος επι στομα εν ακαθαρσιαις αυτων
 Transliteration: [TODO]
@@ -250993,7 +242293,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:12
+### Ezra 9:12
 
 Greek: και νυν τας θυγατερας υμων μη δωτε τοις υιοις αυτων και απο των θυγατερων αυτων μη λαβητε τοις υιοις υμων και ουκ εκζητησετε ειρηνην αυτων και αγαθον αυτων εως αιωνος οπως ενισχυσητε και φαγητε τα αγαθα της γης και κληροδοτησητε τοις υιοις υμων εως αιωνος
 Transliteration: [TODO]
@@ -251013,7 +242313,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:13
+### Ezra 9:13
 
 Greek: και μετα παν το ερχομενον εφ' ημας εν ποιημασιν ημων τοις πονηροις και εν πλημμελεια ημων τη μεγαλη οτι ουκ εστιν ως ο θεος ημων οτι εκουφισας ημων τας ανομιας και εδωκας ημιν σωτηριαν
 Transliteration: [TODO]
@@ -251033,7 +242333,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:14
+### Ezra 9:14
 
 Greek: οτι επεστρεψαμεν διασκεδασαι εντολας σου και επιγαμβρευσαι τοις λαοις των γαιων μη παροξυνθης εν ημιν εως συντελειας του μη ειναι εγκαταλειμμα και διασωζομενον
 Transliteration: [TODO]
@@ -251053,7 +242353,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 9:15
+### Ezra 9:15
 
 Greek: κυριε ο θεος ισραηλ δικαιος συ οτι κατελειφθημεν διασωζομενοι ως η ημερα αυτη ιδου ημεις εναντιον σου εν πλημμελειαις ημων οτι ουκ εστιν στηναι ενωπιον σου επι τουτω
 Transliteration: [TODO]
@@ -251075,7 +242375,7 @@ Variant notes:
 
 ## Chapter 10
 
-### Nehemiah 10:1
+### Ezra 10:1
 
 Greek: και ως προσηυξατο εσδρας και ως εξηγορευσεν κλαιων και προσευχομενος ενωπιον οικου του θεου συνηχθησαν προς αυτον απο ισραηλ εκκλησια πολλη σφοδρα ανδρες και γυναικες και νεανισκοι οτι εκλαυσεν ο λαος και υψωσεν κλαιων
 Transliteration: [TODO]
@@ -251095,7 +242395,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:2
+### Ezra 10:2
 
 Greek: και απεκριθη σεχενιας υιος ιιηλ απο υιων ηλαμ και ειπεν τω εσδρα ημεις ησυνθετησαμεν τω θεω ημων και εκαθισαμεν γυναικας αλλοτριας απο λαων της γης και νυν εστιν υπομονη τω ισραηλ επι τουτω
 Transliteration: [TODO]
@@ -251115,7 +242415,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:3
+### Ezra 10:3
 
 Greek: και νυν διαθωμεθα διαθηκην τω θεω ημων εκβαλειν πασας τας γυναικας και τα γενομενα εξ αυτων ως αν βουλη αναστηθι και φοβερισον αυτους εν εντολαις θεου ημων και ως ο νομος γενηθητω
 Transliteration: [TODO]
@@ -251135,7 +242435,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:4
+### Ezra 10:4
 
 Greek: αναστα οτι επι σε το ρημα και ημεις μετα σου κραταιου και ποιησον
 Transliteration: [TODO]
@@ -251155,7 +242455,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:5
+### Ezra 10:5
 
 Greek: και ανεστη εσδρας και ωρκισεν τους αρχοντας τους ιερεις και λευιτας και παντα ισραηλ του ποιησαι κατα το ρημα τουτο και ωμοσαν
 Transliteration: [TODO]
@@ -251175,7 +242475,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:6
+### Ezra 10:6
 
 Greek: και ανεστη εσδρας απο προσωπου οικου του θεου και επορευθη εις γαζοφυλακιον ιωαναν υιου ελισουβ και επορευθη εκει αρτον ουκ εφαγεν και υδωρ ουκ επιεν οτι επενθει επι τη ασυνθεσια της αποικιας
 Transliteration: [TODO]
@@ -251195,7 +242495,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:7
+### Ezra 10:7
 
 Greek: και παρηνεγκαν φωνην εν ιουδα και εν ιερουσαλημ πασιν τοις υιοις της αποικιας του συναθροισθηναι εις ιερουσαλημ
 Transliteration: [TODO]
@@ -251215,7 +242515,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:8
+### Ezra 10:8
 
 Greek: και πας ος αν μη ελθη εις τρεις ημερας ως η βουλη των αρχοντων και των πρεσβυτερων αναθεματισθησεται πασα η υπαρξις αυτου και αυτος διασταλησεται απο εκκλησιας της αποικιας
 Transliteration: [TODO]
@@ -251235,7 +242535,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:9
+### Ezra 10:9
 
 Greek: και συνηχθησαν παντες ανδρες ιουδα και βενιαμιν εις ιερουσαλημ εις τας τρεις ημερας ουτος ο μην ο ενατος εν εικαδι του μηνος εκαθισεν πας ο λαος εν πλατεια οικου του θεου απο θορυβου αυτων περι του ρηματος και απο του χειμωνος
 Transliteration: [TODO]
@@ -251255,7 +242555,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:10
+### Ezra 10:10
 
 Greek: και ανεστη εσδρας ο ιερευς και ειπεν προς αυτους υμεις ησυνθετηκατε και εκαθισατε γυναικας αλλοτριας του προσθειναι επι πλημμελειαν ισραηλ
 Transliteration: [TODO]
@@ -251275,7 +242575,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:11
+### Ezra 10:11
 
 Greek: και νυν δοτε αινεσιν κυριω τω θεω των πατερων υμων και ποιησατε το αρεστον ενωπιον αυτου και διασταλητε απο λαων της γης και απο των γυναικων των αλλοτριων
 Transliteration: [TODO]
@@ -251295,7 +242595,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:12
+### Ezra 10:12
 
 Greek: και απεκριθησαν πασα η εκκλησια και ειπαν μεγα τουτο το ρημα σου εφ' ημας ποιησαι
 Transliteration: [TODO]
@@ -251315,7 +242615,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:13
+### Ezra 10:13
 
 Greek: αλλα ο λαος πολυς και ο καιρος χειμερινος και ουκ εστιν δυναμις στηναι εξω και το εργον ουκ εις ημεραν μιαν και ουκ εις δυο οτι επληθυναμεν του αδικησαι εν τω ρηματι τουτω
 Transliteration: [TODO]
@@ -251335,7 +242635,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:14
+### Ezra 10:14
 
 Greek: στητωσαν δη οι αρχοντες ημων τη παση εκκλησια και παντες οι εν πολεσιν ημων ος εκαθισεν γυναικας αλλοτριας ελθετωσαν εις καιρους απο συνταγων και μετ' αυτων πρεσβυτεροι πολεως και πολεως και κριται του αποστρεψαι οργην θυμου θεου ημων εξ ημων περι του ρηματος τουτου
 Transliteration: [TODO]
@@ -251355,7 +242655,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:15
+### Ezra 10:15
 
 Greek: πλην ιωναθαν υιος ασαηλ και ιαζια υιος θεκουε μετ' εμου περι τουτου και μεσουλαμ και σαβαθαι ο λευιτης βοηθων αυτοις
 Transliteration: [TODO]
@@ -251375,7 +242675,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:16
+### Ezra 10:16
 
 Greek: και εποιησαν ουτως υιοι της αποικιας και διεσταλησαν εσδρας ο ιερευς και ανδρες αρχοντες πατριων τω οικω και παντες εν ονομασιν οτι επεστρεψαν εν ημερα μια του μηνος του δεκατου εκζητησαι το ρημα
 Transliteration: [TODO]
@@ -251395,7 +242695,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:17
+### Ezra 10:17
 
 Greek: και ετελεσαν εν πασιν ανδρασιν οι εκαθισαν γυναικας αλλοτριας εως ημερας μιας του μηνος του πρωτου
 Transliteration: [TODO]
@@ -251415,7 +242715,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:18
+### Ezra 10:18
 
 Greek: και ευρεθησαν απο υιων των ιερεων οι εκαθισαν γυναικας αλλοτριας απο υιων ιησου υιου ιωσεδεκ και αδελφοι αυτου μαασηα και ελιεζερ και ιαριβ και γαδαλια
 Transliteration: [TODO]
@@ -251435,7 +242735,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:19
+### Ezra 10:19
 
 Greek: και εδωκαν χειρα αυτων του εξενεγκαι γυναικας αυτων και πλημμελειας κριον εκ προβατων περι πλημμελησεως αυτων
 Transliteration: [TODO]
@@ -251455,7 +242755,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:20
+### Ezra 10:20
 
 Greek: και απο υιων εμμηρ ανανι και ζαβδια
 Transliteration: [TODO]
@@ -251475,7 +242775,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:21
+### Ezra 10:21
 
 Greek: και απο υιων ηραμ μασαια και ελια και σαμαια και ιιηλ και οζια
 Transliteration: [TODO]
@@ -251495,7 +242795,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:22
+### Ezra 10:22
 
 Greek: και απο υιων φασουρ ελιωηναι μαασαια και ισμαηλ και ναθαναηλ και ιωζαβαδ και ηλασα
 Transliteration: [TODO]
@@ -251515,7 +242815,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:23
+### Ezra 10:23
 
 Greek: και απο των λευιτων ιωζαβαδ και σαμου και κωλια αυτος κωλιτας και φαθαια και ιοδομ και ελιεζερ
 Transliteration: [TODO]
@@ -251535,7 +242835,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:24
+### Ezra 10:24
 
 Greek: και απο των αδοντων ελισαφ και απο των πυλωρων σελλημ και τελημ και ωδουε
 Transliteration: [TODO]
@@ -251555,7 +242855,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:25
+### Ezra 10:25
 
 Greek: και απο ισραηλ απο υιων φορος ραμια και ιαζια και μελχια και μεαμιν και ελεαζαρ και ασαβια και βαναια
 Transliteration: [TODO]
@@ -251575,7 +242875,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:26
+### Ezra 10:26
 
 Greek: και απο υιων ηλαμ μαθανια και ζαχαρια και ιαιηλ και αβδια και ιαριμωθ και ηλια
 Transliteration: [TODO]
@@ -251595,7 +242895,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:27
+### Ezra 10:27
 
 Greek: και απο υιων ζαθουα ελιωηναι ελισουβ μαθανια και ιαρμωθ και ζαβαδ και οζιζα
 Transliteration: [TODO]
@@ -251615,7 +242915,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:28
+### Ezra 10:28
 
 Greek: και απο υιων βαβι ιωαναν ανανια και ζαβου οθαλι
 Transliteration: [TODO]
@@ -251635,7 +242935,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:29
+### Ezra 10:29
 
 Greek: και απο υιων βανουι μεσουλαμ μαλουχ αδαιας ιασουβ και σαλουια και ρημωθ
 Transliteration: [TODO]
@@ -251655,7 +242955,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:30
+### Ezra 10:30
 
 Greek: και απο υιων φααθμωαβ εδενε χαληλ βαναια μασηα μαθανια βεσεληλ και βανουι και μανασση
 Transliteration: [TODO]
@@ -251675,7 +242975,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:31
+### Ezra 10:31
 
 Greek: και απο υιων ηραμ ελιεζερ ιεσσια μελχια σαμαια σεμεων
 Transliteration: [TODO]
@@ -251695,7 +242995,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:32
+### Ezra 10:32
 
 Greek: βενιαμιν μαλουχ σαμαρια
 Transliteration: [TODO]
@@ -251715,7 +243015,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:33
+### Ezra 10:33
 
 Greek: και απο υιων ησαμ μαθανι μαθαθα ζαβεδ ελιφαλεθ ιεραμι μανασση σεμει
 Transliteration: [TODO]
@@ -251735,7 +243035,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:34
+### Ezra 10:34
 
 Greek: απο υιων βανι μοοδι αμραμ ουηλ
 Transliteration: [TODO]
@@ -251755,7 +243055,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:35
+### Ezra 10:35
 
 Greek: βαναια βαδαια χελια
 Transliteration: [TODO]
@@ -251775,7 +243075,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:36
+### Ezra 10:36
 
 Greek: ουιεχωα ιεραμωθ ελιασιβ
 Transliteration: [TODO]
@@ -251795,7 +243095,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:37
+### Ezra 10:37
 
 Greek: μαθανια μαθαναι και εποιησαν
 Transliteration: [TODO]
@@ -251815,7 +243115,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:38
+### Ezra 10:38
 
 Greek: οι υιοι βανουι και οι υιοι σεμει
 Transliteration: [TODO]
@@ -251835,7 +243135,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:39
+### Ezra 10:39
 
 Greek: και σελεμια και ναθαν και αδαια
 Transliteration: [TODO]
@@ -251855,7 +243155,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:40
+### Ezra 10:40
 
 Greek: μαχναδαβου σεσι σαρου
 Transliteration: [TODO]
@@ -251875,7 +243175,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:41
+### Ezra 10:41
 
 Greek: εζερηλ και σελεμια και σαμαρια
 Transliteration: [TODO]
@@ -251895,7 +243195,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:42
+### Ezra 10:42
 
 Greek: και σαλουμ αμαρια ιωσηφ
 Transliteration: [TODO]
@@ -251915,7 +243215,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:43
+### Ezra 10:43
 
 Greek: απο υιων ναβου ιιηλ μαθαθια σεδεμ ζαμβινα ιαδαι και ιωηλ και βαναια
 Transliteration: [TODO]
@@ -251935,7 +243235,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 10:44
+### Ezra 10:44
 
 Greek: παντες ουτοι ελαβοσαν γυναικας αλλοτριας και εγεννησαν εξ αυτων υιους
 Transliteration: [TODO]
@@ -251955,9 +243255,11 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 11
+# Nehemiah
 
-### Nehemiah 11:1
+## Chapter 1
+
+### Nehemiah 1:1
 
 Greek: λογοι νεεμια υιου αχαλια και εγενετο εν μηνι χασεηλου ετους εικοστου και εγω ημην εν σουσαν αβιρα
 Transliteration: [TODO]
@@ -251977,7 +243279,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:2
+### Nehemiah 1:2
 
 Greek: και ηλθεν ανανι εις απο αδελφων μου αυτος και ανδρες ιουδα και ηρωτησα αυτους περι των σωθεντων οι κατελειφθησαν απο της αιχμαλωσιας και περι ιερουσαλημ
 Transliteration: [TODO]
@@ -251997,7 +243299,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:3
+### Nehemiah 1:3
 
 Greek: και ειποσαν προς με οι καταλειπομενοι οι καταλειφθεντες απο της αιχμαλωσιας εκει εν τη χωρα εν πονηρια μεγαλη και εν ονειδισμω και τειχη ιερουσαλημ καθηρημενα και αι πυλαι αυτης ενεπρησθησαν εν πυρι
 Transliteration: [TODO]
@@ -252017,7 +243319,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:4
+### Nehemiah 1:4
 
 Greek: και εγενετο εν τω ακουσαι με τους λογους τουτους εκαθισα και εκλαυσα και επενθησα ημερας και ημην νηστευων και προσευχομενος ενωπιον θεου του ουρανου
 Transliteration: [TODO]
@@ -252037,7 +243339,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:5
+### Nehemiah 1:5
 
 Greek: και ειπα μη δη κυριε ο θεος του ουρανου ο ισχυρος ο μεγας και ο φοβερος φυλασσων την διαθηκην και το ελεος τοις αγαπωσιν αυτον και τοις φυλασσουσιν τας εντολας αυτου
 Transliteration: [TODO]
@@ -252057,7 +243359,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:6
+### Nehemiah 1:6
 
 Greek: εστω δη το ους σου προσεχον και οι οφθαλμοι σου ανεωγμενοι του ακουσαι προσευχην δουλου σου ην εγω προσευχομαι ενωπιον σου σημερον ημεραν και νυκτα περι υιων ισραηλ δουλων σου και εξαγορευω επι αμαρτιαις υιων ισραηλ ας ημαρτομεν σοι και εγω και ο οικος πατρος μου ημαρτομεν
 Transliteration: [TODO]
@@ -252077,7 +243379,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:7
+### Nehemiah 1:7
 
 Greek: διαλυσει διελυσαμεν προς σε και ουκ εφυλαξαμεν τας εντολας και τα προσταγματα και τα κριματα α ενετειλω τω μωυση παιδι σου
 Transliteration: [TODO]
@@ -252097,7 +243399,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:8
+### Nehemiah 1:8
 
 Greek: μνησθητι δη τον λογον ον ενετειλω τω μωυση παιδι σου λεγων υμεις εαν ασυνθετησητε εγω διασκορπιω υμας εν τοις λαοις
 Transliteration: [TODO]
@@ -252117,7 +243419,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:9
+### Nehemiah 1:9
 
 Greek: και εαν επιστρεψητε προς με και φυλαξητε τας εντολας μου και ποιησητε αυτας εαν η η διασπορα υμων απ' ακρου του ουρανου εκειθεν συναξω αυτους και εισαξω αυτους εις τον τοπον ον εξελεξαμην κατασκηνωσαι το ονομα μου εκει
 Transliteration: [TODO]
@@ -252137,7 +243439,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:10
+### Nehemiah 1:10
 
 Greek: και αυτοι παιδες σου και λαος σου ους ελυτρωσω εν δυναμει σου τη μεγαλη και εν τη χειρι σου τη κραταια
 Transliteration: [TODO]
@@ -252157,7 +243459,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 11:11
+### Nehemiah 1:11
 
 Greek: μη δη κυριε αλλ' εστω το ους σου προσεχον εις την προσευχην του δουλου σου και εις την προσευχην παιδων σου των θελοντων φοβεισθαι το ονομα σου και ευοδωσον δη τω παιδι σου σημερον και δος αυτον εις οικτιρμους ενωπιον του ανδρος τουτου και εγω ημην οινοχοος τω βασιλει
 Transliteration: [TODO]
@@ -252177,9 +243479,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 12
+## Chapter 2
 
-### Nehemiah 12:1
+### Nehemiah 2:1
 
 Greek: και εγενετο εν μηνι νισαν ετους εικοστου αρθασασθα βασιλει και ην ο οινος ενωπιον εμου και ελαβον τον οινον και εδωκα τω βασιλει και ουκ ην ετερος ενωπιον αυτου
 Transliteration: [TODO]
@@ -252199,7 +243501,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:2
+### Nehemiah 2:2
 
 Greek: και ειπεν μοι ο βασιλευς δια τι το προσωπον σου πονηρον και ουκ ει μετριαζων ουκ εστιν τουτο ει μη πονηρια καρδιας και εφοβηθην πολυ σφοδρα
 Transliteration: [TODO]
@@ -252219,7 +243521,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:3
+### Nehemiah 2:3
 
 Greek: και ειπα τω βασιλει ο βασιλευς εις τον αιωνα ζητω δια τι ου μη γενηται πονηρον το προσωπον μου διοτι η πολις οικος μνημειων πατερων μου ηρημωθη και αι πυλαι αυτης κατεβρωθησαν εν πυρι
 Transliteration: [TODO]
@@ -252239,7 +243541,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:4
+### Nehemiah 2:4
 
 Greek: και ειπεν μοι ο βασιλευς περι τινος τουτο συ ζητεις και προσηυξαμην προς τον θεον του ουρανου
 Transliteration: [TODO]
@@ -252259,7 +243561,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:5
+### Nehemiah 2:5
 
 Greek: και ειπα τω βασιλει ει επι τον βασιλεα αγαθον και ει αγαθυνθησεται ο παις σου ενωπιον σου ωστε πεμψαι αυτον εις ιουδα εις πολιν μνημειων πατερων μου και ανοικοδομησω αυτην
 Transliteration: [TODO]
@@ -252279,7 +243581,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:6
+### Nehemiah 2:6
 
 Greek: και ειπεν μοι ο βασιλευς και η παλλακη η καθημενη εχομενα αυτου εως ποτε εσται η πορεια σου και ποτε επιστρεψεις και ηγαθυνθη ενωπιον του βασιλεως και απεστειλεν με και εδωκα αυτω ορον
 Transliteration: [TODO]
@@ -252299,7 +243601,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:7
+### Nehemiah 2:7
 
 Greek: και ειπα τω βασιλει ει επι τον βασιλεα αγαθον δοτω μοι επιστολας προς τους επαρχους περαν του ποταμου ωστε παραγαγειν με εως ελθω επι ιουδαν
 Transliteration: [TODO]
@@ -252319,7 +243621,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:8
+### Nehemiah 2:8
 
 Greek: και επιστολην επι ασαφ φυλακα του παραδεισου ος εστιν τω βασιλει ωστε δουναι μοι ξυλα στεγασαι τας πυλας και εις το τειχος της πολεως και εις οικον ον εισελευσομαι εις αυτον και εδωκεν μοι ο βασιλευς ως χειρ θεου η αγαθη
 Transliteration: [TODO]
@@ -252339,7 +243641,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:9
+### Nehemiah 2:9
 
 Greek: και ηλθον προς τους επαρχους περαν του ποταμου και εδωκα αυτοις τας επιστολας του βασιλεως και απεστειλεν μετ' εμου ο βασιλευς αρχηγους δυναμεως και ιππεις
 Transliteration: [TODO]
@@ -252359,7 +243661,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:10
+### Nehemiah 2:10
 
 Greek: και ηκουσεν σαναβαλλατ ο αρωνι και τωβια ο δουλος ο αμμωνι και πονηρον αυτοις εγενετο οτι ηκει ανθρωπος ζητησαι αγαθον τοις υιοις ισραηλ
 Transliteration: [TODO]
@@ -252379,7 +243681,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:11
+### Nehemiah 2:11
 
 Greek: και ηλθον εις ιερουσαλημ και ημην εκει ημερας τρεις
 Transliteration: [TODO]
@@ -252399,7 +243701,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:12
+### Nehemiah 2:12
 
 Greek: και ανεστην νυκτος εγω και ανδρες ολιγοι μετ' εμου και ουκ απηγγειλα ανθρωπω τι ο θεος διδωσιν εις καρδιαν μου του ποιησαι μετα του ισραηλ και κτηνος ουκ εστιν μετ' εμου ει μη το κτηνος ω εγω επιβαινω επ' αυτω
 Transliteration: [TODO]
@@ -252419,7 +243721,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:13
+### Nehemiah 2:13
 
 Greek: και εξηλθον εν πυλη του γωληλα και προς στομα πηγης των συκων και εις πυλην της κοπριας και ημην συντριβων εν τω τειχει ιερουσαλημ ο αυτοι καθαιρουσιν και πυλαι αυτης κατεβρωθησαν πυρι
 Transliteration: [TODO]
@@ -252439,7 +243741,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:14
+### Nehemiah 2:14
 
 Greek: και παρηλθον επι πυλην του αιν και εις κολυμβηθραν του βασιλεως και ουκ ην τοπος τω κτηνει παρελθειν υποκατω μου
 Transliteration: [TODO]
@@ -252459,7 +243761,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:15
+### Nehemiah 2:15
 
 Greek: και ημην αναβαινων εν τω τειχει χειμαρρου νυκτος και ημην συντριβων εν τω τειχει και ημην εν πυλη της φαραγγος και επεστρεψα
 Transliteration: [TODO]
@@ -252479,7 +243781,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:16
+### Nehemiah 2:16
 
 Greek: και οι φυλασσοντες ουκ εγνωσαν τι επορευθην και τι εγω ποιω και τοις ιουδαιοις και τοις ιερευσιν και τοις εντιμοις και τοις στρατηγοις και τοις καταλοιποις τοις ποιουσιν τα εργα εως τοτε ουκ απηγγειλα
 Transliteration: [TODO]
@@ -252499,7 +243801,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:17
+### Nehemiah 2:17
 
 Greek: και ειπα προς αυτους υμεις βλεπετε την πονηριαν εν η εσμεν εν αυτη πως ιερουσαλημ ερημος και αι πυλαι αυτης εδοθησαν πυρι δευτε και διοικοδομησωμεν το τειχος ιερουσαλημ και ουκ εσομεθα ετι ονειδος
 Transliteration: [TODO]
@@ -252519,7 +243821,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:18
+### Nehemiah 2:18
 
 Greek: και απηγγειλα αυτοις την χειρα του θεου η εστιν αγαθη επ' εμε και τους λογους του βασιλεως ους ειπεν μοι και ειπα αναστωμεν και οικοδομησωμεν και εκραταιωθησαν αι χειρες αυτων εις αγαθον
 Transliteration: [TODO]
@@ -252539,7 +243841,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:19
+### Nehemiah 2:19
 
 Greek: και ηκουσεν σαναβαλλατ ο αρωνι και τωβια ο δουλος ο αμμωνι και γησαμ ο αραβι και εξεγελασαν ημας και ηλθον εφ' ημας και ειπαν τι το ρημα τουτο ο υμεις ποιειτε η επι τον βασιλεα υμεις αποστατειτε
 Transliteration: [TODO]
@@ -252559,7 +243861,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 12:20
+### Nehemiah 2:20
 
 Greek: και επεστρεψα αυτοις λογον και ειπα αυτοις ο θεος του ουρανου αυτος ευοδωσει ημιν και ημεις δουλοι αυτου καθαροι και οικοδομησομεν και υμιν ουκ εστιν μερις και δικαιοσυνη και μνημοσυνον εν ιερουσαλημ
 Transliteration: [TODO]
@@ -252579,9 +243881,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 13
+## Chapter 3
 
-### Nehemiah 13:1
+### Nehemiah 3:1
 
 Greek: και ανεστη ελισουβ ο ιερευς ο μεγας και οι αδελφοι αυτου οι ιερεις και ωκοδομησαν την πυλην την προβατικην αυτοι ηγιασαν αυτην και εστησαν θυρας αυτης και εως πυργου των εκατον ηγιασαν εως πυργου ανανεηλ
 Transliteration: [TODO]
@@ -252601,7 +243903,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:2
+### Nehemiah 3:2
 
 Greek: και επι χειρας υιων ανδρων ιεριχω και επι χειρας υιων ζακχουρ υιου αμαρι
 Transliteration: [TODO]
@@ -252621,7 +243923,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:3
+### Nehemiah 3:3
 
 Greek: και την πυλην την ιχθυηραν ωκοδομησαν υιοι ασανα αυτοι εστεγασαν αυτην και εστησαν θυρας αυτης και κλειθρα αυτης και μοχλους αυτης
 Transliteration: [TODO]
@@ -252641,7 +243943,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:4
+### Nehemiah 3:4
 
 Greek: και επι χειρα αυτων κατεσχεν απο ραμωθ υιος ουρια υιου ακως και επι χειρα αυτων κατεσχεν μοσολλαμ υιος βαραχιου υιου μασεζεβηλ και επι χειρα αυτων κατεσχεν σαδωκ υιος βαανα
 Transliteration: [TODO]
@@ -252661,7 +243963,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:5
+### Nehemiah 3:5
 
 Greek: και επι χειρα αυτων κατεσχοσαν οι θεκωιν και αδωρηεμ ουκ εισηνεγκαν τραχηλον αυτων εις δουλειαν αυτων
 Transliteration: [TODO]
@@ -252681,7 +243983,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:6
+### Nehemiah 3:6
 
 Greek: και την πυλην του ισανα εκρατησαν ιοιδα υιος φασεκ και μεσουλαμ υιος βασωδια αυτοι εστεγασαν αυτην και εστησαν θυρας αυτης και κλειθρα αυτης και μοχλους αυτης
 Transliteration: [TODO]
@@ -252701,7 +244003,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:8
+### Nehemiah 3:8
 
 Greek: και επι χειρα αυτων εκρατησεν ανανιας υιος του ρωκειμ και κατελιπον ιερουσαλημ εως του τειχους του πλατεος
 Transliteration: [TODO]
@@ -252721,7 +244023,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:9
+### Nehemiah 3:9
 
 Greek: και επι χειρα αυτων εκρατησεν ραφαια αρχων ημισους περιχωρου ιερουσαλημ
 Transliteration: [TODO]
@@ -252741,7 +244043,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:10
+### Nehemiah 3:10
 
 Greek: και επι χειρα αυτων εκρατησεν ιεδαια υιος ερωμαφ και κατεναντι οικιας αυτου και επι χειρα αυτου εκρατησεν ατους υιος ασβανια
 Transliteration: [TODO]
@@ -252761,7 +244063,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:11
+### Nehemiah 3:11
 
 Greek: και δευτερος εκρατησεν μελχιας υιος ηραμ και ασουβ υιος φααθμωαβ και εως πυργου των θαννουριμ
 Transliteration: [TODO]
@@ -252781,7 +244083,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:12
+### Nehemiah 3:12
 
 Greek: και επι χειρα αυτου εκρατησεν σαλουμ υιος αλλωης αρχων ημισους περιχωρου ιερουσαλημ αυτος και αι θυγατερες αυτου
 Transliteration: [TODO]
@@ -252801,7 +244103,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:13
+### Nehemiah 3:13
 
 Greek: την πυλην της φαραγγος εκρατησαν ανουν και οι κατοικουντες ζανω αυτοι ωκοδομησαν αυτην και εστησαν θυρας αυτης και κλειθρα αυτης και μοχλους αυτης και χιλιους πηχεις εν τω τειχει εως πυλης της κοπριας
 Transliteration: [TODO]
@@ -252821,7 +244123,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:14
+### Nehemiah 3:14
 
 Greek: και την πυλην της κοπριας εκρατησεν μελχια υιος ρηχαβ αρχων περιχωρου βηθαχαρμ αυτος και οι υιοι αυτου και εσκεπασαν αυτην και εστησαν θυρας αυτης και κλειθρα αυτης και μοχλους αυτης
 Transliteration: [TODO]
@@ -252841,7 +244143,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:15
+### Nehemiah 3:15
 
 Greek: και το τειχος κολυμβηθρας των κωδιων τη κουρα του βασιλεως και εως των κλιμακων των καταβαινουσων απο πολεως δαυιδ
 Transliteration: [TODO]
@@ -252861,7 +244163,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:16
+### Nehemiah 3:16
 
 Greek: οπισω αυτου εκρατησεν νεεμιας υιος αζαβουχ αρχων ημισους περιχωρου βηθσουρ εως κηπου ταφου δαυιδ και εως της κολυμβηθρας της γεγονυιας και εως βηθαγγαβαριμ
 Transliteration: [TODO]
@@ -252881,7 +244183,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:17
+### Nehemiah 3:17
 
 Greek: οπισω αυτου εκρατησαν οι λευιται ραουμ υιος βανι επι χειρα αυτου εκρατησεν ασαβια αρχων ημισους περιχωρου κειλα τω περιχωρω αυτου
 Transliteration: [TODO]
@@ -252901,7 +244203,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:18
+### Nehemiah 3:18
 
 Greek: μετ' αυτον εκρατησαν αδελφοι αυτων βενι υιος ηναδαδ αρχων ημισους περιχωρου κειλα
 Transliteration: [TODO]
@@ -252921,7 +244223,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:19
+### Nehemiah 3:19
 
 Greek: και εκρατησεν επι χειρα αυτου αζουρ υιος ιησου αρχων του μασφε μετρον δευτερον πυργου αναβασεως της συναπτουσης της γωνιας
 Transliteration: [TODO]
@@ -252941,7 +244243,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:20
+### Nehemiah 3:20
 
 Greek: μετ' αυτον εκρατησεν βαρουχ υιος ζαβου μετρον δευτερον απο της γωνιας εως θυρας βηθελισουβ του ιερεως του μεγαλου
 Transliteration: [TODO]
@@ -252961,7 +244263,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:21
+### Nehemiah 3:21
 
 Greek: μετ' αυτον εκρατησεν μεραμωθ υιος ουρια υιου ακως μετρον δευτερον απο θυρας βηθελισουβ εως εκλειψεως βηθελισουβ
 Transliteration: [TODO]
@@ -252981,7 +244283,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:22
+### Nehemiah 3:22
 
 Greek: και μετ' αυτον εκρατησαν οι ιερεις ανδρες αχεχαρ
 Transliteration: [TODO]
@@ -253001,7 +244303,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:23
+### Nehemiah 3:23
 
 Greek: και μετ' αυτον εκρατησεν βενιαμιν και ασουβ κατεναντι οικου αυτων μετ' αυτον εκρατησεν αζαρια υιος μαασηα υιου ανανια εχομενα οικου αυτου
 Transliteration: [TODO]
@@ -253021,7 +244323,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:24
+### Nehemiah 3:24
 
 Greek: μετ' αυτον εκρατησεν βανι υιος ηναδαδ μετρον δευτερον απο βηθαζαρια εως της γωνιας και εως της καμπης
 Transliteration: [TODO]
@@ -253041,7 +244343,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:25
+### Nehemiah 3:25
 
 Greek: φαλαλ υιου ευζαι εξ εναντιας της γωνιας και ο πυργος ο εξεχων εκ του οικου του βασιλεως ο ανωτερος ο της αυλης της φυλακης και μετ' αυτον φαδαια υιος φορος
 Transliteration: [TODO]
@@ -253061,7 +244363,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:26
+### Nehemiah 3:26
 
 Greek: και οι ναθινιμ ησαν οικουντες εν τω ωφαλ εως κηπου πυλης του υδατος εις ανατολας και ο πυργος ο εξεχων
 Transliteration: [TODO]
@@ -253081,7 +244383,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:27
+### Nehemiah 3:27
 
 Greek: μετ' αυτον εκρατησαν οι θεκωιν μετρον δευτερον εξ εναντιας του πυργου του μεγαλου του εξεχοντος και εως του τειχους του οφλα
 Transliteration: [TODO]
@@ -253101,7 +244403,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:28
+### Nehemiah 3:28
 
 Greek: ανωτερον πυλης των ιππων εκρατησαν οι ιερεις ανηρ εξ εναντιας οικου αυτου
 Transliteration: [TODO]
@@ -253121,7 +244423,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:29
+### Nehemiah 3:29
 
 Greek: μετ' αυτον εκρατησεν σαδδουκ υιος εμμηρ εξ εναντιας οικου αυτου και μετ' αυτον εκρατησεν σαμαια υιος σεχενια φυλαξ της πυλης της ανατολης
 Transliteration: [TODO]
@@ -253141,7 +244443,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:30
+### Nehemiah 3:30
 
 Greek: μετ' αυτον εκρατησεν ανανια υιος σελεμια και ανουμ υιος σελεφ ο εκτος μετρον δευτερον μετ' αυτον εκρατησεν μεσουλαμ υιος βαρχια εξ εναντιας γαζοφυλακιου αυτου
 Transliteration: [TODO]
@@ -253161,7 +244463,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:31
+### Nehemiah 3:31
 
 Greek: μετ' αυτον εκρατησεν μελχια υιος του σαραφι εως βηθαναθινιμ και οι ροποπωλαι απεναντι πυλης του μαφεκαδ και εως αναβασεως της καμπης
 Transliteration: [TODO]
@@ -253181,7 +244483,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:32
+### Nehemiah 3:32
 
 Greek: και ανα μεσον αναβασεως της πυλης της προβατικης εκρατησαν οι χαλκεις και οι ροποπωλαι
 Transliteration: [TODO]
@@ -253201,7 +244503,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:33
+### Nehemiah 3:33
 
 Greek: και εγενετο ηνικα ηκουσεν σαναβαλλατ οτι ημεις οικοδομουμεν το τειχος και πονηρον ην αυτω και ωργισθη επι πολυ και εξεγελα επι τοις ιουδαιοις
 Transliteration: [TODO]
@@ -253221,7 +244523,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:34
+### Nehemiah 3:34
 
 Greek: και ειπεν ενωπιον των αδελφων αυτου αυτη η δυναμις σομορων οτι οι ιουδαιοι ουτοι οικοδομουσιν την εαυτων πολιν
 Transliteration: [TODO]
@@ -253241,7 +244543,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:35
+### Nehemiah 3:35
 
 Greek: και τωβιας ο αμμανιτης εχομενα αυτου ηλθεν και ειπαν προς εαυτους μη θυσιασουσιν η φαγονται επι του τοπου αυτων ουχι αναβησεται αλωπηξ και καθελει το τειχος λιθων αυτων
 Transliteration: [TODO]
@@ -253261,7 +244563,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:36
+### Nehemiah 3:36
 
 Greek: ακουσον ο θεος ημων οτι εγενηθημεν εις μυκτηρισμον και επιστρεψον ονειδισμον αυτων εις κεφαλην αυτων και δος αυτους εις μυκτηρισμον εν γη αιχμαλωσιας
 Transliteration: [TODO]
@@ -253281,7 +244583,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 13:37
+### Nehemiah 3:37
 
 Greek: και μη καλυψης επι ανομιαν
 Transliteration: [TODO]
@@ -253301,9 +244603,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 14
+## Chapter 4
 
-### Nehemiah 14:1
+### Nehemiah 4:1
 
 Greek: και εγενετο ως ηκουσεν σαναβαλλατ και τωβια και οι αραβες και οι αμμανιται οτι ανεβη φυη τοις τειχεσιν ιερουσαλημ οτι ηρξαντο αι διασφαγαι αναφρασσεσθαι και πονηρον αυτοις εφανη σφοδρα
 Transliteration: [TODO]
@@ -253323,7 +244625,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:2
+### Nehemiah 4:2
 
 Greek: και συνηχθησαν παντες επι το αυτο ελθειν παραταξασθαι εν ιερουσαλημ
 Transliteration: [TODO]
@@ -253343,7 +244645,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:3
+### Nehemiah 4:3
 
 Greek: και προσηυξαμεθα προς τον θεον ημων και εστησαμεν προφυλακας επ' αυτους ημερας και νυκτος απο προσωπου αυτων
 Transliteration: [TODO]
@@ -253363,7 +244665,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:4
+### Nehemiah 4:4
 
 Greek: και ειπεν ιουδας συνετριβη η ισχυς των εχθρων και ο χους πολυς και ημεις ου δυνησομεθα οικοδομειν εν τω τειχει
 Transliteration: [TODO]
@@ -253383,7 +244685,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:5
+### Nehemiah 4:5
 
 Greek: και ειπαν οι θλιβοντες ημας ου γνωσονται και ουκ οψονται εως οτου ελθωμεν εις μεσον αυτων και φονευσωμεν αυτους και καταπαυσωμεν το εργον
 Transliteration: [TODO]
@@ -253403,7 +244705,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:6
+### Nehemiah 4:6
 
 Greek: και εγενετο ως ηλθοσαν οι ιουδαιοι οι οικουντες εχομενα αυτων και ειποσαν ημιν αναβαινουσιν εκ παντων των τοπων εφ' ημας
 Transliteration: [TODO]
@@ -253423,7 +244725,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:7
+### Nehemiah 4:7
 
 Greek: και εστησα εις τα κατωτατα του τοπου κατοπισθεν του τειχους εν τοις σκεπεινοις και εστησα τον λαον κατα δημους μετα ρομφαιων αυτων λογχας αυτων και τοξα αυτων
 Transliteration: [TODO]
@@ -253443,7 +244745,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:8
+### Nehemiah 4:8
 
 Greek: και ειδον και ανεστην και ειπα προς τους εντιμους και προς τους στρατηγους και προς τους καταλοιπους του λαου μη φοβηθητε απο προσωπου αυτων μνησθητε του θεου ημων του μεγαλου και φοβερου και παραταξασθε περι των αδελφων υμων υιων υμων και θυγατερων υμων γυναικων υμων και οικων υμων
 Transliteration: [TODO]
@@ -253463,7 +244765,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:9
+### Nehemiah 4:9
 
 Greek: και εγενετο ηνικα ηκουσαν οι εχθροι ημων οτι εγνωσθη ημιν και διεσκεδασεν ο θεος την βουλην αυτων και επεστρεψαμεν παντες ημεις εις το τειχος ανηρ εις το εργον αυτου
 Transliteration: [TODO]
@@ -253483,7 +244785,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:10
+### Nehemiah 4:10
 
 Greek: και εγενετο απο της ημερας εκεινης ημισυ των εκτετιναγμενων εποιουν το εργον και ημισυ αυτων αντειχοντο και λογχαι και θυρεοι και τα τοξα και οι θωρακες και οι αρχοντες οπισω παντος οικου ιουδα
 Transliteration: [TODO]
@@ -253503,7 +244805,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:11
+### Nehemiah 4:11
 
 Greek: των οικοδομουντων εν τω τειχει και οι αιροντες εν τοις αρτηρσιν εν οπλοις εν μια χειρι εποιει αυτο το εργον και μια εκρατει την βολιδα
 Transliteration: [TODO]
@@ -253523,7 +244825,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:12
+### Nehemiah 4:12
 
 Greek: και οι οικοδομοι ανηρ ρομφαιαν αυτου εζωσμενος επι την οσφυν αυτου και ωκοδομουσαν και ο σαλπιζων εν τη κερατινη εχομενα αυτου
 Transliteration: [TODO]
@@ -253543,7 +244845,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:13
+### Nehemiah 4:13
 
 Greek: και ειπα προς τους εντιμους και προς τους αρχοντας και προς τους καταλοιπους του λαου το εργον πλατυ και πολυ και ημεις σκορπιζομεθα επι του τειχους μακραν ανηρ απο του αδελφου αυτου
 Transliteration: [TODO]
@@ -253563,7 +244865,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:14
+### Nehemiah 4:14
 
 Greek: εν τοπω ου εαν ακουσητε την φωνην της κερατινης εκει συναχθησεσθε προς ημας και ο θεος ημων πολεμησει περι ημων
 Transliteration: [TODO]
@@ -253583,7 +244885,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:15
+### Nehemiah 4:15
 
 Greek: και ημεις ποιουντες το εργον και ημισυ αυτων κρατουντες τας λογχας απο αναβασεως του ορθρου εως εξοδου των αστρων
 Transliteration: [TODO]
@@ -253603,7 +244905,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:16
+### Nehemiah 4:16
 
 Greek: και εν τω καιρω εκεινω ειπα τω λαω αυλισθητε εν μεσω ιερουσαλημ και εστω υμιν η νυξ προφυλακη και η ημερα εργον
 Transliteration: [TODO]
@@ -253623,7 +244925,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 14:17
+### Nehemiah 4:17
 
 Greek: και ημην εγω και οι ανδρες της προφυλακης οπισω μου και ουκ ην εξ ημων εκδιδυσκομενος ανηρ τα ιματια αυτου
 Transliteration: [TODO]
@@ -253643,9 +244945,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 15
+## Chapter 5
 
-### Nehemiah 15:1
+### Nehemiah 5:1
 
 Greek: και ην κραυγη του λαου και γυναικων αυτων μεγαλη προς τους αδελφους αυτων τους ιουδαιους
 Transliteration: [TODO]
@@ -253665,7 +244967,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:2
+### Nehemiah 5:2
 
 Greek: και ησαν τινες λεγοντες εν υιοις ημων και εν θυγατρασιν ημων ημεις πολλοι και λημψομεθα σιτον και φαγομεθα και ζησομεθα
 Transliteration: [TODO]
@@ -253685,7 +244987,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:3
+### Nehemiah 5:3
 
 Greek: και εισιν τινες λεγοντες αγροι ημων και αμπελωνες ημων και οικιαι ημων ημεις διεγγυωμεν και λημψομεθα σιτον και φαγομεθα
 Transliteration: [TODO]
@@ -253705,7 +245007,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:4
+### Nehemiah 5:4
 
 Greek: και εισιν τινες λεγοντες εδανεισαμεθα αργυριον εις φορους του βασιλεως αγροι ημων και αμπελωνες ημων και οικιαι ημων
 Transliteration: [TODO]
@@ -253725,7 +245027,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:5
+### Nehemiah 5:5
 
 Greek: και νυν ως σαρξ αδελφων ημων σαρξ ημων ως υιοι αυτων υιοι ημων και ιδου ημεις καταδυναστευομεν τους υιους ημων και τας θυγατερας ημων εις δουλους και εισιν απο θυγατερων ημων καταδυναστευομεναι και ουκ εστιν δυναμις χειρων ημων και αγροι ημων και αμπελωνες ημων τοις εντιμοις
 Transliteration: [TODO]
@@ -253745,7 +245047,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:6
+### Nehemiah 5:6
 
 Greek: και ελυπηθην σφοδρα καθως ηκουσα την κραυγην αυτων και τους λογους τουτους
 Transliteration: [TODO]
@@ -253765,7 +245067,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:7
+### Nehemiah 5:7
 
 Greek: και εβουλευσατο καρδια μου επ' εμε και εμαχεσαμην προς τους εντιμους και τους αρχοντας και ειπα αυτοις απαιτησει ανηρ τον αδελφον αυτου υμεις απαιτειτε και εδωκα επ' αυτους εκκλησιαν μεγαλην
 Transliteration: [TODO]
@@ -253785,7 +245087,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:8
+### Nehemiah 5:8
 
 Greek: και ειπα αυτοις ημεις κεκτημεθα τους αδελφους ημων τους ιουδαιους τους πωλουμενους τοις εθνεσιν εν εκουσιω ημων και υμεις πωλειτε τους αδελφους υμων και ησυχασαν και ουχ ευροσαν λογον
 Transliteration: [TODO]
@@ -253805,7 +245107,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:9
+### Nehemiah 5:9
 
 Greek: και ειπα ουκ αγαθος ο λογος ον υμεις ποιειτε ουχ ουτως εν φοβω θεου ημων απελευσεσθε απο ονειδισμου των εθνων των εχθρων ημων
 Transliteration: [TODO]
@@ -253825,7 +245127,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:10
+### Nehemiah 5:10
 
 Greek: και οι αδελφοι μου και οι γνωστοι μου και εγω εθηκαμεν εν αυτοις αργυριον και σιτον εγκαταλιπωμεν δη την απαιτησιν ταυτην
 Transliteration: [TODO]
@@ -253845,7 +245147,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:11
+### Nehemiah 5:11
 
 Greek: επιστρεψατε δη αυτοις ως σημερον αγρους αυτων αμπελωνας αυτων ελαιας αυτων και οικιας αυτων και απο του αργυριου τον σιτον και τον οινον και το ελαιον εξενεγκατε αυτοις
 Transliteration: [TODO]
@@ -253865,7 +245167,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:12
+### Nehemiah 5:12
 
 Greek: και ειπαν αποδωσομεν και παρ' αυτων ου ζητησομεν ουτως ποιησομεν καθως συ λεγεις και εκαλεσα τους ιερεις και ωρκισα αυτους ποιησαι ως το ρημα τουτο
 Transliteration: [TODO]
@@ -253885,7 +245187,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:13
+### Nehemiah 5:13
 
 Greek: και την αναβολην μου εξετιναξα και ειπα ουτως εκτιναξαι ο θεος παντα ανδρα ος ου στησει τον λογον τουτον εκ του οικου αυτου και εκ κοπου αυτου και εσται ουτως εκτετιναγμενος και κενος και ειπεν πασα η εκκλησια αμην και ηνεσαν τον κυριον και εποιησεν ο λαος το ρημα τουτο
 Transliteration: [TODO]
@@ -253905,7 +245207,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:14
+### Nehemiah 5:14
 
 Greek: απο της ημερας ης ενετειλατο μοι ειναι εις αρχοντα αυτων εν γη ιουδα απο ετους εικοστου και εως ετους τριακοστου και δευτερου τω αρθασασθα ετη δωδεκα εγω και οι αδελφοι μου βιαν αυτων ουκ εφαγον
 Transliteration: [TODO]
@@ -253925,7 +245227,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:15
+### Nehemiah 5:15
 
 Greek: και τας βιας τας πρωτας ας προ εμου εβαρυναν επ' αυτους και ελαβοσαν παρ' αυτων εν αρτοις και εν οινω εσχατον αργυριον διδραχμα τεσσαρακοντα και οι εκτετιναγμενοι αυτων εξουσιαζονται επι τον λαον και εγω ουκ εποιησα ουτως απο προσωπου φοβου θεου
 Transliteration: [TODO]
@@ -253945,7 +245247,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:16
+### Nehemiah 5:16
 
 Greek: και εν εργω του τειχους τουτων ουκ εκρατησα αγρον ουκ εκτησαμην και παντες οι συνηγμενοι εκει επι το εργον
 Transliteration: [TODO]
@@ -253965,7 +245267,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:17
+### Nehemiah 5:17
 
 Greek: και οι ιουδαιοι εκατον και πεντηκοντα ανδρες και οι ερχομενοι προς ημας απο των εθνων των κυκλω ημων επι τραπεζαν μου
 Transliteration: [TODO]
@@ -253985,7 +245287,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:18
+### Nehemiah 5:18
 
 Greek: και ην γινομενον εις ημεραν μιαν μοσχος εις και προβατα εξ εκλεκτα και χιμαρος εγινοντο μοι και ανα μεσον δεκα ημερων εν πασιν οινος τω πληθει και συν τουτοις αρτους της βιας ουκ εζητησα οτι βαρεια η δουλεια επι τον λαον τουτον
 Transliteration: [TODO]
@@ -254005,7 +245307,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 15:19
+### Nehemiah 5:19
 
 Greek: μνησθητι μου ο θεος εις αγαθον παντα οσα εποιησα τω λαω τουτω
 Transliteration: [TODO]
@@ -254025,9 +245327,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 16
+## Chapter 6
 
-### Nehemiah 16:1
+### Nehemiah 6:1
 
 Greek: και εγενετο καθως ηκουσθη τω σαναβαλλατ και τωβια και τω γησαμ τω αραβι και τοις καταλοιποις των εχθρων ημων οτι ωκοδομησα το τειχος και ου κατελειφθη εν αυτοις πνοη εως του καιρου εκεινου θυρας ουκ επεστησα εν ταις πυλαις
 Transliteration: [TODO]
@@ -254047,7 +245349,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:2
+### Nehemiah 6:2
 
 Greek: και απεστειλεν σαναβαλλατ και γησαμ προς με λεγων δευρο και συναχθωμεν επι το αυτο εν ταις κωμαις εν πεδιω ωνω και αυτοι λογιζομενοι ποιησαι μοι πονηριαν
 Transliteration: [TODO]
@@ -254067,7 +245369,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:3
+### Nehemiah 6:3
 
 Greek: και απεστειλα επ' αυτους αγγελους λεγων εργον μεγα εγω ποιω και ου δυνησομαι καταβηναι μηποτε καταπαυση το εργον ως αν τελειωσω αυτο καταβησομαι προς υμας
 Transliteration: [TODO]
@@ -254087,7 +245389,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:4
+### Nehemiah 6:4
 
 Greek: και απεστειλαν προς με ως το ρημα τουτο και απεστειλα αυτοις κατα ταυτα
 Transliteration: [TODO]
@@ -254107,7 +245409,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:5
+### Nehemiah 6:5
 
 Greek: και απεστειλεν προς με σαναβαλλατ τον παιδα αυτου και επιστολην ανεωγμενην εν χειρι αυτου
 Transliteration: [TODO]
@@ -254127,7 +245429,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:6
+### Nehemiah 6:6
 
 Greek: και ην γεγραμμενον εν αυτη εν εθνεσιν ηκουσθη οτι συ και οι ιουδαιοι λογιζεσθε αποστατησαι δια τουτο συ οικοδομεις το τειχος και συ γινη αυτοις εις βασιλεα
 Transliteration: [TODO]
@@ -254147,7 +245449,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:7
+### Nehemiah 6:7
 
 Greek: και προς τουτοις προφητας εστησας σεαυτω ινα καθισης εν ιερουσαλημ εις βασιλεα εν ιουδα και νυν απαγγελησονται τω βασιλει οι λογοι ουτοι και νυν δευρο βουλευσωμεθα επι το αυτο
 Transliteration: [TODO]
@@ -254167,7 +245469,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:8
+### Nehemiah 6:8
 
 Greek: και απεστειλα προς αυτον λεγων ουκ εγενηθη ως οι λογοι ουτοι ους συ λεγεις οτι απο καρδιας σου συ ψευδη αυτους
 Transliteration: [TODO]
@@ -254187,7 +245489,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:9
+### Nehemiah 6:9
 
 Greek: οτι παντες φοβεριζουσιν ημας λεγοντες εκλυθησονται αι χειρες αυτων απο του εργου τουτου και ου ποιηθησεται και νυν εκραταιωσα τας χειρας μου
 Transliteration: [TODO]
@@ -254207,7 +245509,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:10
+### Nehemiah 6:10
 
 Greek: και εγω εισηλθον εις οικον σεμει υιου δαλαια υιου μεηταβηλ και αυτος συνεχομενος και ειπεν συναχθωμεν εις οικον του θεου εν μεσω αυτου και κλεισωμεν τας θυρας αυτου οτι ερχονται νυκτος φονευσαι σε
 Transliteration: [TODO]
@@ -254227,7 +245529,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:11
+### Nehemiah 6:11
 
 Greek: και ειπα τις εστιν ο ανηρ ος εισελευσεται εις τον οικον και ζησεται
 Transliteration: [TODO]
@@ -254247,7 +245549,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:12
+### Nehemiah 6:12
 
 Greek: και επεγνων και ιδου ο θεος ουκ απεστειλεν αυτον οτι η προφητεια λογος κατ' εμου και τωβιας και σαναβαλλατ εμισθωσαντο
 Transliteration: [TODO]
@@ -254267,7 +245569,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:13
+### Nehemiah 6:13
 
 Greek: επ' εμε οχλον οπως φοβηθω και ποιησω ουτως και αμαρτω και γενωμαι αυτοις εις ονομα πονηρον οπως ονειδισωσιν με
 Transliteration: [TODO]
@@ -254287,7 +245589,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:14
+### Nehemiah 6:14
 
 Greek: μνησθητι ο θεος τω τωβια και τω σαναβαλλατ ως τα ποιηματα αυτου ταυτα και τω νωαδια τω προφητη και τοις καταλοιποις των προφητων οι ησαν φοβεριζοντες με
 Transliteration: [TODO]
@@ -254307,7 +245609,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:15
+### Nehemiah 6:15
 
 Greek: και ετελεσθη το τειχος πεμπτη και εικαδι του ελουλ εις πεντηκοντα και δυο ημερας
 Transliteration: [TODO]
@@ -254327,7 +245629,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:16
+### Nehemiah 6:16
 
 Greek: και εγενετο ηνικα ηκουσαν παντες οι εχθροι ημων και εφοβηθησαν παντα τα εθνη τα κυκλω ημων και επεπεσεν φοβος σφοδρα εν οφθαλμοις αυτων και εγνωσαν οτι παρα του θεου ημων εγενηθη τελειωθηναι το εργον τουτο
 Transliteration: [TODO]
@@ -254347,7 +245649,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:17
+### Nehemiah 6:17
 
 Greek: και εν ταις ημεραις εκειναις απο πολλων εντιμων ιουδα επιστολαι επορευοντο προς τωβιαν και αι τωβια ηρχοντο προς αυτους
 Transliteration: [TODO]
@@ -254367,7 +245669,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:18
+### Nehemiah 6:18
 
 Greek: οτι πολλοι εν ιουδα ενορκοι ησαν αυτω οτι γαμβρος ην του σεχενια υιου ηραε και ιωαναν υιος αυτου ελαβεν την θυγατερα μεσουλαμ υιου βαραχια εις γυναικα
 Transliteration: [TODO]
@@ -254387,7 +245689,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 16:19
+### Nehemiah 6:19
 
 Greek: και τους λογους αυτου ησαν λεγοντες προς με και λογους μου ησαν εκφεροντες αυτω και επιστολας απεστειλεν τωβιας φοβερισαι με
 Transliteration: [TODO]
@@ -254407,9 +245709,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 17
+## Chapter 7
 
-### Nehemiah 17:1
+### Nehemiah 7:1
 
 Greek: και εγενετο ηνικα ωκοδομηθη το τειχος και εστησα τας θυρας και επεσκεπησαν οι πυλωροι και οι αδοντες και οι λευιται
 Transliteration: [TODO]
@@ -254429,7 +245731,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:2
+### Nehemiah 7:2
 
 Greek: και ενετειλαμην τω ανανια αδελφω μου και τω ανανια αρχοντι της βιρα εν ιερουσαλημ οτι αυτος ως ανηρ αληθης και φοβουμενος τον θεον παρα πολλους
 Transliteration: [TODO]
@@ -254449,7 +245751,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:3
+### Nehemiah 7:3
 
 Greek: και ειπα αυτοις ουκ ανοιγησονται πυλαι ιερουσαλημ εως αμα τω ηλιω και ετι αυτων γρηγορουντων κλειεσθωσαν αι θυραι και σφηνουσθωσαν και στησον προφυλακας οικουντων εν ιερουσαλημ ανηρ εν προφυλακη αυτου και ανηρ απεναντι οικιας αυτου
 Transliteration: [TODO]
@@ -254469,7 +245771,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:4
+### Nehemiah 7:4
 
 Greek: και η πολις πλατεια και μεγαλη και ο λαος ολιγος εν αυτη και ουκ ησαν οικιαι ωκοδομημεναι
 Transliteration: [TODO]
@@ -254489,7 +245791,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:5
+### Nehemiah 7:5
 
 Greek: και εδωκεν ο θεος εις την καρδιαν μου και συνηξα τους εντιμους και τους αρχοντας και τον λαον εις συνοδιας και ευρον βιβλιον της συνοδιας οι ανεβησαν εν πρωτοις και ευρον γεγραμμενον εν αυτω
 Transliteration: [TODO]
@@ -254509,7 +245811,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:6
+### Nehemiah 7:6
 
 Greek: και ουτοι υιοι της χωρας οι αναβαντες απο αιχμαλωσιας της αποικιας ης απωκισεν ναβουχοδονοσορ βασιλευς βαβυλωνος και επεστρεψαν εις ιερουσαλημ και εις ιουδα ανηρ εις την πολιν αυτου
 Transliteration: [TODO]
@@ -254529,7 +245831,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:7
+### Nehemiah 7:7
 
 Greek: μετα ζοροβαβελ και ιησου και νεεμια αζαρια δαεμια ναεμανι μαρδοχαιος βαλσαν μασφαραθ εσδρα βαγοι ναουμ βαανα μασφαρ ανδρες λαου ισραηλ
 Transliteration: [TODO]
@@ -254549,7 +245851,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:8
+### Nehemiah 7:8
 
 Greek: υιοι φορος δισχιλιοι εκατον εβδομηκοντα δυο
 Transliteration: [TODO]
@@ -254569,7 +245871,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:9
+### Nehemiah 7:9
 
 Greek: υιοι σαφατια τριακοσιοι εβδομηκοντα δυο
 Transliteration: [TODO]
@@ -254589,7 +245891,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:10
+### Nehemiah 7:10
 
 Greek: υιοι ηρα εξακοσιοι πεντηκοντα δυο
 Transliteration: [TODO]
@@ -254609,7 +245911,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:11
+### Nehemiah 7:11
 
 Greek: υιοι φααθμωαβ τοις υιοις ιησου και ιωαβ δισχιλιοι οκτακοσιοι δεκα οκτω
 Transliteration: [TODO]
@@ -254629,7 +245931,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:12
+### Nehemiah 7:12
 
 Greek: υιοι αιλαμ χιλιοι διακοσιοι πεντηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -254649,7 +245951,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:13
+### Nehemiah 7:13
 
 Greek: υιοι ζαθουα οκτακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -254669,7 +245971,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:14
+### Nehemiah 7:14
 
 Greek: υιοι ζακχου επτακοσιοι εξηκοντα
 Transliteration: [TODO]
@@ -254689,7 +245991,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:15
+### Nehemiah 7:15
 
 Greek: υιοι βανουι εξακοσιοι τεσσαρακοντα οκτω
 Transliteration: [TODO]
@@ -254709,7 +246011,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:16
+### Nehemiah 7:16
 
 Greek: υιοι βηβι εξακοσιοι εικοσι οκτω
 Transliteration: [TODO]
@@ -254729,7 +246031,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:17
+### Nehemiah 7:17
 
 Greek: υιοι ασγαδ δισχιλιοι τριακοσιοι εικοσι δυο
 Transliteration: [TODO]
@@ -254749,7 +246051,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:18
+### Nehemiah 7:18
 
 Greek: υιοι αδενικαμ εξακοσιοι εξηκοντα επτα
 Transliteration: [TODO]
@@ -254769,7 +246071,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:19
+### Nehemiah 7:19
 
 Greek: υιοι βαγοι δισχιλιοι εξηκοντα επτα
 Transliteration: [TODO]
@@ -254789,7 +246091,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:20
+### Nehemiah 7:20
 
 Greek: υιοι ηδιν εξακοσιοι πεντηκοντα πεντε
 Transliteration: [TODO]
@@ -254809,7 +246111,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:21
+### Nehemiah 7:21
 
 Greek: υιοι ατηρ τω εζεκια ενενηκοντα οκτω
 Transliteration: [TODO]
@@ -254829,7 +246131,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:22
+### Nehemiah 7:22
 
 Greek: υιοι ησαμ τριακοσιοι εικοσι οκτω
 Transliteration: [TODO]
@@ -254849,7 +246151,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:23
+### Nehemiah 7:23
 
 Greek: υιοι βεσι τριακοσιοι εικοσι τεσσαρες
 Transliteration: [TODO]
@@ -254869,7 +246171,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:24
+### Nehemiah 7:24
 
 Greek: υιοι αριφ εκατον δωδεκα
 Transliteration: [TODO]
@@ -254889,7 +246191,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:25
+### Nehemiah 7:25
 
 Greek: υιοι γαβαων ενενηκοντα πεντε
 Transliteration: [TODO]
@@ -254909,7 +246211,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:26
+### Nehemiah 7:26
 
 Greek: υιοι βαιθλεεμ εκατον εικοσι τρεις υιοι νετωφα πεντηκοντα εξ
 Transliteration: [TODO]
@@ -254929,7 +246231,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:27
+### Nehemiah 7:27
 
 Greek: υιοι αναθωθ εκατον εικοσι οκτω
 Transliteration: [TODO]
@@ -254949,7 +246251,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:28
+### Nehemiah 7:28
 
 Greek: ανδρες βηθασμωθ τεσσαρακοντα δυο
 Transliteration: [TODO]
@@ -254969,7 +246271,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:29
+### Nehemiah 7:29
 
 Greek: ανδρες καριαθιαριμ καφιρα και βηρωθ επτακοσιοι τεσσαρακοντα τρεις
 Transliteration: [TODO]
@@ -254989,7 +246291,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:30
+### Nehemiah 7:30
 
 Greek: ανδρες αραμα και γαβαα εξακοσιοι εικοσι εις
 Transliteration: [TODO]
@@ -255009,7 +246311,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:31
+### Nehemiah 7:31
 
 Greek: ανδρες μαχεμας εκατον εικοσι δυο
 Transliteration: [TODO]
@@ -255029,7 +246331,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:32
+### Nehemiah 7:32
 
 Greek: ανδρες βηθηλ και αια εκατον εικοσι τρεις
 Transliteration: [TODO]
@@ -255049,7 +246351,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:33
+### Nehemiah 7:33
 
 Greek: ανδρες ναβι-ααρ πεντηκοντα δυο
 Transliteration: [TODO]
@@ -255069,7 +246371,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:34
+### Nehemiah 7:34
 
 Greek: ανδρες ηλαμ-ααρ χιλιοι διακοσιοι πεντηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -255089,7 +246391,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:35
+### Nehemiah 7:35
 
 Greek: υιοι ηραμ τριακοσιοι εικοσι
 Transliteration: [TODO]
@@ -255109,7 +246411,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:36
+### Nehemiah 7:36
 
 Greek: υιοι ιεριχω τριακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -255129,7 +246431,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:37
+### Nehemiah 7:37
 
 Greek: υιοι λοδ αδιδ και ωνω επτακοσιοι εικοσι εις
 Transliteration: [TODO]
@@ -255149,7 +246451,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:38
+### Nehemiah 7:38
 
 Greek: υιοι σαναα τρισχιλιοι εννακοσιοι τριακοντα
 Transliteration: [TODO]
@@ -255169,7 +246471,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:39
+### Nehemiah 7:39
 
 Greek: οι ιερεις υιοι ιωδαε εις οικον ιησου εννακοσιοι εβδομηκοντα τρεις
 Transliteration: [TODO]
@@ -255189,7 +246491,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:40
+### Nehemiah 7:40
 
 Greek: υιοι εμμηρ χιλιοι πεντηκοντα δυο
 Transliteration: [TODO]
@@ -255209,7 +246511,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:41
+### Nehemiah 7:41
 
 Greek: υιοι φασσουρ χιλιοι διακοσιοι τεσσαρακοντα επτα
 Transliteration: [TODO]
@@ -255229,7 +246531,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:42
+### Nehemiah 7:42
 
 Greek: υιοι ηραμ χιλιοι δεκα επτα
 Transliteration: [TODO]
@@ -255249,7 +246551,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:43
+### Nehemiah 7:43
 
 Greek: οι λευιται υιοι ιησου τω καδμιηλ τοις υιοις του ουδουια εβδομηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -255269,7 +246571,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:44
+### Nehemiah 7:44
 
 Greek: οι αδοντες υιοι ασαφ εκατον τεσσαρακοντα οκτω
 Transliteration: [TODO]
@@ -255289,7 +246591,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:45
+### Nehemiah 7:45
 
 Greek: οι πυλωροι υιοι σαλουμ υιοι ατηρ υιοι τελμων υιοι ακουβ υιοι ατιτα υιοι σαβι εκατον τριακοντα οκτω
 Transliteration: [TODO]
@@ -255309,7 +246611,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:46
+### Nehemiah 7:46
 
 Greek: οι ναθινιμ υιοι σηα υιοι ασιφα υιοι ταβαωθ
 Transliteration: [TODO]
@@ -255329,7 +246631,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:47
+### Nehemiah 7:47
 
 Greek: υιοι κιρας υιοι σουια υιοι φαδων
 Transliteration: [TODO]
@@ -255349,7 +246651,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:48
+### Nehemiah 7:48
 
 Greek: υιοι λαβανα υιοι αγαβα υιοι σαλαμι
 Transliteration: [TODO]
@@ -255369,7 +246671,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:49
+### Nehemiah 7:49
 
 Greek: υιοι αναν υιοι γαδηλ υιοι γααρ
 Transliteration: [TODO]
@@ -255389,7 +246691,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:50
+### Nehemiah 7:50
 
 Greek: υιοι ρααια υιοι ρασων υιοι νεκωδα
 Transliteration: [TODO]
@@ -255409,7 +246711,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:51
+### Nehemiah 7:51
 
 Greek: υιοι γηζαμ υιοι οζι υιοι φεση
 Transliteration: [TODO]
@@ -255429,7 +246731,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:52
+### Nehemiah 7:52
 
 Greek: υιοι βησι υιοι μεινωμ υιοι νεφωσασιμ
 Transliteration: [TODO]
@@ -255449,7 +246751,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:53
+### Nehemiah 7:53
 
 Greek: υιοι βακβουκ υιοι αχιφα υιοι αρουρ
 Transliteration: [TODO]
@@ -255469,7 +246771,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:54
+### Nehemiah 7:54
 
 Greek: υιοι βασαλωθ υιοι μειδα υιοι αδασαν
 Transliteration: [TODO]
@@ -255489,7 +246791,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:55
+### Nehemiah 7:55
 
 Greek: υιοι βαρκους υιοι σισαρα υιοι θημα
 Transliteration: [TODO]
@@ -255509,7 +246811,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:56
+### Nehemiah 7:56
 
 Greek: υιοι νισια υιοι ατιφα
 Transliteration: [TODO]
@@ -255529,7 +246831,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:57
+### Nehemiah 7:57
 
 Greek: υιοι δουλων σαλωμων υιοι σουτι υιοι σαφαραθ υιοι φεριδα
 Transliteration: [TODO]
@@ -255549,7 +246851,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:58
+### Nehemiah 7:58
 
 Greek: υιοι ιεαλη υιοι δορκων υιοι γαδηλ
 Transliteration: [TODO]
@@ -255569,7 +246871,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:59
+### Nehemiah 7:59
 
 Greek: υιοι σαφατια υιοι ετηλ υιοι φαχαραθ υιοι σαβαιμ υιοι ημιμ
 Transliteration: [TODO]
@@ -255589,7 +246891,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:60
+### Nehemiah 7:60
 
 Greek: παντες οι ναθινιμ και υιοι δουλων σαλωμων τριακοσιοι ενενηκοντα δυο
 Transliteration: [TODO]
@@ -255609,7 +246911,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:61
+### Nehemiah 7:61
 
 Greek: και ουτοι ανεβησαν απο θελμελεθ αρησα χαρουβ ηρων ιεμηρ και ουκ ηδυνασθησαν απαγγειλαι οικους πατριων αυτων και σπερμα αυτων ει απο ισραηλ εισιν
 Transliteration: [TODO]
@@ -255629,7 +246931,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:62
+### Nehemiah 7:62
 
 Greek: υιοι δαλαια υιοι τωβια υιοι νεκωδα εξακοσιοι τεσσαρακοντα δυο
 Transliteration: [TODO]
@@ -255649,7 +246951,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:63
+### Nehemiah 7:63
 
 Greek: και απο των ιερεων υιοι εβια υιοι ακως υιοι βερζελλι οτι ελαβεν απο θυγατερων βερζελλι του γαλααδιτου γυναικας και εκληθη επ' ονοματι αυτων
 Transliteration: [TODO]
@@ -255669,7 +246971,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:64
+### Nehemiah 7:64
 
 Greek: ουτοι εζητησαν γραφην αυτων της συνοδιας και ουχ ευρεθη και ηγχιστευθησαν απο της ιερατειας
 Transliteration: [TODO]
@@ -255689,7 +246991,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:65
+### Nehemiah 7:65
 
 Greek: και ειπεν αθερσαθα ινα μη φαγωσιν απο του αγιου των αγιων εως αναστη ο ιερευς φωτισων
 Transliteration: [TODO]
@@ -255709,7 +247011,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:66
+### Nehemiah 7:66
 
 Greek: και εγενετο πασα η εκκλησια ως εις τεσσαρες μυριαδες δισχιλιοι τριακοσιοι εξηκοντα
 Transliteration: [TODO]
@@ -255729,7 +247031,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:67
+### Nehemiah 7:67
 
 Greek: παρεξ δουλων αυτων και παιδισκων αυτων ουτοι επτακισχιλιοι τριακοσιοι τριακοντα επτα και αδοντες και αδουσαι διακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -255749,7 +247051,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:68
+### Nehemiah 7:68
 
 Greek: ιπποι επτακοσιοι τριακοντα εξ ημιονοι διακοσιοι τεσσαρακοντα πεντε
 Transliteration: [TODO]
@@ -255769,7 +247071,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:69
+### Nehemiah 7:69
 
 Greek: καμηλοι τετρακοσιοι τριακοντα πεντε ονοι εξακισχιλιοι επτακοσιοι εικοσι
 Transliteration: [TODO]
@@ -255789,7 +247091,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:70
+### Nehemiah 7:70
 
 Greek: και απο μερους αρχηγων των πατριων εδωκαν εις το εργον τω νεεμια εις θησαυρον χρυσους χιλιους φιαλας πεντηκοντα και χοθωνωθ των ιερεων τριακοντα
 Transliteration: [TODO]
@@ -255809,7 +247111,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:71
+### Nehemiah 7:71
 
 Greek: και απο αρχηγων των πατριων εδωκαν εις θησαυρον του εργου χρυσιου δυο μυριαδας και αργυριου μνας δισχιλιας διακοσιας
 Transliteration: [TODO]
@@ -255829,7 +247131,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:72
+### Nehemiah 7:72
 
 Greek: και εδωκαν οι καταλοιποι του λαου χρυσιου δυο μυριαδας και αργυριου μνας δισχιλιας διακοσιας και χοθωνωθ των ιερεων εξηκοντα επτα
 Transliteration: [TODO]
@@ -255849,7 +247151,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 17:73
+### Nehemiah 7:73
 
 Greek: και εκαθισαν οι ιερεις και οι λευιται και οι πυλωροι και οι αδοντες και οι απο του λαου και οι ναθινιμ και πας ισραηλ εν πολεσιν αυτων και εφθασεν ο μην ο εβδομος και οι υιοι ισραηλ εν πολεσιν αυτων
 Transliteration: [TODO]
@@ -255869,9 +247171,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 18
+## Chapter 8
 
-### Nehemiah 18:1
+### Nehemiah 8:1
 
 Greek: και συνηχθησαν πας ο λαος ως ανηρ εις εις το πλατος το εμπροσθεν πυλης του υδατος και ειπαν τω εσδρα τω γραμματει ενεγκαι το βιβλιον νομου μωυση ον ενετειλατο κυριος τω ισραηλ
 Transliteration: [TODO]
@@ -255891,7 +247193,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:2
+### Nehemiah 8:2
 
 Greek: και ηνεγκεν εσδρας ο ιερευς τον νομον ενωπιον της εκκλησιας απο ανδρος και εως γυναικος και πας ο συνιων ακουειν εν ημερα μια του μηνος του εβδομου
 Transliteration: [TODO]
@@ -255911,7 +247213,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:3
+### Nehemiah 8:3
 
 Greek: και ανεγνω εν αυτω απο της ωρας του διαφωτισαι τον ηλιον εως ημισους της ημερας απεναντι των ανδρων και των γυναικων και αυτοι συνιεντες και ωτα παντος του λαου εις το βιβλιον του νομου
 Transliteration: [TODO]
@@ -255931,7 +247233,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:4
+### Nehemiah 8:4
 
 Greek: και εστη εσδρας ο γραμματευς επι βηματος ξυλινου και εστησαν εχομενα αυτου ματταθιας και σαμαιας και ανανιας και ουρια και ελκια και μαασαια εκ δεξιων αυτου και εξ αριστερων φαδαιας και μισαηλ και μελχιας και ωσαμ και ασαβδανα και ζαχαριας και μοσολλαμ
 Transliteration: [TODO]
@@ -255951,7 +247253,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:5
+### Nehemiah 8:5
 
 Greek: και ηνοιξεν εσδρας το βιβλιον ενωπιον παντος του λαου οτι αυτος ην επανω του λαου και εγενετο ηνικα ηνοιξεν αυτο εστη πας ο λαος
 Transliteration: [TODO]
@@ -255971,7 +247273,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:6
+### Nehemiah 8:6
 
 Greek: και ηυλογησεν εσδρας κυριον τον θεον τον μεγαν και απεκριθη πας ο λαος και ειπαν αμην επαραντες χειρας αυτων και εκυψαν και προσεκυνησαν τω κυριω επι προσωπον επι την γην
 Transliteration: [TODO]
@@ -255991,7 +247293,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:7
+### Nehemiah 8:7
 
 Greek: και ιησους και βαναιας και σαραβια ησαν συνετιζοντες τον λαον εις τον νομον και ο λαος εν τη στασει αυτου
 Transliteration: [TODO]
@@ -256011,7 +247313,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:8
+### Nehemiah 8:8
 
 Greek: και ανεγνωσαν εν βιβλιω νομου του θεου και εδιδασκεν εσδρας και διεστελλεν εν επιστημη κυριου και συνηκεν ο λαος εν τη αναγνωσει
 Transliteration: [TODO]
@@ -256031,7 +247333,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:9
+### Nehemiah 8:9
 
 Greek: και ειπεν νεεμιας και εσδρας ο ιερευς και γραμματευς και οι λευιται οι συνετιζοντες τον λαον και ειπαν παντι τω λαω η ημερα αγια εστιν τω κυριω θεω ημων μη πενθειτε μηδε κλαιετε οτι εκλαιεν πας ο λαος ως ηκουσαν τους λογους του νομου
 Transliteration: [TODO]
@@ -256051,7 +247353,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:10
+### Nehemiah 8:10
 
 Greek: και ειπεν αυτοις πορευεσθε φαγετε λιπασματα και πιετε γλυκασματα και αποστειλατε μεριδας τοις μη εχουσιν οτι αγια εστιν η ημερα τω κυριω ημων και μη διαπεσητε οτι εστιν ισχυς υμων
 Transliteration: [TODO]
@@ -256071,7 +247373,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:11
+### Nehemiah 8:11
 
 Greek: και οι λευιται κατεσιωπων παντα τον λαον λεγοντες σιωπατε οτι η ημερα αγια και μη καταπιπτετε
 Transliteration: [TODO]
@@ -256091,7 +247393,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:12
+### Nehemiah 8:12
 
 Greek: και απηλθεν πας ο λαος φαγειν και πιειν και αποστελλειν μεριδας και ποιησαι ευφροσυνην μεγαλην οτι συνηκαν εν τοις λογοις οις εγνωρισεν αυτοις
 Transliteration: [TODO]
@@ -256111,7 +247413,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:13
+### Nehemiah 8:13
 
 Greek: και εν τη ημερα τη δευτερα συνηχθησαν οι αρχοντες των πατριων τω παντι λαω οι ιερεις και οι λευιται προς εσδραν τον γραμματεα επιστησαι προς παντας τους λογους του νομου
 Transliteration: [TODO]
@@ -256131,7 +247433,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:14
+### Nehemiah 8:14
 
 Greek: και ευροσαν γεγραμμενον εν τω νομω ω ενετειλατο κυριος τω μωυση οπως κατοικησωσιν οι υιοι ισραηλ εν σκηναις εν εορτη εν μηνι τω εβδομω
 Transliteration: [TODO]
@@ -256151,7 +247453,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:15
+### Nehemiah 8:15
 
 Greek: και οπως σημανωσιν σαλπιγξιν εν πασαις ταις πολεσιν αυτων και εν ιερουσαλημ και ειπεν εσδρας εξελθετε εις το ορος και ενεγκετε φυλλα ελαιας και φυλλα ξυλων κυπαρισσινων και φυλλα μυρσινης και φυλλα φοινικων και φυλλα ξυλου δασεος ποιησαι σκηνας κατα το γεγραμμενον
 Transliteration: [TODO]
@@ -256171,7 +247473,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:16
+### Nehemiah 8:16
 
 Greek: και εξηλθεν ο λαος και ηνεγκαν και εποιησαν εαυτοις σκηνας ανηρ επι του δωματος αυτου και εν ταις αυλαις αυτων και εν ταις αυλαις οικου του θεου και εν πλατειαις της πολεως και εως πυλης εφραιμ
 Transliteration: [TODO]
@@ -256191,7 +247493,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:17
+### Nehemiah 8:17
 
 Greek: και εποιησαν πασα η εκκλησια οι επιστρεψαντες απο της αιχμαλωσιας σκηνας και εκαθισαν εν σκηναις οτι ουκ εποιησαν απο ημερων ιησου υιου ναυη ουτως οι υιοι ισραηλ εως της ημερας εκεινης και εγενετο ευφροσυνη μεγαλη
 Transliteration: [TODO]
@@ -256211,7 +247513,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 18:18
+### Nehemiah 8:18
 
 Greek: και ανεγνω εν βιβλιω νομου του θεου ημεραν εν ημερα απο της ημερας της πρωτης εως της ημερας της εσχατης και εποιησαν εορτην επτα ημερας και τη ημερα τη ογδοη εξοδιον κατα το κριμα
 Transliteration: [TODO]
@@ -256231,9 +247533,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 19
+## Chapter 9
 
-### Nehemiah 19:1
+### Nehemiah 9:1
 
 Greek: και εν ημερα εικοστη και τεταρτη του μηνος τουτου συνηχθησαν οι υιοι ισραηλ εν νηστεια και εν σακκοις
 Transliteration: [TODO]
@@ -256253,7 +247555,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:2
+### Nehemiah 9:2
 
 Greek: και εχωρισθησαν οι υιοι ισραηλ απο παντος υιου αλλοτριου και εστησαν και εξηγορευσαν τας αμαρτιας αυτων και τας ανομιας των πατερων αυτων
 Transliteration: [TODO]
@@ -256273,7 +247575,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:3
+### Nehemiah 9:3
 
 Greek: και εστησαν επι στασει αυτων και ανεγνωσαν εν βιβλιω νομου κυριου θεου αυτων και ησαν εξαγορευοντες τω κυριω και προσκυνουντες τω κυριω θεω αυτων
 Transliteration: [TODO]
@@ -256293,7 +247595,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:4
+### Nehemiah 9:4
 
 Greek: και εστη επι αναβασει των λευιτων ιησους και υιοι καδμιηλ σαχανια υιος σαραβια υιοι χανανι και εβοησαν φωνη μεγαλη προς κυριον τον θεον αυτων
 Transliteration: [TODO]
@@ -256313,7 +247615,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:5
+### Nehemiah 9:5
 
 Greek: και ειποσαν οι λευιται ιησους και καδμιηλ αναστητε ευλογειτε τον κυριον θεον υμων απο του αιωνος και εως του αιωνος και ευλογησουσιν ονομα δοξης σου και υψωσουσιν επι παση ευλογια και αινεσει
 Transliteration: [TODO]
@@ -256333,7 +247635,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:6
+### Nehemiah 9:6
 
 Greek: και ειπεν εσδρας συ ει αυτος κυριος μονος συ εποιησας τον ουρανον και τον ουρανον του ουρανου και πασαν την στασιν αυτων την γην και παντα οσα εστιν εν αυτη τας θαλασσας και παντα τα εν αυταις και συ ζωοποιεις τα παντα και σοι προσκυνουσιν αι στρατιαι των ουρανων
 Transliteration: [TODO]
@@ -256353,7 +247655,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:7
+### Nehemiah 9:7
 
 Greek: συ ει κυριος ο θεος συ εξελεξω εν αβραμ και εξηγαγες αυτον εκ της χωρας των χαλδαιων και επεθηκας αυτω ονομα αβρααμ
 Transliteration: [TODO]
@@ -256373,7 +247675,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:8
+### Nehemiah 9:8
 
 Greek: και ευρες την καρδιαν αυτου πιστην ενωπιον σου και διεθου προς αυτον διαθηκην δουναι αυτω την γην των χαναναιων και χετταιων και αμορραιων και φερεζαιων και ιεβουσαιων και γεργεσαιων και τω σπερματι αυτου και εστησας τους λογους σου οτι δικαιος συ
 Transliteration: [TODO]
@@ -256393,7 +247695,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:9
+### Nehemiah 9:9
 
 Greek: και ειδες την ταπεινωσιν των πατερων ημων εν αιγυπτω και την κραυγην αυτων ηκουσας επι θαλασσαν ερυθραν
 Transliteration: [TODO]
@@ -256413,7 +247715,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:10
+### Nehemiah 9:10
 
 Greek: και εδωκας σημεια εν αιγυπτω εν φαραω και εν πασιν τοις παισιν αυτου και εν παντι τω λαω της γης αυτου οτι εγνως οτι υπερηφανησαν επ' αυτους και εποιησας σεαυτω ονομα ως η ημερα αυτη
 Transliteration: [TODO]
@@ -256433,7 +247735,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:11
+### Nehemiah 9:11
 
 Greek: και την θαλασσαν ερρηξας ενωπιον αυτων και παρηλθοσαν εν μεσω της θαλασσης εν ξηρασια και τους καταδιωξαντας αυτους ερριψας εις βυθον ωσει λιθον εν υδατι σφοδρω
 Transliteration: [TODO]
@@ -256453,7 +247755,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:12
+### Nehemiah 9:12
 
 Greek: και εν στυλω νεφελης ωδηγησας αυτους ημερας και εν στυλω πυρος την νυκτα του φωτισαι αυτοις την οδον εν η πορευσονται εν αυτη
 Transliteration: [TODO]
@@ -256473,7 +247775,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:13
+### Nehemiah 9:13
 
 Greek: και επι ορος σινα κατεβης και ελαλησας προς αυτους εξ ουρανου και εδωκας αυτοις κριματα ευθεα και νομους αληθειας προσταγματα και εντολας αγαθας
 Transliteration: [TODO]
@@ -256493,7 +247795,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:14
+### Nehemiah 9:14
 
 Greek: και το σαββατον σου το αγιον εγνωρισας αυτοις εντολας και προσταγματα και νομον ενετειλω αυτοις εν χειρι μωυση δουλου σου
 Transliteration: [TODO]
@@ -256513,7 +247815,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:15
+### Nehemiah 9:15
 
 Greek: και αρτον εξ ουρανου εδωκας αυτοις εις σιτοδειαν αυτων και υδωρ εκ πετρας εξηνεγκας αυτοις εις διψαν αυτων και ειπας αυτοις εισελθειν κληρονομησαι την γην εφ' ην εξετεινας την χειρα σου δουναι αυτοις
 Transliteration: [TODO]
@@ -256533,7 +247835,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:16
+### Nehemiah 9:16
 
 Greek: και αυτοι και οι πατερες ημων υπερηφανευσαντο και εσκληρυναν τον τραχηλον αυτων και ουκ ηκουσαν των εντολων σου
 Transliteration: [TODO]
@@ -256553,7 +247855,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:17
+### Nehemiah 9:17
 
 Greek: και ανενευσαν του εισακουσαι και ουκ εμνησθησαν των θαυμασιων σου ων εποιησας μετ' αυτων και εσκληρυναν τον τραχηλον αυτων και εδωκαν αρχην επιστρεψαι εις δουλειαν αυτων εν αιγυπτω και συ θεος ελεημων και οικτιρμων μακροθυμος και πολυελεος και ουκ εγκατελιπες αυτους
 Transliteration: [TODO]
@@ -256573,7 +247875,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:18
+### Nehemiah 9:18
 
 Greek: ετι δε και εποιησαν εαυτοις μοσχον χωνευτον και ειπαν ουτοι οι θεοι οι εξαγαγοντες ημας εξ αιγυπτου και εποιησαν παροργισμους μεγαλους
 Transliteration: [TODO]
@@ -256593,7 +247895,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:19
+### Nehemiah 9:19
 
 Greek: και συ εν οικτιρμοις σου τοις πολλοις ουκ εγκατελιπες αυτους εν τη ερημω τον στυλον της νεφελης ουκ εξεκλινας απ' αυτων ημερας οδηγησαι αυτους εν τη οδω και τον στυλον του πυρος την νυκτα φωτιζειν αυτοις την οδον εν η πορευσονται εν αυτη
 Transliteration: [TODO]
@@ -256613,7 +247915,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:20
+### Nehemiah 9:20
 
 Greek: και το πνευμα σου το αγαθον εδωκας συνετισαι αυτους και το μαννα σου ουκ αφυστερησας απο στοματος αυτων και υδωρ εδωκας αυτοις τω διψει αυτων
 Transliteration: [TODO]
@@ -256633,7 +247935,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:21
+### Nehemiah 9:21
 
 Greek: και τεσσαρακοντα ετη διεθρεψας αυτους εν τη ερημω ουχ υστερησαν ιματια αυτων ουκ επαλαιωθησαν και ποδες αυτων ου διερραγησαν
 Transliteration: [TODO]
@@ -256653,7 +247955,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:22
+### Nehemiah 9:22
 
 Greek: και εδωκας αυτοις βασιλειας και λαους και διεμερισας αυτοις και εκληρονομησαν την γην σηων βασιλεως εσεβων και την γην ωγ βασιλεως του βασαν
 Transliteration: [TODO]
@@ -256673,7 +247975,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:23
+### Nehemiah 9:23
 
 Greek: και τους υιους αυτων επληθυνας ως τους αστερας του ουρανου και εισηγαγες αυτους εις την γην ην ειπας τοις πατρασιν αυτων και εκληρονομησαν αυτην
 Transliteration: [TODO]
@@ -256693,7 +247995,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:24
+### Nehemiah 9:24
 
 Greek: και εξετριψας ενωπιον αυτων τους κατοικουντας την γην των χαναναιων και εδωκας αυτους εις τας χειρας αυτων και τους βασιλεις αυτων και τους λαους της γης ποιησαι αυτοις ως αρεστον ενωπιον αυτων
 Transliteration: [TODO]
@@ -256713,7 +248015,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:25
+### Nehemiah 9:25
 
 Greek: και κατελαβοσαν πολεις υψηλας και εκληρονομησαν οικιας πληρεις παντων αγαθων λακκους λελατομημενους αμπελωνας και ελαιωνας και παν ξυλον βρωσιμον εις πληθος και εφαγοσαν και ενεπλησθησαν και ελιπανθησαν και ετρυφησαν εν αγαθωσυνη σου τη μεγαλη
 Transliteration: [TODO]
@@ -256733,7 +248035,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:26
+### Nehemiah 9:26
 
 Greek: και ηλλαξαν και απεστησαν απο σου και ερριψαν τον νομον σου οπισω σωματος αυτων και τους προφητας σου απεκτειναν οι διεμαρτυραντο εν αυτοις επιστρεψαι αυτους προς σε και εποιησαν παροργισμους μεγαλους
 Transliteration: [TODO]
@@ -256753,7 +248055,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:27
+### Nehemiah 9:27
 
 Greek: και εδωκας αυτους εν χειρι θλιβοντων αυτους και εθλιψαν αυτους και ανεβοησαν προς σε εν καιρω θλιψεως αυτων και συ εξ ουρανου σου ηκουσας και εν οικτιρμοις σου τοις μεγαλοις εδωκας αυτοις σωτηρας και εσωσας αυτους εκ χειρος θλιβοντων αυτους
 Transliteration: [TODO]
@@ -256773,7 +248075,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:28
+### Nehemiah 9:28
 
 Greek: και ως ανεπαυσαντο επεστρεψαν ποιησαι το πονηρον ενωπιον σου και εγκατελιπες αυτους εις χειρας εχθρων αυτων και κατηρξαν εν αυτοις και παλιν ανεβοησαν προς σε και συ εξ ουρανου εισηκουσας και ερρυσω αυτους εν οικτιρμοις σου πολλοις
 Transliteration: [TODO]
@@ -256793,7 +248095,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:29
+### Nehemiah 9:29
 
 Greek: και επεμαρτυρω αυτοις επιστρεψαι αυτους εις τον νομον σου και ουκ ηκουσαν αλλα εν ταις εντολαις σου και εν τοις κριμασι σου ημαρτοσαν α ποιησας αυτα ανθρωπος ζησεται εν αυτοις και εδωκαν νωτον απειθουντα και τραχηλον αυτων εσκληρυναν και ουκ ηκουσαν
 Transliteration: [TODO]
@@ -256813,7 +248115,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:30
+### Nehemiah 9:30
 
 Greek: και ειλκυσας επ' αυτους ετη πολλα και επεμαρτυρω αυτοις εν πνευματι σου εν χειρι προφητων σου και ουκ ηνωτισαντο και εδωκας αυτους εν χειρι λαων της γης
 Transliteration: [TODO]
@@ -256833,7 +248135,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:31
+### Nehemiah 9:31
 
 Greek: και συ εν οικτιρμοις σου τοις πολλοις ουκ εποιησας αυτους συντελειαν και ουκ εγκατελιπες αυτους οτι ισχυρος ει και ελεημων και οικτιρμων
 Transliteration: [TODO]
@@ -256853,7 +248155,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:32
+### Nehemiah 9:32
 
 Greek: και νυν ο θεος ημων ο ισχυρος ο μεγας ο κραταιος και ο φοβερος φυλασσων την διαθηκην σου και το ελεος σου μη ολιγωθητω ενωπιον σου πας ο μοχθος ος ευρεν ημας και τους βασιλεις ημων και τους αρχοντας ημων και τους ιερεις ημων και τους προφητας ημων και τους πατερας ημων και εν παντι τω λαω σου απο ημερων βασιλεων ασσουρ και εως της ημερας ταυτης
 Transliteration: [TODO]
@@ -256873,7 +248175,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:33
+### Nehemiah 9:33
 
 Greek: και συ δικαιος επι πασι τοις ερχομενοις εφ' ημας οτι αληθειαν εποιησας και ημεις εξημαρτομεν
 Transliteration: [TODO]
@@ -256893,7 +248195,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:34
+### Nehemiah 9:34
 
 Greek: και οι βασιλεις ημων και οι αρχοντες ημων και οι ιερεις ημων και οι πατερες ημων ουκ εποιησαν τον νομον σου και ου προσεσχον των εντολων σου και τα μαρτυρια σου α διεμαρτυρω αυτοις
 Transliteration: [TODO]
@@ -256913,7 +248215,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:35
+### Nehemiah 9:35
 
 Greek: και αυτοι εν βασιλεια σου και εν αγαθωσυνη σου τη πολλη η εδωκας αυτοις και εν τη γη τη πλατεια και λιπαρα η εδωκας ενωπιον αυτων ουκ εδουλευσαν σοι και ουκ απεστρεψαν απο επιτηδευματων αυτων των πονηρων
 Transliteration: [TODO]
@@ -256933,7 +248235,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:36
+### Nehemiah 9:36
 
 Greek: ιδου εσμεν σημερον δουλοι και η γη ην εδωκας τοις πατρασιν ημων φαγειν τον καρπον αυτης
 Transliteration: [TODO]
@@ -256953,7 +248255,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 19:37
+### Nehemiah 9:37
 
 Greek: τοις βασιλευσιν οις εδωκας εφ' ημας εν αμαρτιαις ημων και επι τα σωματα ημων εξουσιαζουσιν και εν κτηνεσιν ημων ως αρεστον αυτοις και εν θλιψει μεγαλη εσμεν
 Transliteration: [TODO]
@@ -256973,9 +248275,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 20
+## Chapter 10
 
-### Nehemiah 20:1
+### Nehemiah 10:1
 
 Greek: και εν πασι τουτοις ημεις διατιθεμεθα πιστιν και γραφομεν και επισφραγιζουσιν παντες αρχοντες ημων λευιται ημων ιερεις ημων
 Transliteration: [TODO]
@@ -256995,7 +248297,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:2
+### Nehemiah 10:2
 
 Greek: και επι των σφραγιζοντων νεεμιας υιος αχαλια και σεδεκιας
 Transliteration: [TODO]
@@ -257015,7 +248317,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:3
+### Nehemiah 10:3
 
 Greek: υιος σαραια και αζαρια και ιερμια
 Transliteration: [TODO]
@@ -257035,7 +248337,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:4
+### Nehemiah 10:4
 
 Greek: φασουρ αμαρια μελχια
 Transliteration: [TODO]
@@ -257055,7 +248357,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:5
+### Nehemiah 10:5
 
 Greek: ατους σεβανι μαλουχ
 Transliteration: [TODO]
@@ -257075,7 +248377,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:6
+### Nehemiah 10:6
 
 Greek: ιραμ μεραμωθ αβδια
 Transliteration: [TODO]
@@ -257095,7 +248397,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:7
+### Nehemiah 10:7
 
 Greek: δανιηλ γαναθων βαρουχ
 Transliteration: [TODO]
@@ -257115,7 +248417,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:8
+### Nehemiah 10:8
 
 Greek: μεσουλαμ αβια μιαμιν
 Transliteration: [TODO]
@@ -257135,7 +248437,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:9
+### Nehemiah 10:9
 
 Greek: μααζια βελγαι σαμαια ουτοι ιερεις
 Transliteration: [TODO]
@@ -257155,7 +248457,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:10
+### Nehemiah 10:10
 
 Greek: και οι λευιται ιησους υιος αζανια βαναιου απο υιων ηναδαδ καδμιηλ
 Transliteration: [TODO]
@@ -257175,7 +248477,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:11
+### Nehemiah 10:11
 
 Greek: και οι αδελφοι αυτου σαβανια ωδουια καλιτα φελεια αναν
 Transliteration: [TODO]
@@ -257195,7 +248497,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:12
+### Nehemiah 10:12
 
 Greek: μιχα ροωβ εσεβιας
 Transliteration: [TODO]
@@ -257215,7 +248517,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:13
+### Nehemiah 10:13
 
 Greek: ζαχωρ σαραβια σεβανια
 Transliteration: [TODO]
@@ -257235,7 +248537,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:14
+### Nehemiah 10:14
 
 Greek: ωδουια υιοι βανουναι
 Transliteration: [TODO]
@@ -257255,7 +248557,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:15
+### Nehemiah 10:15
 
 Greek: αρχοντες του λαου φορος φααθμωαβ ηλαμ ζαθουια υιοι
 Transliteration: [TODO]
@@ -257275,7 +248577,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:16
+### Nehemiah 10:16
 
 Greek: βανι ασγαδ βηβαι
 Transliteration: [TODO]
@@ -257295,7 +248597,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:17
+### Nehemiah 10:17
 
 Greek: εδανια βαγοι ηδιν
 Transliteration: [TODO]
@@ -257315,7 +248617,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:18
+### Nehemiah 10:18
 
 Greek: ατηρ εζεκια αζουρ
 Transliteration: [TODO]
@@ -257335,7 +248637,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:19
+### Nehemiah 10:19
 
 Greek: οδουια ησαμ βησι
 Transliteration: [TODO]
@@ -257355,7 +248657,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:20
+### Nehemiah 10:20
 
 Greek: αριφ αναθωθ νωβαι
 Transliteration: [TODO]
@@ -257375,7 +248677,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:21
+### Nehemiah 10:21
 
 Greek: μαγαφης μεσουλαμ ηζιρ
 Transliteration: [TODO]
@@ -257395,7 +248697,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:22
+### Nehemiah 10:22
 
 Greek: μεσωζεβηλ σαδδουκ ιεδδουα
 Transliteration: [TODO]
@@ -257415,7 +248717,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:23
+### Nehemiah 10:23
 
 Greek: φαλτια αναν αναια
 Transliteration: [TODO]
@@ -257435,7 +248737,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:24
+### Nehemiah 10:24
 
 Greek: ωσηε ανανια ασουβ
 Transliteration: [TODO]
@@ -257455,7 +248757,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:25
+### Nehemiah 10:25
 
 Greek: αλωης φαλαι σωβηκ
 Transliteration: [TODO]
@@ -257475,7 +248777,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:26
+### Nehemiah 10:26
 
 Greek: ραουμ εσαβανα μαασαια
 Transliteration: [TODO]
@@ -257495,7 +248797,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:27
+### Nehemiah 10:27
 
 Greek: και αια αιναν ηναν
 Transliteration: [TODO]
@@ -257515,7 +248817,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:28
+### Nehemiah 10:28
 
 Greek: μαλουχ ηραμ βαανα
 Transliteration: [TODO]
@@ -257535,7 +248837,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:29
+### Nehemiah 10:29
 
 Greek: και οι καταλοιποι του λαου οι ιερεις οι λευιται οι πυλωροι οι αδοντες οι ναθινιμ και πας ο προσπορευομενος απο λαων της γης προς νομον του θεου γυναικες αυτων υιοι αυτων θυγατερες αυτων πας ο ειδως και συνιων
 Transliteration: [TODO]
@@ -257555,7 +248857,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:30
+### Nehemiah 10:30
 
 Greek: ενισχυον επι τους αδελφους αυτων κατηρασαντο αυτους και εισηλθοσαν εν αρα και εν ορκω του πορευεσθαι εν νομω του θεου ος εδοθη εν χειρι μωυση δουλου του θεου και φυλασσεσθαι και ποιειν πασας τας εντολας κυριου ημων και κριματα αυτου
 Transliteration: [TODO]
@@ -257575,7 +248877,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:31
+### Nehemiah 10:31
 
 Greek: και του μη δουναι θυγατερας ημων τοις λαοις της γης και τας θυγατερας αυτων ου λημψομεθα τοις υιοις ημων
 Transliteration: [TODO]
@@ -257595,7 +248897,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:32
+### Nehemiah 10:32
 
 Greek: και λαοι της γης οι φεροντες τους αγορασμους και πασαν πρασιν εν ημερα του σαββατου αποδοσθαι ουκ αγορωμεν παρ' αυτων εν σαββατω και εν ημερα αγια και ανησομεν το ετος το εβδομον και απαιτησιν πασης χειρος
 Transliteration: [TODO]
@@ -257615,7 +248917,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:33
+### Nehemiah 10:33
 
 Greek: και στησομεν εφ' ημας εντολας δουναι εφ' ημας τριτον του διδραχμου κατ' ενιαυτον εις δουλειαν οικου θεου ημων
 Transliteration: [TODO]
@@ -257635,7 +248937,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:34
+### Nehemiah 10:34
 
 Greek: εις αρτους του προσωπου και θυσιαν του ενδελεχισμου και εις ολοκαυτωμα του ενδελεχισμου των σαββατων των νουμηνιων εις τας εορτας και εις τα αγια και τα περι αμαρτιας εξιλασασθαι περι ισραηλ και εις εργα οικου θεου ημων
 Transliteration: [TODO]
@@ -257655,7 +248957,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:35
+### Nehemiah 10:35
 
 Greek: και κληρους εβαλομεν περι κληρου ξυλοφοριας οι ιερεις και οι λευιται και ο λαος ενεγκαι εις οικον θεου ημων εις οικον πατριων ημων εις καιρους απο χρονων ενιαυτον κατ' ενιαυτον εκκαυσαι επι το θυσιαστηριον κυριου θεου ημων ως γεγραπται εν τω νομω
 Transliteration: [TODO]
@@ -257675,7 +248977,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:36
+### Nehemiah 10:36
 
 Greek: και ενεγκαι τα πρωτογενηματα της γης ημων και πρωτογενηματα καρπου παντος ξυλου ενιαυτον κατ' ενιαυτον εις οικον κυριου
 Transliteration: [TODO]
@@ -257695,7 +248997,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:37
+### Nehemiah 10:37
 
 Greek: και τα πρωτοτοκα υιων ημων και κτηνων ημων ως γεγραπται εν τω νομω και τα πρωτοτοκα βοων ημων και ποιμνιων ημων ενεγκαι εις οικον θεου ημων τοις ιερευσιν τοις λειτουργουσιν εν οικω θεου ημων
 Transliteration: [TODO]
@@ -257715,7 +249017,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:38
+### Nehemiah 10:38
 
 Greek: και την απαρχην σιτων ημων και τον καρπον παντος ξυλου οινου και ελαιου οισομεν τοις ιερευσιν εις γαζοφυλακιον οικου του θεου και δεκατην γης ημων τοις λευιταις και αυτοι οι λευιται δεκατουντες εν πασαις πολεσιν δουλειας ημων
 Transliteration: [TODO]
@@ -257735,7 +249037,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:39
+### Nehemiah 10:39
 
 Greek: και εσται ο ιερευς υιος ααρων μετα του λευιτου εν τη δεκατη του λευιτου και οι λευιται ανοισουσιν την δεκατην της δεκατης εις οικον θεου ημων εις τα γαζοφυλακια εις οικον του θεου
 Transliteration: [TODO]
@@ -257755,7 +249057,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 20:40
+### Nehemiah 10:40
 
 Greek: οτι εις τους θησαυρους εισοισουσιν οι υιοι ισραηλ και οι υιοι του λευι τας απαρχας του σιτου και του οινου και του ελαιου και εκει σκευη τα αγια και οι ιερεις οι λειτουργοι και οι πυλωροι και οι αδοντες και ουκ εγκαταλειψομεν τον οικον του θεου ημων
 Transliteration: [TODO]
@@ -257775,9 +249077,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 21
+## Chapter 11
 
-### Nehemiah 21:1
+### Nehemiah 11:1
 
 Greek: και εκαθισαν οι αρχοντες του λαου εν ιερουσαλημ και οι καταλοιποι του λαου εβαλοσαν κληρους ενεγκαι ενα απο των δεκα καθισαι εν ιερουσαλημ πολει τη αγια και εννεα μερη εν ταις πολεσιν
 Transliteration: [TODO]
@@ -257797,7 +249099,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:2
+### Nehemiah 11:2
 
 Greek: και ευλογησεν ο λαος τους παντας ανδρας τους εκουσιαζομενους καθισαι εν ιερουσαλημ
 Transliteration: [TODO]
@@ -257817,7 +249119,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:3
+### Nehemiah 11:3
 
 Greek: και ουτοι οι αρχοντες της χωρας οι εκαθισαν εν ιερουσαλημ και εν πολεσιν ιουδα εκαθισαν ανηρ εν κατασχεσει αυτου εν πολεσιν αυτων ισραηλ οι ιερεις και οι λευιται και οι ναθιναιοι και οι υιοι δουλων σαλωμων
 Transliteration: [TODO]
@@ -257837,7 +249139,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:4
+### Nehemiah 11:4
 
 Greek: και εν ιερουσαλημ εκαθισαν απο υιων ιουδα και απο υιων βενιαμιν απο υιων ιουδα αθαια υιος αζαια υιος ζαχαρια υιος αμαρια υιος σαφατια υιος μαλεληλ και απο υιων φαρες
 Transliteration: [TODO]
@@ -257857,7 +249159,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:5
+### Nehemiah 11:5
 
 Greek: και μαασια υιος βαρουχ υιος χαλαζα υιος οζια υιος αδαια υιος ιωριβ υιος θηζια υιος του σηλωνι
 Transliteration: [TODO]
@@ -257877,7 +249179,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:6
+### Nehemiah 11:6
 
 Greek: παντες υιοι φαρες οι καθημενοι εν ιερουσαλημ τετρακοσιοι εξηκοντα οκτω ανδρες δυναμεως
 Transliteration: [TODO]
@@ -257897,7 +249199,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:7
+### Nehemiah 11:7
 
 Greek: και ουτοι υιοι βενιαμιν σηλω υιος μεσουλαμ υιος ιωαδ υιος φαδαια υιος κωλια υιος μασαια υιος αιθιηλ υιος ιεσια
 Transliteration: [TODO]
@@ -257917,7 +249219,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:8
+### Nehemiah 11:8
 
 Greek: και οπισω αυτου γηβι σηλι εννακοσιοι εικοσι οκτω
 Transliteration: [TODO]
@@ -257937,7 +249239,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:9
+### Nehemiah 11:9
 
 Greek: και ιωηλ υιος ζεχρι επισκοπος επ' αυτους και ιουδας υιος ασανα επι της πολεως δευτερος
 Transliteration: [TODO]
@@ -257957,7 +249259,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:10
+### Nehemiah 11:10
 
 Greek: απο των ιερεων και ιαδια υιος ιωριβ ιαχιν
 Transliteration: [TODO]
@@ -257977,7 +249279,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:11
+### Nehemiah 11:11
 
 Greek: σαραια υιος ελκια υιος μεσουλαμ υιος σαδδουκ υιος μαριωθ υιος αιτωβ απεναντι οικου του θεου
 Transliteration: [TODO]
@@ -257997,7 +249299,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:12
+### Nehemiah 11:12
 
 Greek: και αδελφοι αυτων ποιουντες το εργον του οικου αμασι υιος ζαχαρια υιος φασσουρ υιος μελχια
 Transliteration: [TODO]
@@ -258017,7 +249319,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:13
+### Nehemiah 11:13
 
 Greek: αρχοντες πατριων διακοσιοι τεσσαρακοντα δυο και αμεσσαι υιος εσδριηλ
 Transliteration: [TODO]
@@ -258037,7 +249339,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:14
+### Nehemiah 11:14
 
 Greek: και αδελφοι αυτου δυνατοι παραταξεως εκατον εικοσι οκτω και επισκοπος επ' αυτων βαδιηλ
 Transliteration: [TODO]
@@ -258057,7 +249359,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:15
+### Nehemiah 11:15
 
 Greek: και απο των λευιτων σαμαια υιος ασουβ υιος εζρι
 Transliteration: [TODO]
@@ -258077,7 +249379,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:17
+### Nehemiah 11:17
 
 Greek: και μαθανια υιος μιχα και ωβηδ υιος σαμουι
 Transliteration: [TODO]
@@ -258097,7 +249399,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:18
+### Nehemiah 11:18
 
 Greek: διακοσιοι ογδοηκοντα τεσσαρες
 Transliteration: [TODO]
@@ -258117,7 +249419,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:19
+### Nehemiah 11:19
 
 Greek: και οι πυλωροι ακουβ τελαμιν και οι αδελφοι αυτων εκατον εβδομηκοντα δυο
 Transliteration: [TODO]
@@ -258137,7 +249439,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:22
+### Nehemiah 11:22
 
 Greek: και επισκοπος λευιτων υιος βανι οζι υιος ασαβια υιος μιχα απο υιων ασαφ των αδοντων απεναντι εργου οικου του θεου
 Transliteration: [TODO]
@@ -258157,7 +249459,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:23
+### Nehemiah 11:23
 
 Greek: οτι εντολη του βασιλεως επ' αυτους
 Transliteration: [TODO]
@@ -258177,7 +249479,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:24
+### Nehemiah 11:24
 
 Greek: και παθαια υιος βασηζα προς χειρα του βασιλεως εις παν ρημα τω λαω
 Transliteration: [TODO]
@@ -258197,7 +249499,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:25
+### Nehemiah 11:25
 
 Greek: και προς τας επαυλεις εν αγρω αυτων και απο υιων ιουδα εκαθισαν εν καριαθαρβοκ
 Transliteration: [TODO]
@@ -258217,7 +249519,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:26
+### Nehemiah 11:26
 
 Greek: και εν ιησου
 Transliteration: [TODO]
@@ -258237,7 +249539,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:27
+### Nehemiah 11:27
 
 Greek: και εν βεηρσαβεε
 Transliteration: [TODO]
@@ -258257,7 +249559,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:30
+### Nehemiah 11:30
 
 Greek: και επαυλεις αυτων λαχις και αγροι αυτης και παρενεβαλοσαν εν βεηρσαβεε
 Transliteration: [TODO]
@@ -258277,7 +249579,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:31
+### Nehemiah 11:31
 
 Greek: και οι υιοι βενιαμιν απο γαβα μαχαμας
 Transliteration: [TODO]
@@ -258297,7 +249599,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 21:36
+### Nehemiah 11:36
 
 Greek: και απο των λευιτων μεριδες ιουδα τω βενιαμιν
 Transliteration: [TODO]
@@ -258317,9 +249619,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 22
+## Chapter 12
 
-### Nehemiah 22:1
+### Nehemiah 12:1
 
 Greek: και ουτοι οι ιερεις και οι λευιται οι αναβαινοντες μετα ζοροβαβελ υιου σαλαθιηλ και ιησου σαραια ιερμια εσδρα
 Transliteration: [TODO]
@@ -258339,7 +249641,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:2
+### Nehemiah 12:2
 
 Greek: αμαρια μαλουχ
 Transliteration: [TODO]
@@ -258359,7 +249661,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:3
+### Nehemiah 12:3
 
 Greek: σεχενια
 Transliteration: [TODO]
@@ -258379,7 +249681,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:7
+### Nehemiah 12:7
 
 Greek: ουτοι αρχοντες των ιερεων και αδελφοι αυτων εν ημεραις ιησου
 Transliteration: [TODO]
@@ -258399,7 +249701,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:8
+### Nehemiah 12:8
 
 Greek: και οι λευιται ιησου βανουι καδμιηλ σαραβια ιουδα μαχανια επι των χειρων αυτος και οι αδελφοι αυτου
 Transliteration: [TODO]
@@ -258419,7 +249721,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:9
+### Nehemiah 12:9
 
 Greek: εις τας εφημεριας
 Transliteration: [TODO]
@@ -258439,7 +249741,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:10
+### Nehemiah 12:10
 
 Greek: και ιησους εγεννησεν τον ιωακιμ και ιωακιμ εγεννησεν τον ελιασιβ και ελιασιβ τον ιωδαε
 Transliteration: [TODO]
@@ -258459,7 +249761,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:11
+### Nehemiah 12:11
 
 Greek: και ιωδαε εγεννησεν τον ιωναθαν και ιωναθαν εγεννησεν τον ιαδου
 Transliteration: [TODO]
@@ -258479,7 +249781,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:12
+### Nehemiah 12:12
 
 Greek: και εν ημεραις ιωακιμ αδελφοι αυτου οι ιερεις και οι αρχοντες των πατριων τω σαραια μαραια τω ιερμια ανανια
 Transliteration: [TODO]
@@ -258499,7 +249801,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:13
+### Nehemiah 12:13
 
 Greek: τω εσδρα μεσουλαμ τω αμαρια ιωαναν
 Transliteration: [TODO]
@@ -258519,7 +249821,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:14
+### Nehemiah 12:14
 
 Greek: τω μαλουχ ιωναθαν τω σεχενια ιωσηφ
 Transliteration: [TODO]
@@ -258539,7 +249841,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:15
+### Nehemiah 12:15
 
 Greek: τω αρεμ αδνας τω μαριωθ ελκαι
 Transliteration: [TODO]
@@ -258559,7 +249861,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:16
+### Nehemiah 12:16
 
 Greek: τω αδδαι ζαχαριας τω γαναθων μοσολλαμ
 Transliteration: [TODO]
@@ -258579,7 +249881,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:17
+### Nehemiah 12:17
 
 Greek: τω αβια ζεχρι τω βενιαμιν εν καιροις τω φελητι
 Transliteration: [TODO]
@@ -258599,7 +249901,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:18
+### Nehemiah 12:18
 
 Greek: τω βαλγα σαμουε τω σεμεια ιωναθαν
 Transliteration: [TODO]
@@ -258619,7 +249921,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:19
+### Nehemiah 12:19
 
 Greek: τω ιωιαριβ μαθθαναι τω ιδια οζι
 Transliteration: [TODO]
@@ -258639,7 +249941,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:20
+### Nehemiah 12:20
 
 Greek: τω σαλλαι καλλαι τω αμουκ αβεδ
 Transliteration: [TODO]
@@ -258659,7 +249961,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:21
+### Nehemiah 12:21
 
 Greek: τω ελκια ασαβιας τω ιεδειου ναθαναηλ
 Transliteration: [TODO]
@@ -258679,7 +249981,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:22
+### Nehemiah 12:22
 
 Greek: οι λευιται εν ημεραις ελιασιβ ιωαδα και ιωαναν και ιδουα γεγραμμενοι αρχοντες πατριων και οι ιερεις εν βασιλεια δαρειου του περσου
 Transliteration: [TODO]
@@ -258699,7 +250001,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:23
+### Nehemiah 12:23
 
 Greek: υιοι λευι αρχοντες των πατριων γεγραμμενοι επι βιβλιω λογων των ημερων και εως ημερων ιωαναν υιου ελισουβ
 Transliteration: [TODO]
@@ -258719,7 +250021,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:24
+### Nehemiah 12:24
 
 Greek: και αρχοντες των λευιτων ασαβια και σαραβια και ιησου και υιοι καδμιηλ και οι αδελφοι αυτων κατεναντιον αυτων εις υμνειν και αινειν εν εντολη δαυιδ ανθρωπου του θεου εφημερια προς εφημεριαν
 Transliteration: [TODO]
@@ -258739,7 +250041,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:25
+### Nehemiah 12:25
 
 Greek: εν τω συναγαγειν με τους πυλωρους
 Transliteration: [TODO]
@@ -258759,7 +250061,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:26
+### Nehemiah 12:26
 
 Greek: εν ημεραις ιωακιμ υιου ιησου υιου ιωσεδεκ και εν ημεραις νεεμια και εσδρας ο ιερευς ο γραμματευς
 Transliteration: [TODO]
@@ -258779,7 +250081,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:27
+### Nehemiah 12:27
 
 Greek: και εν εγκαινιοις τειχους ιερουσαλημ εζητησαν τους λευιτας εν τοις τοποις αυτων του ενεγκαι αυτους εις ιερουσαλημ ποιησαι εγκαινια και ευφροσυνην εν θωδαθα και εν ωδαις κυμβαλιζοντες και ψαλτηρια και κινυραι
 Transliteration: [TODO]
@@ -258799,7 +250101,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:28
+### Nehemiah 12:28
 
 Greek: και συνηχθησαν οι υιοι των αδοντων και απο της περιχωρου κυκλοθεν εις ιερουσαλημ και απο επαυλεων
 Transliteration: [TODO]
@@ -258819,7 +250121,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:29
+### Nehemiah 12:29
 
 Greek: και απο αγρων οτι επαυλεις ωκοδομησαν εαυτοις οι αδοντες εν ιερουσαλημ
 Transliteration: [TODO]
@@ -258839,7 +250141,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:30
+### Nehemiah 12:30
 
 Greek: και εκαθαρισθησαν οι ιερεις και οι λευιται και εκαθαρισαν τον λαον και τους πυλωρους και το τειχος
 Transliteration: [TODO]
@@ -258859,7 +250161,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:31
+### Nehemiah 12:31
 
 Greek: και ανηνεγκα τους αρχοντας ιουδα επανω του τειχους και εστησα δυο περι αινεσεως μεγαλους και διηλθον εκ δεξιων επανω του τειχους της κοπριας
 Transliteration: [TODO]
@@ -258879,7 +250181,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:32
+### Nehemiah 12:32
 
 Greek: και επορευθη οπισω αυτων ωσαια και ημισυ αρχοντων ιουδα
 Transliteration: [TODO]
@@ -258899,7 +250201,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:33
+### Nehemiah 12:33
 
 Greek: και αζαριας εσδρας και μεσουλαμ
 Transliteration: [TODO]
@@ -258919,7 +250221,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:34
+### Nehemiah 12:34
 
 Greek: ιουδα και βενιαμιν και σαμαια και ιερμια
 Transliteration: [TODO]
@@ -258939,7 +250241,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:35
+### Nehemiah 12:35
 
 Greek: και απο υιων των ιερεων εν σαλπιγξιν ζαχαριας υιος ιωναθαν υιος σαμαια υιος μαθανια υιος μιχαια υιος ζακχουρ υιος ασαφ
 Transliteration: [TODO]
@@ -258959,7 +250261,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:36
+### Nehemiah 12:36
 
 Greek: και αδελφοι αυτου σαμαια και οζιηλ αινειν εν ωδαις δαυιδ ανθρωπου του θεου και εσδρας ο γραμματευς εμπροσθεν αυτων
 Transliteration: [TODO]
@@ -258979,7 +250281,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:37
+### Nehemiah 12:37
 
 Greek: επι πυλης του αιν κατεναντι αυτων ανεβησαν επι κλιμακας πολεως δαυιδ εν αναβασει του τειχους επανωθεν του οικου δαυιδ και εως πυλης του υδατος κατα ανατολας
 Transliteration: [TODO]
@@ -258999,7 +250301,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:38
+### Nehemiah 12:38
 
 Greek: και περι αινεσεως η δευτερα επορευετο συναντωσα αυτοις και εγω οπισω αυτης και το ημισυ του λαου επανω του τειχους υπερανω του πυργου των θεννουριμ και εως του τειχους του πλατεος
 Transliteration: [TODO]
@@ -259019,7 +250321,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:39
+### Nehemiah 12:39
 
 Greek: και υπερανω της πυλης εφραιμ και επι πυλην της ισανα και επι πυλην την ιχθυηραν και πυργω ανανεηλ και εως πυλης της προβατικης και εστησαν εν πυλη της φυλακης
 Transliteration: [TODO]
@@ -259039,7 +250341,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:40
+### Nehemiah 12:40
 
 Greek: και εστησαν αι δυο της αινεσεως εν οικω του θεου και εγω και το ημισυ των στρατηγων μετ' εμου
 Transliteration: [TODO]
@@ -259059,7 +250361,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:41
+### Nehemiah 12:41
 
 Greek: και οι ιερεις ελιακιμ μαασιας βενιαμιν μιχαιας ελιωηναι ζαχαριας ανανιας εν σαλπιγξιν
 Transliteration: [TODO]
@@ -259079,7 +250381,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:42
+### Nehemiah 12:42
 
 Greek: και μαασιας και σεμειας και ελεαζαρ και οζι και ιωαναν και μελχιας και αιλαμ και εζουρ και ηκουσθησαν οι αδοντες και επεσκεπησαν
 Transliteration: [TODO]
@@ -259099,7 +250401,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:43
+### Nehemiah 12:43
 
 Greek: και εθυσαν εν τη ημερα εκεινη θυσιασματα μεγαλα και ηυφρανθησαν οτι ο θεος ηυφρανεν αυτους μεγαλως και αι γυναικες αυτων και τα τεκνα αυτων ηυφρανθησαν και ηκουσθη η ευφροσυνη εν ιερουσαλημ απο μακροθεν
 Transliteration: [TODO]
@@ -259119,7 +250421,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:44
+### Nehemiah 12:44
 
 Greek: και κατεστησαν εν τη ημερα εκεινη ανδρας επι των γαζοφυλακιων τοις θησαυροις ταις απαρχαις και ταις δεκαταις και τοις συνηγμενοις εν αυτοις αρχουσιν των πολεων μεριδας τοις ιερευσι και τοις λευιταις οτι ευφροσυνη ην εν ιουδα επι τους ιερεις και επι τους λευιτας τους εστωτας
 Transliteration: [TODO]
@@ -259139,7 +250441,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:45
+### Nehemiah 12:45
 
 Greek: και εφυλαξαν φυλακας θεου αυτων και φυλακας του καθαρισμου και τους αδοντας και τους πυλωρους ως εντολαι δαυιδ και σαλωμων υιου αυτου
 Transliteration: [TODO]
@@ -259159,7 +250461,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:46
+### Nehemiah 12:46
 
 Greek: οτι εν ημεραις δαυιδ ασαφ απ' αρχης πρωτος των αδοντων και υμνον και αινεσιν τω θεω
 Transliteration: [TODO]
@@ -259179,7 +250481,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 22:47
+### Nehemiah 12:47
 
 Greek: και πας ισραηλ εν ημεραις ζοροβαβελ διδοντες μεριδας των αδοντων και των πυλωρων λογον ημερας εν ημερα αυτου και αγιαζοντες τοις λευιταις και οι λευιται αγιαζοντες τοις υιοις ααρων
 Transliteration: [TODO]
@@ -259199,9 +250501,9 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-## Chapter 23
+## Chapter 13
 
-### Nehemiah 23:1
+### Nehemiah 13:1
 
 Greek: εν τη ημερα εκεινη ανεγνωσθη εν βιβλιω μωυση εν ωσιν του λαου και ευρεθη γεγραμμενον εν αυτω οπως μη εισελθωσιν αμμανιται και μωαβιται εν εκκλησια θεου εως αιωνος
 Transliteration: [TODO]
@@ -259221,7 +250523,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:2
+### Nehemiah 13:2
 
 Greek: οτι ου συνηντησαν τοις υιοις ισραηλ εν αρτω και εν υδατι και εμισθωσαντο επ' αυτον τον βαλααμ καταρασασθαι και εστρεψεν ο θεος ημων την καταραν εις ευλογιαν
 Transliteration: [TODO]
@@ -259241,7 +250543,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:3
+### Nehemiah 13:3
 
 Greek: και εγενετο ως ηκουσαν τον νομον και εχωρισθησαν πας επιμικτος εν ισραηλ
 Transliteration: [TODO]
@@ -259261,7 +250563,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:4
+### Nehemiah 13:4
 
 Greek: και προ τουτου ελιασιβ ο ιερευς οικων εν γαζοφυλακιω οικου θεου ημων εγγιων τωβια
 Transliteration: [TODO]
@@ -259281,7 +250583,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:5
+### Nehemiah 13:5
 
 Greek: και εποιησεν αυτω γαζοφυλακιον μεγα και εκει ησαν προτερον διδοντες την μανααν και τον λιβανον και τα σκευη και την δεκατην του σιτου και του οινου και του ελαιου εντολην των λευιτων και των αδοντων και των πυλωρων και απαρχας των ιερεων
 Transliteration: [TODO]
@@ -259301,7 +250603,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:6
+### Nehemiah 13:6
 
 Greek: και εν παντι τουτω ουκ ημην εν ιερουσαλημ οτι εν ετει τριακοστω και δευτερω του αρθασασθα βασιλεως βαβυλωνος ηλθον προς τον βασιλεα και μετα τελος ημερων ητησαμην παρα του βασιλεως
 Transliteration: [TODO]
@@ -259321,7 +250623,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:7
+### Nehemiah 13:7
 
 Greek: και ηλθον εις ιερουσαλημ και συνηκα εν τη πονηρια η εποιησεν ελισουβ τω τωβια ποιησαι αυτω γαζοφυλακιον εν αυλη οικου του θεου
 Transliteration: [TODO]
@@ -259341,7 +250643,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:8
+### Nehemiah 13:8
 
 Greek: και πονηρον μοι εφανη σφοδρα και ερριψα παντα τα σκευη οικου τωβια εξω απο του γαζοφυλακιου
 Transliteration: [TODO]
@@ -259361,7 +250663,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:9
+### Nehemiah 13:9
 
 Greek: και ειπα και εκαθαρισαν τα γαζοφυλακια και επεστρεψα εκει σκευη οικου του θεου την μαναα και τον λιβανον
 Transliteration: [TODO]
@@ -259381,7 +250683,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:10
+### Nehemiah 13:10
 
 Greek: και εγνων οτι μεριδες των λευιτων ουκ εδοθησαν και εφυγοσαν ανηρ εις αγρον αυτου οι λευιται και οι αδοντες ποιουντες το εργον
 Transliteration: [TODO]
@@ -259401,7 +250703,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:11
+### Nehemiah 13:11
 
 Greek: και εμαχεσαμην τοις στρατηγοις και ειπα δια τι εγκατελειφθη ο οικος του θεου και συνηγαγον αυτους και εστησα αυτους επι τη στασει αυτων
 Transliteration: [TODO]
@@ -259421,7 +250723,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:12
+### Nehemiah 13:12
 
 Greek: και πας ιουδα ηνεγκαν δεκατην του πυρου και του οινου και του ελαιου εις τους θησαυρους
 Transliteration: [TODO]
@@ -259441,7 +250743,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:13
+### Nehemiah 13:13
 
 Greek: επι χειρα σελεμια του ιερεως και σαδδουκ του γραμματεως και φαδαια απο των λευιτων και επι χειρα αυτων αναν υιος ζακχουρ υιος μαθανια οτι πιστοι ελογισθησαν επ' αυτους μεριζειν τοις αδελφοις αυτων
 Transliteration: [TODO]
@@ -259461,7 +250763,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:14
+### Nehemiah 13:14
 
 Greek: μνησθητι μου ο θεος εν ταυτη και μη εξαλειφθητω ελεος μου ο εποιησα εν οικω κυριου του θεου
 Transliteration: [TODO]
@@ -259481,7 +250783,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:15
+### Nehemiah 13:15
 
 Greek: εν ταις ημεραις εκειναις ειδον εν ιουδα πατουντας ληνους εν τω σαββατω και φεροντας δραγματα και επιγεμιζοντας επι τους ονους και οινον και σταφυλην και συκα και παν βασταγμα και φεροντας εις ιερουσαλημ εν ημερα του σαββατου και επεμαρτυραμην εν ημερα πρασεως αυτων
 Transliteration: [TODO]
@@ -259501,7 +250803,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:16
+### Nehemiah 13:16
 
 Greek: και εκαθισαν εν αυτη φεροντες ιχθυν και πασαν πρασιν πωλουντες εν τω σαββατω τοις υιοις ιουδα και εν ιερουσαλημ
 Transliteration: [TODO]
@@ -259521,7 +250823,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:17
+### Nehemiah 13:17
 
 Greek: και εμαχεσαμην τοις υιοις ιουδα τοις ελευθεροις και ειπα αυτοις τις ο λογος ουτος ο πονηρος ον υμεις ποιειτε και βεβηλουτε την ημεραν του σαββατου
 Transliteration: [TODO]
@@ -259541,7 +250843,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:18
+### Nehemiah 13:18
 
 Greek: ουχι ουτως εποιησαν οι πατερες υμων και ηνεγκεν επ' αυτους ο θεος ημων και εφ' ημας παντα τα κακα ταυτα και επι την πολιν ταυτην και υμεις προστιθετε οργην επι ισραηλ βεβηλωσαι το σαββατον
 Transliteration: [TODO]
@@ -259561,7 +250863,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:19
+### Nehemiah 13:19
 
 Greek: και εγενετο ηνικα κατεστησαν πυλαι ιερουσαλημ προ του σαββατου και ειπα και εκλεισαν τας πυλας και ειπα ωστε μη ανοιγηναι αυτας εως οπισω του σαββατου και εκ των παιδαριων μου εστησα επι τας πυλας ωστε μη αιρειν βασταγματα εν ημερα του σαββατου
 Transliteration: [TODO]
@@ -259581,7 +250883,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:20
+### Nehemiah 13:20
 
 Greek: και ηυλισθησαν παντες και εποιησαν πρασιν εξω ιερουσαλημ απαξ και δις
 Transliteration: [TODO]
@@ -259601,7 +250903,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:21
+### Nehemiah 13:21
 
 Greek: και διεμαρτυραμην εν αυτοις και ειπα προς αυτους δια τι υμεις αυλιζεσθε απεναντι του τειχους εαν δευτερωσητε εκτενω την χειρα μου εν υμιν απο του καιρου εκεινου ουκ ηλθοσαν εν σαββατω
 Transliteration: [TODO]
@@ -259621,7 +250923,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:22
+### Nehemiah 13:22
 
 Greek: και ειπα τοις λευιταις οι ησαν καθαριζομενοι και ερχομενοι φυλασσοντες τας πυλας αγιαζειν την ημεραν του σαββατου προς ταυτα μνησθητι μου ο θεος και φεισαι μου κατα το πληθος του ελεους σου
 Transliteration: [TODO]
@@ -259641,7 +250943,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:23
+### Nehemiah 13:23
 
 Greek: και εν ταις ημεραις εκειναις ειδον τους ιουδαιους οι εκαθισαν γυναικας αζωτιας αμμανιτιδας μωαβιτιδας
 Transliteration: [TODO]
@@ -259661,7 +250963,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:24
+### Nehemiah 13:24
 
 Greek: και οι υιοι αυτων ημισυ λαλουντες αζωτιστι και ουκ εισιν επιγινωσκοντες λαλειν ιουδαιστι
 Transliteration: [TODO]
@@ -259681,7 +250983,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:25
+### Nehemiah 13:25
 
 Greek: και εμαχεσαμην μετ' αυτων και κατηρασαμην αυτους και επαταξα εν αυτοις ανδρας και εμαδαρωσα αυτους και ωρκισα αυτους εν τω θεω εαν δωτε τας θυγατερας υμων τοις υιοις αυτων και εαν λαβητε απο των θυγατερων αυτων τοις υιοις υμων
 Transliteration: [TODO]
@@ -259701,7 +251003,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:26
+### Nehemiah 13:26
 
 Greek: ουχ ουτως ημαρτεν σαλωμων βασιλευς ισραηλ και εν εθνεσιν πολλοις ουκ ην βασιλευς ομοιος αυτω και αγαπωμενος τω θεω ην και εδωκεν αυτον ο θεος εις βασιλεα επι παντα ισραηλ και τουτον εξεκλιναν αι γυναικες αι αλλοτριαι
 Transliteration: [TODO]
@@ -259721,7 +251023,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:27
+### Nehemiah 13:27
 
 Greek: και υμων μη ακουσομεθα ποιησαι την πασαν πονηριαν ταυτην ασυνθετησαι εν τω θεω ημων καθισαι γυναικας αλλοτριας
 Transliteration: [TODO]
@@ -259741,7 +251043,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:28
+### Nehemiah 13:28
 
 Greek: και απο υιων ιωαδα του ελισουβ του ιερεως του μεγαλου νυμφιου του σαναβαλλατ του ωρωνιτου και εξεβρασα αυτον απ' εμου
 Transliteration: [TODO]
@@ -259761,7 +251063,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:29
+### Nehemiah 13:29
 
 Greek: μνησθητι αυτοις ο θεος επι αγχιστεια της ιερατειας και διαθηκης της ιερατειας και τους λευιτας
 Transliteration: [TODO]
@@ -259781,7 +251083,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:30
+### Nehemiah 13:30
 
 Greek: και εκαθαρισα αυτους απο πασης αλλοτριωσεως και εστησα εφημεριας τοις ιερευσιν και τοις λευιταις ανηρ ως το εργον αυτου
 Transliteration: [TODO]
@@ -259801,7 +251103,7 @@ Logos research:
 Variant notes:
 - [TODO add variant note]
 
-### Nehemiah 23:31
+### Nehemiah 13:31
 
 Greek: και το δωρον των ξυλοφορων εν καιροις απο χρονων και εν τοις βακχουριοις μνησθητι μου ο θεος ημων εις αγαθωσυνην .
 Transliteration: [TODO]
@@ -451349,7 +442651,7 @@ Greek: και προσεθετο του αμαρτανειν ετι και επ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
+Draft translation: And now they sinned increasingly and made for themselves a molten image from their silver according to likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
 
 Decision rows:
 - [TODO add decision rows]
@@ -454471,7 +445773,7 @@ Greek: διοτι ιδου εγω στερεων βροντην και κτιζ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+Draft translation: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -458363,7 +449665,7 @@ Greek: εαν μη εγω εμπλησω ισχυν εν πνευματι κυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+Draft translation: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 
 Decision rows:
 - [TODO add decision rows]
@@ -459795,7 +451097,7 @@ Greek: κυριος μακροθυμος και μεγαλη η ισχυς αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Lord long-suffering, and great his strength, and acquitting he will not acquit. Lord's way is in completion and in upheaval, and clouds are dust of his feet.
+Draft translation: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 
 Decision rows:
 - [TODO add decision rows]
@@ -459975,7 +451277,7 @@ Greek: ταδε λεγει κυριος καταρχων υδατων πολλω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Thus says Lord, ruling many waters: Thus they will be scattered, and your report will no longer be heard.
+Draft translation: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 
 Decision rows:
 - [TODO add decision rows]
@@ -460015,7 +451317,7 @@ Greek: και εντελειται υπερ σου κυριος ου σπαρη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are swift.
+Draft translation: And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 
 Decision rows:
 - [TODO add decision rows]
@@ -460923,7 +452225,7 @@ Greek: ουχι συ απ' αρχης κυριε ο θεος ο αγιος μο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Are you not from beginning, Lord my God, my Holy One? We will certainly not die. Lord, you appointed him for judgment, and you formed me to reprove his correction.
+Draft translation: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 
 Decision rows:
 - [TODO add decision rows]
@@ -461105,7 +452407,7 @@ Greek: εαν υποστειληται ουκ ευδοκει η ψυχη μου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If he shrinks back, my soul takes no pleasure in him; but righteous one will live by my faith.
+Draft translation: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 
 Decision rows:
 - [TODO add decision rows]
@@ -461467,7 +452769,7 @@ Greek: κυριε εισακηκοα την ακοην σου και εφοβη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Lord, I heard your report and feared. I considered your works and was astonished. In midst of two living things you will be known; when years draw near you will be recognized; when time is present you will be shown. When my soul is troubled, in wrath you will remember mercy.
+Draft translation: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -467207,7 +458509,7 @@ Greek: και εκχεω επι τον οικον δαυιδ και επι το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+Draft translation: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 
 Decision rows:
 - [TODO add decision rows]
@@ -468477,7 +459779,7 @@ Greek: και ουκ αλλος εποιησεν και υπολειμμα πν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+Draft translation: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -468497,7 +459799,7 @@ Greek: αλλα εαν μισησας εξαποστειλης λεγει κυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+Draft translation: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 
 Decision rows:
 - [TODO add decision rows]

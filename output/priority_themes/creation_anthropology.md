@@ -2,14 +2,14 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 79
-Books: 35
+Rows: 74
+Books: 34
 
 ## Genesis 1:2
-- score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit, wind
-- keywords: abyss, god, spirit, wind
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+- score: 19
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit
+- keywords: abyss, god, spirit
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:5
@@ -135,7 +135,7 @@ Books: 35
 - score: 7
 - reasons: importance=medium; keywords=being, lord
 - keywords: being, lord
-- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from becoming a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
+- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from belonging to a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
 - brenton: would ye wait for them till they should be grown? or would ye refrain from being married for their sakes? Not so, my daughters; for I am grieved for you, that the hand of the Lord has gone forth against me.
 
 ## Ruth 4:12
@@ -215,47 +215,19 @@ Books: 35
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
-## 2 Chronicles 35:19
-- score: 15
-- reasons: importance=medium; keywords=king, law, lord, name, priest, soul
-- keywords: king, law, lord, name, priest, soul
-- fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
-
-## Ezra 1:1
+## 2 Chronicles 15:12
 - score: 11
-- reasons: importance=medium; keywords=god, king, lord, spirit
-- keywords: god, king, lord, spirit
-- fresh: And Iōsias brought Passover in Ierousalem to Lord his God, and sacrificed the Passover on fourteenth day of first month.
-- brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
+- reasons: importance=medium; keywords=covenant, god, lord, soul
+- keywords: covenant, god, lord, soul
+- fresh: And he entered into covenant to seek Lord God of their fathers with all heart and with all soul.
+- brenton: And he entered into a covenant that they should seek the Lord God of their fathers with all their heart and with all their soul.
 
-## Ezra 6:8
+## Ezra 10:3
 - score: 11
-- reasons: importance=medium; keywords=being, god, king, lord
-- keywords: being, god, king, lord
-- fresh: To king Darius, greetings in all things. Let it be known to our lord king that when we came into land of Ioudaia and entered Ierousalem city, we found elders of captivity of Ioudaioi in Ierousalem city building great new house to Lord from carved costly stones, timbers being laid in walls.
-- brenton: Also a decree has been made by me, if haply ye may do somewhat in concert with the elders of the Jews for the building of that house of God: to wit, out of the king's property, even the tributes beyond the river, let there be money to defray the expenses carefully granted to those men, so that they be not hindered.
-
-## Ezra 6:12
-- score: 12
-- reasons: importance=low; keywords=created, god, king, lord, name
-- keywords: created, god, king, lord, name
-- fresh: And they answered us, saying, We are servants of Lord who created heaven and earth.
-- brenton: And may the God whose name dwells there, overthrow every king and people who shall stretch out his hand to alter or destroy the house of God which is in Jerusalem. I Darius have made a decree; let it be diligently attended to.
-
-## Nehemiah 1:5
-- score: 13
-- reasons: importance=medium; keywords=covenant, god, lord, mercy, spirit
-- keywords: covenant, god, lord, mercy, spirit
-- fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
-- brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
-
-## Nehemiah 9:8
-- score: 14
-- reasons: importance=low; keywords=covenant, god, lord, righteous, salvation, seed
-- keywords: covenant, god, lord, righteous, salvation, seed
-- fresh: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
-- brenton: and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou art righteous.
+- reasons: importance=medium; keywords=covenant, god, law, offspring
+- keywords: covenant, god, law, offspring
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
 ## Esther 2:12
 - score: 9
@@ -317,7 +289,7 @@ Books: 35
 - score: 7
 - reasons: importance=medium; keywords=soul, spirit
 - keywords: soul, spirit
-- fresh: Better sight of eyes than wandering of soul; this too vanity and choice of spirit.
+- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 - brenton: [missing]
 
 ## Song of Solomon 1:7
@@ -331,14 +303,14 @@ Books: 35
 - score: 5
 - reasons: importance=medium; keywords=soul
 - keywords: soul
-- fresh: On my bed in nights I sought one my soul loved; I sought him and did not find him; I called him and he did not listen to me.
+- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
 - brenton: [missing]
 
 ## Song of Solomon 5:6
 - score: 7
 - reasons: importance=medium; keywords=beloved, soul
 - keywords: beloved, soul
-- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not listen to me.
+- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 - brenton: [missing]
 
 ## Isaiah 49:7
@@ -369,13 +341,6 @@ Books: 35
 - fresh: Therefore thus said Lord God of Israel: This city in being given over will be handed into hands of king of Babylon, and he will take it.
 - brenton: [missing]
 
-## Lamentations 1:11
-- score: 7
-- reasons: importance=medium; keywords=lord, soul
-- keywords: lord, soul
-- fresh: All her people groaning seek bread. They gave their desirable things for food, to restore soul. See, Lord, and look, because I became dishonored.
-- brenton: [missing]
-
 ## Lamentations 2:5
 - score: 7
 - reasons: importance=medium; keywords=being, lord
@@ -388,6 +353,13 @@ Books: 35
 - reasons: importance=medium; keywords=peace, soul
 - keywords: peace, soul
 - fresh: And he thrust my soul away from peace. I forgot good things.
+- brenton: [missing]
+
+## Lamentations 3:25
+- score: 7
+- reasons: importance=medium; keywords=lord, soul
+- keywords: lord, soul
+- fresh: Lord good to those waiting for him, soul that seeks him, good.
 - brenton: [missing]
 
 ## Ezekiel 43:19
@@ -425,13 +397,6 @@ Books: 35
 - fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 - brenton: [missing]
 
-## Hosea 13:2
-- score: 9
-- reasons: importance=medium; keywords=image, sacrifice, sin
-- keywords: image, sacrifice, sin
-- fresh: And they added still to sin and made for themselves molten image from their silver according to likeness of idols, works of craftsmen completed for them. They say, Sacrifice humans, for calves are lacking.
-- brenton: [missing]
-
 ## Hosea 13:4
 - score: 10
 - reasons: importance=low; keywords=created, god, lord, savior
@@ -447,10 +412,10 @@ Books: 35
 - brenton: [missing]
 
 ## Amos 4:13
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, spirit
-- keywords: god, lord, name, spirit
-- fresh: Because behold, I am one establishing thunder and creating spirit and declaring to humans his Christ, making dawn and mist and stepping upon heights of the earth; Lord God Almighty is his name.
+- score: 13
+- reasons: importance=medium; keywords=anointed, god, lord, name, wind
+- keywords: anointed, god, lord, name, wind
+- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
 ## Amos 9:1
@@ -478,7 +443,7 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=judgment, lord, spirit
 - keywords: judgment, lord, spirit
-- fresh: Unless I fill with strength in Spirit of Lord and judgment and power, to declare to Jacob his impiety and to Israel his sins.
+- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 - brenton: [missing]
 
 ## Micah 6:7
@@ -492,21 +457,21 @@ Books: 35
 - score: 7
 - reasons: importance=medium; keywords=being, lord
 - keywords: being, lord
-- fresh: How long, Lord, will I cry out and you certainly not hear? I will shout to you while being wronged, and you will not save.
+- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
 - brenton: [missing]
 
 ## Habakkuk 2:4
 - score: 9
 - reasons: importance=medium; keywords=faith, righteous, soul
 - keywords: faith, righteous, soul
-- fresh: If he shrinks back, my soul takes no pleasure in him; but righteous one will live by my faith.
+- fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 - brenton: [missing]
 
 ## Habakkuk 3:2
 - score: 9
 - reasons: importance=medium; keywords=lord, mercy, soul
 - keywords: lord, mercy, soul
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. In midst of two living things you will be known; when years draw near you will be recognized; when time is present you will be shown. When my soul is troubled, in wrath you will remember mercy.
+- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - brenton: [missing]
 
 ## Zephaniah 3:4
@@ -541,7 +506,7 @@ Books: 35
 - score: 13
 - reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit
 - keywords: beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they danced insultingly, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 
 ## Malachi 2:15
@@ -555,5 +520,5 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=god, lord, spirit
 - keywords: god, lord, spirit
-- fresh: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+- fresh: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]

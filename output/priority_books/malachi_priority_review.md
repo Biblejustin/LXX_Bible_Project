@@ -35,5 +35,5 @@ Selected verses: 6
 ## Malachi 2:16
 - score: 9
 - reasons: importance=medium; keywords=god, lord, spirit
-- fresh: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+- fresh: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]

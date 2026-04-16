@@ -2,14 +2,14 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 10
+Rows: 11
 Books: 5
 
 ## Genesis 1:2
-- score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit, wind
-- keywords: abyss, god, spirit, wind
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+- score: 19
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit
+- keywords: abyss, god, spirit
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:5
@@ -61,11 +61,18 @@ Books: 5
 - fresh: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: [missing]
 
+## Nahum 1:3
+- score: 5
+- reasons: importance=medium; keywords=lord
+- keywords: lord
+- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
+- brenton: [missing]
+
 ## Nahum 1:12
 - score: 5
 - reasons: importance=medium; keywords=lord
 - keywords: lord
-- fresh: Thus says Lord, ruling many waters: Thus they will be scattered, and your report will no longer be heard.
+- fresh: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 - brenton: [missing]
 
 ## Nahum 2:14

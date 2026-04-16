@@ -5,25 +5,25 @@ Selected verses: 6
 ## Nahum 1:2
 - score: 6
 - reasons: importance=low; keywords=god, lord
-- fresh: God jealous and avenging, Lord avenging with wrath; Lord avenges his adversaries, and he removes his enemies.
+- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
 - brenton: [missing]
 
 ## Nahum 1:3
-- score: 4
-- reasons: importance=low; keywords=lord
-- fresh: Lord long-suffering, and great his strength, and acquitting he will not acquit. Lord's way is in completion and in upheaval, and clouds are dust of his feet.
+- score: 5
+- reasons: importance=medium; keywords=lord
+- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 - brenton: [missing]
 
 ## Nahum 1:12
 - score: 5
 - reasons: importance=medium; keywords=lord
-- fresh: Thus says Lord, ruling many waters: Thus they will be scattered, and your report will no longer be heard.
+- fresh: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 - brenton: [missing]
 
 ## Nahum 1:14
 - score: 9
 - reasons: importance=medium; keywords=god, lord, name
-- fresh: Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are swift.
+- fresh: And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 - brenton: [missing]
 
 ## Nahum 2:14

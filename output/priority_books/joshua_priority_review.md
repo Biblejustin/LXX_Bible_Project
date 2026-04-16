@@ -2,12 +2,6 @@
 
 Selected verses: 6
 
-## Joshua 9:2
-- score: 19
-- reasons: importance=medium; keywords=altar, covenant, god, law, lord, sacrifice
-- fresh: they gathered together at one place to make war with Joshua and Israel together, all of them. Then Joshua built an altar to the Lord God of Israel on Mount Gaibal, just as Moses servant of the Lord commanded the sons of Israel, as it is written in the law of Moses, an altar of whole stones on which no iron was placed, and he brought up whole burnt offerings there to the Lord and a sacrifice of salvation. And Joshua wrote on the stones the second law of Moses, the law that he wrote before the sons of Israel. And all Israel and their elders and their judges and their scribes were passing on this side and on that side of the ark opposite it, and the priests and the Levites carried the ark of the covenant of the Lord, and the proselyte and the native-born, those half near Mount Garizin and those half near Mount Gaibal, just as Moses servant of the Lord commanded, to bless the people at the first. And after these things Joshua thus read all the words of this law, the blessings and the curses, according to everything written in the law of Moses. There was no word of all that Moses commanded Joshua that Joshua did not read into the ears of the whole assembly of the sons of Israel, to the men and the women and the children and the proselytes who went along with Israel.
-- brenton: they came all together at the same time to make war against Joshua and Israel.
-
 ## Joshua 22:5
 - score: 13
 - reasons: importance=medium; keywords=god, law, lord, servant, soul
@@ -37,3 +31,9 @@ Selected verses: 6
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## Joshua 24:25
+- score: 10
+- reasons: importance=low; keywords=covenant, god, judgment, law
+- fresh: And Joshua made a covenant with the people on that day and gave them law and judgment in Shiloh before the tent of the God of Israel.
+- brenton: So Joshua made a covenant with the people on that day, and gave them a law and an ordinance in Selo before the tabernacle of the God of Israel.

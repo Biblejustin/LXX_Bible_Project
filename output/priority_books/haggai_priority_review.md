@@ -17,7 +17,7 @@ Selected verses: 6
 ## Haggai 1:13
 - score: 6
 - reasons: importance=low; keywords=lord, messenger
-- fresh: Haggai messenger of Lord said to people, I am with you, says Lord.
+- fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 - brenton: [missing]
 
 ## Haggai 1:14

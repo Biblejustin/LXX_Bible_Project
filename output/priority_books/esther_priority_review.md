@@ -35,5 +35,5 @@ Selected verses: 6
 ## Esther 8:8
 - score: 7
 - reasons: importance=medium; keywords=king, name
-- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 - brenton: [missing]

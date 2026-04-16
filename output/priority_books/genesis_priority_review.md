@@ -3,9 +3,9 @@
 Selected verses: 6
 
 ## Genesis 1:2
-- score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit, wind
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and a wind from God was moving over the water.
+- score: 19
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit
+- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:5
@@ -35,5 +35,5 @@ Selected verses: 6
 ## Genesis 32:10
 - score: 18
 - reasons: decisions=1; importance=high; keywords=god, lord, righteousness, servant, truth
-- fresh: Let there be enough for me from all the righteousness and from all the truth that you did for your servant, for with this staff I crossed this Jordan, and now I have become two camps.
+- fresh: Let there be to me a sufficiency of all the righteousness and all the truth that you wrought with your servant, for with this staff I crossed this Jordan, and now I have become two camps.
 - brenton: And Jacob said, God of my father Abraam, and God of my father Isaac, O Lord, thou art he that said to me, Depart quickly to the land of thy birth, and I will do thee good.

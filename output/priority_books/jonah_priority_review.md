@@ -17,7 +17,7 @@ Selected verses: 6
 ## Jonah 1:14
 - score: 7
 - reasons: importance=medium; keywords=lord, righteous
-- fresh: They cried to Lord and said, By no means, Lord, let us not perish for life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 - brenton: [missing]
 
 ## Jonah 2:3

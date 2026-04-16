@@ -11,7 +11,7 @@ Selected verses: 6
 ## Ruth 1:13
 - score: 7
 - reasons: importance=medium; keywords=being, lord
-- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from becoming a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
+- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from belonging to a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
 - brenton: would ye wait for them till they should be grown? or would ye refrain from being married for their sakes? Not so, my daughters; for I am grieved for you, that the hand of the Lord has gone forth against me.
 
 ## Ruth 2:13

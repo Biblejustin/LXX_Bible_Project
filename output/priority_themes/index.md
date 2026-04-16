@@ -3,40 +3,40 @@
 Themes: 7
 
 ## Creation / Anthropology
-- rows: 79
-- books: 35
+- rows: 74
+- books: 34
 - file: creation_anthropology.md
 - top refs: 1 Kings 2:35, Genesis 1:2, Exodus 3:2, Leviticus 5:15, Numbers 18:19
 
 ## Textual / Lexical Crux
-- rows: 10
+- rows: 11
 - books: 5
 - file: textual_lexical.md
-- top refs: Exodus 20:24, Genesis 1:2, Deuteronomy 1:31, Lamentations 1:15, Nahum 1:12
+- top refs: Exodus 20:24, Genesis 1:2, Deuteronomy 1:31, Lamentations 1:15, Nahum 1:3
 
 ## Covenant / Law / Judgment
-- rows: 83
-- books: 32
+- rows: 89
+- books: 33
 - file: covenant_law_judgment.md
-- top refs: Joshua 9:2, Genesis 18:19, Exodus 28:30, Leviticus 2:13, Numbers 18:19
+- top refs: Genesis 18:19, Exodus 28:30, Leviticus 2:13, Numbers 18:19, Nehemiah 10:34
 
 ## Theology / Divine Identity
-- rows: 100
+- rows: 98
 - books: 37
 - file: theology_divine_identity.md
 - top refs: Exodus 20:24, 1 Kings 12:24, 2 Samuel 14:17, Genesis 24:27, Leviticus 5:15
 
 ## Kingship / Messianic
-- rows: 108
+- rows: 106
 - books: 36
 - file: kingship_messianic.md
-- top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Joshua 9:2, Genesis 32:10
+- top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Genesis 32:10, Leviticus 3:1
 
 ## Ritual / Priesthood
-- rows: 75
+- rows: 72
 - books: 31
 - file: ritual_priesthood.md
-- top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Joshua 9:2, Leviticus 2:13
+- top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Leviticus 2:13, Numbers 18:19
 
 ## Death / Afterlife
 - rows: 2

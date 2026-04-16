@@ -1,12 +1,12 @@
 {
-  "verse_rows": 23351,
-  "verses_with_greek_text": 23351,
-  "verses_with_draft_translation": 23351,
+  "verse_rows": 22917,
+  "verses_with_greek_text": 22917,
+  "verses_with_draft_translation": 22917,
   "selected_scope": "Genesis-Malachi (39 books)",
-  "selected_verse_rows": 23351,
-  "selected_drafted_rows": 23351,
-  "output_verse_rows": 23351,
-  "output_drafted_rows": 23351,
+  "selected_verse_rows": 22917,
+  "selected_drafted_rows": 22917,
+  "output_verse_rows": 22917,
+  "output_drafted_rows": 22917,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -66,12 +66,12 @@
       "drafted_rows": 821
     },
     "Ezra": {
-      "verse_rows": 434,
-      "drafted_rows": 434
+      "verse_rows": 280,
+      "drafted_rows": 280
     },
     "Nehemiah": {
-      "verse_rows": 672,
-      "drafted_rows": 672
+      "verse_rows": 392,
+      "drafted_rows": 392
     },
     "Esther": {
       "verse_rows": 164,
