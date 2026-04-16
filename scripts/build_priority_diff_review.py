@@ -17,6 +17,7 @@ RESEARCH = DATA / "research"
 DEFAULT_SOURCE = ROOT / "output" / "fresh_vs_brenton_ot_drafted.csv"
 DEFAULT_OT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_NT_IDIOMS = RESEARCH / "nt_idiom_parallels.csv"
+DEFAULT_ENGLISH_WITNESS = RESEARCH / "local" / "witness_review" / "english_witness_observations.csv"
 DEFAULT_OUTPUT = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.md"
 DEFAULT_CSV = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.csv"
 DEFAULT_DIAGNOSTICS = ROOT / "output" / "fresh_vs_brenton_ot_priority_review_diagnostics.json"
@@ -47,6 +48,12 @@ def load_nt_parallels(path: Path) -> dict[str, list[dict[str, str]]]:
     for row in load_rows(path):
         grouped[row["family"]].append(row)
     return grouped
+
+
+def load_english_witness(path: Path) -> dict[str, dict[str, str]]:
+    if not path.exists():
+        return {}
+    return {row["ref"]: row for row in load_rows(path) if row.get("ref")}
 
 
 def family_map(source_by_ref: dict[str, dict[str, str]]) -> dict[str, set[str]]:
@@ -121,13 +128,78 @@ def crossref_info(
     return bonus, top_vote, nt_count, shared_family_hits
 
 
+def english_witness_info(row: dict[str, str], english_map: dict[str, dict[str, str]]) -> tuple[int, dict[str, str]]:
+    witness_row = english_map.get(row["ref"])
+    if not witness_row:
+        return 0, {
+            "english_witness_checked": "0",
+            "english_witness_fresh_support": "0",
+            "english_witness_brenton_support": "0",
+            "english_witness_mt_support": "0",
+            "english_witness_differs_all": "0",
+            "english_witness_split_or_mixed": "0",
+            "english_witness_signals": "",
+            "english_witness_recommendation": "",
+        }
+
+    alignments = []
+    for key in ("les_alignment", "nets_alignment", "saas_alignment"):
+        value = (witness_row.get(key) or "").strip()
+        if value and value != "not_checked":
+            alignments.append(value)
+
+    signals = []
+    for key in ("les_signal", "nets_signal", "saas_signal"):
+        value = (witness_row.get(key) or "").strip()
+        if value and value != "no_issue":
+            signals.append(value)
+
+    checked = len(alignments)
+    fresh_support = sum(1 for value in alignments if value == "agrees_fresh")
+    brenton_support = sum(1 for value in alignments if value == "agrees_brenton")
+    mt_support = sum(1 for value in alignments if value == "agrees_mt")
+    differs_all = sum(1 for value in alignments if value == "differs_all")
+    split_or_mixed = sum(1 for value in alignments if value == "split_or_mixed")
+    recommendation = (witness_row.get("consensus_recommendation") or "").strip()
+
+    bonus = 0
+    if recommendation == "revise":
+        bonus += 4
+    elif recommendation == "needs_logos":
+        bonus += 3
+    elif recommendation == "defer":
+        bonus += 2
+    if checked and fresh_support == 0 and (brenton_support > 0 or mt_support > 0 or differs_all > 0):
+        bonus += 2
+    if differs_all:
+        bonus += min(differs_all, 2)
+    if split_or_mixed:
+        bonus += 1
+    if any(signal in {"textual_issue", "verse_map"} for signal in signals):
+        bonus += 2
+    elif signals:
+        bonus += 1
+
+    return bonus, {
+        "english_witness_checked": str(checked),
+        "english_witness_fresh_support": str(fresh_support),
+        "english_witness_brenton_support": str(brenton_support),
+        "english_witness_mt_support": str(mt_support),
+        "english_witness_differs_all": str(differs_all),
+        "english_witness_split_or_mixed": str(split_or_mixed),
+        "english_witness_signals": ", ".join(sorted(dict.fromkeys(signals))),
+        "english_witness_recommendation": recommendation,
+    }
+
+
 def score_row(
     row: dict[str, str],
     source_by_ref: dict[str, dict[str, str]],
     nt_map: dict[str, list[dict[str, str]]],
     families_by_ref: dict[str, set[str]],
     crossrefs_by_ref: dict[str, list[dict[str, str]]],
-) -> tuple[int, list[str], list[str], int, list[str], int, int, int]:
+    english_map: dict[str, dict[str, str]],
+) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str]]:
     text = f"{row.get('fresh_translation', '')} {row.get('brenton_translation', '')}"
     keyword_hits = sorted({match.group(0).lower() for match in KEYWORD_RE.finditer(text)})
     decision_count = int(row.get("decision_count", "0") or "0")
@@ -137,6 +209,7 @@ def score_row(
     crossref_bonus, crossref_top_vote, crossref_nt_count, crossref_shared_family_hits = crossref_info(
         row, source_by_ref, families_by_ref, crossrefs_by_ref
     )
+    english_bonus, english_meta = english_witness_info(row, english_map)
 
     score = 0
     score += IMPORTANCE_SCORE.get(importance, 0)
@@ -145,6 +218,7 @@ def score_row(
     score += len(keyword_hits) * 2
     score += nt_weight
     score += crossref_bonus
+    score += english_bonus
     score += 0 if row.get("same_normalized", "") == "yes" else 1
 
     reasons: list[str] = []
@@ -162,6 +236,21 @@ def score_row(
         reasons.append(f"crossref_top_vote={crossref_top_vote}")
     if crossref_shared_family_hits:
         reasons.append(f"crossref_shared_family={crossref_shared_family_hits}")
+    if english_meta["english_witness_checked"] != "0":
+        reasons.append(
+            "eng="
+            + "/".join(
+                [
+                    f"fresh:{english_meta['english_witness_fresh_support']}",
+                    f"brenton:{english_meta['english_witness_brenton_support']}",
+                    f"mt:{english_meta['english_witness_mt_support']}",
+                ]
+            )
+        )
+    if english_meta["english_witness_recommendation"]:
+        reasons.append(f"eng_reco={english_meta['english_witness_recommendation']}")
+    if english_meta["english_witness_signals"]:
+        reasons.append("eng_flags=" + english_meta["english_witness_signals"])
 
     return (
         score,
@@ -172,6 +261,7 @@ def score_row(
         crossref_top_vote,
         crossref_nt_count,
         crossref_shared_family_hits,
+        english_meta,
     )
 
 
@@ -183,6 +273,7 @@ def build_priority_rows(
     nt_map: dict[str, list[dict[str, str]]],
     families_by_ref: dict[str, set[str]],
     crossrefs_by_ref: dict[str, list[dict[str, str]]],
+    english_map: dict[str, dict[str, str]],
 ) -> list[dict[str, str]]:
     grouped: dict[str, list[tuple[int, int, dict[str, str], list[str], list[str]]]] = defaultdict(list)
     for index, row in enumerate(rows):
@@ -195,7 +286,8 @@ def build_priority_rows(
             crossref_top_vote,
             crossref_nt_count,
             crossref_shared_family_hits,
-        ) = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref)
+            english_meta,
+        ) = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref, english_map)
         if score < min_score:
             continue
         enriched = dict(row)
@@ -205,6 +297,7 @@ def build_priority_rows(
         enriched["crossref_top_vote"] = str(crossref_top_vote)
         enriched["crossref_nt_count"] = str(crossref_nt_count)
         enriched["crossref_shared_family_hits"] = str(crossref_shared_family_hits)
+        enriched.update(english_meta)
         grouped[row["book_name"]].append((score, index, enriched, keyword_hits, reasons))
 
     selected: list[tuple[int, dict[str, str], list[str], list[str]]] = []
@@ -215,7 +308,17 @@ def build_priority_rows(
     selected.sort(key=lambda item: item[0])
     out_rows: list[dict[str, str]] = []
     for _, row, keyword_hits, reasons in selected:
-        score = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref)[0]
+        (
+            score,
+            _,
+            _,
+            _,
+            _,
+            _,
+            _,
+            _,
+            english_meta,
+        ) = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref, english_map)
         out_rows.append(
             {
                 "ref": row["ref"],
@@ -232,6 +335,14 @@ def build_priority_rows(
                 "crossref_top_vote": row.get("crossref_top_vote", "0"),
                 "crossref_nt_count": row.get("crossref_nt_count", "0"),
                 "crossref_shared_family_hits": row.get("crossref_shared_family_hits", "0"),
+                "english_witness_checked": english_meta.get("english_witness_checked", "0"),
+                "english_witness_fresh_support": english_meta.get("english_witness_fresh_support", "0"),
+                "english_witness_brenton_support": english_meta.get("english_witness_brenton_support", "0"),
+                "english_witness_mt_support": english_meta.get("english_witness_mt_support", "0"),
+                "english_witness_differs_all": english_meta.get("english_witness_differs_all", "0"),
+                "english_witness_split_or_mixed": english_meta.get("english_witness_split_or_mixed", "0"),
+                "english_witness_signals": english_meta.get("english_witness_signals", ""),
+                "english_witness_recommendation": english_meta.get("english_witness_recommendation", ""),
                 "keyword_hits": ", ".join(keyword_hits),
                 "reasons": "; ".join(reasons),
                 "fresh_translation": row["fresh_translation"],
@@ -284,6 +395,19 @@ def build_markdown(rows: list[dict[str, str]], per_book_limit: int, min_score: i
                 lines.append(f"- crossref top vote: {row['crossref_top_vote']}")
             if row.get("crossref_shared_family_hits") not in {"", "0"}:
                 lines.append(f"- crossref shared-family hits: {row['crossref_shared_family_hits']}")
+            if row.get("english_witness_checked") not in {"", "0"}:
+                lines.append(
+                    "- english witnesses: "
+                    f"checked {row['english_witness_checked']}, "
+                    f"fresh {row.get('english_witness_fresh_support', '0')}, "
+                    f"brenton {row.get('english_witness_brenton_support', '0')}, "
+                    f"mt {row.get('english_witness_mt_support', '0')}, "
+                    f"differs all {row.get('english_witness_differs_all', '0')}"
+                )
+            if row.get("english_witness_recommendation"):
+                lines.append(f"- english witness recommendation: {row['english_witness_recommendation']}")
+            if row.get("english_witness_signals"):
+                lines.append(f"- english witness signals: {row['english_witness_signals']}")
             lines.append(f"- fresh: {row['fresh_translation']}")
             lines.append(f"- brenton: {row['brenton_translation'] or '[missing]'}")
     lines.append("")
@@ -295,6 +419,7 @@ def main() -> None:
     parser.add_argument("--source", default=str(DEFAULT_SOURCE))
     parser.add_argument("--ot-source", default=str(DEFAULT_OT_SOURCE))
     parser.add_argument("--nt-idioms", default=str(DEFAULT_NT_IDIOMS))
+    parser.add_argument("--english-witness", default=str(DEFAULT_ENGLISH_WITNESS))
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--csv-output", default=str(DEFAULT_CSV))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
@@ -305,6 +430,7 @@ def main() -> None:
     source_rows = load_rows(Path(args.source))
     source_by_ref = load_by_ref(Path(args.ot_source))
     nt_map = load_nt_parallels(Path(args.nt_idioms))
+    english_map = load_english_witness(Path(args.english_witness))
     families_by_ref = family_map(source_by_ref)
     crossrefs_by_ref = load_openbible_crossrefs()
     priority_rows = build_priority_rows(
@@ -315,6 +441,7 @@ def main() -> None:
         nt_map,
         families_by_ref,
         crossrefs_by_ref,
+        english_map,
     )
     if not priority_rows:
         raise SystemExit("No priority rows selected.")
@@ -337,6 +464,9 @@ def main() -> None:
                     1
                     for row in priority_rows
                     if row.get("crossref_top_vote") not in {"", "0"} or row.get("crossref_shared_family_hits") not in {"", "0"}
+                ),
+                "rows_with_english_witness_signal": sum(
+                    1 for row in priority_rows if row.get("english_witness_checked") not in {"", "0"}
                 ),
                 "books": sorted({row["book_name"] for row in priority_rows}),
                 "output": str(output_path),

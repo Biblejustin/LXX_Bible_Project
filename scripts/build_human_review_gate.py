@@ -49,6 +49,8 @@ def build_md(title: str, rows: list[dict[str, str]], intro: list[str]) -> str:
                 f"- importance: `{row.get('importance', 'none')}`",
                 f"- reason: {row.get('gate_reason', '[none]')}",
                 f"- nt refs: {row.get('nt_parallel_refs', '[none]') or '[none]'}",
+                f"- english witnesses: checked `{row.get('english_witness_checked', '0')}`, fresh `{row.get('english_witness_fresh_support', '0')}`, brenton `{row.get('english_witness_brenton_support', '0')}`, mt `{row.get('english_witness_mt_support', '0')}`",
+                f"- english witness recommendation: `{row.get('english_witness_recommendation', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
                 f"- brenton: {row.get('brenton_translation', '[missing]')}",
                 "",
@@ -69,6 +71,8 @@ def main() -> None:
         decisions = int(row.get("decision_count") or 0)
         footnotes = int(row.get("footnote_count") or 0)
         nt_count = int(row.get("nt_parallel_count") or 0)
+        english_checked = int(row.get("english_witness_checked") or 0)
+        english_reco = row.get("english_witness_recommendation", "")
         importance = row.get("importance", "none")
         reasons: list[str] = []
         if score >= 12:
@@ -81,6 +85,10 @@ def main() -> None:
             reasons.append(f"footnotes={footnotes}")
         if nt_count > 0:
             reasons.append(f"nt={nt_count}")
+        if english_checked > 0:
+            reasons.append(f"eng={english_checked}")
+        if english_reco:
+            reasons.append(f"eng_reco={english_reco}")
         if reasons:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(reasons)
@@ -92,6 +100,8 @@ def main() -> None:
             phase1_reasons.append("high+tracked")
         if nt_count > 0 and score >= 14:
             phase1_reasons.append("nt+score>=14")
+        if english_checked > 0 and english_reco in {"revise", "needs_logos"}:
+            phase1_reasons.append(f"eng={english_reco}")
         if phase1_reasons:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(phase1_reasons)

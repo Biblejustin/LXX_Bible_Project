@@ -134,6 +134,9 @@ This rebuilds:
 - `output/fresh_ot_nt_idiom_outliers.md`
 - `output/fresh_ot_crossref_clues.md`
 - `output/fresh_ot_crossref_watch.md`
+- `output/fresh_ot_english_witness_review.md`
+- `output/fresh_ot_english_witness_watch.md`
+- `output/fresh_ot_proper_name_watch.md`
 - `output/fresh_human_review_phase1.md`
 - `output/fresh_human_review_core.md`
 - `output/fresh_human_review_mt_watch.md`
@@ -144,6 +147,34 @@ Private witness matrix:
 ```bash
 python3 scripts/build_private_witness_matrix.py
 ```
+
+Private English witness worksheet for NETS / LES / SAAS:
+
+```bash
+python3 scripts/build_private_english_witness_observations.py
+```
+
+This writes:
+
+- `data/research/local/witness_review/english_witness_observations.csv`
+- `data/research/local/witness_review/english_witness_observations_README.md`
+
+Use short alignment notes only.
+Do not store long copyrighted text.
+
+Proper-name watch:
+
+```bash
+python3 scripts/build_proper_name_watch.py
+```
+
+This writes:
+
+- `output/fresh_ot_proper_name_watch.md`
+- `output/fresh_ot_proper_name_watch.csv`
+- `data/research/local/proper_name_review/proper_name_candidates.csv`
+
+Use this for normalizing Greekized OT names toward familiar MT-based English forms, while keeping meaning notes in notes rather than main-text spellings.
 
 Apply witness decisions back into source:
 

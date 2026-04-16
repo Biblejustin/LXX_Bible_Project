@@ -29,6 +29,9 @@ def main() -> None:
     run_script("build_nt_idiom_review.py")
     run_script("build_crossref_clue_review.py")
     run_script("build_human_review_gate.py")
+    run_script("build_private_english_witness_observations.py")
+    run_script("build_english_witness_review.py")
+    run_script("build_proper_name_watch.py")
 
     print(
         json.dumps(
@@ -58,6 +61,10 @@ def main() -> None:
                 "crossref_clues_csv": str(ROOT / "output" / "fresh_ot_crossref_clues.csv"),
                 "crossref_watch": str(ROOT / "output" / "fresh_ot_crossref_watch.md"),
                 "crossref_watch_csv": str(ROOT / "output" / "fresh_ot_crossref_watch.csv"),
+                "english_witness_review": str(ROOT / "output" / "fresh_ot_english_witness_review.md"),
+                "english_witness_review_csv": str(ROOT / "output" / "fresh_ot_english_witness_review.csv"),
+                "english_witness_watch": str(ROOT / "output" / "fresh_ot_english_witness_watch.md"),
+                "english_witness_watch_csv": str(ROOT / "output" / "fresh_ot_english_witness_watch.csv"),
                 "same_as_mt": str(ROOT / "output" / "fresh_same_as_mt_differs_from_brenton.md"),
                 "same_as_mt_csv": str(ROOT / "output" / "fresh_same_as_mt_differs_from_brenton.csv"),
                 "mt_leaning": str(ROOT / "output" / "fresh_mt_leaning_vs_brenton.md"),
@@ -68,6 +75,8 @@ def main() -> None:
                 "human_review_phase1": str(ROOT / "output" / "fresh_human_review_phase1.md"),
                 "human_review_mt_watch": str(ROOT / "output" / "fresh_human_review_mt_watch.md"),
                 "human_review_nt_watch": str(ROOT / "output" / "fresh_human_review_nt_watch.md"),
+                "proper_name_watch": str(ROOT / "output" / "fresh_ot_proper_name_watch.md"),
+                "proper_name_watch_csv": str(ROOT / "output" / "fresh_ot_proper_name_watch.csv"),
             },
             indent=2,
         )

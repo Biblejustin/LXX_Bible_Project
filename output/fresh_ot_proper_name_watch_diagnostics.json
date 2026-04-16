@@ -1,0 +1,98 @@
+{
+  "rows": 21,
+  "top_rows": [
+    {
+      "current_form": "Saoul",
+      "preferred_form": "Saul",
+      "kind": "person",
+      "occurrences": "341",
+      "sample_refs": "Genesis 36:37, Genesis 36:38, 1 Samuel 9:2, 1 Samuel 9:3, 1 Samuel 9:5, 1 Samuel 9:7, 1 Samuel 9:8, 1 Samuel 9:10",
+      "meaning": "Asked for; prayed for",
+      "status": ""
+    },
+    {
+      "current_form": "Iouda",
+      "preferred_form": "Judah",
+      "kind": "people/place",
+      "occurrences": "308",
+      "sample_refs": "1 Samuel 11:8, 1 Samuel 15:4, 1 Samuel 17:52, 1 Samuel 18:16, 1 Samuel 22:5, 1 Samuel 23:23, 1 Samuel 30:16, 1 Samuel 30:26",
+      "meaning": "Praise",
+      "status": ""
+    },
+    {
+      "current_form": "Dauid",
+      "preferred_form": "David",
+      "kind": "person",
+      "occurrences": "277",
+      "sample_refs": "2 Kings 8:19, 2 Kings 8:24, 2 Kings 9:28, 2 Kings 12:22, 2 Kings 14:3, 2 Kings 14:20, 2 Kings 15:7, 2 Kings 15:38",
+      "meaning": "Beloved",
+      "status": ""
+    },
+    {
+      "current_form": "Ierousalem",
+      "preferred_form": "Jerusalem",
+      "kind": "place",
+      "occurrences": "269",
+      "sample_refs": "2 Samuel 17:20, 2 Samuel 19:20, 2 Samuel 19:26, 2 Samuel 19:34, 2 Samuel 19:35, 2 Samuel 20:2, 2 Samuel 20:3, 2 Samuel 20:7",
+      "meaning": "",
+      "status": ""
+    },
+    {
+      "current_form": "Salomon",
+      "preferred_form": "Solomon",
+      "kind": "person",
+      "occurrences": "115",
+      "sample_refs": "1 Chronicles 2:51, 1 Chronicles 2:54, 1 Chronicles 3:5, 1 Chronicles 3:10, 1 Chronicles 5:36, 1 Chronicles 6:17, 1 Chronicles 14:4, 1 Chronicles 18:8",
+      "meaning": "Peaceable; peaceful",
+      "status": ""
+    },
+    {
+      "current_form": "Elisaie",
+      "preferred_form": "Elisha",
+      "kind": "person",
+      "occurrences": "99",
+      "sample_refs": "1 Kings 19:16, 1 Kings 19:17, 1 Kings 19:19, 1 Kings 19:20, 2 Kings 2:1, 2 Kings 2:2, 2 Kings 2:3, 2 Kings 2:4",
+      "meaning": "My God is salvation",
+      "status": ""
+    },
+    {
+      "current_form": "Ieroboam",
+      "preferred_form": "Jeroboam",
+      "kind": "person",
+      "occurrences": "97",
+      "sample_refs": "1 Kings 11:26, 1 Kings 11:28, 1 Kings 11:29, 1 Kings 11:31, 1 Kings 11:40, 1 Kings 11:43, 1 Kings 12:15, 1 Kings 12:20",
+      "meaning": "",
+      "status": ""
+    },
+    {
+      "current_form": "Ioab",
+      "preferred_form": "Joab",
+      "kind": "person",
+      "occurrences": "97",
+      "sample_refs": "2 Samuel 17:25, 2 Samuel 18:2, 2 Samuel 18:5, 2 Samuel 18:10, 2 Samuel 18:11, 2 Samuel 18:12, 2 Samuel 18:14, 2 Samuel 18:15",
+      "meaning": "",
+      "status": ""
+    },
+    {
+      "current_form": "Achaab",
+      "preferred_form": "Ahab",
+      "kind": "person",
+      "occurrences": "89",
+      "sample_refs": "1 Kings 16:28, 1 Kings 16:29, 1 Kings 16:30, 1 Kings 16:33, 1 Kings 17:1, 1 Kings 18:1, 1 Kings 18:2, 1 Kings 18:3",
+      "meaning": "",
+      "status": ""
+    },
+    {
+      "current_form": "Ezekias",
+      "preferred_form": "Hezekiah",
+      "kind": "person",
+      "occurrences": "86",
+      "sample_refs": "2 Kings 16:20, 2 Kings 18:1, 2 Kings 18:9, 2 Kings 18:10, 2 Kings 18:13, 2 Kings 18:14, 2 Kings 18:15, 2 Kings 18:16",
+      "meaning": "",
+      "status": ""
+    }
+  ],
+  "public_md": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_proper_name_watch.md",
+  "public_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_proper_name_watch.csv",
+  "private_csv": "/Users/justinscaggs/Documents/Codex_bible/data/research/local/proper_name_review/proper_name_candidates.csv"
+}
