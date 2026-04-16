@@ -26,14 +26,14 @@ Selected verses: 6
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
-## 1 Chronicles 22:7
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, soul
-- fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
-- brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
-
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 1 Chronicles 28:12
+- score: 11
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:

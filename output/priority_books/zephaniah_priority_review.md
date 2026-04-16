@@ -35,5 +35,5 @@ Selected verses: 6
 ## Zephaniah 3:5
 - score: 8
 - reasons: importance=low; keywords=judgment, lord, righteous
-- fresh: But Lord righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to light, and it was not hidden; injustice did not know exaction, nor injustice for strife.
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 - brenton: [missing]

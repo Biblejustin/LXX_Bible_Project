@@ -5,7 +5,7 @@ Selected verses: 6
 ## Amos 2:7
 - score: 9
 - reasons: importance=medium; keywords=god, name, servant
-- fresh: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
 ## Amos 4:5

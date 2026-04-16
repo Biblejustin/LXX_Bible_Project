@@ -23,13 +23,6 @@ Rows: 100
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
-## 2 Samuel 14:17
-- book: 2 Samuel
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
 ## Genesis 1:2
 - book: Genesis
 - score: 19
@@ -51,6 +44,13 @@ Rows: 100
 - fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 - brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
 
+## 2 Samuel 14:17
+- book: 2 Samuel
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
+
 ## Deuteronomy 2:30
 - book: Deuteronomy
 - score: 18
@@ -69,7 +69,7 @@ Rows: 100
 - book: Exodus
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Exodus 6:3
@@ -223,7 +223,7 @@ Rows: 100
 - book: 2 Samuel
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ## Deuteronomy 3:24
@@ -531,7 +531,7 @@ Rows: 100
 - book: Jeremiah
 - score: 12
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 - brenton: [missing]
 
 ## Jeremiah 4:2
@@ -590,12 +590,12 @@ Rows: 100
 - fresh: And it came to pass, ark of covenant of Lord came as far as City of Dauid, and Melchol daughter of Saul looked through window and saw king Dauid dancing and playing, and she despised him in her soul.
 - brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
-## 1 Chronicles 22:7
+## 1 Chronicles 28:12
 - book: 1 Chronicles
 - score: 11
-- reasons: importance=medium; keywords=god, lord, name, soul
-- fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
-- brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ## 2 Chronicles 15:12
 - book: 2 Chronicles

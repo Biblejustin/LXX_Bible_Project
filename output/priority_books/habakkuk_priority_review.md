@@ -11,7 +11,7 @@ Selected verses: 6
 ## Habakkuk 1:4
 - score: 8
 - reasons: importance=low; keywords=judgment, law, righteous
-- fresh: Because of this law has been scattered and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 - brenton: [missing]
 
 ## Habakkuk 1:12

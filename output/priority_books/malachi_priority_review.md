@@ -29,7 +29,7 @@ Selected verses: 6
 ## Malachi 2:15
 - score: 9
 - reasons: importance=medium; keywords=god, seed, spirit
-- fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]
 
 ## Malachi 2:16

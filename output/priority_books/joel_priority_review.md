@@ -11,7 +11,7 @@ Selected verses: 6
 ## Joel 1:13
 - score: 8
 - reasons: importance=low; keywords=altar, god, sacrifice
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, sleep in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 - brenton: [missing]
 
 ## Joel 2:13
@@ -32,8 +32,8 @@ Selected verses: 6
 - fresh: Between base of altar the priests serving Lord will weep and say, Spare, Lord, your people, and do not give your inheritance to reproach for nations to rule them, so that they may not say among nations, Where is their God?
 - brenton: [missing]
 
-## Joel 3:5
-- score: 9
-- reasons: importance=medium; keywords=being, lord, name
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
+## Joel 2:23
+- score: 8
+- reasons: importance=low; keywords=god, lord, righteousness
+- fresh: And children of Zion, rejoice and be glad in Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
 - brenton: [missing]

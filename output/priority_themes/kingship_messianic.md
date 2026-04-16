@@ -156,14 +156,14 @@ Books: 36
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant
 - keywords: law, lord, servant
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ## 2 Samuel 14:17
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- keywords: angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord
+- keywords: angel, god, king, lord
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## 2 Samuel 15:6
@@ -464,7 +464,7 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
 - keywords: righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ## Proverbs 20:28
@@ -548,7 +548,7 @@ Books: 36
 - score: 12
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness
 - keywords: judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 - brenton: [missing]
 
 ## Jeremiah 39:28
@@ -562,7 +562,7 @@ Books: 36
 - score: 8
 - reasons: importance=low; keywords=king, lord, priest
 - keywords: king, lord, priest
-- fresh: He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 - brenton: [missing]
 
 ## Lamentations 2:9
@@ -632,7 +632,7 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=god, name, servant
 - keywords: god, name, servant
-- fresh: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
 ## Amos 4:13
@@ -744,5 +744,5 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=god, seed, spirit
 - keywords: god, seed, spirit
-- fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]

@@ -5,7 +5,7 @@ Selected verses: 6
 ## 2 Samuel 7:19
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ## 2 Samuel 12:13
@@ -15,9 +15,9 @@ Selected verses: 6
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
 ## 2 Samuel 14:17
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## 2 Samuel 15:6

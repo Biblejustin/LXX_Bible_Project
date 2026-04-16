@@ -2,7 +2,7 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 98
+Rows: 97
 Books: 37
 
 ## Genesis 24:27
@@ -23,7 +23,7 @@ Books: 37
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger
 - keywords: angel, being, lord, messenger
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Exodus 6:3
@@ -160,10 +160,10 @@ Books: 37
 - brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
 
 ## 2 Samuel 14:17
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- keywords: angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord
+- keywords: angel, god, king, lord
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## 1 Kings 12:24
@@ -201,19 +201,19 @@ Books: 37
 - fresh: And say, Save us, God of our salvation, and deliver us from nations, to praise your holy name and to boast in your praises.
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
 
-## 1 Chronicles 22:7
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, soul
-- keywords: god, lord, name, soul
-- fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
-- brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
-
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 1 Chronicles 28:12
+- score: 11
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- keywords: god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ## 2 Chronicles 15:3
 - score: 11
@@ -331,14 +331,14 @@ Books: 37
 - score: 10
 - reasons: importance=low; keywords=glory, law, mercy, righteousness
 - keywords: glory, law, mercy, righteousness
-- fresh: For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: [missing]
 
 ## Proverbs 11:18
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
 - keywords: righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ## Proverbs 12:13
@@ -516,18 +516,11 @@ Books: 37
 - fresh: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 - brenton: [missing]
 
-## Joel 3:5
-- score: 9
-- reasons: importance=medium; keywords=being, lord, name
-- keywords: being, lord, name
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
-- brenton: [missing]
-
 ## Amos 2:7
 - score: 9
 - reasons: importance=medium; keywords=god, name, servant
 - keywords: god, name, servant
-- fresh: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
 ## Amos 4:13
@@ -646,7 +639,7 @@ Books: 37
 - score: 8
 - reasons: importance=low; keywords=angel, lord, mercy
 - keywords: angel, lord, mercy
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
+- fresh: And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 - brenton: [missing]
 
 ## Zechariah 7:9

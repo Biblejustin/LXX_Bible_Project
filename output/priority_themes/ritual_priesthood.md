@@ -131,13 +131,6 @@ Books: 31
 - fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
-## 2 Samuel 14:17
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- keywords: angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
 ## 2 Samuel 24:25
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=altar, lord, peace
@@ -207,6 +200,13 @@ Books: 31
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 1 Chronicles 28:12
+- score: 11
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- keywords: god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ## 2 Chronicles 15:3
 - score: 11
@@ -317,7 +317,7 @@ Books: 31
 - score: 8
 - reasons: importance=low; keywords=king, lord, priest
 - keywords: king, lord, priest
-- fresh: He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 - brenton: [missing]
 
 ## Ezekiel 20:39
@@ -387,7 +387,7 @@ Books: 31
 - score: 8
 - reasons: importance=low; keywords=altar, god, sacrifice
 - keywords: altar, god, sacrifice
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, sleep in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 - brenton: [missing]
 
 ## Joel 2:14

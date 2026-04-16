@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 89
+Rows: 90
 Books: 33
 
 ## Genesis 18:19
@@ -121,7 +121,7 @@ Books: 33
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant
 - keywords: law, lord, servant
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ## 2 Samuel 12:13
@@ -338,7 +338,7 @@ Books: 33
 - score: 10
 - reasons: importance=low; keywords=glory, law, mercy, righteousness
 - keywords: glory, law, mercy, righteousness
-- fresh: For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: [missing]
 
 ## Proverbs 10:3
@@ -352,7 +352,7 @@ Books: 33
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
 - keywords: righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ## Proverbs 12:13
@@ -429,7 +429,7 @@ Books: 33
 - score: 12
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness
 - keywords: judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 - brenton: [missing]
 
 ## Jeremiah 33:16
@@ -495,6 +495,13 @@ Books: 33
 - fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 - brenton: [missing]
 
+## Joel 2:23
+- score: 8
+- reasons: importance=low; keywords=god, lord, righteousness
+- keywords: god, lord, righteousness
+- fresh: And children of Zion, rejoice and be glad in Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
+- brenton: [missing]
+
 ## Amos 4:5
 - score: 8
 - reasons: importance=low; keywords=god, law, lord
@@ -555,7 +562,7 @@ Books: 33
 - score: 8
 - reasons: importance=low; keywords=judgment, law, righteous
 - keywords: judgment, law, righteous
-- fresh: Because of this law has been scattered and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 - brenton: [missing]
 
 ## Habakkuk 1:12
@@ -590,7 +597,7 @@ Books: 33
 - score: 8
 - reasons: importance=low; keywords=judgment, lord, righteous
 - keywords: judgment, lord, righteous
-- fresh: But Lord righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to light, and it was not hidden; injustice did not know exaction, nor injustice for strife.
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 - brenton: [missing]
 
 ## Zechariah 7:9

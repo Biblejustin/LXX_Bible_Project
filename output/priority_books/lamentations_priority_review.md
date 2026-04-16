@@ -8,16 +8,10 @@ Selected verses: 6
 - fresh: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: [missing]
 
-## Lamentations 2:5
-- score: 7
-- reasons: importance=medium; keywords=being, lord
-- fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied for daughter Judah humiliation and being humbled.
-- brenton: [missing]
-
 ## Lamentations 2:6
 - score: 8
 - reasons: importance=low; keywords=king, lord, priest
-- fresh: He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 - brenton: [missing]
 
 ## Lamentations 2:9
@@ -36,4 +30,10 @@ Selected verses: 6
 - score: 7
 - reasons: importance=medium; keywords=lord, soul
 - fresh: Lord good to those waiting for him, soul that seeks him, good.
+- brenton: [missing]
+
+## Lamentations 3:58
+- score: 7
+- reasons: importance=medium; keywords=lord, soul
+- fresh: You judged, Lord, judgments of my soul. You redeemed my life.
 - brenton: [missing]

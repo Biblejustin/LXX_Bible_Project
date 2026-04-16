@@ -2,8 +2,8 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 74
-Books: 34
+Rows: 73
+Books: 33
 
 ## Genesis 1:2
 - score: 19
@@ -30,7 +30,7 @@ Books: 34
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger
 - keywords: angel, being, lord, messenger
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Exodus 4:11
@@ -201,19 +201,19 @@ Books: 34
 - fresh: And it came to pass, ark of covenant of Lord came as far as City of Dauid, and Melchol daughter of Saul looked through window and saw king Dauid dancing and playing, and she despised him in her soul.
 - brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
-## 1 Chronicles 22:7
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, soul
-- keywords: god, lord, name, soul
-- fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
-- brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
-
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 1 Chronicles 28:12
+- score: 11
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- keywords: god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ## 2 Chronicles 15:12
 - score: 11
@@ -261,7 +261,7 @@ Books: 34
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
 - keywords: righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ## Ecclesiastes 2:24
@@ -341,13 +341,6 @@ Books: 34
 - fresh: Therefore thus said Lord God of Israel: This city in being given over will be handed into hands of king of Babylon, and he will take it.
 - brenton: [missing]
 
-## Lamentations 2:5
-- score: 7
-- reasons: importance=medium; keywords=being, lord
-- keywords: being, lord
-- fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied for daughter Judah humiliation and being humbled.
-- brenton: [missing]
-
 ## Lamentations 3:17
 - score: 7
 - reasons: importance=medium; keywords=peace, soul
@@ -360,6 +353,13 @@ Books: 34
 - reasons: importance=medium; keywords=lord, soul
 - keywords: lord, soul
 - fresh: Lord good to those waiting for him, soul that seeks him, good.
+- brenton: [missing]
+
+## Lamentations 3:58
+- score: 7
+- reasons: importance=medium; keywords=lord, soul
+- keywords: lord, soul
+- fresh: You judged, Lord, judgments of my soul. You redeemed my life.
 - brenton: [missing]
 
 ## Ezekiel 43:19
@@ -402,13 +402,6 @@ Books: 34
 - reasons: importance=low; keywords=created, god, lord, savior
 - keywords: created, god, lord, savior
 - fresh: But I am Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from land of Egypt, and besides me you will know no god, and there is no savior except me.
-- brenton: [missing]
-
-## Joel 3:5
-- score: 9
-- reasons: importance=medium; keywords=being, lord, name
-- keywords: being, lord, name
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
 - brenton: [missing]
 
 ## Amos 4:13
@@ -513,7 +506,7 @@ Books: 34
 - score: 9
 - reasons: importance=medium; keywords=god, seed, spirit
 - keywords: god, seed, spirit
-- fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]
 
 ## Malachi 2:16

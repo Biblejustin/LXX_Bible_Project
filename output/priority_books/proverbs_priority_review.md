@@ -11,7 +11,7 @@ Selected verses: 6
 ## Proverbs 3:16
 - score: 10
 - reasons: importance=low; keywords=glory, law, mercy, righteousness
-- fresh: For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: [missing]
 
 ## Proverbs 10:3
@@ -23,7 +23,7 @@ Selected verses: 6
 ## Proverbs 11:18
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ## Proverbs 12:13

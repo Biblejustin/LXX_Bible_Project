@@ -6,22 +6,22 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 74
-- covenant/law: 89
+- anthropology: 73
+- covenant/law: 90
 - death/afterlife: 2
 - kingship: 106
 - ritual: 72
 - textual/lexical: 11
-- theology: 98
+- theology: 97
 
 ## Top 50
 - 1. 1 Kings 2:35 | score 26 | anthropology, ritual, kingship, death/afterlife
 - 2. Exodus 20:24 | score 25 | theology, ritual, kingship, textual/lexical
 - 3. 1 Kings 12:24 | score 22 | theology, anthropology, kingship
-- 4. 2 Samuel 14:17 | score 20 | theology, ritual, kingship
-- 5. Genesis 1:2 | score 19 | anthropology, textual/lexical
-- 6. Genesis 2:7 | score 19 | anthropology, textual/lexical
-- 7. 1 Samuel 20:42 | score 18 | theology, anthropology, kingship
+- 4. Genesis 1:2 | score 19 | anthropology, textual/lexical
+- 5. Genesis 2:7 | score 19 | anthropology, textual/lexical
+- 6. 1 Samuel 20:42 | score 18 | theology, anthropology, kingship
+- 7. 2 Samuel 14:17 | score 18 | theology, kingship
 - 8. Deuteronomy 2:30 | score 18 | anthropology, kingship
 - 9. Exodus 28:30 | score 18 | theology, covenant/law, ritual
 - 10. Exodus 3:2 | score 18 | theology, anthropology

@@ -23,7 +23,7 @@ Selected verses: 6
 ## Jeremiah 23:5
 - score: 12
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 - brenton: [missing]
 
 ## Jeremiah 33:16

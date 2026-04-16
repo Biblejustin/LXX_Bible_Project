@@ -31733,7 +31733,7 @@ Greek: ωφθη δε αυτω αγγελος κυριου εν φλογι πυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+Draft translation: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 
 Decision rows:
 - greek_phrase: ἄγγελος κυρίου | lemma: ἄγγελος | κύριος | morphology: nominative noun phrase | chosen_rendering: messenger of the Lord | alternate_renderings: angel of the Lord | rationale: Messenger keeps the base sense of angelos in view and leaves later angelological conclusions open. | status: drafted
@@ -162473,7 +162473,7 @@ Greek: και κατεσμικρυνθη μικρον ενωπιον σου κυ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+Draft translation: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 
 Decision rows:
 - greek_phrase: οὗτος δὲ ὁ νόμος τοῦ ἀνθρώπου | lemma: νόμος | ἄνθρωπος | morphology: nominative noun phrase | chosen_rendering: this is the law of the human | alternate_renderings: this is the charter for humanity; this is human custom | rationale: Phrase remains difficult; the draft stays close to the Greek while leaving room for later review. | status: drafted
@@ -216651,7 +216651,7 @@ Greek: και ειπεν δαυιδ σαλωμων τεκνον εμοι εγε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
+Draft translation: And Dauid said, Salomon, my child, it was upon my heart to build a house for name of Lord God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -328127,7 +328127,7 @@ Greek: μηκος γαρ βιου και ετη ζωης εν τη δεξια α
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+Draft translation: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 
 Decision rows:
 - [TODO add decision rows]
@@ -332783,7 +332783,7 @@ Greek: ασεβης ποιει εργα αδικα σπερμα δε δικαι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Ungodly does works unjust, but seed of righteous reward of truth.
+Draft translation: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -333305,7 +333305,7 @@ Greek: δι' αμαρτιαν χειλεων εμπιπτει εις παγιδ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Through sin of lips sinner falls into snares, but righteous escapes them. One seeing gentle things will receive mercy, but one meeting at gates will crush souls.
+Draft translation: Through sin of lips a sinner falls into a snare, but a righteous one escapes from them. One whose looks are gentle will receive mercy, but one contending in the gates will afflict souls.
 
 Decision rows:
 - [TODO add decision rows]
@@ -371687,7 +371687,7 @@ Greek: ουτως λεγει κυριος ο ρυσαμενος σε ο θεος
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Thus says Lord, one rescuing you, God of Israel: Sanctify one despising his own soul, one abhorred by nations, servant of rulers. Kings will see him and rise, rulers also, and will worship him, because of Lord, because Holy One of Israel is faithful, and I chose you.
+Draft translation: Thus says Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to servant of rulers: Kings will see and rise, rulers also, and will worship, because of Lord, because Holy One of Israel is faithful, and he chose you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -388389,7 +388389,7 @@ Greek: ιδου ημεραι ερχονται λεγει κυριος και α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+Draft translation: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -404393,7 +404393,7 @@ Greek: εγενηθη κυριος ως εχθρος κατεποντισεν ι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied for daughter Judah humiliation and being humbled.
+Draft translation: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah
 
 Decision rows:
 - [TODO add decision rows]
@@ -404413,7 +404413,7 @@ Greek: και διεπετασεν ως αμπελον το σκηνωμα αυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+Draft translation: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 
 Decision rows:
 - [TODO add decision rows]
@@ -443377,7 +443377,7 @@ Greek: περιζωσασθε και κοπτεσθε οι ιερεις θρην
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, sleep in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+Draft translation: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -444161,7 +444161,7 @@ Greek: και εσται πας ος αν επικαλεσηται το ονομ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
+Draft translation: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
 
 Decision rows:
 - [TODO add decision rows]
@@ -445029,7 +445029,7 @@ Greek: τα πατουντα επι τον χουν της γης και εκο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+Draft translation: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -452065,7 +452065,7 @@ Greek: δια τουτο διεσκεδασται νομος και ου διε�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because of this law has been scattered and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+Draft translation: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 
 Decision rows:
 - [TODO add decision rows]
@@ -453535,7 +453535,7 @@ Greek: ζητησατε τον κυριον παντες ταπεινοι γης
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Seek Lord, all humble of earth; work judgment and seek righteousness and answer these things, so that you may be sheltered in day of Lord's wrath.
+Draft translation: Seek Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in day of Lord's wrath.
 
 Decision rows:
 - [TODO add decision rows]
@@ -453877,7 +453877,7 @@ Greek: ο δε κυριος δικαιος εν μεσω αυτης και ου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But Lord righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to light, and it was not hidden; injustice did not know exaction, nor injustice for strife.
+Draft translation: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 
 Decision rows:
 - [TODO add decision rows]
@@ -455287,7 +455287,7 @@ Greek: και ειπεν προς με ο αγγελος ο λαλων εν εμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
+Draft translation: And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 
 Decision rows:
 - [TODO add decision rows]

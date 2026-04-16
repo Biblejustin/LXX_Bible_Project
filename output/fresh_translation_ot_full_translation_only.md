@@ -6430,7 +6430,7 @@ Now Moses was shepherding the flock of Jothor his father-in-law, the priest of M
 
 **Exodus 3:2**
 
-Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 
 **Exodus 3:3**
 
@@ -32944,7 +32944,7 @@ And king David entered and sat before the Lord and said, Who am I, my Lord, O Lo
 
 **2 Samuel 7:19**
 
-And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 
 **2 Samuel 7:20**
 
@@ -43922,7 +43922,7 @@ And he called Salomon his son and charged him to build house to Lord God of Isra
 
 **1 Chronicles 22:7**
 
-And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
+And Dauid said, Salomon, my child, it was upon my heart to build a house for name of Lord God,
 
 **1 Chronicles 22:8**
 
@@ -66662,7 +66662,7 @@ And she more valuable than precious stones; no evil thing will oppose her; she k
 
 **Proverbs 3:16**
 
-For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 
 **Proverbs 3:17**
 
@@ -67606,7 +67606,7 @@ Merciful man does good to his own soul, but pitiless man destroys his own body.
 
 **Proverbs 11:18**
 
-Ungodly does works unjust, but seed of righteous reward of truth.
+Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 
 **Proverbs 11:19**
 
@@ -67712,7 +67712,7 @@ Desires of ungodly evil, but roots of pious in strongholds.
 
 **Proverbs 12:13**
 
-Through sin of lips sinner falls into snares, but righteous escapes them. One seeing gentle things will receive mercy, but one meeting at gates will crush souls.
+Through sin of lips a sinner falls into a snare, but a righteous one escapes from them. One whose looks are gentle will receive mercy, but one contending in the gates will afflict souls.
 
 **Proverbs 12:14**
 
@@ -75534,7 +75534,7 @@ And he said to me, Great thing for you it is to be called my servant, to set up 
 
 **Isaiah 49:7**
 
-Thus says Lord, one rescuing you, God of Israel: Sanctify one despising his own soul, one abhorred by nations, servant of rulers. Kings will see him and rise, rulers also, and will worship him, because of Lord, because Holy One of Israel is faithful, and I chose you.
+Thus says Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to servant of rulers: Kings will see and rise, rulers also, and will worship, because of Lord, because Holy One of Israel is faithful, and he chose you.
 
 **Isaiah 49:8**
 
@@ -78940,7 +78940,7 @@ And I will raise up for them shepherds who will shepherd them, and they will not
 
 **Jeremiah 23:5**
 
-Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 
 **Jeremiah 23:6**
 
@@ -82192,11 +82192,11 @@ He bent his bow like enemy, fixed his right hand like adversary, and killed all 
 
 **Lamentations 2:5**
 
-Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied for daughter Judah humiliation and being humbled.
+Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah
 
 **Lamentations 2:6**
 
-He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 
 **Lamentations 2:7**
 
@@ -90120,7 +90120,7 @@ Vine dried up and figs diminished, pomegranate and palm and apple and all trees 
 
 **Joel 1:13**
 
-Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, sleep in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 
 **Joel 1:14**
 
@@ -90280,7 +90280,7 @@ Sun will be turned into darkness and moon into blood before great and manifest d
 
 **Joel 3:5**
 
-And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
+And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
 
 ### Chapter 4
 
@@ -90460,7 +90460,7 @@ Thus says Lord: For three impieties of Israel and for four I will not turn him a
 
 **Amos 2:7**
 
-Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 
 **Amos 2:8**
 
@@ -91912,7 +91912,7 @@ Why did you show me troubles and pains, to look upon misery and impiety? Judgmen
 
 **Habakkuk 1:4**
 
-Because of this law has been scattered and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 
 **Habakkuk 1:5**
 
@@ -92214,7 +92214,7 @@ before you come to be like passing flower, before Lord's wrath comes upon you, b
 
 **Zephaniah 2:3**
 
-Seek Lord, all humble of earth; work judgment and seek righteousness and answer these things, so that you may be sheltered in day of Lord's wrath.
+Seek Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in day of Lord's wrath.
 
 **Zephaniah 2:4**
 
@@ -92284,7 +92284,7 @@ Her prophets are spirit-borne men, contemptuous; her priests profane holy things
 
 **Zephaniah 3:5**
 
-But Lord righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to light, and it was not hidden; injustice did not know exaction, nor injustice for strife.
+But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 
 **Zephaniah 3:6**
 
@@ -92574,7 +92574,7 @@ Therefore thus says Lord: I will return to Jerusalem with compassion, and my hou
 
 **Zechariah 1:17**
 
-And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
+And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 
 ### Chapter 2
 

@@ -92,7 +92,7 @@ Use:
 ### Exodus 3:2
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he sees that the bush burns with fire, but the bush was not being consumed.
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ### Exodus 3:18
@@ -396,7 +396,7 @@ Use:
 ### 2 Samuel 7:19
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=law, lord, servant
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long way. And this is the law of the human, my Lord, O Lord.
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ### 2 Samuel 12:13
@@ -406,9 +406,9 @@ Use:
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
 ### 2 Samuel 14:17
-- score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord, sacrifice
-- fresh: And the woman said, Let the word of my lord the king now be for sacrifice, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- score: 18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Samuel 15:6
@@ -531,17 +531,17 @@ Use:
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
-### 1 Chronicles 22:7
-- score: 11
-- reasons: importance=medium; keywords=god, lord, name, soul
-- fresh: And Dauid said, Salomon, my child, it came upon my soul to build house to name of Lord God,
-- brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
-
 ### 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+### 1 Chronicles 28:12
+- score: 11
+- reasons: importance=medium; keywords=god, holy, lord, spirit
+- fresh: and pattern which he had in his spirit of courts of house of Lord and all storerooms around, for treasuries of house of Lord and treasuries of holy things,
+- brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ## 2 Chronicles
 
@@ -782,7 +782,7 @@ Use:
 ### Proverbs 3:16
 - score: 10
 - reasons: importance=low; keywords=glory, law, mercy, righteousness
-- fresh: For length of life and years of life in her right hand; in her left riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: [missing]
 
 ### Proverbs 10:3
@@ -794,7 +794,7 @@ Use:
 ### Proverbs 11:18
 - score: 9
 - reasons: importance=medium; keywords=righteous, seed, truth
-- fresh: Ungodly does works unjust, but seed of righteous reward of truth.
+- fresh: Ungodly one does unjust works, but for seed of righteous ones there is reward of truth.
 - brenton: [missing]
 
 ### Proverbs 12:13
@@ -946,7 +946,7 @@ Use:
 ### Jeremiah 23:5
 - score: 12
 - reasons: importance=low; keywords=judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says Lord, and I will raise for David righteous rising, and king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
 - brenton: [missing]
 
 ### Jeremiah 33:16
@@ -969,16 +969,10 @@ Use:
 - fresh: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: [missing]
 
-### Lamentations 2:5
-- score: 7
-- reasons: importance=medium; keywords=being, lord
-- fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied for daughter Judah humiliation and being humbled.
-- brenton: [missing]
-
 ### Lamentations 2:6
 - score: 8
 - reasons: importance=low; keywords=king, lord, priest
-- fresh: He spread out his tent like vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 - brenton: [missing]
 
 ### Lamentations 2:9
@@ -997,6 +991,12 @@ Use:
 - score: 7
 - reasons: importance=medium; keywords=lord, soul
 - fresh: Lord good to those waiting for him, soul that seeks him, good.
+- brenton: [missing]
+
+### Lamentations 3:58
+- score: 7
+- reasons: importance=medium; keywords=lord, soul
+- fresh: You judged, Lord, judgments of my soul. You redeemed my life.
 - brenton: [missing]
 
 ## Ezekiel
@@ -1124,7 +1124,7 @@ Use:
 ### Joel 1:13
 - score: 8
 - reasons: importance=low; keywords=altar, god, sacrifice
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, sleep in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 - brenton: [missing]
 
 ### Joel 2:13
@@ -1145,10 +1145,10 @@ Use:
 - fresh: Between base of altar the priests serving Lord will weep and say, Spare, Lord, your people, and do not give your inheritance to reproach for nations to rule them, so that they may not say among nations, Where is their God?
 - brenton: [missing]
 
-### Joel 3:5
-- score: 9
-- reasons: importance=medium; keywords=being, lord, name
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be one escaping, as Lord said, and those being brought good news whom Lord has called.
+### Joel 2:23
+- score: 8
+- reasons: importance=low; keywords=god, lord, righteousness
+- fresh: And children of Zion, rejoice and be glad in Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
 - brenton: [missing]
 
 ## Amos
@@ -1156,7 +1156,7 @@ Use:
 ### Amos 2:7
 - score: 9
 - reasons: importance=medium; keywords=god, name, servant
-- fresh: Those trampling on dust of the earth and striking heads of poor with fists and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
 ### Amos 4:5
@@ -1352,7 +1352,7 @@ Use:
 ### Habakkuk 1:4
 - score: 8
 - reasons: importance=low; keywords=judgment, law, righteous
-- fresh: Because of this law has been scattered and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 - brenton: [missing]
 
 ### Habakkuk 1:12
@@ -1414,7 +1414,7 @@ Use:
 ### Zephaniah 3:5
 - score: 8
 - reasons: importance=low; keywords=judgment, lord, righteous
-- fresh: But Lord righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to light, and it was not hidden; injustice did not know exaction, nor injustice for strife.
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 - brenton: [missing]
 
 ## Haggai
@@ -1466,7 +1466,7 @@ Use:
 ### Zechariah 1:17
 - score: 8
 - reasons: importance=low; keywords=angel, lord, mercy
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
+- fresh: And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 - brenton: [missing]
 
 ### Zechariah 7:9
@@ -1522,7 +1522,7 @@ Use:
 ### Malachi 2:15
 - score: 9
 - reasons: importance=medium; keywords=god, seed, spirit
-- fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]
 
 ### Malachi 2:16

@@ -11,7 +11,7 @@ Selected verses: 6
 ## Zechariah 1:17
 - score: 8
 - reasons: importance=low; keywords=angel, lord, mercy
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
+- fresh: And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 - brenton: [missing]
 
 ## Zechariah 7:9
