@@ -23,7 +23,7 @@ Selected verses: 6
 ## Hosea 5:4
 - score: 9
 - reasons: importance=medium; keywords=god, lord, spirit
-- fresh: They did not give their counsels to return to their God, because spirit of whoredom is in them, and they did not know the Lord.
+- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 - brenton: [missing]
 
 ## Hosea 13:2

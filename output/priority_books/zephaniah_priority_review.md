@@ -11,13 +11,13 @@ Selected verses: 6
 ## Zephaniah 1:7
 - score: 8
 - reasons: importance=low; keywords=god, lord, sacrifice
-- fresh: Fear from face of Lord God, because day of Lord is near, because Lord prepared his sacrifice; he consecrated his called ones.
+- fresh: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 - brenton: [missing]
 
 ## Zephaniah 1:8
 - score: 8
 - reasons: importance=low; keywords=king, lord, sacrifice
-- fresh: It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+- fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 - brenton: [missing]
 
 ## Zephaniah 2:3

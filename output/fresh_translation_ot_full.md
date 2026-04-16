@@ -8939,7 +8939,7 @@ Greek: ᾔδειν γὰρ ὅτι συντάξει τοῖς υἱοῖς αὐ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+Draft translation: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 
 Decision rows:
 - greek_phrase: ᾔδειν γὰρ ὅτι συντάξει | lemma: οἶδα | συντάσσω | morphology: pluperfect active indicative 1 singular + future active indicative 3 singular | chosen_rendering: For I knew him, that he will direct | alternate_renderings: For I have known him, that he will command; For I chose him, that he will order | rationale: Keeps the knowing-language visible before narrowing it to a more interpretive election or command formula. | status: drafted
@@ -129019,7 +129019,7 @@ Greek: και ειπεν ιησους προς τον λαον ου μη δυν�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+Draft translation: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136947,7 +136947,7 @@ Greek: και ηλθεν η γυνη και ειπεν τω ανδρι αυτη�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very glorious, and I asked where he was from, and he did not tell me his name.
+Draft translation: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136987,7 +136987,7 @@ Greek: και εδεηθη μανωε του κυριου και ειπεν εν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Manōe prayed to the Lord and said, In me, Lord, may the man of God whom you sent to us please come to us again and enlighten us what we should do for the child being born.
+Draft translation: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141967,7 +141967,7 @@ Greek: μη αυτους προσδεξεσθε εως ου αδρυνθωσιν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: would you wait for them until they grow up? Or would you be restrained on account of them from becoming a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
+Draft translation: would you wait for them until they grow up? Or would you be restrained on account of them from belonging to a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142549,7 +142549,7 @@ Greek: και ειπεν νωεμιν τη νυμφη αυτης ευλογητ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+Draft translation: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142811,7 +142811,7 @@ Greek: και ειπεν βοος ευλογημενη συ τω κυριω θε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he said, Blessed are you to the Lord God, daughter, because you made your latter mercy better than the first, not going after young men, whether poor or rich.
+Draft translation: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 
 Decision rows:
 - [TODO add decision rows]
@@ -197749,7 +197749,7 @@ Greek: εως της ημερας ταυτης αυτοι εποιουν κατ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+Draft translation: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -214419,7 +214419,7 @@ Greek: του αναφερειν ολοκαυτωματα τω κυριω επι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+Draft translation: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -216891,7 +216891,7 @@ Greek: νυν δοτε καρδιας υμων και ψυχας υμων του
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+Draft translation: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -224705,7 +224705,7 @@ Greek: εστω κυριος ο θεος σου ηυλογημενος ος ηθ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+Draft translation: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -235773,7 +235773,7 @@ Greek: και κατωρθωσεν το θυσιαστηριον κυριου κ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+Draft translation: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -260493,7 +260493,7 @@ Greek: ουτος δε ην καιρος κορασιου εισελθειν π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this was time of a girl going in to the king, when she completed twelve months, for thus days of treatment are completed: six months being anointed in oil of myrrh and six months in spices and in cosmetics of the women.
+Draft translation: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 
 Decision rows:
 - [TODO add decision rows]
@@ -262265,7 +262265,7 @@ Greek: γραψατε και υμεις εκ του ονοματος μου ως
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+Draft translation: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -263133,7 +263133,7 @@ Greek: ανθρωπος τις ην εν χωρα τη αυσιτιδι ω ον�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+Draft translation: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 
 Decision rows:
 - [TODO add decision rows]
@@ -263273,7 +263273,7 @@ Greek: και ειπεν αυτω ο κυριος προσεσχες τη δια
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, holding back from every evil thing?
+Draft translation: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 
 Decision rows:
 - [TODO add decision rows]
@@ -263615,7 +263615,7 @@ Greek: ειπεν δε ο κυριος προς τον διαβολον προσ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, harmless, true, blameless, god-fearing, holding back from every evil, and he still holds fast innocence? Yet you spoke against his possessions to destroy them for nothing.
+Draft translation: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 
 Decision rows:
 - [TODO add decision rows]
@@ -266809,7 +266809,7 @@ Greek: επ' αληθειας οιδα οτι ουτως εστιν πως γα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In truth I know that it is so; for how will mortal be righteous before Lord?
+Draft translation: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 
 Decision rows:
 - [TODO add decision rows]
@@ -279539,7 +279539,7 @@ Greek: οτι ειρηκεν ιωβ δικαιος ειμι ο κυριος απ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For Iōb said, I am righteous; Lord removed my judgment.
+Draft translation: For Iōb said, I am righteous; the Lord took away my judgment.
 
 Decision rows:
 - [TODO add decision rows]
@@ -291829,7 +291829,7 @@ Greek: του δαυιδ προ του χρισθηναι κυριος φωτι�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+Draft translation: Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 
 Decision rows:
 - [TODO add decision rows]
@@ -305893,7 +305893,7 @@ Greek: εγω δε τη προσευχη μου προς σε κυριε και�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+Draft translation: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -312523,7 +312523,7 @@ Greek: οτι ελεον και αληθειαν αγαπα κυριος ο θε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+Draft translation: Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 
 Decision rows:
 - [TODO add decision rows]
@@ -354587,7 +354587,7 @@ Greek: οτι τω ανθρωπω τω αγαθω προ προσωπου αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because to man good before his face he gave wisdom and knowledge and gladness, but to sinner he gave distraction, to add and gather in order to give to one good before face of God; because this too vanity and choice of spirit.
+Draft translation: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -355795,7 +355795,7 @@ Greek: ανηρ ω δωσει αυτω ο θεος πλουτον και υπα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Man to whom God gives wealth and possessions and glory, and his soul lacks nothing from all he desires, yet God will not empower him to eat from it, because foreign man will eat it; this vanity and evil sickness.
+Draft translation: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -355935,7 +355935,7 @@ Greek: αγαθον οραμα οφθαλμων υπερ πορευομενον 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Better sight of eyes than wandering of soul; this too vanity and choice of spirit.
+Draft translation: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -358573,7 +358573,7 @@ Greek: ως μηλον εν τοις ξυλοις του δρυμου ουτως
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: As apple tree among trees of grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit sweet in my throat.
+Draft translation: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 
 Decision rows:
 - [TODO add decision rows]
@@ -358693,7 +358693,7 @@ Greek: ομοιος εστιν αδελφιδος μου τη δορκαδι η 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through nets.
+Draft translation: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 
 Decision rows:
 - [TODO add decision rows]
@@ -358875,7 +358875,7 @@ Greek: επι κοιτην μου εν νυξιν εζητησα ον ηγαπη
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: On my bed in nights I sought one my soul loved; I sought him and did not find him; I called him and he did not listen to me.
+Draft translation: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -359519,7 +359519,7 @@ Greek: ηνοιξα εγω τω αδελφιδω μου αδελφιδος μο�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not listen to me.
+Draft translation: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -362537,7 +362537,7 @@ Greek: και υψωθησεται κυριος σαβαωθ εν κριματι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+Draft translation: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -365491,7 +365491,7 @@ Greek: ιδου ο θεος μου σωτηρ μου κυριος πεποιθω
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+Draft translation: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -382195,7 +382195,7 @@ Greek: τα ορη μεταστησεσθαι ουδε οι βουνοι σου 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+Draft translation: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -388089,7 +388089,7 @@ Greek: και ομοση ζη κυριος μετα αληθειας και εν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+Draft translation: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 
 Decision rows:
 - [TODO add decision rows]
@@ -388249,7 +388249,7 @@ Greek: και ειπα ω δεσποτα κυριε αρα γε απατων η�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+Draft translation: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 
 Decision rows:
 - [TODO add decision rows]
@@ -391439,7 +391439,7 @@ Greek: αλλ' η εν τουτω καυχασθω ο καυχωμενος συ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+Draft translation: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -412769,7 +412769,7 @@ Greek: πας ο λαος αυτης καταστεναζοντες ζητουν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: All her people groaning seek bread. They gave their desirable things for food, to restore soul. See, Lord, and look, because I became dishonored.
+Draft translation: All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 
 Decision rows:
 - [TODO add decision rows]
@@ -413171,7 +413171,7 @@ Greek: ενεπαγησαν εις γην πυλαι αυτης απωλεσεν
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+Draft translation: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -438527,7 +438527,7 @@ Greek: οι ιερεις οι λευιται οι υιοι του σαδδουκ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+Draft translation: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -449093,7 +449093,7 @@ Greek: ουκ εδωκαν τα διαβουλια αυτων του επιστ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: They did not give their counsels to return to their God, because spirit of whoredom is in them, and they did not know the Lord.
+Draft translation: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -452477,7 +452477,7 @@ Greek: και διαρρηξατε τας καρδιας υμων και μη τ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And tear your hearts and not your garments, and return to Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and repenting over evils.
+Draft translation: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 
 Decision rows:
 - [TODO add decision rows]
@@ -452497,7 +452497,7 @@ Greek: τις οιδεν ει επιστρεψει και μετανοησει �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+Draft translation: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 
 Decision rows:
 - [TODO add decision rows]
@@ -454633,7 +454633,7 @@ Greek: ποιων παντα και μετασκευαζων και εκτρεπ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: making all things and transforming, turning shadow of death into morning and darkening day into night, calling water of sea and pouring it on face of earth; Lord God Almighty is his name,
+Draft translation: making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 
 Decision rows:
 - [TODO add decision rows]
@@ -456929,7 +456929,7 @@ Greek: και ανεβοησαν προς κυριον και ειπαν μηδ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: They cried to Lord and said, By no means, Lord, let us not perish for life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+Draft translation: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 
 Decision rows:
 - [TODO add decision rows]
@@ -457031,7 +457031,7 @@ Greek: και ειπεν εβοησα εν θλιψει μου προς κυρι
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: He said, I cried in my distress to Lord my God, and he heard me. From belly of Hades you heard voice of my cry.
+Draft translation: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 
 Decision rows:
 - [TODO add decision rows]
@@ -457171,7 +457171,7 @@ Greek: εγω δε μετα φωνης αινεσεως και εξομολογ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+Draft translation: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -458545,7 +458545,7 @@ Greek: οτι παντες οι λαοι πορευσονται εκαστος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because all peoples will walk, each his own way, but we will walk in name of Lord our God forever and beyond.
+Draft translation: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 
 Decision rows:
 - [TODO add decision rows]
@@ -458787,7 +458787,7 @@ Greek: και στησεται και οψεται και ποιμανει το 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+Draft translation: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -459169,7 +459169,7 @@ Greek: ει ανηγγελη σοι ανθρωπε τι καλον η τι κυ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+Draft translation: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -459775,7 +459775,7 @@ Greek: θεος ζηλωτης και εκδικων κυριος εκδικων
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: God jealous and avenging, Lord avenging with wrath; Lord avenges his adversaries, and he removes his enemies.
+Draft translation: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -460723,7 +460723,7 @@ Greek: εως τινος κυριε κεκραξομαι και ου μη εισ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: How long, Lord, will I cry out and you certainly not hear? I will shout to you while being wronged, and you will not save.
+Draft translation: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
 
 Decision rows:
 - [TODO add decision rows]
@@ -461951,7 +461951,7 @@ Greek: ευλαβεισθε απο προσωπου κυριου του θεου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Fear from face of Lord God, because day of Lord is near, because Lord prepared his sacrifice; he consecrated his called ones.
+Draft translation: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 
 Decision rows:
 - [TODO add decision rows]
@@ -461971,7 +461971,7 @@ Greek: και εσται εν ημερα θυσιας κυριου και εκδ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+Draft translation: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 
 Decision rows:
 - [TODO add decision rows]
@@ -463139,7 +463139,7 @@ Greek: και ειπεν αγγαιος ο αγγελος κυριου τω λα
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Haggai messenger of Lord said to people, I am with you, says Lord.
+Draft translation: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -463159,7 +463159,7 @@ Greek: και εξηγειρεν κυριος το πνευμα ζοροβαβε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Lord stirred spirit of Zerubbabel son of Salathiel from tribe of Judah, and spirit of Jeshua son of Josedek the great priest, and spirit of remnant of all people, and they entered and were doing works in house of Lord Almighty their God,
+Draft translation: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -463885,7 +463885,7 @@ Greek: και απεκριθη ο αγγελος κυριου και ειπεν 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And angel of Lord answered and said, Lord Almighty, how long will you certainly not have mercy on Jerusalem and cities of Judah, which you overlooked this seventieth year?
+Draft translation: And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 
 Decision rows:
 - [TODO add decision rows]
@@ -465577,7 +465577,7 @@ Greek: και την καρδιαν αυτων εταξαν απειθη του 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+Draft translation: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -468175,7 +468175,7 @@ Greek: και επικαταρατος ος ην δυνατος και υπηρ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+Draft translation: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 
 Decision rows:
 - [TODO add decision rows]
@@ -468337,7 +468337,7 @@ Greek: υμεις δε εξεκλινατε εκ της οδου και πολλ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But you turned aside from way and made many weak in law. You corrupted covenant of Levi, says Lord Almighty.
+Draft translation: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -468437,7 +468437,7 @@ Greek: και ταυτα α εμισουν εποιειτε εκαλυπτετε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: This second thing you did: you covered altar of Lord with tears and weeping and groaning from labors. It is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+Draft translation: And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
 
 Decision rows:
 - [TODO add decision rows]

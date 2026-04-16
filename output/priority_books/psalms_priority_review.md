@@ -5,7 +5,7 @@ Selected verses: 6
 ## Psalms 26:1
 - score: 11
 - reasons: importance=medium; keywords=anointed, being, lord, savior
-- fresh: Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+- fresh: Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 - brenton: [missing]
 
 ## Psalms 30:6
@@ -17,7 +17,7 @@ Selected verses: 6
 ## Psalms 68:14
 - score: 12
 - reasons: importance=low; keywords=god, lord, mercy, salvation, truth
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Psalms 78:9
@@ -29,7 +29,7 @@ Selected verses: 6
 ## Psalms 83:12
 - score: 14
 - reasons: importance=low; keywords=glory, god, grace, lord, mercy, truth
-- fresh: Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+- fresh: Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 - brenton: [missing]
 
 ## Psalms 113:9

@@ -23,7 +23,7 @@ Selected verses: 6
 ## 1 Chronicles 16:40
 - score: 13
 - reasons: importance=medium; keywords=altar, god, law, lord, servant
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 22:7
@@ -35,5 +35,5 @@ Selected verses: 6
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.

@@ -5,13 +5,13 @@ Selected verses: 6
 ## Isaiah 5:16
 - score: 12
 - reasons: importance=low; keywords=god, holy, judgment, lord, righteousness
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ## Isaiah 12:2
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, salvation, savior
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ## Isaiah 48:1
@@ -29,7 +29,7 @@ Selected verses: 6
 ## Isaiah 54:10
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Isaiah 56:1

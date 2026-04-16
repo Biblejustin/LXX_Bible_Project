@@ -23,13 +23,13 @@ Selected verses: 6
 ## Ruth 2:20
 - score: 9
 - reasons: importance=medium; keywords=law, lord, mercy
-- fresh: And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+- fresh: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
 ## Ruth 3:10
 - score: 8
 - reasons: importance=low; keywords=god, lord, mercy
-- fresh: And he said, Blessed are you to the Lord God, daughter, because you made your latter mercy better than the first, not going after young men, whether poor or rich.
+- fresh: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 - brenton: And Booz said, Blessed be thou of the Lord God, my daughter, for thou hast made thy latter kindness greater than the former, in that thou followest not after young men, whether any be poor or rich.
 
 ## Ruth 4:12

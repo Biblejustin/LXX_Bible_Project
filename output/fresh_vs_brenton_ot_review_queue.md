@@ -6,11 +6,11 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 78
+- anthropology: 79
 - covenant/law: 83
 - death/afterlife: 2
 - kingship: 108
-- ritual: 76
+- ritual: 75
 - textual/lexical: 10
 - theology: 100
 
@@ -58,10 +58,10 @@ Use MD for reading order.
 - 41. 1 Chronicles 22:19 | score 15 | theology, anthropology, covenant/law, ritual
 - 42. 1 Samuel 2:10 | score 15 | theology, covenant/law, ritual, kingship
 - 43. 2 Chronicles 35:19 | score 15 | theology, anthropology, covenant/law, ritual, kingship
-- 44. 2 Chronicles 9:8 | score 15 | covenant/law, kingship
-- 45. Daniel 4:37 | score 15 | theology, anthropology, ritual, kingship
-- 46. Joshua 22:29 | score 15 | anthropology, ritual, kingship
-- 47. 1 Kings 3:9 | score 14 | covenant/law, kingship
-- 48. 1 Samuel 10:6 | score 14 | anthropology
-- 49. 1 Samuel 12:17 | score 14 | kingship
-- 50. 1 Samuel 15:22 | score 14 | ritual
+- 44. Daniel 4:37 | score 15 | theology, anthropology, ritual, kingship
+- 45. Joshua 22:29 | score 15 | anthropology, ritual, kingship
+- 46. 1 Kings 3:9 | score 14 | covenant/law, kingship
+- 47. 1 Samuel 10:6 | score 14 | anthropology
+- 48. 1 Samuel 12:17 | score 14 | kingship
+- 49. 1 Samuel 15:22 | score 14 | ritual
+- 50. 2 Chronicles 33:16 | score 14 | ritual, kingship

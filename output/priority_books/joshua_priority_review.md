@@ -35,5 +35,5 @@ Selected verses: 6
 ## Joshua 24:19
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.

@@ -5,7 +5,7 @@ Selected verses: 6
 ## Malachi 1:14
 - score: 9
 - reasons: importance=medium; keywords=king, lord, name
-- fresh: Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 - brenton: [missing]
 
 ## Malachi 2:6
@@ -23,17 +23,17 @@ Selected verses: 6
 ## Malachi 2:8
 - score: 9
 - reasons: importance=medium; keywords=covenant, law, lord
-- fresh: But you turned aside from way and made many weak in law. You corrupted covenant of Levi, says Lord Almighty.
-- brenton: [missing]
-
-## Malachi 2:13
-- score: 9
-- reasons: importance=medium; keywords=altar, lord, sacrifice
-- fresh: This second thing you did: you covered altar of Lord with tears and weeping and groaning from labors. It is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+- fresh: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 - brenton: [missing]
 
 ## Malachi 2:15
 - score: 9
 - reasons: importance=medium; keywords=god, seed, spirit
 - fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- brenton: [missing]
+
+## Malachi 2:16
+- score: 9
+- reasons: importance=medium; keywords=god, lord, spirit
+- fresh: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]

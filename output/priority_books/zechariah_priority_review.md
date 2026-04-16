@@ -5,7 +5,7 @@ Selected verses: 6
 ## Zechariah 1:12
 - score: 8
 - reasons: importance=low; keywords=angel, lord, mercy
-- fresh: And angel of Lord answered and said, Lord Almighty, how long will you certainly not have mercy on Jerusalem and cities of Judah, which you overlooked this seventieth year?
+- fresh: And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 - brenton: [missing]
 
 ## Zechariah 1:17
@@ -23,7 +23,7 @@ Selected verses: 6
 ## Zechariah 7:12
 - score: 9
 - reasons: importance=medium; keywords=law, lord, spirit
-- fresh: And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - brenton: [missing]
 
 ## Zechariah 12:10

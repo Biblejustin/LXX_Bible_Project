@@ -12,8 +12,8 @@ Missing Brenton rows: 11082
 
 Importance counts:
 - high: 600
-- medium: 4980
-- low: 17618
+- medium: 4977
+- low: 17621
 - none: 153
 
 Note:
@@ -4015,7 +4015,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+- fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
 ### Genesis 18:20
@@ -57881,7 +57881,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ### Joshua 24:20
@@ -61438,7 +61438,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very glorious, and I asked where he was from, and he did not tell me his name.
+- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 - brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
 
 ### Judges 13:7
@@ -61456,7 +61456,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Manōe prayed to the Lord and said, In me, Lord, may the man of God whom you sent to us please come to us again and enlighten us what we should do for the child being born.
+- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
 ### Judges 13:9
@@ -63690,7 +63690,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from becoming a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
+- fresh: would you wait for them until they grow up? Or would you be restrained on account of them from belonging to a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
 - brenton: would ye wait for them till they should be grown? or would ye refrain from being married for their sakes? Not so, my daughters; for I am grieved for you, that the hand of the Lord has gone forth against me.
 
 ### Ruth 1:14
@@ -63951,7 +63951,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+- fresh: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
 ### Ruth 2:21
@@ -64068,7 +64068,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he said, Blessed are you to the Lord God, daughter, because you made your latter mercy better than the first, not going after young men, whether poor or rich.
+- fresh: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 - brenton: And Booz said, Blessed be thou of the Lord God, my daughter, for thou hast made thy latter kindness greater than the former, in that thou followest not after young men, whether any be poor or rich.
 
 ### Ruth 3:11
@@ -88709,7 +88709,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ### 2 Kings 17:35
@@ -96190,7 +96190,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ### 1 Chronicles 16:41
@@ -97297,7 +97297,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ### 1 Chronicles 23:1
@@ -100796,11 +100796,11 @@ Note:
 
 ### 2 Chronicles 9:8
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ### 2 Chronicles 9:9
@@ -105759,7 +105759,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ### 2 Chronicles 33:17
@@ -116853,7 +116853,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And this was time of a girl going in to the king, when she completed twelve months, for thus days of treatment are completed: six months being anointed in oil of myrrh and six months in spices and in cosmetics of the women.
+- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 - brenton: [missing]
 
 ### Esther 2:13
@@ -117645,7 +117645,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 - brenton: [missing]
 
 ### Esther 8:9
@@ -118034,7 +118034,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+- fresh: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: [missing]
 
 ### Job 1:2
@@ -118097,7 +118097,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, holding back from every evil thing?
+- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 - brenton: [missing]
 
 ### Job 1:9
@@ -118250,7 +118250,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, harmless, true, blameless, god-fearing, holding back from every evil, and he still holds fast innocence? Yet you spoke against his possessions to destroy them for nothing.
+- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 - brenton: [missing]
 
 ### Job 2:4
@@ -119681,7 +119681,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: In truth I know that it is so; for how will mortal be righteous before Lord?
+- fresh: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 - brenton: [missing]
 
 ### Job 9:3
@@ -125387,7 +125387,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: For Iōb said, I am righteous; Lord removed my judgment.
+- fresh: For Iōb said, I am righteous; the Lord took away my judgment.
 - brenton: [missing]
 
 ### Job 34:6
@@ -130888,7 +130888,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+- fresh: Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 - brenton: [missing]
 
 ### Psalms 26:2
@@ -137179,7 +137179,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ### Psalms 68:15
@@ -140149,7 +140149,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+- fresh: Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 - brenton: [missing]
 
 ### Psalms 83:13
@@ -158990,7 +158990,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Because to man good before his face he gave wisdom and knowledge and gladness, but to sinner he gave distraction, to add and gather in order to give to one good before face of God; because this too vanity and choice of spirit.
+- fresh: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 3:1
@@ -159530,7 +159530,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Man to whom God gives wealth and possessions and glory, and his soul lacks nothing from all he desires, yet God will not empower him to eat from it, because foreign man will eat it; this vanity and evil sickness.
+- fresh: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 - brenton: [missing]
 
 ### Ecclesiastes 6:3
@@ -159593,7 +159593,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Better sight of eyes than wandering of soul; this too vanity and choice of spirit.
+- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 6:10
@@ -160774,7 +160774,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: As apple tree among trees of grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit sweet in my throat.
+- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: [missing]
 
 ### Song of Solomon 2:4
@@ -160828,7 +160828,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through nets.
+- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 - brenton: [missing]
 
 ### Song of Solomon 2:10
@@ -160909,7 +160909,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: On my bed in nights I sought one my soul loved; I sought him and did not find him; I called him and he did not listen to me.
+- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
 - brenton: [missing]
 
 ### Song of Solomon 3:2
@@ -161197,7 +161197,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not listen to me.
+- fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 - brenton: [missing]
 
 ### Song of Solomon 5:7
@@ -162549,7 +162549,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ### Isaiah 5:17
@@ -163872,7 +163872,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ### Isaiah 12:3
@@ -171351,7 +171351,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ### Isaiah 54:11
@@ -173990,7 +173990,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 4:3
@@ -174062,7 +174062,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+- fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 - brenton: [missing]
 
 ### Jeremiah 4:11
@@ -175493,7 +175493,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
 ### Jeremiah 9:24
@@ -185049,11 +185049,11 @@ Note:
 
 ### Lamentations 1:11
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: All her people groaning seek bread. They gave their desirable things for food, to restore soul. See, Lord, and look, because I became dishonored.
+- fresh: All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 - brenton: [missing]
 
 ### Lamentations 1:12
@@ -185233,7 +185233,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+- fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: [missing]
 
 ### Lamentations 2:10
@@ -196602,7 +196602,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 44:16
@@ -201340,7 +201340,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: They did not give their counsels to return to their God, because spirit of whoredom is in them, and they did not know the Lord.
+- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 - brenton: [missing]
 
 ### Hosea 5:5
@@ -202854,7 +202854,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And tear your hearts and not your garments, and return to Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and repenting over evils.
+- fresh: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 - brenton: [missing]
 
 ### Joel 2:14
@@ -202863,7 +202863,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 - brenton: [missing]
 
 ### Joel 2:15
@@ -203819,7 +203819,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling water of sea and pouring it on face of earth; Lord God Almighty is his name,
+- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 - brenton: [missing]
 
 ### Amos 5:9
@@ -204849,7 +204849,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: They cried to Lord and said, By no means, Lord, let us not perish for life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 - brenton: [missing]
 
 ### Jonah 1:15
@@ -204894,7 +204894,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: He said, I cried in my distress to Lord my God, and he heard me. From belly of Hades you heard voice of my cry.
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 - brenton: [missing]
 
 ### Jonah 2:4
@@ -204957,7 +204957,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - brenton: [missing]
 
 ### Jonah 2:11
@@ -205571,7 +205571,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Because all peoples will walk, each his own way, but we will walk in name of Lord our God forever and beyond.
+- fresh: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 - brenton: [missing]
 
 ### Micah 4:6
@@ -205679,7 +205679,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ### Micah 5:4
@@ -205850,7 +205850,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]
 
 ### Micah 6:9
@@ -206122,7 +206122,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: God jealous and avenging, Lord avenging with wrath; Lord avenges his adversaries, and he removes his enemies.
+- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
 - brenton: [missing]
 
 ### Nahum 1:3
@@ -206547,7 +206547,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: How long, Lord, will I cry out and you certainly not hear? I will shout to you while being wronged, and you will not save.
+- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
 - brenton: [missing]
 
 ### Habakkuk 1:3
@@ -207098,7 +207098,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Fear from face of Lord God, because day of Lord is near, because Lord prepared his sacrifice; he consecrated his called ones.
+- fresh: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 - brenton: [missing]
 
 ### Zephaniah 1:8
@@ -207107,7 +207107,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+- fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 - brenton: [missing]
 
 ### Zephaniah 1:9
@@ -207631,7 +207631,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Haggai messenger of Lord said to people, I am with you, says Lord.
+- fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 - brenton: [missing]
 
 ### Haggai 1:14
@@ -207640,7 +207640,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Lord stirred spirit of Zerubbabel son of Salathiel from tribe of Judah, and spirit of Jeshua son of Josedek the great priest, and spirit of remnant of all people, and they entered and were doing works in house of Lord Almighty their God,
+- fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 - brenton: [missing]
 
 ### Haggai 1:15
@@ -207966,7 +207966,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And angel of Lord answered and said, Lord Almighty, how long will you certainly not have mercy on Jerusalem and cities of Judah, which you overlooked this seventieth year?
+- fresh: And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 - brenton: [missing]
 
 ### Zechariah 1:13
@@ -208722,7 +208722,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - brenton: [missing]
 
 ### Zechariah 7:13
@@ -209885,7 +209885,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 - brenton: [missing]
 
 ### Malachi 2:1
@@ -209957,7 +209957,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: But you turned aside from way and made many weak in law. You corrupted covenant of Levi, says Lord Almighty.
+- fresh: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 2:9
@@ -209998,11 +209998,11 @@ Note:
 
 ### Malachi 2:13
 
-- importance: medium
+- importance: low
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: This second thing you did: you covered altar of Lord with tears and weeping and groaning from labors. It is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+- fresh: And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
 - brenton: [missing]
 
 ### Malachi 2:14

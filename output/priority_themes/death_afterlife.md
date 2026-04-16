@@ -16,5 +16,5 @@ Books: 2
 - score: 8
 - reasons: importance=low; keywords=god, hades, lord
 - keywords: god, hades, lord
-- fresh: He said, I cried in my distress to Lord my God, and he heard me. From belly of Hades you heard voice of my cry.
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 - brenton: [missing]

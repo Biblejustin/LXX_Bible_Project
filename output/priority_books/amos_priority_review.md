@@ -23,7 +23,7 @@ Selected verses: 6
 ## Amos 5:8
 - score: 9
 - reasons: importance=medium; keywords=god, lord, name
-- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling water of sea and pouring it on face of earth; Lord God Almighty is his name,
+- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 - brenton: [missing]
 
 ## Amos 5:15

@@ -3,7 +3,7 @@
 Theme-first review pack for highest-value Brenton vs fresh translation differences.
 
 ## Creation / Anthropology
-- rows: 78
+- rows: 79
 - 1 Kings 2:35 → score 26
 - Genesis 1:2 → score 21
 - Exodus 3:2 → score 18
@@ -34,7 +34,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 2 Kings 1:18 → score 16
 - 1 Samuel 2:10 → score 15
 - 1 Chronicles 22:19 → score 15
-- 2 Chronicles 9:8 → score 15
+- 2 Chronicles 35:19 → score 15
 
 ## Theology / Divine Identity
 - rows: 100
@@ -63,7 +63,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 2 Kings 1:18 → score 16
 
 ## Ritual / Priesthood
-- rows: 76
+- rows: 75
 - 1 Kings 2:35 → score 26
 - Exodus 20:24 → score 25
 - 2 Samuel 14:17 → score 20

@@ -121,6 +121,33 @@ This rebuilds:
 - `output/fresh_vs_brenton_ot_decision_queue.csv`
 - `output/fresh_vs_brenton_ot_decision_queue.md`
 
+Private witness matrix:
+
+```bash
+python3 scripts/build_private_witness_matrix.py
+```
+
+Apply witness decisions back into source:
+
+```bash
+python3 scripts/apply_witness_decisions.py --dry-run
+python3 scripts/apply_witness_decisions.py --rebuild-scoped
+```
+
+This reads:
+
+- `data/research/local/witness_review/ot_witness_matrix.csv`
+
+And writes private summaries:
+
+- `data/research/local/witness_review/last_apply_summary.json`
+- `data/research/local/witness_review/last_apply_summary.md`
+
+Optional:
+
+- `--refs "Genesis 1:2,Exodus 20:24"` = apply only chosen rows
+- `--checkpoint` = rebuild full OT outputs after apply
+
 Recommended rhythm:
 
 - draft in `data/raw/lxx_greek/ot_full.csv`

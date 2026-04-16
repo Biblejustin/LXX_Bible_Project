@@ -17,13 +17,13 @@ Selected verses: 6
 ## Micah 4:5
 - score: 8
 - reasons: importance=low; keywords=god, lord, name
-- fresh: Because all peoples will walk, each his own way, but we will walk in name of Lord our God forever and beyond.
+- fresh: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 - brenton: [missing]
 
 ## Micah 5:3
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, name, shepherd
-- fresh: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ## Micah 6:7
@@ -35,5 +35,5 @@ Selected verses: 6
 ## Micah 6:8
 - score: 11
 - reasons: importance=medium; keywords=god, judgment, lord, mercy
-- fresh: It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]

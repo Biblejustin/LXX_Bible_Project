@@ -23,7 +23,7 @@ Selected verses: 6
 ## 2 Kings 17:34
 - score: 11
 - reasons: importance=medium; keywords=judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 2 Kings 18:12

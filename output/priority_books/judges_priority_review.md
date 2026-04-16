@@ -29,11 +29,11 @@ Selected verses: 6
 ## Judges 13:6
 - score: 9
 - reasons: importance=medium; keywords=angel, god, name
-- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very glorious, and I asked where he was from, and he did not tell me his name.
+- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 - brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
 
 ## Judges 13:8
 - score: 9
 - reasons: importance=medium; keywords=being, god, lord
-- fresh: And Manōe prayed to the Lord and said, In me, Lord, may the man of God whom you sent to us please come to us again and enlighten us what we should do for the child being born.
+- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.

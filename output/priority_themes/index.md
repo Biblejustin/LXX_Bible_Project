@@ -3,7 +3,7 @@
 Themes: 7
 
 ## Creation / Anthropology
-- rows: 78
+- rows: 79
 - books: 35
 - file: creation_anthropology.md
 - top refs: 1 Kings 2:35, Genesis 1:2, Exodus 3:2, Leviticus 5:15, Numbers 18:19
@@ -33,7 +33,7 @@ Themes: 7
 - top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Joshua 9:2, Genesis 32:10
 
 ## Ritual / Priesthood
-- rows: 76
+- rows: 75
 - books: 31
 - file: ritual_priesthood.md
 - top refs: 1 Kings 2:35, Exodus 20:24, 2 Samuel 14:17, Joshua 9:2, Leviticus 2:13

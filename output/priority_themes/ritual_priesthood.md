@@ -2,7 +2,7 @@
 
 Altar, sacrifice, priesthood, holiness in cultic setting.
 
-Rows: 76
+Rows: 75
 Books: 31
 
 ## Exodus 3:18
@@ -114,7 +114,7 @@ Books: 31
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
 - keywords: being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## 1 Samuel 2:10
@@ -205,14 +205,14 @@ Books: 31
 - score: 13
 - reasons: importance=medium; keywords=altar, god, law, lord, servant
 - keywords: altar, god, law, lord, servant
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 15:3
@@ -233,7 +233,7 @@ Books: 31
 - score: 14
 - reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation
 - keywords: altar, god, lord, peace, sacrifice, salvation
-- fresh: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## 2 Chronicles 35:19
@@ -282,7 +282,7 @@ Books: 31
 - score: 12
 - reasons: importance=low; keywords=god, lord, mercy, salvation, truth
 - keywords: god, lord, mercy, salvation, truth
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Proverbs 12:13
@@ -303,14 +303,14 @@ Books: 31
 - score: 12
 - reasons: importance=low; keywords=god, holy, judgment, lord, righteousness
 - keywords: god, holy, judgment, lord, righteousness
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ## Isaiah 12:2
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, salvation, savior
 - keywords: glory, god, lord, salvation, savior
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ## Isaiah 49:7
@@ -366,7 +366,7 @@ Books: 31
 - score: 10
 - reasons: importance=low; keywords=god, holy, lord, sacrifice
 - keywords: god, holy, lord, sacrifice
-- fresh: But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 - brenton: [missing]
 
 ## Daniel 4:22
@@ -415,7 +415,7 @@ Books: 31
 - score: 10
 - reasons: importance=low; keywords=god, lord, repent, sacrifice
 - keywords: god, lord, repent, sacrifice
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 - brenton: [missing]
 
 ## Joel 2:17
@@ -450,7 +450,7 @@ Books: 31
 - score: 8
 - reasons: importance=low; keywords=lord, sacrifice, salvation
 - keywords: lord, sacrifice, salvation
-- fresh: But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - brenton: [missing]
 
 ## Micah 6:7
@@ -471,14 +471,14 @@ Books: 31
 - score: 8
 - reasons: importance=low; keywords=god, lord, sacrifice
 - keywords: god, lord, sacrifice
-- fresh: Fear from face of Lord God, because day of Lord is near, because Lord prepared his sacrifice; he consecrated his called ones.
+- fresh: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 - brenton: [missing]
 
 ## Zephaniah 1:8
 - score: 8
 - reasons: importance=low; keywords=king, lord, sacrifice
 - keywords: king, lord, sacrifice
-- fresh: It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+- fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 - brenton: [missing]
 
 ## Zephaniah 3:4
@@ -506,7 +506,7 @@ Books: 31
 - score: 11
 - reasons: importance=medium; keywords=god, lord, priest, spirit
 - keywords: god, lord, priest, spirit
-- fresh: Lord stirred spirit of Zerubbabel son of Salathiel from tribe of Judah, and spirit of Jeshua son of Josedek the great priest, and spirit of remnant of all people, and they entered and were doing works in house of Lord Almighty their God,
+- fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 - brenton: [missing]
 
 ## Haggai 2:4
@@ -528,11 +528,4 @@ Books: 31
 - reasons: importance=low; keywords=law, lord, messenger, priest
 - keywords: law, lord, messenger, priest
 - fresh: Because lips of priest will guard knowledge, and law they will seek from his mouth, because he is messenger of Lord Almighty.
-- brenton: [missing]
-
-## Malachi 2:13
-- score: 9
-- reasons: importance=medium; keywords=altar, lord, sacrifice
-- keywords: altar, lord, sacrifice
-- fresh: This second thing you did: you covered altar of Lord with tears and weeping and groaning from labors. It is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
 - brenton: [missing]

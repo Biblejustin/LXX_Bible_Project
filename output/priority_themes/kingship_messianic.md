@@ -289,7 +289,7 @@ Books: 36
 - score: 13
 - reasons: importance=medium; keywords=altar, god, law, lord, servant
 - keywords: altar, god, law, lord, servant
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 2 Chronicles 6:16
@@ -300,10 +300,10 @@ Books: 36
 - brenton: And now, Lord God of Israel, keep with thy servant David my father the things which thou spokest to him, saying, There shall not fail thee a man before me sitting on the throne of Israel, if only thy sons will take heed to their way to walk in my law, as thou didst walk before me.
 
 ## 2 Chronicles 9:8
-- score: 15
-- reasons: importance=medium; keywords=god, judgment, justice, king, lord, righteousness
+- score: 14
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness
 - keywords: god, judgment, justice, king, lord, righteousness
-- fresh: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Chronicles 26:18
@@ -317,7 +317,7 @@ Books: 36
 - score: 14
 - reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation
 - keywords: altar, god, lord, peace, sacrifice, salvation
-- fresh: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## 2 Chronicles 35:19
@@ -415,7 +415,7 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=anointed, being, king
 - keywords: anointed, being, king
-- fresh: And this was time of a girl going in to the king, when she completed twelve months, for thus days of treatment are completed: six months being anointed in oil of myrrh and six months in spices and in cosmetics of the women.
+- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 - brenton: [missing]
 
 ## Esther 4:8
@@ -443,14 +443,14 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=god, lord, servant
 - keywords: god, lord, servant
-- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, holding back from every evil thing?
+- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 - brenton: [missing]
 
 ## Job 2:3
 - score: 9
 - reasons: importance=medium; keywords=god, lord, servant
 - keywords: god, lord, servant
-- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, harmless, true, blameless, god-fearing, holding back from every evil, and he still holds fast innocence? Yet you spoke against his possessions to destroy them for nothing.
+- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 - brenton: [missing]
 
 ## Job 42:17
@@ -464,14 +464,14 @@ Books: 36
 - score: 11
 - reasons: importance=medium; keywords=anointed, being, lord, savior
 - keywords: anointed, being, lord, savior
-- fresh: Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+- fresh: Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 - brenton: [missing]
 
 ## Psalms 68:14
 - score: 12
 - reasons: importance=low; keywords=god, lord, mercy, salvation, truth
 - keywords: god, lord, mercy, salvation, truth
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Psalms 78:9
@@ -534,7 +534,7 @@ Books: 36
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, salvation, savior
 - keywords: glory, god, lord, salvation, savior
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ## Isaiah 49:7
@@ -548,7 +548,7 @@ Books: 36
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
 - keywords: being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Isaiah 56:1
@@ -562,7 +562,7 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=lord, peace, soul
 - keywords: lord, peace, soul
-- fresh: And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+- fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 - brenton: [missing]
 
 ## Jeremiah 23:5
@@ -590,7 +590,7 @@ Books: 36
 - score: 8
 - reasons: importance=low; keywords=king, law, lord
 - keywords: king, law, lord
-- fresh: Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+- fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: [missing]
 
 ## Lamentations 3:17
@@ -674,14 +674,14 @@ Books: 36
 - score: 8
 - reasons: importance=low; keywords=lord, sacrifice, salvation
 - keywords: lord, sacrifice, salvation
-- fresh: But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - brenton: [missing]
 
 ## Micah 5:3
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, name, shepherd
 - keywords: glory, god, lord, name, shepherd
-- fresh: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ## Micah 6:7
@@ -709,7 +709,7 @@ Books: 36
 - score: 8
 - reasons: importance=low; keywords=king, lord, sacrifice
 - keywords: king, lord, sacrifice
-- fresh: It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+- fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 - brenton: [missing]
 
 ## Haggai 1:1
@@ -744,7 +744,7 @@ Books: 36
 - score: 9
 - reasons: importance=medium; keywords=king, lord, name
 - keywords: king, lord, name
-- fresh: Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 - brenton: [missing]
 
 ## Malachi 2:6

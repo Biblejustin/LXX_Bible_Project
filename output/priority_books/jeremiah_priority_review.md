@@ -5,19 +5,19 @@ Selected verses: 6
 ## Jeremiah 4:2
 - score: 12
 - reasons: importance=low; keywords=god, judgment, lord, righteousness, truth
-- fresh: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
 ## Jeremiah 4:10
 - score: 9
 - reasons: importance=medium; keywords=lord, peace, soul
-- fresh: And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+- fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 - brenton: [missing]
 
 ## Jeremiah 9:23
 - score: 10
 - reasons: importance=low; keywords=judgment, lord, mercy, righteousness
-- fresh: but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
 ## Jeremiah 23:5

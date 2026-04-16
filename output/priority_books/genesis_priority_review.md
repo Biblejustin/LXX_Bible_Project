@@ -23,7 +23,7 @@ Selected verses: 6
 ## Genesis 18:19
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness
-- fresh: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+- fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
 ## Genesis 24:27

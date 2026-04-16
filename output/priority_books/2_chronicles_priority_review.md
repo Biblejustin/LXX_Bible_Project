@@ -9,9 +9,9 @@ Selected verses: 6
 - brenton: And now, Lord God of Israel, keep with thy servant David my father the things which thou spokest to him, saying, There shall not fail thee a man before me sitting on the throne of Israel, if only thy sons will take heed to their way to walk in my law, as thou didst walk before me.
 
 ## 2 Chronicles 9:8
-- score: 15
-- reasons: importance=medium; keywords=god, judgment, justice, king, lord, righteousness
-- fresh: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- score: 14
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Chronicles 15:3
@@ -29,7 +29,7 @@ Selected verses: 6
 ## 2 Chronicles 33:16
 - score: 14
 - reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation
-- fresh: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## 2 Chronicles 35:19

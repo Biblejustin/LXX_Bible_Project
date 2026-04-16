@@ -23,7 +23,7 @@ Selected verses: 6
 ## Jonah 2:3
 - score: 8
 - reasons: importance=low; keywords=god, hades, lord
-- fresh: He said, I cried in my distress to Lord my God, and he heard me. From belly of Hades you heard voice of my cry.
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 - brenton: [missing]
 
 ## Jonah 2:8
@@ -35,5 +35,5 @@ Selected verses: 6
 ## Jonah 2:10
 - score: 8
 - reasons: importance=low; keywords=lord, sacrifice, salvation
-- fresh: But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - brenton: [missing]

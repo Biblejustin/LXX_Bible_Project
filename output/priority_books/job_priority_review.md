@@ -5,31 +5,31 @@ Selected verses: 6
 ## Job 1:1
 - score: 9
 - reasons: importance=medium; keywords=god, name, righteous
-- fresh: There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+- fresh: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: [missing]
 
 ## Job 1:8
 - score: 9
 - reasons: importance=medium; keywords=god, lord, servant
-- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, holding back from every evil thing?
+- fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 - brenton: [missing]
 
 ## Job 2:3
 - score: 9
 - reasons: importance=medium; keywords=god, lord, servant
-- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, harmless, true, blameless, god-fearing, holding back from every evil, and he still holds fast innocence? Yet you spoke against his possessions to destroy them for nothing.
+- fresh: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 - brenton: [missing]
 
 ## Job 9:2
 - score: 8
 - reasons: importance=low; keywords=lord, righteous, truth
-- fresh: In truth I know that it is so; for how will mortal be righteous before Lord?
+- fresh: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 - brenton: [missing]
 
 ## Job 34:5
 - score: 8
 - reasons: importance=low; keywords=judgment, lord, righteous
-- fresh: For Iōb said, I am righteous; Lord removed my judgment.
+- fresh: For Iōb said, I am righteous; the Lord took away my judgment.
 - brenton: [missing]
 
 ## Job 42:17

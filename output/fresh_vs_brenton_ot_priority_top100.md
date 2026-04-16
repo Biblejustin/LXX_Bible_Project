@@ -90,7 +90,7 @@ Rows: 100
 - book: Genesis
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness
-- fresh: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+- fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
 ## Genesis 24:27
@@ -286,7 +286,7 @@ Rows: 100
 - book: 1 Chronicles
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 1 Samuel 2:10
@@ -302,13 +302,6 @@ Rows: 100
 - reasons: importance=medium; keywords=king, law, lord, name, priest, soul
 - fresh: In eighteenth year of reign of Iōsias. And king Iōsias burned the ventriloquists and the knowing ones and the theraphin and the idols and the carved things which were in land of Iouda and in Ierousalem, so that he might establish words of law written in book which Chelkias the priest found in house of Lord. None like him came to be before him, who turned to Lord with all his heart and with all his soul and with all his strength according to all law of Mōusēs, and after him none arose like him. Yet Lord did not turn from greatness of anger of his wrath with which Lord was angered in Iouda because of all provocations with which Manassēs provoked him. And Lord said, I will also remove Iouda from my face, as I removed Israel, and I rejected city which I chose, Ierousalem, and house of which I said, My name shall be there.
 - brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
-
-## 2 Chronicles 9:8
-- book: 2 Chronicles
-- score: 15
-- reasons: importance=medium; keywords=god, judgment, justice, king, lord, righteousness
-- fresh: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
-- brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## Daniel 4:37
 - book: Daniel
@@ -356,8 +349,15 @@ Rows: 100
 - book: 2 Chronicles
 - score: 14
 - reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation
-- fresh: And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
+## 2 Chronicles 9:8
+- book: 2 Chronicles
+- score: 14
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Samuel 12:13
 - book: 2 Samuel
@@ -412,14 +412,14 @@ Rows: 100
 - book: Psalms
 - score: 14
 - reasons: importance=low; keywords=glory, god, grace, lord, mercy, truth
-- fresh: Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+- fresh: Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 - brenton: [missing]
 
 ## 1 Chronicles 16:40
 - book: 1 Chronicles
 - score: 13
 - reasons: importance=medium; keywords=altar, god, law, lord, servant
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 6:34
@@ -447,7 +447,7 @@ Rows: 100
 - book: Isaiah
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Joshua 22:5
@@ -461,7 +461,7 @@ Rows: 100
 - book: Joshua
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Nehemiah 11:11
@@ -538,7 +538,7 @@ Rows: 100
 - book: Isaiah
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, salvation, savior
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ## Isaiah 48:1
@@ -559,7 +559,7 @@ Rows: 100
 - book: Isaiah
 - score: 12
 - reasons: importance=low; keywords=god, holy, judgment, lord, righteousness
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ## Jeremiah 23:5
@@ -573,14 +573,14 @@ Rows: 100
 - book: Jeremiah
 - score: 12
 - reasons: importance=low; keywords=god, judgment, lord, righteousness, truth
-- fresh: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
 ## Micah 5:3
 - book: Micah
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, name, shepherd
-- fresh: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ## Nehemiah 8:9
@@ -601,7 +601,7 @@ Rows: 100
 - book: Psalms
 - score: 12
 - reasons: importance=low; keywords=god, lord, mercy, salvation, truth
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Psalms 78:9
@@ -657,7 +657,7 @@ Rows: 100
 - book: 2 Kings
 - score: 11
 - reasons: importance=medium; keywords=judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 2 Kings 18:12

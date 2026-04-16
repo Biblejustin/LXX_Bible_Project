@@ -2,7 +2,7 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 78
+Rows: 79
 Books: 35
 
 ## Genesis 1:2
@@ -100,7 +100,7 @@ Books: 35
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
 - keywords: being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Judges 2:8
@@ -128,7 +128,7 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=being, god, lord
 - keywords: being, god, lord
-- fresh: And Manōe prayed to the Lord and said, In me, Lord, may the man of God whom you sent to us please come to us again and enlighten us what we should do for the child being born.
+- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
 ## Ruth 1:13
@@ -212,7 +212,7 @@ Books: 35
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 35:19
@@ -261,14 +261,14 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=anointed, being, king
 - keywords: anointed, being, king
-- fresh: And this was time of a girl going in to the king, when she completed twelve months, for thus days of treatment are completed: six months being anointed in oil of myrrh and six months in spices and in cosmetics of the women.
+- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 - brenton: [missing]
 
 ## Psalms 26:1
 - score: 11
 - reasons: importance=medium; keywords=anointed, being, lord, savior
 - keywords: anointed, being, lord, savior
-- fresh: Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+- fresh: Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 - brenton: [missing]
 
 ## Psalms 30:6
@@ -303,14 +303,14 @@ Books: 35
 - score: 7
 - reasons: importance=medium; keywords=god, spirit
 - keywords: god, spirit
-- fresh: Because to man good before his face he gave wisdom and knowledge and gladness, but to sinner he gave distraction, to add and gather in order to give to one good before face of God; because this too vanity and choice of spirit.
+- fresh: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 - brenton: [missing]
 
 ## Ecclesiastes 6:2
 - score: 9
 - reasons: importance=medium; keywords=glory, god, soul
 - keywords: glory, god, soul
-- fresh: Man to whom God gives wealth and possessions and glory, and his soul lacks nothing from all he desires, yet God will not empower him to eat from it, because foreign man will eat it; this vanity and evil sickness.
+- fresh: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 - brenton: [missing]
 
 ## Ecclesiastes 6:9
@@ -352,14 +352,14 @@ Books: 35
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
 - keywords: being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Jeremiah 4:10
 - score: 9
 - reasons: importance=medium; keywords=lord, peace, soul
 - keywords: lord, peace, soul
-- fresh: And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+- fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 - brenton: [missing]
 
 ## Jeremiah 39:28
@@ -422,7 +422,7 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=god, lord, spirit
 - keywords: god, lord, spirit
-- fresh: They did not give their counsels to return to their God, because spirit of whoredom is in them, and they did not know the Lord.
+- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 - brenton: [missing]
 
 ## Hosea 13:2
@@ -520,7 +520,7 @@ Books: 35
 - score: 11
 - reasons: importance=medium; keywords=god, lord, priest, spirit
 - keywords: god, lord, priest, spirit
-- fresh: Lord stirred spirit of Zerubbabel son of Salathiel from tribe of Judah, and spirit of Jeshua son of Josedek the great priest, and spirit of remnant of all people, and they entered and were doing works in house of Lord Almighty their God,
+- fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 - brenton: [missing]
 
 ## Haggai 2:9
@@ -534,7 +534,7 @@ Books: 35
 - score: 9
 - reasons: importance=medium; keywords=law, lord, spirit
 - keywords: law, lord, spirit
-- fresh: And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - brenton: [missing]
 
 ## Zechariah 12:10
@@ -549,4 +549,11 @@ Books: 35
 - reasons: importance=medium; keywords=god, seed, spirit
 - keywords: god, seed, spirit
 - fresh: Did not another make? And remnant of his spirit. And you said, What else but seed does God seek? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- brenton: [missing]
+
+## Malachi 2:16
+- score: 9
+- reasons: importance=medium; keywords=god, lord, spirit
+- keywords: god, lord, spirit
+- fresh: But if hating you send away, says Lord God of Israel, impiety will cover your thoughts, says Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]

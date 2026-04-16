@@ -29,7 +29,7 @@ Selected verses: 6
 ## Ezekiel 44:15
 - score: 10
 - reasons: importance=low; keywords=god, holy, lord, sacrifice
-- fresh: But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 - brenton: [missing]
 
 ## Ezekiel 45:9

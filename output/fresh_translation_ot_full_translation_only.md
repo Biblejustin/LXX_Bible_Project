@@ -1814,7 +1814,7 @@ And Abraham indeed shall become a great and numerous nation, and in him all the 
 
 **Genesis 18:19**
 
-For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 
 **Genesis 18:20**
 
@@ -26146,7 +26146,7 @@ And the Lord drove out the Amorite and all the nations dwelling in the land from
 
 **Joshua 24:19**
 
-And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 
 **Joshua 24:20**
 
@@ -27754,7 +27754,7 @@ For behold, you shall conceive and bear a son, and iron shall not come upon his 
 
 **Judges 13:6**
 
-And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very glorious, and I asked where he was from, and he did not tell me his name.
+And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 
 **Judges 13:7**
 
@@ -27762,7 +27762,7 @@ And he said to me, Behold, you shall conceive and bear a son, and now do not dri
 
 **Judges 13:8**
 
-And Manōe prayed to the Lord and said, In me, Lord, may the man of God whom you sent to us please come to us again and enlighten us what we should do for the child being born.
+And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 
 **Judges 13:9**
 
@@ -28774,7 +28774,7 @@ Return now, my daughters, because I have grown old, not to belong to a husband. 
 
 **Ruth 1:13**
 
-would you wait for them until they grow up? Or would you be restrained on account of them from becoming a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
+would you wait for them until they grow up? Or would you be restrained on account of them from belonging to a husband? No, my daughters, because it has become very bitter for me concerning you, because the hand of the Lord has gone out against me.
 
 **Ruth 1:14**
 
@@ -28892,7 +28892,7 @@ And her mother-in-law said to her, Where did you glean today, and where did you 
 
 **Ruth 2:20**
 
-And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 
 **Ruth 2:21**
 
@@ -28946,7 +28946,7 @@ And he said, Who are you? And she said, I am Ruth your servant, and you shall sp
 
 **Ruth 3:10**
 
-And he said, Blessed are you to the Lord God, daughter, because you made your latter mercy better than the first, not going after young men, whether poor or rich.
+And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 
 **Ruth 3:11**
 
@@ -40092,7 +40092,7 @@ They feared the Lord and served their gods according to the custom of the nation
 
 **2 Kings 17:34**
 
-Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 
 **2 Kings 17:35**
 
@@ -43466,7 +43466,7 @@ and Sadok the priest and his brothers the priests before tent of Lord at high pl
 
 **1 Chronicles 16:40**
 
-to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 
 **1 Chronicles 16:41**
 
@@ -43970,7 +43970,7 @@ Is not Lord with you and has he not given you rest all around? Because he gave i
 
 **1 Chronicles 22:19**
 
-Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 
 ### Chapter 23
 
@@ -45560,7 +45560,7 @@ Blessed your men; blessed these servants of yours standing before you continuall
 
 **2 Chronicles 9:8**
 
-Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 
 **2 Chronicles 9:9**
 
@@ -47812,7 +47812,7 @@ And he removed foreign gods and carved thing from house of Lord, and all altars 
 
 **2 Chronicles 33:16**
 
-And he restored altar of Lord and sacrificed upon it sacrifice of salvation and of praise, and told Iouda to serve Lord God of Israel.
+And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 
 **2 Chronicles 33:17**
 
@@ -52820,7 +52820,7 @@ And every day Mardochaios walked around the women's court, looking to see what w
 
 **Esther 2:12**
 
-And this was time of a girl going in to the king, when she completed twelve months, for thus days of treatment are completed: six months being anointed in oil of myrrh and six months in spices and in cosmetics of the women.
+And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 
 **Esther 2:13**
 
@@ -53184,7 +53184,7 @@ And the king said to Esther, If all things of Aman I gave and granted to you, an
 
 **Esther 8:8**
 
-Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no speaking against it.
+Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 
 **Esther 8:9**
 
@@ -53364,7 +53364,7 @@ And Mardochaios succeeded King Artaxerxes and was great in the kingdom and glori
 
 **Job 1:1**
 
-There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 
 **Job 1:2**
 
@@ -53392,7 +53392,7 @@ And the Lord said to the slanderer, From where are you here? And answering, the 
 
 **Job 1:8**
 
-And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, holding back from every evil thing?
+And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 
 **Job 1:9**
 
@@ -53462,7 +53462,7 @@ And the Lord said to the slanderer, From where do you come? Then the slanderer s
 
 **Job 2:3**
 
-And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, harmless, true, blameless, god-fearing, holding back from every evil, and he still holds fast innocence? Yet you spoke against his possessions to destroy them for nothing.
+And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 
 **Job 2:4**
 
@@ -54112,7 +54112,7 @@ And taking up the matter, Iōb says,
 
 **Job 9:2**
 
-In truth I know that it is so; for how will mortal be righteous before Lord?
+In truth I know that it is so; for how will a mortal be righteous before the Lord?
 
 **Job 9:3**
 
@@ -56698,7 +56698,7 @@ Let us choose judgment for ourselves; let us know among ourselves what is good.
 
 **Job 34:5**
 
-For Iōb said, I am righteous; Lord removed my judgment.
+For Iōb said, I am righteous; the Lord took away my judgment.
 
 **Job 34:6**
 
@@ -59212,7 +59212,7 @@ For my foot stood in uprightness; in assemblies I will bless you, Lord.
 
 **Psalms 26:1**
 
-Of David, before being anointed. Lord my illumination and my savior; whom shall I fear? Lord defender of my life; from whom shall I be cowardly?
+Of David, before being anointed. The Lord is my illumination and my savior; whom shall I fear? The Lord is defender of my life; from whom shall I be afraid?
 
 **Psalms 26:2**
 
@@ -62092,7 +62092,7 @@ Those sitting in gate were talking against me, and those drinking wine were sing
 
 **Psalms 68:14**
 
-But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 
 **Psalms 68:15**
 
@@ -63442,7 +63442,7 @@ Because one day in your courts better than thousands; I chose to be cast aside i
 
 **Psalms 83:12**
 
-Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 
 **Psalms 83:13**
 
@@ -72018,7 +72018,7 @@ For who will eat and who will spare apart from him?
 
 **Ecclesiastes 2:26**
 
-Because to man good before his face he gave wisdom and knowledge and gladness, but to sinner he gave distraction, to add and gather in order to give to one good before face of God; because this too vanity and choice of spirit.
+Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 
 ### Chapter 3
 
@@ -72266,7 +72266,7 @@ There is evil I saw under sun, and it is much upon man.
 
 **Ecclesiastes 6:2**
 
-Man to whom God gives wealth and possessions and glory, and his soul lacks nothing from all he desires, yet God will not empower him to eat from it, because foreign man will eat it; this vanity and evil sickness.
+A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 
 **Ecclesiastes 6:3**
 
@@ -72294,7 +72294,7 @@ Because what surplus for wise man over fool? Because poor man knows how to walk 
 
 **Ecclesiastes 6:9**
 
-Better sight of eyes than wandering of soul; this too vanity and choice of spirit.
+Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 
 **Ecclesiastes 6:10**
 
@@ -72836,7 +72836,7 @@ As lily in midst of thorns, so my dear one in midst of daughters.
 
 **Song of Solomon 2:3**
 
-As apple tree among trees of grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit sweet in my throat.
+As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 
 **Song of Solomon 2:4**
 
@@ -72860,7 +72860,7 @@ Voice of my beloved. Look, he comes, leaping on mountains, springing on hills.
 
 **Song of Solomon 2:9**
 
-My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through nets.
+My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 
 **Song of Solomon 2:10**
 
@@ -72898,7 +72898,7 @@ Until day breathes and shadows move, turn back; be like, my beloved, a gazelle o
 
 **Song of Solomon 3:1**
 
-On my bed in nights I sought one my soul loved; I sought him and did not find him; I called him and he did not listen to me.
+On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
 
 **Song of Solomon 3:2**
 
@@ -73030,7 +73030,7 @@ I rose, I, to open to my beloved; my hands dripped myrrh, my fingers full myrrh 
 
 **Song of Solomon 5:6**
 
-I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not listen to me.
+I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 
 **Song of Solomon 5:7**
 
@@ -73648,7 +73648,7 @@ And man will be humbled and male will be dishonored, and lofty eyes will be humb
 
 **Isaiah 5:16**
 
-And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 
 **Isaiah 5:17**
 
@@ -74250,7 +74250,7 @@ And you will say in that day, I will bless you, Lord, because you were angry wit
 
 **Isaiah 12:2**
 
-Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 
 **Isaiah 12:3**
 
@@ -77658,7 +77658,7 @@ This to me from water of Noah, just as I swore to him in that time not to be ang
 
 **Isaiah 54:10**
 
-Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 
 **Isaiah 54:11**
 
@@ -78864,7 +78864,7 @@ If Israel returns, says Lord, he will return to me. If he removes his abominatio
 
 **Jeremiah 4:2**
 
-and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 
 **Jeremiah 4:3**
 
@@ -78896,7 +78896,7 @@ And it will be in that day, says Lord, heart of king will perish and heart of ru
 
 **Jeremiah 4:10**
 
-And I said, O Master Lord, then deceiving you deceived this people and Jerusalem, saying, Peace will be to you. And see, sword touched even to their soul.
+And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 
 **Jeremiah 4:11**
 
@@ -79542,7 +79542,7 @@ Thus says Lord: Let not wise man boast in his wisdom, and let not strong man boa
 
 **Jeremiah 9:23**
 
-but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 
 **Jeremiah 9:24**
 
@@ -83880,7 +83880,7 @@ Afflicter spread out his hand upon all her desirable things, for she saw nations
 
 **Lamentations 1:11**
 
-All her people groaning seek bread. They gave their desirable things for food, to restore soul. See, Lord, and look, because I became dishonored.
+All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 
 **Lamentations 1:12**
 
@@ -83962,7 +83962,7 @@ And Lord turned to destroy wall of daughter Zion. He stretched measuring-line an
 
 **Lamentations 2:9**
 
-Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 
 **Lamentations 2:10**
 
@@ -89110,7 +89110,7 @@ And I will appoint them to keep charges of the house, for all its works and for 
 
 **Ezekiel 44:15**
 
-But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 
 **Ezekiel 44:16**
 
@@ -91260,7 +91260,7 @@ I knew Ephraim, and Israel is not hidden from me, because now Ephraim prostitute
 
 **Hosea 5:4**
 
-They did not give their counsels to return to their God, because spirit of whoredom is in them, and they did not know the Lord.
+They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 
 **Hosea 5:5**
 
@@ -91956,11 +91956,11 @@ And now, says Lord your God, return to me with all your heart and with fasting a
 
 **Joel 2:13**
 
-And tear your hearts and not your garments, and return to Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and repenting over evils.
+And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 
 **Joel 2:14**
 
-Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 
 **Joel 2:15**
 
@@ -92400,7 +92400,7 @@ Lord is the one making judgment into a height and setting righteousness upon the
 
 **Amos 5:8**
 
-making all things and transforming, turning shadow of death into morning and darkening day into night, calling water of sea and pouring it on face of earth; Lord God Almighty is his name,
+making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 
 **Amos 5:9**
 
@@ -92872,7 +92872,7 @@ Men strained to turn back to land and were not able, because sea kept going and 
 
 **Jonah 1:14**
 
-They cried to Lord and said, By no means, Lord, let us not perish for life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 
 **Jonah 1:15**
 
@@ -92894,7 +92894,7 @@ Jonah prayed to Lord his God from belly of sea-creature.
 
 **Jonah 2:3**
 
-He said, I cried in my distress to Lord my God, and he heard me. From belly of Hades you heard voice of my cry.
+He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 
 **Jonah 2:4**
 
@@ -92922,7 +92922,7 @@ Those keeping worthless and false things abandoned their mercy.
 
 **Jonah 2:10**
 
-But I, with voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to Lord.
+But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 
 **Jonah 2:11**
 
@@ -93208,7 +93208,7 @@ And each will rest under his vine and each under his fig tree, and there will be
 
 **Micah 4:5**
 
-Because all peoples will walk, each his own way, but we will walk in name of Lord our God forever and beyond.
+Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 
 **Micah 4:6**
 
@@ -93258,7 +93258,7 @@ Therefore he will give them until time when birthing woman births, and rest of t
 
 **Micah 5:3**
 
-And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 
 **Micah 5:4**
 
@@ -93336,7 +93336,7 @@ Will Lord accept thousands of rams or tens of thousands of torrents of fat? Shal
 
 **Micah 6:8**
 
-It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 
 **Micah 6:9**
 
@@ -93462,7 +93462,7 @@ Oracle of Nineveh. Book of vision of Nahum the Elkesaite.
 
 **Nahum 1:2**
 
-God jealous and avenging, Lord avenging with wrath; Lord avenges his adversaries, and he removes his enemies.
+God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
 
 **Nahum 1:3**
 
@@ -93658,7 +93658,7 @@ Oracle that Habakkuk prophet saw.
 
 **Habakkuk 1:2**
 
-How long, Lord, will I cry out and you certainly not hear? I will shout to you while being wronged, and you will not save.
+How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
 
 **Habakkuk 1:3**
 
@@ -93910,11 +93910,11 @@ and those turning aside from Lord and those not seeking Lord and not clinging to
 
 **Zephaniah 1:7**
 
-Fear from face of Lord God, because day of Lord is near, because Lord prepared his sacrifice; he consecrated his called ones.
+Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 
 **Zephaniah 1:8**
 
-It will be in day of Lord's sacrifice, I will avenge upon rulers and upon king's house and upon all wearing foreign garments.
+And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 
 **Zephaniah 1:9**
 
@@ -94154,11 +94154,11 @@ Zerubbabel son of Salathiel, from tribe of Judah, and Jeshua son of Josedek, the
 
 **Haggai 1:13**
 
-Haggai messenger of Lord said to people, I am with you, says Lord.
+Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 
 **Haggai 1:14**
 
-Lord stirred spirit of Zerubbabel son of Salathiel from tribe of Judah, and spirit of Jeshua son of Josedek the great priest, and spirit of remnant of all people, and they entered and were doing works in house of Lord Almighty their God,
+The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 
 **Haggai 1:15**
 
@@ -94308,7 +94308,7 @@ And they answered angel of Lord standing between mountains and said, We have pat
 
 **Zechariah 1:12**
 
-And angel of Lord answered and said, Lord Almighty, how long will you certainly not have mercy on Jerusalem and cities of Judah, which you overlooked this seventieth year?
+And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 
 **Zechariah 1:13**
 
@@ -94656,7 +94656,7 @@ And they disobeyed paying attention and gave a rebellious back and made their ea
 
 **Zechariah 7:12**
 
-And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 
 **Zechariah 7:13**
 
@@ -95190,7 +95190,7 @@ And you said, These things are from hardship, and you snorted at them, says Lord
 
 **Malachi 1:14**
 
-Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 
 ### Chapter 2
 
@@ -95224,7 +95224,7 @@ Because lips of priest will guard knowledge, and law they will seek from his mou
 
 **Malachi 2:8**
 
-But you turned aside from way and made many weak in law. You corrupted covenant of Levi, says Lord Almighty.
+But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 
 **Malachi 2:9**
 
@@ -95244,7 +95244,7 @@ Lord will destroy man doing these, until he is humbled from tents of Jacob and f
 
 **Malachi 2:13**
 
-This second thing you did: you covered altar of Lord with tears and weeping and groaning from labors. It is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
 
 **Malachi 2:14**
 

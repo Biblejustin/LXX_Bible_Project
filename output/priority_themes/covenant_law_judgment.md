@@ -9,7 +9,7 @@ Books: 32
 - score: 18
 - reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness
 - keywords: judgment, justice, lord, righteousness
-- fresh: For I knew him, that he will direct his sons and his house after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
+- fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
 ## Genesis 24:27
@@ -93,7 +93,7 @@ Books: 32
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
 - keywords: being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Ruth 1:8
@@ -107,7 +107,7 @@ Books: 32
 - score: 9
 - reasons: importance=medium; keywords=law, lord, mercy
 - keywords: law, lord, mercy
-- fresh: And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+- fresh: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
 ## 1 Samuel 2:10
@@ -156,7 +156,7 @@ Books: 32
 - score: 11
 - reasons: importance=medium; keywords=judgment, law, lord, name
 - keywords: judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 2 Kings 18:12
@@ -184,14 +184,14 @@ Books: 32
 - score: 13
 - reasons: importance=medium; keywords=altar, god, law, lord, servant
 - keywords: altar, god, law, lord, servant
-- fresh: to offer whole burnt offerings to Lord on altar of whole burnt offerings continually, morning and evening, and according to all things written in law of Lord, whatever he commanded upon sons of Israel by hand of Moyses servant of God,
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 22:19
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 6:16
@@ -202,10 +202,10 @@ Books: 32
 - brenton: And now, Lord God of Israel, keep with thy servant David my father the things which thou spokest to him, saying, There shall not fail thee a man before me sitting on the throne of Israel, if only thy sons will take heed to their way to walk in my law, as thou didst walk before me.
 
 ## 2 Chronicles 9:8
-- score: 15
-- reasons: importance=medium; keywords=god, judgment, justice, king, lord, righteousness
+- score: 14
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness
 - keywords: god, judgment, justice, king, lord, righteousness
-- fresh: Let Lord your God be blessed, who desired you to give you upon his throne as king for Lord your God. Because Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## 2 Chronicles 15:3
@@ -268,21 +268,21 @@ Books: 32
 - score: 9
 - reasons: importance=medium; keywords=god, name, righteous
 - keywords: god, name, righteous
-- fresh: There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+- fresh: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: [missing]
 
 ## Job 9:2
 - score: 8
 - reasons: importance=low; keywords=lord, righteous, truth
 - keywords: lord, righteous, truth
-- fresh: In truth I know that it is so; for how will mortal be righteous before Lord?
+- fresh: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 - brenton: [missing]
 
 ## Job 34:5
 - score: 8
 - reasons: importance=low; keywords=judgment, lord, righteous
 - keywords: judgment, lord, righteous
-- fresh: For Iōb said, I am righteous; Lord removed my judgment.
+- fresh: For Iōb said, I am righteous; the Lord took away my judgment.
 - brenton: [missing]
 
 ## Proverbs 3:9
@@ -345,7 +345,7 @@ Books: 32
 - score: 12
 - reasons: importance=low; keywords=god, holy, judgment, lord, righteousness
 - keywords: god, holy, judgment, lord, righteousness
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ## Isaiah 48:1
@@ -359,7 +359,7 @@ Books: 32
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
 - keywords: being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Isaiah 56:1
@@ -373,14 +373,14 @@ Books: 32
 - score: 12
 - reasons: importance=low; keywords=god, judgment, lord, righteousness, truth
 - keywords: god, judgment, lord, righteousness, truth
-- fresh: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
 ## Jeremiah 9:23
 - score: 10
 - reasons: importance=low; keywords=judgment, lord, mercy, righteousness
 - keywords: judgment, lord, mercy, righteousness
-- fresh: but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
 ## Jeremiah 23:5
@@ -401,7 +401,7 @@ Books: 32
 - score: 8
 - reasons: importance=low; keywords=king, law, lord
 - keywords: king, law, lord
-- fresh: Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+- fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: [missing]
 
 ## Ezekiel 42:13
@@ -450,7 +450,7 @@ Books: 32
 - score: 10
 - reasons: importance=low; keywords=god, lord, repent, sacrifice
 - keywords: god, lord, repent, sacrifice
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 - brenton: [missing]
 
 ## Amos 4:5
@@ -506,7 +506,7 @@ Books: 32
 - score: 11
 - reasons: importance=medium; keywords=god, judgment, lord, mercy
 - keywords: god, judgment, lord, mercy
-- fresh: It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]
 
 ## Habakkuk 1:4
@@ -562,7 +562,7 @@ Books: 32
 - score: 9
 - reasons: importance=medium; keywords=law, lord, spirit
 - keywords: law, lord, spirit
-- fresh: And they made their hearts disobedient so as not to hear my law and words that Lord Almighty sent by his Spirit by hand of former prophets, and great wrath came from Lord Almighty.
+- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - brenton: [missing]
 
 ## Malachi 2:6
@@ -583,5 +583,5 @@ Books: 32
 - score: 9
 - reasons: importance=medium; keywords=covenant, law, lord
 - keywords: covenant, law, lord
-- fresh: But you turned aside from way and made many weak in law. You corrupted covenant of Levi, says Lord Almighty.
+- fresh: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 - brenton: [missing]

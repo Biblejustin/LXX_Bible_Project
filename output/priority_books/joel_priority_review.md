@@ -17,13 +17,13 @@ Selected verses: 6
 ## Joel 2:13
 - score: 8
 - reasons: importance=low; keywords=god, lord, mercy
-- fresh: And tear your hearts and not your garments, and return to Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and repenting over evils.
+- fresh: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 - brenton: [missing]
 
 ## Joel 2:14
 - score: 10
 - reasons: importance=low; keywords=god, lord, repent, sacrifice
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice and drink offering to Lord our God?
+- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 - brenton: [missing]
 
 ## Joel 2:17

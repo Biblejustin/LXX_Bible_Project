@@ -29,7 +29,7 @@ Selected verses: 6
 ## Lamentations 2:9
 - score: 8
 - reasons: importance=low; keywords=king, law, lord
-- fresh: Her gates sank into ground. He destroyed and broke her bars. Her king and her rulers among nations. There is no law, and even her prophets did not see vision from Lord.
+- fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: [missing]
 
 ## Lamentations 3:17

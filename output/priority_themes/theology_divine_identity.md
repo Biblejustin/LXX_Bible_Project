@@ -107,14 +107,14 @@ Books: 37
 - score: 13
 - reasons: importance=medium; keywords=being, forgive, god, holy, lord
 - keywords: being, forgive, god, holy, lord
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy God and zealous; he will not forgive your sins and your lawless deeds.
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Judges 13:6
 - score: 9
 - reasons: importance=medium; keywords=angel, god, name
 - keywords: angel, god, name
-- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very glorious, and I asked where he was from, and he did not tell me his name.
+- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 - brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
 
 ## Ruth 1:8
@@ -135,14 +135,14 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=law, lord, mercy
 - keywords: law, lord, mercy
-- fresh: And Noemin said to her daughter-in-law, Blessed is he to the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+- fresh: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
 ## Ruth 3:10
 - score: 8
 - reasons: importance=low; keywords=god, lord, mercy
 - keywords: god, lord, mercy
-- fresh: And he said, Blessed are you to the Lord God, daughter, because you made your latter mercy better than the first, not going after young men, whether poor or rich.
+- fresh: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 - brenton: And Booz said, Blessed be thou of the Lord God, my daughter, for thou hast made thy latter kindness greater than the former, in that thou followest not after young men, whether any be poor or rich.
 
 ## 1 Samuel 2:10
@@ -184,7 +184,7 @@ Books: 37
 - score: 11
 - reasons: importance=medium; keywords=judgment, law, lord, name
 - keywords: judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They do not fear, and they do not act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 1 Chronicles 6:34
@@ -212,7 +212,7 @@ Books: 37
 - score: 15
 - reasons: importance=medium; keywords=being, covenant, god, holy, lord, name
 - keywords: being, covenant, god, holy, lord, name
-- fresh: Now give your hearts and your souls to seek Lord your God, and rise and build sanctuary to Lord your God, to bring ark of covenant of Lord and holy vessels of God into house being built for name of Lord.
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 15:3
@@ -296,14 +296,14 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=god, name, righteous
 - keywords: god, name, righteous
-- fresh: There was a certain man in land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, holding back from every evil thing.
+- fresh: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: [missing]
 
 ## Job 9:2
 - score: 8
 - reasons: importance=low; keywords=lord, righteous, truth
 - keywords: lord, righteous, truth
-- fresh: In truth I know that it is so; for how will mortal be righteous before Lord?
+- fresh: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 - brenton: [missing]
 
 ## Job 42:17
@@ -324,7 +324,7 @@ Books: 37
 - score: 12
 - reasons: importance=low; keywords=god, lord, mercy, salvation, truth
 - keywords: god, lord, mercy, salvation, truth
-- fresh: But I, with my prayer to you, Lord: time of good pleasure. O God, in multitude of your mercy hear me in truth of your salvation.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Psalms 78:9
@@ -338,7 +338,7 @@ Books: 37
 - score: 14
 - reasons: importance=low; keywords=glory, god, grace, lord, mercy, truth
 - keywords: glory, god, grace, lord, mercy, truth
-- fresh: Because Lord God loves mercy and truth; Lord will give grace and glory; he will not withhold good things from those walking in innocence.
+- fresh: Because the Lord God loves mercy and truth; the Lord will give grace and glory; he will not withhold good things from those walking in innocence.
 - brenton: [missing]
 
 ## Psalms 113:9
@@ -380,21 +380,21 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=glory, god, soul
 - keywords: glory, god, soul
-- fresh: Man to whom God gives wealth and possessions and glory, and his soul lacks nothing from all he desires, yet God will not empower him to eat from it, because foreign man will eat it; this vanity and evil sickness.
+- fresh: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 - brenton: [missing]
 
 ## Isaiah 5:16
 - score: 12
 - reasons: importance=low; keywords=god, holy, judgment, lord, righteousness
 - keywords: god, holy, judgment, lord, righteousness
-- fresh: And Lord Sabaoth will be exalted in judgment, and Holy God will be glorified in righteousness.
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ## Isaiah 12:2
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, salvation, savior
 - keywords: glory, god, lord, salvation, savior
-- fresh: Behold, my God my savior; Lord, I will trust in him and be saved in him, and I will not fear, because my glory and my praise = Lord, and he became salvation to me.
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
 ## Isaiah 48:1
@@ -415,7 +415,7 @@ Books: 37
 - score: 13
 - reasons: importance=medium; keywords=being, covenant, lord, mercy, peace
 - keywords: being, covenant, lord, mercy, peace
-- fresh: Mountains may be moved and your hills shaken, but mercy from me will not fail you, nor covenant of your peace be moved, says Lord, being gracious to you.
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
 ## Isaiah 56:1
@@ -429,14 +429,14 @@ Books: 37
 - score: 12
 - reasons: importance=low; keywords=god, judgment, lord, righteousness, truth
 - keywords: god, judgment, lord, righteousness, truth
-- fresh: and swears, As Lord lives, with truth and in judgment and in righteousness, then nations will bless in him and in him will praise God in Jerusalem.
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
 ## Jeremiah 9:23
 - score: 10
 - reasons: importance=low; keywords=judgment, lord, mercy, righteousness
 - keywords: judgment, lord, mercy, righteousness
-- fresh: but in this let one boasting boast: to understand and know that I am Lord, doing mercy and judgment and righteousness on earth, because in these is my will, says Lord.
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
 ## Jeremiah 33:16
@@ -471,7 +471,7 @@ Books: 37
 - score: 10
 - reasons: importance=low; keywords=god, holy, lord, sacrifice
 - keywords: god, holy, lord, sacrifice
-- fresh: But the Levitical priests, sons of Zadok, who kept charges of my holy things when house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
+- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 - brenton: [missing]
 
 ## Daniel 3:28
@@ -527,7 +527,7 @@ Books: 37
 - score: 8
 - reasons: importance=low; keywords=god, lord, mercy
 - keywords: god, lord, mercy
-- fresh: And tear your hearts and not your garments, and return to Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and repenting over evils.
+- fresh: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 - brenton: [missing]
 
 ## Joel 3:5
@@ -555,7 +555,7 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=god, lord, name
 - keywords: god, lord, name
-- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling water of sea and pouring it on face of earth; Lord God Almighty is his name,
+- fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 - brenton: [missing]
 
 ## Amos 5:15
@@ -590,21 +590,21 @@ Books: 37
 - score: 8
 - reasons: importance=low; keywords=god, lord, name
 - keywords: god, lord, name
-- fresh: Because all peoples will walk, each his own way, but we will walk in name of Lord our God forever and beyond.
+- fresh: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 - brenton: [missing]
 
 ## Micah 5:3
 - score: 12
 - reasons: importance=low; keywords=glory, god, lord, name, shepherd
 - keywords: glory, god, lord, name, shepherd
-- fresh: And he will stand and see and shepherd his flock in strength of Lord and in glory of name of Lord their God. They will exist, because now he will be made great to ends of earth.
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ## Micah 6:8
 - score: 11
 - reasons: importance=medium; keywords=god, judgment, lord, mercy
 - keywords: god, judgment, lord, mercy
-- fresh: It was told you, human, what good is, or what Lord seeks from you: but to do judgment and love mercy and be ready to walk with Lord your God.
+- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]
 
 ## Nahum 1:14
@@ -653,7 +653,7 @@ Books: 37
 - score: 8
 - reasons: importance=low; keywords=angel, lord, mercy
 - keywords: angel, lord, mercy
-- fresh: And angel of Lord answered and said, Lord Almighty, how long will you certainly not have mercy on Jerusalem and cities of Judah, which you overlooked this seventieth year?
+- fresh: And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 - brenton: [missing]
 
 ## Zechariah 1:17
@@ -688,7 +688,7 @@ Books: 37
 - score: 9
 - reasons: importance=medium; keywords=king, lord, name
 - keywords: king, lord, name
-- fresh: Cursed is one who had power, and there was a male in his flock, and his vow was on him, yet he sacrifices to Lord a corrupted thing. Because I am great King, says Lord Almighty, and my name is manifest among nations.
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 - brenton: [missing]
 
 ## Malachi 2:6
