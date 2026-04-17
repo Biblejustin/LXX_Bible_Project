@@ -60,7 +60,7 @@ Use:
 
 ### Genesis 1:2
 - score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering; reco=keep
 - logos local: checked 1, supports Spirit of God rendering, confidence medium
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -77,7 +77,7 @@ Use:
 
 ### Genesis 1:26
 - score: 20
-- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 82
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -86,7 +86,7 @@ Use:
 
 ### Genesis 2:7
 - score: 28
-- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
 - nt refs: 1 Corinthians 15:45
 - nt english witnesses: checked 3, support 2, soften 0, mixed 1
 - nt english recommendation: keep
@@ -102,7 +102,7 @@ Use:
 
 ### Genesis 18:19
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 18
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -138,7 +138,7 @@ Use:
 
 ### Exodus 20:24
 - score: 35
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -155,7 +155,7 @@ Use:
 
 ### Exodus 24:5
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: decisions=1; footnotes=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -168,7 +168,7 @@ Use:
 
 ### Exodus 28:30
 - score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Disclosure and Truth rendering
+- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Disclosure and Truth rendering; reco=keep
 - logos local: checked 1, supports Disclosure and Truth rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -189,7 +189,7 @@ Use:
 
 ### Leviticus 3:1
 - score: 23
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -209,7 +209,7 @@ Use:
 
 ### Leviticus 4:31
 - score: 21
-- reasons: importance=low; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=low; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -222,7 +222,7 @@ Use:
 
 ### Leviticus 7:32
 - score: 24
-- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=needs_logos
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -303,7 +303,7 @@ Use:
 
 ### Deuteronomy 12:11
 - score: 17
-- reasons: importance=medium; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -315,7 +315,7 @@ Use:
 
 ### Deuteronomy 12:21
 - score: 18
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -329,7 +329,7 @@ Use:
 
 ### Deuteronomy 12:26
 - score: 17
-- reasons: importance=low; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -341,7 +341,7 @@ Use:
 
 ### Deuteronomy 16:2
 - score: 18
-- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -364,7 +364,7 @@ Use:
 
 ### Joshua 22:23
 - score: 14
-- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -374,7 +374,7 @@ Use:
 
 ### Joshua 22:29
 - score: 15
-- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -444,7 +444,7 @@ Use:
 
 ### Judges 21:4
 - score: 10
-- reasons: importance=low; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=low; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -575,7 +575,7 @@ Use:
 
 ### 2 Samuel 23:1
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 7
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -595,7 +595,7 @@ Use:
 
 ### 1 Kings 2:35
 - score: 27
-- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 5
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -625,7 +625,7 @@ Use:
 
 ### 1 Kings 12:24
 - score: 22
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 4
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -656,7 +656,7 @@ Use:
 
 ### 2 Kings 2:9
 - score: 13
-- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 12
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -708,7 +708,7 @@ Use:
 
 ### 1 Chronicles 16:40
 - score: 18
-- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear
+- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
 - crossref top vote: 4
 - english witnesses: checked 2, fresh 0, brenton 0, mt 0, differs all 0
 - english witness recommendation: needs_logos
@@ -736,7 +736,7 @@ Use:
 
 ### 2 Chronicles 6:20
 - score: 13
-- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -748,7 +748,7 @@ Use:
 
 ### 2 Chronicles 7:14
 - score: 15
-- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=name, repent; nt=Acts 15:17, James 2:7; crossref_top_vote=297; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7
 - nt english witnesses: checked 6, support 1, soften 3, mixed 2
 - nt english recommendation: keep
@@ -759,7 +759,7 @@ Use:
 
 ### 2 Chronicles 9:8
 - score: 15
-- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 5
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -768,7 +768,7 @@ Use:
 
 ### 2 Chronicles 12:13
 - score: 23
-- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -789,7 +789,7 @@ Use:
 
 ### 2 Chronicles 33:16
 - score: 18
-- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -1163,7 +1163,7 @@ Use:
 
 ### Isaiah 12:2
 - score: 15
-- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 54
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -1186,7 +1186,7 @@ Use:
 
 ### Isaiah 54:10
 - score: 19
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos; reco=needs_logos
 - crossref top vote: 56
 - english witness recommendation: needs_logos
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
@@ -1203,7 +1203,7 @@ Use:
 
 ### Jeremiah 4:2
 - score: 13
-- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 8
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -1212,7 +1212,7 @@ Use:
 
 ### Jeremiah 7:11
 - score: 12
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 15, support 4, soften 6, mixed 5
 - nt english recommendation: keep
@@ -1223,7 +1223,7 @@ Use:
 
 ### Jeremiah 9:23
 - score: 16
-- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos
+- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos; reco=needs_logos
 - crossref top vote: 57
 - english witness recommendation: needs_logos
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
@@ -1231,7 +1231,7 @@ Use:
 
 ### Jeremiah 14:9
 - score: 14
-- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7
 - nt english witnesses: checked 6, support 1, soften 3, mixed 2
 - nt english recommendation: keep
@@ -1243,7 +1243,7 @@ Use:
 
 ### Jeremiah 15:16
 - score: 15
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7
 - nt english witnesses: checked 6, support 1, soften 3, mixed 2
 - nt english recommendation: keep
@@ -1474,7 +1474,7 @@ Use:
 
 ### Joel 3:5
 - score: 9
-- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
+- reasons: importance=low; keywords=lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=4; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support; reco=keep
 - nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
 - nt english witnesses: checked 12, support 12, soften 0, mixed 0
 - nt english recommendation: keep
@@ -1522,7 +1522,7 @@ Use:
 
 ### Amos 9:12
 - score: 15
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7
 - nt english witnesses: checked 6, support 1, soften 3, mixed 2
 - nt english recommendation: keep
@@ -1615,7 +1615,7 @@ Use:
 
 ### Jonah 2:10
 - score: 9
-- reasons: importance=low; keywords=lord, sacrifice, salvation; crossref_top_vote=10; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- reasons: importance=low; keywords=lord, sacrifice, salvation; crossref_top_vote=10; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -1641,7 +1641,7 @@ Use:
 
 ### Micah 5:3
 - score: 16
-- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos
+- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos; reco=needs_logos
 - crossref top vote: 11
 - english witness recommendation: needs_logos
 - fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
@@ -1656,7 +1656,7 @@ Use:
 
 ### Micah 6:8
 - score: 15
-- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 186
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -1827,7 +1827,7 @@ Use:
 
 ### Haggai 1:14
 - score: 12
-- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
+- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 6
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -1880,7 +1880,7 @@ Use:
 
 ### Zechariah 13:9
 - score: 15
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support
+- reasons: importance=low; keywords=god, lord, name; nt=Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22; crossref_top_vote=132; nt_eng=support:12/soften:0/mixed:0; nt_eng_reco=keep; nt_eng_flags=literal_support; reco=keep
 - nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
 - nt english witnesses: checked 12, support 12, soften 0, mixed 0
 - nt english recommendation: keep

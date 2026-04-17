@@ -16,6 +16,7 @@ Rows: 14
 - logos local recommendation: `keep`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
@@ -30,6 +31,7 @@ Rows: 14
 - logos local recommendation: `keep`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
@@ -44,6 +46,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
@@ -58,6 +61,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
+- consensus recommendation: `keep`
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
@@ -72,6 +76,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
+- consensus recommendation: `keep`
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
 
@@ -86,6 +91,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 - brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
 
@@ -100,6 +106,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
 - brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
 
@@ -114,6 +121,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 - brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
 
@@ -128,6 +136,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
 - brenton: 
 
@@ -142,6 +151,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: 
 
@@ -156,6 +166,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
 - brenton: 
 
@@ -170,6 +181,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - brenton: 
 
@@ -184,6 +196,7 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
 - brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
@@ -198,5 +211,6 @@ Rows: 14
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
+- consensus recommendation: `keep`
 - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
 - brenton:

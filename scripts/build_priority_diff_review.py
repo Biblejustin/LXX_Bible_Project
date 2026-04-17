@@ -350,6 +350,14 @@ def logos_local_info(
     }
 
 
+def consensus_recommendation(*recommendations: str) -> str:
+    values = [(value or "").strip() for value in recommendations if (value or "").strip()]
+    for candidate in ("revise", "needs_logos", "defer", "keep"):
+        if candidate in values:
+            return candidate
+    return ""
+
+
 def score_row(
     row: dict[str, str],
     source_by_ref: dict[str, dict[str, str]],
@@ -359,7 +367,7 @@ def score_row(
     english_map: dict[str, dict[str, str]],
     nt_english_map: dict[tuple[str, str], dict[str, str]],
     logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
-) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str], dict[str, str], dict[str, str]]:
+) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str], dict[str, str], dict[str, str], str]:
     text = f"{row.get('fresh_translation', '')} {row.get('brenton_translation', '')}"
     keyword_hits = sorted({match.group(0).lower() for match in KEYWORD_RE.finditer(text)})
     decision_count = int(row.get("decision_count", "0") or "0")
@@ -439,6 +447,14 @@ def score_row(
     if logos_local_meta["logos_local_supports"]:
         reasons.append("logos_support=" + logos_local_meta["logos_local_supports"])
 
+    overall_recommendation = consensus_recommendation(
+        english_meta.get("english_witness_recommendation", ""),
+        nt_english_meta.get("nt_english_recommendation", ""),
+        logos_local_meta.get("logos_local_recommendation", ""),
+    )
+    if overall_recommendation:
+        reasons.append(f"reco={overall_recommendation}")
+
     return (
         score,
         keyword_hits,
@@ -451,6 +467,7 @@ def score_row(
         english_meta,
         nt_english_meta,
         logos_local_meta,
+        overall_recommendation,
     )
 
 
@@ -480,6 +497,7 @@ def build_priority_rows(
             english_meta,
             nt_english_meta,
             logos_local_meta,
+            overall_recommendation,
         ) = score_row(
             row,
             source_by_ref,
@@ -524,6 +542,7 @@ def build_priority_rows(
             english_meta,
             nt_english_meta,
             logos_local_meta,
+            overall_recommendation,
         ) = score_row(
             row,
             source_by_ref,
@@ -571,6 +590,7 @@ def build_priority_rows(
                 "logos_local_supports": logos_local_meta.get("logos_local_supports", ""),
                 "logos_local_confidence": logos_local_meta.get("logos_local_confidence", ""),
                 "logos_local_recommendation": logos_local_meta.get("logos_local_recommendation", ""),
+                "consensus_recommendation": overall_recommendation,
                 "keyword_hits": ", ".join(keyword_hits),
                 "reasons": "; ".join(reasons),
                 "fresh_translation": row["fresh_translation"],

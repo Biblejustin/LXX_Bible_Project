@@ -55,6 +55,7 @@ def build_md(title: str, rows: list[dict[str, str]], intro: list[str]) -> str:
                 f"- logos local recommendation: `{row.get('logos_local_recommendation', '') or 'none'}`",
                 f"- english witnesses: checked `{row.get('english_witness_checked', '0')}`, fresh `{row.get('english_witness_fresh_support', '0')}`, brenton `{row.get('english_witness_brenton_support', '0')}`, mt `{row.get('english_witness_mt_support', '0')}`",
                 f"- english witness recommendation: `{row.get('english_witness_recommendation', '') or 'none'}`",
+                f"- consensus recommendation: `{row.get('consensus_recommendation', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
                 f"- brenton: {row.get('brenton_translation', '[missing]')}",
                 "",
@@ -81,6 +82,7 @@ def main() -> None:
         logos_local_reco = row.get("logos_local_recommendation", "")
         english_checked = int(row.get("english_witness_checked") or 0)
         english_reco = row.get("english_witness_recommendation", "")
+        consensus_reco = row.get("consensus_recommendation", "")
         importance = row.get("importance", "none")
         reasons: list[str] = []
         if score >= 12:
@@ -105,6 +107,8 @@ def main() -> None:
             reasons.append(f"eng={english_checked}")
         if english_reco:
             reasons.append(f"eng_reco={english_reco}")
+        if consensus_reco:
+            reasons.append(f"reco={consensus_reco}")
         if reasons:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(reasons)
@@ -122,6 +126,8 @@ def main() -> None:
             phase1_reasons.append(f"logos={logos_local_reco}")
         if english_checked > 0 and english_reco in {"revise", "needs_logos"}:
             phase1_reasons.append(f"eng={english_reco}")
+        if consensus_reco in {"revise", "needs_logos"}:
+            phase1_reasons.append(f"reco={consensus_reco}")
         if phase1_reasons:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(phase1_reasons)
