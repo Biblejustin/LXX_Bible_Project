@@ -3783,24 +3783,6 @@ Method:
 - mt: An altar of earth you shall make unto me, and shall sacrifice thereon your burnt offerings, and your peace offerings, your sheep, and yours oxen: in all places where I record my name I will come unto you, and I will bless you.
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
-### 1 Kings 2:35
-- priority: `34`
-- importance: `high`
-- fresh_mt_ratio: `0.081`
-- fresh_brenton_ratio: `0.017`
-- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
-- mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
-- brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
-
-### 1 Kings 12:24
-- priority: `29`
-- importance: `high`
-- fresh_mt_ratio: `0.027`
-- fresh_brenton_ratio: `0.014`
-- fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
-- mt: Thus says the LORD, All of you shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
-- brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
-
 ### Genesis 2:7
 - priority: `28`
 - importance: `high`
@@ -3809,6 +3791,15 @@ Method:
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - mt: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+### 1 Kings 2:35
+- priority: `27`
+- importance: `high`
+- fresh_mt_ratio: `0.081`
+- fresh_brenton_ratio: `0.017`
+- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
+- mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
+- brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
 ### Leviticus 7:32
 - priority: `24`
@@ -3837,6 +3828,15 @@ Method:
 - mt: And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
 
+### 1 Kings 12:24
+- priority: `22`
+- importance: `high`
+- fresh_mt_ratio: `0.027`
+- fresh_brenton_ratio: `0.014`
+- fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
+- mt: Thus says the LORD, All of you shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
+- brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
+
 ### Leviticus 4:31
 - priority: `21`
 - importance: `low`
@@ -3849,9 +3849,9 @@ Method:
 ### Exodus 28:30
 - priority: `21`
 - importance: `high`
-- fresh_mt_ratio: `0.091`
-- fresh_brenton_ratio: `0.476`
-- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- fresh_mt_ratio: `0.087`
+- fresh_brenton_ratio: `0.479`
+- fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - mt: And you shall put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goes in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
@@ -17094,15 +17094,6 @@ Method:
 - mt: Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah.
 - brenton: And Asa cried to the Lord his God, and said, O Lord, it is not impossible with thee to save by many or by few: strengthen us, O Lord our God; for we trust in thee, and in thy name have we come against this great multitude. O Lord our God, let not man prevail against thee.
 
-### Numbers 27:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.208`
-- fresh_brenton_ratio: `0.426`
-- fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
-- mt: And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
-- brenton: And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.
-
 ### 1 Kings 12:27
 - priority: `0`
 - importance: `none`
@@ -17111,6 +17102,15 @@ Method:
 - fresh: If this people goes up to offer sacrifices in the house of the Lord in Ierousalem, then the heart of the people will turn back to their lord, to Roboam king of Iouda, and they will kill me.
 - mt: If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people return unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.
 - brenton: If this people shall go up to offer sacrifice in the house of the Lord at Jerusalem, then the heart of the people will return to the Lord, and to their master, to Roboam king of Juda, and they will slay me.
+
+### Numbers 27:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.209`
+- fresh_brenton_ratio: `0.437`
+- fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Disclosures before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
+- mt: And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
+- brenton: And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.
 
 ### 2 Samuel 4:12
 - priority: `0`
@@ -30585,15 +30585,6 @@ Method:
 - mt: In the wilderness, Betharabah, Middin, and Secacah,
 - brenton: and Baddargeis, and Tharabaam, and Ænon;
 
-### Deuteronomy 33:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.474`
-- fresh_brenton_ratio: `0.903`
-- fresh: And to Levi he said, Give Levi his manifestations and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
-- mt: And of Levi he said, Let your Thummim and your Urim be with your holy one, whom you did prove at Massah, and with whom you did strive at the waters of Meribah;
-- brenton: And to Levi he said, Give to Levi his manifestations, and his truth to the holy man, whom they tempted in the temptation; they reviled him at the water of strife.
-
 ### Numbers 1:50
 - priority: `0`
 - importance: `none`
@@ -31466,6 +31457,15 @@ Method:
 - fresh: And they forsook the Lord God of their fathers who brought them out of the land of Egypt, and they went after other gods from the gods of the peoples around them and bowed down to them, and they provoked the Lord.
 - mt: And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger.
 - brenton: And they forsook the Lord God of their fathers, who brought them out of the land of Egypt, and walked after other gods, of the gods of the nations round about them; and they worshipped them.
+
+### Deuteronomy 33:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.492`
+- fresh_brenton_ratio: `0.847`
+- fresh: And to Levi he said, Give Levi his disclosures and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
+- mt: And of Levi he said, Let your Thummim and your Urim be with your holy one, whom you did prove at Massah, and with whom you did strive at the waters of Meribah;
+- brenton: And to Levi he said, Give to Levi his manifestations, and his truth to the holy man, whom they tempted in the temptation; they reviled him at the water of strife.
 
 ### 2 Samuel 14:30
 - priority: `0`
@@ -52086,15 +52086,6 @@ Method:
 - mt: His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.
 - brenton: The sons, and the sons of his sons with him; his daughters, and the daughters of his daughters; and he brought all his seed into Egypt.
 
-### Leviticus 8:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.659`
-- fresh_brenton_ratio: `0.493`
-- fresh: And he put the breastpiece on it, and on the breastpiece he put the Manifestation and the Truth.
-- mt: And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.
-- brenton: and girded him with a girdle according to the make of the ephod, and clasped him closely with it: and put upon it the oracle, and put upon the oracle the Manifestation and the Truth.
-
 ### Numbers 35:14
 - priority: `0`
 - importance: `none`
@@ -57287,6 +57278,15 @@ Method:
 - fresh: And Iou son of Anani the prophet went out to meet him and said to him, King Iōsaphat, do you help sinner, or make friendship with one hated by Lord? Because of this wrath came upon you from Lord.
 - mt: And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Should you help the ungodly, and love them that hate the LORD? therefore is wrath upon you from before the LORD.
 - brenton: And there went out to meet him Jeu the prophet the son of Anani, and said to him, King Josaphat, dost thou help a sinner, or act friendly towards one hated of the Lord? Therefore has wrath come upon thee from the Lord.
+
+### Leviticus 8:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.681`
+- fresh_brenton_ratio: `0.424`
+- fresh: And he put the breastpiece on it, and on the breastpiece he put the Disclosure and the Truth.
+- mt: And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.
+- brenton: and girded him with a girdle according to the make of the ephod, and clasped him closely with it: and put upon it the oracle, and put upon the oracle the Manifestation and the Truth.
 
 ### 1 Chronicles 10:3
 - priority: `0`

@@ -1,6 +1,6 @@
 # Fresh OT Logos Local Review
 
-Rows: 12
+Rows: 13
 
 ## Exodus 20:24
 - priority: `35`
@@ -57,6 +57,20 @@ Rows: 12
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## Exodus 28:30
+- priority: `21`
+- importance: `high`
+- checked: `1`
+- scopes: Exodus 28:30
+- signals: lexical_support
+- supports: Disclosure and Truth rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: Bible Word Study; linked commentary snippets
+- summary: Logos Bible Word Study keeps aletheia anchored at truth and shows delosis in disclosure or declaration language, while linked commentary snippets repeatedly treat the LXX wording as a semantic rendering of Urim and Thummim rather than a preserved transliteration.
+- fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
 ## Genesis 1:2
 - priority: `21`

@@ -5,12 +5,12 @@ Rows: 45
 Only verses with tracked decision rows or footnotes.
 
 - 1. Exodus 20:24 | score 35 | decisions 2 | footnotes 2
-- 2. 1 Kings 2:35 | score 34 | decisions 1 | footnotes 1
-- 3. 1 Kings 12:24 | score 29 | decisions 1 | footnotes 1
-- 4. Genesis 2:7 | score 28 | decisions 3 | footnotes 2
-- 5. Leviticus 7:32 | score 24 | decisions 1 | footnotes 1
-- 6. 2 Chronicles 12:13 | score 23 | decisions 1 | footnotes 0
-- 7. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1
+- 2. Genesis 2:7 | score 28 | decisions 3 | footnotes 2
+- 3. 1 Kings 2:35 | score 27 | decisions 1 | footnotes 1
+- 4. Leviticus 7:32 | score 24 | decisions 1 | footnotes 1
+- 5. 2 Chronicles 12:13 | score 23 | decisions 1 | footnotes 0
+- 6. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1
+- 7. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1
 - 8. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1
 - 9. Exodus 28:30 | score 21 | decisions 1 | footnotes 1
 - 10. Exodus 3:2 | score 21 | decisions 1 | footnotes 1

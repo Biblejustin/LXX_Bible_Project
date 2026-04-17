@@ -9420,7 +9420,7 @@ And Aaron shall bear the names of the sons of Israel on the breastpiece of judgm
 
 **Exodus 28:30**
 
-And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 
 **Exodus 28:31**
 
@@ -11698,7 +11698,7 @@ And he put the tunic on him, and girded him with the sash, and clothed him with 
 
 **Leviticus 8:8**
 
-And he put the breastpiece on it, and on the breastpiece he put the Manifestation and the Truth.
+And he put the breastpiece on it, and on the breastpiece he put the Disclosure and the Truth.
 
 **Leviticus 8:9**
 
@@ -18388,7 +18388,7 @@ And you shall give some of your glory upon him, so that the sons of Israel may h
 
 **Numbers 27:21**
 
-And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
+And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Disclosures before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 
 **Numbers 27:22**
 
@@ -23446,7 +23446,7 @@ And this to Judah: Hear, Lord, the voice of Judah, and let him enter into his pe
 
 **Deuteronomy 33:8**
 
-And to Levi he said, Give Levi his manifestations and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
+And to Levi he said, Give Levi his disclosures and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
 
 **Deuteronomy 33:9**
 

@@ -16,12 +16,12 @@ Use MD for reading order.
 
 ## Top 50
 - 1. Exodus 20:24 | score 35 | theology, ritual, kingship, textual/lexical
-- 2. 1 Kings 2:35 | score 34 | anthropology, ritual, kingship, death/afterlife
-- 3. 1 Kings 12:24 | score 29 | theology, anthropology, kingship
-- 4. Genesis 2:7 | score 28 | anthropology, textual/lexical
-- 5. Leviticus 7:32 | score 24 | ritual, kingship
-- 6. 2 Chronicles 12:13 | score 23 | theology, kingship
-- 7. Leviticus 3:1 | score 23 | ritual, kingship
+- 2. Genesis 2:7 | score 28 | anthropology, textual/lexical
+- 3. 1 Kings 2:35 | score 27 | anthropology, ritual, kingship, death/afterlife
+- 4. Leviticus 7:32 | score 24 | ritual, kingship
+- 5. 2 Chronicles 12:13 | score 23 | theology, kingship
+- 6. Leviticus 3:1 | score 23 | ritual, kingship
+- 7. 1 Kings 12:24 | score 22 | theology, anthropology, kingship
 - 8. 2 Samuel 14:17 | score 21 | theology, kingship
 - 9. Exodus 28:30 | score 21 | theology, covenant/law, ritual
 - 10. Exodus 3:2 | score 21 | theology, anthropology

@@ -20856,7 +20856,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
 ### Exodus 28:31
@@ -25889,7 +25889,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he put the breastpiece on it, and on the breastpiece he put the Manifestation and the Truth.
+- fresh: And he put the breastpiece on it, and on the breastpiece he put the Disclosure and the Truth.
 - brenton: and girded him with a girdle according to the make of the ephod, and clasped him closely with it: and put upon it the oracle, and put upon the oracle the Manifestation and the Truth.
 
 ### Leviticus 8:9
@@ -40732,7 +40732,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Manifestations before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
+- fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Disclosures before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 - brenton: And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.
 
 ### Numbers 27:22
@@ -51921,7 +51921,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And to Levi he said, Give Levi his manifestations and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
+- fresh: And to Levi he said, Give Levi his disclosures and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction,
 - brenton: And to Levi he said, Give to Levi his manifestations, and his truth to the holy man, whom they tempted in the temptation; they reviled him at the water of strife.
 
 ### Deuteronomy 33:9

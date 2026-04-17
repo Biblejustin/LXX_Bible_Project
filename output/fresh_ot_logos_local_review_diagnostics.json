@@ -1,6 +1,6 @@
 {
   "observations_path": "/Users/justinscaggs/Documents/Codex_bible/data/research/local/witness_review/logos_local_observations.csv",
-  "rows_with_logos_local_signal": 12,
+  "rows_with_logos_local_signal": 13,
   "watch_rows": 0,
   "output_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_logos_local_review.csv",
   "watch_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_logos_local_watch.csv"

@@ -60,6 +60,20 @@ SEEDS = {
         "recommendation": "keep",
         "reviewer_notes": "Derived from local Logos index/state inspection on 2026-04-16.",
     },
+    ("ref", "Exodus 28:30"): {
+        "term": "delosis / aletheia",
+        "source_tools": "Bible Word Study; linked commentary snippets",
+        "signal_type": "lexical_support",
+        "observation_summary": (
+            "Logos Bible Word Study keeps aletheia anchored at truth and shows delosis in disclosure or declaration "
+            "language, while linked commentary snippets repeatedly treat the LXX wording as a semantic rendering of "
+            "Urim and Thummim rather than a preserved transliteration."
+        ),
+        "supports": "Disclosure and Truth rendering",
+        "confidence": "high",
+        "recommendation": "keep",
+        "reviewer_notes": "Derived from user-supplied Logos Bible Word Study screenshots on 2026-04-16.",
+    },
     ("family", "into-living-soul-formula"): {
         "term": "psyche / soul",
         "source_tools": "AutoComplete.db WordSense; milestones/headwords; local index inspection",
