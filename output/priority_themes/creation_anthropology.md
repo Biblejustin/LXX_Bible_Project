@@ -7,7 +7,7 @@ Books: 31
 
 ## Genesis 1:2
 - score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering
 - keywords: abyss, god, spirit
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
@@ -21,28 +21,28 @@ Books: 31
 
 ## Genesis 1:26
 - score: 20
-- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82
+- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - keywords: god, image
 - fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ## Genesis 2:7
-- score: 26
-- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
+- score: 28
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering
 - keywords: god, soul
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Exodus 3:2
-- score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - keywords: angel, being, lord, messenger
 - fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Exodus 6:3
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14
+- score: 20
+- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - keywords: being, god, lord, name
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
@@ -77,7 +77,7 @@ Books: 31
 
 ## Deuteronomy 12:21
 - score: 18
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - keywords: god, lord, name, soul
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
@@ -91,14 +91,14 @@ Books: 31
 
 ## Joshua 22:29
 - score: 15
-- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4
+- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - keywords: altar, being, lord, peace, sacrifice, salvation
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
 ## Joshua 24:19
-- score: 13
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8
+- score: 15
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - keywords: being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
@@ -139,22 +139,22 @@ Books: 31
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
 
 ## 1 Kings 2:35
-- score: 27
-- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5
+- score: 34
+- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:1; eng_reco=needs_logos; eng_flags=lxx_plus, mt_leaning
 - keywords: altar, being, hades, king, lord, peace, priest, seed
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
 ## 1 Kings 12:24
-- score: 22
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4
+- score: 29
+- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:1; eng_reco=needs_logos; eng_flags=lxx_plus, mt_leaning
 - keywords: being, god, king, lord, name, servant
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
 ## 2 Kings 2:9
 - score: 13
-- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12
+- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - keywords: spirit
 - fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
@@ -181,8 +181,8 @@ Books: 31
 - brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
 ## 1 Chronicles 22:19
-- score: 15
-- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12
+- score: 17
+- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
@@ -293,8 +293,8 @@ Books: 31
 - brenton: [missing]
 
 ## Isaiah 54:10
-- score: 16
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56
+- score: 19
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos
 - keywords: being, covenant, lord, mercy, peace
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
@@ -434,7 +434,7 @@ Books: 31
 
 ## Haggai 1:14
 - score: 12
-- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6
+- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - keywords: god, lord, priest, spirit
 - fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 - brenton: [missing]

@@ -134,7 +134,10 @@ This rebuilds:
 - `output/fresh_ot_nt_idiom_outliers.md`
 - `output/fresh_ot_crossref_clues.md`
 - `output/fresh_ot_crossref_watch.md`
+- `output/fresh_ot_logos_local_review.md`
+- `output/fresh_ot_logos_local_watch.md`
 - `data/research/local/witness_review/nt_english_witness_observations.csv`
+- `data/research/local/witness_review/logos_local_observations.csv`
 - `output/fresh_ot_english_witness_review.md`
 - `output/fresh_ot_english_witness_watch.md`
 - `output/fresh_ot_proper_name_watch.md`
@@ -176,6 +179,33 @@ This writes:
 
 Use this to record whether NT English witnesses preserve or smooth the Greek idiom-family behind OT rows with NT reuse or NT-linked wording.
 Do not store long copyrighted text.
+
+Private Logos-local observation worksheet:
+
+```bash
+python3 scripts/build_private_logos_local_observations.py
+```
+
+This writes:
+
+- `data/research/local/witness_review/logos_local_observations.csv`
+- `data/research/local/witness_review/logos_local_observations_README.md`
+
+Use short derived observations from local Logos tools such as Bible Word Study, Factbook, and local index/state inspection.
+Do not store copyrighted book text.
+
+Public Logos-local review summary:
+
+```bash
+python3 scripts/build_logos_local_review.py
+```
+
+This writes:
+
+- `output/fresh_ot_logos_local_review.md`
+- `output/fresh_ot_logos_local_review.csv`
+- `output/fresh_ot_logos_local_watch.md`
+- `output/fresh_ot_logos_local_watch.csv`
 
 Proper-name watch:
 

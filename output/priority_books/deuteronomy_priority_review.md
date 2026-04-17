@@ -22,7 +22,7 @@ Selected verses: 6
 
 ## Deuteronomy 12:21
 - score: 18
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
@@ -34,6 +34,6 @@ Selected verses: 6
 
 ## Deuteronomy 16:2
 - score: 18
-- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.

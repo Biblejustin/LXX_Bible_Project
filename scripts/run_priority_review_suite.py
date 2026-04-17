@@ -19,6 +19,9 @@ def main() -> None:
     parser.parse_args()
 
     run_script("build_private_nt_english_witness_observations.py")
+    run_script("build_private_logos_local_observations.py")
+    run_script("build_private_english_witness_observations.py")
+    run_script("apply_logos_reading_list_export.py")
     run_script("build_priority_diff_review.py")
     run_script("build_priority_book_reviews.py")
     run_script("build_priority_theme_reviews.py")
@@ -30,7 +33,7 @@ def main() -> None:
     run_script("build_nt_idiom_review.py")
     run_script("build_crossref_clue_review.py")
     run_script("build_human_review_gate.py")
-    run_script("build_private_english_witness_observations.py")
+    run_script("build_logos_local_review.py")
     run_script("build_english_witness_review.py")
     run_script("build_proper_name_watch.py")
 
@@ -63,6 +66,11 @@ def main() -> None:
                 "crossref_clues_csv": str(ROOT / "output" / "fresh_ot_crossref_clues.csv"),
                 "crossref_watch": str(ROOT / "output" / "fresh_ot_crossref_watch.md"),
                 "crossref_watch_csv": str(ROOT / "output" / "fresh_ot_crossref_watch.csv"),
+                "logos_local_observations": str(ROOT / "data" / "research" / "local" / "witness_review" / "logos_local_observations.csv"),
+                "logos_local_review": str(ROOT / "output" / "fresh_ot_logos_local_review.md"),
+                "logos_local_review_csv": str(ROOT / "output" / "fresh_ot_logos_local_review.csv"),
+                "logos_local_watch": str(ROOT / "output" / "fresh_ot_logos_local_watch.md"),
+                "logos_local_watch_csv": str(ROOT / "output" / "fresh_ot_logos_local_watch.csv"),
                 "english_witness_review": str(ROOT / "output" / "fresh_ot_english_witness_review.md"),
                 "english_witness_review_csv": str(ROOT / "output" / "fresh_ot_english_witness_review.csv"),
                 "english_witness_watch": str(ROOT / "output" / "fresh_ot_english_witness_watch.md"),

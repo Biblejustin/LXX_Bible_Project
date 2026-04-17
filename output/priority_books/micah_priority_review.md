@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Micah 5:3
-- score: 13
-- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11
+- score: 16
+- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos
 - fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
@@ -28,7 +28,7 @@ Selected verses: 6
 
 ## Micah 6:8
 - score: 15
-- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186
+- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]
 

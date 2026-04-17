@@ -51,6 +51,8 @@ def build_md(title: str, rows: list[dict[str, str]], intro: list[str]) -> str:
                 f"- nt refs: {row.get('nt_parallel_refs', '[none]') or '[none]'}",
                 f"- nt english witnesses: checked `{row.get('nt_english_checked', '0')}`, support `{row.get('nt_english_support_family', '0')}`, soften `{row.get('nt_english_softens_family', '0')}`, mixed `{row.get('nt_english_mixed', '0')}`",
                 f"- nt english recommendation: `{row.get('nt_english_recommendation', '') or 'none'}`",
+                f"- logos local: checked `{row.get('logos_local_checked', '0')}`, supports `{row.get('logos_local_supports', '') or 'none'}`, confidence `{row.get('logos_local_confidence', '') or 'none'}`",
+                f"- logos local recommendation: `{row.get('logos_local_recommendation', '') or 'none'}`",
                 f"- english witnesses: checked `{row.get('english_witness_checked', '0')}`, fresh `{row.get('english_witness_fresh_support', '0')}`, brenton `{row.get('english_witness_brenton_support', '0')}`, mt `{row.get('english_witness_mt_support', '0')}`",
                 f"- english witness recommendation: `{row.get('english_witness_recommendation', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
@@ -75,6 +77,8 @@ def main() -> None:
         nt_count = int(row.get("nt_parallel_count") or 0)
         nt_english_checked = int(row.get("nt_english_checked") or 0)
         nt_english_reco = row.get("nt_english_recommendation", "")
+        logos_local_checked = int(row.get("logos_local_checked") or 0)
+        logos_local_reco = row.get("logos_local_recommendation", "")
         english_checked = int(row.get("english_witness_checked") or 0)
         english_reco = row.get("english_witness_recommendation", "")
         importance = row.get("importance", "none")
@@ -93,6 +97,10 @@ def main() -> None:
             reasons.append(f"nt_eng={nt_english_checked}")
         if nt_english_reco:
             reasons.append(f"nt_eng_reco={nt_english_reco}")
+        if logos_local_checked > 0:
+            reasons.append(f"logos={logos_local_checked}")
+        if logos_local_reco:
+            reasons.append(f"logos_reco={logos_local_reco}")
         if english_checked > 0:
             reasons.append(f"eng={english_checked}")
         if english_reco:
@@ -110,6 +118,8 @@ def main() -> None:
             phase1_reasons.append("nt+score>=14")
         if nt_english_checked > 0 and nt_english_reco in {"revise", "needs_logos"}:
             phase1_reasons.append(f"nt_eng={nt_english_reco}")
+        if logos_local_checked > 0 and logos_local_reco in {"revise", "needs_logos"}:
+            phase1_reasons.append(f"logos={logos_local_reco}")
         if english_checked > 0 and english_reco in {"revise", "needs_logos"}:
             phase1_reasons.append(f"eng={english_reco}")
         if phase1_reasons:

@@ -4,7 +4,7 @@ Selected verses: 6
 
 ## Jeremiah 4:2
 - score: 13
-- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8
+- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: [missing]
 
@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Jeremiah 9:23
-- score: 13
-- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57
+- score: 16
+- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 

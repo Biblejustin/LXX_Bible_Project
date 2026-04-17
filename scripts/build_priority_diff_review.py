@@ -19,6 +19,7 @@ DEFAULT_OT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_NT_IDIOMS = RESEARCH / "nt_idiom_parallels.csv"
 DEFAULT_NT_ENGLISH_WITNESS = RESEARCH / "local" / "witness_review" / "nt_english_witness_observations.csv"
 DEFAULT_ENGLISH_WITNESS = RESEARCH / "local" / "witness_review" / "english_witness_observations.csv"
+DEFAULT_LOGOS_LOCAL = RESEARCH / "local" / "witness_review" / "logos_local_observations.csv"
 DEFAULT_OUTPUT = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.md"
 DEFAULT_CSV = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.csv"
 DEFAULT_DIAGNOSTICS = ROOT / "output" / "fresh_vs_brenton_ot_priority_review_diagnostics.json"
@@ -67,6 +68,18 @@ def load_english_witness(path: Path) -> dict[str, dict[str, str]]:
     if not path.exists():
         return {}
     return {row["ref"]: row for row in load_rows(path) if row.get("ref")}
+
+
+def load_logos_local(path: Path) -> dict[str, dict[str, list[dict[str, str]]]]:
+    out = {"ref": defaultdict(list), "family": defaultdict(list)}
+    if not path.exists():
+        return out
+    for row in load_rows(path):
+        scope_type = (row.get("scope_type") or "").strip()
+        scope_key = (row.get("scope_key") or "").strip()
+        if scope_type in out and scope_key:
+            out[scope_type][scope_key].append(row)
+    return out
 
 
 def family_map(source_by_ref: dict[str, dict[str, str]]) -> dict[str, set[str]]:
@@ -277,6 +290,66 @@ def nt_english_witness_info(
     }
 
 
+def logos_local_info(
+    row: dict[str, str],
+    families_by_ref: dict[str, set[str]],
+    logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
+) -> tuple[int, dict[str, str]]:
+    matched = []
+    matched.extend(logos_local_map["ref"].get(row["ref"], []))
+    for family_name in families_by_ref.get(row["ref"], set()):
+        matched.extend(logos_local_map["family"].get(family_name, []))
+    if not matched:
+        return 0, {
+            "logos_local_checked": "0",
+            "logos_local_scopes": "",
+            "logos_local_source_tools": "",
+            "logos_local_signals": "",
+            "logos_local_supports": "",
+            "logos_local_confidence": "",
+            "logos_local_recommendation": "",
+        }
+
+    scopes = sorted({item.get("scope_key", "").strip() for item in matched if item.get("scope_key", "").strip()})
+    source_tools = sorted({item.get("source_tools", "").strip() for item in matched if item.get("source_tools", "").strip()})
+    signals = sorted({item.get("signal_type", "").strip() for item in matched if item.get("signal_type", "").strip()})
+    supports = sorted({item.get("supports", "").strip() for item in matched if item.get("supports", "").strip()})
+    recommendations = [item.get("recommendation", "").strip() for item in matched if item.get("recommendation", "").strip()]
+    confidences = [item.get("confidence", "").strip() for item in matched if item.get("confidence", "").strip()]
+
+    recommendation = ""
+    for candidate in ("revise", "needs_logos", "defer", "keep"):
+        if candidate in recommendations:
+            recommendation = candidate
+            break
+
+    confidence = ""
+    for candidate in ("high", "medium", "low"):
+        if candidate in confidences:
+            confidence = candidate
+            break
+
+    bonus = 0
+    if recommendation == "revise":
+        bonus += 3
+    elif recommendation == "needs_logos":
+        bonus += 2
+    elif recommendation == "defer":
+        bonus += 1
+    if "unclear" in signals:
+        bonus += 1
+
+    return bonus, {
+        "logos_local_checked": str(len(matched)),
+        "logos_local_scopes": ", ".join(scopes),
+        "logos_local_source_tools": " | ".join(source_tools),
+        "logos_local_signals": ", ".join(signals),
+        "logos_local_supports": ", ".join(supports),
+        "logos_local_confidence": confidence,
+        "logos_local_recommendation": recommendation,
+    }
+
+
 def score_row(
     row: dict[str, str],
     source_by_ref: dict[str, dict[str, str]],
@@ -285,7 +358,8 @@ def score_row(
     crossrefs_by_ref: dict[str, list[dict[str, str]]],
     english_map: dict[str, dict[str, str]],
     nt_english_map: dict[tuple[str, str], dict[str, str]],
-) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str], dict[str, str]]:
+    logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
+) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str], dict[str, str], dict[str, str]]:
     text = f"{row.get('fresh_translation', '')} {row.get('brenton_translation', '')}"
     keyword_hits = sorted({match.group(0).lower() for match in KEYWORD_RE.finditer(text)})
     decision_count = int(row.get("decision_count", "0") or "0")
@@ -297,6 +371,7 @@ def score_row(
     )
     english_bonus, english_meta = english_witness_info(row, english_map)
     nt_english_bonus, nt_english_meta = nt_english_witness_info(nt_families, nt_refs, nt_english_map)
+    logos_local_bonus, logos_local_meta = logos_local_info(row, families_by_ref, logos_local_map)
 
     score = 0
     score += IMPORTANCE_SCORE.get(importance, 0)
@@ -307,6 +382,7 @@ def score_row(
     score += crossref_bonus
     score += english_bonus
     score += nt_english_bonus
+    score += logos_local_bonus
     score += 0 if row.get("same_normalized", "") == "yes" else 1
 
     reasons: list[str] = []
@@ -354,6 +430,14 @@ def score_row(
         reasons.append(f"nt_eng_reco={nt_english_meta['nt_english_recommendation']}")
     if nt_english_meta["nt_english_signals"]:
         reasons.append("nt_eng_flags=" + nt_english_meta["nt_english_signals"])
+    if logos_local_meta["logos_local_checked"] != "0":
+        reasons.append(f"logos={logos_local_meta['logos_local_checked']}")
+    if logos_local_meta["logos_local_recommendation"]:
+        reasons.append(f"logos_reco={logos_local_meta['logos_local_recommendation']}")
+    if logos_local_meta["logos_local_signals"]:
+        reasons.append("logos_flags=" + logos_local_meta["logos_local_signals"])
+    if logos_local_meta["logos_local_supports"]:
+        reasons.append("logos_support=" + logos_local_meta["logos_local_supports"])
 
     return (
         score,
@@ -366,6 +450,7 @@ def score_row(
         crossref_shared_family_hits,
         english_meta,
         nt_english_meta,
+        logos_local_meta,
     )
 
 
@@ -379,6 +464,7 @@ def build_priority_rows(
     crossrefs_by_ref: dict[str, list[dict[str, str]]],
     english_map: dict[str, dict[str, str]],
     nt_english_map: dict[tuple[str, str], dict[str, str]],
+    logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
 ) -> list[dict[str, str]]:
     grouped: dict[str, list[tuple[int, int, dict[str, str], list[str], list[str]]]] = defaultdict(list)
     for index, row in enumerate(rows):
@@ -393,7 +479,17 @@ def build_priority_rows(
             crossref_shared_family_hits,
             english_meta,
             nt_english_meta,
-        ) = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref, english_map, nt_english_map)
+            logos_local_meta,
+        ) = score_row(
+            row,
+            source_by_ref,
+            nt_map,
+            families_by_ref,
+            crossrefs_by_ref,
+            english_map,
+            nt_english_map,
+            logos_local_map,
+        )
         if score < min_score:
             continue
         enriched = dict(row)
@@ -405,6 +501,7 @@ def build_priority_rows(
         enriched["crossref_shared_family_hits"] = str(crossref_shared_family_hits)
         enriched.update(english_meta)
         enriched.update(nt_english_meta)
+        enriched.update(logos_local_meta)
         grouped[row["book_name"]].append((score, index, enriched, keyword_hits, reasons))
 
     selected: list[tuple[int, dict[str, str], list[str], list[str]]] = []
@@ -426,7 +523,17 @@ def build_priority_rows(
             _,
             english_meta,
             nt_english_meta,
-        ) = score_row(row, source_by_ref, nt_map, families_by_ref, crossrefs_by_ref, english_map, nt_english_map)
+            logos_local_meta,
+        ) = score_row(
+            row,
+            source_by_ref,
+            nt_map,
+            families_by_ref,
+            crossrefs_by_ref,
+            english_map,
+            nt_english_map,
+            logos_local_map,
+        )
         out_rows.append(
             {
                 "ref": row["ref"],
@@ -457,6 +564,13 @@ def build_priority_rows(
                 "nt_english_mixed": nt_english_meta.get("nt_english_mixed", "0"),
                 "nt_english_signals": nt_english_meta.get("nt_english_signals", ""),
                 "nt_english_recommendation": nt_english_meta.get("nt_english_recommendation", ""),
+                "logos_local_checked": logos_local_meta.get("logos_local_checked", "0"),
+                "logos_local_scopes": logos_local_meta.get("logos_local_scopes", ""),
+                "logos_local_source_tools": logos_local_meta.get("logos_local_source_tools", ""),
+                "logos_local_signals": logos_local_meta.get("logos_local_signals", ""),
+                "logos_local_supports": logos_local_meta.get("logos_local_supports", ""),
+                "logos_local_confidence": logos_local_meta.get("logos_local_confidence", ""),
+                "logos_local_recommendation": logos_local_meta.get("logos_local_recommendation", ""),
                 "keyword_hits": ", ".join(keyword_hits),
                 "reasons": "; ".join(reasons),
                 "fresh_translation": row["fresh_translation"],
@@ -517,6 +631,17 @@ def build_markdown(rows: list[dict[str, str]], per_book_limit: int, min_score: i
                 lines.append(f"- nt english recommendation: {row['nt_english_recommendation']}")
             if row.get("nt_english_signals"):
                 lines.append(f"- nt english signals: {row['nt_english_signals']}")
+            if row.get("logos_local_checked") not in {"", "0"}:
+                lines.append(
+                    "- logos local: "
+                    f"checked {row['logos_local_checked']}, "
+                    f"supports {row.get('logos_local_supports', '[none]') or '[none]'}, "
+                    f"confidence {row.get('logos_local_confidence', 'none') or 'none'}"
+                )
+            if row.get("logos_local_recommendation"):
+                lines.append(f"- logos local recommendation: {row['logos_local_recommendation']}")
+            if row.get("logos_local_signals"):
+                lines.append(f"- logos local signals: {row['logos_local_signals']}")
             if row.get("crossref_top_vote") not in {"", "0"}:
                 lines.append(f"- crossref top vote: {row['crossref_top_vote']}")
             if row.get("crossref_shared_family_hits") not in {"", "0"}:
@@ -547,6 +672,7 @@ def main() -> None:
     parser.add_argument("--nt-idioms", default=str(DEFAULT_NT_IDIOMS))
     parser.add_argument("--nt-english-witness", default=str(DEFAULT_NT_ENGLISH_WITNESS))
     parser.add_argument("--english-witness", default=str(DEFAULT_ENGLISH_WITNESS))
+    parser.add_argument("--logos-local", default=str(DEFAULT_LOGOS_LOCAL))
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--csv-output", default=str(DEFAULT_CSV))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
@@ -559,6 +685,7 @@ def main() -> None:
     nt_map = load_nt_parallels(Path(args.nt_idioms))
     nt_english_map = load_nt_english_witness(Path(args.nt_english_witness))
     english_map = load_english_witness(Path(args.english_witness))
+    logos_local_map = load_logos_local(Path(args.logos_local))
     families_by_ref = family_map(source_by_ref)
     crossrefs_by_ref = load_openbible_crossrefs()
     priority_rows = build_priority_rows(
@@ -571,6 +698,7 @@ def main() -> None:
         crossrefs_by_ref,
         english_map,
         nt_english_map,
+        logos_local_map,
     )
     if not priority_rows:
         raise SystemExit("No priority rows selected.")
@@ -599,6 +727,9 @@ def main() -> None:
                 ),
                 "rows_with_english_witness_signal": sum(
                     1 for row in priority_rows if row.get("english_witness_checked") not in {"", "0"}
+                ),
+                "rows_with_logos_local_signal": sum(
+                    1 for row in priority_rows if row.get("logos_local_checked") not in {"", "0"}
                 ),
                 "books": sorted({row["book_name"] for row in priority_rows}),
                 "output": str(output_path),

@@ -21,14 +21,14 @@ Selected verses: 6
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
 
 ## 1 Chronicles 16:40
-- score: 13
-- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4
+- score: 18
+- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 22:19
-- score: 15
-- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12
+- score: 17
+- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 

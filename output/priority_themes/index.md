@@ -18,25 +18,25 @@ Themes: 7
 - rows: 78
 - books: 34
 - file: covenant_law_judgment.md
-- top refs: Genesis 18:19, Exodus 28:30, Leviticus 2:13, Numbers 18:19, Nehemiah 10:34
+- top refs: Exodus 28:30, Leviticus 4:31, Genesis 18:19, Isaiah 54:10, Numbers 18:19
 
 ## Theology / Divine Identity
 - rows: 104
 - books: 37
 - file: theology_divine_identity.md
-- top refs: Exodus 20:24, 1 Kings 12:24, 2 Chronicles 12:13, Leviticus 18:21, 1 Samuel 20:42
+- top refs: Exodus 20:24, 1 Kings 12:24, 2 Chronicles 12:13, 2 Samuel 14:17, Leviticus 18:21
 
 ## Ritual / Priesthood
 - rows: 75
 - books: 33
 - file: ritual_priesthood.md
-- top refs: Exodus 20:24, 1 Kings 2:35, Leviticus 3:1, Numbers 18:19, Deuteronomy 16:2
+- top refs: Exodus 20:24, 1 Kings 2:35, Leviticus 7:32, Numbers 18:19, Deuteronomy 16:2
 
 ## Kingship / Messianic
 - rows: 101
 - books: 34
 - file: kingship_messianic.md
-- top refs: Exodus 20:24, 1 Kings 2:35, Leviticus 3:1, 2 Chronicles 12:13, Deuteronomy 2:30
+- top refs: Exodus 20:24, 1 Kings 2:35, Leviticus 7:32, 2 Chronicles 12:13, 2 Samuel 14:17
 
 ## Death / Afterlife
 - rows: 1

@@ -22,7 +22,7 @@ Selected verses: 6
 
 ## Haggai 1:14
 - score: 12
-- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6
+- reasons: importance=medium; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
 - brenton: [missing]
 

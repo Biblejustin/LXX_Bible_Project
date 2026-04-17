@@ -10,13 +10,13 @@ Selected verses: 6
 
 ## Joshua 22:23
 - score: 14
-- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4
+- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
 
 ## Joshua 22:29
 - score: 15
-- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4
+- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
 ## Joshua 24:19
-- score: 13
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8
+- score: 15
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 

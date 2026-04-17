@@ -16,7 +16,7 @@ Selected verses: 6
 
 ## 2 Kings 2:9
 - score: 13
-- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12
+- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
 

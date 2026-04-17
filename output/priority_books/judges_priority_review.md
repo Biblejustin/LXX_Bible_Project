@@ -34,6 +34,6 @@ Selected verses: 6
 
 ## Judges 21:4
 - score: 10
-- reasons: importance=low; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1
+- reasons: importance=low; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
 - brenton: And it came to pass on the morrow that the people rose up early, and built there an altar, and offered up whole-burnt-offerings and peace-offerings.

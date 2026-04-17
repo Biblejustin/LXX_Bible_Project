@@ -4,57 +4,99 @@ Rows: 100
 
 ## Exodus 20:24
 - book: Exodus
-- score: 33
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- score: 35
+- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ## 1 Kings 2:35
 - book: 1 Kings
-- score: 27
-- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5
+- score: 34
+- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:1; eng_reco=needs_logos; eng_flags=lxx_plus, mt_leaning
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-## Genesis 2:7
-- book: Genesis
-- score: 26
-- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
-- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
-
 ## 1 Kings 12:24
 - book: 1 Kings
-- score: 22
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4
+- score: 29
+- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:1; eng_reco=needs_logos; eng_flags=lxx_plus, mt_leaning
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Roboam his son reigned in place of him in Ierousalem, being sixteen years old when he began to reign, and he reigned twelve years in Ierousalem, and the name of his mother was Naanan daughter of Anan son of Naas king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Ieroboam, and his mother's name was Sarira, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Ioseph, and he built for Solomon Sarira in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Sousakim king of Egypt and was with him until Solomon died. And Ieroboam heard in Egypt that Solomon died, and he spoke into the ears of Sousakim king of Egypt, saying, Send me away, and I will depart to my land. And Sousakim said to him, Ask what request and I will give it to you. And Sousakim gave to Ieroboam the elder sister of Thekemina, his own wife, for a wife. She was great among the daughters of the king and bore to Ieroboam Abia his son. And Ieroboam said to Sousakim, Truly send me away, and I will depart. And Ieroboam went out from Egypt and came to the land of Sarira in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Ieroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Selom, and his name was Achias, and he was sixty years old, and the word of the Lord was with him. And Ieroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Achias, and the man was old and his eyes were dim from seeing. And she rose from Sarira and went. And it came to be when she entered the city to Achias the Selonite, Achias said to his young servant, Go out now to meet Ano wife of Ieroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Achias said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Sarira and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Ieroboam one urinating against a wall, and those dying of Ieroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Sarira, the child died and the cry went out to meet her. And Ieroboam went to Sikima in the hill country of Ephraim and gathered there the tribes of Israel, and Roboam son of Solomon went up there. And the word of the Lord came to Samaias the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Ieroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Ieroboam took them, and Samaias said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Roboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Roboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Roboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Roboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Roboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Iessai. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Roboam prevailed and went and mounted his chariot and entered into Ierousalem, and all the scepter of Iouda and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Roboam gathered all the men of Iouda and Benjamin and went up to war against Ieroboam at Sikima. And the word of the Lord came to Samaias the man of God, saying, Speak to Roboam king of Iouda and to all the house of Iouda and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
+## Genesis 2:7
+- book: Genesis
+- score: 28
+- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+## Leviticus 7:32
+- book: Leviticus
+- score: 24
+- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+
 ## 2 Chronicles 12:13
 - book: 2 Chronicles
-- score: 21
-- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- score: 23
+- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
+
+## Leviticus 3:1
+- book: Leviticus
+- score: 23
+- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
+- brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## 2 Samuel 14:17
+- book: 2 Samuel
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
+
+## Exodus 28:30
+- book: Exodus
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
+
+## Exodus 3:2
+- book: Exodus
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Genesis 1:2
 - book: Genesis
 - score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97
+- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
-## Leviticus 3:1
+## Leviticus 4:31
 - book: Leviticus
 - score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3
-- fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
-- brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+- reasons: importance=low; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
+- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## Exodus 6:3
+- book: Exodus
+- score: 20
+- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
+- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Genesis 1:26
 - book: Genesis
 - score: 20
-- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82
+- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
@@ -65,13 +107,6 @@ Rows: 100
 - fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 - brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
 
-## 2 Samuel 14:17
-- book: 2 Samuel
-- score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
 ## Deuteronomy 2:30
 - book: Deuteronomy
 - score: 19
@@ -79,24 +114,17 @@ Rows: 100
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
-## Exodus 28:30
+## Exodus 24:5
 - book: Exodus
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9
-- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
-- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
-
-## Exodus 3:2
-- book: Exodus
-- score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
+- reasons: decisions=1; footnotes=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
+- brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
 
 ## Genesis 18:19
 - book: Genesis
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18
+- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
@@ -113,6 +141,13 @@ Rows: 100
 - reasons: decisions=2; footnotes=1; importance=high; keywords=day one, god; crossref_top_vote=26
 - fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
 - brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
+
+## Isaiah 54:10
+- book: Isaiah
+- score: 19
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
+- brenton: [missing]
 
 ## Leviticus 18:21
 - book: Leviticus
@@ -135,19 +170,12 @@ Rows: 100
 - fresh: if the anointed high priest sins so as to make the people sin, then he shall bring for his sin that he sinned a calf from the cattle, without blemish, to the Lord for his sin.
 - brenton: if the anointed priest sin so as to cause the people to sin, then shall he bring for his sin, which he has sinned, an unblemished calf of the herd to the Lord for his sin.
 
-## Leviticus 4:31
-- book: Leviticus
-- score: 19
-- reasons: importance=low; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2
-- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
-- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
-
-## Leviticus 7:32
-- book: Leviticus
-- score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+## 1 Chronicles 16:40
+- book: 1 Chronicles
+- score: 18
+- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
+- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Samuel 15:22
 - book: 1 Samuel
@@ -170,17 +198,24 @@ Rows: 100
 - fresh: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
 
+## 2 Chronicles 33:16
+- book: 2 Chronicles
+- score: 18
+- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
 ## Deuteronomy 12:21
 - book: Deuteronomy
 - score: 18
-- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=medium; keywords=god, lord, name, soul; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=3; crossref_shared_family=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
 ## Deuteronomy 16:2
 - book: Deuteronomy
 - score: 18
-- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
+- reasons: importance=low; keywords=god, lord, name, sacrifice; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
 
@@ -197,20 +232,6 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, name; crossref_top_vote=39
 - fresh: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
 - brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
-
-## Exodus 24:5
-- book: Exodus
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2
-- fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
-- brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
-
-## Exodus 6:3
-- book: Exodus
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
-- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Nehemiah 10:34
 - book: Nehemiah
@@ -233,6 +254,13 @@ Rows: 100
 - fresh: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 - brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
 
+## 1 Chronicles 22:19
+- book: 1 Chronicles
+- score: 17
+- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
+- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
 ## 1 Kings 8:53
 - book: 1 Kings
 - score: 17
@@ -243,9 +271,16 @@ Rows: 100
 ## 2 Samuel 23:1
 - book: 2 Samuel
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7
+- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - brenton: And these are the last words of David.
+
+## 2 Samuel 24:25
+- book: 2 Samuel
+- score: 17
+- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, lord, peace; crossref_top_vote=5; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue
+- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
 ## 2 Samuel 7:19
 - book: 2 Samuel
@@ -324,26 +359,12 @@ Rows: 100
 - fresh: And Iōnathan son of Saoul rose and went to David into the New Place and strengthened his hands in the Lord.
 - brenton: And Jonathan son of Saul rose, and went to David to Cæne, and strengthened his hands in the Lord.
 
-## 2 Chronicles 33:16
-- book: 2 Chronicles
-- score: 16
-- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
 ## 2 Kings 1:18
 - book: 2 Kings
 - score: 16
 - reasons: decisions=1; footnotes=1; importance=high; keywords=king, lord, sin; crossref_top_vote=2
 - fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
-
-## 2 Samuel 24:25
-- book: 2 Samuel
-- score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, lord, peace; crossref_top_vote=5
-- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
-- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
 ## Daniel 4:37
 - book: Daniel
@@ -352,19 +373,19 @@ Rows: 100
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. Gods of nations have no power in themselves to turn kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: [missing]
 
-## Isaiah 54:10
-- book: Isaiah
+## Jeremiah 9:23
+- book: Jeremiah
 - score: 16
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56
-- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
+- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
-## 1 Chronicles 22:19
-- book: 1 Chronicles
-- score: 15
-- reasons: importance=medium; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12
-- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
-- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+## Micah 5:3
+- book: Micah
+- score: 16
+- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
+- brenton: [missing]
 
 ## 1 Samuel 2:10
 - book: 1 Samuel
@@ -383,7 +404,7 @@ Rows: 100
 ## 2 Chronicles 9:8
 - book: 2 Chronicles
 - score: 15
-- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness; crossref_top_vote=5
+- reasons: importance=low; keywords=god, judgment, justice, king, lord, righteousness; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
@@ -411,7 +432,7 @@ Rows: 100
 ## Isaiah 12:2
 - book: Isaiah
 - score: 15
-- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54
+- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
@@ -432,7 +453,7 @@ Rows: 100
 ## Joshua 22:29
 - book: Joshua
 - score: 15
-- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4
+- reasons: importance=medium; keywords=altar, being, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
@@ -443,10 +464,17 @@ Rows: 100
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
 
+## Joshua 24:19
+- book: Joshua
+- score: 15
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
+- brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
 ## Micah 6:8
 - book: Micah
 - score: 15
-- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186
+- reasons: importance=medium; keywords=god, judgment, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: [missing]
 
@@ -509,7 +537,7 @@ Rows: 100
 ## Joshua 22:23
 - book: Joshua
 - score: 14
-- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4
+- reasons: importance=low; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
 
@@ -533,13 +561,6 @@ Rows: 100
 - reasons: importance=low; keywords=glory, god, holy, name, salvation; crossref_top_vote=8
 - fresh: And say, Save us, God of our salvation, and deliver us from nations, to praise your holy name and to boast in your praises.
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
-
-## 1 Chronicles 16:40
-- book: 1 Chronicles
-- score: 13
-- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4
-- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
-- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 1 Chronicles 28:9
 - book: 1 Chronicles
@@ -579,7 +600,7 @@ Rows: 100
 ## 2 Kings 2:9
 - book: 2 Kings
 - score: 13
-- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12
+- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
 
@@ -600,29 +621,8 @@ Rows: 100
 ## Jeremiah 4:2
 - book: Jeremiah
 - score: 13
-- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8
+- reasons: importance=low; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
-- brenton: [missing]
-
-## Jeremiah 9:23
-- book: Jeremiah
-- score: 13
-- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57
-- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
-- brenton: [missing]
-
-## Joshua 24:19
-- book: Joshua
-- score: 13
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
-- brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
-
-## Micah 5:3
-- book: Micah
-- score: 13
-- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11
-- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 
 ## Nehemiah 1:5

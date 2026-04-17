@@ -10,7 +10,7 @@ Selected verses: 6
 
 ## Isaiah 12:2
 - score: 15
-- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54
+- reasons: importance=low; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: [missing]
 
@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Isaiah 54:10
-- score: 16
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56
+- score: 19
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 

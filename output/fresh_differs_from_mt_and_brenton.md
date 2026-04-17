@@ -3,7 +3,7 @@
 Rows: 12239
 
 ## Exodus 20:24
-- priority: `33`
+- priority: `35`
 - importance: `high`
 - fresh_mt_ratio: `0.092`
 - fresh_brenton_ratio: `0.426`
@@ -12,7 +12,7 @@ Rows: 12239
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ## 1 Kings 2:35
-- priority: `27`
+- priority: `34`
 - importance: `high`
 - fresh_mt_ratio: `0.081`
 - fresh_brenton_ratio: `0.017`
@@ -20,17 +20,8 @@ Rows: 12239
 - mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-## Genesis 2:7
-- priority: `26`
-- importance: `high`
-- fresh_mt_ratio: `0.808`
-- fresh_brenton_ratio: `0.944`
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
-- mt: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
-- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
-
 ## 1 Kings 12:24
-- priority: `22`
+- priority: `29`
 - importance: `high`
 - fresh_mt_ratio: `0.027`
 - fresh_brenton_ratio: `0.014`
@@ -38,14 +29,59 @@ Rows: 12239
 - mt: Thus says the LORD, All of you shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
+## Genesis 2:7
+- priority: `28`
+- importance: `high`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.944`
+- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- mt: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+- brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+## Leviticus 7:32
+- priority: `24`
+- importance: `high`
+- fresh_mt_ratio: `0.505`
+- fresh_brenton_ratio: `0.735`
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- mt: And the right shoulder shall all of you give unto the priest for an heave offering of the sacrifices of your peace offerings.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+
 ## 2 Chronicles 12:13
-- priority: `21`
+- priority: `23`
 - importance: `high`
 - fresh_mt_ratio: `0.112`
 - fresh_brenton_ratio: `0.097`
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - mt: So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
+
+## Leviticus 3:1
+- priority: `23`
+- importance: `high`
+- fresh_mt_ratio: `0.756`
+- fresh_brenton_ratio: `0.776`
+- fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
+- mt: And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.
+- brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## Leviticus 4:31
+- priority: `21`
+- importance: `low`
+- fresh_mt_ratio: `0.063`
+- fresh_brenton_ratio: `0.067`
+- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
+- mt: And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.
+- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## Exodus 28:30
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.091`
+- fresh_brenton_ratio: `0.476`
+- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
+- mt: And you shall put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goes in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
+- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
 ## Genesis 1:2
 - priority: `21`
@@ -56,14 +92,23 @@ Rows: 12239
 - mt: And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
-## Leviticus 3:1
+## 2 Samuel 14:17
 - priority: `21`
 - importance: `high`
-- fresh_mt_ratio: `0.756`
-- fresh_brenton_ratio: `0.776`
-- fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
-- mt: And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.
-- brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+- fresh_mt_ratio: `0.796`
+- fresh_brenton_ratio: `0.815`
+- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
+
+## Exodus 3:2
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.826`
+- fresh_brenton_ratio: `0.870`
+- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- mt: And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
+- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Genesis 1:26
 - priority: `20`
@@ -74,14 +119,14 @@ Rows: 12239
 - mt: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
-## Leviticus 4:31
-- priority: `19`
-- importance: `low`
-- fresh_mt_ratio: `0.063`
-- fresh_brenton_ratio: `0.067`
-- fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
-- mt: And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.
-- brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+## Exodus 6:3
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.741`
+- fresh_brenton_ratio: `0.692`
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
+- mt: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.
+- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Leviticus 2:13
 - priority: `19`
@@ -91,15 +136,6 @@ Rows: 12239
 - fresh: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
 - mt: And every oblation of your food offering shall you season with salt; neither shall you suffer the salt of the covenant of your God to be lacking from your food offering: with all yours offerings you shall offer salt.
 - brenton: And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.
-
-## Exodus 28:30
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.091`
-- fresh_brenton_ratio: `0.476`
-- fresh: And you shall put on the breastpiece of judgments the Manifestation and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
-- mt: And you shall put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goes in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
-- brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
 ## 1 Samuel 20:42
 - priority: `19`
@@ -128,15 +164,6 @@ Rows: 12239
 - mt: And you shall not let any of your seed pass through the fire to Molech, neither shall you profane the name of your God: I am the LORD.
 - brenton: And thou shalt not give of thy seed to serve a ruler; and thou shalt not profane my holy name; I am the Lord.
 
-## Leviticus 7:32
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.505`
-- fresh_brenton_ratio: `0.735`
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- mt: And the right shoulder shall all of you give unto the priest for an heave offering of the sacrifices of your peace offerings.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
-
 ## Leviticus 4:3
 - priority: `19`
 - importance: `high`
@@ -155,14 +182,14 @@ Rows: 12239
 - mt: But Sihon king of Heshbon would not let us pass by him: for the LORD your God hardened his spirit, and made his heart obstinate, that he might deliver him into your hand, as appears this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
-## 2 Samuel 14:17
+## Exodus 24:5
 - priority: `19`
 - importance: `high`
-- fresh_mt_ratio: `0.796`
-- fresh_brenton_ratio: `0.815`
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
+- fresh_mt_ratio: `0.782`
+- fresh_brenton_ratio: `0.835`
+- fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
+- mt: And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
+- brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
 
 ## Genesis 1:1
 - priority: `19`
@@ -172,15 +199,6 @@ Rows: 12239
 - fresh: At the beginning, God made heaven and earth.
 - mt: In the beginning God created the heaven and the earth.
 - brenton: In the beginning God made the heaven and the earth.
-
-## Exodus 3:2
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.826`
-- fresh_brenton_ratio: `0.870`
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- mt: And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Genesis 1:5
 - priority: `19`
@@ -254,6 +272,15 @@ Rows: 12239
 - mt: You shall not take the name of the LORD your God in vain: for the LORD will not hold him guiltless that takes his name in vain.
 - brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
+## 2 Chronicles 33:16
+- priority: `18`
+- importance: `low`
+- fresh_mt_ratio: `0.714`
+- fresh_brenton_ratio: `0.777`
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
 ## Deuteronomy 16:2
 - priority: `18`
 - importance: `low`
@@ -262,15 +289,6 @@ Rows: 12239
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
 - mt: You shall therefore sacrifice the passover unto the LORD your God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
-
-## Exodus 6:3
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.741`
-- fresh_brenton_ratio: `0.692`
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
-- mt: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.
-- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Exodus 20:7
 - priority: `18`
@@ -281,15 +299,6 @@ Rows: 12239
 - mt: You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless that takes his name in vain.
 - brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
 
-## Exodus 24:5
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.782`
-- fresh_brenton_ratio: `0.835`
-- fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
-- mt: And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
-- brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
-
 ## 1 Samuel 15:22
 - priority: `18`
 - importance: `high`
@@ -298,6 +307,15 @@ Rows: 12239
 - fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
 - mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
 - brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
+
+## 1 Chronicles 16:40
+- priority: `18`
+- importance: `medium`
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.817`
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
+- mt: To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
+- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## Numbers 7:89
 - priority: `17`
@@ -371,6 +389,24 @@ Rows: 12239
 - mt: And this was yet a small thing in your sight, O Lord GOD; but you have spoken also of your servant's house for a great while to come. And is this the manner of man, O Lord GOD?
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
+## 1 Chronicles 22:19
+- priority: `17`
+- importance: `medium`
+- fresh_mt_ratio: `0.692`
+- fresh_brenton_ratio: `0.534`
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
+- mt: Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
+- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 2 Samuel 24:25
+- priority: `17`
+- importance: `high`
+- fresh_mt_ratio: `0.732`
+- fresh_brenton_ratio: `0.614`
+- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
+- mt: And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was implored for the land, and the plague was stayed from Israel.
+- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
+
 ## 2 Samuel 23:1
 - priority: `17`
 - importance: `high`
@@ -415,24 +451,6 @@ Rows: 12239
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - mt: Give therefore your servant an understanding heart to judge your people, that I may discern between good and bad: for who is able to judge this your so great a people?
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?
-
-## 2 Chronicles 33:16
-- priority: `16`
-- importance: `low`
-- fresh_mt_ratio: `0.714`
-- fresh_brenton_ratio: `0.777`
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
-## 2 Samuel 24:25
-- priority: `16`
-- importance: `high`
-- fresh_mt_ratio: `0.732`
-- fresh_brenton_ratio: `0.614`
-- fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
-- mt: And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was implored for the land, and the plague was stayed from Israel.
-- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
 ## 1 Samuel 23:16
 - priority: `16`
@@ -506,14 +524,14 @@ Rows: 12239
 - mt: And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
 
-## 1 Chronicles 22:19
+## Joshua 24:19
 - priority: `15`
 - importance: `medium`
-- fresh_mt_ratio: `0.692`
-- fresh_brenton_ratio: `0.534`
-- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
-- mt: Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
-- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+- fresh_mt_ratio: `0.755`
+- fresh_brenton_ratio: `0.812`
+- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
+- mt: And Joshua said unto the people, All of you cannot serve the LORD: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
+- brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## 2 Samuel 12:13
 - priority: `15`
@@ -595,24 +613,6 @@ Rows: 12239
 - fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 - mt: And said, I plead to you, O LORD God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:
 - brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
-
-## Joshua 24:19
-- priority: `13`
-- importance: `medium`
-- fresh_mt_ratio: `0.755`
-- fresh_brenton_ratio: `0.812`
-- fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
-- mt: And Joshua said unto the people, All of you cannot serve the LORD: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
-- brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
-
-## 1 Chronicles 16:40
-- priority: `13`
-- importance: `medium`
-- fresh_mt_ratio: `0.805`
-- fresh_brenton_ratio: `0.817`
-- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
-- mt: To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
-- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 2 Chronicles 6:20
 - priority: `13`
