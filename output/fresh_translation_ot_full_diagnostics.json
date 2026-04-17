@@ -172,13 +172,13 @@
   "variant_rows": 48,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 618,
-    "reviewed": 6
+    "drafted": 612,
+    "reviewed": 13
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 525,
-    "reviewed": 6
+    "drafted": 522,
+    "reviewed": 11
   },
   "chapters": [
     "1",
