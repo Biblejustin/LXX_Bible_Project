@@ -31,12 +31,12 @@ Syntax notes: Fronted temporal phrase. Aorist main verb. Paired direct objects f
 Draft translation: At the beginning, God made heaven and earth.
 
 Decision rows:
-- greek_phrase: Ἐν ἀρχῇ | lemma: ἐν | ἀρχή | morphology: preposition + dative noun | chosen_rendering: at the beginning | alternate_renderings: in beginning; at first | rationale: Natural English for a fronted temporal opening phrase. | status: drafted
-- greek_phrase: ἐποίησεν | lemma: ποιέω | morphology: aorist active indicative 3 singular | chosen_rendering: made | alternate_renderings: did; fashioned | rationale: Keeps the verb broad and direct without importing later technical wording. | status: drafted
-- greek_phrase: τὸν οὐρανὸν καὶ τὴν γῆν | lemma: οὐρανός | γῆ | morphology: accusative singular objects | chosen_rendering: heaven and earth | alternate_renderings: the sky and the earth; sky and land | rationale: In this paired expression the phrase works as a cosmic merism, so heaven and earth carries the full range better. | status: drafted
+- greek_phrase: Ἐν ἀρχῇ | lemma: ἐν | ἀρχή | morphology: preposition + dative noun | chosen_rendering: at the beginning | alternate_renderings: in beginning; at first | rationale: Natural English for a fronted temporal opening phrase. Direct Logos export shows NETS and LES and LES2 all keep beginning-language here. | status: reviewed
+- greek_phrase: ἐποίησεν | lemma: ποιέω | morphology: aorist active indicative 3 singular | chosen_rendering: made | alternate_renderings: did; fashioned | rationale: Keeps the verb broad and direct without importing later technical wording. Direct Logos export shows NETS and LES and LES2 keep made rather than narrowing to created. | status: reviewed
+- greek_phrase: τὸν οὐρανὸν καὶ τὴν γῆν | lemma: οὐρανός | γῆ | morphology: accusative singular objects | chosen_rendering: heaven and earth | alternate_renderings: the sky and the earth; sky and land | rationale: In this paired expression the phrase works as a cosmic merism, so heaven and earth carries the full range better. Direct Logos export shows the LXX English witnesses stay close to this heaven-and-earth pair. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: heaven and earth | footnote_text: The Greek phrase can function as a totality expression, referring to the whole ordered world rather than only the sky above and the soil below. | source_basis: lexical + idiom | status: drafted
+- note_type: translation | trigger_phrase: heaven and earth | footnote_text: The Greek phrase can function as a totality expression, referring to the whole ordered world rather than only the sky above and the soil below. Direct Logos export shows NETS and LES and LES2 keep this heaven-and-earth pairing close to the Greek line. | source_basis: lexical + idiom + witnesses | status: reviewed
 
 Logos research:
 - greek_phrase: τὸν οὐρανὸν καὶ τὴν γῆν | lemma: οὐρανός | γῆ | resource: LLS:FBLXXLEX | usage_note: Check whether the pair functions as a standard cosmic merism in LXX usage. | next_action: verify heaven vs sky
@@ -55,11 +55,11 @@ Draft translation: Now the earth was unseen and unformed, darkness was over the 
 Decision rows:
 - greek_phrase: ἀόρατος καὶ ἀκατασκεύαστος | lemma: ἀόρατος | ἀκατασκεύαστος | morphology: nominative feminine singular adjectives | chosen_rendering: unseen and unformed | alternate_renderings: invisible and unprepared; unformed and unready | rationale: Preserves the double description and keeps the line concrete. | status: drafted
 - greek_phrase: σκότος ἐπάνω τῆς ἀβύσσου | lemma: σκότος | ἐπάνω | ἄβυσσος | morphology: noun + preposition + genitive phrase | chosen_rendering: darkness was over the abyss | alternate_renderings: darkness lay over the abyss; darkness was over the deep | rationale: Abyss stays closer to abyssos while the clause remains plain and unforced. | status: drafted
-- greek_phrase: πνεῦμα Θεοῦ ἐπεφέρετο | lemma: πνεῦμα | θεός | ἐπιφέρω | morphology: nominative noun + genitive noun + imperfect middle/passive 3 singular | chosen_rendering: the Spirit of God moved | alternate_renderings: a wind from God was moving; God's breath-wind moved | rationale: In this creation context, both the Hebrew and the Greek are best taken as Spirit rather than a merely meteorological wind. The rendering keeps the theological force of the line explicit. | status: drafted
+- greek_phrase: πνεῦμα Θεοῦ ἐπεφέρετο | lemma: πνεῦμα | θεός | ἐπιφέρω | morphology: nominative noun + genitive noun + imperfect middle/passive 3 singular | chosen_rendering: the Spirit of God moved | alternate_renderings: a wind from God was moving; God's breath-wind moved | rationale: In this creation context, both the Hebrew and the Greek are best taken as Spirit rather than merely meteorological wind. Local Logos word-sense evidence also supports Spirit of God here rather than wind. | status: reviewed
 - greek_phrase: ἐπάνω τοῦ ὕδατος | lemma: ἐπάνω | ὕδωρ | morphology: preposition + genitive noun | chosen_rendering: over the water | alternate_renderings: above the waters | rationale: Greek uses singular hydatos as a mass noun here. | status: drafted
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: the Spirit of God | footnote_text: Greek pneuma can mean wind, breath, or spirit, but in this creation context the line is best read as the Spirit of God rather than a merely meteorological wind. | source_basis: lexical + context + theology | status: drafted
+- note_type: translation | trigger_phrase: the Spirit of God | footnote_text: Greek pneuma can mean wind, breath, or spirit, but in this creation context the line is best read as the Spirit of God rather than merely meteorological wind. Local Logos word-sense evidence supports that reading. | source_basis: lexical + context + theology + Logos | status: reviewed
 
 Logos research:
 - greek_phrase: πνεῦμα Θεοῦ | lemma: πνεῦμα | θεός | resource: LLS:FBLXXLEX | usage_note: Check whether the immediate context pushes pneuma toward wind, breath, or Spirit. | next_action: verify wind vs Spirit
@@ -544,11 +544,11 @@ Syntax notes: The verse shifts from singular ἄνθρωπον to plural rule la
 Draft translation: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 
 Decision rows:
-- greek_phrase: ἄνθρωπον | lemma: ἄνθρωπος | morphology: accusative singular noun | chosen_rendering: humankind | alternate_renderings: human; the human | rationale: Collective English handles the verse's singular-to-plural shift best for now. | status: drafted
-- greek_phrase: κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν | lemma: εἰκών | ὁμοίωσις | morphology: paired prepositional phrases | chosen_rendering: according to our image and according to likeness | alternate_renderings: in our image and likeness | rationale: Keeps both nouns audible instead of collapsing them too quickly. | status: drafted
+- greek_phrase: ἄνθρωπον | lemma: ἄνθρωπος | morphology: accusative singular noun | chosen_rendering: humankind | alternate_renderings: human; the human | rationale: Collective English handles the verse's singular-to-plural shift best. Direct Logos export shows NETS and LES and LES2 all support this collective singular-to-plural movement better than a flat individual noun. | status: reviewed
+- greek_phrase: κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν | lemma: εἰκών | ὁμοίωσις | morphology: paired prepositional phrases | chosen_rendering: according to our image and according to likeness | alternate_renderings: in our image and likeness | rationale: Keeps both nouns audible instead of collapsing them too quickly. Direct Logos export shows NETS and LES and LES2 all preserve the pair rather than reducing it to one blended phrase. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: image and likeness | footnote_text: The Greek keeps both 'image' and 'likeness' rather than using only one term. This draft preserves the pair and leaves their exact relation open for later study. | source_basis: lexical + discourse | status: drafted
+- note_type: translation | trigger_phrase: image and likeness | footnote_text: The Greek keeps both image and likeness rather than using only one term. This draft preserves the pair, and direct Logos export shows NETS and LES and LES2 keep both nouns audible as well. | source_basis: lexical + discourse + witnesses | status: reviewed
 
 Logos research:
 - greek_phrase: ἄνθρωπον / εἰκών / ὁμοίωσις | lemma: ἄνθρωπος | εἰκών | ὁμοίωσις | resource: LLS:FBLXXLEX | usage_note: Check singular-to-plural movement and relation between image and likeness in Genesis 1 Greek. | next_action: verify humankind image wording
@@ -8944,10 +8944,10 @@ Syntax notes: [TODO]
 Draft translation: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
 
 Decision rows:
-- greek_phrase: ᾔδειν γὰρ ὅτι συντάξει | lemma: οἶδα | συντάσσω | morphology: pluperfect active indicative 1 singular + future active indicative 3 singular | chosen_rendering: For I knew him, that he will direct | alternate_renderings: For I have known him, that he will command; For I chose him, that he will order | rationale: Keeps the knowing-language visible before narrowing it to a more interpretive election or command formula. | status: drafted
+- greek_phrase: ᾔδειν γὰρ ὅτι συντάξει | lemma: οἶδα | συντάσσω | morphology: pluperfect active indicative 1 singular + future active indicative 3 singular | chosen_rendering: For I knew him, that he will direct | alternate_renderings: For I have known him, that he will command; For I chose him, that he will order | rationale: Keeps the knowing-language visible before narrowing it to a more interpretive election or command formula. Direct Logos export shows NETS and LES and LES2 stay much nearer knowing-language than MT-facing chosen-language. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: I knew him | footnote_text: The Greek says I knew him before moving to Abraham's household calling. This draft keeps that knowing-language visible rather than deciding too quickly between chose, singled out, or commanded. | source_basis: lexical + covenant theology | status: drafted
+- note_type: translation | trigger_phrase: I knew him | footnote_text: The Greek says I knew him before moving to Abraham's household calling. This draft keeps that knowing-language visible rather than deciding too quickly between chose, singled out, or commanded. Direct Logos export shows NETS and LES and LES2 stay nearer this knowing-language than MT-facing chosen-language. | source_basis: lexical + covenant theology + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -33284,10 +33284,10 @@ Syntax notes: [TODO]
 Draft translation: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 
 Decision rows:
-- greek_phrase: τὸ ὄνομά μου κύριος οὐκ ἐδήλωσα αὐτοῖς | lemma: ὄνομα | κύριος | δηλόω | morphology: accusative phrase | chosen_rendering: my name Lord I did not make known to them | alternate_renderings: I did not reveal my name Lord to them | rationale: Preserves the tension of the Greek wording without prematurely solving the theological problem. | status: drafted
+- greek_phrase: τὸ ὄνομά μου κύριος οὐκ ἐδήλωσα αὐτοῖς | lemma: ὄνομα | κύριος | δηλόω | morphology: accusative phrase | chosen_rendering: my name Lord I did not make known to them | alternate_renderings: I did not reveal my name Lord to them | rationale: Preserves the tension of the Greek wording without prematurely solving the theological problem. Direct Logos export shows NETS and LES and LES2 all stay near this make-known wording rather than smoothing it away. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: my name Lord I did not make known to them | footnote_text: This Greek wording creates a real interpretive problem because the divine name appears earlier in the narrative. The draft keeps the tension visible for later theological and textual review. | source_basis: theology + textual | status: drafted
+- note_type: translation | trigger_phrase: my name Lord I did not make known to them | footnote_text: This Greek wording creates a real interpretive problem because the divine name appears earlier in the narrative. The draft keeps the tension visible, and direct Logos export shows NETS and LES and LES2 all stay near the make-known wording rather than smoothing it away. | source_basis: theology + textual + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -171610,10 +171610,10 @@ Syntax notes: [TODO]
 Draft translation: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 
 Decision rows:
-- greek_phrase: πιστὸς Δαυιδ ... καὶ εὐπρεπεῖς ψαλμοὶ Ἰσραήλ | lemma: πιστός | εὐπρεπής | morphology: adjectival clauses | chosen_rendering: Faithful is David ... and beautiful are the psalms of Israel | alternate_renderings: Oracle of David; sweet singer of Israel | rationale: Stays close to the Greek adjectives rather than importing a familiar traditional paraphrase. | status: drafted
+- greek_phrase: πιστὸς Δαυιδ ... καὶ εὐπρεπεῖς ψαλμοὶ Ἰσραήλ | lemma: πιστός | εὐπρεπής | morphology: adjectival clauses | chosen_rendering: Faithful is David ... and beautiful are the psalms of Israel | alternate_renderings: Oracle of David; sweet singer of Israel | rationale: Stays close to the Greek adjectives rather than importing familiar traditional paraphrase. Direct Logos export shows NETS and LES and LES2 and SAAS all preserve the faithful-language side of the line. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: Faithful is David ... and beautiful are the psalms of Israel | footnote_text: The draft stays close to the Greek adjectives in this difficult opening line rather than importing a more familiar traditional paraphrase. | source_basis: syntax + rhetoric | status: drafted
+- note_type: translation | trigger_phrase: Faithful is David ... and beautiful are the psalms of Israel | footnote_text: The draft stays close to the Greek adjectives in this difficult opening line rather than importing familiar traditional paraphrase. Direct Logos export shows NETS and LES and LES2 and SAAS preserve this faithful-language side of the verse. | source_basis: syntax + rhetoric + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -188584,10 +188584,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 
 Decision rows:
-- greek_phrase: διπλᾶ ἐν πνεύματί σου | lemma: διπλοῦς | πνεῦμα | morphology: adjective with dative noun | chosen_rendering: double things of your spirit | alternate_renderings: a double share of your spirit | rationale: The draft keeps the Greek doubling expression visible instead of resolving it immediately into the later inheritance idiom. | status: drafted
+- greek_phrase: διπλᾶ ἐν πνεύματί σου | lemma: διπλοῦς | πνεῦμα | morphology: adjective with dative noun | chosen_rendering: double things of your spirit | alternate_renderings: a double share of your spirit | rationale: The draft keeps the Greek doubling expression visible instead of resolving it immediately into later inheritance idiom. Direct Logos export shows NETS and LES and LES2 and SAAS all preserve the twofold language rather than smoothing it away. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: double things of your spirit | footnote_text: The Greek keeps a doubling expression here. This draft leaves that wording visible instead of reducing it immediately to a smoother inheritance idiom. | source_basis: lexical + succession | status: drafted
+- note_type: translation | trigger_phrase: double things of your spirit | footnote_text: The Greek keeps a doubling expression here. This draft leaves that wording visible instead of reducing it immediately to smoother inheritance idiom. Direct Logos export shows NETS and LES and LES2 and SAAS preserve the twofold language as well. | source_basis: lexical + succession + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
