@@ -9,8 +9,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Zechariah 7:9
-- score: 13
-- reasons: importance=low; keywords=compassion, judgment, lord, mercy, righteous; crossref_top_vote=12
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=compassion, judgment, lord, mercy, righteous; crossref_top_vote=12; eng_reco=keep; reco=keep
 - fresh: Thus says Lord Almighty: Judge righteous judgment, and do mercy and compassion, each toward his brother.
 - brenton: [missing]
 
@@ -21,8 +21,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Zechariah 12:10
-- score: 15
-- reasons: importance=medium; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34
+- score: 22
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
 - fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: [missing]
 

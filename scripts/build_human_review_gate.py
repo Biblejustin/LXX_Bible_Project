@@ -132,7 +132,7 @@ def main() -> None:
             enriched = dict(row)
             enriched["gate_reason"] = "; ".join(phase1_reasons)
             phase1_rows.append(enriched)
-        if (nt_count > 0 or nt_english_checked > 0) and score >= 10:
+        if (nt_count > 0 or nt_english_checked > 0) and score >= 10 and consensus_reco != "keep":
             enriched = dict(row)
             parts = []
             if nt_count > 0:
@@ -147,6 +147,9 @@ def main() -> None:
     for row in mt_rows:
         score = int(row.get("priority_score") or 0)
         if score < 12:
+            continue
+        priority_match = next((item for item in priority_rows if item["ref"] == row["ref"]), None)
+        if priority_match and priority_match.get("consensus_recommendation", "") == "keep":
             continue
         enriched = dict(row)
         enriched["gate_reason"] = "mt-leaning score>=12"

@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Habakkuk 2:4
-- score: 12
-- reasons: importance=medium; keywords=faith, righteous, soul; crossref_top_vote=68
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=faith, righteous, soul; crossref_top_vote=68; eng_reco=keep; reco=keep
 - fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 - brenton: [missing]
 

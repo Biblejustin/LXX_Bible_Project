@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 4:13
-- score: 13
-- reasons: importance=medium; keywords=anointed, god, lord, name, wind; crossref_top_vote=16
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord, name, wind; crossref_top_vote=16; eng_reco=keep; reco=keep
 - fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: [missing]
 
@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 9:1
-- score: 12
-- reasons: importance=medium; keywords=altar, being, lord, mercy; crossref_top_vote=5
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
 - fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
 - brenton: [missing]
 

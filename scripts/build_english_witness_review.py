@@ -62,12 +62,15 @@ def summarize_row(row: dict[str, str], priority_by_ref: dict[str, dict[str, str]
     watch = False
     if recommendation in {"revise", "needs_logos", "defer"}:
         watch = True
-    if fresh_support == 0 and (brenton_support > 0 or mt_support > 0 or differs_all > 0):
-        watch = True
-    if differs_all > 0 or split_or_mixed > 0:
-        watch = True
-    if signal_values:
-        watch = True
+    elif recommendation == "keep":
+        watch = False
+    else:
+        if fresh_support == 0 and (brenton_support > 0 or mt_support > 0 or differs_all > 0):
+            watch = True
+        if differs_all > 0 or split_or_mixed > 0:
+            watch = True
+        if signal_values:
+            watch = True
 
     return {
         "ref": row["ref"],

@@ -3,8 +3,8 @@
 Selected verses: 6
 
 ## Job 1:1
-- score: 12
-- reasons: importance=medium; keywords=god, name, righteous; crossref_top_vote=51
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, name, righteous; crossref_top_vote=51; eng_reco=keep; reco=keep
 - fresh: There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: [missing]
 

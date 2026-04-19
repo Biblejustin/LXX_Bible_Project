@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Ezekiel 39:25
-- score: 12
-- reasons: importance=low; keywords=god, holy, lord, mercy, name; crossref_top_vote=6
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
 - fresh: Therefore thus says Lord God: Now I will turn back captivity of Jacob and have mercy on house of Israel and be jealous for my holy name.
 - brenton: [missing]
 
