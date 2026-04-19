@@ -82,8 +82,8 @@ Rows: 16
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `none`
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- recommendation: `keep`
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## Exodus 28:30
@@ -99,20 +99,6 @@ Rows: 16
 - recommendation: `none`
 - fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
-
-## Exodus 3:2
-- priority: `21`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `1`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `1`
-- signals: unclear
-- recommendation: `none`
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Leviticus 4:31
 - priority: `21`
@@ -155,6 +141,20 @@ Rows: 16
 - recommendation: `none`
 - fresh: And he sent the young men of the sons of Israel, and they offered whole burnt offerings and sacrificed calves as offerings of salvation to God.
 - brenton: And he sent forth the young men of the children of Israel, and they offered whole burnt-offerings, and they sacrificed young calves as a peace-offering to God.
+
+## Exodus 3:2
+- priority: `19`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `1`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `1`
+- signals: unclear
+- recommendation: `keep`
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## 1 Chronicles 16:40
 - priority: `18`

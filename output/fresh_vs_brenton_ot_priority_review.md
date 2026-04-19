@@ -112,12 +112,13 @@ Use:
 ## Exodus
 
 ### Exodus 3:2
-- score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 17
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - english witness signals: unclear
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ### Exodus 6:3
@@ -278,12 +279,12 @@ Use:
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
 
-### Numbers 22:22
-- score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, lord, messenger; crossref_top_vote=5
+### Numbers 25:13
+- score: 17
+- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5
 - crossref top vote: 5
-- fresh: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
-- brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
+- fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
+- brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
 
 ## Deuteronomy
 
@@ -559,11 +560,12 @@ Use:
 
 ### 2 Samuel 14:17
 - score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 5
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - english witness signals: unclear
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Samuel 15:6

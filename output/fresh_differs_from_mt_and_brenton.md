@@ -95,20 +95,11 @@ Rows: 12239
 ## 2 Samuel 14:17
 - priority: `21`
 - importance: `high`
-- fresh_mt_ratio: `0.796`
-- fresh_brenton_ratio: `0.815`
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.825`
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
-## Exodus 3:2
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.826`
-- fresh_brenton_ratio: `0.870`
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- mt: And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Genesis 1:26
 - priority: `20`
@@ -200,6 +191,15 @@ Rows: 12239
 - mt: In the beginning God created the heaven and the earth.
 - brenton: In the beginning God made the heaven and the earth.
 
+## Exodus 3:2
+- priority: `19`
+- importance: `high`
+- fresh_mt_ratio: `0.840`
+- fresh_brenton_ratio: `0.906`
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- mt: And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
+- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
+
 ## Genesis 1:5
 - priority: `19`
 - importance: `high`
@@ -253,15 +253,6 @@ Rows: 12239
 - fresh: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 - mt: And David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
-
-## Numbers 22:22
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.686`
-- fresh_brenton_ratio: `0.770`
-- fresh: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
-- mt: And God's anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
-- brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
 
 ## Deuteronomy 5:11
 - priority: `18`
@@ -415,6 +406,15 @@ Rows: 12239
 - fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 - brenton: And these are the last words of David.
+
+## Numbers 25:13
+- priority: `17`
+- importance: `high`
+- fresh_mt_ratio: `0.869`
+- fresh_brenton_ratio: `0.799`
+- fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
+- mt: And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
+- brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
 
 ## 1 Kings 2:46
 - priority: `16`
@@ -4137,8 +4137,8 @@ Rows: 12239
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.052`
-- fresh_brenton_ratio: `0.045`
-- fresh: And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
+- fresh_brenton_ratio: `0.059`
+- fresh: And the donkey, seeing the angel of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 - mt: And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam stroke the ass, to turn her into the way.
 - brenton: And when the ass saw the angel of God standing opposite in the way, and his sword drawn in his hand, then the ass turned aside out of the way, and went into the field; and Balaam smote the ass with his staff to direct her in the way.
 
@@ -32339,15 +32339,6 @@ Rows: 12239
 - mt: After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Charchemish by Euphrates: and Josiah went out against him.
 - brenton: And Pharao Nechao king of Egypt went up against the king of the Assyrians to the river Euphrates, and king Josias went to meet him.
 
-## Numbers 22:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.557`
-- fresh_brenton_ratio: `0.646`
-- fresh: And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
-- mt: But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.
-- brenton: And the angel of the Lord stood in the avenues of the vines, a fence being on this side and a fence on that.
-
 ## Genesis 18:28
 - priority: `0`
 - importance: `none`
@@ -35920,6 +35911,15 @@ Rows: 12239
 - fresh: And David sought God concerning the little boy, and David fasted a fast and entered and lodged in sackcloth on the ground.
 - mt: David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.
 - brenton: And David enquired of God concerning the child, and David fasted, and went in and lay all night upon the ground.
+
+## Numbers 22:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.589`
+- fresh_brenton_ratio: `0.681`
+- fresh: And the angel of God stood in the vineyards' furrows, a fence here and a fence there.
+- mt: But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.
+- brenton: And the angel of the Lord stood in the avenues of the vines, a fence being on this side and a fence on that.
 
 ## 2 Samuel 1:9
 - priority: `0`
@@ -41177,15 +41177,6 @@ Rows: 12239
 - mt: Take heed to yourself that you forsake not the Levite as long as you live upon the earth.
 - brenton: Take heed to thyself that thou do not desert the Levite all the time that thou livest upon the earth.
 
-## Numbers 22:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.624`
-- fresh_brenton_ratio: `0.696`
-- fresh: And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
-- mt: And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam's anger was kindled, and he stroke the ass with a staff.
-- brenton: And when the ass saw the angel of God, she lay down under Balaam; and Balaam was angry, and struck the ass with his staff.
-
 ## Genesis 41:23
 - priority: `0`
 - importance: `none`
@@ -43724,15 +43715,6 @@ Rows: 12239
 - mt: Then shall you turn it into money, and bind up the money in yours hand, and shall go unto the place which the LORD your God shall choose:
 - brenton: then thou shalt sell them for money, and thou shalt take the money in thy hands, and thou shalt go to the place which the Lord thy God shall choose.
 
-## Numbers 22:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.637`
-- fresh_brenton_ratio: `0.697`
-- fresh: And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
-- mt: And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he stroke her again.
-- brenton: And when the ass saw the angel of God, she thrust herself against the wall, and crushed Balaam's foot against the wall, and he smote her again.
-
 ## 1 Samuel 2:11
 - priority: `0`
 - importance: `none`
@@ -46028,6 +46010,15 @@ Rows: 12239
 - mt: And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.
 - brenton: and they shall answer and say, Our hands have not shed this blood, and our eyes have not seen it.
 
+## Numbers 22:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.649`
+- fresh_brenton_ratio: `0.724`
+- fresh: And the donkey, seeing the angel of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
+- mt: And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam's anger was kindled, and he stroke the ass with a staff.
+- brenton: And when the ass saw the angel of God, she lay down under Balaam; and Balaam was angry, and struck the ass with his staff.
+
 ## Numbers 29:9
 - priority: `0`
 - importance: `none`
@@ -47449,15 +47440,6 @@ Rows: 12239
 - fresh: All the days of its desolation it will keep Sabbath, what it did not keep Sabbath in your Sabbaths when you were dwelling on it.
 - mt: As long as it lies desolate it shall rest; because it did not rest in your sabbaths, when all of you dwelt upon it.
 - brenton: And ye shall be in the land of your enemies; then the land shall keep its sabbaths, and the land shall enjoy its sabbaths all the days of its desolation: it shall keep sabbaths which it kept not among your sabbaths, when ye dwelt in it.
-
-## Numbers 22:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.655`
-- fresh_brenton_ratio: `0.233`
-- fresh: And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
-- mt: And the angel of the LORD said unto him, Wherefore have you smitten yours ass these three times? behold, I went out to withstand you, because your way is perverse before me:
-- brenton: And the angel of God said to him, Why hast thou smitten thine ass this third time? and, behold, I came out to withstand thee, for thy way was not seemly before me; and when the ass saw me, she turned away from me this third time.
 
 ## Genesis 32:1
 - priority: `0`
@@ -48943,6 +48925,15 @@ Rows: 12239
 - fresh: And he said, I will turn my face away from them and show what will be for them at the end, because it is a generation turned aside, sons in whom there is no faithfulness.
 - mt: And he said, I will hide my face from them, I will see what their end shall be: for they are a very perverse generation, children in whom is no faith.
 - brenton: and said, I will turn away my face from them, and will show what shall happen to them in the last days; for it is a perverse generation, sons in whom is no faith.
+
+## Numbers 22:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.662`
+- fresh_brenton_ratio: `0.722`
+- fresh: And the donkey, seeing the angel of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
+- mt: And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he stroke her again.
+- brenton: And when the ass saw the angel of God, she thrust herself against the wall, and crushed Balaam's foot against the wall, and he smote her again.
 
 ## 2 Kings 16:9
 - priority: `0`
@@ -51922,6 +51913,15 @@ Rows: 12239
 - fresh: and Jermouth and Odollam and Membra and Saocho and Azeka,
 - mt: Jarmuth, and Adullam, Socoh, and Azekah,
 - brenton: and Jermuth, and Odollam, and Membra, and Saocho, and Jazeca.
+
+## Numbers 22:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.675`
+- fresh_brenton_ratio: `0.246`
+- fresh: And the angel of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
+- mt: And the angel of the LORD said unto him, Wherefore have you smitten yours ass these three times? behold, I went out to withstand you, because your way is perverse before me:
+- brenton: And the angel of God said to him, Why hast thou smitten thine ass this third time? and, behold, I came out to withstand thee, for thy way was not seemly before me; and when the ass saw me, she turned away from me this third time.
 
 ## Leviticus 15:25
 - priority: `0`
@@ -61445,6 +61445,15 @@ Rows: 12239
 - mt: Tomorrow go all of you down against them: behold, they come up by the cliff of Ziz; and all of you shall find them at the end of the brook, before the wilderness of Jeruel.
 - brenton: To-morrow go ye down against them: behold, they come up by the ascent of Assis, and ye shall find them at the extremity of the river of the wilderness of Jeriel.
 
+## Numbers 22:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.793`
+- fresh: And God was enraged in anger because he went, and the angel of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
+- mt: And God's anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
+- brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
+
 ## Genesis 16:6
 - priority: `0`
 - importance: `none`
@@ -62326,15 +62335,6 @@ Rows: 12239
 - fresh: And the men with him, each and his household, and they lived in the cities of Chebrōn.
 - mt: And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
 - brenton: and the men that were with him, every one and his family; and they dwelt in the cities of Chebron.
-
-## Numbers 22:31
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.710`
-- fresh_brenton_ratio: `0.757`
-- fresh: And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
-- mt: Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
-- brenton: And God opened the eyes of Balaam, and he sees the angel of the Lord withstanding him in the way, and his sword drawn in his hand, and he stooped down and worshipped on his face.
 
 ## 2 Chronicles 36:1
 - priority: `0`
@@ -66413,15 +66413,6 @@ Rows: 12239
 - mt: And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:
 - brenton: And I will break down the haughtiness of your pride; and I will make your heaven iron, and your earth as it were brass.
 
-## Numbers 22:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.723`
-- fresh_brenton_ratio: `0.728`
-- fresh: And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
-- mt: And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.
-- brenton: And the angel of the Lord went farther, and came and stood in a narrow place where it was impossible to turn to the right or the left.
-
 ## Judges 6:14
 - priority: `0`
 - importance: `none`
@@ -68600,6 +68591,15 @@ Rows: 12239
 - mt: And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
 - brenton: And they turned and went up to the mountain, and they came as far as the valley of the cluster, and surveyed it.
 
+## Numbers 22:31
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.730`
+- fresh_brenton_ratio: `0.778`
+- fresh: And God uncovered Balaam's eyes, and he saw the angel of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
+- mt: Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
+- brenton: And God opened the eyes of Balaam, and he sees the angel of the Lord withstanding him in the way, and his sword drawn in his hand, and he stooped down and worshipped on his face.
+
 ## 2 Samuel 20:19
 - priority: `0`
 - importance: `none`
@@ -70130,15 +70130,6 @@ Rows: 12239
 - mt: And it came to pass the third day, which was Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
 - brenton: And it came to pass on the third day that it was Pharao's birth-day, and he made a banquet for all his servants, and he remembered the office of the cupbearer and the office of the baker in the midst of his servants.
 
-## Exodus 33:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.735`
-- fresh_brenton_ratio: `0.695`
-- fresh: And I will send my messenger with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
-- mt: And I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
-- brenton: And I will send at the same time my angel before thy face, and he shall cast out the Amorite and the Chettite, and the Pherezite and Gergesite, and Evite, and Jebusite, and Chananite.
-
 ## Genesis 20:7
 - priority: `0`
 - importance: `none`
@@ -70354,15 +70345,6 @@ Rows: 12239
 - fresh: Let us make for him a little upper-room place, and let us put there for him a bed and a table and a chair and a lampstand, and it shall be, when he comes in to us, he will turn in there.
 - mt: Let us make a little chamber, I pray you, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he comes to us, that he shall turn in thither.
 - brenton: Let us now make for him an upper chamber, a small place; and let us put there for him a bed, and a table, and a stool, and a candlestick: and it shall come to pass that when he comes in to us, he shall turn in thither.
-
-## Exodus 4:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.736`
-- fresh_brenton_ratio: `0.612`
-- fresh: And it happened on the way, at the lodging place, that a messenger of the Lord met him and sought to kill him.
-- mt: And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.
-- brenton: And it came to pass that the angel of the Lord met him by the way in the inn, and sought to slay him.
 
 ## Numbers 16:18
 - priority: `0`
@@ -72560,15 +72542,6 @@ Rows: 12239
 - mt: And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.
 - brenton: And it came to pass, when the captains of the chariots saw Josaphat king of Juda, that they said, This seems to be the king of Israel. And they compassed him about to fight against him; and Josaphat cried out.
 
-## Numbers 22:34
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.743`
-- fresh_brenton_ratio: `0.305`
-- fresh: And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
-- mt: And Balaam said unto the angel of the LORD, I have sinned; for I knew not that you stood in the way against me: now therefore, if it displease you, I will get me back again.
-- brenton: And Balaam said to the angel of the Lord, I have sinned, for I did not know that thou wert standing opposite in the way to meet me; and now if it shall not be pleasing to thee for me to go on, I will return.
-
 ## Deuteronomy 28:14
 - priority: `0`
 - importance: `none`
@@ -73693,6 +73666,15 @@ Rows: 12239
 - fresh: And Moses and Aaron did all these signs and wonders in the land of Egypt before Pharaoh. But the Lord hardened Pharaoh's heart, and he was not willing to send the sons of Israel out of the land of Egypt.
 - mt: And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh's heart, so that he would not let the children of Israel go out of his land.
 - brenton: And Moses and Aaron wrought all these signs and wonders in the land of Egypt before Pharao; and the Lord hardened the heart of Pharao, and he did not hearken to send forth the children of Israel out of the land of Egypt.
+
+## Exodus 4:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.747`
+- fresh_brenton_ratio: `0.631`
+- fresh: And it happened on the way, at the lodging place, that an angel of the Lord met him and sought to kill him.
+- mt: And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.
+- brenton: And it came to pass that the angel of the Lord met him by the way in the inn, and sought to slay him.
 
 ## 2 Chronicles 21:5
 - priority: `0`
@@ -75629,6 +75611,15 @@ Rows: 12239
 - mt: And the men did so; and took two milk giving cattle, and tied them to the cart, and shut up their calves at home:
 - brenton: And the Philistines did so; and they took two cows that had calved for the first time, and yoked them to the waggon, and shut up their calves at home.
 
+## Numbers 22:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.757`
+- fresh: And the angel of God went on and stood in a narrow place where there was no turning aside right or left.
+- mt: And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.
+- brenton: And the angel of the Lord went farther, and came and stood in a narrow place where it was impossible to turn to the right or the left.
+
 ## Exodus 23:13
 - priority: `0`
 - importance: `none`
@@ -77168,15 +77159,6 @@ Rows: 12239
 - mt: And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:
 - brenton: And six branches proceeding sideways, three branches of the candlestick from one side of it, and three branches of the candlestick from the other side.
 
-## Numbers 22:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.757`
-- fresh_brenton_ratio: `0.743`
-- fresh: And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
-- mt: And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto you, that you shall speak. So Balaam went with the princes of Balak.
-- brenton: And the angel of the Lord said to Balaam, Go with the men: nevertheless the word which I shall speak to thee, that thou shalt take heed to speak. And Balaam went with the princes of Balac.
-
 ## Numbers 28:15
 - priority: `0`
 - importance: `none`
@@ -77590,15 +77572,6 @@ Rows: 12239
 - fresh: And you shall destroy all those inhabiting the land and dwell in it, for I have given you their land by lot.
 - mt: And all of you shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.
 - brenton: And ye shall destroy all the inhabitants of the land, and ye shall dwell in it, for I have given their land to you for an inheritance.
-
-## Exodus 23:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.758`
-- fresh_brenton_ratio: `0.797`
-- fresh: And behold, I send my messenger before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
-- mt: Behold, I send an Angel before you, to keep you in the way, and to bring you into the place which I have prepared.
-- brenton: And, behold, I send my angel before thy face, that he may keep thee in the way, that he may bring thee into the land which I have prepared for thee.
 
 ## Deuteronomy 19:13
 - priority: `0`
@@ -78436,6 +78409,15 @@ Rows: 12239
 - fresh: And there was a young man from Bethleem, clan of Judah, from the family of Judah, and he was a Levite, and he was staying there as a resident.
 - mt: And there was a young man out of Bethlehemjudah of the family of Judah, who was a Levite, and he sojourned there.
 - brenton: And there was a young man in Bethleem of the tribe of Juda, and he was a Levite, and he was sojourning there.
+
+## Exodus 33:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.711`
+- fresh: And I will send my angel with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
+- mt: And I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
+- brenton: And I will send at the same time my angel before thy face, and he shall cast out the Amorite and the Chettite, and the Pherezite and Gergesite, and Evite, and Jebusite, and Chananite.
 
 ## Leviticus 13:40
 - priority: `0`
@@ -79480,6 +79462,15 @@ Rows: 12239
 - fresh: and Zouza son of Sephei son of Allon son of Iedia son of Samari son of Samaiou.
 - mt: And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;
 - brenton: and Zuza the son of Saphai, the son of Alon, the son of Jedia, the son of Semri, the son of Samaias.
+
+## Numbers 22:34
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.764`
+- fresh_brenton_ratio: `0.411`
+- fresh: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+- mt: And Balaam said unto the angel of the LORD, I have sinned; for I knew not that you stood in the way against me: now therefore, if it displease you, I will get me back again.
+- brenton: And Balaam said to the angel of the Lord, I have sinned, for I did not know that thou wert standing opposite in the way to meet me; and now if it shall not be pleasing to thee for me to go on, I will return.
 
 ## Exodus 18:8
 - priority: `0`
@@ -81677,15 +81668,6 @@ Rows: 12239
 - mt: And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.
 - brenton: And he shall bring for his trespass to the Lord to the door of the tabernacle of witness, a ram for a trespass-offering.
 
-## Exodus 32:34
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.770`
-- fresh_brenton_ratio: `0.831`
-- fresh: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my messenger goes before your face. But in the day when I visit, I will bring their sin upon them."
-- mt: Therefore now go, lead the people unto the place of which I have spoken unto you: behold, mine Angel shall go before you: nevertheless in the day when I visit I will visit their sin upon them.
-- brenton: And now go, descend, and lead this people into the place of which I spoke to thee: behold, my angel shall go before thy face; and in the day when I shall visit I will bring upon them their sin.
-
 ## Joshua 8:3
 - priority: `0`
 - importance: `none`
@@ -83513,15 +83495,6 @@ Rows: 12239
 - mt: Therefore David enquired of the LORD, saying, Shall I go and strike these Philistines? And the LORD said unto David, Go, and strike the Philistines, and save Keilah.
 - brenton: And David enquired of the Lord, saying, Shall I go and smite these Philistines? And the Lord said, Go, and thou shalt smite these Philistines, and shalt save Keila.
 
-## Exodus 23:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.776`
-- fresh_brenton_ratio: `0.805`
-- fresh: For my messenger shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
-- mt: For mine Angel shall go before you, and bring you in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
-- brenton: For my angel shall go as thy leader, and shall bring thee to the Amorite, and Chettite, and Pherezite, and Chananite, and Gergesite, and Evite, and Jebusite, and I will destroy them.
-
 ## 1 Samuel 8:14
 - priority: `0`
 - importance: `none`
@@ -84304,6 +84277,15 @@ Rows: 12239
 - fresh: They shall not turn aside judgment. They shall not recognize a face, nor take a gift, because gifts blind the eyes of the wise and remove the words of the righteous.
 - mt: You shall not shift judgment; you shall not respect persons, neither take a gift: for a gift does blind the eyes of the wise, and pervert the words of the righteous.
 - brenton: they shall not wrest judgment, nor favour persons, nor receive a gift; for gifts blind the eyes of the wise, and pervert the words of the righteous.
+
+## Numbers 22:35
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.779`
+- fresh_brenton_ratio: `0.763`
+- fresh: And the angel of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
+- mt: And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto you, that you shall speak. So Balaam went with the princes of Balak.
+- brenton: And the angel of the Lord said to Balaam, Go with the men: nevertheless the word which I shall speak to thee, that thou shalt take heed to speak. And Balaam went with the princes of Balac.
 
 ## Judges 19:11
 - priority: `0`
@@ -85330,15 +85312,6 @@ Rows: 12239
 - fresh: and this was the matter in which he lifted his hands against King Solomon: he built the citadel; he closed up the breach of the City of David his father.
 - mt: And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.
 - brenton: And this was the occasion of his lifting up his hands against king Solomon: now king Solomon built the citadel, he completed the fortification of the city of David his father.
-
-## Numbers 20:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.782`
-- fresh_brenton_ratio: `0.793`
-- fresh: And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
-- mt: And when we cried unto the LORD, he heard our voice, and sent an angel, and has brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of your border:
-- brenton: And we cried to the Lord, and the Lord heard our voice, and sent an angel and brought us out of Egypt; and now we are in the city of Cades, at the extremity of thy coasts.
 
 ## Deuteronomy 8:15
 - priority: `0`
@@ -86699,6 +86672,15 @@ Rows: 12239
 - mt: But these five kings fled, and hid themselves in a cave at Makkedah.
 - brenton: And these five kings fled, and hid themselves in a cave that is in Makeda.
 
+## Exodus 23:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.787`
+- fresh_brenton_ratio: `0.823`
+- fresh: And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
+- mt: Behold, I send an Angel before you, to keep you in the way, and to bring you into the place which I have prepared.
+- brenton: And, behold, I send my angel before thy face, that he may keep thee in the way, that he may bring thee into the land which I have prepared for thee.
+
 ## 1 Samuel 19:24
 - priority: `0`
 - importance: `none`
@@ -87625,6 +87607,15 @@ Rows: 12239
 - fresh: And Jacob's sons answered Sychem and Emmor his father with deceit and spoke to them, because they had defiled Dinah their sister,
 - mt: And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
 - brenton: And the sons of Jacob answered to Sychem and Emmor his father craftily, and spoke to them, because they had defiled Dina their sister.
+
+## Exodus 32:34
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.790`
+- fresh_brenton_ratio: `0.851`
+- fresh: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my angel goes before your face. But in the day when I visit, I will bring their sin upon them."
+- mt: Therefore now go, lead the people unto the place of which I have spoken unto you: behold, mine Angel shall go before you: nevertheless in the day when I visit I will visit their sin upon them.
+- brenton: And now go, descend, and lead this people into the place of which I spoke to thee: behold, my angel shall go before thy face; and in the day when I shall visit I will bring upon them their sin.
 
 ## 1 Chronicles 9:34
 - priority: `0`
@@ -89524,6 +89515,15 @@ Rows: 12239
 - fresh: Rise and flee to Mesopotamia, to the house of Bethuel the father of your mother, and take for yourself a wife from there, from the daughters of Laban your mother's brother.
 - mt: Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from thence of the daughters of Laban your mother's brother.
 - brenton: Rise and depart quickly into Mesopotamia, to the house of Bathuel the father of thy mother, and take to thyself thence a wife of the daughters of Laban thy mother's brother.
+
+## Exodus 23:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.797`
+- fresh_brenton_ratio: `0.826`
+- fresh: For my angel shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
+- mt: For mine Angel shall go before you, and bring you in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
+- brenton: For my angel shall go as thy leader, and shall bring thee to the Amorite, and Chettite, and Pherezite, and Chananite, and Gergesite, and Evite, and Jebusite, and I will destroy them.
 
 ## 1 Chronicles 7:31
 - priority: `0`
@@ -92215,6 +92215,15 @@ Rows: 12239
 - fresh: And Samouēl said to Agag, As your sword made women childless, so your mother will be made childless among women. And Samouēl slaughtered Agag before the Lord in Galgala.
 - mt: And Samuel said, As the sword has made women childless, so shall your mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal.
 - brenton: And Samuel said to Agag, As thy sword has bereaved women of their children, so shall thy mother be made childless among women: and Samuel slew Agag before the Lord in Galgal.
+
+## Numbers 20:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.807`
+- fresh_brenton_ratio: `0.818`
+- fresh: And we cried out to the Lord, and the Lord heard our voice, and sending an angel brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
+- mt: And when we cried unto the LORD, he heard our voice, and sent an angel, and has brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of your border:
+- brenton: And we cried to the Lord, and the Lord heard our voice, and sent an angel and brought us out of Egypt; and now we are in the city of Cades, at the extremity of thy coasts.
 
 ## 1 Kings 11:31
 - priority: `0`
@@ -99245,15 +99254,6 @@ Rows: 12239
 - mt: Of the tribe of Dan, Ammiel the son of Gemalli.
 - brenton: Of the tribe of Dan, Amiel the son of Gamali.
 
-## Exodus 14:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.837`
-- fresh_brenton_ratio: `0.883`
-- fresh: Then the messenger of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
-- mt: And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:
-- brenton: And the angel of God that went before the camp of the children of Israel removed and went behind, and the pillar of the cloud also removed from before them and stood behind them.
-
 ## 2 Kings 4:23
 - priority: `0`
 - importance: `none`
@@ -103079,6 +103079,15 @@ Rows: 12239
 - mt: And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.
 - brenton: And of the sons of Elam; Isæas the son of Athelia, and with him seventy males.
 
+## Exodus 14:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.859`
+- fresh_brenton_ratio: `0.904`
+- fresh: Then the angel of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
+- mt: And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:
+- brenton: And the angel of God that went before the camp of the children of Israel removed and went behind, and the pillar of the cloud also removed from before them and stood behind them.
+
 ## Numbers 20:1
 - priority: `0`
 - importance: `none`
@@ -104365,15 +104374,6 @@ Rows: 12239
 - fresh: And you shall make a pure gold plate, and engrave on it like the engraving of a seal, "Holiness of the Lord."
 - mt: And you shall make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE LORD.
 - brenton: And thou shalt make a plate of pure gold, and thou shalt grave on it as the graving of a signet, Holiness of the Lord.
-
-## Numbers 25:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.869`
-- fresh_brenton_ratio: `0.799`
-- fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
-- mt: And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
-- brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
 
 ## 2 Kings 11:20
 - priority: `0`

@@ -1,6 +1,6 @@
 # Fresh OT Cross-Reference Watch
 
-Rows: 208
+Rows: 209
 
 ## Exodus 20:24
 - score: 35
@@ -70,16 +70,6 @@ Rows: 208
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - OT clues: Jer.4.23 (97) -> I looked upon earth, and behold, nothing, and to heaven, and its lights were not. || Ps.104.30 (74) -> Their land teemed with frogs in chambers of their kings. || Isa.45.18 (67) -> Thus says Lord, one making heaven, this God showing earth and making it, he marked it out; not in vain he made it, but to be inhabited. I am, and there is no other. || Ps.33.6 (47) -> Draw near to him and be enlightened, and your faces will by no means be ashamed.
 
-## Exodus 3:2
-- score: 21
-- top vote: 17
-- OT crossrefs: 4
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- OT clues: Isa.43.2 (13) -> And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you. || Deut.33.16 (10) -> and from the seasons of the earth's fullness and the acceptable things to the one who appeared in the bush. Let them come on the head of Joseph and on the crown of the one glorified among brothers. || Exod.3.16 (7) -> Go then, gather the elders of the sons of Israel and say to them, 'The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt.' || Isa.63.9 (7) -> In all their affliction not elder nor angel, but Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age.
-- NT clues: Acts.7.30-Acts.7.35 (17) -> And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush. || Mark.12.26 (10) -> And as concerning the dead, that they rise: have all of you not read in the book of Moses, how in the bush God spoke unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? || Luke.20.37 (9) -> Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
-
 ## Exodus 28:30
 - score: 21
 - top vote: 9
@@ -106,7 +96,7 @@ Rows: 208
 - OT crossrefs: 6
 - NT crossrefs: 2
 - shared-family hits: 0
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - OT clues: 1Sam.29.9 (5) -> And Anchous answered David, I know that you are good in my eyes, but the satraps of the foreigners say, He will not come with us into battle. || 2Sam.19.27 (5) -> And Mephibosthe said to him, My lord king, my servant deceived me. For your servant said to him, Saddle the donkey for me, and I will mount it and go with the king, because your servant is lame. || 2Sam.14.20 (4) -> For the sake of turning the face of this matter, your servant Iōab did this thing, and my lord is wise like the wisdom of an angel of God, to know all the things on the earth. || 1Kgs.3.9 (3) -> And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - NT clues: 1Cor.2.14-1Cor.2.15 (2) -> But the natural man receives not the things of the Spirit (o. pneuma) of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. || Heb.5.14 (2) -> But strong food belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
@@ -179,6 +169,16 @@ Rows: 208
 - fresh: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
 - OT clues: Ezek.43.24 (18) -> And you will bring them before Lord, and the priests will throw salt on them and offer them as burnt offerings to Lord. || 2Chr.13.5 (9) -> Is it not for you to know that Lord God of Israel gave kingdom over Israel forever to Dauid and to his sons, covenant of salt? || Num.18.19 (9) -> All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you. || Ezra.7.22 (2) -> up to one hundred talents of silver and up to one hundred kors of wheat and up to one hundred baths of wine and up to one hundred baths of oil, and salt without measure.
 - NT clues: Matt.5.13 (14) -> All of you are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men. || Col.4.6 (13) -> Let your (o. logos) speech be always with grace, seasoned with salt, that all of you may know how all of you ought to answer every man. || Mark.9.49-Mark.9.50 (11) -> For every one shall be salted with fire, and every sacrifice shall be salted with salt.
+
+## Exodus 3:2
+- score: 19
+- top vote: 17
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- OT clues: Isa.43.2 (13) -> And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you. || Deut.33.16 (10) -> and from the seasons of the earth's fullness and the acceptable things to the one who appeared in the bush. Let them come on the head of Joseph and on the crown of the one glorified among brothers. || Exod.3.16 (7) -> Go then, gather the elders of the sons of Israel and say to them, 'The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt.' || Isa.63.9 (7) -> In all their affliction not elder nor angel, but Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age.
+- NT clues: Acts.7.30-Acts.7.35 (17) -> And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush. || Mark.12.26 (10) -> And as concerning the dead, that they rise: have all of you not read in the book of Moses, how in the bush God spoke unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? || Luke.20.37 (9) -> Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 
 ## Leviticus 18:21
 - score: 19
@@ -377,6 +377,16 @@ Rows: 208
 - OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Deut.15.20 (5) -> Before the Lord your God you shall eat it, year by year, in the place that the Lord your God chooses, you and your household. || Deut.16.2-Deut.16.8 (3) -> And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula || Deut.17.8 (3) -> And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula
 - NT clues: John.4.20-John.4.23 (3) -> Our fathers worshipped in this mountain; and all of you say, that in Jerusalem is the place where men ought to worship. || 1Kgs.8.13 (2) -> I have surely built you an house to dwell in, a settled place for you to abide in for ever.
 
+## Numbers 25:13
+- score: 17
+- top vote: 5
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
+- OT clues: 1Chr.6.4-1Chr.6.15 (4) -> Sons of Merari: Mooli and Omousi. And these are families of Levi according to their families. || Exod.40.15 (4) -> And you shall anoint them just as you anointed their father, and they shall serve as priests to me. And it shall be for them an anointing of priesthood forever throughout their generations." || Jer.33.18 (4) -> Micah the Morasthite was in days of Hezekiah king of Judah and said to all people of Judah, Thus said Lord: Zion will be plowed like field and Jerusalem will be for trackless waste and mountain of house for grove of forest. || Jer.33.22 (4) -> And king sent men into Egypt,
+- NT clues: Heb.2.17 (5) -> Wherefore in all things it was essential for him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people. || 1Pet.2.5 (4) -> All of you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. || Rom.10.2-Rom.10.4 (4) -> For I bear them record that they have a zeal of God, but not according to knowledge.
+
 ## Numbers 9:13
 - score: 17
 - top vote: 5
@@ -433,7 +443,7 @@ Rows: 208
 - NT crossrefs: 3
 - shared-family hits: 0
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
-- OT clues: Prov.16.16 (18) -> Nests of wisdom more choice than gold, and nests of understanding more choice than silver. || Prov.2.3-Prov.2.9 (15) -> For if you call on wisdom and give your voice to understanding, and seek perception with loud voice, || 2Sam.14.17 (11) -> And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you. || Prov.3.13-Prov.3.18 (10) -> Blessed man who found wisdom, and mortal who saw understanding.
+- OT clues: Prov.16.16 (18) -> Nests of wisdom more choice than gold, and nests of understanding more choice than silver. || Prov.2.3-Prov.2.9 (15) -> For if you call on wisdom and give your voice to understanding, and seek perception with loud voice, || 2Sam.14.17 (11) -> And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you. || Prov.3.13-Prov.3.18 (10) -> Blessed man who found wisdom, and mortal who saw understanding.
 - NT clues: Jas.1.5 (29) -> If any of you lack wisdom, let him ask of God, that gives to all men liberally, and reproaches not; and it shall be given him. || Heb.5.14 (18) -> But strong food belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. || John.5.30 (16) -> I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which has sent me.
 
 ## Daniel 4:37

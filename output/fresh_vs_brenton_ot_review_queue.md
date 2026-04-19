@@ -6,13 +6,13 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 67
-- covenant/law: 78
+- anthropology: 68
+- covenant/law: 79
 - death/afterlife: 1
-- kingship: 101
+- kingship: 102
 - ritual: 75
 - textual/lexical: 10
-- theology: 104
+- theology: 103
 
 ## Top 50
 - 1. Exodus 20:24 | score 35 | theology, ritual, kingship, textual/lexical
@@ -24,14 +24,14 @@ Use MD for reading order.
 - 7. 1 Kings 12:24 | score 22 | theology, anthropology, kingship
 - 8. 2 Samuel 14:17 | score 21 | theology, kingship
 - 9. Exodus 28:30 | score 21 | theology, covenant/law, ritual
-- 10. Exodus 3:2 | score 21 | theology, anthropology
-- 11. Genesis 1:2 | score 21 | anthropology, textual/lexical
-- 12. Leviticus 4:31 | score 21 | covenant/law, ritual, kingship
-- 13. Exodus 6:3 | score 20 | theology, anthropology
-- 14. Genesis 1:26 | score 20 | anthropology, textual/lexical
-- 15. 1 Samuel 20:42 | score 19 | theology, anthropology, kingship
-- 16. Deuteronomy 2:30 | score 19 | anthropology, kingship
-- 17. Exodus 24:5 | score 19 | ritual, kingship
+- 10. Genesis 1:2 | score 21 | anthropology, textual/lexical
+- 11. Leviticus 4:31 | score 21 | covenant/law, ritual, kingship
+- 12. Exodus 6:3 | score 20 | theology, anthropology
+- 13. Genesis 1:26 | score 20 | anthropology, textual/lexical
+- 14. 1 Samuel 20:42 | score 19 | theology, anthropology, kingship
+- 15. Deuteronomy 2:30 | score 19 | anthropology, kingship
+- 16. Exodus 24:5 | score 19 | ritual, kingship
+- 17. Exodus 3:2 | score 19 | theology, anthropology
 - 18. Genesis 18:19 | score 19 | covenant/law
 - 19. Genesis 1:1 | score 19 | textual/lexical
 - 20. Genesis 1:5 | score 19 | anthropology, textual/lexical
@@ -50,15 +50,15 @@ Use MD for reading order.
 - 33. Exodus 20:7 | score 18 | theology
 - 34. Nehemiah 10:34 | score 18 | theology, covenant/law, ritual
 - 35. Numbers 18:19 | score 18 | theology, anthropology, covenant/law, ritual, kingship
-- 36. Numbers 22:22 | score 18 | theology
-- 37. 1 Chronicles 22:19 | score 17 | theology, anthropology, covenant/law, ritual
-- 38. 1 Kings 8:53 | score 17 | kingship
-- 39. 2 Samuel 23:1 | score 17 | kingship
-- 40. 2 Samuel 24:25 | score 17 | ritual, kingship
-- 41. 2 Samuel 7:19 | score 17 | covenant/law, kingship
-- 42. Deuteronomy 12:11 | score 17 | theology
-- 43. Deuteronomy 12:26 | score 17 | theology, ritual
-- 44. Numbers 12:8 | score 17 | theology, kingship
+- 36. 1 Chronicles 22:19 | score 17 | theology, anthropology, covenant/law, ritual
+- 37. 1 Kings 8:53 | score 17 | kingship
+- 38. 2 Samuel 23:1 | score 17 | kingship
+- 39. 2 Samuel 24:25 | score 17 | ritual, kingship
+- 40. 2 Samuel 7:19 | score 17 | covenant/law, kingship
+- 41. Deuteronomy 12:11 | score 17 | theology
+- 42. Deuteronomy 12:26 | score 17 | theology, ritual
+- 43. Numbers 12:8 | score 17 | theology, kingship
+- 44. Numbers 25:13 | score 17 | anthropology, covenant/law, kingship
 - 45. Numbers 5:18 | score 17 | ritual
 - 46. Numbers 7:89 | score 17 | theology
 - 47. Numbers 9:13 | score 17 | anthropology, covenant/law, ritual

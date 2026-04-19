@@ -31735,13 +31735,13 @@ Greek: ωφθη δε αυτω αγγελος κυριου εν φλογι πυρ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+Draft translation: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 
 Decision rows:
-- greek_phrase: ἄγγελος κυρίου | lemma: ἄγγελος | κύριος | morphology: nominative noun phrase | chosen_rendering: messenger of the Lord | alternate_renderings: angel of the Lord | rationale: Messenger keeps the base sense of angelos in view and leaves later angelological conclusions open. | status: drafted
+- greek_phrase: ἄγγελος κυρίου | lemma: ἄγγελος | κύριος | morphology: nominative noun phrase | chosen_rendering: angel of the Lord | alternate_renderings: messenger of the Lord | rationale: Scene signal too strong for neutral messenger here. Direct Logos evidence stays mixed at lemma level, but this scene presents more than non-angelic courier, and project background treats the Angel of the Lord as theophanic. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: messenger of the Lord | footnote_text: Greek angelos can mean messenger as well as angel. This draft keeps the more basic term visible at the start of the scene. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: angel of the Lord | footnote_text: Greek angelos can mean messenger as well as angel, but this scene signals more than ordinary envoy language. Bush burns without being consumed, and figure appears in openly theophanic context, so draft uses angel here. | source_basis: lexical + theology + context + Logos | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -32617,7 +32617,7 @@ Greek: εγενετο δε εν τη οδω εν τω καταλυματι συ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And it happened on the way, at the lodging place, that a messenger of the Lord met him and sought to kill him.
+Draft translation: And it happened on the way, at the lodging place, that an angel of the Lord met him and sought to kill him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -38297,13 +38297,13 @@ Greek: εξηρεν δε ο αγγελος του θεου ο προπορευο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then the messenger of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
+Draft translation: Then the angel of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
 
 Decision rows:
-- greek_phrase: ὁ ἄγγελος τοῦ θεοῦ | lemma: ἄγγελος | θεός | morphology: nominative singular noun phrase | chosen_rendering: the messenger of God | alternate_renderings: the angel of God | rationale: Keeps the broader sense of angelos as messenger without foreclosing how readers construe the figure. | status: drafted
+- greek_phrase: ὁ ἄγγελος τοῦ θεοῦ | lemma: ἄγγελος | θεός | morphology: nominative singular noun phrase | chosen_rendering: the angel of God | alternate_renderings: the messenger of God | rationale: Same project rule as other theophanic scenes. Figure moves with the cloud and functions as divine presence, so angel better fits than neutral messenger. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: messenger of God | footnote_text: Greek angelos can mean angel or messenger. This draft keeps the broader messenger sense open. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: angel of God | footnote_text: Greek angelos can mean angel or messenger, but here the figure travels with the divine cloud and signals active divine presence. Draft uses angel, not neutral messenger. | source_basis: lexical + theology + context | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43437,13 +43437,13 @@ Greek: και ιδου εγω αποστελλω τον αγγελον μου π
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And behold, I send my messenger before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
+Draft translation: And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
 
 Decision rows:
-- greek_phrase: τὸν ἄγγελόν μου | lemma: ἄγγελος | morphology: accusative singular noun with possessive pronoun | chosen_rendering: my messenger | alternate_renderings: my angel | rationale: Keeps the core envoy sense of the Greek term visible while leaving theological identity open for later review. | status: drafted
+- greek_phrase: τὸν ἄγγελόν μου | lemma: ἄγγελος | morphology: accusative singular noun with possessive pronoun | chosen_rendering: my angel | alternate_renderings: my messenger | rationale: Divine escort context now governs this row. This is the same guiding figure who goes before Israel and fits the project rule for overt divine-manifestation scenes better than neutral messenger language. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: my messenger | footnote_text: Greek angelos can mean messenger or angel. This draft keeps the envoy sense visible while leaving identity questions open. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: my angel | footnote_text: Greek angelos can mean messenger or angel, but here the figure goes before Israel, guards the way, and brings them into prepared land. Draft uses angel for this divine escort figure. | source_basis: lexical + context + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43497,7 +43497,7 @@ Greek: πορευσεται γαρ ο αγγελος μου ηγουμενος �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For my messenger shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
+Draft translation: For my angel shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -49455,7 +49455,7 @@ Greek: νυνι δε βαδιζε καταβηθι και οδηγησον το�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my messenger goes before your face. But in the day when I visit, I will bring their sin upon them."
+Draft translation: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my angel goes before your face. But in the day when I visit, I will bring their sin upon them."
 
 Decision rows:
 - [TODO add decision rows]
@@ -49517,7 +49517,7 @@ Greek: και συναποστελω τον αγγελον μου προ προ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I will send my messenger with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
+Draft translation: And I will send my angel with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85809,7 +85809,7 @@ Greek: και ανεβοησαμεν προς κυριον και εισηκου
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
+Draft translation: And we cried out to the Lord, and the Lord heard our voice, and sending an angel brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87213,13 +87213,13 @@ Greek: και ωργισθη θυμω ο θεος οτι επορευθη αυτ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
+Draft translation: And God was enraged in anger because he went, and the angel of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 
 Decision rows:
-- greek_phrase: ἀνέστη ὁ ἄγγελος τοῦ θεοῦ ἐνδιαβαλεῖν αὐτόν | lemma: ἀνίστημι | ἄγγελος | ἐνδιαβάλλω | morphology: aorist active indicative 3 singular + infinitive | chosen_rendering: the messenger of God rose up to oppose him | alternate_renderings: to stand against / accuse him | rationale: Carries the hostile blocking sense without collapsing the verb to a generic appearance formula. | status: drafted
+- greek_phrase: ἀνέστη ὁ ἄγγελος τοῦ θεοῦ ἐνδιαβαλεῖν αὐτόν | lemma: ἀνίστημι | ἄγγελος | ἐνδιαβάλλω | morphology: aorist active indicative 3 singular + infinitive | chosen_rendering: the angel of God rose up to oppose him | alternate_renderings: to stand against / accuse him | rationale: Hostile blocking sense still matters, but figure should not stay neutral messenger. Scene presents angelic divine opponent with drawn sword and worship response later in context. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: rose up to oppose him | footnote_text: The messenger does not simply appear. The Greek marks active opposition against Balaams path. | source_basis: hostile verb | status: drafted
+- note_type: translation | trigger_phrase: angel of God rose up to oppose him | footnote_text: The angel does not simply appear. Greek marks active opposition against Balaam's path, and later context presents the figure as openly angelic rather than merely human courier. | source_basis: hostile verb + context | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -87233,7 +87233,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου α�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
+Draft translation: And the donkey, seeing the angel of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87253,7 +87253,7 @@ Greek: και εστη ο αγγελος του θεου εν ταις αυλα�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
+Draft translation: And the angel of God stood in the vineyards' furrows, a fence here and a fence there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87273,7 +87273,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου π�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
+Draft translation: And the donkey, seeing the angel of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87293,7 +87293,7 @@ Greek: και προσεθετο ο αγγελος του θεου και απε
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
+Draft translation: And the angel of God went on and stood in a narrow place where there was no turning aside right or left.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87313,7 +87313,7 @@ Greek: και ιδουσα η ονος τον αγγελον του θεου σ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
+Draft translation: And the donkey, seeing the angel of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87393,7 +87393,7 @@ Greek: απεκαλυψεν δε ο θεος τους οφθαλμους βαλ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
+Draft translation: And God uncovered Balaam's eyes, and he saw the angel of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87413,7 +87413,7 @@ Greek: και ειπεν αυτω ο αγγελος του θεου δια τι 
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
+Draft translation: And the angel of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87453,7 +87453,7 @@ Greek: και ειπεν βαλααμ τω αγγελω κυριου ημαρτ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+Draft translation: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 
 Decision rows:
 - [TODO add decision rows]
@@ -87473,7 +87473,7 @@ Greek: και ειπεν ο αγγελος του θεου προς βαλααμ
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
+Draft translation: And the angel of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
 
 Decision rows:
 - [TODO add decision rows]
@@ -165969,13 +165969,13 @@ Greek: και ειπεν η γυνη ειη δη ο λογος του κυριο
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+Draft translation: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 
 Decision rows:
-- greek_phrase: εἴη ... εἰς θυσίαν | lemma: εἰμί | θυσία | morphology: optative verb + prepositional accusative phrase | chosen_rendering: let the word ... be for sacrifice | alternate_renderings: be for reassurance; be for rest | rationale: Phrase remains difficult; draft keeps sacrificial wording visible for later review. | status: drafted
+- greek_phrase: εἴη ... εἰς θυσίαν | lemma: εἰμί | θυσία | morphology: optative verb + prepositional accusative phrase | chosen_rendering: let the word ... be as an offering | alternate_renderings: be as a sacrifice; be my security; be for comfort | rationale: Direct Logos export pulls back toward cultic wording: NETS uses offering, LES and LES2 use sacrifice, while MT-facing tradition smooths toward security or comfort. Draft now keeps sacrificial image visible without flattening it. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: be for sacrifice | footnote_text: The phrase is difficult in Greek. This draft stays close to the wording so the interpretive problem remains visible for later review. | source_basis: syntax + uncertainty | status: drafted
+- note_type: translation | trigger_phrase: as an offering | footnote_text: Phrase difficult, but Greek uses cultic wording here. Direct Logos export shows NETS pulling toward offering and LES and LES2 keeping sacrifice language, so draft keeps sacrificial image visible instead of smoothing to security or comfort. | source_basis: syntax + witnesses + Logos | status: reviewed
 
 Logos research:
 - [TODO add Logos note]

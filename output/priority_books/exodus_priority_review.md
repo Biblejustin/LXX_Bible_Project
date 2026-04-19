@@ -3,9 +3,9 @@
 Selected verses: 6
 
 ## Exodus 3:2
-- score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord, messenger; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- score: 19
+- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ## Exodus 6:3

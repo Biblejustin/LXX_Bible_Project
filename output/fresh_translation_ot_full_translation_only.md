@@ -6430,7 +6430,7 @@ Now Moses was shepherding the flock of Jothor his father-in-law, the priest of M
 
 **Exodus 3:2**
 
-Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 
 **Exodus 3:3**
 
@@ -6608,7 +6608,7 @@ And I said to you, Send out my people so that they may serve me. But if you refu
 
 **Exodus 4:24**
 
-And it happened on the way, at the lodging place, that a messenger of the Lord met him and sought to kill him.
+And it happened on the way, at the lodging place, that an angel of the Lord met him and sought to kill him.
 
 **Exodus 4:25**
 
@@ -7760,7 +7760,7 @@ Then the Lord said to Moses, "Why do you cry out to me? Speak to the sons of Isr
 
 **Exodus 14:19**
 
-Then the messenger of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
+Then the angel of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
 
 **Exodus 14:20**
 
@@ -8802,7 +8802,7 @@ You shall bring the firstfruits of the first produce of your land into the house
 
 **Exodus 23:20**
 
-And behold, I send my messenger before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
+And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
 
 **Exodus 23:21**
 
@@ -8814,7 +8814,7 @@ If you truly hear my voice and do all that I command you and keep my covenant, y
 
 **Exodus 23:23**
 
-For my messenger shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
+For my angel shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
 
 **Exodus 23:24**
 
@@ -10020,7 +10020,7 @@ And the Lord said to Moses, "Whoever has sinned before me, him I will blot out f
 
 **Exodus 32:34**
 
-And now go, descend, and lead this people to the place of which I spoke to you. Behold, my messenger goes before your face. But in the day when I visit, I will bring their sin upon them."
+And now go, descend, and lead this people to the place of which I spoke to you. Behold, my angel goes before your face. But in the day when I visit, I will bring their sin upon them."
 
 **Exodus 32:35**
 
@@ -10034,7 +10034,7 @@ And the Lord said to Moses, "Go, go up from here, you and your people whom you b
 
 **Exodus 33:2**
 
-And I will send my messenger with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
+And I will send my angel with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
 
 **Exodus 33:3**
 
@@ -17382,7 +17382,7 @@ And our fathers went down into Egypt, and we lived in Egypt many days, and the E
 
 **Numbers 20:16**
 
-And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
+And we cried out to the Lord, and the Lord heard our voice, and sending an angel brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
 
 **Numbers 20:17**
 
@@ -17666,27 +17666,27 @@ And Balaam rose in the morning, saddled his donkey, and went with the princes of
 
 **Numbers 22:22**
 
-And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
+And God was enraged in anger because he went, and the angel of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 
 **Numbers 22:23**
 
-And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
+And the donkey, seeing the angel of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 
 **Numbers 22:24**
 
-And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
+And the angel of God stood in the vineyards' furrows, a fence here and a fence there.
 
 **Numbers 22:25**
 
-And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
+And the donkey, seeing the angel of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
 
 **Numbers 22:26**
 
-And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
+And the angel of God went on and stood in a narrow place where there was no turning aside right or left.
 
 **Numbers 22:27**
 
-And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
+And the donkey, seeing the angel of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
 
 **Numbers 22:28**
 
@@ -17702,11 +17702,11 @@ And the donkey says to Balaam, Am I not your donkey, on which you have ridden fr
 
 **Numbers 22:31**
 
-And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
+And God uncovered Balaam's eyes, and he saw the angel of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
 
 **Numbers 22:32**
 
-And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
+And the angel of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
 
 **Numbers 22:33**
 
@@ -17714,11 +17714,11 @@ And the donkey saw me and turned aside from me this third time. And if she had n
 
 **Numbers 22:34**
 
-And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 
 **Numbers 22:35**
 
-And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
+And the angel of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
 
 **Numbers 22:36**
 
@@ -33654,7 +33654,7 @@ Because the king will listen to rescue his servant from the hand of the man seek
 
 **2 Samuel 14:17**
 
-And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 
 **2 Samuel 14:18**
 

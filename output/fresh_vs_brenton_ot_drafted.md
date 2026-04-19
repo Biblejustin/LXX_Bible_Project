@@ -14241,7 +14241,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then a messenger of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
+- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
 
 ### Exodus 3:3
@@ -14637,7 +14637,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And it happened on the way, at the lodging place, that a messenger of the Lord met him and sought to kill him.
+- fresh: And it happened on the way, at the lodging place, that an angel of the Lord met him and sought to kill him.
 - brenton: And it came to pass that the angel of the Lord met him by the way in the inn, and sought to slay him.
 
 ### Exodus 4:25
@@ -17184,7 +17184,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then the messenger of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
+- fresh: Then the angel of God who went before the camp of the sons of Israel moved and went behind them, and the pillar of cloud also moved from before them and stood behind them.
 - brenton: And the angel of God that went before the camp of the children of Israel removed and went behind, and the pillar of the cloud also removed from before them and stood behind them.
 
 ### Exodus 14:20
@@ -19488,7 +19488,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, I send my messenger before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
+- fresh: And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you.
 - brenton: And, behold, I send my angel before thy face, that he may keep thee in the way, that he may bring thee into the land which I have prepared for thee.
 
 ### Exodus 23:21
@@ -19515,7 +19515,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: For my messenger shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
+- fresh: For my angel shall go leading you and bring you to the Amorite and Hittite and Perizzite and Canaanite and Girgashite and Hivite and Jebusite, and I will wipe them out.
 - brenton: For my angel shall go as thy leader, and shall bring thee to the Amorite, and Chettite, and Pherezite, and Chananite, and Gergesite, and Evite, and Jebusite, and I will destroy them.
 
 ### Exodus 23:24
@@ -22188,7 +22188,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my messenger goes before your face. But in the day when I visit, I will bring their sin upon them."
+- fresh: And now go, descend, and lead this people to the place of which I spoke to you. Behold, my angel goes before your face. But in the day when I visit, I will bring their sin upon them."
 - brenton: And now go, descend, and lead this people into the place of which I spoke to thee: behold, my angel shall go before thy face; and in the day when I shall visit I will bring upon them their sin.
 
 ### Exodus 32:35
@@ -22215,7 +22215,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And I will send my messenger with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
+- fresh: And I will send my angel with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite.
 - brenton: And I will send at the same time my angel before thy face, and he shall cast out the Amorite and the Chettite, and the Pherezite and Gergesite, and Evite, and Jebusite, and Chananite.
 
 ### Exodus 33:3
@@ -38500,7 +38500,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And we cried out to the Lord, and the Lord heard our voice, and sending a messenger brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
+- fresh: And we cried out to the Lord, and the Lord heard our voice, and sending an angel brought us out from Egypt. And now we are in Kadesh, a city at the edge of your borders.
 - brenton: And we cried to the Lord, and the Lord heard our voice, and sent an angel and brought us out of Egypt; and now we are in the city of Cades, at the extremity of thy coasts.
 
 ### Numbers 20:17
@@ -39130,7 +39130,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God was enraged in anger because he went, and the messenger of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
+- fresh: And God was enraged in anger because he went, and the angel of God rose up to oppose him. And he was riding on his donkey, and his two servants were with him.
 - brenton: And God was very angry because he went; and the angel of the Lord rose up to withstand him. Now he had mounted his ass, and his two servants were with him.
 
 ### Numbers 22:23
@@ -39139,7 +39139,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the donkey, seeing the messenger of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
+- fresh: And the donkey, seeing the angel of God standing in the road and his sword drawn in his hand, turned aside from the road and went into the field, and Balaam struck the donkey with the rod to set her straight on the road.
 - brenton: And when the ass saw the angel of God standing opposite in the way, and his sword drawn in his hand, then the ass turned aside out of the way, and went into the field; and Balaam smote the ass with his staff to direct her in the way.
 
 ### Numbers 22:24
@@ -39148,7 +39148,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the messenger of God stood in the vineyards' furrows, a fence here and a fence there.
+- fresh: And the angel of God stood in the vineyards' furrows, a fence here and a fence there.
 - brenton: And the angel of the Lord stood in the avenues of the vines, a fence being on this side and a fence on that.
 
 ### Numbers 22:25
@@ -39157,7 +39157,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the donkey, seeing the messenger of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
+- fresh: And the donkey, seeing the angel of God, pressed herself against the wall and crushed Balaam's foot, and he continued to whip her.
 - brenton: And when the ass saw the angel of God, she thrust herself against the wall, and crushed Balaam's foot against the wall, and he smote her again.
 
 ### Numbers 22:26
@@ -39166,7 +39166,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the messenger of God went on and stood in a narrow place where there was no turning aside right or left.
+- fresh: And the angel of God went on and stood in a narrow place where there was no turning aside right or left.
 - brenton: And the angel of the Lord went farther, and came and stood in a narrow place where it was impossible to turn to the right or the left.
 
 ### Numbers 22:27
@@ -39175,7 +39175,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the donkey, seeing the messenger of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
+- fresh: And the donkey, seeing the angel of God, sat down under Balaam, and Balaam became angry and was striking the donkey with the rod.
 - brenton: And when the ass saw the angel of God, she lay down under Balaam; and Balaam was angry, and struck the ass with his staff.
 
 ### Numbers 22:28
@@ -39211,7 +39211,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And God uncovered Balaam's eyes, and he saw the messenger of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
+- fresh: And God uncovered Balaam's eyes, and he saw the angel of the Lord standing in the road and the sword drawn in his hand, and bending down, he worshiped with his face.
 - brenton: And God opened the eyes of Balaam, and he sees the angel of the Lord withstanding him in the way, and his sword drawn in his hand, and he stooped down and worshipped on his face.
 
 ### Numbers 22:32
@@ -39220,7 +39220,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the messenger of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
+- fresh: And the angel of God said to him, Why did you strike your donkey this third time? And behold, I came out as your adversary, because your way is not fitting before me.
 - brenton: And the angel of God said to him, Why hast thou smitten thine ass this third time? and, behold, I came out to withstand thee, for thy way was not seemly before me; and when the ass saw me, she turned away from me this third time.
 
 ### Numbers 22:33
@@ -39238,7 +39238,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And Balaam said to the messenger of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+- fresh: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 - brenton: And Balaam said to the angel of the Lord, I have sinned, for I did not know that thou wert standing opposite in the way to meet me; and now if it shall not be pleasing to thee for me to go on, I will return.
 
 ### Numbers 22:35
@@ -39247,7 +39247,7 @@ Note:
 - decisions: 0
 - footnotes: 0
 - same_normalized: no
-- fresh: And the messenger of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
+- fresh: And the angel of God said to Balaam, Go along with the men, except that the word that I tell you, this keep to speak. And Balaam went with the princes of Balak.
 - brenton: And the angel of the Lord said to Balaam, Go with the men: nevertheless the word which I shall speak to thee, that thou shalt take heed to speak. And Balaam went with the princes of Balac.
 
 ### Numbers 22:36
@@ -74449,7 +74449,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the woman said, Let the word of my lord the king now be for comfort, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Samuel 14:18

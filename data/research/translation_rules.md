@@ -22,6 +22,7 @@ Draft rules:
 12. Do not preserve raw Greekized spellings in main text without a positive reason.
 13. Preserve name meaning in notes when the meaning is biblically significant or contextually active.
 14. Track exceptions and ambiguous names in a separate name-review workflow, not ad hoc in verse edits.
+15. For overtly theophanic scenes with ἄγγελος κυρίου / ἄγγελος θεοῦ, prefer `angel` over neutral `messenger`; project background treats these scenes as divine manifestation rather than ordinary courier language.
 
 Open questions:
 

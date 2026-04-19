@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 407
+Rows: 408
 
 ## 1 Samuel 15:22
 - priority: `18`
@@ -1072,6 +1072,15 @@ Rows: 407
 - fresh: For when I cast out the nations before your face and enlarge your borders, no one shall desire your land when you go up to appear before the Lord your God three times in the year.
 - mt: For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shall go up to appear before the LORD your God three times in the year.
 - brenton: For when I shall have cast out the nations before thy face, and shall have enlarged thy coasts, no one shall desire thy land, whenever thou mayest go up to appear before the Lord thy God, three times in the year.
+
+## Numbers 22:34
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.764`
+- fresh_brenton_ratio: `0.411`
+- fresh: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
+- mt: And Balaam said unto the angel of the LORD, I have sinned; for I knew not that you stood in the way against me: now therefore, if it displease you, I will get me back again.
+- brenton: And Balaam said to the angel of the Lord, I have sinned, for I did not know that thou wert standing opposite in the way to meet me; and now if it shall not be pleasing to thee for me to go on, I will return.
 
 ## Ezra 9:13
 - priority: `0`
