@@ -70,14 +70,14 @@ Books: 33
 
 ## Numbers 5:18
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, priest, sacrifice; crossref_top_vote=2
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest, sacrifice; crossref_top_vote=2; reco=keep
 - keywords: lord, priest, sacrifice
 - fresh: And the priest shall set the woman before the Lord and uncover the woman's head and put upon her hands the sacrifice of memorial, the sacrifice of jealousy. And in the priest's hand shall be the water of reproof, this cursed water.
 - brenton: And the priest shall cause the woman to stand before the Lord, and shall uncover the head of the woman, and shall put into her hands the sacrifice of memorial, the sacrifice of jealousy; and in the hand of the priest shall be the water of this conviction that brings the curse.
 
 ## Numbers 9:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5; reco=keep
 - keywords: lord, sin, soul
 - fresh: But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
 - brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
@@ -119,28 +119,28 @@ Books: 33
 
 ## Joshua 22:34
 - score: 12
-- reasons: importance=medium; keywords=altar, god, lord, name; crossref_top_vote=4
+- reasons: importance=medium; keywords=altar, god, lord, name; crossref_top_vote=4; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: altar, god, lord, name
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
 ## Joshua 24:19
 - score: 15
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Joshua 24:33
-- score: 11
-- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3
+- score: 15
+- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - keywords: god, king, lord, priest
 - fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
 - brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Judges 13:20
 - score: 10
-- reasons: importance=medium; keywords=altar, angel, lord; crossref_top_vote=8
+- reasons: importance=medium; keywords=altar, angel, lord; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: altar, angel, lord
 - fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
 - brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
@@ -168,7 +168,7 @@ Books: 33
 
 ## 2 Samuel 12:13
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin; crossref_top_vote=15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin; crossref_top_vote=15; reco=keep
 - keywords: lord, sin
 - fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.

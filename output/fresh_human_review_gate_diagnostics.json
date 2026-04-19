@@ -1,7 +1,7 @@
 {
   "priority_rows": 234,
-  "core_rows": 115,
-  "phase1_rows": 60,
+  "core_rows": 122,
+  "phase1_rows": 61,
   "mt_watch_rows": 3,
   "nt_watch_rows": 14,
   "core_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_human_review_core.csv",

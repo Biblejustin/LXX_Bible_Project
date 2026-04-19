@@ -74,15 +74,6 @@ Rows: 12239
 - mt: And you shall put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goes in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
-## 1 Kings 8:53
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.432`
-- fresh_brenton_ratio: `0.134`
-- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
-- mt: For you did separate them from among all the people of the earth, to be yours inheritance, as you spoke by the hand of Moses your servant, when you brought our fathers out of Egypt, O LORD God.
-- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
-
 ## Leviticus 7:32
 - priority: `21`
 - importance: `high`
@@ -335,6 +326,15 @@ Rows: 12239
 - mt: But the man that is clean, and is not in a journey, and forbears to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.
 - brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
 
+## Joshua 22:5
+- priority: `17`
+- importance: `medium`
+- fresh_mt_ratio: `0.377`
+- fresh_brenton_ratio: `0.405`
+- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
+- mt: But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
+- brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
+
 ## Numbers 5:18
 - priority: `17`
 - importance: `high`
@@ -352,6 +352,15 @@ Rows: 12239
 - fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 - mt: Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall all of you bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which all of you vow unto the LORD:
 - brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
+
+## 1 Kings 8:53
+- priority: `17`
+- importance: `high`
+- fresh_mt_ratio: `0.432`
+- fresh_brenton_ratio: `0.134`
+- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
+- mt: For you did separate them from among all the people of the earth, to be yours inheritance, as you spoke by the hand of Moses your servant, when you brought our fathers out of Egypt, O LORD God.
+- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
 ## Deuteronomy 12:26
 - priority: `17`
@@ -479,14 +488,14 @@ Rows: 12239
 - mt: If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 - brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
 
-## Joshua 22:5
+## Joshua 24:33
 - priority: `15`
-- importance: `medium`
-- fresh_mt_ratio: `0.377`
-- fresh_brenton_ratio: `0.405`
-- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
-- mt: But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
-- brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
+- importance: `low`
+- fresh_mt_ratio: `0.279`
+- fresh_brenton_ratio: `0.293`
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
+- mt: And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Nehemiah 1:11
 - priority: `15`
@@ -550,6 +559,15 @@ Rows: 12239
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - mt: That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or food offering, or if to offer peace offerings thereon, let the LORD himself require it;
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
+
+## Judges 6:34
+- priority: `14`
+- importance: `medium`
+- fresh_mt_ratio: `0.677`
+- fresh_brenton_ratio: `0.755`
+- fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
+- mt: But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
+- brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
 ## 2 Chronicles 26:18
 - priority: `13`
@@ -722,15 +740,6 @@ Rows: 12239
 - mt: This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
-## Joshua 24:33
-- priority: `11`
-- importance: `low`
-- fresh_mt_ratio: `0.279`
-- fresh_brenton_ratio: `0.293`
-- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
-- mt: And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
-- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
-
 ## Ezra 7:12
 - priority: `11`
 - importance: `low`
@@ -784,15 +793,6 @@ Rows: 12239
 - fresh: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
 - mt: Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem.
 - brenton: Then the chiefs of the families of Juda and Benjamin arose, and the priests, and the Levites, all whose spirit the Lord stirred up to go up to build the house of the Lord that is in Jerusalem.
-
-## Judges 6:34
-- priority: `10`
-- importance: `medium`
-- fresh_mt_ratio: `0.677`
-- fresh_brenton_ratio: `0.755`
-- fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
-- mt: But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
-- brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
 ## Judges 13:8
 - priority: `10`

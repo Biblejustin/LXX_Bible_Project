@@ -254,28 +254,28 @@ Use:
 
 ### Numbers 5:18
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, priest, sacrifice; crossref_top_vote=2
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest, sacrifice; crossref_top_vote=2; reco=keep
 - crossref top vote: 2
 - fresh: And the priest shall set the woman before the Lord and uncover the woman's head and put upon her hands the sacrifice of memorial, the sacrifice of jealousy. And in the priest's hand shall be the water of reproof, this cursed water.
 - brenton: And the priest shall cause the woman to stand before the Lord, and shall uncover the head of the woman, and shall put into her hands the sacrifice of memorial, the sacrifice of jealousy; and in the hand of the priest shall be the water of this conviction that brings the curse.
 
 ### Numbers 7:89
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, mercy; crossref_top_vote=11
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy; crossref_top_vote=11; reco=keep
 - crossref top vote: 11
 - fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
 - brenton: When Moses went into the tabernacle of witness to speak to God, then he heard the voice of the Lord speaking to him from off the mercy-seat, which is upon the ark of the testimony, between the two cherubs; and he spoke to him.
 
 ### Numbers 9:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5; reco=keep
 - crossref top vote: 5
 - fresh: But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
 - brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
 
 ### Numbers 12:8
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=glory, lord, servant; crossref_top_vote=14
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, servant; crossref_top_vote=14; reco=keep
 - crossref top vote: 14
 - fresh: Mouth to mouth I will speak to him, in visible form and not by riddles, and he has seen the glory of the Lord. And why were you not afraid to speak against my servant Moses?
 - brenton: I will speak to him mouth to mouth apparently, and not in dark speeches; and he has seen the glory of the Lord; and why were ye not afraid to speak against my servant Moses?
@@ -291,7 +291,7 @@ Use:
 
 ### Numbers 25:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5; reco=keep
 - crossref top vote: 5
 - fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 - brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
@@ -370,9 +370,12 @@ Use:
 ## Joshua
 
 ### Joshua 22:5
-- score: 15
-- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49
+- score: 17
+- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 49
+- english witnesses: checked 3, fresh 2, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
+- english witness signals: unclear
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
 
@@ -398,61 +401,78 @@ Use:
 
 ### Joshua 22:34
 - score: 12
-- reasons: importance=medium; keywords=altar, god, lord, name; crossref_top_vote=4
+- reasons: importance=medium; keywords=altar, god, lord, name; crossref_top_vote=4; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 4
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
 ### Joshua 24:19
 - score: 15
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 8
-- english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
+- english witnesses: checked 3, fresh 2, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - english witness signals: unclear
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ### Joshua 24:33
-- score: 11
-- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3
+- score: 15
+- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - crossref top vote: 3
+- english witnesses: checked 3, fresh 0, brenton 0, mt 0, differs all 0
+- english witness recommendation: defer
+- english witness signals: unclear
 - fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
 - brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Judges
 
 ### Judges 6:34
-- score: 10
-- reasons: importance=medium; keywords=god, lord, spirit; crossref_top_vote=8
+- score: 14
+- reasons: importance=medium; keywords=god, lord, spirit; crossref_top_vote=8; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - crossref top vote: 8
+- english witnesses: checked 3, fresh 0, brenton 0, mt 0, differs all 0
+- english witness recommendation: defer
+- english witness signals: unclear
 - fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
 ### Judges 13:6
 - score: 10
-- reasons: importance=medium; keywords=angel, god, name; crossref_top_vote=7
+- reasons: importance=medium; keywords=angel, god, name; crossref_top_vote=7; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 7
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
 - brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
 
 ### Judges 13:8
 - score: 10
-- reasons: importance=medium; keywords=being, god, lord; crossref_top_vote=6
+- reasons: importance=medium; keywords=being, god, lord; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 6
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
 ### Judges 13:9
 - score: 10
-- reasons: importance=medium; keywords=angel, god, lord; crossref_top_vote=6
+- reasons: importance=medium; keywords=angel, god, lord; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 6
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And God listened to the voice of Manōe, and the angel of God came again to the woman while she was sitting in the field, and Manōe her husband was not with her.
 - brenton: And the Lord heard the voice of Manoë, and the angel of God came yet again to the woman; and she sat in the field, and Manoë her husband was not with her.
 
 ### Judges 13:20
 - score: 10
-- reasons: importance=medium; keywords=altar, angel, lord; crossref_top_vote=8
+- reasons: importance=medium; keywords=altar, angel, lord; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 8
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
 - brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
 
@@ -471,8 +491,10 @@ Use:
 
 ### Ruth 1:8
 - score: 9
-- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8
+- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 8
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And Noemin said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
 - brenton: And Noemin said to her daughters-in-law, Go now, return each to the house of her mother: the Lord deal mercifully with you, as ye have dealt with the dead, and with me.
 
@@ -572,7 +594,7 @@ Use:
 
 ### 2 Samuel 12:13
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin; crossref_top_vote=15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin; crossref_top_vote=15; reco=keep
 - crossref top vote: 15
 - fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
@@ -589,7 +611,7 @@ Use:
 
 ### 2 Samuel 15:6
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, king; crossref_top_vote=6
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king; crossref_top_vote=6; reco=keep
 - crossref top vote: 6
 - fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
@@ -632,18 +654,17 @@ Use:
 
 ### 1 Kings 3:9
 - score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29; reco=keep
 - crossref top vote: 29
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?
 
 ### 1 Kings 8:53
-- score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 5
-- english witnesses: checked 3, fresh 0, brenton 0, mt 0, differs all 0
-- english witness recommendation: defer
-- english witness signals: unclear
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
 - brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 

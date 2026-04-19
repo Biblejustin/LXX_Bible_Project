@@ -16,13 +16,13 @@ Selected verses: 6
 
 ## 1 Kings 3:9
 - score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29; reco=keep
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?
 
 ## 1 Kings 8:53
-- score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
 - brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 

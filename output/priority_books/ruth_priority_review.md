@@ -4,7 +4,7 @@ Selected verses: 6
 
 ## Ruth 1:8
 - score: 9
-- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8
+- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - fresh: And Noemin said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
 - brenton: And Noemin said to her daughters-in-law, Go now, return each to the house of her mother: the Lord deal mercifully with you, as ye have dealt with the dead, and with me.
 

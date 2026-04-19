@@ -56,7 +56,7 @@ Books: 34
 
 ## Numbers 12:8
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=glory, lord, servant; crossref_top_vote=14
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, servant; crossref_top_vote=14; reco=keep
 - keywords: glory, lord, servant
 - fresh: Mouth to mouth I will speak to him, in visible form and not by riddles, and he has seen the glory of the Lord. And why were you not afraid to speak against my servant Moses?
 - brenton: I will speak to him mouth to mouth apparently, and not in dark speeches; and he has seen the glory of the Lord; and why were ye not afraid to speak against my servant Moses?
@@ -70,7 +70,7 @@ Books: 34
 
 ## Numbers 25:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5; reco=keep
 - keywords: covenant, god, seed
 - fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 - brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
@@ -83,8 +83,8 @@ Books: 34
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
 ## Joshua 22:5
-- score: 15
-- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49
+- score: 17
+- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: god, law, lord, servant, soul
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
@@ -104,8 +104,8 @@ Books: 34
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
 ## Joshua 24:33
-- score: 11
-- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3
+- score: 15
+- reasons: importance=low; keywords=god, king, lord, priest; crossref_top_vote=3; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - keywords: god, king, lord, priest
 - fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
 - brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
@@ -161,7 +161,7 @@ Books: 34
 
 ## 2 Samuel 15:6
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, king; crossref_top_vote=6
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king; crossref_top_vote=6; reco=keep
 - keywords: judgment, king
 - fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
@@ -196,14 +196,14 @@ Books: 34
 
 ## 1 Kings 3:9
 - score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29; reco=keep
 - keywords: righteousness, servant
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?
 
 ## 1 Kings 8:53
-- score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: god, lord, servant
 - fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
 - brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—

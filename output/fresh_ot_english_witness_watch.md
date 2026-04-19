@@ -1,6 +1,6 @@
 # Fresh OT English Witness Watch
 
-Rows: 17
+Rows: 19
 
 ## Exodus 20:24
 - priority: `35`
@@ -57,20 +57,6 @@ Rows: 17
 - recommendation: `none`
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
-
-## 1 Kings 8:53
-- priority: `21`
-- importance: `high`
-- checked witnesses: `3`
-- fresh support: `0`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `3`
-- signals: unclear
-- recommendation: `defer`
-- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
-- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
 ## 2 Samuel 14:17
 - priority: `21`
@@ -212,6 +198,20 @@ Rows: 17
 - fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
 
+## Joshua 22:5
+- priority: `17`
+- importance: `medium`
+- checked witnesses: `3`
+- fresh support: `2`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `1`
+- signals: unclear
+- recommendation: `keep`
+- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
+- brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
+
 ## 1 Chronicles 16:40
 - priority: `15`
 - importance: `medium`
@@ -229,13 +229,41 @@ Rows: 17
 ## Joshua 24:19
 - priority: `15`
 - importance: `medium`
-- checked witnesses: `2`
-- fresh support: `1`
+- checked witnesses: `3`
+- fresh support: `2`
 - brenton support: `0`
 - mt support: `0`
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `none`
+- recommendation: `keep`
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## Joshua 24:33
+- priority: `15`
+- importance: `low`
+- checked witnesses: `3`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `3`
+- signals: unclear
+- recommendation: `defer`
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
+
+## Judges 6:34
+- priority: `14`
+- importance: `medium`
+- checked witnesses: `3`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `3`
+- signals: unclear
+- recommendation: `defer`
+- fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
+- brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.

@@ -19,9 +19,9 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Deuteronomy 2:30 → score 19
 - 1 Samuel 20:42 → score 19
 - Numbers 18:19 → score 18
+- Joshua 22:5 → score 17
 - 1 Chronicles 22:19 → score 17
 - Isaiah 54:10 → score 16
-- Daniel 4:37 → score 16
 
 ## Covenant / Law / Judgment
 - rows: 79
@@ -30,11 +30,11 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Genesis 18:19 → score 19
 - Numbers 18:19 → score 18
 - Nehemiah 10:34 → score 18
+- Joshua 22:5 → score 17
 - 2 Samuel 7:19 → score 17
 - 1 Chronicles 22:19 → score 17
 - 1 Kings 3:9 → score 16
 - 2 Kings 1:18 → score 16
-- Isaiah 54:10 → score 16
 
 ## Theology / Divine Identity
 - rows: 103
@@ -72,8 +72,8 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Deuteronomy 2:30 → score 19
 - 1 Samuel 20:42 → score 19
 - Numbers 18:19 → score 18
+- Joshua 22:5 → score 17
 - 2 Kings 1:18 → score 16
-- Isaiah 54:10 → score 16
 
 ## Death / Afterlife
 - rows: 1

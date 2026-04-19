@@ -10,7 +10,7 @@ Selected verses: 6
 
 ## 2 Samuel 12:13
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin; crossref_top_vote=15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin; crossref_top_vote=15; reco=keep
 - fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
@@ -22,7 +22,7 @@ Selected verses: 6
 
 ## 2 Samuel 15:6
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, king; crossref_top_vote=6
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king; crossref_top_vote=6; reco=keep
 - fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
 

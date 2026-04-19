@@ -42,7 +42,7 @@ Books: 34
 
 ## Numbers 9:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5; reco=keep
 - keywords: lord, sin, soul
 - fresh: But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
 - brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
@@ -56,28 +56,28 @@ Books: 34
 
 ## Numbers 25:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5; reco=keep
 - keywords: covenant, god, seed
 - fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 - brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
 
 ## Joshua 22:5
-- score: 15
-- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49
+- score: 17
+- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: god, law, lord, servant, soul
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
 
 ## Joshua 24:19
 - score: 15
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Ruth 1:8
 - score: 9
-- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8
+- reasons: importance=low; keywords=law, lord, mercy; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: law, lord, mercy
 - fresh: And Noemin said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
 - brenton: And Noemin said to her daughters-in-law, Go now, return each to the house of her mother: the Lord deal mercifully with you, as ye have dealt with the dead, and with me.
@@ -105,21 +105,21 @@ Books: 34
 
 ## 2 Samuel 12:13
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin; crossref_top_vote=15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin; crossref_top_vote=15; reco=keep
 - keywords: lord, sin
 - fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
 - brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
 ## 2 Samuel 15:6
 - score: 15
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, king; crossref_top_vote=6
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king; crossref_top_vote=6; reco=keep
 - keywords: judgment, king
 - fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
 
 ## 1 Kings 3:9
 - score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteousness, servant; crossref_top_vote=29; reco=keep
 - keywords: righteousness, servant
 - fresh: And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?

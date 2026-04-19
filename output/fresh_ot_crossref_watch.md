@@ -80,16 +80,6 @@ Rows: 209
 - OT clues: Lev.4.26 (6) -> And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Lev.4.35 (5) -> And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Gen.8.21 (4) -> And the Lord God smelled an aroma of sweet fragrance, and the Lord God said, having considered, Let me not continue any longer to curse the earth because of the works of humans, because the mind of the human lies carefully upon evil things from his youth. Therefore I will not continue any longer to strike all living flesh, as I have done. || Lev.1.9 (4) -> And they shall wash the entrails and the feet with water, and the priests shall place everything upon the altar. It is an offering, a sacrifice, an aroma of sweet fragrance to the Lord.
 - NT clues: 1John.4.9-1John.4.10 (3) -> In this was manifested the love (o. agape) of God toward us, because that God sent his only begotten Son into the world, that we might live through him. || 1Pet.2.4-1Pet.2.5 (2) -> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,
 
-## 1 Kings 8:53
-- score: 21
-- top vote: 5
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
-- OT clues: Exod.19.5-Exod.19.6 (5) -> "And now, if in hearing you hear my voice and keep my covenant, you shall be to me a people of special possession from among all the nations, for the whole earth is mine." || Deut.14.2 (4) -> because you are a holy people to the Lord your God, and the Lord your God chose you to become for him a people of special possession from all the nations on the face of the earth. || Deut.32.9 (4) -> And the Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel. || Deut.33.1-Deut.33.3 (2) -> And this is the blessing with which Moses, the man of God, blessed the sons of Israel before his death.
-- NT clues: 1Pet.2.9 (2) -> But all of you are a chosen generation, a royal priesthood, an holy nation, an exclusive people; that all of you should show forth the praises of him who has called you out of darkness into his marvellous light; || 2Cor.6.14-2Cor.6.18 (2) -> Be all of you not unequally yoked together with unbelievers: for what fellowship has righteousness with unrighteousness? and what communion has light with darkness?
-
 ## 2 Samuel 14:17
 - score: 21
 - top vote: 5
@@ -317,6 +307,16 @@ Rows: 209
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - OT clues: 1Kgs.18.30 (2) -> And Elijah said to the people, Come near to me. And all the people came near to him. || 2Chr.14.4 (2) -> And he removed from all cities of Iouda altars and idols, and land was at peace. || 2Chr.29.18 (2) -> And they went inside to Ezekias the king and said, We sanctified all things in house of Lord, altar of whole burnt offering and its vessels and table of presentation and its vessels. || 2Chr.30.12 (2) -> And in Iouda hand of Lord came to give them one heart, to come do according to command of king and rulers in word of Lord.
 
+## Joshua 22:5
+- score: 17
+- top vote: 49
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
+- OT clues: Exod.20.6 (42) -> "and showing mercy into thousands for those who love me and keep my commandments." || Exod.15.26 (7) -> And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you." || Deut.11.22 (6) -> And it shall be, if indeed you listen to all these commands that I command you today to do, to love the Lord our God and to walk in all his ways and cling to him, || Josh.24.14-Josh.24.15 (4) -> And now fear the Lord and serve him in uprightness and in righteousness, and remove the foreign gods that your fathers served beyond the river and in Egypt, and serve the Lord.
+- NT clues: Matt.22.37 (49) -> Jesus said unto him, You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. || Rom.8.28 (33) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose. || John.14.15 (5) -> If all of you love me, keep my commandments.
+
 ## Numbers 12:8
 - score: 17
 - top vote: 14
@@ -346,6 +346,16 @@ Rows: 209
 - fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - OT clues: 1Sam.16.12-1Sam.16.13 (7) -> And he sent and brought him in. And he was ruddy, with beauty of eyes, and good in appearance to the Lord. And the Lord said to Samouēl, Rise and anoint David, because this one is good. || 2Sam.7.8-2Sam.7.9 (6) -> And now thus you will say to my servant David: Thus says the Lord Almighty, I took you from the fold of the sheep, for you to be leader over my people, over Israel. || 1Chr.16.4-1Chr.16.5 (3) -> And he appointed before ark of covenant of Lord from Levites, ministers proclaiming aloud and giving thanks and praising Lord God of Israel: || 1Chr.16.7 (3) -> On that day then Dauid first appointed by hand of Asaph and his brothers to praise Lord.
 - NT clues: Ps.89.20 (6) -> I have found David my servant; with my holy oil have I anointed him: || Col.3.16 (5) -> Let the (o. logos) word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord. || Ps.78.70-Ps.78.71 (5) -> He chose David also his servant, and took him from the sheepfolds:
+
+## 1 Kings 8:53
+- score: 17
+- top vote: 5
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
+- OT clues: Exod.19.5-Exod.19.6 (5) -> "And now, if in hearing you hear my voice and keep my covenant, you shall be to me a people of special possession from among all the nations, for the whole earth is mine." || Deut.14.2 (4) -> because you are a holy people to the Lord your God, and the Lord your God chose you to become for him a people of special possession from all the nations on the face of the earth. || Deut.32.9 (4) -> And the Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel. || Deut.33.1-Deut.33.3 (2) -> And this is the blessing with which Moses, the man of God, blessed the sons of Israel before his death.
+- NT clues: 1Pet.2.9 (2) -> But all of you are a chosen generation, a royal priesthood, an holy nation, an exclusive people; that all of you should show forth the praises of him who has called you out of darkness into his marvellous light; || 2Cor.6.14-2Cor.6.18 (2) -> Be all of you not unequally yoked together with unbelievers: for what fellowship has righteousness with unrighteousness? and what communion has light with darkness?
 
 ## 2 Samuel 7:19
 - score: 17
@@ -516,16 +526,6 @@ Rows: 209
 - OT clues: Exod.15.2 (54) -> "He became for me a helper and a shelter for salvation. This is my God, and I will glorify him, God of my father, and I will exalt him." || Ps.118.14 (45) -> In way of your testimonies I delighted as over all wealth. || Ps.27.1 (43) -> Of David. To you, Lord, I cried out. My God, do not be silent from me, lest if you be silent from me, I become like those going down into pit. || Isa.26.3-Isa.26.4 (28) -> upholding truth and keeping peace because upon you
 - NT clues: Rev.7.10 (31) -> And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and unto the Lamb.
 
-## Joshua 22:5
-- score: 15
-- top vote: 49
-- OT crossrefs: 4
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
-- OT clues: Exod.20.6 (42) -> "and showing mercy into thousands for those who love me and keep my commandments." || Exod.15.26 (7) -> And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you." || Deut.11.22 (6) -> And it shall be, if indeed you listen to all these commands that I command you today to do, to love the Lord our God and to walk in all his ways and cling to him, || Josh.24.14-Josh.24.15 (4) -> And now fear the Lord and serve him in uprightness and in righteousness, and remove the foreign gods that your fathers served beyond the river and in Egypt, and serve the Lord.
-- NT clues: Matt.22.37 (49) -> Jesus said unto him, You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. || Rom.8.28 (33) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose. || John.14.15 (5) -> If all of you love me, keep my commandments.
-
 ## Zechariah 12:10
 - score: 15
 - top vote: 34
@@ -606,6 +606,16 @@ Rows: 209
 - OT clues: 2Chr.2.11 (5) -> And Chiram said, Blessed Lord God of Israel who made heaven and earth, who gave to king Dauid wise son, knowing understanding and knowledge, who will build house to Lord and house for his kingdom. || 1Chr.29.23 (4) -> And Salomon sat on throne of Dauid his father and prospered, and all Israel listened to him. || Isa.32.1-Isa.32.2 (4) -> For behold, righteous king will reign, and rulers will rule with judgment. || Deut.7.8 (3) -> but because the Lord loves you and keeps the oath that he swore to your fathers, the Lord brought you out with mighty hand and high arm, and he redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
 - NT clues: Heb.1.8-Heb.1.9 (3) -> But unto the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
 
+## Joshua 24:33
+- score: 15
+- top vote: 3
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
+- OT clues: Exod.6.25 (3) -> And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the fathers of the Levites according to their generations. || Josh.22.13 (3) -> And the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest, || Exod.6.23 (2) -> And Aaron took Elisabeth daughter of Aminadab, sister of Naasson, as wife to himself, and she bore to him Nadab and Abiud and Eleazar and Ithamar. || Isa.57.1-Isa.57.2 (2) -> See how righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from face of injustice righteous man is taken away.
+- NT clues: Acts.13.36 (2) -> For David, after he had served his own generation by the will of God, fell asleep, and was laid unto his fathers, and saw corruption: || Heb.7.24 (2) -> But this man, because he continues ever, has an unchangeable priesthood. || Heb.9.26-Heb.9.27 (2) -> For then must he often have suffered since the foundation of the world: but now once in the end of the world has he appeared to put away sin by the sacrifice of himself.
+
 ## Isaiah 44:2
 - score: 14
 - top vote: 200
@@ -655,6 +665,16 @@ Rows: 209
 - fresh: Thus says Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to servant of rulers: Kings will see and rise, rulers also, and will worship, because of Lord, because Holy One of Israel is faithful, and he chose you.
 - OT clues: Isa.53.3 (11) -> But his form dishonored, failing beyond all men, man in wound and knowing how to bear sickness, because his face is turned away; he was dishonored and not counted. || Isa.48.17 (10) -> Thus says Lord, one rescuing you, Holy One of Israel: I am your God. I showed you to find way in which you should walk. || Ps.22.6-Ps.22.8 (9) -> And your mercy will pursue me all days of my life, and my dwelling in house of Lord to length of days. || Ps.72.10-Ps.72.11 (9) -> Therefore my people will return here, and full days will be found for them.
 - NT clues: 1Pet.2.4 (12) -> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, || Matt.26.67 (11) -> Then did they spit in his face, and buffeted him; and others stroke him with the palms of their hands,
+
+## Judges 6:34
+- score: 14
+- top vote: 8
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
+- OT clues: 2Chr.24.20 (8) -> And spirit of God clothed Azarian son of Iōdae the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you. || 1Chr.12.18 (6) -> And Dauid went out to meet them and said to them, If you have come to me in peace, let my heart be united with you; but if to betray me to my enemies, though no truth of hand is against me, may God of our fathers see and rebuke. || Judg.3.10 (6) -> And the Spirit of the Lord came upon him, and he judged Israel and went out to war, and the Lord gave Chousarsathōm king of Syria into his hand, and his hand grew strong over Chousarsathōm. || Judg.3.27 (6) -> And it came to be when he arrived, he sounded a horn in the hill-country of Ephraim, and the sons of Israel went down with him, and he was before them.
+- NT clues: Rom.13.14 (6) -> But put all of you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts thereof. || 1Cor.12.8-1Cor.12.11 (3) -> In order to one is given by the Spirit (o. pneuma) the word (o. logos) of wisdom; to another the word (o. logos) of knowledge by the same Spirit; (o. pneuma)
 
 ## Jeremiah 14:9
 - score: 14
@@ -1255,16 +1275,6 @@ Rows: 209
 - OT clues: Ezek.20.25-Ezek.20.26 (3) -> And I also gave them ordinances not good and judgments in which they will not live. || Ezek.43.7 (3) -> And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in midst of them. || Hos.4.17 (3) -> Ephraim, partner of idols, set stumbling blocks for himself. || Isa.1.13-Isa.1.15 (3) -> You will not continue. If you bring fine flour, it is vain; incense = abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
 - NT clues: 2Thess.2.11 (2) -> And for this cause God shall send them strong delusion, that they should believe a lie:
 
-## Joshua 24:33
-- score: 11
-- top vote: 3
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.
-- OT clues: Exod.6.25 (3) -> And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the fathers of the Levites according to their generations. || Josh.22.13 (3) -> And the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest, || Exod.6.23 (2) -> And Aaron took Elisabeth daughter of Aminadab, sister of Naasson, as wife to himself, and she bore to him Nadab and Abiud and Eleazar and Ithamar. || Isa.57.1-Isa.57.2 (2) -> See how righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from face of injustice righteous man is taken away.
-- NT clues: Acts.13.36 (2) -> For David, after he had served his own generation by the will of God, fell asleep, and was laid unto his fathers, and saw corruption: || Heb.7.24 (2) -> But this man, because he continues ever, has an unchangeable priesthood. || Heb.9.26-Heb.9.27 (2) -> For then must he often have suffered since the foundation of the world: but now once in the end of the world has he appeared to put away sin by the sacrifice of himself.
-
 ## Joel 2:23
 - score: 10
 - top vote: 49
@@ -1403,16 +1413,6 @@ Rows: 209
 - fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
 - OT clues: Lev.9.24 (8) -> And fire came out from the Lord and consumed on the altar the whole burnt offerings and the fats, and all the people saw and were astonished and fell on their faces. || 1Chr.21.16 (5) -> And Dauid lifted his eyes and saw angel of Lord standing between earth and between heaven, with his sword drawn in his hand, stretched out over Ierousalem. And Dauid and elders clothed in sackcloth fell on their faces. || 2Kgs.2.11 (5) -> And it came to be as they were going on and talking, behold, a chariot of fire and horses of fire, and they separated between the two of them, and Elijah was taken up in a storm as into heaven. || Ezek.1.28 (4) -> Like appearance of bow when it is in cloud in day of rain, so was standing of brightness around. This was appearance of likeness of glory of Lord, and I saw and fell on my face and heard voice speaking.
 - NT clues: Matt.17.6 (3) -> And when the disciples heard it, they fell on their face, and were sore afraid. || Heb.1.3 (1) -> Who being the brightness of his glory, and the express image of his person, and upholding all things by the word (o. rhema) of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:
-
-## Judges 6:34
-- score: 10
-- top vote: 8
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
-- OT clues: 2Chr.24.20 (8) -> And spirit of God clothed Azarian son of Iōdae the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you. || 1Chr.12.18 (6) -> And Dauid went out to meet them and said to them, If you have come to me in peace, let my heart be united with you; but if to betray me to my enemies, though no truth of hand is against me, may God of our fathers see and rebuke. || Judg.3.10 (6) -> And the Spirit of the Lord came upon him, and he judged Israel and went out to war, and the Lord gave Chousarsathōm king of Syria into his hand, and his hand grew strong over Chousarsathōm. || Judg.3.27 (6) -> And it came to be when he arrived, he sounded a horn in the hill-country of Ephraim, and the sons of Israel went down with him, and he was before them.
-- NT clues: Rom.13.14 (6) -> But put all of you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts thereof. || 1Cor.12.8-1Cor.12.11 (3) -> In order to one is given by the Spirit (o. pneuma) the word (o. logos) of wisdom; to another the word (o. logos) of knowledge by the same Spirit; (o. pneuma)
 
 ## Malachi 1:14
 - score: 10

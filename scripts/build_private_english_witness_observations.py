@@ -139,6 +139,30 @@ def main() -> None:
             }
         )
 
+    seeded_refs = {row["ref"] for row in out_rows}
+    preserved_prior = []
+    for row in load_csv(OUT_CSV):
+        ref = (row.get("ref") or "").strip()
+        if not ref or ref in seeded_refs:
+            continue
+        review_fields = [
+            row.get("les_alignment", ""),
+            row.get("nets_alignment", ""),
+            row.get("saas_alignment", ""),
+            row.get("les_signal", ""),
+            row.get("nets_signal", ""),
+            row.get("saas_signal", ""),
+            row.get("consensus_recommendation", ""),
+            row.get("reviewer_notes", ""),
+        ]
+        if any((value or "").strip() for value in review_fields):
+            preserved_prior.append(dict(row))
+
+    start = len(out_rows) + 1
+    for index, row in enumerate(preserved_prior, start=start):
+        row["order"] = str(index)
+        out_rows.append(row)
+
     write_csv(OUT_CSV, out_rows)
     OUT_README.write_text(
         "\n".join(

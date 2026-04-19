@@ -56,7 +56,7 @@ Books: 31
 
 ## Numbers 9:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin, soul; crossref_top_vote=5; reco=keep
 - keywords: lord, sin, soul
 - fresh: But the man who is clean and is not on a far journey and yet neglects to keep the Passover, that soul shall be cut off from its people, because he did not bring the Lord's gift at its appointed time. That man shall bear his sin.
 - brenton: And whatsoever man shall be clean, and is not far off on a journey, and shall fail to keep the passover, that soul shall be cut off from his people, because he has not offered the gift to the Lord in its season: that man shall bear his iniquity.
@@ -70,7 +70,7 @@ Books: 31
 
 ## Numbers 25:13
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, seed; crossref_top_vote=5; reco=keep
 - keywords: covenant, god, seed
 - fresh: And it shall be to him and to his seed after him a covenant of everlasting priesthood, because he was jealous for his God and made atonement for the sons of Israel.
 - brenton: and he and his seed after him shall have a perpetual covenant of priesthood, because he was zealous for his God, and made atonement for the children of Israel.
@@ -90,8 +90,8 @@ Books: 31
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
 ## Joshua 22:5
-- score: 15
-- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49
+- score: 17
+- reasons: importance=medium; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: god, law, lord, servant, soul
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
@@ -105,21 +105,21 @@ Books: 31
 
 ## Joshua 24:19
 - score: 15
-- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: importance=medium; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: being, forgive, god, holy, lord
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
 ## Judges 6:34
-- score: 10
-- reasons: importance=medium; keywords=god, lord, spirit; crossref_top_vote=8
+- score: 14
+- reasons: importance=medium; keywords=god, lord, spirit; crossref_top_vote=8; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - keywords: god, lord, spirit
 - fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
 ## Judges 13:8
 - score: 10
-- reasons: importance=medium; keywords=being, god, lord; crossref_top_vote=6
+- reasons: importance=medium; keywords=being, god, lord; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: being, god, lord
 - fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
