@@ -30,20 +30,6 @@ Rows: 13
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## Leviticus 7:32
-- priority: `24`
-- importance: `high`
-- checked: `1`
-- scopes: soteria-sacrifice-formula
-- signals: lexical_support
-- supports: salvation-shaped rendering
-- recommendation: `keep`
-- confidence: `high`
-- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
-- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
-
 ## Leviticus 3:1
 - priority: `23`
 - importance: `high`
@@ -99,6 +85,20 @@ Rows: 13
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## Leviticus 7:32
+- priority: `21`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
 
 ## Exodus 24:5
 - priority: `19`

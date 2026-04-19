@@ -4,14 +4,14 @@ Selected verses: 6
 
 ## Deuteronomy 2:30
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8; eng_reco=keep; reco=keep
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
 ## Deuteronomy 5:11
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, name; crossref_top_vote=38
-- fresh: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; crossref_top_vote=38; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
+- fresh: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
 - brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
 ## Deuteronomy 12:11

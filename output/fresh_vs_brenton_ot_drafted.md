@@ -18534,7 +18534,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
+- fresh: "You shall not take the name of the Lord your God in vain, for the Lord will certainly not clear the one who takes his name in vain."
 - brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
 
 ### Exodus 20:8
@@ -45135,7 +45135,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
+- fresh: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
 - brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
 ### Deuteronomy 5:12

@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Jeremiah 9:23
-- score: 16
-- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos; reco=needs_logos
+- score: 13
+- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=keep; reco=keep
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 

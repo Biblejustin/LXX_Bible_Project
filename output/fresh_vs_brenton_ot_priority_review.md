@@ -53,14 +53,15 @@ Use:
 
 ### Genesis 1:1
 - score: 19
-- reasons: decisions=3; footnotes=1; importance=high; keywords=god; crossref_top_vote=361
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=god; crossref_top_vote=361; eng_reco=keep; reco=keep
 - crossref top vote: 361
+- english witness recommendation: keep
 - fresh: At the beginning, God made heaven and earth.
 - brenton: In the beginning God made the heaven and the earth.
 
 ### Genesis 1:2
 - score: 21
-- reasons: decisions=4; footnotes=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering; reco=keep
+- reasons: decisions=4; footnotes=1; reviewed_decisions=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering; reco=keep
 - logos local: checked 1, supports Spirit of God rendering, confidence medium
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -70,14 +71,15 @@ Use:
 
 ### Genesis 1:5
 - score: 19
-- reasons: decisions=2; footnotes=1; importance=high; keywords=day one, god; crossref_top_vote=26
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=day one, god; crossref_top_vote=26; eng_reco=keep; reco=keep
 - crossref top vote: 26
+- english witness recommendation: keep
 - fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
 - brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
 
 ### Genesis 1:26
 - score: 20
-- reasons: decisions=2; footnotes=1; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 82
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -86,7 +88,7 @@ Use:
 
 ### Genesis 2:7
 - score: 28
-- reasons: decisions=3; footnotes=2; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
+- reasons: decisions=3; footnotes=2; reviewed_decisions=3; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
 - nt refs: 1 Corinthians 15:45
 - nt english witnesses: checked 3, support 2, soften 0, mixed 1
 - nt english recommendation: keep
@@ -102,7 +104,7 @@ Use:
 
 ### Genesis 18:19
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 18
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -113,7 +115,7 @@ Use:
 
 ### Exodus 3:2
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 17
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -123,23 +125,26 @@ Use:
 
 ### Exodus 6:3
 - score: 20
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 14
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - english witness signals: unclear
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ### Exodus 20:7
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, name; crossref_top_vote=39
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; crossref_top_vote=39; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 39
-- fresh: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
+- fresh: "You shall not take the name of the Lord your God in vain, for the Lord will certainly not clear the one who takes his name in vain."
 - brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
 
 ### Exodus 20:24
 - score: 35
-- reasons: decisions=2; footnotes=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, name, peace, sacrifice, salvation; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=43; crossref_shared_family=4; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -156,7 +161,7 @@ Use:
 
 ### Exodus 24:5
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, peace, salvation; crossref_top_vote=3; crossref_shared_family=2; eng=fresh:1/brenton:1/mt:0; eng_flags=smoothing_issue; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -169,7 +174,7 @@ Use:
 
 ### Exodus 28:30
 - score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Disclosure and Truth rendering; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, judgment, lord, truth; crossref_top_vote=9; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Disclosure and Truth rendering; reco=keep
 - logos local: checked 1, supports Disclosure and Truth rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -183,14 +188,15 @@ Use:
 
 ### Leviticus 2:13
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, god, lord, sacrifice; crossref_top_vote=18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, sacrifice; crossref_top_vote=18; eng_reco=keep; reco=keep
 - crossref top vote: 18
+- english witness recommendation: keep
 - fresh: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
 - brenton: And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.
 
 ### Leviticus 3:1
 - score: 23
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
@@ -203,8 +209,9 @@ Use:
 
 ### Leviticus 4:3
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, lord, priest, sin; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, lord, priest, sin; crossref_top_vote=5; eng_reco=keep; reco=keep
 - crossref top vote: 5
+- english witness recommendation: keep
 - fresh: if the anointed high priest sins so as to make the people sin, then he shall bring for his sin that he sinned a calf from the cattle, without blemish, to the Lord for his sin.
 - brenton: if the anointed priest sin so as to cause the people to sin, then shall he bring for his sin, which he has sinned, an unblemished calf of the herd to the Lord for his sin.
 
@@ -222,23 +229,24 @@ Use:
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
 
 ### Leviticus 7:32
-- score: 24
-- reasons: decisions=1; footnotes=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=needs_logos
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - logos local: checked 1, supports salvation-shaped rendering, confidence high
 - logos local recommendation: keep
 - logos local signals: lexical_support
 - crossref top vote: 5
 - crossref shared-family hits: 2
 - english witnesses: checked 2, fresh 0, brenton 0, mt 0, differs all 0
-- english witness recommendation: needs_logos
+- english witness recommendation: keep
 - english witness signals: unclear
 - fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
 - brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
 
 ### Leviticus 18:21
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=holy, lord, name, seed; crossref_top_vote=10
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord, name, seed; crossref_top_vote=10; eng_reco=keep; reco=keep
 - crossref top vote: 10
+- english witness recommendation: keep
 - fresh: And from your seed you shall not give to serve a ruler, and you shall not profane my holy name. I am the Lord.
 - brenton: And thou shalt not give of thy seed to serve a ruler; and thou shalt not profane my holy name; I am the Lord.
 
@@ -274,8 +282,10 @@ Use:
 
 ### Numbers 18:19
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=covenant, holy, lord, seed; crossref_top_vote=6
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, holy, lord, seed; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 6
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
 
@@ -290,16 +300,19 @@ Use:
 
 ### Deuteronomy 2:30
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8; eng_reco=keep; reco=keep
 - crossref top vote: 8
+- english witness recommendation: keep
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
 ### Deuteronomy 5:11
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, name; crossref_top_vote=38
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; crossref_top_vote=38; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 38
-- fresh: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
+- fresh: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
 - brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
 ### Deuteronomy 12:11
@@ -509,36 +522,42 @@ Use:
 
 ### 1 Samuel 15:22
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=418
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=418; eng_reco=keep; reco=keep
 - crossref top vote: 418
+- english witness recommendation: keep
 - fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
 - brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
 
 ### 1 Samuel 16:7
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord; crossref_top_vote=146
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=146; eng_reco=keep; reco=keep
 - crossref top vote: 146
+- english witness recommendation: keep
 - fresh: And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
 - brenton: But the Lord said to Samuel, Look not on his appearance, nor on his stature, for I have rejected him; for God sees not as a man looks; for man looks at the outward appearance, but God looks at the heart.
 
 ### 1 Samuel 20:42
 - score: 19
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord, name, peace, seed; crossref_top_vote=5
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, peace, seed; crossref_top_vote=5; eng_reco=keep; reco=keep
 - crossref top vote: 5
+- english witness recommendation: keep
 - fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 - brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
 
 ### 1 Samuel 23:16
 - score: 16
-- reasons: decisions=1; footnotes=1; importance=high; keywords=lord; crossref_top_vote=205
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=205; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 205
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
 - fresh: And Iōnathan son of Saoul rose and went to David into the New Place and strengthened his hands in the Lord.
 - brenton: And Jonathan son of Saul rose, and went to David to Cæne, and strengthened his hands in the Lord.
 
 ### 1 Samuel 30:6
 - score: 18
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, soul; crossref_top_vote=33
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, soul; crossref_top_vote=33; eng_reco=keep; reco=keep
 - crossref top vote: 33
+- english witness recommendation: keep
 - fresh: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
 
@@ -560,7 +579,7 @@ Use:
 
 ### 2 Samuel 14:17
 - score: 21
-- reasons: decisions=1; footnotes=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 5
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -577,7 +596,7 @@ Use:
 
 ### 2 Samuel 23:1
 - score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 7
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -597,7 +616,7 @@ Use:
 
 ### 1 Kings 2:35
 - score: 27
-- reasons: decisions=1; footnotes=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 5
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -619,15 +638,18 @@ Use:
 - brenton: Thou shalt give therefore to thy servant a heart to hear and to judge thy people justly, and to discern between good and evil: for who will be able to judge this thy great people?
 
 ### 1 Kings 8:53
-- score: 17
-- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5
+- score: 21
+- reasons: decisions=1; footnotes=1; importance=high; keywords=god, lord, servant; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=defer; eng_flags=unclear; reco=defer
 - crossref top vote: 5
+- english witnesses: checked 3, fresh 0, brenton 0, mt 0, differs all 0
+- english witness recommendation: defer
+- english witness signals: unclear
 - fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
 - brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
 ### 1 Kings 12:24
 - score: 22
-- reasons: decisions=1; footnotes=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, king, lord, name, servant; crossref_top_vote=4; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 4
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -658,7 +680,7 @@ Use:
 
 ### 2 Kings 2:9
 - score: 13
-- reasons: decisions=1; footnotes=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=spirit; crossref_top_vote=12; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 12
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
@@ -709,11 +731,11 @@ Use:
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
 
 ### 1 Chronicles 16:40
-- score: 18
-- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- score: 15
+- reasons: importance=medium; keywords=altar, god, law, lord, servant; crossref_top_vote=4; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - crossref top vote: 4
 - english witnesses: checked 2, fresh 0, brenton 0, mt 0, differs all 0
-- english witness recommendation: needs_logos
+- english witness recommendation: keep
 - english witness signals: unclear
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
@@ -770,7 +792,7 @@ Use:
 
 ### 2 Chronicles 12:13
 - score: 23
-- reasons: decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- reasons: decisions=1; reviewed_decisions=1; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - nt refs: Acts 15:17, James 2:7, Romans 2:17
 - nt english witnesses: checked 9, support 3, soften 3, mixed 3
 - nt english recommendation: keep
@@ -1187,10 +1209,10 @@ Use:
 - brenton: [missing]
 
 ### Isaiah 54:10
-- score: 19
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos; reco=needs_logos
+- score: 16
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=keep; reco=keep
 - crossref top vote: 56
-- english witness recommendation: needs_logos
+- english witness recommendation: keep
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
@@ -1224,10 +1246,10 @@ Use:
 - brenton: [missing]
 
 ### Jeremiah 9:23
-- score: 16
-- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=needs_logos; reco=needs_logos
+- score: 13
+- reasons: importance=low; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng_reco=keep; reco=keep
 - crossref top vote: 57
-- english witness recommendation: needs_logos
+- english witness recommendation: keep
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
@@ -1642,10 +1664,10 @@ Use:
 - brenton: [missing]
 
 ### Micah 5:3
-- score: 16
-- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos; reco=needs_logos
+- score: 13
+- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=keep; reco=keep
 - crossref top vote: 11
-- english witness recommendation: needs_logos
+- english witness recommendation: keep
 - fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 

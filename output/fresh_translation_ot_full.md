@@ -119,11 +119,11 @@ Syntax notes: Naming formula gives ordered functions. The closing line keeps the
 Draft translation: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
 
 Decision rows:
-- greek_phrase: ἐκάλεσεν ἡμέραν / νύκτα | lemma: καλέω | ἡμέρα | νύξ | morphology: aorist active indicative + accusative predicate objects | chosen_rendering: called Day / called Night | alternate_renderings: named Day / named Night | rationale: Keeps naming language visible and preserves the paired cadence. | status: drafted
-- greek_phrase: ἡμέρα μία | lemma: ἡμέρα | εἷς | morphology: noun + cardinal adjective | chosen_rendering: day one | alternate_renderings: first day | rationale: Keeps the cardinal wording visible instead of smoothing immediately to an ordinal. | status: drafted
+- greek_phrase: ἐκάλεσεν ἡμέραν / νύκτα | lemma: καλέω | ἡμέρα | νύξ | morphology: aorist active indicative + accusative predicate objects | chosen_rendering: called Day / called Night | alternate_renderings: named Day / named Night | rationale: Keeps naming language visible and preserves the paired cadence. Direct Logos export shows the LXX English witnesses staying close to the naming formula here. | status: reviewed
+- greek_phrase: ἡμέρα μία | lemma: ἡμέρα | εἷς | morphology: noun + cardinal adjective | chosen_rendering: day one | alternate_renderings: first day | rationale: Keeps the cardinal wording visible instead of smoothing immediately to an ordinal. Direct Logos export confirms the witness split and supports keeping the Greek cardinal force visible. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: day one | footnote_text: Greek uses a cardinal expression here, literally 'day one,' rather than the more expected ordinal 'first day.' The wording may mark the opening day as a distinct starting point. | source_basis: syntax + discourse | status: drafted
+- note_type: translation | trigger_phrase: day one | footnote_text: Greek uses a cardinal expression here, literally 'day one,' rather than the more expected ordinal 'first day.' Direct Logos export shows the witness split, and the draft keeps the Greek cardinal force visible rather than smoothing to an ordinal. | source_basis: syntax + discourse + witnesses | status: reviewed
 
 Logos research:
 - greek_phrase: ἡμέρα μία | lemma: ἡμέρα | εἷς | resource: LLS:GRAMSPTGRK | usage_note: Check whether the cardinal expression here carries any discourse effect beyond simple counting. | next_action: verify day one wording
@@ -41309,13 +41309,13 @@ Greek: ου λημψη το ονομα κυριου του θεου σου επ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
+Draft translation: "You shall not take the name of the Lord your God in vain, for the Lord will certainly not clear the one who takes his name in vain."
 
 Decision rows:
-- greek_phrase: ἐπὶ ματαίῳ | lemma: μάταιος | morphology: dative singular adjective with preposition | chosen_rendering: upon emptiness | alternate_renderings: in vain; for vanity; for what is empty | rationale: Preserves the emptiness/vanity notion behind the command instead of only using the inherited idiom in vain. | status: drafted
+- greek_phrase: ἐπὶ ματαίῳ | lemma: μάταιος | morphology: dative singular adjective with preposition | chosen_rendering: in vain | alternate_renderings: upon emptiness; for vanity; for what is empty | rationale: English witness tradition is unanimous here | status: and in vain remains a faithful idiomatic rendering of the Greek phrase while the footnote preserves the emptiness/vanity nuance.
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: upon emptiness | footnote_text: Greek speaks of taking the divine name upon emptiness or vanity. This draft keeps that underlying image visible rather than only the inherited English idiom in vain. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: in vain | footnote_text: Greek literally speaks of taking the divine name upon emptiness or vanity. The main line now uses the established English idiom in vain, while this note preserves the underlying image. | source_basis: lexical + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -54700,10 +54700,10 @@ Syntax notes: [TODO]
 Draft translation: And every gift of your sacrifice shall be salted with salt. You shall not let the salt of the covenant of the Lord cease from your sacrifices. On every gift of yours you shall bring salt to the Lord your God.
 
 Decision rows:
-- greek_phrase: ἅλα διαθήκης κυρίου | lemma: ἅλς | διαθήκη | κύριος | morphology: accusative singular noun + genitive chain | chosen_rendering: the salt of the covenant of the Lord | alternate_renderings: covenant salt; the covenantal salt of the Lord | rationale: Preserves the covenant formula attached to salt rather than reducing it to a ritual detail only. | status: drafted
+- greek_phrase: ἅλα διαθήκης κυρίου | lemma: ἅλς | διαθήκη | κύριος | morphology: accusative singular noun + genitive chain | chosen_rendering: the salt of the covenant of the Lord | alternate_renderings: covenant salt; the covenantal salt of the Lord | rationale: Preserves the covenant formula attached to salt rather than reducing it to a ritual detail only. Current English witnesses do not create pressure to revise this wording. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: the salt of the covenant of the Lord | footnote_text: Salt here is tied directly to covenant language in Greek. This draft keeps that link explicit rather than treating salt as a mere seasoning rule. | source_basis: lexical + covenant | status: drafted
+- note_type: translation | trigger_phrase: the salt of the covenant of the Lord | footnote_text: Salt here is tied directly to covenant language in Greek. This draft keeps that link explicit rather than treating salt as a mere seasoning rule. | source_basis: lexical + covenant | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -55164,10 +55164,10 @@ Syntax notes: [TODO]
 Draft translation: if the anointed high priest sins so as to make the people sin, then he shall bring for his sin that he sinned a calf from the cattle, without blemish, to the Lord for his sin.
 
 Decision rows:
-- greek_phrase: ὁ ἀρχιερεὺς ὁ κεχρισμένος ... τοῦ τὸν λαὸν ἁμαρτεῖν | lemma: ἀρχιερεύς | χρίω | λαός | ἁμαρτάνω | morphology: nominative phrase + articular infinitive construction | chosen_rendering: the anointed high priest sins so as to make the people sin | alternate_renderings: the anointed priest sins, bringing guilt on the people | rationale: Keeps both the high-priest title and the causative effect on the people explicit. | status: drafted
+- greek_phrase: ὁ ἀρχιερεὺς ὁ κεχρισμένος ... τοῦ τὸν λαὸν ἁμαρτεῖν | lemma: ἀρχιερεύς | χρίω | λαός | ἁμαρτάνω | morphology: nominative phrase + articular infinitive construction | chosen_rendering: the anointed high priest sins so as to make the people sin | alternate_renderings: the anointed priest sins, bringing guilt on the people | rationale: Keeps both the high-priest title and the causative effect on the people explicit. Current English witnesses leave this line close enough to keep. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: the anointed high priest sins so as to make the people sin | footnote_text: Greek makes the priestly sin causative for the people. This draft keeps both the high-priest title and that communal effect visible. | source_basis: lexical + ritual | status: drafted
+- note_type: translation | trigger_phrase: the anointed high priest sins so as to make the people sin | footnote_text: Greek makes the priestly sin causative for the people. This draft keeps both the high-priest title and that communal effect visible. | source_basis: lexical + ritual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -57430,10 +57430,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
 
 Decision rows:
-- greek_phrase: τὸν βραχίονα τὸν δεξιόν | lemma: βραχίων | δεξιός | morphology: accusative singular noun phrase | chosen_rendering: the right arm | alternate_renderings: the right shoulder | rationale: Follows the ordinary Greek body-part noun rather than replacing it with the traditional sacrificial term shoulder. | status: drafted
+- greek_phrase: τὸν βραχίονα τὸν δεξιόν | lemma: βραχίων | δεξιός | morphology: accusative singular noun phrase | chosen_rendering: the right arm | alternate_renderings: the right shoulder | rationale: Follows the ordinary Greek body-part noun rather than replacing it with the traditional sacrificial term shoulder. Existing English witnesses smooth toward shoulder, but local Logos lexical support still favors keeping the ordinary arm-language here. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: the right arm | footnote_text: Greek says right arm here. This draft keeps the ordinary body-part term rather than replacing it with the familiar shoulder label. | source_basis: lexical + ritual | status: drafted
+- note_type: translation | trigger_phrase: the right arm | footnote_text: Greek says right arm here. This draft keeps the ordinary body-part term rather than replacing it with the familiar shoulder label. English witness tradition smooths this to shoulder | source_basis: but the lexical evidence still points to arm. | status: lexical + ritual
 
 Logos research:
 - [TODO add Logos note]
@@ -64672,10 +64672,10 @@ Syntax notes: [TODO]
 Draft translation: And from your seed you shall not give to serve a ruler, and you shall not profane my holy name. I am the Lord.
 
 Decision rows:
-- greek_phrase: οὐ δώσεις λατρεύειν ἄρχοντι | lemma: δίδωμι | λατρεύω | ἄρχων | morphology: future active + infinitive + dative | chosen_rendering: you shall not give to serve a ruler | alternate_renderings: you shall not give to minister to a ruler; you shall not give to the ruler | rationale: Follows the Greek wording as transmitted here rather than harmonizing to a later proper name. | status: drafted
+- greek_phrase: οὐ δώσεις λατρεύειν ἄρχοντι | lemma: δίδωμι | λατρεύω | ἄρχων | morphology: future active + infinitive + dative | chosen_rendering: you shall not give to serve a ruler | alternate_renderings: you shall not give to minister to a ruler; you shall not give to the ruler | rationale: Follows the Greek wording as transmitted here rather than harmonizing to a later proper name. Current English witnesses do not force revision. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: serve a ruler | footnote_text: Greek here says ruler rather than giving the later familiar proper name. This draft follows the Greek wording as transmitted. | source_basis: lexical + textual | status: drafted
+- note_type: translation | trigger_phrase: serve a ruler | footnote_text: Greek here says ruler rather than giving the later familiar proper name. This draft follows the Greek wording as transmitted. | source_basis: lexical + textual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -84788,10 +84788,10 @@ Syntax notes: [TODO]
 Draft translation: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 
 Decision rows:
-- greek_phrase: διαθήκη ἁλὸς αἰωνίου | lemma: διαθήκη | ἅλς | αἰώνιος | morphology: nominative singular noun phrase + genitive singular noun | chosen_rendering: a covenant of everlasting salt | alternate_renderings: an eternal covenant of salt | rationale: Keeps the unusual covenant phrase visible instead of flattening it into a generic lasting agreement. | status: drafted
+- greek_phrase: διαθήκη ἁλὸς αἰωνίου | lemma: διαθήκη | ἅλς | αἰώνιος | morphology: nominative singular noun phrase + genitive singular noun | chosen_rendering: a covenant of everlasting salt | alternate_renderings: an eternal covenant of salt | rationale: Keeps the unusual covenant phrase visible instead of flattening it into a generic lasting agreement. Existing English witnesses stay close enough to keep the covenant-of-salt wording. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: covenant of everlasting salt | footnote_text: The Greek preserves the covenant-of-salt wording here. This draft keeps the phrase visible rather than replacing it with a generic permanence formula. | source_basis: covenant idiom | status: drafted
+- note_type: translation | trigger_phrase: covenant of everlasting salt | footnote_text: The Greek preserves the covenant-of-salt wording here. This draft keeps the phrase visible rather than replacing it with a generic permanence formula. Existing English witnesses remain close enough to keep the phrase as is. | source_basis: covenant idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98670,10 +98670,10 @@ Syntax notes: [TODO]
 Draft translation: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 
 Decision rows:
-- greek_phrase: ἐσκλήρυνεν ... τὸ πνεῦμα αὐτοῦ καὶ κατίσχυσεν τὴν καρδίαν αὐτοῦ | lemma: σκληρύνω | πνεῦμα | κατισχύω | καρδία | morphology: aorist active indicative sequence | chosen_rendering: hardened his spirit and strengthened his heart | alternate_renderings: made his spirit stubborn and his heart strong | rationale: Preserves the paired inner terms spirit and heart instead of collapsing the hardening to one flat formula. | status: drafted
+- greek_phrase: ἐσκλήρυνεν ... τὸ πνεῦμα αὐτοῦ καὶ κατίσχυσεν τὴν καρδίαν αὐτοῦ | lemma: σκληρύνω | πνεῦμα | κατισχύω | καρδία | morphology: aorist active indicative sequence | chosen_rendering: hardened his spirit and strengthened his heart | alternate_renderings: made his spirit stubborn and his heart strong | rationale: Preserves the paired inner terms spirit and heart instead of collapsing the hardening to one flat formula. Brenton stays close enough to support keeping the paired wording. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: hardened his spirit and strengthened his heart | footnote_text: The Greek names both spirit and heart in the hardening sequence. This draft keeps both inner terms explicit. | source_basis: paired hardening terms | status: drafted
+- note_type: translation | trigger_phrase: hardened his spirit and strengthened his heart | footnote_text: The Greek names both spirit and heart in the hardening sequence. This draft keeps both inner terms explicit. | source_basis: paired hardening terms | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -100593,13 +100593,13 @@ Greek: ου λημψη το ονομα κυριου του θεου σου επ�
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
+Draft translation: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
 
 Decision rows:
-- greek_phrase: ἐπὶ ματαίῳ | lemma: μάταιος | morphology: preposition + dative adjective used adverbially | chosen_rendering: on emptiness | alternate_renderings: in vain; for emptiness | rationale: Keeps the emptiness idea visible instead of reducing it to a purely idiomatic in vain. | status: drafted
+- greek_phrase: ἐπὶ ματαίῳ | lemma: μάταιος | morphology: preposition + dative adjective used adverbially | chosen_rendering: in vain | alternate_renderings: on emptiness; for emptiness | rationale: English witness tradition is unanimous here | status: and in vain best carries the command idiom in English while the footnote preserves the emptiness nuance of the Greek.
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: on emptiness | footnote_text: Rather than only meaning in vain, the Greek phrase also carries the sense of emptiness or falsity. This draft keeps that wider force visible. | source_basis: semantic range | status: drafted
+- note_type: translation | trigger_phrase: in vain | footnote_text: Greek literally carries the sense of emptiness or falsity. The main line uses the established English idiom in vain, while this note keeps the wider force visible. | source_basis: semantic range | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -150830,10 +150830,10 @@ Syntax notes: [TODO]
 Draft translation: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
 
 Decision rows:
-- greek_phrase: ἰδοὺ ἀκοὴ ὑπὲρ θυσίαν ἀγαθή | lemma: ἀκοή | θυσία | ἀγαθός | morphology: nominative noun phrase + comparative preposition | chosen_rendering: hearing is better than sacrifice | alternate_renderings: obedient hearing is better than sacrifice | rationale: Uses hearing because the Greek stresses listening to the divine voice, with obedience implied by context. | status: drafted
+- greek_phrase: ἰδοὺ ἀκοὴ ὑπὲρ θυσίαν ἀγαθή | lemma: ἀκοή | θυσία | ἀγαθός | morphology: nominative noun phrase + comparative preposition | chosen_rendering: hearing is better than sacrifice | alternate_renderings: obedient hearing is better than sacrifice | rationale: Uses hearing because the Greek stresses listening to the divine voice, with obedience implied by context. Existing English witnesses do not require smoothing away the hearing language. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: hearing is better than sacrifice | footnote_text: Greek centers on hearing the Lord’s voice. The moral point is obedience, but the draft keeps the auditory wording prominent. | source_basis: lexical + discourse | status: drafted
+- note_type: translation | trigger_phrase: hearing is better than sacrifice | footnote_text: Greek centers on hearing the Lord’s voice. The moral point is obedience, but the draft keeps the auditory wording prominent. | source_basis: lexical + discourse | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -151232,10 +151232,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
 
 Decision rows:
-- greek_phrase: ὁ δὲ θεὸς ὄψεται εἰς καρδίαν | lemma: θεός | ὁράω | καρδία | morphology: nominative noun + future middle verb + accusative phrase | chosen_rendering: God sees into the heart | alternate_renderings: God sees the heart; God looks into the heart | rationale: Keeps the inward contrast with the human face-directed glance. | status: drafted
+- greek_phrase: ὁ δὲ θεὸς ὄψεται εἰς καρδίαν | lemma: θεός | ὁράω | καρδία | morphology: nominative noun + future middle verb + accusative phrase | chosen_rendering: God sees into the heart | alternate_renderings: God sees the heart; God looks into the heart | rationale: Keeps the inward contrast with the human face-directed glance. Existing English witnesses stay close enough that no revision is needed. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: God sees into the heart | footnote_text: The contrast is not merely outward appearance versus inward character, but human face-directed sight versus God’s penetrating sight into the heart. | source_basis: syntax + theology | status: drafted
+- note_type: translation | trigger_phrase: God sees into the heart | footnote_text: The contrast is not merely outward appearance versus inward character, but human face-directed sight versus God’s penetrating sight into the heart. Existing English witnesses remain close enough to keep the more literal inward-direction wording. | source_basis: syntax + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -153900,10 +153900,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 
 Decision rows:
-- greek_phrase: κύριος ἔσται μάρτυς ἀνὰ μέσον ἐμοῦ καὶ σοῦ | lemma: κύριος | εἰμί | μάρτυς | morphology: nominative noun clause with prepositional phrase | chosen_rendering: the Lord will be witness between me and you | alternate_renderings: the Lord is witness between us | rationale: Future wording matches the covenantal force of ongoing witness into the future. | status: drafted
+- greek_phrase: κύριος ἔσται μάρτυς ἀνὰ μέσον ἐμοῦ καὶ σοῦ | lemma: κύριος | εἰμί | μάρτυς | morphology: nominative noun clause with prepositional phrase | chosen_rendering: the Lord will be witness between me and you | alternate_renderings: the Lord is witness between us | rationale: Future wording matches the covenantal force of ongoing witness into the future. Existing English witnesses stay sufficiently close to keep this forward-looking clause. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: the Lord will be witness between me and you | footnote_text: The covenant language looks forward, with the Lord standing as continuing witness over both men and their offspring. | source_basis: syntax + covenant | status: drafted
+- note_type: translation | trigger_phrase: the Lord will be witness between me and you | footnote_text: The covenant language looks forward, with the Lord standing as continuing witness over both men and their offspring. | source_basis: syntax + covenant | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -154986,10 +154986,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōnathan son of Saoul rose and went to David into the New Place and strengthened his hands in the Lord.
 
 Decision rows:
-- greek_phrase: ἐκραταίωσεν τὰς χεῖρας αὐτοῦ ἐν κυρίῳ | lemma: κραταιόω | χείρ | κύριος | morphology: aorist verb + accusative plural noun + prepositional phrase | chosen_rendering: strengthened his hands in the Lord | alternate_renderings: made his hands strong in the Lord | rationale: Preserves the idiom of strengthening for action while keeping the explicit Godward source. | status: drafted
+- greek_phrase: ἐκραταίωσεν τὰς χεῖρας αὐτοῦ ἐν κυρίῳ | lemma: κραταιόω | χείρ | κύριος | morphology: aorist verb + accusative plural noun + prepositional phrase | chosen_rendering: strengthened his hands in the Lord | alternate_renderings: made his hands strong in the Lord | rationale: Preserves the idiom of strengthening for action while keeping the explicit Godward source. Existing English witnesses support keeping the bodily-strength idiom here. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: strengthened his hands in the Lord | footnote_text: The Greek keeps the bodily idiom of strengthening hands. The draft preserves that image instead of replacing it with a more abstract encouragement formula. | source_basis: idiom + theology | status: drafted
+- note_type: translation | trigger_phrase: strengthened his hands in the Lord | footnote_text: The Greek keeps the bodily idiom of strengthening hands. The draft preserves that image instead of replacing it with a more abstract encouragement formula. Existing English witnesses support keeping the hands-language here. | source_basis: idiom + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -158160,10 +158160,10 @@ Syntax notes: [TODO]
 Draft translation: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 
 Decision rows:
-- greek_phrase: ἐκραταιώθη δαυιδ ἐν κυρίῳ θεῷ αὐτοῦ | lemma: κραταιόω | κύριος | θεός | morphology: aorist passive verb + prepositional phrase | chosen_rendering: David strengthened himself in the Lord his God | alternate_renderings: David made himself strong in the Lord his God | rationale: Established biblical idiom fits the Greek and preserves the source of strength. | status: drafted
+- greek_phrase: ἐκραταιώθη δαυιδ ἐν κυρίῳ θεῷ αὐτοῦ | lemma: κραταιόω | κύριος | θεός | morphology: aorist passive verb + prepositional phrase | chosen_rendering: David strengthened himself in the Lord his God | alternate_renderings: David made himself strong in the Lord his God | rationale: Established biblical idiom fits the Greek and preserves the source of strength. Existing English witnesses do not justify changing the familiar idiom here. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: David strengthened himself in the Lord his God | footnote_text: The Greek keeps the bodily-strength idiom. The draft preserves the familiar expression because it matches the source closely and clearly. | source_basis: idiom + theology | status: drafted
+- note_type: translation | trigger_phrase: David strengthened himself in the Lord his God | footnote_text: The Greek keeps the bodily-strength idiom. The draft preserves the familiar expression because it matches the source closely and clearly. Existing English witnesses do not require a wording change here. | source_basis: idiom + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]

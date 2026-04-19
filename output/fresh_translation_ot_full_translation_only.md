@@ -8372,7 +8372,7 @@ And the Lord spoke all these words, saying,
 
 **Exodus 20:7**
 
-"You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
+"You shall not take the name of the Lord your God in vain, for the Lord will certainly not clear the one who takes his name in vain."
 
 **Exodus 20:8**
 
@@ -20374,7 +20374,7 @@ and showing mercy to thousands, to those who love me and keep my commands.
 
 **Deuteronomy 5:11**
 
-You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
+You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
 
 **Deuteronomy 5:12**
 

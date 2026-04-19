@@ -1,6 +1,6 @@
 # Fresh OT English Witness Watch
 
-Rows: 16
+Rows: 17
 
 ## Exodus 20:24
 - priority: `35`
@@ -30,20 +30,6 @@ Rows: 16
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## Leviticus 7:32
-- priority: `24`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `0`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `2`
-- signals: unclear
-- recommendation: `needs_logos`
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
-
 ## 2 Chronicles 12:13
 - priority: `23`
 - importance: `high`
@@ -71,6 +57,20 @@ Rows: 16
 - recommendation: `none`
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## 1 Kings 8:53
+- priority: `21`
+- importance: `high`
+- checked witnesses: `3`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `3`
+- signals: unclear
+- recommendation: `defer`
+- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
+- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
 ## 2 Samuel 14:17
 - priority: `21`
@@ -114,6 +114,20 @@ Rows: 16
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
 
+## Leviticus 7:32
+- priority: `21`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `2`
+- signals: unclear
+- recommendation: `keep`
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+
 ## Exodus 6:3
 - priority: `20`
 - importance: `high`
@@ -124,7 +138,7 @@ Rows: 16
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `none`
+- recommendation: `keep`
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
@@ -155,20 +169,6 @@ Rows: 16
 - recommendation: `keep`
 - fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
-## 1 Chronicles 16:40
-- priority: `18`
-- importance: `medium`
-- checked witnesses: `2`
-- fresh support: `0`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `2`
-- signals: unclear
-- recommendation: `needs_logos`
-- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
-- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 2 Chronicles 33:16
 - priority: `18`
@@ -211,6 +211,20 @@ Rows: 16
 - recommendation: `none`
 - fresh: And David built there an altar to the Lord and offered whole burnt offerings and peace offerings, and afterward Solomon added to the altar, because it had been small at first. And the Lord listened to the land, and the plague was restrained from over Israel.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.
+
+## 1 Chronicles 16:40
+- priority: `15`
+- importance: `medium`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `2`
+- signals: unclear
+- recommendation: `keep`
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
+- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## Joshua 24:19
 - priority: `15`

@@ -29,15 +29,6 @@ Rows: 12239
 - mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-## Leviticus 7:32
-- priority: `24`
-- importance: `high`
-- fresh_mt_ratio: `0.505`
-- fresh_brenton_ratio: `0.735`
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- mt: And the right shoulder shall all of you give unto the priest for an heave offering of the sacrifices of your peace offerings.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
-
 ## 2 Chronicles 12:13
 - priority: `23`
 - importance: `high`
@@ -82,6 +73,24 @@ Rows: 12239
 - fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - mt: And you shall put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goes in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
+
+## 1 Kings 8:53
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.432`
+- fresh_brenton_ratio: `0.134`
+- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
+- mt: For you did separate them from among all the people of the earth, to be yours inheritance, as you spoke by the hand of Moses your servant, when you brought our fathers out of Egypt, O LORD God.
+- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
+
+## Leviticus 7:32
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.505`
+- fresh_brenton_ratio: `0.735`
+- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
+- mt: And the right shoulder shall all of you give unto the priest for an heave offering of the sacrifices of your peace offerings.
+- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
 
 ## Genesis 1:2
 - priority: `21`
@@ -254,15 +263,6 @@ Rows: 12239
 - mt: And David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
 - brenton: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was grieved, each for his sons and his daughters: but David strengthened himself in the Lord his God.
 
-## Deuteronomy 5:11
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.707`
-- fresh_brenton_ratio: `0.717`
-- fresh: You shall not take the name of the Lord your God on emptiness, because the Lord shall certainly not clear the one taking his name on emptiness.
-- mt: You shall not take the name of the LORD your God in vain: for the LORD will not hold him guiltless that takes his name in vain.
-- brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
-
 ## 2 Chronicles 33:16
 - priority: `18`
 - importance: `low`
@@ -281,14 +281,14 @@ Rows: 12239
 - mt: You shall therefore sacrifice the passover unto the LORD your God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
 
-## Exodus 20:7
+## Deuteronomy 5:11
 - priority: `18`
 - importance: `high`
-- fresh_mt_ratio: `0.754`
-- fresh_brenton_ratio: `0.709`
-- fresh: "You shall not take the name of the Lord your God upon emptiness, for the Lord will certainly not clear the one who takes his name upon emptiness."
-- mt: You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless that takes his name in vain.
-- brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
+- fresh_mt_ratio: `0.781`
+- fresh_brenton_ratio: `0.789`
+- fresh: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
+- mt: You shall not take the name of the LORD your God in vain: for the LORD will not hold him guiltless that takes his name in vain.
+- brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
 
 ## 1 Samuel 15:22
 - priority: `18`
@@ -299,14 +299,14 @@ Rows: 12239
 - mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
 - brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
 
-## 1 Chronicles 16:40
+## Exodus 20:7
 - priority: `18`
-- importance: `medium`
-- fresh_mt_ratio: `0.805`
-- fresh_brenton_ratio: `0.817`
-- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
-- mt: To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
-- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
+- importance: `high`
+- fresh_mt_ratio: `0.843`
+- fresh_brenton_ratio: `0.795`
+- fresh: "You shall not take the name of the Lord your God in vain, for the Lord will certainly not clear the one who takes his name in vain."
+- mt: You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless that takes his name in vain.
+- brenton: Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.
 
 ## Numbers 7:89
 - priority: `17`
@@ -352,15 +352,6 @@ Rows: 12239
 - fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 - mt: Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall all of you bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which all of you vow unto the LORD:
 - brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
-
-## 1 Kings 8:53
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.432`
-- fresh_brenton_ratio: `0.134`
-- fresh: because you set them apart to yourself for an inheritance from all the peoples of the earth, just as you spoke by the hand of your servant Moyses, when you brought out our fathers from the land of Egypt, O Lord, Lord. Then Solomon spoke concerning the house, as he finished building it: The sun the Lord made known in heaven. He said he would dwell in gloom. Build my house, a splendid house for yourself, for dwelling in newness. Behold, is not this written in the Book of the Song?
-- mt: For you did separate them from among all the people of the earth, to be yours inheritance, as you spoke by the hand of Moses your servant, when you brought our fathers out of Egypt, O LORD God.
-- brenton: Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
 ## Deuteronomy 12:26
 - priority: `17`
@@ -532,6 +523,15 @@ Rows: 12239
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - mt: And Joshua said unto the people, All of you cannot serve the LORD: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## 1 Chronicles 16:40
+- priority: `15`
+- importance: `medium`
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.817`
+- fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
+- mt: To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
+- brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
 ## 2 Samuel 12:13
 - priority: `15`

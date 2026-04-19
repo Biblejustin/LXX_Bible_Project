@@ -20,6 +20,8 @@ DEFAULT_NT_IDIOMS = RESEARCH / "nt_idiom_parallels.csv"
 DEFAULT_NT_ENGLISH_WITNESS = RESEARCH / "local" / "witness_review" / "nt_english_witness_observations.csv"
 DEFAULT_ENGLISH_WITNESS = RESEARCH / "local" / "witness_review" / "english_witness_observations.csv"
 DEFAULT_LOGOS_LOCAL = RESEARCH / "local" / "witness_review" / "logos_local_observations.csv"
+DEFAULT_DECISIONS = RESEARCH / "translation_decisions.csv"
+DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_OUTPUT = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.md"
 DEFAULT_CSV = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.csv"
 DEFAULT_DIAGNOSTICS = ROOT / "output" / "fresh_vs_brenton_ot_priority_review_diagnostics.json"
@@ -39,6 +41,18 @@ KEYWORD_RE = re.compile(
 def load_rows(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8", newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def load_reviewed_counts(path: Path, ref_key: str) -> dict[str, int]:
+    counts: dict[str, int] = defaultdict(int)
+    if not path.exists():
+        return counts
+    for row in load_rows(path):
+        ref = (row.get(ref_key) or "").strip()
+        status = (row.get("status") or "").strip()
+        if ref and status == "reviewed":
+            counts[ref] += 1
+    return counts
 
 
 def load_by_ref(path: Path) -> dict[str, dict[str, str]]:
@@ -367,11 +381,15 @@ def score_row(
     english_map: dict[str, dict[str, str]],
     nt_english_map: dict[tuple[str, str], dict[str, str]],
     logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
+    reviewed_decisions: dict[str, int],
+    reviewed_footnotes: dict[str, int],
 ) -> tuple[int, list[str], list[str], int, list[str], int, int, int, dict[str, str], dict[str, str], dict[str, str], str]:
     text = f"{row.get('fresh_translation', '')} {row.get('brenton_translation', '')}"
     keyword_hits = sorted({match.group(0).lower() for match in KEYWORD_RE.finditer(text)})
     decision_count = int(row.get("decision_count", "0") or "0")
     footnote_count = int(row.get("footnote_count", "0") or "0")
+    reviewed_decision_count = reviewed_decisions.get(row["ref"], 0)
+    reviewed_footnote_count = reviewed_footnotes.get(row["ref"], 0)
     importance = row.get("importance", "none")
     nt_weight, nt_families, nt_refs = nt_parallel_info(row, source_by_ref, nt_map)
     crossref_bonus, crossref_top_vote, crossref_nt_count, crossref_shared_family_hits = crossref_info(
@@ -398,6 +416,10 @@ def score_row(
         reasons.append(f"decisions={decision_count}")
     if footnote_count:
         reasons.append(f"footnotes={footnote_count}")
+    if reviewed_decision_count:
+        reasons.append(f"reviewed_decisions={reviewed_decision_count}")
+    if reviewed_footnote_count:
+        reasons.append(f"reviewed_footnotes={reviewed_footnote_count}")
     if importance != "none":
         reasons.append(f"importance={importance}")
     if keyword_hits:
@@ -452,6 +474,8 @@ def score_row(
         nt_english_meta.get("nt_english_recommendation", ""),
         logos_local_meta.get("logos_local_recommendation", ""),
     )
+    if not overall_recommendation and (reviewed_decision_count or reviewed_footnote_count):
+        overall_recommendation = "keep"
     if overall_recommendation:
         reasons.append(f"reco={overall_recommendation}")
 
@@ -482,6 +506,8 @@ def build_priority_rows(
     english_map: dict[str, dict[str, str]],
     nt_english_map: dict[tuple[str, str], dict[str, str]],
     logos_local_map: dict[str, dict[str, list[dict[str, str]]]],
+    reviewed_decisions: dict[str, int],
+    reviewed_footnotes: dict[str, int],
 ) -> list[dict[str, str]]:
     grouped: dict[str, list[tuple[int, int, dict[str, str], list[str], list[str]]]] = defaultdict(list)
     for index, row in enumerate(rows):
@@ -507,6 +533,8 @@ def build_priority_rows(
             english_map,
             nt_english_map,
             logos_local_map,
+            reviewed_decisions,
+            reviewed_footnotes,
         )
         if score < min_score:
             continue
@@ -552,6 +580,8 @@ def build_priority_rows(
             english_map,
             nt_english_map,
             logos_local_map,
+            reviewed_decisions,
+            reviewed_footnotes,
         )
         out_rows.append(
             {
@@ -693,6 +723,8 @@ def main() -> None:
     parser.add_argument("--nt-english-witness", default=str(DEFAULT_NT_ENGLISH_WITNESS))
     parser.add_argument("--english-witness", default=str(DEFAULT_ENGLISH_WITNESS))
     parser.add_argument("--logos-local", default=str(DEFAULT_LOGOS_LOCAL))
+    parser.add_argument("--decisions", default=str(DEFAULT_DECISIONS))
+    parser.add_argument("--footnotes", default=str(DEFAULT_FOOTNOTES))
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
     parser.add_argument("--csv-output", default=str(DEFAULT_CSV))
     parser.add_argument("--diagnostics", default=str(DEFAULT_DIAGNOSTICS))
@@ -706,6 +738,8 @@ def main() -> None:
     nt_english_map = load_nt_english_witness(Path(args.nt_english_witness))
     english_map = load_english_witness(Path(args.english_witness))
     logos_local_map = load_logos_local(Path(args.logos_local))
+    reviewed_decisions = load_reviewed_counts(Path(args.decisions), "ref")
+    reviewed_footnotes = load_reviewed_counts(Path(args.footnotes), "reference")
     families_by_ref = family_map(source_by_ref)
     crossrefs_by_ref = load_openbible_crossrefs()
     priority_rows = build_priority_rows(
@@ -719,6 +753,8 @@ def main() -> None:
         english_map,
         nt_english_map,
         logos_local_map,
+        reviewed_decisions,
+        reviewed_footnotes,
     )
     if not priority_rows:
         raise SystemExit("No priority rows selected.")

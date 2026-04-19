@@ -15,8 +15,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Micah 5:3
-- score: 16
-- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=needs_logos; reco=needs_logos
+- score: 13
+- reasons: importance=low; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=keep; reco=keep
 - fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: [missing]
 

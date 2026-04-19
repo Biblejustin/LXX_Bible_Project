@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Isaiah 54:10
-- score: 19
-- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=needs_logos; reco=needs_logos
+- score: 16
+- reasons: importance=medium; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=keep; reco=keep
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: [missing]
 
