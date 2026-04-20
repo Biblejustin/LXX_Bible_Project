@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 1342
-- medium: 4651
-- low: 16769
+- high: 1351
+- medium: 4648
+- low: 16763
 - none: 155
 
 Note:
@@ -28504,9 +28504,9 @@ Note:
 
 ### Leviticus 16:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shall slaughter the he-goat for sin, the one for the people, before the Lord, and he shall bring some of its blood within the veil and do with its blood just as he did with the blood of the calf, and he shall sprinkle its blood upon the propitiatory and before the propitiatory.
 - brenton: And he shall kill the goat for the sin-offering that is for the people, before the Lord; and he shall bring in of its blood within the veil, and shall do with its blood as he did with the blood of the calf, and shall sprinkle its blood on the mercy-seat, in front of the mercy-seat.
@@ -28711,9 +28711,9 @@ Note:
 
 ### Leviticus 17:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
 - brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
@@ -53773,9 +53773,9 @@ Note:
 
 ### Joshua 8:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when the sons of Israel stopped killing all those in Ai, those in the plains and in the mountain on the descent, where they pursued them from it to the end, then Joshua returned to Ai and struck it by the mouth of the sword.
 - brenton: And when the children of Israel had ceased slaying all that were in Gai, and in the fields, and in the mountain on the descent, from whence they pursued them even to the end, then Joshua returned to Gai, and smote it with the edge of the sword.
@@ -55240,9 +55240,9 @@ Note:
 
 ### Joshua 14:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I ask you for this mountain, just as the Lord said on that day, because you heard this word on that day. And now the Anakim are there, fortified and great cities. If therefore the Lord is with me, then I will utterly destroy them in the way the Lord said to me.
 - brenton: And now I ask of thee this mountain, as the Lord said in that day; for thou heardest this word on that day; and now the Enakim are there, cities great and strong: if then the Lord should be with me, I will utterly destroy them, as the Lord said to me.
@@ -79595,9 +79595,9 @@ Note:
 
 ### 1 Kings 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he placed the ten stands, five from the shoulder of the house on the right and five from the shoulder of the house on the left, and the Sea from the shoulder of the house on the right, eastward, toward the south side.
 - brenton: And he put five bases on the right side of the house, and five on the left side of the house: and the sea was placed on the right side of the house eastward in the direction of the south.
@@ -85933,9 +85933,9 @@ Note:
 
 ### 2 Kings 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the officer on whose hand the king leaned answered Elisaie and said, Behold, if the Lord makes floodgates in heaven, can this thing be? And Elisaie said, Behold, you will see with your eyes, but from there you will not eat.
 - brenton: And the officer on whose hand the king rested, answered Elisaie, and said, Behold, if the Lord shall make flood-gates in heaven, might this thing be? and Elisaie said, Behold, thou shalt see with thine eyes, but shalt not eat thereof.
@@ -102956,9 +102956,9 @@ Note:
 
 ### 2 Chronicles 20:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iōsaphat and his people came to plunder their spoils and found many cattle and baggage and spoils and desirable vessels, and they plundered for themselves, and it was three days they plundered spoils, because it was much.
 - brenton: And Josaphat and his people went out to spoil them, and they found much cattle, and furniture, and spoils, and precious things: and they spoiled them, and they were three days gathering the spoil, for it was abundant.
@@ -104864,9 +104864,9 @@ Note:
 
 ### 2 Chronicles 29:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But priests were few and were not able to flay whole burnt offerings, and their brothers Levites took hold with them until work was finished and until priests were sanctified, because Levites were more willing to sanctify than priests.
 - brenton: But the priests were few, and could not flay the whole-burnt-offering, so their brethren the Levites helped them, until the work was finished, and until the priests had purified themselves: for the Levites more zealously purified themselves than the priests.
@@ -105098,9 +105098,9 @@ Note:
 
 ### 2 Chronicles 30:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Ezekias contributed to Iouda for assembly one thousand calves and seven thousand sheep, and rulers contributed to people one thousand calves and ten thousand sheep, and many holy things for priests.
 - brenton: For Ezekias set apart for Juda, even for the congregation, a thousand calves and seven thousand sheep; and the princes set apart for the people a thousand calves and ten thousand sheep: and the holy things of the priests abundantly.

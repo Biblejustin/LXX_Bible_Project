@@ -63566,10 +63566,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall slaughter the he-goat for sin, the one for the people, before the Lord, and he shall bring some of its blood within the veil and do with its blood just as he did with the blood of the calf, and he shall sprinkle its blood upon the propitiatory and before the propitiatory.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τον χιμαρον τον περι της αμαρτιας τον περι του λαου εναντι κυριου | lemma: χιμαρος | morphology: day of atonement line | chosen_rendering: And he shall slaughter the he-goat for sin, the one for the people, before the Lord, and he shall bring some of its blood within the veil and do with its blood just as he did with the blood of the calf, and he shall sprinkle its blood upon the propitiatory and before the propitiatory. | alternate_renderings: Then shall he kill the goat of the sin offering that is for the people and bring his blood within the veil. | rationale: Greek says the he-goat for sin, the one for the people, before the Lord. Current wording keeps that fuller phrase. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the he-goat for sin the one for people | footnote_text: Greek keeps that fuller phrase here. | source_basis: fuller phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -64028,10 +64028,10 @@ Syntax notes: [TODO]
 Draft translation: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ωστε ποιησαι αυτο εις ολοκαυτωμα η σωτηριον κυριω δεκτον εις οσμην ευωδιας | lemma: σωτηριον | ευωδια | morphology: offering at tent line | chosen_rendering: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people. | alternate_renderings: And brings it not to the door of the tabernacle to offer an offering to the Lord before the tabernacle; blood shall be imputed to that man. | rationale: Greek expands this with whole burnt offering or offering of salvation and sweet-fragrance language. Current wording keeps that cultic expansion. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: offering of salvation | footnote_text: Greek expands this with whole burnt offering or offering of salvation and sweet-fragrance language. | source_basis: cultic expansion | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -119910,10 +119910,10 @@ Syntax notes: [TODO]
 Draft translation: And when the sons of Israel stopped killing all those in Ai, those in the plains and in the mountain on the descent, where they pursued them from it to the end, then Joshua returned to Ai and struck it by the mouth of the sword.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τους εν τοις πεδιοις και εν τω ορει επι της καταβασεως | lemma: plain and mountain | morphology: on descent | chosen_rendering: And when the sons of Israel stopped killing all those in Ai, those in the plains and in the mountain on the descent, where they pursued them from it to the end, then Joshua returned to Ai and struck it by the mouth of the sword. | alternate_renderings: When Israel had made an end of slaying all the inhabitants of Ai in the field in the wilderness wherein they chased them... | rationale: Greek says those in the plains and in the mountain on the descent. Current wording keeps that terrain wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: plains and mountain on descent | footnote_text: Greek keeps that terrain wording here. | source_basis: terrain wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -123182,10 +123182,10 @@ Syntax notes: [TODO]
 Draft translation: And now I ask you for this mountain, just as the Lord said on that day, because you heard this word on that day. And now the Anakim are there, fortified and great cities. If therefore the Lord is with me, then I will utterly destroy them in the way the Lord said to me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: νυνι δε οι ενακιμ εκει εισιν πολεις οχυραι και μεγαλαι εαν ουν κυριος μετ' εμου η εξολεθρευσω αυτους | lemma: εξολεθρευω | morphology: caleb request | chosen_rendering: And now I ask you for this mountain, just as the Lord said on that day, because you heard this word on that day. And now the Anakim are there, fortified and great cities. If therefore the Lord is with me, then I will utterly destroy them in the way the Lord said to me. | alternate_renderings: Give me this mountain... if so be the Lord will be with me, then I shall be able to drive them out. | rationale: Greek says I will utterly destroy them here rather than merely drive them out. Current wording keeps that stronger verb. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will utterly destroy them | footnote_text: Greek says utterly destroy here rather than merely drive out. | source_basis: stronger verb | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -177486,10 +177486,10 @@ Syntax notes: [TODO]
 Draft translation: And he placed the ten stands, five from the shoulder of the house on the right and five from the shoulder of the house on the left, and the Sea from the shoulder of the house on the right, eastward, toward the south side.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εθετο τας δεκα μεχωνωθ πεντε απο της ωμιας του οικου εκ δεξιων και πεντε απο της ωμιας του οικου εξ αριστερων | lemma: verse mapping difference | morphology: ten stands line | chosen_rendering: And he placed the ten stands, five from the shoulder of the house on the right and five from the shoulder of the house on the left, and the Sea from the shoulder of the house on the right, eastward, toward the south side. | alternate_renderings: It stood upon twelve oxen, three looking toward the north and three toward the west and three toward the south and three toward the east. | rationale: This LXX verse number carries the ten-stands placement line rather than the MT twelve-oxen line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: ten stands | footnote_text: This LXX verse number carries the ten-stands placement line rather than the MT twelve-oxen line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -191616,10 +191616,10 @@ Syntax notes: [TODO]
 Draft translation: And the officer on whose hand the king leaned answered Elisaie and said, Behold, if the Lord makes floodgates in heaven, can this thing be? And Elisaie said, Behold, you will see with your eyes, but from there you will not eat.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδου ποιησει κυριος καταρρακτας εν ουρανω μη εσται το ρημα τουτο | lemma: καταρρακτης | morphology: elisaie oracle response | chosen_rendering: And the officer on whose hand the king leaned answered Elisaie and said, Behold, if the Lord makes floodgates in heaven, can this thing be? And Elisaie said, Behold, you will see with your eyes, but from there you will not eat. | alternate_renderings: If the Lord would make windows in heaven, might this thing be? | rationale: Greek says floodgates in heaven here. Current wording keeps that image. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: floodgates in heaven | footnote_text: Greek says floodgates in heaven here. | source_basis: image wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229574,10 +229574,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōsaphat and his people came to plunder their spoils and found many cattle and baggage and spoils and desirable vessels, and they plundered for themselves, and it was three days they plundered spoils, because it was much.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ευρον κτηνη πολλα και αποσκευην και σκυλα και σκευη επιθυμητα | lemma: αποσκευη | επιθυμητος | morphology: plunder scene | chosen_rendering: And Iōsaphat and his people came to plunder their spoils and found many cattle and baggage and spoils and desirable vessels, and they plundered for themselves, and it was three days they plundered spoils, because it was much. | alternate_renderings: They found among them in abundance both riches with the dead bodies and precious jewels. | rationale: Greek says many cattle and baggage and spoils and desirable vessels. Current wording keeps the Greek inventory. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cattle and baggage and desirable vessels | footnote_text: Greek keeps that fuller plunder inventory here. | source_basis: inventory wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -233832,10 +233832,10 @@ Syntax notes: [TODO]
 Draft translation: But priests were few and were not able to flay whole burnt offerings, and their brothers Levites took hold with them until work was finished and until priests were sanctified, because Levites were more willing to sanctify than priests.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι λευιται προθυμως ηγνισθησαν παρα τους ιερεις | lemma: προθυμως | morphology: sanctification note | chosen_rendering: But priests were few and were not able to flay whole burnt offerings, and their brothers Levites took hold with them until work was finished and until priests were sanctified, because Levites were more willing to sanctify than priests. | alternate_renderings: The Levites were more upright in heart to sanctify themselves than the priests. | rationale: Greek says the Levites were more willing to sanctify than the priests. Current wording keeps that comparison. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: more willing to sanctify | footnote_text: Greek says the Levites were more willing to sanctify than the priests. | source_basis: comparison wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234354,10 +234354,10 @@ Syntax notes: [TODO]
 Draft translation: Because Ezekias contributed to Iouda for assembly one thousand calves and seven thousand sheep, and rulers contributed to people one thousand calves and ten thousand sheep, and many holy things for priests.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι εζεκιας απηρξατο τω ιουδα τη εκκλησια μοσχους χιλιους και επτακισχιλια προβατα | lemma: απαρχομαι | morphology: assembly contribution | chosen_rendering: Because Ezekias contributed to Iouda for assembly one thousand calves and seven thousand sheep, and rulers contributed to people one thousand calves and ten thousand sheep, and many holy things for priests. | alternate_renderings: Hezekiah king of Judah gave to the congregation a thousand bullocks and seven thousand sheep. | rationale: Greek says contributed here and ends with many holy things for priests. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: many holy things for priests | footnote_text: Greek ends with many holy things for priests here. | source_basis: priest detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
