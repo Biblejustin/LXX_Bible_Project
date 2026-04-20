@@ -89406,7 +89406,7 @@ And I said to her, Many days you will sit with me, and you will not prostitute y
 
 **Hosea 3:4**
 
-Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without manifestations.
+Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
 
 **Hosea 3:5**
 

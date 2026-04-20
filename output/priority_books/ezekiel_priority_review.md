@@ -3,14 +3,14 @@
 Selected verses: 6
 
 ## Ezekiel 18:20
-- score: 11
-- reasons: importance=medium; keywords=righteous, righteousness, soul; crossref_top_vote=39
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
 - fresh: And soul sinning will die, but son will not bear injustice of his father, nor father bear injustice of his son. Righteousness of righteous one will be upon him, and lawlessness of lawless one will be upon him.
 - brenton: [missing]
 
 ## Ezekiel 20:39
-- score: 11
-- reasons: importance=low; keywords=god, holy, lord, name; crossref_top_vote=3
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, name; crossref_top_vote=3; reco=keep
 - fresh: And you, house of Israel, thus says Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
 - brenton: [missing]
 
@@ -21,19 +21,19 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Ezekiel 43:19
-- score: 11
-- reasons: importance=low; keywords=god, lord, seed, sin; crossref_top_vote=5
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
 - fresh: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says Lord God, a young bull from the herd for sin.
 - brenton: [missing]
 
 ## Ezekiel 44:15
-- score: 11
-- reasons: importance=low; keywords=god, holy, lord, sacrifice; crossref_top_vote=5
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, sacrifice; crossref_top_vote=5; reco=keep
 - fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 - brenton: [missing]
 
 ## Ezekiel 45:9
-- score: 11
-- reasons: importance=low; keywords=god, judgment, lord, righteousness; crossref_top_vote=6
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, righteousness; crossref_top_vote=6; reco=keep
 - fresh: Thus says Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says Lord God.
 - brenton: [missing]

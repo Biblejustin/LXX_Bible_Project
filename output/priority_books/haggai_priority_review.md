@@ -3,20 +3,20 @@
 Selected verses: 6
 
 ## Haggai 1:1
-- score: 8
-- reasons: importance=low; keywords=king, lord, priest; crossref_top_vote=6
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, priest; crossref_top_vote=6; reco=keep
 - fresh: In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Salathiel from tribe of Judah, and to Jeshua son of Josedek, the great priest, saying,
 - brenton: [missing]
 
 ## Haggai 1:12
-- score: 8
-- reasons: importance=low; keywords=god, lord, priest; crossref_top_vote=7
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest; crossref_top_vote=7; reco=keep
 - fresh: Zerubbabel son of Salathiel, from tribe of Judah, and Jeshua son of Josedek, the great priest, and all remnant of people, listened to voice of Lord their God and to words of Haggai prophet, because Lord their God sent him to them, and people feared before Lord.
 - brenton: [missing]
 
 ## Haggai 1:13
-- score: 7
-- reasons: importance=low; keywords=lord, messenger; crossref_top_vote=7
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, messenger; crossref_top_vote=7; reco=keep
 - fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 - brenton: [missing]
 
@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Haggai 2:4
-- score: 7
-- reasons: importance=low; keywords=lord, priest; crossref_top_vote=14
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
 - fresh: But now be strong, Zerubbabel, says Lord, and be strong, Jeshua son of Josedek, the great priest, and let all people of land be strong, says Lord, and act, because I am with you, says Lord Almighty.
 - brenton: [missing]
 

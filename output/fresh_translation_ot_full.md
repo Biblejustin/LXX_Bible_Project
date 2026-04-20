@@ -2116,10 +2116,10 @@ Syntax notes: [TODO]
 Draft translation: Because Cain has been avenged sevenfold, but Lamech seventy times seven.'
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι επτακις εκδεδικηται εκ καιν εκ δε λαμεχ εβδομηκοντακις επτα | lemma: εκδικεω | εβδομηκοντακις επτα | morphology: perfect passive verb + numeral phrase | chosen_rendering: Because Cain has been avenged sevenfold, but Lamech seventy times seven. | alternate_renderings: If Cain is avenged sevenfold, then Lamech seventy-sevenfold. | rationale: Greek opens with because and gives the vengeance saying as a declaration, not the more familiar if-clause. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Because Cain has been avenged sevenfold | footnote_text: Greek opens the saying with because and presents it as a declaration rather than the more familiar if-form. | source_basis: syntax + textual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -3100,10 +3100,10 @@ Syntax notes: [TODO]
 Draft translation: And this is how you shall make the ark: the length of the ark three hundred cubits, and the width fifty cubits, and the height thirty cubits.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τριακοσιων πηχεων το μηκος της κιβωτου και πεντηκοντα πηχεων το πλατος και τριακοντα πηχεων το υψος αυτης | lemma: πηχυς | μηκος | πλατος | υψος | morphology: measurement clause | chosen_rendering: And this is how you shall make the ark: the length of the ark three hundred cubits, and the width fifty cubits, and the height thirty cubits. | alternate_renderings: This is how you shall make the ark: the length of the ark three hundred cubits, the width fifty cubits, and the height thirty cubits. | rationale: Current wording keeps the ark-measurement line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the length of the ark three hundred cubits | footnote_text: Greek gives the ark dimensions in a plain measurement sequence. Current wording preserves that construction formula. | source_basis: measurement formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -3462,10 +3462,10 @@ Syntax notes: [TODO]
 Draft translation: In the six-hundredth year in the life of Noah, in the second month, on the twenty-seventh day of the month, on that day all the springs of the abyss burst open, and the floodgates of heaven were opened.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ερραγησαν πασαι αι πηγαι της αβυσσου και οι καταρρακται του ουρανου ηνεωχθησαν | lemma: πηγη | αβυσσος | καταρρακτης | morphology: clause | chosen_rendering: In the six-hundredth year in the life of Noah, in the second month, on the twenty-seventh day of the month, on that day all the springs of the abyss burst open, and the floodgates of heaven were opened. | alternate_renderings: In Noah's six-hundredth year, in the second month, on the twenty-seventh day of the month, all the springs of the abyss burst open and the floodgates of heaven were opened. | rationale: Current wording keeps the paired abyss-and-heaven opening formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the springs of the abyss burst open and the floodgates of heaven were opened | footnote_text: Greek uses a paired abyss-and-heaven opening formula. Current wording preserves it. | source_basis: paired formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -3804,10 +3804,10 @@ Syntax notes: [TODO]
 Draft translation: And the ark came to rest in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκάθισεν η κιβωτος ... επι τα ορη τα αραρατ | lemma: κιβωτος | καθιζω | morphology: clause | chosen_rendering: And the ark came to rest in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat. | alternate_renderings: And the ark sat down in the seventh month, on the twenty-seventh day, on the mountains of Ararat. | rationale: Current wording keeps the resting-on-Ararat line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the ark came to rest | footnote_text: Greek describes the ark resting on Ararat. Current wording keeps that line plain. | source_basis: narrative line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -3824,10 +3824,10 @@ Syntax notes: [TODO]
 Draft translation: And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: το δε υδωρ ηλαττονοῦτο εως του δεκατου μηνος | lemma: ελαττονοω | morphology: flood chronology | chosen_rendering: And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared. | alternate_renderings: The water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared. | rationale: Current wording keeps the diminishing-water chronology plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the water kept diminishing | footnote_text: Greek uses an ongoing diminishing line in the flood chronology. Current wording preserves that sequence. | source_basis: flood chronology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -4226,10 +4226,10 @@ Syntax notes: [TODO]
 Draft translation: And every creeping thing that is living shall be for you as food. As green herbs I have given you all things.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παν ερπετον ο εστι ζων υμιν εσται εις βρωσιν ως λαχανα χορτου δεδωκα υμιν τα παντα | lemma: ερπετον | βρωσις | morphology: food grant | chosen_rendering: And every creeping thing that is living shall be for you as food. As green herbs I have given you all things. | alternate_renderings: Every creeping thing that is living shall be for you as food. As green herbs I have given you all things. | rationale: Current wording keeps the broad food-grant line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: as green herbs I have given you all things | footnote_text: Greek frames this as a sweeping food grant. Current wording preserves that breadth. | source_basis: food grant | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -4726,10 +4726,10 @@ Syntax notes: [TODO]
 Draft translation: And Noah lived after the flood three hundred and fifty years.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Εζησε δε Νωε μετα τον κατακλυσμον ετη τριακοσια πεντηκοντα | lemma: ζαω | κατακλυσμος | morphology: aorist clause | chosen_rendering: Noah lived after the flood three hundred and fifty years | alternate_renderings: Noe lived after the flood three hundred and fifty years | rationale: Current wording uses standard name form. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Noah lived after the flood three hundred and fifty years | footnote_text: The Greek line is straightforward chronology. The current wording uses the standard English name form. | source_basis: chronology line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -4746,10 +4746,10 @@ Syntax notes: [TODO]
 Draft translation: And all the days of Noah were nine hundred and fifty years, and he died.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πασαι αι ημεραι Νωε εννακοσια πεντηκοντα ετη και απεθανεν | lemma: ημερα | αποθνησκω | morphology: aorist clause | chosen_rendering: all the days of Noah were nine hundred and fifty years and he died | alternate_renderings: all the days of Noe were nine hundred and fifty years and he died | rationale: Current wording uses standard name form. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the days of Noah were nine hundred and fifty years and he died | footnote_text: The Greek line is straightforward chronology. The current wording uses the standard English name form. | source_basis: chronology line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -6052,10 +6052,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to Abram, Go out from your land and from your kin and from your father's house, and come into the land that I will show you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξελθε εκ της γης σου και εκ της συγγενειας σου και εκ του οικου του πατρος σου και δευρο εις την γην ην αν σοι δειξω | lemma: εξερχομαι | συγγενεια | morphology: call formula | chosen_rendering: And the Lord said to Abram, Go out from your land and from your kin and from your father's house, and come into the land that I will show you. | alternate_renderings: The Lord said to Abram, Go out from your land and from your kin and from your father's house, and come into the land that I will show you. | rationale: Current wording keeps the threefold leaving command and come-into line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from your land and from your kin and from your father's house | footnote_text: Greek stacks the departure command in three parts. Current wording preserves that sequence. | source_basis: call formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -6272,10 +6272,10 @@ Syntax notes: [TODO]
 Draft translation: Then it will be, when the Egyptians see you, they will say, This is his wife. And they will kill me, but preserve you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εσται ουν ως αν ιδωσι σε οι αιγυπτιοι ερουσιν οτι γυνη αυτου εστιν αυτη και αποκτενουσι με σε δε περιποιησονται | lemma: περιποιεομαι | morphology: fear scenario | chosen_rendering: Then it will be, when the Egyptians see you, they will say, This is his wife. And they will kill me, but preserve you. | alternate_renderings: It will be, when the Egyptians see you, they will say, This is his wife. And they will kill me, but preserve you. | rationale: Current wording keeps Abram's fear scenario and preserve-you close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they will kill me but preserve you | footnote_text: Greek closes Abram's fear scenario with preserve-you language. Current wording preserves it. | source_basis: fear scenario | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -6694,10 +6694,10 @@ Syntax notes: [TODO]
 Draft translation: Now the people in Sodom were wicked and sinful before God exceedingly.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι δε ανθρωποι οι εν σοδομοις πονηροι και αμαρτωλοι εναντιον του θεου σφοδρα | lemma: πονηρος | αμαρτωλος | morphology: description clause | chosen_rendering: And the men who were in Sodoma were evil and exceedingly sinful before God. | alternate_renderings: The men who were in Sodoma were evil and exceedingly sinful before God. | rationale: Current wording keeps the evil-and-exceedingly-sinful line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: evil and exceedingly sinful before God | footnote_text: Greek stacks both moral descriptors here. Current wording preserves that sharp description. | source_basis: moral description | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -8062,10 +8062,10 @@ Syntax notes: [TODO]
 Draft translation: And I will place my covenant between me and you and will multiply you exceedingly.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θησομαι την διαθηκην μου ανα μεσον εμου και ανα μεσον σου και πληθυνω σε σφοδρα | lemma: τιθημι | πληθυνω | morphology: covenant promise | chosen_rendering: And I will place my covenant between me and you and will multiply you exceedingly. | alternate_renderings: I will place my covenant between me and you and will multiply you exceedingly. | rationale: Current wording keeps the place-covenant wording and multiply-you promise plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will place my covenant between me and you | footnote_text: Greek uses place language here before the multiplication promise. Current wording preserves that covenant line. | source_basis: covenant promise | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -8162,10 +8162,10 @@ Syntax notes: [TODO]
 Draft translation: And I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: στησω την διαθηκην μου ανα μεσον σου και ανα μεσον του σπερματος σου μετα σε | lemma: διαθηκη | morphology: covenant formula | chosen_rendering: And I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you. | alternate_renderings: I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you. | rationale: Current wording keeps the full covenant formula and to-be-God close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to be God to you and to your seed after you | footnote_text: Greek closes the covenant line with that explicit formula. Current wording preserves it. | source_basis: covenant formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -8402,10 +8402,10 @@ Syntax notes: [TODO]
 Draft translation: And God said to Abraham, Yes. Look, Sarah your wife shall bear you a son, and you shall call his name Isaac. And I will establish my covenant with him as an everlasting covenant, to be God to him and to his seed after him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ειναι αυτω θεος και τω σπερματι αυτου μετ αυτον | lemma: ειμι | θεος | σπερμα | morphology: clause | chosen_rendering: to be God to him and to his seed after him | alternate_renderings: to be God for him and for his seed after him | rationale: Current wording keeps the covenant formula explicit. MT-leaning overlap acceptable here. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to be God to him and to his seed after him | footnote_text: Greek uses the covenant formula directly. Current wording preserves it. | source_basis: covenant formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -9806,10 +9806,10 @@ Syntax notes: [TODO]
 Draft translation: And it happened when God destroyed all the cities of the surrounding region, God remembered Abraham and sent Lot out from the midst of the overthrow, when the Lord overthrew the cities in which Lot dwelt.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εμνησθη ο θεος του αβρααμ και εξαπεστειλε τον λωτ εκ μεσου της καταστροφης | lemma: μιμνησκομαι | καταστροφη | morphology: deliverance summary | chosen_rendering: And it happened when God destroyed all the cities of the surrounding region, God remembered Abraham and sent Lot out from the midst of the overthrow, when the Lord overthrew the cities in which Lot dwelt. | alternate_renderings: It happened when God destroyed all the cities of the surrounding region, God remembered Abraham and sent Lot out from the midst of the overthrow, when the Lord overthrew the cities in which Lot dwelt. | rationale: Current wording keeps the remembered-Abraham and midst-of-the-overthrow line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God remembered Abraham | footnote_text: Greek ties Lot's rescue to God's remembering Abraham. Current wording preserves that link and the overthrow language. | source_basis: deliverance summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -10830,10 +10830,10 @@ Syntax notes: [TODO]
 Draft translation: And Abraham said, I will swear.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εγω ομουμαι | lemma: ομνυμι | morphology: future clause | chosen_rendering: I will swear | alternate_renderings: I shall swear | rationale: Current wording keeps the oath reply direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will swear | footnote_text: The Greek reply is compact and direct. The current wording preserves that line. | source_basis: oath reply | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -10910,10 +10910,10 @@ Syntax notes: [TODO]
 Draft translation: And Abraham set seven ewe-lambs of the flock by themselves.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επτα αμναδας προβατων μονας | lemma: αμνας | προβατον | morphology: noun phrase | chosen_rendering: seven ewe-lambs of the flock by themselves | alternate_renderings: seven ewe lambs by themselves | rationale: Current wording keeps flock wording explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seven ewe-lambs of the flock by themselves | footnote_text: The Greek keeps flock wording explicit. The current wording preserves that line. | source_basis: flock wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -11173,10 +11173,10 @@ Syntax notes: [TODO]
 Draft translation: And Isaac said to Abraham his father, Father. And he said, What is it, child? And he said, Look, the fire and the wood. Where is the sheep for a whole-burnt offering?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: που εστι το προβατον το εις ολοκαρπωσιν | lemma: προβατον | ολοκαρπωσις | morphology: question clause | chosen_rendering: And Isaac said to Abraham his father, Father. And he said, What is it, child? And he said, Look, the fire and the wood. Where is the sheep for a whole-burnt offering? | alternate_renderings: Isaac said to Abraham his father, Father. And he said, What is it, child? And he said, Look, the fire and the wood; where is the sheep for a whole burnt offering? | rationale: Current wording keeps the sheep-for-whole-burnt-offering line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Where is the sheep for a whole-burnt offering? | footnote_text: Greek asks directly for the sheep-for-offering. Current wording preserves it. | source_basis: question formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -11293,10 +11293,10 @@ Syntax notes: [TODO]
 Draft translation: And Abraham, looking up with his eyes, saw, and look, one ram caught in a plant of Sabek by the horns. And Abraham went and took the ram and brought it up as a whole-burnt offering instead of Isaac his son.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κριος εις κατεχομενος εν φυτω σαβεκ των κερατων | lemma: κριος | κατεχω | κερας | morphology: narrative clause | chosen_rendering: And Abraham, looking up with his eyes, saw, and look, one ram caught in a plant of Sabek by the horns. And Abraham went and took the ram and brought it up as a whole-burnt offering instead of Isaac his son. | alternate_renderings: Abraham looked up with his eyes and saw, and behold, one ram caught by the horns in a plant of Sabek. Abraham went and took the ram and offered it as a whole burnt offering instead of Isaac his son. | rationale: Current wording keeps the one-ram caught-by-the-horns line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one ram caught in a plant of Sabek by the horns | footnote_text: Greek gives the caught-ram line very concretely. Current wording preserves it. | source_basis: sacrifice substitute line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -11473,10 +11473,10 @@ Syntax notes: [TODO]
 Draft translation: and Chazad and Azau and Phaldes and Jeldaph and Bathouel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τον χαζαδ και αζαυ και τον φαλδες και τον ιελδαφ και τον βαθουηλ | lemma: proper names | morphology: name list | chosen_rendering: and Chazad and Azau and Phaldes and Jeldaph and Bathouel. | alternate_renderings: and Chazad and Azau and Phaldes and Jeldaph and Bathouel. | rationale: Current wording keeps the source-row proper-name list plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Chazad and Azau and Phaldes and Jeldaph and Bathouel | footnote_text: Greek preserves this exact proper-name list. Current wording keeps the source-row forms plain. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12017,10 +12017,10 @@ Syntax notes: [TODO]
 Draft translation: And the servant said to him, Suppose the woman is not willing to come back with me to this land. Shall I return your son to the land from which you came out?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη ποτε ου βουληται η γυνη πορευθηναι μετ εμου οπισω εις την γην ταυτην | lemma: βουλομαι | οπισω | morphology: question clause | chosen_rendering: And the servant said to him, Suppose the woman is not willing to come back with me to this land. Shall I return your son to the land from which you came out? | alternate_renderings: The servant said to him, Perhaps the woman will not be willing to go back with me to this land; shall I return your son to the land from which you came? | rationale: Current wording keeps the not-willing-to-come-back line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Suppose the woman is not willing to come back with me to this land. | footnote_text: Greek asks the willingness question directly. Current wording preserves it. | source_basis: question formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12217,10 +12217,10 @@ Syntax notes: [TODO]
 Draft translation: And it happened before he finished speaking in his mind, that at once Rebekah came out, born to Bethuel son of Milcah wife of Nahor, Abraham's brother, having her water jar on her shoulders.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προ του συντελεσαι αυτον λαλουντα εν τη διανοια αυτου | lemma: συντελεω | διανοια | morphology: clause | chosen_rendering: before he finished speaking in his mind | alternate_renderings: before he finished speaking in his heart | rationale: Current wording keeps the inward-speech line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: before he finished speaking in his mind | footnote_text: The Greek places the speech in his mind. The current wording keeps that inward line explicit. | source_basis: inward-speech line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12597,10 +12597,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, I am Abraham's servant.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παις Αβρααμ εγω ειμι | lemma: παις | Αβρααμ | morphology: predicate clause | chosen_rendering: I am Abraham's servant | alternate_renderings: I am servant of Abraham | rationale: Current wording keeps Abraham's-servant line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am Abraham's servant | footnote_text: The Greek identifies the speaker with Abraham directly. The current wording keeps that line explicit. | source_basis: servant identification | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12677,10 +12677,10 @@ Syntax notes: [TODO]
 Draft translation: but you shall go instead to my father's house and to my tribe and take a wife for my son from there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αλλ' η εις τον οικον του πατρος μου πορευση και εις την φυλην μου και ληψη γυναικα τω υιω μου εκειθεν | lemma: φυλη | morphology: marriage commission | chosen_rendering: but you shall go instead to my father's house and to my tribe and take a wife for my son from there. | alternate_renderings: You shall go instead to my father's house and to my tribe and take a wife for my son from there. | rationale: Current wording keeps the father's-house and tribe line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to my father's house and to my tribe | footnote_text: Greek keeps both family-location terms. Current wording preserves them. | source_basis: marriage commission | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12718,9 +12718,11 @@ Draft translation: And he said to me, The Lord God, before whom I have been well
 
 Decision rows:
 - greek_phrase: ᾧ εὐηρέστησα ἐναντίον αὐτοῦ | lemma: εὐαρεστέω | morphology: aorist active indicative 1 singular | chosen_rendering: before whom I have been well-pleasing | alternate_renderings: before whom I have walked acceptably; whom I have pleased | rationale: Preserves the explicit pleasing-language instead of importing a different idiom. | status: drafted
+- greek_phrase: κυριος ο θεος ... αυτος εξαποστελει τον αγγελον αυτου μετα σου | lemma: κυριος | θεος | αγγελος | morphology: clause | chosen_rendering: will himself send out his angel with you | alternate_renderings: will send his angel with you | rationale: Current wording keeps the angel-with-you line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: well-pleasing | footnote_text: The Greek explicitly speaks of being pleasing before God. This draft preserves that wording rather than importing a different idiom. | source_basis: verbal nuance | status: drafted
+- note_type: translation | trigger_phrase: will himself send out his angel with you | footnote_text: The Greek keeps the angel line direct. The current wording preserves it. | source_basis: angel-with-you line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -13097,10 +13099,10 @@ Syntax notes: [TODO]
 Draft translation: And they sent away Rebekah their sister and what belonged to her, and Abraham's servant and those with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τα υπαρχοντα αυτης και τον παιδα του αβρααμ και τους μετ αυτου | lemma: υπαρχω | morphology: departure clause | chosen_rendering: And they sent away Rebekah their sister and what belonged to her, and Abraham's servant and those with him. | alternate_renderings: They sent away Rebekah their sister and what belonged to her, and Abraham's servant and those with him. | rationale: Current wording keeps the what-belonged-to-her phrase explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: what belonged to her | footnote_text: Greek says what belonged to her rather than specifying a nurse here. Current wording preserves that broader possession phrase. | source_basis: household detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -14141,10 +14143,10 @@ Syntax notes: [TODO]
 Draft translation: And Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μικρου εκοιμηθη τις εκ του γενους μου μετα της γυναικος σου και επηγαγες αν εφ' ημας αγνοιαν | lemma: αγνοια | morphology: rebuke warning | chosen_rendering: And Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance. | alternate_renderings: Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance. | rationale: Current wording keeps the almost-slept and ignorance line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you would have brought guilt on us in ignorance | footnote_text: Greek closes the rebuke with ignorance language. Current wording preserves that warning. | source_basis: rebuke warning | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -15645,10 +15647,10 @@ Syntax notes: [TODO]
 Draft translation: And may he give to you the blessing of Abraham my father, to you and to your seed after you, to inherit the land of your sojourning, which God gave to Abraham.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κληρονομησαι την γην της παροικησεως σου | lemma: κληρονομεω | παροικησις | morphology: blessing clause | chosen_rendering: And may he give to you the blessing of Abraham my father, to you and to your seed after you, to inherit the land of your sojourning, which God gave to Abraham. | alternate_renderings: May he give you the blessing of Abraham my father, to you and to your seed after you, to inherit the land of your sojourning, which God gave to Abraham. | rationale: Current wording keeps the land-of-your-sojourning formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the land of your sojourning | footnote_text: Greek uses the sojourning-land formula directly. Current wording preserves it. | source_basis: sojourning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -16307,10 +16309,10 @@ Syntax notes: [TODO]
 Draft translation: And Laban said to Jacob, Because you are my brother, will you serve me for nothing? Tell me, what shall your wages be?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου δουλευσεις μοι δωρεαν | lemma: δουλευω | δωρεαν | morphology: question clause | chosen_rendering: And Laban said to Jacob, Because you are my brother, will you serve me for nothing? Tell me, what shall your wages be? | alternate_renderings: Laban said to Jacob, Because you are my brother, shall you serve me for nothing? Tell me what your wages shall be. | rationale: Current wording keeps the serve-for-nothing question plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: will you serve me for nothing? | footnote_text: Greek asks the serve-for-nothing question directly. Current wording preserves it. | source_basis: question formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -16367,10 +16369,12 @@ Syntax notes: [TODO]
 Draft translation: And Jacob loved Rachel and said, I will serve you seven years for Rachel your younger daughter.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δουλευσω σοι επτα ετη περι Ραχηλ της θυγατρος σου της νεωτερας | lemma: δουλευω | νεωτερος | morphology: future clause | chosen_rendering: I will serve you seven years for Rachel your younger daughter | alternate_renderings: I will serve you seven years for your younger daughter Rachel | rationale: Current wording keeps the marriage-service line explicit. Draft stays close to source-row Greek. | status: reviewed
+- greek_phrase: δουλευσω σοι επτα ετη περι ραχηλ της θυγατρος σου της νεωτερας | lemma: δουλευω | νεωτερος | morphology: marriage clause | chosen_rendering: And Jacob loved Rachel and said, I will serve you seven years for Rachel your younger daughter. | alternate_renderings: Jacob loved Rachel and said, I will serve you seven years for Rachel your younger daughter. | rationale: Current wording keeps the marriage-service line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will serve you seven years for Rachel your younger daughter | footnote_text: The Greek keeps the marriage-service line direct. The current wording preserves it. | source_basis: marriage-service line | status: reviewed
+- note_type: translation | trigger_phrase: I will serve you seven years for Rachel your younger daughter. | footnote_text: Greek states the marriage-service line directly. Current wording preserves it. | source_basis: marriage-service formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -17851,10 +17855,10 @@ Syntax notes: [TODO]
 Draft translation: And Rachel and Leah answered and said to him, Is there still a portion or inheritance for us in our father's house?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη εστιν ημιν ετι μερις η κληρονομια εν τω οικω του πατρος ημων | lemma: μερις | κληρονομια | morphology: question clause | chosen_rendering: And Rachel and Leah answered and said to him, Is there still a portion or inheritance for us in our father's house? | alternate_renderings: Rachel and Leah answered and said to him, Is there still a portion or inheritance for us in our father's house? | rationale: Current wording keeps the portion-or-inheritance question plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a portion or inheritance | footnote_text: Greek pairs portion and inheritance in the sisters' question. Current wording preserves that family-property line. | source_basis: inheritance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18351,10 +18355,10 @@ Syntax notes: [TODO]
 Draft translation: What was torn by beasts I did not bring to you. I was making good from myself the thefts of day and the thefts of night.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εγω απετιννυον παρ εμαυτου κλεμματα ημερας και κλεμματα νυκτος | lemma: αποτινω | κλεμμα | morphology: clause | chosen_rendering: What was torn by beasts I did not bring to you. I was making good from myself the thefts of day and the thefts of night. | alternate_renderings: What was torn by beasts I did not bring to you. I was repaying from myself the thefts of day and the thefts of night. | rationale: Current wording keeps the day-and-night thefts formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the thefts of day and the thefts of night | footnote_text: Greek repeats thefts by day and by night. Current wording preserves that formula. | source_basis: repetition formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18431,10 +18435,10 @@ Syntax notes: [TODO]
 Draft translation: But Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the livestock my livestock, and all that you see is mine and my daughters'. What shall I do to these today or to their children whom they bore?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντα οσα συ ορας εμα εστι και των θυγατερων μου | lemma: ownership claim | morphology: dispute line | chosen_rendering: But Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the livestock my livestock, and all that you see is mine and my daughters'. What shall I do to these today or to their children whom they bore? | alternate_renderings: All that you see is mine; what can I do to these my daughters today? | rationale: Greek adds and my daughters' after all that you see is mine. Current wording keeps that possessive extension. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: is mine and my daughters' | footnote_text: Greek adds that possessive extension after all that you see is mine. | source_basis: ownership claim | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18471,10 +18475,10 @@ Syntax notes: [TODO]
 Draft translation: And Jacob took a stone and set it up as a pillar.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαβων δε ιακωβ λιθον εστησεν αυτον στηλην | lemma: στηλη | morphology: narrative clause | chosen_rendering: And Jacob took a stone and set it up as a pillar. | alternate_renderings: Jacob took a stone and set it up as a pillar. | rationale: Current wording keeps the took-a-stone and set-it-up-as-a-pillar line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: set it up as a pillar | footnote_text: Greek gives the stone-to-pillar action in a compact line. Current wording preserves that memorial act. | source_basis: memorial act | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18491,10 +18495,10 @@ Syntax notes: [TODO]
 Draft translation: And Jacob said to his brothers, Gather stones. And they gathered stones and made a heap, and they ate there on the heap.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συλλεγετε λιθους και συνελεξαν λιθους και εποιησαν βουνον | lemma: συλλεγω | βουνος | morphology: covenant scene | chosen_rendering: And Jacob said to his brothers, Gather stones. And they gathered stones and made a heap, and they ate there on the heap. | alternate_renderings: Jacob said to his brothers, Gather stones. They gathered stones and made a heap, and they ate there on the heap. | rationale: Current wording keeps the gather-stones and made-a-heap sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Gather stones | footnote_text: Greek keeps the covenant scene in a terse gather-stones → heap → meal sequence. Current wording preserves that pattern. | source_basis: covenant scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18674,9 +18678,11 @@ Draft translation: And Jacob said when he saw them, This is God's camp. And he c
 
 Decision rows:
 - greek_phrase: παρεμβολὴ Θεοῦ αὕτη | lemma: παρεμβολή | θεός | morphology: nominative singular noun phrase | chosen_rendering: This is God's camp | alternate_renderings: This is the camp of God; God's encampment | rationale: Keeps the military camp image explicit for the place-name that follows. | status: drafted
+- greek_phrase: παρεμβολη θεου αυτη ... παρεμβολαι | lemma: παρεμβολη | morphology: place-name clause | chosen_rendering: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps. | alternate_renderings: Jacob said when he saw them, This is God's camp, and he called that place Camps. | rationale: Current wording keeps the camp-place-name line direct. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: God's camp | footnote_text: The Greek uses camp language, which directly feeds the place-name that follows. | source_basis: military image + place-name | status: drafted
+- note_type: translation | trigger_phrase: This is God's camp. And he called the name of that place Camps. | footnote_text: Greek makes a direct camp/place-name link. Current wording preserves it. | source_basis: place-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18693,10 +18699,10 @@ Syntax notes: [TODO]
 Draft translation: And Jacob sent messengers before him to Esau his brother in the land of Seir, in the country of Edom.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Απεστειλε δε Ιακωβ αγγελους εμπροσθεν αυτου | lemma: αποστελλω | αγγελος | morphology: aorist clause | chosen_rendering: Jacob sent messengers before him | alternate_renderings: Jacob sent angels before him | rationale: Current wording keeps human-messenger sense in context. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Jacob sent messengers before him | footnote_text: Context here is human envoys to Esau. The current wording keeps messenger rather than angel. | source_basis: human envoys | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18753,10 +18759,10 @@ Syntax notes: [TODO]
 Draft translation: And the messengers returned to Jacob, saying, We came to your brother Esau, and look, he is coming to meet you, and four hundred men are with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανεστρεψαν οι αγγελοι προς Ιακωβ | lemma: αγγελος | αναστρεφω | morphology: aorist clause | chosen_rendering: the messengers returned to Jacob | alternate_renderings: the angels returned to Jacob | rationale: Current wording keeps human-messenger sense in context. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the messengers returned to Jacob | footnote_text: Context here is human envoys to Esau. The current wording keeps messenger rather than angel. | source_basis: human envoys | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18853,10 +18859,10 @@ Syntax notes: [TODO]
 Draft translation: Deliver me from the hand of my brother, from the hand of Esau, because I am afraid of him, lest he come and strike me, mother upon children.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μητερα επι τεκνοις | lemma: μητηρ | τεκνον | morphology: idiom clause | chosen_rendering: Deliver me from the hand of my brother, from the hand of Esau, because I am afraid of him, lest he come and strike me, mother upon children. | alternate_renderings: Deliver me from Esau, lest he come and strike mother together with children. | rationale: Current wording keeps the stark mother-upon-children idiom instead of flattening it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: mother upon children | footnote_text: Greek uses a stark mother-upon-children idiom here. Current wording keeps it rather than smoothing it away. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18873,10 +18879,10 @@ Syntax notes: [TODO]
 Draft translation: And you said, I will do you good and make your seed like the sand of the sea, which will not be numbered because of the multitude.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ευ σε ποιησω | lemma: ευ | ποιεω | morphology: future clause | chosen_rendering: I will do you good | alternate_renderings: I will surely do you good | rationale: Current wording keeps the promise line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will do you good | footnote_text: The Greek promise line is compact. The current wording keeps that force explicit. | source_basis: promise line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18913,10 +18919,10 @@ Syntax notes: [TODO]
 Draft translation: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αιγας διακοσιας τραγους εικοσι προβατα διακοσια κριους εικοσι | lemma: animal list | morphology: name list | chosen_rendering: two hundred she-goats twenty he-goats two hundred sheep twenty rams | alternate_renderings: two hundred she-goats twenty male goats two hundred ewes twenty rams | rationale: Current wording keeps the gift-list direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: two hundred she-goats twenty he-goats two hundred sheep twenty rams | footnote_text: The Greek line is a gift list. The current wording keeps that sequence direct. | source_basis: gift list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18933,10 +18939,10 @@ Syntax notes: [TODO]
 Draft translation: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καμηλους θηλαζουσας και τα παιδια αυτων τριακοντα | lemma: καμηλος | θηλαζω | morphology: noun phrase | chosen_rendering: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals. | alternate_renderings: thirty nursing camels and their young, forty cows, ten bulls, twenty she-donkeys, and ten foals. | rationale: Current wording keeps the livestock list plain and close to the source-row sequence. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: thirty milk camels and their young | footnote_text: Greek gives a livestock list in compressed sequence. Current wording preserves it. | source_basis: livestock list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18973,10 +18979,10 @@ Syntax notes: [TODO]
 Draft translation: And he charged the first, saying, If Esau my brother meets you and asks you, saying, Whose are you and where are you going and whose are these going before you,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τινος ει και που πορευη και τινος ταυτα τα προπορευομενα σου | lemma: τις | πορευομαι | προπορευομαι | morphology: question sequence | chosen_rendering: Whose are you and where are you going and whose are these going before you, | alternate_renderings: To whom do you belong, and where are you going, and to whom do these ahead of you belong? | rationale: Current wording keeps the repeated whose-sequence of the Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Whose are you and where are you going and whose are these going before you | footnote_text: Greek repeats whose in compressed sequence. Current wording keeps that repeated structure. | source_basis: question sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -19073,10 +19079,10 @@ Syntax notes: [TODO]
 Draft translation: And rising in that night, he took his two wives and his two servant-girls and his eleven children and crossed the ford of Jabbok.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διεβη την διαβασιν του ιαβωκ | lemma: διαβαινω | διαβασις | morphology: clause | chosen_rendering: crossed the ford of Jabbok | alternate_renderings: crossed the crossing-place of Jabbok; passed over the ford of Jabbok | rationale: Current wording keeps the concrete river-crossing term. MT-leaning overlap acceptable here. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: crossed the ford of Jabbok | footnote_text: Greek uses a concrete crossing-place term here. Current wording keeps river-ford sense plain. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -19133,10 +19139,10 @@ Syntax notes: [TODO]
 Draft translation: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ηψατο του πλατους του μηρου αυτου και εναρκησε το πλατος του μηρου | lemma: απτομαι | μηρος | ναρκαω | morphology: clause | chosen_rendering: And he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him. | alternate_renderings: He touched the hollow of his thigh, and Jacob's thigh went numb as he wrestled with him. | rationale: Current wording keeps the broad-part wording and the numbness line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the broad part of Jacob's thigh went numb | footnote_text: Greek uses broad-part wording and a numbness verb here. Current wording keeps both visible. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -19173,10 +19179,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to him, What is your name? And he said, Jacob.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τι το ονομα σου εστιν | lemma: ονομα | morphology: question clause | chosen_rendering: What is your name? | alternate_renderings: What name is yours? | rationale: Current wording keeps the direct naming question plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: What is your name? | footnote_text: Greek asks the naming question directly. Current wording keeps it plain. | source_basis: question line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -19213,10 +19219,10 @@ Syntax notes: [TODO]
 Draft translation: And Jacob asked and said, Tell me your name. And he said, Why is this that you ask my name? And he blessed him there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αναγγειλον μοι το ονομα σου | lemma: αναγγελλω | ονομα | morphology: imperative clause | chosen_rendering: Tell me your name | alternate_renderings: declare your name to me | rationale: Current wording keeps the request direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Tell me your name | footnote_text: The Greek request is compact and direct. The current wording preserves it. | source_basis: name request | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -19234,9 +19240,11 @@ Draft translation: And Jacob called the name of that place Form of God, for I sa
 
 Decision rows:
 - greek_phrase: Εἶδος Θεοῦ | lemma: εἶδος | θεός | morphology: nominative singular noun phrase | chosen_rendering: Form of God | alternate_renderings: Appearance of God; Face of God | rationale: Keeps the Greek term visible instead of automatically harmonizing it to the more familiar face-language. | status: drafted
+- greek_phrase: ειδος θεου ... και εσωθη μου η ψυχη | lemma: ειδος | σωζω | ψυχη | morphology: clause | chosen_rendering: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved. | alternate_renderings: Jacob called the place Form of God, for I saw God face to face, and my soul was saved. | rationale: Current wording keeps the place-name and saved-life line close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: Form of God | footnote_text: The Greek says eidos, a term for form or appearance. This draft keeps that wording visible instead of harmonizing it automatically to face. | source_basis: lexical nuance | status: drafted
+- note_type: translation | trigger_phrase: Form of God | footnote_text: Greek names the place with Form of God and then explains it. Current wording keeps that naming line explicit. | source_basis: place-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -20540,9 +20548,10 @@ Draft translation: And God said to him, I am your God. Increase and multiply. Na
 
 Decision rows:
 - greek_phrase: ἔθνη καὶ συναγωγαὶ ἐθνῶν | lemma: ἔθνος | συναγωγή | morphology: nominative plural noun pair | chosen_rendering: nations and gatherings of nations | alternate_renderings: nations and assemblies of nations | rationale: Matches the recurring LXX covenant phrase already used earlier in the draft. | status: drafted
+- greek_phrase: εθνη και συναγωγαι εθνων εσονται εκ σου και βασιλεις εκ της οσφυος σου εξελευσονται | lemma: συναγωγη | οσφυς | morphology: blessing clause | chosen_rendering: And God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins. | alternate_renderings: God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins. | rationale: Current wording keeps the gatherings-of-nations and kings-from-your-loins line explicit. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: gatherings of nations | footnote_text: The Greek repeats the same gatherings-of-nations wording used earlier in the Jacob cycle. | source_basis: recurring covenant phrase | status: drafted
+- note_type: translation | trigger_phrase: gatherings of nations | footnote_text: Greek keeps the gatherings-of-nations phrase here rather than flattening it into a generic many-nations line. Current wording preserves that covenant formula. | source_basis: recurring covenant phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -20799,10 +20808,10 @@ Syntax notes: [TODO]
 Draft translation: And sons of Balla, Rachel's servant-girl: Dan and Naphtali.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υιοι δε βαλλας παιδισκης ραχηλ δαν και νεφθαλειμ | lemma: παιδισκη | morphology: genealogical listing | chosen_rendering: And sons of Balla, Rachel's servant-girl: Dan and Naphtali. | alternate_renderings: Sons of Balla, Rachel's servant-girl: Dan and Naphtali. | rationale: Current wording keeps the maternal listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Rachel's servant-girl | footnote_text: Greek identifies the sons through their mother here. Current wording preserves that listing. | source_basis: genealogical listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -21983,10 +21992,10 @@ Syntax notes: [TODO]
 Draft translation: And his brothers went to pasture their father's sheep at Shechem.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επορευθησαν δε οι αδελφοι αυτου βοσκειν τα προβατα του πατρος αυτων εις συχεμ | lemma: βοσκω | morphology: pastoral notice | chosen_rendering: And his brothers went to pasture their father's sheep at Shechem. | alternate_renderings: His brothers went to pasture their father's sheep at Shechem. | rationale: Current wording keeps the pastoral notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went to pasture their father's sheep | footnote_text: Greek gives a plain pastoral scene notice. Current wording preserves it. | source_basis: pastoral notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -22343,10 +22352,10 @@ Syntax notes: [TODO]
 Draft translation: And he returned to his brothers and said, The child is not there, and I, where shall I still go?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: το παιδαριον ουκ εστιν εγω δε που πορευομαι ετι | lemma: που πορευομαι ετι | morphology: grief cry | chosen_rendering: And he returned to his brothers and said, The child is not there, and I, where shall I still go? | alternate_renderings: He returned to his brothers and said, The child is not there, and I, where shall I still go? | rationale: Current wording keeps the grief cry plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: where shall I still go? | footnote_text: Greek gives Reuben's grief as a direct question. Current wording preserves it. | source_basis: grief cry | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -22585,10 +22594,10 @@ Syntax notes: [TODO]
 Draft translation: And Judah took a wife for Er his firstborn, whose name was Tamar.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: η ονομα Θαμαρ | lemma: ονομα | Θαμαρ | morphology: relative clause | chosen_rendering: whose name was Tamar | alternate_renderings: whose name was Thamar | rationale: Current wording uses standard name form. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: whose name was Tamar | footnote_text: The Greek simply gives the name. The current wording uses the standard English form. | source_basis: name form | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -22725,10 +22734,10 @@ Syntax notes: [TODO]
 Draft translation: And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απηγγελη θαμαρ λεγοντες ιδου ο πενθερος σου αναβαινει εις θαμνα κειραι τα προβατα αυτου | lemma: απαγγελλω | πενθερος | morphology: report notice | chosen_rendering: And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep. | alternate_renderings: It was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep. | rationale: Current wording keeps the reported-to-Tamar notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your father-in-law is going up to Timnah | footnote_text: Greek frames the notice as a reported message to Tamar. Current wording preserves that shape. | source_basis: report notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -24211,10 +24220,10 @@ Syntax notes: [TODO]
 Draft translation: And both of us saw a dream in one night, I and he. Each of us saw according to his own dream.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκαστος κατα το αυτου ενυπνιον ειδομεν | lemma: ενυπνιον | morphology: clause | chosen_rendering: And both of us saw a dream in one night, I and he. Each of us saw according to his own dream. | alternate_renderings: Both of us saw a dream in one night, I and he; each of us saw according to his own dream. | rationale: Current wording keeps the repeated dream formula close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Each of us saw according to his own dream. | footnote_text: Greek repeats dream language in a compact formula. Current wording preserves it. | source_basis: dream formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -24851,10 +24860,10 @@ Syntax notes: [TODO]
 Draft translation: And he mounted him on his second chariot, and a herald cried before him. And he set him over all the land of Egypt.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκηρυξεν εμπροσθεν αυτου κηρυξ | lemma: κηρυσσω | κηρυξ | morphology: royal clause | chosen_rendering: And he mounted him on his second chariot, and a herald cried before him. And he set him over all the land of Egypt. | alternate_renderings: He mounted him on his second chariot, and a herald cried before him, and he set him over all the land of Egypt. | rationale: Current wording keeps the herald-before-him royal line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a herald cried before him | footnote_text: Greek keeps the herald-before-him royal line plain. Current wording preserves it. | source_basis: royal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -25693,10 +25702,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to his brothers, My money has been returned to me, and look, this is in my bag. And their heart was stunned, and they were troubled to one another, saying, What is this that God has done to us?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξεστη η καρδια αυτων | lemma: καρδια | εξιστημι | morphology: aorist clause | chosen_rendering: their heart was stunned | alternate_renderings: their heart failed them | rationale: Current wording keeps the stunned-heart line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: their heart was stunned | footnote_text: The Greek uses a stunned-heart line here. The current wording preserves that force. | source_basis: stunned-heart line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -26356,9 +26365,10 @@ Draft translation: And he said to them, Mercy to you. Do not be afraid. Your God
 
 Decision rows:
 - greek_phrase: τὸ ἀργύριον ὑμῶν εὐδοκιμοῦν ἀπέχω | lemma: εὐδοκιμέω | ἀπέχω | morphology: present active participle + present active indicative 1 singular | chosen_rendering: I have your approved money | alternate_renderings: I have your acceptable money; your good money is with me | rationale: Preserves the steward's reassurance without paraphrasing too loosely. | status: drafted
+- greek_phrase: ιλεως υμιν μη φοβεισθε | lemma: ιλεως | φοβεομαι | morphology: predicate clause | chosen_rendering: Mercy to you Do not be afraid | alternate_renderings: Peace to you do not be afraid | rationale: Current wording keeps the mercy-greeting line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Mercy to you Do not be afraid | footnote_text: The Greek greeting uses mercy language. The current wording keeps that marked line visible. | source_basis: mercy greeting | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -26857,10 +26867,10 @@ Syntax notes: [TODO]
 Draft translation: And Judah and his brothers entered to Joseph, while he was still there, and they fell before him to the ground.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εισηλθε δε ιουδας και οι αδελφοι αυτου προς ιωσηφ ετι αυτου οντος εκει και επεσον εναντιον αυτου επι την γην | lemma: πιπτω εναντιον | morphology: submission scene | chosen_rendering: And Judah and his brothers entered to Joseph, while he was still there, and they fell before him to the ground. | alternate_renderings: Judah and his brothers entered to Joseph, while he was still there, and they fell before him to the ground. | rationale: Current wording keeps the entry and falling-to-ground scene plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they fell before him to the ground | footnote_text: Greek gives the submission scene in direct form. Current wording preserves it. | source_basis: submission scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -27799,10 +27809,10 @@ Syntax notes: [TODO]
 Draft translation: And they told him all the words of Joseph that he had spoken to them. And when he saw the carts that Joseph had sent to take him, the spirit of Jacob their father revived.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδων δε τας αμαξας ας απεστειλεν ιωσηφ ωστε αναλαβειν αυτον ανεζωπυρησε το πνευμα ιακωβ | lemma: αναζωπυρεω | morphology: revival notice | chosen_rendering: And they told him all the words of Joseph that he had spoken to them. And when he saw the carts that Joseph had sent to take him, the spirit of Jacob their father revived. | alternate_renderings: They told him all the words of Joseph that he had spoken to them. And when he saw the carts that Joseph had sent to take him, the spirit of Jacob their father revived. | rationale: Current wording keeps the revived-spirit notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the spirit of Jacob their father revived | footnote_text: Greek marks Jacob's response with revived-spirit language. Current wording preserves it. | source_basis: revival notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -28081,10 +28091,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Issachar: Thola and Phua and Iasub and Zambram.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υιοι δε ισσαχαρ θωλα και φουα και ιασουβ και ζαμβραμ | lemma: proper names | morphology: genealogy list | chosen_rendering: And the sons of Issachar: Thola and Phua and Iasub and Zambram. | alternate_renderings: The sons of Issachar: Thola and Phua and Iasub and Zambram. | rationale: Current wording keeps the source-row name list plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Thola and Phua and Iasub and Zambram | footnote_text: Greek preserves this specific source-row sequence of names. Current wording keeps that list rather than harmonizing it. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -28201,10 +28211,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Rachel, Jacob's wife: Joseph and Benjamin.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υιοι δε ραχηλ γυναικος ιακωβ ιωσηφ και βενιαμιν | lemma: υιος | morphology: genealogical listing | chosen_rendering: And the sons of Rachel, Jacob's wife: Joseph and Benjamin. | alternate_renderings: The sons of Rachel, Jacob's wife: Joseph and Benjamin. | rationale: Current wording keeps the maternal listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the sons of Rachel, Jacob's wife | footnote_text: Greek gives the maternal identification in the list. Current wording preserves it. | source_basis: genealogical listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -28421,10 +28431,10 @@ Syntax notes: [TODO]
 Draft translation: And Israel said to Joseph, From now on I will die, since I have seen your face, because you still live.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αποθανουμαι απο του νυν επει εωρακα το προσωπον σου ετι γαρ συ ζης | lemma: απο του νυν | morphology: recognition climax | chosen_rendering: And Israel said to Joseph, From now on I will die, since I have seen your face, because you still live. | alternate_renderings: Israel said to Joseph, From now on I will die, since I have seen your face, because you still live. | rationale: Current wording keeps the recognition-climax line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: From now on I will die | footnote_text: Greek uses that abrupt recognition-climax statement. Current wording preserves it. | source_basis: recognition climax | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -28643,10 +28653,10 @@ Syntax notes: [TODO]
 Draft translation: And Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed Pharaoh.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ηυλογησεν Ιακωβ τον Φαραω | lemma: ευλογεω | morphology: aorist clause | chosen_rendering: Jacob blessed Pharaoh | alternate_renderings: Jacob blessed Pharao | rationale: Current wording uses standard royal name form. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Jacob blessed Pharaoh | footnote_text: The Greek states the blessing line directly. The current wording uses the standard royal name form. | source_basis: royal name form | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -28783,10 +28793,10 @@ Syntax notes: [TODO]
 Draft translation: And Joseph gathered all the money found in the land of Egypt and in the land of Canaan for the grain that they were buying, and he measured out grain to them. And Joseph brought all the money into Pharaoh's house.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συνηγαγε δε Ιωσηφ παν το αργυριον | lemma: συναγω | αργυριον | morphology: aorist clause | chosen_rendering: Joseph gathered all the money | alternate_renderings: Joseph gathered up all the money | rationale: Current wording keeps the collection line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Joseph gathered all the money | footnote_text: The Greek collection line is direct. The current wording preserves it. | source_basis: collection line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -29305,10 +29315,10 @@ Syntax notes: [TODO]
 Draft translation: And Joseph said to his father, They are my sons, whom God gave me here. And Jacob said, Bring them to me, so that I may bless them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υιοι μου εισιν ους εδωκε μοι ο θεος ενταυθα | lemma: διδωμι | morphology: identification clause | chosen_rendering: And Joseph said to his father, They are my sons, whom God gave me here. And Jacob said, Bring them to me, so that I may bless them. | alternate_renderings: Joseph said to his father, They are my sons, whom God gave me here. Jacob said, Bring them to me, so that I may bless them. | rationale: Current wording keeps the God-gave-me-here line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: whom God gave me here | footnote_text: Greek keeps Joseph's God-gave-me-here statement plain. Current wording preserves that family scene detail. | source_basis: family speech | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -29465,10 +29475,10 @@ Syntax notes: [TODO]
 Draft translation: And Joseph, seeing that his father laid his right hand on Ephraim's head, it seemed grievous to him, and Joseph took hold of his father's hand to remove it from Ephraim's head onto Manasseh's head.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: βαρυ αυτω κατεφανη | lemma: βαρυς | φαινω | morphology: aorist clause | chosen_rendering: it seemed grievous to him | alternate_renderings: it displeased him | rationale: Current wording keeps the grief wording explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: it seemed grievous to him | footnote_text: The Greek uses grief language rather than simple displeasure. The current wording preserves that nuance. | source_basis: grief wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -29485,10 +29495,10 @@ Syntax notes: [TODO]
 Draft translation: And Joseph said to his father, Not so, father, for this one is the firstborn. Put your right hand on his head.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επιθες την δεξιαν σου επι την κεφαλην αυτου | lemma: δεξια | morphology: command clause | chosen_rendering: And Joseph said to his father, Not so, father, for this one is the firstborn. Put your right hand on his head. | alternate_renderings: Joseph said to his father, Not so, father, for this one is the firstborn. Put your right hand on his head. | rationale: Current wording keeps the direct right-hand command plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Put your right hand on his head. | footnote_text: Greek gives Joseph's right-hand request directly. Current wording preserves that explicit gesture. | source_basis: blessing gesture | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -30489,10 +30499,10 @@ Syntax notes: [TODO]
 Draft translation: And his sons carried him up into the land of Canaan and buried him in the double cave, which Abraham acquired as a possession for a tomb from Ephrom the Hittite, before Mambre.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εθαψαν αυτον εις το σπηλαιον το διπλουν ο εκτησατο αβρααμ το σπηλαιον εν κτησει μνημειου | lemma: το διπλουν | κτησις μνημειου | morphology: tomb phrase | chosen_rendering: And his sons carried him up into the land of Canaan and buried him in the double cave, which Abraham acquired as a possession for a tomb from Ephrom the Hittite, before Mambre. | alternate_renderings: They buried him in the cave of Machpelah, which Abraham bought with the field for a burial possession. | rationale: Greek says the double cave and possession for a tomb. Current wording keeps that diction. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: double cave | footnote_text: Greek says the double cave rather than Machpelah here. | source_basis: tomb wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -30710,9 +30720,11 @@ Draft translation: And Joseph said to his brothers, saying, I am dying. But with
 
 Decision rows:
 - greek_phrase: ἐπισκοπῇ δὲ ἐπισκέψεται ὁ Θεὸς ὑμᾶς | lemma: ἐπισκοπή | ἐπισκέπτομαι | θεός | morphology: dative singular noun + future middle indicative 3 singular | chosen_rendering: with visitation God will visit you | alternate_renderings: God will surely visit you | rationale: Keeps the doubled visitation language that later becomes important in biblical remembrance-deliverance formulas. | status: drafted
+- greek_phrase: επισκοπη επισκεψεται ο θεος υμας | lemma: επισκοπη | επισκεπτομαι | morphology: visitation formula | chosen_rendering: And Joseph said to his brothers, saying, I am dying. But with visitation God will visit you and bring you up out of this land to the land that God swore to our fathers Abraham, Isaac and Jacob. | alternate_renderings: Joseph said to his brothers, I am dying, but with visitation God will visit you and bring you up out of this land to the land that God swore to our fathers Abraham, Isaac, and Jacob. | rationale: Current wording keeps the visitation formula explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: with visitation God will visit you | footnote_text: The Greek doubles the visitation wording here. This draft keeps the doubled form because it matters for later biblical echo. | source_basis: doubled visitation formula | status: drafted
+- note_type: translation | trigger_phrase: with visitation God will visit you | footnote_text: Greek uses the visitation formula directly. Current wording preserves it. | source_basis: visitation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -30813,10 +30825,10 @@ Syntax notes: [TODO]
 Draft translation: Issachar, Zebulun, and Benjamin,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ισσαχαρ ζαβουλων και βενιαμιν | lemma: proper names | morphology: name list | chosen_rendering: Issachar Zebulun and Benjamin | alternate_renderings: Issachar Zabulon and Benjamin | rationale: Current wording uses standard name forms. Draft stays close to source-row sequence. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Issachar Zebulun and Benjamin | footnote_text: The Greek line is simply a name list. The current wording keeps standard English name forms. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -30833,10 +30845,10 @@ Syntax notes: [TODO]
 Draft translation: Dan and Naphtali, Gad and Asher.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δαν και νεφθαλι γαδ και ασηρ | lemma: proper names | morphology: name list | chosen_rendering: Dan and Naphtali Gad and Asher | alternate_renderings: Dan and Nephthali Gad and Asher | rationale: Current wording uses standard name forms. Draft stays close to source-row sequence. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Dan and Naphtali Gad and Asher | footnote_text: The Greek line is simply a name list. The current wording keeps standard English name forms. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -31356,10 +31368,10 @@ Syntax notes: [TODO]
 Draft translation: And Pharaoh's daughter said to her, 'Go.' So the young woman went and called the child's mother.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πορευου ελθουσα δε η νεανις εκαλεσεν την μητερα του παιδιου | lemma: νεανις | morphology: narrative clause | chosen_rendering: And Pharaoh's daughter said to her, Go. So the young woman went and called the child's mother. | alternate_renderings: Pharaoh's daughter said to her, Go. So the young woman went and called the child's mother. | rationale: Current wording keeps the go-and-call-the-childs-mother line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: called the child's mother | footnote_text: Greek gives the action in a plain sequence: go, then call the child's mother. Current wording preserves that narrative line. | source_basis: narrative sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -31376,10 +31388,10 @@ Syntax notes: [TODO]
 Draft translation: And Pharaoh's daughter said to her, 'Keep this child for me and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διατηρησον μοι το παιδιον τουτο και θηλασον μοι αυτο εγω δε δωσω σοι τον μισθον | lemma: διατηρεω | θηλαζω | μισθος | morphology: speech command | chosen_rendering: And Pharaoh's daughter said to her, 'Keep this child for me and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him. | alternate_renderings: Pharaoh's daughter said to her, 'Keep this child for me and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him. | rationale: Current wording keeps the repeated for-me phrasing and the wages line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: keep this child for me and nurse him for me | footnote_text: Greek repeats for me with both commands. Current wording preserves that doubled request and the wages line. | source_basis: speech formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -32240,10 +32252,10 @@ Syntax notes: [TODO]
 Draft translation: So that they may believe you that the Lord, the God of their fathers, the God of Abraham and the God of Isaac and the God of Jacob, has appeared to you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ινα πιστευσωσιν σοι οτι ωπται σοι κυριος | lemma: πιστευω | οπτανομαι | morphology: purpose clause | chosen_rendering: So that they may believe you that the Lord, the God of their fathers, the God of Abraham and the God of Isaac and the God of Jacob, has appeared to you. | alternate_renderings: So that they may believe you, that the Lord, the God of their fathers, the God of Abraham, Isaac, and Jacob, has appeared to you. | rationale: Current wording keeps the appearance-to-you line direct. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: has appeared to you | footnote_text: Greek ends with a direct appearance-to-you line. Current wording preserves it. | source_basis: appearance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -33866,10 +33878,10 @@ Syntax notes: [TODO]
 Draft translation: You shall speak to him all that I command you, and Aaron your brother shall speak to Pharaoh so that he may send out the sons of Israel from his land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ δε λαλησεις αυτω παντα οσα σοι εντελλομαι ο δε ααρων ο αδελφος σου λαλησει προς φαραω | lemma: λαλεω | εντελλομαι | morphology: commission line | chosen_rendering: You shall speak to him all that I command you, and Aaron your brother shall speak to Pharaoh so that he may send out the sons of Israel from his land. | alternate_renderings: You shall speak to him all that I command you, and Aaron your brother shall speak to Pharaoh so that he may send out the sons of Israel from his land. | rationale: Current wording keeps the double-speech commission plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Aaron your brother shall speak to Pharaoh | footnote_text: Greek splits the commission between Moses and Aaron. Current wording preserves that structure. | source_basis: commission line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -35270,10 +35282,10 @@ Syntax notes: [TODO]
 Draft translation: For now, sending out my hand, I will strike you and your people with death, and you will be wiped off from the earth.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παταξω σε και τον λαον σου θανατω και εκτριβηση απο της γης | lemma: πατασσω | εκτριβω | morphology: threat clause | chosen_rendering: For now, sending out my hand, I will strike you and your people with death, and you will be wiped off from the earth. | alternate_renderings: For now, stretching out my hand, I will strike you and your people with death, and you will be wiped off the earth. | rationale: Current wording keeps the strike-with-death threat line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: strike you and your people with death | footnote_text: Greek states the death-threat line directly. Current wording preserves that plague warning without softening it. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -35912,10 +35924,10 @@ Syntax notes: [TODO]
 Draft translation: Then the Lord said to Moses, "Stretch out your hand over the land of Egypt, and let the locust come up on the land and eat every plant of the land and every fruit of the trees that the hail left."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αναβητω ακρις επι την γην και κατεδεται πασαν βοτανην της γης | lemma: ακρις | βοτανη | morphology: plague command | chosen_rendering: Then the Lord said to Moses, Stretch out your hand over the land of Egypt, and let the locust come up on the land and eat every plant of the land and every fruit of the trees that the hail left. | alternate_renderings: The Lord said to Moses, Stretch out your hand over the land of Egypt, and let the locust come up on the land and eat every plant of the land and every fruit of the trees that the hail left. | rationale: Current wording keeps the let-the-locust-come-up command explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let the locust come up on the land | footnote_text: Greek frames the plague as a direct command for locust to come up and consume what hail left. Current wording preserves that command form. | source_basis: plague formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -36212,10 +36224,10 @@ Syntax notes: [TODO]
 Draft translation: But the Lord hardened Pharaoh's heart, and he was not willing to send them away.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εσκληρυνεν δε κυριος την καρδιαν φαραω και ουκ εβουληθη εξαποστειλαι αυτους | lemma: σκληρυνω | βουλομαι | morphology: hardening formula | chosen_rendering: But the Lord hardened Pharaoh's heart, and he was not willing to send them away. | alternate_renderings: The Lord hardened Pharaoh's heart, and he was not willing to send them away. | rationale: Current wording keeps the hardening and unwillingness line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he was not willing to send them away | footnote_text: Greek states Pharaoh's refusal with will language. Current wording preserves that line. | source_basis: hardening formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -36536,10 +36548,10 @@ Syntax notes: [TODO]
 Draft translation: "But if those in the house are too few for an animal from the flock, he shall take along his neighbor nearest to him according to the number of persons. Each according to what is enough for him shall be counted toward the animal from the flock."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε ολιγοστοι ωσιν οι εν τη οικια ωστε μη ικανους ειναι εις προβατον | lemma: προβατον | morphology: passover count rule | chosen_rendering: But if those in the house are too few for an animal from the flock, he shall take along his neighbor nearest to him according to the number of persons. Each according to what is enough for him shall be counted toward the animal from the flock. | alternate_renderings: If the household is too little for the lamb, let him and his neighbor next to his house take it. | rationale: Greek says animal from the flock here rather than lamb alone. Current wording keeps that broader term. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: animal from the flock | footnote_text: Greek says animal from the flock here rather than lamb alone. | source_basis: term difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -36616,10 +36628,10 @@ Syntax notes: [TODO]
 Draft translation: "And they shall eat the flesh on this night, roasted by fire, and unleavened bread. With bitter herbs they shall eat it."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: φαγονται τα κρεα τη νυκτι ταυτη οπτα πυρι και αζυμα επι πικριδων εδονται | lemma: οπτα πυρι | πικρις | morphology: passover meal | chosen_rendering: And they shall eat the flesh on this night, roasted by fire, and unleavened bread. With bitter herbs they shall eat it. | alternate_renderings: They shall eat the flesh on this night, roasted by fire, and unleavened bread. With bitter herbs they shall eat it. | rationale: Current wording keeps the Passover meal line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: roasted by fire and unleavened bread | footnote_text: Greek gives the meal instructions in compact sequence. Current wording preserves it. | source_basis: passover meal | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -37016,10 +37028,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Israel went away and did just as the Lord commanded Moses and Aaron; so they did.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και απελθοντες εποιησαν οι υιοι ισραηλ καθα ενετειλατο κυριος | lemma: εντελλομαι | morphology: obedience clause | chosen_rendering: And the sons of Israel went away and did just as the Lord commanded Moses and Aaron; so they did. | alternate_renderings: The sons of Israel went away and did just as the Lord commanded Moses and Aaron; so they did. | rationale: Current wording keeps the went-away-and-did line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went away and did just as the Lord commanded | footnote_text: Greek gives the response in a plain obedience sequence. Current wording preserves that pattern. | source_basis: obedience formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -38380,10 +38392,10 @@ Syntax notes: [TODO]
 Draft translation: Then the Egyptians pursued and went in after them into the midst of the sea, all Pharaoh's horses, chariots, and riders.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εισηλθον οπισω αυτων ... εις μεσον της θαλασσης | lemma: οπισω | μεσος | morphology: narrative clause | chosen_rendering: Then the Egyptians pursued and went in after them into the midst of the sea, all Pharaoh's horses, chariots, and riders. | alternate_renderings: The Egyptians pursued and entered after them into the midst of the sea, all Pharaoh's horses, chariots, and riders. | rationale: Current wording keeps the pursuit-into-the-sea line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went in after them into the midst of the sea, all Pharaoh's horses, chariots, and riders. | footnote_text: Greek keeps the pursuit line compressed and direct. Current wording preserves it. | source_basis: pursuit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -38541,9 +38553,11 @@ Draft translation: And Israel saw the great hand, the things the Lord had done a
 
 Decision rows:
 - greek_phrase: Μωϋσῇ τῷ θεράποντι αὐτοῦ | lemma: θεράπων | morphology: dative singular noun | chosen_rendering: Moses his attendant | alternate_renderings: Moses his servant; Moses his minister | rationale: Keeps therapon distinct from the more common slave-servant wording and suggests honored service. | status: drafted
+- greek_phrase: ειδεν δε ισραηλ την χειρα την μεγαλην α εποιησεν κυριος | lemma: χειρ μεγαλη | morphology: theophanic clause | chosen_rendering: And Israel saw the great hand, the things the Lord had done against the Egyptians, and the people feared the Lord, and they believed God and Moses his attendant. | alternate_renderings: Israel saw the great hand, what the Lord had done against the Egyptians, and the people feared the Lord and believed God and Moses his attendant. | rationale: Current wording keeps the great-hand line explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: Moses his attendant | footnote_text: Greek uses therapon, a distinct service term with a more honored tone than ordinary slave language. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: the great hand | footnote_text: Greek uses the great-hand line directly. Current wording preserves it. | source_basis: theophanic formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -38782,10 +38796,10 @@ Syntax notes: [TODO]
 Draft translation: "You stretched out your right hand; earth swallowed them."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξετεινας την δεξιαν σου κατεπιεν αυτους γη | lemma: δεξια | καταπινω | morphology: victory line | chosen_rendering: You stretched out your right hand; earth swallowed them. | alternate_renderings: You stretched out your right hand; earth swallowed them. | rationale: Current wording keeps the terse right-hand earth-swallowed-them line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: earth swallowed them | footnote_text: Greek states the result with a terse earth-swallowed-them line. Current wording preserves that compact victory image. | source_basis: victory image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -38942,10 +38956,10 @@ Syntax notes: [TODO]
 Draft translation: Then Miriam the prophetess, the sister of Aaron, took the timbrel in her hand, and all the women went out after her with timbrels and dances.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαβουσα δε μαριαμ η προφητις η αδελφη ααρων το τυμπανον εν τη χειρι αυτης και εξηλθοσαν πασαι αι γυναικες οπισω αυτης μετα τυμπανων και χορων | lemma: προφητις | τυμπανον | morphology: victory song scene | chosen_rendering: Then Miriam the prophetess, the sister of Aaron, took the timbrel in her hand, and all the women went out after her with timbrels and dances. | alternate_renderings: Miriam the prophetess, the sister of Aaron, took the timbrel in her hand, and all the women went out after her with timbrels and dances. | rationale: Current wording keeps the processional scene and Miriam's title explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the women went out after her with timbrels and dances | footnote_text: Greek gives a full processional line after Miriam takes the timbrel. Current wording preserves that scene. | source_basis: victory song scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39165,9 +39179,11 @@ Draft translation: Then the Lord said to Moses, "Behold, I am raining bread for 
 
 Decision rows:
 - greek_phrase: ἰδοὺ ἐγὼ ὕω ὑμῖν ἄρτους | lemma: ὕω | ἄρτος | morphology: present active indicative 1 singular + accusative plural noun | chosen_rendering: I am raining bread for you | alternate_renderings: I will rain bread for you; I rain loaves for you | rationale: Keeps the weather-verb vivid in the present line of divine action. | status: drafted
+- greek_phrase: ιδου εγω υω υμιν αρτους εκ του ουρανου | lemma: υω | αρτος | morphology: clause | chosen_rendering: Behold, I am raining bread for you from heaven, and the people will go out and gather what is needed for the day, day by day, so that I may test them whether they will walk in my law or not. | alternate_renderings: Behold, I am raining bread for you from heaven, and the people will gather each day's portion day by day, so that I may test them whether they will walk in my law or not. | rationale: Current wording keeps the raining-bread line explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: I am raining bread for you | footnote_text: Greek uses a weather-verb here. This draft keeps the image of bread raining from heaven. | source_basis: lexical + imagery | status: drafted
+- note_type: translation | trigger_phrase: I am raining bread for you from heaven | footnote_text: Greek uses a raining-bread image directly. Current wording preserves that image. | source_basis: imagery | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39344,10 +39360,10 @@ Syntax notes: [TODO]
 Draft translation: And it happened at evening that quail came up and covered the camp, and in the morning, as the dew was settling around the camp,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανεβη ορτυγομητρα και εκαλυψεν την παρεμβολην | lemma: ορτυγομητρα | παρεμβολη | morphology: narrative clause | chosen_rendering: And it happened at evening that quail came up and covered the camp, and in the morning, as the dew was settling around the camp, | alternate_renderings: It happened at evening that quail came up and covered the camp, and in the morning, as the dew was settling around the camp, | rationale: Current wording keeps the came-up-and-covered line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: quail came up and covered the camp | footnote_text: Greek gives the quail arrival in a direct came-up-and-covered sequence. Current wording preserves that scene. | source_basis: narrative sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39384,10 +39400,10 @@ Syntax notes: [TODO]
 Draft translation: And when the sons of Israel saw it, they said one to another, "What is this?" for they did not know what it was. Then Moses said to them, "This is the bread that the Lord has given you to eat."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ειπαν ετερος τω ετερω τι εστιν τουτο ου γαρ ηδεισαν τι ην | lemma: τι εστιν τουτο | morphology: manna question | chosen_rendering: And when the sons of Israel saw it, they said one to another, What is this? for they did not know what it was. Then Moses said to them, This is the bread that the Lord has given you to eat. | alternate_renderings: When the sons of Israel saw it, they said one to another, What is this? for they did not know what it was. Then Moses said to them, This is the bread that the Lord has given you to eat. | rationale: Current wording keeps the repeated what-is-this line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: What is this? | footnote_text: Greek keeps the manna question in blunt repeated form. Current wording preserves it. | source_basis: manna question | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39664,10 +39680,10 @@ Syntax notes: [TODO]
 Draft translation: "See, for the Lord has given you this day as the Sabbath. Because of this he has given you on the sixth day bread for two days. Let each stay in his houses. Let no one go out from his place on the seventh day."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καθησεσθε εκαστος εις τους οικους υμων μηδεις εκπορευεσθω εκ του τοπου αυτου | lemma: καθημαι | εκπορευομαι | morphology: command sequence | chosen_rendering: Let each stay in his houses. Let no one go out from his place on the seventh day. | alternate_renderings: Let each remain in his house. Let no one go out from his place on the seventh day. | rationale: Current wording keeps the stay-and-do-not-go-out command sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Let each stay in his houses. Let no one go out from his place on the seventh day. | footnote_text: Greek gives a stay-and-do-not-go-out command pair. Current wording preserves both parts. | source_basis: command sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39926,10 +39942,10 @@ Syntax notes: [TODO]
 Draft translation: "Look, I am standing before you there on the rock in Horeb, and you shall strike the rock, and water will come out from it, and my people will drink." And Moses did so before the sons of Israel.
 
 Decision rows:
-- greek_phrase: ὅδε ἐγὼ ἕστηκα | lemma: ἵστημι | morphology: perfect active indicative 1 singular | chosen_rendering: I am standing | alternate_renderings: Here I stand; I have stood | rationale: Preserves the vivid παρουσια-like immediacy of the divine stance at the rock. | status: drafted
+- greek_phrase: ὅδε ἐγὼ ἕστηκα | lemma: ἵστημι | morphology: perfect active indicative 1 singular | chosen_rendering: I am standing | alternate_renderings: Here I stand; I have stood | rationale: Preserves the vivid immediacy of the divine stance at the rock. Current wording stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am standing | footnote_text: Greek uses a vivid stance line at the rock. Current wording preserves that immediacy. | source_basis: theophanic stance | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -39986,10 +40002,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses said to Joshua, "Choose for yourself strong men and go out and draw up in battle array against Amalek tomorrow. And look, I will stand on the top of the hill, and the rod of God will be in my hand."
 
 Decision rows:
-- greek_phrase: παράταξαι | lemma: παρατάσσω | morphology: aorist middle infinitive | chosen_rendering: draw up in battle array | alternate_renderings: set in array; line up for battle | rationale: Keeps the military formation sense instead of a generic go fight wording. | status: drafted
+- greek_phrase: παράταξαι | lemma: παρατάσσω | morphology: aorist middle infinitive | chosen_rendering: draw up in battle array | alternate_renderings: set in array; line up for battle | rationale: Keeps the military formation sense instead of generic fight wording. Current line stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- note_type: translation | trigger_phrase: draw up in battle array | footnote_text: Greek uses military formation language here. This draft keeps the battle-array sense rather than a generic fight command. | source_basis: lexical + military context | status: drafted
+- note_type: translation | trigger_phrase: draw up in battle array | footnote_text: Greek uses military formation language here. Current wording keeps battle-array sense rather than generic fight command. | source_basis: lexical + military context | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -40288,10 +40304,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses recounted to his father-in-law all that the Lord had done to Pharaoh and the Egyptians for Israel's sake, and all the hardship that had come upon them on the way, and that the Lord had rescued them from the hand of Pharaoh and from the hand of the Egyptians.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντα τον μοχθον τον γενομενον αυτοις εν τη οδω και οτι εξειλατο αυτους κυριος | lemma: μοχθος | εξαιρεω | morphology: clause | chosen_rendering: And Moses recounted to his father-in-law all that the Lord had done to Pharaoh and the Egyptians for Israel's sake, and all the hardship that had come upon them on the way, and that the Lord had rescued them from the hand of Pharaoh and from the hand of the Egyptians. | alternate_renderings: Moses recounted to his father-in-law all that the Lord had done to Pharaoh and the Egyptians for Israel's sake, all the hardship that had happened to them on the way, and how the Lord rescued them from Pharaoh and the Egyptians. | rationale: Current wording keeps the hardship-on-the-way and rescued-them lines explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the hardship that had come upon them on the way | footnote_text: Greek keeps the hardship-on-the-way line explicit. Current wording preserves it. | source_basis: journey hardship formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -40628,10 +40644,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses chose able men from all Israel and made them over the people as commanders of thousands and hundreds and fifties and tens.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επελεξεν μωυσης ανδρας δυνατους απο παντος ισραηλ και εποιησεν αυτους επ' αυτων χιλιαρχους και εκατονταρχους και πεντηκονταρχους και δεκαδαρχους | lemma: ανηρ δυνατος | χιλιαρχος | morphology: leadership structuring | chosen_rendering: And Moses chose able men from all Israel and made them over the people as commanders of thousands and hundreds and fifties and tens. | alternate_renderings: Moses chose able men from all Israel and made them over the people as commanders of thousands and hundreds and fifties and tens. | rationale: Current wording keeps the leadership-structuring line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: commanders of thousands and hundreds and fifties and tens | footnote_text: Greek lists the leadership tiers in sequence. Current wording preserves it. | source_basis: leadership structuring | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -41292,10 +41308,10 @@ Syntax notes: [TODO]
 Draft translation: "and showing mercy into thousands for those who love me and keep my commandments."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ποιων ελεος εις χιλιαδας τοις αγαπωσιν με και τοις φυλασσουσιν τα προσταγματα μου | lemma: ελεος | προσταγμα | morphology: mercy clause | chosen_rendering: and showing mercy into thousands for those who love me and keep my commandments. | alternate_renderings: showing mercy to thousands for those who love me and keep my commandments. | rationale: Current wording keeps the mercy-into-thousands formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: showing mercy into thousands | footnote_text: Greek uses mercy into thousands here. Current wording preserves that mercy formula rather than smoothing it to a generic kindness line. | source_basis: mercy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -41352,10 +41368,10 @@ Syntax notes: [TODO]
 Draft translation: "For six days you shall work and do all your works,"
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξ ημερας εργα και ποιησεις παντα τα εργα σου | lemma: εργον | morphology: command clause | chosen_rendering: For six days you shall work and do all your works, | alternate_renderings: Six days you shall labor and do all your works, | rationale: Current wording keeps the simple work-and-do formula of the command. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: For six days you shall work and do all your works, | footnote_text: Greek keeps the command compact and repetitive. Current wording preserves that shape. | source_basis: command formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -41472,10 +41488,10 @@ Syntax notes: [TODO]
 Draft translation: "You shall not murder."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου φονευσεις | lemma: φονευω | morphology: prohibition | chosen_rendering: You shall not murder. | alternate_renderings: You shall not kill. | rationale: Greek and English witnesses agree that this verse is murder in the LXX order here, after adultery and theft. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: You shall not murder. | footnote_text: In the Greek order here, adultery comes first, then theft, then murder. Current wording follows the LXX verse order. | source_basis: commandment order + witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -42136,10 +42152,10 @@ Syntax notes: [TODO]
 Draft translation: If two men fight and strike a pregnant woman, and her child comes out not yet formed, he shall pay a penalty according as the woman's husband lays upon him. He shall pay with assessment.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξελθη το παιδιον αυτης μη εξεικονισμενον επιζημιον ζημιωθησεται καθοτι αν επιβαλη ο ανηρ της γυναικος δωσει μετα αξιωματος | lemma: εξεικονισμενον | αξιωμα | morphology: pregnant woman case | chosen_rendering: If two men fight and strike a pregnant woman, and her child comes out not yet formed, he shall pay a penalty according as the woman's husband lays upon him. He shall pay with assessment. | alternate_renderings: If her fruit depart and yet no mischief follow he shall be punished as the judges determine. | rationale: Greek says child comes out not yet formed and pay with assessment. Current wording keeps those juridical details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: not yet formed | footnote_text: Greek says child comes out not yet formed and pay with assessment. | source_basis: juridical detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43160,10 +43176,10 @@ Syntax notes: [TODO]
 Draft translation: You shall not pervert the judgment of a poor man in his case.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου διαστρεψεις κριμα πενητος εν κρισει αυτου | lemma: διαστρεφω | κρισις | πενης | morphology: command clause | chosen_rendering: You shall not pervert the judgment of a poor man in his case. | alternate_renderings: You shall not twist the judgment of the poor in his lawsuit. | rationale: Current wording keeps the judgment-case formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: You shall not pervert the judgment of a poor man in his case | footnote_text: Greek states the judgment-case line directly. Current wording keeps it plain. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43640,10 +43656,10 @@ Syntax notes: [TODO]
 Draft translation: Little by little I will drive them out from before you, until you increase and inherit the land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατα μικρον μικρον εκβαλω αυτους απο σου εως αν αυξηθης και κληρονομησης την γην | lemma: εκβαλλω | κληρονομεω | morphology: promise clause | chosen_rendering: Little by little I will drive them out from before you, until you increase and inherit the land. | alternate_renderings: Little by little I will drive them out from before you, until you increase and inherit the land. | rationale: Current wording keeps the little-by-little promise line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Little by little I will drive them out | footnote_text: Greek repeats little for emphasis. Current wording preserves that gradual-expulsion formula. | source_basis: gradual-expulsion formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43680,10 +43696,10 @@ Syntax notes: [TODO]
 Draft translation: You shall make no covenant with them or with their gods.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου συγκαταθηση αυτοις και τοις θεοις αυτων διαθηκην | lemma: συγκατατιθημι | διαθηκη | morphology: covenant ban | chosen_rendering: You shall make no covenant with them or with their gods. | alternate_renderings: You shall make no covenant with them or with their gods. | rationale: Current wording keeps the ban plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: no covenant with them or with their gods | footnote_text: Greek states the covenant ban in compact form. Current wording preserves that line. | source_basis: covenant ban | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43700,10 +43716,10 @@ Syntax notes: [TODO]
 Draft translation: They shall not dwell in your land, lest they make you sin against me. For if you serve their gods, these will be a stumbling block to you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εγκαθησονται εν τη γη σου ινα μη αμαρτειν σε ποιησωσιν προς με εαν γαρ δουλευσης τοις θεοις αυτων ουτοι εσονται σοι προσκομμα | lemma: προσκομμα | morphology: warning clause | chosen_rendering: They shall not dwell in your land, lest they make you sin against me. For if you serve their gods, these will be a stumbling block to you. | alternate_renderings: They shall not dwell in your land, lest they make you sin against me. For if you serve their gods, these will be a stumbling block to you. | rationale: Current wording keeps the warning clause and stumbling-block close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: these will be a stumbling block to you | footnote_text: Greek closes the warning with stumbling-block language. Current wording preserves it. | source_basis: warning clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -44764,10 +44780,10 @@ Syntax notes: [TODO]
 Draft translation: Their knobs and their branches shall be from it. All shall be one beaten piece of pure gold.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι σφαιρωτηρες και οι καλαμισκοι εξ αυτης εστωσαν ολη τορευτη εξ ενος χρυσιου καθαρου | lemma: σφαιρωτηρ | καλαμισκος | τορευτος | morphology: craft clause | chosen_rendering: Their knobs and their branches shall be from it. All shall be one beaten piece of pure gold. | alternate_renderings: Their knobs and their branches shall be from it; all shall be one beaten piece of pure gold. | rationale: Current wording keeps the one-beaten-piece line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: All shall be one beaten piece of pure gold. | footnote_text: Greek keeps the one-piece beaten-gold craftsmanship line explicit. Current wording preserves that construction detail. | source_basis: craft formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -44946,10 +44962,10 @@ Syntax notes: [TODO]
 Draft translation: Fifty loops you shall make on the one curtain, and fifty loops on the part of the curtain at the coupling of the second, matching one another.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αντιπροσωποι αντιπιπτουσαι αλληλαις | lemma: αντιπροσωπος | αντιπιπτω | morphology: participle clause | chosen_rendering: matching one another | alternate_renderings: corresponding to one another | rationale: Current wording keeps the loop-matching line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: matching one another | footnote_text: The Greek uses paired correspondence language for the loops. The current wording preserves that line. | source_basis: correspondence line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -45086,10 +45102,10 @@ Syntax notes: [TODO]
 Draft translation: And the extra part in the coverings of the tent, the half-covering that remains, you shall let hang over the back of the tent.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: το ημισυ της δερρεως το υπολελειμμενον | lemma: ημισυς | δερρις | morphology: noun phrase | chosen_rendering: the half-covering that remains | alternate_renderings: the half of the covering that remains | rationale: Current wording keeps the tabernacle-overhang line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the half-covering that remains | footnote_text: The Greek describes the tent overhang in compact tabernacle wording. The current wording keeps that line explicit. | source_basis: tabernacle wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46190,10 +46206,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall take the two emerald stones and engrave on them the names of the sons of Israel,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λημψη τους δυο λιθους λιθους σμαραγδου και γλυψεις εν αυτοις τα ονοματα των υιων ισραηλ | lemma: γλυφω | morphology: inscribed stones | chosen_rendering: And you shall take the two emerald stones and engrave on them the names of the sons of Israel, | alternate_renderings: You shall take the two emerald stones and engrave on them the names of the sons of Israel. | rationale: Current wording keeps the inscribed-stones instruction plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the two emerald stones | footnote_text: Greek opens the instruction with inscribed stones. Current wording preserves that detail. | source_basis: inscribed stones | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46470,10 +46486,10 @@ Syntax notes: [TODO]
 Draft translation: And Aaron shall bear the names of the sons of Israel on the breastpiece of judgments upon his chest when he goes into the holy place, as a memorial before God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και λημψεται ααρων τα ονοματα των υιων ισραηλ επι του λογειου της κρισεως επι του στηθους | lemma: λογειον | κρισις | στηθος | morphology: priestly clause | chosen_rendering: And Aaron shall bear the names of the sons of Israel on the breastpiece of judgments upon his chest when he goes into the holy place, as a memorial before God. | alternate_renderings: Aaron shall bear the names of the sons of Israel on the breastpiece of judgments upon his chest when he goes into the holy place, as a memorial before God. | rationale: Current wording keeps the breastpiece-of-judgments and chest wording explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: on the breastpiece of judgments upon his chest | footnote_text: Greek says breastpiece of judgments and chest here. Current wording preserves those priestly terms rather than harmonizing them to more familiar labels. | source_basis: priestly terminology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46510,10 +46526,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall make the robe under the ephod all blue.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ποιησεις υποδυτην ποδηρη ολον υακινθινον | lemma: υποδυτης | ποδηρης | υακινθινος | morphology: noun clause | chosen_rendering: And you shall make the robe under the ephod all blue. | alternate_renderings: You shall make the robe under the ephod wholly blue. | rationale: Current wording keeps the compact vestment description plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all blue | footnote_text: Greek gives a compact all-blue vestment description. Current wording preserves it. | source_basis: vestment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46590,10 +46606,10 @@ Syntax notes: [TODO]
 Draft translation: And Aaron shall wear it when he ministers, and its sound shall be heard when he goes into the holy place before the Lord and when he comes out, so that he may not die.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ακουστη η φωνη αυτου εισιοντι εις το αγιον εναντιον κυριου και εξιοντι ινα μη αποθανη | lemma: φωνη | αποθνησκω | morphology: priestly warning | chosen_rendering: And Aaron shall wear it when he ministers, and its sound shall be heard when he goes into the holy place before the Lord and when he comes out, so that he may not die. | alternate_renderings: Aaron shall wear it when he ministers, and its sound shall be heard when he goes into the holy place before the Lord and when he comes out, so that he may not die. | rationale: Current wording keeps the heard-sound warning line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: its sound shall be heard | footnote_text: Greek centers this warning on the garment's sound being heard. Current wording preserves that priestly warning. | source_basis: priestly warning | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46872,10 +46888,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall put the turban on his head, and you shall put the holy plate on the turban.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επιθησεις την μιτραν επι την κεφαλην αυτου και επιθησεις το πεταλον το αγιασμα επι την μιτραν | lemma: πεταλον | morphology: priestly vestment | chosen_rendering: And you shall put the turban on his head, and you shall put the holy plate on the turban. | alternate_renderings: You shall put the turban on his head, and you shall put the holy plate on the turban. | rationale: Current wording keeps the vestment instruction plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the holy plate on the turban | footnote_text: Greek keeps the priestly vestment instruction compact. Current wording preserves it. | source_basis: priestly vestment | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -48556,10 +48572,10 @@ Syntax notes: [TODO]
 Draft translation: And I, behold, have appointed with him Oholiab son of Ahisamach, of the tribe of Dan. And to everyone wise in heart I have given understanding, and they shall make all that I commanded you:
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντι συνετω καρδια δεδωκα συνεσιν | lemma: συνετος | καρδια | συνεσις | morphology: clause | chosen_rendering: And to everyone wise in heart I have given understanding, and they shall make all that I commanded you: | alternate_renderings: I have given understanding to everyone wise in heart, and they shall make all that I commanded you. | rationale: Current wording keeps the wise-in-heart formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: everyone wise in heart | footnote_text: Greek uses the wise-in-heart formula directly. Current wording preserves it. | source_basis: wise-in-heart formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -48978,10 +48994,10 @@ Syntax notes: [TODO]
 Draft translation: And now let me alone, and in anger I will destroy them, and I will make you a great nation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εασον με και θυμωθεις οργη εις αυτους εκτριψω αυτους | lemma: εαω | εκτριβω | morphology: threat clause | chosen_rendering: And now let me alone, and in anger I will destroy them, and I will make you a great nation. | alternate_renderings: Now let me alone, and my anger will blaze against them and I will wipe them out, and I will make you a great nation. | rationale: Current wording keeps the let-me-alone threat line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let me alone | footnote_text: Greek opens with a direct let-me-alone line. Current wording preserves it. | source_basis: threat formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -49198,10 +49214,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses said to Aaron, "What did this people do to you that you brought a great sin upon them?"
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τι εποιησεν σοι ο λαος ουτος οτι επηγαγες επ' αυτους αμαρτιαν μεγαλην | lemma: επαγω | αμαρτια μεγαλη | morphology: rebuke question | chosen_rendering: And Moses said to Aaron, What did this people do to you that you brought a great sin upon them? | alternate_renderings: Moses said to Aaron, What did this people do to you that you brought a great sin upon them? | rationale: Current wording keeps the rebuke question and great-sin charge explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you brought a great sin upon them | footnote_text: Greek frames Moses' rebuke with the great-sin charge. Current wording preserves that force. | source_basis: rebuke question | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -49580,10 +49596,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to the sons of Israel, "You are a stiff-necked people. See that I do not bring another plague upon you and consume you. Now then strip off your glorious garments and ornaments, and I will show you what I will do to you."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη πληγην αλλην επαξω εγω εφ' υμας και εξαναλωσω υμας νυν ουν αφελεσθε τας στολας των δοξων υμων και τον κοσμον | lemma: πληγη | στολη | δοξα | morphology: warning clause | chosen_rendering: And the Lord said to the sons of Israel, "You are a stiff-necked people. See that I do not bring another plague upon you and consume you. Now then strip off your glorious garments and ornaments, and I will show you what I will do to you." | alternate_renderings: I might come up in your midst and consume you; put off your ornaments. | rationale: Greek frames the warning with another plague and names glorious garments together with ornaments. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: glorious garments and ornaments | footnote_text: Greek names glorious garments together with ornaments here. | source_basis: apparel wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -49840,10 +49856,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, "Show me your own glory."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δειξον μοι την σεαυτου δοξαν | lemma: δεικνυμι | δοξα | morphology: request clause | chosen_rendering: Show me your own glory. | alternate_renderings: Show me your glory. | rationale: Current wording keeps the reflexive force of the Greek explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Show me your own glory. | footnote_text: Greek includes reflexive force here. Current wording preserves it. | source_basis: request line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -49962,10 +49978,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to Moses, "Hew for yourself two stone tablets like the first, and come up to me on the mountain, and I will write on the tablets the words that were on the first tablets which you shattered.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τας πλακας τας πρωτας αἱς συνετριψας | lemma: πλαξ | συντριβω | morphology: relative clause | chosen_rendering: the first tablets which you shattered | alternate_renderings: the first tables which you broke | rationale: Current wording keeps the shattered line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the first tablets which you shattered | footnote_text: The Greek uses shatter language here. The current wording preserves that stronger wording. | source_basis: shatter wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -50302,10 +50318,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the appointed time in the month of new grain, for in the month of new grain you came out from Egypt.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν μηνι των νεων | lemma: νεα | morphology: noun phrase | chosen_rendering: in the month of new grain | alternate_renderings: in the month of fresh grain | rationale: Current wording keeps the new-grain wording rather than replacing it with a later festival label. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in the month of new grain | footnote_text: Greek uses new-grain wording here. Current wording preserves that expression rather than replacing it with a later label. | source_basis: festival timing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -50362,10 +50378,10 @@ Syntax notes: [TODO]
 Draft translation: Six days you shall work, and on the seventh you shall rest; in seedtime and harvest you shall rest.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξ ημερας εργα τη δε εβδομη καταπαυσεις τω σπορω και τω αμητω καταπαυσεις | lemma: καταπαυω | morphology: sabbath formula | chosen_rendering: Six days you shall work, and on the seventh you shall rest; in seedtime and harvest you shall rest. | alternate_renderings: You shall work six days, and on the seventh you shall rest; in seedtime and harvest you shall rest. | rationale: Current wording keeps the repeated rest command explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in seedtime and harvest you shall rest | footnote_text: Greek repeats rest in both clauses. Current wording preserves that repetition. | source_basis: sabbath formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -50422,10 +50438,10 @@ Syntax notes: [TODO]
 Draft translation: For when I cast out the nations before your face and enlarge your borders, no one shall desire your land when you go up to appear before the Lord your God three times in the year.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ επιθυμησει ουδεις της γης σου | lemma: επιθυμεω | γη | morphology: promise clause | chosen_rendering: no one shall desire your land when you go up to appear before the Lord your God three times in the year. | alternate_renderings: no one will covet your land when you go up to appear before the Lord your God three times in the year. | rationale: Current wording keeps the desire-your-land promise plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: no one shall desire your land | footnote_text: Greek gives a direct promise line here. Current wording preserves it. | source_basis: promise formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -50824,10 +50840,10 @@ Syntax notes: [TODO]
 Draft translation: And every wise-hearted person among you, let him come and make all that the Lord has commanded:
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πας σοφος τη καρδια εν υμιν ελθων εργαζεσθω παντα οσα συνεταξεν κυριος | lemma: σοφος τη καρδια | morphology: craft summons | chosen_rendering: And every wise-hearted person among you, let him come and make all that the Lord has commanded: | alternate_renderings: Every wise-hearted person among you, let him come and make all that the Lord has commanded: | rationale: Current wording keeps the wise-hearted craft summons explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: every wise-hearted person among you | footnote_text: Greek uses the wise-hearted craft formula here. Current wording preserves it. | source_basis: craft summons | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -50964,10 +50980,10 @@ Syntax notes: [TODO]
 Draft translation: And all the congregation of the sons of Israel went out from Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξηλθεν πασα συναγωγη υιων ισραηλ απο μωυση | lemma: συναγωγη | εξερχομαι | morphology: narrative clause | chosen_rendering: And all the congregation of the sons of Israel went out from Moses. | alternate_renderings: All the congregation of the sons of Israel went out from before Moses. | rationale: Current wording keeps the departure line close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went out from Moses | footnote_text: Greek keeps the departure line terse. Current wording preserves it. | source_basis: departure line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -51366,10 +51382,10 @@ Syntax notes: [TODO]
 Draft translation: and they said to Moses, "The people are bringing more than enough for the works that the Lord commanded to be done."
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ειπαν προς μωυσην οτι πληθος φερει ο λαος παρα τα εργα οσα συνεταξεν κυριος ποιησαι | lemma: πληθος φερει | morphology: craft report | chosen_rendering: and they said to Moses, The people are bringing more than enough for the works that the Lord commanded to be done. | alternate_renderings: They said to Moses, The people are bringing more than enough for the works that the Lord commanded to be done. | rationale: Current wording keeps the abundance report plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the people are bringing more than enough | footnote_text: Greek gives a direct abundance report. Current wording preserves it. | source_basis: craft report | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52408,10 +52424,10 @@ Syntax notes: [TODO]
 Draft translation: And this was the ordering of the tent of testimony, as it was arranged by Moses for the service of the Levites through Ithamar son of Aaron the priest.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αυτη η συνταξις της σκηνης του μαρτυριου καθα συνεταγη μωυση | lemma: verse mapping difference | morphology: tabernacle line | chosen_rendering: And this was the ordering of the tent of testimony, as it was arranged by Moses for the service of the Levites through Ithamar son of Aaron the priest. | alternate_renderings: Three bowls made like almonds in one branch... | rationale: This LXX verse number carries the tabernacle-ordering line rather than the MT lampstand-bowls line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: ordering of the tent of testimony | footnote_text: This LXX verse number carries the tabernacle-ordering line rather than the MT lampstand-bowls line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52810,10 +52826,10 @@ Syntax notes: [TODO]
 Draft translation: He silver-covered the posts and cast gold rings for each post and overlaid the bars with gold. He overlaid the posts of the curtain with gold and made gold hooks.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος περιηργυρωσεν τους στυλους και εχωνευσεν τω στυλω δακτυλιους χρυσους και εχρυσωσεν τους μοχλους χρυσιω | lemma: verse mapping difference | morphology: mapping line | chosen_rendering: He silver-covered the posts and cast gold rings for each post and overlaid the bars with gold. He overlaid the posts of the curtain with gold and made gold hooks. | alternate_renderings: And the hanging for the gate of the court was needlework of blue and purple and scarlet. | rationale: This LXX verse number carries the post-and-ring furnishing line rather than the MT hanging-description line. Current wording keeps the Greek verse mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: He silver-covered the posts | footnote_text: This LXX verse number carries the furnishing line rather than the MT hanging-description line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52930,10 +52946,10 @@ Syntax notes: [TODO]
 Draft translation: He made for the altar a surrounding frame of net-work beneath its fire-pan underneath it as far as its middle, and he fixed to it four bronze rings on the four sides of the frame of the altar, wide enough for the bars, so that the altar might be carried by them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος εποιησεν τω θυσιαστηριω παραθεμα εργον δικτυωτον κατωθεν του πυρειου υπο αυτο εως του ημισους αυτου | lemma: verse mapping difference | morphology: altar network line | chosen_rendering: He made for the altar a surrounding frame of net-work beneath its fire-pan underneath it as far as its middle, and he fixed to it four bronze rings on the four sides of the frame of the altar, wide enough for the bars, so that the altar might be carried by them. | alternate_renderings: All the gold used for the work in all the work of the sanctuary was twenty-nine talents and seven hundred thirty shekels. | rationale: This LXX verse number carries the altar-network construction line rather than the MT gold totals line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: surrounding frame of net-work | footnote_text: This LXX verse number carries the altar-network construction line rather than the MT gold totals line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -53694,10 +53710,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall bring his sons and clothe them with tunics.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενδυσεις αυτους χιτωνας | lemma: ενδυω | χιτων | morphology: command clause | chosen_rendering: And you shall bring his sons and clothe them with tunics. | alternate_renderings: You shall bring his sons and clothe them with tunics. | rationale: Current wording keeps the direct vesting command plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: clothe them with tunics | footnote_text: Greek gives a direct vesting command. Current wording keeps it plain. | source_basis: vesting command | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -54118,10 +54134,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord called Moses and spoke to him from the tent of testimony, saying,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ανεκαλεσεν μωυσην και ελαλησεν κυριος αυτω εκ της σκηνης του μαρτυριου | lemma: ανακαλεω | σκηνη του μαρτυριου | morphology: introduction clause | chosen_rendering: And the Lord called Moses and spoke to him from the tent of testimony, saying, | alternate_renderings: The Lord called Moses and spoke to him from the tent of testimony, saying, | rationale: Current wording keeps the tent-of-testimony line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the tent of testimony | footnote_text: Greek says tent of testimony here. Current wording preserves that tabernacle title. | source_basis: sanctuary title | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -55264,10 +55280,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall remove from it all the fat of the calf for sin: the fat that covers the inward parts and all the fat that is on the inward parts,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παν το στεαρ του μοσχου του της αμαρτιας περιελει απ' αυτου | lemma: στεαρ | morphology: offering procedure | chosen_rendering: And he shall remove from it all the fat of the calf for sin: the fat that covers the inward parts and all the fat that is on the inward parts, | alternate_renderings: He shall remove from it all the fat of the calf for sin: the fat that covers the inward parts and all the fat that is on the inward parts. | rationale: Current wording keeps the offering procedure and fat inventory explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the fat of the calf for sin | footnote_text: Greek begins the offering procedure with that inventory line. Current wording preserves it. | source_basis: offering procedure | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -55744,10 +55760,10 @@ Syntax notes: [TODO]
 Draft translation: And if he brings a sheep as his gift for sin, he shall bring a female without blemish.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε προβατον προσενεγκη το δωρον αυτου εις αμαρτιαν θηλυ αμωμον προσοισει αυτο | lemma: προβατον | αμωμος | morphology: sin offering option | chosen_rendering: And if he brings a sheep as his gift for sin, he shall bring a female without blemish. | alternate_renderings: If he brings a sheep as his gift for sin, he shall bring a female without blemish. | rationale: Current wording keeps the offering option line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a female without blemish | footnote_text: Greek states the offering requirement in compact form. Current wording preserves it. | source_basis: sin offering option | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -55784,10 +55800,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall take some of the blood of the sin-offering with his finger and place it on the horns of the altar of whole burnt offering, and he shall pour out all its blood at the base of the altar of whole burnt offering.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παρα την βασιν του θυσιαστηριου | lemma: βασις | θυσιαστηριον | morphology: prepositional phrase | chosen_rendering: at the base of the altar of whole burnt offering | alternate_renderings: at the base of the altar of burnt offering | rationale: Current wording keeps the ritual placement line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: at the base of the altar of whole burnt offering | footnote_text: The Greek keeps the ritual placement line direct. The current wording preserves it. | source_basis: ritual placement line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -56026,10 +56042,10 @@ Syntax notes: [TODO]
 Draft translation: And if his hand cannot find a pair of turtledoves or two young pigeons, then he shall bring as his gift for the sin that he sinned a tenth of an ephah of fine flour for sin. He shall not pour oil on it, nor place frankincense on it, because it is a sin-offering.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και οισει το δωρον αυτου περι ου ημαρτεν το δεκατον του οιφι σεμιδαλιν περι αμαρτιας ουκ επιχεει επ' αυτο ελαιον ουδε επιθησει επ' αυτο λιβανον | lemma: δωρον | επιχεω | morphology: grain sin-offering line | chosen_rendering: And if his hand cannot find a pair of turtledoves or two young pigeons, then he shall bring as his gift for the sin that he sinned a tenth of an ephah of fine flour for sin. He shall not pour oil on it, nor place frankincense on it, because it is a sin-offering. | alternate_renderings: He shall bring the tenth part of an ephah of fine flour for a sin offering; he shall put no oil on it nor frankincense. | rationale: Greek says bring as his gift for the sin that he sinned and then forbids pouring oil or placing frankincense. Current wording keeps that form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: bring as his gift for the sin that he sinned | footnote_text: Greek keeps that fuller sin-offering phrasing here. | source_basis: offering wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -56368,10 +56384,10 @@ Syntax notes: [TODO]
 Draft translation: Charge Aaron and his sons, saying, This is the law of the whole burnt offering: this is the whole burnt offering on its burning upon the altar all night until morning, and the fire of the altar shall burn on it; it shall not be extinguished.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος ο νομος της ολοκαυτωσεως αυτη η ολοκαυτωσις επι της καυσεως αυτης επι του θυσιαστηριου ολην την νυκτα εως το πρωι | lemma: verse mapping difference | morphology: whole burnt offering law | chosen_rendering: Charge Aaron and his sons, saying, This is the law of the whole burnt offering: this is the whole burnt offering on its burning upon the altar all night until morning, and the fire of the altar shall burn on it; it shall not be extinguished. | alternate_renderings: If a soul sins and commits a trespass against the Lord and lies to his neighbor... | rationale: This LXX verse number carries the whole-burnt-offering law rather than the MT trespass case. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: law of the whole burnt offering | footnote_text: This LXX verse number carries the whole-burnt-offering law rather than the MT trespass case. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -56408,10 +56424,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall take off his garment and put on another garment, and he shall carry the ashes outside the camp to a clean place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εκδυσεται την στολην αυτου και ενδυσεται στολην αλλην και εξοισει την κατακαρπωσιν εξω της παρεμβολης εις τοπον καθαρον | lemma: verse mapping difference | morphology: ash-removal line | chosen_rendering: And he shall take off his garment and put on another garment, and he shall carry the ashes outside the camp to a clean place. | alternate_renderings: Because he has sinned and is guilty, he shall restore what he took by robbery or deceit. | rationale: This LXX verse number carries the ash-removal line, not the MT restitution line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: carry the ashes outside the camp | footnote_text: This LXX verse number carries the ash-removal line rather than the MT restitution line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -56910,10 +56926,10 @@ Syntax notes: [TODO]
 Draft translation: Every male among the priests shall eat them. They shall eat them in a holy place. It is holy of holies.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πας αρσην εκ των ιερεων εδεται αυτα εν τοπω αγιω εδονται αυτα αγια αγιων εστιν | lemma: αγια αγιων | morphology: priestly food law | chosen_rendering: Every male among the priests shall eat them. They shall eat them in a holy place. It is holy of holies. | alternate_renderings: Every male among the priests shall eat them. They shall eat them in a holy place. It is holy of holies. | rationale: Current wording keeps the holy-of-holies food-law line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: it is holy of holies | footnote_text: Greek closes the priestly food-law line with that formula. Current wording preserves it. | source_basis: priestly food law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -57090,10 +57106,10 @@ Syntax notes: [TODO]
 Draft translation: And the flesh of the sacrifice of praise of salvation shall belong to him, and it shall be eaten on the day it is offered. They shall not leave any of it until morning.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τα κρεα θυσιας αινεσεως σωτηριου | lemma: αινεσις | σωτηριον | morphology: sacrifice clause | chosen_rendering: And the flesh of the sacrifice of praise of salvation shall belong to him, and it shall be eaten on the day it is offered. They shall not leave any of it until morning. | alternate_renderings: The flesh of the sacrifice of praise of salvation shall belong to him, and it shall be eaten on the day it is offered. They shall not leave any of it until morning. | rationale: Current wording keeps the praise-of-salvation sacrificial line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sacrifice of praise of salvation | footnote_text: Greek keeps the praise-of-salvation sacrificial phrase visible. Current wording preserves that cultic wording rather than harmonizing it away. | source_basis: cultic lexical choice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -57912,10 +57928,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses brought near the ram for whole burnt offering, and Aaron and his sons laid their hands on the head of the ram.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και προσηγαγεν μωυσης τον κριον τον εις ολοκαυτωμα | lemma: προσαγω | ολοκαυτωμα | morphology: ritual clause | chosen_rendering: And Moses brought near the ram for whole burnt offering, and Aaron and his sons laid their hands on the head of the ram. | alternate_renderings: Moses brought near the ram for whole burnt offering, and Aaron and his sons laid their hands on the head of the ram. | rationale: Current wording keeps the brought-near ram-for-whole-burnt-offering line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the ram for whole burnt offering | footnote_text: Greek gives the offering type directly in the approach line. Current wording preserves that ritual wording. | source_basis: ritual formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -57952,10 +57968,10 @@ Syntax notes: [TODO]
 Draft translation: And he cut the ram into limbs, and Moses offered the head and the limbs and the fat.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τον κριον εκρεανομησεν κατα μελη | lemma: κρεανομεω | μελος | morphology: clause | chosen_rendering: he cut the ram into limbs | alternate_renderings: he butchered the ram by its parts; he cut the ram into pieces | rationale: Current wording preserves the concrete sacrificial butchery language without smoothing it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he cut the ram into limbs | footnote_text: Greek uses concrete sacrificial butchery language here. Current wording keeps that texture plain. | source_basis: cultic procedure | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -57993,9 +58009,11 @@ Draft translation: And Moses brought near the second ram, the ram of completion,
 
 Decision rows:
 - greek_phrase: κριὸν τελειώσεως | lemma: κριός | τελείωσις | morphology: accusative singular noun + genitive singular noun | chosen_rendering: the ram of completion | alternate_renderings: the ram of consecration; the ordination ram | rationale: Keeps the Greek completion-language visible in the ordination rite instead of smoothing it immediately to a later title. | status: drafted
+- greek_phrase: τον κριον τον δευτερον κριον τελειωσεως | lemma: κριος | τελειωσις | morphology: noun phrase | chosen_rendering: the second ram, the ram of completion | alternate_renderings: the second ram, the ram of ordination | rationale: Current wording keeps completion wording in this consecration line. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: the ram of completion | footnote_text: Greek uses completion-language here. This draft keeps that wording visible rather than immediately replacing it with the conventional ordination label. | source_basis: lexical + ritual | status: drafted
+- note_type: translation | trigger_phrase: the second ram, the ram of completion | footnote_text: Greek repeats ram and uses completion wording here. Current wording preserves that consecration language. | source_basis: cultic terminology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58012,10 +58030,10 @@ Syntax notes: [TODO]
 Draft translation: And he slaughtered it, and Moses took some of its blood and put it on the lobe of Aaron's right ear and on the tip of his right hand and on the tip of his right foot.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επι τον λοβον του ωτος ααρων του δεξιου | lemma: λοβος | ους | morphology: noun phrase | chosen_rendering: on the lobe of Aaron's right ear | alternate_renderings: on the tip of Aaron's right ear | rationale: Current wording keeps the source-row body-part line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: on the lobe of Aaron's right ear | footnote_text: The Greek uses lobe language here. The current wording keeps that source-row body-part wording visible. | source_basis: body-part wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58052,10 +58070,10 @@ Syntax notes: [TODO]
 Draft translation: And he took the fat and the loin and the fat on the belly and the lobe of the liver and the two kidneys and the fat on them and the right arm.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: την οσφυν | lemma: οσφυς | morphology: noun phrase | chosen_rendering: the loin | alternate_renderings: the rump | rationale: Current wording keeps the body-part term explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the loin | footnote_text: The Greek uses a body-part term here. The current wording keeps that explicit rather than smoothing it. | source_basis: body-part term | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58072,10 +58090,10 @@ Syntax notes: [TODO]
 Draft translation: And from the basket of completion that was before the Lord he took one unleavened loaf and one loaf of oil and one wafer, and placed them on the fat and the right arm.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απο του κανου της τελειωσεως | lemma: κανος | τελειωσις | morphology: noun phrase | chosen_rendering: from the basket of completion that was before the Lord | alternate_renderings: from the basket of ordination that was before the Lord | rationale: Current wording keeps the completion wording used in this consecration context. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from the basket of completion that was before the Lord | footnote_text: Greek uses completion wording in this consecration context. Current wording keeps that terminology. | source_basis: cultic terminology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58132,10 +58150,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses, taking the breast, presented it before the Lord from the ram of completion, and it became Moses' portion, just as the Lord commanded Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαβων μωυσης το στηθυνιον αφειλεν αυτο επιθεμα εναντι κυριου | lemma: στηθυνιον | αφαιρεω | επιθεμα | morphology: clause | chosen_rendering: And Moses, taking the breast, presented it before the Lord from the ram of completion, and it became Moses' portion, just as the Lord commanded Moses. | alternate_renderings: Moses took the breast and offered it as a contribution before the Lord from the ram of completion, and it became Moses' portion, just as the Lord commanded him. | rationale: Current wording keeps the presented-before-the-Lord line and Moses-portion ending explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Moses, taking the breast, presented it before the Lord | footnote_text: Greek keeps the priestly action line direct. Current wording preserves it. | source_basis: cultic action | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58474,10 +58492,10 @@ Syntax notes: [TODO]
 Draft translation: And the fat and the kidneys and the lobe of the liver of the sin-offering he offered on the altar, just as the Lord commanded Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και το στεαρ και τους νεφρους και τον λοβον του ηπατος του περι της αμαρτιας ανηνεγκεν επι το θυσιαστηριον ον τροπον ενετειλατο κυριος τω μωυση | lemma: αναφερω | morphology: sacrificial verb | chosen_rendering: And the fat and the kidneys and the lobe of the liver of the sin-offering he offered on the altar, just as the Lord commanded Moses. | alternate_renderings: He offered them up on the altar; he burned them on the altar. | rationale: Greek says he offered these parts on the altar. Current wording keeps the offering-language rather than importing a smoother burnt paraphrase. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he offered on the altar | footnote_text: Greek says offered on the altar here. Other English traditions often smooth this to burned on the altar. | source_basis: sacrificial diction | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -59318,10 +59336,10 @@ Syntax notes: [TODO]
 Draft translation: From their flesh you shall not eat, and their carcasses you shall not touch. They are unclean to you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απο των κρεων αυτων ου φαγεσθε και των θνησιμαιων αυτων ουχ αψεσθε ακαθαρτα ταυτα υμιν | lemma: θνησιμαιον | ακαθαρτος | morphology: food law | chosen_rendering: From their flesh you shall not eat, and their carcasses you shall not touch. They are unclean to you. | alternate_renderings: You shall not eat from their flesh, and you shall not touch their carcasses. They are unclean to you. | rationale: Current wording keeps the eat-and-touch ban together. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: their carcasses you shall not touch | footnote_text: Greek joins eating and touching bans here. Current wording preserves both parts. | source_basis: food law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -59978,10 +59996,10 @@ Syntax notes: [TODO]
 Draft translation: And every creeping thing that creeps upon the earth is an abomination. It shall not be eaten.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παν ερπετον ο ερπει επι της γης βδελυγμα τουτο εσται υμιν ου βρωθησεται | lemma: ερπετον | βρωθησεται | morphology: food law | chosen_rendering: And every creeping thing that creeps upon the earth is an abomination. It shall not be eaten. | alternate_renderings: Every creeping thing that creeps upon the earth is an abomination. It shall not be eaten. | rationale: Current wording keeps the food-law ban plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: every creeping thing that creeps upon the earth | footnote_text: Greek repeats the creeping term in this food-law ban. Current wording preserves that line. | source_basis: food law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -60098,10 +60116,10 @@ Syntax notes: [TODO]
 Draft translation: to distinguish between the unclean and the clean, and between the living things that may be eaten and the living things that may not be eaten.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διαστειλαι ανα μεσον των ακαθαρτων και ανα μεσον των καθαρων και ανα μεσον των ζωογονουντων τα εσθιομενα και ανα μεσον των ζωογονουντων τα μη εσθιομενα | lemma: διαστελλω | morphology: distinction formula | chosen_rendering: to distinguish between the unclean and the clean, and between the living things that may be eaten and the living things that may not be eaten. | alternate_renderings: To distinguish between the unclean and the clean, and between the living things that may be eaten and the living things that may not be eaten. | rationale: Current wording keeps the distinction formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: between the unclean and the clean | footnote_text: Greek gives the law's close in distinction language. Current wording preserves it. | source_basis: distinction formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -60342,10 +60360,10 @@ Syntax notes: [TODO]
 Draft translation: But if the bright spot is white on the skin of his flesh, and its appearance is not deeper than the skin, and its hair has not turned white, and it is dim, then the priest shall isolate the mark seven days.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αφοριει ο ιερευς την αφην επτα ημερας | lemma: αφοριζω | αφη | morphology: future clause | chosen_rendering: the priest shall isolate the mark seven days | alternate_renderings: the priest shall isolate the plague seven days | rationale: Current wording keeps the isolation line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the priest shall isolate the mark seven days | footnote_text: The Greek keeps the isolation line direct. The current wording preserves it. | source_basis: isolation line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -60562,10 +60580,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall inspect the healthy flesh and pronounce him unclean. The healthy flesh is unclean. It is skin-disease.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και οψεται ο ιερευς τον χρωτα τον υγιη και μιανει αυτον | lemma: χρως | υγιης | morphology: diagnostic clause | chosen_rendering: And the priest shall inspect the healthy flesh and pronounce him unclean. The healthy flesh is unclean. It is skin-disease. | alternate_renderings: The priest shall inspect the healthy flesh and pronounce him unclean. The healthy flesh is unclean. It is skin disease. | rationale: Current wording keeps the healthy-flesh diagnostic line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: The healthy flesh is unclean. | footnote_text: Greek uses healthy flesh as the diagnostic term here. Current wording preserves that counterintuitive inspection line. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -60642,10 +60660,10 @@ Syntax notes: [TODO]
 Draft translation: and there comes in the place of the ulcer a white swelling or a white bright spot tinged reddish, then it shall be shown to the priest.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: γενηται εν τω τοπω του ελκους ουλη λευκη η τηλαυγης λευκαινουσα η πυρριζουσα | lemma: ουλη | τηλαυγης | πυρριζω | morphology: diagnostic clause | chosen_rendering: and there comes in the place of the ulcer a white swelling or a white bright spot tinged reddish, then it shall be shown to the priest. | alternate_renderings: There comes in the place of the ulcer a white swelling or a white bright spot tinged reddish; then it shall be shown to the priest. | rationale: Current wording keeps the swelling-or-bright-spot diagnostic line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a white swelling or a white bright spot tinged reddish | footnote_text: Greek stacks the visual descriptors for the sore site. Current wording preserves that diagnostic wording. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -60962,10 +60980,10 @@ Syntax notes: [TODO]
 Draft translation: But if the scaly patch spreads in the skin after his cleansing,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε διαχυσει διαχεηται το θραυσμα εν τω δερματι | lemma: διαχεω | θραυσμα | morphology: diagnostic clause | chosen_rendering: But if the scaly patch spreads in the skin after his cleansing, | alternate_renderings: If the scaly patch spreads in the skin after his cleansing, | rationale: Current wording keeps the spread-of-the-scaly-patch line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the scaly patch spreads in the skin | footnote_text: Greek keeps the diagnostic spread language explicit. Current wording preserves that inspection formula. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61022,10 +61040,10 @@ Syntax notes: [TODO]
 Draft translation: And if a man or a woman has on the skin of the flesh bright spots, pale white bright spots,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν γενηται εν δερματι της σαρκος αυτου αυγασματα αυγαζοντα λευκαθιζοντα | lemma: αυγασμα | morphology: diagnostic clause | chosen_rendering: And if a man or a woman has on the skin of the flesh bright spots, pale white bright spots, | alternate_renderings: If a man or a woman has on the skin of the flesh bright spots, pale white bright spots, | rationale: Current wording keeps the repeated bright-spots diagnostic line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: bright spots pale white bright spots | footnote_text: Greek stacks visual descriptors for the skin mark. Current wording preserves that diagnostic wording. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61042,10 +61060,10 @@ Syntax notes: [TODO]
 Draft translation: then the priest shall inspect, and if on the skin of their flesh there are pale white bright spots, it is a white eruption. It has broken out in the skin of his flesh. He is clean.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυγασματα αυγαζοντα λευκαθιζοντα αλφος εστιν | lemma: αυγασμα | αλφος | morphology: diagnostic clause | chosen_rendering: then the priest shall inspect, and if on the skin of their flesh there are pale white bright spots, it is a white eruption. It has broken out in the skin of his flesh. He is clean. | alternate_renderings: The priest shall inspect, and if on the skin of his flesh there are pale bright white spots, it is a white eruption; it has broken out in the skin of his flesh; he is clean. | rationale: Current wording keeps the repeated visual-diagnostic terms explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pale white bright spots | footnote_text: Greek stacks visual descriptors here. Current wording preserves that diagnostic wording. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61122,10 +61140,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall inspect him, and if the appearance of the mark is white tinged red on his baldness or his forehead-baldness, like the appearance of skin-disease in the skin of flesh,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: η οψις της αφης λευκη πυρριζουσα | lemma: οψις | αφη | πυρριζω | morphology: diagnostic clause | chosen_rendering: And the priest shall inspect him, and if the appearance of the mark is white tinged red on his baldness or his forehead-baldness, like the appearance of skin-disease in the skin of flesh, | alternate_renderings: The priest shall inspect him, and if the appearance of the mark is white tinged red on his baldness or his forehead-baldness, like the appearance of skin disease in the skin of flesh, | rationale: Current wording keeps the white-tinged-red diagnostic wording explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: white tinged red | footnote_text: Greek stacks the diagnostic color wording here. Current wording preserves that visual description. | source_basis: diagnostic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61282,10 +61300,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall inspect the mark on the seventh day. If the mark has spread in the garment or in the warp or in the woof or in the leather, in whatever is made of leather for use, the mark is persistent skin-disease. It is unclean.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λεπρα εμμονος εστιν η αφη ακαθαρτος εστιν | lemma: εμμονος | morphology: mark inspection | chosen_rendering: And the priest shall inspect the mark on the seventh day. If the mark has spread in the garment or in the warp or in the woof or in the leather, in whatever is made of leather for use, the mark is persistent skin-disease. It is unclean. | alternate_renderings: It is a fretting leprosy; it is unclean. | rationale: Greek says persistent skin-disease here. Current wording keeps that direct expression. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: persistent skin-disease | footnote_text: Greek says persistent skin-disease here. | source_basis: disease wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61764,10 +61782,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall dip his right finger in the oil that is on his left hand and sprinkle some of the oil with his finger seven times before the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και βαψει τον δακτυλον τον δεξιον απο του ελαιου του οντος επι της χειρος της αριστερας | lemma: δακτυλος | ελαιον | morphology: ritual clause | chosen_rendering: And the priest shall dip his right finger in the oil that is on his left hand and sprinkle some of the oil with his finger seven times before the Lord. | alternate_renderings: The priest shall dip his right finger in the oil that is on his left hand and sprinkle some of the oil with his finger seven times before the Lord. | rationale: Current wording keeps the right-finger left-hand ritual detail explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his right finger in the oil that is on his left hand | footnote_text: Greek keeps the hand-and-finger ritual detail very explicit. Current wording preserves that ceremonial action. | source_basis: ritual detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -61984,10 +62002,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τω δακτυλω τω δεξιω | lemma: δακτυλος | δεξιος | morphology: noun phrase | chosen_rendering: with his right finger | alternate_renderings: with the finger of his right hand | rationale: Current wording keeps the ritual wording direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with his right finger | footnote_text: The Greek ritual wording is direct here. The current wording preserves it. | source_basis: ritual wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -62064,10 +62082,10 @@ Syntax notes: [TODO]
 Draft translation: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: την μιαν περι αμαρτιας και την μιαν εις ολοκαυτωμα συν τη θυσια και εξιλασεται ο ιερευς περι του καθαριζομενου εναντι κυριου | lemma: atonement close | morphology: ritual close | chosen_rendering: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed. | alternate_renderings: The one for a sin offering and the other for a burnt offering with the grain offering. | rationale: Greek says with the sacrifice and ends with atonement before the Lord for the one being cleansed. Current wording keeps that close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with the sacrifice | footnote_text: Greek keeps with the sacrifice and the cleansing close here. | source_basis: ritual close | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -62464,10 +62482,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall take the cedar wood and the spun scarlet and the hyssop and the living bird, and dip them in the blood of the slaughtered bird over living water, and with them he shall sprinkle the house seven times.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: βαψει αυτο εις το αιμα του ορνιθιου του εσφαγμενου εφ υδατι ζωντι και περιρρανει εν αυτοις επι την οικιαν επτακις | lemma: βαπτω | περιρραινω | morphology: ritual clause | chosen_rendering: And he shall take the cedar wood and the spun scarlet and the hyssop and the living bird, and dip them in the blood of the slaughtered bird over living water, and with them he shall sprinkle the house seven times. | alternate_renderings: He shall take the cedar wood, the spun scarlet, the hyssop, and the living bird, dip them in the blood of the slaughtered bird over living water, and sprinkle the house with them seven times. | rationale: Current wording keeps the ritual dip-and-sprinkle sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: dip them in the blood of the slaughtered bird over living water, and with them he shall sprinkle the house seven times. | footnote_text: Greek keeps the ritual sequence compact and direct. Current wording preserves it. | source_basis: ritual sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -62584,10 +62602,10 @@ Syntax notes: [TODO]
 Draft translation: to explain the day when it is unclean and the day when it is clean. This is the law of skin-disease.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: του εξηγησασθαι η ημερα ακαθαρτον και η ημερα καθαρισθησεται ουτος ο νομος της λεπρας | lemma: εξηγεομαι | λεπρα | morphology: summary formula | chosen_rendering: to explain the day when it is unclean and the day when it is clean. This is the law of skin-disease. | alternate_renderings: To explain the day when it is unclean and the day when it is clean. This is law of skin-disease. | rationale: Current wording keeps the closing explanatory formula intact. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to explain the day when it is unclean and the day when it is clean | footnote_text: Greek closes with an explanatory formula. Current wording preserves that summary line. | source_basis: closing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -63106,10 +63124,10 @@ Syntax notes: [TODO]
 Draft translation: And every bed on which she lies during all the days of her flow shall be to her like the bed of her separation, and every vessel on which she sits shall be unclean like the uncleanness of her separation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατα την κοιτην της αφεδρου ... κατα την ακαθαρσιαν της αφεδρου | lemma: κοιτη | αφεδρος | ακαθαρσια | morphology: clause | chosen_rendering: like the bed of her separation ... like the uncleanness of her separation | alternate_renderings: like the bed of her discharge ... like the uncleanness of her discharge | rationale: Current wording preserves the repeated separation formula instead of smoothing it away. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: like the bed of her separation | footnote_text: Greek repeats separation language through the verse. Current wording preserves that repetition instead of smoothing it to a generic discharge term. | source_basis: lexical + purity formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -63628,10 +63646,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall sprinkle some of the blood on it with his finger seven times and cleanse it and sanctify it from the uncleannesses of the sons of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ρανει επ' αυτου απο του αιματος τω δακτυλω επτακις και καθαριει αυτο και αγιασει αυτο απο των ακαθαρσιων των υιων ισραηλ | lemma: ραινω | αγιαζω | morphology: atonement procedure | chosen_rendering: And he shall sprinkle some of the blood on it with his finger seven times and cleanse it and sanctify it from the uncleannesses of the sons of Israel. | alternate_renderings: He shall sprinkle some of the blood on it with his finger seven times and cleanse it and sanctify it from the uncleannesses of the sons of Israel. | rationale: Current wording keeps the sprinkle-cleanse-sanctify sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sprinkle some of the blood on it with his finger seven times | footnote_text: Greek gives the atonement action in a clear ritual sequence. Current wording preserves it. | source_basis: atonement procedure | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -64312,10 +64330,10 @@ Syntax notes: [TODO]
 Draft translation: According to the practices of the land of Egypt, in which you dwelt, you shall not do, and according to the practices of the land of Canaan, into which I am bringing you, there you shall not do, and in their ordinances you shall not walk.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατα τα επιτηδευματα γης αιγυπτου εν η κατωκησατε επ' αυτη ου ποιησετε και κατα τα επιτηδευματα γης χανααν εις ην εγω εισαγω υμας εκει ου ποιησετε | lemma: επιτηδευμα | morphology: practice formula | chosen_rendering: According to the practices of the land of Egypt, in which you dwelt, you shall not do, and according to the practices of the land of Canaan, into which I am bringing you, there you shall not do, and in their ordinances you shall not walk. | alternate_renderings: You shall not do according to the doings or devices of Egypt and Canaan. | rationale: Greek uses practices here and repeats there you shall not do. Current wording keeps that repetition. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: practices of the land | footnote_text: Greek uses practices here and repeats there you shall not do. | source_basis: practice formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -64392,10 +64410,10 @@ Syntax notes: [TODO]
 Draft translation: The nakedness of your father and the nakedness of your mother you shall not uncover, for she is your mother. You shall not uncover her nakedness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ασχημοσυνην πατρος σου και ασχημοσυνην μητρος σου ουκ αποκαλυψεις | lemma: ασχημοσυνη | αποκαλυπτω | morphology: prohibition clause | chosen_rendering: The nakedness of your father and the nakedness of your mother you shall not uncover, for she is your mother. You shall not uncover her nakedness. | alternate_renderings: You shall not uncover the nakedness of your father or the nakedness of your mother, for she is your mother; you shall not uncover her nakedness. | rationale: Current wording keeps the repeated nakedness formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: The nakedness of your father and the nakedness of your mother you shall not uncover | footnote_text: Greek repeats the nakedness formula directly. Current wording preserves that repetition. | source_basis: repeated formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -64412,10 +64430,10 @@ Syntax notes: [TODO]
 Draft translation: The nakedness of your father's wife you shall not uncover. It is your father's nakedness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ασχημοσυνη γυναικος πατρος σου ουκ αποκαλυψεις | lemma: ασχημοσυνη | αποκαλυπτω | morphology: prohibition clause | chosen_rendering: The nakedness of your father's wife you shall not uncover. It is your father's nakedness. | alternate_renderings: You shall not uncover the nakedness of your father's wife; it is your father's nakedness. | rationale: Current wording keeps the compact incest prohibition formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: The nakedness of your father's wife you shall not uncover | footnote_text: Greek keeps the prohibition compact and direct. Current wording preserves it. | source_basis: prohibition formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -65254,10 +65272,10 @@ Syntax notes: [TODO]
 Draft translation: And if a man lies with a woman with the bed of seed, and she is a female servant reserved for a man, and she has not been redeemed with a ransom, nor has freedom been given to her, there shall be oversight for them. They shall not die, because she has not been freed.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οικετις διαπεφυλαγμενη ανθρωπω και αυτη λυτροις ου λελυτρωται η ελευθερια ουκ εδοθη αυτη επισκοπη εσται αυτοις | lemma: διαφυλασσω | επισκοπη | morphology: slavewoman law | chosen_rendering: And if a man lies with a woman with the bed of seed, and she is a female servant reserved for a man, and she has not been redeemed with a ransom, nor has freedom been given to her, there shall be oversight for them. They shall not die, because she has not been freed. | alternate_renderings: If a man lie carnally with a bondmaid betrothed to a husband and not redeemed nor freedom given her, she shall be scourged. | rationale: Greek says reserved for a man and there shall be oversight for them. Current wording keeps those legal terms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there shall be oversight for them | footnote_text: Greek says reserved for a man and there shall be oversight for them. | source_basis: legal wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -65636,10 +65654,10 @@ Syntax notes: [TODO]
 Draft translation: And to the sons of Israel you shall say: If any of the sons of Israel or of the newcomer newcomers in Israel gives of his seed to a ruler, he shall surely be put to death. The people of the land shall stone him with stones.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ος αν δω του σπερματος αυτου αρχοντι θανατω θανατουσθω | lemma: αρχων | morphology: seed-giving prohibition | chosen_rendering: And to the sons of Israel you shall say: If any of the sons of Israel or of the newcomer newcomers in Israel gives of his seed to a ruler, he shall surely be put to death. The people of the land shall stone him with stones. | alternate_renderings: Whoever gives any of his seed to Molech shall surely be put to death. | rationale: Greek says to a ruler here rather than naming Molech. Current wording keeps the transmitted Greek wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to a ruler | footnote_text: Greek says to a ruler here rather than naming Molech. | source_basis: term difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -65776,10 +65794,10 @@ Syntax notes: [TODO]
 Draft translation: Every man who speaks evil of his father or of his mother shall surely be put to death. He spoke evil of his father or his mother. He shall be guilty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανθρωπος ανθρωπος ος αν κακως ειπη τον πατερα αυτου η την μητερα αυτου | lemma: κακως ειπω | morphology: law clause | chosen_rendering: Every man who speaks evil of his father or of his mother shall surely be put to death. He spoke evil of his father or his mother. He shall be guilty. | alternate_renderings: Every man who speaks evil of his father or of his mother shall surely be put to death. He spoke evil of his father or his mother. He shall be guilty. | rationale: Current wording keeps the speaks-evil formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: speaks evil of his father or of his mother | footnote_text: Greek uses speaks-evil language here. Current wording preserves that legal formula. | source_basis: legal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -66780,10 +66798,10 @@ Syntax notes: [TODO]
 Draft translation: What dies of itself or is torn by beasts he shall not eat, to be defiled by them. I am the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θνησιμαιον και θηριαλωτον ου φαγεται μιαινεσθαι εν αυτοις | lemma: θνησιμαιον | θηριαλωτον | morphology: food law | chosen_rendering: A dead thing or what is caught by beasts he shall not eat, to be defiled by them. I am the Lord. | alternate_renderings: A dead thing or what is caught by beasts he shall not eat, to be defiled by them. I am the Lord. | rationale: Current wording keeps the dead-thing and beast-caught ban explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a dead thing or what is caught by beasts | footnote_text: Greek names both forbidden sources of meat. Current wording preserves that paired food-law line. | source_basis: food law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -68544,10 +68562,10 @@ Syntax notes: [TODO]
 Draft translation: And if anyone gives a blemish to his neighbor, as he did, so it shall be done back to him:
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν τις δω μωμον τω πλησιον ως εποιησεν αυτω ωσαυτως αντιποιηθησεται αυτω | lemma: μωμος | morphology: retaliation law | chosen_rendering: And if anyone gives a blemish to his neighbor, as he did, so it shall be done back to him: | alternate_renderings: If anyone gives a blemish to his neighbor, as he did, so it shall be done back to him: | rationale: Current wording keeps the retaliation-law line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: as he did so it shall be done back to him | footnote_text: Greek gives the retaliation rule in direct form. Current wording preserves it. | source_basis: retaliation law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -69106,10 +69124,10 @@ Syntax notes: [TODO]
 Draft translation: And through all the land of your possession you shall give redemption for the land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εν παση γη της κατασχεσεως υμων λυτρα δωσετε της γης | lemma: λυτρον | morphology: law clause | chosen_rendering: And in all the land of your possession you shall give redemption for the land. | alternate_renderings: In all the land of your possession you shall give redemption for the land. | rationale: Current wording keeps the redemption-for-the-land line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: give redemption for the land | footnote_text: Greek keeps redemption language explicit here. Current wording preserves that land-law formula. | source_basis: land law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -69727,9 +69745,11 @@ Draft translation: Because the sons of Israel are mine as domestics. They are my
 
 Decision rows:
 - greek_phrase: ἐμοὶ ... οἰκέται παῖδές μου οὗτοί εἰσιν | lemma: οἰκέτης | παῖς | morphology: noun nominative plural masculine + noun nominative plural masculine | chosen_rendering: the sons of Israel are mine as domestics. They are my servants | alternate_renderings: the sons of Israel are my household slaves; they are my slaves | rationale: Preserves the paired household-service terms instead of flattening the line into a single repeated English word. | status: drafted
+- greek_phrase: οτι εμοι οι υιοι ισραηλ οικεται παιδες μου ουτοι εισιν | lemma: οικετης | παις | morphology: ownership formula | chosen_rendering: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God. | alternate_renderings: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God. | rationale: Current wording keeps the ownership formula and double servant language explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: mine as domestics | footnote_text: The Greek uses paired household-service terms. This draft preserves the layered language instead of repeating a single English word twice. | source_basis: lexical + style | status: drafted
+- note_type: translation | trigger_phrase: the sons of Israel are mine as domestics | footnote_text: Greek uses ownership language with paired servant terms. Current wording preserves that force. | source_basis: ownership formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71211,9 +71231,11 @@ Draft translation: But every devoted thing that a person devotes to the Lord, fr
 
 Decision rows:
 - greek_phrase: πᾶν ἀνάθεμα ἅγιον ἁγίων | lemma: ἀνάθεμα | ἅγιος | morphology: neuter singular noun phrase + genitive plural superlative phrase | chosen_rendering: every devoted thing is holy of holies | alternate_renderings: every banned thing is most holy | rationale: Keeps both the devotion language and the strongest holiness formula in the Greek. | status: drafted
+- greek_phrase: παν αναθεμα αγιον αγιων εσται τω κυριω | lemma: αναθεμα | αγιος αγιων | morphology: cultic formula | chosen_rendering: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord. | alternate_renderings: Every devoted thing is most holy to the Lord. | rationale: Greek uses the holy-of-holies formula here. Current wording keeps that cultic phrase plain. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: devoted thing | footnote_text: The Greek marks a thing specially devoted to the Lord and then calls it holy of holies. This draft keeps both parts of the formula visible. | source_basis: devotion formula | status: drafted
+- note_type: translation | trigger_phrase: holy of holies | footnote_text: Greek uses the holy-of-holies formula here. | source_basis: cultic formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71230,10 +71252,10 @@ Syntax notes: [TODO]
 Draft translation: And every devoted thing that is devoted from humans shall not be redeemed, but shall surely be put to death.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παν ο εαν ανατεθη απο των ανθρωπων ου λυτρωθησεται αλλα θανατω θανατωθησεται | lemma: ανατιθημι | λυτροω | morphology: law clause | chosen_rendering: And every devoted thing that is devoted from humans shall not be redeemed, but shall surely be put to death. | alternate_renderings: Every devoted thing that is devoted from humans shall not be redeemed, but shall surely be put to death. | rationale: Current wording keeps the devoted-from-humans and not-redeemed line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: shall not be redeemed | footnote_text: Greek keeps the devoted-object ruling stark: no redemption, only death. Current wording preserves that severity. | source_basis: devotion law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71310,10 +71332,10 @@ Syntax notes: [TODO]
 Draft translation: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε αλλασσων αλλαξης αυτο και το αλλαγμα αυτου εσται αγιον | lemma: αλλασσω | αλλαγμα | morphology: exchange clause | chosen_rendering: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed. | alternate_renderings: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed. | rationale: Current wording keeps the repeated exchange formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: both it and its exchange shall be holy | footnote_text: Greek repeats exchange language for emphasis. Current wording preserves that legal formula. | source_basis: legal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71375,9 +71397,11 @@ Draft translation: Take the headcount of the whole congregation of the sons of I
 
 Decision rows:
 - greek_phrase: λάβετε ἀρχὴν πάσης συναγωγῆς | lemma: λαμβάνω | ἀρχή | συναγωγή | morphology: aorist imperative 2 plural + accusative singular noun phrase | chosen_rendering: Take the headcount of the whole congregation | alternate_renderings: Take the sum of the whole assembly | rationale: Uses a natural English census phrase while preserving the sense of taking the total. | status: drafted
+- greek_phrase: λαβετε αρχην πασης συναγωγης υιων ισραηλ | lemma: λαμβανω | αρχη | συναγωγη | morphology: imperative clause | chosen_rendering: Take the headcount of whole congregation of the sons of Israel | alternate_renderings: take the sum of the whole congregation of the sons of Israel | rationale: Current wording keeps the census-head line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: Take the headcount | footnote_text: The Greek literally speaks of taking the total or head of the congregation. This draft uses headcount as a natural census equivalent. | source_basis: census idiom | status: drafted
+- note_type: translation | trigger_phrase: Take the headcount of whole congregation of the sons of Israel | footnote_text: The Greek uses head language in the census command. The current wording preserves that wording. | source_basis: census formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71454,10 +71478,10 @@ Syntax notes: [TODO]
 Draft translation: from Simeon, Shelumiel son of Zurishaddai;
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: των συμεων σαλαμιηλ υιος σουρισαδαι | lemma: υιος | morphology: genealogical listing | chosen_rendering: from Simeon, Shelumiel son of Zurishaddai; | alternate_renderings: From Simeon, Shelumiel son of Zurishaddai; | rationale: Current wording keeps the tribal-name listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from Simeon Shelumiel son of Zurishaddai | footnote_text: Greek gives a plain tribal listing line here. Current wording preserves that register. | source_basis: listing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71514,10 +71538,10 @@ Syntax notes: [TODO]
 Draft translation: from Zebulun, Eliab son of Helon;
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: των ζαβουλων ελιαβ υιος χαιλων | lemma: υιος | morphology: genealogical listing | chosen_rendering: from Zebulun, Eliab son of Helon; | alternate_renderings: From Zebulun, Eliab son of Helon. | rationale: Current wording keeps the tribal listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from Zebulun Eliab son of Helon | footnote_text: Greek gives a plain tribal listing line here. Current wording preserves that register. | source_basis: genealogical listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71634,10 +71658,10 @@ Syntax notes: [TODO]
 Draft translation: from Naphtali, Ahira son of Enan.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: των νεφθαλι αχιρε υιος αιναν | lemma: υιος | morphology: genealogical listing | chosen_rendering: from Naphtali, Ahira son of Enan. | alternate_renderings: From Naphtali, Ahira son of Enan. | rationale: Current wording keeps the tribal listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from Naphtali Ahira son of Enan | footnote_text: Greek gives a plain tribal listing line here. Current wording preserves that register. | source_basis: genealogical listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71655,9 +71679,11 @@ Draft translation: These were the called ones of the congregation, chiefs of the
 
 Decision rows:
 - greek_phrase: ἐπίκλητοι τῆς συναγωγῆς | lemma: ἐπίκλητος | συναγωγή | morphology: nominative plural adjective phrase + genitive singular noun | chosen_rendering: the called ones of the congregation | alternate_renderings: the summoned leaders of the assembly | rationale: Retains the Greek calling language behind these recognized tribal chiefs. | status: drafted
+- greek_phrase: ουτοι επικλητοι της συναγωγης αρχοντες των φυλων κατα πατριας χιλιαρχοι ισραηλ εισιν | lemma: επικλητος | χιλιαρχος | morphology: leadership listing | chosen_rendering: These were the called ones of the congregation, chiefs of the tribes of their fathers, commanders of thousands in Israel. | alternate_renderings: These were the called ones of the congregation, chiefs of the tribes of their fathers, commanders of thousands in Israel. | rationale: Current wording keeps the leadership listing plain. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: called ones of the congregation | footnote_text: The Greek stresses that these leaders are recognized or summoned representatives of the congregation. | source_basis: leadership title | status: drafted
+- note_type: translation | trigger_phrase: called ones of the congregation | footnote_text: Greek uses a formal leadership title here. Current wording preserves it. | source_basis: leadership listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -71934,10 +71960,10 @@ Syntax notes: [TODO]
 Draft translation: As for the sons of Joseph, the sons of Ephraim, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τοις υιοις ιωσηφ υιοις εφραιμ κατα συγγενειας αυτων κατα δημους αυτων κατ' οικους πατριων αυτων κατα αριθμον ονοματων αυτων κατα κεφαλην αυτων παντα αρσενικα απο εικοσαετους και επανω πας ο εκπορευομενος εν τη δυναμει | lemma: verse mapping difference | morphology: census heading | chosen_rendering: As for the sons of Joseph, the sons of Ephraim, by their families, by their clans, by the houses of their fathers, by the number of their names, by their headcount, every male from twenty years old and upward, every one going out in force, | alternate_renderings: Of the children of Zebulun by their generations, after their families... | rationale: This LXX verse number carries the Ephraim census heading rather than the MT Zebulun line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Joseph sons of Ephraim | footnote_text: This LXX verse number carries the Ephraim census heading rather than the MT Zebulun line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -73138,10 +73164,10 @@ Syntax notes: [TODO]
 Draft translation: And these are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πρωτοτοκος ναδαβ και αβιουδ | lemma: πρωτοτοκος | proper names | morphology: name clause | chosen_rendering: Nadab the firstborn and Abihu | alternate_renderings: Nadab firstborn and Abiud | rationale: Current wording uses standard name form for Abihu. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Nadab the firstborn and Abihu | footnote_text: The Greek name list is straightforward. The current wording keeps the standard English form Abihu. | source_basis: name form | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -73398,10 +73424,10 @@ Syntax notes: [TODO]
 Draft translation: Count the sons of Levi by the houses of their fathers, by their clans, by their families. Every male from a month old and upward you shall count.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επισκεψαι τους υιους λευι κατ' οικους πατριων αυτων κατα δημους αυτων κατα συγγενειας αυτων | lemma: επισκεπτομαι | morphology: muster formula | chosen_rendering: Count the sons of Levi by the houses of their fathers, by their clans, by their families. Every male from a month old and upward you shall count. | alternate_renderings: Count the sons of Levi by the houses of their fathers, by their clans, by their families. Every male from a month old and upward you shall count. | rationale: Current wording keeps the full muster formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by the houses of their fathers by their clans by their families | footnote_text: Greek stacks the muster categories in sequence. Current wording preserves that full register. | source_basis: muster formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -73578,10 +73604,10 @@ Syntax notes: [TODO]
 Draft translation: And the chief of the fathers' house of the clan of Gershon was Elisaph son of Lael.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο αρχων οικου πατριας του δημου του γεδσων ελισαφ υιος λαηλ | lemma: αρχων | morphology: genealogical office | chosen_rendering: And the chief of the fathers' house of the clan of Gershon was Elisaph son of Lael. | alternate_renderings: The chief of the fathers' house of the clan of Gershon was Elisaph son of Lael. | rationale: Current wording keeps the office-and-name listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: chief of the fathers' house | footnote_text: Greek gives a plain office listing here. Current wording preserves that register. | source_basis: genealogical office | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -73638,10 +73664,10 @@ Syntax notes: [TODO]
 Draft translation: To Kohath belonged the clan of the Amramites and the clan of the Issaharites and the clan of the Hebronites and the clan of the Ozielites. These are the clans of Kohath.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δημος ο αμραμις και δημος ο σααρις | lemma: δημος | morphology: clan list | chosen_rendering: clan of the Amramites and clan of the Issaharites | alternate_renderings: family of the Amramites and family of the Izharites | rationale: Current wording keeps the clan-list line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: clan of the Amramites and clan of the Issaharites | footnote_text: The Greek line is a clan list. The current wording keeps that structure explicit. | source_basis: clan list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -74160,10 +74186,10 @@ Syntax notes: [TODO]
 Draft translation: Take the headcount of the sons of Kohath from among the sons of Levi, by their clans, by the houses of their fathers,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαβε το κεφαλαιον των υιων κααθ εκ μεσου υιων λευι | lemma: κεφαλαιον | δημος | οικος | morphology: counting clause | chosen_rendering: Take the headcount of the sons of Kohath from among the sons of Levi, by their clans, by the houses of their fathers, | alternate_renderings: Take the headcount of the sons of Kohath from among the sons of Levi, by their clans, by the houses of their fathers, | rationale: Current wording keeps the headcount formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Take the headcount of the sons of Kohath | footnote_text: Greek uses headcount language here. Current wording preserves that census formula. | source_basis: census formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -74560,10 +74586,10 @@ Syntax notes: [TODO]
 Draft translation: Take the headcount of the sons of Gershon, these also, by the houses of their fathers, by their clans.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαβε την αρχην των υιων γεδσων και τουτους κατ' οικους πατριων αυτων κατα δημους αυτων | lemma: αρχη | morphology: census formula | chosen_rendering: Take the headcount of the sons of Gershon, these also, by the houses of their fathers, by their clans. | alternate_renderings: Take the headcount of the sons of Gershon, these also, by the houses of their fathers, by their clans. | rationale: Current wording keeps the census formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Take the headcount of the sons of Gershon | footnote_text: Greek uses the standard census formula here. Current wording preserves that register. | source_basis: census formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75302,10 +75328,10 @@ Syntax notes: [TODO]
 Draft translation: And each man's holy things shall be his. Whatever a man gives to the priest shall be his.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εκαστου τα ηγιασμενα αυτου εσται ανηρ ος εαν δω τω ιερει αυτω εσται | lemma: αγιαζω | ιερευς | morphology: ownership clause | chosen_rendering: And each man's holy things shall be his. Whatever a man gives to the priest shall be his. | alternate_renderings: Each man's holy things shall be his. Whatever a man gives to the priest shall be his. | rationale: Current wording keeps the each-mans-holy-things formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: each man's holy things shall be his | footnote_text: Greek states ownership twice in compact form. Current wording preserves that legal line. | source_basis: ownership formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75382,10 +75408,10 @@ Syntax notes: [TODO]
 Draft translation: and a spirit of jealousy comes upon him and he is jealous of his wife and she has been defiled, or a spirit of jealousy comes upon him and he is jealous of his wife and she has not been defiled,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πνευμα ζηλωσεως | lemma: πνευμα | ζηλωσις | morphology: noun phrase | chosen_rendering: a spirit of jealousy | alternate_renderings: the spirit of jealousy | rationale: Current wording keeps the spirit-of-jealousy line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a spirit of jealousy | footnote_text: The Greek uses the spirit-of-jealousy phrase directly. The current wording preserves it. | source_basis: spirit-of-jealousy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75422,10 +75448,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall bring her near and set her before the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προσαξει αυτην ο ιερευς και στησει αυτην εναντι κυριου | lemma: προσαγω | ιστημι | morphology: future clause | chosen_rendering: the priest shall bring her near and set her before the Lord | alternate_renderings: the priest shall bring her and cause her to stand before the Lord | rationale: Current wording keeps the ritual action line direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the priest shall bring her near and set her before the Lord | footnote_text: The Greek uses two direct ritual verbs. The current wording preserves that line. | source_basis: ritual action line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75442,10 +75468,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall take pure living water in an earthen vessel, and from the dust that is on the floor of the tent of testimony, taking it, the priest shall put it into the water.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υδωρ καθαρον ζων εν αγγειω οστρακινω | lemma: υδωρ | ζαω | οστρακινος | morphology: noun phrase | chosen_rendering: pure living water in an earthen vessel | alternate_renderings: pure running water in an earthen vessel | rationale: Current wording keeps the living-water line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pure living water in an earthen vessel | footnote_text: The Greek uses living water language directly. The current wording preserves it. | source_basis: living-water line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75702,10 +75728,10 @@ Syntax notes: [TODO]
 Draft translation: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πνευμα ζηλωσεως ... και ποιησει αυτη ο ιερευς παντα τον νομον τουτον | lemma: πνευμα | ζηλοω | νομος | morphology: clause | chosen_rendering: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law. | alternate_renderings: or when a spirit of jealousy comes on a man and he becomes jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her this whole law. | rationale: Current wording keeps the spirit-of-jealousy formula and the all-this-law ending explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a spirit of jealousy comes upon a man | footnote_text: Greek uses the spirit-of-jealousy formula directly. Current wording preserves it. | source_basis: jealousy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75784,10 +75810,10 @@ Syntax notes: [TODO]
 Draft translation: shall separate himself from wine and strong drink. He shall not drink vinegar from wine or vinegar from strong drink, and he shall not drink whatever is produced from grapes, and he shall not eat fresh grapes or raisins.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οσα κατεργαζεται εκ σταφυλης ου πιεται | lemma: κατεργαζομαι | σταφυλη | morphology: clause | chosen_rendering: he shall not drink whatever is produced from grapes | alternate_renderings: he shall not drink anything produced from grapes | rationale: Current wording keeps the Nazirite restriction explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he shall not drink whatever is produced from grapes | footnote_text: The Greek states the Nazirite restriction broadly. The current wording preserves that scope. | source_basis: Nazirite restriction | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75945,9 +75971,11 @@ Draft translation: And the priest shall make one a sin offering and one a whole 
 
 Decision rows:
 - greek_phrase: ἥμαρτεν περὶ τῆς ψυχῆς | lemma: ἁμαρτάνω | ψυχή | morphology: aorist active indicative 3 singular + preposition phrase | chosen_rendering: he sinned concerning the dead person | alternate_renderings: he sinned because of the corpse | rationale: Keeps the unusual offense formula tied to corpse contamination. | status: drafted
+- greek_phrase: και εξιλασεται περι αυτου ο ιερευς περι ων ημαρτεν περι της ψυχης | lemma: εξιλασκομαι | ψυχη | morphology: ritual clause | chosen_rendering: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day. | alternate_renderings: The priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day. | rationale: Current wording keeps the concerning-the-dead-person line explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: sinned concerning the dead person | footnote_text: The Greek treats corpse contamination during the vow period as a real offense requiring atonement. This draft keeps that offense-language explicit. | source_basis: purity offense formula | status: drafted
+- note_type: translation | trigger_phrase: what he sinned concerning the dead person | footnote_text: Greek states the offense with direct reference to the dead person. Current wording preserves that ritual explanation. | source_basis: ritual explanation | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -76204,10 +76232,10 @@ Syntax notes: [TODO]
 Draft translation: May the Lord bless you and keep you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ευλογησαι σε κυριος και φυλαξαι σε | lemma: ευλογεω | φυλασσω | morphology: blessing formula | chosen_rendering: May the Lord bless you and keep you. | alternate_renderings: The Lord bless you and keep you. | rationale: Current wording keeps the compact blessing formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: May the Lord bless you and keep you. | footnote_text: Greek gives the blessing in a very compact two-part form. Current wording preserves that familiar formula. | source_basis: blessing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -76244,10 +76272,10 @@ Syntax notes: [TODO]
 Draft translation: May the Lord lift up his face upon you and give you peace.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επαραι κυριος το προσωπον αυτου επι σε και δωη σοι ειρηνην | lemma: επαραι | morphology: birkat line | chosen_rendering: May the Lord lift up his face upon you and give you peace. | alternate_renderings: May the Lord lift up his face upon you and give you peace. | rationale: Current wording keeps the blessing line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: lift up his face upon you and give you peace | footnote_text: Greek keeps this blessing line in direct form. Current wording preserves it. | source_basis: birkat line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -76386,10 +76414,10 @@ Syntax notes: [TODO]
 Draft translation: The two wagons and the four oxen he gave to the sons of Gershon according to their services.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τας δυο αμαξας και τους τεσσαρας βοας εδωκεν τοις υιοις γηρσων | lemma: αμαξα | βους | morphology: allocation clause | chosen_rendering: The two wagons and the four oxen he gave to the sons of Gērsōn, according to their ministries; | alternate_renderings: The two wagons and the four oxen he gave to the sons of Gerson, according to their ministries. | rationale: Current wording keeps the wagon-and-ox allocation line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the two wagons and the four oxen | footnote_text: Greek gives the allocation in a plain inventory line. Current wording preserves that tally. | source_basis: allocation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -78590,10 +78618,10 @@ Syntax notes: [TODO]
 Draft translation: Tell the sons of Israel also to keep the Passover at its appointed time.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ποιειτωσαν οι υιοι ισραηλ το πασχα καθ ωραν αυτου | lemma: πασχα | ωρα | morphology: festival clause | chosen_rendering: Tell the sons of Israel also to keep the Passover at its appointed time. | alternate_renderings: Let the sons of Israel also keep the Passover at its appointed time. | rationale: Current wording keeps the appointed-time Passover line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: keep the Passover at its appointed time | footnote_text: Greek makes the timing formula explicit. Current wording preserves that festival line. | source_basis: festival formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -78790,10 +78818,10 @@ Syntax notes: [TODO]
 Draft translation: They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου καταλειψουσιν απ' αυτου εις το πρωι και οστουν ου συντριψουσιν απ' αυτου κατα τον νομον του πασχα ποιησουσιν αυτο | lemma: συντριβω οστουν | morphology: passover law | chosen_rendering: They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it. | alternate_renderings: They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it. | rationale: Current wording keeps the bone-breaking prohibition and Passover-law close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they shall not break a bone of it | footnote_text: Greek keeps the Passover bone line explicit. Current wording preserves it. | source_basis: passover law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -79172,10 +79200,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι υιοι ααρων οι ιερεις σαλπιουσιν ταις σαλπιγξιν και εσται υμιν νομιμον αιωνιον εις τας γενεας υμων | lemma: σαλπιζω | νομιμον αιωνιον | morphology: ritual statute | chosen_rendering: And the sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations. | alternate_renderings: The sons of Aaron, the priests, shall blow the trumpets, and it shall be for you an everlasting statute throughout your generations. | rationale: Current wording keeps the trumpet statute line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: everlasting statute throughout your generations | footnote_text: Greek closes with the statute formula. Current wording preserves it. | source_basis: ritual statute | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -79854,10 +79882,10 @@ Syntax notes: [TODO]
 Draft translation: But now our life is dried up. There is nothing except this manna before our eyes.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: νυνι δε η ψυχη ημων καταξηρος ουδεν πλην εις το μαννα οι οφθαλμοι ημων | lemma: ψυχη | καταξηρος | morphology: complaint clause | chosen_rendering: But now our life is dried up. There is nothing except this manna before our eyes. | alternate_renderings: Now our life is dried up; there is nothing except this manna before our eyes. | rationale: Current wording keeps the dried-up life complaint explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: our life is dried up | footnote_text: Greek states the complaint as life dried up. Current wording preserves that stark wilderness complaint. | source_basis: complaint formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -80014,10 +80042,10 @@ Syntax notes: [TODO]
 Draft translation: I am not able, I alone, to bear all this people, because this word is too heavy for me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου δυνησομαι εγω μονος φερειν τον λαον τουτον οτι βαρυτερον μοι εστιν το ρημα τουτο | lemma: μονος | βαρυς | morphology: complaint line | chosen_rendering: I am not able, I alone, to bear all this people, because this word is too heavy for me. | alternate_renderings: I am not able, I alone, to bear all this people, because this word is too heavy for me. | rationale: Current wording keeps the I-alone complaint and too-heavy line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I alone to bear all this people | footnote_text: Greek centers Moses' complaint on solitary burden-bearing. Current wording preserves that line. | source_basis: complaint line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -80194,10 +80222,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη χειρ κυριου ουκ εξαρκεσει ηδη γνωσει ει επικαταλημψεται σε ο λογος μου η ου | lemma: χειρ κυριου | επικαταλαμβανω | morphology: rhetorical question | chosen_rendering: And the Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not. | alternate_renderings: The Lord said to Moses, Is the Lord's hand not enough? Now you shall know whether my word will overtake you or not. | rationale: Current wording keeps the sharp rhetorical question and overtake-you line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Is the Lord's hand not enough? | footnote_text: Greek gives a blunt rhetorical question before the promise. Current wording preserves that challenge. | source_basis: rhetorical question | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -80536,10 +80564,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατεβη κυριος εν στυλω νεφελης και εστη επι της θυρας της σκηνης του μαρτυριου | lemma: καταβαινω | στυλος | νεφελη | morphology: clause | chosen_rendering: And the Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out. | alternate_renderings: The Lord came down in a pillar of cloud and stood at the door of the tent of testimony, and Aaron and Miriam were called, and both came out. | rationale: Current wording keeps the theophanic descent line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: came down in a pillar of cloud and stood at the door of the tent of testimony | footnote_text: Greek uses a direct theophanic descent line. Current wording preserves it. | source_basis: theophanic line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -83205,9 +83233,11 @@ Draft translation: They stood together against Moses and Aaron and said, Let it 
 
 Decision rows:
 - greek_phrase: πᾶσα ἡ συναγωγή πάντες ἅγιοι | lemma: συναγωγή | πᾶς | ἅγιος | morphology: nominative singular noun phrase + nominative plural adjective | chosen_rendering: the whole congregation, every one of them, is holy | alternate_renderings: all the congregation are holy, every one of them | rationale: Keeps the democratic holiness claim explicit in Korah's challenge. | status: drafted
+- greek_phrase: εχετω υμιν οτι πασα η συναγωγη παντες αγιοι | lemma: εχω | morphology: imperative idiom | chosen_rendering: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord? | alternate_renderings: You take too much upon yourselves. | rationale: Greek uses a let-it-be-enough idiom here. Current wording keeps that direct rebuke. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: the whole congregation, every one of them, is holy | footnote_text: Korah's protest rests on a holiness claim shared by the whole congregation. This draft keeps that claim fully visible before the judgment scene unfolds. | source_basis: argument formula | status: drafted
+- note_type: translation | trigger_phrase: Let it be enough for you | footnote_text: Greek uses a let-it-be-enough idiom here. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -83424,10 +83454,10 @@ Syntax notes: [TODO]
 Draft translation: Even if you had brought us into a land flowing with milk and honey and given us an inheritance of field and vineyards, would you gouge out the eyes of those men? We will not come up.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τους οφθαλμους των ανθρωπων εκεινων αν εξεκοψας | lemma: οφθαλμος | εκκοπτω | morphology: question clause | chosen_rendering: would you gouge out the eyes of those men | alternate_renderings: would you put out the eyes of those men | rationale: Current wording keeps the threat image explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: would you gouge out the eyes of those men | footnote_text: The Greek uses the eye-gouging threat image directly. The current wording preserves that forceful line. | source_basis: threat image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -83524,10 +83554,10 @@ Syntax notes: [TODO]
 Draft translation: And Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επισυνεστησεν επ' αυτους κορε την πασαν αυτου συναγωγην παρα την θυραν της σκηνης του μαρτυριου | lemma: επισυνιστημι | morphology: rebellion gathering | chosen_rendering: And Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation. | alternate_renderings: Korah gathered his whole congregation against them by the door of the tent of testimony, and the glory of the Lord appeared to all the congregation. | rationale: Current wording keeps the rebellion gathering and glory appearance together. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Korah gathered his whole congregation | footnote_text: Greek frames the rebellion as a gathered assembly. Current wording preserves that scene. | source_basis: rebellion gathering | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -83886,10 +83916,10 @@ Syntax notes: [TODO]
 Draft translation: And to Eleazar son of Aaron the priest: take up the bronze firepans from the midst of the burned ones, and scatter this strange fire there, because they were sanctified.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και προς ελεαζαρ τον υιον ααρων τον ιερεα ανελεσθε τα πυρεια τα χαλκα εκ μεσου των κατακεκαυμενων | lemma: verse mapping difference | morphology: bronze firepans line | chosen_rendering: And to Eleazar son of Aaron the priest: take up the bronze firepans from the midst of the burned ones, and scatter this strange fire there, because they were sanctified. | alternate_renderings: Speak to the children of Israel and take of every one of them a rod according to the house of their fathers. | rationale: This LXX verse number carries the bronze-firepans line rather than the MT rod-command line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: bronze firepans from midst of burned ones | footnote_text: This LXX verse number carries the bronze-firepans line rather than the MT rod-command line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -84868,10 +84898,10 @@ Syntax notes: [TODO]
 Draft translation: And the Levite himself shall minister the ministry of the tent of testimony, and they shall bear their sins, an everlasting statute throughout their generations. And in the midst of the sons of Israel they shall not inherit an inheritance.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αυτοι λημψονται τα αμαρτηματα αυτων νομιμον αιωνιον εις τας γενεας αυτων | lemma: λαμβανω τα αμαρτηματα | morphology: burden clause | chosen_rendering: And the Levite himself shall minister the ministry of the tent of testimony, and they shall bear their sins, an everlasting statute throughout their generations. And in the midst of the sons of Israel they shall not inherit an inheritance. | alternate_renderings: They shall bear their iniquity; it shall be a statute forever. | rationale: Greek says they shall receive or bear their sins. Current wording keeps that direct burden clause. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they shall bear their sins | footnote_text: Greek states the burden clause directly here. | source_basis: burden clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86012,10 +86042,10 @@ Syntax notes: [TODO]
 Draft translation: And strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκδυσον ααρων την στολην αυτου και ενδυσον ελεαζαρ τον υιον αυτου και ααρων προστεθεις αποθανετω εκει | lemma: εκδυω | προστιθημι | morphology: succession death formula | chosen_rendering: And strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there. | alternate_renderings: Strip Aaron of his robe and put it on Eleazar his son, and Aaron, being added, shall die there. | rationale: Current wording keeps the robe-transfer and being-added formula together. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Aaron being added shall die there | footnote_text: Greek uses the being-added death formula after the robe transfer. Current wording preserves that sequence. | source_basis: death formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86334,10 +86364,10 @@ Syntax notes: [TODO]
 Draft translation: And from there, setting out, they camped beyond Arnon, in the wilderness that extends from the borders of the Amorites. For Arnon is the border of Moab, between Moab and the Amorite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εις το περαν αρνων εν τη ερημω το εξεχον απο των οριων των αμορραιων | lemma: περαν | εξεχω | οριον | morphology: clause | chosen_rendering: And from there, setting out, they camped beyond Arnon, in the wilderness that extends from the borders of the Amorites. | alternate_renderings: And from there they camped beyond Arnon, in the wilderness stretching out from the borders of the Amorites. | rationale: Current wording preserves the border-extension geography directly. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: beyond Arnon, in the wilderness that extends from the borders of the Amorites | footnote_text: Greek gives the geography in a compact descriptive line. Current wording keeps it plain. | source_basis: geography line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86454,10 +86484,10 @@ Syntax notes: [TODO]
 Draft translation: and from Manthanain to Naaliel, and from Naaliel to Bamoth,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απο μανθαναιν εις νααλιηλ και απο νααλιηλ εις βαμωθ | lemma: route formula | morphology: topographic sequence | chosen_rendering: and from Manthanain to Naaliel, and from Naaliel to Bamoth, | alternate_renderings: and from Mattanah to Nahaliel, and from Nahaliel to Bamoth, | rationale: Current wording keeps the route list plain and close to the source-row sequence. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and from Manthanain to Naaliel | footnote_text: Greek keeps the route list terse. Current wording preserves the sequence. | source_basis: route list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86534,10 +86564,10 @@ Syntax notes: [TODO]
 Draft translation: And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εδωκεν σηων τω ισραηλ παρελθειν δια των οριων αυτου | lemma: διδωμι | παρερχομαι | οριον | morphology: clause | chosen_rendering: And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel. | alternate_renderings: Sihon did not allow Israel to pass through his borders, but gathered all his people and came out to battle Israel in the wilderness and arrayed against Israel at Jahaz. | rationale: Current wording keeps the pass-through-borders line and repeated battle-array wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Sihon did not let Israel pass through his borders | footnote_text: Greek uses pass-through-borders wording and repeats battle-array language later in the verse. Current wording keeps that structure visible. | source_basis: route + battle formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86816,10 +86846,10 @@ Syntax notes: [TODO]
 Draft translation: And Balak son of Zippor saw all that Israel had done to the Amorite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ιδων βαλακ υιος σεπφωρ παντα οσα εποιησεν ισραηλ τω αμορραιω | lemma: οραω | morphology: scene setup | chosen_rendering: And Balak son of Zippor saw all that Israel had done to the Amorite. | alternate_renderings: Balak son of Zippor saw all that Israel had done to the Amorite. | rationale: Current wording keeps the scene setup plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Balak son of Zippor saw | footnote_text: Greek begins the scene with Balak's seeing. Current wording preserves that setup. | source_basis: scene setup | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -87136,10 +87166,10 @@ Syntax notes: [TODO]
 Draft translation: And Balaam answered and said to the princes of Balak, If Balak gave me his house full of silver and gold, I would not be able to go beyond the word of the Lord my God, to do it small or great in my mind.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου δυνησομαι παραβηναι το ρημα κυριου του θεου ποιησαι αυτο μικρον η μεγα εν τη διανοια μου | lemma: παραβαινω | ρημα | διανοια | morphology: clause | chosen_rendering: I would not be able to go beyond the word of the Lord my God to do it small or great in my mind | alternate_renderings: I could not transgress the word of the Lord my God to do small or great from my own mind | rationale: Current wording stays close to the source-row phrasing, including the small-great and in-my-mind wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I would not be able to go beyond the word of the Lord my God | footnote_text: Greek keeps Balaam's refusal tightly tied to the Lord's word, including the small-great and in-my-mind wording later in the line. Current wording keeps that shape. | source_basis: lexical + discourse shape | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -87456,10 +87486,10 @@ Syntax notes: [TODO]
 Draft translation: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ει μη σοι αρεσκει αποστραφησομαι | lemma: αρεσκω | αποστρεφω | morphology: conditional clause | chosen_rendering: And Balaam said to the angel of the Lord, I sinned, for I did not know that you stood against me in the road to meet me. And now, if it does not please you, I will turn back. | alternate_renderings: And Balaam said to the angel of the Lord, I sinned, for I did not know you were standing against me on the road to meet me; now, if it is evil in your eyes, I will turn back. | rationale: Current wording keeps Balaam's conditional retreat line close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: if it does not please you I will turn back | footnote_text: Greek closes with Balaam's conditional retreat line. Current wording keeps it plain. | source_basis: conditional line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -87698,10 +87728,10 @@ Syntax notes: [TODO]
 Draft translation: And God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ενεβαλεν ο θεος ρημα εις το στομα βαλααμ | lemma: ρημα | στομα | morphology: oracle clause | chosen_rendering: And God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus. | alternate_renderings: God put a word in Balaam's mouth and said, Returning to Balak, you shall speak thus. | rationale: Current wording keeps the put-a-word-in-his-mouth formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God put a word in Balaam's mouth | footnote_text: Greek uses the direct mouth formula for Balaam's oracle. Current wording preserves that prophetic line. | source_basis: oracle formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -88541,9 +88571,11 @@ Draft translation: I will point him out, but not now. I count him blessed, and h
 
 Decision rows:
 - greek_phrase: ἀνατελεῖ ἄστρον ἐξ Ἰακώβ | lemma: ἀνατέλλω | ἄστρον | Ἰακώβ | morphology: future active indicative 3 singular + nominative singular noun | chosen_rendering: A star shall rise out of Jacob | alternate_renderings: A star shall come up from Jacob | rationale: Keeps the astral royal image explicit and separate from the following man-from-Israel line. | status: drafted
+- greek_phrase: ανατελει αστρον εξ ιακωβ και αναστησεται ανθρωπος εξ ισραηλ | lemma: ανατελλω | ανθρωπος | morphology: star oracle | chosen_rendering: I will point him out, but not now. I count him blessed, and he is not near. A star shall rise out of Jacob, and a man shall stand up out of Israel, and he shall crush the leaders of Moab and plunder all the sons of Seth. | alternate_renderings: A star shall come out of Jacob, and a scepter shall rise out of Israel. | rationale: Greek says a man shall stand up out of Israel rather than a scepter shall rise. Current wording keeps the Greek figure. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: A star shall rise out of Jacob | footnote_text: The Greek gives both a star from Jacob and a man from Israel. This draft keeps the two royal images distinct. | source_basis: royal image pair | status: drafted
+- note_type: translation | trigger_phrase: a man shall stand up out of Israel | footnote_text: Greek says man here rather than scepter. | source_basis: figure difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -88620,10 +88652,10 @@ Syntax notes: [TODO]
 Draft translation: And seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ισχυρα η κατοικια σου και εαν θης εν πετρα την νοσσιαν σου | lemma: κατοικια | νοσσια | morphology: oracle clause | chosen_rendering: And seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock, | alternate_renderings: Seeing the Kenite and taking up his oracle, he said: Strong is your dwelling-place, and if you set your nest in the rock, | rationale: Current wording keeps the dwelling-place and nest-in-the-rock line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: strong is your dwelling-place | footnote_text: Greek keeps the oracle's dwelling-place and nest-in-the-rock image direct. Current wording preserves that compact saying. | source_basis: oracle image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -88942,10 +88974,10 @@ Syntax notes: [TODO]
 Draft translation: Therefore say, Behold, I give him a covenant of peace.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδου εγω διδωμι αυτω διαθηκην ειρηνης | lemma: διαθηκη ειρηνης | morphology: covenant grant | chosen_rendering: Therefore say, Behold, I give him a covenant of peace. | alternate_renderings: Behold, I give him a covenant of peace. | rationale: Current wording keeps the covenant-grant line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I give him a covenant of peace | footnote_text: Greek gives the covenant grant in direct form. Current wording preserves it. | source_basis: covenant grant | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -89022,10 +89054,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ελαλησεν κυριος προς μωυσην λεγων | lemma: λαλεω | morphology: speech formula | chosen_rendering: And the Lord spoke to Moses, saying, | alternate_renderings: And the Lord spoke to Moses, saying, Speak to the sons of Israel, saying, | rationale: Greek verse division ends with the speech formula here. The command begins in the next verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the Lord spoke to Moses, saying, | footnote_text: Greek verse division stops with the speech formula here. The command itself begins in the next verse. | source_basis: verse division | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -89062,10 +89094,10 @@ Syntax notes: [TODO]
 Draft translation: because they act as enemies toward you in the deceit with which they deceive you over Peor and over Chasbi daughter of the chief of Midian, their sister, the one struck down on the day of the plague over Peor.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι εχθραινουσιν αυτοι υμιν εν δολιοτητι οσα δολιουσιν υμας δια φογωρ και δια χασβι | lemma: δολιοτης | morphology: midian hostility line | chosen_rendering: because they act as enemies toward you in the deceit with which they deceive you over Peor and over Chasbi daughter of the chief of Midian, their sister, the one struck down on the day of the plague over Peor. | alternate_renderings: Because they vex you with their wiles, wherewith they have beguiled you in the matter of Peor and in the matter of Cozbi. | rationale: Greek doubles the deceit language and keeps the Chasbi form. Current wording preserves that texture. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: deceit with which they deceive you | footnote_text: Greek doubles the deceit language here and keeps Chasbi. | source_basis: duplicated deceit | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -89184,10 +89216,10 @@ Syntax notes: [TODO]
 Draft translation: Of Hezron, the clan of the Hezronite; of Carmi, the clan of the Carmite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τω ασρων δημος του ασρωνι τω χαρμι δημος του χαρμι | lemma: δημος | ασρων | χαρμι | morphology: genealogy clause | chosen_rendering: Of Hezron, the clan of the Hezronite; of Carmi, the clan of the Carmite. | alternate_renderings: Of Hezron, clan of the Hezronite; of Carmi, clan of the Carmite. | rationale: Current wording keeps the terse clan formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the clan of the Hezronite; of Carmi, the clan of the Carmite | footnote_text: Greek uses the terse clan formula here. Current wording preserves that genealogy pattern. | source_basis: genealogy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90164,10 +90196,10 @@ Syntax notes: [TODO]
 Draft translation: The land shall be divided by lots. By the names of the tribes of their fathers they shall inherit.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δια κληρων μερισθησεται η γη | lemma: κληρος | μεριζω | morphology: inheritance clause | chosen_rendering: The land shall be divided by lots. By the names of the tribes of their fathers they shall inherit. | alternate_renderings: The land shall be divided by lots; by the names of the tribes of their fathers they shall inherit. | rationale: Current wording keeps the by-lots division formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: The land shall be divided by lots. | footnote_text: Greek keeps the by-lots inheritance formula plain. Current wording preserves that allocation line. | source_basis: inheritance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90426,10 +90458,10 @@ Syntax notes: [TODO]
 Draft translation: Our father died in the wilderness, and he was not in the midst of the congregation that gathered against the Lord in the congregation of Korah, but he died for his own sin, and sons were not born to him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ ην εν μεσω της συναγωγης της επισυστασης εναντι κυριου | lemma: συναγωγη | επισυνισταω | morphology: clause | chosen_rendering: Our father died in the wilderness, and he was not in the midst of the congregation that gathered against the Lord in the congregation of Korah, but he died for his own sin, and sons were not born to him. | alternate_renderings: Our father died in the wilderness, and he was not among the congregation assembled against the Lord in the congregation of Korah, but he died for his own sin, and no sons were born to him. | rationale: Current wording keeps the contrast with Korah's congregation explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he was not in the midst of the congregation that gathered against the Lord | footnote_text: Greek keeps the contrast with Korah's assembly explicit. Current wording preserves it. | source_basis: assembly contrast | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90446,10 +90478,10 @@ Syntax notes: [TODO]
 Draft translation: Let not the name of our father be wiped out from the midst of his clan because he has no son. Give us a possession among the brothers of our father.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη εξαλειφθητω το ονομα του πατρος ημων εκ μεσου του δημου αυτου | lemma: εξαλειφω | ονομα | δημος | morphology: clause | chosen_rendering: Let not the name of our father be wiped out from the midst of his clan | alternate_renderings: Let not our father's name be blotted out from the midst of his people | rationale: Current wording keeps the name-wiped-out formula and the clan setting plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Let not the name of our father be wiped out | footnote_text: Greek uses the name-wiped-out formula directly. Current wording preserves it. | source_basis: name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90466,10 +90498,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses brought their judgment before the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προσηγαγεν μωυσης την κρισιν αυτων εναντι κυριου | lemma: προσαγω | κρισις | morphology: aorist clause | chosen_rendering: Moses brought their judgment before the Lord | alternate_renderings: Moses brought their case before the Lord | rationale: Current wording keeps the judgment wording explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Moses brought their judgment before the Lord | footnote_text: The Greek uses judgment wording rather than only cause. The current wording preserves that line. | source_basis: judgment wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90486,10 +90518,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord spoke to Moses, saying,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ελαλησεν κυριος προς μωυσην λεγων | lemma: λαλεω | κυριος | morphology: aorist clause | chosen_rendering: the Lord spoke to Moses saying | alternate_renderings: the Lord said to Moses saying | rationale: Current wording keeps the standard speech formula. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the Lord spoke to Moses saying | footnote_text: The Greek line is the standard speech formula. The current wording preserves it. | source_basis: speech formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90507,9 +90539,11 @@ Draft translation: The daughters of Salpaad have spoken rightly. Giving you shal
 
 Decision rows:
 - greek_phrase: ὀρθῶς ... λελαλήκασιν | lemma: ὀρθῶς | λαλέω | morphology: adverb + perfect active indicative 3 plural | chosen_rendering: have spoken rightly | alternate_renderings: have spoken correctly | rationale: Keeps the divine approval of the daughters argument explicit before the inheritance ruling is stated. | status: drafted
+- greek_phrase: ορθως θυγατερες σαλπααδ λελαληκασιν | lemma: ορθως | λαλεω | morphology: perfect clause | chosen_rendering: The daughters of Salpaad have spoken rightly | alternate_renderings: the daughters of Zelophehad speak right | rationale: Current wording keeps the approval line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: have spoken rightly | footnote_text: The daughters case is not merely granted; it is called right. This draft keeps that approval direct. | source_basis: divine approval formula | status: drafted
+- note_type: translation | trigger_phrase: The daughters of Salpaad have spoken rightly | footnote_text: The Greek approval line is direct. The current wording preserves it. | source_basis: approval formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90526,10 +90560,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν αποθανη και υιος μη η αυτω περιθησετε την κληρονομιαν αυτου τη θυγατρι αυτου | lemma: κληρονομια | morphology: inheritance clause | chosen_rendering: And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter. | alternate_renderings: You shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter. | rationale: Current wording keeps the put-his-inheritance-upon-his-daughter line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: put his inheritance upon his daughter | footnote_text: Greek says put the inheritance upon the daughter. Current wording preserves that legal transfer line. | source_basis: inheritance law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -90908,10 +90942,10 @@ Syntax notes: [TODO]
 Draft translation: The one lamb you shall do in the morning, and the second lamb you shall do at evening.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τον αμνον τον ενα ποιησεις το πρωι και τον αμνον τον δευτερον ποιησεις το προς εσπεραν | lemma: ποιεω | morphology: offering schedule | chosen_rendering: The one lamb you shall do in the morning, and the second lamb you shall do at evening. | alternate_renderings: The one lamb you shall do in the morning, and the second lamb you shall do at evening. | rationale: Current wording keeps the repeated do-language and schedule plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the one lamb you shall do | footnote_text: Greek uses do-language for the daily offering schedule. Current wording preserves that pattern. | source_basis: offering schedule | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -91428,10 +91462,10 @@ Syntax notes: [TODO]
 Draft translation: and one kid from the goats for a sin offering, to make atonement for you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: χιμαρον εξ αιγων ενα περι αμαρτιας εξιλασασθαι περι υμων | lemma: χιμαρος | εξιλασκομαι | morphology: sacrifice clause | chosen_rendering: and one kid from the goats for a sin offering, to make atonement for you. | alternate_renderings: and one goat from the goats for a sin offering, to make atonement for you. | rationale: Current wording keeps the sin-offering and atonement line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to make atonement for you | footnote_text: Greek closes with a direct atonement line. Current wording preserves it. | source_basis: atonement formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -92513,9 +92547,11 @@ Draft translation: Every vow and every binding oath to afflict a life, her husba
 
 Decision rows:
 - greek_phrase: ὅρκος δεσμοῦ κακῶσαι ψυχήν | lemma: ὅρκος | δεσμός | κακόω | ψυχή | morphology: noun phrase + infinitive phrase | chosen_rendering: Every vow and every binding oath to afflict a life | alternate_renderings: to afflict the soul | rationale: Keeps the Greek life/soul wording available instead of pre-deciding the phrase in one devotional direction. | status: drafted
+- greek_phrase: ο ανηρ αυτης στησει αυτη και ο ανηρ αυτης περιελει | lemma: στηριζω | περιαιρεω | morphology: vow ruling | chosen_rendering: Every vow and every binding oath to afflict a life, her husband shall establish it for her, and her husband shall remove it. | alternate_renderings: Her husband shall confirm it, or her husband shall cancel it. | rationale: Greek uses the establish-remove pair here. Current wording keeps that direct legal phrasing. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: to afflict a life | footnote_text: The Greek literally speaks of afflicting a life or soul. This draft keeps that wider wording instead of narrowing it too early. | source_basis: soul/life phrase | status: drafted
+- note_type: translation | trigger_phrase: her husband shall establish it for her | footnote_text: Greek uses the establish-remove legal pair here. | source_basis: legal wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -92834,10 +92870,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εξηλθεν μωυσης και ελεαζαρ ο ιερευς και παντες οι αρχοντες της συναγωγης | lemma: εξερχομαι | συναγωγη | morphology: meeting clause | chosen_rendering: And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp. | alternate_renderings: Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp. | rationale: Current wording keeps the went-out-to-meet-them line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went out to meet them outside the camp | footnote_text: Greek keeps the reception scene in a direct sequence. Current wording preserves that meeting line. | source_basis: meeting formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -93054,10 +93090,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πλυνεισθε τα ιματια τη ημερα τη εβδομη και καθαρισθησεσθε και μετα ταυτα εισελευσεσθε εις την παρεμβολην | lemma: πλυνω | καθαριζω | morphology: purification sequence | chosen_rendering: And you shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp. | alternate_renderings: You shall wash your garments on the seventh day and you shall be clean, and after these things you shall enter into the camp. | rationale: Current wording keeps the wash-clean-enter sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: after these things you shall enter into the camp | footnote_text: Greek closes the purification line with camp reentry. Current wording preserves that sequence. | source_basis: purification sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -93876,10 +93912,10 @@ Syntax notes: [TODO]
 Draft translation: If these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall see the land that I swore to Abraham and Isaac and Jacob, because they did not follow after me—
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι επισταμενοι το κακον και το αγαθον ου γαρ συνεπηκολουθησαν οπισω μου | lemma: επισταμαι | συνεπακολουθεω | morphology: oath clause | chosen_rendering: If these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall see the land that I swore to Abraham and Isaac and Jacob, because they did not follow after me— | alternate_renderings: Surely these men who came up from Egypt, from twenty years old and upward, who know evil and good, shall not see the land that I swore to Abraham and Isaac and Jacob, because they did not closely follow after me. | rationale: Current wording keeps the know-evil-and-good and follow-after-me line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: who know evil and good | footnote_text: Greek keeps the know-evil-and-good description and the follow-after-me line explicit. Current wording preserves both. | source_basis: oath formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -93916,10 +93952,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ωργισθη θυμω κυριος επι τον ισραηλ και κατερρομβευσεν αυτους εν τη ερημω τεσσαρακοντα ετη | lemma: καταρρομβευω | morphology: judgment wandering | chosen_rendering: And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed. | alternate_renderings: The Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed. | rationale: Current wording keeps the drove-them-round wilderness line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: drove them round in the wilderness forty years | footnote_text: Greek uses circling-wilderness language here. Current wording preserves it. | source_basis: judgment wandering | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -95578,10 +95614,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall take possession of their land by lot according to your tribes. To the greater you shall increase their possession, and to the fewer you shall lessen their possession. Wherever his lot comes out, there it shall be his. According to the tribes of your fathers you shall inherit.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εις ο εαν εξελθη το ονομα αυτου εκει αυτου εσται | lemma: lot formula | morphology: inheritance allotment | chosen_rendering: And you shall take possession of their land by lot according to your tribes. To the greater you shall increase their possession, and to the fewer you shall lessen their possession. Wherever his lot comes out, there it shall be his. According to the tribes of your fathers you shall inherit. | alternate_renderings: Every man's inheritance shall be in the place where his lot falls. | rationale: Greek says where his name comes out there it shall be his. Current wording keeps that lot formula. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: where his name comes out | footnote_text: Greek says where his name comes out there it shall be his. | source_basis: lot formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96200,10 +96236,10 @@ Syntax notes: [TODO]
 Draft translation: These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτοι οις ενετειλατο κυριος καταμερισαι τοις υιοις ισραηλ εν γη χανααν | lemma: καταμεριζω | morphology: land allotment formula | chosen_rendering: These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan. | alternate_renderings: These are the ones whom the Lord commanded to divide the land for the sons of Israel in the land of Canaan. | rationale: Current wording keeps the allotment formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: divide the land for the sons of Israel | footnote_text: Greek uses the standard allotment wording here. Current wording preserves it. | source_basis: land allotment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96522,10 +96558,10 @@ Syntax notes: [TODO]
 Draft translation: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε εν σκευει σιδηρου παταξη αυτον και τελευτηση φονευτης εστιν θανατω θανατουσθω ο φονευτης | lemma: θανατω θανατουσθω | morphology: homicide law | chosen_rendering: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death. | alternate_renderings: If he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death. | rationale: Current wording keeps the homicide verdict and death formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the murderer shall surely be put to death | footnote_text: Greek uses the doubled death formula for the verdict. Current wording preserves it. | source_basis: homicide law | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96582,10 +96618,10 @@ Syntax notes: [TODO]
 Draft translation: The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο αγχιστευων το αιμα ουτος αποκτενει τον φονευσαντα | lemma: αγχιστευων το αιμα | φονευω | morphology: law clause | chosen_rendering: The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him. | alternate_renderings: The avenger of blood, this one shall kill the murderer. When he meets him, this one shall kill him. | rationale: Current wording keeps the avenger-of-blood formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: The avenger of blood | footnote_text: Greek names the legal actor with the avenger-of-blood title directly. Current wording preserves that law formula. | source_basis: legal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96622,10 +96658,10 @@ Syntax notes: [TODO]
 Draft translation: or in anger strikes him with the hand and he dies, the one striking shall surely be put to death. He is a murderer. The avenger of blood shall kill the murderer when he meets him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θανατω θανατουσθω ο παταξας | lemma: θανατοω | morphology: legal formula | chosen_rendering: the one striking shall surely be put to death | alternate_renderings: he that struck shall surely be put to death | rationale: Current wording keeps the legal death formula explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the one striking shall surely be put to death | footnote_text: The Greek uses the emphatic death formula directly. The current wording keeps that legal line explicit. | source_basis: legal death formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96964,10 +97000,10 @@ Syntax notes: [TODO]
 Draft translation: And if the release of the sons of Israel comes, their inheritance will be added to the inheritance of the tribe to which they become wives, and their inheritance will be taken away from the inheritance of the tribe of our fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε γενηται η αφεσις των υιων ισραηλ και προστεθησεται η κληρονομια αυτων επι την κληρονομιαν της φυλης οις αν γενωνται γυναικες | lemma: αφεσις | morphology: inheritance warning | chosen_rendering: And if the release of the sons of Israel comes, their inheritance will be added to the inheritance of the tribe to which they become wives, and their inheritance will be taken away from the inheritance of the tribe of our fathers. | alternate_renderings: When the jubile of the children of Israel shall be, then shall their inheritance be put to the inheritance of the tribe into which they are received. | rationale: Greek says release here. Current wording keeps that term rather than harmonizing to jubile. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: release of sons of Israel | footnote_text: Greek says release here rather than harmonizing to jubile. | source_basis: release wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -97188,10 +97224,10 @@ Syntax notes: [TODO]
 Draft translation: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενδεκα ημερων εν χωρηβ οδος επ ορος σηιρ εως καδης βαρνη | lemma: ημερα | οδος | morphology: distance note | chosen_rendering: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea. | alternate_renderings: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea. | rationale: Current wording keeps the terse distance note plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Eleven days from Horeb | footnote_text: Greek gives a terse travel-distance note here. Current wording preserves that compact notice. | source_basis: distance note | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -97508,10 +97544,10 @@ Syntax notes: [TODO]
 Draft translation: And I commanded you at that time all the matters that you should do.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ενετειλαμην υμιν εν τω καιρω εκεινω παντας τους λογους ους ποιησετε | lemma: εντελλομαι | λογος | morphology: summary clause | chosen_rendering: And I commanded you at that time all the matters that you should do. | alternate_renderings: I commanded you at that time all the matters that you should do. | rationale: Current wording keeps the all-the-matters line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the matters that you should do | footnote_text: Greek summarizes the commands as all the matters you should do. Current wording preserves that broad summary line. | source_basis: summary formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98110,10 +98146,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to me,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ειπεν κυριος προς με | lemma: λεγω | morphology: formula clause | chosen_rendering: And the Lord said to me, | alternate_renderings: The Lord said to me, | rationale: Current wording keeps the formula plain and close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the Lord said to me, | footnote_text: Greek gives a simple speech formula. Current wording preserves it. | source_basis: speech formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98211,9 +98247,11 @@ Draft translation: For the Lord our God blessed you in every work of your hands.
 
 Decision rows:
 - greek_phrase: οὐκ ἐπεδεήθης ῥήματος | lemma: ἐπιδέω | ῥῆμα | morphology: aorist passive indicative 2 singular + genitive singular noun | chosen_rendering: You lacked no thing | alternate_renderings: You were in need of no word/thing | rationale: Keeps the line terse and absolute, reflecting the Greek without over-specifying the object of lack. | status: drafted
+- greek_phrase: ουκ επεδεηθης ρηματος | lemma: δεομαι | ρημα | morphology: aorist clause | chosen_rendering: You lacked no thing | alternate_renderings: you lacked no word thing | rationale: Current wording keeps the idiomatic lack line concise. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: You lacked no thing | footnote_text: The Greek line is brief and totalizing. This draft keeps the absolute form rather than expanding it beyond the text. | source_basis: compressed provision formula | status: drafted
+- note_type: translation | trigger_phrase: You lacked no thing | footnote_text: The Greek expresses lack in a compact idiomatic way. The current wording keeps that line concise. | source_basis: lack formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98550,10 +98588,10 @@ Syntax notes: [TODO]
 Draft translation: Now then rise and set out and pass through the Ravine of Arnon. Behold, I have handed into your hands Sihon king of Heshbon the Amorite and his land. Begin to inherit; join battle with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εναρχου κληρονομειν συναπτε προς αυτον πολεμον | lemma: εναρχομαι | συναπτω | morphology: imperatives | chosen_rendering: Now then rise and set out and pass through the Ravine of Arnon. Behold, I have handed into your hands Sihon king of Heshbon the Amorite and his land. Begin to inherit; join battle with him. | alternate_renderings: Begin to possess it and contend with him in battle. | rationale: Greek gives the paired imperatives begin to inherit and join battle with him. Current wording keeps both plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Begin to inherit; join battle with him | footnote_text: Greek gives the paired imperatives in that order. | source_basis: paired imperatives | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98790,10 +98828,10 @@ Syntax notes: [TODO]
 Draft translation: From Aroer, which is by the lip of the torrent Arnon, and the city that is in the ravine, even to the mountain of Gilead, there was no city that escaped us. The Lord our God handed all of them into our hands.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εγενηθη πολις ητις διεφυγεν ημας | lemma: πολις | διαφευγω | morphology: aorist clause | chosen_rendering: there was no city that escaped us | alternate_renderings: there was not a city that escaped us | rationale: Current wording keeps the conquest line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there was no city that escaped us | footnote_text: The Greek conquest line is direct. The current wording preserves it. | source_basis: conquest line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -98952,10 +98990,10 @@ Syntax notes: [TODO]
 Draft translation: And all the cattle and the spoils of the cities we plundered for ourselves.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και παντα τα κτηνη και τα σκυλα των πολεων επρονομευσαμεν εαυτοις | lemma: σκυλον | προνομευω | morphology: plunder clause | chosen_rendering: And all the cattle and the spoils of the cities we plundered for ourselves. | alternate_renderings: All the cattle and the spoils of the cities we plundered for ourselves. | rationale: Current wording keeps the plundered-for-ourselves line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: we plundered for ourselves | footnote_text: Greek states the taking of cattle and city spoils as plunder for ourselves. Current wording preserves that war-plunder line. | source_basis: war plunder formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -99232,10 +99270,10 @@ Syntax notes: [TODO]
 Draft translation: And to Joshua I commanded at that time, saying, Your eyes have seen all that the Lord our God did to these two kings. So the Lord our God will do to all the kingdoms into which you are crossing there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πασας τας βασιλειας εφ ας συ διαβαινεις εκει | lemma: βασιλεια | διαβαινω | morphology: clause | chosen_rendering: So the Lord our God will do to all the kingdoms into which you are crossing there. | alternate_renderings: So the Lord our God will do to all the kingdoms through which you are crossing there. | rationale: Current wording keeps the crossing-into-kingdoms line close to the source-row phrasing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the kingdoms into which you are crossing there | footnote_text: Greek keeps the crossing line direct. Current wording preserves that phrasing. | source_basis: crossing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -99774,10 +99812,10 @@ Syntax notes: [TODO]
 Draft translation: And lest, looking up to heaven and seeing the sun and the moon and the stars and all the order of heaven, you be led astray and bow to them and serve them, things that the Lord your God assigned to all the nations under heaven.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντα τον κοσμον του ουρανου πλανηθεις προσκυνησης αυτοις και λατρευσης αυτοις | lemma: κοσμος | πλαναω | morphology: warning clause | chosen_rendering: And lest, looking up to heaven and seeing the sun and the moon and the stars and all the order of heaven, you be led astray and bow to them and serve them, things that the Lord your God assigned to all the nations under heaven. | alternate_renderings: Lest, looking up to heaven and seeing the sun and the moon and the stars and all the order of heaven, you be led astray and bow to them and serve them, things that the Lord your God assigned to all the nations under heaven. | rationale: Current wording keeps the order-of-heaven and led-astray warning line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all the order of heaven | footnote_text: Greek uses order/cosmos language for the heavens. Current wording preserves it. | source_basis: cosmos formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -100916,10 +100954,10 @@ Syntax notes: [TODO]
 Draft translation: Come near, you, and hear whatever the Lord our God may say, and you will speak to us all that the Lord our God speaks to you, and we shall hear and do.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ακουσομεθα και ποιησομεν | lemma: ακουω | ποιεω | morphology: response formula | chosen_rendering: Come near, you, and hear whatever the Lord our God may say, and you will speak to us all that the Lord our God speaks to you, and we shall hear and do. | alternate_renderings: Come near and hear whatever the Lord our God says, and you will speak to us all that the Lord our God speaks to you, and we will hear and do. | rationale: Current wording keeps the hear-and-do response formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: we shall hear and do. | footnote_text: Greek closes with the hear-and-do response formula. Current wording preserves it. | source_basis: response formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101098,10 +101136,10 @@ Syntax notes: [TODO]
 Draft translation: And hear, Israel, and keep to do, so that it may be well with you and that you may multiply greatly, just as the Lord, the God of your fathers, spoke, to give you a land flowing with milk and honey.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καθαπερ ελαλησεν κυριος ο θεος των πατερων σου δουναι σοι γην ρεουσαν γαλα και μελι | lemma: λαλεω | morphology: speech formula | chosen_rendering: And hear, Israel, and keep to do, so that it may be well with you and that you may multiply greatly, just as the Lord, the God of your fathers, spoke, to give you a land flowing with milk and honey. | alternate_renderings: As the Lord promised you a land flowing with milk and honey. | rationale: Greek says spoke to give you the land. Current wording keeps the speech form rather than smoothing to promise-language. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: spoke, to give you a land | footnote_text: Greek keeps the speech form here instead of smoothing to promised. | source_basis: speech formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101238,10 +101276,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, when the Lord your God brings you into the land that he swore to your fathers, to Abraham and Isaac and Jacob, to give you, cities great and good that you did not build,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πολεις μεγαλας και καλας | lemma: πολις | μεγας | καλος | morphology: phrase | chosen_rendering: cities great and good | alternate_renderings: great and goodly cities; large and good cities | rationale: Current wording preserves the simple double-adjective formula of the Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cities great and good | footnote_text: Greek simply doubles the adjectives. Current wording preserves that compact formula. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101298,10 +101336,10 @@ Syntax notes: [TODO]
 Draft translation: You shall fear the Lord your God, and you shall serve him and cling to him and swear by his name.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κυριον τον θεον σου φοβηθηση και αυτω λατρευσεις και προς αυτον κολληθηση και τω ονοματι αυτου ομη | lemma: φοβεω | λατρευω | κολλαω | ομνυμι | morphology: command sequence | chosen_rendering: You shall fear the Lord your God, and you shall serve him and cling to him and swear by his name. | alternate_renderings: You shall fear the Lord your God, serve him, cling to him, and swear by his name. | rationale: Current wording keeps the four-part loyalty sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cling to him | footnote_text: Greek keeps the cling-to-him loyalty verb in the sequence. Current wording preserves that covenant-attachment line. | source_basis: covenant loyalty formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101498,10 +101536,10 @@ Syntax notes: [TODO]
 Draft translation: And he brought us out from there so that he might bring us in, to give us this land that he swore to give to our fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ημας εξηγαγεν εκειθεν ινα εισαγαγη ημας δουναι ημιν την γην ταυτην | lemma: εξαγω | εισαγω | morphology: redemption purpose | chosen_rendering: And he brought us out from there so that he might bring us in, to give us this land that he swore to give to our fathers. | alternate_renderings: He brought us out from there so that he might bring us in, to give us this land that he swore to give to our fathers. | rationale: Current wording keeps the brought-us-out so-that-he-might-bring-us-in line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he brought us out from there so that he might bring us in | footnote_text: Greek gives the redemption purpose in paired out/in language. Current wording preserves it. | source_basis: redemption purpose | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101560,10 +101598,10 @@ Syntax notes: [TODO]
 Draft translation: And if the Lord your God brings you into the land into which you are entering there to inherit it, and he removes great nations from before your face, the Hittite and Gergesite and Amorite and Canaanite and Pherezite and Hivite and Jebusite, seven nations many and stronger than you,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επτα εθνη πολλα και ισχυροτερα υμων | lemma: πολυς | ισχυρος | morphology: nation-count line | chosen_rendering: And if the Lord your God brings you into the land into which you are entering there to inherit it, and he removes great nations from before your face, the Hittite and Gergesite and Amorite and Canaanite and Pherezite and Hivite and Jebusite, seven nations many and stronger than you, | alternate_renderings: Seven nations greater and mightier than you. | rationale: Greek says many and stronger than you. Current wording keeps that direct pair. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: many and stronger than you | footnote_text: Greek gives that direct pair for the seven nations. | source_basis: nation description | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101600,10 +101638,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall certainly not intermarry with them. Your daughter you shall not give to his son, and his daughter you shall not take for your son,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουδε μη γαμβρευσητε προς αυτους | lemma: γαμβρευω | morphology: strong prohibition clause | chosen_rendering: And you shall certainly not intermarry with them. Your daughter you shall not give to his son, and his daughter you shall not take for your son, | alternate_renderings: You shall certainly not intermarry with them; your daughter you shall not give to his son, and his daughter you shall not take for your son. | rationale: Current wording keeps the strong anti-intermarry line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall certainly not intermarry with them | footnote_text: Greek uses a strong prohibition here. Current wording preserves it. | source_basis: strong prohibition | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101780,10 +101818,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, when you hear all these ordinances and keep and do them, then the Lord your God will keep for you the covenant and the mercy that he swore to your fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διαφυλαξει κυριος ο θεος σου σοι την διαθηκην και το ελεος | lemma: διαφυλασσω | διαθηκη | ελεος | morphology: future clause | chosen_rendering: the Lord your God will keep for you the covenant and the mercy | alternate_renderings: the Lord your God will keep for you the covenant and the mercy | rationale: Current wording keeps the covenant-mercy line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the Lord your God will keep for you the covenant and the mercy | footnote_text: The Greek uses the covenant-and-mercy formula directly. The current wording preserves it. | source_basis: covenant-mercy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -102342,10 +102380,10 @@ Syntax notes: [TODO]
 Draft translation: your heart be lifted up and you forget the Lord your God who brought you out from the land of Egypt, from the house of slavery,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υψωθης τη καρδια και επιλαθη κυριου του θεου σου | lemma: καρδια | επιλανθανομαι | morphology: warning clause | chosen_rendering: your heart be lifted up and you forget the Lord your God who brought you out from the land of Egypt, from the house of slavery, | alternate_renderings: your heart be lifted up and you forget the Lord your God who brought you out from the land of Egypt, from the house of slavery, | rationale: Current wording keeps the lifted-up-heart warning explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your heart be lifted up and you forget | footnote_text: Greek pairs lifted-up heart with forgetting the Lord. Current wording preserves that warning sequence. | source_basis: warning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -102524,10 +102562,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall know today that the Lord your God, this one goes before your face. He is a consuming fire. He will utterly destroy them, and he will turn them back from before your face, and you shall destroy them, just as the Lord said to you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος αποστρεψει αυτους απο προσωπου σου | lemma: αποστρεφω | morphology: future active indicative 3 singular | chosen_rendering: And you shall know today that the Lord your God, this one goes before your face. He is a consuming fire. He will utterly destroy them, and he will turn them back from before your face, and you shall destroy them, just as the Lord said to you. | alternate_renderings: He will bring them down before you. | rationale: Greek says he will turn them back from before your face. Current wording preserves that motion language. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he will turn them back from before your face | footnote_text: Greek uses turn-back language here rather than simply bring them down. | source_basis: motion wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -102544,10 +102582,10 @@ Syntax notes: [TODO]
 Draft translation: Do not say in your heart, when the Lord your God consumes these nations from before your face, saying, Because of my righteousness the Lord brought me in to inherit this good land. Rather, because of the ungodliness of these nations the Lord will utterly destroy them from before your face.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη ειπης εν τη καρδια σου | lemma: λεγω | καρδια | morphology: warning formula | chosen_rendering: Do not say in your heart, when the Lord your God consumes these nations from before your face, saying, Because of my righteousness the Lord brought me in to inherit this good land. Rather, because of the ungodliness of these nations the Lord will utterly destroy them from before your face. | alternate_renderings: Do not say in your heart, when the Lord your God consumes these nations from before you, Because of my righteousness the Lord brought me in to inherit this good land; rather, because of the ungodliness of these nations the Lord will destroy them from before you. | rationale: Current wording keeps the say-in-your-heart warning formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Do not say in your heart | footnote_text: Greek opens with the say-in-your-heart warning formula. Current wording preserves it. | source_basis: warning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104068,10 +104106,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, when the Lord your God brings you into the land into which you are crossing there to inherit it, then you shall place the blessing on Mount Garizin and the curse on Mount Gaibal.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δωσεις την ευλογιαν επ ορος γαριζιν και την καταραν επ ορος γαιβαλ | lemma: διδωμι | ευλογια | καταρα | morphology: clause | chosen_rendering: you shall place the blessing on Mount Garizin and the curse on Mount Gaibal | alternate_renderings: you shall put the blessing on Mount Gerizim and the curse on Mount Ebal | rationale: Current wording keeps the mountain-formula line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall place the blessing on Mount Garizin and the curse on Mount Gaibal | footnote_text: The Greek uses the blessing-curse mountain formula directly. The current wording preserves it. | source_basis: mountain formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104350,10 +104388,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ | lemma: ἐπικαλέω | morphology: name-there formula | chosen_rendering: for his name to be called there | alternate_renderings: for his name to be invoked there | rationale: Current wording keeps the established name-there formula consistent. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: for his name to be called there | footnote_text: The Greek uses the established name-there formula here. The current wording keeps that formula consistent. | source_basis: name-there formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104370,10 +104408,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall rejoice before the Lord your God, you and your sons and your daughters, your male servants and your female servants, and the Levite within your gates, because he has no portion or inheritance with you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ευφρανθησεσθε εναντιον κυριου του θεου υμων | lemma: ευφραινω | μερις | κληρος | morphology: rejoicing clause | chosen_rendering: And you shall rejoice before the Lord your God, you and your sons and your daughters, your male servants and your female servants, and the Levite within your gates, because he has no portion or inheritance with you. | alternate_renderings: You shall rejoice before the Lord your God, you and your sons and your daughters, your male servants and your female servants, and the Levite within your gates, because he has no portion or inheritance with you. | rationale: Current wording keeps the before-the-Lord rejoicing line and the portion-or-inheritance formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: because he has no portion or inheritance with you | footnote_text: Greek states the Levite's lack of portion or inheritance directly. Current wording preserves that support rationale. | source_basis: inheritance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104390,10 +104428,10 @@ Syntax notes: [TODO]
 Draft translation: Watch yourself lest you bring up your whole burnt offerings in every place that you see,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προσεχε σεαυτω μη ανενεγκης τα ολοκαυτωματα σου εν παντι τοπω ου εαν ιδης | lemma: προσεχω | ολοκαυτωμα | morphology: warning formula | chosen_rendering: Watch yourself lest you bring up your whole burnt offerings in every place that you see, | alternate_renderings: Watch yourself lest you bring up your whole burnt offerings in every place that you see. | rationale: Current wording keeps the watch-yourself warning and bring-up wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Watch yourself lest you bring up your whole burnt offerings | footnote_text: Greek opens with a watch-yourself warning. Current wording preserves that cautionary form. | source_basis: warning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104650,10 +104688,10 @@ Syntax notes: [TODO]
 Draft translation: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ | lemma: ἐπικαλέω | morphology: name-there formula | chosen_rendering: for his name to be called there | alternate_renderings: for his name to be invoked there | rationale: Current wording keeps the established name-there formula consistent. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: for his name to be called there | footnote_text: The Greek uses the established name-there formula here too. The current wording keeps that formula consistent. | source_basis: name-there formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104690,10 +104728,10 @@ Syntax notes: [TODO]
 Draft translation: Keep and hear and do all these words that I command you, so that it may be well with you and with your sons forever, if you do what is good and pleasing before the Lord your God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: φυλασσου και ακουε και ποιησεις παντας τους λογους | lemma: φυλασσω | ακουω | ποιεω | morphology: imperative clause | chosen_rendering: Keep and hear and do all these words | alternate_renderings: observe and hear and do all these words | rationale: Current wording keeps the threefold command explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Keep and hear and do all these words | footnote_text: The Greek uses a threefold command. The current wording keeps all three verbs visible. | source_basis: threefold command | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104812,10 +104850,10 @@ Syntax notes: [TODO]
 Draft translation: and the sign or wonder comes that he spoke to you, saying, Let us go and serve other gods whom you do not know,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ελθη το σημειον η το τερας ο ελαλησεν προς σε λεγων πορευθωμεν και λατρευσωμεν θεοις ετεροις ους ουκ οιδατε | lemma: sign clause | morphology: textual verse slice | chosen_rendering: and the sign or wonder comes that he spoke to you, saying, Let us go and serve other gods whom you do not know, | alternate_renderings: You shall not listen to that prophet, for the Lord is testing you. | rationale: Greek verse division here preserves only the sign-and-invitation clause. The testing command belongs to the next verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sign or wonder comes | footnote_text: Greek verse division here contains only the sign-and-invitation clause. | source_basis: verse division | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104852,10 +104890,10 @@ Syntax notes: [TODO]
 Draft translation: After the Lord your God you shall walk, and him you shall fear, and his commands you shall keep, and his voice you shall hear, and to him you shall be joined.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και της φωνης αυτου ακουσεσθε και αυτω προστεθησεσθε | lemma: προστιθημι | morphology: covenant exhortation | chosen_rendering: After the Lord your God you shall walk, and him you shall fear, and his commands you shall keep, and his voice you shall hear, and to him you shall be joined. | alternate_renderings: You shall serve him and cling to him. | rationale: Greek ends with to him you shall be joined. Current wording keeps that form rather than smoothing to cling. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to him you shall be joined | footnote_text: Greek ends with joined rather than cling here. | source_basis: attachment wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104872,10 +104910,10 @@ Syntax notes: [TODO]
 Draft translation: And that prophet or that dreamer of the dream shall die, because he spoke to lead you astray from the Lord your God who brought you out from the land of Egypt, who redeemed you from slavery, to drive you out of the way that the Lord your God commanded you to walk in it. And you shall destroy the evil one from among you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αφανιεις τον πονηρον εξ υμων αυτων | lemma: αφανιζω | morphology: judgment formula | chosen_rendering: And that prophet or that dreamer of the dream shall die, because he spoke to lead you astray from the Lord your God who brought you out from the land of Egypt, who redeemed you from slavery, to drive you out of the way that the Lord your God commanded you to walk in it. And you shall destroy the evil one from among you. | alternate_renderings: So you shall put the evil away from your midst. | rationale: Greek says destroy the evil one from among you. Current wording keeps the singular personified form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: destroy the evil one from among you | footnote_text: Greek keeps the singular personified evil one here. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -105274,10 +105312,10 @@ Syntax notes: [TODO]
 Draft translation: And these you shall not eat from those that bring up cud and from those that part the hoof and split the claws: the camel and the hare and the hyrax, because they bring up cud but do not part the hoof. These are unclean for you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απο των διχηλουντων τας οπλας και ονυχιζοντων ονυχιστηρας | lemma: ονυχιζω | morphology: food law line | chosen_rendering: And these you shall not eat from those that bring up cud and from those that part the hoof and split the claws: the camel and the hare and the hyrax, because they bring up cud but do not part the hoof. These are unclean for you. | alternate_renderings: These you shall not eat of them that chew the cud and divide the hoof as the camel and the hare and the coney. | rationale: Greek says part the hoof and split the claws here and uses hyrax. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: split the claws | footnote_text: Greek says part the hoof and split the claws here and uses hyrax. | source_basis: animal detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -105736,10 +105774,10 @@ Syntax notes: [TODO]
 Draft translation: At the end of seven years you shall make a release.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δι' επτα ετων ποιησεις αφεσιν | lemma: αφεσις | morphology: release formula | chosen_rendering: At the end of seven years you shall make a release. | alternate_renderings: You shall make a release at the end of seven years. | rationale: Current wording keeps the short release formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall make a release | footnote_text: Greek uses the short release formula here. Current wording preserves that direct command. | source_basis: release formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -105836,10 +105874,10 @@ Syntax notes: [TODO]
 Draft translation: Because the Lord your God blessed you in the way he spoke to you, and you shall lend to many nations, but you shall not borrow, and you shall rule many nations, but they shall not rule you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δανιεις εθνεσιν πολλοις συ δε ου δανιη | lemma: δανειζω | morphology: future clause | chosen_rendering: you shall lend to many nations but you shall not borrow | alternate_renderings: you shall lend to many nations and not borrow | rationale: Current wording keeps the blessing formula explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall lend to many nations but you shall not borrow | footnote_text: The Greek keeps the blessing formula compact and direct. The current wording preserves it. | source_basis: blessing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -106036,10 +106074,10 @@ Syntax notes: [TODO]
 Draft translation: And if he says to you, I will not go out from you, because he loved you and your household, because it is well for him with you,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε λεγη προς σε ουκ εξελευσομαι απο σου οτι ηγαπηκεν σε και την οικιαν σου οτι ευ αυτω εστιν παρα σοι | lemma: ευ εστιν παρα | morphology: servant loyalty clause | chosen_rendering: And if he says to you, I will not go out from you, because he loved you and your household, because it is well for him with you, | alternate_renderings: If he says to you, I will not go out from you, because he loved you and your household, because it is well for him with you. | rationale: Current wording keeps the loyalty clause and it-is-well line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: it is well for him with you | footnote_text: Greek uses good-with-you language for the servant's choice. Current wording preserves it. | source_basis: servant loyalty clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -106598,10 +106636,10 @@ Syntax notes: [TODO]
 Draft translation: You shall not plant for yourself a grove, any tree, beside the altar of the Lord your God that you make for yourself.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου φυτευσεις σεαυτω αλσος παν ξυλον παρα το θυσιαστηριον κυριου του θεου σου | lemma: αλσος | ξυλον | morphology: prohibition clause | chosen_rendering: You shall not plant for yourself a grove, any tree, beside the altar of the Lord your God that you make for yourself. | alternate_renderings: You shall not plant for yourself a grove, any tree, beside the altar of the Lord your God that you make for yourself. | rationale: Current wording keeps the grove-any-tree prohibition explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a grove, any tree | footnote_text: Greek keeps the prohibition with both grove and any tree. Current wording preserves that paired ban. | source_basis: prohibition formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -107082,10 +107120,10 @@ Syntax notes: [TODO]
 Draft translation: And this is the due of the priests from the people, from those sacrificing the sacrifices, whether calf or sheep: he shall give to the priest the arm and the jaws and the stomach.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυτη η κρισις των ιερεων | lemma: κρισις | ιερευς | morphology: noun clause | chosen_rendering: And this is the due of the priests from the people, from those sacrificing the sacrifices, whether calf or sheep: he shall give to the priest the arm and the jaws and the stomach. | alternate_renderings: And this is the priests' due from the people, from those offering sacrifices, whether calf or sheep: the priest receives the arm, the jaws, and the stomach. | rationale: Current wording keeps the due-formula and the body-part list plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And this is the due of the priests | footnote_text: Greek begins with the priests' due formula and then lists the parts. Current wording keeps that structure plain. | source_basis: due formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -107102,10 +107140,10 @@ Syntax notes: [TODO]
 Draft translation: And the firstfruits of your grain and your wine and your oil, and the firstfruits of the shearings of your sheep, you shall give to him,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τας απαρχας του σιτου σου και του οινου σου και του ελαιου σου και την απαρχην των κουρων των προβατων σου δωσεις αυτω | lemma: απαρχη | morphology: priestly due | chosen_rendering: And the firstfruits of your grain and your wine and your oil, and the firstfruits of the shearings of your sheep, you shall give to him, | alternate_renderings: The firstfruits of your grain and your wine and your oil, and the firstfruits of the shearings of your sheep, you shall give to him. | rationale: Current wording keeps the firstfruits inventory line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the firstfruits of the shearings of your sheep | footnote_text: Greek keeps this priestly due in the same inventory line. Current wording preserves that tally. | source_basis: priestly due | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -107442,10 +107480,10 @@ Syntax notes: [TODO]
 Draft translation: And if you say in your heart, How shall we know the word that the Lord did not speak?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε ειπης εν τη καρδια σου πως γνωσομεθα το ρημα ο ουκ ελαλησεν κυριος | lemma: λεγω εν καρδια | morphology: testing prophet question | chosen_rendering: And if you say in your heart, How shall we know the word that the Lord did not speak? | alternate_renderings: If you say in your heart, How shall we know the word that the Lord did not speak? | rationale: Current wording keeps the in-your-heart question plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: if you say in your heart | footnote_text: Greek frames the question inwardly first. Current wording preserves that setup. | source_basis: testing prophet question | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -107564,10 +107602,10 @@ Syntax notes: [TODO]
 Draft translation: and whoever enters with his neighbor into the forest to gather wood, and his hand swings with the axe while cutting the wood, and the iron flies from the wood and meets his neighbor and he dies, this one shall flee to one of these cities and live,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκκρουσθη η χειρ αυτου τη αξινη κοπτοντος το ξυλον και εκπεσον το σιδηριον απο του ξυλου τυχη του πλησιον | lemma: εκκρουω | τυγχανω | morphology: accident law details | chosen_rendering: and whoever enters with his neighbor into the forest to gather wood, and his hand swings with the axe while cutting the wood, and the iron flies from the wood and meets his neighbor and he dies, this one shall flee to one of these cities and live, | alternate_renderings: The axe head slips from the handle and lights upon his neighbor. | rationale: Greek says his hand swings and the iron flies from the wood and meets his neighbor. Current wording keeps that motion. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the iron flies from the wood and meets his neighbor | footnote_text: Greek narrates the accident with those motion verbs. | source_basis: accident wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -107664,10 +107702,10 @@ Syntax notes: [TODO]
 Draft translation: and innocent blood shall not be shed in your land that the Lord your God gives you as an inheritance, and bloodguilt shall not be in you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εκχυθησεται αιμα αναιτιον εν τη γη σου | lemma: αιμα αναιτιον | morphology: law purpose clause | chosen_rendering: and innocent blood shall not be shed in your land that the Lord your God gives you as an inheritance, and bloodguilt shall not be in you. | alternate_renderings: Innocent blood shall not be shed in your land that the Lord your God gives you as an inheritance, and bloodguilt shall not be in you. | rationale: Current wording keeps the innocent-blood purpose clause plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: innocent blood shall not be shed | footnote_text: Greek states the law's purpose with innocent-blood language. Current wording preserves it. | source_basis: law purpose clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -108126,10 +108164,10 @@ Syntax notes: [TODO]
 Draft translation: And if they do not obey you and make war against you, then you shall besiege it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν δε μη υπακουσωσιν σοι και ποιησωσιν προς σε πολεμον περικαθιεις αυτην | lemma: υπακουω | περικαθιζω | morphology: war law | chosen_rendering: And if they do not obey you and make war against you, then you shall besiege it. | alternate_renderings: If they do not obey you and make war against you, then you shall besiege it. | rationale: Current wording keeps the obey-or-besiege sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: if they do not obey you and make war against you | footnote_text: Greek gives the refusal as not obeying, then making war. Current wording preserves that sequence. | source_basis: war-law formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -108186,10 +108224,10 @@ Syntax notes: [TODO]
 Draft translation: Thus you shall do to all the cities that are very far from you, which are not from the cities of these nations.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τας πολεις τας μακραν ουσας απο σου σφοδρα | lemma: μακραν | morphology: qualification clause | chosen_rendering: Thus you shall do to all the cities that are very far from you, which are not from the cities of these nations. | alternate_renderings: Thus you shall do to all the cities very far from you, which are not from the cities of these nations. | rationale: Current wording keeps the very-far qualification plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: very far from you | footnote_text: Greek strengthens the distance line with very. Current wording preserves it. | source_basis: distance qualifier | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -108528,10 +108566,10 @@ Syntax notes: [TODO]
 Draft translation: then you shall bring her inside your house, and she shall shave her head and pare her nails,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εισαξεις αυτην ενδον εις την οικιαν σου και ξυρησεις την κεφαλην αυτης και περιονυχιεις αυτην | lemma: ξυραω | περιονυχιζω | morphology: law clause | chosen_rendering: then you shall bring her inside your house, and she shall shave her head and pare her nails, | alternate_renderings: You shall bring her inside your house, and she shall shave her head and pare her nails, | rationale: Current wording keeps the shave-head pare-nails sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: shave her head and pare her nails | footnote_text: Greek keeps the captive-woman ritual sequence explicit. Current wording preserves that law detail. | source_basis: law detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -108810,10 +108848,10 @@ Syntax notes: [TODO]
 Draft translation: Thus you shall do with his donkey, and thus you shall do with his garment, and thus you shall do with every loss of your brother, whatever may be lost from him and you find. You shall not be able to overlook it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου δυνηση υπεριδειν | lemma: υπεροραω | morphology: lost property rule | chosen_rendering: Thus you shall do with his donkey, and thus you shall do with his garment, and thus you shall do with every loss of your brother, whatever may be lost from him and you find. You shall not be able to overlook it. | alternate_renderings: You may not hide yourself. | rationale: Greek says you shall not be able to overlook it. Current wording keeps that direct expression. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall not be able to overlook it | footnote_text: Greek keeps that direct line here. | source_basis: direct expression | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -109270,10 +109308,10 @@ Syntax notes: [TODO]
 Draft translation: And to the young woman you shall do nothing. The young woman has no sin worthy of death, because as when a man rises against his neighbor and murders his life, so is this matter,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τη νεανιδι ου ποιησετε ουδεν ουκ εστιν τη νεανιδι αμαρτημα θανατου | lemma: νεανις | αμαρτημα | morphology: law clause | chosen_rendering: And to the young woman you shall do nothing. The young woman has no sin worthy of death, because as when a man rises against his neighbor and murders his life, so is this matter, | alternate_renderings: To the young woman you shall do nothing. The young woman has no sin worthy of death, because as when a man rises against his neighbor and murders his life, so is this matter, | rationale: Current wording keeps the no-sin-worthy-of-death line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: no sin worthy of death | footnote_text: Greek explicitly says the young woman has no sin of death. Current wording preserves that legal judgment. | source_basis: legal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -109732,10 +109770,10 @@ Syntax notes: [TODO]
 Draft translation: You shall not lend at interest to your brother, interest of silver and interest of food and interest of anything that you lend.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εκτοκιεις τω αδελφω σου τοκον αργυριου και τοκον βρωματων και τοκον παντος πραγματος ου αν εκδανεισης | lemma: verse mapping difference | morphology: no-interest line | chosen_rendering: You shall not lend at interest to your brother, interest of silver and interest of food and interest of anything that you lend. | alternate_renderings: To a foreigner you may lend at interest, but to your brother you shall not lend at interest. | rationale: This LXX verse number carries the no-interest-to-brother line rather than the MT foreigner line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: interest of silver and interest of food | footnote_text: This LXX verse number carries the no-interest-to-brother line rather than the MT foreigner line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -109914,10 +109952,10 @@ Syntax notes: [TODO]
 Draft translation: and the later man hates her and writes for her a document of divorce and gives it into her hands and sends her out from his house, or the later man dies who took her to himself as a wife,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: γραψει αυτη βιβλιον αποστασιου | lemma: γραφω | βιβλιον | αποστασιον | morphology: future clause | chosen_rendering: writes for her a document of divorce | alternate_renderings: writes her a bill of divorce | rationale: Current wording keeps the divorce-document line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: writes for her a document of divorce | footnote_text: The Greek uses a divorce-document line directly. The current wording preserves that legal wording. | source_basis: divorce-document line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -110516,10 +110554,10 @@ Syntax notes: [TODO]
 Draft translation: And if men fight together, a man with his brother, and the wife of one comes near to rescue her husband from the hand of the one striking him, and, stretching out her hand, seizes his testicles,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εκτεινασα την χειρα επιλαβηται των διδυμων αυτου | lemma: διδυμοι | morphology: bodily term | chosen_rendering: And if men fight together, a man with his brother, and the wife of one comes near to rescue her husband from the hand of the one striking him, and, stretching out her hand, seizes his testicles, | alternate_renderings: She takes hold of his secrets or private parts. | rationale: Greek literally says his twins here. Current wording keeps the concrete bodily term. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seizes his testicles | footnote_text: Greek literally says his twins here. | source_basis: bodily term | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -110636,10 +110674,10 @@ Syntax notes: [TODO]
 Draft translation: Remember what Amalek did to you on the road when you came out from Egypt,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μνησθητι οσα εποιησεν σοι αμαληκ εν τη οδω εκπορευομενου σου εξ αιγυπτου | lemma: μιμνησκομαι | morphology: remembrance command | chosen_rendering: Remember what Amalek did to you on the road when you came out from Egypt, | alternate_renderings: Remember what Amalek did to you on the road when you came out from Egypt. | rationale: Current wording keeps the remembrance command plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Remember what Amalek did to you | footnote_text: Greek opens with a direct remembrance command. Current wording preserves it. | source_basis: remembrance command | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -110698,10 +110736,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, if you enter into the land that the Lord your God gives you as an inheritance and inherit it and dwell on it,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν εισελθης εις την γην ην κυριος ο θεος σου διδωσιν σοι εν κληρω | lemma: κληρος | morphology: entry clause | chosen_rendering: And it shall be, if you enter into the land that the Lord your God gives you as an inheritance and inherit it and dwell on it, | alternate_renderings: It shall be, if you enter into the land that the Lord your God gives you as an inheritance and inherit it and dwell on it, | rationale: Current wording keeps the enter-inherit-dwell sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: inherit it and dwell on it | footnote_text: Greek moves through enter → inherit → dwell in sequence. Current wording preserves that land-possession pattern. | source_basis: entry formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -110878,10 +110916,10 @@ Syntax notes: [TODO]
 Draft translation: And now, behold, I have brought the firstfruits of the produce of the land that you gave me, Lord, a land flowing with milk and honey. And you shall leave them there before the Lord your God and worship there before the Lord your God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενηνοχα την απαρχην των γενηματων της γης | lemma: απαρχη | γενημα | morphology: noun phrase | chosen_rendering: I have brought the firstfruits of the produce of the land | alternate_renderings: I have brought the firstfruits of the fruits of the land | rationale: Current wording keeps the firstfruits line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I have brought the firstfruits of the produce of the land | footnote_text: The Greek uses firstfruits language directly. The current wording preserves that line. | source_basis: firstfruits line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -111100,10 +111138,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, on the day you cross the Jordan into the land that the Lord your God gives you, you shall set up for yourself great stones and whitewash them with lime,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: στησεις σεαυτω λιθους μεγαλους και κονιασεις αυτους κονια | lemma: ιστημι | λιθος | κονιαω | morphology: future clause | chosen_rendering: you shall set up for yourself great stones and whitewash them with lime | alternate_renderings: you shall set up great stones and plaster them with plaster | rationale: Current wording keeps the construction line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall set up for yourself great stones and whitewash them with lime | footnote_text: The Greek construction line is direct. The current wording preserves it. | source_basis: construction line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -111822,10 +111860,10 @@ Syntax notes: [TODO]
 Draft translation: May the Lord open for you his good treasury, the heaven, to give rain to your land in its season and bless all the works of your hands. And you shall lend to many nations, but you shall not borrow, and you shall rule many nations, but they shall not rule you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δανιεις εθνεσιν πολλοις συ δε ου δανιη και αρξεις συ εθνων πολλων σου δε ουκ αρξουσιν | lemma: δανιζω | αρχω | morphology: blessing promise | chosen_rendering: May the Lord open for you his good treasury, the heaven, to give rain to your land in its season and bless all the works of your hands. And you shall lend to many nations, but you shall not borrow, and you shall rule many nations, but they shall not rule you. | alternate_renderings: You shall lend to many nations and you shall not borrow. | rationale: Greek adds the rule-many-nations line here. Current wording keeps the fuller blessing promise. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they shall not rule you | footnote_text: Greek adds the rule-many-nations line here. | source_basis: added blessing line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -111982,10 +112020,10 @@ Syntax notes: [TODO]
 Draft translation: May the Lord send to you want and withering and consumption in everything to which you put your hand, whatever you may do, until he utterly destroys you and until he quickly perishes you, because of your evil practices, because you abandoned me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: την ενδειαν και την εκλιμιαν και την αναλωσιν | lemma: ενδεια | εκλιμια | αναλωσις | morphology: curse triad | chosen_rendering: May the Lord send to you want and withering and consumption in everything to which you put your hand, whatever you may do, until he utterly destroys you and until he quickly perishes you, because of your evil practices, because you abandoned me. | alternate_renderings: Want and famine and consumption; cursing and vexation and rebuke. | rationale: Greek gives a concrete triad of want, withering, and consumption here. Current wording preserves it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: want and withering and consumption | footnote_text: Greek gives a concrete curse triad here rather than a smoother summary. | source_basis: curse triad | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -112262,10 +112300,10 @@ Syntax notes: [TODO]
 Draft translation: and you shall be maddened by the sights of your eyes that you see.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εση παραπληκτος δια τα οραματα των οφθαλμων σου α βλεψη | lemma: παραπληκτος | morphology: curse effect | chosen_rendering: and you shall be maddened by the sights of your eyes that you see. | alternate_renderings: You shall be maddened by the sights of your eyes that you see. | rationale: Current wording keeps the curse effect plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall be maddened by the sights of your eyes | footnote_text: Greek expresses the curse as mental derangement from what is seen. Current wording preserves it. | source_basis: curse effect | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -112502,10 +112540,10 @@ Syntax notes: [TODO]
 Draft translation: And they shall be in you as signs and wonders and in your seed forever,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εσται εν σοι σημεια και τερατα και εν τω σπερματι σου εως του αιωνος | lemma: σημειον | τερας | morphology: curse formula | chosen_rendering: And they shall be in you as signs and wonders and in your seed forever, | alternate_renderings: They shall be in you as signs and wonders and in your seed forever. | rationale: Current wording keeps the signs-and-wonders curse line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: signs and wonders | footnote_text: Greek gives the curse result in the signs-and-wonders formula. Current wording preserves that wording. | source_basis: curse formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -112802,10 +112840,10 @@ Syntax notes: [TODO]
 Draft translation: And every sickness and every blow not written in the book of this law, the Lord will bring upon you until he utterly destroys you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και πασαν μαλακιαν και πασαν πληγην την μη γεγραμμενην εν τω βιβλιω του νομου τουτου | lemma: μαλακια | πληγη | morphology: judgment clause | chosen_rendering: And every sickness and every blow not written in the book of this law, the Lord will bring upon you until he utterly destroys you. | alternate_renderings: Every sickness and every blow not written in the book of this law the Lord will bring upon you until he destroys you utterly. | rationale: Current wording keeps the not-written sickness-and-blow threat explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: every sickness and every blow not written | footnote_text: Greek keeps the not-written sickness-and-blow warning explicit. Current wording preserves that judgment formula. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113324,10 +113362,10 @@ Syntax notes: [TODO]
 Draft translation: and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επιφημισηται εν τη καρδια αυτου λεγων οσια μοι γενοιτο οτι εν τη αποπλανησει της καρδιας μου πορευσομαι ινα μη συναπολεση ο αμαρτωλος τον αναμαρτητον | lemma: επιφημιζω | οσιος | αποπλανησις | morphology: curse-response line | chosen_rendering: and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless, | alternate_renderings: He blesses himself in his heart, saying I shall have peace though I walk in the stubbornness of my heart. | rationale: Greek here is markedly different and difficult. Current wording keeps the transmitted Greek strangeness visible instead of harmonizing to the familiar MT line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Holy things shall be mine | footnote_text: Greek here is markedly different and difficult; current wording keeps the transmitted strangeness visible. | source_basis: difficult greek | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113666,10 +113704,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord your God will put these curses on your enemies and on those hating you who persecuted you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και δωσει κυριος ο θεος σου τας αρας ταυτας επι τους εχθρους σου και επι τους μισουντας σε οι εδιωξαν σε | lemma: αρα | morphology: reversal curse line | chosen_rendering: And the Lord your God will put these curses on your enemies and on those hating you who persecuted you. | alternate_renderings: The Lord your God will put these curses on your enemies and on those hating you who persecuted you. | rationale: Current wording keeps the reversal curse line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: put these curses on your enemies | footnote_text: Greek turns the curses back on the enemies. Current wording preserves that reversal. | source_basis: reversal curse line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113686,10 +113724,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall turn back and obey the voice of the Lord your God and do his commands that I command you today.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ επιστραφηση και εισακουση της φωνης κυριου του θεου σου και ποιησεις τας εντολας αυτου | lemma: επιστρεφω | εισακουω | morphology: return formula | chosen_rendering: And you shall turn back and obey the voice of the Lord your God and do his commands that I command you today. | alternate_renderings: You shall turn back and obey the voice of the Lord your God and do his commands that I command you today. | rationale: Current wording keeps the turn-back and obey line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall turn back and obey the voice | footnote_text: Greek joins return and obedience in one line. Current wording preserves that formula. | source_basis: return formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113846,10 +113884,10 @@ Syntax notes: [TODO]
 Draft translation: If you obey the commands of the Lord your God that I command you today, to love the Lord your God, to walk in all his ways, to keep his ordinances and his judgments, then you shall live and be many, and the Lord your God will bless you in all the land into which you are entering there to inherit it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ζησεσθε και πολλοι εσεσθε και ευλογησει σε κυριος ο θεος σου | lemma: ζαω | πολυς | morphology: blessing line | chosen_rendering: If you obey the commands of the Lord your God that I command you today, to love the Lord your God, to walk in all his ways, to keep his ordinances and his judgments, then you shall live and be many, and the Lord your God will bless you in all the land into which you are entering there to inherit it. | alternate_renderings: You shall live and multiply, and the Lord your God will bless you in the land. | rationale: Greek says live and be many rather than live and multiply. Current wording keeps that line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: live and be many | footnote_text: Greek says be many rather than multiply here. | source_basis: blessing wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113926,10 +113964,10 @@ Syntax notes: [TODO]
 Draft translation: loving the Lord your God, obeying his voice, and holding fast to him, because this is your life and the length of your days, for you to dwell on the land that the Lord swore to your fathers, Abraham and Isaac and Jacob, to give to them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι τουτο η ζωη σου και η μακροτης των ημερων σου | lemma: life formula | morphology: closing clause | chosen_rendering: loving the Lord your God, obeying his voice, and holding fast to him, because this is your life and the length of your days, for you to dwell on the land that the Lord swore to your fathers, Abraham and Isaac and Jacob, to give to them. | alternate_renderings: For he is your life and the length of your days. | rationale: Greek says this is your life, not he is your life. Current wording keeps that reading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: this is your life | footnote_text: Greek reads this is your life rather than he is your life. | source_basis: life formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -114168,10 +114206,10 @@ Syntax notes: [TODO]
 Draft translation: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will hear to do all the words of this law.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκκλησιασας τον λαον τους ανδρας και τας γυναικας και τα εκγονα και τον προσηλυτον τον εν ταις πολεσιν υμων | lemma: εκγονα | προσηλυτος | morphology: assembly list | chosen_rendering: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will hear to do all the words of this law. | alternate_renderings: Assemble the people, men women children and the stranger within your gates. | rationale: Greek says children and the proselyte in your cities. Current wording keeps that list and setting visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: children and the proselyte in your cities | footnote_text: Greek gives that fuller assembly list here. | source_basis: assembly wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -114528,10 +114566,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses spoke in the ears of the whole assembly of Israel the words of this song until the end.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εις τα ωτα πασης εκκλησιας ισραηλ τα ρηματα της ωδης ταυτης εως εις τελος | lemma: ους | εκκλησια | ωδη | morphology: formula clause | chosen_rendering: And Moses spoke in the ears of the whole assembly of Israel the words of this song until the end. | alternate_renderings: Moses spoke in the hearing of the whole assembly of Israel the words of this song to the end. | rationale: Current wording keeps the in-the-ears formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in the ears of the whole assembly of Israel | footnote_text: Greek uses an in-the-ears formula. Current wording preserves it. | source_basis: hearing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -114670,10 +114708,10 @@ Syntax notes: [TODO]
 Draft translation: Remember days of old; understand the years of generation after generation. Ask your father, and he will report to you, your elders, and they will tell you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μνησθητε ημερας αιωνος συνετε ετη γενεας γενεων | lemma: μιμνησκομαι | συνιημι | morphology: appeal clause | chosen_rendering: Remember days of old; understand the years of generation after generation. Ask your father, and he will report to you, your elders, and they will tell you. | alternate_renderings: Remember days of old; understand the years of generation after generation. Ask your father, and he will report to you, your elders, and they will tell you. | rationale: Current wording keeps the remember-understand-ask sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Remember days of old | footnote_text: Greek opens with remember and understand before asking father and elders. Current wording preserves that teaching sequence. | source_basis: teaching formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -114710,10 +114748,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εγενηθη μερις κυριου λαος αυτου ιακωβ σχοινισμα κληρονομιας αυτου ισραηλ | lemma: μερις | σχοινισμα | morphology: inheritance clause | chosen_rendering: And the Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel. | alternate_renderings: The Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel. | rationale: Current wording keeps the portion and measuring-line inheritance image explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the measuring line of his inheritance | footnote_text: Greek uses measuring-line language for Israel here. Current wording preserves that inheritance image. | source_basis: inheritance image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -114990,10 +115028,10 @@ Syntax notes: [TODO]
 Draft translation: I will gather evils upon them; I will spend my arrows on them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συναξω εις αυτους κακα και τα βελη μου συντελεσω εις αυτους | lemma: συναγω | συντελεω | morphology: judgment threat | chosen_rendering: I will gather evils upon them; I will spend my arrows on them. | alternate_renderings: I will gather evils upon them; I will spend my arrows on them. | rationale: Current wording keeps the stacked threat line direct. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will gather evils upon them | footnote_text: Greek stacks the judgment threats here. Current wording preserves that severity. | source_basis: judgment threat | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -115090,10 +115128,10 @@ Syntax notes: [TODO]
 Draft translation: Because they are a nation ruined of counsel, and there is no understanding in them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι εθνος απολωλεκος βουλην εστιν και ουκ εστιν εν αυτοις επιστημη | lemma: βουλη | επιστημη | morphology: assessment line | chosen_rendering: Because they are a nation ruined of counsel, and there is no understanding in them. | alternate_renderings: They are a nation ruined of counsel, and there is no understanding in them. | rationale: Current wording keeps the counsel-and-understanding assessment plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a nation ruined of counsel | footnote_text: Greek gives a blunt national assessment. Current wording preserves that phrasing. | source_basis: assessment line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -116718,10 +116756,10 @@ Syntax notes: [TODO]
 Draft translation: And answering Joshua they said, Everything that you command us we will do, and into every place where you send us we will go.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντα οσα αν εντειλη ημιν ποιησομεν και εις παντα τοπον ου εαν αποστειλης ημας πορευσομεθα | lemma: εντελλομαι | αποστελλω | morphology: response clause | chosen_rendering: And answering Joshua they said, Everything that you command us we will do, and into every place where you send us we will go. | alternate_renderings: Answering Joshua, they said, Everything you command us we will do, and every place you send us we will go. | rationale: Current wording keeps the do-and-go response formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Everything that you command us we will do | footnote_text: Greek opens the response with a direct do-what-you-command formula. Current wording preserves it. | source_basis: response formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -118044,10 +118082,10 @@ Syntax notes: [TODO]
 Draft translation: when the Lord our God dried up the water of the Jordan from before them until they crossed, just as the Lord our God did to the Red Sea, which the Lord our God dried up before us until we passed over,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αποξηραναντος κυριου του θεου ημων το υδωρ του ιορδανου | lemma: αποξηραινω | υδωρ | morphology: narrative clause | chosen_rendering: when the Lord our God dried up the water of the Jordan from before them until they crossed, just as the Lord our God did to the Red Sea, which the Lord our God dried up before us until we passed over, | alternate_renderings: when the Lord our God dried up the water of the Jordan before them until they crossed, just as the Lord our God did to the Red Sea, which he dried up before us until we passed over, | rationale: Current wording keeps the dried-up-water parallel with the Red Sea explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: dried up the water of the Jordan | footnote_text: Greek uses the dried-up-water line and parallels it with the Red Sea. Current wording preserves that pattern. | source_basis: water miracle formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -118708,10 +118746,10 @@ Syntax notes: [TODO]
 Draft translation: But you, keep yourselves very carefully from the devoted thing, lest, desiring, you yourselves take from the devoted thing and make the camp of the sons of Israel a devoted thing and crush us.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μηποτε ενθυμηθεντες υμεις αυτοι λαβητε απο του αναθεματος και ποιησητε την παρεμβολην των υιων ισραηλ αναθεμα και εκτριψητε ημας | lemma: ενθυμεομαι | αναθεμα | εκτριβω | morphology: aorist participle + cultic noun + aorist subjunctive | chosen_rendering: But you, keep yourselves very carefully from the devoted thing, lest, desiring, you yourselves take from the devoted thing and make the camp of the sons of Israel a devoted thing and crush us. | alternate_renderings: Lest you take from the devoted thing and trouble the camp. | rationale: Greek includes the desiring clause and ends with crush us. Current wording keeps both. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: lest, desiring, you yourselves take | footnote_text: Greek includes the desiring clause before the taking. | source_basis: warning syntax | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -118748,10 +118786,10 @@ Syntax notes: [TODO]
 Draft translation: And the priests sounded with the trumpets, and when the people heard the voice of the trumpets, all the people shouted together with a great and strong shout, and the whole wall fell around, and all the people went up into the city.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ηλαλαξεν πας ο λαος αμα αλαλαγμω μεγαλω και ισχυρω και επεσεν απαν το τειχος κυκλω | lemma: αλαλαγμος | κυκλω | morphology: shout + wall clause | chosen_rendering: And the priests sounded with the trumpets, and when the people heard the voice of the trumpets, all the people shouted together with a great and strong shout, and the whole wall fell around, and all the people went up into the city. | alternate_renderings: The people shouted with a great shout and the wall fell down flat. | rationale: Greek says the people shouted together and the whole wall fell around. Current wording preserves that shape. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: shouted together with a great and strong shout | footnote_text: Greek piles up the shout language and says the wall fell around. | source_basis: battle scene wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -119130,10 +119168,10 @@ Syntax notes: [TODO]
 Draft translation: The sons of Israel will certainly not be able to stand against the face of their enemies. They will turn neck before their enemies, because they have become a devoted thing. I will not add to be with you any longer unless you remove the devoted thing from among you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυχενα επιστρεψουσιν εναντι των εχθρων αυτων οτι εγενηθησαν αναθεμα | lemma: αυχην | αναθεμα | morphology: defeat oracle | chosen_rendering: The sons of Israel will certainly not be able to stand against the face of their enemies. They will turn neck before their enemies, because they have become a devoted thing. I will not add to be with you any longer unless you remove the devoted thing from among you. | alternate_renderings: They will turn their backs before their enemies, because they were accursed. | rationale: Greek says turn neck and become a devoted thing here. Current wording keeps those harder forms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: turn neck before their enemies | footnote_text: Greek says turn neck and become a devoted thing here. | source_basis: hard wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -120194,10 +120232,10 @@ Syntax notes: [TODO]
 Draft translation: These breads, hot, we provisioned them on the day when we went out to come to you, but now they are dried out and have become eaten.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτοι οι αρτοι θερμους εφωδιασθημεν αυτους | lemma: αρτος | εφοδιαζω | morphology: clause | chosen_rendering: These breads, hot, we provisioned them on the day when we went out to come to you, but now they are dried out and have become eaten. | alternate_renderings: These breads, hot, we provisioned them on the day we went out to come to you, but now they are dried out and have become eaten. | rationale: Current wording keeps the hot-breads provision line close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: These breads, hot, we provisioned them on the day when we went out to come to you, but now they are dried out and have become eaten. | footnote_text: Greek keeps the travel-provision claim very literal. Current wording preserves that shape. | source_basis: travel claim | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -120876,10 +120914,10 @@ Syntax notes: [TODO]
 Draft translation: And it happened, when Joshua and every son of Israel stopped cutting them down with a very great slaughter to the end, and those being saved were saved into the fortified cities,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι διασωζομενοι διεσωθησαν εις τας πολεις τας οχυρας | lemma: διασωζω | οχυρος | morphology: narrative clause | chosen_rendering: And it happened, when Joshua and every son of Israel stopped cutting them down with a very great slaughter to the end, and those being saved were saved into the fortified cities, | alternate_renderings: When Joshua and every son of Israel stopped cutting them down with a very great slaughter to the end, those being saved were saved into the fortified cities. | rationale: Current wording keeps the survivors-saved-into-fortified-cities line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: those being saved were saved into the fortified cities | footnote_text: Greek uses a survivors-saved line with repetition. Current wording preserves it. | source_basis: survivor formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -121316,10 +121354,10 @@ Syntax notes: [TODO]
 Draft translation: And all their kings and their land Joshua struck at one time, because the Lord God of Israel fought together with Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και παντας τους βασιλεις αυτων και την γην αυτων επαταξεν ιησους εις απαξ οτι κυριος ο θεος ισραηλ συνεπολεμει τω ισραηλ | lemma: συνεπολεμεω | morphology: victory summary | chosen_rendering: And all their kings and their land Joshua struck at one time, because the Lord God of Israel fought together with Israel. | alternate_renderings: All their kings and their land Joshua struck at one time, because the Lord God of Israel fought together with Israel. | rationale: Current wording keeps the fought-together line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: fought together with Israel | footnote_text: Greek uses with-Israel battle language here. Current wording preserves that victory summary. | source_basis: victory summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -121718,10 +121756,10 @@ Syntax notes: [TODO]
 Draft translation: Because from the Lord it came to strengthen their heart to meet in war against Israel, so that they might be utterly destroyed, so that no mercy might be given to them, but so that they might be utterly destroyed in the way the Lord said to Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι δια κυριου εγενετο κατισχυσαι αυτων την καρδιαν | lemma: κατισχυω | morphology: infinitive clause | chosen_rendering: Because from the Lord it came to strengthen their heart to meet in war against Israel, so that they might be utterly destroyed, so that no mercy might be given to them, but so that they might be utterly destroyed in the way the Lord said to Moses. | alternate_renderings: It was of the Lord to harden their hearts. | rationale: Greek says from the Lord it came to strengthen their heart. Current wording keeps that formulation. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from the Lord it came to strengthen their heart | footnote_text: Greek frames the hardening line with from the Lord it came to strengthen their heart. | source_basis: causal wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -122622,10 +122660,10 @@ Syntax notes: [TODO]
 Draft translation: and Jassa and Kedemoth and Mephaath,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ιασσα και κεδημωθ και μεφααθ | lemma: place list | morphology: territory listing | chosen_rendering: and Jassa and Kedemoth and Mephaath, | alternate_renderings: Jassa and Kedemoth and Mephaath. | rationale: Current wording keeps the territory listing plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Jassa and Kedemoth and Mephaath | footnote_text: Greek gives a plain place-name list here. Current wording preserves it. | source_basis: territory listing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -122822,10 +122860,10 @@ Syntax notes: [TODO]
 Draft translation: This is the inheritance of the sons of Gad according to their clans, their cities and their villages.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυτη η κληρονομια υιων γαδ κατα δημους αυτων | lemma: κληρονομια | δημος | morphology: noun clause | chosen_rendering: This is the inheritance of the sons of Gad according to their clans, their cities and their villages. | alternate_renderings: This is the inheritance of the sons of Gad according to their divisions, their cities and their villages. | rationale: Current wording keeps the inheritance summary plain and close to the source-row wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: This is the inheritance of the sons of Gad according to their clans | footnote_text: Greek uses the inheritance-summary formula directly. Current wording keeps it plain. | source_basis: inheritance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -126534,10 +126572,10 @@ Syntax notes: [TODO]
 Draft translation: This is the inheritance of the tribe of the sons of Dan according to their clans, their cities and their villages. And the sons of Dan did not drive out the Amorite who hemmed them in on the mountain, and the Amorites did not allow them to go down into the valley, and they pressed the boundary of their portion away from them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ουκ εξεθλιψαν οι υιοι δαν τον αμορραιον τον θλιβοντα αυτους εν τω ορει | lemma: verse mapping difference | morphology: dan addition | chosen_rendering: This is the inheritance of the tribe of the sons of Dan according to their clans, their cities and their villages. And the sons of Dan did not drive out the Amorite who hemmed them in on the mountain, and the Amorites did not allow them to go down into the valley, and they pressed the boundary of their portion away from them. | alternate_renderings: The border of the children of Dan went out too little for them; therefore the children of Dan went up against Leshem. | rationale: Greek appends the Dan-Amorite pressure notice here rather than the MT Leshem notice. Current wording keeps the Greek addition. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pressed boundary of their portion | footnote_text: Greek appends the Dan-Amorite pressure notice here rather than the MT Leshem notice. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -127900,10 +127938,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απεστειλαν ... εις γην γαλααδ τον τε φινεες | lemma: αποστελλω | morphology: narrative clause | chosen_rendering: And the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest, | alternate_renderings: The sons of Israel sent to the sons of Reuben, the sons of Gad, and the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest. | rationale: Current wording keeps the direct sending line and full priestly identification. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas | footnote_text: Greek gives a long direct sending line with Phinehas named after the destination group. Current wording preserves that shape. | source_basis: sending formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -128100,10 +128138,10 @@ Syntax notes: [TODO]
 Draft translation: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θυσίαν σωτηρίου | lemma: θυσία | σωτήριος | morphology: accusative cultic phrase | chosen_rendering: a sacrifice of salvation | alternate_renderings: a sacrifice of deliverance; a peace offering | rationale: Current wording keeps the salvation-shaped sacrificial wording. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a sacrifice of salvation | footnote_text: The Greek keeps salvation-shaped sacrificial wording here. The current wording preserves that cultic line rather than harmonizing to peace-offering tradition. | source_basis: soteria sacrifice formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -128200,10 +128238,10 @@ Syntax notes: [TODO]
 Draft translation: And we said, if ever it happens and they speak to us and to our generations tomorrow, then we shall say, See the likeness of the altar of the Lord, which our fathers made, not for offerings nor for sacrifices, but it is a witness between you and us and between our sons.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδετε ομοιωμα του θυσιαστηριου κυριου | lemma: ομοιωμα | morphology: noun phrase | chosen_rendering: And we said, if ever it happens and they speak to us and to our generations tomorrow, then we shall say, See the likeness of the altar of the Lord, which our fathers made, not for offerings nor for sacrifices, but it is a witness between you and us and between our sons. | alternate_renderings: Behold the pattern of the altar of the Lord. | rationale: Greek says likeness of the altar and keeps the witness line explicit. Current wording preserves that. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: likeness of the altar | footnote_text: Greek says likeness of the altar and keeps the witness line explicit. | source_basis: cultic wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -128220,10 +128258,10 @@ Syntax notes: [TODO]
 Draft translation: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῇ θυσίᾳ τοῦ σωτηρίου | lemma: θυσία | σωτήριος | morphology: genitive cultic phrase | chosen_rendering: the sacrifice of salvation | alternate_renderings: the sacrifice of deliverance; the peace sacrifice | rationale: Current wording keeps the salvation-shaped sacrificial wording. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the sacrifice of salvation | footnote_text: The Greek keeps salvation-shaped sacrificial wording here. The current wording preserves that cultic line rather than harmonizing to peace-offering tradition. | source_basis: soteria sacrifice formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -128944,10 +128982,10 @@ Syntax notes: [TODO]
 Draft translation: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εγω δε και η οικια μου λατρευσομεν κυριω οτι αγιος εστιν | lemma: οτι αγιος εστιν | morphology: closing clause | chosen_rendering: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy. | alternate_renderings: But I and my house will serve the Lord. | rationale: Greek explicitly adds because he is holy at the end. Current wording keeps that clause. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: because he is holy | footnote_text: Greek explicitly adds that clause at the end. | source_basis: added clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -130090,10 +130128,10 @@ Syntax notes: [TODO]
 Draft translation: And I said, I will not continue to move away the people that I said I would destroy from before you, and they shall be for you in constriction, and their gods shall be for you as a snare.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου προσθησω του μετοικισαι τον λαον ον ειπα του εξολεθρευσαι αυτους εκ προσωπου υμων | lemma: προστιθημι | μετοικιζω | morphology: threat clause | chosen_rendering: And I said, I will not continue to move away the people that I said I would destroy from before you, and they shall be for you in constriction, and their gods shall be for you as a snare. | alternate_renderings: I said, I will not continue to move away the people whom I said I would destroy from before you, and they will be for you in constriction, and their gods will be for you as a snare. | rationale: Current wording keeps the not-continue-to-move-away line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will not continue to move away the people | footnote_text: Greek keeps the not-continue-to-move-away warning explicit. Current wording preserves that judgment line rather than smoothing it. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -130170,10 +130208,10 @@ Syntax notes: [TODO]
 Draft translation: And the people served the Lord all the days of Joshua and all the days of the elders who lived long after Joshua, who knew all the great work of the Lord that he did for Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οσοι εμακροημερευσαν μετα ιησουν | lemma: μακροημερευω | morphology: time clause | chosen_rendering: all the days of the elders who lived long after Joshua | alternate_renderings: all the days of the elders who outlived Joshua | rationale: Current wording keeps the long-lived-after-Joshua line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: lived long after Joshua | footnote_text: Greek uses a long-lived formula here. Current wording keeps it explicit. | source_basis: time formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -130290,10 +130328,10 @@ Syntax notes: [TODO]
 Draft translation: And they forsook the Lord and served Baal and the Astartes.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εγκατελιπον τον κυριον και ελατρευσαν τη βααλ και ταις ασταρταις | lemma: λατρευω | morphology: idolatry summary | chosen_rendering: And they forsook the Lord and served Baal and the Astartes. | alternate_renderings: They forsook the Lord and served Baal and the Astartes. | rationale: Current wording keeps the idolatry summary plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: served Baal and the Astartes | footnote_text: Greek closes the line with named idol service. Current wording preserves it. | source_basis: idolatry summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -130992,10 +131030,10 @@ Syntax notes: [TODO]
 Draft translation: And they waited until they were ashamed, and behold, there was no one opening the doors of the upper room. And they took the key and opened them, and behold, their lord had fallen dead upon the ground.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο κυριος αυτων πεπτωκως επι την γην τεθνηκως | lemma: κυριος | πιπτω | θνησκω | morphology: clause | chosen_rendering: their lord had fallen dead upon the ground | alternate_renderings: their lord was fallen dead upon the earth | rationale: Current wording keeps the discovery line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: their lord had fallen dead upon the ground | footnote_text: The Greek discovery line is direct. The current wording preserves it. | source_basis: discovery line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -131696,10 +131734,10 @@ Syntax notes: [TODO]
 Draft translation: Mountains were shaken from before the Lord, this Sinai, from before the Lord God of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ορη εσαλευθησαν απο προσωπου κυριου τουτο σινα | lemma: σαλευω | προσωπον | morphology: poetic clause | chosen_rendering: Mountains were shaken from before the Lord, this Sinai, from before the Lord God of Israel. | alternate_renderings: Mountains were shaken from before the Lord, this Sinai, from before the Lord God of Israel. | rationale: Current wording keeps the abrupt this-Sinai line visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Mountains were shaken from before the Lord, this Sinai, | footnote_text: Greek keeps the abrupt this-Sinai line visible. Current wording preserves it. | source_basis: poetic line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -131816,10 +131854,10 @@ Syntax notes: [TODO]
 Draft translation: sound forth the voice of those striking up among rejoicing ones. There they will give righteousness to the Lord; the righteous ones were strengthened in Israel. Then the people of the Lord went down to his cities.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: φθεγξασθε φωνην ανακρουομενων ανα μεσον ευφραινομενων | lemma: φθεγγομαι | ανακρουω | morphology: song line | chosen_rendering: sound forth the voice of those striking up among rejoicing ones. There they will give righteousness to the Lord; the righteous ones were strengthened in Israel. Then the people of the Lord went down to his cities. | alternate_renderings: There shall they rehearse the righteous acts of the Lord. | rationale: Greek is highly different here and keeps musical striking-up language plus the cities ending. Current wording preserves the transmitted Greek scene. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: striking up among rejoicing ones | footnote_text: Greek is highly different here and keeps musical striking-up language. | source_basis: difficult song line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -132216,10 +132254,10 @@ Syntax notes: [TODO]
 Draft translation: So let all your enemies perish, O Lord, but those loving him are as the rising of the sun in his might. And the land was at rest forty years.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτως απολοιντο παντες οι εχθροι σου κυριε και οι αγαπωντες αυτον καθως η ανατολη του ηλιου | lemma: απολλυμι | αγαπαω | ανατολη | morphology: hymn clause | chosen_rendering: So let all your enemies perish, O Lord, but those loving him are as the rising of the sun in his might. And the land was at rest forty years. | alternate_renderings: Let all your enemies perish, O Lord, but those loving him are as the rising of the sun in its might. And the land was at rest forty years. | rationale: Current wording keeps the loving-him and rising-of-the-sun image explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: those loving him are as the rising of the sun | footnote_text: Greek contrasts perishing enemies with those loving him like the sun's rising. Current wording preserves that poetic image. | source_basis: poetic image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -132378,10 +132416,10 @@ Syntax notes: [TODO]
 Draft translation: that the Lord sent a man, a prophet, to the sons of Israel and said to them, Thus says the Lord God of Israel: I am the one who brought you up out of Egypt and brought you out of the house of slavery.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξαπεστειλεν κυριος ανδρα προφητην προς τους υιους ισραηλ | lemma: εξαποστελλω | προφητης | morphology: aorist clause | chosen_rendering: the Lord sent a man a prophet to the sons of Israel | alternate_renderings: the Lord sent a man a prophet to the children of Israel | rationale: Current wording keeps the man-prophet line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the Lord sent a man a prophet to the sons of Israel | footnote_text: The Greek explicitly says a man, a prophet. The current wording keeps both elements visible. | source_basis: man-prophet line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -132918,10 +132956,10 @@ Syntax notes: [TODO]
 Draft translation: And he sent messengers through all Manasseh, and it also cried out after him, and he sent messengers in Asher and in Zebulun and in Naphtali, and they went up to meet him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εβοησεν και αυτος οπισω αυτου | lemma: βοαω | morphology: aorist active indicative 3 singular + pronoun | chosen_rendering: And he sent messengers through all Manasseh, and it also cried out after him, and he sent messengers in Asher and in Zebulun and in Naphtali, and they went up to meet him. | alternate_renderings: Manasseh also gathered after him; it too rallied after him. | rationale: Greek keeps a second cry-out verb after the messenger clause. Current wording leaves that rough repetition visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: it also cried out after him | footnote_text: Greek repeats a cry-out verb here instead of smoothing the line to gathered or rallied. | source_basis: lexical + textual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -133160,10 +133198,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to Gideon, By the three hundred men who lapped I will save you and deliver Midian into your hand, and let all the people turn back, each man to his place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν τοις τριακοσιοις ανδρασιν τοις λαψασιν σωσω υμας | lemma: λαπτω | σωζω | morphology: deliverance clause | chosen_rendering: And the Lord said to Gideon, By the three hundred men who lapped I will save you and deliver Midian into your hand, and let all the people turn back, each man to his place. | alternate_renderings: The Lord said to Gideon, By the three hundred men who lapped I will save you and deliver Midian into your hand, and let all the people turn back, each man to his place. | rationale: Current wording keeps the by-the-three-hundred-men-who-lapped line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by the three hundred men who lapped | footnote_text: Greek identifies the saving group with the lapping men. Current wording preserves that distinctive selection line. | source_basis: deliverance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -133180,10 +133218,10 @@ Syntax notes: [TODO]
 Draft translation: And they took the food of the people in their hands and their horns, and he sent every man of Israel away, each to his tent, but the three hundred men he kept. And the camp of Midian was beneath him in the valley.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ελαβον τον επισιτισμον του λαου εν τη χειρι αυτων και τας κερατινας αυτων | lemma: επισιτισμος | morphology: gideon reduction scene | chosen_rendering: And they took the food of the people in their hands and their horns, and he sent every man of Israel away, each to his tent, but the three hundred men he kept. And the camp of Midian was beneath him in the valley. | alternate_renderings: They took the provision of the people in their hand and their trumpets. | rationale: Greek says food of the people in their hands and keeps the three hundred men he kept line. Current wording preserves that scene. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: food of the people in their hands | footnote_text: Greek says food of the people in their hands here. | source_basis: scene detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -133942,10 +133980,10 @@ Syntax notes: [TODO]
 Draft translation: And Zēbee and Salmana said, Rise yourself and fall upon us, because as the man is, so is his strength. And Gideon rose and killed Zēbee and Salmana and took the crescents that were on the necks of their camels.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ως ανηρ η δυναμις αυτου | lemma: ανηρ | δυναμις | morphology: proverbial clause | chosen_rendering: because as the man is, so is his strength. | alternate_renderings: for as the man is, so is his strength. | rationale: Current wording preserves the compact proverbial line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: as the man is, so is his strength | footnote_text: Greek uses a brief proverbial line. Current wording preserves it. | source_basis: proverbial line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -134162,10 +134200,10 @@ Syntax notes: [TODO]
 Draft translation: And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απεθανεν γεδεων υιος ιωας εν πολια αγαθη και εταφη εν τω ταφω ιωας του πατρος αυτου | lemma: πολια αγαθη | morphology: death notice | chosen_rendering: And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri. | alternate_renderings: Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri. | rationale: Current wording keeps the good-old-age death notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in a good old age | footnote_text: Greek uses the standard good-old-age death formula here. Current wording preserves it. | source_basis: death notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -134584,10 +134622,10 @@ Syntax notes: [TODO]
 Draft translation: but you rose up against my father's house today and killed his sons, seventy men, on one stone, and made Abimelech, son of his maidservant, king over the men of Sikima because he is your brother,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εβασιλευσατε τον αβιμελεχ υιον της παιδισκης αυτου επι τους ανδρας σικιμων | lemma: παιδισκη | morphology: abimelech rebuke | chosen_rendering: but you rose up against my father's house today and killed his sons, seventy men, on one stone, and made Abimelech, son of his maidservant, king over the men of Sikima because he is your brother, | alternate_renderings: You made Abimelech son of his bondwoman king over the men of Shechem. | rationale: Greek says maidservant and Sikima here. Current wording keeps those forms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: maidservant | footnote_text: Greek says maidservant and Sikima here. | source_basis: term/name form | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -135004,10 +135042,10 @@ Syntax notes: [TODO]
 Draft translation: And Gaal went out before the men of Sikima and fought against Abimelech.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εξηλθεν γααλ απο προσωπου των ανδρων σικιμων και επολεμησεν εν αβιμελεχ | lemma: εξερχομαι | morphology: battle notice | chosen_rendering: And Gaal went out before the men of Sikima and fought against Abimelech. | alternate_renderings: Gaal went out before the men of Sikima and fought against Abimelech. | rationale: Current wording keeps the battle notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Gaal went out before the men of Sikima | footnote_text: Greek gives a compact battle notice here. Current wording preserves it. | source_basis: battle notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -135084,10 +135122,10 @@ Syntax notes: [TODO]
 Draft translation: And he took the people and divided it into three companies and lay in ambush in it, and he saw, and behold, the people were coming out of the city, and he rose up against them and struck them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διειλεν αυτον τρεις αρχας και ενηδρευσεν εν αυτω | lemma: διαιρεω | αρχη | ενεδρευω | morphology: clause | chosen_rendering: And he took the people and divided it into three companies and lay in ambush in it, and he saw, and behold, the people were coming out of the city, and he rose up against them and struck them. | alternate_renderings: He took the people, divided them into three companies, lay in ambush, saw the people coming out of the city, and rose against them and struck them. | rationale: Current wording keeps the rapid military sequence and the three-companies line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: divided it into three companies | footnote_text: Greek keeps the military sequence compressed. Current wording preserves the three-companies line. | source_basis: military sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -135828,10 +135866,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be when the sons of Ammon were making war with Israel, the elders of Gilead went to take Jephthae from the land of Tōb.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επορευθησαν οι πρεσβυτεροι γαλααδ παραλαβειν τον ιεφθαε εν γη τωβ | lemma: πρεσβυτερος | παραλαμβανω | morphology: narrative clause | chosen_rendering: And it came to be when the sons of Ammon were making war with Israel, the elders of Gilead went to take Jephthae from the land of Tōb. | alternate_renderings: It came to be when the sons of Ammon were making war with Israel, the elders of Gilead went to take Jephthae from the land of Tob. | rationale: Current wording keeps the went-to-take-Jephthae line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: went to take Jephthae from the land of Tob | footnote_text: Greek gives the elders' action in a compact fetch-take line. Current wording preserves that sequence. | source_basis: narrative sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -136168,10 +136206,10 @@ Syntax notes: [TODO]
 Draft translation: And it inherited all the border of the Amorite from Arnon to Jabbok and from the wilderness to the Jordan.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εκληρονομησεν παν το οριον του αμορραιου απο αρνων και εως του ιαβοκ | lemma: κληρονομεω | οριον | morphology: border clause | chosen_rendering: And it inherited all the border of the Amorite from Arnon to Jabbok and from the wilderness to the Jordan. | alternate_renderings: It inherited all the border of the Amorite from Arnon to Jabbok and from the wilderness to the Jordan. | rationale: Current wording keeps the inherited-all-the-border line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: inherited all the border of the Amorite | footnote_text: Greek states the territorial possession directly. Current wording preserves that border formula. | source_basis: border formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -136348,10 +136386,10 @@ Syntax notes: [TODO]
 Draft translation: then it shall be that whoever comes out from the doors of my house to meet me when I return in peace from the sons of Ammon, that one shall be the Lord's, and I will offer him up as a whole burnt offering.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εσται τω κυριω και ανοισω αυτον ολοκαυτωμα | lemma: ειμι | αναφερω | ολοκαυτωμα | morphology: future clause | chosen_rendering: that one shall be the Lord's and I will offer him up as a whole burnt offering | alternate_renderings: it shall be the Lord's and I will offer it up as a burnt offering | rationale: Current wording keeps the masculine source-row line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: that one shall be the Lord's and I will offer him up as a whole burnt offering | footnote_text: The Greek line is masculine and direct here. The current wording keeps that source-row wording visible. | source_basis: source-row masculines | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -136528,10 +136566,10 @@ Syntax notes: [TODO]
 Draft translation: From days to days the daughters of Israel went to lament the daughter of Jephthae the Gileadite, four days in the year.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξ ημερων εις ημερας συνεπορευοντο αι θυγατερες ισραηλ θρηνειν | lemma: εξ ημερων εις ημερας | θρηνεω | morphology: custom clause | chosen_rendering: From days to days the daughters of Israel went to lament the daughter of Jephthae the Gileadite, four days in the year. | alternate_renderings: From days to days the daughters of Israel went to lament the daughter of Jephthae the Gileadite, four days in the year. | rationale: Current wording keeps the from-days-to-days custom formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: From days to days | footnote_text: Greek uses the from-days-to-days formula for the recurring custom. Current wording preserves that idiom. | source_basis: custom formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -136650,10 +136688,10 @@ Syntax notes: [TODO]
 Draft translation: And they said to them, Speak now a watchword. And they did not direct themselves to speak thus, and they seized them and slaughtered them at the crossings of the Jordan. And there fell from Ephraim at that time forty-two thousand.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ειπατε δη συνθημα και ου κατηυθυναν του λαλησαι ουτως | lemma: συνθημα | morphology: watchword test | chosen_rendering: And they said to them, Speak now a watchword. And they did not direct themselves to speak thus, and they seized them and slaughtered them at the crossings of the Jordan. And there fell from Ephraim at that time forty-two thousand. | alternate_renderings: Say now Shibboleth; and he said Sibboleth, for he could not frame to pronounce it right. | rationale: Greek says speak now a watchword and did not direct themselves to speak thus. Current wording keeps the Greek test scene. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: speak now a watchword | footnote_text: Greek says watchword and keeps the failed-speaking line. | source_basis: watchword scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -136750,10 +136788,10 @@ Syntax notes: [TODO]
 Draft translation: And after him Ailōn the Zebulunite judged Israel, and he judged Israel ten years.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκρινεν μετ αυτον τον ισραηλ αιλων ο ζαβουλωνιτης | lemma: κρινω | morphology: formula clause | chosen_rendering: And after him Ailōn the Zebulunite judged Israel, and he judged Israel ten years. | alternate_renderings: After him Ailōn the Zebulunite judged Israel, and he judged Israel ten years. | rationale: Current wording keeps the judge-formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: after him Ailōn the Zebulunite judged Israel | footnote_text: Greek uses the judge-formula directly. Current wording preserves it. | source_basis: judge formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -137092,10 +137130,10 @@ Syntax notes: [TODO]
 Draft translation: And the angel of the Lord said to Manōe, From all that I said to the woman, let her keep herself.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απο παντων ων ειπα προς την γυναικα φυλαξασθω | lemma: φυλασσω | morphology: warning clause | chosen_rendering: And the angel of the Lord said to Manōe, From all that I said to the woman, let her keep herself. | alternate_renderings: The angel of the Lord said to Manoe, From all that I said to the woman, let her keep herself. | rationale: Current wording keeps the let-her-keep-herself line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let her keep herself | footnote_text: Greek phrases the warning reflexively here. Current wording preserves that form. | source_basis: warning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -137252,10 +137290,10 @@ Syntax notes: [TODO]
 Draft translation: And the angel of the Lord did not continue any longer to appear to Manōe and to his wife; then Manōe knew that he was an angel of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου προσεθηκεν ετι ο αγγελος κυριου οφθηναι προς μανωε και προς την γυναικα αυτου | lemma: προστιθημι | morphology: appearance cease notice | chosen_rendering: And the angel of the Lord did not continue any longer to appear to Manōe and to his wife; then Manōe knew that he was an angel of the Lord. | alternate_renderings: The angel of the Lord did not continue any longer to appear to Manōe and to his wife; then Manōe knew that he was an angel of the Lord. | rationale: Current wording keeps the no-longer-appear formula and recognition close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: did not continue any longer to appear | footnote_text: Greek uses the no-longer-appear formula here. Current wording preserves it. | source_basis: appearance cease notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -137454,10 +137492,10 @@ Syntax notes: [TODO]
 Draft translation: And the Spirit of the Lord rushed upon him, and he tore it apart as one tears apart a kid of the goats, and there was nothing in his hand. And he did not report to his father or his mother what he had done.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατηυθυνεν επ αυτον πνευμα κυριου | lemma: πνευμα κυριου | morphology: theophanic empowerment clause | chosen_rendering: And the Spirit of the Lord rushed upon him, and he tore it apart as one tears apart a kid of the goats, and there was nothing in his hand. | alternate_renderings: The Spirit of the Lord came powerfully upon him, and he tore it apart like a young goat, with nothing in his hand. | rationale: Current wording keeps the forceful Spirit-of-the-Lord line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the Spirit of the Lord rushed upon him | footnote_text: Greek uses strong Spirit-of-the-Lord empowerment language. Current wording preserves it. | source_basis: Spirit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -137996,10 +138034,10 @@ Syntax notes: [TODO]
 Draft translation: And they swore to him, saying, No, but we will surely bind you and hand you over into their hands, but with death we will not kill you. And they bound him with two new cords and brought him up from the rock.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δεσμω δησομεν σε και παραδωσομεν σε εις χειρας αυτων θανατω δε ου θανατωσομεν σε | lemma: δεσμω δεω | παραδιδωμι | morphology: oath response | chosen_rendering: And they swore to him, saying, No, but we will surely bind you and hand you over into their hands, but with death we will not kill you. And they bound him with two new cords and brought him up from the rock. | alternate_renderings: They swore to him, saying, No, but we will surely bind you and hand you over into their hands, but with death we will not kill you. And they bound him with two new cords and brought him up from the rock. | rationale: Current wording keeps the sworn assurance and bind-hand-over sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: we will surely bind you and hand you over | footnote_text: Greek stacks the bind-and-hand-over assurance. Current wording preserves that oath response. | source_basis: oath response | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -138096,10 +138134,10 @@ Syntax notes: [TODO]
 Draft translation: And he thirsted greatly and cried out to the Lord and said, You gave by the hand of your servant this great salvation, and now shall I die of thirst and fall into the hand of the uncircumcised?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ εδωκας εν χειρι του δουλου σου την σωτηριαν την μεγαλην ταυτην | lemma: σωτηρια | morphology: clause | chosen_rendering: You gave by the hand of your servant this great salvation, and now shall I die of thirst and fall into the hand of the uncircumcised? | alternate_renderings: You gave this great salvation by the hand of your servant, and now shall I die of thirst and fall into the hand of the uncircumcised? | rationale: Current wording keeps the salvation line direct and close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: this great salvation | footnote_text: Greek uses salvation language directly. Current wording preserves it. | source_basis: salvation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -138378,10 +138416,10 @@ Syntax notes: [TODO]
 Draft translation: And Dalila took new cords for him and bound him with them and said to him, The foreigners are upon you, Sampsōn. And the ambush was sitting in the inner room. And he tore them from his arms like thread.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και το ενεδρον εκαθητο εν τω ταμιειω και διεσπασεν αυτα απο των βραχιονων αυτου ως ραμμα | lemma: ταμιειον | ραμμα | morphology: ambush detail + simile | chosen_rendering: And Dalila took new cords for him and bound him with them and said to him, The foreigners are upon you, Sampsōn. And the ambush was sitting in the inner room. And he tore them from his arms like thread. | alternate_renderings: The liers in wait came out of the chamber, and he broke them like a thread. | rationale: Greek says the ambush was sitting in the inner room and he tore them like thread. Current wording preserves that shape. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: ambush was sitting in the inner room | footnote_text: Greek keeps the ambush seated in the inner room and ends with like thread. | source_basis: scene detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -138598,10 +138636,10 @@ Syntax notes: [TODO]
 Draft translation: And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Sampsōn our enemy into our hand.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι σατραπαι των αλλοφυλων συνηχθησαν του θυσαι θυσιαν μεγαλην δαγων τω θεω αυτων και του ευφρανθηναι | lemma: σατραπης | αλλοφυλος | morphology: festival scene | chosen_rendering: And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Sampsōn our enemy into our hand. | alternate_renderings: The satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Sampsōn our enemy into our hand. | rationale: Current wording keeps the gathered-to-sacrifice festival line and the boast close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the satraps of the foreigners gathered | footnote_text: Greek opens with a formal festival gathering line. Current wording preserves that setting and the boast. | source_basis: festival scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -138618,10 +138656,10 @@ Syntax notes: [TODO]
 Draft translation: And the people saw him and praised their gods and said, Our god gave our enemy into our hand, the one ravaging our land, who multiplied our wounded.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τον εξερημουντα την γην ημων οστις επληθυνεν τους τραυματιας ημων | lemma: ερημοω | τραυματιας | morphology: taunt clause | chosen_rendering: And the people saw him and praised their gods and said, Our god gave our enemy into our hand, the one ravaging our land, who multiplied our wounded. | alternate_renderings: The people saw him and praised their gods and said, Our god gave our enemy into our hand, the one ravaging our land, who multiplied our wounded. | rationale: Current wording keeps the ravaging-our-land taunt direct. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the one ravaging our land | footnote_text: Greek uses direct devastation language. Current wording preserves it. | source_basis: taunt formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -139000,10 +139038,10 @@ Syntax notes: [TODO]
 Draft translation: And Micha filled the hand of the Levite, and the young man became his priest and was in the house of Micha.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενεπλησεν μιχα την χειρα του λευιτου και εγενηθη αυτω το παιδαριον εις ιερεα | lemma: πληροω χειρα | morphology: ordination idiom | chosen_rendering: And Micha filled the hand of the Levite, and the young man became his priest and was in the house of Micha. | alternate_renderings: Micha filled the hand of the Levite, and the young man became his priest and was in the house of Micha. | rationale: Current wording keeps the filled-the-hand ordination idiom explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: filled the hand of the Levite | footnote_text: Greek uses the filled-the-hand ordination idiom. Current wording preserves it. | source_basis: ordination idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -139142,10 +139180,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest said to them, Go in peace. Before the Lord is your way in which you are going.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πορευεσθε εις ειρηνην ενωπιον κυριου η οδος υμων καθ' ην υμεις πορευεσθε εν αυτη | lemma: ενωπιον κυριου | morphology: travel blessing | chosen_rendering: And the priest said to them, Go in peace. Before the Lord is your way in which you are going. | alternate_renderings: The priest said to them, Go in peace. Before the Lord is your way in which you are going. | rationale: Current wording keeps the go-in-peace blessing and before-the-Lord line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Go in peace | footnote_text: Greek gives a compact travel blessing here. Current wording preserves it. | source_basis: travel blessing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -139342,10 +139380,10 @@ Syntax notes: [TODO]
 Draft translation: And the six hundred men girded with weapons of war, from the sons of Dan, stood by the doorway of the gate.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι εξακοσιοι ανδρες περιεζωσμενοι σκευη πολεμικα εστηλωμενοι παρα την θυραν του πυλωνος | lemma: περιζωννυμι | morphology: guard scene | chosen_rendering: And the six hundred men girded with weapons of war, from the sons of Dan, stood by the doorway of the gate. | alternate_renderings: The six hundred men girded with weapons of war, from the sons of Dan, stood by the doorway of the gate. | rationale: Current wording keeps the armed-guard scene plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the six hundred men girded with weapons of war | footnote_text: Greek frames the scene with armed Danites at the gate. Current wording preserves it. | source_basis: guard scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -139622,10 +139660,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Dan set up for themselves the carved image of Micha, and Jonathan son of Gērsōm, son of Moses, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιωναθαν υιος γηρσωμ υιου μωυση | lemma: proper names | morphology: genealogy | chosen_rendering: Jonathan son of Gērsōm son of Moses | alternate_renderings: Jonathan son of Gershom son of Moses | rationale: Current wording keeps the Moses reading explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Jonathan son of Gērsōm son of Moses | footnote_text: The Greek reads Moses here. The current wording keeps that source-row reading explicit. | source_basis: Moses reading | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140024,10 +140062,10 @@ Syntax notes: [TODO]
 Draft translation: And indeed there is straw and fodder for our donkeys, and there is bread and wine for me and for your maidservant and for the servant with your servants; there is no lack of anything.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εστιν υστερημα παντος πραγματος | lemma: υστερημα | πραγμα | morphology: clause | chosen_rendering: And indeed there is straw and fodder for our donkeys, and there is bread and wine for me and for your maidservant and for the servant with your servants; there is no lack of anything. | alternate_renderings: Indeed there is straw and fodder for our donkeys, and bread and wine for me and your maidservant and the servant with your servants; there is no lack of anything. | rationale: Current wording keeps the no-lack-of-anything line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is no lack of anything | footnote_text: Greek closes with a no-lack formula. Current wording preserves it. | source_basis: lack formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140366,10 +140404,10 @@ Syntax notes: [TODO]
 Draft translation: And I took hold of my concubine and cut her up and sent her through every border of the inheritance of Israel, because they committed folly in Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επελαβομην της παλλακης μου και εμελισα αυτην και εξαπεστειλα εν παντι οριω κληρονομιας ισραηλ | lemma: μελιζω | morphology: atrocity report | chosen_rendering: And I took hold of my concubine and cut her up and sent her through every border of the inheritance of Israel, because they committed folly in Israel. | alternate_renderings: I took hold of my concubine and cut her up and sent her through every border of the inheritance of Israel, because they committed folly in Israel. | rationale: Current wording keeps the brutal report line direct. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cut her up and sent her | footnote_text: Greek gives the atrocity report in direct terms. Current wording preserves that force. | source_basis: atrocity report | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140386,10 +140424,10 @@ Syntax notes: [TODO]
 Draft translation: Behold, all of you are sons of Israel; give to yourselves word and counsel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δοτε εαυτοις λογον και βουλην | lemma: λογος | βουλη | morphology: appeal clause | chosen_rendering: Behold, all of you are sons of Israel; give to yourselves word and counsel. | alternate_renderings: Behold, all of you are sons of Israel; give yourselves word and counsel. | rationale: Current wording keeps the give-yourselves-word-and-counsel line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: give to yourselves word and counsel | footnote_text: Greek uses the give-yourselves-word-and-counsel line directly. Current wording preserves that deliberation formula. | source_basis: deliberation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140506,10 +140544,10 @@ Syntax notes: [TODO]
 Draft translation: And now give the men, the ungodly ones in Gabaa, the sons of Belial, and we will put them to death and remove evil from Israel. But the sons of Benjamin were not willing to listen to the voice of their brothers, the sons of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τους ανδρας τους ασεβεις τους εν γαβαα τους υιους βελιαλ και θανατωσομεν αυτους και εξαρουμεν κακιαν εξ ισραηλ | lemma: ασεβης | βελιαλ | morphology: gabaa demand | chosen_rendering: And now give the men, the ungodly ones in Gabaa, the sons of Belial, and we will put them to death and remove evil from Israel. But the sons of Benjamin were not willing to listen to the voice of their brothers, the sons of Israel. | alternate_renderings: Give up the men the sons of Belial that are in Gibeah and we will put them to death and purge evil from Israel. | rationale: Greek says the men, the ungodly ones, the sons of Belial. Current wording keeps that doubled characterization. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the men the ungodly ones the sons of Belial | footnote_text: Greek doubles the characterization here. | source_basis: doubled characterization | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140546,10 +140584,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Benjamin were counted on that day from the cities, twenty-five thousand men drawing sword, besides the inhabitants of Gabaa; these were counted, seven hundred chosen young men.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επεσκεπησαν ... εικοσι και πεντε χιλιαδες | lemma: επισκεπτομαι | χιλιας | morphology: aorist clause | chosen_rendering: the sons of Benjamin were counted twenty-five thousand men | alternate_renderings: the sons of Benjamin were numbered twenty-five thousand men | rationale: Current wording keeps the count line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the sons of Benjamin were counted twenty-five thousand men | footnote_text: The Greek count line is straightforward. The current wording preserves it. | source_basis: count line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140786,10 +140824,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Israel inquired of the Lord, and there the ark of the covenant of the Lord was in those days,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επηρωτησαν οι υιοι ισραηλ εν κυριω | lemma: επερωταω | εν κυριω | morphology: idiom clause | chosen_rendering: And the sons of Israel inquired of the Lord, and there the ark of the covenant of the Lord was in those days, | alternate_renderings: The sons of Israel inquired in the Lord, and the ark of the covenant of the Lord was there in those days. | rationale: Current wording keeps the inquiry line in standard English while preserving the surrounding source-row frame. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: inquired of the Lord | footnote_text: Greek literally has inquired in the Lord. Current wording uses standard English while keeping the sense. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -141186,10 +141224,10 @@ Syntax notes: [TODO]
 Draft translation: And six hundred men turned aside and fled into the wilderness to the rock Rhemmon and sat at the rock Rhemmon four months.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξεκλιναν και εφυγον εις την ερημον προς την πετραν την ρεμμων | lemma: εκκλινω | πετρα | morphology: narrative clause | chosen_rendering: And six hundred men turned aside and fled into the wilderness to the rock Rhemmon and sat at the rock Rhemmon four months. | alternate_renderings: Six hundred men turned aside and fled into the wilderness to the rock Rhemmon and sat at the rock Rhemmon four months. | rationale: Current wording keeps the turn-aside and rock-Rhemmon sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: turned aside and fled into the wilderness to the rock Rhemmon | footnote_text: Greek keeps the turn-aside and flight line direct. Current wording preserves it. | source_basis: flight formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -141288,10 +141326,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁλοκαυτώματα σωτηρίου | lemma: ὁλοκαύτωμα | σωτήριος | morphology: cultic phrase | chosen_rendering: whole burnt offerings of salvation | alternate_renderings: whole burnt offerings and offerings of salvation | rationale: Current wording keeps the salvation-shaped sacrificial wording. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: whole burnt offerings of salvation | footnote_text: The Greek keeps salvation-shaped sacrificial wording even in this narrative setting. The current wording preserves that cultic line. | source_basis: soteria sacrifice formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142032,10 +142070,10 @@ Syntax notes: [TODO]
 Draft translation: And Ruth said, Do not press me to leave you or to turn back from behind you, because wherever you go, I will go, and wherever you lodge, I will lodge. Your people shall be my people, and your God my God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο λαος σου λαος μου και ο θεος σου θεος μου | lemma: λαος | θεος | morphology: predicate clause | chosen_rendering: Your people shall be my people and your God my God | alternate_renderings: your people my people and your God my God | rationale: Current wording keeps the covenantal pledge explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Your people shall be my people and your God my God | footnote_text: The Greek keeps Ruth's pledge direct and compact. The current wording preserves that line. | source_basis: pledge formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142394,10 +142432,10 @@ Syntax notes: [TODO]
 Draft translation: May the Lord repay your work, and may your wage be full from the Lord God of Israel, under whose wings you came to trust.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πρὸς ὃν ἦλθες πεποιθέναι ὑπὸ τὰς πτέρυγας αὐτοῦ | lemma: πείθω | πτέρυξ | morphology: perfect infinitive clause | chosen_rendering: under whose wings you came to trust | alternate_renderings: under whose wings you came to take refuge | rationale: Current wording keeps the trust-under-wings line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: under whose wings you came to trust | footnote_text: The Greek uses trust language under divine wings. The current wording keeps both trust and wings visible. | source_basis: wings-of-refuge formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142414,10 +142452,10 @@ Syntax notes: [TODO]
 Draft translation: And she said, May I find favor in your eyes, lord, because you comforted me and because you spoke to the heart of your servant, and behold, I shall be as one of your maidservants.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐλάλησας ἐπὶ καρδίαν | lemma: λαλέω | καρδία | morphology: aorist clause | chosen_rendering: you spoke to the heart | alternate_renderings: you spoke to the heart of | rationale: Current wording keeps the spoke-to-the-heart idiom explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you spoke to the heart | footnote_text: The Greek uses a spoke-to-the-heart idiom. The current wording keeps that expression explicit. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142554,10 +142592,10 @@ Syntax notes: [TODO]
 Draft translation: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἐγκατέλιπεν τὸ ἔλεος αὐτοῦ | lemma: ἐγκαταλείπω | ἔλεος | morphology: aorist clause | chosen_rendering: he did not forsake his mercy | alternate_renderings: he did not abandon his kindness | rationale: Current wording keeps the mercy wording explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he did not forsake his mercy | footnote_text: The Greek uses mercy language directly. The current wording preserves that wording instead of flattening it into generic kindness. | source_basis: mercy language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142636,10 +142674,10 @@ Syntax notes: [TODO]
 Draft translation: And Noemin her mother-in-law said to her, Daughter, shall I not seek rest for you, so that it may be well with you?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου μη ζητησω σοι αναπαυσιν ινα ευ σοι γενηται | lemma: αναπαυσις | ευ γινομαι | morphology: family care | chosen_rendering: And her mother-in-law Noemin said to her, My daughter, shall I not seek for you rest, so that it may be well with you? | alternate_renderings: Her mother-in-law Noemin said to her, My daughter, shall I not seek for you rest, so that it may be well with you? | rationale: Current wording keeps the seek-rest-so-it-may-be-well line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seek for you rest | footnote_text: Greek uses rest language for Naomi's plan. Current wording preserves that household-care phrase. | source_basis: family care | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142696,10 +142734,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be when he lies down, you will know the place where he lies there, and you will come and uncover the things at his feet and lie down, and he will tell you what you shall do.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αποκαλυψεις τα προς ποδων αυτου και κοιμηθηση | lemma: αποκαλυπτω | πους | morphology: aorist clause | chosen_rendering: you will uncover the things at his feet and lie down | alternate_renderings: you will uncover his feet and lie down | rationale: Current wording keeps the source-row wording explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you will uncover the things at his feet and lie down | footnote_text: The Greek is slightly broader than simply uncover his feet. The current wording keeps that source-row wording visible. | source_basis: source-row wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -142816,10 +142854,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἠγάθυνας τὸ ἔλεός σου τὸ ἔσχατον ὑπὲρ τὸ πρῶτον | lemma: ἀγαθύνω | ἔλεος | morphology: aorist clause | chosen_rendering: you made your latter mercy better than the first | alternate_renderings: you made your latter kindness greater than the first | rationale: Current wording keeps the mercy language explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you made your latter mercy better than the first | footnote_text: The Greek keeps mercy language explicit here. The current wording preserves that wording instead of flattening it into generic kindness. | source_basis: mercy language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -143218,10 +143256,10 @@ Syntax notes: [TODO]
 Draft translation: And may your house become like the house of Phares, whom Thamar bore to Judah, from the seed that the Lord will give you from this servant girl.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐκ τοῦ σπέρματος οὗ δώσει κύριος σοι | lemma: σπέρμα | δίδωμι | morphology: noun clause | chosen_rendering: from the seed that the Lord will give you | alternate_renderings: from offspring that the Lord will give you | rationale: Current wording keeps the seed-language line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from the seed that the Lord will give you | footnote_text: The Greek uses seed language here. The current wording preserves that wording. | source_basis: seed language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -143502,10 +143540,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be on the day Elkana sacrificed, that he gave to Phennana his wife and to her sons and her daughters portions,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εδωκεν τη φεννανα γυναικι αυτου και τοις υιοις αυτης και ταις θυγατρασιν αυτης μεριδας | lemma: μερις | morphology: distribution clause | chosen_rendering: And it came to be on the day Elkana sacrificed, that he gave to Phennana his wife and to her sons and her daughters portions, | alternate_renderings: It came to be on the day Elkana sacrificed that he gave to Phennana his wife and to her sons and her daughters portions. | rationale: Current wording keeps the sons-and-daughters portions line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to her sons and her daughters portions | footnote_text: Greek lists both sons and daughters receiving portions. Current wording preserves that family distribution detail. | source_basis: family distribution | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -143622,10 +143660,10 @@ Syntax notes: [TODO]
 Draft translation: And she was bitter in soul and prayed to the Lord, and weeping she wept.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αυτη κατωδυνος ψυχη και προσηυξατο προς κυριον και κλαιουσα εκλαυσεν | lemma: κατωδυνος ψυχη | κλαιω | morphology: emotional description | chosen_rendering: And she was bitter in soul and prayed to the Lord, and weeping she wept. | alternate_renderings: She was bitter in soul and prayed to the Lord, and weeping she wept. | rationale: Current wording keeps the doubled weeping line and bitter-in-soul phrase. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: weeping she wept | footnote_text: Greek doubles the weeping expression. Current wording preserves that emphatic grief line. | source_basis: emotional intensifier | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -143882,10 +143920,10 @@ Syntax notes: [TODO]
 Draft translation: And Elkana her husband said to her, Do what is good in your eyes; sit until you wean him. Only may the Lord establish what went out from your mouth. And the woman sat and nursed her son until she weaned him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: στησαι κυριος το εξελθον εκ του στοματος σου | lemma: ιστημι | στομα | morphology: clause | chosen_rendering: Only may the Lord establish what went out from your mouth. | alternate_renderings: Only may the Lord confirm what came from your mouth. | rationale: Current wording preserves the spoken-word formula directly. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Only may the Lord establish what went out from your mouth | footnote_text: Greek uses a spoken-word formula directly. Current wording preserves it. | source_basis: spoken-word formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -143942,10 +143980,10 @@ Syntax notes: [TODO]
 Draft translation: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν εμοι κυριε ζη η ψυχη σου εγω η γυνη η καταστασα ενωπιον σου εν τω προσευξασθαι προς κυριον | lemma: ζη η ψυχη σου | morphology: oath identification | chosen_rendering: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord. | alternate_renderings: She said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord. | rationale: Current wording keeps the oath-identification line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your soul lives | footnote_text: Greek uses the oath-identification formula here. Current wording preserves it. | source_basis: oath identification | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -144504,10 +144542,10 @@ Syntax notes: [TODO]
 Draft translation: And the child Samouēl was going on and growing and good both with the Lord and with men.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και το παιδαριον σαμουηλ επορευετο και εμεγαλυνετο και αγαθον και μετα κυριου και μετα ανθρωπων | lemma: αγαθος | morphology: summary clause | chosen_rendering: And the child Samouēl went and grew and was good both with Lord and with men. | alternate_renderings: The child Samouel went and grew and was good both with Lord and with men. | rationale: Current wording keeps the grew-and-was-good line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: grew and was good both with Lord and with men | footnote_text: Greek gives Samuel's growth summary in a compact formula. Current wording preserves that line. | source_basis: growth formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -144564,10 +144602,10 @@ Syntax notes: [TODO]
 Draft translation: And why did you look upon my incense and upon my sacrifice with shameless eye, and glorify your sons beyond me, to bless yourselves from the firstfruits of every sacrifice of Israel before me?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επεβλεψας επι το θυμιαμα μου και εις την θυσιαν μου αναιδει οφθαλμω | lemma: αναιδης οφθαλμος | morphology: eli rebuke | chosen_rendering: And why did you look upon my incense and upon my sacrifice with shameless eye, and glorify your sons beyond me, to bless yourselves from the firstfruits of every sacrifice of Israel before me? | alternate_renderings: Why do you kick at my sacrifice and at my offering... to make yourselves fat with the chiefest of all the offerings of Israel? | rationale: Greek says looked upon my incense and upon my sacrifice with shameless eye. Current wording keeps that sharp image. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with shameless eye | footnote_text: Greek keeps that sharp image here. | source_basis: image wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -144664,10 +144702,10 @@ Syntax notes: [TODO]
 Draft translation: And this will be the sign to you that will come upon these your two sons, Ophni and Phinees: in one day both will die.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τουτο σοι το σημειον ο ηξει επι τους δυο υιους σου τουτους οφνι και φινεες εν ημερα μια αποθανουνται αμφοτεροι | lemma: σημειον | morphology: sign oracle | chosen_rendering: And this will be the sign to you that will come upon these your two sons, Ophni and Phinees: in one day both will die. | alternate_renderings: This will be the sign to you that will come upon these your two sons, Ophni and Phinees: in one day both will die. | rationale: Current wording keeps the sign oracle and in-one-day line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in one day both will die | footnote_text: Greek gives the sign in that direct line. Current wording preserves it. | source_basis: sign oracle | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -145288,10 +145326,10 @@ Syntax notes: [TODO]
 Draft translation: Woe to us. Who will rescue us from the hand of these strong gods? These are the gods who struck Egypt with every plague and in the wilderness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τις εξελειται ημας εκ χειρος των θεων των στερεων τουτων | lemma: εξαιρω | θεος | στερεος | morphology: question clause | chosen_rendering: Who will rescue us from hand of these strong gods | alternate_renderings: who will deliver us from hand of these mighty gods | rationale: Current wording keeps the Philistine cry direct. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Who will rescue us from hand of these strong gods | footnote_text: The Greek keeps the Philistine fear cry direct. The current wording preserves that line. | source_basis: fear cry | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -145810,10 +145848,10 @@ Syntax notes: [TODO]
 Draft translation: And the living who did not die were struck in their seats, and the cry of the city went up to heaven.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επληγησαν εις τας εδρας | lemma: εδρα | morphology: prepositional phrase | chosen_rendering: And the living who did not die were struck in their seats, and the cry of the city went up to heaven. | alternate_renderings: They were struck with tumors; they were struck with emerods. | rationale: Greek says they were struck in their seats. Current wording keeps the transmitted phrase instead of importing the later disease gloss. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: struck in their seats | footnote_text: Greek literally says struck in their seats. Other traditions often interpret this as a disease-affliction. | source_basis: lexical + textual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -146092,10 +146130,10 @@ Syntax notes: [TODO]
 Draft translation: And the wagon came into the field of Ōsēe in Baithsamyis, and they stood there by a great stone, and they split the wood of the wagon and offered the cows as a whole burnt offering to the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σχιζουσιν τα ξυλα της αμαξης και τας βοας ανηνεγκαν εις ολοκαυτωσιν | lemma: σχιζω | ολοκαυτωσις | morphology: narrative clause | chosen_rendering: And the wagon came into the field of Ōsēe in Baithsamyis, and they stood there by a great stone, and they split the wood of the wagon and offered the cows as a whole burnt offering to the Lord. | alternate_renderings: The wagon came into the field of Ōsēe in Baithsamyis, and they stood there by a great stone, and they split the wood of the wagon and offered the cows as a whole burnt offering to the Lord. | rationale: Current wording keeps the split-the-wagon-wood and offering line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they split the wood of the wagon and offered the cows as a whole burnt offering | footnote_text: Greek keeps the wagon-wood and offering line direct. Current wording preserves it. | source_basis: sacrifice line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -146936,10 +146974,10 @@ Syntax notes: [TODO]
 Draft translation: And you will cry out in that day because of your king whom you chose for yourselves, and the Lord will not listen to you in those days, because you chose a king for yourselves.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: βοησεσθε εν τη ημερα εκεινη εκ προσωπου βασιλεως υμων | lemma: βοαω | προσωπον | morphology: warning clause | chosen_rendering: And you will cry out in that day because of your king whom you chose for yourselves, and the Lord will not listen to you in those days, because you chose a king for yourselves. | alternate_renderings: You will cry out in that day from before your king whom you chose for yourselves, and the Lord will not listen to you in those days, because you chose a king for yourselves. | rationale: Current wording keeps the cry-out warning line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: You will cry out in that day because of your king whom you chose for yourselves | footnote_text: Greek uses a future warning line tied to the chosen king. Current wording preserves it. | source_basis: warning formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -147098,10 +147136,10 @@ Syntax notes: [TODO]
 Draft translation: And they passed through the hill-country of Ephraim, and they passed through the land of Selcha and did not find them, and they passed through the land of Easakem and it was not there, and they passed through the land of Iakim and did not find them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διηλθον δια της γης σελχα και διηλθον δια της γης εασακεμ και ουκ ην και διηλθον δια της γης ιακιμ | lemma: place-name chain | morphology: search route | chosen_rendering: And they passed through the hill-country of Ephraim, and they passed through the land of Selcha and did not find them, and they passed through the land of Easakem and it was not there, and they passed through the land of Iakim and did not find them. | alternate_renderings: They passed through the land of Shalisha and the land of Shalim and the land of the Benjamites. | rationale: Greek gives the place forms Selcha, Easakem, and Iakim here. Current wording keeps those forms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Selcha Easakem and Iakim | footnote_text: Greek gives those place forms here. | source_basis: place forms | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -147620,10 +147658,10 @@ Syntax notes: [TODO]
 Draft translation: And you will pass on from there and beyond, and you will come as far as the oak of Thabor, and you will find there three men going up to God at Baithēl, one carrying three kids, one carrying three vessels of breads, and one carrying a skin of wine.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενα αιροντα τρια αιγιδια και ενα αιροντα τρια αγγεια αρτων και ενα αιροντα ασκον οινου | lemma: αγγειον | morphology: samuel sign route | chosen_rendering: And you will pass on from there and beyond, and you will come as far as the oak of Thabor, and you will find there three men going up to God at Baithēl, one carrying three kids, one carrying three vessels of breads, and one carrying a skin of wine. | alternate_renderings: One carrying three kids and another carrying three loaves of bread and another carrying a bottle of wine. | rationale: Greek says three vessels of breads here. Current wording keeps that unusual container wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: three vessels of breads | footnote_text: Greek says vessels of breads here rather than loaves alone. | source_basis: container wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -148362,10 +148400,10 @@ Syntax notes: [TODO]
 Draft translation: And Saoul said, No one will be put to death on this day, because today the Lord has worked salvation in Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ αποθανειται ουδεις εν τη ημερα ταυτη οτι σημερον κυριος εποιησεν σωτηριαν εν ισραηλ | lemma: σωτηρια | morphology: victory mercy line | chosen_rendering: And Saoul said, No one will be put to death on this day, because today the Lord has worked salvation in Israel. | alternate_renderings: Saoul said, No one will be put to death on this day, because today the Lord has worked salvation in Israel. | rationale: Current wording keeps the mercy ruling and salvation line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: today the Lord has worked salvation in Israel | footnote_text: Greek uses salvation language in Saul's mercy ruling. Current wording preserves it. | source_basis: victory mercy line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -148564,10 +148602,10 @@ Syntax notes: [TODO]
 Draft translation: When Iakōb and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aarōn and brought our fathers out of Egypt and settled them in this place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εβοησαν οι πατερες ημων προς κυριον και απεστειλεν κυριος τον μωυσην και τον ααρων | lemma: βοαω | αποστελλω | morphology: retelling clause | chosen_rendering: When Iakōb and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aarōn and brought our fathers out of Egypt and settled them in this place. | alternate_renderings: When Jacob and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aaron and brought our fathers out of Egypt and settled them in this place. | rationale: Current wording keeps the cried-out and sent-Moses-and-Aaron line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: our fathers cried out to the Lord | footnote_text: Greek keeps the cried-out line before the sending of Moses and Aaron. Current wording preserves that retelling sequence. | source_basis: retelling formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -150570,10 +150608,10 @@ Syntax notes: [TODO]
 Draft translation: And Saoul and all the people preserved Agag alive and the good things of the flocks and the herds and the foods and the vineyards and all the good things, and they were not willing to destroy them. But every dishonored and worthless thing they destroyed.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τα αγαθα των ποιμνιων και των βουκολιων και των εδεσματων και των αμπελωνων και παντων των αγαθων | lemma: εδεσματα | αμπελων | morphology: agag spared line | chosen_rendering: And Saoul and all the people preserved Agag alive and the good things of the flocks and the herds and the foods and the vineyards and all the good things, and they were not willing to destroy them. But every dishonored and worthless thing they destroyed. | alternate_renderings: Saul and the people spared Agag and the best of the sheep and oxen and fatlings and lambs and all that was good. | rationale: Greek says foods and vineyards here rather than the familiar MT inventory. Current wording keeps the Greek list. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: foods and vineyards | footnote_text: Greek says foods and vineyards here rather than the familiar MT inventory. | source_basis: inventory difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -150630,10 +150668,10 @@ Syntax notes: [TODO]
 Draft translation: And Samouēl rose early and went to meet Israel in the morning, and it was reported to Samouēl, saying, Saoul has come to Karmēlos and has raised a hand for himself and turned the chariot and gone down to Galgala toward Saoul. And behold, he had offered whole burnt offerings to the Lord, the first of the spoil that he brought from Amalēk.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανεστακεν αυτω χειρα | lemma: ανιστημι | χειρ | morphology: idiom clause | chosen_rendering: And Samouēl rose early and went to meet Israel in the morning, and it was reported to Samouēl, saying, Saoul has come to Karmēlos and has raised a hand for himself and turned the chariot and gone down to Galgala toward Saoul. And behold, he had offered whole burnt offerings to the Lord, the first of the spoil that he brought from Amalēk. | alternate_renderings: Samuel rose early and went to meet Israel in the morning, and it was reported to Samuel, saying, Saul has come to Carmel and has raised a hand for himself and turned the chariot and gone down to Gilgal toward Saul. Behold, he had offered whole burnt offerings to the Lord, the first of the spoil he brought from Amalek. | rationale: Current wording keeps the raised-a-hand-for-himself idiom explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: has raised a hand for himself | footnote_text: Greek uses a raised-a-hand idiom here. Current wording preserves it. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -152054,10 +152092,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord will shut you up into my hand today, and I will kill you and remove your head from you, and I will give your limbs and the limbs of the camp of the foreigners in this day to the birds of the sky and to the beasts of the earth, and all the earth will know that there is a God in Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και δωσω τα κωλα σου και τα κωλα παρεμβολης αλλοφυλων εν ταυτη τη ημερα τοις πετεινοις του ουρανου | lemma: κωλον | morphology: david challenge | chosen_rendering: And the Lord will shut you up into my hand today, and I will kill you and remove your head from you, and I will give your limbs and the limbs of the camp of the foreigners in this day to the birds of the sky and to the beasts of the earth, and all the earth will know that there is a God in Israel. | alternate_renderings: I will give the carcasses of the army of the Philistines this day to the birds of the sky. | rationale: Greek says limbs and limbs of the camp here. Current wording keeps that concrete body-part wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your limbs and limbs of camp | footnote_text: Greek says limbs here rather than a broader carcass expression. | source_basis: body-part wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -152114,10 +152152,10 @@ Syntax notes: [TODO]
 Draft translation: And David stretched out his hand into the pouch and took from there one stone and slung it and struck the foreigner on his forehead, and the stone went through the helmet into his forehead, and he fell on his face to the ground.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διεδυ ο λιθος δια της περικεφαλαιας εις το μετωπον αυτου | lemma: δυω | περικεφαλαια | μετωπον | morphology: clause | chosen_rendering: the stone went through the helmet into his forehead | alternate_renderings: the stone sank through the helmet into his forehead | rationale: Greek explicitly says the stone went through the helmet into his forehead. Current wording keeps that sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the stone went through the helmet into his forehead | footnote_text: Greek explicitly says the stone went through the helmet into his forehead. Current wording keeps the sequence direct. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -152536,10 +152574,10 @@ Syntax notes: [TODO]
 Draft translation: And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Melchol his daughter to be his wife.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επαταξεν εν τοις αλλοφυλοις εκατον ανδρας | lemma: εκατον | morphology: numeral phrase | chosen_rendering: And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Melchol his daughter to be his wife. | alternate_renderings: He struck two hundred men. | rationale: Greek says one hundred here. Current wording keeps the LXX number instead of harmonizing to the MT total. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one hundred men | footnote_text: Greek says one hundred here. Other traditions often harmonize to two hundred. | source_basis: number difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -153500,10 +153538,10 @@ Syntax notes: [TODO]
 Draft translation: But if I say thus to the young man, Here is the arrow from you and beyond, go, because the Lord has sent you away.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ωδε η σχιζα απο σου και επεκεινα | lemma: σχιζα | επεκεινα | morphology: signal formula | chosen_rendering: Here is the arrow from you and beyond | alternate_renderings: The arrow lies beyond you; the arrow is past you | rationale: Current wording keeps the directional sign formula close to the source-row wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Here is the arrow from you and beyond | footnote_text: Greek keeps the directional sign in compressed form. Current wording follows that signal formula closely. | source_basis: signal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -154364,10 +154402,10 @@ Syntax notes: [TODO]
 Draft translation: And Saoul said to his servants standing by him, Hear now, sons of Benjamin. Will the son of Iessai truly give to all of you fields and vineyards and appoint all of you centurions and commanders of thousands,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ει αληθως πασιν υμιν δωσει ο υιος ιεσσαι αγρους και αμπελωνας και παντας υμας ταξει εκατονταρχους και χιλιαρχους | lemma: εκατονταρχος | χιλιαρχος | morphology: saul appeal | chosen_rendering: And Saoul said to his servants standing by him, Hear now, sons of Benjamin. Will the son of Iessai truly give to all of you fields and vineyards and appoint all of you centurions and commanders of thousands, | alternate_renderings: Will the son of Jesse give every one of you fields and vineyards and make you all captains of hundreds and captains of thousands? | rationale: Greek says centurions and commanders of thousands here. Current wording keeps those military titles. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: centurions and commanders of thousands | footnote_text: Greek says those military titles here. | source_basis: military titles | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -155448,10 +155486,10 @@ Syntax notes: [TODO]
 Draft translation: Behold, on this day your eyes have seen that the Lord delivered you today into my hand in the cave, and I was not willing to kill you, and I spared you and said, I will not put my hand upon my lord, because he is anointed of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ουκ ηβουληθην αποκτειναι σε και εφεισαμην σου | lemma: βουλομαι | φειδομαι | morphology: saul spared | chosen_rendering: Behold, on this day your eyes have seen that the Lord delivered you today into my hand in the cave, and I was not willing to kill you, and I spared you and said, I will not put my hand upon my lord, because he is anointed of the Lord. | alternate_renderings: I would not slay thee, but spared thee. | rationale: Greek says I was not willing to kill you and I spared you. Current wording keeps both verbs. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I was not willing to kill you and I spared you | footnote_text: Greek keeps both refusal and sparing verbs here. | source_basis: double verb | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -156210,10 +156248,10 @@ Syntax notes: [TODO]
 Draft translation: And now, my lord, as the Lord lives and as your life lives, just as the Lord kept you back from coming into innocent blood and from saving your hand for yourself, now let your enemies and the ones seeking evil for my lord become like Nabal.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καθως εκωλυσεν σε κυριος του μη ελθειν εις αιμα αθωον και σωζειν την χειρα σου σοι | lemma: κωλυω | αιμα αθωον | σωζω την χειρα | morphology: Abigail plea line | chosen_rendering: And now, my lord, as the Lord lives and as your life lives, just as the Lord kept you back from coming into innocent blood and from saving your hand for yourself, now let your enemies and the ones seeking evil for my lord become like Nabal. | alternate_renderings: The Lord has kept you from coming to shed blood and from avenging yourself with your own hand. | rationale: Greek says innocent blood and saving your hand for yourself. Current wording keeps that harder phrasing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: innocent blood | footnote_text: Greek says innocent blood and saving your hand for yourself. | source_basis: violent wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -157294,10 +157332,10 @@ Syntax notes: [TODO]
 Draft translation: And he did not keep alive man and woman to bring into Geth, saying, Lest they report in Geth against us, saying, Thus David does. And this was his rule all the days David sat in the countryside of the foreigners.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τοδε το δικαιωμα αυτου πασας τας ημερας ας εκαθητο δαυιδ εν αγρω των αλλοφυλων | lemma: δικαιωμα | morphology: david rule line | chosen_rendering: And he did not keep alive man and woman to bring into Geth, saying, Lest they report in Geth against us, saying, Thus David does. And this was his rule all the days David sat in the countryside of the foreigners. | alternate_renderings: This was his manner all the while he dwelt in the country of the Philistines. | rationale: Greek says this was his rule and sat in the countryside of the foreigners. Current wording keeps that form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: this was his rule | footnote_text: Greek says this was his rule and sat in countryside of foreigners here. | source_basis: rule wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -157878,10 +157916,10 @@ Syntax notes: [TODO]
 Draft translation: And the satraps of the foreigners said, Who are these passing over? And Anchous said to the generals of the foreigners, Is not this David, servant of Saoul king of Israel, who has been with us these days, this second year, and I have found nothing in him from the day he fell in with me until this day?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: γεγονεν μεθ' ημων ημερας τουτο δευτερον ετος και ουχ ευρηκα εν αυτω ουθεν | lemma: δευτερος | ουθεν | morphology: anchous defense | chosen_rendering: And the satraps of the foreigners said, Who are these passing over? And Anchous said to the generals of the foreigners, Is not this David, servant of Saoul king of Israel, who has been with us these days, this second year, and I have found nothing in him from the day he fell in with me until this day? | alternate_renderings: Has he not been with me these days or these years? and I have found no fault in him. | rationale: Greek says these days, this second year and I found nothing in him. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: these days this second year | footnote_text: Greek says these days, this second year here. | source_basis: time phrasing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -157978,10 +158016,10 @@ Syntax notes: [TODO]
 Draft translation: And David said to Anchous, What have I done to you, and what have you found in your servant from the day I was before you until this day, that I should not come to fight the enemies of my lord the king?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οτι ου μη ελθω πολεμησαι τους εχθρους του κυριου μου του βασιλεως | lemma: ου μη | πολεμεω | morphology: strong question | chosen_rendering: that I should not come to fight the enemies of my lord the king? | alternate_renderings: why should I not come and fight the enemies of my lord the king? | rationale: Current wording keeps the strong-question force close to the source-row line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: that I should not come to fight the enemies of my lord the king? | footnote_text: Greek uses strong-question force here. Current wording stays close to that line. | source_basis: question force | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -158480,10 +158518,10 @@ Syntax notes: [TODO]
 Draft translation: And every pestilent and evil man of the fighting men who had gone with David answered and said, Because they did not pursue with us, we will not give them from the spoil that we rescued, except each his wife and his children; let them take them and go away.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πας ανηρ λοιμος και πονηρος | lemma: λοιμος | πονηρος | morphology: insult phrase | chosen_rendering: And every pestilent and evil man of the fighting men who had gone with David answered and said, Because they did not pursue with us, we will not give them from the spoil that we rescued, except each his wife and his children; let them take them and go away. | alternate_renderings: Every wicked and worthless man. | rationale: Greek uses a sharper insult phrase here. Current wording keeps it rather than smoothing it away. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pestilent and evil man | footnote_text: Greek uses a sharper insult phrase here rather than a smoother label. | source_basis: insult phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -158742,10 +158780,10 @@ Syntax notes: [TODO]
 Draft translation: And Saoul said to the one carrying his equipment, Draw your sword and pierce me with it, lest these uncircumcised ones come and pierce me and mock me. But the one carrying his equipment was not willing, because he feared greatly. And Saoul took the sword and fell upon it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σπασαι την ρομφαιαν σου και αποκεντησον με εν αυτη | lemma: αποκεντεω | morphology: violent imperative | chosen_rendering: And Saoul said to the one carrying his equipment, Draw your sword and pierce me with it, lest these uncircumcised ones come and pierce me and mock me. But the one carrying his equipment was not willing, because he feared greatly. And Saoul took the sword and fell upon it. | alternate_renderings: Draw your sword and thrust me through with it. | rationale: Greek says pierce me with it and repeats that verb in Saul's fear. Current wording keeps the repetition. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pierce me with it | footnote_text: Greek repeats the pierce verb in Saul's plea. | source_basis: violent wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -158922,10 +158960,10 @@ Syntax notes: [TODO]
 Draft translation: And they took their bones and buried them under the tamarisk tree at Iabis and fasted seven days.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: λαμβανουσιν τα οστα αυτων και θαπτουσιν υπο την αρουραν την ιαβις και νηστευουσιν επτα ημερας | lemma: οστα | νηστευω | morphology: burial notice | chosen_rendering: And they took their bones and buried them under the tamarisk tree at Iabis and fasted seven days. | alternate_renderings: They took their bones and buried them under the tamarisk tree at Iabis and fasted seven days. | rationale: Current wording keeps the burial and fasting notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: buried them under the tamarisk tree at Iabis and fasted seven days | footnote_text: Greek keeps burial and mourning together. Current wording preserves that notice. | source_basis: burial notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -159928,10 +159966,10 @@ Syntax notes: [TODO]
 Draft translation: And he was not willing to stand away, and Abennēr struck him with the back of the spear in the belly, and the spear came out from behind him, and he fell there and died under him. And it came to be, everyone coming to the place where Asaēl fell there and died, would stand still.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τυπτει αυτον αβεννηρ εν τω οπισω του δορατος επι την ψοαν και πιπτει εκει και αποθνησκει υποκατω αυτου | lemma: ψοα | υποκατω | morphology: violent death line | chosen_rendering: And he was not willing to stand away, and Abennēr struck him with the back of the spear in the belly, and the spear came out from behind him, and he fell there and died under him. And it came to be, everyone coming to the place where Asaēl fell there and died, would stand still. | alternate_renderings: Abner struck him under the fifth rib and he died in the same place. | rationale: Greek says in the belly and died under him. Current wording keeps those harder details instead of harmonizing to the familiar phrasing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in the belly | footnote_text: Greek says in the belly here rather than the familiar under-the-fifth-rib phrasing. | source_basis: bodily detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -160550,10 +160588,10 @@ Syntax notes: [TODO]
 Draft translation: And behold, the servants of David and Iōab were coming from the raid and bringing much spoil with them, and Abennēr was not with David in Chebrōn, because he had sent him away and he had gone in peace.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παρεγινοντο εκ της εξοδιας και σκυλα πολλα εφερον μετ αυτων | lemma: εξοδια | σκυλα | morphology: narrative clause | chosen_rendering: And behold, the servants of David and Iōab were coming from the raid and bringing much spoil with them, and Abennēr was not with David in Chebrōn, because he had sent him away and he had gone in peace. | alternate_renderings: Behold, the servants of David and Joab came from the raid and were bringing much spoil with them, and Abner was not with David in Hebron, because he had sent him away and he had gone in peace. | rationale: Current wording keeps the raid-and-much-spoil line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: coming from the raid and bringing much spoil with them | footnote_text: Greek keeps the raid-and-spoil line direct. Current wording preserves it. | source_basis: raid line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -161174,10 +161212,10 @@ Syntax notes: [TODO]
 Draft translation: And yesterday and the third day, while Saoul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ ποιμανεις τον λαον μου τον ισραηλ | lemma: ποιμαινω | morphology: future clause | chosen_rendering: you will shepherd my people Israel | alternate_renderings: you will feed my people Israel | rationale: Current wording keeps the shepherd metaphor explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you will shepherd my people Israel | footnote_text: The Greek uses shepherd language directly. The current wording preserves that metaphor. | source_basis: shepherd metaphor | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -161234,10 +161272,10 @@ Syntax notes: [TODO]
 Draft translation: In Chebrōn he reigned over Iouda seven years and six months, and in Ierousalēm he reigned thirty-three years over all Israel and Iouda.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επι παντα ισραηλ και ιουδαν εν ιερουσαλημ | lemma: πας | ισραηλ | ιουδας | morphology: regnal clause | chosen_rendering: In Chebrōn he reigned over Iouda seven years and six months, and in Ierousalēm he reigned thirty-three years over all Israel and Iouda. | alternate_renderings: In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah. | rationale: Current wording keeps the regnal summary plain and close to the source-row line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: over all Israel and Iouda | footnote_text: Greek states the regnal scope directly. Current wording preserves it. | source_basis: regnal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -162158,10 +162196,10 @@ Syntax notes: [TODO]
 Draft translation: And Nathan said to the king, All things whatever are in your heart, go and do, because the Lord is with you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παντα οσα αν εν τη καρδια σου βαδιζε και ποιει οτι κυριος μετα σου | lemma: καρδια | βαδιζω | morphology: advice clause | chosen_rendering: And Nathan said to the king, All things whatever are in your heart, go and do, because the Lord is with you. | alternate_renderings: Nathan said to the king, All things whatever are in your heart, go and do, because the Lord is with you. | rationale: Current wording keeps the in-your-heart go-and-do line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: All things whatever are in your heart | footnote_text: Greek gives Nathan's advice with the in-your-heart line directly. Current wording preserves that counsel formula. | source_basis: counsel formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -162298,10 +162336,10 @@ Syntax notes: [TODO]
 Draft translation: And I will appoint a place for my people Israel, and I will plant him, and he will tabernacle by himself and will no longer be anxious, and a son of wrongdoing will no longer add to humble him as from the beginning,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και κατασκηνωσει καθ' εαυτον και ου μεριμνησει ουκετι | lemma: κατασκηνοω | μεριμναω | morphology: future verbs | chosen_rendering: And I will appoint a place for my people Israel, and I will plant him, and he will tabernacle by himself and will no longer be anxious, and a son of wrongdoing will no longer add to humble him as from the beginning, | alternate_renderings: He will dwell by himself and no longer be disturbed. | rationale: Greek says he will tabernacle by himself and no longer be anxious. Current wording keeps that texture visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: will tabernacle by himself | footnote_text: Greek says he will tabernacle by himself and no longer be anxious. | source_basis: dwelling idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -162338,10 +162376,10 @@ Syntax notes: [TODO]
 Draft translation: And it will be, if your days are fulfilled and you sleep with your fathers, I will raise up your seed after you, who will be from your belly, and I will make his kingdom ready.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αναστησω το σπερμα σου μετα σε ος εσται εκ της κοιλιας σου και ετοιμασω την βασιλειαν αυτου | lemma: κοιλια | ετοιμαζω | morphology: dynastic promise | chosen_rendering: And it will be, if your days are fulfilled and you sleep with your fathers, I will raise up your seed after you, who will be from your belly, and I will make his kingdom ready. | alternate_renderings: It will be, if your days are fulfilled and you sleep with your fathers, I will raise up your seed after you, who will be from your belly, and I will make his kingdom ready. | rationale: Current wording keeps the from-your-belly phrase and ready-kingdom line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: who will be from your belly | footnote_text: Greek uses body-source language in the dynastic promise. Current wording preserves that phrase. | source_basis: dynastic promise | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -164288,10 +164326,10 @@ Syntax notes: [TODO]
 Draft translation: And to the poor man there was nothing except one little ewe lamb, which he acquired and kept alive and nourished, and it grew up with him and with his sons together. From his bread it would eat and from his cup it would drink and in his bosom it would sleep, and it was to him as a daughter.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τω πενητι ουδεν αλλ' η αμνας μια μικρα ην εκτησατο και περιεποιησατο και εξεθρεψεν αυτην | lemma: περιποιεομαι | εκτρεφω | morphology: tender-care line | chosen_rendering: And to the poor man there was nothing except one little ewe lamb, which he acquired and kept alive and nourished, and it grew up with him and with his sons together. From his bread it would eat and from his cup it would drink and in his bosom it would sleep, and it was to him as a daughter. | alternate_renderings: The poor man had only one little ewe lamb which he had bought and nourished. | rationale: Greek adds kept alive and nourished before the domestic details. Current wording keeps the fuller tenderness line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: kept alive and nourished | footnote_text: Greek adds those tenderness verbs before the domestic details. | source_basis: care wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -164348,10 +164386,10 @@ Syntax notes: [TODO]
 Draft translation: And he will repay the ewe lamb sevenfold, because he did this thing and because he did not spare.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: την αμναδα αποτεισει επταπλασιονα ανθ' ων οτι εποιησεν το ρημα τουτο και περι ου ουκ εφεισατο | lemma: αποτεινω | επταπλασιος | morphology: judgment verdict | chosen_rendering: And he will repay the ewe lamb sevenfold, because he did this thing and because he did not spare. | alternate_renderings: He will repay the ewe lamb sevenfold, because he did this thing and because he did not spare. | rationale: Current wording keeps the sevenfold verdict plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: repay the ewe lamb sevenfold | footnote_text: Greek states David's verdict with sevenfold repayment language. Current wording preserves it. | source_basis: judgment verdict | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -165150,10 +165188,10 @@ Syntax notes: [TODO]
 Draft translation: And Amnōn hated her with a very great hatred, because the hatred with which he hated her was greater than the love with which he loved her. And Amnōn said to her, Rise and go.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μεγα το μισος ο εμισησεν αυτην υπερ την αγαπην | lemma: μισος | αγαπη | morphology: comparison clause | chosen_rendering: the hatred with which he hated her was greater than the love | alternate_renderings: the hatred with which he hated her was greater than the love | rationale: Current wording keeps the reversal line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the hatred with which he hated her was greater than the love | footnote_text: The Greek intensifies the reversal directly. The current wording preserves that line. | source_basis: reversal line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -165732,10 +165770,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said to her, What is with you? And she said, Truly I am a widow woman, and my husband died.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και μαλα γυνη χηρα εγω ειμι | lemma: μαλα | χηρα | morphology: statement clause | chosen_rendering: And the king said to her, What is with you? And she said, Truly I am a widow woman, and my husband died. | alternate_renderings: The king said to her, What is with you? And she said, Truly I am a widow woman, and my husband has died. | rationale: Current wording keeps the stark widow-woman self-description. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Truly I am a widow woman | footnote_text: Greek uses a stark widow-woman self-description. Current wording preserves it. | source_basis: self-description | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -166292,10 +166330,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōab entered to the king and reported to him, and he called Abessalōm, and he entered to the king and bowed down to him and fell on his face to the ground before the king, and the king kissed Abessalōm.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατεφιλησεν ο βασιλευς τον αβεσσαλωμ | lemma: καταφιλεω | morphology: aorist clause | chosen_rendering: the king kissed Abessalōm | alternate_renderings: the king kissed Absalom | rationale: Current wording keeps the reconciliation line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the king kissed Abessalōm | footnote_text: The Greek ends with a direct reconciliation gesture. The current wording keeps that line explicit. | source_basis: reconciliation gesture | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -166774,10 +166812,10 @@ Syntax notes: [TODO]
 Draft translation: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αιροντες την κιβωτον διαθηκης κυριου | lemma: αιρω | κιβωτος | διαθηκη | morphology: noun phrase | chosen_rendering: carrying the ark of the covenant of the Lord | alternate_renderings: bearing the ark of the covenant of the Lord | rationale: Current wording keeps the ark phrase explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: carrying the ark of the covenant of the Lord | footnote_text: The Greek uses the ark phrase directly. The current wording preserves it. | source_basis: ark phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -168480,10 +168518,10 @@ Syntax notes: [TODO]
 Draft translation: And Ioab said to him, You are not a bearer of good news on this day, but you may bring good news on another day. On this day you shall not bring good news, because the king's son is dead.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ ανηρ ευαγγελιας συ εν τη ημερα ταυτη | lemma: ευαγγελια | morphology: message clause | chosen_rendering: And Ioab said to him, You are not a bearer of good news on this day, but you may bring good news on another day. On this day you shall not bring good news, because the king's son is dead. | alternate_renderings: Ioab said to him, You are not a bearer of good news on this day, but you may bring good news on another day. On this day you shall not bring good news, because the king's son is dead. | rationale: Current wording keeps the not-a-bearer-of-good-news line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: You are not a bearer of good news on this day | footnote_text: Greek states the restriction with the bearer-of-good-news line directly. Current wording preserves that wording. | source_basis: message formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -169724,10 +169762,10 @@ Syntax notes: [TODO]
 Draft translation: And David said to Abessa, Now Sabee son of Bochori will do us more harm than Abessalom. So now take with you the servants of your lord and pursue after him, lest he find fortified cities for himself and hide from our eyes.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σκιασει τους οφθαλμους ημων | lemma: σκιαζω | οφθαλμος | morphology: idiom clause | chosen_rendering: And David said to Abessa, Now Sabee son of Bochori will do us more harm than Abessalom. So now take with you the servants of your lord and pursue after him, lest he find fortified cities for himself and hide from our eyes. | alternate_renderings: David said to Abessa, Now Sabee son of Bochori will do us more harm than Abessalom. Take with you the servants of your lord and pursue after him, lest he find fortified cities for himself and overshadow our eyes. | rationale: Current wording keeps the hide-from-our-eyes sense in standard English while preserving the warning line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: hide from our eyes | footnote_text: Greek ends with an eyes-warning line. Current wording preserves the sense in standard English. | source_basis: warning idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -170024,10 +170062,10 @@ Syntax notes: [TODO]
 Draft translation: This is not the matter, but a man from the hill country of Ephraim, Sabee son of Bochori is his name, and he lifted his hand against King David. Give him to me alone, and I will depart from the city. And the woman said to Ioab, Behold, his head will be thrown to you through the wall.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουχ ουτος ο λογος οτι ανηρ εξ ορους εφραιμ σαβεε υιος βοχορι ονομα αυτου και επηρεν την χειρα αυτου επι τον βασιλεα δαυιδ | lemma: reply line | morphology: city negotiation | chosen_rendering: This is not the matter, but a man from the hill country of Ephraim, Sabee son of Bochori is his name, and he lifted his hand against King David. Give him to me alone, and I will depart from the city. And the woman said to Ioab, Behold, his head will be thrown to you through the wall. | alternate_renderings: The matter is not so; a man of mount Ephraim named Sheba son of Bichri has lifted his hand against King David. | rationale: Greek says this is not the matter and keeps the Sabee Bochori forms. Current wording preserves that line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: This is not the matter | footnote_text: Greek opens the reply with that line and keeps the Sabee Bochori forms. | source_basis: reply wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -170146,10 +170184,10 @@ Syntax notes: [TODO]
 Draft translation: And there was famine in the days of David three years, year following year. And David sought the face of the Lord, and the Lord said, There is guilt on Saoul and on his house for blood, because he put the Gabaonites to death.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εζητησεν δαυιδ το προσωπον του κυριου | lemma: ζητεω | προσωπον | morphology: idiom clause | chosen_rendering: And David sought the face of the Lord, and the Lord said, There is guilt on Saoul and on his house for blood, because he put the Gabaonites to death. | alternate_renderings: And David sought the Lord's face, and the Lord said there is bloodguilt on Saul and his house because he killed the Gibeonites. | rationale: Current wording keeps the face-of-the-Lord idiom and the blood-guilt line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sought the face of the Lord | footnote_text: Greek uses the face-of-the-Lord idiom directly. Current wording preserves it. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -170386,10 +170424,10 @@ Syntax notes: [TODO]
 Draft translation: And he brought up from there the bones of Saoul and the bones of Ionathan his son, and they gathered the bones of the ones exposed to the sun.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ανηνεγκεν εκειθεν τα οστα σαουλ και τα οστα ιωναθαν του υιου αυτου και συνηγαγεν τα οστα των εξηλιασμενων | lemma: εξηλιαζω | morphology: perfect passive participle genitive plural | chosen_rendering: And he brought up from there the bones of Saoul and the bones of Ionathan his son, and they gathered the bones of the ones exposed to the sun. | alternate_renderings: And he brought up from there the bones of Saul and Jonathan and gathered the bones of the hanged ones. | rationale: Greek describes them as ones exposed to the sun. Current wording keeps that image visible instead of normalizing it to hanging-language. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: ones exposed to the sun | footnote_text: Greek literally says ones exposed to the sun. Other traditions often smooth this to those hanged. | source_basis: lexical + textual | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -170608,10 +170646,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, O Lord, my rock and my fortress and my rescuer for me,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κυριε πετρα μου και οχυρωμα μου και εξαιρουμενος με εμοι | lemma: κυριος | πετρα | οχυρωμα | εξαιρω | morphology: clause | chosen_rendering: O Lord, my rock and my fortress and my rescuer for me | alternate_renderings: O Lord, my rock and my stronghold and my deliverer for me | rationale: Current wording preserves the compact chain of titles, including the final dative turn. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my rescuer for me | footnote_text: Greek closes the title-chain with a personal dative turn. Current wording keeps that compact ending. | source_basis: lexical + style | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -171148,10 +171186,10 @@ Syntax notes: [TODO]
 Draft translation: Because you are my lamp, O Lord, and the Lord will light up my darkness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ ο λυχνος μου κυριε και κυριος εκλαμψει μοι το σκοτος μου | lemma: λυχνος | εκλαμπω | morphology: clause | chosen_rendering: Because you are my lamp, O Lord, and the Lord will light up my darkness. | alternate_renderings: For you are my lamp, O Lord, and the Lord will brighten my darkness. | rationale: Current wording keeps the lamp-and-darkness line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you are my lamp O Lord and the Lord will light up my darkness | footnote_text: Greek keeps the lamp-and-darkness parallel explicit. Current wording preserves it. | source_basis: light formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -171730,10 +171768,10 @@ Syntax notes: [TODO]
 Draft translation: And the man who touches them will arm himself with full iron and the shaft of a spear, and they shall be utterly burned with fire in their shame.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εν πυρι καυσει καυθησονται αισχυνη αυτων | lemma: αισχυνη | morphology: closing noun phrase | chosen_rendering: And the man who touches them will arm himself with full iron and the shaft of a spear, and they shall be utterly burned with fire in their shame. | alternate_renderings: They shall be burned with fire in the same place. | rationale: Greek closes with shame here, not place. Current wording keeps that textual difference visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in their shame | footnote_text: Greek reads in their shame here. Other traditions often read in that place instead. | source_basis: textual difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -172090,10 +172128,10 @@ Syntax notes: [TODO]
 Draft translation: Samma the Aroudite, Elika the Aroudite,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σαμαι ο αρουδαιος ελικα ο αρωδαιος | lemma: proper names | morphology: name list | chosen_rendering: Samma the Aroudite, Elika the Aroudite, | alternate_renderings: Shammah the Harodite, Elika the Harodite, | rationale: Current wording keeps the transliterated name list close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Samma the Aroudite, Elika the Aroudite, | footnote_text: Greek gives a terse transliterated name list. Current wording preserves it. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -172392,10 +172430,10 @@ Syntax notes: [TODO]
 Draft translation: And again the anger of the Lord burned in Israel, and he shook David among them, saying, Go, number Israel and Iouda.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και προσεθετο οργη κυριου εκκαηναι εν ισραηλ και επεσεισεν τον δαυιδ εν αυτοις | lemma: οργη κυριου | επισειω | morphology: judgment clause | chosen_rendering: And again the anger of the Lord burned in Israel, and he shook David among them, saying, Go, number Israel and Iouda. | alternate_renderings: Again the anger of the Lord burned in Israel, and he shook David among them, saying, Go, number Israel and Iouda. | rationale: Current wording keeps the Lord-burned-and-shook-David line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: again the anger of the Lord burned in Israel | footnote_text: Greek states the provocation here with the Lord's anger, not a secondary agent. Current wording preserves that source-row theology. | source_basis: judgment theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -172412,10 +172450,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said to Ioab, commander of the strength with him, Go now through all the tribes of Israel from Dan to Bersabee and count the people, and I will know the number of the people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αρχοντα της ισχυος τον μετ' αυτου διελθε δη πασας φυλας ισραηλ απο δαν και εως βηρσαβεε | lemma: ισχυς | morphology: census order | chosen_rendering: And the king said to Ioab, commander of the strength with him, Go now through all the tribes of Israel from Dan to Bersabee and count the people, and I will know the number of the people. | alternate_renderings: The king said to Joab captain of the host, Go through all the tribes of Israel and Judah from Dan to Beersheba and number the people. | rationale: Greek says commander of the strength with him and omits Judah here. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: commander of the strength with him | footnote_text: Greek says that title and omits Judah here. | source_basis: title plus omission | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -172452,10 +172490,10 @@ Syntax notes: [TODO]
 Draft translation: But the word of the king prevailed against Ioab and against the commanders of the force, and Ioab and the commanders of the force went out from before the king to count the people of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υπερισχυσεν ο λογος του βασιλεως προς ιωαβ | lemma: υπερισχυω | λογος | morphology: clause | chosen_rendering: But the word of the king prevailed against Ioab and against the commanders of the force, and Ioab and the commanders of the force went out from before the king to count the people of Israel. | alternate_renderings: The king's word prevailed over Joab and the commanders of the force, and they went out from before the king to count the people of Israel. | rationale: Current wording keeps the prevailed-word line and the departure from before the king explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the word of the king prevailed against Ioab | footnote_text: Greek uses a prevailed-word line here. Current wording preserves it. | source_basis: authority formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -173256,10 +173294,10 @@ Syntax notes: [TODO]
 Draft translation: And he sacrificed calves and lambs and sheep in abundance and called all the sons of the king and Abiathar the priest and Ioab commander of the force, but Solomon your servant he did not call.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τον σαλωμων τον δουλον σου ουκ εκαλεσεν | lemma: καλεω | δουλος | morphology: contrast clause | chosen_rendering: but Solomon your servant he did not call. | alternate_renderings: but Solomon your servant he did not invite. | rationale: Current wording keeps the contrast line direct and close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: but Solomon your servant he did not call. | footnote_text: Greek ends with a direct contrast line. Current wording preserves it. | source_basis: contrast line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -174018,10 +174056,10 @@ Syntax notes: [TODO]
 Draft translation: So that the Lord may establish his word that he spoke, saying, If your sons guard their way to walk before me in truth, with all their heart and with all their soul, there will not be destroyed for you a man from upon the throne of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εξολεθρευθησεται σοι ανηρ επανωθεν θρονου ισραηλ | lemma: εξολεθρευω | morphology: negative future passive | chosen_rendering: So that the Lord may establish his word that he spoke, saying, If your sons guard their way to walk before me in truth, with all their heart and with all their soul, there will not be destroyed for you a man from upon the throne of Israel. | alternate_renderings: There will not fail you a man upon the throne of Israel. | rationale: Greek frames the promise with destroyed-language rather than fail-language. Current wording keeps that sharper form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there will not be destroyed for you a man | footnote_text: Greek frames the promise with destroyed-language rather than fail-language. | source_basis: promise formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -175662,10 +175700,10 @@ Syntax notes: [TODO]
 Draft translation: Son of Gaber in Ramath Galaad. To this one belonged the line-measure of Eregaba that is in Basan, sixty great walled cities and bronze bars.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τουτω σχοινισμα ερεγαβα η εν τη βασαν εξηκοντα πολεις μεγαλαι τειχηρεις και μοχλοι χαλκοι εις | lemma: verse mapping + place phrase | morphology: administrative district line | chosen_rendering: Son of Gaber in Ramath Galaad. To this one belonged the line-measure of Eregaba that is in Basan, sixty great walled cities and bronze bars. | alternate_renderings: To him pertained the towns of Jair and the region of Argob in Bashan. | rationale: Greek maps this verse differently and keeps a line-measure phrase with Eregaba. Current wording leaves that Greek form visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: line-measure of Eregaba | footnote_text: This LXX verse keeps a different district line here, with line-measure of Eregaba in Basan. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -175884,10 +175922,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord gave understanding to Solomon and very great wisdom and breadth of heart like the sand that is beside the sea.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εδωκεν κυριος φρονησιν τω σαλωμων και σοφιαν πολλην σφοδρα και χυμα καρδιας ως η αμμος η παρα την θαλασσαν | lemma: φρονησις | σοφια | morphology: royal wisdom line | chosen_rendering: And the Lord gave understanding to Solomon and very great wisdom and breadth of heart like the sand that is beside the sea. | alternate_renderings: My servants will bring them down from Lebanon to the sea. | rationale: This LXX verse is the Solomon-wisdom line, not the MT shipping line at this verse number. Current wording keeps the Greek verse mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the Lord gave understanding to Solomon | footnote_text: This LXX verse number carries the Solomon-wisdom line rather than the MT shipping line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -177970,10 +178008,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be when Solomon finished building the house of the Lord and his own house, after twenty years, then King Solomon assembled all the elders of Israel in Sion, to bring up the ark of the covenant of the Lord from the City of David, this is Sion.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εγενετο εν τω συντελεσαι σαλωμων του οικοδομησαι τον οικον κυριου και τον οικον εαυτου μετα εικοσι ετη τοτε εξεκκλησιασεν ο βασιλευς σαλωμων παντας τους πρεσβυτερους ισραηλ εν σιων | lemma: verse mapping difference | morphology: assembly notice | chosen_rendering: And it came to be when Solomon finished building the house of the Lord and his own house, after twenty years, then King Solomon assembled all the elders of Israel in Sion, to bring up the ark of the covenant of the Lord from the City of David, this is Sion. | alternate_renderings: Then Solomon assembled the elders of Israel in Jerusalem to bring up the ark. | rationale: This LXX verse number includes the twenty-year completion notice and places the assembly in Sion. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: after twenty years | footnote_text: Greek includes the twenty-year completion notice here. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178130,10 +178168,10 @@ Syntax notes: [TODO]
 Draft translation: There was nothing in the ark except two stone tablets, tablets of the covenant, which Moyses put there in Choreb, which the Lord covenanted with the sons of Israel when they came out from the land of Egypt.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ ην εν τη κιβωτω πλην δυο πλακες λιθιναι πλακες της διαθηκης | lemma: πλαξ | διαθηκη | morphology: ark clause | chosen_rendering: There was nothing in the ark except two stone tablets, tablets of the covenant, which Moyses put there in Choreb, which the Lord covenanted with the sons of Israel when they came out from the land of Egypt. | alternate_renderings: There was nothing in the ark except two stone tablets, tablets of the covenant, which Moses put there in Choreb, which the Lord covenanted with the sons of Israel when they came out from the land of Egypt. | rationale: Current wording keeps the nothing-in-the-ark-except-two-stone-tablets line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: nothing in the ark except two stone tablets | footnote_text: Greek keeps the ark contents statement very direct. Current wording preserves that covenant-tablets line. | source_basis: ark formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178350,10 +178388,10 @@ Syntax notes: [TODO]
 Draft translation: And Solomon stood before the altar of the Lord in the sight of all the assembly of Israel and spread out his hands toward heaven,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εστη σαλωμων κατα προσωπον του θυσιαστηριου κυριου ενωπιον πασης εκκλησιας ισραηλ και διεπετασεν τας χειρας αυτου εις τον ουρανον | lemma: διαπεταννυμι | morphology: prayer posture | chosen_rendering: And Solomon stood before the altar of the Lord in the sight of all the assembly of Israel and spread out his hands toward heaven, | alternate_renderings: Solomon stood before the altar of the Lord in the sight of all the assembly of Israel and spread out his hands toward heaven. | rationale: Current wording keeps the prayer-posture scene plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: spread out his hands toward heaven | footnote_text: Greek marks Solomon's prayer stance with that gesture. Current wording preserves it. | source_basis: prayer posture | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178410,10 +178448,10 @@ Syntax notes: [TODO]
 Draft translation: And now, Lord God of Israel, keep for your servant David my father the things you spoke to him, saying, A man for you will not be lifted away from before me, sitting upon the throne of Israel, if only your children keep their ways to walk before me as you walked before me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εξαρθησεται σου ανηρ εκ προσωπου μου καθημενος επι θρονου ισραηλ | lemma: εξαιρω | θρονος | morphology: promise clause | chosen_rendering: And now, Lord God of Israel, keep for your servant David my father the things you spoke to him, saying, A man for you will not be lifted away from before me, sitting upon the throne of Israel, if only your children keep their ways to walk before me as you walked before me. | alternate_renderings: Now, Lord God of Israel, keep for your servant David my father the things you spoke to him, saying, A man for you will not be lifted away from before me, sitting upon the throne of Israel, if only your children keep their ways to walk before me as you walked before me. | rationale: Current wording keeps the not-be-lifted-away-from-before-me formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a man for you will not be lifted away from before me | footnote_text: Greek phrases the Davidic promise with not be lifted away from before me. Current wording preserves that promise formula. | source_basis: royal promise formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178550,10 +178588,10 @@ Syntax notes: [TODO]
 Draft translation: then you will hear from heaven and act and judge your people Israel, to condemn the lawless by giving his way upon his own head, and to justify the righteous by giving to him according to his righteousness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δουναι την οδον αυτου εις κεφαλην αυτου | lemma: διδωμι | οδος | κεφαλη | morphology: clause | chosen_rendering: by giving his way upon his own head | alternate_renderings: by placing his way on his own head; by returning his way on his head | rationale: Current wording keeps the head-return judgment idiom instead of flattening it into a generic penalty line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by giving his way upon his own head | footnote_text: Greek uses a head-return judgment idiom. Current wording keeps the idiom rather than flattening it to a generic punishment line. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178610,10 +178648,10 @@ Syntax notes: [TODO]
 Draft translation: When heaven is shut and rain does not come because they sinned against you, and they pray toward this place and confess to your name and turn back from their sins when you humble them,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξομολογησονται τω ονοματι σου | lemma: εξομολογεω | ονομα | morphology: future clause | chosen_rendering: confess to your name | alternate_renderings: confess your name | rationale: Current wording keeps the name-formula line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: confess to your name | footnote_text: The Greek keeps the name formula explicit. The current wording preserves that line. | source_basis: name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -178850,10 +178888,10 @@ Syntax notes: [TODO]
 Draft translation: and they will turn their hearts back in the land where they were carried there and turn and entreat you in the land of their migration, saying, We sinned, we acted lawlessly, we did wrong,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επιστρεψουσιν καρδιας αυτων εν τη γη ου μετηχθησαν εκει και επιστρεψωσιν και δεηθωσιν σου εν γη μετοικιας αυτων | lemma: επιστρεφω καρδιαν | morphology: repentance phrase | chosen_rendering: and they will turn their hearts back in the land where they were carried there and turn and entreat you in the land of their migration, saying, We sinned, we acted lawlessly, we did wrong, | alternate_renderings: They shall bethink themselves and repent and make supplication in the land of captivity. | rationale: Greek says they will turn their hearts back and then turn and entreat. Current wording keeps that sequence visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: turn their hearts back | footnote_text: Greek keeps that repentance sequence before turn and entreat. | source_basis: repentance phrasing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -179552,10 +179590,10 @@ Syntax notes: [TODO]
 Draft translation: And Chiram sent in the ship his servants, seafaring men skilled to drive the sea, with the servants of Solomon.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανδρας ναυτικους ελαυνειν ειδοτας θαλασσαν | lemma: ναυτικος | ελαυνω | θαλασσα | morphology: clause | chosen_rendering: And Chiram sent in the ship his servants, seafaring men skilled to drive the sea, with the servants of Solomon. | alternate_renderings: Hiram sent in the ship his servants, seafaring men who knew how to drive the sea, with the servants of Solomon. | rationale: Current wording keeps the vivid drive-the-sea wording instead of flattening it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seafaring men skilled to drive the sea | footnote_text: Greek uses vivid seafaring wording here. Current wording preserves it. | source_basis: nautical wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -180357,9 +180395,11 @@ Draft translation: And the Lord said to Solomon, Because these things came to be
 
 Decision rows:
 - greek_phrase: διαρρήσσων διαρρήξω | lemma: διαρρήσσω | morphology: participle + future verb | chosen_rendering: in tearing I will tear | alternate_renderings: I will surely tear apart | rationale: Keeps the doubled tearing emphasis in the divine judgment formula. | status: drafted
+- greek_phrase: διαρρησσων διαρρηξω την βασιλειαν σου εκ χειρος σου και δωσω αυτην τω δουλω σου | lemma: διαρρησσω | morphology: kingdom-rending threat | chosen_rendering: And the Lord said to Solomon, Because these things came to be with you and you did not keep my commandments and my ordinances that I commanded you, in tearing I will tear your kingdom out of your hand and give it to your servant. | alternate_renderings: I will surely rend your kingdom from you and give it to your servant. | rationale: Greek doubles the tearing verb here. Current wording keeps that emphatic pattern visible. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: in tearing I will tear | footnote_text: The Greek doubles the tearing verb for emphasis. The draft keeps the doubled form visible rather than reducing it to a smoother single verb. | source_basis: lexical + rhetoric | status: drafted
+- note_type: translation | trigger_phrase: in tearing I will tear | footnote_text: Greek doubles the tearing verb here. | source_basis: emphatic verb | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -181198,10 +181238,10 @@ Syntax notes: [TODO]
 Draft translation: and he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add upon your yoke. My father disciplined you with whips, but I will discipline you with scorpions.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο πατηρ μου εβαρυνεν τον κλοιον υμων καγω προσθησω επι τον κλοιον υμων | lemma: κλοιος | προστιθημι | morphology: clause | chosen_rendering: and he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add upon your yoke. My father disciplined you with whips, but I will discipline you with scorpions. | alternate_renderings: He spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions. | rationale: Current wording keeps the add-upon-your-yoke line plain and close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: My father made your yoke heavy and I will add upon your yoke | footnote_text: Greek uses add-upon-your-yoke wording. Current wording preserves that line. | source_basis: yoke formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -181318,10 +181358,10 @@ Syntax notes: [TODO]
 Draft translation: And Roboam entered Ierousalem and assembled the congregation of Iouda and the scepter of Benjamin, one hundred twenty thousand young men who make war, to fight against the house of Israel, to return the kingdom to Roboam son of Solomon.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εξεκκλησιασεν την συναγωγην ιουδα και σκηπτρον βενιαμιν εκατον και εικοσι χιλιαδες νεανιων | lemma: σκηπτρον | νεανιας | morphology: muster line | chosen_rendering: And Roboam entered Ierousalem and assembled the congregation of Iouda and the scepter of Benjamin, one hundred twenty thousand young men who make war, to fight against the house of Israel, to return the kingdom to Roboam son of Solomon. | alternate_renderings: He assembled all the house of Judah with the tribe of Benjamin, a hundred and eighty thousand chosen men. | rationale: Greek says scepter of Benjamin and one hundred twenty thousand young men here. Current wording keeps those Greek details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: scepter of Benjamin | footnote_text: Greek says scepter of Benjamin and one hundred twenty thousand young men here. | source_basis: tribal wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -181459,9 +181499,11 @@ Draft translation: And the king took counsel and went and made two golden heifer
 
 Decision rows:
 - greek_phrase: ἰδοὺ θεοί σου Ἰσραήλ | lemma: θεός | morphology: nominative plural noun phrase | chosen_rendering: Behold your gods, Israel | alternate_renderings: Behold your God, Israel | rationale: Draft keeps the plural Greek form explicit because it matters for later theological review. | status: drafted
+- greek_phrase: ικανουσθω υμιν αναβαινειν εις ιερουσαλημ | lemma: ικανοω | morphology: command clause | chosen_rendering: Let it be enough for you to go up to Ierousalem. | alternate_renderings: Enough of going up to Jerusalem. | rationale: Current wording keeps the enough-for-you formula explicit. | status: reviewed
 
 Publishable footnotes:
 - note_type: translation | trigger_phrase: Behold your gods, Israel | footnote_text: The Greek uses a plural form here. The draft keeps that plurality visible because it affects later theological and textual discussion. | source_basis: lexical + theology | status: drafted
+- note_type: translation | trigger_phrase: Let it be enough for you to go up to Ierousalem. | footnote_text: Greek uses an enough-for-you formula here. Current wording preserves it. | source_basis: formula line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -181558,10 +181600,10 @@ Syntax notes: [TODO]
 Draft translation: And he went up upon the altar that he made on the fifteenth day in the eighth month, in the feast that he devised from his own heart, and he made a feast for the sons of Israel and went up upon the altar to offer incense.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν τη εορτη η επλασατο απο καρδιας αυτου | lemma: πλασσω | καρδια | morphology: festival line | chosen_rendering: And he went up upon the altar that he made on the fifteenth day in the eighth month, in the feast that he devised from his own heart, and he made a feast for the sons of Israel and went up upon the altar to offer incense. | alternate_renderings: In the feast which he had devised of his own heart. | rationale: Greek says devised from his own heart. Current wording keeps that sharper line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: devised from his own heart | footnote_text: Greek says devised from his own heart here. | source_basis: heart formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -181720,10 +181762,10 @@ Syntax notes: [TODO]
 Draft translation: And the man of God said to the king, If you give me half your house, I will not go in with you, and I will certainly not eat bread nor certainly drink water in this place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουδε μη φαγω αρτον ουδε μη πιω υδωρ εν τω τοπω τουτω | lemma: εσθιω | πινω | τοπος | morphology: strong negation | chosen_rendering: I will certainly not eat bread nor certainly drink water in this place | alternate_renderings: I will not eat bread nor drink water in this place | rationale: Current wording keeps the strong negation explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will certainly not eat bread nor certainly drink water in this place | footnote_text: The Greek uses strong negation twice. The current wording preserves that force. | source_basis: strong negation | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -182000,10 +182042,10 @@ Syntax notes: [TODO]
 Draft translation: and you turned back and ate bread and drank water in the place of which he spoke to you, saying, Eat no bread and drink no water, your body shall certainly not enter into the tomb of your fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου μη εισελθη το σωμα σου εις τον ταφον των πατερων σου | lemma: σωμα | ταφος | morphology: strong negation | chosen_rendering: your body shall certainly not enter into the tomb of your fathers | alternate_renderings: your body shall by no means enter the tomb of your fathers | rationale: Current wording keeps the judgment sentence explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your body shall certainly not enter into the tomb of your fathers | footnote_text: The Greek uses strong negation in the judgment sentence. The current wording keeps that force explicit. | source_basis: judgment sentence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -182140,10 +182182,10 @@ Syntax notes: [TODO]
 Draft translation: And they laid him in his own tomb, and they mourned for him, Alas, brother.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν τω ταφω εαυτου και εκοψαντο αυτον ουαι αδελφε | lemma: ουαι | αδελφος | morphology: mourning clause | chosen_rendering: And they laid him in his own tomb, and they mourned for him, Alas, brother. | alternate_renderings: They laid him in his own tomb and mourned for him, Alas, brother. | rationale: Current wording keeps the stark alas-brother mourning cry explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Alas, brother. | footnote_text: Greek keeps the mourning cry very short and stark. Current wording preserves that lament line. | source_basis: mourning cry | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -182504,10 +182546,10 @@ Syntax notes: [TODO]
 Draft translation: And he walked in the sins of his father that he did before him, and his heart was not perfect with the Lord his God like the heart of David his father.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επορευθη εν ταις αμαρτιαις του πατρος αυτου αις εποιησεν ενωπιον αυτου και ουκ ην η καρδια αυτου τελεια μετα κυριου θεου αυτου | lemma: τελειος καρδια | morphology: regnal assessment | chosen_rendering: And he walked in the sins of his father that he did before him, and his heart was not perfect with the Lord his God like the heart of David his father. | alternate_renderings: He walked in the sins of his father that he did before him, and his heart was not perfect with the Lord his God like the heart of David his father. | rationale: Current wording keeps the not-perfect-heart assessment plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his heart was not perfect with the Lord his God | footnote_text: Greek uses perfect-heart language in the regnal assessment. Current wording preserves it. | source_basis: regnal assessment | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -182884,10 +182926,10 @@ Syntax notes: [TODO]
 Draft translation: And the rest of the matters of Asa and all his dominion that he exercised, behold, are these not written in the Book of the Matters of the Days of the kings of Iouda? Yet in the time of his old age his feet were in pain.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πλην εν τω καιρω του γηρως αυτου επονεσεν τους ποδας αυτου | lemma: πονεω | morphology: asa close | chosen_rendering: And the rest of the matters of Asa and all his dominion that he exercised, behold, are these not written in the Book of the Matters of the Days of the kings of Iouda? Yet in the time of his old age his feet were in pain. | alternate_renderings: In the time of his old age he was diseased in his feet. | rationale: Greek says his feet were in pain here. Current wording keeps that simpler expression. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his feet were in pain | footnote_text: Greek says pain in his feet here rather than disease language. | source_basis: ailment wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -183126,10 +183168,10 @@ Syntax notes: [TODO]
 Draft translation: Because I lifted you up from the earth and gave you as leader over my people Israel, and you walked in the way of Ieroboam and made my people Israel sin, to provoke me by their vanities,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανθ' ων υψωσα σε απο της γης και εδωκα σε ηγουμενον επι τον λαον μου ισραηλ | lemma: υψοω | γη | morphology: oracle opening | chosen_rendering: Because I lifted you up from the earth and gave you as leader over my people Israel, and you walked in the way of Ieroboam and made my people Israel sin, to provoke me by their vanities, | alternate_renderings: Because I exalted you out of the dust and made you prince over my people Israel. | rationale: Greek says from the earth here and ends with vanities. Current wording keeps those details. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from the earth | footnote_text: Greek says from the earth here and keeps vanities at the end. | source_basis: oracle wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -183848,10 +183890,10 @@ Syntax notes: [TODO]
 Draft translation: And it shall be, you will drink water from the wadi, and I have commanded the ravens to feed you there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εσται εκ του χειμαρρου πιεσαι υδωρ και τοις κοραξιν εντελουμαι διατρεφειν σε εκει | lemma: χειμαρρος | διατρεφω | morphology: provision promise | chosen_rendering: And it shall be, you will drink water from the wadi, and I have commanded the ravens to feed you there. | alternate_renderings: It shall be, you will drink water from the wadi, and I have commanded the ravens to feed you there. | rationale: Current wording keeps the wadi-and-ravens provision line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the ravens to feed you there | footnote_text: Greek gives the provision promise with ravens and wadi together. Current wording preserves that line. | source_basis: provision promise | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -184410,10 +184452,10 @@ Syntax notes: [TODO]
 Draft translation: And Elijah said to him, I am. Go, tell your lord, Behold, Elijah.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ειπεν ηλιου αυτω εγω πορευου λεγε τω κυριω σου ιδου ηλιου | lemma: εγω | morphology: recognition formula | chosen_rendering: And Elijah said to him, I am. Go, tell your lord, Behold, Elijah. | alternate_renderings: Elijah said to him, I am. Go, tell your lord, Behold, Elijah. | rationale: Current wording keeps Elijah's brief self-identification and command plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am | footnote_text: Greek keeps Elijah's self-identification abrupt and brief. Current wording preserves it. | source_basis: recognition formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -184450,10 +184492,10 @@ Syntax notes: [TODO]
 Draft translation: As the Lord your God lives, there is no nation or kingdom where my lord has not sent to seek you, and they said, He is not here, and he bound the kingdom and its regions by oath that it had not found you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ενεπρησεν την βασιλειαν και τας χωρας αυτης οτι ουχ ευρηκεν σε | lemma: εμπιμπρημι | βασιλεια | χωρα | morphology: clause | chosen_rendering: As the Lord your God lives, there is no nation or kingdom where my lord has not sent to seek you, and they said, He is not here, and he bound the kingdom and its regions by oath that it had not found you. | alternate_renderings: As the Lord your God lives, there is no nation or kingdom where my lord has not sent to seek you, and when they said, He is not here, he put the kingdom and its territories under oath that it had not found you. | rationale: Current wording keeps the oath-bound search line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he bound the kingdom and its regions by oath | footnote_text: Greek uses oath-binding language for the search. Current wording keeps that line explicit. | source_basis: oath formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -184530,10 +184572,10 @@ Syntax notes: [TODO]
 Draft translation: And now you say to me, Go, tell your lord, Behold, Elijah, and he will kill me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πορευου λεγε τω κυριω σου ιδου ηλιου και αποκτενει με | lemma: λεγω | αποκτεινω | morphology: fear clause | chosen_rendering: And now you say to me, Go, tell your lord, Behold, Elijah, and he will kill me. | alternate_renderings: Now you say to me, Go, tell your lord, Behold, Elijah, and he will kill me. | rationale: Current wording keeps the direct fear line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and he will kill me | footnote_text: Greek ends Obadiah's fear with a blunt kill-me line. Current wording preserves that direct fear. | source_basis: fear line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -184730,10 +184772,10 @@ Syntax notes: [TODO]
 Draft translation: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και βοατε εν ονοματι θεων υμων και εγω επικαλεσομαι εν ονοματι κυριου του θεου μου | lemma: βοαω | επικαλεω | morphology: challenge clause | chosen_rendering: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke. | alternate_renderings: Call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. All the people answered and said, Good is the word that you spoke. | rationale: Current wording keeps the call-in-the-name formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: call in the name of your gods | footnote_text: Greek uses call in the name here and repeats the formula for Elijah. Current wording preserves that challenge wording. | source_basis: name-invocation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -185714,10 +185756,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to her, Because I spoke to Nabouthai the Iezraēlite, saying, Give me your vineyard for silver, and if you wish, I will give you another vineyard in place of it, and he said, I will not give you the inheritance of my fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: verse mapping difference | morphology: nabouthai complaint | chosen_rendering: And he said to her, Because I spoke to Nabouthai the Iezraēlite, saying, Give me your vineyard for silver, and if you wish, I will give you another vineyard in place of it, and he said, I will not give you the inheritance of my fathers. | alternate_renderings: I will send my servants tomorrow and they shall search your house and take away whatever is pleasant in your eyes. | rationale: This LXX verse number carries the Nabouthai complaint line rather than the MT Ben-hadad threat line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Nabouthai complaint line | footnote_text: This LXX verse number carries the Nabouthai complaint line rather than the MT Ben-hadad threat line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -185734,10 +185776,10 @@ Syntax notes: [TODO]
 Draft translation: And Iezabel his wife said to him, Do you now act as king over Israel? Rise, eat bread, and become your own man. I will give you the vineyard of Nabouthai the Iezraēlite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συ νυν ουτως ποιεις βασιλεα επι ισραηλ αναστηθι φαγε αρτον και σαυτου γενου | lemma: σαυτου γενου | morphology: iezabel taunt | chosen_rendering: And Iezabel his wife said to him, Do you now act as king over Israel? Rise, eat bread, and become your own man. I will give you the vineyard of Nabouthai the Iezraēlite. | alternate_renderings: Dost thou now thus act the king over Israel? arise and eat bread and be thine own master. | rationale: Greek says become your own man here. Current wording keeps that taunt. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: become your own man | footnote_text: Greek says become your own man here. | source_basis: taunt wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -185834,10 +185876,10 @@ Syntax notes: [TODO]
 Draft translation: They proclaimed a fast and seated Nabouthai at the head of the people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκαλεσαν νηστειαν και εκαθισαν τον ναβουθαι εν αρχη του λαου | lemma: verse mapping difference | morphology: nabouthai fast line | chosen_rendering: They proclaimed a fast and seated Nabouthai at the head of the people. | alternate_renderings: It happened when Ben-hadad heard this message while drinking that he said, Set yourselves in array. | rationale: This LXX verse number carries the Nabouthai fast line rather than the MT Ben-hadad war line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seated Nabouthai at the head of the people | footnote_text: This LXX verse number carries the Nabouthai fast line rather than the MT Ben-hadad war line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -187818,10 +187860,10 @@ Syntax notes: [TODO]
 Draft translation: And the rest of the matters of Achaab and all that he did and the ivory house that he built and all the cities that he made, behold, are these not written in the Book of the Matters of the Days of the kings of Israel?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και τα λοιπα των λογων αχααβ και παντα α εποιησεν και οικον ελεφαντινον ον ωκοδομησεν και πασας τας πολεις ας εποιησεν | lemma: λοιπα των λογων | morphology: royal summary | chosen_rendering: And the rest of the matters of Achaab and all that he did and the ivory house that he built and all the cities that he made, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? | alternate_renderings: The rest of the matters of Achaab and all that he did and the ivory house that he built and all the cities that he made, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? | rationale: Current wording keeps the standard royal-summary formula and ivory-house detail. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the ivory house that he built | footnote_text: Greek includes the ivory-house detail in the royal summary. Current wording preserves it. | source_basis: royal summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -187898,10 +187940,10 @@ Syntax notes: [TODO]
 Draft translation: And he walked in every way of Asa his father, and he did not turn aside from it, doing what was right in the eyes of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εξεκλινεν απ αυτης του ποιησαι το ευθες εν οφθαλμοις κυριου | lemma: εκκλινω | ευθυς | morphology: narrative clause | chosen_rendering: And he walked in every way of Asa his father, and he did not turn aside from it, doing what was right in the eyes of the Lord. | alternate_renderings: He walked in every way of Asa his father and did not turn aside from it, doing what was right in the eyes of the Lord. | rationale: Current wording keeps the did-not-turn-aside line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he did not turn aside from it | footnote_text: Greek uses the did-not-turn-aside line directly. Current wording preserves it. | source_basis: faithfulness formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -188102,10 +188144,10 @@ Syntax notes: [TODO]
 Draft translation: And angel of the Lord spoke to Elijah the Thesbite, saying, Rise, come to meet the messengers of Ochozias king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Akkarōn?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἄγγελος κυρίου | lemma: ἄγγελος | κύριος | morphology: noun phrase | chosen_rendering: angel of the Lord | alternate_renderings: messenger of the Lord | rationale: Current wording follows the project rule for overt divine appearance language. The draft keeps angel explicit in this prophetic encounter. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: angel of the Lord | footnote_text: In this prophetic encounter the Greek says angel of the Lord. The current wording follows the project rule for overt divine-encounter scenes. | source_basis: angel language + theophany | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -188202,10 +188244,10 @@ Syntax notes: [TODO]
 Draft translation: And they said to him, A hairy man, with a leather belt girded around his waist. And he said, This is Elijah the Thesbite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ανηρ δασυς και ζωνην δερματινην περιεζωσμενος την οσφυν αυτου | lemma: δασυς | ζωνη | morphology: noun phrase | chosen_rendering: And they said to him, A hairy man, with a leather belt girded around his waist. And he said, This is Elijah the Thesbite. | alternate_renderings: They said to him, A hairy man, girded with a leather belt around his waist. And he said, This is Elijah the Thesbite. | rationale: Current wording keeps the distinctive hairy-man description plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: A hairy man, with a leather belt girded around his waist. | footnote_text: Greek gives a terse identifying description. Current wording preserves it. | source_basis: description formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -188362,10 +188404,10 @@ Syntax notes: [TODO]
 Draft translation: And Elijah spoke to him and said, Thus says the Lord: Why is it that you sent messengers to seek in Baal of flies, god of Akkarōn? And not so, the bed on which you went up there, you shall not come down from it, because by death you will die.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουχ ουτως η κλινη εφ' ης ανεβης εκει ου καταβηση απ' αυτης οτι θανατω αποθανη | lemma: ουχ ουτως | morphology: death sentence line | chosen_rendering: And Elijah spoke to him and said, Thus says the Lord: Why is it that you sent messengers to seek in Baal of flies, god of Akkarōn? And not so, the bed on which you went up there, you shall not come down from it, because by death you will die. | alternate_renderings: Is it not because there is no God in Israel to inquire of his word? therefore you shall not come down from that bed. | rationale: Greek turns from the question into the abrupt line And not so. Current wording keeps that turn visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And not so | footnote_text: Greek turns from the question into that abrupt line here. | source_basis: abrupt turn | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -188904,10 +188946,10 @@ Syntax notes: [TODO]
 Draft translation: And he went from there to Mount Carmel, and from there he returned to Samaria.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επορευθη εκειθεν εις το ορος το καρμηλιον και εκειθεν επεστρεψεν εις σαμαρειαν | lemma: πορευομαι | επιστρεφω | morphology: travel clause | chosen_rendering: And he went from there to Mount Carmel, and from there he returned to Samaria. | alternate_renderings: He went from there to Mount Carmel, and from there he returned to Samaria. | rationale: Current wording keeps the plain travel sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from there he returned to Samaria | footnote_text: Greek gives a plain travel notice from Carmel back to Samaria. Current wording preserves that sequence. | source_basis: travel notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -190430,10 +190472,10 @@ Syntax notes: [TODO]
 Draft translation: And the king of Syria said to Naiman, Come, go in, and I will send a letter to the king of Israel. And he went and took in his hand ten talents of silver and six thousand pieces of gold and ten changes of garments.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ελαβεν εν τη χειρι αυτου δεκα ταλαντα αργυριου | lemma: λαμβανω | χειρ | ταλαντον | morphology: aorist clause | chosen_rendering: he took in his hand ten talents of silver | alternate_renderings: he took with him ten talents of silver | rationale: Current wording keeps the in-hand line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he took in his hand ten talents of silver | footnote_text: The Greek explicitly says in his hand. The current wording keeps that line visible. | source_basis: in-hand line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -190470,10 +190512,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be, when the king of Israel read the letter, he tore his garments and said, Am I God, to kill and make alive, that this man sends to me to remove a man from his skin-disease? Only recognize now and see that he is seeking a pretext against me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αποσυναξαι ανδρα απο της λεπρας αυτου | lemma: αποσυναγω | λεπρα | morphology: clause | chosen_rendering: And it came to be, when the king of Israel read the letter, he tore his garments and said, Am I God, to kill and make alive, that this man sends to me to remove a man from his skin-disease? Only recognize now and see that he is seeking a pretext against me. | alternate_renderings: When the king of Israel read the letter, he tore his garments and said, Am I God, to kill and make alive, that this man sends to me to remove a man from his skin disease? Recognize now and see that he seeks a pretext against me. | rationale: Current wording keeps the remove-from-skin-disease line and the pretext accusation explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to remove a man from his skin-disease | footnote_text: Greek uses removal-from-disease wording here. Current wording preserves it. | source_basis: healing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -191312,10 +191354,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, You shall not strike them down. Would you strike down those whom you have taken captive with your sword and with your bow? Set bread and water before them, and let them eat and drink and go to their lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παραθες αρτους και υδωρ ενωπιον αυτων | lemma: παρατιθημι | αρτος | υδωρ | morphology: imperative clause | chosen_rendering: Set bread and water before them | alternate_renderings: set bread and water before them | rationale: Current wording keeps the mercy command explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Set bread and water before them | footnote_text: The Greek keeps Elisha's mercy command direct. The current wording preserves it. | source_basis: mercy command | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -191432,10 +191474,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said to her, What troubles you? And the woman said, This woman said to me, Give your son, and let us eat him today, and my son we will eat tomorrow.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δος τον υιον σου και φαγομεθα αυτον σημερον και τον υιον μου και φαγομεθα αυτον αυριον | lemma: φαγω | morphology: reported speech | chosen_rendering: And the king said to her, What troubles you? And the woman said, This woman said to me, Give your son, and let us eat him today, and my son we will eat tomorrow. | alternate_renderings: The king said to her, What troubles you? The woman said, This woman said to me, Give your son, and let us eat him today, and my son we will eat tomorrow. | rationale: Current wording keeps the direct cannibalism bargain explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Give your son and let us eat him today | footnote_text: Greek reports the woman's proposal directly and starkly. Current wording preserves that horror without smoothing. | source_basis: reported speech | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -191714,10 +191756,10 @@ Syntax notes: [TODO]
 Draft translation: And one man said to his neighbor, We are not doing right. This day is a day of good news, and we are keeping silent. If we wait until the morning light, lawlessness will find us. And now come, let us go in and report to the house of the king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: η ημερα αυτη ημερα ευαγγελιας εστιν και ημεις σιωπωμεν και μενομεν εως φωτος του πρωι και ευρησομεν ανομιαν | lemma: ευαγγελια | ανομια | morphology: good-news line | chosen_rendering: And one man said to his neighbor, We are not doing right. This day is a day of good news, and we are keeping silent. If we wait until the morning light, lawlessness will find us. And now come, let us go in and report to the house of the king. | alternate_renderings: This day is a day of good tidings, and if we delay till morning some mischief will come upon us. | rationale: Greek says good news and lawlessness will find us. Current wording keeps those terms visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: day of good news | footnote_text: Greek says good news here and later lawlessness will find us. | source_basis: news formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -192076,10 +192118,10 @@ Syntax notes: [TODO]
 Draft translation: And Elisaie came to Damascus, and Ben-hadad king of Syria was sick. And they reported to him, saying, The man of God has come here.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ηλθεν ελισαιε εις δαμασκον και υιος αδερ βασιλευς συριας ηρρωστει και ανηγγειλαν αυτω λεγοντες ηκει ο ανθρωπος του θεου εως ωδε | lemma: αναγγελλω | morphology: arrival report | chosen_rendering: And Elisaie came to Damascus, and Ben-hadad king of Syria was sick. And they reported to him, saying, The man of God has come here. | alternate_renderings: Elisaie came to Damascus, and Ben-hadad king of Syria was sick. And they reported to him, saying, The man of God has come here. | rationale: Current wording keeps the arrival report and here-line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the man of God has come here | footnote_text: Greek closes the report with here-language. Current wording preserves it. | source_basis: arrival report | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -192356,10 +192398,10 @@ Syntax notes: [TODO]
 Draft translation: And Joram went over to Sior, and all the chariots with him. And it came to be, when he rose by night, he struck Edom that had encircled him and the commanders of the chariots, and the people fled to their tents.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επαταξεν τον εδωμ τον κυκλωσαντα επ αυτον και τους αρχοντας των αρματων | lemma: πατασσω | κυκλοω | αρχων | morphology: clause | chosen_rendering: And it came to be, when he rose by night, he struck Edom that had encircled him and the commanders of the chariots, and the people fled to their tents. | alternate_renderings: When he rose by night, he struck Edom that had surrounded him and the chariot commanders, and the people fled to their tents. | rationale: Current wording keeps the encirclement line and the night-attack sequence plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he struck Edom that had encircled him | footnote_text: Greek keeps the encirclement line explicit. Current wording preserves it. | source_basis: battle line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -192658,10 +192700,10 @@ Syntax notes: [TODO]
 Draft translation: And you shall destroy the house of Achaab your lord, and I will avenge the blood of my servants the prophets and the blood of all the servants of the Lord from the hand of Jezabel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εξολεθρευσεις τον οικον αχααβ του κυριου σου εκ προσωπου μου | lemma: εξολεθρευω | εκδικεω | morphology: judgment clause | chosen_rendering: And you shall destroy the house of Achaab your lord, and I will avenge the blood of my servants the prophets and the blood of all the servants of the Lord from the hand of Jezabel. | alternate_renderings: You shall destroy the house of Achaab your lord, and I will avenge the blood of my servants the prophets and the blood of all the servants of the Lord from the hand of Jezabel. | rationale: Current wording keeps the destroy-house and avenge-blood line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: destroy the house of Achaab your lord | footnote_text: Greek pairs the destroy-house command with avenging the blood of the Lord's servants. Current wording preserves that judgment sequence. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -193058,10 +193100,10 @@ Syntax notes: [TODO]
 Draft translation: And Ochozias king of Judah saw and fled by way of Baithaggan, and Iou pursued after him and said, Strike him too. And they struck him in the chariot at the ascent of Gai, which is Ieblaam, and he fled to Mageddo and died there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και γε αυτον και επαταξεν αυτον εν τω αρματι εν τω αναβαινειν γαι η εστιν ιεβλααμ | lemma: attack line | morphology: pursuit detail | chosen_rendering: And Ochozias king of Judah saw and fled by way of Baithaggan, and Iou pursued after him and said, Strike him too. And they struck him in the chariot at the ascent of Gai, which is Ieblaam, and he fled to Mageddo and died there. | alternate_renderings: Strike him also in the chariot at the ascent of Gur by Ibleam. | rationale: Greek gives Gai and Ieblaam here. Current wording keeps the Greek place forms visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Gai which is Ieblaam | footnote_text: Greek gives those place forms here. | source_basis: place-name difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -193840,10 +193882,10 @@ Syntax notes: [TODO]
 Draft translation: Only, from the sins of Ieroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πλην αμαρτιων ιεροβοαμ υιου ναβατ ος εξημαρτεν τον ισραηλ ουκ απεστη ιου απο οπισθεν αυτων αι δαμαλεις αι χρυσαι | lemma: αφιστημι απο οπισθεν | morphology: residual sin note | chosen_rendering: Only, from the sins of Ieroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan. | alternate_renderings: Only, from the sins of Ieroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan. | rationale: Current wording keeps the did-not-turn-away note explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: did not turn away from after them | footnote_text: Greek keeps the residual-sin note in that form. Current wording preserves it. | source_basis: residual sin note | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -194082,10 +194124,10 @@ Syntax notes: [TODO]
 Draft translation: And he commanded them, saying, This is the word that you shall do: a third of you, those entering on the Sabbath, shall keep watch of the king's house at the gate.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος ο λογος ον ποιησετε | lemma: λογος | morphology: formula clause | chosen_rendering: This is the word that you shall do: a third of you, those entering on the Sabbath, shall keep watch of the king's house at the gate. | alternate_renderings: This is what you shall do: a third of you entering on the Sabbath shall keep watch over the king's house at the gate. | rationale: Current wording keeps the this-is-the-word formula instead of flattening it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: This is the word that you shall do | footnote_text: Greek opens with a this-is-the-word formula. Current wording preserves it. | source_basis: formula line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -194122,10 +194164,10 @@ Syntax notes: [TODO]
 Draft translation: And two divisions among you, all going out on the Sabbath, shall keep the watch of the house of the Lord for the king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δυο χειρες εν υμιν πας ο εκπορευομενος το σαββατον και φυλαξουσιν την φυλακην οικου κυριου προς τον βασιλεα | lemma: χειρ | morphology: guard rotation | chosen_rendering: And two divisions among you, all going out on the Sabbath, shall keep the watch of the house of the Lord for the king. | alternate_renderings: Two divisions among you, all going out on the Sabbath, shall keep the watch of the house of the Lord for the king. | rationale: Current wording keeps the two-divisions Sabbath guard line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: two divisions among you | footnote_text: Greek uses hands idiom for the guard groups. Current wording preserves the division sense in context. | source_basis: guard idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -194564,10 +194606,10 @@ Syntax notes: [TODO]
 Draft translation: And the priests agreed not to take silver from the people and not to repair the breach of the house.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και συνεφωνησαν οι ιερεις του μη λαβειν αργυριον παρα του λαου και του μη ενισχυσαι το βεδεκ του οικου | lemma: verse mapping difference | morphology: house breach line | chosen_rendering: And the priests agreed not to take silver from the people and not to repair the breach of the house. | alternate_renderings: Jehoash said to the priests, All the money of the dedicated things brought into the house of the Lord... | rationale: This LXX verse number carries the priestly agreement line rather than the MT collection order. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: agreed not to take silver from the people | footnote_text: This LXX verse number carries the priestly agreement line rather than the MT collection order. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -195066,10 +195108,10 @@ Syntax notes: [TODO]
 Draft translation: And the rest of the words of Ioas and all that he did and his acts of power with which he fought with Amessias king of Judah, are these not written in the book of the words of the days for the kings of Israel?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τα λοιπα των λογων ιωας και παντα οσα εποιησεν και αι δυναστειαι αυτου | lemma: λογος | δυναστεια | morphology: annal formula | chosen_rendering: And the rest of the words of Ioas and all that he did and his acts of power with which he fought with Amessias king of Judah, are these not written in the book of the words of the days for the kings of Israel? | alternate_renderings: And the rest of the acts of Joash and all that he did and his mighty deeds with which he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel? | rationale: Current wording keeps the annal formula and the acts-of-power line close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his acts of power | footnote_text: Greek uses a power/deeds term in the annal formula. Current wording preserves it. | source_basis: annal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -196610,10 +196652,10 @@ Syntax notes: [TODO]
 Draft translation: Only, the high places he did not remove. The people still sacrificed and burned incense at the high places. He built the upper gate of the house of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πλην τα υψηλα ουκ εξηρεν ετι ο λαος εθυσιαζεν και εθυμια εν τοις υψηλοις αυτος ωκοδομησεν την πυλην οικου κυριου την επανω | lemma: πλην | υψηλα | morphology: regnal evaluation | chosen_rendering: Only, the high places he did not remove. The people still sacrificed and burned incense at the high places. He built the upper gate of the house of the Lord. | alternate_renderings: Only, the high places he did not remove. The people still sacrificed and burned incense at the high places. He built the upper gate of the house of the Lord. | rationale: Current wording keeps the evaluation formula and upper-gate detail plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the upper gate of the house of the Lord | footnote_text: Greek includes that building detail in the regnal notice. Current wording preserves it. | source_basis: regnal evaluation | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -196812,10 +196854,10 @@ Syntax notes: [TODO]
 Draft translation: And Achaz sent messengers to Thaglathphellasar king of the Assyrians, saying, I am your servant and your son. Come up and save me from the hand of the king of Syria and from the hand of the king of Israel, those rising against me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και απεστειλεν αχαζ αγγελους προς θαγλαθφελλασαρ βασιλεα ασσυριων λεγων δουλος σου και υιος σου εγω | lemma: αγγελος | morphology: diplomatic message | chosen_rendering: And Achaz sent messengers to Thaglathphellasar king of the Assyrians, saying, I am your servant and your son. Come up and save me from the hand of the king of Syria and from the hand of the king of Israel, those rising against me. | alternate_renderings: Ahaz sent to Tiglath-pileser saying I am your servant and your son. | rationale: Greek keeps the messenger sending explicit and ends with those rising against me. Current wording preserves that line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: those rising against me | footnote_text: Greek ends the appeal with that live threat wording. | source_basis: threat clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -197194,10 +197236,10 @@ Syntax notes: [TODO]
 Draft translation: In the ninth year of Ōsēe, the king of the Assyrians captured Samaria and deported Israel to the Assyrians and settled them in Alae and in Abōr, rivers of Gōzan, and mountains of the Medes.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατωκισεν αυτους εν αλαε και εν αβωρ ποταμοις γωζαν και ορη μηδων | lemma: κατοικιζω | ποταμος | ορος | morphology: clause | chosen_rendering: deported Israel to the Assyrians and settled them in Alae and in Abōr, rivers of Gōzan, and mountains of the Medes. | alternate_renderings: deported Israel to Assyria and settled them in Halah and Habor, river of Gozan, and mountains of Media. | rationale: Current wording keeps the deportation-settlement line close to the source-row geography. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: deported Israel to the Assyrians and settled them in Alae and in Abōr | footnote_text: Greek keeps the deportation-settlement geography explicit. Current wording stays close to that line. | source_basis: geography + exile formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -197274,10 +197316,10 @@ Syntax notes: [TODO]
 Draft translation: And they set up for themselves pillars and groves on every high hill and under every leafy tree.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εστηλωσαν εαυτοις στηλας και αλση επι παντι βουνω υψηλω και υποκατω παντος ξυλου αλσωδους | lemma: στηλη | αλσωδης | morphology: cultic noun pair + adjective | chosen_rendering: And they set up for themselves pillars and groves on every high hill and under every leafy tree. | alternate_renderings: They set up images and groves under every green tree. | rationale: Greek says pillars here, not images, and describes the tree as leafy or shady. Current wording preserves that. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: pillars and groves | footnote_text: Greek has pillars here, not images, and ends with a leafy or shady tree. | source_basis: cultic diction | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -197454,10 +197496,10 @@ Syntax notes: [TODO]
 Draft translation: Yet Judah also did not keep the commandments of the Lord their God, and they walked in the statutes of Israel which they made.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και γε ιουδας ουκ εφυλαξεν τας εντολας κυριου του θεου αυτων και επορευθησαν εν τοις δικαιωμασιν ισραηλ οις εποιησαν | lemma: δικαιωμα | morphology: judgment line | chosen_rendering: Yet Judah also did not keep the commandments of the Lord their God, and they walked in the statutes of Israel which they made. | alternate_renderings: Judah also did not keep the commandments of the Lord their God, and they walked in the statutes of Israel which they made. | rationale: Current wording keeps the Judah-also charge and the made-statutes line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Judah also did not keep the commandments | footnote_text: Greek explicitly turns the charge toward Judah too. Current wording preserves that added indictment. | source_basis: judgment line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -197594,10 +197636,10 @@ Syntax notes: [TODO]
 Draft translation: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εγνωσαν το κριμα του θεου της γης και απεστειλεν εις αυτους τους λεοντας | lemma: κριμα | morphology: lion complaint | chosen_rendering: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land. | alternate_renderings: They know not the manner of the God of the land; therefore he has sent lions among them. | rationale: Greek says judgment of the god of the land here. Current wording keeps that legal-sounding term. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: judgment of god of land | footnote_text: Greek says judgment of the god of the land here. | source_basis: legal term | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -198316,10 +198358,10 @@ Syntax notes: [TODO]
 Draft translation: Now behold, you have trusted for yourself on this broken reed staff, on Egypt, on which if a man leans it will go into his hand and pierce it. So is Pharaoh king of Egypt to all who trust in him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επι την ραβδον την καλαμινην την τεθλασμενην | lemma: ραβδος | καλαμινος | θλαω | morphology: noun phrase | chosen_rendering: on this broken reed staff | alternate_renderings: on this bruised reed staff | rationale: Current wording keeps the taunt image explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: on this broken reed staff | footnote_text: The Greek uses the broken-reed taunt directly. The current wording keeps that image explicit. | source_basis: taunt image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199078,10 +199120,10 @@ Syntax notes: [TODO]
 Draft translation: Whom did you reproach and blaspheme? Against whom did you raise your voice and lift your eyes on high? Against the Holy One of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τινα ωνειδισας και εβλασφημησας και επι τινα υψωσας φωνην και ηρας εις υψος τους οφθαλμους σου εις τον αγιον του ισραηλ | lemma: ονειδιζω | βλασφημεω | αγιος | morphology: taunt rebuke | chosen_rendering: Whom did you reproach and blaspheme? Against whom did you raise your voice and lift your eyes on high? Against the Holy One of Israel. | alternate_renderings: Against whom did you reproach and blaspheme and raise your voice and lift your eyes on high? Against the Holy One of Israel. | rationale: Current wording keeps the piling accusation and final target explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Against the Holy One of Israel | footnote_text: Greek piles the rebuke questions and lands on the Holy One of Israel. Current wording preserves that force. | source_basis: taunt formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199178,10 +199220,10 @@ Syntax notes: [TODO]
 Draft translation: And your sitting and your going out and your going in I knew, and your rage against me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και την καθεδραν σου και την εξοδον σου και την εισοδον σου εγνων | lemma: καθεδρα | εξοδος | εισοδος | morphology: judgment clause | chosen_rendering: And your sitting and your going out and your going in I knew, and your rage against me. | alternate_renderings: Your sitting and your going out and your going in I knew, and your rage against me. | rationale: Current wording keeps the sitting-going-out-going-in formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your sitting and your going out and your going in | footnote_text: Greek uses the full sitting-going-out-going-in formula. Current wording preserves that surveillance line. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199198,10 +199240,10 @@ Syntax notes: [TODO]
 Draft translation: Because you raged against me and your insolence went up in my ears, I will put my hooks in your nostrils and my bridle in your lips, and I will turn you back on the way by which you came.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θησω τα αγκιστρα μου εν τοις μυκτηρσιν σου και χαλινον εν τοις χειλεσιν σου | lemma: αγκιστρον | μυκτηρ | χαλινος | χειλος | morphology: clause | chosen_rendering: I will put my hooks in your nostrils and my bridle in your lips, and I will turn you back on the way by which you came. | alternate_renderings: I will put my hook in your nose and my bridle in your lips and turn you back by the way you came. | rationale: Current wording keeps the forceful restraint imagery explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will put my hooks in your nostrils and my bridle in your lips | footnote_text: Greek uses forceful restraint imagery. Current wording preserves it. | source_basis: imagery | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199238,10 +199280,10 @@ Syntax notes: [TODO]
 Draft translation: And the remnant of the house of Judah that escaped and was left will again take root downward and make fruit upward.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ριζαν κατω και ποιησει καρπον ανω | lemma: ριζα | καρπος | morphology: promise clause | chosen_rendering: And the remnant of the house of Judah that escaped and was left will again take root downward and make fruit upward. | alternate_renderings: The remnant of the house of Judah that escaped and was left will again take root downward and make fruit upward. | rationale: Current wording keeps the root-downward fruit-upward image explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: take root downward and make fruit upward | footnote_text: Greek keeps the rootedness-and-fruit image direct. Current wording preserves that restoration picture. | source_basis: restoration image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199480,10 +199522,10 @@ Syntax notes: [TODO]
 Draft translation: Turn back and say to Ezekias the leader of my people, Thus says the Lord God of Dauid your father: I heard your prayer, I saw your tears. Behold, I will heal you. On the third day you will go up into the house of the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εζεκιαν τον ηγουμενον του λαου μου | lemma: ηγουμενος | morphology: healing oracle | chosen_rendering: Turn back and say to Ezekias the leader of my people, Thus says the Lord God of Dauid your father: I heard your prayer, I saw your tears. Behold, I will heal you. On the third day you will go up into the house of the Lord. | alternate_renderings: Say to Hezekiah the captain of my people. | rationale: Greek says leader of my people here. Current wording keeps that term. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: leader of my people | footnote_text: Greek says leader of my people here. | source_basis: title wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199560,10 +199602,10 @@ Syntax notes: [TODO]
 Draft translation: And Esaias said, This is the sign from the Lord that the Lord will do the word which he spoke. Shall the shadow go forward ten steps, or shall it turn back ten steps?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πορευσεται η σκια δεκα βαθμους εαν επιστρεφη δεκα βαθμους | lemma: σκια | βαθμος | morphology: sign clause | chosen_rendering: And Esaias said, This is the sign from the Lord that the Lord will do the word which he spoke. Shall the shadow go forward ten steps, or shall it turn back ten steps? | alternate_renderings: Esaias said, This is the sign from the Lord that the Lord will do the word he spoke: shall the shadow go forward ten steps, or turn back ten steps? | rationale: Current wording keeps the go-forward-or-turn-back shadow sign explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Shall the shadow go forward ten steps | footnote_text: Greek frames the sign as a direct choice between forward and backward movement of the shadow. Current wording preserves that form. | source_basis: sign formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199780,10 +199822,10 @@ Syntax notes: [TODO]
 Draft translation: And the rest of the words of Ezekias and all his might and what he did, the spring and the conduit, and how he brought the water into the city, are these not written in the book of the words of the days for the kings of Judah?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: την κρηνην και τον υδραγωγον | lemma: κρηνη | υδραγωγος | morphology: noun phrase | chosen_rendering: the spring and the conduit | alternate_renderings: the pool and the conduit | rationale: Current wording keeps the waterworks line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the spring and the conduit | footnote_text: The Greek names the waterworks directly. The current wording preserves that line. | source_basis: waterworks line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -200042,10 +200084,10 @@ Syntax notes: [TODO]
 Draft translation: not so. Thus says the Lord God of Israel: Behold, I am bringing evils on Jerusalem and on Judah, so that whoever hears, both his ears will ring.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδου εγω φερω κακα επι ιερουσαλημ και επι ιουδα ωστε παντος ακουοντος ηχησει αμφοτερα τα ωτα αυτου | lemma: ηχεω | morphology: judgment warning | chosen_rendering: not so. Thus says the Lord God of Israel: Behold, I am bringing evils on Jerusalem and on Judah, so that whoever hears, both his ears will ring. | alternate_renderings: Thus says the Lord God of Israel: Behold, I am bringing evils on Jerusalem and on Judah, so that whoever hears, both his ears will ring. | rationale: Current wording keeps the ears-will-ring warning explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: both his ears will ring | footnote_text: Greek uses the ringing-ears judgment formula. Current wording preserves that warning. | source_basis: judgment warning | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -200062,10 +200104,10 @@ Syntax notes: [TODO]
 Draft translation: And I will stretch over Jerusalem the measure of Samaria and the plummet of the house of Achaab, and I will wipe Jerusalem as an alabaster vessel is wiped, being wiped and turned on its face.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκτενω επι ιερουσαλημ το μετρον σαμαρειας και το σταθμιον οικου αχααβ | lemma: μετρον | σταθμιον | απαλειφω | morphology: judgment image | chosen_rendering: And I will stretch over Jerusalem the measure of Samaria and the plummet of the house of Achaab, and I will wipe Jerusalem as an alabaster vessel is wiped, being wiped and turned on its face. | alternate_renderings: I will stretch over Jerusalem the measure of Samaria and the plummet of the house of Achaab, and I will wipe Jerusalem as an alabaster vessel is wiped, being wiped and turned on its face. | rationale: Current wording keeps the measure-plummet-wiped-vessel judgment image explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the measure of Samaria and the plummet of the house of Achaab | footnote_text: Greek uses measuring tools and wiped-vessel imagery for judgment. Current wording preserves that image-cluster. | source_basis: judgment image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -200604,10 +200646,10 @@ Syntax notes: [TODO]
 Draft translation: And Chelkias the priest and Achikam and Achobōr and Saphphan and Asaia went to Oldan the prophetess, wife of Sellēm son of Thekoue son of Araas keeper of the wardrobe, and she dwelt in Jerusalem in the Maseña, and they spoke to her.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προς ολδαν την προφητιν γυναικα σελλημ υιου θεκουε υιου αραας του ιματιοφυλακος και αυτη κατωκει εν ιερουσαλημ εν τη μασενα | lemma: prophetess notice | morphology: household identification | chosen_rendering: And Chelkias the priest and Achikam and Achobōr and Saphphan and Asaia went to Oldan the prophetess, wife of Sellēm son of Thekoue son of Araas keeper of the wardrobe, and she dwelt in Jerusalem in the Maseña, and they spoke to her. | alternate_renderings: They went to Huldah the prophetess, wife of Shallum son of Tikvah son of Harhas, keeper of the wardrobe, and she dwelt in Jerusalem in the college. | rationale: Greek identifies her with different household names and Maseña. Current wording keeps the Greek line visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Maseña | footnote_text: Greek gives different household names and location details here, including Maseña. | source_basis: name/place difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -200746,10 +200788,10 @@ Syntax notes: [TODO]
 Draft translation: And the king sent and gathered to himself all the elders of Judah and Jerusalem.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συνηγαγεν προς εαυτον παντας τους πρεσβυτερους ιουδα και ιερουσαλημ | lemma: συναγω | πρεσβυτερος | morphology: narrative clause | chosen_rendering: And the king sent and gathered to himself all the elders of Judah and Jerusalem. | alternate_renderings: The king sent and gathered to himself all the elders of Judah and Jerusalem. | rationale: Current wording keeps the gathered-to-himself line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: gathered to himself all the elders of Judah and Jerusalem | footnote_text: Greek uses a gathered-to-himself line. Current wording preserves it. | source_basis: gathering formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201086,10 +201128,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, Leave him. Let no man move his bones. And they preserved his bones with the bones of the prophet who came out from Samaria.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αφετε αυτο ανηρ μη κινησατω τα οστα αυτου και ερρυσθησαν τα οστα αυτου μετα των οστων του προφητου | lemma: κινεω | ρυομαι | morphology: bones notice | chosen_rendering: And he said, Leave him. Let no man move his bones. And they preserved his bones with the bones of the prophet who came out from Samaria. | alternate_renderings: He said, Leave him. Let no man move his bones. And they preserved his bones with the bones of the prophet who came out from Samaria. | rationale: Current wording keeps the leave-him command and preserved-bones line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Let no man move his bones | footnote_text: Greek keeps the bones notice in blunt command form. Current wording preserves it. | source_basis: bones notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201406,10 +201448,10 @@ Syntax notes: [TODO]
 Draft translation: And Pharaoh Nechao made Eliakim son of Iōsias king of Judah king in place of Iōsias his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επεστρεψεν το ονομα αυτου ιωακιμ και τον ιωαχας ελαβεν | lemma: επιστρεφω | ονομα | morphology: name-change clause | chosen_rendering: And Pharaoh Nechao made Eliakim son of Iōsias king of Judah king in place of Iōsias his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there. | alternate_renderings: Pharaoh Nechao made Eliakim son of Josias king of Judah in place of Josias his father, changed his name to Ioakim, took Ioachas, brought him into Egypt, and he died there. | rationale: Current wording keeps the name-change and brought-into-Egypt line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: changed his name to Ioakim | footnote_text: Greek states the royal renaming directly and then says he brought Ioachas into Egypt. Current wording preserves that sequence. | source_basis: name-change formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201608,10 +201650,10 @@ Syntax notes: [TODO]
 Draft translation: And the king of Egypt no longer added to go out from his land, because the king of Babylon took from the wadi of Egypt as far as the river Euphrates, all that belonged to the king of Egypt.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ου προσεθετο ετι βασιλευς αιγυπτου εξελθειν εκ της γης αυτου | lemma: προστιθημι | morphology: no-longer formula | chosen_rendering: And the king of Egypt no longer added to go out from his land, because the king of Babylon took from the wadi of Egypt as far as the river Euphrates, all that belonged to the king of Egypt. | alternate_renderings: The king of Egypt no longer added to go out from his land, because the king of Babylon took from the wadi of Egypt as far as the river Euphrates, all that belonged to the king of Egypt. | rationale: Current wording keeps the no-longer-added formula and territorial sweep explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: no longer added to go out from his land | footnote_text: Greek uses no-longer-added language for Egypt's king. Current wording preserves that formula. | source_basis: no-longer formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201910,10 +201952,10 @@ Syntax notes: [TODO]
 Draft translation: And the city came under siege until the eleventh year of king Sedekias.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ηλθεν η πολις εν περιοχη εως του ενδεκατου ετους του βασιλεως σεδεκιου | lemma: περιοχη | morphology: siege notice | chosen_rendering: And the city came under siege until the eleventh year of king Sedekias. | alternate_renderings: The city came under siege until the eleventh year of king Sedekias. | rationale: Current wording keeps the siege notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the city came under siege | footnote_text: Greek gives the siege notice in compact form. Current wording preserves it. | source_basis: siege notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -202470,10 +202512,10 @@ Syntax notes: [TODO]
 Draft translation: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: η εστιατορια αυτου εστιατορια δια παντος εδοθη αυτω εξ οικου του βασιλεως λογον ημερας εν τη ημερα αυτου | lemma: εστιατορια | δια παντος | morphology: royal provision | chosen_rendering: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life. | alternate_renderings: His allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life. | rationale: Current wording keeps the continual royal-provision line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a continual allowance | footnote_text: Greek repeats the provision noun for emphasis. Current wording preserves that continuity. | source_basis: royal provision | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -202914,10 +202956,10 @@ Syntax notes: [TODO]
 Draft translation: And Abraam begot Isaak. Sons of Isaak: Esau and Iakob.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εγεννησεν αβρααμ τον ισαακ και υιοι ισαακ ησαυ και ιακωβ | lemma: γενναω | morphology: genealogical summary | chosen_rendering: And Abraam begot Isaak. Sons of Isaak: Esau and Iakob. | alternate_renderings: Abraam begot Isaak. Sons of Isaak: Esau and Iakob. | rationale: Current wording keeps the compact genealogical summary plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Sons of Isaak | footnote_text: Greek compresses this genealogy into a short summary line. Current wording preserves it. | source_basis: genealogical summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -203336,10 +203378,10 @@ Syntax notes: [TODO]
 Draft translation: These are names of the sons of Israel: Rouben, Symeon, Leui, Iouda, Issachar, Zaboulon,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ταυτα τα ονοματα των υιων ισραηλ | lemma: proper names | morphology: name heading | chosen_rendering: These are names of the sons of Israel: Rouben, Symeon, Leui, Iouda, Issachar, Zaboulon, | alternate_renderings: These are the names of the sons of Israel: Reuben, Symeon, Levi, Judah, Issachar, Zabulon, | rationale: Current wording keeps the terse name-heading formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: These are names of the sons of Israel | footnote_text: Greek opens with a compact name-heading formula. Current wording preserves that register line. | source_basis: name heading | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -203356,10 +203398,10 @@ Syntax notes: [TODO]
 Draft translation: Dan, Ioseph, Beniamin, Nephthali, Gad, Aser.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δαν ιωσηφ βενιαμιν νεφθαλι γαδ ασηρ | lemma: proper names | morphology: name list | chosen_rendering: Dan, Ioseph, Beniamin, Nephthali, Gad, Aser. | alternate_renderings: Dan, Joseph, Benjamin, Nephthali, Gad, Asher. | rationale: Current wording keeps the terse tribal name list plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Dan, Ioseph, Beniamin, Nephthali, Gad, Aser. | footnote_text: Greek gives a terse tribal name list here. Current wording preserves that compact register. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -205640,10 +205682,10 @@ Syntax notes: [TODO]
 Draft translation: and Zouza son of Sephei son of Allon son of Iedia son of Samari son of Samaiou.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ζουζα υιος σεφει υιου αλλων υιου ιεδια υιου σαμαρι υιου σαμαιου | lemma: proper names | morphology: genealogy chain | chosen_rendering: and Zouza son of Sephei son of Allon son of Iedia son of Samari son of Samaiou. | alternate_renderings: and Ziza son of Shiphi son of Allon son of Jedaiah son of Shimri son of Shemaiah. | rationale: Current wording keeps the genealogy chain transliterated and close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and Zouza son of Sephei son of Allon son of Iedia son of Samari son of Samaiou. | footnote_text: Greek gives a compact genealogy chain. Current wording preserves the source-row sequence. | source_basis: genealogy chain | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -206062,10 +206104,10 @@ Syntax notes: [TODO]
 Draft translation: son of Abdiēl son of Gouni, chief of house of fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υιου αβδιηλ υιου γουνι αρχων οικου πατριων | lemma: αρχων | οικος πατριων | morphology: genealogy clause | chosen_rendering: son of Abdiēl son of Gouni, chief of house of fathers. | alternate_renderings: son of Abdiel son of Gouni, chief of house of fathers. | rationale: Current wording keeps the terse genealogy-chief formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: chief of house of fathers | footnote_text: Greek uses the terse chief-of-house-of-fathers formula here. Current wording preserves that genealogy title. | source_basis: genealogy title | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -207564,10 +207606,10 @@ Syntax notes: [TODO]
 Draft translation: And the sons of Israel gave to the Levites the cities and their surrounding lands.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εδωκαν οι υιοι ισραηλ τοις λευιταις τας πολεις και τα περισπορια αυτων | lemma: verse mapping difference | morphology: levite cities line | chosen_rendering: And the sons of Israel gave to the Levites the cities and their surrounding lands. | alternate_renderings: Aaron and his sons offered on the altar of burnt offering and on the altar of incense. | rationale: This LXX verse number carries the Levite-city grant line rather than the MT Aaronic service line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cities and their surrounding lands | footnote_text: This LXX verse number carries the Levite-city grant line rather than the MT Aaronic service line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -208346,10 +208388,10 @@ Syntax notes: [TODO]
 Draft translation: And Ephraim their father mourned many days, and his brothers came to comfort him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επενθησεν εφραιμ πατηρ αυτων ημερας πολλας και ηλθον αδελφοι αυτου του παρακαλεσαι αυτον | lemma: πενθεω | morphology: mourning notice | chosen_rendering: And Ephraim their father mourned many days, and his brothers came to comfort him. | alternate_renderings: Ephraim their father mourned many days, and his brothers came to comfort him. | rationale: Current wording keeps the mourning notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: mourned many days | footnote_text: Greek marks Ephraim's grief with that phrase. Current wording preserves it. | source_basis: mourning notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -208426,10 +208468,10 @@ Syntax notes: [TODO]
 Draft translation: Laadan his son, Amioud his son, Elisama his son,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τω λααδαν υιω αυτου αμιουδ υιος αυτου ελισαμα υιος αυτου | lemma: proper names | morphology: genealogy list | chosen_rendering: Laadan his son, Amioud his son, Elisama his son, | alternate_renderings: Laadan his son, Amioud his son, Elisama his son, | rationale: Current wording keeps the terse son-of-son genealogy line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Laadan his son Amioud his son Elisama his son | footnote_text: Greek gives a terse chain of descent. Current wording preserves that genealogy rhythm. | source_basis: genealogy list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -208748,10 +208790,10 @@ Syntax notes: [TODO]
 Draft translation: Noa the fourth, and Raphe the fifth.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: νωα τον τεταρτον και ραφη τον πεμπτον | lemma: ordinal list | morphology: name sequence | chosen_rendering: Noa the fourth, and Raphe the fifth. | alternate_renderings: Nohah the fourth, and Rapha the fifth. | rationale: Current wording keeps the terse ordinal name list close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Noa the fourth, and Raphe the fifth. | footnote_text: Greek gives a terse ordinal name list. Current wording preserves it. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -210472,10 +210514,10 @@ Syntax notes: [TODO]
 Draft translation: And Saul said to one carrying his weapons, Draw your sword and pierce me with it, lest these uncircumcised come and mock me. But one carrying his weapons would not, because he feared greatly. And Saul took sword and fell upon it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μη ελθωσιν οι απεριτμητοι ουτοι και εμπαιξωσιν μοι | lemma: απεριτμητος | εμπαιζω | morphology: saul death scene | chosen_rendering: And Saul said to one carrying his weapons, Draw your sword and pierce me with it, lest these uncircumcised come and mock me. But one carrying his weapons would not, because he feared greatly. And Saul took sword and fell upon it. | alternate_renderings: Lest these uncircumcised come and abuse me. | rationale: Greek says mock me here. Current wording keeps that verb. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: mock me | footnote_text: Greek says mock me here rather than a broader abuse verb. | source_basis: verb choice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -213764,10 +213806,10 @@ Syntax notes: [TODO]
 Draft translation: and Banaias and Oziēl the priests with trumpets continually before ark of covenant of God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και βαναιας και οζιηλ οι ιερεις εν ταις σαλπιγξιν δια παντος εναντιον της κιβωτου της διαθηκης του θεου | lemma: δια παντος | κιβωτος διαθηκης | morphology: liturgical attendance | chosen_rendering: and Banaias and Oziēl the priests with trumpets continually before ark of covenant of God. | alternate_renderings: Banaias and Oziēl the priests were with trumpets continually before ark of covenant of God. | rationale: Current wording keeps the continual-before-the-ark service line compact. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with trumpets continually before ark of covenant of God | footnote_text: Greek gives a compact service notice here. Current wording preserves the continual-before-the-ark wording. | source_basis: liturgical service | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -214344,10 +214386,10 @@ Syntax notes: [TODO]
 Draft translation: Blessed Lord God of Israel from age and unto age. And all people shall say, Amen, and they praised Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ευλογημενος κυριος ο θεος ισραηλ απο του αιωνος και εως του αιωνος | lemma: ευλογητος | αιων | morphology: blessing clause | chosen_rendering: Blessed Lord God of Israel from age and unto age. And all people shall say, Amen, and they praised Lord. | alternate_renderings: Blessed be the Lord God of Israel from age unto age. And all the people said, Amen, and praised the Lord. | rationale: Current wording keeps the age-unto-age blessing formula close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Blessed Lord God of Israel from age and unto age. | footnote_text: Greek uses an age-unto-age blessing formula. Current wording preserves it. | source_basis: blessing formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -214364,10 +214406,10 @@ Syntax notes: [TODO]
 Draft translation: And they left there before ark of covenant of Lord Asaph and his brothers to minister before ark continually, each day’s matter for its day,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: του λειτουργειν εναντιον της κιβωτου δια παντος το της ημερας εις ημεραν | lemma: λειτουργεω | ημερα | morphology: service clause | chosen_rendering: And they left there before ark of covenant of Lord Asaph and his brothers to minister before ark continually, each day’s matter for its day, | alternate_renderings: They left there before the ark of covenant of the Lord Asaph and his brothers to minister before the ark continually, each day's matter for its day. | rationale: Current wording keeps the each-days-matter-for-its-day formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: each day’s matter for its day | footnote_text: Greek keeps the day-by-day service formula compact. Current wording preserves that liturgical line. | source_basis: service formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -216074,10 +216116,10 @@ Syntax notes: [TODO]
 Draft translation: And Dauid said to God, I sinned greatly because I did this thing, and now please take away evil of your servant, because I acted very foolishly.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ημαρτηκα σφοδρα οτι εποιησα το πραγμα τουτο και νυν περιελε δη την κακιαν παιδος σου οτι εματαιωθην σφοδρα | lemma: περιαιρεω | ματαιοω | morphology: confession prayer | chosen_rendering: And Dauid said to God, I sinned greatly because I did this thing, and now please take away evil of your servant, because I acted very foolishly. | alternate_renderings: Dauid said to God, I sinned greatly because I did this thing, and now please take away evil of your servant, because I acted very foolishly. | rationale: Current wording keeps the take-away-evil plea and very-foolishly close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: take away evil of your servant | footnote_text: Greek uses remove-evil language in David's confession. Current wording preserves that plea. | source_basis: confession prayer | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -216314,10 +216356,10 @@ Syntax notes: [TODO]
 Draft translation: And Orna turned and saw king, and his four sons with him were hiding themselves, and Orna was threshing wheat.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επεστρεψεν ορνα και ειδεν τον βασιλεα και τεσσαρες υιοι αυτου μετ' αυτου μεθαχαβιν και ορνα ην αλοων πυρους | lemma: μεταχαβιν | morphology: scene notice | chosen_rendering: And Orna turned and saw king, and his four sons with him were hiding themselves, and Orna was threshing wheat. | alternate_renderings: Orna turned and saw king, and his four sons with him were hiding themselves, and Orna was threshing wheat. | rationale: Current wording keeps the hiding-themselves scene plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his four sons with him were hiding themselves | footnote_text: Greek gives the scene with a hiding note. Current wording preserves it. | source_basis: scene notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -216434,10 +216476,10 @@ Syntax notes: [TODO]
 Draft translation: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επηκουσεν αυτω εν πυρι εκ του ουρανου επι το θυσιαστηριον της ολοκαυτωσεως και καταναλωσεν την ολοκαυτωσιν | lemma: καταναλωσκω | morphology: divine fire sign | chosen_rendering: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering. | alternate_renderings: He answered him by fire from heaven upon the altar; omission of consumed clause. | rationale: Greek explicitly includes the consuming-fire line. Current wording keeps that addition visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: consumed whole burnt offering | footnote_text: Greek explicitly adds that the fire consumed the whole burnt offering. | source_basis: textual + sacrificial | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -216716,10 +216758,10 @@ Syntax notes: [TODO]
 Draft translation: He shall build house to my name, and he shall be to me for son, and I to him for father, and I will set upright throne of his kingdom in Israel forever.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουτος οικοδομησει οικον τω ονοματι μου και ουτος εσται μοι εις υιον καγω αυτω εις πατερα | lemma: ανορθοω | morphology: dynastic oracle | chosen_rendering: He shall build house to my name, and he shall be to me for son, and I to him for father, and I will set upright throne of his kingdom in Israel forever. | alternate_renderings: He shall build house to my name, and he shall be to me for son, and I to him for father, and I will set upright throne of his kingdom in Israel forever. | rationale: Current wording keeps the son-father oracle and set-upright line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he shall be to me for son and I to him for father | footnote_text: Greek gives the dynastic oracle in direct covenant language. Current wording preserves it. | source_basis: dynastic oracle | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -217518,10 +217560,10 @@ Syntax notes: [TODO]
 Draft translation: and over all whole burnt offerings offered to Lord on Sabbaths and on new moons and on feasts, by number according to ordinance upon them continually before Lord,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατα αριθμον κατα την κρισιν επ αυτοις δια παντος τω κυριω | lemma: αριθμος | κρισις | morphology: ritual clause | chosen_rendering: and over all whole burnt offerings offered to Lord on Sabbaths and on new moons and on feasts, by number according to ordinance upon them continually before Lord, | alternate_renderings: over all whole burnt offerings offered to the Lord on Sabbaths, new moons, and feasts, by number according to the ordinance upon them continually before the Lord, | rationale: Current wording keeps the by-number according-to-ordinance line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by number according to ordinance upon them continually before Lord | footnote_text: Greek uses a ritual scheduling formula here. Current wording preserves it. | source_basis: ritual formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -218160,10 +218202,10 @@ Syntax notes: [TODO]
 Draft translation: And they too received lots, like their brothers sons of Aaron, before king and Sadok and Achimelech and chiefs of father-houses of priests and Levites, elder fathers like their younger brothers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πατριαρχαι αρααβ καθως οι αδελφοι αυτου οι νεωτεροι | lemma: πατριαρχης | morphology: lot close | chosen_rendering: And they too received lots, like their brothers sons of Aaron, before king and Sadok and Achimelech and chiefs of father-houses of priests and Levites, elder fathers like their younger brothers. | alternate_renderings: The principal fathers over against their younger brethren. | rationale: Greek keeps the elder-fathers versus younger-brothers contrast here. Current wording leaves that contrast visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: elder fathers like their younger brothers | footnote_text: Greek keeps that elder-versus-younger contrast here. | source_basis: family contrast | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -218182,10 +218224,10 @@ Syntax notes: [TODO]
 Draft translation: And king Dauid and rulers of force appointed for works sons of Asaph and Haiman and Idithon, those prophesying with lyres and harps and cymbals, and their number by head was according to their works.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τους αποφθεγγομενους εν κινυραις και εν ναβλαις και εν κυμβαλοις | lemma: αποφθεγγομαι | morphology: musical prophecy list | chosen_rendering: And king Dauid and rulers of force appointed for works sons of Asaph and Haiman and Idithon, those prophesying with lyres and harps and cymbals, and their number by head was according to their works. | alternate_renderings: Those who prophesied with harps, psalteries, and cymbals. | rationale: Greek uses the uttering-oracular verb here and keeps the work-list framing. Current wording preserves that fuller scene. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: those prophesying with lyres and harps and cymbals | footnote_text: Greek keeps the uttering-oracular verb and fuller work-list framing here. | source_basis: music prophecy line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -218844,10 +218886,10 @@ Syntax notes: [TODO]
 Draft translation: Ōlam fifth, Iōanan sixth, Eliōēnai seventh.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ωλαμ ο πεμπτος ιωαναν ο εκτος ελιωηναι ο εβδομος | lemma: ordinal list | morphology: name sequence | chosen_rendering: Ōlam fifth, Iōanan sixth, Eliōēnai seventh. | alternate_renderings: Olam fifth, Jehohanan sixth, Eliehoenai seventh. | rationale: Current wording keeps the terse ordinal name list close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Ōlam fifth, Iōanan sixth, Eliōēnai seventh. | footnote_text: Greek gives a terse ordinal name list. Current wording preserves it. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -219384,10 +219426,10 @@ Syntax notes: [TODO]
 Draft translation: For Chebrōnite, Asabias and his brothers, sons of strength, one thousand seven hundred, over oversight of Israel beyond Jordan westward, for every service of Lord and work of king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τω χεβρωνι ασαβιας και οι αδελφοι αυτου υιοι δυνατοι χιλιοι και επτακοσιοι | lemma: υιοι δυνατοι | morphology: western oversight | chosen_rendering: For Chebrōnite, Asabias and his brothers, sons of strength, one thousand seven hundred, over oversight of Israel beyond Jordan westward, for every service of Lord and work of king. | alternate_renderings: The Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among Israel beyond Jordan westward. | rationale: Greek says sons of strength and oversight of Israel beyond Jordan westward. Current wording keeps those forms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of strength | footnote_text: Greek says sons of strength here. | source_basis: strength title | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -219906,10 +219948,10 @@ Syntax notes: [TODO]
 Draft translation: And Ioab son of Sarouia began numbering among people and did not finish, and because of these things wrath came upon Israel, and number was not entered in book of matters of days of king Dauid.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ηρξατο αριθμειν εν τω λαω και ου συνετελεσεν | lemma: αριθμεω | συντελεω | morphology: clause | chosen_rendering: And Ioab son of Sarouia began numbering among people and did not finish, and because of these things wrath came upon Israel, and number was not entered in book of matters of days of king Dauid. | alternate_renderings: Joab son of Zeruiah began numbering among the people and did not finish, and because of these things wrath came upon Israel, and the number was not entered in the book of the matters of days of king David. | rationale: Current wording keeps the began-numbering-and-did-not-finish line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: began numbering among people and did not finish | footnote_text: Greek keeps the incomplete census line explicit. Current wording preserves it. | source_basis: census formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -220570,10 +220612,10 @@ Syntax notes: [TODO]
 Draft translation: With all my strength I prepared for house of my God gold, silver, bronze, iron, wood, shoham stones and filling stones and precious stones and varied stones and every precious stone and much Parian stone.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατα πασαν την δυναμιν ητοιμακα εις οικον θεου μου | lemma: δυναμις | ετοιμαζω | morphology: clause | chosen_rendering: With all my strength I prepared for house of my God gold, silver, bronze, iron, wood, shoham stones and filling stones and precious stones and varied stones and every precious stone and much Parian stone. | alternate_renderings: With all my strength I prepared for the house of my God gold, silver, bronze, iron, wood, shoham stones, filling stones, precious stones, varied stones, every precious stone, and much Parian stone. | rationale: Current wording keeps the with-all-my-strength inventory line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: With all my strength I prepared for house of my God | footnote_text: Greek opens with a with-all-my-strength preparation line. Current wording preserves it. | source_basis: preparation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -220710,10 +220752,10 @@ Syntax notes: [TODO]
 Draft translation: And people rejoiced over their willingness, because with full heart they were made willing to Lord, and king Dauid rejoiced greatly.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν καρδια πληρει προεθυμηθησαν τω κυριω | lemma: καρδια πληρης | προθυμεομαι | morphology: clause | chosen_rendering: And people rejoiced over their willingness, because with full heart they were made willing to Lord, and king Dauid rejoiced greatly. | alternate_renderings: The people rejoiced over their willingness, because with full heart they were made willing to the Lord, and king David rejoiced greatly. | rationale: Current wording keeps the full-heart willingness formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with full heart they were made willing to Lord | footnote_text: Greek uses the full-heart willingness line directly. Current wording preserves that voluntary-devotion formula. | source_basis: devotion formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -221576,10 +221618,10 @@ Syntax notes: [TODO]
 Draft translation: And house which I am building is great, because our God is great above all gods.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: verse mapping difference | morphology: great house line | chosen_rendering: And house which I am building is great, because our God is great above all gods. | alternate_renderings: Behold I build a house to the name of the Lord my God to dedicate it to him and to burn before him sweet incense... | rationale: This LXX verse number carries the great-house line rather than the MT long dedication list. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: house which I am building is great | footnote_text: This LXX verse number carries the great-house line rather than the MT long dedication list. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -221636,10 +221678,10 @@ Syntax notes: [TODO]
 Draft translation: And send me cedar woods and juniper woods and pine woods from Lebanon, because I know your servants know how to cut woods from Lebanon, and behold, your servants are with my servants,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αποστειλον μοι ξυλα κεδρινα και αρκευθινα και πευκινα εκ του λιβανου | lemma: verse mapping difference | morphology: timber request | chosen_rendering: And send me cedar woods and juniper woods and pine woods from Lebanon, because I know your servants know how to cut woods from Lebanon, and behold, your servants are with my servants, | alternate_renderings: Send me now a man skillful to work in gold and silver and bronze and iron... | rationale: This LXX verse number carries the timber request line rather than the MT artisan request line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: cedar woods and juniper woods and pine woods | footnote_text: This LXX verse number carries the timber request line rather than the MT artisan request line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -221776,10 +221818,10 @@ Syntax notes: [TODO]
 Draft translation: And now let my lord send to his servants grain and barley and oil and wine which my lord spoke of.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και νυν τον σιτον και την κριθην και το ελαιον και τον οινον α ειπεν ο κυριος μου αποστειλατω τοις παισιν αυτου | lemma: verse mapping difference | morphology: request line | chosen_rendering: And now let my lord send to his servants grain and barley and oil and wine which my lord spoke of. | alternate_renderings: The son of a woman of the daughters of Dan ... skillful to work in gold and silver and bronze. | rationale: This LXX verse number carries the supply request line, not the MT craftsman description line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let my lord send to his servants grain and barley | footnote_text: This LXX verse number carries the supply request line rather than the MT craftsman-description line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223184,10 +223226,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: φυλασσων την διαθηκην και το ελεος | lemma: φυλασσω | διαθηκη | ελεος | morphology: present clause | chosen_rendering: keeping covenant and mercy | alternate_renderings: keeping covenant and mercy | rationale: Current wording keeps the covenant-mercy formula explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: keeping covenant and mercy | footnote_text: The Greek uses the covenant-and-mercy formula directly. The current wording preserves it. | source_basis: covenant-mercy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223304,10 +223346,10 @@ Syntax notes: [TODO]
 Draft translation: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικληθῆναι τὸ ὄνομά σου ἐκεῖ | lemma: ἐπικαλέω | morphology: name-there formula | chosen_rendering: your name would be called there | alternate_renderings: your name would be invoked there | rationale: Current wording keeps the established name-there formula consistent. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your name would be called there | footnote_text: The Greek uses the established name-there formula here. The current wording keeps that formula consistent. | source_basis: name-there formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223364,10 +223406,10 @@ Syntax notes: [TODO]
 Draft translation: then you shall hear from heaven and do and judge your servants, repaying lawless one, to return his ways upon his head, and justifying righteous one, to give to him according to his righteousness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αποδουναι οδους αυτου εις κεφαλην αυτου | lemma: αποδιδωμι | κεφαλη | morphology: infinitive clause | chosen_rendering: to return his ways upon his head | alternate_renderings: to recompense his way upon his own head | rationale: Current wording keeps the judgment formula explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to return his ways upon his head | footnote_text: The Greek uses the upon-his-head judgment formula directly. The current wording preserves it. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223424,10 +223466,10 @@ Syntax notes: [TODO]
 Draft translation: When heaven is shut and rain does not come because they sin against you, and they pray toward this place and praise your name and turn from their sins because you humbled them,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αινεσουσιν το ονομα σου | lemma: αινεω | ονομα | morphology: future clause | chosen_rendering: praise your name | alternate_renderings: praise your name | rationale: Current wording keeps the name-praise line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: praise your name | footnote_text: The Greek here uses praise rather than confession. The current wording keeps that difference explicit. | source_basis: name-praise formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223584,10 +223626,10 @@ Syntax notes: [TODO]
 Draft translation: If your people go out to battle against their enemies on way where you send them, and they pray to you by way of this city which you chose and house which I built to your name,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προσευξωνται προς σε κατα την οδον της πολεως ταυτης | lemma: προσευχομαι | οδος | πολις | morphology: clause | chosen_rendering: they pray to you by way of this city | alternate_renderings: they pray to you toward this city | rationale: Current wording keeps the directional prayer line explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they pray to you by way of this city | footnote_text: The Greek uses directional prayer language here. The current wording keeps that source-row line visible. | source_basis: directional prayer line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223724,10 +223766,10 @@ Syntax notes: [TODO]
 Draft translation: And now rise up, Lord God, into your resting place, you and ark of your strength. Let your priests, Lord God, put on salvation, and let your sons rejoice in good things.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και νυν αναστηθι κυριε ο θεος εις την καταπαυσιν σου συ και η κιβωτος της ισχυος σου | lemma: καταπαυσις | κιβωτος | morphology: temple prayer close | chosen_rendering: And now rise up, Lord God, into your resting place, you and ark of your strength. Let your priests, Lord God, put on salvation, and let your sons rejoice in good things. | alternate_renderings: And now rise up, Lord God, into your resting place, you and ark of your strength. Let your priests, Lord God, put on salvation, and let your sons rejoice in good things. | rationale: Current wording keeps the temple-prayer close and salvation line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: into your resting place, you and ark of your strength | footnote_text: Greek closes the prayer with rest-place and ark language. Current wording preserves it. | source_basis: temple prayer close | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -223744,10 +223786,10 @@ Syntax notes: [TODO]
 Draft translation: Lord God, do not turn away face of your anointed one; remember mercies of Dauid your servant.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κυριε ο θεος μη αποστρεψης το προσωπον του χριστου σου μνησθητι τα ελεη δαυιδ του δουλου σου | lemma: χριστος | ελεος | morphology: closing prayer | chosen_rendering: Lord God, do not turn away face of your anointed one; remember mercies of Dauid your servant. | alternate_renderings: Lord God, do not turn away face of your anointed one; remember mercies of Dauid your servant. | rationale: Current wording keeps the closing prayer compact and explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: remember mercies of Dauid your servant | footnote_text: Greek closes Solomon's prayer with a mercy-remembrance appeal. Current wording preserves that line. | source_basis: closing prayer | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -224026,10 +224068,10 @@ Syntax notes: [TODO]
 Draft translation: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὓς τὸ ὄνομά μου ἐπικέκληται ἐπʼ αὐτούς | lemma: ἐπικαλέω | morphology: name-upon formula | chosen_rendering: upon whom my name has been called | alternate_renderings: over whom my name has been invoked | rationale: Current wording keeps the name-upon formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: upon whom my name has been called | footnote_text: The Greek uses the name-upon formula for the people here. The current wording keeps that relation explicit. | source_basis: name-upon formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -224730,10 +224772,10 @@ Syntax notes: [TODO]
 Draft translation: And she gave to king one hundred twenty talents of gold and spices in very great abundance and precious stone, and there were no spices like those which queen of Saba gave to king Salomon.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αρωματα εις πληθος πολυ και λιθον τιμιον | lemma: αρωμα | πληθος | λιθος | morphology: inventory clause | chosen_rendering: And she gave to king one hundred twenty talents of gold and spices in very great abundance and precious stone, and there were no spices like those which queen of Saba gave to king Salomon. | alternate_renderings: She gave the king one hundred twenty talents of gold and spices in very great abundance and precious stone, and there were no spices like those the queen of Saba gave king Solomon. | rationale: Current wording keeps the abundance-and-precious-stone inventory line close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: spices in very great abundance and precious stone | footnote_text: Greek uses an abundance inventory line here. Current wording preserves it. | source_basis: inventory formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -225130,10 +225172,10 @@ Syntax notes: [TODO]
 Draft translation: And rest of matters of Salomon, first and last, behold, written in words of Nathan prophet and in words of Achia the Sēlōnite and in visions of Iōēl the seer concerning Ieroboam son of Nabat.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν ταις ορασεσιν ιωηλ του ορωντος περι ιεροβοαμ υιου ναβατ | lemma: ιωηλ | ορασις | morphology: source list close | chosen_rendering: And rest of matters of Salomon, first and last, behold, written in words of Nathan prophet and in words of Achia the Sēlōnite and in visions of Iōēl the seer concerning Ieroboam son of Nabat. | alternate_renderings: In the visions of Iddo the seer concerning Jeroboam son of Nebat. | rationale: Greek names Iōēl here rather than the familiar MT Iddo. Current wording keeps the Greek source list. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Iōēl the seer | footnote_text: Greek names Iōēl here rather than the familiar MT Iddo. | source_basis: name difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -225312,10 +225354,10 @@ Syntax notes: [TODO]
 Draft translation: And they spoke to him, saying, If today you become for good to this people and are pleased and speak good words to them, then they will be your servants all days.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εαν εν τη σημερον γενη εις αγαθον τω λαω τουτω και ευδοκησης | lemma: αγαθος | ευδοκεω | morphology: counsel clause | chosen_rendering: And they spoke to him, saying, If today you become for good to this people and are pleased and speak good words to them, then they will be your servants all days. | alternate_renderings: They spoke to him, saying, If today you become for good to this people and are pleased and speak good words to them, then they will be your servants all days. | rationale: Current wording keeps the become-for-good and speak-good-words line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: become for good to this people | footnote_text: Greek phrases the counsel as becoming for good to the people. Current wording preserves that unusual wording. | source_basis: counsel formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -226279,7 +226321,7 @@ Decision rows:
 - greek_phrase: ἐπονομασαι το ονομα αυτου εκει | lemma: ἐπονομάζω | ὄνομα | morphology: articular infinitive phrase | chosen_rendering: to have his name called there | alternate_renderings: to name his name there; to put his name there; to call his name there | rationale: Revised to match dominant OT name-formula pattern and NT-linked idiom family rather than leaving stiff literal outlier. Direct Logos export shows LES and LES2 keep name-called or name-his-name wording while MT-facing English smooths to put-his-name language. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to have his name called there | footnote_text: The Greek uses the established name-there formula here. The current wording keeps that formula consistent. | source_basis: name-there formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -226558,10 +226600,10 @@ Syntax notes: [TODO]
 Draft translation: They burn to Lord whole burnt offerings morning and evening and incense of compounded spices and presentations of bread upon pure table, and golden lampstand and its lamps for burning to light at evening, because we keep charges of Lord God of our fathers, but you forsake him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θυμιωσιν τω κυριω ολοκαυτωματα πρωι και δειλης και θυμιαμα συνθεσεως και προθεσεις αρτων επι της τραπεζης της καθαρας | lemma: compound worship list | morphology: cultic service line | chosen_rendering: They burn to Lord whole burnt offerings morning and evening and incense of compounded spices and presentations of bread upon pure table, and golden lampstand and its lamps for burning to light at evening, because we keep charges of Lord God of our fathers, but you forsake him. | alternate_renderings: They burn whole burnt offerings morning and evening and sweet incense and set the showbread on the pure table. | rationale: Greek keeps a longer compounded worship list here. Current wording preserves it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: incense of compounded spices | footnote_text: Greek keeps a longer compounded worship list here. | source_basis: cultic list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -228188,10 +228230,10 @@ Syntax notes: [TODO]
 Draft translation: And Achaab king of Israel said to Iōsaphat king of Iouda, Will you go with me to Ramōth of Galaaditis? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ως εγω ουτως και συ ως ο λαος σου και ο λαος μου μετα σου εις πολεμον | lemma: ως | λαος | πολεμος | morphology: comparison clause | chosen_rendering: As I am, so are you; as your people, so my people, with you in battle. | alternate_renderings: As I am, so also are you; my people as your people, with you for war. | rationale: Current wording preserves the compressed alliance formula. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: As I am, so are you; as your people, so my people, with you in battle | footnote_text: Greek uses a compressed alliance formula. Current wording preserves it. | source_basis: alliance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229010,10 +229052,10 @@ Syntax notes: [TODO]
 Draft translation: Every case that comes upon you from your brothers dwelling in their cities, between blood and blood and between ordinance and commandment and statutes and judgments, you shall make distinction for them, and they shall not sin against Lord, and wrath shall not be on you and on your brothers. Thus you shall do and you shall not sin.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και διαστελεισθε αυτοις και ουχ αμαρτησονται τω κυριω | lemma: διαστελλω | morphology: judicial instruction | chosen_rendering: Every case that comes upon you from your brothers dwelling in their cities, between blood and blood and between ordinance and commandment and statutes and judgments, you shall make distinction for them, and they shall not sin against Lord, and wrath shall not be on you and on your brothers. Thus you shall do and you shall not sin. | alternate_renderings: You shall warn them, so they do not trespass against the Lord. | rationale: Greek says you shall make distinction for them. Current wording keeps that judicial wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: make distinction for them | footnote_text: Greek uses that judicial wording here. | source_basis: judicial wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229172,10 +229214,10 @@ Syntax notes: [TODO]
 Draft translation: Are you not Lord who destroyed inhabitants of this land from before your people Israel and gave it to seed of Abraam your beloved forever?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουχι συ ει ο κυριος ο εξολεθρευσας τους κατοικουντας την γην ταυτην απο προσωπου του λαου σου ισραηλ και εδωκας αυτην σπερματι αβρααμ τω ηγαπημενω σου εις τον αιωνα | lemma: ηγαπημενος | morphology: covenant appeal | chosen_rendering: Are you not Lord who destroyed inhabitants of this land from before your people Israel and gave it to seed of Abraam your beloved forever? | alternate_renderings: Are you not Lord who destroyed inhabitants of this land from before your people Israel and gave it to seed of Abraam your beloved forever? | rationale: Current wording keeps the covenant appeal and beloved-Abraam line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seed of Abraam your beloved | footnote_text: Greek uses beloved language for Abraham here. Current wording preserves it. | source_basis: covenant appeal | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229232,10 +229274,10 @@ Syntax notes: [TODO]
 Draft translation: And now, behold, sons of Ammon and Moab and mount Sēir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ εδωκας τω ισραηλ διελθειν δι αυτων | lemma: διδωμι | διερχομαι | morphology: clause | chosen_rendering: through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them, | alternate_renderings: whom you did not permit Israel to pass through when they came from Egypt, because Israel turned away from them and did not destroy them, | rationale: Current wording keeps the through-whom passage line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: through whom you did not allow Israel to pass | footnote_text: Greek keeps the passage-through line explicit. Current wording preserves that route language. | source_basis: route formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229732,10 +229774,10 @@ Syntax notes: [TODO]
 Draft translation: And after these things Iōsaphat king of Iouda joined himself with Ochozias king of Israel, and he acted lawlessly.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μετα ταυτα εκοινωνησεν ιωσαφατ βασιλευς ιουδα προς οχοζιαν βασιλεα ισραηλ και ουτος ηνομησεν | lemma: κοινωνεω | ανομεω | morphology: political alliance | chosen_rendering: And after these things Iōsaphat king of Iouda joined himself with Ochozias king of Israel, and he acted lawlessly. | alternate_renderings: After these things Iōsaphat king of Iouda joined himself with Ochozias king of Israel, and he acted lawlessly. | rationale: Current wording keeps the alliance line and the lawless verdict together. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: joined himself with Ochozias | footnote_text: Greek uses alliance language, then gives a lawless verdict. Current wording preserves both. | source_basis: political alliance | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -231340,10 +231382,10 @@ Syntax notes: [TODO]
 Draft translation: And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Iōdae the priest and killed him on his bed, and he died. And they buried him in City of Dauid, but they did not bury him in tomb of kings.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν αιμασιν υιου ιωδαε του ιερεως και εθανατωσαν αυτον επι της κλινης αυτου | lemma: αιματα | morphology: blood vengeance line | chosen_rendering: And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Iōdae the priest and killed him on his bed, and he died. And they buried him in City of Dauid, but they did not bury him in tomb of kings. | alternate_renderings: His servants conspired against him because of the blood of the sons of Jehoiada the priest and slew him on his bed. | rationale: Greek says bloods of son of Iōdae the priest here. Current wording keeps that form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: bloods of son of Iōdae | footnote_text: Greek says bloods of son of Iōdae the priest here. | source_basis: blood formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -232164,10 +232206,10 @@ Syntax notes: [TODO]
 Draft translation: And Ozias had forces making war and going out for battle in number, and their number by hand of Iiēl the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δια χειρος ανανιου του διαδοχου του βασιλεως | lemma: διαδοχος | morphology: military register | chosen_rendering: And Ozias had forces making war and going out for battle in number, and their number by hand of Iiēl the scribe and Maasaiou the judge, by hand of Ananiou, successor of king. | alternate_renderings: By the hand of Hananiah one of the king's captains. | rationale: Greek says by hand of Ananiou successor of king here. Current wording keeps that title. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: successor of king | footnote_text: Greek says Ananiou successor of king here. | source_basis: title wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -232466,10 +232508,10 @@ Syntax notes: [TODO]
 Draft translation: He built high gate of house of Lord, and in wall of Ophal he built much.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυτος ωκοδομησεν την πυλην οικου κυριου την υψηλην και εν τειχει του οφλα ωκοδομησεν πολλα | lemma: πυλη | οφλα | morphology: building clause | chosen_rendering: He built high gate of house of Lord, and in wall of Ophal he built much. | alternate_renderings: He built the high gate of the house of the Lord, and in the wall of Ophal he built much. | rationale: Current wording keeps the high-gate and built-much lines plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: He built high gate of house of Lord | footnote_text: Greek gives a compact building notice with the high gate and Ophal wall. Current wording preserves that terse report. | source_basis: building notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -232486,10 +232528,10 @@ Syntax notes: [TODO]
 Draft translation: And he built cities in mountain of Iouda, and in forests dwellings and towers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και πολεις ωκοδομησεν εν ορει ιουδα και εν τοις δρυμοις και οικησεις και πυργους | lemma: δρυμος | morphology: building summary | chosen_rendering: And he built cities in mountain of Iouda, and in forests dwellings and towers. | alternate_renderings: He built cities in mountain of Iouda, and in forests dwellings and towers. | rationale: Current wording keeps the building summary plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in forests dwellings and towers | footnote_text: Greek keeps the building list compact. Current wording preserves it. | source_basis: building summary | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -233230,10 +233272,10 @@ Syntax notes: [TODO]
 Draft translation: Because our fathers rebelled and did evil before Lord and forsook him and turned face away from tent of Lord and gave neck.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απεστρεψαν το προσωπον απο της σκηνης κυριου και εδωκαν αυχενα | lemma: αυχην | morphology: hezekiah rebuke | chosen_rendering: Because our fathers rebelled and did evil before Lord and forsook him and turned face away from tent of Lord and gave neck. | alternate_renderings: They turned away their faces from the habitation of the Lord and turned their backs. | rationale: Greek says gave neck here rather than turned backs. Current wording keeps that image. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: gave neck | footnote_text: Greek says gave neck here rather than turned backs. | source_basis: image wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -233510,10 +233552,10 @@ Syntax notes: [TODO]
 Draft translation: And Ezekias the king rose early and gathered rulers of city and went up to house of Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ωρθρισεν εζεκιας ο βασιλευς και συνηγαγεν τους αρχοντας της πολεως | lemma: ορθριζω | συναγω | morphology: narrative clause | chosen_rendering: And Ezekias the king rose early and gathered rulers of city and went up to house of Lord. | alternate_renderings: Ezekias the king rose early and gathered rulers of city and went up to house of Lord. | rationale: Current wording keeps the rose-early and gathered-rulers line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: rose early and gathered rulers of city | footnote_text: Greek gives a terse reform-action line. Current wording preserves that narrative sequence. | source_basis: reform sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -233770,10 +233812,10 @@ Syntax notes: [TODO]
 Draft translation: And holy things were six hundred calves and three thousand sheep.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και οι ηγιασμενοι μοσχοι εξακοσιοι προβατα τρισχιλια | lemma: αγιαζω | morphology: offering tally | chosen_rendering: And holy things were six hundred calves and three thousand sheep. | alternate_renderings: The consecrated things were six hundred calves and three thousand sheep. | rationale: Current wording keeps the holy-things tally close to the Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: holy things were six hundred calves and three thousand sheep | footnote_text: Greek states the tally with holy-things language. Current wording preserves that offering count. | source_basis: offering tally | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -233992,10 +234034,10 @@ Syntax notes: [TODO]
 Draft translation: And now do not harden your necks; give glory to Lord God, and enter into his sanctuary which he sanctified forever, and serve Lord your God, and he will turn away fury of wrath from you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δοτε δοξαν κυριω τω θεω και εισελθατε εις το αγιασμα αυτου | lemma: δοτε δοξαν | morphology: imperative phrase | chosen_rendering: And now do not harden your necks; give glory to Lord God, and enter into his sanctuary which he sanctified forever, and serve Lord your God, and he will turn away fury of wrath from you. | alternate_renderings: Yield yourselves to the Lord and enter his sanctuary. | rationale: Greek says give glory to the Lord God. Current wording preserves that imperative. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: give glory to Lord God | footnote_text: Greek keeps that imperative rather than smoothing to yield yourselves. | source_basis: imperative wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234012,10 +234054,10 @@ Syntax notes: [TODO]
 Draft translation: Because when you return to Lord, your brothers and your children shall be in mercies before all who took them captive and he will return to this land, because Lord our God is merciful and compassionate and will not turn away his face from us if we return to him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι αδελφοι υμων και τα τεκνα υμων εσονται εν οικτιρμοις εναντι παντων των αιχμαλωτισαντων αυτους και αποστρεψει εις την γην ταυτην | lemma: εν οικτιρμοις | morphology: restoration line | chosen_rendering: Because when you return to Lord, your brothers and your children shall be in mercies before all who took them captive and he will return to this land, because Lord our God is merciful and compassionate and will not turn away his face from us if we return to him. | alternate_renderings: Your brothers and your children shall find compassion before their captors and he will restore you to this land. | rationale: Greek says they shall be in mercies before all who took them captive. Current wording keeps that unusual expression visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: shall be in mercies before all who took them captive | footnote_text: Greek uses that unusual in-mercies expression here. | source_basis: mercy expression | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234394,10 +234436,10 @@ Syntax notes: [TODO]
 Draft translation: And when all these things were finished, all Israel found in cities of Iouda went out and broke pillars and cut down groves and pulled down high places and altars from all Iouda and Beniamin and from Ephraim and from Manasse until end, and all Israel returned each to his inheritance and to their cities.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συνετριψαν τας στηλας και εξεκοψαν τα αλση και κατεσπασαν τα υψηλα και τους βωμους | lemma: tearing-down list | morphology: cultic purge | chosen_rendering: And when all these things were finished, all Israel found in cities of Iouda went out and broke pillars and cut down groves and pulled down high places and altars from all Iouda and Beniamin and from Ephraim and from Manasse until end, and all Israel returned each to his inheritance and to their cities. | alternate_renderings: They broke the images and cut down the groves and threw down the high places and altars. | rationale: Greek says pillars, groves, high places, and altars, and ends with until end. Current wording keeps that sequence visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: broke pillars and cut down groves | footnote_text: Greek keeps the pillar-language here, not images. | source_basis: cultic purge wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234494,10 +234536,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Israel and Iouda and those dwelling in cities of Iouda also brought tithes of calves and sheep and tithes of goats and sanctified to Lord their God and brought in and set in heaps, heaps.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εθηκαν σωρους σωρους | lemma: σωρος | morphology: repetition clause | chosen_rendering: Sons of Israel and Iouda and those dwelling in cities of Iouda also brought tithes of calves and sheep and tithes of goats and sanctified to Lord their God and brought in and set in heaps, heaps. | alternate_renderings: The sons of Israel and Judah and those dwelling in the cities of Judah also brought tithes of calves and sheep and tithes of goats and sanctified things to the Lord their God, and they brought them in and set them in heaps, heaps. | rationale: Current wording keeps the repeated heaps formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in heaps, heaps | footnote_text: Greek repeats heaps for emphasis. Current wording preserves that repetition. | source_basis: repetition formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234754,10 +234796,10 @@ Syntax notes: [TODO]
 Draft translation: For sons of Aaron, those serving as priests, and those from their cities in every city and city, men named by name to give portion to every male among priests and to every one counted among Levites.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν παση πολει και πολει ανδρες οι ωνομασθησαν εν ονοματι | lemma: city by city formula | morphology: repetition + naming phrase | chosen_rendering: For sons of Aaron, those serving as priests, and those from their cities in every city and city, men named by name to give portion to every male among priests and to every one counted among Levites. | alternate_renderings: In every city named men were appointed to give portions. | rationale: Greek repeats city by city and named by name. Current wording keeps that administrative wording visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in every city and city | footnote_text: Greek repeats city by city and named by name in this administrative line. | source_basis: administrative wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -234896,10 +234938,10 @@ Syntax notes: [TODO]
 Draft translation: And Ezekias grew strong and built all wall that had been pulled down, and towers, and another outer wall, and strengthened supporting-wall of City of Dauid, and prepared many weapons.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και κατισχυσεν εζεκιας και ωκοδομησεν παν το τειχος το κατεσκαμμενον | lemma: κατισχυω | τειχος | morphology: fortification clause | chosen_rendering: And Ezekias grew strong and built all wall that had been pulled down, and towers, and another outer wall, and strengthened supporting-wall of City of Dauid, and prepared many weapons. | alternate_renderings: Ezekias grew strong and built all wall that had been pulled down, and towers, and another outer wall, and strengthened supporting-wall of City of Dauid, and prepared many weapons. | rationale: Current wording keeps the fortification sequence explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: built all wall that had been pulled down | footnote_text: Greek strings the fortification actions together in sequence. Current wording preserves that defense-building line. | source_basis: fortification sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -235698,10 +235740,10 @@ Syntax notes: [TODO]
 Draft translation: And when he was afflicted, he sought face of Lord his God and humbled himself greatly before God of his fathers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ως εθλιβη εζητησεν το προσωπον κυριου του θεου αυτου και εταπεινωθη σφοδρα | lemma: ταπεινοω | morphology: repentance note | chosen_rendering: And when he was afflicted, he sought face of Lord his God and humbled himself greatly before God of his fathers. | alternate_renderings: When he was afflicted, he sought face of Lord his God and humbled himself greatly before God of his fathers. | rationale: Current wording keeps the repentance note plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: humbled himself greatly | footnote_text: Greek marks Manasseh's turn with strong humility language. Current wording preserves it. | source_basis: repentance note | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -236580,10 +236622,10 @@ Syntax notes: [TODO]
 Draft translation: And king stood upon pillar and made covenant before Lord, to walk before Lord, to keep his commandments and his testimonies and his ordinances with all heart and with all soul, words of covenant written upon this book.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: διεθετο διαθηκην εναντιον κυριου του πορευθηναι ενωπιον κυριου | lemma: διατιθημι | διαθηκη | morphology: covenant clause | chosen_rendering: And king stood upon pillar and made covenant before Lord, to walk before Lord, to keep his commandments and his testimonies and his ordinances with all heart and with all soul, words of covenant written upon this book. | alternate_renderings: The king stood upon the pillar and made covenant before the Lord, to walk before the Lord, to keep his commandments and his testimonies and his ordinances with all heart and with all soul, the words of the covenant written upon this book. | rationale: Current wording keeps the made-covenant and walk-before-the-Lord formula explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: made covenant before Lord | footnote_text: Greek states the covenant-making line directly and then links it with walking before the Lord. Current wording preserves that reform formula. | source_basis: covenant formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -236942,10 +236984,10 @@ Syntax notes: [TODO]
 Draft translation: And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Iōsias.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατωρθωθη και ητοιμασθη πασα η λειτουργια κυριου | lemma: κατορθοω | ετοιμαζω | λειτουργια | morphology: noun clause | chosen_rendering: And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Iōsias. | alternate_renderings: And all service of the Lord was set in order and prepared on that day to keep Passover and offer whole burnt offerings on the altar of the Lord according to the command of king Josiah. | rationale: Current wording keeps the set-right and prepared pair visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all service of Lord was set right and prepared on that day | footnote_text: Greek uses a paired set-right and prepared formula. Current wording preserves both verbs. | source_basis: service formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -237002,10 +237044,10 @@ Syntax notes: [TODO]
 Draft translation: In eighteenth year of reign of Iōsias this Passover was kept.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τω οκτωκαιδεκατω ετει της βασιλειας ιωσια | lemma: ογδοκαιδεκατος | βασιλεια | morphology: date clause | chosen_rendering: In eighteenth year of reign of Iōsias this Passover was kept. | alternate_renderings: In the eighteenth year of the reign of Iosias this Passover was kept. | rationale: Current wording keeps the terse date line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: In eighteenth year of reign of Iōsias | footnote_text: Greek gives a terse dating line here. Current wording preserves that compact historical notice. | source_basis: date formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -237648,10 +237690,10 @@ Syntax notes: [TODO]
 Draft translation: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐξήγειρεν κύριος τὸ πνεῦμα Κύρου | lemma: ἐξεγείρω | πνεῦμα | morphology: aorist clause | chosen_rendering: the Lord stirred spirit of Cyrus | alternate_renderings: the Lord stirred the spirit of Cyrus | rationale: Current wording keeps the stirred-spirit formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the Lord stirred spirit of Cyrus | footnote_text: The Greek uses the stirred-spirit formula directly. The current wording preserves that wording. | source_basis: stirred-spirit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -237688,10 +237730,10 @@ Syntax notes: [TODO]
 Draft translation: Who among you is from all his people? Let his God be with him, and let him go up to Ierousalem in Ioudaia and build house of God of Israel. He is the God in Ierousalem.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυτος ο θεος ο εν ιερουσαλημ | lemma: θεος | εν | morphology: identification clause | chosen_rendering: He is the God in Ierousalem. | alternate_renderings: He is God who is in Jerusalem. | rationale: Current wording keeps the short identifying clause of the Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: He is the God in Ierousalem. | footnote_text: Greek closes with a short identifying clause. Current wording keeps it direct. | source_basis: identification clause | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -237728,10 +237770,10 @@ Syntax notes: [TODO]
 Draft translation: Then heads of father-houses of Iouda and Beniamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Ierousalem.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὧν ἐξήγειρεν ὁ θεὸς τὸ πνεῦμα αὐτῶν | lemma: ἐξεγείρω | πνεῦμα | morphology: relative clause | chosen_rendering: whose spirit God stirred | alternate_renderings: whose spirit God awakened | rationale: Current wording keeps the stirred-spirit formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: whose spirit God stirred | footnote_text: The Greek uses the stirred-spirit formula directly. The current wording preserves that wording. | source_basis: stirred-spirit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -239814,10 +239856,10 @@ Syntax notes: [TODO]
 Draft translation: so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: φυγαδια δουλων εν μεσω αυτης | lemma: φυγαδιον | δουλος | morphology: noun phrase | chosen_rendering: so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste. | alternate_renderings: Sedition was in its midst from ancient times. | rationale: Greek explicitly mentions runaways of slaves here. Current wording keeps that harder phrase visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: runaways of slaves | footnote_text: Greek explicitly mentions runaways of slaves here. | source_basis: lexical difference | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -240216,10 +240258,10 @@ Syntax notes: [TODO]
 Draft translation: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ημεις εσμεν δουλοι του θεου του ουρανου και της γης και οικοδομουμεν τον οικον ος ην ωκοδομημενος προ τουτου ετη πολλα και βασιλευς του ισραηλ μεγας ωκοδομησεν αυτον και κατηρτισατο αυτον | lemma: δουλος | κατηρτισατο | morphology: report reply | chosen_rendering: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it. | alternate_renderings: This word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it. | rationale: Current wording keeps the formal reply and the completed-it close. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: servants of God of heaven and earth | footnote_text: Greek gives the answer in formal report style. Current wording preserves that shape and the completed-it close. | source_basis: report formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -240336,10 +240378,10 @@ Syntax notes: [TODO]
 Draft translation: And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και γνους ο βασιλευς περι τουτου πεμψατω προς ημας | lemma: γινωσκω | morphology: aorist participle + imperative | chosen_rendering: And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Ierousalem, and after knowing concerning this let the king send to us. | alternate_renderings: Let the king send his pleasure to us concerning this matter. | rationale: Greek says after knowing concerning this let the king send to us. Current wording keeps that sequence visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: after knowing concerning this | footnote_text: Greek keeps the sequence after knowing concerning this then let the king send to us. | source_basis: clause sequence | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -240398,10 +240440,10 @@ Syntax notes: [TODO]
 Draft translation: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Ierousalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οἶκος οἰκοδομηθήτω | lemma: οἶκος | οἰκοδομέω | morphology: imperative clause | chosen_rendering: Let house be built | alternate_renderings: let the house be built | rationale: Current wording keeps the decree formula direct. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Let house be built | footnote_text: The Greek decree line is compact and direct. The current wording keeps that formula close to the source-row line. | source_basis: decree formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -240900,10 +240942,10 @@ Syntax notes: [TODO]
 Draft translation: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: χεὶρ κυρίου θεοῦ αὐτοῦ ἐπʼ αὐτόν | lemma: χείρ | κύριος | morphology: prepositional phrase | chosen_rendering: hand of Lord his God was upon him | alternate_renderings: hand of the Lord his God was upon him | rationale: Current wording keeps the hand-of-God formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: hand of Lord his God was upon him | footnote_text: The Greek uses the hand-of-God formula directly. The current wording preserves that wording. | source_basis: hand-of-God formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -241020,10 +241062,10 @@ Syntax notes: [TODO]
 Draft translation: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τετέλεσται ὁ λόγος καὶ ἡ ἀπόκρισις | lemma: τελέω | λόγος | ἀπόκρισις | morphology: predicate clause | chosen_rendering: the matter is settled and this answer | alternate_renderings: the order is complete and this answer | rationale: Current wording keeps the compact letter-close formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: the matter is settled and this answer | footnote_text: The Greek closes this opening with a compact letter formula. The current wording keeps that unusual line visible. | source_basis: letter formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -241842,10 +241884,10 @@ Syntax notes: [TODO]
 Draft translation: And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τα σκευη απαρχης οικου θεου ημων α υψωσεν ο βασιλευς και οι συμβουλοι αυτου | lemma: απαρχη | υψοω | morphology: clause | chosen_rendering: And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up. | alternate_renderings: I weighed out to them the silver, the gold, and the vessels, the firstfruits for the house of our God, which the king and his counselors and rulers and all Israel there had lifted up. | rationale: Current wording keeps the weighed-out and lifted-up offering line close to the source row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God | footnote_text: Greek combines weighing language with an offering line. Current wording preserves that sequence. | source_basis: offering account | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -242022,10 +242064,10 @@ Syntax notes: [TODO]
 Draft translation: by number and by weight, everything, and all the weight was written at that time.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν αριθμω και εν σταθμω τα παντα και εγραφη πας ο σταθμος | lemma: αριθμος | σταθμος | morphology: accounting clause | chosen_rendering: by number and by weight, everything, and all the weight was written at that time. | alternate_renderings: everything by number and by weight, and all the weight was recorded at that time. | rationale: Current wording keeps the number-and-weight accounting formula plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by number and by weight, everything, and all the weight was written at that time. | footnote_text: Greek uses a compact accounting line. Current wording preserves that number-and-weight formula. | source_basis: accounting formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -242324,10 +242366,10 @@ Syntax notes: [TODO]
 Draft translation: And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εδωκας ημιν σωτηριαν | lemma: σωτηρια | morphology: noun clause | chosen_rendering: And after all that came upon us for our evil deeds and our great trespass, since you, our God, lightened from our lawlessnesses and gave us such deliverance, | alternate_renderings: After all that came upon us for our evil deeds and our great trespass, since you, our God, lightened our lawlessnesses and gave us such salvation, | rationale: Current wording keeps the relief-and-deliverance line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: gave us such deliverance | footnote_text: Greek ends the line with deliverance language. Current wording preserves that relief note. | source_basis: salvation/deliverance line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -243450,10 +243492,10 @@ Syntax notes: [TODO]
 Draft translation: And they are your servants and your people, whom you redeemed by your great power and your strong hand.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και αυτοι παιδες σου και λαος σου ους ελυτρωσω εν δυναμει σου τη μεγαλη και εν τη χειρι σου τη κραταια | lemma: λυτροω | χειρ κραταια | morphology: prayer formula | chosen_rendering: And they are your servants and your people, whom you redeemed by your great power and your strong hand. | alternate_renderings: They are your servants and your people, whom you redeemed by your great power and your strong hand. | rationale: Current wording keeps the redeemed-by-power-and-hand prayer line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: redeemed by your great power and your strong hand | footnote_text: Greek uses the familiar power-and-hand redemption line. Current wording preserves it. | source_basis: prayer formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -243974,10 +244016,10 @@ Syntax notes: [TODO]
 Draft translation: And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επι χειρα αυτων κατεσχοσαν οι θεκωιν και αδωρηεμ ουκ εισηνεγκαν τραχηλον αυτων εις δουλειαν αυτων | lemma: τραχηλος | δουλεια | morphology: repair clause | chosen_rendering: And next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord. | alternate_renderings: Next to them the Thekoim repaired, but their nobles did not bring their neck into service of their lord. | rationale: Current wording keeps the neck-into-service line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: did not bring their neck into service | footnote_text: Greek uses a neck-into-service idiom here. Current wording preserves that refusal image. | source_basis: idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -244876,10 +244918,10 @@ Syntax notes: [TODO]
 Draft translation: In place where you hear sound of the horn, there you shall gather to us, and our God will fight for us.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν τοπω ου εαν ακουσητε την φωνην της κερατινης εκει συναχθησεσθε προς ημας και ο θεος ημων πολεμησει περι ημων | lemma: verse mapping difference | morphology: horn gathering line | chosen_rendering: In place where you hear sound of the horn, there you shall gather to us, and our God will fight for us. | alternate_renderings: Do not be afraid of them; remember the great and terrible Lord and fight for your brothers. | rationale: This LXX verse number carries the horn-gathering line rather than the MT fear-not exhortation. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sound of the horn | footnote_text: This LXX verse number carries the horn-gathering line rather than the MT fear-not exhortation. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -245560,10 +245602,10 @@ Syntax notes: [TODO]
 Draft translation: And I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και επεγνων και ιδου ο θεος ουκ απεστειλεν αυτον | lemma: αποστελλω | προφητεια | morphology: recognition clause | chosen_rendering: And I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him. | alternate_renderings: I recognized, and behold, God had not sent him, but he spoke the prophecy-word against me, and Tobia and Sanaballat had hired him. | rationale: Current wording keeps the God-had-not-sent-him line explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God had not sent him | footnote_text: Greek makes Nehemiah's recognition explicit: God had not sent him. Current wording preserves that discernment line. | source_basis: discernment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -247304,10 +247346,10 @@ Syntax notes: [TODO]
 Draft translation: And Iesous and Banaias and Sarabia were causing the people to understand the law, and the people stood in their place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ιησους και βαναιας και σαραβια ησαν συνετιζοντες τον λαον εις τον νομον και ο λαος εν τη στασει αυτου | lemma: συνιημι | morphology: law instruction scene | chosen_rendering: And Iesous and Banaias and Sarabia were causing the people to understand the law, and the people stood in their place. | alternate_renderings: Jeshua and Bani and Sherebiah and many others caused the people to understand the law. | rationale: Greek here gives a shorter personnel list and ends with the people standing in their place. Current wording keeps that form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: stood in their place | footnote_text: Greek has a shorter personnel list and ends with the people standing in their place. | source_basis: scene detail | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -247626,10 +247668,10 @@ Syntax notes: [TODO]
 Draft translation: And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀναστῆτε εὐλογεῖτε τὸν κύριον τὸν θεὸν ὑμῶν ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος | lemma: ἀνίστημι | εὐλογέω | morphology: imperative clause | chosen_rendering: rise bless the Lord your God from age to age | alternate_renderings: rise and bless the Lord your God from everlasting to everlasting | rationale: Current wording keeps the liturgical blessing formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: rise bless the Lord your God from age to age | footnote_text: The Greek uses a liturgical blessing formula here. The current wording keeps that line explicit. | source_basis: liturgical formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -247726,10 +247768,10 @@ Syntax notes: [TODO]
 Draft translation: And you gave signs in Egypt against Pharaoh and all his servants and all the people of his land, because you knew that they acted proudly against them, and you made a name for yourself as this day.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εποιησας σεαυτω ονομα ως η ημερα αυτη | lemma: ποιεω | ονομα | morphology: clause | chosen_rendering: you made a name for yourself as this day | alternate_renderings: you got yourself a name as this day | rationale: Current wording keeps the name-making formula explicit. Draft stays close to source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you made a name for yourself as this day | footnote_text: The Greek uses the name-making formula directly. The current wording preserves that line. | source_basis: name-making formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -248066,10 +248108,10 @@ Syntax notes: [TODO]
 Draft translation: And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εδωκας αυτοις σωτηρας και εσωσας αυτους εκ χειρος θλιβοντων αυτους | lemma: σωτηρ | morphology: rescue line | chosen_rendering: And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them. | alternate_renderings: You gave them saviors who saved them from the hand of their enemies. | rationale: Greek keeps the afflicters language before and after the rescue. Current wording preserves it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: gave them saviors | footnote_text: Greek uses saviors here and repeats those afflicting them around the clause. | source_basis: rescue wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -248828,10 +248870,10 @@ Syntax notes: [TODO]
 Draft translation: Mallouch, Heram, Baana.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μαλουχ ηραμ βαανα | lemma: name list | morphology: three-name line | chosen_rendering: Mallouch, Heram, Baana. | alternate_renderings: And the rest of the people, the priests, the Levites... | rationale: This LXX verse number here is a short name list, not the longer MT assembly line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Mallouch Heram Baana | footnote_text: This LXX verse number here is a short three-name list. | source_basis: name list | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -248988,10 +249030,10 @@ Syntax notes: [TODO]
 Draft translation: and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ενεγκαι τα πρωτογενηματα της γης ημων και πρωτογενηματα καρπου παντος ξυλου | lemma: verse mapping difference | morphology: firstfruits line | chosen_rendering: and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord, | alternate_renderings: Also the firstborn of our sons and of our cattle... | rationale: This LXX verse number carries the firstfruits line rather than the MT firstborn line. Current wording keeps the Greek mapping. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: firstfruits of our land | footnote_text: This LXX verse number carries the firstfruits line rather than the MT firstborn line. | source_basis: verse mapping | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -249130,10 +249172,10 @@ Syntax notes: [TODO]
 Draft translation: And these are rulers of the province who settled in Ierousalem, while in cities of Iouda each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Salomon.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και ουτοι οι αρχοντες της χωρας οι εκαθισαν εν ιερουσαλημ και εν πολεσιν ιουδα εκαθισαν ανηρ εν κατασχεσει αυτου | lemma: κατασχεσις | morphology: province heads | chosen_rendering: And these are rulers of the province who settled in Ierousalem, while in cities of Iouda each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Salomon. | alternate_renderings: These are the chief of the province that dwelt in Jerusalem, but in the cities of Judah every one dwelt in his possession. | rationale: Greek says rulers of the province and his own holding here. Current wording keeps those forms. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: his own holding | footnote_text: Greek says rulers of province and his own holding here. | source_basis: holding wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -249450,10 +249492,10 @@ Syntax notes: [TODO]
 Draft translation: And overseer of the Levites was son of Bani, Ozi, son of Asabia, son of Micha, from sons of Asaph the singers, over against work of house of God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: απεναντι εργου οικου του θεου | lemma: απεναντι | morphology: prepositional phrase | chosen_rendering: And overseer of the Levites was son of Bani, Ozi, son of Asabia, son of Micha, from sons of Asaph the singers, over against work of house of God. | alternate_renderings: Over the business of the house of God. | rationale: Greek says over against the work of the house of God. Current wording keeps the prepositional phrasing visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: over against work of house of God | footnote_text: Greek keeps the over-against phrasing here. | source_basis: prepositional phrasing | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -250694,10 +250736,10 @@ Syntax notes: [TODO]
 Draft translation: And I knew that portions of the Levites had not been given, and the Levites and the singers doing the work fled, each man to his own field.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εγνων οτι μεριδες των λευιτων ουκ εδοθησαν και εφυγοσαν ανηρ εις αγρον αυτου | lemma: μερις | morphology: reform notice | chosen_rendering: And I knew that portions of the Levites had not been given, and the Levites and the singers doing the work fled, each man to his own field. | alternate_renderings: I knew that portions of the Levites had not been given, and the Levites and the singers doing the work fled, each man to his own field. | rationale: Current wording keeps the reform notice plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: portions of the Levites had not been given | footnote_text: Greek frames the reform issue with withheld portions. Current wording preserves it. | source_basis: reform notice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -250714,10 +250756,10 @@ Syntax notes: [TODO]
 Draft translation: And I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εμαχεσαμην τοις στρατηγοις και ειπα δια τι εγκατελειφθη ο οικος του θεου | lemma: μαχομαι | εγκαταλειπω | morphology: rebuke scene | chosen_rendering: And I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing. | alternate_renderings: I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing. | rationale: Current wording keeps the rebuke and restoration line plain. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Why was house of God forsaken? | footnote_text: Greek gives Nehemiah's rebuke in direct question form. Current wording preserves it. | source_basis: rebuke scene | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -251054,10 +251096,10 @@ Syntax notes: [TODO]
 Draft translation: And from sons of Iōada, of Elisoub the great priest, was son-in-law of Sanaballat the Horonite, and I drove him out from me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και εξεβρασα αυτον απ' εμου | lemma: εκβαλλω | morphology: expulsion notice | chosen_rendering: And from sons of Iōada, of Elisoub the great priest, was son-in-law of Sanaballat the Horonite, and I drove him out from me. | alternate_renderings: From sons of Iōada, of Elisoub the great priest, was son-in-law of Sanaballat the Horonite, and I drove him out from me. | rationale: Current wording keeps Nehemiah's first-person expulsion line blunt. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I drove him out from me | footnote_text: Greek ends with Nehemiah's personal expulsion line. Current wording preserves that blunt close. | source_basis: personal expulsion | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -251378,10 +251420,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to his friends, Thus Astin has spoken. So make law and judgment concerning this.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ποιήσατε οὖν περὶ τούτου νόμον καὶ κρίσιν | lemma: ποιέω | νόμος | κρίσις | morphology: imperative clause | chosen_rendering: make law and judgment concerning this | alternate_renderings: make a law and judgment concerning this | rationale: Current wording keeps the court-formula line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: make law and judgment concerning this | footnote_text: The Greek uses a compact court formula here. The current wording keeps both law and judgment visible. | source_basis: court formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -251518,10 +251560,10 @@ Syntax notes: [TODO]
 Draft translation: And let the law which the king makes be heard in his kingdom, and thus all women will give honor to their husbands, from poor to rich.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πᾶσαι αἱ γυναῖκες περιθήσουσιν τιμὴν τοῖς ἀνδράσιν ἑαυτῶν | lemma: γυνή | τιμή | ἀνήρ | morphology: future clause | chosen_rendering: all women will give honor to their husbands | alternate_renderings: all women will give honor to their own husbands | rationale: Current wording keeps the honor formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: all women will give honor to their husbands | footnote_text: The Greek uses honor language directly. The current wording preserves that line. | source_basis: honor formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -251800,10 +251842,10 @@ Syntax notes: [TODO]
 Draft translation: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αἱ ἡμέραι τῆς θεραπείας | lemma: ἡμέρα | θεραπεία | morphology: noun phrase | chosen_rendering: days of treatment are completed | alternate_renderings: days of treatment are fulfilled | rationale: Current wording keeps the treatment-period line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: days of treatment are completed | footnote_text: The Greek speaks of a fixed treatment period. The current wording keeps that line explicit. | source_basis: treatment-period formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -252464,10 +252506,10 @@ Syntax notes: [TODO]
 Draft translation: And he gave him copy of the notice posted in Sousa for their destruction, to show Esther, and he told him to command her, after going in, to plead with the king and urge him for the people, remembering days of your humiliation, how you were nourished in my hand, because Aman, the second to the kingdom, has spoken against us for death. Call upon the Lord and speak to the king concerning us and rescue us from death.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικαλέσαι τὸν κύριον καὶ λάλησον τῷ βασιλεῖ περὶ ἡμῶν | lemma: ἐπικαλέω | κύριος | λαλέω | morphology: imperative clause | chosen_rendering: Call upon the Lord and speak to the king concerning us | alternate_renderings: call on the Lord and speak to the king for us | rationale: Current wording keeps both prayer and royal appeal explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Call upon the Lord and speak to the king concerning us | footnote_text: The Greek explicitly joins appeal to the Lord with appeal to the king. The current wording keeps both lines visible. | source_basis: prayer-and-appeal formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -252524,10 +252566,10 @@ Syntax notes: [TODO]
 Draft translation: all nations of the kingdom know that every man or woman who enters to the king in the inner court uncalled has no salvation, except the one to whom the king stretches out the golden scepter, that one will be saved. And I have not been called to go in to the king these thirty days.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἔστιν αὐτῷ σωτηρία | lemma: σωτηρία | morphology: predicate clause | chosen_rendering: has no salvation | alternate_renderings: has no deliverance | rationale: Current wording keeps the salvation wording explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: has no salvation | footnote_text: The Greek uses salvation wording here. The current wording preserves that source-row term. | source_basis: salvation wording | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -253572,10 +253614,10 @@ Syntax notes: [TODO]
 Draft translation: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἔστιν αὐτοῖς ἀντειπεῖν | lemma: ἀντιλέγω | morphology: infinitive clause | chosen_rendering: there is no contradicting it | alternate_renderings: there is no speaking against it | rationale: Current wording keeps the irrevocability line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is no contradicting it | footnote_text: The Greek states the royal line in terms of contradiction. The current wording keeps that explicit. | source_basis: royal irrevocability formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -254580,10 +254622,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ο παιδος μου ιωβ | lemma: παις | ιωβ | morphology: noun phrase | chosen_rendering: my servant Iōb | alternate_renderings: my servant Job | rationale: Current wording keeps the servant line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my servant Iōb | footnote_text: The Greek uses the servant formula directly. The current wording keeps that line explicit. | source_basis: servant formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -254922,10 +254964,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ετι δε εχεται ακακιας | lemma: εχω | ακακια | morphology: present clause | chosen_rendering: he still holds fast his innocence | alternate_renderings: he still clings to his innocence | rationale: Current wording keeps the innocence line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he still holds fast his innocence | footnote_text: The Greek keeps the innocence line direct. The current wording preserves that phrase. | source_basis: innocence formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -258116,10 +258158,10 @@ Syntax notes: [TODO]
 Draft translation: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πως γαρ εσται δικαιος βροτος παρα κυριω | lemma: δικαιος | βροτος | κυριος | morphology: question clause | chosen_rendering: how will a mortal be righteous before the Lord | alternate_renderings: how can a mortal be righteous before the Lord | rationale: Current wording keeps the question line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: how will a mortal be righteous before the Lord | footnote_text: The Greek asks the righteousness question directly. The current wording preserves that line. | source_basis: righteousness question | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -271528,10 +271570,10 @@ Syntax notes: [TODO]
 Draft translation: What is this you counted in judgment, you who said, I am righteous before Lord?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δικαιος ειμι εναντι κυριου | lemma: δικαιος | κυριος | morphology: predicate clause | chosen_rendering: I am righteous before Lord | alternate_renderings: I am righteous before the Lord | rationale: Current wording keeps the claim explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am righteous before Lord | footnote_text: The Greek states the claim directly. The current wording keeps that line visible. | source_basis: righteous claim | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -275882,10 +275924,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōb died old and full of days. And it is written that he will rise again with those whom Lord raises up. This man, interpreted from Syriac book, dwelt in land Ausitis on borders of Idumaia and Arabia, and his former name was Iōbab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zare, one of sons of Esau, from mother Bosorra, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beōr, and name of his city was Dennaba; after Balak, Iōbab called Iōb; after him Asom, ruler from country of Thaimanitis; after him Adad son of Barad, who cut down Madiam in plain of Mōab, and name of his city was Geththaim. And friends coming to him were Eliphas king of sons of Esau from Thaimanites, Baldad tyrant of Sauchites, and Sophar king of Minaians.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αυτον παλιν αναστησεσθαι μεθ' ων ο κυριος ανιστησιν | lemma: αναστησεσθαι | κυριος | morphology: infinitive clause | chosen_rendering: he will rise again with those whom Lord raises up | alternate_renderings: he will be raised again with those whom the Lord raises up | rationale: Current wording keeps the resurrection appendix explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he will rise again with those whom Lord raises up | footnote_text: The Greek appendix includes an explicit resurrection line. The current wording keeps that appendix visible. | source_basis: resurrection appendix | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -327992,10 +328034,10 @@ Syntax notes: [TODO]
 Draft translation: Honor Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀπάρχου αὐτῷ ἀπὸ σῶν καρπῶν δικαιοσύνης | lemma: ἀπάρχομαι | καρπός | δικαιοσύνη | morphology: imperative clause | chosen_rendering: offer firstfruits to him from fruits of your righteousness | alternate_renderings: give him firstfruits from fruits of your righteousness | rationale: Current wording keeps the righteousness-fruit wording explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: offer firstfruits to him from fruits of your righteousness | footnote_text: The Greek ties firstfruits to fruits of righteousness. The current wording preserves that explicit wording. | source_basis: righteousness-fruit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -328132,10 +328174,10 @@ Syntax notes: [TODO]
 Draft translation: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: νομον δε και ελεον επι γλωσσης φορει | lemma: νομος | ελεος | γλωσσα | morphology: present clause | chosen_rendering: law and mercy she carries on her tongue | alternate_renderings: law and mercy she bears on her tongue | rationale: Current wording keeps the law-and-mercy line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: law and mercy she carries on her tongue | footnote_text: The Greek joins law and mercy on wisdom's tongue. The current wording keeps that line visible. | source_basis: law-and-mercy line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -331644,10 +331686,10 @@ Syntax notes: [TODO]
 Draft translation: Beginning of wisdom fear of Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀρχὴ σοφίας φόβος κυρίου | lemma: ἀρχή | σοφία | φόβος | morphology: predicate clause | chosen_rendering: beginning of wisdom fear of Lord | alternate_renderings: the beginning of wisdom is fear of the Lord | rationale: Current wording keeps the wisdom formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: beginning of wisdom fear of Lord | footnote_text: The Greek keeps the wisdom formula direct and compact. The current wording preserves it close to the source-row line. | source_basis: wisdom formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -331866,10 +331908,10 @@ Syntax notes: [TODO]
 Draft translation: Lord will not starve righteous soul, but life of ungodly he will overthrow.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐ λιμοκτονήσει κύριος ψυχὴν δικαίαν | lemma: λιμοκτονέω | ψυχή | morphology: future clause | chosen_rendering: Lord will not starve righteous soul | alternate_renderings: the Lord will not let a righteous soul go hungry | rationale: Current wording keeps the righteous-soul wording explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord will not starve righteous soul | footnote_text: The Greek speaks of the righteous soul directly. The current wording keeps that anthropological wording visible. | source_basis: anthropology + wisdom line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -335396,10 +335438,10 @@ Syntax notes: [TODO]
 Draft translation: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εὐχαῖς δὲ δικαίων ἐπακούει | lemma: εὐχή | ἐπακούω | morphology: present clause | chosen_rendering: prayers of righteous he hears | alternate_renderings: he hears prayers of the righteous | rationale: Current wording keeps the righteous-prayer formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: prayers of righteous he hears | footnote_text: The Greek uses a direct righteous-prayer formula. The current wording keeps that line explicit. | source_basis: prayer formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -341318,10 +341360,10 @@ Syntax notes: [TODO]
 Draft translation: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame = glory and grace.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ωσπερ κυων οταν επελθη επι τον εαυτου εμετον | lemma: κυων | εμετος | morphology: comparison clause | chosen_rendering: As dog when it returns to its own vomit | alternate_renderings: as a dog returning to its own vomit | rationale: Current wording keeps the proverb image explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: As dog when it returns to its own vomit | footnote_text: The Greek uses the proverb image directly. The current wording keeps that vivid line explicit. | source_basis: proverb image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -345854,10 +345896,10 @@ Syntax notes: [TODO]
 Draft translation: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from hand of God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δείξει τῇ ψυχῇ αὐτοῦ ἀγαθὸν ἐν μόχθῳ αὐτοῦ | lemma: ψυχή | μόχθος | morphology: future-like clause | chosen_rendering: show his soul good in his toil | alternate_renderings: show his soul good amid his toil | rationale: Current wording keeps the soul-language line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: show his soul good in his toil | footnote_text: The Greek speaks of showing the soul good in toil. The current wording keeps that anthropological line visible. | source_basis: soul-and-toil formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -345894,10 +345936,10 @@ Syntax notes: [TODO]
 Draft translation: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῷ ἀγαθῷ πρὸ προσώπου τοῦ θεοῦ | lemma: ἀγαθός | πρόσωπον | θεός | morphology: prepositional phrase | chosen_rendering: one good before face of God | alternate_renderings: one good before the face of God | rationale: Current wording keeps the before-God phrase explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one good before face of God | footnote_text: The Greek uses the before-the-face-of-God phrase directly. The current wording preserves that wording. | source_basis: before-God phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -347102,10 +347144,10 @@ Syntax notes: [TODO]
 Draft translation: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἐξουσιάσει αὐτῷ ὁ θεὸς τοῦ φαγεῖν ἀπʼ αὐτοῦ | lemma: ἐξουσιάζω | θεός | morphology: infinitive clause | chosen_rendering: God does not empower him to eat from it | alternate_renderings: God does not give him power to eat from it | rationale: Current wording keeps the empowered-to-enjoy line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God does not empower him to eat from it | footnote_text: The Greek frames enjoyment as something God empowers or withholds. The current wording keeps that line explicit. | source_basis: enjoyment-as-gift formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -347704,10 +347746,10 @@ Syntax notes: [TODO]
 Draft translation: Because there is not righteous man on earth who will do good and not sin.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἄνθρωπος οὐκ ἔστιν δίκαιος ἐν τῇ γῇ | lemma: ἄνθρωπος | δίκαιος | morphology: predicate clause | chosen_rendering: there is not righteous man on earth who will do good and not sin | alternate_renderings: there is no righteous man on earth who does good and does not sin | rationale: Current wording keeps the universal line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is not righteous man on earth who will do good and not sin | footnote_text: The Greek states the universal claim directly. The current wording keeps that line close to the source-row Greek. | source_basis: universal claim | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -349092,10 +349134,10 @@ Syntax notes: [TODO]
 Draft translation: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἡ ὁδὸς τοῦ πνεύματος | lemma: ὁδός | πνεῦμα | morphology: noun phrase | chosen_rendering: what way of spirit | alternate_renderings: what is way of the spirit | rationale: Current wording keeps the difficult spirit-line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: what way of spirit | footnote_text: The Greek line is difficult and compact here. The current wording stays close to that source-row phrase instead of smoothing it away. | source_basis: difficult spirit phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -349172,10 +349214,10 @@ Syntax notes: [TODO]
 Draft translation: Rejoice, young man, in your youth, and let your heart do you good in days of youth, and walk in ways of your heart and in sight of your eyes, and know that for all these God will bring you in judgment.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπὶ πᾶσι τούτοις ἄξει σε ὁ θεὸς ἐν κρίσει | lemma: ἄγω | θεός | κρίσις | morphology: future clause | chosen_rendering: God will bring you in judgment | alternate_renderings: God will bring you into judgment | rationale: Current wording keeps the judgment warning explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God will bring you in judgment | footnote_text: The Greek uses a direct judgment warning. The current wording keeps that line explicit. | source_basis: judgment warning | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -349618,10 +349660,10 @@ Syntax notes: [TODO]
 Draft translation: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ον ηγαπησεν η ψυχη μου | lemma: αγαπαω | ψυχη | morphology: relative clause | chosen_rendering: one my soul loved | alternate_renderings: the one my soul loved | rationale: Current wording keeps the soul-love line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one my soul loved | footnote_text: The Greek uses soul-love language directly. The current wording preserves that marked phrase. | source_basis: soul-love phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -349880,10 +349922,10 @@ Syntax notes: [TODO]
 Draft translation: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εν τη σκια αυτου επεθυμησα και εκαθισα | lemma: σκια | επιθυμεω | καθιζω | morphology: aorist clause | chosen_rendering: In his shadow I desired and sat | alternate_renderings: I desired his shadow and sat | rationale: Current wording keeps the shade-desire line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: In his shadow I desired and sat | footnote_text: The Greek keeps the shade-desire line direct. The current wording preserves that intimate image. | source_basis: shade-desire line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -350000,10 +350042,10 @@ Syntax notes: [TODO]
 Draft translation: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: παρακυπτων δια των θυριδων εκκυπτων δια των δικτυων | lemma: παρακυπτω | εκκυπτω | morphology: present participle clause | chosen_rendering: peering through windows looking through lattices | alternate_renderings: peering through the windows looking through the lattices | rationale: Current wording keeps the peering line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: peering through windows looking through lattices | footnote_text: The Greek uses paired peering verbs. The current wording keeps both visible. | source_basis: paired peering verbs | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -350182,10 +350224,10 @@ Syntax notes: [TODO]
 Draft translation: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ον ηγαπησεν η ψυχη μου | lemma: αγαπαω | ψυχη | morphology: relative clause | chosen_rendering: one my soul loved | alternate_renderings: the one my soul loved | rationale: Current wording keeps the soul-love line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one my soul loved | footnote_text: The Greek again uses soul-love language directly. The current wording preserves that marked phrase. | source_basis: soul-love phrase | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -350826,10 +350868,10 @@ Syntax notes: [TODO]
 Draft translation: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ψυχη μου εξηλθεν εν λογω αυτου | lemma: ψυχη | λογος | morphology: aorist clause | chosen_rendering: my soul went out at his word | alternate_renderings: my soul went out when he spoke | rationale: Current wording keeps the soul-and-word line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my soul went out at his word | footnote_text: The Greek joins soul and word in a compact line. The current wording keeps that line visible. | source_basis: soul-and-word line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -351068,10 +351110,10 @@ Syntax notes: [TODO]
 Draft translation: My beloved went down into his garden, into bowls of spice, to shepherd in gardens and gather lilies.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ποιμαινειν εν κηποις και συλλεγειν κρινα | lemma: ποιμαινω | κηπος | κρινον | morphology: infinitive clause | chosen_rendering: to shepherd in gardens and gather lilies | alternate_renderings: to pasture in gardens and gather lilies | rationale: Current wording keeps the pastoral-garden line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to shepherd in gardens and gather lilies | footnote_text: The Greek keeps the pastoral garden image direct. The current wording preserves it. | source_basis: pastoral garden line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -381404,10 +381446,10 @@ Syntax notes: [TODO]
 Draft translation: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὗ ἐπικέκληται τὸ ὄνομά μου ἐπʼ αὐτῷ | lemma: ἐπικαλέω | morphology: name-upon formula | chosen_rendering: over which my name has been called | alternate_renderings: over which my name has been invoked | rationale: Current wording keeps the name-upon formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: over which my name has been called | footnote_text: The Greek uses the name-upon formula for the house. The current wording keeps that covenant-identification language explicit. | source_basis: name-upon formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -384718,10 +384760,10 @@ Syntax notes: [TODO]
 Draft translation: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸ ὄνομά σου ἐπικέκληται ἐφʼ ἡμᾶς | lemma: ἐπικαλέω | morphology: name-upon formula | chosen_rendering: your name is called upon us | alternate_renderings: your name has been called upon us | rationale: Current wording keeps the name-upon formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your name is called upon us | footnote_text: The Greek uses the name-upon formula for the people. The current wording keeps that covenant-identification language explicit. | source_basis: name-upon formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -385300,10 +385342,10 @@ Syntax notes: [TODO]
 Draft translation: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικέκληται τὸ ὄνομά σου ἐπʼ ἐμοί | lemma: ἐπικαλέω | morphology: name-upon formula | chosen_rendering: your name is called upon me | alternate_renderings: your name has been called upon me | rationale: Current wording keeps the name-upon formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your name is called upon me | footnote_text: The Greek uses the name-upon formula for Jeremiah himself. The current wording keeps that covenant-identification language explicit. | source_basis: name-upon formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -404158,10 +404200,10 @@ Syntax notes: [TODO]
 Draft translation: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ληνον επατησεν κυριος παρθενω θυγατρι ιουδα | lemma: ληνος | πατεω | morphology: clause | chosen_rendering: Lord trod winepress for virgin daughter Judah | alternate_renderings: the Lord trod the winepress for virgin daughter Judah | rationale: Current wording keeps the winepress image explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord trod winepress for virgin daughter Judah | footnote_text: The Greek uses the winepress image directly. The current wording keeps that image explicit. | source_basis: winepress image | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -404320,10 +404362,10 @@ Syntax notes: [TODO]
 Draft translation: How Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in day of his anger.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κατερριψεν εξ ουρανου εις γην δοξασμα ισραηλ | lemma: καταρριπτω | δοξασμα | morphology: aorist clause | chosen_rendering: He cast down from heaven to earth glory of Israel | alternate_renderings: he cast down glory of Israel from heaven to earth | rationale: Current wording keeps the fall-of-glory line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: He cast down from heaven to earth glory of Israel | footnote_text: The Greek states the fall of Israel's glory directly. The current wording preserves that line. | source_basis: glory-fall line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -404420,10 +404462,10 @@ Syntax notes: [TODO]
 Draft translation: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: επελαθετο κυριος ο εποιησεν εν σιων εορτης και σαββατου | lemma: επιλανθανομαι | εορτη | σαββατον | morphology: aorist clause | chosen_rendering: Lord forgot in Zion feast and sabbath | alternate_renderings: the Lord forgot feast and sabbath in Zion | rationale: Current wording keeps the feast-and-sabbath line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord forgot in Zion feast and sabbath | footnote_text: The Greek joins feast and sabbath in a direct loss formula. The current wording preserves that line. | source_basis: loss formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -404480,10 +404522,10 @@ Syntax notes: [TODO]
 Draft translation: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουκ ειδον ορασιν παρα κυριου | lemma: ορασις | κυριος | morphology: aorist clause | chosen_rendering: her prophets did not see a vision from the Lord | alternate_renderings: her prophets did not see vision from the Lord | rationale: Current wording keeps the vision-from-Lord line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: her prophets did not see a vision from the Lord | footnote_text: The Greek frames the prophetic lack as no vision from the Lord. The current wording keeps that source-row wording. | source_basis: vision formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -405182,10 +405224,10 @@ Syntax notes: [TODO]
 Draft translation: Lord good to those waiting for him, soul that seeks him, good.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αγαθος κυριος τοις υπομενουσιν αυτον | lemma: αγαθος | υπομενω | morphology: predicate clause | chosen_rendering: Lord good to those waiting for him | alternate_renderings: the Lord is good to those waiting for him | rationale: Current wording keeps the waiting-for-Lord line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord good to those waiting for him | footnote_text: The Greek keeps the waiting-for-Lord line compact and direct. The current wording preserves it. | source_basis: waiting-for-Lord line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -405202,10 +405244,10 @@ Syntax notes: [TODO]
 Draft translation: And he waits and is quiet for salvation of Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: και υπομενει και ησυχασει εις το σωτηριον κυριου | lemma: υπομενω | ησυχαζω | σωτηριον | morphology: future clause | chosen_rendering: quiet for salvation of Lord | alternate_renderings: quiet for salvation of the Lord | rationale: Current wording keeps the waiting-for-salvation line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: quiet for salvation of Lord | footnote_text: The Greek ties quiet waiting to salvation of the Lord. The current wording keeps that line explicit. | source_basis: waiting-for-salvation line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -414964,10 +415006,10 @@ Syntax notes: [TODO]
 Draft translation: And soul sinning will die, but son will not bear injustice of his father, nor father bear injustice of his son. Righteousness of righteous one will be upon him, and lawlessness of lawless one will be upon him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἡ ψυχὴ ἡ ἁμαρτάνουσα ἀποθανεῖται | lemma: ψυχή | ἁμαρτάνω | ἀποθνῄσκω | morphology: future clause | chosen_rendering: soul sinning will die | alternate_renderings: the soul that sins will die | rationale: Current wording keeps soul-language explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: soul sinning will die | footnote_text: The Greek speaks of the sinning soul directly. The current wording keeps that soul-language visible. | source_basis: soul-language formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -416268,10 +416310,10 @@ Syntax notes: [TODO]
 Draft translation: And you, house of Israel, thus says Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸ ὄνομά μου τὸ ἅγιον οὐ βεβηλώσετε οὐκέτι | lemma: ὄνομα | ἅγιος | βεβηλόω | morphology: future clause | chosen_rendering: you will no longer profane my holy name | alternate_renderings: you will no more profane my holy name | rationale: Current wording keeps the holy-name warning explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you will no longer profane my holy name | footnote_text: The Greek keeps the holy-name warning direct. The current wording preserves that explicit line. | source_basis: holy-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -429374,10 +429416,10 @@ Syntax notes: [TODO]
 Draft translation: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says Lord God, a young bull from the herd for sin.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εκ του σπερματος σαδδουκ | lemma: σπερμα | σαδδουκ | morphology: prepositional phrase | chosen_rendering: from seed of Zadok | alternate_renderings: from offspring of Zadok | rationale: Current wording keeps the Zadok line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from seed of Zadok | footnote_text: The Greek identifies these priests by Zadokite descent. The current wording keeps that source-row line visible. | source_basis: Zadokite descent | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -429836,10 +429878,10 @@ Syntax notes: [TODO]
 Draft translation: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says Lord God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οι υιοι του σαδδουκ | lemma: υιος | σαδδουκ | morphology: noun phrase | chosen_rendering: sons of Zadok | alternate_renderings: the sons of Zadok | rationale: Current wording keeps the Zadokite designation explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Zadok | footnote_text: The Greek uses the Zadokite designation directly. The current wording preserves it. | source_basis: Zadokite designation | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -430338,10 +430380,10 @@ Syntax notes: [TODO]
 Draft translation: Thus says Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says Lord God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ικανουσθω υμιν οι αφηγουμενοι του ισραηλ | lemma: ικανουσθω | αφηγουμενος | morphology: imperative clause | chosen_rendering: Enough for you rulers of Israel | alternate_renderings: enough for you leaders of Israel | rationale: Current wording keeps the rebuke line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Enough for you rulers of Israel | footnote_text: The Greek opens with a direct rebuke to Israel's rulers. The current wording keeps that line explicit. | source_basis: ruler rebuke | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -434854,10 +434896,10 @@ Syntax notes: [TODO]
 Draft translation: And at completion of the seven years, time of my release came, and my sins and my ignorances were filled up before God of heaven, and I prayed concerning my ignorances to God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve God of heaven, the Holy One, and give glory to the Most High; kingdom of your nation is restored to you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δουλευσον τω θεω του ουρανου τω αγιω | lemma: δουλευω | θεος | ουρανος | morphology: imperative clause | chosen_rendering: serve God of heaven the Holy One | alternate_renderings: serve the God of heaven the Holy One | rationale: Current wording keeps the heavenly-holy confession explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: serve God of heaven the Holy One | footnote_text: The Greek keeps the heavenly-holy confession explicit. The current wording preserves that line. | source_basis: confession formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -439915,13 +439957,13 @@ Greek: διοτι ημερας πολλας καθησονται οι υιοι �
 Transliteration: [TODO]
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without manifestations.
+Draft translation: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ουδε δηλων | lemma: δηλος | morphology: noun phrase | chosen_rendering: without disclosures | alternate_renderings: without revelations | rationale: Current wording now keeps the disclosure-family term consistent with related cultic rows. The draft was revised for that consistency. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: without disclosures | footnote_text: The Greek uses a disclosure-family cultic term here. The current wording now keeps that term consistent with related rows. | source_basis: disclosure-family term | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -439960,10 +440002,10 @@ Syntax notes: [TODO]
 Draft translation: Hear word of Lord, sons of Israel, because Lord has a case against inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἔστιν ἀλήθεια οὐδὲ ἔλεος οὐδὲ ἐπίγνωσις θεοῦ ἐπὶ τῆς γῆς | lemma: ἀλήθεια | ἔλεος | ἐπίγνωσις | morphology: negative clause | chosen_rendering: there is no truth nor mercy nor knowledge of God upon land | alternate_renderings: there is no truth or mercy or knowledge of God in the land | rationale: Current wording keeps the triple indictment explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is no truth nor mercy nor knowledge of God upon land | footnote_text: The Greek stacks truth mercy and knowledge of God in a single indictment. The current wording preserves that three-part line. | source_basis: triple indictment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -440060,10 +440102,10 @@ Syntax notes: [TODO]
 Draft translation: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot law of your God; I also will forget your children.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σὺ ἐπίγνωσιν ἀπώσω κἀγὼ ἀπώσομαί σε | lemma: ἐπίγνωσις | ἀπωθέω | morphology: paired clause | chosen_rendering: you rejected knowledge I also will reject you | alternate_renderings: because you rejected knowledge I also will reject you | rationale: Current wording keeps the rejection parallel explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you rejected knowledge I also will reject you | footnote_text: The Greek uses a tight rejection parallel here. The current wording keeps that mirrored line explicit. | source_basis: rejection parallel | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -440402,10 +440444,10 @@ Syntax notes: [TODO]
 Draft translation: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πνευμα πορνειας εν αυτοις εστιν | lemma: πνευμα | πορνεια | morphology: predicate clause | chosen_rendering: a spirit of whoredom is in them | alternate_renderings: a spirit of prostitution is in them | rationale: Current wording keeps the spirit line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: a spirit of whoredom is in them | footnote_text: The Greek uses a spirit-of-whoredom line directly. The current wording preserves it. | source_basis: spirit line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -440744,10 +440786,10 @@ Syntax notes: [TODO]
 Draft translation: Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἔλεος θέλω καὶ οὐ θυσίαν | lemma: ἔλεος | θυσία | morphology: predicate clause | chosen_rendering: I want mercy and not sacrifice | alternate_renderings: I desire mercy and not sacrifice | rationale: Current wording keeps the mercy-over-sacrifice contrast explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I want mercy and not sacrifice | footnote_text: The Greek states the mercy-over-sacrifice contrast directly. The current wording preserves that formula close to the source-row line. | source_basis: mercy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -442698,10 +442740,10 @@ Syntax notes: [TODO]
 Draft translation: But I am Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from land of Egypt, and besides me you will know no god, and there is no savior except me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σώζων οὐκ ἔστιν πάρεξ ἐμοῦ | lemma: σῴζω | πάρειμι | morphology: predicate clause | chosen_rendering: there is no savior except me | alternate_renderings: there is no one who saves except me | rationale: Current wording keeps the exclusive savior claim explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is no savior except me | footnote_text: The Greek states the exclusive savior claim directly. The current wording keeps that line explicit. | source_basis: exclusive savior formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -443384,10 +443426,10 @@ Syntax notes: [TODO]
 Draft translation: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θυσία καὶ σπονδή | lemma: θυσία | σπονδή | morphology: noun pair | chosen_rendering: sacrifice and drink offering | alternate_renderings: offering and drink offering | rationale: Current wording keeps the offering pair explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sacrifice and drink offering | footnote_text: The Greek keeps the offering pair explicit. The current wording preserves that cultic line. | source_basis: offering pair | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -443786,10 +443828,10 @@ Syntax notes: [TODO]
 Draft translation: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐλεήμων καὶ οἰκτίρμων ... πολυέλεος καὶ μετανοῶν | lemma: ἐλεήμων | οἰκτίρμων | πολυέλεος | μετανοέω | morphology: adjective sequence | chosen_rendering: merciful and compassionate long-suffering and rich in mercy and relenting over calamities | alternate_renderings: merciful and compassionate slow to anger and abundant in mercy | rationale: Current wording keeps the classic mercy formula close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: merciful and compassionate long-suffering and rich in mercy | footnote_text: The Greek preserves the classic mercy formula in full. The current wording keeps that sequence close to the source-row line. | source_basis: mercy formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -443806,10 +443848,10 @@ Syntax notes: [TODO]
 Draft translation: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θυσίαν καὶ σπονδὴν κυρίῳ τῷ θεῷ ἡμῶν | lemma: θυσία | σπονδή | morphology: noun pair | chosen_rendering: sacrifice and drink offering to the Lord our God | alternate_renderings: grain offering and drink offering to the Lord our God | rationale: Current wording stays close to the source-row Greek. The draft keeps the offering pair explicit. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sacrifice and drink offering | footnote_text: The Greek keeps the offering pair explicit here. The current wording stays close to that cultic line. | source_basis: offering pair | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -443986,10 +444028,10 @@ Syntax notes: [TODO]
 Draft translation: And children of Zion, rejoice and be glad in Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἔδωκεν ὑμῖν τὰ βρώματα εἰς δικαιοσύνην | lemma: δίδωμι | βρῶμα | δικαιοσύνη | morphology: aorist clause | chosen_rendering: he gave you foods in righteousness | alternate_renderings: he gave you food in righteousness | rationale: Current wording keeps the righteousness-food line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he gave you foods in righteousness | footnote_text: The Greek ties provision to righteousness in an unusual way. The current wording keeps that source-row line visible. | source_basis: righteousness-provision line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -444046,10 +444088,10 @@ Syntax notes: [TODO]
 Draft translation: And eating you will eat and be filled and praise name of Lord your God, who did wonders with you, and my people will never be put to shame forever.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αἰνέσετε τὸ ὄνομα κυρίου τοῦ θεοῦ ὑμῶν | lemma: αἰνέω | ὄνομα | morphology: verb phrase | chosen_rendering: praise name of Lord your God | alternate_renderings: praise the name of the Lord your God | rationale: Current wording keeps the praise-name formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: praise name of Lord your God | footnote_text: The Greek uses the praise-name formula directly. The current wording preserves that formula close to the source-row line. | source_basis: praise-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -444168,10 +444210,10 @@ Syntax notes: [TODO]
 Draft translation: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται | lemma: ἐπικαλέω | σώζω | morphology: call-on-name formula | chosen_rendering: everyone who calls on name of Lord will be saved | alternate_renderings: everyone who calls on the name of the Lord will be saved | rationale: Current wording keeps the call-on-name formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: everyone who calls on name of Lord will be saved | footnote_text: The Greek uses the active call-on-name formula with salvation language. The current wording keeps that invocation formula explicit. | source_basis: call-on-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -445036,10 +445078,10 @@ Syntax notes: [TODO]
 Draft translation: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οπως βεβηλωσωσιν το ονομα του θεου αυτων | lemma: βεβηλοω | ονομα | morphology: clause | chosen_rendering: to profane name of their God | alternate_renderings: to profane the name of their God | rationale: Current wording keeps the profaning-name line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to profane name of their God | footnote_text: The Greek ties the sexual act to profaning the divine name. The current wording keeps that line explicit. | source_basis: name-profane formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -445358,10 +445400,10 @@ Syntax notes: [TODO]
 Draft translation: Because Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀποκαλύψῃ παιδείαν αὐτοῦ | lemma: ἀποκαλύπτω | παιδεία | morphology: aorist clause | chosen_rendering: reveals his discipline | alternate_renderings: reveals his instruction; reveals his counsel | rationale: Current wording keeps the παιδεία wording explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: reveals his discipline | footnote_text: The Greek says the Lord reveals his παιδεία to his servants the prophets. The current wording keeps that term visible instead of flattening it into generic counsel. | source_basis: lexical choice | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -446082,10 +446124,10 @@ Syntax notes: [TODO]
 Draft translation: We hated evil things and loved good things, and restore judgment in gates, so that Lord God Almighty may show mercy to remnant of Joseph.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀποκαταστήσατε ἐν πύλαις κρίμα | lemma: ἀποκαθίστημι | κρίμα | morphology: imperative clause | chosen_rendering: restore judgment in gates | alternate_renderings: establish judgment in gates | rationale: Current wording keeps the gate-judgment formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: restore judgment in gates | footnote_text: The Greek uses a gate-judgment formula here. The current wording keeps that civic-judicial line explicit. | source_basis: gate-judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447470,10 +447512,10 @@ Syntax notes: [TODO]
 Draft translation: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐφʼ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπʼ αὐτούς | lemma: ἐπικαλέω | morphology: name-upon formula | chosen_rendering: upon whom my name was called upon them | alternate_renderings: upon whom my name has been called | rationale: Current wording keeps the doubled Greek name-upon formula visible. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: upon whom my name was called upon them | footnote_text: The Greek line doubles the name-upon expression in a marked way. The current wording preserves that LXX shape rather than smoothing it out. | source_basis: name-upon formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447554,10 +447596,10 @@ Syntax notes: [TODO]
 Draft translation: Vision of Obadiah. Thus says Lord God to Idumea: I heard a report from Lord, and he sent a message to nations: Rise, and let us rise against her for war.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τάδε λέγει κύριος ὁ θεὸς τῇ Ἰδουμαίᾳ | lemma: κύριος | θεός | morphology: prophetic formula | chosen_rendering: Thus says Lord God to Idumea | alternate_renderings: thus says the Lord God to Idumea | rationale: Current wording keeps the opening prophetic formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Thus says Lord God to Idumea | footnote_text: The Greek opens with a compact prophetic formula. The current wording keeps that line direct. | source_basis: prophetic formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447674,10 +447716,10 @@ Syntax notes: [TODO]
 Draft translation: To your borders they sent you away, all men of your covenant. Your peaceful men opposed you and prevailed against you. They set ambush under you; there is no understanding in them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἄνδρες εἰρηνικοί σου | lemma: ἀνήρ | εἰρηνικός | morphology: noun phrase | chosen_rendering: your peaceful men | alternate_renderings: your men of peace | rationale: Current wording keeps the peace-language line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your peaceful men | footnote_text: The Greek uses peace-language for these supposed allies. The current wording keeps that marked line visible. | source_basis: peace-language irony | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447694,10 +447736,10 @@ Syntax notes: [TODO]
 Draft translation: In that day, says Lord, I will destroy wise men from Idumea and understanding from mount of Esau.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀπολῶ σοφοὺς ἐκ τῆς Ἰδουμαίας | lemma: ἀπόλλυμι | σοφός | morphology: future clause | chosen_rendering: I will destroy wise men from Idumea | alternate_renderings: I will destroy the wise from Idumea | rationale: Current wording keeps the wisdom-judgment line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will destroy wise men from Idumea | footnote_text: The Greek frames judgment as removal of wisdom. The current wording keeps that line explicit. | source_basis: wisdom-judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447834,10 +447876,10 @@ Syntax notes: [TODO]
 Draft translation: Because day of Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐγγὺς ἡμέρα κυρίου ἐπὶ πάντα τὰ ἔθνη | lemma: ἡμέρα | κύριος | morphology: prophetic clause | chosen_rendering: day of Lord is near upon all nations | alternate_renderings: the day of the Lord is near upon all nations | rationale: Current wording keeps the day-of-Lord line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: day of Lord is near upon all nations | footnote_text: The Greek uses a classic day-of-Lord formula here. The current wording preserves that line. | source_basis: day-of-Lord formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447854,10 +447896,10 @@ Syntax notes: [TODO]
 Draft translation: Because as you drank on my holy mountain, all nations will drink wine; they will drink and go down, and they will be as though not existing.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπὶ τὸ ὄρος τὸ ἅγιόν μου | lemma: ὄρος | ἅγιος | morphology: noun phrase | chosen_rendering: my holy mountain | alternate_renderings: my holy hill | rationale: Current wording keeps the holy-mountain line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my holy mountain | footnote_text: The Greek keeps the holy-mountain line direct. The current wording preserves it. | source_basis: holy-mountain formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -447874,10 +447916,10 @@ Syntax notes: [TODO]
 Draft translation: But on mount Zion there will be salvation, and it will be holy, and house of Jacob will inherit those who inherited them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν δὲ τῷ ὄρει Σιων ἔσται ἡ σωτηρία | lemma: ὄρος | σωτηρία | morphology: future clause | chosen_rendering: on mount Zion there will be salvation | alternate_renderings: on Mount Zion there will be deliverance | rationale: Current wording keeps the Zion-salvation line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: on mount Zion there will be salvation | footnote_text: The Greek ties Zion directly to salvation. The current wording keeps that source-row line visible. | source_basis: Zion-salvation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448038,10 +448080,10 @@ Syntax notes: [TODO]
 Draft translation: Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κύριος ἐξήγειρεν πνεῦμα εἰς τὴν θάλασσαν | lemma: ἐξεγείρω | πνεῦμα | morphology: aorist clause | chosen_rendering: Lord stirred up a wind on sea | alternate_renderings: the Lord stirred up a wind on the sea | rationale: Current wording keeps the stirred-wind line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord stirred up a wind on sea | footnote_text: The Greek uses stirred-up language for the wind on the sea. The current wording keeps that vivid line explicit. | source_basis: storm formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448138,10 +448180,10 @@ Syntax notes: [TODO]
 Draft translation: He said to them, I am servant of Lord, and I worship Lord God of heaven, who made sea and dry land.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸν κύριον θεὸν τοῦ οὐρανοῦ ἐγὼ σέβομαι | lemma: κύριος | θεός | σέβομαι | morphology: present clause | chosen_rendering: I worship Lord God of heaven | alternate_renderings: I worship the Lord God of heaven | rationale: Current wording keeps the confession line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I worship Lord God of heaven | footnote_text: The Greek uses a compact confession formula here. The current wording keeps that line direct. | source_basis: confession formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448238,10 +448280,10 @@ Syntax notes: [TODO]
 Draft translation: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μὴ δῷς ἐφʼ ἡμᾶς αἷμα δίκαιον | lemma: δίδωμι | αἷμα | δίκαιος | morphology: prohibitive clause | chosen_rendering: do not put righteous blood on us | alternate_renderings: do not bring righteous blood upon us | rationale: Current wording keeps the blood-guilt plea explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: do not put righteous blood on us | footnote_text: The Greek frames the plea in blood-guilt language. The current wording preserves that explicit line. | source_basis: blood-guilt plea | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448320,10 +448362,10 @@ Syntax notes: [TODO]
 Draft translation: Jonah prayed to Lord his God from belly of sea-creature.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: προσηύξατο Ἰωνᾶς πρὸς κύριον τὸν θεὸν αὐτοῦ | lemma: προσεύχομαι | κύριος | θεός | morphology: aorist clause | chosen_rendering: Jonah prayed to Lord his God from belly of sea-creature | alternate_renderings: Jonah prayed to the Lord his God from the belly of the sea-creature | rationale: Current wording keeps the prayer setting explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Jonah prayed to Lord his God from belly of sea-creature | footnote_text: The Greek keeps both Jonah's prayer and its setting explicit. The current wording stays close to that source-row line. | source_basis: prayer setting formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448440,10 +448482,10 @@ Syntax notes: [TODO]
 Draft translation: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐλθοί πρὸς σὲ ἡ προσευχή μου εἰς ναὸν ἅγιόν σου | lemma: προσευχή | ναός | ἅγιος | morphology: optative clause | chosen_rendering: my prayer come to you into your holy temple | alternate_renderings: may my prayer come to you into your holy temple | rationale: Current wording keeps the prayer-to-temple line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my prayer come to you into your holy temple | footnote_text: The Greek uses a prayer-to-temple line here. The current wording keeps that direct movement toward God explicit. | source_basis: prayer-to-temple formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -448480,10 +448522,10 @@ Syntax notes: [TODO]
 Draft translation: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: σωτηρίου τῷ κυρίῳ | lemma: σωτήριος | κύριος | morphology: confessional phrase | chosen_rendering: salvation belongs to the Lord | alternate_renderings: salvation to the Lord | rationale: Current wording preserves the confessional salvation line in natural English. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: salvation belongs to the Lord | footnote_text: The Greek ends with a compact salvation confession. The current wording preserves it in natural English. | source_basis: salvation confession | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -449672,10 +449714,10 @@ Syntax notes: [TODO]
 Draft translation: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν πνεύματι κυρίου | lemma: πνεῦμα | κύριος | morphology: prepositional phrase | chosen_rendering: by the Spirit of the Lord | alternate_renderings: in the Spirit of the Lord | rationale: Current wording keeps the Spirit-of-the-Lord formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by the Spirit of the Lord | footnote_text: The Greek uses the Spirit-of-the-Lord formula explicitly. The current wording keeps that prophetic empowerment language visible. | source_basis: Spirit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -449794,10 +449836,10 @@ Syntax notes: [TODO]
 Draft translation: And many nations will go and say, Come, let us go up to mountain of Lord and to house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and word of Lord from Jerusalem.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐκ Σιων ἐξελεύσεται νόμος καὶ λόγος κυρίου ἐξ Ἰερουσαλήμ | lemma: νόμος | λόγος | morphology: parallel clause | chosen_rendering: law will go out from Zion and word of Lord from Jerusalem | alternate_renderings: teaching will go out from Zion and word of the Lord from Jerusalem | rationale: Current wording keeps the Zion-Jerusalem parallel explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: law will go out from Zion and word of Lord from Jerusalem | footnote_text: The Greek keeps the Zion-Jerusalem parallel in full. The current wording preserves both halves of that line. | source_basis: Zion formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -450458,10 +450500,10 @@ Syntax notes: [TODO]
 Draft translation: Will Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, fruit of my womb for sin of my soul?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καρπον κοιλιας μου υπερ αμαρτιας ψυχης μου | lemma: καρπος | κοιλια | ψυχη | morphology: noun clause | chosen_rendering: fruit of my womb for sin of my soul | alternate_renderings: fruit of my womb for sin of my life | rationale: Current wording keeps the womb-and-soul line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: fruit of my womb for sin of my soul | footnote_text: The Greek keeps both womb and soul explicit in the sacrifice question. The current wording preserves that source-row line. | source_basis: womb-and-soul line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -450780,10 +450822,10 @@ Syntax notes: [TODO]
 Draft translation: But I will look to Lord; I will wait for God my savior; my God will hear me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῷ θεῷ τῷ σωτῆρί μου | lemma: θεός | σωτήρ | morphology: dative phrase | chosen_rendering: in God my savior | alternate_renderings: in God my deliverer | rationale: Current wording keeps the personal savior formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God my savior | footnote_text: The Greek uses a direct personal savior formula here. The current wording keeps that wording explicit. | source_basis: savior formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451084,10 +451126,10 @@ Syntax notes: [TODO]
 Draft translation: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: θεὸς ζηλωτὴς καὶ ἐκδικῶν | lemma: θεός | ζηλωτής | ἐκδικέω | morphology: predicate clause | chosen_rendering: God is jealous and avenging | alternate_renderings: God is jealous and avenges | rationale: Current wording keeps the opening divine-title line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God is jealous and avenging | footnote_text: The Greek opens with a compact divine-title formula. The current wording preserves that line. | source_basis: divine-title formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451104,10 +451146,10 @@ Syntax notes: [TODO]
 Draft translation: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αθωων ουκ αθωωσει κυριος | lemma: αθωος | κυριος | morphology: future clause | chosen_rendering: acquitting he will not acquit | alternate_renderings: though acquitting he will not acquit | rationale: Current wording keeps the judgment formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: acquitting he will not acquit | footnote_text: The Greek uses a compact judgment formula here. The current wording keeps that marked line visible. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451184,10 +451226,10 @@ Syntax notes: [TODO]
 Draft translation: Lord good to those waiting for him in day of distress, and knowing those revering him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: χρηστὸς κύριος τοῖς ὑπομένουσιν αὐτὸν ἐν ἡμέρᾳ θλίψεως | lemma: χρηστός | ὑπομένω | θλῖψις | morphology: predicate clause | chosen_rendering: Lord good to those waiting for him in day of distress | alternate_renderings: the Lord is good to those waiting for him in day of distress | rationale: Current wording keeps the refuge formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord good to those waiting for him in day of distress | footnote_text: The Greek keeps the refuge line direct. The current wording preserves that day-of-distress assurance. | source_basis: refuge formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451224,10 +451266,10 @@ Syntax notes: [TODO]
 Draft translation: What do you plot against Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἐκδικήσει δὶς ἐπὶ τὸ αὐτὸ ἐν θλίψει | lemma: ἐκδικέω | θλῖψις | morphology: future clause | chosen_rendering: he will not take vengeance twice upon same thing in distress | alternate_renderings: he will not take vengeance twice on the same thing in distress | rationale: Current wording keeps the one-stroke judgment line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he will not take vengeance twice upon same thing in distress | footnote_text: The Greek uses a one-stroke judgment line here. The current wording keeps that unusual wording visible. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451324,10 +451366,10 @@ Syntax notes: [TODO]
 Draft translation: And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐ σπαρήσεται ἐκ τοῦ ὀνόματός σου ἔτι | lemma: σπείρω | ὄνομα | morphology: future clause | chosen_rendering: your name will no longer be sown | alternate_renderings: your name will no longer be sown again | rationale: Current wording keeps the seed-name judgment line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: your name will no longer be sown | footnote_text: The Greek uses seed language for the end of the name. The current wording keeps that judgment image explicit. | source_basis: seed-name judgment | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -451708,10 +451750,10 @@ Syntax notes: [TODO]
 Draft translation: Behold, I am against you, says Lord God Almighty, and I will uncover your backside to your face and show nations your shame and kingdoms your dishonor.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ιδου εγω επι σε λεγει κυριος ο θεος ο παντοκρατωρ | lemma: ιδου | επι | παντοκρατωρ | morphology: predicate clause | chosen_rendering: I am against you says Lord God Almighty | alternate_renderings: behold I am against you says Lord God Almighty | rationale: Current wording keeps the threat formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am against you says Lord God Almighty | footnote_text: The Greek opens with a threat formula. The current wording preserves that direct line. | source_basis: threat formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -452032,10 +452074,10 @@ Syntax notes: [TODO]
 Draft translation: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἕως τίνος κύριε κεκράξομαι καὶ οὐ μὴ εἰσακούσῃς | lemma: κράζω | εἰσακούω | morphology: question clause | chosen_rendering: How long Lord will I cry out and you not hear | alternate_renderings: how long O Lord will I cry out and you not hear | rationale: Current wording keeps the lament question explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: How long Lord will I cry out and you not hear | footnote_text: The Greek uses the direct lament question. The current wording keeps that line explicit. | source_basis: lament formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -452232,10 +452274,10 @@ Syntax notes: [TODO]
 Draft translation: Are you not from the beginning, Lord my God, my Holy One? And surely we shall not die. Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: κύριε ὁ θεός ὁ ἅγιός μου | lemma: κύριος | θεός | ἅγιος | morphology: vocative clause | chosen_rendering: Lord my God my Holy One | alternate_renderings: Lord my God my Holy One | rationale: Current wording keeps the vocative confession explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord my God my Holy One | footnote_text: The Greek stacks the vocatives tightly. The current wording keeps that confession close to the source-row line. | source_basis: vocative confession | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -452614,10 +452656,10 @@ Syntax notes: [TODO]
 Draft translation: Because earth will be filled to know glory of Lord as water will cover them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πλησθήσεται ἡ γῆ τοῦ γνῶναι τὴν δόξαν κυρίου | lemma: πίμπλημι | γινώσκω | δόξα | morphology: future clause | chosen_rendering: earth will be filled to know glory of Lord | alternate_renderings: earth will be filled with knowledge of the glory of the Lord | rationale: Current wording keeps the to-know construction close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: earth will be filled to know glory of Lord | footnote_text: The Greek uses a to-know construction here. The current wording stays close to that source-row line instead of recasting it more abstractly. | source_basis: syntax + glory formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -452776,10 +452818,10 @@ Syntax notes: [TODO]
 Draft translation: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν μέσῳ δύο ζῴων γνωσθήσῃ | lemma: μέσος | δύο | ζῷον | morphology: future clause | chosen_rendering: you will be known between the two living creatures | alternate_renderings: you will be made known between two living creatures | rationale: Current wording keeps the difficult source-row line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you will be known between the two living creatures | footnote_text: The Greek line here is difficult and compact. The current wording stays close to that source-row wording rather than smoothing it away. | source_basis: difficult source-row line | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453096,10 +453138,10 @@ Syntax notes: [TODO]
 Draft translation: But I will exult in Lord; I will rejoice in God my savior.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῷ θεῷ τῷ σωτῆρί μου | lemma: θεός | σωτήρ | morphology: dative phrase | chosen_rendering: in God my savior | alternate_renderings: in God my deliverer | rationale: Current wording keeps the personal savior formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God my savior | footnote_text: The Greek uses a direct personal savior formula here. The current wording keeps that wording explicit. | source_basis: savior formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453260,10 +453302,10 @@ Syntax notes: [TODO]
 Draft translation: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἡγίακεν τοὺς κλητοὺς αὐτοῦ | lemma: ἁγιάζω | κλητός | morphology: perfect clause | chosen_rendering: he consecrated his called ones | alternate_renderings: he has consecrated his called ones | rationale: Current wording keeps the sacrifice-preparation line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he consecrated his called ones | footnote_text: The Greek links the sacrifice with consecrated called ones. The current wording keeps that line visible. | source_basis: sacrifice-preparation formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453280,10 +453322,10 @@ Syntax notes: [TODO]
 Draft translation: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν ἡμέρᾳ θυσίας κυρίου | lemma: ἡμέρα | θυσία | κύριος | morphology: prepositional phrase | chosen_rendering: day of the Lord's sacrifice | alternate_renderings: day of sacrifice of the Lord | rationale: Current wording keeps the day-of-sacrifice formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: day of the Lord's sacrifice | footnote_text: The Greek uses a compact day-of-sacrifice formula. The current wording preserves that line. | source_basis: day-of-sacrifice formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453542,10 +453584,10 @@ Syntax notes: [TODO]
 Draft translation: Seek Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in day of Lord's wrath.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ζητήσατε δικαιοσύνην ζητήσατε πραΰτητα | lemma: ζητέω | δικαιοσύνη | πραΰτης | morphology: imperative clause | chosen_rendering: seek righteousness seek humility | alternate_renderings: seek righteousness seek gentleness | rationale: Current wording keeps the paired summons explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: seek righteousness seek humility | footnote_text: The Greek repeats seek with paired virtues. The current wording keeps that summons direct. | source_basis: paired summons | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453864,10 +453906,10 @@ Syntax notes: [TODO]
 Draft translation: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οἱ προφῆται αὐτῆς πνευματοφόροι ἄνδρες | lemma: πνευματοφόρος | προφήτης | morphology: predicate clause | chosen_rendering: her prophets are spirit-borne men | alternate_renderings: her prophets are spirit-bearing men | rationale: Current wording keeps the unusual prophet-description explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: her prophets are spirit-borne men | footnote_text: The Greek uses an unusual descriptor for the prophets here. The current wording keeps that marked wording visible. | source_basis: prophet descriptor | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -453884,10 +453926,10 @@ Syntax notes: [TODO]
 Draft translation: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: πρωῒ πρωῒ δώσει κρίμα αὐτοῦ εἰς φῶς | lemma: πρωΐ | κρίμα | φῶς | morphology: future clause | chosen_rendering: morning by morning he gives his judgment to the light | alternate_renderings: morning by morning he brings his judgment to light | rationale: Current wording keeps the dawn-judgment line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: morning by morning he gives his judgment to the light | footnote_text: The Greek ties judgment to morning light. The current wording keeps that dawn-judgment line explicit. | source_basis: dawn-judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -454124,10 +454166,10 @@ Syntax notes: [TODO]
 Draft translation: Lord your God in you, mighty, will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καινιεῖ σε ἐν τῇ ἀγαπήσει αὐτοῦ | lemma: καινίζω | ἀγάπη | morphology: future clause | chosen_rendering: renew you in his love | alternate_renderings: renew you by his love | rationale: Current wording keeps the renewal-in-love line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: renew you in his love | footnote_text: The Greek uses renewal language with love. The current wording keeps that source-row line visible. | source_basis: renewal-in-love formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -454208,10 +454250,10 @@ Syntax notes: [TODO]
 Draft translation: In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Salathiel from tribe of Judah, and to Jeshua son of Josedek, the great priest, saying,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐγένετο λόγος κυρίου ἐν χειρὶ Ἀγγαίου τοῦ προφήτου | lemma: λόγος | κύριος | προφήτης | morphology: aorist clause | chosen_rendering: word of Lord came by hand of Haggai prophet | alternate_renderings: the word of the Lord came by hand of Haggai the prophet | rationale: Current wording keeps the prophetic transmission formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: word of Lord came by hand of Haggai prophet | footnote_text: The Greek uses a prophetic transmission formula here. The current wording keeps that by-hand line explicit. | source_basis: prophetic transmission formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -454428,10 +454470,10 @@ Syntax notes: [TODO]
 Draft translation: Zerubbabel son of Salathiel, from tribe of Judah, and Jeshua son of Josedek, the great priest, and all remnant of people, listened to voice of Lord their God and to words of Haggai prophet, because Lord their God sent him to them, and people feared before Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐφοβήθη ὁ λαὸς ἀπὸ προσώπου κυρίου | lemma: φοβέω | πρόσωπον | morphology: aorist clause | chosen_rendering: people feared before Lord | alternate_renderings: the people feared before the Lord | rationale: Current wording keeps the before-the-Lord response explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: people feared before Lord | footnote_text: The Greek says the people feared before the Lord. The current wording preserves that direct response line. | source_basis: fear-before-Lord formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -454448,10 +454490,10 @@ Syntax notes: [TODO]
 Draft translation: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ ἄγγελος κυρίου | lemma: ἄγγελος | κύριος | morphology: noun phrase | chosen_rendering: messenger of the Lord | alternate_renderings: angel of the Lord | rationale: Current wording fits the human prophetic office context. The draft keeps messenger rather than importing an angelic reading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: messenger of the Lord | footnote_text: The Greek uses angelos here for Haggai in his prophetic office. The current wording keeps messenger because the context is human and ministerial. | source_basis: human office + messenger language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -454570,10 +454612,10 @@ Syntax notes: [TODO]
 Draft translation: But now be strong, Zerubbabel, says Lord, and be strong, Jeshua son of Josedek, the great priest, and let all people of land be strong, says Lord, and act, because I am with you, says Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μεθʼ ὑμῶν ἐγώ εἰμι λέγει κύριος παντοκράτωρ | lemma: μετά | εἰμί | παντοκράτωρ | morphology: present clause | chosen_rendering: I am with you says Lord Almighty | alternate_renderings: I am with you says the Lord Almighty | rationale: Current wording keeps the assurance formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I am with you says Lord Almighty | footnote_text: The Greek uses a direct assurance formula here. The current wording preserves that line. | source_basis: assurance formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -455960,10 +456002,10 @@ Syntax notes: [TODO]
 Draft translation: And he answered and said to me: This is word of Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀλλʼ ἢ ἐν πνεύματί μου | lemma: πνεῦμα | morphology: prepositional phrase | chosen_rendering: but by my Spirit | alternate_renderings: but in my Spirit | rationale: Current wording keeps the divine-Spirit contrast explicit against power and might. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: but by my Spirit | footnote_text: The Greek contrasts divine Spirit with power and might. The current wording keeps that contrast explicit. | source_basis: Spirit formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -456886,10 +456928,10 @@ Syntax notes: [TODO]
 Draft translation: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν πνεύματι αὐτοῦ ἐν χερσὶν τῶν προφητῶν | lemma: πνεῦμα | προφήτης | morphology: prepositional phrase | chosen_rendering: by his Spirit through the former prophets | alternate_renderings: by his Spirit in the hands of the former prophets | rationale: Current wording keeps both Spirit and prophetic mediation explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: by his Spirit through the former prophets | footnote_text: The Greek explicitly joins divine Spirit with prophetic mediation. The current wording keeps both parts visible. | source_basis: Spirit + prophets formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -458778,10 +458820,10 @@ Syntax notes: [TODO]
 Draft translation: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐπικαλέσεται τὸ ὄνομά μου | lemma: ἐπικαλέω | morphology: call-on-name formula | chosen_rendering: he will call on my name | alternate_renderings: he will invoke my name | rationale: Current wording keeps the call-on-name formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he will call on my name | footnote_text: The Greek uses the active call-on-name formula here. The current wording keeps that invocation language explicit. | source_basis: call-on-name formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -458880,10 +458922,10 @@ Syntax notes: [TODO]
 Draft translation: And ravine of my mountains will be blocked up, and ravine of mountains will cling together as far as Iasol, and it will be blocked as it was blocked in days of earthquake in days of Uzziah king of Judah, and Lord my God will come and all holy ones with him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ηξει κυριος ο θεος μου και παντες οι αγιοι μετ' αυτου | lemma: ηκω | αγιος | morphology: future clause | chosen_rendering: Lord my God will come and all holy ones with him | alternate_renderings: the Lord my God will come and all the holy ones with him | rationale: Current wording keeps the advent line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Lord my God will come and all holy ones with him | footnote_text: The Greek keeps the advent line direct. The current wording preserves both divine coming and holy companions. | source_basis: advent formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459324,10 +459366,10 @@ Syntax notes: [TODO]
 Draft translation: A son honors father and a servant his master. If I am father, where is my honor? And if I am Lord, where is my fear? says Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ποῦ ἐστιν ἡ δόξα μου ... ποῦ ἐστιν ὁ φόβος μου | lemma: δόξα | φόβος | morphology: paired question clause | chosen_rendering: where is my honor and where is my fear | alternate_renderings: where is my honor and where is my reverence | rationale: Current wording keeps the father-master parallel explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: where is my honor and where is my fear | footnote_text: The Greek keeps the father-master parallel explicit. The current wording preserves both honor and fear in the rebuke. | source_basis: father-master formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459484,10 +459526,10 @@ Syntax notes: [TODO]
 Draft translation: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸ ὄνομά μου ἐπιφανὲς ἐν τοῖς ἔθνεσιν | lemma: ὄνομα | ἐπιφανής | morphology: predicate clause | chosen_rendering: my name is manifest among nations | alternate_renderings: my name is renowned among nations | rationale: Current wording keeps the manifest-name line explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my name is manifest among nations | footnote_text: The Greek describes the divine name as manifest among the nations. The current wording keeps that source-row wording visible. | source_basis: name-among-nations formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459606,10 +459648,10 @@ Syntax notes: [TODO]
 Draft translation: Law of truth was in his mouth, and injustice was not found on his lips. In peace he walked straight with me and turned many from injustice.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ | lemma: νόμος | ἀλήθεια | morphology: predicate clause | chosen_rendering: Law of truth was in his mouth | alternate_renderings: true law was in his mouth | rationale: Current wording keeps the law-of-truth phrase explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Law of truth was in his mouth | footnote_text: The Greek uses the phrase law of truth directly. The current wording preserves that phrase. | source_basis: law-of-truth formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459626,10 +459668,10 @@ Syntax notes: [TODO]
 Draft translation: Because lips of priest will guard knowledge, and law they will seek from his mouth, because he is messenger of Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἄγγελος κυρίου παντοκράτορος | lemma: ἄγγελος | κύριος | morphology: noun phrase | chosen_rendering: messenger of Lord Almighty | alternate_renderings: angel of Lord Almighty | rationale: Current wording fits a human priestly office context. The draft keeps messenger rather than importing an angelic reading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: messenger of Lord Almighty | footnote_text: The Greek uses angelos here for a priest in his teaching office. The current wording keeps messenger because the context is human and ministerial. | source_basis: human office + messenger language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459686,10 +459728,10 @@ Syntax notes: [TODO]
 Draft translation: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane covenant of your fathers?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐχὶ θεὸς εἷς ἔκτισεν ὑμᾶς | lemma: θεός | κτίζω | morphology: question clause | chosen_rendering: Did not one God create you | alternate_renderings: did not one God create us | rationale: Current wording keeps the creation appeal explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Did not one God create you | footnote_text: The Greek opens with a creation appeal tied to covenant faithlessness. The current wording keeps that line direct. | source_basis: creation appeal | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -459928,10 +459970,10 @@ Syntax notes: [TODO]
 Draft translation: And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says Lord Almighty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἔσομαι μάρτυς ταχύς | lemma: μάρτυς | ταχύς | morphology: future predicate clause | chosen_rendering: I will be swift witness | alternate_renderings: I will be a swift witness | rationale: Current wording keeps the judgment formula explicit. The draft stays close to the source-row Greek. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I will be swift witness | footnote_text: The Greek uses a compact judgment formula here. The current wording keeps that line explicit. | source_basis: judgment formula | status: reviewed
 
 Logos research:
 - [TODO add Logos note]

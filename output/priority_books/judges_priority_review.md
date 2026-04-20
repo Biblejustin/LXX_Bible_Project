@@ -33,7 +33,7 @@ Selected verses: 6
 - brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
 
 ## Judges 21:4
-- score: 10
-- reasons: importance=low; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - fresh: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
 - brenton: And it came to pass on the morrow that the people rose up early, and built there an altar, and offered up whole-burnt-offerings and peace-offerings.

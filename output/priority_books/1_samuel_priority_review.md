@@ -2,6 +2,12 @@
 
 Selected verses: 6
 
+## 1 Samuel 1:10
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul, spirit; crossref_top_vote=13; reco=keep
+- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
+- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
+
 ## 1 Samuel 2:10
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, judgment, justice, lord, righteousness; crossref_top_vote=9; eng_reco=keep; reco=keep
@@ -25,12 +31,6 @@ Selected verses: 6
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, peace, seed; crossref_top_vote=5; eng_reco=keep; reco=keep
 - fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 - brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
-
-## 1 Samuel 23:16
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=205; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And Iōnathan son of Saoul rose and went to David into the New Place and strengthened his hands in the Lord.
-- brenton: And Jonathan son of Saul rose, and went to David to Cæne, and strengthened his hands in the Lord.
 
 ## 1 Samuel 30:6
 - score: 18

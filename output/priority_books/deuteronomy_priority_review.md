@@ -2,21 +2,21 @@
 
 Selected verses: 6
 
+## Deuteronomy 2:7
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=15; reco=keep
+- fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
+- brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
+
 ## Deuteronomy 2:30
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8; eng_reco=keep; reco=keep
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
-## Deuteronomy 5:11
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; crossref_top_vote=38; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain.
-- brenton: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy God will certainly not acquit him that takes his name in vain.
-
 ## Deuteronomy 12:11
-- score: 17
-- reasons: importance=medium; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 24
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 - brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
 
@@ -27,8 +27,8 @@ Selected verses: 6
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
 
 ## Deuteronomy 12:26
-- score: 17
-- reasons: importance=low; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 25
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=4; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
 - brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
 

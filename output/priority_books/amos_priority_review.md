@@ -3,14 +3,14 @@
 Selected verses: 6
 
 ## Amos 2:7
-- score: 10
-- reasons: importance=medium; keywords=god, name, servant; crossref_top_vote=5
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, name, servant; crossref_top_vote=5; reco=keep
 - fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
 - brenton: [missing]
 
 ## Amos 3:7
-- score: 9
-- reasons: importance=low; keywords=god, lord; crossref_top_vote=66
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=66; reco=keep
 - fresh: Because Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
 - brenton: [missing]
 
@@ -21,8 +21,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 5:15
-- score: 11
-- reasons: importance=low; keywords=god, judgment, lord, mercy; crossref_top_vote=11
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, mercy; crossref_top_vote=11; reco=keep
 - fresh: We hated evil things and loved good things, and restore judgment in gates, so that Lord God Almighty may show mercy to remnant of Joseph.
 - brenton: [missing]
 
@@ -33,7 +33,7 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Amos 9:12
-- score: 15
-- reasons: importance=low; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 23
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
 - brenton: [missing]

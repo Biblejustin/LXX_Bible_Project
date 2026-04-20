@@ -3,8 +3,8 @@
 Selected verses: 6
 
 ## Isaiah 9:6
-- score: 19
-- reasons: footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177; eng_reco=keep; reco=keep
+- score: 24
+- reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177; eng_reco=keep; reco=keep
 - fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
 - brenton: [missing]
 

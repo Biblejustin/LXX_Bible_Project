@@ -21,8 +21,8 @@ Selected verses: 6
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
 ## Nehemiah 9:5
-- score: 11
-- reasons: importance=low; keywords=glory, god, lord, name; crossref_top_vote=5
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, name; crossref_top_vote=5; reco=keep
 - fresh: And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
 - brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
 

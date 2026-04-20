@@ -2,23 +2,11 @@
 
 Selected verses: 6
 
-## Genesis 1:1
-- score: 19
-- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=god; crossref_top_vote=361; eng_reco=keep; reco=keep
-- fresh: At the beginning, God made heaven and earth.
-- brenton: In the beginning God made the heaven and the earth.
-
 ## Genesis 1:2
 - score: 21
 - reasons: decisions=4; footnotes=1; reviewed_decisions=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; eng_reco=keep; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering; reco=keep
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
-
-## Genesis 1:5
-- score: 19
-- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=day one, god; crossref_top_vote=26; eng_reco=keep; reco=keep
-- fresh: And God called the light Day, and the darkness he called Night. And evening came, and morning came: day one.
-- brenton: And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.
 
 ## Genesis 1:26
 - score: 20
@@ -32,8 +20,20 @@ Selected verses: 6
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## Genesis 18:19
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=18; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him.
-- brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
+## Genesis 24:40
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=angel, god, lord; crossref_top_vote=10; reco=keep
+- fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
+- brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
+
+## Genesis 32:2
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, name; crossref_top_vote=5; reco=keep
+- fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
+- brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
+
+## Genesis 32:30
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, name; crossref_top_vote=6; reco=keep
+- fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
+- brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.

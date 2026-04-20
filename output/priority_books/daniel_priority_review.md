@@ -9,20 +9,20 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Daniel 4:22
-- score: 12
-- reasons: reviewed_decisions=1; importance=medium; keywords=being, god, holy, king; crossref_top_vote=4; eng_reco=keep; reco=keep
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, holy, king; crossref_top_vote=4; eng_reco=keep; reco=keep
 - fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on face of whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste house of living God because of sins of his consecrated people.
 - brenton: [missing]
 
 ## Daniel 4:33
-- score: 12
-- reasons: reviewed_decisions=1; importance=medium; keywords=god, king, lord, soul; crossref_top_vote=3; eng_reco=keep; reco=keep
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, soul; crossref_top_vote=3; eng_reco=keep; reco=keep
 - fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before Lord God of heaven, and concerning my ignorances I prayed to God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
 - brenton: [missing]
 
 ## Daniel 4:34
-- score: 11
-- reasons: importance=low; keywords=angel, glory, god, holy; crossref_top_vote=9
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, glory, god, holy; crossref_top_vote=9; reco=keep
 - fresh: And at completion of the seven years, time of my release came, and my sins and my ignorances were filled up before God of heaven, and I prayed concerning my ignorances to God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve God of heaven, the Holy One, and give glory to the Most High; kingdom of your nation is restored to you.
 - brenton: [missing]
 

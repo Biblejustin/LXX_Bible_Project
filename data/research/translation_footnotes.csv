@@ -130,7 +130,7 @@ Exodus 16:35,translation,region of Phoenicia,"The Greek text here reads Phoenici
 Exodus 16:36,translation,tenth part of three measures,Greek closes with a direct explanatory note about the gomor measure. This draft leaves the measure note in its explicit form.,lexical + measurement,drafted
 Exodus 17:2,translation,reviled Moses,"Greek uses insult or abuse language here, not merely disagreement. This draft keeps the sharper edge of the complaint.",lexical + rhetoric,drafted
 Exodus 17:7,translation,Testing and Reviling,The place-name explanation preserves both actions: testing the Lord and reviling in the dispute. This draft keeps both nouns visible.,lexical + narrative,drafted
-Exodus 17:9,translation,draw up in battle array,Greek uses military formation language here. This draft keeps the battle-array sense rather than a generic fight command.,lexical + military context,drafted
+Exodus 17:9,translation,draw up in battle array,Greek uses military formation language here. Current wording keeps battle-array sense rather than generic fight command.,lexical + military context,reviewed
 Exodus 17:14,translation,in wiping out I will wipe out,Greek doubles the wipe-out language for emphasis. This draft preserves the force of that repetition.,lexical + rhetoric,drafted
 Exodus 17:16,translation,with hidden hand,Greek here has a difficult hidden-hand expression. This draft keeps the wording visible instead of smoothing it into a more familiar formula.,lexical + textual,drafted
 Exodus 18:2,translation,after her sending away,Greek uses dismissal or release language here. This draft keeps that wording visible without forcing a narrower explanation.,lexical + narrative,drafted
@@ -340,7 +340,7 @@ Genesis 32:28,translation,strong with God,The Greek verb speaks in terms of stre
 Genesis 32:30,translation,Form of God,"The Greek says eidos, a term for form or appearance. This draft keeps that wording visible instead of harmonizing it automatically to face.",lexical nuance,drafted
 Genesis 33:11,translation,my blessings,The Greek uses blessings in the plural for Jacob's offering to Esau. This draft keeps that wording explicit.,morphology + gift language,drafted
 Genesis 34:7,translation,a shameful thing in Israel,The Greek uses a communal formula of disgrace in Israel. This draft keeps that formula visible.,formula language,drafted
-Genesis 35:11,translation,gatherings of nations,The Greek repeats the same gatherings-of-nations wording used earlier in the Jacob cycle.,recurring covenant phrase,drafted
+Genesis 35:11,translation,gatherings of nations,Greek keeps the gatherings-of-nations phrase here rather than flattening it into a generic many-nations line. Current wording preserves that covenant formula.,recurring covenant phrase,reviewed
 Genesis 35:18,translation,Son of my pain,Rachel's death-name is kept literally here before the father renames the child Benjamin.,name speech,drafted
 Genesis 36:31,translation,before a king reigned in Israel,The Greek explicitly marks the Edomite king list as earlier than kingship in Israel.,historical note,drafted
 Genesis 37:2,translation,generations of Jacob,The Greek keeps the recurring Genesis heading formula here. This draft preserves it instead of reducing it to a simple narrative transition.,book structure formula,drafted
@@ -597,3 +597,704 @@ Psalms 24:1,translation,to you Lord I lifted my soul,"LXX psalm numbering differ
 1 Chronicles 6:34,translation,to make atonement for Israel,"The Greek line stresses both cultic service and atonement. The current wording keeps the LXX cultic formulation explicit.",cultic line,reviewed
 Daniel 4:22,translation,against the Holy One and his angels,"Greek Daniel here is longer than the familiar English form. The current wording keeps the expanded source-row line explicit.",Greek Daniel expansion,reviewed
 Daniel 4:33,translation,I gave my soul to prayer,"Greek Daniel here is longer than the familiar English form. The current wording keeps the long first-person expansion rather than collapsing it into the shorter tradition.",Greek Daniel expansion,reviewed
+Deuteronomy 12:11,translation,for his name to be called there,"The Greek uses the established name-there formula here. The current wording keeps that formula consistent.",name-there formula,reviewed
+Deuteronomy 12:26,translation,for his name to be called there,"The Greek uses the established name-there formula here too. The current wording keeps that formula consistent.",name-there formula,reviewed
+2 Chronicles 7:14,translation,upon whom my name has been called,"The Greek uses the name-upon formula for the people here. The current wording keeps that relation explicit.",name-upon formula,reviewed
+Amos 9:12,translation,upon whom my name was called upon them,"The Greek line doubles the name-upon expression in a marked way. The current wording preserves that LXX shape rather than smoothing it out.",name-upon formula,reviewed
+Jeremiah 15:16,translation,your name is called upon me,"The Greek uses the name-upon formula for Jeremiah himself. The current wording keeps that covenant-identification language explicit.",name-upon formula,reviewed
+Joshua 22:29,translation,the sacrifice of salvation,"The Greek keeps salvation-shaped sacrificial wording here. The current wording preserves that cultic line rather than harmonizing to peace-offering tradition.",soteria sacrifice formula,reviewed
+Zechariah 13:9,translation,he will call on my name,"The Greek uses the active call-on-name formula here. The current wording keeps that invocation language explicit.",call-on-name formula,reviewed
+Jeremiah 14:9,translation,your name is called upon us,"The Greek uses the name-upon formula for the people. The current wording keeps that covenant-identification language explicit.",name-upon formula,reviewed
+Joshua 22:23,translation,a sacrifice of salvation,"The Greek keeps salvation-shaped sacrificial wording here. The current wording preserves that cultic line rather than harmonizing to peace-offering tradition.",soteria sacrifice formula,reviewed
+2 Chronicles 6:20,translation,your name would be called there,"The Greek uses the established name-there formula here. The current wording keeps that formula consistent.",name-there formula,reviewed
+Jeremiah 7:11,translation,over which my name has been called,"The Greek uses the name-upon formula for the house. The current wording keeps that covenant-identification language explicit.",name-upon formula,reviewed
+Judges 21:4,translation,whole burnt offerings of salvation,"The Greek keeps salvation-shaped sacrificial wording even in this narrative setting. The current wording preserves that cultic line.",soteria sacrifice formula,reviewed
+Joel 3:5,translation,everyone who calls on name of Lord will be saved,"The Greek uses the active call-on-name formula with salvation language. The current wording keeps that invocation formula explicit.",call-on-name formula,reviewed
+Jonah 2:10,translation,salvation belongs to the Lord,"The Greek ends with a compact salvation confession. The current wording preserves it in natural English.",salvation confession,reviewed
+2 Chronicles 12:13,translation,to have his name called there,"The Greek uses the established name-there formula here. The current wording keeps that formula consistent.",name-there formula,reviewed
+2 Kings 1:3,translation,angel of the Lord,"In this prophetic encounter the Greek says angel of the Lord. The current wording follows the project rule for overt divine-encounter scenes.",angel language + theophany,reviewed
+Malachi 2:7,translation,messenger of Lord Almighty,"The Greek uses angelos here for a priest in his teaching office. The current wording keeps messenger because the context is human and ministerial.",human office + messenger language,reviewed
+Haggai 1:13,translation,messenger of the Lord,"The Greek uses angelos here for Haggai in his prophetic office. The current wording keeps messenger because the context is human and ministerial.",human office + messenger language,reviewed
+Habakkuk 3:18,translation,God my savior,"The Greek uses a direct personal savior formula here. The current wording keeps that wording explicit.",savior formula,reviewed
+Micah 7:7,translation,God my savior,"The Greek uses a direct personal savior formula here. The current wording keeps that wording explicit.",savior formula,reviewed
+Joel 2:13,translation,merciful and compassionate long-suffering and rich in mercy,"The Greek preserves the classic mercy formula in full. The current wording keeps that sequence close to the source-row line.",mercy formula,reviewed
+Joel 2:14,translation,sacrifice and drink offering,"The Greek keeps the offering pair explicit here. The current wording stays close to that cultic line.",offering pair,reviewed
+Ruth 2:20,translation,he did not forsake his mercy,"The Greek uses mercy language directly. The current wording preserves that wording instead of flattening it into generic kindness.",mercy language,reviewed
+Zechariah 4:6,translation,but by my Spirit,"The Greek contrasts divine Spirit with power and might. The current wording keeps that contrast explicit.",Spirit formula,reviewed
+Hosea 6:6,translation,I want mercy and not sacrifice,"The Greek states the mercy-over-sacrifice contrast directly. The current wording preserves that formula close to the source-row line.",mercy formula,reviewed
+Micah 3:8,translation,by the Spirit of the Lord,"The Greek uses the Spirit-of-the-Lord formula explicitly. The current wording keeps that prophetic empowerment language visible.",Spirit formula,reviewed
+Micah 4:2,translation,law will go out from Zion and word of Lord from Jerusalem,"The Greek keeps the Zion-Jerusalem parallel in full. The current wording preserves both halves of that line.",Zion formula,reviewed
+Amos 3:7,translation,reveals his discipline,"The Greek says the Lord reveals his παιδεία to his servants the prophets. The current wording keeps that term visible instead of flattening it into generic counsel.",lexical choice,reviewed
+Joel 2:26,translation,praise name of Lord your God,"The Greek uses the praise-name formula directly. The current wording preserves that formula close to the source-row line.",praise-name formula,reviewed
+Joel 1:13,translation,sacrifice and drink offering,"The Greek keeps the offering pair explicit. The current wording preserves that cultic line.",offering pair,reviewed
+Ruth 3:10,translation,you made your latter mercy better than the first,"The Greek keeps mercy language explicit here. The current wording preserves that wording instead of flattening it into generic kindness.",mercy language,reviewed
+Ruth 2:13,translation,you spoke to the heart,"The Greek uses a spoke-to-the-heart idiom. The current wording keeps that expression explicit.",idiom,reviewed
+Zechariah 7:12,translation,by his Spirit through the former prophets,"The Greek explicitly joins divine Spirit with prophetic mediation. The current wording keeps both parts visible.",Spirit + prophets formula,reviewed
+Habakkuk 2:14,translation,earth will be filled to know glory of Lord,"The Greek uses a to-know construction here. The current wording stays close to that source-row line instead of recasting it more abstractly.",syntax + glory formula,reviewed
+Malachi 1:6,translation,where is my honor and where is my fear,"The Greek keeps the father-master parallel explicit. The current wording preserves both honor and fear in the rebuke.",father-master formula,reviewed
+Malachi 3:5,translation,I will be swift witness,"The Greek uses a compact judgment formula here. The current wording keeps that line explicit.",judgment formula,reviewed
+Proverbs 10:3,translation,Lord will not starve righteous soul,"The Greek speaks of the righteous soul directly. The current wording keeps that anthropological wording visible.",anthropology + wisdom line,reviewed
+Proverbs 15:29,translation,prayers of righteous he hears,"The Greek uses a direct righteous-prayer formula. The current wording keeps that line explicit.",prayer formula,reviewed
+Proverbs 3:9,translation,offer firstfruits to him from fruits of your righteousness,"The Greek ties firstfruits to fruits of righteousness. The current wording preserves that explicit wording.",righteousness-fruit formula,reviewed
+Proverbs 9:10,translation,beginning of wisdom fear of Lord,"The Greek keeps the wisdom formula direct and compact. The current wording preserves it close to the source-row line.",wisdom formula,reviewed
+Nehemiah 9:5,translation,rise bless the Lord your God from age to age,"The Greek uses a liturgical blessing formula here. The current wording keeps that line explicit.",liturgical formula,reviewed
+Ezra 1:1,translation,the Lord stirred spirit of Cyrus,"The Greek uses the stirred-spirit formula directly. The current wording preserves that wording.",stirred-spirit formula,reviewed
+Ezra 1:5,translation,whose spirit God stirred,"The Greek uses the stirred-spirit formula directly. The current wording preserves that wording.",stirred-spirit formula,reviewed
+Jonah 1:4,translation,Lord stirred up a wind on sea,"The Greek uses stirred-up language for the wind on the sea. The current wording keeps that vivid line explicit.",storm formula,reviewed
+Amos 5:15,translation,restore judgment in gates,"The Greek uses a gate-judgment formula here. The current wording keeps that civic-judicial line explicit.",gate-judgment formula,reviewed
+Ezekiel 18:20,translation,soul sinning will die,"The Greek speaks of the sinning soul directly. The current wording keeps that soul-language visible.",soul-language formula,reviewed
+Ezekiel 20:39,translation,you will no longer profane my holy name,"The Greek keeps the holy-name warning direct. The current wording preserves that explicit line.",holy-name formula,reviewed
+Ezra 6:3,translation,Let house be built,"The Greek decree line is compact and direct. The current wording keeps that formula close to the source-row line.",decree formula,reviewed
+Ezra 7:12,translation,the matter is settled and this answer,"The Greek closes this opening with a compact letter formula. The current wording keeps that unusual line visible.",letter formula,reviewed
+Ezra 7:6,translation,hand of Lord his God was upon him,"The Greek uses the hand-of-God formula directly. The current wording preserves that wording.",hand-of-God formula,reviewed
+Hosea 13:4,translation,there is no savior except me,"The Greek states the exclusive savior claim directly. The current wording keeps that line explicit.",exclusive savior formula,reviewed
+Hosea 4:1,translation,there is no truth nor mercy nor knowledge of God upon land,"The Greek stacks truth mercy and knowledge of God in a single indictment. The current wording preserves that three-part line.",triple indictment formula,reviewed
+Hosea 4:6,translation,you rejected knowledge I also will reject you,"The Greek uses a tight rejection parallel here. The current wording keeps that mirrored line explicit.",rejection parallel,reviewed
+Malachi 1:14,translation,my name is manifest among nations,"The Greek describes the divine name as manifest among the nations. The current wording keeps that source-row wording visible.",name-among-nations formula,reviewed
+Malachi 2:10,translation,Did not one God create you,"The Greek opens with a creation appeal tied to covenant faithlessness. The current wording keeps that line direct.",creation appeal,reviewed
+Malachi 2:6,translation,Law of truth was in his mouth,"The Greek uses the phrase law of truth directly. The current wording preserves that phrase.",law-of-truth formula,reviewed
+Haggai 1:1,translation,word of Lord came by hand of Haggai prophet,"The Greek uses a prophetic transmission formula here. The current wording keeps that by-hand line explicit.",prophetic transmission formula,reviewed
+Haggai 1:12,translation,people feared before Lord,"The Greek says the people feared before the Lord. The current wording preserves that direct response line.",fear-before-Lord formula,reviewed
+Jonah 1:9,translation,I worship Lord God of heaven,"The Greek uses a compact confession formula here. The current wording keeps that line direct.",confession formula,reviewed
+Jonah 1:14,translation,do not put righteous blood on us,"The Greek frames the plea in blood-guilt language. The current wording preserves that explicit line.",blood-guilt plea,reviewed
+Jonah 2:2,translation,Jonah prayed to Lord his God from belly of sea-creature,"The Greek keeps both Jonah's prayer and its setting explicit. The current wording stays close to that source-row line.",prayer setting formula,reviewed
+Jonah 2:8,translation,my prayer come to you into your holy temple,"The Greek uses a prayer-to-temple line here. The current wording keeps that direct movement toward God explicit.",prayer-to-temple formula,reviewed
+Nahum 1:2,translation,God is jealous and avenging,"The Greek opens with a compact divine-title formula. The current wording preserves that line.",divine-title formula,reviewed
+Nahum 1:7,translation,Lord good to those waiting for him in day of distress,"The Greek keeps the refuge line direct. The current wording preserves that day-of-distress assurance.",refuge formula,reviewed
+Nahum 1:9,translation,he will not take vengeance twice upon same thing in distress,"The Greek uses a one-stroke judgment line here. The current wording keeps that unusual wording visible.",judgment formula,reviewed
+Nahum 1:14,translation,your name will no longer be sown,"The Greek uses seed language for the end of the name. The current wording keeps that judgment image explicit.",seed-name judgment,reviewed
+Zephaniah 1:7,translation,he consecrated his called ones,"The Greek links the sacrifice with consecrated called ones. The current wording keeps that line visible.",sacrifice-preparation formula,reviewed
+Zephaniah 1:8,translation,day of the Lord's sacrifice,"The Greek uses a compact day-of-sacrifice formula. The current wording preserves that line.",day-of-sacrifice formula,reviewed
+Zephaniah 2:3,translation,seek righteousness seek humility,"The Greek repeats seek with paired virtues. The current wording keeps that summons direct.",paired summons,reviewed
+Zephaniah 3:4,translation,her prophets are spirit-borne men,"The Greek uses an unusual descriptor for the prophets here. The current wording keeps that marked wording visible.",prophet descriptor,reviewed
+Zephaniah 3:5,translation,morning by morning he gives his judgment to the light,"The Greek ties judgment to morning light. The current wording keeps that dawn-judgment line explicit.",dawn-judgment formula,reviewed
+Zephaniah 3:17,translation,renew you in his love,"The Greek uses renewal language with love. The current wording keeps that source-row line visible.",renewal-in-love formula,reviewed
+Haggai 2:4,translation,I am with you says Lord Almighty,"The Greek uses a direct assurance formula here. The current wording preserves that line.",assurance formula,reviewed
+Obadiah 1:1,translation,Thus says Lord God to Idumea,"The Greek opens with a compact prophetic formula. The current wording keeps that line direct.",prophetic formula,reviewed
+Obadiah 1:7,translation,your peaceful men,"The Greek uses peace-language for these supposed allies. The current wording keeps that marked line visible.",peace-language irony,reviewed
+Obadiah 1:8,translation,I will destroy wise men from Idumea,"The Greek frames judgment as removal of wisdom. The current wording keeps that line explicit.",wisdom-judgment formula,reviewed
+Obadiah 1:15,translation,day of Lord is near upon all nations,"The Greek uses a classic day-of-Lord formula here. The current wording preserves that line.",day-of-Lord formula,reviewed
+Obadiah 1:16,translation,my holy mountain,"The Greek keeps the holy-mountain line direct. The current wording preserves it.",holy-mountain formula,reviewed
+Obadiah 1:17,translation,on mount Zion there will be salvation,"The Greek ties Zion directly to salvation. The current wording keeps that source-row line visible.",Zion-salvation formula,reviewed
+Ruth 2:12,translation,under whose wings you came to trust,"The Greek uses trust language under divine wings. The current wording keeps both trust and wings visible.",wings-of-refuge formula,reviewed
+Ruth 4:12,translation,from the seed that the Lord will give you,"The Greek uses seed language here. The current wording preserves that wording.",seed language,reviewed
+Habakkuk 1:2,translation,How long Lord will I cry out and you not hear,"The Greek uses the direct lament question. The current wording keeps that line explicit.",lament formula,reviewed
+Habakkuk 1:12,translation,Lord my God my Holy One,"The Greek stacks the vocatives tightly. The current wording keeps that confession close to the source-row line.",vocative confession,reviewed
+Habakkuk 3:2,translation,you will be known between the two living creatures,"The Greek line here is difficult and compact. The current wording stays close to that source-row wording rather than smoothing it away.",difficult source-row line,reviewed
+Joel 2:23,translation,he gave you foods in righteousness,"The Greek ties provision to righteousness in an unusual way. The current wording keeps that source-row line visible.",righteousness-provision line,reviewed
+Esther 1:13,translation,make law and judgment concerning this,"The Greek uses a compact court formula here. The current wording keeps both law and judgment visible.",court formula,reviewed
+Esther 1:20,translation,all women will give honor to their husbands,"The Greek uses honor language directly. The current wording preserves that line.",honor formula,reviewed
+Esther 2:12,translation,days of treatment are completed,"The Greek speaks of a fixed treatment period. The current wording keeps that line explicit.",treatment-period formula,reviewed
+Esther 4:8,translation,Call upon the Lord and speak to the king concerning us,"The Greek explicitly joins appeal to the Lord with appeal to the king. The current wording keeps both lines visible.",prayer-and-appeal formula,reviewed
+Esther 4:11,translation,has no salvation,"The Greek uses salvation wording here. The current wording preserves that source-row term.",salvation wording,reviewed
+Esther 8:8,translation,there is no contradicting it,"The Greek states the royal line in terms of contradiction. The current wording keeps that explicit.",royal irrevocability formula,reviewed
+Ecclesiastes 2:24,translation,show his soul good in his toil,"The Greek speaks of showing the soul good in toil. The current wording keeps that anthropological line visible.",soul-and-toil formula,reviewed
+Ecclesiastes 2:26,translation,one good before face of God,"The Greek uses the before-the-face-of-God phrase directly. The current wording preserves that wording.",before-God phrase,reviewed
+Ecclesiastes 6:2,translation,God does not empower him to eat from it,"The Greek frames enjoyment as something God empowers or withholds. The current wording keeps that line explicit.",enjoyment-as-gift formula,reviewed
+Ecclesiastes 7:20,translation,there is not righteous man on earth who will do good and not sin,"The Greek states the universal claim directly. The current wording keeps that line close to the source-row Greek.",universal claim,reviewed
+Ecclesiastes 11:5,translation,what way of spirit,"The Greek line is difficult and compact here. The current wording stays close to that source-row phrase instead of smoothing it away.",difficult spirit phrase,reviewed
+Ecclesiastes 11:9,translation,God will bring you in judgment,"The Greek uses a direct judgment warning. The current wording keeps that line explicit.",judgment warning,reviewed
+Daniel 4:34,translation,serve God of heaven the Holy One,"The Greek keeps the heavenly-holy confession explicit. The current wording preserves that line.",confession formula,reviewed
+Ezekiel 43:19,translation,from seed of Zadok,"The Greek identifies these priests by Zadokite descent. The current wording keeps that source-row line visible.",Zadokite descent,reviewed
+Ezekiel 44:15,translation,sons of Zadok,"The Greek uses the Zadokite designation directly. The current wording preserves it.",Zadokite designation,reviewed
+Ezekiel 45:9,translation,Enough for you rulers of Israel,"The Greek opens with a direct rebuke to Israel's rulers. The current wording keeps that line explicit.",ruler rebuke,reviewed
+Micah 6:7,translation,fruit of my womb for sin of my soul,"The Greek keeps both womb and soul explicit in the sacrifice question. The current wording preserves that source-row line.",womb-and-soul line,reviewed
+Proverbs 26:11,translation,As dog when it returns to its own vomit,"The Greek uses the proverb image directly. The current wording keeps that vivid line explicit.",proverb image,reviewed
+Proverbs 3:16,translation,law and mercy she carries on her tongue,"The Greek joins law and mercy on wisdom's tongue. The current wording keeps that line visible.",law-and-mercy line,reviewed
+Zechariah 14:5,translation,Lord my God will come and all holy ones with him,"The Greek keeps the advent line direct. The current wording preserves both divine coming and holy companions.",advent formula,reviewed
+Amos 2:7,translation,to profane name of their God,"The Greek ties the sexual act to profaning the divine name. The current wording keeps that line explicit.",name-profane formula,reviewed
+Hosea 3:4,translation,without disclosures,"The Greek uses a disclosure-family cultic term here. The current wording now keeps that term consistent with related rows.",disclosure-family term,reviewed
+Hosea 5:4,translation,a spirit of whoredom is in them,"The Greek uses a spirit-of-whoredom line directly. The current wording preserves it.",spirit line,reviewed
+Job 2:3,translation,he still holds fast his innocence,"The Greek keeps the innocence line direct. The current wording preserves that phrase.",innocence formula,reviewed
+Job 1:8,translation,my servant Iōb,"The Greek uses the servant formula directly. The current wording keeps that line explicit.",servant formula,reviewed
+Job 35:2,translation,I am righteous before Lord,"The Greek states the claim directly. The current wording keeps that line visible.",righteous claim,reviewed
+Job 42:17,translation,he will rise again with those whom Lord raises up,"The Greek appendix includes an explicit resurrection line. The current wording keeps that appendix visible.",resurrection appendix,reviewed
+Job 9:2,translation,how will a mortal be righteous before the Lord,"The Greek asks the righteousness question directly. The current wording preserves that line.",righteousness question,reviewed
+Lamentations 3:25,translation,Lord good to those waiting for him,"The Greek keeps the waiting-for-Lord line compact and direct. The current wording preserves it.",waiting-for-Lord line,reviewed
+Lamentations 1:15,translation,Lord trod winepress for virgin daughter Judah,"The Greek uses the winepress image directly. The current wording keeps that image explicit.",winepress image,reviewed
+Lamentations 2:6,translation,Lord forgot in Zion feast and sabbath,"The Greek joins feast and sabbath in a direct loss formula. The current wording preserves that line.",loss formula,reviewed
+Lamentations 2:9,translation,her prophets did not see a vision from the Lord,"The Greek frames the prophetic lack as no vision from the Lord. The current wording keeps that source-row wording.",vision formula,reviewed
+Lamentations 3:26,translation,quiet for salvation of Lord,"The Greek ties quiet waiting to salvation of the Lord. The current wording keeps that line explicit.",waiting-for-salvation line,reviewed
+Song of Solomon 1:7,translation,one my soul loved,"The Greek uses soul-love language directly. The current wording preserves that marked phrase.",soul-love phrase,reviewed
+Song of Solomon 5:6,translation,my soul went out at his word,"The Greek joins soul and word in a compact line. The current wording keeps that line visible.",soul-and-word line,reviewed
+Lamentations 2:1,translation,He cast down from heaven to earth glory of Israel,"The Greek states the fall of Israel's glory directly. The current wording preserves that line.",glory-fall line,reviewed
+Song of Solomon 6:2,translation,to shepherd in gardens and gather lilies,"The Greek keeps the pastoral garden image direct. The current wording preserves it.",pastoral garden line,reviewed
+Nahum 1:3,translation,acquitting he will not acquit,"The Greek uses a compact judgment formula here. The current wording keeps that marked line visible.",judgment formula,reviewed
+Nahum 3:5,translation,I am against you says Lord God Almighty,"The Greek opens with a threat formula. The current wording preserves that direct line.",threat formula,reviewed
+Song of Solomon 2:3,translation,In his shadow I desired and sat,"The Greek keeps the shade-desire line direct. The current wording preserves that intimate image.",shade-desire line,reviewed
+Song of Solomon 2:9,translation,peering through windows looking through lattices,"The Greek uses paired peering verbs. The current wording keeps both visible.",paired peering verbs,reviewed
+Song of Solomon 3:1,translation,one my soul loved,"The Greek again uses soul-love language directly. The current wording preserves that marked phrase.",soul-love phrase,reviewed
+Exodus 1:3,translation,Issachar Zebulun and Benjamin,"The Greek line is simply a name list. The current wording keeps standard English name forms.",name list,reviewed
+Exodus 1:4,translation,Dan and Naphtali Gad and Asher,"The Greek line is simply a name list. The current wording keeps standard English name forms.",name list,reviewed
+Genesis 21:24,translation,I will swear,"The Greek reply is compact and direct. The current wording preserves that line.",oath reply,reviewed
+Genesis 21:28,translation,seven ewe-lambs of the flock by themselves,"The Greek keeps flock wording explicit. The current wording preserves that line.",flock wording,reviewed
+Genesis 24:34,translation,I am Abraham's servant,"The Greek identifies the speaker with Abraham directly. The current wording keeps that line explicit.",servant identification,reviewed
+Genesis 29:18,translation,I will serve you seven years for Rachel your younger daughter,"The Greek keeps the marriage-service line direct. The current wording preserves it.",marriage-service line,reviewed
+Genesis 38:6,translation,whose name was Tamar,"The Greek simply gives the name. The current wording uses the standard English form.",name form,reviewed
+Genesis 47:7,translation,Jacob blessed Pharaoh,"The Greek states the blessing line directly. The current wording uses the standard royal name form.",royal name form,reviewed
+Genesis 9:28,translation,Noah lived after the flood three hundred and fifty years,"The Greek line is straightforward chronology. The current wording uses the standard English name form.",chronology line,reviewed
+Genesis 9:29,translation,all the days of Noah were nine hundred and fifty years and he died,"The Greek line is straightforward chronology. The current wording uses the standard English name form.",chronology line,reviewed
+Leviticus 14:27,translation,with his right finger,"The Greek ritual wording is direct here. The current wording preserves it.",ritual wording,reviewed
+Numbers 3:2,translation,Nadab the firstborn and Abihu,"The Greek name list is straightforward. The current wording keeps the standard English form Abihu.",name form,reviewed
+Numbers 5:16,translation,the priest shall bring her near and set her before the Lord,"The Greek uses two direct ritual verbs. The current wording preserves that line.",ritual action line,reviewed
+Numbers 27:6,translation,the Lord spoke to Moses saying,"The Greek line is the standard speech formula. The current wording preserves it.",speech formula,reviewed
+Numbers 35:21,translation,the one striking shall surely be put to death,"The Greek uses the emphatic death formula directly. The current wording keeps that legal line explicit.",legal death formula,reviewed
+Numbers 16:14,translation,would you gouge out the eyes of those men,"The Greek uses the eye-gouging threat image directly. The current wording preserves that forceful line.",threat image,reviewed
+2 Kings 6:22,translation,Set bread and water before them,"The Greek keeps Elisha's mercy command direct. The current wording preserves it.",mercy command,reviewed
+2 Kings 18:21,translation,on this broken reed staff,"The Greek uses the broken-reed taunt directly. The current wording keeps that image explicit.",taunt image,reviewed
+Leviticus 8:23,translation,on the lobe of Aaron's right ear,"The Greek uses lobe language here. The current wording keeps that source-row body-part wording visible.",body-part wording,reviewed
+Deuteronomy 24:3,translation,writes for her a document of divorce,"The Greek uses a divorce-document line directly. The current wording preserves that legal wording.",divorce-document line,reviewed
+1 Kings 8:35,translation,confess to your name,"The Greek keeps the name formula explicit. The current wording preserves that line.",name formula,reviewed
+2 Samuel 14:33,translation,the king kissed Abessalōm,"The Greek ends with a direct reconciliation gesture. The current wording keeps that line explicit.",reconciliation gesture,reviewed
+Deuteronomy 15:6,translation,you shall lend to many nations but you shall not borrow,"The Greek keeps the blessing formula compact and direct. The current wording preserves it.",blessing formula,reviewed
+2 Chronicles 6:34,translation,they pray to you by way of this city,"The Greek uses directional prayer language here. The current wording keeps that source-row line visible.",directional prayer line,reviewed
+2 Chronicles 6:14,translation,keeping covenant and mercy,"The Greek uses the covenant-and-mercy formula directly. The current wording preserves it.",covenant-mercy formula,reviewed
+Exodus 26:12,translation,the half-covering that remains,"The Greek describes the tent overhang in compact tabernacle wording. The current wording keeps that line explicit.",tabernacle wording,reviewed
+Genesis 48:17,translation,it seemed grievous to him,"The Greek uses grief language rather than simple displeasure. The current wording preserves that nuance.",grief wording,reviewed
+Ruth 1:16,translation,Your people shall be my people and your God my God,"The Greek keeps Ruth's pledge direct and compact. The current wording preserves that line.",pledge formula,reviewed
+Leviticus 4:34,translation,at the base of the altar of whole burnt offering,"The Greek keeps the ritual placement line direct. The current wording preserves it.",ritual placement line,reviewed
+1 Kings 13:22,translation,your body shall certainly not enter into the tomb of your fathers,"The Greek uses strong negation in the judgment sentence. The current wording keeps that force explicit.",judgment sentence,reviewed
+2 Samuel 15:24,translation,carrying the ark of the covenant of the Lord,"The Greek uses the ark phrase directly. The current wording preserves it.",ark phrase,reviewed
+Nehemiah 9:10,translation,you made a name for yourself as this day,"The Greek uses the name-making formula directly. The current wording preserves that line.",name-making formula,reviewed
+Numbers 6:3,translation,he shall not drink whatever is produced from grapes,"The Greek states the Nazirite restriction broadly. The current wording preserves that scope.",Nazirite restriction,reviewed
+Judges 11:31,translation,that one shall be the Lord's and I will offer him up as a whole burnt offering,"The Greek line is masculine and direct here. The current wording keeps that source-row wording visible.",source-row masculines,reviewed
+Genesis 24:15,translation,before he finished speaking in his mind,"The Greek places the speech in his mind. The current wording keeps that inward line explicit.",inward-speech line,reviewed
+Genesis 24:40,translation,will himself send out his angel with you,"The Greek keeps the angel line direct. The current wording preserves it.",angel-with-you line,reviewed
+Genesis 43:23,translation,Mercy to you Do not be afraid,"The Greek greeting uses mercy language. The current wording keeps that marked line visible.",mercy greeting,reviewed
+Genesis 42:28,translation,their heart was stunned,"The Greek uses a stunned-heart line here. The current wording preserves that force.",stunned-heart line,reviewed
+Genesis 47:14,translation,Joseph gathered all the money,"The Greek collection line is direct. The current wording preserves it.",collection line,reviewed
+Genesis 32:6,translation,the messengers returned to Jacob,"Context here is human envoys to Esau. The current wording keeps messenger rather than angel.",human envoys,reviewed
+Genesis 32:29,translation,Tell me your name,"The Greek request is compact and direct. The current wording preserves it.",name request,reviewed
+Genesis 32:14,translation,two hundred she-goats twenty he-goats two hundred sheep twenty rams,"The Greek line is a gift list. The current wording keeps that sequence direct.",gift list,reviewed
+Genesis 32:12,translation,I will do you good,"The Greek promise line is compact. The current wording keeps that force explicit.",promise line,reviewed
+Genesis 32:3,translation,Jacob sent messengers before him,"Context here is human envoys to Esau. The current wording keeps messenger rather than angel.",human envoys,reviewed
+2 Kings 5:5,translation,he took in his hand ten talents of silver,"The Greek explicitly says in his hand. The current wording keeps that line visible.",in-hand line,reviewed
+Judges 3:25,translation,their lord had fallen dead upon the ground,"The Greek discovery line is direct. The current wording preserves it.",discovery line,reviewed
+Numbers 3:27,translation,clan of the Amramites and clan of the Issaharites,"The Greek line is a clan list. The current wording keeps that structure explicit.",clan list,reviewed
+2 Chronicles 6:23,translation,to return his ways upon his head,"The Greek uses the upon-his-head judgment formula directly. The current wording preserves it.",judgment formula,reviewed
+1 Samuel 4:8,translation,Who will rescue us from hand of these strong gods,"The Greek keeps the Philistine fear cry direct. The current wording preserves that line.",fear cry,reviewed
+Deuteronomy 12:28,translation,Keep and hear and do all these words,"The Greek uses a threefold command. The current wording keeps all three verbs visible.",threefold command,reviewed
+1 Kings 13:8,translation,I will certainly not eat bread nor certainly drink water in this place,"The Greek uses strong negation twice. The current wording preserves that force.",strong negation,reviewed
+Deuteronomy 27:2,translation,you shall set up for yourself great stones and whitewash them with lime,"The Greek construction line is direct. The current wording preserves it.",construction line,reviewed
+2 Kings 20:20,translation,the spring and the conduit,"The Greek names the waterworks directly. The current wording preserves that line.",waterworks line,reviewed
+2 Samuel 13:15,translation,the hatred with which he hated her was greater than the love,"The Greek intensifies the reversal directly. The current wording preserves that line.",reversal line,reviewed
+Deuteronomy 11:29,translation,you shall place the blessing on Mount Garizin and the curse on Mount Gaibal,"The Greek uses the blessing-curse mountain formula directly. The current wording preserves it.",mountain formula,reviewed
+Deuteronomy 7:12,translation,the Lord your God will keep for you the covenant and the mercy,"The Greek uses the covenant-and-mercy formula directly. The current wording preserves it.",covenant-mercy formula,reviewed
+Judges 6:8,translation,the Lord sent a man a prophet to the sons of Israel,"The Greek explicitly says a man, a prophet. The current wording keeps both elements visible.",man-prophet line,reviewed
+Numbers 1:2,translation,Take the headcount of whole congregation of the sons of Israel,"The Greek uses head language in the census command. The current wording preserves that wording.",census formula,reviewed
+Judges 18:30,translation,Jonathan son of Gērsōm son of Moses,"The Greek reads Moses here. The current wording keeps that source-row reading explicit.",Moses reading,reviewed
+Numbers 5:14,translation,a spirit of jealousy,"The Greek uses the spirit-of-jealousy phrase directly. The current wording preserves it.",spirit-of-jealousy formula,reviewed
+Leviticus 13:4,translation,the priest shall isolate the mark seven days,"The Greek keeps the isolation line direct. The current wording preserves it.",isolation line,reviewed
+2 Chronicles 6:26,translation,praise your name,"The Greek here uses praise rather than confession. The current wording keeps that difference explicit.",name-praise formula,reviewed
+Numbers 5:17,translation,pure living water in an earthen vessel,"The Greek uses living water language directly. The current wording preserves it.",living-water line,reviewed
+Numbers 27:5,translation,Moses brought their judgment before the Lord,"The Greek uses judgment wording rather than only cause. The current wording preserves that line.",judgment wording,reviewed
+Deuteronomy 2:36,translation,there was no city that escaped us,"The Greek conquest line is direct. The current wording preserves it.",conquest line,reviewed
+Judges 20:15,translation,the sons of Benjamin were counted twenty-five thousand men,"The Greek count line is straightforward. The current wording preserves it.",count line,reviewed
+Deuteronomy 26:10,translation,I have brought the firstfruits of the produce of the land,"The Greek uses firstfruits language directly. The current wording preserves that line.",firstfruits line,reviewed
+Leviticus 8:25,translation,the loin,"The Greek uses a body-part term here. The current wording keeps that explicit rather than smoothing it.",body-part term,reviewed
+2 Samuel 5:2,translation,you will shepherd my people Israel,"The Greek uses shepherd language directly. The current wording preserves that metaphor.",shepherd metaphor,reviewed
+Exodus 26:5,translation,matching one another,"The Greek uses paired correspondence language for the loops. The current wording preserves that line.",correspondence line,reviewed
+Exodus 34:1,translation,the first tablets which you shattered,"The Greek uses shatter language here. The current wording preserves that stronger wording.",shatter wording,reviewed
+Ruth 3:4,translation,you will uncover the things at his feet and lie down,"The Greek is slightly broader than simply uncover his feet. The current wording keeps that source-row wording visible.",source-row wording,reviewed
+Deuteronomy 2:7,translation,You lacked no thing,"The Greek expresses lack in a compact idiomatic way. The current wording keeps that line concise.",lack formula,reviewed
+Numbers 27:7,translation,The daughters of Salpaad have spoken rightly,"The Greek approval line is direct. The current wording preserves it.",approval formula,reviewed
+Genesis 32:22,translation,crossed the ford of Jabbok,Greek uses a concrete crossing-place term here. Current wording keeps river-ford sense plain.,lexical,reviewed
+Numbers 22:18,translation,I would not be able to go beyond the word of the Lord my God,"Greek keeps Balaam's refusal tightly tied to the Lord's word, including the small-great and in-my-mind wording later in the line. Current wording keeps that shape.",lexical + discourse shape,reviewed
+Leviticus 15:26,translation,like the bed of her separation,Greek repeats separation language through the verse. Current wording preserves that repetition instead of smoothing it to a generic discharge term.,lexical + purity formula,reviewed
+1 Samuel 17:49,translation,the stone went through the helmet into his forehead,Greek explicitly says the stone went through the helmet into his forehead. Current wording keeps the sequence direct.,lexical,reviewed
+1 Kings 8:32,translation,by giving his way upon his own head,Greek uses a head-return judgment idiom. Current wording keeps the idiom rather than flattening it to a generic punishment line.,idiom,reviewed
+Deuteronomy 6:10,translation,cities great and good,Greek simply doubles the adjectives. Current wording preserves that compact formula.,lexical,reviewed
+Genesis 17:19,translation,to be God to him and to his seed after him,Greek uses the covenant formula directly. Current wording preserves it.,covenant formula,reviewed
+1 Samuel 20:22,translation,Here is the arrow from you and beyond,Greek keeps the directional sign in compressed form. Current wording follows that signal formula closely.,signal formula,reviewed
+2 Samuel 22:2,translation,my rescuer for me,Greek closes the title-chain with a personal dative turn. Current wording keeps that compact ending.,lexical + style,reviewed
+Numbers 27:4,translation,Let not the name of our father be wiped out,Greek uses the name-wiped-out formula directly. Current wording preserves it.,name formula,reviewed
+Leviticus 8:20,translation,he cut the ram into limbs,Greek uses concrete sacrificial butchery language here. Current wording keeps that texture plain.,cultic procedure,reviewed
+Genesis 32:11,translation,mother upon children,Greek uses a stark mother-upon-children idiom here. Current wording keeps it rather than smoothing it away.,idiom,reviewed
+1 Samuel 1:23,translation,Only may the Lord establish what went out from your mouth,Greek uses a spoken-word formula directly. Current wording preserves it.,spoken-word formula,reviewed
+2 Kings 17:6,translation,deported Israel to the Assyrians and settled them in Alae and in Abōr,Greek keeps the deportation-settlement geography explicit. Current wording stays close to that line.,geography + exile formula,reviewed
+Genesis 32:17,translation,Whose are you and where are you going and whose are these going before you,Greek repeats whose in compressed sequence. Current wording keeps that repeated structure.,question sequence,reviewed
+2 Chronicles 18:3,translation,"As I am, so are you; as your people, so my people, with you in battle",Greek uses a compressed alliance formula. Current wording preserves it.,alliance formula,reviewed
+Genesis 32:27,translation,What is your name?,Greek asks the naming question directly. Current wording keeps it plain.,question line,reviewed
+Exodus 34:18,translation,in the month of new grain,Greek uses new-grain wording here. Current wording preserves that expression rather than replacing it with a later label.,festival timing formula,reviewed
+2 Chronicles 20:10,translation,through whom you did not allow Israel to pass,Greek keeps the passage-through line explicit. Current wording preserves that route language.,route formula,reviewed
+Leviticus 8:26,translation,from the basket of completion that was before the Lord,Greek uses completion wording in this consecration context. Current wording keeps that terminology.,cultic terminology,reviewed
+2 Samuel 21:1,translation,sought the face of the Lord,Greek uses the face-of-the-Lord idiom directly. Current wording preserves it.,idiom,reviewed
+Deuteronomy 18:3,translation,And this is the due of the priests,Greek begins with the priests' due formula and then lists the parts. Current wording keeps that structure plain.,due formula,reviewed
+Ezra 1:3,translation,He is the God in Ierousalem.,Greek closes with a short identifying clause. Current wording keeps it direct.,identification clause,reviewed
+2 Kings 19:28,translation,I will put my hooks in your nostrils and my bridle in your lips,Greek uses forceful restraint imagery. Current wording preserves it.,imagery,reviewed
+Joshua 13:28,translation,This is the inheritance of the sons of Gad according to their clans,Greek uses the inheritance-summary formula directly. Current wording keeps it plain.,inheritance formula,reviewed
+Leviticus 8:22,translation,"the second ram, the ram of completion",Greek repeats ram and uses completion wording here. Current wording preserves that consecration language.,cultic terminology,reviewed
+Judges 9:43,translation,divided it into three companies,Greek keeps the military sequence compressed. Current wording preserves the three-companies line.,military sequence,reviewed
+Genesis 8:4,translation,And the ark came to rest,Greek describes the ark resting on Ararat. Current wording keeps that line plain.,narrative line,reviewed
+Exodus 16:29,translation,Let each stay in his houses. Let no one go out from his place on the seventh day.,Greek gives a stay-and-do-not-go-out command pair. Current wording preserves both parts.,command sequence,reviewed
+2 Kings 8:21,translation,he struck Edom that had encircled him,Greek keeps the encirclement line explicit. Current wording preserves it.,battle line,reviewed
+Numbers 21:23,translation,And Sihon did not let Israel pass through his borders,Greek uses pass-through-borders wording and repeats battle-array language later in the verse. Current wording keeps that structure visible.,route + battle formula,reviewed
+Numbers 5:30,translation,a spirit of jealousy comes upon a man,Greek uses the spirit-of-jealousy formula directly. Current wording preserves it.,jealousy formula,reviewed
+Numbers 21:19,translation,and from Manthanain to Naaliel,Greek keeps the route list terse. Current wording preserves the sequence.,route list,reviewed
+Genesis 32:25,translation,the broad part of Jacob's thigh went numb,Greek uses broad-part wording and a numbness verb here. Current wording keeps both visible.,lexical,reviewed
+Deuteronomy 3:21,translation,all the kingdoms into which you are crossing there,Greek keeps the crossing line direct. Current wording preserves that phrasing.,crossing formula,reviewed
+Numbers 21:13,translation,"beyond Arnon, in the wilderness that extends from the borders of the Amorites",Greek gives the geography in a compact descriptive line. Current wording keeps it plain.,geography line,reviewed
+2 Chronicles 35:16,translation,all service of Lord was set right and prepared on that day,Greek uses a paired set-right and prepared formula. Current wording preserves both verbs.,service formula,reviewed
+Judges 2:7,translation,lived long after Joshua,Greek uses a long-lived formula here. Current wording keeps it explicit.,time formula,reviewed
+1 Samuel 29:8,translation,that I should not come to fight the enemies of my lord the king?,Greek uses strong-question force here. Current wording stays close to that line.,question force,reviewed
+2 Kings 11:5,translation,This is the word that you shall do,Greek opens with a this-is-the-word formula. Current wording preserves it.,formula line,reviewed
+Exodus 31:6,translation,everyone wise in heart,Greek uses the wise-in-heart formula directly. Current wording preserves it.,wise-in-heart formula,reviewed
+Genesis 32:30,translation,Form of God,Greek names the place with Form of God and then explains it. Current wording keeps that naming line explicit.,place-name formula,reviewed
+2 Samuel 23:25,translation,"Samma the Aroudite, Elika the Aroudite,",Greek gives a terse transliterated name list. Current wording preserves it.,name list,reviewed
+1 Kings 18:10,translation,he bound the kingdom and its regions by oath,Greek uses oath-binding language for the search. Current wording keeps that line explicit.,oath formula,reviewed
+Exodus 20:9,translation,"For six days you shall work and do all your works,",Greek keeps the command compact and repetitive. Current wording preserves that shape.,command formula,reviewed
+Judges 8:21,translation,"as the man is, so is his strength",Greek uses a brief proverbial line. Current wording preserves it.,proverbial line,reviewed
+Exodus 23:6,translation,You shall not pervert the judgment of a poor man in his case,Greek states the judgment-case line directly. Current wording keeps it plain.,judgment formula,reviewed
+1 Chronicles 4:37,translation,and Zouza son of Sephei son of Allon son of Iedia son of Samari son of Samaiou.,Greek gives a compact genealogy chain. Current wording preserves the source-row sequence.,genealogy chain,reviewed
+Leviticus 8:29,translation,"And Moses, taking the breast, presented it before the Lord",Greek keeps the priestly action line direct. Current wording preserves it.,cultic action,reviewed
+Exodus 16:4,translation,I am raining bread for you from heaven,Greek uses a raining-bread image directly. Current wording preserves that image.,imagery,reviewed
+Exodus 34:24,translation,no one shall desire your land,Greek gives a direct promise line here. Current wording preserves it.,promise formula,reviewed
+Numbers 22:34,translation,if it does not please you I will turn back,Greek closes with Balaam's conditional retreat line. Current wording keeps it plain.,conditional line,reviewed
+Ezra 9:13,translation,gave us such deliverance,Greek ends the line with deliverance language. Current wording preserves that relief note.,salvation/deliverance line,reviewed
+Judges 14:6,translation,the Spirit of the Lord rushed upon him,Greek uses strong Spirit-of-the-Lord empowerment language. Current wording preserves it.,Spirit formula,reviewed
+Ezra 8:34,translation,"by number and by weight, everything, and all the weight was written at that time.",Greek uses a compact accounting line. Current wording preserves that number-and-weight formula.,accounting formula,reviewed
+2 Kings 13:12,translation,his acts of power,Greek uses a power/deeds term in the annal formula. Current wording preserves it.,annal formula,reviewed
+Genesis 32:15,translation,thirty milk camels and their young,Greek gives a livestock list in compressed sequence. Current wording preserves it.,livestock list,reviewed
+Exodus 33:18,translation,Show me your own glory.,Greek includes reflexive force here. Current wording preserves it.,request line,reviewed
+Exodus 18:8,translation,all the hardship that had come upon them on the way,Greek keeps the hardship-on-the-way line explicit. Current wording preserves it.,journey hardship formula,reviewed
+Judges 15:18,translation,this great salvation,Greek uses salvation language directly. Current wording preserves it.,salvation formula,reviewed
+Leviticus 14:51,translation,"dip them in the blood of the slaughtered bird over living water, and with them he shall sprinkle the house seven times.",Greek keeps the ritual sequence compact and direct. Current wording preserves it.,ritual sequence,reviewed
+1 Kings 12:28,translation,Let it be enough for you to go up to Ierousalem.,Greek uses an enough-for-you formula here. Current wording preserves it.,formula line,reviewed
+2 Chronicles 9:9,translation,spices in very great abundance and precious stone,Greek uses an abundance inventory line here. Current wording preserves it.,inventory formula,reviewed
+2 Samuel 22:29,translation,you are my lamp O Lord and the Lord will light up my darkness,Greek keeps the lamp-and-darkness parallel explicit. Current wording preserves it.,light formula,reviewed
+Numbers 28:30,translation,to make atonement for you,Greek closes with a direct atonement line. Current wording preserves it.,atonement formula,reviewed
+2 Samuel 3:22,translation,coming from the raid and bringing much spoil with them,Greek keeps the raid-and-spoil line direct. Current wording preserves it.,raid line,reviewed
+1 Kings 9:27,translation,seafaring men skilled to drive the sea,Greek uses vivid seafaring wording here. Current wording preserves it.,nautical wording,reviewed
+Deuteronomy 2:2,translation,"And the Lord said to me,",Greek gives a simple speech formula. Current wording preserves it.,speech formula,reviewed
+1 Samuel 15:12,translation,has raised a hand for himself,Greek uses a raised-a-hand idiom here. Current wording preserves it.,idiom,reviewed
+Exodus 17:6,translation,I am standing,Greek uses a vivid stance line at the rock. Current wording preserves that immediacy.,theophanic stance,reviewed
+1 Chronicles 27:24,translation,began numbering among people and did not finish,Greek keeps the incomplete census line explicit. Current wording preserves it.,census formula,reviewed
+2 Kings 1:8,translation,"A hairy man, with a leather belt girded around his waist.",Greek gives a terse identifying description. Current wording preserves it.,description formula,reviewed
+Genesis 41:11,translation,Each of us saw according to his own dream.,Greek repeats dream language in a compact formula. Current wording preserves it.,dream formula,reviewed
+Judges 20:47,translation,turned aside and fled into the wilderness to the rock Rhemmon,Greek keeps the turn-aside and flight line direct. Current wording preserves it.,flight formula,reviewed
+Deuteronomy 20:15,translation,very far from you,Greek strengthens the distance line with very. Current wording preserves it.,distance qualifier,reviewed
+Deuteronomy 7:3,translation,you shall certainly not intermarry with them,Greek uses a strong prohibition here. Current wording preserves it.,strong prohibition,reviewed
+Judges 5:5,translation,"Mountains were shaken from before the Lord, this Sinai,",Greek keeps the abrupt this-Sinai line visible. Current wording preserves it.,poetic line,reviewed
+1 Chronicles 23:31,translation,by number according to ordinance upon them continually before Lord,Greek uses a ritual scheduling formula here. Current wording preserves it.,ritual formula,reviewed
+Genesis 28:4,translation,the land of your sojourning,Greek uses the sojourning-land formula directly. Current wording preserves it.,sojourning formula,reviewed
+Genesis 31:39,translation,the thefts of day and the thefts of night,Greek repeats thefts by day and by night. Current wording preserves that formula.,repetition formula,reviewed
+2 Samuel 20:6,translation,hide from our eyes,Greek ends with an eyes-warning line. Current wording preserves the sense in standard English.,warning idiom,reviewed
+Genesis 22:7,translation,Where is the sheep for a whole-burnt offering?,Greek asks directly for the sheep-for-offering. Current wording preserves it.,question formula,reviewed
+Judges 16:24,translation,the one ravaging our land,Greek uses direct devastation language. Current wording preserves it.,taunt formula,reviewed
+Exodus 32:10,translation,let me alone,Greek opens with a direct let-me-alone line. Current wording preserves it.,threat formula,reviewed
+Genesis 41:43,translation,a herald cried before him,Greek keeps the herald-before-him royal line plain. Current wording preserves it.,royal formula,reviewed
+1 Samuel 6:14,translation,they split the wood of the wagon and offered the cows as a whole burnt offering,Greek keeps the wagon-wood and offering line direct. Current wording preserves it.,sacrifice line,reviewed
+2 Kings 23:1,translation,gathered to himself all the elders of Judah and Jerusalem,Greek uses a gathered-to-himself line. Current wording preserves it.,gathering formula,reviewed
+Judges 12:11,translation,after him Ailōn the Zebulunite judged Israel,Greek uses the judge-formula directly. Current wording preserves it.,judge formula,reviewed
+Genesis 22:13,translation,one ram caught in a plant of Sabek by the horns,Greek gives the caught-ram line very concretely. Current wording preserves it.,sacrifice substitute line,reviewed
+Judges 19:19,translation,there is no lack of anything,Greek closes with a no-lack formula. Current wording preserves it.,lack formula,reviewed
+1 Kings 22:43,translation,he did not turn aside from it,Greek uses the did-not-turn-aside line directly. Current wording preserves it.,faithfulness formula,reviewed
+Deuteronomy 4:19,translation,all the order of heaven,Greek uses order/cosmos language for the heavens. Current wording preserves it.,cosmos formula,reviewed
+1 Chronicles 29:2,translation,With all my strength I prepared for house of my God,Greek opens with a with-all-my-strength preparation line. Current wording preserves it.,preparation formula,reviewed
+Joshua 10:20,translation,those being saved were saved into the fortified cities,Greek uses a survivors-saved line with repetition. Current wording preserves it.,survivor formula,reviewed
+1 Kings 1:19,translation,but Solomon your servant he did not call.,Greek ends with a direct contrast line. Current wording preserves it.,contrast line,reviewed
+Deuteronomy 31:30,translation,in the ears of the whole assembly of Israel,Greek uses an in-the-ears formula. Current wording preserves it.,hearing formula,reviewed
+Deuteronomy 5:27,translation,we shall hear and do.,Greek closes with the hear-and-do response formula. Current wording preserves it.,response formula,reviewed
+2 Samuel 5:5,translation,over all Israel and Iouda,Greek states the regnal scope directly. Current wording preserves it.,regnal formula,reviewed
+Exodus 14:23,translation,"went in after them into the midst of the sea, all Pharaoh's horses, chariots, and riders.",Greek keeps the pursuit line compressed and direct. Current wording preserves it.,pursuit formula,reviewed
+Judges 20:27,translation,inquired of the Lord,Greek literally has inquired in the Lord. Current wording uses standard English while keeping the sense.,idiom,reviewed
+Numbers 27:3,translation,he was not in the midst of the congregation that gathered against the Lord,Greek keeps the contrast with Korah's assembly explicit. Current wording preserves it.,assembly contrast,reviewed
+1 Kings 12:14,translation,My father made your yoke heavy and I will add upon your yoke,Greek uses add-upon-your-yoke wording. Current wording preserves that line.,yoke formula,reviewed
+1 Chronicles 26:3,translation,"Ōlam fifth, Iōanan sixth, Eliōēnai seventh.",Greek gives a terse ordinal name list. Current wording preserves it.,name list,reviewed
+Leviticus 18:7,translation,The nakedness of your father and the nakedness of your mother you shall not uncover,Greek repeats the nakedness formula directly. Current wording preserves that repetition.,repeated formula,reviewed
+Exodus 40:14,translation,clothe them with tunics,Greek gives a direct vesting command. Current wording keeps it plain.,vesting command,reviewed
+Ezra 8:25,translation,"I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God",Greek combines weighing language with an offering line. Current wording preserves that sequence.,offering account,reviewed
+Genesis 7:11,translation,all the springs of the abyss burst open and the floodgates of heaven were opened,Greek uses a paired abyss-and-heaven opening formula. Current wording preserves it.,paired formula,reviewed
+Joshua 22:13,translation,"sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas",Greek gives a long direct sending line with Phinehas named after the destination group. Current wording preserves that shape.,sending formula,reviewed
+Numbers 12:5,translation,came down in a pillar of cloud and stood at the door of the tent of testimony,Greek uses a direct theophanic descent line. Current wording preserves it.,theophanic line,reviewed
+Leviticus 18:8,translation,The nakedness of your father's wife you shall not uncover,Greek keeps the prohibition compact and direct. Current wording preserves it.,prohibition formula,reviewed
+2 Samuel 24:4,translation,the word of the king prevailed against Ioab,Greek uses a prevailed-word line here. Current wording preserves it.,authority formula,reviewed
+Genesis 29:15,translation,will you serve me for nothing?,Greek asks the serve-for-nothing question directly. Current wording preserves it.,question formula,reviewed
+Exodus 4:5,translation,has appeared to you,Greek ends with a direct appearance-to-you line. Current wording preserves it.,appearance formula,reviewed
+2 Samuel 14:5,translation,Truly I am a widow woman,Greek uses a stark widow-woman self-description. Current wording preserves it.,self-description,reviewed
+1 Chronicles 8:2,translation,"Noa the fourth, and Raphe the fifth.",Greek gives a terse ordinal name list. Current wording preserves it.,name list,reviewed
+Joshua 1:16,translation,Everything that you command us we will do,Greek opens the response with a direct do-what-you-command formula. Current wording preserves it.,response formula,reviewed
+Genesis 32:2,translation,This is God's camp. And he called the name of that place Camps.,Greek makes a direct camp/place-name link. Current wording preserves it.,place-name formula,reviewed
+2 Kings 5:7,translation,to remove a man from his skin-disease,Greek uses removal-from-disease wording here. Current wording preserves it.,healing formula,reviewed
+Exodus 14:31,translation,the great hand,Greek uses the great-hand line directly. Current wording preserves it.,theophanic formula,reviewed
+Genesis 29:18,translation,I will serve you seven years for Rachel your younger daughter.,Greek states the marriage-service line directly. Current wording preserves it.,marriage-service formula,reviewed
+Exodus 28:31,translation,all blue,Greek gives a compact all-blue vestment description. Current wording preserves it.,vestment formula,reviewed
+Exodus 35:20,translation,went out from Moses,Greek keeps the departure line terse. Current wording preserves it.,departure line,reviewed
+Genesis 24:5,translation,Suppose the woman is not willing to come back with me to this land.,Greek asks the willingness question directly. Current wording preserves it.,question formula,reviewed
+Joshua 4:23,translation,dried up the water of the Jordan,Greek uses the dried-up-water line and parallels it with the Red Sea. Current wording preserves that pattern.,water miracle formula,reviewed
+1 Chronicles 16:36,translation,Blessed Lord God of Israel from age and unto age.,Greek uses an age-unto-age blessing formula. Current wording preserves it.,blessing formula,reviewed
+Leviticus 13:39,translation,pale white bright spots,Greek stacks visual descriptors here. Current wording preserves that diagnostic wording.,diagnostic wording,reviewed
+2 Chronicles 31:6,translation,"in heaps, heaps",Greek repeats heaps for emphasis. Current wording preserves that repetition.,repetition formula,reviewed
+1 Samuel 8:18,translation,You will cry out in that day because of your king whom you chose for yourselves,Greek uses a future warning line tied to the chosen king. Current wording preserves it.,warning formula,reviewed
+Genesis 50:24,translation,with visitation God will visit you,Greek uses the visitation formula directly. Current wording preserves it.,visitation formula,reviewed
+Deuteronomy 9:4,translation,Do not say in your heart,Greek opens with the say-in-your-heart warning formula. Current wording preserves it.,warning formula,reviewed
+Joshua 9:12,translation,"These breads, hot, we provisioned them on the day when we went out to come to you, but now they are dried out and have become eaten.",Greek keeps the travel-provision claim very literal. Current wording preserves that shape.,travel claim,reviewed
+Deuteronomy 6:13,translation,cling to him,Greek keeps the cling-to-him loyalty verb in the sequence. Current wording preserves that covenant-attachment line.,covenant loyalty formula,reviewed
+Exodus 9:15,translation,strike you and your people with death,Greek states the death-threat line directly. Current wording preserves that plague warning without softening it.,judgment formula,reviewed
+Numbers 26:55,translation,The land shall be divided by lots.,Greek keeps the by-lots inheritance formula plain. Current wording preserves that allocation line.,inheritance formula,reviewed
+Judges 2:3,translation,I will not continue to move away the people,Greek keeps the not-continue-to-move-away warning explicit. Current wording preserves that judgment line rather than smoothing it.,judgment formula,reviewed
+1 Chronicles 29:9,translation,with full heart they were made willing to Lord,Greek uses the full-heart willingness line directly. Current wording preserves that voluntary-devotion formula.,devotion formula,reviewed
+Genesis 48:9,translation,whom God gave me here,Greek keeps Joseph's God-gave-me-here statement plain. Current wording preserves that family scene detail.,family speech,reviewed
+Leviticus 13:43,translation,white tinged red,Greek stacks the diagnostic color wording here. Current wording preserves that visual description.,diagnostic wording,reviewed
+2 Chronicles 34:31,translation,made covenant before Lord,Greek states the covenant-making line directly and then links it with walking before the Lord. Current wording preserves that reform formula.,covenant formula,reviewed
+Genesis 48:18,translation,Put your right hand on his head.,Greek gives Joseph's right-hand request directly. Current wording preserves that explicit gesture.,blessing gesture,reviewed
+Leviticus 7:15,translation,sacrifice of praise of salvation,Greek keeps the praise-of-salvation sacrificial phrase visible. Current wording preserves that cultic wording rather than harmonizing it away.,cultic lexical choice,reviewed
+Deuteronomy 28:61,translation,every sickness and every blow not written,Greek keeps the not-written sickness-and-blow warning explicit. Current wording preserves that judgment formula.,judgment formula,reviewed
+Exodus 20:6,translation,showing mercy into thousands,Greek uses mercy into thousands here. Current wording preserves that mercy formula rather than smoothing it to a generic kindness line.,mercy formula,reviewed
+Numbers 32:11,translation,who know evil and good,Greek keeps the know-evil-and-good description and the follow-after-me line explicit. Current wording preserves both.,oath formula,reviewed
+Deuteronomy 12:12,translation,because he has no portion or inheritance with you,Greek states the Levite's lack of portion or inheritance directly. Current wording preserves that support rationale.,inheritance formula,reviewed
+Numbers 26:6,translation,"the clan of the Hezronite; of Carmi, the clan of the Carmite",Greek uses the terse clan formula here. Current wording preserves that genealogy pattern.,genealogy formula,reviewed
+1 Kings 13:30,translation,"Alas, brother.",Greek keeps the mourning cry very short and stark. Current wording preserves that lament line.,mourning cry,reviewed
+Genesis 24:59,translation,what belonged to her,Greek says what belonged to her rather than specifying a nurse here. Current wording preserves that broader possession phrase.,household detail,reviewed
+Leviticus 27:33,translation,both it and its exchange shall be holy,Greek repeats exchange language for emphasis. Current wording preserves that legal formula.,legal formula,reviewed
+2 Kings 23:34,translation,changed his name to Ioakim,Greek states the royal renaming directly and then says he brought Ioachas into Egypt. Current wording preserves that sequence.,name-change formula,reviewed
+2 Kings 20:9,translation,Shall the shadow go forward ten steps,Greek frames the sign as a direct choice between forward and backward movement of the shadow. Current wording preserves that form.,sign formula,reviewed
+1 Samuel 1:4,translation,to her sons and her daughters portions,Greek lists both sons and daughters receiving portions. Current wording preserves that family distribution detail.,family distribution,reviewed
+Numbers 6:11,translation,what he sinned concerning the dead person,Greek states the offense with direct reference to the dead person. Current wording preserves that ritual explanation.,ritual explanation,reviewed
+2 Kings 19:30,translation,take root downward and make fruit upward,Greek keeps the rootedness-and-fruit image direct. Current wording preserves that restoration picture.,restoration image,reviewed
+Judges 20:7,translation,give to yourselves word and counsel,Greek uses the give-yourselves-word-and-counsel line directly. Current wording preserves that deliberation formula.,deliberation formula,reviewed
+1 Chronicles 16:37,translation,each day’s matter for its day,Greek keeps the day-by-day service formula compact. Current wording preserves that liturgical line.,service formula,reviewed
+Exodus 10:12,translation,let the locust come up on the land,Greek frames the plague as a direct command for locust to come up and consume what hail left. Current wording preserves that command form.,plague formula,reviewed
+Numbers 6:24,translation,May the Lord bless you and keep you.,Greek gives the blessing in a very compact two-part form. Current wording preserves that familiar formula.,blessing formula,reviewed
+Leviticus 1:1,translation,the tent of testimony,Greek says tent of testimony here. Current wording preserves that tabernacle title.,sanctuary title,reviewed
+2 Chronicles 35:19,translation,In eighteenth year of reign of Iōsias,Greek gives a terse dating line here. Current wording preserves that compact historical notice.,date formula,reviewed
+2 Samuel 18:20,translation,You are not a bearer of good news on this day,Greek states the restriction with the bearer-of-good-news line directly. Current wording preserves that wording.,message formula,reviewed
+Deuteronomy 3:7,translation,we plundered for ourselves,Greek states the taking of cattle and city spoils as plunder for ourselves. Current wording preserves that war-plunder line.,war plunder formula,reviewed
+1 Kings 8:9,translation,nothing in the ark except two stone tablets,Greek keeps the ark contents statement very direct. Current wording preserves that covenant-tablets line.,ark formula,reviewed
+Genesis 6:15,translation,the length of the ark three hundred cubits,Greek gives the ark dimensions in a plain measurement sequence. Current wording preserves that construction formula.,measurement formula,reviewed
+Exodus 28:29,translation,on the breastpiece of judgments upon his chest,Greek says breastpiece of judgments and chest here. Current wording preserves those priestly terms rather than harmonizing them to more familiar labels.,priestly terminology,reviewed
+Numbers 11:6,translation,our life is dried up,Greek states the complaint as life dried up. Current wording preserves that stark wilderness complaint.,complaint formula,reviewed
+Exodus 25:36,translation,All shall be one beaten piece of pure gold.,Greek keeps the one-piece beaten-gold craftsmanship line explicit. Current wording preserves that construction detail.,craft formula,reviewed
+Deuteronomy 8:14,translation,your heart be lifted up and you forget,Greek pairs lifted-up heart with forgetting the Lord. Current wording preserves that warning sequence.,warning formula,reviewed
+2 Kings 19:27,translation,your sitting and your going out and your going in,Greek uses the full sitting-going-out-going-in formula. Current wording preserves that surveillance line.,judgment formula,reviewed
+1 Chronicles 2:2,translation,"Dan, Ioseph, Beniamin, Nephthali, Gad, Aser.",Greek gives a terse tribal name list here. Current wording preserves that compact register.,name list,reviewed
+Deuteronomy 1:18,translation,all the matters that you should do,Greek summarizes the commands as all the matters you should do. Current wording preserves that broad summary line.,summary formula,reviewed
+Leviticus 13:35,translation,the scaly patch spreads in the skin,Greek keeps the diagnostic spread language explicit. Current wording preserves that inspection formula.,diagnostic wording,reviewed
+2 Chronicles 27:3,translation,He built high gate of house of Lord,Greek gives a compact building notice with the high gate and Ophal wall. Current wording preserves that terse report.,building notice,reviewed
+Judges 5:31,translation,those loving him are as the rising of the sun,Greek contrasts perishing enemies with those loving him like the sun's rising. Current wording preserves that poetic image.,poetic image,reviewed
+Leviticus 14:16,translation,his right finger in the oil that is on his left hand,Greek keeps the hand-and-finger ritual detail very explicit. Current wording preserves that ceremonial action.,ritual detail,reviewed
+Exodus 2:8,translation,called the child's mother,"Greek gives the action in a plain sequence: go, then call the child's mother. Current wording preserves that narrative line.",narrative sequence,reviewed
+Numbers 4:2,translation,Take the headcount of the sons of Kohath,Greek uses headcount language here. Current wording preserves that census formula.,census formula,reviewed
+1 Chronicles 2:1,translation,These are names of the sons of Israel,Greek opens with a compact name-heading formula. Current wording preserves that register line.,name heading,reviewed
+2 Samuel 7:3,translation,All things whatever are in your heart,Greek gives Nathan's advice with the in-your-heart line directly. Current wording preserves that counsel formula.,counsel formula,reviewed
+2 Chronicles 29:33,translation,holy things were six hundred calves and three thousand sheep,Greek states the tally with holy-things language. Current wording preserves that offering count.,offering tally,reviewed
+Exodus 16:13,translation,quail came up and covered the camp,Greek gives the quail arrival in a direct came-up-and-covered sequence. Current wording preserves that scene.,narrative sequence,reviewed
+Leviticus 13:15,translation,The healthy flesh is unclean.,Greek uses healthy flesh as the diagnostic term here. Current wording preserves that counterintuitive inspection line.,diagnostic wording,reviewed
+Deuteronomy 16:21,translation,"a grove, any tree",Greek keeps the prohibition with both grove and any tree. Current wording preserves that paired ban.,prohibition formula,reviewed
+Deuteronomy 32:9,translation,the measuring line of his inheritance,Greek uses measuring-line language for Israel here. Current wording preserves that inheritance image.,inheritance image,reviewed
+1 Samuel 12:8,translation,our fathers cried out to the Lord,Greek keeps the cried-out line before the sending of Moses and Aaron. Current wording preserves that retelling sequence.,retelling formula,reviewed
+1 Kings 18:24,translation,call in the name of your gods,Greek uses call in the name here and repeats the formula for Elijah. Current wording preserves that challenge wording.,name-invocation formula,reviewed
+Numbers 27:8,translation,put his inheritance upon his daughter,Greek says put the inheritance upon the daughter. Current wording preserves that legal transfer line.,inheritance law,reviewed
+Judges 13:13,translation,let her keep herself,Greek phrases the warning reflexively here. Current wording preserves that form.,warning formula,reviewed
+Leviticus 8:18,translation,the ram for whole burnt offering,Greek gives the offering type directly in the approach line. Current wording preserves that ritual wording.,ritual formula,reviewed
+Numbers 24:21,translation,strong is your dwelling-place,Greek keeps the oracle's dwelling-place and nest-in-the-rock image direct. Current wording preserves that compact saying.,oracle image,reviewed
+Deuteronomy 26:1,translation,inherit it and dwell on it,Greek moves through enter → inherit → dwell in sequence. Current wording preserves that land-possession pattern.,entry formula,reviewed
+Exodus 15:12,translation,earth swallowed them,Greek states the result with a terse earth-swallowed-them line. Current wording preserves that compact victory image.,victory image,reviewed
+Numbers 9:2,translation,keep the Passover at its appointed time,Greek makes the timing formula explicit. Current wording preserves that festival line.,festival formula,reviewed
+Exodus 12:28,translation,went away and did just as the Lord commanded,Greek gives the response in a plain obedience sequence. Current wording preserves that pattern.,obedience formula,reviewed
+Numbers 35:19,translation,The avenger of blood,Greek names the legal actor with the avenger-of-blood title directly. Current wording preserves that law formula.,legal formula,reviewed
+2 Kings 9:7,translation,destroy the house of Achaab your lord,Greek pairs the destroy-house command with avenging the blood of the Lord's servants. Current wording preserves that judgment sequence.,judgment formula,reviewed
+Judges 11:40,translation,From days to days,Greek uses the from-days-to-days formula for the recurring custom. Current wording preserves that idiom.,custom formula,reviewed
+Deuteronomy 32:7,translation,Remember days of old,Greek opens with remember and understand before asking father and elders. Current wording preserves that teaching sequence.,teaching formula,reviewed
+Genesis 31:14,translation,a portion or inheritance,Greek pairs portion and inheritance in the sisters' question. Current wording preserves that family-property line.,inheritance formula,reviewed
+1 Chronicles 5:15,translation,chief of house of fathers,Greek uses the terse chief-of-house-of-fathers formula here. Current wording preserves that genealogy title.,genealogy title,reviewed
+Leviticus 13:38,translation,bright spots pale white bright spots,Greek stacks visual descriptors for the skin mark. Current wording preserves that diagnostic wording.,diagnostic wording,reviewed
+2 Kings 2:25,translation,from there he returned to Samaria,Greek gives a plain travel notice from Carmel back to Samaria. Current wording preserves that sequence.,travel notice,reviewed
+2 Samuel 24:1,translation,again the anger of the Lord burned in Israel,"Greek states the provocation here with the Lord's anger, not a secondary agent. Current wording preserves that source-row theology.",judgment theology,reviewed
+Deuteronomy 20:12,translation,if they do not obey you and make war against you,"Greek gives the refusal as not obeying, then making war. Current wording preserves that sequence.",war-law formula,reviewed
+Nehemiah 6:12,translation,God had not sent him,Greek makes Nehemiah's recognition explicit: God had not sent him. Current wording preserves that discernment line.,discernment formula,reviewed
+Numbers 23:5,translation,God put a word in Balaam's mouth,Greek uses the direct mouth formula for Balaam's oracle. Current wording preserves that prophetic line.,oracle formula,reviewed
+1 Chronicles 7:26,translation,Laadan his son Amioud his son Elisama his son,Greek gives a terse chain of descent. Current wording preserves that genealogy rhythm.,genealogy list,reviewed
+Numbers 5:10,translation,each man's holy things shall be his,Greek states ownership twice in compact form. Current wording preserves that legal line.,ownership formula,reviewed
+Deuteronomy 22:26,translation,no sin worthy of death,Greek explicitly says the young woman has no sin of death. Current wording preserves that legal judgment.,legal formula,reviewed
+Genesis 31:46,translation,Gather stones,Greek keeps the covenant scene in a terse gather-stones → heap → meal sequence. Current wording preserves that pattern.,covenant scene,reviewed
+Leviticus 13:19,translation,a white swelling or a white bright spot tinged reddish,Greek stacks the visual descriptors for the sore site. Current wording preserves that diagnostic wording.,diagnostic wording,reviewed
+Leviticus 20:9,translation,speaks evil of his father or of his mother,Greek uses speaks-evil language here. Current wording preserves that legal formula.,legal formula,reviewed
+Leviticus 27:29,translation,shall not be redeemed,"Greek keeps the devoted-object ruling stark: no redemption, only death. Current wording preserves that severity.",devotion law,reviewed
+1 Kings 8:25,translation,a man for you will not be lifted away from before me,Greek phrases the Davidic promise with not be lifted away from before me. Current wording preserves that promise formula.,royal promise formula,reviewed
+2 Kings 6:28,translation,Give your son and let us eat him today,Greek reports the woman's proposal directly and starkly. Current wording preserves that horror without smoothing.,reported speech,reviewed
+2 Kings 21:13,translation,the measure of Samaria and the plummet of the house of Achaab,Greek uses measuring tools and wiped-vessel imagery for judgment. Current wording preserves that image-cluster.,judgment image,reviewed
+2 Chronicles 29:20,translation,rose early and gathered rulers of city,Greek gives a terse reform-action line. Current wording preserves that narrative sequence.,reform sequence,reviewed
+2 Chronicles 32:5,translation,built all wall that had been pulled down,Greek strings the fortification actions together in sequence. Current wording preserves that defense-building line.,fortification sequence,reviewed
+Judges 11:22,translation,inherited all the border of the Amorite,Greek states the territorial possession directly. Current wording preserves that border formula.,border formula,reviewed
+Genesis 31:45,translation,set it up as a pillar,Greek gives the stone-to-pillar action in a compact line. Current wording preserves that memorial act.,memorial act,reviewed
+Genesis 46:13,translation,Thola and Phua and Iasub and Zambram,Greek preserves this specific source-row sequence of names. Current wording keeps that list rather than harmonizing it.,name list,reviewed
+Exodus 23:30,translation,Little by little I will drive them out,Greek repeats little for emphasis. Current wording preserves that gradual-expulsion formula.,gradual-expulsion formula,reviewed
+Deuteronomy 21:12,translation,shave her head and pare her nails,Greek keeps the captive-woman ritual sequence explicit. Current wording preserves that law detail.,law detail,reviewed
+Genesis 22:22,translation,Chazad and Azau and Phaldes and Jeldaph and Bathouel,Greek preserves this exact proper-name list. Current wording keeps the source-row forms plain.,name list,reviewed
+Nehemiah 3:5,translation,did not bring their neck into service,Greek uses a neck-into-service idiom here. Current wording preserves that refusal image.,idiom,reviewed
+Numbers 31:13,translation,went out to meet them outside the camp,Greek keeps the reception scene in a direct sequence. Current wording preserves that meeting line.,meeting formula,reviewed
+Deuteronomy 1:2,translation,Eleven days from Horeb,Greek gives a terse travel-distance note here. Current wording preserves that compact notice.,distance note,reviewed
+Judges 11:5,translation,went to take Jephthae from the land of Tob,Greek gives the elders' action in a compact fetch-take line. Current wording preserves that sequence.,narrative sequence,reviewed
+1 Kings 18:14,translation,and he will kill me,Greek ends Obadiah's fear with a blunt kill-me line. Current wording preserves that direct fear.,fear line,reviewed
+2 Chronicles 10:7,translation,become for good to this people,Greek phrases the counsel as becoming for good to the people. Current wording preserves that unusual wording.,counsel formula,reviewed
+Judges 7:7,translation,by the three hundred men who lapped,Greek identifies the saving group with the lapping men. Current wording preserves that distinctive selection line.,deliverance formula,reviewed
+Leviticus 25:24,translation,give redemption for the land,Greek keeps redemption language explicit here. Current wording preserves that land-law formula.,land law,reviewed
+Leviticus 22:8,translation,a dead thing or what is caught by beasts,Greek names both forbidden sources of meat. Current wording preserves that paired food-law line.,food law,reviewed
+Numbers 7:7,translation,the two wagons and the four oxen,Greek gives the allocation in a plain inventory line. Current wording preserves that tally.,allocation formula,reviewed
+Ruth 3:1,translation,seek for you rest,Greek uses rest language for Naomi's plan. Current wording preserves that household-care phrase.,family care,reviewed
+Genesis 13:13,translation,evil and exceedingly sinful before God,Greek stacks both moral descriptors here. Current wording preserves that sharp description.,moral description,reviewed
+1 Samuel 2:26,translation,grew and was good both with Lord and with men,Greek gives Samuel's growth summary in a compact formula. Current wording preserves that line.,growth formula,reviewed
+Exodus 2:9,translation,keep this child for me and nurse him for me,Greek repeats for me with both commands. Current wording preserves that doubled request and the wages line.,speech formula,reviewed
+Nehemiah 13:28,translation,I drove him out from me,Greek ends with Nehemiah's personal expulsion line. Current wording preserves that blunt close.,personal expulsion,reviewed
+Deuteronomy 15:1,translation,you shall make a release,Greek uses the short release formula here. Current wording preserves that direct command.,release formula,reviewed
+1 Samuel 1:10,translation,weeping she wept,Greek doubles the weeping expression. Current wording preserves that emphatic grief line.,emotional intensifier,reviewed
+1 Chronicles 16:6,translation,with trumpets continually before ark of covenant of God,Greek gives a compact service notice here. Current wording preserves the continual-before-the-ark wording.,liturgical service,reviewed
+2 Kings 19:22,translation,Against the Holy One of Israel,Greek piles the rebuke questions and lands on the Holy One of Israel. Current wording preserves that force.,taunt formula,reviewed
+Numbers 20:26,translation,Aaron being added shall die there,Greek uses the being-added death formula after the robe transfer. Current wording preserves that sequence.,death formula,reviewed
+Leviticus 14:57,translation,to explain the day when it is unclean and the day when it is clean,Greek closes with an explanatory formula. Current wording preserves that summary line.,closing formula,reviewed
+Numbers 11:23,translation,Is the Lord's hand not enough?,Greek gives a blunt rhetorical question before the promise. Current wording preserves that challenge.,rhetorical question,reviewed
+2 Kings 11:7,translation,two divisions among you,Greek uses hands idiom for the guard groups. Current wording preserves the division sense in context.,guard idiom,reviewed
+2 Kings 17:19,translation,Judah also did not keep the commandments,Greek explicitly turns the charge toward Judah too. Current wording preserves that added indictment.,judgment line,reviewed
+Numbers 1:6,translation,from Simeon Shelumiel son of Zurishaddai,Greek gives a plain tribal listing line here. Current wording preserves that register.,listing formula,reviewed
+Deuteronomy 12:13,translation,Watch yourself lest you bring up your whole burnt offerings,Greek opens with a watch-yourself warning. Current wording preserves that cautionary form.,warning formula,reviewed
+Exodus 34:21,translation,in seedtime and harvest you shall rest,Greek repeats rest in both clauses. Current wording preserves that repetition.,sabbath formula,reviewed
+Nehemiah 1:10,translation,redeemed by your great power and your strong hand,Greek uses the familiar power-and-hand redemption line. Current wording preserves it.,prayer formula,reviewed
+Deuteronomy 32:23,translation,I will gather evils upon them,Greek stacks the judgment threats here. Current wording preserves that severity.,judgment threat,reviewed
+Deuteronomy 32:28,translation,a nation ruined of counsel,Greek gives a blunt national assessment. Current wording preserves that phrasing.,assessment line,reviewed
+Ezra 5:11,translation,servants of God of heaven and earth,Greek gives the answer in formal report style. Current wording preserves that shape and the completed-it close.,report formula,reviewed
+Leviticus 11:41,translation,every creeping thing that creeps upon the earth,Greek repeats the creeping term in this food-law ban. Current wording preserves that line.,food law,reviewed
+Genesis 12:1,translation,from your land and from your kin and from your father's house,Greek stacks the departure command in three parts. Current wording preserves that sequence.,call formula,reviewed
+Genesis 19:29,translation,God remembered Abraham,Greek ties Lot's rescue to God's remembering Abraham. Current wording preserves that link and the overthrow language.,deliverance summary,reviewed
+Numbers 4:22,translation,Take the headcount of the sons of Gershon,Greek uses the standard census formula here. Current wording preserves that register.,census formula,reviewed
+Deuteronomy 28:46,translation,signs and wonders,Greek gives the curse result in the signs-and-wonders formula. Current wording preserves that wording.,curse formula,reviewed
+Genesis 17:7,translation,to be God to you and to your seed after you,Greek closes the covenant line with that explicit formula. Current wording preserves it.,covenant formula,reviewed
+Genesis 8:5,translation,the water kept diminishing,Greek uses an ongoing diminishing line in the flood chronology. Current wording preserves that sequence.,flood chronology,reviewed
+Leviticus 11:8,translation,their carcasses you shall not touch,Greek joins eating and touching bans here. Current wording preserves both parts.,food law,reviewed
+Exodus 10:27,translation,he was not willing to send them away,Greek states Pharaoh's refusal with will language. Current wording preserves that line.,hardening formula,reviewed
+Exodus 15:20,translation,all the women went out after her with timbrels and dances,Greek gives a full processional line after Miriam takes the timbrel. Current wording preserves that scene.,victory song scene,reviewed
+Deuteronomy 18:4,translation,the firstfruits of the shearings of your sheep,Greek keeps this priestly due in the same inventory line. Current wording preserves that tally.,priestly due,reviewed
+Exodus 32:21,translation,you brought a great sin upon them,Greek frames Moses' rebuke with the great-sin charge. Current wording preserves that force.,rebuke question,reviewed
+Genesis 17:2,translation,I will place my covenant between me and you,Greek uses place language here before the multiplication promise. Current wording preserves that covenant line.,covenant promise,reviewed
+Exodus 28:35,translation,its sound shall be heard,Greek centers this warning on the garment's sound being heard. Current wording preserves that priestly warning.,priestly warning,reviewed
+Numbers 31:24,translation,after these things you shall enter into the camp,Greek closes the purification line with camp reentry. Current wording preserves that sequence.,purification sequence,reviewed
+2 Kings 21:12,translation,both his ears will ring,Greek uses the ringing-ears judgment formula. Current wording preserves that warning.,judgment warning,reviewed
+Joshua 10:42,translation,fought together with Israel,Greek uses with-Israel battle language here. Current wording preserves that victory summary.,victory summary,reviewed
+Judges 15:13,translation,we will surely bind you and hand you over,Greek stacks the bind-and-hand-over assurance. Current wording preserves that oath response.,oath response,reviewed
+Numbers 3:24,translation,chief of the fathers' house,Greek gives a plain office listing here. Current wording preserves that register.,genealogical office,reviewed
+1 Chronicles 21:8,translation,take away evil of your servant,Greek uses remove-evil language in David's confession. Current wording preserves that plea.,confession prayer,reviewed
+Exodus 23:32,translation,no covenant with them or with their gods,Greek states the covenant ban in compact form. Current wording preserves that line.,covenant ban,reviewed
+Numbers 10:8,translation,everlasting statute throughout your generations,Greek closes with the statute formula. Current wording preserves it.,ritual statute,reviewed
+Genesis 38:13,translation,your father-in-law is going up to Timnah,Greek frames the notice as a reported message to Tamar. Current wording preserves that shape.,report notice,reviewed
+Judges 16:23,translation,the satraps of the foreigners gathered,Greek opens with a formal festival gathering line. Current wording preserves that setting and the boast.,festival scene,reviewed
+Judges 8:32,translation,in a good old age,Greek uses the standard good-old-age death formula here. Current wording preserves it.,death notice,reviewed
+Leviticus 7:6,translation,it is holy of holies,Greek closes the priestly food-law line with that formula. Current wording preserves it.,priestly food law,reviewed
+2 Chronicles 6:42,translation,remember mercies of Dauid your servant,Greek closes Solomon's prayer with a mercy-remembrance appeal. Current wording preserves that line.,closing prayer,reviewed
+Deuteronomy 18:21,translation,if you say in your heart,Greek frames the question inwardly first. Current wording preserves that setup.,testing prophet question,reviewed
+2 Chronicles 20:35,translation,joined himself with Ochozias,"Greek uses alliance language, then gives a lawless verdict. Current wording preserves both.",political alliance,reviewed
+2 Kings 10:29,translation,did not turn away from after them,Greek keeps the residual-sin note in that form. Current wording preserves it.,residual sin note,reviewed
+2 Samuel 7:12,translation,who will be from your belly,Greek uses body-source language in the dynastic promise. Current wording preserves that phrase.,dynastic promise,reviewed
+Genesis 44:14,translation,they fell before him to the ground,Greek gives the submission scene in direct form. Current wording preserves it.,submission scene,reviewed
+Genesis 9:3,translation,as green herbs I have given you all things,Greek frames this as a sweeping food grant. Current wording preserves that breadth.,food grant,reviewed
+Deuteronomy 30:8,translation,you shall turn back and obey the voice,Greek joins return and obedience in one line. Current wording preserves that formula.,return formula,reviewed
+1 Kings 8:22,translation,spread out his hands toward heaven,Greek marks Solomon's prayer stance with that gesture. Current wording preserves it.,prayer posture,reviewed
+Genesis 26:10,translation,you would have brought guilt on us in ignorance,Greek closes the rebuke with ignorance language. Current wording preserves that warning.,rebuke warning,reviewed
+Exodus 16:15,translation,What is this?,Greek keeps the manna question in blunt repeated form. Current wording preserves it.,manna question,reviewed
+Judges 20:6,translation,cut her up and sent her,Greek gives the atrocity report in direct terms. Current wording preserves that force.,atrocity report,reviewed
+1 Kings 22:39,translation,the ivory house that he built,Greek includes the ivory-house detail in the royal summary. Current wording preserves it.,royal summary,reviewed
+Numbers 28:4,translation,the one lamb you shall do,Greek uses do-language for the daily offering schedule. Current wording preserves that pattern.,offering schedule,reviewed
+Genesis 46:19,translation,"the sons of Rachel, Jacob's wife",Greek gives the maternal identification in the list. Current wording preserves it.,genealogical listing,reviewed
+Leviticus 4:32,translation,a female without blemish,Greek states the offering requirement in compact form. Current wording preserves it.,sin offering option,reviewed
+1 Kings 17:4,translation,the ravens to feed you there,Greek gives the provision promise with ravens and wadi together. Current wording preserves that line.,provision promise,reviewed
+Genesis 12:12,translation,they will kill me but preserve you,Greek closes Abram's fear scenario with preserve-you language. Current wording preserves it.,fear scenario,reviewed
+Numbers 34:29,translation,divide the land for the sons of Israel,Greek uses the standard allotment wording here. Current wording preserves it.,land allotment formula,reviewed
+2 Kings 24:7,translation,no longer added to go out from his land,Greek uses no-longer-added language for Egypt's king. Current wording preserves that formula.,no-longer formula,reviewed
+Judges 18:6,translation,Go in peace,Greek gives a compact travel blessing here. Current wording preserves it.,travel blessing,reviewed
+Leviticus 25:55,translation,the sons of Israel are mine as domestics,Greek uses ownership language with paired servant terms. Current wording preserves that force.,ownership formula,reviewed
+Numbers 11:14,translation,I alone to bear all this people,Greek centers Moses' complaint on solitary burden-bearing. Current wording preserves that line.,complaint line,reviewed
+Numbers 3:15,translation,by the houses of their fathers by their clans by their families,Greek stacks the muster categories in sequence. Current wording preserves that full register.,muster formula,reviewed
+2 Chronicles 20:7,translation,seed of Abraam your beloved,Greek uses beloved language for Abraham here. Current wording preserves it.,covenant appeal,reviewed
+2 Kings 15:35,translation,the upper gate of the house of the Lord,Greek includes that building detail in the regnal notice. Current wording preserves it.,regnal evaluation,reviewed
+Deuteronomy 25:17,translation,Remember what Amalek did to you,Greek opens with a direct remembrance command. Current wording preserves it.,remembrance command,reviewed
+Judges 9:39,translation,Gaal went out before the men of Sikima,Greek gives a compact battle notice here. Current wording preserves it.,battle notice,reviewed
+Leviticus 4:8,translation,all the fat of the calf for sin,Greek begins the offering procedure with that inventory line. Current wording preserves it.,offering procedure,reviewed
+Numbers 16:19,translation,Korah gathered his whole congregation,Greek frames the rebellion as a gathered assembly. Current wording preserves that scene.,rebellion gathering,reviewed
+Numbers 6:26,translation,lift up his face upon you and give you peace,Greek keeps this blessing line in direct form. Current wording preserves it.,birkat line,reviewed
+2 Kings 23:18,translation,Let no man move his bones,Greek keeps the bones notice in blunt command form. Current wording preserves it.,bones notice,reviewed
+Deuteronomy 19:10,translation,innocent blood shall not be shed,Greek states the law's purpose with innocent-blood language. Current wording preserves it.,law purpose clause,reviewed
+Exodus 35:10,translation,every wise-hearted person among you,Greek uses the wise-hearted craft formula here. Current wording preserves it.,craft summons,reviewed
+Deuteronomy 15:16,translation,it is well for him with you,Greek uses good-with-you language for the servant's choice. Current wording preserves it.,servant loyalty clause,reviewed
+Exodus 28:9,translation,the two emerald stones,Greek opens the instruction with inscribed stones. Current wording preserves that detail.,inscribed stones,reviewed
+Leviticus 11:47,translation,between the unclean and the clean,Greek gives the law's close in distinction language. Current wording preserves it.,distinction formula,reviewed
+1 Samuel 31:13,translation,buried them under the tamarisk tree at Iabis and fasted seven days,Greek keeps burial and mourning together. Current wording preserves that notice.,burial notice,reviewed
+Exodus 12:8,translation,roasted by fire and unleavened bread,Greek gives the meal instructions in compact sequence. Current wording preserves it.,passover meal,reviewed
+Exodus 7:2,translation,Aaron your brother shall speak to Pharaoh,Greek splits the commission between Moses and Aaron. Current wording preserves that structure.,commission line,reviewed
+Genesis 24:38,translation,to my father's house and to my tribe,Greek keeps both family-location terms. Current wording preserves them.,marriage commission,reviewed
+Numbers 32:13,translation,drove them round in the wilderness forty years,Greek uses circling-wilderness language here. Current wording preserves it.,judgment wandering,reviewed
+Deuteronomy 6:23,translation,he brought us out from there so that he might bring us in,Greek gives the redemption purpose in paired out/in language. Current wording preserves it.,redemption purpose,reviewed
+Judges 18:16,translation,the six hundred men girded with weapons of war,Greek frames the scene with armed Danites at the gate. Current wording preserves it.,guard scene,reviewed
+1 Kings 15:3,translation,his heart was not perfect with the Lord his God,Greek uses perfect-heart language in the regnal assessment. Current wording preserves it.,regnal assessment,reviewed
+1 Kings 18:8,translation,I am,Greek keeps Elijah's self-identification abrupt and brief. Current wording preserves it.,recognition formula,reviewed
+2 Kings 25:2,translation,the city came under siege,Greek gives the siege notice in compact form. Current wording preserves it.,siege notice,reviewed
+2 Kings 8:7,translation,the man of God has come here,Greek closes the report with here-language. Current wording preserves it.,arrival report,reviewed
+Judges 13:21,translation,did not continue any longer to appear,Greek uses the no-longer-appear formula here. Current wording preserves it.,appearance cease notice,reviewed
+Judges 17:12,translation,filled the hand of the Levite,Greek uses the filled-the-hand ordination idiom. Current wording preserves it.,ordination idiom,reviewed
+Nehemiah 13:11,translation,Why was house of God forsaken?,Greek gives Nehemiah's rebuke in direct question form. Current wording preserves it.,rebuke scene,reviewed
+Numbers 1:16,translation,called ones of the congregation,Greek uses a formal leadership title here. Current wording preserves it.,leadership listing,reviewed
+Numbers 35:16,translation,the murderer shall surely be put to death,Greek uses the doubled death formula for the verdict. Current wording preserves it.,homicide law,reviewed
+1 Samuel 2:34,translation,in one day both will die,Greek gives the sign in that direct line. Current wording preserves it.,sign oracle,reviewed
+2 Kings 25:30,translation,a continual allowance,Greek repeats the provision noun for emphasis. Current wording preserves that continuity.,royal provision,reviewed
+Exodus 29:6,translation,the holy plate on the turban,Greek keeps the priestly vestment instruction compact. Current wording preserves it.,priestly vestment,reviewed
+Genesis 37:12,translation,went to pasture their father's sheep,Greek gives a plain pastoral scene notice. Current wording preserves it.,pastoral notice,reviewed
+Judges 2:13,translation,served Baal and the Astartes,Greek closes the line with named idol service. Current wording preserves it.,idolatry summary,reviewed
+1 Chronicles 22:10,translation,he shall be to me for son and I to him for father,Greek gives the dynastic oracle in direct covenant language. Current wording preserves it.,dynastic oracle,reviewed
+Genesis 45:27,translation,the spirit of Jacob their father revived,Greek marks Jacob's response with revived-spirit language. Current wording preserves it.,revival notice,reviewed
+Numbers 9:12,translation,they shall not break a bone of it,Greek keeps the Passover bone line explicit. Current wording preserves it.,passover law,reviewed
+1 Chronicles 21:20,translation,his four sons with him were hiding themselves,Greek gives the scene with a hiding note. Current wording preserves it.,scene notice,reviewed
+1 Samuel 11:13,translation,today the Lord has worked salvation in Israel,Greek uses salvation language in Saul's mercy ruling. Current wording preserves it.,victory mercy line,reviewed
+Deuteronomy 28:34,translation,you shall be maddened by the sights of your eyes,Greek expresses the curse as mental derangement from what is seen. Current wording preserves it.,curse effect,reviewed
+Exodus 36:5,translation,the people are bringing more than enough,Greek gives a direct abundance report. Current wording preserves it.,craft report,reviewed
+Genesis 46:30,translation,From now on I will die,Greek uses that abrupt recognition-climax statement. Current wording preserves it.,recognition climax,reviewed
+Leviticus 16:19,translation,sprinkle some of the blood on it with his finger seven times,Greek gives the atonement action in a clear ritual sequence. Current wording preserves it.,atonement procedure,reviewed
+Numbers 1:15,translation,from Naphtali Ahira son of Enan,Greek gives a plain tribal listing line here. Current wording preserves that register.,genealogical listing,reviewed
+Numbers 1:9,translation,from Zebulun Eliab son of Helon,Greek gives a plain tribal listing line here. Current wording preserves that register.,genealogical listing,reviewed
+1 Chronicles 1:34,translation,Sons of Isaak,Greek compresses this genealogy into a short summary line. Current wording preserves it.,genealogical summary,reviewed
+1 Samuel 1:26,translation,your soul lives,Greek uses the oath-identification formula here. Current wording preserves it.,oath identification,reviewed
+Numbers 22:2,translation,Balak son of Zippor saw,Greek begins the scene with Balak's seeing. Current wording preserves that setup.,scene setup,reviewed
+2 Chronicles 6:41,translation,"into your resting place, you and ark of your strength",Greek closes the prayer with rest-place and ark language. Current wording preserves it.,temple prayer close,reviewed
+Deuteronomy 30:7,translation,put these curses on your enemies,Greek turns the curses back on the enemies. Current wording preserves that reversal.,reversal curse line,reviewed
+Exodus 18:25,translation,commanders of thousands and hundreds and fifties and tens,Greek lists the leadership tiers in sequence. Current wording preserves it.,leadership structuring,reviewed
+2 Chronicles 33:12,translation,humbled himself greatly,Greek marks Manasseh's turn with strong humility language. Current wording preserves it.,repentance note,reviewed
+Exodus 23:33,translation,these will be a stumbling block to you,Greek closes the warning with stumbling-block language. Current wording preserves it.,warning clause,reviewed
+Genesis 35:25,translation,Rachel's servant-girl,Greek identifies the sons through their mother here. Current wording preserves that listing.,genealogical listing,reviewed
+Numbers 25:12,translation,I give him a covenant of peace,Greek gives the covenant grant in direct form. Current wording preserves it.,covenant grant,reviewed
+2 Samuel 12:6,translation,repay the ewe lamb sevenfold,Greek states David's verdict with sevenfold repayment language. Current wording preserves it.,judgment verdict,reviewed
+Leviticus 24:19,translation,as he did so it shall be done back to him,Greek gives the retaliation rule in direct form. Current wording preserves it.,retaliation law,reviewed
+Joshua 13:18,translation,Jassa and Kedemoth and Mephaath,Greek gives a plain place-name list here. Current wording preserves it.,territory listing,reviewed
+1 Chronicles 7:22,translation,mourned many days,Greek marks Ephraim's grief with that phrase. Current wording preserves it.,mourning notice,reviewed
+2 Chronicles 27:4,translation,in forests dwellings and towers,Greek keeps the building list compact. Current wording preserves it.,building summary,reviewed
+Genesis 37:30,translation,where shall I still go?,Greek gives Reuben's grief as a direct question. Current wording preserves it.,grief cry,reviewed
+Nehemiah 13:10,translation,portions of the Levites had not been given,Greek frames the reform issue with withheld portions. Current wording preserves it.,reform notice,reviewed
+2 Samuel 21:13,translation,ones exposed to the sun,Greek literally says ones exposed to the sun. Other traditions often smooth this to those hanged.,lexical + textual,reviewed
+Genesis 4:24,translation,Because Cain has been avenged sevenfold,Greek opens the saying with because and presents it as a declaration rather than the more familiar if-form.,syntax + textual,reviewed
+Leviticus 9:10,translation,he offered on the altar,Greek says offered on the altar here. Other English traditions often smooth this to burned on the altar.,sacrificial diction,reviewed
+Exodus 20:15,translation,You shall not murder.,"In the Greek order here, adultery comes first, then theft, then murder. Current wording follows the LXX verse order.",commandment order + witness,reviewed
+1 Chronicles 21:26,translation,consumed whole burnt offering,Greek explicitly adds that the fire consumed the whole burnt offering.,textual + sacrificial,reviewed
+1 Samuel 5:12,translation,struck in their seats,Greek literally says struck in their seats. Other traditions often interpret this as a disease-affliction.,lexical + textual,reviewed
+Numbers 25:16,translation,"And the Lord spoke to Moses, saying,","Greek verse division stops with the speech formula here. The command itself begins in the next verse.",verse division,reviewed
+Judges 6:35,translation,it also cried out after him,Greek repeats a cry-out verb here instead of smoothing the line to gathered or rallied.,lexical + textual,reviewed
+2 Kings 17:10,translation,pillars and groves,"Greek has pillars here, not images, and ends with a leafy or shady tree.",cultic diction,reviewed
+2 Samuel 23:7,translation,in their shame,Greek reads in their shame here. Other traditions often read in that place instead.,textual difference,reviewed
+2 Samuel 7:10,translation,will tabernacle by himself,Greek says he will tabernacle by himself and no longer be anxious.,dwelling idiom,reviewed
+2 Chronicles 31:19,translation,in every city and city,Greek repeats city by city and named by name in this administrative line.,administrative wording,reviewed
+1 Kings 2:4,translation,there will not be destroyed for you a man,Greek frames the promise with destroyed-language rather than fail-language.,promise formula,reviewed
+Deuteronomy 28:20,translation,want and withering and consumption,Greek gives a concrete curse triad here rather than a smoother summary.,curse triad,reviewed
+1 Samuel 18:27,translation,one hundred men,Greek says one hundred here. Other traditions often harmonize to two hundred.,number difference,reviewed
+Deuteronomy 9:3,translation,he will turn them back from before your face,Greek uses turn-back language here rather than simply bring them down.,motion wording,reviewed
+Deuteronomy 6:3,translation,"spoke, to give you a land",Greek keeps the speech form here instead of smoothing to promised.,speech formula,reviewed
+Joshua 6:18,translation,"lest, desiring, you yourselves take",Greek includes the desiring clause before the taking.,warning syntax,reviewed
+1 Kings 5:9,translation,And the Lord gave understanding to Solomon,This LXX verse number carries the Solomon-wisdom line rather than the MT shipping line.,verse mapping,reviewed
+Nehemiah 11:22,translation,over against work of house of God,Greek keeps the over-against phrasing here.,prepositional phrasing,reviewed
+Ezra 4:15,translation,runaways of slaves,Greek explicitly mentions runaways of slaves here.,lexical difference,reviewed
+Joshua 22:28,translation,likeness of the altar,Greek says likeness of the altar and keeps the witness line explicit.,cultic wording,reviewed
+1 Samuel 30:22,translation,pestilent and evil man,Greek uses a sharper insult phrase here rather than a smoother label.,insult phrase,reviewed
+Ezra 5:17,translation,after knowing concerning this,Greek keeps the sequence after knowing concerning this then let the king send to us.,clause sequence,reviewed
+Exodus 33:5,translation,glorious garments and ornaments,Greek names glorious garments together with ornaments here.,apparel wording,reviewed
+Numbers 16:3,translation,Let it be enough for you,Greek uses a let-it-be-enough idiom here.,idiom,reviewed
+Joshua 6:20,translation,shouted together with a great and strong shout,Greek piles up the shout language and says the wall fell around.,battle scene wording,reviewed
+Joshua 11:20,translation,from the Lord it came to strengthen their heart,Greek frames the hardening line with from the Lord it came to strengthen their heart.,causal wording,reviewed
+Leviticus 27:28,translation,holy of holies,Greek uses the holy-of-holies formula here.,cultic formula,reviewed
+Deuteronomy 31:12,translation,children and the proselyte in your cities,Greek gives that fuller assembly list here.,assembly wording,reviewed
+2 Samuel 2:23,translation,in the belly,Greek says in the belly here rather than the familiar under-the-fifth-rib phrasing.,bodily detail,reviewed
+Exodus 38:18,translation,He silver-covered the posts,This LXX verse number carries the furnishing line rather than the MT hanging-description line.,verse mapping,reviewed
+Judges 16:12,translation,ambush was sitting in the inner room,Greek keeps the ambush seated in the inner room and ends with like thread.,scene detail,reviewed
+Deuteronomy 2:24,translation,Begin to inherit; join battle with him,Greek gives the paired imperatives in that order.,paired imperatives,reviewed
+Deuteronomy 7:1,translation,many and stronger than you,Greek gives that direct pair for the seven nations.,nation description,reviewed
+Nehemiah 9:27,translation,gave them saviors,Greek uses saviors here and repeats those afflicting them around the clause.,rescue wording,reviewed
+1 Kings 4:13,translation,line-measure of Eregaba,"This LXX verse keeps a different district line here, with line-measure of Eregaba in Basan.",verse mapping,reviewed
+1 Samuel 31:4,translation,pierce me with it,Greek repeats the pierce verb in Saul's plea.,violent wording,reviewed
+Deuteronomy 19:5,translation,the iron flies from the wood and meets his neighbor,Greek narrates the accident with those motion verbs.,accident wording,reviewed
+Numbers 18:23,translation,they shall bear their sins,Greek states the burden clause directly here.,burden clause,reviewed
+Leviticus 18:3,translation,practices of the land,Greek uses practices here and repeats there you shall not do.,practice formula,reviewed
+2 Kings 7:9,translation,day of good news,Greek says good news here and later lawlessness will find us.,news formula,reviewed
+2 Chronicles 2:14,translation,let my lord send to his servants grain and barley,This LXX verse number carries the supply request line rather than the MT craftsman-description line.,verse mapping,reviewed
+Deuteronomy 13:3,translation,sign or wonder comes,Greek verse division here contains only the sign-and-invitation clause.,verse division,reviewed
+Nehemiah 10:28,translation,Mallouch Heram Baana,This LXX verse number here is a short three-name list.,name list,reviewed
+Joshua 24:15,translation,because he is holy,Greek explicitly adds that clause at the end.,added clause,reviewed
+1 Kings 8:47,translation,turn their hearts back,Greek keeps that repentance sequence before turn and entreat.,repentance phrasing,reviewed
+2 Kings 16:7,translation,those rising against me,Greek ends the appeal with that live threat wording.,threat clause,reviewed
+2 Samuel 12:3,translation,kept alive and nourished,Greek adds those tenderness verbs before the domestic details.,care wording,reviewed
+Leviticus 5:11,translation,bring as his gift for the sin that he sinned,Greek keeps that fuller sin-offering phrasing here.,offering wording,reviewed
+2 Chronicles 30:9,translation,shall be in mercies before all who took them captive,Greek uses that unusual in-mercies expression here.,mercy expression,reviewed
+2 Chronicles 31:1,translation,broke pillars and cut down groves,"Greek keeps the pillar-language here, not images.",cultic purge wording,reviewed
+Deuteronomy 25:11,translation,seizes his testicles,Greek literally says his twins here.,bodily term,reviewed
+2 Chronicles 30:8,translation,give glory to Lord God,Greek keeps that imperative rather than smoothing to yield yourselves.,imperative wording,reviewed
+Exodus 37:19,translation,ordering of the tent of testimony,This LXX verse number carries the tabernacle-ordering line rather than the MT lampstand-bowls line.,verse mapping,reviewed
+Genesis 31:43,translation,is mine and my daughters',Greek adds that possessive extension after all that you see is mine.,ownership claim,reviewed
+Deuteronomy 30:20,translation,this is your life,Greek reads this is your life rather than he is your life.,life formula,reviewed
+1 Kings 8:1,translation,after twenty years,Greek includes the twenty-year completion notice here.,verse mapping,reviewed
+Genesis 50:13,translation,double cave,Greek says the double cave rather than Machpelah here.,tomb wording,reviewed
+2 Kings 22:14,translation,Maseña,"Greek gives different household names and location details here, including Maseña.",name/place difference,reviewed
+1 Samuel 25:26,translation,innocent blood,Greek says innocent blood and saving your hand for yourself.,violent wording,reviewed
+2 Chronicles 13:11,translation,incense of compounded spices,Greek keeps a longer compounded worship list here.,cultic list,reviewed
+2 Kings 9:27,translation,Gai which is Ieblaam,Greek gives those place forms here.,place-name difference,reviewed
+Leviticus 6:4,translation,carry the ashes outside the camp,This LXX verse number carries the ash-removal line rather than the MT restitution line.,verse mapping,reviewed
+Leviticus 14:31,translation,with the sacrifice,Greek keeps with the sacrifice and the cleansing close here.,ritual close,reviewed
+2 Chronicles 19:10,translation,make distinction for them,Greek uses that judicial wording here.,judicial wording,reviewed
+Deuteronomy 29:18,translation,Holy things shall be mine,Greek here is markedly different and difficult; current wording keeps the transmitted strangeness visible.,difficult greek,reviewed
+2 Samuel 20:21,translation,This is not the matter,Greek opens the reply with that line and keeps the Sabee Bochori forms.,reply wording,reviewed
+Numbers 1:30,translation,sons of Joseph sons of Ephraim,This LXX verse number carries the Ephraim census heading rather than the MT Zebulun line.,verse mapping,reviewed
+1 Kings 11:11,translation,in tearing I will tear,Greek doubles the tearing verb here.,emphatic verb,reviewed
+Deuteronomy 30:16,translation,live and be many,Greek says be many rather than multiply here.,blessing wording,reviewed
+Deuteronomy 23:20,translation,interest of silver and interest of food,This LXX verse number carries the no-interest-to-brother line rather than the MT foreigner line.,verse mapping,reviewed
+1 Chronicles 6:49,translation,cities and their surrounding lands,This LXX verse number carries the Levite-city grant line rather than the MT Aaronic service line.,verse mapping,reviewed
+Numbers 30:14,translation,her husband shall establish it for her,Greek uses the establish-remove legal pair here.,legal wording,reviewed
+Numbers 24:17,translation,a man shall stand up out of Israel,Greek says man here rather than scepter.,figure difference,reviewed
+2 Chronicles 2:7,translation,cedar woods and juniper woods and pine woods,This LXX verse number carries the timber request line rather than the MT artisan request line.,verse mapping,reviewed
+Nehemiah 8:7,translation,stood in their place,Greek has a shorter personnel list and ends with the people standing in their place.,scene detail,reviewed
+2 Chronicles 9:29,translation,Iōēl the seer,Greek names Iōēl here rather than the familiar MT Iddo.,name difference,reviewed
+2 Kings 1:16,translation,And not so,Greek turns from the question into that abrupt line here.,abrupt turn,reviewed
+Joshua 19:47,translation,pressed boundary of their portion,Greek appends the Dan-Amorite pressure notice here rather than the MT Leshem notice.,verse mapping,reviewed
+Deuteronomy 13:5,translation,to him you shall be joined,Greek ends with joined rather than cling here.,attachment wording,reviewed
+1 Kings 16:2,translation,from the earth,Greek says from the earth here and keeps vanities at the end.,oracle wording,reviewed
+Leviticus 20:2,translation,to a ruler,Greek says to a ruler here rather than naming Molech.,term difference,reviewed
+1 Kings 20:12,translation,seated Nabouthai at the head of the people,This LXX verse number carries the Nabouthai fast line rather than the MT Ben-hadad war line.,verse mapping,reviewed
+Nehemiah 4:14,translation,sound of the horn,This LXX verse number carries the horn-gathering line rather than the MT fear-not exhortation.,verse mapping,reviewed
+Exodus 38:24,translation,surrounding frame of net-work,This LXX verse number carries the altar-network construction line rather than the MT gold totals line.,verse mapping,reviewed
+Exodus 12:4,translation,animal from the flock,Greek says animal from the flock here rather than lamb alone.,term difference,reviewed
+Deuteronomy 28:12,translation,they shall not rule you,Greek adds the rule-many-nations line here.,added blessing line,reviewed
+1 Kings 15:23,translation,his feet were in pain,Greek says pain in his feet here rather than disease language.,ailment wording,reviewed
+Deuteronomy 13:6,translation,destroy the evil one from among you,Greek keeps the singular personified evil one here.,judgment formula,reviewed
+Leviticus 13:51,translation,persistent skin-disease,Greek says persistent skin-disease here.,disease wording,reviewed
+1 Kings 12:33,translation,devised from his own heart,Greek says devised from his own heart here.,heart formula,reviewed
+2 Kings 12:9,translation,agreed not to take silver from the people,This LXX verse number carries the priestly agreement line rather than the MT collection order.,verse mapping,reviewed
+1 Chronicles 10:4,translation,mock me,Greek says mock me here rather than a broader abuse verb.,verb choice,reviewed
+1 Chronicles 25:1,translation,those prophesying with lyres and harps and cymbals,Greek keeps the uttering-oracular verb and fuller work-list framing here.,music prophecy line,reviewed
+1 Chronicles 24:31,translation,elder fathers like their younger brothers,Greek keeps that elder-versus-younger contrast here.,family contrast,reviewed
+2 Kings 20:5,translation,leader of my people,Greek says leader of my people here.,title wording,reviewed
+Leviticus 6:2,translation,law of the whole burnt offering,This LXX verse number carries the whole-burnt-offering law rather than the MT trespass case.,verse mapping,reviewed
+1 Samuel 17:46,translation,your limbs and limbs of camp,Greek says limbs here rather than a broader carcass expression.,body-part wording,reviewed
+Joshua 7:12,translation,turn neck before their enemies,Greek says turn neck and become a devoted thing here.,hard wording,reviewed
+Numbers 25:18,translation,deceit with which they deceive you,Greek doubles the deceit language here and keeps Chasbi.,duplicated deceit,reviewed
+1 Samuel 27:11,translation,this was his rule,Greek says this was his rule and sat in countryside of foreigners here.,rule wording,reviewed
+Deuteronomy 22:3,translation,you shall not be able to overlook it,Greek keeps that direct line here.,direct expression,reviewed
+1 Samuel 29:3,translation,these days this second year,"Greek says these days, this second year here.",time phrasing,reviewed
+1 Samuel 24:11,translation,I was not willing to kill you and I spared you,Greek keeps both refusal and sparing verbs here.,double verb,reviewed
+Judges 7:8,translation,food of the people in their hands,Greek says food of the people in their hands here.,scene detail,reviewed
+1 Samuel 22:7,translation,centurions and commanders of thousands,Greek says those military titles here.,military titles,reviewed
+1 Kings 12:21,translation,scepter of Benjamin,Greek says scepter of Benjamin and one hundred twenty thousand young men here.,tribal wording,reviewed
+Judges 9:18,translation,maidservant,Greek says maidservant and Sikima here.,term/name form,reviewed
+2 Kings 17:26,translation,judgment of god of land,Greek says judgment of the god of the land here.,legal term,reviewed
+Judges 5:11,translation,striking up among rejoicing ones,Greek is highly different here and keeps musical striking-up language.,difficult song line,reviewed
+Nehemiah 10:36,translation,firstfruits of our land,This LXX verse number carries the firstfruits line rather than the MT firstborn line.,verse mapping,reviewed
+1 Samuel 2:29,translation,with shameless eye,Greek keeps that sharp image here.,image wording,reviewed
+1 Samuel 9:4,translation,Selcha Easakem and Iakim,Greek gives those place forms here.,place forms,reviewed
+1 Samuel 15:9,translation,foods and vineyards,Greek says foods and vineyards here rather than the familiar MT inventory.,inventory difference,reviewed
+1 Samuel 10:3,translation,three vessels of breads,Greek says vessels of breads here rather than loaves alone.,container wording,reviewed
+2 Chronicles 29:6,translation,gave neck,Greek says gave neck here rather than turned backs.,image wording,reviewed
+Exodus 21:22,translation,not yet formed,Greek says child comes out not yet formed and pay with assessment.,juridical detail,reviewed
+2 Chronicles 2:4,translation,house which I am building is great,This LXX verse number carries the great-house line rather than the MT long dedication list.,verse mapping,reviewed
+Judges 20:13,translation,the men the ungodly ones the sons of Belial,Greek doubles the characterization here.,doubled characterization,reviewed
+2 Chronicles 24:25,translation,bloods of son of Iōdae,Greek says bloods of son of Iōdae the priest here.,blood formula,reviewed
+Deuteronomy 14:7,translation,split the claws,Greek says part the hoof and split the claws here and uses hyrax.,animal detail,reviewed
+2 Chronicles 26:11,translation,successor of king,Greek says Ananiou successor of king here.,title wording,reviewed
+Leviticus 19:20,translation,there shall be oversight for them,Greek says reserved for a man and there shall be oversight for them.,legal wording,reviewed
+Numbers 36:4,translation,release of sons of Israel,Greek says release here rather than harmonizing to jubile.,release wording,reviewed
+Numbers 33:54,translation,where his name comes out,Greek says where his name comes out there it shall be his.,lot formula,reviewed
+Nehemiah 11:3,translation,his own holding,Greek says rulers of province and his own holding here.,holding wording,reviewed
+1 Kings 20:6,translation,Nabouthai complaint line,This LXX verse number carries the Nabouthai complaint line rather than the MT Ben-hadad threat line.,verse mapping,reviewed
+2 Samuel 24:2,translation,commander of the strength with him,Greek says that title and omits Judah here.,title plus omission,reviewed
+Judges 12:6,translation,speak now a watchword,Greek says watchword and keeps the failed-speaking line.,watchword scene,reviewed
+Numbers 17:2,translation,bronze firepans from midst of burned ones,This LXX verse number carries the bronze-firepans line rather than the MT rod-command line.,verse mapping,reviewed
+1 Chronicles 26:30,translation,sons of strength,Greek says sons of strength here.,strength title,reviewed
+1 Kings 20:7,translation,become your own man,Greek says become your own man here.,taunt wording,reviewed

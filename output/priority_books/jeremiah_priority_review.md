@@ -9,8 +9,8 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Jeremiah 7:11
-- score: 12
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
 - brenton: [missing]
 
@@ -21,14 +21,14 @@ Selected verses: 6
 - brenton: [missing]
 
 ## Jeremiah 14:9
-- score: 14
-- reasons: importance=medium; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - brenton: [missing]
 
 ## Jeremiah 15:16
-- score: 15
-- reasons: importance=low; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- score: 23
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=549; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: [missing]
 

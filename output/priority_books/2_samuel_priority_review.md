@@ -2,17 +2,17 @@
 
 Selected verses: 6
 
+## 2 Samuel 5:2
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, king, lord, shepherd; crossref_top_vote=32; reco=keep
+- fresh: And yesterday and the third day, while Saoul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
+- brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
+
 ## 2 Samuel 7:19
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, servant; crossref_top_vote=5; eng_reco=keep; reco=keep
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
-
-## 2 Samuel 12:13
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sin; crossref_top_vote=15; eng_reco=keep; reco=keep
-- fresh: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has caused your sin to pass over; you certainly will not die.
-- brenton: And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.
 
 ## 2 Samuel 14:17
 - score: 21
@@ -20,11 +20,11 @@ Selected verses: 6
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
-## 2 Samuel 15:6
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king; crossref_top_vote=6; eng_reco=keep; reco=keep
-- fresh: And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
-- brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
+## 2 Samuel 15:24
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord; crossref_top_vote=5; reco=keep
+- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
+- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## 2 Samuel 23:1
 - score: 17

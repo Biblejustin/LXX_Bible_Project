@@ -86,6 +86,20 @@ Rows: 43
 - fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
 - brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
 
+## 2 Chronicles 12:13
+- priority: `25`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `1`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `1`
+- split/mixed: `0`
+- signals: unclear
+- recommendation: `keep`
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
+- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
+
 ## Deuteronomy 12:21
 - priority: `25`
 - importance: `high`
@@ -127,20 +141,6 @@ Rows: 43
 - recommendation: `keep`
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
-
-## 2 Chronicles 12:13
-- priority: `23`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `1`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `1`
-- split/mixed: `0`
-- signals: unclear
-- recommendation: `keep`
-- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
-- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ## 2 Chronicles 9:8
 - priority: `23`

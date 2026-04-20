@@ -3,8 +3,8 @@
 Selected verses: 6
 
 ## 1 Chronicles 6:34
-- score: 13
-- reasons: reviewed_decisions=1; importance=medium; keywords=altar, god, holy, lord, servant; eng_reco=keep; reco=keep
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, god, holy, lord, servant; eng_reco=keep; reco=keep
 - fresh: And Aaron and his sons were burning incense upon the altar of the whole-burnt-offerings and upon the altar of incense for every work of the holy of holies and to make atonement for Israel, according to all that Moses child of God commanded.
 - brenton: And Aaron and his sons were to burn incense on the altar of whole-burnt-offerings, and on the altar of incense, for all the ministry in the holy of holies, and to make atonement for Israel, according to all things that Moses the servant of the Lord commanded.
 
