@@ -167,18 +167,18 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 3041,
-  "footnote_rows": 2952,
+  "decision_rows": 3181,
+  "footnote_rows": 3092,
   "variant_rows": 54,
   "decision_status_counts": {
     "todo": 0,
     "drafted": 565,
-    "reviewed": 2476
+    "reviewed": 2616
   },
   "footnote_status_counts": {
     "todo": 0,
     "drafted": 479,
-    "reviewed": 2473
+    "reviewed": 2613
   },
   "chapters": [
     "1",
