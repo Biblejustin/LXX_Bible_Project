@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 3484
-- medium: 4008
-- low: 15270
+- high: 3544
+- medium: 3997
+- low: 15221
 - none: 155
 
 Note:
@@ -12831,9 +12831,9 @@ Note:
 
 ### Genesis 47:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh said to Joseph, Let them dwell in the land of Gesem. And if you know that there are able men among them, appoint them rulers over my cattle. And Jacob and his sons came into Egypt to Joseph, and Pharaoh king of Egypt heard.
 - brenton: And Pharao spoke to Joseph, saying, Thy father, and thy brethren, are come to thee.
@@ -13497,9 +13497,9 @@ Note:
 
 ### Genesis 49:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the blessings of your father and mother prevailed above the blessings of abiding mountains and the blessings of everlasting hills. They will be on Joseph's head and on the crown of the one who led his brothers.
 - brenton: the blessings of thy father and thy mother—it has prevailed above the blessing of the lasting mountains, and beyond the blessings of the everlasting hills; they shall be upon the head of Joseph, and upon the head of the brothers of whom he took the lead.
@@ -15479,9 +15479,9 @@ Note:
 
 ### Exodus 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses said to Pharaoh, Set for me when I should pray concerning you and concerning your servants and concerning your people, to wipe out the frogs from you and from your people and from your houses; only in the river will they be left.
 - brenton: And Moses said to Pharao, Appoint me a time when I shall pray for thee, and for thy servants, and for thy people, to cause the frogs to disappear from thee, and from thy people, and from your houses, only in the river shall they be left behind.
@@ -19088,9 +19088,9 @@ Note:
 
 ### Exodus 22:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If someone gives his neighbor silver or goods to keep, and it is stolen from the man's house, if the thief is found, he shall repay double.
 - brenton: And if any one give to his neighbour money or goods to keep, and they be stolen out of the man's house, if the thief be found, he shall repay double.
@@ -19223,9 +19223,9 @@ Note:
 
 ### Exodus 22:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall mistreat no widow or orphan.
 - brenton: Ye shall hurt no widow or orphan.
@@ -20105,9 +20105,9 @@ Note:
 
 ### Exodus 25:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these utensils shall be one talent of pure gold.
 - brenton: All these articles shall be a talent of pure gold.
@@ -23120,9 +23120,9 @@ Note:
 
 ### Exodus 36:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he placed them on the shoulders of the ephod, as memorial stones of the sons of Israel, as the Lord commanded Moses.
 - brenton: and he put them on the shoulder-pieces of the ephod, as stones of memorial of the children of Israel, as the Lord appointed Moses.
@@ -23264,9 +23264,9 @@ Note:
 
 ### Exodus 36:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the opening of the robe in the middle was woven close together, with a border around the opening, not to be torn.
 - brenton: And the opening of the tunic in the midst woven closely together, the opening having a fringe round about, that it might not be rent.
@@ -23291,9 +23291,9 @@ Note:
 
 ### Exodus 36:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: a gold bell and a pomegranate on the hem of the robe all around, for ministering, as the Lord commanded Moses.
 - brenton: a golden bell and a pomegranate on the border of the tunic round about, for the ministration, as the Lord commanded Moses.
@@ -23390,9 +23390,9 @@ Note:
 
 ### Exodus 37:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its five posts and rings, and they overlaid their capitals and clasps with gold, and their five bases were bronze.
 - brenton: and their posts five, and the rings; and they gilded their chapiters and their clasps with gold, and they had five sockets of brass.
@@ -23732,9 +23732,9 @@ Note:
 
 ### Exodus 38:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made all the utensils of the altar and its fire-pan and the base and the bowls and the bronze flesh-hooks.
 - brenton: He made all the vessels of the altar and its grate, and its base, and its bowls, and the brazen flesh-hooks.
@@ -25318,18 +25318,18 @@ Note:
 
 ### Leviticus 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fire shall burn continually on the altar; it shall not be extinguished.
 - brenton: And the fire shall always burn on the altar; it shall not be extinguished.
 
 ### Leviticus 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is the law of the sacrifice that the sons of Aaron shall bring before the Lord, before the altar.
 - brenton: This is the law of the sacrifice, which the sons of Aaron shall bring near before the Lord, before the altar.
@@ -25408,9 +25408,9 @@ Note:
 
 ### Leviticus 6:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every sacrifice of a priest shall be wholly burned and shall not be eaten.
 - brenton: And every sacrifice of a priest shall be thoroughly burnt, and shall not be eaten.
@@ -30007,9 +30007,9 @@ Note:
 
 ### Leviticus 22:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if a man eats holy things by ignorance, he shall add a fifth part to it and give the holy thing to the priest.
 - brenton: And the man who shall ignorantly eat holy things, shall add the fifth part to it, and give the holy thing to the priest.
@@ -33537,9 +33537,9 @@ Note:
 
 ### Numbers 4:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and the pillars of the court all around and their bases and the pillars of the screen of the gate of the court and their bases and their pegs and their cords and all their furnishings and all their services. By name you shall count them and all the vessels of the charge of the things carried by them.
 - brenton: And they shall bear the pillars of the court round about, and there shall be their sockets, and they shall bear the pillars of the veil of the door of the court, and their sockets and their pins, and their cords, and all their furniture, and all their instruments of service: take ye their number by name, and all the articles of the charge of the things borne by them.
@@ -34428,9 +34428,9 @@ Note:
 
 ### Numbers 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
@@ -34482,9 +34482,9 @@ Note:
 
 ### Numbers 7:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
@@ -34536,9 +34536,9 @@ Note:
 
 ### Numbers 7:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight one hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
@@ -34644,9 +34644,9 @@ Note:
 
 ### Numbers 7:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight was a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
@@ -34698,9 +34698,9 @@ Note:
 
 ### Numbers 7:55
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight one hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
@@ -34752,9 +34752,9 @@ Note:
 
 ### Numbers 7:61
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
@@ -34806,9 +34806,9 @@ Note:
 
 ### Numbers 7:67
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat-offering.
@@ -34860,9 +34860,9 @@ Note:
 
 ### Numbers 7:73
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat-offering.
@@ -34914,9 +34914,9 @@ Note:
 
 ### Numbers 7:79
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels; one silver bowl of seventy shekels according to the holy shekel; both full of fine flour mingled with oil for a meat offering.
@@ -39765,9 +39765,9 @@ Note:
 
 ### Numbers 24:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then if Beor's nest should come to be in craftiness, Assyrians shall take you captive.
 - brenton: and though Beor should have a skilfully contrived hiding-place, the Assyrians shall carry thee away captive.
@@ -42915,9 +42915,9 @@ Note:
 
 ### Numbers 34:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Command the sons of Israel and say to them, You are entering into the land of Canaan. This shall be for you as an inheritance, the land of Canaan with its borders.
 - brenton: Charge the children of Israel, and thou shalt say to them, Ye are entering into the land of Chanaan: it shall be to you for an inheritance, the land of Chanaan with its boundaries.
@@ -43203,9 +43203,9 @@ Note:
 
 ### Numbers 35:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall measure outside the city the east side two thousand cubits and the south side two thousand cubits and the west side two thousand cubits and the north side two thousand cubits, and the city shall be in the middle of this. These shall be for you the adjoining lands of the cities.
 - brenton: And thou shalt measure outside the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and your city shall be in the midst of this, and the suburbs of the cities as described.
@@ -50783,9 +50783,9 @@ Note:
 
 ### Deuteronomy 29:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that he may establish you for himself as a people and he himself will be your God, in the way he said to you and in the way he swore to your fathers, Abraham and Isaac and Jacob.
 - brenton: that thou shouldest enter into the covenant of the Lord thy God and into his oaths, as many as the Lord thy God appoints thee this day;
@@ -51395,9 +51395,9 @@ Note:
 
 ### Deuteronomy 32:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my utterance be awaited like rain, and let my words come down like dew, like a storm on fresh grass and like snowfall on grass.
 - brenton: Let my speech be looked for as the rain, and my words come down as dew, as the shower upon the herbage, and as snow upon the grass.
@@ -59535,9 +59535,9 @@ Note:
 
 ### Judges 6:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be that night that the Lord said to him, Take your father's fatted calf, the seven-year-old bull, and pull down the altar of Baal that belongs to your father, and cut down the grove upon it.
 - brenton: And it came to pass in that night, that the Lord said to him, Take the young bullock which thy father has, even the second bullock of seven years old, and thou shalt destroy the altar of Baal which thy father has, and the grove which is by it thou shalt destroy.
@@ -60129,9 +60129,9 @@ Note:
 
 ### Judges 8:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the weight of the gold earrings that he requested came to one thousand seven hundred shekels of gold, apart from the little moons and the necklaces and the purple garments that were upon the kings of Midian, and apart from the gold collars that were on the necks of their camels.
 - brenton: And the weight of the golden earrings which he asked, was a thousand and seven hundred pieces of gold, besides the crescents, and the chains, and the garments, and the purple cloths that were on the kings of Madiam, and besides the chains that were on the necks of their camels.
@@ -61632,9 +61632,9 @@ Note:
 
 ### Judges 14:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his father and his mother said to him, Is there no woman from the daughters of your brothers and among all my people, that you are going to take a wife from the uncircumcised foreigners? And Sampsōn said to his father, Take this one for me, because she is pleasing in my eyes.
 - brenton: And his father and his mother said to him, Are there no daughters of thy brethren, and is there not a woman of all my people, that thou goest to take a wife of the uncircumcised Philistines?
@@ -62370,9 +62370,9 @@ Note:
 
 ### Judges 18:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In those days there was no king in Israel, and in those days the tribe of Dan was seeking for itself an inheritance to dwell in, because until those days no inheritance had fallen to it in the midst of the tribes of Israel.
 - brenton: In those days there was no king in Israel; and in those days the tribe of Dan sought for itself an inheritance to inhabit, because no inheritance had fallen to it until that day in the midst of the tribes of the children of Israel.
@@ -62721,9 +62721,9 @@ Note:
 
 ### Judges 19:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the man rose to depart, he and his concubine and his servant, and his father-in-law, the father of the young woman, said to him, Behold now, toward evening the day has declined; lodge here still today, and let your heart be glad, and rise early tomorrow for your journey, and you will go to your tent.
 - brenton: And the man rose up to depart, he and his concubine, and his young man; but his father-in-law the father of the damsel said to him, Behold now, the day has declined toward evening; lodge here, and let thy heart rejoice; and ye shall rise early to-morrow for your journey, and thou shalt go to thy habitation.
@@ -66496,9 +66496,9 @@ Note:
 
 ### 1 Samuel 11:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took two oxen and cut them in pieces and sent them through every border of Israel by the hand of messengers, saying, Whoever is not coming out after Saoul and after Samouēl, thus they will do to his oxen. And the astonishment of the Lord came upon the people of Israel, and they cried out like one man.
 - brenton: And he took two cows, and cut them in pieces, and sent them into all the coasts of Israel by the hand of messengers, saying, Whoso comes not forth after Saul and after Samuel, so shall they do to his oxen: and a transport from the Lord came upon the people of Israel, and they came out to battle as one man.
@@ -67783,9 +67783,9 @@ Note:
 
 ### 1 Samuel 16:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to Samouēl, How long do you mourn over Saoul, while I have counted him as nothing from reigning over Israel? Fill your horn with oil and come, I will send you to Iessai in Bēthleem, because I have seen among his sons one for me to reign.
 - brenton: And the Lord said to Samuel, How long dost thou mourn for Saul, whereas I have rejected him from reigning over Israel? Fill thy horn with oil, and come, I will send thee to Jessæ, to Bethleem; for I have seen among his sons a king for me.
@@ -68314,9 +68314,9 @@ Note:
 
 ### 1 Samuel 18:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Saoul feared from before David.
 - brenton: And Saul was alarmed on account of David.
@@ -69682,9 +69682,9 @@ Note:
 
 ### 1 Samuel 24:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be after these things that David’s heart struck him because he had removed the wing of his double cloak.
 - brenton: And it came to pass after this that David's heart smote him, because he had cut off the skirt of his garment.
@@ -69781,18 +69781,18 @@ Note:
 
 ### 1 Samuel 24:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be, when David finished speaking these words to Saoul, Saoul said, Is this your voice, child David? And Saoul lifted up his voice and wept.
 - brenton: And it came to pass when David had finished speaking these words to Saul, that Saul said, Is this thy voice, son David? and Saul lifted up his voice, and wept.
 
 ### 1 Samuel 24:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Saoul said to David, You are more righteous than I, because you repaid me good things, but I repaid you evil things.
 - brenton: And Saul said to David, Thou art more righteous than I, for thou hast recompensed me good, but I have recompensed thee evil.
@@ -75696,9 +75696,9 @@ Note:
 
 ### 2 Samuel 19:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was reported to Ioab, saying, Behold, the king is weeping and mourning over Abessalom.
 - brenton: And they brought Joab word, saying, Behold, the king weeps and mourns for Abessalom.
@@ -75921,9 +75921,9 @@ Note:
 
 ### 2 Samuel 19:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mephibosthe said to him, My lord king, my servant deceived me. For your servant said to him, Saddle the donkey for me, and I will mount it and go with the king, because your servant is lame.
 - brenton: And Memphibosthe said to him, My lord, O king, my servant deceived me; for thy servant said to him, Saddle me the ass, and I will ride upon it, and go with the king; for thy servant is lame.
@@ -76038,9 +76038,9 @@ Note:
 
 ### 2 Samuel 19:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all the people crossed the Jordan, and the king crossed. And the king kissed Berzelli and blessed him, and he returned to his place.
 - brenton: And all the people went over Jordan, and the king went over; and the king kissed Berzelli, and blessed him; and he returned to his place.
@@ -85924,9 +85924,9 @@ Note:
 
 ### 2 Kings 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elisaie said, Hear the word of the Lord. Thus says the Lord: At this time tomorrow a measure of fine flour will be a shekel, and two measures of barley a shekel, at the gates of Samaria.
 - brenton: And Elisaie said, Hear thou the word of the Lord; Thus saith the Lord, As at this time, to-morrow a measure of fine flour shall be sold for a shekel, and two measures of barley for a shekel, in the gates of Samaria.
@@ -86014,9 +86014,9 @@ Note:
 
 ### 2 Kings 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the gatekeepers cried out and reported it inside the house of the king.
 - brenton: And the porters cried aloud, and reported to the house of the king within.
@@ -92820,9 +92820,9 @@ Note:
 
 ### 1 Chronicles 6:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were ministering before the tent of the house of testimony with instruments until Salomon built the house of the Lord in Jerusalem, and they stood according to their judgment over their services.
 - brenton: And they ministered in front of the tabernacle of witness playing on instruments, until Solomon built the house of the Lord in Jerusalem; and they stood according to their order for their services.
@@ -93189,9 +93189,9 @@ Note:
 
 ### 1 Chronicles 6:58
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Dabor and its surrounding lands, and Anam and its surrounding lands,
 - brenton: and Ramoth, and Ænan and her suburbs.
@@ -93621,9 +93621,9 @@ Note:
 
 ### 1 Chronicles 7:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these were sons of Aser, all chiefs of fathers, chosen mighty men of power, leading chiefs. Their number for drawing up battle was twenty-six thousand men.
 - brenton: All these were the sons of Aser, all heads of families, choice, mighty men, chief leaders: their number for battle array—their number was twenty-six thousand men.
@@ -95187,9 +95187,9 @@ Note:
 
 ### 1 Chronicles 12:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Sadok, young man mighty in strength, and from his father’s house, twenty-two chiefs.
 - brenton: And Sadoc, a young man mighty in strength, and there were twenty-two leaders of his father's house.
@@ -98301,9 +98301,9 @@ Note:
 
 ### 1 Chronicles 26:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At the annexes toward west, four, and at roadway two annexes.
 - brenton: to relieve guard, also for Osa westward after the chamber-gate, three. There was a ward over against the ward of the ascent eastward, six men in a day, and four for the north, and four for the south, and at the Esephim two to relieve guard, and four by the west, and two to relieve guard at the pathway.
@@ -98598,9 +98598,9 @@ Note:
 
 ### 1 Chronicles 27:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for Zabulon, Samaias son of Abdiou; for Nephthali, Ierimōth son of Esriēl;
 - brenton: for Zabulon, Samæas the son of Abdiu: for Nephthali, Jerimoth the son of Oziel:
@@ -100454,9 +100454,9 @@ Note:
 
 ### 2 Chronicles 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on twenty-third of seventh month he sent people to their tents rejoicing and with good heart over good things which Lord did to Dauid and to Salomon and to Israel his people.
 - brenton: And on the twenty-third day of the seventh month he dismissed the people to their tents, rejoicing, and with a glad heart because of the good deeds which the Lord had done to David, and to Solomon, and to Israel his people.
@@ -106412,9 +106412,9 @@ Note:
 
 ### 2 Chronicles 36:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh Nechao made Eliakim son of Iōsias king of Iouda in place of Iōsias his father and changed his name to Iōakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
 - brenton: And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
@@ -106900,9 +106900,9 @@ Note:
 
 ### Ezra 2:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Asmoth: 42.
 - brenton: The children of Azmoth, forty-three.
@@ -106945,9 +106945,9 @@ Note:
 
 ### Ezra 2:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Nabo: 52.
 - brenton: The children of Nabu, fifty-two.
@@ -110430,9 +110430,9 @@ Note:
 
 ### Nehemiah 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Gabaon: 95.
 - brenton: The children of Gabaon, ninety-five.
@@ -111402,9 +111402,9 @@ Note:
 
 ### Nehemiah 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Atous, Sebani, Mallouch,
 - brenton: Iram, Meramoth, Abdia,
@@ -111465,9 +111465,9 @@ Note:
 
 ### Nehemiah 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Micha, Roob, Esebias,
 - brenton: Zacchor, Sarabia, Sebania,
@@ -112581,9 +112581,9 @@ Note:
 
 ### Nehemiah 13:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I contended with them and cursed them and struck men among them and made them bald, and made them swear by God that you will not give your daughters to their sons and will not take from their daughters for your sons.
 - brenton: And I strove with them and cursed them; and I smote some of them, and plucked off their hair, and made them swear by God, saying,Ye shall not give your daughters to their sons, and ye shall not take of their daughters to your sons.
