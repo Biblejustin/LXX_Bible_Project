@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 1715
-- medium: 4520
-- low: 16527
+- high: 1734
+- medium: 4510
+- low: 16518
 - none: 155
 
 Note:
@@ -17739,8 +17739,8 @@ Note:
 ### Exodus 16:23
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: And Moses said to them, "This is the word the Lord spoke: Tomorrow is Sabbath, a holy rest to the Lord. Whatever you will bake, bake, and whatever you will boil, boil, and all that is left over leave stored up until morning."
 - brenton: And Moses said to them, Is not this the word which the Lord spoke? To-morrow is the sabbath, a holy rest to the Lord: bake that ye will bake, and seethe that ye will seethe, and all that is over leave to be laid by for the morrow.
@@ -19115,9 +19115,9 @@ Note:
 
 ### Exodus 22:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If someone gives his neighbor a beast of burden or an ox or a sheep or any livestock to keep, and it is injured or dies or is taken captive, and no one knows,
 - brenton: And if any one give to his neighbour to keep a calf or sheep or any beast, and it be wounded or die or be taken, and no one know,
@@ -20969,9 +20969,9 @@ Note:
 
 ### Exodus 28:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aaron shall wear them, and his sons, whenever they enter the tent of testimony or approach the altar to minister in the holy place, so that they may not bring sin upon themselves and die. An everlasting statute for him and for his seed after him.
 - brenton: And Aaron shall have them, and his sons, whenever they enter into the tabernacle of witness, or when they shall advance to the altar of the sanctuary to minister, so they shall not bring sin upon themselves, lest they die: it is a perpetual statute for him, and for his seed after him.
@@ -35040,9 +35040,9 @@ Note:
 
 ### Numbers 8:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this was the workmanship of the lampstand: solid gold, its stem and its lilies, all solid. According to the pattern the Lord showed Moses, so he made the lampstand.
 - brenton: And this is the construction of the candlestick: it is solid, golden—its stem, and its lilies—all solid: according to the pattern which the Lord shewed Moses, so he made the candlestick.
@@ -41412,9 +41412,9 @@ Note:
 
 ### Numbers 30:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if a woman vows a vow to the Lord or binds a binding in the house of her father in her youth,
 - brenton: And if a woman shall vow a vow to the Lord, or bind herself with an obligation in her youth in her father's house; and her father should hear her vows and her obligations, wherewith she has bound her soul, and her father should hold his peace at her, then all her vows shall stand,
@@ -46202,9 +46202,9 @@ Note:
 
 ### Deuteronomy 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I prayed to God and said, Lord, Lord, King of the gods, do not utterly destroy your people and your portion, whom you redeemed in your great strength, whom you brought out from the land of Egypt in your great strength and with your mighty hand and high arm.
 - brenton: And I prayed to God, and said, O Lord, King of gods, destroy not thy people and thine inheritance, whom thou didst redeem, whom thou broughtest out of the land of Egypt with thy great power, and with thy strong hand, and with thy high arm.
@@ -46868,9 +46868,9 @@ Note:
 
 ### Deuteronomy 12:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall not be able to eat in your cities the tithe of your grain and your wine and your oil, the firstborn of your cattle and your sheep, and all the vows that you vow and your confessions and the firstfruits of your hands,
 - brenton: Thou shalt not be able to eat in thy cities the tithe of thy corn, and of thy wine, and of thine oil, the first-born of thine herd and of thy flock, and all your vows as many as ye shall have vowed, and your thank-offerings, and the first-fruits of thine hands.
@@ -50621,9 +50621,9 @@ Note:
 
 ### Deuteronomy 28:63
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it shall be, in the way the Lord rejoiced over you to do good to you and multiply you, so the Lord will rejoice over you to utterly destroy you, and you shall be plucked from the land into which you are entering there to inherit it.
 - brenton: And it shall come to pass that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to destroy you; and ye shall be quickly removed from the land, into which ye go to inherit it.
@@ -50666,9 +50666,9 @@ Note:
 
 ### Deuteronomy 28:68
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord will bring you back to Egypt in ships and on the road about which I said, You shall not add to see it again. And there you shall be sold to your enemies as male servants and female servants, and there shall not be one buying.
 - brenton: And the Lord shall bring thee back to Egypt in ships, by the way of which I said, Thou shalt not see it again; and ye shall be sold there to your enemies for bondmen and bondwomen, and none shall buy you.
@@ -54160,9 +54160,9 @@ Note:
 
 ### Joshua 10:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Joshua spoke to the Lord on the day when God delivered the Amorite under the hands of Israel, when he crushed them in Gibeon and they were crushed from before the sons of Israel, and Joshua said, Let the sun stand over Gibeon, and the moon over the valley of Ailon.
 - brenton: Then Joshua spoke to the Lord, in the day in which the Lord delivered the Amorite into the power of Israel, when he destroyed them in Gabaon, and they were destroyed from before the children of Israel: and Joshua said, Let the sun stand over against Gabaon, and the moon over against the valley of Ælon.
@@ -67000,9 +67000,9 @@ Note:
 
 ### 1 Samuel 14:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be on a day, Iōnathan son of Saoul said to the young man carrying his equipment, Come, and let us cross over to the station of the foreigners that is over there beyond. But to his father he did not report it.
 - brenton: And when a certain day arrived, Jonathan the son of Saul said to the young man that bore his armour, Come, and let us go over to Messab of the Philistines that is on the other side yonder; but he told not his father.
@@ -69052,9 +69052,9 @@ Note:
 
 ### 1 Samuel 21:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David comes to Nomba to Abimelech the priest, and Abimelech stood outside himself to meet him and said to him, Why are you alone, and no one with you?
 - brenton: And David comes to Nomba to Abimelech the priest: and Abimelech was amazed at meeting him, and said to him, Why art thou alone, and nobody with thee?
@@ -82007,9 +82007,9 @@ Note:
 
 ### 1 Kings 15:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And son of Ader listened to King Asa and sent the commanders of his forces against the cities of Israel and struck Ain and Dan and Abelmaac and all Chezrath as far as all the land of Nephthali.
 - brenton: And the son of Ader hearkened to king Asa, and sent the chiefs of his forces to the cities of Israel; and they smote Ain, Dan, and Abel of the house of Maacha, and all Chennereth, as far as the whole land of Nephthali.
@@ -86914,9 +86914,9 @@ Note:
 
 ### 2 Kings 10:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be, when he finished offering the whole-burnt-offering, Iou said to the runners and to the officers, Go in and strike them down. Let not a man come out. And they struck them with the edge of the sword, and the runners and the officers cast them out and went into the inner city of the house of Baal.
 - brenton: And it came to pass, when he had finished offering the whole-burnt-offering, that Ju said to the footmen and the officers, Go ye in and slay them; let not a man of them escape. So they smote them with the edge of the sword, and the footmen and the officers cast the bodies forth, and went to the city of the house of Baal.
@@ -90793,9 +90793,9 @@ Note:
 
 ### 2 Kings 25:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be in the thirty-seventh year of the exile of Ioakim king of Judah, in the twelfth month, on the twenty-seventh day of the month, Euilmarōdach king of Babylon, in the year of his reign, lifted up the head of Ioakim king of Judah from prison.
 - brenton: And it came to pass in the thirty-seventh year of the carrying away of Joachim king of Juda, in the twelfth month, on the twenty-seventh day of the month, that Evialmarodec king of Babylon in the first year of his reign lifted up the head of Joachim king of Juda, and brought him out of his prison-house.
@@ -97545,9 +97545,9 @@ Note:
 
 ### 1 Chronicles 23:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he set them by hand of Aaron to minister in house of Lord, over courts and over storerooms and over cleansing of all holy things and over works of service of house of God,
 - brenton: For he appointed them to wait on Aaron, to minister in the house of the Lord, over the courts, and over the chambers, and over the purification of all the holy things, and over the works of the service of the house of God;
@@ -101552,9 +101552,9 @@ Note:
 
 ### 2 Chronicles 13:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abia drew up battle with force of mighty warriors, four hundred thousand mighty men, and Ieroboam drew up battle against him with eight hundred thousand mighty warriors.
 - brenton: And Abia set the battle in array with an army, with mighty men of war, even four hundred thousand mighty men: and Jeroboam set the battle in array against him with eight hundred thousand, they were mighty warriors of the host.
@@ -105170,9 +105170,9 @@ Note:
 
 ### 2 Chronicles 31:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as word was commanded, sons of Israel increased firstfruits of grain and wine and oil and honey and every produce of field, and tithes of all things they brought in abundance.
 - brenton: And as he gave the command, Israel brought abundantly first-fruits of corn, and wine, and oil, and honey, and every fruit of the field: and the children of Israel and Juda brought tithes of everything abundantly.
@@ -105503,9 +105503,9 @@ Note:
 
 ### 2 Chronicles 32:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord sent angel and crushed every mighty warrior and ruler and commander in camp of king of Assour, and he returned with shame of face to his land, and he came into house of his god, and those coming from his own belly struck him down there with sword.
 - brenton: And the Lord sent an angel, and he destroyed every mighty man and warrior, and leader and captain in the camp of the king of Assyria: and he returned with shame of face to his own land and came into the house of his god: and some of them that came out of his bowels slew him with the sword.
@@ -106448,9 +106448,9 @@ Note:
 
 ### 2 Chronicles 36:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rest of words of Iōakim and all things he did, are not these written upon book of words of days for kings of Iouda? And Iōakim slept with his fathers and was buried in Ganoza with his fathers, and Iechonias his son reigned in his place.
 - brenton: And the rest of the acts of Joakim, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda? And Joakim slept with his fathers, and was buried with his fathers in Ganozae: and Jechonias his son reigned in his stead.
