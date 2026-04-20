@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 33
-Books: 15
+Rows: 34
+Books: 16
 
 ## Genesis 1:2
 - score: 21
@@ -26,6 +26,13 @@ Books: 15
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
+## Genesis 24:14
+- score: 21
+- reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, mercy, servant, virgin; crossref_top_vote=8; reco=keep
+- keywords: lord, mercy, servant, virgin
+- fresh: and let it be that the virgin to whom I say, Lower your water jar so that I may drink, and she says to me, Drink, and I will water your camels until they stop drinking - this is the one you prepared for your servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+- brenton: And it shall be, the virgin to whomsoever I shall say, Incline thy water-pot, that I may drink, and she shall say, Drink thou, and I will give thy camels drink, until they shall have done drinking—even this one thou hast prepared for thy servant Isaac, and hereby shall I know that thou hast dealt mercifully with my master Abraam.
+
 ## Genesis 24:40
 - score: 21
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=angel, god, lord; crossref_top_vote=10; reco=keep
@@ -39,13 +46,6 @@ Books: 15
 - keywords: god, name
 - fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
 - brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
-
-## Genesis 32:30
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, name; crossref_top_vote=6; reco=keep
-- keywords: god, name
-- fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
-- brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.
 
 ## Exodus 12:48
 - score: 20
@@ -74,6 +74,13 @@ Books: 15
 - keywords: altar, name, peace, sacrifice, salvation
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
+
+## Leviticus 6:10
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord, sin; crossref_top_vote=4; reco=keep
+- keywords: holy, lord, sin
+- fresh: It shall not be baked leavened. I have given it to them as a portion from the Lord's offerings. It is holy of holies, like that for sin and like that for trespass.
+- brenton: It shall not be baked with leaven. I have given it as a portion to them of the burnt-offerings of the Lord: it is most holy, as the offering for sin, and as the offering for trespass.
 
 ## Numbers 6:11
 - score: 19
@@ -110,12 +117,12 @@ Books: 15
 - fresh: May the Lord repay your work, and may your wage be full from the Lord God of Israel, under whose wings you came to trust.
 - brenton: The Lord recompense thy work: may a full reward be given thee of the Lord God of Israel, to whom thou hast come to trust under his wings.
 
-## 1 Samuel 16:7
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=146; eng_reco=keep; reco=keep
+## 1 Samuel 25:29
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=8; reco=keep
 - keywords: god, lord
-- fresh: And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
-- brenton: But the Lord said to Samuel, Look not on his appearance, nor on his stature, for I have rejected him; for God sees not as a man looks; for man looks at the outward appearance, but God looks at the heart.
+- fresh: And a man will rise up pursuing you and seeking your life, and the life of my lord will be bound in the bundle of life with the Lord your God, and the life of your enemies you will sling out in the middle of the sling.
+- brenton: And if a man shall rise up persecuting thee and seeking thy life, yet shall the life of my lord be bound up in the bundle of life with the Lord God, and thou shalt whirl the life of thine enemies as in the midst of a sling.
 
 ## 2 Samuel 14:14
 - score: 18
@@ -131,12 +138,12 @@ Books: 15
 - fresh: And the Lord said to Solomon, Because these things came to be with you and you did not keep my commandments and my ordinances that I commanded you, in tearing I will tear your kingdom out of your hand and give it to your servant.
 - brenton: And the Lord said to Solomon, Because it has been thus with thee, and thou hast not kept my commandments and my ordinances which I commanded thee, I will surely rend thy kingdom out of thy hand, and give it to thy servant.
 
-## 1 Kings 12:28
-- score: 18
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=king; crossref_top_vote=6; reco=keep
-- keywords: king
-- fresh: And the king took counsel and went and made two golden heifers and said to the people, Let it be enough for you to go up to Ierousalem. Behold your gods, Israel, that brought you up out of the land of Egypt.
-- brenton: And the king took counsel, and went, and made two golden heifers, and said to the people, Let it suffice you to have gone hitherto to Jerusalem: behold thy gods, O Israel, who brought thee up out of the land of Egypt.
+## 1 Kings 20:10
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, king; crossref_top_vote=5; reco=keep
+- keywords: god, king
+- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die.
+- brenton: And set two men, sons of transgressors, before him, and let them testify against him, saying, He blessed God and the king: and let them lead him forth, and stone him, and let him die.
 
 ## Isaiah 9:6
 - score: 24

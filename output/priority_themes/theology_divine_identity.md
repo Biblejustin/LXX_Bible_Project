@@ -2,8 +2,15 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 104
-Books: 37
+Rows: 107
+Books: 38
+
+## Genesis 24:14
+- score: 21
+- reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, mercy, servant, virgin; crossref_top_vote=8; reco=keep
+- keywords: lord, mercy, servant, virgin
+- fresh: and let it be that the virgin to whom I say, Lower your water jar so that I may drink, and she says to me, Drink, and I will water your camels until they stop drinking - this is the one you prepared for your servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
+- brenton: And it shall be, the virgin to whomsoever I shall say, Incline thy water-pot, that I may drink, and she shall say, Drink thou, and I will give thy camels drink, until they shall have done drinking—even this one thou hast prepared for thy servant Isaac, and hereby shall I know that thou hast dealt mercifully with my master Abraam.
 
 ## Genesis 24:40
 - score: 21
@@ -18,13 +25,6 @@ Books: 37
 - keywords: god, name
 - fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
 - brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
-
-## Genesis 32:30
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, name; crossref_top_vote=6; reco=keep
-- keywords: god, name
-- fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
-- brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.
 
 ## Exodus 6:3
 - score: 20
@@ -46,6 +46,13 @@ Books: 37
 - keywords: holy, judgment, lord, truth
 - fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
+
+## Leviticus 6:10
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord, sin; crossref_top_vote=4; reco=keep
+- keywords: holy, lord, sin
+- fresh: It shall not be baked leavened. I have given it to them as a portion from the Lord's offerings. It is holy of holies, like that for sin and like that for trespass.
+- brenton: It shall not be baked with leaven. I have given it as a portion to them of the burnt-offerings of the Lord: it is most holy, as the offering for sin, and as the offering for trespass.
 
 ## Numbers 16:3
 - score: 20
@@ -166,6 +173,13 @@ Books: 37
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
 
+## 1 Samuel 20:8
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, lord, mercy, servant; crossref_top_vote=5; reco=keep
+- keywords: covenant, lord, mercy, servant
+- fresh: And you will do mercy with your servant, because you brought your servant into a covenant of the Lord with yourself. And if there is wrongdoing in your servant, you put me to death, and why do you thus bring me to your father?
+- brenton: And thou shalt deal mercifully with thy servant; for thou hast brought thy servant into a covenant of the Lord with thyself: and if there is iniquity in thy servant, slay me thyself; but why dost thou thus bring me to thy father?
+
 ## 1 Samuel 20:42
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, peace, seed; crossref_top_vote=5; eng_reco=keep; reco=keep
@@ -180,12 +194,19 @@ Books: 37
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
-## 1 Kings 2:4
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul, truth; crossref_top_vote=7; reco=keep
-- keywords: lord, soul, truth
-- fresh: So that the Lord may establish his word that he spoke, saying, If your sons guard their way to walk before me in truth, with all their heart and with all their soul, there will not be destroyed for you a man from upon the throne of Israel.
-- brenton: that the Lord may confirm his word which he spoke, saying, If thy children shall take heed to their way to walk before me in truth with all their heart, I promise thee, saying, there shall not fail thee a man on the throne of Israel.
+## 2 Samuel 19:28
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord, servant; crossref_top_vote=6; reco=keep
+- keywords: angel, god, king, lord, servant
+- fresh: And he schemed against your servant to my lord the king. But my lord the king is like an angel of God. So do what is good in your eyes.
+- brenton: And he has dealt deceitfully with thy servant to my lord the king: but my lord the king is as an angel of God, and do thou that which is good in thine eyes.
+
+## 1 Kings 1:47
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, name; crossref_top_vote=5; reco=keep
+- keywords: god, king, lord, name
+- fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
+- brenton: And the servants of the king have gone in to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne; and the king worshipped upon his bed.
 
 ## 1 Kings 12:24
 - score: 22

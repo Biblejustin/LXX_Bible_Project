@@ -49,18 +49,18 @@ Only verses with tracked decision rows or footnotes.
 - 43. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1
 - 44. Exodus 28:30 | score 21 | decisions 1 | footnotes 1
 - 45. Genesis 1:2 | score 21 | decisions 4 | footnotes 1
-- 46. Genesis 24:40 | score 21 | decisions 2 | footnotes 2
-- 47. Isaiah 49:7 | score 21 | decisions 1 | footnotes 1
-- 48. Jeremiah 14:9 | score 21 | decisions 1 | footnotes 1
-- 49. Jeremiah 4:2 | score 21 | decisions 1 | footnotes 1
-- 50. Jeremiah 9:23 | score 21 | decisions 1 | footnotes 1
-- 51. Leviticus 17:4 | score 21 | decisions 1 | footnotes 1
-- 52. Leviticus 6:5 | score 21 | decisions 1 | footnotes 1
-- 53. Leviticus 7:32 | score 21 | decisions 1 | footnotes 1
-- 54. Micah 5:3 | score 21 | decisions 1 | footnotes 1
-- 55. Psalms 113:9 | score 21 | decisions 1 | footnotes 1
-- 56. Psalms 19:7 | score 21 | decisions 1 | footnotes 1
-- 57. Psalms 23:5 | score 21 | decisions 1 | footnotes 1
-- 58. Zechariah 7:9 | score 21 | decisions 1 | footnotes 1
-- 59. 1 Chronicles 28:9 | score 20 | decisions 1 | footnotes 1
-- 60. 1 Chronicles 6:34 | score 20 | decisions 1 | footnotes 1
+- 46. Genesis 24:14 | score 21 | decisions 2 | footnotes 1
+- 47. Genesis 24:40 | score 21 | decisions 2 | footnotes 2
+- 48. Isaiah 49:7 | score 21 | decisions 1 | footnotes 1
+- 49. Jeremiah 14:9 | score 21 | decisions 1 | footnotes 1
+- 50. Jeremiah 4:2 | score 21 | decisions 1 | footnotes 1
+- 51. Jeremiah 9:23 | score 21 | decisions 1 | footnotes 1
+- 52. Leviticus 3:9 | score 21 | decisions 1 | footnotes 1
+- 53. Leviticus 6:10 | score 21 | decisions 2 | footnotes 2
+- 54. Leviticus 6:5 | score 21 | decisions 1 | footnotes 1
+- 55. Leviticus 7:32 | score 21 | decisions 1 | footnotes 1
+- 56. Micah 5:3 | score 21 | decisions 1 | footnotes 1
+- 57. Psalms 113:9 | score 21 | decisions 1 | footnotes 1
+- 58. Psalms 19:7 | score 21 | decisions 1 | footnotes 1
+- 59. Psalms 23:5 | score 21 | decisions 1 | footnotes 1
+- 60. Zechariah 7:9 | score 21 | decisions 1 | footnotes 1

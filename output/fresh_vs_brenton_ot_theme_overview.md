@@ -3,7 +3,7 @@
 Theme-first review pack for highest-value Brenton vs fresh translation differences.
 
 ## Creation / Anthropology
-- rows: 68
+- rows: 63
 - Genesis 2:7 → score 28
 - 1 Kings 2:35 → score 27
 - Deuteronomy 12:21 → score 25
@@ -12,24 +12,24 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Isaiah 59:21 → score 24
 - Daniel 4:37 → score 23
 - Zechariah 12:10 → score 22
-- Leviticus 17:4 → score 21
 - Exodus 6:3 → score 20
+- Numbers 19:13 → score 20
 
 ## Textual / Lexical Crux
-- rows: 33
+- rows: 34
 - Exodus 20:24 → score 35
 - Genesis 2:7 → score 28
 - Isaiah 9:6 → score 24
+- Leviticus 6:10 → score 21
 - Numbers 16:3 → score 20
 - Deuteronomy 2:7 → score 20
-- 1 Kings 11:11 → score 19
-- 1 Samuel 16:7 → score 18
+- 1 Samuel 25:29 → score 20
+- 1 Kings 20:10 → score 20
 - 2 Samuel 14:14 → score 18
 - Amos 3:7 → score 17
-- Zephaniah 3:17 → score 17
 
 ## Theology / Divine Identity
-- rows: 104
+- rows: 107
 - Exodus 20:24 → score 35
 - Deuteronomy 16:2 → score 26
 - 2 Kings 17:34 → score 26
@@ -40,6 +40,19 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Jeremiah 15:16 → score 23
 - Daniel 4:37 → score 23
 - Amos 9:12 → score 23
+
+## Kingship / Messianic
+- rows: 102
+- Exodus 20:24 → score 35
+- Leviticus 4:31 → score 29
+- 1 Kings 2:35 → score 27
+- 2 Chronicles 33:16 → score 26
+- Joshua 22:5 → score 24
+- Isaiah 9:6 → score 24
+- Daniel 4:37 → score 23
+- 1 Samuel 2:10 → score 22
+- 1 Chronicles 16:40 → score 22
+- Nehemiah 1:11 → score 22
 
 ## Ritual / Priesthood
 - rows: 75
@@ -54,21 +67,8 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Daniel 4:37 → score 23
 - Joshua 22:23 → score 22
 
-## Kingship / Messianic
-- rows: 98
-- Exodus 20:24 → score 35
-- Leviticus 4:31 → score 29
-- 1 Kings 2:35 → score 27
-- 2 Chronicles 33:16 → score 26
-- Joshua 22:5 → score 24
-- Isaiah 9:6 → score 24
-- Daniel 4:37 → score 23
-- 1 Samuel 2:10 → score 22
-- 1 Chronicles 16:40 → score 22
-- Nehemiah 1:11 → score 22
-
 ## Covenant / Law / Judgment
-- rows: 76
+- rows: 78
 - Leviticus 4:31 → score 29
 - 2 Kings 17:34 → score 26
 - Nehemiah 10:34 → score 25
