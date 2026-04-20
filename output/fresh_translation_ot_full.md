@@ -3908,10 +3908,10 @@ Syntax notes: [TODO]
 Draft translation: And the dove, not finding rest for its feet, returned to him into the ark, because water was on all the face of the earth. And stretching out his hand, he took it and brought it in to himself into the ark.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀναπαύσιν τοῖς ποσὶν αὐτῆς | lemma: ἀνάπαυσις | πούς | morphology: accusative+dative noun phrase | chosen_rendering: rest for its feet | alternate_renderings: rest for sole of her foot | rationale: Keeps the Greek phrase direct and pluralized as written. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: rest for its feet | footnote_text: Greek speaks of rest for the dove's feet in plural form. The translation keeps that direct wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -10820,10 +10820,10 @@ Syntax notes: [TODO]
 Draft translation: Now then swear to me by God that you will not wrong me, nor my seed, nor my name, but according to the righteousness that I did with you, you shall do with me and with the land in which you have lived as a foreigner.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μήτε τὸ σπέρμα μου μήτε τὸ ὄνομά μου | lemma: σπέρμα | ὄνομα | morphology: accusative noun phrase | chosen_rendering: nor my seed nor my name | alternate_renderings: nor my son nor my son's son | rationale: Keeps the Greek seed/name pairing rather than the Masoretic generational phrasing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: nor my seed nor my name | footnote_text: Greek uses seed and name here rather than the Masoretic son and grandson wording. The translation follows the Greek phrase. | source_basis: variant + lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -35005,10 +35005,10 @@ Syntax notes: [TODO]
 Draft translation: And Pharaoh made his heart heavy also at this time, and he did not want to send out the people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐβάρυνεν Φαραω τὴν καρδίαν αὐτοῦ | lemma: βαρύνω | morphology: aorist active indicative 3 singular | chosen_rendering: Pharaoh made his heart heavy also at this time | alternate_renderings: Pharaoh said I will let you go | rationale: Keeps the Septuagint hardening notice at this numbering point rather than the Masoretic speech verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Pharaoh made his heart heavy also at this time | footnote_text: The Septuagint gives a hardening notice here rather than Pharaoh's speech in the Masoretic text. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -42561,10 +42561,10 @@ Syntax notes: [TODO]
 Draft translation: If the stolen thing is found alive in his hand, whether donkey or sheep, he shall repay them double.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ζῶν εὑρεθῇ ἐν τῇ χειρὶ αὐτοῦ | lemma: ζάω | εὑρίσκω | morphology: subjunctive clause | chosen_rendering: stolen thing is found alive in his hand | alternate_renderings: if sun be risen upon him there shall be blood shed | rationale: Keeps the Septuagint restitution line at this numbering point rather than the Masoretic burglary ruling. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: stolen thing is found alive in his hand | footnote_text: The Septuagint places the restitution line here rather than the Masoretic burglary ruling. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -43403,10 +43403,10 @@ Syntax notes: [TODO]
 Draft translation: Keep the feast of unleavened bread. Seven days you shall eat unleavened bread, just as I commanded you, at the time of the month of new grain, for in it you came out from Egypt. You shall not appear before me empty.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν καιρῷ τοῦ μηνὸς τῶν νέων | lemma: καιρός | μήν | νέος | morphology: dative phrase | chosen_rendering: at time of month of new grain | alternate_renderings: in time appointed of month Abib | rationale: Keeps the Greek calendrical phrasing rather than supplying the Hebrew month name. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: at time of month of new grain | footnote_text: Greek refers to the month by harvest character rather than by the Hebrew month name. The translation keeps that Greek wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -51652,10 +51652,10 @@ Syntax notes: [TODO]
 Draft translation: They made the breastpiece square and doubled, a span its length and a span its breadth, doubled.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐποίησαν τὸ λογεῖον τετράγωνον διπλοῦν | lemma: ποιέω | λογεῖον | διπλοῦς | morphology: verbal clause | chosen_rendering: they made breastpiece square and doubled | alternate_renderings: he coupled five curtains by themselves and six by themselves | rationale: Keeps the Septuagint breastpiece line at this numbering point rather than the Masoretic curtain-joining verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they made breastpiece square and doubled | footnote_text: The Septuagint places the breastpiece line here rather than the Masoretic curtain-joining verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -51892,10 +51892,10 @@ Syntax notes: [TODO]
 Draft translation: And he fastened the breastpiece from its rings to the rings of the ephod, joined with blue woven cord to the woven band of the ephod, so that the breastpiece might not loosen from the ephod, as the Lord commanded Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συνῆψεν τὸ λογεῖον ἐκ τῶν δακτυλίων αὐτοῦ ἐπὶ τοὺς δακτυλίους τοῦ ἐπωμίδος | lemma: συνάπτω | λογεῖον | ἐπωμίς | morphology: aorist active indicative clause | chosen_rendering: he fastened breastpiece from its rings to rings of ephod | alternate_renderings: he made two boards for corners of tabernacle | rationale: Keeps the Septuagint breastpiece-fastening line at this numbering point rather than the Masoretic board verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he fastened breastpiece from its rings to rings of ephod | footnote_text: The Septuagint places the breastpiece-fastening line here rather than the Masoretic board verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52092,10 +52092,10 @@ Syntax notes: [TODO]
 Draft translation: And they placed on it a blue cord so that it would be on the turban above, as the Lord commanded Moses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἔθηκαν ἐπ’ αὐτὸ κλωστῆρα ὑάκινθον ... ἐπὶ τὴν κίδαριν ἄνωθεν | lemma: κλωστήρ | κίδαρις | morphology: noun phrase | chosen_rendering: they placed on it blue cord so that it would be on turban above | alternate_renderings: five pillars and hooks overlaid with gold | rationale: Keeps Septuagint turban-cord line at this numbering point rather than Masoretic pillar verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they placed on it blue cord so that it would be on turban above | footnote_text: The Septuagint places the turban-cord line here rather than the Masoretic pillar verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52454,10 +52454,10 @@ Syntax notes: [TODO]
 Draft translation: They also were silver-covered, and all the pegs of the court all around were bronze.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀργυρόχρυσα ἦν | lemma: ἀργυρόχρυσος | morphology: imperfect indicative 3 plural | chosen_rendering: they also were silver-covered | alternate_renderings: six branches going out of sides thereof | rationale: Keeps the Septuagint pin-and-overlay line at this numbering point rather than the Masoretic lampstand-branch verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they also were silver-covered | footnote_text: The Septuagint places another court-pin line here rather than the Masoretic lampstand-branch verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -52556,10 +52556,10 @@ Syntax notes: [TODO]
 Draft translation: and overlaid it with pure gold inside and outside.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ κατεχρύσωσεν αὐτὸ χρυσίῳ καθαρῷ ἔσωθεν καὶ ἔξωθεν | lemma: καταχρυσόω | morphology: aorist active indicative 3 singular | chosen_rendering: overlaid it with pure gold inside and outside | alternate_renderings: overlaid it with brass | rationale: Keeps the Septuagint gold-overlay line at this numbering point rather than the Masoretic bronze-horns verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: overlaid it with pure gold inside and outside | footnote_text: The Septuagint places a gold-overlay line here rather than the Masoretic bronze-horns verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -53138,10 +53138,10 @@ Syntax notes: [TODO]
 Draft translation: And the one hundred talents of silver became the casting of the one hundred capitals of the tent and the capitals of the curtain, one hundred capitals for the one hundred talents, a talent per capital.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἑκατὸν τάλαντα ἀργυρίου ἐγενήθη εἰς τὴν χώνευσιν τῶν ἑκατὸν κεφαλίδων | lemma: τάλαντον | χώνευσις | κεφαλίς | morphology: noun clause | chosen_rendering: one hundred talents of silver became casting of one hundred capitals of tent | alternate_renderings: they made shoulder pieces for it | rationale: Keeps Septuagint silver-capitals accounting line at this numbering point rather than the Masoretic ephod-shoulder verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: one hundred talents of silver became casting of one hundred capitals of tent | footnote_text: The Septuagint places silver-accounting material here rather than the Masoretic ephod-shoulder verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -53298,10 +53298,10 @@ Syntax notes: [TODO]
 Draft translation: And the remaining blue and purple and scarlet they made into ministering garments for Aaron, so that he might minister with them in the holy place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὰ ἐπίλοιπα ὑάκινθος καὶ πορφύρα καὶ κόκκινον | lemma: ἐπίλοιπος | ὑάκινθος | πορφύρα | κόκκινος | morphology: noun phrase | chosen_rendering: remaining blue and purple and scarlet | alternate_renderings: third row a jacinth an agate and an amethyst | rationale: Keeps the Septuagint garment-material line at this numbering point rather than the Masoretic gemstone row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: remaining blue and purple and scarlet | footnote_text: The Septuagint places another garment-material line here rather than the Masoretic gemstone row. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -53318,10 +53318,10 @@ Syntax notes: [TODO]
 Draft translation: And they brought the garments to Moses, and the tent and its utensils and its bases and its bars and the posts,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ προσήνεγκαν τὰς στολὰς πρὸς Μωυσῆν | lemma: στολή | morphology: aorist active indicative 3 plural | chosen_rendering: they brought garments to Moses | alternate_renderings: fourth row beryl onyx and jasper | rationale: Keeps Septuagint presentation line at this numbering point rather than Masoretic gemstone row. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they brought garments to Moses | footnote_text: The Septuagint places the presentation-to-Moses line here rather than the Masoretic gemstone row. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -53398,10 +53398,10 @@ Syntax notes: [TODO]
 Draft translation: and the presentation table and all its utensils and the loaves laid out,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ τὴν τράπεζαν τῆς προθέσεως καὶ πάντα τὰ σκεύη αὐτῆς καὶ τοὺς ἄρτους τοὺς ἐπικειμένους | lemma: τράπεζα | πρόθεσις | morphology: noun phrase | chosen_rendering: presentation table and all its utensils and the loaves laid out | alternate_renderings: they put two chains of gold in rings on ends of breastplate | rationale: Keeps the Septuagint tabernacle-furnishing line at this numbering point rather than the Masoretic breastplate-chain verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: presentation table and all its utensils and the loaves laid out | footnote_text: The Septuagint places another tabernacle-furnishing line here rather than the Masoretic breastplate-chain verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -56786,10 +56786,10 @@ Syntax notes: [TODO]
 Draft translation: The priest who offers it shall eat it. It shall be eaten in a holy place, in the court of the tent of testimony.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ ἱερεὺς ὁ προσφέρων αὐτὴν φάγεται αὐτήν | lemma: προσφέρω | ἐσθίω | morphology: future middle indicative clause | chosen_rendering: priest who offers it shall eat it | alternate_renderings: Lord spoke unto Moses saying | rationale: Keeps the Septuagint priestly-eating line at this numbering point rather than the Masoretic speech heading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: priest who offers it shall eat it | footnote_text: The Septuagint places a priestly-eating line here rather than the Masoretic speech heading. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -64682,10 +64682,10 @@ Syntax notes: [TODO]
 Draft translation: The nakedness of a woman and her daughter you shall not uncover. The daughter of her son and the daughter of her daughter you shall not take to uncover their nakedness, for they are your own kin. It is impiety.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: συγγενεῖς γάρ σού εἰσιν· ἀσέβημά ἐστιν | lemma: συγγενής | ἀσέβημα | morphology: nominative clause | chosen_rendering: they are your own kin. It is impiety | alternate_renderings: they are her near kinswomen; it is wickedness | rationale: Keeps the Greek kinship orientation and impiety term. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: they are your own kin. It is impiety | footnote_text: Greek phrases the kinship directly and labels the act impiety. The translation keeps both. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -76072,10 +76072,10 @@ Syntax notes: [TODO]
 Draft translation: And he shall consecrate to the Lord the days of his vow and bring a year-old lamb for a trespass offering, and the former days shall be without account, because the head of his vow was defiled.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: αἱ ἡμέραι αἱ πρότεραι ἄλογοι ἔσονται | lemma: ἄλογος | morphology: predicate adjective | chosen_rendering: former days shall be without account | alternate_renderings: former days shall be lost | rationale: Keeps the Greek accounting image. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: former days shall be without account | footnote_text: Greek uses an accounting image for the prior days. The translation keeps that image. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -84224,10 +84224,10 @@ Syntax notes: [TODO]
 Draft translation: And Aaron took it, just as Moses spoke to him, and ran into the congregation, and already the breaking had begun among the people. And he cast the incense and made atonement for the people.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἔλαβεν Ααρων ... καὶ ἔδραμεν εἰς τὴν συναγωγήν | lemma: λαμβάνω | τρέχω | morphology: aorist active indicative clause | chosen_rendering: Aaron took it and ran into congregation | alternate_renderings: children of Israel said behold we die | rationale: Keeps the Septuagint plague-atonement line at this numbering point rather than the Masoretic complaint verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Aaron took it and ran into congregation | footnote_text: The Septuagint places the plague-atonement action here rather than the Masoretic complaint line. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -85106,10 +85106,10 @@ Syntax notes: [TODO]
 Draft translation: Thus you also shall remove the Lord's contribution from all your tithes, whatever you receive from the sons of Israel, and from them you shall give the Lord's contribution to Aaron the priest.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀφελεῖτε ἀφαίρεμα κυρίου | lemma: ἀφαιρέω | ἀφαίρεμα | morphology: future active indicative 2 plural | chosen_rendering: you shall remove Lord's contribution | alternate_renderings: you shall offer an heave offering unto Lord | rationale: Keeps the Greek remove/set-apart wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: you shall remove Lord's contribution | footnote_text: Greek uses remove or set-apart language for the offering. The translation keeps that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -92558,10 +92558,10 @@ Syntax notes: [TODO]
 Draft translation: But if her husband by refusal refuses her on the day he hears, all her vows and her bindings which she bound against her life shall not remain, because her husband refused them from her, and the Lord will clear her.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀλλὰ εἰ ἀντιλέγων ἀντείπῃ αὐτῇ ὁ ἀνήρ | lemma: ἀντιλέγω | morphology: aorist active subjunctive 3 singular | chosen_rendering: if her husband by refusal refuses her | alternate_renderings: but every vow of widow and divorced woman shall stand | rationale: Keeps the Septuagint husband's refusal scenario at this numbering point rather than the Masoretic widow/divorced rule. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: if her husband by refusal refuses her | footnote_text: The Septuagint places a husband's-refusal scenario here rather than the Masoretic widow/divorced rule. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -99748,10 +99748,10 @@ Syntax notes: [TODO]
 Draft translation: The day you stood before the Lord your God in Horeb, the day of the assembly, when the Lord said to me, Assemble the people to me, and let them hear my words so that they may learn to fear me all the days they live upon the land and teach their sons.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἵνα μάθωσιν φοβεῖσθαί με ... καὶ τοὺς υἱοὺς αὐτῶν διδάξουσιν | lemma: μανθάνω | φοβέομαι | διδάσκω | morphology: subjunctive clause | chosen_rendering: so that they may learn to fear me ... and teach their sons | alternate_renderings: that they may teach their children | rationale: Keeps Greek sons wording and direct assembly framing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: so that they may learn to fear me ... and teach their sons | footnote_text: Greek says sons here and keeps the assembly frame explicit. The translation follows that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -110006,10 +110006,10 @@ Syntax notes: [TODO]
 Draft translation: And if you enter into your neighbor's standing grain, then you may gather ears with your hands, but you shall certainly not put a sickle to your neighbor's standing grain.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: στάχυας ... δρέπανον | lemma: στάχυς | δρέπανον | morphology: accusative plural noun phrase | chosen_rendering: gather ears with your hands ... not put sickle to standing grain | alternate_renderings: pluck ears with hand ... not move sickle unto standing corn | rationale: Keeps the Greek ear/sickle pair in direct form. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: gather ears with your hands ... not put sickle to standing grain | footnote_text: Greek states the gleaning permission with ears and sickle language. The translation keeps that direct form. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -112656,10 +112656,10 @@ Syntax notes: [TODO]
 Draft translation: And all these curses shall come upon you and pursue you and overtake you until they utterly destroy you and until they perish you, because you did not listen to the voice of the Lord your God, to keep his commands and his ordinances that he commanded you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἀπολοῦσί σε | lemma: ἀπόλλυμι | morphology: future active indicative 3 plural | chosen_rendering: until they utterly destroy you and until they perish you | alternate_renderings: till thou be destroyed | rationale: Keeps the doubled Greek destruction phrasing visible. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: until they utterly destroy you and until they perish you | footnote_text: Greek doubles the destruction language. The translation keeps that heavier cadence visible. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113158,10 +113158,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses called all the sons of Israel and said to them, You have seen all that the Lord did in the land of Egypt before you, to Pharaoh and to his servants and to all his land,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἐκάλεσεν Μωυσῆς πάντας τοὺς υἱοὺς Ἰσραηλ | lemma: καλέω | morphology: aorist active indicative 3 singular | chosen_rendering: Moses called all sons of Israel | alternate_renderings: these are words of covenant | rationale: Keeps the Septuagint historical opening at this numbering point rather than the Masoretic covenant heading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Moses called all sons of Israel | footnote_text: The Septuagint places a historical opening here rather than the Masoretic covenant heading. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -113520,10 +113520,10 @@ Syntax notes: [TODO]
 Draft translation: God will certainly not be willing to be propitiated toward him, but then the wrath of the Lord and his jealousy will burn in that man, and all the curses of this covenant written in the book of this law will cling to him, and the Lord will wipe out his name from under heaven.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐ μὴ θελήσῃ ὁ θεὸς ἱλάσασθαι αὐτῷ | lemma: θέλω | ἱλάσκομαι | morphology: aorist middle infinitive clause | chosen_rendering: God will certainly not be willing to be propitiated toward him | alternate_renderings: Lord will not spare him | rationale: Keeps the Greek propitiation language rather than reducing it to a simpler spare idiom. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: God will certainly not be willing to be propitiated toward him | footnote_text: Greek uses explicit propitiation language here. The translation keeps that wording visible. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -120934,10 +120934,10 @@ Syntax notes: [TODO]
 Draft translation: And the sun stood, and the moon stood in place, until God defended their enemies. And the sun stood in the midst of heaven; it did not go forward to the setting, to the end of one day.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἕως ἠμύνατο ὁ θεὸς τοὺς ἐχθροὺς αὐτῶν | lemma: ἀμύνω | morphology: aorist middle indicative 3 singular | chosen_rendering: until God defended their enemies | alternate_renderings: until people avenged themselves on enemies | rationale: Keeps the Greek divine-action line rather than the Masoretic people-avenging line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: until God defended their enemies | footnote_text: Greek attributes the action directly to God here. The translation keeps that line rather than importing the Masoretic wording. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -121998,10 +121998,10 @@ Syntax notes: [TODO]
 Draft translation: Sihon the king of the Amorites, who dwelt in Heshbon, ruling from Aroer which is in the ravine, from the middle part of the ravine, and half of Gilead as far as Jabbok, boundary of the sons of Ammon,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀπὸ μέρους τοῦ χειμάρρου | lemma: χείμαρρος | morphology: prepositional phrase | chosen_rendering: from middle part of ravine | alternate_renderings: from middle of the river | rationale: Keeps the Greek ravine wording rather than normalizing to river. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from middle part of ravine | footnote_text: Greek uses ravine wording here. The translation keeps that terrain term. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -126424,10 +126424,10 @@ Syntax notes: [TODO]
 Draft translation: And for Naphtali the sixth lot came out.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῷ Νεφθαλι ἐξῆλθεν ὁ κλῆρος ὁ ἕκτος | lemma: κλῆρος | morphology: nominative clause | chosen_rendering: for Naphtali the sixth lot came out | alternate_renderings: sixth lot came out to children of Naphtali according to families | rationale: Keeps the Greek concise lot notice. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: for Naphtali the sixth lot came out | footnote_text: Greek states the lot notice concisely. The translation keeps that brevity. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -129096,10 +129096,10 @@ Syntax notes: [TODO]
 Draft translation: And he gave you a land on which you did not labor, and cities that you did not build, and you settled in them, and you eat vineyards and olive groves that you did not plant.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀμπελῶνας καὶ ἐλαιῶνας | lemma: ἀμπελών | ἐλαιών | morphology: accusative plural nouns | chosen_rendering: vineyards and olive groves | alternate_renderings: vineyards and olive yards | rationale: Keeps the Greek pair in standard English. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: vineyards and olive groves | footnote_text: Greek names the cultivated holdings directly. The translation keeps that pair in standard English. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -132976,10 +132976,10 @@ Syntax notes: [TODO]
 Draft translation: And the men of the city rose early in the morning, and behold, the altar of Baal had been dug down and the grove upon it had been cut down, and the fatted bull had been offered as a whole burnt offering on the altar that had been built.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ μόσχος ὁ σιτευτός | lemma: σιτευτός | morphology: adjective with noun | chosen_rendering: fatted bull | alternate_renderings: second bullock | rationale: Keeps the Greek description of the sacrificed animal. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: fatted bull | footnote_text: Greek describes the offering as a fatted bull. The translation keeps that description. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -146000,10 +146000,10 @@ Syntax notes: [TODO]
 Draft translation: And they sent and gathered the satraps of the foreigners and said, Send away the ark of the God of Israel, and let it sit in its place, and it shall certainly not kill us and our people, because there was confusion of death in the whole city, very heavy, as the ark of the God of Israel entered there.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ καθίσαι ἐν τῷ τόπῳ αὐτῆς | lemma: καθίζω | morphology: aorist active infinitive | chosen_rendering: let it sit in its place | alternate_renderings: let it go again to its own place | rationale: Keeps the Greek sitting/resting wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let it sit in its place | footnote_text: Greek says the ark should sit or remain in its place. The translation keeps that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -146382,10 +146382,10 @@ Syntax notes: [TODO]
 Draft translation: and the golden mice according to the number of all the cities of the foreigners of the five satraps, from fortified city and to village of the Perizzite, and to the great stone on which they placed the ark of the covenant of the Lord, the one in the field of Ōsēe the Baithsamyisite.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀπὸ πόλεως ὀχυρᾶς καὶ ἕως κώμης τοῦ Φερεζαίου | lemma: πόλις | κώμη | Φερεζαῖος | morphology: prepositional phrase | chosen_rendering: from fortified city and to village of the Perizzite | alternate_renderings: both of fenced cities and of country villages | rationale: Keeps the Greek village-of-the-Perizzite wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from fortified city and to village of the Perizzite | footnote_text: Greek includes a village-of-the-Perizzite phrase here. The translation keeps that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -153814,10 +153814,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be on the next day of the month, the second day, David’s place was inspected, and Saoul said to Iōnathan his son, Why is the son of Iessai not present, both yesterday and today, at the table?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὁ τόπος Δαυιδ ἐπεσκέπη | lemma: τόπος | ἐπισκέπτομαι | morphology: aorist passive indicative 3 singular | chosen_rendering: David’s place was inspected | alternate_renderings: David's place was empty | rationale: Keeps the Greek verb of looking in on or examining the place. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: David’s place was inspected | footnote_text: Greek says David's place was looked into or inspected rather than simply empty. The translation keeps that nuance. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -154176,10 +154176,10 @@ Syntax notes: [TODO]
 Draft translation: And David said to the priest, The king has charged me with a word today and said to me, Let no one know the word concerning which I am sending you and concerning which I have charged you. And I have directed the young men to the place called God’s faith, Phellani, Alemoni.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἐνετειλάμην τὰ παιδάρια εἰς τὸν τόπον τὸν λεγόμενον θεοῦ πίστις, Φελλανι, Ἀλεμωνι | lemma: ἐντέλλομαι | morphology: perfect middle indicative 1 singular | chosen_rendering: I have directed young men to place called God’s faith Phellani Alemoni | alternate_renderings: what is under your hand give me five loaves | rationale: Keeps the Septuagint royal-mission explanation and difficult place-name phrase at this numbering point. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: I have directed young men to place called God’s faith Phellani Alemoni | footnote_text: The Septuagint places David's mission explanation here rather than the Masoretic bread request. The translation follows the Greek content and keeps the difficult place-name phrase visible. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -154256,10 +154256,10 @@ Syntax notes: [TODO]
 Draft translation: And Abimelech the priest gave him the loaves of presentation, because there was no bread there except the breads of the presence, the ones removed from the face of the Lord, to set warm bread on the day he took them.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τῆς προθέσεως ... τοὺς ἄρτους τῆς παρουσίας | lemma: πρόθεσις | παρουσία | morphology: noun phrase | chosen_rendering: loaves of presentation ... breads of the presence | alternate_renderings: Doeg the Edomite was there that day | rationale: Keeps the Septuagint holy-bread line at this numbering point rather than the Masoretic Doeg notice. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: loaves of presentation ... breads of the presence | footnote_text: The Septuagint places the holy-bread line here rather than the Masoretic Doeg notice. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -155462,10 +155462,10 @@ Syntax notes: [TODO]
 Draft translation: And David went up from there and sat in the narrow places of Engaddi.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐκάθισεν ἐν τοῖς στενοῖς Εγγαδδι | lemma: κάθημαι | morphology: aorist active indicative 3 singular | chosen_rendering: sat in the narrow places of Engaddi | alternate_renderings: Saul returned from following Philistines and was told David in wilderness of Engedi | rationale: Keeps the Septuagint dwelling-place line at this numbering point rather than the Masoretic notice to Saul. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sat in the narrow places of Engaddi | footnote_text: The Septuagint places David's dwelling-place note here rather than the Masoretic report to Saul. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -155744,10 +155744,10 @@ Syntax notes: [TODO]
 Draft translation: And now, after whom do you come out, king of Israel? After whom do you pursue? After a dead dog and after one flea.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ὀπίσω τίνος σὺ καταδιώκεις; ὀπίσω κυνὸς τεθνηκότος καὶ ὀπίσω ψύλλου ἑνός | lemma: καταδιώκω | κύων | ψύλλος | morphology: question clause | chosen_rendering: after whom do you pursue? after dead dog and after one flea | alternate_renderings: Lord be judge and plead my cause | rationale: Keeps the Septuagint rhetorical taunt at this numbering point rather than the Masoretic appeal-to-judgment line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: after whom do you pursue? after dead dog and after one flea | footnote_text: The Septuagint places David's rhetorical taunt here rather than the Masoretic appeal to judgment. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -156628,10 +156628,10 @@ Syntax notes: [TODO]
 Draft translation: And Abigaia came to Nabal, and behold, a feast was for him in his house like a king’s feast, and the heart of Nabal was good upon him, and he was very drunk, and she did not report to him a thing, small or great, until morning light.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἡ καρδία Ναβαλ ἀγαθὴ ἐπ’ αὐτόν | lemma: καρδία | ἀγαθός | morphology: nominative clause | chosen_rendering: heart of Nabal was good upon him | alternate_renderings: Nabal's heart was merry within him | rationale: Keeps the Greek idiom rather than smoothing it to merry. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: heart of Nabal was good upon him | footnote_text: Greek uses its own idiom here. The translation keeps that form rather than smoothing it to merry. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -157090,10 +157090,10 @@ Syntax notes: [TODO]
 Draft translation: And David said to Abennēr, Are you not a man, and who is like you in Israel? And why do you not guard your lord the king? Because one from the people entered to destroy your lord the king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀνὴρ οὐ σύ | lemma: καὶ τίς ὡς σύ ἐν Ἰσραηλ;ἀνήρ | morphology: idiomatic question | chosen_rendering: are you not a man and who is like you in Israel | alternate_renderings: art not thou a valiant man | rationale: Keeps the Greek rebuke direct without supplying valiant. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: are you not a man and who is like you in Israel | footnote_text: Greek rebukes Abner directly without adding valiant. The translation keeps that direct force. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -163588,10 +163588,10 @@ Syntax notes: [TODO]
 Draft translation: And the rulers of the sons of Ammon said to Anōn their lord, Is it to glorify your father before you that David sent comforters to you? Is it not to search the city and spy it out and inspect it that David sent his servants to you?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δοκιμάσαι αὐτὴν καὶ κατασκοπεῦσαι αὐτὴν καὶ ἐπισκέψασθαι αὐτήν | lemma: δοκιμάζω | κατασκοπεύω | ἐπισκέπτομαι | morphology: infinitive chain | chosen_rendering: search the city and spy it out and inspect it | alternate_renderings: search city and spy it out and overthrow it | rationale: Keeps the Greek triad without importing overthrow. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: search the city and spy it out and inspect it | footnote_text: Greek gives a three-part accusation and does not say overthrow here. The translation keeps the Greek sequence. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -166238,10 +166238,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said, Is the hand of Iōab with you in all this? And the woman said to the king, As your life lives, my lord king, there is not to the right or to the left from all that my lord the king spoke, because your servant Iōab, he himself commanded me, and he himself put in the mouth of your servant all these words.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν τῷ στόματι τῆς δούλης σου | lemma: στόμα | δούλη | morphology: dative noun phrase | chosen_rendering: in mouth of your servant | alternate_renderings: in mouth of your handmaid | rationale: Keeps the Greek phrase direct; servant stays standard project choice. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in mouth of your servant | footnote_text: Greek says Joab put these words in the servant's mouth. The translation keeps the idiom direct. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -169348,10 +169348,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to the king, Let not my lord reckon lawlessness against me, and do not remember how your servant did wrong on the day when my lord the king went out from Ierousalem, so that the king should put it to heart.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μὴ λογισάσθω ὁ κύριός μου ἀνομίαν ἐμοί | lemma: λογίζομαι | ἀνομία | morphology: present passive imperative 3 singular | chosen_rendering: let not my lord reckon lawlessness against me | alternate_renderings: for your servant knows that I have sinned | rationale: Keeps the Septuagint plea at this numbering point rather than the Masoretic confession line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let not my lord reckon lawlessness against me | footnote_text: The Septuagint places Shimei's plea here rather than the Masoretic confession line. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -169708,10 +169708,10 @@ Syntax notes: [TODO]
 Draft translation: Let your servant sit now, and I will die in my city, beside the tomb of my father and my mother. And behold, your servant Chamaam will cross over with my lord the king, and do for him what is good in your eyes.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καθισάτω δὴ ὁ παῖς σου κἀγὼ ἀποθανοῦμαι ἐν τῇ πόλει μου | lemma: καθίζω | ἀποθνῄσκω | morphology: imperative clause | chosen_rendering: let your servant sit now and I will die in my city | alternate_renderings: king answered Chimham shall go over with me | rationale: Keeps the Septuagint Barzillai request at this numbering point rather than the Masoretic royal reply. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: let your servant sit now and I will die in my city | footnote_text: The Septuagint places Barzillai's request here rather than the Masoretic royal reply. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -169728,10 +169728,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said, Chamaam shall cross with me, and I will do for him what is good in your eyes, and whatever you choose from me, I will do for you.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Χαμααμ διαβήσεται μετ’ ἐμοῦ | lemma: διαβαίνω | morphology: future middle indicative 3 singular | chosen_rendering: Chamaam shall cross with me | alternate_renderings: all people went over Jordan and king kissed Barzillai | rationale: Keeps Septuagint Chimham line at this numbering point rather than the Masoretic departure notice. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Chamaam shall cross with me | footnote_text: The Septuagint places the Chimham line here rather than the Masoretic farewell notice. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -176294,10 +176294,10 @@ Syntax notes: [TODO]
 Draft translation: And now the Lord my God has given me rest all around. There is no adversary, and there is no evil encounter.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὐκ ἔστιν ἀντίδικος καὶ οὐκ ἔστιν ἐντύχημα πονηρόν | lemma: ἀντίδικος | ἐντύχημα | morphology: noun clause | chosen_rendering: there is no adversary and there is no evil encounter | alternate_renderings: builders of Solomon and Hiram hewed them | rationale: Keeps the Septuagint rest-and-security verse at this numbering point rather than the Masoretic building-work line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: there is no adversary and there is no evil encounter | footnote_text: The Septuagint places Solomon's rest-and-security line here rather than the Masoretic building-work verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -177400,10 +177400,10 @@ Syntax notes: [TODO]
 Draft translation: And supports beneath its rim all around were encircling it, ten cubits all around, raising the Sea.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: δεσμοὶ ὑποκάτω τῆς θαλάσσης ἐκύκλουν αὐτήν | lemma: δεσμός | θάλασσα | morphology: verbal clause | chosen_rendering: supports beneath its rim all around were encircling it | alternate_renderings: above were costly stones and cedars | rationale: Keeps Septuagint Sea-support line at this numbering point rather than Masoretic building-material verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: supports beneath its rim all around were encircling it | footnote_text: The Septuagint assigns another Sea-support line to this verse number rather than the Masoretic building-material verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -177962,10 +177962,10 @@ Syntax notes: [TODO]
 Draft translation: And he built the House of the Forest of Lebanon, one hundred cubits its length and fifty cubits its breadth and thirty cubits its height, with three rows of cedar pillars and cedar shoulders upon the pillars.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ᾠκοδόμησεν τὸν οἶκον τοῦ δρυμοῦ τοῦ Λιβάνου | lemma: οἰκοδομέω | δρυμός | morphology: aorist active indicative 3 singular | chosen_rendering: he built House of Forest of Lebanon | alternate_renderings: he put five bases on right side of house | rationale: Keeps Septuagint palace-building line at this numbering point rather than the Masoretic basin-base verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he built House of Forest of Lebanon | footnote_text: The Septuagint places the palace-building line here rather than the Masoretic basin-base verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -186222,10 +186222,10 @@ Syntax notes: [TODO]
 Draft translation: And you will speak to him, saying, Thus says the Lord: As you murdered and inherited, because of this thus says the Lord: In every place where the sows and the dogs licked the blood of Nabouthai, there the dogs will lick your blood, and the prostitutes will wash in your blood.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: οὕτως λέγει κύριος· Ὡς σὺ πεφόνευκας καὶ κεκληρονόμηκας | lemma: λέγω | φονεύω | κληρονομέω | morphology: quotation clause | chosen_rendering: thus says Lord: As you murdered and inherited | alternate_renderings: these young men of princes of provinces came out of city | rationale: Keeps Septuagint Naboth judgment oracle at this numbering point rather than Masoretic battle movement verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: thus says Lord: As you murdered and inherited | footnote_text: The Septuagint assigns part of Naboth's judgment oracle to this verse number rather than the Masoretic battle movement line. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -186422,10 +186422,10 @@ Syntax notes: [TODO]
 Draft translation: Have you seen how Achaab was pierced to the heart from before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Εἶδες πῶς κατενύγη Αχααβ ἀπὸ προσώπου μου | lemma: κατανύσσω | morphology: aorist passive indicative 3 singular | chosen_rendering: have you seen how Achaab was pierced to heart from before me | alternate_renderings: they camped one opposite another seven days and battle joined | rationale: Keeps the Septuagint Ahab-judgment line at this numbering point rather than the Masoretic battle summary. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: have you seen how Achaab was pierced to heart from before me | footnote_text: The Septuagint assigns an Ahab-judgment line to this verse number rather than the Masoretic battle summary. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -186604,10 +186604,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to the messengers of son of Ader, Tell your lord, All that you sent to your servant at first I will do, but this thing I cannot do. And the men departed and returned a word to him.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ εἶπεν τοῖς ἀγγέλοις υἱοῦ Αδερ | lemma: λέγω | ἄγγελος | morphology: verbal clause | chosen_rendering: he said to messengers of son of Ader | alternate_renderings: she wrote in letters proclaim fast | rationale: Keeps the Septuagint Ben-hadad messenger exchange at this numbering point rather than the Masoretic Jezebel letter verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he said to messengers of son of Ader | footnote_text: The Septuagint assigns a Ben-hadad messenger line to this verse number rather than the Masoretic Jezebel letter verse. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -194656,10 +194656,10 @@ Syntax notes: [TODO]
 Draft translation: Ioas was seven years old when he became king.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Ἰωας ἑπτὰ ἐτῶν ἐβασίλευσεν | lemma: βασιλεύω | morphology: aorist active indicative 3 singular | chosen_rendering: Ioas was seven years old when he became king | alternate_renderings: in seventh year of Jehu Jehoash began to reign and forty years reigned | rationale: Keeps the Septuagint accession summary at this numbering point rather than the Masoretic fuller regnal formula. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Ioas was seven years old when he became king | footnote_text: The Septuagint gives the short accession statement here rather than the Masoretic fuller regnal formula. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -194676,10 +194676,10 @@ Syntax notes: [TODO]
 Draft translation: In the seventh year of Iou, Ioas became king, and he reigned forty years in Jerusalem, and the name of his mother was Abia from Bērsabee.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν τῷ ἔτει τῷ ἑβδόμῳ Ἰου | lemma: ἔτος | morphology: prepositional phrase | chosen_rendering: in seventh year of Iou | alternate_renderings: Jehoash did what was right | rationale: Keeps the Septuagint accession notice at this numbering point rather than the Masoretic evaluation line. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in seventh year of Iou | footnote_text: The Septuagint gives the accession notice here rather than the Masoretic evaluation summary. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -196662,10 +196662,10 @@ Syntax notes: [TODO]
 Draft translation: And Phakee son of Romeliou, his officer, conspired against him and struck him in Samaria opposite the king's house with Argob and with Aria, and with him were fifty men from the four hundred, and he killed him and reigned in his place.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: μετ’ αὐτοῦ πεντήκοντα ἄνδρες ἀπὸ τῶν τετρακοσίων | lemma: τετρακόσιοι | morphology: prepositional phrase | chosen_rendering: with him were fifty men from the four hundred | alternate_renderings: with him fifty men of the Gileadites | rationale: Keeps the Greek group designation rather than importing the Masoretic reading. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: with him were fifty men from the four hundred | footnote_text: Greek preserves a different group designation here than the Masoretic Gileadite reading. The translation follows the Greek wording. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -197224,10 +197224,10 @@ Syntax notes: [TODO]
 Draft translation: And king Achaz commanded Ourias the priest, saying, Upon the great altar offer the morning whole-burnt-offering and the evening sacrifice and the whole-burnt-offering of the king and his sacrifice and the whole-burnt-offerings of all the people of the land and their sacrifices and their drink-offerings, and pour on it all the blood of the whole-burnt-offering and all the blood of the sacrifice, but the bronze altar will be for me to inquire by.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τὸ δὲ θυσιαστήριον τὸ χαλκοῦν ἔσται μοι εἰς τὸ πρωί | lemma: θυσιαστήριον | πρωί | morphology: noun clause | chosen_rendering: bronze altar will be for me to inquire by | alternate_renderings: brazen altar shall be for me in morning | rationale: Keeps the project's established rendering for the Greek closing clause. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: bronze altar will be for me to inquire by | footnote_text: Greek closes the command with a distinct clause about the bronze altar. The translation keeps the established rendering. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201080,10 +201080,10 @@ Syntax notes: [TODO]
 Draft translation: And he put an end to the idol-priests whom the kings of Judah appointed and who were burning incense in the high places and in the cities of Judah and around Jerusalem, and those burning incense to Baal and to the sun and to the moon and to the Mazouroth and to all the force of heaven.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τοῖς Μαζουρωθ | lemma: Μαζουρωθ | morphology: dative plural proper noun | chosen_rendering: to the Mazouroth | alternate_renderings: to the planets | rationale: Keeps the Greek celestial term transliterated rather than interpreting it. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to the Mazouroth | footnote_text: Greek uses a specific celestial term here. The translation keeps it transliterated rather than interpreting it. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -201300,10 +201300,10 @@ Syntax notes: [TODO]
 Draft translation: And Iōsias turned and saw the tombs there in the city, and he sent and took the bones from the tombs and burned them upon the altar and defiled it, according to the word of the Lord which the man of God spoke.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τοὺς τάφους τοὺς ἐκεῖ ἐν τῇ πόλει | lemma: τάφος | morphology: accusative plural noun phrase | chosen_rendering: tombs there in the city | alternate_renderings: sepulchers there in the mount | rationale: Keeps the Greek city wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: tombs there in the city | footnote_text: Greek says city here. The translation keeps that location wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -207942,10 +207942,10 @@ Syntax notes: [TODO]
 Draft translation: and from the half tribe of Manasse, Anar and its surrounding lands, and Ieblaam and its surrounding lands, according to family, to the rest of the sons of Kaath.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἀπὸ ἡμίσεος φυλῆς Μανασση, Ἀναρ καὶ τὰ περισπόρια αὐτῆς καὶ Ἰεβλααμ καὶ τὰ περισπόρια αὐτῆς | lemma: Μανασση | Ἀναρ | Ἰεβλααμ | morphology: proper noun list | chosen_rendering: and from half tribe of Manasse, Anar and its surrounding lands, and Ieblaam and its surrounding lands | alternate_renderings: and they gave them Hebron in land of Judah | rationale: Keeps Septuagint city-allotment line at this numbering point rather than Masoretic Hebron verse. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and from half tribe of Manasse, Anar and its surrounding lands, and Ieblaam and its surrounding lands | footnote_text: The Septuagint places a Manasseh allotment line here rather than the Masoretic Hebron verse. The translation follows the Greek sequence. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -207962,10 +207962,10 @@ Syntax notes: [TODO]
 Draft translation: To the sons of Gedson, from families of the half tribe of Manasse, Golan from Basan and its surrounding lands, and Aseroth and its surrounding lands.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τοῖς υἱοῖς Γεδσων ἀπὸ τῶν συγγενειῶν ἡμίσεος φυλῆς Μανασση | lemma: υἱός | συγγένεια | morphology: prepositional phrase | chosen_rendering: to sons of Gedson from families of half tribe of Manasse | alternate_renderings: but fields of the city and villages thereof they gave to Caleb | rationale: Keeps the Septuagint allotment line at this numbering point rather than the Masoretic Caleb note. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: to sons of Gedson from families of half tribe of Manasse | footnote_text: The Septuagint places another allotment line here rather than the Masoretic Caleb note. The translation follows the Greek sequence. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -212014,10 +212014,10 @@ Syntax notes: [TODO]
 Draft translation: Elkana and Iēsouni and Ozriēl and Iōazar and Iesboam the Korites,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Ελκανα καὶ Ἰησουνι καὶ Οζριηλ καὶ Ἰωαζαρ καὶ Ἰεσβοαμ οἱ Κοριται | lemma: Ελκανα | Ἰησουνι | Οζριηλ | Ἰωαζαρ | Ἰεσβοαμ | morphology: proper noun list | chosen_rendering: Elkana and Iēsouni and Ozriēl and Iōazar and Iesboam the Korites | alternate_renderings: Joelah and Zebadiah sons of Jeroham of Gedor | rationale: Keeps the Septuagint name list at this numbering point rather than the Masoretic one. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Elkana and Iēsouni and Ozriēl and Iōazar and Iesboam the Korites | footnote_text: The Septuagint preserves a different name list here. The translation follows that Greek register. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -217880,10 +217880,10 @@ Syntax notes: [TODO]
 Draft translation: And more sons of Eleazar were found as chiefs of mighty men than sons of Ithamar, and he divided them: for sons of Eleazar, sixteen chiefs by father-houses, and for sons of Ithamar, eight by father-houses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀρχηγοὺς εὑρέθησαν τοῖς υἱοῖς Ἐλεαζαρ πλείους | lemma: ἀρχηγός | πλείων | morphology: nominative clause | chosen_rendering: more sons of Eleazar were found as chiefs of mighty men than sons of Ithamar | alternate_renderings: more chief men found among sons of Eleazar | rationale: Keeps the Greek fuller phraseology while staying readable. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: more sons of Eleazar were found as chiefs of mighty men than sons of Ithamar | footnote_text: Greek expands the comparison a bit more fully. The translation keeps that shape. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -219564,10 +219564,10 @@ Syntax notes: [TODO]
 Draft translation: This Salōmōth and his brothers were over all treasuries of holy things which king Dauid and chiefs of father-houses and commanders of thousands and hundreds and chiefs of force dedicated,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Σαλωμωθ καὶ οἱ ἀδελφοὶ αὐτοῦ ἐπὶ πάντων τῶν θησαυρῶν τῶν ἁγίων | lemma: Σαλωμωθ | θησαυρός | morphology: proper noun phrase | chosen_rendering: This Salōmōth and his brothers were over all treasuries of holy things | alternate_renderings: which Shelomith and his brethren were over all treasures of dedicated things | rationale: Keeps the Greek holy-things phrasing. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: This Salōmōth and his brothers were over all treasuries of holy things | footnote_text: Greek says holy things here rather than dedicated things. The translation keeps that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -221856,10 +221856,10 @@ Syntax notes: [TODO]
 Draft translation: And who will have strength to build him house? Because heaven and heaven of heavens do not bear his glory. And who am I building him house, except to burn incense before him?
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: τίς ἰσχύσει οἰκοδομῆσαι αὐτῷ οἶκον | lemma: ἰσχύω | οἰκοδομέω | morphology: future active indicative question | chosen_rendering: who will have strength to build him house | alternate_renderings: house which I build is great | rationale: Keeps the Septuagint rhetorical question at this numbering point rather than the Masoretic greatness statement. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: who will have strength to build him house | footnote_text: The Septuagint places a rhetorical question here rather than the Masoretic statement about the greatness of the house. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -225898,10 +225898,10 @@ Syntax notes: [TODO]
 Draft translation: Thus says Lord: You shall not go up and shall not fight against your brothers. Return each to his house, because this thing came from me. And they listened to word of Lord and turned back from not going against Ieroboam.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἀπεστράφησαν τοῦ μὴ πορεύεσθαι | lemma: ἀποστρέφω | morphology: aorist passive indicative 3 plural | chosen_rendering: turned back from not going against Ieroboam | alternate_renderings: returned from going against Jeroboam | rationale: Keeps the Greek turned-back phrase close to the text. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: turned back from not going against Ieroboam | footnote_text: Greek phrases the reversal with a turned-back construction. The translation keeps that form close. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -227106,10 +227106,10 @@ Syntax notes: [TODO]
 Draft translation: And he removed altars of foreigners and high places and broke pillars and cut down groves.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ περιεῖλεν τὰ θυσιαστήρια τῶν ἀλλοτρίων | lemma: περιαιρέω | morphology: aorist active indicative 3 singular | chosen_rendering: he removed altars of foreigners | alternate_renderings: Asa did what was good and right | rationale: Keeps the Septuagint reform-action line at this numbering point rather than the Masoretic summary. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: he removed altars of foreigners | footnote_text: The Septuagint assigns a reform-action line to this verse number rather than the Masoretic summary statement. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -230844,10 +230844,10 @@ Syntax notes: [TODO]
 Draft translation: And Levites and all Iouda did according to all things which Iōdae the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Iōdae did not dismiss courses.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἀπὸ ἀρχῆς τοῦ σαββάτου ἕως τέλους τοῦ σαββάτου | lemma: ἀρχή | τέλος | σάββατον | morphology: prepositional phrase | chosen_rendering: from beginning of Sabbath to end of Sabbath | alternate_renderings: that were to come in on sabbath with those to go out on sabbath | rationale: Keeps the Greek time-span formulation. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: from beginning of Sabbath to end of Sabbath | footnote_text: Greek states the Sabbath span directly. The translation keeps that wording. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -235864,10 +235864,10 @@ Syntax notes: [TODO]
 Draft translation: And he set carved and molten image which he made in house of God, of which God said to Dauid and to Salōmōn his son, In this house and Ierousalem, which I chose from all tribes of Israel, I will put my name forever.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: εἰκόνα γλυπτὴν καὶ χωνευτήν | lemma: γλυπτός | χωνευτός | morphology: accusative noun phrase | chosen_rendering: carved and molten image | alternate_renderings: carved image the idol | rationale: Keeps both Greek image terms instead of collapsing them. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: carved and molten image | footnote_text: Greek uses two image terms here. The translation keeps both. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -238370,10 +238370,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Asgad: 3,222.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Ἀσγαδ | lemma: υἱός | Ἀσγαδ | morphology: proper noun phrase | chosen_rendering: sons of Asgad | alternate_renderings: children of Azgad | rationale: Keeps Greek proper-name form in returnee register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Asgad | footnote_text: Greek preserves its own proper-name form in this returnee list. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -238772,10 +238772,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Heram: 320.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Ἡραμ | lemma: υἱός | Ἡραμ | morphology: proper noun phrase | chosen_rendering: sons of Heram | alternate_renderings: children of Harim | rationale: Keeps the Greek proper-name form in returnee register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Heram | footnote_text: Greek preserves its own proper-name form in the returnee register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -238892,10 +238892,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Phassour: 1,247.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Φασσουρ | lemma: υἱός | Φασσουρ | morphology: proper noun phrase | chosen_rendering: sons of Phassour | alternate_renderings: children of Pashur | rationale: Keeps Greek proper-name form in returnee register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Phassour | footnote_text: Greek preserves its own proper-name form in this register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -240558,10 +240558,10 @@ Syntax notes: [TODO]
 Draft translation: And vessels of house of God, the gold and silver ones which Nabouchodonosor took from the house in Ierousalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sasabasar, the treasurer over the treasury.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Σασαβασαρ τὸν γαζοφύλακα τὸν ἐπὶ τοῦ γαζοφυλακίου | lemma: Σασαβασαρ | γαζοφύλαξ | morphology: proper noun phrase | chosen_rendering: Sasabasar the treasurer over the treasury | alternate_renderings: Sheshbazzar whom he had made governor | rationale: Keeps the Septuagint treasury-office wording rather than the Masoretic governor title. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Sasabasar the treasurer over the treasury | footnote_text: The Septuagint names a treasury office here rather than using the Masoretic governor title. The translation follows the Greek wording. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -243914,10 +243914,10 @@ Syntax notes: [TODO]
 Draft translation: and a letter to Asaph, keeper of the king's park, so that he may give me timbers to roof the gates of the citadel belonging to the house and for wall of the city and for the house into which I will enter. And the king gave to me, as good hand of God was upon me.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ξυλεία ... καταστεγάσαι τὰς πύλας | lemma: ξυλεία | καταστεγάζω | morphology: noun + infinitive | chosen_rendering: timbers to roof the gates | alternate_renderings: timber to make beams for the gates | rationale: Keeps the Greek roofing verb rather than recasting to beams. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: timbers to roof the gates | footnote_text: Greek uses a roofing verb here. The translation keeps that construction. | source_basis: lexical | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -246188,10 +246188,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Hara: 652.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Ἁρα | lemma: υἱός | Ἁρα | morphology: proper noun phrase | chosen_rendering: sons of Hara | alternate_renderings: children of Arah | rationale: Keeps Greek proper-name form in register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Hara | footnote_text: Greek preserves its own proper-name form in this register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -246390,10 +246390,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Edin: 655.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Ἐδιν | lemma: υἱός | Ἐδιν | morphology: proper noun phrase | chosen_rendering: sons of Edin | alternate_renderings: children of Adin | rationale: Keeps Greek proper-name form in Nehemiah register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Edin | footnote_text: Greek preserves its own proper-name form in this register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -246692,10 +246692,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Heram: 320.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Ἡραμ | lemma: υἱός | Ἡραμ | morphology: proper noun phrase | chosen_rendering: sons of Heram | alternate_renderings: children of Harim | rationale: Keeps Greek proper-name form in Nehemiah register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Heram | footnote_text: Greek preserves its own proper-name form in this register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -246812,10 +246812,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Phassour: 1,247.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: υἱοὶ Φασσουρ | lemma: υἱός | Φασσουρ | morphology: proper noun phrase | chosen_rendering: sons of Phassour | alternate_renderings: children of Pashur | rationale: Keeps Greek proper-name form in register. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: sons of Phassour | footnote_text: Greek preserves its own proper-name form in this register. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -247774,10 +247774,10 @@ Syntax notes: [TODO]
 Draft translation: And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in courts of house of God and in the broad places of the city, even to Gate of Ephraim.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἐν ταῖς πλατείαις τῆς πόλεως ἕως πύλης Εφραιμ | lemma: πλατεία | πύλη | morphology: dative phrase | chosen_rendering: in the broad places of the city even to Gate of Ephraim | alternate_renderings: in street of water gate and in street of gate of Ephraim | rationale: Keeps the Septuagint city-broad-places line at this numbering point. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: in the broad places of the city even to Gate of Ephraim | footnote_text: The Septuagint compresses the booth locations here. The translation follows the Greek wording. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -248740,10 +248740,10 @@ Syntax notes: [TODO]
 Draft translation: Maazia, Belgai, Samaia. These were priests.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: Μααζια Βελγαι Σαμαια· οὗτοι ἱερεῖς | lemma: Μααζια | Βελγαι | Σαμαια | morphology: proper noun list | chosen_rendering: Maazia Belgai Samaia. These were priests | alternate_renderings: Levites: Jeshua son of Azaniah etc. | rationale: Keeps the Septuagint priest list at this numbering point rather than the Masoretic Levite list. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Maazia Belgai Samaia. These were priests | footnote_text: The Septuagint places a priest list here rather than the Masoretic Levite list. The translation follows the Greek register. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -249844,10 +249844,10 @@ Syntax notes: [TODO]
 Draft translation: and in Beērsabee,
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ ἐν Βηρσαβεε | lemma: Βηρσαβεε | morphology: prepositional proper noun phrase | chosen_rendering: and in Beērsabee | alternate_renderings: and at Beersheba and its villages | rationale: Keeps the Greek short settlement line at this numbering point. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and in Beērsabee | footnote_text: Greek preserves a short place-name entry here. The translation follows it. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -249864,10 +249864,10 @@ Syntax notes: [TODO]
 Draft translation: and their farmsteads, Lachis and its fields, and they camped in Beērsabee.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: καὶ αἱ ἐπαύλεις αὐτῶν, Λαχις καὶ ἀγροὶ αὐτῆς | lemma: ἐπαύλις | ἀγρός | morphology: noun phrase | chosen_rendering: and their farmsteads, Lachis and its fields | alternate_renderings: and in their villages, at Lachish, and the fields thereof | rationale: Keeps the compressed Septuagint settlement notice at this numbering point rather than the longer Masoretic list. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and their farmsteads, Lachis and its fields | footnote_text: The Septuagint preserves a shorter settlement line here than the Masoretic text. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -250346,10 +250346,10 @@ Syntax notes: [TODO]
 Draft translation: When I was gathering the gatekeepers.
 
 Decision rows:
-- [TODO add decision rows]
+- greek_phrase: ἐν τῷ συναγαγεῖν με τοὺς πυλωρούς | lemma: συνάγω | πυλωρός | morphology: articular infinitive phrase | chosen_rendering: when I was gathering the gatekeepers | alternate_renderings: porter list keeping ward at thresholds of gates | rationale: Keeps the Septuagint first-person gathering note at this numbering point rather than the Masoretic name list. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: when I was gathering the gatekeepers | footnote_text: The Septuagint places a first-person gathering note here rather than the Masoretic gatekeeper list. The translation follows the Greek content. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
