@@ -20,12 +20,6 @@ Selected verses: 6
 - fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
 - brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
-## Numbers 7:89
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy; crossref_top_vote=11; eng_reco=keep; reco=keep
-- fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
-- brenton: When Moses went into the tabernacle of witness to speak to God, then he heard the voice of the Lord speaking to him from off the mercy-seat, which is upon the ark of the testimony, between the two cherubs; and he spoke to him.
-
 ## Numbers 16:3
 - score: 20
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
@@ -37,3 +31,9 @@ Selected verses: 6
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, holy, lord, seed; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+
+## Numbers 19:13
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.

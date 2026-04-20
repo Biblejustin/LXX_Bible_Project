@@ -26,13 +26,6 @@ Books: 32
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## Exodus 3:2
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
-- keywords: angel, being, lord
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
 ## Exodus 6:3
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -47,6 +40,13 @@ Books: 32
 - fresh: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
 - brenton: the one for a sin-offering, the other for a whole-burnt-offering with the meat-offering, and the priest shall make an atonement before the Lord for him that is under purification.
 
+## Leviticus 17:4
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation, soul; crossref_top_vote=3; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: lord, peace, sacrifice, salvation, soul
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
+
 ## Numbers 5:30
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, priest, spirit; reco=keep
@@ -60,6 +60,13 @@ Books: 32
 - keywords: covenant, holy, lord, seed
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+
+## Numbers 19:13
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
+- keywords: lord, soul
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## Deuteronomy 2:30
 - score: 19
@@ -116,13 +123,6 @@ Books: 32
 - keywords: lord, seed, servant
 - fresh: And may your house become like the house of Phares, whom Thamar bore to Judah, from the seed that the Lord will give you from this servant girl.
 - brenton: And let thy house be as the house of Phares, whom Thamar bore to Juda, of the seed which the Lord shall give thee of this handmaid.
-
-## 1 Samuel 1:10
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul, spirit; crossref_top_vote=13; reco=keep
-- keywords: lord, soul, spirit
-- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
-- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
 
 ## 1 Samuel 20:42
 - score: 19

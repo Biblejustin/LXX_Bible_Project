@@ -1,6 +1,6 @@
 # Fresh OT English Witness Review
 
-Rows: 43
+Rows: 44
 
 ## Exodus 20:24
 - priority: `35`
@@ -71,6 +71,20 @@ Rows: 43
 - recommendation: `keep`
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
+## 2 Kings 17:34
+- priority: `26`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `2`
+- split/mixed: `0`
+- signals: unclear
+- recommendation: `needs_logos`
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## Deuteronomy 16:2
 - priority: `26`

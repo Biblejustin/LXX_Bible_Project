@@ -2,7 +2,7 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 96
+Rows: 98
 Books: 34
 
 ## Exodus 14:31
@@ -33,12 +33,26 @@ Books: 34
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
 
+## Leviticus 6:5
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, peace, priest, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: altar, peace, priest, sacrifice, salvation
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
+
 ## Leviticus 7:32
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: peace, priest, salvation
 - fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
 - brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+
+## Leviticus 17:4
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation, soul; crossref_top_vote=3; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: lord, peace, sacrifice, salvation, soul
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
 
 ## Numbers 18:19
 - score: 18
@@ -102,6 +116,13 @@ Books: 34
 - keywords: anointed, holy, judgment, justice, lord, righteousness
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
+
+## 1 Samuel 10:19
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, savior; crossref_top_vote=5; reco=keep
+- keywords: god, king, lord, savior
+- fresh: And you today have counted as nothing your God, who himself is your savior from all your evils and afflictions, and you said, No, but you will appoint a king over us. And now stand before the Lord by your scepters and by your tribes.
+- brenton: And ye have this day rejected God, who is himself your Deliverer out of all your evils and afflictions; and ye said, Nay, but thou shalt set a king over us: and now stand before the Lord according to your tribes, and according to your families.
 
 ## 1 Samuel 20:42
 - score: 19
@@ -186,13 +207,6 @@ Books: 34
 - keywords: king, lord, sin
 - fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
-
-## 2 Kings 17:26
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, king; crossref_top_vote=2; reco=keep
-- keywords: god, judgment, king
-- fresh: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land.
-- brenton: And they spoke to the king of the Assyrians, saying, The nations whom thou hast removed and substituted in the cities of Samaria for the Israelites, know not the manner of the God of the land: and he has sent the lions against them, and, behold, they are slaying them, because they know not the manner of the God of the land.
 
 ## 2 Kings 18:12
 - score: 19

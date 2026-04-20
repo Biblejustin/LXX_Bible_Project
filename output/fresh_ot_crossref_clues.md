@@ -51,6 +51,15 @@ Rows: 232
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - OT clues: 1Kgs.18.30 (2) -> And Elijah said to the people, Come near to me. And all the people came near to him. || 2Chr.14.4 (2) -> And he removed from all cities of Iouda altars and idols, and land was at peace. || 2Chr.29.18 (2) -> And they went inside to Ezekias the king and said, We sanctified all things in house of Lord, altar of whole burnt offering and its vessels and table of presentation and its vessels. || 2Chr.30.12 (2) -> And in Iouda hand of Lord came to give them one heart, to come do according to command of king and rulers in word of Lord.
 
+## 2 Kings 17:34
+- score: 26
+- top vote: 5
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- OT clues: Gen.32.28 (5) -> And he said to him, Your name will no longer be called Jacob, but Israel shall be your name, because you were strong with God, and with men you will be powerful. || Gen.35.10 (5) -> And God said to him, Your name shall no longer be called Jacob, but Israel shall be your name. And he called his name Israel. || 1Kgs.18.31 (3) -> And Elijah took twelve stones according to the number of the tribes of Israel, as the Lord spoke to him, saying, Israel shall be your name. || 2Kgs.17.25 (3) -> And it came to be at the beginning of their dwelling there, they did not fear the Lord, and the Lord sent lions among them, and they were killing among them.
+
 ## Deuteronomy 16:2
 - score: 26
 - top vote: 5
@@ -479,6 +488,26 @@ Rows: 232
 - OT clues: Isa.5.21 (36) -> Woe those understanding in themselves and knowledgeable before themselves. || Eccl.9.11 (33) -> I turned and saw under sun that race not to swift, nor war to strong, and indeed not bread to wise, and indeed not wealth to understanding, and indeed not favor to those knowing, because time and encounter will meet them all. || Ps.49.6-Ps.49.13 (17) -> And heavens will declare his righteousness, because God is judge. Interlude. || Ezek.7.19 (16) -> Their silver will be thrown into streets and their gold will be despised. Their souls will not be filled and their bellies will not be satisfied, because it became torment of their injustices.
 - NT clues: 1Cor.1.27-1Cor.1.29 (57) -> But God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty; || Rom.1.22 (29) -> Professing themselves to be wise, they became fools, || 1Cor.3.18-1Cor.3.20 (23) -> Let no man deceive himself. If any man among you seems to be wise in this world, let him become a fool, that he may be wise.
 
+## Leviticus 17:4
+- score: 21
+- top vote: 3
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- OT clues: Deut.12.5-Deut.12.21 (3) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. || Ezek.20.40 (3) -> Because on my holy mountain, on high mountain, says Lord God, there all house of Israel, to the end, will serve me, and there I will receive them, and there I will visit your firstfruits and firstfruits of your separations in all your holy things. || Gen.17.14 (3) -> And the uncircumcised male, who will not circumcise the flesh of his foreskin on the eighth day, that life shall be utterly destroyed from its kind, because he has scattered my covenant. || Isa.66.3 (3) -> But lawless one sacrificing calf to me as one killing dog; one offering fine flour as blood of pig; one giving incense for memorial as blasphemer. These chose their own ways, and their soul desired their abominations.
+- NT clues: John.10.7 (3) -> Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep. || John.10.9 (3) -> I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture. || John.14.6 (3) -> Jesus says unto him, I am the way, the truth, and the life: no man comes unto the Father, but by me.
+
+## Leviticus 6:5
+- score: 21
+- top vote: 4
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- OT clues: Lev.5.16 (4) -> And what he sinned from the holy things he shall repay, and he shall add a fifth to it and give it to the priest. And the priest shall make atonement for him with the ram of trespass, and it shall be forgiven him. || 1Sam.12.3 (3) -> Behold me. Answer against me before the Lord and before his anointed. Whose calf have I taken, or whose donkey have I taken, or whom of you have I oppressed, or whom have I crushed, or from whose hand have I taken a propitiation, even sandals? Answer against me, and I will restore it to you. || 2Sam.12.6 (3) -> And he will repay the ewe lamb sevenfold, because he did this thing and because he did not spare. || Exod.22.9 (3) -> If someone gives his neighbor a beast of burden or an ox or a sheep or any livestock to keep, and it is injured or dies or is taken captive, and no one knows,
+- NT clues: Luke.19.8 (3) -> And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
+
 ## Leviticus 7:32
 - score: 21
 - top vote: 5
@@ -597,6 +626,16 @@ Rows: 232
 - OT clues: Neh.9.21 (15) -> And forty years you sustained them in the wilderness. They did not lack. Their garments did not grow old, and their feet did not split. || Deut.8.2-Deut.8.4 (14) -> And you shall remember all the road that the Lord your God led you in the wilderness, so that he might afflict you and test you, and so that the things in your heart might be known, whether you would keep his commands or not. || Deut.29.5 (11) -> Bread you did not eat, and wine and strong drink you did not drink, so that you might know that this one is the Lord your God. || Gen.12.2 (8) -> And I will make you into a great nation, and I will bless you and magnify your name, and you shall be blessed.
 - NT clues: Luke.22.35 (15) -> And he said unto them, When I sent you without purse, and pouch, and shoes, lacked all of you any thing? And they said, Nothing. || Ps.90.17 (9) -> And let the beauty of the LORD our God be upon us: and establish you the work of our hands upon us; yea, the work of our hands establish you it.
 
+## Exodus 12:48
+- score: 20
+- top vote: 7
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
+- OT clues: Num.9.14 (7) -> And if a sojourner comes near you in your land and keeps Passover to the Lord, according to the law of the Passover and according to its ordinance he shall keep it. One law shall be for you and for the sojourner and for the native of the land. || Exod.12.19 (3) -> "For seven days no leaven shall be found in your houses. Everyone who eats leavened food, that person shall be destroyed from the assembly of Israel, among both the newcomer and the native-born of the land." || Exod.12.43 (3) -> Then the Lord said to Moses and Aaron, "This is the law of the Passover: no foreigner shall eat of it." || Ezek.47.22 (3) -> You will cast it by lot for yourselves and for the resident aliens dwelling in midst of you, who have begotten sons in midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in midst of tribes of Israel.
+- NT clues: Col.3.11 (5) -> Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Savages, bond nor free: but Christ is all, and in all. || Gal.3.28 (4) -> There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for all of you are all one in Christ Jesus.
+
 ## Exodus 16:4
 - score: 20
 - top vote: 4
@@ -676,26 +715,6 @@ Rows: 232
 - fresh: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
 - OT clues: Lev.14.18 (2) -> And the oil remaining on the priest's hand the priest shall place on the head of the one cleansed, and the priest shall make atonement for him before the Lord. || Lev.5.7 (2) -> And if his hand is not strong enough for a sheep, he shall bring for his sin that he sinned two turtledoves or two young pigeons to the Lord, one for sin and one for a whole burnt offering.
 
-## Leviticus 25:55
-- score: 20
-- top vote: 3
-- OT crossrefs: 4
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
-- OT clues: Lev.25.42 (3) -> Because these are my domestics, whom I brought out from the land of Egypt. They shall not be sold in a servant's sale. || Exod.13.3 (2) -> Then Moses said to the people, "Remember this day on which you came out from the land of Egypt, out of the house of slavery, for with a mighty hand the Lord brought you out from there, and leaven shall not be eaten." || Exod.20.2 (2) -> "I am the Lord your God, who brought you out from the land of Egypt, out of the house of slavery." || Isa.43.3 (2) -> Because I = Lord your God, Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
-- NT clues: 1Cor.7.22-1Cor.7.23 (2) -> For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Christ's servant. || 1Cor.9.19 (2) -> For though I be free from all men, yet have I made myself servant unto all, that I might gain the more. || 1Cor.9.21 (2) -> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
-
-## Leviticus 27:28
-- score: 20
-- top vote: 7
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
-- OT clues: Josh.6.17-Josh.6.19 (7) -> And the city shall be a devoted thing, it and everything in it, to the Lord Sabaoth. Only Rahab the prostitute you shall preserve, her and whatever is in her house. || Deut.20.16-Deut.20.17 (5) -> But from the cities of these nations whose land the Lord your God gives you to inherit, you shall not keep alive from them anything breathing. || Exod.22.20 (5) -> You shall not mistreat a newcomer, nor oppress him, for you were newcomers in the land of Egypt. || Lev.27.21 (5) -> But when the field goes out in the release, it shall be holy to the Lord, like land set apart. It shall belong to the priest as a possession.
-- NT clues: Acts.23.12-Acts.23.14 (2) -> And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
-
 ## Nehemiah 1:5
 - score: 20
 - top vote: 25
@@ -724,6 +743,16 @@ Rows: 232
 - fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 - OT clues: Ps.106.16 (7) -> because he shattered bronze gates and broke iron bars. || Exod.19.6 (4) -> "And you shall be to me a royal priesthood and a holy nation. These are the words you shall speak to the sons of Israel." || Num.14.14 (4) -> And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night. || Num.16.7 (3) -> and place fire on them and place incense on them before the Lord tomorrow, and it shall be that the man whom the Lord chooses, this one is holy. Let it be enough for you, sons of Levi.
 - NT clues: Acts.7.51 (3) -> All of you stubborn and uncircumcised in heart and ears, all of you do always resist the Holy Spirit: (o. pneuma) as your fathers did, so do all of you. || Acts.7.39 (2) -> To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
+
+## Numbers 19:13
+- score: 20
+- top vote: 5
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- OT clues: Lev.15.31 (5) -> And you shall make the sons of Israel cautious from their uncleannesses, and they shall not die because of their uncleannesses by defiling my tent that is among them. || Lev.22.3 (4) -> Say to them: Throughout your generations any man from all your seed who approaches the holy things that the sons of Israel consecrate to the Lord, while his uncleanness is upon him, that person shall be destroyed from before me. I am the Lord your God. || Lev.7.20 (3) -> And the person who eats from the flesh of the sacrifice of salvation, which belongs to the Lord, while his uncleanness is upon him, that person shall perish from his people. || Lev.20.3 (2) -> And I will set my face against that man and destroy him from his people, because he gave of his seed to a ruler so as to defile my holy things and profane the name of those sanctified to me.
+- NT clues: Heb.10.29 (2) -> Of how much greater punishment, suppose all of you, shall he be thought worthy, who has trodden under foot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has done despite unto the Spirit (o. pneuma) of grace? || Heb.2.2-Heb.2.3 (2) -> For if the word (o. logos) spoken by angels was steadfast, and every transgression and disobedience received a just recompence of reward; || John.8.24 (2) -> I said therefore unto you, that all of you shall die in your sins: for if all of you believe not that I am he, all of you shall die in your sins.
 
 ## 1 Chronicles 15:29
 - score: 19
@@ -862,16 +891,6 @@ Rows: 232
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - OT clues: Num.21.23 (8) -> And Sihon did not let Israel pass through his borders, and Sihon gathered all his people and came out to array for battle against Israel in the wilderness, and he came to Jahaz and arrayed for battle against Israel. || Exod.4.21 (7) -> And the Lord said to Moses, 'When you go and return to Egypt, see that you do all the wonders that I gave into your hands before Pharaoh. But I will harden his heart, and he will certainly not send out the people.' || Exod.11.10 (4) -> And Moses and Aaron did all these signs and wonders in the land of Egypt before Pharaoh. But the Lord hardened Pharaoh's heart, and he was not willing to send the sons of Israel out of the land of Egypt. || Josh.11.19-Josh.11.20 (4) -> And there was no city that Israel did not take; they took all in war.
 - NT clues: Rom.9.17-Rom.9.23 (3) -> For the scripture says unto Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth.
-
-## Exodus 3:2
-- score: 19
-- top vote: 17
-- OT crossrefs: 4
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- OT clues: Isa.43.2 (13) -> And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you. || Deut.33.16 (10) -> and from the seasons of the earth's fullness and the acceptable things to the one who appeared in the bush. Let them come on the head of Joseph and on the crown of the one glorified among brothers. || Exod.3.16 (7) -> Go then, gather the elders of the sons of Israel and say to them, 'The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt.' || Isa.63.9 (7) -> In all their affliction not elder nor angel, but Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age.
-- NT clues: Acts.7.30-Acts.7.35 (17) -> And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush. || Mark.12.26 (10) -> And as concerning the dead, that they rise: have all of you not read in the book of Moses, how in the bush God spoke unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? || Luke.20.37 (9) -> Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 
 ## Ezekiel 20:39
 - score: 19
@@ -1142,6 +1161,15 @@ Rows: 232
 - OT clues: Exod.32.4 (6) -> And he took them from their hands and formed them with the graving tool and made them a molten calf. And he said, "These are your gods, Israel, who brought you up from Egypt." || 2Kgs.10.29 (5) -> Only, from the sins of Ieroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan. || 2Kgs.17.16 (5) -> They abandoned the commandments of the Lord their God and made for themselves cast images, two calves, and made groves and bowed down to all the force of heaven and served Baal. || Exod.32.8 (5) -> They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, 'These are your gods, Israel, who brought you up from Egypt.'"
 - NT clues: 2Pet.2.19 (2) -> While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.
 
+## 1 Samuel 10:19
+- score: 18
+- top vote: 5
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: And you today have counted as nothing your God, who himself is your savior from all your evils and afflictions, and you said, No, but you will appoint a king over us. And now stand before the Lord by your scepters and by your tribes.
+- OT clues: 1Sam.12.12 (5) -> And you saw that Naas king of the sons of Ammon came against you, and you said, No, but a king will reign over us, though the Lord your God is your king. || 1Sam.8.19 (3) -> And the people was not willing to hear Samouēl, and they said to him, No, but a king shall be over us. || Josh.24.1 (3) -> And Joshua gathered all the tribes of Israel to Shiloh and called together their elders and their scribes and their judges, and he set them before God. || 1Sam.12.17-1Sam.12.19 (2) -> Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
+
 ## 1 Samuel 15:22
 - score: 18
 - top vote: 418
@@ -1171,6 +1199,16 @@ Rows: 232
 - fresh: And David was greatly distressed, because the people spoke of stoning him, because the soul of all the people was bitter, each for his sons and for his daughters. And David strengthened himself in the Lord his God.
 - OT clues: Ps.56.3-Ps.56.4 (33) -> I will cry to God Most High, to God who benefited me. || Ps.56.11 (27) -> Because your mercy was magnified unto heavens and your truth unto clouds. || Ps.62.5 (21) -> Thus I will bless you in my life; in your name I will lift my hands. || Ps.27.1-Ps.27.3 (18) -> Of David. To you, Lord, I cried out. My God, do not be silent from me, lest if you be silent from me, I become like those going down into pit.
 - NT clues: Ps.25.17 (14) -> The troubles of my heart are enlarged: O bring you me out of my distresses. || 2Cor.1.8-2Cor.1.10 (13) -> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
+
+## 2 Samuel 14:14
+- score: 18
+- top vote: 14
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
+- OT clues: Job.30.23 (14) -> For I know that death will wear me out, for earth is house for every mortal. || Num.35.28 (12) -> For he shall dwell in the city of refuge until the great priest dies, and after the great priest dies the slayer shall return to the land of his possession. || Job.34.15 (9) -> all flesh would die together, and every mortal would depart into earth from where he was formed. || Num.35.15 (9) -> The refuge shall be for the sons of Israel and for the proselyte and for the resident among you. These cities shall be a refuge, for everyone striking a soul unintentionally to flee there.
+- NT clues: Heb.9.27 (12) -> And as it is appointed unto men once to die, but after this the judgment:
 
 ## Ezekiel 18:20
 - score: 18
@@ -1369,16 +1407,6 @@ Rows: 232
 - fresh: So that the Lord may establish his word that he spoke, saying, If your sons guard their way to walk before me in truth, with all their heart and with all their soul, there will not be destroyed for you a man from upon the throne of Israel.
 - OT clues: 2Kgs.20.3 (7) -> O Lord, remember now how I walked before you in truth and with a full heart and did what was good in your eyes. And Ezekias wept with great weeping. || 2Sam.7.25 (6) -> And now, my Lord, O Lord, the word that you spoke concerning your servant and his house, establish forever, Lord Almighty, God of Israel, and now just as you spoke. || 1Kgs.8.25 (5) -> And now, Lord God of Israel, keep for your servant David my father the things you spoke to him, saying, A man for you will not be lifted away from before me, sitting upon the throne of Israel, if only your children keep their ways to walk before me as you walked before me. || 1Chr.17.11-1Chr.17.15 (2) -> And it shall be, when your days are fulfilled and you sleep with your fathers, I will raise up your seed after you, who shall be from your belly, and I will prepare his kingdom.
 - NT clues: Matt.22.37 (4) -> Jesus said unto him, You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. || Ps.132.11-Ps.132.12 (4) -> The LORD has sworn in truth unto David; he will not turn from it; Of the fruit of your body will I set upon your throne. || John.15.9-John.15.10 (3) -> As the Father has loved me, so have I loved you: continue all of you in my love. (o. agape)
-
-## 1 Samuel 1:10
-- score: 17
-- top vote: 13
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
-- OT clues: Job.7.11 (13) -> But therefore neither will I spare my mouth; I will speak in distress, opening bitterness of my soul while hard pressed. || Job.10.1 (10) -> Weary in my soul, groaning, I will let my words go upon him; I will speak bitterness of my soul while hard pressed. || Ps.91.15 (9) -> They will still multiply in rich old age and be prospering, || Isa.54.6 (5) -> Not as woman forsaken and fainthearted has Lord called you, nor as woman hated from youth, said your God.
-- NT clues: Luke.22.44 (10) -> And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground. || Heb.5.7 (7) -> Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
 
 ## 2 Samuel 23:1
 - score: 17
@@ -1677,16 +1705,6 @@ Rows: 232
 - OT clues: 1Sam.15.32 (2) -> And Samouēl said, Bring near to me Agag king of Amalēk. And Agag came to him trembling, and Agag said, Is death thus bitter? || Deut.29.18 (2) -> and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless, || Eccl.7.26 (2) -> And I find more bitter than death the woman whose heart = hunting nets and seines, her hands bonds; good one before face of God will be rescued from her, and sinner will be caught in her. || Isa.38.17 (2) -> For you chose my soul so it might not perish, and you threw all my sins behind me.
 - NT clues: 1Cor.11.6 (2) -> For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered. || Heb.13.4 (2) -> Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. || Heb.4.12-Heb.4.13 (2) -> For the word (o. logos) of God is active, and powerful, and sharper than any two-edged sword, piercing even to the dividing asunder of soul and spirit, (o. pneuma) and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-## Numbers 7:89
-- score: 17
-- top vote: 11
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
-- OT clues: Ps.99.1 (8) -> Psalm for confession. Shout to Lord, all earth. || Exod.33.9-Exod.33.11 (7) -> And when Moses entered the tent, the pillar of the cloud came down and stood at the door of the tent, and he spoke with Moses. || Exod.25.18-Exod.25.22 (6) -> And you shall make two cherubim of beaten gold, and you shall place them on both ends of the propitiatory. || Ps.80.1 (6) -> For end, concerning winepresses. Of Asaph. Psalm.
-- NT clues: Heb.4.16 (11) -> Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need. || 1Pet.1.12 (5) -> Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Spirit (o. pneuma) sent down from heaven; which things the angels desire to look into.
-
 ## Ruth 1:8
 - score: 17
 - top vote: 8
@@ -1767,15 +1785,6 @@ Rows: 232
 - OT clues: Ps.149.4 (93) -> Because Lord delights in his people and will exalt meek ones in salvation. || Isa.62.4-Isa.62.5 (63) -> No longer will you be called Forsaken, and your land will no longer be called Desert, for you will be called My Will, and your land Inhabited. || Isa.12.2 (52) -> Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me. || Zeph.3.15 (47) -> Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
 - NT clues: Ps.147.11 (83) -> The LORD takes pleasure in them that fear him, in those that hope in his mercy. || Heb.7.25 (62) -> Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever lives to make intercession for them. || Jer.32.41 (62) -> Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.
 
-## 2 Kings 17:26
-- score: 16
-- top vote: 2
-- OT crossrefs: 4
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land.
-- OT clues: 1Sam.10.25 (2) -> And Samouēl told the people the righteous judgment of the king, and he wrote it in a scroll and set it before the Lord. And Samouēl sent away all the people, and each went to his place. || 1Sam.8.9 (2) -> And now hear their voice; only in protesting protest to them and declare to them the right of the king who will reign over them. || 2Kgs.17.27 (2) -> And the king of the Assyrians commanded, saying, Take there one of the priests whom you deported from there, and let him go and dwell there and enlighten them about the judgment of the god of the land. || Amos.8.14 (2) -> Those swearing by propitiation of Samaria and saying, Your god lives, Dan, and your god lives, Beersheba, will fall and never rise again.
-
 ## 2 Kings 1:18
 - score: 16
 - top vote: 2
@@ -1785,15 +1794,6 @@ Rows: 232
 - fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
 - OT clues: 1Kgs.22.39 (2) -> And the rest of the matters of Achaab and all that he did and the ivory house that he built and all the cities that he made, behold, are these not written in the Book of the Matters of the Days of the kings of Israel?
 - NT clues: 1Kgs.14.19 (2) -> And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
-
-## 2 Samuel 15:24
-- score: 16
-- top vote: 5
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- OT clues: 2Sam.8.17 (5) -> and Saddouk son of Achitōb and Achimelech son of Abiathar were priests, and Asa the scribe, || Num.4.15 (5) -> And Aaron and his sons shall finish covering the holy things and all the holy vessels when the camp is taken up, and after these things the sons of Kohath shall go in to carry them. But they shall not touch the holy things, lest they die. These are the things the sons of Kohath shall carry in the tent of testimony. || 2Sam.20.25 (4) -> And Sousa was secretary, and Sadok and Abiathar were priests. || 1Sam.22.20 (3) -> And one son of Abimelech son of Achitōb escaped, and his name was Abiathar, and he fled after David.
 
 ## Ecclesiastes 11:5
 - score: 16

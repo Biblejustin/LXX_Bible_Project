@@ -2,17 +2,17 @@
 
 Selected verses: 6
 
-## 1 Samuel 1:10
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul, spirit; crossref_top_vote=13; reco=keep
-- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
-- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
-
 ## 1 Samuel 2:10
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, judgment, justice, lord, righteousness; crossref_top_vote=9; eng_reco=keep; reco=keep
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
+
+## 1 Samuel 10:19
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, savior; crossref_top_vote=5; reco=keep
+- fresh: And you today have counted as nothing your God, who himself is your savior from all your evils and afflictions, and you said, No, but you will appoint a king over us. And now stand before the Lord by your scepters and by your tribes.
+- brenton: And ye have this day rejected God, who is himself your Deliverer out of all your evils and afflictions; and ye said, Nay, but thou shalt set a king over us: and now stand before the Lord according to your tribes, and according to your families.
 
 ## 1 Samuel 15:22
 - score: 18

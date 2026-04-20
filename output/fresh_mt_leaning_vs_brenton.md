@@ -65,15 +65,6 @@ Rows: 408
 - mt: And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
 - brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
 
-## Leviticus 25:55
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.804`
-- fresh_brenton_ratio: `0.686`
-- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
-- mt: For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God.
-- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
-
 ## Numbers 6:11
 - priority: `19`
 - importance: `high`
@@ -127,24 +118,6 @@ Rows: 408
 - fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
 - mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 - brenton: And these are the last words of David.
-
-## 1 Samuel 1:10
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.817`
-- fresh_brenton_ratio: `0.671`
-- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
-- mt: And she was in bitterness of soul, and prayed unto the LORD, and wept sore.
-- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
-
-## 2 Samuel 15:24
-- priority: `16`
-- importance: `high`
-- fresh_mt_ratio: `0.833`
-- fresh_brenton_ratio: `0.121`
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- mt: And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
-- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## Ruth 2:12
 - priority: `16`
@@ -307,6 +280,15 @@ Rows: 408
 - fresh: and you turned back and ate bread and drank water in the place of which he spoke to you, saying, Eat no bread and drink no water, your body shall certainly not enter into the tomb of your fathers.
 - mt: But came back, and have eaten bread and drunk water in the place, of the which the Lord did say to you, Eat no bread, and drink no water; your carcass shall not come unto the tomb of your fathers.
 - brenton: but hast returned, and eaten bread and drunk water in the place of which he spoke to thee, saying, Thou shalt not eat bread, and shalt not drink water; therefore thy body shall in nowise enter into the sepulchre of thy fathers.
+
+## 2 Samuel 15:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.121`
+- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
+- mt: And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
+- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## Nehemiah 9:10
 - priority: `0`
@@ -2495,6 +2477,15 @@ Rows: 408
 - mt: At the end of every seven years you shall make a release.
 - brenton: Every seven years thou shalt make a release.
 
+## 1 Samuel 1:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.671`
+- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
+- mt: And she was in bitterness of soul, and prayed unto the LORD, and wept sore.
+- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
+
 ## 1 Chronicles 16:6
 - priority: `0`
 - importance: `none`
@@ -3070,6 +3061,15 @@ Rows: 408
 - fresh: And the priest said to them, Go in peace. Before the Lord is your way in which you are going.
 - mt: And the priest said unto them, Go in peace: before the LORD is your way wherein all of you go.
 - brenton: And the priest said to them, Go in peace; your way in which ye go, is before the Lord.
+
+## Leviticus 25:55
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.686`
+- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
+- mt: For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God.
+- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
 
 ## Numbers 11:14
 - priority: `0`

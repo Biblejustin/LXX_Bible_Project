@@ -37,6 +37,13 @@ Rows: 100
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
+## 2 Kings 17:34
+- book: 2 Kings
+- score: 26
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
+
 ## Deuteronomy 16:2
 - book: Deuteronomy
 - score: 26
@@ -345,6 +352,20 @@ Rows: 100
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: [missing]
 
+## Leviticus 17:4
+- book: Leviticus
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation, soul; crossref_top_vote=3; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
+
+## Leviticus 6:5
+- book: Leviticus
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, peace, priest, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
+
 ## Leviticus 7:32
 - book: Leviticus
 - score: 21
@@ -436,6 +457,13 @@ Rows: 100
 - fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
 - brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
 
+## Exodus 12:48
+- book: Exodus
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=7; reco=keep
+- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
+- brenton: And if any proselyte shall come to you to keep the passover to the Lord, thou shalt circumcise every male of him, and then shall he approach to sacrifice it, and he shall be even as the original inhabitant of the land; no uncircumcised person shall eat of it.
+
 ## Exodus 16:4
 - book: Exodus
 - score: 20
@@ -492,20 +520,6 @@ Rows: 100
 - fresh: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
 - brenton: the one for a sin-offering, the other for a whole-burnt-offering with the meat-offering, and the priest shall make an atonement before the Lord for him that is under purification.
 
-## Leviticus 25:55
-- book: Leviticus
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=3; reco=keep
-- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
-- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
-
-## Leviticus 27:28
-- book: Leviticus
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
-- brenton: And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
-
 ## Nehemiah 1:5
 - book: Nehemiah
 - score: 20
@@ -526,6 +540,13 @@ Rows: 100
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
 - fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 - brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
+
+## Numbers 19:13
+- book: Numbers
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## 1 Chronicles 15:29
 - book: 1 Chronicles
@@ -625,13 +646,6 @@ Rows: 100
 - fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
 - brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
-## Exodus 3:2
-- book: Exodus
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
 ## Ezekiel 20:39
 - book: Ezekiel
 - score: 19
@@ -687,17 +701,3 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, lord; crossref_top_vote=13; reco=keep
 - fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which Lord God of Israel gave, and the king gave to him because hand of Lord his God was upon him in all he sought.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
-
-## Habakkuk 2:4
-- book: Habakkuk
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=faith, righteous, soul; crossref_top_vote=68; eng_reco=keep; reco=keep
-- fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
-- brenton: [missing]
-
-## Haggai 1:14
-- book: Haggai
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
-- brenton: [missing]

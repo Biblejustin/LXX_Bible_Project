@@ -111,16 +111,6 @@ Use:
 
 ## Exodus
 
-### Exodus 3:2
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
-- crossref top vote: 17
-- english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
-- english witness recommendation: keep
-- english witness signals: unclear
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
 ### Exodus 6:3
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -130,6 +120,13 @@ Use:
 - english witness signals: unclear
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
+
+### Exodus 12:48
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=7; reco=keep
+- crossref top vote: 7
+- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
+- brenton: And if any proselyte shall come to you to keep the passover to the Lord, thou shalt circumcise every male of him, and then shall he approach to sacrifice it, and he shall be even as the original inhabitant of the land; no uncircumcised person shall eat of it.
 
 ### Exodus 14:31
 - score: 22
@@ -206,6 +203,16 @@ Use:
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
 
+### Leviticus 6:5
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, peace, priest, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- logos local: checked 1, supports salvation-shaped rendering, confidence high
+- logos local recommendation: keep
+- logos local signals: lexical_support
+- crossref top vote: 4
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
+
 ### Leviticus 7:32
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
@@ -227,19 +234,15 @@ Use:
 - fresh: the one for sin and the one for whole burnt offering with the sacrifice, and the priest shall make atonement before the Lord for the one being cleansed.
 - brenton: the one for a sin-offering, the other for a whole-burnt-offering with the meat-offering, and the priest shall make an atonement before the Lord for him that is under purification.
 
-### Leviticus 25:55
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=3; reco=keep
+### Leviticus 17:4
+- score: 21
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation, soul; crossref_top_vote=3; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- logos local: checked 1, supports salvation-shaped rendering, confidence high
+- logos local recommendation: keep
+- logos local signals: lexical_support
 - crossref top vote: 3
-- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
-- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
-
-### Leviticus 27:28
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- crossref top vote: 7
-- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
-- brenton: And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
+- fresh: and does not bring it to the door of the tent of testimony so as to make it a whole burnt offering or an offering of salvation to the Lord, accepted as an aroma of sweet fragrance, and whoever slaughters it outside and does not bring it to the door of the tent of testimony so as not to bring a gift to the Lord before the Lord's tent, blood shall be reckoned to that man. He has shed blood. That person shall be cut off from his people.
+- brenton: and shall not bring it to the door of the tabernacle of witness, so as to sacrifice it for a whole-burnt-offering or peace-offering to the Lord to be acceptable for a sweet-smelling savour: and whosoever shall slay it without, and shall not bring it to the door of the tabernacle of witness, so as to offer it as a gift to the Lord before the tabernacle of the Lord; blood shall be imputed to that man, he has shed blood; that soul shall be cut off from his people.
 
 ## Numbers
 
@@ -264,14 +267,6 @@ Use:
 - fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
 - brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
-### Numbers 7:89
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy; crossref_top_vote=11; eng_reco=keep; reco=keep
-- crossref top vote: 11
-- english witness recommendation: keep
-- fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
-- brenton: When Moses went into the tabernacle of witness to speak to God, then he heard the voice of the Lord speaking to him from off the mercy-seat, which is upon the ark of the testimony, between the two cherubs; and he spoke to him.
-
 ### Numbers 16:3
 - score: 20
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
@@ -287,6 +282,13 @@ Use:
 - english witness recommendation: keep
 - fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
 - brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+
+### Numbers 19:13
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
+- crossref top vote: 5
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## Deuteronomy
 
@@ -522,13 +524,6 @@ Use:
 
 ## 1 Samuel
 
-### 1 Samuel 1:10
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul, spirit; crossref_top_vote=13; reco=keep
-- crossref top vote: 13
-- fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
-- brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
-
 ### 1 Samuel 2:10
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, judgment, justice, lord, righteousness; crossref_top_vote=9; eng_reco=keep; reco=keep
@@ -536,6 +531,13 @@ Use:
 - english witness recommendation: keep
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
+
+### 1 Samuel 10:19
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, savior; crossref_top_vote=5; reco=keep
+- crossref top vote: 5
+- fresh: And you today have counted as nothing your God, who himself is your savior from all your evils and afflictions, and you said, No, but you will appoint a king over us. And now stand before the Lord by your scepters and by your tribes.
+- brenton: And ye have this day rejected God, who is himself your Deliverer out of all your evils and afflictions; and ye said, Nay, but thou shalt set a king over us: and now stand before the Lord according to your tribes, and according to your families.
 
 ### 1 Samuel 15:22
 - score: 18
@@ -586,6 +588,13 @@ Use:
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
+### 2 Samuel 14:14
+- score: 18
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god; crossref_top_vote=14; reco=keep
+- crossref top vote: 14
+- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
+- brenton: For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.
+
 ### 2 Samuel 14:17
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -595,13 +604,6 @@ Use:
 - english witness signals: unclear
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
-### 2 Samuel 15:24
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord; crossref_top_vote=5; reco=keep
-- crossref top vote: 5
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ### 2 Samuel 23:1
 - score: 17
@@ -691,12 +693,15 @@ Use:
 - fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
 
-### 2 Kings 17:26
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, king; crossref_top_vote=2; reco=keep
-- crossref top vote: 2
-- fresh: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land.
-- brenton: And they spoke to the king of the Assyrians, saying, The nations whom thou hast removed and substituted in the cities of Samaria for the Israelites, know not the manner of the God of the land: and he has sent the lions against them, and, behold, they are slaying them, because they know not the manner of the God of the land.
+### 2 Kings 17:34
+- score: 26
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- crossref top vote: 5
+- english witnesses: checked 2, fresh 0, brenton 0, mt 0, differs all 2
+- english witness recommendation: needs_logos
+- english witness signals: unclear
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ### 2 Kings 18:12
 - score: 19

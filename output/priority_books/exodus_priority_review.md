@@ -2,17 +2,17 @@
 
 Selected verses: 6
 
-## Exodus 3:2
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
 ## Exodus 6:3
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
+
+## Exodus 12:48
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=7; reco=keep
+- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
+- brenton: And if any proselyte shall come to you to keep the passover to the Lord, thou shalt circumcise every male of him, and then shall he approach to sacrifice it, and he shall be even as the original inhabitant of the land; no uncircumcised person shall eat of it.
 
 ## Exodus 14:31
 - score: 22

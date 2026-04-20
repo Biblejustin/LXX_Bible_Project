@@ -14,17 +14,17 @@ Selected verses: 6
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
+## 2 Samuel 14:14
+- score: 18
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god; crossref_top_vote=14; reco=keep
+- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
+- brenton: For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.
+
 ## 2 Samuel 14:17
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
-## 2 Samuel 15:24
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord; crossref_top_vote=5; reco=keep
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## 2 Samuel 23:1
 - score: 17

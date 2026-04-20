@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 77
+Rows: 76
 Books: 32
 
 ## Exodus 16:4
@@ -96,13 +96,6 @@ Books: 32
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
-## 2 Samuel 15:24
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord; crossref_top_vote=5; reco=keep
-- keywords: covenant, god, lord
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
-
 ## 2 Kings 1:18
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, sin; crossref_top_vote=2; eng_reco=keep; reco=keep
@@ -110,12 +103,12 @@ Books: 32
 - fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
 
-## 2 Kings 17:26
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, king; crossref_top_vote=2; reco=keep
-- keywords: god, judgment, king
-- fresh: And they said to the king of the Assyrians, The nations whom you deported and settled in the cities of Samaria did not know the judgment of the god of the land, and he sent the lions among them, and behold, they are putting them to death because they do not know the judgment of the god of the land.
-- brenton: And they spoke to the king of the Assyrians, saying, The nations whom thou hast removed and substituted in the cities of Samaria for the Israelites, know not the manner of the God of the land: and he has sent the lions against them, and, behold, they are slaying them, because they know not the manner of the God of the land.
+## 2 Kings 17:34
+- score: 26
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- keywords: judgment, law, lord, name
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 2 Kings 18:12
 - score: 19

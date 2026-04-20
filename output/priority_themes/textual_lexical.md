@@ -2,7 +2,7 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 32
+Rows: 33
 Books: 15
 
 ## Genesis 1:2
@@ -47,6 +47,13 @@ Books: 15
 - fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
 - brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.
 
+## Exodus 12:48
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=7; reco=keep
+- keywords: lord, sacrifice
+- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
+- brenton: And if any proselyte shall come to you to keep the passover to the Lord, thou shalt circumcise every male of him, and then shall he approach to sacrifice it, and he shall be even as the original inhabitant of the land; no uncircumcised person shall eat of it.
+
 ## Exodus 14:31
 - score: 22
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=11; reco=keep
@@ -68,20 +75,6 @@ Books: 15
 - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
-## Leviticus 25:55
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=3; reco=keep
-- keywords: god, lord
-- fresh: Because the sons of Israel are mine as domestics. They are my servants, whom I brought out from the land of Egypt. I am the Lord your God.
-- brenton: For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.
-
-## Leviticus 27:28
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- keywords: holy, lord
-- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
-- brenton: And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
-
 ## Numbers 6:11
 - score: 19
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=priest, sin; crossref_top_vote=2; reco=keep
@@ -95,6 +88,13 @@ Books: 15
 - keywords: holy, lord
 - fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 - brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
+
+## Numbers 19:13
+- score: 20
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
+- keywords: lord, soul
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## Deuteronomy 2:7
 - score: 20
@@ -116,6 +116,13 @@ Books: 15
 - keywords: god, lord
 - fresh: And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
 - brenton: But the Lord said to Samuel, Look not on his appearance, nor on his stature, for I have rejected him; for God sees not as a man looks; for man looks at the outward appearance, but God looks at the heart.
+
+## 2 Samuel 14:14
+- score: 18
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god; crossref_top_vote=14; reco=keep
+- keywords: god
+- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
+- brenton: For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.
 
 ## 1 Kings 11:11
 - score: 19

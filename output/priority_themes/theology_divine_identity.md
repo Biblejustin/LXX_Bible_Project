@@ -2,8 +2,8 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 106
-Books: 38
+Rows: 104
+Books: 37
 
 ## Genesis 24:40
 - score: 21
@@ -26,13 +26,6 @@ Books: 38
 - fresh: And Jacob called the name of that place Form of God, for I saw God face to face, and my life was saved.
 - brenton: And Jacob asked and said, Tell me thy name; and he said, Wherefore dost thou ask after my name? and he blessed him there.
 
-## Exodus 3:2
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, being, lord; crossref_top_vote=17; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
-- keywords: angel, being, lord
-- fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
-- brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.
-
 ## Exodus 6:3
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -53,20 +46,6 @@ Books: 38
 - keywords: holy, judgment, lord, truth
 - fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - brenton: and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
-
-## Leviticus 27:28
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- keywords: holy, lord
-- fresh: But every devoted thing that a person devotes to the Lord, from all that belongs to him, from human to beast and from the field of his possession, shall not be sold and shall not be redeemed. Every devoted thing is holy of holies to the Lord.
-- brenton: And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.
-
-## Numbers 7:89
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy; crossref_top_vote=11; eng_reco=keep; reco=keep
-- keywords: god, lord, mercy
-- fresh: When Moses entered into the tent of testimony to speak with him, he heard the voice of the Lord speaking to him from above the mercy seat that is upon the ark of testimony, from between the two cherubim, and he spoke to him.
-- brenton: When Moses went into the tabernacle of witness to speak to God, then he heard the voice of the Lord speaking to him from off the mercy-seat, which is upon the ark of the testimony, between the two cherubs; and he spoke to him.
 
 ## Numbers 16:3
 - score: 20
@@ -228,6 +207,13 @@ Books: 38
 - keywords: angel, god, king, lord
 - fresh: And angel of the Lord spoke to Elijah the Thesbite, saying, Rise, come to meet the messengers of Ochozias king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Akkarōn?
 - brenton: And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the god of Accaron? but it shall not be so.
+
+## 2 Kings 17:34
+- score: 26
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- keywords: judgment, law, lord, name
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 1 Chronicles 6:34
 - score: 20
