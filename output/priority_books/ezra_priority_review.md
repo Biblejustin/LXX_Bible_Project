@@ -2,12 +2,6 @@
 
 Selected verses: 6
 
-## Ezra 1:1
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, spirit; crossref_top_vote=34; reco=keep
-- fresh: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
-- brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
-
 ## Ezra 6:3
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, sacrifice; crossref_top_vote=4; reco=keep
@@ -31,6 +25,12 @@ Selected verses: 6
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, priest; crossref_top_vote=4; reco=keep
 - fresh: And from me, I Arthasastha the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
 - brenton: and from me, whatever it shall seem good to thee to give.
+
+## Ezra 7:26
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, king, law; crossref_top_vote=7; reco=keep
+- fresh: And everyone who is not doing law of your God and law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+- brenton: And whosoever shall not do the law of God, and the law of the king readily, judgment shall be taken upon him, whether for death or for chastisement, or for a fine of his property, or casting into prison.
 
 ## Ezra 10:3
 - score: 19

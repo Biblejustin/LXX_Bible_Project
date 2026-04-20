@@ -1,7 +1,7 @@
 {
   "observations_path": "/Users/justinscaggs/Documents/Codex_bible/data/research/local/witness_review/english_witness_observations.csv",
-  "rows_with_checked_witnesses": 44,
-  "watch_rows": 1,
+  "rows_with_checked_witnesses": 45,
+  "watch_rows": 2,
   "output_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_english_witness_review.csv",
   "watch_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_english_witness_watch.csv"
 }

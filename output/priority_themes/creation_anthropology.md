@@ -2,8 +2,8 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 63
-Books: 31
+Rows: 61
+Books: 32
 
 ## Genesis 1:2
 - score: 21
@@ -26,6 +26,13 @@ Books: 31
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
+## Genesis 24:7
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, lord, seed; crossref_top_vote=7; reco=keep
+- keywords: angel, god, lord, seed
+- fresh: The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
+- brenton: The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.
+
 ## Exodus 6:3
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, lord, name; crossref_top_vote=14; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -33,19 +40,12 @@ Books: 31
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
-## Numbers 5:30
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, priest, spirit; reco=keep
-- keywords: law, lord, priest, spirit
-- fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
-- brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
-
-## Numbers 18:19
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, holy, lord, seed; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- keywords: covenant, holy, lord, seed
-- fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
-- brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+## Leviticus 5:15
+- score: 25
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord, sin, soul; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
+- keywords: holy, lord, sin, soul
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## Numbers 19:13
 - score: 20
@@ -53,13 +53,6 @@ Books: 31
 - keywords: lord, soul
 - fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
 - brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
-
-## Deuteronomy 2:30
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, spirit; crossref_top_vote=8; eng_reco=keep; reco=keep
-- keywords: god, king, lord, spirit
-- fresh: And Sihon king of Heshbon was not willing to let us pass through him, because the Lord our God hardened his spirit and strengthened his heart, so that he might be handed into your hands, as at this day.
-- brenton: And Seon king of Esebon would not that we should pass by him, because the Lord our God hardened his spirit, and made his heart stubborn, that he might be delivered into thy hands, as on this day.
 
 ## Deuteronomy 12:21
 - score: 25
@@ -172,13 +165,6 @@ Books: 31
 - keywords: god, lord, soul
 - fresh: And now, Salomon my son, know God of your fathers and serve him with complete heart and willing soul, because Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end.
 - brenton: And now, my son Solomon, know the God of thy fathers, and serve him with a perfect heart and willing soul: for the Lord searches all hearts, and knows every thought: if thou seek him, he will be found of thee; but if thou shouldest forsake him, he will forsake thee for ever.
-
-## Ezra 1:1
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, spirit; crossref_top_vote=34; reco=keep
-- keywords: king, lord, spirit
-- fresh: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
-- brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
 
 ## Ezra 10:3
 - score: 19

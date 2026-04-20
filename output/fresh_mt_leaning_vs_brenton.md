@@ -29,33 +29,6 @@ Rows: 408
 - mt: Also in time past, when Saul was king over us, you were he that led out and brought in Israel: and the LORD said to you, You shall feed my people Israel, and you shall be a captain over Israel.
 - brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
 
-## Deuteronomy 2:7
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.804`
-- fresh_brenton_ratio: `0.225`
-- fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
-- mt: For the LORD your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the LORD your God has been with you; you have lacked nothing.
-- brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
-
-## Exodus 16:4
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.767`
-- fresh_brenton_ratio: `0.394`
-- fresh: Then the Lord said to Moses, "Behold, I am raining bread for you from heaven, and the people will go out and gather what is needed for the day, day by day, so that I may test them whether they will walk in my law or not."
-- mt: Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
-- brenton: And the Lord said to Moses, Behold, I will rain bread upon you out of heaven: and the people shall go forth, and they shall gather their daily portion for the day, that I may try them whether they will walk in my law or not.
-
-## Genesis 32:2
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.802`
-- fresh_brenton_ratio: `0.545`
-- fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
-- mt: And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
-- brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
-
 ## Numbers 6:11
 - priority: `19`
 - importance: `high`
@@ -64,42 +37,6 @@ Rows: 408
 - fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
 - mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
 - brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
-
-## 1 Kings 18:24
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.831`
-- fresh_brenton_ratio: `0.653`
-- fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
-- mt: And call all of you on the name of your gods, and I will call on the name of the LORD: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
-- brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
-
-## Numbers 5:30
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.857`
-- fresh_brenton_ratio: `0.407`
-- fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
-- mt: Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.
-- brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
-
-## 1 Samuel 15:22
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.793`
-- fresh_brenton_ratio: `0.386`
-- fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
-- mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
-- brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
-
-## 2 Samuel 23:1
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.756`
-- fresh_brenton_ratio: `0.323`
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
-- mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
-- brenton: And these are the last words of David.
 
 ## Ruth 2:12
 - priority: `16`
@@ -596,6 +533,15 @@ Rows: 408
 - mt: And Jacob asked him, and said, Tell me, I pray you, your name. And he said, Wherefore is it that you do ask after my name? And he blessed him there.
 - brenton: And he said to him, Thy name shall no longer be called Jacob, but Israel shall be thy name; for thou hast prevailed with God, and shalt be mighty with men.
 
+## Deuteronomy 2:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.225`
+- fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
+- mt: For the LORD your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the LORD your God has been with you; you have lacked nothing.
+- brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
+
 ## Genesis 32:14
 - priority: `0`
 - importance: `none`
@@ -947,6 +893,15 @@ Rows: 408
 - mt: And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.
 - brenton: And Seon did not allow Israel to pass through his borders, and Seon gathered all his people, and went out to set the battle in array against Israel into the wilderness; and he came to Jassa, and set the battle in array against Israel.
 
+## Numbers 5:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.857`
+- fresh_brenton_ratio: `0.407`
+- fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
+- mt: Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.
+- brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
+
 ## Genesis 32:25
 - priority: `0`
 - importance: `none`
@@ -964,6 +919,15 @@ Rows: 408
 - fresh: And to Joshua I commanded at that time, saying, Your eyes have seen all that the Lord our God did to these two kings. So the Lord our God will do to all the kingdoms into which you are crossing there.
 - mt: And I commanded Joshua at that time, saying, Yours eyes have seen all that the LORD your God has done unto these two kings: so shall the LORD do unto all the kingdoms where you pass.
 - brenton: And I commanded Joshua at that time, saying, Your eyes have seen all things, which the Lord our God did to these two kings: so shall the Lord our God do to all the kingdoms against which thou crossest over thither.
+
+## 2 Samuel 23:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.756`
+- fresh_brenton_ratio: `0.323`
+- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
+- mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
+- brenton: And these are the last words of David.
 
 ## 2 Samuel 23:25
 - priority: `0`
@@ -991,6 +955,15 @@ Rows: 408
 - fresh: And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Iōsias.
 - mt: So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah.
 - brenton: So all the service of the Lord was duly ordered and prepared in that day, for keeping the passover, and offering the whole-burnt-sacrifices on the altar of the Lord, according to the command of king Josias.
+
+## 1 Samuel 15:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.793`
+- fresh_brenton_ratio: `0.386`
+- fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
+- mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+- brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
 
 ## Judges 2:7
 - priority: `0`
@@ -1090,6 +1063,15 @@ Rows: 408
 - fresh: And Moses, taking the breast, presented it before the Lord from the ram of completion, and it became Moses' portion, just as the Lord commanded Moses.
 - mt: And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses' part; as the LORD commanded Moses.
 - brenton: And Moses took of the anointing oil, and of the blood that was on the altar, and sprinkled it on Aaron, and on his garments, and his sons, and the garments of his sons with him.
+
+## Exodus 16:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.767`
+- fresh_brenton_ratio: `0.394`
+- fresh: Then the Lord said to Moses, "Behold, I am raining bread for you from heaven, and the people will go out and gather what is needed for the day, day by day, so that I may test them whether they will walk in my law or not."
+- mt: Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
+- brenton: And the Lord said to Moses, Behold, I will rain bread upon you out of heaven: and the people shall go forth, and they shall gather their daily portion for the day, that I may try them whether they will walk in my law or not.
 
 ## Exodus 34:24
 - priority: `0`
@@ -1423,6 +1405,15 @@ Rows: 408
 - fresh: And they set up for themselves pillars and groves on every high hill and under every leafy tree.
 - mt: And they set them up images and groves in every high hill, and under every green tree:
 - brenton: and they built for themselves high places in all their cities, from the tower of the watchmen to the fortified city. And they made for themselves pillars and groves on every high hill, and under every shady tree.
+
+## Genesis 32:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.802`
+- fresh_brenton_ratio: `0.545`
+- fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
+- mt: And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
+- brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
 
 ## Exodus 28:31
 - priority: `0`
@@ -2017,6 +2008,15 @@ Rows: 408
 - fresh: When Iakōb and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aarōn and brought our fathers out of Egypt and settled them in this place.
 - mt: When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
 - brenton: When Jacob and his sons went into Egypt, and Egypt humbled them, then our fathers cried to the Lord, and the Lord sent Moses and Aaron; and they brought our fathers out of Egypt, and he made them to dwell in this place.
+
+## 1 Kings 18:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.831`
+- fresh_brenton_ratio: `0.653`
+- fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- mt: And call all of you on the name of your gods, and I will call on the name of the LORD: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
+- brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
 
 ## Numbers 27:8
 - priority: `0`

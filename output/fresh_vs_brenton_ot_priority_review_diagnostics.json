@@ -5,9 +5,9 @@
   "min_score": 4,
   "rows_with_nt_parallels": 16,
   "rows_with_nt_english_signal": 16,
-  "rows_with_crossref_signal": 232,
-  "rows_with_english_witness_signal": 34,
-  "rows_with_logos_local_signal": 14,
+  "rows_with_crossref_signal": 233,
+  "rows_with_english_witness_signal": 30,
+  "rows_with_logos_local_signal": 15,
   "books": [
     "1 Chronicles",
     "1 Kings",

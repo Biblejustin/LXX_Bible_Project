@@ -2,6 +2,12 @@
 
 Selected verses: 6
 
+## Judges 2:14
+- score: 17
+- reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=lord; crossref_top_vote=7; reco=keep
+- fresh: And the Lord burned with anger against Israel and gave them into the hand of plunderers, and they plundered them, and he sold them into the hand of their enemies all around, and they were not able to stand before their enemies.
+- brenton: And the Lord was very angry with Israel; and he gave them into the hands of the spoilers, and they spoiled them; and he sold them into the hands of their enemies round about, and they could not any longer resist their enemies,
+
 ## Judges 6:34
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, spirit; crossref_top_vote=8; eng=fresh:1/brenton:2/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -20,17 +26,11 @@ Selected verses: 6
 - fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 - brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
-## Judges 13:9
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, lord; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And God listened to the voice of Manōe, and the angel of God came again to the woman while she was sitting in the field, and Manōe her husband was not with her.
-- brenton: And the Lord heard the voice of Manoë, and the angel of God came yet again to the woman; and she sat in the field, and Manoë her husband was not with her.
-
-## Judges 13:20
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, angel, lord; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
-- brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
+## Judges 15:6
+- score: 18
+- reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=law; crossref_top_vote=6; reco=keep
+- fresh: And the foreigners said, Who did this? And they said, Sampsōn, son-in-law of the Thamnathite, because he took his wife and gave her to his companion. And the foreigners went up and burned the house of her father and her and her father with fire.
+- brenton: And the Philistines said, Who has done these things? and they said, Sampson the son-in-law of the Thamnite, because he has taken his wife, and given her to one of his friends; and the Philistines went up, and burnt her and her father's house with fire.
 
 ## Judges 21:4
 - score: 18

@@ -2,15 +2,15 @@
 
 Altar, sacrifice, priesthood, holiness in cultic setting.
 
-Rows: 75
+Rows: 73
 Books: 32
 
-## Exodus 12:48
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=7; reco=keep
-- keywords: lord, sacrifice
-- fresh: "And if any newcomer comes to you to keep Passover to the Lord, you shall circumcise every male of him, and then he shall come near to keep it, and he shall be like the native-born of the land. No uncircumcised person shall eat of it."
-- brenton: And if any proselyte shall come to you to keep the passover to the Lord, thou shalt circumcise every male of him, and then shall he approach to sacrifice it, and he shall be even as the original inhabitant of the land; no uncircumcised person shall eat of it.
+## Exodus 14:13
+- score: 21
+- reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, salvation; crossref_top_vote=78; reco=keep
+- keywords: god, lord, salvation
+- fresh: Then Moses said to the people, "Take courage. Stand and see the salvation from God that he will accomplish for us today. For in the way you have seen the Egyptians today, you shall never again see them through all time."
+- brenton: And Moses said to the people, Be of good courage: stand and see the salvation which is from the Lord, which he will work for us this day; for as ye have seen the Egyptians to-day, ye shall see them again no more for ever.
 
 ## Exodus 20:24
 - score: 35
@@ -40,12 +40,26 @@ Books: 32
 - fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
 - brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
 
+## Leviticus 4:18
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=altar, lord, priest; crossref_top_vote=2; reco=keep
+- keywords: altar, lord, priest
+- fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
+- brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
+
 ## Leviticus 4:31
 - score: 29
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, lord, peace, priest, sacrifice, salvation, sin
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## Leviticus 5:15
+- score: 25
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord, sin, soul; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
+- keywords: holy, lord, sin, soul
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## Leviticus 6:5
 - score: 21
@@ -54,40 +68,26 @@ Books: 32
 - fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
 - brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
 
-## Leviticus 6:10
-- score: 21
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord, sin; crossref_top_vote=4; reco=keep
-- keywords: holy, lord, sin
-- fresh: It shall not be baked leavened. I have given it to them as a portion from the Lord's offerings. It is holy of holies, like that for sin and like that for trespass.
-- brenton: It shall not be baked with leaven. I have given it as a portion to them of the burnt-offerings of the Lord: it is most holy, as the offering for sin, and as the offering for trespass.
-
-## Leviticus 7:32
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=peace, priest, salvation; crossref_top_vote=5; crossref_shared_family=2; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
-- keywords: peace, priest, salvation
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
-
-## Numbers 5:18
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest, sacrifice; crossref_top_vote=2; eng_reco=keep; reco=keep
-- keywords: lord, priest, sacrifice
-- fresh: And the priest shall set the woman before the Lord and uncover the woman's head and put upon her hands the sacrifice of memorial, the sacrifice of jealousy. And in the priest's hand shall be the water of reproof, this cursed water.
-- brenton: And the priest shall cause the woman to stand before the Lord, and shall uncover the head of the woman, and shall put into her hands the sacrifice of memorial, the sacrifice of jealousy; and in the hand of the priest shall be the water of this conviction that brings the curse.
-
-## Numbers 5:30
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, priest, spirit; reco=keep
-- keywords: law, lord, priest, spirit
-- fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
-- brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
-
 ## Numbers 6:11
 - score: 19
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=priest, sin; crossref_top_vote=2; reco=keep
 - keywords: priest, sin
 - fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
 - brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
+
+## Numbers 6:14
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, sin; crossref_top_vote=3; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: lord, peace, sacrifice, sin
+- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
+
+## Numbers 6:18
+- score: 20
+- reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=peace, sacrifice; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: peace, sacrifice
+- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+- brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
 
 ## Numbers 16:3
 - score: 20
@@ -96,12 +96,12 @@ Books: 32
 - fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
 - brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
 
-## Numbers 18:19
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, holy, lord, seed; crossref_top_vote=6; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- keywords: covenant, holy, lord, seed
-- fresh: All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you.
-- brenton: Every special offering of the holy things, whatsoever the children of Israel shall specially offer to the Lord, I have given to thee and to thy sons and to thy daughters with thee, a perpetual ordinance: it is a covenant of salt for ever before the Lord, for thee and thy seed after thee.
+## Numbers 35:25
+- score: 22
+- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=anointed, holy, priest; crossref_top_vote=5; reco=keep
+- keywords: anointed, holy, priest
+- fresh: And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to the city of his refuge where he fled, and he shall dwell there until the great priest dies, the one whom they anointed with the holy oil.
+- brenton: And the congregation shall rescue the slayer from the avenger of blood, and the congregation shall restore him to his city of refuge, whither he fled for refuge; and he shall dwell there till the death of the high-priest, whom they anointed with the holy oil.
 
 ## Deuteronomy 12:26
 - score: 25
@@ -152,13 +152,6 @@ Books: 32
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
-## Judges 13:20
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, angel, lord; crossref_top_vote=8; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
-- keywords: altar, angel, lord
-- fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
-- brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
-
 ## Judges 21:4
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, peace, salvation; crossref_top_vote=5; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
@@ -173,13 +166,6 @@ Books: 32
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
 
-## 1 Samuel 15:22
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sacrifice; crossref_top_vote=418; eng_reco=keep; reco=keep
-- keywords: lord, sacrifice
-- fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
-- brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
-
 ## 1 Kings 2:35
 - score: 27
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
@@ -187,12 +173,12 @@ Books: 32
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-## 2 Kings 1:18
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, sin; crossref_top_vote=2; eng_reco=keep; reco=keep
-- keywords: king, lord, sin
-- fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Achaab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Iouda. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Ieroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Achaab.
-- brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
+## 2 Kings 11:4
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, king, lord, priest; crossref_top_vote=4; reco=keep
+- keywords: covenant, king, lord, priest
+- fresh: And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
+- brenton: And in the seventh year Jodae sent and took the captains of hundreds of the Chorri and of the Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king's son.
 
 ## 2 Kings 23:24
 - score: 20
@@ -229,19 +215,19 @@ Books: 32
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
-## 2 Chronicles 26:18
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, king, lord, sacrifice; crossref_top_vote=7; eng_reco=keep; reco=keep
-- keywords: glory, god, king, lord, sacrifice
-- fresh: And they stood against Ozia the king and said to him, Not for you, Ozia, to burn incense to Lord, but for priests, sons of Aaron, those sanctified to burn incense. Go out from sanctuary, because you rebelled from Lord, and this shall not be for glory to you from Lord God.
-- brenton: And they withstood Ozias the king, and said to him, It is not for thee, Ozias, to burn incense to the Lord, but only for the priests the sons of Aaron, who are consecrated to sacrifice: go forth of the sanctuary, for thou hast departed from the Lord; and this shall not be for glory to thee from the Lord God.
-
 ## 2 Chronicles 33:16
 - score: 26
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, god, lord, peace, sacrifice, salvation
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
+## 2 Chronicles 35:3
+- score: 24
+- reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=god, holy, king, lord; crossref_top_vote=5; reco=keep
+- keywords: god, holy, king, lord
+- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to Lord and placed holy ark in house which Salōmōn son of Dauid king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to Lord your God and to his people Israel.
+- brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
 ## Ezra 6:3
 - score: 19

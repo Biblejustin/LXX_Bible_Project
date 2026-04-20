@@ -8,6 +8,12 @@ Selected verses: 6
 - fresh: And yesterday and the third day, while Saoul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
 - brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
 
+## 2 Samuel 6:12
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord; crossref_top_vote=5; reco=keep
+- fresh: And it was reported to king David, saying, The Lord has blessed the house of Abeddara and all his things for the sake of the ark of God. And David went and brought up the ark of the Lord from the house of Abeddara into the City of David with gladness.
+- brenton: And it was reported to king David, saying, The Lord has blessed the house of Abeddara, and all that he has, because of the ark of the Lord. And David went, and brought up the ark of the Lord from the house of Abeddara to the city of David with gladness.
+
 ## 2 Samuel 7:19
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, servant; crossref_top_vote=5; eng_reco=keep; reco=keep
@@ -31,9 +37,3 @@ Selected verses: 6
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord, servant; crossref_top_vote=6; reco=keep
 - fresh: And he schemed against your servant to my lord the king. But my lord the king is like an angel of God. So do what is good in your eyes.
 - brenton: And he has dealt deceitfully with thy servant to my lord the king: but my lord the king is as an angel of God, and do thou that which is good in thine eyes.
-
-## 2 Samuel 23:1
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord; crossref_top_vote=7; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And these are the last words of David: Faithful is David son of Iessai, and faithful the man whom the Lord raised up to be the anointed of the God of Iakob, and beautiful are the psalms of Israel.
-- brenton: And these are the last words of David.

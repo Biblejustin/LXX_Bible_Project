@@ -20,6 +20,12 @@ Selected verses: 6
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
+## Genesis 24:7
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, lord, seed; crossref_top_vote=7; reco=keep
+- fresh: The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
+- brenton: The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.
+
 ## Genesis 24:14
 - score: 21
 - reasons: decisions=2; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, mercy, servant, virgin; crossref_top_vote=8; reco=keep
@@ -31,9 +37,3 @@ Selected verses: 6
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=angel, god, lord; crossref_top_vote=10; reco=keep
 - fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
 - brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
-
-## Genesis 32:2
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, name; crossref_top_vote=5; reco=keep
-- fresh: And Jacob said when he saw them, This is God's camp. And he called the name of that place Camps.
-- brenton: And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.

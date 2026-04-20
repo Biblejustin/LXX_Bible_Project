@@ -1,6 +1,6 @@
 # Fresh OT English Witness Review
 
-Rows: 44
+Rows: 45
 
 ## Exodus 20:24
 - priority: `35`
@@ -127,6 +127,20 @@ Rows: 44
 - recommendation: `keep`
 - fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
 - brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
+
+## Leviticus 5:15
+- priority: `25`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `1`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `1`
+- split/mixed: `0`
+- signals: unclear
+- recommendation: `none`
+- fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
+- brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
 ## 1 Chronicles 22:19
 - priority: `24`

@@ -1,6 +1,6 @@
 # Fresh OT Logos Local Review
 
-Rows: 14
+Rows: 15
 
 ## Exodus 20:24
 - priority: `35`
@@ -156,8 +156,8 @@ Rows: 14
 - fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
 - brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
 
-## Leviticus 7:32
-- priority: `21`
+## Numbers 6:14
+- priority: `20`
 - importance: `high`
 - checked: `1`
 - scopes: soteria-sacrifice-formula
@@ -167,8 +167,22 @@ Rows: 14
 - confidence: `high`
 - tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: And you shall give the right arm as a contribution to the priest from your sacrifices of salvation.
-- brenton: and ye shall give the right shoulder for a choice piece to the priest of your sacrifices of peace-offering.
+- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
+
+## Numbers 6:18
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+- brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
 
 ## Judges 21:4
 - priority: `18`
