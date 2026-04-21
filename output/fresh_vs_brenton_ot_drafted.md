@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 21332
-- medium: 307
-- low: 1278
+- high: 21512
+- medium: 281
+- low: 1124
 - none: 0
 
 Note:
@@ -191324,108 +191324,108 @@ Note:
 
 ### Ezekiel 39:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all people of land will bury them, and it will be to them for renown on day I was glorified, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And men will appoint for continual duty, going through the land to bury those left on face of land, to cleanse it; after seven months they will search.
 - brenton: [missing]
 
 ### Ezekiel 39:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And everyone passing through the land and seeing a human bone will build beside it a marker until buriers bury it in Valley, burial place of Gog.
 - brenton: [missing]
 
 ### Ezekiel 39:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed name of the city is Burial Place, and land will be cleansed.
 - brenton: [missing]
 
 ### Ezekiel 39:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, say, Thus says Lord: Say to every bird and to all beasts of field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, great sacrifice on mountains of Israel, and eat flesh and drink blood.
 - brenton: [missing]
 
 ### Ezekiel 39:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flesh of giants you will eat and blood of rulers of earth you will drink, rams and calves and goats, all fattened calves.
 - brenton: [missing]
 
 ### Ezekiel 39:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will eat fat to fullness and drink blood to drunkenness from my sacrifice that I have sacrificed for you.
 - brenton: [missing]
 
 ### Ezekiel 39:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will be filled at my table with horse and rider, giant and every man of war, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give my glory among you, and all nations will see my judgment that I did and my hand that I brought upon them.
 - brenton: [missing]
 
 ### Ezekiel 39:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And house of Israel will know that I am Lord their God from this day and onward.
 - brenton: [missing]
 
 ### Ezekiel 39:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all nations will know that because of their sins house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into hands of their enemies, and they all fell by sword.
 - brenton: [missing]
 
 ### Ezekiel 39:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to their uncleannesses and according to their lawless deeds I dealt with them, and I turned my face away from them.
 - brenton: [missing]
@@ -191441,1044 +191441,1044 @@ Note:
 
 ### Ezekiel 39:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will bear their own dishonor and the injustice by which they acted unjustly when they dwell on their land in peace and there is no one frightening them.
 - brenton: [missing]
 
 ### Ezekiel 39:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When I turn them back from nations and gather them from lands of nations and am sanctified in them before nations,
 - brenton: [missing]
 
 ### Ezekiel 39:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then they will know that I am Lord their God, in my appearing to them among nations.
 - brenton: [missing]
 
 ### Ezekiel 39:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will no longer turn my face away from them, because I poured out my wrath upon house of Israel, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 40:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in twenty-fifth year of our captivity, in first month, on tenth of month, in fourteenth year after city was taken, on that day hand of Lord came upon me and led me.
 - brenton: [missing]
 
 ### Ezekiel 40:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In vision of God into land of Israel, and he set me on very high mountain, and on it as building of city opposite.
 - brenton: [missing]
 
 ### Ezekiel 40:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me there, and behold, a man, and his appearance was like appearance of gleaming bronze, and in his hand was builder’s cord and measuring reed, and he stood at gate.
 - brenton: [missing]
 
 ### Ezekiel 40:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the man said to me, Have you seen, son of man? See with your eyes and hear with your ears and set in your heart all that I show you, because for this you entered here, to be shown. And you will show house of Israel all that you see.
 - brenton: [missing]
 
 ### Ezekiel 40:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, wall outside house around it, and in man’s hand a measuring reed of six cubits, each a cubit and a handbreadth, and he measured outer wall, breadth one reed, and its height one reed.
 - brenton: [missing]
 
 ### Ezekiel 40:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he entered into gate facing east, by seven steps, and measured porch of gate, one reed.
 - brenton: [missing]
 
 ### Ezekiel 40:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the chamber, one reed in length and one reed in width, and porch between the chambers, six cubits, and second chamber one reed in width and one reed in length, and porch five cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And third chamber, one reed in width and one reed in length.
 - brenton: [missing]
 
 ### Ezekiel 40:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And porch of gateway next to porch of gate, eight cubits, and jambs two cubits, and porch of gate inward.
 - brenton: [missing]
 
 ### Ezekiel 40:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chambers of gate, chambers opposite, three on one side and three on the other, and one measure in the three, and one measure in the porches, here and there.
 - brenton: [missing]
 
 ### Ezekiel 40:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured width of doorway of gateway, ten cubits, and breadth of gateway, thirteen cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one cubit projection before the chambers, here and there, and the chamber six cubits on this side and six cubits on that side.
 - brenton: [missing]
 
 ### Ezekiel 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured the gate from wall of one chamber to wall of the other chamber, breadth twenty-five cubits, doorway opposite doorway.
 - brenton: [missing]
 
 ### Ezekiel 40:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And court of porch of gate, sixty cubits, twenty chambers of gate around.
 - brenton: [missing]
 
 ### Ezekiel 40:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from court of outer gate to court of inner porch of gate, fifty cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hidden windows on the chambers and on the porches inside gate of court all around, and likewise for the porches, windows all around inside, and on the porch palms here and there.
 - brenton: [missing]
 
 ### Ezekiel 40:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me into inner court, and behold, side rooms and colonnades around the court, thirty side rooms on the colonnades.
 - brenton: [missing]
 
 ### Ezekiel 40:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the porticoes along back of the gates, according to length of the gates, the lower colonnade.
 - brenton: [missing]
 
 ### Ezekiel 40:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured width of court from court of outer gate inward to court of gate facing out, one hundred cubits, facing east, and he brought me northward.
 - brenton: [missing]
 
 ### Ezekiel 40:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, gate facing north to outer court, and he measured it, its length and its breadth.
 - brenton: [missing]
 
 ### Ezekiel 40:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its chambers, three here and three there, and its porches and its palms, and it came to be according to measures of gate facing east, fifty cubits its length and twenty-five cubits its breadth.
 - brenton: [missing]
 
 ### Ezekiel 40:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its windows and its porches and its palms were like gate facing east, and by seven steps they went up to it, and its porches inward.
 - brenton: [missing]
 
 ### Ezekiel 40:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gate of inner court faced gate of north, like gate facing east, and he measured court from gate to gate, one hundred cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led me toward south, and behold, gate facing south, and he measured it and its chambers and its porches by these measures.
 - brenton: [missing]
 
 ### Ezekiel 40:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its windows and its porches around, like windows of the porch, fifty cubits its length and twenty-five cubits its breadth.
 - brenton: [missing]
 
 ### Ezekiel 40:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seven steps to it, and its porches inward, and palms to it, one here and one there on the jambs.
 - brenton: [missing]
 
 ### Ezekiel 40:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gate opposite gate of inner court southward, and he measured court from gate to gate, one hundred cubits breadth to south.
 - brenton: [missing]
 
 ### Ezekiel 40:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me into inner court by the south gate and measured the gate according to these measures.
 - brenton: [missing]
 
 ### Ezekiel 40:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its chambers and its porches according to these measures, and windows to it and to its porches around, fifty cubits its length and breadth twenty-five cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its porches to the outer court, and palms on the jambs, and eight steps.
 - brenton: [missing]
 
 ### Ezekiel 40:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me to the gate facing east and measured it according to these measures.
 - brenton: [missing]
 
 ### Ezekiel 40:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its chambers and its jambs and its porches according to these measures, and windows to it and to its porches around, fifty cubits its length and breadth twenty-five cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its porches to the inner court, and palms on the jambs here and there, and eight steps to it.
 - brenton: [missing]
 
 ### Ezekiel 40:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me to the north gate and measured according to these measures,
 - brenton: [missing]
 
 ### Ezekiel 40:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and its chambers and its jambs and its porches and windows around to it and to its porches, fifty cubits its length and breadth twenty-five cubits.
 - brenton: [missing]
 
 ### Ezekiel 40:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its porches to the outer court, and palms on the jambs here and there, and eight steps to it.
 - brenton: [missing]
 
 ### Ezekiel 40:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its side rooms and its doorways and its porches were by the gate.
 - brenton: [missing]
 
 ### Ezekiel 40:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Second pouring out, so that they may slaughter in it the offerings for sin and for ignorance.
 - brenton: [missing]
 
 ### Ezekiel 40:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And along back of the runnel of burnt offerings facing north, two tables to east, and along back of the second and of porch of gate, two tables to east.
 - brenton: [missing]
 
 ### Ezekiel 40:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Four on this side and four on that side, along side of gate; on them they will slaughter the sacrifices, opposite the eight tables of the sacrifices.
 - brenton: [missing]
 
 ### Ezekiel 40:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And four tables for burnt offerings, of cut stone, one and a half cubits broad and two and a half cubits long and one cubit high; upon them they will place the implements with which they slaughter there the burnt offerings and the sacrifices.
 - brenton: [missing]
 
 ### Ezekiel 40:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And a handbreadth border was carved inward around, and over the tables awnings for shelter from rain and from heat.
 - brenton: [missing]
 
 ### Ezekiel 40:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me into the inner court, and behold, two chambers in the inner court, one along back of gate facing north, looking south, and one along back of gate southward, looking north.
 - brenton: [missing]
 
 ### Ezekiel 40:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, This chamber looking south is for priests keeping charge of the house.
 - brenton: [missing]
 
 ### Ezekiel 40:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the chamber looking north is for priests keeping charge of the altar; these are sons of Zadok drawing near from Levi to Lord to minister to him.
 - brenton: [missing]
 
 ### Ezekiel 40:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured the court, length one hundred cubits and breadth one hundred cubits on its four sides, and the altar opposite the house.
 - brenton: [missing]
 
 ### Ezekiel 40:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me to the porch of the house and measured jamb of porch, five cubits breadth here and five cubits there, and breadth of doorway fourteen cubits and shoulders of doorway three cubits here and three cubits there.
 - brenton: [missing]
 
 ### Ezekiel 40:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And length of porch twenty cubits and breadth twelve cubits, and by ten steps they went up to it, and pillars were on the porch, one here and one there.
 - brenton: [missing]
 
 ### Ezekiel 41:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me into the temple, where he measured the porch, six cubits breadth here and six cubits breadth of porch there.
 - brenton: [missing]
 
 ### Ezekiel 41:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And breadth of gateway ten cubits, and shoulders of gateway five cubits here and five cubits there, and he measured its length forty cubits and breadth twenty cubits.
 - brenton: [missing]
 
 ### Ezekiel 41:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he entered into the inner court and measured jamb of doorway, two cubits, and doorway six cubits, and shoulders of doorway seven cubits here and seven cubits there.
 - brenton: [missing]
 
 ### Ezekiel 41:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured length of the doors forty cubits and breadth twenty cubits before the temple, and he said, This is holy of holies.
 - brenton: [missing]
 
 ### Ezekiel 41:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured wall of the house, six cubits, and breadth of the side room, four cubits around.
 - brenton: [missing]
 
 ### Ezekiel 41:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And side room against side room, thirty-three twice, and interval in wall of the house, in the side rooms around, for the places laying hold of sight, so that they do not at all touch walls of the house.
 - brenton: [missing]
 
 ### Ezekiel 41:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And width of the upper side rooms according to addition from the wall to the upper room around the house, so that it widened upward, and from the lower parts one went up to the upper rooms, and from the middle to the third story.
 - brenton: [missing]
 
 ### Ezekiel 41:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And foundation of the house height all around, interval of the side rooms equal to the reed, six cubits, an interval.
 - brenton: [missing]
 
 ### Ezekiel 41:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And width of wall of the side room outside, five cubits, and the remaining space between side rooms of the house.
 - brenton: [missing]
 
 ### Ezekiel 41:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And between the chambers breadth twenty cubits, encircling the house round about.
 - brenton: [missing]
 
 ### Ezekiel 41:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the doors of the chambers opened to the remaining open space, one door northward and one door southward, and the breadth of the light of the remainder was five cubits broad around.
 - brenton: [missing]
 
 ### Ezekiel 41:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the dividing structure in front of the remaining area toward the sea was seventy cubits broad, and the wall of the dividing structure five cubits broad round about, and its length ninety cubits.
 - brenton: [missing]
 
 ### Ezekiel 41:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured opposite the house, length one hundred cubits, and the remains and the dividing structures and their walls, length one hundred cubits.
 - brenton: [missing]
 
 ### Ezekiel 41:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And breadth in front of the house and the remains opposite, one hundred cubits.
 - brenton: [missing]
 
 ### Ezekiel 41:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured length of the dividing structure in front of the remaining areas behind that house, and the remains here and there, one hundred cubits in length, and the temple and the corners and the outer porch,
 - brenton: [missing]
 
 ### Ezekiel 41:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: panelled, and the latticed windows, recesses around by the three, so as to look through, and the house and its nearby parts were wood-paneled around, and the floor, and from the floor to the windows, and the windows opening threefold for looking through,
 - brenton: [missing]
 
 ### Ezekiel 41:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and up to near the inner part and up to the outer, and over all the wall around, within and without.
 - brenton: [missing]
 
 ### Ezekiel 41:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cherubim and palms were carved, between cherub and cherub, two faces to the cherub.
 - brenton: [missing]
 
 ### Ezekiel 41:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Face of man toward the palm here and there, and face of lion toward the palm here and there, carved all around the whole house.
 - brenton: [missing]
 
 ### Ezekiel 41:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From the floor to the ceiling cherubim and palms were carved.
 - brenton: [missing]
 
 ### Ezekiel 41:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sanctuary and the temple were opening in squares; before the holy things appearance was like appearance.
 - brenton: [missing]
 
 ### Ezekiel 41:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wooden altar, three cubits its height and two cubits its length and two cubits its breadth, and it had horns and its base and its walls were wooden, and he said to me, This is the table before face of Lord.
 - brenton: [missing]
 
 ### Ezekiel 41:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And two doors to the temple and to the holy place.
 - brenton: [missing]
 
 ### Ezekiel 41:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Two swinging doors to the two doors, two leaves to the one and two leaves to the second door.
 - brenton: [missing]
 
 ### Ezekiel 41:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And carving upon them and upon doors of the temple, cherubim and palms according to carving of the holy things, and heavy timbers before the porch outside.
 - brenton: [missing]
 
 ### Ezekiel 41:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hidden windows; and he measured here and there into the upper rooms of the porch, and sides of the house were balanced.
 - brenton: [missing]
 
 ### Ezekiel 42:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led me out into the outer court eastward, opposite the north gate, and brought me, and behold, five chambers adjoining the remnant and adjoining the dividing structure to the north.
 - brenton: [missing]
 
 ### Ezekiel 42:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One hundred cubits in length to the north and fifty cubits in breadth.
 - brenton: [missing]
 
 ### Ezekiel 42:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Laid out like the gates of the inner court and like the colonnades of the outer court, porticoes facing one another, threefold.
 - brenton: [missing]
 
 ### Ezekiel 42:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And opposite the chambers a walkway, ten cubits broad, one hundred cubits long, and their doors northward.
 - brenton: [missing]
 
 ### Ezekiel 42:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the upper walks likewise, because the colonnade projected from it, from the lower colonnade and its interval and likewise the porticoes.
 - brenton: [missing]
 
 ### Ezekiel 42:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they were triple and had no pillars like pillars of the outer courts; because of this they projected beyond the lower and the middle from the ground.
 - brenton: [missing]
 
 ### Ezekiel 42:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And light outside, like the chambers of the outer court, facing the chambers toward north, fifty cubits in length.
 - brenton: [missing]
 
 ### Ezekiel 42:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For the length of the chambers facing into the outer court was fifty cubits, and these are opposite those, the whole one hundred cubits.
 - brenton: [missing]
 
 ### Ezekiel 42:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the doors of these chambers, the entrance eastward, to enter through them from the outer court.
 - brenton: [missing]
 
 ### Ezekiel 42:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to the light at beginning of the walkway, and those toward the south opposite the south, opposite the remnant and opposite the dividing structure, chambers.
 - brenton: [missing]
 
 ### Ezekiel 42:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the walkway before them according to measures of the chambers toward north, and according to their length and breadth and all their exits and all their returns and their lights and their doors,
 - brenton: [missing]
 
 ### Ezekiel 42:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: of the chambers toward south, and according to the doors from the beginning of the walkway, as on light of the measuring interval, and eastward to enter through them.
 - brenton: [missing]
 
 ### Ezekiel 42:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, The chambers toward north and the chambers toward south opposite the intervals, these are the holy chambers in which priests, sons of Zadok, drawing near to Lord, will eat the holy of holies, and there they will place the holy of holies and the sacrifice and the things for sin and the things for ignorance, because the place is holy.
 - brenton: [missing]
 
 ### Ezekiel 42:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will not enter there except the priests; they will not go out from the holy place into the outer court, so that those bringing offerings may always be holy and may not touch their garments in which they minister, because they are holy, and they will put on other garments when they touch the people.
 - brenton: [missing]
 
 ### Ezekiel 42:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he finished measuring the house inside and led me out by way of the gate facing east and measured the pattern of the house around in order.
 - brenton: [missing]
 
 ### Ezekiel 42:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he stood along back of the gate facing east and measured five hundred by the measuring reed.
 - brenton: [missing]
 
 ### Ezekiel 42:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he turned to north and measured the part facing north, five hundred by the measuring reed.
 - brenton: [missing]
 
 ### Ezekiel 42:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he turned toward the sea and measured the part facing the sea, five hundred by the measuring reed.
 - brenton: [missing]
 
 ### Ezekiel 42:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he turned toward south and measured opposite the south, five hundred by the measuring reed.
 - brenton: [missing]
 
 ### Ezekiel 42:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its four sides by the same reed, and he laid it out, and their boundary round about, five hundred toward east and five hundred cubits broad, to separate between the holy things and between the fore-wall of the house set in order.
 - brenton: [missing]
 
 ### Ezekiel 43:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me to the gate, the gate facing east.
 - brenton: [missing]
 
 ### Ezekiel 43:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, glory of God of Israel was coming by way of the gate facing east, and sound of the host was like sound of a great crowd, and earth shone from the glory all around.
 - brenton: [missing]
 
 ### Ezekiel 43:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the vision I saw was like the vision I had seen when I entered to anoint the city, and like the vision of the chariot that I saw, like the vision I had seen by the river Chebar, and I fell on my face.
 - brenton: [missing]
 
 ### Ezekiel 43:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And glory of Lord entered into the house by way of the gate facing east.
 - brenton: [missing]
 
 ### Ezekiel 43:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Spirit lifted me and brought me into the inner court, and behold, the house was full of glory of Lord.
 - brenton: [missing]
 
 ### Ezekiel 43:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I stood, and behold, a voice from the house was speaking to me, and the man stood beside me.
 - brenton: [missing]
 
 ### Ezekiel 43:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in midst of them.
 - brenton: [missing]
 
 ### Ezekiel 43:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In their setting their threshold by my thresholds and their doorposts beside my doorposts, with the wall between me and them, they profaned my holy name by lawless things they did, and I destroyed them in my wrath and in slaughter.
 - brenton: [missing]
 
 ### Ezekiel 43:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now let them put away their whoredom and murders of their leaders far from me, and I will dwell in their midst forever.
 - brenton: [missing]
 
 ### Ezekiel 43:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, show the house to house of Israel, and they will cease from their sins, and they will examine its vision and its arrangement.
 - brenton: [missing]
 
 ### Ezekiel 43:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will bear correction for all they did; and you will describe the house and its exits and its structure and all its ordinances and all its laws. Make them known to them, and write them before them, and they will keep all my ordinances and all my commands and do them.
 - brenton: [missing]
 
 ### Ezekiel 43:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is law of the house on the summit of the mountain: all its boundaries around are holy of holies.
 - brenton: [missing]
 
 ### Ezekiel 43:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are measures of the altar in cubit of cubit and handbreadth: a trench one cubit deep and one cubit broad, and a rim around its lip, one span. This is height of the altar.
 - brenton: [missing]
 
 ### Ezekiel 43:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From bottom of the trench to the great lower ledge, two cubits, and breadth one cubit; and from the small ledge to the great ledge, four cubits, and breadth one cubit.
 - brenton: [missing]
 
 ### Ezekiel 43:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ariel, four cubits, and from Ariel upward the horns, one cubit.
 - brenton: [missing]
 
 ### Ezekiel 43:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ariel, twelve cubits long by twelve cubits broad, square on its four sides.
 - brenton: [missing]
 
 ### Ezekiel 43:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ledge, fourteen cubits long by fourteen cubits broad on its four sides, and a rim around it, half a cubit, and its surrounding gutter, one cubit around, and its steps facing east.
 - brenton: [missing]
 
 ### Ezekiel 43:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, thus says Lord God of Israel: These are ordinances of the altar on day of its making, to offer burnt offerings on it and pour blood on it.
 - brenton: [missing]
@@ -192494,198 +192494,198 @@ Note:
 
 ### Ezekiel 43:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will take some of its blood and put it on the four horns of the altar and on the four corners of the ledge and on the base around, and they will make atonement for it.
 - brenton: [missing]
 
 ### Ezekiel 43:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will take the bull for sin, and it will be burned in the separated place of the house, outside the holy things.
 - brenton: [missing]
 
 ### Ezekiel 43:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on second day they will take two flawless male goats for sin, and they will make atonement for the altar just as they made atonement with the bull.
 - brenton: [missing]
 
 ### Ezekiel 43:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after you finish making atonement, they will bring a flawless bull from the herd and a flawless ram from the flock.
 - brenton: [missing]
 
 ### Ezekiel 43:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will bring them before Lord, and the priests will throw salt on them and offer them as burnt offerings to Lord.
 - brenton: [missing]
 
 ### Ezekiel 43:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seven days you will prepare a male goat for sin each day, and they will prepare a bull from the herd and a ram from the flock, flawless.
 - brenton: [missing]
 
 ### Ezekiel 43:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seven days they will make atonement for the altar and cleanse it and fill their hands.
 - brenton: [missing]
 
 ### Ezekiel 43:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 44:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me back by way of the outer gate of the sanctuary, the one facing east, and it was shut.
 - brenton: [missing]
 
 ### Ezekiel 44:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, This gate will remain shut; it will not be opened, and no one will pass through it, because Lord God of Israel entered through it, and it will remain shut.
 - brenton: [missing]
 
 ### Ezekiel 44:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As for the ruler, he will sit in it to eat bread before Lord; by way of the porch of the gate he will enter, and by its way he will go out.
 - brenton: [missing]
 
 ### Ezekiel 44:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me by way of the north gate opposite the house, and I saw, and behold, house of Lord was full of glory, and I fell on my face.
 - brenton: [missing]
 
 ### Ezekiel 44:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you about all ordinances of house of Lord and all its laws; set your heart on entrance of the house, with all its exits in all holy things.
 - brenton: [missing]
 
 ### Ezekiel 44:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to the rebellious house, to house of Israel, Thus says Lord God: Enough for you from all your lawless acts, house of Israel,
 - brenton: [missing]
 
 ### Ezekiel 44:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in bringing in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in my holy things, and they profaned them when you offered my bread, fat and blood, and you broke my covenant in all your lawless acts.
 - brenton: [missing]
 
 ### Ezekiel 44:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you did not keep charges of my holy things, but you appointed them as keepers of my charge in my holy place.
 - brenton: [missing]
 
 ### Ezekiel 44:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in midst of house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 44:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But the Levites who went far from me when Israel went astray from me after their thoughts, they will bear their injustice.
 - brenton: [missing]
 
 ### Ezekiel 44:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be in my holy things, serving as doorkeepers at gates of the house and ministering to the house; they will slaughter burnt offerings and sacrifices for the people, and they will stand before the people to minister to them.
 - brenton: [missing]
 
 ### Ezekiel 44:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they ministered to them before their idols and became to house of Israel a punishment of injustice, therefore I raised my hand against them, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 44:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will not come near me to serve as priests to me, nor to bring near holy things of sons of Israel, nor to my holy of holies, and they will bear their dishonor in their wandering by which they wandered.
 - brenton: [missing]
 
 ### Ezekiel 44:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will appoint them to keep charges of the house, for all its works and for all that will be done there.
 - brenton: [missing]
@@ -192701,216 +192701,216 @@ Note:
 
 ### Ezekiel 44:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will enter my holy things, and they will approach my table to minister to me, and they will keep my charges.
 - brenton: [missing]
 
 ### Ezekiel 44:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when they enter gates of the inner court, they will put on linen garments; they will not wear wool when they minister from gate of the inner court.
 - brenton: [missing]
 
 ### Ezekiel 44:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Linen turbans will be on their heads and linen undergarments on their loins; they will not gird themselves with anything causing sweat.
 - brenton: [missing]
 
 ### Ezekiel 44:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when they go out into outer court to the people, they will take off the garments in which they minister and place them in the chambers of the holy things, and they will put on other garments, so that they do not sanctify the people with their garments.
 - brenton: [missing]
 
 ### Ezekiel 44:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will not shave their heads and they will not let their hair hang loose; they will carefully trim their heads.
 - brenton: [missing]
 
 ### Ezekiel 44:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No priest will drink wine when they enter the inner court.
 - brenton: [missing]
 
 ### Ezekiel 44:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will not take widow or divorced woman for wife, except a virgin from seed of house of Israel; but a widow, if she is widow of a priest, they may take.
 - brenton: [missing]
 
 ### Ezekiel 44:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will teach my people the difference between holy and common, and between unclean and clean they will make known to them.
 - brenton: [missing]
 
 ### Ezekiel 44:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in judgment of blood they will stand to judge; with my ordinances they will judge it, and my laws and my commands in all my feasts they will keep, and my Sabbaths they will hallow.
 - brenton: [missing]
 
 ### Ezekiel 44:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will not go in to a dead human to defile themselves, except for father or mother or son or daughter or brother or sister who has had no husband; for them he may be defiled.
 - brenton: [missing]
 
 ### Ezekiel 44:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after he is cleansed, seven days they will count for him.
 - brenton: [missing]
 
 ### Ezekiel 44:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on day he enters the inner court to minister in the holy place, he will bring his atonement, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 44:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be to them for inheritance: I am their inheritance; no possession will be given them among sons of Israel, because I am their possession.
 - brenton: [missing]
 
 ### Ezekiel 44:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The sacrifices and the things for sin and the things for ignorance they will eat, and every devoted thing in Israel will be theirs.
 - brenton: [missing]
 
 ### Ezekiel 44:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Firstfruits of all things and firstborn of all things and every contribution from all your firstfruits will be the priests'. And the first of your dough you will give to the priest, to set your blessings on your houses.
 - brenton: [missing]
 
 ### Ezekiel 44:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Anything that dies of itself or is torn, from birds or from livestock, the priests will not eat.
 - brenton: [missing]
 
 ### Ezekiel 45:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when you measure out the land for inheritance, you will set apart a first portion to Lord, holy from the land, twenty-five thousand in length and twenty thousand in breadth; holy will it be in all its boundaries around.
 - brenton: [missing]
 
 ### Ezekiel 45:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from this there will be for the sanctuary five hundred by five hundred, square all around, and fifty cubits of open space around it.
 - brenton: [missing]
 
 ### Ezekiel 45:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from this measured tract you will measure length twenty-five thousand and breadth ten thousand, and in it will be the sanctuary, holy of holies.
 - brenton: [missing]
 
 ### Ezekiel 45:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From the land it will belong to the priests ministering in the holy place, those drawing near to minister to Lord, and it will be for them a place for houses, a set-apart place for their sanctuary.
 - brenton: [missing]
 
 ### Ezekiel 45:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Twenty-five thousand in length and ten thousand in breadth will belong to the Levites ministering to the house, for a possession, cities for dwelling.
 - brenton: [missing]
 
 ### Ezekiel 45:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as possession of the city you will give five thousand in breadth and twenty-five thousand in length, like first portion of the holy things; it will belong to all house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 45:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for the ruler, one part on this side and one on that side of first portion of the holy things and possession of the city, in front of first portion of the holy things and in front of possession of the city, from west side westward and from east side eastward, and length like one of the tribal portions from west boundary to east boundary of the land.
 - brenton: [missing]
 
 ### Ezekiel 45:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will be his possession in Israel, and rulers of Israel will no longer oppress my people; and house of Israel will inherit the land according to their tribes.
 - brenton: [missing]
@@ -192926,54 +192926,54 @@ Note:
 
 ### Ezekiel 45:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let there be for you a just scale and a just measure and a just choenix.
 - brenton: [missing]
 
 ### Ezekiel 45:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Measure and choenix will be alike, so that choenix takes a tenth of a homer and measure takes a tenth of a homer; according to the homer they will be equal.
 - brenton: [missing]
 
 ### Ezekiel 45:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the weight: twenty obols to the shekel. Five shekels will be five, and ten shekels will be ten, and fifty shekels will make your mina.
 - brenton: [missing]
 
 ### Ezekiel 45:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this is first portion you will set apart: a sixth of a measure from a homer of wheat, and a sixth of a measure from a kor of barley.
 - brenton: [missing]
 
 ### Ezekiel 45:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And ordinance for the oil: one kotyle of oil from ten kotylai, because ten kotylai are a homer.
 - brenton: [missing]
 
 ### Ezekiel 45:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says Lord God.
 - brenton: [missing]
