@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12692
-- medium: 2245
-- low: 7980
+- high: 12872
+- medium: 2185
+- low: 7860
 - none: 0
 
 Note:
@@ -113069,171 +113069,171 @@ Note:
 
 ### Esther 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those in the court of the king said to Mardochaios, Mardochaios, why do you disregard things spoken by the king?
 - brenton: [missing]
 
 ### Esther 3:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every day they spoke to him, and he was not listening to them, and they reported Mardochaios to Aman, as one opposing words of the king, and Mardochaios showed them that he is a Ioudaios.
 - brenton: [missing]
 
 ### Esther 3:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman, perceiving that Mardochaios was not bowing to him, was enraged greatly.
 - brenton: [missing]
 
 ### Esther 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he planned to destroy all the Ioudaioi under kingdom of Artaxerxes.
 - brenton: [missing]
 
 ### Esther 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he made a decree in twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mardochaios in one day, and the lot fell on fourteenth of the month, which is Adar.
 - brenton: [missing]
 
 ### Esther 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he spoke to King Artaxerxes, saying, There is a nation scattered among the nations in all your kingdom, and their laws differ from all nations, and they disregard laws of the king, and it is not advantageous for the king to let them remain.
 - brenton: [missing]
 
 ### Esther 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If it seems good to the king, let it be decreed to destroy them, and I will write ten thousand talents of silver into treasury of the king.
 - brenton: [missing]
 
 ### Esther 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king removed the ring and gave it into hand of Aman to seal against the writings against the Ioudaioi.
 - brenton: [missing]
 
 ### Esther 3:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Aman, Keep the silver, and use the nation as you wish.
 - brenton: [missing]
 
 ### Esther 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And scribes of the king were called on thirteenth of the first month, and they wrote as Aman commanded to the generals and the rulers over every province, from India to Ethiopia, to the one hundred twenty-seven provinces, and to rulers of the nations in their own language, by Artaxerxes the king.
 - brenton: [missing]
 
 ### Esther 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was sent by book-carriers into kingdom of Artaxerxes to destroy race of the Ioudaioi in one day of the twelfth month, which is Adar, and to plunder their goods.
 - brenton: [missing]
 
 ### Esther 3:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Copies of the letters were posted province by province, and command was given to all the nations to be ready for this day.
 - brenton: [missing]
 
 ### Esther 3:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the matter was hurried, even in Sousa. But the king and Aman were drinking, while the city was troubled.
 - brenton: [missing]
 
 ### Esther 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios, perceiving what was being carried out, tore his garments and put on sackcloth and sprinkled himself with ashes, and leaping through broad place of the city he cried with a loud voice, A nation that did no wrong is being taken away.
 - brenton: [missing]
 
 ### Esther 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he came as far as the king's gate and stood, for it was not lawful for him to enter the court wearing sackcloth and ashes.
 - brenton: [missing]
 
 ### Esther 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in every province where the letters were posted, there was cry and beating and great mourning for the Ioudaioi. They spread sackcloth and ashes for themselves.
 - brenton: [missing]
 
 ### Esther 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And maidservants and eunuchs of the queen came in and reported to her, and hearing what happened she was troubled, and she sent to clothe Mardochaios and take away the sackcloth from him, but he was not persuaded.
 - brenton: [missing]
 
 ### Esther 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther called Achrathaios her eunuch, who stood by her, and sent to learn from Mardochaios the exact truth.
 - brenton: [missing]
 
 ### Esther 4:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios showed him what had happened and the promise which Aman promised to the king, ten thousand talents to the treasury, so as to destroy the Ioudaioi.
 - brenton: [missing]
@@ -113249,18 +113249,18 @@ Note:
 
 ### Esther 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Achrathaios went in and spoke to her all these words.
 - brenton: [missing]
 
 ### Esther 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther said to Achrathaios, Go to Mardochaios and say that
 - brenton: [missing]
@@ -113276,459 +113276,459 @@ Note:
 
 ### Esther 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Achrathaios reported to Mardochaios all words of Esther.
 - brenton: [missing]
 
 ### Esther 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios said to Achrathaios, Go and tell Esther, Do not say to yourself that you alone in the kingdom will be saved beyond all the Ioudaioi.
 - brenton: [missing]
 
 ### Esther 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if you disregard in this time, help and shelter will be for the Ioudaioi from another place, but you and house of your father will perish. And who knows whether for this very time you came to reign?
 - brenton: [missing]
 
 ### Esther 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther sent back the one who came to her, to Mardochaios, saying,
 - brenton: [missing]
 
 ### Esther 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go, gather the Ioudaioi in Sousa and fast for me, and do not eat or drink for three days, night and day. And I and my maidservants will likewise go without food, and then I will go in to the king contrary to the law. If then I must perish, I will perish.
 - brenton: [missing]
 
 ### Esther 4:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios went and did all that Esther commanded him.
 - brenton: [missing]
 
 ### Esther 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened on the third day, when she ceased praying, she took off garments of service and put on her glory.
 - brenton: [missing]
 
 ### Esther 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after lifting the golden scepter she placed it on her neck and kissed it and said, Speak to me.
 - brenton: [missing]
 
 ### Esther 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said, What do you want, Esther, and what is your request? Even to half of my kingdom, it shall be yours.
 - brenton: [missing]
 
 ### Esther 5:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther said, My marked day is today. If then it seems good to the king, let him and Aman come to the feast which I will make today.
 - brenton: [missing]
 
 ### Esther 5:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said, Hasten Aman, so that we may do word of Esther. And both came to the feast which Esther spoke of.
 - brenton: [missing]
 
 ### Esther 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And during the drinking the king said to Esther, What is it, Queen Esther? It shall be yours, whatever you ask.
 - brenton: [missing]
 
 ### Esther 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she said, My petition and my request are this:
 - brenton: [missing]
 
 ### Esther 5:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I found favor before the king, let the king and Aman come tomorrow to the feast which I will make for them, and tomorrow I will do the same things.
 - brenton: [missing]
 
 ### Esther 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman went out from the king overjoyed and rejoicing. But when Aman saw Mardochaios the Ioudaios in the court, he was enraged greatly.
 - brenton: [missing]
 
 ### Esther 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after entering his own house he called his friends and Zōsara his wife.
 - brenton: [missing]
 
 ### Esther 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he showed them his wealth and the honor which the king placed on him and how he made him hold first place and lead the kingdom.
 - brenton: [missing]
 
 ### Esther 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman said, The queen called no one to the feast with the king except me, and for tomorrow I have been called.
 - brenton: [missing]
 
 ### Esther 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these things do not please me whenever I see Mardochaios the Ioudaios in the court.
 - brenton: [missing]
 
 ### Esther 5:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Zōsara his wife and the friends said to him, Let a timber of fifty cubits be cut for you, and in the morning speak to the king, and let Mardochaios be hanged on the timber. But you go into the feast with the king and rejoice. And the word pleased Aman, and the timber was prepared.
 - brenton: [missing]
 
 ### Esther 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But the Lord drove sleep away from the king in that night, and he told his teacher to bring in memorial records of the days, to read to him.
 - brenton: [missing]
 
 ### Esther 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he found the writings written concerning Mardochaios, how he reported to the king about the two eunuchs of the king while they were guarding him and seeking to lay hands on Artaxerxes.
 - brenton: [missing]
 
 ### Esther 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said, What honor or favor have we done for Mardochaios? And the servants of the king said, You did nothing for him.
 - brenton: [missing]
 
 ### Esther 6:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as the king was inquiring concerning favor of Mardochaios, behold Aman was in the court. And the king said, Who is in the court? And Aman came in to speak to the king to hang Mardochaios on the timber which he prepared.
 - brenton: [missing]
 
 ### Esther 6:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And servants of the king said, Behold, Aman stands in the court. And the king said, Call him.
 - brenton: [missing]
 
 ### Esther 6:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Aman, What shall I do for the man whom I wish to honor? And Aman said in himself, Whom does the king wish to honor except me?
 - brenton: [missing]
 
 ### Esther 6:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to the king, For the man whom the king wishes to honor,
 - brenton: [missing]
 
 ### Esther 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: let servants of the king bring linen robe which the king wears and horse on which the king rides,
 - brenton: [missing]
 
 ### Esther 6:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and let one of the king's glorious friends give it, and let him robe the man whom the king loves and lift him upon the horse and proclaim through broad place of the city, saying, Thus it shall be to every man whom the king honors.
 - brenton: [missing]
 
 ### Esther 6:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Aman, As you spoke, so do to Mardochaios the Ioudaios, who serves in the court, and let not one word of what you spoke fall away.
 - brenton: [missing]
 
 ### Esther 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman took the robe and the horse and robed Mardochaios and lifted him upon the horse and went through broad place of the city and proclaimed, saying, Thus it shall be to every man whom the king wishes to honor.
 - brenton: [missing]
 
 ### Esther 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios returned to the court, but Aman returned to his own house grieving, with head covered.
 - brenton: [missing]
 
 ### Esther 6:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman recounted to Zōsara his wife and to the friends what happened to him, and the friends and the wife said to him, If Mardochaios is from race of Ioudaioi, you began to be humbled before him, and falling you will fall; you will never be able to resist him, because living God is with him.
 - brenton: [missing]
 
 ### Esther 6:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While they were still speaking, the eunuchs arrived, hurrying Aman to the drinking-feast which Esther prepared.
 - brenton: [missing]
 
 ### Esther 7:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king and Aman went in to drink with the queen.
 - brenton: [missing]
 
 ### Esther 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on the second day during the drinking the king said, What is it, Queen Esther, and what is your petition and what is your request? Even to half of my kingdom, let it be yours.
 - brenton: [missing]
 
 ### Esther 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she answered and said, If I found favor before the king, let my life be given for my petition and my people for my request.
 - brenton: [missing]
 
 ### Esther 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I and my people were sold for destruction and plundering and slavery, we and our children, for boy-servants and girl-servants. And I kept silent, for the accuser is not worthy of the king's court.
 - brenton: [missing]
 
 ### Esther 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said, Who is this one who dared to do this thing?
 - brenton: [missing]
 
 ### Esther 7:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther said, An enemy, Aman, this evil one. And Aman was thrown into turmoil before the king and the queen.
 - brenton: [missing]
 
 ### Esther 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king rose from the banquet into the garden, but Aman was begging the queen, for he saw himself in evils.
 - brenton: [missing]
 
 ### Esther 7:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king returned from the garden. Aman had fallen on the couch, begging the queen. And the king said, So then will he even force the woman in my own house? And Aman, hearing, was struck in the face.
 - brenton: [missing]
 
 ### Esther 7:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Bouthathan, one of the eunuchs, said to the king, Behold, Aman also prepared a timber for Mardochaios, the one who spoke for the king, and it stands in Aman's house, fifty cubits. And the king said, Let him be impaled on it.
 - brenton: [missing]
 
 ### Esther 7:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aman was hanged on the timber which he prepared for Mardochaios, and then the king ceased from wrath.
 - brenton: [missing]
 
 ### Esther 8:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on that day King Artaxerxes gave to Esther all things that belonged to Aman the accuser, and Mardochaios was called by the king, for Esther showed that he was related to her.
 - brenton: [missing]
 
 ### Esther 8:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king took the ring which he removed from Aman and gave it to Mardochaios, and Esther appointed Mardochaios over all things of Aman.
 - brenton: [missing]
 
 ### Esther 8:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther added and spoke to the king and fell at his feet and asked him to remove evil of Aman and all he did against the Ioudaioi.
 - brenton: [missing]
 
 ### Esther 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king stretched out to Esther the golden scepter. And Esther rose to stand by the king.
 - brenton: [missing]
 
 ### Esther 8:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther said, If it seems good to you and I found favor, let the letters sent by Aman be turned back, the ones written to destroy the Ioudaioi who are in your kingdom.
 - brenton: [missing]
 
 ### Esther 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For how shall I be able to see mistreatment of my people? And how shall I be saved amid destruction of my homeland?
 - brenton: [missing]
 
 ### Esther 8:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Esther, If all things of Aman I gave and granted to you, and him I hanged on timber because he laid hands on the Ioudaioi, what do you still seek?
 - brenton: [missing]
@@ -113744,378 +113744,378 @@ Note:
 
 ### Esther 8:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the scribes were called in the first month, which is Nisan, on the twenty-third of that year, and it was written for the Ioudaioi what he commanded to the administrators and rulers of the satrapies, from India to Ethiopia, one hundred twenty-seven satrapies, province by province in its own language.
 - brenton: [missing]
 
 ### Esther 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was written through the king and sealed with his ring, and they sent the letters through book-carriers,
 - brenton: [missing]
 
 ### Esther 8:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: just as he commanded them to use their laws in every city, to help themselves and deal with their adversaries and those opposing them as they wish,
 - brenton: [missing]
 
 ### Esther 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: on one day in all kingdom of Artaxerxes, on thirteenth of the twelfth month, which is Adar.
 - brenton: [missing]
 
 ### Esther 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let copies be publicly posted in all the kingdom, and let all the Ioudaioi be ready for this day to fight those set against them.
 - brenton: [missing]
 
 ### Esther 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So the riders went out hurrying to fulfill what the king spoke, and the decree was also posted in Sousa.
 - brenton: [missing]
 
 ### Esther 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios went out clothed in royal robe and wearing golden crown and linen purple diadem, and those in Sousa, seeing, rejoiced.
 - brenton: [missing]
 
 ### Esther 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for the Ioudaioi there came light and gladness,
 - brenton: [missing]
 
 ### Esther 8:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in city and province wherever the decree and notice were posted, joy and gladness came for the Ioudaioi, a feast and rejoicing, and many of the nations were circumcised and became Ioudaizing because of fear of the Ioudaioi.
 - brenton: [missing]
 
 ### Esther 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For in the twelfth month, on thirteenth of the month, which is Adar, the letters written by the king were at hand.
 - brenton: [missing]
 
 ### Esther 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On that day those opposing the Ioudaioi were destroyed, for no one stood against them, fearing them.
 - brenton: [missing]
 
 ### Esther 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For rulers of the satrapies and the tyrants and the king's scribes were honoring the Ioudaioi, for fear of Mardochaios was pressing upon them.
 - brenton: [missing]
 
 ### Esther 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For decree of the king had fallen that his name be spoken in all the kingdom.
 - brenton: [missing]
 
 ### Esther 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in Sousa the city the Ioudaioi killed five hundred men,
 - brenton: [missing]
 
 ### Esther 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: both Pharsannestain and Delphōn and Phasga,
 - brenton: [missing]
 
 ### Esther 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Phardatha and Barea and Sarbacha,
 - brenton: [missing]
 
 ### Esther 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Marmasima and Arouphaios and Arsaios and Zabouthaithan,
 - brenton: [missing]
 
 ### Esther 9:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the ten sons of Aman son of Amadathos the Bougaian, enemy of the Ioudaioi, and they plundered.
 - brenton: [missing]
 
 ### Esther 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On that day the number of the slain in Sousa was reported to the king.
 - brenton: [missing]
 
 ### Esther 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Esther, The Ioudaioi destroyed five hundred men in Sousa the city, and in the district how do you think they acted? What more do you request? And it shall be yours.
 - brenton: [missing]
 
 ### Esther 9:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther said to the king, Let it be given to the Ioudaioi to act likewise tomorrow, and to hang the ten sons of Aman.
 - brenton: [missing]
 
 ### Esther 9:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he permitted it to happen thus and ordered bodies of Aman's sons to be hung for the Ioudaioi of the city.
 - brenton: [missing]
 
 ### Esther 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Ioudaioi were gathered in Sousa on the fourteenth of Adar and killed three hundred men, and they plundered nothing.
 - brenton: [missing]
 
 ### Esther 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the rest of the Ioudaioi in the kingdom gathered and were helping themselves, and they rested from the war. For they destroyed fifteen thousand of them on the thirteenth of Adar and plundered nothing.
 - brenton: [missing]
 
 ### Esther 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they rested on the fourteenth of the same month and kept it as day of rest with joy and gladness.
 - brenton: [missing]
 
 ### Esther 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But the Ioudaioi in Sousa the city were gathered on the fourteenth and did not rest, but kept the fifteenth with joy and gladness.
 - brenton: [missing]
 
 ### Esther 9:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore the Ioudaioi scattered in every country outside keep the fourteenth of Adar as a good day with joy, sending portions each to his neighbor, and those dwelling in the capitals keep also the fifteenth of Adar as a good day of rejoicing, sending portions to neighbors.
 - brenton: [missing]
 
 ### Esther 9:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios wrote these words into a book and sent to the Ioudaioi, as many as were in kingdom of Artaxerxes, both near and far,
 - brenton: [missing]
 
 ### Esther 9:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to establish these good days, to keep both the fourteenth and the fifteenth of Adar,
 - brenton: [missing]
 
 ### Esther 9:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for in these days the Ioudaioi rested from their enemies, and the month in which, being Adar, it was turned for them from mourning into joy and from grief into a good day, to keep all as good days of marriages and rejoicing, sending portions to friends and to the poor.
 - brenton: [missing]
 
 ### Esther 9:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Ioudaioi accepted it, just as Mardochaios wrote to them,
 - brenton: [missing]
 
 ### Esther 9:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: how Aman son of Amadathos the Macedonian warred against them, as he made decree and lot to destroy them,
 - brenton: [missing]
 
 ### Esther 9:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and how he entered to the king, saying to hang Mardochaios. But the evils which he attempted to bring upon the Ioudaioi came upon him, and he and his children were hanged.
 - brenton: [missing]
 
 ### Esther 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore these days were called Phrourai because of the lots, for in their language they call them Phrourai, because of words of this letter and what they suffered because of these things and what happened to them.
 - brenton: [missing]
 
 ### Esther 9:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Ioudaioi established and accepted it upon themselves and upon their seed and upon those added to them, and they will use no other way, but these days will be a memorial kept generation by generation and city and father-house and province.
 - brenton: [missing]
 
 ### Esther 9:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these days of Phrourai will be kept for all time, and their memorial shall never fail from the generations.
 - brenton: [missing]
 
 ### Esther 9:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esther the queen, daughter of Aminadab, and Mardochaios the Ioudaios wrote all that they did, even the confirming of the letter of Phrourai.
 - brenton: [missing]
 
 ### Esther 9:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios and Esther the queen established for themselves by themselves, and then after establishing according to their safety and their counsel,
 - brenton: [missing]
 
 ### Esther 9:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Esther established by word forever, and it was written for remembrance.
 - brenton: [missing]
 
 ### Esther 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king wrote taxes upon the kingdom of both land and sea.
 - brenton: [missing]
 
 ### Esther 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his strength and bravery and the wealth and glory of his kingdom, behold, these are written in book of kings of Persia and Media for remembrance.
 - brenton: [missing]
 
 ### Esther 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Mardochaios succeeded King Artaxerxes and was great in the kingdom and glorified by the Ioudaioi and loved, recounting the way of life to all his nation.
 - brenton: [missing]
@@ -114133,54 +114133,54 @@ Note:
 
 ### Job 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there came to him seven sons and three daughters.
 - brenton: [missing]
 
 ### Job 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his livestock was seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred grazing she-donkeys, and very much service, and great works were his upon the land. And that man was noblest of those from sunrise.
 - brenton: [missing]
 
 ### Job 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his sons, going to one another, were making a feast each day, bringing along also their three sisters to eat and drink with them.
 - brenton: [missing]
 
 ### Job 1:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when days of the feast were completed, Iōb sent and purified them. Rising early, he offered sacrifices for them according to their number, and one calf for sin concerning their souls. For Iōb said, Lest my sons thought evil things in their mind toward God. Thus Iōb was doing all the days.
 - brenton: [missing]
 
 ### Job 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when this day came, behold, angels of God came to stand before the Lord, and the slanderer came with them.
 - brenton: [missing]
 
 ### Job 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to the slanderer, From where are you here? And answering, the slanderer said to the Lord, After going around the earth and walking about under heaven, I am here.
 - brenton: [missing]
@@ -114196,144 +114196,144 @@ Note:
 
 ### Job 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the slanderer answered and said before the Lord, Does Iōb fear God for nothing?
 - brenton: [missing]
 
 ### Job 1:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did you not fence in things outside him and inside his house and outside all that belongs to him round about? Works of his hands you blessed, and his cattle you made many upon the earth.
 - brenton: [missing]
 
 ### Job 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But stretch out your hand and touch all that he has, and surely he will bless you to your face.
 - brenton: [missing]
 
 ### Job 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then the Lord said to the slanderer, Behold, all things that are his I give into your hand, only do not touch him. And the slanderer went out from the Lord.
 - brenton: [missing]
 
 ### Job 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened on a day when Iōb's sons and daughters were drinking wine in house of their elder brother,
 - brenton: [missing]
 
 ### Job 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and behold, a messenger came to Iōb and said to him, The yoke of oxen were plowing, and the she-donkeys were grazing beside them,
 - brenton: [missing]
 
 ### Job 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and the raiders came and took them captive, and the servants they killed with swords. And I alone escaped and came to report to you.
 - brenton: [missing]
 
 ### Job 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While this one was still speaking, another messenger came and said to Iōb, Fire fell from heaven and burned up the sheep and devoured the shepherds likewise. And I alone escaped and came to report to you.
 - brenton: [missing]
 
 ### Job 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While this one was still speaking, another messenger came and said to Iōb, The horsemen made against us three heads, and they surrounded the camels and took them captive, and the servants they killed with swords. And I alone escaped and came to report to you.
 - brenton: [missing]
 
 ### Job 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While this one was still speaking, another messenger came, saying to Iōb, Your sons and your daughters were eating and drinking at their elder brother's house,
 - brenton: [missing]
 
 ### Job 1:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and suddenly a great wind came from the wilderness and touched the four corners of the house, and the house fell on your children, and they died. And I alone escaped and came to report to you.
 - brenton: [missing]
 
 ### Job 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So Iōb rose, tore his garments, shaved hair of his head, and falling to the ground worshiped and said,
 - brenton: [missing]
 
 ### Job 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Naked I came out from womb of my mother, naked also I will go away there. The Lord gave, the Lord took away. As it seemed good to the Lord, so also it came to pass. Let name of the Lord be blessed.
 - brenton: [missing]
 
 ### Job 1:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In all these things that happened to him, Iōb sinned in nothing before the Lord and gave no folly to God.
 - brenton: [missing]
 
 ### Job 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be on this day also that angels of God came to stand before the Lord, and the slanderer came among them to stand before the Lord.
 - brenton: [missing]
 
 ### Job 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to the slanderer, From where do you come? Then the slanderer said before the Lord, After passing through what is under heaven and walking all around, I am here.
 - brenton: [missing]
@@ -114349,396 +114349,396 @@ Note:
 
 ### Job 2:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, the slanderer said to the Lord, Skin for skin, all things a man has he will pay for his life.
 - brenton: [missing]
 
 ### Job 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But stretch out your hand and touch his bones and his flesh, and surely he will bless you to your face.
 - brenton: [missing]
 
 ### Job 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to the slanderer, Behold, I hand him over to you; only preserve his life.
 - brenton: [missing]
 
 ### Job 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the slanderer went out from the Lord and struck Iōb with a grievous sore from feet to head.
 - brenton: [missing]
 
 ### Job 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took a potsherd to scrape the discharge, and he sat upon the dung-heap outside the city.
 - brenton: [missing]
 
 ### Job 2:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when much time had passed, his wife said to him, How long will you endure, saying, Behold, I wait yet a little time, expecting hope of my deliverance? For behold, your memorial has vanished from the earth, sons and daughters of my womb, pangs and labors which I toiled for in vain with hardships. And you yourself sit in decay of worms, passing the night in the open air. And I am a wanderer and servant, going from place to place and house to house, waiting for sun to set so that I may rest from labors and pains that now hold me fast. But speak some word to the Lord and die.
 - brenton: [missing]
 
 ### Job 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And looking at her, he said to her, You spoke like one of the foolish women. If we accepted good things from hand of the Lord, shall we not bear evil things? In all these things that happened to him, Iōb sinned in nothing with his lips before God.
 - brenton: [missing]
 
 ### Job 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hearing all the evils that came upon him, his three friends came, each from his own country, to him: Eliphas the Thaimanite king, Baldad the Sauchaian tyrant, and Sophar the Minaian king. And they came to him with one purpose, to encourage and visit him.
 - brenton: [missing]
 
 ### Job 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seeing him from far off, they did not recognize him, and crying with a loud voice they wept, each tearing his own robe and scattering dust.
 - brenton: [missing]
 
 ### Job 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They sat with him seven days and seven nights, and none of them spoke, for they saw that the blow was dreadful and very great.
 - brenton: [missing]
 
 ### Job 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: After this Iōb opened his mouth
 - brenton: [missing]
 
 ### Job 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and cursed his day, saying,
 - brenton: [missing]
 
 ### Job 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let the day perish in which I was born, and the night in which they said, Behold, a male.
 - brenton: [missing]
 
 ### Job 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let that day be darkness, and let not the Lord seek it from above, nor let light come upon it.
 - brenton: [missing]
 
 ### Job 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let darkness and shadow of death take it. Let gloom come upon it.
 - brenton: [missing]
 
 ### Job 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let the day and that night be cursed. Let darkness take it away. Let it not be among days of the year, nor counted among days of months.
 - brenton: [missing]
 
 ### Job 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But let that night be pain, and let no gladness come upon it, nor joy.
 - brenton: [missing]
 
 ### Job 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But let the one cursing that day curse it, the one preparing to master the great sea-beast.
 - brenton: [missing]
 
 ### Job 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let stars of that night be darkened. Let it wait and not come into light, nor see morning-star rising,
 - brenton: [missing]
 
 ### Job 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because it did not shut gates of my mother's womb, for then it would have removed pain from my eyes.
 - brenton: [missing]
 
 ### Job 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For why did I not die in the belly? And coming out from the womb, why did I not immediately perish?
 - brenton: [missing]
 
 ### Job 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why then did knees meet me? And why breasts, that I sucked?
 - brenton: [missing]
 
 ### Job 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now, having lain down, I would have been quiet. Having slept, I would have rested
 - brenton: [missing]
 
 ### Job 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: with kings, counselors of earth, who gloried themselves over swords,
 - brenton: [missing]
 
 ### Job 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or with rulers whose gold was much, who filled their houses with silver,
 - brenton: [missing]
 
 ### Job 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or like miscarriage coming out from womb of a mother, or like infants who never saw light.
 - brenton: [missing]
 
 ### Job 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There the ungodly burned out rage of wrath. There the weary in body rested.
 - brenton: [missing]
 
 ### Job 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there the eternal ones together did not hear voice of tax-collector.
 - brenton: [missing]
 
 ### Job 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Small and great are there, and servant not fearing his lord.
 - brenton: [missing]
 
 ### Job 3:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why then is light given to those in bitterness, and life to souls in pains,
 - brenton: [missing]
 
 ### Job 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who long for death and do not obtain it, digging for it as for treasures,
 - brenton: [missing]
 
 ### Job 3:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who become overjoyed if they should attain it?
 - brenton: [missing]
 
 ### Job 3:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Death is rest to a man, for God shut in against him.
 - brenton: [missing]
 
 ### Job 3:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For before my food, groaning comes to me, and I weep, being held fast by fear.
 - brenton: [missing]
 
 ### Job 3:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For fear which I pondered came upon me, and what I dreaded met me.
 - brenton: [missing]
 
 ### Job 3:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I neither had peace nor was quiet nor rested, but wrath came to me.
 - brenton: [missing]
 
 ### Job 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Eliphas the Thaimanite says,
 - brenton: [missing]
 
 ### Job 4:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Were many times spoken to you in distress? But strength of your words, who will bear?
 - brenton: [missing]
 
 ### Job 4:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you instructed many and encouraged weak hands.
 - brenton: [missing]
 
 ### Job 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those failing you raised up by words, and upon knees without strength you put courage.
 - brenton: [missing]
 
 ### Job 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now pain comes upon you and touches you, and you were hasty.
 - brenton: [missing]
 
 ### Job 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is not your fear foolishness, and your hope, and innocence of your way?
 - brenton: [missing]
 
 ### Job 4:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember then, who being pure perished? Or when did true men perish root and all?
 - brenton: [missing]
 
 ### Job 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In the way I saw, those plowing improper things and those sowing them will reap pains for themselves.
 - brenton: [missing]
