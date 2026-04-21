@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 20612
-- medium: 456
-- low: 1849
+- high: 20792
+- medium: 414
+- low: 1711
 - none: 0
 
 Note:
@@ -184826,1197 +184826,1197 @@ Note:
 
 ### Ezekiel 14:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so as to turn aside house of Israel according to their hearts, hearts alienated from me in their thoughts.
 - brenton: [missing]
 
 ### Ezekiel 14:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore say to house of Israel, Thus says Lord God: Turn back and turn away from your practices and from all your impieties, and turn your faces back.
 - brenton: [missing]
 
 ### Ezekiel 14:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because any man, any man from house of Israel and from proselytes proselyting in Israel, who becomes alienated from me and sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet to inquire of him in me, I, Lord, will answer him in that wherein he is entangled within himself.
 - brenton: [missing]
 
 ### Ezekiel 14:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my face against that man and make him desolation and ruin, and I will remove him from midst of my people, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 14:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if prophet is led astray and speaks, I, Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from midst of my people Israel.
 - brenton: [missing]
 
 ### Ezekiel 14:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will bear their injustice; like offense of one inquiring, so offense of prophet will be,
 - brenton: [missing]
 
 ### Ezekiel 14:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that house of Israel may no longer wander from me, and so that they may no longer be defiled in all their trespasses, and they will be to me for people and I will be to them for God, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 14:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 14:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, if land sins against me by committing offense, and I stretch out my hand against it and break its support of bread and send famine upon it and remove from it man and cattle,
 - brenton: [missing]
 
 ### Ezekiel 14:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and if these three men are in its midst, Noah and Daniel and Job, they will be saved by their righteousness, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 14:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I bring evil beasts upon land and punish it, and it becomes desolation and there is no passerby because of beasts,
 - brenton: [missing]
 
 ### Ezekiel 14:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and these three men are in its midst, as I live, says Lord, neither sons nor daughters will be saved; only they themselves will be saved, but land will become ruin.
 - brenton: [missing]
 
 ### Ezekiel 14:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or if I bring sword upon that land and say, Let sword pass through land, and I remove from it man and cattle,
 - brenton: [missing]
 
 ### Ezekiel 14:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and these three men are in its midst, as I live, says Lord, they will never rescue sons or daughters; only they themselves will be saved.
 - brenton: [missing]
 
 ### Ezekiel 14:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or if I send death upon that land and pour out my wrath upon it in blood, to destroy from it man and cattle,
 - brenton: [missing]
 
 ### Ezekiel 14:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Noah and Daniel and Job are in its midst, as I live, says Lord, even if sons or daughters are left behind, they will rescue their own souls by their righteousness.
 - brenton: [missing]
 
 ### Ezekiel 14:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Even if I send my four evil punishments, sword and famine and evil beasts and death, against Jerusalem, to destroy from it man and cattle,
 - brenton: [missing]
 
 ### Ezekiel 14:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: yet behold, survivors are left in it, its rescued ones, who bring out sons and daughters from it. Behold, they come out to you, and you will see their ways and their thoughts, and you will repent over evils that I brought upon Jerusalem, all evils that I brought upon her.
 - brenton: [missing]
 
 ### Ezekiel 14:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will comfort you, because you will see their ways and their thoughts, and you will know that I did not do everything that I did in it in vain, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 15:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 15:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, what becomes of vine-wood beyond all woods, branches among trees of forest?
 - brenton: [missing]
 
 ### Ezekiel 15:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will wood be taken from it to make something for work? Will peg be taken from it to hang any vessel on it?
 - brenton: [missing]
 
 ### Ezekiel 15:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except it is given to fire for consuming; fire consumes the yearly pruning from it, and it fails completely. Will it be useful for work?
 - brenton: [missing]
 
 ### Ezekiel 15:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Even while it is still whole, it is not useful for work; much less if fire consumes it completely, will it still be useful for work?
 - brenton: [missing]
 
 ### Ezekiel 15:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: As vine-wood among trees of forest, which I gave to fire for consuming, so I have given inhabitants of Jerusalem.
 - brenton: [missing]
 
 ### Ezekiel 15:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my face against them. From fire they will go out, and fire will consume them, and they will know that I am Lord when I set my face against them.
 - brenton: [missing]
 
 ### Ezekiel 15:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make land desolation, because they committed offense, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 16:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 16:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, bear witness to Jerusalem concerning her lawless deeds,
 - brenton: [missing]
 
 ### Ezekiel 16:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Thus says Lord to Jerusalem: Your root and your birth are from land of Canaan; your father was Amorite and your mother Hittite.
 - brenton: [missing]
 
 ### Ezekiel 16:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as for your birth, on day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
 - brenton: [missing]
 
 ### Ezekiel 16:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on day you were born.
 - brenton: [missing]
 
 ### Ezekiel 16:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I passed by you and saw you mixed in your blood, and I said to you, In your blood, live.
 - brenton: [missing]
 
 ### Ezekiel 16:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Multiply, as growth of field, I made you, and you multiplied and grew great and entered into cities of cities. Your breasts were raised and your hair sprang up, but you were naked and unseemly.
 - brenton: [missing]
 
 ### Ezekiel 16:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I passed through you and saw you, and behold, your time, a time of bedding. And I spread my wings over you and covered your nakedness and swore to you and entered into covenant with you, says Lord, and you became mine.
 - brenton: [missing]
 
 ### Ezekiel 16:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I washed you with water and washed away your blood from you and anointed you with oil.
 - brenton: [missing]
 
 ### Ezekiel 16:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I clothed you with embroidered things and shod you with hyacinth and girded you with fine linen and wrapped you with hair-woven cloth.
 - brenton: [missing]
 
 ### Ezekiel 16:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I adorned you with jewelry and put bracelets on your hands and a necklace around your neck.
 - brenton: [missing]
 
 ### Ezekiel 16:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I put an earring on your nose and little wheels on your ears and a crown of boasting on your head.
 - brenton: [missing]
 
 ### Ezekiel 16:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you were adorned with gold and silver, and your garments were fine linen and hair-woven and embroidered. You ate fine flour and oil and honey, and you became exceedingly beautiful.
 - brenton: [missing]
 
 ### Ezekiel 16:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your name went out among nations because of your beauty, because it was completed in splendor, in beauty that I set upon you, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 16:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you trusted in your beauty and whored because of your name and poured out your whoring on every passerby, which should not be.
 - brenton: [missing]
 
 ### Ezekiel 16:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took from your garments and made for yourself stitched idols and whored on them, which must never enter nor happen.
 - brenton: [missing]
 
 ### Ezekiel 16:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took vessels of your boasting from my gold and my silver, from what I gave you, and made for yourself male images and whored in them.
 - brenton: [missing]
 
 ### Ezekiel 16:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took your embroidered garment and clothed them, and my oil and my incense you set before them.
 - brenton: [missing]
 
 ### Ezekiel 16:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my breads that I gave you, fine flour and oil and honey with which I fed you, you set before them for fragrant smell, and it happened, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 16:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took your sons and your daughters whom you bore and sacrificed them to them for consumption. Was your whoring a small thing?
 - brenton: [missing]
 
 ### Ezekiel 16:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you slaughtered your children and gave them when you offered them up among them.
 - brenton: [missing]
 
 ### Ezekiel 16:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Along with all your whoring, you did not remember days of your infancy, when you were naked and unseemly, and having been mixed in your blood, you lived.
 - brenton: [missing]
 
 ### Ezekiel 16:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after all your evils, says Lord,
 - brenton: [missing]
 
 ### Ezekiel 16:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that you built for yourself house of prostitution and made for yourself display-place in every square.
 - brenton: [missing]
 
 ### Ezekiel 16:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at head of every road you built your brothel and ruined your beauty and spread your legs to every passerby and multiplied your whoring.
 - brenton: [missing]
 
 ### Ezekiel 16:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you whored with sons of Egypt, your neighbors, great of flesh, and you whored often to provoke me.
 - brenton: [missing]
 
 ### Ezekiel 16:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I stretch out my hand against you and remove your lawful dues and hand you over to souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
 - brenton: [missing]
 
 ### Ezekiel 16:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you whored with daughters of Assur, and not even thus were you satisfied, and you whored, and still were not filled.
 - brenton: [missing]
 
 ### Ezekiel 16:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you multiplied your covenants toward land of Chaldeans, and not even with these were you satisfied.
 - brenton: [missing]
 
 ### Ezekiel 16:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What shall I do with your daughter, says Lord, when you do all these works of shameless whore, and you whored threefold?
 - brenton: [missing]
 
 ### Ezekiel 16:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your daughters you built your brothel at head of every road and made your base in every square, and you were not like prostitute gathering wages.
 - brenton: [missing]
 
 ### Ezekiel 16:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: An adulterous woman like you, taking wages instead of her husband.
 - brenton: [missing]
 
 ### Ezekiel 16:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To all prostitutes men gave wages, but you gave wages to all your lovers and loaded them down to come to you from all around in your whoring.
 - brenton: [missing]
 
 ### Ezekiel 16:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in you there came to be a reversal beyond women in your whoring: after you they did not whore, and in your giving wages, and no wages being given to you, reversal came to be in you.
 - brenton: [missing]
 
 ### Ezekiel 16:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, whore, hear word of Lord.
 - brenton: [missing]
 
 ### Ezekiel 16:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Because you poured out your bronze and your shame will be uncovered in your whoring toward your lovers and toward all thoughts of your lawless deeds and in blood of your children whom you gave to them,
 - brenton: [missing]
 
 ### Ezekiel 16:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore behold, I gather all your lovers with whom you mixed, and all whom you loved, with all whom you hated, and I will gather them against you from all around and uncover your evils before them, and they will see all your shame.
 - brenton: [missing]
 
 ### Ezekiel 16:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will avenge you with vengeance of adulteress and blood-shedder, and I will set you in blood of wrath and jealousy.
 - brenton: [missing]
 
 ### Ezekiel 16:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will hand you over into their hands, and they will tear down your brothel and pull down your base and strip you of your garments and take vessels of your boasting and leave you naked and unseemly.
 - brenton: [missing]
 
 ### Ezekiel 16:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will bring crowds against you and stone you with stones and butcher you with their swords.
 - brenton: [missing]
 
 ### Ezekiel 16:41
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will burn your houses with fire and do vengeance on you before many women, and I will turn you from your whoring, and you will give wages no longer.
 - brenton: [missing]
 
 ### Ezekiel 16:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will let my wrath rest on you and my jealousy will depart from you, and I will rest and no longer be troubled.
 - brenton: [missing]
 
 ### Ezekiel 16:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you did not remember day of your infancy and grieved me in all these things, behold, I also have put your ways on your head, says Lord, and so you did impiety on top of all your lawless deeds.
 - brenton: [missing]
 
 ### Ezekiel 16:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These are all things spoken against you in proverb, saying, Like mother, like daughter.
 - brenton: [missing]
 
 ### Ezekiel 16:45
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are daughter of your mother, who rejected her husband and her children, and sister of your sisters, who rejected their husbands and their children. Your mother was Hittite, and your father Amorite.
 - brenton: [missing]
 
 ### Ezekiel 16:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your elder sister is Samaria, she and her daughters dwelling on your left, and your younger sister dwelling on your right is Sodom and her daughters.
 - brenton: [missing]
 
 ### Ezekiel 16:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And not in their ways did you walk, nor did you act according to their lawless deeds. It was a small thing, and you surpassed them in all your ways.
 - brenton: [missing]
 
 ### Ezekiel 16:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord, Sodom your sister and her daughters did not do as you and your daughters did.
 - brenton: [missing]
 
 ### Ezekiel 16:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except this was lawlessness of Sodom your sister: pride, fullness of bread, and lavish ease of wine belonged to her and her daughters, and hand of poor and needy they did not support.
 - brenton: [missing]
 
 ### Ezekiel 16:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were haughty and did lawless things before me, and I removed them as I saw.
 - brenton: [missing]
 
 ### Ezekiel 16:51
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Samaria did not sin half your sins, and you multiplied your lawless deeds beyond them and justified your sisters by all your lawless deeds that you did.
 - brenton: [missing]
 
 ### Ezekiel 16:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you bear your torment, in that you corrupted your sisters in your sins by which you acted more lawlessly than they, and you justified them beyond yourself. And you, be ashamed and bear your dishonor in justifying your sisters.
 - brenton: [missing]
 
 ### Ezekiel 16:53
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will turn back their turning back, turning back of Sodom and her daughters, and I will turn back turning back of Samaria and her daughters, and I will turn back your turning back in their midst,
 - brenton: [missing]
 
 ### Ezekiel 16:54
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that you bear your torment and be dishonored from everything you did in provoking me.
 - brenton: [missing]
 
 ### Ezekiel 16:55
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your sister Sodom and her daughters will be restored as they were from beginning, and Samaria and her daughters will be restored as they were from beginning, and you and your daughters will be restored as you were from beginning.
 - brenton: [missing]
 
 ### Ezekiel 16:56
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if Sodom your sister was not a report in your mouth in days of your pride,
 - brenton: [missing]
 
 ### Ezekiel 16:57
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: before your evils were uncovered, as now you are reproach of daughters of Syria and of all around her, daughters of foreigners encircling you around,
 - brenton: [missing]
 
 ### Ezekiel 16:58
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: your impieties and your lawless deeds, you have borne them, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 16:59
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: I will act in you as you acted, as you dishonored these things by transgressing my covenant.
 - brenton: [missing]
 
 ### Ezekiel 16:60
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will remember my covenant with you in days of your infancy and raise up for you everlasting covenant.
 - brenton: [missing]
 
 ### Ezekiel 16:61
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will remember your way and be dishonored when you receive your older sisters with your younger ones, and I will give them to you for building, and not from your covenant.
 - brenton: [missing]
 
 ### Ezekiel 16:62
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will raise my covenant with you, and you will know that I am Lord,
 - brenton: [missing]
 
 ### Ezekiel 16:63
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that you remember and be ashamed and no longer have it in you to open your mouth because of your dishonor, when I make propitiation for you according to all that you did, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 17:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 17:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, tell tale and speak parable to house of Israel,
 - brenton: [missing]
 
 ### Ezekiel 17:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Thus says Lord: Great eagle, large-winged, long in spread, full of claws, having power to enter Lebanon, came and took choice things of cedar.
 - brenton: [missing]
 
 ### Ezekiel 17:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He clipped off tips of its tenderness and brought them into land of Canaan; in fortified city he set them.
 - brenton: [missing]
 
 ### Ezekiel 17:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took from seed of land and put it in open field, a plant by much water, under watch he set it.
 - brenton: [missing]
 
 ### Ezekiel 17:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it sprang up and became vine, weak and small in size, with its branches appearing toward him and its roots beneath him, and it became vine and made shoots and sent out its tendril-growth.
 - brenton: [missing]
 
 ### Ezekiel 17:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there was another great eagle, large-winged and many-clawed, and behold, this vine was entwined toward him, and its roots toward him, and its branches it sent out toward him so that he might water it with clod of its planting.
 - brenton: [missing]
 
 ### Ezekiel 17:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In good field by much water it fattens, to make shoots and bear fruit, to become great vine.
 - brenton: [missing]
 
 ### Ezekiel 17:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore say, Thus says Lord: Will it prosper? Will he not strip away its tender roots, and its fruit will rot, and all its first sproutings will dry up? Not with great arm, nor with many people, to pull it from its roots.
 - brenton: [missing]
 
 ### Ezekiel 17:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, it fattens. Will it prosper? Will it not dry in drought as soon as scorching wind touches it? With clod of its rising it will dry up.
 - brenton: [missing]
 
 ### Ezekiel 17:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 17:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, now say to provoking house, Do you not understand what these things were? Say, When king of Babylon comes against Jerusalem and takes its king and its rulers and brings them to himself in Babylon,
 - brenton: [missing]
 
 ### Ezekiel 17:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then he will take from seed of kingdom and make covenant with him and bring him under curse, and he will take leaders of land,
 - brenton: [missing]
 
 ### Ezekiel 17:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that kingdom may become weak, not lifting itself up at all, but keeping his covenant and standing by it.
 - brenton: [missing]
 
 ### Ezekiel 17:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he will rebel against him by sending his own messengers into Egypt, so that it might give him horses and many people. Will he prosper? Will one doing opposites and transgressing covenant be saved?
 - brenton: [missing]
 
 ### Ezekiel 17:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in midst of Babylon he will die.
 - brenton: [missing]
 
 ### Ezekiel 17:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And not with great force nor with large crowd will Pharaoh make war for him, by casting up trench and building missile-stations, to cut off lives.
 - brenton: [missing]
 
 ### Ezekiel 17:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he dishonored oath by transgressing covenant, and behold, he gave his hand and did all these things. He will not be saved.
 - brenton: [missing]
 
 ### Ezekiel 17:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: As I live, surely my covenant that he transgressed and my oath that he dishonored, I will put them on his head.
 - brenton: [missing]
 
 ### Ezekiel 17:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will spread my net over him, and he will be caught in my enclosure.
 - brenton: [missing]
 
 ### Ezekiel 17:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In all his battle line they will fall by sword, and those left I will scatter to every wind, and you will know that I, Lord, have spoken.
 - brenton: [missing]
 
 ### Ezekiel 17:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: I myself will take from choice cedar, from top of their heart, I will clip off and plant on high mountain and hang it there.
 - brenton: [missing]
 
 ### Ezekiel 17:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On high mountain of Israel I will plant it, and it will bring forth shoot and make fruit and become great cedar, and every beast and every bird will rest beneath it; in its shade its branches will be restored.
 - brenton: [missing]
 
 ### Ezekiel 17:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all trees of field will know that I am Lord, humbling high tree and exalting low tree and drying green tree and making dry tree flourish. I, Lord, have spoken and will do it.
 - brenton: [missing]
 
 ### Ezekiel 18:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 18:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, what is this proverb among sons of Israel, saying, Fathers ate unripe grape, and children’s teeth were set on edge?
 - brenton: [missing]
 
 ### Ezekiel 18:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord, this proverb will no longer be spoken in Israel.
 - brenton: [missing]
 
 ### Ezekiel 18:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all souls are mine; as soul of father, so also soul of son, both are mine. Soul sinning, that one will die.
 - brenton: [missing]
 
 ### Ezekiel 18:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And man who is righteous, doing judgment and righteousness,
 - brenton: [missing]
 
 ### Ezekiel 18:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: will not eat on mountains and will not lift his eyes to thoughts of house of Israel, and will not defile wife of his neighbor, and will not approach woman in her monthly flow.
 - brenton: [missing]
 
 ### Ezekiel 18:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will not oppress a man, he will return pledge of debtor, he will not seize plunder, he will give his bread to hungry one, and clothe naked one with garment.
 - brenton: [missing]
 
 ### Ezekiel 18:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will not give his money on interest, nor take excess, and he will turn his hand away from injustice; he will do righteous judgment between man and his neighbor.
 - brenton: [missing]
 
 ### Ezekiel 18:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he has walked in my ordinances and kept my judgments to do them. This one is righteous; living he will live, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 18:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he fathers violent son, shedding blood and committing sins,
 - brenton: [missing]
 
 ### Ezekiel 18:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who did not walk in way of his righteous father, but also ate on mountains and defiled wife of his neighbor,
 - brenton: [missing]
 
 ### Ezekiel 18:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and oppressed poor and needy and seized plunder and did not return pledge, and set his eyes on idols and did lawlessness,
 - brenton: [missing]
 
 ### Ezekiel 18:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and gave with interest and took excess, shall this one live? He will not live. He did all these lawless things; by death he will be put to death. His blood will be upon him.
 - brenton: [missing]
 
 ### Ezekiel 18:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he fathers son and he sees all sins of his father that he did and fears and does not do according to them,
 - brenton: [missing]
 
 ### Ezekiel 18:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: he has not eaten on mountains and has not set his eyes on thoughts of house of Israel and has not defiled wife of his neighbor,
 - brenton: [missing]
 
 ### Ezekiel 18:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and has not oppressed a man and has not exacted a pledge and has not seized plunder; he gave his bread to hungry one and clothed naked one,
 - brenton: [missing]
 
 ### Ezekiel 18:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and turned his hand away from injustice and did not take interest nor excess, and did righteousness and walked in my ordinances, this one will not die in injustices of his father; living he will live.
 - brenton: [missing]
 
 ### Ezekiel 18:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But his father, if he oppresses with oppression and seizes plunder and did opposites in midst of my people, he will die in his injustice.
 - brenton: [missing]
 
 ### Ezekiel 18:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, Why has son not taken injustice of his father? Because son did righteousness and mercy and kept all my ordinances and did them; living he will live.
 - brenton: [missing]
@@ -186032,423 +186032,423 @@ Note:
 
 ### Ezekiel 18:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if lawless one turns from all his lawless deeds that he did and keeps all my commandments and does righteousness and mercy, living he will live; he will not die.
 - brenton: [missing]
 
 ### Ezekiel 18:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All his trespasses that he did will not be remembered; in his righteousness that he did he will live.
 - brenton: [missing]
 
 ### Ezekiel 18:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do I at all desire death of lawless one, says Lord, rather than his turning from evil way and his living?
 - brenton: [missing]
 
 ### Ezekiel 18:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But when righteous one turns from his righteousness and does injustice, according to all lawless things that lawless one did, none of his righteous deeds that he did will be remembered. In trespass by which he trespassed and in sins by which he sinned, in them he will die.
 - brenton: [missing]
 
 ### Ezekiel 18:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you said, Way of Lord is not straight. Hear now, all house of Israel: Is my way not straight? Is it not your way that is not straight?
 - brenton: [missing]
 
 ### Ezekiel 18:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When righteous one turns from his righteousness and does trespass and dies, in trespass that he did, in it he will die.
 - brenton: [missing]
 
 ### Ezekiel 18:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when lawless one turns from his lawlessness that he did and does judgment and righteousness, this one has preserved his soul.
 - brenton: [missing]
 
 ### Ezekiel 18:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he turned away from all his impieties that he did; living he will live; he will not die.
 - brenton: [missing]
 
 ### Ezekiel 18:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And house of Israel says, Way of Lord is not right. Is my way not right, house of Israel? Is it not your way that is not right?
 - brenton: [missing]
 
 ### Ezekiel 18:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each one according to his way I will judge you, house of Israel, says Lord. Turn back and turn away from all your impieties, and they will not become to you punishment of injustice.
 - brenton: [missing]
 
 ### Ezekiel 18:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Throw away from yourselves all your impieties by which you acted impiously against me and make for yourselves new heart and new spirit. And why are you dying, house of Israel?
 - brenton: [missing]
 
 ### Ezekiel 18:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I do not want death of dying one, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 19:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, take lamentation for ruler of Israel,
 - brenton: [missing]
 
 ### Ezekiel 19:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, What was your mother? Lioness among lions she became; in midst of lions she multiplied her cubs.
 - brenton: [missing]
 
 ### Ezekiel 19:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one of her cubs leapt up; he became lion and learned to seize plunder; he ate men.
 - brenton: [missing]
 
 ### Ezekiel 19:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations heard against him; in their corruption he was caught, and they brought him with bridle into land of Egypt.
 - brenton: [missing]
 
 ### Ezekiel 19:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she saw that he was driven from her and her expectation perished, and she took another from her cubs and made him lion.
 - brenton: [missing]
 
 ### Ezekiel 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he prowled in midst of lions; he became lion and learned to seize plunder; he ate men.
 - brenton: [missing]
 
 ### Ezekiel 19:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he raged in his daring and laid waste their cities and desolated land and its fullness by sound of his roar.
 - brenton: [missing]
 
 ### Ezekiel 19:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations from countries around set themselves against him and spread their nets over him; in their corruption he was caught.
 - brenton: [missing]
 
 ### Ezekiel 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they put him in bridle and cage and brought him to king of Babylon and led him into prison, so that his voice might no longer be heard on mountains of Israel.
 - brenton: [missing]
 
 ### Ezekiel 19:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your mother was like vine, like blossom in pomegranate, planted by water; its fruit and its shoot came from much water.
 - brenton: [missing]
 
 ### Ezekiel 19:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in midst of stems, and it saw its size in multitude of its branches.
 - brenton: [missing]
 
 ### Ezekiel 19:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But it was broken in wrath, cast to ground, and scorching wind dried its chosen things; its strong rod was avenged and dried up; fire consumed it.
 - brenton: [missing]
 
 ### Ezekiel 19:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now they planted it in wilderness, in dry land.
 - brenton: [missing]
 
 ### Ezekiel 19:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fire went out from rod of its chosen ones and consumed it, and there was no strong rod in it, a tribe for proverb. It is lament and will be for lament.
 - brenton: [missing]
 
 ### Ezekiel 20:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in seventh year, in fifth month, on tenth of month, men from elders of house of Israel came to inquire of Lord and sat before me.
 - brenton: [missing]
 
 ### Ezekiel 20:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 20:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, speak to elders of Israel and say to them, Thus says Lord: Is it to inquire of me that you come? As I live, I will not answer you, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 20:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will I avenge them with vengeance, son of man? Bear witness to them concerning lawless deeds of their fathers.
 - brenton: [missing]
 
 ### Ezekiel 20:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And say to them, Thus says Lord: From day I chose house of Israel and made myself known to seed of house of Jacob and was known to them in land of Egypt and took hold of their hand, saying, I am Lord your God,
 - brenton: [missing]
 
 ### Ezekiel 20:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: on that day I took hold of their hand to bring them out from land of Egypt into land that I prepared for them, land flowing with milk and honey, a honeycomb beyond every land.
 - brenton: [missing]
 
 ### Ezekiel 20:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to them, Let each cast away abominations of his eyes, and do not defile yourselves with practices of Egypt. I am Lord your God.
 - brenton: [missing]
 
 ### Ezekiel 20:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in midst of land of Egypt.
 - brenton: [missing]
 
 ### Ezekiel 20:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I acted so that my name might not at all be profaned before nations among whom they were, among whom I was made known to them before them, to bring them out from land of Egypt.
 - brenton: [missing]
 
 ### Ezekiel 20:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I brought them out from land of Egypt and led them into wilderness.
 - brenton: [missing]
 
 ### Ezekiel 20:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave them my ordinances, and my judgments I made known to them, which if man does them, he will live in them.
 - brenton: [missing]
 
 ### Ezekiel 20:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my Sabbaths I gave them, to be sign between me and them, so that they might know that I am Lord who sanctifies them.
 - brenton: [missing]
 
 ### Ezekiel 20:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to house of Israel in wilderness, In my ordinances walk, yet they did not walk, and my judgments they rejected, which if man does them, he will live in them, and my Sabbaths they greatly profaned, and I said I would pour out my wrath upon them in wilderness to consume them.
 - brenton: [missing]
 
 ### Ezekiel 20:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I acted so that my name might not at all be profaned before nations from whom I brought them out before their eyes.
 - brenton: [missing]
 
 ### Ezekiel 20:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my hand against them in wilderness, not at all to bring them into land that I gave them, land flowing milk and honey, a honeycomb beyond every land,
 - brenton: [missing]
 
 ### Ezekiel 20:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they rejected my judgments and did not walk in my ordinances and profaned my Sabbaths, and after thoughts of their hearts they went.
 - brenton: [missing]
 
 ### Ezekiel 20:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my eye spared them from wiping them out, and I did not make end of them in wilderness.
 - brenton: [missing]
 
 ### Ezekiel 20:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to their children in wilderness, Do not walk in statutes of your fathers, and do not keep their judgments, and do not mix yourselves with their practices, and do not defile yourselves.
 - brenton: [missing]
 
 ### Ezekiel 20:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am Lord your God. Walk in my ordinances, and keep my judgments and do them,
 - brenton: [missing]
 
 ### Ezekiel 20:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and sanctify my Sabbaths, and let them be sign between me and you, that you may know that I am Lord your God.
 - brenton: [missing]
 
 ### Ezekiel 20:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their children provoked me. In my ordinances they did not walk, and my judgments they did not keep to do them, which if man does them, he will live in them, and my Sabbaths they profaned, and I said I would pour out my wrath on them in wilderness to complete my anger upon them.
 - brenton: [missing]
