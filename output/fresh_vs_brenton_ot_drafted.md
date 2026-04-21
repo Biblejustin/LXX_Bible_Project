@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 13772
-- medium: 2012
-- low: 7133
+- high: 13952
+- medium: 1983
+- low: 6982
 - none: 0
 
 Note:
@@ -122863,873 +122863,873 @@ Note:
 
 ### Job 39:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: it will inspect mountains for its pasture and seek after every green thing.
 - brenton: [missing]
 
 ### Job 39:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will unicorn be willing to serve you, or sleep at your manger?
 - brenton: [missing]
 
 ### Job 39:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you bind its yoke with straps, or will it drag your furrows in plain?
 - brenton: [missing]
 
 ### Job 39:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do you trust in it because its strength is great? And will you leave your works to it?
 - brenton: [missing]
 
 ### Job 39:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you trust that it will return your seed and bring it into your threshing floor?
 - brenton: [missing]
 
 ### Job 39:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wing of rejoicing ostriches, if it should conceive stork and hawk,
 - brenton: [missing]
 
 ### Job 39:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because it will leave its eggs in earth and brood them upon dust,
 - brenton: [missing]
 
 ### Job 39:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and forgot that foot will scatter them and beasts of field trample them.
 - brenton: [missing]
 
 ### Job 39:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It hardened its young so as not to be its own; for nothing it labored without fear,
 - brenton: [missing]
 
 ### Job 39:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because God made wisdom silent to it and did not divide understanding to it.
 - brenton: [missing]
 
 ### Job 39:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At time on high it will raise itself up; it will laugh at horse and its rider.
 - brenton: [missing]
 
 ### Job 39:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you clothe horse with strength, and put fear on its neck?
 - brenton: [missing]
 
 ### Job 39:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you put armor on it, and boldness on its chest?
 - brenton: [missing]
 
 ### Job 39:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pawing in plain in pride, it goes out to field in strength.
 - brenton: [missing]
 
 ### Job 39:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Meeting arrow, it laughs and will by no means turn back from iron.
 - brenton: [missing]
 
 ### Job 39:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Over it boast bow and sword.
 - brenton: [missing]
 
 ### Job 39:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And anger will destroy earth, and it will by no means believe until trumpet sounds.
 - brenton: [missing]
 
 ### Job 39:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when trumpet sounds it says, Good! And from far off it smells war with leap and cry.
 - brenton: [missing]
 
 ### Job 39:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And by your knowledge has hawk stood still, spreading out wings motionless and looking southward?
 - brenton: [missing]
 
 ### Job 39:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And by your command does eagle rise up, and vulture, sitting, lodge at its nest?
 - brenton: [missing]
 
 ### Job 39:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon projection of rock and hidden place.
 - brenton: [missing]
 
 ### Job 39:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From there, being there, it seeks foods; its eyes watch from far away.
 - brenton: [missing]
 
 ### Job 39:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its young wallow in blood, and wherever corpses are, they are immediately found.
 - brenton: [missing]
 
 ### Job 40:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord God answered Iōb and said,
 - brenton: [missing]
 
 ### Job 40:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will one turning aside judgment with Sufficient One, reproving God, answer this?
 - brenton: [missing]
 
 ### Job 40:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Iōb says to Lord,
 - brenton: [missing]
 
 ### Job 40:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why am I still judged, being admonished and reproving Lord, hearing such things while I am nothing? What answer shall I give to these things? I will put hand on my mouth.
 - brenton: [missing]
 
 ### Job 40:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Once I spoke, but on second time I will not add.
 - brenton: [missing]
 
 ### Job 40:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And again taking up the matter, Lord said to Iōb out of cloud,
 - brenton: [missing]
 
 ### Job 40:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But gird your loins like man; I will ask you, and you answer me.
 - brenton: [missing]
 
 ### Job 40:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not reject my judgment; do you think I have dealt with you otherwise than that you might appear righteous?
 - brenton: [missing]
 
 ### Job 40:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or is arm of yours against Lord, or your voice thundering against him?
 - brenton: [missing]
 
 ### Job 40:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take up then height and power, and clothe yourself with glory and honor.
 - brenton: [missing]
 
 ### Job 40:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And send out angels in wrath, and humble every arrogant man.
 - brenton: [missing]
 
 ### Job 40:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And quench proud man, and rot ungodly men at once.
 - brenton: [missing]
 
 ### Job 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hide them together outside in earth, and fill their faces with dishonor.
 - brenton: [missing]
 
 ### Job 40:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then I too will confess that your right hand can save.
 - brenton: [missing]
 
 ### Job 40:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now behold beasts beside you; it eats grass like oxen.
 - brenton: [missing]
 
 ### Job 40:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold then its strength upon loins, and its power upon navel of belly.
 - brenton: [missing]
 
 ### Job 40:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It set tail like cypress, and its sinews are interwoven.
 - brenton: [missing]
 
 ### Job 40:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its ribs are bronze ribs, and its backbone cast iron.
 - brenton: [missing]
 
 ### Job 40:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is beginning of Lord's creation, made to be mocked by his angels.
 - brenton: [missing]
 
 ### Job 40:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And going upon steep mountain, it made joy for quadrupeds in Tartarus.
 - brenton: [missing]
 
 ### Job 40:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It sleeps under every kind of tree, beside papyrus and reed and rush.
 - brenton: [missing]
 
 ### Job 40:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And great trees shade it, with branches and shoots of agnus-tree.
 - brenton: [missing]
 
 ### Job 40:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If flood happens, it will not notice; it trusts that Jordan will dash into its mouth.
 - brenton: [missing]
 
 ### Job 40:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will one take it in its eye? With snare one will pierce its nose.
 - brenton: [missing]
 
 ### Job 40:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you lead dragon with hook, and put halter around its nose?
 - brenton: [missing]
 
 ### Job 40:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will you bind ring in its nostril and pierce its lip with bracelet?
 - brenton: [missing]
 
 ### Job 40:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will it speak to you with petition, making supplications softly?
 - brenton: [missing]
 
 ### Job 40:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will it make covenant with you, and you will take it for eternal slave?
 - brenton: [missing]
 
 ### Job 40:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you play with it like bird, or bind it like sparrow for child?
 - brenton: [missing]
 
 ### Job 40:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations feed upon it, and races of Phoenicians divide it up.
 - brenton: [missing]
 
 ### Job 40:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all ships gathered together will by no means carry one skin of its tail, nor in fishing boats its head.
 - brenton: [missing]
 
 ### Job 40:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you lay hand upon it, remembering war happening in its body, and let it happen no more?
 - brenton: [missing]
 
 ### Job 41:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have you not seen it, nor marveled at things spoken of it?
 - brenton: [missing]
 
 ### Job 41:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have you not feared because it has been prepared for me? For who is one standing against me?
 - brenton: [missing]
 
 ### Job 41:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or who will withstand me and endure, if all that is under heaven is mine?
 - brenton: [missing]
 
 ### Job 41:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will not be silent because of it, and word of power will have mercy on its equal.
 - brenton: [missing]
 
 ### Job 41:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will uncover face of its clothing? And who would enter fold of its breastplate?
 - brenton: [missing]
 
 ### Job 41:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will open gates of its face? Around its teeth is fear.
 - brenton: [missing]
 
 ### Job 41:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its inward parts are bronze shields, and its binding like emery stone.
 - brenton: [missing]
 
 ### Job 41:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One cleaving to another, and breath will by no means pass through it.
 - brenton: [missing]
 
 ### Job 41:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: A man to his brother will be glued; they hold together and will by no means be torn apart.
 - brenton: [missing]
 
 ### Job 41:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At its sneezing light shines, and its eyes like form of morning star.
 - brenton: [missing]
 
 ### Job 41:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From its mouth go out burning lamps, and hearths of fire are scattered abroad.
 - brenton: [missing]
 
 ### Job 41:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From its nostrils comes out smoke of furnace burning with coals of fire.
 - brenton: [missing]
 
 ### Job 41:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its soul is coals, and flame goes out from its mouth.
 - brenton: [missing]
 
 ### Job 41:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in its neck strength lodges; destruction runs before it.
 - brenton: [missing]
 
 ### Job 41:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fleshes of its body are joined together; he will pour upon it, and it will not be shaken.
 - brenton: [missing]
 
 ### Job 41:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its heart is fixed like stone, standing like unhammersmitten anvil.
 - brenton: [missing]
 
 ### Job 41:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When it turns, there is fear to beasts, to quadrupeds on earth leaping.
 - brenton: [missing]
 
 ### Job 41:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If spears meet it, they will do nothing, nor raised spear and breastplate.
 - brenton: [missing]
 
 ### Job 41:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For it counts iron as straw, and bronze as rotten wood.
 - brenton: [missing]
 
 ### Job 41:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bronze bow will by no means wound it; it counts stone-slinger as grass.
 - brenton: [missing]
 
 ### Job 41:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hammers were counted as reed, and it laughs at shaking of fire-bearer.
 - brenton: [missing]
 
 ### Job 41:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its bed is sharp spits, and all gold of sea under it like immeasurable clay.
 - brenton: [missing]
 
 ### Job 41:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It makes deep boil like bronze pot, and counts sea like perfume-vessel.
 - brenton: [missing]
 
 ### Job 41:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Tartarus of deep it counted like captive, and deep for its walking.
 - brenton: [missing]
 
 ### Job 41:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is nothing upon earth like it, made to be mocked by my angels.
 - brenton: [missing]
 
 ### Job 41:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It sees every high thing; and it is king of all things in waters.
 - brenton: [missing]
 
 ### Job 42:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Iōb says to Lord,
 - brenton: [missing]
 
 ### Job 42:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I know that you can do all things, and nothing is impossible for you.
 - brenton: [missing]
 
 ### Job 42:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For who is one hiding counsel from you, sparing words, and thinking to hide you? And who will tell me things I did not know, great and wonderful things which I did not understand?
 - brenton: [missing]
 
 ### Job 42:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, Lord, that I too may speak; I will ask you, and you teach me.
 - brenton: [missing]
 
 ### Job 42:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By hearing of ear I formerly heard you, but now my eye has seen you.
 - brenton: [missing]
 
 ### Job 42:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I despised myself and melted away, and I count myself earth and ashes.
 - brenton: [missing]
 
 ### Job 42:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after Lord spoke all these words to Iōb, Lord said to Eliphas the Thaimanite, You and your two friends sinned, for you spoke nothing true before me, as my servant Iōb did.
 - brenton: [missing]
 
 ### Job 42:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then take seven calves and seven rams and go to my servant Iōb, and he will make fruit-offering concerning you. And my servant Iōb will pray concerning you, because unless I receive his face, for his sake I would have destroyed you, for you did not speak truth concerning my servant Iōb.
 - brenton: [missing]
 
 ### Job 42:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Eliphas the Thaimanite and Baldad the Sauchite and Sophar the Minaian went and did as Lord instructed them, and through Iōb he loosed their sin.
 - brenton: [missing]
 
 ### Job 42:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord increased Iōb. And when he prayed also concerning his friends, he forgave them their sin. And Lord gave double whatever had been before Iōb, for doubling.
 - brenton: [missing]
 
 ### Job 42:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all his brothers and sisters heard all things that happened to him, and they came to him, and all who had known him from first. And eating and drinking with him, they comforted him and marveled over all that Lord brought upon him. And each gave him one lamb and a gold four-drachma piece unstamped.
 - brenton: [missing]
 
 ### Job 42:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord blessed last things of Iōb more than former things. And his livestock was fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female grazing donkeys.
 - brenton: [missing]
 
 ### Job 42:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seven sons and three daughters were born to him.
 - brenton: [missing]
 
 ### Job 42:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he called first Day, second Cassia, and third Horn of Amaltheia.
 - brenton: [missing]
 
 ### Job 42:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And no women under heaven were found better than daughters of Iōb, and father gave them inheritance among their brothers.
 - brenton: [missing]
 
 ### Job 42:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iōb lived after the blow one hundred seventy years; altogether he lived two hundred forty-eight years, and Iōb saw his sons and sons of his sons, fourth generation.
 - brenton: [missing]
@@ -123747,747 +123747,747 @@ Note:
 
 ### Psalms 1:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
 - brenton: [missing]
 
 ### Psalms 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but his delight is in law of Lord, and in his law he will meditate day and night.
 - brenton: [missing]
 
 ### Psalms 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will be like tree planted by outlets of waters, which will give its fruit in its season, and its leaf will not wither, and all things whatever he does will prosper.
 - brenton: [missing]
 
 ### Psalms 1:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not so ungodly men, not so, but like chaff which wind throws from face of earth.
 - brenton: [missing]
 
 ### Psalms 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this ungodly men will not stand in judgment, nor sinners in counsel of righteous men.
 - brenton: [missing]
 
 ### Psalms 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord knows way of righteous men, but way of ungodly men will perish.
 - brenton: [missing]
 
 ### Psalms 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did nations rage, and peoples meditate empty things?
 - brenton: [missing]
 
 ### Psalms 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kings of earth stood by, and rulers were gathered together against Lord and against his Anointed. Interlude.
 - brenton: [missing]
 
 ### Psalms 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us tear their bonds apart and cast their yoke from us.
 - brenton: [missing]
 
 ### Psalms 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One dwelling in heavens will laugh at them, and Lord will mock them.
 - brenton: [missing]
 
 ### Psalms 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then he will speak to them in his wrath and trouble them in his anger.
 - brenton: [missing]
 
 ### Psalms 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I was set as king by him upon Sion, his holy mountain,
 - brenton: [missing]
 
 ### Psalms 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: declaring decree of Lord. Lord said to me, You are my son; today I have begotten you.
 - brenton: [missing]
 
 ### Psalms 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ask from me, and I will give nations as your inheritance and ends of earth as your possession.
 - brenton: [missing]
 
 ### Psalms 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will shepherd them with iron rod; like potter's vessel you will shatter them.
 - brenton: [missing]
 
 ### Psalms 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, kings, understand; be instructed, all judging earth.
 - brenton: [missing]
 
 ### Psalms 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Serve Lord in fear and rejoice in him with trembling.
 - brenton: [missing]
 
 ### Psalms 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take hold of instruction lest Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
 - brenton: [missing]
 
 ### Psalms 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David, when he fled from face of Abessalōm his son.
 - brenton: [missing]
 
 ### Psalms 3:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, why were those afflicting me multiplied? Many rise up against me.
 - brenton: [missing]
 
 ### Psalms 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many say to my soul, There is no salvation for him in his God. Interlude.
 - brenton: [missing]
 
 ### Psalms 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord, are my defender, my glory, and one lifting my head.
 - brenton: [missing]
 
 ### Psalms 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With my voice I cried to Lord, and he heard me from his holy mountain. Interlude.
 - brenton: [missing]
 
 ### Psalms 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I lay down and slept; I awoke, because Lord will help me.
 - brenton: [missing]
 
 ### Psalms 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will not fear from myriads of people those surrounding and attacking me.
 - brenton: [missing]
 
 ### Psalms 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord; save me, my God, because you struck all who hate me for nothing; teeth of sinners you shattered.
 - brenton: [missing]
 
 ### Psalms 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Salvation belongs to Lord, and your blessing upon your people.
 - brenton: [missing]
 
 ### Psalms 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. In psalms. Song of David.
 - brenton: [missing]
 
 ### Psalms 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When I call, God of my righteousness heard me; in affliction you widened space for me. Have pity on me and hear my prayer.
 - brenton: [missing]
 
 ### Psalms 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of men, until when heavy-hearted? Why do you love vanity and seek lie? Interlude.
 - brenton: [missing]
 
 ### Psalms 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And know that Lord made his holy one wondrous; Lord will hear me when I cry to him.
 - brenton: [missing]
 
 ### Psalms 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be angry and do not sin; say within your hearts, and upon your beds be pierced through. Interlude.
 - brenton: [missing]
 
 ### Psalms 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice sacrifice of righteousness and hope upon Lord.
 - brenton: [missing]
 
 ### Psalms 4:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many say, Who will show us good things? Light of your face, Lord, was marked upon us.
 - brenton: [missing]
 
 ### Psalms 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You gave gladness into my heart, from season when their grain and wine and oil were multiplied.
 - brenton: [missing]
 
 ### Psalms 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In peace, at same time, I will lie down and sleep, because you, Lord, alone settled me in hope.
 - brenton: [missing]
 
 ### Psalms 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Concerning her who inherits. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear to my words, Lord; understand my cry.
 - brenton: [missing]
 
 ### Psalms 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Attend to voice of my petition, my King and my God, because to you I will pray, Lord.
 - brenton: [missing]
 
 ### Psalms 5:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In morning you will hear my voice; in morning I will stand before you and keep watch.
 - brenton: [missing]
 
 ### Psalms 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you are not God willing lawlessness, nor will one doing evil dwell with you.
 - brenton: [missing]
 
 ### Psalms 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lawless men will not remain before your eyes; you hated all working lawlessness.
 - brenton: [missing]
 
 ### Psalms 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will destroy all speaking lie; man of bloods and deceit Lord abhors.
 - brenton: [missing]
 
 ### Psalms 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I, in multitude of your mercy, will enter into your house; I will worship toward your holy temple in your fear.
 - brenton: [missing]
 
 ### Psalms 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, lead me in your righteousness because of my enemies; make your way straight before me.
 - brenton: [missing]
 
 ### Psalms 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there is no truth in their mouth; their heart is vain; their throat open grave; with their tongues they dealt deceitfully.
 - brenton: [missing]
 
 ### Psalms 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Judge them, God; let them fall from their counsels. According to multitude of their ungodliness cast them out, because they embittered you, Lord.
 - brenton: [missing]
 
 ### Psalms 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let all hoping in you be glad; into age they will rejoice, and you will dwell among them; and all loving your name will boast in you.
 - brenton: [missing]
 
 ### Psalms 5:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you will bless righteous man, Lord; as with weapon of favor you crowned us.
 - brenton: [missing]
 
 ### Psalms 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. In hymns. Concerning eighth. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, do not reprove me in your fury, nor discipline me in your anger.
 - brenton: [missing]
 
 ### Psalms 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have mercy on me, Lord, because I am weak. Heal me, Lord, because my bones were troubled.
 - brenton: [missing]
 
 ### Psalms 6:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my soul was greatly troubled. And you, Lord, until when?
 - brenton: [missing]
 
 ### Psalms 6:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn back, Lord; rescue my soul. Save me because of your mercy.
 - brenton: [missing]
 
 ### Psalms 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in death there is none remembering you; and in Hades who will confess to you?
 - brenton: [missing]
 
 ### Psalms 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I toiled in my groaning; every night I will wash my bed, with my tears I will soak my couch.
 - brenton: [missing]
 
 ### Psalms 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eye was troubled from anger; I grew old among all my enemies.
 - brenton: [missing]
 
 ### Psalms 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Depart from me, all working lawlessness, because Lord heard voice of my weeping.
 - brenton: [missing]
 
 ### Psalms 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord heard my petition; Lord received my prayer.
 - brenton: [missing]
 
 ### Psalms 6:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all my enemies be ashamed and greatly troubled; let them turn back and be greatly ashamed very quickly.
 - brenton: [missing]
 
 ### Psalms 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David, which he sang to Lord concerning words of Chousi son of Iemeni.
 - brenton: [missing]
 
 ### Psalms 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord my God, upon you I hoped; save me from all pursuing me and rescue me,
 - brenton: [missing]
 
 ### Psalms 7:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest he seize my soul like lion, while there is none redeeming and none saving.
 - brenton: [missing]
 
 ### Psalms 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord my God, if I did this, if there is injustice in my hands,
 - brenton: [missing]
 
 ### Psalms 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if I repaid evil to those repaying me, then let me fall away from my enemies empty.
 - brenton: [missing]
 
 ### Psalms 7:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then let enemy pursue my soul and seize it, and trample my life into earth, and settle my glory in dust. Interlude.
 - brenton: [missing]
 
 ### Psalms 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord, in your anger; be lifted up at ends of my enemies. Wake up, Lord my God, in command which you enjoined.
 - brenton: [missing]
 
 ### Psalms 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gathering of peoples will encircle you, and over this return on high.
 - brenton: [missing]
 
 ### Psalms 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord judges peoples. Judge me, Lord, according to my righteousness and according to my innocence upon me.
 - brenton: [missing]
 
 ### Psalms 7:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let evil of sinners come to end, and you will set righteous man straight, examining hearts and kidneys, O God.
 - brenton: [missing]
 
 ### Psalms 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My help is righteous from God, the one saving upright ones in heart.
 - brenton: [missing]
 
 ### Psalms 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God is righteous judge, strong and patient, not bringing on anger each day.
 - brenton: [missing]
 
 ### Psalms 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you do not turn back, he will polish his sword, stretch his bow, and prepare it.
 - brenton: [missing]
 
 ### Psalms 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in it he prepared instruments of death; his arrows he worked out for burning ones.
 - brenton: [missing]
 
 ### Psalms 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, he travailed with injustice, conceived toil, and gave birth to lawlessness.
 - brenton: [missing]
 
 ### Psalms 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He dug pit and scooped it out, and he will fall into hole which he made.
 - brenton: [missing]
 
 ### Psalms 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His toil will return upon his head, and his injustice will come down upon his crown.
 - brenton: [missing]
 
 ### Psalms 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to Lord according to his righteousness, and I will sing praise to name of Lord Most High.
 - brenton: [missing]
 
 ### Psalms 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Concerning winepresses. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, our Lord, how wondrous your name in all earth, because your magnificence was lifted above heavens.
 - brenton: [missing]
 
 ### Psalms 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Out of mouth of infants and nursing ones you prepared praise, because of your enemies, to tear down enemy and avenger.
 - brenton: [missing]
 
 ### Psalms 8:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I will see heavens, works of your fingers, moon and stars which you founded.
 - brenton: [missing]
 
 ### Psalms 8:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What is man, that you remember him, or son of man, that you visit him?
 - brenton: [missing]
