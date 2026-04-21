@@ -1000,6 +1000,15 @@ Method:
 - mt: And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.
 - brenton: And Seon did not allow Israel to pass through his borders, and Seon gathered all his people, and went out to set the battle in array against Israel into the wilderness; and he came to Jassa, and set the battle in array against Israel.
 
+### Genesis 32:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.302`
+- fresh: And he saw that he could not prevail against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+- mt: And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
+- brenton: And Jacob was left alone; and a man wrestled with him till the morning.
+
 ### Numbers 5:30
 - priority: `0`
 - importance: `none`
@@ -1008,15 +1017,6 @@ Method:
 - fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
 - mt: Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.
 - brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
-
-### Genesis 32:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.308`
-- fresh: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
-- mt: And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
-- brenton: And Jacob was left alone; and a man wrestled with him till the morning.
 
 ### Deuteronomy 3:21
 - priority: `0`
@@ -8319,15 +8319,6 @@ Method:
 - mt: Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that all of you may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever.
 - brenton: And now give not your daughters to their sons, and take not of their daughters for your sons, neither shall ye seek their peace or their good for ever: that ye may be strong, and eat the good of the land, and transmit it as an inheritance to your children for ever.
 
-### 1 Samuel 20:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.058`
-- fresh_brenton_ratio: `0.115`
-- fresh: and he said, Send me away now, because there is for us a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
-- mt: And he said, Let me go, I pray you; for our family has a sacrifice in the city; and my brother, he has commanded me to be there: and now, if I have found favour in yours eyes, let me get away, I pray you, and see my brethren. Therefore he comes not unto the king's table.
-- brenton: and he said, Let me go, I pray thee, for we have a family sacrifice in the city, and my brethren have sent for me; and now, if I have found grace in thine eyes, I will even go over and see my brethren: therefore he is not present at the table of the king.
-
 ### Joshua 14:10
 - priority: `0`
 - importance: `none`
@@ -8426,6 +8417,15 @@ Method:
 - fresh: And all assembly rejoiced, priests and Levites and all assembly from Judah and those found from Israel and sojourners who came from land of Israel and those dwelling in Judah.
 - mt: And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced.
 - brenton: And all the congregation, the priests and the Levites, rejoiced, and all the congregation of Juda, and they that were present of Jerusalem, and the strangers that came from the land of Israel, and the dwellers in Juda.
+
+### 1 Samuel 20:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.059`
+- fresh_brenton_ratio: `0.117`
+- fresh: and he said, Send me away now, because we have a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
+- mt: And he said, Let me go, I pray you; for our family has a sacrifice in the city; and my brother, he has commanded me to be there: and now, if I have found favour in yours eyes, let me get away, I pray you, and see my brethren. Therefore he comes not unto the king's table.
+- brenton: and he said, Let me go, I pray thee, for we have a family sacrifice in the city, and my brethren have sent for me; and now, if I have found grace in thine eyes, I will even go over and see my brethren: therefore he is not present at the table of the king.
 
 ### Numbers 33:55
 - priority: `0`
@@ -52509,6 +52509,15 @@ Method:
 - mt: And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
 - brenton: And Abessalom did after this manner to all Israel that came to the king for judgment; and Abessalom gained the hearts of the men of Israel.
 
+### Nehemiah 5:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.664`
+- fresh_brenton_ratio: `0.760`
+- fresh: And I said, The thing you are doing is not good. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
+- mt: Also I said, It is not good that all of you do: ought all of you not to walk in the fear of our God because of the reproach of the heathen our enemies?
+- brenton: And I said, The thing which ye do is not good; ye will not so walk in the fear of our God because of the reproach of the Gentiles our enemies.
+
 ### 1 Chronicles 2:24
 - priority: `0`
 - importance: `none`
@@ -60482,15 +60491,6 @@ Method:
 - fresh: then it shall be, when you eat from the breads of the land, you shall remove a contribution set apart for the Lord.
 - mt: Then it shall be, that, when all of you eat of the bread of the land, all of you shall offer up an heave offering unto the LORD.
 - brenton: then it shall come to pass, when ye shall eat of the bread of the land, ye shall separate a wave-offering, a special offering to the Lord, the first-fruits of your dough.
-
-### Nehemiah 5:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.695`
-- fresh_brenton_ratio: `0.638`
-- fresh: And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
-- mt: Also I said, It is not good that all of you do: ought all of you not to walk in the fear of our God because of the reproach of the heathen our enemies?
-- brenton: And I said, The thing which ye do is not good; ye will not so walk in the fear of our God because of the reproach of the Gentiles our enemies.
 
 ### Numbers 25:5
 - priority: `0`
@@ -69159,15 +69159,6 @@ Method:
 - mt: And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.
 - brenton: And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.
 
-### 2 Kings 4:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.722`
-- fresh_brenton_ratio: `0.767`
-- fresh: And Elisha said, What shall I do for you? Tell me what there is for you in the house. And she said, There is nothing for your servant in the house except oil for anointing.
-- mt: And Elisha said unto her, What shall I do for you? tell me, what have you in the house? And she said, Yours handmaid has not any thing in the house, save a pot of oil.
-- brenton: And Elisaie said, What shall I do for thee? tell me what thou hast in the house. And she said, Thy servant has nothing in the house, except oil wherewith I anoint myself.
-
 ### Judges 2:10
 - priority: `0`
 - importance: `none`
@@ -70841,6 +70832,15 @@ Method:
 - fresh: "But if you make me an altar of stones, you shall not build them cut, for you have laid your tool upon them, and they have been defiled."
 - mt: And if you will make me an altar of stone, you shall not build it of hewn stone: for if you lift up your tool upon it, you have polluted it.
 - brenton: And if thou wilt make to me an altar of stones, thou shalt not build them hewn stones; for thou hast lifted up thy tool upon them, and they are defiled.
+
+### 2 Kings 4:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.727`
+- fresh_brenton_ratio: `0.793`
+- fresh: And Elisha said, What shall I do for you? Tell me what you have in the house. And she said, There is nothing for your servant in the house except oil for anointing.
+- mt: And Elisha said unto her, What shall I do for you? tell me, what have you in the house? And she said, Yours handmaid has not any thing in the house, save a pot of oil.
+- brenton: And Elisaie said, What shall I do for thee? tell me what thou hast in the house. And she said, Thy servant has nothing in the house, except oil wherewith I anoint myself.
 
 ### 2 Kings 17:29
 - priority: `0`
@@ -78532,8 +78532,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.308`
-- fresh: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+- fresh_brenton_ratio: `0.302`
+- fresh: And he saw that he could not prevail against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
 - mt: And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
 - brenton: And Jacob was left alone; and a man wrestled with him till the morning.
 

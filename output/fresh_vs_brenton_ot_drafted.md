@@ -8587,7 +8587,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+- fresh: And he saw that he could not prevail against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
 - brenton: And Jacob was left alone; and a man wrestled with him till the morning.
 
 ### Genesis 32:26
@@ -68921,7 +68921,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and he said, Send me away now, because there is for us a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
+- fresh: and he said, Send me away now, because we have a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
 - brenton: and he said, Let me go, I pray thee, for we have a family sacrifice in the city, and my brethren have sent for me; and now, if I have found grace in thine eyes, I will even go over and see my brethren: therefore he is not present at the table of the king.
 
 ### 1 Samuel 20:30
@@ -85001,7 +85001,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elisha said, What shall I do for you? Tell me what there is for you in the house. And she said, There is nothing for your servant in the house except oil for anointing.
+- fresh: And Elisha said, What shall I do for you? Tell me what you have in the house. And she said, There is nothing for your servant in the house except oil for anointing.
 - brenton: And Elisaie said, What shall I do for thee? tell me what thou hast in the house. And she said, Thy servant has nothing in the house, except oil wherewith I anoint myself.
 
 ### 2 Kings 4:3
@@ -109948,7 +109948,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
+- fresh: And I said, The thing you are doing is not good. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
 - brenton: And I said, The thing which ye do is not good; ye will not so walk in the fear of our God because of the reproach of the Gentiles our enemies.
 
 ### Nehemiah 5:10
@@ -144064,7 +144064,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Many times they warred against me from my youth, yet indeed they were not able against me.
+- fresh: Many times they warred against me from my youth, yet indeed they could not prevail against me.
 - brenton: [missing]
 
 ### Psalms 128:3
@@ -172766,7 +172766,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make you to this people as fortified bronze wall, and they will fight against you and surely not prevail against you, because I am with you to save you
+- fresh: And I will make you for this people as a fortified bronze wall, and they will fight against you and surely not prevail against you, because I am with you to save you
 - brenton: [missing]
 
 ### Jeremiah 15:21
@@ -179570,7 +179570,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king said, Behold, he is in your hands, because king was not able against them.
+- fresh: And king said, Behold, he is in your hands, because the king could not oppose them.
 - brenton: [missing]
 
 ### Jeremiah 45:6

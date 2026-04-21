@@ -3874,7 +3874,7 @@ And Jacob was left behind alone, and a man wrestled with him until morning.
 
 **Genesis 32:25**
 
-And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+And he saw that he could not prevail against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
 
 **Genesis 32:26**
 
@@ -31146,7 +31146,7 @@ And Jonathan answered Saul and said to him, David has earnestly requested from m
 
 **1 Samuel 20:29**
 
-and he said, Send me away now, because there is for us a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
+and he said, Send me away now, because we have a tribal sacrifice in the city, and my brothers have given charge to me, and now if I have found favor in your eyes, I will indeed escape and see my brothers. Because of this he has not come to the king’s table.
 
 **1 Samuel 20:30**
 
@@ -38418,7 +38418,7 @@ And one woman from the sons of the prophets cried to Elisha, saying, Your servan
 
 **2 Kings 4:2**
 
-And Elisha said, What shall I do for you? Tell me what there is for you in the house. And she said, There is nothing for your servant in the house except oil for anointing.
+And Elisha said, What shall I do for you? Tell me what you have in the house. And she said, There is nothing for your servant in the house except oil for anointing.
 
 **2 Kings 4:3**
 
@@ -49712,7 +49712,7 @@ And I said to them, We bought our brothers the Ioudaioi, those sold to the natio
 
 **Nehemiah 5:9**
 
-And I said, Not good is the word which you are doing. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
+And I said, The thing you are doing is not good. Should you not thus walk in fear of our God, away from reproach of nations our enemies?
 
 **Nehemiah 5:10**
 
@@ -65254,7 +65254,7 @@ Song of ascents. Many times they warred against me from my youth; let Israel say
 
 **Psalms 128:2**
 
-Many times they warred against me from my youth, yet indeed they were not able against me.
+Many times they warred against me from my youth, yet indeed they could not prevail against me.
 
 **Psalms 128:3**
 
@@ -78324,7 +78324,7 @@ Therefore thus says Lord: If you return, I will restore you and you will stand b
 
 **Jeremiah 15:20**
 
-And I will make you to this people as fortified bronze wall, and they will fight against you and surely not prevail against you, because I am with you to save you
+And I will make you for this people as a fortified bronze wall, and they will fight against you and surely not prevail against you, because I am with you to save you
 
 **Jeremiah 15:21**
 
@@ -81408,7 +81408,7 @@ And they said to king, Let that man be killed, because he weakens hands of men f
 
 **Jeremiah 45:5**
 
-And king said, Behold, he is in your hands, because king was not able against them.
+And king said, Behold, he is in your hands, because the king could not oppose them.
 
 **Jeremiah 45:6**
 

@@ -893,6 +893,15 @@ Rows: 421
 - mt: And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.
 - brenton: And Seon did not allow Israel to pass through his borders, and Seon gathered all his people, and went out to set the battle in array against Israel into the wilderness; and he came to Jassa, and set the battle in array against Israel.
 
+## Genesis 32:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.302`
+- fresh: And he saw that he could not prevail against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
+- mt: And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
+- brenton: And Jacob was left alone; and a man wrestled with him till the morning.
+
 ## Numbers 5:30
 - priority: `0`
 - importance: `none`
@@ -901,15 +910,6 @@ Rows: 421
 - fresh: or when a spirit of jealousy comes upon a man and he is jealous of his wife, and he shall set his wife before the Lord, and the priest shall do to her all this law.
 - mt: Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.
 - brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
-
-## Genesis 32:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.308`
-- fresh: And he saw that he was not able against him, and he touched the broad part of his thigh, and the broad part of Jacob's thigh went numb while he wrestled with him.
-- mt: And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
-- brenton: And Jacob was left alone; and a man wrestled with him till the morning.
 
 ## Deuteronomy 3:21
 - priority: `0`
