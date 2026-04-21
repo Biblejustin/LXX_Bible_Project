@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 15392
-- medium: 1708
-- low: 5817
+- high: 15572
+- medium: 1679
+- low: 5666
 - none: 0
 
 Note:
@@ -137499,1620 +137499,1620 @@ Note:
 
 ### Psalms 90:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On hands they will carry you, lest you strike your foot against stone.
 - brenton: [missing]
 
 ### Psalms 90:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will step on asp and basilisk and trample lion and dragon.
 - brenton: [missing]
 
 ### Psalms 90:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he hoped on me, and I will rescue him; I will shelter him, because he knew my name.
 - brenton: [missing]
 
 ### Psalms 90:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will call upon me, and I will hear him; I am with him in affliction, and I will deliver and glorify him.
 - brenton: [missing]
 
 ### Psalms 90:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With length of days I will fill him and show him my salvation.
 - brenton: [missing]
 
 ### Psalms 91:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm, song for day of Sabbath.
 - brenton: [missing]
 
 ### Psalms 91:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good thing to confess to Lord and sing to your name, Most High,
 - brenton: [missing]
 
 ### Psalms 91:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to proclaim in morning your mercy and your truth by night,
 - brenton: [missing]
 
 ### Psalms 91:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: on ten-stringed psaltery, with song on lyre.
 - brenton: [missing]
 
 ### Psalms 91:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you gladdened me, Lord, in your workmanship, and in works of your hands I will exult.
 - brenton: [missing]
 
 ### Psalms 91:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How your works were magnified, Lord; your thoughts were made very deep.
 - brenton: [missing]
 
 ### Psalms 91:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish man will not know, and senseless man will not understand these things:
 - brenton: [missing]
 
 ### Psalms 91:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when sinners spring up like grass and all workers of lawlessness peered out, so that they might be destroyed forever and ever.
 - brenton: [missing]
 
 ### Psalms 91:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Most High forever, Lord.
 - brenton: [missing]
 
 ### Psalms 91:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, your enemies will perish, and all workers of lawlessness will be scattered.
 - brenton: [missing]
 
 ### Psalms 91:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my horn will be exalted like unicorn, and my old age in rich oil.
 - brenton: [missing]
 
 ### Psalms 91:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my eye looked upon my enemies, and on those rising against me doing evil my ear will hear.
 - brenton: [missing]
 
 ### Psalms 91:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteous one will flower like palm tree; like cedar in Lebanon he will multiply.
 - brenton: [missing]
 
 ### Psalms 91:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Planted in house of Lord, in courts of our God they will flower.
 - brenton: [missing]
 
 ### Psalms 91:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will still multiply in rich old age and be prospering,
 - brenton: [missing]
 
 ### Psalms 91:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to declare that Lord my God upright, and there is no injustice in him.
 - brenton: [missing]
 
 ### Psalms 92:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For day before Sabbath, when earth was settled. Praise, song of David. Lord reigned; he clothed himself with beauty, Lord clothed himself with power and girded himself; for he also made firm inhabited world which will not be shaken.
 - brenton: [missing]
 
 ### Psalms 92:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your throne ready from then; from age you are.
 - brenton: [missing]
 
 ### Psalms 92:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rivers lifted up, Lord, rivers lifted up their voices.
 - brenton: [missing]
 
 ### Psalms 92:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From voices of many waters, wondrous the surges of sea; wondrous in heights Lord.
 - brenton: [missing]
 
 ### Psalms 92:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your testimonies were made very faithful; holiness fits your house, Lord, for length of days.
 - brenton: [missing]
 
 ### Psalms 93:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David, fourth of Sabbaths. God of vengeances, Lord; God of vengeances spoke openly.
 - brenton: [missing]
 
 ### Psalms 93:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be exalted, judge of earth; repay recompense to proud ones.
 - brenton: [missing]
 
 ### Psalms 93:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long, sinners, Lord, how long will sinners boast?
 - brenton: [missing]
 
 ### Psalms 93:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will utter and speak injustice; all workers of lawlessness will speak.
 - brenton: [missing]
 
 ### Psalms 93:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your people, Lord, they humbled, and your inheritance they afflicted.
 - brenton: [missing]
 
 ### Psalms 93:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Widow and sojourner they killed, and orphans they murdered.
 - brenton: [missing]
 
 ### Psalms 93:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said, Lord will not see, nor will God of Jacob understand.
 - brenton: [missing]
 
 ### Psalms 93:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understand now, foolish ones among people, and senseless ones, when will you understand?
 - brenton: [missing]
 
 ### Psalms 93:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One planting ear, does he not hear? One forming eye, does he not perceive?
 - brenton: [missing]
 
 ### Psalms 93:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One disciplining nations, will he not reprove? One teaching man knowledge?
 - brenton: [missing]
 
 ### Psalms 93:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord knows thoughts of men, that they are vain.
 - brenton: [missing]
 
 ### Psalms 93:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man whom you discipline, Lord, and teach from your law,
 - brenton: [missing]
 
 ### Psalms 93:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to make him gentle away from evil days until pit be dug for sinner.
 - brenton: [missing]
 
 ### Psalms 93:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord will not reject his people and will not forsake his inheritance,
 - brenton: [missing]
 
 ### Psalms 93:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until righteousness returns to judgment, and all straight in heart close behind it. Interlude.
 - brenton: [missing]
 
 ### Psalms 93:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will rise for me against evil-doers, or who will stand with me against workers of lawlessness?
 - brenton: [missing]
 
 ### Psalms 93:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If not that Lord helped me, my soul would almost have dwelt in Hades.
 - brenton: [missing]
 
 ### Psalms 93:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I said, My foot was shaken, your mercy, Lord, was helping me.
 - brenton: [missing]
 
 ### Psalms 93:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, according to multitude of my pains in my heart, your comforts loved my soul.
 - brenton: [missing]
 
 ### Psalms 93:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will throne of lawlessness join itself with you, one fashioning labor by ordinance?
 - brenton: [missing]
 
 ### Psalms 93:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will hunt against soul of righteous man and condemn innocent blood.
 - brenton: [missing]
 
 ### Psalms 93:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord became refuge to me, and my God helper of my hope.
 - brenton: [missing]
 
 ### Psalms 93:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will repay them their lawlessness and in their evil he will destroy them, Lord our God.
 - brenton: [missing]
 
 ### Psalms 94:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise, song of David. Come, let us exult in Lord; let us shout to God our savior.
 - brenton: [missing]
 
 ### Psalms 94:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us come before his face in confession, and in psalms let us shout to him.
 - brenton: [missing]
 
 ### Psalms 94:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because great God Lord and great king over all gods,
 - brenton: [missing]
 
 ### Psalms 94:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because ends of earth in his hand and heights of mountains his.
 - brenton: [missing]
 
 ### Psalms 94:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because sea his and he made it, and dry land his hands formed.
 - brenton: [missing]
 
 ### Psalms 94:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, let us worship and fall down before him and weep before Lord who made us,
 - brenton: [missing]
 
 ### Psalms 94:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he our God and we people of his pasture and sheep of his hand. Today, if you hear his voice,
 - brenton: [missing]
 
 ### Psalms 94:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: do not harden your hearts as in provocation, according to day of testing in wilderness,
 - brenton: [missing]
 
 ### Psalms 94:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: where your fathers tested me, tried me, and saw my works.
 - brenton: [missing]
 
 ### Psalms 94:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Forty years I felt loathing toward that generation and said, They always go astray in heart, and they did not know my ways,
 - brenton: [missing]
 
 ### Psalms 94:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: as I swore in my anger, They will not enter into my rest.
 - brenton: [missing]
 
 ### Psalms 95:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When house was being built after captivity. Song of David. Sing to Lord new song; sing to Lord, all earth.
 - brenton: [missing]
 
 ### Psalms 95:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to Lord; bless his name; bring good news day from day of his salvation.
 - brenton: [missing]
 
 ### Psalms 95:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Declare among nations his glory, among all peoples his wonders.
 - brenton: [missing]
 
 ### Psalms 95:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because great Lord and greatly praised; fearful he over all gods.
 - brenton: [missing]
 
 ### Psalms 95:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all gods of nations demons, but Lord made heavens.
 - brenton: [missing]
 
 ### Psalms 95:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Confession and beauty before him, holiness and magnificence in his sanctuary.
 - brenton: [missing]
 
 ### Psalms 95:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring to Lord, families of nations, bring to Lord glory and honor.
 - brenton: [missing]
 
 ### Psalms 95:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring to Lord glory to his name; take sacrifices and enter into his courts.
 - brenton: [missing]
 
 ### Psalms 95:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Worship Lord in his holy court; let all earth be shaken from before him.
 - brenton: [missing]
 
 ### Psalms 95:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say among nations, Lord reigned, for he also set inhabited world straight, which will not be shaken; he will judge peoples in uprightness.
 - brenton: [missing]
 
 ### Psalms 95:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let heavens rejoice and earth exult; let sea be shaken and its fullness.
 - brenton: [missing]
 
 ### Psalms 95:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fields will be glad and all things in them; then all trees of forest will exult
 - brenton: [missing]
 
 ### Psalms 95:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: before Lord, because he comes, because he comes to judge earth; he will judge inhabited world in righteousness and peoples in his truth.
 - brenton: [missing]
 
 ### Psalms 96:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David, when his land is established. Lord reigned; let earth exult; let many islands rejoice.
 - brenton: [missing]
 
 ### Psalms 96:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cloud and gloom around him; righteousness and judgment correction of his throne.
 - brenton: [missing]
 
 ### Psalms 96:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fire will go before him and flame around his enemies.
 - brenton: [missing]
 
 ### Psalms 96:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His lightnings shone to inhabited world; earth saw and was shaken.
 - brenton: [missing]
 
 ### Psalms 96:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains melted like wax from face of Lord, from face of Lord of all earth.
 - brenton: [missing]
 
 ### Psalms 96:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heavens declared his righteousness, and all peoples saw his glory.
 - brenton: [missing]
 
 ### Psalms 96:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all worshiping carved images be shamed, those boasting in their idols; worship him, all his angels.
 - brenton: [missing]
 
 ### Psalms 96:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Zion heard and rejoiced, and daughters of Judea exulted because of your judgments, Lord.
 - brenton: [missing]
 
 ### Psalms 96:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you are Lord, Most High over all earth; you were greatly exalted above all gods.
 - brenton: [missing]
 
 ### Psalms 96:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You loving Lord, hate evil; Lord guards souls of his holy ones; from hand of sinners he will rescue them.
 - brenton: [missing]
 
 ### Psalms 96:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Light arose for righteous one, and for straight in heart gladness.
 - brenton: [missing]
 
 ### Psalms 96:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice, righteous ones, in Lord, and confess to memory of his holiness.
 - brenton: [missing]
 
 ### Psalms 97:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David. Sing to Lord new song, because Lord did wondrous things; his right hand saved for him, and his holy arm.
 - brenton: [missing]
 
 ### Psalms 97:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord made known his salvation; before nations he revealed his righteousness.
 - brenton: [missing]
 
 ### Psalms 97:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He remembered his mercy to Jacob and his truth to house of Israel; all ends of earth saw salvation of our God.
 - brenton: [missing]
 
 ### Psalms 97:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shout to God, all earth; sing and exult and make melody.
 - brenton: [missing]
 
 ### Psalms 97:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make melody to Lord with lyre, with lyre and voice of psalm,
 - brenton: [missing]
 
 ### Psalms 97:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: with hammered trumpets and voice of horn trumpet; shout before king, Lord.
 - brenton: [missing]
 
 ### Psalms 97:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let sea be shaken and its fullness, inhabited world and those dwelling in it.
 - brenton: [missing]
 
 ### Psalms 97:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rivers will clap with hand; together mountains will exult,
 - brenton: [missing]
 
 ### Psalms 97:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he comes to judge earth; he will judge inhabited world in righteousness and peoples in uprightness.
 - brenton: [missing]
 
 ### Psalms 98:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David. Lord reigned; let peoples be angry; one sitting upon cherubim, let earth be shaken.
 - brenton: [missing]
 
 ### Psalms 98:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord great in Zion and high over all peoples.
 - brenton: [missing]
 
 ### Psalms 98:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them confess to your name, the great one, because it fearful and holy.
 - brenton: [missing]
 
 ### Psalms 98:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And honor of king loves judgment. You prepared uprightnesses; judgment and righteousness in Jacob you did.
 - brenton: [missing]
 
 ### Psalms 98:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Exalt Lord our God and worship at footstool of his feet, because holy he is.
 - brenton: [missing]
 
 ### Psalms 98:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on Lord, and he heard them.
 - brenton: [missing]
 
 ### Psalms 98:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In pillar of cloud he spoke to them; they kept his testimonies and ordinances he gave them.
 - brenton: [missing]
 
 ### Psalms 98:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord our God, you heard them; O God, you became propitious to them and avenging over all their practices.
 - brenton: [missing]
 
 ### Psalms 98:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Exalt Lord our God and worship at his holy mountain, because holy Lord our God.
 - brenton: [missing]
 
 ### Psalms 99:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm for confession. Shout to Lord, all earth.
 - brenton: [missing]
 
 ### Psalms 99:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Serve Lord with gladness; enter before him with exultation.
 - brenton: [missing]
 
 ### Psalms 99:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Know that Lord, he is God; he made us, and not we ourselves, his people and sheep of his pasture.
 - brenton: [missing]
 
 ### Psalms 99:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enter his gates in confession, his courts in hymns; confess to him, praise his name.
 - brenton: [missing]
 
 ### Psalms 99:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord kind; forever his mercy, and unto generation and generation his truth.
 - brenton: [missing]
 
 ### Psalms 100:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. Psalm. Mercy and judgment I will sing to you, Lord.
 - brenton: [missing]
 
 ### Psalms 100:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in midst of my house.
 - brenton: [missing]
 
 ### Psalms 100:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I did not set before my eyes lawless thing; those doing transgressions I hated.
 - brenton: [missing]
 
 ### Psalms 100:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crooked heart did not cling to me; when evil one turned away from me, I did not know him.
 - brenton: [missing]
 
 ### Psalms 100:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One slandering his neighbor secretly, this one I drove out; one with proud eye and insatiable heart, with this one I did not eat.
 - brenton: [missing]
 
 ### Psalms 100:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eyes upon faithful ones of earth, so that they may sit with me; one walking in blameless way, this one served me.
 - brenton: [missing]
 
 ### Psalms 100:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One doing pride did not dwell in midst of my house; one speaking unjust things did not go straight before my eyes.
 - brenton: [missing]
 
 ### Psalms 100:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In mornings I killed all sinners of earth, to destroy from city of Lord all workers of lawlessness.
 - brenton: [missing]
 
 ### Psalms 101:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer for poor man, when he grows faint and pours out his supplication before Lord.
 - brenton: [missing]
 
 ### Psalms 101:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, Lord, my prayer, and let my cry come to you.
 - brenton: [missing]
 
 ### Psalms 101:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not turn your face from me in whatever day I am afflicted; incline your ear to me; in whatever day I call on you, quickly hear me.
 - brenton: [missing]
 
 ### Psalms 101:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because my days failed like smoke, and my bones were scorched like brushwood.
 - brenton: [missing]
 
 ### Psalms 101:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My heart was struck like grass and dried up, because I forgot to eat my bread.
 - brenton: [missing]
 
 ### Psalms 101:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From voice of my groaning, my bone clung to my flesh.
 - brenton: [missing]
 
 ### Psalms 101:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I became like desert pelican; I became like night-raven in ruined place.
 - brenton: [missing]
 
 ### Psalms 101:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I kept watch and became like sparrow solitary on housetop.
 - brenton: [missing]
 
 ### Psalms 101:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whole day my enemies reproached me, and those praising me swore against me.
 - brenton: [missing]
 
 ### Psalms 101:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I ate ash like bread and mixed my drink with weeping,
 - brenton: [missing]
 
 ### Psalms 101:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from face of your anger and your fury, because lifting me up you dashed me down.
 - brenton: [missing]
 
 ### Psalms 101:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My days declined like shadow, and I dried up like grass.
 - brenton: [missing]
 
 ### Psalms 101:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord, remain forever, and your memorial to generation and generation.
 - brenton: [missing]
 
 ### Psalms 101:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You, rising up, will have compassion on Zion, because time to pity her, because time came.
 - brenton: [missing]
 
 ### Psalms 101:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because your servants took pleasure in her stones and will pity her dust.
 - brenton: [missing]
 
 ### Psalms 101:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations will fear name of Lord, and all kings of earth your glory.
 - brenton: [missing]
 
 ### Psalms 101:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord will build Zion and will be seen in his glory.
 - brenton: [missing]
 
 ### Psalms 101:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He looked upon prayer of humble ones and did not despise their supplication.
 - brenton: [missing]
 
 ### Psalms 101:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let this be written for another generation, and people being created will praise Lord,
 - brenton: [missing]
 
 ### Psalms 101:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he looked down from height of his holy place; Lord from heaven looked upon earth,
 - brenton: [missing]
 
 ### Psalms 101:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to hear groaning of chained ones, to loose sons of those put to death,
 - brenton: [missing]
 
 ### Psalms 101:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to declare in Zion name of Lord and his praise in Jerusalem,
 - brenton: [missing]
 
 ### Psalms 101:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when peoples are gathered together and kingdoms to serve Lord.
 - brenton: [missing]
 
 ### Psalms 101:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He answered him in way of his strength, Tell me fewness of my days.
 - brenton: [missing]
 
 ### Psalms 101:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not bring me up in half of my days; your years through generations of generations.
 - brenton: [missing]
 
 ### Psalms 101:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At beginnings, you, Lord, founded earth, and heavens works of your hands.
 - brenton: [missing]
 
 ### Psalms 101:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will perish, but you remain; and all will grow old like garment, and like cloak you will change them, and they will be changed.
 - brenton: [missing]
 
 ### Psalms 101:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you same, and your years will not fail.
 - brenton: [missing]
 
 ### Psalms 101:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of your servants will dwell, and their seed will be directed forever.
 - brenton: [missing]
 
 ### Psalms 102:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. Bless Lord, my soul, and all within me, his holy name.
 - brenton: [missing]
 
 ### Psalms 102:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bless Lord, my soul, and do not forget all his repayments,
 - brenton: [missing]
 
 ### Psalms 102:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one propitiating all your lawlessnesses, the one healing all your diseases,
 - brenton: [missing]
 
 ### Psalms 102:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one redeeming your life from corruption, the one crowning you in mercy and compassions,
 - brenton: [missing]
 
 ### Psalms 102:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one filling your desire with good things; your youth will be renewed like eagle.
 - brenton: [missing]
 
 ### Psalms 102:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord doing mercies and judgment for all suffering injustice.
 - brenton: [missing]
 
 ### Psalms 102:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made known his ways to Moses, to sons of Israel his wills.
 - brenton: [missing]
 
 ### Psalms 102:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Compassionate and merciful Lord, long-suffering and rich in mercy.
 - brenton: [missing]
 
 ### Psalms 102:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will not be angry to end, nor rage forever.
 - brenton: [missing]
 
 ### Psalms 102:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not according to our sins did he do to us, nor according to our lawlessnesses did he repay us.
 - brenton: [missing]
 
 ### Psalms 102:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because according to height of heaven from earth, Lord strengthened his mercy upon those fearing him.
 - brenton: [missing]
 
 ### Psalms 102:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As far as east from west, he removed our lawlessnesses from us.
 - brenton: [missing]
 
 ### Psalms 102:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As father has compassion on sons, Lord had compassion on those fearing him.
 - brenton: [missing]
 
 ### Psalms 102:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he knew our formation; remember that we are dust.
 - brenton: [missing]
 
 ### Psalms 102:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man, his days like grass; like flower of field, so he will flower.
 - brenton: [missing]
 
 ### Psalms 102:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because wind passed in him and he will not exist, and he will no longer know his place.
 - brenton: [missing]
 
 ### Psalms 102:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But mercy of Lord from age and until age upon those fearing him, and his righteousness upon sons of sons,
 - brenton: [missing]
 
 ### Psalms 102:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to those keeping his covenant and remembering his commandments to do them.
 - brenton: [missing]
 
 ### Psalms 102:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord prepared his throne in heaven, and his kingdom rules all.
 - brenton: [missing]
 
 ### Psalms 102:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bless Lord, all his angels, mighty in strength, doing his word, to hear voice of his words.
 - brenton: [missing]
 
 ### Psalms 102:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bless Lord, all his powers, his ministers doing his will.
 - brenton: [missing]
 
 ### Psalms 102:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bless Lord, all his works, in every place of his lordship; bless Lord, my soul.
 - brenton: [missing]
 
 ### Psalms 103:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. Bless Lord, my soul. Lord my God, you were made exceedingly great; confession and beauty you clothed yourself with,
 - brenton: [missing]
 
 ### Psalms 103:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: wrapping yourself in light like garment, stretching out heaven like skin,
 - brenton: [missing]
 
 ### Psalms 103:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: roofing his upper rooms in waters, setting clouds as his ascent, walking on wings of winds,
 - brenton: [missing]
 
 ### Psalms 103:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: making his angels spirits and his ministers flaming fire,
 - brenton: [missing]
 
 ### Psalms 103:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who founded earth on its security; it will not be inclined forever and ever.
 - brenton: [missing]
 
 ### Psalms 103:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deep like garment its covering; on mountains waters will stand.
 - brenton: [missing]
 
 ### Psalms 103:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From your rebuke they will flee; from voice of your thunder they will fear.
 - brenton: [missing]
 
 ### Psalms 103:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains go up and plains go down to place which you founded for them.
 - brenton: [missing]
 
 ### Psalms 103:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You set boundary they will not pass, nor return to cover earth.
 - brenton: [missing]
 
 ### Psalms 103:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One sending out springs in valleys; among mountains waters will pass.
 - brenton: [missing]
 
 ### Psalms 103:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They give drink to all beasts of field; wild donkeys will receive for their thirst.
 - brenton: [missing]
 
 ### Psalms 103:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon them birds of heaven will dwell; from midst of rocks they will give voice.
 - brenton: [missing]
 
 ### Psalms 103:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One watering mountains from his upper rooms; from fruit of your works earth will be satisfied.
 - brenton: [missing]
