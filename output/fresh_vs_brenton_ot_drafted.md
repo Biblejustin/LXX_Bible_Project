@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 20072
-- medium: 595
-- low: 2250
+- high: 20252
+- medium: 568
+- low: 2097
 - none: 0
 
 Note:
@@ -179908,1134 +179908,1134 @@ Note:
 
 ### Jeremiah 47:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all leaders of force in field, they and their men, heard that king of Babylon appointed Gedoliah in land and entrusted to him men and women, those not exiled to Babylon.
 - brenton: [missing]
 
 ### Jeremiah 47:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ishmael son of Nethaniah and Johanan son of Kareah and Seraiah son of Tanhumeth and sons of Ophi the Netophathite and Jezoniah son of Mochathi came to Gedoliah at Mizpah, they and their men.
 - brenton: [missing]
 
 ### Jeremiah 47:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Gedoliah swore to them and to their men, saying, Do not fear from face of servants of Chaldeans. Dwell in land and serve king of Babylon, and it will be better for you.
 - brenton: [missing]
 
 ### Jeremiah 47:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, I sit before you in Mizpah to stand before face of Chaldeans who may come upon you. And you gather wine and fruit and oil and put into your vessels and dwell in cities which you seized.
 - brenton: [missing]
 
 ### Jeremiah 47:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all Judeans in land of Moab and among sons of Ammon and in Idumea and in all land heard that king of Babylon gave remnant to Judah and appointed over them Gedoliah son of Ahikam.
 - brenton: [missing]
 
 ### Jeremiah 47:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they came to Gedoliah into land of Judah, to Mizpah, and gathered wine and very much fruit and oil.
 - brenton: [missing]
 
 ### Jeremiah 47:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan son of Kareah and all leaders of force in fields came to Gedoliah at Mizpah
 - brenton: [missing]
 
 ### Jeremiah 47:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and said to him, In knowing do you know that Baalis king of sons of Ammon sent Ishmael to strike your soul? And Gedoliah did not believe them.
 - brenton: [missing]
 
 ### Jeremiah 47:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan said to Gedoliah secretly in Mizpah, I will go now and strike Ishmael and let no one know. Why should he strike your soul and all Judah gathered to you be scattered and remnant of Judah perish?
 - brenton: [missing]
 
 ### Jeremiah 47:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Gedoliah said to Johanan, Do not do this thing, because you speak lies concerning Ishmael.
 - brenton: [missing]
 
 ### Jeremiah 48:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in seventh month Ishmael son of Nethaniah son of Elasa, from seed of king, and ten men with him came to Gedoliah at Mizpah, and they ate bread there together.
 - brenton: [missing]
 
 ### Jeremiah 48:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ishmael rose up, and the ten men with him, and struck Gedoliah whom king of Babylon had appointed over land.
 - brenton: [missing]
 
 ### Jeremiah 48:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all Judeans who were with him in Mizpah, and all Chaldeans found there.
 - brenton: [missing]
 
 ### Jeremiah 48:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened on second day after he struck Gedoliah, and no man knew,
 - brenton: [missing]
 
 ### Jeremiah 48:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that men came from Sychem and from Shalem and from Samaria, eighty men with beards shaved and garments torn and cutting themselves, and manna and frankincense in their hands to bring into house of Lord.
 - brenton: [missing]
 
 ### Jeremiah 48:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ishmael went out to meet them. They went and wept, and he said to them, Enter to Gedoliah.
 - brenton: [missing]
 
 ### Jeremiah 48:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when they entered into midst of city, he slaughtered them into pit.
 - brenton: [missing]
 
 ### Jeremiah 48:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in field: wheat and barley, honey and oil. And he passed by and did not kill them in midst of their brothers.
 - brenton: [missing]
 
 ### Jeremiah 48:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And pit into which Ishmael threw all whom he struck, this great pit is that which king Asa made against Baasha king of Israel. Ishmael filled it with wounded men.
 - brenton: [missing]
 
 ### Jeremiah 48:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ishmael carried off all people left in Mizpah, and daughters of king whom chief cook entrusted to Gedoliah son of Ahikam, and he went to beyond sons of Ammon.
 - brenton: [missing]
 
 ### Jeremiah 48:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan son of Kareah and all leaders of force with him heard all evils which Ishmael did.
 - brenton: [missing]
 
 ### Jeremiah 48:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they took all their army and went to fight him and found him by much water in Gibeon.
 - brenton: [missing]
 
 ### Jeremiah 48:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when all people with Ishmael saw Johanan and leaders of force with him,
 - brenton: [missing]
 
 ### Jeremiah 48:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: they turned back to Johanan.
 - brenton: [missing]
 
 ### Jeremiah 48:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ishmael escaped with eight men and went to sons of Ammon.
 - brenton: [missing]
 
 ### Jeremiah 48:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan and all leaders of force with him took all remnant of people whom he turned back from Ishmael, mighty men in war and women and rest and eunuchs whom he turned back from Gibeon.
 - brenton: [missing]
 
 ### Jeremiah 48:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they went and sat in Gaberoth-chamaam near Bethlehem, to go and enter Egypt
 - brenton: [missing]
 
 ### Jeremiah 48:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from face of Chaldeans, because they feared from face of them, because Ishmael struck Gedoliah whom king of Babylon appointed in land.
 - brenton: [missing]
 
 ### Jeremiah 49:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all leaders of force approached, and Johanan and Azariah son of Maaseiah and all people from small to great,
 - brenton: [missing]
 
 ### Jeremiah 49:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to Jeremiah the prophet, and said to him, Let now our mercy fall before your face, and pray to Lord your God concerning these remnants, because we were left few from many, as your eyes see us.
 - brenton: [missing]
 
 ### Jeremiah 49:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let Lord your God announce to us way in which we will go and word which we will do.
 - brenton: [missing]
 
 ### Jeremiah 49:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to them, I heard. Behold, I will pray to Lord our God according to your words, and word which Lord answers I will announce to you. I will not hide word from you.
 - brenton: [missing]
 
 ### Jeremiah 49:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said to Jeremiah, Let Lord be in us as righteous and faithful witness if according to all word which Lord sends you to us we do not do so.
 - brenton: [missing]
 
 ### Jeremiah 49:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whether good or evil, voice of Lord our God, whom we send you to him, we will hear, so that it may be better for us because we will hear voice of Lord our God.
 - brenton: [missing]
 
 ### Jeremiah 49:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after ten days, word of Lord came to Jeremiah.
 - brenton: [missing]
 
 ### Jeremiah 49:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he called Johanan and leaders of force and all people from small to great,
 - brenton: [missing]
 
 ### Jeremiah 49:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and said to them, Thus said Lord:
 - brenton: [missing]
 
 ### Jeremiah 49:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If in settling you settle in this land, I will build you and never tear down, and plant you and never pull up, because I have rested from evils which I did to you.
 - brenton: [missing]
 
 ### Jeremiah 49:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear from face of king of Babylon, whom you fear from face of him. Do not fear, says Lord, because I am with you to rescue you and save you from his hand.
 - brenton: [missing]
 
 ### Jeremiah 49:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give you mercy and have mercy on you and restore you to your land.
 - brenton: [missing]
 
 ### Jeremiah 49:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you say, We will certainly not settle in this land, so as not to hear voice of Lord,
 - brenton: [missing]
 
 ### Jeremiah 49:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because we will enter land of Egypt and will certainly not see war and will certainly not hear sound of trumpet and will certainly not hunger for bread, and there we will dwell,
 - brenton: [missing]
 
 ### Jeremiah 49:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore hear word of Lord. Thus said Lord: If you set your face toward Egypt and enter there to dwell,
 - brenton: [missing]
 
 ### Jeremiah 49:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then sword which you fear from face of it will find you in land of Egypt, and famine about which you have concern will overtake you behind you in Egypt, and there you will die.
 - brenton: [missing]
 
 ### Jeremiah 49:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all men and all foreigners who set their face toward land of Egypt to dwell there will fail by sword and by famine. There will not be among them one saved from evils which I bring on them.
 - brenton: [missing]
 
 ### Jeremiah 49:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: As my wrath dripped upon dwellers of Jerusalem, so my wrath will drip on you when you enter Egypt, and you will be for trackless waste and underhand and for curse and for reproach, and you will not see this place again.
 - brenton: [missing]
 
 ### Jeremiah 49:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What Lord spoke against you, remnants of Judah: Do not enter Egypt, and now in knowing you will know,
 - brenton: [missing]
 
 ### Jeremiah 49:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because you did evil in your souls, sending me, saying, Pray concerning us to Lord, and according to all Lord says to you we will do.
 - brenton: [missing]
 
 ### Jeremiah 49:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you did not hear voice of Lord, by which he sent me to you.
 - brenton: [missing]
 
 ### Jeremiah 49:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now by sword and by famine you will fail in place where you want to enter to dwell there.
 - brenton: [missing]
 
 ### Jeremiah 50:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened as Jeremiah ceased speaking to people all words of Lord, which Lord sent him to them, all these words,
 - brenton: [missing]
 
 ### Jeremiah 50:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Azariah son of Maaseiah and Johanan son of Kareah and all men said to Jeremiah, saying, Lies. Lord did not send you to us, saying, Do not enter Egypt to dwell there.
 - brenton: [missing]
 
 ### Jeremiah 50:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Baruch son of Neriah conspires against us, so as to give us into hands of Chaldeans, to kill us and exile us to Babylon.
 - brenton: [missing]
 
 ### Jeremiah 50:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan and all leaders of force and all people did not hear voice of Lord, to dwell in land of Judah.
 - brenton: [missing]
 
 ### Jeremiah 50:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Johanan and all leaders of force took all remnants of Judah who returned to dwell in land,
 - brenton: [missing]
 
 ### Jeremiah 50:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: mighty men and women and infants and daughters of king and souls whom Nebuzaradan left with Gedoliah son of Ahikam, and Jeremiah the prophet and Baruch son of Neriah,
 - brenton: [missing]
 
 ### Jeremiah 50:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they entered Egypt because they did not hear voice of Lord, and they entered Taphnas.
 - brenton: [missing]
 
 ### Jeremiah 50:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Jeremiah in Taphnas, saying,
 - brenton: [missing]
 
 ### Jeremiah 50:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Taphnas, before eyes of men of Judah.
 - brenton: [missing]
 
 ### Jeremiah 50:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, Thus said Lord: Behold, I send and will bring Nebuchadnezzar king of Babylon and he will set his throne upon these stones which you hid, and will lift his weapons over them.
 - brenton: [missing]
 
 ### Jeremiah 50:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will enter and strike land of Egypt: those for death to death, and those for exile to exile, and those for sword to sword.
 - brenton: [missing]
 
 ### Jeremiah 50:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will burn fire in houses of their gods and burn them and carry them away, and destroy land of Egypt as shepherd destroys his garment, and he will go out in peace.
 - brenton: [missing]
 
 ### Jeremiah 50:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will shatter pillars of Heliopolis which are in On, and their houses he will burn with fire.
 - brenton: [missing]
 
 ### Jeremiah 51:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word that came to Jeremiah to all Judeans dwelling in land of Egypt and to those sitting in Migdol and in Taphnas and in land of Pathures, saying,
 - brenton: [missing]
 
 ### Jeremiah 51:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord God of Israel: You saw all evils which I brought upon Jerusalem and upon cities of Judah, and behold, they are desolate from dwellers,
 - brenton: [missing]
 
 ### Jeremiah 51:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of their evils which they did to provoke me, going to burn incense to other gods whom you did not know.
 - brenton: [missing]
 
 ### Jeremiah 51:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I sent to you my servants the prophets early and sent, saying, Do not do deed of this pollution which I hated.
 - brenton: [missing]
 
 ### Jeremiah 51:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not hear me and did not incline ear to turn back from their evils, so as not to burn incense to other gods.
 - brenton: [missing]
 
 ### Jeremiah 51:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my wrath and my anger dripped and burned in cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
 - brenton: [missing]
 
 ### Jeremiah 51:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now thus said Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from midst of Judah, so that none be left to you,
 - brenton: [missing]
 
 ### Jeremiah 51:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: provoking me by works of your hands, burning incense to other gods in land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of earth?
 - brenton: [missing]
 
 ### Jeremiah 51:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have you not forgotten evils of your fathers and evils of kings of Judah and evils of your rulers and evils of your women, which they did in land of Judah and outside Jerusalem?
 - brenton: [missing]
 
 ### Jeremiah 51:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not cease until this day and did not endure my ordinances which I gave before face of their fathers.
 - brenton: [missing]
 
 ### Jeremiah 51:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord: Behold, I set my face
 - brenton: [missing]
 
 ### Jeremiah 51:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to destroy all remnants in Egypt, and they will fall by sword and by famine. They will fail from small to great, and they will be for reproach and destruction and curse.
 - brenton: [missing]
 
 ### Jeremiah 51:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will visit upon those dwelling in land of Egypt as I visited upon Jerusalem with sword and with famine and with death.
 - brenton: [missing]
 
 ### Jeremiah 51:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will not be anyone saved of remnants of Judah sojourning in land of Egypt to return into land of Judah, upon which they hope in their souls to return there. They will certainly not return, except rescued ones.
 - brenton: [missing]
 
 ### Jeremiah 51:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all men knowing that their wives burn incense to other gods answered Jeremiah, and all women, great assembly, and all people dwelling in land of Egypt in Pathures, saying,
 - brenton: [missing]
 
 ### Jeremiah 51:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word which you spoke to us in name of Lord, we will not hear from you.
 - brenton: [missing]
 
 ### Jeremiah 51:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in doing we will do every word which goes out from our mouth, to burn incense to queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in cities of Judah and outside Jerusalem, and we were filled with bread and became good and saw no evils.
 - brenton: [missing]
 
 ### Jeremiah 51:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when we stopped burning incense to queen of heaven, we were all diminished and failed by sword and famine.
 - brenton: [missing]
 
 ### Jeremiah 51:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And because we burn incense to queen of heaven and pour libations to her, did we make cakes for her and pour libations to her without our husbands?
 - brenton: [missing]
 
 ### Jeremiah 51:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to all people and to men and to women and to all people answering him words, saying,
 - brenton: [missing]
 
 ### Jeremiah 51:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of land, that Lord remembered and it rose upon his heart?
 - brenton: [missing]
 
 ### Jeremiah 51:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord was no longer able to bear from face of evil of your deeds, from abominations which you did, and your land became for desolation and for trackless waste and for curse as in this day,
 - brenton: [missing]
 
 ### Jeremiah 51:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because you burned incense and sinned against Lord and did not hear voice of Lord and did not walk in his ordinances and in his law and in his testimonies, and these evils seized you.
 - brenton: [missing]
 
 ### Jeremiah 51:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to people and to women, Hear word of Lord.
 - brenton: [missing]
 
 ### Jeremiah 51:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to queen of heaven and pour libations to her. In abiding you abided in your vows and in doing you did them.
 - brenton: [missing]
 
 ### Jeremiah 51:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore hear word of Lord, all Judah dwelling in land of Egypt. Behold, I swore by my great name, said Lord, if my name still becomes in mouth of any Judah to say, As Lord lives, Lord, in all land of Egypt.
 - brenton: [missing]
 
 ### Jeremiah 51:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I watched over them to do them evil and not good, and all Judah dwelling in land of Egypt will fail by sword and famine until they disappear.
 - brenton: [missing]
 
 ### Jeremiah 51:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those saved from swords will return to land of Judah, few in number, and remnants of Judah who went into land of Egypt to dwell there will know whose word stands.
 - brenton: [missing]
 
 ### Jeremiah 51:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this to you is sign that I will visit you for evils.
 - brenton: [missing]
 
 ### Jeremiah 51:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord: Behold, I give Hophra king of Egypt into hands of his enemy and into hands of ones seeking his soul, just as I gave Zedekiah king of Judah into hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
 - brenton: [missing]
 
 ### Jeremiah 51:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
 - brenton: [missing]
 
 ### Jeremiah 51:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord concerning you, Baruch,
 - brenton: [missing]
 
 ### Jeremiah 51:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you said, Woe, woe, because Lord added toil upon toil to me. I slept in groanings and found no rest.
 - brenton: [missing]
 
 ### Jeremiah 51:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say to him, Thus said Lord: Behold, what I built I tear down, and what I planted I pull up.
 - brenton: [missing]
 
 ### Jeremiah 51:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do you seek great things for yourself? Do not seek, because behold, I bring evils upon all flesh, says Lord, and I will give your soul for gain in every place where you go.
 - brenton: [missing]
 
 ### Jeremiah 52:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Zedekiah was twenty-one years old when he reigned, and he reigned eleven years in Jerusalem, and name of his mother was Amitaal daughter of Jeremiah from Lobena.
 - brenton: [missing]
 
 ### Jeremiah 52:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in ninth year of his reign, in tenth month, tenth of month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
 - brenton: [missing]
 
 ### Jeremiah 52:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And city came into siege until eleventh year of king Zedekiah.
 - brenton: [missing]
 
 ### Jeremiah 52:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In ninth of month famine was strengthened in city, and there were no breads for people of land.
 - brenton: [missing]
 
 ### Jeremiah 52:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And city was broken through, and all men of war went out by night by way of gate between wall and outer-wall which was by king’s garden, and Chaldeans were around city, and they went way toward Arabah.
 - brenton: [missing]
 
 ### Jeremiah 52:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And force of Chaldeans pursued after king and caught him beyond Jericho, and all his servants were scattered from him.
 - brenton: [missing]
 
 ### Jeremiah 52:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they seized king and led him to king of Babylon at Deblatha, and he spoke with him with judgment.
 - brenton: [missing]
 
 ### Jeremiah 52:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king of Babylon slaughtered sons of Zedekiah before his eyes, and all rulers of Judah he slaughtered in Deblatha.
 - brenton: [missing]
 
 ### Jeremiah 52:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until day he died.
 - brenton: [missing]
 
 ### Jeremiah 52:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in fifth month, tenth of month, Nebuzaradan chief cook, who stood before face of king of Babylon, came into Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 52:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he burned house of Lord and house of king and all houses of city, and every great house he burned with fire.
 - brenton: [missing]
 
 ### Jeremiah 52:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all wall of Jerusalem around, force of Chaldeans with chief cook, tore down.
 - brenton: [missing]
 
 ### Jeremiah 52:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chief cook left remnants of people as vine-dressers and farmers.
 - brenton: [missing]
 
 ### Jeremiah 52:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And bronze pillars in house of Lord and bases and bronze sea in house of Lord Chaldeans shattered, and took their bronze and carried it into Babylon.
 - brenton: [missing]
 
 ### Jeremiah 52:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And crown and bowls and meat-hooks and all bronze vessels with which they ministered in them,
 - brenton: [missing]
 
 ### Jeremiah 52:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, what was golden gold and what was silver silver, chief cook took.
 - brenton: [missing]
 
 ### Jeremiah 52:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And two pillars and one sea and twelve bronze oxen under sea, which king Solomon made for house of Lord. There was no weighing of their bronze.
 - brenton: [missing]
 
 ### Jeremiah 52:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And pillars, thirty-five cubits height of one pillar, and cord of twelve cubits encircled it, and its thickness four fingers around.
 - brenton: [missing]
 
 ### Jeremiah 52:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And bronze capital upon them, and five cubits length of one capital’s projection, and net and pomegranates upon capital around, all bronze, and according to these for second pillar, eight pomegranates to cubit in twelve cubits.
 - brenton: [missing]
 
 ### Jeremiah 52:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And pomegranates were ninety-six on one side, and all pomegranates upon net around were one hundred.
 - brenton: [missing]
 
 ### Jeremiah 52:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chief cook took first priest and second priest and three keeping way.
 - brenton: [missing]
 
 ### Jeremiah 52:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of land, and sixty men from people of land found in midst of city.
 - brenton: [missing]
 
 ### Jeremiah 52:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Nebuzaradan chief cook took them and led them to king of Babylon at Deblatha.
 - brenton: [missing]
 
 ### Jeremiah 52:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king of Babylon struck them in Deblatha in land of Hamath.
 - brenton: [missing]
 
 ### Jeremiah 52:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in twelfth month, on twenty-fourth of month, Evil-merodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from house where he was kept.
 - brenton: [missing]
 
 ### Jeremiah 52:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he spoke good things to him and gave his throne above thrones of kings with him in Babylon.
 - brenton: [missing]
 
 ### Jeremiah 52:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he changed his prison garment, and he ate bread continually before his face all days which he lived.
 - brenton: [missing]
 
 ### Jeremiah 52:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And ration for him was given continually from king of Babylon, from day to day until day he died.
 - brenton: [missing]
@@ -181044,135 +181044,135 @@ Note:
 
 ### Lamentations 1:0
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after Israel was taken captive and Jerusalem was made desolate, Jeremiah sat weeping and lamented this lament over Jerusalem and said,
 - brenton: [missing]
 
 ### Lamentations 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How city sat alone, filled with peoples. She became like widow, once great among nations, ruler among regions became for tribute.
 - brenton: [missing]
 
 ### Lamentations 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Weeping she wept in night, and her tears on her cheeks, and there is no one comforting her from all loving her. All her friends acted faithlessly in her. They became enemies to her.
 - brenton: [missing]
 
 ### Lamentations 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Judah was exiled from her affliction and from multitude of her slavery. She sat among nations and found no rest. All persecuting her overtook her between oppressors.
 - brenton: [missing]
 
 ### Lamentations 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Roads of Zion mourn because none come to feast. All her gates ruined. Her priests groan. Her virgins led away. She is embittered in herself.
 - brenton: [missing]
 
 ### Lamentations 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those afflicting her became head, and her enemies prospered, because Lord humbled her for multitude of her ungodlinesses. Her little ones went into captivity before face of afflicter.
 - brenton: [missing]
 
 ### Lamentations 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from daughter Zion all her beauty went out. Her rulers became like rams finding no pasture, and they went in no strength before pursuer.
 - brenton: [missing]
 
 ### Lamentations 1:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jerusalem remembered days of her humiliation and her rejections, all her desires from ancient days, when her people fell into hand of afflicter and there was no helper for her. Seeing her, her enemies laughed at her deportation.
 - brenton: [missing]
 
 ### Lamentations 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jerusalem sinned sin. Therefore she became for shaking. All glorifying her humbled her, for they saw her shame, and she herself groaning turned backward.
 - brenton: [missing]
 
 ### Lamentations 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her uncleanness at her feet. She did not remember her end, and he brought her down exceedingly. There is no one comforting her. See, Lord, my humiliation, because enemy magnified himself.
 - brenton: [missing]
 
 ### Lamentations 1:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Afflicter spread out his hand upon all her desirable things, for she saw nations entering her sanctuary, whom you commanded not to enter your assembly.
 - brenton: [missing]
 
 ### Lamentations 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 - brenton: [missing]
 
 ### Lamentations 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not to you, all passing by road? Turn and see if there is pain like my pain which happened, word spoken in me. Lord humbled me in day of anger of his wrath.
 - brenton: [missing]
 
 ### Lamentations 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From on high he sent fire into my bones and brought it down. He spread net for my feet. He turned me back. He gave me ruined, pained all day.
 - brenton: [missing]
 
 ### Lamentations 1:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He kept watch over my ungodlinesses in my hands. They were woven together and went up upon my neck. My strength weakened, because Lord gave pains into my hands. I cannot stand.
 - brenton: [missing]
@@ -181188,63 +181188,63 @@ Note:
 
 ### Lamentations 1:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eye brought down water, because comforter restoring my soul was far from me. My sons became ruined, because enemy prevailed.
 - brenton: [missing]
 
 ### Lamentations 1:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Zion spread out her hands. There is no one comforting her. Lord commanded around Jacob those afflicting him. Jerusalem became one sitting apart among them.
 - brenton: [missing]
 
 ### Lamentations 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteous is Lord, because I embittered his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
 - brenton: [missing]
 
 ### Lamentations 1:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I called my lovers, but they deceived me. My priests and my elders failed in city, because they sought food for themselves to restore their souls and did not find it.
 - brenton: [missing]
 
 ### Lamentations 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, Lord, because I am afflicted. My inward parts were disturbed, and my heart turned in me, because in embittering I embittered. Outside sword bereaved me, inside house like death.
 - brenton: [missing]
 
 ### Lamentations 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now that I groan. There is no one comforting me. All my enemies heard my evils and rejoiced that you did it. You brought day. You called time. They became like me.
 - brenton: [missing]
 
 ### Lamentations 1:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all their evil enter before your face, and glean against them just as they did gleaning against me for all my sins, because many are my groans and my heart is grieved.
 - brenton: [missing]
@@ -181260,36 +181260,36 @@ Note:
 
 ### Lamentations 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord sank all beauties of Jacob, not sparing. He pulled down in wrath strongholds of daughter Judah. He stuck them to ground. He profaned her king and her rulers.
 - brenton: [missing]
 
 ### Lamentations 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He broke in anger of his wrath every horn of Israel. He turned back his right hand from face of enemy and kindled in Jacob like fire-flame and devoured all around.
 - brenton: [missing]
 
 ### Lamentations 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He bent his bow like enemy, fixed his right hand like adversary, and killed all desirable things of my eyes. In tent of daughter Zion he poured out his wrath like fire.
 - brenton: [missing]
 
 ### Lamentations 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah
 - brenton: [missing]
@@ -181305,18 +181305,18 @@ Note:
 
 ### Lamentations 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord cast off his altar, shook off his sanctuary, broke into hand of enemy wall of her palaces. They gave voice in house of Lord as on feast day.
 - brenton: [missing]
 
 ### Lamentations 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord turned to destroy wall of daughter Zion. He stretched measuring-line and did not turn back his hand from trampling. Rampart and wall mourned together, weakened as one.
 - brenton: [missing]
@@ -181332,234 +181332,234 @@ Note:
 
 ### Lamentations 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They sat on ground, kept silent, elders of daughter Zion. They raised dust on their heads, girded sackcloth. Leaders of virgins in Jerusalem brought themselves down to ground.
 - brenton: [missing]
 
 ### Lamentations 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eyes failed in tears. My heart was troubled. My glory poured out on earth over crushing of daughter of my people, when infant and suckling failed in streets of city.
 - brenton: [missing]
 
 ### Lamentations 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To their mothers they said, Where grain and wine? as they failed like wounded in streets of city, as their souls poured out into bosom of their mothers.
 - brenton: [missing]
 
 ### Lamentations 2:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What will I testify to you? What will I compare to you, daughter Jerusalem? Who will save you and comfort you, virgin daughter Zion? Because cup of your crushing became great. Who will heal you?
 - brenton: [missing]
 
 ### Lamentations 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your prophets saw for you vain and foolish things and did not uncover your injustice to restore your captivity, but saw for you vain burdens and expulsions.
 - brenton: [missing]
 
 ### Lamentations 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All passing along road clapped hands over you. They hissed and shook their heads over daughter Jerusalem. Is this the city they called crown of glory, joy of all earth?
 - brenton: [missing]
 
 ### Lamentations 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All your enemies opened their mouth over you, hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected. We found it. We saw it.
 - brenton: [missing]
 
 ### Lamentations 2:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord did what he intended. He fulfilled his words which he commanded from ancient days. He pulled down and did not spare. He made enemy rejoice over you. He raised horn of one afflicting you.
 - brenton: [missing]
 
 ### Lamentations 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their heart cried to Lord. Walls of Zion, bring down tears like torrent day and night. Give yourself no numbness. Let your eye not be silent.
 - brenton: [missing]
 
 ### Lamentations 2:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before face of Lord. Lift your hands to him concerning life of your little ones, those failing in famine at head of all exits.
 - brenton: [missing]
 
 ### Lamentations 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, Lord, and look, against whom did you glean thus? Will women eat fruit of their womb? Cook made gleaning. Will sucklings be killed? Will you kill priest and prophet in sanctuary of Lord?
 - brenton: [missing]
 
 ### Lamentations 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Young boy and elder slept in street. My virgins and my young men went in captivity. In sword and famine you killed. In day of your anger you cooked. You did not spare.
 - brenton: [missing]
 
 ### Lamentations 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You called my sojourners around like feast day, and there were not in day of anger of Lord one saved and left. As I held and multiplied, all my enemies.
 - brenton: [missing]
 
 ### Lamentations 3:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am man seeing poverty by rod of his wrath upon me.
 - brenton: [missing]
 
 ### Lamentations 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He took me and led me into darkness and not light.
 - brenton: [missing]
 
 ### Lamentations 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Only against me he turned his hand all day.
 - brenton: [missing]
 
 ### Lamentations 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made my flesh and my skin old. He shattered my bones.
 - brenton: [missing]
 
 ### Lamentations 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He built against me and surrounded my head and wearied me.
 - brenton: [missing]
 
 ### Lamentations 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In dark places he seated me like dead of long ago.
 - brenton: [missing]
 
 ### Lamentations 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He built against me and I will not go out. He made my bronze heavy.
 - brenton: [missing]
 
 ### Lamentations 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And though I cry out and shout, he fenced off my prayer.
 - brenton: [missing]
 
 ### Lamentations 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He built up my ways, blocked my paths, troubled me.
 - brenton: [missing]
 
 ### Lamentations 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He is bear lying in wait for me, lion in hidden places.
 - brenton: [missing]
 
 ### Lamentations 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He pursued me, dragged me away, made me ruined.
 - brenton: [missing]
 
 ### Lamentations 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He bent his bow and set me as target for arrow.
 - brenton: [missing]
 
 ### Lamentations 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He brought into my kidneys arrows of his quiver.
 - brenton: [missing]
