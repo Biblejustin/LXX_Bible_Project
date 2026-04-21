@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 16832
-- medium: 1361
-- low: 4724
+- high: 17012
+- medium: 1270
+- low: 4635
 - none: 0
 
 Note:
@@ -150515,1620 +150515,1620 @@ Note:
 
 ### Proverbs 16:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Paths of life turn away from evils, and ways of righteousness length of life. One receiving discipline will be among good things, and one keeping reproofs will grow wise. One guarding his own ways keeps his own soul, and one loving his life will spare his mouth.
 - brenton: [missing]
 
 ### Proverbs 16:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before crushing goes insolence, and before fall evil-mindedness.
 - brenton: [missing]
 
 ### Proverbs 16:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better gentle with humility than one dividing spoils with insolent men.
 - brenton: [missing]
 
 ### Proverbs 16:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understanding in matters finds good things, and one trusting in God blessed.
 - brenton: [missing]
 
 ### Proverbs 16:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise and understanding men they call evil, but sweet in speech will hear more.
 - brenton: [missing]
 
 ### Proverbs 16:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thought fountain of life to those having it, but discipline of fools evil.
 - brenton: [missing]
 
 ### Proverbs 16:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of wise will understand things from its own mouth, and upon lips it will carry discernment.
 - brenton: [missing]
 
 ### Proverbs 16:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Honeycombs = good words, sweetness of them = healing of soul.
 - brenton: [missing]
 
 ### Proverbs 16:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There are ways seeming straight to man, yet their ends look into floor of Hades.
 - brenton: [missing]
 
 ### Proverbs 16:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man in pains labors for himself and forces his own destruction, but crooked man carries destruction on his own mouth.
 - brenton: [missing]
 
 ### Proverbs 16:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish man digs evils for himself, and on his own lips stores fire.
 - brenton: [missing]
 
 ### Proverbs 16:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crooked man sends around evils, and lamp of deceit kindles among evil men and separates friends.
 - brenton: [missing]
 
 ### Proverbs 16:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lawless man tests friends and leads them on ways not good.
 - brenton: [missing]
 
 ### Proverbs 16:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One fixing his eyes plots twisted things and marks out all evils with his lips; this man furnace of evil.
 - brenton: [missing]
 
 ### Proverbs 16:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crown of boasting = old age, and in ways of righteousness it is found.
 - brenton: [missing]
 
 ### Proverbs 16:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better longsuffering man than strong man, and one mastering anger better than one taking city.
 - brenton: [missing]
 
 ### Proverbs 16:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Into laps comes everything for unjust men, but all righteous things from Lord.
 - brenton: [missing]
 
 ### Proverbs 17:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better morsel with pleasure in peace than house full of many goods and unjust sacrifices with battle.
 - brenton: [missing]
 
 ### Proverbs 17:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understanding servant will rule foolish masters, and among brothers he will divide portions.
 - brenton: [missing]
 
 ### Proverbs 17:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As silver and gold tested in furnace, so hearts chosen by Lord.
 - brenton: [missing]
 
 ### Proverbs 17:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evil man listens to lawless tongue, but righteous man does not heed lying lips.
 - brenton: [missing]
 
 ### Proverbs 17:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One mocking poor provokes his Maker, and one rejoicing over one perishing will not go unpunished; but compassionate one will receive mercy.
 - brenton: [missing]
 
 ### Proverbs 17:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crown of old men = children's children, and glory of children = their fathers. Of faithful man whole world wealth; of faithless not even small coin.
 - brenton: [missing]
 
 ### Proverbs 17:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Faithful lips do not suit fool, nor lying lips righteous man.
 - brenton: [missing]
 
 ### Proverbs 17:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Reward of graces = discipline; wherever it turns, it will prosper.
 - brenton: [missing]
 
 ### Proverbs 17:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One hiding wrongs seeks friendship, but one hating to hide separates friends and kin.
 - brenton: [missing]
 
 ### Proverbs 17:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Threat shatters heart of prudent, but fool when whipped does not perceive.
 - brenton: [missing]
 
 ### Proverbs 17:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every evil man stirs contradictions, but Lord will send pitiless angel against him.
 - brenton: [missing]
 
 ### Proverbs 17:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Anxiety will fall upon understanding man, but fools plot evils.
 - brenton: [missing]
 
 ### Proverbs 17:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One repaying evils for good: evils will not be moved from his house.
 - brenton: [missing]
 
 ### Proverbs 17:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Authority gives beginning to words of righteousness, but before want comes faction and battle.
 - brenton: [missing]
 
 ### Proverbs 17:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One justifying unjust and condemning righteous = unclean and abominable before God.
 - brenton: [missing]
 
 ### Proverbs 17:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did money come to fool? Heartless man cannot acquire wisdom. One making his house high seeks crushing, and one twisting to learn will fall into evils.
 - brenton: [missing]
 
 ### Proverbs 17:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At every time let friend be yours, and brothers useful in necessities; for this reason they are born.
 - brenton: [missing]
 
 ### Proverbs 17:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish man claps and rejoices in himself, like one guaranteeing his own friend.
 - brenton: [missing]
 
 ### Proverbs 17:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sin-lover rejoices in fights.
 - brenton: [missing]
 
 ### Proverbs 17:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hard-hearted man will not meet good things; man of shifting tongue will fall into evils.
 - brenton: [missing]
 
 ### Proverbs 17:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of fool = pain to one possessing it; father does not rejoice over undisciplined son, but wise son gladdens mother.
 - brenton: [missing]
 
 ### Proverbs 17:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoicing heart does good healing, but sorrowful man dries bones.
 - brenton: [missing]
 
 ### Proverbs 17:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When taking gifts in bosom unjustly, ways do not prosper; ungodly turns aside ways of righteousness.
 - brenton: [missing]
 
 ### Proverbs 17:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Face of understanding man belongs to wise one, but eyes of fool to ends of earth.
 - brenton: [missing]
 
 ### Proverbs 17:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish son = anger to father and pain to one bearing him.
 - brenton: [missing]
 
 ### Proverbs 17:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To fine righteous man not good, nor holy to plot against righteous rulers.
 - brenton: [missing]
 
 ### Proverbs 17:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One sparing to utter hard word = discerning; and longsuffering man = prudent.
 - brenton: [missing]
 
 ### Proverbs 17:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When senseless man questioned about wisdom, wisdom will be reckoned to him; and one making himself mute will seem prudent.
 - brenton: [missing]
 
 ### Proverbs 18:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man wanting to separate from friends seeks excuses; at every time he will be worthy of reproach.
 - brenton: [missing]
 
 ### Proverbs 18:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One lacking sense has no need of wisdom, for rather he is led by folly.
 - brenton: [missing]
 
 ### Proverbs 18:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When ungodly comes into depth of evils, he despises; and dishonor and reproach come upon him.
 - brenton: [missing]
 
 ### Proverbs 18:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deep water = word in heart of man, and river springing up = fountain of life.
 - brenton: [missing]
 
 ### Proverbs 18:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
 - brenton: [missing]
 
 ### Proverbs 18:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lips of fool lead him into evils, and his bold mouth calls death upon him.
 - brenton: [missing]
 
 ### Proverbs 18:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mouth of fool = ruin to him, and his lips snare to his soul.
 - brenton: [missing]
 
 ### Proverbs 18:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear casts down sluggards, and souls of unmanned men will hunger.
 - brenton: [missing]
 
 ### Proverbs 18:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One not healing himself in his works = brother of one ruining himself.
 - brenton: [missing]
 
 ### Proverbs 18:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From greatness of strength, name of Lord; to it righteous running are exalted.
 - brenton: [missing]
 
 ### Proverbs 18:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wealth of rich man = strong city, and its glory overshadows greatly.
 - brenton: [missing]
 
 ### Proverbs 18:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before crushing heart of man is lifted up, and before glory it is humbled.
 - brenton: [missing]
 
 ### Proverbs 18:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One answering word before hearing: folly to him and reproach.
 - brenton: [missing]
 
 ### Proverbs 18:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise servant calms anger of man, but short-souled man who can bear?
 - brenton: [missing]
 
 ### Proverbs 18:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of prudent acquires perception, and ears of wise seek understanding.
 - brenton: [missing]
 
 ### Proverbs 18:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gift of man broadens him and seats him beside rulers.
 - brenton: [missing]
 
 ### Proverbs 18:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteous man accuses himself in first speech, but when opponent comes he is reproved.
 - brenton: [missing]
 
 ### Proverbs 18:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lot stops contradictions and marks bounds among rulers.
 - brenton: [missing]
 
 ### Proverbs 18:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Brother helped by brother = strong and high city, and it is strong like founded kingdom.
 - brenton: [missing]
 
 ### Proverbs 18:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From fruits of mouth man will fill his belly, and from fruits of his lips he will be filled.
 - brenton: [missing]
 
 ### Proverbs 18:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Death and life in hand of tongue, and those mastering it will eat its fruits.
 - brenton: [missing]
 
 ### Proverbs 18:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One finding good wife found graces and received cheerfulness from God; one casting out good wife casts out good things, but one keeping adulteress = foolish and ungodly.
 - brenton: [missing]
 
 ### Proverbs 19:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Folly of man ruins his ways, yet in his heart he blames God.
 - brenton: [missing]
 
 ### Proverbs 19:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wealth adds many friends, but poor man is deserted even by friend he has.
 - brenton: [missing]
 
 ### Proverbs 19:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: False witness will not go unpunished, and one accusing unjustly will not escape.
 - brenton: [missing]
 
 ### Proverbs 19:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many court faces of kings, and every evil man becomes reproach to man.
 - brenton: [missing]
 
 ### Proverbs 19:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Everyone hating poor brother, even friendships will be far away. Good understanding draws near to those knowing it, and prudent man will find it. One doing much evil accomplishes evil, and one provoking words will not be saved.
 - brenton: [missing]
 
 ### Proverbs 19:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One acquiring understanding loves himself, and one keeping understanding will find good things.
 - brenton: [missing]
 
 ### Proverbs 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: False witness will not go unpunished; one setting evil ablaze will perish by it.
 - brenton: [missing]
 
 ### Proverbs 19:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Luxury does not fit fool, nor if slave should begin to rule arrogantly over rulers.
 - brenton: [missing]
 
 ### Proverbs 19:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Merciful man is longsuffering, and his boast comes upon lawless men.
 - brenton: [missing]
 
 ### Proverbs 19:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Threat of king like roaring of lion, but his cheerfulness like dew on grass.
 - brenton: [missing]
 
 ### Proverbs 19:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish son shame to father, and vows from wages of prostitute not pure.
 - brenton: [missing]
 
 ### Proverbs 19:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House and substance fathers divide to children, but fitting wife prepared from God for man.
 - brenton: [missing]
 
 ### Proverbs 19:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cowardice holds down unmanned man, and soul of idle man will hunger.
 - brenton: [missing]
 
 ### Proverbs 19:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One keeping command keeps his own soul, but one despising his own ways will perish.
 - brenton: [missing]
 
 ### Proverbs 19:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One showing mercy to poor lends to God, and according to his gift he will repay him.
 - brenton: [missing]
 
 ### Proverbs 19:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Discipline your son, for thus he will be hopeful; but do not exalt your soul into insolence.
 - brenton: [missing]
 
 ### Proverbs 19:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ill-minded man will suffer much damage; and if he causes destruction, he will add even his soul.
 - brenton: [missing]
 
 ### Proverbs 19:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, son, discipline of your father, so that you may become wise at your latter end.
 - brenton: [missing]
 
 ### Proverbs 19:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many reasonings in heart of man, but counsel of Lord remains forever.
 - brenton: [missing]
 
 ### Proverbs 19:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fruit for man = mercy; and better poor righteous than rich liar.
 - brenton: [missing]
 
 ### Proverbs 19:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear of Lord for life to man, but fear-free man will lodge in places where knowledge is not visited.
 - brenton: [missing]
 
 ### Proverbs 19:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One hiding hands in bosom unjustly will certainly not bring them to his mouth.
 - brenton: [missing]
 
 ### Proverbs 19:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When pestilent man is scourged, fool becomes more shrewd; but if you rebuke prudent man, he will understand perception.
 - brenton: [missing]
 
 ### Proverbs 19:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One dishonoring father and thrusting away mother will be shamed and reproached.
 - brenton: [missing]
 
 ### Proverbs 19:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, ceasing to keep discipline of father, you will meditate evil sayings.
 - brenton: [missing]
 
 ### Proverbs 19:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One guaranteeing foolish child insults judgment, and mouth of ungodly swallows judgments.
 - brenton: [missing]
 
 ### Proverbs 19:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Scourges prepared for unrestrained men, and punishments for backs of fools.
 - brenton: [missing]
 
 ### Proverbs 20:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wine unrestrained and drunkenness insolent; everyone mingling with it will not be wise.
 - brenton: [missing]
 
 ### Proverbs 20:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Threat of king not different from wrath of lion; one provoking him sins against his own soul.
 - brenton: [missing]
 
 ### Proverbs 20:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Glory to man to turn from insults, but every fool entangles himself with such things.
 - brenton: [missing]
 
 ### Proverbs 20:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Being reproached, sluggard is not ashamed; likewise borrower of grain in harvest.
 - brenton: [missing]
 
 ### Proverbs 20:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deep water = counsel in heart of man, but prudent man will draw it out.
 - brenton: [missing]
 
 ### Proverbs 20:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great man and precious merciful man, but faithful man = hard work to find.
 - brenton: [missing]
 
 ### Proverbs 20:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One walking blameless in righteousness will leave his children blessed.
 - brenton: [missing]
 
 ### Proverbs 20:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When righteous king sits on throne, no evil thing stands against his eyes.
 - brenton: [missing]
 
 ### Proverbs 20:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will boast, "I have pure heart"? Or who will speak boldly, "I am clean from sins"? Lamp of one speaking evil of father or mother will be quenched, and pupils of his eyes will see darkness. Possession hurried at first will not be blessed at last. Do not say, "I will repay enemy," but wait for Lord so he may help you.
 - brenton: [missing]
 
 ### Proverbs 20:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great and small weights, double measures too, both unclean before Lord.
 - brenton: [missing]
 
 ### Proverbs 20:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one doing them will be tripped in his practices. Young man with holy man and straight his way.
 - brenton: [missing]
 
 ### Proverbs 20:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ear hearing and eye seeing, Lord made both works.
 - brenton: [missing]
 
 ### Proverbs 20:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not love speaking against others, lest you be lifted up; open your eyes and be filled with breads.
 - brenton: [missing]
 
 ### Proverbs 20:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Double weight abomination to Lord, and deceitful balance not good before him.
 - brenton: [missing]
 
 ### Proverbs 20:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From Lord steps of man are made straight; mortal, how will he understand his ways?
 - brenton: [missing]
 
 ### Proverbs 20:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Snare to man quickly to consecrate some of his own things, for after vowing, regret comes.
 - brenton: [missing]
 
 ### Proverbs 20:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise king winnows ungodly and will bring wheel upon them.
 - brenton: [missing]
 
 ### Proverbs 20:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Light of Lord = breath of men, searching storerooms of belly.
 - brenton: [missing]
 
 ### Proverbs 20:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mercy and truth guard king, and in righteousness they encircle his throne.
 - brenton: [missing]
 
 ### Proverbs 20:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Adornment of young men = wisdom, and glory of elders = gray hairs.
 - brenton: [missing]
 
 ### Proverbs 20:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blows and bruises meet evils, and wounds into storerooms of belly.
 - brenton: [missing]
 
 ### Proverbs 21:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like rush of water, so heart of king in hand of God; wherever he wills to incline, there he bent it.
 - brenton: [missing]
 
 ### Proverbs 21:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every man appears righteous to himself, but Lord directs hearts.
 - brenton: [missing]
 
 ### Proverbs 21:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Doing righteous things and speaking truth more pleasing to God than blood sacrifices.
 - brenton: [missing]
 
 ### Proverbs 21:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: High-minded in insolence, bold in heart; lamp of ungodly = sin.
 - brenton: [missing]
 
 ### Proverbs 21:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One working up treasuries with lying tongue pursues vanities into snares of death.
 - brenton: [missing]
 
 ### Proverbs 21:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Destruction will become foreign to ungodly, for they do not want to do righteous things.
 - brenton: [missing]
 
 ### Proverbs 21:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Toward crooked men God sends crooked ways, for his works pure and straight.
 - brenton: [missing]
 
 ### Proverbs 21:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better dwell on corner of open roof than in plastered rooms with injustice and common house.
 - brenton: [missing]
 
 ### Proverbs 21:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Soul of ungodly will not be pitied by anyone of men.
 - brenton: [missing]
 
 ### Proverbs 21:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When unrestrained man is punished, innocent becomes more shrewd; and when wise understands, he will receive knowledge.
 - brenton: [missing]
 
 ### Proverbs 21:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteous understands hearts of ungodly and brings down ungodly in evils.
 - brenton: [missing]
 
 ### Proverbs 21:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One stopping his ears from hearing weak man, he himself will call and there will be no hearer.
 - brenton: [missing]
 
 ### Proverbs 21:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Secret gift overturns wraths, but one sparing gifts stirs strong anger.
 - brenton: [missing]
 
 ### Proverbs 21:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Joy of righteous = doing judgment, but holy man unclean among evildoers.
 - brenton: [missing]
 
 ### Proverbs 21:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man wandering from way of righteousness will rest in assembly of giants.
 - brenton: [missing]
 
 ### Proverbs 21:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Needy man loves gladness; loving wine and oil not for wealth.
 - brenton: [missing]
 
 ### Proverbs 21:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lawless man = purging-scrap for righteous.
 - brenton: [missing]
 
 ### Proverbs 21:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better dwell in desert land than with quarrelsome, talkative, angry woman.
 - brenton: [missing]
 
 ### Proverbs 21:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Desired treasure rests on mouth of wise, but foolish men swallow it down.
 - brenton: [missing]
 
 ### Proverbs 21:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Way of righteousness and mercy will find life and glory.
 - brenton: [missing]
 
 ### Proverbs 21:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise man scaled strong cities and pulled down stronghold in which ungodly trusted.
 - brenton: [missing]
 
 ### Proverbs 21:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One guarding his mouth and tongue keeps his soul from affliction.
 - brenton: [missing]
 
 ### Proverbs 21:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bold and self-willed and braggart is called pest; lawless is one remembering wrongs.
 - brenton: [missing]
 
 ### Proverbs 21:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Desires kill sluggard, for his hands do not choose to do anything.
 - brenton: [missing]
 
 ### Proverbs 21:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ungodly all day desires evil desires, but righteous shows mercy and pities unsparingly.
 - brenton: [missing]
 
 ### Proverbs 21:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifices of ungodly abomination to Lord, especially since they offer them lawlessly.
 - brenton: [missing]
 
 ### Proverbs 21:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: False witness will perish, but obedient man, being guarded, will speak.
 - brenton: [missing]
 
 ### Proverbs 21:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ungodly man stands shameless in face, but upright man himself understands his ways.
 - brenton: [missing]
 
 ### Proverbs 21:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No wisdom, no courage, no counsel against ungodly man.
 - brenton: [missing]
 
 ### Proverbs 21:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Horse prepared for day of war, but help from Lord.
 - brenton: [missing]
 
 ### Proverbs 22:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better good name than much wealth, and good favor above silver and gold.
 - brenton: [missing]
 
 ### Proverbs 22:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rich and poor met one another, and Lord made both.
 - brenton: [missing]
 
 ### Proverbs 22:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shrewd man, seeing evil man punished strongly, is himself disciplined; but fools pass by and suffer loss.
 - brenton: [missing]
 
 ### Proverbs 22:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Race of wisdom = fear of Lord, and riches and glory and life.
 - brenton: [missing]
 
 ### Proverbs 22:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thorns and snares on crooked ways, but one guarding his soul will keep away from them.
 - brenton: [missing]
 
 ### Proverbs 22:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rich will rule poor, and servants will lend to their own masters.
 - brenton: [missing]
 
 ### Proverbs 22:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One sowing base things will reap evils, and will finish off blow of his works. God blesses cheerful man and giver, but vanity of his works he will finish off.
 - brenton: [missing]
 
 ### Proverbs 22:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One having mercy on poor will himself be nourished, for from his own breads he gave to poor. One giving gifts acquires victory and honor, but takes away soul of possessors.
 - brenton: [missing]
 
 ### Proverbs 22:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Throw pest out of council, and strife will go out with him; for when he sits in council, he dishonors all.
 - brenton: [missing]
 
 ### Proverbs 22:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord loves holy hearts, and all blameless with lips are acceptable to him; king shepherds them.
 - brenton: [missing]
 
 ### Proverbs 22:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Eyes of Lord preserve perception, but lawless man overturns words.
 - brenton: [missing]
 
 ### Proverbs 22:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sluggard makes excuse and says, "Lion in roads; in streets I will be killed."
 - brenton: [missing]
 
 ### Proverbs 22:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deep pit = mouth of lawless man; one hated by Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
 - brenton: [missing]
 
 ### Proverbs 22:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Folly fastened to heart of youth, but rod and discipline far from him.
 - brenton: [missing]
 
 ### Proverbs 22:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One slandering poor makes much for himself, but giving to rich for less.
 - brenton: [missing]
 
 ### Proverbs 22:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Incline your ear to words of wise and hear my word, and set your heart on them so that you may know they are good.
 - brenton: [missing]
 
 ### Proverbs 22:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you cast them into your heart, they will gladden you together upon your lips.
 - brenton: [missing]
 
 ### Proverbs 22:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that your hope may be on Lord, and he may make his way known to you.
 - brenton: [missing]
 
 ### Proverbs 22:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, write them for yourself threefold for counsel and knowledge on breadth of your heart.
 - brenton: [missing]
 
 ### Proverbs 22:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So I teach you true word and good knowledge, to obey by answering words of truth to those putting things before you.
 - brenton: [missing]
 
 ### Proverbs 22:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not use force against poor, for he is poor, and do not dishonor weak man in gates.
 - brenton: [missing]
 
 ### Proverbs 22:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord will judge his case and rescue your unplundered soul.
 - brenton: [missing]
 
 ### Proverbs 22:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not be companion to hot-tempered man, nor camp together with angry friend,
 - brenton: [missing]
 
 ### Proverbs 22:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest you learn his ways and take snares for your soul.
 - brenton: [missing]
 
 ### Proverbs 22:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not give yourself as pledge, being ashamed of face.
 - brenton: [missing]
 
 ### Proverbs 22:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if you have nothing from which to pay, they will take bedding from under your ribs.
 - brenton: [missing]
 
 ### Proverbs 22:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not move age-old boundaries your fathers set.
 - brenton: [missing]
 
 ### Proverbs 22:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See man with vision and sharp in his works; he must stand beside kings, not beside sluggish men.
 - brenton: [missing]
 
 ### Proverbs 23:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you sit to dine at table of rulers, intelligently understand things set before you.
 - brenton: [missing]
 
 ### Proverbs 23:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And put your hand there, knowing that such things you must prepare.
 - brenton: [missing]
 
 ### Proverbs 23:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you are more insatiable, do not desire his dishes, for these hold false life.
 - brenton: [missing]
 
 ### Proverbs 23:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not stretch yourself out, being poor, toward becoming rich; hold back from your own thought.
 - brenton: [missing]
 
 ### Proverbs 23:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you set your eye on it, nowhere will it appear, for wings are prepared for it like eagle, and it returns to house of one leading it.
 - brenton: [missing]
 
 ### Proverbs 23:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not dine with envious man, nor desire his foods.
 - brenton: [missing]
 
 ### Proverbs 23:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For as if someone should swallow hair, so he eats and drinks.
 - brenton: [missing]
