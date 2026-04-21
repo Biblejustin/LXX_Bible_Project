@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 13592
-- medium: 2063
-- low: 7262
+- high: 13772
+- medium: 2012
+- low: 7133
 - none: 0
 
 Note:
@@ -121234,549 +121234,549 @@ Note:
 
 ### Job 33:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he put my foot in stocks, and watched all my ways.
 - brenton: [missing]
 
 ### Job 33:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For how do you say, I am righteous, and Eternal did not hear me? For he is eternal above mortals.
 - brenton: [missing]
 
 ### Job 33:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you say, Why did he not hear every word of my case?
 - brenton: [missing]
 
 ### Job 33:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For when Lord speaks once, and second time in dream,
 - brenton: [missing]
 
 ### Job 33:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or in nighttime meditation, as fearful dread falls upon men in slumberings on bed,
 - brenton: [missing]
 
 ### Job 33:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then he uncovers mind of men; in such kinds of fear he frightened them,
 - brenton: [missing]
 
 ### Job 33:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to turn man from injustice, and rescued his body from fall.
 - brenton: [missing]
 
 ### Job 33:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he spared his soul from death and him from falling in war.
 - brenton: [missing]
 
 ### Job 33:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And again he reproved him in weakness upon bed, and great number of his bones grew numb.
 - brenton: [missing]
 
 ### Job 33:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will by no means be able to receive every edible thing of grain, and his soul will desire food.
 - brenton: [missing]
 
 ### Job 33:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until his flesh rots away and his bones are shown bare.
 - brenton: [missing]
 
 ### Job 33:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his soul came near to death, and his life to Hades.
 - brenton: [missing]
 
 ### Job 33:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If there are a thousand death-bearing angels, not one of them will wound him, if he understands in heart to turn to Lord and tells man his own blame and shows his folly,
 - brenton: [missing]
 
 ### Job 33:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: he will hold out against his falling into death, and will renew his body like plaster on wall, and fill his bones with marrow.
 - brenton: [missing]
 
 ### Job 33:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will soften his flesh like that of infant and restore him as grown man among men.
 - brenton: [missing]
 
 ### Job 33:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when he prays to Lord, things will be acceptable to him, and he will enter with clean face, with confession; and he will repay righteousness to men.
 - brenton: [missing]
 
 ### Job 33:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then man himself will blame himself, saying, What things I completed, and he did not examine me according to what I sinned.
 - brenton: [missing]
 
 ### Job 33:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Save my soul from coming into corruption, and my life will see light.
 - brenton: [missing]
 
 ### Job 33:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, Mighty One works all these things, three ways with man,
 - brenton: [missing]
 
 ### Job 33:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but he rescued my soul from death, so that my life in light may praise him.
 - brenton: [missing]
 
 ### Job 33:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear, Iōb, and hear me; be silent, and I will speak.
 - brenton: [missing]
 
 ### Job 33:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If there are words, answer me; speak, for I want to justify you.
 - brenton: [missing]
 
 ### Job 33:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If not, you hear me; be silent, and I will teach you wisdom.
 - brenton: [missing]
 
 ### Job 34:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Elious says,
 - brenton: [missing]
 
 ### Job 34:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, wise men; you who know, give ear to what is good.
 - brenton: [missing]
 
 ### Job 34:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For ear tests words, and throat tastes foods.
 - brenton: [missing]
 
 ### Job 34:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us choose judgment for ourselves; let us know among ourselves what is good.
 - brenton: [missing]
 
 ### Job 34:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Iōb said, I am righteous; the Lord took away my judgment.
 - brenton: [missing]
 
 ### Job 34:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he lied against my judgment; my arrow is violent without injustice.
 - brenton: [missing]
 
 ### Job 34:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What man is like Iōb, drinking mockery like water,
 - brenton: [missing]
 
 ### Job 34:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: not sinning nor acting ungodly, but sharing road with those doing lawless things, to walk with ungodly men?
 - brenton: [missing]
 
 ### Job 34:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For do not say that there will not be inspection of man, and inspection for him from Lord.
 - brenton: [missing]
 
 ### Job 34:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, men of understanding heart, hear me. Far be it from me to act ungodly against Lord, and against Almighty to disturb the righteous thing.
 - brenton: [missing]
 
 ### Job 34:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he repays man according to what each does, and in path of man he will find him.
 - brenton: [missing]
 
 ### Job 34:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not think Lord will do strange things, or Almighty disturb judgment.
 - brenton: [missing]
 
 ### Job 34:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who made earth? And who made what is under heaven and all things within it?
 - brenton: [missing]
 
 ### Job 34:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if he should wish to hold fast and keep spirit with himself,
 - brenton: [missing]
 
 ### Job 34:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: all flesh would die together, and every mortal would depart into earth from where he was formed.
 - brenton: [missing]
 
 ### Job 34:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if not, take warning; hear these things; give ear to voice of words.
 - brenton: [missing]
 
 ### Job 34:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look at one hating lawless things and destroying evil men, being eternal and righteous.
 - brenton: [missing]
 
 ### Job 34:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ungodly is one saying to king, You act lawlessly, and Most Ungodly One to rulers.
 - brenton: [missing]
 
 ### Job 34:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who did not feel shame before honorable face, nor knows to give honor by admiring faces of great men.
 - brenton: [missing]
 
 ### Job 34:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their crying out and begging from man will turn out empty to them, for they used lawlessly while weak men were turning aside.
 - brenton: [missing]
 
 ### Job 34:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he is seer of works of men, and nothing of what they do is hidden from him.
 - brenton: [missing]
 
 ### Job 34:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor will there be place to hide for those doing lawless things.
 - brenton: [missing]
 
 ### Job 34:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he will no longer appoint anything over man, for Lord watches all.
 - brenton: [missing]
 
 ### Job 34:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who grasps unsearchable things, glorious and extraordinary things without number.
 - brenton: [missing]
 
 ### Job 34:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who makes known their works and turns night, and they will be humbled.
 - brenton: [missing]
 
 ### Job 34:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he quenched ungodly men; they are visible before him,
 - brenton: [missing]
 
 ### Job 34:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they turned aside from law of God and did not know his ordinances,
 - brenton: [missing]
 
 ### Job 34:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so as to bring cry of poor upon him, and he will hear cry of needy men.
 - brenton: [missing]
 
 ### Job 34:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will provide quiet, and who will condemn? And he will hide face, and who will see him, against nation and against man alike?
 - brenton: [missing]
 
 ### Job 34:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He reigns over hypocritical man because of hardship of people.
 - brenton: [missing]
 
 ### Job 34:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because one says to Mighty One, I have received; I will not take pledges.
 - brenton: [missing]
 
 ### Job 34:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Apart from myself I will see; you show me if I worked injustice; I will add no more.
 - brenton: [missing]
 
 ### Job 34:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will he repay it from you because you rejected it? For you will choose, not I. And what you know, speak.
 - brenton: [missing]
 
 ### Job 34:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore men of understanding heart will say these things, and wise man heard my word.
 - brenton: [missing]
 
 ### Job 34:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Iōb did not speak with understanding, and his words were not with knowledge.
 - brenton: [missing]
 
 ### Job 34:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet learn, Iōb: do not yet give answer like foolish men,
 - brenton: [missing]
 
 ### Job 34:37
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest we add lawlessness to our sins, and let lawlessness be counted upon us while speaking many words against Lord.
 - brenton: [missing]
 
 ### Job 35:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Elious says,
 - brenton: [missing]
@@ -121792,1071 +121792,1071 @@ Note:
 
 ### Job 35:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will you say, What shall I do if I sinned?
 - brenton: [missing]
 
 ### Job 35:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will give you answer, and your three friends too.
 - brenton: [missing]
 
 ### Job 35:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look up to heaven and see, and study clouds, how high they are above you.
 - brenton: [missing]
 
 ### Job 35:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you sinned, what will you do? And if you committed much lawlessness, what are you able to do?
 - brenton: [missing]
 
 ### Job 35:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Since therefore you are righteous, what will you give him, or what will he receive from your hand?
 - brenton: [missing]
 
 ### Job 35:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your ungodliness is to man like you, and your righteousness to son of man.
 - brenton: [missing]
 
 ### Job 35:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Being oppressed by multitude, they will cry out; they will cry for help from arm of many.
 - brenton: [missing]
 
 ### Job 35:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he did not say, Where is God, maker of me, appointing night watches,
 - brenton: [missing]
 
 ### Job 35:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: distinguishing me from beasts of earth and from birds of heaven?
 - brenton: [missing]
 
 ### Job 35:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There they will cry out, and he will by no means hear, because of arrogance of evil men.
 - brenton: [missing]
 
 ### Job 35:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord does not wish to see strange things, for Almighty himself is seer.
 - brenton: [missing]
 
 ### Job 35:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of those completing lawless things he will save me. And be judged before him, if you are able to praise him as he is.
 - brenton: [missing]
 
 ### Job 35:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, because there is no one visiting his wrath, and he did not know the trespass greatly,
 - brenton: [missing]
 
 ### Job 35:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Iōb opens his mouth vainly; in ignorance he makes words heavy.
 - brenton: [missing]
 
 ### Job 36:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elious still added and says,
 - brenton: [missing]
 
 ### Job 36:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wait for me a little longer, that I may teach you, for still there is speech in me.
 - brenton: [missing]
 
 ### Job 36:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Taking up my knowledge from far, I will speak righteous things to my works.
 - brenton: [missing]
 
 ### Job 36:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Truly my words are not unjust; you understand unjustly.
 - brenton: [missing]
 
 ### Job 36:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Know that Lord will by no means reject blameless one, mighty in strength of heart.
 - brenton: [missing]
 
 ### Job 36:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will by no means keep ungodly man alive, but will give judgment to poor men.
 - brenton: [missing]
 
 ### Job 36:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will not take away his eyes from righteous man, and with kings on throne he will set them, and they will be exalted in strife.
 - brenton: [missing]
 
 ### Job 36:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they have been bound in shackles and held fast in ropes of poverty,
 - brenton: [missing]
 
 ### Job 36:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then he will declare to them their works and their transgressions, because they will be strong.
 - brenton: [missing]
 
 ### Job 36:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he will hear righteous man and said that they will turn from injustice.
 - brenton: [missing]
 
 ### Job 36:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If they hear and serve, they will complete their days in good things and their years in comeliness.
 - brenton: [missing]
 
 ### Job 36:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But ungodly men he does not save, because they were unwilling to know Lord, and because, though admonished, they were disobedient.
 - brenton: [missing]
 
 ### Job 36:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hypocrites in heart will appoint wrath; they will not cry for help because he bound them.
 - brenton: [missing]
 
 ### Job 36:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore let their soul die in youth, and their life wounded by angels.
 - brenton: [missing]
 
 ### Job 36:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In return for what they oppressed, he will bring out judgment of meek men for weak and powerless men.
 - brenton: [missing]
 
 ### Job 36:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And further he deceived you from mouth of enemy: abyss, pouring out beneath it, and your table came down full of richness.
 - brenton: [missing]
 
 ### Job 36:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet judgment will not fail from righteous men.
 - brenton: [missing]
 
 ### Job 36:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But wrath will be upon ungodly men because of ungodliness of gifts which they received upon injustices.
 - brenton: [missing]
 
 ### Job 36:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not willing mind of prayer turn you aside in necessity when weak men exist, and all strengthening power.
 - brenton: [missing]
 
 ### Job 36:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not draw out night, for peoples go up instead of them.
 - brenton: [missing]
 
 ### Job 36:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But take heed not to do strange things, for because of this I rescued you from poverty.
 - brenton: [missing]
 
 ### Job 36:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, Mighty One will strengthen in his strength. For who is ruler against him?
 - brenton: [missing]
 
 ### Job 36:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who is one examining his works? Or who said, You did unjust things?
 - brenton: [missing]
 
 ### Job 36:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember that his works are great, which men began.
 - brenton: [missing]
 
 ### Job 36:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every man has seen in himself, as many mortals as are being wounded.
 - brenton: [missing]
 
 ### Job 36:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, Mighty One is great, and we will not know; number of his years is endless.
 - brenton: [missing]
 
 ### Job 36:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Drops of rain are counted for him, and they will be poured out as rain for cloud.
 - brenton: [missing]
 
 ### Job 36:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ancient things will flow down, and clouds cast shadow over countless mortals. He set time for beasts, and they know order of resting place. Over all these things your mind is not amazed, nor does your heart change from body.
 - brenton: [missing]
 
 ### Job 36:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he understands stretchings of cloud, equality of his tent?
 - brenton: [missing]
 
 ### Job 36:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, he stretches water upon it and covered roots of sea.
 - brenton: [missing]
 
 ### Job 36:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For by them he will judge peoples; he will give food to one who is strong.
 - brenton: [missing]
 
 ### Job 36:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon hands he covered light, and commanded concerning it in meeting one.
 - brenton: [missing]
 
 ### Job 36:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His friend will announce concerning him, possession also concerning injustice.
 - brenton: [missing]
 
 ### Job 37:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And because of this my heart was troubled and leaped from its place.
 - brenton: [missing]
 
 ### Job 37:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear hearing in anger of Lord's wrath, and meditation will come out from his mouth.
 - brenton: [missing]
 
 ### Job 37:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Under whole heaven is his rule, and his light upon wings of earth.
 - brenton: [missing]
 
 ### Job 37:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: After him voice will roar; he will thunder with voice of his arrogance, and he will not exchange them when he hears his voice.
 - brenton: [missing]
 
 ### Job 37:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mighty One will thunder wondrously in his voice, for he did great things which we did not know.
 - brenton: [missing]
 
 ### Job 37:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Commanding snow, Become upon earth, and winter rain, and winter rains of his strength.
 - brenton: [missing]
 
 ### Job 37:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He seals every man's hand, that every man may know his own weakness.
 - brenton: [missing]
 
 ### Job 37:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beasts entered under shelter and were quiet on their resting places.
 - brenton: [missing]
 
 ### Job 37:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whirlwinds come from storehouses, and cold from extremities.
 - brenton: [missing]
 
 ### Job 37:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from breath of Mighty One he will give frost, and he pilots water as he wishes.
 - brenton: [missing]
 
 ### Job 37:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And choice thing fashions cloud, and cloud will scatter his light.
 - brenton: [missing]
 
 ### Job 37:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will turn roundabout his circuits by divine counsels into all their works; whatever he commands them, these have been arranged by him upon earth.
 - brenton: [missing]
 
 ### Job 37:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whether for correction, or for his land, or for mercy, he will find him.
 - brenton: [missing]
 
 ### Job 37:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear to these things, Iōb; stand still and understand power of Lord.
 - brenton: [missing]
 
 ### Job 37:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We know that God set his works, making light out of darkness.
 - brenton: [missing]
 
 ### Job 37:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he knows distinctions of clouds, and extraordinary falls of evil men.
 - brenton: [missing]
 
 ### Job 37:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your garment is warm; yet earth rests quietly.
 - brenton: [missing]
 
 ### Job 37:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you make firm with him ancient things, strong as vision of molten metal?
 - brenton: [missing]
 
 ### Job 37:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why? Teach me what we shall say to him, and let us stop saying many things.
 - brenton: [missing]
 
 ### Job 37:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did book or scribe stand by me, that standing I should make man silent?
 - brenton: [missing]
 
 ### Job 37:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But light is not visible to all; it shines afar in ancient things, like what is with him upon clouds.
 - brenton: [missing]
 
 ### Job 37:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From north clouds shine with gold; over these things is great glory and honor of Almighty.
 - brenton: [missing]
 
 ### Job 37:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we do not find another like his strength; judging righteous things, he does not think to hear.
 - brenton: [missing]
 
 ### Job 37:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore men will fear him, and wise of heart will fear him.
 - brenton: [missing]
 
 ### Job 38:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after Elioun ceased from speech, Lord said to Iōb through whirlwind and clouds,
 - brenton: [missing]
 
 ### Job 38:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is this hiding counsel, and holding words in heart, but thinking to hide them from me?
 - brenton: [missing]
 
 ### Job 38:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gird your loins like man; I will ask you, and you answer me.
 - brenton: [missing]
 
 ### Job 38:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where were you when I founded earth? Declare to me, if you know understanding.
 - brenton: [missing]
 
 ### Job 38:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who set its measures, if you know, or who stretched line upon it?
 - brenton: [missing]
 
 ### Job 38:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon what have its rings been fastened? And who is one laying cornerstone upon it,
 - brenton: [missing]
 
 ### Job 38:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when stars were born and all my angels praised me with loud voice?
 - brenton: [missing]
 
 ### Job 38:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I fenced in sea with gates when it rushed out, coming forth from womb of its mother,
 - brenton: [missing]
 
 ### Job 38:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I put cloud as its clothing and wrapped it in mist,
 - brenton: [missing]
 
 ### Job 38:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I put boundaries to it, setting bars and gates around,
 - brenton: [missing]
 
 ### Job 38:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I said to it, Up to this you will come and not pass beyond, but in yourself your waves will be broken.
 - brenton: [missing]
 
 ### Job 38:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or did I arrange morning light for you, and morning-star see its own order,
 - brenton: [missing]
 
 ### Job 38:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to seize wings of earth and shake ungodly men out of it?
 - brenton: [missing]
 
 ### Job 38:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or did you take earth, clay, and shape living thing, and set speaking one upon earth?
 - brenton: [missing]
 
 ### Job 38:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took light from ungodly men, and shattered arm of proud men.
 - brenton: [missing]
 
 ### Job 38:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you come upon spring of sea, and walk in tracks of deep?
 - brenton: [missing]
 
 ### Job 38:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And are gates of death opened to you in fear, and gatekeepers of Hades, seeing you, were terrified?
 - brenton: [missing]
 
 ### Job 38:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you perceive breadth of what is under heaven? Declare then to me how great it is.
 - brenton: [missing]
 
 ### Job 38:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And what land does light lodge in, and what is place of darkness,
 - brenton: [missing]
 
 ### Job 38:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if you would bring me to their boundaries and know their paths?
 - brenton: [missing]
 
 ### Job 38:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I know then that you were born at that time, and number of your years is great.
 - brenton: [missing]
 
 ### Job 38:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you come upon treasuries of snow, and see treasuries of hail,
 - brenton: [missing]
 
 ### Job 38:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: kept aside for you for hour of enemies, for day of war and battle?
 - brenton: [missing]
 
 ### Job 38:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from where does frost come out, or south wind scatter into what is under heaven?
 - brenton: [missing]
 
 ### Job 38:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who prepared channel for violent rain, and way for thunderings,
 - brenton: [missing]
 
 ### Job 38:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to rain upon land where there is no man, wilderness where no man exists in it,
 - brenton: [missing]
 
 ### Job 38:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to satisfy pathless and uninhabited land and make growth of grass spring out?
 - brenton: [missing]
 
 ### Job 38:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is father of rain, and who begot clods of dew?
 - brenton: [missing]
 
 ### Job 38:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from whose womb does ice come out, and who begot frost in heaven?
 - brenton: [missing]
 
 ### Job 38:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or does it descend like flowing water, and who froze face of deep?
 - brenton: [missing]
 
 ### Job 38:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you understand bond of Pleiad, and open barrier of Orion?
 - brenton: [missing]
 
 ### Job 38:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will you open Mazzaroth in its season, and bring Evening Star with its tail?
 - brenton: [missing]
 
 ### Job 38:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do you know turnings of heaven, or things happening together under heaven?
 - brenton: [missing]
 
 ### Job 38:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you call cloud with voice, and will trembling of abundant water obey you?
 - brenton: [missing]
 
 ### Job 38:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you send out lightnings, and they will go and say to you, What is it?
 - brenton: [missing]
 
 ### Job 38:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who gave women skill in weaving, or embroidered knowledge?
 - brenton: [missing]
 
 ### Job 38:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who counts clouds in wisdom, and bent heaven down to earth,
 - brenton: [missing]
 
 ### Job 38:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and it was poured out like dusty earth, and I glued it together like stone cube?
 - brenton: [missing]
 
 ### Job 38:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And will you hunt food for lions, and fill souls of dragons,
 - brenton: [missing]
 
 ### Job 38:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for they fear in their lairs and sit in woods lying in wait?
 - brenton: [missing]
 
 ### Job 38:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who prepared food for raven? For its young cry to Lord, wandering and seeking food.
 - brenton: [missing]
 
 ### Job 39:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do you know time of giving birth of rock-goats, and did you watch birth-pangs of hinds?
 - brenton: [missing]
 
 ### Job 39:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you count full months of their bearing, and loosen their pangs?
 - brenton: [missing]
 
 ### Job 39:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And did you rear their young without fear, and send out their birth-pangs?
 - brenton: [missing]
 
 ### Job 39:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their young will burst forth, increase with produce, go out and by no means return to them.
 - brenton: [missing]
 
 ### Job 39:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who let wild donkey go free, and who loosed its bonds?
 - brenton: [missing]
 
 ### Job 39:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I set its dwelling in wilderness, and its tents in salt land.
 - brenton: [missing]
 
 ### Job 39:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Laughing at tumult of city, and not hearing rebuke of tax-collector,
 - brenton: [missing]
