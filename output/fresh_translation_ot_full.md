@@ -4088,10 +4088,10 @@ Syntax notes: [TODO]
 Draft translation: And Noah came out, and his wife and his sons and the wives of his sons with him.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Noah came out, and his wife and his sons and the wives of his sons with him. | alternate_renderings: And Noah went forth, and his sons, and his wife, and his sons' wives with him: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Noah came out, and his wife and his sons and the wives of his sons with him. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -4552,10 +4552,10 @@ Syntax notes: [TODO]
 Draft translation: These three are sons of Noah. From these the whole earth was scattered abroad.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: These three are sons of Noah. From these the whole earth was scattered abroad. | alternate_renderings: These are the three sons of Noah: and of them was the whole earth overspread. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: These three are sons of Noah. From these the whole earth was scattered abroad. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -8630,10 +8630,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, Lord, if I have found favor before you, do not pass by your servant.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he said, Lord, if I have found favor before you, do not pass by your servant. | alternate_renderings: And said, My LORD, if now I have found favour in your sight, pass not away, I pray you, from your servant: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he said, Lord, if I have found favor before you, do not pass by your servant. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -11825,10 +11825,10 @@ Syntax notes: [TODO]
 Draft translation: No, lord, I have indeed heard. Land worth four hundred silver didrachms - but what is that between me and you? So bury your dead.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: No, lord, I have indeed heard. Land worth four hundred silver didrachms - but what is that between me and you? So bury your dead. | alternate_renderings: My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that between me and you? bury therefore your dead. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: No, lord, I have indeed heard. Land worth four hundred silver didrachms - but what is that between me and you? So bury your dead. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -12851,10 +12851,10 @@ Syntax notes: [TODO]
 Draft translation: And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too. | alternate_renderings: And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give your camels drink also: so I drank, and she made the camels drink also. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -13713,10 +13713,10 @@ Syntax notes: [TODO]
 Draft translation: And the children were leaping in her. And she said, If it is going to be like this for me, why is this happening to me? And she went to inquire from the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the children were leaping in her. And she said, If it is going to be like this for me, why is this happening to me? And she went to inquire from the Lord. | alternate_renderings: And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the children were leaping in her. And she said, If it is going to be like this for me, why is this happening to me? And she went to inquire from the Lord. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -15961,10 +15961,10 @@ Syntax notes: [TODO]
 Draft translation: And he called the name of that place House of God, but Ulam-luz was the name of the city before.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he called the name of that place House of God, but Ulam-luz was the name of the city before. | alternate_renderings: And he called the name of that place Bethel: but the name of that city was called Luz at the first. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he called the name of that place House of God, but Ulam-luz was the name of the city before. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -20101,10 +20101,10 @@ Syntax notes: [TODO]
 Draft translation: And the young man did not delay to do this thing, for he was attached to Jacob's daughter. And he was the most honored of all in his father's house.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the young man did not delay to do this thing, for he was attached to Jacob's daughter. And he was the most honored of all in his father's house. | alternate_renderings: And the young man deferred not to do the thing, because he had delight in Jacob's daughter: and he was more honourable than all the house of his father. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the young man did not delay to do this thing, for he was attached to Jacob's daughter. And he was the most honored of all in his father's house. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -22630,10 +22630,10 @@ Syntax notes: [TODO]
 Draft translation: And Er, Judah's firstborn, became evil before the Lord, and God killed him.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Er, Judah's firstborn, became evil before the Lord, and God killed him. | alternate_renderings: And Er, Judah's firstborn, was wicked in the sight of the LORD; and the LORD slew him. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Er, Judah's firstborn, became evil before the Lord, and God killed him. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -23695,10 +23695,10 @@ Syntax notes: [TODO]
 Draft translation: And he asked Pharaoh's eunuchs, who were with him under guard in his master's house, saying, Why are your faces gloomy today?
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he asked Pharaoh's eunuchs, who were with him under guard in his master's house, saying, Why are your faces gloomy today? | alternate_renderings: And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look all of you so sadly to day? | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he asked Pharaoh's eunuchs, who were with him under guard in his master's house, saying, Why are your faces gloomy today? | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -26865,10 +26865,10 @@ Syntax notes: [TODO]
 Draft translation: And they tore their garments and each loaded his bag on his donkey, and they returned to the city.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And they tore their garments and each loaded his bag on his donkey, and they returned to the city. | alternate_renderings: Then they rent their clothes, and laded every man his ass, and returned to the city. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And they tore their garments and each loaded his bag on his donkey, and they returned to the city. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -27727,10 +27727,10 @@ Syntax notes: [TODO]
 Draft translation: and to all he gave two garments apiece, but to Benjamin he gave three hundred gold pieces and five changing garments,
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: and to all he gave two garments apiece, but to Benjamin he gave three hundred gold pieces and five changing garments, | alternate_renderings: To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and to all he gave two garments apiece, but to Benjamin he gave three hundred gold pieces and five changing garments, | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -38006,10 +38006,10 @@ Syntax notes: [TODO]
 Draft translation: "Speak to the sons of Israel, and after turning back let them camp opposite the village, between Magdol and the sea. Opposite Beelsepphon, before them, you shall camp by the sea."
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: "Speak to the sons of Israel, and after turning back let them camp opposite the village, between Magdol and the sea. Opposite Beelsepphon, before them, you shall camp by the sea." | alternate_renderings: Speak unto the children of Israel, that they turn and camp before Pihahiroth, between Migdol and the sea, opposite to Baalzephon: before it shall all of you camp by the sea. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: "Speak to the sons of Israel, and after turning back let them camp opposite the village, between Magdol and the sea. Opposite Beelsepphon, before them, you shall camp by the sea." | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -42019,10 +42019,10 @@ Syntax notes: [TODO]
 Draft translation: But if he did not do it willingly, and God delivered him into his hands, I will give you a place where the killer may flee.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: But if he did not do it willingly, and God delivered him into his hands, I will give you a place where the killer may flee. | alternate_renderings: And if a man lie not in wait, but God deliver him into his hand; then I will appoint you a place where he shall flee. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: But if he did not do it willingly, and God delivered him into his hands, I will give you a place where the killer may flee. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -46755,10 +46755,10 @@ Syntax notes: [TODO]
 Draft translation: And for Aaron's sons you shall make tunics and sashes, and you shall make turbans for them, for honor and glory.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And for Aaron's sons you shall make tunics and sashes, and you shall make turbans for them, for honor and glory. | alternate_renderings: And for Aaron's sons you shall make coats, and you shall make for them girdles, and bonnets shall you make for them, for glory and for beauty. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And for Aaron's sons you shall make tunics and sashes, and you shall make turbans for them, for honor and glory. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -49666,10 +49666,10 @@ Syntax notes: [TODO]
 Draft translation: So the sons of Israel stripped off their ornaments and their array from Mount Horeb onward.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: So the sons of Israel stripped off their ornaments and their array from Mount Horeb onward. | alternate_renderings: And the children of Israel stripped themselves of their ornaments by the mount Horeb. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: So the sons of Israel stripped off their ornaments and their array from Mount Horeb onward. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58174,10 +58174,10 @@ Syntax notes: [TODO]
 Draft translation: And he placed all of them on Aaron's hands and on the hands of his sons, and offered them as a contribution before the Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he placed all of them on Aaron's hands and on the hands of his sons, and offered them as a contribution before the Lord. | alternate_renderings: And he put all upon Aaron's hands, and upon his sons' hands, and waved them for a wave offering before the LORD. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he placed all of them on Aaron's hands and on the hands of his sons, and offered them as a contribution before the Lord. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -62012,10 +62012,10 @@ Syntax notes: [TODO]
 Draft translation: And the priest shall take the lamb for trespass and the cup of oil and present them before the Lord as a presentation.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the priest shall take the lamb for trespass and the cup of oil and present them before the Lord as a presentation. | alternate_renderings: And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the priest shall take the lamb for trespass and the cup of oil and present them before the Lord as a presentation. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -63396,10 +63396,10 @@ Syntax notes: [TODO]
 Draft translation: Thus Aaron shall enter into the holy place: with a calf from the cattle for sin and a ram for whole burnt offering.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Thus Aaron shall enter into the holy place: with a calf from the cattle for sin and a ram for whole burnt offering. | alternate_renderings: Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Thus Aaron shall enter into the holy place: with a calf from the cattle for sin and a ram for whole burnt offering. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -73000,10 +73000,10 @@ Syntax notes: [TODO]
 Draft translation: All those counted of the camp of Ephraim were a hundred eight thousand one hundred, with their strength. They shall set out third.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: All those counted of the camp of Ephraim were a hundred eight thousand one hundred, with their strength. They shall set out third. | alternate_renderings: All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: All those counted of the camp of Ephraim were a hundred eight thousand one hundred, with their strength. They shall set out third. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -75247,10 +75247,10 @@ Syntax notes: [TODO]
 Draft translation: Command the sons of Israel, and let them send out from the camp every leprous person and every one with a discharge and every one unclean by a dead person.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Command the sons of Israel, and let them send out from the camp every leprous person and every one with a discharge and every one unclean by a dead person. | alternate_renderings: Command the children of Israel, that they put out of the camp every leper, and every one that has an issue, and whosoever is defiled by the dead: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Command the sons of Israel, and let them send out from the camp every leprous person and every one with a discharge and every one unclean by a dead person. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -86836,10 +86836,10 @@ Syntax notes: [TODO]
 Draft translation: And Israel settled in all the cities of the Amorites.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Israel settled in all the cities of the Amorites. | alternate_renderings: Thus Israel dwelt in the land of the Amorites. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Israel settled in all the cities of the Amorites. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -92842,10 +92842,10 @@ Syntax notes: [TODO]
 Draft translation: And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands. | alternate_renderings: And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Moses sent them, a thousand from a tribe, a thousand from a tribe, with their force, and Phinehas son of Eleazar son of Aaron the priest, and the holy vessels and the trumpets of the signals in their hands. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -94826,10 +94826,10 @@ Syntax notes: [TODO]
 Draft translation: And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water. | alternate_renderings: And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And they set out from Pikriai and came to Ailim, and in Ailim were twelve springs of waters and seventy trunks of palms, and they camped there by the water. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -97760,10 +97760,10 @@ Syntax notes: [TODO]
 Draft translation: And the word pleased me, and I took from among you twelve men, one man by tribe.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the word pleased me, and I took from among you twelve men, one man by tribe. | alternate_renderings: And the saying pleased me well: and I took twelve men of you, one of a tribe: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the word pleased me, and I took from among you twelve men, one man by tribe. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -101734,10 +101734,10 @@ Syntax notes: [TODO]
 Draft translation: and the Lord your God gives them into your hands, then you shall strike them. With utter destruction you shall utterly destroy them. You shall not covenant a covenant with them, nor indeed show them mercy.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: and the Lord your God gives them into your hands, then you shall strike them. With utter destruction you shall utterly destroy them. You shall not covenant a covenant with them, nor indeed show them mercy. | alternate_renderings: And when the LORD your God shall deliver them before you; you shall strike them, and utterly destroy them; you shall make no covenant with them, nor show mercy unto them: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and the Lord your God gives them into your hands, then you shall strike them. With utter destruction you shall utterly destroy them. You shall not covenant a covenant with them, nor indeed show them mercy. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104102,10 +104102,10 @@ Syntax notes: [TODO]
 Draft translation: then the Lord will cast out all these nations from before your face, and you will inherit nations greater and stronger than you.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: then the Lord will cast out all these nations from before your face, and you will inherit nations greater and stronger than you. | alternate_renderings: Then will the LORD drive out all these nations from before you, and all of you shall possess greater nations and mightier than yourselves. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: then the Lord will cast out all these nations from before your face, and you will inherit nations greater and stronger than you. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -115788,10 +115788,10 @@ Syntax notes: [TODO]
 Draft translation: And he said, The Lord comes from Sinai and appeared from Seir to us and hurried from Mount Paran with the myriads of Kadesh; from his right hand angels were with him.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he said, The Lord comes from Sinai and appeared from Seir to us and hurried from Mount Paran with the myriads of Kadesh; from his right hand angels were with him. | alternate_renderings: And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he said, The Lord comes from Sinai and appeared from Seir to us and hurried from Mount Paran with the myriads of Kadesh; from his right hand angels were with him. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -118020,10 +118020,10 @@ Syntax notes: [TODO]
 Draft translation: Forty thousand well-armed for battle crossed before the Lord for war, toward the city Jericho.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Forty thousand well-armed for battle crossed before the Lord for war, toward the city Jericho. | alternate_renderings: About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Forty thousand well-armed for battle crossed before the Lord for war, toward the city Jericho. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -119148,10 +119148,10 @@ Syntax notes: [TODO]
 Draft translation: And about three thousand men went up, and they fled from before the men of Ai.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And about three thousand men went up, and they fled from before the men of Ai. | alternate_renderings: So there went up thither of the people about three thousand men: and they fled before the men of Ai. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And about three thousand men went up, and they fled from before the men of Ai. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -121374,10 +121374,10 @@ Syntax notes: [TODO]
 Draft translation: And Joshua and all Israel with him went to Hebron and besieged it.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Joshua and all Israel with him went to Hebron and besieged it. | alternate_renderings: And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Joshua and all Israel with him went to Hebron and besieged it. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -124686,10 +124686,10 @@ Syntax notes: [TODO]
 Draft translation: and it will go out to Bethel and pass to the boundaries of Chatarothi,
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: and it will go out to Bethel and pass to the boundaries of Chatarothi, | alternate_renderings: And goes out from Bethel to Luz, and passes along unto the borders of Archi to Ataroth, | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and it will go out to Bethel and pass to the boundaries of Chatarothi, | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -125236,10 +125236,10 @@ Syntax notes: [TODO]
 Draft translation: And all the congregation of the sons of Israel assembled at Shiloh, and they pitched there the tent of testimony, and the land was subdued by them.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And all the congregation of the sons of Israel assembled at Shiloh, and they pitched there the tent of testimony, and the land was subdued by them. | alternate_renderings: And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And all the congregation of the sons of Israel assembled at Shiloh, and they pitched there the tent of testimony, and the land was subdued by them. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -125642,10 +125642,10 @@ Syntax notes: [TODO]
 Draft translation: And the cities of the sons of Benjamin according to their clans came to be Jericho and Baitheglio and Amekasis,
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the cities of the sons of Benjamin according to their clans came to be Jericho and Baitheglio and Amekasis, | alternate_renderings: Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz, | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the cities of the sons of Benjamin according to their clans came to be Jericho and Baitheglio and Amekasis, | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -129296,10 +129296,10 @@ Syntax notes: [TODO]
 Draft translation: And now remove the foreign gods among you and direct your heart toward the Lord God of Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And now remove the foreign gods among you and direct your heart toward the Lord God of Israel. | alternate_renderings: Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the LORD God of Israel. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And now remove the foreign gods among you and direct your heart toward the Lord God of Israel. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -132996,10 +132996,10 @@ Syntax notes: [TODO]
 Draft translation: And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Jōas did this thing.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Jōas did this thing. | alternate_renderings: And they said one to another, Who has done this thing? And when they enquired and asked, they said, Gideon the son of Joash has done this thing. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Jōas did this thing. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -134420,10 +134420,10 @@ Syntax notes: [TODO]
 Draft translation: And they did not show mercy with the house of Jerobaal Gideon according to all the goodness that he did with Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And they did not show mercy with the house of Jerobaal Gideon according to all the goodness that he did with Israel. | alternate_renderings: Neither showed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had showed unto Israel. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And they did not show mercy with the house of Jerobaal Gideon according to all the goodness that he did with Israel. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -135844,10 +135844,10 @@ Syntax notes: [TODO]
 Draft translation: Go and cry out to the gods you chose for yourselves, and let them save you in the time of your distress.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Go and cry out to the gods you chose for yourselves, and let them save you in the time of your distress. | alternate_renderings: Go and cry unto the gods which all of you have chosen; let them deliver you in the time of your tribulation. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Go and cry out to the gods you chose for yourselves, and let them save you in the time of your distress. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -138662,10 +138662,10 @@ Syntax notes: [TODO]
 Draft translation: And it came to be when she wore him down with her words all night and troubled him, he grew short of soul unto death.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And it came to be when she wore him down with her words all night and troubled him, he grew short of soul unto death. | alternate_renderings: And it came to pass, when she pressed him daily with her words, and urged him, so that his soul was vexed unto death; | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And it came to be when she wore him down with her words all night and troubled him, he grew short of soul unto death. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -140630,10 +140630,10 @@ Syntax notes: [TODO]
 Draft translation: And now this is the word that we will do to Gabaa: we will go up against it by lot.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And now this is the word that we will do to Gabaa: we will go up against it by lot. | alternate_renderings: But now this shall be the thing which we will do to Gibeah; we will go up by lot against it; | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And now this is the word that we will do to Gabaa: we will go up against it by lot. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -149096,10 +149096,10 @@ Syntax notes: [TODO]
 Draft translation: Only fear the Lord and serve him in truth and with your whole heart, because you have seen what things he magnified with you.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Only fear the Lord and serve him in truth and with your whole heart, because you have seen what things he magnified with you. | alternate_renderings: Only fear the LORD, and serve him in truth with all your heart: for consider how great things he has done for you. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Only fear the Lord and serve him in truth and with your whole heart, because you have seen what things he magnified with you. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -151948,10 +151948,10 @@ Syntax notes: [TODO]
 Draft translation: And if he is able to fight with me and if he strikes me, we will be your slaves. But if I prevail and strike him, you will be our slaves and serve us.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And if he is able to fight with me and if he strikes me, we will be your slaves. But if I prevail and strike him, you will be our slaves and serve us. | alternate_renderings: If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall all of you be our servants, and serve us. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And if he is able to fight with me and if he strikes me, we will be your slaves. But if I prevail and strike him, you will be our slaves and serve us. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -153394,10 +153394,10 @@ Syntax notes: [TODO]
 Draft translation: If your father inspecting should inspect for me, then you will say, David earnestly asked leave from me to run to Bēthleem his city, because there is there a sacrifice of days for all the tribe.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: If your father inspecting should inspect for me, then you will say, David earnestly asked leave from me to run to Bēthleem his city, because there is there a sacrifice of days for all the tribe. | alternate_renderings: If your father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: If your father inspecting should inspect for me, then you will say, David earnestly asked leave from me to run to Bēthleem his city, because there is there a sacrifice of days for all the tribe. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -155180,10 +155180,10 @@ Syntax notes: [TODO]
 Draft translation: And David saw that Saoul was going out to seek David, and David was on the dry mountain in the New Place of Ziph.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And David saw that Saoul was going out to seek David, and David was on the dry mountain in the New Place of Ziph. | alternate_renderings: And David saw that Saul was come out to seek his life: and David was in the wilderness of Ziph in a wood. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And David saw that Saoul was going out to seek David, and David was on the dry mountain in the New Place of Ziph. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -163326,10 +163326,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said, Is there still a man left from the house of Saoul, that I may do mercy of God with him? And Siba said to the king, There is still a son for Iōnathan, stricken in the feet.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the king said, Is there still a man left from the house of Saoul, that I may do mercy of God with him? And Siba said to the king, There is still a son for Iōnathan, stricken in the feet. | alternate_renderings: And the king said, Is there not yet any of the house of Saul, that I may show the kindness of God unto him? And Ziba said unto the king, Jonathan has yet a son, which is lame on his feet. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the king said, Is there still a man left from the house of Saoul, that I may do mercy of God with him? And Siba said to the king, There is still a son for Iōnathan, stricken in the feet. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -164912,10 +164912,10 @@ Syntax notes: [TODO]
 Draft translation: And now he has died. Why now am I fasting? Shall I be able to bring him back still more? I will go to him, but he will not return to me.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And now he has died. Why now am I fasting? Shall I be able to bring him back still more? I will go to him, but he will not return to me. | alternate_renderings: But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And now he has died. Why now am I fasting? Shall I be able to bring him back still more? I will go to him, but he will not return to me. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -166278,10 +166278,10 @@ Syntax notes: [TODO]
 Draft translation: And the king said to Iōab, Behold now, I have done for you according to this word of yours. Go, bring back the young man Abessalōm.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And the king said to Iōab, Behold now, I have done for you according to this word of yours. Go, bring back the young man Abessalōm. | alternate_renderings: And the king said unto Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And the king said to Iōab, Behold now, I have done for you according to this word of yours. Go, bring back the young man Abessalōm. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -171234,10 +171234,10 @@ Syntax notes: [TODO]
 Draft translation: Because I kept the ways of the Lord and did not act impiously away from my God.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Because I kept the ways of the Lord and did not act impiously away from my God. | alternate_renderings: For I have kept the ways of the LORD, and have not wickedly departed from my God. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Because I kept the ways of the Lord and did not act impiously away from my God. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -172758,10 +172758,10 @@ Syntax notes: [TODO]
 Draft translation: And they went around in all the land and came at the end of nine months and twenty days to Ierousalem.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And they went around in all the land and came at the end of nine months and twenty days to Ierousalem. | alternate_renderings: So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And they went around in all the land and came at the end of nine months and twenty days to Ierousalem. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -173222,10 +173222,10 @@ Syntax notes: [TODO]
 Draft translation: And his father had never restrained him, saying, Why have you done thus? And he too was very handsome in appearance, and she had borne him after Abessalom.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And his father had never restrained him, saying, Why have you done thus? And he too was very handsome in appearance, and she had borne him after Abessalom. | alternate_renderings: And his father had not displeased him at any time in saying, Why have you done so? and he also was a very goodly man; and his mother bare him after Absalom. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And his father had never restrained him, saying, Why have you done thus? And he too was very handsome in appearance, and she had borne him after Abessalom. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -175730,10 +175730,10 @@ Syntax notes: [TODO]
 Draft translation: and Ornia son of Nathan over those appointed, and Zabouth son of Nathan, companion of the king,
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: and Ornia son of Nathan over those appointed, and Zabouth son of Nathan, companion of the king, | alternate_renderings: And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king's friend: | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: and Ornia son of Nathan over those appointed, and Zabouth son of Nathan, companion of the king, | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -184114,10 +184114,10 @@ Syntax notes: [TODO]
 Draft translation: And Elijah did according to the word of the Lord and sat by the wadi Chorrath before the Jordan.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Elijah did according to the word of the Lord and sat by the wadi Chorrath before the Jordan. | alternate_renderings: So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Elijah did according to the word of the Lord and sat by the wadi Chorrath before the Jordan. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -185096,10 +185096,10 @@ Syntax notes: [TODO]
 Draft translation: And Elijah said to the people, Come near to me. And all the people came near to him.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Elijah said to the people, Come near to me. And all the people came near to him. | alternate_renderings: And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD that was broken down. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Elijah said to the people, Come near to me. And all the people came near to him. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -199132,10 +199132,10 @@ Syntax notes: [TODO]
 Draft translation: Did the gods of the nations rescue them, those whom my fathers destroyed, both Gōzan and Charran and Raphes and sons of Edem in Thaesthen?
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Did the gods of the nations rescue them, those whom my fathers destroyed, both Gōzan and Charran and Raphes and sons of Edem in Thaesthen? | alternate_renderings: Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar? | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Did the gods of the nations rescue them, those whom my fathers destroyed, both Gōzan and Charran and Raphes and sons of Edem in Thaesthen? | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -202828,10 +202828,10 @@ Syntax notes: [TODO]
 Draft translation: Sons of Iapheth: Gamer, Magog, Madai, Iouan, Elisa, Thobel, Mosoch, and Thiras.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Sons of Iapheth: Gamer, Magog, Madai, Iouan, Elisa, Thobel, Mosoch, and Thiras. | alternate_renderings: The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Sons of Iapheth: Gamer, Magog, Madai, Iouan, Elisa, Thobel, Mosoch, and Thiras. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -206456,10 +206456,10 @@ Syntax notes: [TODO]
 Draft translation: Because many wounded fell, because the war was from God. And they dwelt in their place until the exile.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: Because many wounded fell, because the war was from God. And they dwelt in their place until the exile. | alternate_renderings: For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Because many wounded fell, because the war was from God. And they dwelt in their place until the exile. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -211052,10 +211052,10 @@ Syntax notes: [TODO]
 Draft translation: And Dauid said, Whoever strikes Iebousite first shall become ruler and commander. And Ioab son of Sarouia went up first and became ruler.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Dauid said, Whoever strikes Iebousite first shall become ruler and commander. And Ioab son of Sarouia went up first and became ruler. | alternate_renderings: And David said, Whosoever strikes the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Dauid said, Whoever strikes Iebousite first shall become ruler and commander. And Ioab son of Sarouia went up first and became ruler. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -225616,10 +225616,10 @@ Syntax notes: [TODO]
 Draft translation: And he said to them, What do you counsel, and what word shall I answer this people who spoke to me saying, Lighten from yoke which your father put upon us?
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And he said to them, What do you counsel, and what word shall I answer this people who spoke to me saying, Lighten from yoke which your father put upon us? | alternate_renderings: And he said unto them, What advice give all of you that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that your father did put upon us? | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And he said to them, What do you counsel, and what word shall I answer this people who spoke to me saying, Lighten from yoke which your father put upon us? | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -229378,10 +229378,10 @@ Syntax notes: [TODO]
 Draft translation: And Iouda gathered to seek Lord, and from all cities of Iouda they came to seek Lord.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And Iouda gathered to seek Lord, and from all cities of Iouda they came to seek Lord. | alternate_renderings: And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And Iouda gathered to seek Lord, and from all cities of Iouda they came to seek Lord. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -235702,10 +235702,10 @@ Syntax notes: [TODO]
 Draft translation: And rest of words of Ezekias and his mercy, behold, written in prophecy of Esaias son of Amōs the prophet and in book of kings of Iouda and Israel.
 
 Decision rows:
-- [TODO add decision rows]
+- lemma: verse-level variant | chosen_rendering: And rest of words of Ezekias and his mercy, behold, written in prophecy of Esaias son of Amōs the prophet and in book of kings of Iouda and Israel. | alternate_renderings: Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel. | rationale: Keeps Septuagint verse wording at this numbering point rather than the Masoretic wording. | status: reviewed
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: And rest of words of Ezekias and his mercy, behold, written in prophecy of Esaias son of Amōs the prophet and in book of kings of Iouda and Israel. | footnote_text: The Septuagint differs here from the Masoretic wording. The translation follows the Greek text at this verse numbering point. | source_basis: variant + witnesses | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
