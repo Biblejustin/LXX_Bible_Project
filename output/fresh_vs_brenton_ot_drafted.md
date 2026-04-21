@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 21512
-- medium: 281
-- low: 1124
+- high: 21692
+- medium: 247
+- low: 978
 - none: 0
 
 Note:
@@ -192980,828 +192980,828 @@ Note:
 
 ### Ezekiel 45:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All the people will give this first portion to ruler of Israel.
 - brenton: [missing]
 
 ### Ezekiel 45:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 45:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: In first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
 - brenton: [missing]
 
 ### Ezekiel 45:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the priest will take some of the blood of atonement and put it on the doorposts of the house and on the four corners of the sanctuary and on the altar and on the doorposts of gate of the inner court.
 - brenton: [missing]
 
 ### Ezekiel 45:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And thus you will do in seventh month, on first of the month; you will take a portion from each one and make atonement for the house.
 - brenton: [missing]
 
 ### Ezekiel 45:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
 - brenton: [missing]
 
 ### Ezekiel 45:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ruler will provide on that day, for himself and for the house and for all people of the land, a bull for sin.
 - brenton: [missing]
 
 ### Ezekiel 45:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And during the seven days of the feast he will provide burnt offerings to Lord: seven bulls and seven rams, flawless, each day for seven days; and for sin, a male goat each day.
 - brenton: [missing]
 
 ### Ezekiel 45:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as offering he will prepare a cake with the bull and a cake with the ram, and a hin of oil with the cake.
 - brenton: [missing]
 
 ### Ezekiel 45:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in seventh month, on fifteenth of the month, at the feast he will do the same seven days, as for the sin offering and as for the burnt offerings and as for the grain offering and as for the oil.
 - brenton: [missing]
 
 ### Ezekiel 46:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on day of new moon it will be opened.
 - brenton: [missing]
 
 ### Ezekiel 46:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
 - brenton: [missing]
 
 ### Ezekiel 46:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And people of the land will worship at thresholds of that gate on Sabbaths and on new moons before Lord.
 - brenton: [missing]
 
 ### Ezekiel 46:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And burnt offerings that the ruler will offer to Lord on Sabbath day: six flawless lambs and a flawless ram.
 - brenton: [missing]
 
 ### Ezekiel 46:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And grain offering, a cake with the ram, and for the lambs a sacrifice, gift of his hand, and of oil a hin with the cake.
 - brenton: [missing]
 
 ### Ezekiel 46:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on day of new moon, a flawless bull and six lambs and a flawless ram.
 - brenton: [missing]
 
 ### Ezekiel 46:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And with the bull a cake and with the ram a cake will be grain offering, and for the lambs as his hand can afford, and of oil a hin with the cake.
 - brenton: [missing]
 
 ### Ezekiel 46:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when the ruler enters, by way of the porch of the gate he will enter, and by way of the gate he will go out.
 - brenton: [missing]
 
 ### Ezekiel 46:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when people of the land enter before Lord at the feasts, whoever enters by way of the north gate to worship will go out by way of the south gate, and whoever enters by way of the south gate will go out by way of the north gate; he will not return by the gate through which he entered, but he will go straight out opposite it.
 - brenton: [missing]
 
 ### Ezekiel 46:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ruler in midst of them, when they enter, he will enter with them, and when they go out, he will go out.
 - brenton: [missing]
 
 ### Ezekiel 46:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at the feasts and at the assemblies there will be grain offering, a cake with the bull and a cake with the ram, and for the lambs as his hand can afford, and of oil a hin with the cake.
 - brenton: [missing]
 
 ### Ezekiel 46:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
 - brenton: [missing]
 
 ### Ezekiel 46:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will prepare as burnt offering to Lord each day a year-old flawless lamb; in morning he will prepare it.
 - brenton: [missing]
 
 ### Ezekiel 46:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And with it in morning he will prepare grain offering, a sixth of a measure, and of oil a third of a hin, to mix the fine flour, a grain offering to Lord, a perpetual ordinance forever.
 - brenton: [missing]
 
 ### Ezekiel 46:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will prepare the lamb and the grain offering and the oil in morning, a perpetual burnt offering.
 - brenton: [missing]
 
 ### Ezekiel 46:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: If the ruler gives a gift to one of his sons from his inheritance, it will belong to his sons; it is their possession by inheritance.
 - brenton: [missing]
 
 ### Ezekiel 46:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he gives a gift from his inheritance to one of his servants, it will be his until the year of release, and it will return to the ruler; only inheritance of his sons will remain theirs.
 - brenton: [missing]
 
 ### Ezekiel 46:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ruler will not take from inheritance of the people so as to oppress them out of their possession; from his own possession he will give inheritance to his sons, so that my people are not scattered, each from his possession.
 - brenton: [missing]
 
 ### Ezekiel 46:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me into the entrance at back of the gate, into chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
 - brenton: [missing]
 
 ### Ezekiel 46:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, This is place where priests will boil the things for ignorance and the things for sin, and there they will bake the grain offering, so as not to bring them out into outer court to sanctify the people.
 - brenton: [missing]
 
 ### Ezekiel 46:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me out into outer court and led me around to the four corners of the court, and behold, a court at corner of the court, a court at corner of the court.
 - brenton: [missing]
 
 ### Ezekiel 46:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At the four corners of the court were small courts, forty cubits in length and thirty cubits in breadth; one measure for all four.
 - brenton: [missing]
 
 ### Ezekiel 46:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And colonnades were around them, around the four, and cooking places were made beneath the colonnades around.
 - brenton: [missing]
 
 ### Ezekiel 46:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, These are the houses of the kitchens where those ministering to the house will boil the sacrifices of the people.
 - brenton: [missing]
 
 ### Ezekiel 47:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me to thresholds of the house, and behold, water was coming out from beneath the vestibule toward east, because face of the house faced east, and the water came down from the right side, from south, by the altar.
 - brenton: [missing]
 
 ### Ezekiel 47:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led me out by way of the north gate and brought me around outside by way of gate of the court facing east, and behold, the water was flowing down from the right side.
 - brenton: [missing]
 
 ### Ezekiel 47:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As the man went out opposite me, with a measuring line in his hand, he measured a thousand, and he led me through the water, water of release.
 - brenton: [missing]
 
 ### Ezekiel 47:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured a thousand and led me through the water, water up to the thighs; and he measured a thousand and led me through water up to the waist.
 - brenton: [missing]
 
 ### Ezekiel 47:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he measured a thousand, and I could not pass through, because the water was swelling like roar of a torrent that they cannot cross.
 - brenton: [missing]
 
 ### Ezekiel 47:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Have you seen, son of man? And he led me to the bank of the river.
 - brenton: [missing]
 
 ### Ezekiel 47:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In my turning back, behold, on bank of the river very many trees, on this side and on that side.
 - brenton: [missing]
 
 ### Ezekiel 47:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, This water going out into the Galilee toward east and going down into the Arabah and coming to the sea, to the water of the outlet, will heal the waters.
 - brenton: [missing]
 
 ### Ezekiel 47:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every living soul swarming everywhere that the river comes there will live, and there will be very much fish there, because this water comes there and will heal, and everything wherever the river comes there will live.
 - brenton: [missing]
 
 ### Ezekiel 47:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fishers will stand there from Aingadin to Ainagalim; it will be a spreading-place of nets. And its fish will be like fish of the great sea, a very great multitude.
 - brenton: [missing]
 
 ### Ezekiel 47:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But in its marsh and in its return and in its raised pools they will not be healed; they are given to salt.
 - brenton: [missing]
 
 ### Ezekiel 47:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
 - brenton: [missing]
 
 ### Ezekiel 47:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: These are the boundaries by which you will inherit the land among the twelve tribes of sons of Israel, with Joseph as an added allotment.
 - brenton: [missing]
 
 ### Ezekiel 47:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will inherit it, each as his brother, into the land for which I raised my hand to give it to their fathers, and this land will fall to you as inheritance.
 - brenton: [missing]
 
 ### Ezekiel 47:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are boundaries of the land toward north: from the great sea, by the way descending and skirting the entrance of Hamath, Sedada,
 - brenton: [missing]
 
 ### Ezekiel 47:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Berotha, Sebraim, Elam, between borders of Damascus and between borders of Hamath, court of Saunan, which is above border of Auranitis.
 - brenton: [missing]
 
 ### Ezekiel 47:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These are the boundaries from the sea, from court of Ainan, the borders of Damascus, and the parts toward north.
 - brenton: [missing]
 
 ### Ezekiel 47:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the parts toward east are between Auranitis and Damascus and between the Gileaditis and between land of Israel; Jordan marks boundary to the sea toward east, of Phoinikon. These are the parts toward east.
 - brenton: [missing]
 
 ### Ezekiel 47:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the part toward south and southwest runs from Thaiman and Phoinikon to water of Marimoth Kades, stretching to the great sea. This is part toward south and southwest.
 - brenton: [missing]
 
 ### Ezekiel 47:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is part of the great sea as boundary up to opposite entrance of Hamath, up to its entrance. These are the parts toward sea and Hamath.
 - brenton: [missing]
 
 ### Ezekiel 47:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will divide this land among them, by tribes of Israel.
 - brenton: [missing]
 
 ### Ezekiel 47:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will cast it by lot for yourselves and for the resident aliens dwelling in midst of you, who have begotten sons in midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in midst of tribes of Israel.
 - brenton: [missing]
 
 ### Ezekiel 47:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in whatever tribe the resident aliens are among the resident aliens with them, there you will give them inheritance, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 48:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are names of the tribes. From north end, by way of the descent that skirts entrance of Hamath, court of Ainan, border of Damascus northward, alongside Hamath, from east side to west side, Dan, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Dan, from east side to west side, Asher, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Asher, from east side to west side, Naphtali, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Naphtali, from east side to west side, Manasseh, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Manasseh, from east side to west side, Ephraim, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Ephraim, from east side to west side, Reuben, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Reuben, from east side to west side, Judah, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in midst of them.
 - brenton: [missing]
 
 ### Ezekiel 48:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The first portion that they will set apart to Lord: twenty-five thousand in length and twenty-five thousand in breadth.
 - brenton: [missing]
 
 ### Ezekiel 48:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in midst of it.
 - brenton: [missing]
 
 ### Ezekiel 48:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will belong to the consecrated priests, sons of Zadok, who keep charges of the house, who did not go astray in wandering of sons of Israel the way the Levites went astray.
 - brenton: [missing]
 
 ### Ezekiel 48:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will be for them a first portion given from first portions of the land, holy of holies, from borders of the Levites.
 - brenton: [missing]
 
 ### Ezekiel 48:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for the Levites, next to borders of the priests, length twenty-five thousand and breadth ten thousand; whole length twenty-five thousand and breadth twenty thousand.
 - brenton: [missing]
 
 ### Ezekiel 48:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: None of it will be sold, nor measured out, nor will firstfruits of the land be removed, because it is holy to Lord.
 - brenton: [missing]
 
 ### Ezekiel 48:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in midst of it.
 - brenton: [missing]
 
 ### Ezekiel 48:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are its measures: on north side four thousand five hundred, and on south side four thousand five hundred, and on east side four thousand five hundred, and on west side four thousand five hundred.
 - brenton: [missing]
 
 ### Ezekiel 48:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will be open space for the city: on north two hundred fifty, and on south two hundred fifty, and on east two hundred fifty, and on west two hundred fifty.
 - brenton: [missing]
 
 ### Ezekiel 48:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remaining length beside first portion of the holy things, ten thousand toward east and ten thousand toward west, will be next to first portion of the holy things, and its produce will be for bread for those working the city.
 - brenton: [missing]
 
 ### Ezekiel 48:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those working the city will work it from all tribes of Israel.
 - brenton: [missing]
 
 ### Ezekiel 48:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whole first portion, twenty-five thousand by twenty-five thousand, square, you will set apart as first portion of the holy things from possession of the city.
 - brenton: [missing]
 
 ### Ezekiel 48:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in midst of it.
 - brenton: [missing]
 
 ### Ezekiel 48:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from possession of the Levites and from possession of the city, in midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
 - brenton: [missing]
 
 ### Ezekiel 48:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for rest of the tribes, from east side to west side, Benjamin, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Benjamin, from east side to west side, Simeon, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Simeon, from east side to west side, Issachar, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Issachar, from east side to west side, Zebulun, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Zebulun, from east side to west side, Gad, one portion.
 - brenton: [missing]
 
 ### Ezekiel 48:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beside border of Gad, toward south and southwest, its boundaries will run from Thaiman and water of Marimoth Kades, the inheritance, to the great sea.
 - brenton: [missing]
 
 ### Ezekiel 48:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is land that you will assign by lot to tribes of Israel, and these are their allotments, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 48:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are outlets of the city: on north side, four thousand five hundred by measure.
 - brenton: [missing]
 
 ### Ezekiel 48:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gates of city are named after tribes of Israel: three gates on north, Gate of Reuben, one, and Gate of Judah, one, and Gate of Levi, one.
 - brenton: [missing]
 
 ### Ezekiel 48:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on east side, four thousand five hundred, and three gates: Gate of Joseph, one, and Gate of Benjamin, one, and Gate of Dan, one.
 - brenton: [missing]
 
 ### Ezekiel 48:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on south side, four thousand five hundred by measure, and three gates: Gate of Simeon, one, and Gate of Issachar, one, and Gate of Zebulun, one.
 - brenton: [missing]
 
 ### Ezekiel 48:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on west side, four thousand five hundred by measure, and three gates: Gate of Gad, one, and Gate of Asher, one, and Gate of Naphtali, one.
 - brenton: [missing]
 
 ### Ezekiel 48:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: A circuit of eighteen thousand, and name of the city from the day it comes to be will be, The Lord Is There.
 - brenton: [missing]
@@ -193810,792 +193810,792 @@ Note:
 
 ### Daniel 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In third year of Jehoiakim of Judea, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 - brenton: [missing]
 
 ### Daniel 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord gave it into his hands, and Jehoiakim king of Judea, and some of holy vessels of Lord, and he carried them to Babylon and placed them in his idol-house.
 - brenton: [missing]
 
 ### Daniel 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said to Abiesdri, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
 - brenton: [missing]
 
 ### Daniel 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: young men without blemish and good in appearance and skilled in all wisdom and learned and intelligent and wise and strong enough to be in house of the king, and to teach them letters and Chaldean language.
 - brenton: [missing]
 
 ### Daniel 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to give them an assigned portion from house of the king each day, and from royal table, and from wine that the king drinks, and to train them three years, and after this to set them before the king.
 - brenton: [missing]
 
 ### Daniel 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And among them from line of sons of Israel, from Judea, were Daniel, Hananiah, Mishael, and Azariah.
 - brenton: [missing]
 
 ### Daniel 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chief eunuch put names on them: to Daniel, Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
 - brenton: [missing]
 
 ### Daniel 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel resolved in his heart not to be defiled by king's dinner and by wine that he drank, and he asked the chief eunuch that he might not be defiled.
 - brenton: [missing]
 
 ### Daniel 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord gave Daniel honor and favor before the chief eunuch.
 - brenton: [missing]
 
 ### Daniel 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chief eunuch said to Daniel, I fear my lord the king, the one who assigned your food and your drink, lest he see your faces more wasted and weak than the foreign youths fed with you, and I put my own neck in danger.
 - brenton: [missing]
 
 ### Daniel 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel said to Abiesdri, the one appointed by the chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
 - brenton: [missing]
 
 ### Daniel 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Test your servants for ten days, and let it be given us from legumes of the earth to eat and water to drink.
 - brenton: [missing]
 
 ### Daniel 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if our appearance proves more worn than the other youths eating from the royal dinner, then do with your servants as you wish.
 - brenton: [missing]
 
 ### Daniel 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he dealt with them in this way and tested them ten days.
 - brenton: [missing]
 
 ### Daniel 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after the ten days their appearance seemed better and their bodily condition stronger than all the other youths eating the royal dinner.
 - brenton: [missing]
 
 ### Daniel 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abiesdri kept taking away their dinner and their wine and kept giving them legumes.
 - brenton: [missing]
 
 ### Daniel 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to these young men Lord gave learning and understanding and prudence in every literary skill, and to Daniel he gave understanding in every word and vision and dream and in all wisdom.
 - brenton: [missing]
 
 ### Daniel 1:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after these days the king commanded them to be brought in, and they were brought by chief eunuch to king Nebuchadnezzar.
 - brenton: [missing]
 
 ### Daniel 1:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king spoke with them, and among the wise none was found like Daniel and Hananiah and Mishael and Azariah, and they were before the king.
 - brenton: [missing]
 
 ### Daniel 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in every matter of speech and understanding and training that the king asked from them, he found them ten times wiser than the sophists and philosophers in all his kingdom, and king honored them and appointed them rulers and set them above all his own in affairs throughout all his land and kingdom.
 - brenton: [missing]
 
 ### Daniel 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel remained until first year of reign of Cyrus king of Persians.
 - brenton: [missing]
 
 ### Daniel 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in second year of reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
 - brenton: [missing]
 
 ### Daniel 2:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king commanded that enchanters and magi and sorcerers of the Chaldeans be brought in to tell the king his dreams, and when they came they stood before the king.
 - brenton: [missing]
 
 ### Daniel 2:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said to them, I have seen a dream, and my spirit is stirred up; therefore I want to know the dream.
 - brenton: [missing]
 
 ### Daniel 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Chaldeans spoke to the king in Syriac, O lord king, live forever. Tell the dream to your servants, and we will tell its interpretation.
 - brenton: [missing]
 
 ### Daniel 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king answered and said to the Chaldeans, If you do not tell me truthfully the dream and make its interpretation clear to me, you will be made examples, and your possessions will be taken into the royal treasury.
 - brenton: [missing]
 
 ### Daniel 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you make the dream plain to me and tell its interpretation, you will receive all kinds of gifts and be honored by me. So tell me the dream and judge it.
 - brenton: [missing]
 
 ### Daniel 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they answered a second time, saying, King, tell the vision, and your servants will judge these things.
 - brenton: [missing]
 
 ### Daniel 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said to them, Truly I know that you are buying time, since you have seen that the matter has departed from me. So as I have commanded, so it will be.
 - brenton: [missing]
 
 ### Daniel 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you do not tell me truthfully the dream and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment.
 - brenton: [missing]
 
 ### Daniel 2:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Chaldeans answered the king, No one on earth can tell the king what he has seen, as you ask. No king or ruler has ever asked such a thing from any wise man or magus or Chaldean.
 - brenton: [missing]
 
 ### Daniel 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the word you seek, king, is heavy and notable, and no one can declare these things to the king, except perhaps an angel whose dwelling is not with all flesh. So it cannot happen as you think.
 - brenton: [missing]
 
 ### Daniel 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king became hateful and deeply grieved and ordered that all wise men of Babylonia be brought out.
 - brenton: [missing]
 
 ### Daniel 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And decree went out to kill them all, and Daniel and all with him were sought, that they might be destroyed together.
 - brenton: [missing]
 
 ### Daniel 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel spoke with counsel and judgment to Arioc, chief butcher of the king, the one appointed to bring out the sophists of Babylonia.
 - brenton: [missing]
 
 ### Daniel 2:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he asked him, saying, For what reason is decree issued so bitterly by the king? Then Arioc made the command known to Daniel.
 - brenton: [missing]
 
 ### Daniel 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel quickly entered to the king and asked that time be given him by the king, and he would declare everything before the king.
 - brenton: [missing]
 
 ### Daniel 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel went away to his house and showed everything to Hananiah and Mishael and Azariah, his companions.
 - brenton: [missing]
 
 ### Daniel 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he ordered fasting and petition and mercy to be sought from Lord Most High concerning this mystery, so that Daniel and those with him might not be given over to destruction together with sages of Babylon.
 - brenton: [missing]
 
 ### Daniel 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then to Daniel in a vision in that night mystery of the king was clearly revealed. Then Daniel blessed Lord Most High.
 - brenton: [missing]
 
 ### Daniel 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And crying aloud he said, Let name of the great Lord be blessed forever, because wisdom and greatness are his.
 - brenton: [missing]
 
 ### Daniel 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he changes times and seasons, removing kings and setting them up, giving wisdom to wise men and understanding to those who are in knowledge.
 - brenton: [missing]
 
 ### Daniel 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Revealing the deep and dark things, and knowing what is in darkness; and with him is dwelling in light.
 - brenton: [missing]
 
 ### Daniel 2:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To you, Lord of my fathers, I give thanks and praise, because you gave me wisdom and understanding, and now you made known to me what I asked, to declare these things to the king.
 - brenton: [missing]
 
 ### Daniel 2:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel entered to Arioc, the one appointed by king to kill all sages of Babylon, and said to him, Do not destroy the sages of Babylon. Bring me in before the king, and I will declare each thing to the king.
 - brenton: [missing]
 
 ### Daniel 2:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Arioc hurriedly brought Daniel to the king and said to him, I found a wise man from captivity of sons of Judea who will declare each thing to the king.
 - brenton: [missing]
 
 ### Daniel 2:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king answered and said to Daniel, called in Chaldean Belteshazzar, Are you able to declare to me the vision I saw and its interpretation?
 - brenton: [missing]
 
 ### Daniel 2:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel cried out before the king and said, The mystery the king saw cannot be declared by wise men and sorcerers and enchanters and gazarenes.
 - brenton: [missing]
 
 ### Daniel 2:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But there is a God in heaven revealing mysteries, who made known to king Nebuchadnezzar what must happen in last days. King, live forever. The dream and vision of your head on your bed are these.
 - brenton: [missing]
 
 ### Daniel 2:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You, king, lying on your bed, saw all things that must happen in last days, and the one revealing mysteries made known to you what must happen.
 - brenton: [missing]
 
 ### Daniel 2:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as for me, this mystery was revealed not because of wisdom in me above all men, but so that it might be declared to the king; it was made known to me what you took up in your heart in knowledge.
 - brenton: [missing]
 
 ### Daniel 2:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, king, saw, and behold, one image. And that image was exceedingly great, and its appearance was surpassing; it stood before you, and appearance of the image was fearsome.
 - brenton: [missing]
 
 ### Daniel 2:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its head was of fine gold, its chest and arms silver, its belly and thighs bronze,
 - brenton: [missing]
 
 ### Daniel 2:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and its legs iron, and its feet partly iron and partly earthenware.
 - brenton: [missing]
 
 ### Daniel 2:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You were looking until a stone was cut from mountain without hands, and it struck the image on the iron and earthenware feet and crushed them.
 - brenton: [missing]
 
 ### Daniel 2:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then iron and earthenware and bronze and silver and gold alike became as fine as chaff on threshing floor, and wind scattered them so that nothing of them was left. And the stone that struck the image became a great mountain and struck all the earth.
 - brenton: [missing]
 
 ### Daniel 2:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is the vision, and we will tell its judgment before the king.
 - brenton: [missing]
 
 ### Daniel 2:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You, king, are king of kings, and to you Lord of heaven gave the rule and the kingdom and the strength and the honor and the glory.
 - brenton: [missing]
 
 ### Daniel 2:38
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In all inhabited world, among humans and wild beasts and birds of heaven and fish of sea, he gave them into your hands to rule all things. You are the golden head.
 - brenton: [missing]
 
 ### Daniel 2:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after you another kingdom will arise, less than yours, and a third kingdom, another, of bronze, which will rule all the earth.
 - brenton: [missing]
 
 ### Daniel 2:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And a fourth kingdom, strong like iron, that subdues all things and cuts down every tree, and all the earth will be shaken.
 - brenton: [missing]
 
 ### Daniel 2:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as you saw its feet, partly pottery of clay and partly iron, another kingdom will be divided in it, just as you saw the iron mixed with clay pottery.
 - brenton: [missing]
 
 ### Daniel 2:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And toes of the feet, partly iron and partly earthenware: part of the kingdom will be strong, and part will be broken.
 - brenton: [missing]
 
 ### Daniel 2:43
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as you saw the iron mixed with clay pottery, they will be mixed into human generation, but they will not be of one mind nor favor one another, just as iron cannot be blended with pottery.
 - brenton: [missing]
 
 ### Daniel 2:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in days of those kings God of heaven will set up another kingdom that will last forever and will not be destroyed, and this kingdom will never be left to another nation. It will strike and destroy these kingdoms, and it will stand forever.
 - brenton: [missing]
 
 ### Daniel 2:45
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Just as you saw a stone cut from mountain without hands, and it crushed the pottery, the iron, the bronze, the silver, and the gold, great God made known to the king things that will happen in last days, and the vision is exact and its judgment is faithful.
 - brenton: [missing]
 
 ### Daniel 2:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king Nebuchadnezzar fell on his face to the ground and worshiped Daniel, and ordered sacrifices and libations to be made to him.
 - brenton: [missing]
 
 ### Daniel 2:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king cried out to Daniel and said, Truly your God is God of gods and Lord of kings, the one alone revealing hidden mysteries, because you were able to declare this mystery.
 - brenton: [missing]
 
 ### Daniel 2:48
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over affairs of Babylonia and designated him chief and ruler of all sages of Babylon.
 - brenton: [missing]
 
 ### Daniel 2:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over affairs of Babylonia, and Daniel remained in royal court.
 - brenton: [missing]
 
 ### Daniel 3:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in plain of the enclosure of land of Babylonia.
 - brenton: [missing]
 
 ### Daniel 3:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Nebuchadnezzar, king of kings and ruler of all inhabited world, sent to gather all nations and tribes and languages, satraps, generals, governors, consuls, administrators, those in authority over each land, and all throughout the inhabited world, to come to dedication of the golden image that Nebuchadnezzar the king had set up.
 - brenton: [missing]
 
 ### Daniel 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those previously listed stood opposite the image.
 - brenton: [missing]
 
 ### Daniel 3:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the herald proclaimed to the crowds, To you it is commanded, nations and lands, peoples and languages:
 - brenton: [missing]
 
 ### Daniel 3:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when you hear sound of trumpet, pipe, lyre, sambuca, psaltery, symphony, and every kind of instrument, falling down, worship the golden image that king Nebuchadnezzar set up.
 - brenton: [missing]
 
 ### Daniel 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And whoever does not fall down and worship, they will throw him into the burning furnace of fire.
 - brenton: [missing]
 
 ### Daniel 3:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at that time, when all the nations heard sound of trumpet and every sound of instruments, all nations, tribes, and languages fell down and worshiped the golden image that Nebuchadnezzar had set up opposite them.
 - brenton: [missing]
 
 ### Daniel 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time certain Chaldean men came forward and accused the Judeans.
 - brenton: [missing]
 
 ### Daniel 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up speech they said, O king, live forever.
 - brenton: [missing]
 
 ### Daniel 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You, king, commanded and decreed that every person who hears sound of trumpet and every sound of instruments should fall down and worship the golden image,
 - brenton: [missing]
 
 ### Daniel 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and whoever does not fall down and worship will be thrown into the burning furnace of fire.
 - brenton: [missing]
 
 ### Daniel 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But there are certain Judean men whom you appointed over land of Babylonia, Shadrach, Meshach, and Abednego. Those men did not fear your command, and they did not serve your idol, and they did not worship your golden image that you set up.
 - brenton: [missing]
 
 ### Daniel 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Nebuchadnezzar in wrath and anger ordered that Shadrach, Meshach, and Abednego be brought. Then those men were brought before the king.
 - brenton: [missing]
 
 ### Daniel 3:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when king Nebuchadnezzar saw them he said to them, Why, Shadrach, Meshach, and Abednego, do you not serve my gods and do not worship the golden image that I set up?
 - brenton: [missing]
 
 ### Daniel 3:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, if you are ready, when you hear the trumpet and every sound of instruments, to fall down and worship the golden image that I set up; but if not, know that if you do not worship, immediately you will be thrown into the burning furnace of fire, and what god will deliver you from my hands?
 - brenton: [missing]
 
 ### Daniel 3:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Shadrach, Meshach, and Abednego answered and said to king Nebuchadnezzar, King, we have no need to answer you about this command.
 - brenton: [missing]
 
 ### Daniel 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For there is God in heavens, our one Lord whom we fear, and he is able to deliver us from furnace of fire and from your hands, king; he will deliver us.
 - brenton: [missing]
 
 ### Daniel 3:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And then it will be plain to you that we do not serve your idol and do not worship your golden image that you set up.
 - brenton: [missing]
