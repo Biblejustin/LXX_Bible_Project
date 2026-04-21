@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 16112
-- medium: 1557
-- low: 5248
+- high: 16292
+- medium: 1523
+- low: 5102
 - none: 0
 
 Note:
@@ -143988,1620 +143988,1620 @@ Note:
 
 ### Psalms 126:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man who will fill his desire from them; they will not be shamed when they speak with their enemies in gate.
 - brenton: [missing]
 
 ### Psalms 127:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Blessed all fearing Lord, those walking in his ways.
 - brenton: [missing]
 
 ### Psalms 127:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Labors of your fruits you will eat; blessed you, and well for you.
 - brenton: [missing]
 
 ### Psalms 127:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your wife like vine flourishing in recesses of your house; your sons like olive shoots around your table.
 - brenton: [missing]
 
 ### Psalms 127:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, thus man fearing Lord will be blessed.
 - brenton: [missing]
 
 ### Psalms 127:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May Lord bless you from Zion, and may you see good things of Jerusalem all days of your life.
 - brenton: [missing]
 
 ### Psalms 127:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And may you see sons of your sons. Peace upon Israel.
 - brenton: [missing]
 
 ### Psalms 128:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Many times they warred against me from my youth; let Israel say now.
 - brenton: [missing]
 
 ### Psalms 128:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many times they warred against me from my youth, yet indeed they were not able against me.
 - brenton: [missing]
 
 ### Psalms 128:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On my back sinners built; they lengthened their lawlessness.
 - brenton: [missing]
 
 ### Psalms 128:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord righteous cut necks of sinners.
 - brenton: [missing]
 
 ### Psalms 128:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all hating Zion be shamed and turned backward.
 - brenton: [missing]
 
 ### Psalms 128:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them become like grass of housetops, which before being pulled up dried up.
 - brenton: [missing]
 
 ### Psalms 128:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With which reaper did not fill his hand, nor gatherer of sheaves his bosom.
 - brenton: [missing]
 
 ### Psalms 128:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And passersby did not say, "Blessing of Lord upon you; we blessed you in name of Lord."
 - brenton: [missing]
 
 ### Psalms 129:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Out of depths I cried to you, Lord.
 - brenton: [missing]
 
 ### Psalms 129:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, hear my voice; let your ears attend to voice of my supplication.
 - brenton: [missing]
 
 ### Psalms 129:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you should watch lawless deeds, Lord, Lord, who will stand?
 - brenton: [missing]
 
 ### Psalms 129:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because with you propitiation.
 - brenton: [missing]
 
 ### Psalms 129:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sake of your law I waited for you, Lord; my soul waited for your word.
 - brenton: [missing]
 
 ### Psalms 129:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul hoped in Lord from morning watch until night; from morning watch let Israel hope in Lord.
 - brenton: [missing]
 
 ### Psalms 129:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because with Lord mercy, and much redemption with him.
 - brenton: [missing]
 
 ### Psalms 129:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will redeem Israel from all his lawless deeds.
 - brenton: [missing]
 
 ### Psalms 130:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Of David. Lord, my heart not exalted, nor my eyes raised high, nor I walked in great things nor in marvels beyond me.
 - brenton: [missing]
 
 ### Psalms 130:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If not, I was humble-minded, but I lifted my soul like child weaned against its mother, like recompense upon my soul.
 - brenton: [missing]
 
 ### Psalms 130:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let Israel hope in Lord from now and until age.
 - brenton: [missing]
 
 ### Psalms 131:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Remember, Lord, David and all his gentleness.
 - brenton: [missing]
 
 ### Psalms 131:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How he swore to Lord, vowed to God of Jacob.
 - brenton: [missing]
 
 ### Psalms 131:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I enter tent of my house, if I go up upon bed of my couch,
 - brenton: [missing]
 
 ### Psalms 131:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if I give sleep to my eyes and slumber to my eyelids and rest to my temples,
 - brenton: [missing]
 
 ### Psalms 131:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until I find place for Lord, tabernacle for God of Jacob.
 - brenton: [missing]
 
 ### Psalms 131:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, we heard of it in Ephratha; we found it in fields of the wood.
 - brenton: [missing]
 
 ### Psalms 131:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We will enter his tabernacles; we will worship at place where his feet stood.
 - brenton: [missing]
 
 ### Psalms 131:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, Lord, into your rest, you and ark of your holiness.
 - brenton: [missing]
 
 ### Psalms 131:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your priests will clothe themselves with righteousness, and your holy ones will exult.
 - brenton: [missing]
 
 ### Psalms 131:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sake of David your servant, do not turn away face of your anointed.
 - brenton: [missing]
 
 ### Psalms 131:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord swore truth to David, and he will not set it aside: from fruit of your belly I will set upon your throne.
 - brenton: [missing]
 
 ### Psalms 131:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If your sons keep my covenant and these testimonies that I will teach them, their sons also forever will sit upon your throne.
 - brenton: [missing]
 
 ### Psalms 131:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord chose Zion; he chose her for dwelling to himself.
 - brenton: [missing]
 
 ### Psalms 131:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This my resting-place forever and ever; here I will dwell, because I chose her.
 - brenton: [missing]
 
 ### Psalms 131:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her provision blessing I will bless; her poor I will satisfy with breads.
 - brenton: [missing]
 
 ### Psalms 131:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her priests I will clothe with salvation, and her holy ones with exultation will exult.
 - brenton: [missing]
 
 ### Psalms 131:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There I will cause horn to spring up for David; I prepared lamp for my anointed.
 - brenton: [missing]
 
 ### Psalms 131:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His enemies I will clothe with shame, but upon him my holiness will flower.
 - brenton: [missing]
 
 ### Psalms 132:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Of David. Behold now, what good or what pleasant, but brothers dwelling together.
 - brenton: [missing]
 
 ### Psalms 132:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like oil upon head, descending upon beard, beard of Aaron, descending upon hem of his garment.
 - brenton: [missing]
 
 ### Psalms 132:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like dew of Hermon descending upon mountains of Zion, because there Lord commanded blessing and life until age.
 - brenton: [missing]
 
 ### Psalms 133:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of ascents. Behold now, bless Lord, all servants of Lord, standing in house of Lord, in courts of house of our God.
 - brenton: [missing]
 
 ### Psalms 133:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In nights lift your hands to holy things and bless Lord.
 - brenton: [missing]
 
 ### Psalms 133:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord bless you from Zion, maker of heaven and earth.
 - brenton: [missing]
 
 ### Psalms 134:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Praise name of Lord; praise Lord, servants.
 - brenton: [missing]
 
 ### Psalms 134:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those standing in house of Lord, in courts of house of our God.
 - brenton: [missing]
 
 ### Psalms 134:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise Lord, because Lord good; sing psalms to his name, because good.
 - brenton: [missing]
 
 ### Psalms 134:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord chose Jacob for himself, Israel for his special possession.
 - brenton: [missing]
 
 ### Psalms 134:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I knew Lord great, and our Lord beyond all gods.
 - brenton: [missing]
 
 ### Psalms 134:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All that Lord wanted he did in heaven and on earth, in seas and in all deeps.
 - brenton: [missing]
 
 ### Psalms 134:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Raising clouds from ends of earth, he made lightnings for rain, bringing winds from his treasuries.
 - brenton: [missing]
 
 ### Psalms 134:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who struck firstborn of Egypt, from man to beast.
 - brenton: [missing]
 
 ### Psalms 134:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent signs and wonders into your midst, Egypt, against Pharaoh and all his servants.
 - brenton: [missing]
 
 ### Psalms 134:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who struck many nations and killed mighty kings.
 - brenton: [missing]
 
 ### Psalms 134:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sihon king of Amorites and Og king of Bashan and all kingdoms of Canaan.
 - brenton: [missing]
 
 ### Psalms 134:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gave their land inheritance, inheritance to Israel his people.
 - brenton: [missing]
 
 ### Psalms 134:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, your name forever; Lord, your memorial from generation to generation.
 - brenton: [missing]
 
 ### Psalms 134:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord will judge his people and over his servants he will be comforted.
 - brenton: [missing]
 
 ### Psalms 134:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Idols of nations silver and gold, works of hands of men.
 - brenton: [missing]
 
 ### Psalms 134:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mouths they have and will not speak; eyes they have and will not see.
 - brenton: [missing]
 
 ### Psalms 134:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ears they have and will not hear; noses they have and will not smell; hands they have and will not feel; feet they have and will not walk; no sound in their throat, for no spirit in their mouth.
 - brenton: [missing]
 
 ### Psalms 134:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like them may those making them become, and all trusting in them.
 - brenton: [missing]
 
 ### Psalms 134:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of Israel, bless Lord; house of Aaron, bless Lord.
 - brenton: [missing]
 
 ### Psalms 134:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of Levi, bless Lord; those fearing Lord, bless Lord.
 - brenton: [missing]
 
 ### Psalms 134:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord from Zion, one dwelling in Jerusalem.
 - brenton: [missing]
 
 ### Psalms 135:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Give thanks to Lord, because kind, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give thanks to God of gods, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give thanks to Lord of lords, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one doing great wonders alone, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one making heavens in understanding, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one establishing earth upon waters, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one making great lights alone, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun for authority of day, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moon and stars for authority of night, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one striking Egypt with their firstborn, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And bringing Israel out from their midst, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With strong hand and with high arm, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one cutting Red Sea into divisions, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And leading Israel through its midst, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And shaking off Pharaoh and his force into Red Sea, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one leading his people through wilderness, because his mercy forever; to one bringing water from sheer rock, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one striking great kings, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And killing mighty kings, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sihon king of Amorites, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Og king of Bashan, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And giving their land inheritance, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Inheritance to Israel his servant, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in our humiliation Lord remembered us, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And redeemed us from our enemies, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One giving food to all flesh, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 135:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give thanks to God of heaven, because his mercy forever. Give thanks to Lord of lords, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 136:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. By rivers of Babylon, there we sat and wept when remembering Zion.
 - brenton: [missing]
 
 ### Psalms 136:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On willows in midst of it we hung our instruments.
 - brenton: [missing]
 
 ### Psalms 136:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there those taking us captive asked us for words of songs, and those carrying us away asked hymn: "Sing us from songs of Zion."
 - brenton: [missing]
 
 ### Psalms 136:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How should we sing song of Lord on foreign land?
 - brenton: [missing]
 
 ### Psalms 136:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I forget you, Jerusalem, let my right hand be forgotten.
 - brenton: [missing]
 
 ### Psalms 136:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my tongue cling to my throat if I do not remember you, if I do not set Jerusalem first at beginning of my gladness.
 - brenton: [missing]
 
 ### Psalms 136:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember, Lord, sons of Edom in day of Jerusalem, those saying, "Empty it, empty it, down to its foundation."
 - brenton: [missing]
 
 ### Psalms 136:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughter of Babylon, wretched one, blessed who will repay you repayment that you repaid to us.
 - brenton: [missing]
 
 ### Psalms 136:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed who will seize and dash your infants against rock.
 - brenton: [missing]
 
 ### Psalms 137:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. I will give thanks to you, Lord, with whole heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
 - brenton: [missing]
 
 ### Psalms 137:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will worship toward your holy temple and give thanks to your name for your mercy and your truth, because you magnified your saying above every name.
 - brenton: [missing]
 
 ### Psalms 137:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In whatever day I call on you, quickly hear me; with power in my soul you will greatly strengthen me.
 - brenton: [missing]
 
 ### Psalms 137:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all kings of earth give thanks to you, Lord, because they heard all sayings of your mouth.
 - brenton: [missing]
 
 ### Psalms 137:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let them sing in ways of Lord, because great glory of Lord.
 - brenton: [missing]
 
 ### Psalms 137:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord high and looks upon humble things, and high things he knows from far away.
 - brenton: [missing]
 
 ### Psalms 137:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I walk in midst of affliction, you will make me live; against anger of my enemies you stretched out your hand, and your right hand saved me.
 - brenton: [missing]
 
 ### Psalms 137:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will repay on my behalf; Lord, your mercy forever. Works of your hands do not disregard.
 - brenton: [missing]
 
 ### Psalms 138:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David. Lord, you tested me and knew me.
 - brenton: [missing]
 
 ### Psalms 138:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You knew my sitting down and my rising up; you understood my thoughts from far away.
 - brenton: [missing]
 
 ### Psalms 138:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My path and my measuring line you traced out, and all my ways you foresaw.
 - brenton: [missing]
 
 ### Psalms 138:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because no word on my tongue—
 - brenton: [missing]
 
 ### Psalms 138:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: behold, Lord, you knew all last things and first things; you formed me and laid your hand upon me.
 - brenton: [missing]
 
 ### Psalms 138:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your knowledge made wondrous beyond me; it grew strong; I will not be able toward it.
 - brenton: [missing]
 
 ### Psalms 138:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where should I go from your spirit, and where should I flee from your face?
 - brenton: [missing]
 
 ### Psalms 138:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I go up into heaven, you there; if I go down into Hades, present.
 - brenton: [missing]
 
 ### Psalms 138:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I take up my wings at dawn and dwell in uttermost parts of sea,
 - brenton: [missing]
 
 ### Psalms 138:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: even there your hand will guide me and your right hand will hold me fast.
 - brenton: [missing]
 
 ### Psalms 138:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, "Then darkness will trample me," yet night illumination in my delight.
 - brenton: [missing]
 
 ### Psalms 138:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because darkness will not be darkened from you, and night will be lit as day; as its darkness, so also its light.
 - brenton: [missing]
 
 ### Psalms 138:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you acquired my inward parts, Lord; you took hold of me from my mother's womb.
 - brenton: [missing]
 
 ### Psalms 138:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will give thanks to you because fearfully I was made wondrous; wondrous your works, and my soul knows very much.
 - brenton: [missing]
 
 ### Psalms 138:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My bone not hidden from you, which you made in secret, and my substance in lowest parts of earth.
 - brenton: [missing]
 
 ### Psalms 138:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your eyes saw my unformed thing, and in your book all will be written; days will be formed, and no one among them.
 - brenton: [missing]
 
 ### Psalms 138:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To me your friends, God, were greatly honored; their chief ones grew very strong.
 - brenton: [missing]
 
 ### Psalms 138:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will number them, and beyond sand they will multiply; I awoke, and still I am with you.
 - brenton: [missing]
 
 ### Psalms 138:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If only you would kill sinners, God; men of blood, turn aside from me.
 - brenton: [missing]
 
 ### Psalms 138:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they speak of you for scheming; they will take your cities in vain.
 - brenton: [missing]
 
 ### Psalms 138:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did I not hate those hating you, Lord, and waste away over your enemies?
 - brenton: [missing]
 
 ### Psalms 138:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With perfect hatred I hated them; they became enemies to me.
 - brenton: [missing]
 
 ### Psalms 138:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Test me, God, and know my heart; examine me and know my paths.
 - brenton: [missing]
 
 ### Psalms 138:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And see if way of lawlessness in me, and guide me in age-lasting way.
 - brenton: [missing]
 
 ### Psalms 139:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 139:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me, Lord, from evil man; from unjust man deliver me.
 - brenton: [missing]
 
 ### Psalms 139:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who devised injustices in heart; whole day they arrayed wars.
 - brenton: [missing]
 
 ### Psalms 139:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They sharpened their tongue like serpent; venom of asps under their lips. Selah.
 - brenton: [missing]
 
 ### Psalms 139:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guard me, Lord, from hand of sinner; from unjust men deliver me, who devised to trip my steps.
 - brenton: [missing]
 
 ### Psalms 139:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Proud ones hid snare for me and stretched ropes; traps for my feet, beside path they set stumbling block for me. Selah.
 - brenton: [missing]
 
 ### Psalms 139:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said to Lord, "My God you." Give ear, Lord, to voice of my supplication.
 - brenton: [missing]
 
 ### Psalms 139:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, Lord, strength of my salvation, you overshadowed over my head in day of war.
 - brenton: [missing]
 
 ### Psalms 139:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not give me over, Lord, from my desire to sinner; they schemed against me; do not abandon me, lest they be exalted. Selah.
 - brenton: [missing]
 
 ### Psalms 139:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Head of their encirclement—labor of their lips will cover them.
 - brenton: [missing]
 
 ### Psalms 139:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Coals will fall upon them; in fire you will cast them down, in miseries they will not withstand.
 - brenton: [missing]
 
 ### Psalms 139:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tongue-man will not be directed on earth; evil will hunt unjust man into destruction.
 - brenton: [missing]
 
 ### Psalms 139:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I knew Lord will do judgment of poor one and justice of needy.
 - brenton: [missing]
 
 ### Psalms 139:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet righteous will give thanks to your name, and upright will dwell with your face.
 - brenton: [missing]
 
 ### Psalms 140:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David. Lord, I cried to you; hear me. Attend to voice of my supplication when I cry to you.
 - brenton: [missing]
 
 ### Psalms 140:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my prayer be set straight as incense before you, lifting up of my hands evening sacrifice.
 - brenton: [missing]
 
 ### Psalms 140:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Set guard, Lord, for my mouth, and door of enclosure around my lips.
 - brenton: [missing]
 
 ### Psalms 140:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not incline my heart to words of evil, to make excuses of excuses in sins with men working lawlessness, and I will not join with their chosen ones.
 - brenton: [missing]
 
 ### Psalms 140:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteous will instruct me in mercy and reprove me, but oil of sinner may it not fatten my head; because still my prayer against their pleasures.
 - brenton: [missing]
 
 ### Psalms 140:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their judges were swallowed up beside rock; they will hear my words because they were pleasant.
 - brenton: [missing]
 
 ### Psalms 140:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like thickness of earth broken up upon ground, our bones were scattered beside Hades.
 - brenton: [missing]
 
 ### Psalms 140:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because toward you, Lord, Lord, my eyes; in you I hoped; do not take away my soul.
 - brenton: [missing]
 
 ### Psalms 140:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guard me from snare they set together for me and from stumbling blocks of workers of lawlessness.
 - brenton: [missing]
 
 ### Psalms 140:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sinners will fall in his net; alone I am until I pass by.
 - brenton: [missing]
 
 ### Psalms 141:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of understanding. Of David, when he was in cave. Prayer.
 - brenton: [missing]
 
 ### Psalms 141:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With my voice to Lord I cried; with my voice to Lord I made supplication.
 - brenton: [missing]
 
 ### Psalms 141:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I pour out before him my supplication; my affliction before him I declare.
 - brenton: [missing]
 
 ### Psalms 141:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When my spirit was failing from me, then you knew my paths. In this way where I walked, they hid snare for me.
 - brenton: [missing]
 
 ### Psalms 141:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was looking to right and watching, and there was none knowing me; flight perished from me, and none seeking my soul.
 - brenton: [missing]
 
 ### Psalms 141:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I cried to you, Lord; I said, "You my hope, my portion in land of living."
 - brenton: [missing]
 
 ### Psalms 141:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Attend to my supplication, because I was greatly humbled; rescue me from those pursuing me, because they grew stronger than I.
 - brenton: [missing]
 
 ### Psalms 141:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring my soul out from prison to give thanks to your name, Lord. Righteous will wait for me until you repay me.
 - brenton: [missing]
 
 ### Psalms 142:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David, when son pursued him. Lord, hear my prayer; give ear to my supplication in your truth; hear me in your righteousness.
 - brenton: [missing]
 
 ### Psalms 142:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not enter into judgment with your servant, because no living one will be justified before you.
 - brenton: [missing]
 
 ### Psalms 142:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because enemy pursued my soul; he humbled my life to earth; he seated me in dark places like dead of age.
 - brenton: [missing]
 
 ### Psalms 142:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my spirit grew weary upon me; within me my heart troubled.
 - brenton: [missing]
 
 ### Psalms 142:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I remembered ancient days and meditated on all your works; in works of your hands I kept meditating.
 - brenton: [missing]
 
 ### Psalms 142:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I spread out my hands to you; my soul as waterless land to you. Selah.
 - brenton: [missing]
 
 ### Psalms 142:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Quickly hear me, Lord; my spirit failed. Do not turn away your face from me, and I will be likened to those going down into pit.
 - brenton: [missing]
 
 ### Psalms 142:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make your mercy heard to me in morning, because on you I hoped. Make known to me, Lord, way in which I should walk, because to you I lifted my soul.
 - brenton: [missing]
 
 ### Psalms 142:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me from my enemies, Lord, because to you I fled.
 - brenton: [missing]
 
 ### Psalms 142:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Teach me to do your will, because you my God. Your good spirit will guide me in straight land.
 - brenton: [missing]
