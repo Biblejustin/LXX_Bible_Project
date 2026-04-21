@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 22232
-- medium: 131
-- low: 554
+- high: 22412
+- medium: 102
+- low: 403
 - none: 0
 
 Note:
@@ -199639,9 +199639,9 @@ Note:
 
 ### Amos 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will trumpet sound in a city and people not be frightened? Will there be evil in a city that Lord has not done?
 - brenton: [missing]
@@ -199657,180 +199657,180 @@ Note:
 
 ### Amos 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lion will roar, and who will not fear? Lord God has spoken, and who will not prophesy?
 - brenton: [missing]
 
 ### Amos 3:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in midst of her and oppression in her.
 - brenton: [missing]
 
 ### Amos 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not know what will be before her, says Lord, those storing up injustice and misery in their lands.
 - brenton: [missing]
 
 ### Amos 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord God: Tyre, all around your land will be made desolate, and he will bring down your strength from you, and your lands will be plundered.
 - brenton: [missing]
 
 ### Amos 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Just as shepherd snatches from lion's mouth two legs or tip of an ear, so sons of Israel dwelling in Samaria will be snatched away, opposite tribe and in Damascus priests.
 - brenton: [missing]
 
 ### Amos 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear and testify to house of Jacob, says Lord God Almighty.
 - brenton: [missing]
 
 ### Amos 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in day when I avenge impieties of Israel upon him, I will also avenge upon altars of Bethel, and horns of altar will be dug down and fall upon the earth.
 - brenton: [missing]
 
 ### Amos 3:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will pour together and strike winter house against summer house, and ivory houses will perish, and many other houses will be added, says Lord.
 - brenton: [missing]
 
 ### Amos 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear this word, cows of Bashan, those on mountain of Samaria, oppressing poor and trampling needy, saying to their lords, Give to us so that we may drink.
 - brenton: [missing]
 
 ### Amos 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and those with you they will throw into kindled cauldrons, fiery pestilences.
 - brenton: [missing]
 
 ### Amos 4:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will be brought out naked, each opposite the other, and you will be thrown onto mount Remman, says Lord God.
 - brenton: [missing]
 
 ### Amos 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enter Bethel and act lawlessly, and in Gilgal multiply impiety, and bring your sacrifices in the morning, your tithes on the third day.
 - brenton: [missing]
 
 ### Amos 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they read out law outside and called for confessions. Declare that sons of Israel loved these things, says Lord God.
 - brenton: [missing]
 
 ### Amos 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave you gnashing of teeth in all your cities and lack of breads in all your places, and you did not return to me, says Lord.
 - brenton: [missing]
 
 ### Amos 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I withheld rain from you three months before the harvest, and I will rain on one city, but on one city I will not rain; one part will be rained on, and the part where I do not rain will be dried up.
 - brenton: [missing]
 
 ### Amos 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And two and three cities will gather to one city to drink water and will never be filled, and you did not return to me, says Lord.
 - brenton: [missing]
 
 ### Amos 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I struck you with burning and blight; you multiplied your gardens, your vineyards and your fig trees and your olive trees, but the caterpillar devoured them, and not even thus did you return to me, says Lord.
 - brenton: [missing]
 
 ### Amos 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I sent death among you in way of Egypt and killed your young men by sword with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says Lord.
 - brenton: [missing]
 
 ### Amos 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I overthrew you as God overthrew Sodom and Gomorrah, and you became like a brand snatched from fire, and not even thus did you return to me, says Lord.
 - brenton: [missing]
 
 ### Amos 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus I will do to you, Israel. Yet because I will do thus to you, prepare to call on your God, Israel.
 - brenton: [missing]
@@ -199846,126 +199846,126 @@ Note:
 
 ### Amos 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear this word of Lord, this lament that I take up over you, house of Israel.
 - brenton: [missing]
 
 ### Amos 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Virgin of Israel has fallen; she will no longer continue to rise. She slipped upon her own land; there is no one to raise her up.
 - brenton: [missing]
 
 ### Amos 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord God: The city from which a thousand went out will have a hundred left, and from which a hundred went out will have ten left for house of Israel.
 - brenton: [missing]
 
 ### Amos 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord to house of Israel: Seek me and live.
 - brenton: [missing]
 
 ### Amos 5:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not seek Bethel, and do not enter Gilgal, and do not cross over to well of oath, because Gilgal, being led captive, will be led captive, and Bethel will be as though not existing.
 - brenton: [missing]
 
 ### Amos 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seek the Lord and live, lest house of Joseph blaze like fire and it devour him, and there will be no one to quench it for house of Israel.
 - brenton: [missing]
 
 ### Amos 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
 - brenton: [missing]
 
 ### Amos 5:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: making all things and transforming, turning shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; Lord God Almighty is his name,
 - brenton: [missing]
 
 ### Amos 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one dividing destruction upon strength and bringing misery upon fortress.
 - brenton: [missing]
 
 ### Amos 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They hated the one rebuking in gates, and they abhorred holy speech.
 - brenton: [missing]
 
 ### Amos 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, because you beat down poor and received choice gifts from them, you built polished houses and will never dwell in them; you planted desirable vineyards and will never drink wine from them.
 - brenton: [missing]
 
 ### Amos 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I knew your many impieties and your strong sins, trampling righteous one, taking exchanges, and turning poor aside in gates.
 - brenton: [missing]
 
 ### Amos 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore one understanding in that time will keep silent, because it is an evil time.
 - brenton: [missing]
 
 ### Amos 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seek good and not evil, so that you may live, and thus Lord God Almighty will be with you, as you said.
 - brenton: [missing]
@@ -199981,513 +199981,513 @@ Note:
 
 ### Amos 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord God Almighty: In all the squares mourning, and in all the roads it will be said, Alas, alas; farmer will be called into grief and mourning and into those knowing lament.
 - brenton: [missing]
 
 ### Amos 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in all roads mourning, because I will pass through your midst, says Lord.
 - brenton: [missing]
 
 ### Amos 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to those desiring day of Lord. Why is this day of Lord for you? It is darkness and not light,
 - brenton: [missing]
 
 ### Amos 5:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: just as when a man flees from lion and bear falls upon him, and he jumps into his house and presses his hands on the wall and serpent bites him.
 - brenton: [missing]
 
 ### Amos 5:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is not day of Lord darkness and not light, and gloom having no brightness?
 - brenton: [missing]
 
 ### Amos 5:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I hated, I rejected your feasts, and I will by no means smell your festivals.
 - brenton: [missing]
 
 ### Amos 5:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings.
 - brenton: [missing]
 
 ### Amos 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remove from me sound of your songs, and I will not hear melody of your instruments.
 - brenton: [missing]
 
 ### Amos 5:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And judgment will roll like water, and righteousness like an impassable torrent.
 - brenton: [missing]
 
 ### Amos 5:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did you bring me victims and sacrifices in wilderness forty years, house of Israel?
 - brenton: [missing]
 
 ### Amos 5:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you took up tent of Moloch and star of your god Rhaiphan, their images that you made for yourselves.
 - brenton: [missing]
 
 ### Amos 5:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will resettle you beyond Damascus, says Lord God Almighty is his name.
 - brenton: [missing]
 
 ### Amos 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to those despising Zion and trusting in mountain of Samaria. They gathered firstfruits of nations, and house of Israel entered to them.
 - brenton: [missing]
 
 ### Amos 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pass through all and see, and go from there into Emath Rabbah and go down from there into Gath of foreigners, strongest out of all these kingdoms. Are their borders greater than your borders?
 - brenton: [missing]
 
 ### Amos 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You coming into evil day, drawing near and touching false Sabbaths,
 - brenton: [missing]
 
 ### Amos 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from midst of cattle-stalls, sucklings,
 - brenton: [missing]
 
 ### Amos 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: clapping to sound of instruments, they reckoned themselves as established and not as fleeing,
 - brenton: [missing]
 
 ### Amos 6:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: drinking strained wine and anointing with first perfumes, and they suffered nothing over crushing of Joseph.
 - brenton: [missing]
 
 ### Amos 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore now they will be captives from beginning of rulers, and neighing of horses from Ephraim will be removed.
 - brenton: [missing]
 
 ### Amos 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord swore by himself: I abhor all arrogance of Jacob, and I hated his lands, and I will remove city with all inhabiting it.
 - brenton: [missing]
 
 ### Amos 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be if ten men are left in one house, they will die, and the rest left behind will remain.
 - brenton: [missing]
 
 ### Amos 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their household members will take them and force them to bring their bones out of house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because name of Lord must not be named.
 - brenton: [missing]
 
 ### Amos 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, Lord commands and will strike the great house with ruins and the small house with cracks.
 - brenton: [missing]
 
 ### Amos 6:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will horses run upon rocks? Will they be silent among females? Because you turned judgment into wrath and fruit of righteousness into bitterness.
 - brenton: [missing]
 
 ### Amos 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those rejoicing over nothing, those saying, Did we not acquire horns by our own strength?
 - brenton: [missing]
 
 ### Amos 6:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I am raising against you, house of Israel, a nation, and they will afflict you from entering into Emath and as far as torrent of the west.
 - brenton: [missing]
 
 ### Amos 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus Lord showed me, and behold, brood of locusts coming in the morning, and behold, one hopper, Gog the king.
 - brenton: [missing]
 
 ### Amos 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, if it completes devouring grass of the land, then I said, Lord Lord, be merciful. Who will raise Jacob, because he is small?
 - brenton: [missing]
 
 ### Amos 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Repent, Lord, over this, and this will not happen, says Lord.
 - brenton: [missing]
 
 ### Amos 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus Lord showed me, and behold, Lord called judgment in fire, and it devoured the great abyss and devoured the portion.
 - brenton: [missing]
 
 ### Amos 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Lord Lord, cease now. Who will raise Jacob, because he is small?
 - brenton: [missing]
 
 ### Amos 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Repent, Lord, over this, and this will never happen, says Lord.
 - brenton: [missing]
 
 ### Amos 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
 - brenton: [missing]
 
 ### Amos 7:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, What do you see, Amos? And I said, Adamant. And Lord said to me, Behold, I am setting adamant in midst of my people Israel; I will no longer continue to pass over him.
 - brenton: [missing]
 
 ### Amos 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And altars of laughter will be destroyed, and rites of Israel will be laid waste, and I will rise against house of Jeroboam with sword.
 - brenton: [missing]
 
 ### Amos 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in midst of house of Israel; the land cannot bear all his words.
 - brenton: [missing]
 
 ### Amos 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus Amos says: Jeroboam will end by sword, and Israel will surely be led captive from his land.
 - brenton: [missing]
 
 ### Amos 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Amaziah said to Amos, O seer, go, withdraw into land of Judah, and live there, and there you will prophesy.
 - brenton: [missing]
 
 ### Amos 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But in Bethel you must no longer continue to prophesy, because it is sanctuary of king and house of kingdom.
 - brenton: [missing]
 
 ### Amos 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Amos answered and said to Amaziah, I was not a prophet nor son of prophet, but I was a goatherd and one pricking sycamore figs.
 - brenton: [missing]
 
 ### Amos 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord took me from the sheep and said to me, Go, prophesy over my people Israel.
 - brenton: [missing]
 
 ### Amos 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now hear word of Lord. You say, Do not prophesy against Israel, and you must not raise tumult against house of Jacob.
 - brenton: [missing]
 
 ### Amos 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Your wife in the city will prostitute herself, and your sons and your daughters will fall by sword, and your land will be measured by line, and you will die in unclean land, and Israel will surely be led captive from his land.
 - brenton: [missing]
 
 ### Amos 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus Lord showed me, and behold, a vessel of birdlime.
 - brenton: [missing]
 
 ### Amos 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, What do you see, Amos? And I said, A vessel of birdlime. And Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
 - brenton: [missing]
 
 ### Amos 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And stalls of the temple will howl in that day, says Lord. Great is the fallen one in every place; I will cast silence.
 - brenton: [missing]
 
 ### Amos 8:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear these things, you who crush poor into morning and oppress needy from the land,
 - brenton: [missing]
 
 ### Amos 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, When will month pass and we will trade, and the Sabbaths and we will open treasuries, making the measure small and the weights large and making unjust scales,
 - brenton: [missing]
 
 ### Amos 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to buy poor for silver and humble one for sandals, and we will trade from every crop.
 - brenton: [missing]
 
 ### Amos 8:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord swears by arrogance of Jacob: Will he ever forget all your works for strife?
 - brenton: [missing]
 
 ### Amos 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And because of these things will not the land be shaken, and every inhabitant in it mourn, and its whole end rise like a river and descend like river of Egypt?
 - brenton: [missing]
 
 ### Amos 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says Lord God, sun will go down at noon and he will darken light upon earth in daytime.
 - brenton: [missing]
 
 ### Amos 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for beloved one and those with him like day of grief.
 - brenton: [missing]
 
 ### Amos 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, days are coming, says Lord, and I will send famine upon the land, not famine of bread nor thirst of water, but famine of hearing word of Lord.
 - brenton: [missing]
 
 ### Amos 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And waters will be shaken to sea, and from north to east they will run around seeking word of Lord and will never find it.
 - brenton: [missing]
 
 ### Amos 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day fair virgins and young men will fail in thirst.
 - brenton: [missing]
 
 ### Amos 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those swearing by propitiation of Samaria and saying, Your god lives, Dan, and your god lives, Beersheba, will fall and never rise again.
 - brenton: [missing]
@@ -200503,90 +200503,90 @@ Note:
 
 ### Amos 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If they dig down into Hades, from there my hand will pull them up, and if they go up into heaven, from there I will bring them down.
 - brenton: [missing]
 
 ### Amos 9:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If they hide on top of Carmel, from there I will search out and take them, and if they sink from before my eyes into depths of sea, there I will command the dragon and it will bite them.
 - brenton: [missing]
 
 ### Amos 9:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they go into captivity before face of their enemies, there I will command the sword and it will kill them, and I will set my eyes upon them for evils and not for good things.
 - brenton: [missing]
 
 ### Amos 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord, Lord God Almighty, touching the earth and shaking it, and all inhabiting it will mourn, and its whole end will rise like a river and descend like river of Egypt.
 - brenton: [missing]
 
 ### Amos 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of earth, Lord God Almighty is his name.
 - brenton: [missing]
 
 ### Amos 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Are you not to me like sons of Ethiopians, sons of Israel? says Lord. Did I not bring Israel up from land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
 - brenton: [missing]
 
 ### Amos 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, eyes of Lord God are upon kingdom of sinners, and I will remove it from face of the earth, except that I will not entirely remove house of Jacob, says Lord.
 - brenton: [missing]
 
 ### Amos 9:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I command and will winnow house of Israel among all nations just as it is winnowed in a sieve, and not a fragment will fall on the earth.
 - brenton: [missing]
 
 ### Amos 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All sinners of my people will end by sword, those saying, Evils will never come near us nor happen upon us.
 - brenton: [missing]
 
 ### Amos 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day I will raise up tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age,
 - brenton: [missing]
@@ -200602,27 +200602,27 @@ Note:
 
 ### Amos 9:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, days are coming, says Lord, and plowman will overtake harvest, and grape will become dark in sowing, and mountains will drip sweetness and all hills will be thickly planted together.
 - brenton: [missing]
 
 ### Amos 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will turn back captivity of my people Israel, and they will rebuild ruined cities and dwell in them and plant vineyards and drink their wine and plant gardens and eat their fruit.
 - brenton: [missing]
 
 ### Amos 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will plant them upon their land, and they will never again be pulled up from their land that I gave them, says Lord God Almighty.
 - brenton: [missing]
@@ -200640,45 +200640,45 @@ Note:
 
 ### Obadiah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I made you few among nations; you are greatly dishonored.
 - brenton: [missing]
 
 ### Obadiah 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
 - brenton: [missing]
 
 ### Obadiah 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you soar high like eagle and set your nest among stars, from there I will bring you down, says Lord.
 - brenton: [missing]
 
 ### Obadiah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If thieves entered to you, or robbers by night, where would you have been cast away? Would they not have stolen enough for themselves? And if grape-gatherers entered to you, would they not have left gleanings?
 - brenton: [missing]
 
 ### Obadiah 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How Esau was searched out and his hidden things seized.
 - brenton: [missing]
@@ -200703,54 +200703,54 @@ Note:
 
 ### Obadiah 1:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your warriors from Teman will be terrified, so that a man may be cut off from mount of Esau.
 - brenton: [missing]
 
 ### Obadiah 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of slaughter and impiety toward your brother Jacob, shame will cover you, and you will be cut off forever.
 - brenton: [missing]
 
 ### Obadiah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From day when you stood opposite, on day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
 - brenton: [missing]
 
 ### Obadiah 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not look on day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
 - brenton: [missing]
 
 ### Obadiah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not enter gates of my people in day of their pain, do not also look on their gathering in day of their ruin, and do not also join attack upon their strength in day of their destruction.
 - brenton: [missing]
 
 ### Obadiah 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not stand at their outlets to destroy their survivors, and do not imprison their fugitives in day of distress.
 - brenton: [missing]
@@ -200784,36 +200784,36 @@ Note:
 
 ### Obadiah 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of Jacob will be fire, house of Joseph flame, and house of Esau stubble; they will burn among them and devour them, and there will be no fire-bearer in house of Esau, because Lord spoke.
 - brenton: [missing]
 
 ### Obadiah 1:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those in Negeb will inherit mount of Esau, and those in Shephelah the foreigners; they will inherit mount of Ephraim and plain of Samaria, and Benjamin and Gilead.
 - brenton: [missing]
 
 ### Obadiah 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This beginning of exile belongs to sons of Israel: land of Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephratha; they will inherit cities of Negeb.
 - brenton: [missing]
 
 ### Obadiah 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescued men will go up from mount Zion to avenge mount of Esau, and kingdom will belong to Lord.
 - brenton: [missing]
@@ -200822,27 +200822,27 @@ Note:
 
 ### Jonah 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord came to Jonah son of Amathi, saying,
 - brenton: [missing]
 
 ### Jonah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, go to Nineveh, great city, and proclaim in it, because cry of its evil rose up to me.
 - brenton: [missing]
 
 ### Jonah 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah rose to flee to Tarshish from face of Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from face of Lord.
 - brenton: [missing]
@@ -200858,36 +200858,36 @@ Note:
 
 ### Jonah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sailors feared, and each cried to his god, and they threw ship's cargo into sea to lighten it from them. But Jonah had gone down into hold of ship and slept and snored.
 - brenton: [missing]
 
 ### Jonah 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shipmaster came to him and said, Why are you snoring? Rise, call on your god, so God may save us and we not perish.
 - brenton: [missing]
 
 ### Jonah 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each said to his neighbor, Come, let us cast lots and know for whose sake this evil is among us. They cast lots, and lot fell on Jonah.
 - brenton: [missing]
 
 ### Jonah 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They said to him, Tell us, for whose sake is this evil among us? What is your work? From where do you come? From what country and from what people are you?
 - brenton: [missing]
@@ -200903,36 +200903,36 @@ Note:
 
 ### Jonah 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Men feared with great fear and said to him, What is this you have done? For men knew he was fleeing from face of Lord, because he told them.
 - brenton: [missing]
 
 ### Jonah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They said to him, What should we do to you, so sea will quiet from us? Because sea kept going and stirred greater surge.
 - brenton: [missing]
 
 ### Jonah 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah said to them, Lift me and throw me into sea, and sea will quiet from you, because I know this great surge is upon you because of me.
 - brenton: [missing]
 
 ### Jonah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Men strained to turn back to land and were not able, because sea kept going and surging more against them.
 - brenton: [missing]
@@ -200948,27 +200948,27 @@ Note:
 
 ### Jonah 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They took Jonah and threw him into sea, and sea stood still from its tossing.
 - brenton: [missing]
 
 ### Jonah 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Men feared Lord with great fear, sacrificed sacrifice to Lord, and vowed vows.
 - brenton: [missing]
 
 ### Jonah 2:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord commanded a great sea-creature to swallow Jonah, and Jonah was in belly of sea-creature three days and three nights.
 - brenton: [missing]
@@ -200984,45 +200984,45 @@ Note:
 
 ### Jonah 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 - brenton: [missing]
 
 ### Jonah 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You cast me into depths, into heart of sea, and rivers encircled me. All your billows and waves passed over me.
 - brenton: [missing]
 
 ### Jonah 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, I am thrust away from your eyes. Shall I again add to look toward your holy temple?
 - brenton: [missing]
 
 ### Jonah 2:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Water poured around me up to soul. Abyss encircled me utterly. My head went down into clefts of mountains.
 - brenton: [missing]
 
 ### Jonah 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I went down into land whose bars are everlasting holds, yet may my life come up from corruption, Lord my God.
 - brenton: [missing]
@@ -201038,9 +201038,9 @@ Note:
 
 ### Jonah 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those keeping worthless and false things abandoned their mercy.
 - brenton: [missing]
@@ -201056,198 +201056,198 @@ Note:
 
 ### Jonah 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It was commanded to sea-creature, and it threw Jonah out on dry land.
 - brenton: [missing]
 
 ### Jonah 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord came to Jonah second time, saying,
 - brenton: [missing]
 
 ### Jonah 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, go to Nineveh, great city, and proclaim in it according to former proclamation that I spoke to you.
 - brenton: [missing]
 
 ### Jonah 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah rose and went to Nineveh, just as Lord spoke. Nineveh was a great city to God, like journey of three days.
 - brenton: [missing]
 
 ### Jonah 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah began to enter city, about journey of one day, and proclaimed and said, Yet three days and Nineveh will be overthrown.
 - brenton: [missing]
 
 ### Jonah 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Men of Nineveh believed God, proclaimed a fast, and put on sackcloth from greatest to least.
 - brenton: [missing]
 
 ### Jonah 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word reached king of Nineveh, and he rose from his throne, removed his robe from himself, clothed himself in sackcloth, and sat on ashes.
 - brenton: [missing]
 
 ### Jonah 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It was proclaimed and said in Nineveh by king and his nobles: Let neither people nor cattle nor oxen nor sheep taste anything; let them not graze and let them not drink water.
 - brenton: [missing]
 
 ### Jonah 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: People and cattle clothed themselves with sackcloth and cried intensely to God, and each turned from his evil way and from injustice in his hands, saying,
 - brenton: [missing]
 
 ### Jonah 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who knows if God will repent and turn from fury of his anger, and we will certainly not perish?
 - brenton: [missing]
 
 ### Jonah 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God saw their works, that they turned from their evil ways, and God repented of evil he had spoken to do to them, and he did not do it.
 - brenton: [missing]
 
 ### Jonah 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah was grieved with great grief and was confounded.
 - brenton: [missing]
 
 ### Jonah 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He prayed to Lord and said, O Lord, were not these my words while I was still in my land? Because of this I went ahead to flee to Tarshish, because I knew that you are merciful and compassionate, long-suffering and abundant in mercy, repenting over evils.
 - brenton: [missing]
 
 ### Jonah 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, Master Lord, take my life from me, because better for me to die than to live.
 - brenton: [missing]
 
 ### Jonah 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord said to Jonah, Are you greatly grieved?
 - brenton: [missing]
 
 ### Jonah 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jonah went out of city and sat opposite city. He made a shelter for himself there and sat under it in shade until he might see what would happen to city.
 - brenton: [missing]
 
 ### Jonah 4:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God commanded a bottle-gourd, and it grew over Jonah's head to be shade above his head, to shade him from his troubles. Jonah rejoiced over bottle-gourd with great joy.
 - brenton: [missing]
 
 ### Jonah 4:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God commanded a worm early next morning, and it struck bottle-gourd, and it dried up.
 - brenton: [missing]
 
 ### Jonah 4:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When sun rose, God commanded a scorching burning wind, and sun struck Jonah's head, and he grew fainthearted and gave up regarding his life and said, Better for me to die than to live.
 - brenton: [missing]
 
 ### Jonah 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God said to Jonah, Are you greatly grieved over bottle-gourd? He said, I am greatly grieved, even unto death.
 - brenton: [missing]
 
 ### Jonah 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord said, You spared bottle-gourd, over which you did not labor and did not raise, which came to be in a night and perished in a night.
 - brenton: [missing]
 
 ### Jonah 4:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I, shall I not spare Nineveh, great city, in which dwell more than twelve myriads of human beings who do not know their right hand or their left, and many cattle?
 - brenton: [missing]
@@ -201256,162 +201256,162 @@ Note:
 
 ### Micah 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - brenton: [missing]
 
 ### Micah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear words, peoples, and let earth and all in it pay attention, and Lord will be among you for witness, Lord from his holy house.
 - brenton: [missing]
 
 ### Micah 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, Lord goes out from his place and will come down and step upon heights of earth.
 - brenton: [missing]
 
 ### Micah 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And mountains will be shaken beneath him, and valleys will melt like wax before fire and like water carried down on slope.
 - brenton: [missing]
 
 ### Micah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these because of impiety of Jacob and because of sin of house of Israel. What is impiety of Jacob? Is it not Samaria? And what is sin of house of Judah? Is it not Jerusalem?
 - brenton: [missing]
 
 ### Micah 1:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make Samaria into hut of field-watchman and planting of vineyard, and I will tear her stones down into chasm and uncover her foundations.
 - brenton: [missing]
 
 ### Micah 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all her carved things they will cut down, and all her wages they will burn in fire, and all her idols I will make disappear, because from wages of prostitution she gathered them and from wages of prostitution she turned them back.
 - brenton: [missing]
 
 ### Micah 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this she will be cut and mourn; she will go barefoot and naked; she will make lament like dragons and mourning like daughters of sirens.
 - brenton: [missing]
 
 ### Micah 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because her plague overpowered, because it came as far as Judah and touched gate of my people, as far as Jerusalem.
 - brenton: [missing]
 
 ### Micah 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those in Gath, do not magnify yourselves. Those in Akeim, do not rebuild. In house of laughter, sprinkle earth over your laughter.
 - brenton: [missing]
 
 ### Micah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She dwelling well in her cities did not come out, dwelling in Sennaan, to mourn. House adjoining her will receive from you wound of pain.
 - brenton: [missing]
 
 ### Micah 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who began for good things, while dwelling in pains? Because evils came down from Lord upon gates of Jerusalem.
 - brenton: [missing]
 
 ### Micah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sound of chariots and riders, inhabitant of Lachish. She is beginning of sin to daughter of Zion, because impieties of Israel were found in you.
 - brenton: [missing]
 
 ### Micah 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore you will give those sent away as far as inheritance of Gath. Empty houses became emptiness to kings of Israel.
 - brenton: [missing]
 
 ### Micah 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until I bring heirs to you, inhabitant of Lachish. Glory of daughter of Israel will come as far as Odollam.
 - brenton: [missing]
 
 ### Micah 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shave and shear for your tender children; widen your widowhood like eagle, because they were taken captive from you.
 - brenton: [missing]
 
 ### Micah 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They became ones devising troubles and working evils on their beds; at dawn they completed them, because they did not lift their hands to God.
 - brenton: [missing]
 
 ### Micah 2:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they coveted fields and plundered orphans and oppressed houses and plundered a man and his house, a man and his inheritance.
 - brenton: [missing]
