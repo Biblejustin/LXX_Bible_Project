@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 14852
-- medium: 1801
-- low: 6264
+- high: 15032
+- medium: 1773
+- low: 6112
 - none: 0
 
 Note:
@@ -132621,1620 +132621,1620 @@ Note:
 
 ### Psalms 65:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who turns sea into dry land; in river they will pass through on foot; there we will rejoice in him,
 - brenton: [missing]
 
 ### Psalms 65:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one ruling in his dominion forever. His eyes look upon nations; those provoking must not exalt themselves. Interlude.
 - brenton: [missing]
 
 ### Psalms 65:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bless our God, nations, and make voice of his praise heard,
 - brenton: [missing]
 
 ### Psalms 65:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who set my soul into life and did not give my feet to shaking.
 - brenton: [missing]
 
 ### Psalms 65:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you tested us, O God; you purified us as silver is purified.
 - brenton: [missing]
 
 ### Psalms 65:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You brought us into snare; you laid afflictions upon our back.
 - brenton: [missing]
 
 ### Psalms 65:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made men ride upon our heads; we went through fire and water, and you brought us out into refreshment.
 - brenton: [missing]
 
 ### Psalms 65:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will enter into your house with whole burnt offerings; I will pay you my vows,
 - brenton: [missing]
 
 ### Psalms 65:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: which my lips uttered and my mouth spoke in my affliction.
 - brenton: [missing]
 
 ### Psalms 65:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fattened whole burnt offerings I will offer to you with incense and rams; I will offer oxen with he-goats. Interlude.
 - brenton: [missing]
 
 ### Psalms 65:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, hear, and I will tell, all fearing God, whatever he did for my soul.
 - brenton: [missing]
 
 ### Psalms 65:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To him with my mouth I cried, and I exalted under my tongue.
 - brenton: [missing]
 
 ### Psalms 65:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I saw injustice in my heart, let not Lord hear me.
 - brenton: [missing]
 
 ### Psalms 65:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore God heard me; he attended to voice of my supplication.
 - brenton: [missing]
 
 ### Psalms 65:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed God, who did not turn away my prayer and his mercy from me.
 - brenton: [missing]
 
 ### Psalms 66:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, in hymns. Psalm of song.
 - brenton: [missing]
 
 ### Psalms 66:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May God have compassion on us and bless us; may he make his face shine upon us. Interlude.
 - brenton: [missing]
 
 ### Psalms 66:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So as to know your way in earth, your salvation among all nations.
 - brenton: [missing]
 
 ### Psalms 66:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let peoples confess to you, O God; let all peoples confess to you.
 - brenton: [missing]
 
 ### Psalms 66:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let nations rejoice and exult, because you judge peoples in uprightness and will guide nations upon earth. Interlude.
 - brenton: [missing]
 
 ### Psalms 66:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let peoples confess to you, O God; let all peoples confess to you.
 - brenton: [missing]
 
 ### Psalms 66:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth gave her fruit; may God, our God, bless us.
 - brenton: [missing]
 
 ### Psalms 66:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May God bless us, and let all ends of earth fear him.
 - brenton: [missing]
 
 ### Psalms 67:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Of David. Psalm of song.
 - brenton: [missing]
 
 ### Psalms 67:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let God arise, and let his enemies be scattered, and let those hating him flee from before him.
 - brenton: [missing]
 
 ### Psalms 67:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As smoke fails, let them fail; as wax melts from face of fire, so let sinners perish from face of God.
 - brenton: [missing]
 
 ### Psalms 67:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But let righteous ones rejoice; let them exult before God; let them delight in gladness.
 - brenton: [missing]
 
 ### Psalms 67:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to God, make melody to his name; make way for one riding upon westlands. Lord his name, and exult before him; they will be troubled from before his face,
 - brenton: [missing]
 
 ### Psalms 67:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: father of orphans and judge of widows, God in his holy place.
 - brenton: [missing]
 
 ### Psalms 67:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God settles solitary ones in house, bringing out chained ones in manliness, likewise those provoking, those dwelling in tombs.
 - brenton: [missing]
 
 ### Psalms 67:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, when you go out before your people, when you pass through wilderness. Interlude.
 - brenton: [missing]
 
 ### Psalms 67:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth was shaken, for even heavens dripped from face of God, this Sinai, from face of God of Israel.
 - brenton: [missing]
 
 ### Psalms 67:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will set apart willing rain, O God, for your inheritance; and it grew weak, but you restored it.
 - brenton: [missing]
 
 ### Psalms 67:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your living creatures dwell in it; in your goodness you prepared for poor one, O God.
 - brenton: [missing]
 
 ### Psalms 67:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will give word to those bringing good news with much power.
 - brenton: [missing]
 
 ### Psalms 67:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: King of forces of beloved one, and in beauty of house to divide spoils.
 - brenton: [missing]
 
 ### Psalms 67:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you sleep between the lots, wings of dove silvered, and her back parts in green sheen of gold. Interlude.
 - brenton: [missing]
 
 ### Psalms 67:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When heavenly one scatters kings upon her, they will be snow-white in Zalmon.
 - brenton: [missing]
 
 ### Psalms 67:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountain of God, rich mountain; curdled mountain, rich mountain.
 - brenton: [missing]
 
 ### Psalms 67:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you suppose, curdled mountains, mountain in which God delighted to dwell? And indeed Lord will tabernacle to end.
 - brenton: [missing]
 
 ### Psalms 67:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Chariot of God ten-thousandfold, thousands prospering; Lord among them in Sinai, in holy place.
 - brenton: [missing]
 
 ### Psalms 67:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You went up on high, you led captivity captive; you received gifts in man, for even disobedient ones, for Lord God to dwell. Blessed.
 - brenton: [missing]
 
 ### Psalms 67:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord day by day; God of our salvations will make straight way for us. Interlude.
 - brenton: [missing]
 
 ### Psalms 67:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our God God of saving, and to Lord, Lord, exits of death.
 - brenton: [missing]
 
 ### Psalms 67:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But God will crush heads of his enemies, hairy crown of those going on in their trespasses.
 - brenton: [missing]
 
 ### Psalms 67:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord said, From Bashan I will turn back, I will turn back in depths of sea,
 - brenton: [missing]
 
 ### Psalms 67:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that your foot may be dipped in blood, tongue of your dogs from enemies, from him.
 - brenton: [missing]
 
 ### Psalms 67:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your goings were seen, O God, goings of my God, my king, in holy place.
 - brenton: [missing]
 
 ### Psalms 67:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Princes went before, close behind singers, in midst of young women beating tambourines.
 - brenton: [missing]
 
 ### Psalms 67:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In assemblies bless God, Lord, from springs of Israel.
 - brenton: [missing]
 
 ### Psalms 67:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There Benjamin, younger one, in ecstasy, princes of Judah, their leaders, princes of Zebulun, princes of Naphtali.
 - brenton: [missing]
 
 ### Psalms 67:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Command, O God, your strength; strengthen, O God, this which you worked for us.
 - brenton: [missing]
 
 ### Psalms 67:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From your temple over Jerusalem kings will bring gifts to you.
 - brenton: [missing]
 
 ### Psalms 67:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rebuke beasts of reed, gathering of bulls among calves of peoples, so as not to shut out those tested by silver. Scatter nations wanting wars.
 - brenton: [missing]
 
 ### Psalms 67:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Envoys will come from Egypt; Ethiopia will hasten her hand to God.
 - brenton: [missing]
 
 ### Psalms 67:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kingdoms of earth, sing to God; make melody to Lord. Interlude.
 - brenton: [missing]
 
 ### Psalms 67:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to God, to one riding on heaven of heaven toward east; behold, he will give to his voice voice of power.
 - brenton: [missing]
 
 ### Psalms 67:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give glory to God; over Israel his magnificence and his power in clouds.
 - brenton: [missing]
 
 ### Psalms 67:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wonderful God in his holy ones; God of Israel, he will give power and strengthening to his people. Blessed God.
 - brenton: [missing]
 
 ### Psalms 68:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning those to be changed. Of David.
 - brenton: [missing]
 
 ### Psalms 68:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Save me, O God, because waters came in as far as my soul.
 - brenton: [missing]
 
 ### Psalms 68:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was stuck in mud of deep, and no standing-place; I came into depths of sea, and storm sank me.
 - brenton: [missing]
 
 ### Psalms 68:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I grew weary crying; my throat grew hoarse; my eyes failed from hoping upon my God.
 - brenton: [missing]
 
 ### Psalms 68:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those hating me without cause multiplied beyond hairs of my head; my enemies, unjustly pursuing me, were strengthened. What I did not seize, then I was repaying.
 - brenton: [missing]
 
 ### Psalms 68:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, you knew my foolishness, and my trespasses were not hidden from you.
 - brenton: [missing]
 
 ### Psalms 68:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not those waiting for you be shamed because of me, Lord, Lord of hosts; let not those seeking you be disgraced because of me, God of Israel.
 - brenton: [missing]
 
 ### Psalms 68:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because for your sake I bore reproach; shame covered my face.
 - brenton: [missing]
 
 ### Psalms 68:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I became estranged to my brothers and foreign to sons of my mother,
 - brenton: [missing]
 
 ### Psalms 68:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because zeal of your house consumed me, and reproaches of those reproaching you fell upon me.
 - brenton: [missing]
 
 ### Psalms 68:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I bent my soul in fasting, and it became reproach to me.
 - brenton: [missing]
 
 ### Psalms 68:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I made my clothing sackcloth, and I became proverb to them.
 - brenton: [missing]
 
 ### Psalms 68:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those sitting in gate were talking against me, and those drinking wine were singing about me.
 - brenton: [missing]
 
 ### Psalms 68:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ### Psalms 68:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Save me from mire so that I may not be stuck; let me be delivered from those hating me and from depth of waters.
 - brenton: [missing]
 
 ### Psalms 68:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not storm of water sink me, nor let deep swallow me, nor let pit close its mouth over me.
 - brenton: [missing]
 
 ### Psalms 68:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, Lord, because your mercy kind; according to multitude of your compassions look upon me.
 - brenton: [missing]
 
 ### Psalms 68:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not turn your face away from your servant, because I am afflicted; quickly hear me.
 - brenton: [missing]
 
 ### Psalms 68:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Draw near to my soul and redeem it; because of my enemies rescue me.
 - brenton: [missing]
 
 ### Psalms 68:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you know my reproach and my shame and my dishonor; before you all afflicting me.
 - brenton: [missing]
 
 ### Psalms 68:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul expected reproach and misery, and I waited for one grieving with me, and there was none, and for comforters, and I found none.
 - brenton: [missing]
 
 ### Psalms 68:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they gave gall for my food, and in my thirst they gave me vinegar to drink.
 - brenton: [missing]
 
 ### Psalms 68:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let their table become snare before them, and retribution and stumbling-block.
 - brenton: [missing]
 
 ### Psalms 68:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let their eyes be darkened so as not to see, and bend down their back continually.
 - brenton: [missing]
 
 ### Psalms 68:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pour out your wrath upon them, and let fury of your anger overtake them.
 - brenton: [missing]
 
 ### Psalms 68:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let their homestead become desolate, and in their tents let there be none dwelling.
 - brenton: [missing]
 
 ### Psalms 68:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because one you struck, they themselves pursued, and to pain of your wounded ones they added.
 - brenton: [missing]
 
 ### Psalms 68:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Add lawlessness upon their lawlessness, and let them not enter into your righteousness.
 - brenton: [missing]
 
 ### Psalms 68:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them be blotted out from book of living, and with righteous let them not be written.
 - brenton: [missing]
 
 ### Psalms 68:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I poor and pained; salvation of your face, O God, took hold of me.
 - brenton: [missing]
 
 ### Psalms 68:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will praise name of God with song; I will magnify him with praise.
 - brenton: [missing]
 
 ### Psalms 68:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will please God beyond young bull bringing forth horns and hoofs.
 - brenton: [missing]
 
 ### Psalms 68:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let poor see and rejoice; seek God, and your soul will live.
 - brenton: [missing]
 
 ### Psalms 68:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord heard poor ones and did not despise his chained ones.
 - brenton: [missing]
 
 ### Psalms 68:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let heavens and earth praise him, sea and all creeping things in them,
 - brenton: [missing]
 
 ### Psalms 68:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because God will save Zion and cities of Judah will be built, and they will dwell there and inherit her.
 - brenton: [missing]
 
 ### Psalms 68:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seed of his servants will possess her, and those loving his name will dwell in her.
 - brenton: [missing]
 
 ### Psalms 69:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Of David, for remembrance.
 - brenton: [missing]
 
 ### Psalms 69:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord to save me. O God, attend to my help.
 - brenton: [missing]
 
 ### Psalms 69:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those seeking my soul be shamed and disgraced; let those wanting evils for me be turned back and shamed.
 - brenton: [missing]
 
 ### Psalms 69:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those saying to me, Good, good, be turned back immediately, being shamed.
 - brenton: [missing]
 
 ### Psalms 69:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all seeking you exult and rejoice in you, and let those loving your salvation say continually, Let God be magnified.
 - brenton: [missing]
 
 ### Psalms 69:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I poor and needy; O God, help me. My helper and deliverer you are, Lord; do not delay.
 - brenton: [missing]
 
 ### Psalms 70:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David, of sons of Jonadab, and of first captives. O God, on you I hoped; let me not be shamed forever.
 - brenton: [missing]
 
 ### Psalms 70:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your righteousness rescue me and deliver me; incline your ear to me and save me.
 - brenton: [missing]
 
 ### Psalms 70:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Become to me God defender and fortified place to save me, because you my firm place and refuge.
 - brenton: [missing]
 
 ### Psalms 70:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My God, rescue me from hand of sinner, from hand of law-breaking and unjust man.
 - brenton: [missing]
 
 ### Psalms 70:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you my endurance, Lord, Lord, my hope from my youth.
 - brenton: [missing]
 
 ### Psalms 70:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On you I was supported from womb; from belly of my mother you my protector; in you my hymn continually.
 - brenton: [missing]
 
 ### Psalms 70:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I became like wonder to many, and you strong helper.
 - brenton: [missing]
 
 ### Psalms 70:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my mouth be filled with praise, so that I may hymn your glory, all day your magnificence.
 - brenton: [missing]
 
 ### Psalms 70:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not cast me away in time of old age; when my strength fails, do not forsake me.
 - brenton: [missing]
 
 ### Psalms 70:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because my enemies spoke against me, and those watching my soul took counsel together,
 - brenton: [missing]
 
 ### Psalms 70:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, God forsook him; pursue and seize him, because there is no rescuer.
 - brenton: [missing]
 
 ### Psalms 70:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, do not be far from me; my God, attend to my help.
 - brenton: [missing]
 
 ### Psalms 70:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those slandering my soul be shamed and fail; let those seeking evils for me be clothed with shame and dishonor.
 - brenton: [missing]
 
 ### Psalms 70:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I will hope continually and will add upon all your praise.
 - brenton: [missing]
 
 ### Psalms 70:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My mouth will declare your righteousness, all day your salvation, because I did not know writings.
 - brenton: [missing]
 
 ### Psalms 70:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will go in by dominion of Lord, Lord; I will remember your righteousness, yours alone.
 - brenton: [missing]
 
 ### Psalms 70:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You taught me, O God, from my youth, and until now I declare your wonders.
 - brenton: [missing]
 
 ### Psalms 70:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And until old age and gray hair, O God, do not forsake me, until I declare your arm to every coming generation, your dominion and your righteousness,
 - brenton: [missing]
 
 ### Psalms 70:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, unto heights, what great things you did; O God, who like you?
 - brenton: [missing]
 
 ### Psalms 70:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How many afflictions, many and evil, you showed me; and turning back, you made me live, and from depths of earth again you brought me up.
 - brenton: [missing]
 
 ### Psalms 70:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You multiplied your greatness, and turning back you comforted me, and from depths of earth again you brought me up.
 - brenton: [missing]
 
 ### Psalms 70:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed I will confess to you with instrument of psalm your truth, O God; I will sing to you with lyre, Holy One of Israel.
 - brenton: [missing]
 
 ### Psalms 70:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My lips will exult when I sing to you, and my soul which you redeemed.
 - brenton: [missing]
 
 ### Psalms 70:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And still my tongue all day will meditate on your righteousness, when those seeking evils for me are shamed and disgraced.
 - brenton: [missing]
 
 ### Psalms 71:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of Solomon. O God, give your judgment to king and your righteousness to son of king,
 - brenton: [missing]
 
 ### Psalms 71:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to judge your people in righteousness and your poor ones in judgment.
 - brenton: [missing]
 
 ### Psalms 71:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let mountains take up peace for your people, and hills in righteousness.
 - brenton: [missing]
 
 ### Psalms 71:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will judge poor ones of people and save sons of needy ones and humble slanderer.
 - brenton: [missing]
 
 ### Psalms 71:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will continue along with sun and before moon for generations of generations.
 - brenton: [missing]
 
 ### Psalms 71:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will come down like rain upon fleece and like drops dripping upon earth.
 - brenton: [missing]
 
 ### Psalms 71:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteousness will rise in his days and abundance of peace until moon is removed.
 - brenton: [missing]
 
 ### Psalms 71:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will rule from sea to sea and from river to ends of inhabited world.
 - brenton: [missing]
 
 ### Psalms 71:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before him Ethiopians will fall, and his enemies will lick dust.
 - brenton: [missing]
 
 ### Psalms 71:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kings of Tarshish and islands will bring gifts; kings of Arabians and Saba will bring presents.
 - brenton: [missing]
 
 ### Psalms 71:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all kings will worship him; all nations will serve him.
 - brenton: [missing]
 
 ### Psalms 71:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he rescued poor man from hand of ruler and needy one to whom no helper existed.
 - brenton: [missing]
 
 ### Psalms 71:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will spare poor and needy and save souls of needy ones.
 - brenton: [missing]
 
 ### Psalms 71:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From usury and from injustice he will redeem their souls, and their name precious before him.
 - brenton: [missing]
 
 ### Psalms 71:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will live, and from gold of Arabia it will be given to him, and they will pray concerning him continually; all day they will bless him.
 - brenton: [missing]
 
 ### Psalms 71:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There will be support in earth on tops of mountains; his fruit will be lifted above Lebanon, and they will flower from city like grass of earth.
 - brenton: [missing]
 
 ### Psalms 71:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let his name be blessed forever; before sun his name remains, and in him all tribes of earth will be blessed; all nations will count him blessed.
 - brenton: [missing]
 
 ### Psalms 71:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord God, God of Israel, who alone does wonders.
 - brenton: [missing]
 
 ### Psalms 71:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And blessed name of his glory forever and forever of forever, and all earth will be filled with his glory. Amen, amen.
 - brenton: [missing]
 
 ### Psalms 71:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hymns of David son of Jesse came to end.
 - brenton: [missing]
 
 ### Psalms 72:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of Asaph. How good God to Israel, to those straight in heart.
 - brenton: [missing]
 
 ### Psalms 72:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But as for me, my feet were almost shaken; my steps all but poured out.
 - brenton: [missing]
 
 ### Psalms 72:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I was jealous over lawless ones, seeing peace of sinners.
 - brenton: [missing]
 
 ### Psalms 72:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there is no relenting in their death and firmness in their scourge.
 - brenton: [missing]
 
 ### Psalms 72:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In labors of men they are not, and with men they will not be scourged.
 - brenton: [missing]
 
 ### Psalms 72:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore pride took hold of them; they clothed themselves with their injustice and ungodliness.
 - brenton: [missing]
 
 ### Psalms 72:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their injustice will go out as from fatness; they passed into purpose of heart.
 - brenton: [missing]
 
 ### Psalms 72:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They thought and spoke in evil, they spoke injustice on high.
 - brenton: [missing]
 
 ### Psalms 72:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They set their mouth into heaven, and their tongue passed through earth.
 - brenton: [missing]
 
 ### Psalms 72:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore my people will return here, and full days will be found for them.
 - brenton: [missing]
 
 ### Psalms 72:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said, How did God know? And is there knowledge in Most High?
 - brenton: [missing]
 
 ### Psalms 72:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, these sinners prosper forever and possessed wealth.
 - brenton: [missing]
 
 ### Psalms 72:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Then in vain I made my heart righteous and washed my hands among innocent ones.
 - brenton: [missing]
 
 ### Psalms 72:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I became scourged whole day, and my reproof unto mornings.
 - brenton: [missing]
 
 ### Psalms 72:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I said, I will tell thus, behold, against generation of your sons I acted treacherously.
 - brenton: [missing]
 
 ### Psalms 72:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I undertook to know this; it is trouble before me,
 - brenton: [missing]
 
 ### Psalms 72:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until I enter into sanctuary of God and understand their last things.
 - brenton: [missing]
 
 ### Psalms 72:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Surely because of their deceits you set things for them; you cast them down in their being lifted up.
 - brenton: [missing]
 
 ### Psalms 72:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How they came to desolation suddenly; they failed, they perished because of their lawlessness.
 - brenton: [missing]
 
 ### Psalms 72:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like dream of one waking, Lord, in your city you will despise their image.
 - brenton: [missing]
 
 ### Psalms 72:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because my heart burned and my kidneys were altered,
 - brenton: [missing]
 
 ### Psalms 72:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I, being despised, did not know; I became beastlike beside you.
 - brenton: [missing]
 
 ### Psalms 72:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I continually with you; you held my right hand.
 - brenton: [missing]
 
 ### Psalms 72:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your counsel you guided me, and with glory you received me.
 - brenton: [missing]
 
 ### Psalms 72:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what exists for me in heaven? And besides you what did I desire upon earth?
 - brenton: [missing]
 
 ### Psalms 72:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My heart and my flesh failed; God of my heart and my portion, God forever.
 - brenton: [missing]
 
 ### Psalms 72:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, those distancing themselves from you will perish; you destroyed everyone prostituting himself away from you.
 - brenton: [missing]
 
 ### Psalms 72:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But for me, clinging to God good; to place hope in Lord, to declare all your praises in gates of daughter of Zion.
 - brenton: [missing]
 
 ### Psalms 73:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For understanding. Of Asaph. Why, O God, did you reject to end? Your anger burned against sheep of your pasture.
 - brenton: [missing]
 
 ### Psalms 73:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember your congregation which you acquired from beginning; you redeemed rod of your inheritance, this Mount Zion in which you dwelt.
 - brenton: [missing]
 
 ### Psalms 73:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift up your hands against their pride to end, against all evil enemy did in your holy places.
 - brenton: [missing]
 
 ### Psalms 73:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those hating you boasted in midst of your feast; they set their signs as signs and did not know,
 - brenton: [missing]
 
 ### Psalms 73:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: as at entrance above.
 - brenton: [missing]
 
 ### Psalms 73:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As in forest of woods with axes they cut down her doors together; with hatchet and stone-cutter tool they broke her down.
 - brenton: [missing]
