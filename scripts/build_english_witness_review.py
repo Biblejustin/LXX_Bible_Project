@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import csv
 import json
+import re
 from pathlib import Path
 
 
@@ -10,6 +11,7 @@ LOCAL = ROOT / "data" / "research" / "local" / "witness_review"
 
 OBSERVATIONS = LOCAL / "english_witness_observations.csv"
 PRIORITY_CSV = OUTPUT / "fresh_vs_brenton_ot_priority_review.csv"
+REVIEW_DIR = ROOT / "data" / "research"
 
 OUT_MD = OUTPUT / "fresh_ot_english_witness_review.md"
 OUT_CSV = OUTPUT / "fresh_ot_english_witness_review.csv"
@@ -19,6 +21,7 @@ DIAGNOSTICS = OUTPUT / "fresh_ot_english_witness_review_diagnostics.json"
 
 ALIGNMENT_FIELDS = ["les_alignment", "nets_alignment", "saas_alignment"]
 SIGNAL_FIELDS = ["les_signal", "nets_signal", "saas_signal"]
+RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
 
 
 def load_csv(path: Path) -> list[dict[str, str]]:
@@ -36,7 +39,30 @@ def write_csv(path: Path, rows: list[dict[str, str]], fieldnames: list[str]) -> 
         writer.writerows(rows)
 
 
-def summarize_row(row: dict[str, str], priority_by_ref: dict[str, dict[str, str]]) -> dict[str, str] | None:
+def review_pass_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"ot_review_pass_(\d+)\.md$", path.name)
+    return (int(match.group(1)), path.name) if match else (0, path.name)
+
+
+def load_latest_review_statuses() -> dict[str, str]:
+    statuses: dict[str, str] = {}
+    for path in sorted(REVIEW_DIR.glob("ot_review_pass_*.md"), key=review_pass_sort_key):
+        ref = None
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if line.startswith("## "):
+                ref = line[3:].strip()
+            elif ref and line.startswith("- status:"):
+                match = re.search(r"`([^`]+)`", line)
+                statuses[ref] = match.group(1) if match else line.split(":", 1)[1].strip()
+    return statuses
+
+
+def summarize_row(
+    row: dict[str, str],
+    priority_by_ref: dict[str, dict[str, str]],
+    latest_review_statuses: dict[str, str],
+) -> dict[str, str] | None:
     checked_values = []
     for field in ALIGNMENT_FIELDS:
         value = (row.get(field) or "").strip()
@@ -71,6 +97,9 @@ def summarize_row(row: dict[str, str], priority_by_ref: dict[str, dict[str, str]
             watch = True
         if signal_values:
             watch = True
+    latest_review_status = latest_review_statuses.get(row["ref"], "")
+    if latest_review_status in RESOLVED_REVIEW_STATUSES:
+        watch = False
 
     return {
         "ref": row["ref"],
@@ -85,6 +114,7 @@ def summarize_row(row: dict[str, str], priority_by_ref: dict[str, dict[str, str]
         "split_or_mixed": str(split_or_mixed),
         "signals": ", ".join(sorted(dict.fromkeys(signal_values))),
         "recommendation": recommendation,
+        "latest_review_status": latest_review_status,
         "fresh_translation": priority.get("fresh_translation", row.get("fresh_translation", "")),
         "brenton_translation": priority.get("brenton_translation", row.get("brenton_translation", "")),
         "watch": "yes" if watch else "no",
@@ -107,6 +137,7 @@ def build_md(title: str, rows: list[dict[str, str]]) -> str:
                 f"- split/mixed: `{row.get('split_or_mixed', '0')}`",
                 f"- signals: {row.get('signals', '[none]') or '[none]'}",
                 f"- recommendation: `{row.get('recommendation', '') or 'none'}`",
+                f"- latest review status: `{row.get('latest_review_status', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
                 f"- brenton: {row.get('brenton_translation', '[missing]')}",
                 "",
@@ -118,10 +149,11 @@ def build_md(title: str, rows: list[dict[str, str]]) -> str:
 def main() -> None:
     observations = load_csv(OBSERVATIONS)
     priority_by_ref = {row["ref"]: row for row in load_csv(PRIORITY_CSV)}
+    latest_review_statuses = load_latest_review_statuses()
 
     rows = []
     for row in observations:
-        summarized = summarize_row(row, priority_by_ref)
+        summarized = summarize_row(row, priority_by_ref, latest_review_statuses)
         if summarized:
             rows.append(summarized)
 
@@ -141,6 +173,7 @@ def main() -> None:
         "split_or_mixed",
         "signals",
         "recommendation",
+        "latest_review_status",
         "fresh_translation",
         "brenton_translation",
         "watch",
