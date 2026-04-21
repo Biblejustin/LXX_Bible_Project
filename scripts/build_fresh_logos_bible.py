@@ -209,6 +209,12 @@ class SupplementalNote:
         return self.text
 
 
+@dataclass(frozen=True)
+class FootnoteEntry:
+    text: str
+    custom_mark: str | None = None
+
+
 @dataclass
 class BuildStats:
     output_kind: str
@@ -219,6 +225,7 @@ class BuildStats:
     translation_note_footnotes: int = 0
     section_break_count: int = 0
     footnote_number_restart: str = "chapter"
+    crossref_marker_restart: str = "chapter"
     phrase_anchored_translation_notes: int = 0
     verse_anchored_translation_notes: int = 0
     name_meaning_footnotes: int = 0
@@ -229,6 +236,8 @@ class BuildStats:
     verse_anchored_name_meaning_notes: int = 0
     phrase_anchored_crossref_notes: int = 0
     verse_anchored_crossref_notes: int = 0
+    custom_marked_crossref_notes: int = 0
+    max_crossref_marker_index_in_chapter: int = 0
     mapped_milestone_refs: int = 0
     fallback_milestone_refs: int = 0
     duplicate_milestone_refs: int = 0
@@ -249,7 +258,7 @@ class MinimalDocx:
         self.title = title
         self.subject = subject
         self.body: list[str] = []
-        self.footnotes: list[str] = []
+        self.footnotes: list[FootnoteEntry] = []
 
     def add_paragraph(
         self,
@@ -273,8 +282,8 @@ class MinimalDocx:
     def add_page_break(self) -> None:
         self.body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>')
 
-    def add_footnote(self, text: str) -> int:
-        self.footnotes.append(text)
+    def add_footnote(self, text: str, *, custom_mark: str | None = None) -> int:
+        self.footnotes.append(FootnoteEntry(text=text, custom_mark=custom_mark))
         return len(self.footnotes)
 
     def save(self, path: Path) -> None:
@@ -368,11 +377,32 @@ def run(
     return f'<w:r>{rpr}<w:t xml:space="preserve">{text(value)}</w:t></w:r>'
 
 
-def footnote_ref_run(note_id: int) -> str:
+def footnote_reference_style_xml() -> str:
+    return '<w:rPr><w:rStyle w:val="FootnoteReference"/></w:rPr>'
+
+
+def footnote_ref_run(note_id: int, *, custom_mark: str | None = None) -> str:
+    if custom_mark:
+        return (
+            f'<w:r>{footnote_reference_style_xml()}'
+            f'<w:footnoteReference w:customMarkFollows="1" w:id="{note_id}"/></w:r>'
+            f'<w:r>{footnote_reference_style_xml()}<w:t>{text(custom_mark)}</w:t></w:r>'
+        )
     return (
-        '<w:r><w:rPr><w:rStyle w:val="FootnoteReference"/></w:rPr>'
+        f'<w:r>{footnote_reference_style_xml()}'
         f'<w:footnoteReference w:id="{note_id}"/></w:r>'
     )
+
+
+def alphabetic_marker(index: int) -> str:
+    if index < 1:
+        raise ValueError(f"Cross-reference marker index must be positive: {index}")
+    letters: list[str] = []
+    value = index
+    while value:
+        value, remainder = divmod(value - 1, 26)
+        letters.append(chr(ord("a") + remainder))
+    return "".join(reversed(letters))
 
 
 def section_properties_xml(*, section_type: str | None = None) -> str:
@@ -397,17 +427,27 @@ def build_document_xml(body_xml: str) -> str:
     )
 
 
-def build_footnotes_xml(notes: list[str]) -> str:
+def build_footnotes_xml(notes: list[FootnoteEntry]) -> str:
     items = [
         '<w:footnote w:type="separator" w:id="-1"><w:p><w:r><w:separator/></w:r></w:p></w:footnote>',
         '<w:footnote w:type="continuationSeparator" w:id="0"><w:p><w:r><w:continuationSeparator/></w:r></w:p></w:footnote>',
     ]
-    for index, note_text in enumerate(notes, start=1):
+    for index, note in enumerate(notes, start=1):
+        if note.custom_mark:
+            marker_run = (
+                f'<w:r>{footnote_reference_style_xml()}'
+                f'<w:t>{text(note.custom_mark)}</w:t></w:r>'
+            )
+        else:
+            marker_run = (
+                f'<w:r>{footnote_reference_style_xml()}'
+                "<w:footnoteRef/></w:r>"
+            )
         items.append(
             f'<w:footnote w:id="{index}">'
             '<w:p><w:pPr><w:pStyle w:val="FootnoteText"/></w:pPr>'
-            '<w:r><w:rPr><w:rStyle w:val="FootnoteReference"/></w:rPr><w:footnoteRef/></w:r>'
-            f'<w:r><w:t xml:space="preserve"> {text(note_text)}</w:t></w:r>'
+            f"{marker_run}"
+            f'<w:r><w:t xml:space="preserve"> {text(note.text)}</w:t></w:r>'
             "</w:p></w:footnote>"
         )
     return (
@@ -1189,6 +1229,18 @@ def merge_supplemental_notes(
     return dict(merged)
 
 
+class CrossReferenceMarkerState:
+    def __init__(self) -> None:
+        self.index = 0
+
+    def reset(self) -> None:
+        self.index = 0
+
+    def next_marker(self) -> tuple[str, int]:
+        self.index += 1
+        return alphabetic_marker(self.index), self.index
+
+
 def build_docx(
     *,
     path: Path,
@@ -1225,6 +1277,7 @@ def build_docx(
 
     current_book = ""
     current_chapter = -1
+    crossref_markers = CrossReferenceMarkerState()
     milestone_ref_counts: Counter[str] = Counter()
     versification_map = versification_map or {}
     verse_counts = verse_counts or {}
@@ -1241,6 +1294,7 @@ def build_docx(
             stats.paragraph_count += 1
         if verse.chapter != current_chapter:
             current_chapter = verse.chapter
+            crossref_markers.reset()
             chapter_section_break = footnote_number_restart == "chapter"
             doc.add_heading(f"Chapter {verse.chapter}", level=2, section_break_after=chapter_section_break)
             if chapter_section_break:
@@ -1254,6 +1308,7 @@ def build_docx(
             name_notes=name_notes.get(verse.ref, []),
             supplemental_notes=supplemental_notes.get(verse.ref, []),
             crossref_notes=crossrefs.get(verse.ref, []),
+            crossref_markers=crossref_markers,
             logos=logos,
             datatype=datatype,
             milestone_mode=milestone_mode,
@@ -1290,7 +1345,7 @@ def add_title_page(
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
         "Includes supplemental Brenton-package notes: Brenton footnotes, TSK study notes, and Hebrew/Greek vocabulary notes.",
-        f"Footnote numbering restarts by {footnote_number_restart}.",
+        f"Regular footnote numbering restarts by {footnote_number_restart}. Cross-reference markers are custom letters and restart by chapter.",
     ]
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
@@ -1310,6 +1365,7 @@ def build_verse_runs(
     name_notes: list[NameMeaningNote],
     supplemental_notes: list[SupplementalNote],
     crossref_notes: list[CrossReferenceNote],
+    crossref_markers: CrossReferenceMarkerState,
     logos: bool,
     datatype: str,
     milestone_mode: str,
@@ -1342,6 +1398,7 @@ def build_verse_runs(
         notes,
         name_notes,
         crossref_notes,
+        crossref_markers,
         stats,
     )
     runs.extend(text_runs)
@@ -1364,13 +1421,26 @@ def build_verse_runs(
         else:
             stats.brenton_supplemental_footnotes += 1
     for crossref in verse_level_crossrefs:
-        note_id = doc.add_footnote(crossref.display_text)
-        runs.append(footnote_ref_run(note_id))
-        stats.crossref_footnotes += 1
+        note_id, marker = add_crossref_footnote(doc, crossref, crossref_markers, stats)
+        runs.append(footnote_ref_run(note_id, custom_mark=marker))
         stats.verse_anchored_crossref_notes += 1
     if logos:
         runs.append(run("{{field-off:Bible}}"))
     return runs, milestone_ref
+
+
+def add_crossref_footnote(
+    doc: MinimalDocx,
+    crossref: CrossReferenceNote,
+    crossref_markers: CrossReferenceMarkerState,
+    stats: BuildStats,
+) -> tuple[int, str]:
+    marker, index = crossref_markers.next_marker()
+    note_id = doc.add_footnote(crossref.display_text, custom_mark=marker)
+    stats.crossref_footnotes += 1
+    stats.custom_marked_crossref_notes += 1
+    stats.max_crossref_marker_index_in_chapter = max(stats.max_crossref_marker_index_in_chapter, index)
+    return note_id, marker
 
 
 def runs_for_text_with_phrase_notes(
@@ -1379,6 +1449,7 @@ def runs_for_text_with_phrase_notes(
     notes: list[TranslationNote],
     name_notes: list[NameMeaningNote],
     crossrefs: list[CrossReferenceNote],
+    crossref_markers: CrossReferenceMarkerState,
     stats: BuildStats,
 ) -> tuple[list[str], list[TranslationNote], list[NameMeaningNote], list[CrossReferenceNote]]:
     anchors: dict[int, list[tuple[str, TranslationNote | NameMeaningNote | CrossReferenceNote]]] = defaultdict(list)
@@ -1443,15 +1514,19 @@ def runs_for_text_with_phrase_notes(
     for end in sorted(anchors):
         output.append(run(verse_text[cursor:end]))
         for kind, item in anchors[end]:
-            note_id = doc.add_footnote(item.display_text)
-            output.append(footnote_ref_run(note_id))
             if kind == "crossref":
-                stats.crossref_footnotes += 1
+                assert isinstance(item, CrossReferenceNote)
+                note_id, marker = add_crossref_footnote(doc, item, crossref_markers, stats)
+                output.append(footnote_ref_run(note_id, custom_mark=marker))
                 stats.phrase_anchored_crossref_notes += 1
             elif kind == "name":
+                note_id = doc.add_footnote(item.display_text)
+                output.append(footnote_ref_run(note_id))
                 stats.name_meaning_footnotes += 1
                 stats.phrase_anchored_name_meaning_notes += 1
             else:
+                note_id = doc.add_footnote(item.display_text)
+                output.append(footnote_ref_run(note_id))
                 stats.translation_note_footnotes += 1
                 stats.phrase_anchored_translation_notes += 1
         cursor = end
@@ -1533,7 +1608,7 @@ Scope:
 - Supplemental Brenton-package notes: Brenton USFM footnotes, TSK study-note text, and Hebrew/Greek vocabulary notes. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
-- Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`.
+- Footnote numbering: one DOCX file with internal Word section metadata set to restart regular visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use custom alphabetic markers (`a`, `b`, `c`, ...), reset at each chapter, so regular translation/name/study notes keep numeric markers.
 
 Validation:
 

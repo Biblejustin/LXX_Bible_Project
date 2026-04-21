@@ -30,7 +30,7 @@ Scope:
 - Supplemental Brenton-package notes: Brenton USFM footnotes, TSK study-note text, and Hebrew/Greek vocabulary notes. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `/Users/justinscaggs/Desktop/The Lexham Textual Notes on the Bible.html` when present. Links use `logosres:lexcontxtntbbl;ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
-- Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `chapter`.
+- Footnote numbering: one DOCX file with internal Word section metadata set to restart regular visible footnote numbering by `chapter`. Cross-reference footnotes use custom alphabetic markers (`a`, `b`, `c`, ...), reset at each chapter, so regular translation/name/study notes keep numeric markers.
 
 Validation:
 
