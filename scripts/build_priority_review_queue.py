@@ -4,6 +4,7 @@ import csv
 from collections import defaultdict
 from pathlib import Path
 
+from build_english_witness_review import load_latest_review_statuses
 from build_priority_theme_reviews import classify_row, load_rows
 
 
@@ -23,11 +24,12 @@ THEME_LABELS = {
 }
 
 
-def build_queue_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+def build_queue_rows(rows: list[dict[str, str]], latest_review_statuses: dict[str, str]) -> list[dict[str, str]]:
     ranked = sorted(rows, key=lambda row: (-int(row["priority_score"]), row["ref"]))
     out: list[dict[str, str]] = []
     for order, row in enumerate(ranked, start=1):
         themes = [THEME_LABELS[slug] for slug in classify_row(row)]
+        review_status = latest_review_statuses.get(row["ref"], "pending") or "pending"
         out.append(
             {
                 "order": str(order),
@@ -39,7 +41,7 @@ def build_queue_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
                 "reasons": row["reasons"],
                 "fresh_translation": row["fresh_translation"],
                 "brenton_translation": row["brenton_translation"],
-                "review_status": "pending",
+                "review_status": review_status,
                 "decision": "",
                 "review_notes": "",
             }
@@ -78,7 +80,10 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
     lines.append("")
     lines.append("## Top 50")
     for row in rows[:50]:
-        lines.append(f"- {row['order']}. {row['ref']} | score {row['priority_score']} | {row['themes']}")
+        lines.append(
+            f"- {row['order']}. {row['ref']} | score {row['priority_score']} | "
+            f"{row['themes']} | {row['review_status']}"
+        )
 
     return "\n".join(lines) + "\n"
 
@@ -91,7 +96,7 @@ def main() -> None:
     args = parser.parse_args()
 
     rows = load_rows(Path(args.source))
-    queue_rows = build_queue_rows(rows)
+    queue_rows = build_queue_rows(rows, load_latest_review_statuses())
     write_csv(Path(args.csv_output), queue_rows)
     Path(args.markdown_output).write_text(build_markdown(queue_rows), encoding="utf-8")
     print(args.csv_output)

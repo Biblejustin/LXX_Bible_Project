@@ -3,6 +3,8 @@ import argparse
 import csv
 from pathlib import Path
 
+from build_english_witness_review import load_latest_review_statuses
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT / "output" / "fresh_vs_brenton_ot_priority_review.csv"
@@ -25,9 +27,10 @@ def pick_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     return sorted(picked, key=lambda row: (-int(row["priority_score"]), row["ref"]))
 
 
-def build_csv_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+def build_csv_rows(rows: list[dict[str, str]], latest_review_statuses: dict[str, str]) -> list[dict[str, str]]:
     out = []
     for idx, row in enumerate(rows, start=1):
+        review_status = latest_review_statuses.get(row["ref"], "pending") or "pending"
         out.append(
             {
                 "order": str(idx),
@@ -41,7 +44,7 @@ def build_csv_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
                 "reasons": row["reasons"],
                 "fresh_translation": row["fresh_translation"],
                 "brenton_translation": row["brenton_translation"],
-                "review_status": "pending",
+                "review_status": review_status,
                 "decision": "",
                 "review_notes": "",
             }
@@ -67,7 +70,10 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
         "",
     ]
     for row in rows[:60]:
-        lines.append(f"- {row['order']}. {row['ref']} | score {row['priority_score']} | decisions {row['decision_count']} | footnotes {row['footnote_count']}")
+        lines.append(
+            f"- {row['order']}. {row['ref']} | score {row['priority_score']} | "
+            f"decisions {row['decision_count']} | footnotes {row['footnote_count']} | {row['review_status']}"
+        )
     lines.append("")
     return "\n".join(lines)
 
@@ -80,7 +86,7 @@ def main() -> None:
     args = parser.parse_args()
 
     rows = pick_rows(load_rows(Path(args.source)))
-    csv_rows = build_csv_rows(rows)
+    csv_rows = build_csv_rows(rows, load_latest_review_statuses())
     write_csv(Path(args.csv_output), csv_rows)
     Path(args.markdown_output).write_text(build_markdown(csv_rows), encoding="utf-8")
     print(args.csv_output)
