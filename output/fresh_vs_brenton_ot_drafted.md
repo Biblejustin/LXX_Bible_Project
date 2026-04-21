@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 8064
-- medium: 3020
-- low: 11678
+- high: 8124
+- medium: 3007
+- low: 11631
 - none: 155
 
 Note:
@@ -1401,9 +1401,9 @@ Note:
 
 ### Genesis 6:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall make the ark converging together, and you shall finish it to one cubit above. And the door of the ark you shall make from the side. Lower, second, and third stories you shall make it.
 - brenton: Thou shalt narrow the ark in making it, and in a cubit above thou shalt finish it, and the door of the ark thou shalt make on the side; with lower, second, and third stories thou shalt make it.
@@ -5541,9 +5541,9 @@ Note:
 
 ### Genesis 24:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when all the camels stopped drinking, the man took golden earrings, a drachm in weight each, and two bracelets for her hands, their weight ten gold pieces.
 - brenton: And it came to pass when all the camels ceased drinking, that the man took golden ear-rings, each of a drachm weight, and he put two bracelets on her hands, their weight was ten pieces of gold.
@@ -8961,9 +8961,9 @@ Note:
 
 ### Genesis 34:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Simeon and Levi, Dinah's brothers, said to them, We cannot do this thing, to give our sister to a man who has foreskin, for it is a reproach to us.
 - brenton: And Symeon and Levi, the brothers of Dina, said to them, We shall not be able to do this thing, to give our sister to a man who is uncircumcised, for it is a reproach to us.
@@ -9942,9 +9942,9 @@ Note:
 
 ### Genesis 37:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Reuben, hearing, rescued him from their hands and said, Let us not strike him down to death.
 - brenton: And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.
@@ -12327,9 +12327,9 @@ Note:
 
 ### Genesis 45:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I will nourish you there, for there are still five years of famine, lest you and your sons and all your possessions be destroyed.
 - brenton: And I will nourish thee there: for the famine is yet for five years; lest thou be consumed, and thy sons, and all thy possessions.
@@ -13877,9 +13877,9 @@ Note:
 
 ### Exodus 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to his people, 'Look, the race of the sons of Israel is a great multitude and stronger than we are.'
 - brenton: And he said to his nation, Behold, the race of the children of Israel is a great multitude, and is stronger than we:
@@ -17072,9 +17072,9 @@ Note:
 
 ### Exodus 14:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking six hundred chosen chariots and all the cavalry of the Egyptians, he took commanders over all of them.
 - brenton: having also taken six hundred chosen chariots, and all the cavalry of the Egyptians, and rulers over all.
@@ -19340,9 +19340,9 @@ Note:
 
 ### Exodus 23:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you meet your enemy's ox or his beast of burden wandering, you shall surely turn it back and return it to him.
 - brenton: And if thou meet thine enemy's ox or his ass going astray, thou shalt turn them back and restore them to him.
@@ -19718,9 +19718,9 @@ Note:
 
 ### Exodus 24:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses rose, and Joshua who stood beside him, and they went up into the mountain of God.
 - brenton: And Moses rose up and Joshua his attendant, and they went up into the mount of God.
@@ -21617,9 +21617,9 @@ Note:
 
 ### Exodus 30:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall anoint with it the tent of testimony and the ark of testimony,
 - brenton: And thou shalt anoint with it the tabernacle of witness, and the ark of the tabernacle of witness,
@@ -22103,9 +22103,9 @@ Note:
 
 ### Exodus 32:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses, seeing that the people were scattered, for Aaron had scattered them into mockery for their enemies,
 - brenton: And when Moses saw that the people was scattered,—for Aaron had scattered them so as to be a rejoicing to their enemies,—
@@ -26308,9 +26308,9 @@ Note:
 
 ### Leviticus 9:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the fat from the calf and from the ram, the loin and the fat covering the belly and the two kidneys and the fat on them and the lobe above the liver,
 - brenton: And he took the fat of the calf, and the hind quarters of the ram, and the fat covering the belly, and the two kidneys, and the fat upon them, and the caul on the liver.
@@ -28918,9 +28918,9 @@ Note:
 
 ### Leviticus 18:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The nakedness of the daughter of your father's wife you shall not uncover. She is your sister by the same father. You shall not uncover her nakedness.
 - brenton: Thou shalt not uncover the nakedness of the daughter of thy father's wife; she is thy sister by the same father: thou shalt not uncover her nakedness.
@@ -29404,9 +29404,9 @@ Note:
 
 ### Leviticus 19:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall do no injustice in judgment, in measures and in weights and in scales.
 - brenton: Ye shall not act unrighteously in judgment, in measures and weights and scales.
@@ -29449,9 +29449,9 @@ Note:
 
 ### Leviticus 20:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my face against that man and destroy him from his people, because he gave of his seed to a ruler so as to defile my holy things and profane the name of those sanctified to me.
 - brenton: And I will set my face against that man, and will cut him off from his people, because he has given of his seed to Moloch, to defile my sanctuary, and profane the name of them that are consecrated to me.
@@ -31753,9 +31753,9 @@ Note:
 
 ### Leviticus 27:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if from sixty years old and upward, if male, the valuation shall be fifteen silver didrachms, and if female, ten didrachms.
 - brenton: And if from sixty years old and upward, if it be a male, his valuation shall be fifteen didrachms of silver, and if a female, ten didrachms.
@@ -35265,9 +35265,9 @@ Note:
 
 ### Numbers 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On the fourteenth day of the first month, toward evening, you shall keep it at its appointed times. According to its law and according to its ordinance you shall keep it.
 - brenton: On the fourteenth day of the first month at even, thou shalt keep it in its season; thou shalt keep it according to its law, and according to its ordinance.
@@ -36903,9 +36903,9 @@ Note:
 
 ### Numbers 14:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not go up, for the Lord is not with you, and you will fall before your enemies.
 - brenton: Go not up, for the Lord is not with you; so shall ye fall before the face of your enemies.
@@ -37893,9 +37893,9 @@ Note:
 
 ### Numbers 18:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they shall keep your charges and the charges of the tent, only they shall not approach the holy vessels and the altar, and they shall not die, both they and you.
 - brenton: And they shall keep thy charges, and the charges of the tabernacle; only they shall not approach the holy vessels and the altar, so both they and you shall not die.
@@ -38793,9 +38793,9 @@ Note:
 
 ### Numbers 21:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from Bamoth to the valley that is in the field of Moab, from the top of the Hewn Place, which looks toward the face of the wilderness.
 - brenton: And Moses sent ambassadors to Seon king of the Amorites, with peaceable words, saying,
@@ -40530,9 +40530,9 @@ Note:
 
 ### Numbers 26:64
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And among these there was no man from those enrolled by Moses and Aaron who enrolled the sons of Israel in the wilderness of Sinai.
 - brenton: And among these there was not a man numbered by Moses and Aaron, whom, even the children of Israel, they numbered in the wilderness of Sinai.
@@ -45986,9 +45986,9 @@ Note:
 
 ### Deuteronomy 9:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: a people great and many and tall, sons of Anak, whom you know and of whom you heard, Who shall stand against the face of the sons of Anak?
 - brenton: a people great and many and tall, the sons of Enac, whom thou knowest, and concerning whom thou hast heard say, Who can stand before the children of Enac?
@@ -46292,9 +46292,9 @@ Note:
 
 ### Deuteronomy 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From there they set out to Gadgad, and from Gadgad to Etebatha, a land of watercourses.
 - brenton: Thence they departed to Gadgad; and from Gadgad to Etebatha, a land wherein are torrents of water.
@@ -46913,9 +46913,9 @@ Note:
 
 ### Deuteronomy 12:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Just as the gazelle and the deer are eaten, so you shall eat it. The unclean among you and the clean alike shall eat it.
 - brenton: As the doe and the stag are eaten, so shalt thou eat it; the unclean in thee and the clean shall eat it in like manner.
@@ -47534,9 +47534,9 @@ Note:
 
 ### Deuteronomy 15:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if your Hebrew brother or Hebrew sister is sold to you, he shall serve you six years, and in the seventh you shall send him away from you free.
 - brenton: And if thy brother or sister, a Hebrew man or a Hebrew woman, be sold to thee, he shall serve thee six years, and in the seventh year thou shalt send him out free from thee.
@@ -48767,9 +48767,9 @@ Note:
 
 ### Deuteronomy 21:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the men of his city shall stone him with stones, and he shall die, and you shall destroy the evil one from among you. And the rest, hearing, shall fear.
 - brenton: And the men of his city shall stone him with stones, and he shall die; and thou shalt remove the evil one from yourselves, and the rest shall hear and fear.
@@ -51431,9 +51431,9 @@ Note:
 
 ### Deuteronomy 32:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do you repay the Lord like this, foolish people and not wise? Is not this one your father? He acquired you and made you and created you.
 - brenton: Do ye thus recompense the Lord? is the people thus foolish and unwise? did not he himself thy father purchase thee, and make thee, and form thee?
@@ -52252,9 +52252,9 @@ Note:
 
 ### Joshua 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From the wilderness and Anti-Lebanon as far as the great river, the river Euphrates, and as far as the western sea from the setting of the sun, shall be your boundaries.
 - brenton: The wilderness and Antilibanus, as far as the great river, the river Euphrates, and as far as the extremity of the sea; your coasts shall be from the setting of the sun.
@@ -52324,9 +52324,9 @@ Note:
 
 ### Joshua 1:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to Reuben and to Gad and to the half-tribe of Manasseh Joshua said,
 - brenton: And to Ruben, and to Gad, and to the half tribe of Manasse, Joshua said,
@@ -55717,9 +55717,9 @@ Note:
 
 ### Joshua 15:50
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Anon and Eskaiman and Aisam,
 - brenton: and Anon, and Es, and Man, and Æsam,
@@ -58419,9 +58419,9 @@ Note:
 
 ### Judges 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And that whole generation was added to their fathers, and another generation arose after them, those who did not know the Lord and the work that he did for Israel.
 - brenton: And all that generation were laid to their fathers: and another generation rose up after them, who knew not the Lord, nor yet the work which he wrought in Israel.
@@ -58743,9 +58743,9 @@ Note:
 
 ### Judges 3:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aōd went out into the vestibule and shut the doors of the upper room upon him and locked them.
 - brenton: And Aod went out to the porch, and passed out by the appointed guards, and shut the doors of the chamber upon him, and locked them.
@@ -59067,9 +59067,9 @@ Note:
 
 ### Judges 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, in your going out from Seir, in your marching from the field of Edom, earth shook, and heaven was shaken, and the clouds dripped water.
 - brenton: O Lord, in thy going forth on Seir, when thou wentest forth out of the land of Edom, the earth quaked and the heaven dropped dews, and the clouds dropped water.
@@ -60840,9 +60840,9 @@ Note:
 
 ### Judges 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet you forsook me and served other gods; therefore I will not continue to save you.
 - brenton: Yet ye forsook me and served other gods; therefore I will not save you any more.
@@ -60885,9 +60885,9 @@ Note:
 
 ### Judges 10:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the leaders of the people of Gilead said, each man to his neighbor, Who is the man that will begin to fight against the sons of Ammon? He shall be head over all dwelling in Gilead.
 - brenton: And the people the princes of Galaad said every man to his neighbour, Who is he that shall begin to fight against the children of Ammon? he shall even be head over all that dwell in Galaad.
@@ -64930,9 +64930,9 @@ Note:
 
 ### 1 Samuel 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be on that day, and Heli was sleeping in his place, and his eyes began to grow heavy and he was not able to see.
 - brenton: And it came to pass at that time that Heli was sleeping in his place; and his eyes began to fail, and could not see.
@@ -65884,9 +65884,9 @@ Note:
 
 ### 1 Samuel 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your seeds and your vineyards he will tithe and give to his eunuchs and to his servants.
 - brenton: And he will take the tithe of your seeds and your vineyards, and give it to his eunuchs, and to his servants.
@@ -70078,9 +70078,9 @@ Note:
 
 ### 1 Samuel 25:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now take this blessing that your servant has brought to my lord, and you will give it to the young men standing by my lord.
 - brenton: And now accept this token of goodwill, which thy servant has brought to my lord, and thou shalt give it to the servants that wait on my lord.
@@ -73113,9 +73113,9 @@ Note:
 
 ### 2 Samuel 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iōab son of Sarouia was over the army, and Iōsaphat son of Achia was over the records,
 - brenton: And Joab the son of Saruia was over the host; and Josaphat the son of Achilud was keeper of the records.
@@ -82349,9 +82349,9 @@ Note:
 
 ### 1 Kings 16:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ambri did evil before the Lord and did worse than all those who came before him.
 - brenton: And Ambri did that which was evil in the sight of the Lord, and wrought wickedly beyond all that were before him.
@@ -86941,9 +86941,9 @@ Note:
 
 ### 2 Kings 10:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iou destroyed Baal from Israel.
 - brenton: So Ju abolished Baal out of Israel.
@@ -91623,9 +91623,9 @@ Note:
 
 ### 1 Chronicles 2:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Iadai: Ragem, Ioatham, Gerson, Phalet, Gaipha, and Sagaph.
 - brenton: And the sons of Addai were Ragem, and Joatham, and Sogar, and Phalec, and Gæpha, and Sagae.
@@ -91758,9 +91758,9 @@ Note:
 
 ### 1 Chronicles 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Nage and Naphag and Ianoue,
 - brenton: and Nagai, and Naphec, and Japhie,
@@ -91920,9 +91920,9 @@ Note:
 
 ### 1 Chronicles 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Iouda: Phares, Arson, Charmi, Or, and Soubal.
 - brenton: And the sons of Juda; Phares, Esrom, and Charmi, and Or, Subal,
@@ -93909,9 +93909,9 @@ Note:
 
 ### 1 Chronicles 8:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Makalōth begot Semaa, and these also dwelt opposite their brothers in Jerusalem with their brothers.
 - brenton: And Makeloth begot Samaa: for these dwelt in Jerusalem in the presence of their brethren with their brethren.
@@ -94098,9 +94098,9 @@ Note:
 
 ### 1 Chronicles 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and their brothers, chiefs of houses of fathers, one thousand seven hundred sixty, mighty in strength for work of service of house of God.
 - brenton: and their brethren, chiefs of their families, a thousand seven hundred and sixty, mighty men for the work of the ministration of the house of God.
@@ -94809,9 +94809,9 @@ Note:
 
 ### 1 Chronicles 11:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bennaias, Hosom the Gennounite, Ionathan son of Sola the Hararite,
 - brenton: the son of Asam the Gizonite, Jonathan the son of Sola the Ararite,
@@ -96438,9 +96438,9 @@ Note:
 
 ### 1 Chronicles 17:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you, Lord, opened ear of your servant to build him house. Therefore your servant found courage to pray before you.
 - brenton: For thou, O Lord my God, hast revealed to the ear of thy servant that thou wilt build him a house; therefore thy servant has found a willingness to pray before thee.
@@ -98679,9 +98679,9 @@ Note:
 
 ### 1 Chronicles 27:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And over olive groves and sycamines in lowland was Balanas the Gedōrite, and over treasuries of oil was Iōas.
 - brenton: And over the oliveyards, and over the sycamores in the plain country was Ballanan the Gedorite; and over the stores of oil was Joas.
@@ -102209,9 +102209,9 @@ Note:
 
 ### 2 Chronicles 17:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his heart was lifted high in way of Lord, and he further removed high places and groves from land of Iouda.
 - brenton: And his heart was exalted in the way of the Lord; and he removed the high places and the groves from the land of Juda.
@@ -102308,9 +102308,9 @@ Note:
 
 ### 2 Chronicles 17:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from Beniamin, mighty man of force Eliada, and with him archers and peltasts, two hundred thousand;
 - brenton: And out of Benjamin there was a mighty man of strength, even Eliada, and with him two hundred thousand archers and targeteers.
@@ -104144,9 +104144,9 @@ Note:
 
 ### 2 Chronicles 26:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whole number of patriarchs of mighty men for war was two thousand six hundred.
 - brenton: The whole number of the chiefs of families of the mighty men of war was two thousand six hundred;
@@ -106511,9 +106511,9 @@ Note:
 
 ### 2 Chronicles 36:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord God of their fathers sent by hand of prophets, rising early and sending his messengers, because he was sparing his people and his holy place.
 - brenton: And the Lord God of their fathers sent by the hand of his prophets; rising early and sending his messengers, for he spared his people, and his sanctuary.
@@ -106565,9 +106565,9 @@ Note:
 
 ### 2 Chronicles 36:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to fulfill word of Lord by mouth of Ieremias, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
 - brenton: That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting and sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
@@ -108367,9 +108367,9 @@ Note:
 
 ### Ezra 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from sons of Adonikam, the last, and these their names: Eliphalat, Iiel, and Samaia, and with them sixty males;
 - brenton: And of the sons of Adonicam were the last, and these were their names, Eliphalat, Jeel, and Samæa, and with them sixty males.
@@ -108862,9 +108862,9 @@ Note:
 
 ### Ezra 10:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they finished with all the men who had seated foreign women by first day of the first month.
 - brenton: And they made an end with all the men who had taken strange wives by the first day of the first month.
@@ -109233,9 +109233,9 @@ Note:
 
 ### Nehemiah 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
 - brenton: and I said to the king, Let the king live for ever: why should not my countenance be said, forasmuch as the city, even the home of the sepulchres of my fathers, has been laid waste, and her gates have been devoured with fire?
@@ -111051,9 +111051,9 @@ Note:
 
 ### Nehemiah 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they stood at their standing place and read in book of law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
 - brenton: And they stood in their place, and read in the book of the law of the Lord their god: and they confessed their sins to the Lord, and worshipped the Lord their God.
@@ -111204,9 +111204,9 @@ Note:
 
 ### Nehemiah 9:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your good Spirit you gave to instruct them, and your manna you did not withhold from their mouth, and water you gave to them for their thirst.
 - brenton: And thou gavest thy good Spirit to instruct them, and thou didst not withhold thy manna from their mouth, and gavest them water in their thirst.
@@ -111843,9 +111843,9 @@ Note:
 
 ### Nehemiah 11:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and his brothers, mighty men of battle: one hundred twenty-eight, and their overseer was Badiēl.
 - brenton: and his brethren, mighty men of war, a hundred and twenty-eight: and their overseer was Badiel son of one of the great men.
