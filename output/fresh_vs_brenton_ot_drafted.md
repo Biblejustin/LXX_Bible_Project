@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 17192
-- medium: 1208
-- low: 4517
+- high: 17372
+- medium: 1149
+- low: 4396
 - none: 0
 
 Note:
@@ -153764,927 +153764,927 @@ Note:
 
 ### Proverbs 29:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Men partakers of blood hate holy man, but upright will seek his soul.
 - brenton: [missing]
 
 ### Proverbs 29:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
 - brenton: [missing]
 
 ### Proverbs 29:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
 - brenton: [missing]
 
 ### Proverbs 29:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: For she works all good things for her husband throughout life.
 - brenton: [missing]
 
 ### Proverbs 29:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: For she works all good things for her husband throughout life.
 - brenton: [missing]
 
 ### Proverbs 29:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She chewed wool and flax and made them useful with her hands.
 - brenton: [missing]
 
 ### Proverbs 29:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She chewed wool and flax and made them useful with her hands.
 - brenton: [missing]
 
 ### Proverbs 29:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She became like trading ship from far away and gathers wealth for herself.
 - brenton: [missing]
 
 ### Proverbs 29:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She became like trading ship from far away and gathers wealth for herself.
 - brenton: [missing]
 
 ### Proverbs 29:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She rises from nights and gave food to house and tasks to maidservants.
 - brenton: [missing]
 
 ### Proverbs 29:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She rises from nights and gave food to house and tasks to maidservants.
 - brenton: [missing]
 
 ### Proverbs 29:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Having looked at field, she bought it, and from fruits of her hands planted possession.
 - brenton: [missing]
 
 ### Proverbs 29:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Having looked at field, she bought it, and from fruits of her hands planted possession.
 - brenton: [missing]
 
 ### Proverbs 29:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Girding her waist strongly, she braced her arms for work.
 - brenton: [missing]
 
 ### Proverbs 29:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Girding her waist strongly, she braced her arms for work.
 - brenton: [missing]
 
 ### Proverbs 29:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She tasted that working is good, and her lamp is not extinguished whole night.
 - brenton: [missing]
 
 ### Proverbs 29:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She tasted that working is good, and her lamp is not extinguished whole night.
 - brenton: [missing]
 
 ### Proverbs 29:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She stretches forearms to useful things, and braces her hands to spindle.
 - brenton: [missing]
 
 ### Proverbs 29:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She stretches forearms to useful things, and braces her hands to spindle.
 - brenton: [missing]
 
 ### Proverbs 29:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: And she opened hands to poor, and stretched out fruit to needy.
 - brenton: [missing]
 
 ### Proverbs 29:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: And she opened hands to poor, and stretched out fruit to needy.
 - brenton: [missing]
 
 ### Proverbs 29:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
 - brenton: [missing]
 
 ### Proverbs 29:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
 - brenton: [missing]
 
 ### Proverbs 29:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She made double cloaks for her husband, and garments for herself from fine linen and purple.
 - brenton: [missing]
 
 ### Proverbs 29:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She made double cloaks for her husband, and garments for herself from fine linen and purple.
 - brenton: [missing]
 
 ### Proverbs 29:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
 - brenton: [missing]
 
 ### Proverbs 29:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
 - brenton: [missing]
 
 ### Proverbs 29:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She made linens and sold them, and belts for Canaanites.
 - brenton: [missing]
 
 ### Proverbs 29:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She made linens and sold them, and belts for Canaanites.
 - brenton: [missing]
 
 ### Proverbs 29:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She put on strength and dignity and rejoiced in latter days.
 - brenton: [missing]
 
 ### Proverbs 29:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: She put on strength and dignity and rejoiced in latter days.
 - brenton: [missing]
 
 ### Proverbs 29:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her mouth opened attentively and lawfully, and she sent order upon her tongue.
 - brenton: [missing]
 
 ### Proverbs 29:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Her mouth opened attentively and lawfully, and she sent order upon her tongue.
 - brenton: [missing]
 
 ### Proverbs 29:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
 - brenton: [missing]
 
 ### Proverbs 29:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
 - brenton: [missing]
 
 ### Proverbs 29:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her mouth opens wisely and lawfully; her mercy raised up her children and they became rich, and her husband praised her.
 - brenton: [missing]
 
 ### Proverbs 29:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many daughters acquired wealth, many made strength, but you excel and have surpassed all.
 - brenton: [missing]
 
 ### Proverbs 29:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: False are charms and vain beauty of woman; for prudent woman is blessed; let her praise fear of Lord.
 - brenton: [missing]
 
 ### Proverbs 29:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give her from fruits of her lips, and let her husband be praised in gates.
 - brenton: [missing]
 
 ### Proverbs 30:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My words, son, fear and receive them, and repent. These says the man to those trusting in God, and I stop.
 - brenton: [missing]
 
 ### Proverbs 30:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I am most foolish of all men, and understanding of men is not in me.
 - brenton: [missing]
 
 ### Proverbs 30:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But God taught me wisdom, and I knew knowledge of holy ones.
 - brenton: [missing]
 
 ### Proverbs 30:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of earth? What name to him, or what name to his children, so that you may know?
 - brenton: [missing]
 
 ### Proverbs 30:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All words of God refined; and he defends those revering him.
 - brenton: [missing]
 
 ### Proverbs 30:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not add to his words, lest he reprove you and you become liar.
 - brenton: [missing]
 
 ### Proverbs 30:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Two things I ask from you; do not take grace from me before my dying:
 - brenton: [missing]
 
 ### Proverbs 30:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make vain word and lie far from me; riches and poverty do not give me, but appoint for me necessary and self-sufficient things,
 - brenton: [missing]
 
 ### Proverbs 30:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest being filled I become liar and say, "Who sees me?" Or becoming poor I steal and swear by name of God.
 - brenton: [missing]
 
 ### Proverbs 30:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hand servant over into hands of master, lest he curse you and you vanish.
 - brenton: [missing]
 
 ### Proverbs 30:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evil offspring curses father and does not bless mother.
 - brenton: [missing]
 
 ### Proverbs 30:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evil offspring judges itself righteous, but has not washed its own filth away.
 - brenton: [missing]
 
 ### Proverbs 30:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evil offspring has lofty eyes, and its eyelids lift themselves up.
 - brenton: [missing]
 
 ### Proverbs 30:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evil offspring has swords for teeth and grinders like knives, so as to consume humble from earth and poor among men.
 - brenton: [missing]
 
 ### Proverbs 30:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Leech had three daughters dearly loved, and these three did not fill her, and fourth was not satisfied to say, "Enough."
 - brenton: [missing]
 
 ### Proverbs 30:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hades and desire of woman and Tartarus and land not filled with water, and water and fire will never say, "Enough."
 - brenton: [missing]
 
 ### Proverbs 30:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Eye mocking father and dishonoring old age of mother, ravens from ravines may pluck it out and eaglets may devour it.
 - brenton: [missing]
 
 ### Proverbs 30:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Three things are impossible for me to understand, and fourth I do not know:
 - brenton: [missing]
 
 ### Proverbs 30:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: tracks of eagle flying, and ways of serpent on rock, and paths of ship voyaging sea, and ways of man in youth.
 - brenton: [missing]
 
 ### Proverbs 30:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Such way of adulterous woman: when she acts, having washed herself, she says she did nothing improper.
 - brenton: [missing]
 
 ### Proverbs 30:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By three things earth is shaken, and fourth it cannot bear:
 - brenton: [missing]
 
 ### Proverbs 30:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if servant reigns and fool is filled with foods,
 - brenton: [missing]
 
 ### Proverbs 30:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and maidservant throws out her mistress, and hated woman happens upon good husband.
 - brenton: [missing]
 
 ### Proverbs 30:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Four things on earth very little, yet wiser than wise men:
 - brenton: [missing]
 
 ### Proverbs 30:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: ants, though they have no strength, prepare food in summer;
 - brenton: [missing]
 
 ### Proverbs 30:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and rock-badgers, nation not strong, who made houses in rocks;
 - brenton: [missing]
 
 ### Proverbs 30:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: locust has no king, yet marches orderly at one command;
 - brenton: [missing]
 
 ### Proverbs 30:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and lizard bracing itself with hands, though vulnerable, dwells in fortresses of king.
 - brenton: [missing]
 
 ### Proverbs 30:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Three things travel well, and fourth walks well:
 - brenton: [missing]
 
 ### Proverbs 30:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lion's cub strongest of beasts, who does not turn back nor shrink from beast;
 - brenton: [missing]
 
 ### Proverbs 30:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and rooster strutting among females, high-spirited, and goat leading flock, and king speaking publicly among nation.
 - brenton: [missing]
 
 ### Proverbs 30:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you push yourself forward into gladness and stretch out your hand with battle, you will be dishonored.
 - brenton: [missing]
 
 ### Proverbs 30:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Milk pressed and there will be butter; if you squeeze nostrils, blood will come out; if you drag out words, judgments and fights will come out.
 - brenton: [missing]
 
 ### Proverbs 31:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My words were spoken by God, oracle of king whom his mother taught.
 - brenton: [missing]
 
 ### Proverbs 31:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What will you keep, child? What sayings of God? Firstborn, I speak to you, son, child of my womb, child of my vows.
 - brenton: [missing]
 
 ### Proverbs 31:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not give your wealth to women, and your mind and life to afterthought.
 - brenton: [missing]
 
 ### Proverbs 31:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do everything with counsel; rulers drink wine with counsel, for they are hot-tempered; but let them not drink wine,
 - brenton: [missing]
 
 ### Proverbs 31:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest drinking they forget wisdom and be unable to judge weak men rightly.
 - brenton: [missing]
 
 ### Proverbs 31:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give strong drink to those in grief and wine to drink for those in pains,
 - brenton: [missing]
 
 ### Proverbs 31:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they may forget poverty and remember troubles no more.
 - brenton: [missing]
 
 ### Proverbs 31:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Open your mouth for word of God and judge all soundly.
 - brenton: [missing]
 
 ### Proverbs 31:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Open your mouth and judge justly; discriminate for poor and weak.
 - brenton: [missing]
 
 ### Proverbs 31:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will find brave wife? Such woman more precious than precious stones.
 - brenton: [missing]
 
 ### Proverbs 31:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of her husband trusts upon her; such woman will not lack good spoils.
 - brenton: [missing]
 
 ### Proverbs 31:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For she works good things for her husband all life.
 - brenton: [missing]
 
 ### Proverbs 31:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She chews wool and flax and made them useful to her hands.
 - brenton: [missing]
 
 ### Proverbs 31:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She became like merchant ship from far away, and gathers livelihood for herself.
 - brenton: [missing]
 
 ### Proverbs 31:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she rises from nights and gave foods to house and tasks to maidservants.
 - brenton: [missing]
 
 ### Proverbs 31:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Having considered field, she bought it, and from fruits of her hands planted possession.
 - brenton: [missing]
 
 ### Proverbs 31:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Having girded her waist strongly, she braced her arms for work.
 - brenton: [missing]
 
 ### Proverbs 31:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She tasted that working is good, and her lamp does not go out whole night.
 - brenton: [missing]
 
 ### Proverbs 31:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She stretches her forearms to useful things, and her hands brace to spindle.
 - brenton: [missing]
 
 ### Proverbs 31:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She opened her hands to poor, and stretched out fruit to needy.
 - brenton: [missing]
 
 ### Proverbs 31:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
 - brenton: [missing]
 
 ### Proverbs 31:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She made double cloaks for her husband, and clothing for herself from fine linen and purple.
 - brenton: [missing]
 
 ### Proverbs 31:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders of land.
 - brenton: [missing]
 
 ### Proverbs 31:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She made linen cloths and sold them, and belts to Canaanites.
 - brenton: [missing]
 
 ### Proverbs 31:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her mouth opened attentively and lawfully, and she sent order to her tongue.
 - brenton: [missing]
 
 ### Proverbs 31:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She put on strength and dignity and rejoiced in latter days.
 - brenton: [missing]
 
 ### Proverbs 31:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Dry are occupations of her house, and she did not eat lazy foods.
 - brenton: [missing]
 
 ### Proverbs 31:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But her mouth opens wisely and lawfully, and her mercy raised her children and they became rich, and her husband praised her.
 - brenton: [missing]
 
 ### Proverbs 31:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many daughters acquired wealth, many made mighty things; but you excel and surpassed them all.
 - brenton: [missing]
 
 ### Proverbs 31:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise fear of Lord.
 - brenton: [missing]
 
 ### Proverbs 31:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give her from fruits of her hands, and let her husband be praised in gates.
 - brenton: [missing]
@@ -154693,369 +154693,369 @@ Note:
 
 ### Ecclesiastes 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of Ecclesiastes, son of David, king of Israel in Jerusalem.
 - brenton: [missing]
 
 ### Ecclesiastes 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What surplus for man in all his toil with which he toils under sun?
 - brenton: [missing]
 
 ### Ecclesiastes 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Generation goes and generation comes, but earth stands into age.
 - brenton: [missing]
 
 ### Ecclesiastes 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sun rises and sun sets and draws to its place,
 - brenton: [missing]
 
 ### Ecclesiastes 1:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: rising there. It goes toward south and circles toward north; circling its circles the wind goes, and on its circles the wind returns.
 - brenton: [missing]
 
 ### Ecclesiastes 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All torrents go into sea, yet sea will not be filled; to place where torrents go, there they return to go.
 - brenton: [missing]
 
 ### Ecclesiastes 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All words are wearisome; man will not be able to speak, and eye will not be filled with seeing, nor ear filled from hearing.
 - brenton: [missing]
 
 ### Ecclesiastes 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will speak and say, "Look, this is new"? It already happened in ages that came before us.
 - brenton: [missing]
 
 ### Ecclesiastes 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is no memory for first things, and even for last things that come there will be no memory for them with things yet to be at end.
 - brenton: [missing]
 
 ### Ecclesiastes 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, Ecclesiastes, became king over Israel in Jerusalem.
 - brenton: [missing]
 
 ### Ecclesiastes 1:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to sons of man to be distracted in it.
 - brenton: [missing]
 
 ### Ecclesiastes 1:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw all works done under sun, and look, all vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What is twisted cannot be adorned, and what is lacking cannot be numbered.
 - brenton: [missing]
 
 ### Ecclesiastes 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I spoke in my heart saying, "I, look, grew great and added wisdom above all who were before me in Jerusalem," and my heart saw much wisdom and knowledge.
 - brenton: [missing]
 
 ### Ecclesiastes 1:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave my heart to know wisdom and knowledge, parables and skill; I knew that this too is choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in much wisdom much knowledge, and one adding knowledge will add pain.
 - brenton: [missing]
 
 ### Ecclesiastes 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To laughter I said, "Madness," and to gladness, "What does this do?"
 - brenton: [missing]
 
 ### Ecclesiastes 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for sons of men they will do under sun, number of days of their life.
 - brenton: [missing]
 
 ### Ecclesiastes 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I magnified my work; I built houses for myself, I planted vineyards for myself.
 - brenton: [missing]
 
 ### Ecclesiastes 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I made gardens and parks for myself, and planted in them every fruit tree.
 - brenton: [missing]
 
 ### Ecclesiastes 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I made pools of waters for myself, to water from them forest sprouting trees.
 - brenton: [missing]
 
 ### Ecclesiastes 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all before me in Jerusalem.
 - brenton: [missing]
 
 ### Ecclesiastes 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I gathered for myself also silver and gold and treasures of kings and provinces; I made for myself singers and singing women and delights of sons of men, cupbearer and cupbearers.
 - brenton: [missing]
 
 ### Ecclesiastes 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I grew great and increased beyond all before me in Jerusalem, and my wisdom stood by me.
 - brenton: [missing]
 
 ### Ecclesiastes 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
 - brenton: [missing]
 
 ### Ecclesiastes 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I looked to see wisdom and wandering and folly, because what kind of man will come after counsel? The things it made.
 - brenton: [missing]
 
 ### Ecclesiastes 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw that wisdom has surplus over folly as surplus of light over darkness.
 - brenton: [missing]
 
 ### Ecclesiastes 2:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Eyes of wise man in his head, but fool walks in darkness; and I knew, yes I, that one meeting meets them all.
 - brenton: [missing]
 
 ### Ecclesiastes 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said in my heart, "As meeting of fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too vanity, because fool speaks from surplus.
 - brenton: [missing]
 
 ### Ecclesiastes 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For there is no memory of wise with fool forever, since already days coming all were forgotten; and how will wise die with fool?
 - brenton: [missing]
 
 ### Ecclesiastes 2:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I hated life, because evil to me was work done under sun, because all vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 2:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I hated all my toil with which I toil under sun, because I leave it to man coming after me.
 - brenton: [missing]
 
 ### Ecclesiastes 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under sun; and this too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I turned to bid my heart farewell concerning all toil in which I toiled under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 2:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there is man whose toil is in wisdom and knowledge and courage, and to man who did not toil in it he will give his portion; and this too vanity and great evil.
 - brenton: [missing]
 
 ### Ecclesiastes 2:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what comes to man in all his toil and in choice of his heart in which he toils under sun?
 - brenton: [missing]
 
 ### Ecclesiastes 2:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all his days are pains, and his distraction wrath; even in night his heart does not sleep, and this too vanity.
 - brenton: [missing]
@@ -155071,9 +155071,9 @@ Note:
 
 ### Ecclesiastes 2:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For who will eat and who will spare apart from him?
 - brenton: [missing]
@@ -155089,315 +155089,315 @@ Note:
 
 ### Ecclesiastes 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For all things time, and season for every matter under heaven.
 - brenton: [missing]
 
 ### Ecclesiastes 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to bear and time to die; time to plant and time to pull up planted thing.
 - brenton: [missing]
 
 ### Ecclesiastes 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to kill and time to heal; time to tear down and time to build.
 - brenton: [missing]
 
 ### Ecclesiastes 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to weep and time to laugh; time to mourn and time to dance.
 - brenton: [missing]
 
 ### Ecclesiastes 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to throw stones and time to gather stones; time to embrace and time to keep far from embracing.
 - brenton: [missing]
 
 ### Ecclesiastes 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to seek and time to lose; time to keep and time to cast out.
 - brenton: [missing]
 
 ### Ecclesiastes 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to tear and time to sew; time to be silent and time to speak.
 - brenton: [missing]
 
 ### Ecclesiastes 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Time to love and time to hate; time of war and time of peace.
 - brenton: [missing]
 
 ### Ecclesiastes 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What surplus to doer in things in which he toils?
 - brenton: [missing]
 
 ### Ecclesiastes 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw distraction which God gave to sons of man to be distracted in it.
 - brenton: [missing]
 
 ### Ecclesiastes 3:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from beginning even to end.
 - brenton: [missing]
 
 ### Ecclesiastes 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I knew there is no good in them except to rejoice and to do good in his life.
 - brenton: [missing]
 
 ### Ecclesiastes 3:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And also every man who eats and drinks and sees good in all his toil, it is gift of God.
 - brenton: [missing]
 
 ### Ecclesiastes 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I knew that all things whatever God made, these will be forever; on it there is nothing to add and from it nothing to take away, and God made it so that they may fear before his face.
 - brenton: [missing]
 
 ### Ecclesiastes 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What came to be already is, and what is to come to be already happened, and God will seek what is pursued.
 - brenton: [missing]
 
 ### Ecclesiastes 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And further I saw under sun place of judgment, there ungodly, and place of righteous, there ungodly.
 - brenton: [missing]
 
 ### Ecclesiastes 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said in my heart, "The righteous and the ungodly God will judge, because season for every matter and over every work."
 - brenton: [missing]
 
 ### Ecclesiastes 3:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There I said in my heart about speech of sons of man, that God will sort them out and show that they are beasts, even they themselves.
 - brenton: [missing]
 
 ### Ecclesiastes 3:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because meeting of sons of man and meeting of beast, one meeting for them; as death of this one, so death of that one, and one spirit in all, and what did man have more than beast? Nothing, because all vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All go to one place; all became from dust, and all return to dust.
 - brenton: [missing]
 
 ### Ecclesiastes 3:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who knows whether spirit of sons of man goes upward, and spirit of beast goes down to earth?
 - brenton: [missing]
 
 ### Ecclesiastes 3:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him?
 - brenton: [missing]
 
 ### Ecclesiastes 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I turned and saw all slanders happening under sun, and look, tears of those slandered, and there is no comforter for them, and from hand of those slandering them = strength, and there is no comforter for them.
 - brenton: [missing]
 
 ### Ecclesiastes 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I praised the dead, those already having died, above the living who are still alive until now.
 - brenton: [missing]
 
 ### Ecclesiastes 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And better than both these, whoever not yet came to be, who did not see evil work done under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 4:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw all toil and all manliness of work, that it is jealousy of man from his companion; and this too vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fool folded his hands and ate his own flesh.
 - brenton: [missing]
 
 ### Ecclesiastes 4:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better one handful of rest than filling of two hands of toil and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I turned and saw vanity under sun:
 - brenton: [missing]
 
 ### Ecclesiastes 4:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is one and there is not second, and indeed son and brother are not to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too vanity and evil distraction.
 - brenton: [missing]
 
 ### Ecclesiastes 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Two are good above one, because they have good reward in their toil.
 - brenton: [missing]
 
 ### Ecclesiastes 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if they fall, one will raise his partner, and woe to the one when he falls and there is no second to raise him.
 - brenton: [missing]
 
 ### Ecclesiastes 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And also if two lie down, there is warmth to them; but one, how will he be warmed?
 - brenton: [missing]
 
 ### Ecclesiastes 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if one overpowers, two will stand against him, and threefold cord will not quickly be torn apart.
 - brenton: [missing]
 
 ### Ecclesiastes 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better poor and wise child than old and foolish king who no longer knew how to heed.
 - brenton: [missing]
