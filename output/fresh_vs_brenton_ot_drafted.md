@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12872
-- medium: 2185
-- low: 7860
+- high: 13052
+- medium: 2154
+- low: 7711
 - none: 0
 
 Note:
@@ -114745,1026 +114745,1026 @@ Note:
 
 ### Job 4:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By command of the Lord they will perish, and by breath of his wrath they will be wiped out.
 - brenton: [missing]
 
 ### Job 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Strength of lion, voice of lioness, and boast of dragons were quenched.
 - brenton: [missing]
 
 ### Job 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ant-lion perished for not having food, and lion cubs abandoned one another.
 - brenton: [missing]
 
 ### Job 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if any true word happened in your sayings, none of these evils would ever have met you. Will not my ear receive strange things from him?
 - brenton: [missing]
 
 ### Job 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But fears and sound of night, fear falling on men,
 - brenton: [missing]
 
 ### Job 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: dread met me and trembling, and greatly my bones shook together.
 - brenton: [missing]
 
 ### Job 4:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And a spirit came upon my face, and my hairs and flesh shuddered.
 - brenton: [missing]
 
 ### Job 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I stood up and did not recognize; I looked, and there was no form before my eyes, but only a breeze, and I was hearing a voice:
 - brenton: [missing]
 
 ### Job 4:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What then? Shall mortal be pure before the Lord, or shall a man be blameless by his works?
 - brenton: [missing]
 
 ### Job 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he does not trust in his servants, and against his angels he devised something crooked,
 - brenton: [missing]
 
 ### Job 4:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then those dwelling in houses of clay, from which we also are from the same clay, he struck like a moth.
 - brenton: [missing]
 
 ### Job 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from morning until evening they no longer exist, because they were not able to help themselves. They perished.
 - brenton: [missing]
 
 ### Job 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he breathed on them and they dried up. They perished for not having wisdom.
 - brenton: [missing]
 
 ### Job 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But call, if anyone will hear you, or if you will see any of the holy angels.
 - brenton: [missing]
 
 ### Job 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For anger kills the fool, and jealousy kills the wandering one.
 - brenton: [missing]
 
 ### Job 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I saw fools throwing down root, yet immediately their way of life was eaten up.
 - brenton: [missing]
 
 ### Job 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let their sons be far from deliverance, and let them be beaten at doors of inferiors, and there will be no one rescuing.
 - brenton: [missing]
 
 ### Job 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what they gathered, righteous men will eat, but they themselves will not be delivered from evils. Let their strength be drained away.
 - brenton: [missing]
 
 ### Job 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For toil will not come out from the earth, nor will pain sprout up from the mountains.
 - brenton: [missing]
 
 ### Job 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But man is born for toil, and young vultures fly to the heights.
 - brenton: [missing]
 
 ### Job 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet I will petition the Lord, and I will call on the Master of all.
 - brenton: [missing]
 
 ### Job 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He does great and unsearchable things, glorious and extraordinary things beyond number,
 - brenton: [missing]
 
 ### Job 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: giving rain upon the earth, sending water upon what is under heaven,
 - brenton: [missing]
 
 ### Job 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: making lowly ones into height, raising up those who were lost,
 - brenton: [missing]
 
 ### Job 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: turning aside counsels of the crafty, and their hands will never do what is true,
 - brenton: [missing]
 
 ### Job 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the one catching wise men in their cunning, and overthrowing counsel of the twisted,
 - brenton: [missing]
 
 ### Job 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in daytime darkness will meet them, and at noon they will grope as in night.
 - brenton: [missing]
 
 ### Job 5:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But let the weak perish in war, and let the powerless come out from hand of the mighty.
 - brenton: [missing]
 
 ### Job 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let there be hope for the powerless, but mouth of the unrighteous be stopped.
 - brenton: [missing]
 
 ### Job 5:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But blessed is man whom the Lord corrected; do not reject discipline of the Almighty.
 - brenton: [missing]
 
 ### Job 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he causes pain and again restores. He struck, and his hands healed.
 - brenton: [missing]
 
 ### Job 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Six times from necessities he will deliver you, and in the seventh evil will not touch you.
 - brenton: [missing]
 
 ### Job 5:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In famine he will rescue you from death, and in war he will free you from hand of iron.
 - brenton: [missing]
 
 ### Job 5:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From scourge of the tongue he will hide you, and you will not fear evils coming.
 - brenton: [missing]
 
 ### Job 5:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will laugh at unjust and lawless men, and you will not fear from wild beasts,
 - brenton: [missing]
 
 ### Job 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for wild beasts will be at peace with you.
 - brenton: [missing]
 
 ### Job 5:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will know that your house will be at peace, and dwelling of your tent will never go wrong.
 - brenton: [missing]
 
 ### Job 5:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that your seed is many, and your children will be like all-herbage of the field.
 - brenton: [missing]
 
 ### Job 5:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will come to the grave like ripe grain harvested in its season, or like heap of threshing floor gathered at its time.
 - brenton: [missing]
 
 ### Job 5:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, these things we searched out. These are what we heard. But you, know for yourself if you did anything.
 - brenton: [missing]
 
 ### Job 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Iōb says,
 - brenton: [missing]
 
 ### Job 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If only someone might weigh my anger, and lift my pains together in balance.
 - brenton: [missing]
 
 ### Job 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For now it would be heavier than sand of seashore; but, as it seems, my words are worthless.
 - brenton: [missing]
 
 ### Job 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For arrows of Lord are in my body, whose fury drinks up my blood; whenever I begin to speak, they stab me.
 - brenton: [missing]
 
 ### Job 6:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For surely wild donkey does not cry for nothing, unless seeking grain; nor will ox bellow at manger while having fodder.
 - brenton: [missing]
 
 ### Job 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will bread be eaten without salt? Or is there taste in empty words?
 - brenton: [missing]
 
 ### Job 6:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my soul cannot cease, for I see my foods as stench, like smell of lion.
 - brenton: [missing]
 
 ### Job 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If only my request might come, and Lord might give my hope.
 - brenton: [missing]
 
 ### Job 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let Lord begin and wound me; but in end let him not destroy me.
 - brenton: [missing]
 
 ### Job 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my city be grave, upon whose walls I leaped; upon it I will by no means spare myself, for I did not lie about words of holy God.
 - brenton: [missing]
 
 ### Job 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what strength have I, that I keep enduring? Or what time remains for me, that my soul keeps bearing?
 - brenton: [missing]
 
 ### Job 6:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is my strength strength of stones, or is my flesh bronze?
 - brenton: [missing]
 
 ### Job 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or was I not trusting in him? But help has gone far from me.
 - brenton: [missing]
 
 ### Job 6:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mercy renounced me, and visitation of Lord overlooked me.
 - brenton: [missing]
 
 ### Job 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My near ones did not regard me; like failing torrents, or like wave they passed me by.
 - brenton: [missing]
 
 ### Job 6:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those who feared me before have now fallen upon me, like snow or frozen ice.
 - brenton: [missing]
 
 ### Job 6:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As things melted when heat came, what they were was not recognized.
 - brenton: [missing]
 
 ### Job 6:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus I too was abandoned by all; I perished and became homeless.
 - brenton: [missing]
 
 ### Job 6:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look at ways of Thaimanites, paths of Sabaeans, those who look intently.
 - brenton: [missing]
 
 ### Job 6:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will owe shame, those trusting in cities and riches.
 - brenton: [missing]
 
 ### Job 6:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now you too fell upon me without mercy, so that seeing my wound you were afraid.
 - brenton: [missing]
 
 ### Job 6:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what? Did I ask anything from you, or do I need some of your strength?
 - brenton: [missing]
 
 ### Job 6:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So as to save me from enemies, or rescue me from hand of rulers?
 - brenton: [missing]
 
 ### Job 6:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Teach me, and I will be silent; if I have gone astray, show me.
 - brenton: [missing]
 
 ### Job 6:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As it seems, words of truth are worthless, for I do not ask strength from you.
 - brenton: [missing]
 
 ### Job 6:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor will your reproof stop me with words, for neither will I endure sound of your speech.
 - brenton: [missing]
 
 ### Job 6:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Only because you fall upon orphan, and spring against your friend.
 - brenton: [missing]
 
 ### Job 6:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now, looking into your faces, I will not lie.
 - brenton: [missing]
 
 ### Job 6:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sit down then, and let there not be injustice; and again come together with righteous judgment.
 - brenton: [missing]
 
 ### Job 6:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For there is no injustice on my tongue; does not my throat ponder understanding?
 - brenton: [missing]
 
 ### Job 7:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is not life of man on earth a trial, and his life like that of day-laborer?
 - brenton: [missing]
 
 ### Job 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like servant fearing his master and having attained shade, like hired man waiting for his wage,
 - brenton: [missing]
 
 ### Job 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so I too inherited empty months, and nights of pains were given me.
 - brenton: [missing]
 
 ### Job 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I lie down, I say, When day? and when I rise again, When evening? And I am full of pains from evening until morning.
 - brenton: [missing]
 
 ### Job 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My body is mixed with rottenness of worms; I melt clods of earth, scraping off the discharge.
 - brenton: [missing]
 
 ### Job 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My life is lighter than speech, and has perished in empty hope.
 - brenton: [missing]
 
 ### Job 7:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember then that my life is breath, and my eye will no longer return to see good.
 - brenton: [missing]
 
 ### Job 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Eye of one seeing me will not look on me; your eyes are on me, and I am no longer.
 - brenton: [missing]
 
 ### Job 7:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like cloud cleansed away from heaven, if man goes down to Hades, he will certainly not come up again.
 - brenton: [missing]
 
 ### Job 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor will he ever return again to his own house, nor will his place know him anymore.
 - brenton: [missing]
 
 ### Job 7:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But therefore neither will I spare my mouth; I will speak in distress, opening bitterness of my soul while hard pressed.
 - brenton: [missing]
 
 ### Job 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Am I sea or dragon, that you set a guard over me?
 - brenton: [missing]
 
 ### Job 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I say, My bed will comfort me, and my couch will bear my complaint for me,
 - brenton: [missing]
 
 ### Job 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you frighten me with dreams and terrify me with visions.
 - brenton: [missing]
 
 ### Job 7:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will free my soul from breath, and my bones from death.
 - brenton: [missing]
 
 ### Job 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I will not live forever, that I should be patient. Depart from me, for my life is empty.
 - brenton: [missing]
 
 ### Job 7:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What is man, that you magnified him, or that you set your mind on him,
 - brenton: [missing]
 
 ### Job 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or make visitation of him until morning, and judge him for rest?
 - brenton: [missing]
 
 ### Job 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until when will you not let me be, nor release me until I swallow my spittle in pain?
 - brenton: [missing]
 
 ### Job 7:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I sinned, what can I do to you, knower of minds of men? Why did you set me as your accuser? And I have become burden to you.
 - brenton: [missing]
 
 ### Job 7:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And why did you not make forgetfulness of my lawlessness and cleansing of my sin? For now I will depart into earth, and seeking me early, I am no more.
 - brenton: [missing]
 
 ### Job 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Baldad the Sauchite says,
 - brenton: [missing]
 
 ### Job 8:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long will you speak these things, wind of many words from your mouth?
 - brenton: [missing]
 
 ### Job 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will Lord do injustice in judging, or will maker of all disturb what is right?
 - brenton: [missing]
 
 ### Job 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If your sons sinned before him, he sent them away in hand of their lawlessness.
 - brenton: [missing]
 
 ### Job 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, rise early toward Lord, begging Almighty.
 - brenton: [missing]
 
 ### Job 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you are pure and true, he will hear your petition and restore to you dwelling of righteousness.
 - brenton: [missing]
 
 ### Job 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then your first things will be few, but your last things beyond counting.
 - brenton: [missing]
 
 ### Job 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ask indeed former generation, and search out race of fathers.
 - brenton: [missing]
 
 ### Job 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For we are of yesterday and do not know; for our life on earth is shadow.
 - brenton: [missing]
 
 ### Job 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will not these teach you and tell you, and bring out words from their heart?
 - brenton: [missing]
 
 ### Job 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Does papyrus flourish without water, or will reed rise high without drink?
 - brenton: [missing]
 
 ### Job 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While still on its root and not yet cut, before any herb drinks, does it not dry up?
 - brenton: [missing]
 
 ### Job 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So then will be end of all who forget Lord, for hope of ungodly will perish.
 - brenton: [missing]
 
 ### Job 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For his house will be uninhabited, and his tent will turn out to be spider's web.
 - brenton: [missing]
 
 ### Job 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he lean on his house, it will not stand; if he take hold of it, it will not endure.
 - brenton: [missing]
 
 ### Job 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For it is moist under sun, and from its decay its shoot will come out.
 - brenton: [missing]
 
 ### Job 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It sleeps upon gathering of stones, and in midst of pebbles it will live.
 - brenton: [missing]
 
 ### Job 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If place swallow it up, it will deny it: You have not seen such things.
 - brenton: [missing]
 
 ### Job 8:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For such is overthrow of ungodly, and from earth another will sprout.
 - brenton: [missing]
 
 ### Job 8:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord will by no means reject blameless one, but will not receive any gift of ungodly.
 - brenton: [missing]
 
 ### Job 8:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet he will fill mouth of true ones with laughter, and their lips with confession.
 - brenton: [missing]
 
 ### Job 8:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But their enemies will clothe themselves with shame, and dwelling of ungodly will not be.
 - brenton: [missing]
 
 ### Job 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Iōb says,
 - brenton: [missing]
@@ -115780,594 +115780,594 @@ Note:
 
 ### Job 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he should wish to enter judgment with him, he will not answer him one word out of thousand.
 - brenton: [missing]
 
 ### Job 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he is wise in mind, mighty and great. Who, having hardened himself against him, endured?
 - brenton: [missing]
 
 ### Job 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who ages mountains, and they do not know, overthrowing them in anger.
 - brenton: [missing]
 
 ### Job 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who shakes what is under heaven from foundations, and its pillars totter.
 - brenton: [missing]
 
 ### Job 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who says to sun, and it does not rise, and seals up stars.
 - brenton: [missing]
 
 ### Job 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who stretched out heaven alone and walks as upon ground on sea.
 - brenton: [missing]
 
 ### Job 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who makes Pleiad and Evening Star and Bear and chambers of south.
 - brenton: [missing]
 
 ### Job 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He who does great and unsearchable things, glorious and astonishing things without number.
 - brenton: [missing]
 
 ### Job 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he pass over me, I will not see; if he go by me, I would not know.
 - brenton: [missing]
 
 ### Job 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If someone turn him away, who will turn him back? Or who will say to him, What have you done?
 - brenton: [missing]
 
 ### Job 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he turned away wrath; under him sea-monsters beneath heaven were bowed down.
 - brenton: [missing]
 
 ### Job 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he should hear me, will he discern my words?
 - brenton: [missing]
 
 ### Job 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For even if I am righteous, he will not hear me; I will plead with my judge.
 - brenton: [missing]
 
 ### Job 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I call and he answers, I do not believe that he has heard my voice.
 - brenton: [missing]
 
 ### Job 9:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let him not rub me out in storm-cloud; he made my shatterings many for nothing.
 - brenton: [missing]
 
 ### Job 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he does not let me take breath, but filled me with bitterness.
 - brenton: [missing]
 
 ### Job 9:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If it is matter of strength, he is strong; but in judgment, who will withstand him?
 - brenton: [missing]
 
 ### Job 9:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Even if I am righteous, my mouth will act ungodly; if I am blameless, I will turn crooked.
 - brenton: [missing]
 
 ### Job 9:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For even if I did act ungodly, I do not know in my soul; only this, that my life is taken away.
 - brenton: [missing]
 
 ### Job 9:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I said, wrath destroys both great man and ruler.
 - brenton: [missing]
 
 ### Job 9:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For worthless men are remarkable in death, but righteous are laughed to scorn.
 - brenton: [missing]
 
 ### Job 9:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For earth is given into hands of ungodly; he covers faces of its judges. But if not he, who is it?
 - brenton: [missing]
 
 ### Job 9:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My life is lighter than runner; they fled and did not know.
 - brenton: [missing]
 
 ### Job 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or is there track of way for ships, or of eagle flying and seeking food?
 - brenton: [missing]
 
 ### Job 9:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If then I say, I will forget my speaking, stooping with face I will groan,
 - brenton: [missing]
 
 ### Job 9:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I shudder in all my limbs, for I know that you will not leave me innocent.
 - brenton: [missing]
 
 ### Job 9:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Since I am ungodly, why then did I not die?
 - brenton: [missing]
 
 ### Job 9:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if I wash myself with snow and cleanse my hands with purity,
 - brenton: [missing]
 
 ### Job 9:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sufficiently you dipped me in filth, and my garment loathed me.
 - brenton: [missing]
 
 ### Job 9:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you are not man like me, against whom I will answer, that we might come together into judgment.
 - brenton: [missing]
 
 ### Job 9:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If only there were mediator of us, and reprover, and one hearing between both.
 - brenton: [missing]
 
 ### Job 9:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let him take his rod away from me, and let his fear not whirl me about.
 - brenton: [missing]
 
 ### Job 9:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then I would not fear, but speak, for I do not know myself so.
 - brenton: [missing]
 
 ### Job 10:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Weary in my soul, groaning, I will let my words go upon him; I will speak bitterness of my soul while hard pressed.
 - brenton: [missing]
 
 ### Job 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will say to Lord, Do not treat me as ungodly; teach me why you judged me thus.
 - brenton: [missing]
 
 ### Job 10:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is it good to you if I act unjustly, that you reject works of your hands, but give heed to counsel of ungodly?
 - brenton: [missing]
 
 ### Job 10:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do you look as mortal looks, or see as man sees?
 - brenton: [missing]
 
 ### Job 10:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is your life human, or your years those of man,
 - brenton: [missing]
 
 ### Job 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that you searched out my lawlessness and tracked down my sins?
 - brenton: [missing]
 
 ### Job 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you know that I did not act ungodly, but there is none rescuing from your hands.
 - brenton: [missing]
 
 ### Job 10:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your hands formed me and made me; then changing, you struck me.
 - brenton: [missing]
 
 ### Job 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember that you molded me like clay, and you turn me back into earth.
 - brenton: [missing]
 
 ### Job 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did you not milk me out like milk and curdle me like cheese?
 - brenton: [missing]
 
 ### Job 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With skin and flesh you clothed me, and with bones and sinews you wove me.
 - brenton: [missing]
 
 ### Job 10:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Life and mercy you set with me, and your oversight guarded my spirit.
 - brenton: [missing]
 
 ### Job 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Holding these things within yourself, I know that you can do all things, and nothing is impossible to you.
 - brenton: [missing]
 
 ### Job 10:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I sin, you watch me, and from lawlessness you did not make me innocent.
 - brenton: [missing]
 
 ### Job 10:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I am ungodly, woe to me; if I am righteous, I cannot lift myself up, for I am full of dishonor.
 - brenton: [missing]
 
 ### Job 10:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I am hunted like lion for slaughter, and again changing, you destroy me terribly.
 - brenton: [missing]
 
 ### Job 10:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Renewing my examination against me, you used great wrath toward me and brought trials upon me.
 - brenton: [missing]
 
 ### Job 10:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why then did you bring me out from womb? Would that I had died and eye had not seen me.
 - brenton: [missing]
 
 ### Job 10:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I would have become as if I had not been. Why then was I not carried from belly to grave?
 - brenton: [missing]
 
 ### Job 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is not time of my life small? Let me be, that I may rest a little,
 - brenton: [missing]
 
 ### Job 10:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: before I go from where I will not return, into land dark and gloomy,
 - brenton: [missing]
 
 ### Job 10:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: into land of eternal darkness, where there is no light, nor seeing of life among mortals.
 - brenton: [missing]
 
 ### Job 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Sophar the Minaian says,
 - brenton: [missing]
 
 ### Job 11:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will one who says many things also answer back? Or does wordy man think himself righteous, blessed though born of woman and short-lived?
 - brenton: [missing]
 
 ### Job 11:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not become abundant in words, for there is no one answering you.
 - brenton: [missing]
 
 ### Job 11:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For do not say, I am pure in works and blameless before him.
 - brenton: [missing]
 
 ### Job 11:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But how might Lord speak to you and open his lips with you!
 - brenton: [missing]
 
 ### Job 11:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then he would declare to you power of wisdom, because they will be double to what is with you. And then you will know that what came to you from Lord matches what you sinned.
 - brenton: [missing]
 
 ### Job 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you find track of Lord, or reach to ends of what Almighty made?
 - brenton: [missing]
 
 ### Job 11:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heaven is high; what will you do? Deeper than things in Hades; what do you know?
 - brenton: [missing]
 
 ### Job 11:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Longer than measure of earth and broader than sea.
 - brenton: [missing]
 
 ### Job 11:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he overturn all things, who will say to him, What did you do?
 - brenton: [missing]
 
 ### Job 11:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he knows works of lawless men, and seeing wrongs he will not overlook.
 - brenton: [missing]
