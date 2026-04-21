@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 9024
-- medium: 2841
-- low: 10897
+- high: 9084
+- medium: 2832
+- low: 10846
 - none: 155
 
 Note:
@@ -393,9 +393,9 @@ Note:
 
 ### Genesis 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The name of the first is Pishon; this is the one that circles all the land of Havilah, where the gold is.
 - brenton: The name of the one, Phisom, this it is which encircles the whole land of Evilat, where there is gold.
@@ -1644,9 +1644,9 @@ Note:
 
 ### Genesis 7:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all flesh moving on the earth died: birds and cattle and wild beasts and every creeping thing moving on the earth, and every human.
 - brenton: And there died all flesh that moved upon the earth, of flying creatures and cattle, and of wild beasts, and every reptile moving upon the earth, and every man.
@@ -2886,9 +2886,9 @@ Note:
 
 ### Genesis 12:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh instructed men concerning Abram to send him on, and his wife, and all that was his.
 - brenton: And Pharao gave charge to men concerning Abram, to join in sending him forward, and his wife, and all that he had.
@@ -6036,9 +6036,9 @@ Note:
 
 ### Genesis 25:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the field and the cave that Abraham acquired from the sons of Heth. There they buried Abraham and Sarah his wife.
 - brenton: even the field and the cave which Abraam bought of the sons of Chet; there they buried Abraam and Sarrha his wife.
@@ -7557,9 +7557,9 @@ Note:
 
 ### Genesis 30:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Balla, Rachel's servant-girl, conceived again and bore a second son to Jacob.
 - brenton: And Balla, Rachel's maid, conceived yet again, and bore a second son to Jacob.
@@ -22382,9 +22382,9 @@ Note:
 
 ### Exodus 33:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said, "Behold, a place is beside me. Stand upon the rock.
 - brenton: And the Lord said, Behold, there is a place by me: thou shalt stand upon the rock;
@@ -24074,9 +24074,9 @@ Note:
 
 ### Exodus 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall clothe Aaron with the holy garments and anoint him and sanctify him, and he shall serve as priest to me.
 - brenton: And thou shalt put on Aaron the holy garments, and thou shalt anoint him, and thou shalt sanctify him, and he shall minister to me as priest.
@@ -25939,9 +25939,9 @@ Note:
 
 ### Leviticus 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses brought near the calf for sin, and Aaron and his sons laid their hands on the head of the calf for sin.
 - brenton: And Moses brought near the calf for the sin-offering, and Aaron and his sons laid their hands on the head of the calf of the sin-offering.
@@ -27424,9 +27424,9 @@ Note:
 
 ### Leviticus 13:44
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: he is a person with skin-disease. The priest shall surely pronounce him unclean. His mark is on his head.
 - brenton: he is a leprous man: the priest shall surely pronounce him unclean, his plague is in his head.
@@ -31537,9 +31537,9 @@ Note:
 
 ### Leviticus 26:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will eat the flesh of your sons, and you will eat the flesh of your daughters.
 - brenton: And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.
@@ -32871,9 +32871,9 @@ Note:
 
 ### Numbers 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall give the Levites to Aaron and to his sons the priests. Given as a gift, these are mine from the sons of Israel.
 - brenton: And thou shalt give the Levites to Aaron, and to his sons the priests; they are given for a gift to me of the children of Israel.
@@ -33105,9 +33105,9 @@ Note:
 
 ### Numbers 3:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the chief of the fathers' house of the clan of Merari was Souriel son of Abichail. They shall camp at the sides of the tent, toward the north.
 - brenton: And the head of the house of the families of the division of Merari, was Suriel the son of Abichail: they shall encamp by the side of the tabernacle northwards.
@@ -34347,9 +34347,9 @@ Note:
 
 ### Numbers 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34401,9 +34401,9 @@ Note:
 
 ### Numbers 7:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34455,9 +34455,9 @@ Note:
 
 ### Numbers 7:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34509,9 +34509,9 @@ Note:
 
 ### Numbers 7:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34563,9 +34563,9 @@ Note:
 
 ### Numbers 7:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34617,9 +34617,9 @@ Note:
 
 ### Numbers 7:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34671,9 +34671,9 @@ Note:
 
 ### Numbers 7:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34725,9 +34725,9 @@ Note:
 
 ### Numbers 7:58
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34779,9 +34779,9 @@ Note:
 
 ### Numbers 7:64
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34833,9 +34833,9 @@ Note:
 
 ### Numbers 7:70
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34887,9 +34887,9 @@ Note:
 
 ### Numbers 7:76
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -34941,9 +34941,9 @@ Note:
 
 ### Numbers 7:82
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one goat kid for sin offering,
 - brenton: and one kid of the goats for a sin-offering.
@@ -39063,9 +39063,9 @@ Note:
 
 ### Numbers 22:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Balak again sent more princes and more honored than these.
 - brenton: And Balac yet again sent more princes and more honourable than they.
@@ -39189,9 +39189,9 @@ Note:
 
 ### Numbers 22:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Balaam said to the donkey, Because you have mocked me. If I had a sword in my hand, already I would have pierced you.
 - brenton: And Balaam said to the ass, Because thou hast mocked me; and if I had had a sword in my hand, I would now have killed thee.
@@ -39441,9 +39441,9 @@ Note:
 
 ### Numbers 23:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God met Balaam and put a word in his mouth and said, Turn back to Balak, and these things you shall speak.
 - brenton: And God met Balaam, and put a word into his mouth, and said, Return to Balac, and thus shalt thou speak.
@@ -40656,9 +40656,9 @@ Note:
 
 ### Numbers 27:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall see it, and you too shall be added to your people, just as Aaron your brother was added on Mount Hor.
 - brenton: And thou shalt see it, and thou also shalt be added to thy people, as Aaron thy brother was added to them in mount Or:
@@ -42438,9 +42438,9 @@ Note:
 
 ### Numbers 33:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Israel set out from Ramesse and camped in Sokchoth.
 - brenton: And the children of Israel departed from Ramesses, and encamped in Socchoth:
@@ -44690,9 +44690,9 @@ Note:
 
 ### Deuteronomy 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you came near and stood under the mountain, and the mountain was burning with fire up to heaven, darkness, gloom, storm, a great sound.
 - brenton: And ye drew nigh and stood under the mountain; and the mountain burned with fire up to heaven: there was darkness, blackness, and tempest.
@@ -45257,9 +45257,9 @@ Note:
 
 ### Deuteronomy 5:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now let us not die, because this great fire will consume us. If we add any more to hear the voice of the Lord our God, then we shall die.
 - brenton: And now let us not die, for this great fire will consume us, if we shall hear the voice of the Lord our God any more, and we shall die.
@@ -51062,9 +51062,9 @@ Note:
 
 ### Deuteronomy 30:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I have set before your face today life and death, good and evil.
 - brenton: Behold, I have set before thee this day life and death, good and evil.
@@ -55474,9 +55474,9 @@ Note:
 
 ### Joshua 15:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Kadesh and Asorionain,
 - brenton: and Cades, and Asorionain, and Mænam,
@@ -60039,9 +60039,9 @@ Note:
 
 ### Judges 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took the leaders and the elders of the city and threshed them with the thorns of the wilderness and the bramble bushes, and with them he threshed the men of Sokchōth.
 - brenton: And he took the elders of the city with the thorns of the wilderness and the Barkenim, and with them he tore the men of the city.
@@ -60894,9 +60894,9 @@ Note:
 
 ### Judges 11:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jephthae the Gileadite was mighty in strength, and he was the son of a prostitute woman, and Gilead fathered Jephthae.
 - brenton: And Jephthae the Galaadite was a mighty man; and he was the son of a harlot, who bore Jephthae to Galaad.
@@ -61542,9 +61542,9 @@ Note:
 
 ### Judges 13:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the angel of the Lord said to him, Why is this that you ask my name? It is wonderful.
 - brenton: And the angel of the Lord said to him, Why dost thou thus ask after my name; whereas it is wonderful?
@@ -61650,9 +61650,9 @@ Note:
 
 ### Judges 14:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Sampsōn and his father and his mother went down to Thamnatha and turned aside into the vineyard of Thamnatha, and behold, a lion cub roaring to meet him.
 - brenton: And Sampson and his father and his mother went down to Thamnatha, and he came to the vineyard of Thamnatha; and behold, a young lion roared in meeting him.
@@ -62640,9 +62640,9 @@ Note:
 
 ### Judges 18:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they set up for themselves the carved image of Micha that he made all the days that the house of God was in Shiloh.
 - brenton: And they set up for themselves the graven image which Michaias made, all the days that the house of God was in Selom; and it was so in those days that there was no king in Israel.
@@ -62703,9 +62703,9 @@ Note:
 
 ### Judges 19:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the man rose to depart, and his father-in-law constrained him, and again he lodged there.
 - brenton: And the man rose up to depart; but his father-in-law constrained him, and he staid and lodged there.
@@ -67441,9 +67441,9 @@ Note:
 
 ### 1 Samuel 14:50
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the name of his wife was Achinoom, daughter of Achimaas, and the name of the commander of his army was Abennēr, son of Nēr, son of a kinsman of Saoul.
 - brenton: And the name of his wife was Achinoom, the daughter of Achimaa: and the name of his captain of the host was Abenner, the son of Ner, son of a kinsman of Saul.
@@ -71466,9 +71466,9 @@ Note:
 
 ### 2 Samuel 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not report it in Geth, and do not proclaim good news in the streets of Askalōn, lest the daughters of the foreigners rejoice, lest the daughters of the uncircumcised exult.
 - brenton: Tell it not in Geth, and tell it not as glad tidings in the streets of Ascalon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.
@@ -73752,9 +73752,9 @@ Note:
 
 ### 2 Samuel 12:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now the sword will not depart from your house forever, because you counted me as nothing and took the wife of Ourias the Hittite to be your wife.
 - brenton: Now therefore the sword shall not depart from thy house for ever, because thou hast set me at nought, and thou hast taken the wife of Urias the Chettite, to be thy wife.
@@ -74706,9 +74706,9 @@ Note:
 
 ### 2 Samuel 15:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the one reporting came to David, saying, The heart of the men of Israel has come to be behind Abessalōm.
 - brenton: And there came a messenger to David, saying, The heart of the men of Israel is gone after Abessalom.
@@ -76227,9 +76227,9 @@ Note:
 
 ### 2 Samuel 20:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he came near to her, and the woman said, Are you Ioab? And he said, I am. And she said to him, Hear the words of your servant. And Ioab said, I am listening.
 - brenton: And he drew nigh to her, and the woman said to him, Art thou Joab? and he said, I am. And she said to him, Hear the words of thy handmaid; and Joab said, I do hear.
@@ -81170,9 +81170,9 @@ Note:
 
 ### 1 Kings 12:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And King Roboam went to Sikima, because all Israel was coming to Sikima to make him king.
 - brenton: And king Roboam goes to Sikima; for all Israel were coming to Sikima to make him king.
@@ -82178,9 +82178,9 @@ Note:
 
 ### 1 Kings 16:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Baasa slept with his fathers and was buried in Thersa, and Ela his son reigned in place of him in the twentieth year of king Asa.
 - brenton: And Baasa slept with his fathers, and they bury him in Thersa; and Ela his son reigns in his stead.
@@ -82277,9 +82277,9 @@ Note:
 
 ### 1 Kings 16:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ambri went up, and all Israel with him, from Gabathon and they besieged Thersa.
 - brenton: And Ambri went up, and all Israel with him, out of Gabathon; and they besieged Thersa.
@@ -86869,9 +86869,9 @@ Note:
 
 ### 2 Kings 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iou said, Sanctify a festival for Baal. And they proclaimed it.
 - brenton: And Ju said, Sanctify a solemn festival to Baal, and they made a proclamation.
@@ -87967,9 +87967,9 @@ Note:
 
 ### 2 Kings 15:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Selloum son of Iabis conspired against him and struck him at Keblaam and killed him, and Selloum reigned in his place.
 - brenton: And Sellum the son of Jabis and others conspired against him, and they smote him in Keblaam, and slew him, and he reigned in his stead.
@@ -91479,9 +91479,9 @@ Note:
 
 ### 1 Chronicles 2:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Apphaim: Isemiel. And sons of Isemiel: Sosan. And sons of Sosan: Achlai.
 - brenton: And the sons of Apphain, Isemiel; and the sons of Isemiel, Sosan; and the sons of Sosan, Dadai.
@@ -94638,9 +94638,9 @@ Note:
 
 ### 1 Chronicles 11:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And three from thirty chiefs went down to rock, to Dauid, into cave of Odollam, and camp of Philistines had camped in valley of giants.
 - brenton: And three of the thirty chiefs went down to the rock to David, to the cave of Odollam, and the camp of the Philistines was in the giants' valley.
@@ -96933,9 +96933,9 @@ Note:
 
 ### 1 Chronicles 21:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord spoke to Gad, seer of Dauid, saying,
 - brenton: And the Lord spoke to Gad the seer, saying,
@@ -97797,9 +97797,9 @@ Note:
 
 ### 1 Chronicles 24:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Oziēl: Micha; sons of Micha: Samēr.
 - brenton: For the sons of Oziel, Micha: the sons of Micha; Samer.
@@ -101075,9 +101075,9 @@ Note:
 
 ### 2 Chronicles 10:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he left counsel of elders who counseled him and took counsel with young men brought up with him, who stood before him.
 - brenton: But he forsook the advice of the old men, who took counsel with him, and he took counsel with the young men who had been brought up with him, who stood before him.
@@ -101237,9 +101237,9 @@ Note:
 
 ### 2 Chronicles 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Baithsoura and Sokchōth and Odollam,
 - brenton: and Bæthsura, and Sochoth, and Odollam,
@@ -102443,9 +102443,9 @@ Note:
 
 ### 2 Chronicles 18:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Michaias said, Lord lives, whatever God says to me, this I will speak.
 - brenton: And Michaias said, As the Lord lives, whatever God shall say to me, that will I speak.
@@ -103802,9 +103802,9 @@ Note:
 
 ### 2 Chronicles 25:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he did upright in sight of Lord, but not with full heart.
 - brenton: And he did that which was right in the sight of the Lord, but not with a perfect heart.
@@ -105620,9 +105620,9 @@ Note:
 
 ### 2 Chronicles 33:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Manassēs was twelve years old when he reigned, and fifty-five years he reigned in Ierousalem.
 - brenton: Manasses was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem.
@@ -105962,9 +105962,9 @@ Note:
 
 ### 2 Chronicles 34:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when they were bringing out money brought into house of Lord, Chelkias the priest found book of law of Lord by hand of Mōusēs.
 - brenton: And when they brought forth the money that had been brought into the house of the Lord, Chelcias the priest found a book of the law of the Lord given by the hand of Moses.
@@ -112050,9 +112050,9 @@ Note:
 
 ### Nehemiah 12:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to Esdra, Mesoulam; to Amaria, Iōanan;
 - brenton: to Esdra, Mesulam; to Amaria, Joanan;
