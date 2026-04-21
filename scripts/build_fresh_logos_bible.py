@@ -554,7 +554,7 @@ def build_verse_runs(
 ) -> list[str]:
     runs: list[str] = []
     if logos:
-        runs.append(run(f"[[@{datatype} :{verse.logos_ref}]] ", small=True, color="777777"))
+        runs.append(run(f"[[@{datatype}:{verse.logos_ref}]] ", small=True, color="777777"))
     runs.append(run(f"{verse.verse} ", bold=True))
     if refs:
         note_id = doc.add_footnote("Cross-references: " + "; ".join(refs) + ".")
