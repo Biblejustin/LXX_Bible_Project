@@ -23820,7 +23820,7 @@ And when the priests carrying the ark of the covenant went into the Jordan, and 
 
 **Joshua 3:16**
 
-then the waters coming down from above stood, a mass standing very very far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
+then the waters coming down from above stood, a mass standing exceedingly far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
 
 **Joshua 3:17**
 
@@ -26762,7 +26762,7 @@ Then the heels of the horse were cut off by the prancings of his mighty ones.
 
 **Judges 5:23**
 
-Curse Marōz, said the angel of the Lord; with a curse curse its inhabitants, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
+Curse Marōz, said the angel of the Lord; curse its inhabitants with a curse, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
 
 **Judges 5:24**
 
@@ -56106,7 +56106,7 @@ Be angry and do not sin; say within your hearts, and upon your beds be pierced t
 
 **Psalms 4:6**
 
-Sacrifice sacrifice of righteousness and hope upon Lord.
+Offer a sacrifice of righteousness and hope upon Lord.
 
 **Psalms 4:7**
 
@@ -60220,7 +60220,7 @@ Blessed Lord day by day; God of our salvations will make straight way for us. In
 
 **Psalms 67:21**
 
-Our God God of saving, and to Lord, Lord, exits of death.
+Our God is God of saving, and exits from death belong to Lord, Lord.
 
 **Psalms 67:22**
 
@@ -60272,7 +60272,7 @@ Kingdoms of earth, sing to God; make melody to Lord. Interlude.
 
 **Psalms 67:34**
 
-Sing to God, to one riding on heaven of heaven toward east; behold, he will give to his voice voice of power.
+Sing to God, to one riding on heaven of heaven toward east; behold, he will give to his voice a voice of power.
 
 **Psalms 67:35**
 
@@ -63558,7 +63558,7 @@ Let them confess to Lord his mercies and his wonders to sons of men,
 
 **Psalms 106:22**
 
-and let them sacrifice sacrifice of praise and declare his works in exultation.
+and let them offer a sacrifice of praise and declare his works in exultation.
 
 **Psalms 106:23**
 
@@ -64152,7 +64152,7 @@ O Lord, I your servant, I your servant and son of your handmaid; you tore apart 
 
 **Psalms 115:8**
 
-To you I will sacrifice sacrifice of praise.
+To you I will offer a sacrifice of praise.
 
 **Psalms 115:9**
 
@@ -64858,7 +64858,7 @@ Younger I am and despised; your ordinances I did not forget.
 
 **Psalms 118:142**
 
-Your righteousness righteousness forever, and your law truth.
+Your righteousness is righteousness forever, and your law is truth.
 
 **Psalms 118:143**
 
@@ -66090,7 +66090,7 @@ to make known to sons of men your dominion and glory of magnificence of your kin
 
 **Psalms 144:13**
 
-Your kingdom kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
+Your kingdom is a kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
 
 **Psalms 144:14**
 
@@ -70438,7 +70438,7 @@ Because dream comes in multitude of distraction, and voice of fool in multitude 
 
 **Ecclesiastes 5:3**
 
-Just as if you vow vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay.
+Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay.
 
 **Ecclesiastes 5:4**
 
@@ -71854,7 +71854,7 @@ And now I will announce to you what I will do to my vineyard: I will remove its 
 
 **Isaiah 5:6**
 
-And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to rain rain on it.
+And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to send rain on it.
 
 **Isaiah 5:7**
 
@@ -73124,7 +73124,7 @@ Word of valley of Zion: What happened to you now that all of you went up to hous
 
 **Isaiah 22:2**
 
-City full of shouting, vanity; your wounded not wounded by sword, nor your dead dead of war.
+City full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
 
 **Isaiah 22:3**
 
@@ -73262,7 +73262,7 @@ Work your land, for ship no longer comes from Carthage.
 
 **Isaiah 23:11**
 
-And your hand no longer has strength over the sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+And your hand, the one provoking kings, no longer has strength over the sea. Lord Sabaoth commanded concerning Canaan to destroy her strength.
 
 **Isaiah 23:12**
 
@@ -76206,7 +76206,7 @@ Their web will not become garment, nor will they clothe themselves from their wo
 
 **Isaiah 59:7**
 
-Their feet run to evil, quick to pour out blood, and their thoughts thoughts of fools. Crushing and misery in their ways.
+Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery in their ways.
 
 **Isaiah 59:8**
 
@@ -78702,7 +78702,7 @@ Because with bitter word I will laugh. Lawlessness and misery I will call out, b
 
 **Jeremiah 20:9**
 
-And I said, I will not name name of Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
+And I said, I will not name the name of Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
 
 **Jeremiah 20:10**
 
@@ -79866,7 +79866,7 @@ They will take their tents and their sheep, their garments and all their vessels
 
 **Jeremiah 30:25**
 
-Flee greatly. Go deep into sitting, you sitting in court, because king of Babylon counseled counsel against you and thought thought against you.
+Flee greatly. Go deep into sitting, you sitting in court, because king of Babylon planned a plan against you and devised a thought against you.
 
 **Jeremiah 30:26**
 
@@ -82026,7 +82026,7 @@ And crown and bowls and meat-hooks and all bronze vessels with which they minist
 
 **Jeremiah 52:19**
 
-and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, what was golden gold and what was silver silver, chief cook took.
+and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, whatever was gold and whatever was silver, chief cook took.
 
 **Jeremiah 52:20**
 
@@ -86640,7 +86640,7 @@ and say, I will go up against land thrown open; I will come against those quiet 
 
 **Ezekiel 38:12**
 
-to plunder plunder and spoil spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
+to plunder a plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
 
 **Ezekiel 38:13**
 
@@ -89716,7 +89716,7 @@ I will write for him multitude and his laws; they were reckoned as foreign thing
 
 **Hosea 8:13**
 
-Because if they sacrifice sacrifice and eat meats, Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
+Because if they sacrifice a sacrifice and eat meats, Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
 
 **Hosea 8:14**
 
@@ -90790,7 +90790,7 @@ Thus Lord showed me, and behold, brood of locusts coming in the morning, and beh
 
 **Amos 7:2**
 
-And it will be, if it completes devouring grass of the land, then I said, Lord Lord, be merciful. Who will raise Jacob, because he is small?
+And it will be, if it completes devouring grass of the land, then I said, Lord, Lord, be merciful. Who will raise Jacob, because he is small?
 
 **Amos 7:3**
 
@@ -90802,7 +90802,7 @@ Thus Lord showed me, and behold, Lord called judgment in fire, and it devoured t
 
 **Amos 7:5**
 
-And I said, Lord Lord, cease now. Who will raise Jacob, because he is small?
+And I said, Lord, Lord, cease now. Who will raise Jacob, because he is small?
 
 **Amos 7:6**
 

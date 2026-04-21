@@ -52742,7 +52742,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: then the waters coming down from above stood, a mass standing very very far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
+- fresh: then the waters coming down from above stood, a mass standing exceedingly far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
 - brenton: then the waters that came down from above stopped; there stood one solid heap very far off, as far as the region of Kariathiarim, and the lower part came down to the sea of Araba, the salt sea, till it completely failed; and the people stood opposite Jericho.
 
 ### Joshua 3:17
@@ -59242,7 +59242,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Curse Marōz, said the angel of the Lord; with a curse curse its inhabitants, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
+- fresh: Curse Marōz, said the angel of the Lord; curse its inhabitants with a curse, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
 - brenton: to curse Meroz: Curse ye it, said the angel of the Lord; cursed is every one that dwells in it, because they came not to the help of the Lord, to his help among the mighty.
 
 ### Judges 5:24
@@ -124039,7 +124039,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sacrifice sacrifice of righteousness and hope upon Lord.
+- fresh: Offer a sacrifice of righteousness and hope upon Lord.
 - brenton: [missing]
 
 ### Psalms 4:7
@@ -133012,7 +133012,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Our God God of saving, and to Lord, Lord, exits of death.
+- fresh: Our God is God of saving, and exits from death belong to Lord, Lord.
 - brenton: [missing]
 
 ### Psalms 67:22
@@ -133129,7 +133129,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to God, to one riding on heaven of heaven toward east; behold, he will give to his voice voice of power.
+- fresh: Sing to God, to one riding on heaven of heaven toward east; behold, he will give to his voice a voice of power.
 - brenton: [missing]
 
 ### Psalms 67:35
@@ -140347,7 +140347,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and let them sacrifice sacrifice of praise and declare his works in exultation.
+- fresh: and let them offer a sacrifice of praise and declare his works in exultation.
 - brenton: [missing]
 
 ### Psalms 106:23
@@ -141643,7 +141643,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To you I will sacrifice sacrifice of praise.
+- fresh: To you I will offer a sacrifice of praise.
 - brenton: [missing]
 
 ### Psalms 115:9
@@ -143218,7 +143218,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your righteousness righteousness forever, and your law truth.
+- fresh: Your righteousness is righteousness forever, and your law is truth.
 - brenton: [missing]
 
 ### Psalms 118:143
@@ -145873,7 +145873,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your kingdom kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
+- fresh: Your kingdom is a kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
 - brenton: [missing]
 
 ### Psalms 144:14
@@ -155462,7 +155462,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Just as if you vow vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay.
+- fresh: Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay.
 - brenton: [missing]
 
 ### Ecclesiastes 5:4
@@ -158553,7 +158553,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to rain rain on it.
+- fresh: And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to send rain on it.
 - brenton: [missing]
 
 ### Isaiah 5:7
@@ -161334,7 +161334,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: City full of shouting, vanity; your wounded not wounded by sword, nor your dead dead of war.
+- fresh: City full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
 - brenton: [missing]
 
 ### Isaiah 22:3
@@ -161640,7 +161640,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your hand no longer has strength over the sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+- fresh: And your hand, the one provoking kings, no longer has strength over the sea. Lord Sabaoth commanded concerning Canaan to destroy her strength.
 - brenton: [missing]
 
 ### Isaiah 23:12
@@ -168102,7 +168102,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Their feet run to evil, quick to pour out blood, and their thoughts thoughts of fools. Crushing and misery in their ways.
+- fresh: Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery in their ways.
 - brenton: [missing]
 
 ### Isaiah 59:8
@@ -173594,7 +173594,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, I will not name name of Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
+- fresh: And I said, I will not name the name of Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
 - brenton: [missing]
 
 ### Jeremiah 20:10
@@ -176168,7 +176168,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee greatly. Go deep into sitting, you sitting in court, because king of Babylon counseled counsel against you and thought thought against you.
+- fresh: Flee greatly. Go deep into sitting, you sitting in court, because king of Babylon planned a plan against you and devised a thought against you.
 - brenton: [missing]
 
 ### Jeremiah 30:26
@@ -180929,7 +180929,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, what was golden gold and what was silver silver, chief cook took.
+- fresh: and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, whatever was gold and whatever was silver, chief cook took.
 - brenton: [missing]
 
 ### Jeremiah 52:20
@@ -191112,7 +191112,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to plunder plunder and spoil spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
+- fresh: to plunder a plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
 - brenton: [missing]
 
 ### Ezekiel 38:13
@@ -197893,7 +197893,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if they sacrifice sacrifice and eat meats, Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
+- fresh: Because if they sacrifice a sacrifice and eat meats, Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
 - brenton: [missing]
 
 ### Hosea 8:14
@@ -200228,7 +200228,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, if it completes devouring grass of the land, then I said, Lord Lord, be merciful. Who will raise Jacob, because he is small?
+- fresh: And it will be, if it completes devouring grass of the land, then I said, Lord, Lord, be merciful. Who will raise Jacob, because he is small?
 - brenton: [missing]
 
 ### Amos 7:3
@@ -200255,7 +200255,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Lord Lord, cease now. Who will raise Jacob, because he is small?
+- fresh: And I said, Lord, Lord, cease now. Who will raise Jacob, because he is small?
 - brenton: [missing]
 
 ### Amos 7:6

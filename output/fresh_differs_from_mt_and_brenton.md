@@ -3525,8 +3525,8 @@ Rows: 12237
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.046`
-- fresh_brenton_ratio: `0.259`
-- fresh: then the waters coming down from above stood, a mass standing very very far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
+- fresh_brenton_ratio: `0.262`
+- fresh: then the waters coming down from above stood, a mass standing exceedingly far away, as far as the region of Kariathiarim, but the waters going down went down into the Arabah sea, the Salt Sea, until the end they failed, and the people stood opposite Jericho.
 - mt: That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho.
 - brenton: then the waters that came down from above stopped; there stood one solid heap very far off, as far as the region of Kariathiarim, and the lower part came down to the sea of Araba, the salt sea, till it completely failed; and the people stood opposite Jericho.
 
@@ -57260,15 +57260,6 @@ Rows: 12237
 - mt: The stranger that is within you shall get up above you very high; and you shall come down very low.
 - brenton: The stranger that is within thee shall get up very high, and thou shalt come down very low.
 
-## Judges 5:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.697`
-- fresh_brenton_ratio: `0.683`
-- fresh: Curse Marōz, said the angel of the Lord; with a curse curse its inhabitants, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
-- mt: Curse all of you Meroz, said the angel of the LORD, curse all of you bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.
-- brenton: to curse Meroz: Curse ye it, said the angel of the Lord; cursed is every one that dwells in it, because they came not to the help of the Lord, to his help among the mighty.
-
 ## 2 Kings 9:22
 - priority: `0`
 - importance: `none`
@@ -62650,6 +62641,15 @@ Rows: 12237
 - fresh: Take away the lawless deed of your servant, because in doing the Lord will make for my lord a faithful house, because my lord fights the battles of the Lord, and evil will not be found in you ever.
 - mt: I pray you, forgive the trespass of yours handmaid: for the LORD will certainly make my lord a sure house; because my lord fights the battles of the LORD, and evil has not been found in you all your days.
 - brenton: Remove, I pray thee, the trespass of thy servant; for the Lord will surely make for my lord a sure house, for the Lord fights the battles of my lord, and there shall no evil be ever found in thee.
+
+## Judges 5:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.714`
+- fresh_brenton_ratio: `0.671`
+- fresh: Curse Marōz, said the angel of the Lord; curse its inhabitants with a curse, because they did not come to the help of the Lord. The Lord is our helper, mighty in warriors.
+- mt: Curse all of you Meroz, said the angel of the LORD, curse all of you bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.
+- brenton: to curse Meroz: Curse ye it, said the angel of the Lord; cursed is every one that dwells in it, because they came not to the help of the Lord, to his help among the mighty.
 
 ## Genesis 25:34
 - priority: `0`
