@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 21152
-- medium: 346
-- low: 1419
+- high: 21332
+- medium: 307
+- low: 1278
 - none: 0
 
 Note:
@@ -189704,1620 +189704,1620 @@ Note:
 
 ### Ezekiel 32:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in midst of uncircumcised with wounded of sword, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 33:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 33:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of land take one man from themselves and give him to themselves for watchman,
 - brenton: [missing]
 
 ### Ezekiel 33:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and he sees sword coming upon land and blows trumpet and signals to people,
 - brenton: [missing]
 
 ### Ezekiel 33:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and hearer hears sound of trumpet and does not guard himself, and sword comes and overtakes him, his blood will be on his own head.
 - brenton: [missing]
 
 ### Ezekiel 33:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because hearing sound of trumpet he did not guard himself, his blood will be on him. But one who guarded himself rescued his own life.
 - brenton: [missing]
 
 ### Ezekiel 33:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if watchman sees sword coming and does not signal with trumpet, and people do not guard themselves, and sword coming takes life from them, that one was taken in his own lawlessness, but his blood I will seek from hand of watchman.
 - brenton: [missing]
 
 ### Ezekiel 33:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, I have given you as watchman to house of Israel, and you will hear word from my mouth.
 - brenton: [missing]
 
 ### Ezekiel 33:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When I say to sinner, By death you will die, and you do not speak to guard lawless one from his way, that lawless one will die in his lawlessness, but his blood I will seek from your hand.
 - brenton: [missing]
 
 ### Ezekiel 33:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you warn lawless one about his way, to turn from it, and he does not turn from his way, he will die in his impiety, but you have rescued your own life.
 - brenton: [missing]
 
 ### Ezekiel 33:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, say to house of Israel, Thus you have spoken, saying, Our wanderings and our lawless deeds are upon us, and in them we melt away, and how shall we live?
 - brenton: [missing]
 
 ### Ezekiel 33:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say to them, As I live, thus says Lord, I do not desire death of impious one as much as turning of impious one from his way and his living. Turn back, turn back from your way, and why are you dying, house of Israel?
 - brenton: [missing]
 
 ### Ezekiel 33:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say to sons of your people, Righteousness of righteous one will not rescue him on day he wanders, and lawlessness of impious one will not hurt him on day he turns from his lawlessness, and righteous one will not be able to be saved.
 - brenton: [missing]
 
 ### Ezekiel 33:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When I say to righteous one, He surely lives, and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in injustice that he did, in it he will die.
 - brenton: [missing]
 
 ### Ezekiel 33:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when I say to impious one, By death you will die, and he turns from his sin and does judgment and righteousness,
 - brenton: [missing]
 
 ### Ezekiel 33:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and returns a pledge and repays plunder and walks in ordinances of life, so as not to do injustice, living he will live and will not die.
 - brenton: [missing]
 
 ### Ezekiel 33:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All his sins that he sinned will not be remembered, because he did judgment and righteousness; in them he will live.
 - brenton: [missing]
 
 ### Ezekiel 33:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of your people will say, Way of Lord is not straight, but this their way is not straight.
 - brenton: [missing]
 
 ### Ezekiel 33:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When righteous one turns from his righteousness and does lawlessness, he will die in them.
 - brenton: [missing]
 
 ### Ezekiel 33:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when sinner turns from his lawlessness and does judgment and righteousness, in them he himself will live.
 - brenton: [missing]
 
 ### Ezekiel 33:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this is what you said: Way of Lord is not straight. Each one in his ways I will judge you, house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 33:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in twelfth year, in twelfth month, on fifth of month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
 - brenton: [missing]
 
 ### Ezekiel 33:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hand of Lord came upon me at evening before he came, and opened my mouth until he came to me in morning, and my mouth being opened was no longer restrained.
 - brenton: [missing]
 
 ### Ezekiel 33:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 33:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, those dwelling in desolated places on land of Israel say, Abraham was one and possessed land, and we are many; to us land was given for possession.
 - brenton: [missing]
 
 ### Ezekiel 33:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore say to them, Thus says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 33:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, surely those in desolated places will fall by sword, and those on face of plain will be given to beasts of field for food, and those in fortified places and caves I will kill with death.
 - brenton: [missing]
 
 ### Ezekiel 33:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make land desolation, and arrogance of its strength will perish, and mountains of Israel will be desolated because there is no passerby.
 - brenton: [missing]
 
 ### Ezekiel 33:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will know that I am Lord, when I make their land desolation and it will be desolated because of all their abominations that they did.
 - brenton: [missing]
 
 ### Ezekiel 33:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, sons of your people speaking about you by walls and in doorways of houses, and they speak, man to his brother, saying, Come, let us hear what goes out from Lord.
 - brenton: [missing]
 
 ### Ezekiel 33:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They come to you as people go together and sit before you and hear your words, but will not do them, because falsehood is in their mouth and behind their defilements is their heart.
 - brenton: [missing]
 
 ### Ezekiel 33:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you become to them like voice of sweet-sounding psaltery, well harmonized, and they will hear your words and not do them.
 - brenton: [missing]
 
 ### Ezekiel 33:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when it comes, they will say, Behold, it has come, and they will know that a prophet was in their midst.
 - brenton: [missing]
 
 ### Ezekiel 34:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 34:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, prophesy against shepherds of Israel, prophesy and say to shepherds, Thus says Lord: Woe, shepherds of Israel. Do shepherds not feed themselves? Do shepherds not feed sheep?
 - brenton: [missing]
 
 ### Ezekiel 34:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, you eat the milk and clothe yourselves with wool and slaughter the fat one, but my sheep you do not feed.
 - brenton: [missing]
 
 ### Ezekiel 34:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Weak one you did not strengthen, sick one you did not heal, broken one you did not bind up, straying one you did not turn back, lost one you did not seek, and strong one you worked hard with toil.
 - brenton: [missing]
 
 ### Ezekiel 34:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my sheep were scattered because there were no shepherds and became food for all beasts of field.
 - brenton: [missing]
 
 ### Ezekiel 34:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my sheep were scattered on every mountain and on every high hill and over face of all earth, and there was no one seeking nor turning them back.
 - brenton: [missing]
 
 ### Ezekiel 34:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, shepherds, hear word of Lord.
 - brenton: [missing]
 
 ### Ezekiel 34:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord, surely because my sheep became plunder and my sheep became food for all beasts of field because there were no shepherds, and shepherds did not seek my sheep, and shepherds fed themselves but did not feed my sheep,
 - brenton: [missing]
 
 ### Ezekiel 34:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of this, shepherds,
 - brenton: [missing]
 
 ### Ezekiel 34:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: thus says Lord: Behold, I am against shepherds and will require my sheep from their hands and turn them back from not shepherding my sheep, and shepherds will no longer feed them, and I will rescue my sheep from their mouth and they will no longer be food for them.
 - brenton: [missing]
 
 ### Ezekiel 34:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Behold, I will seek out my sheep and visit them.
 - brenton: [missing]
 
 ### Ezekiel 34:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As shepherd seeks his flock on day when cloud and gloom are in midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on day of cloud and gloom.
 - brenton: [missing]
 
 ### Ezekiel 34:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring them out from nations and gather them from lands and bring them into their land and feed them on mountains of Israel and in ravines and in every habitation of land.
 - brenton: [missing]
 
 ### Ezekiel 34:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In good pasture I will feed them, and on high mountain of Israel will be their folds; there they will lie down and rest in good delight, and in rich pasture they will be fed on mountains of Israel.
 - brenton: [missing]
 
 ### Ezekiel 34:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I myself will feed my sheep, and I myself will give them rest, and they will know that I am Lord, thus says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 34:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lost one I will seek, straying one I will turn back, broken one I will bind up, faint one I will strengthen, and strong one I will guard, and I will feed them with judgment.
 - brenton: [missing]
 
 ### Ezekiel 34:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, sheep, thus says Lord God: Behold, I judge between sheep and sheep, rams and he-goats.
 - brenton: [missing]
 
 ### Ezekiel 34:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And is it not enough for you that you grazed good pasture and trample the rest of your pasture with your feet, and drink settled water and trouble the rest with your feet?
 - brenton: [missing]
 
 ### Ezekiel 34:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my sheep fed on tramplings of your feet and drank water troubled under your feet.
 - brenton: [missing]
 
 ### Ezekiel 34:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord God: Behold, I judge between strong sheep and weak sheep.
 - brenton: [missing]
 
 ### Ezekiel 34:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With your sides and your shoulders you pushed, and with your horns you gored, and every faint one you pressed out.
 - brenton: [missing]
 
 ### Ezekiel 34:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will save my sheep, and they will no longer be plunder, and I will judge between ram and ram.
 - brenton: [missing]
 
 ### Ezekiel 34:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will raise up over them one shepherd, and he will shepherd them, my servant David, and he will be their shepherd.
 - brenton: [missing]
 
 ### Ezekiel 34:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I, Lord, will be to them for God, and David in their midst ruler. I, Lord, have spoken.
 - brenton: [missing]
 
 ### Ezekiel 34:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make with David covenant of peace and destroy evil beasts from land, and they will dwell in wilderness and sleep in forests.
 - brenton: [missing]
 
 ### Ezekiel 34:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give them around my mountain and give you rain, rain of blessing.
 - brenton: [missing]
 
 ### Ezekiel 34:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And trees in field will give their fruit and land will give its strength, and they will dwell on their land in hope of peace and know that I am Lord when I break their yoke and rescue them from hand of those enslaving them.
 - brenton: [missing]
 
 ### Ezekiel 34:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will no longer be plunder to nations, and beasts of earth will never again eat them, and they will dwell in hope and there will be no one frightening them.
 - brenton: [missing]
 
 ### Ezekiel 34:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will raise up for them plant of peace, and they will no longer be destroyed by famine on earth and will no longer bear reproach of nations.
 - brenton: [missing]
 
 ### Ezekiel 34:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will know that I am Lord their God, and they are my people, house of Israel, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 34:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are my sheep, sheep of my flock, and I am Lord your God, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 35:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 35:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, turn your face upon Mount Seir and prophesy against it,
 - brenton: [missing]
 
 ### Ezekiel 35:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Thus says Lord: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and give you for wilderness, and you will be desolated.
 - brenton: [missing]
 
 ### Ezekiel 35:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make your cities desolation, and you will be a waste and know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 35:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you became perpetual enemy and laid plots against house of Israel into hand of enemies, sword in time of injustice at the last,
 - brenton: [missing]
 
 ### Ezekiel 35:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore as I live, says Lord, surely you sinned unto blood, and blood will pursue you.
 - brenton: [missing]
 
 ### Ezekiel 35:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make Mount Seir wilderness and desolation and destroy from it men and cattle.
 - brenton: [missing]
 
 ### Ezekiel 35:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will fill your hills with your wounded, and your ravines and all your plains. Wounded by sword will fall in you.
 - brenton: [missing]
 
 ### Ezekiel 35:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Everlasting desolation I will make you, and your cities will never again be inhabited, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 35:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you said, These two nations and these two lands will be mine and I will inherit them, and Lord is there,
 - brenton: [missing]
 
 ### Ezekiel 35:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore as I live, says Lord, I will do to you according to your enmity and be made known to you when I judge you.
 - brenton: [missing]
 
 ### Ezekiel 35:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am Lord; I heard voice of your blasphemies, because you said, Mountains of Israel are desolate, given to us for food.
 - brenton: [missing]
 
 ### Ezekiel 35:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you made great speeches against me with your mouth; I heard.
 - brenton: [missing]
 
 ### Ezekiel 35:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: In joy of whole earth I will make you desolation.
 - brenton: [missing]
 
 ### Ezekiel 35:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will be desolation, Mount Seir, and all Idumea will be utterly consumed, and you will know that I am Lord their God.
 - brenton: [missing]
 
 ### Ezekiel 36:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, prophesy over mountains of Israel and say to mountains of Israel, Hear word of Lord.
 - brenton: [missing]
 
 ### Ezekiel 36:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: Because enemy said against you, Good, everlasting desolations became ours for possession,
 - brenton: [missing]
 
 ### Ezekiel 36:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore prophesy and say, Thus says Lord: Because you were dishonored and hated by those around you, so as to be possession to remnant of nations, and you went up for talk of tongue and for reproach among nations,
 - brenton: [missing]
 
 ### Ezekiel 36:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore mountains of Israel hear word of Lord. Thus says Lord to mountains and hills and ravines and torrents and desolated and ruined places and abandoned cities, which became plunder and trampling to remaining nations around,
 - brenton: [missing]
 
 ### Ezekiel 36:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore thus says Lord: Surely in fire of my wrath I spoke against remaining nations and against all Idumea, because they gave my land to themselves for possession with joy, dishonoring souls, so as to destroy it for plunder.
 - brenton: [missing]
 
 ### Ezekiel 36:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy over land of Israel and say to mountains and hills and ravines and valleys, Thus says Lord: Behold, in my zeal and in my wrath I spoke because you bore reproach of nations.
 - brenton: [missing]
 
 ### Ezekiel 36:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I lift up my hand over nations around you; they themselves will bear their dishonor.
 - brenton: [missing]
 
 ### Ezekiel 36:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, mountains of Israel, your grape and your fruit my people will eat, because they are drawing near to come.
 - brenton: [missing]
 
 ### Ezekiel 36:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I am for you and will look upon you, and you will be worked and sown.
 - brenton: [missing]
 
 ### Ezekiel 36:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will multiply upon you men, all house of Israel to the end, and cities will be inhabited and the desolated thing will be built.
 - brenton: [missing]
 
 ### Ezekiel 36:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will multiply upon you men and cattle and settle you as at your beginning and do good to you like your former times, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 36:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cause men to be born upon you, my people Israel, and they will inherit you, and you will be to them for possession and will no longer again make them childless.
 - brenton: [missing]
 
 ### Ezekiel 36:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: Because they said to you, You are devouring men and became childless by your nation,
 - brenton: [missing]
 
 ### Ezekiel 36:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore you will no longer eat men, and your nation you will no longer make childless, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 36:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And reproach of nations will no longer be heard against you, and reproaches of peoples you will no longer bear, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 36:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 36:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, house of Israel dwelt on their land and defiled it in their way and in their idols and in their uncleannesses; like uncleanness of woman set apart, so their way became before me.
 - brenton: [missing]
 
 ### Ezekiel 36:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I poured out my wrath upon them.
 - brenton: [missing]
 
 ### Ezekiel 36:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I scattered them among nations and winnowed them into lands; according to their way and according to their sin I judged them.
 - brenton: [missing]
 
 ### Ezekiel 36:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they entered into nations where they entered there and profaned my holy name, when it was said of them, These are people of Lord, and they came out of his land.
 - brenton: [missing]
 
 ### Ezekiel 36:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I spared them because of my holy name, which house of Israel profaned among nations where they entered there.
 - brenton: [missing]
 
 ### Ezekiel 36:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore say to house of Israel, Thus says Lord: Not for your sake do I act, house of Israel, but for sake of my holy name, which you profaned among nations where you entered there.
 - brenton: [missing]
 
 ### Ezekiel 36:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will sanctify my great name, profaned among nations, which you profaned in their midst, and nations will know that I am Lord when I am sanctified in you before their eyes.
 - brenton: [missing]
 
 ### Ezekiel 36:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will take you from nations and gather you from all lands and bring you into your land.
 - brenton: [missing]
 
 ### Ezekiel 36:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will sprinkle clean water upon you and you will be cleansed from all your uncleannesses and from all your idols, and I will cleanse you.
 - brenton: [missing]
 
 ### Ezekiel 36:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give you new heart and new spirit I will give in you, and I will remove heart of stone from your flesh and give you heart of flesh.
 - brenton: [missing]
 
 ### Ezekiel 36:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my Spirit I will give in you and make you walk in my ordinances and keep my judgments and do them.
 - brenton: [missing]
 
 ### Ezekiel 36:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will dwell on land that I gave to your fathers, and you will be to me for people and I will be to you for God.
 - brenton: [missing]
 
 ### Ezekiel 36:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will save you from all your uncleannesses and call for the grain and multiply it and not give famine upon you.
 - brenton: [missing]
 
 ### Ezekiel 36:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will multiply fruit of tree and produce of field so that you no longer receive reproach of famine among nations.
 - brenton: [missing]
 
 ### Ezekiel 36:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will remember your evil ways and your practices not good and loathe yourselves before your faces for your lawless deeds and your abominations.
 - brenton: [missing]
 
 ### Ezekiel 36:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not for your sake do I act, says Lord God; it will be made known to you. Be ashamed and be confounded from your ways, house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 36:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: On day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
 - brenton: [missing]
 
 ### Ezekiel 36:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and land that was desolated will be worked, because it had become desolated before eyes of every passerby.
 - brenton: [missing]
 
 ### Ezekiel 36:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will say, That land which was desolated became like garden of delight, and cities desolate and ruined and torn down now sat fortified.
 - brenton: [missing]
 
 ### Ezekiel 36:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations that are left around you will know that I, Lord, built torn-down things and planted desolated things. I, Lord, have spoken and will do it.
 - brenton: [missing]
 
 ### Ezekiel 36:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Still this I will be sought by house of Israel to do for them: I will multiply them like sheep, men.
 - brenton: [missing]
 
 ### Ezekiel 36:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As holy sheep, as sheep of Jerusalem in her feasts, so desolate cities will be filled with flocks of men, and they will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 37:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hand of Lord came upon me, and Lord brought me out in Spirit and set me in midst of plain, and it was full of human bones.
 - brenton: [missing]
 
 ### Ezekiel 37:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led me around them, round about, and behold, very many on face of plain, very dry.
 - brenton: [missing]
 
 ### Ezekiel 37:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, will these bones live? And I said, Lord, you know these things.
 - brenton: [missing]
 
 ### Ezekiel 37:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Prophesy over these bones, and you will say to them, Dry bones, hear word of Lord.
 - brenton: [missing]
 
 ### Ezekiel 37:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord to these bones: Behold, I bring into you spirit of life.
 - brenton: [missing]
 
 ### Ezekiel 37:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will put sinews on you and bring up flesh upon you and stretch skin over you and give my Spirit into you, and you will live, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 37:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I prophesied as he commanded me, and it happened, in my prophesying, and behold, shaking, and each bone came to its fitting.
 - brenton: [missing]
 
 ### Ezekiel 37:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw, and behold, upon them sinews and flesh were growing and skin was rising over them above, but spirit was not in them.
 - brenton: [missing]
 
 ### Ezekiel 37:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Prophesy, son of man, prophesy to the spirit, and say to the spirit, Thus says Lord: From the four winds come and breathe into these dead ones, and let them live.
 - brenton: [missing]
 
 ### Ezekiel 37:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I prophesied as he commanded me, and spirit entered into them, and they lived and stood upon their feet, a very great gathering.
 - brenton: [missing]
 
 ### Ezekiel 37:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord spoke to me, saying, Son of man, these bones are whole house of Israel, and they say, Our bones have become dry, our hope has perished, we are cut off.
 - brenton: [missing]
 
 ### Ezekiel 37:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy and say, Thus says Lord: Behold, I open your tombs and bring you up from your tombs and bring you into land of Israel.
 - brenton: [missing]
 
 ### Ezekiel 37:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am Lord when I open your graves, when I bring my people up from the graves.
 - brenton: [missing]
 
 ### Ezekiel 37:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give my Spirit into you and you will live, and I will place you on your land, and you will know that I, Lord, have spoken and will do it, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 37:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 37:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, take for yourself a rod and write on it, Judah and sons of Israel attached to him, and take for yourself second rod and write on it, Joseph, rod of Ephraim, and all sons of Israel added to him.
 - brenton: [missing]
 
 ### Ezekiel 37:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And join them one to another for yourself into one rod, to bind them, and they will be in your hand.
 - brenton: [missing]
 
 ### Ezekiel 37:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be when sons of your people say to you, Will you not tell us what these things are to you?
 - brenton: [missing]
 
 ### Ezekiel 37:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will say to them, Thus says Lord: Behold, I take tribe of Joseph from hand of Ephraim and tribes of Israel attached to him, and I will place them upon tribe of Judah, and they will be one rod in hand of Judah.
 - brenton: [missing]
 
 ### Ezekiel 37:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the rods on which you wrote will be in your hand before them.
 - brenton: [missing]
 
 ### Ezekiel 37:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to them, Thus says Lord God: Behold, I take whole house of Israel from midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
 - brenton: [missing]
 
 ### Ezekiel 37:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make them one nation in my land and on mountains of Israel, and one ruler will be over them, and they will no longer be two nations, nor be divided any longer into two kingdoms.
 - brenton: [missing]
 
 ### Ezekiel 37:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that they no longer may defile themselves with their idols, and I will rescue them from all their lawless deeds in which they sinned, and I will cleanse them, and they will be to me for people, and I, Lord, will be to them for God.
 - brenton: [missing]
 
 ### Ezekiel 37:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my servant David will be ruler in their midst, and one shepherd will be for all, because they will walk in my ordinances and keep my judgments and do them.
 - brenton: [missing]
 
 ### Ezekiel 37:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will dwell on their land that I gave to my servant Jacob, where their fathers dwelt there, and they will dwell on it, they and David my servant their ruler, forever.
 - brenton: [missing]
 
 ### Ezekiel 37:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make with them covenant of peace; everlasting covenant will be with them, and I will put my holy things in their midst forever.
 - brenton: [missing]
 
 ### Ezekiel 37:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my dwelling will be among them, and I will be to them for God, and they will be to me for people.
 - brenton: [missing]
 
 ### Ezekiel 37:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations will know that I am Lord sanctifying them, when my holy things are in their midst forever.
 - brenton: [missing]
 
 ### Ezekiel 38:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 38:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, set your face toward Gog and land of Magog, ruler of Rhos, Mosoch, and Thobel, and prophesy over him.
 - brenton: [missing]
 
 ### Ezekiel 38:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And say to him, Thus says Lord God: Behold, I am against you, Gog, ruler of Rhos, Mosoch, and Thobel.
 - brenton: [missing]
 
 ### Ezekiel 38:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will gather you and all your force, horses and horsemen clothed in armor, all a great assembly, shields and helmets and swords,
 - brenton: [missing]
 
 ### Ezekiel 38:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Persians and Ethiopians and Libyans, all with helmets and shields,
 - brenton: [missing]
 
 ### Ezekiel 38:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gomer and all around him, house of Thergama from farthest north and all around him, and many nations with you.
 - brenton: [missing]
 
 ### Ezekiel 38:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be prepared; prepare yourself, you and all your assembly gathered with you, and you will be to me for guard.
 - brenton: [missing]
 
 ### Ezekiel 38:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: After many days he will be prepared, and in latter years he will come and enter into land turned back from sword, gathered from many nations onto land of Israel, which became desolation through all time, and this people came out from nations and they all will dwell in peace.
 - brenton: [missing]
 
 ### Ezekiel 38:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will come up like rain and arrive like cloud to cover land, you and all around you, and many nations with you.
 - brenton: [missing]
 
 ### Ezekiel 38:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: And it will be on that day, words will come up into your heart, and you will reason evil plans,
 - brenton: [missing]
 
 ### Ezekiel 38:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, I will go up against land thrown open; I will come against those quiet in stillness and dwelling in peace, all dwelling on land where there is no wall, and bars and gates are not for them,
 - brenton: [missing]
 
 ### Ezekiel 38:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to plunder plunder and spoil spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
 - brenton: [missing]
 
 ### Ezekiel 38:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sheba and Daedan and merchants of Carthage and all their villages will say to you, Is it for plunder that you come, and to spoil spoils? Did you gather your assembly to take silver and gold, to carry off possessions, to spoil spoils?
 - brenton: [missing]
 
 ### Ezekiel 38:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy, son of man, and say to Gog, Thus says Lord: Is it not on that day, when my people Israel are settled in peace, that you will rise up?
 - brenton: [missing]
 
 ### Ezekiel 38:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will come from your place, from farthest north, and many nations with you, all riding horses, great assembly and much force.
 - brenton: [missing]
 
 ### Ezekiel 38:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will come up against my people Israel like cloud covering land; in latter days it will be, and I will bring you upon my land so that all nations may know me when I am sanctified in you before them.
 - brenton: [missing]
 
 ### Ezekiel 38:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God to Gog: Are you the one concerning whom I spoke in former days through hand of my servants, prophets of Israel, in those days and years, to bring you upon them?
 - brenton: [missing]
 
 ### Ezekiel 38:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be on that day, on day when Gog comes upon land of Israel, says Lord God, my wrath will rise up.
 - brenton: [missing]
 
 ### Ezekiel 38:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in my zeal, in fire of my anger, I spoke: Surely on that day there will be great earthquake upon land of Israel.
 - brenton: [missing]
 
 ### Ezekiel 38:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from face of Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
 - brenton: [missing]
 
 ### Ezekiel 38:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will call against him every fear, says Lord; sword of each man will be against his brother.
 - brenton: [missing]
 
 ### Ezekiel 38:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will judge him with death and blood, and with flooding rain and hailstones and fire and sulfur I will rain on him and on all with him and on many nations with him.
 - brenton: [missing]
 
 ### Ezekiel 38:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will be magnified and sanctified and glorified and made known before many nations, and they will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, prophesy over Gog and say, Thus says Lord: Behold, I am against you, Gog, ruler of Rhos, Mosoch, and Thobel.
 - brenton: [missing]
 
 ### Ezekiel 39:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will gather you and lead you and bring you up from farthest north and bring you upon mountains of Israel.
 - brenton: [missing]
 
 ### Ezekiel 39:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy your bow from your left hand and your arrows from your right hand and cast you down.
 - brenton: [missing]
 
 ### Ezekiel 39:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon mountains of Israel you will fall, you and all around you and nations with you. I have given you to flocks of birds, to every bird, and to all beasts of field to be devoured.
 - brenton: [missing]
 
 ### Ezekiel 39:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon face of plain you will fall, because I have spoken, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire upon Gog, and islands will be inhabited in peace, and they will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my holy name will be made known in midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am Lord, holy in Israel.
 - brenton: [missing]
 
 ### Ezekiel 39:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, it comes, and you will know that it will be, says Lord God. This is the day about which I spoke.
 - brenton: [missing]
 
 ### Ezekiel 39:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And inhabitants of cities of Israel will go out and burn weapons, shields and spears and bows and arrows and hand-staves and lances, and they will burn fire with them seven years.
 - brenton: [missing]
 
 ### Ezekiel 39:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will not take wood from field nor cut from forests, but rather they will burn the weapons with fire and plunder those who plundered them and spoil those who spoiled them, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 39:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be on that day I will give to Gog well-known place, a tomb in Israel, the burial place of those coming toward the sea, and they will wall up the mouth of the ravine and bury Gog there and all his multitude, and it will be called Valley, burial place of Gog.
 - brenton: [missing]
 
 ### Ezekiel 39:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And house of Israel will bury them so that land may be cleansed in seven months.
 - brenton: [missing]
