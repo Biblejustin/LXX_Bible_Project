@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 22592
-- medium: 51
-- low: 274
+- high: 22772
+- medium: 27
+- low: 118
 - none: 0
 
 Note:
@@ -203224,90 +203224,90 @@ Note:
 
 ### Zephaniah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lament, inhabitants of the Cut-place, because all people of Canaan have become like nothing; all lifted up with silver were destroyed.
 - brenton: [missing]
 
 ### Zephaniah 1:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, I will search Jerusalem with lamp and avenge upon men despising on their watch-posts, those saying in their hearts, Lord will not do good, and he will not do harm.
 - brenton: [missing]
 
 ### Zephaniah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their strength will be for plunder and their houses for disappearance, and they will build houses and certainly not dwell in them and plant vineyards and certainly not drink their wine.
 - brenton: [missing]
 
 ### Zephaniah 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because great day of Lord is near, near and very swift. Voice of Lord's day bitter and hard, appointed strong.
 - brenton: [missing]
 
 ### Zephaniah 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: That day is day of wrath, day of distress and necessity, day of untimeliness and disappearance, day of darkness and gloom, day of cloud and mist,
 - brenton: [missing]
 
 ### Zephaniah 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: day of trumpet and cry against fortified cities and against lofty corners.
 - brenton: [missing]
 
 ### Zephaniah 1:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will press humans, and they will walk as blind, because they sinned against Lord, and he will pour out their blood like dust and their flesh like dung.
 - brenton: [missing]
 
 ### Zephaniah 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their silver and their gold will certainly not be able to rescue them in day of Lord's wrath, and in fire of his zeal all earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
 - brenton: [missing]
 
 ### Zephaniah 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather together and be bound together, undisciplined nation,
 - brenton: [missing]
 
 ### Zephaniah 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: before you come to be like passing flower, before Lord's wrath comes upon you, before day of Lord's anger comes upon you.
 - brenton: [missing]
@@ -203323,135 +203323,135 @@ Note:
 
 ### Zephaniah 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Gaza will be plundered, and Ascalon will be for destruction, and Azotus will be cast out at noon, and Accaron uprooted.
 - brenton: [missing]
 
 ### Zephaniah 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, inhabitants of tract of sea, resident Cretans. Word of Lord is upon you, Canaan, land of foreigners, and I will destroy you from habitation.
 - brenton: [missing]
 
 ### Zephaniah 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Crete will be pasture of flocks and sheepfold.
 - brenton: [missing]
 
 ### Zephaniah 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And tract of sea will belong to remnant of house of Judah. Upon them they will pasture; in houses of Ascalon at evening they will lodge before sons of Judah, because Lord their God visited them and turned back their captivity.
 - brenton: [missing]
 
 ### Zephaniah 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I heard reproaches of Moab and taunts of sons of Ammon, with which they reproached my people and magnified themselves against my borders.
 - brenton: [missing]
 
 ### Zephaniah 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, as I live, says Lord of forces, God of Israel, Moab will be as Sodom and sons of Ammon as Gomorrah, and Damascus left behind like heap of threshing-floor and desolated forever; remnant of my people will plunder them, and remnant of my nation will inherit them.
 - brenton: [missing]
 
 ### Zephaniah 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This to them in return for their arrogance, because they reproached and magnified themselves against Lord Almighty.
 - brenton: [missing]
 
 ### Zephaniah 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will appear against them and destroy all gods of nations of earth, and all islands of nations will worship him, each from his place.
 - brenton: [missing]
 
 ### Zephaniah 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you Ethiopians are wounded by my sword.
 - brenton: [missing]
 
 ### Zephaniah 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will stretch out his hand against north and destroy Assyrian and make Nineveh into disappearance, waterless as desert.
 - brenton: [missing]
 
 ### Zephaniah 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And flocks will pasture in her midst and all beasts of earth, and chameleons and hedgehogs will lie in her carved places, and beasts will cry out in her ditches, ravens in her gates, because cedar is her height.
 - brenton: [missing]
 
 ### Zephaniah 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is city that made light, dwelling in hope, saying in her heart, I am, and there is none besides me. How she became for destruction, pasture of beasts. Everyone passing through her will hiss and wave his hands.
 - brenton: [missing]
 
 ### Zephaniah 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O famous and redeemed city, the dove.
 - brenton: [missing]
 
 ### Zephaniah 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She did not listen to voice, did not accept correction, in Lord she did not trust, and to her God she did not draw near.
 - brenton: [missing]
 
 ### Zephaniah 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her rulers within her are as roaring lions; her judges as wolves of Arabia, not leaving anything till morning.
 - brenton: [missing]
@@ -203476,99 +203476,99 @@ Note:
 
 ### Zephaniah 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In destruction I pulled down proud ones; their corners disappeared. I will make their roads desolate, utterly not traversed; their cities failed, with no one existing or dwelling.
 - brenton: [missing]
 
 ### Zephaniah 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, Yet fear me and receive correction, and you will certainly not be destroyed from before her, all that I avenged upon her. Prepare, rise early; all their gleaning is corrupted.
 - brenton: [missing]
 
 ### Zephaniah 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore wait for me, says Lord, for day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all anger of my wrath, because in fire of my zeal all earth will be consumed.
 - brenton: [missing]
 
 ### Zephaniah 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because then I will turn toward peoples a tongue for its generation, for all to call on name of Lord, to serve him under one yoke.
 - brenton: [missing]
 
 ### Zephaniah 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From ends of rivers of Ethiopia they will bring sacrifices to me.
 - brenton: [missing]
 
 ### Zephaniah 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day you will certainly not be put to shame because of all practices by which you acted impiously against me, because then I will remove from you scornings of your arrogance, and you will no longer continue to boast on my holy mountain.
 - brenton: [missing]
 
 ### Zephaniah 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will leave in you a people gentle and humble, and they will fear name of Lord.
 - brenton: [missing]
 
 ### Zephaniah 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remnant of Israel will not do injustice and will not speak vain things, and no deceitful tongue will be found in their mouth, because they will pasture and lie down and there will be no one frightening them.
 - brenton: [missing]
 
 ### Zephaniah 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem; be glad and delight with all your heart, daughter Jerusalem.
 - brenton: [missing]
 
 ### Zephaniah 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
 - brenton: [missing]
 
 ### Zephaniah 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that time Lord will say to Jerusalem, Take courage, Zion; let not your hands grow slack.
 - brenton: [missing]
@@ -203584,27 +203584,27 @@ Note:
 
 ### Zephaniah 3:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will gather the crushed ones. Woe, who took reproach upon her?
 - brenton: [missing]
 
 ### Zephaniah 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I act in you for your sake in that time, says Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for boast and renowned in all earth.
 - brenton: [missing]
 
 ### Zephaniah 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be put to shame in that time when I do well to you and when I receive you, because I will make you renowned and for boast among all peoples of earth, when I turn back your captivity before you, says Lord.
 - brenton: [missing]
@@ -203622,90 +203622,90 @@ Note:
 
 ### Haggai 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: This people says, Time has not yet come to build house of Lord.
 - brenton: [missing]
 
 ### Haggai 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord came by hand of Haggai prophet, saying,
 - brenton: [missing]
 
 ### Haggai 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is it time for you to dwell in your paneled houses while this house lies desolate?
 - brenton: [missing]
 
 ### Haggai 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now thus says Lord Almighty: Set your hearts on your ways.
 - brenton: [missing]
 
 ### Haggai 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and one gathering wages gathered into a pierced purse.
 - brenton: [missing]
 
 ### Haggai 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Set your hearts on your ways.
 - brenton: [missing]
 
 ### Haggai 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go up to mountain, cut wood, and build house, and I will take pleasure in it and be glorified, says Lord.
 - brenton: [missing]
 
 ### Haggai 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You looked for much, and it became little, and it was brought into house, and I blew it away. Because of what? says Lord Almighty. Because my house is desolate, while you each hurry to your own house.
 - brenton: [missing]
 
 ### Haggai 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore sky will hold back from dew, and land will hold back its produce.
 - brenton: [missing]
 
 ### Haggai 1:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bring sword upon land and upon mountains and upon grain and upon wine and upon oil and upon what ground brings forth and upon people and cattle and upon all labors of their hands.
 - brenton: [missing]
@@ -203739,36 +203739,36 @@ Note:
 
 ### Haggai 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: on twenty-fourth day of sixth month, in second year of Darius king.
 - brenton: [missing]
 
 ### Haggai 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In seventh month, on twenty-first day of month, Lord spoke by hand of Haggai prophet, saying,
 - brenton: [missing]
 
 ### Haggai 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Speak now to Zerubbabel son of Salathiel from tribe of Judah, and to Jeshua son of Josedek the great priest, and to all remnant of people, saying,
 - brenton: [missing]
 
 ### Haggai 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who among you saw this house in its former glory? And how do you see it now? Is it not as though not existing before you?
 - brenton: [missing]
@@ -203784,36 +203784,36 @@ Note:
 
 ### Haggai 2:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my spirit stands in midst of you; take courage.
 - brenton: [missing]
 
 ### Haggai 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Yet once I will shake heaven and earth and sea and dry land.
 - brenton: [missing]
 
 ### Haggai 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will shake all nations, and chosen things of all nations will come, and I will fill this house with glory, says Lord Almighty.
 - brenton: [missing]
 
 ### Haggai 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Silver is mine, and gold is mine, says Lord Almighty.
 - brenton: [missing]
@@ -203829,126 +203829,126 @@ Note:
 
 ### Haggai 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On twenty-fourth day of ninth month, in second year of Darius, word of Lord came to Haggai prophet, saying,
 - brenton: [missing]
 
 ### Haggai 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Ask priests about law, saying,
 - brenton: [missing]
 
 ### Haggai 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If a man takes holy flesh in fold of his garment and edge of garment touches bread or cooked food or wine or oil or any food, will it be made holy? Priests answered and said, No.
 - brenton: [missing]
 
 ### Haggai 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Haggai said, If one defiled by a corpse touches any of these, will it be defiled? Priests answered and said, It will be defiled.
 - brenton: [missing]
 
 ### Haggai 2:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Haggai answered and said, So is this people and so is this nation before me, says Lord, and so are all works of their hands, and whatever approaches there will be defiled. Because of their early spoil they will be pained before their labors, and you hated those rebuking in gates.
 - brenton: [missing]
 
 ### Haggai 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now set this on your hearts from this day and upward, before stone was set upon stone in temple of Lord.
 - brenton: [missing]
 
 ### Haggai 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What were you when you put into heap twenty seahs of barley and it became ten, and you went into wine-vat to draw fifty measures and there became twenty?
 - brenton: [missing]
 
 ### Haggai 2:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I struck you with barrenness and blight and hail, all works of your hands, and you did not turn to me, says Lord.
 - brenton: [missing]
 
 ### Haggai 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Submit your hearts now from this day and onward, from twenty-fourth day of ninth month and from day when temple of Lord was founded; set it in your hearts.
 - brenton: [missing]
 
 ### Haggai 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is seed still known on threshing-floor? And if vine and fig tree and pomegranate and olive trees that do not bear fruit, from this day I will bless.
 - brenton: [missing]
 
 ### Haggai 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord came second time to Haggai prophet on twenty-fourth day of month, saying,
 - brenton: [missing]
 
 ### Haggai 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Speak to Zerubbabel son of Salathiel from tribe of Judah, saying: I shake heaven and earth and sea and dry land,
 - brenton: [missing]
 
 ### Haggai 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I will overturn thrones of kings and destroy strength of kings of nations and overturn chariots and riders, and horses and riders will come down, each by sword of his brother.
 - brenton: [missing]
 
 ### Haggai 2:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, says Lord Almighty, I will take you, Zerubbabel son of Salathiel, my servant, says Lord, and place you like a seal, because I chose you, says Lord Almighty.
 - brenton: [missing]
@@ -203957,441 +203957,441 @@ Note:
 
 ### Zechariah 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In eighth month of second year of Darius, word of Lord came to Zechariah son of Barachias, son of Addo, the prophet, saying,
 - brenton: [missing]
 
 ### Zechariah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord was angry with your fathers with great anger.
 - brenton: [missing]
 
 ### Zechariah 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to them, Thus says Lord Almighty: Return to me, and I will return to you, says Lord.
 - brenton: [missing]
 
 ### Zechariah 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not become like your fathers, to whom former prophets called, saying, Thus says Lord Almighty: Turn from your evil ways and from your evil practices. But they did not pay attention to hear me, says Lord.
 - brenton: [missing]
 
 ### Zechariah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where are your fathers? And will prophets live forever?
 - brenton: [missing]
 
 ### Zechariah 1:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet receive my words and my statutes, whatever I command in my Spirit to my servants the prophets, which overtook your fathers. And they answered and said, Just as Lord Almighty was arrayed to do according to our ways and according to our practices, so he has done to us.
 - brenton: [missing]
 
 ### Zechariah 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On twenty-fourth day of eleventh month, this is month Sabat, in second year of Darius, word of Lord came to Zechariah son of Barachias, son of Addo, the prophet, saying,
 - brenton: [missing]
 
 ### Zechariah 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw by night, and behold, a man mounted on red horse, and he stood between two shadowed mountains, and behind him were red, dappled, varied, and white horses.
 - brenton: [missing]
 
 ### Zechariah 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, What are these, lord? And angel speaking in me said to me, I will show you what these are.
 - brenton: [missing]
 
 ### Zechariah 1:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And man standing between mountains answered and said to me, These are ones Lord sent to patrol earth.
 - brenton: [missing]
 
 ### Zechariah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they answered angel of Lord standing between mountains and said, We have patrolled all earth, and behold, all earth is inhabited and at rest.
 - brenton: [missing]
 
 ### Zechariah 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the angel of the Lord answered and said, Lord Almighty, how long will you not have mercy on Jerusalem and the cities of Judah, which you overlooked this seventieth year?
 - brenton: [missing]
 
 ### Zechariah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord Almighty answered angel speaking in me with good words and consoling sayings.
 - brenton: [missing]
 
 ### Zechariah 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking in me said to me, Cry out, saying, Thus says Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
 - brenton: [missing]
 
 ### Zechariah 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and with great anger I am angry against nations joining attack, because I was angry a little, but they joined in for evils.
 - brenton: [missing]
 
 ### Zechariah 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: I will return to Jerusalem with compassion, and my house will be rebuilt in her, says Lord Almighty, and measuring line will still be stretched over Jerusalem.
 - brenton: [missing]
 
 ### Zechariah 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking with me said to me, Cry out, saying, Thus says Lord Almighty: Cities will still overflow with good things, and Lord will still have mercy on Zion and still choose Jerusalem.
 - brenton: [missing]
 
 ### Zechariah 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my eyes and saw, and behold, four horns.
 - brenton: [missing]
 
 ### Zechariah 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to angel speaking in me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
 - brenton: [missing]
 
 ### Zechariah 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord showed me four craftsmen.
 - brenton: [missing]
 
 ### Zechariah 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, What are these coming to do? And he said to me, These are horns that scattered Judah and Israel; they broke them down, and no one lifted head among them. And these came to sharpen them in their hands, the four horns, the nations lifting horn against land of Lord to scatter it.
 - brenton: [missing]
 
 ### Zechariah 2:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my eyes and saw, and behold, a man, and in his hand a measuring line.
 - brenton: [missing]
 
 ### Zechariah 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to him, Where are you going? And he said to me, To measure Jerusalem, to see how great its width is and how great its length.
 - brenton: [missing]
 
 ### Zechariah 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, angel speaking in me stood, and another angel went out to meet him,
 - brenton: [missing]
 
 ### Zechariah 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and said to him, Run, and speak to that young man, saying: Jerusalem will be inhabited fruitfully because of multitude of humans and cattle in her midst.
 - brenton: [missing]
 
 ### Zechariah 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will be to her, says Lord, a wall of fire all around, and I will be glory in her midst.
 - brenton: [missing]
 
 ### Zechariah 2:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ho, ho, flee from land of north, says Lord, because from four winds of heaven I will gather you, says Lord.
 - brenton: [missing]
 
 ### Zechariah 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Zion, be rescued, you dwelling with daughter Babylon.
 - brenton: [missing]
 
 ### Zechariah 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching pupil of his eye.
 - brenton: [missing]
 
 ### Zechariah 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I bring my hand upon them, and they will be plunder to those serving them, and you will know that Lord Almighty sent me.
 - brenton: [missing]
 
 ### Zechariah 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Delight and rejoice, daughter Zion, because behold, I come and will camp in your midst, says Lord.
 - brenton: [missing]
 
 ### Zechariah 2:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And many nations will flee for refuge to Lord in that day and will be for him a people, and they will camp in your midst, and you will know that Lord Almighty sent me to you.
 - brenton: [missing]
 
 ### Zechariah 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will inherit Judah, his portion, upon holy land, and he will still choose Jerusalem.
 - brenton: [missing]
 
 ### Zechariah 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all flesh fear from face of Lord, because he has been roused from his holy clouds.
 - brenton: [missing]
 
 ### Zechariah 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he showed me Jeshua the great priest standing before angel of Lord, and slanderer stood at his right hand to oppose him.
 - brenton: [missing]
 
 ### Zechariah 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to slanderer, Lord rebuke you, slanderer; yes, Lord rebuke you, he who chose Jerusalem. Is not this like a firebrand pulled from fire?
 - brenton: [missing]
 
 ### Zechariah 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeshua was clothed in filthy garments and stood before angel.
 - brenton: [missing]
 
 ### Zechariah 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he answered and said to those standing before him, saying, Take away filthy garments from him. And he said to him, Behold, I took away your lawless deeds, and clothe him in full robe.
 - brenton: [missing]
 
 ### Zechariah 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And put clean turban on his head. And they clothed him with garments and put clean turban on his head, and angel of Lord stood by.
 - brenton: [missing]
 
 ### Zechariah 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel of Lord solemnly testified to Jeshua, saying,
 - brenton: [missing]
 
 ### Zechariah 3:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: If you walk in my ways and keep my commands, then you also will judge my house, and if you guard my court, I will give you those walking about in midst of these standing here.
 - brenton: [missing]
 
 ### Zechariah 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now, Jeshua the great priest, you and your companions sitting before your face, because they are men who observe signs. Because behold, I bring my servant Dawn.
 - brenton: [missing]
 
 ### Zechariah 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because stone that I gave before face of Jeshua—upon the one stone are seven eyes. Behold, I dig a pit, says Lord Almighty, and I will search out all injustice of that land in one day.
 - brenton: [missing]
 
 ### Zechariah 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, says Lord Almighty, each will call his neighbor under vine and under fig tree.
 - brenton: [missing]
 
 ### Zechariah 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking in me returned and woke me, like when a man is wakened from sleep.
 - brenton: [missing]
 
 ### Zechariah 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, What do you see? And I said, I saw, and behold, a lampstand, all golden, and lamp-bowl on top of it, and seven lamps upon it, and seven spouts for lamps upon it.
 - brenton: [missing]
 
 ### Zechariah 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And two olive trees above it, one at right of lamp-bowl and one at left.
 - brenton: [missing]
 
 ### Zechariah 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I asked and said to angel speaking in me, What are these, lord?
 - brenton: [missing]
 
 ### Zechariah 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking in me answered and said to me, Do you not know what these are? And I said, No, lord.
 - brenton: [missing]
@@ -204407,378 +204407,378 @@ Note:
 
 ### Zechariah 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who are you, great mountain, before face of Zerubbabel to make things straight? And I will bring out stone of inheritance: equality of grace, grace to it.
 - brenton: [missing]
 
 ### Zechariah 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Zechariah 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hands of Zerubbabel founded this house, and his hands will complete it, and you will know that Lord Almighty sent me to you.
 - brenton: [missing]
 
 ### Zechariah 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because who despised days of small things? They will rejoice and see tin-stone in hand of Zerubbabel. These seven are eyes of Lord, looking over all earth.
 - brenton: [missing]
 
 ### Zechariah 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I answered and said to him, What are these two olive trees at right of lampstand and at left?
 - brenton: [missing]
 
 ### Zechariah 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I asked a second time and said to him, What are two olive branches in hands of two golden nozzles that pour out and bring back golden spouts?
 - brenton: [missing]
 
 ### Zechariah 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Do you not know what these are? And I said, No, lord.
 - brenton: [missing]
 
 ### Zechariah 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, These are two sons of richness, standing beside Lord of all earth.
 - brenton: [missing]
 
 ### Zechariah 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I turned and lifted my eyes and saw, and behold, a flying sickle.
 - brenton: [missing]
 
 ### Zechariah 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, What do you see? And I said, I see a flying sickle, twenty cubits its length and ten cubits its width.
 - brenton: [missing]
 
 ### Zechariah 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, This is curse going out over face of all earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
 - brenton: [missing]
 
 ### Zechariah 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring it out, says Lord Almighty, and it will enter house of thief and house of one swearing falsely by my name, and it will lodge in midst of his house and consume it, its timbers and its stones.
 - brenton: [missing]
 
 ### Zechariah 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking in me went out and said to me, Lift up your eyes and see what this thing is that goes out.
 - brenton: [missing]
 
 ### Zechariah 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, What is it? And he said, This is measure that goes out. And he said, This is their injustice in all earth.
 - brenton: [missing]
 
 ### Zechariah 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, a talent of lead being lifted, and behold, one woman sat in midst of measure.
 - brenton: [missing]
 
 ### Zechariah 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, This is lawlessness. And he threw her into midst of measure and threw lead stone onto its mouth.
 - brenton: [missing]
 
 ### Zechariah 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my eyes and saw, and behold, two women coming out, and wind in their wings, and they had wings like wings of hoopoe, and they lifted measure between earth and sky.
 - brenton: [missing]
 
 ### Zechariah 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to angel speaking in me, Where are they carrying measure?
 - brenton: [missing]
 
 ### Zechariah 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, To build a house for it in land of Babylon, and prepare it, and they will set it there on its prepared base.
 - brenton: [missing]
 
 ### Zechariah 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I turned and lifted my eyes and saw, and behold, four chariots going out from between two mountains, and mountains were bronze mountains.
 - brenton: [missing]
 
 ### Zechariah 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In first chariot were red horses, and in second chariot black horses,
 - brenton: [missing]
 
 ### Zechariah 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and in third chariot white horses, and in fourth chariot varied dappled horses.
 - brenton: [missing]
 
 ### Zechariah 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I answered and said to angel speaking in me, What are these, lord?
 - brenton: [missing]
 
 ### Zechariah 6:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel speaking in me answered and said, These are four winds of heaven, going out to stand before Lord of all earth.
 - brenton: [missing]
 
 ### Zechariah 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where black horses were, they went out to land of north, and white went out behind them, and varied went out to land of south.
 - brenton: [missing]
 
 ### Zechariah 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dappled went out and looked to go, to patrol earth. And he said, Go, patrol earth. And they patrolled earth.
 - brenton: [missing]
 
 ### Zechariah 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he cried out and spoke to me, saying, Behold, those going out to land of north gave rest to my wrath in land of north.
 - brenton: [missing]
 
 ### Zechariah 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Zechariah 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take from captivity, from its rulers and from its useful men and from those knowing it, and you shall enter on that day into house of Josiah son of Sophonias, who came from Babylon.
 - brenton: [missing]
 
 ### Zechariah 6:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall take silver and gold and make crowns and place them on head of Jeshua son of Josedek, the great priest.
 - brenton: [missing]
 
 ### Zechariah 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall say to him, Thus says Lord Almighty: Behold, a man—Dawn is his name—and from beneath him he will rise, and he will build house of Lord.
 - brenton: [missing]
 
 ### Zechariah 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will receive excellence and sit and rule on his throne, and priest will be at his right, and peaceful counsel will be between both.
 - brenton: [missing]
 
 ### Zechariah 6:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And crown will belong to those waiting and to its useful ones and to those knowing it and for favor to son of Sophonias and for memorial in house of Lord.
 - brenton: [missing]
 
 ### Zechariah 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those far from them will come and build in house of Lord, and you will know that Lord Almighty sent me to you. And it will be, if hearing you hear voice of Lord your God.
 - brenton: [missing]
 
 ### Zechariah 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in fourth year of Darius king, word of Lord came to Zechariah on fourth day of ninth month, which is Chasleu.
 - brenton: [missing]
 
 ### Zechariah 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he sent to Bethel Sarasar and Arbeseer the king and his men to make atonement to Lord,
 - brenton: [missing]
 
 ### Zechariah 7:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying to priests in house of Lord Almighty and to prophets, saying, Has sanctification entered here in fifth month, as I have done already many years?
 - brenton: [missing]
 
 ### Zechariah 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord of forces came to me, saying,
 - brenton: [missing]
 
 ### Zechariah 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say to all people of land and to priests, saying: If you fasted or mourned in fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 - brenton: [missing]
 
 ### Zechariah 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you eat and if you drink, are you not eating and drinking for yourselves?
 - brenton: [missing]
 
 ### Zechariah 7:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Are not these words that Lord spoke by hand of former prophets, when Jerusalem was inhabited and prospering, and her cities round about, and hill-country and lowland were inhabited?
 - brenton: [missing]
 
 ### Zechariah 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Zechariah, saying,
 - brenton: [missing]
@@ -204794,18 +204794,18 @@ Note:
 
 ### Zechariah 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not oppress widow and orphan and sojourner and poor, and let none remember evil of his brother in your hearts.
 - brenton: [missing]
 
 ### Zechariah 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they disobeyed paying attention and gave a rebellious back and made their ears heavy so as not to hear.
 - brenton: [missing]
@@ -204821,144 +204821,144 @@ Note:
 
 ### Zechariah 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, just as he spoke and they did not hear, so they will cry out and I will not hear, says Lord Almighty.
 - brenton: [missing]
 
 ### Zechariah 7:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cast them out among all nations whom they did not know, and land behind them was made desolate from anyone passing through or returning, and they made delightful land into destruction.
 - brenton: [missing]
 
 ### Zechariah 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord Almighty came, saying,
 - brenton: [missing]
 
 ### Zechariah 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: I have been jealous for Zion with great jealousy, and in great wrath I was jealous for her.
 - brenton: [missing]
 
 ### Zechariah 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: I will return to Zion and dwell in midst of Jerusalem, and Jerusalem will be called city of truth and mountain of Lord Almighty, holy mountain.
 - brenton: [missing]
 
 ### Zechariah 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Old men and old women will again dwell in streets of Jerusalem, each with staff in hand because of multitude of days.
 - brenton: [missing]
 
 ### Zechariah 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And city's streets will be filled with boys and girls playing in its streets.
 - brenton: [missing]
 
 ### Zechariah 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: If this is impossible before remnant of this people in those days, will it also be impossible before me? says Lord Almighty.
 - brenton: [missing]
 
 ### Zechariah 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Behold, I save my people from land of east and from land of setting sun,
 - brenton: [missing]
 
 ### Zechariah 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I will bring them in, and they will dwell in midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
 - brenton: [missing]
 
 ### Zechariah 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Let your hands be strengthened, you hearing in these days these words from mouth of prophets, from days when house of Lord Almighty was founded and temple was for building.
 - brenton: [missing]
 
 ### Zechariah 8:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because before those days wages of humans were not for profit, and wages of cattle were not, and for one going out and coming in there was no peace from enemy, and I sent all humans, each against his neighbor.
 - brenton: [missing]
 
 ### Zechariah 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I will not be to remnant of this people as in former days, says Lord Almighty.
 - brenton: [missing]
 
 ### Zechariah 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I will show peace: vine will give its fruit, land will give its produce, and heaven will give its dew, and I will give all these things to remnant of my people to inherit.
 - brenton: [missing]
 
 ### Zechariah 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, just as you were a curse among nations, house of Judah and house of Israel, so I will save you and you will be a blessing. Take courage, and let your hands be strengthened.
 - brenton: [missing]
 
 ### Zechariah 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord Almighty: Just as I purposed to afflict you when your fathers provoked me, says Lord Almighty, and I did not repent,
 - brenton: [missing]
