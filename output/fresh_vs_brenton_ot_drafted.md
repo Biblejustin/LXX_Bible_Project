@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 20252
-- medium: 568
-- low: 2097
+- high: 20432
+- medium: 509
+- low: 1976
 - none: 0
 
 Note:
@@ -181566,72 +181566,72 @@ Note:
 
 ### Lamentations 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I became laugh to all my people, their song all day.
 - brenton: [missing]
 
 ### Lamentations 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He filled me with bitterness, made me drunk with gall.
 - brenton: [missing]
 
 ### Lamentations 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he cast out my teeth with pebble. He fed me ashes.
 - brenton: [missing]
 
 ### Lamentations 3:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he thrust my soul away from peace. I forgot good things.
 - brenton: [missing]
 
 ### Lamentations 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, My victory perished, and my hope from Lord.
 - brenton: [missing]
 
 ### Lamentations 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I remembered from my poverty and from my persecution my bitterness and my gall.
 - brenton: [missing]
 
 ### Lamentations 3:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul will remember and talk over me.
 - brenton: [missing]
 
 ### Lamentations 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This I will set in my heart. Therefore I endure.
 - brenton: [missing]
@@ -181656,747 +181656,747 @@ Note:
 
 ### Lamentations 3:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good for man when he bears yoke in his youth.
 - brenton: [missing]
 
 ### Lamentations 3:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will sit alone and be silent, because he took it on himself.
 - brenton: [missing]
 
 ### Lamentations 3:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will give cheek to one striking him. He will be filled with reproaches.
 - brenton: [missing]
 
 ### Lamentations 3:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord will not cast off forever.
 - brenton: [missing]
 
 ### Lamentations 3:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because one who humbled will have compassion according to multitude of his mercy.
 - brenton: [missing]
 
 ### Lamentations 3:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he did not answer from his heart and humbled sons of man.
 - brenton: [missing]
 
 ### Lamentations 3:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To humble under his feet all prisoners of earth,
 - brenton: [missing]
 
 ### Lamentations 3:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to turn aside judgment of man before face of Most High,
 - brenton: [missing]
 
 ### Lamentations 3:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to condemn man in his judging, Lord did not say.
 - brenton: [missing]
 
 ### Lamentations 3:37
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who thus spoke and it happened, when Lord did not command?
 - brenton: [missing]
 
 ### Lamentations 3:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From mouth of Most High will not evils and good come out?
 - brenton: [missing]
 
 ### Lamentations 3:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why will living man complain, man about his sin?
 - brenton: [missing]
 
 ### Lamentations 3:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our way was searched out and examined, and let us turn back to Lord.
 - brenton: [missing]
 
 ### Lamentations 3:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us lift our hearts with hands to Most High in heaven.
 - brenton: [missing]
 
 ### Lamentations 3:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We sinned, we acted ungodly, and you were not propitiated.
 - brenton: [missing]
 
 ### Lamentations 3:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You covered in wrath and drove us away. You killed. You did not spare.
 - brenton: [missing]
 
 ### Lamentations 3:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You covered yourself with cloud because of prayer.
 - brenton: [missing]
 
 ### Lamentations 3:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made us to blink and be thrust away in midst of peoples.
 - brenton: [missing]
 
 ### Lamentations 3:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All our enemies opened their mouth over us.
 - brenton: [missing]
 
 ### Lamentations 3:47
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear and anger became to us, exaltation and crushing.
 - brenton: [missing]
 
 ### Lamentations 3:48
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Streams of waters my eye will bring down over crushing of daughter of my people.
 - brenton: [missing]
 
 ### Lamentations 3:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eye was consumed and I will not be silent, so that there be no numbness,
 - brenton: [missing]
 
 ### Lamentations 3:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until Lord looks down and sees from heaven.
 - brenton: [missing]
 
 ### Lamentations 3:51
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eye gleans against my soul beyond all daughters of city.
 - brenton: [missing]
 
 ### Lamentations 3:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hunting they hunted me like sparrow, my enemies for nothing.
 - brenton: [missing]
 
 ### Lamentations 3:53
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They killed my life in pit and put stone upon me.
 - brenton: [missing]
 
 ### Lamentations 3:54
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Water overflowed over my head. I said, I am thrust away.
 - brenton: [missing]
 
 ### Lamentations 3:55
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I called on your name, Lord, from lowest pit.
 - brenton: [missing]
 
 ### Lamentations 3:56
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You heard my voice. Do not hide your ears from my petition.
 - brenton: [missing]
 
 ### Lamentations 3:57
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You came near to my help in day when I called you. You said to me, Do not fear.
 - brenton: [missing]
 
 ### Lamentations 3:58
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You judged, Lord, judgments of my soul. You redeemed my life.
 - brenton: [missing]
 
 ### Lamentations 3:59
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You saw, Lord, my tumults. You judged my case.
 - brenton: [missing]
 
 ### Lamentations 3:60
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You saw all their vengeance, all their reasonings against me.
 - brenton: [missing]
 
 ### Lamentations 3:61
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You heard their reproach, all their reasonings against me.
 - brenton: [missing]
 
 ### Lamentations 3:62
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lips of those rising against me and their meditations against me all day.
 - brenton: [missing]
 
 ### Lamentations 3:63
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their sitting and their rising, look upon their eyes.
 - brenton: [missing]
 
 ### Lamentations 3:64
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will repay them repayment, Lord, according to works of their hands.
 - brenton: [missing]
 
 ### Lamentations 3:65
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will give them shield of heart, your toil to them.
 - brenton: [missing]
 
 ### Lamentations 3:66
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will pursue in anger and consume them from under heaven, Lord.
 - brenton: [missing]
 
 ### Lamentations 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How gold was dimmed, good silver changed. Holy stones were poured out at head of all exits.
 - brenton: [missing]
 
 ### Lamentations 4:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Zion, precious ones raised up in gold, how they were reckoned as earthen vessels, works of potter’s hands.
 - brenton: [missing]
 
 ### Lamentations 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Even dragons drew out breasts and suckled their cubs. Daughters of my people became incurable like sparrow in wilderness.
 - brenton: [missing]
 
 ### Lamentations 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tongue of nursing child clung to his throat in thirst. Little ones asked bread. There is no one breaking to them.
 - brenton: [missing]
 
 ### Lamentations 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those eating delicacies were ruined in streets. Those nourished on scarlet embraced dung-heaps.
 - brenton: [missing]
 
 ### Lamentations 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And lawlessness of daughter of my people grew beyond lawlessness of Sodom, the overthrown one, as if suddenly and no hands pained in her.
 - brenton: [missing]
 
 ### Lamentations 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her Nazirites were purer than snow, brighter than milk, redder than sapphire stones, their shape.
 - brenton: [missing]
 
 ### Lamentations 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their appearance darkened more than soot. They were not recognized in streets. Their skin stuck to their bones. They dried up, became like wood.
 - brenton: [missing]
 
 ### Lamentations 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better were wounded of sword than wounded of famine. They went pierced from produce of fields.
 - brenton: [missing]
 
 ### Lamentations 4:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hands of compassionate women cooked their children. They became food to them in crushing of daughter of my people.
 - brenton: [missing]
 
 ### Lamentations 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord completed his wrath, poured out anger of his wrath, and kindled fire in Zion, and it devoured her foundations.
 - brenton: [missing]
 
 ### Lamentations 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kings of earth did not believe, all dwellers of world, that enemy and oppressor would enter through gates of Jerusalem,
 - brenton: [missing]
 
 ### Lamentations 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of sins of her prophets, injustices of her priests, those pouring out righteous blood in her midst.
 - brenton: [missing]
 
 ### Lamentations 4:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her watchmen staggered in streets, were polluted in blood, so that they could not touch their garments.
 - brenton: [missing]
 
 ### Lamentations 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Depart, unclean ones, call to them. Depart, depart, do not touch, because they were kindled. And indeed they staggered. They said among nations, They will no longer remain to sojourn.
 - brenton: [missing]
 
 ### Lamentations 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Face of Lord is their portion. He will no longer look on them. Faces of priests they did not receive, elders they did not pity.
 - brenton: [missing]
 
 ### Lamentations 4:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: While we still were, our eyes failed for our help in vain. While watching we watched for nation not saving.
 - brenton: [missing]
 
 ### Lamentations 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They hunted our little ones from going in our streets. Our time drew near. Our days were filled up. Our time is present.
 - brenton: [missing]
 
 ### Lamentations 4:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our pursuers became swifter than eagles of heaven. On mountains they blazed. In wilderness they lay in wait for us.
 - brenton: [missing]
 
 ### Lamentations 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Breath of our face, anointed of Lord, was seized in their corruptions, of whom we said, In his shadow we will live among nations.
 - brenton: [missing]
 
 ### Lamentations 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice and be glad, daughter Idumea dwelling on land. Yet on you also will pass cup of Lord, and you will be drunk and pour out.
 - brenton: [missing]
 
 ### Lamentations 4:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your lawlessness failed, daughter Zion. He will no longer exile you. He visited your lawlessnesses, daughter Edom, he uncovered your ungodlinesses.
 - brenton: [missing]
 
 ### Lamentations 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember, Lord, what happened to us. Look and see our reproach.
 - brenton: [missing]
 
 ### Lamentations 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our inheritance turned over to strangers, our houses to foreigners.
 - brenton: [missing]
 
 ### Lamentations 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We became orphans. There is no father. Our mothers are like widows.
 - brenton: [missing]
 
 ### Lamentations 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From our days our wood came by exchange.
 - brenton: [missing]
 
 ### Lamentations 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon our neck we were pursued. We labored. We did not rest.
 - brenton: [missing]
 
 ### Lamentations 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Egypt gave hand to Assyria for their fullness.
 - brenton: [missing]
 
 ### Lamentations 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our fathers sinned and are not. We bore their lawless deeds.
 - brenton: [missing]
 
 ### Lamentations 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Slaves ruled us. There is no one redeeming from their hand.
 - brenton: [missing]
 
 ### Lamentations 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With our souls we bring our bread from face of sword of wilderness.
 - brenton: [missing]
 
 ### Lamentations 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our skin was shriveled like oven, contracted from face of storms of famine.
 - brenton: [missing]
 
 ### Lamentations 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They humbled women in Zion, virgins in cities of Judah.
 - brenton: [missing]
 
 ### Lamentations 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rulers were hung by their hands. Elders were not honored.
 - brenton: [missing]
 
 ### Lamentations 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Chosen ones took up weeping, and young men weakened at wood.
 - brenton: [missing]
 
 ### Lamentations 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Elders ceased from gate. Chosen ones ceased from their songs.
 - brenton: [missing]
 
 ### Lamentations 5:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Joy of our heart ceased. Our dance turned into mourning.
 - brenton: [missing]
 
 ### Lamentations 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crown of our head fell. Woe to us, because we sinned.
 - brenton: [missing]
 
 ### Lamentations 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this our heart became pained. Because of this our eyes darkened,
 - brenton: [missing]
 
 ### Lamentations 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: over mountain Zion, because it was ruined. Foxes passed through it.
 - brenton: [missing]
 
 ### Lamentations 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord, will dwell forever, your throne to generation and generation.
 - brenton: [missing]
 
 ### Lamentations 5:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why will you forget us for victory and leave us for length of days?
 - brenton: [missing]
 
 ### Lamentations 5:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn us back, Lord, to you, and we will return, and renew our days as before,
 - brenton: [missing]
 
 ### Lamentations 5:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because in thrusting away you thrust us away. You were very angry over us.
 - brenton: [missing]
@@ -182405,801 +182405,801 @@ Note:
 
 ### Ezekiel 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chobar, and heavens were opened and I saw visions of God.
 - brenton: [missing]
 
 ### Ezekiel 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fifth of month, this was fifth year of captivity of king Joakim,
 - brenton: [missing]
 
 ### Ezekiel 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and word of Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chobar, and hand of Lord came upon me.
 - brenton: [missing]
 
 ### Ezekiel 1:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like appearance of electrum in midst of fire and brightness in it.
 - brenton: [missing]
 
 ### Ezekiel 1:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in midst, as likeness of four living beings, and this their appearance, likeness of man upon them.
 - brenton: [missing]
 
 ### Ezekiel 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And four faces to one and four wings to one.
 - brenton: [missing]
 
 ### Ezekiel 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their legs straight, and their feet winged, and sparks like flashing bronze, and their wings light.
 - brenton: [missing]
 
 ### Ezekiel 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hand of man beneath their wings upon their four sides, and their faces of the four.
 - brenton: [missing]
 
 ### Ezekiel 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not turn when walking. Each went straight before its face.
 - brenton: [missing]
 
 ### Ezekiel 1:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And likeness of their faces: face of man, and face of lion on right for the four, and face of calf on left for the four, and face of eagle for the four.
 - brenton: [missing]
 
 ### Ezekiel 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their wings stretched upward. For the four, two joined to one another and two covered over their bodies.
 - brenton: [missing]
 
 ### Ezekiel 1:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And each went straight before its face. Wherever spirit was going, they went and did not turn.
 - brenton: [missing]
 
 ### Ezekiel 1:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in midst of living beings, appearance like burning coals of fire, like sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
 - brenton: [missing]
 
 ### Ezekiel 1:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw, and behold, one wheel on earth adjoining the living beings, for the four.
 - brenton: [missing]
 
 ### Ezekiel 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And appearance of wheels like appearance of Tarshish, and one likeness in the four, and their work was as wheel within wheel.
 - brenton: [missing]
 
 ### Ezekiel 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon their four sides they went. They did not turn while going.
 - brenton: [missing]
 
 ### Ezekiel 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed their backs, and there was height to them, and I saw them, and their backs full of eyes around for the four.
 - brenton: [missing]
 
 ### Ezekiel 1:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when living beings went, wheels adjoining them went, and when living beings were lifted from earth, wheels were lifted.
 - brenton: [missing]
 
 ### Ezekiel 1:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where cloud was, there spirit went. The living beings went, and wheels were lifted with them, because spirit of life was in the wheels.
 - brenton: [missing]
 
 ### Ezekiel 1:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When they went, these went, and when they stood, these stood, and when they were lifted from earth, wheels were lifted with them, because spirit of life was in the wheels.
 - brenton: [missing]
 
 ### Ezekiel 1:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And likeness over head of the living beings, like firmament, as appearance of crystal stretched over their wings above.
 - brenton: [missing]
 
 ### Ezekiel 1:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And under firmament their wings stretched, winging one to the other, to each two joined, covering their bodies.
 - brenton: [missing]
 
 ### Ezekiel 1:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I heard sound of their wings when they went, like sound of much water, and when they stood, their wings rested.
 - brenton: [missing]
 
 ### Ezekiel 1:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, voice above firmament being over their head.
 - brenton: [missing]
 
 ### Ezekiel 1:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like appearance of sapphire stone, likeness of throne upon it, and upon likeness of throne, likeness as appearance of man above.
 - brenton: [missing]
 
 ### Ezekiel 1:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw like sight of electrum from sight of loins and upward, and from sight of loins and downward I saw like appearance of fire and his brightness around.
 - brenton: [missing]
 
 ### Ezekiel 1:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like appearance of bow when it is in cloud in day of rain, so was standing of brightness around. This was appearance of likeness of glory of Lord, and I saw and fell on my face and heard voice speaking.
 - brenton: [missing]
 
 ### Ezekiel 2:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, stand upon your feet and I will speak to you.
 - brenton: [missing]
 
 ### Ezekiel 2:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And spirit came upon me and took me up and lifted me and set me on my feet, and I heard him speaking to me.
 - brenton: [missing]
 
 ### Ezekiel 2:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, I send you to house of Israel, those provoking me, who provoked me, they and their fathers until this present day.
 - brenton: [missing]
 
 ### Ezekiel 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to them, Thus says Lord.
 - brenton: [missing]
 
 ### Ezekiel 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in midst of them.
 - brenton: [missing]
 
 ### Ezekiel 2:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
 - brenton: [missing]
 
 ### Ezekiel 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will speak my words to them, whether perhaps they hear, whether perhaps they fear, because house provoking it is.
 - brenton: [missing]
 
 ### Ezekiel 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, hear one speaking to you. Do not become provoking like provoking house. Open your mouth and eat what I give you.
 - brenton: [missing]
 
 ### Ezekiel 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw, and behold, hand stretched out to me, and in it scroll-head.
 - brenton: [missing]
 
 ### Ezekiel 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he unrolled it before me, and in it were writings on back and front, and written on it lament and melody and woe.
 - brenton: [missing]
 
 ### Ezekiel 3:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, consume this scroll and go and speak to sons of Israel.
 - brenton: [missing]
 
 ### Ezekiel 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I opened my mouth and he fed me the scroll.
 - brenton: [missing]
 
 ### Ezekiel 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, your mouth will eat and your belly will be filled with this scroll given to you. And I ate it, and it became in my mouth like sweetening honey.
 - brenton: [missing]
 
 ### Ezekiel 3:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, go, enter to house of Israel, and speak my words to them.
 - brenton: [missing]
 
 ### Ezekiel 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because not to people deep-lipped and heavy-tongued are you sent, but to house of Israel,
 - brenton: [missing]
 
 ### Ezekiel 3:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: not to many peoples strange-speaking or strange-tongued or heavy in tongue, whose words you would not hear. If I had sent you to such, they would have listened to you.
 - brenton: [missing]
 
 ### Ezekiel 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But house of Israel will not want to listen to you, because they do not want to listen to me, because all house of Israel are contentious and hard-hearted.
 - brenton: [missing]
 
 ### Ezekiel 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, I gave your face strong against their faces, and your strife I will strengthen against their strife.
 - brenton: [missing]
 
 ### Ezekiel 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will always be stronger than rock. Do not fear them and do not be terrified from their face, because house provoking it is.
 - brenton: [missing]
 
 ### Ezekiel 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, all words which I spoke with you, take into your heart and hear with your ears.
 - brenton: [missing]
 
 ### Ezekiel 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And go, enter to captivity, to sons of your people, and speak to them and say to them, Thus says Lord, whether perhaps they hear, whether perhaps they yield.
 - brenton: [missing]
 
 ### Ezekiel 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And spirit took me up, and I heard behind me voice of great shaking: Blessed glory of Lord from his place.
 - brenton: [missing]
 
 ### Ezekiel 3:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw sound of wings of living beings winging one to the other and sound of wheels adjoining them and sound of shaking.
 - brenton: [missing]
 
 ### Ezekiel 3:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And spirit lifted me and took me up, and I went in rush of my spirit, and hand of Lord became strong upon me.
 - brenton: [missing]
 
 ### Ezekiel 3:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I entered to captivity, astonished, and went around those dwelling by river Chobar, those there, and sat there seven days turning among them.
 - brenton: [missing]
 
 ### Ezekiel 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after seven days, word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 3:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, I gave you as watchman to house of Israel, and you will hear word from my mouth and warn them from me.
 - brenton: [missing]
 
 ### Ezekiel 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When I say to lawless one, In death you will die, and you do not warn him nor speak to warn lawless one to turn from his ways to make him live, that lawless one in his injustice will die and his blood I will seek from your hand.
 - brenton: [missing]
 
 ### Ezekiel 3:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, if you warn lawless one and he does not turn from his lawlessness and from his way, that lawless one in his injustice will die, and you saved your soul.
 - brenton: [missing]
 
 ### Ezekiel 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when righteous one turns from his righteousnesses and does trespass, and I set stumbling before his face, he will die because you did not warn him, and in his sins he will die because his righteous deeds which he did will not be remembered, and his blood I will seek from your hand.
 - brenton: [missing]
 
 ### Ezekiel 3:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you warn righteous one not to sin and he does not sin, righteous one living will live because you warned him, and you saved your own soul.
 - brenton: [missing]
 
 ### Ezekiel 3:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hand of Lord came upon me there and said to me, Rise and go out into plain and there it will be spoken to you.
 - brenton: [missing]
 
 ### Ezekiel 3:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I rose and went out into plain, and behold, there glory of Lord stood, just as vision and as glory which I saw by river Chobar, and I fell on my face.
 - brenton: [missing]
 
 ### Ezekiel 3:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And spirit came upon me and set me on my feet and spoke to me and said to me, Enter and shut yourself in midst of your house.
 - brenton: [missing]
 
 ### Ezekiel 3:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from midst of them.
 - brenton: [missing]
 
 ### Ezekiel 3:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your tongue I will bind and you will be made mute, and you will not be to them man rebuking, because house provoking it is.
 - brenton: [missing]
 
 ### Ezekiel 3:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when I speak to you I will open your mouth and you will say to them, Thus says Lord. One hearing, let him hear, and one disobeying, let him disobey, because house provoking it is.
 - brenton: [missing]
 
 ### Ezekiel 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, take for yourself brick and set it before your face and draw on it city, Jerusalem.
 - brenton: [missing]
 
 ### Ezekiel 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And set around it siege and build against it defenses and cast around it trench and set camps against it and place missile-stations around.
 - brenton: [missing]
 
 ### Ezekiel 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you take for yourself iron pan and set it as iron wall between you and city and prepare your face against it, and it will be in confinement and you will confine it. This is sign to sons of Israel.
 - brenton: [missing]
 
 ### Ezekiel 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will lie on your left side and set injustices of house of Israel upon it. According to number of days, one hundred fifty, which you lie on it, you will bear their injustices.
 - brenton: [missing]
 
 ### Ezekiel 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave you their two injustices for number of days, one hundred ninety days, and you will bear injustices of house of Israel.
 - brenton: [missing]
 
 ### Ezekiel 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will finish all these and lie on your right side and bear injustices of house of Judah forty days. Day for year I set to you.
 - brenton: [missing]
 
 ### Ezekiel 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And toward confinement of Jerusalem you will prepare your face, and your arm you will strengthen, and you will prophesy against it.
 - brenton: [missing]
 
 ### Ezekiel 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I, behold, gave bonds upon you, and you will not turn from your side to your side until days of your confinement are completed.
 - brenton: [missing]
 
 ### Ezekiel 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you take for yourself wheat and barley and bean and lentil and millet and spelt and put them into earthen vessel and make them for yourself into loaves, and according to number of days which you sleep on your side, one hundred ninety days, you will eat them.
 - brenton: [missing]
 
 ### Ezekiel 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your food which you eat will be in weight, twenty shekels for day. From time to time you will eat them.
 - brenton: [missing]
 
 ### Ezekiel 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And water by measure you will drink, one-sixth of a hin. From time to time you will drink.
 - brenton: [missing]
 
 ### Ezekiel 4:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will eat them as barley cake. With fuel of human dung you will bake them before their eyes.
 - brenton: [missing]
 
 ### Ezekiel 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, Thus says Lord God of Israel: Thus sons of Israel will eat unclean things among nations.
 - brenton: [missing]
 
 ### Ezekiel 4:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, No indeed, Lord God of Israel. Behold, my soul is not defiled in uncleanness, and corpse and torn thing I did not eat from my birth until now, nor did any stale flesh enter into my mouth.
 - brenton: [missing]
 
 ### Ezekiel 4:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Behold, I gave you cow dung instead of human dung, and you will make your loaves upon it.
 - brenton: [missing]
 
 ### Ezekiel 4:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Son of man, behold, I break support of bread in Jerusalem, and they will eat bread by weight and in lack, and water by measure and in desolation they will drink,
 - brenton: [missing]
 
 ### Ezekiel 4:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they may be in want of bread and water, and man and his brother will be desolated and melt away in their injustices.
 - brenton: [missing]
 
 ### Ezekiel 5:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, take for yourself sharp sword, like barber’s razor, acquire it for yourself and bring it over your head and over your beard, and you will take scales and divide them.
 - brenton: [missing]
 
 ### Ezekiel 5:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Quarter in fire you will burn in midst of city according to completion of days of confinement. And you will take quarter and burn it in midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
 - brenton: [missing]
 
 ### Ezekiel 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will take from there few in number and wrap them in your cloak.
 - brenton: [missing]
 
 ### Ezekiel 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from these you will still take and throw them into midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
 - brenton: [missing]
 
 ### Ezekiel 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: This is Jerusalem. I set her in midst of nations and lands around her.
 - brenton: [missing]
 
 ### Ezekiel 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, My ordinances to lawlessness from nations, and my statutes from lands around her, because they rejected my ordinances, and in my statutes they did not walk in them.
 - brenton: [missing]
 
 ### Ezekiel 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Because your starting-point was from nations around you, and in my statutes you did not walk and my ordinances you did not do, and not even according to ordinances of nations around you did you do.
 - brenton: [missing]
 
 ### Ezekiel 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I am against you and will do judgment in your midst before nations.
 - brenton: [missing]
