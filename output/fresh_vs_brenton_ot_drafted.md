@@ -150960,7 +150960,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
+- fresh: It is not good to show partiality to an ungodly person, nor is it holy to turn aside justice in judgment.
 - brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
 
 ### Proverbs 18:6
@@ -199715,7 +199715,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - brenton: It is he that executes judgment in the height above, and he has established justice on the earth:
 
 ### Amos 5:8

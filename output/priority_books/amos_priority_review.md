@@ -17,7 +17,7 @@ Selected verses: 6
 ## Amos 5:7
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=6; reco=keep
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - brenton: It is he that executes judgment in the height above, and he has established justice on the earth:
 
 ## Amos 5:15

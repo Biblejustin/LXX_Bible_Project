@@ -10,7 +10,7 @@ Use MD for reading order.
 - covenant/law: 88
 - death/afterlife: 2
 - kingship: 102
-- ritual: 82
+- ritual: 81
 - textual/lexical: 55
 - theology: 106
 

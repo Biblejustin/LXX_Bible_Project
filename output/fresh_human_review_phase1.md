@@ -2057,7 +2057,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - brenton: It is he that executes judgment in the height above, and he has established justice on the earth:
 
 ## Ecclesiastes 11:5
@@ -2345,7 +2345,7 @@ Rows: 234
 - fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
-## Proverbs 18:5
+## Proverbs 18:10
 - priority: `18`
 - importance: `high`
 - reason: score>=16; high+tracked
@@ -2357,8 +2357,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.
 
 ## Proverbs 3:9
 - priority: `18`

@@ -6051,15 +6051,6 @@ Method:
 - mt: Yet I will rejoice in the LORD, I will joy in the God of my salvation.
 - brenton: yet I will exult in the Lord, I will joy in God my Saviour.
 
-### Proverbs 18:5
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.551`
-- fresh_brenton_ratio: `0.537`
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- mt: It is not good to accept the person of the wicked, to overthrow the righteous in judgment.
-- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
-
 ### Proverbs 3:9
 - priority: `18`
 - importance: `high`
@@ -6090,9 +6081,9 @@ Method:
 ### Amos 5:7
 - priority: `18`
 - importance: `high`
-- fresh_mt_ratio: `0.611`
-- fresh_brenton_ratio: `0.564`
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh_mt_ratio: `0.621`
+- fresh_brenton_ratio: `0.617`
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - mt: All of you who turn judgment to wormwood, and leave off righteousness in the earth,
 - brenton: It is he that executes judgment in the height above, and he has established justice on the earth:
 
@@ -6131,6 +6122,15 @@ Method:
 - fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
 - mt: But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
+
+### Proverbs 18:10
+- priority: `18`
+- importance: `high`
+- fresh_mt_ratio: `0.696`
+- fresh_brenton_ratio: `0.828`
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- mt: The name of the LORD is a strong tower: the righteous runs into it, and is safe.
+- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.
 
 ### Joshua 23:10
 - priority: `18`
@@ -92910,6 +92910,15 @@ Method:
 - mt: All my inward friends abhorred me: and they whom I loved are turned against me.
 - brenton: They that saw me abhorred me: the very persons whom I had loved, rose up against me.
 
+### Proverbs 18:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.586`
+- fresh_brenton_ratio: `0.724`
+- fresh: It is not good to show partiality to an ungodly person, nor is it holy to turn aside justice in judgment.
+- mt: It is not good to accept the person of the wicked, to overthrow the righteous in judgment.
+- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
+
 ### Proverbs 19:20
 - priority: `0`
 - importance: `none`
@@ -129926,15 +129935,6 @@ Method:
 - fresh: And Moses said, "But you too will give us whole burnt offerings and sacrifices, and we will offer them to the Lord our God."
 - mt: And Moses said, You must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.
 - brenton: And Moses said, Nay, but thou shalt give to us whole burnt-offerings and sacrifices, which we will sacrifice to the Lord our God.
-
-### Proverbs 18:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.696`
-- fresh_brenton_ratio: `0.828`
-- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
-- mt: The name of the LORD is a strong tower: the righteous runs into it, and is safe.
-- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.
 
 ### 1 Chronicles 11:26
 - priority: `0`

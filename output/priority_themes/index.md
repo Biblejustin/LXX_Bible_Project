@@ -27,7 +27,7 @@ Themes: 7
 - top refs: Exodus 20:24, Leviticus 4:31, 1 Kings 2:35, 2 Chronicles 33:16, Joshua 22:5
 
 ## Ritual / Priesthood
-- rows: 82
+- rows: 81
 - books: 34
 - file: ritual_priesthood.md
 - top refs: Exodus 20:24, Leviticus 4:31, 1 Kings 2:35, Deuteronomy 16:2, 2 Chronicles 33:16

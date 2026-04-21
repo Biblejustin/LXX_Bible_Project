@@ -390,12 +390,12 @@ Books: 38
 - fresh: Beginning of wisdom fear of Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
-## Proverbs 18:5
+## Proverbs 18:10
 - score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, judgment, justice, righteous; crossref_top_vote=8; reco=keep
-- keywords: holy, judgment, justice, righteous
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- keywords: lord, name, righteous
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.
 
 ## Ecclesiastes 6:2
 - score: 17

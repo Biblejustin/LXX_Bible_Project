@@ -68400,7 +68400,7 @@ Deep water = word in heart of man, and river springing up = fountain of life.
 
 **Proverbs 18:5**
 
-To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
+It is not good to show partiality to an ungodly person, nor is it holy to turn aside justice in judgment.
 
 **Proverbs 18:6**
 
@@ -90558,7 +90558,7 @@ Seek the Lord and live, lest house of Joseph blaze like fire and it devour him, 
 
 **Amos 5:7**
 
-Lord is the one making judgment into a height and setting righteousness upon the earth,
+The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 
 **Amos 5:8**
 

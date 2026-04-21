@@ -348,12 +348,12 @@ Books: 35
 - fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
-## Proverbs 18:5
+## Proverbs 18:10
 - score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, judgment, justice, righteous; crossref_top_vote=8; reco=keep
-- keywords: holy, judgment, justice, righteous
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- keywords: lord, name, righteous
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.
 
 ## Ecclesiastes 3:16
 - score: 17
@@ -506,7 +506,7 @@ Books: 35
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=6; reco=keep
 - keywords: judgment, justice, lord, righteousness
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - brenton: It is he that executes judgment in the height above, and he has established justice on the earth:
 
 ## Amos 5:15

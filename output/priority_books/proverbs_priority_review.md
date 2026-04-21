@@ -32,8 +32,8 @@ Selected verses: 6
 - fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
-## Proverbs 18:5
+## Proverbs 18:10
 - score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, judgment, justice, righteous; crossref_top_vote=8; reco=keep
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- brenton: It is not good to accept the person of the ungodly, nor is it holy to pervert justice in judgment.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- brenton: The name of the Lord is of great strength; and the righteous running to it are exalted.

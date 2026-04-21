@@ -1447,12 +1447,12 @@ Rows: 232
 
 ## Amos 5:7
 - score: 18
-- latest review status: none
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 8
 - NT crossrefs: 0
 - shared-family hits: 0
-- fresh: Lord is the one making judgment into a height and setting righteousness upon the earth,
+- fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
 - OT clues: Amos.6.12 (6) -> Will horses run upon rocks? Will they be silent among females? Because you turned judgment into wrath and fruit of righteousness into bitterness. || Amos.5.11-Amos.5.12 (3) -> Therefore, because you beat down poor and received choice gifts from them, you built polished houses and will never dwell in them; you planted desirable vineyards and will never drink wine from them. || Deut.29.18 (3) -> and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless, || Ezek.3.20 (3) -> And when righteous one turns from his righteousnesses and does trespass, and I set stumbling before his face, he will die because you did not warn him, and in his sins he will die because his righteous deeds which he did will not be remembered, and his blood I will seek from your hand.
 
 ## Ecclesiastes 11:5
@@ -1661,15 +1661,15 @@ Rows: 232
 - OT clues: Prov.15.8 (19) -> Sacrifices of ungodly abomination to Lord, but prayers of those setting straight acceptable to him. || Ps.34.15-Ps.34.17 (14) -> And against me they rejoiced and gathered together; scourges gathered upon me and I did not know; they were torn apart and were not pierced through.
 - NT clues: John.9.31 (27) -> Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears. || Ps.145.18-Ps.145.19 (21) -> The LORD is nigh unto all them that call upon him, to all that call upon him in truth. || 1Pet.3.12 (19) -> For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
 
-## Proverbs 18:5
+## Proverbs 18:10
 - score: 18
-- latest review status: none
-- top vote: 8
+- latest review status: revised
+- top vote: 92
 - OT crossrefs: 8
 - NT crossrefs: 0
 - shared-family hits: 0
-- fresh: To admire face of ungodly not good, nor holy to bend aside righteous in judgment.
-- OT clues: Lev.19.15 (8) -> You shall do no injustice in judgment. You shall not take the face of the poor, nor marvel at the face of the powerful. In righteousness you shall judge your neighbor. || Deut.16.19 (7) -> They shall not turn aside judgment. They shall not recognize a face, nor take a gift, because gifts blind the eyes of the wise and remove the words of the righteous. || Prov.28.21 (6) -> One not respecting faces of righteous is not good; such man will be sold for morsel of bread. || Ps.82.2 (6) -> O God, who will be likened to you? Do not be silent nor be made gentle, O God.
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- OT clues: 2Sam.22.3 (92) -> my God will be my guard; I will trust in him, my shield and horn of my salvation, my supporter and my refuge of salvation; from injustice you will save me. || Ps.91.2 (81) -> Good thing to confess to Lord and sing to your name, Most High, || Isa.26.4 (79) -> they hoped, Lord, forever, great eternal God. || Ps.144.2 (57) -> Each day I will bless you and praise your name forever and forever of age.
 
 ## Proverbs 3:9
 - score: 18
