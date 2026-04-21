@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import difflib
 import html
 import json
 import re
@@ -58,6 +59,7 @@ OUTPUT = ROOT / "output" / "logos"
 
 DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
+DEFAULT_TRANSLATION_DECISIONS = RESEARCH / "translation_decisions.csv"
 DEFAULT_PROPER_NAMES = DATA / "proper_names.csv"
 DEFAULT_NAMES_OF_GOD = DATA / "names_of_god.csv"
 DEFAULT_BOOK_INTROS = DATA / "book_intros_template.csv"
@@ -92,6 +94,7 @@ DISPLAY_REF_RE = re.compile(r"^(.+?) (\d+):(\d+)$")
 GENERIC_FOOTNOTE_PATTERNS = (
     "Brenton differs here. The translation follows the current fresh wording at this verse numbering point.",
 )
+GENERIC_MT_LXX_NOTE_PREFIX = "The Septuagint differs here from the Masoretic wording."
 
 MT_LXX_DIFFERENCE_RE = re.compile(
     r"\b(?:Masoretic|MT|Hebrew[- ](?:aligned|based)|Hebrew wording|Hebrew text|"
@@ -100,6 +103,69 @@ MT_LXX_DIFFERENCE_RE = re.compile(
 )
 
 MAX_PHRASE_ANCHOR_CHARS = 120
+MAX_VARIANT_DETAIL_PHRASE_CHARS = 100
+VARIANT_TOKEN_RE = re.compile(r"[A-Za-z0-9]+(?:-[A-Za-z0-9]+)?")
+NUMBER_WORD_VALUES = {
+    "a": 1,
+    "an": 1,
+    "zero": 0,
+    "one": 1,
+    "two": 2,
+    "three": 3,
+    "four": 4,
+    "five": 5,
+    "six": 6,
+    "seven": 7,
+    "eight": 8,
+    "nine": 9,
+    "ten": 10,
+    "eleven": 11,
+    "twelve": 12,
+    "thirteen": 13,
+    "fourteen": 14,
+    "fifteen": 15,
+    "sixteen": 16,
+    "seventeen": 17,
+    "eighteen": 18,
+    "nineteen": 19,
+    "twenty": 20,
+    "thirty": 30,
+    "forty": 40,
+    "fifty": 50,
+    "sixty": 60,
+    "seventy": 70,
+    "eighty": 80,
+    "ninety": 90,
+}
+NUMBER_SCALE_WORDS = {
+    "hundred": 100,
+    "thousand": 1000,
+    "myriad": 10000,
+    "myriads": 10000,
+}
+NUMBER_WORDS = set(NUMBER_WORD_VALUES) | set(NUMBER_SCALE_WORDS) | {"and"}
+NUMBER_UNIT_WORDS = {
+    "cubit",
+    "cubits",
+    "day",
+    "days",
+    "man",
+    "men",
+    "month",
+    "months",
+    "shekel",
+    "shekels",
+    "talent",
+    "talents",
+    "year",
+    "years",
+}
+SIGNIFICANT_VARIANT_WORDS = {
+    "foreigners",
+    "grave",
+    "hades",
+    "philistines",
+}
 PLACE_ICON_KINDS = {"City", "OtherPlace", "NaturalPlace", "ManMadePlace"}
 GENERIC_PLACE_LABEL_STOPLIST = {
     "East",
@@ -754,10 +820,43 @@ def load_verses(path: Path) -> list[Verse]:
     return verses
 
 
-def load_translation_notes(path: Path) -> tuple[dict[str, list[TranslationNote]], dict[str, int]]:
+def load_variant_decisions(path: Path) -> tuple[dict[str, dict[str, str]], dict[str, int]]:
+    counts = Counter({"present": int(path.exists())})
+    if not path.exists():
+        return {}, dict(counts)
+
+    decisions: dict[str, dict[str, str]] = {}
+    for row in load_csv(path):
+        counts["rows"] += 1
+        if row.get("status", "").strip().lower() != "reviewed":
+            counts["skipped_unreviewed"] += 1
+            continue
+        if row.get("lemma", "").strip().lower() != "verse-level variant":
+            counts["skipped_non_variant"] += 1
+            continue
+        ref = normalize_note_ref(row.get("ref", ""))
+        chosen = normalize_space(row.get("chosen_rendering", ""))
+        alternate = normalize_space(row.get("alternate_renderings", ""))
+        if not ref or not chosen or not alternate:
+            counts["skipped_incomplete"] += 1
+            continue
+        if ref in decisions:
+            counts["duplicate_refs"] += 1
+            continue
+        decisions[ref] = row
+        counts["included"] += 1
+    counts["included_refs"] = len(decisions)
+    return decisions, dict(counts)
+
+
+def load_translation_notes(
+    path: Path,
+    variant_decisions: dict[str, dict[str, str]] | None = None,
+) -> tuple[dict[str, list[TranslationNote]], dict[str, int]]:
     rows = load_csv(path)
     grouped: dict[str, list[TranslationNote]] = defaultdict(list)
     counts = Counter()
+    variant_decisions = variant_decisions or {}
     for row in rows:
         counts["rows"] += 1
         if row.get("status", "").strip().lower() != "reviewed":
@@ -775,6 +874,13 @@ def load_translation_notes(path: Path) -> tuple[dict[str, list[TranslationNote]]
             counts["skipped_generic_or_brenton_only"] += 1
             continue
         display_note_type = "mt_lxx" if is_mt_lxx_difference_note(row) else note_type
+        if is_generic_mt_lxx_note(row):
+            detail = concrete_variant_detail(row.get("ref", ""), variant_decisions)
+            if not detail:
+                counts["skipped_generic_mt_lxx_without_concrete_detail"] += 1
+                continue
+            body = detail
+            counts["included_concrete_mt_lxx_details"] += 1
         note = TranslationNote(
             ref=row["ref"].strip(),
             note_type=display_note_type,
@@ -787,6 +893,196 @@ def load_translation_notes(path: Path) -> tuple[dict[str, list[TranslationNote]]
         if display_note_type == "mt_lxx":
             counts["included_mt_lxx_difference_notes"] += 1
     return dict(grouped), dict(counts)
+
+
+def is_generic_mt_lxx_note(row: dict[str, str]) -> bool:
+    body = normalize_space(row.get("footnote_text", ""))
+    source = row.get("source_basis", "").strip().lower()
+    return body.startswith(GENERIC_MT_LXX_NOTE_PREFIX) and source == "variant + witnesses"
+
+
+def concrete_variant_detail(
+    ref: str,
+    variant_decisions: dict[str, dict[str, str]],
+) -> str | None:
+    decision = variant_decisions.get(normalize_note_ref(ref))
+    if not decision:
+        return None
+    chosen = normalize_space(decision.get("chosen_rendering", ""))
+    alternate = normalize_space(decision.get("alternate_renderings", ""))
+    if not chosen or not alternate or chosen.casefold() == alternate.casefold():
+        return None
+
+    difference = extract_number_unit_difference(chosen, alternate)
+    if not difference:
+        difference = extract_single_local_difference(chosen, alternate)
+    if not difference:
+        return None
+
+    lxx_phrase, mt_phrase = difference
+    return (
+        f'LXX/fresh has "{short_variant_phrase(lxx_phrase)}"; '
+        f'MT comparison has "{short_variant_phrase(mt_phrase)}".'
+    )
+
+
+def extract_number_unit_difference(chosen: str, alternate: str) -> tuple[str, str] | None:
+    chosen_phrases = number_unit_phrases(chosen)
+    alternate_phrases = number_unit_phrases(alternate)
+    if not chosen_phrases or not alternate_phrases:
+        return None
+    if len(chosen_phrases) == len(alternate_phrases):
+        differences: list[tuple[str, str]] = []
+        for left, right in zip(chosen_phrases, alternate_phrases):
+            chosen_phrase, chosen_value = left
+            alternate_phrase, alternate_value = right
+            if chosen_phrase.casefold() != alternate_phrase.casefold() and chosen_value != alternate_value:
+                differences.append((chosen_phrase, alternate_phrase))
+        if len(differences) == 1:
+            return differences[0]
+    if len(chosen_phrases) == 1 and len(alternate_phrases) == 1:
+        chosen_phrase, chosen_value = chosen_phrases[0]
+        alternate_phrase, alternate_value = alternate_phrases[0]
+        if chosen_phrase.casefold() != alternate_phrase.casefold() and chosen_value != alternate_value:
+            return chosen_phrase, alternate_phrase
+    return None
+
+
+def number_unit_phrases(value: str) -> list[tuple[str, int]]:
+    tokens = VARIANT_TOKEN_RE.findall(value)
+    phrases: list[tuple[str, int]] = []
+    for index, token in enumerate(tokens):
+        if token.lower() not in NUMBER_UNIT_WORDS:
+            continue
+        cursor = index - 1
+        while cursor >= 0 and is_number_word_token(tokens[cursor]):
+            cursor -= 1
+        number_tokens = tokens[cursor + 1 : index]
+        while number_tokens and number_tokens[0].lower() == "and":
+            number_tokens = number_tokens[1:]
+        if not number_tokens or len(number_tokens) > 9:
+            continue
+        if looks_like_ambiguous_number_shorthand(number_tokens):
+            continue
+        number_value = parse_number_words(number_tokens)
+        if number_value is None:
+            continue
+        phrases.append((untokenize_variant_tokens([*number_tokens, token]), number_value))
+    return phrases
+
+
+def looks_like_ambiguous_number_shorthand(tokens: list[str]) -> bool:
+    lowered = [token.lower() for token in tokens]
+    if len(lowered) != 2:
+        return False
+    first, second = lowered
+    return first in {"a", "an", "one"} and NUMBER_WORD_VALUES.get(second, 0) >= 20
+
+
+def is_number_word_token(token: str) -> bool:
+    return all(part in NUMBER_WORDS for part in token.lower().split("-"))
+
+
+def parse_number_words(tokens: list[str]) -> int | None:
+    total = 0
+    current = 0
+    saw_number = False
+    for token in tokens:
+        for part in token.lower().split("-"):
+            if part == "and":
+                continue
+            if part in NUMBER_WORD_VALUES:
+                current += NUMBER_WORD_VALUES[part]
+                saw_number = True
+                continue
+            if part == "hundred":
+                current = (current or 1) * 100
+                saw_number = True
+                continue
+            if part in NUMBER_SCALE_WORDS:
+                total += (current or 1) * NUMBER_SCALE_WORDS[part]
+                current = 0
+                saw_number = True
+                continue
+            return None
+    return total + current if saw_number else None
+
+
+def extract_single_local_difference(chosen: str, alternate: str) -> tuple[str, str] | None:
+    chosen_tokens = VARIANT_TOKEN_RE.findall(chosen)
+    alternate_tokens = VARIANT_TOKEN_RE.findall(alternate)
+    if not chosen_tokens or not alternate_tokens:
+        return None
+    matcher = difflib.SequenceMatcher(
+        None,
+        [token.casefold() for token in chosen_tokens],
+        [token.casefold() for token in alternate_tokens],
+        autojunk=False,
+    )
+    differences = [opcode for opcode in matcher.get_opcodes() if opcode[0] != "equal"]
+    if len(differences) != 1:
+        return None
+
+    _tag, chosen_start, chosen_end, alternate_start, alternate_end = differences[0]
+    chosen_span = chosen_tokens[chosen_start:chosen_end]
+    alternate_span = alternate_tokens[alternate_start:alternate_end]
+    if not chosen_span or not alternate_span:
+        return None
+    if max(len(chosen_span), len(alternate_span)) > 6:
+        return None
+    if chosen_start < 2 or alternate_start < 2:
+        return None
+    if len(chosen_tokens) - chosen_end < 2 or len(alternate_tokens) - alternate_end < 2:
+        return None
+
+    # Avoid notes that only explain old-vs-modern English style.
+    if not has_substantive_local_difference(chosen_span, alternate_span):
+        return None
+    return untokenize_variant_tokens(chosen_span), untokenize_variant_tokens(alternate_span)
+
+
+def has_substantive_local_difference(chosen_span: list[str], alternate_span: list[str]) -> bool:
+    chosen_words = {token.casefold() for token in chosen_span}
+    alternate_words = {token.casefold() for token in alternate_span}
+    style_pairs = {
+        ("said", "spoke"),
+        ("to", "unto"),
+        ("who", "which"),
+        ("brothers", "brethren"),
+        ("children", "sons"),
+        ("happened", "came"),
+        ("humbled", "brought"),
+    }
+    if len(chosen_words) <= 2 and len(alternate_words) <= 2:
+        for left, right in style_pairs:
+            if left in chosen_words and right in alternate_words:
+                return False
+            if right in chosen_words and left in alternate_words:
+                return False
+    if chosen_words <= ANCHOR_STOPWORDS or alternate_words <= ANCHOR_STOPWORDS:
+        return False
+    if (chosen_words | alternate_words) & SIGNIFICANT_VARIANT_WORDS:
+        return True
+    return any(
+        looks_like_proper_variant_token(token)
+        for token in [*chosen_span, *alternate_span]
+    )
+
+
+def looks_like_proper_variant_token(token: str) -> bool:
+    return len(token) > 2 and token[:1].isupper() and token.casefold() not in ANCHOR_STOPWORDS
+
+
+def untokenize_variant_tokens(tokens: list[str]) -> str:
+    return " ".join(tokens)
+
+
+def short_variant_phrase(value: str) -> str:
+    value = normalize_space(value)
+    if len(value) <= MAX_VARIANT_DETAIL_PHRASE_CHARS:
+        return value
+    truncated = value[: MAX_VARIANT_DETAIL_PHRASE_CHARS - 3].rsplit(" ", 1)[0]
+    return f"{truncated}..."
 
 
 def load_name_meaning_notes(
@@ -1516,7 +1812,7 @@ def add_title_page(
     doc.add_paragraph([run(subtitle)], style="Subtitle")
     lines = [
         "Fresh Old Testament translation draft.",
-        "Includes reviewed translation/textual notes, with MT/LXX difference notes labeled explicitly.",
+        "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated.",
         "Includes book preface pages before each book's chapter text.",
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
@@ -1765,11 +2061,16 @@ def build_readme(
     footnote_number_restart: str,
     lexham_textual_notes_html: Path,
     book_intros_path: Path,
+    translation_decisions_path: Path,
 ) -> None:
     try:
         book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
     except ValueError:
         book_intros_display = str(book_intros_path)
+    try:
+        translation_decisions_display = translation_decisions_path.relative_to(ROOT).as_posix()
+    except ValueError:
+        translation_decisions_display = str(translation_decisions_path)
     content = f"""# Fresh Translation OT Logos/Proofreading Files
 
 Generated files:
@@ -1798,7 +2099,7 @@ Scope:
 
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
-- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
+- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
@@ -1845,6 +2146,7 @@ def build_diagnostics(
     *,
     verses: list[Verse],
     note_counts: dict[str, int],
+    variant_decision_counts: dict[str, int],
     notes: dict[str, list[TranslationNote]],
     book_intro_diag: dict[str, object],
     name_note_counts: dict[str, int],
@@ -1871,6 +2173,7 @@ def build_diagnostics(
         "book_count": len(book_counts),
         "book_counts": dict(book_counts),
         "translation_note_filter": note_counts,
+        "translation_decision_filter": variant_decision_counts,
         "included_translation_note_refs": len(notes),
         "included_translation_note_total": included_note_total,
         "book_prefaces": book_intro_diag,
@@ -1895,6 +2198,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
     parser.add_argument("--footnotes", type=Path, default=DEFAULT_FOOTNOTES)
+    parser.add_argument("--translation-decisions", type=Path, default=DEFAULT_TRANSLATION_DECISIONS)
     parser.add_argument("--proper-names", type=Path, default=DEFAULT_PROPER_NAMES)
     parser.add_argument("--names-of-god", type=Path, default=DEFAULT_NAMES_OF_GOD)
     parser.add_argument("--book-intros", type=Path, default=DEFAULT_BOOK_INTROS)
@@ -1922,7 +2226,8 @@ def main() -> None:
     args = parser.parse_args()
 
     verses = load_verses(args.source)
-    notes, note_counts = load_translation_notes(args.footnotes)
+    variant_decisions, variant_decision_counts = load_variant_decisions(args.translation_decisions)
+    notes, note_counts = load_translation_notes(args.footnotes, variant_decisions)
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
@@ -2026,11 +2331,13 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         lexham_textual_notes_html=args.lexham_textual_notes_html,
         book_intros_path=args.book_intros,
+        translation_decisions_path=args.translation_decisions,
     )
     validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
         verses=verses,
         note_counts=note_counts,
+        variant_decision_counts=variant_decision_counts,
         notes=notes,
         book_intro_diag=book_intro_diag,
         name_note_counts=name_note_counts,

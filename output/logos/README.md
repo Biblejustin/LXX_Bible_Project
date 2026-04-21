@@ -26,7 +26,7 @@ Scope:
 
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
 - Book preface pages: `data/book_intros_template.csv`. These are inserted before each book's chapter text in all generated DOCX files.
-- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
+- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `data/research/translation_decisions.csv` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `/Users/justinscaggs/Desktop/The Lexham Textual Notes on the Bible.html` when present. Links use `logosres:lexcontxtntbbl;ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.

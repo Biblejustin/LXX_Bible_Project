@@ -22,12 +22,12 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Exodus
 
 **Exodus 1:1** These are the names of the sons of Israel who entered into Egypt with Jacob their father; each entered with his whole household.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
 
 **Exodus 1:2** Reuben, Simeon, Levi, Judah,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 1
 
@@ -44,19 +44,19 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 9
 
 **Leviticus 1:2** Speak to the sons of Israel and say to them, If a person from among you brings gifts to the Lord, you shall bring your gifts from the livestock, from the cattle and from the sheep.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
 **Leviticus 1:3** If his gift is a whole burnt offering from the cattle, he shall bring a male without blemish to the entrance of the tent of testimony. He shall bring it as accepted before the Lord.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 56
 
 ## Numbers
 
 **Numbers 1:1** And the Lord spoke to Moses in the wilderness of Sinai, in the tent of testimony, on the first day of the second month, in the second year after they came out of the land of Egypt, saying,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9
 
@@ -73,7 +73,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Deuteronomy
 
 **Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 20
 
@@ -83,82 +83,82 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 9
 
 **Deuteronomy 1:3** And it came to pass in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to all the sons of Israel according to all that the Lord commanded him to them,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
 
 ## Joshua
 
 **Joshua 1:1** And it happened after the death of Moses, the Lord said to Joshua son of Nun, minister of Moses, saying,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
 
 **Joshua 1:2** Moses my servant has died. Now therefore, rising up, cross this Jordan, you and all this people, into the land that I give to them.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
 **Joshua 1:3** Every place on which you step with the track of your feet, I will give it to you, in the way I told Moses.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
 
 ## Judges
 
 **Judges 1:1** And it came to be after the death of Joshua that the sons of Israel inquired of the Lord, saying, Who shall go up for us against the Canaanite, leading to fight against him?
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
 **Judges 1:2** And the Lord said, Judah shall go up. See, I have given the land into his hand.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
 **Judges 1:3** And Judah said to Simeon his brother, Come up with me in my lot and let us fight against the Canaanite, and I also will go with you in your lot. And Simeon went with him.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 4
 
 ## Ruth
 
 **Ruth 1:1** And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethleem of Judah went to reside in the field of Moab, he and his wife and his sons.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 22
 
 **Ruth 1:2** And the name of the man was Abimelech, and the name of his wife Noemin, and the names of his two sons Maalōn and Chelaiōn, Ephrathites from Bethleem of Judah, and they came into the field of Moab and were there.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
 
 **Ruth 1:3** And Abimelech, husband of Noemin, died, and she was left, she and her two sons.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 4
 
 ## 1 Samuel
 
 **1 Samuel 1:1** There was a man from Armathaim Siphā, from the hill-country of Ephraim, and his name was Elkana, son of Ieremeēl, son of Eliou, son of Thoke, in Nasib Ephraim.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 11
 
 **1 Samuel 1:2** And to him were two wives; the name of the one was Anna and the name of the second Phennana, and Phennana had children, but Anna had no child.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
 **1 Samuel 1:3** And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God Sabaōth at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 19
 
 ## 2 Samuel
 
 **2 Samuel 1:1** And it came to be after the death of Saul, David returned from striking Amalek, and David sat in Sekelak two days.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
 
@@ -168,14 +168,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 22
 
 **2 Samuel 1:3** And David said to him, From where do you come? And he said to him, I have escaped from the camp of Israel.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
 
 ## 1 Kings
 
 **1 Kings 1:1** And King David was old, advanced in days, and they covered him with garments, but he did not get warm.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
 
@@ -185,7 +185,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 8
 
 **1 Kings 1:3** And they sought a beautiful young woman from all the border of Israel, and they found Abisak the Somanite and brought her to the king.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
@@ -214,24 +214,24 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 6
 
 **1 Chronicles 1:2** Kainan, Maleleel, Iared,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
 
 **1 Chronicles 1:3** Enoch, Mathousala, Lamech,
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
 ## 2 Chronicles
 
 **2 Chronicles 1:1** And Solomon son of David was strengthened over his kingdom, and Lord his God was with him and magnified him on high.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
 **2 Chronicles 1:2** And Solomon spoke to all Israel, to commanders of thousands and of hundreds and to judges and to all rulers before Israel, to chiefs of fathers.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
 
@@ -248,7 +248,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 12
 
 **Ezra 1:2** Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Ioudaia.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
 
@@ -260,12 +260,12 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Nehemiah
 
 **Nehemiah 1:1** Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
 
 **Nehemiah 1:2** And Anani, one from my brothers, came, he and men of Judah, and I asked them concerning the survivors who were left from captivity and concerning Jerusalem.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9
 
