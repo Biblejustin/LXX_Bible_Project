@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 13412
-- medium: 2093
-- low: 7412
+- high: 13592
+- medium: 2063
+- low: 7262
 - none: 0
 
 Note:
@@ -119614,1620 +119614,1620 @@ Note:
 
 ### Job 26:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, these are parts of his way, and upon mere drop of word we will hear in him; but strength of his thunder, who knows when he will make it?
 - brenton: [missing]
 
 ### Job 27:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And again adding, Iōb said in his opening discourse,
 - brenton: [missing]
 
 ### Job 27:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As Lord lives, who has judged me thus, and Almighty, who embittered my soul,
 - brenton: [missing]
 
 ### Job 27:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: as long as my breath is still in me and divine spirit in my nostrils,
 - brenton: [missing]
 
 ### Job 27:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: my lips will by no means speak lawless things, nor will my soul meditate unjust things.
 - brenton: [missing]
 
 ### Job 27:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Far be it from me to declare you righteous until I die, for I will not put away my innocence.
 - brenton: [missing]
 
 ### Job 27:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And clinging to righteousness, I will by no means let go, for I am not conscious to myself of having done improper things.
 - brenton: [missing]
 
 ### Job 27:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet let my enemies be as overthrow of ungodly men, and those rising against me as destruction of lawless men.
 - brenton: [missing]
 
 ### Job 27:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what hope is there for ungodly man, that he clings, trusting upon Lord? Will he be saved?
 - brenton: [missing]
 
 ### Job 27:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will Lord hear his petition, or when necessity comes upon him?
 - brenton: [missing]
 
 ### Job 27:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Does he have any boldness before him, or when he calls upon him, will he hear him?
 - brenton: [missing]
 
 ### Job 27:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now I will declare to you what is in hand of Lord; what things are with Almighty I will not lie about.
 - brenton: [missing]
 
 ### Job 27:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold now, you all know that you heap empty things upon empty things.
 - brenton: [missing]
 
 ### Job 27:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is portion of ungodly man from Lord, and possession of tyrants will come upon them from Almighty.
 - brenton: [missing]
 
 ### Job 27:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if his sons become many, they will be for slaughter; and if they grow into men, they will beg.
 - brenton: [missing]
 
 ### Job 27:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those left of him will end in death, and no one will pity their widows.
 - brenton: [missing]
 
 ### Job 27:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If he gathers silver like earth, and prepares gold like clay,
 - brenton: [missing]
 
 ### Job 27:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: righteous men will obtain all these things, and true men will hold his goods.
 - brenton: [missing]
 
 ### Job 27:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his house turned out like moth, and like spider.
 - brenton: [missing]
 
 ### Job 27:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rich man, having lain down, will add no more; he opened his eyes, and he is not.
 - brenton: [missing]
 
 ### Job 27:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pains met him like water, and by night gloom carried him away.
 - brenton: [missing]
 
 ### Job 27:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Scorching wind will carry him off and depart, and will winnow him from his place.
 - brenton: [missing]
 
 ### Job 27:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will hurl itself upon him and not spare; fleeing, he will flee from its hand.
 - brenton: [missing]
 
 ### Job 27:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will clap his hands against him and hiss him out of his place.
 - brenton: [missing]
 
 ### Job 28:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For silver has place from where it comes, and gold place from where it is refined.
 - brenton: [missing]
 
 ### Job 28:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For iron comes from earth, and bronze is quarried like stone.
 - brenton: [missing]
 
 ### Job 28:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He set order for darkness, and he himself searches out every limit, stone of gloom and shadow of death.
 - brenton: [missing]
 
 ### Job 28:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Torrent breaks off from dust, and those forgetting righteous way grew weak among mortals.
 - brenton: [missing]
 
 ### Job 28:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth, from it bread will come out, but underneath it is turned up as by fire.
 - brenton: [missing]
 
 ### Job 28:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its stones are place of sapphire, and its dust has gold with it.
 - brenton: [missing]
 
 ### Job 28:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bird did not know that path, nor did eye of vulture look upon it.
 - brenton: [missing]
 
 ### Job 28:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of arrogant men did not tread it, nor did lion pass over it.
 - brenton: [missing]
 
 ### Job 28:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He stretched out his hand upon sharp rock, and overturned mountains from roots.
 - brenton: [missing]
 
 ### Job 28:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he broke open whirlings of rivers, and my eye saw every precious thing.
 - brenton: [missing]
 
 ### Job 28:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he uncovered depths of rivers and brought his power into light.
 - brenton: [missing]
 
 ### Job 28:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But wisdom, from where was it found? And what place is there for knowledge?
 - brenton: [missing]
 
 ### Job 28:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mortal does not know its way, nor will it be found among men.
 - brenton: [missing]
 
 ### Job 28:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deep said, It is not in me, and sea said, It is not with me.
 - brenton: [missing]
 
 ### Job 28:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will not give enclosure in exchange for it, and silver will not stand as its price.
 - brenton: [missing]
 
 ### Job 28:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor will it be weighed with gold of Ophir, with precious onyx and sapphire.
 - brenton: [missing]
 
 ### Job 28:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gold and glass will not equal it, and exchange for it is vessels of gold.
 - brenton: [missing]
 
 ### Job 28:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Coral and crystal will not be remembered, and draw wisdom above innermost things.
 - brenton: [missing]
 
 ### Job 28:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Topaz of Ethiopia will not equal it, nor will it be weighed with pure gold.
 - brenton: [missing]
 
 ### Job 28:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But wisdom, from where was it found? And what place is there for understanding?
 - brenton: [missing]
 
 ### Job 28:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It escaped every man and was hidden from birds of heaven.
 - brenton: [missing]
 
 ### Job 28:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Destruction and death said, We heard its fame.
 - brenton: [missing]
 
 ### Job 28:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God well understood its way, and he knows its place.
 - brenton: [missing]
 
 ### Job 28:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he watches all that is under heaven, knowing all things on earth, whatever he made.
 - brenton: [missing]
 
 ### Job 28:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Weight of winds and measures of waters,
 - brenton: [missing]
 
 ### Job 28:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when he thus made rain and counted it, and path in roaring voices.
 - brenton: [missing]
 
 ### Job 28:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then he saw it and declared it, preparing it and searching it out.
 - brenton: [missing]
 
 ### Job 28:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding.
 - brenton: [missing]
 
 ### Job 29:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And again adding, Iōb said in his opening discourse,
 - brenton: [missing]
 
 ### Job 29:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who might set me as in months before, in days when God guarded me,
 - brenton: [missing]
 
 ### Job 29:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: as when his lamp shone over my head, when by his light I walked in darkness,
 - brenton: [missing]
 
 ### Job 29:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when I was heavy upon my ways, when God made visitation of my house,
 - brenton: [missing]
 
 ### Job 29:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when I was very leafy, and my children round about me,
 - brenton: [missing]
 
 ### Job 29:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when my ways were poured out with butter, and my mountains poured out milk,
 - brenton: [missing]
 
 ### Job 29:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when I went out early in city, and my seat was set in squares,
 - brenton: [missing]
 
 ### Job 29:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: young men seeing me hid themselves, and all elders stood up,
 - brenton: [missing]
 
 ### Job 29:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and great men stopped speaking, putting finger upon mouth.
 - brenton: [missing]
 
 ### Job 29:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those hearing me blessed me, and their tongue stuck to their throat.
 - brenton: [missing]
 
 ### Job 29:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For ear heard and blessed me, and eye seeing me turned aside toward me,
 - brenton: [missing]
 
 ### Job 29:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because I rescued poor man from hand of mighty man, and I helped orphan who had no helper.
 - brenton: [missing]
 
 ### Job 29:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessing of one perishing came upon me, and mouth of widow blessed me.
 - brenton: [missing]
 
 ### Job 29:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I put on righteousness and clothed myself with judgment like double robe.
 - brenton: [missing]
 
 ### Job 29:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was eye of blind and foot of lame.
 - brenton: [missing]
 
 ### Job 29:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was father of weak men, and case that I did not know I searched out.
 - brenton: [missing]
 
 ### Job 29:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I shattered jaws of unjust men, and from midst of their teeth I snatched prey.
 - brenton: [missing]
 
 ### Job 29:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, My age will grow old like stem of palm; I will live long time.
 - brenton: [missing]
 
 ### Job 29:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My root is opened upon water, and dew will lodge in my harvest.
 - brenton: [missing]
 
 ### Job 29:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My glory is fresh with me, and my bow will go in his hand.
 - brenton: [missing]
 
 ### Job 29:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hearing me, they paid attention, and kept silence at my counsel.
 - brenton: [missing]
 
 ### Job 29:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon my word they added nothing, and they became joyful whenever I spoke to them.
 - brenton: [missing]
 
 ### Job 29:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like thirsty earth expecting rain, so these expected my speech.
 - brenton: [missing]
 
 ### Job 29:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I laugh toward them, they will by no means believe, and light of my face did not fall away.
 - brenton: [missing]
 
 ### Job 29:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I chose their way and sat as ruler, and dwelt like king among lone-belted men, as one comforting those in grief.
 - brenton: [missing]
 
 ### Job 30:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now least men laughed at me; now they admonish me in part, whose fathers I despised, whom I did not count worthy of dogs of my flocks.
 - brenton: [missing]
 
 ### Job 30:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And strength of their hands, why should it be to me? Completion perished upon them.
 - brenton: [missing]
 
 ### Job 30:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In want and famine, barren men, fleeing dry place yesterday, distress and misery,
 - brenton: [missing]
 
 ### Job 30:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: plucking saltwort upon scrub, whose foods were saltwort, dishonored and made worthless, lacking every good thing, even chewing roots of trees because of great hunger.
 - brenton: [missing]
 
 ### Job 30:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Robbers rose against me.
 - brenton: [missing]
 
 ### Job 30:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whose houses were caves of rocks.
 - brenton: [missing]
 
 ### Job 30:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Among pleasant-sounding places they will cry out; under wild brush they had their way of life.
 - brenton: [missing]
 
 ### Job 30:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of fools and dishonored men, name and fame wiped out from earth.
 - brenton: [missing]
 
 ### Job 30:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now I am their harp, and they have me for byword.
 - brenton: [missing]
 
 ### Job 30:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And standing far off they abhorred me, and they did not spare spittle from my face.
 - brenton: [missing]
 
 ### Job 30:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For opening his quiver he afflicted me, and they sent away bridle from my face.
 - brenton: [missing]
 
 ### Job 30:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On right hand shoot rose against me; they stretched out their foot and made roads of their destruction against me.
 - brenton: [missing]
 
 ### Job 30:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My paths were crushed, for he stripped off my garment.
 - brenton: [missing]
 
 ### Job 30:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With his arrows he struck me down; he dealt with me as he wished; I am mixed up in pains.
 - brenton: [missing]
 
 ### Job 30:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My pains turn back upon me; my hope went away like wind, and my salvation like cloud.
 - brenton: [missing]
 
 ### Job 30:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now my soul will be poured out upon me, and days of pains hold me.
 - brenton: [missing]
 
 ### Job 30:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And by night my bones are burned together, and my sinews are dissolved.
 - brenton: [missing]
 
 ### Job 30:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In much strength he took hold of my garment; like collar of my tunic it encircled me.
 - brenton: [missing]
 
 ### Job 30:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you counted me like clay in earth, and ash is my portion.
 - brenton: [missing]
 
 ### Job 30:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I cried to you, and you do not hear me; they stood and observed me.
 - brenton: [missing]
 
 ### Job 30:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you came upon me without mercy; with mighty hand you scourged me.
 - brenton: [missing]
 
 ### Job 30:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you appointed me in pains and cast me away from salvation.
 - brenton: [missing]
 
 ### Job 30:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I know that death will wear me out, for earth is house for every mortal.
 - brenton: [missing]
 
 ### Job 30:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if only I might be able to lay hand on myself; and having asked another, he will do this for me.
 - brenton: [missing]
 
 ### Job 30:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I wept over every weak man, and groaned when seeing man in necessities.
 - brenton: [missing]
 
 ### Job 30:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I, waiting for good things, behold, days of evils met me rather.
 - brenton: [missing]
 
 ### Job 30:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My belly boiled and will not be silent; days of poverty came before me.
 - brenton: [missing]
 
 ### Job 30:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Groaning, I have gone without muzzle; I stood in assembly crying out.
 - brenton: [missing]
 
 ### Job 30:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I have become brother of sirens and companion of ostriches.
 - brenton: [missing]
 
 ### Job 30:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my skin is greatly blackened, and my bones from heat.
 - brenton: [missing]
 
 ### Job 30:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my harp turned to mourning, and my song to weeping for me.
 - brenton: [missing]
 
 ### Job 31:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I made covenant with my eyes, and I will not think upon virgin.
 - brenton: [missing]
 
 ### Job 31:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And what did God divide from above, and inheritance of Sufficient One from heights?
 - brenton: [missing]
 
 ### Job 31:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is it not destruction for unjust man, and estrangement for those doing lawless things?
 - brenton: [missing]
 
 ### Job 31:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Does he not see my way and count all my steps?
 - brenton: [missing]
 
 ### Job 31:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if I walked with mockers, and if my foot hurried toward deceit,
 - brenton: [missing]
 
 ### Job 31:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: let him set me then in righteous balance, and Lord knows my innocence.
 - brenton: [missing]
 
 ### Job 31:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If my foot turned aside from way, and if my heart followed eye, and if with my hands I touched gifts,
 - brenton: [missing]
 
 ### Job 31:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let me sow and let others eat, and let me become rootless upon earth.
 - brenton: [missing]
 
 ### Job 31:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If my heart followed after wife of another man, and if I sat in ambush at her doors,
 - brenton: [missing]
 
 ### Job 31:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let my wife please another man, and let my little ones be humbled.
 - brenton: [missing]
 
 ### Job 31:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For wrath of anger is unrestrainable, to defile wife of man.
 - brenton: [missing]
 
 ### Job 31:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For it is fire burning upon all my members, which wherever it comes destroys from roots.
 - brenton: [missing]
 
 ### Job 31:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I despised case of my servant or my servant girl when they were contending with me,
 - brenton: [missing]
 
 ### Job 31:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: what then will I do when Lord makes inspection of me, and if he makes visitation, what answer will I give?
 - brenton: [missing]
 
 ### Job 31:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Were they not formed in womb as I also was? And were we not made in same womb?
 - brenton: [missing]
 
 ### Job 31:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And weak men, whatever need they had, did not fail to obtain it from me, and I did not make eye of widow waste away.
 - brenton: [missing]
 
 ### Job 31:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I ate my morsel alone, and did not share it with orphan,
 - brenton: [missing]
 
 ### Job 31:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for from my youth I reared them as father, and from my mother's womb I guided them.
 - brenton: [missing]
 
 ### Job 31:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I overlooked naked man perishing and did not clothe him,
 - brenton: [missing]
 
 ### Job 31:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and weak men did not bless me, and from shearings of my lambs their shoulders were warmed,
 - brenton: [missing]
 
 ### Job 31:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if I lifted hand against orphan, trusting that much help surrounded me,
 - brenton: [missing]
 
 ### Job 31:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let my shoulder fall away from collarbone, and let my arm be broken from elbow.
 - brenton: [missing]
 
 ### Job 31:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For fear of Lord constrained me, and because of his burden I will not endure.
 - brenton: [missing]
 
 ### Job 31:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I made gold my strength, or trusted in precious stone,
 - brenton: [missing]
 
 ### Job 31:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and if I rejoiced because much wealth came to me, and because I laid hand upon countless things,
 - brenton: [missing]
 
 ### Job 31:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or if I saw sun shining, moon waning, for these things are not mine,
 - brenton: [missing]
 
 ### Job 31:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and if my heart was secretly deceived, and laying hand upon my mouth I kissed them,
 - brenton: [missing]
 
 ### Job 31:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let this too be counted to me as greatest lawlessness, because I lied against Lord Most High.
 - brenton: [missing]
 
 ### Job 31:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I became glad at downfall of my enemies, and my heart said, Good!
 - brenton: [missing]
 
 ### Job 31:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let my ear hear my curse, and let me become a byword among my people while afflicted.
 - brenton: [missing]
 
 ### Job 31:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if my servant girls often said, Who would give us of his flesh that we might be very full, because I was good?
 - brenton: [missing]
 
 ### Job 31:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Stranger did not lodge outside, and my door stood open to every comer.
 - brenton: [missing]
 
 ### Job 31:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if sinning unwillingly I hid my sin,
 - brenton: [missing]
 
 ### Job 31:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: for I was not ashamed of great crowd, so as not to confess before them, and if I let weak man not go out from my empty bosom-door,
 - brenton: [missing]
 
 ### Job 31:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who would grant one hearing me? And if not, hand of Lord I would have feared. And written indictment I had against someone.
 - brenton: [missing]
 
 ### Job 31:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Placing it upon my shoulders, I would read it as crown.
 - brenton: [missing]
 
 ### Job 31:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if, not tearing it up, I repaid nothing taken from debtor,
 - brenton: [missing]
 
 ### Job 31:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if ever land groaned against me, and its furrows wept together,
 - brenton: [missing]
 
 ### Job 31:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and if I ate its strength alone without payment, and grieving I cast out soul of lord of land,
 - brenton: [missing]
 
 ### Job 31:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then let nettle come out for me instead of wheat, and thorn-bush instead of barley. And Iōb ceased from words.
 - brenton: [missing]
 
 ### Job 32:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his three friends were quiet, no longer answering Iōb, for Iōb was righteous before them.
 - brenton: [missing]
 
 ### Job 32:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elious son of Barachiēl the Buzite of kin of Ram from country of Ausitis was angered; and against Iōb he was greatly angered because he declared himself righteous before Lord.
 - brenton: [missing]
 
 ### Job 32:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And against the three friends he was greatly angered, because they were not able to answer contrary things to Iōb, and they made him out to be ungodly.
 - brenton: [missing]
 
 ### Job 32:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Elious waited to give answer to Iōb because they were older than he in days.
 - brenton: [missing]
 
 ### Job 32:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elious saw that there was no answer in mouth of the three men, and his wrath became angry.
 - brenton: [missing]
 
 ### Job 32:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Elious son of Barachiēl the Buzite said, I am younger in time, but you are elders; therefore I kept silent, fearing to declare to you my own knowledge.
 - brenton: [missing]
 
 ### Job 32:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Time is what speaks, and in many years they know wisdom.
 - brenton: [missing]
 
 ### Job 32:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But spirit is in mortals, and breath of Almighty is what teaches.
 - brenton: [missing]
 
 ### Job 32:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not long-lived men are wise, nor do elders know judgment.
 - brenton: [missing]
 
 ### Job 32:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I said, Hear me, and I will declare to you what I know.
 - brenton: [missing]
 
 ### Job 32:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear to my words, for I will speak with you listening, until you test sayings.
 - brenton: [missing]
 
 ### Job 32:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And up to you I will understand. And behold, there was none from you reproving Iōb or answering his words.
 - brenton: [missing]
 
 ### Job 32:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lest you say, We found wisdom by adding to Lord.
 - brenton: [missing]
 
 ### Job 32:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you allowed man to speak such words.
 - brenton: [missing]
 
 ### Job 32:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were terrified; they answered no more; words grew old from them.
 - brenton: [missing]
 
 ### Job 32:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I waited, for they did not speak, because they stood and did not answer.
 - brenton: [missing]
 
 ### Job 32:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up the matter, Elious says,
 - brenton: [missing]
 
 ### Job 32:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Again I will speak, for I am full of words; spirit of my belly destroys me.
 - brenton: [missing]
 
 ### Job 32:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my belly is like skin-bag of sweet wine boiling, tied up, or like broken bronze-worker's bellows.
 - brenton: [missing]
 
 ### Job 32:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will speak, that I may have rest, opening my lips.
 - brenton: [missing]
 
 ### Job 32:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I will not be ashamed before man, nor indeed will I feel shame before mortal.
 - brenton: [missing]
 
 ### Job 32:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I do not know how to admire face, else moths would eat even me.
 - brenton: [missing]
 
 ### Job 33:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet hear my words, Iōb, and give ear to my speech.
 - brenton: [missing]
 
 ### Job 33:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For behold, I opened my mouth, and my tongue spoke.
 - brenton: [missing]
 
 ### Job 33:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My heart is pure in words, and understanding of my lips knows purely.
 - brenton: [missing]
 
 ### Job 33:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Divine spirit made me, and breath of Almighty teaches me.
 - brenton: [missing]
 
 ### Job 33:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you are able, give me answer to these things; endure, stand against me, and I against you.
 - brenton: [missing]
 
 ### Job 33:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You were fashioned from clay as I also; from same thing we were formed.
 - brenton: [missing]
 
 ### Job 33:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My fear will not whirl you, nor will my hand be heavy upon you.
 - brenton: [missing]
 
 ### Job 33:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Still, you said in my ears, and I heard voice of your words,
 - brenton: [missing]
 
 ### Job 33:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, I am pure, not sinning; I am blameless, for I did not act lawlessly.
 - brenton: [missing]
 
 ### Job 33:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he found complaint against me and counts me as opponent.
 - brenton: [missing]
