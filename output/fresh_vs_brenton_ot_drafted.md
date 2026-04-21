@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 11184
-- medium: 2450
-- low: 9128
+- high: 11244
+- medium: 2440
+- low: 9078
 - none: 155
 
 Note:
@@ -2085,9 +2085,9 @@ Note:
 
 ### Genesis 9:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Noah sobered up from the wine and knew what his younger son did to him,
 - brenton: And Noe recovered from the wine, and knew all that his younger son had done to him.
@@ -2148,9 +2148,9 @@ Note:
 
 ### Genesis 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Japheth: Gamer and Magog and Madai and Jovan and Elisa and Thobel and Mosoch and Thiras.
 - brenton: The sons of Japheth, Gamer, and Magog, and Madoi, and Jovan, and Elisa, and Thobel, and Mosoch, and Thiras.
@@ -2517,9 +2517,9 @@ Note:
 
 ### Genesis 11:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Shem lived after begetting Arphaxad five hundred years, and begot sons and daughters, and died.
 - brenton: And Sem lived, after he had begotten Arphaxad, five hundred years, and begot sons and daughters, and died.
@@ -2904,9 +2904,9 @@ Note:
 
 ### Genesis 13:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abram was very rich in livestock and silver and gold.
 - brenton: And Abram was very rich in cattle, and silver, and gold.
@@ -3012,9 +3012,9 @@ Note:
 
 ### Genesis 13:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God said to Abram after Lot had separated from him, Lift up your eyes and see from the place where you are now, toward north and south and east and sea.
 - brenton: And God said to Abram after Lot was separated from him, Look up with thine eyes, and behold from the place where thou now art northward and southward, and eastward and seaward;
@@ -3687,9 +3687,9 @@ Note:
 
 ### Genesis 17:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this is the covenant which you shall keep, between me and you and your seed after you throughout their generations: every male among you shall be circumcised.
 - brenton: And this is the covenant which thou shalt fully keep between me and you, and between thy seed after thee for their generations; every male of you shall be circumcised.
@@ -4164,9 +4164,9 @@ Note:
 
 ### Genesis 19:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he pressed them, and they turned aside to him and entered into his house. And he made a feast for them, and baked unleavened bread for them, and they ate.
 - brenton: And he constrained them, and they turned aside to him, and they entered into his house, and he made a feast for them, and baked unleavened cakes for them, and they did eat.
@@ -6090,9 +6090,9 @@ Note:
 
 ### Genesis 25:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These are Ishmael's sons, and these are their names in their tents and in their settlements, twelve rulers according to their nations.
 - brenton: These are the sons of Ismael, and these are their names in their tents and in their dwellings, twelve princes according to their nations.
@@ -8889,9 +8889,9 @@ Note:
 
 ### Genesis 34:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Emmor father of Sychem went out to Jacob to speak with him.
 - brenton: And Emmor the father of Sychem went forth to Jacob, to speak to him.
@@ -11130,9 +11130,9 @@ Note:
 
 ### Genesis 41:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh said to Joseph, Look, I appoint you today over all the land of Egypt.
 - brenton: And Pharao said to Joseph, Behold, I set thee this day over all the land of Egypt.
@@ -12480,9 +12480,9 @@ Note:
 
 ### Genesis 45:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Israel said, It is a great thing for me if Joseph my son still lives. I will go and see him before I die.
 - brenton: And Israel said, It is a great thing for me if Joseph my son is yet alive, I will go and see him before I die.
@@ -14687,9 +14687,9 @@ Note:
 
 ### Exodus 4:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aaron spoke all these words that God had spoken to Moses, and he did the signs before the people.
 - brenton: And Aaron spoke all these words, which God spoke to Moses, and wrought the miracles before the people.
@@ -18044,9 +18044,9 @@ Note:
 
 ### Exodus 18:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jethro, the father-in-law of Moses, and his sons and wife, came out to Moses into the wilderness where he had camped at the mountain of God.
 - brenton: And Jothor the father-in-law of Moses, and his sons and his wife, went forth to Moses into the wilderness, where he encamped on the mount of God.
@@ -18395,9 +18395,9 @@ Note:
 
 ### Exodus 19:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses brought the people out from the camp to meet God, and they stood beneath the mountain.
 - brenton: And Moses led the people forth out of the camp to meet God, and they stood by under the mountain.
@@ -18737,9 +18737,9 @@ Note:
 
 ### Exodus 21:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if his master gives him a wife and she bears him sons or daughters, the wife and the children shall belong to his master, and he alone shall go out.
 - brenton: Moreover, if his master give him a wife, and she have born him sons or daughters, the wife and the children shall be his master's; and he shall go forth alone.
@@ -18800,9 +18800,9 @@ Note:
 
 ### Exodus 21:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if he does not do these three things for her, she shall go out free, without money.
 - brenton: And if he will not do these three things to her, she shall go out free without money.
@@ -19943,9 +19943,9 @@ Note:
 
 ### Exodus 25:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall place the propitiatory on top of the ark, and into the ark you shall put the testimonies that I shall give you.
 - brenton: And thou shalt set the propitiatory on the ark above, and thou shalt put into the ark the testimonies which I shall give thee.
@@ -21428,9 +21428,9 @@ Note:
 
 ### Exodus 30:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall make poles of incorruptible wood and overlay them with gold.
 - brenton: And thou shalt make the staves of incorruptible wood, and shalt gild them with gold.
@@ -22598,9 +22598,9 @@ Note:
 
 ### Exodus 34:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall keep for me the feast of weeks, the first of wheat harvest, and the feast of ingathering in the middle of the year.
 - brenton: And thou shalt keep to me the feast of weeks, the beginning of wheat-harvest; and the feast of ingathering in the middle of the year.
@@ -24409,9 +24409,9 @@ Note:
 
 ### Leviticus 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shall remove the crop with its feathers and throw it beside the altar on the east, to the place of ashes.
 - brenton: And he shall take away the crop with the feathers, and shall cast it forth by the altar toward the east to the place of the ashes.
@@ -25957,18 +25957,18 @@ Note:
 
 ### Leviticus 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses took all the fat on the inward parts, and the lobe above the liver, and both kidneys, and the fat on them, and Moses offered them on the altar.
 - brenton: And Moses took all the fat that was upon the inwards, and the lobe on the liver, and both the kidneys, and the fat that was upon them, and Moses offered them on the altar.
 
 ### Leviticus 8:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the calf and its hide and its flesh and its dung he burned with fire outside the camp, just as the Lord commanded Moses.
 - brenton: But the calf, and his hide, and his flesh, and his dung, he burnt with fire without the camp, as the Lord commanded Moses.
@@ -28009,9 +28009,9 @@ Note:
 
 ### Leviticus 14:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shall slaughter the one bird in an earthen vessel over living water.
 - brenton: And he shall slay one bird in an earthen vessel over running water.
@@ -29116,9 +29116,9 @@ Note:
 
 ### Leviticus 19:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each of you shall fear his father and his mother, and you shall keep my sabbaths. I am the Lord your God.
 - brenton: Let every one of you reverence his father and his mother; and ye shall keep my sabbaths: I am the Lord your God.
@@ -29494,9 +29494,9 @@ Note:
 
 ### Leviticus 20:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall keep my commands and do them. I am the Lord who sanctifies you.
 - brenton: And ye shall observe my ordinances, and do them: I am the Lord that sanctifies you.
@@ -29512,9 +29512,9 @@ Note:
 
 ### Leviticus 20:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Any man who commits adultery with the wife of a man, or who commits adultery with the wife of his neighbor, the adulterer and the adulteress shall surely be put to death.
 - brenton: Whatever man shall commit adultery with the wife of a man, or whoever shall commit adultery with the wife of his neighbour, let them die the death, the adulterer and the adulteress.
@@ -33069,9 +33069,9 @@ Note:
 
 ### Numbers 3:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their charge was the ark and the table and the lampstand and the altars and the vessels of the sanctuary with which they minister and the covering and all their works.
 - brenton: And their charge was the ark, and the table, and the candlestick, and the altars, and all the vessels of the sanctuary wherewith they do holy service, and the veil, and all their works.
@@ -37335,9 +37335,9 @@ Note:
 
 ### Numbers 16:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses, hearing it, fell on his face.
 - brenton: And when Moses heard it, he fell on his face.
@@ -43068,9 +43068,9 @@ Note:
 
 ### Numbers 34:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are the names of the men: from the tribe of Judah, Caleb son of Jephunneh.
 - brenton: And these are the names of the men; of the tribe of Juda, Chaleb the son of Jephonne.
@@ -49865,9 +49865,9 @@ Note:
 
 ### Deuteronomy 27:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall build there an altar to the Lord your God, an altar of stones. You shall not put iron on them.
 - brenton: And thou shalt build there an altar to the Lord thy God, an altar of stones; thou shalt not lift up iron upon it.
@@ -52196,9 +52196,9 @@ Note:
 
 ### Deuteronomy 34:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And no prophet rose again in Israel like Moses, whom the Lord knew face to face,
 - brenton: And there rose up no more a prophet in Israel like Moses, whom the Lord knew face to face,
@@ -52657,9 +52657,9 @@ Note:
 
 ### Joshua 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to Joshua, On this day I begin to exalt you before all the sons of Israel, so that they may know that just as I was with Moses, so I will also be with you.
 - brenton: And the Lord said to Joshua, This day do I begin to exalt thee before all the children of Israel, that they may know that as I was with Moses, so will I also be with thee.
@@ -54934,9 +54934,9 @@ Note:
 
 ### Joshua 13:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: all the cities of Sihon king of the Amorites who reigned in Heshbon as far as the boundaries of the sons of Ammon,
 - brenton: All the cities of Seon king of the Amorites, who reigned from Esebon to the coasts of the children of Ammon;
@@ -58689,9 +58689,9 @@ Note:
 
 ### Judges 3:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought the gifts to Eglom king of Moab, and Eglom was a very imposing man.
 - brenton: And he went, and brought the presents to Eglom king of Moab, and Eglom was a very handsome man.
@@ -61380,9 +61380,9 @@ Note:
 
 ### Judges 12:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Labdōn son of Sellēm the Phraathōnite died and was buried in Phraathōn in the land of Ephraim, in the mountain of Lanak.
 - brenton: And Abdon the son of Ellel, the Pharathonite, died, and was buried in Pharathon in the land of Ephraim in the mount of Amalec.
@@ -61605,9 +61605,9 @@ Note:
 
 ### Judges 13:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Spirit of the Lord began to go with him in the camp of Dan, between Saraa and between Esthaol.
 - brenton: And the Spirit of the Lord began to go out with him in the camp of Dan, and between Saraa and Esthaol.
@@ -69475,9 +69475,9 @@ Note:
 
 ### 1 Samuel 23:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David said, Lord God of Israel, your servant has surely heard that Saoul seeks to come against Keila to destroy the city because of me.
 - brenton: And David said, Lord God of Israel, thy servant has indeed heard, that Saul seeks to come against Keila to destroy the city on my account.
@@ -71331,9 +71331,9 @@ Note:
 
 ### 2 Samuel 1:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David said to the young man reporting to him, How do you know that Saoul and Iōnathan his son have died?
 - brenton: And David said to the young man who brought him the tidings, How knowest thou that Saul and Jonathan his son are dead?
@@ -71484,9 +71484,9 @@ Note:
 
 ### 2 Samuel 1:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From the blood of the wounded, from the fat of the mighty, the bow of Iōnathan did not turn back empty, and the sword of Saoul did not return empty.
 - brenton: From the blood of the slain, and from the fat of the mighty, the bow of Jonathan returned not empty; and the sword of Saul turned not back empty.
@@ -74040,9 +74040,9 @@ Note:
 
 ### 2 Samuel 13:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she brought them near to him to eat, and he seized her and said to her, Come, lie with me, my sister.
 - brenton: And she brought them to him to eat, and he caught hold of her, and said to her, Come, lie with me, my sister.
@@ -75363,9 +75363,9 @@ Note:
 
 ### 2 Samuel 17:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Israel and Abessalom camped in the land of Galaad.
 - brenton: And all Israel and Abessalom encamped in the land of Galaad.
@@ -76137,9 +76137,9 @@ Note:
 
 ### 2 Samuel 20:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after him went out the men of Ioab and the Cherethite and the Phelethite and all the mighty men, and they went out from Ierousalem to pursue after Sabee son of Bochori.
 - brenton: And there went out after him Amessai and the men of Joab, and the Cherethites, and the Phelethites, and all the mighty men: and they went out from Jerusalem to pursue after Sabee the son of Bochori.
@@ -77822,9 +77822,9 @@ Note:
 
 ### 1 Kings 1:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Bersabee bowed with her face to the ground and did obeisance to the king and said, May my lord King David live forever.
 - brenton: And Bersabee bowed with her face to the ground, and did obeisance to the king, and said, Let my lord king David live for ever.
@@ -81116,9 +81116,9 @@ Note:
 
 ### 1 Kings 11:37
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will take you, and you will reign over whatever your soul desires, and you will be king over Israel.
 - brenton: And I will take thee, and thou shalt reign as thy soul desires, and thou shalt be king over Israel.
@@ -83141,9 +83141,9 @@ Note:
 
 ### 1 Kings 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he entered there into the cave and lodged there. And behold, word of the Lord came to him and said, What are you doing here, Elijah?
 - brenton: And he entered there into a cave, and rested there; and, behold, the word of the Lord came to him, and he said, What doest thou here, Eliu?
@@ -86248,9 +86248,9 @@ Note:
 
 ### 2 Kings 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He was thirty-two years old when he became king, and he reigned eight years in Jerusalem.
 - brenton: Thirty and two years old was he when he began to reign, and he reigned eight years in Jerusalem.
@@ -87751,9 +87751,9 @@ Note:
 
 ### 2 Kings 14:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the rest of the words of Ioas, what he did in his might, how he fought with Amessias king of Judah, are these not written in the book of the words of the days for the kings of Israel?
 - brenton: And the rest of the acts of Joas, even all that he did in his might, how he warred with Amessias king of Juda, are not these things written in the book of the chronicles of the kings of Israel?
@@ -89155,9 +89155,9 @@ Note:
 
 ### 2 Kings 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Esaias said to them, Thus you shall say to your lord: Thus says the Lord, Do not fear from the words which you heard, with which the servant-boys of the king of the Assyrians blasphemed.
 - brenton: And Esaias said to them, Thus shall ye say to your master, Thus saith the Lord, Be not afraid of the words which thou hast heard, wherewith the servants of the king of the Assyrians have blasphemed.
@@ -90100,9 +90100,9 @@ Note:
 
 ### 2 Kings 23:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he tore down the houses of the consecrated ones which were in the house of the Lord, where the women were weaving hangings for the grove.
 - brenton: And he pulled down the house of the sodomites that were by the house of the Lord, where the women wove tents for the grove.
@@ -92073,9 +92073,9 @@ Note:
 
 ### 1 Chronicles 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his wife, Adia, bore Iared father of Gedor and Aber father of Sochon and Iekthiel father of Zanou. And these are sons of Geli daughter of Pharaoh, whom Morad took.
 - brenton: And his wife, that is Adia, bore Jared the father of Gedor, and Aber the father of Sochon, and Chetiel the father of Zamon: and these are the sons of Betthia the daughter of Pharao, whom Mored took.
@@ -93630,9 +93630,9 @@ Note:
 
 ### 1 Chronicles 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Beniamin begot Bale his firstborn, Asbel the second, Aara the third,
 - brenton: Now Benjamin begot Bale his first-born, and Asbel his second son, Aara the third, Noa the fourth,
@@ -95997,9 +95997,9 @@ Note:
 
 ### 1 Chronicles 16:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, To you I will give land of Chanaan, measuring-line of your inheritance.
 - brenton: saying, To thee will I give the land of Chanaan, the line of your inheritance:
@@ -97905,9 +97905,9 @@ Note:
 
 ### 1 Chronicles 25:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these were sons of Haiman, one sounding to king in words of God, to raise horn, and God gave to Haiman fourteen sons and three daughters.
 - brenton: All these were the sons of Æman the king's chief player in the praises of God, to lift up the horn. And God gave to Æman fourteen sons, and three daughters.
@@ -98103,9 +98103,9 @@ Note:
 
 ### 1 Chronicles 25:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Twentieth, Eliatha, his sons and his brothers, twelve.
 - brenton: the twentieth Heliatha, his sons and his brethren, twelve:
@@ -99797,9 +99797,9 @@ Note:
 
 ### 2 Chronicles 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and one sea and twelve calves under it,
 - brenton: and the one sea, and the twelve calves under it;
@@ -100067,9 +100067,9 @@ Note:
 
 ### 2 Chronicles 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nevertheless, you shall not build house, but your son who shall come out from your loins, he shall build house to my name.
 - brenton: Nevertheless thou shalt not build the house; for thy son who shall come forth out of thy loins, he shall build the house for my name.
@@ -101030,9 +101030,9 @@ Note:
 
 ### 2 Chronicles 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they sent and called him, and Ieroboam and all assembly of Israel came to Roboam, saying,
 - brenton: And they sent and called him: and Jeroboam and all the congregation came to Roboam, saying,
@@ -103370,9 +103370,9 @@ Note:
 
 ### 2 Chronicles 23:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they went around Iouda and gathered Levites from all cities of Iouda and chiefs of fathers of Israel and came to Ierousalem.
 - brenton: And they went round about Juda, and gathered the Levites out of all the cities of Juda, and heads of the families of Israel, and they came to Jerusalem.
@@ -104540,9 +104540,9 @@ Note:
 
 ### 2 Chronicles 28:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in every city of Iouda he made high places to burn incense to foreign gods, and they provoked Lord God of their fathers.
 - brenton: and in each several city in Juda he made high places to burn incense to strange gods: and they provoked the Lord God of their fathers.
@@ -104693,9 +104693,9 @@ Note:
 
 ### 2 Chronicles 29:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they gathered their brothers and sanctified themselves according to command of king by ordinance of Lord to cleanse house of Lord.
 - brenton: And they gathered their brethren, and they purified themselves according to the king's command by the order of the Lord, to purify the house of the Lord.
