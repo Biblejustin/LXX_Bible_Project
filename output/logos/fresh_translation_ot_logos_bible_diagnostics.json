@@ -1,0 +1,152 @@
+{
+  "datatype": "BibleLXX2",
+  "verse_rows": 22896,
+  "book_count": 39,
+  "book_counts": {
+    "GEN": 1531,
+    "EXO": 1163,
+    "LEV": 859,
+    "NUM": 1287,
+    "DEU": 959,
+    "JOS": 643,
+    "JDG": 618,
+    "RUT": 85,
+    "1SA": 772,
+    "2SA": 695,
+    "1KI": 756,
+    "2KI": 719,
+    "1CH": 930,
+    "2CH": 821,
+    "EZR": 280,
+    "NEH": 392,
+    "EST": 164,
+    "JOB": 1069,
+    "PSA": 2526,
+    "PRO": 891,
+    "ECC": 222,
+    "SNG": 117,
+    "ISA": 1289,
+    "JER": 1299,
+    "LAM": 151,
+    "EZK": 1267,
+    "DAN": 341,
+    "HOS": 197,
+    "JOL": 73,
+    "AMO": 146,
+    "OBA": 21,
+    "JON": 48,
+    "MIC": 105,
+    "NAM": 47,
+    "HAB": 56,
+    "ZEP": 53,
+    "HAG": 38,
+    "ZEC": 211,
+    "MAL": 55
+  },
+  "translation_note_filter": {
+    "rows": 22984,
+    "included": 12018,
+    "skipped_unreviewed": 479,
+    "skipped_generic_or_brenton_only": 10487
+  },
+  "included_translation_note_refs": 11943,
+  "included_translation_note_total": 12018,
+  "crossrefs": {
+    "source_counts": {
+      "tsk": 20494,
+      "openbible_fallback": 116
+    },
+    "verses_with_crossrefs": 20610,
+    "total_crossrefs_after_canonicalization": 210854,
+    "tsk": {
+      "archive_present": true,
+      "status": "parsed",
+      "members": [
+        "mods.d/tsk.conf",
+        "modules/comments/zcom/tsk/nt.bzv",
+        "modules/comments/zcom/tsk/nt.bzs",
+        "modules/comments/zcom/tsk/ot.bzs",
+        "modules/comments/zcom/tsk/nt.bzz",
+        "modules/comments/zcom/tsk/ot.bzv",
+        "modules/comments/zcom/tsk/ot.bzz"
+      ],
+      "ot_entries": 24115,
+      "nt_entries": 8246,
+      "verses_with_refs": 29624,
+      "verses_with_notes": 13918,
+      "total_crossrefs": 337990
+    },
+    "openbible": {
+      "archive_present": true,
+      "license": "CC-BY 2026-04-06 via openbible.info",
+      "rows": 344799,
+      "usable_rows": 341316,
+      "verses_with_refs": 29318
+    }
+  },
+  "logos_docx": {
+    "output_kind": "logos",
+    "paragraph_count": 23864,
+    "footnote_count": 32628,
+    "crossref_footnotes": 20610,
+    "translation_note_footnotes": 12018,
+    "phrase_anchored_translation_notes": 5979,
+    "verse_anchored_translation_notes": 6039
+  },
+  "proofreading_docx": {
+    "output_kind": "proofreading",
+    "paragraph_count": 23864,
+    "footnote_count": 32628,
+    "crossref_footnotes": 20610,
+    "translation_note_footnotes": 12018,
+    "phrase_anchored_translation_notes": 5979,
+    "verse_anchored_translation_notes": 6039
+  },
+  "validations": [
+    {
+      "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_lxx.docx",
+      "zip_ok": true,
+      "xml_ok": true,
+      "entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "docProps/core.xml",
+        "docProps/app.xml",
+        "word/document.xml",
+        "word/_rels/document.xml.rels",
+        "word/styles.xml",
+        "word/footnotes.xml"
+      ],
+      "bad_entry": null,
+      "xml_errors": [],
+      "footnote_reference_count": 32628,
+      "footnote_body_count": 32628
+    },
+    {
+      "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
+      "zip_ok": true,
+      "xml_ok": true,
+      "entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "docProps/core.xml",
+        "docProps/app.xml",
+        "word/document.xml",
+        "word/_rels/document.xml.rels",
+        "word/styles.xml",
+        "word/footnotes.xml"
+      ],
+      "bad_entry": null,
+      "xml_errors": [],
+      "footnote_reference_count": 32628,
+      "footnote_body_count": 32628
+    }
+  ],
+  "outputs": {
+    "logos_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_lxx.docx",
+    "proof_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
+    "diagnostics": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_diagnostics.json",
+    "readme": "/Users/justinscaggs/Documents/Codex_bible/output/logos/README.md",
+    "preview": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_preview.md"
+  }
+}
