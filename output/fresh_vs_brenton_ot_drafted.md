@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 15212
-- medium: 1738
-- low: 5967
+- high: 15392
+- medium: 1708
+- low: 5817
 - none: 0
 
 Note:
@@ -135861,378 +135861,378 @@ Note:
 
 ### Psalms 80:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If my people heard me, if Israel walked in my ways,
 - brenton: [missing]
 
 ### Psalms 80:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in nothing I would humble their enemies and against those afflicting them I would lay my hand.
 - brenton: [missing]
 
 ### Psalms 80:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enemies of Lord lied to him, and their time will be forever.
 - brenton: [missing]
 
 ### Psalms 80:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he fed them from fat of wheat, and from rock he satisfied them with honey.
 - brenton: [missing]
 
 ### Psalms 81:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of Asaph. God stood in gathering of gods, and in midst he judges gods.
 - brenton: [missing]
 
 ### Psalms 81:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long will you judge injustice and take faces of sinners? Interlude.
 - brenton: [missing]
 
 ### Psalms 81:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Judge orphan and poor one; justify humble one and needy one.
 - brenton: [missing]
 
 ### Psalms 81:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue needy one and poor one; deliver from hand of sinner.
 - brenton: [missing]
 
 ### Psalms 81:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not know nor understand; they walk in darkness; all foundations of earth will be shaken.
 - brenton: [missing]
 
 ### Psalms 81:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, You are gods, and all sons of Most High.
 - brenton: [missing]
 
 ### Psalms 81:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you die like men and fall like one of rulers.
 - brenton: [missing]
 
 ### Psalms 81:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, O God, judge earth, because you will inherit among all nations.
 - brenton: [missing]
 
 ### Psalms 82:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of psalm of Asaph.
 - brenton: [missing]
 
 ### Psalms 82:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, who will be likened to you? Do not be silent nor be made gentle, O God.
 - brenton: [missing]
 
 ### Psalms 82:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, your enemies sounded out, and those hating you raised head.
 - brenton: [missing]
 
 ### Psalms 82:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Against your people they worked crafty counsel and took counsel against your holy ones.
 - brenton: [missing]
 
 ### Psalms 82:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They said, Come, and let us destroy them from nation, and name of Israel will not be remembered any longer.
 - brenton: [missing]
 
 ### Psalms 82:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they took counsel with one accord together; against you they arranged covenant:
 - brenton: [missing]
 
 ### Psalms 82:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: tents of Idumeans and Ishmaelites, Moab and Hagarenes,
 - brenton: [missing]
 
 ### Psalms 82:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gebal and Ammon and Amalek, foreigners with those dwelling in Tyre.
 - brenton: [missing]
 
 ### Psalms 82:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Asshur also came along with them; they became support to sons of Lot. Interlude.
 - brenton: [missing]
 
 ### Psalms 82:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do to them as to Midian and to Sisera, as to Jabin at torrent Kishon.
 - brenton: [missing]
 
 ### Psalms 82:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were destroyed at Endor; they became like dung for earth.
 - brenton: [missing]
 
 ### Psalms 82:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make their rulers like Oreb and Zeeb and Zebee and Salmana, all their rulers,
 - brenton: [missing]
 
 ### Psalms 82:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who said, Let us inherit sanctuary of God for ourselves.
 - brenton: [missing]
 
 ### Psalms 82:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My God, make them like wheel, like stubble before wind,
 - brenton: [missing]
 
 ### Psalms 82:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: as fire kindles forest, as flame burns mountains,
 - brenton: [missing]
 
 ### Psalms 82:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so you will pursue them in your storm, and in your anger you will trouble them.
 - brenton: [missing]
 
 ### Psalms 82:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fill their faces with dishonor, and they will seek your name, Lord.
 - brenton: [missing]
 
 ### Psalms 82:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them be shamed and troubled forever and ever, and let them be disgraced and perish.
 - brenton: [missing]
 
 ### Psalms 82:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let them know that your name Lord, you alone Most High over all earth.
 - brenton: [missing]
 
 ### Psalms 83:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning winepresses, for sons of Korah, psalm.
 - brenton: [missing]
 
 ### Psalms 83:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beloved your tabernacles, Lord of hosts.
 - brenton: [missing]
 
 ### Psalms 83:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul longs and fails for courts of Lord; my heart and my flesh exulted in living God.
 - brenton: [missing]
 
 ### Psalms 83:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For even sparrow found house for itself, and turtledove nest for herself where she may place her nestlings: your altars, Lord of hosts, my king and my God.
 - brenton: [missing]
 
 ### Psalms 83:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed those dwelling in your house; forever and ever they will praise you. Interlude.
 - brenton: [missing]
 
 ### Psalms 83:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man whose support is from you, Lord; ascents in his heart he arranged,
 - brenton: [missing]
 
 ### Psalms 83:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in valley of weeping, into place he appointed; for lawgiver will also give blessings.
 - brenton: [missing]
 
 ### Psalms 83:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will go from strength to strength; God of gods will be seen in Zion.
 - brenton: [missing]
 
 ### Psalms 83:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of hosts, hear my prayer; give ear, God of Jacob. Interlude.
 - brenton: [missing]
 
 ### Psalms 83:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our defender, see, O God, and look upon face of your anointed.
 - brenton: [missing]
 
 ### Psalms 83:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because one day in your courts better than thousands; I chose to be cast aside in house of God rather than dwell in tents of sinners.
 - brenton: [missing]
@@ -136248,99 +136248,99 @@ Note:
 
 ### Psalms 83:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord of hosts, blessed man hoping on you.
 - brenton: [missing]
 
 ### Psalms 84:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for sons of Korah, psalm.
 - brenton: [missing]
 
 ### Psalms 84:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You took pleasure, Lord, in your land; you turned back captivity of Jacob.
 - brenton: [missing]
 
 ### Psalms 84:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You forgave lawlessnesses of your people; you covered all their sins. Interlude.
 - brenton: [missing]
 
 ### Psalms 84:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You stopped all your anger; you turned back from wrath of your anger.
 - brenton: [missing]
 
 ### Psalms 84:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn us back, God of our salvations, and turn your anger away from us.
 - brenton: [missing]
 
 ### Psalms 84:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you be angry with us forever, or stretch your anger from generation to generation?
 - brenton: [missing]
 
 ### Psalms 84:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, you, turning back, will make us live, and your people will rejoice in you.
 - brenton: [missing]
 
 ### Psalms 84:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Show us, Lord, your mercy, and give us your salvation.
 - brenton: [missing]
 
 ### Psalms 84:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will hear what Lord God will speak in me, because he will speak peace upon his people and upon his holy ones and upon those turning heart toward him.
 - brenton: [missing]
 
 ### Psalms 84:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Surely his salvation near those fearing him, so that glory may dwell in our land.
 - brenton: [missing]
@@ -136356,1143 +136356,1143 @@ Note:
 
 ### Psalms 84:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Truth rose from earth, and righteousness looked down from heaven.
 - brenton: [missing]
 
 ### Psalms 84:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord will give goodness, and our land will give its fruit.
 - brenton: [missing]
 
 ### Psalms 84:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteousness will go before him and set his footsteps in way.
 - brenton: [missing]
 
 ### Psalms 85:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer of David. Incline your ear, Lord, and hear me, because I poor and needy.
 - brenton: [missing]
 
 ### Psalms 85:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guard my soul, because I holy; save your servant, my God, hoping on you.
 - brenton: [missing]
 
 ### Psalms 85:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have mercy on me, Lord, because to you I will cry whole day.
 - brenton: [missing]
 
 ### Psalms 85:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gladden soul of your servant, because to you, Lord, I lifted my soul.
 - brenton: [missing]
 
 ### Psalms 85:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you, Lord, kind and gentle and rich in mercy to all calling on you.
 - brenton: [missing]
 
 ### Psalms 85:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear, Lord, to my prayer and attend to voice of my supplication.
 - brenton: [missing]
 
 ### Psalms 85:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In day of my affliction I cried to you, because you heard me.
 - brenton: [missing]
 
 ### Psalms 85:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is none like you among gods, Lord, and none according to your works.
 - brenton: [missing]
 
 ### Psalms 85:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All nations, as many as you made, will come and worship before you, Lord, and will glorify your name.
 - brenton: [missing]
 
 ### Psalms 85:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you great and doing wonders; you alone the great God.
 - brenton: [missing]
 
 ### Psalms 85:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guide me, Lord, in your way, and I will walk in your truth; let my heart rejoice to fear your name.
 - brenton: [missing]
 
 ### Psalms 85:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to you, Lord my God, with whole heart, and I will glorify your name forever.
 - brenton: [missing]
 
 ### Psalms 85:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because your mercy great upon me, and you rescued my soul from lowest Hades.
 - brenton: [missing]
 
 ### Psalms 85:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, lawless men rose against me, and gathering of strong men sought my soul, and they did not set you before them.
 - brenton: [missing]
 
 ### Psalms 85:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord God, compassionate and merciful, long-suffering and rich in mercy and true.
 - brenton: [missing]
 
 ### Psalms 85:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look upon me and have mercy on me; give your strength to your child and save son of your handmaid.
 - brenton: [missing]
 
 ### Psalms 85:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do with me sign for good, and let those hating me see and be shamed, because you, Lord, helped me and comforted me.
 - brenton: [missing]
 
 ### Psalms 86:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sons of Korah. Psalm of song. His foundations in holy mountains.
 - brenton: [missing]
 
 ### Psalms 86:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord loves gates of Zion above all tabernacles of Jacob.
 - brenton: [missing]
 
 ### Psalms 86:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Glorious things were spoken concerning you, city of God. Interlude.
 - brenton: [missing]
 
 ### Psalms 86:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will remember Rahab and Babylon to those knowing me; behold, foreigners and Tyre and people of Ethiopians, these were born there.
 - brenton: [missing]
 
 ### Psalms 86:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mother Zion, man will say, and man was born in her, and Most High himself founded her.
 - brenton: [missing]
 
 ### Psalms 86:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will recount in writing of peoples and rulers, these who were born in her. Interlude.
 - brenton: [missing]
 
 ### Psalms 86:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As of all rejoicing ones, dwelling in you.
 - brenton: [missing]
 
 ### Psalms 87:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of psalm for sons of Korah, for end, concerning Maeleth, for answering, for understanding, of Heman the Israelite.
 - brenton: [missing]
 
 ### Psalms 87:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of my salvation, by day I cried and by night before you.
 - brenton: [missing]
 
 ### Psalms 87:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my prayer enter before you; incline your ear to my supplication, Lord.
 - brenton: [missing]
 
 ### Psalms 87:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because my soul was filled with evils, and my life drew near to Hades.
 - brenton: [missing]
 
 ### Psalms 87:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was counted with those going down into pit; I became like helpless man among dead, free,
 - brenton: [missing]
 
 ### Psalms 87:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: like wounded ones cast down, sleeping in tomb, whom you no longer remembered and they were thrust away from your hand.
 - brenton: [missing]
 
 ### Psalms 87:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They set me in lowest pit, in dark places and in shadow of death.
 - brenton: [missing]
 
 ### Psalms 87:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your wrath was fixed upon me, and all your surges you brought upon me. Interlude.
 - brenton: [missing]
 
 ### Psalms 87:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You removed my acquaintances from me; they made me abomination to themselves. I was handed over and did not go out.
 - brenton: [missing]
 
 ### Psalms 87:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eyes grew weak from poverty; I cried to you, Lord, whole day; I spread out my hands to you.
 - brenton: [missing]
 
 ### Psalms 87:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you do wonders for dead, or will physicians raise them and confess to you?
 - brenton: [missing]
 
 ### Psalms 87:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will anyone recount your mercy in tomb, and your truth in destruction?
 - brenton: [missing]
 
 ### Psalms 87:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will your wonders be known in darkness and your righteousness in forgotten land?
 - brenton: [missing]
 
 ### Psalms 87:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I cried to you, Lord, and in morning my prayer will go before you.
 - brenton: [missing]
 
 ### Psalms 87:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why, Lord, do you reject my soul? You turn your face away from me.
 - brenton: [missing]
 
 ### Psalms 87:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I poor and in labors from my youth; having been exalted, I was humbled and came to despair.
 - brenton: [missing]
 
 ### Psalms 87:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your angers passed over me, and your terrors troubled me.
 - brenton: [missing]
 
 ### Psalms 87:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They encircled me like water whole day; together they surrounded me.
 - brenton: [missing]
 
 ### Psalms 87:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You removed friend and neighbor from me and my acquaintances from misery.
 - brenton: [missing]
 
 ### Psalms 88:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For understanding. Of Ethan the Israelite.
 - brenton: [missing]
 
 ### Psalms 88:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your mercies, Lord, forever I will sing; from generation to generation I will declare your truth with my mouth.
 - brenton: [missing]
 
 ### Psalms 88:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you said, Mercy will be built forever; in heavens your truth will be prepared.
 - brenton: [missing]
 
 ### Psalms 88:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I arranged covenant with my chosen ones; I swore to David my servant,
 - brenton: [missing]
 
 ### Psalms 88:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until age I will prepare your seed and build your throne to generation and generation. Interlude.
 - brenton: [missing]
 
 ### Psalms 88:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heavens will confess your wonders, Lord, and your truth in assembly of holy ones.
 - brenton: [missing]
 
 ### Psalms 88:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because who in clouds will be made equal to Lord, and who will be likened to Lord among sons of God?
 - brenton: [missing]
 
 ### Psalms 88:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God glorified in council of holy ones, great and fearful above all around him.
 - brenton: [missing]
 
 ### Psalms 88:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of hosts, who like you? Mighty are you, Lord, and your truth around you.
 - brenton: [missing]
 
 ### Psalms 88:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You rule power of sea, and disturbance of its waves you calm.
 - brenton: [missing]
 
 ### Psalms 88:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You humbled proud one like wounded man, and with arm of your power you scattered your enemies.
 - brenton: [missing]
 
 ### Psalms 88:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yours the heavens and yours the earth; inhabited world and its fullness, you founded them.
 - brenton: [missing]
 
 ### Psalms 88:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: North and seas you created; Tabor and Hermon will exult in your name.
 - brenton: [missing]
 
 ### Psalms 88:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yours the arm with dominion; let your hand be strengthened; let your right hand be exalted.
 - brenton: [missing]
 
 ### Psalms 88:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Righteousness and judgment preparation of your throne; mercy and truth will go before your face.
 - brenton: [missing]
 
 ### Psalms 88:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed people knowing shout; Lord, in light of your face they will walk.
 - brenton: [missing]
 
 ### Psalms 88:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in your name they will exult whole day, and in your righteousness they will be exalted.
 - brenton: [missing]
 
 ### Psalms 88:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you boast of their power, and in your good pleasure our horn will be exalted.
 - brenton: [missing]
 
 ### Psalms 88:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because support belongs to Lord, and to Holy One of Israel, our king.
 - brenton: [missing]
 
 ### Psalms 88:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you spoke in vision to your holy ones and said, I set help upon mighty one; I exalted chosen one from my people.
 - brenton: [missing]
 
 ### Psalms 88:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I found David my servant; with my holy oil I anointed him.
 - brenton: [missing]
 
 ### Psalms 88:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my hand will support him, and my arm will strengthen him.
 - brenton: [missing]
 
 ### Psalms 88:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enemy will not profit in him, and son of lawlessness will not add to harm him.
 - brenton: [missing]
 
 ### Psalms 88:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cut down his enemies from before him, and those hating him I will rout.
 - brenton: [missing]
 
 ### Psalms 88:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my truth and my mercy with him, and in my name his horn will be exalted.
 - brenton: [missing]
 
 ### Psalms 88:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set his hand in sea and his right hand in rivers.
 - brenton: [missing]
 
 ### Psalms 88:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will call upon me, You are my father, my God and supporter of my salvation.
 - brenton: [missing]
 
 ### Psalms 88:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set him firstborn, high above kings of earth.
 - brenton: [missing]
 
 ### Psalms 88:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Forever I will keep my mercy for him, and my covenant faithful to him.
 - brenton: [missing]
 
 ### Psalms 88:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set his seed forever and ever and his throne as days of heaven.
 - brenton: [missing]
 
 ### Psalms 88:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If his sons forsake my law and do not walk in my judgments,
 - brenton: [missing]
 
 ### Psalms 88:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if they profane my ordinances and do not keep my commandments,
 - brenton: [missing]
 
 ### Psalms 88:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will visit their lawlessnesses with rod and their sins with whips.
 - brenton: [missing]
 
 ### Psalms 88:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But my mercy I will certainly not scatter from him, nor will I act unjustly in my truth.
 - brenton: [missing]
 
 ### Psalms 88:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor will I profane my covenant, and what goes out through my lips I will certainly not set aside.
 - brenton: [missing]
 
 ### Psalms 88:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Once I swore in my holy place: will I lie to David?
 - brenton: [missing]
 
 ### Psalms 88:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His seed remains forever, and his throne as sun before me,
 - brenton: [missing]
 
 ### Psalms 88:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and as moon established forever, and witness in heaven faithful. Interlude.
 - brenton: [missing]
 
 ### Psalms 88:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you rejected and despised; you deferred your anointed.
 - brenton: [missing]
 
 ### Psalms 88:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You overturned covenant of your servant; you profaned his sanctuary to earth.
 - brenton: [missing]
 
 ### Psalms 88:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You pulled down all his fences; you made his strongholds fear.
 - brenton: [missing]
 
 ### Psalms 88:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All passing by road plundered him; he became reproach to his neighbors.
 - brenton: [missing]
 
 ### Psalms 88:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You exalted right hand of his enemies; you gladdened all his enemies.
 - brenton: [missing]
 
 ### Psalms 88:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You turned back help of his sword and did not support him in war.
 - brenton: [missing]
 
 ### Psalms 88:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You dissolved him from cleansing; his throne you shattered to earth.
 - brenton: [missing]
 
 ### Psalms 88:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shortened days of his time; you poured out shame upon him. Interlude.
 - brenton: [missing]
 
 ### Psalms 88:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long, Lord? Will you turn away to end? Will your anger burn like fire?
 - brenton: [missing]
 
 ### Psalms 88:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember what my substance is; for not in vain did you create all sons of men.
 - brenton: [missing]
 
 ### Psalms 88:49
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is man who will live and not see death? Will he rescue his soul from hand of Hades? Interlude.
 - brenton: [missing]
 
 ### Psalms 88:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where are your former mercies, Lord, which you swore to David in your truth?
 - brenton: [missing]
 
 ### Psalms 88:51
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember, Lord, reproach of your servants, which I bore in my bosom from many nations,
 - brenton: [missing]
 
 ### Psalms 88:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: with which your enemies reproached, Lord, with which they reproached exchange of your anointed.
 - brenton: [missing]
 
 ### Psalms 88:53
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord forever. Amen, amen.
 - brenton: [missing]
 
 ### Psalms 89:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer of Moses, man of God. Lord, you became refuge to us in generation and generation.
 - brenton: [missing]
 
 ### Psalms 89:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before mountains were born and earth and inhabited world were formed, from age until age you are.
 - brenton: [missing]
 
 ### Psalms 89:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not turn man away into humiliation; and you said, Return, sons of men.
 - brenton: [missing]
 
 ### Psalms 89:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thousand years in your eyes like yesterday day that passed and like watch in night.
 - brenton: [missing]
 
 ### Psalms 89:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their despised things will be years; in morning like grass let it pass away.
 - brenton: [missing]
 
 ### Psalms 89:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In morning let it flower and pass away; in evening let it fall, grow hard, and dry up.
 - brenton: [missing]
 
 ### Psalms 89:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because we failed in your anger and in your fury we were troubled.
 - brenton: [missing]
 
 ### Psalms 89:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You set our lawlessnesses before you, our age in light of your face.
 - brenton: [missing]
 
 ### Psalms 89:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all our days failed, and in your anger we failed; our years I kept meditating like spider.
 - brenton: [missing]
 
 ### Psalms 89:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Days of our years, in them seventy years; and if in dominions, eighty years; and more of them labor and pain, because meekness came upon us and we will be disciplined.
 - brenton: [missing]
 
 ### Psalms 89:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who knows strength of your anger and from your fear your fury?
 - brenton: [missing]
 
 ### Psalms 89:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To number your right hand, thus make known, and those bound in heart in wisdom.
 - brenton: [missing]
 
 ### Psalms 89:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn back, Lord, how long, and be comforted over your servants.
 - brenton: [missing]
 
 ### Psalms 89:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We were filled in morning with your mercy, and we exulted and rejoiced in all our days.
 - brenton: [missing]
 
 ### Psalms 89:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We rejoiced for days in which you humbled us, years in which we saw evils.
 - brenton: [missing]
 
 ### Psalms 89:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And look upon your servants and your works and guide their sons.
 - brenton: [missing]
 
 ### Psalms 89:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let brightness of Lord our God be upon us, and works of our hands direct upon us.
 - brenton: [missing]
 
 ### Psalms 90:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise, song of David. One dwelling in help of Most High will lodge in shelter of God of heaven.
 - brenton: [missing]
 
 ### Psalms 90:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will say to Lord, You are my supporter and my refuge, my God; I will hope on him.
 - brenton: [missing]
 
 ### Psalms 90:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he will rescue me from snare of hunters and from troubled word.
 - brenton: [missing]
 
 ### Psalms 90:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With his shoulders he will overshadow you, and under his wings you will hope; his truth will encircle you with shield.
 - brenton: [missing]
 
 ### Psalms 90:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will not fear from night fear, from arrow flying by day,
 - brenton: [missing]
 
 ### Psalms 90:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from thing passing in darkness, from mishap and midday demon.
 - brenton: [missing]
 
 ### Psalms 90:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: A thousand will fall from your side and ten thousand from your right, but it will not come near you.
 - brenton: [missing]
 
 ### Psalms 90:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Only with your eyes you will observe and see repayment of sinners.
 - brenton: [missing]
 
 ### Psalms 90:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you, Lord, my hope; you made Most High your refuge.
 - brenton: [missing]
 
 ### Psalms 90:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evils will not come near you, and scourge will not draw near your tent.
 - brenton: [missing]
 
 ### Psalms 90:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he will command his angels concerning you, to guard you in all your ways.
 - brenton: [missing]
