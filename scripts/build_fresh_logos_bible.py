@@ -29,8 +29,6 @@ try:
         extract_tsk_crossrefs,
         load_kjv_versification,
         parse_brenton_usfm,
-        parse_greek_vocab_footnotes,
-        parse_hebrew_vocab_footnotes,
         parse_openbible_crossrefs,
         parse_tsk_module,
     )
@@ -46,8 +44,6 @@ except ImportError:  # pragma: no cover - supports module execution from repo ro
         extract_tsk_crossrefs,
         load_kjv_versification,
         parse_brenton_usfm,
-        parse_greek_vocab_footnotes,
-        parse_hebrew_vocab_footnotes,
         parse_openbible_crossrefs,
         parse_tsk_module,
     )
@@ -1105,23 +1101,6 @@ def load_brenton_supplemental_notes(
                 counts=counts,
             )
 
-    for source, note_map in (
-        ("hebrew_vocab", parse_hebrew_vocab_footnotes()),
-        ("greek_vocab", parse_greek_vocab_footnotes()),
-    ):
-        counts[f"{source}_source_refs"] = len(note_map)
-        for ref, note_items in note_map.items():
-            for note_item in note_items:
-                add_supplemental_note(
-                    grouped,
-                    ref=ref,
-                    text_value=note_item,
-                    source=source,
-                    verse_refs=verse_refs,
-                    seen=seen,
-                    counts=counts,
-                )
-
     _tsk_crossrefs, tsk_notes, tsk_diag = parse_tsk_module()
     counts["tsk_note_source_refs"] = len(tsk_notes)
     for tsk_key, note_items in tsk_notes.items():
@@ -1344,7 +1323,8 @@ def add_title_page(
         "Includes reviewed translation/textual notes, with MT/LXX difference notes labeled explicitly.",
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
-        "Includes supplemental Brenton-package notes: Brenton footnotes, TSK study notes, and Hebrew/Greek vocabulary notes.",
+        "Includes supplemental Brenton-package notes: Brenton footnotes and TSK study notes.",
+        "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately.",
         f"Regular footnote numbering restarts by {footnote_number_restart}. Cross-reference markers are custom letters and restart by chapter.",
     ]
     if logos:
@@ -1605,7 +1585,7 @@ Scope:
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
-- Supplemental Brenton-package notes: Brenton USFM footnotes, TSK study-note text, and Hebrew/Greek vocabulary notes. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
+- Supplemental Brenton-package notes: Brenton USFM footnotes and TSK study-note text. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart regular visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use custom alphabetic markers (`a`, `b`, `c`, ...), reset at each chapter, so regular translation/name/study notes keep numeric markers.

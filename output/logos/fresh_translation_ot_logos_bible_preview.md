@@ -6,17 +6,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 **Genesis 1:1** At the beginning, God made heaven and earth.
 - Translation/textual notes: 1
-- Supplemental study/textual links: 7
+- Supplemental study/textual links: 0
 - Cross-references: 77
 
 **Genesis 1:2** Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - Translation/textual notes: 1
-- Supplemental study/textual links: 8
+- Supplemental study/textual links: 0
 - Cross-references: 8
 
 **Genesis 1:3** And God said, 'Let light come to be.' And light came to be.
 - Translation/textual notes: 0
-- Supplemental study/textual links: 3
+- Supplemental study/textual links: 0
 - Cross-references: 21
 
 ## Exodus
@@ -152,7 +152,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 **1 Samuel 1:3** And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God Sabaōth at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
 - Translation/textual notes: 1
-- Supplemental study/textual links: 3
+- Supplemental study/textual links: 2
 - Cross-references: 19
 
 ## 2 Samuel
@@ -351,7 +351,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 **Ecclesiastes 1:2** Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
 - Translation/textual notes: 0
-- Supplemental study/textual links: 1
+- Supplemental study/textual links: 0
 - Cross-references: 20
 
 **Ecclesiastes 1:3** What surplus for man in all his toil with which he toils under sun?
