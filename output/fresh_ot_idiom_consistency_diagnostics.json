@@ -1,0 +1,52 @@
+{
+  "families": 5,
+  "family_stats": [
+    {
+      "family": "name-there-formula",
+      "description": "Name formula with location marker such as 'to have his name called there'.",
+      "row_count": "16",
+      "dominant_bucket": "called-there",
+      "dominant_count": "15",
+      "bucket_summary": "called-there=15, other=1"
+    },
+    {
+      "family": "name-upon-formula",
+      "description": "Name formula with 'upon' language for house/people/object.",
+      "row_count": "9",
+      "dominant_bucket": "called-upon",
+      "dominant_count": "4",
+      "bucket_summary": "other=5, called-upon=4"
+    },
+    {
+      "family": "call-on-name-formula",
+      "description": "Active invocation formula, calling on the divine name.",
+      "row_count": "13",
+      "dominant_bucket": "call-on-name",
+      "dominant_count": "5",
+      "bucket_summary": "other=6, call-on-name=5, call-in-name=2"
+    },
+    {
+      "family": "soteria-sacrifice-formula",
+      "description": "Cultic \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9- terms in sacrificial context.",
+      "row_count": "71",
+      "dominant_bucket": "salvation",
+      "dominant_count": "70",
+      "bucket_summary": "salvation=70, well-being=1"
+    },
+    {
+      "family": "into-living-soul-formula",
+      "description": "Predicate \u03b5\u1f30\u03c2 \u03c8\u03c5\u03c7\u1f74\u03bd \u03b6\u1ff6\u03c3\u03b1\u03bd / into a living soul, especially Genesis 2:7 and its NT echo.",
+      "row_count": "1",
+      "dominant_bucket": "living-soul",
+      "dominant_count": "1",
+      "bucket_summary": "living-soul=1"
+    }
+  ],
+  "row_count": 110,
+  "outlier_count": 4,
+  "unresolved_outlier_count": 0,
+  "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
+  "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",
+  "outliers_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_outliers.md",
+  "outliers_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_outliers.csv"
+}

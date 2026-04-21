@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 .DS_Store
+.env
+.env.*
+data/private/
+data/raw/private/
+data/research/local/
+output/*.aux
+output/*.log
+output/*.out
+output/working/

@@ -1,0 +1,68 @@
+{
+  "pilot_scope": "Genesis 1-3",
+  "policy": {
+    "notes_private": true,
+    "public_repo_stores": [
+      "resource ids",
+      "resource titles",
+      "paraphrased findings",
+      "translation decisions"
+    ],
+    "public_repo_never_stores": [
+      "credentials",
+      "session tokens",
+      "private Logos notes",
+      "large copyrighted excerpts"
+    ]
+  },
+  "preferred_resources": [
+    {
+      "role": "base_text_primary",
+      "resource_id": "LLS:GSI01GE",
+      "title": "Genesis (G\u00f6ttingen Septuagint I)",
+      "purpose": "Primary Greek base text for the Genesis pilot."
+    },
+    {
+      "role": "base_text_fallback",
+      "resource_id": "LXXSESB",
+      "title": "Septuaginta",
+      "purpose": "Fallback portable Greek base when G\u00f6ttingen navigation is slower."
+    },
+    {
+      "role": "morphology_text",
+      "resource_id": "LLS:LOGOSLXX",
+      "title": "Septuagint with Logos Morphology",
+      "purpose": "Lemma and morphology support."
+    },
+    {
+      "role": "lexicon_primary",
+      "resource_id": "LLS:FBLXXLEX",
+      "title": "Lexham Research Lexicon of the Septuagint",
+      "purpose": "Primary lexical range and semantic guidance."
+    },
+    {
+      "role": "apparatus_primary",
+      "resource_id": "LLS:LXXCAPP",
+      "title": "Septuaginta: Apparatus Criticus",
+      "purpose": "Primary variant and textual evidence check."
+    },
+    {
+      "role": "interlinear_primary",
+      "resource_id": "LLS:LLXXI",
+      "title": "The Lexham Greek-English Interlinear Septuagint: Rahlfs Edition",
+      "purpose": "Gloss orientation only; not source for final English wording."
+    },
+    {
+      "role": "grammar_primary",
+      "resource_id": "LLS:GRAMSPTGRK",
+      "title": "Grammar of Septuagint Greek: Grammar",
+      "purpose": "Septuagint-specific syntax and idiom support."
+    },
+    {
+      "role": "manuscript_check",
+      "resource_id": "LLS:CODEXSINAI",
+      "title": "Codex Sinaiticus: Septuagint and New Testament",
+      "purpose": "Manual manuscript spot-checks when variants matter."
+    }
+  ]
+}

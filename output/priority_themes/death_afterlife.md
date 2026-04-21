@@ -1,0 +1,20 @@
+# Death / Afterlife
+
+Death, grave, hades, resurrection, soul-language in death contexts.
+
+Rows: 2
+Books: 2
+
+## 1 Kings 2:35
+- score: 32
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, being, hades, king, lord, peace; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- keywords: altar, being, hades, king, lord, peace, priest, seed
+- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Jerusalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharaoh and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Jerusalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharaoh was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Jerusalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
+- brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
+
+## Jonah 2:3
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, hades, lord; crossref_top_vote=12; reco=keep
+- keywords: god, hades, lord
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
+- brenton: and said,

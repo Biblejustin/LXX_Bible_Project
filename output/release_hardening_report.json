@@ -1,0 +1,389 @@
+{
+  "summary": [
+    {
+      "name": "raw OT rows",
+      "value": "22896"
+    },
+    {
+      "name": "drafted compare rows",
+      "value": "22896"
+    },
+    {
+      "name": "raw duplicate refs",
+      "value": "0"
+    },
+    {
+      "name": "drafted duplicate refs",
+      "value": "0"
+    },
+    {
+      "name": "missing draft translations",
+      "value": "0"
+    },
+    {
+      "name": "watch/remap/final-unresolved rows",
+      "value": "0"
+    },
+    {
+      "name": "active generated-output markers",
+      "value": "0"
+    },
+    {
+      "name": "blocking text artifacts",
+      "value": "0"
+    },
+    {
+      "name": "priority rows open",
+      "value": "0"
+    }
+  ],
+  "raw_counts": {
+    "path": "/Users/justinscaggs/Documents/Codex_bible/data/raw/lxx_greek/ot_full.csv",
+    "rows": 22896,
+    "duplicate_refs": 0,
+    "duplicate_ref_examples": [],
+    "missing_draft_translations": 0,
+    "missing_draft_examples": []
+  },
+  "drafted_counts": {
+    "path": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_vs_brenton_ot_drafted.csv",
+    "rows": 22896,
+    "duplicate_refs": 0,
+    "duplicate_ref_examples": [],
+    "missing_draft_translations": 0,
+    "missing_draft_examples": []
+  },
+  "book_coverage": [
+    {
+      "book_name": "Genesis",
+      "drafted": "1531",
+      "total": "1531",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Exodus",
+      "drafted": "1163",
+      "total": "1163",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Leviticus",
+      "drafted": "859",
+      "total": "859",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Numbers",
+      "drafted": "1287",
+      "total": "1287",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Deuteronomy",
+      "drafted": "959",
+      "total": "959",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Joshua",
+      "drafted": "643",
+      "total": "643",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Judges",
+      "drafted": "618",
+      "total": "618",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Ruth",
+      "drafted": "85",
+      "total": "85",
+      "complete": "yes"
+    },
+    {
+      "book_name": "1 Samuel",
+      "drafted": "772",
+      "total": "772",
+      "complete": "yes"
+    },
+    {
+      "book_name": "2 Samuel",
+      "drafted": "695",
+      "total": "695",
+      "complete": "yes"
+    },
+    {
+      "book_name": "1 Kings",
+      "drafted": "756",
+      "total": "756",
+      "complete": "yes"
+    },
+    {
+      "book_name": "2 Kings",
+      "drafted": "719",
+      "total": "719",
+      "complete": "yes"
+    },
+    {
+      "book_name": "1 Chronicles",
+      "drafted": "930",
+      "total": "930",
+      "complete": "yes"
+    },
+    {
+      "book_name": "2 Chronicles",
+      "drafted": "821",
+      "total": "821",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Ezra",
+      "drafted": "280",
+      "total": "280",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Nehemiah",
+      "drafted": "392",
+      "total": "392",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Esther",
+      "drafted": "164",
+      "total": "164",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Job",
+      "drafted": "1069",
+      "total": "1069",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Psalms",
+      "drafted": "2526",
+      "total": "2526",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Proverbs",
+      "drafted": "891",
+      "total": "891",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Ecclesiastes",
+      "drafted": "222",
+      "total": "222",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Song of Solomon",
+      "drafted": "117",
+      "total": "117",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Isaiah",
+      "drafted": "1289",
+      "total": "1289",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Jeremiah",
+      "drafted": "1299",
+      "total": "1299",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Lamentations",
+      "drafted": "151",
+      "total": "151",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Ezekiel",
+      "drafted": "1267",
+      "total": "1267",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Daniel",
+      "drafted": "341",
+      "total": "341",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Hosea",
+      "drafted": "197",
+      "total": "197",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Joel",
+      "drafted": "73",
+      "total": "73",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Amos",
+      "drafted": "146",
+      "total": "146",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Obadiah",
+      "drafted": "21",
+      "total": "21",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Jonah",
+      "drafted": "48",
+      "total": "48",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Micah",
+      "drafted": "105",
+      "total": "105",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Nahum",
+      "drafted": "47",
+      "total": "47",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Habakkuk",
+      "drafted": "56",
+      "total": "56",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Zephaniah",
+      "drafted": "53",
+      "total": "53",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Haggai",
+      "drafted": "38",
+      "total": "38",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Zechariah",
+      "drafted": "211",
+      "total": "211",
+      "complete": "yes"
+    },
+    {
+      "book_name": "Malachi",
+      "drafted": "55",
+      "total": "55",
+      "complete": "yes"
+    }
+  ],
+  "watch_queues": [
+    {
+      "path": "output/fresh_ot_crossref_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_ot_english_witness_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_human_review_mt_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_human_review_nt_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_ot_logos_local_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_ot_proper_name_watch.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_remap_queue.csv",
+      "rows": "0",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_final_unresolved.csv",
+      "rows": "0",
+      "exists": "yes"
+    }
+  ],
+  "active_marker_hits": [],
+  "blocking_text_artifacts": [],
+  "repeated_word_candidates": [],
+  "review_status_total": 516,
+  "review_status_counts": {
+    "keep": 309,
+    "revised": 207
+  },
+  "priority_open_count": 0,
+  "priority_open_examples": [],
+  "sample_rows": 117,
+  "sample_artifact_hits": 0,
+  "required_outputs": [
+    {
+      "path": "output/fresh_translation_ot_full.md",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_translation_ot_full_translation_only.md",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_translation_ot_full_diagnostics.json",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_drafted.csv",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_drafted.md",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_drafted_diagnostics.json",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_priority_review.csv",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_vs_brenton_ot_priority_review.md",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_human_review_core.csv",
+      "exists": "yes"
+    },
+    {
+      "path": "output/fresh_human_review_phase1.csv",
+      "exists": "yes"
+    }
+  ],
+  "verdict": "PASS: release-hardening checks found no blocking issues."
+}

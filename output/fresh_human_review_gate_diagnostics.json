@@ -1,0 +1,11 @@
+{
+  "priority_rows": 234,
+  "core_rows": 234,
+  "phase1_rows": 234,
+  "mt_watch_rows": 0,
+  "nt_watch_rows": 0,
+  "core_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_human_review_core.csv",
+  "phase1_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_human_review_phase1.csv",
+  "mt_watch_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_human_review_mt_watch.csv",
+  "nt_watch_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_human_review_nt_watch.csv"
+}
