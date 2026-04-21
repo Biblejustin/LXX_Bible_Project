@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 13952
-- medium: 1983
-- low: 6982
+- high: 14132
+- medium: 1946
+- low: 6839
 - none: 0
 
 Note:
@@ -124494,1584 +124494,1584 @@ Note:
 
 ### Psalms 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You lessened him a little from angels; with glory and honor you crowned him.
 - brenton: [missing]
 
 ### Psalms 8:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you set him over works of your hands; all things you subjected under his feet:
 - brenton: [missing]
 
 ### Psalms 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sheep and oxen, all of them, and also beasts of field,
 - brenton: [missing]
 
 ### Psalms 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: birds of heaven and fish of sea, things passing through paths of seas.
 - brenton: [missing]
 
 ### Psalms 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, our Lord, how wondrous your name in all earth.
 - brenton: [missing]
 
 ### Psalms 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Concerning hidden things of son. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to you, Lord, with whole heart; I will recount all your wondrous deeds.
 - brenton: [missing]
 
 ### Psalms 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will be glad and rejoice in you; I will sing praise to your name, Most High,
 - brenton: [missing]
 
 ### Psalms 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when my enemy turns back. They will grow weak and perish from your face,
 - brenton: [missing]
 
 ### Psalms 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because you made my judgment and my case. You sat upon throne, one judging righteousness.
 - brenton: [missing]
 
 ### Psalms 9:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You rebuked nations, and ungodly man perished. Their name you wiped out into age and into age of age.
 - brenton: [missing]
 
 ### Psalms 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Swords of enemy failed to end, and you pulled down cities. Their memorial perished with noise.
 - brenton: [missing]
 
 ### Psalms 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Lord remains into age; he prepared his throne in judgment.
 - brenton: [missing]
 
 ### Psalms 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he himself will judge inhabited world in righteousness; he will judge peoples in uprightness.
 - brenton: [missing]
 
 ### Psalms 9:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord became refuge for poor man, helper in opportunities, in affliction.
 - brenton: [missing]
 
 ### Psalms 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let those knowing your name hope upon you, because you did not forsake those seeking you, Lord.
 - brenton: [missing]
 
 ### Psalms 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing praise to Lord dwelling in Sion; announce among nations his deeds.
 - brenton: [missing]
 
 ### Psalms 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because, seeking out their bloods, he remembered; he did not forget cry of poor men.
 - brenton: [missing]
 
 ### Psalms 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have mercy on me, Lord; see my humiliation from my enemies, you lifting me up from gates of death,
 - brenton: [missing]
 
 ### Psalms 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that I may declare all your praises in gates of daughter of Sion. I will rejoice in your salvation.
 - brenton: [missing]
 
 ### Psalms 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations were trapped in corruption which they made; in this snare which they hid, their foot was caught.
 - brenton: [missing]
 
 ### Psalms 9:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord is known, making judgments; in works of his hands sinner was caught. Song of interlude.
 - brenton: [missing]
 
 ### Psalms 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let sinners turn back into Hades, all nations forgetting God.
 - brenton: [missing]
 
 ### Psalms 9:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because poor man will not be forgotten to end, and endurance of poor men will not perish into age.
 - brenton: [missing]
 
 ### Psalms 9:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord; let not man prevail. Let nations be judged before you.
 - brenton: [missing]
 
 ### Psalms 9:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Appoint lawgiver over them, Lord; let nations know that they are men. Interlude.
 - brenton: [missing]
 
 ### Psalms 9:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why, Lord, have you stood far off, overlooking in opportunities, in affliction?
 - brenton: [missing]
 
 ### Psalms 9:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When ungodly man acts proudly, poor man is set on fire; they are caught in schemes which they devise.
 - brenton: [missing]
 
 ### Psalms 9:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because sinner is praised in desires of his soul, and unjust man is blessed.
 - brenton: [missing]
 
 ### Psalms 9:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sinner provoked Lord; according to multitude of his anger he will not seek him. God is not before him.
 - brenton: [missing]
 
 ### Psalms 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His ways are profaned in every season; your judgments are taken away from before him. He will dominate all his enemies.
 - brenton: [missing]
 
 ### Psalms 9:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he said in his heart, I will not be shaken from generation to generation, without evil.
 - brenton: [missing]
 
 ### Psalms 9:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His mouth is full of curse and bitterness and deceit; under his tongue are toil and pain.
 - brenton: [missing]
 
 ### Psalms 9:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sits in ambush with rich men in hidden places to kill innocent man; his eyes look toward poor man.
 - brenton: [missing]
 
 ### Psalms 9:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He lies in ambush in hidden place like lion in its den, lying in ambush to seize poor man, to seize poor man by dragging him away.
 - brenton: [missing]
 
 ### Psalms 9:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In his snare he will humble him; he will crouch and fall when he dominates poor men.
 - brenton: [missing]
 
 ### Psalms 9:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he said in his heart, God has forgotten; he turned away his face so as never to see.
 - brenton: [missing]
 
 ### Psalms 9:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord God; let your hand be lifted high. Do not forget poor men.
 - brenton: [missing]
 
 ### Psalms 9:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what reason did ungodly man provoke God? For he said in his heart, He will not seek out.
 - brenton: [missing]
 
 ### Psalms 9:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You see, because you observe toil and wrath, to hand them over into your hands. To you poor man is left; you were helper to orphan.
 - brenton: [missing]
 
 ### Psalms 9:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Break arm of sinner and evil man; his sin will be sought and by no means found because of it.
 - brenton: [missing]
 
 ### Psalms 9:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will reign into age and into age of age; nations, you will perish from his land.
 - brenton: [missing]
 
 ### Psalms 9:38
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Desire of poor men Lord heard; to preparation of their heart your ear attended,
 - brenton: [missing]
 
 ### Psalms 9:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to judge orphan and lowly man, so that man upon earth may no longer add to acting great.
 - brenton: [missing]
 
 ### Psalms 10:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David. In Lord I trusted. How will you say to my soul, Migrate to mountains like sparrow?
 - brenton: [missing]
 
 ### Psalms 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, sinners stretched bow, prepared arrows in quiver, to shoot in darkness at upright ones in heart.
 - brenton: [missing]
 
 ### Psalms 10:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because what you fitted together they tore down; but righteous man, what did he do?
 - brenton: [missing]
 
 ### Psalms 10:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord in his holy temple; Lord, his throne in heaven. His eyes look toward poor man; his eyelids examine sons of men.
 - brenton: [missing]
 
 ### Psalms 10:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
 - brenton: [missing]
 
 ### Psalms 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will rain snares upon sinners, fire and sulfur and blast of storm, portion of their cup.
 - brenton: [missing]
 
 ### Psalms 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord is righteous and loved righteousnesses; his face saw uprightness.
 - brenton: [missing]
 
 ### Psalms 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Concerning eighth. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 11:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Save me, Lord, because holy man failed, because truths were diminished from sons of men.
 - brenton: [missing]
 
 ### Psalms 11:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each spoke vain things to his neighbor; with deceitful lips, with heart and heart they spoke.
 - brenton: [missing]
 
 ### Psalms 11:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May Lord utterly destroy all deceitful lips and tongue speaking great things,
 - brenton: [missing]
 
 ### Psalms 11:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those saying, We will magnify our tongue; our lips are with us; who is lord over us?
 - brenton: [missing]
 
 ### Psalms 11:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of misery of poor men and groaning of needy men, now I will rise up, says Lord; I will set him in salvation; I will speak boldly in him.
 - brenton: [missing]
 
 ### Psalms 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of Lord are pure words, silver refined by fire, tested in earth, purified sevenfold.
 - brenton: [missing]
 
 ### Psalms 11:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You, Lord, will guard us and preserve us from this generation and into age.
 - brenton: [missing]
 
 ### Psalms 11:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ungodly men walk around in circle; according to your height you made sons of men much observed.
 - brenton: [missing]
 
 ### Psalms 12:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 12:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until when, Lord, will you forget me to end? Until when will you turn your face from me?
 - brenton: [missing]
 
 ### Psalms 12:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until when will I place counsels in my soul, pains in my heart by day? Until when will my enemy be lifted up over me?
 - brenton: [missing]
 
 ### Psalms 12:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, hear me, Lord my God. Enlighten my eyes, lest I sleep into death,
 - brenton: [missing]
 
 ### Psalms 12:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest my enemy say, I prevailed against him. Those afflicting me will rejoice if I am shaken.
 - brenton: [missing]
 
 ### Psalms 12:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I hoped in your mercy; my heart will rejoice in your salvation. I will sing to Lord who did good to me, and sing praise to name of Lord Most High.
 - brenton: [missing]
 
 ### Psalms 13:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David. Fool said in his heart, There is no God. They were corrupted and became abominable in pursuits; there is none doing kindness, there is not even one.
 - brenton: [missing]
 
 ### Psalms 13:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord looked down from heaven upon sons of men to see if there is one understanding or seeking God.
 - brenton: [missing]
 
 ### Psalms 13:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All turned aside; together they became useless. There is none doing kindness, there is not even one. Their throat open grave; with their tongues they dealt deceitfully; venom of asps under their lips; whose mouth is full of curse and bitterness; their feet sharp to pour out blood.
 - brenton: [missing]
 
 ### Psalms 13:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will not all workers of lawlessness know, those eating my people as food of bread? They did not call upon Lord.
 - brenton: [missing]
 
 ### Psalms 13:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There they feared with fear where there was no fear, because God is in righteous generation.
 - brenton: [missing]
 
 ### Psalms 13:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shamed counsel of poor man, because Lord is his hope.
 - brenton: [missing]
 
 ### Psalms 13:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will give from Sion salvation of Israel? When Lord turns back captivity of his people, let Iakōb rejoice and Israel be glad.
 - brenton: [missing]
 
 ### Psalms 14:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David. Lord, who will sojourn in your tent, and who will camp on your holy mountain?
 - brenton: [missing]
 
 ### Psalms 14:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One walking blamelessly and working righteousness, speaking truth in his heart,
 - brenton: [missing]
 
 ### Psalms 14:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who did not deal deceitfully with his tongue, nor do evil to his neighbor, and did not take reproach against those near him.
 - brenton: [missing]
 
 ### Psalms 14:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Evildoer is despised before him, but those fearing Lord he glorifies; one swearing to his neighbor and not setting it aside,
 - brenton: [missing]
 
 ### Psalms 14:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: his silver he did not give at interest, and did not take gifts against innocent men. One doing these things will not be shaken into age.
 - brenton: [missing]
 
 ### Psalms 15:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Inscription of David. Guard me, Lord, because upon you I hoped.
 - brenton: [missing]
 
 ### Psalms 15:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said to Lord, You are my Lord, because you have no need of my good things.
 - brenton: [missing]
 
 ### Psalms 15:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To holy ones in his land he made all his wills wondrous in them.
 - brenton: [missing]
 
 ### Psalms 15:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their weaknesses were multiplied; after these things they hastened. I will by no means gather their gatherings from bloods, nor by any means remember their names with my lips.
 - brenton: [missing]
 
 ### Psalms 15:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, portion of my inheritance and of my cup, you are one restoring my inheritance to me.
 - brenton: [missing]
 
 ### Psalms 15:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Measuring lines fell to me among best things, and indeed my inheritance is best to me.
 - brenton: [missing]
 
 ### Psalms 15:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bless Lord who gave me understanding; and still, until night, my kidneys disciplined me.
 - brenton: [missing]
 
 ### Psalms 15:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I foresaw Lord before me through all things, because he is at my right hand so that I may not be shaken.
 - brenton: [missing]
 
 ### Psalms 15:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this my heart was gladdened and my tongue rejoiced; and still my flesh will camp in hope,
 - brenton: [missing]
 
 ### Psalms 15:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because you will not forsake my soul to Hades, nor will you give your holy one to see corruption.
 - brenton: [missing]
 
 ### Psalms 15:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made known to me ways of life; you will fill me with gladness with your face; delights at your right hand to end.
 - brenton: [missing]
 
 ### Psalms 16:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer of David. Hear, Lord, my righteousness; attend to my petition; give ear to my prayer, not with deceitful lips.
 - brenton: [missing]
 
 ### Psalms 16:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my judgment come out from your face; let my eyes see straight things.
 - brenton: [missing]
 
 ### Psalms 16:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You tested my heart, visited by night, refined me, and injustice was not found in me.
 - brenton: [missing]
 
 ### Psalms 16:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that my mouth might not speak works of men, because of words of your lips I kept hard ways.
 - brenton: [missing]
 
 ### Psalms 16:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Set right my steps in your tracks, so that my steps may not be shaken.
 - brenton: [missing]
 
 ### Psalms 16:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I cried out because you heard me, God. Incline your ear to me and hear my words.
 - brenton: [missing]
 
 ### Psalms 16:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make your mercies wondrous, you saving those hoping upon you from those standing against your right hand.
 - brenton: [missing]
 
 ### Psalms 16:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guard me as apple of eye; in shelter of your wings you will cover me
 - brenton: [missing]
 
 ### Psalms 16:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from face of ungodly men who distressed me. My enemies enclosed my soul.
 - brenton: [missing]
 
 ### Psalms 16:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their fat they shut up; their mouth spoke arrogance.
 - brenton: [missing]
 
 ### Psalms 16:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Casting me out, now they encircled me; their eyes they set to turn aside into earth.
 - brenton: [missing]
 
 ### Psalms 16:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They took me up like lion ready for hunt and like lion-cub dwelling in hidden places.
 - brenton: [missing]
 
 ### Psalms 16:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord; get before them and trip them up. Rescue my soul from ungodly men, your sword, from enemies of your hand,
 - brenton: [missing]
 
 ### Psalms 16:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, from few men of earth divide them in their life; and with your hidden things their belly was filled. They were satisfied with sons and left remainders to their little ones.
 - brenton: [missing]
 
 ### Psalms 16:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I in righteousness will appear before your face; I will be satisfied when your glory appears.
 - brenton: [missing]
 
 ### Psalms 17:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. To servant of Lord, David, what he spoke to Lord, words of this song, in day when Lord rescued him from hand of all his enemies and from hand of Saoul.
 - brenton: [missing]
 
 ### Psalms 17:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, I will love you, Lord, my strength.
 - brenton: [missing]
 
 ### Psalms 17:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord my firm place and my refuge and my rescuer, my God my helper, and I will hope upon him, my defender and horn of my salvation, my supporter.
 - brenton: [missing]
 
 ### Psalms 17:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praising, I will call upon Lord, and from my enemies I will be saved.
 - brenton: [missing]
 
 ### Psalms 17:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pangs of death enclosed me, and torrents of lawlessness troubled me.
 - brenton: [missing]
 
 ### Psalms 17:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pangs of Hades surrounded me; snares of death came before me.
 - brenton: [missing]
 
 ### Psalms 17:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in my affliction I called upon Lord, and to my God I cried out. He heard my voice from his holy temple, and my cry before him will enter into his ears.
 - brenton: [missing]
 
 ### Psalms 17:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And earth was shaken and became trembling; foundations of mountains were troubled and shaken, because God was angered with them.
 - brenton: [missing]
 
 ### Psalms 17:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Smoke went up in his anger, and fire from his face flamed up; coals were kindled from him.
 - brenton: [missing]
 
 ### Psalms 17:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he bent heaven and came down, and gloom under his feet.
 - brenton: [missing]
 
 ### Psalms 17:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he mounted cheroub and flew; he flew upon wings of winds.
 - brenton: [missing]
 
 ### Psalms 17:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he made darkness his hiding place; around him his tent, dark water in clouds of air.
 - brenton: [missing]
 
 ### Psalms 17:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From brightness before him clouds passed through, hail and coals of fire.
 - brenton: [missing]
 
 ### Psalms 17:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord thundered from heaven, and Most High gave his voice.
 - brenton: [missing]
 
 ### Psalms 17:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he sent out arrows and scattered them; he multiplied lightnings and threw them into confusion.
 - brenton: [missing]
 
 ### Psalms 17:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fountains of waters were seen, and foundations of inhabited world were uncovered from your rebuke, Lord, from breath of spirit of your wrath.
 - brenton: [missing]
 
 ### Psalms 17:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent from on high and took me; he received me out of many waters.
 - brenton: [missing]
 
 ### Psalms 17:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will rescue me from my strong enemies and from those hating me, because they were stronger than I.
 - brenton: [missing]
 
 ### Psalms 17:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They came before me in day of my affliction, and Lord became my support.
 - brenton: [missing]
 
 ### Psalms 17:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought me out into broad place; he will rescue me because he desired me.
 - brenton: [missing]
 
 ### Psalms 17:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will repay me according to my righteousness, and according to purity of my hands he will repay me,
 - brenton: [missing]
 
 ### Psalms 17:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because I kept ways of Lord and did not act ungodly from my God.
 - brenton: [missing]
 
 ### Psalms 17:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all his judgments were before me, and his ordinances I did not turn away from me.
 - brenton: [missing]
 
 ### Psalms 17:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will be blameless with him, and guard myself from my lawlessness.
 - brenton: [missing]
 
 ### Psalms 17:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will repay me according to my righteousness and according to purity of my hands before his eyes.
 - brenton: [missing]
 
 ### Psalms 17:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With holy one you will be holy, and with innocent man you will be innocent.
 - brenton: [missing]
 
 ### Psalms 17:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And with chosen one you will be chosen, and with crooked one you will twist.
 - brenton: [missing]
 
 ### Psalms 17:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you will save humble people and humble eyes of proud men.
 - brenton: [missing]
 
 ### Psalms 17:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you will light my lamp, Lord; my God, you will light my darkness.
 - brenton: [missing]
 
 ### Psalms 17:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in you I will be rescued from trap, and in my God I will leap over wall.
 - brenton: [missing]
 
 ### Psalms 17:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My God, his way blameless; words of Lord refined by fire. He is defender of all hoping upon him.
 - brenton: [missing]
 
 ### Psalms 17:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because who is God besides Lord, and who is God besides our God?
 - brenton: [missing]
 
 ### Psalms 17:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God who girds me with strength and set my way blameless,
 - brenton: [missing]
 
 ### Psalms 17:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: fitting my feet like deer and setting me upon heights,
 - brenton: [missing]
 
 ### Psalms 17:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: teaching my hands for war, and you made my arms bronze bow.
 - brenton: [missing]
 
 ### Psalms 17:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you gave me defense of my salvation, and your right hand held me up, and your discipline set me straight to end, and this discipline of yours will teach me.
 - brenton: [missing]
 
 ### Psalms 17:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You widened my steps under me, and my tracks did not weaken.
 - brenton: [missing]
 
 ### Psalms 17:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will pursue my enemies and overtake them, and I will not turn back until they fail.
 - brenton: [missing]
 
 ### Psalms 17:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will crush them and they will not be able to stand; they will fall under my feet.
 - brenton: [missing]
 
 ### Psalms 17:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you girded me with strength for war; you shackled under me all rising against me.
 - brenton: [missing]
 
 ### Psalms 17:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my enemies you gave to me back, and those hating me you destroyed.
 - brenton: [missing]
 
 ### Psalms 17:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They cried out, and there was none saving, to Lord, and he did not hear them.
 - brenton: [missing]
 
 ### Psalms 17:43
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will pulverize them like dust before wind; like mud of streets I will smooth them down.
 - brenton: [missing]
 
 ### Psalms 17:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me from contradictions of people; you will set me as head of nations. People whom I did not know served me.
 - brenton: [missing]
 
 ### Psalms 17:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At hearing of ear they obeyed me; foreign sons lied to me.
 - brenton: [missing]
 
 ### Psalms 17:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foreign sons grew old and limped from their paths.
 - brenton: [missing]
 
 ### Psalms 17:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord lives, and blessed my God, and let God of my salvation be exalted,
 - brenton: [missing]
 
 ### Psalms 17:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God giving vengeance to me and subjecting peoples under me,
 - brenton: [missing]
 
 ### Psalms 17:49
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: my rescuer from angry enemies. From those rising against me you will lift me up; from unjust man you will rescue me.
 - brenton: [missing]
 
 ### Psalms 17:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I will confess to you among nations, Lord, and to your name I will sing praise,
 - brenton: [missing]
 
 ### Psalms 17:51
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: magnifying salvations of his king and doing mercy to his Anointed, to David and to his seed into age.
 - brenton: [missing]
 
 ### Psalms 18:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 18:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heavens recount glory of God, and firmament announces making of his hands.
 - brenton: [missing]
 
 ### Psalms 18:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Day to day gushes word, and night to night announces knowledge.
 - brenton: [missing]
 
 ### Psalms 18:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There are no speeches nor words where their voices are not heard.
 - brenton: [missing]
 
 ### Psalms 18:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Into all earth their sound went out, and to ends of inhabited world their words. In sun he set his tent.
 - brenton: [missing]
 
 ### Psalms 18:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he as bridegroom coming out of bridal chamber will rejoice like giant to run his course.
 - brenton: [missing]
 
 ### Psalms 18:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From edge of heaven is his going out, and his return to edge of heaven, and there is none who will hide from his heat.
 - brenton: [missing]
 
 ### Psalms 18:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Law of Lord blameless, turning souls back; testimony of Lord faithful, making little ones wise.
 - brenton: [missing]
 
 ### Psalms 18:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ordinances of Lord straight, gladdening heart; command of Lord radiant, enlightening eyes.
 - brenton: [missing]
 
 ### Psalms 18:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear of Lord pure, remaining into age of age; judgments of Lord true, justified together.
 - brenton: [missing]
 
 ### Psalms 18:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: More to be desired than gold and much precious stone, and sweeter than honey and honeycomb.
 - brenton: [missing]
 
 ### Psalms 18:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed your servant guards them; in guarding them, much repayment.
 - brenton: [missing]
 
 ### Psalms 18:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will understand trespasses? From my hidden ones cleanse me,
 - brenton: [missing]
 
 ### Psalms 18:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from strangers spare your servant. If they do not dominate me, then I will be blameless, and I will be cleansed from great sin.
 - brenton: [missing]
 
 ### Psalms 18:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And words of my mouth and meditation of my heart will be for favor before you through all things, Lord, my helper and my redeemer.
 - brenton: [missing]
 
 ### Psalms 19:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 19:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May Lord hear you in day of affliction; may name of God of Iakōb defend you.
 - brenton: [missing]
 
 ### Psalms 19:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May he send you help from holy place, and from Sion may he support you.
 - brenton: [missing]
 
 ### Psalms 19:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May he remember all your sacrifice and let your whole burnt offering be fat. Interlude.
 - brenton: [missing]
 
 ### Psalms 19:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May he give you according to your heart and fulfill all your counsel.
 - brenton: [missing]
 
 ### Psalms 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We will rejoice in your salvation, and in name of our God we will be magnified. May Lord fulfill all your requests.
 - brenton: [missing]
@@ -126087,36 +126087,36 @@ Note:
 
 ### Psalms 19:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These in chariots and these in horses, but we in name of Lord our God will be magnified.
 - brenton: [missing]
 
 ### Psalms 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were shackled and fell, but we rose and were set upright.
 - brenton: [missing]
 
 ### Psalms 19:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, save your king, and hear us in whatever day we call upon you.
 - brenton: [missing]
 
 ### Psalms 20:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
