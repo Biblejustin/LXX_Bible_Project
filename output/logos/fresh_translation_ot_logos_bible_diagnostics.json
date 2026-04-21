@@ -145,6 +145,14 @@
       "verses_with_refs": 29318
     }
   },
+  "place_links": {
+    "enabled": true,
+    "source_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
+    "candidate_labels": 951,
+    "skipped_ambiguous_labels": 72,
+    "datatype": "BibleKnowledgebase",
+    "note": "Links are conservative Personal Book datatype links, not internal Logos Factbook tag overlays."
+  },
   "versification_map": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/versification/lxx_to_eng_map.json",
@@ -176,6 +184,7 @@
     "verse_anchored_crossref_notes": 35752,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
+    "place_link_count": 1447,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0
@@ -203,6 +212,7 @@
     "verse_anchored_crossref_notes": 35752,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
+    "place_link_count": 1447,
     "mapped_milestone_refs": 4510,
     "fallback_milestone_refs": 78,
     "duplicate_milestone_refs": 129
@@ -230,6 +240,7 @@
     "verse_anchored_crossref_notes": 35752,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
+    "place_link_count": 0,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0

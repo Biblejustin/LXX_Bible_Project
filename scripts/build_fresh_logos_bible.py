@@ -8,6 +8,7 @@ import csv
 import html
 import json
 import re
+import sqlite3
 import zipfile
 from collections import Counter, defaultdict
 from dataclasses import dataclass
@@ -67,6 +68,7 @@ DEFAULT_README = OUTPUT / "README.md"
 DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
 DEFAULT_LEXHAM_TEXTUAL_NOTES_HTML = Path.home() / "Desktop" / "The Lexham Textual Notes on the Bible.html"
+DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 LEXHAM_TEXTUAL_NOTES_RESOURCE_ID = "lexcontxtntbbl"
 
 DOCX_W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
@@ -97,6 +99,20 @@ MT_LXX_DIFFERENCE_RE = re.compile(
 )
 
 MAX_PHRASE_ANCHOR_CHARS = 120
+PLACE_ICON_KINDS = {"City", "OtherPlace", "NaturalPlace", "ManMadePlace"}
+GENERIC_PLACE_LABEL_STOPLIST = {
+    "East",
+    "West",
+    "North",
+    "South",
+    "Earth",
+    "Land",
+    "Sea",
+    "River",
+    "Mountain",
+    "Valley",
+    "Wilderness",
+}
 TSK_PARAGRAPH_RE = re.compile(
     r'<lb type="x-begin-paragraph"/>(.*?)<lb type="x-end-paragraph"/>',
     flags=re.S,
@@ -210,6 +226,24 @@ class FootnoteEntry:
     text: str
 
 
+@dataclass(frozen=True)
+class PlaceLink:
+    label: str
+    reference: str
+    icon_kind: str
+
+    @property
+    def pb_reference(self) -> str:
+        return self.reference.removeprefix("bk.")
+
+
+@dataclass(frozen=True)
+class PlaceLinkSpan:
+    start: int
+    end: int
+    link: PlaceLink
+
+
 @dataclass
 class BuildStats:
     output_kind: str
@@ -234,6 +268,7 @@ class BuildStats:
     verse_anchored_crossref_notes: int = 0
     custom_marked_crossref_notes: int = 0
     max_crossref_marker_index_in_chapter: int = 0
+    place_link_count: int = 0
     mapped_milestone_refs: int = 0
     fallback_milestone_refs: int = 0
     duplicate_milestone_refs: int = 0
@@ -320,6 +355,141 @@ def normalize_note_ref(ref: str) -> str:
     if ref.startswith("Psalm "):
         return "Psalms " + ref.removeprefix("Psalm ")
     return ref
+
+
+def load_proper_name_labels(path: Path) -> set[str]:
+    if not path.exists():
+        return set()
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        return {row.get("name", "").strip() for row in csv.DictReader(handle) if row.get("name", "").strip()}
+
+
+def choose_logos_autocomplete_db(logos_root: Path) -> Path | None:
+    data_root = logos_root / "Data"
+    if not data_root.exists():
+        return None
+    candidates = sorted(data_root.glob("*/AutoComplete/AutoComplete.db"))
+    if not candidates:
+        return None
+    return max(candidates, key=lambda path: path.stat().st_size)
+
+
+def is_safe_place_label(label: str, proper_name_labels: set[str]) -> bool:
+    if label in proper_name_labels or label in GENERIC_PLACE_LABEL_STOPLIST:
+        return False
+    if label.startswith("Any ") or "(" in label or ")" in label:
+        return False
+    if len(label) < 4 or len(label) > 40:
+        return False
+    return bool(re.match(r"[A-Z]", label))
+
+
+def load_logos_place_links(logos_root: Path, proper_names_path: Path) -> tuple[dict[str, PlaceLink], dict[str, object]]:
+    autocomplete_db = choose_logos_autocomplete_db(logos_root)
+    if not autocomplete_db:
+        return {}, {
+            "enabled": False,
+            "reason": "No Logos AutoComplete.db found.",
+            "source_db": None,
+            "candidate_labels": 0,
+        }
+
+    proper_name_labels = load_proper_name_labels(proper_names_path)
+    query = """
+    SELECT l.LabelText, t.Reference, ik.IconKind, l.IsPrimary
+    FROM Labels l
+    JOIN Terms t ON t.TermId = l.TermId
+    JOIN IconKinds ik ON ik.IconKindId = t.IconKindId
+    WHERE l.LanguageId = 1
+      AND t.Reference LIKE 'bk.@%'
+    """
+
+    with sqlite3.connect(f"file:{autocomplete_db.as_posix()}?mode=ro", uri=True) as conn:
+        rows = conn.execute(query).fetchall()
+
+    all_place_refs: dict[str, set[str]] = defaultdict(set)
+    primary_place_rows: dict[str, list[tuple[str, str]]] = defaultdict(list)
+    for label, reference, icon_kind, is_primary in rows:
+        if icon_kind not in PLACE_ICON_KINDS:
+            continue
+        all_place_refs[label].add(reference)
+        if is_primary:
+            primary_place_rows[label].append((reference, icon_kind))
+
+    links: dict[str, PlaceLink] = {}
+    skipped_ambiguous = 0
+    for label, entries in primary_place_rows.items():
+        if not is_safe_place_label(label, proper_name_labels):
+            continue
+        refs = {reference for reference, _icon_kind in entries}
+        if len(refs) != 1 or len(all_place_refs.get(label, set())) != 1:
+            skipped_ambiguous += 1
+            continue
+        reference, icon_kind = entries[0]
+        links[label] = PlaceLink(label=label, reference=reference, icon_kind=icon_kind)
+
+    return links, {
+        "enabled": True,
+        "source_db": str(autocomplete_db),
+        "candidate_labels": len(links),
+        "skipped_ambiguous_labels": skipped_ambiguous,
+        "datatype": "BibleKnowledgebase",
+        "note": "Links are conservative Personal Book datatype links, not internal Logos Factbook tag overlays.",
+    }
+
+
+def build_place_link_pattern(place_links: dict[str, PlaceLink]) -> re.Pattern[str] | None:
+    if not place_links:
+        return None
+    labels = sorted(place_links, key=len, reverse=True)
+    return re.compile(r"(?<![A-Za-z0-9])(" + "|".join(re.escape(label) for label in labels) + r")(?![A-Za-z0-9])")
+
+
+def find_place_link_spans(
+    verse_text: str,
+    place_links: dict[str, PlaceLink],
+    place_link_pattern: re.Pattern[str] | None,
+    occupied: list[tuple[int, int]],  # Kept for call-site clarity; place links may share footnote anchors.
+) -> list[PlaceLinkSpan]:
+    if not place_link_pattern:
+        return []
+
+    spans: list[PlaceLinkSpan] = []
+    used: list[tuple[int, int]] = []
+    for match in place_link_pattern.finditer(verse_text):
+        start, end = match.span(1)
+        if any(not (end <= old_start or start >= old_end) for old_start, old_end in used):
+            continue
+        label = match.group(1)
+        link = place_links.get(label)
+        if not link:
+            continue
+        spans.append(PlaceLinkSpan(start=start, end=end, link=link))
+        used.append((start, end))
+    return spans
+
+
+def text_runs_with_place_links(
+    verse_text: str,
+    start: int,
+    end: int,
+    place_spans: list[PlaceLinkSpan],
+) -> list[str]:
+    relevant = [span for span in place_spans if start <= span.start and span.end <= end]
+    if not relevant:
+        return [run(verse_text[start:end])]
+
+    output: list[str] = []
+    cursor = start
+    for span in relevant:
+        if cursor < span.start:
+            output.append(run(verse_text[cursor:span.start]))
+        label = verse_text[span.start:span.end]
+        output.append(run(f"[[{label} >> BibleKnowledgebase:{span.link.pb_reference}]]"))
+        cursor = span.end
+    if cursor < end:
+        output.append(run(verse_text[cursor:end]))
+    return output
 
 
 def find_trigger_span(
@@ -1197,6 +1367,8 @@ def build_docx(
     versification_map: dict[str, str] | None = None,
     verse_counts: dict[str, list[int]] | None = None,
     footnote_number_restart: str = "chapter",
+    place_links: dict[str, PlaceLink] | None = None,
+    place_link_pattern: re.Pattern[str] | None = None,
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
@@ -1221,6 +1393,7 @@ def build_docx(
     milestone_ref_counts: Counter[str] = Counter()
     versification_map = versification_map or {}
     verse_counts = verse_counts or {}
+    place_links = place_links or {}
     for verse in verses:
         if verse.book_name != current_book:
             current_book = verse.book_name
@@ -1247,6 +1420,8 @@ def build_docx(
             name_notes=name_notes.get(verse.ref, []),
             supplemental_notes=supplemental_notes.get(verse.ref, []),
             crossref_notes=crossrefs.get(verse.ref, []),
+            place_links=place_links if logos else {},
+            place_link_pattern=place_link_pattern if logos else None,
             logos=logos,
             datatype=datatype,
             milestone_mode=milestone_mode,
@@ -1259,6 +1434,7 @@ def build_docx(
         doc.add_paragraph(runs)
         stats.paragraph_count += 1
 
+    stats.place_link_count = sum(part.count("BibleKnowledgebase:") for part in doc.body)
     stats.footnote_count = len(doc.footnotes)
     stats.duplicate_milestone_refs = sum(count - 1 for count in milestone_ref_counts.values() if count > 1)
     doc.save(path)
@@ -1288,6 +1464,7 @@ def add_title_page(
     ]
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
+        lines.append("Conservative place-name links use Logos Bible Knowledgebase targets where a local Logos place entity can be matched unambiguously.")
         lines.append("Includes Lexham Textual Notes resource links where the supplied Logos export has a matching verse.")
         if milestone_mode == "mt":
             lines.append("Milestones are remapped to standard English/MT Bible references for Logos note sharing.")
@@ -1304,6 +1481,8 @@ def build_verse_runs(
     name_notes: list[NameMeaningNote],
     supplemental_notes: list[SupplementalNote],
     crossref_notes: list[CrossReferenceNote],
+    place_links: dict[str, PlaceLink],
+    place_link_pattern: re.Pattern[str] | None,
     logos: bool,
     datatype: str,
     milestone_mode: str,
@@ -1336,6 +1515,8 @@ def build_verse_runs(
         notes,
         name_notes,
         crossref_notes,
+        place_links,
+        place_link_pattern,
         stats,
     )
     runs.extend(text_runs)
@@ -1382,6 +1563,8 @@ def runs_for_text_with_phrase_notes(
     notes: list[TranslationNote],
     name_notes: list[NameMeaningNote],
     crossrefs: list[CrossReferenceNote],
+    place_links: dict[str, PlaceLink],
+    place_link_pattern: re.Pattern[str] | None,
     stats: BuildStats,
 ) -> tuple[list[str], list[TranslationNote], list[NameMeaningNote], list[CrossReferenceNote]]:
     anchors: dict[int, list[tuple[str, TranslationNote | NameMeaningNote | CrossReferenceNote]]] = defaultdict(list)
@@ -1441,10 +1624,12 @@ def runs_for_text_with_phrase_notes(
         occupied.append((start, end))
         anchors[end].append(("crossref", crossref))
 
+    place_spans = find_place_link_spans(verse_text, place_links, place_link_pattern, occupied)
+
     output: list[str] = []
     cursor = 0
     for end in sorted(anchors):
-        output.append(run(verse_text[cursor:end]))
+        output.extend(text_runs_with_place_links(verse_text, cursor, end, place_spans))
         for kind, item in anchors[end]:
             if kind == "crossref":
                 assert isinstance(item, CrossReferenceNote)
@@ -1462,7 +1647,7 @@ def runs_for_text_with_phrase_notes(
                 stats.translation_note_footnotes += 1
                 stats.phrase_anchored_translation_notes += 1
         cursor = end
-    output.append(run(verse_text[cursor:]))
+    output.extend(text_runs_with_place_links(verse_text, cursor, len(verse_text), place_spans))
     return output, verse_level, verse_level_names, verse_level_crossrefs
 
 
@@ -1539,6 +1724,7 @@ Scope:
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton-package notes: Brenton USFM footnotes and TSK study-note text. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
+- Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
 
@@ -1594,6 +1780,7 @@ def build_diagnostics(
     output_paths: dict[str, str],
     datatype: str,
     versification_map_diag: dict[str, object],
+    place_link_diag: dict[str, object],
 ) -> dict[str, object]:
     book_counts = Counter(verse.book_code for verse in verses)
     included_note_total = sum(len(items) for items in notes.values())
@@ -1614,6 +1801,7 @@ def build_diagnostics(
         "included_supplemental_note_refs": len(supplemental_notes),
         "included_supplemental_note_total": included_supplemental_note_total,
         "crossrefs": crossref_diag,
+        "place_links": place_link_diag,
         "versification_map": versification_map_diag,
         "logos_docx": vars(logos_stats),
         "mt_notes_bridge_docx": vars(mt_bridge_stats),
@@ -1637,6 +1825,12 @@ def main() -> None:
     parser.add_argument("--preview", type=Path, default=DEFAULT_PREVIEW)
     parser.add_argument("--versification-map", type=Path, default=DEFAULT_VERSIFICATION_MAP)
     parser.add_argument("--lexham-textual-notes-html", type=Path, default=DEFAULT_LEXHAM_TEXTUAL_NOTES_HTML)
+    parser.add_argument("--logos-root", type=Path, default=DEFAULT_LOGOS_ROOT)
+    parser.add_argument(
+        "--no-place-links",
+        action="store_true",
+        help="Disable conservative Logos Bible Knowledgebase place links.",
+    )
     parser.add_argument("--datatype", default="Bible")
     parser.add_argument(
         "--footnote-number-restart",
@@ -1658,6 +1852,16 @@ def main() -> None:
         **{f"placement_{key}": value for key, value in name_note_placement_counts.items()},
     }
     crossrefs, crossref_diag = build_crossrefs_for_verses(verses)
+    if args.no_place_links:
+        place_links: dict[str, PlaceLink] = {}
+        place_link_diag: dict[str, object] = {
+            "enabled": False,
+            "reason": "Disabled with --no-place-links.",
+            "candidate_labels": 0,
+        }
+    else:
+        place_links, place_link_diag = load_logos_place_links(args.logos_root, args.proper_names)
+    place_link_pattern = build_place_link_pattern(place_links)
     versification_map, versification_map_diag = load_versification_map(args.versification_map)
     brenton_supplemental_notes, brenton_supplemental_counts = load_brenton_supplemental_notes(verses)
     lexham_supplemental_notes, lexham_supplemental_counts = load_lexham_textual_note_links(
@@ -1688,6 +1892,8 @@ def main() -> None:
         versification_map=versification_map,
         verse_counts=verse_counts,
         footnote_number_restart=args.footnote_number_restart,
+        place_links=place_links,
+        place_link_pattern=place_link_pattern,
     )
     mt_bridge_stats = build_docx(
         path=args.mt_bridge_docx,
@@ -1703,6 +1909,8 @@ def main() -> None:
         versification_map=versification_map,
         verse_counts=verse_counts,
         footnote_number_restart=args.footnote_number_restart,
+        place_links=place_links,
+        place_link_pattern=place_link_pattern,
     )
     proof_stats = build_docx(
         path=args.proof_docx,
@@ -1718,6 +1926,8 @@ def main() -> None:
         versification_map=versification_map,
         verse_counts=verse_counts,
         footnote_number_restart=args.footnote_number_restart,
+        place_links={},
+        place_link_pattern=None,
     )
     build_preview(args.preview, verses, notes, supplemental_notes, crossrefs)
     build_readme(
@@ -1755,6 +1965,7 @@ def main() -> None:
         },
         datatype=args.datatype,
         versification_map_diag=versification_map_diag,
+        place_link_diag=place_link_diag,
     )
     args.diagnostics.write_text(json.dumps(diagnostics, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(json.dumps(diagnostics["outputs"], indent=2))
