@@ -84324,7 +84324,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Iōram his son reigned in place of him.
+- fresh: And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Jehoram his son reigned in place of him.
 - brenton: And Josaphat slept with his fathers, and was buried by his fathers in the city of David his father, and Joram his son reigned in his stead.
 
 ### 1 Kings 22:52
@@ -84515,7 +84515,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
+- fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
 
 ### 2 Kings 2:1
@@ -84749,7 +84749,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iōram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
+- fresh: And Joram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
 - brenton: And Joram the son of Achaab began to reign in Israel in the eighteenth year of Josaphat king of Juda, and he reigned twelve years.
 
 ### 2 Kings 3:2
@@ -84794,7 +84794,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And King Iōram went out on that day from Samaria and reviewed Israel.
+- fresh: And King Joram went out on that day from Samaria and reviewed Israel.
 - brenton: And king Joram went forth in that day out of Samaria, and numbered Israel.
 
 ### 2 Kings 3:7
@@ -94039,7 +94039,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the sons of Zara: Iiēl and their brothers, six hundred ninety.
+- fresh: From the sons of Zara: Jeuel and their brothers, six hundred ninety.
 - brenton: Of the sons of Zara; Jeel, and their brethren, six hundred and ninety.
 
 ### 1 Chronicles 9:7
@@ -94903,7 +94903,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ozia the Astarothite, Samma and Iiēl sons of Chothan the Hararite,
+- fresh: Ozia the Astarothite, Samma and Jehiel sons of Chothan the Hararite,
 - brenton: Ozia the Astarothite, Samatha and Jeiel sons of Chotham the Ararite,
 
 ### 1 Chronicles 11:45
@@ -95740,7 +95740,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Iiēl and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Iiēl and Uzziah, gatekeepers.
+- fresh: and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Jehiel and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Jeiel and Uzziah, gatekeepers.
 - brenton: and with them their brethren of the second rank, Zacharias, and Oziel, and Semiramoth, and Jeiel, and Elioel, and Eliab, and Banaia, and Maasaia, and Matthathia, and Eliphena, and Makellia, and Abdedom, and Jeiel, and Ozias, the porters.
 
 ### 1 Chronicles 15:19
@@ -95758,7 +95758,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Zacharias and Uzziel, Semiramoth, Iiēl, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
+- fresh: Zacharias and Uzziel, Semiramoth, Jehiel, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
 - brenton: Zacharias, and Oziel, Semiramoth, Jeiel, Oni, Eliab, Maasæas, Banæas, with lutes, on alæmoth.
 
 ### 1 Chronicles 15:21
@@ -95767,7 +95767,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Mattathias and Eliphalias and Makenias and Abdedom and Iiēl and Uzziah with lyres on the eighth, to lead strongly.
+- fresh: And Mattathias and Eliphalias and Makenias and Abdedom and Jeiel and Uzziah with lyres on the eighth, to lead strongly.
 - brenton: And Mattathias, and Eliphalu, and Makenia, and Abdedom, and Jeiel, and Ozias, with harps of Amasenith, to make a loud noise.
 
 ### 1 Chronicles 15:22
@@ -95884,7 +95884,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Asaph leader, and second to him Zacharias, Iiēl, Semiramoth, Iiēl, Mattathias, Eliab, and Banaias and Abdedom and Iiēl with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
+- fresh: Asaph leader, and second to him Zacharias, Jeiel, Semiramoth, Jehiel, Mattathias, Eliab, and Banaias and Abdedom and Jeiel with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
 - brenton: Asaph was the chief, and next to him Zacharias, Jeiel, Semiramoth, and Jeiel, Mattathias, Eliab, and Banæas, and Abdedom: and Jeiel sounding with musical instruments, lutes and harps, and Asaph with cymbals:
 
 ### 1 Chronicles 16:6
@@ -97369,7 +97369,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Edan: chief Iiēl, and Zethom, and Joel, three.
+- fresh: Sons of Edan: chief Jehiel, and Zethom, and Joel, three.
 - brenton: The sons of Edan were Jeiel, the chief, and Zethan, and Joel, three.
 
 ### 1 Chronicles 23:9
@@ -97378,7 +97378,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Semei: Salōmith and Iiēl and Aidan, three. These were chiefs of fathers for Edan.
+- fresh: Sons of Semei: Salōmith and Jeiel and Aidan, three. These were chiefs of fathers for Edan.
 - brenton: The sons of Semei; Salomith, Jeiel, and Dan, three: these were the chiefs of the families of Edan.
 
 ### 1 Chronicles 23:10
@@ -98269,7 +98269,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And lot toward east fell to Salamia, and to Zacharia son of Iōas, to Melchia, they cast lots, and his lot came out north.
+- fresh: And lot toward east fell to Salamia, and to Zacharia son of Joas, to Melchia, they cast lots, and his lot came out north.
 - brenton: And the lot of the east gates fell to Selemias, and Zacharias: the sons of Soaz cast lots for Melchias, and the lot came out northward.
 
 ### 1 Chronicles 26:15
@@ -98332,7 +98332,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Iiēl.
+- fresh: Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Jehieli.
 - brenton: These were the sons of Ladan, the sons of the Gersonite: to Ladan belonged the heads of the families: the son of Ladan the Gersonite was Jeiel.
 
 ### 1 Chronicles 26:22
@@ -98341,7 +98341,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Iiēl, Zethom and Joel his brother, were over treasuries of house of Lord.
+- fresh: And sons of Jehieli, Zethom and Joel his brother, were over treasuries of house of Lord.
 - brenton: The sons of Jeiel were Zethom, and Joel; brethren who were over the treasures of the house of the Lord.
 
 ### 1 Chronicles 26:23
@@ -98368,7 +98368,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And for his brother Eliezer: Raabias his son, and Iōsaias and Iōram and Zechri and Salōmōth.
+- fresh: And for his brother Eliezer: Raabias his son, and Iōsaias and Joram and Zechri and Salōmōth.
 - brenton: And Rabias was son to his brother Eliezer, and so was Josias, and Joram, and Zechri, and Salomoth.
 
 ### 1 Chronicles 26:26
@@ -98629,7 +98629,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: for Dan, Azaraiēl son of Iōram. These were patriarchs of tribes of Israel.
+- fresh: for Dan, Azaraiēl son of Jeroham. These were patriarchs of tribes of Israel.
 - brenton: for Dan, Azariel the son of Iroab: these are the chiefs of the tribes of Israel.
 
 ### 1 Chronicles 27:23
@@ -98719,7 +98719,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Iiēl son of Achamani was with sons of king.
+- fresh: And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Achamani was with sons of king.
 - brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
 
 ### 1 Chronicles 27:33
@@ -98998,7 +98998,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those with whom stone was found gave it to treasuries of house of Lord by hand of Iiēl the Gērsōnite.
+- fresh: And those with whom stone was found gave it to treasuries of house of Lord by hand of Jehiel the Gērsōnite.
 - brenton: And they who had precious stone, gave it into the treasuries of the house of the Lord by the hand of Jeiel the Gedsonite.
 
 ### 1 Chronicles 29:9
@@ -102231,7 +102231,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests.
+- fresh: and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Jehoram, the priests.
 - brenton: And with them were the Levites, Samaias, and Nathanias, and Zabdias, and Asiel, and Semiramoth, and Jonathan, and Adonias, and Tobias, and Tobadonias, Levites, and with them Elisama and Joram, the priests.
 
 ### 2 Chronicles 17:9
@@ -103077,7 +103077,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Iōram his son reigned in his place.
+- fresh: And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Jehoram his son reigned in his place.
 - brenton: And Josaphat slept with his fathers, and was buried in the city of David: and Joran his son reigned in his stead.
 
 ### 2 Chronicles 21:2
@@ -103086,7 +103086,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he had brothers, sons of Jehoshaphat: Azarias and Iiēl and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
+- fresh: And he had brothers, sons of Jehoshaphat: Azarias and Jehiel and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
 - brenton: And he had brothers, the six sons of Josaphat, Azarias, and Jeiel, and Zacharias, and Azarias, and Michael, and Zaphatias: all these were the sons of Josaphat king of Juda.
 
 ### 2 Chronicles 21:3
@@ -103095,7 +103095,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Iōram, because he was firstborn.
+- fresh: And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Jehoram, because he was firstborn.
 - brenton: And their father gave them many gifts, silver, and gold, and arms, together with fortified cities in Juda: but he gave the kingdom to Joram, for he was the first-born.
 
 ### 2 Chronicles 21:4
@@ -103104,7 +103104,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iōram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
+- fresh: And Jehoram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
 - brenton: And Joram entered upon his kingdom, and strengthened himself, and slew all his brothers with the sword, and some of the princes of Israel.
 
 ### 2 Chronicles 21:5
@@ -103113,7 +103113,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Iōram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
+- fresh: Jehoram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
 - brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
 
 ### 2 Chronicles 21:6
@@ -103149,7 +103149,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iōram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
+- fresh: And Jehoram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
 - brenton: And Joram went with the princes, and all the cavalry with him: and it came to pass that he arose by night, and smote Edom that compassed him about, and the captains of the chariots, and the people fled to their tents.
 
 ### 2 Chronicles 21:10
@@ -103212,7 +103212,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Lord stirred up against Iōram Philistines and Arabs and neighbors of Aithiopians.
+- fresh: And Lord stirred up against Jehoram Philistines and Arabs and neighbors of Aithiopians.
 - brenton: So the Lord stirred up the Philistines against Joram, and the Arabians, and those who bordered on the Æthiopians:
 
 ### 2 Chronicles 21:17
@@ -103257,7 +103257,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Iōram king of Judah reigned.
+- fresh: And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Jehoram king of Judah reigned.
 - brenton: And the inhabitants of Jerusalem made Ochozias his youngest son king in his stead: for the band of robbers that came against them, even the Arabians and the Alimazonians, had slain all the elder ones. So Ochozias son of Joram king of Juda reigned.
 
 ### 2 Chronicles 22:2
@@ -103293,7 +103293,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in their counsels he walked and went with Iōram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Iōram.
+- fresh: And in their counsels he walked and went with Joram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Joram.
 - brenton: And he walked in their counsels, and he went with Joram son of Achaab king of Israel to war against Azael king of Syria to Ramoth Galaad: and the archers smote Joram.
 
 ### 2 Chronicles 22:6
@@ -103302,7 +103302,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iōram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Iōram king of Judah came down to visit Iōram son of Ahab in Iezrael, because he was sick.
+- fresh: And Joram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Jehoram king of Judah came down to visit Joram son of Ahab in Iezrael, because he was sick.
 - brenton: And Joram returned to Jezrael to be healed of the wounds wherewith the Syrians smote him in Ramoth, when he fought against Azael king of Syria.
 
 ### 2 Chronicles 22:7
@@ -103311,7 +103311,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from God came destruction of Ochozias by coming to Iōram. And when he came, Iōram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
+- fresh: And from God came destruction of Ochozias by coming to Joram. And when he came, Joram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
 - brenton: And destruction from God came upon Ochozias in his coming to Joram; for when he had come, Joram went out with him against Jeu the son of Namessei, the anointed of the Lord against the house of Achaab.
 
 ### 2 Chronicles 22:8
@@ -103347,7 +103347,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
+- fresh: And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Jehoram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
 - brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
 
 ### 2 Chronicles 22:12
@@ -103365,7 +103365,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Jeroham and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
 - brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
 
 ### 2 Chronicles 23:2
@@ -104139,7 +104139,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Uzziah had forces making war and going out for battle in number, and their number by hand of Iiēl the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
+- fresh: And Uzziah had forces making war and going out for battle in number, and their number by hand of Jeiel the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
 - brenton: And Ozias had a host of warriors, and that went out orderly to war, and returned orderly in number; and their number was made by the hand of Jeiel the scribe, and Maasias the judge, by the hand of Ananias the king's deputy.
 
 ### 2 Chronicles 26:12
@@ -104679,7 +104679,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Elisaphan, Sambri and Iiēl, and from sons of Asaph, Zacharias and Maththanias,
+- fresh: and from sons of Elisaphan, Sambri and Jeiel, and from sons of Asaph, Zacharias and Maththanias,
 - brenton: And of the sons of Elisaphan; Zambri, and Jeiel: and of the sons of Asaph; Zacharias, and Matthanias:
 
 ### 2 Chronicles 29:14
@@ -104688,7 +104688,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Haiman, Iiēl and Semei, and from sons of Idithōn, Samaias and Uzziel.
+- fresh: and from sons of Haiman, Jehiel and Semei, and from sons of Idithōn, Samaias and Uzziel.
 - brenton: and of the sons of Æman; Jeiel, and Semei: and of the sons of Idithun; Samaias, and Oziel.
 
 ### 2 Chronicles 29:15
@@ -105246,7 +105246,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Iiēl and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
+- fresh: And Jehiel and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
 - brenton: And Jeiel, and Ozias, and Naeth, and Asael, and Jerimoth, and Jozabad, and Eliel, and Samachia, and Maath, and Banaias, and his sons, were appointed by Chonenias and Semei his brother, as Ezekias the king, and Azarias who was over the house of the Lord commanded.
 
 ### 2 Chronicles 31:14
@@ -106209,7 +106209,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Iiēl, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
+- fresh: And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Jehiel, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
 - brenton: And his princes gave an offering to the people, and to the priests, and to the Levites: and Chelcias and Zacharias and Jeiel the chief men gave to the priests of the house of God, they even gave for the passover sheep, and lambs, and kids, two thousand six hundred, and three hundred calves.
 
 ### 2 Chronicles 35:9
@@ -106218,7 +106218,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Iiēl and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
+- fresh: And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Jeiel and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
 - brenton: And Chonenias, and Banæas, and Samæas, and Nathanael his brother, and Asabias, and Jeiel, and Jozabad, heads of the Levites, gave an offering to the Levites for the passover, of five thousand sheep and five hundred calves.
 
 ### 2 Chronicles 35:10

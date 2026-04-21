@@ -1,30 +1,8 @@
 {
   "rows": 0,
   "top_rows": [],
-  "context_dependent_rows": 3,
-  "context_dependent_top_rows": [
-    {
-      "current_form": "I\u014dram",
-      "kind": "person",
-      "occurrences": "23",
-      "sample_refs": "1 Kings 22:51, 2 Kings 1:18, 2 Kings 3:1, 2 Kings 3:6, 1 Chronicles 26:25, 1 Chronicles 27:22, 2 Chronicles 17:8, 2 Chronicles 21:1",
-      "note": "Context-dependent: Joram and Jehoram vary by king/person context."
-    },
-    {
-      "current_form": "Ii\u0113l",
-      "kind": "person",
-      "occurrences": "22",
-      "sample_refs": "1 Chronicles 9:6, 1 Chronicles 11:44, 1 Chronicles 15:18, 1 Chronicles 15:20, 1 Chronicles 15:21, 1 Chronicles 16:5, 1 Chronicles 23:8, 1 Chronicles 23:9",
-      "note": "Context-dependent: Jeiel, Jeuel, or Jehiel by genealogy context."
-    },
-    {
-      "current_form": "I\u014das",
-      "kind": "person",
-      "occurrences": "1",
-      "sample_refs": "1 Chronicles 26:14",
-      "note": "Context-dependent: Joash and Jehoash vary by king/person context."
-    }
-  ],
+  "context_dependent_rows": 0,
+  "context_dependent_top_rows": [],
   "public_md": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_proper_name_watch.md",
   "public_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_proper_name_watch.csv",
   "private_csv": "/Users/justinscaggs/Documents/Codex_bible/data/research/local/proper_name_review/proper_name_candidates.csv"

@@ -68,12 +68,19 @@ def main() -> None:
         ref = (row.get("ref") or "").strip()
         current_form = (row.get("current_form") or "").strip()
         preferred_form = (row.get("preferred_form") or "").strip()
+        match_text = (row.get("match_text") or "").strip()
+        replacement_text = (row.get("replacement_text") or "").strip()
         source_row = by_ref.get(ref)
         if not source_row or not current_form or not preferred_form:
             missing.append({"ref": ref, "current_form": current_form, "reason": "missing source row or form"})
             continue
 
-        replaced, count = replace_token(source_row.get("draft_translation", ""), current_form, preferred_form)
+        draft = source_row.get("draft_translation", "")
+        if match_text and replacement_text:
+            count = draft.count(match_text)
+            replaced = draft.replace(match_text, replacement_text)
+        else:
+            replaced, count = replace_token(draft, current_form, preferred_form)
         if count == 0:
             missing.append({"ref": ref, "current_form": current_form, "reason": "form not found"})
             continue

@@ -38108,7 +38108,7 @@ And the rest of the matters of Iosaphat and his acts of power, what he did, beho
 
 **1 Kings 22:51**
 
-And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Iōram his son reigned in place of him.
+And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Jehoram his son reigned in place of him.
 
 **1 Kings 22:52**
 
@@ -38196,7 +38196,7 @@ And he died according to the word of the Lord that Elijah spoke.
 
 **2 Kings 1:18**
 
-And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
+And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
 
 ### Chapter 2
 
@@ -38304,7 +38304,7 @@ And he went from there to Mount Carmel, and from there he returned to Samaria.
 
 **2 Kings 3:1**
 
-And Iōram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
+And Joram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
 
 **2 Kings 3:2**
 
@@ -38324,7 +38324,7 @@ And it came to be after Ahab died, the king of Moab rebelled against the kingdom
 
 **2 Kings 3:6**
 
-And King Iōram went out on that day from Samaria and reviewed Israel.
+And King Joram went out on that day from Samaria and reviewed Israel.
 
 **2 Kings 3:7**
 
@@ -42496,7 +42496,7 @@ And from the Seloni: Asaia his firstborn and his sons.
 
 **1 Chronicles 9:6**
 
-From the sons of Zara: Iiēl and their brothers, six hundred ninety.
+From the sons of Zara: Jeuel and their brothers, six hundred ninety.
 
 **1 Chronicles 9:7**
 
@@ -42884,7 +42884,7 @@ Anan son of Moocha, and Iosaphat the Baithanite,
 
 **1 Chronicles 11:44**
 
-Ozia the Astarothite, Samma and Iiēl sons of Chothan the Hararite,
+Ozia the Astarothite, Samma and Jehiel sons of Chothan the Hararite,
 
 **1 Chronicles 11:45**
 
@@ -43264,7 +43264,7 @@ And Levites stationed Haiman son of Joel, and from his brothers Asaph son of Bar
 
 **1 Chronicles 15:18**
 
-and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Iiēl and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Iiēl and Uzziah, gatekeepers.
+and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Jehiel and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Jeiel and Uzziah, gatekeepers.
 
 **1 Chronicles 15:19**
 
@@ -43272,11 +43272,11 @@ And singers Haiman, Asaph, and Aithan had bronze cymbals to make sound heard.
 
 **1 Chronicles 15:20**
 
-Zacharias and Uzziel, Semiramoth, Iiēl, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
+Zacharias and Uzziel, Semiramoth, Jehiel, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
 
 **1 Chronicles 15:21**
 
-And Mattathias and Eliphalias and Makenias and Abdedom and Iiēl and Uzziah with lyres on the eighth, to lead strongly.
+And Mattathias and Eliphalias and Makenias and Abdedom and Jeiel and Uzziah with lyres on the eighth, to lead strongly.
 
 **1 Chronicles 15:22**
 
@@ -43330,7 +43330,7 @@ And he appointed before ark of covenant of Lord from Levites, ministers proclaim
 
 **1 Chronicles 16:5**
 
-Asaph leader, and second to him Zacharias, Iiēl, Semiramoth, Iiēl, Mattathias, Eliab, and Banaias and Abdedom and Iiēl with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
+Asaph leader, and second to him Zacharias, Jeiel, Semiramoth, Jehiel, Mattathias, Eliab, and Banaias and Abdedom and Jeiel with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
 
 **1 Chronicles 16:6**
 
@@ -44004,11 +44004,11 @@ And to Parosōm, to Edan and to Semei.
 
 **1 Chronicles 23:8**
 
-Sons of Edan: chief Iiēl, and Zethom, and Joel, three.
+Sons of Edan: chief Jehiel, and Zethom, and Joel, three.
 
 **1 Chronicles 23:9**
 
-Sons of Semei: Salōmith and Iiēl and Aidan, three. These were chiefs of fathers for Edan.
+Sons of Semei: Salōmith and Jeiel and Aidan, three. These were chiefs of fathers for Edan.
 
 **1 Chronicles 23:10**
 
@@ -44410,7 +44410,7 @@ And they cast lots, small like great, by houses of their fathers, for gate and g
 
 **1 Chronicles 26:14**
 
-And lot toward east fell to Salamia, and to Zacharia son of Iōas, to Melchia, they cast lots, and his lot came out north.
+And lot toward east fell to Salamia, and to Zacharia son of Joas, to Melchia, they cast lots, and his lot came out north.
 
 **1 Chronicles 26:15**
 
@@ -44438,11 +44438,11 @@ And Levites their brothers were over treasuries of house of Lord and over treasu
 
 **1 Chronicles 26:21**
 
-Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Iiēl.
+Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Jehieli.
 
 **1 Chronicles 26:22**
 
-And sons of Iiēl, Zethom and Joel his brother, were over treasuries of house of Lord.
+And sons of Jehieli, Zethom and Joel his brother, were over treasuries of house of Lord.
 
 **1 Chronicles 26:23**
 
@@ -44454,7 +44454,7 @@ And Soubaēl, from Gērsam son of Moyses, was chief over treasuries.
 
 **1 Chronicles 26:25**
 
-And for his brother Eliezer: Raabias his son, and Iōsaias and Iōram and Zechri and Salōmōth.
+And for his brother Eliezer: Raabias his son, and Iōsaias and Joram and Zechri and Salōmōth.
 
 **1 Chronicles 26:26**
 
@@ -44572,7 +44572,7 @@ for half tribe of Manasse in Galaad, Iaddai son of Zabdiou; for sons of Beniamin
 
 **1 Chronicles 27:22**
 
-for Dan, Azaraiēl son of Iōram. These were patriarchs of tribes of Israel.
+for Dan, Azaraiēl son of Jeroham. These were patriarchs of tribes of Israel.
 
 **1 Chronicles 27:23**
 
@@ -44612,7 +44612,7 @@ And over sheep was Iaziz the Hagarite. All these were stewards of possessions of
 
 **1 Chronicles 27:32**
 
-And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Iiēl son of Achamani was with sons of king.
+And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Achamani was with sons of king.
 
 **1 Chronicles 27:33**
 
@@ -44740,7 +44740,7 @@ And they gave for works of house of Lord five thousand talents of gold and ten t
 
 **1 Chronicles 29:8**
 
-And those with whom stone was found gave it to treasuries of house of Lord by hand of Iiēl the Gērsōnite.
+And those with whom stone was found gave it to treasuries of house of Lord by hand of Jehiel the Gērsōnite.
 
 **1 Chronicles 29:9**
 
@@ -46212,7 +46212,7 @@ And in third year of his kingdom he sent his rulers and sons of mighty men, Abdi
 
 **2 Chronicles 17:8**
 
-and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests.
+and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Jehoram, the priests.
 
 **2 Chronicles 17:9**
 
@@ -46596,23 +46596,23 @@ And Eliezer son of Dōdia from Marisa prophesied against Jehoshaphat, saying, Be
 
 **2 Chronicles 21:1**
 
-And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Iōram his son reigned in his place.
+And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Jehoram his son reigned in his place.
 
 **2 Chronicles 21:2**
 
-And he had brothers, sons of Jehoshaphat: Azarias and Iiēl and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
+And he had brothers, sons of Jehoshaphat: Azarias and Jehiel and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
 
 **2 Chronicles 21:3**
 
-And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Iōram, because he was firstborn.
+And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Jehoram, because he was firstborn.
 
 **2 Chronicles 21:4**
 
-And Iōram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
+And Jehoram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
 
 **2 Chronicles 21:5**
 
-Iōram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
+Jehoram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
 
 **2 Chronicles 21:6**
 
@@ -46628,7 +46628,7 @@ In those days Edom rebelled from Judah and made king over themselves.
 
 **2 Chronicles 21:9**
 
-And Iōram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
+And Jehoram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
 
 **2 Chronicles 21:10**
 
@@ -46656,7 +46656,7 @@ And you with evil weakness, in disease of belly, until your belly comes out with
 
 **2 Chronicles 21:16**
 
-And Lord stirred up against Iōram Philistines and Arabs and neighbors of Aithiopians.
+And Lord stirred up against Jehoram Philistines and Arabs and neighbors of Aithiopians.
 
 **2 Chronicles 21:17**
 
@@ -46678,7 +46678,7 @@ He was thirty-two years old when he reigned, and eight years he reigned in Jerus
 
 **2 Chronicles 22:1**
 
-And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Iōram king of Judah reigned.
+And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Jehoram king of Judah reigned.
 
 **2 Chronicles 22:2**
 
@@ -46694,15 +46694,15 @@ And he did evil before Lord like house of Ahab, because they were counselors to 
 
 **2 Chronicles 22:5**
 
-And in their counsels he walked and went with Iōram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Iōram.
+And in their counsels he walked and went with Joram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Joram.
 
 **2 Chronicles 22:6**
 
-And Iōram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Iōram king of Judah came down to visit Iōram son of Ahab in Iezrael, because he was sick.
+And Joram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Jehoram king of Judah came down to visit Joram son of Ahab in Iezrael, because he was sick.
 
 **2 Chronicles 22:7**
 
-And from God came destruction of Ochozias by coming to Iōram. And when he came, Iōram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
+And from God came destruction of Ochozias by coming to Joram. And when he came, Joram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
 
 **2 Chronicles 22:8**
 
@@ -46718,7 +46718,7 @@ And Gotholia mother of Ochozias saw that her son was dead, and she rose and dest
 
 **2 Chronicles 22:11**
 
-And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
+And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Jehoram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
 
 **2 Chronicles 22:12**
 
@@ -46728,7 +46728,7 @@ And he was with her in house of God, hidden six years, and Gotholia reigned over
 
 **2 Chronicles 23:1**
 
-And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Jeroham and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
 
 **2 Chronicles 23:2**
 
@@ -47078,7 +47078,7 @@ And he built towers in wilderness and cut many pits, because much cattle belonge
 
 **2 Chronicles 26:11**
 
-And Uzziah had forces making war and going out for battle in number, and their number by hand of Iiēl the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
+And Uzziah had forces making war and going out for battle in number, and their number by hand of Jeiel the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
 
 **2 Chronicles 26:12**
 
@@ -47324,11 +47324,11 @@ And Levites rose: Maath son of Amasi and Joel son of Azariou from sons of Kaath,
 
 **2 Chronicles 29:13**
 
-and from sons of Elisaphan, Sambri and Iiēl, and from sons of Asaph, Zacharias and Maththanias,
+and from sons of Elisaphan, Sambri and Jeiel, and from sons of Asaph, Zacharias and Maththanias,
 
 **2 Chronicles 29:14**
 
-and from sons of Haiman, Iiēl and Semei, and from sons of Idithōn, Samaias and Uzziel.
+and from sons of Haiman, Jehiel and Semei, and from sons of Idithōn, Samaias and Uzziel.
 
 **2 Chronicles 29:15**
 
@@ -47580,7 +47580,7 @@ And they brought there firstfruits and tithes in faithfulness, and over them ove
 
 **2 Chronicles 31:13**
 
-And Iiēl and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
+And Jehiel and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
 
 **2 Chronicles 31:14**
 
@@ -48016,11 +48016,11 @@ And Josiah contributed to sons of people sheep and lambs and kids of goats, all 
 
 **2 Chronicles 35:8**
 
-And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Iiēl, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
+And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Jehiel, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
 
 **2 Chronicles 35:9**
 
-And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Iiēl and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
+And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Jeiel and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
 
 **2 Chronicles 35:10**
 

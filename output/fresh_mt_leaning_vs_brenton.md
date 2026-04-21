@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 420
+Rows: 421
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -2585,6 +2585,15 @@ Rows: 420
 - mt: And the LORD said unto Moses, Is the LORD's hand waxed short? you shall see now whether my word shall come to pass unto you or not.
 - brenton: And the Lord said to Moses, Shall not the hand of the Lord be fully sufficient? now shalt thou know whether my word shall come to pass to thee or not.
 
+## 2 Chronicles 21:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.796`
+- fresh_brenton_ratio: `0.653`
+- fresh: Jehoram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
+- mt: Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
+- brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
+
 ## 2 Kings 11:7
 - priority: `0`
 - importance: `none`
@@ -3287,15 +3296,6 @@ Rows: 420
 - mt: And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.
 - brenton: And they take their bones, and bury them in the field that is in Jabis, and fast seven days.
 
-## 2 Chronicles 21:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.650`
-- fresh: Iōram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
-- mt: Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
-- brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
-
 ## 2 Samuel 3:25
 - priority: `0`
 - importance: `none`
@@ -3430,6 +3430,15 @@ Rows: 420
 - fresh: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 - mt: And if he strike him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death.
 - brenton: And if he should smite him with an iron instrument, and the man should die, he is a murderer; let the murderer by all means be put to death.
+
+## 1 Chronicles 23:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.737`
+- fresh: Sons of Edan: chief Jehiel, and Zethom, and Joel, three.
+- mt: The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
+- brenton: The sons of Edan were Jeiel, the chief, and Zethan, and Joel, three.
 
 ## 1 Samuel 2:34
 - priority: `0`

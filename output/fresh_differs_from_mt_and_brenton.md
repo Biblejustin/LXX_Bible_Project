@@ -2279,15 +2279,6 @@ Rows: 12237
 - mt: Therefore it shall come to pass, that as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God has given you.
 - brenton: And it shall come to pass, that as all the good things are come upon us which the Lord spoke concerning you, so the Lord God will bring upon you all the evil things, until he shall have destroyed you from off this good land, which the Lord has given you,
 
-## 2 Chronicles 35:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.030`
-- fresh_brenton_ratio: `0.123`
-- fresh: And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Iiēl and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
-- mt: Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.
-- brenton: And Chonenias, and Banæas, and Samæas, and Nathanael his brother, and Asabias, and Jeiel, and Jozabad, heads of the Levites, gave an offering to the Levites for the passover, of five thousand sheep and five hundred calves.
-
 ## 2 Chronicles 33:8
 - priority: `0`
 - importance: `none`
@@ -2305,6 +2296,15 @@ Rows: 12237
 - fresh: And these are the charges of the things carried by them according to all their works in the tent of testimony: the frames of the tent and its bars and its pillars and its bases and the screen and the bases of them and its pillars and the screen of the door of the tent,
 - mt: And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,
 - brenton: And these are the charges of the things borne by them according to all their works in the tabernacle of witness: they shall bear the chapiters of the tabernacle, and the bars, and its pillars, and its sockets, and the veil, and there shall be their sockets, and their pillars, and the curtain of the door of the tabernacle.
+
+## 2 Chronicles 35:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.030`
+- fresh_brenton_ratio: `0.393`
+- fresh: And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Jeiel and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
+- mt: Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.
+- brenton: And Chonenias, and Banæas, and Samæas, and Nathanael his brother, and Asabias, and Jeiel, and Jozabad, heads of the Levites, gave an offering to the Levites for the passover, of five thousand sheep and five hundred calves.
 
 ## 2 Kings 7:8
 - priority: `0`
@@ -4088,6 +4088,15 @@ Rows: 12237
 - mt: And he brought Aaron's sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.
 - brenton: And he took the fat, and the rump, and the fat on the belly, and the lobe of the liver, and the two kidneys, and the fat that is upon them, and the right shoulder.
 
+## 2 Chronicles 35:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.054`
+- fresh_brenton_ratio: `0.379`
+- fresh: And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Jehiel, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
+- mt: And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle and three hundred oxen.
+- brenton: And his princes gave an offering to the people, and to the priests, and to the Levites: and Chelcias and Zacharias and Jeiel the chief men gave to the priests of the house of God, they even gave for the passover sheep, and lambs, and kids, two thousand six hundred, and three hundred calves.
+
 ## 1 Samuel 9:6
 - priority: `0`
 - importance: `none`
@@ -4168,15 +4177,6 @@ Rows: 12237
 - fresh: And I saw that there was no savior, and I put my life in my own hand and crossed over to the sons of Ammon, and the Lord gave them into my hand. And why did you come up to me this day to fight against me?
 - mt: And when I saw that all of you delivered me not, I put my life in my hands, and passed opposite to the children of Ammon, and the LORD delivered them into my hand: wherefore then are all of you come up unto me this day, to fight against me?
 - brenton: And I saw that thou wert no helper, and I put my life in my hand, and passed on to the sons of Ammon; and the Lord delivered them into my hand: and wherefore are ye come up against me this day to fight with me?
-
-## 2 Chronicles 35:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.055`
-- fresh_brenton_ratio: `0.373`
-- fresh: And his rulers contributed to people and to priests and Levites. Chelkias and Zacharias and Iiēl, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
-- mt: And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle and three hundred oxen.
-- brenton: And his princes gave an offering to the people, and to the priests, and to the Levites: and Chelcias and Zacharias and Jeiel the chief men gave to the priests of the house of God, they even gave for the passover sheep, and lambs, and kids, two thousand six hundred, and three hundred calves.
 
 ## 2 Samuel 15:30
 - priority: `0`
@@ -5690,6 +5690,15 @@ Rows: 12237
 - mt: But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 - brenton: But many of the priests and the Levites, and the elder men, heads of families, who had seen the former house on its foundation, and who saw this house with their eyes, wept with a loud voice: but the multitude shouted with joy to raise a song.
 
+## 2 Chronicles 22:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.075`
+- fresh_brenton_ratio: `0.229`
+- fresh: And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Jehoram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
+- mt: But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
+- brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
+
 ## Joshua 6:23
 - priority: `0`
 - importance: `none`
@@ -5734,15 +5743,6 @@ Rows: 12237
 - fresh: And it shall be, when the feet of the priests carrying the ark of the covenant of the Lord of all the earth come to rest in the water of the Jordan, the water of the Jordan will fail, and the water coming down will stand.
 - mt: And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the LORD of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap.
 - brenton: And it shall come to pass, when the feet of the priests that bear the ark of the covenant of the Lord of the whole earth rest in the water of Jordan, the water of Jordan below shall fail, and the water coming down from above shall stop.
-
-## 2 Chronicles 22:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.076`
-- fresh_brenton_ratio: `0.230`
-- fresh: And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
-- mt: But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
-- brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
 
 ## Deuteronomy 31:20
 - priority: `0`
@@ -6055,7 +6055,7 @@ Rows: 12237
 - importance: `none`
 - fresh_mt_ratio: `0.081`
 - fresh_brenton_ratio: `0.057`
-- fresh: And Uzziah had forces making war and going out for battle in number, and their number by hand of Iiēl the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
+- fresh: And Uzziah had forces making war and going out for battle in number, and their number by hand of Jeiel the scribe and Maasaiou the judge, by hand of Ananiou, successor of king.
 - mt: Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains.
 - brenton: And Ozias had a host of warriors, and that went out orderly to war, and returned orderly in number; and their number was made by the hand of Jeiel the scribe, and Maasias the judge, by the hand of Ananias the king's deputy.
 
@@ -6432,8 +6432,8 @@ Rows: 12237
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.084`
-- fresh_brenton_ratio: `0.537`
-- fresh: And Iōram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Iōram king of Judah came down to visit Iōram son of Ahab in Iezrael, because he was sick.
+- fresh_brenton_ratio: `0.544`
+- fresh: And Joram returned to be healed in Iezrael from wounds which Syrians gave him in Rama when he fought Azaēl king of Syria, and Ochozias son of Jehoram king of Judah came down to visit Joram son of Ahab in Iezrael, because he was sick.
 - mt: And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.
 - brenton: And Joram returned to Jezrael to be healed of the wounds wherewith the Syrians smote him in Ramoth, when he fought against Azael king of Syria.
 
@@ -10568,15 +10568,6 @@ Rows: 12237
 - mt: And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.
 - brenton: And Roboam went into Jerusalem, and he assembled the congregation of Juda, and the tribe of Benjamin, a hundred and twenty thousand young men, warriors, to fight against the house of Israel, to recover the kingdom to Roboam the son of Solomon.
 
-## 2 Chronicles 31:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.157`
-- fresh_brenton_ratio: `0.293`
-- fresh: And Iiēl and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
-- mt: And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
-- brenton: And Jeiel, and Ozias, and Naeth, and Asael, and Jerimoth, and Jozabad, and Eliel, and Samachia, and Maath, and Banaias, and his sons, were appointed by Chonenias and Semei his brother, as Ezekias the king, and Azarias who was over the house of the Lord commanded.
-
 ## Exodus 3:16
 - priority: `0`
 - importance: `none`
@@ -10900,15 +10891,6 @@ Rows: 12237
 - fresh: Around these cities each city had its pasturelands around the city, all these cities. And Joshua finished dividing the land within their boundaries. And the sons of Israel gave Joshua a share by command of the Lord; they gave him the city he asked, Thamnasarach, they gave it to him in the hill-country of Ephraim. And Joshua built the city and lived in it. And Joshua took the stone knives with which he circumcised the sons of Israel who were born on the way in the wilderness and placed them in Thamnasarach.
 - mt: These cities were every one with their suburbs round about them: thus were all these cities.
 - brenton: and their suburbs round about these cities: a city and the suburbs round about the city to all these cities:
-
-## 1 Chronicles 15:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.162`
-- fresh_brenton_ratio: `0.257`
-- fresh: and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Iiēl and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Iiēl and Uzziah, gatekeepers.
-- mt: And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters.
-- brenton: and with them their brethren of the second rank, Zacharias, and Oziel, and Semiramoth, and Jeiel, and Elioel, and Eliab, and Banaia, and Maasaia, and Matthathia, and Eliphena, and Makellia, and Abdedom, and Jeiel, and Ozias, the porters.
 
 ## 1 Samuel 26:5
 - priority: `0`
@@ -12305,6 +12287,15 @@ Rows: 12237
 - mt: Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)
 - brenton: that all the singing Levites assigned to the sons of Asaph, to Æman, to Idithun, and to his sons, and to his brethren, of them that were clothed in linen garments, with cymbals and lutes and harps, were standing before the altar, and with them a hundred and twenty priests, blowing trumpets.
 
+## 1 Chronicles 15:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.193`
+- fresh_brenton_ratio: `0.256`
+- fresh: and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Jehiel and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Jeiel and Uzziah, gatekeepers.
+- mt: And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters.
+- brenton: and with them their brethren of the second rank, Zacharias, and Oziel, and Semiramoth, and Jeiel, and Elioel, and Eliab, and Banaia, and Maasaia, and Matthathia, and Eliphena, and Makellia, and Abdedom, and Jeiel, and Ozias, the porters.
+
 ## 1 Kings 16:34
 - priority: `0`
 - importance: `none`
@@ -12556,6 +12547,15 @@ Rows: 12237
 - fresh: And he built the walls of the house with cedar woods, from the floor of the house to the rafters and to the walls, and he paneled them continuously with woods inside, and he encircled the inside of the house with pine boards.
 - mt: And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the ceiling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir.
 - brenton: And he framed the walls of the house within with cedar boards, from the floor of the house and on to the inner walls and to the beams: he lined the parts enclosed with boards within, and compassed the inward parts of the house with planks of fir.
+
+## 2 Chronicles 31:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.200`
+- fresh_brenton_ratio: `0.300`
+- fresh: And Jehiel and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
+- mt: And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
+- brenton: And Jeiel, and Ozias, and Naeth, and Asael, and Jerimoth, and Jozabad, and Eliel, and Samachia, and Maath, and Banaias, and his sons, were appointed by Chonenias and Semei his brother, as Ezekias the king, and Azarias who was over the house of the Lord commanded.
 
 ## Genesis 13:10
 - priority: `0`
@@ -13952,6 +13952,15 @@ Rows: 12237
 - mt: And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaohnechoh.
 - brenton: And Joakim gave the silver and the gold to Pharao; but he assessed the land to give the money at the command of Pharao: they gave the silver and the gold each man according to his assessment together with the people of the land to give to Pharao Nechao.
 
+## 1 Kings 22:51
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.229`
+- fresh_brenton_ratio: `0.903`
+- fresh: And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Jehoram his son reigned in place of him.
+- mt: Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
+- brenton: And Josaphat slept with his fathers, and was buried by his fathers in the city of David his father, and Joram his son reigned in his stead.
+
 ## 2 Chronicles 2:9
 - priority: `0`
 - importance: `none`
@@ -14059,15 +14068,6 @@ Rows: 12237
 - fresh: If the God of my father Abraham and the Fear of Isaac had not been mine, now you would have sent me away empty. God saw my humiliation and the labor of my hands and rebuked you yesterday.
 - mt: Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely you had sent me away now empty. God has seen mine affliction and the labour of my hands, and rebuked you last night.
 - brenton: Unless I had the God of my father Abraam, and the fear of Isaac, now thou wouldest have sent me away empty; God saw my humiliation, and the labour of my hands, and rebuked thee yesterday.
-
-## 1 Kings 22:51
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.231`
-- fresh_brenton_ratio: `0.895`
-- fresh: And Iosaphat slept with his fathers and was buried with his fathers in the City of David his father, and Iōram his son reigned in place of him.
-- mt: Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
-- brenton: And Josaphat slept with his fathers, and was buried by his fathers in the city of David his father, and Joram his son reigned in his stead.
 
 ## Deuteronomy 4:6
 - priority: `0`
@@ -15409,15 +15409,6 @@ Rows: 12237
 - fresh: and Esebon and its surrounding lands, and Iazer and its surrounding lands.
 - mt: And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
 - brenton: and Esebon and her suburbs, and Jazer and her suburbs.
-
-## 1 Chronicles 16:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.256`
-- fresh_brenton_ratio: `0.759`
-- fresh: Asaph leader, and second to him Zacharias, Iiēl, Semiramoth, Iiēl, Mattathias, Eliab, and Banaias and Abdedom and Iiēl with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
-- mt: Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
-- brenton: Asaph was the chief, and next to him Zacharias, Jeiel, Semiramoth, and Jeiel, Mattathias, Eliab, and Banæas, and Abdedom: and Jeiel sounding with musical instruments, lutes and harps, and Asaph with cymbals:
 
 ## Exodus 8:12
 - priority: `0`
@@ -17750,15 +17741,6 @@ Rows: 12237
 - mt: The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
 - brenton: And every man and woman whose mind inclined them to come in and do all the works as many as the Lord appointed them to do by Moses—they the children of Israel brought an offering to the Lord.
 
-## 2 Chronicles 22:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.296`
-- fresh_brenton_ratio: `0.389`
-- fresh: And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Iōram king of Judah reigned.
-- mt: And the inhabitants of Jerusalem made Ahaziah his youngest son king in his position: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
-- brenton: And the inhabitants of Jerusalem made Ochozias his youngest son king in his stead: for the band of robbers that came against them, even the Arabians and the Alimazonians, had slain all the elder ones. So Ochozias son of Joram king of Juda reigned.
-
 ## 1 Kings 20:15
 - priority: `0`
 - importance: `none`
@@ -17854,7 +17836,7 @@ Rows: 12237
 - importance: `none`
 - fresh_mt_ratio: `0.299`
 - fresh_brenton_ratio: `0.333`
-- fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Iōram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
+- fresh: And the rest of the matters of Ochozias, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Iosaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
 - mt: Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
 
@@ -20918,6 +20900,15 @@ Rows: 12237
 - mt: In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.
 - brenton: In those days I saw in Juda men treading wine-presses on the sabbath, and carrying sheaves, and loading asses with both wine, and grapes, and figs, and every kind of burden, and bringing them into Jerusalem on the sabbath-day:
 
+## 2 Chronicles 22:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.351`
+- fresh_brenton_ratio: `0.445`
+- fresh: And inhabitants of Jerusalem made Ochozias his son, youngest, king in his place, because raiding band that came upon them, Arabs and Alimazones, killed all elders. And Ochozias son of Jehoram king of Judah reigned.
+- mt: And the inhabitants of Jerusalem made Ahaziah his youngest son king in his position: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
+- brenton: And the inhabitants of Jerusalem made Ochozias his youngest son king in his stead: for the band of robbers that came against them, even the Arabians and the Alimazonians, had slain all the elder ones. So Ochozias son of Joram king of Juda reigned.
+
 ## 1 Chronicles 9:19
 - priority: `0`
 - importance: `none`
@@ -23348,15 +23339,6 @@ Rows: 12237
 - mt: And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.
 - brenton: And the herald of the army stood at sunset, saying, Let every man go to his own city and his own land,
 
-## 2 Chronicles 17:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.398`
-- fresh_brenton_ratio: `0.888`
-- fresh: and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests.
-- mt: And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
-- brenton: And with them were the Levites, Samaias, and Nathanias, and Zabdias, and Asiel, and Semiramoth, and Jonathan, and Adonias, and Tobias, and Tobadonias, Levites, and with them Elisama and Joram, the priests.
-
 ## 1 Kings 7:36
 - priority: `0`
 - importance: `none`
@@ -23518,6 +23500,15 @@ Rows: 12237
 - fresh: And they came to him and said, Here we are, your suppliants.
 - mt: And his brethren also went and fell down before his face; and they said, Behold, we be your servants.
 - brenton: And they came to him and said, We, these persons, are thy servants.
+
+## 1 Chronicles 16:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.403`
+- fresh_brenton_ratio: `0.798`
+- fresh: Asaph leader, and second to him Zacharias, Jeiel, Semiramoth, Jehiel, Mattathias, Eliab, and Banaias and Abdedom and Jeiel with instruments, harps and lyres, and Asaph sounding aloud with cymbals,
+- mt: Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
+- brenton: Asaph was the chief, and next to him Zacharias, Jeiel, Semiramoth, and Jeiel, Mattathias, Eliab, and Banæas, and Abdedom: and Jeiel sounding with musical instruments, lutes and harps, and Asaph with cymbals:
 
 ## Exodus 37:10
 - priority: `0`
@@ -25939,6 +25930,15 @@ Rows: 12237
 - fresh: And Sapphin and Apphin and sons of Raōm: his son Aēr.
 - mt: Shuppim also, and Huppim, the children of Ir, and Hushim, the sons of Aher.
 - brenton: And Sapphin, and Apphin, and the sons of Or, Asom, whose son was Aor.
+
+## 2 Chronicles 17:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.459`
+- fresh_brenton_ratio: `0.894`
+- fresh: and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Jehoram, the priests.
+- mt: And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
+- brenton: And with them were the Levites, Samaias, and Nathanias, and Zabdias, and Asiel, and Semiramoth, and Jonathan, and Adonias, and Tobias, and Tobadonias, Levites, and with them Elisama and Joram, the priests.
 
 ## Deuteronomy 11:17
 - priority: `0`
@@ -34490,15 +34490,6 @@ Rows: 12237
 - mt: And if a man lie with a beast, he shall surely be put to death: and all of you shall slay the beast.
 - brenton: And whosoever shall lie with a beast, let him die the death; and ye shall kill the beast.
 
-## 2 Chronicles 21:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.581`
-- fresh_brenton_ratio: `0.557`
-- fresh: And Iōram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
-- mt: Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and stroke the Edomites which compassed him in, and the captains of the chariots.
-- brenton: And Joram went with the princes, and all the cavalry with him: and it came to pass that he arose by night, and smote Edom that compassed him about, and the captains of the chariots, and the people fled to their tents.
-
 ## Leviticus 26:39
 - priority: `0`
 - importance: `none`
@@ -37073,6 +37064,15 @@ Rows: 12237
 - mt: Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
 - brenton: Let whatever is in the decree of the God of heaven, be done: take heed lest any one make an attack on the house of the God of heaven, lest at any time there should be wrath against the realm of the king and his sons.
 
+## 2 Chronicles 21:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.601`
+- fresh_brenton_ratio: `0.564`
+- fresh: And Jehoram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
+- mt: Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and stroke the Edomites which compassed him in, and the captains of the chariots.
+- brenton: And Joram went with the princes, and all the cavalry with him: and it came to pass that he arose by night, and smote Edom that compassed him about, and the captains of the chariots, and the people fled to their tents.
+
 ## Numbers 10:5
 - priority: `0`
 - importance: `none`
@@ -39377,15 +39377,6 @@ Rows: 12237
 - mt: Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:
 - brenton: Asiedoth, and her villages, and her hamlets; Gaza, and its villages and its hamlets as far as the river of Egypt, and the great sea is the boundary.
 
-## 2 Chronicles 23:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.616`
-- fresh_brenton_ratio: `0.568`
-- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
-- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
-- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
-
 ## 2 Chronicles 12:12
 - priority: `0`
 - importance: `none`
@@ -39880,15 +39871,6 @@ Rows: 12237
 - fresh: And if you say in your mind, This nation is more numerous than I. How shall I be able to utterly destroy them?
 - mt: If you shall say in yours heart, These nations are more than I; how can I dispossess them?
 - brenton: But if thou shouldest say in thine heart, This nation is greater than I, how shall I be able to destroy them utterly?
-
-## 2 Chronicles 21:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.619`
-- fresh_brenton_ratio: `0.717`
-- fresh: And Iōram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
-- mt: Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and divers also of the princes of Israel.
-- brenton: And Joram entered upon his kingdom, and strengthened himself, and slew all his brothers with the sword, and some of the princes of Israel.
 
 ## Exodus 23:7
 - priority: `0`
@@ -42653,15 +42635,6 @@ Rows: 12237
 - mt: And if any man's seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.
 - brenton: And the man whose seed of copulation shall happen to go forth from him, shall then wash his whole body, and shall be unclean until evening.
 
-## 2 Chronicles 21:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.635`
-- fresh_brenton_ratio: `0.642`
-- fresh: And Lord stirred up against Iōram Philistines and Arabs and neighbors of Aithiopians.
-- mt: Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians:
-- brenton: So the Lord stirred up the Philistines against Joram, and the Arabians, and those who bordered on the Æthiopians:
-
 ## Numbers 11:10
 - priority: `0`
 - importance: `none`
@@ -42985,6 +42958,15 @@ Rows: 12237
 - fresh: Fathers shall not die for children, and sons shall not die for fathers. Each one shall die in his own sin.
 - mt: The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.
 - brenton: The fathers shall not be put to death for the children, and the sons shall not be put to death for the fathers; every one shall be put to death for his own sin.
+
+## 2 Chronicles 21:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.636`
+- fresh_brenton_ratio: `0.727`
+- fresh: And Jehoram rose over his kingdom and grew strong and killed all his brothers with sword, and also from rulers of Israel.
+- mt: Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and divers also of the princes of Israel.
+- brenton: And Joram entered upon his kingdom, and strengthened himself, and slew all his brothers with the sword, and some of the princes of Israel.
 
 ## Numbers 24:20
 - priority: `0`
@@ -44920,15 +44902,6 @@ Rows: 12237
 - fresh: and he set it for Iakob as ordinance, for Israel as everlasting covenant,
 - mt: And has confirmed the same to Jacob for a law, and to Israel for an everlasting covenant,
 - brenton: He confirmed it to Jacob for an ordinance, to Israel as an everlasting covenant,
-
-## 2 Chronicles 22:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.646`
-- fresh_brenton_ratio: `0.762`
-- fresh: And from God came destruction of Ochozias by coming to Iōram. And when he came, Iōram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
-- mt: And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.
-- brenton: And destruction from God came upon Ochozias in his coming to Joram; for when he had come, Joram went out with him against Jeu the son of Namessei, the anointed of the Lord against the house of Achaab.
 
 ## Leviticus 4:3
 - priority: `0`
@@ -47324,6 +47297,15 @@ Rows: 12237
 - mt: So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
 - brenton: So Banæas son of Jodae went up, and attacked him, and slew him, and buried him in his house in the wilderness.
 
+## 2 Chronicles 22:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.657`
+- fresh_brenton_ratio: `0.785`
+- fresh: And from God came destruction of Ochozias by coming to Joram. And when he came, Joram went out with him toward Iou son of Namessi, anointed of Lord, against house of Ahab.
+- mt: And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.
+- brenton: And destruction from God came upon Ochozias in his coming to Joram; for when he had come, Joram went out with him against Jeu the son of Namessei, the anointed of the Lord against the house of Achaab.
+
 ## 2 Samuel 8:11
 - priority: `0`
 - importance: `none`
@@ -48233,15 +48215,6 @@ Rows: 12237
 - mt: And it came to pass, when the king had heard the words of the law, that he rent his clothes.
 - brenton: And it came to pass, when the king heard the words of the law, that he rent his garments.
 
-## 2 Kings 3:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.662`
-- fresh_brenton_ratio: `0.800`
-- fresh: And King Iōram went out on that day from Samaria and reviewed Israel.
-- mt: And king Jehoram went out of Samaria the same time, and numbered all Israel.
-- brenton: And king Joram went forth in that day out of Samaria, and numbered Israel.
-
 ## Joshua 10:38
 - priority: `0`
 - importance: `none`
@@ -48926,6 +48899,15 @@ Rows: 12237
 - mt: But I have built an house of habitation for you, and a place for your dwelling for ever.
 - brenton: But I have built a house to thy name, holy to thee, and prepared for thee to dwell in for ever.
 
+## 2 Chronicles 23:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.602`
+- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Jeroham and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
+- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
+
 ## 1 Kings 11:12
 - priority: `0`
 - importance: `none`
@@ -49006,6 +48988,15 @@ Rows: 12237
 - fresh: They chose new gods, like barley bread. A shield, if I should see, or spear among forty thousand?
 - mt: They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?
 - brenton: They chose new gods; then the cities of rulers fought; there was not a shield or spear seen among forty thousand in Israel.
+
+## 2 Chronicles 21:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.646`
+- fresh: And Lord stirred up against Jehoram Philistines and Arabs and neighbors of Aithiopians.
+- mt: Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians:
+- brenton: So the Lord stirred up the Philistines against Joram, and the Arabians, and those who bordered on the Æthiopians:
 
 ## Deuteronomy 22:20
 - priority: `0`
@@ -49906,15 +49897,6 @@ Rows: 12237
 - fresh: The nakedness of your father's sister you shall not uncover, for she is your father's close kin.
 - mt: You shall not uncover the nakedness of your father's sister: she is your father's near kinswoman.
 - brenton: Thou shalt not uncover the nakedness of thy father's sister, for she is near akin to thy father.
-
-## 1 Chronicles 26:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.670`
-- fresh_brenton_ratio: `0.622`
-- fresh: Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Iiēl.
-- mt: As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.
-- brenton: These were the sons of Ladan, the sons of the Gersonite: to Ladan belonged the heads of the families: the son of Ladan the Gersonite was Jeiel.
 
 ## 1 Kings 19:19
 - priority: `0`
@@ -52508,15 +52490,6 @@ Rows: 12237
 - mt: One spoon of gold of ten shekels, full of incense:
 - brenton: One censer of ten golden shekels, full of incense.
 
-## 1 Chronicles 15:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.680`
-- fresh_brenton_ratio: `0.845`
-- fresh: Zacharias and Uzziel, Semiramoth, Iiēl, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
-- mt: And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
-- brenton: Zacharias, and Oziel, Semiramoth, Jeiel, Oni, Eliab, Maasæas, Banæas, with lutes, on alæmoth.
-
 ## 2 Samuel 23:12
 - priority: `0`
 - importance: `none`
@@ -53821,15 +53794,6 @@ Rows: 12237
 - fresh: Only springs of waters and cisterns and gatherings of water shall be clean, but the one touching their carcasses shall be unclean.
 - mt: Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which touches their carcass shall be unclean.
 - brenton: Only if the water be of fountains of water, or a pool, or confluence of water, it shall be clean; but he that touches their carcases shall be unclean.
-
-## 1 Chronicles 26:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.685`
-- fresh_brenton_ratio: `0.714`
-- fresh: And for his brother Eliezer: Raabias his son, and Iōsaias and Iōram and Zechri and Salōmōth.
-- mt: And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
-- brenton: And Rabias was son to his brother Eliezer, and so was Josias, and Joram, and Zechri, and Salomoth.
 
 ## 1 Samuel 25:11
 - priority: `0`
@@ -55414,6 +55378,15 @@ Rows: 12237
 - fresh: And Saarim begot in the plain of Moab after sending away Ousim and Baada his wives.
 - mt: And Shaharaim brings forth children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
 - brenton: And Saarin begot children in the plain of Moab, after that he had sent away Osin and Baada his wives.
+
+## 2 Kings 3:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.690`
+- fresh_brenton_ratio: `0.829`
+- fresh: And King Joram went out on that day from Samaria and reviewed Israel.
+- mt: And king Jehoram went out of Samaria the same time, and numbered all Israel.
+- brenton: And king Joram went forth in that day out of Samaria, and numbered Israel.
 
 ## Joshua 10:25
 - priority: `0`
@@ -59528,6 +59501,15 @@ Rows: 12237
 - mt: And Pharaoh said unto him, Get you from me, take heed to yourself, see my face no more; for in that day you see my face you shall die.
 - brenton: And Pharao says, Depart from me, beware of seeing my face again, for in what day thou shalt appear before me, thou shalt die.
 
+## 1 Chronicles 26:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.704`
+- fresh_brenton_ratio: `0.736`
+- fresh: And for his brother Eliezer: Raabias his son, and Iōsaias and Joram and Zechri and Salōmōth.
+- mt: And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
+- brenton: And Rabias was son to his brother Eliezer, and so was Josias, and Joram, and Zechri, and Salomoth.
+
 ## Nehemiah 3:18
 - priority: `0`
 - importance: `none`
@@ -60706,6 +60688,15 @@ Rows: 12237
 - fresh: Solomon father of Baithlaem, Arim father of Baithgedor.
 - mt: Salma the father of Bethlehem, Hareph the father of Bethgader.
 - brenton: Salomon the father of Bætha, Lammon the father of Bæthalaem, and Arim the father of Bethgedor.
+
+## 1 Chronicles 26:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.708`
+- fresh_brenton_ratio: `0.640`
+- fresh: Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gērsōnite: Jehieli.
+- mt: As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.
+- brenton: These were the sons of Ladan, the sons of the Gersonite: to Ladan belonged the heads of the families: the son of Ladan the Gersonite was Jeiel.
 
 ## Judges 6:19
 - priority: `0`
@@ -64208,15 +64199,6 @@ Rows: 12237
 - mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisur the son of Sediur.
 
-## 2 Chronicles 22:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.719`
-- fresh_brenton_ratio: `0.777`
-- fresh: And in their counsels he walked and went with Iōram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Iōram.
-- mt: He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians stroke Joram.
-- brenton: And he walked in their counsels, and he went with Joram son of Achaab king of Israel to war against Azael king of Syria to Ramoth Galaad: and the archers smote Joram.
-
 ## 1 Kings 1:12
 - priority: `0`
 - importance: `none`
@@ -66885,8 +66867,8 @@ Rows: 12237
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.727`
-- fresh_brenton_ratio: `0.688`
-- fresh: And lot toward east fell to Salamia, and to Zacharia son of Iōas, to Melchia, they cast lots, and his lot came out north.
+- fresh_brenton_ratio: `0.696`
+- fresh: And lot toward east fell to Salamia, and to Zacharia son of Joas, to Melchia, they cast lots, and his lot came out north.
 - mt: And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward.
 - brenton: And the lot of the east gates fell to Selemias, and Zacharias: the sons of Soaz cast lots for Melchias, and the lot came out northward.
 
@@ -68095,6 +68077,15 @@ Rows: 12237
 - fresh: And it happened after these matters, the chief cupbearer of the king of Egypt and the chief baker sinned against their lord, the king of Egypt.
 - mt: And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 - brenton: And it came to pass after these things, that the chief cupbearer of the king of Egypt and the chief baker trespassed against their lord the king of Egypt.
+
+## 1 Chronicles 15:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.731`
+- fresh_brenton_ratio: `0.871`
+- fresh: Zacharias and Uzziel, Semiramoth, Jehiel, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
+- mt: And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
+- brenton: Zacharias, and Oziel, Semiramoth, Jeiel, Oni, Eliab, Maasæas, Banæas, with lutes, on alæmoth.
 
 ## 1 Samuel 30:18
 - priority: `0`
@@ -72479,6 +72470,15 @@ Rows: 12237
 - mt: And Israel vowed a vow unto the LORD, and said, If you will indeed deliver this people into my hand, then I will utterly destroy their cities.
 - brenton: And Israel vowed a vow to the Lord, and said, If thou wilt deliver this people into my power, I will devote it and its cities to thee.
 
+## 2 Chronicles 22:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.745`
+- fresh_brenton_ratio: `0.804`
+- fresh: And in their counsels he walked and went with Joram son of Ahab to war against Azaēl king of Syria at Rama Galaad, and archers struck Joram.
+- mt: He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians stroke Joram.
+- brenton: And he walked in their counsels, and he went with Joram son of Achaab king of Israel to war against Azael king of Syria to Ramoth Galaad: and the archers smote Joram.
+
 ## Genesis 24:8
 - priority: `0`
 - importance: `none`
@@ -73135,15 +73135,6 @@ Rows: 12237
 - fresh: And the men of the city said to him on the seventh day before the sun went down, What is sweeter than honey, and what is stronger than a lion? And Samson said to them, If you had not plowed with my heifer, you would not have found my riddle.
 - mt: And the men of the city said unto him on the seventh day before the sun went down, What is sweeter than honey? And what is stronger than a lion? and he said unto them, If all of you had not plowed with my heifer, all of you had not found out my riddle.
 - brenton: And the men of the city said to him on the seventh day, before sunrise, What is sweeter than honey? and what is stronger than a lion? and Sampson said to them, If ye had not ploughed with my heifer, ye would not have known my riddle.
-
-## 1 Chronicles 27:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.748`
-- fresh_brenton_ratio: `0.667`
-- fresh: And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Iiēl son of Achamani was with sons of king.
-- mt: Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
-- brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
 
 ## Judges 5:16
 - priority: `0`
@@ -74413,15 +74404,6 @@ Rows: 12237
 - fresh: And Baasa slept with his fathers and was buried in Thersa, and Ela his son reigned in place of him in the twentieth year of king Asa.
 - mt: So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his position.
 - brenton: And Baasa slept with his fathers, and they bury him in Thersa; and Ela his son reigns in his stead.
-
-## 1 Chronicles 15:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.751`
-- fresh_brenton_ratio: `0.750`
-- fresh: And Mattathias and Eliphalias and Makenias and Abdedom and Iiēl and Uzziah with lyres on the eighth, to lead strongly.
-- mt: And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
-- brenton: And Mattathias, and Eliphalu, and Makenia, and Abdedom, and Jeiel, and Ozias, with harps of Amasenith, to make a loud noise.
 
 ## Exodus 40:13
 - priority: `0`
@@ -77906,15 +77888,6 @@ Rows: 12237
 - mt: And Isaiah said, This sign shall you have of the LORD, that the LORD will do the thing that he has spoken: shall the shadow go forward ten degrees, or go back ten degrees?
 - brenton: And Esaias said, This is the sign from the Lord, that the Lord will perform the word which he has spoken, the shadow of the dial shall advance ten degrees: or if it should go back ten degrees this would also be the sign.
 
-## 2 Chronicles 21:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.650`
-- fresh: Iōram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
-- mt: Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
-- brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
-
 ## Genesis 14:20
 - priority: `0`
 - importance: `none`
@@ -79651,15 +79624,6 @@ Rows: 12237
 - fresh: If these die by the death of all people, and if their visitation is according to the visitation of all people, then the Lord has not sent me.
 - mt: If these men die the common death of all men, or if they be visited after the visitation of all men; then the LORD has not sent me.
 - brenton: If these men shall die according to the death of all men, if also their visitation shall be according to the visitation of all men, then the Lord has not sent me.
-
-## 2 Chronicles 29:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.767`
-- fresh_brenton_ratio: `0.824`
-- fresh: and from sons of Haiman, Iiēl and Semei, and from sons of Idithōn, Samaias and Uzziel.
-- mt: And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
-- brenton: and of the sons of Æman; Jeiel, and Semei: and of the sons of Idithun; Samaias, and Oziel.
 
 ## Genesis 41:22
 - priority: `0`
@@ -81947,6 +81911,15 @@ Rows: 12237
 - mt: Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 - brenton: Now let alone the work of the house of God: let the rulers of the Jews and the elders of the Jews build that house of God on its place.
 
+## 1 Chronicles 15:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.774`
+- fresh_brenton_ratio: `0.773`
+- fresh: And Mattathias and Eliphalias and Makenias and Abdedom and Jeiel and Uzziah with lyres on the eighth, to lead strongly.
+- mt: And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
+- brenton: And Mattathias, and Eliphalu, and Makenia, and Abdedom, and Jeiel, and Ozias, with harps of Amasenith, to make a loud noise.
+
 ## Judges 8:16
 - priority: `0`
 - importance: `none`
@@ -82198,6 +82171,15 @@ Rows: 12237
 - fresh: And sons of Balla, Rachel's servant-girl: Dan and Naphtali.
 - mt: And the sons of Bilhah, Rachel's handmaid; Dan, and Naphtali:
 - brenton: And the sons of Balla, the hand-maid of Rachel; Dan and Nephthalim.
+
+## 1 Chronicles 27:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.775`
+- fresh_brenton_ratio: `0.678`
+- fresh: And Ionathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Achamani was with sons of king.
+- mt: Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
+- brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
 
 ## Genesis 2:6
 - priority: `0`
@@ -84017,15 +83999,6 @@ Rows: 12237
 - mt: And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hates her;
 - brenton: And the father of the damsel shall say to the elders, I gave this my daughter to this man for a wife;
 
-## 1 Chronicles 27:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.781`
-- fresh_brenton_ratio: `0.797`
-- fresh: for Dan, Azaraiēl son of Iōram. These were patriarchs of tribes of Israel.
-- mt: Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.
-- brenton: for Dan, Azariel the son of Iroab: these are the chiefs of the tribes of Israel.
-
 ## 1 Kings 15:11
 - priority: `0`
 - importance: `none`
@@ -85150,15 +85123,6 @@ Rows: 12237
 - fresh: And they put him under guard, for they had not judged what should be done to him.
 - mt: And they put him in ward, because it was not declared what should be done to him.
 - brenton: And they placed him in custody, for they did not determine what they should do to him.
-
-## 1 Chronicles 29:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.785`
-- fresh_brenton_ratio: `0.726`
-- fresh: And those with whom stone was found gave it to treasuries of house of Lord by hand of Iiēl the Gērsōnite.
-- mt: And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite.
-- brenton: And they who had precious stone, gave it into the treasuries of the house of the Lord by the hand of Jeiel the Gedsonite.
 
 ## Judges 6:38
 - priority: `0`
@@ -86311,15 +86275,6 @@ Rows: 12237
 - fresh: and four hundred golden pomegranates for two nets, two sets of pomegranates on one net to cover two bowl-capitals which were above pillars,
 - mt: And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the capitals which were upon the pillars.
 - brenton: and four hundred golden bells for the two nets, and two rows of pomegranates in each net, to cover the two embossed rims of the chapiters which are upon the pillars.
-
-## 1 Chronicles 23:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.789`
-- fresh_brenton_ratio: `0.750`
-- fresh: Sons of Edan: chief Iiēl, and Zethom, and Joel, three.
-- mt: The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
-- brenton: The sons of Edan were Jeiel, the chief, and Zethan, and Joel, three.
 
 ## 2 Samuel 1:23
 - priority: `0`
@@ -87860,15 +87815,6 @@ Rows: 12237
 - mt: And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:
 - brenton: And he that offered his gift on the first day, was Naasson the son of Aminadab, prince of the tribe of Juda.
 
-## 1 Chronicles 9:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.794`
-- fresh_brenton_ratio: `0.846`
-- fresh: From the sons of Zara: Iiēl and their brothers, six hundred ninety.
-- mt: And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.
-- brenton: Of the sons of Zara; Jeel, and their brethren, six hundred and ninety.
-
 ## Exodus 30:19
 - priority: `0`
 - importance: `none`
@@ -88265,6 +88211,15 @@ Rows: 12237
 - mt: And now, behold, the children of Ammon and Moab and mount Seir, whom you would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
 - brenton: And now, behold, the children of Ammon, and Moab, and mount Seir, with regard to whom thou didst not permit Israel to pass through their border, when they had come out of the land of Egypt, (for they turned away from them, and did not destroy them;)—
 
+## 2 Chronicles 21:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.796`
+- fresh_brenton_ratio: `0.653`
+- fresh: Jehoram was thirty-two years old when he became king, and eight years he reigned in Jerusalem.
+- mt: Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
+- brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
+
 ## Leviticus 5:13
 - priority: `0`
 - importance: `none`
@@ -88345,15 +88300,6 @@ Rows: 12237
 - fresh: And they rose and fled in the dark and abandoned their tents and their horses and their donkeys, the camp just as it was, and fled for their own life.
 - mt: Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.
 - brenton: And they arose and fled while it was yet dark, and left their tents, and their horses, and their asses in the camp, as they were, and fled for their lives.
-
-## 1 Chronicles 23:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.796`
-- fresh_brenton_ratio: `0.802`
-- fresh: Sons of Semei: Salōmith and Iiēl and Aidan, three. These were chiefs of fathers for Edan.
-- mt: The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.
-- brenton: The sons of Semei; Salomith, Jeiel, and Dan, three: these were the chiefs of the families of Edan.
 
 ## Exodus 18:1
 - priority: `0`
@@ -89993,6 +89939,15 @@ Rows: 12237
 - mt: And you shall put them upon Aaron your brother, and his sons with him; and shall anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest's office.
 - brenton: And thou shalt put them on Aaron thy brother, and his sons with him, and thou shalt anoint them and fill their hands: and thou shalt sanctify them, that they may minister to me in the priest's office.
 
+## 1 Chronicles 23:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.802`
+- fresh_brenton_ratio: `0.831`
+- fresh: Sons of Semei: Salōmith and Jeiel and Aidan, three. These were chiefs of fathers for Edan.
+- mt: The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.
+- brenton: The sons of Semei; Salomith, Jeiel, and Dan, three: these were the chiefs of the families of Edan.
+
 ## 2 Samuel 9:2
 - priority: `0`
 - importance: `none`
@@ -90964,6 +90919,15 @@ Rows: 12237
 - fresh: And he said, What needs to be done for her? And Giezi his servant-boy said, Truly she has no son, and her husband is old.
 - mt: And he said, What then is to be done for her? And Gehazi answered, Verily she has no child, and her husband is old.
 - brenton: And he said to Giezi, What must we do for her? and Giezi his servant said, Indeed she has no son, and her husband is old.
+
+## 2 Chronicles 29:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.850`
+- fresh: and from sons of Haiman, Jehiel and Semei, and from sons of Idithōn, Samaias and Uzziel.
+- mt: And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
+- brenton: and of the sons of Æman; Jeiel, and Semei: and of the sons of Idithun; Samaias, and Oziel.
 
 ## Numbers 29:29
 - priority: `0`
@@ -92477,15 +92441,6 @@ Rows: 12237
 - mt: And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
 - brenton: and Azaria the son of Chelcias, the son of Mosollam, the son of Sadoc, the son of Maraïoth, the son of Achitob, the ruler of the house of God;
 
-## 2 Chronicles 29:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.811`
-- fresh_brenton_ratio: `0.871`
-- fresh: and from sons of Elisaphan, Sambri and Iiēl, and from sons of Asaph, Zacharias and Maththanias,
-- mt: And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:
-- brenton: And of the sons of Elisaphan; Zambri, and Jeiel: and of the sons of Asaph; Zacharias, and Matthanias:
-
 ## Joshua 22:3
 - priority: `0`
 - importance: `none`
@@ -92584,6 +92539,15 @@ Rows: 12237
 - fresh: And he said, O Lord, my rock and my fortress and my rescuer for me,
 - mt: And he said, The LORD is my rock, and my fortress, and my deliverer;
 - brenton: And the song was thus:
+
+## 1 Chronicles 29:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.812`
+- fresh_brenton_ratio: `0.747`
+- fresh: And those with whom stone was found gave it to treasuries of house of Lord by hand of Jehiel the Gērsōnite.
+- mt: And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite.
+- brenton: And they who had precious stone, gave it into the treasuries of the house of the Lord by the hand of Jeiel the Gedsonite.
 
 ## Genesis 34:26
 - priority: `0`
@@ -93350,15 +93314,6 @@ Rows: 12237
 - mt: And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
 - brenton: even that for which king Solomon built a ship in Gasion Gaber near Ælath on the shore of the extremity of the sea in the land of Edom.
 
-## 1 Chronicles 26:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.815`
-- fresh_brenton_ratio: `0.769`
-- fresh: And sons of Iiēl, Zethom and Joel his brother, were over treasuries of house of Lord.
-- mt: The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD.
-- brenton: The sons of Jeiel were Zethom, and Joel; brethren who were over the treasures of the house of the Lord.
-
 ## 2 Kings 20:10
 - priority: `0`
 - importance: `none`
@@ -93593,15 +93548,6 @@ Rows: 12237
 - mt: And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, You see the shadow of the mountains as if they were men.
 - brenton: And Gaal the son of Jobel saw the people, and said to Zebul, Behold, a people comes down from the top of the mountains: and Zebul said to him, Thou seest the shadow of the mountains as men.
 
-## 1 Chronicles 11:44
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.815`
-- fresh_brenton_ratio: `0.908`
-- fresh: Ozia the Astarothite, Samma and Iiēl sons of Chothan the Hararite,
-- mt: Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,
-- brenton: Ozia the Astarothite, Samatha and Jeiel sons of Chotham the Ararite,
-
 ## 2 Kings 19:18
 - priority: `0`
 - importance: `none`
@@ -93799,15 +93745,6 @@ Rows: 12237
 - fresh: the blessing, if you hear the commands of the Lord your God that I command you today,
 - mt: A blessing, if all of you obey the commandments of the LORD your God, which I command you this day:
 - brenton: the blessing, if ye hearken to the commands of the Lord your God, all that I command you this day;
-
-## 2 Kings 3:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.816`
-- fresh_brenton_ratio: `0.902`
-- fresh: And Iōram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
-- mt: Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
-- brenton: And Joram the son of Achaab began to reign in Israel in the eighteenth year of Josaphat king of Juda, and he reigned twelve years.
 
 ## 2 Samuel 10:14
 - priority: `0`
@@ -94042,15 +93979,6 @@ Rows: 12237
 - fresh: from sons of Elisaphan, Samaias chief, and his brothers, two hundred;
 - mt: Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:
 - brenton: Of the sons of Elisaphat; Semei the chief, and his brethren, two hundred.
-
-## 2 Chronicles 21:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.818`
-- fresh_brenton_ratio: `0.813`
-- fresh: And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Iōram, because he was firstborn.
-- mt: And their father gave them great gifts of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram; because he was the firstborn.
-- brenton: And their father gave them many gifts, silver, and gold, and arms, together with fortified cities in Juda: but he gave the kingdom to Joram, for he was the first-born.
 
 ## Exodus 20:8
 - priority: `0`
@@ -95518,6 +95446,15 @@ Rows: 12237
 - fresh: but to the sons of his concubines Abraham gave gifts and sent them away from Isaac his son, while he was still alive, eastward into the eastern land.
 - mt: But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
 - brenton: But to the sons of his concubines Abraam gave gifts, and he sent them away from his son Isaac, while he was yet living, to the east into the country of the east.
+
+## 1 Chronicles 27:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.824`
+- fresh_brenton_ratio: `0.787`
+- fresh: for Dan, Azaraiēl son of Jeroham. These were patriarchs of tribes of Israel.
+- mt: Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.
+- brenton: for Dan, Azariel the son of Iroab: these are the chiefs of the tribes of Israel.
 
 ## Numbers 21:27
 - priority: `0`
@@ -97400,6 +97337,15 @@ Rows: 12237
 - mt: Then came all the tribes of Israel to David unto Hebron, and spoke, saying, Behold, we are your bone and your flesh.
 - brenton: And all the tribes of Israel come to David to Chebron, and they said to him, Behold, we are thy bone and thy flesh.
 
+## 2 Kings 3:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.831`
+- fresh_brenton_ratio: `0.918`
+- fresh: And Joram son of Ahab reigned in Israel in the eighteenth year of Iosaphat king of Judah, and he reigned twelve years.
+- mt: Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
+- brenton: And Joram the son of Achaab began to reign in Israel in the eighteenth year of Josaphat king of Juda, and he reigned twelve years.
+
 ## Joshua 14:13
 - priority: `0`
 - importance: `none`
@@ -98642,6 +98588,15 @@ Rows: 12237
 - mt: And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar.
 - brenton: And Adonias feared because of Solomon, and arose, and departed, and laid hold on the horns of the altar.
 
+## 2 Chronicles 21:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.838`
+- fresh_brenton_ratio: `0.821`
+- fresh: And their father gave them many gifts, silver and gold and weapons, with fortified cities in Judah, but kingdom he gave to Jehoram, because he was firstborn.
+- mt: And their father gave them great gifts of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram; because he was the firstborn.
+- brenton: And their father gave them many gifts, silver, and gold, and arms, together with fortified cities in Juda: but he gave the kingdom to Joram, for he was the first-born.
+
 ## Genesis 3:10
 - priority: `0`
 - importance: `none`
@@ -99010,6 +98965,15 @@ Rows: 12237
 - fresh: And these shall stand for the curse on Mount Gaibal: Reuben, Gad, and Asher, Zebulun, Dan, and Naphtali.
 - mt: And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
 - brenton: And these shall stand for cursing on mount Gæbal; Ruben, Gad, and Aser, Zabulon, Dan, and Nephthali.
+
+## 2 Chronicles 29:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.839`
+- fresh_brenton_ratio: `0.898`
+- fresh: and from sons of Elisaphan, Sambri and Jeiel, and from sons of Asaph, Zacharias and Maththanias,
+- mt: And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:
+- brenton: And of the sons of Elisaphan; Zambri, and Jeiel: and of the sons of Asaph; Zacharias, and Matthanias:
 
 ## Exodus 17:7
 - priority: `0`
@@ -100073,6 +100037,15 @@ Rows: 12237
 - mt: Remember the days of old, consider the years of many generations: ask your father, and he will show you; your elders, and they will tell you.
 - brenton: Remember the days of old, consider the years for past ages: ask thy father, and he shall relate to thee, thine elders, and they shall tell thee.
 
+## 1 Chronicles 23:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.737`
+- fresh: Sons of Edan: chief Jehiel, and Zethom, and Joel, three.
+- mt: The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
+- brenton: The sons of Edan were Jeiel, the chief, and Zethan, and Joel, three.
+
 ## Judges 9:34
 - priority: `0`
 - importance: `none`
@@ -100369,6 +100342,15 @@ Rows: 12237
 - fresh: And Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen, and he placed them in cities of chariots, and people were with king in Jerusalem.
 - mt: And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.
 - brenton: And Solomon collected chariots and horsemen: and he had fourteen hundred chariots, and twelve thousand horsemen: and he set them in the cities of chariots, and the people were with the king in Jerusalem.
+
+## 1 Chronicles 9:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.847`
+- fresh_brenton_ratio: `0.885`
+- fresh: From the sons of Zara: Jeuel and their brothers, six hundred ninety.
+- mt: And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.
+- brenton: Of the sons of Zara; Jeel, and their brethren, six hundred and ninety.
 
 ## Genesis 36:37
 - priority: `0`
@@ -101963,6 +101945,15 @@ Rows: 12237
 - mt: And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
 - brenton: And Barac called Zabulon and Nephthali out of Cades, and there went up at his feet ten thousand men, and Debbora went up with him.
 
+## 1 Chronicles 26:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.856`
+- fresh_brenton_ratio: `0.789`
+- fresh: And sons of Jehieli, Zethom and Joel his brother, were over treasuries of house of Lord.
+- mt: The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD.
+- brenton: The sons of Jeiel were Zethom, and Joel; brethren who were over the treasures of the house of the Lord.
+
 ## Deuteronomy 3:4
 - priority: `0`
 - importance: `none`
@@ -102907,6 +102898,15 @@ Rows: 12237
 - fresh: Then Moses went down from the mountain to the people and sanctified them, and they washed their garments.
 - mt: And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.
 - brenton: And Moses went down from the mountain to the people, and sanctified them, and they washed their clothes.
+
+## 1 Chronicles 11:44
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.861`
+- fresh_brenton_ratio: `0.939`
+- fresh: Ozia the Astarothite, Samma and Jehiel sons of Chothan the Hararite,
+- mt: Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,
+- brenton: Ozia the Astarothite, Samatha and Jeiel sons of Chotham the Ararite,
 
 ## Numbers 27:9
 - priority: `0`
@@ -104213,15 +104213,6 @@ Rows: 12237
 - mt: And the LORD heard the voice of your words, and was angry, and swore, saying,
 - brenton: And the Lord heard the voice of your words, and being greatly provoked he sware, saying,
 
-## 2 Chronicles 21:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.871`
-- fresh_brenton_ratio: `0.919`
-- fresh: And he had brothers, sons of Jehoshaphat: Azarias and Iiēl and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
-- mt: And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel.
-- brenton: And he had brothers, the six sons of Josaphat, Azarias, and Jeiel, and Zacharias, and Azarias, and Michael, and Zaphatias: all these were the sons of Josaphat king of Juda.
-
 ## Exodus 21:6
 - priority: `0`
 - importance: `none`
@@ -104752,15 +104743,6 @@ Rows: 12237
 - fresh: And he said, I will go out and be lying spirit in mouth of all his prophets. And he said, You shall deceive and you shall be able; go out and do so.
 - mt: And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And the Lord said, You shall entice him, and you shall also prevail: go out, and do even so.
 - brenton: And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And the Lord said, Thou shalt deceive him, and shalt prevail: go forth, and do so.
-
-## 2 Chronicles 21:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.875`
-- fresh_brenton_ratio: `0.857`
-- fresh: And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Iōram his son reigned in his place.
-- mt: Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his position.
-- brenton: And Josaphat slept with his fathers, and was buried in the city of David: and Joran his son reigned in his stead.
 
 ## 2 Chronicles 3:16
 - priority: `0`
@@ -106400,6 +106382,15 @@ Rows: 12237
 - mt: And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his position.
 - brenton: And Ju slept with his fathers; and they buried him in Samaria: and Joachaz his son reigned in his stead.
 
+## 2 Chronicles 21:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.890`
+- fresh_brenton_ratio: `0.932`
+- fresh: And he had brothers, sons of Jehoshaphat: Azarias and Jehiel and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
+- mt: And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel.
+- brenton: And he had brothers, the six sons of Josaphat, Azarias, and Jeiel, and Zacharias, and Azarias, and Michael, and Zaphatias: all these were the sons of Josaphat king of Juda.
+
 ## Numbers 3:1
 - priority: `0`
 - importance: `none`
@@ -106984,6 +106975,15 @@ Rows: 12237
 - fresh: And Moses said to the congregation, This is the word that the Lord commanded to be done.
 - mt: And Moses said unto the congregation, This is the thing which the LORD commanded to be done.
 - brenton: And Moses said to the congregation, This is the thing which the Lord has commanded you to do.
+
+## 2 Chronicles 21:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.898`
+- fresh_brenton_ratio: `0.867`
+- fresh: And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Jehoram his son reigned in his place.
+- mt: Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his position.
+- brenton: And Josaphat slept with his fathers, and was buried in the city of David: and Joran his son reigned in his stead.
 
 ## Exodus 15:24
 - priority: `0`
