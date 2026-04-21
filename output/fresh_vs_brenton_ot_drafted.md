@@ -196649,7 +196649,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Go away, Daniel, because the commands are hidden and sealed until...
+- fresh: And he said to me, Go away, Daniel, because the commands are hidden and sealed until
 - brenton: [missing]
 
 ### Daniel 12:10

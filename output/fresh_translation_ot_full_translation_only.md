@@ -89146,7 +89146,7 @@ And I heard and did not understand from him the time, and I said, Lord, what is 
 
 **Daniel 12:9**
 
-And he said to me, Go away, Daniel, because the commands are hidden and sealed until...
+And he said to me, Go away, Daniel, because the commands are hidden and sealed until
 
 **Daniel 12:10**
 
