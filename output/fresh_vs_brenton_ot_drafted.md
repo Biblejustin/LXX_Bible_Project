@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 15752
-- medium: 1642
-- low: 5523
+- high: 15932
+- medium: 1603
+- low: 5382
 - none: 0
 
 Note:
@@ -140739,603 +140739,603 @@ Note:
 
 ### Psalms 108:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let his sons become orphans and his wife widow.
 - brenton: [missing]
 
 ### Psalms 108:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Trembling, let his sons wander and beg; let them be cast out from their homesteads.
 - brenton: [missing]
 
 ### Psalms 108:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let lender search out all things he has; let strangers plunder his labors.
 - brenton: [missing]
 
 ### Psalms 108:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let there be no supporter for him, nor let there be one compassionate to his orphans.
 - brenton: [missing]
 
 ### Psalms 108:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let his children be for destruction; in one generation let his name be blotted out.
 - brenton: [missing]
 
 ### Psalms 108:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let lawlessness of his fathers be remembered before Lord, and sin of his mother let it not be blotted out.
 - brenton: [missing]
 
 ### Psalms 108:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them be before Lord continually, and let their memory be destroyed from earth,
 - brenton: [missing]
 
 ### Psalms 108:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he did not remember to do mercy and pursued poor and needy man and one pierced in heart to kill.
 - brenton: [missing]
 
 ### Psalms 108:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he loved curse, and it will come to him; and he did not want blessing, and it will be far from him.
 - brenton: [missing]
 
 ### Psalms 108:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he clothed himself with curse like garment, and it entered like water into his inward parts and like oil into his bones.
 - brenton: [missing]
 
 ### Psalms 108:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let it become to him like garment he wraps around and like belt which he girds continually.
 - brenton: [missing]
 
 ### Psalms 108:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This work of those slandering me from Lord and of those speaking evil against my soul.
 - brenton: [missing]
 
 ### Psalms 108:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord, Lord, deal mercifully with me for sake of your name, because your mercy kind.
 - brenton: [missing]
 
 ### Psalms 108:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me, because I poor and needy, and my heart troubled within me.
 - brenton: [missing]
 
 ### Psalms 108:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like shadow in its decline I was taken away; I was shaken out like locusts.
 - brenton: [missing]
 
 ### Psalms 108:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My knees grew weak from fasting, and my flesh was changed away from oil.
 - brenton: [missing]
 
 ### Psalms 108:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I became reproach to them; they saw me and shook their heads.
 - brenton: [missing]
 
 ### Psalms 108:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Help me, Lord my God; save me according to your mercy.
 - brenton: [missing]
 
 ### Psalms 108:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let them know that this your hand, and you, Lord, did it.
 - brenton: [missing]
 
 ### Psalms 108:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will curse, but you will bless; those rising against me let them be shamed, but your servant will rejoice.
 - brenton: [missing]
 
 ### Psalms 108:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those slandering me be clothed in shame and wrap their shame around themselves like double-cloak.
 - brenton: [missing]
 
 ### Psalms 108:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to Lord exceedingly with my mouth, and in midst of many I will praise him,
 - brenton: [missing]
 
 ### Psalms 108:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he stood at right hand of poor man to save from those pursuing my soul.
 - brenton: [missing]
 
 ### Psalms 109:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David. Psalm. Lord said to my Lord, Sit at my right hand until I place your enemies footstool of your feet.
 - brenton: [missing]
 
 ### Psalms 109:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will send rod of your power from Zion, and rule in midst of your enemies.
 - brenton: [missing]
 
 ### Psalms 109:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With you beginning in day of your power, in splendors of holy ones; from womb before morning-star I begot you.
 - brenton: [missing]
 
 ### Psalms 109:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord swore and will not regret, You priest forever according to order of Melchizedek.
 - brenton: [missing]
 
 ### Psalms 109:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord at your right hand crushed kings in day of his anger.
 - brenton: [missing]
 
 ### Psalms 109:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will judge among nations, he will fill corpses, he will crush heads over land of many.
 - brenton: [missing]
 
 ### Psalms 109:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From torrent in way he will drink; therefore he will lift up head.
 - brenton: [missing]
 
 ### Psalms 110:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. I will confess to you, Lord, with whole heart, in council of straight ones and gathering.
 - brenton: [missing]
 
 ### Psalms 110:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great works of Lord, sought out for all his wills.
 - brenton: [missing]
 
 ### Psalms 110:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Confession and magnificence his work, and his righteousness remains forever and ever.
 - brenton: [missing]
 
 ### Psalms 110:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made remembrance of his wonders; merciful and compassionate Lord.
 - brenton: [missing]
 
 ### Psalms 110:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He gave food to those fearing him; he will remember his covenant forever.
 - brenton: [missing]
 
 ### Psalms 110:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He declared strength of his works to his people, to give them inheritance of nations.
 - brenton: [missing]
 
 ### Psalms 110:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Works of his hands truth and judgment; all his commandments faithful,
 - brenton: [missing]
 
 ### Psalms 110:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: established forever and ever, done in truth and uprightness.
 - brenton: [missing]
 
 ### Psalms 110:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent redemption to his people; he commanded his covenant forever; holy and fearful his name.
 - brenton: [missing]
 
 ### Psalms 110:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beginning of wisdom fear of Lord; good understanding to all doing it; his praise remains forever and ever.
 - brenton: [missing]
 
 ### Psalms 111:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Blessed man fearing Lord; in his commandments he will desire greatly.
 - brenton: [missing]
 
 ### Psalms 111:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His seed will be mighty in earth; generation of straight ones will be blessed.
 - brenton: [missing]
 
 ### Psalms 111:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Glory and wealth in his house, and his righteousness remains forever and ever.
 - brenton: [missing]
 
 ### Psalms 111:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Light rose in darkness for straight ones, merciful and compassionate and righteous.
 - brenton: [missing]
 
 ### Psalms 111:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good man, one showing compassion and lending, will manage his matters in judgment,
 - brenton: [missing]
 
 ### Psalms 111:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because forever he will not be shaken; righteous one will be in everlasting remembrance.
 - brenton: [missing]
 
 ### Psalms 111:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From evil report he will not fear; his heart ready to hope upon Lord.
 - brenton: [missing]
 
 ### Psalms 111:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His heart is established; he will not fear until he looks upon his enemies.
 - brenton: [missing]
 
 ### Psalms 111:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He scattered, he gave to poor ones; his righteousness remains forever and ever; his horn will be exalted in glory.
 - brenton: [missing]
 
 ### Psalms 111:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish.
 - brenton: [missing]
 
 ### Psalms 112:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Praise, servants, Lord; praise name of Lord.
 - brenton: [missing]
 
 ### Psalms 112:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let name of Lord be blessed from now and until age.
 - brenton: [missing]
 
 ### Psalms 112:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From risings of sun until settings, praise name of Lord.
 - brenton: [missing]
 
 ### Psalms 112:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: High over all nations Lord, above heavens his glory.
 - brenton: [missing]
 
 ### Psalms 112:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who like Lord our God, one dwelling in heights,
 - brenton: [missing]
 
 ### Psalms 112:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and watching low things in heaven and on earth,
 - brenton: [missing]
 
 ### Psalms 112:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one raising poor from earth and lifting needy from dung-heap,
 - brenton: [missing]
 
 ### Psalms 112:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to make him sit with rulers, with rulers of his people,
 - brenton: [missing]
 
 ### Psalms 112:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one settling barren woman in house, joyful mother of children.
 - brenton: [missing]
 
 ### Psalms 113:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. In Israel going out from Egypt, house of Jacob from barbarous people,
 - brenton: [missing]
 
 ### Psalms 113:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Judea became his sanctuary, Israel his authority.
 - brenton: [missing]
 
 ### Psalms 113:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sea saw and fled; Jordan turned backward.
 - brenton: [missing]
 
 ### Psalms 113:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains skipped like rams, and hills like lambs of sheep.
 - brenton: [missing]
 
 ### Psalms 113:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What is with you, sea, that you fled, and you, Jordan, that you turned back?
 - brenton: [missing]
 
 ### Psalms 113:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains, why did you skip like rams, and hills like lambs of sheep?
 - brenton: [missing]
 
 ### Psalms 113:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From face of Lord earth was shaken, from face of God of Jacob,
 - brenton: [missing]
 
 ### Psalms 113:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who turned rock into pools of waters and flint into springs of waters.
 - brenton: [missing]
@@ -141351,1017 +141351,1017 @@ Note:
 
 ### Psalms 113:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lest nations say, Where is their God?
 - brenton: [missing]
 
 ### Psalms 113:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But our God above in heaven, in heavens and on earth, all things whatever he wanted he did.
 - brenton: [missing]
 
 ### Psalms 113:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Idols of nations silver and gold, works of hands of men.
 - brenton: [missing]
 
 ### Psalms 113:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They have mouth and will not speak, eyes and will not see,
 - brenton: [missing]
 
 ### Psalms 113:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: they have ears and will not hear, noses and will not smell,
 - brenton: [missing]
 
 ### Psalms 113:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: they have hands and will not feel, feet and will not walk; they will not make sound in their throat.
 - brenton: [missing]
 
 ### Psalms 113:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those making them become like them, and all trusting on them.
 - brenton: [missing]
 
 ### Psalms 113:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of Israel hoped on Lord; he their helper and defender.
 - brenton: [missing]
 
 ### Psalms 113:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of Aaron hoped on Lord; he their helper and defender.
 - brenton: [missing]
 
 ### Psalms 113:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those fearing Lord hoped on Lord; he their helper and defender.
 - brenton: [missing]
 
 ### Psalms 113:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord remembered us and blessed us; he blessed house of Israel, he blessed house of Aaron.
 - brenton: [missing]
 
 ### Psalms 113:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He blessed those fearing Lord, small with great.
 - brenton: [missing]
 
 ### Psalms 113:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May Lord add upon you, upon you and upon your sons.
 - brenton: [missing]
 
 ### Psalms 113:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed you by Lord, who made heaven and earth.
 - brenton: [missing]
 
 ### Psalms 113:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heaven of heaven belongs to Lord, but earth he gave to sons of men.
 - brenton: [missing]
 
 ### Psalms 113:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Dead ones will not praise you, Lord, nor all going down into Hades.
 - brenton: [missing]
 
 ### Psalms 113:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But we living ones will bless Lord from now and until age.
 - brenton: [missing]
 
 ### Psalms 114:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. I loved because Lord will hear voice of my supplication,
 - brenton: [missing]
 
 ### Psalms 114:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he inclined his ear to me, and in my days I will call upon him.
 - brenton: [missing]
 
 ### Psalms 114:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pangs of death surrounded me, dangers of Hades found me; affliction and pain I found.
 - brenton: [missing]
 
 ### Psalms 114:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And name of Lord I called upon: O Lord, rescue my soul.
 - brenton: [missing]
 
 ### Psalms 114:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Merciful Lord and righteous, and our God shows mercy.
 - brenton: [missing]
 
 ### Psalms 114:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord guarding little ones; I was humbled, and he saved me.
 - brenton: [missing]
 
 ### Psalms 114:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Return, my soul, into your rest, because Lord benefited you.
 - brenton: [missing]
 
 ### Psalms 114:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he delivered my soul from death, my eyes from tears, and my feet from stumbling.
 - brenton: [missing]
 
 ### Psalms 114:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will be well-pleasing before Lord in land of living ones.
 - brenton: [missing]
 
 ### Psalms 115:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. I believed, therefore I spoke; but I was humbled greatly.
 - brenton: [missing]
 
 ### Psalms 115:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said in my ecstasy, Every man liar.
 - brenton: [missing]
 
 ### Psalms 115:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What will I repay to Lord for all things he repaid me?
 - brenton: [missing]
 
 ### Psalms 115:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cup of salvation I will take, and name of Lord I will call upon.
 - brenton: [missing]
 
 ### Psalms 115:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Precious before Lord death of his holy ones.
 - brenton: [missing]
 
 ### Psalms 115:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O Lord, I your servant, I your servant and son of your handmaid; you tore apart my bonds.
 - brenton: [missing]
 
 ### Psalms 115:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To you I will sacrifice sacrifice of praise.
 - brenton: [missing]
 
 ### Psalms 115:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My vows to Lord I will pay before all his people,
 - brenton: [missing]
 
 ### Psalms 115:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in courts of house of Lord, in your midst, Jerusalem.
 - brenton: [missing]
 
 ### Psalms 116:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Praise Lord, all nations; praise him, all peoples,
 - brenton: [missing]
 
 ### Psalms 116:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because his mercy was strengthened upon us, and truth of Lord remains forever.
 - brenton: [missing]
 
 ### Psalms 117:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Confess to Lord, because good, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 117:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let house of Israel say now that he good, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 117:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let house of Aaron say now that he good, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 117:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all fearing Lord say now that he good, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 117:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In affliction I called on Lord, and he heard me into broad place.
 - brenton: [missing]
 
 ### Psalms 117:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord helper to me; I will not fear what man will do to me.
 - brenton: [missing]
 
 ### Psalms 117:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord helper to me, and I will look upon my enemies.
 - brenton: [missing]
 
 ### Psalms 117:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better to trust upon Lord than to trust upon man.
 - brenton: [missing]
 
 ### Psalms 117:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better to hope upon Lord than to hope upon rulers.
 - brenton: [missing]
 
 ### Psalms 117:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All nations surrounded me, and in name of Lord I drove them off.
 - brenton: [missing]
 
 ### Psalms 117:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Surrounding, they surrounded me, and in name of Lord I drove them off.
 - brenton: [missing]
 
 ### Psalms 117:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They surrounded me like bees round honeycomb and were burned like fire in thorns, and in name of Lord I drove them off.
 - brenton: [missing]
 
 ### Psalms 117:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pushed, I was overturned to fall, and Lord took hold of me.
 - brenton: [missing]
 
 ### Psalms 117:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My strength and my hymn Lord, and he became to me for salvation.
 - brenton: [missing]
 
 ### Psalms 117:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of exultation and salvation in tents of righteous ones; right hand of Lord did mighty deed.
 - brenton: [missing]
 
 ### Psalms 117:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Right hand of Lord lifted me up; right hand of Lord did mighty deed.
 - brenton: [missing]
 
 ### Psalms 117:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will not die, but live, and recount works of Lord.
 - brenton: [missing]
 
 ### Psalms 117:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Disciplining, Lord disciplined me, and to death he did not hand me over.
 - brenton: [missing]
 
 ### Psalms 117:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Open to me gates of righteousness; entering through them I will confess to Lord.
 - brenton: [missing]
 
 ### Psalms 117:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This gate of Lord; righteous ones will enter through it.
 - brenton: [missing]
 
 ### Psalms 117:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to you because you heard me and became to me for salvation.
 - brenton: [missing]
 
 ### Psalms 117:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Stone which builders rejected, this became head of corner.
 - brenton: [missing]
 
 ### Psalms 117:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From Lord this came to be, and it wondrous in our eyes.
 - brenton: [missing]
 
 ### Psalms 117:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This day which Lord made; let us exult and rejoice in it.
 - brenton: [missing]
 
 ### Psalms 117:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O Lord, save indeed; O Lord, prosper indeed.
 - brenton: [missing]
 
 ### Psalms 117:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed one coming in name of Lord; we blessed you from house of Lord.
 - brenton: [missing]
 
 ### Psalms 117:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God Lord and he appeared to us; arrange feast with dense branches, up to horns of altar.
 - brenton: [missing]
 
 ### Psalms 117:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You my God, and I will confess to you; you my God, and I will exalt you; I will confess to you because you heard me and became to me for salvation.
 - brenton: [missing]
 
 ### Psalms 117:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Confess to Lord, because good, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 118:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Aleph. Blessed blameless ones in way, those walking in law of Lord.
 - brenton: [missing]
 
 ### Psalms 118:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed those searching out his testimonies; with whole heart they will seek him.
 - brenton: [missing]
 
 ### Psalms 118:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For those working lawlessness did not walk in his ways.
 - brenton: [missing]
 
 ### Psalms 118:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You commanded your commandments to be kept exceedingly.
 - brenton: [missing]
 
 ### Psalms 118:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Would that my ways be directed to keep your ordinances.
 - brenton: [missing]
 
 ### Psalms 118:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then I will certainly not be ashamed when I look upon all your commandments.
 - brenton: [missing]
 
 ### Psalms 118:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to you, Lord, in uprightness of heart when I learn judgments of your righteousness.
 - brenton: [missing]
 
 ### Psalms 118:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your ordinances I will keep; do not forsake me exceedingly.
 - brenton: [missing]
 
 ### Psalms 118:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beth. In what will young man set straight his way? In keeping your words.
 - brenton: [missing]
 
 ### Psalms 118:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With whole heart I sought you; do not push me away from your commandments.
 - brenton: [missing]
 
 ### Psalms 118:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In my heart I hid your sayings so that I might not sin against you.
 - brenton: [missing]
 
 ### Psalms 118:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed are you, Lord; teach me your ordinances.
 - brenton: [missing]
 
 ### Psalms 118:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With my lips I declared all judgments of your mouth.
 - brenton: [missing]
 
 ### Psalms 118:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In way of your testimonies I delighted as over all wealth.
 - brenton: [missing]
 
 ### Psalms 118:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your commandments I will muse and perceive your ways.
 - brenton: [missing]
 
 ### Psalms 118:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your ordinances I will meditate; I will not forget your words.
 - brenton: [missing]
 
 ### Psalms 118:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gimel. Repay your servant; I will live and keep your words.
 - brenton: [missing]
 
 ### Psalms 118:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Uncover my eyes, and I will perceive wonders from your law.
 - brenton: [missing]
 
 ### Psalms 118:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am sojourner in earth; do not hide your commandments from me.
 - brenton: [missing]
 
 ### Psalms 118:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul longed to desire your judgments at every time.
 - brenton: [missing]
 
 ### Psalms 118:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You rebuked proud ones; cursed those turning away from your commandments.
 - brenton: [missing]
 
 ### Psalms 118:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take away from me reproach and contempt, because I searched out your testimonies.
 - brenton: [missing]
 
 ### Psalms 118:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For rulers also sat and spoke against me, but your servant mused in your ordinances.
 - brenton: [missing]
 
 ### Psalms 118:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For indeed your testimonies my meditation and your ordinances my counselors.
 - brenton: [missing]
 
 ### Psalms 118:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daleth. My soul clung to ground; make me live according to your word.
 - brenton: [missing]
 
 ### Psalms 118:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I declared my ways, and you heard me; teach me your ordinances.
 - brenton: [missing]
 
 ### Psalms 118:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make me understand way of your ordinances, and I will muse in your wonders.
 - brenton: [missing]
 
 ### Psalms 118:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul dripped from faintheartedness; confirm me in your words.
 - brenton: [missing]
 
 ### Psalms 118:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remove way of injustice from me, and in your law have mercy on me.
 - brenton: [missing]
 
 ### Psalms 118:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Way of truth I chose; your judgments I did not forget.
 - brenton: [missing]
 
 ### Psalms 118:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I clung to your testimonies, Lord; do not shame me.
 - brenton: [missing]
 
 ### Psalms 118:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Way of your commandments I ran when you widened my heart.
 - brenton: [missing]
 
 ### Psalms 118:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He. Give law to me, Lord, way of your ordinances, and I will seek it continually.
 - brenton: [missing]
 
 ### Psalms 118:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make me understand, and I will search out your law and keep it with whole heart.
 - brenton: [missing]
 
 ### Psalms 118:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guide me in path of your commandments, because I wanted it.
 - brenton: [missing]
 
 ### Psalms 118:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Incline my heart to your testimonies and not to greed.
 - brenton: [missing]
 
 ### Psalms 118:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn away my eyes from seeing vanity; in your way make me live.
 - brenton: [missing]
 
 ### Psalms 118:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Establish for your servant your saying toward your fear.
 - brenton: [missing]
 
 ### Psalms 118:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take away my reproach which I suspected, because your judgments kind.
 - brenton: [missing]
 
 ### Psalms 118:40
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I desired your commandments; in your righteousness make me live.
 - brenton: [missing]
 
 ### Psalms 118:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Waw. And let your mercy come upon me, Lord, your salvation according to your saying.
 - brenton: [missing]
 
 ### Psalms 118:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will answer a word to those reproaching me, because I hoped upon your words.
 - brenton: [missing]
 
 ### Psalms 118:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not take word of truth from my mouth exceedingly, because I hoped upon your judgments.
 - brenton: [missing]
 
 ### Psalms 118:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will keep your law continually, forever and forever of forever.
 - brenton: [missing]
 
 ### Psalms 118:45
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I was walking in broad place, because I searched out your commandments.
 - brenton: [missing]
 
 ### Psalms 118:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I was speaking in your testimonies before kings, and I was not ashamed.
 - brenton: [missing]
 
 ### Psalms 118:47
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I meditated on your commandments, which I loved exceedingly.
 - brenton: [missing]
