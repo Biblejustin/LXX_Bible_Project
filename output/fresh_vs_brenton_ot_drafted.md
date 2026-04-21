@@ -36502,7 +36502,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
+- fresh: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because we are certainly able to prevail against them.
 - brenton: And Chaleb stayed the people from speaking before Moses, and said to him, Nay, but we will go up by all means, and will inherit it, for we shall surely prevail against them.
 
 ### Numbers 13:31
@@ -48294,7 +48294,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: if you listen to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
+- fresh: if you listen so as to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
 - brenton: if thou shalt hearken to do all these commands, which I charge thee this day, to love the Lord thy God, to walk in all his ways continually; thou shalt add for thyself yet three cities to these three.
 
 ### Deuteronomy 19:10
@@ -50580,7 +50580,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you do not listen to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
+- fresh: If you do not listen so as to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
 - brenton: If thou wilt not hearken to do all the words of this law, which have been written in this book, to fear this glorious and wonderful name, the Lord thy God;
 
 ### Deuteronomy 28:59
@@ -51219,7 +51219,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will hear to do all the words of this law.
+- fresh: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will listen so as to do all the words of this law.
 - brenton: having assembled the people, the men, and the women, and the children, and the stranger that is in your cities, that they may hear, and that they may learn to fear the Lord your God; and they shall hearken to do all the words of this law.
 
 ### Deuteronomy 31:13
@@ -156425,7 +156425,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Toil of fools will weary them, because one did not know to go into city.
+- fresh: Toil of fools will weary them, because one did not know how to go into a city.
 - brenton: [missing]
 
 ### Ecclesiastes 10:16
@@ -165312,7 +165312,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will lead blind in way they did not know and paths they did not know to tread I will make for them. I will make darkness to them into light and crooked things into straight. These words I will do and not abandon them.
+- fresh: And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make darkness for them into light and crooked things into straight. These words I will do and not abandon them.
 - brenton: [missing]
 
 ### Isaiah 42:17
@@ -165807,7 +165807,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not know to understand, because they were darkened from seeing with their eyes and from perceiving with their heart.
+- fresh: They did not know how to understand, because they were darkened from seeing with their eyes and from perceiving with their heart.
 - brenton: [missing]
 
 ### Isaiah 44:19
@@ -167715,7 +167715,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, all are blinded; they did not know to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
+- fresh: See, all are blinded; they did not know how to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
 - brenton: [missing]
 
 ### Isaiah 56:11
@@ -169400,7 +169400,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, O Master Lord, see, I do not know to speak, because I am younger one.
+- fresh: And I said, O Master Lord, see, I do not know how to speak, because I am younger one.
 - brenton: [missing]
 
 ### Jeremiah 1:7
@@ -178463,7 +178463,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they turned to me back and not face, and I taught them rising early and teaching, and they did not hear to receive discipline.
+- fresh: And they turned to me back and not face, and I taught them rising early and teaching, and they did not listen so as to receive discipline.
 - brenton: [missing]
 
 ### Jeremiah 39:34

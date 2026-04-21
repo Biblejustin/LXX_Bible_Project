@@ -4939,8 +4939,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.009`
-- fresh_brenton_ratio: `0.631`
-- fresh: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will hear to do all the words of this law.
+- fresh_brenton_ratio: `0.620`
+- fresh: Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will listen so as to do all the words of this law.
 - mt: Gather the people together, men and women, and children, and your stranger that is within your gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
 - brenton: having assembled the people, the men, and the women, and the children, and the stranger that is in your cities, that they may hear, and that they may learn to fear the Lord your God; and they shall hearken to do all the words of this law.
 
@@ -40296,15 +40296,6 @@ Method:
 - mt: They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin.
 - brenton: and using the bow with the right hand and with the left, and slingers with stones, and shooters with bows. Of the brethren of Saul of Benjamin,
 
-### Numbers 13:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.596`
-- fresh_brenton_ratio: `0.713`
-- fresh: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
-- mt: And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
-- brenton: And Chaleb stayed the people from speaking before Moses, and said to him, Nay, but we will go up by all means, and will inherit it, for we shall surely prevail against them.
-
 ### Genesis 21:31
 - priority: `0`
 - importance: `none`
@@ -51141,6 +51132,15 @@ Method:
 - mt: As yet exalt you yourself against my people, that you will not let them go?
 - brenton: Dost thou then yet exert thyself to hinder my people, so as not to let them go?
 
+### Numbers 13:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.657`
+- fresh_brenton_ratio: `0.720`
+- fresh: And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because we are certainly able to prevail against them.
+- mt: And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
+- brenton: And Chaleb stayed the people from speaking before Moses, and said to him, Nay, but we will go up by all means, and will inherit it, for we shall surely prevail against them.
+
 ### Leviticus 20:13
 - priority: `0`
 - importance: `none`
@@ -61221,6 +61221,15 @@ Method:
 - mt: Then Achish gave him Ziklag that day: wherefore Ziklag pertains unto the kings of Judah unto this day.
 - brenton: And he gave him Sekelac in that day: therefore Sekelac came into possession of the king of Judea to this day.
 
+### Deuteronomy 19:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.697`
+- fresh_brenton_ratio: `0.765`
+- fresh: if you listen so as to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
+- mt: If you shall keep all these commandments to do them, which I command you this day, to love the LORD your God, and to walk ever in his ways; then shall you add three cities more for you, beside these three:
+- brenton: if thou shalt hearken to do all these commands, which I charge thee this day, to love the Lord thy God, to walk in all his ways continually; thou shalt add for thyself yet three cities to these three.
+
 ### 1 Chronicles 27:8
 - priority: `0`
 - importance: `none`
@@ -64739,15 +64748,6 @@ Method:
 - fresh: And the chief of the fathers' house of the clans of Kohath was Elisaphan son of Oziel.
 - mt: And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.
 - brenton: And the chief of the house of the families of the divisions of Caath, was Elisaphan the son of Oziel.
-
-### Deuteronomy 19:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.708`
-- fresh_brenton_ratio: `0.777`
-- fresh: if you listen to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
-- mt: If you shall keep all these commandments to do them, which I command you this day, to love the LORD your God, and to walk ever in his ways; then shall you add three cities more for you, beside these three:
-- brenton: if thou shalt hearken to do all these commands, which I charge thee this day, to love the Lord thy God, to walk in all his ways continually; thou shalt add for thyself yet three cities to these three.
 
 ### Deuteronomy 33:7
 - priority: `0`
@@ -89085,6 +89085,15 @@ Method:
 - mt: And he sent messengers unto Abimelech privately, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against you.
 - brenton: And he sent messengers to Abimelech secretly, saying, Behold, Gaal the son of Jobel and his brethren are come to Sychem; and behold, they have besieged the city against thee.
 
+### Deuteronomy 28:58
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.785`
+- fresh_brenton_ratio: `0.787`
+- fresh: If you do not listen so as to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
+- mt: If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, THE LORD Your GOD;
+- brenton: If thou wilt not hearken to do all the words of this law, which have been written in this book, to fear this glorious and wonderful name, the Lord thy God;
+
 ### 2 Chronicles 33:1
 - priority: `0`
 - importance: `none`
@@ -93530,15 +93539,6 @@ Method:
 - fresh: And if someone would give this people into my hand, then I would remove Abimelech, and I would say to Abimelech, Increase your force and come out.
 - mt: And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase yours army, and come out.
 - brenton: And would that this people were under my hand! then would I remove Abimelech, and I would say to him, Multiply thy host, and come out.
-
-### Deuteronomy 28:58
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.801`
-- fresh_brenton_ratio: `0.804`
-- fresh: If you do not listen to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
-- mt: If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, THE LORD Your GOD;
-- brenton: If thou wilt not hearken to do all the words of this law, which have been written in this book, to fear this glorious and wonderful name, the Lord thy God;
 
 ### Genesis 26:20
 - priority: `0`

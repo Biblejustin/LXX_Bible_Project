@@ -16480,7 +16480,7 @@ And Amalek dwells in the land toward the south, and the Hittite and the Hivite a
 
 **Numbers 13:30**
 
-And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because being able, we shall be able against them.
+And Caleb silenced the people before Moses and said to him, No, but going up, we shall go up and inherit it, because we are certainly able to prevail against them.
 
 **Numbers 13:31**
 
@@ -21806,7 +21806,7 @@ And if the Lord your God enlarges your boundaries in the way he swore to your fa
 
 **Deuteronomy 19:9**
 
-if you listen to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
+if you listen so as to do all these commands that I command you today, to love the Lord your God, to walk in all his ways all the days, then you shall add for yourself three more cities to these three,
 
 **Deuteronomy 19:10**
 
@@ -22840,7 +22840,7 @@ and her afterbirth that came out through her thighs and the child that she bears
 
 **Deuteronomy 28:58**
 
-If you do not listen to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
+If you do not listen so as to do all the words of this law written in this book, to fear this honored and wondrous name, the Lord your God,
 
 **Deuteronomy 28:59**
 
@@ -23130,7 +23130,7 @@ when all Israel comes to appear before the Lord your God in the place that the L
 
 **Deuteronomy 31:12**
 
-Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will hear to do all the words of this law.
+Assemble the people, the men and the women and the children and the proselyte in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will listen so as to do all the words of this law.
 
 **Deuteronomy 31:13**
 
@@ -70876,7 +70876,7 @@ And fool multiplies words; man does not know what has happened, and what will be
 
 **Ecclesiastes 10:15**
 
-Toil of fools will weary them, because one did not know to go into city.
+Toil of fools will weary them, because one did not know how to go into a city.
 
 **Ecclesiastes 10:16**
 
@@ -74932,7 +74932,7 @@ And I will make rivers into islands and marshes I will dry up.
 
 **Isaiah 42:16**
 
-And I will lead blind in way they did not know and paths they did not know to tread I will make for them. I will make darkness to them into light and crooked things into straight. These words I will do and not abandon them.
+And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make darkness for them into light and crooked things into straight. These words I will do and not abandon them.
 
 **Isaiah 42:17**
 
@@ -75156,7 +75156,7 @@ But remainder he made into carved god and worships it and prays, saying, Deliver
 
 **Isaiah 44:18**
 
-They did not know to understand, because they were darkened from seeing with their eyes and from perceiving with their heart.
+They did not know how to understand, because they were darkened from seeing with their eyes and from perceiving with their heart.
 
 **Isaiah 44:19**
 
@@ -76028,7 +76028,7 @@ All wild beasts, come eat, all beasts of forest.
 
 **Isaiah 56:10**
 
-See, all are blinded; they did not know to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
+See, all are blinded; they did not know how to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
 
 **Isaiah 56:11**
 
@@ -76800,7 +76800,7 @@ Before I formed you in womb I knew you, and before you came out from womb I sanc
 
 **Jeremiah 1:6**
 
-And I said, O Master Lord, see, I do not know to speak, because I am younger one.
+And I said, O Master Lord, see, I do not know how to speak, because I am younger one.
 
 **Jeremiah 1:7**
 
@@ -80904,7 +80904,7 @@ because of all evils of sons of Israel and Judah which they did to provoke me, t
 
 **Jeremiah 39:33**
 
-And they turned to me back and not face, and I taught them rising early and teaching, and they did not hear to receive discipline.
+And they turned to me back and not face, and I taught them rising early and teaching, and they did not listen so as to receive discipline.
 
 **Jeremiah 39:34**
 
