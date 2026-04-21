@@ -4836,24 +4836,6 @@ Method:
 - mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-### 2 Kings 17:34
-- priority: `31`
-- importance: `high`
-- fresh_mt_ratio: `0.029`
-- fresh_brenton_ratio: `0.192`
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
-- mt: Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
-- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
-
-### 2 Chronicles 33:16
-- priority: `31`
-- importance: `high`
-- fresh_mt_ratio: `0.721`
-- fresh_brenton_ratio: `0.824`
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
-- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
 ### Deuteronomy 16:2
 - priority: `31`
 - importance: `high`
@@ -4935,6 +4917,15 @@ Method:
 - mt: Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
+### 2 Chronicles 33:16
+- priority: `29`
+- importance: `high`
+- fresh_mt_ratio: `0.721`
+- fresh_brenton_ratio: `0.824`
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
+- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
 ### 2 Chronicles 7:14
 - priority: `28`
 - importance: `high`
@@ -4961,6 +4952,15 @@ Method:
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - mt: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+### Isaiah 12:2
+- priority: `27`
+- importance: `high`
+- fresh_mt_ratio: `0.573`
+- fresh_brenton_ratio: `0.773`
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
+- mt: Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.
+- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ### Leviticus 4:35
 - priority: `26`
@@ -5061,6 +5061,15 @@ Method:
 - mt: And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.
 - brenton: And he shall offer up all his fat on the altar, as the fat of the sacrifice of peace-offering; and the priest shall make atonement for him concerning his sin, and it shall be forgiven him.
 
+### 2 Kings 17:34
+- priority: `23`
+- importance: `high`
+- fresh_mt_ratio: `0.012`
+- fresh_brenton_ratio: `0.012`
+- fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
+- mt: Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
+
 ### Amos 9:12
 - priority: `23`
 - importance: `high`
@@ -5079,15 +5088,6 @@ Method:
 - mt: And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.
 - brenton: And I will bring the third part through the fire, and I will try them as silver is tried, and I will prove them as gold is proved: they shall call upon my name, and I will hear them, and say, This is my people: and they shall say, The Lord is my God.
 
-### Isaiah 12:2
-- priority: `23`
-- importance: `high`
-- fresh_mt_ratio: `0.573`
-- fresh_brenton_ratio: `0.773`
-- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- mt: Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.
-- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
-
 ### Jeremiah 15:16
 - priority: `23`
 - importance: `high`
@@ -5105,6 +5105,15 @@ Method:
 - fresh: Thus says Lord: Keep judgment. Do righteousness, because my salvation draws near to come and my mercy to be revealed.
 - mt: Thus says the LORD, Keep all of you judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
 - brenton: Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my mercy to be revealed.
+
+### Jeremiah 4:2
+- priority: `23`
+- importance: `high`
+- fresh_mt_ratio: `0.745`
+- fresh_brenton_ratio: `0.830`
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
+- mt: And you shall swear, The LORD lives, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.
+- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
 
 ### Leviticus 3:1
 - priority: `23`
@@ -5447,24 +5456,6 @@ Method:
 - fresh: Thus says Lord Almighty: Judge righteous judgment, and do mercy and compassion, each toward his brother.
 - mt: Thus speaks the LORD of hosts, saying, Execute true judgment, and show mercy and compassions every man to his brother:
 - brenton: Thus saith the Lord Almighty;
-
-### Jeremiah 4:2
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.745`
-- fresh_brenton_ratio: `0.830`
-- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
-- mt: And you shall swear, The LORD lives, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.
-- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
-
-### 2 Samuel 14:17
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.769`
-- fresh_brenton_ratio: `0.825`
-- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Samuel 22:51
 - priority: `21`
@@ -5924,6 +5915,15 @@ Method:
 - fresh: On that day, there will be on the horse's bridle: 'Holy to the Lord Almighty,' and the pots in the house of the Lord will be like bowls before the altar.
 - mt: In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD's house shall be like the bowls before the altar.
 - brenton: In that day there shall be upon the bridle of every horse Holiness to the Lord Almighty; and the caldrons in the house of the Lord shall be as bowls before the altar.
+
+### 2 Samuel 14:17
+- priority: `19`
+- importance: `high`
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.825`
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ### 2 Kings 10:31
 - priority: `19`

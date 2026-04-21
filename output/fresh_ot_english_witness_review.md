@@ -27,7 +27,7 @@ Rows: 49
 - differs all: `1`
 - split/mixed: `0`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `keep`
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
@@ -46,36 +46,6 @@ Rows: 49
 - latest review status: `keep`
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Jerusalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharaoh and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Jerusalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharaoh was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Jerusalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
-
-## 2 Chronicles 33:16
-- priority: `31`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `1`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `1`
-- signals: unclear
-- recommendation: `keep`
-- latest review status: `revised`
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
-## 2 Kings 17:34
-- priority: `31`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `0`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `2`
-- split/mixed: `0`
-- signals: unclear
-- recommendation: `needs_logos`
-- latest review status: `revised`
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
-- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## Deuteronomy 16:2
 - priority: `31`
@@ -102,7 +72,7 @@ Rows: 49
 - differs all: `1`
 - split/mixed: `0`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `keep`
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
@@ -132,10 +102,25 @@ Rows: 49
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `revised`
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 2 Chronicles 33:16
+- priority: `29`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `2`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `0`
+- signals: [none]
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## Joshua 22:5
 - priority: `29`
@@ -177,10 +162,25 @@ Rows: 49
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `keep`
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+## Isaiah 12:2
+- priority: `27`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `1`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `1`
+- signals: smoothing_issue, unclear
+- recommendation: `none`
+- latest review status: `revised`
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
+- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Isaiah 54:10
 - priority: `25`
@@ -257,7 +257,7 @@ Rows: 49
 - fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
 
-## Isaiah 12:2
+## 2 Kings 17:34
 - priority: `23`
 - importance: `high`
 - checked witnesses: `2`
@@ -269,8 +269,23 @@ Rows: 49
 - signals: [none]
 - recommendation: `keep`
 - latest review status: `revised`
-- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
+- fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
+
+## Jeremiah 4:2
+- priority: `23`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `1`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `1`
+- signals: unclear
+- recommendation: `none`
+- latest review status: `revised`
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
+- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
 
 ## Leviticus 3:1
 - priority: `23`
@@ -282,7 +297,7 @@ Rows: 49
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `keep`
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
@@ -332,21 +347,6 @@ Rows: 49
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
-## 2 Samuel 14:17
-- priority: `21`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `1`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `1`
-- signals: unclear
-- recommendation: `keep`
-- latest review status: `revised`
-- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
 ## Exodus 28:30
 - priority: `21`
 - importance: `high`
@@ -377,21 +377,6 @@ Rows: 49
 - fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: 
 
-## Jeremiah 4:2
-- priority: `21`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `2`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `0`
-- signals: [none]
-- recommendation: `keep`
-- latest review status: `revised`
-- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
-- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
-
 ## Leviticus 7:32
 - priority: `21`
 - importance: `high`
@@ -417,7 +402,7 @@ Rows: 49
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `revised`
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
@@ -436,6 +421,21 @@ Rows: 49
 - latest review status: `keep`
 - fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
+## 2 Samuel 14:17
+- priority: `19`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `2`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `0`
+- signals: [none]
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## Exodus 24:5
 - priority: `19`
@@ -462,7 +462,7 @@ Rows: 49
 - differs all: `0`
 - split/mixed: `1`
 - signals: unclear
-- recommendation: `keep`
+- recommendation: `none`
 - latest review status: `revised`
 - fresh: Then an angel of the Lord appeared to him in a flame of fire out of the bush. And he saw that the bush burned with fire, but the bush was not being consumed.
 - brenton: And an angel of the Lord appeared to him in flaming fire out of the bush, and he sees that the bush burns with fire,—but the bush was not consumed.

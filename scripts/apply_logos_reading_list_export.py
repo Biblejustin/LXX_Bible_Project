@@ -170,6 +170,20 @@ def add_note(existing: str, note: str) -> str:
     return f"{existing}; {note}"
 
 
+def should_refresh_auto_imported(row: dict[str, str], overwrite: bool) -> bool:
+    if overwrite:
+        return True
+    notes = (row.get("reviewer_notes") or "").lower()
+    return "auto_import=logos_reading_list_export" in notes and "manual" not in notes
+
+
+def set_field(row: dict[str, str], field: str, value: str) -> bool:
+    if (row.get(field) or "") == value:
+        return False
+    row[field] = value
+    return True
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Apply parsed Logos reading-list export to english witness observations.")
     parser.add_argument("--overwrite", action="store_true")
@@ -192,6 +206,7 @@ def main() -> None:
             continue
         matched_refs += 1
         changed = False
+        refresh_auto_import = should_refresh_auto_imported(row, args.overwrite)
         review_row = {"ref": row["ref"]}
 
         for alignment_field, export_field in ALIGNMENT_FIELDS.items():
@@ -204,14 +219,14 @@ def main() -> None:
                 continue
 
             alignment, signal, metrics = classify_alignment(witness_text, row)
-            if args.overwrite or not (row.get(alignment_field) or "").strip():
-                row[alignment_field] = alignment
-                changed = True
-                imported_field_updates += 1
-            if args.overwrite or not (row.get(signal_field) or "").strip():
-                row[signal_field] = signal
-                changed = True
-                imported_field_updates += 1
+            if refresh_auto_import or not (row.get(alignment_field) or "").strip():
+                if set_field(row, alignment_field, alignment):
+                    changed = True
+                    imported_field_updates += 1
+            if refresh_auto_import or not (row.get(signal_field) or "").strip():
+                if set_field(row, signal_field, signal):
+                    changed = True
+                    imported_field_updates += 1
 
             best_label = ""
             best_combo = 0.0
@@ -231,9 +246,12 @@ def main() -> None:
         new_consensus = consensus_for_row(row)
         if new_consensus:
             consensus_counter[new_consensus] += 1
-            if args.overwrite or not (row.get("consensus_recommendation") or "").strip():
-                row["consensus_recommendation"] = new_consensus
-                changed = True
+            if refresh_auto_import or not (row.get("consensus_recommendation") or "").strip():
+                if set_field(row, "consensus_recommendation", new_consensus):
+                    changed = True
+        elif refresh_auto_import and (row.get("consensus_recommendation") or "").strip():
+            row["consensus_recommendation"] = ""
+            changed = True
         review_row["consensus_recommendation"] = new_consensus
 
         if changed:

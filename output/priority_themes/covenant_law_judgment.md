@@ -21,7 +21,7 @@ Books: 35
 
 ## Leviticus 4:31
 - score: 34
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, lord, peace, priest, sacrifice, salvation, sin
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
@@ -146,10 +146,10 @@ Books: 35
 - brenton: But Ju took no heed to walk in the law of the Lord God of Israel with all his heart: he departed not from following the sins of Jeroboam, who made Israel to sin.
 
 ## 2 Kings 17:34
-- score: 31
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
+- fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 2 Kings 18:12
@@ -175,7 +175,7 @@ Books: 35
 
 ## 1 Chronicles 22:19
 - score: 29
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
@@ -412,8 +412,8 @@ Books: 35
 - brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Jeremiah 4:2
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 23
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: god, judgment, lord, righteousness, truth
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.

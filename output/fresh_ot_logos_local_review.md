@@ -31,7 +31,7 @@ Rows: 19
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
 
 ## 2 Chronicles 33:16
-- priority: `31`
+- priority: `29`
 - importance: `high`
 - checked: `1`
 - scopes: soteria-sacrifice-formula

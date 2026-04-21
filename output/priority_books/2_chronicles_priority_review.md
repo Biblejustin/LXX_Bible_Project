@@ -22,13 +22,13 @@ Selected verses: 6
 
 ## 2 Chronicles 12:13
 - score: 30
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
 
 ## 2 Chronicles 33:16
-- score: 31
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- score: 29
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 

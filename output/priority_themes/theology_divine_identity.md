@@ -167,8 +167,8 @@ Books: 38
 - brenton: The Lord will weaken his adversary; the Lord is holy. Let not the wise man boast in his wisdom, nor let the mighty man boast in his strength, and let not the rich man boast in his wealth; but let him that boasts boast in this, to understand and know the Lord, and to execute judgment and justice in the midst of the earth. The Lord has gone up to the heavens, and has thundered: he will judge the extremities of the earth, and he gives strength to our kings, and will exalt the horn of his Christ.
 
 ## 2 Samuel 14:17
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: angel, god, king, lord
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
@@ -223,10 +223,10 @@ Books: 38
 - brenton: And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.
 
 ## 2 Kings 17:34
-- score: 31
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:0/brenton:0/mt:0; eng_reco=needs_logos; eng_flags=unclear; reco=needs_logos
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, law, lord, name; crossref_top_vote=5; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: judgment, law, lord, name
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
+- fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## 1 Chronicles 6:34
@@ -245,7 +245,7 @@ Books: 38
 
 ## 1 Chronicles 22:19
 - score: 29
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
@@ -266,7 +266,7 @@ Books: 38
 
 ## 2 Chronicles 12:13
 - score: 30
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
 - keywords: king, lord, name
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
@@ -412,8 +412,8 @@ Books: 38
 - brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
 
 ## Isaiah 12:2
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:0/brenton:1/mt:0; eng_flags=smoothing_issue, unclear; reco=keep
 - keywords: glory, god, lord, salvation, savior
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
@@ -433,8 +433,8 @@ Books: 38
 - brenton: Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my mercy to be revealed.
 
 ## Jeremiah 4:2
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 23
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, righteousness, truth; crossref_top_vote=8; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: god, judgment, lord, righteousness, truth
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
 - brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.

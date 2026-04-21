@@ -1325,7 +1325,7 @@ Numbers 18:26,translation,a tithe from the tithe,"Greek says remove a contributi
 Joshua 1:7,translation,act like a man,Greek says act like a man and understand in what you do.,commission wording,reviewed
 1 Chronicles 19:6,translation,Moocha and Souba,Greek names Moocha and Souba here.,place names,reviewed
 1 Samuel 22:15,translation,put a word against,Greek says let king not put a word against servant and knew nothing small or great.,defense wording,reviewed
-2 Kings 17:34,translation,they fear and they act,Greek repeats they fear and act according to their own custom.,LXX contrast,reviewed
+2 Kings 17:34,translation,"They fear, and they act","Logos export confirms the LXX affirmative wording: they fear and act according to their own judgment, unlike the MT-style negated wording.",Logos export; LXX contrast,reviewed
 2 Kings 5:26,translation,my heart go with you,Greek says my heart went with you when Naaman turned back.,rebuke wording,reviewed
 2 Chronicles 36:22,translation,proclaimed to cry out,Greek doubles proclamation language here.,decree wording,reviewed
 1 Kings 7:2,translation,son of widow woman,"Greek verse numbering here carries artisan notice, not forest-house line.",Kings versification,reviewed
@@ -2775,7 +2775,7 @@ Exodus 20:24,translation,offerings of salvation,"Greek soterion language here is
 Leviticus 4:31,translation,sacrifice of salvation,Greek uses the same soterion family found in nearby sacrificial passages. The rendering keeps that wording instead of replacing it with the conventional peace offering formula.,lexical + consistency + witnesses,reviewed
 Genesis 2:7,translation,living soul,"Greek explicitly says living soul. Some English versions smooth this to living being, but the fresh line keeps the more literal soul wording.",lexical + witnesses,reviewed
 1 Kings 2:35,translation,kingdom was being set right,The Septuagint verse expands far beyond the shorter Hebrew-aligned form here. The rendering follows the longer Greek narrative rather than collapsing it to the MT-shaped line.,context + witnesses + variant,reviewed
-2 Kings 17:34,translation,Until this day,"The Greek line differs from the Hebrew-style negated wording in this verse and is translated as written. The phrase marks an ongoing situation report, not a one-time past statement.",lexical + witnesses + variant,reviewed
+2 Kings 17:34,translation,To this day,Logos export confirms this ongoing formula and the LXX affirmative wording in the verse.,Logos export; lexical + witnesses + variant,reviewed
 2 Chronicles 33:16,translation,sacrifice of salvation,Greek again uses the soterion family term. The translation keeps that wording consistent with other reviewed sacrificial passages.,lexical + consistency + witnesses,reviewed
 Deuteronomy 16:2,translation,sheep and cattle,Greek names the sacrificial animals directly rather than using the broader flock and herd pair. The rendering stays concrete to match the Greek nouns.,lexical + witnesses,reviewed
 Nehemiah 10:34,translation,bread of the presence,"Greek has the transparent phrase bread of the presence. The Septuagint verse here also maps differently from the Masoretic wood-offering verse, so the translation follows the Greek line.",lexical + variant + witnesses,reviewed

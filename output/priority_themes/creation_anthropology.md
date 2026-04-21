@@ -21,7 +21,7 @@ Books: 29
 
 ## Genesis 2:7
 - score: 28
-- reasons: decisions=4; footnotes=3; reviewed_decisions=4; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
+- reasons: decisions=4; footnotes=3; reviewed_decisions=4; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
 - keywords: god, soul
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
@@ -140,7 +140,7 @@ Books: 29
 
 ## 1 Chronicles 22:19
 - score: 29
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.

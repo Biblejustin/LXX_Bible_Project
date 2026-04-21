@@ -9,8 +9,8 @@ Selected verses: 6
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ## Isaiah 12:2
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:0/brenton:1/mt:0; eng_flags=smoothing_issue, unclear; reco=keep
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 

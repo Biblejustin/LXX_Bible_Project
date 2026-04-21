@@ -35,7 +35,7 @@ Books: 34
 
 ## Leviticus 3:1
 - score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: lord, peace, sacrifice, salvation
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
@@ -49,7 +49,7 @@ Books: 34
 
 ## Leviticus 4:31
 - score: 34
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, lord, peace, priest, sacrifice, salvation; crossref_top_vote=6; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, lord, peace, priest, sacrifice, salvation, sin
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
@@ -245,14 +245,14 @@ Books: 34
 
 ## 1 Chronicles 22:19
 - score: 29
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=being, covenant, god, holy, lord, name; crossref_top_vote=12; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
 ## 2 Chronicles 33:16
-- score: 31
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:1/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- score: 29
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, lord, peace, sacrifice, salvation; crossref_top_vote=2; crossref_shared_family=2; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, god, lord, peace, sacrifice, salvation
 - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
 - brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
@@ -328,8 +328,8 @@ Books: 34
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ## Isaiah 12:2
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:0/brenton:1/mt:0; eng_flags=smoothing_issue, unclear; reco=keep
 - keywords: glory, god, lord, salvation, savior
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.

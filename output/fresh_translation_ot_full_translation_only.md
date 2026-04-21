@@ -40092,7 +40092,7 @@ They feared the Lord and served their gods according to the custom of the nation
 
 **2 Kings 17:34**
 
-Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
+To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
 
 **2 Kings 17:35**
 

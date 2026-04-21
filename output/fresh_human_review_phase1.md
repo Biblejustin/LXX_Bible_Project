@@ -30,7 +30,7 @@ Rows: 234
 - logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
 - logos local recommendation: `keep`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
@@ -49,36 +49,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Jerusalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharaoh and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Jerusalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharaoh was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Jerusalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
 - brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
-
-## 2 Chronicles 33:16
-- priority: `31`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
-- logos local recommendation: `keep`
-- english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
-## 2 Kings 17:34
-- priority: `31`
-- importance: `high`
-- reason: score>=16; high+tracked; eng=needs_logos; reco=needs_logos
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `needs_logos`
-- consensus recommendation: `needs_logos`
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
-- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
 ## Deuteronomy 16:2
 - priority: `31`
@@ -105,7 +75,7 @@ Rows: 234
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
@@ -165,10 +135,25 @@ Rows: 234
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 2 Chronicles 33:16
+- priority: `29`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
+- logos local recommendation: `keep`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## Deuteronomy 12:11
 - priority: `29`
@@ -255,10 +240,25 @@ Rows: 234
 - logos local: checked `1`, supports `living soul rendering`, confidence `medium`
 - logos local recommendation: `keep`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
+
+## Isaiah 12:2
+- priority: `27`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `0`, brenton `1`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
+- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Leviticus 4:35
 - priority: `26`
@@ -425,6 +425,21 @@ Rows: 234
 - fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
 
+## 2 Kings 17:34
+- priority: `23`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
+
 ## Amos 9:12
 - priority: `23`
 - importance: `high`
@@ -454,21 +469,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. Gods of nations have no power in themselves to turn kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: 
-
-## Isaiah 12:2
-- priority: `23`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Isaiah 56:1
 - priority: `23`
@@ -500,6 +500,21 @@ Rows: 234
 - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
 - brenton: consume them; and thy word shall be to me for the joy and gladness of my heart: for thy name has been called upon me, O Lord Almighty.
 
+## Jeremiah 4:2
+- priority: `23`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
+- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
+
 ## Leviticus 3:1
 - priority: `23`
 - importance: `high`
@@ -510,7 +525,7 @@ Rows: 234
 - logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
 - logos local recommendation: `keep`
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
@@ -890,21 +905,6 @@ Rows: 234
 - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
 - brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
-## 2 Samuel 14:17
-- priority: `21`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
-- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
-
 ## 2 Samuel 22:51
 - priority: `21`
 - importance: `high`
@@ -1069,21 +1069,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
 - brenton: thus saith the Lord; Execute ye judgment and justice, and rescue the spoiled out of the hand of him that wrongs him: and oppress not the stranger, and orphan, and widow, and sin not, and shed no innocent blood in this place.
-
-## Jeremiah 4:2
-- priority: `21`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
-- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
 
 ## Psalms 113:9
 - priority: `21`
@@ -1564,6 +1549,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And Nathan said to David, You are the man who did this. Thus says the Lord God of Israel: I am the one who anointed you as king over Israel, and I am the one who delivered you from the hand of Saul,
 - brenton: And Nathan said to David, Thou art the man that has done this. Thus says the Lord God of Israel, I anointed thee to be king over Israel, and I rescued thee out of the hand of Saul;
+
+## 2 Samuel 14:17
+- priority: `19`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
+- brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
 ## Amos 5:15
 - priority: `19`
