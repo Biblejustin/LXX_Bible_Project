@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 19532
-- medium: 702
-- low: 2683
+- high: 19712
+- medium: 661
+- low: 2544
 - none: 0
 
 Note:
@@ -175048,1620 +175048,1620 @@ Note:
 
 ### Jeremiah 27:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From anger of Lord she will not be inhabited, and all will become for disappearance. Everyone passing through Babylon will darken and hiss over all her plague.
 - brenton: [missing]
 
 ### Jeremiah 27:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Array yourselves against Babylon all around, all stretching bow. Shoot at her. Do not spare your arrows.
 - brenton: [missing]
 
 ### Jeremiah 27:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Raise shout against her. Her hands were weakened. Her battlements fell, and her wall was torn down, because vengeance from God it is. Avenge against her. As she did, do to her.
 - brenton: [missing]
 
 ### Jeremiah 27:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Destroy seed from Babylon and one holding sickle in time of harvest. From face of Greek sword each will turn to his people, and each will flee into his land.
 - brenton: [missing]
 
 ### Jeremiah 27:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Israel, wandering sheep. Lions drove him out. First king of Assyria devoured him, and later king of Babylon broke his bones.
 - brenton: [missing]
 
 ### Jeremiah 27:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I punish king of Babylon and his land just as I punished king of Assyria.
 - brenton: [missing]
 
 ### Jeremiah 27:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will restore Israel to his pasture, and he will graze on Carmel and on hill-country of Ephraim and on Gilead, and his soul will be filled.
 - brenton: [missing]
 
 ### Jeremiah 27:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In those days and in that time they will seek injustice of Israel and it will not exist, and sins of Judah and they will never be found, because I will be merciful to remnant upon land, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 27:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bitterly go up against her and against ones dwelling on her. Avenge with sword and destroy, says Lord, and do according to all I command you.
 - brenton: [missing]
 
 ### Jeremiah 27:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sound of war and great crushing in land of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 27:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How hammer of all earth was broken and shattered. How Babylon became for disappearance among nations.
 - brenton: [missing]
 
 ### Jeremiah 27:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will set trap for you and you will be taken, Babylon, and you will not know. You were found and taken, because you stood against Lord.
 - brenton: [missing]
 
 ### Jeremiah 27:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord opened his treasury and brought out vessels of his wrath, because work belongs to Lord God in land of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 27:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because her times have come. Open her storehouses. Search her as cave and utterly destroy her. Let no remnant come to be from her.
 - brenton: [missing]
 
 ### Jeremiah 27:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Dry up all her fruits and let them go down to slaughter. Woe to them, because their day came and time of their vengeance.
 - brenton: [missing]
 
 ### Jeremiah 27:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of ones fleeing and escaping from land of Babylon, to announce in Zion vengeance from Lord our God.
 - brenton: [missing]
 
 ### Jeremiah 27:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Command many against Babylon, every one stretching bow. Encamp against her all around. Let there not be one escaping from her. Pay back to her according to her works. According to all she did, do to her, because against Lord, Holy God of Israel, she stood.
 - brenton: [missing]
 
 ### Jeremiah 27:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore her young men will fall in her squares, and all her war-men will be cast down, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 27:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against you, arrogant one, says Lord, because your day came and time of your vengeance.
 - brenton: [missing]
 
 ### Jeremiah 27:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your arrogance will weaken and fall, and there will not be one raising her up. And I will kindle fire in her forest, and it will devour all around her.
 - brenton: [missing]
 
 ### Jeremiah 27:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Sons of Israel and sons of Judah together are oppressed, and all taking them captive oppressed them, because they were not willing to send them away.
 - brenton: [missing]
 
 ### Jeremiah 27:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But the one redeeming them is strong. Lord Almighty his name. He will judge judgment against his adversaries so that he may lift up the land and provoke those dwelling in Babylon.
 - brenton: [missing]
 
 ### Jeremiah 27:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword upon Chaldeans and upon those dwelling in Babylon and upon her nobles and upon her wise men.
 - brenton: [missing]
 
 ### Jeremiah 27:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword upon her warriors, and they will be paralyzed.
 - brenton: [missing]
 
 ### Jeremiah 27:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword upon their horses and upon their chariots, sword upon mixed people in her midst, and they will become like women. Sword upon her treasures, and they will be scattered.
 - brenton: [missing]
 
 ### Jeremiah 27:38
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon her water they trusted, and they will be put to shame, because it is land of carved images, and in islands they boasted.
 - brenton: [missing]
 
 ### Jeremiah 27:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore phantoms will dwell in the islands, and daughters of sirens will dwell in her. She will no longer be inhabited forever.
 - brenton: [missing]
 
 ### Jeremiah 27:40
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As God overthrew Sodom and Gomorrah and those neighboring them, says Lord, so man will not dwell there, and son of man will not sojourn there.
 - brenton: [missing]
 
 ### Jeremiah 27:41
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, people comes from north, and great nation and many kings will be roused from end of earth.
 - brenton: [missing]
 
 ### Jeremiah 27:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Holding bow and short-sword, cruel he is and he will not pity. Their voice will sound like sea. Upon horses they will ride, prepared like fire for war against you, daughter of Babylon.
 - brenton: [missing]
 
 ### Jeremiah 27:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: King of Babylon heard their report, and his hands were weakened. Distress seized him, birth-pains like one giving birth.
 - brenton: [missing]
 
 ### Jeremiah 27:44
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, like lion he will go up from Jordan into Ethan place, because quickly I will drive them from her, and every young man I will appoint over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 - brenton: [missing]
 
 ### Jeremiah 27:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore hear counsel of Lord which he counseled against Babylon and his thoughts which he thought against those dwelling in Chaldea: Unless lambs of their sheep are destroyed, unless pasture is destroyed from them.
 - brenton: [missing]
 
 ### Jeremiah 27:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from voice of Babylon's capture earth will be shaken and cry will be heard among nations.
 - brenton: [missing]
 
 ### Jeremiah 28:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Behold, I raise against Babylon and against those dwelling in Chaldea hot destroying wind.
 - brenton: [missing]
 
 ### Jeremiah 28:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send revilers into Babylon, and they will revile her and ruin her land. Woe upon Babylon all around in day of her affliction.
 - brenton: [missing]
 
 ### Jeremiah 28:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Against her let one stretching his bow stretch it, and let one with armor gird himself, and do not spare her young men, and destroy all her power.
 - brenton: [missing]
 
 ### Jeremiah 28:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And slain ones will fall in land of Chaldeans, and stabbed ones outside her.
 - brenton: [missing]
 
 ### Jeremiah 28:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Israel and Judah were not widowed from their God, from Lord Almighty, because their land was filled with injustice from Holy One of Israel.
 - brenton: [missing]
 
 ### Jeremiah 28:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flee from midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from Lord. He repays repayment to her.
 - brenton: [missing]
 
 ### Jeremiah 28:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Babylon, golden cup in hand of Lord, making all earth drunk. Nations drank from her wine. Because of this they were shaken.
 - brenton: [missing]
 
 ### Jeremiah 28:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And suddenly Babylon fell and was shattered. Lament her. Take resin for her ruin, if perhaps she will be healed.
 - brenton: [missing]
 
 ### Jeremiah 28:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We healed Babylon and she was not healed. Let us abandon her, and let each go away into his own land, because her judgment drew near to heaven and rose as far as stars.
 - brenton: [missing]
 
 ### Jeremiah 28:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord brought out his judgment. Come, and let us announce in Zion works of Lord our God.
 - brenton: [missing]
 
 ### Jeremiah 28:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prepare arrows. Fill quivers. Lord stirred spirit of king of Medes, because his wrath is against Babylon, to destroy her, because vengeance of Lord it is, vengeance of his people it is.
 - brenton: [missing]
 
 ### Jeremiah 28:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon walls of Babylon raise signal. Set quivers. Stir up guards. Prepare weapons, because Lord undertook and will do what he spoke against those dwelling in Babylon.
 - brenton: [missing]
 
 ### Jeremiah 28:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You dwelling upon many waters and abundance of treasures, your end came, truly into your inward parts.
 - brenton: [missing]
 
 ### Jeremiah 28:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord swore by his arm that I will fill you with men like locusts, and those coming down will shout over you.
 - brenton: [missing]
 
 ### Jeremiah 28:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made earth in his strength, preparing world in his wisdom. In his understanding he stretched out heaven.
 - brenton: [missing]
 
 ### Jeremiah 28:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At his voice he set sound of waters in heaven and brought up clouds from end of earth. He made lightnings for rain and brought out light from his treasuries.
 - brenton: [missing]
 
 ### Jeremiah 28:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every man became foolish from knowledge. Every goldsmith was put to shame by his carved images, because what they cast were lies and there is no breath in them.
 - brenton: [missing]
 
 ### Jeremiah 28:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They are vain works, mocked things. In time of their visitation they will perish.
 - brenton: [missing]
 
 ### Jeremiah 28:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not such is portion for Jacob, because one forming all things, he is his inheritance. Lord his name.
 - brenton: [missing]
 
 ### Jeremiah 28:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are to me war-vessels, and I will scatter nations in you, and I will remove kings from you.
 - brenton: [missing]
 
 ### Jeremiah 28:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter in you horse and its rider, and I will scatter in you chariots and their riders.
 - brenton: [missing]
 
 ### Jeremiah 28:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter in you young man and virgin, and I will scatter in you man and woman.
 - brenton: [missing]
 
 ### Jeremiah 28:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter in you shepherd and his flock, and I will scatter in you farmer and his farm, and I will scatter in you your rulers and generals.
 - brenton: [missing]
 
 ### Jeremiah 28:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will repay Babylon and all dwelling in Chaldea all their evils which they did against Zion before your eyes, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 28:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against you, corrupt mountain destroying all earth, and I will stretch out my hand upon you and roll you down from rocks and give you as mountain set on fire.
 - brenton: [missing]
 
 ### Jeremiah 28:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will never take from you stone for corner nor stone for foundation, because for disappearance forever you will be, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 28:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Raise signal upon earth. Trumpet with trumpet among nations. Sanctify nations against her. Command against her kingdoms of Ararat and Ashkenaz. Set missile-stations against her. Bring up horse against her like swarm of locusts.
 - brenton: [missing]
 
 ### Jeremiah 28:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sanctify nations against her, king of Medes and leaders of all his land and all his generals.
 - brenton: [missing]
 
 ### Jeremiah 28:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth shook and was in pain, because plan of Lord rose against Babylon, to make land of Babylon for disappearance and not inhabited.
 - brenton: [missing]
 
 ### Jeremiah 28:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Warrior of Babylon failed from fighting. They will sit there in enclosure. Their power was broken. They became like women. Her dwellings were burned with fire. Her bars were shattered.
 - brenton: [missing]
 
 ### Jeremiah 28:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Runner will run to meet runner, and announcer to meet announcer, to announce to king of Babylon that his city was taken.
 - brenton: [missing]
 
 ### Jeremiah 28:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From end of its crossings they were seized, and their gathering-places were burned with fire, and their war-men go out.
 - brenton: [missing]
 
 ### Jeremiah 28:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord, house of king of Babylon is like ripe threshing-floor. Yet little, and her harvest will come.
 - brenton: [missing]
 
 ### Jeremiah 28:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nebuchadnezzar king of Babylon devoured me, portioned me, took me as delicate vessel, swallowed me like dragon, filled his belly from my luxury, and drove me out.
 - brenton: [missing]
 
 ### Jeremiah 28:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My labors and my hardships are upon Babylon, says one dwelling in Zion, and my blood upon those dwelling in Chaldea, says Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 28:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I judge your case and will avenge your vengeance, and I will desolate her sea and dry up her spring.
 - brenton: [missing]
 
 ### Jeremiah 28:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Babylon will become for disappearance and will not be inhabited.
 - brenton: [missing]
 
 ### Jeremiah 28:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Together they were roused like lions and like lion-cubs.
 - brenton: [missing]
 
 ### Jeremiah 28:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In their heat I will give them drink and make them drunk so that they become numb and sleep eternal sleep and not wake up, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 28:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bring them down like lambs to slaughter and like rams with goats.
 - brenton: [missing]
 
 ### Jeremiah 28:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How praise of all earth was taken and trapped. How Babylon became for disappearance among nations.
 - brenton: [missing]
 
 ### Jeremiah 28:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sea rose over Babylon. With sound of its waves she was covered.
 - brenton: [missing]
 
 ### Jeremiah 28:43
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her cities became waterless and impassable land. No one will dwell in her, and son of man will certainly not lodge in her.
 - brenton: [missing]
 
 ### Jeremiah 28:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will punish upon Babylon and bring out what she swallowed from her mouth, and nations will no longer be gathered to her.
 - brenton: [missing]
 
 ### Jeremiah 28:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in Babylon slain ones of all earth will fall.
 - brenton: [missing]
 
 ### Jeremiah 28:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You saved ones from land, go and do not stand still. You far-off ones, remember Lord, and let Jerusalem rise upon your heart.
 - brenton: [missing]
 
 ### Jeremiah 28:51
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We were ashamed because we heard our reproach. Dishonor covered our face. Foreigners entered into our holy places, into house of Lord.
 - brenton: [missing]
 
 ### Jeremiah 28:52
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and I will punish her carved images, and in all her land slain ones will fall.
 - brenton: [missing]
 
 ### Jeremiah 28:53
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if Babylon goes up like heaven, and if she fortifies height of her strength, destroyers of her will come from me, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 28:54
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of cry in Babylon and great crushing in land of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 28:55
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord destroyed Babylon and destroyed from her great voice sounding like many waters. He gave her voice for destruction.
 - brenton: [missing]
 
 ### Jeremiah 28:56
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because affliction came upon Babylon. Her warriors were taken. Their bow was terrified, because God repays them. Lord repays her repayment.
 - brenton: [missing]
 
 ### Jeremiah 28:57
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will make her rulers drunk with drunkenness and her wise men and her generals, says the King, Lord Almighty his name.
 - brenton: [missing]
 
 ### Jeremiah 28:58
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Wall of Babylon, broadened out, being dug down, will be torn down, and her high gates were burned with fire, and peoples will not labor for emptiness, and nations at their beginning will fail.
 - brenton: [missing]
 
 ### Jeremiah 28:59
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word which Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in fourth year of his reign, and Seraiah ruler of gifts.
 - brenton: [missing]
 
 ### Jeremiah 28:60
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah wrote in one scroll all evils which will come upon Babylon, all these words written against Babylon.
 - brenton: [missing]
 
 ### Jeremiah 28:61
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to Seraiah, When you come into Babylon and see and read all these words,
 - brenton: [missing]
 
 ### Jeremiah 28:62
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you will say, Lord, Lord, you spoke against this place, to destroy it and for there not to be in it one dwelling, from man to cattle, because it will be disappearance forever.
 - brenton: [missing]
 
 ### Jeremiah 28:63
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be when you finish reading this scroll, you will tie stone upon it and throw it into midst of Euphrates,
 - brenton: [missing]
 
 ### Jeremiah 28:64
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and you will say, Thus Babylon will sink and will never rise from face of evils which I bring upon her.
 - brenton: [missing]
 
 ### Jeremiah 29:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Against the foreigners.
 - brenton: [missing]
 
 ### Jeremiah 29:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Behold, waters rise from north, and they will become flooding torrent and cover land and its fullness, city and those dwelling in it, and men will cry out and all dwelling in land will howl.
 - brenton: [missing]
 
 ### Jeremiah 29:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From sound of his rush, from weapons of his feet and from shaking of his chariots, sound of his wheels, fathers did not turn back toward their sons from slackening of their hands.
 - brenton: [missing]
 
 ### Jeremiah 29:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In day coming to destroy all foreigners and to wipe out Tyre and Sidon and all remnant of their help, because Lord will destroy remnant of the islands.
 - brenton: [missing]
 
 ### Jeremiah 29:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Baldness came upon Gaza. Ashkelon was cast away, and remnant of Enakim. How long will you keep cutting yourself?
 - brenton: [missing]
 
 ### Jeremiah 29:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword of Lord, how long will you not rest? Return into your sheath. Rest and be lifted up.
 - brenton: [missing]
 
 ### Jeremiah 29:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How will it rest? Lord commanded it against Ashkelon and against the seacoasts, against the remnant, to be stirred up.
 - brenton: [missing]
 
 ### Jeremiah 30:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Idumea thus says Lord: Is there no wisdom any longer in Thaiman? Counsel perished from prudent ones. Their wisdom went away.
 - brenton: [missing]
 
 ### Jeremiah 30:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their place was deceived. Go deep into sitting, you dwelling in Daidan, because I made hard things against him. I brought them on him in time when I visited him.
 - brenton: [missing]
 
 ### Jeremiah 30:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because grape-gatherers came to you, they will not leave gleanings to you. Like thieves in night they will lay hand on them.
 - brenton: [missing]
 
 ### Jeremiah 30:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I stripped Esau bare. I uncovered their hidden things. They will certainly not be able to hide. They were destroyed by hand of his brother and his neighbor, and he is no more.
 - brenton: [missing]
 
 ### Jeremiah 30:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Leave your orphan behind so that he may live, and I will keep him alive, and widows trusted in me.
 - brenton: [missing]
 
 ### Jeremiah 30:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: Those for whom it was not law to drink cup drank, and you by acquitting will not be acquitted, because drinking you will drink.
 - brenton: [missing]
 
 ### Jeremiah 30:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because by myself I swore, says Lord, that you will become for trackless waste and for reproach and for curse in midst of her, and all her cities will become deserts forever.
 - brenton: [missing]
 
 ### Jeremiah 30:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I heard report from Lord, and he sent messengers to nations: Gather yourselves and come against her. Rise for war.
 - brenton: [missing]
 
 ### Jeremiah 30:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I made you small among nations, despised among men.
 - brenton: [missing]
 
 ### Jeremiah 30:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your plaything deceived you, insolence of your heart, destroying holes of rocks, seizing strength of high hill. Because he raised his nest like eagle, from there I will bring you down.
 - brenton: [missing]
 
 ### Jeremiah 30:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Idumea will become for trackless waste. Everyone passing by her will hiss.
 - brenton: [missing]
 
 ### Jeremiah 30:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As Sodom and Gomorrah and their neighboring places were overthrown, says Lord Almighty, so man will never sit there, and son of man will not dwell there.
 - brenton: [missing]
 
 ### Jeremiah 30:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, like lion he will go up from midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 - brenton: [missing]
 
 ### Jeremiah 30:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore hear counsel of Lord which he counseled against Idumea and his thought which he thought against those dwelling in Thaiman: Unless least ones of flock are consumed, unless their resting-place is made desolate upon her.
 - brenton: [missing]
 
 ### Jeremiah 30:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from sound of their fall earth was shaken, and your cry was heard in sea.
 - brenton: [missing]
 
 ### Jeremiah 30:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, like eagle he will appear and stretch his wings over her strongholds, and heart of mighty men of Idumea in that day will be like heart of woman in labor.
 - brenton: [missing]
 
 ### Jeremiah 30:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To sons of Ammon thus said Lord: Are there no sons in Israel, or is there no heir for them? Why did Melchom inherit Gad, and his people dwell in his cities?
 - brenton: [missing]
 
 ### Jeremiah 30:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and I will sound in Rabbath tumults of wars, and they will become trackless waste and destruction, and her altars will be burned in fire, and Israel will inherit his beginning.
 - brenton: [missing]
 
 ### Jeremiah 30:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Howl, Heshbon, because Gai was destroyed. Cry out, daughters of Rabbath. Gird on sackcloth and mourn and cut yourselves for Melchom, because he will go in exile, his priests and his rulers together.
 - brenton: [missing]
 
 ### Jeremiah 30:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you rejoice in plains, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
 - brenton: [missing]
 
 ### Jeremiah 30:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I bring fear upon you, says Lord, from all around you, and you will each be scattered before his face, and there will not be one gathering.
 - brenton: [missing]
 
 ### Jeremiah 30:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Kedar, royal court, which Nebuchadnezzar king of Babylon struck, thus said Lord: Rise and go up against Kedar and fill yourselves with sons of Kedem.
 - brenton: [missing]
 
 ### Jeremiah 30:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will take their tents and their sheep, their garments and all their vessels, and their camels they will take for themselves, and call destruction around upon them.
 - brenton: [missing]
 
 ### Jeremiah 30:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flee greatly. Go deep into sitting, you sitting in court, because king of Babylon counseled counsel against you and thought thought against you.
 - brenton: [missing]
 
 ### Jeremiah 30:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise and go up against nation at ease, dwelling in refreshment, for whom there are no doors, no bars, no bolts. They dwell alone.
 - brenton: [missing]
 
 ### Jeremiah 30:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their camels will become for plunder and multitude of their cattle for destruction, and I will winnow them to every wind, clipped around the face, and from every side I will bring their downfall, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 30:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the court will become dwelling-place of sparrows and trackless waste forever. Man will not sit there, and son of man will not dwell there.
 - brenton: [missing]
 
 ### Jeremiah 30:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Damascus: Hamath and Arphad were put to shame, because they heard evil report. They were confounded and troubled, and are not able to rest.
 - brenton: [missing]
 
 ### Jeremiah 30:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Damascus melted away. She turned to flight. Terror seized her.
 - brenton: [missing]
 
 ### Jeremiah 30:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How was my city not abandoned, town they loved?
 - brenton: [missing]
 
 ### Jeremiah 30:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore your young men will fall in your squares, and all your war-men will fall, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 30:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will kindle fire in wall of Damascus, and it will devour streets of son of Hader.
 - brenton: [missing]
 
 ### Jeremiah 31:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Moab thus said Lord: Woe to Nabau, because it was destroyed. Kariathaim was taken. Amath was put to shame and defeated.
 - brenton: [missing]
 
 ### Jeremiah 31:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is no longer healing for Moab, boasting in Heshbon. They planned evils against her: We cut her off from nation. Stop, a stopping-place. Behind you sword will go.
 - brenton: [missing]
 
 ### Jeremiah 31:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because voice of criers from Horonaim, destruction and great crushing.
 - brenton: [missing]
 
 ### Jeremiah 31:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moab was crushed. Announce it in Zoar.
 - brenton: [missing]
 
 ### Jeremiah 31:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because on ascent of Alauth one will go up with weeping, weeping. On road of Horonaim they heard cry of crushing.
 - brenton: [missing]
 
 ### Jeremiah 31:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flee and save your souls, and you will be like wild donkey in desert.
 - brenton: [missing]
 
 ### Jeremiah 31:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you trusted in your strongholds, you too will be taken, and Chemosh will go out into exile, his priests and his rulers together.
 - brenton: [missing]
 
 ### Jeremiah 31:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And destroyer will come upon every city, and city will not be saved, and valley will perish and plain will be destroyed, just as Lord said.
 - brenton: [missing]
 
 ### Jeremiah 31:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give signs to Moab, because in flight she will fly out, and all her cities will become for trackless waste. From where will there be one dwelling in her?
 - brenton: [missing]
 
 ### Jeremiah 31:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cursed one doing works of Lord negligently, withholding his sword from blood.
 - brenton: [missing]
 
 ### Jeremiah 31:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moab was at rest from childhood and was confident on his glory. He was not poured from vessel into vessel, and into exile he did not go. Because of this his taste stood in him and his smell did not leave.
 - brenton: [missing]
 
 ### Jeremiah 31:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and I will send him tippers, and they will tip him, and they will thin his vessels and break his horns.
 - brenton: [missing]
 
 ### Jeremiah 31:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moab will be ashamed of Chemosh, just as house of Israel was ashamed of Bethel, their hope, trusting on them.
 - brenton: [missing]
 
 ### Jeremiah 31:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How will you say, We are strong and mighty man for wars?
 - brenton: [missing]
 
 ### Jeremiah 31:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moab was destroyed, his city, and his chosen young men went down to slaughter.
 - brenton: [missing]
 
 ### Jeremiah 31:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Near is day of Moab to come, and his evil very swift.
 - brenton: [missing]
 
 ### Jeremiah 31:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shake for him, all around him, all knowing his name. Say, How glorious staff was broken, rod of greatness.
 - brenton: [missing]
 
 ### Jeremiah 31:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come down from glory and sit in dampness, you dwelling in Daibon, worn out, because destroyer of Moab came up against you. He destroyed your stronghold.
 - brenton: [missing]
 
 ### Jeremiah 31:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Stand by road and watch, you dwelling in Aroer, and ask one fleeing and being saved, and say, What happened?
 - brenton: [missing]
 
 ### Jeremiah 31:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moab was put to shame because he was broken. Howl and cry. Announce in Arnon that Moab was destroyed.
 - brenton: [missing]
 
 ### Jeremiah 31:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And judgment comes upon land of Misor, upon Chailon and upon Iassa and upon Mophaath,
 - brenton: [missing]
 
 ### Jeremiah 31:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and upon Daibon and Nabau and upon house of Deblathaim,
 - brenton: [missing]
 
 ### Jeremiah 31:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and upon Kariathaim and upon house of Gamol and upon house of Maon,
 - brenton: [missing]
 
 ### Jeremiah 31:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and upon Karioth and upon Bosor and upon all cities of Moab, far and near.
 - brenton: [missing]
 
 ### Jeremiah 31:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Horn of Moab was broken, and his arm was shattered.
 - brenton: [missing]
 
 ### Jeremiah 31:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make him drunk, because he magnified himself against Lord, and Moab will clap with his hand, and he too will become for laughter.
 - brenton: [missing]
 
 ### Jeremiah 31:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if Israel was not for mockery to you, was he found in your thefts, because you were fighting against him?
 - brenton: [missing]
 
 ### Jeremiah 31:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They left the cities and dwelt in rocks, those dwelling in Moab. They became like doves nesting in rocks at mouth of pit.
 - brenton: [missing]
 
 ### Jeremiah 31:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I heard pride of Moab. He was very proud, his insult and his arrogance, and his heart was raised high.
 - brenton: [missing]
 
 ### Jeremiah 31:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I knew his works, not enough for him. Not so he did.
 - brenton: [missing]
 
 ### Jeremiah 31:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore over Moab howl everywhere. Cry over men of Kiradas of drought.
 - brenton: [missing]
 
 ### Jeremiah 31:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like weeping of Jazer I will weep for you, vine of Sebema. Your branches passed through sea. They touched Jazer. Destroyer fell upon your fruit and upon your vintage.
 - brenton: [missing]
 
 ### Jeremiah 31:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Joy and gladness were consumed from Moabitis, and wine was upon your vats. Morning they did not tread, nor evening. They did not make shouting.
 - brenton: [missing]
 
 ### Jeremiah 31:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From cry of Heshbon as far as Elealeh their cities gave their voice, from Zoar as far as Horonaim and Aglath-salisia, because waters of Nebrim will become for burning.
 - brenton: [missing]
 
 ### Jeremiah 31:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy from Moab, says Lord, one going up upon altar and burning incense to his gods.
 - brenton: [missing]
 
 ### Jeremiah 31:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore my heart for Moab will sound like flutes, and my heart over men of Kiradas will sound like flute, because what he prepared perished from man.
 - brenton: [missing]
 
 ### Jeremiah 31:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every head in every place will be shaved, and every beard will be shaved, and all hands will be cut, and upon every waist sackcloth.
 - brenton: [missing]
 
 ### Jeremiah 31:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon all roofs of Moab and in her squares, because I shattered Moab, says Lord, like vessel for which there is no use.
 - brenton: [missing]
 
 ### Jeremiah 31:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How it changed. How Moab turned back. He was ashamed and became for laughter and vexation to all around him.
 - brenton: [missing]
 
 ### Jeremiah 31:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord,
 - brenton: [missing]
 
 ### Jeremiah 31:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Akkarioth was taken and strongholds were seized.
 - brenton: [missing]
 
 ### Jeremiah 31:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moab will perish from multitude, because against Lord he magnified himself.
 - brenton: [missing]
 
 ### Jeremiah 31:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Snare and fear and pit are upon you, one dwelling in Moab.
 - brenton: [missing]
 
 ### Jeremiah 31:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One fleeing from face of fear will fall into pit, and one coming up from pit will be caught in snare, because I will bring these things upon Moab in year of her visitation.
 - brenton: [missing]
 
 ### Jeremiah 32:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What Jeremiah prophesied against all nations.
 - brenton: [missing]
 
 ### Jeremiah 32:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord God of Israel: Take this cup of unmixed wine from my hand, and you will make all nations drink, to whom I send you to them.
 - brenton: [missing]
 
 ### Jeremiah 32:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will drink and vomit and go mad from face of sword which I send among them.
 - brenton: [missing]
