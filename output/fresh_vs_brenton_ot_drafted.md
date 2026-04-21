@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 16292
-- medium: 1523
-- low: 5102
+- high: 16472
+- medium: 1489
+- low: 4956
 - none: 0
 
 Note:
@@ -145608,873 +145608,873 @@ Note:
 
 ### Psalms 142:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sake of your name, Lord, you will make me live; in your righteousness you will bring my soul out from affliction.
 - brenton: [missing]
 
 ### Psalms 142:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in your mercy you will utterly destroy my enemies and destroy all afflicting my soul, because I your servant.
 - brenton: [missing]
 
 ### Psalms 143:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Of David, against Goliath. Blessed Lord my God, teaching my hands for battle, my fingers for war.
 - brenton: [missing]
 
 ### Psalms 143:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My mercy and my refuge, my helper and my deliverer, my protector, and on him I hoped, one subduing my people under me.
 - brenton: [missing]
 
 ### Psalms 143:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, what man that you became known to him, or son of man that you count him?
 - brenton: [missing]
 
 ### Psalms 143:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man was likened to vanity; his days like passing shadow.
 - brenton: [missing]
 
 ### Psalms 143:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, bend your heavens and come down; touch mountains and they will smoke.
 - brenton: [missing]
 
 ### Psalms 143:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flash lightning and you will scatter them; send out your arrows and you will throw them into confusion.
 - brenton: [missing]
 
 ### Psalms 143:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Send out your hand from height; rescue me and deliver me from many waters, from hand of foreign sons,
 - brenton: [missing]
 
 ### Psalms 143:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: whose mouth spoke vanity and their right hand right hand of injustice.
 - brenton: [missing]
 
 ### Psalms 143:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God, I will sing new song to you; on ten-stringed psaltery I will sing psalms to you.
 - brenton: [missing]
 
 ### Psalms 143:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one giving salvation to kings, to one redeeming David his servant from evil sword.
 - brenton: [missing]
 
 ### Psalms 143:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me and deliver me from hand of foreign sons, whose mouth spoke vanity and their right hand right hand of injustice.
 - brenton: [missing]
 
 ### Psalms 143:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whose sons like young shoots established in their youth; their daughters beautified, adorned like likeness of temple.
 - brenton: [missing]
 
 ### Psalms 143:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their storehouses full, pouring out from this into that; their sheep many-bearing, multiplying in their outings.
 - brenton: [missing]
 
 ### Psalms 143:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their oxen fat; no breach of wall, no passing out, no outcry in their squares.
 - brenton: [missing]
 
 ### Psalms 143:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They called blessed people to whom these things belong; blessed people whose Lord their God.
 - brenton: [missing]
 
 ### Psalms 144:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise of David. I will exalt you, my God, my king, and bless your name forever and forever of age.
 - brenton: [missing]
 
 ### Psalms 144:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each day I will bless you and praise your name forever and forever of age.
 - brenton: [missing]
 
 ### Psalms 144:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great Lord and greatly praiseworthy, and of his greatness no end.
 - brenton: [missing]
 
 ### Psalms 144:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Generation and generation will praise your works, and they will declare your power.
 - brenton: [missing]
 
 ### Psalms 144:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will speak of magnificence of glory of your holiness, and they will relate your wonders.
 - brenton: [missing]
 
 ### Psalms 144:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will speak of power of your fearful deeds, and they will recount your greatness.
 - brenton: [missing]
 
 ### Psalms 144:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will pour forth memory of abundance of your kindness, and exult in your righteousness.
 - brenton: [missing]
 
 ### Psalms 144:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Compassionate and merciful Lord, long-suffering and very merciful.
 - brenton: [missing]
 
 ### Psalms 144:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord kind to all, and his compassions over all his works.
 - brenton: [missing]
 
 ### Psalms 144:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all your works give thanks to you, Lord, and let your holy ones bless you.
 - brenton: [missing]
 
 ### Psalms 144:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will speak glory of your kingdom and tell of your dominion,
 - brenton: [missing]
 
 ### Psalms 144:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to make known to sons of men your dominion and glory of magnificence of your kingdom.
 - brenton: [missing]
 
 ### Psalms 144:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your kingdom kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
 - brenton: [missing]
 
 ### Psalms 144:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord supports all falling and straightens all crushed down.
 - brenton: [missing]
 
 ### Psalms 144:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Eyes of all hope in you, and you give their food in season.
 - brenton: [missing]
 
 ### Psalms 144:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You open your hand and fill every living thing with favor.
 - brenton: [missing]
 
 ### Psalms 144:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord righteous in all his ways and holy in all his works.
 - brenton: [missing]
 
 ### Psalms 144:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord near to all calling upon him, to all calling upon him in truth.
 - brenton: [missing]
 
 ### Psalms 144:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will do desire of those fearing him, and he will hear their supplication and save them.
 - brenton: [missing]
 
 ### Psalms 144:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord guards all loving him, and all sinners he will destroy.
 - brenton: [missing]
 
 ### Psalms 144:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise of Lord my mouth will speak, and let all flesh bless his holy name forever and forever of age.
 - brenton: [missing]
 
 ### Psalms 145:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise Lord, my soul.
 - brenton: [missing]
 
 ### Psalms 145:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will praise Lord in my life; I will sing psalms to my God while I exist.
 - brenton: [missing]
 
 ### Psalms 145:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not trust in rulers and in sons of men, in whom no salvation.
 - brenton: [missing]
 
 ### Psalms 145:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His spirit will go out and he will return to his earth; in that day all their plans will perish.
 - brenton: [missing]
 
 ### Psalms 145:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed whose helper God of Jacob, his hope upon Lord his God.
 - brenton: [missing]
 
 ### Psalms 145:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who made heaven and earth, sea and all in them, one keeping truth forever.
 - brenton: [missing]
 
 ### Psalms 145:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Doing judgment for wronged ones, giving food to hungry; Lord frees chained ones.
 - brenton: [missing]
 
 ### Psalms 145:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord straightens crushed ones; Lord makes blind ones wise; Lord loves righteous.
 - brenton: [missing]
 
 ### Psalms 145:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord guards sojourners; orphan and widow he will take up, and way of sinners he will destroy.
 - brenton: [missing]
 
 ### Psalms 145:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will reign forever, your God, Zion, to generation and generation.
 - brenton: [missing]
 
 ### Psalms 146:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise Lord, because psalm to our God good; let praise be sweet.
 - brenton: [missing]
 
 ### Psalms 146:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord building Jerusalem and gathering dispersions of Israel.
 - brenton: [missing]
 
 ### Psalms 146:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Healing crushed in heart and binding up their fractures.
 - brenton: [missing]
 
 ### Psalms 146:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Numbering multitudes of stars and calling all them by names.
 - brenton: [missing]
 
 ### Psalms 146:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great our Lord and great his strength, and of his understanding no number.
 - brenton: [missing]
 
 ### Psalms 146:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord lifting up meek ones and humbling sinners to ground.
 - brenton: [missing]
 
 ### Psalms 146:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Begin with thanksgiving to Lord; sing psalms to our God on lyre.
 - brenton: [missing]
 
 ### Psalms 146:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To one clothing heaven with clouds, preparing rain for earth, making grass spring up on mountains and green growth for service of men.
 - brenton: [missing]
 
 ### Psalms 146:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Giving beasts their food and young ravens calling on him.
 - brenton: [missing]
 
 ### Psalms 146:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not in strength of horse will he desire, nor in legs of man does he delight.
 - brenton: [missing]
 
 ### Psalms 146:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord delights in those fearing him and hoping upon his mercy.
 - brenton: [missing]
 
 ### Psalms 147:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise, Jerusalem, Lord; praise your God, Zion.
 - brenton: [missing]
 
 ### Psalms 147:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he strengthened bars of your gates; he blessed your sons in you.
 - brenton: [missing]
 
 ### Psalms 147:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One making your borders peace and filling you with fat of wheat.
 - brenton: [missing]
 
 ### Psalms 147:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One sending his saying to earth; with speed his word will run.
 - brenton: [missing]
 
 ### Psalms 147:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One giving snow like wool, scattering mist like ashes.
 - brenton: [missing]
 
 ### Psalms 147:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Throwing his ice like morsels; before his cold who will stand?
 - brenton: [missing]
 
 ### Psalms 147:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will send his word and melt them; his spirit will blow and waters will flow.
 - brenton: [missing]
 
 ### Psalms 147:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Declaring his word to Jacob, his statutes and judgments to Israel.
 - brenton: [missing]
 
 ### Psalms 147:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He did not do thus to every nation, and his judgments he did not show to them.
 - brenton: [missing]
 
 ### Psalms 148:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise Lord from heavens; praise him in highest places.
 - brenton: [missing]
 
 ### Psalms 148:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him, all his angels; praise him, all his powers.
 - brenton: [missing]
 
 ### Psalms 148:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him, sun and moon; praise him, all stars and light.
 - brenton: [missing]
 
 ### Psalms 148:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him, heavens of heavens, and water above heavens.
 - brenton: [missing]
 
 ### Psalms 148:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them praise name of Lord, because he spoke and they came to be; he commanded and they were created.
 - brenton: [missing]
 
 ### Psalms 148:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He established them forever and forever of age; ordinance he set, and it will not pass away.
 - brenton: [missing]
 
 ### Psalms 148:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise Lord from earth, dragons and all deeps.
 - brenton: [missing]
 
 ### Psalms 148:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fire, hail, snow, ice, spirit of storm, things doing his word.
 - brenton: [missing]
 
 ### Psalms 148:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains and all hills, fruit trees and all cedars.
 - brenton: [missing]
 
 ### Psalms 148:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wild beasts and all cattle, creeping things and winged birds.
 - brenton: [missing]
 
 ### Psalms 148:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kings of earth and all peoples, rulers and all judges of earth.
 - brenton: [missing]
 
 ### Psalms 148:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Young men and virgins, elders with younger ones.
 - brenton: [missing]
 
 ### Psalms 148:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them praise name of Lord, because his name alone was exalted; his praise upon earth and heaven.
 - brenton: [missing]
 
 ### Psalms 148:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will exalt horn of his people, hymn for all his holy ones, sons of Israel, people drawing near to him.
 - brenton: [missing]
 
 ### Psalms 149:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Sing to Lord new song; his praise in assembly of holy ones.
 - brenton: [missing]
 
 ### Psalms 149:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let Israel rejoice over one making him, and sons of Zion exult over their king.
 - brenton: [missing]
 
 ### Psalms 149:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them praise his name in dance; with tambourine and psaltery let them sing psalms to him.
 - brenton: [missing]
 
 ### Psalms 149:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord delights in his people and will exalt meek ones in salvation.
 - brenton: [missing]
 
 ### Psalms 149:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Holy ones will boast in glory and exult on their beds.
 - brenton: [missing]
 
 ### Psalms 149:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Exaltations of God in their throat and two-edged swords in their hands,
 - brenton: [missing]
 
 ### Psalms 149:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to do vengeance among nations, reproofs among peoples,
 - brenton: [missing]
 
 ### Psalms 149:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to bind their kings in fetters and their glorious ones in iron handcuffs,
 - brenton: [missing]
 
 ### Psalms 149:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to do among them judgment written. This glory for all his holy ones.
 - brenton: [missing]
 
 ### Psalms 150:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hallelujah. Praise God in his holy ones; praise him in firmament of his power.
 - brenton: [missing]
 
 ### Psalms 150:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him for his dominions; praise him according to multitude of his greatness.
 - brenton: [missing]
 
 ### Psalms 150:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him in sound of trumpet; praise him in psaltery and lyre.
 - brenton: [missing]
 
 ### Psalms 150:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him in tambourine and dance; praise him in strings and instrument.
 - brenton: [missing]
 
 ### Psalms 150:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise him in clear-sounding cymbals; praise him in cymbals of shout.
 - brenton: [missing]
 
 ### Psalms 150:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every breath let it praise Lord. Hallelujah.
 - brenton: [missing]
@@ -146483,567 +146483,567 @@ Note:
 
 ### Proverbs 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Proverbs of Solomon son of David, who reigned in Israel.
 - brenton: [missing]
 
 ### Proverbs 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To know wisdom and discipline, and to understand words of insight.
 - brenton: [missing]
 
 ### Proverbs 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To receive turnings of words, and to understand true righteousness and judgment, and to direct judgment.
 - brenton: [missing]
 
 ### Proverbs 1:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that I may give shrewdness to innocent ones, and to child, young perception and understanding.
 - brenton: [missing]
 
 ### Proverbs 1:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For hearing these, wise will become wiser, and understanding man will acquire guidance.
 - brenton: [missing]
 
 ### Proverbs 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will understand proverb and dark saying, sayings of wise and riddles.
 - brenton: [missing]
 
 ### Proverbs 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beginning of wisdom fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise.
 - brenton: [missing]
 
 ### Proverbs 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, son, discipline of your father, and do not reject decrees of your mother.
 - brenton: [missing]
 
 ### Proverbs 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you will receive crown of graces for your head and golden chain around your neck.
 - brenton: [missing]
 
 ### Proverbs 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, let ungodly men not lead you astray, nor be willing if they urge you, saying,
 - brenton: [missing]
 
 ### Proverbs 1:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Come with us, share blood; let us hide in earth righteous man unjustly.
 - brenton: [missing]
 
 ### Proverbs 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us swallow him alive like Hades, and lift his memory from earth.
 - brenton: [missing]
 
 ### Proverbs 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us seize his costly possession and fill our houses with spoils.
 - brenton: [missing]
 
 ### Proverbs 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Throw your lot in among us; let us all get common purse, and let one pouch be among us."
 - brenton: [missing]
 
 ### Proverbs 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not go in way with them; turn your foot away from their tracks.
 - brenton: [missing]
 
 ### Proverbs 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For their feet run to evil and swift to pour out blood.
 - brenton: [missing]
 
 ### Proverbs 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For not for nothing are nets spread for winged creatures.
 - brenton: [missing]
 
 ### Proverbs 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For these sharing in murder store up evils for themselves, and destruction of lawless men evil.
 - brenton: [missing]
 
 ### Proverbs 1:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These ways of all carrying out lawless things, for by ungodliness they take away their own soul.
 - brenton: [missing]
 
 ### Proverbs 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wisdom hymns in exits, and in broad places she leads boldness.
 - brenton: [missing]
 
 ### Proverbs 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Upon heights of walls she is proclaimed, and beside gates of rulers she sits, and beside gates of city, speaking boldly, says,
 - brenton: [missing]
 
 ### Proverbs 1:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "As long as innocent ones hold to righteousness, they will not be shamed; but fools, being desirers of insolence, becoming ungodly, hated perception.
 - brenton: [missing]
 
 ### Proverbs 1:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they became liable to rebukes. Behold, I will bring forth for you utterance of my spirit, and teach you my word.
 - brenton: [missing]
 
 ### Proverbs 1:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Since I called and you did not heed, and I stretched out words and you did not attend,
 - brenton: [missing]
 
 ### Proverbs 1:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but you kept making my counsels invalid, and to my rebukes disobeyed,
 - brenton: [missing]
 
 ### Proverbs 1:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore I too will laugh at your ruin and rejoice when destruction comes to you,
 - brenton: [missing]
 
 ### Proverbs 1:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and when sudden turmoil comes upon you, and downfall comes like storm, and when affliction and siege or destruction comes upon you.
 - brenton: [missing]
 
 ### Proverbs 1:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For it will be when you call on me, I will not hear you; evil men will seek me and not find.
 - brenton: [missing]
 
 ### Proverbs 1:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they hated wisdom, and fear of Lord they did not choose.
 - brenton: [missing]
 
 ### Proverbs 1:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor were they willing to heed my counsels, and they sneered at my rebukes.
 - brenton: [missing]
 
 ### Proverbs 1:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore they will eat fruits of their own way and be filled from their own ungodliness.
 - brenton: [missing]
 
 ### Proverbs 1:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For because they wronged simple ones, they will be killed, and scrutiny destroys ungodly.
 - brenton: [missing]
 
 ### Proverbs 1:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But one hearing me will settle in hope and rest fearless from every evil."
 - brenton: [missing]
 
 ### Proverbs 2:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, if receiving saying of my command you hide it with yourself,
 - brenton: [missing]
 
 ### Proverbs 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: your ear will obey wisdom, and you will apply your heart to understanding; yes, apply it as admonition for your son.
 - brenton: [missing]
 
 ### Proverbs 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if you call on wisdom and give your voice to understanding, and seek perception with loud voice,
 - brenton: [missing]
 
 ### Proverbs 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and if you seek it like silver and search it out like treasures,
 - brenton: [missing]
 
 ### Proverbs 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you will understand fear of Lord and find knowledge of God.
 - brenton: [missing]
 
 ### Proverbs 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord gives wisdom, and from his face knowledge and understanding.
 - brenton: [missing]
 
 ### Proverbs 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he treasures up salvation for those walking straight; he will shield their journey,
 - brenton: [missing]
 
 ### Proverbs 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to guard ways of ordinances, and he will preserve way of those revering him.
 - brenton: [missing]
 
 ### Proverbs 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will understand righteousness and judgment, and you will straighten all good tracks.
 - brenton: [missing]
 
 ### Proverbs 2:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if wisdom comes into your mind and perception seems good to your soul,
 - brenton: [missing]
 
 ### Proverbs 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: good counsel will guard you, and holy thought will keep you,
 - brenton: [missing]
 
 ### Proverbs 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to rescue you from evil way and from man speaking nothing trustworthy,
 - brenton: [missing]
 
 ### Proverbs 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those abandoning straight ways to walk in ways of darkness,
 - brenton: [missing]
 
 ### Proverbs 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those rejoicing over evils and delighting in evil perversity,
 - brenton: [missing]
 
 ### Proverbs 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: whose tracks crooked and their paths bent,
 - brenton: [missing]
 
 ### Proverbs 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to make you far from straight way and alien to righteous judgment.
 - brenton: [missing]
 
 ### Proverbs 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, let evil counsel not overtake you, that which leaves teaching of youth and has forgotten divine covenant.
 - brenton: [missing]
 
 ### Proverbs 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For she set her house beside death, and her tracks beside Hades with earthborn men.
 - brenton: [missing]
 
 ### Proverbs 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All going in to her will not return, nor ever catch straight paths, for they are not seized by years of life.
 - brenton: [missing]
 
 ### Proverbs 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if they had walked paths of good, they would have found smooth tracks of righteousness.
 - brenton: [missing]
 
 ### Proverbs 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good ones will be inhabitants of earth, and innocent ones remain in it, for straight ones will settle in earth and holy ones remain in it.
 - brenton: [missing]
 
 ### Proverbs 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ways of ungodly will perish from earth, and lawless men will be thrust out from it.
 - brenton: [missing]
 
 ### Proverbs 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, do not forget my laws, and let your heart keep my sayings.
 - brenton: [missing]
 
 ### Proverbs 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For length of life and years of life and peace they will add to you.
 - brenton: [missing]
 
 ### Proverbs 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Acts of mercy and faithfulness let them not fail you; fasten them on your neck, and you will find favor.
 - brenton: [missing]
 
 ### Proverbs 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And plan good things before Lord and men.
 - brenton: [missing]
 
 ### Proverbs 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be trusting with whole heart in God, and do not exalt yourself on your own wisdom.
 - brenton: [missing]
 
 ### Proverbs 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In all your ways know her, so that she may cut straight your ways, and your foot will not stumble.
 - brenton: [missing]
 
 ### Proverbs 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not be wise with yourself; fear God and turn from every evil.
 - brenton: [missing]
 
 ### Proverbs 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then healing to your body and care to your bones.
 - brenton: [missing]
@@ -147059,54 +147059,54 @@ Note:
 
 ### Proverbs 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So your storehouses may be filled with fullness of grain, and your wine vats gush wine.
 - brenton: [missing]
 
 ### Proverbs 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, do not regard lightly discipline of Lord, nor faint when reproved by him.
 - brenton: [missing]
 
 ### Proverbs 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For whom Lord loves he disciplines, and he scourges every son whom he receives.
 - brenton: [missing]
 
 ### Proverbs 3:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man who found wisdom, and mortal who saw understanding.
 - brenton: [missing]
 
 ### Proverbs 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For to trade in her better than treasures of gold and silver.
 - brenton: [missing]
 
 ### Proverbs 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she more valuable than precious stones; no evil thing will oppose her; she known by all drawing near to her, and every precious thing unworthy of her.
 - brenton: [missing]
@@ -147122,126 +147122,126 @@ Note:
 
 ### Proverbs 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her ways good ways, and all her tracks in peace.
 - brenton: [missing]
 
 ### Proverbs 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tree of life to all holding fast to her, and to those leaning upon her as on Lord, secure.
 - brenton: [missing]
 
 ### Proverbs 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God founded earth by wisdom and prepared heavens by understanding.
 - brenton: [missing]
 
 ### Proverbs 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By perception deeps burst open, and clouds trickled dew.
 - brenton: [missing]
 
 ### Proverbs 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, do not drift away; keep my counsel and thought,
 - brenton: [missing]
 
 ### Proverbs 3:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that your soul may live and grace be around your neck. And there will be healing for your flesh and care for your bones.
 - brenton: [missing]
 
 ### Proverbs 3:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that you may walk confidently in peace all your ways, and your foot will not stumble.
 - brenton: [missing]
 
 ### Proverbs 3:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For if you sit, you will be fearless; if you sleep, you will sleep sweetly.
 - brenton: [missing]
 
 ### Proverbs 3:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will not fear terror coming, nor assaults of ungodly when they come.
 - brenton: [missing]
 
 ### Proverbs 3:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord will be over all your ways and brace your foot so that it not be shaken.
 - brenton: [missing]
 
 ### Proverbs 3:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not withhold doing good to needy when your hand has power to help.
 - brenton: [missing]
 
 ### Proverbs 3:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not say, "Go, return, and tomorrow I will give," when you can do good, for you do not know what next day will bring forth.
 - brenton: [missing]
 
 ### Proverbs 3:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not contrive evils against your friend living nearby and trusting in you.
 - brenton: [missing]
 
 ### Proverbs 3:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not love strife with man for nothing, lest he work some evil against you.
 - brenton: [missing]
