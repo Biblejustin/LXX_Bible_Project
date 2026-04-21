@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 18632
-- medium: 889
-- low: 3396
+- high: 18812
+- medium: 849
+- low: 3256
 - none: 0
 
 Note:
@@ -166874,567 +166874,567 @@ Note:
 
 ### Isaiah 50:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because one justifying me comes near. Who is judging with me? Let him stand against me together. And who is my accuser? Let him come near me.
 - brenton: [missing]
 
 ### Isaiah 50:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, Lord helps me. Who will harm me? See, all you will grow old like garment, and moth will eat you.
 - brenton: [missing]
 
 ### Isaiah 50:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who among you fears Lord? Let him hear voice of his servant. Those going in darkness have no light; trust in name of Lord and lean on God.
 - brenton: [missing]
 
 ### Isaiah 50:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, all you kindle fire and strengthen flame. Walk by light of your fire and by flame you kindled. Because of me these things came to you; in grief you will lie down.
 - brenton: [missing]
 
 ### Isaiah 51:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, you pursuing righteousness and seeking Lord. Look to solid rock which you cut and to pit of well which you dug.
 - brenton: [missing]
 
 ### Isaiah 51:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look to Abraham your father and to Sarah who labored to bear you, because he was one, and I called him and blessed him and loved him and multiplied him.
 - brenton: [missing]
 
 ### Isaiah 51:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I will comfort Zion and have comforted all her desolate places, and I will make her desolations as paradise of Lord. Gladness and exultation they will find in her, thanksgiving and sound of praise.
 - brenton: [missing]
 
 ### Isaiah 51:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, hear me, my people, and kings give ear to me, because law will go out from me and my judgment as light of nations.
 - brenton: [missing]
 
 ### Isaiah 51:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My righteousness draws near quickly, my salvation will go out as light, and nations will hope in my arm. Islands wait for me and hope in my arm.
 - brenton: [missing]
 
 ### Isaiah 51:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift your eyes to heaven and look at earth below, because heaven was fixed like smoke and earth will grow old like garment, and those dwelling earth will die like these. But my salvation will be forever and my righteousness will not fail.
 - brenton: [missing]
 
 ### Isaiah 51:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, you knowing judgment, my people whose law is in your heart. Do not fear reproach of men and do not be defeated by their contempt.
 - brenton: [missing]
 
 ### Isaiah 51:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For as garment it will be eaten by time and as wool it will be eaten by moth. But my righteousness will be forever and my salvation to generations of generations.
 - brenton: [missing]
 
 ### Isaiah 51:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake, awake, Jerusalem, and put on strength of your arm. Awake as in beginning of days, as generation of age. Are you not
 - brenton: [missing]
 
 ### Isaiah 51:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one laying waste sea, water of abyss, making abundance, one making depths of sea way of passage for delivered ones?
 - brenton: [missing]
 
 ### Isaiah 51:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For redeemed by Lord will return and come to Zion with gladness, and everlasting exultation on their head. Praise and gladness and joy will seize them. Pain and grief and groaning fled.
 - brenton: [missing]
 
 ### Isaiah 51:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am, I am one comforting you. Know whom you feared, dreading mortal man and son of man who dried up like grass.
 - brenton: [missing]
 
 ### Isaiah 51:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you forgot God who made you, who made heaven and founded earth, and you feared always all days face of wrath of one afflicting you, because he planned to remove you. And now where is wrath of one afflicting you?
 - brenton: [missing]
 
 ### Isaiah 51:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For in being saved you will not stand still nor delay.
 - brenton: [missing]
 
 ### Isaiah 51:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I am your God, stirring sea and sounding its waves. Lord Sabaoth my name.
 - brenton: [missing]
 
 ### Isaiah 51:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will put my words into your mouth, and under shadow of my hand I will shelter you, by which I set heaven and founded earth and will say to Zion, You are my people.
 - brenton: [missing]
 
 ### Isaiah 51:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake, awake. Rise, Jerusalem, you who drank cup of wrath from hand of Lord, because cup of falling, bowl of wrath, you drank and drained it.
 - brenton: [missing]
 
 ### Isaiah 51:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there was no one comforting you from all your children whom you bore, and no one taking your hand from all your sons whom you raised.
 - brenton: [missing]
 
 ### Isaiah 51:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These two things stand against you. Who will grieve with you? Ruin and crushing, famine and sword. Who will comfort you?
 - brenton: [missing]
 
 ### Isaiah 51:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your sons in distress, sleeping at edge of every street, like half-cooked beet, full of wrath of Lord, weakened by Lord God.
 - brenton: [missing]
 
 ### Isaiah 51:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore hear this, humbled one and drunken one, not from wine.
 - brenton: [missing]
 
 ### Isaiah 51:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God, one judging his people: See, I have taken from your hand cup of falling, bowl of wrath, and you will no longer drink it.
 - brenton: [missing]
 
 ### Isaiah 51:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will put it into hands of those wronging you and humbling you, who said to your soul, Bend down so we may pass by. And you made your back level with earth outside for those passing by.
 - brenton: [missing]
 
 ### Isaiah 52:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake, awake, Zion. Put on your strength, Zion, and put on your glory, Jerusalem, holy city, because uncircumcised and unclean will no longer pass through you.
 - brenton: [missing]
 
 ### Isaiah 52:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shake off dust and rise. Sit, Jerusalem. Strip off bond of your neck, captive daughter of Zion.
 - brenton: [missing]
 
 ### Isaiah 52:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: For nothing you were sold, and not with silver will you be redeemed.
 - brenton: [missing]
 
 ### Isaiah 52:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: My people first went down to Egypt to dwell there, and to Assyrians they were led by force.
 - brenton: [missing]
 
 ### Isaiah 52:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now why are you here? says Lord, because my people was taken for nothing. Be amazed and howl, says Lord. Because of you continually my name is blasphemed among nations.
 - brenton: [missing]
 
 ### Isaiah 52:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore my people will know my name in that day, because I am one speaking; I am present.
 - brenton: [missing]
 
 ### Isaiah 52:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beautiful upon mountains are feet of one bringing good news, report of peace, one bringing good things as good news, because I will make your salvation heard, saying to Zion, Your God will reign.
 - brenton: [missing]
 
 ### Isaiah 52:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because voice of your watchmen was lifted up, and with voice together they will rejoice, because eye to eye they will see when Lord shows mercy to Zion.
 - brenton: [missing]
 
 ### Isaiah 52:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let desolations of Jerusalem break out together in gladness, because Lord had mercy on her and rescued Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 52:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will uncover his holy arm before all nations, and all ends of earth will see salvation from God.
 - brenton: [missing]
 
 ### Isaiah 52:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Depart, depart. Go out from there, and touch nothing unclean. Go out from midst of her. Be set apart, you carrying vessels of Lord.
 - brenton: [missing]
 
 ### Isaiah 52:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because not with turmoil will you go out, nor will you go as fleeing, for Lord will go before you, and Lord God of Israel will gather you.
 - brenton: [missing]
 
 ### Isaiah 52:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, my servant will understand and be exalted and glorified greatly.
 - brenton: [missing]
 
 ### Isaiah 52:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As many will be astonished at you, so your appearance will be without glory from men and your glory from people.
 - brenton: [missing]
 
 ### Isaiah 52:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So many nations will marvel at him, and kings will shut their mouth, because those to whom nothing was told concerning him will see, and those who did not hear will understand.
 - brenton: [missing]
 
 ### Isaiah 53:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, who believed our report? And to whom was arm of Lord revealed?
 - brenton: [missing]
 
 ### Isaiah 53:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We announced before him as child, as root in thirsty land. He has no form nor glory, and we saw him, and he had no form nor beauty.
 - brenton: [missing]
 
 ### Isaiah 53:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But his form dishonored, failing beyond all men, man in wound and knowing how to bear sickness, because his face is turned away; he was dishonored and not counted.
 - brenton: [missing]
 
 ### Isaiah 53:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This one bears our sins and suffers pain for us, and we counted him to be in pain and in wound and in affliction.
 - brenton: [missing]
 
 ### Isaiah 53:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he was wounded because of our lawless deeds and weakened because of our sins. Discipline of our peace on him; by his bruise we were healed.
 - brenton: [missing]
 
 ### Isaiah 53:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All we as sheep wandered. Man wandered in his own way, and Lord gave him over for our sins.
 - brenton: [missing]
 
 ### Isaiah 53:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he, because he was afflicted, does not open his mouth. As sheep led to slaughter and as lamb silent before one shearing it, so he does not open his mouth.
 - brenton: [missing]
 
 ### Isaiah 53:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In his humiliation his judgment was taken away. Who will tell his generation? Because his life is taken from earth; because of lawless deeds of my people he was led to death.
 - brenton: [missing]
 
 ### Isaiah 53:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give wicked ones for his burial and rich ones for his death, because he did no lawlessness, nor was deceit found in his mouth.
 - brenton: [missing]
 
 ### Isaiah 53:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord desires to cleanse him from wound. If you give your soul concerning sin, he will see long-lived seed, and Lord desires to remove pain.
 - brenton: [missing]
 
 ### Isaiah 53:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From pain of his soul, to show him light and form with understanding, to justify righteous one serving many well, and he will bear their sins.
 - brenton: [missing]
 
 ### Isaiah 53:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore he will inherit many and divide spoils of strong, because his soul was given over to death and he was counted among lawless ones, and he bore sins of many and was given over because of their sins.
 - brenton: [missing]
 
 ### Isaiah 54:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice, barren one who does not bear. Break out and cry, you not laboring, because children of desolate one more than of her having husband, said Lord.
 - brenton: [missing]
 
 ### Isaiah 54:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enlarge place of your tent, and fix your curtains. Do not spare. Lengthen your cords and strengthen your pegs.
 - brenton: [missing]
 
 ### Isaiah 54:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Still to right and to left spread out, and your seed will inherit nations and inhabit desolated cities.
 - brenton: [missing]
 
 ### Isaiah 54:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear, because you were put to shame; do not be disgraced, because you were reproached, because you will forget everlasting shame and no longer remember reproach of your widowhood.
 - brenton: [missing]
 
 ### Isaiah 54:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord making you, Lord Sabaoth his name, and one rescuing you, he God of Israel, will be called God of all earth.
 - brenton: [missing]
 
 ### Isaiah 54:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not as woman forsaken and fainthearted has Lord called you, nor as woman hated from youth, said your God.
 - brenton: [missing]
 
 ### Isaiah 54:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For small time I left you, and with great mercy I will have mercy on you.
 - brenton: [missing]
 
 ### Isaiah 54:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In little wrath I turned my face from you, and with everlasting mercy I will have mercy on you, said Lord, one rescuing you.
 - brenton: [missing]
 
 ### Isaiah 54:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This to me from water of Noah, just as I swore to him in that time not to be angry with earth. So neither will I be angry with you anymore nor threaten you.
 - brenton: [missing]
@@ -167450,774 +167450,774 @@ Note:
 
 ### Isaiah 54:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Afflicted and unstable one, you were not comforted. See, I prepare your stone with charcoal and your foundations with sapphire.
 - brenton: [missing]
 
 ### Isaiah 54:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make your battlements jasper and your gates stones of crystal and your wall chosen stones.
 - brenton: [missing]
 
 ### Isaiah 54:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all your sons taught of God, and your children in much peace.
 - brenton: [missing]
 
 ### Isaiah 54:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in righteousness you will be built. Keep far from injustice and you will not fear, and terror will not come near you.
 - brenton: [missing]
 
 ### Isaiah 54:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, strangers will come to you through me and will flee for refuge to you.
 - brenton: [missing]
 
 ### Isaiah 54:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, I created you not as smith blowing coals and bringing out vessel for work; I created you not for destruction to ruin.
 - brenton: [missing]
 
 ### Isaiah 54:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every harmful weapon against you I will not prosper, and every voice rising against you in judgment you will defeat them all. But your accusers will be guilty in it. This inheritance for those serving Lord, and you will be righteous to me, says Lord.
 - brenton: [missing]
 
 ### Isaiah 55:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You thirsty ones, go to water. And those not having silver, go, buy, and drink. Without silver and price, wine and fat.
 - brenton: [missing]
 
 ### Isaiah 55:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why are you valued with silver and your labor not for fullness? Hear me and eat good things, and your soul will delight in good things.
 - brenton: [missing]
 
 ### Isaiah 55:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pay attention with your ears and follow my ways. Hear me, and your soul will live in good things, and I will make everlasting covenant with you, faithful holy things of David.
 - brenton: [missing]
 
 ### Isaiah 55:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, I have given him as witness among nations, ruler and commander to nations.
 - brenton: [missing]
 
 ### Isaiah 55:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations that did not know you will call you, and peoples that do not understand you will flee for refuge to you, because of your God, Holy One of Israel, because he glorified you.
 - brenton: [missing]
 
 ### Isaiah 55:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seek God, and when you find him call on him when he draws near you.
 - brenton: [missing]
 
 ### Isaiah 55:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let ungodly man leave his ways and lawless man his counsels, and let him turn to Lord, and he will receive mercy, because he will abundantly forgive your sins.
 - brenton: [missing]
 
 ### Isaiah 55:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my counsels are not like your counsels, nor are my ways like your ways, says Lord.
 - brenton: [missing]
 
 ### Isaiah 55:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But as heaven far from earth, so my way far from your ways and your thoughts from my mind.
 - brenton: [missing]
 
 ### Isaiah 55:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For as rain and snow comes down from heaven and will not return until it drenches earth and it brings forth and sprouts and gives seed to sower and bread for food,
 - brenton: [missing]
 
 ### Isaiah 55:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so my word that goes out from my mouth will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
 - brenton: [missing]
 
 ### Isaiah 55:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For in gladness you will go out and in joy be taught. Mountains and hills will leap, awaiting you with joy, and all trees of field will clap with branches.
 - brenton: [missing]
 
 ### Isaiah 55:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And instead of stubble cypress will come up, and instead of nettle myrtle will come up, and Lord will be for name and everlasting sign and will not fail.
 - brenton: [missing]
 
 ### Isaiah 56:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Keep judgment. Do righteousness, because my salvation draws near to come and my mercy to be revealed.
 - brenton: [missing]
 
 ### Isaiah 56:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
 - brenton: [missing]
 
 ### Isaiah 56:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not foreigner joined to Lord say, Lord will surely separate me from his people. And let not eunuch say, I am dry tree.
 - brenton: [missing]
 
 ### Isaiah 56:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord to eunuchs: As many as keep my Sabbaths and choose what I want and hold fast my covenant,
 - brenton: [missing]
 
 ### Isaiah 56:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will give them in my house and within my wall notable place, better than sons and daughters. I will give them everlasting name and it will not fail.
 - brenton: [missing]
 
 ### Isaiah 56:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to foreigners joined to Lord to serve him and love name of Lord, so as to be his male and female servants, and all keeping my Sabbaths not profaning them and holding fast my covenant,
 - brenton: [missing]
 
 ### Isaiah 56:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bring them to my holy mountain and gladden them in house of my prayer. Their whole burnt offerings and sacrifices will be acceptable on my altar, for my house will be called house of prayer for all nations.
 - brenton: [missing]
 
 ### Isaiah 56:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord who gathers scattered Israel says, I will gather to him assembly.
 - brenton: [missing]
 
 ### Isaiah 56:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All wild beasts, come eat, all beasts of forest.
 - brenton: [missing]
 
 ### Isaiah 56:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, all are blinded; they did not know to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
 - brenton: [missing]
 
 ### Isaiah 56:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dogs shameless in soul, not knowing fullness, and evil, not knowing understanding. All followed their own ways, each according to himself.
 - brenton: [missing]
 
 ### Isaiah 57:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See how righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from face of injustice righteous man is taken away.
 - brenton: [missing]
 
 ### Isaiah 57:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His burial will be in peace; he is taken from midst.
 - brenton: [missing]
 
 ### Isaiah 57:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, come here, sons of lawless one, seed of adulterers and prostitute.
 - brenton: [missing]
 
 ### Isaiah 57:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In whom did you delight yourselves? Against whom did you open your mouth and let loose your tongue? Are you not children of destruction, lawless seed,
 - brenton: [missing]
 
 ### Isaiah 57:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: inflamed over idols under leafy trees, slaughtering your children in ravines between rocks?
 - brenton: [missing]
 
 ### Isaiah 57:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: That is your portion. This is your lot. To them you poured drink offerings; to them you brought sacrifices. Shall I not be angry over these things?
 - brenton: [missing]
 
 ### Isaiah 57:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On high and lofty mountain, there your bed; there you brought up sacrifices.
 - brenton: [missing]
 
 ### Isaiah 57:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behind doorposts of your door you set your memorials. You thought that if you depart from me you will have something more. You loved those sleeping with you.
 - brenton: [missing]
 
 ### Isaiah 57:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you multiplied your prostitution with them and made many far from you, and sent messengers beyond your borders and turned away and were humbled unto Hades.
 - brenton: [missing]
 
 ### Isaiah 57:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In your many ways you labored and did not say, I will stop. Because you kept strengthening yourself, therefore you did not ask of me.
 - brenton: [missing]
 
 ### Isaiah 57:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whom did you respect and fear and lie against me, and not remember me, nor take me into your mind or heart? And I, seeing you, overlooked it, and you did not fear me.
 - brenton: [missing]
 
 ### Isaiah 57:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I will declare my righteousness and your evils, which will not profit you.
 - brenton: [missing]
 
 ### Isaiah 57:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When you cry out, let them deliver you in your distress; for wind will take them all and storm carry them away. But those holding to me will possess land and inherit my holy mountain.
 - brenton: [missing]
 
 ### Isaiah 57:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will say, Clear roads before him and lift obstacles from way of my people.
 - brenton: [missing]
 
 ### Isaiah 57:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Most High, dwelling in heights forever, Holy among holy ones his name, Lord Most High, resting among holy ones and giving patience to fainthearted ones and giving life to crushed in heart.
 - brenton: [missing]
 
 ### Isaiah 57:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not forever will I avenge you, nor be angry with you always, for spirit from me will go out, and I made every breath.
 - brenton: [missing]
 
 ### Isaiah 57:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of sin I grieved him a little and struck him and turned my face away from him, and he was grieved and went gloomy in his ways.
 - brenton: [missing]
 
 ### Isaiah 57:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His ways I saw and healed him and comforted him and gave him true comfort.
 - brenton: [missing]
 
 ### Isaiah 57:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Peace upon peace to those far and to those near, and Lord said, I will heal them.
 - brenton: [missing]
 
 ### Isaiah 57:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But unrighteous ones will be shaken like sea and cannot rest.
 - brenton: [missing]
 
 ### Isaiah 57:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No rejoicing for ungodly, said Lord God.
 - brenton: [missing]
 
 ### Isaiah 58:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cry out with strength and do not spare. Lift your voice like trumpet and announce to my people their sins and to house of Jacob their lawless deeds.
 - brenton: [missing]
 
 ### Isaiah 58:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They seek me day after day and want to know my ways, as people doing righteousness and not forsaking judgment of their God. They ask me now for righteous judgment and desire to draw near to God.
 - brenton: [missing]
 
 ### Isaiah 58:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, Why did we fast and you did not see? We humbled our souls and you did not know. For in days of your fasts you find your own desires and prick all under your hand.
 - brenton: [missing]
 
 ### Isaiah 58:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you fast for judgments and fights and strike humble one with fists, why fast to me as today, so your voice may be heard in cry?
 - brenton: [missing]
 
 ### Isaiah 58:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I did not choose such fast, nor day for man to humble his soul, nor if you bend your neck like ring and spread sackcloth and ashes. You will not call this acceptable fast.
 - brenton: [missing]
 
 ### Isaiah 58:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is not this the fast I chose, says Lord? Loose every bond of injustice, untie knots of violent agreements, send broken ones away in release, and tear up every unjust writing.
 - brenton: [missing]
 
 ### Isaiah 58:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Break your bread to hungry and bring poor homeless into your house. If you see naked one, clothe him. And from your own seed do not turn away.
 - brenton: [missing]
 
 ### Isaiah 58:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then your light will burst forth early and your healings quickly rise, and your righteousness will go before you and glory of God will surround you.
 - brenton: [missing]
 
 ### Isaiah 58:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will cry, and God will hear you. While you are still speaking he will say, See, I am here. If you remove from you bond and pointing of hand and word of grumbling,
 - brenton: [missing]
 
 ### Isaiah 58:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and give bread from your soul to hungry one and fill humbled soul, then your light will rise in darkness and your darkness as midday.
 - brenton: [missing]
 
 ### Isaiah 58:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your God will be with you always, and you will be filled as your soul desires, and your bones will grow fat, and you will be like well-watered garden and like spring whose water did not fail, and your bones like grass will spring up and grow fat, and they will inherit generations of generations.
 - brenton: [missing]
 
 ### Isaiah 58:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your everlasting desolations will be built, and your foundations everlasting to generations of generations. And you will be called builder of fences, and you will stop the paths between.
 - brenton: [missing]
 
 ### Isaiah 58:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you turn your foot from Sabbaths, not doing your wishes on holy day, and call Sabbaths delightful, holy to your God, you will not lift your foot for work nor speak word in anger from your mouth.
 - brenton: [missing]
 
 ### Isaiah 58:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will be confident in Lord, and he will bring you up on good things of earth and feed you inheritance of Jacob your father, for mouth of Lord spoke these things.
 - brenton: [missing]
 
 ### Isaiah 59:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Surely hand of Lord not too weak to save, nor his ear made heavy so as not to hear.
 - brenton: [missing]
 
 ### Isaiah 59:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But your sins separate between you and God, and because of your sins he turned his face away from you so as not to have mercy.
 - brenton: [missing]
 
 ### Isaiah 59:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For your hands polluted with blood and your fingers with sins. Your lips spoke lawlessness and your tongue studies injustice.
 - brenton: [missing]
 
 ### Isaiah 59:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No one speaks righteous things, nor is there true judgment. They trust in vanities and speak empty things, because they conceive pain and bear lawlessness.
 - brenton: [missing]
 
 ### Isaiah 59:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They hatch eggs of asps and weave spider's web, and one about to eat their eggs, breaking one, finds a viper in it.
 - brenton: [missing]
 
 ### Isaiah 59:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their web will not become garment, nor will they clothe themselves from their works, for their works = works of lawlessness.
 - brenton: [missing]
 
 ### Isaiah 59:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their feet run to evil, quick to pour out blood, and their thoughts thoughts of fools. Crushing and misery in their ways.
 - brenton: [missing]
 
 ### Isaiah 59:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They do not know way of peace, and no judgment in their ways, for their paths twisted, which they travel, and they do not know peace.
 - brenton: [missing]
 
 ### Isaiah 59:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore judgment withdrew from them, and righteousness will not overtake them. Though they waited for light, darkness came to them. Remaining for brightness, they walked in gloom.
 - brenton: [missing]
 
 ### Isaiah 59:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will grope wall like blind men and as having no eyes they will grope, and fall at noon as at midnight. As dying men they will groan.
 - brenton: [missing]
 
 ### Isaiah 59:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like bear and like dove together they will go. We waited for judgment, and there is none; salvation stood far from us.
 - brenton: [missing]
 
 ### Isaiah 59:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For our lawlessness great before you, and our sins stood against us. Our lawless deeds in us, and our injustices we know:
 - brenton: [missing]
 
 ### Isaiah 59:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: we acted ungodly and lied and turned away from behind our God. We spoke unjust things and disobeyed. We conceived and studied from our heart unjust words.
 - brenton: [missing]
 
 ### Isaiah 59:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we turned judgment backward and righteousness stood far off, because truth was consumed in their ways and they could not pass by straight paths.
 - brenton: [missing]
 
 ### Isaiah 59:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And truth was taken away and they removed understanding from mind. And Lord saw, and it did not please him, because there was no judgment.
 - brenton: [missing]
 
 ### Isaiah 59:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he saw, and there was no man, and he understood, and there was no one to help. So he defended them with his arm and established himself with mercy.
 - brenton: [missing]
 
 ### Isaiah 59:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he put on righteousness as breastplate and placed helmet of salvation on head and put on garment of vengeance as clothing.
 - brenton: [missing]
 
 ### Isaiah 59:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As one giving repayment, reproach to opponents.
 - brenton: [missing]
 
 ### Isaiah 59:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those from west will fear name of Lord, and those from sunrise his glorious name. For wrath from Lord will come like violent river, coming with fury.
 - brenton: [missing]
 
 ### Isaiah 59:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rescuer will come for sake of Zion and turn away ungodliness from Jacob.
 - brenton: [missing]
@@ -168233,279 +168233,279 @@ Note:
 
 ### Isaiah 60:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shine, shine, Jerusalem, for your light has come and glory of Lord has risen on you.
 - brenton: [missing]
 
 ### Isaiah 60:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, darkness and gloom will cover earth over nations; but on you Lord will appear and his glory will be seen on you.
 - brenton: [missing]
 
 ### Isaiah 60:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And kings will walk by your light and nations by your brightness.
 - brenton: [missing]
 
 ### Isaiah 60:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift your eyes around and see. Your children gathered; see, all your sons came from far away and your daughters will be carried on shoulders.
 - brenton: [missing]
 
 ### Isaiah 60:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will see and fear and your heart will be amazed, because wealth of sea and of nations and peoples will turn to you and come to you.
 - brenton: [missing]
 
 ### Isaiah 60:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Herds of camels will cover you, camels of Midian and Ephah. All from Sheba will come, carrying gold and incense, and proclaiming salvation of Lord.
 - brenton: [missing]
 
 ### Isaiah 60:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all sheep of Kedar will be gathered to you and rams of Nebaioth will come to you and be brought up acceptable on my altar, and my house of prayer will be glorified.
 - brenton: [missing]
 
 ### Isaiah 60:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who are these flying like clouds and like doves with young?
 - brenton: [missing]
 
 ### Isaiah 60:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of holy name of Lord and because Holy One of Israel is glorified.
 - brenton: [missing]
 
 ### Isaiah 60:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foreigners will build your walls and their kings stand beside you, because in my wrath I struck you and in mercy I loved you.
 - brenton: [missing]
 
 ### Isaiah 60:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your gates will be opened continually; day and night they will not be shut, to bring to you strength of nations and kings being led.
 - brenton: [missing]
 
 ### Isaiah 60:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For nations and kings that will not serve you will perish, and nations will be made utterly desolate.
 - brenton: [missing]
 
 ### Isaiah 60:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Glory of Lebanon will come to you with cypress and pine and cedar together, to glorify place of my holy one.
 - brenton: [missing]
 
 ### Isaiah 60:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of those humbling you and provoking you will come to you in fear, and you will be called city of Lord, Zion of Holy One of Israel.
 - brenton: [missing]
 
 ### Isaiah 60:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you became forsaken and hated and there was none to help, I will make you everlasting exultation, joy of generation to generation.
 - brenton: [missing]
 
 ### Isaiah 60:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will suck milk of nations and eat wealth of kings, and you will know that I Lord am one saving you and delivering you, God of Israel.
 - brenton: [missing]
 
 ### Isaiah 60:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Instead of bronze I will bring you gold, and instead of iron I will bring you silver, and instead of wood bronze, and instead of stones iron. And I will give your rulers in peace and your overseers in righteousness.
 - brenton: [missing]
 
 ### Isaiah 60:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Injustice will no longer be heard in your land, nor crushing nor misery in your borders, but your walls will be called Salvation and your gates Praise.
 - brenton: [missing]
 
 ### Isaiah 60:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun will not be for you light by day, nor rising of moon light your night, but Lord will be everlasting light for you and God your glory.
 - brenton: [missing]
 
 ### Isaiah 60:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your sun will not set and your moon will not fail, for Lord will be everlasting light for you and days of your mourning will be fulfilled.
 - brenton: [missing]
 
 ### Isaiah 60:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All your people righteous, and forever they will inherit land, keeping the plant, work of his hands, for glory.
 - brenton: [missing]
 
 ### Isaiah 60:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Least one will become into thousands and smallest into great nation. I Lord in due time will gather them.
 - brenton: [missing]
 
 ### Isaiah 61:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Spirit of Lord on me, because he anointed me to bring good news to poor. He sent me to heal crushed in heart, proclaim release to captives and sight to blind.
 - brenton: [missing]
 
 ### Isaiah 61:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Call year of Lord acceptable and day of repayment, to comfort all mourning ones.
 - brenton: [missing]
 
 ### Isaiah 61:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give to mourning ones of Zion glory instead of ashes, oil of gladness to mourning ones, garment of glory instead of spirit of weariness, and they will be called generations of righteousness, planting of Lord for glory.
 - brenton: [missing]
 
 ### Isaiah 61:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will build everlasting desolations, raise up places formerly deserted, and renew desolate cities, desolated through generations.
 - brenton: [missing]
 
 ### Isaiah 61:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foreigners will come, shepherding your sheep, and aliens plowmen and vine-dressers.
 - brenton: [missing]
 
 ### Isaiah 61:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you will be called priests of Lord, ministers of God. You will eat strength of nations and be marveled at in their wealth.
 - brenton: [missing]
 
 ### Isaiah 61:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So they will inherit land second time and everlasting joy above their head.
 - brenton: [missing]
 
 ### Isaiah 61:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I am Lord loving righteousness and hating robberies from injustice, and I will give their toil to righteous ones and make everlasting covenant with them.
 - brenton: [missing]
 
 ### Isaiah 61:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their seed will be known among nations and their offspring in midst of peoples. Everyone seeing them will know them, because these are seed blessed by God.
 - brenton: [missing]
