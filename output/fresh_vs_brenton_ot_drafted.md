@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 15572
-- medium: 1679
-- low: 5666
+- high: 15752
+- medium: 1642
+- low: 5523
 - none: 0
 
 Note:
@@ -139119,1620 +139119,1620 @@ Note:
 
 ### Psalms 103:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One causing grass to spring up for cattle and green plant for service of men, to bring bread out of earth,
 - brenton: [missing]
 
 ### Psalms 103:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and wine gladdens heart of man, to brighten face with oil, and bread strengthens heart of man.
 - brenton: [missing]
 
 ### Psalms 103:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Trees of plain will be filled, cedars of Lebanon which he planted.
 - brenton: [missing]
 
 ### Psalms 103:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There sparrows will nest; house of stork leads them.
 - brenton: [missing]
 
 ### Psalms 103:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: High mountains for deer, rock refuge for rock-badgers.
 - brenton: [missing]
 
 ### Psalms 103:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made moon for seasons; sun knew its setting.
 - brenton: [missing]
 
 ### Psalms 103:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You set darkness, and night came; in it all beasts of forest will pass through.
 - brenton: [missing]
 
 ### Psalms 103:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lion-cubs roaring to seize and to seek food for themselves from God.
 - brenton: [missing]
 
 ### Psalms 103:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun rose, and they were gathered, and in their dens they will lie down.
 - brenton: [missing]
 
 ### Psalms 103:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man will go out to his work and to his labor until evening.
 - brenton: [missing]
 
 ### Psalms 103:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How your works were magnified, Lord; in wisdom you made all. Earth was filled with your creation.
 - brenton: [missing]
 
 ### Psalms 103:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This sea, great and broad-spaced: there creeping things without number, small animals with great.
 - brenton: [missing]
 
 ### Psalms 103:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There ships pass through; this dragon you formed to play in it.
 - brenton: [missing]
 
 ### Psalms 103:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All look to you to give food to them in due season.
 - brenton: [missing]
 
 ### Psalms 103:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When you give to them, they will gather; when you open your hand, all things will be filled with goodness.
 - brenton: [missing]
 
 ### Psalms 103:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When you turn away your face, they will be troubled; you will take away their spirit, and they will fail and return to their dust.
 - brenton: [missing]
 
 ### Psalms 103:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You send out your spirit, and they will be created, and you renew face of earth.
 - brenton: [missing]
 
 ### Psalms 103:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let glory of Lord be forever; Lord will rejoice in his works,
 - brenton: [missing]
 
 ### Psalms 103:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one looking upon earth and making it tremble, one touching mountains and they smoke.
 - brenton: [missing]
 
 ### Psalms 103:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will sing to Lord in my life; I will make melody to my God while I exist.
 - brenton: [missing]
 
 ### Psalms 103:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let my discourse be sweet to him; and I will rejoice in Lord.
 - brenton: [missing]
 
 ### Psalms 103:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let sinners fail from earth, and lawless ones so as not to exist. Bless Lord, my soul.
 - brenton: [missing]
 
 ### Psalms 104:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Confess to Lord and call on his name; declare among nations his works.
 - brenton: [missing]
 
 ### Psalms 104:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to him and make melody to him; recount all his wonders.
 - brenton: [missing]
 
 ### Psalms 104:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Praise in his holy name; let heart of those seeking Lord rejoice.
 - brenton: [missing]
 
 ### Psalms 104:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seek Lord and be strengthened; seek his face continually.
 - brenton: [missing]
 
 ### Psalms 104:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember his wonders which he did, his portents and judgments of his mouth,
 - brenton: [missing]
 
 ### Psalms 104:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: seed of Abraham, his servants, sons of Jacob, his chosen ones.
 - brenton: [missing]
 
 ### Psalms 104:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He Lord our God; in all earth his judgments.
 - brenton: [missing]
 
 ### Psalms 104:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He remembered his covenant forever, word which he commanded for thousand generations,
 - brenton: [missing]
 
 ### Psalms 104:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: which he arranged with Abraham and his oath to Isaac.
 - brenton: [missing]
 
 ### Psalms 104:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he set it to Jacob for ordinance and to Israel everlasting covenant,
 - brenton: [missing]
 
 ### Psalms 104:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, To you I will give land of Canaan, line-measure of your inheritance,
 - brenton: [missing]
 
 ### Psalms 104:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when they were few in number, very few and sojourners in it,
 - brenton: [missing]
 
 ### Psalms 104:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they passed from nation to nation, from kingdom to another people.
 - brenton: [missing]
 
 ### Psalms 104:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He did not allow man to do them injustice, and he reproved kings for their sake:
 - brenton: [missing]
 
 ### Psalms 104:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not touch my anointed ones, and in my prophets do not do evil.
 - brenton: [missing]
 
 ### Psalms 104:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he called famine upon earth; he crushed every support of bread.
 - brenton: [missing]
 
 ### Psalms 104:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent before them man; Joseph was sold for slave.
 - brenton: [missing]
 
 ### Psalms 104:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They humbled his feet in shackles; iron went through his soul,
 - brenton: [missing]
 
 ### Psalms 104:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until his word came; saying of Lord refined him.
 - brenton: [missing]
 
 ### Psalms 104:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: King sent and loosed him, ruler of peoples and released him.
 - brenton: [missing]
 
 ### Psalms 104:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made him lord of his house and ruler of all his possession,
 - brenton: [missing]
 
 ### Psalms 104:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to discipline his rulers like himself and make his elders wise.
 - brenton: [missing]
 
 ### Psalms 104:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Israel entered into Egypt, and Jacob sojourned in land of Ham.
 - brenton: [missing]
 
 ### Psalms 104:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he increased his people exceedingly and strengthened it beyond its enemies.
 - brenton: [missing]
 
 ### Psalms 104:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He turned their heart to hate his people, to deal deceitfully with his servants.
 - brenton: [missing]
 
 ### Psalms 104:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent Moses his servant, Aaron whom he chose,
 - brenton: [missing]
 
 ### Psalms 104:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: he set among them words of his signs and portents in land of Ham.
 - brenton: [missing]
 
 ### Psalms 104:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent darkness and darkened, and they provoked his words.
 - brenton: [missing]
 
 ### Psalms 104:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He turned their waters to blood and killed their fish.
 - brenton: [missing]
 
 ### Psalms 104:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their land teemed with frogs in chambers of their kings.
 - brenton: [missing]
 
 ### Psalms 104:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He spoke, and dog-fly came, and gnats in all their borders.
 - brenton: [missing]
 
 ### Psalms 104:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made their rains hail, burning fire in their land.
 - brenton: [missing]
 
 ### Psalms 104:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he struck their vines and their fig trees and shattered every tree of their border.
 - brenton: [missing]
 
 ### Psalms 104:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He spoke, and locust came, and young locust without number,
 - brenton: [missing]
 
 ### Psalms 104:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and devoured all grass in their land and devoured fruit of their earth.
 - brenton: [missing]
 
 ### Psalms 104:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he struck every firstborn in their land, firstfruits of all their labor.
 - brenton: [missing]
 
 ### Psalms 104:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led them out with silver and gold, and there was none weak in their tribes.
 - brenton: [missing]
 
 ### Psalms 104:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Egypt rejoiced in their departure, because fear of them fell upon them.
 - brenton: [missing]
 
 ### Psalms 104:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He spread out cloud for covering to them and fire to give them light by night.
 - brenton: [missing]
 
 ### Psalms 104:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They asked, and quail came, and bread of heaven filled them.
 - brenton: [missing]
 
 ### Psalms 104:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He split rock and waters flowed; rivers went in waterless places.
 - brenton: [missing]
 
 ### Psalms 104:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he remembered his holy word to Abraham his servant.
 - brenton: [missing]
 
 ### Psalms 104:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led out his people with exultation and his chosen ones with gladness.
 - brenton: [missing]
 
 ### Psalms 104:44
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave them lands of nations, and they inherited labors of peoples,
 - brenton: [missing]
 
 ### Psalms 104:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they might keep his ordinances and seek out his law.
 - brenton: [missing]
 
 ### Psalms 105:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Confess to Lord, because kind, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 105:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will speak powers of Lord, make all his praises heard?
 - brenton: [missing]
 
 ### Psalms 105:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed those keeping judgment and doing righteousness in every time.
 - brenton: [missing]
 
 ### Psalms 105:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember us, Lord, in good pleasure of your people; visit us in your salvation,
 - brenton: [missing]
 
 ### Psalms 105:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to see in goodness of your chosen ones, to rejoice in gladness of your nation, to be praised with your inheritance.
 - brenton: [missing]
 
 ### Psalms 105:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We sinned with our fathers, we acted lawlessly, we did injustice.
 - brenton: [missing]
 
 ### Psalms 105:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our fathers in Egypt did not understand your wonders; they did not remember multitude of your mercy and provoked while going up at Red Sea.
 - brenton: [missing]
 
 ### Psalms 105:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he saved them for sake of his name, to make known his dominion.
 - brenton: [missing]
 
 ### Psalms 105:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he rebuked Red Sea and it dried up, and he guided them in deep as in wilderness.
 - brenton: [missing]
 
 ### Psalms 105:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he saved them from hand of those hating and redeemed them from hand of enemy.
 - brenton: [missing]
 
 ### Psalms 105:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And water covered those afflicting them; not one of them was left.
 - brenton: [missing]
 
 ### Psalms 105:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they believed in his words and sang his praise.
 - brenton: [missing]
 
 ### Psalms 105:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They hurried, they forgot his works; they did not wait for his counsel.
 - brenton: [missing]
 
 ### Psalms 105:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they desired desire in wilderness and tested God in waterless place.
 - brenton: [missing]
 
 ### Psalms 105:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave them their request and sent fullness into their souls.
 - brenton: [missing]
 
 ### Psalms 105:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they angered Moses in camp, and Aaron, holy one of Lord.
 - brenton: [missing]
 
 ### Psalms 105:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth opened and swallowed Dathan and covered over assembly of Abiron.
 - brenton: [missing]
 
 ### Psalms 105:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fire burned in their assembly; flame consumed sinners.
 - brenton: [missing]
 
 ### Psalms 105:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they made calf in Horeb and worshiped carved image.
 - brenton: [missing]
 
 ### Psalms 105:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they exchanged their glory for likeness of calf eating grass.
 - brenton: [missing]
 
 ### Psalms 105:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They forgot God saving them, one doing great things in Egypt,
 - brenton: [missing]
 
 ### Psalms 105:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: wondrous things in land of Ham, fearful things by Red Sea.
 - brenton: [missing]
 
 ### Psalms 105:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to destroy them, if not Moses, his chosen one, stood in breaking before him to turn back his anger, so as not to destroy.
 - brenton: [missing]
 
 ### Psalms 105:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they despised desirable land; they did not believe his word.
 - brenton: [missing]
 
 ### Psalms 105:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they grumbled in their tents; they did not hear voice of Lord.
 - brenton: [missing]
 
 ### Psalms 105:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he raised his hand against them, to cast them down in wilderness,
 - brenton: [missing]
 
 ### Psalms 105:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and to cast down their seed among nations and scatter them in lands.
 - brenton: [missing]
 
 ### Psalms 105:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were joined to Beelphegor and ate sacrifices of dead ones.
 - brenton: [missing]
 
 ### Psalms 105:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they provoked him in their practices, and falling was multiplied among them.
 - brenton: [missing]
 
 ### Psalms 105:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Phinehas stood and propitiated, and breaking ceased.
 - brenton: [missing]
 
 ### Psalms 105:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was counted to him as righteousness from generation to generation forever.
 - brenton: [missing]
 
 ### Psalms 105:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they angered him at water of contradiction, and Moses was harmed because of them,
 - brenton: [missing]
 
 ### Psalms 105:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they provoked his spirit, and he distinguished with his lips.
 - brenton: [missing]
 
 ### Psalms 105:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not destroy nations which Lord told them,
 - brenton: [missing]
 
 ### Psalms 105:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they mixed among nations and learned their works.
 - brenton: [missing]
 
 ### Psalms 105:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they served their carved images, and it became to them stumbling-block.
 - brenton: [missing]
 
 ### Psalms 105:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they sacrificed their sons and daughters to demons,
 - brenton: [missing]
 
 ### Psalms 105:38
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and poured out innocent blood, blood of their sons and daughters whom they sacrificed to carved images of Canaan, and land was stained with bloods.
 - brenton: [missing]
 
 ### Psalms 105:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were defiled in their works and prostituted in their practices.
 - brenton: [missing]
 
 ### Psalms 105:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord was angered in fury against his people and abhorred his inheritance.
 - brenton: [missing]
 
 ### Psalms 105:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he handed them into hands of nations, and those hating them ruled over them.
 - brenton: [missing]
 
 ### Psalms 105:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their enemies afflicted them, and they were humbled under their hands.
 - brenton: [missing]
 
 ### Psalms 105:43
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many times he rescued them, but they provoked him in their counsel and were humbled in their lawlessnesses.
 - brenton: [missing]
 
 ### Psalms 105:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he saw when they were afflicted, when he heard their supplication.
 - brenton: [missing]
 
 ### Psalms 105:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he remembered his covenant and relented according to multitude of his mercy.
 - brenton: [missing]
 
 ### Psalms 105:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave them into compassions before all who had taken them captive.
 - brenton: [missing]
 
 ### Psalms 105:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Save us, Lord our God, and gather us from nations, to confess to your holy name, to boast in your praise.
 - brenton: [missing]
 
 ### Psalms 105:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord God of Israel from age and until age, and let all the people say, Amen, amen.
 - brenton: [missing]
 
 ### Psalms 106:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alleluia. Confess to Lord, because kind, because his mercy forever.
 - brenton: [missing]
 
 ### Psalms 106:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let those redeemed by Lord say so, whom he redeemed from hand of enemy
 - brenton: [missing]
 
 ### Psalms 106:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and gathered them from lands, from east and west and north and sea.
 - brenton: [missing]
 
 ### Psalms 106:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They wandered in wilderness, in waterless place; they did not find way of city of dwelling.
 - brenton: [missing]
 
 ### Psalms 106:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hungry and thirsty, their soul in them failed.
 - brenton: [missing]
 
 ### Psalms 106:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they cried to Lord when they were afflicted, and from their necessities he rescued them.
 - brenton: [missing]
 
 ### Psalms 106:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he guided them in straight way to go into city of dwelling.
 - brenton: [missing]
 
 ### Psalms 106:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them confess to Lord his mercies and his wonders to sons of men,
 - brenton: [missing]
 
 ### Psalms 106:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he satisfied empty soul, and hungry soul he filled with good things.
 - brenton: [missing]
 
 ### Psalms 106:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those sitting in darkness and shadow of death, chained in poverty and iron,
 - brenton: [missing]
 
 ### Psalms 106:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they provoked words of God and angered counsel of Most High.
 - brenton: [missing]
 
 ### Psalms 106:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their heart was humbled in labors; they grew weak, and there was none helping.
 - brenton: [missing]
 
 ### Psalms 106:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they cried to Lord when they were afflicted, and from their necessities he saved them.
 - brenton: [missing]
 
 ### Psalms 106:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he led them out from darkness and shadow of death and tore apart their bonds.
 - brenton: [missing]
 
 ### Psalms 106:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them confess to Lord his mercies and his wonders to sons of men,
 - brenton: [missing]
 
 ### Psalms 106:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he shattered bronze gates and broke iron bars.
 - brenton: [missing]
 
 ### Psalms 106:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He took hold of them out of way of their lawlessnesses, for because of their lawlessnesses they were humbled.
 - brenton: [missing]
 
 ### Psalms 106:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their soul abhorred all food, and they drew near to gates of death.
 - brenton: [missing]
 
 ### Psalms 106:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they cried to Lord when they were afflicted, and from their necessities he saved them.
 - brenton: [missing]
 
 ### Psalms 106:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent his word and healed them and rescued them from their corruptions.
 - brenton: [missing]
 
 ### Psalms 106:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them confess to Lord his mercies and his wonders to sons of men,
 - brenton: [missing]
 
 ### Psalms 106:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and let them sacrifice sacrifice of praise and declare his works in exultation.
 - brenton: [missing]
 
 ### Psalms 106:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those going down into sea in ships, doing business in many waters,
 - brenton: [missing]
 
 ### Psalms 106:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: they saw works of Lord and his wonders in deep.
 - brenton: [missing]
 
 ### Psalms 106:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He spoke, and storm wind stood, and its waves were lifted up.
 - brenton: [missing]
 
 ### Psalms 106:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They go up to heavens and go down to deeps; their soul in evils was melting.
 - brenton: [missing]
 
 ### Psalms 106:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were troubled, they were shaken like drunkard, and all their wisdom was swallowed up.
 - brenton: [missing]
 
 ### Psalms 106:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they cried to Lord when they were afflicted, and from their necessities he brought them out.
 - brenton: [missing]
 
 ### Psalms 106:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he commanded storm, and it stood to breeze, and its waves were silent.
 - brenton: [missing]
 
 ### Psalms 106:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they rejoiced because they were quiet, and he guided them to harbor of their will.
 - brenton: [missing]
 
 ### Psalms 106:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them confess to Lord his mercies and his wonders to sons of men,
 - brenton: [missing]
 
 ### Psalms 106:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: let them exalt him in assembly of people, and in seat of elders let them praise him.
 - brenton: [missing]
 
 ### Psalms 106:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made rivers into desert and outgoings of waters into thirst,
 - brenton: [missing]
 
 ### Psalms 106:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: fruitful land into salt-flat because of evil of those dwelling in it.
 - brenton: [missing]
 
 ### Psalms 106:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made desert into pools of waters and waterless land into outgoings of waters.
 - brenton: [missing]
 
 ### Psalms 106:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he settled there hungry ones, and they established city of dwelling.
 - brenton: [missing]
 
 ### Psalms 106:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they sowed fields and planted vineyards and made fruit of produce.
 - brenton: [missing]
 
 ### Psalms 106:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he blessed them, and they multiplied exceedingly, and their cattle he did not lessen.
 - brenton: [missing]
 
 ### Psalms 106:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were few and afflicted from affliction of evils and pain.
 - brenton: [missing]
 
 ### Psalms 106:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Contempt was poured out upon rulers, and he made them wander in trackless place and not way.
 - brenton: [missing]
 
 ### Psalms 106:41
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he helped poor man out of poverty and made families like sheep.
 - brenton: [missing]
 
 ### Psalms 106:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Straight ones will see and rejoice, and all lawlessness will shut its mouth.
 - brenton: [missing]
 
 ### Psalms 106:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who wise and will keep these things? And they will understand mercies of Lord.
 - brenton: [missing]
 
 ### Psalms 107:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of psalm of David.
 - brenton: [missing]
 
 ### Psalms 107:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ready my heart, O God, ready my heart; I will sing and make melody in my glory.
 - brenton: [missing]
 
 ### Psalms 107:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake, psaltery and lyre; I will awake at dawn.
 - brenton: [missing]
 
 ### Psalms 107:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will confess to you among peoples, Lord, and sing to you among nations,
 - brenton: [missing]
 
 ### Psalms 107:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because great above heavens your mercy and unto clouds your truth.
 - brenton: [missing]
 
 ### Psalms 107:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be exalted above heavens, O God, and over all earth your glory.
 - brenton: [missing]
 
 ### Psalms 107:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that your beloved ones may be rescued, save with your right hand and hear me.
 - brenton: [missing]
 
 ### Psalms 107:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God spoke in his holy place: I will be exalted and divide Shechem and valley of tents I will measure out.
 - brenton: [missing]
 
 ### Psalms 107:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mine Gilead and mine Manasseh, and Ephraim support of my head, Judah my king.
 - brenton: [missing]
 
 ### Psalms 107:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Moab cauldron of my hope; upon Idumea I will stretch out my sandal; foreigners were subjected to me.
 - brenton: [missing]
 
 ### Psalms 107:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will bring me into fortified city? Who will guide me as far as Idumea?
 - brenton: [missing]
 
 ### Psalms 107:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is it not you, O God, who rejected us? And God will not go out with our powers.
 - brenton: [missing]
 
 ### Psalms 107:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give us help from affliction, and salvation of man vain.
 - brenton: [missing]
 
 ### Psalms 107:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In God we will do mighty deed, and he will despise our enemies.
 - brenton: [missing]
 
 ### Psalms 108:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, of David, psalm. O God, my praise, do not pass over in silence,
 - brenton: [missing]
 
 ### Psalms 108:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because mouth of sinner and mouth of deceitful one opened against me; they spoke against me with deceitful tongue.
 - brenton: [missing]
 
 ### Psalms 108:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And with words of hatred they surrounded me and fought me without cause.
 - brenton: [missing]
 
 ### Psalms 108:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Instead of loving me they slandered me, but I was praying.
 - brenton: [missing]
 
 ### Psalms 108:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they set against me evils for good things and hatred for my love.
 - brenton: [missing]
 
 ### Psalms 108:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Appoint sinner over him, and let devil stand at his right hand.
 - brenton: [missing]
 
 ### Psalms 108:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When he is judged, let him go out condemned, and let his prayer become sin.
 - brenton: [missing]
 
 ### Psalms 108:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let his days become few, and let another take his oversight.
 - brenton: [missing]
