@@ -11,10 +11,10 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12452
+- high: 12512
 - medium: 2282
-- low: 8074
-- none: 109
+- low: 8070
+- none: 53
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -25273,9 +25273,9 @@ Note:
 
 ### Leviticus 6:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25372,9 +25372,9 @@ Note:
 
 ### Leviticus 6:12
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25417,9 +25417,9 @@ Note:
 
 ### Leviticus 6:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25669,9 +25669,9 @@ Note:
 
 ### Leviticus 7:22
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25723,9 +25723,9 @@ Note:
 
 ### Leviticus 7:28
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25822,9 +25822,9 @@ Note:
 
 ### Leviticus 8:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -26425,9 +26425,9 @@ Note:
 
 ### Leviticus 10:8
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Aaron, saying,
 - brenton: And the Lord spoke to Aaron, saying,
@@ -26542,9 +26542,9 @@ Note:
 
 ### Leviticus 11:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -26965,9 +26965,9 @@ Note:
 
 ### Leviticus 12:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -27037,9 +27037,9 @@ Note:
 
 ### Leviticus 13:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -27568,9 +27568,9 @@ Note:
 
 ### Leviticus 14:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -27856,9 +27856,9 @@ Note:
 
 ### Leviticus 14:33
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -28081,9 +28081,9 @@ Note:
 
 ### Leviticus 15:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -28684,9 +28684,9 @@ Note:
 
 ### Leviticus 17:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -28828,9 +28828,9 @@ Note:
 
 ### Leviticus 18:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -29098,9 +29098,9 @@ Note:
 
 ### Leviticus 19:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -29431,9 +29431,9 @@ Note:
 
 ### Leviticus 20:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -29809,9 +29809,9 @@ Note:
 
 ### Leviticus 21:16
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -29890,9 +29890,9 @@ Note:
 
 ### Leviticus 22:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30034,9 +30034,9 @@ Note:
 
 ### Leviticus 22:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30115,9 +30115,9 @@ Note:
 
 ### Leviticus 22:26
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30259,9 +30259,9 @@ Note:
 
 ### Leviticus 23:9
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30385,9 +30385,9 @@ Note:
 
 ### Leviticus 23:23
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30412,9 +30412,9 @@ Note:
 
 ### Leviticus 23:26
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30475,9 +30475,9 @@ Note:
 
 ### Leviticus 23:33
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30583,9 +30583,9 @@ Note:
 
 ### Leviticus 24:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -30691,9 +30691,9 @@ Note:
 
 ### Leviticus 24:13
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -31699,9 +31699,9 @@ Note:
 
 ### Leviticus 27:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -32430,9 +32430,9 @@ Note:
 
 ### Numbers 1:48
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -32493,9 +32493,9 @@ Note:
 
 ### Numbers 2:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -32835,9 +32835,9 @@ Note:
 
 ### Numbers 3:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -32889,9 +32889,9 @@ Note:
 
 ### Numbers 3:11
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33186,9 +33186,9 @@ Note:
 
 ### Numbers 3:44
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33258,9 +33258,9 @@ Note:
 
 ### Numbers 4:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -33402,9 +33402,9 @@ Note:
 
 ### Numbers 4:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -33438,9 +33438,9 @@ Note:
 
 ### Numbers 4:21
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33699,9 +33699,9 @@ Note:
 
 ### Numbers 5:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33735,9 +33735,9 @@ Note:
 
 ### Numbers 5:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33789,9 +33789,9 @@ Note:
 
 ### Numbers 5:11
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -33978,9 +33978,9 @@ Note:
 
 ### Numbers 6:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -34041,9 +34041,9 @@ Note:
 
 ### Numbers 6:8
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: All the days of his vow he shall be holy to the Lord.
 - brenton: All the days of his vow he shall be holy to the Lord.
@@ -34167,9 +34167,9 @@ Note:
 
 ### Numbers 6:22
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -35013,9 +35013,9 @@ Note:
 
 ### Numbers 8:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -35049,9 +35049,9 @@ Note:
 
 ### Numbers 8:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -35211,9 +35211,9 @@ Note:
 
 ### Numbers 8:23
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -35319,9 +35319,9 @@ Note:
 
 ### Numbers 9:9
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -35382,9 +35382,9 @@ Note:
 
 ### Numbers 9:16
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: So it was continually: the cloud covered it by day, and the appearance of fire by night.
 - brenton: So it was continually: the cloud covered it by day, and the appearance of fire by night.
@@ -35454,9 +35454,9 @@ Note:
 
 ### Numbers 10:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -36237,9 +36237,9 @@ Note:
 
 ### Numbers 13:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -37083,9 +37083,9 @@ Note:
 
 ### Numbers 15:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -37479,18 +37479,18 @@ Note:
 
 ### Numbers 16:20
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
 
 ### Numbers 16:21
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: Separate yourselves from the midst of this congregation, and I will consume them at once.
 - brenton: Separate yourselves from the midst of this congregation, and I will consume them at once.
@@ -37506,9 +37506,9 @@ Note:
 
 ### Numbers 16:23
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -37623,9 +37623,9 @@ Note:
 
 ### Numbers 17:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord said to Moses,
 - brenton: And the Lord said to Moses,
@@ -37695,9 +37695,9 @@ Note:
 
 ### Numbers 17:9
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses and Aaron, saying,
 - brenton: And the Lord spoke to Moses and Aaron, saying,
@@ -37740,45 +37740,45 @@ Note:
 
 ### Numbers 17:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those dead in the breaking were fourteen thousand seven hundred, besides those dead because of Korah.
 - brenton: And they that died in the plague were fourteen thousand and seven hundred, besides those that died on account of Core.
 
 ### Numbers 17:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aaron returned to Moses at the door of the tent of testimony, and the breaking ceased.
 - brenton: And Aaron returned to Moses to the door of the tabernacle of witness, and the plague ceased.
 
 ### Numbers 17:16
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
 
 ### Numbers 17:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Speak to the sons of Israel and take from them rod by rod according to the houses of their fathers, from all their chiefs according to the houses of their fathers, twelve rods, and write each one's name on his rod.
 - brenton: Speak to the children of Israel, and take rods of them, according to the houses of their families, a rod from all their princes, according to the houses of their families, twelve rods, and write the name of each on his rod.
 
 ### Numbers 17:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aaron's name you shall write on the rod of Levi, for there shall be one rod for each tribe of the houses of their fathers.
 - brenton: And write the name of Aaron on the rod of Levi; for it is one rod for each: they shall give them according to the tribe of the house of their families.
