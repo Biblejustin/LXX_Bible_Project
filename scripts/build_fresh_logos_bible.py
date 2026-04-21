@@ -311,7 +311,7 @@ def styles_xml() -> str:
         f'<w:styles xmlns:w="{DOCX_W_NS}">'
         '<w:style w:type="paragraph" w:default="1" w:styleId="Normal">'
         '<w:name w:val="Normal"/><w:qFormat/>'
-        '<w:rPr><w:rFonts w:ascii="Georgia" w:hAnsi="Georgia"/><w:sz w:val="22"/></w:rPr>'
+        '<w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/><w:sz w:val="22"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="paragraph" w:styleId="Title">'
         '<w:name w:val="Title"/><w:basedOn w:val="Normal"/><w:qFormat/>'
@@ -554,7 +554,7 @@ def build_verse_runs(
 ) -> list[str]:
     runs: list[str] = []
     if logos:
-        runs.append(run(f"[[@{datatype} :{verse.logos_ref}]] ", small=True, color="777777"))
+        runs.append(run(f"[[@{datatype}:{verse.logos_ref}]] ", small=True, color="777777"))
     runs.append(run(f"{verse.verse} ", bold=True))
     if refs:
         note_id = doc.add_footnote("Cross-references: " + "; ".join(refs) + ".")
@@ -673,9 +673,9 @@ Scope:
 - Excluded: generic Brenton comparison notes, name meanings, lexicon entries, vocabulary notes, names-of-God notes, and other Brenton package study notes.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 
-Known constraint:
+Validation:
 
-- The repo can validate DOCX package/XML structure locally. This machine does not currently have LibreOffice installed, so visual rendering must be checked by opening the files in Word/Pages/Logos.
+- The repo validates DOCX package/XML structure locally and checks that macOS can read the generated DOCX. Final Personal Book compilation still needs to be checked inside Logos after each source change.
 """
     path.write_text(content, encoding="utf-8")
 
