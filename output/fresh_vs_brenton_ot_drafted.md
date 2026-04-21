@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 15032
-- medium: 1773
-- low: 6112
+- high: 15212
+- medium: 1738
+- low: 5967
 - none: 0
 
 Note:
@@ -134241,1620 +134241,1620 @@ Note:
 
 ### Psalms 73:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They burned your sanctuary with fire; to ground they profaned tabernacle of your name.
 - brenton: [missing]
 
 ### Psalms 73:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They said in their heart, their whole kin together, Come, let us burn all feasts of God from earth.
 - brenton: [missing]
 
 ### Psalms 73:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our signs we did not see; there is no longer prophet, and he will not know us any longer.
 - brenton: [missing]
 
 ### Psalms 73:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long, O God, will enemy reproach? Will adversary provoke your name to end?
 - brenton: [missing]
 
 ### Psalms 73:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you turn away your hand and your right hand from midst of your bosom to end?
 - brenton: [missing]
 
 ### Psalms 73:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But God our king before age worked salvation in midst of earth.
 - brenton: [missing]
 
 ### Psalms 73:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You strengthened sea in your power; you crushed heads of dragons upon water.
 - brenton: [missing]
 
 ### Psalms 73:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You crushed heads of dragon; you gave him as food to Ethiopian peoples.
 - brenton: [missing]
 
 ### Psalms 73:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You split open springs and torrents; you dried up rivers of Etham.
 - brenton: [missing]
 
 ### Psalms 73:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yours day and yours night; you prepared light and sun.
 - brenton: [missing]
 
 ### Psalms 73:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made all boundaries of earth; summer and spring you formed them.
 - brenton: [missing]
 
 ### Psalms 73:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember this: enemy reproached Lord, and foolish people provoked your name.
 - brenton: [missing]
 
 ### Psalms 73:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hand over to beasts soul confessing to you; souls of your poor ones do not forget to end.
 - brenton: [missing]
 
 ### Psalms 73:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look upon your covenant, because dark places of earth were filled with houses of lawlessness.
 - brenton: [missing]
 
 ### Psalms 73:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let humbled one not turn back shamed; poor and needy will praise your name.
 - brenton: [missing]
 
 ### Psalms 73:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, O God, judge your case; remember your reproaches from fool all day.
 - brenton: [missing]
 
 ### Psalms 73:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not forget voice of your suppliants; pride of those hating you went up continually toward you.
 - brenton: [missing]
 
 ### Psalms 74:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, do not destroy. Psalm of Asaph. Song.
 - brenton: [missing]
 
 ### Psalms 74:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We will confess to you, O God, we will confess, and we will call on your name.
 - brenton: [missing]
 
 ### Psalms 74:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will tell all your wonders when I receive appointed time; I will judge uprightnesses.
 - brenton: [missing]
 
 ### Psalms 74:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth melted, and all inhabiting it; I strengthened its pillars. Interlude.
 - brenton: [missing]
 
 ### Psalms 74:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said to law-breakers, Do not break law, and to sinners, Do not lift horn.
 - brenton: [missing]
 
 ### Psalms 74:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not raise your horn on high; do not speak injustice against God.
 - brenton: [missing]
 
 ### Psalms 74:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because neither from exits nor from wests nor from desert mountains,
 - brenton: [missing]
 
 ### Psalms 74:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because God is judge; this one he humbles and this one he exalts.
 - brenton: [missing]
 
 ### Psalms 74:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because cup in hand of Lord, of unmixed wine full of mixture, and he tilted from this into that, but its dregs were not emptied; all sinners of earth will drink.
 - brenton: [missing]
 
 ### Psalms 74:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I will exult forever; I will sing to God of Jacob.
 - brenton: [missing]
 
 ### Psalms 74:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all horns of sinners I will shatter, and horns of righteous one will be exalted.
 - brenton: [missing]
 
 ### Psalms 75:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, in hymns. Psalm of Asaph. Song against Assyrian.
 - brenton: [missing]
 
 ### Psalms 75:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In Judea God known; in Israel great his name.
 - brenton: [missing]
 
 ### Psalms 75:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his place came to be in peace, and his dwelling-place in Zion.
 - brenton: [missing]
 
 ### Psalms 75:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There he crushed strengths of bows, weapon and sword and war. Interlude.
 - brenton: [missing]
 
 ### Psalms 75:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shine wondrously from everlasting mountains.
 - brenton: [missing]
 
 ### Psalms 75:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All senseless in heart were troubled; they slept their sleep and found nothing, all men of wealth, in their hands.
 - brenton: [missing]
 
 ### Psalms 75:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From your rebuke, God of Jacob, riders of horses grew drowsy.
 - brenton: [missing]
 
 ### Psalms 75:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You fearful, and who will stand against you from then on, from your anger?
 - brenton: [missing]
 
 ### Psalms 75:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From heaven you made judgment heard; earth feared and was still,
 - brenton: [missing]
 
 ### Psalms 75:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when God rose to judgment, to save all meek of earth. Interlude.
 - brenton: [missing]
 
 ### Psalms 75:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thought of man will confess to you, and remnant of thought will celebrate feast to you.
 - brenton: [missing]
 
 ### Psalms 75:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vow and pay to Lord your God; all around him will bring gifts
 - brenton: [missing]
 
 ### Psalms 75:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to one fearful and removing spirits of rulers, fearful beyond kings of earth.
 - brenton: [missing]
 
 ### Psalms 76:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning Jeduthun. Of Asaph. Psalm.
 - brenton: [missing]
 
 ### Psalms 76:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My voice cried to Lord, my voice to God, and he attended to me.
 - brenton: [missing]
 
 ### Psalms 76:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In day of my affliction I sought God; my hands by night before him, and I was not deceived. My soul refused to be comforted.
 - brenton: [missing]
 
 ### Psalms 76:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I remembered God and was gladdened; I mused and my spirit grew fainthearted. Interlude.
 - brenton: [missing]
 
 ### Psalms 76:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My eyes seized first watches; I was troubled and did not speak.
 - brenton: [missing]
 
 ### Psalms 76:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I considered ancient days, and years of old I remembered and meditated.
 - brenton: [missing]
 
 ### Psalms 76:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By night with my heart I mused, and my spirit searched out.
 - brenton: [missing]
 
 ### Psalms 76:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will Lord reject forever and add no more to take pleasure still?
 - brenton: [missing]
 
 ### Psalms 76:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will he cut off his mercy to end, from generation to generation?
 - brenton: [missing]
 
 ### Psalms 76:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will God forget to show compassion, or will he hold back his compassions in his anger? Interlude.
 - brenton: [missing]
 
 ### Psalms 76:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Now I began; this change belongs to right hand of Most High.
 - brenton: [missing]
 
 ### Psalms 76:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I remembered works of Lord, because I will remember from beginning your wonders.
 - brenton: [missing]
 
 ### Psalms 76:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will meditate on all your works and muse on your practices.
 - brenton: [missing]
 
 ### Psalms 76:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, your way in holy place; what god great as our God?
 - brenton: [missing]
 
 ### Psalms 76:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are God doing wonders; you made known your power among peoples.
 - brenton: [missing]
 
 ### Psalms 76:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With your arm you redeemed your people, sons of Jacob and Joseph. Interlude.
 - brenton: [missing]
 
 ### Psalms 76:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Waters saw you, O God; waters saw you and feared, and deeps were troubled, multitude of sound of waters.
 - brenton: [missing]
 
 ### Psalms 76:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Clouds gave voice, for your arrows pass through.
 - brenton: [missing]
 
 ### Psalms 76:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of your thunder in wheel; your lightnings appeared to inhabited world; earth was shaken and became trembling.
 - brenton: [missing]
 
 ### Psalms 76:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In sea your way and your paths in many waters, and your footprints will not be known.
 - brenton: [missing]
 
 ### Psalms 76:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You guided your people like sheep by hand of Moses and Aaron.
 - brenton: [missing]
 
 ### Psalms 77:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For understanding. Of Asaph. Attend, my people, to my law; incline your ear to words of my mouth.
 - brenton: [missing]
 
 ### Psalms 77:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will open my mouth in parables; I will utter riddles from beginning,
 - brenton: [missing]
 
 ### Psalms 77:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: things we heard and knew, and our fathers told us.
 - brenton: [missing]
 
 ### Psalms 77:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It was not hidden from their children, to another generation declaring praises of Lord and his powers and his wonders which he did.
 - brenton: [missing]
 
 ### Psalms 77:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he raised testimony in Jacob and set law in Israel, things he commanded our fathers to make known to their sons,
 - brenton: [missing]
 
 ### Psalms 77:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that another generation might know, sons being born, and rise and tell them to their sons,
 - brenton: [missing]
 
 ### Psalms 77:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they might place their hope upon God and not forget works of God and seek out his commandments,
 - brenton: [missing]
 
 ### Psalms 77:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they may not become like their fathers, generation crooked and provoking, generation which did not set its heart straight and whose spirit was not faithful with God.
 - brenton: [missing]
 
 ### Psalms 77:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sons of Ephraim, stringing and shooting bows, turned back in day of war.
 - brenton: [missing]
 
 ### Psalms 77:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not keep covenant of God and did not want to walk in his law.
 - brenton: [missing]
 
 ### Psalms 77:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they forgot his good deeds and his wonders which he showed them,
 - brenton: [missing]
 
 ### Psalms 77:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: things he did wondrously before their fathers in land of Egypt, in plain of Tanis.
 - brenton: [missing]
 
 ### Psalms 77:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He split sea and led them through; he made waters stand like wineskin.
 - brenton: [missing]
 
 ### Psalms 77:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he guided them in cloud by day and all night in light of fire.
 - brenton: [missing]
 
 ### Psalms 77:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He split rock in wilderness and gave them drink as from great deep.
 - brenton: [missing]
 
 ### Psalms 77:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought water out from rock and brought waters down like rivers.
 - brenton: [missing]
 
 ### Psalms 77:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they added still to sin against him; they provoked Most High in waterless place.
 - brenton: [missing]
 
 ### Psalms 77:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they tested God in their hearts by asking foods for their souls.
 - brenton: [missing]
 
 ### Psalms 77:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they spoke against God and said, Will God be able to prepare table in wilderness?
 - brenton: [missing]
 
 ### Psalms 77:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Since he struck rock and waters flowed and torrents overflowed, can he also give bread or prepare table for his people?
 - brenton: [missing]
 
 ### Psalms 77:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore Lord heard and deferred, and fire was kindled in Jacob, and wrath rose upon Israel,
 - brenton: [missing]
 
 ### Psalms 77:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they did not believe in God nor hope on his salvation.
 - brenton: [missing]
 
 ### Psalms 77:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he commanded clouds above and opened doors of heaven,
 - brenton: [missing]
 
 ### Psalms 77:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and rained manna on them to eat and gave them bread of heaven.
 - brenton: [missing]
 
 ### Psalms 77:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man ate bread of angels; he sent them provision unto fullness.
 - brenton: [missing]
 
 ### Psalms 77:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He lifted south wind from heaven and brought in by his dominion southwest wind.
 - brenton: [missing]
 
 ### Psalms 77:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he rained flesh upon them like dust and winged birds like sand of seas.
 - brenton: [missing]
 
 ### Psalms 77:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they fell into midst of their camp, around their tents.
 - brenton: [missing]
 
 ### Psalms 77:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they ate and were filled exceedingly, and he brought them their desire.
 - brenton: [missing]
 
 ### Psalms 77:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were not deprived of their desire; while their food was still in their mouth,
 - brenton: [missing]
 
 ### Psalms 77:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: wrath of God rose upon them and killed among their fat ones and hamstrung chosen ones of Israel.
 - brenton: [missing]
 
 ### Psalms 77:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In all these things they still sinned and did not believe in his wonders.
 - brenton: [missing]
 
 ### Psalms 77:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their days failed in vanity and their years in haste.
 - brenton: [missing]
 
 ### Psalms 77:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When he killed them, they sought him, and returned and rose early toward God.
 - brenton: [missing]
 
 ### Psalms 77:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they remembered that God is their helper and God Most High their redeemer.
 - brenton: [missing]
 
 ### Psalms 77:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they deceived him with their mouth and lied to him with their tongue.
 - brenton: [missing]
 
 ### Psalms 77:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But their heart was not straight with him, nor were they faithful in his covenant.
 - brenton: [missing]
 
 ### Psalms 77:38
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he compassionate and will propitiate their sins and not destroy, and he will multiply turning away his wrath and will not kindle all his anger.
 - brenton: [missing]
 
 ### Psalms 77:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he remembered that they are flesh, spirit going and not returning.
 - brenton: [missing]
 
 ### Psalms 77:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How often they provoked him in wilderness, angered him in waterless land.
 - brenton: [missing]
 
 ### Psalms 77:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they turned and tested God and provoked Holy One of Israel.
 - brenton: [missing]
 
 ### Psalms 77:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not remember his hand, day when he redeemed them from hand of afflicter,
 - brenton: [missing]
 
 ### Psalms 77:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: how he set his signs in Egypt and his wonders in plain of Tanis,
 - brenton: [missing]
 
 ### Psalms 77:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and turned their rivers into blood and their rainfalls so they might not drink.
 - brenton: [missing]
 
 ### Psalms 77:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent upon them dog-fly and it devoured them, and frog and it ruined them.
 - brenton: [missing]
 
 ### Psalms 77:46
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave their fruit to mildew and their labors to locust.
 - brenton: [missing]
 
 ### Psalms 77:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He killed their vine with hail and their sycamores with frost.
 - brenton: [missing]
 
 ### Psalms 77:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he handed over their cattle to hail and their possessions to fire.
 - brenton: [missing]
 
 ### Psalms 77:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He sent upon them wrath of his anger, anger and fury and affliction, dispatch by evil angels.
 - brenton: [missing]
 
 ### Psalms 77:50
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made way for his anger; he did not spare their souls from death and enclosed their cattle in death.
 - brenton: [missing]
 
 ### Psalms 77:51
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he struck every firstborn in Egypt, first fruits of their labors in tents of Ham.
 - brenton: [missing]
 
 ### Psalms 77:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he lifted up his people like sheep and led them like flock in wilderness.
 - brenton: [missing]
 
 ### Psalms 77:53
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he guided them in hope and they did not fear, and sea covered their enemies.
 - brenton: [missing]
 
 ### Psalms 77:54
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought them into boundary of his sanctuary, this mountain which his right hand acquired.
 - brenton: [missing]
 
 ### Psalms 77:55
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he cast out nations from before them and gave them inheritance by measuring line and made tribes of Israel dwell in their tents.
 - brenton: [missing]
 
 ### Psalms 77:56
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they tested and provoked God Most High, and his testimonies they did not keep.
 - brenton: [missing]
 
 ### Psalms 77:57
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they turned back and broke covenant just as their fathers, and were twisted into crooked bow.
 - brenton: [missing]
 
 ### Psalms 77:58
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they angered him with their hills and with their carved images stirred him to jealousy.
 - brenton: [missing]
 
 ### Psalms 77:59
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God heard and disregarded and greatly despised Israel.
 - brenton: [missing]
 
 ### Psalms 77:60
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he rejected tent of Shilom, his tabernacle where he dwelt among men.
 - brenton: [missing]
 
 ### Psalms 77:61
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave their strength into captivity and their beauty into hand of enemy.
 - brenton: [missing]
 
 ### Psalms 77:62
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he enclosed his people to sword and disregarded his inheritance.
 - brenton: [missing]
 
 ### Psalms 77:63
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fire devoured their young men, and their virgins were not mourned.
 - brenton: [missing]
 
 ### Psalms 77:64
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their priests fell by sword, and their widows will not be wept.
 - brenton: [missing]
 
 ### Psalms 77:65
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord awoke like one sleeping, like mighty man sobered from wine.
 - brenton: [missing]
 
 ### Psalms 77:66
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he struck his enemies backward; everlasting reproach he gave them.
 - brenton: [missing]
 
 ### Psalms 77:67
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he rejected tent of Joseph, and tribe of Ephraim he did not choose.
 - brenton: [missing]
 
 ### Psalms 77:68
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he chose tribe of Judah, Mount Zion which he loved.
 - brenton: [missing]
 
 ### Psalms 77:69
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he built his sanctuary like unicorns; on earth he founded it forever.
 - brenton: [missing]
 
 ### Psalms 77:70
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he chose David his servant and took him up from flocks of sheep.
 - brenton: [missing]
 
 ### Psalms 77:71
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From behind nursing ones he took him to shepherd Jacob his people and Israel his inheritance.
 - brenton: [missing]
 
 ### Psalms 77:72
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shepherded them in innocence of his heart and guided them in understandings of his hands.
 - brenton: [missing]
 
 ### Psalms 78:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of Asaph. O God, nations came into your inheritance; they defiled your holy temple; they made Jerusalem into orchard-watch hut.
 - brenton: [missing]
 
 ### Psalms 78:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They set dead bodies of your servants as food to birds of heaven, flesh of your holy ones to beasts of earth.
 - brenton: [missing]
 
 ### Psalms 78:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They poured out their blood like water around Jerusalem, and there was none burying.
 - brenton: [missing]
 
 ### Psalms 78:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We became reproach to our neighbors, mocking and derision to those around us.
 - brenton: [missing]
 
 ### Psalms 78:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long, Lord? Will you be angry to end? Will your zeal burn like fire?
 - brenton: [missing]
 
 ### Psalms 78:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pour out your anger upon nations not knowing you and upon kingdoms which did not call upon your name,
 - brenton: [missing]
 
 ### Psalms 78:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they devoured Jacob and laid waste his place.
 - brenton: [missing]
 
 ### Psalms 78:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not remember against us ancient lawlessnesses; let your compassions quickly go before us, because we became very poor.
 - brenton: [missing]
 
 ### Psalms 78:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Help us, God our savior, for sake of glory of your name. Lord, rescue us and propitiate our sins for sake of your name.
 - brenton: [missing]
 
 ### Psalms 78:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lest nations say, Where is their God? Let vengeance of blood of your servants poured out be known among nations before our eyes.
 - brenton: [missing]
 
 ### Psalms 78:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let groaning of chained ones enter before you; according to greatness of your arm preserve sons of those put to death.
 - brenton: [missing]
 
 ### Psalms 78:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Repay to our neighbors sevenfold into their bosom their reproach with which they reproached you, Lord.
 - brenton: [missing]
 
 ### Psalms 78:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But we your people and sheep of your pasture will confess to you forever; from generation to generation we will declare your praise.
 - brenton: [missing]
 
 ### Psalms 79:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning those to be changed, testimony of Asaph, psalm concerning Assyrian.
 - brenton: [missing]
 
 ### Psalms 79:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shepherding Israel, attend; you leading Joseph like sheep, you sitting upon cherubim, show yourself.
 - brenton: [missing]
 
 ### Psalms 79:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before Ephraim and Benjamin and Manasseh stir up your dominion and come to save us.
 - brenton: [missing]
 
 ### Psalms 79:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, turn us back and make your face shine, and we will be saved.
 - brenton: [missing]
 
 ### Psalms 79:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of hosts, how long are you angry over prayer of your servant?
 - brenton: [missing]
 
 ### Psalms 79:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You feed us bread of tears and give us tears to drink in measure.
 - brenton: [missing]
 
 ### Psalms 79:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You set us for contradiction to our neighbors, and our enemies mocked us.
 - brenton: [missing]
 
 ### Psalms 79:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of hosts, turn us back and make your face shine, and we will be saved. Interlude.
 - brenton: [missing]
 
 ### Psalms 79:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You transplanted vine out of Egypt; you cast out nations and planted her.
 - brenton: [missing]
 
 ### Psalms 79:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made way before her and planted her roots, and land was filled.
 - brenton: [missing]
 
 ### Psalms 79:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her shadow covered mountains, and her branches the cedars of God.
 - brenton: [missing]
 
 ### Psalms 79:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She stretched out her shoots unto sea and her offshoots unto river.
 - brenton: [missing]
 
 ### Psalms 79:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did you pull down her fence, and all passing by road gather from her?
 - brenton: [missing]
 
 ### Psalms 79:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Boar from forest ravaged her, and solitary wild beast fed on her.
 - brenton: [missing]
 
 ### Psalms 79:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God of hosts, turn now; look from heaven and see and visit this vine,
 - brenton: [missing]
 
 ### Psalms 79:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and restore what your right hand planted, and upon son of man whom you strengthened for yourself.
 - brenton: [missing]
 
 ### Psalms 79:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Burned with fire and dug up, they will perish from rebuke of your face.
 - brenton: [missing]
 
 ### Psalms 79:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let your hand be upon man of your right hand and upon son of man whom you strengthened for yourself.
 - brenton: [missing]
 
 ### Psalms 79:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we will never depart from you; you will make us live, and we will call upon your name.
 - brenton: [missing]
 
 ### Psalms 79:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of hosts, turn us back and make your face shine, and we will be saved.
 - brenton: [missing]
 
 ### Psalms 80:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning winepresses. Of Asaph. Psalm.
 - brenton: [missing]
 
 ### Psalms 80:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Exult in God our helper; shout to God of Jacob.
 - brenton: [missing]
 
 ### Psalms 80:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take psalm and give tambourine, pleasant psaltery with lyre.
 - brenton: [missing]
 
 ### Psalms 80:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blow trumpet at new moon, on notable day of our feast,
 - brenton: [missing]
 
 ### Psalms 80:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because ordinance for Israel it is and judgment for God of Jacob.
 - brenton: [missing]
 
 ### Psalms 80:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He set it as testimony in Joseph when he went out from land of Egypt; he heard language he did not know.
 - brenton: [missing]
 
 ### Psalms 80:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He removed his back from burdens; his hands served in basket.
 - brenton: [missing]
 
 ### Psalms 80:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In affliction you called on me, and I rescued you; I heard you in hidden place of storm; I tested you at water of contradiction. Interlude.
 - brenton: [missing]
 
 ### Psalms 80:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, my people, and I will testify to you; Israel, if you would hear me,
 - brenton: [missing]
 
 ### Psalms 80:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: there will not be in you recent god, nor will you worship strange god.
 - brenton: [missing]
 
 ### Psalms 80:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I am Lord your God, who brought you up from land of Egypt; widen your mouth, and I will fill it.
 - brenton: [missing]
 
 ### Psalms 80:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my people did not hear my voice, and Israel did not attend to me.
 - brenton: [missing]
 
 ### Psalms 80:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I sent them according to practices of their hearts; they will walk in their practices.
 - brenton: [missing]
