@@ -1354,7 +1354,7 @@ Rows: 232
 - NT crossrefs: 0
 - shared-family hits: 0
 - fresh: And we prayed to our God and set guards over them day and night because of them.
-- OT clues: Neh.2.19 (3) -> And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king? || 1Kgs.20.10 (2) -> And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die. || 1Kgs.20.18 (2) -> Rise and go down to meet Ahab king of Israel, the one in Samaria. Behold, he is in the vineyard of Nabouthai because he has gone down there to inherit it. || 2Kgs.18.23 (2) -> And now make a bargain now with my lord king of the Assyrians, and I will give you two thousand horses if you are able to give riders for them.
+- OT clues: Neh.2.19 (3) -> And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this thing you are doing? Are you rebelling against the king? || 1Kgs.20.10 (2) -> And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die. || 1Kgs.20.18 (2) -> Rise and go down to meet Ahab king of Israel, the one in Samaria. Behold, he is in the vineyard of Nabouthai because he has gone down there to inherit it. || 2Kgs.18.23 (2) -> And now make a bargain now with my lord king of the Assyrians, and I will give you two thousand horses if you are able to give riders for them.
 
 ## Nehemiah 9:5
 - score: 19

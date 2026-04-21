@@ -109381,7 +109381,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
+- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this thing you are doing? Are you rebelling against the king?
 - brenton: And Sanaballat the Aronite, and Tobia the servant, the Ammonite, and Gesam the Arabian, heard it, and they laughed us to scorn, and came to us, and said, What is this thing that ye are doing? are ye revolting against the king?
 
 ### Nehemiah 2:20
@@ -112513,7 +112513,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I contended with sons of Judah, the free men, and said to them, What is this evil word which you are doing and profaning the Sabbath day?
+- fresh: And I contended with sons of Judah, the free men, and said to them, What is this evil thing you are doing, profaning the Sabbath day?
 - brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
 
 ### Nehemiah 13:18

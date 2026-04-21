@@ -49454,7 +49454,7 @@ And I told them of hand of God, that it is good upon me, and of words of the kin
 
 **Nehemiah 2:19**
 
-And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
+And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this thing you are doing? Are you rebelling against the king?
 
 **Nehemiah 2:20**
 
@@ -50868,7 +50868,7 @@ And they were dwelling in it, bringing fish and every kind of merchandise, selli
 
 **Nehemiah 13:17**
 
-And I contended with sons of Judah, the free men, and said to them, What is this evil word which you are doing and profaning the Sabbath day?
+And I contended with sons of Judah, the free men, and said to them, What is this evil thing you are doing, profaning the Sabbath day?
 
 **Nehemiah 13:18**
 

@@ -16878,6 +16878,15 @@ Method:
 - mt: And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
 - brenton: And Jacob said to Pharao, The days of the years of my life, wherein I sojourn, are a hundred and thirty years; few and evil have been the days of the years of my life, they have not attained to the days of the life of my fathers, in which days they sojourned.
 
+### Nehemiah 2:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.212`
+- fresh_brenton_ratio: `0.396`
+- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this thing you are doing? Are you rebelling against the king?
+- mt: But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that all of you do? will all of you rebel against the king?
+- brenton: And Sanaballat the Aronite, and Tobia the servant, the Ammonite, and Gesam the Arabian, heard it, and they laughed us to scorn, and came to us, and said, What is this thing that ye are doing? are ye revolting against the king?
+
 ### 1 Chronicles 29:5
 - priority: `0`
 - importance: `none`
@@ -16922,15 +16931,6 @@ Method:
 - fresh: And these are the kings of the land whom the sons of Israel killed, and they inherited their land beyond the Jordan from the sunrise, from the ravine of Arnon as far as Mount Hermon, and all the Arabah from the east:
 - mt: Now these are the kings of the land, which the children of Israel stroke, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
 - brenton: And these are the kings of the land, whom the children of Israel slew, and inherited their land beyond Jordan from the east, from the valley of Arnon to the mount of Aermon, and all the land of Araba on the east.
-
-### Nehemiah 2:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.213`
-- fresh_brenton_ratio: `0.397`
-- fresh: And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king?
-- mt: But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that all of you do? will all of you rebel against the king?
-- brenton: And Sanaballat the Aronite, and Tobia the servant, the Ammonite, and Gesam the Arabian, heard it, and they laughed us to scorn, and came to us, and said, What is this thing that ye are doing? are ye revolting against the king?
 
 ### 1 Chronicles 6:31
 - priority: `0`
@@ -70545,6 +70545,15 @@ Method:
 - mt: All of you shall not tempt the LORD your God, as all of you tempted him in Massah.
 - brenton: Thou shalt not tempt the Lord thy God, as ye tempted him in the temptation.
 
+### Nehemiah 13:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.726`
+- fresh_brenton_ratio: `0.762`
+- fresh: And I contended with sons of Judah, the free men, and said to them, What is this evil thing you are doing, profaning the Sabbath day?
+- mt: Then I contended with the nobles of Judah, and said unto them, What evil thing is this that all of you do, and profane the sabbath day?
+- brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
+
 ### 1 Samuel 25:30
 - priority: `0`
 - importance: `none`
@@ -71822,15 +71831,6 @@ Method:
 - fresh: And he feared, and Jehoshaphat set his face to seek Lord and proclaimed fast in all Judah.
 - mt: And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.
 - brenton: And Josaphat was alarmed, and set his face to seek the Lord earnestly, and he proclaimed a fast in all Juda.
-
-### Nehemiah 13:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.731`
-- fresh_brenton_ratio: `0.766`
-- fresh: And I contended with sons of Judah, the free men, and said to them, What is this evil word which you are doing and profaning the Sabbath day?
-- mt: Then I contended with the nobles of Judah, and said unto them, What evil thing is this that all of you do, and profane the sabbath day?
-- brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
 
 ### 2 Samuel 22:9
 - priority: `0`
