@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 4684
-- medium: 3756
-- low: 14322
+- high: 4744
+- medium: 3740
+- low: 14278
 - none: 155
 
 Note:
@@ -1437,9 +1437,9 @@ Note:
 
 ### Genesis 6:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From all the birds, the flying ones according to kind, and from all the cattle according to kind, and from all the creeping things creeping on the earth according to kind, two by two from all shall come in to you, to be fed with you, male and female.
 - brenton: Of all winged birds after their kind, and of all cattle after their kind, and of all reptiles creeping upon the earth after their kind, pairs of all shall come in to thee, male and female to be fed with thee.
@@ -1923,9 +1923,9 @@ Note:
 
 ### Genesis 9:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The one pouring out human blood, in return for that blood his own shall be poured out, because in the image of God I made the human.
 - brenton: He that sheds man's blood, instead of that blood shall his own be shed, for in the image of God I made man.
@@ -2256,9 +2256,9 @@ Note:
 
 ### Genesis 10:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and the Chasloniem, from where the Phylistieim came out, and the Caphtorieim.
 - brenton: and the Patrosoniim, and the Chasmoniim (whence came forth Phylistiim) and the Gaphthoriim.
@@ -2940,9 +2940,9 @@ Note:
 
 ### Genesis 13:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the land had no room for them to live together, because their possessions were many, and the land had no room for them to live together.
 - brenton: And the land was not large enough for them to live together, because their possessions were great; and the land was not large enough for them to live together.
@@ -3300,9 +3300,9 @@ Note:
 
 ### Genesis 15:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And immediately a voice of the Lord came to him, saying, This one shall not inherit you, but the one coming out from you, this one shall inherit you.
 - brenton: And immediately there was a voice of the Lord to him, saying, This shall not be thine heir; but he that shall come out of thee shall be thine heir.
@@ -4623,9 +4623,9 @@ Note:
 
 ### Genesis 20:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to Sarah he said, Look, I have given a thousand didrachmas to your brother. These shall be to you for the honor of your face and to all the women with you. And speak truth in all things.
 - brenton: And to Sarrha he said, Behold, I have given thy brother a thousand pieces of silver, those shall be to thee for the price of thy countenance, and to all the women with thee, and speak the truth in all things.
@@ -5325,9 +5325,9 @@ Note:
 
 ### Genesis 23:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to Abraham as a holding, before the sons of Heth and all who entered into the city.
 - brenton: to Abraam for a possession, before the sons of Chet, and all that entered into the city.
@@ -5730,9 +5730,9 @@ Note:
 
 ### Genesis 24:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: look, I am standing at the spring of water, and the daughters of the men of the city are coming out to draw water. And let it be that the virgin to whom I say, Give me a little water from your jar to drink,
 - brenton: behold, I stand by the well of water, and the daughters of the men of the city come forth to draw water, and it shall be that the damsel to whom I shall say, Give me a little water to drink out of thy pitcher,
@@ -6567,9 +6567,9 @@ Note:
 
 ### Genesis 26:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were contentious toward Isaac and Rebekah.
 - brenton: And they were provoking to Isaac and Rebecca.
@@ -8079,9 +8079,9 @@ Note:
 
 ### Genesis 31:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And on the third day it was reported to Laban the Syrian that Jacob had fled,
 - brenton: But it was told Laban the Syrian on the third day, that Jacob was fled.
@@ -13443,9 +13443,9 @@ Note:
 
 ### Genesis 49:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Asher, his bread is rich, and he will give delicacies to rulers.
 - brenton: Aser, his bread shall be fat; and he shall yield dainties to princes.
@@ -18872,9 +18872,9 @@ Note:
 
 ### Exodus 21:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: if the man rises and walks about outside on his staff, the one who struck him shall be clear. Yet he shall pay for his idleness and for his healing.
 - brenton: if the man arise and walk abroad on his staff, he that smote him shall be clear; only he shall pay for his loss of time, and for his healing.
@@ -19925,9 +19925,9 @@ Note:
 
 ### Exodus 25:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One cherub shall be made on this end and one cherub on the second end of the propitiatory. You shall make the two cherubim on the two ends.
 - brenton: They shall be made, one cherub on this side, and another cherub on the other side of the propitiatory; and thou shalt make the two cherubs on the two sides.
@@ -22517,9 +22517,9 @@ Note:
 
 ### Exodus 34:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall tear down their altars and break in pieces their pillars and cut down their groves, and the carved images of their gods you shall burn with fire.
 - brenton: Ye shall destroy their altars, and break in pieces their pillars, and ye shall cut down their groves, and the graven images of their gods ye shall burn with fire.
@@ -22805,9 +22805,9 @@ Note:
 
 ### Exodus 35:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the tent and the hangings and the coverings and the rings and the bars and the posts,
 - brenton: The tabernacle, and the cords, and the coverings, and the rings, and the bars, and the posts,
@@ -26290,9 +26290,9 @@ Note:
 
 ### Leviticus 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought the sacrifice and filled his hands from it and placed it on the altar, apart from the morning whole burnt offering.
 - brenton: And he brought the sacrifice and filled his hands with it, and laid it on the altar, besides the morning whole-burnt-offering.
@@ -28180,9 +28180,9 @@ Note:
 
 ### Leviticus 15:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And an earthen vessel that the one with discharge touches shall be broken, and a wooden vessel shall be washed with water and shall be clean.
 - brenton: And the earthen vessel which he that has the issue shall happen to touch, shall be broken; and a wooden vessel shall be washed with water, and shall be clean.
@@ -28873,9 +28873,9 @@ Note:
 
 ### Leviticus 18:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Any man to anyone of his own flesh shall not come near to uncover nakedness. I am the Lord.
 - brenton: No man shall draw nigh to any of his near kindred to uncover their nakedness; I am the Lord.
@@ -29458,9 +29458,9 @@ Note:
 
 ### Leviticus 20:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if the natives of the land by overlooking overlook that man with their eyes when he gives of his seed to a ruler, so as not to put him to death,
 - brenton: And if the natives of the land should in anywise overlook that man in giving of his seed to Moloch, so as not to put him to death;
@@ -32439,9 +32439,9 @@ Note:
 
 ### Numbers 1:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See to the tribe of Levi; you shall not count them, and you shall not take their number among the sons of Israel.
 - brenton: See, thou shalt not muster the tribe of Levi, and thou shalt not take their numbers, in the midst of the children of Israel.
@@ -35562,9 +35562,9 @@ Note:
 
 ### Numbers 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they set out first by the word of the Lord by Moses' hand.
 - brenton: And the first rank departed by the word of the Lord by the hand of Moses.
@@ -38640,9 +38640,9 @@ Note:
 
 ### Numbers 21:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord heard the voice of Israel and handed over the Canaanite into his hand, and he devoted him and his cities to destruction, and they called the name of that place Devoted Destruction.
 - brenton: And the Lord hearkened to the voice of Israel, and delivered the Chananite into his power; and Israel devoted him and his cities, and they called the name of that place Anathema.
@@ -38667,9 +38667,9 @@ Note:
 
 ### Numbers 21:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord sent among the people deadly snakes, and they were biting the people, and many people from the sons of Israel died.
 - brenton: And the Lord sent among the people deadly serpents, and they bit the people, and much people of the children of Israel died.
@@ -39477,9 +39477,9 @@ Note:
 
 ### Numbers 23:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I have received a charge to bless. I will bless, and I shall not turn back.
 - brenton: Behold, I have received commandment to bless: I will bless, and not turn back.
@@ -41871,9 +41871,9 @@ Note:
 
 ### Numbers 31:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And cattle, thirty-six thousand, and the tax to the Lord, seventy-two.
 - brenton: And the oxen, six and thirty thousand, and the tribute to the Lord, seventy-two.
@@ -43610,9 +43610,9 @@ Note:
 
 ### Deuteronomy 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to pass in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to all the sons of Israel according to all that the Lord commanded him to them,
 - brenton: And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to all the children of Israel, according to all things which the Lord commanded him for them:
@@ -46022,9 +46022,9 @@ Note:
 
 ### Deuteronomy 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall know today that not because of your righteousness does the Lord your God give you this good land to inherit, because you are a stiff-necked people.
 - brenton: And thou shalt know to-day, that it is not for thy righteousnesses the Lord thy God gives thee this good land to inherit, for thou art a stiff-necked people.
@@ -46652,9 +46652,9 @@ Note:
 
 ### Deuteronomy 11:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No one shall stand against your face. The Lord your God will put your terror and your fear on the face of all the land on which you step, in the way the Lord spoke to you.
 - brenton: No one shall stand before you; and the Lord your God will put the fear of you and the dread of you on the face of all the land, on which ye shall tread, as he told you.
@@ -47984,9 +47984,9 @@ Note:
 
 ### Deuteronomy 17:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shall not multiply wives for himself, nor shall his heart turn away, and silver and gold he shall not multiply for himself greatly.
 - brenton: And he shall not multiply to himself wives, lest his heart turn away; and he shall not greatly multiply to himself silver and gold.
@@ -48245,9 +48245,9 @@ Note:
 
 ### Deuteronomy 19:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this shall be the ordinance of the killer who flees there and lives: whoever strikes his neighbor unintentionally, this one not hating him before yesterday or the third day,
 - brenton: And this shall be the ordinance of the manslayer, who shall flee thither, and shall live, whosoever shall have smitten his neighbour ignorantly, whereas he hated him not in times past.
@@ -49298,9 +49298,9 @@ Note:
 
 ### Deuteronomy 24:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after going out she becomes another man's wife,
 - brenton: And if she should go away and be married to another man;
@@ -49406,9 +49406,9 @@ Note:
 
 ### Deuteronomy 24:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You shall not do injustice to the wages of the poor and needy, whether from your brothers or from the proselytes in your cities.
 - brenton: Thou shalt not unjustly withhold the wages of the poor and needy of thy brethren, or of the strangers who are in thy cities.
@@ -49496,9 +49496,9 @@ Note:
 
 ### Deuteronomy 25:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then it shall be, if the ungodly one is worthy of blows, you shall make him sit before the judges, and they shall whip him before them according to his ungodliness, by number.
 - brenton: then it shall come to pass, if the unrighteous should be worthy of stripes, thou shalt lay him down before the judges, and they shall scourge him before them according to his iniquity.
@@ -51476,9 +51476,9 @@ Note:
 
 ### Deuteronomy 32:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like an eagle sheltering its nest and longing over its young, spreading its wings, it received them and took them up on its back.
 - brenton: As an eagle would watch over his brood, and yearns over his young, receives them having spread his wings, and takes them up on his back:
@@ -54358,9 +54358,9 @@ Note:
 
 ### Joshua 10:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord delivered it into the hand of Israel, and he took it on that day and killed it with the edge of the sword, and every breathing thing in it they killed in the way they did to Lachish.
 - brenton: And the Lord delivered it into the hand of Israel; and he took it on that day, and slew the inhabitants with the edge of the sword, and slew every thing breathing in it, as they did to Lachis.
@@ -55393,9 +55393,9 @@ Note:
 
 ### Joshua 15:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Caleb son of Jephonne utterly destroyed from there the three sons of Anak, Sousi and Tholmi and Achima.
 - brenton: And Chaleb the son of Jephone destroyed thence the three sons of Enac, Susi, and Tholami, and Achima.
@@ -56248,9 +56248,9 @@ Note:
 
 ### Joshua 18:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it shall pass along the shoulder of Baitharaba on the north and shall go down.
 - brenton: and shall proceed to Galiloth, which is in front by the going up of Æthamin; and they shall come down to the stone of Bæon of the sons of Ruben; and shall pass over behind Bætharaba northward, and shall go down to the borders behind the sea northward.
@@ -64408,9 +64408,9 @@ Note:
 
 ### 1 Samuel 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elkana her husband said to her, Anna. And she said to him, Behold, here I am, lord. And he said to her, What is wrong with you, that you weep, and why do you not eat, and why does your heart strike you? Am I not good to you beyond ten children?
 - brenton: And Helkana her husband said to her, Anna: and she said to him, Here am I, my lord: and he said to her, What ails thee that thou weepest? and why dost thou not eat? and why does thy heart smite thee? am I not better to thee than ten children?
@@ -66964,9 +66964,9 @@ Note:
 
 ### 1 Samuel 13:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all Israel used to go down into the land of the foreigners for each one to forge his reaping tool and his implement and each one his axe and his sickle.
 - brenton: And all Israel went down to the land of the Philistines to forge every one his reaping-hook and his tool, and every one his axe and his sickle.
@@ -67684,9 +67684,9 @@ Note:
 
 ### 1 Samuel 15:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now take away my sin, and turn back with me, and I will bow down to the Lord your God.
 - brenton: And now remove, I pray thee, my sin, and turn back with me, and I will worship the Lord thy God.
@@ -71727,9 +71727,9 @@ Note:
 
 ### 2 Samuel 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abennēr added still, saying to Asaēl, Stand away from me, lest I strike you to the ground. And how shall I lift my face to Iōab your brother? And where are these things? Turn toward Iōab your brother.
 - brenton: And Abenner said yet again to Asael, Stand aloof from me, lest I smite thee to the ground? and how should I lift up my face to Joab?
@@ -73212,9 +73212,9 @@ Note:
 
 ### 2 Samuel 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king called Siba, the young servant of Saoul, and said to him, All things whatever belong to Saoul and to all his house I have given to the son of your lord.
 - brenton: And the king called Siba the servant of Saul, and said to him, All that belonged to Saul and to all his house have I given to the son of thy lord.
@@ -74148,9 +74148,9 @@ Note:
 
 ### 2 Samuel 13:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be at a two-year cycle of days, they were shearing for Abessalōm at Belasōr by Ephraim, and Abessalōm called all the sons of the king.
 - brenton: And it came to pass at the end of two whole years, that they were shearing sheep for Abessalom in Belasor near Ephraim: and Abessalom invited all the king's sons.
@@ -76956,9 +76956,9 @@ Note:
 
 ### 2 Samuel 22:50
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I will confess you, Lord, among the nations, and to your name I will sing psalms,
 - brenton: Therefore will I confess to thee, O Lord, among the Gentiles, and sing to thy name.
@@ -77100,9 +77100,9 @@ Note:
 
 ### 2 Samuel 23:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David desired and said, Who will give me water to drink from the well at Baithleem that is by the gate? And the station of the foreigners was then in Baithleem.
 - brenton: And David longed, and said, Who will give me water to drink out of the well that is in Bethleem by the gate? now the band of the Philistines was then in Bethleem.
@@ -78146,9 +78146,9 @@ Note:
 
 ### 1 Kings 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, A word is mine to you. And she said to him, Speak.
 - brenton: I have business with thee. And she said to him, Say on.
@@ -79244,9 +79244,9 @@ Note:
 
 ### 1 Kings 6:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the whole house he encircled with gold until the completion of the whole house.
 - brenton: And he covered the whole house with gold, till he had finished gilding the whole house.
@@ -81656,9 +81656,9 @@ Note:
 
 ### 1 Kings 13:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he went away, and a lion found him on the road and killed him, and his body was thrown on the road, and the donkey stood beside it, and the lion stood beside the body.
 - brenton: And a lion found him in the way, and slew him; and his body was cast out in the way, and the ass was standing by it, and the lion also was standing by the body.
@@ -82889,9 +82889,9 @@ Note:
 
 ### 1 Kings 18:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be at midday, Elijah the Thesbite mocked them and said, Call with a loud voice, because he is god. Surely he has talk on his mind, or perhaps he is occupied, or perhaps he sleeps and will awaken.
 - brenton: And it was noon, and Eliu the Thesbite mocked them, and said, Call with a loud voice, for he is a god; for he is meditating, or else perhaps he is engaged in business, or perhaps he is asleep, and is to be awaked.
@@ -84385,9 +84385,9 @@ Note:
 
 ### 2 Kings 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And not so, because thus says the Lord: The bed on which you went up there, you shall not come down from it, because by death you will die. And Elijah went and spoke to them.
 - brenton: For thus saith the Lord, The bed on which thou art gone up, thou shalt not come down from it, for thou shalt surely die. And Eliu went, and said so to them.
@@ -85213,9 +85213,9 @@ Note:
 
 ### 2 Kings 4:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now run to meet her and say, Is there peace for you? Is there peace for your husband? Is there peace for the boy? And she said, Peace.
 - brenton: Now run to meet her, and thou shalt say, Is it well with thee? is it well with thy husband? is it well with the child? and she said, It is well.
@@ -94584,9 +94584,9 @@ Note:
 
 ### 1 Chronicles 11:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Dauid kept going, going and growing great, and Lord Almighty was with him.
 - brenton: And David continued to increase, and the Lord Almighty was with him.
@@ -97923,9 +97923,9 @@ Note:
 
 ### 1 Chronicles 25:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their number with their brothers, taught to sing to Lord, every one understanding, was two hundred eighty-eight.
 - brenton: And the number of them after their brethren, those instructed to sing to God, every one that understood singing was two hundred and eighty-eight.
@@ -99248,9 +99248,9 @@ Note:
 
 ### 2 Chronicles 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there Salomon brought up upon bronze altar before Lord, the one in tent, and brought up upon it one thousand whole burnt offerings.
 - brenton: And Solomon brought victims thither to the brazen altar that was before the Lord in the tabernacle, and offered upon it a thousand whole-burnt-offerings.
@@ -99788,9 +99788,9 @@ Note:
 
 ### 2 Chronicles 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and he made ten stands and made lavers upon stands,
 - brenton: And he made the ten bases, and he made the lavers upon the bases;
@@ -101696,9 +101696,9 @@ Note:
 
 ### 2 Chronicles 13:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abia pursued after Ieroboam and seized from him cities: Baithēl and its villages, and Isana and its villages, and Ephrōn and its villages.
 - brenton: And Abia pursued after Jeroboam, and he took from him the cities, Bæthel and her towns, and Jesyna and her towns, and Ephron and her towns.
@@ -102974,9 +102974,9 @@ Note:
 
 ### 2 Chronicles 20:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every man of Iouda returned to Ierousalem, and Iōsaphat leading them, with great gladness, because Lord gladdened them from their enemies.
 - brenton: And all the men of Juda returned to Jerusalem, and Josaphat led them with great joy; for the Lord gave them joy over their enemies.
@@ -103460,9 +103460,9 @@ Note:
 
 ### 2 Chronicles 23:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Gotholia heard sound of people running and giving thanks and praising king and entered to king in house of Lord.
 - brenton: And Gotholia heard the sound of the people running, and acknowledging and praising the king: and she went in to the king into the house of the Lord.
@@ -107143,9 +107143,9 @@ Note:
 
 ### Ezra 2:51
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sons of Bakbouk, sons of Akipha, sons of Arour,
 - brenton: the children of Bacbuc, the children of Acupha, the children of Arur,
@@ -107548,9 +107548,9 @@ Note:
 
 ### Ezra 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then let it be known to the king that if that city is rebuilt and its walls completed, taxes will not belong to you, nor will they give tribute, and this harms kings.
 - brenton: Now then be it known to the king, that if that city be built up, and its walls completed, thou shalt have no tribute, neither will they pay anything, and this injures kings.
