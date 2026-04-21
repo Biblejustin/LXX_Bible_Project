@@ -52,6 +52,12 @@
   },
   "included_translation_note_refs": 11943,
   "included_translation_note_total": 12018,
+  "book_prefaces": {
+    "present": true,
+    "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
+    "rows": 81,
+    "usable_rows": 81
+  },
   "name_meaning_note_filter": {
     "proper_name_rows": 152,
     "proper_name_included": 152,
@@ -164,7 +170,7 @@
   "logos_docx": {
     "output_kind": "logos",
     "milestone_mode": "lxx",
-    "paragraph_count": 23864,
+    "paragraph_count": 24449,
     "footnote_count": 72036,
     "crossref_footnotes": 43896,
     "translation_note_footnotes": 12018,
@@ -185,6 +191,7 @@
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 1447,
+    "book_preface_pages": 39,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0
@@ -192,7 +199,7 @@
   "mt_notes_bridge_docx": {
     "output_kind": "logos",
     "milestone_mode": "mt",
-    "paragraph_count": 23864,
+    "paragraph_count": 24449,
     "footnote_count": 72036,
     "crossref_footnotes": 43896,
     "translation_note_footnotes": 12018,
@@ -213,6 +220,7 @@
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 1447,
+    "book_preface_pages": 39,
     "mapped_milestone_refs": 4510,
     "fallback_milestone_refs": 78,
     "duplicate_milestone_refs": 129
@@ -220,7 +228,7 @@
   "proofreading_docx": {
     "output_kind": "proofreading",
     "milestone_mode": "lxx",
-    "paragraph_count": 23864,
+    "paragraph_count": 24449,
     "footnote_count": 71159,
     "crossref_footnotes": 43896,
     "translation_note_footnotes": 12018,
@@ -241,6 +249,7 @@
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
+    "book_preface_pages": 39,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0

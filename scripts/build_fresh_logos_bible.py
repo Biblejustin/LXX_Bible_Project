@@ -60,6 +60,7 @@ DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_PROPER_NAMES = DATA / "proper_names.csv"
 DEFAULT_NAMES_OF_GOD = DATA / "names_of_god.csv"
+DEFAULT_BOOK_INTROS = DATA / "book_intros_template.csv"
 DEFAULT_LOGOS_DOCX = OUTPUT / "fresh_translation_ot_logos_bible.docx"
 DEFAULT_MT_BRIDGE_DOCX = OUTPUT / "fresh_translation_ot_logos_bible_mt_notes.docx"
 DEFAULT_PROOF_DOCX = OUTPUT / "fresh_translation_ot_proofreading.docx"
@@ -269,6 +270,7 @@ class BuildStats:
     custom_marked_crossref_notes: int = 0
     max_crossref_marker_index_in_chapter: int = 0
     place_link_count: int = 0
+    book_preface_pages: int = 0
     mapped_milestone_refs: int = 0
     fallback_milestone_refs: int = 0
     duplicate_milestone_refs: int = 0
@@ -935,6 +937,77 @@ def load_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
+def load_book_intros(path: Path) -> tuple[dict[str, dict[str, str]], dict[str, object]]:
+    if not path.exists():
+        return {}, {
+            "present": False,
+            "path": str(path),
+            "rows": 0,
+            "usable_rows": 0,
+        }
+    rows = load_csv(path)
+    intros = {
+        row["book_code"].strip(): row
+        for row in rows
+        if row.get("book_code", "").strip() and book_intro_has_content(row)
+    }
+    return intros, {
+        "present": True,
+        "path": str(path),
+        "rows": len(rows),
+        "usable_rows": len(intros),
+    }
+
+
+def book_intro_has_content(row: dict[str, str] | None) -> bool:
+    if not row:
+        return False
+    excluded = {"book_code", "book_name", "canonical_order", "section", "intro_title", "status", "source_notes"}
+    return any((value or "").strip() for key, value in row.items() if key not in excluded)
+
+
+def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
+    def parts(*keys: str) -> str:
+        values = [row.get(key, "").strip() for key in keys if row.get(key, "").strip()]
+        return " ".join(values).strip()
+
+    witnesses: list[str] = []
+    if parts("oldest_fragment", "oldest_fragment_date"):
+        witnesses.append("Frag. " + parts("oldest_fragment", "oldest_fragment_date"))
+    if parts("oldest_substantial_manuscript", "oldest_substantial_date"):
+        witnesses.append("Subst. " + parts("oldest_substantial_manuscript", "oldest_substantial_date"))
+    if parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"):
+        witnesses.append("Heb. " + parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"))
+    if parts("oldest_complete_greek", "oldest_complete_greek_date"):
+        witnesses.append("Gk. " + parts("oldest_complete_greek", "oldest_complete_greek_date"))
+
+    external: list[str] = []
+    if row.get("oldest_external_reference", "").strip():
+        external.append(row["oldest_external_reference"].strip())
+    if row.get("oldest_external_reference_author", "").strip():
+        external.append("by " + row["oldest_external_reference_author"].strip())
+    if row.get("oldest_external_reference_date", "").strip():
+        external.append("(" + row["oldest_external_reference_date"].strip() + ")")
+
+    groups = [
+        ("Author and Attribution", parts("traditional_author")),
+        ("Authorship Basis", parts("authorship_basis")),
+        ("Jesus / NT Attribution", parts("jesus_or_nt_attribution")),
+        ("Composition Date", parts("composition_date")),
+        ("MT Timeline", parts("mt_timeline")),
+        ("LXX Timeline", parts("lxx_timeline")),
+        ("Historical Setting", parts("historical_setting")),
+        ("Purpose", parts("purpose_theme")),
+        ("Key Themes", parts("key_themes")),
+        ("Outline", parts("outline")),
+        ("Earliest Witnesses", " | ".join(witnesses).strip()),
+        ("Earliest External Attestation", " ".join(external).strip()),
+        ("Textual Notes", parts("textual_notes")),
+        ("Conservative Notes", parts("conservative_notes")),
+    ]
+    return [(label, value) for label, value in groups if value]
+
+
 def load_versification_map(path: Path) -> tuple[dict[str, str], dict[str, object]]:
     if not path.exists():
         return {}, {"present": False, "path": str(path), "mapped_refs": 0}
@@ -1361,6 +1434,7 @@ def build_docx(
     name_notes: dict[str, list[NameMeaningNote]],
     supplemental_notes: dict[str, list[SupplementalNote]],
     crossrefs: dict[str, list[CrossReferenceNote]],
+    book_intros: dict[str, dict[str, str]],
     logos: bool,
     datatype: str,
     milestone_mode: str = "lxx",
@@ -1405,6 +1479,13 @@ def build_docx(
             if book_section_break:
                 stats.section_break_count += 1
             stats.paragraph_count += 1
+            intro = book_intros.get(verse.book_code) or book_intros.get(
+                LXX_TSK_CODE_MAP.get(verse.book_code, verse.book_code)
+            )
+            if intro:
+                stats.paragraph_count += add_book_preface_page(doc, verse.book_name, intro)
+                stats.book_preface_pages += 1
+                doc.add_page_break()
         if verse.chapter != current_chapter:
             current_chapter = verse.chapter
             chapter_section_break = footnote_number_restart == "chapter"
@@ -1456,6 +1537,7 @@ def add_title_page(
     lines = [
         "Fresh Old Testament translation draft.",
         "Includes reviewed translation/textual notes, with MT/LXX difference notes labeled explicitly.",
+        "Includes book preface pages before each book's chapter text.",
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
         "Includes supplemental Brenton-package notes: Brenton footnotes and TSK study notes.",
@@ -1471,6 +1553,16 @@ def add_title_page(
     for line in lines:
         doc.add_paragraph([run(line)])
     doc.add_page_break()
+
+
+def add_book_preface_page(doc: MinimalDocx, fallback_book_name: str, intro: dict[str, str]) -> int:
+    title = intro.get("intro_title", "").strip() or intro.get("book_name", "").strip() or fallback_book_name
+    doc.add_heading(f"{title} Preface", level=2)
+    paragraph_count = 1
+    for label, value in compact_intro_groups(intro):
+        doc.add_paragraph([run(f"{label}. ", bold=True), run(value)])
+        paragraph_count += 1
+    return paragraph_count
 
 
 def build_verse_runs(
@@ -1692,7 +1784,12 @@ def build_readme(
     datatype: str,
     footnote_number_restart: str,
     lexham_textual_notes_html: Path,
+    book_intros_path: Path,
 ) -> None:
+    try:
+        book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
+    except ValueError:
+        book_intros_display = str(book_intros_path)
     content = f"""# Fresh Translation OT Logos/Proofreading Files
 
 Generated files:
@@ -1720,6 +1817,7 @@ Use `{mt_bridge_docx.name}` instead of `{logos_docx.name}` when the goal is to s
 Scope:
 
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
+- Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton-package notes: Brenton USFM footnotes and TSK study-note text. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
@@ -1768,6 +1866,7 @@ def build_diagnostics(
     verses: list[Verse],
     note_counts: dict[str, int],
     notes: dict[str, list[TranslationNote]],
+    book_intro_diag: dict[str, object],
     name_note_counts: dict[str, int],
     name_notes: dict[str, list[NameMeaningNote]],
     supplemental_note_counts: dict[str, object],
@@ -1794,6 +1893,7 @@ def build_diagnostics(
         "translation_note_filter": note_counts,
         "included_translation_note_refs": len(notes),
         "included_translation_note_total": included_note_total,
+        "book_prefaces": book_intro_diag,
         "name_meaning_note_filter": name_note_counts,
         "included_name_meaning_note_refs": len(name_notes),
         "included_name_meaning_note_total": included_name_note_total,
@@ -1817,6 +1917,7 @@ def main() -> None:
     parser.add_argument("--footnotes", type=Path, default=DEFAULT_FOOTNOTES)
     parser.add_argument("--proper-names", type=Path, default=DEFAULT_PROPER_NAMES)
     parser.add_argument("--names-of-god", type=Path, default=DEFAULT_NAMES_OF_GOD)
+    parser.add_argument("--book-intros", type=Path, default=DEFAULT_BOOK_INTROS)
     parser.add_argument("--logos-docx", type=Path, default=DEFAULT_LOGOS_DOCX)
     parser.add_argument("--mt-bridge-docx", type=Path, default=DEFAULT_MT_BRIDGE_DOCX)
     parser.add_argument("--proof-docx", type=Path, default=DEFAULT_PROOF_DOCX)
@@ -1842,6 +1943,7 @@ def main() -> None:
 
     verses = load_verses(args.source)
     notes, note_counts = load_translation_notes(args.footnotes)
+    book_intros, book_intro_diag = load_book_intros(args.book_intros)
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
         names_of_god_path=args.names_of_god,
@@ -1886,6 +1988,7 @@ def main() -> None:
         name_notes=name_notes,
         supplemental_notes=supplemental_notes,
         crossrefs=crossrefs,
+        book_intros=book_intros,
         logos=True,
         datatype=args.datatype,
         milestone_mode="lxx",
@@ -1903,6 +2006,7 @@ def main() -> None:
         name_notes=name_notes,
         supplemental_notes=supplemental_notes,
         crossrefs=crossrefs,
+        book_intros=book_intros,
         logos=True,
         datatype=args.datatype,
         milestone_mode="mt",
@@ -1920,6 +2024,7 @@ def main() -> None:
         name_notes=name_notes,
         supplemental_notes=brenton_supplemental_notes,
         crossrefs=crossrefs,
+        book_intros=book_intros,
         logos=False,
         datatype=args.datatype,
         milestone_mode="lxx",
@@ -1940,12 +2045,14 @@ def main() -> None:
         datatype=args.datatype,
         footnote_number_restart=args.footnote_number_restart,
         lexham_textual_notes_html=args.lexham_textual_notes_html,
+        book_intros_path=args.book_intros,
     )
     validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
         verses=verses,
         note_counts=note_counts,
         notes=notes,
+        book_intro_diag=book_intro_diag,
         name_note_counts=name_note_counts,
         name_notes=name_notes,
         supplemental_note_counts=supplemental_note_counts,

@@ -25,6 +25,7 @@ Use `fresh_translation_ot_logos_bible_mt_notes.docx` instead of `fresh_translati
 Scope:
 
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
+- Book preface pages: `data/book_intros_template.csv`. These are inserted before each book's chapter text in all generated DOCX files.
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton-package notes: Brenton USFM footnotes and TSK study-note text. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
