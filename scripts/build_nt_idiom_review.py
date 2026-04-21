@@ -149,6 +149,8 @@ def build_markdown(title: str, rows: list[dict[str, str]]) -> str:
                 f"- family: `{row['family']}`",
                 f"- dominant bucket: `{row.get('dominant_bucket', '[none]')}`",
                 f"- current bucket: `{row.get('bucket', '[none]')}`",
+                f"- latest review status: `{row.get('latest_review_status', '') or 'none'}`",
+                f"- needs followup: `{row.get('needs_followup', '') or 'yes'}`",
                 f"- fresh: {row['fresh_translation']}",
                 f"- NT refs: {row['nt_parallel_refs']}",
                 f"- NT Greek: {row['nt_parallel_greek']}",

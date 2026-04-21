@@ -5,6 +5,7 @@ Repeated Greek idiom families. Use this to check whether one verse is drifting a
 Families: 5
 Rows checked: 110
 Outliers: 4
+Unresolved outliers: 0
 
 ## Family Summary
 

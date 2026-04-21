@@ -44,6 +44,7 @@
   ],
   "row_count": 110,
   "outlier_count": 4,
+  "unresolved_outlier_count": 0,
   "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
   "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",
   "outliers_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_outliers.md",

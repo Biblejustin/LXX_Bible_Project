@@ -5,6 +5,8 @@ import re
 from collections import Counter
 from pathlib import Path
 
+from build_english_witness_review import RESOLVED_REVIEW_STATUSES, load_latest_review_statuses
+
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
@@ -153,6 +155,7 @@ def build_markdown(
     outlier_rows: list[dict[str, str]],
     family_stats: list[dict[str, str]],
 ) -> tuple[str, str]:
+    unresolved_outliers = [row for row in outlier_rows if row.get("needs_followup") == "yes"]
     review_lines = [
         "# Fresh OT Idiom Consistency Review",
         "",
@@ -161,6 +164,7 @@ def build_markdown(
         f"Families: {len(family_stats)}",
         f"Rows checked: {len(family_rows)}",
         f"Outliers: {len(outlier_rows)}",
+        f"Unresolved outliers: {len(unresolved_outliers)}",
         "",
         "## Family Summary",
         "",
@@ -192,6 +196,7 @@ def build_markdown(
         "Rows where current English diverges from the dominant rendering pattern inside a repeated Greek idiom-family.",
         "",
         f"Rows: {len(outlier_rows)}",
+        f"Unresolved: {len(unresolved_outliers)}",
         "",
     ]
     for row in outlier_rows:
@@ -201,6 +206,8 @@ def build_markdown(
                 f"- family: `{row['family']}`",
                 f"- current bucket: `{row['bucket']}`",
                 f"- dominant bucket: `{row['dominant_bucket']}`",
+                f"- latest review status: `{row.get('latest_review_status', '') or 'none'}`",
+                f"- needs followup: `{row.get('needs_followup', '') or 'yes'}`",
                 f"- fresh: {row['fresh_translation']}",
                 "",
             ]
@@ -210,6 +217,7 @@ def build_markdown(
 
 def main() -> None:
     rows = load_rows(SOURCE)
+    latest_review_statuses = load_latest_review_statuses()
 
     family_rows: list[dict[str, str]] = []
     outlier_rows: list[dict[str, str]] = []
@@ -222,6 +230,7 @@ def main() -> None:
             if not family["match"](greek):
                 continue
             fresh = row.get("draft_translation", "") or ""
+            latest_status = latest_review_statuses.get(row["ref"], "")
             matches.append(
                 {
                     "family": family["name"],
@@ -233,6 +242,8 @@ def main() -> None:
                     "greek_text": greek,
                     "fresh_translation": fresh,
                     "bucket": family["classify"](fresh),
+                    "latest_review_status": latest_status,
+                    "needs_followup": "no" if latest_status in RESOLVED_REVIEW_STATUSES else "yes",
                 }
             )
 
@@ -274,6 +285,7 @@ def main() -> None:
         "family_stats": family_stats,
         "row_count": len(family_rows),
         "outlier_count": len(outlier_rows),
+        "unresolved_outlier_count": sum(1 for row in outlier_rows if row.get("needs_followup") == "yes"),
         "review_markdown": str(REVIEW_MD),
         "review_csv": str(REVIEW_CSV),
         "outliers_markdown": str(OUTLIERS_MD),
