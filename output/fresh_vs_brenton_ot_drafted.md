@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 16472
-- medium: 1489
-- low: 4956
+- high: 16652
+- medium: 1438
+- low: 4827
 - none: 0
 
 Note:
@@ -147248,1440 +147248,1440 @@ Note:
 
 ### Proverbs 3:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not gain reproaches of evil men, nor envy their ways.
 - brenton: [missing]
 
 ### Proverbs 3:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For every lawless man unclean before Lord, and among righteous he does not sit in council.
 - brenton: [missing]
 
 ### Proverbs 3:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Curse of God in houses of ungodly, but dwellings of righteous are blessed.
 - brenton: [missing]
 
 ### Proverbs 3:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord opposes proud, but to humble he gives grace.
 - brenton: [missing]
 
 ### Proverbs 3:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise will inherit glory, but ungodly exalt dishonor.
 - brenton: [missing]
 
 ### Proverbs 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, children, discipline of father, and pay attention to know understanding.
 - brenton: [missing]
 
 ### Proverbs 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I give you good gift; do not forsake my law.
 - brenton: [missing]
 
 ### Proverbs 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I also became son to my father, obedient and loved before my mother.
 - brenton: [missing]
 
 ### Proverbs 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were saying and teaching me, "Let our word rest in your heart.
 - brenton: [missing]
 
 ### Proverbs 4:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Keep commandments, do not forget, nor disregard sayings of my mouth.
 - brenton: [missing]
 
 ### Proverbs 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not abandon her, and she will hold you; love her and she will keep you.
 - brenton: [missing]
 
 ### Proverbs 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Enclose her round about, and she will exalt you; honor her, so that she may embrace you.
 - brenton: [missing]
 
 ### Proverbs 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that she may give your head crown of graces, and with crown of delight defend you.
 - brenton: [missing]
 
 ### Proverbs 4:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, son, and receive my words, and years of your life will multiply, so that many ways of life may belong to you.
 - brenton: [missing]
 
 ### Proverbs 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I teach you ways of wisdom and set you on straight tracks.
 - brenton: [missing]
 
 ### Proverbs 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For when you walk, your steps will not be confined; and if you run, you will not grow weary.
 - brenton: [missing]
 
 ### Proverbs 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take hold of my discipline; do not let go, but guard it for yourself as your life.
 - brenton: [missing]
 
 ### Proverbs 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not go upon ways of ungodly, nor envy ways of lawless men.
 - brenton: [missing]
 
 ### Proverbs 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wherever they camp, do not go there; turn aside from them and pass on.
 - brenton: [missing]
 
 ### Proverbs 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they will not sleep unless they do evil; sleep is taken from them, and they do not lie down.
 - brenton: [missing]
 
 ### Proverbs 4:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For these feed on breads of ungodliness and get drunk on lawless wine.
 - brenton: [missing]
 
 ### Proverbs 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ways of righteous like shining light; they go before and give light until day is fully set right.
 - brenton: [missing]
 
 ### Proverbs 4:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But ways of ungodly dark; they do not know how they stumble.
 - brenton: [missing]
 
 ### Proverbs 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, pay attention to my saying; incline your ear to my words,
 - brenton: [missing]
 
 ### Proverbs 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that your springs may not fail you; guard them in your heart.
 - brenton: [missing]
 
 ### Proverbs 4:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they are life to those finding them and healing to all flesh.
 - brenton: [missing]
 
 ### Proverbs 4:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With every guarding keep your heart, for out of these are goings-out of life.
 - brenton: [missing]
 
 ### Proverbs 4:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remove crooked mouth from yourself, and put unjust lips far from you.
 - brenton: [missing]
 
 ### Proverbs 4:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let your eyes look straight, and your eyelids nod what is right.
 - brenton: [missing]
 
 ### Proverbs 4:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make straight tracks for your feet and direct your ways.
 - brenton: [missing]
 
 ### Proverbs 4:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not turn right or left, but turn your foot away from evil way. For God knows ways on right, but those on left twisted; he will make your tracks straight and advance your journeys in peace.
 - brenton: [missing]
 
 ### Proverbs 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, pay attention to my wisdom, and incline your ear to my words,
 - brenton: [missing]
 
 ### Proverbs 5:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that you may guard good thought; and perception of my lips I command you.
 - brenton: [missing]
 
 ### Proverbs 5:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not pay attention to base woman, for honey drips from lips of prostitute, who for a time fattens your throat.
 - brenton: [missing]
 
 ### Proverbs 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet afterward you will find her more bitter than gall and sharper than two-edged sword.
 - brenton: [missing]
 
 ### Proverbs 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For feet of folly bring those using her down with death into Hades, and her steps do not stand firm.
 - brenton: [missing]
 
 ### Proverbs 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For she does not go upon ways of life, and her tracks slippery and not well known.
 - brenton: [missing]
 
 ### Proverbs 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then, son, hear me and do not make my words invalid.
 - brenton: [missing]
 
 ### Proverbs 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make your way far from her; do not come near doors of her houses,
 - brenton: [missing]
 
 ### Proverbs 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest you give your life to others and your livelihood to unmerciful men,
 - brenton: [missing]
 
 ### Proverbs 5:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: lest strangers be filled with your strength and your labors enter houses of strangers,
 - brenton: [missing]
 
 ### Proverbs 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and you will regret at end when flesh of your body is worn away.
 - brenton: [missing]
 
 ### Proverbs 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, "How I hated discipline, and my heart turned away from reproofs.
 - brenton: [missing]
 
 ### Proverbs 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was not hearing voice of one disciplining me and teaching me, nor inclining my ear.
 - brenton: [missing]
 
 ### Proverbs 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I almost came into every evil in midst of assembly and congregation."
 - brenton: [missing]
 
 ### Proverbs 5:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Drink waters from your vessels and from wells of your spring.
 - brenton: [missing]
 
 ### Proverbs 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not waters overflow for you from your spring; let your waters pass through your broad places.
 - brenton: [missing]
 
 ### Proverbs 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them be yours alone, and let no stranger share with you.
 - brenton: [missing]
 
 ### Proverbs 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let fountain of your water be your own, and rejoice with wife of your youth.
 - brenton: [missing]
 
 ### Proverbs 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Doe of love and colt of your graces, let her converse with you; let your own lead you and be with you at all times, for in companionship with her love you will be much.
 - brenton: [missing]
 
 ### Proverbs 5:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not be much with strange woman, nor be held in arms of one not your own.
 - brenton: [missing]
 
 ### Proverbs 5:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For ways of man before eyes of God, and he watches all his tracks.
 - brenton: [missing]
 
 ### Proverbs 5:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lawless deeds hunt man down, and each is bound with cords of his own sins.
 - brenton: [missing]
 
 ### Proverbs 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This one dies with undisciplined men, and from abundance of his own livelihood is cast out and lost through folly.
 - brenton: [missing]
 
 ### Proverbs 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, if you guarantee your friend, you hand your hand over to enemy.
 - brenton: [missing]
 
 ### Proverbs 6:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For own lips strong snare for man, and he is caught by lips of his own mouth.
 - brenton: [missing]
 
 ### Proverbs 6:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do, son, what I command you, and save yourself, for you came into hands of evil men through your friend. Go, do not grow slack, but press your friend whom you guaranteed.
 - brenton: [missing]
 
 ### Proverbs 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not give sleep to your eyes, nor slumber to your eyelids,
 - brenton: [missing]
 
 ### Proverbs 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that you may save yourself like gazelle from snares and like bird from trap.
 - brenton: [missing]
 
 ### Proverbs 6:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go to ant, sluggard, and watch his ways and become wiser than he.
 - brenton: [missing]
 
 ### Proverbs 6:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For since he has no farming, no one forcing him, nor being under master,
 - brenton: [missing]
 
 ### Proverbs 6:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: he prepares in summer much food and in harvest makes provision. Or go to bee and learn how worker she is and how dignified she makes her work, whose labors kings and private men use for health. She desired by all and renowned. Though weak in strength, by honoring wisdom she advanced.
 - brenton: [missing]
 
 ### Proverbs 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long, sluggard, will you lie down? When will you rise from sleep?
 - brenton: [missing]
 
 ### Proverbs 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Little you sleep, little you sit, little you slumber, little you fold your hands over your chest,
 - brenton: [missing]
 
 ### Proverbs 6:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then poverty comes to you like bad traveler and want like good runner. But if you are tireless, your harvest will come like fountain, and want will flee like bad runner.
 - brenton: [missing]
 
 ### Proverbs 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish and lawless man walks in ways not good.
 - brenton: [missing]
 
 ### Proverbs 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He winks with eye, signals with foot, and teaches with nods of fingers.
 - brenton: [missing]
 
 ### Proverbs 6:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Perverse heart devises evils at every time; such man stirs up disturbances for city.
 - brenton: [missing]
 
 ### Proverbs 6:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this his ruin comes suddenly, cutting and crushing incurably.
 - brenton: [missing]
 
 ### Proverbs 6:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he rejoices in all things Lord hates, and he is crushed because of uncleanness of soul.
 - brenton: [missing]
 
 ### Proverbs 6:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Haughty eye, unjust tongue, hands pouring out blood of righteous,
 - brenton: [missing]
 
 ### Proverbs 6:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and heart forging evil thoughts, and feet hurrying to do evil,
 - brenton: [missing]
 
 ### Proverbs 6:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: unjust false witness kindling lies and sending judgments among brothers.
 - brenton: [missing]
 
 ### Proverbs 6:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, keep laws of your father and do not reject decrees of your mother.
 - brenton: [missing]
 
 ### Proverbs 6:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fasten them to your soul always and put them as chain on your neck.
 - brenton: [missing]
 
 ### Proverbs 6:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whenever you walk, bring her on, and let her be with you; when you sleep, let her guard you, so that waking she may speak with you.
 - brenton: [missing]
 
 ### Proverbs 6:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For command of law lamp and light, and way of life reproof and discipline,
 - brenton: [missing]
 
 ### Proverbs 6:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to guard you from married woman and from slanderous tongue of stranger.
 - brenton: [missing]
 
 ### Proverbs 6:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not beauty conquer you in desire, nor be caught by your eyes, nor be seized by her eyelids.
 - brenton: [missing]
 
 ### Proverbs 6:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For price of prostitute as much as one loaf, but wife of honored men hunts precious souls.
 - brenton: [missing]
 
 ### Proverbs 6:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will anyone bind fire in bosom and not burn clothes?
 - brenton: [missing]
 
 ### Proverbs 6:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or will anyone walk on coals of fire and not burn feet?
 - brenton: [missing]
 
 ### Proverbs 6:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So one going in to married woman will not be acquitted, nor anyone touching her.
 - brenton: [missing]
 
 ### Proverbs 6:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not astonishing if one is caught stealing, for he steals to fill soul when hungry.
 - brenton: [missing]
 
 ### Proverbs 6:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if caught, he will pay sevenfold, and by giving all his possessions he will rescue himself.
 - brenton: [missing]
 
 ### Proverbs 6:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But adulterer, through lack of sense, works destruction for his soul.
 - brenton: [missing]
 
 ### Proverbs 6:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pains and dishonor he bears, and his reproach will not be wiped out forever.
 - brenton: [missing]
 
 ### Proverbs 6:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For jealousy fills wrath of her husband; he will not spare in day of judgment.
 - brenton: [missing]
 
 ### Proverbs 6:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will not accept any ransom against enmity, nor be reconciled by many gifts.
 - brenton: [missing]
 
 ### Proverbs 7:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, keep my words, and hide my commands with yourself. Son, honor Lord and you will grow strong; besides him fear no other.
 - brenton: [missing]
 
 ### Proverbs 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Keep my commands and live, and my words like apple of eyes.
 - brenton: [missing]
 
 ### Proverbs 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bind them on your fingers, and write them on breadth of your heart.
 - brenton: [missing]
 
 ### Proverbs 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say wisdom your sister, and make understanding your close acquaintance,
 - brenton: [missing]
 
 ### Proverbs 7:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: that she may keep you from strange and evil woman if she throw herself at you with winning words.
 - brenton: [missing]
 
 ### Proverbs 7:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For from little window of her house, peering into streets,
 - brenton: [missing]
 
 ### Proverbs 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: whomever she sees among foolish children, young man lacking sense,
 - brenton: [missing]
 
 ### Proverbs 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: passing near corner, in passages of her house,
 - brenton: [missing]
 
 ### Proverbs 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and speaking in evening darkness, when nightly quiet or murky gloom,
 - brenton: [missing]
 
 ### Proverbs 7:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: woman meets him, having appearance of prostitute, who makes hearts of young men fly away.
 - brenton: [missing]
 
 ### Proverbs 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She winged and profligate, and in house her feet do not keep quiet.
 - brenton: [missing]
 
 ### Proverbs 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For a time she wanders outside, and a time in squares; beside every corner she lurks.
 - brenton: [missing]
 
 ### Proverbs 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then seizing him she kissed him, and with shameless face said to him,
 - brenton: [missing]
 
 ### Proverbs 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Peace-sacrifice mine; today I pay my vows.
 - brenton: [missing]
 
 ### Proverbs 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I came out to meet you, desiring your face; I found you.
 - brenton: [missing]
 
 ### Proverbs 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With coverings I decked my bed, and with Egyptian tapestries I spread it.
 - brenton: [missing]
 
 ### Proverbs 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I sprinkled my couch with saffron, and my house with cinnamon.
 - brenton: [missing]
 
 ### Proverbs 7:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, let us enjoy love until dawn; come, let us roll in desire.
 - brenton: [missing]
 
 ### Proverbs 7:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my husband not home, but he has gone long way.
 - brenton: [missing]
 
 ### Proverbs 7:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Taking bundle of silver in his hand; after many days he will return to his house."
 - brenton: [missing]
 
 ### Proverbs 7:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She led him astray with much talk, and with snares from lips she pushed him over.
 - brenton: [missing]
 
 ### Proverbs 7:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He followed her dumbfounded, as ox led to slaughter and as dog to bonds,
 - brenton: [missing]
 
 ### Proverbs 7:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or as deer struck in liver by arrow. He hurries like bird into snare, not knowing he runs for soul.
 - brenton: [missing]
 
 ### Proverbs 7:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then, son, hear me and pay attention to sayings of my mouth.
 - brenton: [missing]
 
 ### Proverbs 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let your heart not turn aside to her ways.
 - brenton: [missing]
 
 ### Proverbs 7:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For having wounded many, she cast them down, and innumerable those she killed.
 - brenton: [missing]
 
 ### Proverbs 7:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ways of Hades her house, leading down to chambers of death.
 - brenton: [missing]
 
 ### Proverbs 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will proclaim wisdom, so that understanding may obey you.
 - brenton: [missing]
 
 ### Proverbs 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For she is on high heights, and among paths she stands.
 - brenton: [missing]
 
 ### Proverbs 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For beside gates of rulers she sits, and in entrances she sings hymns.
 - brenton: [missing]
 
 ### Proverbs 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To you, men, I call, and I send out my voice to sons of men.
 - brenton: [missing]
 
 ### Proverbs 8:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understand shrewdness, innocent ones; and untrained ones, take heart.
 - brenton: [missing]
 
 ### Proverbs 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, for I will speak noble things, and I will open upright things from my lips.
 - brenton: [missing]
 
 ### Proverbs 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my throat will meditate truth, and lying lips abominable before me.
 - brenton: [missing]
 
 ### Proverbs 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All sayings of my mouth with righteousness; nothing in them crooked or twisted.
 - brenton: [missing]
 
 ### Proverbs 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All plain to those understanding and right to those finding knowledge.
 - brenton: [missing]
 
 ### Proverbs 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take discipline and not silver, and choose knowledge above proven gold; and choose perception above pure gold.
 - brenton: [missing]
 
 ### Proverbs 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For wisdom better than precious stones, and every valuable thing not worthy of her.
 - brenton: [missing]
 
 ### Proverbs 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, wisdom, settled counsel, and knowledge and understanding I called.
 - brenton: [missing]
 
 ### Proverbs 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear of Lord hates injustice and insolence and pride and evil ways; and twisted ways of evil I hated.
 - brenton: [missing]
 
 ### Proverbs 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mine counsel and security, mine understanding, and mine strength.
 - brenton: [missing]
 
 ### Proverbs 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Through me kings reign and rulers write righteousness.
 - brenton: [missing]
 
 ### Proverbs 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Through me nobles grow great, and tyrants through me rule earth.
 - brenton: [missing]
 
 ### Proverbs 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I love those loving me, and those seeking me will find me.
 - brenton: [missing]
 
 ### Proverbs 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Riches and glory belong to me, and abundance of possessions and righteousness.
 - brenton: [missing]
 
 ### Proverbs 8:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better to bear fruit from me than gold and precious stone, and my produce better than chosen silver.
 - brenton: [missing]
 
 ### Proverbs 8:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In ways of righteousness I walk, and among tracks of judgment I turn about,
 - brenton: [missing]
 
 ### Proverbs 8:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that I may apportion substance to those loving me and fill their treasuries with good things. If I tell you things happening day by day, I will remember things from age to number them.
 - brenton: [missing]
 
 ### Proverbs 8:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord created me beginning of his ways, for his works.
 - brenton: [missing]
 
 ### Proverbs 8:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before age he founded me, in beginning,
 - brenton: [missing]
 
 ### Proverbs 8:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: before making earth and before making deeps, before springs of waters came forth.
 - brenton: [missing]
 
 ### Proverbs 8:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before mountains were settled, and before all hills, he begets me.
 - brenton: [missing]
 
 ### Proverbs 8:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord made lands and uninhabited places and inhabited heights under heaven.
 - brenton: [missing]
 
 ### Proverbs 8:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When he prepared heaven, I was alongside him, and when he marked out his throne upon winds,
 - brenton: [missing]
 
 ### Proverbs 8:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when he made strong upper clouds and set secure springs under heaven,
 - brenton: [missing]
 
 ### Proverbs 8:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and made strong foundations of earth,
 - brenton: [missing]
 
 ### Proverbs 8:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was beside him, fitting together. I was one in whom he delighted, and day by day I rejoiced before him at every time,
 - brenton: [missing]
 
 ### Proverbs 8:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: when he rejoiced, having completed inhabited world, and rejoiced in sons of men.
 - brenton: [missing]
 
 ### Proverbs 8:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then, son, hear me.
 - brenton: [missing]
 
 ### Proverbs 8:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed man who will hear me, and man who will keep my ways, staying awake at my doors daily, keeping posts of my entrances.
 - brenton: [missing]
 
 ### Proverbs 8:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my goings-out goings-out of life, and favor is prepared from Lord.
 - brenton: [missing]
 
 ### Proverbs 8:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But those sinning against me act ungodly toward their own souls, and those hating me love death.
 - brenton: [missing]
 
 ### Proverbs 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wisdom built house for herself and set seven pillars under it.
 - brenton: [missing]
 
 ### Proverbs 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She slaughtered her sacrifices, mixed her wine into bowl, and prepared her table.
 - brenton: [missing]
 
 ### Proverbs 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She sent her servants, calling with high proclamation upon bowl, saying,
 - brenton: [missing]
 
 ### Proverbs 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Whoever foolish, let him turn aside to me." And to those lacking sense she said,
 - brenton: [missing]
 
 ### Proverbs 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Come, eat of my breads and drink wine I mixed for you.
 - brenton: [missing]
 
 ### Proverbs 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Leave folly and live, and seek understanding so that you may live, and set straight by knowledge understanding.
 - brenton: [missing]
 
 ### Proverbs 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One disciplining evil men will receive dishonor for himself, and rebuking ungodly will blame himself.
 - brenton: [missing]
 
 ### Proverbs 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not rebuke evil men, lest they hate you; rebuke wise, and he will love you.
 - brenton: [missing]
 
 ### Proverbs 9:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give wise one opportunity, and he will become wiser; make righteous man know, and he will add to receiving.
 - brenton: [missing]
@@ -148697,90 +148697,90 @@ Note:
 
 ### Proverbs 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For by this way you will live long time, and years of your life will be added.
 - brenton: [missing]
 
 ### Proverbs 9:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son, if you become wise, for yourself you will be wise and for neighbors; but if you become evil, alone you will draw out evils. One leaning on lies pastures winds, and pursues flying birds. For he left ways of his own vineyard and wandered from tracks of his own field; he passes through waterless desert and land appointed in thirsty places, and gathers barrenness with hands.
 - brenton: [missing]
 
 ### Proverbs 9:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foolish and bold woman, lacking bread, becomes one who does not know shame.
 - brenton: [missing]
 
 ### Proverbs 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She sat at doors of her house on chair openly in squares,
 - brenton: [missing]
 
 ### Proverbs 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: calling those passing by and going straight in their ways,
 - brenton: [missing]
 
 ### Proverbs 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Who among you most foolish? Let him turn aside to me." And to those lacking sense I exhort, saying,
 - brenton: [missing]
 
 ### Proverbs 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "Touch hidden breads pleasantly and sweet water of theft."
 - brenton: [missing]
 
 ### Proverbs 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he does not know that earthborn men perish beside her, and he meets floor of Hades. But spring away; do not delay in place, nor set your eye toward her. For thus you will cross foreign water and pass over foreign river. Hold back from foreign water and do not drink from foreign spring, so that you may live long time and years of life be added.
 - brenton: [missing]
 
 ### Proverbs 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise son gladdens father, but foolish son grief to mother.
 - brenton: [missing]
 
 ### Proverbs 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Treasures will not benefit lawless men, but righteousness will rescue from death.
 - brenton: [missing]
@@ -148796,90 +148796,90 @@ Note:
 
 ### Proverbs 10:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Poverty humbles man, but hands of brave men make rich. Disciplined son will be wise, but to foolish servant he will make use.
 - brenton: [missing]
 
 ### Proverbs 10:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understanding son saved from heat, but lawless son becomes wind-blasted in harvest.
 - brenton: [missing]
 
 ### Proverbs 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessing of Lord upon head of righteous, but mouth of ungodly will cover untimely grief.
 - brenton: [missing]
 
 ### Proverbs 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Memory of righteous with praises, but name of ungodly is quenched.
 - brenton: [missing]
 
 ### Proverbs 10:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise in heart will receive commands, but roofless one twisting with lips will be tripped up.
 - brenton: [missing]
 
 ### Proverbs 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One walking simply walks confidently, but one twisting his ways will be known.
 - brenton: [missing]
 
 ### Proverbs 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One winking eyes with deceit gathers griefs for men, but one rebuking with boldness makes peace.
 - brenton: [missing]
 
 ### Proverbs 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fountain of life in hand of righteous, but mouth of ungodly will cover destruction.
 - brenton: [missing]
 
 ### Proverbs 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hatred stirs strife, but friendship covers all not loving strife.
 - brenton: [missing]
 
 ### Proverbs 10:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One bringing forth wisdom from lips strikes heartless man with rod.
 - brenton: [missing]
