@@ -1,6 +1,6 @@
 # Fresh OT English Witness Review
 
-Rows: 46
+Rows: 49
 
 ## Exodus 20:24
 - priority: `35`
@@ -182,6 +182,21 @@ Rows: 46
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
+## Isaiah 54:10
+- priority: `25`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `2`
+- signals: unclear
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
+- brenton: shall the mountains depart, nor shall thy hills be removed: so neither shall my mercy fail thee, nor shall the covenant of thy peace be at all removed: for the Lord who is gracious to thee has spoken it.
+
 ## Leviticus 5:15
 - priority: `25`
 - importance: `high`
@@ -197,6 +212,51 @@ Rows: 46
 - fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
+## Micah 5:3
+- priority: `25`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `1`
+- differs all: `1`
+- split/mixed: `0`
+- signals: mt_leaning, unclear
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
+- brenton: And the Lord shall stand, and see, and feed his flock with power, and they shall dwell in the glory of the name of the Lord their God: for now shall they be magnified to the ends of the earth.
+
+## Jeremiah 9:23
+- priority: `24`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `0`
+- brenton support: `0`
+- mt support: `2`
+- differs all: `0`
+- split/mixed: `0`
+- signals: mt_leaning
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
+- brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
+
+## Micah 6:8
+- priority: `24`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `2`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `0`
+- signals: [none]
+- recommendation: `keep`
+- latest review status: `revised`
+- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+- brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+
 ## Isaiah 12:2
 - priority: `23`
 - importance: `high`
@@ -210,7 +270,7 @@ Rows: 46
 - recommendation: `keep`
 - latest review status: `revised`
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- brenton: 
+- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Leviticus 3:1
 - priority: `23`
@@ -272,21 +332,6 @@ Rows: 46
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
 
-## Micah 6:8
-- priority: `22`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `2`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `0`
-- signals: [none]
-- recommendation: `keep`
-- latest review status: `revised`
-- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
-- brenton: 
-
 ## 2 Samuel 14:17
 - priority: `21`
 - importance: `high`
@@ -345,7 +390,7 @@ Rows: 46
 - recommendation: `keep`
 - latest review status: `revised`
 - fresh: and one swears, As the Lord lives, with truth and in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem.
-- brenton: 
+- brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
 
 ## Leviticus 7:32
 - priority: `21`
@@ -450,7 +495,7 @@ Rows: 46
 - recommendation: `keep`
 - latest review status: `revised`
 - fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
-- brenton: 
+- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ## Joshua 22:34
 - priority: `19`

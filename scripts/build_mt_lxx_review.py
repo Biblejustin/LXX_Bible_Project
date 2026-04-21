@@ -202,10 +202,24 @@ def parse_brenton_book(zf: zipfile.ZipFile, filename: str, book_name: str) -> di
     return verses
 
 
+def discover_brenton_filenames(zf: zipfile.ZipFile) -> dict[str, str]:
+    filenames = dict(BOOK_FILENAME_MAP)
+    for filename in zf.namelist():
+        if not filename.endswith(".usfm"):
+            continue
+        header = zf.read(filename).decode("utf-8", errors="replace").splitlines()[:5]
+        for line in header:
+            match = re.match(r"\\id\s+([A-Z0-9]+)", line.strip())
+            if match and match.group(1) in BOOK_FILENAME_MAP:
+                filenames[match.group(1)] = filename
+                break
+    return filenames
+
+
 def load_brenton_map(selected_rows: list[dict[str, str]], zip_path: Path) -> dict[str, str]:
     brenton_map: dict[str, str] = {}
     with zipfile.ZipFile(zip_path) as zf:
-        for book_code, filename in BOOK_FILENAME_MAP.items():
+        for book_code, filename in discover_brenton_filenames(zf).items():
             if filename not in zf.namelist():
                 continue
             book_rows = [row for row in selected_rows if row.get("book_code", "").strip() == book_code]

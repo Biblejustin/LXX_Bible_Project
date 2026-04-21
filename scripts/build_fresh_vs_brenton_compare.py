@@ -158,6 +158,20 @@ def parse_brenton_book(zf: zipfile.ZipFile, filename: str, book_name: str) -> Di
     return verses
 
 
+def discover_brenton_filenames(zf: zipfile.ZipFile) -> Dict[str, str]:
+    filenames = dict(BOOK_FILENAME_MAP)
+    for filename in zf.namelist():
+        if not filename.endswith(".usfm"):
+            continue
+        header = zf.read(filename).decode("utf-8", errors="replace").splitlines()[:5]
+        for line in header:
+            match = re.match(r"\\id\s+([A-Z0-9]+)", line.strip())
+            if match and match.group(1) in BOOK_FILENAME_MAP:
+                filenames[match.group(1)] = filename
+                break
+    return filenames
+
+
 def normalize_for_compare(text: str) -> str:
     text = text.lower()
     text = text.replace("'", "")
@@ -337,7 +351,7 @@ def main() -> None:
     footnote_rows = load_csv_rows(Path(args.footnotes))
     brenton_map: Dict[str, str] = {}
     with zipfile.ZipFile(args.brenton_zip) as zf:
-        for book_code, filename in BOOK_FILENAME_MAP.items():
+        for book_code, filename in discover_brenton_filenames(zf).items():
             if filename not in zf.namelist():
                 continue
             book_rows = [row for row in selected_rows if row.get("book_code", "").strip() == book_code]

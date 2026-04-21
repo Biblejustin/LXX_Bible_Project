@@ -171,84 +171,84 @@ Books: 29
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, righteous, soul; crossref_top_vote=20; reco=keep
 - keywords: lord, righteous, soul
 - fresh: Lord will not starve righteous soul, but life of ungodly he will overthrow.
-- brenton: [missing]
+- brenton: The Lord will not famish a righteous soul: but he will overthrow the life of the ungodly.
 
 ## Ecclesiastes 2:26
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit; crossref_top_vote=43; reco=keep
 - keywords: god, spirit
 - fresh: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
-- brenton: [missing]
+- brenton: For God has given to the man who is good in his sight, wisdom, and knowledge, and joy: but he has given to the sinner trouble, to add and to heap up, that he may give to him that is good before God; for this is also vanity and waywardness of spirit.
 
 ## Ecclesiastes 6:2
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, soul; crossref_top_vote=10; reco=keep
 - keywords: glory, god, soul
 - fresh: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
-- brenton: [missing]
+- brenton: a man to whom God shall give wealth, and substance, and honour, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.
 
 ## Ecclesiastes 11:5
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit; crossref_top_vote=22; reco=keep
-- keywords: god, spirit
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
+- keywords: god, spirit, wind
 - fresh: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
-- brenton: [missing]
-
-## Ecclesiastes 11:6
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=seed; crossref_top_vote=308; reco=keep
-- keywords: seed
-- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
-- brenton: [missing]
+- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
 
 ## Song of Solomon 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd, soul; crossref_top_vote=8; reco=keep
 - keywords: shepherd, soul
 - fresh: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
-- brenton: [missing]
+- brenton: Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one that is veiled by the flocks of thy companions.
+
+## Song of Solomon 4:16
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, wind; crossref_top_vote=6; reco=keep
+- keywords: beloved, wind
+- fresh: Awake, north wind, and come, south wind. Blow through my garden, and let my spices flow. Let my beloved go down into his garden and eat the fruit of his choice fruits.
+- brenton: Awake, O north wind; and come, O south; and blow through my garden, and let my spices flow out.
 
 ## Song of Solomon 5:6
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, soul; crossref_top_vote=5; reco=keep
 - keywords: beloved, soul
 - fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
-- brenton: [missing]
+- brenton: I opened to my kinsman; my kinsman was gone: my soul failed at his speech: I sought him, but found him not; I called him, but he answered me not.
 
 ## Isaiah 54:10
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=keep; reco=keep
+- score: 25
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: being, covenant, lord, mercy, peace
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
-- brenton: [missing]
+- brenton: shall the mountains depart, nor shall thy hills be removed: so neither shall my mercy fail thee, nor shall the covenant of thy peace be at all removed: for the Lord who is gracious to thee has spoken it.
 
 ## Isaiah 59:21
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=covenant, lord, seed, spirit; crossref_top_vote=320; eng_reco=keep; reco=keep
 - keywords: covenant, lord, seed, spirit
 - fresh: And this covenant from me with them, said Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said Lord, from now and forever.
-- brenton: [missing]
+- brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Lamentations 3:25
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=56; reco=keep
 - keywords: lord, soul
 - fresh: Lord good to those waiting for him, soul that seeks him, good.
-- brenton: [missing]
+- brenton: Teth. The Lord is good to them that wait for him: the soul which shall seek him
 
-## Ezekiel 18:20
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
-- keywords: righteous, righteousness, soul
-- fresh: And soul sinning will die, but son will not bear injustice of his father, nor father bear injustice of his son. Righteousness of righteous one will be upon him, and lawlessness of lawless one will be upon him.
-- brenton: [missing]
-
-## Ezekiel 43:19
+## Ezekiel 18:27
 - score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- keywords: god, lord, seed, sin
-- fresh: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says Lord God, a young bull from the herd for sin.
-- brenton: [missing]
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, righteousness, soul; crossref_top_vote=7; reco=keep
+- keywords: judgment, justice, righteousness, soul
+- fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
+- brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
+
+## Ezekiel 43:18
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, god, lord; crossref_top_vote=4; reco=keep
+- keywords: altar, being, god, lord
+- fresh: And he said to me, Son of man, thus says the Lord God of Israel: These are the ordinances of the altar on the day it is made, to offer burnt offerings on it and to pour blood upon it.
+- brenton: And he said to me, Son of man, thus saith the Lord God of Israel; These are the ordinances of the altar in the day of its being made, to offer upon it whole-burnt-offerings, and to pour blood upon it.
 
 ## Daniel 4:22
 - score: 19
@@ -276,102 +276,102 @@ Books: 29
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=created, god, lord, savior; crossref_top_vote=13; reco=keep
 - keywords: created, god, lord, savior
 - fresh: But I am Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from land of Egypt, and besides me you will know no god, and there is no savior except me.
-- brenton: [missing]
+- brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
 
 ## Amos 4:13
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord, name, wind; crossref_top_vote=16; eng_reco=keep; reco=keep
 - keywords: anointed, god, lord, name, wind
 - fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
-- brenton: [missing]
+- brenton: For, behold, I am he that strengthens the thunder, and creates the wind, and proclaims to men his Christ, forming the morning and the darkness, and mounting on the high places of the earth, The Lord God Almighty is his name.
 
 ## Amos 9:1
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
 - keywords: altar, being, lord, mercy
 - fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
-- brenton: [missing]
+- brenton: I saw the Lord standing on the altar: and he said,
 
 ## Jonah 1:4
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, lord, wind; crossref_top_vote=10; reco=keep
 - keywords: being, lord, wind
 - fresh: Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
-- brenton: [missing]
+- brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
 
 ## Jonah 2:8
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord, soul; crossref_top_vote=13; reco=keep
 - keywords: holy, lord, soul
 - fresh: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
-- brenton: [missing]
+- brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
 
 ## Micah 3:8
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, spirit; crossref_top_vote=11; reco=keep
 - keywords: judgment, lord, spirit
 - fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
-- brenton: [missing]
+- brenton: Surely I will strengthen myself with the Spirit of the Lord, and of judgment, and of power, to declare to Jacob his transgressions, and to Israel his sins.
 
 ## Micah 6:7
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=firstborn, lord, sin, soul; crossref_top_vote=7; reco=keep
 - keywords: firstborn, lord, sin, soul
 - fresh: Will Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, fruit of my womb for sin of my soul?
-- brenton: [missing]
+- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
 
 ## Habakkuk 2:4
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=faith, righteous, soul; crossref_top_vote=68; eng_reco=keep; reco=keep
 - keywords: faith, righteous, soul
 - fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
-- brenton: [missing]
+- brenton: If he should draw back, my soul has no pleasure in him: but the just shall live by my faith.
 
 ## Habakkuk 3:2
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, mercy, soul; crossref_top_vote=28; reco=keep
 - keywords: lord, mercy, soul
 - fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
-- brenton: [missing]
+- brenton: O Lord, I have heard thy report, and was afraid: I considered thy works, and was amazed: thou shalt be known between the two living creatures, thou shalt be acknowledged when the years draw nigh; thou shalt be manifested when the time is come; when my soul is troubled, thou wilt in wrath remember mercy.
 
 ## Zephaniah 3:4
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
 - keywords: holy, law, spirit
 - fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
-- brenton: [missing]
+- brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
 
 ## Haggai 1:14
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: god, lord, priest, spirit
 - fresh: The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
-- brenton: [missing]
+- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ## Haggai 2:9
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, peace, soul; crossref_top_vote=18; eng_reco=keep; reco=keep
 - keywords: glory, lord, peace, soul
 - fresh: Latter glory of this house will be greater than first, says Lord Almighty, and in this place I will give peace, says Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
-- brenton: [missing]
+- brenton: For the glory of this house shall be great, the latter more than the former, saith the Lord Almighty: and in this place will I give peace, saith the Lord Almighty, even peace of soul for a possession to every one that builds, to raise up this temple.
 
 ## Zechariah 4:6
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, spirit; crossref_top_vote=170; reco=keep
 - keywords: lord, spirit
 - fresh: And he answered and said to me: This is word of Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says Lord Almighty.
-- brenton: [missing]
+- brenton: And he answered and spoke to me, saying, This is the word of the Lord to Zorobabel, saying,
 
 ## Zechariah 12:10
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
 - keywords: beloved, compassion, firstborn, grace, spirit
 - fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
-- brenton: [missing]
+- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
 
 ## Malachi 2:10
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
 - keywords: covenant, create, god
 - fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane covenant of your fathers?
-- brenton: [missing]
+- brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?

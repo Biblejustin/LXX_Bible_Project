@@ -54964,7 +54964,7 @@ For do not say that there will not be inspection of man, and inspection for him 
 
 **Job 34:10**
 
-Therefore, men of understanding heart, hear me. Far be it from me to act ungodly against Lord, and against Almighty to disturb the righteous thing.
+Therefore, you who are wise in heart, hear me: far be it from me to act impiously before the Lord, and before the Almighty to pervert what is right.
 
 **Job 34:11**
 
@@ -61990,7 +61990,7 @@ Yours the arm with dominion; let your hand be strengthened; let your right hand 
 
 **Psalms 88:15**
 
-Righteousness and judgment preparation of your throne; mercy and truth will go before your face.
+Righteousness and judgment are the foundation of your throne; mercy and truth will go before your face.
 
 **Psalms 88:16**
 
@@ -68804,7 +68804,7 @@ Shrewd man, seeing evil man punished strongly, is himself disciplined; but fools
 
 **Proverbs 22:4**
 
-Race of wisdom = fear of Lord, and riches and glory and life.
+The fear of the Lord is the offspring of wisdom, and wealth and glory and life.
 
 **Proverbs 22:5**
 
@@ -70246,7 +70246,7 @@ What came to be already is, and what is to come to be already happened, and God 
 
 **Ecclesiastes 3:16**
 
-And further I saw under sun place of judgment, there ungodly, and place of righteous, there ungodly.
+And further, I saw under the sun: in the place of judgment, there was the impious one; and in the place of the righteous, there was the impious one.
 
 **Ecclesiastes 3:17**
 
@@ -70530,7 +70530,7 @@ In day of goodness, live in good, and in day of evil, see: indeed God made this 
 
 **Ecclesiastes 7:15**
 
-I saw all things in days of my vanity: there is righteous man perishing in his righteousness, and there is ungodly man remaining in his evil.
+I saw all things in the days of my vanity: there is a righteous man perishing in his righteousness, and there is an impious man remaining in his evil.
 
 **Ecclesiastes 7:16**
 
@@ -71166,7 +71166,7 @@ Spring of gardens, well of living water and rushing from Lebanon.
 
 **Song of Solomon 4:16**
 
-Awake, north, and come, south. Breathe through my garden, and let my perfumes flow. Let my beloved go down into his garden and eat fruit of his choice things.
+Awake, north wind, and come, south wind. Blow through my garden, and let my spices flow. Let my beloved go down into his garden and eat the fruit of his choice fruits.
 
 ### Chapter 5
 
@@ -78726,7 +78726,7 @@ and say, Hear word of Lord, king of Judah seated on throne of David, you and you
 
 **Jeremiah 22:3**
 
-Thus says Lord: Do judgment and righteousness, and rescue plundered one from hand of one wronging him, and do not oppress foreigner and orphan and widow, and do not act impiously, and do not pour out innocent blood in this place.
+Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
 
 **Jeremiah 22:4**
 
@@ -82342,7 +82342,7 @@ You covered yourself with cloud because of prayer.
 
 **Lamentations 3:45**
 
-You made us to blink and be thrust away in midst of peoples.
+To close my eyes and be thrust away, you placed us in the midst of the peoples.
 
 **Lamentations 3:46**
 
@@ -84284,7 +84284,7 @@ When righteous one turns from his righteousness and does trespass and dies, in t
 
 **Ezekiel 18:27**
 
-And when lawless one turns from his lawlessness that he did and does judgment and righteousness, this one has preserved his soul.
+And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
 
 **Ezekiel 18:28**
 
@@ -85978,7 +85978,7 @@ When I say to righteous one, He surely lives, and he trusts in his righteousness
 
 **Ezekiel 33:14**
 
-And when I say to impious one, By death you will die, and he turns from his sin and does judgment and righteousness,
+And when I say to the impious one, 'You will surely die,' and he turns from his sin and does judgment and righteousness,
 
 **Ezekiel 33:15**
 
@@ -87174,7 +87174,7 @@ And the ledge, fourteen cubits long by fourteen cubits broad on its four sides, 
 
 **Ezekiel 43:18**
 
-And he said to me, Son of man, thus says Lord God of Israel: These are ordinances of the altar on day of its making, to offer burnt offerings on it and pour blood on it.
+And he said to me, Son of man, thus says the Lord God of Israel: These are the ordinances of the altar on the day it is made, to offer burnt offerings on it and to pour blood upon it.
 
 **Ezekiel 43:19**
 
@@ -91188,7 +91188,7 @@ And word of Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hez
 
 **Micah 1:2**
 
-Hear words, peoples, and let earth and all in it pay attention, and Lord will be among you for witness, Lord from his holy house.
+Hear these words, peoples, and let the earth and all who are in it pay attention; and the Lord will be among you as a witness, the Lord from his holy house.
 
 **Micah 1:3**
 
@@ -93288,7 +93288,7 @@ This will be sin of Egypt and sin of all nations, whichever do not go up to cele
 
 **Zechariah 14:20**
 
-In that day, on horse's bridle will be: Holy to Lord Almighty. And pots in house of Lord will be like bowls before altar.
+On that day, there will be on the horse's bridle: 'Holy to the Lord Almighty,' and the pots in the house of the Lord will be like bowls before the altar.
 
 **Zechariah 14:21**
 

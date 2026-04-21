@@ -23,44 +23,44 @@ Only verses with tracked decision rows or footnotes.
 - 17. Genesis 2:7 | score 28 | decisions 4 | footnotes 3
 - 18. Leviticus 4:35 | score 26 | decisions 1 | footnotes 1
 - 19. Deuteronomy 16:6 | score 25 | decisions 1 | footnotes 1
-- 20. Leviticus 5:15 | score 25 | decisions 3 | footnotes 3
-- 21. 2 Chronicles 35:3 | score 24 | decisions 5 | footnotes 5
-- 22. Isaiah 59:21 | score 24 | decisions 1 | footnotes 2
-- 23. Isaiah 9:6 | score 24 | decisions 1 | footnotes 2
-- 24. Leviticus 4:26 | score 24 | decisions 1 | footnotes 1
-- 25. Amos 9:12 | score 23 | decisions 1 | footnotes 1
-- 26. Daniel 4:37 | score 23 | decisions 1 | footnotes 1
-- 27. Isaiah 12:2 | score 23 | decisions 1 | footnotes 1
-- 28. Isaiah 54:10 | score 23 | decisions 1 | footnotes 1
-- 29. Jeremiah 15:16 | score 23 | decisions 1 | footnotes 1
-- 30. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1
-- 31. Zechariah 13:9 | score 23 | decisions 1 | footnotes 1
-- 32. 1 Chronicles 16:40 | score 22 | decisions 1 | footnotes 1
-- 33. 1 Kings 10:9 | score 22 | decisions 1 | footnotes 1
-- 34. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1
-- 35. 1 Samuel 2:10 | score 22 | decisions 1 | footnotes 1
-- 36. 2 Kings 9:18 | score 22 | decisions 2 | footnotes 2
-- 37. Exodus 14:31 | score 22 | decisions 2 | footnotes 2
-- 38. Exodus 15:26 | score 22 | decisions 2 | footnotes 2
-- 39. Genesis 24:7 | score 22 | decisions 2 | footnotes 1
-- 40. Isaiah 44:2 | score 22 | decisions 1 | footnotes 1
-- 41. Jeremiah 23:5 | score 22 | decisions 1 | footnotes 1
-- 42. Joshua 22:23 | score 22 | decisions 1 | footnotes 1
-- 43. Joshua 22:29 | score 22 | decisions 1 | footnotes 1
-- 44. Joshua 24:19 | score 22 | decisions 1 | footnotes 1
-- 45. Leviticus 7:11 | score 22 | decisions 1 | footnotes 1
-- 46. Micah 6:8 | score 22 | decisions 1 | footnotes 1
-- 47. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1
-- 48. Numbers 35:25 | score 22 | decisions 2 | footnotes 2
-- 49. Numbers 6:14 | score 22 | decisions 1 | footnotes 1
-- 50. Numbers 6:18 | score 22 | decisions 4 | footnotes 4
-- 51. Psalms 83:12 | score 22 | decisions 1 | footnotes 1
-- 52. Psalms 84:11 | score 22 | decisions 1 | footnotes 1
-- 53. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1
-- 54. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1
-- 55. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1
-- 56. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1
-- 57. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1
-- 58. 2 Samuel 22:51 | score 21 | decisions 1 | footnotes 1
-- 59. 2 Samuel 3:21 | score 21 | decisions 1 | footnotes 1
-- 60. Exodus 14:13 | score 21 | decisions 2 | footnotes 1
+- 20. Isaiah 54:10 | score 25 | decisions 1 | footnotes 1
+- 21. Leviticus 5:15 | score 25 | decisions 3 | footnotes 3
+- 22. Micah 5:3 | score 25 | decisions 1 | footnotes 1
+- 23. 2 Chronicles 35:3 | score 24 | decisions 5 | footnotes 5
+- 24. Isaiah 59:21 | score 24 | decisions 1 | footnotes 2
+- 25. Isaiah 9:6 | score 24 | decisions 1 | footnotes 2
+- 26. Jeremiah 9:23 | score 24 | decisions 1 | footnotes 1
+- 27. Leviticus 4:26 | score 24 | decisions 1 | footnotes 1
+- 28. Micah 6:8 | score 24 | decisions 1 | footnotes 1
+- 29. Amos 9:12 | score 23 | decisions 1 | footnotes 1
+- 30. Daniel 4:37 | score 23 | decisions 1 | footnotes 1
+- 31. Isaiah 12:2 | score 23 | decisions 1 | footnotes 1
+- 32. Isaiah 56:1 | score 23 | decisions 1 | footnotes 1
+- 33. Jeremiah 15:16 | score 23 | decisions 1 | footnotes 1
+- 34. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1
+- 35. Zechariah 13:9 | score 23 | decisions 1 | footnotes 1
+- 36. 1 Chronicles 16:40 | score 22 | decisions 1 | footnotes 1
+- 37. 1 Kings 10:9 | score 22 | decisions 1 | footnotes 1
+- 38. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1
+- 39. 1 Samuel 2:10 | score 22 | decisions 1 | footnotes 1
+- 40. 2 Kings 9:18 | score 22 | decisions 2 | footnotes 2
+- 41. Exodus 14:31 | score 22 | decisions 2 | footnotes 2
+- 42. Exodus 15:26 | score 22 | decisions 2 | footnotes 2
+- 43. Genesis 24:7 | score 22 | decisions 2 | footnotes 1
+- 44. Isaiah 44:2 | score 22 | decisions 1 | footnotes 1
+- 45. Jeremiah 23:5 | score 22 | decisions 1 | footnotes 1
+- 46. Joshua 22:23 | score 22 | decisions 1 | footnotes 1
+- 47. Joshua 22:29 | score 22 | decisions 1 | footnotes 1
+- 48. Joshua 24:19 | score 22 | decisions 1 | footnotes 1
+- 49. Leviticus 7:11 | score 22 | decisions 1 | footnotes 1
+- 50. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1
+- 51. Numbers 35:25 | score 22 | decisions 2 | footnotes 2
+- 52. Numbers 6:14 | score 22 | decisions 1 | footnotes 1
+- 53. Numbers 6:18 | score 22 | decisions 4 | footnotes 4
+- 54. Psalms 83:12 | score 22 | decisions 1 | footnotes 1
+- 55. Psalms 84:11 | score 22 | decisions 1 | footnotes 1
+- 56. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1
+- 57. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1
+- 58. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1
+- 59. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1
+- 60. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1

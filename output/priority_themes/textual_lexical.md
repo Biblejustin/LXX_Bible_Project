@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 56
-Books: 23
+Rows: 55
+Books: 22
 
 ## Genesis 1:2
 - score: 21
@@ -290,109 +290,102 @@ Books: 23
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=22; reco=keep
 - keywords: god, lord
 - fresh: And when this day came, behold, angels of God came to stand before the Lord, and the slanderer came with them.
-- brenton: [missing]
+- brenton: And it came to pass on a day, that, behold, the angels of God came to stand before the Lord, and the devil came with them.
 
 ## Isaiah 9:6
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177; eng_reco=keep; reco=keep
 - keywords: judgment, lord, peace, righteousness
 - fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
-- brenton: [missing]
+- brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ## Isaiah 59:21
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=covenant, lord, seed, spirit; crossref_top_vote=320; eng_reco=keep; reco=keep
 - keywords: covenant, lord, seed, spirit
 - fresh: And this covenant from me with them, said Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said Lord, from now and forever.
-- brenton: [missing]
+- brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Lamentations 1:15
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, virgin; crossref_top_vote=5; reco=keep
 - keywords: lord, virgin
 - fresh: Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
-- brenton: [missing]
-
-## Amos 3:7
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=66; reco=keep
-- keywords: god, lord
-- fresh: Because Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
-- brenton: [missing]
+- brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ## Obadiah 1:1
 - score: 14
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=8; reco=keep
 - keywords: god, lord
 - fresh: Vision of Obadiah. Thus says Lord God to Idumea: I heard a report from Lord, and he sent a message to nations: Rise, and let us rise against her for war.
-- brenton: [missing]
+- brenton: The vision of Obdias. Thus saith the Lord God to Idumea; I have heard a report from the Lord, and he has sent forth a message to the nations.
 
 ## Obadiah 1:8
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=7; reco=keep
 - keywords: lord
 - fresh: In that day, says Lord, I will destroy wise men from Idumea and understanding from mount of Esau.
-- brenton: [missing]
+- brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ## Obadiah 1:15
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=11; reco=keep
 - keywords: lord
 - fresh: Because day of Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
-- brenton: [missing]
+- brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
 
 ## Jonah 2:2
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=25; reco=keep
 - keywords: god, lord
 - fresh: Jonah prayed to Lord his God from belly of sea-creature.
-- brenton: [missing]
+- brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
 
 ## Nahum 1:2
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=9; reco=keep
 - keywords: god, lord
 - fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
-- brenton: [missing]
+- brenton: God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.
 
 ## Nahum 1:3
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=16; reco=keep
 - keywords: lord
 - fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
-- brenton: [missing]
+- brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
 
 ## Nahum 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=75; reco=keep
 - keywords: lord
 - fresh: Lord good to those waiting for him in day of distress, and knowing those revering him.
-- brenton: [missing]
+- brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ## Nahum 1:9
 - score: 14
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=22; reco=keep
 - keywords: lord
 - fresh: What do you plot against Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
-- brenton: [missing]
+- brenton: What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.
 
 ## Nahum 3:5
 - score: 14
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=8; reco=keep
 - keywords: god, lord
 - fresh: Behold, I am against you, says Lord God Almighty, and I will uncover your backside to your face and show nations your shame and kingdoms your dishonor.
-- brenton: [missing]
+- brenton: Behold, I am against thee, saith the Lord God Almighty, and I will uncover thy skirts in thy presence, and I will shew the nations thy shame, and the kingdoms thy disgrace.
 
 ## Zephaniah 3:17
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=93; reco=keep
 - keywords: god, lord
 - fresh: Lord your God in you, mighty, will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
-- brenton: [missing]
+- brenton: The Lord thy God is in thee; the Mighty One shall save thee: he shall bring joy upon thee, and shall refresh thee with his love; and he shall rejoice over thee with delight as in a day of feasting.
 
 ## Malachi 3:6
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=108; reco=keep
 - keywords: god, lord
 - fresh: Because I am Lord your God and do not change, and you sons of Jacob have not ceased.
-- brenton: [missing]
+- brenton: For I am the Lord your God, and I am not changed:

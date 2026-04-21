@@ -2,8 +2,8 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 106
-Books: 35
+Rows: 102
+Books: 33
 
 ## Genesis 24:7
 - score: 22
@@ -439,159 +439,138 @@ Books: 35
 - fresh: Go, gather the Ioudaioi in Sousa and fast for me, and do not eat or drink for three days, night and day. And I and my maidservants will likewise go without food, and then I will go in to the king contrary to the law. If then I must perish, I will perish.
 - brenton: [missing]
 
-## Job 1:8
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=12; reco=keep
-- keywords: god, lord, servant
-- fresh: And the Lord said to him, Did you set your mind against my servant Job, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
-- brenton: [missing]
-
 ## Job 2:3
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=7; reco=keep
 - keywords: god, lord, servant
 - fresh: And the Lord said to the slanderer, Did you then give attention to my servant Job, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
-- brenton: [missing]
+- brenton: And the Lord said to the devil, Hast thou then observed my servant Job, that there is none of men upon the earth like him, a harmless, true, blameless, godly man, abstaining from all evil? and he yet cleaves to innocence, whereas thou hast told me to destroy his substance without cause?
 
 ## Psalms 19:7
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, lord, salvation; crossref_top_vote=52; eng_reco=keep; reco=keep
 - keywords: anointed, holy, lord, salvation
 - fresh: Now I knew that Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in acts of power.
-- brenton: [missing]
+- brenton: Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.
 
 ## Psalms 23:5
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy, savior; crossref_top_vote=84; eng_reco=keep; reco=keep
 - keywords: god, lord, mercy, savior
 - fresh: This one will receive blessing from Lord and mercy from God his savior.
-- brenton: [missing]
-
-## Psalms 68:14
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy, salvation, truth; crossref_top_vote=4; reco=keep
-- keywords: god, lord, mercy, salvation, truth
-- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
-- brenton: [missing]
+- brenton: He shall receive a blessing from the Lord, and mercy from God his Saviour.
 
 ## Psalms 84:11
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=mercy, peace, righteousness, truth; crossref_top_vote=106; eng_reco=keep; reco=keep
 - keywords: mercy, peace, righteousness, truth
 - fresh: Mercy and truth met together; righteousness and peace kissed.
-- brenton: [missing]
-
-## Ecclesiastes 11:6
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=seed; crossref_top_vote=308; reco=keep
-- keywords: seed
-- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
-- brenton: [missing]
+- brenton: Mercy and truth are met together: righteousness and peace have kissed each other.
 
 ## Song of Solomon 1:4
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king; crossref_top_vote=8; reco=keep
-- keywords: king
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, righteousness; crossref_top_vote=8; reco=keep
+- keywords: king, righteousness
 - fresh: They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
-- brenton: [missing]
+- brenton: They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into his closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.
 
 ## Song of Solomon 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd, soul; crossref_top_vote=8; reco=keep
 - keywords: shepherd, soul
 - fresh: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
-- brenton: [missing]
+- brenton: Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one that is veiled by the flocks of thy companions.
 
-## Song of Solomon 1:8
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd; crossref_top_vote=6; reco=keep
-- keywords: shepherd
-- fresh: If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
-- brenton: [missing]
+## Song of Solomon 4:16
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, wind; crossref_top_vote=6; reco=keep
+- keywords: beloved, wind
+- fresh: Awake, north wind, and come, south wind. Blow through my garden, and let my spices flow. Let my beloved go down into his garden and eat the fruit of his choice fruits.
+- brenton: Awake, O north wind; and come, O south; and blow through my garden, and let my spices flow out.
 
 ## Song of Solomon 5:6
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, soul; crossref_top_vote=5; reco=keep
 - keywords: beloved, soul
 - fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
-- brenton: [missing]
+- brenton: I opened to my kinsman; my kinsman was gone: my soul failed at his speech: I sought him, but found him not; I called him, but he answered me not.
 
 ## Song of Solomon 6:2
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, shepherd; crossref_top_vote=7; reco=keep
 - keywords: beloved, shepherd
 - fresh: My beloved went down into his garden, into bowls of spice, to shepherd in gardens and gather lilies.
-- brenton: [missing]
+- brenton: My kinsman is gone down to his garden, to the beds of spice, to feed his flock in the gardens, and to gather lilies.
 
 ## Isaiah 9:6
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177; eng_reco=keep; reco=keep
 - keywords: judgment, lord, peace, righteousness
 - fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
-- brenton: [missing]
+- brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ## Isaiah 12:2
 - score: 23
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, salvation, savior; crossref_top_vote=54; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: glory, god, lord, salvation, savior
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- brenton: [missing]
+- brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Isaiah 44:2
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, god, lord, servant; crossref_top_vote=200; eng_reco=keep; reco=keep
 - keywords: beloved, god, lord, servant
 - fresh: Thus says Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
-- brenton: [missing]
+- brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
 
 ## Isaiah 54:10
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng_reco=keep; reco=keep
+- score: 25
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - keywords: being, covenant, lord, mercy, peace
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
-- brenton: [missing]
+- brenton: shall the mountains depart, nor shall thy hills be removed: so neither shall my mercy fail thee, nor shall the covenant of thy peace be at all removed: for the Lord who is gracious to thee has spoken it.
+
+## Isaiah 56:1
+- score: 23
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, mercy, righteousness, salvation; crossref_top_vote=17; reco=keep
+- keywords: judgment, justice, lord, mercy, righteousness, salvation
+- fresh: Thus says Lord: Keep judgment. Do righteousness, because my salvation draws near to come and my mercy to be revealed.
+- brenton: Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my mercy to be revealed.
 
 ## Isaiah 59:21
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=covenant, lord, seed, spirit; crossref_top_vote=320; eng_reco=keep; reco=keep
 - keywords: covenant, lord, seed, spirit
 - fresh: And this covenant from me with them, said Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said Lord, from now and forever.
-- brenton: [missing]
+- brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Jeremiah 23:5
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23; eng_reco=keep; reco=keep
 - keywords: judgment, king, lord, righteous, righteousness
 - fresh: Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: [missing]
+- brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
 
 ## Lamentations 2:6
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, priest; crossref_top_vote=5; reco=keep
 - keywords: king, lord, priest
 - fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
-- brenton: [missing]
+- brenton: Vau. And he has scattered his tabernacle as a vine, he has marred his feast: the Lord has forgotten the feast and the sabbath which he appointed in Sion, and in the fury of his wrath has vexed the king, and priest, and prince.
 
 ## Lamentations 2:9
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, law, lord; crossref_top_vote=7; reco=keep
 - keywords: king, law, lord
 - fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
-- brenton: [missing]
+- brenton: Teth. Her gates are sunk into the ground: he has destroyed and broken to pieces her bars, and her king and her prince among the Gentiles: there is no law, nay, her prophets have seen no vision from the Lord.
 
 ## Lamentations 3:26
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, salvation; crossref_top_vote=35; reco=keep
 - keywords: lord, salvation
 - fresh: And he waits and is quiet for salvation of Lord.
-- brenton: [missing]
-
-## Ezekiel 43:19
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- keywords: god, lord, seed, sin
-- fresh: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says Lord God, a young bull from the herd for sin.
-- brenton: [missing]
+- brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
 
 ## Daniel 3:28
 - score: 19
@@ -626,123 +605,116 @@ Books: 35
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, king, sacrifice; crossref_top_vote=6; reco=keep
 - keywords: altar, king, sacrifice
 - fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
-- brenton: [missing]
+- brenton: For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an altar, and without a priesthood, and without manifestations.
 
 ## Hosea 13:4
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=created, god, lord, savior; crossref_top_vote=13; reco=keep
 - keywords: created, god, lord, savior
 - fresh: But I am Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from land of Egypt, and besides me you will know no god, and there is no savior except me.
-- brenton: [missing]
+- brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
 
 ## Amos 2:7
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, name, servant; crossref_top_vote=5; reco=keep
 - keywords: god, name, servant
 - fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
-- brenton: [missing]
+- brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
 
 ## Amos 4:13
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord, name, wind; crossref_top_vote=16; eng_reco=keep; reco=keep
 - keywords: anointed, god, lord, name, wind
 - fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
-- brenton: [missing]
+- brenton: For, behold, I am he that strengthens the thunder, and creates the wind, and proclaims to men his Christ, forming the morning and the darkness, and mounting on the high places of the earth, The Lord God Almighty is his name.
 
 ## Obadiah 1:17
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, salvation; crossref_top_vote=15; reco=keep
 - keywords: holy, salvation
 - fresh: But on mount Zion there will be salvation, and it will be holy, and house of Jacob will inherit those who inherited them.
-- brenton: [missing]
+- brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
 
 ## Jonah 1:9
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, servant; crossref_top_vote=7; reco=keep
 - keywords: god, lord, servant
 - fresh: He said to them, I am servant of Lord, and I worship Lord God of heaven, who made sea and dry land.
-- brenton: [missing]
+- brenton: And he said to them, I am a servant of the Lord; and I worship the Lord God of heaven, who made the sea, and the dry land.
 
 ## Jonah 2:10
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sacrifice, salvation; crossref_top_vote=10; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: lord, sacrifice, salvation
 - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
-- brenton: [missing]
+- brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.
 
 ## Micah 5:3
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng_reco=keep; reco=keep
+- score: 25
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, name, shepherd; crossref_top_vote=11; eng=fresh:0/brenton:0/mt:1; eng_reco=keep; eng_flags=mt_leaning, unclear; reco=keep
 - keywords: glory, god, lord, name, shepherd
 - fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
-- brenton: [missing]
+- brenton: And the Lord shall stand, and see, and feed his flock with power, and they shall dwell in the glory of the name of the Lord their God: for now shall they be magnified to the ends of the earth.
 
 ## Micah 6:7
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=firstborn, lord, sin, soul; crossref_top_vote=7; reco=keep
 - keywords: firstborn, lord, sin, soul
 - fresh: Will Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, fruit of my womb for sin of my soul?
-- brenton: [missing]
+- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
 
 ## Micah 7:7
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, savior; crossref_top_vote=45; reco=keep
 - keywords: god, lord, savior
 - fresh: But I will look to Lord; I will wait for God my savior; my God will hear me.
-- brenton: [missing]
+- brenton: But I will look to the Lord; I will wait upon God my Saviour: my God will hearken to me.
 
 ## Habakkuk 3:18
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, savior; crossref_top_vote=33; reco=keep
 - keywords: god, lord, savior
 - fresh: But I will exult in Lord; I will rejoice in God my savior.
-- brenton: [missing]
+- brenton: yet I will exult in the Lord, I will joy in God my Saviour.
 
 ## Zephaniah 1:8
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, sacrifice; crossref_top_vote=6; reco=keep
 - keywords: king, lord, sacrifice
 - fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
-- brenton: [missing]
+- brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
 
 ## Haggai 1:1
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, priest; crossref_top_vote=6; reco=keep
 - keywords: king, lord, priest
 - fresh: In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Salathiel from tribe of Judah, and to Jeshua son of Josedek, the great priest, saying,
-- brenton: [missing]
+- brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ## Haggai 2:9
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, peace, soul; crossref_top_vote=18; eng_reco=keep; reco=keep
 - keywords: glory, lord, peace, soul
 - fresh: Latter glory of this house will be greater than first, says Lord Almighty, and in this place I will give peace, says Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
-- brenton: [missing]
+- brenton: For the glory of this house shall be great, the latter more than the former, saith the Lord Almighty: and in this place will I give peace, saith the Lord Almighty, even peace of soul for a possession to every one that builds, to raise up this temple.
 
 ## Zechariah 12:10
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
 - keywords: beloved, compassion, firstborn, grace, spirit
 - fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
-- brenton: [missing]
+- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
 
 ## Zechariah 14:5
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord; crossref_top_vote=9; reco=keep
 - keywords: god, holy, king, lord
 - fresh: And ravine of my mountains will be blocked up, and ravine of mountains will cling together as far as Iasol, and it will be blocked as it was blocked in days of earthquake in days of Uzziah king of Judah, and Lord my God will come and all holy ones with him.
-- brenton: [missing]
-
-## Zechariah 14:9
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, name; crossref_top_vote=28; reco=keep
-- keywords: king, lord, name
-- fresh: And Lord will be king over all earth; in that day Lord will be one, and his name one.
-- brenton: [missing]
+- brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ## Malachi 1:6
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, servant; crossref_top_vote=61; reco=keep
 - keywords: lord, name, servant
 - fresh: A son honors father and a servant his master. If I am father, where is my honor? And if I am Lord, where is my fear? says Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
-- brenton: [missing]
+- brenton: A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?

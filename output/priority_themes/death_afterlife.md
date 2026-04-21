@@ -17,4 +17,4 @@ Books: 2
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, hades, lord; crossref_top_vote=12; reco=keep
 - keywords: god, hades, lord
 - fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
-- brenton: [missing]
+- brenton: and said,
