@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 22412
-- medium: 102
-- low: 403
+- high: 22592
+- medium: 51
+- low: 274
 - none: 0
 
 Note:
@@ -201418,162 +201418,162 @@ Note:
 
 ### Micah 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I devise evils against this tribe, from which you will not remove your necks, and you will not walk upright suddenly, because time is evil.
 - brenton: [missing]
 
 ### Micah 2:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day a parable will be taken up against you and lamented in song, saying, Misery, we were made miserable. Portion of my people was measured with line, and there was no one to hinder him from turning it back; our fields were divided.
 - brenton: [missing]
 
 ### Micah 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore there will not be for you one casting line by lot in assembly of Lord.
 - brenton: [missing]
 
 ### Micah 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not weep with tears, and let them not weep over these things, because reproaches will not be put away.
 - brenton: [missing]
 
 ### Micah 2:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O house of Jacob, saying, Has spirit of Lord been provoked? Are these his practices? Are not his words good with him, and have they walked uprightly?
 - brenton: [missing]
 
 ### Micah 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But before, my people stood up as enemy against his peace; they stripped off his skin to remove shattered hope of war.
 - brenton: [missing]
 
 ### Micah 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore leaders of my people will be cast out from their houses of luxury; because of their evil practices they were driven out. Come near, everlasting mountains.
 - brenton: [missing]
 
 ### Micah 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise and go, because this is not your rest. Because of uncleanness you were ruined with destruction.
 - brenton: [missing]
 
 ### Micah 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You were pursued by no pursuer. Spirit set falsehood and dripped to you into wine and strong drink, and it will be from drop of this people.
 - brenton: [missing]
 
 ### Micah 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jacob will surely be gathered with all; I will surely receive remnant of Israel. I will set their turning together like sheep in distress, like flock in midst of their fold; they will spring out from humans.
 - brenton: [missing]
 
 ### Micah 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By the breach before their face they breached and passed through gate and went out by it, and their king went out before their face, and Lord will lead them.
 - brenton: [missing]
 
 ### Micah 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will say, Hear now these things, leaders of house of Jacob and remnant of house of Israel. Is it not for you to know judgment?
 - brenton: [missing]
 
 ### Micah 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hating good things and seeking evil things, snatching their skins from off them and their flesh from off their bones,
 - brenton: [missing]
 
 ### Micah 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: just as they ate flesh of my people and flayed their skin from off their bones and crushed their bones and cut them up like flesh for kettle and like meat for pot.
 - brenton: [missing]
 
 ### Micah 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus they will cry to Lord and he will not hear them, and he will turn his face away from them in that time, because they made evil their practices against them.
 - brenton: [missing]
 
 ### Micah 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord concerning prophets leading my people astray, biting with their teeth and proclaiming peace over him; if nothing was given into their mouth, they raised war against him.
 - brenton: [missing]
 
 ### Micah 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore night from vision will be for you, and darkness from divination will be for you, and sun will go down upon prophets and day will grow dark over them.
 - brenton: [missing]
 
 ### Micah 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seers of dreams will be put to shame and diviners laughed to scorn, and all will speak against them, because there will be no one hearing them.
 - brenton: [missing]
@@ -201589,45 +201589,45 @@ Note:
 
 ### Micah 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now these things, leaders of house of Jacob and remnant of house of Israel, hating judgment and twisting all straight things,
 - brenton: [missing]
 
 ### Micah 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: building Zion in bloods and Jerusalem in injustices.
 - brenton: [missing]
 
 ### Micah 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not Lord among us? Evils will certainly not come upon us.
 - brenton: [missing]
 
 ### Micah 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore because of you Zion will be plowed like field and Jerusalem will be as hut of field-watchman and mountain of house as grove of forest.
 - brenton: [missing]
 
 ### Micah 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in last days, mountain of Lord will be manifest, prepared on tops of mountains and lifted above hills, and peoples will hasten to it.
 - brenton: [missing]
@@ -201643,126 +201643,126 @@ Note:
 
 ### Micah 4:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will judge among many peoples and reprove strong nations as far as far land, and they will beat their swords into plows and their spears into sickles, and nation will no longer lift sword against nation, and they will no longer learn to make war.
 - brenton: [missing]
 
 ### Micah 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because mouth of Lord Almighty spoke these things.
 - brenton: [missing]
 
 ### Micah 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 - brenton: [missing]
 
 ### Micah 4:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, says Lord, I will gather the crushed one and receive the driven-out and those whom I rejected.
 - brenton: [missing]
 
 ### Micah 4:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make the crushed one a remnant and the driven-out a strong nation, and Lord will reign over them in mount Zion from now and forever.
 - brenton: [missing]
 
 ### Micah 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to daughter of Jerusalem.
 - brenton: [missing]
 
 ### Micah 4:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now why did you know evils? Was there no king for you, or has your counsel perished, because labor pains seized you like woman birthing?
 - brenton: [missing]
 
 ### Micah 4:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be in labor and act like man and draw near, daughter of Zion, like birthing woman, because now you will go out from city and camp in plain and reach to Babylon. There Lord your God will rescue you; there he will redeem you from hand of your enemies.
 - brenton: [missing]
 
 ### Micah 4:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now many nations were gathered against you, saying, We will rejoice, and our eyes will look upon Zion.
 - brenton: [missing]
 
 ### Micah 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But they did not know thought of Lord and did not understand his counsel, because he gathered them like sheaves of threshing floor.
 - brenton: [missing]
 
 ### Micah 4:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise and thresh them, daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to Lord and their strength to Lord of all earth.
 - brenton: [missing]
 
 ### Micah 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now daughter of Ephraim will be fenced in with fence. He set pressure upon us; with rod they will strike tribes of Israel on jaw.
 - brenton: [missing]
 
 ### Micah 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, Bethlehem, house of Ephratha, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from beginning, from days of age.
 - brenton: [missing]
 
 ### Micah 5:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore he will give them until time when birthing woman births, and rest of their brothers will return upon sons of Israel.
 - brenton: [missing]
@@ -201778,153 +201778,153 @@ Note:
 
 ### Micah 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this will be peace when Assyrian comes upon your land and steps upon your country. And seven shepherds and eight bites of men will be raised up against him.
 - brenton: [missing]
 
 ### Micah 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will shepherd Assyria with sword and land of Nimrod in its trench, and he will rescue from Assyria when he comes upon your land and steps upon your borders.
 - brenton: [missing]
 
 ### Micah 5:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remnant of Jacob among nations, in midst of many peoples, will be like dew from Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
 - brenton: [missing]
 
 ### Micah 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remnant of Jacob among nations and in midst of many peoples will be like lion among beasts of forest and like lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
 - brenton: [missing]
 
 ### Micah 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your hand will be lifted upon those distressing you, and all your enemies will be destroyed.
 - brenton: [missing]
 
 ### Micah 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says Lord, I will destroy your horses from your midst and destroy your chariots.
 - brenton: [missing]
 
 ### Micah 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy cities of your land and remove all your strongholds.
 - brenton: [missing]
 
 ### Micah 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will remove your sorceries from your hands, and there will be no omen-speakers in you.
 - brenton: [missing]
 
 ### Micah 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy your carved images and your pillars from your midst, and you will no longer worship works of your hands.
 - brenton: [missing]
 
 ### Micah 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cut down your groves from your midst and make your cities disappear.
 - brenton: [missing]
 
 ### Micah 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will do vengeance in anger and wrath among nations because they did not hear.
 - brenton: [missing]
 
 ### Micah 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now word of Lord. Lord said, Rise, plead with mountains, and let hills hear your voice.
 - brenton: [missing]
 
 ### Micah 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, mountains, judgment of Lord, and ravines, foundations of earth, because Lord has judgment with his people, and with Israel he will dispute.
 - brenton: [missing]
 
 ### Micah 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My people, what did I do to you? Or how did I grieve you? Or how did I trouble you? Answer me.
 - brenton: [missing]
 
 ### Micah 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I brought you up from land of Egypt and redeemed you from house of slavery and sent before your face Moses and Aaron and Miriam.
 - brenton: [missing]
 
 ### Micah 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My people, remember what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reed-ropes to Gilgal, so that righteousness of Lord may be known.
 - brenton: [missing]
 
 ### Micah 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In what shall I overtake Lord? Shall I lay hold of my God Most High? Shall I lay hold of him with burnt offerings, with year-old calves?
 - brenton: [missing]
@@ -201949,126 +201949,126 @@ Note:
 
 ### Micah 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of Lord will be called to city and will save those fearing his name. Hear, tribe, and who will adorn city?
 - brenton: [missing]
 
 ### Micah 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is there not fire and house of lawless one treasuring unlawful treasures and injustice with arrogance?
 - brenton: [missing]
 
 ### Micah 6:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shall lawless one be justified with balance and with bag of deceitful weights?
 - brenton: [missing]
 
 ### Micah 6:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From these they filled their wealth with impiety, and those inhabiting it spoke lies, and their tongue was exalted in their mouth.
 - brenton: [missing]
 
 ### Micah 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will begin to strike you; I will make you disappear for your sins.
 - brenton: [missing]
 
 ### Micah 6:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will eat and certainly not be filled, and darkness will be in you, and you will move aside and certainly not be saved, and whoever are saved will be given to sword.
 - brenton: [missing]
 
 ### Micah 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will sow and certainly not reap; you will press olives and certainly not anoint with oil, and wine and certainly not drink. Statutes of my people will disappear.
 - brenton: [missing]
 
 ### Micah 6:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you kept ordinances of Zambri and all works of house of Ahab and walked in their counsels, so that I may give you to destruction and those inhabiting it to hissing, and you will receive reproaches of peoples.
 - brenton: [missing]
 
 ### Micah 7:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alas for me, because I became like one gathering stubble in harvest and like gleaning in vintage, with no cluster to eat. Alas, my soul longed for first-ripe fruit.
 - brenton: [missing]
 
 ### Micah 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because reverent one perished from earth and upright one among humans does not exist. All judge for bloods; each oppresses his neighbor with oppression.
 - brenton: [missing]
 
 ### Micah 7:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For evil they prepare their hands. Ruler asks, and judge spoke peaceful words. Desire of his soul is there, and I will remove it.
 - brenton: [missing]
 
 ### Micah 7:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their best one is like moth devouring, and walking on measuring line. In day of your watch—woe, woe—your avengings came; now their weepings will be.
 - brenton: [missing]
 
 ### Micah 7:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not trust in friends and do not hope in rulers. From woman lying in your bosom guard yourself from entrusting anything to her.
 - brenton: [missing]
 
 ### Micah 7:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because son dishonors father, daughter will rise against her mother, bride against her mother-in-law; enemies of a man are all men in his house.
 - brenton: [missing]
@@ -202084,117 +202084,117 @@ Note:
 
 ### Micah 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not rejoice over me, my enemy, because I fell and will rise. Because if I sit in darkness, Lord will give light to me.
 - brenton: [missing]
 
 ### Micah 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bear wrath of Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
 - brenton: [missing]
 
 ### Micah 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my enemy will see and shame will clothe her, she saying to me, Where is Lord your God? My eyes will look upon her; now she will be for trampling like mud in roads.
 - brenton: [missing]
 
 ### Micah 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Day of smearing brick, your wiping away—that day, and your statutes will be rubbed away.
 - brenton: [missing]
 
 ### Micah 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: That day and your cities will come to leveling and to partition of Assyrians, and your fortified cities to partition from Tyre to river of Syria, a day of water and turmoil.
 - brenton: [missing]
 
 ### Micah 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And earth will be for destruction with those inhabiting it, because of fruits of their practices.
 - brenton: [missing]
 
 ### Micah 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in forest in midst of Carmel; they will pasture Basan and Gilead as days of age.
 - brenton: [missing]
 
 ### Micah 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to days of your departure from Egypt, you will see wonders.
 - brenton: [missing]
 
 ### Micah 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations will see and be ashamed from all their strength; they will put hands on mouth, and their ears will be deafened.
 - brenton: [missing]
 
 ### Micah 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will lick dust like snakes dragging earth; they will be confounded in their enclosure. At Lord our God they will be amazed and fear because of you.
 - brenton: [missing]
 
 ### Micah 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is God like you, removing injustices and passing over impiety for remnant of his inheritance? He did not hold back his anger for witness, because he delights in mercy.
 - brenton: [missing]
 
 ### Micah 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will turn and pity us; he will sink our injustices, and all our sins will be cast into depths of sea.
 - brenton: [missing]
 
 ### Micah 7:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will give truth to Jacob and mercy to Abraham, just as you swore to our fathers in former days.
 - brenton: [missing]
@@ -202203,9 +202203,9 @@ Note:
 
 ### Nahum 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Oracle of Nineveh. Book of vision of Nahum the Elkesaite.
 - brenton: [missing]
@@ -202230,27 +202230,27 @@ Note:
 
 ### Nahum 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Threatening sea and drying it up, and making all rivers desolate. Basanitis and Carmel grew scant, and blossoms of Lebanon failed.
 - brenton: [missing]
 
 ### Nahum 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains were shaken from before him, and hills were moved, and earth was pulled up from before him, the whole inhabited land and all dwelling in it.
 - brenton: [missing]
 
 ### Nahum 1:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From before his anger who will stand? And who will resist in anger of his wrath? His wrath melts rulers, and rocks were crushed from him.
 - brenton: [missing]
@@ -202266,9 +202266,9 @@ Note:
 
 ### Nahum 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With overflowing flood he will make an end of those rising up, and darkness will pursue his enemies.
 - brenton: [missing]
@@ -202284,36 +202284,36 @@ Note:
 
 ### Nahum 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because to their foundation they will be made desolate, and like tangled bindweed they will be devoured, like stubble full of dryness.
 - brenton: [missing]
 
 ### Nahum 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From you one thinking evil against Lord will come out, devising hostile things.
 - brenton: [missing]
 
 ### Nahum 1:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says the Lord, who rules over many waters: Even thus they will be sent away, and your report will no longer be heard.
 - brenton: [missing]
 
 ### Nahum 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now I will break his rod from upon you, and your bonds I will tear apart.
 - brenton: [missing]
@@ -202329,162 +202329,162 @@ Note:
 
 ### Nahum 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, on mountains feet of one bringing good news and announcing peace. Celebrate your feasts, Judah; pay your vows, because they will no longer continue to pass through you into decay. It has been completed; it has been removed.
 - brenton: [missing]
 
 ### Nahum 2:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, one breathing in your face, rescuing from distress. Watch road, strengthen waist, arm yourself with great strength.
 - brenton: [missing]
 
 ### Nahum 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord turned back arrogance of Jacob, like arrogance of Israel, because those shaking them out shook them out, and ruined their branches.
 - brenton: [missing]
 
 ### Nahum 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Weapons of their rule are from men, mighty men mocking in fire. Reins of their chariots are in day of his preparation, and horsemen will be thrown into confusion.
 - brenton: [missing]
 
 ### Nahum 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In roads chariots will be thrown together and entangled in open places. Their appearance is like fiery torches and running like lightning.
 - brenton: [missing]
 
 ### Nahum 2:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their nobles will remember and flee by day and grow weak in their march, and they will hurry to walls and prepare their watch-posts.
 - brenton: [missing]
 
 ### Nahum 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gates of rivers were opened, and palace fell.
 - brenton: [missing]
 
 ### Nahum 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Foundation was laid bare, and she herself went up, and her slave-girls were led away like doves cooing in their hearts.
 - brenton: [missing]
 
 ### Nahum 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nineveh was like a pool of water, her waters, yet they flee and did not stop, and there was no one looking back.
 - brenton: [missing]
 
 ### Nahum 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They kept plundering silver, plundering gold, and there was no end to her adornment. They were weighed down with all her desirable vessels.
 - brenton: [missing]
 
 ### Nahum 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shaking-out and overturning and boiling-over, breaking of hearts and loosening of knees, pains upon every waist, and faces of all like scorching of a pot.
 - brenton: [missing]
 
 ### Nahum 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where is dwelling of lions and pasture-place for cubs, where lion went to enter there, lion's cub, and no one frightening?
 - brenton: [missing]
 
 ### Nahum 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lion snatched enough for his cubs and strangled for his lionesses and filled his lairs with prey and his dwelling with spoil.
 - brenton: [missing]
 
 ### Nahum 2:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against you, says Lord Almighty, and I will burn your multitude in smoke, and sword will devour your lions, and I will destroy your prey from earth, and your works will no longer be heard.
 - brenton: [missing]
 
 ### Nahum 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, city of bloods, wholly false, full of injustice. Prey will not cease.
 - brenton: [missing]
 
 ### Nahum 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sound of whips and sound of rattling wheels and pursuing horse and jolting chariot,
 - brenton: [missing]
 
 ### Nahum 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and charging horseman and gleaming sword and flashing weapons and multitude of wounded and heavy fall. There was no end to her nations, and they will grow weak in their bodies.
 - brenton: [missing]
 
 ### Nahum 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of multitude of prostitutions of prostitute, beautiful and pleasing, leading sorceries, selling nations by her prostitution and tribes by her sorceries.
 - brenton: [missing]
@@ -202500,126 +202500,126 @@ Note:
 
 ### Nahum 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will throw abomination on you according to your uncleanness and make you an example.
 - brenton: [missing]
 
 ### Nahum 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And everyone seeing you will spring away from you and say, Wretched Nineveh, who will groan for her? From where will I seek comfort for her?
 - brenton: [missing]
 
 ### Nahum 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prepare your portion, fit the cord, prepare a portion for Ammon who dwells among rivers, with water around her, whose beginning was sea and water her walls.
 - brenton: [missing]
 
 ### Nahum 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ethiopia was her strength, and Egypt, and there was no limit to her flight, and Libyans became her helpers.
 - brenton: [missing]
 
 ### Nahum 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Yet she will go into exile, captive, and her infants they will dash upon heads of all her roads, and over all her honored ones they will cast lots, and all her great men will be bound in fetters.
 - brenton: [missing]
 
 ### Nahum 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You also will be drunk and overlooked, and you also will seek for yourself a stand against enemies.
 - brenton: [missing]
 
 ### Nahum 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All your fortresses are fig trees with watchers; if they are shaken, they fall into mouth of eater.
 - brenton: [missing]
 
 ### Nahum 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, your people are as women in you. To your enemies gates of your land will be opened wide; fire will devour your bars.
 - brenton: [missing]
 
 ### Nahum 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Draw water for siege for yourself and seize your fortresses. Step into clay and be trampled in chaff; strengthen brickwork.
 - brenton: [missing]
 
 ### Nahum 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There fire will devour you; sword will destroy you; it will devour you like locust. Become numerous like grasshopper.
 - brenton: [missing]
 
 ### Nahum 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You multiplied your trading more than stars of heaven. Grasshopper rushed on and flew away.
 - brenton: [missing]
 
 ### Nahum 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your mixed multitude leaped like locust, like grasshopper settled on a fence in days of frost. Sun rose and it flew away, and it did not know its place. Woe to them.
 - brenton: [missing]
 
 ### Nahum 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your shepherds slumbered, Assyrian king; your mighty men went to sleep. Your people departed on mountains, and there was no one gathering them.
 - brenton: [missing]
 
 ### Nahum 3:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is no healing for your crushing; your wound blazed up. All hearing your report will clap hands over you, because upon whom has your evil not come continually?
 - brenton: [missing]
@@ -202628,9 +202628,9 @@ Note:
 
 ### Habakkuk 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Oracle that Habakkuk prophet saw.
 - brenton: [missing]
@@ -202646,81 +202646,81 @@ Note:
 
 ### Habakkuk 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and judge receives.
 - brenton: [missing]
 
 ### Habakkuk 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 - brenton: [missing]
 
 ### Habakkuk 1:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, despisers, and watch and marvel wondrously and disappear, because I work a work in your days that you will certainly not believe if one tells it.
 - brenton: [missing]
 
 ### Habakkuk 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I raise up against you Chaldeans, the fighting nation, bitter and swift, going over breadths of earth to inherit tents not theirs.
 - brenton: [missing]
 
 ### Habakkuk 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It is fearsome and prominent; its judgment will come from itself, and its burden will go out from itself.
 - brenton: [missing]
 
 ### Habakkuk 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its horses will leap faster than leopards and keener than wolves of Arabia, and its horsemen will ride out and rush from far away and fly like eagle eager to eat.
 - brenton: [missing]
 
 ### Habakkuk 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: An end will come for impious ones, opposing their faces from before, and it will gather captivity like sand.
 - brenton: [missing]
 
 ### Habakkuk 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will make sport of kings, and tyrants are its plaything, and it will mock every fortress and cast up earth and seize it.
 - brenton: [missing]
 
 ### Habakkuk 1:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then spirit will change and pass through and make atonement. This strength belongs to my God.
 - brenton: [missing]
@@ -202736,72 +202736,72 @@ Note:
 
 ### Habakkuk 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your eye is clean from seeing evils, and you cannot look on hardships. Why do you look on those despising and keep silent when impious one swallows righteous?
 - brenton: [missing]
 
 ### Habakkuk 1:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will make humans like fish of sea and like creeping things that have no leader.
 - brenton: [missing]
 
 ### Habakkuk 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He drew up an end with hook and dragged him in his net and gathered him in his seines. Because of this his heart will be glad and rejoice.
 - brenton: [missing]
 
 ### Habakkuk 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this he will sacrifice to his seine and burn incense to his net, because in them his portion was fattened and his foods are choice.
 - brenton: [missing]
 
 ### Habakkuk 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this he will cast his net, and continually to kill nations he will not spare.
 - brenton: [missing]
 
 ### Habakkuk 2:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will stand on my guard-post and step upon rock and watch to see what he will speak in me and what I will answer concerning my reproof.
 - brenton: [missing]
 
 ### Habakkuk 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord answered me and said, Write vision and make it clear on tablet, so that reader may run with it.
 - brenton: [missing]
 
 ### Habakkuk 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because vision is still for time, and it will rise to end and not for emptiness. If it delays, wait for it, because coming it will come and certainly not tarry.
 - brenton: [missing]
@@ -202817,81 +202817,81 @@ Note:
 
 ### Habakkuk 2:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But wine-drinker and contemptuous man, boaster, will certainly accomplish nothing. He widened his soul like Hades, and like death he is not filled, and he will gather to himself all nations and receive to himself all peoples.
 - brenton: [missing]
 
 ### Habakkuk 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will not all these take up proverb against him and riddle for his tale and say, Woe to one multiplying what is not his, how long? and making his yoke heavy with thickness.
 - brenton: [missing]
 
 ### Habakkuk 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because suddenly those biting him will rise, and your plotters will awake, and you will be plunder to them.
 - brenton: [missing]
 
 ### Habakkuk 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you plundered many nations, all remaining peoples will plunder you, because of blood of humans and impiety of land and city and all dwelling in it.
 - brenton: [missing]
 
 ### Habakkuk 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to one grasping evil grasping for his house, to set his nest on high, to be torn away from hand of evils.
 - brenton: [missing]
 
 ### Habakkuk 2:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You planned shame for your house; you finished many peoples, and your soul sinned.
 - brenton: [missing]
 
 ### Habakkuk 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because stone from wall will cry out, and beam from timber will speak these things.
 - brenton: [missing]
 
 ### Habakkuk 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to one building city in bloods and preparing city in injustices.
 - brenton: [missing]
 
 ### Habakkuk 2:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Are not these things from Lord Almighty? Strong peoples failed in fire, and many nations grew fainthearted.
 - brenton: [missing]
@@ -202907,63 +202907,63 @@ Note:
 
 ### Habakkuk 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to one giving drink to his neighbor, a muddy overthrow, and making him drunk so as to look on their caves.
 - brenton: [missing]
 
 ### Habakkuk 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You were filled with dishonor instead of glory. Drink, you too, and be shaken. Cup of Lord's right hand has gone around to you, and dishonor gathered upon your glory.
 - brenton: [missing]
 
 ### Habakkuk 2:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because impiety of Lebanon will cover you, and misery of beasts will terrify you, because of blood of humans and impiety of land and city and all dwelling in it.
 - brenton: [missing]
 
 ### Habakkuk 2:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What profit is carved image, because they carved it? They made cast image, false imagination, because maker trusted in his creation to make dumb idols.
 - brenton: [missing]
 
 ### Habakkuk 2:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to one saying to wood, Awake, rise up, and to stone, Be lifted. And this is imagination. It is plated with gold and silver, and no spirit is in it.
 - brenton: [missing]
 
 ### Habakkuk 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Lord is in his holy temple; let all earth fear before him.
 - brenton: [missing]
 
 ### Habakkuk 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer of Habakkuk prophet, with song.
 - brenton: [missing]
@@ -202979,135 +202979,135 @@ Note:
 
 ### Habakkuk 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God will come from Teman, and Holy One from overshadowing wooded mountain. Pause. His excellence covered heavens, and earth was full of his praise.
 - brenton: [missing]
 
 ### Habakkuk 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his brightness will be like light; horns in his hands, and there he set strong love of his might.
 - brenton: [missing]
 
 ### Habakkuk 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before his face word will go, and his feet will go out in sandals.
 - brenton: [missing]
 
 ### Habakkuk 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He stood and earth was shaken; he looked and nations melted. Mountains were shattered by force; everlasting hills melted.
 - brenton: [missing]
 
 ### Habakkuk 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw tents of Ethiopians instead of hardships; tents of land of Midian will be terrified.
 - brenton: [missing]
 
 ### Habakkuk 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Were you angry at rivers, Lord? Or is your wrath in rivers? Or your charge in sea? Because you ride on your horses, and your riding is salvation.
 - brenton: [missing]
 
 ### Habakkuk 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Stretching you will stretch your bow upon scepters, says Lord. Pause. Earth will be split by rivers.
 - brenton: [missing]
 
 ### Habakkuk 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Peoples will see you and writhe; scattering waters in his march, abyss gave its voice, height of its form.
 - brenton: [missing]
 
 ### Habakkuk 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun was lifted up, moon stood in its order. To light your missiles will go, to brightness of lightning of your weapons.
 - brenton: [missing]
 
 ### Habakkuk 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In threat you will diminish earth, and in wrath break down nations.
 - brenton: [missing]
 
 ### Habakkuk 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You went out for salvation of your people, to save your anointed ones. You cast death upon heads of lawless ones and raised bonds to neck. Pause.
 - brenton: [missing]
 
 ### Habakkuk 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating poor one secretly.
 - brenton: [missing]
 
 ### Habakkuk 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you mounted your horses into sea, troubling much water.
 - brenton: [missing]
 
 ### Habakkuk 3:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I kept watch and my belly was terrified at sound of prayer of my lips, and trembling entered my bones, and under me my habit was disturbed. I will rest in day of distress, to go up among people of my sojourning.
 - brenton: [missing]
 
 ### Habakkuk 3:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because fig tree will not bear fruit and produce will not be in vines; work of olive will fail and fields will make no food; sheep failed from fodder and there are no oxen at mangers.
 - brenton: [missing]
@@ -203123,9 +203123,9 @@ Note:
 
 ### Habakkuk 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God is my strength, and he will set my feet to completion. Upon heights set me, to conquer in his song.
 - brenton: [missing]
@@ -203134,54 +203134,54 @@ Note:
 
 ### Zephaniah 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord that came to Zephaniah son of Cushi, son of Godolias, son of Amarias, son of Hezekias, in days of Josiah son of Amon king of Judah.
 - brenton: [missing]
 
 ### Zephaniah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all things utterly fail from face of earth, says Lord.
 - brenton: [missing]
 
 ### Zephaniah 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says Lord.
 - brenton: [missing]
 
 ### Zephaniah 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will stretch out my hand upon Judah and upon all inhabiting Jerusalem, and I will remove from this place names of Baal and names of the priests,
 - brenton: [missing]
 
 ### Zephaniah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and those worshiping on housetops army of heaven and those swearing by Lord and those swearing by their king,
 - brenton: [missing]
 
 ### Zephaniah 1:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and those turning aside from Lord and those not seeking Lord and not clinging to Lord.
 - brenton: [missing]
@@ -203206,18 +203206,18 @@ Note:
 
 ### Zephaniah 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will avenge openly upon the porches in that day, those filling house of Lord their God with impiety and deceit.
 - brenton: [missing]
 
 ### Zephaniah 1:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says Lord, sound of cry from gate of attackers and wailing from the Second Quarter and great crushing from hills.
 - brenton: [missing]
