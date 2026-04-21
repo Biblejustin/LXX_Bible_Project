@@ -11,10 +11,10 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12392
-- medium: 2286
-- low: 8084
-- none: 155
+- high: 12452
+- medium: 2282
+- low: 8074
+- none: 109
 
 Note:
 - Whole-OT compare pipeline ready.
@@ -1014,9 +1014,9 @@ Note:
 
 ### Genesis 5:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And all the days of Adam, which he lived, were nine hundred and thirty years, and he died.
 - brenton: And all the days of Adam which he lived were nine hundred and thirty years, and he died.
@@ -1041,9 +1041,9 @@ Note:
 
 ### Genesis 5:8
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And all the days of Seth were nine hundred and twelve years, and he died.
 - brenton: And all the days of Seth were nine hundred and twelve years, and he died.
@@ -1068,9 +1068,9 @@ Note:
 
 ### Genesis 5:11
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And all the days of Enos were nine hundred and five years, and he died.
 - brenton: And all the days of Enos were nine hundred and five years, and he died.
@@ -1095,9 +1095,9 @@ Note:
 
 ### Genesis 5:14
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And all the days of Cainan were nine hundred and ten years, and he died.
 - brenton: And all the days of Cainan were nine hundred and ten years, and he died.
@@ -1248,9 +1248,9 @@ Note:
 
 ### Genesis 5:31
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And all the days of Lamech were seven hundred and fifty-three years, and he died.
 - brenton: And all the days of Lamech were seven hundred and fifty-three years, and he died.
@@ -3201,9 +3201,9 @@ Note:
 
 ### Genesis 14:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the king of Sodom went out to meet him after he returned from the slaughter of Chodollogomor and the kings with him, to the valley of Saby. This was the plain of the kings.
 - brenton: And the king of Sodom went out to meet him, after he returned from the slaughter of Chodollogomor, and the kings with him, to the valley of Saby; this was the plain of the kings.
@@ -3435,9 +3435,9 @@ Note:
 
 ### Genesis 15:19
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: the Kenites and the Kenezites and the Kedmoneans,
 - brenton: The Kenites, and the Kenezites, and the Kedmoneans,
@@ -3624,9 +3624,9 @@ Note:
 
 ### Genesis 17:3
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Abram fell upon his face, and God spoke to him, saying,
 - brenton: And Abram fell upon his face, and God spoke to him, saying,
@@ -4191,9 +4191,9 @@ Note:
 
 ### Genesis 19:6
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Lot went out to them to the porch, and he shut the door after him.
 - brenton: And Lot went out to them to the porch, and he shut the door after him,
@@ -4371,9 +4371,9 @@ Note:
 
 ### Genesis 19:26
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And his wife looked back, and she became a pillar of salt.
 - brenton: And his wife looked back, and she became a pillar of salt.
@@ -4425,9 +4425,9 @@ Note:
 
 ### Genesis 19:32
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: Come and let us make our father drink wine, and let us sleep with him, and let us raise up seed from our father.
 - brenton: Come and let us make our father drink wine, and let us sleep with him, and let us raise up seed from our father.
@@ -4461,9 +4461,9 @@ Note:
 
 ### Genesis 19:36
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the two daughters of Lot conceived by their father.
 - brenton: And the two daughters of Lot conceived by their father.
@@ -6306,9 +6306,9 @@ Note:
 
 ### Genesis 26:6
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Isaac dwelt in Gerara.
 - brenton: And Isaac dwelt in Gerara.
@@ -6522,9 +6522,9 @@ Note:
 
 ### Genesis 26:30
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And he made a feast for them, and they ate and drank.
 - brenton: And he made a feast for them, and they ate and drank.
@@ -8655,9 +8655,9 @@ Note:
 
 ### Genesis 32:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this the sons of Israel shall never eat the sinew that went numb, which is on the broad part of the thigh, until this day, because he touched the broad part of Jacob's thigh, the sinew and it went numb.
 - brenton: Therefore the children of Israel will by no means eat of the sinew which was benumbed, which is on the broad part of the thigh, until this day, because the angel touched the broad part of the thigh of Jacob—even the sinew which was benumbed.
@@ -9015,9 +9015,9 @@ Note:
 
 ### Genesis 34:20
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Emmor and Sychem his son came to the gate of their city and spoke to the men of their city, saying,
 - brenton: And Emmor and Sychem his son came to the gate of their city, and spoke to the men of their city, saying,
@@ -9231,9 +9231,9 @@ Note:
 
 ### Genesis 35:13
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And God went up from him from the place where he spoke with him.
 - brenton: And God went up from him from the place where he spoke with him.
@@ -9438,9 +9438,9 @@ Note:
 
 ### Genesis 36:8
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Esau dwelt in Mount Seir (Esau, he is Edom).
 - brenton: And Esau dwelt in mount Seir; Esau, he is Edom.
@@ -9618,18 +9618,18 @@ Note:
 
 ### Genesis 36:28
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And these are the sons of Rison: Hos and Aran.
 - brenton: And these are the sons of Rison; Hos, and Aran.
 
 ### Genesis 36:29
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And these are the chiefs of Chorri: chief Lotan, chief Sobal, chief Sebegon, chief Ana,
 - brenton: And these are the chiefs of Chorri; chief Lotan, chief Sobal, chief Sebegon, chief Ana,
@@ -9654,9 +9654,9 @@ Note:
 
 ### Genesis 36:32
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Balac son of Beor reigned in Edom, and the name of his city was Dennaba.
 - brenton: And Balac, son of Beor, reigned in Edom; and the name of his city was Dennaba.
@@ -9735,9 +9735,9 @@ Note:
 
 ### Genesis 36:41
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: chief Olibema, chief Helas, chief Phinon,
 - brenton: chief Olibema, chief Helas, chief Phinon,
@@ -11625,9 +11625,9 @@ Note:
 
 ### Genesis 43:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: But the famine prevailed in the land.
 - brenton: But the famine prevailed in the land.
@@ -12147,9 +12147,9 @@ Note:
 
 ### Genesis 44:25
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And our father said, Go again and buy us a little food.
 - brenton: And our father said, Go again, and buy us a little food.
@@ -12687,9 +12687,9 @@ Note:
 
 ### Genesis 46:23
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the sons of Dan: Asom.
 - brenton: And the sons of Dan; Asom.
@@ -13578,9 +13578,9 @@ Note:
 
 ### Genesis 50:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Joseph commanded his servants the embalmers to embalm his father, and the embalmers embalmed Israel.
 - brenton: And Joseph commanded his servants the embalmers to embalm his father; and the embalmers embalmed Israel.
@@ -13976,9 +13976,9 @@ Note:
 
 ### Exodus 1:20
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And God did well to the midwives, and the people multiplied and grew very strong.
 - brenton: And God did well to the midwives, and the people multiplied, and grew very strong.
@@ -14921,9 +14921,9 @@ Note:
 
 ### Exodus 6:2
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And God spoke to Moses and said to him, 'I am the Lord.'
 - brenton: And God spoke to Moses and said to him, I am the Lord.
@@ -15407,36 +15407,36 @@ Note:
 
 ### Exodus 7:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to Moses, Go in to Pharaoh and say to him, These things says the Lord: Send out my people so that they may serve me.
 - brenton: And the Lord said to Moses, Go in to Pharao, and thou shalt say to him, These things says the Lord: send forth my people, that they may serve me.
 
 ### Exodus 7:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you do not want to send them out, look, I strike all your borders with frogs.
 - brenton: And if thou wilt not send them forth, behold, I afflict all thy borders with frogs:
 
 ### Exodus 7:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the river will teem with frogs, and they will come up and enter into your houses and into the inner rooms of your bedchambers and upon your beds and into the houses of your servants and your people and into your dough and your ovens.
 - brenton: and the river shall teem with frogs, and they shall go up and enter into thy houses, and into thy bed-chambers, and upon thy beds, and upon the houses of thy servants, and of thy people, and on thy dough, and on thine ovens.
 
 ### Exodus 7:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon you and upon your servants and upon your people the frogs will come up.
 - brenton: And upon thee, and upon thy servants, and upon thy people, shall the frogs come up.
@@ -17018,9 +17018,9 @@ Note:
 
 ### Exodus 14:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -17630,9 +17630,9 @@ Note:
 
 ### Exodus 16:11
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -18476,9 +18476,9 @@ Note:
 
 ### Exodus 20:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke all these words, saying,
 - brenton: And the Lord spoke all these words, saying:
@@ -18917,9 +18917,9 @@ Note:
 
 ### Exodus 21:24
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: eye for eye, tooth for tooth, hand for hand, foot for foot,
 - brenton: eye for eye, tooth for tooth, hand for hand, foot for foot,
@@ -19034,9 +19034,9 @@ Note:
 
 ### Exodus 21:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If someone steals an ox or a sheep and slaughters it or sells it, he shall repay five oxen for the ox and four sheep for the sheep.
 - brenton: And if one steal an ox or a sheep, and kill it or sell it, he shall pay five calves for a calf, and four sheep for a sheep.
@@ -19655,9 +19655,9 @@ Note:
 
 ### Exodus 24:6
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And Moses took half the blood and poured it into bowls, and half the blood he poured out upon the altar.
 - brenton: And Moses took half the blood and poured it into bowls, and half the blood he poured out upon the altar.
@@ -19772,9 +19772,9 @@ Note:
 
 ### Exodus 25:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -19808,9 +19808,9 @@ Note:
 
 ### Exodus 25:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: and rams' skins dyed red and blue skins and incorruptible wood,
 - brenton: and rams' skins dyed red, and blue skins, and incorruptible wood,
@@ -20681,9 +20681,9 @@ Note:
 
 ### Exodus 28:5
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And they shall take the gold and the blue and the purple and the scarlet and the fine linen.
 - brenton: And they shall take the gold, and the blue, and the purple, and the scarlet, and the fine linen.
@@ -20699,9 +20699,9 @@ Note:
 
 ### Exodus 28:7
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: It shall have two shoulder-pieces joined together, fastened on the two sides.
 - brenton: It shall have two shoulder-pieces joined together, fastened on the two sides.
@@ -21482,9 +21482,9 @@ Note:
 
 ### Exodus 30:11
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -21536,9 +21536,9 @@ Note:
 
 ### Exodus 30:17
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -21581,9 +21581,9 @@ Note:
 
 ### Exodus 30:22
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -21734,9 +21734,9 @@ Note:
 
 ### Exodus 31:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -21833,9 +21833,9 @@ Note:
 
 ### Exodus 31:12
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -22697,9 +22697,9 @@ Note:
 
 ### Exodus 34:33
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And when he ceased speaking to them, he put a veil on his face.
 - brenton: And when he ceased speaking to them, he put a veil on his face.
@@ -22958,9 +22958,9 @@ Note:
 
 ### Exodus 35:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: and has filled him with a divine spirit of wisdom and understanding and knowledge of all things,
 - brenton: and has filled him with a divine spirit of wisdom and understanding, and knowledge of all things,
@@ -23597,9 +23597,9 @@ Note:
 
 ### Exodus 38:8
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: overshadowing the propitiatory with their wings.
 - brenton: overshadowing the propitiatory with their wings.
@@ -23984,9 +23984,9 @@ Note:
 
 ### Exodus 40:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -24724,9 +24724,9 @@ Note:
 
 ### Leviticus 4:1
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25156,9 +25156,9 @@ Note:
 
 ### Leviticus 5:14
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
@@ -25210,63 +25210,63 @@ Note:
 
 ### Leviticus 5:20
 
-- importance: none
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: yes
 - fresh: And the Lord spoke to Moses, saying,
 - brenton: And the Lord spoke to Moses, saying,
 
 ### Leviticus 5:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If a person sins and deliberately overlooks the commands of the Lord and lies about matters concerning his neighbor, in a deposit or in a partnership or in a robbery, or has wronged his neighbor in something,
 - brenton: The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,
 
 ### Leviticus 5:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: or has found something lost and lies about it and swears unjustly concerning any one of all the things that a person may do so as to sin in them,
 - brenton: or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;
 
 ### Leviticus 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then it shall be, whenever he sins and becomes guilty, that he shall restore the plunder that he seized, or the wrong that he committed, or the deposit entrusted to him, or the lost thing that he found,
 - brenton: it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found
 
 ### Leviticus 5:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from any matter about which he swore unjustly, he shall repay its principal and add a fifth to it. He shall give it to the one to whom it belongs on the day he is convicted.
 - brenton: of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted.
 
 ### Leviticus 5:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for his trespass he shall bring to the Lord a ram from the sheep, without blemish, valued for the matter in which he trespassed.
 - brenton: And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed.
 
 ### Leviticus 5:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the priest shall make atonement for him before the Lord, and it shall be forgiven him for any one of all the things that he did and trespassed in.
 - brenton: And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it.
