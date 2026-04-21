@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 22772
-- medium: 27
-- low: 118
+- high: 22917
+- medium: 0
+- low: 0
 - none: 0
 
 Note:
@@ -204965,576 +204965,576 @@ Note:
 
 ### Zechariah 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so I have turned and purposed in these days to do good to Jerusalem and house of Judah. Take courage.
 - brenton: [missing]
 
 ### Zechariah 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These are things you must do: Speak truth, each to his neighbor; judge truth and judgment of peace in your gates.
 - brenton: [missing]
 
 ### Zechariah 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And let none remember evil of his neighbor in your hearts, and do not love false oath, because all these I hated, says Lord Almighty.
 - brenton: [missing]
 
 ### Zechariah 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord Almighty came to me, saying,
 - brenton: [missing]
 
 ### Zechariah 8:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Fast of fourth and fast of fifth and fast of seventh and fast of tenth will be to house of Judah for joy and gladness and good feasts; and love truth and peace.
 - brenton: [missing]
 
 ### Zechariah 8:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Peoples will still come, and inhabitants of many cities.
 - brenton: [missing]
 
 ### Zechariah 8:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And inhabitants of five cities will come together to one city, saying, Let us go to make supplication before Lord and seek face of Lord Almighty; I too will go.
 - brenton: [missing]
 
 ### Zechariah 8:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And many peoples and many nations will come to seek face of Lord Almighty in Jerusalem and to make supplication before Lord.
 - brenton: [missing]
 
 ### Zechariah 8:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: In those days ten men from every language of nations will seize hem of a Jewish man, saying, We will go with you, because we heard that God is with you.
 - brenton: [missing]
 
 ### Zechariah 9:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Oracle of word of Lord in land of Sedrach and Damascus his sacrifice, because Lord looks upon humans and all tribes of Israel,
 - brenton: [missing]
 
 ### Zechariah 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Emath at its borders, Tyre and Sidon, because they were very wise.
 - brenton: [missing]
 
 ### Zechariah 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Tyre built strongholds for herself and stored silver like dust and gathered gold like mud of roads.
 - brenton: [missing]
 
 ### Zechariah 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore Lord will inherit her and strike her strength into sea, and she will be consumed in fire.
 - brenton: [missing]
 
 ### Zechariah 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ascalon will see and fear, and Gaza will suffer greatly, and Accaron, because she was shamed by her downfall, and king will perish from Gaza, and Ascalon will certainly not be inhabited.
 - brenton: [missing]
 
 ### Zechariah 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And foreigners will dwell in Azotus, and I will pull down arrogance of foreigners.
 - brenton: [missing]
 
 ### Zechariah 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will remove their blood from their mouth and their abominations from between their teeth, and he will be left also for our God, and they will be like chiliarch in Judah, and Accaron like Jebusite.
 - brenton: [missing]
 
 ### Zechariah 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will stand by my house as guard, that no one may pass through or return, and oppressor will certainly not come upon them again, because now I have seen with my eyes.
 - brenton: [missing]
 
 ### Zechariah 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon beast of burden, a young foal.
 - brenton: [missing]
 
 ### Zechariah 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to ends of earth.
 - brenton: [missing]
 
 ### Zechariah 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, by blood of your covenant, sent out your prisoners from pit having no water.
 - brenton: [missing]
 
 ### Zechariah 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You prisoners of congregation will sit in stronghold, and in place of one day of your sojourning I will repay you double.
 - brenton: [missing]
 
 ### Zechariah 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I bent Judah for myself as bow, I filled Ephraim, and I will stir up your children, Zion, against children of Greeks, and handle you like sword of warrior.
 - brenton: [missing]
 
 ### Zechariah 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will be over them, and his missile will go out like lightning, and Lord Almighty will blow trumpet and go in storm of his threat.
 - brenton: [missing]
 
 ### Zechariah 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord Almighty will shield them, and they will consume them and overwhelm them with sling-stones, and they will drink them like wine and be filled like bowls of altar.
 - brenton: [missing]
 
 ### Zechariah 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will save them in that day as sheep, his people, because holy stones roll upon his land.
 - brenton: [missing]
 
 ### Zechariah 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if anything good is his and anything beautiful from him, grain for young men and fragrant wine for virgins.
 - brenton: [missing]
 
 ### Zechariah 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ask rain from Lord in season, early and late. Lord made apparitions and will give winter rain to them, to each growth in field.
 - brenton: [missing]
 
 ### Zechariah 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because omen-speakers spoke troubles, and diviners false visions, and dreams spoke false things, giving vain comfort. Therefore they were taken away like sheep and afflicted, because there was no healing.
 - brenton: [missing]
 
 ### Zechariah 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Against shepherds my anger was provoked, and upon lambs I will visit, and Lord God Almighty will visit his flock, house of Judah, and set them like his splendid war horse.
 - brenton: [missing]
 
 ### Zechariah 10:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From him he looked out, and from him he arranged, and from him bow in wrath; from him every driver will go out together.
 - brenton: [missing]
 
 ### Zechariah 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be like warriors trampling mud in roads in battle, and they will line up, because Lord is with them, and riders of horses will be put to shame.
 - brenton: [missing]
 
 ### Zechariah 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will strengthen house of Judah, and house of Joseph I will save and settle them, because I loved them, and they will be as though I had not rejected them, because I am Lord their God and I will hear them.
 - brenton: [missing]
 
 ### Zechariah 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be like warrior of Ephraim, and their heart will rejoice as in wine, and their children will see and be glad, and their heart will rejoice in Lord.
 - brenton: [missing]
 
 ### Zechariah 10:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will signal to them and receive them, because I will redeem them, and they will be multiplied just as they were many.
 - brenton: [missing]
 
 ### Zechariah 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will sow them among peoples, and those far away will remember me; they will rear their children and return.
 - brenton: [missing]
 
 ### Zechariah 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will return them from land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one from them will be left behind.
 - brenton: [missing]
 
 ### Zechariah 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will pass through narrow sea and strike waves in sea, and all depths of rivers will dry up, and all arrogance of Assyrians will be removed, and scepter of Egypt taken away.
 - brenton: [missing]
 
 ### Zechariah 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will strengthen them in Lord their God, and in his name they will boast, says Lord.
 - brenton: [missing]
 
 ### Zechariah 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Open your doors, Lebanon, and let fire devour your cedars.
 - brenton: [missing]
 
 ### Zechariah 11:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let pine howl, because cedar has fallen, because nobles suffered greatly. Howl, oaks of Basan, because dense forest was torn down.
 - brenton: [missing]
 
 ### Zechariah 11:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sound of shepherds mourning, because their greatness has suffered; sound of lions roaring, because Jordan's swelling has suffered.
 - brenton: [missing]
 
 ### Zechariah 11:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Shepherd sheep of slaughter,
 - brenton: [missing]
 
 ### Zechariah 11:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be Lord, and we have grown rich, and their shepherds suffered nothing over them.
 - brenton: [missing]
 
 ### Zechariah 11:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I will no longer spare inhabitants of earth, says Lord, and behold, I hand over humans, each into hand of his neighbor and into hand of his king, and they will cut down earth, and I will certainly not rescue from their hand.
 - brenton: [missing]
 
 ### Zechariah 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will shepherd sheep of slaughter for Canaanitis, and I took for myself two staffs, one I named Beauty, the other I named Measure-line, and I shepherded sheep.
 - brenton: [missing]
 
 ### Zechariah 11:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I removed the three shepherds in one month, and my soul grew heavy upon them, for their souls kept roaring against me.
 - brenton: [missing]
 
 ### Zechariah 11:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, I will not shepherd you. What is dying, let it die; what is failing, let it fail; and those left, let each eat flesh of his neighbor.
 - brenton: [missing]
 
 ### Zechariah 11:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I took my staff, the beautiful one, and threw it away to scatter my covenant that I had arranged with all peoples.
 - brenton: [missing]
 
 ### Zechariah 11:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be scattered in that day, and Canaanite sheep being kept will know that it is word of Lord.
 - brenton: [missing]
 
 ### Zechariah 11:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will say to them, If it is good before you, give, setting out my wages; or refuse. And they set my wages at thirty silver pieces.
 - brenton: [missing]
 
 ### Zechariah 11:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, Put them into smelting-place, and consider if it is approved, in manner that I was tested for them. And I took thirty silver pieces and threw them into house of Lord, into smelting-place.
 - brenton: [missing]
 
 ### Zechariah 11:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I threw away second staff, Measure-line, to scatter possession between Judah and Israel.
 - brenton: [missing]
 
 ### Zechariah 11:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, Still take for yourself shepherding gear of foolish shepherd,
 - brenton: [missing]
 
 ### Zechariah 11:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because behold, I raise up a shepherd on earth: what is failing he will certainly not visit, what is scattered he will certainly not seek, what is broken he will certainly not heal, what is whole he will certainly not guide, and he will eat flesh of chosen ones and wrench out their ankles.
 - brenton: [missing]
 
 ### Zechariah 11:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, shepherding vanities and abandoning sheep. Sword upon his arms and upon his right eye. His arm, drying, will dry up, and his right eye, blinded, will be blinded.
 - brenton: [missing]
 
 ### Zechariah 12:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Oracle of word of Lord upon Israel, says Lord, stretching out heaven and founding earth and forming spirit of human within him.
 - brenton: [missing]
 
 ### Zechariah 12:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I make Jerusalem like shaken thresholds to all peoples round about, and in Judah there will be siege against Jerusalem.
 - brenton: [missing]
 
 ### Zechariah 12:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, I will make Jerusalem a trampled stone to all nations. Everyone trampling her will surely be mocked, and all nations of earth will be gathered against her.
 - brenton: [missing]
 
 ### Zechariah 12:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, says Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon house of Judah I will open my eyes, and every horse of peoples I will strike with blindness.
 - brenton: [missing]
 
 ### Zechariah 12:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chiliarchs of Judah will say in their hearts, We will find for ourselves those inhabiting Jerusalem in Lord Almighty their God.
 - brenton: [missing]
 
 ### Zechariah 12:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day I will make chiliarchs of Judah like firebrand in wood and like torch of fire in stubble, and they will devour on right and left all peoples round about, and Jerusalem will still dwell by herself.
 - brenton: [missing]
 
 ### Zechariah 12:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will save tents of Judah as from beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
 - brenton: [missing]
 
 ### Zechariah 12:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day Lord will shield inhabitants of Jerusalem, and weak one among them in that day will be like house of David, and house of David like house of God, like angel of Lord before them.
 - brenton: [missing]
 
 ### Zechariah 12:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, I will seek to remove all nations coming against Jerusalem.
 - brenton: [missing]
@@ -205550,108 +205550,108 @@ Note:
 
 ### Zechariah 12:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day mourning in Jerusalem will be magnified, like mourning of pomegranate-grove in plain being cut down.
 - brenton: [missing]
 
 ### Zechariah 12:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And land will mourn tribe by tribe, tribe by itself and their women by themselves: tribe of house of David by itself and their women by themselves, tribe of house of Nathan by itself and their women by themselves,
 - brenton: [missing]
 
 ### Zechariah 12:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: tribe of house of Levi by itself and their women by themselves, tribe of Symeon by itself and their women by themselves,
 - brenton: [missing]
 
 ### Zechariah 12:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: all tribes left behind, tribe by itself and their women by themselves.
 - brenton: [missing]
 
 ### Zechariah 13:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day every place will be opened in house of David.
 - brenton: [missing]
 
 ### Zechariah 13:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says Lord, I will destroy names of idols from land, and there will no longer be remembrance of them, and false prophets and unclean spirit I will remove from land.
 - brenton: [missing]
 
 ### Zechariah 13:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, if a man still prophesies, his father and his mother who begot him will say to him, You will not live, because you spoke lies in name of Lord, and his father and mother who begot him will bind his feet together when he prophesies.
 - brenton: [missing]
 
 ### Zechariah 13:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, prophets will each be put to shame by his vision when he prophesies, and they will put on hairy skin because they lied.
 - brenton: [missing]
 
 ### Zechariah 13:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will say, I am not prophet; I am man working land, because a man begot me from my youth.
 - brenton: [missing]
 
 ### Zechariah 13:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in house of my beloved.
 - brenton: [missing]
 
 ### Zechariah 13:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword, awake against my shepherds and against man my fellow-citizen, says Lord Almighty. Strike shepherds, and draw out sheep, and I will bring my hand upon shepherds.
 - brenton: [missing]
 
 ### Zechariah 13:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in all land, says Lord, two parts will be destroyed and fail, but third will be left in it.
 - brenton: [missing]
@@ -205667,36 +205667,36 @@ Note:
 
 ### Zechariah 14:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, days of Lord are coming, and your spoils will be divided in you.
 - brenton: [missing]
 
 ### Zechariah 14:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will gather all nations against Jerusalem for war, and city will be taken and houses plundered and women defiled, and half of city will go out in captivity, but rest of my people will certainly not be destroyed from city.
 - brenton: [missing]
 
 ### Zechariah 14:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will go out and line up against those nations, as day of his battle in day of war.
 - brenton: [missing]
 
 ### Zechariah 14:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his feet will stand in that day on Mount of Olives opposite Jerusalem from east, and Mount of Olives will be split in half, half eastward and half seaward, a very great chasm, and half of mountain will slope north and half south.
 - brenton: [missing]
@@ -205712,144 +205712,144 @@ Note:
 
 ### Zechariah 14:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day there will not be light and cold and frost.
 - brenton: [missing]
 
 ### Zechariah 14:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will be one day, and that day known to Lord, and not day and not night, and toward evening there will be light.
 - brenton: [missing]
 
 ### Zechariah 14:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in that day living water will go out from Jerusalem, half of it to first sea and half of it to last sea, and in summer and in spring it will be so.
 - brenton: [missing]
 
 ### Zechariah 14:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will be king over all earth; in that day Lord will be one, and his name one.
 - brenton: [missing]
 
 ### Zechariah 14:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Encircling all land and wilderness from Gabe to Remmon south of Jerusalem—but Rama remains in its place—from gate of Benjamin to place of first gate to gate of corners and to tower of Ananeel to king's wine-vats.
 - brenton: [missing]
 
 ### Zechariah 14:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will dwell in her, and there will no longer be curse, and Jerusalem will dwell in confidence.
 - brenton: [missing]
 
 ### Zechariah 14:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this will be downfall with which Lord will strike all peoples who campaigned against Jerusalem: their flesh will melt while they stand on their feet, and their eyes will flow from their sockets, and their tongue will melt in their mouth.
 - brenton: [missing]
 
 ### Zechariah 14:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, great astonishment of Lord upon them, and each will seize hand of his neighbor, and his hand will tangle against hand of his neighbor.
 - brenton: [missing]
 
 ### Zechariah 14:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Judah will line up in Jerusalem and gather strength of all peoples round about, gold and silver and clothing in very great abundance.
 - brenton: [missing]
 
 ### Zechariah 14:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this will be downfall of horses and mules and camels and donkeys and all cattle in those camps, according to this downfall.
 - brenton: [missing]
 
 ### Zechariah 14:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, whoever are left from all nations coming against Jerusalem will go up year by year to worship King, Lord Almighty, and to celebrate feast of booths.
 - brenton: [missing]
 
 ### Zechariah 14:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, whichever of all tribes of earth do not go up to Jerusalem to worship King, Lord Almighty, these things will be added upon them.
 - brenton: [missing]
 
 ### Zechariah 14:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if tribe of Egypt does not go up nor come there, then upon them will be downfall with which Lord will strike all nations that do not go up to celebrate feast of booths.
 - brenton: [missing]
 
 ### Zechariah 14:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This will be sin of Egypt and sin of all nations, whichever do not go up to celebrate feast of booths.
 - brenton: [missing]
 
 ### Zechariah 14:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, on horse's bridle will be: Holy to Lord Almighty. And pots in house of Lord will be like bowls before altar.
 - brenton: [missing]
 
 ### Zechariah 14:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every pot in Jerusalem and in Judah will be holy to Lord Almighty, and all sacrificing will come and take from them and cook in them, and there will no longer be Canaanite in house of Lord Almighty in that day.
 - brenton: [missing]
@@ -205858,45 +205858,45 @@ Note:
 
 ### Malachi 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Oracle of word of Lord upon Israel by hand of his messenger. Put this now on your hearts.
 - brenton: [missing]
 
 ### Malachi 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I loved you, says Lord. And you said, In what way did you love us? Was not Esau brother of Jacob? says Lord. Yet I loved Jacob,
 - brenton: [missing]
 
 ### Malachi 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of desert.
 - brenton: [missing]
 
 ### Malachi 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Idumea will say, It has been torn down, but let us return and rebuild wastes. Thus says Lord Almighty: They will build, but I will tear down, and they will be called border of lawlessness and people against whom Lord is arrayed forever.
 - brenton: [missing]
 
 ### Malachi 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your eyes will see, and you will say, Lord has been magnified beyond borders of Israel.
 - brenton: [missing]
@@ -205912,63 +205912,63 @@ Note:
 
 ### Malachi 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bringing defiled breads to my altar. And you said, In what have we defiled them? In your saying, Lord's table is despised, and foods placed on it are despised.
 - brenton: [missing]
 
 ### Malachi 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you bring blind for sacrifice, is it not evil? And if you bring lame or sick, is it not evil? Present it now to your ruler; will he accept it or receive your face? says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now make atonement to face of your God and beg him. These things came by your hands. Shall I receive your faces? says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Even among you doors will be shut, and you will not kindle my altar for nothing. There is no delight of mine in you, says Lord Almighty, and sacrifice I will not accept from your hands.
 - brenton: [missing]
 
 ### Malachi 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from rising of sun to setting my name has been glorified among nations, and in every place incense is brought to my name and pure sacrifice, because my name is great among nations, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you profane it in your saying, Lord's table is defiled and foods placed there are despised.
 - brenton: [missing]
 
 ### Malachi 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you said, These things are from hardship, and you snorted at them, says Lord Almighty. You brought plunder and the lame and the afflicted, and if you bring that as sacrifice, shall I accept them from your hands? says Lord Almighty.
 - brenton: [missing]
@@ -205984,45 +205984,45 @@ Note:
 
 ### Malachi 2:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now this command is for you, priests.
 - brenton: [missing]
 
 ### Malachi 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you do not listen and do not set it on your hearts to give glory to my name, says Lord Almighty, I will send curse upon you and curse your blessing and scatter your blessing, and it will not be among you, because you do not set it on your hearts.
 - brenton: [missing]
 
 ### Malachi 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I separate for you the shoulder, and scatter stomach-content on your faces, stomach-content of your feasts, and I will take you with it.
 - brenton: [missing]
 
 ### Malachi 2:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I sent this command to you, for my covenant to be with Levites, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My covenant with him was of life and peace, and I gave it to him in fear, to fear me and to shrink before my name.
 - brenton: [missing]
@@ -206047,18 +206047,18 @@ Note:
 
 ### Malachi 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I made you despised and cast aside among all nations, because you did not guard my ways but received faces in law.
 - brenton: [missing]
@@ -206074,99 +206074,99 @@ Note:
 
 ### Malachi 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Judah was abandoned, and abomination happened in Israel and in Jerusalem, because Judah profaned holy things of Lord which he loved and busied himself with foreign gods.
 - brenton: [missing]
 
 ### Malachi 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord will destroy man doing these, until he is humbled from tents of Jacob and from those bringing sacrifice to Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
 - brenton: [missing]
 
 ### Malachi 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you said, For what reason? Because Lord testified between you and wife of your youth whom you abandoned, and she is your companion and wife of your covenant.
 - brenton: [missing]
 
 ### Malachi 2:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
 - brenton: [missing]
 
 ### Malachi 2:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: [missing]
 
 ### Malachi 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You provoke God in your words, and you said, In what have we provoked him? In your saying, Everyone doing evil is good before Lord, and in them he took pleasure; and, Where is God of justice?
 - brenton: [missing]
 
 ### Malachi 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I send my messenger, and he will look on way before my face, and suddenly Lord whom you seek will come into his own temple, and messenger of covenant whom you want. Behold, he comes, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who will endure day of his coming? And who will stand in his appearance? Because he enters like fire of a smelter and like herb of washers.
 - brenton: [missing]
 
 ### Malachi 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will sit refining and cleansing like silver and gold and will cleanse sons of Levi and pour them out like gold and like silver, and they will be to Lord bringing sacrifice in righteousness.
 - brenton: [missing]
 
 ### Malachi 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice of Judah and Jerusalem will please Lord as days of age and as former years.
 - brenton: [missing]
@@ -206182,171 +206182,171 @@ Note:
 
 ### Malachi 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I am Lord your God and do not change, and you sons of Jacob have not ceased.
 - brenton: [missing]
 
 ### Malachi 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From injustices of your fathers you turned aside from my statutes and did not keep them. Return to me and I will return to you, says Lord Almighty. And you said, In what shall we return?
 - brenton: [missing]
 
 ### Malachi 3:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will a human trick God? Yet you trick me. And you say, In what did we trick you? Because tenths and firstfruits are with you.
 - brenton: [missing]
 
 ### Malachi 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Looking, you keep looking away, and me you keep tricking. Nation has been brought to an end.
 - brenton: [missing]
 
 ### Malachi 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring all produce into storehouses, and in his house there will be provision. Test me in this, says Lord Almighty, if I will not open to you cataracts of heaven and pour out my blessing for you until enough.
 - brenton: [missing]
 
 ### Malachi 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will appoint one against devouring for you, and he will not destroy fruit of your land, and vine in field will not grow weak for you, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 3:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all nations will call you blessed, because you will be desired land, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your words were made heavy against me, says Lord. And you said, In what did we speak against you?
 - brenton: [missing]
 
 ### Malachi 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You said, Serving God is vain. And what more is it that we kept his charges and that we walked as suppliants before Lord Almighty?
 - brenton: [missing]
 
 ### Malachi 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now we call strangers blessed, and all doing unlawful things are built up, and they stood against God and were saved.
 - brenton: [missing]
 
 ### Malachi 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These things those fearing Lord spoke, each to his neighbor, and Lord paid attention and heard, and he wrote book of remembrance before him for those fearing Lord and revering his name.
 - brenton: [missing]
 
 ### Malachi 3:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be mine, says Lord Almighty, in day I make for possession, and I will choose them as man chooses his son serving him.
 - brenton: [missing]
 
 ### Malachi 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will turn and see between righteous and lawless, and between one serving God and one not serving.
 - brenton: [missing]
 
 ### Malachi 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, day of Lord comes, burning like furnace, and it will burn them, and all strangers and all doing unlawful things will be stubble, and coming day will kindle them, says Lord Almighty, and root and branch will not be left from them.
 - brenton: [missing]
 
 ### Malachi 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for you fearing my name, sun of righteousness will rise, and healing in its wings, and you will go out and skip like calves let loose from bonds.
 - brenton: [missing]
 
 ### Malachi 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will trample lawless ones, because they will be ashes under your feet in day that I make, says Lord Almighty.
 - brenton: [missing]
 
 ### Malachi 3:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, I send Elijah the Tishbite to you before great and manifest day of Lord comes,
 - brenton: [missing]
 
 ### Malachi 3:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who will restore heart of father to son and heart of man to his neighbor, lest I come and strike earth utterly.
 - brenton: [missing]
 
 ### Malachi 3:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember law of Moses my servant, as I commanded him in Horeb for all Israel, ordinances and judgments.
 - brenton: [missing]
