@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 17552
-- medium: 1090
-- low: 4275
+- high: 17732
+- medium: 1047
+- low: 4138
 - none: 0
 
 Note:
@@ -157098,189 +157098,189 @@ Note:
 
 ### Song of Solomon 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, you beautiful, my dear one, look, you beautiful; your eyes doves behind your veil. Your hair like herds of goats that were revealed from Gilead.
 - brenton: [missing]
 
 ### Song of Solomon 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your teeth like herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
 - brenton: [missing]
 
 ### Song of Solomon 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As scarlet cord your lips, and your speech beautiful; as piece of pomegranate your cheek behind your veil.
 - brenton: [missing]
 
 ### Song of Solomon 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As tower of David your neck, built for ranks; thousand shields hang upon it, all darts of mighty men.
 - brenton: [missing]
 
 ### Song of Solomon 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your two breasts like two fawns, twins of gazelle, grazing among lilies.
 - brenton: [missing]
 
 ### Song of Solomon 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until day breathes and shadows move, I will go for myself to mountain of myrrh and hill of frankincense.
 - brenton: [missing]
 
 ### Song of Solomon 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All beautiful you, my dear one, and blemish not in you.
 - brenton: [missing]
 
 ### Song of Solomon 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from top of Senir and Hermon, from dens of lions, from mountains of leopards.
 - brenton: [missing]
 
 ### Song of Solomon 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You heartened us, my sister bride, you heartened us with one of your eyes, with one chain of your neck.
 - brenton: [missing]
 
 ### Song of Solomon 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices.
 - brenton: [missing]
 
 ### Song of Solomon 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Honeycomb drips from your lips, bride; honey and milk under your tongue, and scent of your garments as scent of Lebanon.
 - brenton: [missing]
 
 ### Song of Solomon 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Garden shut, my sister bride; garden shut, spring sealed.
 - brenton: [missing]
 
 ### Song of Solomon 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your shoots = orchard of pomegranates with fruit of choice things, cypresses with nards.
 - brenton: [missing]
 
 ### Song of Solomon 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nard and saffron, cane and cinnamon with all woods of Lebanon, myrrh and aloes with all first perfumes.
 - brenton: [missing]
 
 ### Song of Solomon 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Spring of gardens, well of living water and rushing from Lebanon.
 - brenton: [missing]
 
 ### Song of Solomon 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake, north, and come, south. Breathe through my garden, and let my perfumes flow. Let my beloved go down into his garden and eat fruit of his choice things.
 - brenton: [missing]
 
 ### Song of Solomon 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I entered my garden, my sister bride; I gathered my myrrh with my spices; I ate my bread with my honey, I drank my wine with my milk. Eat, companions, and drink and be drunk, brothers.
 - brenton: [missing]
 
 ### Song of Solomon 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I sleep, and my heart wakes. Voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
 - brenton: [missing]
 
 ### Song of Solomon 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I stripped my tunic; how shall I put it on? I washed my feet; how shall I soil them?
 - brenton: [missing]
 
 ### Song of Solomon 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My beloved sent his hand through opening, and my inward parts trembled for him.
 - brenton: [missing]
 
 ### Song of Solomon 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I rose, I, to open to my beloved; my hands dripped myrrh, my fingers full myrrh upon handles of lock.
 - brenton: [missing]
@@ -157296,99 +157296,99 @@ Note:
 
 ### Song of Solomon 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Watchmen found me, those circling in city. They struck me, they wounded me; watchers of walls took my veil from me.
 - brenton: [missing]
 
 ### Song of Solomon 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I bound you by oath, daughters of Jerusalem, by powers and strengths of field, if you find my beloved, what will you report to him? That I am wounded by love.
 - brenton: [missing]
 
 ### Song of Solomon 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What is your beloved beyond beloved, beautiful among women? What is your beloved beyond beloved, that thus you bound us by oath?
 - brenton: [missing]
 
 ### Song of Solomon 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My beloved white and ruddy, singled out from myriads.
 - brenton: [missing]
 
 ### Song of Solomon 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His head gold and fine gold; his curls like palm branches, black as raven.
 - brenton: [missing]
 
 ### Song of Solomon 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His eyes like doves by fillings of waters, washed in milk, sitting by fullness of waters.
 - brenton: [missing]
 
 ### Song of Solomon 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His cheeks like bowls of spice, growing perfumes; his lips lilies dripping full myrrh.
 - brenton: [missing]
 
 ### Song of Solomon 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His hands gold-carved, filled with Tarshish; his belly ivory box on sapphire stone.
 - brenton: [missing]
 
 ### Song of Solomon 5:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His legs marble pillars founded on gold bases; his appearance like Lebanon, choice as cedars.
 - brenton: [missing]
 
 ### Song of Solomon 5:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His throat sweetness, and he whole = desire. This my beloved and this my dear one, daughters of Jerusalem.
 - brenton: [missing]
 
 ### Song of Solomon 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where did your beloved go, beautiful among women? Where did your beloved look away, and we will seek him with you?
 - brenton: [missing]
@@ -157404,342 +157404,342 @@ Note:
 
 ### Song of Solomon 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I to my beloved, and my beloved to me, one shepherding among lilies.
 - brenton: [missing]
 
 ### Song of Solomon 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beautiful you, my dear one, as Delight; lovely as Jerusalem; awe as battle-lines.
 - brenton: [missing]
 
 ### Song of Solomon 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn your eyes from before me, because they gave me wings. Your hair like herds of goats that appeared from Gilead.
 - brenton: [missing]
 
 ### Song of Solomon 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your teeth like herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
 - brenton: [missing]
 
 ### Song of Solomon 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As scarlet cord your lips, and your speech beautiful; as piece of pomegranate your cheek behind your veil.
 - brenton: [missing]
 
 ### Song of Solomon 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sixty queens and eighty concubines and maidens without number.
 - brenton: [missing]
 
 ### Song of Solomon 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One is my dove, my perfect one; one to her mother, chosen to one who bore her. Daughters saw her and will bless her; queens and concubines, and they will praise her.
 - brenton: [missing]
 
 ### Song of Solomon 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is this looking forth as dawn, beautiful as moon, chosen as sun, awe as battle-lines?
 - brenton: [missing]
 
 ### Song of Solomon 6:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Into garden of walnut I went down, to see among produce of torrent, to see whether vine blossomed, pomegranates bloomed. There I will give my breasts to you.
 - brenton: [missing]
 
 ### Song of Solomon 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul did not know; it set me among chariots of Amminadab.
 - brenton: [missing]
 
 ### Song of Solomon 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes as dances of camps.
 - brenton: [missing]
 
 ### Song of Solomon 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beautiful your steps in sandals, daughter of Nadab. Curves of your thighs like necklaces, work of hands of craftsman.
 - brenton: [missing]
 
 ### Song of Solomon 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your navel a carved bowl, not lacking mixed wine; your belly heap of wheat fenced round with lilies.
 - brenton: [missing]
 
 ### Song of Solomon 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your two breasts like two twin fawns of gazelle.
 - brenton: [missing]
 
 ### Song of Solomon 7:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your neck as ivory tower. Your eyes as pools in Heshbon at gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
 - brenton: [missing]
 
 ### Song of Solomon 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your head upon you as Carmel, and braid of your head as purple; king bound in flowing locks.
 - brenton: [missing]
 
 ### Song of Solomon 7:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beautiful you became, and how sweet, love, in your delights.
 - brenton: [missing]
 
 ### Song of Solomon 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This your stature was likened to palm tree, and your breasts to clusters.
 - brenton: [missing]
 
 ### Song of Solomon 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of vine, and scent of your nose as apples.
 - brenton: [missing]
 
 ### Song of Solomon 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your throat as good wine, going to my beloved in straightness, fitted to my lips and teeth.
 - brenton: [missing]
 
 ### Song of Solomon 7:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I to my beloved, and upon me his turning.
 - brenton: [missing]
 
 ### Song of Solomon 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, my beloved, let us go out into field, let us lodge in villages.
 - brenton: [missing]
 
 ### Song of Solomon 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let us rise early to vineyards; let us see whether vine blossomed, cypress blossomed, pomegranates bloomed. There I will give my breasts to you.
 - brenton: [missing]
 
 ### Song of Solomon 7:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mandrakes gave scent, and at our doors every choice fruit, new with old, my beloved, I kept for you.
 - brenton: [missing]
 
 ### Song of Solomon 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will give you as my beloved, nursing breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
 - brenton: [missing]
 
 ### Song of Solomon 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will take you, I will bring you into house of my mother and into chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
 - brenton: [missing]
 
 ### Song of Solomon 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His left under my head, and his right will embrace me.
 - brenton: [missing]
 
 ### Song of Solomon 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of field: why do you rouse and why do you awaken love until it wishes?
 - brenton: [missing]
 
 ### Song of Solomon 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
 - brenton: [missing]
 
 ### Song of Solomon 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Set me as seal on your heart, as seal on your arm, because love strong as death, jealousy hard as Hades; its wings = wings of fire, its flames.
 - brenton: [missing]
 
 ### Song of Solomon 8:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Much water will not be able to quench love, and rivers will not flood it. If man gives all his livelihood in love, despising they will despise him.
 - brenton: [missing]
 
 ### Song of Solomon 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Small sister to us, and she has no breasts. What shall we do for our sister in day when they speak in her?
 - brenton: [missing]
 
 ### Song of Solomon 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If she is wall, we will build upon her battlements of silver; and if she is door, we will engrave upon her cedar board.
 - brenton: [missing]
 
 ### Song of Solomon 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I wall, and my breasts as towers. I became in his eyes as one finding peace.
 - brenton: [missing]
 
 ### Song of Solomon 8:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
 - brenton: [missing]
 
 ### Song of Solomon 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My vineyard mine before me. Thousand to you, Solomon, and two hundred to those keeping its fruit.
 - brenton: [missing]
 
 ### Song of Solomon 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You sitting in gardens, companions attending to your voice, let me hear.
 - brenton: [missing]
 
 ### Song of Solomon 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flee, my beloved, and be like gazelle or fawn of deer on mountains of spices.
 - brenton: [missing]
@@ -157748,990 +157748,990 @@ Note:
 
 ### Isaiah 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
 - brenton: [missing]
 
 ### Isaiah 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, heaven, and give ear, earth, because Lord spoke: Sons I begot and raised high, but they rejected me.
 - brenton: [missing]
 
 ### Isaiah 1:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ox knew one acquiring it, and donkey manger of its master; but Israel did not know me, and people did not understand me.
 - brenton: [missing]
 
 ### Isaiah 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, sinful nation, people full of sins, evil seed, lawless sons. You abandoned Lord and provoked Holy One of Israel.
 - brenton: [missing]
 
 ### Isaiah 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why still be struck, adding lawlessness? Every head into pain and every heart into grief.
 - brenton: [missing]
 
 ### Isaiah 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From feet to head neither wound nor bruise nor burning stripe; there is no salve to apply, nor oil, nor bandages.
 - brenton: [missing]
 
 ### Isaiah 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your land desolate, your cities burned with fire; your country before you foreigners devour it, and it has been desolated, overthrown by foreign peoples.
 - brenton: [missing]
 
 ### Isaiah 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughter of Zion will be left as tent in vineyard, and as watch-hut in cucumber patch, as city under siege.
 - brenton: [missing]
 
 ### Isaiah 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Unless Lord Sabaoth had left us seed, we would have become as Sodom and been made like Gomorrah.
 - brenton: [missing]
 
 ### Isaiah 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear word of Lord, rulers of Sodom; heed law of God, people of Gomorrah.
 - brenton: [missing]
 
 ### Isaiah 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What to me multitude of your sacrifices, says Lord? I am full of whole burnt offerings of rams and fat of lambs, and blood of bulls and goats I do not want.
 - brenton: [missing]
 
 ### Isaiah 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not even when you come to appear to me. For who sought these from your hands, to trample my court?
 - brenton: [missing]
 
 ### Isaiah 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will not continue. If you bring fine flour, it is vain; incense = abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
 - brenton: [missing]
 
 ### Isaiah 1:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your new moons and your feasts my soul hates; you became fullness to me; no longer will I pardon your sins.
 - brenton: [missing]
 
 ### Isaiah 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When you stretch out hands to me, I will turn my eyes from you; and if you multiply supplication, I will not hear you, because your hands full of blood.
 - brenton: [missing]
 
 ### Isaiah 1:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wash, become clean, remove evils from your souls before my eyes; stop from your evils.
 - brenton: [missing]
 
 ### Isaiah 1:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Learn to do good, seek judgment, rescue one being wronged, judge for orphan, justify widow.
 - brenton: [missing]
 
 ### Isaiah 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come and let us reason together, says Lord. And if your sins are as scarlet, I will whiten as snow; if they are as crimson, I will whiten as wool.
 - brenton: [missing]
 
 ### Isaiah 1:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you are willing and listen to me, good things of land you will eat.
 - brenton: [missing]
 
 ### Isaiah 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If not willing nor listen to me, sword will devour you, for mouth of Lord spoke these things.
 - brenton: [missing]
 
 ### Isaiah 1:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How faithful city Zion became prostitute, full of judgment, in which righteousness slept, but now murderers.
 - brenton: [missing]
 
 ### Isaiah 1:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your silver unapproved, your tavern-keepers mix wine with water.
 - brenton: [missing]
 
 ### Isaiah 1:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your rulers disobey, companions of thieves, loving gifts, pursuing repayment; not judging orphans and not attending to widow's case.
 - brenton: [missing]
 
 ### Isaiah 1:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Master, Lord Sabaoth, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
 - brenton: [missing]
 
 ### Isaiah 1:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will bring my hand upon you and purge you into purity, but rebellious ones I will destroy; and I will remove all lawless ones from you and humble all proud ones.
 - brenton: [missing]
 
 ### Isaiah 1:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will appoint your judges as before, and your counselors as from beginning; afterward you will be called city of righteousness, faithful mother-city Zion.
 - brenton: [missing]
 
 ### Isaiah 1:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For her captivity will be saved with judgment, and with mercy.
 - brenton: [missing]
 
 ### Isaiah 1:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lawless and sinners will be shattered together, and those abandoning Lord will be finished.
 - brenton: [missing]
 
 ### Isaiah 1:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they will be ashamed over their idols which they wanted, and they were put to shame over their gardens they desired.
 - brenton: [missing]
 
 ### Isaiah 1:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they will be as terebinth that has cast off leaves, and as orchard having no water.
 - brenton: [missing]
 
 ### Isaiah 1:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their strength will be as stalk of tow and their works as sparks of fire, and lawless and sinners will be burned together, and there will not be one to quench.
 - brenton: [missing]
 
 ### Isaiah 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The word that came from Lord to Isaiah son of Amoz concerning Judah and concerning Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 2:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in last days mountain of Lord and house of God will be manifest on peaks of mountains, and will be lifted above hills, and all nations will come upon it.
 - brenton: [missing]
 
 ### Isaiah 2:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Many nations will go and say, Come, let us go up to mountain of Lord and to house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and word of Lord from Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 2:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will judge between nations and reprove many people, and they will beat their swords into plowshares and their spears into sickles; nation will not take sword against nation anymore, and they will certainly not learn war anymore.
 - brenton: [missing]
 
 ### Isaiah 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, house of Jacob, come, let us walk in light of Lord.
 - brenton: [missing]
 
 ### Isaiah 2:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he let go his people, house of Israel, because their land was filled as from beginning with divinations as land of foreigners, and many foreign sons were born to them.
 - brenton: [missing]
 
 ### Isaiah 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their land filled with silver and gold, and there was no number of their treasures, and land filled with horses, and there was no number of their chariots.
 - brenton: [missing]
 
 ### Isaiah 2:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their land filled with abominations, works of their hands, and they bowed to what their fingers made.
 - brenton: [missing]
 
 ### Isaiah 2:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man bent down, and male was humbled, and I will certainly not let them go.
 - brenton: [missing]
 
 ### Isaiah 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now enter rocks and hide in earth from face of fear of Lord and from glory of his strength when he rises to shatter earth.
 - brenton: [missing]
 
 ### Isaiah 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For eyes of Lord high, but man low, and height of men will be humbled, and Lord alone will be exalted in that day.
 - brenton: [missing]
 
 ### Isaiah 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For day of Lord Sabaoth upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 - brenton: [missing]
 
 ### Isaiah 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon every cedar of Lebanon, high and lofty, and upon every oak tree of Bashan.
 - brenton: [missing]
 
 ### Isaiah 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon every mountain and every high hill.
 - brenton: [missing]
 
 ### Isaiah 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon every high tower and every high wall.
 - brenton: [missing]
 
 ### Isaiah 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And upon every ship of sea and upon every sight of beauty of ships.
 - brenton: [missing]
 
 ### Isaiah 2:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every man will be humbled and height of men will fall, and Lord alone will be exalted in that day.
 - brenton: [missing]
 
 ### Isaiah 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All handmade things they will utterly hide.
 - brenton: [missing]
 
 ### Isaiah 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Carrying them into caves and fissures of rocks and hollows of earth from face of fear of Lord and from glory of his strength when he rises to shatter earth.
 - brenton: [missing]
 
 ### Isaiah 2:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For in that day man will throw out his silver and gold abominations, which they made to bow to vanities and night-creatures.
 - brenton: [missing]
 
 ### Isaiah 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To enter hollows of solid rock and fissures of rocks from face of fear of Lord and from glory of his strength when he rises to shatter earth.
 - brenton: [missing]
 
 ### Isaiah 3:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look now, Master Lord Sabaoth will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
 - brenton: [missing]
 
 ### Isaiah 3:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: giant and strong man and man of war, and judge and prophet and diviner and elder,
 - brenton: [missing]
 
 ### Isaiah 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and captain of fifty and wonderful counselor and wise craftsman and understanding listener.
 - brenton: [missing]
 
 ### Isaiah 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will appoint youths their rulers, and mockers will lord over them.
 - brenton: [missing]
 
 ### Isaiah 3:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: People will fall together, man against man and man against his neighbor; child will strike against elder, dishonorable one against honorable.
 - brenton: [missing]
 
 ### Isaiah 3:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because man will seize his brother or one of his father's household, saying, You have clothing, become our leader, and let my food be under you.
 - brenton: [missing]
 
 ### Isaiah 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will answer and say in that day, I will not be your leader, for in my house there is neither bread nor clothing; I will not be leader of this people.
 - brenton: [missing]
 
 ### Isaiah 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Jerusalem is abandoned and Judah has fallen, and their tongues with lawlessness speak things against Lord, disobeying, because now their glory was humbled.
 - brenton: [missing]
 
 ### Isaiah 3:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shame of their face stood against them, and their sin they announced as Sodom and made it plain. Woe to their soul, because they planned evil counsel against themselves.
 - brenton: [missing]
 
 ### Isaiah 3:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Saying, Let us bind righteous one, because he is inconvenient to us; therefore they will eat produce of their works.
 - brenton: [missing]
 
 ### Isaiah 3:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to lawless one; evil will happen to him according to works of his hands.
 - brenton: [missing]
 
 ### Isaiah 3:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My people, your exactors glean you, and those collecting dues lord over you. My people, those calling you blessed lead you astray and trouble path of your feet.
 - brenton: [missing]
 
 ### Isaiah 3:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now Lord will stand for judgment and stand to judge his people.
 - brenton: [missing]
 
 ### Isaiah 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord himself will come into judgment with elders of his people and with their rulers: But you, why did you burn my vineyard, and spoil of poor in your houses?
 - brenton: [missing]
 
 ### Isaiah 3:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you wrong my people and shame face of poor?
 - brenton: [missing]
 
 ### Isaiah 3:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Because daughters of Zion were lifted high and walked with high neck and with winks of eyes and in walking of feet dragging tunics together and playing together with feet,
 - brenton: [missing]
 
 ### Isaiah 3:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God will humble ruling daughters of Zion, and Lord will uncover their form.
 - brenton: [missing]
 
 ### Isaiah 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day Lord will take away glory of their clothing and their ornaments and braids and hair-nets and crescent-moons,
 - brenton: [missing]
 
 ### Isaiah 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and the hangings and ornament of their face,
 - brenton: [missing]
 
 ### Isaiah 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and arrangement of ornament of glory and bracelets and armlets and headdress and wrist-bands and rings and earrings,
 - brenton: [missing]
 
 ### Isaiah 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and purple garments and garments bordered in purple,
 - brenton: [missing]
 
 ### Isaiah 3:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and robes for house and transparent Laconian cloths,
 - brenton: [missing]
 
 ### Isaiah 3:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and fine linen and blue and scarlet and linen woven together with gold and blue, and reclining veils.
 - brenton: [missing]
 
 ### Isaiah 3:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will be, instead of sweet smell = dust, and instead of belt you will bind with rope, and instead of golden ornament of head you will have baldness because of your works, and instead of tunic bordered in purple you will gird yourself with sackcloth.
 - brenton: [missing]
 
 ### Isaiah 3:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your most beautiful son whom you love will fall by sword, and your mighty men will fall by sword.
 - brenton: [missing]
 
 ### Isaiah 3:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cases of your ornament will be humbled and mourn, and you will be left alone and dashed to ground.
 - brenton: [missing]
 
 ### Isaiah 4:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seven women will seize one man, saying, We will eat our bread and wear our clothes; only let your name be called upon us; take away our reproach.
 - brenton: [missing]
 
 ### Isaiah 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day God will shine forth in counsel with glory upon earth, to lift up and glorify remnant of Israel.
 - brenton: [missing]
 
 ### Isaiah 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It shall be that one left in Zion and one left in Jerusalem will be called holy, all written for life in Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 4:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord will wash filth of sons and daughters of Zion and cleanse blood from their midst by spirit of judgment and spirit of burning.
 - brenton: [missing]
 
 ### Isaiah 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will come and there will be over every place of Mount Zion and all around her a cloud will overshadow by day, like smoke, and like light of burning fire by night. Over all glory it will be covered.
 - brenton: [missing]
 
 ### Isaiah 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be for shade from heat and for shelter and hiding from harshness and rain.
 - brenton: [missing]
 
 ### Isaiah 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now I will sing to my beloved song of my beloved concerning my vineyard. Vineyard came to my beloved on hilltop in fertile place.
 - brenton: [missing]
 
 ### Isaiah 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I put fence around and staked it and planted chosen vine and built tower in midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
 - brenton: [missing]
 
 ### Isaiah 5:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, man of Judah and dwellers in Jerusalem, judge between me and my vineyard.
 - brenton: [missing]
 
 ### Isaiah 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What shall I still do to my vineyard that I did not do to it? Because I waited for it to produce grapes, but it produced thorns.
 - brenton: [missing]
 
 ### Isaiah 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I will announce to you what I will do to my vineyard: I will remove its fence and it will be for plundering, and I will pull down its wall and it will be for trampling.
 - brenton: [missing]
 
 ### Isaiah 5:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to rain rain on it.
 - brenton: [missing]
 
 ### Isaiah 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For vineyard of Lord Sabaoth = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
 - brenton: [missing]
 
 ### Isaiah 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those joining house to house and bringing field near to field, to take something from neighbor away; will you not dwell alone on land?
 - brenton: [missing]
 
 ### Isaiah 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For these things were heard in ears of Lord Sabaoth: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
 - brenton: [missing]
 
 ### Isaiah 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For ten yoke of oxen working will produce one jar, and one sowing six artabas will produce three measures.
 - brenton: [missing]
 
 ### Isaiah 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those rising early and pursuing strong drink, those remaining till late, for wine will burn them together.
 - brenton: [missing]
 
 ### Isaiah 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For with lyre and psaltery and drums and flutes they drink wine, but works of Lord they do not look on, and works of his hands they do not understand.
 - brenton: [missing]
 
 ### Isaiah 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore my people became captive because they did not know Lord, and multitude became dead from famine and thirst of water.
 - brenton: [missing]
 
 ### Isaiah 5:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hades widened its soul and opened its mouth without ceasing, and her glorious ones and great ones and rich ones and her plague-struck ones will go down.
 - brenton: [missing]
 
 ### Isaiah 5:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And man will be humbled and male will be dishonored, and lofty eyes will be humbled.
 - brenton: [missing]
 
 ### Isaiah 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: [missing]
 
 ### Isaiah 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And plundered ones will be grazed as bulls, and lambs will eat deserted places of those taken away.
 - brenton: [missing]
 
 ### Isaiah 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those drawing sins with long rope and lawlessness as with strap of heifer's yoke,
 - brenton: [missing]
 
 ### Isaiah 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those saying, Let what he will do come quickly and draw near, that we may see; and let counsel of Holy One of Israel come, that we may know.
 - brenton: [missing]
 
 ### Isaiah 5:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those saying evil good and good evil, those putting darkness light and light darkness, those putting bitter sweet and sweet bitter.
 - brenton: [missing]
 
 ### Isaiah 5:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those understanding in themselves and knowledgeable before themselves.
 - brenton: [missing]
 
 ### Isaiah 5:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe your mighty men, drinkers of wine, and rulers mixing strong drink,
 - brenton: [missing]
 
 ### Isaiah 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those justifying ungodly for gifts and taking away right of righteous.
 - brenton: [missing]
 
 ### Isaiah 5:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of Lord Sabaoth but provoked oracle of Holy One of Israel.
 - brenton: [missing]
 
 ### Isaiah 5:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord Sabaoth was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
 - brenton: [missing]
 
 ### Isaiah 5:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore he will raise signal among nations far off and whistle to them from end of earth, and look, swiftly lightly they come.
 - brenton: [missing]
