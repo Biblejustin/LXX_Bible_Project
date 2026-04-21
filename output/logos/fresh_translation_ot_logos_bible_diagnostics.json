@@ -80,6 +80,88 @@
     "rows": 81,
     "usable_rows": 81
   },
+  "deuterocanonical_future_work": {
+    "status": "future_work",
+    "reason": "Book intro metadata exists, but no verse rows are present in current source CSV.",
+    "missing_book_count": 15,
+    "missing_books": [
+      {
+        "book_code": "TOB",
+        "book_name": "Tobit",
+        "status": "draft"
+      },
+      {
+        "book_code": "JDT",
+        "book_name": "Judith",
+        "status": "draft"
+      },
+      {
+        "book_code": "WIS",
+        "book_name": "Wisdom",
+        "status": "draft"
+      },
+      {
+        "book_code": "SIR",
+        "book_name": "Sirach",
+        "status": "draft"
+      },
+      {
+        "book_code": "BAR",
+        "book_name": "Baruch",
+        "status": "draft"
+      },
+      {
+        "book_code": "LJE",
+        "book_name": "Letter of Jeremiah",
+        "status": "draft"
+      },
+      {
+        "book_code": "SUS",
+        "book_name": "Susanna",
+        "status": "draft"
+      },
+      {
+        "book_code": "BEL",
+        "book_name": "Bel and the Dragon",
+        "status": "draft"
+      },
+      {
+        "book_code": "1MA",
+        "book_name": "1 Maccabees",
+        "status": "draft"
+      },
+      {
+        "book_code": "2MA",
+        "book_name": "2 Maccabees",
+        "status": "draft"
+      },
+      {
+        "book_code": "1ES",
+        "book_name": "1 Esdras",
+        "status": "draft"
+      },
+      {
+        "book_code": "MAN",
+        "book_name": "Prayer of Manasseh",
+        "status": "draft"
+      },
+      {
+        "book_code": "3MA",
+        "book_name": "3 Maccabees",
+        "status": "draft"
+      },
+      {
+        "book_code": "4MA",
+        "book_name": "4 Maccabees",
+        "status": "draft"
+      },
+      {
+        "book_code": "ENO",
+        "book_name": "1 Enoch",
+        "status": "draft"
+      }
+    ]
+  },
   "name_meaning_note_filter": {
     "proper_name_rows": 152,
     "proper_name_included": 152,

@@ -1270,6 +1270,31 @@ def load_book_intros(path: Path) -> tuple[dict[str, dict[str, str]], dict[str, o
     }
 
 
+def deuterocanonical_future_work(
+    book_intros: dict[str, dict[str, str]],
+    verses: list[Verse],
+) -> dict[str, object]:
+    source_codes = {verse.book_code for verse in verses}
+    missing = [
+        {
+            "book_code": code,
+            "book_name": row.get("book_name", "").strip() or row.get("intro_title", "").strip(),
+            "status": row.get("status", "").strip(),
+        }
+        for code, row in sorted(
+            book_intros.items(),
+            key=lambda item: int(item[1].get("canonical_order", "999") or 999),
+        )
+        if row.get("section", "").strip().lower() == "apocrypha" and code not in source_codes
+    ]
+    return {
+        "status": "future_work",
+        "reason": "Book intro metadata exists, but no verse rows are present in current source CSV.",
+        "missing_book_count": len(missing),
+        "missing_books": missing,
+    }
+
+
 def book_intro_has_content(row: dict[str, str] | None) -> bool:
     if not row:
         return False
@@ -2221,6 +2246,7 @@ def build_readme(
     textual_notes_html: Path,
     book_intros_path: Path,
     translation_decisions_path: Path,
+    deuterocanonical_work: dict[str, object],
 ) -> None:
     try:
         book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
@@ -2234,6 +2260,12 @@ def build_readme(
         textual_notes_display = textual_notes_html.relative_to(ROOT).as_posix()
     except ValueError:
         textual_notes_display = str(textual_notes_html)
+    missing_deuterocanon = [
+        item.get("book_name", "")
+        for item in deuterocanonical_work.get("missing_books", [])
+        if isinstance(item, dict) and item.get("book_name", "")
+    ]
+    missing_deuterocanon_display = ", ".join(missing_deuterocanon) if missing_deuterocanon else "None"
     content = f"""# Fresh Translation OT Logos/Proofreading Files
 
 Generated files:
@@ -2266,6 +2298,7 @@ Scope:
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
+- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}.
 - Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
@@ -2313,6 +2346,7 @@ def build_diagnostics(
     textual_export_counts: dict[str, object],
     notes: dict[str, list[TranslationNote]],
     book_intro_diag: dict[str, object],
+    deuterocanonical_work: dict[str, object],
     name_note_counts: dict[str, int],
     name_notes: dict[str, list[NameMeaningNote]],
     supplemental_note_counts: dict[str, object],
@@ -2342,6 +2376,7 @@ def build_diagnostics(
         "included_translation_note_refs": len(notes),
         "included_translation_note_total": included_note_total,
         "book_prefaces": book_intro_diag,
+        "deuterocanonical_future_work": deuterocanonical_work,
         "name_meaning_note_filter": name_note_counts,
         "included_name_meaning_note_refs": len(name_notes),
         "included_name_meaning_note_total": included_name_note_total,
@@ -2402,6 +2437,7 @@ def main() -> None:
     )
     notes = merge_translation_notes(base_notes, textual_export_notes)
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
+    deuterocanonical_work = deuterocanonical_future_work(book_intros, verses)
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
         names_of_god_path=args.names_of_god,
@@ -2498,6 +2534,7 @@ def main() -> None:
         textual_notes_html=args.textual_notes_html,
         book_intros_path=args.book_intros,
         translation_decisions_path=args.translation_decisions,
+        deuterocanonical_work=deuterocanonical_work,
     )
     validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
@@ -2507,6 +2544,7 @@ def main() -> None:
         textual_export_counts=textual_export_counts,
         notes=notes,
         book_intro_diag=book_intro_diag,
+        deuterocanonical_work=deuterocanonical_work,
         name_note_counts=name_note_counts,
         name_notes=name_notes,
         supplemental_note_counts=supplemental_note_counts,
