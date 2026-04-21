@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 19892
-- medium: 638
-- low: 2387
+- high: 20072
+- medium: 595
+- low: 2250
 - none: 0
 
 Note:
@@ -178288,1620 +178288,1620 @@ Note:
 
 ### Jeremiah 39:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord Almighty: Take this scroll of purchase and scroll that was read and put it into earthen vessel, so that it may remain many days.
 - brenton: [missing]
 
 ### Jeremiah 39:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: Still fields and houses and vineyards will be bought in this land.
 - brenton: [missing]
 
 ### Jeremiah 39:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I prayed to Lord after my giving scroll of purchase to Baruch son of Neriah, saying,
 - brenton: [missing]
 
 ### Jeremiah 39:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ah Lord, you made heaven and earth with your great strength and your high and lifted arm, and nothing will be hidden from you,
 - brenton: [missing]
 
 ### Jeremiah 39:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: doing mercy to thousands and repaying sins of fathers into bosom of their children after them, God great and mighty,
 - brenton: [missing]
 
 ### Jeremiah 39:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord of great counsel and mighty in works, God great, Almighty, and great in name, Lord. Your eyes are upon ways of sons of men, to give to each according to his way,
 - brenton: [missing]
 
 ### Jeremiah 39:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: who made signs and wonders in land of Egypt until this day, and in Israel and among natives, and made name for yourself as this day.
 - brenton: [missing]
 
 ### Jeremiah 39:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you brought your people Israel out from land of Egypt with signs and with wonders and with strong hand and with high arm and with great visions.
 - brenton: [missing]
 
 ### Jeremiah 39:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you gave them this land which you swore to their fathers, land flowing milk and honey.
 - brenton: [missing]
 
 ### Jeremiah 39:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they entered and took it, and they did not hear your voice, and in your ordinances they did not walk. All that you commanded them they did not do, and you made all these evils happen to them.
 - brenton: [missing]
 
 ### Jeremiah 39:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, crowd comes to this city to seize it, and city was given into hands of Chaldeans fighting against it from face of sword and famine. As you spoke, so it happened.
 - brenton: [missing]
 
 ### Jeremiah 39:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you say to me, Buy field for yourself with silver, and I wrote scroll and sealed and brought witnesses, and city was given into hands of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 39:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Jeremiah 39:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am Lord, God of all flesh. Will anything be hidden from me?
 - brenton: [missing]
 
 ### Jeremiah 39:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord God of Israel: This city in being given over will be handed into hands of king of Babylon, and he will take it.
 - brenton: [missing]
 
 ### Jeremiah 39:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Chaldeans fighting against this city will come and burn this city with fire and burn houses in which they burned incense on their roofs to Baal and poured libations to other gods to provoke me.
 - brenton: [missing]
 
 ### Jeremiah 39:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because sons of Israel and sons of Judah alone were doing evil before my eyes from their youth.
 - brenton: [missing]
 
 ### Jeremiah 39:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because this city has been for my anger and for my wrath from day they built it even until this day, to remove it from before my face,
 - brenton: [missing]
 
 ### Jeremiah 39:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of all evils of sons of Israel and Judah which they did to provoke me, they and their kings and their rulers and their priests and their prophets, men of Judah and dwellers of Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 39:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they turned to me back and not face, and I taught them rising early and teaching, and they did not hear to receive discipline.
 - brenton: [missing]
 
 ### Jeremiah 39:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they set their defilements in house on which my name was called, by their uncleannesses.
 - brenton: [missing]
 
 ### Jeremiah 39:35
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they built altars to Baal in valley of son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
 - brenton: [missing]
 
 ### Jeremiah 39:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now thus said Lord God of Israel concerning this city which you say will be handed into hands of king of Babylon by sword and famine and by sending away:
 - brenton: [missing]
 
 ### Jeremiah 39:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I gather them from all lands where I scattered them there in my anger and in my wrath and in great provocation, and I will restore them to this place and settle them in confidence.
 - brenton: [missing]
 
 ### Jeremiah 39:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will be people to me, and I will be God to them.
 - brenton: [missing]
 
 ### Jeremiah 39:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give them another way and another heart, to fear me all days, for good to them and to their children after them.
 - brenton: [missing]
 
 ### Jeremiah 39:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make with them everlasting covenant, which I will certainly not turn away from behind them, and my fear I will give into their heart, so that they not depart from me.
 - brenton: [missing]
 
 ### Jeremiah 39:41
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will visit to do them good and plant them in this land in faithfulness and in all heart and in all soul.
 - brenton: [missing]
 
 ### Jeremiah 39:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: As I brought upon this people all these great evils, so I will bring upon them all good things which I spoke upon them.
 - brenton: [missing]
 
 ### Jeremiah 39:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fields will still be bought in land which you say is trackless waste, from men and cattle, and they were handed into hands of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 39:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will buy fields with silver and write scroll and seal and bring witnesses in land of Benjamin and around Jerusalem and in cities of Judah and in cities of hill country and in cities of lowland and in cities of Negeb, because I will restore their exiles.
 - brenton: [missing]
 
 ### Jeremiah 40:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Jeremiah second time, and he was still bound in court of prison, saying,
 - brenton: [missing]
 
 ### Jeremiah 40:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord, making earth and forming it to set it upright, Lord his name,
 - brenton: [missing]
 
 ### Jeremiah 40:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cry to me and I will answer you and announce to you great and mighty things which you did not know.
 - brenton: [missing]
 
 ### Jeremiah 40:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord God of Israel concerning houses of this city and concerning houses of king of Judah, torn down into trenches and defenses,
 - brenton: [missing]
 
 ### Jeremiah 40:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to fight against Chaldeans and to fill it with dead men whom I struck in my anger and wrath, and I turned away my face from them because of all their evils.
 - brenton: [missing]
 
 ### Jeremiah 40:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I bring up healing and remedy to her and reveal to them hearing, and I will heal her and make for them peace and faithfulness.
 - brenton: [missing]
 
 ### Jeremiah 40:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will restore exile of Judah and exile of Israel and build them as before.
 - brenton: [missing]
 
 ### Jeremiah 40:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cleanse them from all their injustices with which they sinned against me, and I will no longer remember sins with which they sinned against me and departed from me.
 - brenton: [missing]
 
 ### Jeremiah 40:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be for joy and for praise and for greatness to every people of earth who hear all good things which I will do. And they will fear and be embittered concerning all good things and all peace which I will make for them.
 - brenton: [missing]
 
 ### Jeremiah 40:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord: Still in this place, which you say is desolate from men and cattle, in cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle, it will be heard
 - brenton: [missing]
 
 ### Jeremiah 40:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: voice of gladness and voice of joy, voice of bridegroom and voice of bride, voice of those saying, Give thanks to Lord Almighty, because good is Lord, because his mercy is forever. And they will bring gifts into house of Lord, because I will restore all exile of that land as before, said Lord.
 - brenton: [missing]
 
 ### Jeremiah 40:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord of hosts: Still there will be in this place, this desolate one because there is no man and cattle, and in all its cities, dwellings of shepherds laying sheep down.
 - brenton: [missing]
 
 ### Jeremiah 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In cities of hill country and in cities of lowland and in cities of Negeb and in land of Benjamin and around Jerusalem and in cities of Judah, sheep will still pass under hand of one counting, said Lord.
 - brenton: [missing]
 
 ### Jeremiah 41:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word that came to Jeremiah from Lord, while Nebuchadnezzar king of Babylon and all his camp and all land of his rule fought against Jerusalem and against all cities of Judah, saying,
 - brenton: [missing]
 
 ### Jeremiah 41:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord: Go to Zedekiah king of Judah and say to him, Thus said Lord: This city in being handed over will be handed into hands of king of Babylon, and he will seize it and burn it with fire.
 - brenton: [missing]
 
 ### Jeremiah 41:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will certainly not be saved from his hand, because in seizing you will be seized and into his hands you will be given, and your eyes will see his eyes, and his mouth will speak with your mouth, and you will enter Babylon.
 - brenton: [missing]
 
 ### Jeremiah 41:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But hear word of Lord, Zedekiah king of Judah. Thus says Lord:
 - brenton: [missing]
 
 ### Jeremiah 41:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In peace you will die, and as they lamented your fathers, kings ruling before you, they will lament you also, and saying, Oh lord, they will beat themselves for you, because I spoke word, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 41:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah spoke all these words to king Zedekiah in Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 41:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And force of king of Babylon fought against Jerusalem and against cities of Judah, against Lachish and against Azekah, because these were left among cities of Judah, fortified cities.
 - brenton: [missing]
 
 ### Jeremiah 41:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word came to Jeremiah from Lord after king Zedekiah finished covenant with people, to proclaim release,
 - brenton: [missing]
 
 ### Jeremiah 41:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to send out each his male servant and each his female servant, the Hebrew and the Hebrew woman, free, so that no man from Judah should enslave them.
 - brenton: [missing]
 
 ### Jeremiah 41:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all nobles and all people who entered covenant turned, to send out each his male servant and each his female servant.
 - brenton: [missing]
 
 ### Jeremiah 41:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they drove them away into male servants and female servants.
 - brenton: [missing]
 
 ### Jeremiah 41:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Jeremiah, saying,
 - brenton: [missing]
 
 ### Jeremiah 41:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord God of Israel: I made covenant with your fathers in day when I brought them out from land of Egypt, out of house of slavery, saying,
 - brenton: [missing]
 
 ### Jeremiah 41:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When six years are completed, you will send out your Hebrew brother who was sold to you, and he will work for you six years, and you will send him out free. And they did not hear me and did not incline their ear.
 - brenton: [missing]
 
 ### Jeremiah 41:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And today you turned to do what is right before my eyes, to proclaim release each to his neighbor, and completed covenant before my face in house on which my name was called.
 - brenton: [missing]
 
 ### Jeremiah 41:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you turned back and profaned my name, by turning back each his male servant and each his female servant whom you sent out free according to their soul, and you took them for yourselves as male servants and female servants.
 - brenton: [missing]
 
 ### Jeremiah 41:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of earth.
 - brenton: [missing]
 
 ### Jeremiah 41:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give the men who passed over my covenant, those not keeping my covenant which they made before my face, like calf which they made to work for him,
 - brenton: [missing]
 
 ### Jeremiah 41:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the rulers of Judah and the mighty men and the priests and the people,
 - brenton: [missing]
 
 ### Jeremiah 41:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I will give them to their enemies, and their dead bodies will be food to birds of heaven and beasts of earth.
 - brenton: [missing]
 
 ### Jeremiah 41:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Zedekiah king of Judah and their rulers I will give into hands of their enemies and force of king of Babylon to those fleeing away from them.
 - brenton: [missing]
 
 ### Jeremiah 41:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I command, says Lord, and I will return them to this land, and they will fight against it and take it and burn it with fire, and cities of Judah I will give desolate, with no dwellers.
 - brenton: [missing]
 
 ### Jeremiah 42:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word that came to Jeremiah from Lord in days of Jehoiakim king of Judah, saying,
 - brenton: [missing]
 
 ### Jeremiah 42:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go into house of Rechab and bring them into house of Lord, into one of courts, and make them drink wine.
 - brenton: [missing]
 
 ### Jeremiah 42:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I brought out Jezoniah son of Jeremin son of Chabasin and his brothers and his sons and all house of Rechab,
 - brenton: [missing]
 
 ### Jeremiah 42:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and I brought them into house of Lord, into chamber of sons of Hanan son of Godoliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
 - brenton: [missing]
 
 ### Jeremiah 42:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I set before their face jar of wine and cups and said, Drink wine.
 - brenton: [missing]
 
 ### Jeremiah 42:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said, We will certainly not drink wine, because Jonadab son of Rechab our father commanded us, saying, You and your sons will certainly not drink wine forever.
 - brenton: [missing]
 
 ### Jeremiah 42:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will not build house, and seed you will not sow, and vineyard will not be yours, because in tents you will dwell all your days, so that you may live many days upon land on which you sojourn.
 - brenton: [missing]
 
 ### Jeremiah 42:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we listened to voice of Jonadab our father, so as not to drink wine all our days, we and our wives and our sons and our daughters,
 - brenton: [missing]
 
 ### Jeremiah 42:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and so as not to build houses to dwell there, and vineyard and field and seed did not come to be for us.
 - brenton: [missing]
 
 ### Jeremiah 42:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we dwelt in tents and listened and did according to all that Jonadab our father commanded us.
 - brenton: [missing]
 
 ### Jeremiah 42:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when Nebuchadnezzar came up against land, we said, Enter, and let us enter Jerusalem from face of force of Chaldeans and from face of force of Assyrians, and we dwelt there.
 - brenton: [missing]
 
 ### Jeremiah 42:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Jeremiah 42:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Go and say to man of Judah and to those dwelling in Jerusalem, Will you not receive discipline by hearing my words?
 - brenton: [missing]
 
 ### Jeremiah 42:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of sons of Jonadab son of Rechab stand, who commanded his children not to drink wine, and they did not drink, and I spoke to you early and spoke, and you did not hear.
 - brenton: [missing]
 
 ### Jeremiah 42:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I sent to you my servants the prophets, saying, Each turn back from his evil way and make your practices better, and do not go after other gods to serve them, and you will dwell upon land which I gave to you and to your fathers, and you did not incline your ears and did not hear.
 - brenton: [missing]
 
 ### Jeremiah 42:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Jonadab son of Rechab kept command of their father, but this people did not hear me.
 - brenton: [missing]
 
 ### Jeremiah 42:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord: Behold, I bring upon Judah and upon those dwelling in Jerusalem all evils which I spoke against them.
 - brenton: [missing]
 
 ### Jeremiah 42:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord: Because sons of Jonadab son of Rechab heard command of their father, doing exactly as their father commanded them,
 - brenton: [missing]
 
 ### Jeremiah 42:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: man from sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
 - brenton: [missing]
 
 ### Jeremiah 43:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in fourth year of Jehoiakim son of Josiah king of Judah, word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Jeremiah 43:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from day when I spoke to you, from days of Josiah king of Judah until this day.
 - brenton: [missing]
 
 ### Jeremiah 43:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Perhaps house of Judah will hear all evils which I plan to do to them, so that they may turn back from their evil way, and I will be merciful to their injustices and their sins.
 - brenton: [missing]
 
 ### Jeremiah 43:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah called Baruch son of Neriah, and Baruch wrote from mouth of Jeremiah all words of Lord which he answered to him into scroll-sheet.
 - brenton: [missing]
 
 ### Jeremiah 43:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah commanded Baruch, saying, I am guarded. I cannot enter house of Lord.
 - brenton: [missing]
 
 ### Jeremiah 43:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will read from this sheet into ears of people in house of Lord in day of fasting, and in ears of all Judah coming from their cities you will read to them.
 - brenton: [missing]
 
 ### Jeremiah 43:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Perhaps their mercy will fall before face of Lord and they will turn back from their evil way, because great is anger and wrath of Lord which he spoke against this people.
 - brenton: [missing]
 
 ### Jeremiah 43:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Baruch did according to all that Jeremiah commanded him, to read in scroll words of Lord in house of Lord.
 - brenton: [missing]
 
 ### Jeremiah 43:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in eighth year of reign of Jehoiakim, in ninth month, all people in Jerusalem and house of Judah proclaimed fast before Lord.
 - brenton: [missing]
 
 ### Jeremiah 43:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Baruch read in scroll words of Jeremiah in house of Lord, in house of Gamariah son of Shaphan the scribe, in upper court, in entrance of new gate of house of Lord, in ears of all people.
 - brenton: [missing]
 
 ### Jeremiah 43:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Micaiah son of Gamariah son of Shaphan heard all words of Lord from scroll,
 - brenton: [missing]
 
 ### Jeremiah 43:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and went down to house of king, to house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achobor and Gamariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
 - brenton: [missing]
 
 ### Jeremiah 43:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Micaiah announced to them all words which he heard while Baruch read into ears of people.
 - brenton: [missing]
 
 ### Jeremiah 43:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all rulers sent to Baruch son of Neriah Jehudi son of Nethaniah son of Shelemiah son of Chusi, saying, Scroll in which you read in ears of people, take it in your hand and come. And Baruch took scroll and went down to them.
 - brenton: [missing]
 
 ### Jeremiah 43:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said to him, Read again into our ears. And Baruch read.
 - brenton: [missing]
 
 ### Jeremiah 43:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when they heard all words, each took counsel with his neighbor and said, Announcing, let us announce to king all these words.
 - brenton: [missing]
 
 ### Jeremiah 43:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they asked Baruch, saying, From where did you write all these words?
 - brenton: [missing]
 
 ### Jeremiah 43:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Baruch said, From his mouth Jeremiah announced to me all these words, and I wrote in scroll.
 - brenton: [missing]
 
 ### Jeremiah 43:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said to Baruch, Go hide, you and Jeremiah. Let no man know where you are.
 - brenton: [missing]
 
 ### Jeremiah 43:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they entered to king into court, and scroll they gave to keep in house of Elishama, and they announced to king all words.
 - brenton: [missing]
 
 ### Jeremiah 43:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king sent Jehudi to take scroll, and he took it from house of Elishama and read it into ears of king and into ears of all rulers standing around king.
 - brenton: [missing]
 
 ### Jeremiah 43:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king sat in winter house, and hearth of fire before his face.
 - brenton: [missing]
 
 ### Jeremiah 43:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened while Jehudi read three pages and four, he cut them off with scribe’s knife and threw into fire on hearth until whole sheet was gone into fire on hearth.
 - brenton: [missing]
 
 ### Jeremiah 43:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king and his servants hearing all these words did not seek and did not tear their garments.
 - brenton: [missing]
 
 ### Jeremiah 43:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elnathan and Godoliah and Gamariah urged king not to burn scroll.
 - brenton: [missing]
 
 ### Jeremiah 43:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king commanded Jeremeeel son of king and Seraiah son of Esriel to seize Baruch and Jeremiah, and they hid themselves.
 - brenton: [missing]
 
 ### Jeremiah 43:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from mouth of Jeremiah, saying,
 - brenton: [missing]
 
 ### Jeremiah 43:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Again take for yourself another sheet and write all words that were on former sheet which king Jehoiakim burned.
 - brenton: [missing]
 
 ### Jeremiah 43:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say, Thus said Lord: You burned this sheet, saying, Why did you write on it, saying, In entering king of Babylon will enter and destroy this land and man and cattle will fail from it?
 - brenton: [missing]
 
 ### Jeremiah 43:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on throne of David, and his corpse will be thrown out in heat of day and frost of night.
 - brenton: [missing]
 
 ### Jeremiah 43:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon land of Judah all evils which I spoke to them and they did not hear.
 - brenton: [missing]
 
 ### Jeremiah 43:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Baruch took another sheet and wrote on it from mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
 - brenton: [missing]
 
 ### Jeremiah 44:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made reign over Judah.
 - brenton: [missing]
 
 ### Jeremiah 44:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he and his servants and people of land did not hear words of Lord which he spoke by hand of Jeremiah.
 - brenton: [missing]
 
 ### Jeremiah 44:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king Zedekiah sent Jucal son of Shelemiah and Zephaniah son of Maaseiah the priest to Jeremiah, saying, Pray now concerning us to Lord.
 - brenton: [missing]
 
 ### Jeremiah 44:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah came and passed through midst of city, and they had not given him into house of prison.
 - brenton: [missing]
 
 ### Jeremiah 44:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And force of Pharaoh went out from Egypt, and Chaldeans heard their report and went up from Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 44:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Jeremiah, saying,
 - brenton: [missing]
 
 ### Jeremiah 44:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord: Thus you will say to king of Judah who sent to you to seek me: Behold, force of Pharaoh which came out to help you will return into land of Egypt.
 - brenton: [missing]
 
 ### Jeremiah 44:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these Chaldeans will return and fight against this city and seize it and burn it with fire.
 - brenton: [missing]
 
 ### Jeremiah 44:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: Do not assume in your souls, saying, In fleeing away Chaldeans will go away from us, because they will certainly not go away.
 - brenton: [missing]
 
 ### Jeremiah 44:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you strike all force of Chaldeans fighting you and some remain pierced, each in his place, these will rise up and burn this city with fire.
 - brenton: [missing]
 
 ### Jeremiah 44:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when force of Chaldeans went up from Jerusalem from face of force of Pharaoh,
 - brenton: [missing]
 
 ### Jeremiah 44:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in midst of people.
 - brenton: [missing]
 
 ### Jeremiah 44:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened he was at gate of Benjamin, and there man with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You flee to Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 44:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, False. I do not flee to Chaldeans. And he did not hear him, and Seraiah seized Jeremiah and brought him to rulers.
 - brenton: [missing]
 
 ### Jeremiah 44:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rulers were embittered against Jeremiah and struck him and sent him into house of Jonathan the scribe, because they made this into house of prison.
 - brenton: [missing]
 
 ### Jeremiah 44:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah came into house of pit and into cells and sat there many days.
 - brenton: [missing]
 
 ### Jeremiah 44:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Zedekiah sent and called him, and king asked him secretly, to say whether there is word from Lord. And he said, There is. Into hands of king of Babylon you will be handed over.
 - brenton: [missing]
 
 ### Jeremiah 44:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to king, What wrong did I do to you and your servants and this people, that you give me into house of prison?
 - brenton: [missing]
 
 ### Jeremiah 44:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And where are your prophets who prophesied to you, saying that king of Babylon will certainly not come against this land?
 - brenton: [missing]
 
 ### Jeremiah 44:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, lord king, let my mercy fall before your face, and why do you turn me back into house of Jonathan the scribe, so that I not die there?
 - brenton: [missing]
 
 ### Jeremiah 44:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king commanded, and they put him into house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from city. And Jeremiah sat in court of prison.
 - brenton: [missing]
 
 ### Jeremiah 45:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Shephatiah son of Mattan and Gedoliah son of Pashhur and Jucal son of Shelemiah heard words which Jeremiah spoke to people, saying,
 - brenton: [missing]
 
 ### Jeremiah 45:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus said Lord: One dwelling in this city will die by sword and by famine, and one going out to Chaldeans will live, and his soul will be for gain and he will live.
 - brenton: [missing]
 
 ### Jeremiah 45:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus said Lord: This city in being handed over will be handed into hands of force of king of Babylon, and he will seize it.
 - brenton: [missing]
 
 ### Jeremiah 45:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said to king, Let that man be killed, because he weakens hands of men fighting, remaining in city, and hands of all people, speaking to them according to these words, because this man does not seek peace for this people but evil.
 - brenton: [missing]
 
 ### Jeremiah 45:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said, Behold, he is in your hands, because king was not able against them.
 - brenton: [missing]
 
 ### Jeremiah 45:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they threw him into pit of Malchiah son of king, which was in court of prison, and lowered him into pit, and in pit there was no water but mire, and he was in mire.
 - brenton: [missing]
 
 ### Jeremiah 45:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ebed-melech the Ethiopian heard, and he was in house of king, that they put Jeremiah into pit, and king was in gate of Benjamin.
 - brenton: [missing]
 
 ### Jeremiah 45:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he went out to him and spoke to king and said,
 - brenton: [missing]
 
 ### Jeremiah 45:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You did evil, what you did, to kill this man from face of famine, because there are no longer breads in city.
 - brenton: [missing]
 
 ### Jeremiah 45:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king commanded Ebed-melech, saying, Take thirty men in your hands from here and bring him up out of pit so that he not die.
 - brenton: [missing]
 
 ### Jeremiah 45:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ebed-melech took the men and entered into lower chamber of house of king and took from there old rags and old ropes and threw them to Jeremiah into pit.
 - brenton: [missing]
 
 ### Jeremiah 45:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Put these under ropes. And Jeremiah did so.
 - brenton: [missing]
 
 ### Jeremiah 45:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they pulled him with ropes and brought him up from pit, and Jeremiah sat in court of prison.
 - brenton: [missing]
 
 ### Jeremiah 45:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king sent and called him to himself into third house in house of Lord, and king said to him, I will ask you word, and do not hide thing from me.
 - brenton: [missing]
 
 ### Jeremiah 45:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to king, If I tell you, will you not surely kill me? And if I advise you, you will certainly not hear me.
 - brenton: [missing]
 
 ### Jeremiah 45:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king swore to him, saying, As Lord lives, who made this soul for us, if I kill you and if I give you into hands of these men.
 - brenton: [missing]
 
 ### Jeremiah 45:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to him, Thus said Lord: If in going out you go out to rulers of king of Babylon, your soul will live and this city will certainly not be burned with fire, and you and your house will live.
 - brenton: [missing]
 
 ### Jeremiah 45:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you do not go out, this city will be given into hands of Chaldeans, and they will burn it with fire, and you will certainly not be saved.
 - brenton: [missing]
 
 ### Jeremiah 45:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said to Jeremiah, I have concern because of Judeans who fled to Chaldeans, lest they give me into their hands and they mock me.
 - brenton: [missing]
 
 ### Jeremiah 45:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said, They will certainly not hand you over. Hear word of Lord which I speak to you, and it will be better for you and your soul will live.
 - brenton: [missing]
 
 ### Jeremiah 45:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you do not want to go out, this is word which Lord showed me:
 - brenton: [missing]
 
 ### Jeremiah 45:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, all women left in house of king of Judah were being brought out to rulers of king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
 - brenton: [missing]
 
 ### Jeremiah 45:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your wives and your children they will bring out to Chaldeans, and you will certainly not be saved, because by hand of king of Babylon you will be seized, and this city will be burned.
 - brenton: [missing]
 
 ### Jeremiah 45:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king said to him, Let no man know of these words, and you will certainly not die.
 - brenton: [missing]
 
 ### Jeremiah 45:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if rulers hear that I spoke to you and come to you and say, Announce to us what king spoke to you, do not hide from us and we will certainly not kill you, and what king spoke to you,
 - brenton: [missing]
 
 ### Jeremiah 45:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you will say to them, I cast my mercy before eyes of king, so as not to turn me back to house of Jonathan to die there.
 - brenton: [missing]
 
 ### Jeremiah 45:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all rulers came to Jeremiah and questioned him, and he announced to them according to all these words which king commanded him, and they were silent, because word of Lord was not heard.
 - brenton: [missing]
 
 ### Jeremiah 45:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah sat in court of prison until time when Jerusalem was taken.
 - brenton: [missing]
 
 ### Jeremiah 46:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in ninth year of Zedekiah king of Judah, in tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
 - brenton: [missing]
 
 ### Jeremiah 46:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in eleventh year of Zedekiah, in fourth month, ninth of month, city was breached.
 - brenton: [missing]
 
 ### Jeremiah 46:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all rulers of king of Babylon entered and sat in middle gate: Nergal-sareser and Samagoth and Nebusachar and Nebusaris and Nagargasnaser, Rabmag, and rest of rulers of king of Babylon.
 - brenton: [missing]
 
 ### Jeremiah 46:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they sent and took Jeremiah from court of prison and gave him to Gedoliah son of Ahikam son of Shaphan, and they brought him out and he sat in midst of people.
 - brenton: [missing]
 
 ### Jeremiah 46:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to Jeremiah word of Lord came in court of prison, saying,
 - brenton: [missing]
 
 ### Jeremiah 46:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go and say to Ebed-melech the Ethiopian, Thus said Lord God of Israel: Behold, I bring my words upon this city for evils and not for good.
 - brenton: [missing]
 
 ### Jeremiah 46:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will save you in that day, and I will certainly not give you into hands of men whose face you fear from before them.
 - brenton: [missing]
 
 ### Jeremiah 46:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because saving I will save you, and by sword you will certainly not fall, and your soul will be for gain, because you trusted on me, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 47:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word that came from Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in midst of exile of Judah being led to Babylon.
 - brenton: [missing]
 
 ### Jeremiah 47:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And chief cook took him and said to him, Lord your God spoke these evils against this place.
 - brenton: [missing]
 
 ### Jeremiah 47:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord did it because you sinned against him and did not hear his voice.
 - brenton: [missing]
 
 ### Jeremiah 47:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I loosed you from handcuffs on your hands. If it is good before you to come with me into Babylon, come, and I will set my eyes on you.
 - brenton: [missing]
 
 ### Jeremiah 47:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if not, run back and return to Gedoliah son of Ahikam son of Shaphan, whom king of Babylon appointed in land of Judah, and dwell with him in midst of people in land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
 - brenton: [missing]
 
 ### Jeremiah 47:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he came to Gedoliah at Mizpah and sat in midst of people left in land.
 - brenton: [missing]
