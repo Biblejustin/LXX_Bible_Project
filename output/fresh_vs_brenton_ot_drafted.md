@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 5484
-- medium: 3566
-- low: 13712
+- high: 5544
+- medium: 3551
+- low: 13667
 - none: 155
 
 Note:
@@ -1770,9 +1770,9 @@ Note:
 
 ### Genesis 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And toward evening the dove returned to him, and had an olive-leaf fragment in its mouth. And Noah knew that the water had subsided from the earth.
 - brenton: And the dove returned to him in the evening, and had a leaf of olive, a sprig in her mouth; and Noe knew that the water had ceased from off the earth.
@@ -6639,9 +6639,9 @@ Note:
 
 ### Genesis 27:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then, my son, hear me, as I command you.
 - brenton: Now then, my son, hearken to me, as I command thee.
@@ -6864,9 +6864,9 @@ Note:
 
 ### Genesis 27:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaac was overcome with a very great astonishment and said, Who then was the one who hunted game for me and brought it to me? And I ate from everything before you came, and I blessed him, and blessed he shall be.
 - brenton: And Isaac was amazed with very great amazement, and said, Who then is it that has procured venison for me and brought it to me? and I have eaten of all before thou camest, and I have blessed him, and he shall be blessed.
@@ -8034,9 +8034,9 @@ Note:
 
 ### Genesis 31:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jacob rose and took his wives and his children on the camels.
 - brenton: And Jacob arose and took his wives and his children up on the camels;
@@ -10968,9 +10968,9 @@ Note:
 
 ### Genesis 41:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seven other ears, thin and wind-stricken, sprang up close after them.
 - brenton: And other seven ears, thin and blasted with the wind, sprang up close to them.
@@ -11364,9 +11364,9 @@ Note:
 
 ### Genesis 42:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said, No, lord. Your servants came to buy food.
 - brenton: But they said, Nay, Sir, we thy servants are come to buy food;
@@ -11922,9 +11922,9 @@ Note:
 
 ### Genesis 43:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they took portions from him to themselves, but Benjamin's portion was enlarged beyond the portions of all, fivefold beyond theirs, and they drank and became drunk with him.
 - brenton: And they took their portions from him to themselves; but Benjamin's portion was five times as much as the portions of the others. And they drank and were filled with drink with him.
@@ -13434,9 +13434,9 @@ Note:
 
 ### Genesis 49:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gad, a raiding troop will raid him, but he will raid it at heel.
 - brenton: Gad, a plundering troop shall plunder him; but he shall plunder him, pursuing him closely.
@@ -14867,9 +14867,9 @@ Note:
 
 ### Exodus 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the scribes of the sons of Israel saw themselves in trouble, as it was said, 'You shall not leave off from the bricks assigned each day.'
 - brenton: And the accountants of the children of Israel saw themselves in an evil plight, men saying, Ye shall not fail to deliver the daily rate of the brick-making.
@@ -25714,9 +25714,9 @@ Note:
 
 ### Leviticus 7:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every person who eats blood, that person shall perish from his people.
 - brenton: Every soul that shall eat blood, that soul shall perish from his people.
@@ -26533,9 +26533,9 @@ Note:
 
 ### Leviticus 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses heard, and it pleased him.
 - brenton: And Moses heard it, and it pleased him.
@@ -27442,9 +27442,9 @@ Note:
 
 ### Leviticus 13:46
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All the days that the mark is upon him, he shall be unclean. Being unclean, he shall dwell apart. His dwelling shall be outside the camp.
 - brenton: All the days in which the plague shall be upon him, being unclean, he shall be esteemed unclean; he shall dwell apart, his place of sojourn shall be without the camp.
@@ -32655,9 +32655,9 @@ Note:
 
 ### Numbers 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His force, the ones counted, was forty thousand five hundred.
 - brenton: His forces that were numbered, are forty thousand and five hundred.
@@ -34986,9 +34986,9 @@ Note:
 
 ### Numbers 7:87
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All the cattle for whole burnt offering were twelve bulls, twelve rams, twelve yearling lambs, and their sacrifices and their libations, and twelve goat kids for sin offering.
 - brenton: All the cattle for whole-burnt-offerings, twelve calves, twelve rams, twelve he-lambs of a year old, and their meat-offerings, and their drink-offerings: and twelve kids of the goats for sin-offering.
@@ -38550,9 +38550,9 @@ Note:
 
 ### Numbers 20:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they set out from Kadesh, and the sons of Israel, the whole congregation, came to Mount Hor.
 - brenton: And they departed from Cades; and the children of Israel, even the whole congregation, came to Mount Or.
@@ -41025,9 +41025,9 @@ Note:
 
 ### Numbers 28:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Besides the continual whole burnt offering and their sacrifice you shall do them for me. They shall be without blemish for you, and their libations.
 - brenton: ye shall offer to me their meat-offering. They shall be to you unblemished, and ye shall offer their drink-offerings.
@@ -41655,9 +41655,9 @@ Note:
 
 ### Numbers 31:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses was angry with the overseers of the force, the chiliarchs and centurions coming from the battle line of the war.
 - brenton: And Moses was angry with the captains of the host, the heads of thousands and the heads of hundreds who came from the battle-array.
@@ -41727,9 +41727,9 @@ Note:
 
 ### Numbers 31:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except the gold and the silver and bronze and iron and lead and tin,
 - brenton: Beside the gold, and the silver, and the brass, and the iron, and lead, and tin,
@@ -44330,9 +44330,9 @@ Note:
 
 ### Deuteronomy 2:37
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except to the land of the sons of Ammon we did not come near, all adjoining the torrent Jabbok, and the cities in the hill country, just as the Lord our God commanded us.
 - brenton: Only we did not draw near to the children of Amman, even all the parts bordering on the brook Jaboc, and the cities in the mountain country, as the Lord our God charged us.
@@ -46886,9 +46886,9 @@ Note:
 
 ### Deuteronomy 12:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Watch yourself lest you abandon the Levite for all the time that you live on the land.
 - brenton: Take heed to thyself that thou do not desert the Levite all the time that thou livest upon the earth.
@@ -46958,9 +46958,9 @@ Note:
 
 ### Deuteronomy 12:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall make your whole burnt offerings: the meat you shall offer on the altar of the Lord your God, and the blood of your sacrifices you shall pour out at the base of the altar of the Lord your God, but the meat you shall eat.
 - brenton: And thou shalt sacrifice thy whole-burnt-offerings, thou shalt offer the flesh upon the altar of the Lord thy God; but the blood of thy sacrifices thou shalt pour out at the foot of the altar of the Lord thy God, but the flesh thou shalt eat.
@@ -48677,9 +48677,9 @@ Note:
 
 ### Deuteronomy 21:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and you see in the spoil a woman beautiful in appearance and desire her and take her for yourself as a wife,
 - brenton: and shouldest see among the spoil a woman beautiful in countenance, and shouldest desire her, and take her to thyself for a wife,
@@ -49703,9 +49703,9 @@ Note:
 
 ### Deuteronomy 26:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Egyptians afflicted us and humbled us and laid hard works on us.
 - brenton: And the Egyptians afflicted us, and humbled us, and imposed hard tasks on us:
@@ -51026,9 +51026,9 @@ Note:
 
 ### Deuteronomy 30:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because this command that I command you today is not excessively hard, nor is it far from you.
 - brenton: For this command which I give thee this day is not grievous, neither is it far from thee.
@@ -51548,9 +51548,9 @@ Note:
 
 ### Deuteronomy 32:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord saw and was jealous and was provoked through the anger of his sons and daughters.
 - brenton: And the Lord saw, and was jealous; and was provoked by the anger of his sons and daughters,
@@ -52225,9 +52225,9 @@ Note:
 
 ### Joshua 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened after the death of Moses, the Lord said to Joshua son of Nun, minister of Moses, saying,
 - brenton: And it came to pass after the death of Moses, that the Lord spoke to Joshua the son of Naue, the minister of Moses, saying,
@@ -52567,9 +52567,9 @@ Note:
 
 ### Joshua 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she said to them, According to your word, so let it be. And she sent them away.
 - brenton: And she said to them, Let it be according to your word; and she sent them out, and they departed.
@@ -52765,9 +52765,9 @@ Note:
 
 ### Joshua 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take men from the people, one from each tribe,
 - brenton: Take men from the people, one of each tribe,
@@ -52927,9 +52927,9 @@ Note:
 
 ### Joshua 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Joshua set up these twelve stones that he took from the Jordan in Galgala,
 - brenton: And Joshua set these twelve stones which he took out of Jordan, in Galgala,
@@ -53539,9 +53539,9 @@ Note:
 
 ### Joshua 7:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they brought them out from the tent and carried them to Joshua and the elders of Israel and placed them before the Lord.
 - brenton: And they brought them out of the tent, and brought them to Joshua and the elders of Israel, and they laid them before the Lord.
@@ -53791,9 +53791,9 @@ Note:
 
 ### Joshua 8:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except the cattle and the spoils in the city, everything that the sons of Israel plundered according to the command of the Lord, in the way the Lord ordered Joshua.
 - brenton: Beside the spoils that were in the city, all things which the children of Israel took as spoil for themselves according to the command of the Lord, as the Lord commanded Joshua.
@@ -55303,18 +55303,18 @@ Note:
 
 ### Joshua 15:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and go to Asemona and come out to the ravine of Egypt, and the boundary's outlet shall be to the sea. This is their southern boundary.
 - brenton: And they go out to Selmona, and issue at the valley of Egypt; and the termination of its boundaries shall be at the sea: these are their boundaries southward.
 
 ### Joshua 15:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the boundary from the east is the whole Salt Sea up to the Jordan, and their boundaries from the north are from the ridge of the sea and from the part of the Jordan,
 - brenton: And their boundaries eastward are all the salt sea as far as Jordan; and their borders from the north, and from the border of the sea, and from part of Jordan—
@@ -55465,9 +55465,9 @@ Note:
 
 ### Joshua 15:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Ikam and Regma and Arouel,
 - brenton: and Icam, and Regma, and Aruel,
@@ -55843,9 +55843,9 @@ Note:
 
 ### Joshua 16:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the boundaries of the sons of Joseph came to be from the Jordan by Jericho from the east, and it will go up from Jericho into the hill-country wilderness to Bethel Louza,
 - brenton: And the borders of the children of Joseph were from Jordan by Jericho eastward; and they will go up from Jericho to the hill country, to the wilderness, to Bæthel Luza.
@@ -55969,9 +55969,9 @@ Note:
 
 ### Joshua 17:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their line fell from Anassa and the plain of Labek from Gilead, which is beyond the Jordan,
 - brenton: And their lot fell to them from Anassa, and to the plain of Labec of the land of Galaad, which is beyond Jordan.
@@ -57085,9 +57085,9 @@ Note:
 
 ### Joshua 21:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All the cities were ten, and the set-apart lands toward them, for the clans of the sons of Kaath who were left over.
 - brenton: In all were given ten cities, and the suburbs of each belonging to them, to the families of the sons of Caath that remained.
@@ -61011,9 +61011,9 @@ Note:
 
 ### Judges 11:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the messengers turned back to Jephthae, and Jephthae again sent messengers to the king of the sons of Ammon,
 - brenton: And Jephthae again sent messengers to the king of the children of Ammon,
@@ -62937,9 +62937,9 @@ Note:
 
 ### Judges 20:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Benjamin heard that the sons of Israel had gone up to the Lord at Massēpha. And the sons of Israel said, Speak, where did this evil happen?
 - brenton: And the children of Benjamin heard that the children of Israel were gone up to Massepha: and the children of Israel came and said, Tell us, where did this wickedness take place?
@@ -63839,9 +63839,9 @@ Note:
 
 ### Ruth 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Boos said to Ruth, Have you not heard, daughter? Do not go to another field to glean, and do not go from here. Here stay close with my girls.
 - brenton: And Booz said to Ruth, Hast thou not heard, my daughter? go not to glean in another field; and depart not thou hence, join thyself here with my damsels.
@@ -65074,9 +65074,9 @@ Note:
 
 ### 1 Samuel 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Samouēl reported all the words and did not hide from him, and Heli said, He is the Lord; what is good before him he will do.
 - brenton: And Samuel reported all the words, and hid them not from him. And Heli said, He is the Lord, he shall do that which is good in his sight.
@@ -67855,9 +67855,9 @@ Note:
 
 ### 1 Samuel 16:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iessai brought Sama, and he said, Neither in this one has the Lord chosen.
 - brenton: And Jessæ caused Sama to pass by: and he said, Neither has God chosen this one.
@@ -68071,9 +68071,9 @@ Note:
 
 ### 1 Samuel 17:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the foreigner said, Behold, I have reproached the battle-line of Israel today in this day. Give me a man, and let the two of us fight alone.
 - brenton: And the Philistine said, Behold, I have defied the armies of Israel this very day: give me a man, and we will both of us fight in single combat.
@@ -68620,9 +68620,9 @@ Note:
 
 ### 1 Samuel 19:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Saoul sent messengers to take David, and they saw the assembly of the prophets, and Samouēl stood appointed over them. And the Spirit of God came upon the messengers of Saoul, and they prophesy.
 - brenton: And Saul sent messengers to take David, and they saw the assembly of the prophets, and Samuel stood as appointed over them; and the Spirit of God came upon the messengers of Saul, and they prophesy.
@@ -71583,9 +71583,9 @@ Note:
 
 ### 2 Samuel 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now may the Lord do mercy and truth with you, and indeed I will do these good things with you, because you did this word.
 - brenton: And now may the Lord deal in mercy and truth towards you: and I also will requite towards you this good deed, because ye have done this.
@@ -74238,9 +74238,9 @@ Note:
 
 ### 2 Samuel 13:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now let not my lord the king set on his heart a word, saying, All the sons of the king have died, because only Amnōn has died.
 - brenton: And now let not my lord the king take the matter to heart, saying, All the king's sons are dead: for Amnon only of them all is dead.
@@ -76488,9 +76488,9 @@ Note:
 
 ### 2 Samuel 21:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And again there was war at Geth, and there was a man of measure, and the fingers of his hands and the fingers of his feet were six and six, twenty-four in number, and he too was born to Rapha.
 - brenton: And there was yet a battle in Geth: and there was a man of stature, and the fingers of his hands and the toes of his feet were six on each, four and twenty in number: and he also was born to Rapha.
@@ -77145,9 +77145,9 @@ Note:
 
 ### 2 Samuel 23:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Banaias son of Iodae, he was a man abundant in deeds, from Kabeseel. He struck the two sons of Ariel of Moab, and he himself went down and struck the lion in the midst of the pit on the day of snow.
 - brenton: And Banæas the son of Jodae, he was abundant in mighty deeds, from Cabeseel, and he smote the two sons of Ariel of Moab: and he went down and smote a lion in the midst of a pit on a snowy day.
@@ -92316,9 +92316,9 @@ Note:
 
 ### 1 Chronicles 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because Iouda was strong in power among his brothers, and from him came a ruler, but the blessing was Ioseph's.
 - brenton: for Judas was very mighty even among his brethren, and one was to be a ruler out of him: but the blessing was Joseph's).
@@ -96843,9 +96843,9 @@ Note:
 
 ### 1 Chronicles 20:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he reproached Israel, and Ionathan son of Samaa brother of Dauid struck him.
 - brenton: And he defied Israel, and Jonathan the son of Samaa the brother of David slew him.
@@ -96906,9 +96906,9 @@ Note:
 
 ### 1 Chronicles 21:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Levi and Beniamin he did not count among them, because word of king overpowered Ioab.
 - brenton: But he numbered not Levi and Benjamin among them; for the word of the king was painful to Joab.
@@ -98139,9 +98139,9 @@ Note:
 
 ### 1 Chronicles 25:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Twenty-fourth, Rōmemthi-ōd, his sons and his brothers, twelve.
 - brenton: the twenty-fourth Rometthiezer, his sons and his brethren, twelve.
@@ -98220,9 +98220,9 @@ Note:
 
 ### 1 Chronicles 26:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to Mosollamia, sons and brothers, eighteen mighty men.
 - brenton: And Mosellemia had eighteen sons and brethren, mighty men.
@@ -102254,9 +102254,9 @@ Note:
 
 ### 2 Chronicles 17:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from Philistines they were bringing to Iōsaphat gifts and silver and tribute, and Arabs brought him seven thousand seven hundred rams of sheep.
 - brenton: And some of the Philistines brought to Josaphat gifts, and silver, and presents; and the Arabians brought him seven thousand seven hundred rams.
@@ -104495,9 +104495,9 @@ Note:
 
 ### 2 Chronicles 28:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Thaglathfellasar king of Assour came upon him and struck him.
 - brenton: And there came against him Thalgaphellasar king of Assyria, and he afflicted him.
@@ -106187,9 +106187,9 @@ Note:
 
 ### 2 Chronicles 35:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sacrifice Passover and prepare holy things for your brothers, to do according to word of Lord by hand of Mōusēs.
 - brenton: And kill ye the passover, and prepare it for your brethren, to do according to the word of the Lord, by the hand of Moses.
@@ -107341,9 +107341,9 @@ Note:
 
 ### Ezra 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
 - brenton: And they set up the altar on its place, for there was a terror upon them because of the people of the lands: and the whole-burnt-offering was offered up upon it to the Lord morning and evening.
@@ -109069,9 +109069,9 @@ Note:
 
 ### Ezra 10:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Machnadabou, Sese, Sarou,
 - brenton: Machadnabu, Sesei, Sariu,
@@ -109881,9 +109881,9 @@ Note:
 
 ### Nehemiah 5:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And some were saying, In our sons and in our daughters we are many, and we shall get grain and eat and live.
 - brenton: And some said, We are numerous with our sons and our daughters; so we will take corn, and eat, and live.
@@ -112500,9 +112500,9 @@ Note:
 
 ### Nehemiah 13:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were dwelling in it, bringing fish and every kind of merchandise, selling on the Sabbath to sons of Iouda and in Ierousalem.
 - brenton: and I testified in the day of their sale. Also their dwelt in it men bringing fish, and selling every kind of merchandise to the children of Juda and in Jerusalem on the sabbath.
