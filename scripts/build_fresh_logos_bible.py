@@ -23,6 +23,7 @@ try:
     from build_study_bible import (
         OPENBIBLE_BOOK_MAP,
         STANDARD_BOOK_NAMES,
+        TSK_NT_BOOKS,
         TSK_OT_BOOKS,
         TSK_ZIP,
         build_tsk_index_map,
@@ -38,6 +39,7 @@ except ImportError:  # pragma: no cover - supports module execution from repo ro
     from scripts.build_study_bible import (
         OPENBIBLE_BOOK_MAP,
         STANDARD_BOOK_NAMES,
+        TSK_NT_BOOKS,
         TSK_OT_BOOKS,
         TSK_ZIP,
         build_tsk_index_map,
@@ -72,6 +74,27 @@ DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
 DEFAULT_TEXTUAL_NOTES_HTML = Path.home() / "Desktop" / "The Lexham Textual Notes on the Bible.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
+
+TESTAMENT_CONFIG = {
+    "ot": {
+        "label": "OT",
+        "full_label": "Old Testament",
+        "source_text": "LXX Greek",
+        "title_prefix": "Fresh Translation OT",
+        "bridge_label": "MT Notes Bridge",
+        "preview_title": "Fresh Translation OT Logos Bible Preview",
+        "description": "Fresh Old Testament translation draft.",
+    },
+    "nt": {
+        "label": "NT",
+        "full_label": "New Testament",
+        "source_text": "Scrivener 1894 Textus Receptus Greek",
+        "title_prefix": "Fresh Translation NT TR",
+        "bridge_label": "Reference Notes Bridge",
+        "preview_title": "Fresh Translation NT TR Logos Bible Preview",
+        "description": "Fresh New Testament Textus Receptus translation draft.",
+    },
+}
 
 DOCX_W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 DOCX_R_NS = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
@@ -910,6 +933,14 @@ def merge_translation_notes(
     return dict(merged)
 
 
+def filter_translation_notes_to_verses(
+    notes: dict[str, list[TranslationNote]],
+    verses: list[Verse],
+) -> dict[str, list[TranslationNote]]:
+    verse_refs = {verse.ref for verse in verses}
+    return {ref: items for ref, items in notes.items() if ref in verse_refs}
+
+
 def is_generic_mt_lxx_note(row: dict[str, str]) -> bool:
     body = normalize_space(row.get("footnote_text", ""))
     source = row.get("source_basis", "").strip().lower()
@@ -1490,9 +1521,12 @@ def extract_tsk_crossref_groups(raw_text: str) -> list[CrossReferenceNote]:
     return groups
 
 
-def parse_tsk_crossref_groups() -> tuple[dict[tuple[str, int, int], list[CrossReferenceNote]], dict[str, object]]:
+def parse_tsk_crossref_groups(
+    testament: str,
+) -> tuple[dict[tuple[str, int, int], list[CrossReferenceNote]], dict[str, object]]:
     diagnostics: dict[str, object] = {
         "archive_present": TSK_ZIP.exists(),
+        "testament": testament,
         "status": "unparsed",
     }
     if not TSK_ZIP.exists():
@@ -1503,14 +1537,20 @@ def parse_tsk_crossref_groups() -> tuple[dict[tuple[str, int, int], list[CrossRe
         diagnostics["reason"] = "KJV versification data not found."
         return {}, diagnostics
 
-    index_map = build_tsk_index_map(TSK_OT_BOOKS, verse_counts)
+    if testament == "nt":
+        book_order = TSK_NT_BOOKS
+        base = "modules/comments/zcom/tsk/nt"
+    else:
+        book_order = TSK_OT_BOOKS
+        base = "modules/comments/zcom/tsk/ot"
+
+    index_map = build_tsk_index_map(book_order, verse_counts)
     grouped: dict[tuple[str, int, int], list[CrossReferenceNote]] = defaultdict(list)
     with zipfile.ZipFile(TSK_ZIP) as zf:
-        base = "modules/comments/zcom/tsk/ot"
         bzv = zf.read(f"{base}.bzv")
         bzs = zf.read(f"{base}.bzs")
         bzz = zf.read(f"{base}.bzz")
-        diagnostics["ot_entries"] = len(bzv) // 10
+        diagnostics[f"{testament}_entries"] = len(bzv) // 10
         blob_cache: dict[int, bytes] = {}
         for index in range(len(bzv) // 10):
             verse_key = index_map.get(index)
@@ -1533,8 +1573,11 @@ def parse_tsk_crossref_groups() -> tuple[dict[tuple[str, int, int], list[CrossRe
     return dict(grouped), diagnostics
 
 
-def build_crossrefs_for_verses(verses: list[Verse]) -> tuple[dict[str, list[CrossReferenceNote]], dict[str, object]]:
-    tsk_refs, tsk_diag = parse_tsk_crossref_groups()
+def build_crossrefs_for_verses(
+    verses: list[Verse],
+    testament: str,
+) -> tuple[dict[str, list[CrossReferenceNote]], dict[str, object]]:
+    tsk_refs, tsk_diag = parse_tsk_crossref_groups(testament)
     open_refs, open_diag = parse_openbible_crossrefs(limit_per_verse=9999)
     by_ref: dict[str, list[CrossReferenceNote]] = {}
     source_counts = Counter()
@@ -1890,6 +1933,8 @@ def build_docx(
     *,
     path: Path,
     title: str,
+    description: str,
+    testament: str,
     verses: list[Verse],
     translation_notes: dict[str, list[TranslationNote]],
     name_notes: dict[str, list[NameMeaningNote]],
@@ -1907,7 +1952,7 @@ def build_docx(
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
-        subject="Fresh OT translation draft with translation notes and cross-references",
+        subject=f"{description} with translation notes and cross-references",
     )
     stats = BuildStats(
         output_kind="logos" if logos else "proofreading",
@@ -1917,6 +1962,8 @@ def build_docx(
     add_title_page(
         doc,
         title,
+        description=description,
+        testament=testament,
         logos=logos,
         datatype=datatype,
         milestone_mode=milestone_mode,
@@ -1987,6 +2034,8 @@ def add_title_page(
     doc: MinimalDocx,
     title: str,
     *,
+    description: str,
+    testament: str,
     logos: bool,
     datatype: str,
     milestone_mode: str,
@@ -1995,14 +2044,29 @@ def add_title_page(
     doc.add_paragraph([run(title)], style="Title")
     subtitle = "Logos Personal Book source" if logos else "Proofreading and print copy"
     doc.add_paragraph([run(subtitle)], style="Subtitle")
+    note_policy = (
+        "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
+        if testament == "ot"
+        else "Includes reviewed translation/textual notes that match NT references. OT-specific MT/LXX boilerplate is omitted."
+    )
+    supplemental_policy = (
+        "Includes supplemental Brenton USFM footnotes."
+        if testament == "ot"
+        else "Includes no NT supplemental source-note layer yet."
+    )
+    vocab_policy = (
+        "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+        if testament == "ot"
+        else "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+    )
     lines = [
-        "Fresh Old Testament translation draft.",
-        "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated.",
+        description,
+        note_policy,
         "Includes book preface pages before each book's chapter text.",
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
-        "Includes supplemental Brenton USFM footnotes.",
-        "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately.",
+        supplemental_policy,
+        vocab_policy,
         f"Regular footnote numbering restarts by {footnote_number_restart}. Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility.",
     ]
     if logos:
@@ -2209,9 +2273,10 @@ def build_preview(
     notes: dict[str, list[TranslationNote]],
     supplemental_notes: dict[str, list[SupplementalNote]],
     refs: dict[str, list[CrossReferenceNote]],
+    title: str,
 ) -> None:
     lines = [
-        "# Fresh Translation OT Logos Bible Preview",
+        f"# {title}",
         "",
         "This preview shows the first three verses of each book with note/cross-reference counts.",
         "",
@@ -2236,6 +2301,9 @@ def build_preview(
 def build_readme(
     path: Path,
     *,
+    testament: str,
+    config: dict[str, str],
+    source_path: Path,
     logos_docx: Path,
     mt_bridge_docx: Path,
     proof_docx: Path,
@@ -2266,12 +2334,47 @@ def build_readme(
         if isinstance(item, dict) and item.get("book_name", "")
     ]
     missing_deuterocanon_display = ", ".join(missing_deuterocanon) if missing_deuterocanon else "None"
-    content = f"""# Fresh Translation OT Logos/Proofreading Files
+    try:
+        source_display = source_path.relative_to(ROOT).as_posix()
+    except ValueError:
+        source_display = str(source_path)
+    source_note = (
+        "- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        if testament == "ot"
+        else "- Supplemental source notes: no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+    )
+    variant_note = (
+        f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`."
+        if testament == "ot"
+        else "- Translation notes: reviewed rows from `data/research/translation_footnotes.csv` plus any local textual-note export entries matching NT references. OT-specific MT/LXX rows are ignored for this NT source."
+    )
+    future_work_note = (
+        f"- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}."
+        if testament == "ot"
+        else "- Future work: NT literal revision is seeded from the public-domain UKJV alignment and still needs verse-by-verse TR Greek review."
+    )
+    bridge_heading = "MT-note bridge import" if testament == "ot" else "Reference-note bridge import"
+    bridge_note = (
+        f"Use `{mt_bridge_docx.name}` instead of `{logos_docx.name}` when the goal is to surface notes already anchored to standard MT/English Bible references. The visible verse numbers remain from the LXX source rows, but hidden milestones are remapped to standard Bible references where a reliable mapping is available."
+        if testament == "ot"
+        else f"`{mt_bridge_docx.name}` is emitted for parity with the OT build. NT TR source rows already use standard NT versification, so this bridge should normally match the main Logos source."
+    )
+    source_basis_note = (
+        f"- Source text: `{source_display}`."
+        if testament == "ot"
+        else f"- Source text: `{source_display}`, imported from byztxt/greektext-scrivener Scrivener 1894 Textus Receptus text-only files."
+    )
+    bridge_file_note = (
+        "Logos Personal Book source with verse milestones remapped to standard English/MT references so existing reference-anchored Logos notes from MT-based Bibles can show. Compile as resource type `Bible`."
+        if testament == "ot"
+        else "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
+    )
+    content = f"""# Fresh Translation {config["label"]} Logos/Proofreading Files
 
 Generated files:
 
 - `{logos_docx.name}`: Logos Personal Book source. Compile as resource type `Bible`.
-- `{mt_bridge_docx.name}`: Logos Personal Book source with verse milestones remapped to standard English/MT references so existing reference-anchored Logos notes from MT-based Bibles can show. Compile as resource type `Bible`.
+- `{mt_bridge_docx.name}`: {bridge_file_note}
 - `{proof_docx.name}`: clean proofreading/printing copy without Logos milestone or field syntax.
 - `{diagnostics_path.name}`: build counts and cross-reference/note diagnostics.
 - `{preview_path.name}`: quick preview sample for spot-checking.
@@ -2286,19 +2389,20 @@ Logos import:
 6. Build the book.
 7. If Logos exposes advanced datatype/index settings, keep the source milestones on `{datatype}`.
 
-MT-note bridge import:
+{bridge_heading}:
 
-Use `{mt_bridge_docx.name}` instead of `{logos_docx.name}` when the goal is to surface notes already anchored to standard MT/English Bible references. The visible verse numbers remain from the LXX source rows, but hidden milestones are remapped to standard Bible references where a reliable mapping is available.
+{bridge_note}
 
 Scope:
 
-- Source text: `data/raw/lxx_greek/ot_full.csv`.
+- Source basis: {config["source_text"]}.
+{source_basis_note}
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
-- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`.
+{variant_note}
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
-- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
+{source_note}
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
-- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}.
+{future_work_note}
 - Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
@@ -2412,6 +2516,7 @@ def main() -> None:
     parser.add_argument("--textual-notes-html", type=Path, default=DEFAULT_TEXTUAL_NOTES_HTML)
     parser.add_argument("--lexham-textual-notes-html", type=Path, dest="textual_notes_html", help=argparse.SUPPRESS)
     parser.add_argument("--logos-root", type=Path, default=DEFAULT_LOGOS_ROOT)
+    parser.add_argument("--testament", choices=tuple(TESTAMENT_CONFIG), default="ot")
     parser.add_argument(
         "--no-place-links",
         action="store_true",
@@ -2425,6 +2530,7 @@ def main() -> None:
         help="Visible footnote numbering restart scope inside the single DOCX file.",
     )
     args = parser.parse_args()
+    config = TESTAMENT_CONFIG[args.testament]
 
     verses = load_verses(args.source)
     versification_map, versification_map_diag = load_versification_map(args.versification_map)
@@ -2435,9 +2541,16 @@ def main() -> None:
         verses,
         versification_map,
     )
-    notes = merge_translation_notes(base_notes, textual_export_notes)
+    notes = filter_translation_notes_to_verses(
+        merge_translation_notes(base_notes, textual_export_notes),
+        verses,
+    )
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
-    deuterocanonical_work = deuterocanonical_future_work(book_intros, verses)
+    deuterocanonical_work = (
+        deuterocanonical_future_work(book_intros, verses)
+        if args.testament == "ot"
+        else {"enabled": False, "reason": "Not applicable to NT build.", "missing_book_count": 0, "missing_books": []}
+    )
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
         names_of_god_path=args.names_of_god,
@@ -2447,7 +2560,7 @@ def main() -> None:
         **name_note_counts,
         **{f"placement_{key}": value for key, value in name_note_placement_counts.items()},
     }
-    crossrefs, crossref_diag = build_crossrefs_for_verses(verses)
+    crossrefs, crossref_diag = build_crossrefs_for_verses(verses, args.testament)
     if args.no_place_links:
         place_links: dict[str, PlaceLink] = {}
         place_link_diag: dict[str, object] = {
@@ -2458,7 +2571,14 @@ def main() -> None:
     else:
         place_links, place_link_diag = load_logos_place_links(args.logos_root, args.proper_names)
     place_link_pattern = build_place_link_pattern(place_links)
-    brenton_supplemental_notes, brenton_supplemental_counts = load_brenton_supplemental_notes(verses)
+    if args.testament == "ot":
+        brenton_supplemental_notes, brenton_supplemental_counts = load_brenton_supplemental_notes(verses)
+    else:
+        brenton_supplemental_notes = {}
+        brenton_supplemental_counts = {
+            "enabled": False,
+            "reason": "No NT supplemental source-note layer enabled.",
+        }
     supplemental_notes = merge_supplemental_notes(brenton_supplemental_notes)
     supplemental_note_counts: dict[str, object] = {
         "brenton_package": brenton_supplemental_counts,
@@ -2469,7 +2589,9 @@ def main() -> None:
 
     logos_stats = build_docx(
         path=args.logos_docx,
-        title="Fresh Translation OT - Logos Bible Source",
+        title=f"{config['title_prefix']} - Logos Bible Source",
+        description=config["description"],
+        testament=args.testament,
         verses=verses,
         translation_notes=notes,
         name_notes=name_notes,
@@ -2487,7 +2609,9 @@ def main() -> None:
     )
     mt_bridge_stats = build_docx(
         path=args.mt_bridge_docx,
-        title="Fresh Translation OT - MT Notes Bridge",
+        title=f"{config['title_prefix']} - {config['bridge_label']}",
+        description=config["description"],
+        testament=args.testament,
         verses=verses,
         translation_notes=notes,
         name_notes=name_notes,
@@ -2505,7 +2629,9 @@ def main() -> None:
     )
     proof_stats = build_docx(
         path=args.proof_docx,
-        title="Fresh Translation OT - Proofreading Copy",
+        title=f"{config['title_prefix']} - Proofreading Copy",
+        description=config["description"],
+        testament=args.testament,
         verses=verses,
         translation_notes=notes,
         name_notes=name_notes,
@@ -2521,9 +2647,12 @@ def main() -> None:
         place_links={},
         place_link_pattern=None,
     )
-    build_preview(args.preview, verses, notes, supplemental_notes, crossrefs)
+    build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
         args.readme,
+        testament=args.testament,
+        config=config,
+        source_path=args.source,
         logos_docx=args.logos_docx,
         mt_bridge_docx=args.mt_bridge_docx,
         proof_docx=args.proof_docx,
