@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 17372
-- medium: 1149
-- low: 4396
+- high: 17552
+- medium: 1090
+- low: 4275
 - none: 0
 
 Note:
@@ -155404,216 +155404,216 @@ Note:
 
 ### Ecclesiastes 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
 - brenton: [missing]
 
 ### Ecclesiastes 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw all living who walk under sun with young second one who will stand in place of him.
 - brenton: [missing]
 
 ### Ecclesiastes 4:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 4:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Guard your foot whenever you go into house of God, and draw near to hear rather than to give sacrifice of fools, for they are not knowing to do evil.
 - brenton: [missing]
 
 ### Ecclesiastes 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hurry with your mouth, and let not your heart hasten to bring out word before face of God, because God in heaven and you on earth; on this let your words be few.
 - brenton: [missing]
 
 ### Ecclesiastes 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because dream comes in multitude of distraction, and voice of fool in multitude of words.
 - brenton: [missing]
 
 ### Ecclesiastes 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Just as if you vow vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay.
 - brenton: [missing]
 
 ### Ecclesiastes 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better that you not vow than that you vow and not pay.
 - brenton: [missing]
 
 ### Ecclesiastes 5:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not give your mouth to make your flesh sin, and do not say before face of God that it was ignorance, lest God grow angry at your voice and ruin works of your hands.
 - brenton: [missing]
 
 ### Ecclesiastes 5:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in multitude of dreams and vanities and many words, instead fear God.
 - brenton: [missing]
 
 ### Ecclesiastes 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you see slander of poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
 - brenton: [missing]
 
 ### Ecclesiastes 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And land's surplus in everything = king over cultivated field.
 - brenton: [missing]
 
 ### Ecclesiastes 5:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One loving silver will not be filled with silver, and who loved produce in their abundance? This too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
 - brenton: [missing]
 
 ### Ecclesiastes 5:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sweet sleep of servant, whether little or much he eats; but fullness of rich man will not let him sleep.
 - brenton: [missing]
 
 ### Ecclesiastes 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is sickness I saw under sun: wealth kept by its owner for his harm.
 - brenton: [missing]
 
 ### Ecclesiastes 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And that wealth will perish in evil distraction, and he begot son and there is nothing in his hand.
 - brenton: [missing]
 
 ### Ecclesiastes 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As he came out from his mother's womb, naked he will return to go as he came, and he will take nothing in his toil to go in his hand.
 - brenton: [missing]
 
 ### Ecclesiastes 5:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this too evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
 - brenton: [missing]
 
 ### Ecclesiastes 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed all his days in darkness and mourning and much wrath and sickness and bile.
 - brenton: [missing]
 
 ### Ecclesiastes 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, what I saw good, what is beautiful = to eat and to drink and to see goodness in all his toil with which he toils under sun, number of days of his life which God gave him, because this his portion.
 - brenton: [missing]
 
 ### Ecclesiastes 5:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
 - brenton: [missing]
 
 ### Ecclesiastes 5:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he will not remember many days of his life, because God distracts him in gladness of his heart.
 - brenton: [missing]
 
 ### Ecclesiastes 6:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is evil I saw under sun, and it is much upon man.
 - brenton: [missing]
@@ -155629,261 +155629,261 @@ Note:
 
 ### Ecclesiastes 6:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If man should beget hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said stillborn better than he.
 - brenton: [missing]
 
 ### Ecclesiastes 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in vanity it came and in darkness it goes, and in darkness its name will be covered.
 - brenton: [missing]
 
 ### Ecclesiastes 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed it did not see sun and did not know; rest to this more than to that one.
 - brenton: [missing]
 
 ### Ecclesiastes 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he lived a thousand years twice over and did not see good, do not all go to one place?
 - brenton: [missing]
 
 ### Ecclesiastes 6:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All toil of man for his mouth, yet soul will not be filled.
 - brenton: [missing]
 
 ### Ecclesiastes 6:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because what surplus for wise man over fool? Because poor man knows how to walk before life.
 - brenton: [missing]
 
 ### Ecclesiastes 6:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 6:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with one stronger than he.
 - brenton: [missing]
 
 ### Ecclesiastes 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there are many words multiplying vanity; what surplus to man?
 - brenton: [missing]
 
 ### Ecclesiastes 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because who knows what good for man in life, number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under sun?
 - brenton: [missing]
 
 ### Ecclesiastes 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good name above good oil, and day of death above day of his birth.
 - brenton: [missing]
 
 ### Ecclesiastes 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better to go to house of mourning than to go to house of drinking, because this end of every man, and living one will give it to his heart.
 - brenton: [missing]
 
 ### Ecclesiastes 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better anger than laughter, because by gloom of face heart will be made good.
 - brenton: [missing]
 
 ### Ecclesiastes 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of wise in house of mourning, and heart of fools in house of gladness.
 - brenton: [missing]
 
 ### Ecclesiastes 7:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better to hear rebuke of wise than man hearing song of fools.
 - brenton: [missing]
 
 ### Ecclesiastes 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because as sound of thorns under cauldron, so laughter of fools, and this too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because slander drives wise man mad and destroys heart of his strength.
 - brenton: [missing]
 
 ### Ecclesiastes 7:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Better end of matter than its beginning; better patient one than high in spirit.
 - brenton: [missing]
 
 ### Ecclesiastes 7:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hurry in your spirit to be angry, because anger will rest in bosom of fools.
 - brenton: [missing]
 
 ### Ecclesiastes 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not say, "What happened that former days were better than these?" because you did not ask about this in wisdom.
 - brenton: [missing]
 
 ### Ecclesiastes 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wisdom good with inheritance, and surplus to those seeing sun.
 - brenton: [missing]
 
 ### Ecclesiastes 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in its shadow wisdom = as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
 - brenton: [missing]
 
 ### Ecclesiastes 7:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See works of God, because who can set in order what God twists?
 - brenton: [missing]
 
 ### Ecclesiastes 7:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In day of goodness, live in good, and in day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
 - brenton: [missing]
 
 ### Ecclesiastes 7:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw all things in days of my vanity: there is righteous man perishing in his righteousness, and there is ungodly man remaining in his evil.
 - brenton: [missing]
 
 ### Ecclesiastes 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not become very righteous, and do not make yourself excessively wise, lest perhaps you be stunned.
 - brenton: [missing]
 
 ### Ecclesiastes 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not be very ungodly, and do not become hard, lest you die not in your time.
 - brenton: [missing]
 
 ### Ecclesiastes 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Good that you take hold in this, and from that do not let your hand rest, because one fearing God will come out with all these.
 - brenton: [missing]
 
 ### Ecclesiastes 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wisdom will help wise above ten rulers who are in city.
 - brenton: [missing]
@@ -155899,612 +155899,612 @@ Note:
 
 ### Ecclesiastes 7:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed to all words they may speak, do not set your heart, so that you may not hear your servant cursing you.
 - brenton: [missing]
 
 ### Ecclesiastes 7:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because many times your heart will work evil against you, and in many ways it will hurt, because you too cursed others.
 - brenton: [missing]
 
 ### Ecclesiastes 7:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these I tested in wisdom; I said, "I will become wise,"
 - brenton: [missing]
 
 ### Ecclesiastes 7:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and it was far from me, far beyond what it was, and deep, deep; who will find it?
 - brenton: [missing]
 
 ### Ecclesiastes 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know ungodly folly and hardness and madness.
 - brenton: [missing]
 
 ### Ecclesiastes 7:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I find more bitter than death the woman whose heart = hunting nets and seines, her hands bonds; good one before face of God will be rescued from her, and sinner will be caught in her.
 - brenton: [missing]
 
 ### Ecclesiastes 7:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, this I found, said Ecclesiastes, one by one to find reckoning.
 - brenton: [missing]
 
 ### Ecclesiastes 7:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Which my soul still sought and I did not find: one man among thousand I found, but woman among all these I did not find.
 - brenton: [missing]
 
 ### Ecclesiastes 7:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Except look, this I found: what God made with man = upright, but they sought many reckonings.
 - brenton: [missing]
 
 ### Ecclesiastes 8:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who knows wise man, and who knows explanation of word? Wisdom of man gives light to his face, and hardness of his face will be hated.
 - brenton: [missing]
 
 ### Ecclesiastes 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Keep king's mouth, and because of word of God's oath do not hurry.
 - brenton: [missing]
 
 ### Ecclesiastes 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go from his face; do not stand in evil matter, because whatever he wishes he will do.
 - brenton: [missing]
 
 ### Ecclesiastes 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As king speaks exercising authority, and who will say to him, "What are you doing?"
 - brenton: [missing]
 
 ### Ecclesiastes 8:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One keeping command will know no evil thing, and time of judgment heart of wise knows.
 - brenton: [missing]
 
 ### Ecclesiastes 8:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because for every matter there is time and judgment, because knowledge of man much upon him.
 - brenton: [missing]
 
 ### Ecclesiastes 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because there is no one knowing what will be, because as it will be, who will tell him?
 - brenton: [missing]
 
 ### Ecclesiastes 8:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is no man exercising authority over spirit to restrain spirit, and there is no authority in day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
 - brenton: [missing]
 
 ### Ecclesiastes 8:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And with all this I saw and gave my heart to every work done under sun, all in which man exercised authority over man to harm him.
 - brenton: [missing]
 
 ### Ecclesiastes 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And then I saw ungodly men brought into tombs, and they went from holy place and were praised in city because thus they did; this too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 8:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because rebuttal against those doing evil does not happen quickly; because of this heart of sons of man was fully assured in them to do evil.
 - brenton: [missing]
 
 ### Ecclesiastes 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
 - brenton: [missing]
 
 ### Ecclesiastes 8:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And good will not be for ungodly man, and he will not lengthen days in shadow, because he does not fear before face of God.
 - brenton: [missing]
 
 ### Ecclesiastes 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is vanity done upon earth: there are righteous ones to whom it reaches as work of ungodly ones, and there are ungodly ones to whom it reaches as work of righteous ones; I said that this too vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 8:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I praised gladness, because there is no good for man under sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In which I gave my heart to know wisdom and to see distraction done upon earth, because even in day and in night there is no sleep in his eyes, seeing.
 - brenton: [missing]
 
 ### Ecclesiastes 8:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw all works of God, that man will not be able to find out work done under sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
 - brenton: [missing]
 
 ### Ecclesiastes 9:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in hand of God; yet love and hatred man does not know; all things before them.
 - brenton: [missing]
 
 ### Ecclesiastes 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vanity in all things: one meeting for righteous and ungodly, for good and evil, for clean and unclean, for one sacrificing and one not sacrificing; as good one, so sinner; as one swearing, so one fearing oath.
 - brenton: [missing]
 
 ### Ecclesiastes 9:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This evil in all done under sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them = to the dead.
 - brenton: [missing]
 
 ### Ecclesiastes 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because for whoever joins with all the living there is hope, because living dog better than dead lion.
 - brenton: [missing]
 
 ### Ecclesiastes 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because living will know that they will die, but dead know nothing, and there is no wage for them anymore, because memory of them was forgotten.
 - brenton: [missing]
 
 ### Ecclesiastes 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed their love and indeed their hatred and indeed their zeal already perished, and there is no portion for them anymore forever in anything done under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 9:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, eat your bread in gladness and drink your wine in good heart, because God already took pleasure in your works.
 - brenton: [missing]
 
 ### Ecclesiastes 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At every time let your garments be white, and let oil on your head not fail.
 - brenton: [missing]
 
 ### Ecclesiastes 9:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See life with woman whom you loved all days of your life of vanity, those given to you under sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under sun.
 - brenton: [missing]
 
 ### Ecclesiastes 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All that your hand finds to do, do by your strength, because there is no work and reckoning and knowledge and wisdom in Hades where you go there.
 - brenton: [missing]
 
 ### Ecclesiastes 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I turned and saw under sun that race not to swift, nor war to strong, and indeed not bread to wise, and indeed not wealth to understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
 - brenton: [missing]
 
 ### Ecclesiastes 9:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because indeed man did not know his time: as fish caught in evil net and as birds caught in snare, as they are trapped, so sons of man are trapped for evil time when it falls upon them suddenly.
 - brenton: [missing]
 
 ### Ecclesiastes 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this too I saw as wisdom under sun, and it is great to me.
 - brenton: [missing]
 
 ### Ecclesiastes 9:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Small city, and few men in it, and great king came against it and surrounded it and built against it great siegeworks.
 - brenton: [missing]
 
 ### Ecclesiastes 9:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he found in it poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
 - brenton: [missing]
 
 ### Ecclesiastes 9:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said wisdom good above strength, yet wisdom of poor man despised and his words are not heard.
 - brenton: [missing]
 
 ### Ecclesiastes 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of wise in quiet are heard above cry of rulers among follies.
 - brenton: [missing]
 
 ### Ecclesiastes 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wisdom good above weapons of war, and sinner one will destroy much good.
 - brenton: [missing]
 
 ### Ecclesiastes 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deadly flies rot compound of perfumed oil; a little wisdom held precious above great glory of folly.
 - brenton: [missing]
 
 ### Ecclesiastes 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of wise at his right, and heart of fool at his left.
 - brenton: [missing]
 
 ### Ecclesiastes 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed on road whenever fool walks, his heart will lack, and what he thinks = all folly.
 - brenton: [missing]
 
 ### Ecclesiastes 10:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If spirit of ruler rises upon you, do not leave your place, because healing will put great sins to rest.
 - brenton: [missing]
 
 ### Ecclesiastes 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There is evil I saw under sun, like involuntary thing that went out from face of ruler.
 - brenton: [missing]
 
 ### Ecclesiastes 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fool was given in great heights, and rich men will sit in low place.
 - brenton: [missing]
 
 ### Ecclesiastes 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw slaves on horses and rulers walking like slaves on earth.
 - brenton: [missing]
 
 ### Ecclesiastes 10:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One digging pit will fall into it, and snake will bite one pulling down wall.
 - brenton: [missing]
 
 ### Ecclesiastes 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One removing stones will be hurt by them; one splitting woods will be endangered by them.
 - brenton: [missing]
 
 ### Ecclesiastes 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill = wisdom.
 - brenton: [missing]
 
 ### Ecclesiastes 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If snake bites without whispering, there is no surplus for charmer.
 - brenton: [missing]
 
 ### Ecclesiastes 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of mouth of wise = favor, and lips of fool will swallow him.
 - brenton: [missing]
 
 ### Ecclesiastes 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beginning of words of his mouth = folly, and last of his mouth = evil madness.
 - brenton: [missing]
 
 ### Ecclesiastes 10:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fool multiplies words; man does not know what has happened, and what will be after him, who will tell him?
 - brenton: [missing]
 
 ### Ecclesiastes 10:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Toil of fools will weary them, because one did not know to go into city.
 - brenton: [missing]
 
 ### Ecclesiastes 10:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to you, city whose king young, and your rulers eat in morning.
 - brenton: [missing]
 
 ### Ecclesiastes 10:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed are you, land whose king son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
 - brenton: [missing]
 
 ### Ecclesiastes 10:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In sloth roof-beam will be brought low, and in idleness of hands house will drip.
 - brenton: [missing]
 
 ### Ecclesiastes 10:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For laughter they make bread, and wine gladdens living ones, and silver answers all things.
 - brenton: [missing]
 
 ### Ecclesiastes 10:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Even in your conscience do not curse king, and in chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
 - brenton: [missing]
 
 ### Ecclesiastes 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Send your bread upon face of water, because in multitude of days you will find it.
 - brenton: [missing]
 
 ### Ecclesiastes 11:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give portion to seven and indeed to eight, because you do not know what evil will be upon earth.
 - brenton: [missing]
 
 ### Ecclesiastes 11:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If clouds are filled, they pour rain upon earth; and if tree falls in south, and if in north, the place where tree falls, there it will be.
 - brenton: [missing]
 
 ### Ecclesiastes 11:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One watching wind will not sow, and one looking in clouds will not reap.
 - brenton: [missing]
@@ -156520,27 +156520,27 @@ Note:
 
 ### Ecclesiastes 11:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
 - brenton: [missing]
 
 ### Ecclesiastes 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And light sweet, and good for eyes to see with sun.
 - brenton: [missing]
 
 ### Ecclesiastes 11:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming = vanity.
 - brenton: [missing]
@@ -156556,135 +156556,135 @@ Note:
 
 ### Ecclesiastes 11:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remove anger from your heart and put evil from your flesh, because youth and folly vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 12:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remember one who created you in days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
 - brenton: [missing]
 
 ### Ecclesiastes 12:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until sun and light and moon and stars are not darkened and clouds return after rain.
 - brenton: [missing]
 
 ### Ecclesiastes 12:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In day whenever guards of house will be shaken and men of strength twisted and grinders cease because they became few and those seeing through openings grow dark,
 - brenton: [missing]
 
 ### Ecclesiastes 12:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and doors in market will be shut in weakness of sound of grinder, and he will rise at sound of sparrow, and all daughters of song will be brought low.
 - brenton: [missing]
 
 ### Ecclesiastes 12:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to house of his age, and mourners circled in market.
 - brenton: [missing]
 
 ### Ecclesiastes 12:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until silver cord is not overturned and flower of gold crushed and water jar broken at spring and wheel crushed upon pit.
 - brenton: [missing]
 
 ### Ecclesiastes 12:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dust returns upon earth as it was, and spirit returns to God who gave it.
 - brenton: [missing]
 
 ### Ecclesiastes 12:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vanity of vanities, said Ecclesiastes; all vanity.
 - brenton: [missing]
 
 ### Ecclesiastes 12:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beyond that, because Ecclesiastes became wise, he still taught knowledge with people, and his ear traced out ordered parables.
 - brenton: [missing]
 
 ### Ecclesiastes 12:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ecclesiastes sought much to find words of delight, and written uprightness, words of truth.
 - brenton: [missing]
 
 ### Ecclesiastes 12:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of wise = as goads, and as nails planted, those from gatherings were given from one shepherd.
 - brenton: [missing]
 
 ### Ecclesiastes 12:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My son, beware to make many books, there is no end, and much study = weariness of flesh.
 - brenton: [missing]
 
 ### Ecclesiastes 12:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: End of matter, all is heard: fear God and keep his commandments, because this = whole man.
 - brenton: [missing]
 
 ### Ecclesiastes 12:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because with every work God will bring into judgment, with every overlooked thing, whether good or whether evil.
 - brenton: [missing]
@@ -156693,54 +156693,54 @@ Note:
 
 ### Song of Solomon 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Song of songs, which is Solomon's.
 - brenton: [missing]
 
 ### Song of Solomon 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let him kiss me with kisses of his mouth, because your breasts are better than wine.
 - brenton: [missing]
 
 ### Song of Solomon 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And scent of your perfumes above all spices; your name = poured-out perfume, therefore young women loved you.
 - brenton: [missing]
 
 ### Song of Solomon 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
 - brenton: [missing]
 
 ### Song of Solomon 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Black I am and beautiful, daughters of Jerusalem, like tents of Kedar, like skins of Solomon.
 - brenton: [missing]
 
 ### Song of Solomon 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not look at me because I am darkened, because sun looked past me. Sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
 - brenton: [missing]
@@ -156756,108 +156756,108 @@ Note:
 
 ### Song of Solomon 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
 - brenton: [missing]
 
 ### Song of Solomon 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To my mare among chariots of Pharaoh I likened you, my dear one.
 - brenton: [missing]
 
 ### Song of Solomon 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How beautiful your cheeks as turtledoves, your neck as necklaces.
 - brenton: [missing]
 
 ### Song of Solomon 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We will make for you likenesses of gold with marks of silver.
 - brenton: [missing]
 
 ### Song of Solomon 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until king is at his recline, my nard gave its scent.
 - brenton: [missing]
 
 ### Song of Solomon 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bundle of myrrh my beloved to me; between my breasts he will lodge.
 - brenton: [missing]
 
 ### Song of Solomon 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cluster of cypress my beloved to me in vineyards of En-gedi.
 - brenton: [missing]
 
 ### Song of Solomon 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes doves.
 - brenton: [missing]
 
 ### Song of Solomon 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, you are beautiful, my beloved, and indeed lovely; our bed shadowed.
 - brenton: [missing]
 
 ### Song of Solomon 1:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beams of our houses cedars, our rafters cypresses.
 - brenton: [missing]
 
 ### Song of Solomon 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I = flower of field, lily of valleys.
 - brenton: [missing]
 
 ### Song of Solomon 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As lily in midst of thorns, so my dear one in midst of daughters.
 - brenton: [missing]
@@ -156873,45 +156873,45 @@ Note:
 
 ### Song of Solomon 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring me into house of wine; arrange love upon me.
 - brenton: [missing]
 
 ### Song of Solomon 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Strengthen me with perfumes, heap me with apples, because I am wounded by love.
 - brenton: [missing]
 
 ### Song of Solomon 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His left under my head, and his right will embrace me.
 - brenton: [missing]
 
 ### Song of Solomon 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of field, that you not rouse and awaken love until it wishes.
 - brenton: [missing]
 
 ### Song of Solomon 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of my beloved. Look, he comes, leaping on mountains, springing on hills.
 - brenton: [missing]
@@ -156927,72 +156927,72 @@ Note:
 
 ### Song of Solomon 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My beloved answers and says to me, "Rise, come, my dear one, my beautiful one, my dove."
 - brenton: [missing]
 
 ### Song of Solomon 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because look, winter passed, rain departed, went away for itself.
 - brenton: [missing]
 
 ### Song of Solomon 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Flowers appeared in land, time of pruning arrived, voice of turtledove was heard in our land.
 - brenton: [missing]
 
 ### Song of Solomon 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fig tree brought forth its early figs; vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
 - brenton: [missing]
 
 ### Song of Solomon 2:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And come, my dove, in shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
 - brenton: [missing]
 
 ### Song of Solomon 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Catch for us foxes, little foxes destroying vineyards, and our vineyards are blossoming.
 - brenton: [missing]
 
 ### Song of Solomon 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My beloved to me, and I to him, the one shepherding among lilies.
 - brenton: [missing]
 
 ### Song of Solomon 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains.
 - brenton: [missing]
@@ -157008,90 +157008,90 @@ Note:
 
 ### Song of Solomon 3:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will rise now and circle in city, in markets and squares, and seek one my soul loved; I sought him and did not find him.
 - brenton: [missing]
 
 ### Song of Solomon 3:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Watchmen found me, those circling in city: "Did you see one my soul loved?"
 - brenton: [missing]
 
 ### Song of Solomon 3:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into house of my mother and into chamber of one who conceived me.
 - brenton: [missing]
 
 ### Song of Solomon 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of field, that you not rouse and awaken love until it wishes.
 - brenton: [missing]
 
 ### Song of Solomon 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is this coming up from wilderness like columns of smoke, perfumed with myrrh and frankincense, from all powders of perfumer?
 - brenton: [missing]
 
 ### Song of Solomon 3:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, Solomon's couch: sixty mighty men around it, from mighty men of Israel.
 - brenton: [missing]
 
 ### Song of Solomon 3:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All holding sword, trained in war, each man his sword on his thigh from terrors in nights.
 - brenton: [missing]
 
 ### Song of Solomon 3:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: King Solomon made for himself litter from woods of Lebanon.
 - brenton: [missing]
 
 ### Song of Solomon 3:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He made its pillars silver and its recliner gold, its seat purple, its inside paved with love from daughters of Jerusalem.
 - brenton: [missing]
 
 ### Song of Solomon 3:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come out and see in King Solomon, with crown with which his mother crowned him in day of his wedding and in day of gladness of his heart.
 - brenton: [missing]
