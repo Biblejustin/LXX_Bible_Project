@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12264
-- medium: 2300
-- low: 8198
+- high: 12324
+- medium: 2296
+- low: 8142
 - none: 155
 
 Note:
@@ -816,9 +816,9 @@ Note:
 
 ### Genesis 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord God said to Cain, 'Where is Abel your brother?' And he said, 'I do not know. Am I my brother's keeper?'
 - brenton: And the Lord God said to Cain, Where is Abel thy brother? and he said, I know not, am I my brother's keeper?
@@ -1122,9 +1122,9 @@ Note:
 
 ### Genesis 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all the days of Maleleel were eight hundred and ninety-five years, and he died.
 - brenton: And all the days of Maleleel were eight hundred and ninety and five years, and he died.
@@ -1509,9 +1509,9 @@ Note:
 
 ### Genesis 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Noah was six hundred years old, and the flood of water came upon the earth.
 - brenton: And Noe was six hundred years old when the flood of water was upon the earth.
@@ -1563,9 +1563,9 @@ Note:
 
 ### Genesis 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rain came upon the earth forty days and forty nights.
 - brenton: And the rain was upon the earth forty days and forty nights.
@@ -2103,9 +2103,9 @@ Note:
 
 ### Genesis 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Blessed be the Lord God of Shem, and Canaan shall be his house-servant slave.
 - brenton: And he said, Blessed be the Lord God of Sem, and Chanaan shall be his bond-servant.
@@ -4380,9 +4380,9 @@ Note:
 
 ### Genesis 19:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abraham rose early in the morning to the place where he had stood before the Lord.
 - brenton: And Abraam rose up early to go to the place, where he had stood before the Lord.
@@ -4632,9 +4632,9 @@ Note:
 
 ### Genesis 20:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abraham prayed to God, and God healed Abimelech and his wife and his female-servants, and they bore children.
 - brenton: And Abraam prayed to God, and God healed Abimelech, and his wife, and his women servants, and they bore children.
@@ -4830,9 +4830,9 @@ Note:
 
 ### Genesis 21:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he dwelt in the wilderness of Pharan, and his mother took a wife for him out of the land of Egypt.
 - brenton: And he dwelt in the wilderness, and his mother took him a wife out of Pharan of Egypt.
@@ -6783,9 +6783,9 @@ Note:
 
 ### Genesis 27:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and said, Are you my son Esau? And he said, I am.
 - brenton: and he said, Art thou my son Esau? and he said, I am.
@@ -7683,9 +7683,9 @@ Note:
 
 ### Genesis 30:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after this she bore a daughter and called her name Dinah.
 - brenton: And after this she bore a daughter; and she called her name, Dina.
@@ -7908,9 +7908,9 @@ Note:
 
 ### Genesis 31:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to Jacob, Return to the land of your father and to your family line, and I will be with you.
 - brenton: And the Lord said to Jacob, Return to the land of thy father, and to thy family, and I will be with thee.
@@ -9123,9 +9123,9 @@ Note:
 
 ### Genesis 35:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God said to Jacob, Rise, go up to the place Bethel and dwell there, and make there an altar to the God who appeared to you when you fled from the face of Esau your brother.
 - brenton: And God said to Jacob, Arise, go up to the place, Bæthel, and dwell there; and make there an altar to the God that appeared to thee, when thou fleddest from the face of Esau thy brother.
@@ -9321,9 +9321,9 @@ Note:
 
 ### Genesis 35:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Rachel: Joseph and Benjamin.
 - brenton: And the sons of Rachel; Joseph and Benjamin.
@@ -9375,9 +9375,9 @@ Note:
 
 ### Genesis 36:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are the generations of Esau (he is Edom):
 - brenton: And these are the generations of Esau; this is Edom.
@@ -9447,9 +9447,9 @@ Note:
 
 ### Genesis 36:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are the generations of Esau father of Edom in Mount Seir,
 - brenton: And these are the generations of Esau, the father of Edom in the mount Seir.
@@ -10653,9 +10653,9 @@ Note:
 
 ### Genesis 40:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh's cup was in my hand. And I took the grapes and squeezed them into the cup and gave the cup into Pharaoh's hand.
 - brenton: And the cup of Pharao was in my hand; and I took the bunch of grapes, and squeezed it into the cup, and gave the cup into Pharao's hand.
@@ -11319,9 +11319,9 @@ Note:
 
 ### Genesis 42:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Israel came to buy among those coming, for the famine was in the land of Canaan.
 - brenton: And the sons of Israel came to buy with those that came, for the famine was in the land of Chanaan.
@@ -11652,9 +11652,9 @@ Note:
 
 ### Genesis 43:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If then you send our brother with us, we will go down and buy you food.
 - brenton: If, then, thou send our brother with us, we will go down, and buy thee food;
@@ -12606,9 +12606,9 @@ Note:
 
 ### Genesis 46:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Zebulun: Sered and Allon and Achoel.
 - brenton: And the sons of Zabulun, Sered, and Allon, and Achoel.
@@ -12705,9 +12705,9 @@ Note:
 
 ### Genesis 46:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These are the sons of Bilhah, whom Laban gave to Rachel his daughter, who bore these to Jacob. All the souls were seven.
 - brenton: These are the sons of Balla, whom Laban gave to his daughter Rachel, who bore these to Jacob; all the souls, seven.
@@ -13814,9 +13814,9 @@ Note:
 
 ### Exodus 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Reuben, Simeon, Levi, Judah,
 - brenton: Ruben, Simeon, Levi, Judas,
@@ -15929,9 +15929,9 @@ Note:
 
 ### Exodus 9:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh sent and called Moses and Aaron and said to them, I have sinned this time. The Lord is righteous, but I and my people are ungodly.
 - brenton: And Pharao sent and called Moses and Aaron, and said to them, I have sinned this time: the Lord is righteous, and I and my people are wicked.
@@ -19898,9 +19898,9 @@ Note:
 
 ### Exodus 25:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall put into the ark the testimonies that I shall give you.
 - brenton: And thou shalt put into the ark the testimonies which I shall give thee.
@@ -21320,9 +21320,9 @@ Note:
 
 ### Exodus 29:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The one lamb you shall offer in the morning, and the second lamb you shall offer at evening.
 - brenton: One lamb thou shalt offer in the morning, and the second lamb thou shalt offer in the evening.
@@ -21455,9 +21455,9 @@ Note:
 
 ### Exodus 30:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when Aaron lights the lamps at evening, he shall burn incense on it, a continual incense before the Lord throughout their generations.
 - brenton: And when Aaron lights the lamps in the evening, he shall burn incense upon it; a constant incense-offering always before the Lord for their generations.
@@ -26146,9 +26146,9 @@ Note:
 
 ### Leviticus 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened on the eighth day that Moses called Aaron and his sons and the elders of Israel.
 - brenton: And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel,
@@ -26218,9 +26218,9 @@ Note:
 
 ### Leviticus 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Aaron brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar, and he poured the blood out at the base of the altar.
 - brenton: And the sons of Aaron brought the blood to him, and he dipped his finger into the blood, and put it on the horns of the altar, and he poured out the blood at the bottom of the altar.
@@ -28027,9 +28027,9 @@ Note:
 
 ### Leviticus 14:52
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he shall purify the house with the blood of the bird and with the living water and with the living bird and with the cedar wood and with the hyssop and with the spun scarlet.
 - brenton: And he shall purify the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the spun scarlet.
@@ -32952,9 +32952,9 @@ Note:
 
 ### Numbers 3:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these are the names of the sons of Gershon by their clans: Lobeni and Shimei.
 - brenton: And these are the names of the sons of Gedson according to their families; Lobeni and Semei:
@@ -34113,9 +34113,9 @@ Note:
 
 ### Numbers 6:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the priest shall bring them before the Lord and make his sin offering and his whole burnt offering.
 - brenton: And the priest shall bring them before the Lord, and shall offer his sin-offering, and his whole-burnt-offering.
@@ -35094,9 +35094,9 @@ Note:
 
 ### Numbers 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall bring the Levites before the Lord, and the sons of Israel shall place their hands upon the Levites.
 - brenton: And thou shalt bring the Levites before the Lord; and the sons of Israel shall lay their hands upon the Levites.
@@ -45410,9 +45410,9 @@ Note:
 
 ### Deuteronomy 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall write them on the doorposts of your houses and your gates.
 - brenton: And ye shall write them on the lintels of your houses and of your gates.
@@ -48074,9 +48074,9 @@ Note:
 
 ### Deuteronomy 18:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then he shall minister in the name of the Lord his God, just as all his brothers the Levites who stand there before the Lord.
 - brenton: he shall minister to the name of the Lord his God, as all his brethren the Levites, who stand there present before the Lord thy God.
@@ -49388,9 +49388,9 @@ Note:
 
 ### Deuteronomy 24:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if the man is poor, you shall not sleep in his pledge.
 - brenton: And if the man be poor, thou shalt not sleep with his pledge.
@@ -49685,9 +49685,9 @@ Note:
 
 ### Deuteronomy 26:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the priest shall take the basket from your hands and set it before the altar of the Lord your God.
 - brenton: And the priest shall take the basket out of thine hands, and shall set it before the altar of the Lord thy God:
@@ -56545,9 +56545,9 @@ Note:
 
 ### Joshua 19:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is the inheritance of the tribe of the sons of Issachar according to their clans, the cities and their villages.
 - brenton: This is the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.
@@ -58590,9 +58590,9 @@ Note:
 
 ### Judges 3:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they took their daughters for themselves as wives and gave their daughters to their sons and served their gods.
 - brenton: And they took their daughters for wives to themselves, and they gave their daughters to their sons, and served their gods.
@@ -60741,18 +60741,18 @@ Note:
 
 ### Judges 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he judged Israel twenty-three years, and he died and was buried in Samaria.
 - brenton: And he judged Israel twenty-three years, and died, and was buried in Samir.
 
 ### Judges 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after him arose Jair the Gileadite, and he judged Israel twenty-two years.
 - brenton: And after him arose Jair of Galaad, and he judged Israel twenty-two years.
@@ -60768,9 +60768,9 @@ Note:
 
 ### Judges 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jair died and was buried in Rammō.
 - brenton: And Jair died, and was buried in Rhamnon.
@@ -61407,9 +61407,9 @@ Note:
 
 ### Judges 13:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And an angel of the Lord appeared to the woman and said to her, Behold now, you are barren and have not borne, yet you shall conceive and bear a son.
 - brenton: And an angel of the Lord appeared to the woman, and said to her, Behold, thou art barren and hast not born; yet thou shalt conceive a son.
@@ -70123,9 +70123,9 @@ Note:
 
 ### 1 Samuel 25:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David said to Abigaia, Blessed be the Lord God of Israel, who sent you today on this day to meet me.
 - brenton: And David said to Abigaia, Blessed be the Lord God of Israel, who sent thee this very day to meet me:
@@ -70915,9 +70915,9 @@ Note:
 
 ### 1 Samuel 30:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David and his men came to the city, and behold, it had been burned with fire, and their wives and their sons and their daughters had been taken captive.
 - brenton: And David and his men came into the city, and, behold, it was burnt with fire; and their wives, and their sons, and their daughters, were carried captive.
@@ -72636,9 +72636,9 @@ Note:
 
 ### 2 Samuel 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And David and all the house of Israel brought up the ark of the Lord with shouting and with the voice of trumpet.
 - brenton: And David and all the house of Israel brought up the ark of the Lord with shouting, and with the sound of a trumpet.
@@ -72861,9 +72861,9 @@ Note:
 
 ### 2 Samuel 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to all these words and according to all this vision, thus Nathan spoke to David.
 - brenton: According to all these words, and according to all this vision, so Nathan spoke to David.
@@ -76632,9 +76632,9 @@ Note:
 
 ### 2 Samuel 22:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The Lord thundered from heaven, and the Most High gave his voice.
 - brenton: The Lord thundered out of heaven, and the Most High uttered his voice.
@@ -79955,9 +79955,9 @@ Note:
 
 ### 1 Kings 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be upon the heart of David my father to build a house for the name of the Lord God of Israel.
 - brenton: And it was in the heart of my father to build a house to the name of the Lord God of Israel.
@@ -81350,9 +81350,9 @@ Note:
 
 ### 1 Kings 12:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Speak to Roboam son of Solomon, king of Iouda, and to all the house of Iouda and Benjamin and to the remnant of the people, saying,
 - brenton: Speak to Roboam the son of Solomon, king of Juda, and to all the house of Juda and Benjamin, and to the remnant of the people, saying,
@@ -81566,9 +81566,9 @@ Note:
 
 ### 1 Kings 13:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he went after the man of God and found him sitting under an oak, and said to him, Are you the man of God who came from Iouda? And he said to him, I am.
 - brenton: and went after the man of God, and found him sitting under an oak: and he said to him, Art thou the man of God that came out of Juda? And he said to him, I am.
@@ -86437,9 +86437,9 @@ Note:
 
 ### 2 Kings 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make the house of Achaab like the house of Ieroboam son of Nabat and like the house of Baasa son of Achia.
 - brenton: And I will make the house of Achaab like the house of Jeroboam the son of Nabat, and as the house of Baasa the son of Achia.
@@ -87742,9 +87742,9 @@ Note:
 
 ### 2 Kings 14:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took the gold and the silver and all the vessels found in the house of the Lord and in the treasuries of the king's house and the hostages, and he returned to Samaria.
 - brenton: And he took the gold, and the silver, and all the vessels that were found in the house of the Lord, and in the treasures of the king's house, and the hostages, and returned to Samaria.
@@ -87760,9 +87760,9 @@ Note:
 
 ### 2 Kings 14:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ioas slept with his fathers and was buried in Samaria with the kings of Israel, and Ieroboam his son reigned in his place.
 - brenton: And Joas slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.
@@ -87949,9 +87949,9 @@ Note:
 
 ### 2 Kings 15:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In the thirty-eighth year of Azarias king of Judah, Zacharias son of Ieroboam reigned over Israel in Samaria six months.
 - brenton: In the thirty and eighth year of Azarias king of Juda Zacharias the son of Jeroboam began to reign over Israel in Samaria six months.
@@ -88219,9 +88219,9 @@ Note:
 
 ### 2 Kings 15:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iōatham slept with his fathers and was buried with his fathers in the city of Dauid his father, and Achaz his son reigned in his place.
 - brenton: And Joatham slept with his fathers, and was buried with his fathers in the city of David his father: and Achaz his son reigned in his stead.
@@ -88255,9 +88255,9 @@ Note:
 
 ### 2 Kings 16:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he sacrificed and burned incense at the high places and on the hills and under every leafy tree.
 - brenton: And he sacrificed and burnt incense on the high places, and upon the hills, and under every shady tree.
@@ -88903,9 +88903,9 @@ Note:
 
 ### 2 Kings 18:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ezekias gave all the silver found in the house of the Lord and in the treasuries of the king's house.
 - brenton: And Ezekias gave all the silver that was found in the house of the Lord, and in the treasures of the king's house.
@@ -89929,9 +89929,9 @@ Note:
 
 ### 2 Kings 22:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Chelkias the high priest said to Saphphan the scribe, I found a book of the law in the house of the Lord. And Chelkias gave the book to Saphphan, and he read it.
 - brenton: And Chelcias the high priest said to Sapphan the scribe, I have found the book of the law in the house of the Lord. And Chelcias gave the book to Sapphan, and he read it.
@@ -91821,9 +91821,9 @@ Note:
 
 ### 1 Chronicles 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Amon his son, Iosias his son.
 - brenton: Amon his son, Josia his son.
@@ -108502,9 +108502,9 @@ Note:
 
 ### Ezra 8:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
 - brenton: And I said to them, Ye are holy to the Lord; and the vessels are holy; and the silver and the gold are freewill-offerings to the Lord God of our fathers.
@@ -109305,9 +109305,9 @@ Note:
 
 ### Nehemiah 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I came to Ierousalem and was there three days.
 - brenton: So I came to Jerusalem, and was there three days.
