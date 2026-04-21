@@ -16,6 +16,7 @@ Fresh-translation pilot branch for Greek-to-English work using:
 
 ## Current Outputs
 
+- `RELEASE_STATUS.md`
 - `output/fresh_translation_ot_full.md`
 - `output/fresh_translation_ot_full_translation_only.md`
 - `output/fresh_vs_brenton_ot_drafted.md`
@@ -25,6 +26,8 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - `output/fresh_mt_leaning_vs_brenton.md`
 - `output/fresh_human_review_phase1.md`
 - `output/fresh_human_review_core.md`
+- `output/release_hardening_report.md`
+- `release/fresh-translation-ot-rc1/MANIFEST.md`
 
 ## Fresh Translation Pilot
 
@@ -145,6 +148,15 @@ This rebuilds:
 - `output/fresh_human_review_core.md`
 - `output/fresh_human_review_mt_watch.md`
 - `output/fresh_human_review_nt_watch.md`
+- `output/release_hardening_report.md`
+- `output/release_hardening_report.json`
+- `output/release_hardening_samples.csv`
+
+Release-candidate package:
+
+- `RELEASE_STATUS.md`
+- `release/fresh-translation-ot-rc1/MANIFEST.md`
+- `release/fresh-translation-ot-rc1/CHECKSUMS.sha256`
 
 Private witness matrix:
 
