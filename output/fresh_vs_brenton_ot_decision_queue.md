@@ -52,15 +52,15 @@ Only verses with tracked decision rows or footnotes.
 - 46. Micah 6:8 | score 22 | decisions 1 | footnotes 1
 - 47. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1
 - 48. Numbers 35:25 | score 22 | decisions 2 | footnotes 2
-- 49. Psalms 83:12 | score 22 | decisions 1 | footnotes 1
-- 50. Psalms 84:11 | score 22 | decisions 1 | footnotes 1
-- 51. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1
-- 52. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1
-- 53. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1
-- 54. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1
-- 55. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1
-- 56. 2 Samuel 22:51 | score 21 | decisions 1 | footnotes 1
-- 57. 2 Samuel 3:21 | score 21 | decisions 1 | footnotes 1
-- 58. Exodus 14:13 | score 21 | decisions 2 | footnotes 1
-- 59. Exodus 28:30 | score 21 | decisions 1 | footnotes 1
-- 60. Exodus 3:18 | score 21 | decisions 2 | footnotes 2
+- 49. Numbers 6:14 | score 22 | decisions 1 | footnotes 1
+- 50. Numbers 6:18 | score 22 | decisions 4 | footnotes 4
+- 51. Psalms 83:12 | score 22 | decisions 1 | footnotes 1
+- 52. Psalms 84:11 | score 22 | decisions 1 | footnotes 1
+- 53. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1
+- 54. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1
+- 55. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1
+- 56. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1
+- 57. 2 Samuel 14:17 | score 21 | decisions 1 | footnotes 1
+- 58. 2 Samuel 22:51 | score 21 | decisions 1 | footnotes 1
+- 59. 2 Samuel 3:21 | score 21 | decisions 1 | footnotes 1
+- 60. Exodus 14:13 | score 21 | decisions 2 | footnotes 1

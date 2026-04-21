@@ -112,21 +112,21 @@ Outliers: 4
 - buckets: salvation=70, well-being=1
 
 - 1 Chronicles 16:1 [salvation]
-  - fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+  - fresh: And they brought in ark of God and set it in middle of tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - 1 Chronicles 16:2 [salvation]
-  - fresh: And Dauid finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
+  - fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
 - 1 Chronicles 21:26 [salvation]
-  - fresh: And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+  - fresh: And David built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 - 2 Chronicles 7:7 [salvation]
-  - fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+  - fresh: And Solomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
 - 2 Chronicles 29:35 [salvation]
   - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
 - 2 Chronicles 30:22 [salvation]
-  - fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
+  - fresh: And Hezekiah spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
 - 2 Chronicles 31:2 [salvation]
-  - fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
+  - fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
 - 2 Chronicles 33:16 [salvation]
-  - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+  - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
 - Amos 5:22 [salvation]
   - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation.
 - Deuteronomy 27:7 [salvation]

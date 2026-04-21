@@ -63,5 +63,5 @@ Use MD for reading order.
 - 46. Micah 6:8 | score 22 | theology, covenant/law
 - 47. Nehemiah 1:11 | score 22 | theology, kingship
 - 48. Numbers 35:25 | score 22 | theology, ritual, kingship, textual/lexical
-- 49. Psalms 83:12 | score 22 | theology
-- 50. Psalms 84:11 | score 22 | theology, covenant/law, kingship
+- 49. Numbers 6:14 | score 22 | covenant/law, ritual, kingship
+- 50. Numbers 6:18 | score 22 | ritual, kingship, textual/lexical

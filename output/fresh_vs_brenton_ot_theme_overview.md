@@ -51,7 +51,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Isaiah 9:6 → score 24
 - Daniel 4:37 → score 23
 - Genesis 24:7 → score 22
-- Numbers 35:25 → score 22
+- Numbers 6:14 → score 22
 - 1 Samuel 2:10 → score 22
 
 ## Ritual / Priesthood
@@ -65,7 +65,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 1 Chronicles 22:19 → score 29
 - Isaiah 12:2 → score 23
 - Daniel 4:37 → score 23
-- Numbers 35:25 → score 22
+- Numbers 6:14 → score 22
 
 ## Covenant / Law / Judgment
 - rows: 81
@@ -77,8 +77,8 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 1 Chronicles 22:19 → score 29
 - 2 Chronicles 7:14 → score 28
 - Isaiah 9:6 → score 24
+- Numbers 6:14 → score 22
 - 1 Samuel 2:10 → score 22
-- 1 Kings 10:9 → score 22
 
 ## Death / Afterlife
 - rows: 2
