@@ -30398,7 +30398,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, there shall be for you a rest, a memorial of trumpets, a holy convocation.
+- fresh: Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, you shall have a rest, a memorial of trumpets, a holy convocation.
 - brenton: Speak to the children of Israel, saying, In the seventh month, on the first day of the month, ye shall have a rest, a memorial of trumpets: it shall be to you a holy convocation.
 
 ### Leviticus 23:25
@@ -30857,7 +30857,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall count for yourself seven rests of years, seven years seven times, and there shall be for you seven weeks of years, forty-nine years.
+- fresh: And you shall count for yourself seven rests of years, seven years seven times, and you shall have seven weeks of years, forty-nine years.
 - brenton: And thou shalt reckon to thyself seven sabbaths of years, seven times seven years; and they shall be to thee seven weeks of years, nine and forty years.
 
 ### Leviticus 25:9
@@ -60763,7 +60763,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there were to him thirty-two sons riding on thirty-two foals, and thirty-two cities belonged to them, and he called them Villages of Jair until this day; they are in the land of Gilead.
+- fresh: And he had thirty-two sons riding on thirty-two foals, and they had thirty-two cities, and he called them Villages of Jair until this day; they are in the land of Gilead.
 - brenton: And he had thirty-two sons riding on thirty-two colts, and they had thirty-two cities; and they called them Jair's towns until this day in the land of Galaad.
 
 ### Judges 10:5
@@ -61330,7 +61330,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there were to him thirty sons and thirty daughters sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
+- fresh: And he had thirty sons and thirty daughters whom he sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
 - brenton: And he had thirty sons, and thirty daughters, whom he sent forth; and he brought in thirty daughters for his sons from without; and he judged Israel seven years.
 
 ### Judges 12:10
@@ -61375,7 +61375,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there were to him forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
+- fresh: And he had forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
 - brenton: And he had forty sons, and thirty grandsons, that rode upon seventy colts: and he judged Israel eight years.
 
 ### Judges 12:15
@@ -192858,7 +192858,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from this there will be for the sanctuary five hundred by five hundred, square all around, and fifty cubits of open space around it.
+- fresh: And from this, five hundred by five hundred, square all around, will belong to the sanctuary, with fifty cubits of open space around it.
 - brenton: [missing]
 
 ### Ezekiel 45:3
@@ -193596,7 +193596,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will be for them a first portion given from first portions of the land, holy of holies, from borders of the Levites.
+- fresh: And they will have the first portion given from first portions of the land, holy of holies, from borders of the Levites.
 - brenton: [missing]
 
 ### Ezekiel 48:13

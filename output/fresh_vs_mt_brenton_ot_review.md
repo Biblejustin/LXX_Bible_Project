@@ -42321,6 +42321,15 @@ Method:
 - mt: And whatsoever soul it be that does any work in that same day, the same soul will I destroy from among his people.
 - brenton: And every soul which shall do work on that day, that soul shall be destroyed from among its people.
 
+### Leviticus 25:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.610`
+- fresh_brenton_ratio: `0.702`
+- fresh: And you shall count for yourself seven rests of years, seven years seven times, and you shall have seven weeks of years, forty-nine years.
+- mt: And you shall number seven sabbaths of years unto you, seven times seven years; and the space of the seven sabbaths of years shall be unto you forty and nine years.
+- brenton: And thou shalt reckon to thyself seven sabbaths of years, seven times seven years; and they shall be to thee seven weeks of years, nine and forty years.
+
 ### 2 Chronicles 17:13
 - priority: `0`
 - importance: `none`
@@ -42995,15 +43004,6 @@ Method:
 - fresh: And Aaron did so. From one side toward the front of the lampstand he lit its lamps, just as the Lord commanded Moses.
 - mt: And Aaron did so; he lighted the lamps thereof opposite to the candlestick, as the LORD commanded Moses.
 - brenton: And Aaron did so: on one side opposite the candlestick he lighted its lamps, as the Lord appointed Moses.
-
-### Leviticus 25:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.614`
-- fresh_brenton_ratio: `0.717`
-- fresh: And you shall count for yourself seven rests of years, seven years seven times, and there shall be for you seven weeks of years, forty-nine years.
-- mt: And you shall number seven sabbaths of years unto you, seven times seven years; and the space of the seven sabbaths of years shall be unto you forty and nine years.
-- brenton: And thou shalt reckon to thyself seven sabbaths of years, seven times seven years; and they shall be to thee seven weeks of years, nine and forty years.
 
 ### Numbers 16:2
 - priority: `0`
@@ -55119,15 +55119,6 @@ Method:
 - mt: Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
 - brenton: And Asa took silver and gold out of the treasures of the house of the Lord, and of the king's house, and sent them to the son of Ader king of Syria, which dwelt in Damascus, saying,
 
-### Judges 10:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.675`
-- fresh_brenton_ratio: `0.767`
-- fresh: And there were to him thirty-two sons riding on thirty-two foals, and thirty-two cities belonged to them, and he called them Villages of Jair until this day; they are in the land of Gilead.
-- mt: And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead.
-- brenton: And he had thirty-two sons riding on thirty-two colts, and they had thirty-two cities; and they called them Jair's towns until this day in the land of Galaad.
-
 ### Ezra 8:3
 - priority: `0`
 - importance: `none`
@@ -61598,15 +61589,6 @@ Method:
 - fresh: And Lot chose for himself all the region around the Jordan, and Lot set out from the east, and they were separated, each from his brother.
 - mt: Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 - brenton: And Lot chose for himself all the country round Jordan, and Lot went from the east, and they were separated each from his brother. And Abram dwelt in the land of Chanaan.
-
-### Judges 12:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.698`
-- fresh_brenton_ratio: `0.796`
-- fresh: And there were to him forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
-- mt: And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
-- brenton: And he had forty sons, and thirty grandsons, that rode upon seventy colts: and he judged Israel eight years.
 
 ### Genesis 19:25
 - priority: `0`
@@ -78483,6 +78465,15 @@ Method:
 - mt: And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
 - brenton: And Moses did as the Lord appointed him, and he assembled the congregation at the door of the tabernacle of witness.
 
+### Judges 12:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.857`
+- fresh: And he had forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
+- mt: And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
+- brenton: And he had forty sons, and thirty grandsons, that rode upon seventy colts: and he judged Israel eight years.
+
 ### 1 Samuel 23:9
 - priority: `0`
 - importance: `none`
@@ -84989,6 +84980,15 @@ Method:
 - fresh: For many in Judah were under oath to him, because he was son-in-law of Sechenia son of Harae, and Ioanan his son had taken daughter of Mesoulam son of Barachia as wife.
 - mt: For there were many in Judah sworn unto him, because he was the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah.
 - brenton: For many in Juda were bound to him by oath, because he was son-in-law of Sechenias the son of Herae; and Jonan his son had taken the daughter of Mesulam the son of Barachia to wife.
+
+### Judges 10:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.771`
+- fresh_brenton_ratio: `0.881`
+- fresh: And he had thirty-two sons riding on thirty-two foals, and they had thirty-two cities, and he called them Villages of Jair until this day; they are in the land of Gilead.
+- mt: And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead.
+- brenton: And he had thirty-two sons riding on thirty-two colts, and they had thirty-two cities; and they called them Jair's towns until this day in the land of Galaad.
 
 ### 1 Chronicles 24:25
 - priority: `0`
@@ -91856,15 +91856,6 @@ Method:
 - fresh: But he said, You shall not pass through me. And Edom came out to meet him with a heavy crowd and with a strong hand.
 - mt: And he said, You shall not go through. And Edom came out against him with much people, and with a strong hand.
 - brenton: And he said, Thou shalt not pass through me; and Edom went forth to meet him with a great host, and a mighty hand.
-
-### Judges 12:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.795`
-- fresh_brenton_ratio: `0.786`
-- fresh: And there were to him thirty sons and thirty daughters sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
-- mt: And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
-- brenton: And he had thirty sons, and thirty daughters, whom he sent forth; and he brought in thirty daughters for his sons from without; and he judged Israel seven years.
 
 ### Exodus 7:17
 - priority: `0`
@@ -103791,15 +103782,6 @@ Method:
 - mt: And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray you, come forth, and be with you, till I know what God will do for me.
 - brenton: And David departed thence to Massephath of Moab, and said to the king of Moab, Let, I pray thee, my father and my mother be with thee, until I know what God will do to me.
 
-### Leviticus 23:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.844`
-- fresh_brenton_ratio: `0.860`
-- fresh: Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, there shall be for you a rest, a memorial of trumpets, a holy convocation.
-- mt: Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall all of you have a sabbath, a memorial of blowing of trumpets, an holy convocation.
-- brenton: Speak to the children of Israel, saying, In the seventh month, on the first day of the month, ye shall have a rest, a memorial of trumpets: it shall be to you a holy convocation.
-
 ### Exodus 32:30
 - priority: `0`
 - importance: `none`
@@ -105311,6 +105293,15 @@ Method:
 - fresh: and Ailon and Thamnatha and Akkaron,
 - mt: And Elon, and Thimnathah, and Ekron,
 - brenton: and Elon, and Thamnatha, and Accaron;
+
+### Leviticus 23:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.853`
+- fresh_brenton_ratio: `0.900`
+- fresh: Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, you shall have a rest, a memorial of trumpets, a holy convocation.
+- mt: Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall all of you have a sabbath, a memorial of blowing of trumpets, an holy convocation.
+- brenton: Speak to the children of Israel, saying, In the seventh month, on the first day of the month, ye shall have a rest, a memorial of trumpets: it shall be to you a holy convocation.
 
 ### 1 Samuel 17:44
 - priority: `0`
@@ -107651,6 +107642,15 @@ Method:
 - fresh: On the ninth day of the month, famine became strong in the city, and there was no bread for the people of the land.
 - mt: And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land.
 - brenton: And the famine prevailed in the city, and there was no bread for the people of the land.
+
+### Judges 12:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.868`
+- fresh_brenton_ratio: `0.858`
+- fresh: And he had thirty sons and thirty daughters whom he sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
+- mt: And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
+- brenton: And he had thirty sons, and thirty daughters, whom he sent forth; and he brought in thirty daughters for his sons from without; and he judged Israel seven years.
 
 ### Leviticus 4:24
 - priority: `0`

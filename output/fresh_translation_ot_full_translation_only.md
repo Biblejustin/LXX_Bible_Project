@@ -13732,7 +13732,7 @@ And the Lord spoke to Moses, saying,
 
 **Leviticus 23:24**
 
-Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, there shall be for you a rest, a memorial of trumpets, a holy convocation.
+Speak to the sons of Israel, saying, In the seventh month, on the first day of the month, you shall have a rest, a memorial of trumpets, a holy convocation.
 
 **Leviticus 23:25**
 
@@ -13940,7 +13940,7 @@ and for your cattle and for the wild animals in your land. All its produce shall
 
 **Leviticus 25:8**
 
-And you shall count for yourself seven rests of years, seven years seven times, and there shall be for you seven weeks of years, forty-nine years.
+And you shall count for yourself seven rests of years, seven years seven times, and you shall have seven weeks of years, forty-nine years.
 
 **Leviticus 25:9**
 
@@ -27448,7 +27448,7 @@ And after him arose Jair the Gileadite, and he judged Israel twenty-two years.
 
 **Judges 10:4**
 
-And there were to him thirty-two sons riding on thirty-two foals, and thirty-two cities belonged to them, and he called them Villages of Jair until this day; they are in the land of Gilead.
+And he had thirty-two sons riding on thirty-two foals, and they had thirty-two cities, and he called them Villages of Jair until this day; they are in the land of Gilead.
 
 **Judges 10:5**
 
@@ -27704,7 +27704,7 @@ And after him Esebōn from Baithleem judged Israel.
 
 **Judges 12:9**
 
-And there were to him thirty sons and thirty daughters sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
+And he had thirty sons and thirty daughters whom he sent outside, and he brought in thirty wives from outside for his sons, and he judged Israel seven years.
 
 **Judges 12:10**
 
@@ -27724,7 +27724,7 @@ And after him Labdōn son of Sellēm the Phraathōnite judged Israel.
 
 **Judges 12:14**
 
-And there were to him forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
+And he had forty sons and thirty sons of his sons, riding on seventy foals, and he judged Israel eight years.
 
 **Judges 12:15**
 
@@ -87430,7 +87430,7 @@ And when you measure out the land for inheritance, you will set apart a first po
 
 **Ezekiel 45:2**
 
-And from this there will be for the sanctuary five hundred by five hundred, square all around, and fifty cubits of open space around it.
+And from this, five hundred by five hundred, square all around, will belong to the sanctuary, with fifty cubits of open space around it.
 
 **Ezekiel 45:3**
 
@@ -87764,7 +87764,7 @@ It will belong to the consecrated priests, sons of Zadok, who keep charges of th
 
 **Ezekiel 48:12**
 
-And there will be for them a first portion given from first portions of the land, holy of holies, from borders of the Levites.
+And they will have the first portion given from first portions of the land, holy of holies, from borders of the Levites.
 
 **Ezekiel 48:13**
 
