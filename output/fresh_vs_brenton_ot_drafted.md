@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 17732
-- medium: 1047
-- low: 4138
+- high: 17912
+- medium: 1009
+- low: 3996
 - none: 0
 
 Note:
@@ -158738,630 +158738,630 @@ Note:
 
 ### Isaiah 5:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will neither hunger nor grow weary nor grow drowsy nor sleep, nor loosen their belts from their waist, nor will straps of their sandals break.
 - brenton: [missing]
 
 ### Isaiah 5:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whose arrows are sharp and their bows bent; feet of their horses were reckoned as solid rock, wheels of their chariots as storm.
 - brenton: [missing]
 
 ### Isaiah 5:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will rush as lions and stand by as lion's whelp, and will seize and roar as beast and cast out, and there will not be one rescuing.
 - brenton: [missing]
 
 ### Isaiah 5:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will roar because of them in that day as sound of surging sea, and they will look to land, and look, hard darkness in their distress.
 - brenton: [missing]
 
 ### Isaiah 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in year king Uzziah died, I saw Lord sitting on high and lifted throne, and house full of his glory.
 - brenton: [missing]
 
 ### Isaiah 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And seraphim stood around him; six wings to one and six wings to one; with two they covered face, and with two they covered feet, and with two they flew.
 - brenton: [missing]
 
 ### Isaiah 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one cried to another and said, Holy, holy, holy, Lord Sabaoth; whole earth full of his glory.
 - brenton: [missing]
 
 ### Isaiah 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And lintel was raised from voice with which they cried, and house was filled with smoke.
 - brenton: [missing]
 
 ### Isaiah 6:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw king Lord Sabaoth with my eyes.
 - brenton: [missing]
 
 ### Isaiah 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one of seraphim was sent to me, and in hand he had coal which he took with tongs from altar.
 - brenton: [missing]
 
 ### Isaiah 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he touched my mouth and said, Behold, this touched your lips, and it will take away your lawlessness and cleanse your sins.
 - brenton: [missing]
 
 ### Isaiah 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I heard voice of Lord saying, Whom shall I send, and who will go to this people? And I said, Behold, I am here; send me.
 - brenton: [missing]
 
 ### Isaiah 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Go and say to this people: hearing you will hear and certainly not understand, and looking you will look and certainly not see.
 - brenton: [missing]
 
 ### Isaiah 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with eyes and hear with ears and understand with heart and turn, and I heal them.
 - brenton: [missing]
 
 ### Isaiah 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Until when, Lord? And he said, Until cities are made desolate from not being inhabited, and houses from not having men, and land will be left desolate.
 - brenton: [missing]
 
 ### Isaiah 6:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after these things God will send men far away, and those left behind will multiply on earth.
 - brenton: [missing]
 
 ### Isaiah 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And yet upon it still = the tenth, and again it will be for plundering, like terebinth and like oak whenever it falls from its casing.
 - brenton: [missing]
 
 ### Isaiah 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in days of Ahaz son of Jotham son of Uzziah king of Judah, Rezin king of Aram and Pekah son of Remaliah king of Israel went up against Jerusalem to war against it, and they were not able to besiege it.
 - brenton: [missing]
 
 ### Isaiah 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was reported to house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in forest is shaken by wind.
 - brenton: [missing]
 
 ### Isaiah 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, to pool of upper road of fuller's field.
 - brenton: [missing]
 
 ### Isaiah 7:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to him, Take care to be quiet and do not fear, nor let your soul weaken from these two pieces of smoking firebrands, for whenever anger of my wrath comes, again I will heal.
 - brenton: [missing]
 
 ### Isaiah 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And son of Aram and son of Remaliah, because they counseled evil counsel about you, saying,
 - brenton: [missing]
 
 ### Isaiah 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We will go up into Judah and by speaking with them turn them toward us, and we will make son of Tabeel king of it.
 - brenton: [missing]
 
 ### Isaiah 7:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Sabaoth: This counsel will certainly not remain, nor shall it be.
 - brenton: [missing]
 
 ### Isaiah 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But head of Aram = Damascus; and yet within sixty-five years kingdom of Ephraim will cease from people.
 - brenton: [missing]
 
 ### Isaiah 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And head of Ephraim = Samaria, and head of Samaria = son of Remaliah. If you do not believe, neither will you understand.
 - brenton: [missing]
 
 ### Isaiah 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord added again to speak to Ahaz, saying,
 - brenton: [missing]
 
 ### Isaiah 7:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ask for yourself sign from Lord your God, in depth or in height.
 - brenton: [missing]
 
 ### Isaiah 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ahaz said, I will certainly not ask, nor certainly will I test Lord.
 - brenton: [missing]
 
 ### Isaiah 7:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Hear now, house of David. Is it small thing for you to furnish struggle to men, and how do you furnish struggle to Lord?
 - brenton: [missing]
 
 ### Isaiah 7:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore Lord himself will give you sign: Behold, virgin in womb will have and bear son, and you will call his name Immanuel.
 - brenton: [missing]
 
 ### Isaiah 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Butter and honey he will eat; before he knows or chooses evil, he will choose good.
 - brenton: [missing]
 
 ### Isaiah 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because before child knows good or evil, he rejects evil to choose good, and land which you fear from face of two kings will be forsaken.
 - brenton: [missing]
 
 ### Isaiah 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But God will bring upon you and upon your people and upon house of your father days not yet come since day Ephraim was taken away from Judah = king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, Lord will whistle for flies that rule part of river of Egypt and for bee that is in land of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will all come and rest in ravines of land and holes of rocks and caves and every cleft and every tree.
 - brenton: [missing]
 
 ### Isaiah 7:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day Lord will shave with razor, great and drunken, which is beyond river, by king of Assyrians, the head and hairs of feet, and beard he will remove.
 - brenton: [missing]
 
 ### Isaiah 7:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, man will nourish heifer of cattle and two sheep.
 - brenton: [missing]
 
 ### Isaiah 7:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, from abundance of milk, everyone left on land will eat butter and honey.
 - brenton: [missing]
 
 ### Isaiah 7:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day every place where there are thousand vines for thousand shekels will become wasteland and thorn.
 - brenton: [missing]
 
 ### Isaiah 7:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With arrow and bow they will enter there, because whole land will be wasteland and thorn.
 - brenton: [missing]
 
 ### Isaiah 7:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every mountain being plowed will be plowed, and fear will certainly not come there, for from wasteland and thorn it will be for grazing of sheep and trampling of ox.
 - brenton: [missing]
 
 ### Isaiah 8:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, Take for yourself new large scroll and write on it with human stylus: Swiftly spoil, quickly plunder, for it is near.
 - brenton: [missing]
 
 ### Isaiah 8:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And make for me faithful human witnesses, Uriah and Zechariah son of Barachiah.
 - brenton: [missing]
 
 ### Isaiah 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I approached prophetess, and she conceived and bore son, and Lord said to me, Call his name, Swiftly Spoil, Quickly Plunder.
 - brenton: [missing]
 
 ### Isaiah 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because before child knows to call father or mother, he will take power of Damascus and spoils of Samaria before king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord added to speak to me still,
 - brenton: [missing]
 
 ### Isaiah 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because this people did not want water of Shiloam going quietly, but wanted to have Rezin and son of Remaliah as king over you,
 - brenton: [missing]
 
 ### Isaiah 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of this behold Lord brings up upon you water of river, strong and much, king of Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
 - brenton: [missing]
 
 ### Isaiah 8:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will take away from Judah man who can lift head or be able to accomplish anything, and his camp will be so as to fill width of your land, God-with-us.
 - brenton: [missing]
 
 ### Isaiah 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Know, nations, and be defeated; hear, to end of earth. Having grown strong, be defeated. If again you grow strong, again you will be defeated.
 - brenton: [missing]
 
 ### Isaiah 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And whatever counsel you counsel, Lord will scatter; and word whatever you speak will certainly not remain for you, because with us = Lord God.
 - brenton: [missing]
 
 ### Isaiah 8:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord with strong hand; they disobey in walking way of this people, saying,
 - brenton: [missing]
 
 ### Isaiah 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Never say hard whatever this people says is hard. Their fear you certainly shall not fear, nor certainly be troubled.
 - brenton: [missing]
 
 ### Isaiah 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sanctify Lord himself, and he himself will be your fear.
 - brenton: [missing]
 
 ### Isaiah 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you are trusting in him, he will be for you into holiness, and not as stumbling stone will you meet him, nor as rock of falling; but house of Jacob in snare and in hollow, sitting in Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 8:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this many among them will be weak and fall and be crushed, and they will draw near and be captured, men being in safety.
 - brenton: [missing]
 
 ### Isaiah 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then clear will be those sealing law so as not to learn.
 - brenton: [missing]
 
 ### Isaiah 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will say, I will wait for God who turned his face from house of Jacob, and I will trust in him.
 - brenton: [missing]
 
 ### Isaiah 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from Lord Sabaoth who dwells on Mount Zion.
 - brenton: [missing]
 
 ### Isaiah 8:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they say to you, Seek those from earth who call and ventriloquists who speak emptiness, who speak from belly, does not nation seek to its God? Why do they seek dead ones concerning living ones?
 - brenton: [missing]
 
 ### Isaiah 8:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he gave law for help, so that they may say, not according to this word, concerning which there is no gift to give.
 - brenton: [missing]
 
 ### Isaiah 8:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And hard famine will come upon you, and it will be, whenever you hunger, you will be distressed, and you will speak evil of ruler and ancestral things and will look upward to heaven.
 - brenton: [missing]
 
 ### Isaiah 8:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And down to earth they will look, and look, affliction and tightness and darkness, distress narrow and darkness so as not to see.
 - brenton: [missing]
 
 ### Isaiah 8:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And one being in distress will not be without escape until time. This first he does quickly: land of Zebulun, land of Naphtali, way of sea, and the rest who dwell by coast and beyond Jordan, Galilee of nations, regions of Judah.
 - brenton: [missing]
 
 ### Isaiah 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: People walking in darkness, see great light; you dwelling in land and shadow of death, light will shine on you.
 - brenton: [missing]
 
 ### Isaiah 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Most of people whom you brought down, in your gladness they will rejoice before you as those rejoicing in harvest and as those dividing spoils.
 - brenton: [missing]
 
 ### Isaiah 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because yoke lying on them and rod on their neck, for rod of those exacting scattered Lord as in day on Midian.
 - brenton: [missing]
 
 ### Isaiah 9:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because every garment gathered by deceit and garment from confiscation they will repay, and they will wish it had become burned with fire.
 - brenton: [missing]
 
 ### Isaiah 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because child was born to us, son was given to us, whose rule became upon his shoulder, and his name is called Angel of Great Counsel, for I will bring peace upon rulers, peace and health to him.
 - brenton: [missing]
@@ -159377,585 +159377,585 @@ Note:
 
 ### Isaiah 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord sent death upon Jacob, and it came upon Israel.
 - brenton: [missing]
 
 ### Isaiah 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all people of Ephraim and dwellers in Samaria will know, in insolence and lofty heart saying,
 - brenton: [missing]
 
 ### Isaiah 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bricks have fallen, but come, let us hew stones, and cut down sycamores and cedars, and build tower for ourselves.
 - brenton: [missing]
 
 ### Isaiah 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God will dash down those rising on Mount Zion against them, and their enemies he will scatter.
 - brenton: [missing]
 
 ### Isaiah 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Syria from east of sun and Greeks from west of sun, devouring Israel with whole mouth. In all these his anger did not turn away, but hand still high.
 - brenton: [missing]
 
 ### Isaiah 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And people did not turn until it was struck, and Lord they did not seek.
 - brenton: [missing]
 
 ### Isaiah 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord took away from Israel head and tail, great and small, in one day.
 - brenton: [missing]
 
 ### Isaiah 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Elder and those admiring faces = head, and prophet teaching lawless things = tail.
 - brenton: [missing]
 
 ### Isaiah 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those blessing this people will mislead, and they mislead so as to swallow them.
 - brenton: [missing]
 
 ### Isaiah 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this God will not rejoice over their young men, and their orphans and widows he will not pity, because all lawless and evil, and every mouth speaks unjust things. In all these his anger did not turn away, but hand still high.
 - brenton: [missing]
 
 ### Isaiah 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And lawlessness will burn as fire, and dry grass will be eaten by fire, and it will burn in thickets of forest and consume everything around hills.
 - brenton: [missing]
 
 ### Isaiah 9:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By wrath of anger of Lord whole land has been burned together, and people will be as ones burned by fire; man will not pity his brother.
 - brenton: [missing]
 
 ### Isaiah 9:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will turn aside to right because he will hunger, and he will eat from left and certainly not be filled; each man eating flesh of his own arm.
 - brenton: [missing]
 
 ### Isaiah 9:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Manasseh will eat Ephraim, and Ephraim Manasseh, because together they will besiege Judah. In all these his anger did not turn away, but hand still high.
 - brenton: [missing]
 
 ### Isaiah 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe those writing evil things, for writing they write evil,
 - brenton: [missing]
 
 ### Isaiah 10:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: turning aside judgment of poor, stealing right of needy of my people, so that widow becomes for them plunder and orphan spoil.
 - brenton: [missing]
 
 ### Isaiah 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And what will they do in day of visitation? For affliction will come to you from far off, and to whom will you flee to be helped, and where will you leave your glory?
 - brenton: [missing]
 
 ### Isaiah 10:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So as not to fall into captivity? In all these his anger did not turn away, but hand still high.
 - brenton: [missing]
 
 ### Isaiah 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to Assyrians; rod of my anger, and wrath is in their hands.
 - brenton: [missing]
 
 ### Isaiah 10:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will send my wrath against lawless nation, and I will command against my people to make spoil and plunder and trample cities and make them dust.
 - brenton: [missing]
 
 ### Isaiah 10:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he did not think thus, and in soul he did not reckon thus; but his mind will cast off, to destroy nations not a few.
 - brenton: [missing]
 
 ### Isaiah 10:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they say to him, You alone are ruler?
 - brenton: [missing]
 
 ### Isaiah 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will say, Did I not take region above Babylon and Calneh where tower was built, and take Arabia and Damascus and Samaria?
 - brenton: [missing]
 
 ### Isaiah 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I took these into my hand, so I will take all the realms. Howl, carved things in Jerusalem and in Samaria.
 - brenton: [missing]
 
 ### Isaiah 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For as I did to Samaria and to her handmade things, so I will do to Jerusalem and her idols.
 - brenton: [missing]
 
 ### Isaiah 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, when Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon great mind of ruler of Assyrians and upon loftiness of glory of his eyes.
 - brenton: [missing]
 
 ### Isaiah 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he said, By strength I will do it, and by wisdom of understanding. I will remove boundaries of nations and plunder their strength, and shake inhabited cities.
 - brenton: [missing]
 
 ### Isaiah 10:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And whole world I will seize with hand as nest, and as eggs left behind I will take, and there is none who will escape me or speak against me.
 - brenton: [missing]
 
 ### Isaiah 10:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will axe be glorified without one chopping with it, or saw be lifted up without one pulling it? Likewise if someone lifts rod or wood.
 - brenton: [missing]
 
 ### Isaiah 10:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And not thus, but Lord Sabaoth will send dishonor into your honor, and under your glory burning fire will be burned.
 - brenton: [missing]
 
 ### Isaiah 10:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And light of Israel will be for fire, and it will sanctify him in burning fire, and it will devour forest as grass in that day.
 - brenton: [missing]
 
 ### Isaiah 10:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mountains and hills and forests will be extinguished, and it will be devoured from soul to flesh, and fugitive will be as one fleeing from burning flame.
 - brenton: [missing]
 
 ### Isaiah 10:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those left from them will be a number, and child will write them.
 - brenton: [missing]
 
 ### Isaiah 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, remnant of Israel will no longer continue, and those saved of Jacob will no longer keep trusting in those who wronged them, but they will be trusting in God, Holy One of Israel, in truth.
 - brenton: [missing]
 
 ### Isaiah 10:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remnant of Jacob will be upon mighty God.
 - brenton: [missing]
 
 ### Isaiah 10:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And even if people Israel become as sand of sea, remnant of them will be saved, for word finishing and cutting short in righteousness.
 - brenton: [missing]
 
 ### Isaiah 10:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because God will make cut-short word in whole inhabited world.
 - brenton: [missing]
 
 ### Isaiah 10:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord Sabaoth, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see way of Egypt.
 - brenton: [missing]
 
 ### Isaiah 10:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For still a little, and wrath will cease, but my anger upon their counsel.
 - brenton: [missing]
 
 ### Isaiah 10:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God will stir against them according to blow of Midian in place of affliction, and his anger in way by sea, in way toward Egypt.
 - brenton: [missing]
 
 ### Isaiah 10:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day his fear will be removed from you and his yoke from your shoulder, and yoke will be destroyed from your shoulders.
 - brenton: [missing]
 
 ### Isaiah 10:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For he will come to city Aggai and pass to Mageddo and at Michmash place his gear.
 - brenton: [missing]
 
 ### Isaiah 10:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will pass ravine and come to Aggai; fear will seize Ramah; city of Saul will flee.
 - brenton: [missing]
 
 ### Isaiah 10:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughter Gallim will hear; Laish will hear; Anathoth.
 - brenton: [missing]
 
 ### Isaiah 10:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Madmena staggered, and dwellers of Gebim, comfort yourselves.
 - brenton: [missing]
 
 ### Isaiah 10:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Today on road to remain, with hand he calls to mountain, daughter of Zion, and hills in Jerusalem.
 - brenton: [missing]
 
 ### Isaiah 10:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For look, Master Lord Sabaoth shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
 - brenton: [missing]
 
 ### Isaiah 10:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And high ones will fall by sword, and Lebanon with high ones will fall.
 - brenton: [missing]
 
 ### Isaiah 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rod will come out from root of Jesse, and flower from root will go up.
 - brenton: [missing]
 
 ### Isaiah 11:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Spirit of God will rest upon him, spirit of wisdom and understanding, spirit of counsel and strength, spirit of knowledge and piety.
 - brenton: [missing]
 
 ### Isaiah 11:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Spirit of fear of God will fill him; not according to glory will he judge, nor according to speech will he reprove.
 - brenton: [missing]
 
 ### Isaiah 11:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But he will judge humble in judgment and reprove humble of earth, and strike earth with word of his mouth, and by spirit through lips he will kill ungodly.
 - brenton: [missing]
 
 ### Isaiah 11:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And righteousness will be girded about his loins and truth wrapped round his sides.
 - brenton: [missing]
 
 ### Isaiah 11:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And wolf will graze together with lamb, and leopard will rest together with kid, and calf and bull and lion together will graze, and little child will lead them.
 - brenton: [missing]
 
 ### Isaiah 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And ox and bear will graze together, and together their young will be, and lion and ox together will eat straw.
 - brenton: [missing]
 
 ### Isaiah 11:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And infant child over hole of asps, and over bed of offspring of asps will lay hand.
 - brenton: [missing]
 
 ### Isaiah 11:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will certainly not do evil nor be able to destroy anyone upon my holy mountain, because whole world was filled to know Lord, as much water covers seas.
 - brenton: [missing]
 
 ### Isaiah 11:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, root of Jesse and one rising to rule nations; on him nations will hope, and his rest will be honor.
 - brenton: [missing]
 
 ### Isaiah 11:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, Lord will add to show his hand, to be zealous for remnant left of his people which might be left from Assyrians and Egypt and Babylonia and Ethiopia and from Elamites and from east of sun and from Arabia.
 - brenton: [missing]
 
 ### Isaiah 11:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will raise sign to nations and gather lost of Israel, and dispersed of Judah he will gather from four wings of earth.
 - brenton: [missing]
 
 ### Isaiah 11:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And zeal of Ephraim will be removed and enemies of Judah will perish; Ephraim will not be jealous of Judah and Judah will not oppress Ephraim.
 - brenton: [missing]
 
 ### Isaiah 11:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will fly in ships of foreigners, sea together they will plunder, and easterners and Idumea, and upon Moab first they will lay hands, and sons of Ammon will obey first.
 - brenton: [missing]
 
 ### Isaiah 11:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will make sea of Egypt desolate and lay his hand upon river with violent spirit and strike seven ravines, so as to pass through it in sandals.
 - brenton: [missing]
 
 ### Isaiah 11:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will be passage for my people left in Egypt, and it will be for Israel as day when he came out from land of Egypt.
 - brenton: [missing]
 
 ### Isaiah 12:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say in that day, I will bless you, Lord, because you were angry with me and turned your wrath away and pitied me.
 - brenton: [missing]
@@ -159971,405 +159971,405 @@ Note:
 
 ### Isaiah 12:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will draw water with gladness from springs of salvation.
 - brenton: [missing]
 
 ### Isaiah 12:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say in that day, sing hymn to Lord, cry his name, announce among nations his glorious things, remember that his name was exalted.
 - brenton: [missing]
 
 ### Isaiah 12:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing hymn to name of Lord, because he did high things; announce these in all earth.
 - brenton: [missing]
 
 ### Isaiah 12:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in midst of her.
 - brenton: [missing]
 
 ### Isaiah 13:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision which Isaiah son of Amoz saw against Babylon.
 - brenton: [missing]
 
 ### Isaiah 13:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift signal on plain mountain, raise voice to them, do not fear, encourage with hand, open, rulers.
 - brenton: [missing]
 
 ### Isaiah 13:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I command, and I bring them; they are sanctified, and I bring them. Giants come to fill my wrath, rejoicing together and insulting.
 - brenton: [missing]
 
 ### Isaiah 13:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of many nations on mountains, like many nations; voice of kings and nations gathered together. Lord Sabaoth has commanded warlike nation
 - brenton: [missing]
 
 ### Isaiah 13:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to come from far land, from edge of foundation of heaven, Lord and his warriors, to destroy whole inhabited world.
 - brenton: [missing]
 
 ### Isaiah 13:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Howl, for day of Lord is near, and crushing from God will come.
 - brenton: [missing]
 
 ### Isaiah 13:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this every hand will grow weak and every soul of man will lose courage.
 - brenton: [missing]
 
 ### Isaiah 13:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And envoys will be troubled, and pains will seize them as woman giving birth, and they will be confounded one at another, and will be amazed, and their faces will change as flame.
 - brenton: [missing]
 
 ### Isaiah 13:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For look, day of Lord comes, incurable, of fury and anger, to make whole inhabited world desolate and destroy sinners out of it.
 - brenton: [missing]
 
 ### Isaiah 13:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For stars of heaven and Orion and all ornament of heaven will not give light, and sun rising will be darkened, and moon will not give its light.
 - brenton: [missing]
 
 ### Isaiah 13:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will command evils upon whole inhabited world and their sins upon ungodly, and I will destroy insolence of lawless and humble insolence of proud.
 - brenton: [missing]
 
 ### Isaiah 13:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those left behind will be more precious than untried gold, and man will be more precious than stone from Suphir.
 - brenton: [missing]
 
 ### Isaiah 13:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of Lord Sabaoth in day when his anger comes.
 - brenton: [missing]
 
 ### Isaiah 13:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those left will be as fleeing gazelle and as wandering sheep, and there will be no one gathering, so that man turn back to his people and man pursue to his land.
 - brenton: [missing]
 
 ### Isaiah 13:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For whoever is caught will be defeated, and those gathered together will fall by sword.
 - brenton: [missing]
 
 ### Isaiah 13:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their children before them they will dash down, and their houses they will plunder, and their women they will have.
 - brenton: [missing]
 
 ### Isaiah 13:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look, I stir up Medes against you, who do not value silver nor have need of gold.
 - brenton: [missing]
 
 ### Isaiah 13:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their bows will crush young men, and your children they will certainly not pity, nor will their eyes spare children.
 - brenton: [missing]
 
 ### Isaiah 13:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Babylon, called glorious by king of Chaldeans, will be as when God overthrew Sodom and Gomorrah.
 - brenton: [missing]
 
 ### Isaiah 13:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will not be inhabited forever, nor shall they enter into it for many generations, nor shall Arabs pass through it, nor shepherds rest in it.
 - brenton: [missing]
 
 ### Isaiah 13:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beasts will rest there, and houses will be filled with sound, and sirens will rest there and demons will dance there.
 - brenton: [missing]
 
 ### Isaiah 13:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And donkey-centaurs will dwell there, and hedgehogs will make nests in their houses. Quickly it comes and will not delay.
 - brenton: [missing]
 
 ### Isaiah 14:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to house of Jacob.
 - brenton: [missing]
 
 ### Isaiah 14:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations will take them and bring them into their place, and they will inherit and multiply on land of God as male slaves and female slaves, and they will capture those who captured them and rule those who ruled them.
 - brenton: [missing]
 
 ### Isaiah 14:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day God will give you rest from your pain and your anger and your hard service with which you served them.
 - brenton: [missing]
 
 ### Isaiah 14:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will take up this lament over king of Babylon and say in that day: How exactor has rested, and how zealot has rested.
 - brenton: [missing]
 
 ### Isaiah 14:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God shattered yoke of sinners, yoke of rulers,
 - brenton: [missing]
 
 ### Isaiah 14:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: striking nation in wrath with incurable blow, striking nation with stroke of anger from which he did not spare.
 - brenton: [missing]
 
 ### Isaiah 14:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All earth rested confidently; it cries out with gladness.
 - brenton: [missing]
 
 ### Isaiah 14:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And trees of Lebanon rejoiced over you, and cedar of Lebanon: Since you have fallen asleep, one cutting us down did not come up.
 - brenton: [missing]
 
 ### Isaiah 14:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hades below was embittered to meet you; all giants who ruled earth were raised up for you, who roused from their thrones all kings of nations.
 - brenton: [missing]
 
 ### Isaiah 14:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All will answer and say to you, You too were taken as we were; among us you were reckoned.
 - brenton: [missing]
 
 ### Isaiah 14:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your glory came down into Hades, your much gladness; decay they will spread under you, and worm your covering.
 - brenton: [missing]
 
 ### Isaiah 14:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How morning-star fell from heaven, one rising in morning; one sent out toward all nations was crushed to earth.
 - brenton: [missing]
 
 ### Isaiah 14:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you said in your mind, I will go up into heaven, above stars of heaven I will place my throne; I will sit on high mountain, on high mountains toward north.
 - brenton: [missing]
 
 ### Isaiah 14:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will go up above clouds; I will be like Most High.
 - brenton: [missing]
 
 ### Isaiah 14:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now you will go down into Hades and into foundations of earth.
 - brenton: [missing]
 
 ### Isaiah 14:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those seeing you will marvel over you and say, This man provoking earth, shaking kings,
 - brenton: [missing]
 
 ### Isaiah 14:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: placing whole inhabited world desolate and pulling down cities, did not release those in captivity.
 - brenton: [missing]
 
 ### Isaiah 14:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All kings of nations slept in honor, each man in his own house.
 - brenton: [missing]
 
 ### Isaiah 14:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you will be cast on mountains as loathed corpse with many dead pierced by swords, going down into Hades, as garment soaked in blood will not be clean.
 - brenton: [missing]
